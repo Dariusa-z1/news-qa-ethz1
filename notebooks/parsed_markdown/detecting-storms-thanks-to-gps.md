@@ -10,7 +10,7 @@ The scale of the storm was evident the next morning - fallen trees on streets an
 
 A GPS station on the roof of the Institute of Geodesy and Photogrammetry on the Hönggerberg campus records the signals of various satellite systems around the clock. When examining the data of the night of the storm in more detail, Soja and his colleagues at the Institute couldn’t believe their eyes. “There were outages in the GPS data processing. We couldn’t understand at first what had caused them,” says Matthias Aichinger-Rosenberger, a former postdoc in Soja’s group and now a lecturer at ETH Zurich. When other stations also reported outages in the measurement of data from GPS and other satellite navigation systems for that night, the researchers started to analyse the raw data of the antenna on the Hönggerberg campus.
 
-They were able to show in the study, which was published in the specialist journal external page Geophysical Research Letters call_made , that extreme weather events influence the quality of GPS signals and that these signals are therefore also suitable for detecting storms. It could one day even be possible to use them for the early detection and forecasting of thunderstorms.
+They were able to show in the study, which was published in the specialist journal Geophysical Research Letters , that extreme weather events influence the quality of GPS signals and that these signals are therefore also suitable for detecting storms. It could one day even be possible to use them for the early detection and forecasting of thunderstorms.
 
 ## The signal-to-noise ratio dropped
 
@@ -48,5 +48,5 @@ Space geodesy is a field of geodesy that addresses the measurement and mapping o
 
 GPS is a decisive component of space geodesy. GPS satellites can be used to determine user positions on the earth with a high level of precision. This is used in many applications such as navigation, surveying and geographic information systems.
 
-Aichinger-Rosenberger M, Aregger M, Kopp J, Soja B: Detecting Signatures of Convective Storm Events in GNSS-SNR: Two Case Studies from Summer 2021 in Switzerland. Geophysical Research Letters 2023, 50. doi: external page 10.1029/2023GL104916 call_made
+Aichinger-Rosenberger M, Aregger M, Kopp J, Soja B: Detecting Signatures of Convective Storm Events in GNSS-SNR: Two Case Studies from Summer 2021 in Switzerland. Geophysical Research Letters 2023, 50. doi: 10.1029/2023GL104916
 
