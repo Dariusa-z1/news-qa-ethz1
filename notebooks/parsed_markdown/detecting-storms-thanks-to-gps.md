@@ -2,6 +2,12 @@
 
 ## In brief
 
+- A new study by researchers at ETH Zurich has shown that GPS data can be used to detect severe storm events.
+
+- They discovered that heavy rainfall and thunderstorms impact the signal-to-noise ratio.
+
+- These findings could one day not only make weather forecasts more accurate, but also support the early detection of extreme weather events.
+
 An exceptionally severe storm swept over Zurich on 13 July 2021 shortly before 2 a.m.: howling squalls, constant lightning and torrential rain woke people up with a start. Benedikt Soja, Professor of Space Geodesy, also got little sleep that night. “It was one of the most severe storms I’ve ever witnessed. I woke up in the middle of the night and could see the storm raging through the window,” he remembers.
 
 The scale of the storm was evident the next morning - fallen trees on streets and in parks, damaged rooftops and overhead tram lines pulled down in various parts of Zurich. The ground in the vicinity of the Hönggerberg campus was also strewn with branches and even entire trees. “The storm must have passed right over ETH,” says Soja.
