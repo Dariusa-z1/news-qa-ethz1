@@ -1,5 +1,7 @@
 # mm-brustkrebs-ist-nachkativ
 
+**Source:** de_news_events/2022/06/mm-brustkrebs-ist-nachkativ.html
+
 ## Menschliche Hormone steuern den Tumor
 
 Brustkrebs ist gemäss der Weltgesundheitsorganisation WHO eine der häufigsten Krebsformen: Pro Jahr erkranken weltweit rund 2,3 Millionen Personen daran. Erkennen Ärztinnen und Ärzte Brustkrebs früh genug, können sie ihn meist gut behandeln. Schwieriger wird es hingegen, wenn der Tumor bereits Ableger gebildet hat. Solche Metastasen entstehen, wenn sich zirkulierende Krebszellen aus dem ursprünglichen Tumor lösen, über die Blutgefässe durch den Körper wandern und in anderen Organen neue Tumore bilden.

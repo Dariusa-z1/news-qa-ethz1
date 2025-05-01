@@ -1,5 +1,7 @@
 # neue-sars-cov-2-variante
 
+**Source:** de_news_events/2020/10/neue-sars-cov-2-variante.html
+
 ## Ähnliches Muster wie im Frühjahr
 
 Allein in Europa sind zurzeit Hunderte Varianten des neuen Coronavirus Sars-CoV-2 im Umlauf, die sich alle durch kleine Mutationen in ihrem Erbgut voneinander unterscheiden. Nur wenige dieser Varianten haben sich derartig erfolgreich verbreitet und sind so prävalent geworden wie die neue, die die Bezeichnung 20A.EU1 erhalten hat.

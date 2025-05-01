@@ -1,5 +1,7 @@
 # neue-faqs-zum-thema-return-to-the-office-future-of-work
 
+**Source:** en_internal/2022/04/neue-faqs-zum-thema-return-to-the-office-future-of-work.html
+
 ## Further information
 
 - Flexible working
@@ -21,6 +23,4 @@ This voluntary workshop can be used by supervisors to identify individual as wel
 ## Staffnet
 
 Now you can find various FAQs about flexible working, working from home as well as mobile working on the website Flexible Working - FAQs | ETH Zürich .
-
-If you have any questions about the workshop concept, please contact the Leadership & Development department. If you have any questions about regulations and guidelines, the HR Partners (HR Consulting) will be happy to assist you.
 

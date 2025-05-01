@@ -1,5 +1,7 @@
 # eth-umweltwissenschaften-sind-weltweit-top
 
+**Source:** en_news_events/2014/02/eth-umweltwissenschaften-sind-weltweit-top.html
+
 ## Main article
 
 In a global comparison, research and teaching at ETH Zurich in the discipline of environmental sciences is in an excellent position. The QS World University Ranking by Subject, published today, ranks ETH as the world’s third best university, just after the Universities of Berkeley and Harvard and tied with the University of Cambridge. ETH Zurich is also ahead of renowned universities such as Stanford University, MIT and the University of Oxford. Environmental sciences at ETH has climbed several spots in this ranking in recent years: in 2011, it was ranked 13th; last year, it came in fifth.

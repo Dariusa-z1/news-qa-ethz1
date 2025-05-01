@@ -1,5 +1,7 @@
 # heatwaves-are-becoming-more-frequent-and-more-deadly
 
+**Source:** en_news_events/2023/08/heatwaves-are-becoming-more-frequent-and-more-deadly.html
+
 ## In brief
 
 - Heat waves with increased deaths due to dehydration, heat stroke or cardiovascular collapse are on the rise.

@@ -1,5 +1,7 @@
 # katechine-des-gruentees-foerdern-oxidativen-stress
 
+**Source:** de_news_events/2021/10/katechine-des-gruentees-foerdern-oxidativen-stress.html
+
 ## Kurzfristig höherer oxidativer Stress
 
 Grüner Tee ist seit langem als gesundheitsfördernd bekannt. Insbesondere den darin enthaltenen Katechinen namens ECG und EGCG wird eine lebensverlängernde Wirkung zugesprochen. Die beiden Substanzen gehören in die Gruppe der Polyphenole. Sie werden als Antioxidantien betrachtet, die im Körper oxidativem Stress durch aggressive Sauerstoffradikale entgegenwirken respektive vorbeugen.

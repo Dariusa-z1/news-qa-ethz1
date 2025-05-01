@@ -1,5 +1,7 @@
 # wie-wir-mit-hygienemasken-umgehen
 
+**Source:** de_internal/2020/05/wie-wir-mit-hygienemasken-umgehen.html
+
 ## Weitere Informationen
 
 Herr Sigel, muss ich eine Hygienemaske tragen, wenn ich wieder auf dem Campus arbeite? Wir empfehlen das Tragen einer Hygienemaske nur, wenn beim Arbeiten im Labor oder in der Werkstatt der Mindestabstand von zwei Metern nicht eingehalten werden kann.

@@ -1,5 +1,7 @@
 # taco-aus-matratzen-entlastet-spitaeler
 
+**Source:** de_news_events/2020/11/taco-aus-matratzen-entlastet-spitaeler.html
+
 ## Gratis ins Internet gestellt
 
 Als die erste Corona-Welle im Frühling ihren Lauf nahm, war Julian Ferchow zunächst schockiert. «Wir sahen die Bilder aus Italien, von übermüdeten Ärzten und verzweifeltem Pflegepersonal.» Dann wurde ihm klar: «Wir müssen etwas tun.» Ferchow legte seine Doktorarbeit für eine Weile zur Seite und stellte ein 20-köpfiges Team zusammen. Innerhalb von vier Wochen entwickelten sie mit virtuellen Tools das sogenannte «Wende-Taco»-System, mit dem das Pflegepersonal Corona-Intensivpatienten im Spitalbett einfacher drehen kann. Das entlastet Spitäler, die während der Pandemie mit Personalmangel zu kämpfen haben.

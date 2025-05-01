@@ -1,5 +1,7 @@
 # 3d-gedruckter-reaktorkern-macht-solare-treibstoffproduktion-effizienter
 
+**Source:** de_news_events/2023/10/3d-gedruckter-reaktorkern-macht-solare-treibstoffproduktion-effizienter.html
+
 ## In Kürze
 
 - Forscher haben eine 3D-Drucktechnik entwickelt, um keramische Strukturen mit hierarchisch geordneten Geometrien für den Solarreaktor herzustellen.

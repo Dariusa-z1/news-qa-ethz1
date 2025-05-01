@@ -1,5 +1,7 @@
 # informationen-zu-corona-regelungen-an-der-eth-bibliothek-ab-dem-3-januar-2022
 
+**Source:** de_internal/2021/12/informationen-zu-corona-regelungen-an-der-eth-bibliothek-ab-dem-3-januar-2022.html
+
 ## Standorte und Zugang
 
 - Baubibliothek inklusive Selbstlernzentrum: regulär geöffnet
@@ -54,11 +56,7 @@ In allen ETH-Gebäuden gilt die Pflicht zum Tragen einer Maske . Dies gilt auch 
 
 ## Newsletter abonnieren
 
-Nutzen Sie gerne auch weiterhin unsere digitalen Angebote und Kontaktmöglichkeiten . Verzichten Sie bitte auf einen Besuch, falls Sie Krankheitssymptome aufweisen.
-
 Fragen? Die ETH-Bibliothek hilft gerne.
-
-E-Mail: Sie können uns auch über externe Seite WhatsApp und unseren Chat kontaktieren.
 
 #MehrWissen – Die aufbereiteten Inhalte der ETH-Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter.
 

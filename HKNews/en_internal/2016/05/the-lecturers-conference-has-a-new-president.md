@@ -1,5 +1,7 @@
 # the-lecturers-conference-has-a-new-president
 
+**Source:** en_internal/2016/05/the-lecturers-conference-has-a-new-president.html
+
 ## An engineer with a flair for medicine
 
 Edoardo Mazza is the new President of the Lecturers’ Conference ( KdL ). The General Faculty Conference elected the Professor at the Institute of Mechanical Systems ( D-MAVT ) for a term of two years on 12 May 2016. Originally from Italy, Edoardo Mazza will assume the presidency of the Lecturer’s Conference on 1 August 2016.

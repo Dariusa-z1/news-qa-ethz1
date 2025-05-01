@@ -1,5 +1,7 @@
 # ab-in-die-baeume
 
+**Source:** de_news_events/2017/08/ab-in-die-baeume.html
+
 ## Blätter der gesamten Baumkrone
 
 Hilfsassistentin Eva Merz steht am Fuss einer mächtigen Buche, mitten im Wald. Zwei Kletterseile hängen aus der Krone des Baumes hinab. In schwindelerregender Höhe turnen die Baumkletterer Markus Gysin und Anja Erni gut gesichert durchs Geäst, schneiden einen Zweig ab und seilen ihn an einer dünnen Leine sorgfältig ab. Merz greift sich den Zweig, löst ihn von der Leine. «Ich bin wieder weg», ruft sie den beiden zu und eilt mit der Ernte zum «Basislager».
@@ -52,21 +54,19 @@ Bachofens bisheriges Fazit: Die Blätter enthalten auf allen Stockwerken ähnlic
 
 «Der Baum muss den Stickstoff dort einsetzen, wo es sinnvoll ist. Das ist ein ständiger Zielkonflikt», erklärt der Umweltwissenschaftler. Es hänge deshalb stark von der Überlebensstrategie der jeweiligen Baumart ab, wo innerhalb der Krone der Baum diese Investition tätige.
 
-Nach einiger Wartezeit legt Eva Merz ihre Lektüre beiseite. Die Photosynthese-Messungen brauchen viel Zeit, mindestens 20 Minuten pro Blatt. Zeit, die sie mit Lesen überbrückt. Es knistert im Funkgerät, die Baumkletterer nehmen mit ihr Kontakt auf. Der Wortwechsel ist kurz. Merz steht auf und verschwindet hinter der Wegbiegung – kaum zwei Minuten später taucht sie mit dem nächsten Buchenzweig auf. Das Messprozedere wiederholt sich. Fliessbandarbeit für die junge Forscherin.
-
 Sind die Blätter im Photosynthese-Messgerät eingespannt, heisst es wieder: Warten, dreiviertel Stunden, bis sie die nächsten Blätter bei den Baumkletterern abholen kann. «Unsere Waldtage können dann ganz schön lang werden», sagt Bachofen. «Denn am Ende des Tages, wenn wir bereits die meisten Geräte geputzt und verstaut haben, müssen wir noch warten, bis die letzten Messungen abgeschlossen sind.»
 
-## Sommerserie
-
 Im Rahmen einer Serie präsentiert ETH-News während der Ferienzeit Beiträge zu Forschung und Innovation, welche etwas mit der schönsten Zeit des Jahres zu tun haben.
+
+## Sommerserie
 
 18.07. «Den Urlaub nicht als Glücksmoment belasten»
 
 21.07. «Asphalt hat einen gewichtigen Nachteil»
 
-## Laubwaldforschung an der Scientifica 2017
-
 26.07. Kühlvorhang statt Klimaanlage
+
+## Laubwaldforschung an der Scientifica 2017
 
 16.08. Online gegen invasive Pflanzen
 

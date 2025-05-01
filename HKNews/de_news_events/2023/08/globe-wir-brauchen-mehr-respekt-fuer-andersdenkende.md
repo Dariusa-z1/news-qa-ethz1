@@ -1,5 +1,7 @@
 # globe-wir-brauchen-mehr-respekt-fuer-andersdenkende
 
+**Source:** de_news_events/2023/08/globe-wir-brauchen-mehr-respekt-fuer-andersdenkende.html
+
 ## Scientifica 2023
 
 - Konflikte in Freundschaften und in der Familie bewältigen. externe SeiteScience Café. Psychologisches Institut, UZHcall\_made.
@@ -20,9 +22,9 @@ Mazouz: Genau, es gibt beide Prozesse: eine Fragmentierung in verschiedene Nisch
 
 Das müssen Sie jetzt erklären: Eigentlich sollte die Gesellschaft doch komplexer werden mit mehr Zersplitterung. Mazouz: Individuen sind Teil verschiedener Gruppen, und diese Gruppen sind tendenziell immer mehr deckungsgleich und damit homogener. Wenn aber gewisse Lebensformen zuverlässig mit politischen Haltungen einhergehen, dann verarmt unsere Gesellschaft und damit der demokratische Diskurs.
 
-## Zu den Personen
-
 Stadtfeld: Wir können von Portfolios an Identitäten, Ideen und Lebensstilen sprechen. Als Soziologe fällt mir auf, dass bestimmte Portfolios sich durchsetzen. Dazwischen gibt es immer weniger: Die linksliberale Person mit konservativem Familienbild ist etwa eine Kombination, die es in der Mitte so immer seltener gibt. Kurz: Lebensstile werden immer homogener und politischer.
+
+## Zu den Personen
 
 Können Sie uns ein Beispiel geben? Stadtfeld: Eine Studie aus den USA hat etwa gezeigt, dass man ziemlich genau verorten kann, wo Menschen politisch stehen, wenn man – vereinfacht gesagt – betrachtet, ob sie ihren Kaffee schwarz im Kännchen oder als Flat White to go trinken. Im zweiten Falle würde die Person mit sehr grosser Wahrscheinlichkeit ihre Stimme den Demokraten geben.
 
@@ -34,11 +36,11 @@ Zerbröselnde Mitte. Stärkere Fragmentierung. Eine Politisierung von Lebensstil
 
 Mazouz: Eine Gesellschaft ist dann stabil, wenn sie kooperativ ist. Und das ist sie, wenn es ein minimales Verständnis darüber gibt, wie wir zusammenleben wollen. Das Problem bei der Fragmentierung und emotionalen Polarisierung ist, dass sich immer mehr Menschen nicht mehr einig sind über die grundlegenden Bedingungen dieses Zusammenlebens. Dazu gehört etwa gegenseitiger Respekt.
 
-## «Globe» Was die Welt zusammenhält
-
 Dieses grundlegende Verständnis scheint auch in der Politik bisweilen zu fehlen. Stadtfeld: Es gibt natürlich viele Akteure, die ein Interesse an gespaltenen Gesellschaften haben – etwa Parteien an den Rändern.
 
 Mazouz: Genau, es sind diejenigen, die den gegenseitigen Respekt, der ohnehin schon erodiert, weiter untergraben oder dies wollen. Aber Demokratie setzt voraus, dass wir uns gegenseitig als Freie und Gleiche sehen und nicht als Feinde. Der aktuelle Zustand bereitet mir daher grosse Sorgen.
+
+## «Globe» Was die Welt zusammenhält
 
 Respekt ist das eine. Aber in Zeiten von alternativen Fakten kann man sich ja nicht einmal mehr auf dieselbe Diskussionsgrundlage einigen. Mazouz: Wir erleben gerade, wie die Grundidee der Aufklärung, nämlich sich des eigenen Verstandes zu bedienen, zur Farce wird. Immer mehr Menschen informieren sich vor allem auf Plattformen, die klassische epistemische Autoritäten wie die Wissenschaft grundsätzlich in Frage stellen.
 
@@ -51,4 +53,6 @@ Mazouz: Auch eine Portion Selbstkritik würde uns guttun: Als kosmopolitisch Den
 Nadia Mazouz ist Professorin für praktische Philosophie am Departement Geistes-, Sozial- und Staatswissenschaften der ETH Zürich.
 
 Christoph Stadtfeld ist Professor für soziale Netzwerke am Departement Geistes-, Sozial- und Staatswissenschaften der ETH Zürich.
+
+Ganze Ausgabe lesen (PDF, 4.8 MB)
 

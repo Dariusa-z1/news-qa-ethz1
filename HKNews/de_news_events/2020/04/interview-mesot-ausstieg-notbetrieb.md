@@ -1,5 +1,7 @@
 # interview-mesot-ausstieg-notbetrieb
 
+**Source:** de_news_events/2020/04/interview-mesot-ausstieg-notbetrieb.html
+
 ## Main article
 
 Herr Mesot, wie nehmen Sie die Stimmung der ETH-Angehörigen nach fünf Wochen Lockdown wahr? Natürlich habe ich die Unsicherheit und auch die Frustration gespürt, die der Notbetrieb zunächst mit sich brachte. Doch mich hat enorm gefreut und beeindruckt, mit wie viel Kreativität, spontanem Engagement und Teamgeist die ETH-Angehörigen die Herausforderung Coronavirus angenommen haben. So haben wir die Lehre ja praktisch über Nacht ins Netz verlagert und aus dem Stand wurde eine Fülle von Projekten lanciert, um bei der Lösung der Coronakrise zu helfen. Auch die Verwaltungsprozesse funktionieren trotz allem ausgezeichnet.

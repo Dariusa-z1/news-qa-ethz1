@@ -1,5 +1,7 @@
 # looking-back-at-2021
 
+**Source:** en_news_events/2021/12/looking-back-at-2021.html
+
 ## January
 
 What happened in the winter of 1959 at Russia’s Dyatlov Pass will never be completely clarified. However, scientists at ETH Zurich and EPFL have found a new explanation for the mysterious accident that claimed the lives of nine cross-country skiers. Strong downhill winds possibly deposited so much snow above the campsite that it triggered an avalanche, burying the bivouac and four expedition members under it. The others froze to death.

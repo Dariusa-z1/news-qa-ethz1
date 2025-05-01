@@ -1,5 +1,7 @@
 # How-to-go-Open-Access
 
+**Source:** en_internal/2022/05/How-to-go-Open-Access.html
+
 ## Main article
 
 Learn about all the important key points regarding open-access publishing, publishing contracts, author’s rights and publishing licenses and what new funding opportunities ETH Zurich offers in 2022. Open-access requirements of research funding bodies and how you can meet them will also be a topic of the online course. In addition, we are supplementing the online course this time with an in-depth look at the topic of cumulative dissertations.

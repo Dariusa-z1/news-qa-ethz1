@@ -1,5 +1,7 @@
 # vier-eth-forschende-ausgezeichnet
 
+**Source:** de_news_events/2014/01/vier-eth-forschende-ausgezeichnet.html
+
 ## Klimaextreme vorhersagen und neue Internet-Architektur bauen
 
 Der Europäische Forschungsrat vergab zum ersten Mal den ERC Consolidator Grant (siehe Kasten). 312 Forschende in ganz Europa erhalten umgerechnet rund 700 Millionen Schweizer Franken. 22 der Consolidator Grants gehen in die Schweiz; die ETH Zürich hat mit vier Grants am meisten der Auszeichnungen unter den Schweizer Universitäten erhalten.
@@ -17,6 +19,4 @@ Der Informatik-Professor Adrian Perrig möchte mit den EU-Fördergeldern seine F
 Besonders auffällig bei dieser ersten Vergabe der Consolidator Grants ist die hohe Erfolgsrate der ETH Zürich von 25 Prozent. Diese ist umso beeindruckender, wenn man bedenkt, dass europaweit von den rund 3600 eingereichten Projekten nur 312 - also ungefähr neun Prozent – ausgezeichnet wurden. Von den 16 ETH-Projekten wurden auf Anhieb vier bewilligt. Damit knüpft die Hochschule an ihre gute Erfolgsbilanz bei den anderen beiden ERC-Grants – den Starting Grants und vor allem den Advanced Grants – an. Seit 2007 flossen durch diese beiden Fördersysteme rund 190 Millionen Schweizer Franken in Projekte, die von Forschenden der ETH Zürich eingereicht wurden.
 
 Der Europäische Forschungsrat ( externe Seite ERC ) kennt verschiedene Förderprogramme. Neben dem ERC Starting Grant für talentierte Jungforscher und dem ERC Advanced Grant für etablierte Spitzenforscher lancierte er neu den ERC Consolidator Grant, der bis dahin in den Starting Grant integriert war, als eigenständige Förderkategorie. Dieser Grant soll Nachwuchsforschende unterstützen, die sieben bis zwölf Jahre Erfahrung nach Abschluss der Promotion mitbringen, eine vielversprechende Erfolgsbilanz vorweisen können und die Arbeit ihrer bereits erfolgreichen Forschergruppe konsolidieren wollen. Die Projekte werden aufgrund ihrer wissenschaftlichen Exzellenz ausgewählt und mit rund 2,5 Millionen Schweizer Franken über fünf Jahre hinweg gefördert. Der ERC hat den neuen Grant nach eigenen Angaben eingeführt, weil es in Europa derzeit keine ausreichenden Gelegenheiten für junge Forscher gebe, ihre Laufbahn unabhängig zu entwickeln.
-
-ETH Zürich Medienstelle Tel. +41 44 632 41 41
 

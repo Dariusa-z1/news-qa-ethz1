@@ -1,5 +1,7 @@
 # veggie-week-at-eth
 
+**Source:** en_internal/2022/09/veggie-week-at-eth.html
+
 ## Spotlight on sustainability
 
 - 2 Grad Bistro

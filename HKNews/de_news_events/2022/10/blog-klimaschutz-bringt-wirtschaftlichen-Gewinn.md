@@ -1,5 +1,7 @@
 # blog-klimaschutz-bringt-wirtschaftlichen-Gewinn
 
+**Source:** de_news_events/2022/10/blog-klimaschutz-bringt-wirtschaftlichen-Gewinn.html
+
 ## Main article
 
 Anthony Patt ist Professor für Klimaschutz und -anpassung an der ETH Zürich.

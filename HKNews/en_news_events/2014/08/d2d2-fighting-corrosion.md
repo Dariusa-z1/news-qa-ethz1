@@ -1,5 +1,7 @@
 # d2d2-fighting-corrosion
 
+**Source:** en_news_events/2014/08/d2d2-fighting-corrosion.html
+
 ## Corrosion jeopardises Swiss infrastructure
 
 We rely on Switzerland’s 3,500 motorway bridges – plus thousands more on cantonal roads – to carry us safely across valleys, streams, rivers and other roads. Most of these bridges have two factors in common: they are essential to Switzerland’s transport infrastructure and they are made of reinforced concrete. This material makes them safe and durable – until the onset of corrosion.

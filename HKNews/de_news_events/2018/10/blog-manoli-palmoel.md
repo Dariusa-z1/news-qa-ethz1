@@ -1,5 +1,7 @@
 # blog-manoli-palmoel
 
+**Source:** de_news_events/2018/10/blog-manoli-palmoel.html
+
 ## Spitzenplatz in Produktivität
 
 Über Palmöl wird heftig debattiert. Die massive Expansion der Ölpalme in den Tropen trägt zweifelsohne dazu bei, die Armut zu lindern – die Palmölproduktion steht aber auch für Abholzung, CO 2 -Emissionen und einen wesentlichen Rückgang der Artenvielfalt. Es drängen sich die Fragen auf: Sind Alternativen zu Palmöl nachhaltiger? Können wir die weltweit boomende Nachfrage nach pflanzlichem Öl mit Ersatzprodukten befriedigen und gleichzeitig Land- und Wasserressourcen schonen?

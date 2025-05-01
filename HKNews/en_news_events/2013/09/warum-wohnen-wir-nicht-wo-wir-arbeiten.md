@@ -1,5 +1,7 @@
 # warum-wohnen-wir-nicht-wo-wir-arbeiten
 
+**Source:** en_news_events/2013/09/warum-wohnen-wir-nicht-wo-wir-arbeiten.html
+
 ## Die Arbeitersiedlung als Vorbild?
 
 Ich selber fahre ebenfalls mit dem Tram an die ETH und komme meist rechtzeitig, um zu beobachten, wie sich die Leute im Haus gegenüber zur Arbeit aufmachen. Warum arbeiten wir dort, wo andere wohnen – und arbeiten nicht dort, wo wir auch wohnen?

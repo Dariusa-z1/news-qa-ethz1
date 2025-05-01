@@ -1,5 +1,7 @@
 # der-verlierer-ist-die-gesamte-schweiz
 
+**Source:** de_news_events/2021/10/der-verlierer-ist-die-gesamte-schweiz.html
+
 ## Nicht mehr mit den Besten messen
 
 Als der Bundesrat am 26. Mai vor die Medienschaffenden tritt, um den Abbruch der Verhandlungen über ein Rahmenabkommen mit der Europäischen Union zu verkünden, stellen sich Sofia Karakostas und Agatha Keller auf intensive Monate ein. Die beiden leiten das von der ETH Zürich und der Universität Zürich gemeinsam betriebene Büro für internationale Fördermöglichkeiten – kurz EU GrantsAccess. Karakostas und Keller unterstützen Forschende dabei, Drittmittel aus internationalen Töpfen einzuwerben. Und beim weltweit grössten und wichtigsten Fördertopf, dem «Horizon Europe»-Programm der Europäischen Union, droht der Schweiz nach dem Entscheid des Bundesrats das Aus. Auf dem Spiel stehen neben zig Millionen an Fördergeldern nichts weniger als der Einfluss auf die inhaltliche Ausrichtung der europäischen Forschung und die Attraktivität der Schweizer Hochschulen.
@@ -35,4 +37,6 @@ Die Nichtassoziierung der Schweiz gefährdet Günther zufolge auf Dauer nicht nu
 Ähnlich wie 2014, als sich die Schweiz und die EU nach einigen Monaten auf eine Teilassoziierung einigten, liegt der Ball nun bei der Politik. Bis eine politische Lösung vorliegt, werden Sofia Karakostas, Agatha Keller und ihr Team des EU GrantsAccess wohl weiterhin mit zahlreichen Anfragen konfrontiert sein. Doch eines ist sicher: Wenn die Politik die richtigen Weichen stellt, werden die Forschenden gerüstet sein, sich erneut mit den klügsten Köpfen Europas zu messen
 
 Dieser Beitrag stammt aus der aktuellen Ausgabe des ETH-​Magazins «life» .
+
+Aktuelle Ausgabe von «life» herunterladen (PDF, 5.5 MB)
 

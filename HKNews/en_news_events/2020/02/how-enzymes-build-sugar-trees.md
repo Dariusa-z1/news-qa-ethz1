@@ -1,5 +1,7 @@
 # how-enzymes-build-sugar-trees
 
+**Source:** en_news_events/2020/02/how-enzymes-build-sugar-trees.html
+
 ## Modular protein architecture
 
 Many of the membrane proteins in eukaryotic cells are decorated with complex sugar trees called glycans. In addition to being extremely diverse, these sugar trees serve as a way to identify the respective organism, a cell type or its stage of maturity. For instance, the various blood groups in humans feature different glycans.

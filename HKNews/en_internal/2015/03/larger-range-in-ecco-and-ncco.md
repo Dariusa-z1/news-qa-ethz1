@@ -1,5 +1,7 @@
 # larger-range-in-ecco-and-ncco
 
+**Source:** en_internal/2015/03/larger-range-in-ecco-and-ncco.html
+
 ## Main article
 
 ECCO (Eighteenth Century Collections Online) provides a glimpse into the knowledge of the English-speaking world during the 18th century. ETH-Bibliothek acquired the collection Science, Technology and Medicine, which includes around 60,000 titles.

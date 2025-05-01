@@ -1,5 +1,7 @@
 # resistenz-gegen-maniok-mosaikkrankheit
 
+**Source:** de_news_events/2022/07/resistenz-gegen-maniok-mosaikkrankheit.html
+
 ## Forschungskonsortium entdeckt Resistenzgen
 
 Maniok (oder Cassava) ist für fast eine Milliarde Menschen ein Grundnahrungsmittel und eine wichtige Rohstoffquelle. Insbesondere in Afrika sichert diese Nutzpflanze Kleinbauern ein Einkommen. Maniok ist genügsam, er braucht kaum Dünger und wächst auch in Trockengebieten.

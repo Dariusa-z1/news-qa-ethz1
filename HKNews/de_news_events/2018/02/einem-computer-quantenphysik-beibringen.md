@@ -1,5 +1,7 @@
 # einem-computer-quantenphysik-beibringen
 
+**Source:** de_news_events/2018/02/einem-computer-quantenphysik-beibringen.html
+
 ## Quantenphysik und Handschriften
 
 Physikstudenten verbringen viele Jahre damit, die oft absurd erscheinenden Gesetze und Effekte der Quantenmechanik zu beherrschen. Der Quantenzustand eines physikalischen Systems kann, zum Beispiel, so lange unbestimmt sein, bis man ihn misst, und eine Messung an einem Teil des Systems kann den Zustand eines weit entfernten Teils beeinflussen, ohne dass zwischen den beiden Informationen ausgetauscht werden.

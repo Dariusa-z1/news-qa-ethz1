@@ -1,5 +1,7 @@
 # opening-dfab-house
 
+**Source:** en_news_events/2019/02/opening-dfab-house.html
+
 ## From laboratory to architectural application
 
 A delicate concrete ceiling – cast in 3D-printed formwork – and a curved concrete wall created by a construction robot characterize the architecture of the living room, whose aesthetics are remotely reminiscent of the film sets of the Swiss artist HR Giger (the creator of "Alien"). Upon saying a specific command, the blinds open as if by magic and the kettle prepares water for tea. What sounds like a science fiction film is reality in Dübendorf: today, the smart and largely digitally planned and built DFAB HOUSE opens its doors.
@@ -23,8 +25,4 @@ However, DFAB HOUSE is smart not only in terms of home electronics, but also in 
 Two start-up ideas, accompanied by researchers from Empa and Eawag, are helping to save additional energy: On the one hand, heat from waste water, which would otherwise be lost, is recovered directly in the shower trays via heat exchangers, and on the other hand hot water flows from the pipes back into the boiler when not in use instead of cooling in the water pipes. This method not only saves energy and water, but also reduces the risk of bacteria growing in the pipes.
 
 The sixth unit in the NEST research and innovation building is a good example of how cooperation between researchers and industry can produce forward-looking solutions. "In implementing a construction project like DFAB HOUSE, traditional construction methods meet new concepts of the digital world. The path from the digital drawing board to an actual building has challenged both scientists and experts from industry. Through a constructive dialog, something truly visionary can now be put into practice; hopefully it will soon be used broadly in the construction industry," says Empa CEO Gian-Luca Bona.
-
-ETH Zurich Vanessa Bleich Media relations Phone: +41 44 632 41 41
-
-ETH Zurich Prof. Matthias Kohler Chair of Architecture and Digital Fabrication Phone: +41 44 633 49 06
 

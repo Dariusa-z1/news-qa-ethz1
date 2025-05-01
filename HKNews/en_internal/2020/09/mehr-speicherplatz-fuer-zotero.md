@@ -1,5 +1,7 @@
 # mehr-speicherplatz-fuer-zotero
 
+**Source:** en_internal/2020/09/mehr-speicherplatz-fuer-zotero.html
+
 ## Newly licensed for you: Zotero Institution
 
 Do you have a chaotic mess of PDFs, all saved in different places? Did you forget the name of that red book that you borrowed recently? Then you need reference management software. This software makes it easier to compile and organise PDFs and references. ETH provides access to various reference management software programmes, and the ETH Library offers advice and training when it comes to choosing the right software for you and using it to manage your references.

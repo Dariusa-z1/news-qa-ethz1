@@ -1,5 +1,7 @@
 # das-gedaechtnis-der-eth-zuerich
 
+**Source:** de_internal/2019/11/das-gedaechtnis-der-eth-zuerich.html
+
 ## Main article
 
 Sie möchten die Geschichte der ETH erforschen oder das Leben und Wirken bedeutender Wissenschaftler wie die Nobelpreisträger Albert Einstein oder Vladimir Prelog? Dann sind Sie im Hochschularchiv der ETH Zürich an der richtigen Stelle.

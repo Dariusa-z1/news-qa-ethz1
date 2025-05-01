@@ -1,5 +1,7 @@
 # gesucht-ideen-fuer-werbeartikel-mit-mehrwert
 
+**Source:** de_internal/2019/02/gesucht-ideen-fuer-werbeartikel-mit-mehrwert.html
+
 ## Main article
 
 Gesucht sind Ideen sowohl für käuflich zu erwerbende Produkte als auch für Give-Aways, die im Rahmen von Kursen, Anlässen oder ETH-Aktionen (z. B. Ersti-Bag) verteilt werden.

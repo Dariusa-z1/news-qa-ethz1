@@ -1,5 +1,7 @@
 # implantierbare-schlankmacher
 
+**Source:** de_news_events/2013/11/implantierbare-schlankmacher.html
+
 ## Genetischer Regelkreis überwacht Blutfett
 
 Die Menschheit hat ein Gewichtsproblem, nicht nur in den Industrienationen: Mit dem wachsenden Wohlstand in vielen asiatischen oder lateinamerikanischen Ländern geht ein Lebenswandel einher, der im wahrsten Sinn des Wortes schwerwiegende Folgen hat. In vielen Industrieländern ist laut WHO über die Hälfte der Menschen übergewichtig, jeder Dritte stark. Übergewichtige Menschen haben ein erhöhtes Risiko, Diabetes Typ 2 oder Herz-Kreislauf-Erkrankungen zu erleiden. Letztere sind die häufigste Todesursache in westlichen Industrienationen. Die Spuren kalorien- und fettreicher Nahrung lassen sich nicht nur an Hüften, Po und Bauch ablesen, sondern auch im Blut, wo verschiedene Fette, die über die Nahrung aufgenommen werden, zirkulieren. Erhöhte Blutfettwerte wiederum gelten als Risikofaktor für Herzinfarkt und Schlaganfall.
@@ -23,6 +25,4 @@ Ein grosser Vorteil des neuen synthetischen Regelkreises ist, dass er nicht nur 
 Dieses Gen-Netzwerk ist eines der komplexesten, das Fussenegger und seine Gruppe bisher konstruiert haben. Möglich war dies dank der jahrelangen Erfahrung, die der Biotechnologe auf diesem Gebiet hat. Erst einmal ist es ihm und seinen Mitarbeitern gelungen, einen solch komplexen Rückkopplungs-Regelkreis zu konstruieren: Vor einigen Jahren stellten sie ein Implantat her, das ebenfalls über einen Rückkopplungs-Regelkreis gegen Gicht eingesetzt werden kann.
 
 Rössger K, Charpin-El-Hamri G, Fussenegger M. A closed-loop synthetic gene circuit for the treatment of diet-induced obesity in mice. Nature Communications, published online 26th November 2013. DOI: externe Seite 10.1038/ncomms3825
-
-ETH Zürich Prof. Martin Fussenegger Departement für Biosysteme Tel. +41 61 387 31 60 ETH Zürich Medienstelle Tel. +41 44 632 41 41
 

@@ -1,5 +1,7 @@
 # pilzgift-schuetzt-vor-fadenwuermern
 
+**Source:** de_news_events/2014/05/pilzgift-schuetzt-vor-fadenwuermern.html
+
 ## Toxisches Protein tötet Darmzellen ab
 
 Die meisten landlebenden Pflanzen gehen mit Pilzen Lebensgemeinschaften ein. Davon profitieren beide: Der Pilz, der Würzelchen der Wirtspflanze mit einem dichten Filz umhüllt, beschafft der Pflanze Spurenelemente und Wasser. Die Pflanze ihrerseits versorgt den Pilz mit Zuckern und anderen Stoffwechselprodukten, die dieser nicht selbst herstellen kann.

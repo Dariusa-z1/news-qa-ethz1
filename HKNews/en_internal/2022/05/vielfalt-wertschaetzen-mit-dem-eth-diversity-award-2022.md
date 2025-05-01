@@ -1,5 +1,7 @@
 # vielfalt-wertschaetzen-mit-dem-eth-diversity-award-2022
 
+**Source:** en_internal/2022/05/vielfalt-wertschaetzen-mit-dem-eth-diversity-award-2022.html
+
 ## Main article
 
 The main values of ETH include responsibility, openness, diversity, team spirit, and excellence. Across the ETH domain, students, staff, and faculty are working in many ways to promote diversity and inclusion. You may be surprised how much is happening to promote diversity across ETH from the grass-roots to administrative levels (e.g. Respect Month activities ). The 2022 ETH Diversity award was established to celebrate the service of our community members for their work to promote inclusion and diversity.

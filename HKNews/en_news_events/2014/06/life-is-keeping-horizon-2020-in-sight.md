@@ -1,5 +1,7 @@
 # life-is-keeping-horizon-2020-in-sight
 
+**Source:** en_news_events/2014/06/life-is-keeping-horizon-2020-in-sight.html
+
 ## Research in international teams
 
 Since Switzerland voted to curb immigration in February, it has been classed as a third country rather than an associated country in relation to Erasmus+ and Horizon 2020. Moreover, talks with the EU on what will happen next to the links between Swiss research and Europe are currently suspended.
@@ -7,8 +9,6 @@ Since Switzerland voted to curb immigration in February, it has been classed as 
 “The priority is to ensure that, if possible, Switzerland reestablishes its association as soon as possible and that our researchers are included in the European Research Council’s evaluations,” says ETH President Ralph Eichler.
 
 Until then, he welcomes the interim solutions and the temporary backup measures proposed by the Federal Council and the Swiss National Science Foundation, because his “main concern is the unclear situation for students and researchers”.
-
-In order to expound the importance of the international programmes and the university’s need for foreign students and highly qualified researchers, the Executive Board and other ETH members are keeping close contact with federal authorities, Parliament and the “FUTURE Network” team of politicians as well. They speak up for the scientific community in Parliament. life is introducing the coordinator of the “FUTURE Network”, Petra Studer.
 
 ## Strong women in chemistry
 

@@ -1,5 +1,7 @@
 # dominique-gisin-on-sports-and-life
 
+**Source:** en_news_events/2018/01/dominique-gisin-on-sports-and-life.html
+
 ## Sports – the best school of life
 
 “Movement is important not just for your body, but also for your brain and soul,” says Dominique Gisin, a former Olympian and Alpine ski racer. In a panel discussion during the Sports for Development Forum hosted at ETH Zurich earlier this week, Gisin, who now studies physics at the ETH, contributed to the discussion on how sports shapes individual development and serves as a platform to shape the lives of others. Also speaking in the Forum, Adolf Ogi, former advisor to the UN Secretary General for Sports in the Service of Development and Peace, emphasized how sports offered some of the best lessons in life: “In sport you learn to win without thinking you’re the best and in sport you learn to lose without thinking that it is the end.”

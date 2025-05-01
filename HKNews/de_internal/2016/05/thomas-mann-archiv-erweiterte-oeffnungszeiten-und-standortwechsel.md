@@ -1,5 +1,7 @@
 # thomas-mann-archiv-erweiterte-oeffnungszeiten-und-standortwechsel
 
+**Source:** de_internal/2016/05/thomas-mann-archiv-erweiterte-oeffnungszeiten-und-standortwechsel.html
+
 ## Main article
 
 Ab Montag, 11. Juli sind Archiv, Bibliothek und das letzte Arbeitszimmer Thomas Manns am neuen Standort mit erweiterten Öffnungszeiten zugänglich: Montag bis Freitag 10 bis 17 Uhr.

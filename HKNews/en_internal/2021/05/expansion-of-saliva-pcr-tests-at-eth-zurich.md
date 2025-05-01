@@ -1,5 +1,7 @@
 # expansion-of-saliva-pcr-tests-at-eth-zurich
 
+**Source:** en_internal/2021/05/expansion-of-saliva-pcr-tests-at-eth-zurich.html
+
 ## More flexible appointments
 
 As announced on the launch of the saliva PCR tests at ETH, a second test station went into operation on the Hönggerberg at the beginning of May. A Selecta machine that dispenses test kits is now available in the entrance area of the HIL building, together with another machine where samples can be deposited the next day.

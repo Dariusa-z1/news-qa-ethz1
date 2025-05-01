@@ -1,5 +1,7 @@
 # looking-deep-into-the-universe
 
+**Source:** en_news_events/2021/05/looking-deep-into-the-universe.html
+
 ## Key element: hydrogen
 
 “It’s an exciting project,” says Alexandre Refregier, Professor of Physics at ETH Zurich, as he considers the futuristic-looking visualisation from South Africa. The image shows a scene in the middle of the Karoo semidesert, far away from larger settlements, with rows upon rows of more than 1,000 parabolic reflectors all directed towards the same point. At first glance, one might assume this is a solar power station, but it’s actually a large radio telescope that over the coming years should provide cosmologists with new insights into the makeup and history of our universe.

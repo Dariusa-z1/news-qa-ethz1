@@ -1,5 +1,7 @@
 # dokumentenlieferdienst-der-eth-bibliothek-ist-zulaessig
 
+**Source:** de_news_events/2014/12/dokumentenlieferdienst-der-eth-bibliothek-ist-zulaessig.html
+
 ## Handelsgericht folgte Argumentation der Kläger
 
 Die Beschaffung und Bereitstellung von Informationen aller Art sowie deren Erschliessung und kundengerechte Präsentation gehört traditionell zum Kerngeschäft jeder wissenschaftlichen Bibliothek. Zu diesen Aufgaben gehört auch der Versand von Kopien und Scans wissenschaftlicher Aufsätze.
@@ -17,8 +19,4 @@ Mit Urteil vom 7. April 2014 ist das Handelsgericht Zürich der Argumentation de
 Am 28. November 2014 ist nun die Entscheidung des Bundesgerichtes ergangen, und die ETH Zürich hat in allen Punkten einen Erfolg erzielt. Das vorhergehende Urteil wurde in allen Punkten aufgehoben und die Klage der genannten Verlage in allen Punkten abgewiesen. Somit wird es auch in Zukunft möglich sein, Aufsatzkopien an interessierte Nutzerinnen und Nutzer innerhalb der Schweiz zu versenden und auf diese Weise die Wissenschaftslandschaft aktiv zu unterstützen.
 
 Somit lässt sich an dieser Stelle festhalten, dass im vorliegenden Fall die Interessen von Wissenschaft, Forschung und Lehre gegenüber den kommerziellen Interessen einiger Verlage die Oberhand behalten haben. Die Standhaftigkeit der ETH Zürich hat auf diese Weise einen nicht unbedeutenden Beitrag zur Sicherung des Wissenschaftsstandortes Schweiz beigetragen.
-
-ETH Zürich Medienstelle Telefon: +41 44 632 41 41
-
-ETH Zürich Dr. Wolfram Neubauer Direktor ETH-Bibliothek Telefon: +41 44 385 79 30
 

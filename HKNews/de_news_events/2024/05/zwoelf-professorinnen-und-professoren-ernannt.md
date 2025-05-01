@@ -1,5 +1,7 @@
 # zwoelf-professorinnen-und-professoren-ernannt
 
+**Source:** de_news_events/2024/05/zwoelf-professorinnen-und-professoren-ernannt.html
+
 ## Neuernennungen ETH Zürich
 
 (Foto: WSS, Oliver Lang Fotografie)

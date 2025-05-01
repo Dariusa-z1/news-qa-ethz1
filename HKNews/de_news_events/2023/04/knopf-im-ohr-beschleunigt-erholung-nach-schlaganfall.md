@@ -1,5 +1,7 @@
 # knopf-im-ohr-beschleunigt-erholung-nach-schlaganfall
 
+**Source:** de_news_events/2023/04/knopf-im-ohr-beschleunigt-erholung-nach-schlaganfall.html
+
 ## Das Wichtigste in Kürze
 
 - Ein Stöpsel im Ohr stimuliert durch elektrische Reize den Vagusnerv im Ohr.

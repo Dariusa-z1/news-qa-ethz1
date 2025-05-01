@@ -1,5 +1,7 @@
 # leuchtende-sonne
 
+**Source:** de_news_events/2018/07/leuchtende-sonne.html
+
 ## Einschlüsse verraten Geschichte
 
 Im Institut für Geochemie und Petrologie an der ETH Zürich steht ein Gerät, das winzige Spuren bestimmter Edelgase nachweisen kann. «Dieses Massenspektrometer wurde hier gebaut und ist bei Helium- und Neonmessungen um einen Faktor 100 empfindlicher als jedes kommerzielle Gerät», erklärt Henner Busemann, wissenschaftlicher Mitarbeiter am Departement Erdwissenschaften und Mitglied des Nationalen Forschungsschwerpunkts PlanetS. Weil das Instrument früher aus technischen Gründen an der Decke hing, erhielt es den Namen «Tom Dooley» – in Anlehnung an den vermeintlichen Mörder, der im 19. Jahrhundert in den USA gehängt und in einem Folksong verewigt wurde.

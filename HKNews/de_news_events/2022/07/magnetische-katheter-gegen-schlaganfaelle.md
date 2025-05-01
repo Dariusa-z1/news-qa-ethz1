@@ -1,5 +1,7 @@
 # magnetische-katheter-gegen-schlaganfaelle
 
+**Source:** de_news_events/2022/07/magnetische-katheter-gegen-schlaganfaelle.html
+
 ## Präzise und schnell ins Gehirn
 
 Schlaganfälle sind weltweit die zweithäufigste Todesursache und der zweithäufigste Grund für eine langfristige Behinderung. Einer von vier Erwachsenen über 25 Jahren ist im Laufe seines Lebens davon betroffen. Lässt sich ein Blutgerinnsel im Gehirn nicht durch Medikamente entfernen, müssen Betroffene notfallmässig operiert werden. Dabei führt die Chirurgin oder der Chirurg einen Katheter von einer Arterie aus am Herz vorbei bis ins Gehirn, um die Durchblutungsstörung zu beheben.

@@ -1,10 +1,10 @@
 # eth-spin-off-fixposition
 
+**Source:** de_news_events/2018/11/eth-spin-off-fixposition.html
+
 ## Milliardenmarkt Drohnen
 
 Shanghai, Peking, Shenzhen, Hong Kong und schliesslich Tianjin, wo der asiatische Bruder des World Economic Forum stattfand: Lukas Meier und Zhenzhong Su haben im September eine zweiwöchige Ochsentour durch China hinter sich gebracht. Das Spin-off Fixposition der beiden ETH-Abgänger wurde für das zehn Startups umfassende Schweizer Startup-Nationalteam ausgewählt und durfte die von der Jungunternehmen-Förderorganisation Venture Lab organisierte Reise nach China antreten.
-
-«Das half, um erste Kontakte zu Investoren zu knüpfen», erzählt Meier. Allerdings sei es sein Mitgründer Su gewesen, der das meiste geregelt habe. «Es kam vor, dass wir uns eine halbe Stunde lang mit Interessenten auf Englisch unterhielten. Am Ende wechselte er auf Chinesisch und innerhalb von Sekunden war allen alles klar.» Beide müssen lachen, als Meier die Episode aus seiner Sicht erzählt. Denn Su punktete mit einem womöglich entscheidenden Vorteil für den geplanten Markteintritt im Reich der Mitte: er ist Chinese.
 
 Das im August 2017 gegründete Startup Fixposition stellt hochpräzise Navigationssysteme her, die in autonom operierenden Geräten wie Drohnen, Robotern oder selbst fahrenden Autos verbaut werden. Meier hebt das kleine Teil, das nicht grösser als eine Zündholzschachtel ist, hoch und sagt: «Damit können wir jederzeit die Position eines mit dem System ausgestatteten Geräts auf zwei Zentimeter genau bestimmen». Bahnbrechend daran ist, dass dies selbst in Umgebungen gelingt, wo das GPS-Signal schwach ist wie etwa in Häuserschluchten von Grossstädten, in Wäldern oder sogar im Untergrund.
 
@@ -14,17 +14,17 @@ Damit dies funktioniert, haben Su und Meier die Vorteile von modernster Satellit
 
 Um als Startup zu überleben, haben die Gründer entschieden, sich vorerst auf Drohnen zu konzentrieren. «Im Moment befinden sich Drohnen gerade an der Schwelle vom Spielzeug zur industriellen Nutzung», sagt Su. Der Markt für professionell genutzte Drohnen, den Fixposition bearbeiten will, schätzt Su auf global rund drei Milliarden Franken. Industriell verwendet werden Drohnen heute unter anderem für die autonome Inspektion oder Überwachung von Anlagen, die Auslieferung von Waren oder das Besprühen von Feldern mit Pestiziden.
 
-In China werden Drohnen zudem für einen weiteren Zweck verwendet, der hierzulande noch weitgehend unbekannt ist: für Lichtshows, die traditionelle Feuerwerke ersetzen. «In China gibt es in jeder Stadt eine solche Lichtshow», sagt Su und zeigt auf seinem Handy ein Video, in welchem ein Schwarm von Drohnen in wechselnden Formationen Farben an den Nachthimmel über einer chinesischen Stadt zaubert. China ist für Fixposition aber nicht nur zentral, weil sich dort viele Unternehmen befinden, die auf Drohnen mit hochpräzisen Navigationssystemen angewiesen sind. Auch die weltweit grössten Drohnenproduzenten sind dort ansässig. Mit einem von ihnen ist Fixposition bereits eine Partnerschaft eingegangen.
-
 ## Glück half nach
 
+In China werden Drohnen zudem für einen weiteren Zweck verwendet, der hierzulande noch weitgehend unbekannt ist: für Lichtshows, die traditionelle Feuerwerke ersetzen. «In China gibt es in jeder Stadt eine solche Lichtshow», sagt Su und zeigt auf seinem Handy ein Video, in welchem ein Schwarm von Drohnen in wechselnden Formationen Farben an den Nachthimmel über einer chinesischen Stadt zaubert. China ist für Fixposition aber nicht nur zentral, weil sich dort viele Unternehmen befinden, die auf Drohnen mit hochpräzisen Navigationssystemen angewiesen sind. Auch die weltweit grössten Drohnenproduzenten sind dort ansässig. Mit einem von ihnen ist Fixposition bereits eine Partnerschaft eingegangen.
+
 Der Sensor von Fixposition ist nur so gross wie eine Zündholzschachtel. (Bild: Florian Bachmann / ETH Zürich)
+
+## ESA BIC fördert Spin-offs
 
 Durch die Aktivitäten in China sowie dank weiteren Kunden macht Fixposition bereits in seinem ersten Geschäftsjahr Umsätze. Noch ist man aber nicht in der Gewinnzone und deswegen auf externe Investoren angewiesen. In der Startphase wurde das Startup durch ein Pioneer Fellowship der ETH Zürich und durch das Incubation-Programm (ESA-BIC) der europäischen Weltraumorganisation ESA unterstützt (s. Kasten).
 
 Nun sind die Jungunternehmer daran, ihre erste Million von lokalen Investoren einzuwerben. «Es sieht sehr gut aus», freut sich Meier. Mit dieser Finanzspritze möchten die Jungunternehmer ihren Stellenetat von 5 auf ein Dutzend Mitarbeiter ausbauen. Dabei werden nicht nur Softwareingenieure gebraucht, sondern auch Personal in Marketing, Verkauf und Geschäftsentwicklung und Akquisition. Bereits in den nächsten Monaten wollen sie zudem ein Büro in China eröffnen.
-
-## ESA BIC fördert Spin-offs
 
 Dass Su und Meier zusammengefunden haben, ist ein Glücksfall. Denn ursprünglich waren die beiden auf separaten Pfaden unterwegs. Während Su im Rahmen seines Doktorats bei den Professoren Alain Geiger und Markus Rothacher an der ETH zur Satellitennavigation forschte, beschäftigte sich Meier in seiner Masterarbeit an der ETH mit der visuellen Navigation von Drohnen. Genau wie ihre anderen Teammitglieder Tonio Gsell und Lorenz Meier hatten sie den Traum vom eigenen Startup und erhielten ein Pioneer Fellowship der ETH, um ihn zu verfolgen.
 

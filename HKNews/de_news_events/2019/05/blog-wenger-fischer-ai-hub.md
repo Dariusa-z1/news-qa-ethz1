@@ -1,5 +1,7 @@
 # blog-wenger-fischer-ai-hub
 
+**Source:** de_news_events/2019/05/blog-wenger-fischer-ai-hub.html
+
 ## Technologiewettlauf der Staaten
 
 Die Welle des Fortschritts in der Künstlichen Intelligenz (KI) war in den letzten Jahren primär von wirtschaftlichen Marktmechanismen und vielfältigen kommerziellen Anwendungen angetrieben. Grosse globale Technologieunternehmen, insbesondere in den USA und in China, sind heute führend im KI-Bereich. Diese Konzentration auf grosse private Akteure wirkt sich zunehmend negativ auf die Konkurrenzfähigkeit öffentlicher Forschungsinstitutionen sowie kleinerer Firmen aus. Solche oligopolistischen Marktdynamiken drohen bestehende wirtschaftliche und soziale Ungleichheiten zuzuspitzen.

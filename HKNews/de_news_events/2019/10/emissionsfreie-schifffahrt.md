@@ -1,5 +1,7 @@
 # emissionsfreie-schifffahrt
 
+**Source:** de_news_events/2019/10/emissionsfreie-schifffahrt.html
+
 ## Nordostseeregion als Innovationstreiber
 
 Die Schifffahrt verursacht aktuell etwa drei Prozent des weltweiten CO 2 -Ausstosses, sie gehört damit neben dem Strassen- und dem Flugverkehr zu den grössten Emittenten unter den Verkehrsträgern. Zum grössten Teil werden diese Emissionen durch internationale Handelsschiffe und grosse Frachter verursacht. Verschiedene Organisationen, Reedereien und Regierungen haben sich gemeinsam zum Ziel gesetzt, den Transport über Wasser in den nächsten Jahren CO 2 -neutral zu gestalten. Wie dieser Übergang effektiv gelingen soll, war bisher aber unklar.

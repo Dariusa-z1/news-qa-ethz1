@@ -1,5 +1,7 @@
 # weltweit-sinken-die-grundwasserpegel-immer-schneller
 
+**Source:** de_news_events/2024/01/weltweit-sinken-die-grundwasserpegel-immer-schneller.html
+
 ## In Kürze
 
 - Anhand von Messdaten von über 170'000 Grundwassermessstellen und 1700 Grundwassersystemen der letzten 40 Jahre zeigen Forschende, dass die Grundwasserreserven immer stärker schwinden.

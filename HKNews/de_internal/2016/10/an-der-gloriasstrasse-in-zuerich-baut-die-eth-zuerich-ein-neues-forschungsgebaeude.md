@@ -1,5 +1,7 @@
 # an-der-gloriasstrasse-in-zuerich-baut-die-eth-zuerich-ein-neues-forschungsgebaeude
 
+**Source:** de_internal/2016/10/an-der-gloriasstrasse-in-zuerich-baut-die-eth-zuerich-ein-neues-forschungsgebaeude.html
+
 ## Aushubarbeiten und Hangsicherung
 
 An der Gloriasstrasse legt die ETH Zürich derzeit das Fundament für ein neues Forschungs- und Entwicklungsgebäude. In dem Neubau mit der Bezeichnung GLC sollen ab 2020 Forschungsgruppen aus den ETH-Departementen Gesundheitswissenschaften und Technologie (D-HEST) sowie Informationstechnologie und Elektrotechnik (D-ITET) lehren und forschen.

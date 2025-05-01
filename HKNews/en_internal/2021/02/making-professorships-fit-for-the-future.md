@@ -1,5 +1,7 @@
 # making-professorships-fit-for-the-future
 
+**Source:** en_internal/2021/02/making-professorships-fit-for-the-future.html
+
 ## A comprehensive, broad-based analysis of the status quo
 
 - Markus Aebi

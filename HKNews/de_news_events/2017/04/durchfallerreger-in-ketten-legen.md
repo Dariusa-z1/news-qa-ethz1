@@ -1,5 +1,7 @@
 # durchfallerreger-in-ketten-legen
 
+**Source:** de_news_events/2017/04/durchfallerreger-in-ketten-legen.html
+
 ## Agglutination nur im Reagenzglas
 
 Impfungen haben sich im Kampf gegen Krankheitserreger wie Bakterien oder Viren bewährt. Sie regen den Körper zur Bildung von schützenden Antikörpern (IgA) an. Auch gegen Darminfekte wurden Impfungen bereits eingesetzt.
@@ -37,8 +39,6 @@ Bakterien tauschen oft Gene in Form von Plasmiden (ringförmige DNS-Stücke) aus
 Ihre Experimente führten die Forschenden mit Impfstoffen aus abgetöteten Salmonellen und E.coli -Bakterien durch. Laut den Wissenschaftlern könnte diese Strategie auch gegen weitere Erreger von Darmerkrankungen wie Shigellen oder Listerien verwendet werden.
 
 ## Literaturhinweis
-
-Das grösste Anwendungsgebiet für eine Salmonellen-Impfung könnten Nutztiere wie Schweine sein. In der Regel infizieren sich Menschen durch den Kontakt mit diesen Tieren und ihrem rohen Fleisch. Eine Impfung für Menschen wäre ebenfalls realisierbar. Sie könnte Leuten zugutekommen, die in Katastrophen- oder Seuchengebieten Einsätze leisten oder in Regionen reisen, in denen Darminfektionen häufig sind.
 
 Die vorliegende Studie ist das Resultat einer über sechs Jahre dauernden Zusammenarbeit von Forschenden aus mehreren ETH-Departementen und -Einrichtungen wie ScopeM sowie weiterer universitären Einrichtungen, unter anderem der Universität Melbourne (AUS), dem I stituto di Ricerca in Biomedicina in Bellinzona und dem CNRS in Frankreich. Für die Entdeckung des Verkettungsmechanismus war die Zusammenarbeit mit Ingenieuren wie Douglas R. Brumley und Roman Stocker wichtig.
 

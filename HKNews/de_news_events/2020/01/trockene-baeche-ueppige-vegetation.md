@@ -1,5 +1,7 @@
 # trockene-baeche-ueppige-vegetation
 
+**Source:** de_news_events/2020/01/trockene-baeche-ueppige-vegetation.html
+
 ## Bei Trockenheit überwiegt grünes Wasser
 
 Bisher ging die Wissenschaft davon aus, dass die meisten Pflanzen während Dürren unter Trockenstress leiden. Um Wasserverluste zu vermeiden, schliessen Pflanzen bei Trockenheit ihre Spaltöffnungen, wachsen nicht mehr und verdorren schlimmstenfalls. Während Dürren sinkt deshalb die Verdunstung von Wasser aus der Pflanzenwelt sowie von Boden- und Wasseroberflächen, was Fachleute als Evapotranspiration bezeichnen. «In höheren Lagen, etwa bewaldeten Berggebieten, ist das jedoch nicht der Fall», sagt Simone Fatichi, Oberassistent am Institut für Umweltingenieurwissenschaften der ETH Zürich.

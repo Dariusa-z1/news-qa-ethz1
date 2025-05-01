@@ -1,5 +1,7 @@
 # two-strange-planets
 
+**Source:** en_news_events/2021/03/two-strange-planets.html
+
 ## Extraordinary states
 
 The two large gas planets Uranus and Neptune have strange magnetic fields. These are each strongly tilted relative to the planet's rotation axes and are significantly offset from the physical centre of the planet. The reason for this has been a longstanding mystery in planetary sciences. Various theories assume that a unique inner structure of these planets could be responsible for this bizarre phenomenon. According to these theories, the skewed magnetic field is caused by circulations in a convective layer, which consists of an electrically conductive fluid. This convective layer in turn surrounds a stably layered, non-convective layer in which there is no circulation of the material due to its high viscosity and thus no contribution to the magnetic field.

@@ -1,5 +1,7 @@
 # neue-generalsekretaerin-der-eth-zuerich-ernannt
 
+**Source:** de_internal/2016/05/neue-generalsekretaerin-der-eth-zuerich-ernannt.html
+
 ## Pragmatische Organisationsreform
 
 Im Herbst tritt Hugo Bretscher in den Ruhestand. Seine Position als Generalsekretär der ETH Zürich übernimmt Katharina Poiger Ruloff, die seit 2008 im Stab des ETH-Präsidenten für Strategie und Hochschulentwicklung zuständig ist.

@@ -1,5 +1,7 @@
 # correlation-coding
 
+**Source:** de_news_events/2019/02/correlation-coding.html
+
 ## Korrelationen im Doppelspalt
 
 Um möglichst viele Informationen gleichzeitig von A nach B zu übertragen, haben Wissenschaftler und Ingenieure in den letzten Jahrzehnten immer ausgefeiltere Methoden entwickelt. Allgemein als Multiplexverfahren bezeichnet, erlauben diese Techniken, mehr Signale zu übermitteln, als Übertragungskanäle vorhanden sind. Ein typisches Beispiel dafür ist die Rundfunkübertragung auf verschiedenen Frequenzen. Wissenschaftler der ETH Zürich haben nun eine neues Multiplexverfahren erfunden, das auf Rauschen basiert – also auf etwas, das man normalerweise eigentlich vermeiden möchte.

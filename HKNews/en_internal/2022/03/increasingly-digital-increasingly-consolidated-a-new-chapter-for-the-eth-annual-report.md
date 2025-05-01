@@ -1,5 +1,7 @@
 # increasingly-digital-increasingly-consolidated-a-new-chapter-for-the-eth-annual-report
 
+**Source:** en_internal/2022/03/increasingly-digital-increasingly-consolidated-a-new-chapter-for-the-eth-annual-report.html
+
 ## Main article
 
 In 2021, reporting at ETH Zurich underwent a comprehensive review. What did this involve?
@@ -17,4 +19,6 @@ The annual report for 2021, which is published today, already has a stronger dig
 What significance does the annual report have for ETH and to whom is it addressed?
 
 The ETH Zurich annual report provides an important channel of strategic communication with the Swiss Confederation and with society at large. It is also addressed to members from throughout the broader ETH community – from students and employees to alumni and donors.
+
+The ETH Zurich annual report for 2021 is available for download here . The printed version can be obtained from the order form .
 

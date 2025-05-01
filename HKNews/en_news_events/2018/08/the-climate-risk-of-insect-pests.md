@@ -1,5 +1,7 @@
 # the-climate-risk-of-insect-pests
 
+**Source:** en_news_events/2018/08/the-climate-risk-of-insect-pests.html
+
 ## Pre-emptive models
 
 Climate change isn’t just about glaciers melting, trees coming into leaf earlier and alpine flowers heading for higher ground. It also alters the conditions for the incidence of agricultural pests like bacteria, viruses, fungi and insects.

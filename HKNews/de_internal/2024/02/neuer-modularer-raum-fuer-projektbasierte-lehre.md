@@ -1,5 +1,7 @@
 # neuer-modularer-raum-fuer-projektbasierte-lehre
 
+**Source:** de_internal/2024/02/neuer-modularer-raum-fuer-projektbasierte-lehre.html
+
 ## PBLabs RZ
 
 PBLabs ist eine strategische Initiative des Rektorats, das Dozierende in projektbasierter Lehre (PB steht für «Project Based») unterstützt. Das Team hat nun einen speziellen Lehrraum im RZ-Gebäude an der Clausiusstrasse 59 entwickelt, der auch als Experimentierfläche für die Gestaltung künftiger Lehrflächen dient.

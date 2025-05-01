@@ -1,5 +1,7 @@
 # new-services-and-resources-platform
 
+**Source:** en_internal/2015/07/new-services-and-resources-platform.html
+
 ## Main article
 
 The existing intranet will be converted into this new ‘Services & Resources’ platform in early August. This is primarily intended for ETH staff, but will also include information for external visitors to the website.

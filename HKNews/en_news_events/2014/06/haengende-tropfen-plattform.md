@@ -1,5 +1,7 @@
 # haengende-tropfen-plattform
 
+**Source:** en_news_events/2014/06/haengende-tropfen-plattform.html
+
 ## Drops interlinked
 
 Scientists normally use cell cultures to test pharmacologically active substances or toxins. Until now, two-dimensional cell cultures on flat substrates have dominated, which has major drawbacks: in their morphology and metabolism (cells often adhere to the substrate in an unnatural form), cell layers on surfaces are different from those in a living organism, where three-dimensional structures prevail.

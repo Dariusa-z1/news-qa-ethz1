@@ -1,5 +1,7 @@
 # really-we-are-doing-ok
 
+**Source:** en_internal/2020/07/really-we-are-doing-ok.html
+
 ## Really I’m doing OK
 
 Get up. Switch on the coffee machine. Turn on the computer. Have a shower. Put on a T-shirt and jogging bottoms. Check emails. And log onto the first Zoom meeting. That’s how my first day working from home began. There were more meetings throughout the day, with my colleagues appearing in tiles – some with a swaying palm tree in the background, others offering a glimpse into their homes. In between, I worked on a document and answered some emails. Around midday, my neck started complaining, so I went outside to get some exercise. By the evening, I was totally dead.

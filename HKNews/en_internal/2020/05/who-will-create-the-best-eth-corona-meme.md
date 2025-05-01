@@ -1,5 +1,7 @@
 # who-will-create-the-best-eth-corona-meme
 
+**Source:** en_internal/2020/05/who-will-create-the-best-eth-corona-meme.html
+
 ## Main article
 
 Working and studying at home can be challenging. However, as complicated and unfamiliar as the current situation may be, with a little bit of humour, many things can be mastered more easily.

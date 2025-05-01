@@ -1,5 +1,7 @@
 # herzklappen-aus-silikon
 
+**Source:** en_news_events/2019/07/herzklappen-aus-silikon.html
+
 ## Easier to make
 
 The human heart has four chambers, each equipped with a valve to ensure blood flow in one direction only. If any of the heart valves are leaking, narrowed or distended (or even ruptured), the blood runs back into the atria or ventricles, putting the entire heart under severe strain. In the worst case, this can lead to arrhythmia or even heart failure.

@@ -1,5 +1,7 @@
 # donation-implenia
 
+**Source:** de_news_events/2016/04/donation-implenia.html
+
 ## Main article
 
 ETH-News: Herr Affentranger, weshalb haben Sie sich entschieden, den Aufbau einer Asssistenzprofessur für innovatives und industrialisiertes Bauen finanziell zu unterstützen? Anton Affentranger: Die Bauwirtschaft gehört heute zu den ineffizientesten Branchen überhaupt. Andere Industrien konnten dank der Standardisierung von Prozessen und der durchgängigen Optimierung entlang der gesamten Wertschöpfungskette beträchtliche Effizienzsteigerungen realisieren. Dies war in der Baubranche nicht der Fall. Know-how im Bereich des industrialisierten Bauens und der Förderung innovativer Technologien, spielen dabei eine Schlüsselrolle. Implenia beschäftigt sich bereits intensiv mit «Operational Excellence»-Themen. Zudem feiern wir in diesem Jahr unser 10-Jahr-Jubiläum. Wir wollen dies zum Anlass nehmen, weiter in unsere Zukunft zu investieren.

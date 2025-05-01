@@ -1,5 +1,7 @@
 # kite-award-2016
 
+**Source:** de_news_events/2016/04/kite-award-2016.html
+
 ## Zwei Dutzend Nominationen
 
 «Lehre und Forschung bilden an der ETH Zürich eine Einheit. Deshalb sind innovative Lehrkonzepte von ebenso grosser Bedeutung wie die wissenschaftliche Forschung», betonte Felicitas Pauss, Präsidentin der Konferenz des ETH-Lehrkörpers (KdL), zur Eröffnung der Preisverleihung. Die KdL hat den KITE Award für «Key Innovation in Teaching at ETH» ins Leben gerufen, um die Entwicklung herausragender Lehrkonzepte zu fördern. Diese sollen Studierende motivieren, sich vertieft mit Sachverhalten zu beschäftigen und sie auf das Arbeitsleben vorzubereiten.

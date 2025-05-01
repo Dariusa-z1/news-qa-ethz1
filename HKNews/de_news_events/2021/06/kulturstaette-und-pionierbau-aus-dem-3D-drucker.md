@@ -1,5 +1,7 @@
 # kulturstaette-und-pionierbau-aus-dem-3D-drucker
 
+**Source:** de_news_events/2021/06/kulturstaette-und-pionierbau-aus-dem-3D-drucker.html
+
 ## Digitale Bautechnologie im Bergdorf
 
 Das Dorf Mulegns liegt an der Julierpassstrasse und hat noch sechzehn Einwohnerinnen und Einwohner. Jetzt soll die Kultur einziehen und den Ort neu beleben. Diesen Plan verfolgt Giovanni Netzer, Theaterintendant und Gründer des Origen-Kulturfestivals. Seine Stiftung liess dafür eine alte Villa verschieben, nahm ein Hotel wieder in Betrieb und lässt jetzt einen Turm aus weissem Beton drucken.

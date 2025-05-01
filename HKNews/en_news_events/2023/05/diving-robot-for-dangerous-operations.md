@@ -1,5 +1,7 @@
 # diving-robot-for-dangerous-operations
 
+**Source:** en_news_events/2023/05/diving-robot-for-dangerous-operations.html
+
 ## Main article
 
 The Tethys robot is an autonomous underwater vehicle that has been specially developed for use in challenging and dangerous environments like turbid channels and rivers. It is primarily used in situations when it is too difficult or risky to use conventional search and rescue techniques. Equipped with acoustic sensors and cameras, the robot can search large areas underwater completely autonomously and quickly localise objects or people. This means that divers and rescue teams no longer have to risk working in dangerous situations.

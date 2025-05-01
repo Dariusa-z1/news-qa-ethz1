@@ -1,5 +1,7 @@
 # zwischen-afrika-und-asien
 
+**Source:** de_internal/2014/01/zwischen-afrika-und-asien.html
+
 ## Zur Person
 
 Für jemanden, der nie auf Reisen war, ist die eigene Mutter die beste Köchin. - Afrikanisches Sprichwort

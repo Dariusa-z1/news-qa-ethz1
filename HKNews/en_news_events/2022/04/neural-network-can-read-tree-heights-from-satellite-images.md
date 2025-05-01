@@ -1,5 +1,7 @@
 # neural-network-can-read-tree-heights-from-satellite-images
 
+**Source:** en_news_events/2022/04/neural-network-can-read-tree-heights-from-satellite-images.html
+
 ## Trained with laser scanning data from space
 
 Last year marked the beginning of the UN Decade on Ecosystem Restoration. This initiative is aimed at halting the degradation of ecosystems by 2030, preventing it going forward and, if possible, remedying the damage that has already been done. Delivering on these kinds of projects calls for accurate foundations, such as surveys and maps of the existing vegetation.

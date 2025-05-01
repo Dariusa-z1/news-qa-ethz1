@@ -1,5 +1,7 @@
 # executive-board-update
 
+**Source:** en_internal/2020/01/executive-board-update.html
+
 ## Greater participation
 
 - WS 1: New Executive Board domains
@@ -49,8 +51,6 @@ Part of the rETHink project involves developing the new requirements for the ETH
 In the consultation process, no questions were raised about the project structure with its six workstreams (WS):
 
 Workstreams 2 “Professorships” and 6 “Culture development” will start work first. The core team of the “Professorships” workstream, headed by Vice President Detlef Günther, comprises not just professors but also representatives from the scientific, technical and administrative staff, students and HR. Additional ETH members will also be involved in the work in the form of several focus groups. On the operational side, the workstream will be led by Nina Buchmann and Markus Aebi, who have plenty of experience in their roles as heads of department. The composition of the other workstreams will be just as broadly supported. In addition, the Executive Board is in constant dialogue with the department heads about the rETHink project.
-
-ETH members who would like to take part in the rETHink project should contact their relevant university group. More detailed information will be provided at the Executive Board townhall meeting on 4 February, which will focus on the rETHink project.
 
 Independently of the rETHink project, the entire third paragraph of § 3 of the ETH Organisation Ordinance dealing with the tasks and authorities of the academic departments has been removed. This is because it contains provisions about the study programmes, diplomas and academic titles that are mostly already covered by other regulations. Where this is not the case, individual provisions were integrated into other articles.
 

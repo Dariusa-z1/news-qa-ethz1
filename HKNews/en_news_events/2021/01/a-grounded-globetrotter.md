@@ -1,5 +1,7 @@
 # a-grounded-globetrotter
 
+**Source:** en_news_events/2021/01/a-grounded-globetrotter.html
+
 ## The earthquake that started it all
 
 Gerhard Schmitt was interviewed for this article in Einsiedeln, where he lives with his wife and daughters. For centuries, the town has been a destination for religious pilgrims and a source of inspiration for the non-religious as well. In order to maintain social distancing, we met outside at the great square in front of Einsiedeln Abbey, where Schmitt was recognised and greeted by numerous passers-by: a sign that the recently retired ETH professor has maintained strong local connections despite his reputation as a visionary and his many years as a global ambassador for the university.

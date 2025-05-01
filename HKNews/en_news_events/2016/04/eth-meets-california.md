@@ -1,5 +1,7 @@
 # eth-meets-california
 
+**Source:** en_news_events/2016/04/eth-meets-california.html
+
 ## Switzerland, Silicon Valley of robotics
 
 Professors, researchers, students, alumni, and company founders from ETH Zurich met up with their Californian counterparts in a series of 12 events from 6 – 15 April 2016. In multiple venues across San Francisco, Berkeley, and San Jose, ETH Meets California created opportunities for ETH Zurich, its event partners, and collaborators to address pressing societal issues and raise awareness of the university and its contributions in this key region of the world. Each event highlighted the depth and breadth of ETH Zurich research: From the Cybathlon to Citizen Science and from a student study tour on Tackling Food System Challenges with IT Innovation to Autonomous Flying Robots.

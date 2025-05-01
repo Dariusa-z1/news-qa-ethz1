@@ -1,5 +1,7 @@
 # brandschutzkurs-fuer-eth-angehoerige
 
+**Source:** de_internal/2015/09/brandschutzkurs-fuer-eth-angehoerige.html
+
 ## Main article
 
 Der Stab Sicherheit, Gesundheit und Umwelt (SGU) führt im Herbst seine Ausbildungskurse zum Thema Brandschutz durch. Den Teilnehmenden wird im theoretischen Teil vermittelt, wie Brände verhindert werden können. Im praktischen Teil wird das korrekte Verhalten im Brandfall geschult und geübt. Jeder Kursteilnehmer hat Gelegenheit unter fachkundiger Anleitung ein Feuer mit einem Handfeuerlöscher und einer Löschdecke zu bekämpfen.

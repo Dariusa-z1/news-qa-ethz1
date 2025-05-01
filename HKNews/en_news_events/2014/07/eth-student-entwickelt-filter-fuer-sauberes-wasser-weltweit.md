@@ -1,5 +1,7 @@
 # eth-student-entwickelt-filter-fuer-sauberes-wasser-weltweit
 
+**Source:** en_news_events/2014/07/eth-student-entwickelt-filter-fuer-sauberes-wasser-weltweit.html
+
 ## Three-stage filter system with special membrane
 
 Roughly 780 million people around the world have no access to clean drinking water. According to the World Health Organization (WHO), 3.4 million people die from water-related diseases every year. ETH student Jeremy Nussbaumer set himself the goal of making a contribution to solving this problem. Working with researchers from a group led by Wendelin Stark, head of the Functional Materials Laboratory, the 23-year-old spent a year researching a membrane filter and developing a prototype.

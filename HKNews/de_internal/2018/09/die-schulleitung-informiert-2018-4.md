@@ -1,5 +1,7 @@
 # die-schulleitung-informiert-2018-4
 
+**Source:** de_internal/2018/09/die-schulleitung-informiert-2018-4.html
+
 ## Online-Kommunikation weiterentwickeln
 
 - In der Kategorie «Junge Talente» werden die besten Projekte von bis 20-jährigen Lehrlingen und Gymnasiastinnen und Gymnasiasten ausgezeichnet. Nominationen erfolgen für diese Kategorie in Zusammenarbeit mit «Schweizer Jugend forscht» und «Young Enterprise Switzerland», welche das Unternehmertum an Gymnasien fördert.

@@ -1,5 +1,7 @@
 # artificial-intelligence-in-teaching-and-learning-refresh-teaching-event-on-28-march
 
+**Source:** en_internal/2023/03/artificial-intelligence-in-teaching-and-learning-refresh-teaching-event-on-28-march.html
+
 ## Main article
 
 Rector Günther Dissertori invites lecturers to discuss the topic of AI in teaching at the Refresh Teaching event on 28 March starting at 12.15 p.m.

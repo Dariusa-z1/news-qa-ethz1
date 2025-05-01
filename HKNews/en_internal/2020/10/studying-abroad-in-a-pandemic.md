@@ -1,5 +1,7 @@
 # studying-abroad-in-a-pandemic
 
+**Source:** en_internal/2020/10/studying-abroad-in-a-pandemic.html
+
 ## Further information
 
 - The Student Exchange Office Infomarkt will take place on 29 October. Take advantage of the opportunity to discover the wide range of exchange programmes offered by ETH Zurich with partner universities within Switzerland and abroad. Find out more here

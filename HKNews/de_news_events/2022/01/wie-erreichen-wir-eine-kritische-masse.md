@@ -1,5 +1,7 @@
 # wie-erreichen-wir-eine-kritische-masse
 
+**Source:** de_news_events/2022/01/wie-erreichen-wir-eine-kritische-masse.html
+
 ## Von der kritischen Masse
 
 Diesen Monat endet meine Zeit als Rektorin der ETH Zürich. Viele haben mich gefragt, ob es mir in dieser Funktion gelungen ist, Frauen zu fördern. In der Tat war dies in den letzten 25 Jahren ein wichtiges Ziel. Ich konzentriere mich auf die Bereiche, die ich direkt beeinflusst habe.

@@ -1,5 +1,7 @@
 # swissloop-misses-top-three
 
+**Source:** en_news_events/2018/07/swissloop-misses-top-three.html
+
 ## Ambitious plans after the competition
 
 The third Hyperloop Pod Competition organised by SpaceX in Los Angeles ended on 22 July. Student teams from all over the world developed transport capsules or "pods" for Elon Musk's Hyperloop vision: the Tesla founder is seeking to create a transport system in which people and goods travel through vacuum tubes at over 1,000 kilometres per hour.

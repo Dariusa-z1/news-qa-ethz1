@@ -1,5 +1,7 @@
 # wie-blutkrebs-effektiver-bekaempft-werden-kann
 
+**Source:** de_news_events/2023/04/wie-blutkrebs-effektiver-bekaempft-werden-kann.html
+
 ## Das Wichtigste in Kürze
 
 - Das Multiple Myelom ist eine unheilbare Form von Blutkrebs. Gegen die eingesetzten Medikamente werden die Krebszellen mit der Zeit resistent.

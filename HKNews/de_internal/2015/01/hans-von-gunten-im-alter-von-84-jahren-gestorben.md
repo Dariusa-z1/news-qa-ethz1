@@ -1,5 +1,7 @@
 # hans-von-gunten-im-alter-von-84-jahren-gestorben
 
+**Source:** de_internal/2015/01/hans-von-gunten-im-alter-von-84-jahren-gestorben.html
+
 ## Erster vollamtlicher Rektor der ETH Zürich
 
 Hans von Gunten studierte an der ETH Zürich Bauingenieurwesen und schloss 1955 mit dem Diplom ab. Anschliessend war er Assistent bei Professor Pierre Lardy und übernahm nach dessen überraschendem Tod für vier Semester einen Teil der Lehre. Parallel dazu konnte er bei Professor Henry Favre doktorieren, bevor er in ein Ingenieurbüro in Bern einstieg und dort 1963 Partner wurde.

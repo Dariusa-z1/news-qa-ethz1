@@ -1,5 +1,7 @@
 # ein-neues-paradigma-in-der-klimapolitik
 
+**Source:** de_news_events/2017/06/ein-neues-paradigma-in-der-klimapolitik.html
+
 ## Ein Paradigmenwechsel in der Klimapolitik
 
 US-Präsident Donald Trump hat kürzlich entschieden, aus dem Klima-Abkommen von Paris auszusteigen. Ist das der Anfang vom Ende dieses internationalen Vertragswerks, das nach zwei Jahrzehnten endlich zustande kam?

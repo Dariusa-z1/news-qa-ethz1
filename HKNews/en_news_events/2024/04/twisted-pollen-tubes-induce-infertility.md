@@ -1,5 +1,7 @@
 # twisted-pollen-tubes-induce-infertility
 
+**Source:** en_news_events/2024/04/twisted-pollen-tubes-induce-infertility.html
+
 ## In brief
 
 - Plants with multiple sets of chromosomes, known as polyploids, are salt-tolerant or drought-resistant and often achieve higher yields.

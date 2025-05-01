@@ -1,5 +1,7 @@
 # replacing-toxic-chlorine-and-bromine
 
+**Source:** en_news_events/2021/01/replacing-toxic-chlorine-and-bromine.html
+
 ## Shuttle system with electricity
 
 Chlorine and bromine in their molecular form (as Cl 2 and Br 2 molecules) are notoriously toxic and corrosive chemicals. This has been tragically illustrated, for example, in the use of chlorine as a chemical weapon, from the First World War to recent attacks in Iraq and Syria. Additionally, these highly unstable chemicals containing chlorine and bromine have been implicated in thousands of reported chemical accidents. And yet they are still among the most widely used industrial chemicals to produce valuable flame retardants, pest control agents, polymers and pharmaceuticals.

@@ -1,5 +1,7 @@
 # die-schulleitung-informiert-2018-5
 
+**Source:** de_internal/2018/10/die-schulleitung-informiert-2018-5.html
+
 ## ETH lanciert Rehabilitationsinitiative
 
 - Eine neue Professur soll die Akzeptanz von Technologie und Teilhabe von Menschen mit Behinderungen in der Gesellschaft erforschen (Disability and Health Technology, D-GESS).

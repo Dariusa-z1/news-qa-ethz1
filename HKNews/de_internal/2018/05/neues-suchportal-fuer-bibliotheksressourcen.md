@@ -1,5 +1,7 @@
 # neues-suchportal-fuer-bibliotheksressourcen
 
+**Source:** de_internal/2018/05/neues-suchportal-fuer-bibliotheksressourcen.html
+
 ## Main article
 
 Folgende Funktionalitäten gestalten Ihre Recherche und den Zugriff auf die Bibliotheksressourcen noch effizienter:

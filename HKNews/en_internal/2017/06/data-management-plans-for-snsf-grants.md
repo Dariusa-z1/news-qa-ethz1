@@ -1,5 +1,7 @@
 # data-management-plans-for-snsf-grants
 
+**Source:** en_internal/2017/06/data-management-plans-for-snsf-grants.html
+
 ## Main article
 
 The Swiss National Science Foundation SNSF has published guidelines for Data Management Plans. As of October 2017 researchers are requested to submit a Data Management Plan as an integral part of their research application.

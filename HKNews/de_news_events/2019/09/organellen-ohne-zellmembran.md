@@ -1,5 +1,7 @@
 # organellen-ohne-zellmembran
 
+**Source:** de_news_events/2019/09/organellen-ohne-zellmembran.html
+
 ## Proteine, die aneinanderkleben
 
 Lange Zeit hielt man den Inhalt von Zellen für ziemlich unstrukturiert und chaotisch: ein Gemisch von Proteinen, DNA und vielen kleinen Stoffwechselmolekülen. Zwar war bekannt, dass bei Pflanzen und Tieren wichtige Zellprozesse in Organellen stattfinden – das sind grössere, von einer Membran umschlossene Gebilde wie der Zellkern oder Mitochondrien. Doch erst in den letzten Jahren haben Wissenschaftler entdeckt, dass es ausserdem eine weitere Art von Strukturen gibt, die in der Organisation von zellulären Prozessen eine entscheidende Rolle spielen: sogenannte membranlose Organellen. Dabei handelt es sich um winzige Tröpfchen, die sich selbstorganisiert bilden – ähnlich wie sich Öltröpfchen in Wasser absondern.

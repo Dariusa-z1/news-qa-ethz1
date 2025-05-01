@@ -1,5 +1,7 @@
 # leitfaden-fuer-dozierende-neu-im-web-statt-auf-papier
 
+**Source:** de_internal/2014/11/leitfaden-fuer-dozierende-neu-im-web-statt-auf-papier.html
+
 ## Leitfaden für Dozierende
 
 Wer an der ETH doziert, kennt ihn: den orangefarbenen «Leitfaden für Dozierende». Das Rektorat hat den Leitfaden bisher jeweils neuen Dozierenden per Post geschickt.

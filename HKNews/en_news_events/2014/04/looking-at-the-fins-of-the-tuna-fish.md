@@ -1,5 +1,7 @@
 # looking-at-the-fins-of-the-tuna-fish
 
+**Source:** en_news_events/2014/04/looking-at-the-fins-of-the-tuna-fish.html
+
 ## “The father of modern biomimetics”
 
 The tuna fish is the sports car of the marine world: according to scientists, it can accelerate to a speed of 50 km an hour in about 10 seconds thanks to its streamlined body and strong thrust of its tail fin. The Robotuna, an underwater robot developed by MIT researchers in the 1990s and modelled on the living tuna, possesses similar power. At the time, Robotuna set the standard for underwater robots in terms of manoeuvrability and energy efficiency. In 1995, the tuna robot received the award of scientific achievement of the year by the Scientific American magazine. Today, it is on display in the Science Museum in London.

@@ -1,5 +1,7 @@
 # podcast-ki-klimawandel
 
+**Source:** de_news_events/2020/05/podcast-ki-klimawandel.html
+
 ## Main article
 
 In dieser Episode geht es um Lynn Kaacks und David Daos Forschung an der Energiewende und Wäldern, ihre Arbeit mit der Organisation «Climate Change AI» und ihre Gedanken zu Forschung, Aktivismus und Politik. Wir haben den bereits vor dem Lockdown aufgezeichneten Podcast aufgrund unserer COVID-19 Sonderreihe verschoben und nun mit aktuellen Aussagen der beiden Forschenden ergänzt. Denn wir wollten wissen, was sich für sie verändert hat.

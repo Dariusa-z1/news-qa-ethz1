@@ -1,5 +1,7 @@
 # from-robotic-fish-to-artificial-muscles
 
+**Source:** en_news_events/2023/05/from-robotic-fish-to-artificial-muscles.html
+
 ## Other focus projects in 2022/23
 
 - external pageaCentauricall\_made is building a solar-powered racing car designed to complete the 3,000 kilometre course at the World Solar Challenge in Australia in October 2023. In addition to being aerodynamic, the car is also stable enough to withstand strong crosswinds.

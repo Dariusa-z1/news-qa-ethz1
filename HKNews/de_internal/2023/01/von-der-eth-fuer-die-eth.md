@@ -1,5 +1,7 @@
 # von-der-eth-fuer-die-eth
 
+**Source:** de_internal/2023/01/von-der-eth-fuer-die-eth.html
+
 ## Wozu brauchen wir das?
 
 Starten wir mit einer grundlegenden Frage: Was sind Sozial- und Leadershipkompetenzen überhaupt? Als Kombination aus Wissen, Fähigkeiten und Einstellungen beziehen sich diese Kompetenzen auf das zwischenmenschliche Verhalten. Ihre Umsetzung im Alltag kann beobachtet werden, sie sind messbar und – für ihre Anwendung besonders wichtig – man kann sie erlernen, falls sie noch nicht im gewünschten Masse vorhanden sind. In einer Gemeinschaft geben Sozial- und Leadershipkompetenzen Struktur, bieten Orientierung bei der persönlichen Entwicklung und schaffen eine gemeinsame Sprache und Erwartungshaltung.

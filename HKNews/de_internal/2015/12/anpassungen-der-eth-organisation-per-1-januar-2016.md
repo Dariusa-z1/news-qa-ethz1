@@ -1,5 +1,7 @@
 # anpassungen-der-eth-organisation-per-1-januar-2016
 
+**Source:** de_internal/2015/12/anpassungen-der-eth-organisation-per-1-januar-2016.html
+
 ## Main article
 
 Die Bezeichnung «Infrastrukturbereich» für die Linieneinheiten überzeugte seit ihrer Einführung nur bedingt, weil sie die entsprechenden Tätigkeiten – siehe zum Beispiel die Hochschulkommunikation – nicht oder nur teilweise abbildete. Neu sollen alle zentralen Verwaltungseinheiten mit abschliessender Prozessverantwortung und substanziellen Finanzkompetenzen zu Abteilungen werden.

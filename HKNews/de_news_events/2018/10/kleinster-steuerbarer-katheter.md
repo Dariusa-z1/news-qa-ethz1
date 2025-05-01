@@ -1,5 +1,7 @@
 # kleinster-steuerbarer-katheter
 
+**Source:** de_news_events/2018/10/kleinster-steuerbarer-katheter.html
+
 ## Veränderbare Steifigkeit
 
 Es ist ein gängiges Prozedere bei Patienten mit Herzrhythmusstörungen: Ein Chirurg verödet im Herzen jene Regionen, welche unerwünschte elektrische Impulse verursachen. Die entsprechende Operation ist minimalinvasiv. Der Arzt führt über eine Körpervene einen Katheter bis ins Herz und erzeugt damit lokal Wärme, so dass die entsprechenden Stellen veröden. Um die Katheterspitze präzise durch die Blutgefässe und das Herz navigieren zu können, kann der Chirurg manuell über einen im Innern des Katheters verlaufenden Zugdraht dessen Spitze biegen. Allerdings nur in zwei Richtungen: nach links und nach rechts.

@@ -1,5 +1,7 @@
 # dank-marsbeben-zum-kern-vordringen
 
+**Source:** de_news_events/2021/07/dank-marsbeben-zum-kern-vordringen.html
+
 ## Kern ist flüssig und grösser als erwartet
 
 Von der Erde weiss man, dass sie aus Schalen aufgebaut ist: Auf eine dünne Kruste aus leichtem, festen Gestein folgen der dicke Erdmantel aus schwerem, zähflüssigem Gestein und darunter der Erdkern der grösstenteils aus Eisen und Nickel besteht. Von Mars wurde ein ähnlicher Aufbau angenommen. «Nun bestätigen seismische Daten unsere Ansicht, dass der Mars ein differenzierter Planet ist, der einst wohl vollständig geschmolzen war und sich in eine Kruste, einen Mantel und einen Kern unterteilt hat - mit unterschiedlicher Zusammensetzung wie in der Erde», sagt Amir Khan, Wissenschaftler am Institut für Geophysik der ETH Zürich und am Physik-Institut der Universität Zürich. Er analysierte zusammen mit ETH-Kollege Simon Stähler und einem internationalen Team Daten der NASA-Mission InSight, an der die ETH Zürich unter der Leitung von Professor Domenico Giardini beteiligt ist.

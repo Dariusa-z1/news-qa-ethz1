@@ -1,5 +1,7 @@
 # montagelinie-im-nano-format
 
+**Source:** de_news_events/2014/08/montagelinie-im-nano-format.html
+
 ## Fertigungslinie dreimal dünner als Haar
 
 Autos, Flugzeuge oder viele Elektronikprodukte werden heutzutage mithilfe von ausgeklügelten Montagelinien Schritt für Schritt zusammengebaut. Wesentliche Bestandteile solcher Linien sind fahrbare Montageträger, auf denen die Objekte wie etwa eine Autokarosserie fixiert werden. In zahlreichen Arbeitsschritten, deren Reihenfolge räumlich und zeitlich genau festgelegt sind, werden die zu verbauenden Teile an die Karosserie angebracht, bis schliesslich am Ende der Linie das Fahrzeug zusammengebaut ist.

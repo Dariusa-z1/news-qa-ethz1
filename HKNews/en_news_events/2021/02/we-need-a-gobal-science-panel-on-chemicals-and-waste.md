@@ -1,5 +1,7 @@
 # we-need-a-gobal-science-panel-on-chemicals-and-waste
 
+**Source:** en_news_events/2021/02/we-need-a-gobal-science-panel-on-chemicals-and-waste.html
+
 ## Progress has been made, but not enough
 
 Chemicals are at the heart of our modern world. But the way the world deals with chemicals is highly inadequate. Over the last decades, the number and diversity of chemicals produced and traded have increased drastically, reaching several hundred thousands. More than a third of these substances lacks proper descriptions, and at least 3 percent of all chemicals have concerning hazardous properties. 1

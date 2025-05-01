@@ -1,5 +1,7 @@
 # hummeln-beissen-blaetter-um-bluehen-auszuloesen
 
+**Source:** de_news_events/2020/05/hummeln-beissen-blaetter-um-bluehen-auszuloesen.html
+
 ## Hummelverbiss als Problem
 
 Dieser Frühling kam so früh wie nie zuvor. Viele Pflanzen standen bereits Mitte April in voller Blüte, also rund drei bis vier Wochen früher als normal. Solche Anomalien treten als Folge des Klimawandels immer häufiger auf, und die daraus resultierende Unsicherheit droht die jahreszeitliche Abstimmung zwischen Pflanzen und ihren Insektenbestäubern zu stören.

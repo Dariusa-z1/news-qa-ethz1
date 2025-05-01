@@ -1,5 +1,7 @@
 # medical-engineering-block-course-wins-prize-for-innovative-teaching
 
+**Source:** en_news_events/2024/05/medical-engineering-block-course-wins-prize-for-innovative-teaching.html
+
 ## Project plan due on the first day
 
 Developed and produced in-house, the exoskeleton gripper hand takes a firm hold. This is the moment when the ETH medical students experience first-hand how their system works – and that their theoretical knowledge can be put to practical use.

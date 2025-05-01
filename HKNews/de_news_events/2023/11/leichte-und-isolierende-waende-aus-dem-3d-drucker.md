@@ -1,5 +1,7 @@
 # leichte-und-isolierende-waende-aus-dem-3d-drucker
 
+**Source:** de_news_events/2023/11/leichte-und-isolierende-waende-aus-dem-3d-drucker.html
+
 ## In Kürze
 
 - Im Rahmen des Projekts Airlements druckten ETH-Forschende stabile und nachhaltige isolierende Bauelemente im 3D-Verfahren.

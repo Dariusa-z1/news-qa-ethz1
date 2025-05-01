@@ -1,5 +1,7 @@
 # kite-award-2018-e-tutorials
 
+**Source:** en_news_events/2018/04/kite-award-2018-e-tutorials.html
+
 ## Teachers can shape our lives
 
 Honouring teaching: ETH Zurich’s Lecturers’ Conference (KdL) has honoured innovative teaching formats and exceptional commitment by teaching staff with the presentation of the KITE Award for the second time. “The prize aims to reward pioneering teaching concepts and inspire further ideas,” Edoardo Mazza, Professor of Mechanics and KdL President, told approximately 300 guests at the beginning of the event in the Audimax. “KITE” stands for “Key Innovation in Teaching at ETH”. “Today, simply conveying information is no longer enough,” continued Mazza. Instead, teaching is about training students to think independently and critically, and to work efficiently in interdisciplinary teams.

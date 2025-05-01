@@ -1,5 +1,7 @@
 # die-eth-zuerich-bereitet-sich-auf-einen-potenziellen-energiemangel-vor
 
+**Source:** de_internal/2022/08/die-eth-zuerich-bereitet-sich-auf-einen-potenziellen-energiemangel-vor.html
+
 ## Risiken für Lehre und Forschung im Fokus
 
 - Längere Stromausfälle oder eine labile Stromversorgung wären das grösste Risiko für die ETH Zürich. Eine kontinuierliche Stromversorgung beeinflusst direkt, wie gut die Infrastruktur und damit die Forschung funktioniert. Im Falle von längeren Blackouts wären sensible Forschungsgeräte besonders gefährdet, was namentlich bei langjährigen Forschungen und Datenerhebungen zu ernsthaften Problemen führen kann. In diesem Fall würden die Notstromgruppen auf dem Campus Hönggerberg und auf dem Campus Zentrum in Betrieb gesetzt. Diese können aber nur einen kleinen Teil des Bedarfs decken.

@@ -1,5 +1,7 @@
 # eth-zurich-suspends-plans-to-renovate-polyterrasse
 
+**Source:** en_internal/2021/01/eth-zurich-suspends-plans-to-renovate-polyterrasse.html
+
 ## Aligning priorities with financial realities
 
 ETH Zurich has experienced a major growth spurt: student numbers have increased by 35 percent since 2010. Accordingly, new positions have been added to expand the size of the faculty (an increase of 22 percent in FTE positions since 2010), and numerous new professorships have been created to include new fields of research relevant to the future of society (e.g. artificial intelligence, health sciences, quantum technology).

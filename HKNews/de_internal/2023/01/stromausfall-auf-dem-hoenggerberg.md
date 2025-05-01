@@ -1,5 +1,7 @@
 # stromausfall-auf-dem-hoenggerberg
 
+**Source:** de_internal/2023/01/stromausfall-auf-dem-hoenggerberg.html
+
 ## Gebäudeevakuation, aber keine Verletzten
 
 - Das Wichtigste zuerst: Keine Panik, der Strom kommt wieder.

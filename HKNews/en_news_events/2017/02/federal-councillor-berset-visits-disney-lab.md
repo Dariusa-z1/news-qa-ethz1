@@ -1,5 +1,7 @@
 # federal-councillor-berset-visits-disney-lab
 
+**Source:** en_news_events/2017/02/federal-councillor-berset-visits-disney-lab.html
+
 ## Culture inspired by science
 
 Yesterday’s visit by the head of the Federal Department of Home Affairs reflected the many close ties between science, technology and culture. ETH President Lino Guzzella, along with Sarah Springman, Ulrich Weidmann and Robert Perich, welcomed their guest to the Disney Research Zurich (DRZ) research laboratory, which offered a fitting backdrop as an intersection of these three areas.

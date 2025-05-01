@@ -1,5 +1,7 @@
 # how-to-cope-with-summer-heat-at-work
 
+**Source:** en_internal/2022/06/how-to-cope-with-summer-heat-at-work.html
+
 ## What you can do
 
 - Use night cooling: ventilate rooms well in the early morning hours
@@ -29,8 +31,6 @@ Summer is here, and many of us are now enjoying the long days and summer tempera
 One piece of advice is perhaps no surprise, but still immensely important: make sure you drink enough – in summer, drink at least 1.5 litres over the course of the day, preferably water or unsweetened tea at room temperature. By the time most of us notice that we’re thirsty, the body is already long overdue some fluids; thirst is a fairly late warning signal. That’s why you should drink regularly at work, even if you don’t feel thirsty.
 
 Proper nutrition can also help you get through a hot day well: during breaks, you should eat cold, refreshing foods such as fruits, salads, vegetables and dairy products. Also, make sure you have an adequate intake of salt.
-
-Special consideration should be given to pregnant women: as soon as room temperatures exceed 28°C, they will need an individual risk analysis and protective measures. Supervisors should contact for more information.
 
 Here are some other ways to make the summer heat as bearable as possible:
 

@@ -1,5 +1,7 @@
 # komplexe-dynamik-aus-daten-vorhersagen
 
+**Source:** de_news_events/2022/02/komplexe-dynamik-aus-daten-vorhersagen.html
+
 ## Die Grenzen des statischen Maschinenlernens
 
 Physikalische Systeme zu modellieren, die sich dynamisch entwickeln, ist ein zentraler Bestandteil von Wissenschaft und Technik. Ingenieur:innen müssen wissen, wie die Flügel eines neuen Flugzeugmodells unter bestimmten Flugbedingungen vibrieren, und Klimaforschende versuchen vorherzusagen, wie sich globale Temperaturen und Wettermuster in der Zukunft entwickeln. Das sind schwierige Aufgaben, denn die zugrundeliegenden Systeme verhalten sich ihrer Natur nach nicht linear. Das bedeutet beispielsweise, dass ein Flugzeugflügel sich nicht doppelt so weit biegt, wenn man eine doppelt so grosse Kraft auf ihn ausübt (er könnte sich entweder stärker oder auch weniger stark biegen).

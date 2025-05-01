@@ -1,5 +1,7 @@
 # vigilin-the-lock-keeper
 
+**Source:** en_news_events/2016/09/vigilin-the-lock-keeper.html
+
 ## From fatty liver to heart attack
 
 Anyone attending Munich’s famous Oktoberfest will know it can leave physical traces; fatty foods and plenty of alcohol cause the liver to work overtime. This organ stores a portion of any fat consumed (and also converts alcohol to fat), but releases it again once the revelry is over.

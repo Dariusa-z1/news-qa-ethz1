@@ -1,5 +1,7 @@
 # erc-advanced-grants
 
+**Source:** en_news_events/2016/04/erc-advanced-grants.html
+
 ## ETH must remain attractive
 
 The ERC Advanced Grants are among the most coveted awards in the European Research Area, as only projects from established researchers are supported by the European Research Council (ERC). Successful applicants receive significant financial support in addition to reputational honour. The approved projects will receive somewhere between CHF 2.2 million and CHF 3.8 million over a period of five years.
@@ -23,6 +25,4 @@ Manfred Fiebig , a Professor at the Department of Materials, specialises in rese
 Andreas Hierlemann is a Professor at the Department of Biosystems Science and Engineering of ETH Zurich in Basel. His research focuses on developing microelectronic systems that can be used to address biomedical questions experimentally. In his ERC project, advanced integrated microelectronic chips will be applied to study the electrophysiology of neural networks in cell culture at unprecedented spatial and temporal scales. On the spatial scale, the technique will enable the simultaneous recording of electrical activity of small subcellular components and of entire networks comprised of large numbers of neuronal cells. The temporal scale will extend from milliseconds of individual nerve impulses to weeks and months of long-lasting development processes. The project seeks to provide insights into neuronal behavior that are relevant for researching neurological diseases and developing information processing systems with neuronal architectures.
 
 Johan Robertsson is a Professor in the Department of Earth Sciences. Robertsson researches how seismic waves propagate and how they can be used to determine the structure and composition of the Earth’s interior. For his ERC project, he intends to develop a fundamentally new approach for studying at a laboratory scale how seismic waves propagate in various Earth materials. The ETH professor will build up a new wave experimentation system comprising an experimental part and a computer simulation. These two parts are so closely interwoven by sensors and actuators that seismic wavefields can propagate seamlessly from the experiment into the simulation, and back. The new experimentation system should enable the demonstration of complete time reversal of physical waves in three dimensions, for the first time. Potential applications of the findings include characterizing geothermal, fossil fuel or CO 2 reservoirs and, in medicine, breaking up stones in the gallbladder or kidneys.
-
-ETH Zurich Franziska Schmid Media relations Telefon: +41 44 632 41 41
 

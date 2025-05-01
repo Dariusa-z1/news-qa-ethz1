@@ -1,5 +1,7 @@
 # neue-arealplaene-fuer-die-eth-zuerich
 
+**Source:** de_internal/2015/12/neue-arealplaene-fuer-die-eth-zuerich.html
+
 ## Hinweis
 
 Mit dem Start der neuen Webseiten des Infrastrukturbereichs Immobilien stehen seit Anfang der Woche auch die neuen Arealpläne der ETH Zürich zur Verfügung. Insgesamt sind vier Karten jeweils farbig und schwarz-weiss im Angebot: Das Areal Zentrum, das Areal Hönggerberg, die Standorte in der Region Zürich sowie die Aussenstandorte der Hochschule.

@@ -1,5 +1,7 @@
 # im-labyrinth-offenbaren-bakterien-ihre-individualitaet
 
+**Source:** de_news_events/2019/04/im-labyrinth-offenbaren-bakterien-ihre-individualitaet.html
+
 ## Mikroben im T-Labyrinth
 
 Sie gelten als die einfachsten Lebensformen. Doch selbst Mikroorganismen nehmen ihre Umwelt wahr und können sich aktiv fortbewegen. So erkennen sie sowohl Nahrung als auch schädliche Substanzen und bewegen sich auf diese zu oder wenden sich ab. Dabei orientieren sie sich am Konzentrationsgefälle des jeweiligen Stoffes in der Umgebung. Das Leben einer Mikrobe lässt sich somit als eine ununterbrochene Abfolge von Entscheidungen auf der Basis chemischer Gradienten verstehen.

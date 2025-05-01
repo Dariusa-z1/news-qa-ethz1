@@ -1,5 +1,7 @@
 # tips-and-tricks-for-your-holiday-planning
 
+**Source:** en_internal/2022/01/tips-and-tricks-for-your-holiday-planning.html
+
 ## Be smart with your free days
 
 You can find an overview of how many vacation days and overtime you currently have available on ETHIS . After logging in, for which you’ll need your ETH username and password (plus a VPN connection if you’re working from home), you’ll be taken to the ETHIS homepage. Here, under “Personal data > Time management”, you can find your “Time sheet” > “Attendances and abscences”. In the right of this page, there is a tab called “ Annual overview ”. Here you can find not only the working hours you have to complete or have completed each month, but also the number of free hours you have available as a result of your vacation entitlement or an loyalty bonus granted for years of service.

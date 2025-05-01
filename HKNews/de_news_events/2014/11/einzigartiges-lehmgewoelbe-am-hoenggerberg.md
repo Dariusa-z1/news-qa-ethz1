@@ -1,5 +1,7 @@
 # einzigartiges-lehmgewoelbe-am-hoenggerberg
 
+**Source:** de_news_events/2014/11/einzigartiges-lehmgewoelbe-am-hoenggerberg.html
+
 ## Rehabilitierung eines Materials
 
 Die Professur für Architektur und Konstruktion von Annette Spiro ist für praxisnahe Lehre und vertiefte Auseinandersetzung mit Baumaterialien bekannt. 2010 baute sie gemeinsam mit der ETH-Baubibliothek eine Materialsammlung für Architekten und Bauingenieure auf und 2012 bot sie erstmals das Wahlfach «Material-Werkstatt» an. «Wir wollen den Studierenden die Möglichkeit geben, sich nicht nur theoretisch, sondern auch praktisch mit Baumaterialien auseinanderzusetzen», sagt Gian Salis, Dozent am Lehrstuhl und verantwortlich für das Wahlfach.

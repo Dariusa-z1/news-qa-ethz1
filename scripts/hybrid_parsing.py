@@ -51,12 +51,20 @@ def parse_with_bs4(html_content):
     all_titles = []
     all_paragraphs = []
 
-    footer_keywords = ['newsletter', 'staffnet', 'globe', 'download']
+    # Keywords to identify sections to skip
+    footer_keywords = ['newsletter', 'staffnet', 'globe', 'kontakt', 'contact']
+    # Keywords that might appear in link text but shouldn't cause paragraph filtering
+    allowed_link_keywords = ['download', 'pdf', 'here', 'hier']
 
     for section in sections:
+        # Check if this is a footer/sidebar section to skip entirely
+        h2 = section.find('h2')
+        if h2 and any(kw in h2.get_text().lower() for kw in footer_keywords):
+            logger.debug(f"Skipping section with title: {h2.get_text()}")
+            continue
+            
         # Preserve figcaption if it exists
         for fig in section.find_all('figure'):
-            # Preserve figcaption if it exists
             figcaption = fig.find('figcaption')
             if figcaption:
                 caption_text = figcaption.get_text(" ", strip=True)
@@ -64,34 +72,50 @@ def parse_with_bs4(html_content):
                     all_paragraphs.append(caption_text)
             fig.decompose()
 
-        # Skip footer sections based on title
-        h2 = section.find('h2')
+        # Add title if exists
         if h2:
             title_text = h2.get_text(strip=True)
-            if any(kw in title_text.lower() for kw in footer_keywords):
-                continue
             all_titles.append(title_text)
-        else:
-            # If no h2, add "Main article" title for first/main content
-            if not all_titles:
-                all_titles.append("Main article")
+        elif not all_titles:
+            # If no h2 and no titles yet, add "Main article" title for first content
+            all_titles.append("Main article")
 
-        #  Paragraph extraction
+        #  Extract paragraphs
         for p in section.find_all('p'):
+            # Get original HTML to detect if it contains downloads we want to preserve
+            p_html = str(p)
+            has_important_links = any(kw in p_html.lower() for kw in allowed_link_keywords)
+            
+            # Get clean text
             text = p.get_text(" ", strip=True)
-
-            # Clean up link artifacts like "external page", "call_made"
+            
+            # Clean up link artifacts
             text = text.replace("external page", "").replace("call_made", "")
+            text = text.replace("vertical_align_bottom", "").replace("Download", "")
             text = ' '.join(text.split())  # Normalize extra spaces
             
             if not text:
                 continue
-            if any(kw in text.lower() for kw in footer_keywords):
+                
+            # Skip short texts unless they contain important links
+            if len(text) < 20 and not has_important_links:
                 continue
-            if len(text) < 20:
+                
+            # Only filter by footer keywords if not an important link
+            if not has_important_links and any(kw in text.lower() for kw in footer_keywords):
                 continue
+                
             all_paragraphs.append(text)
-            
+    
+    # If we didn't find any content, try a less strict approach
+    if not all_paragraphs:
+        logger.warning("No paragraphs found with standard method, trying fallback approach")
+        # Try to get all paragraphs, even without the text-image class
+        for p in soup.find_all('p'):
+            text = p.get_text(" ", strip=True)
+            if text and len(text) > 20:
+                all_paragraphs.append(text)
+    
     return {
         'titles': all_titles,
         'body': '<br><br>'.join(all_paragraphs),  # use <br><br> for clearer formatting
@@ -157,24 +181,49 @@ def hybrid_parser_from_file(filepath):
     Returns:
         dict: Dictionary containing parsed data from both parsers
     """
-    # Read the HTML file
-    try:
-        with open(filepath, 'r', encoding='utf-8') as f:
-            html_content = f.read()
-    except UnicodeDecodeError:
-        # Try with a different encoding if UTF-8 fails
-        with open(filepath, 'r', encoding='latin-1') as f:
-            html_content = f.read()
+    # Read the HTML file with error handling for different encodings
+    encodings_to_try = ['utf-8', 'latin-1', 'cp1252', 'iso-8859-1']
+    html_content = None
+    
+    for encoding in encodings_to_try:
+        try:
+            with open(filepath, 'r', encoding=encoding) as f:
+                html_content = f.read()
+                logger.debug(f"Successfully read file with {encoding} encoding")
+                break
+        except UnicodeDecodeError:
+            logger.debug(f"Failed to read with {encoding} encoding, trying next...")
+    
+    if html_content is None:
+        raise ValueError(f"Could not read file with any encoding: {filepath}")
+    
+    # Extract the language from the path (e.g., "de_internal", "en_news_events")
+    language_folder = filepath.parts[-4] if len(filepath.parts) >= 4 else "unknown"
+    language = language_folder.split('_')[0] if '_' in language_folder else "unknown"
     
     # Use BeautifulSoup to extract clean body and titles
     bs4_data = parse_with_bs4(html_content)
     
     # Use Docling to extract structured markdown
-    docling_data = parse_with_docling(str(filepath))
-
+    try:
+        docling_data = parse_with_docling(str(filepath))
+    except Exception as e:
+        logger.warning(f"Docling parsing failed: {e}. Using fallback.")
+        docling_data = {'body': '## Main article\n\n'}
+    
+    # Extract year and month from filepath if available
+    try:
+        year = filepath.parts[-3] if len(filepath.parts) >= 3 else "unknown"
+        month = filepath.parts[-2] if len(filepath.parts) >= 2 else "unknown"
+    except (IndexError, ValueError):
+        year, month = "unknown", "unknown"
+    
     return {
         'filepath': filepath,
         'filename': filepath.name,
+        'language': language,
+        'year': year,
+        'month': month,
         'bs4_body': bs4_data['body'],
         'bs4_titles': bs4_data['titles'],
         'bs4_paragraphs': bs4_data['paragraphs'],
@@ -266,6 +315,17 @@ def process_html_file(html_file, dry_run=False):
     # Parse the file
     result = hybrid_parser_from_file(html_file)
     
+    # Check if we extracted any content
+    if not result['bs4_paragraphs']:
+        logger.warning(f"No content extracted from {html_file}")
+        if dry_run:
+            return {
+                'html_file': html_file,
+                'markdown_file': None,
+                'chunks': [],
+                'status': 'empty'
+            }
+    
     # Create chunks
     docling_chunks = chunk_docling_markdown(result['docling_markdown'])
     content_chunks = distribute_bs4_text(result['bs4_paragraphs'], docling_chunks)
@@ -279,6 +339,11 @@ def process_html_file(html_file, dry_run=False):
     
     # Create markdown content
     markdown_content = f"# {html_file.stem}\n\n"
+    
+    # Add metadata section
+    markdown_content += f"**Source:** {html_file.relative_to(html_file.parents[3])}\n\n"
+    
+    # Add content chunks
     for chunk in content_chunks:
         markdown_content += f"## {chunk['title']}\n\n"
         paragraphs = chunk['body'].split('<br><br>')
@@ -287,24 +352,32 @@ def process_html_file(html_file, dry_run=False):
             if clean:
                 markdown_content += clean + "\n\n"
     
-    # Define the output file path
+    # Define the output file path - keep the same structure as the original
     markdown_file = html_file.with_suffix('.md')
     
     if not dry_run:
         # Create parent directories if they don't exist
         markdown_file.parent.mkdir(parents=True, exist_ok=True)
         
-        # Save the markdown file
-        with open(markdown_file, 'w', encoding='utf-8') as f:
-            f.write(markdown_content)
-        logger.info(f"Saved: {markdown_file}")
+        # Make sure we have some content before saving
+        if len(''.join(result['bs4_paragraphs'])) > 30:
+            # Save the markdown file
+            with open(markdown_file, 'w', encoding='utf-8') as f:
+                f.write(markdown_content)
+            logger.info(f"Saved: {markdown_file}")
+        else:
+            logger.warning(f"Skipped saving {markdown_file} - insufficient content")
     else:
         logger.info(f"Would save to: {markdown_file}")
+        
+        # Debug output for dry run to check content
+        logger.debug(f"Content preview:\n{markdown_content[:500]}...")
     
     return {
         'html_file': html_file,
         'markdown_file': markdown_file,
-        'chunks': content_chunks
+        'chunks': content_chunks,
+        'status': 'success'
     }
 
 def main():
@@ -313,8 +386,11 @@ def main():
     """
     parser = argparse.ArgumentParser(description='Hybrid HTML Parser using BeautifulSoup + Docling')
     parser.add_argument('--root', type=str, default='HKNews', help='Root directory to search for HTML files')
+    parser.add_argument('--output', type=str, default=None, help='Output directory (default: same as input)')
     parser.add_argument('--dry-run', action='store_true', help='Don\'t save files, just simulate')
     parser.add_argument('--verbose', action='store_true', help='Enable verbose logging')
+    parser.add_argument('--file', type=str, default=None, help='Process a single file instead of entire directory')
+    parser.add_argument('--summary', action='store_true', help='Generate summary report')
     args = parser.parse_args()
     
     # Set log level
@@ -324,25 +400,68 @@ def main():
     # Convert root to Path object
     root_dir = Path(args.root)
     
-    # Find all HTML files
-    html_files = find_html_files(root_dir)
+    # Find files to process
+    if args.file:
+        # Process single file
+        file_path = Path(args.file)
+        if not file_path.exists():
+            logger.error(f"File not found: {file_path}")
+            return
+        html_files = [file_path]
+    else:
+        # Find all HTML files in directory
+        html_files = find_html_files(root_dir)
+    
     logger.info(f"Found {len(html_files)} HTML files to process")
     
     # Process each file
     processed_files = []
+    errors = []
+    empty_files = []
+    
     for html_file in html_files:
         try:
             result = process_html_file(html_file, dry_run=args.dry_run)
             processed_files.append(result)
+            
+            # Track empty files
+            if result.get('status') == 'empty':
+                empty_files.append(html_file)
+                
         except Exception as e:
             logger.error(f"Error processing {html_file}: {e}")
+            errors.append((html_file, str(e)))
     
-    logger.info(f"Successfully processed {len(processed_files)} files")
+    # Generate processing report
+    success_count = len(processed_files) - len(empty_files) - len(errors)
+    logger.info(f"Processing complete:")
+    logger.info(f"  - Successfully processed: {success_count} files")
+    logger.info(f"  - Empty content (skipped): {len(empty_files)} files")
+    logger.info(f"  - Errors: {len(errors)} files")
     
-    # Optional: Generate a summary report
-    if processed_files:
-        logger.info("Processing complete")
+    # Generate detailed summary report if requested
+    if args.summary and not args.dry_run:
+        summary_file = root_dir / "parsing_summary.txt"
+        with open(summary_file, 'w', encoding='utf-8') as f:
+            f.write(f"# HTML Parsing Summary Report\n")
+            f.write(f"Date: {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
+            f.write(f"Total files processed: {len(html_files)}\n")
+            f.write(f"Successfully processed: {success_count}\n")
+            f.write(f"Empty content (skipped): {len(empty_files)}\n")
+            f.write(f"Errors: {len(errors)}\n\n")
+            
+            if empty_files:
+                f.write("## Files with empty content\n")
+                for file in empty_files:
+                    f.write(f"- {file.relative_to(root_dir)}\n")
+                f.write("\n")
+            
+            if errors:
+                f.write("## Files with errors\n")
+                for file, error in errors:
+                    f.write(f"- {file.relative_to(root_dir)}: {error}\n")
+                    
+        logger.info(f"Summary report saved to {summary_file}")
 
 if __name__ == "__main__":
     main()
-    

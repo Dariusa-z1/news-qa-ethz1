@@ -1,5 +1,7 @@
 # voyage-to-the-base-of-the-food-chain
 
+**Source:** en_news_events/2017/02/voyage-to-the-base-of-the-food-chain.html
+
 ## Golden sediment in the filter
 
 The captain sets course directly south out of Hobart, taking us across the Antarctic Circumpolar Current in just five days. This strongest of ocean currents flows eastward around Antarctica, transporting nutrient-rich water from the dark depths to the sunlit surface layer. Thriving in these icy, wind-whipped waters are diatoms – photosynthetic, single-celled organisms that encase themselves in opal shells as protection from their tiny, toothy predators.

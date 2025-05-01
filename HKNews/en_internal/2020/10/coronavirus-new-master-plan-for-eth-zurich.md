@@ -1,5 +1,7 @@
 # coronavirus-new-master-plan-for-eth-zurich
 
+**Source:** en_internal/2020/10/coronavirus-new-master-plan-for-eth-zurich.html
+
 ## Some teaching activity can be on site
 
 Most teaching will be online, except for courses which require the use of infrastructure on site. Wearing face masks will now be compulsory across the entire campus. The number of participants in events is also limited to 50 people. These are the most important new measures contained in the master plan approved by the Executive Board, which comes into force on Monday 2 November. The tighter restrictions are in response to the new measures introduced by the Federal Council last Wednesday.
@@ -18,33 +20,31 @@ The Rector will send an email to doctoral students with detailed information on 
 
 ## Events and ASVZ sport activities
 
-Student workplaces will still be available on campus so that students can combine classroom events with online teaching. These places are also intended for students whose living situation prevents them from studying and working at home, or for students suffering from social isolation. “The switch to online teaching once again makes us very conscious of the mental health of our students,” says the Rector. In view of this, the Executive Board has decided to keep university buildings open in principle. To keep student services running, the various desks and other contact points, such as Student Services and Academic Services, will remain open, although with slightly different opening times. The Rector urges all students to strictly follow the rules on physical distancing and hygiene at all times, otherwise the Executive Board will be forced to close all university buildings with immediate effect.
+The obligation to wear face masks indoors has now been extended to include outdoor areas on all ETH sites. In addition, all staff now have to wear a face mask in the workplace as well. The only exception is when someone is working in a room on their own.
 
 ## Town hall meeting at 11 a.m. on Thursday, 5 November
 
-The obligation to wear face masks indoors has now been extended to include outdoor areas on all ETH sites. In addition, all staff now have to wear a face mask in the workplace as well. The only exception is when someone is working in a room on their own.
+Remote working is the recommended option, so all staff should work from home wherever possible. The only exclusion is for experimental research and for spin-off companies based on campus, as well as teaching events and student activity with an experimental component.
 
 ## Further information
 
-Remote working is the recommended option, so all staff should work from home wherever possible. The only exclusion is for experimental research and for spin-off companies based on campus, as well as teaching events and student activity with an experimental component.
+Remote working and online teaching inevitably mean a sharp reduction in catering facilities. This not only affects the number of facilities open, but also their opening hours. Current information can be found on the Gastronomy website . The Executive Board appeals to all ETH members who have to work on site to reduce their visits to catering facilities as much as possible. Under the new restrictions, no more than four persons can sit at the same table. In addition, visitors who do not have a connection to the university will no longer be served in ETH catering facilities unless they are personal guests of ETH members.
 
 ## Related articles
 
-Remote working and online teaching inevitably mean a sharp reduction in catering facilities. This not only affects the number of facilities open, but also their opening hours. Current information can be found on the Gastronomy website . The Executive Board appeals to all ETH members who have to work on site to reduce their visits to catering facilities as much as possible. Under the new restrictions, no more than four persons can sit at the same table. In addition, visitors who do not have a connection to the university will no longer be served in ETH catering facilities unless they are personal guests of ETH members.
+Under the new Federal Council restrictions, the maximum number of participants at ETH events is limited to 50 people. Here too, the Executive Board urges organisers to exercise extreme caution. Permission will no longer be granted for public events, or those organised by ETH partners. Catering for events is only possible within university catering facilities, with guests seated at tables to consume food and drink. Drinks receptions where participants are standing are not allowed.
 
 ## Subscribe to Newsletter
 
-Under the new Federal Council restrictions, the maximum number of participants at ETH events is limited to 50 people. Here too, the Executive Board urges organisers to exercise extreme caution. Permission will no longer be granted for public events, or those organised by ETH partners. Catering for events is only possible within university catering facilities, with guests seated at tables to consume food and drink. Drinks receptions where participants are standing are not allowed.
+The new Federal Council decision has a significant impact on the sport activities provided by ASVZ. Up-to-date information – including the relevant safety precautions – can be found on the ASVZ website .
 
 ## Staffnet
 
-The new Federal Council decision has a significant impact on the sport activities provided by ASVZ. Up-to-date information – including the relevant safety precautions – can be found on the ASVZ website .
-
 Libraries and exhibitions are not affected by the decision of the Federal Council, so the respective ETH facilities remain open.
 
-“With the new master plan, we have made use of every available opportunity to maintain operations despite the tight constraints,” says Ueli Weidmann, “But we appreciate that they impose severe restrictions on all ETH members.” Unfortunately, the most effective measure to prevent the virus from spreading continues to be reducing the amount of contact to the absolute minimum, both inside and outside the university.
-
 Given the difficult weeks – and possibly even months – that lie ahead of us, the Executive Board is inviting all staff and students to a town hall meeting next Thursday, 5 November at 11 a.m . An invitation will be sent via email on Monday.
+
+Master plan phase 3.3.3. (effective 2 November 2020)
 
 ETH Zurich to suspend most classroom teaching (ETH-News, 23.10.2020)
 

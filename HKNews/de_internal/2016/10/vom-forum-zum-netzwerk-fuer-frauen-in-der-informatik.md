@@ -1,5 +1,7 @@
 # vom-forum-zum-netzwerk-fuer-frauen-in-der-informatik
 
+**Source:** de_internal/2016/10/vom-forum-zum-netzwerk-fuer-frauen-in-der-informatik.html
+
 ## Main article
 
 CSNOW (Network of Women in Computer Science, bisher: Forum für Frauen in der Informatik) lädt alle interessierten Studentinnen und Studenten, Fakultätsmitglieder und Angestellte ein, mit uns einen Schritt vorwärts in Richtung mehr Diversität in der Informatik zu machen.

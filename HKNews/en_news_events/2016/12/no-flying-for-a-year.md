@@ -1,5 +1,7 @@
 # no-flying-for-a-year
 
+**Source:** en_news_events/2016/12/no-flying-for-a-year.html
+
 ## Firstly: finding practical solutions
 
 A year ago, I decided to give up flying (see my previous blog ). And for good reason: in order to achieve the climate goals drawn up in Paris and ratified by countries in sufficient number, our society must reduce CO 2 emissions to zero in the next decades. The scientific community can set a good example here, and test for itself how institutions can be reformed in order for a climate-friendly society to function.
@@ -35,8 +37,6 @@ Abstaining from flying has served to increasingly focus my research work on real
 Better to fly less often, and tackle real, thorny issues more vigorously. Better to deal with your own problems – even if there’s no acclaim for it – than to explain to others theirs. Better to help train more scientists from less developed countries than consider ourselves as indispensable experts.
 
 Why should the discovery of flying be considered such a milestone, while not flying doesn’t feature on any innovation programme? I’d like to suggest that ETH raise a substantial charge on all flights and the money be given to an innovation fund to finance research for a CO 2 -free university.
-
-Next year I shall also endeavour not to fly. I sincerely hope that 2017 will be a year of many non-fliers; and I’m not the only one with these aspirations [2]. ETH too has initiated a mobility platform that serves as a contact and coordination office for sustainable mobility at ETH, and aims to specifically address the dilemma of business air travel [3].
 
 This text was published also in the Tagesanzeiger (print and online ).
 

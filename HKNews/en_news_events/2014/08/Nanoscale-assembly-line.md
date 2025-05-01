@@ -1,5 +1,7 @@
 # Nanoscale-assembly-line
 
+**Source:** en_news_events/2014/08/Nanoscale-assembly-line.html
+
 ## Production line three times thinner than a hair
 
 Cars, planes and many electronic products are now built with the help of sophisticated assembly lines. Mobile assembly carriers, on to which the objects are fixed, are an important part of these assembly lines. In the case of a car body, the assembly components are attached in various work stages arranged in a precise spatial and chronological sequence, resulting in a complete vehicle at the end of the line.

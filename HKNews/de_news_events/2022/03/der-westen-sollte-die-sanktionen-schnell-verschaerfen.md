@@ -1,5 +1,7 @@
 # der-westen-sollte-die-sanktionen-schnell-verschaerfen
 
+**Source:** de_news_events/2022/03/der-westen-sollte-die-sanktionen-schnell-verschaerfen.html
+
 ## Main article
 
 ETH-News: Herr Ambühl, es herrscht nun seit über drei Wochen Krieg in der Ukraine. Wie schätzen sie die Situation ein? Michael Ambühl: Der Widerstand der ukrainischen Bevölkerung ist eindrücklich und verdient grössten Respekt. Dem Präsidenten, der Bevölkerung und der Armee ist das schier Unvorstellbare gelungen: Putins Militärmaschinerie aus dem Trott zu bringen und seine Blitzkrieg-Vorstellungen zu durchkreuzen.

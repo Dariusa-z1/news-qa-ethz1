@@ -1,5 +1,7 @@
 # antimicrobial-masks-now-available-at-ETH%20Store
 
+**Source:** en_internal/2021/01/antimicrobial-masks-now-available-at-ETH%20Store.html
+
 ## Main article
 
 Founded in 2005, HeiQ is an ETH spin-off that develops chemicals to equip textiles with special properties such as being anti-static, water resistant or odour neutral. Currently HeiQ has been enjoying success with its antimicrobial textile treatment, which has been shown to be effective against SARS-CoV-2*. According to HeiQ, this product is responsible for more than doubling the company's revenues in the first half of 2020. HeiQ has been listed on the London Stock Exchange since December 2020.

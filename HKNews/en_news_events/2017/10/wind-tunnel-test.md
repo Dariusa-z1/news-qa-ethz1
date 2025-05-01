@@ -1,5 +1,7 @@
 # wind-tunnel-test
 
+**Source:** en_news_events/2017/10/wind-tunnel-test.html
+
 ## No longer flying blind
 
 The skier buckles her boots, grabs her poles and snaps her goggles into place. She's ready to go – but she’s not on the piste. She’s in ETH Zurich's engineering lab. And there’s a good reason for this peculiar situation: up-and-coming athletes recently spent a week in the ETH’s wind tunnel testing a measuring method developed by the Institute of Fluid Dynamics. Ski racers, ski cross competitors and racing cyclists all attempted to find the most streamlined equipment and aerodynamic positions in the wind tunnel.

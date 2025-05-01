@@ -1,5 +1,7 @@
 # das-gefluester-einzelner-zellen-belauschen
 
+**Source:** de_news_events/2019/07/das-gefluester-einzelner-zellen-belauschen.html
+
 ## Ein neuartiger Nanosensor
 
 Damit die Zellen unseres Körpers als Einheit funktionieren, müssen sie ständig miteinander kommunizieren. Sie scheiden Signalstoffe aus, Ionen, Proteine oder Nukleinsäuren, die von Nachbarzellen registriert werden. Diese geben das Signal ihrerseits an andere Zellen weiter. Nur durch diese Kommunikation funktionieren beispielsweise unsere Muskeln, das Verdauungssystem oder das Gehirn. Und nur dadurch erkennt unser Immunsystem Krankheitserreger oder kranke Zellen und kann darauf reagieren – wiederum, indem es Signale aussendet, um die Immunabwehr zu mobilisieren. Wenn bei dieser Signalisation zwischen Zellen etwas falsch läuft, führt das zu Krankheiten, etwa Krebs oder Autoimmun­erkrankungen. «Deshalb ist es wichtig, zu erforschen, welche Signale die Zellen in welcher Situation aussenden», sagt Morteza Aramesh. Der Biophysiker im Labor für Biosensoren und Bioelektronik an der ETH Zürich hat eine neue Methode entwickelt, die genau das möglich macht: die Kommunikation einer einzelnen Zelle abhören.

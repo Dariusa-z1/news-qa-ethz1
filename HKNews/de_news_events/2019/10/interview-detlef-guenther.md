@@ -1,5 +1,7 @@
 # interview-detlef-guenther
 
+**Source:** de_news_events/2019/10/interview-detlef-guenther.html
+
 ## Main article
 
 ETH-News: Detlef Günther, im Sommer haben ETH-Forschende um Professor Tom Crowther eine Studie publiziert, die das Potenzial der Waldaufforstung zur CO 2 -Reduktion quantitativ schätzt. Heute äusserten sich in Science gleich zahlreiche Forschende aus aller Welt kritisch zur Studie. Das ist aussergewöhnlich oder nicht? Detlef Günther: Dass sich Forschende einer Hypothese unterschiedlich annähern, ist überhaupt nicht aussergewöhnlich. Der wissenschaftliche Prozess ist ein ständiger Diskurs und ein Hinterfragen von Hypothesen.

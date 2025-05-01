@@ -1,5 +1,7 @@
 # zehn-gruende-ins-gruene-zu-gehen
 
+**Source:** de_internal/2018/07/zehn-gruende-ins-gruene-zu-gehen.html
+
 ## ETH Zentrum
 
 In luftigen Höhen: Auf der Gartenterrasse des LEE-Gebäudes geniesst man ein kleines bisschen Feriengefühl. Liegen und Stühle laden zu einer Pause ein, die reichhaltige Pflanzenkultur sorgt für eine entspannte Atmosphäre. Die Terrasse ist montags bis freitags von 7 bis 19 Uhr zugänglich.

@@ -1,5 +1,7 @@
 # the-grey-energy-in-smartphones-and-sausages
 
+**Source:** en_news_events/2015/02/the-grey-energy-in-smartphones-and-sausages.html
+
 ## A smartphone – really a global affair
 
 A lot of the debate about the referendum has been about whether it makes sense or not. As a researcher on energy and environment with some training in life cycle assessment (LCA), I wondered how they would go about calculating this proposed new energy tax.

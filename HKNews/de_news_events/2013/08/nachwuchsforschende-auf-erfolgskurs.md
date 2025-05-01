@@ -1,5 +1,7 @@
 # nachwuchsforschende-auf-erfolgskurs
 
+**Source:** de_news_events/2013/08/nachwuchsforschende-auf-erfolgskurs.html
+
 ## Erfolg hält seit Jahren an
 
 - Kurzporträts der acht Jungforscherinnen und -forscher auf ETH Life.
@@ -13,6 +15,4 @@ Bereits zum sechsten Mal vergibt der ERC die «Starting Independent Researcher G
 ## Kontakt
 
 Keine andere Schweizer Universität erhielt dieses Jahr mehr ERC Startings Grants als die ETH Zürich. Mit den acht Auszeichnungen ist die Zürcher Hochschule erneut äusserst erfolgreich beim Wettbewerb um europäische Forschungsgelder. Zusammen mit den neuen Grants wurden in den letzten sechs Jahren insgesamt 32 ETH-Jungforscherinnen und -forscher geehrt und ihre Pro-jekte mit über 57 Mio. Schweizer Franken gefördert. «Dass die ETH Zürich jedes Jahr neue junge Forscherinnen und Forscher hervorbringt, die mit ihren Projekten im europäischen Wettstreit überzeugen können, ist äusserst erfreulich. Ausserordentliche Talente wie diese sind die Zukunft der Spitzenforschung an der ETH Zürich und in Europa», freut sich Roland Siegwart, Vizepräsident für Forschung und Wirtschaftsbeziehungen an der ETH Zürich.
-
-ETH Zürich Medienstelle Tel. +41 44 632 41 41
 

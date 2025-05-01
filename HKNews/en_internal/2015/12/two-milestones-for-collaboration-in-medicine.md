@@ -1,5 +1,7 @@
 # two-milestones-for-collaboration-in-medicine
 
+**Source:** en_internal/2015/12/two-milestones-for-collaboration-in-medicine.html
+
 ## A communicative campus
 
 Breath tests will increasingly be used to diagnose disease in the future. “There is great potential in breath testing”, said Renato Zenobi, Professor of Analytical Chemistry at ETH Zurich, at the annual event by University Medicine Zurich. He presented the project on ‘What the breath reveals’ together with Malcolm Kohler, Director of the Department of Pulmonology at University Hospital Zurich.

@@ -1,5 +1,7 @@
 # praktisches-koennen-unter-beweis
 
+**Source:** de_news_events/2017/05/praktisches-koennen-unter-beweis.html
+
 ## Verantwortung bei den Studierenden
 
 ETH-Zentrum, CLA-Gebäude, Raum J31: Dort, wo sich heute Computer an Computer und Schreibtisch an Schreibtisch drängen, befand sich Anfang September noch ein leeres Zimmer. «Wir mussten unser Projekt von Null aufbauen», beschreibt Lorenz Affentranger, Maschinenbau-Student im sechsten Semester, den Start des Fokusprojekts externe Seite Ftero . Bei dem Projekt geht es darum, ein neuartiges System zur Energiegewinnung aus Windkraft zu entwickeln.

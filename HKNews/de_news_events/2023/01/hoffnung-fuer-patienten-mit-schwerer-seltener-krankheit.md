@@ -1,5 +1,7 @@
 # hoffnung-fuer-patienten-mit-schwerer-seltener-krankheit
 
+**Source:** de_news_events/2023/01/hoffnung-fuer-patienten-mit-schwerer-seltener-krankheit.html
+
 ## Vernetzung als Erfolgsfaktor
 
 Von der Stoffwechselkrankheit Methylmalonazidurie (MMA) ist eines von 90’000 Neugeborenen betroffen, wenn beide Elternteile eine genetische Veranlagung für die Krankheit tragen. Damit gehört sie zu den seltenen Krankheiten. Ihre Folgen sind allerdings schwerwiegend: Ein Enzym, das die jungen Patient:innen für den Energiestoffwechsel benötigen, ist defekt. Ein bestimmtes Stoffwechselprodukt wird daher nicht wie bei gesunden Personen zur Energiegewinnung abgebaut, sondern es reichert sich im Körper an und schädigt ihn. MMA gilt als unheilbar. Bis zu einem gewissen Grad können Ärzt:innen den Betroffenen zwar helfen, dennoch kann es zu Wachstumsverzögerungen, Nierenversagen und schweren neurologischen Beeinträchtigungen kommen. Betroffene Kinder und Jugendliche sind oft auf den Rollstuhl angewiesen, und nicht immer überleben sie und erreichen das Erwachsenenalter.

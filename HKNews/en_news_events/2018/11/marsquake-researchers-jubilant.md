@@ -1,5 +1,7 @@
 # marsquake-researchers-jubilant
 
+**Source:** en_news_events/2018/11/marsquake-researchers-jubilant.html
+
 ## ETH group will run Marsquake service
 
 The InSight mission has reached another milestone: after spending over six months flying through space, the spacecraft entered the thin Martian atmosphere on Monday evening, deployed a large parachute as it commenced its descent and then fired its retroboosters to slow its descent further allowing it to make a soft landing on the Elysium Planitia plain. The entire landing manoeuvre took just six minutes. The spacecraft was launched from California on 5 May 2018 on an Atlas V launch vehicle. It covered a distance of 485 million kilometres at a speed of over 10,000 kilometres an hour. “I am delighted and relieved that the landing has gone so smoothly,” says Domenico Giardini, Professor of Geophysics and Seismology at ETH Zurich, who is responsible for the Swiss contribution to the InSight mission and followed the landing live in California.

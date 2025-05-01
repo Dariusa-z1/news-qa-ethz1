@@ -1,5 +1,7 @@
 # europa-muss-sich-unabhaengiger-von-china-machen
 
+**Source:** de_news_events/2023/04/europa-muss-sich-unabhaengiger-von-china-machen.html
+
 ## Main article
 
 - China, Russia, and the Future of World Order

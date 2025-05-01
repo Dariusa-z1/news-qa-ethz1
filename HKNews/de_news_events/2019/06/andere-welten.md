@@ -1,5 +1,7 @@
 # andere-welten
 
+**Source:** de_news_events/2019/06/andere-welten.html
+
 ## Messungen auf dem Mars
 
 Im Jahr 1608 schrieb der Astronom und Mathematiker Johannes Kepler einen Roman. Das Buch mit dem Titel «Somnium» handelt von einem Traum einer Reise zum Mond. Darin schildern Dämonen detailgenau, wie sie Menschen innerhalb von vier Stunden zum Mond bringen können. Die fiktive, fast märchenhafte Geschichte, in der auch Hexen und Mondmenschen vorkommen, gilt als einer der ersten Zukunftsromane überhaupt. Kepler ist demnach nicht nur einer der Begründer der modernen Naturwissenschaften, sondern eben auch des Genres der Science-Fiction.

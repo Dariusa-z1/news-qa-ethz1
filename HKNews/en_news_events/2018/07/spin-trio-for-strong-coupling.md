@@ -1,5 +1,7 @@
 # spin-trio-for-strong-coupling
 
+**Source:** en_news_events/2018/07/spin-trio-for-strong-coupling.html
+
 ## Qubits with charge or spin
 
 Quantum computers use quantum bits or “qubits” to do their calculations – quantum states, that is, of atoms or electrons that can take on the logical values “0” and “1” at the same time. In order to wire up many such qubits to make a powerful quantum computer, one needs to couple them to each other over distances of millimetres or even several metres. One way of achieving this is by exploiting the charge displacement caused by an electromagnetic wave, which is the working principle of an antenna. Such a coupling, however, also exposes the qubit to disturbances due to unwanted electric fields, which severely limits the quality of the logical qubit operations.

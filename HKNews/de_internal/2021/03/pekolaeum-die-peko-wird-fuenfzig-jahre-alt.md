@@ -1,5 +1,7 @@
 # pekolaeum-die-peko-wird-fuenfzig-jahre-alt
 
+**Source:** de_internal/2021/03/pekolaeum-die-peko-wird-fuenfzig-jahre-alt.html
+
 ## Vielseitige Aufgaben
 
 - 8. April, 16-17 Uhr: Podiumsdiskussion über die Geschichte, Bedeutung und Zukunft der PeKo der ETH Zürich. Die Veranstaltung kann auf der PeKo-Website live mitverfolgt werden.

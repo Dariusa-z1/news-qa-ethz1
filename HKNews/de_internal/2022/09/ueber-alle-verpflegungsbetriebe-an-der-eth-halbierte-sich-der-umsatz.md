@@ -1,5 +1,7 @@
 # ueber-alle-verpflegungsbetriebe-an-der-eth-halbierte-sich-der-umsatz
 
+**Source:** de_internal/2022/09/ueber-alle-verpflegungsbetriebe-an-der-eth-halbierte-sich-der-umsatz.html
+
 ## Main article
 
 Manche Gastrobetriebe an der ETH sind geschlossen, obwohl sie vor der Pandemie brummten, wie etwa der Polysnack im Hauptgebäude. Herr Perich, ist das immer noch ein Nachwehen der Pandemie?

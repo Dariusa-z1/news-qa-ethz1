@@ -1,5 +1,7 @@
 # creative-proofs-with-pigeons-and-boxes
 
+**Source:** en_news_events/2016/05/creative-proofs-with-pigeons-and-boxes.html
+
 ## The beauty of putative reasons
 
 Mathematics is sometimes like football. Solving a tricky task is not a solitary endeavour, but rather a joint effort requiring creativity and tactics. A lot is going on when secondary school students come together to solve mathematical problems at the ETH Math Youth Academy. A student comes up with an idea, a second one picks it up, suggests a possible solution and passes it to their teammate, who then scores: the problem is solved.

@@ -1,5 +1,7 @@
 # traumata-rueckgaengig-gemacht
 
+**Source:** de_news_events/2016/06/traumata-rueckgaengig-gemacht.html
+
 ## Positive Umgebung macht Auffälligkeiten rückgängig
 
 Traumatische Erlebnisse in der Kindheit erhöhen das Risiko, später im Leben Verhaltensauffällig­keiten oder psychische Krankheiten zu entwickeln. Ebenso bekannt ist, dass negative Folgen eines Traumas auch bei den Kindern von Betroffenen auftreten können, auch wenn diese selbst keinen solchen Stress erfahren haben.

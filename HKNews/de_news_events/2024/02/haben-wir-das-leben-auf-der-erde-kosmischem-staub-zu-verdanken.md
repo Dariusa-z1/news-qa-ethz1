@@ -1,5 +1,7 @@
 # haben-wir-das-leben-auf-der-erde-kosmischem-staub-zu-verdanken
 
+**Source:** de_news_events/2024/02/haben-wir-das-leben-auf-der-erde-kosmischem-staub-zu-verdanken.html
+
 ## In Kürze
 
 - Forschende halten es für wahrscheinlich, dass biologisch relevante Elemente wie Schwefel, Phosphor, Kohlenstoff und Stickstoff vor allem mit kosmischem Staub auf die Erde gelangt sind.

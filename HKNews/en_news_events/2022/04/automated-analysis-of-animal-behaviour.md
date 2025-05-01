@@ -1,5 +1,7 @@
 # automated-analysis-of-animal-behaviour
 
+**Source:** en_news_events/2022/04/automated-analysis-of-animal-behaviour.html
+
 ## Suitable for all animal species
 
 Researchers engaged in animal behaviour studies often rely on hours upon hours of video footage which they manually analyse. Usually, this requires researchers to work their way through recordings spanning several weeks or months, laboriously noting down observations on the animals’ behaviour. Now researchers at ETH Zurich and University of Zurich have come up with an automated way to analyse these kinds of recordings. The image-analysis algorithm they have developed makes use of computer vision and machine learning. It can distinguish individual animals and identify specific behaviours, such as those that signal curiosity, fear, or harmonious social interactions with other members of their species.

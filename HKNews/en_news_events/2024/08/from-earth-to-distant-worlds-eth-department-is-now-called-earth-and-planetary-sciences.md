@@ -1,5 +1,7 @@
 # from-earth-to-distant-worlds-eth-department-is-now-called-earth-and-planetary-sciences
 
+**Source:** en_news_events/2024/08/from-earth-to-distant-worlds-eth-department-is-now-called-earth-and-planetary-sciences.html
+
 ## Main article
 
 ETH News: Professor Robertsson, your department has just been renamed. What was the reason for the name change? Johan Robertsson: We were more than ready for this change. Over half the professors in our department are already working on topics directly or indirectly related to space, with approaches rooted in the Earth sciences but closely connected to chemistry, physics and biology. The spectrum of topics ranges from remote sensing of the Earth from space to studying exoplanets and gravitational waves. Our department played a key role in the Insight mission to Mars. We have people who research the dynamics of other planets and how they form and evolve over time. We have been part of sample return missions involving rock samples that are retrieved from asteroids or Mars, for example, and analysed in our unique laboratories. The latest large telescopes are currently being used to analyse the geochemical signatures of exoplanets to detect any evidence of life. Our department is home to several professors who are members of the Centre for the Origin and Prevalence of Life (COPL) where these observations are the cornerstone of their work.

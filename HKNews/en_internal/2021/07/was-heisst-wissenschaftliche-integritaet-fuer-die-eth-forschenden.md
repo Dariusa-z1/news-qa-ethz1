@@ -1,5 +1,7 @@
 # was-heisst-wissenschaftliche-integritaet-fuer-die-eth-forschenden
 
+**Source:** en_internal/2021/07/was-heisst-wissenschaftliche-integritaet-fuer-die-eth-forschenden.html
+
 ## Discussion about new ETH Integrity Guidelines opened
 
 - Reliability ensures quality in teaching and research and underpins credibility as well as trust in science. It refers to all phases of scientific work, from conception (including selection of the project and project partners) to publication and data maintenance. Reliability involves transparency and traceability.

@@ -1,5 +1,7 @@
 # interview-wood-wallraff
 
+**Source:** de_news_events/2021/09/interview-wood-wallraff.html
+
 ## Über die Personen
 
 Kürzlich wurde der ETH-Spin-off Zurich Instruments von der deutschen Unternehmensgruppe Rohde & Schwarz übernommen. Was ist bemerkenswert daran? Vanessa Wood : Das war eine grossartige Nachricht! Eine Firma, die mit einem Nischenprodukt begann, ist nun für einen grossen Elektronik-Anbieter interessant geworden. Das zeigt, dass der Bedarf an Instrumenten für Quantentechnologie einen breiteren Markt erreicht hat. Und es bestätigt den Trend, den wir allgemein bei Investitionen in diesen Bereich sehen. Andreas Wallraff : Rohde & Schwarz ist ein grosses Unternehmen. Ihre Motivation für den Kauf war sicher, dass sich Zurich Instruments in den letzten Jahren in der Instrumentierung für Quantentechnologie zunehmend etabliert hat. Rohde & Schwarz haben zwar Produkte, die man im erweiterten Umfeld auch nutzen kann, aber sie hatten dieses Gebiet bisher noch nicht wirklich adressiert. So war es für das Unternehmen eine gute Gelegenheit, durch den Kauf eines ETH-Spin-offs in dieses Feld einzusteigen. Aber auch für uns als Labor ist das eine wichtige Nachricht, weil wir mit Zurich Instruments schon seit acht Jahren gemeinsame Projekte machen.
@@ -27,6 +29,8 @@ Andreas Wallraff ist Professor für Festkörperphysik und Leiter des Quantum Dev
 Vanessa Wood ist seit 2021 Vizepräsidentin für Wissenstransfer und Wirtschaftsbeziehungen der ETH Zürich. Zudem ist sie Professorin und Institutsleiterin am Institut für Elektronik (IfE) der ETH Zürich.
 
 Um die Spitzenposition der ETH Zürich in der Quantenforschung weiter zu stärken und nutzbar zu machen, baut die ETH gemeinsam mit dem Paul Scherrer Institut (PSI) das neue externe Seite Quantum Center auf. Die Unterstützung von Donatorinnen und Donatoren ermöglicht die Weiterentwicklung von Technologiegrundlagen für die Herstellung von Quantencomputern, ein Doktoratsprogramm sowie neue Professuren.
+
+Ausgabe als PDF lesen (PDF, 6.9 MB)
 
 Ausgabe online lesen
 

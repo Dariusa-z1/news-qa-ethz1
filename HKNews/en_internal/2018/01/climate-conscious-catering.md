@@ -1,5 +1,7 @@
 # climate-conscious-catering
 
+**Source:** en_internal/2018/01/climate-conscious-catering.html
+
 ## Unifying CO2 calculation methods
 
 - They will calculate the CO2 footprint of their annual produce

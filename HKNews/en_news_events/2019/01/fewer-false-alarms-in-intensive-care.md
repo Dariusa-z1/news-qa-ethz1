@@ -1,5 +1,7 @@
 # fewer-false-alarms-in-intensive-care
 
+**Source:** en_news_events/2019/01/fewer-false-alarms-in-intensive-care.html
+
 ## Combining data
 
 Beep, beep, beep. In intensive care units (ICU), some monitoring device or other is always sounding the alarm. Whether it’s a patient whose blood oxygen level is too low, someone in the next bed whose intracranial pressure is rising, or someone else whose blood pressure has taken a nosedive. Or perhaps just because a patient has shifted position in bed.

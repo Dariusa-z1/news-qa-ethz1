@@ -1,5 +1,7 @@
 # the-timing-is-perfect
 
+**Source:** en_news_events/2021/05/the-timing-is-perfect.html
+
 ## Main article
 
 In 1995, together with his doctoral advisor Michel Mayor, Didier Queloz caused an international furore. At the University of Geneva, the two Swiss astronomers discovered the first exoplanet orbiting a solar-type star. The duo garnered the 2019 Nobel Prize in Physics for their groundbreaking discovery.

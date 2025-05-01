@@ -1,5 +1,7 @@
 # where-next-for-eth
 
+**Source:** en_internal/2014/12/where-next-for-eth.html
+
 ## Indicatoritis
 
 ETH is one of the world’s leading technical universities. And rightly so! But how do we define “global leader”? Does it matter whether ETH moves up one or two places in a global ranking that is partially based on criteria widely regarded as dubious? This question could be dismissed as irrelevant as far as everyday university life is concerned. However, if we do consider the rankings to be important, it is only logical – and even necessary – that the quality of ETH staff is assessed using criteria that are commensurate with those employed in the rankings. It is noteworthy, this implies that the quality criteria are dictated from outside, rather than being based on internal agreement.
@@ -26,11 +28,9 @@ What causes such neglect? ETH professors usually supervise many more than ten do
 
 ## Subscribe to Newsletter
 
-The principle of “excellence before profile” has always applied when appointing professors at ETH. And rightly so! However, the key question is how to define excellence. Because we don’t believe we have enough time, we increasingly rely on indicators, and indicators are most readily available for publications – a super gap in the market discovered and filled accordingly by ISI. The quality and scope of teaching, personality traits such as team spirit, interdisciplinary interactions and the contact with practice partners are examples of criteria that I believe are just as important. But when indicatoritis strikes, they are barely (if at all) considered when assessing the excellence of colleagues.
+I have just touched upon the quality of teaching. Professors are university teachers just as much as they are researchers. We should therefore have a shared understanding of what we are teaching at ETH, and why. In the system-oriented sciences at ETH, around 80% of the MSc graduates enter the world of work, where they are welcomed with open arms – this has been the case for decades. Only around 20% enrol in a PhD project. And rightly so! We are supplying the labour market with highly qualified specialists, while a (smaller) proportion of graduates pursue an academic career.
 
 ## Staffnet
-
-I have just touched upon the quality of teaching. Professors are university teachers just as much as they are researchers. We should therefore have a shared understanding of what we are teaching at ETH, and why. In the system-oriented sciences at ETH, around 80% of the MSc graduates enter the world of work, where they are welcomed with open arms – this has been the case for decades. Only around 20% enrol in a PhD project. And rightly so! We are supplying the labour market with highly qualified specialists, while a (smaller) proportion of graduates pursue an academic career.
 
 In the Bologna reform, Switzerland adopted the term 'Master’s' from the English-speaking world, where most students leave university with a Bachelor’s degree. Only a few leave with a Master’s, primarily those who wish to pursue a PhD, but subsequently realise they have chosen the wrong subject or – for whatever reason – drop out. That is why the term “graduate students” is used to describe both MSc and PhD students. By adopting the Anglo-Saxon terms in the entirely different education system of Switzerland, many professors who are accustomed to the Anglo-Saxon system erroneously believe that the primary purpose of a Master’s is to educate future doctoral students who should already be producing papers in ISI journals with a high IF. This is associated with corresponding tendencies in the curricula and great disappointment about what can actually be achieved within an ETH Master’s project (which usually takes merely six months). Thus, in education we are also about to succumb to indicatoritis.
 

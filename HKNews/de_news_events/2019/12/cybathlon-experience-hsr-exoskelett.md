@@ -1,5 +1,7 @@
 # cybathlon-experience-hsr-exoskelett
 
+**Source:** de_news_events/2019/12/cybathlon-experience-hsr-exoskelett.html
+
 ## Gleiches Ziel, andere Ausgangslagen
 
 Es ist still im Lichthof des Forschungszentrums an der Hochschule für Technik in Rapperswil (HSR), Spannung liegt in der Luft. Die Besucherinnen und Besucher auf den Galerien halten den Atem an. Ein gurgelnder Motor durchbricht die Stille, gefolgt von Applaus. Rolf Schoch, 30 Jahre alt, querschnittgelähmt, steht von einer Holzbank auf und geht. Kompakt an seinem Körper ein 35 Kilogramm schweres Exoskelett – eine motorisierte Stützstruktur, die es Paraplegikern erlaubt, aufrecht zu stehen, zu gehen und Treppen zu steigen.

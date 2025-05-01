@@ -1,5 +1,7 @@
 # simple-questions-difficult-answers
 
+**Source:** en_news_events/2022/05/simple-questions-difficult-answers.html
+
 ## From Budapest to Cambridge
 
 Imagine a group of people. Some of them know each other; others have never met. If you connect all the pairs of individuals who know each other, while making no connections between strangers, you end up with a network of nodes and interconnections. Mathematicians refer to such a network as a graph. Social networks like Facebook can be considered as a graph. The theory of these networks is a subfield of combinatorics, a field of mathematics in which Oliver Janzer specialises. The 27-year-old scientist has been working as an ETH Fellow in the group of mathematics professor Benny Sudakov since the autumn of 2020.

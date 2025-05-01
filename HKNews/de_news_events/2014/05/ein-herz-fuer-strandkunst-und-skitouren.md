@@ -1,5 +1,7 @@
 # ein-herz-fuer-strandkunst-und-skitouren
 
+**Source:** de_news_events/2014/05/ein-herz-fuer-strandkunst-und-skitouren.html
+
 ## BeachBot – der Roboter, der Herzen zeichnet
 
 Das dritte Studienjahr ist für die Studierenden im Studiengang Maschinenbau und Verfahrenstechnik ein spezielles: Im sogenannten Fokusprojekt können sie ihr Wissen praktisch anwenden und ein Produkt nach einer eigenen Idee oder in Zusammenarbeit mit der Industrie entwickeln. Jeweils fünf bis acht Studierende bilden ein Team, das zwei Semester lang selbständig ein Produkt umsetzt. Elf Projekte sind dieses Jahr am Start, darunter der Strandroboter BeachBot und der Skischuh TourBo (Touring Boot). Weitere Highlights wurden in ETH News und im ETH-Zukunftsblog bereits vorgestellt.
@@ -25,4 +27,6 @@ Die ursprüngliche Idee war, eine bessere Tourenbindung herzustellen, doch bald 
 Die Lösung ist ein Skischuh mit einem in der Sohle integrierten Tourenmechanismus, der im Aufstieg komfortables Gehen ermöglicht und eine optimale Abfahrt erlaubt. Das selbstständige Arbeiten zu erlernen und Produkte zu entwickeln, sei wertvoll für die spätere Karriere, sagt Molins. Sehr zeitaufwendig sei die Suche nach Sponsoren gewesen, berichtet Schwarz. Ihre arbeitsintensivste Entscheidung war, von der ursprünglich geplanten Schuhgrösse 44 auf 42 umzustellen. Just zur Weihnachtszeit mussten die Studierenden schliesslich alle Teile kürzen. Umso grösser war die Freude, als das Team Anfang April mit dem Prototypen im Schnee von Klosters erste Schritte gehen konnten, erinnert sich Fabian Rüegg. Er ist hell begeistert von ihrem System: «Der TourBo ist eigentlich ganz simpel. Anders als bei herkömmlichen Tourenbindungen, in denen der Fuss vorne fixiert bleibt, ist es mit dem TourBo möglich, natürliche Schritte zu machen.»
 
 Um auf Skitour gehen zu können, müsse man nicht eine andere Bindung kaufen, sondern lediglich den Schuh. Noch vor dem Rollout morgen Dienstag soll ein zweiter verbesserter Prototyp entstehen. Testen wollen sie beide Modelle in Engelberg, weil dort das Skigebiet noch offen ist. Schwarz bedauert lediglich, dass sie ihren Schuh nicht mehr in verschiedenen Schneearten testen können. Die Gruppe hat für ihre Entwicklung bereits einen Patentantrag gestellt. Denn keiner im TourBo Team möchte das Projekt nun aufgeben.
+
+Insgesamt elf Gruppen stellen am Rollout vom 27. Mai 2014 ihre Fokusprojekte der Öffentlichkeit vor. Zwischen 14.00 und 16.00 Uhr sind die Präsentationen im AudiMax (HG F 30) zu sehen. Danach werden die Projekte in der Haupthalle des ETH-Hauptgebäudes ausgestellt. Weitere Informationen
 

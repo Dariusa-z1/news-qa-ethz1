@@ -1,5 +1,7 @@
 # together-for-the-sustainable-development-goals-ausstellung-und-events
 
+**Source:** de_internal/2021/10/together-for-the-sustainable-development-goals-ausstellung-und-events.html
+
 ## Together for the SDGs Agenda
 
 Wie können wir globale Armut und Ungleichheit bekämpfen, den Planeten schützen und sicherstellen, dass bis 2030 alle Menschen in Frieden und Wohlstand leben? Welchen Beitrag können Wissenschaft und Technologie leisten?

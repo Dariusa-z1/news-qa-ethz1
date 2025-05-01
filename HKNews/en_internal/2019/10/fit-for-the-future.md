@@ -1,5 +1,7 @@
 # fit-for-the-future
 
+**Source:** en_internal/2019/10/fit-for-the-future.html
+
 ## Main article
 
 You’ve not even been in office for a full year, but already you’ve announced a revamping of ETH organisations and the restructuring of the Executive Board. Why did you come to that decision? Joël Mesot: ETH enjoys a top international ranking in the fields of teaching, research and knowledge transfer. However, it faces ever greater challenges: global competition in research and education is getting much tougher. For some years now we have also been experiencing steady growth in student and staff numbers. Personnel and leadership issues have thus become increasingly important in recent years.

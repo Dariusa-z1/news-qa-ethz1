@@ -1,5 +1,7 @@
 # latsis-symposium-personalisierte-medizin
 
+**Source:** de_news_events/2016/06/latsis-symposium-personalisierte-medizin.html
+
 ## Personalisierte Medizin ist schon da
 
 Fachleute sehen es als vielversprechende Weiterentwicklung der Medizin: Patientendaten sollen anonymisiert und standardisiert in grossen Datenbanken gruppiert werden. Interessierte Forscher und behandelnde Ärzte hätten darauf Zugriff und könnten die Daten auswerten. Dies würde die medizinische Grundlagenforschung und die Behandlungsqualität für die einzelnen Patienten in Spitälern einen grossen Schritt weiterbringen, so die Hoffnung.

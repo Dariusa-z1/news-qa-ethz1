@@ -1,5 +1,7 @@
 # reimagining-climate-action-biodiversity-and-energy-supply-together
 
+**Source:** en_news_events/2024/05/reimagining-climate-action-biodiversity-and-energy-supply-together.html
+
 ## About the author
 
 On 9 June, Switzerland will vote on the Electricity Act. This is actually a whole package of laws – and a major compromise. It aims to achieve a secure power supply with renewable energies, even in winter, and enable Switzerland to generate more domestic electricity from sun, water and wind.

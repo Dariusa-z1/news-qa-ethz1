@@ -1,5 +1,7 @@
 # deuteron-smaller-than-thought
 
+**Source:** en_news_events/2016/08/deuteron-smaller-than-thought.html
+
 ## New experiment creates excitement
 
 A deuteron is a very simple atomic nucleus made up of just one proton and one neutron — that is, one each of the two nuclear building blocks. An international research collaboration, working at the Paul Scherrer Institute PSI, has measured the deuteron more accurately than ever before. The value they obtained for the radius of the deuteron does not, however, correspond to the measurements of other research groups but instead shows a significantly smaller value.

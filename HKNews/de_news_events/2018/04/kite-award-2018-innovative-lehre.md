@@ -1,5 +1,7 @@
 # kite-award-2018-innovative-lehre
 
+**Source:** de_news_events/2018/04/kite-award-2018-innovative-lehre.html
+
 ## Lehrende können unser Leben prägen
 
 Ehre für die Lehre: Zum zweiten Mal würdigte die Konferenz des Lehrkörpers der ETH Zürich (KdL) anlässlich der Verleihung des KITE Awards innovative Lehrformen und mithin den aussergewöhnlichen Einsatz der Lehrenden. «Mit dem Preis wollen wir fortschrittliche Lehrkonzepte auszeichnen und Impulse für weitere Ideen geben», sagte Edoardo Mazza, Professor für Mechanik und Präsident der KdL zum Auftakt der Veranstaltung vor rund 300 Gästen im Audimax. So steht «KITE» für «Key Innovation in Teaching at ETH». «Heutzutage reicht es nicht mehr aus, Wissen zu vermitteln», führte Mazza weiter aus. Vielmehr gehe es darum, die Studierenden zu lehren, selbständig und kritisch zu denken und effizient in interdisziplinären Teams zusammenzuarbeiten.
@@ -23,6 +25,4 @@ Ein virtuelles Programmierlabor: Lukas Fässler, Markus Dahinden und David Sicha
 Mit Studierenden neue Lehrformen entwickeln: Katja Köhler und Ernst Hafen haben 2016 am Departement Biologie (D-BIOL) das «Center for Active Learning» gegründet, dem sich bisher 22 Dozierende angeschlossen haben. Studierende und Doktorierende unterstützen dort Dozierende dabei, neue Lehrmittel zu entwickeln und interaktive Lehrformen umzusetzen. So etwa den «Flipped Classroom», bei dem sich die Studierenden schon vor der Veranstaltung den Lehrstoff per Video und Unterlagen aneignen und den Präsenzunterricht zur Diskussion nutzen. Oder die Analyse von quantitative Daten zum Lernverhalten der Studierenden.
 
 Nachhaltig lernen: Volker Hoffmann lehrt in seinem Kurs «Corporate Sustainability» nicht nur theoretische Konzepte zu Nachhaltigkeit, sondern hält die Studierenden zum kritischen Reflektieren an – und zum praxisnahen Anwenden des Gelernten. Dazu nutzt er interaktive Videos und E-Module und setzt die Methode des Sechs-Sätze-Arguments (6SA) ein. Im zweiten Teil des Semesters entwerfen die Studierenden anhand von Firmenbeispielen in gecoachten Kleingruppen Consulting-Strategien, bereiten Streitgespräche vor oder berechnen ökonomische Modelle.
-
-Kreative Ideen durch «Design Thinking»: Bei der ETH-Woche kommen die Studierenden in Kontakt mit Expertinnen und Experten, um Probleme zu identifizieren und sie durch neue und kreative Ansätze zu lösen. Unterstützt werden die rund 180 Teilnehmenden dabei von Tutorinnen und Tutoren. Stefano Brusoni, Alan Cabello und Lindsa Armbruster haben das «Design Thinkings» 2017 fest in die ETH-Woche integriert. Mit der mehrstufigen, prozessorientierten Methode lernen Studierende, schnell Probleme zu lösen und neue Ideen zu entwickeln.
 

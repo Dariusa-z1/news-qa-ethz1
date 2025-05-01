@@ -1,5 +1,7 @@
 # einseitige-planung-verschaerft-schwankung
 
+**Source:** de_news_events/2017/07/einseitige-planung-verschaerft-schwankung.html
+
 ## Premiere für kombinierte Analyse
 
 Der Ausbau erneuerbarer Energien steht wegen der wetterabhängigen Stromproduktion massiv in der Kritik. Eine neue Studie zeigt, dass das weniger am Wetter als an mangelnder Berücksichtigung der gesamteuropäischen Wetterverhältnisse in der Planung liegt. Denn etliche Länder Europas folgen für den Ausbau der Windenergiekapazitäten einseitig ihren nationalen Strategien, ohne über ihren eigenen Gartenzaun zu schauen.

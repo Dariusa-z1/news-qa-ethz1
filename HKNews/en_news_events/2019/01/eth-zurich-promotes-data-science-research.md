@@ -1,5 +1,7 @@
 # eth-zurich-promotes-data-science-research
 
+**Source:** en_news_events/2019/01/eth-zurich-promotes-data-science-research.html
+
 ## How data become knowledge
 
 Anyone who takes a photo with their smartphone nowadays automatically gets complete photo albums including titles, dates, maps and location names that are digitally compiled. That all happens without the users having to do anything themselves. The results are astoundingly good, or at least so good that it isn’t easy to decide who put the album together: a human being or a machine?

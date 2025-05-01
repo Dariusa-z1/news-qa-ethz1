@@ -1,5 +1,7 @@
 # seeking-help-with-mental-health-problems-is-a-strength
 
+**Source:** en_internal/2022/09/seeking-help-with-mental-health-problems-is-a-strength.html
+
 ## About Psychological Counseling Services
 
 Cornelia Beck, psychologist and psychotherapist, has been Head of UZH/ETH Psychological Counseling Services since 2016.
@@ -41,4 +43,6 @@ So the universities need to do a certain amount of rethinking? I’d like to see
 And there should be an awareness that it’s possible for any student to go through a difficult period, without it meaning that they aren’t cut out for an academic career.
 
 This anniversary will be marked at the beginning of October with a podium discussion open to all, as well as workshops for students and doctoral candidates. The anniversary also features in an installation in the UZH Lichthof and another in the ETH Gallery (HG F).
+
+More information is available on the anniversary web page (in German only) and in this flyer (PDF, 751 KB) .
 

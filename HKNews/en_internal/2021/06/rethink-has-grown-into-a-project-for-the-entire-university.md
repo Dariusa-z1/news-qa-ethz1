@@ -1,5 +1,7 @@
 # rethink-has-grown-into-a-project-for-the-entire-university
 
+**Source:** en_internal/2021/06/rethink-has-grown-into-a-project-for-the-entire-university.html
+
 ## rETHink’s main areas of action
 
 - Tasks, autonomy and guideposts for professorships and broader clarification regarding scope of teaching

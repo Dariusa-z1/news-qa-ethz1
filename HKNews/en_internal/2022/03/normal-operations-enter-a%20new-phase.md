@@ -1,5 +1,7 @@
 # normal-operations-enter-a%20new-phase
 
+**Source:** en_internal/2022/03/normal-operations-enter-a%20new-phase.html
+
 ## Recommendation to wear masks until Easter
 
 The Federal Council’s decision to terminate the special situation with effect from the end of March means that ETH Zurich can resume normal operations. As of 1 April, the Executive Board is therefore withdrawing all pandemic regulations set out in the current master plan. The same rules now apply on the campus as outside the university.

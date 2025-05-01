@@ -1,5 +1,7 @@
 # finanzierungsmoeglichkeiten-und-anforderungen-des-snf-und-der-eu
 
+**Source:** de_internal/2018/01/finanzierungsmoeglichkeiten-und-anforderungen-des-snf-und-der-eu.html
+
 ## Main article
 
 Vertreterinnen und Vertreter des Schweizerischen Nationalfonds (SNF) und von EU GrantsAccess stellen Fördermöglichkeiten vor, und Vertreterinnen der ETH-Bibliothek werden aufzeigen, was es bzgl. der neuen Regelungen des SNF zu Open Access und Datenmanagementplänen zu beachten gilt.

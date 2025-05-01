@@ -1,5 +1,7 @@
 # remote-learning-blog-stern
 
+**Source:** en_news_events/2020/05/remote-learning-blog-stern.html
+
 ## Fair exams barely feasible
 
 Since mid-March, schools and universities worldwide have faced the challenge of converting their learning instruction to ICT (information and communications technology) almost overnight. Teachers who until recently have used Moodle merely for storing slides and texts are now communicating with learners via Zoom and WhatsApp. At many institutions, including ETH, it’s working surprisingly well. Most teachers, whether at university or school, recognise that some of these digital methods will be adopted in the long term. Certainly, after presenting my lectures – hopefully to “real” students in the near future – I’ll be offering Zoom sessions for small groups at off-peak times and weekends when we can go over any outstanding questions.

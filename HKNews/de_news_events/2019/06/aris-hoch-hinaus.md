@@ -1,5 +1,7 @@
 # aris-hoch-hinaus
 
+**Source:** de_news_events/2019/06/aris-hoch-hinaus.html
+
 ## Spezielle Bremsen
 
 Sie wollen hoch hinaus. 30 Studierende der ETH Zürich, Hochschule Luzern und der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) wollen beim Spaceport America Cup 2019 mit ihrer selbst entwickelten Rakete unter die besten der rund 50 internationalen Teams gelangen. Dazu muss ihre Rakete möglichst genau die Höhe von 10'000 Fuss (3048 Meter) erreichen und anschliessend sanft mit einem Fallschirm wieder zu Boden sinken. Nur dann haben sie eine Chance auf einen Sieg bei diesem weltweit grössten Studentenwettbewerb im Raketenbau.

@@ -1,5 +1,7 @@
 # how-micro-and-nanoplastics-are-infiltrating-the-arctic-ice
 
+**Source:** en_news_events/2024/03/how-micro-and-nanoplastics-are-infiltrating-the-arctic-ice.html
+
 ## Disintegrating into new properties
 
 “Beat the Microbead” is the name of a campaign launched in 2012 with the aim of reducing the use of microplastics in cosmetic products in order to minimise negative effects on the environment and people. For Alice Pradel, the campaign was a wake-up call. “As a young environmental scientist, I was shocked that we were putting all these chemicals into the environment without bothering to find out what became of them,” she recalls. At around the same time, images were going around of the Great Pacific Garbage Patch: a huge carpet of rubbish in the middle of the Pacific, consisting largely of plastic waste and symbolising anthropogenic plastic excess. In 2020, around 400 million tonnes of plastic were produced worldwide; of this total, 9 percent was recycled, 12 percent was incinerated and the rest ended up in landfill sites, the environment or the sea.

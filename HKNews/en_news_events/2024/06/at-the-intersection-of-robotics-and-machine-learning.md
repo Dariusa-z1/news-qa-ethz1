@@ -1,5 +1,7 @@
 # at-the-intersection-of-robotics-and-machine-learning
 
+**Source:** en_news_events/2024/06/at-the-intersection-of-robotics-and-machine-learning.html
+
 ## Robots that can climb over obstacles – and more
 
 Ten years ago, they were barely able to move. Today, the autonomous walking robots developed by Marco Hutter and his team are disrupting entire fields. In the future, these highly mobile robots could assist on search and rescue missions and even explore other planets. Hutter, a professor at the ETH Zurich Department of Mechanical and Process Engineering, has been honoured for his research with this year’s Rössler Prize. “How can we build a robot that moves across terrain like a human or an animal?” was the initial question that prompted his research journey.

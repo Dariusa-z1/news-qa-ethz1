@@ -1,5 +1,7 @@
 # wie-messen-wir-die-erderwaermung
 
+**Source:** en_news_events/2015/06/wie-messen-wir-die-erderwaermung.html
+
 ## Nicht eine, sondern tausende Temperaturen
 
 Forscher der amerikanischen Wetterbehörde NOAA revidierten unlängst die globalen Temperaturdaten und kamen zum Schluss, dass sich die Erde in den letzten 15 bis 20 Jahren durchaus erwärmt habe (siehe dazu meine letzten Blogbeitrag ). Frühere Studien zeigten hingegen, dass die Erderwärmung stagnierte. Über diese sogenannte «Klimapause» wurde und wird heftig debattiert. Die neue Temperaturkurve unterscheidet sich zwar nur geringfügig von früheren Daten, dennoch zeigt sie nun für die letzten paar Jahre einen ansteigenden Trend. Warum ist es so schwierig, die globale Temperatur zuverlässig zu bestimmen?

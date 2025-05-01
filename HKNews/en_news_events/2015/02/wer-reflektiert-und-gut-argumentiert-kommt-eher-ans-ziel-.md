@@ -1,5 +1,7 @@
 # wer-reflektiert-und-gut-argumentiert-kommt-eher-ans-ziel-
 
+**Source:** en_news_events/2015/02/wer-reflektiert-und-gut-argumentiert-kommt-eher-ans-ziel-.html
+
 ## Real problems, not just exercises
 
 The students stared in disbelief. All they had expected was a little feedback on their work. In a leadership course, they had designed a monitoring system that a company can use to verify its change management in employee groups. And now the CEO himself had come to ETH. The people responsible for the company’s change management also attended via the online video chat service Skype. The CEO then informed the surprised students that their monitoring concept was so good that the company had developed it and already rolled it out globally across all its operations.

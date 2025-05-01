@@ -1,5 +1,7 @@
 # goldenes-dreirad-2014-der-preis-fuer-eine-familienfreundliche-fuehrungsperson
 
+**Source:** de_internal/2014/07/goldenes-dreirad-2014-der-preis-fuer-eine-familienfreundliche-fuehrungsperson.html
+
 ## Main article
 
 Ihr Vorgesetzter ermöglicht es Ihrem Team, Arbeit und die Betreuung von Kindern oder kranken Angehörigen unter einen Hut zu bringen? Ihre Chefin fördert Arbeitsmodelle, die beiden Partnern eine Berufstätigkeit erlaubt?

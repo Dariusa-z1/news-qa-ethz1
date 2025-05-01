@@ -1,5 +1,7 @@
 # platz-fues-neues-schaffen
 
+**Source:** de_news_events/2020/03/platz-fues-neues-schaffen.html
+
 ## Stärkere Gewichtung ­der ­­Engineering-Anteile
 
 Der enorme Wissenszuwachs durch Forschung und Technik in den letzten 30 Jahren führt dazu, dass auch ausgewiesene Expertinnen und Experten zusehends Mühe haben, mit der Entwicklung des Kenntnisstands Schritt zu halten. Vor diesem Hintergrund ergeben das hartnäckige Aneinanderreihen von ­Fakten und die systematische Vermittlung eines enzyklopädischen Wissens immer weniger Sinn.

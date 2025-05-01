@@ -1,5 +1,7 @@
 # die-saat-ist-aufgegangen
 
+**Source:** de_news_events/2022/11/die-saat-ist-aufgegangen.html
+
 ## Vitamin-A-Mangel bedroht Millionen Kinder
 
 - 1991 Ingo Potrykus lanciert die Idee eines Vitamin-A-angereicherten Reises zur Bekämpfung von Mangelerkrankungen. Erste Experimente ab 1992.

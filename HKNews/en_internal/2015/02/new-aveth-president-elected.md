@@ -1,5 +1,7 @@
 # new-aveth-president-elected
 
+**Source:** en_internal/2015/02/new-aveth-president-elected.html
+
 ## Main article
 
 Having served as President of AVETH for one and a half years, Lars Büthe, a doctoral student from the Department of Information Technology and Electrical Engineering (D-ITET), has now stepped down from the post. The AVETH members thanked him for his efforts at the annual general assembly on the Hönggerberg campus on Tuesday evening, when they also elected his successor, Florian Thöle, a doctoral student from the Department of Materials (D-MATL). Thöle was already a member of the AVETH Board and leader of the association’s Politics Working Group (PoWoG).

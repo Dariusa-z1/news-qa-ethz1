@@ -1,5 +1,7 @@
 # zugriff-auf-erweiterte-inhalte-in-elsevier-zeitschriften
 
+**Source:** de_internal/2020/05/zugriff-auf-erweiterte-inhalte-in-elsevier-zeitschriften.html
+
 ## Main article
 
 ETH-Angehörige haben neu Zugang zu sämtlichen Zeitschriftentiteln auf externe Seite ScienceDirect . Dabei handelt es sich um insgesamt 16 Millionen Publikationen aus 2570 Zeitschriften.

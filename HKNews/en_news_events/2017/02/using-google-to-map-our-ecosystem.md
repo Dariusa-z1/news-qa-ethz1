@@ -1,5 +1,7 @@
 # using-google-to-map-our-ecosystem
 
+**Source:** en_news_events/2017/02/using-google-to-map-our-ecosystem.html
+
 ## Street trees – keeping it cool
 
 Do you remember the last time you escaped the hot summer sun to enjoy a cool reprieve in the shade beneath a broad-leafed tree? While sizzling summer days may seem far away right now in the northern hemisphere, tropical cities like Singapore deal with solar radiation on a daily basis.

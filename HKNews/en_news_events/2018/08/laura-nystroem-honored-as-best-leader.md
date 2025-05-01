@@ -1,5 +1,7 @@
 # laura-nystroem-honored-as-best-leader
 
+**Source:** en_news_events/2018/08/laura-nystroem-honored-as-best-leader.html
+
 ## The two additional finalists
 
 Laura Nyström with the Alea Prize statue. (Photograph: Gianmarco Castelberg)

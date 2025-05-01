@@ -1,5 +1,7 @@
 # der-neubau-an-der-gloriastrasse-behaelt-sein-kunstwerk
 
+**Source:** de_internal/2015/08/der-neubau-an-der-gloriastrasse-behaelt-sein-kunstwerk.html
+
 ## Main article
 
 An der Gloriastrasse wird die ETH Zürich bis 2020 den Neubau GLC für die medizintechnische Forschung und Anwendung errichten. In dem Gebäude werden Räume für die Departemente Health Science and Technology ( D-HEST ) und Informationstechnologie und Elektrotechnik ( D-ITET ) eingerichtet, die auch für die Zusammenarbeit mit der Industrie, der Universität Zürich und den Spitälern genutzt werden können.

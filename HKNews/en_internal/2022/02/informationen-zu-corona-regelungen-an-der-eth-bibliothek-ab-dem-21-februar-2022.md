@@ -1,5 +1,7 @@
 # informationen-zu-corona-regelungen-an-der-eth-bibliothek-ab-dem-21-februar-2022
 
+**Source:** en_internal/2022/02/informationen-zu-corona-regelungen-an-der-eth-bibliothek-ab-dem-21-februar-2022.html
+
 ## Services
 
 - The Reading Room Collections and Archives and the exhibition of the Max Frisch Archive are regularly open Mon–Fri from 10.00–17.00. For the Reading Room pre-registration is kindly requested.
@@ -22,13 +24,11 @@ Face masks must be worn in all ETH buildings. This also applies to the study spa
 
 ## Any questions? The ETH Library will be happy to help.
 
-You can also continue to make use of our digital resources and contact options . Please do not visit the library if you are feeling unwell.
+E-mail: You can also get in touch with us via WhatsApp or our chat function.
 
 ## Subscribe to Newsletter
 
-E-mail: You can also get in touch with us via WhatsApp or our chat function.
+#KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start.
 
 ## Staffnet
-
-#KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start.
 

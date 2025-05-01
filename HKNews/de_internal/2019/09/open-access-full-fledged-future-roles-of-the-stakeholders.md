@@ -1,5 +1,7 @@
 # open-access-full-fledged-future-roles-of-the-stakeholders
 
+**Source:** de_internal/2019/09/open-access-full-fledged-future-roles-of-the-stakeholders.html
+
 ## Main article
 
 Interessensvertretende des wissenschaftlichen Publizierens diskutieren am 24. Oktober 2019 über die Rolle der forschenden Industrie nach der Open-Access-Transformation.

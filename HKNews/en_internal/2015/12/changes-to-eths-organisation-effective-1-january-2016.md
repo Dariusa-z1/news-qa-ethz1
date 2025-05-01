@@ -1,5 +1,7 @@
 # changes-to-eths-organisation-effective-1-january-2016
 
+**Source:** en_internal/2015/12/changes-to-eths-organisation-effective-1-january-2016.html
+
 ## Main article
 
 The description “infrastructure division” for the line units has proven effective only to a limited extent since it was introduced because it did not represent, or only partially represented, the activities of these divisions – Corporate Communications being one example. All central administrative bodies with definitive process responsibility and significant financial duties are now to be transformed into administrative departments.

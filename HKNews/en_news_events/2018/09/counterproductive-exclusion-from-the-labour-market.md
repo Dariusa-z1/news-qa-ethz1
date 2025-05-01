@@ -1,5 +1,7 @@
 # counterproductive-exclusion-from-the-labour-market
 
+**Source:** en_news_events/2018/09/counterproductive-exclusion-from-the-labour-market.html
+
 ## A shorter ban brings faster integration
 
 In many European countries, asylum seekers face temporary employment bans that keep them out of the labour market. There is now evidence that this practice is counterproductive over the long term: a study by the Immigration Policy Lab of ETH Zurich and Stanford University shows that refougees in Germany who had shorter employment bans were able to find work much faster than those who had longer bans. Five years after the the waiting period ended, the employment rate is 20 percentage points higher among refugees subjected to a shorter employment ban.

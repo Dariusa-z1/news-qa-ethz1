@@ -1,5 +1,7 @@
 # toxizitaetstest-mit-plazenta-und-embryo
 
+**Source:** de_news_events/2021/07/toxizitaetstest-mit-plazenta-und-embryo.html
+
 ## Chip mit unterschiedlichen Zellen
 
 Medikamente sollen nicht nur sicher sein für die Patientinnen und Patienten, sondern im Falle einer Schwangerschaft auch für das ungeborene Kind im Mutterleib. Bereits in einem frühen Stadium der Entwicklung neuer Medikamente werden Wirkstoffe daher in der Petrischale mit embryonalen Stammzellen aus Zelllinien von Mäusen getestet. Damit will man vermeiden, dass eine embryoschädigende Wirkung erst zu einem späteren Zeitpunkt bei Tierversuchen an trächtigen Mäusen bemerkt würde.
@@ -13,8 +15,6 @@ Forschende am Departement für Biosysteme der ETH Zürich in Basel haben nun ein
 Lebensfähige Embryonen entstehen bei all diesen Versuchen übrigens nicht. Die Embryonalzellen aus Zelllinien machen lediglich während zehn Tagen die allerersten Schritte der Embryonalentwicklung durch.
 
 ## Literaturhinweis
-
-Um die Funktion des neuen Tests aufzuzeigen, nutzten die Forschenden Mikropartikel. Die verwendeten Partikel schadeten den Embryo-Zellkügelchen nicht, wenn sie direkt mit diesen in Kontakt kamen. Mit dem neuen Test, der auch Plazentazellen einschliesst, beobachteten die Wissenschaftler allerdings eine mögliche indirekte schädliche Wirkung: Obschon die Plazentazellen die Mikropartikel zurückhalten konnten und die Partikel nicht zu den Embryozellen durchdrangen, waren die Embryozellen bei diesem Versuch geschwächt.
 
 Als nächstes möchten die Forschenden ihr System im Hinblick auf besser geeignete Plastikmaterialien weiterentwickeln. Denkbar ist ausserdem, für die Embryoid Bodies in Zukunft menschliche Stammzelllinien zu verwenden statt solche von der Maus. «Insbesondere in der Embryonalentwicklung und den Vorgängen in der Plazenta gibt es wesentliche Unterschiede zwischen Versuchstieren und dem Menschen», erklärt Boos. «Die Plazenta ist das Organ, bei dem Spezies-Unterschiede am stärksten ausgeprägt sind.»
 

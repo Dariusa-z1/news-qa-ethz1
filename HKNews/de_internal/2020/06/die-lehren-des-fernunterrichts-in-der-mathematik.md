@@ -1,5 +1,7 @@
 # die-lehren-des-fernunterrichts-in-der-mathematik
 
+**Source:** de_internal/2020/06/die-lehren-des-fernunterrichts-in-der-mathematik.html
+
 ## Main article
 
 Aufgrund der Ausbreitung des Coronavirus hat die ETH Zürich im März den Präsenzunterricht eingestellt und die Digitalisierung der Lehrveranstaltungen ausgebaut. In vier Interviews, die das Mathematikdepartement heute auf seiner Website veröffentlicht hat, erzählen Max Reinhardt, Valentin Bosshard, Andreas Steiger und Afonso Bandeira, wie sie die Umstellung auf den Fernunterricht erlebt haben und welche Schlüsse sie daraus ziehen.

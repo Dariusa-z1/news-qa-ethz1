@@ -1,5 +1,7 @@
 # altehrwuerdige-schulratsprotokolle-im-modernen-gewand
 
+**Source:** en_internal/2021/01/altehrwuerdige-schulratsprotokolle-im-modernen-gewand.html
+
 ## An important source on the history of ETH Zurich
 
 How did the School Board discuss the application to employ the first female assistant? When was electric lighting installed in the main building? What arguments convinced the School Board to establish a new institute? You can now carry out research into these questions via the Schulratsprotokolle Online platform.

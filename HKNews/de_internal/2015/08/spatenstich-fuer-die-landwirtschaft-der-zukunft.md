@@ -1,5 +1,7 @@
 # spatenstich-fuer-die-landwirtschaft-der-zukunft
 
+**Source:** de_internal/2015/08/spatenstich-fuer-die-landwirtschaft-der-zukunft.html
+
 ## Zusammenarbeit von Theorie und Praxis
 
 Ein Milchviehstall für 120 Kühe, ein Stall für Aufzucht, Kälber- und Grossviehmast, ein Stoffwechselzentrum mit Stall und Respirationskammern, ein Forum für Veranstaltungen sowie ein Büro- und Laborgebäude: Das kantonale Hochbauamt und der Infrastrukturbereich Immobilien der ETH Zürich als Bauherren planen Grosses in Eschikon Lindau. Mit den geplanten Neu- und Ersatzbauten soll ein eigentliches Bildungs- und Forschungszentrum entstehen. Die Vetsuisse-Fakultät der Universität Zürich UZH bringt das veterinärmedizinische Wissen in das Projekt ein.

@@ -1,8 +1,10 @@
 # portrait-jan-wegner
 
+**Source:** en_news_events/2020/05/portrait-jan-wegner.html
+
 ## Fighting famine with software
 
-The lab's team of ten develops computer applications that automatically analyse ecological data sets. This allows researchers to measure parameters such as biodiversity on a global scale. Their analyses are based on remote sensing methods (contactless exploration of the Earth's surface) as well as photogrammetry (extracting information about physical objects from photographs). The data comes from diverse sources, ranging from satellite images to radar and weather information to data from the field. “The goal is to obtain different perspectives on the Earth,” explains Wegner. Artificial intelligence then analyses all the different data sets and automatically generates world maps that show parameters such as biodiversity, agricultural use or deforestation.
+“I want my research to move things in the right direction and help our planet take a step forward,” says Wegner. However, he and his team realise that this is hardly possible to achieve from their lab in Zurich. For that reason, they have made EcoVision Lab's software, with all of its functionalities and algorithms, freely available for download and use by public platforms anywhere in the world. “These programmes are highly automated. The results are therefore objective and comparable,” explains Wegner. This means that scientists can obtain meaningful insights on a global level regarding critical issues such as biodiversity.
 
 Wegner says that making the software freely available goes beyond the goal of having comparable data sets: “I believe that remote sensing and machine learning have great potential to drive development in impoverished regions. Take farmland as an example – we could use satellite images and artificial intelligence to estimate yields and strike back against famine.”
 

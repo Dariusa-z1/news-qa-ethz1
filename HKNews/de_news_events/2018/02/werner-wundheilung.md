@@ -1,5 +1,7 @@
 # werner-wundheilung
 
+**Source:** de_news_events/2018/02/werner-wundheilung.html
+
 ## Häufige Heilungsstörungen
 
 Die Zeit heilt alle Wunden, sagt man. Doch der Heilungsprozess nach der Verletzung von Organen und Geweben, wie zum Beispiel der Haut, ist beim Menschen nicht perfekt. Narben bleiben zurück. Im Vergleich zu nicht verletzter Haut sind Hautnarben weniger elastisch und reissfest, und es fehlen Haare, Talg- und Schweissdrüsen, denn diese regenerieren nicht. Insbesondere grossflächige Wunden, wie sie bei Verbrennungen vorkommen, führen zu schwerwiegenden funktionellen und kosmetischen Einschränkungen.

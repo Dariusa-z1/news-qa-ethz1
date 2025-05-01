@@ -1,5 +1,7 @@
 # minimising-risk
 
+**Source:** en_internal/2020/08/minimising-risk.html
+
 ## Main article
 
 Leonhard Sigel,  head of the Occupational Medicine and Health Protection section of SSHE (Photograph: ETH Zurich/Gian Marco Castelberg)
@@ -10,6 +12,8 @@ Are you aware how annoying people have found the mixed messages on facemasks? Ye
 
 What do you mean by that? There has been a universal realisation that wearing a facemask is essential. Chinese students and lecturers have also repeatedly told me that things would work out fine if we wear masks. Asian countries can draw on many years' experience of epidemics and there are already good reasons why they are so keen on wearing facemasks.
 
+So does that mean facemasks offer protection? Yes, all types of facemask provide protection to other people, and to a certain extent to the wearer as well, depending on the type of mask (see the Information sheet on Types of Mask ). We often want things to be perfect, but quickly realise that masks do not offer full protection, so we need to employ other measures such as physical distancing. But now more than ever people realise that our goal must be to minimise risk. And we can come very close to achieving this goal, even if surgical masks only reduce the risk by 80 percent.
+
 Is it true that wearing a mask only makes sense if everyone does it? No, the effect is already very good if 95 percent of people wear one. There will always be exceptions, as some people have very good reasons for being unable to wear a mask, and it's important not to give them strange looks or even stigmatise them. I am very confident that we will be able to persuade a very high percentage of people to wear masks.
 
 What should people do if they are unable to wear a facemask for personal health reasons? I've already had requests from ETH members for exemptions. We have to consider each case very carefully, as our priority is to protect the actual wearer and other people. Their line manager or supervisor should at least be informed. And then I advise anyone affected to discuss the issue with their doctor at their next consultation. This is because those people experiencing problems with wearing a mask, for example pregnant women or anyone with a chronic respiratory condition, belong to a group of particularly vulnerable people and therefore need to take even stricter protective measures. In their case, the best choice would probably be to wear an FFP2 mask. Unfortunately, these can make it slightly more difficult to breathe freely, which limits the time they can be comfortably worn.
@@ -19,8 +23,6 @@ How will the wearing of facemasks be controlled on campus? We are following the 
 Why am I allowed to remove my facemask when I arrive at my final destination? As I already mentioned, the measures are intended to minimise risk. The rule of keeping a physical distance of 1.5 metres between people is also designed to reduce the level of risk. The more people – and different groups of people – returning to university buildings, the more crowded it will become in corridors, in queues or just standing around. By wearing a facemask, we reduce the higher risk of infection that exists in indoor spaces. As soon as I reach my destination, I can control my immediate environment much more effectively – by ventilating a room and keeping my distance, for example. At that stage, not wearing a mask becomes acceptable.
 
 Do I really have to put on a facemask if I just go from my own office to see my colleague across the corridor? That depends. If the corridor is frequented by many people (and different groups of people), then wearing a facemask is advisable. But if the office is located at the end of a corridor not open to the public, then not wearing a mask is okay. I think we need to use common sense in how we implement each rule. It is impossible to cater for every individual scenario.
-
-If wearing a facemask is compulsory, will ETH Zurich provide them free of charge to employees and students? Facemasks with the ETH design will be available to buy at a discounted price in the ETH Store from the start of September. But the ETH Executive Board has decided that for cost reasons staff and students must buy their own masks. Most of us already have a mask as they are mandatory in both shops and public transport in Zurich. But if the nature of their work means an ETH employee needs a facemask due to unavoidable close contact with other people (for example in a lab or workshop), masks are considered to be part of personal protective equipment and will be supplied free of charge by the relevant departments.
 
 Aerosols are increasingly seen as an infection risk. What protection do facemasks actually provide against them? Facemasks certainly provide some protection against aerosols, but that obviously depends on the type of mask. FFP2 masks are excellent at blocking aerosols in both directions. Surgical masks also offer 80% risk reduction, while the main purpose of community masks is to act as a barrier to contain aerosols when people talk. Naturally these two types of mask never provide a tight enough seal to prevent aerosols getting through.
 

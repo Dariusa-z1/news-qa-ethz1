@@ -1,5 +1,7 @@
 # brain-stimulation
 
+**Source:** en_news_events/2019/06/brain-stimulation.html
+
 ## Introducing viruses into the brain
 
 Some videos on the internet are remarkably striking. In one, a man is sitting on the sofa holding a remote control. His hands and arms are trembling and shaking in a way that clearly indicates Parkinson’s disease. He lifts the remote control, points it at his chest and presses a grey button – and his tremors subside almost immediately. What we don’t see in the video are the two electrodes in the patient’s brain connected to a pacemaker implanted in his chest. When he presses the button, the pacemaker delivers electrical pulses to the basal ganglia, a group of neurons involved in movement planning and control. Stimulating this brain area, which is heavily affected by Parkinson’s disease, causes the motor symptoms to cease almost immediately – producing an almost spooky effect.

@@ -1,5 +1,7 @@
 # die-schulleitung-informiert-2022-9
 
+**Source:** de_internal/2022/10/die-schulleitung-informiert-2022-9.html
+
 ## Neue Leitung bei der SGU
 
 - 2023: D-ARCH, D-BAUG

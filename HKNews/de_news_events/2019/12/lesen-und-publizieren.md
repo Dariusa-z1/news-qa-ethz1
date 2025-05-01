@@ -1,5 +1,7 @@
 # lesen-und-publizieren
 
+**Source:** de_news_events/2019/12/lesen-und-publizieren.html
+
 ## ETH-Bibliothek informiert über Alternativzugänge
 
 - Elsevier: ca. 1’900 Titel

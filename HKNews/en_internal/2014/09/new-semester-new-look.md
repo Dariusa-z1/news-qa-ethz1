@@ -1,5 +1,7 @@
 # new-semester-new-look
 
+**Source:** en_internal/2014/09/new-semester-new-look.html
+
 ## How do I subscribe to "Polykum" for free?
 
 The Polykum team had a creative spurt instead of summer holidays this year – and it was worth it! After three highly productive summer months, Polykum, the periodical of the student association of ETH Zurich, appears in a new format starting this semester: after years as a tabloid in the sense of a students’ newspaper, Polykum is now published as a magazine since the changeover to Vogt-Schild Druck AG. Besides the switch to A4 format and offset paper, Polykum now also includes English texts to cater to the high percentage of international students at ETH.

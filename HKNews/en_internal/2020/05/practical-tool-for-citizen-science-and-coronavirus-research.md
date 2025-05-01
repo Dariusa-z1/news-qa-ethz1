@@ -1,5 +1,7 @@
 # practical-tool-for-citizen-science-and-coronavirus-research
 
+**Source:** en_internal/2020/05/practical-tool-for-citizen-science-and-coronavirus-research.html
+
 ## Combining human and artificial intelligence
 
 Many scientific studies are currently underway to find ways of containing the spread of the coronavirus and COVID-19, the disease it causes. To read all of them and then quickly provide policy-makers with a comprehensive summary of all the useful information would be impossible.
@@ -31,8 +33,6 @@ These projects are powered by the Citizen Science Project Builder , a web-based 
 The first version of the tool supports projects in which the contributors describe and classify large volumes of image and text data, such as satellite images and social media posts (e.g. tweets), PDF files (e.g. scientific articles), video clips and audio files (e.g. recorded sound). Its user interface is easy to use without any particular technological or programming skills.
 
 The Citizen Science Center team, which developed the Project Builder, encourages ETH members to use the tool to create their own projects . They also welcome feedback that helps them improve the tool. The team runs introductory workshops for anyone wishing to use the Project Builder.
-
-They can be contacted by email at: .
 
 For further information, see the Citizen Science Project Builder website. It currently contains 10 projects .
 

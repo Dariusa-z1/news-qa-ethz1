@@ -1,5 +1,7 @@
 # trinkwasser-aus-luftfeuchtigkeit-gewinnen
 
+**Source:** de_news_events/2021/06/trinkwasser-aus-luftfeuchtigkeit-gewinnen.html
+
 ## Selbstkühlend und strahlungsabschirmend
 
 Süsswasser ist in vielen Weltgegenden Mangelware und muss dort aufwendig gewonnen werden. In Meeresnähe kann dazu Meerwasser entsalzt werden, was äusserst viel Energie benötigt. Weiter weg von Küsten bleibt praktisch nur noch die Kondensation von Luftfeuchtigkeit durch Kühlung, entweder ebenfalls mit einem hohen Energieaufwand oder als «Passivtechnologie» mithilfe der Tag-Nacht-Wärmeunterschiede. Mit den bisherigen Passivtechnologien wie beispielsweise Tau-sammelnden Folien, kann allerdings nur nachts Wasser gewonnen werden. Denn die Folien werden am Tag von der Sonne aufgeheizt, was eine Kondensation verunmöglicht.

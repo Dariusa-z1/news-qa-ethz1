@@ -1,5 +1,7 @@
 # die-ursache-des-guillain-barre-syndroms-aufgeklaert
 
+**Source:** de_news_events/2024/01/die-ursache-des-guillain-barre-syndroms-aufgeklaert.html
+
 ## Autoreaktive T-Zellen greifen periphere Nerven an
 
 Patienten mit dem Guillain-Barré-Syndrom (GBS) leiden an einer seltenen und vielgestaltigen Störung des peripheren Nervensystems. Die Krankheit wird oft durch vorangehende Infektionen ausgelöst und kann zu schwerer Muskelschwäche führen. In Europa und den USA treten jährlich etwa 1 bis 2 Fälle pro 100'000 Menschen auf.

@@ -1,5 +1,7 @@
 # permafrost-in-continuous-motion
 
+**Source:** en_news_events/2018/01/permafrost-in-continuous-motion.html
+
 ## Filling the knowledge gaps
 
 Rock glaciers, containing ice and rock debris as alpine permafrost, are changing rapidly and profoundly in response to climate change. They create the risk of mass movements as they creep downhill, subside, spread and sometimes collapse. The question is whether these glaciers can potentially pose a threat to the surrounding area, including local residents and infrastructure.

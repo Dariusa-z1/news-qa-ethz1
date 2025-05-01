@@ -1,5 +1,7 @@
 # wissen-frei-kursieren-lassen
 
+**Source:** de_internal/2018/02/wissen-frei-kursieren-lassen.html
+
 ## Main article
 
 Die neue Open-Access-Policy der ETH Zürich unterstützt die externe Seite nationale Open-Access-Strategie von swissuniversities (der Rektorenkonferenz der Schweizer Hochschulen) und nimmt wesentliche Aussagen der externe Seite Umfrage zu Open Access auf, die im Frühjahr 2017 unter den ETH-Forschenden durchgeführt wurde. Die Schulleitung hat die revidierte Policy auf den 1. Februar 2018 in Kraft gesetzt.

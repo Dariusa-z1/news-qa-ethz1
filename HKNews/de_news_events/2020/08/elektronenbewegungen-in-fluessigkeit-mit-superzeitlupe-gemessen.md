@@ -1,5 +1,7 @@
 # elektronenbewegungen-in-fluessigkeit-mit-superzeitlupe-gemessen
 
+**Source:** de_news_events/2020/08/elektronenbewegungen-in-fluessigkeit-mit-superzeitlupe-gemessen.html
+
 ## Transport aus der Flüssigkeit verzögert
 
 Um zu verstehen, wie chemische Reaktionen beginnen, untersuchen Chemiker seit Jahren mit Superzeitlupenexperimenten die allerersten Momente einer Reaktion. Mittlerweile sind Messungen mit einer Auflösung von wenigen Dutzend Attosekunden möglich. Eine Attosekunde ist der 10 18 -te Teil einer Sekunde, also ein Millionstel eines Millionstel einer Millionstelsekunde.

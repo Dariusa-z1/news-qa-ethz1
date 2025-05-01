@@ -1,5 +1,7 @@
 # lab-for-self-driving-vehicles
 
+**Source:** en_news_events/2018/01/lab-for-self-driving-vehicles.html
+
 ## Problem-solving in teams
 
 A camera, an inexpensive mini-computer, a chassis, wheels and tiny LEDs are all it takes to build a Duckiebot. This is what Andrea Censi and Jacopo Tani – lecturers on the new course for self-driving cars at ETH Zurich – call these small robot taxis. Censi and Tani are senior assistants in the research group headed by Emilio Frazzoli, professor in the Department of Mechanical and Process Engineering and an internationally renowned specialist in autonomous systems.

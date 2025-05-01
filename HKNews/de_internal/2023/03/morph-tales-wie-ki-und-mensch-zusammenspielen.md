@@ -1,5 +1,7 @@
 # morph-tales-wie-ki-und-mensch-zusammenspielen
 
+**Source:** de_internal/2023/03/morph-tales-wie-ki-und-mensch-zusammenspielen.html
+
 ## Nach dem CAB im ETH-Hauptgebäude
 
 Morph Tales verbindet ein interaktives Erlebnis mit einem realen Campuserlebnis an der ETH Zürich. Das Spiel will Jugendlichen, Familien und Erwachsenen spielerisch näherbringen, wie Künstliche Intelligenz (KI) die Menschen bei verschiedensten Tätigkeiten unterstützen kann, beziehungsweise wie Mensch und KI zusammen unterschiedliche Aufgaben bewältigen.

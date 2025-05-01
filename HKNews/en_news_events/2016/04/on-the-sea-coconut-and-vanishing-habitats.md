@@ -1,5 +1,7 @@
 # on-the-sea-coconut-and-vanishing-habitats
 
+**Source:** en_news_events/2016/04/on-the-sea-coconut-and-vanishing-habitats.html
+
 ## Famous for its sensational seeds
 
 Untouched natural habitats for plants and animals are becoming scarce on planet earth. Wherever men settle, they hunt and gather and shape the environment to fit their needs – causing enormous pressure on flora and fauna. Cases where humans are totally absent best illustrate how strong this influence is. The Chernobyl disaster of 1986 devastated the lives of many, but was, astonishingly, a huge saviour for local wildlife [1]: when the effects of the explosion forcibly expelled 100,000 humans, nature readily filled the vacuum, albeit at a very high price [2]. Wildlife has to cope with long term exposure to radiation, but, nonetheless, populations of lynx, elk and wolves have boomed in the area.
@@ -28,11 +30,9 @@ The naturally “structured” populations and peculiar fruits of the Coco de Me
 
 Nature takes an infinite number of unique forms. The beautifully-shaped Coco de Mer seeds have long been used to make bowls and decorative ornaments, and fetch a high price as tourist souvenirs; very few are left to grow into adult palms. So while the mother tree invests all her energy into her prize offspring, most of these don’t even get a chance of life. Coupled with the insatiable tourist demand for seeds as souvenirs, the forest is becoming increasingly fragmented and eroded, and the devastating effects of serious historical fires can still be seen. The queen of palms is facing real existential threats; is her realm at risk?
 
-The Chernobyl Explosion gave wildlife an exceptional opportunity to reclaim the land. In the Seychelles, and much of the rest of the world, people will continue to live in close contact with wild plant and animal life; and we need to tread more carefully. UNESCO has declared the islands of the Seychelles a world heritage site, and the trade in Coco de Mer seeds is now strictly controlled.
+Humans have already done damage to many natural habitats; by better understanding the life strategies of plant and animal species – how they compete effectively for resources, and reproduce – we can minimise our future impact. Perhaps then wild populations will be able to adapt to the changed conditions, and flourish in the future.
 
 ## About the author
-
-Humans have already done damage to many natural habitats; by better understanding the life strategies of plant and animal species – how they compete effectively for resources, and reproduce – we can minimise our future impact. Perhaps then wild populations will be able to adapt to the changed conditions, and flourish in the future.
 
 [1] Newspaper article in The Guardian
 

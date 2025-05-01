@@ -1,5 +1,7 @@
 # kreatives-beweisen-mit-tauben-und-boxen
 
+**Source:** de_news_events/2016/05/kreatives-beweisen-mit-tauben-und-boxen.html
+
 ## Die Schönheit der vermuteten Gründe
 
 Manchmal ist Mathematik fast wie Fussball. Das Lösen einer kniffligen Aufgabe ist dann kein einsames Geschäft, sondern ein Gemeinschaftswerk, das Kreativität und Taktik erfordert. Schnell geht es zu und her, wenn Mittelschülerinnen und Mittelschüler zusammenkommen, um an der «ETH Math Youth Academy» mathematische Probleme zu lösen. Ein Schüler wirft eine Idee in die Runde, ein zweiter nimmt den Ball auf, schlägt einen Lösungsweg vor, spielt den Ball der Mitspielerin zu und diese erzielt den Treffer: Die Aufgabe ist gelöst.

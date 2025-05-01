@@ -1,5 +1,7 @@
 # neue-datenbanken-in-der-web-of-science-core-collection
 
+**Source:** de_internal/2015/01/neue-datenbanken-in-der-web-of-science-core-collection.html
+
 ## Main article
 
 Ab 2015 stehen zusätzlich folgende Datenbanken zur Verfügung:

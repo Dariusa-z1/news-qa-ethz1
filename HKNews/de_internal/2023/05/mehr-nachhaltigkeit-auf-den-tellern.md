@@ -1,5 +1,7 @@
 # mehr-nachhaltigkeit-auf-den-tellern
 
+**Source:** de_internal/2023/05/mehr-nachhaltigkeit-auf-den-tellern.html
+
 ## Die Caterer auf dem Campus sind auf Kurs
 
 - Mehr zum Projekt Nachhaltige Gastronomie sowie zu den Resultaten der Zwischenbilanz der Caterer

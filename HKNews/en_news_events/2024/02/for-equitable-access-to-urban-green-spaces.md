@@ -1,5 +1,7 @@
 # for-equitable-access-to-urban-green-spaces
 
+**Source:** en_news_events/2024/02/for-equitable-access-to-urban-green-spaces.html
+
 ## About the author
 
 Strolling along the promenade by the lake, walking through the city by the river, playing ping-pong in the park – everyday things like these are what increase our sense of well-being. Things we take for granted and around which we organise our free time – until, suddenly, the things we take for granted are no longer possible.

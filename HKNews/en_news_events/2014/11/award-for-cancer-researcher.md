@@ -1,5 +1,7 @@
 # award-for-cancer-researcher
 
+**Source:** en_news_events/2014/11/award-for-cancer-researcher.html
+
 ## Appreciation for researcher and field of expertise
 
 The 2014 Ruzicka Prize has been awarded to Cristina Müller, Research Group Leader at the Center for Radiopharmaceutical Sciences at ETH Zurich, the Paul Scherrer Institute (PSI) and University Hospital Zurich. Müller has been conducting research in this field since first encountering radiopharmaceutical diagnosis and treatment of cancer while writing her diploma thesis as an ETH pharmacy student almost 15 years ago.

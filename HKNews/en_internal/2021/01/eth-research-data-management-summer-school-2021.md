@@ -1,5 +1,7 @@
 # eth-research-data-management-summer-school-2021
 
+**Source:** en_internal/2021/01/eth-research-data-management-summer-school-2021.html
+
 ## Main article
 
 Research Data Management (RDM) is vital for researchers to ensure the proper organisation of research data along the entire life cycle from creation to preservation, including their sharing as open data (FAIR data).

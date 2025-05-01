@@ -1,5 +1,7 @@
 # berufsbildung-63-erfolgreiche-lehrabschluesse
 
+**Source:** de_internal/2015/07/berufsbildung-63-erfolgreiche-lehrabschluesse.html
+
 ## Main article
 
 Wie schon im Vorjahr haben 2015 alle Lernenden und Praktikanten, die an der ETH Zürich zur Lehrabschlussprüfung (LAP) antraten, diese bestanden. Somit haben 63 ETH-Lehrabgängerinnen und –abgänger aus kaufmännischen und technischen Berufen die Berufslehre erfolgreich abgeschlossen. Die Hälfte von ihnen mit einer Berufsmatura, wie Dieter Schorno, Leiter Berufsbildung an der ETH Zürich, an der «LAP-Feier 2015» vom 8. Juli feststellte.

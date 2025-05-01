@@ -1,5 +1,7 @@
 # highly-efficient-heavy-metal-ions-filter
 
+**Source:** en_news_events/2016/01/highly-efficient-heavy-metal-ions-filter.html
+
 ## Effective filtration of heavy metals
 
 In November, Brazil experienced an unparalleled environmental disaster. When two dams broke at an iron ore mine, a poisonous cocktail of heavy metals was sent pouring into the Rio Doce, reaching the Atlantic some days later. The consequences were devastating for nature and humans alike: countless fish, birds and animals died, and a quarter of a million people were left without drinking water.

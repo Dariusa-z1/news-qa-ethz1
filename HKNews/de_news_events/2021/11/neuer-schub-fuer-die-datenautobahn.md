@@ -1,5 +1,7 @@
 # neuer-schub-fuer-die-datenautobahn
 
+**Source:** de_news_events/2021/11/neuer-schub-fuer-die-datenautobahn.html
+
 ## Flaschenhals im Datenverkehr
 
 Es ist ein unscheinbares Bürogebäude am Dorfrand von Kilchberg (ZH), irgendwo zwischen Autobahn und Gartenbaufirma, in dem wir Felix Eltes zum Gespräch treffen. Auch im Inneren des Hauses lässt zunächst wenig darauf schliessen, dass hier eine Firma eingemietet ist, die der Computerindustrie neuen Schub verleihen will. Ein funktionelles Grossraumbüro mit einer Vielzahl von Computerarbeitsplätzen, ein einfaches Sitzungszimmer mit einem übergrossen Screen für Videokonferenzen, ein kleines, halb gefülltes Labor, das auf den ersten Blick wie ein Bastelraum anmutet – das ist, etwas salopp gesagt, das Reich des ETH Spin-offs Lumiphase, das Eltes zusammen mit Stefan Abel, Lukas Czornomaz und Jean Fompeyrine im Frühjahr 2020 gegründet hat.

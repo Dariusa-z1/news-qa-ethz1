@@ -1,5 +1,7 @@
 # neue-normenplattform-mit-zugriffserweiterung-auf-iec-normen
 
+**Source:** en_internal/2023/03/neue-normenplattform-mit-zugriffserweiterung-auf-iec-normen.html
+
 ## Main article
 
 As of now, standards can be searched on the new platform norml , which offers numerous improvements, such as the full-text search. Access to the previous platform is still available until 31 March 2023.

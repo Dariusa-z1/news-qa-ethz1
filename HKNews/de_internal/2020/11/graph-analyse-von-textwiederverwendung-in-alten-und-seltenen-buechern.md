@@ -1,5 +1,7 @@
 # graph-analyse-von-textwiederverwendung-in-alten-und-seltenen-buechern
 
+**Source:** de_internal/2020/11/graph-analyse-von-textwiederverwendung-in-alten-und-seltenen-buechern.html
+
 ## Bestimmen des Ursprungs gewisser Textpassagen mit Graph
 
 - In der grafischen Visualisierung finden Sie Zusammenhänge zwischen Büchern, die chronologisch geordnet werden können und mit deren Hilfe Werke, die viele wiederverwendete Passagen enthalten, schnell identifiziert werden können.

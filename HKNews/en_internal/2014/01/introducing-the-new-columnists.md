@@ -1,5 +1,7 @@
 # introducing-the-new-columnists
 
+**Source:** en_internal/2014/01/introducing-the-new-columnists.html
+
 ## The new VSETH President
 
 Ulrike Kastrup will start off the column series in the coming week. Ulrike has been Director of focusTerra, ETH Zurich’s Earth Science Research and Information Centre, for five years. She studied geology at the University of Bonn and the University of Zurich and completed her doctorate at the Swiss Seismological Service in the Institute of Geophysics at ETH Zurich. She then went on to carry out research and work on risk management and risk communication in relation to natural hazards at various organisations and institutions, including the United Nations University in Bonn, Royal Melbourne Institute of Technology in Australia and as a Corporate Risk Manager at SBB (Swiss Federal Railways). By organising numerous exhibitions and activities at focusTerra, Ulrike Kastrup and her team are keen to open the public’s eyes to the beauty and fascinating qualities of geology as well as its role in everyday life.

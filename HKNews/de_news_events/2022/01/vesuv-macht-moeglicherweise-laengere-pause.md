@@ -1,5 +1,7 @@
 # vesuv-macht-moeglicherweise-laengere-pause
 
+**Source:** de_news_events/2022/01/vesuv-macht-moeglicherweise-laengere-pause.html
+
 ## Granate erlauben präzise Datierung
 
 Der Vesuv ist einer der gefährlichsten Vulkane Europas. Mehr als drei Millionen Menschen wohnen in seiner unmittelbaren Nähe, und in historischer und prähistorischer Zeit kam es zu explosiven Ausbrüchen, welche ganze Siedlungen und Städte der Umgebung zerstörten.

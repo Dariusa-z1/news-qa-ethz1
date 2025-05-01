@@ -1,5 +1,7 @@
 # how-an-ocean-fertilising-bacterium-forms-aggregates
 
+**Source:** en_news_events/2023/06/how-an-ocean-fertilising-bacterium-forms-aggregates.html
+
 ## In brief
 
 - Trichodesmium is a nitrogen-fixing bacterium in the ocean that can form aggregates of thousands of individuals.

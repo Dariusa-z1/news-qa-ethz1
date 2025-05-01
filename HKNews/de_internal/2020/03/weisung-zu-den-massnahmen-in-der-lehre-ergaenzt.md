@@ -1,5 +1,7 @@
 # weisung-zu-den-massnahmen-in-der-lehre-ergaenzt
 
+**Source:** de_internal/2020/03/weisung-zu-den-massnahmen-in-der-lehre-ergaenzt.html
+
 ## Stoffumfang
 
 Die Änderungen in der zweiten Ausgabe betreffen insbesondere Detailbestimmungen zum Umgang mit Änderungen des Stoffumfangs, zu nicht bestandenen Leistungskontrollen und zur Verlängerung von Studienfristen.
@@ -18,9 +20,13 @@ Studierenden, die sich im laufenden Frühlingssemester im letzten Semester der m
 
 ## Weitere Informationen
 
-Alle aktuellen Information rund um das Coronavirus an der ETH Zürich finden Sie unter www.ethz.ch/coronavirus .
+Doktorprüfungen sollen weiterhin stattfinden können, in der jetzigen Ausnahmesituation über Videokonferenz, das heisst ohne physische Anwesenheit der Teilnehmenden. Damit werden die entsprechenden Vorgaben in der Weisung «Physische Anwesenheit der Prüfungskommission bei Doktorprüfungen» gegenstandslos.
 
 ## Staffnet
 
+Der genaue und rechtsverbindliche Wortlaut der revidierten Weisung kann der Weisungssammlung des Rektorats entnommen werden.
+
 ## Newsletter abonnieren
+
+Alle aktuellen Information rund um das Coronavirus an der ETH Zürich finden Sie unter www.ethz.ch/coronavirus .
 

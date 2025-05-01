@@ -1,5 +1,7 @@
 # cogito-preis-2014-fuer-seismologen-donat-faeh1
 
+**Source:** de_news_events/2014/09/cogito-preis-2014-fuer-seismologen-donat-faeh1.html
+
 ## Beben interdisziplinär erforscht
 
 Am Freitag, 26. September 2014, zeichnete die externe Seite cogito Foundation anlässlich ihrer jährlich stattfindenden Preisverleihung den am Schweizerischen Erdbebendienst und als Professor an der ETH Zürich tägigen Donat Fäh mit dem «cogito-Preis 2014» aus. Der Seismologe hatte eine Neubeurteilung des Erdbebens bei Basel im Jahr 1356 erarbeitet. Die Verleihung fand an der Universität Zürich statt. Der cogito-Preis ist mit 50'000 Franken dotiert.

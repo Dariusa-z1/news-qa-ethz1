@@ -1,5 +1,7 @@
 # forschungsoutput-der-eth-zuerich
 
+**Source:** de_internal/2016/03/forschungsoutput-der-eth-zuerich.html
+
 ## Main article
 
 Hiervon sind 61 % Zeitschriftenbeiträge und 24 % Tagungsbeiträge.

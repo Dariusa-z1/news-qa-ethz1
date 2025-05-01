@@ -1,5 +1,7 @@
 # umnutzung-vom-ehemaligen-munitionslager-zum-eth-lager
 
+**Source:** en_internal/2024/01/umnutzung-vom-ehemaligen-munitionslager-zum-eth-lager.html
+
 ## Utilising what is there
 
 Claudio Madonna sits at his desk in the NO building on Sonneggstrasse and gazes intently at the screen in front of him. He is the head of the Rock Physics and Mechanics Laboratory at the Geological Institute of the Department of Earth Sciences. "Before we were able to move to Herrliberg, we had to store laboratory materials, spare parts and drill cores wherever we had space available in our buildings. That was rather suboptimal," explains Madonna and smiles. He opens a presentation entitled ZLB, which is what the ammunition depot Zääjuten, built in 1981, is now called in ETH jargon.

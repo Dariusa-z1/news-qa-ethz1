@@ -1,5 +1,7 @@
 # sustainable-superfood
 
+**Source:** de_news_events/2020/01/sustainable-superfood.html
+
 ## Schnell wachsend und hochgesund
 
 Es ist leuchtend grün, schmeckt ein wenig wie Sojasprossen und hat eine angenehm körnige Konsistenz. Die Rede ist von Wolffia, einer von fünf Wasserlinsengattungen. Die bekömmlichste, wie Cyrill Hess bei einem improvisierten «Tasting» in einer Klimakammer im ersten Untergeschoss des Departements Umweltsystemwissenschaften der ETH Zürich erklärt. Hess hat die verkostete Wolffia soeben mit einem Sieb aus dem Wasser im Holzbecken vor uns abgeschöpft. Dort schwimmt der grasgrüne Teppich auf einer wässrigen Nährlösung, die über eine Pumpe kontinuierlich gereinigt wird. Temperatur, Feuchtigkeit und Lichtbedingungen werden in der Klimakammer genau kontrolliert. Hess hat die Wolffia vor zwei Wochen angesetzt. An guten Tagen schöpft er auf den rund fünf Quadratmetern Wasseroberfläche 1.5 Kilogramm «grünen Kaviar» ab – so nennt er das Produkt seines Start-ups «LemnaPro».

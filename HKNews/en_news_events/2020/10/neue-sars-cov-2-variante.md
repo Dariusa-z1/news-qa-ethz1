@@ -1,5 +1,7 @@
 # neue-sars-cov-2-variante
 
+**Source:** en_news_events/2020/10/neue-sars-cov-2-variante.html
+
 ## Similar pattern as in spring in Spain
 
 In Europe alone, hundreds of different variants of the new coronavirus SARS-CoV-2 are currently circulating, distinguished by mutations in their genomes. However, only very few of these variants have spread as successfully and become as prevalent as the newly identified variant, named 20A.EU1.

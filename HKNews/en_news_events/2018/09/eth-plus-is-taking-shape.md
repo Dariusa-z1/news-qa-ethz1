@@ -1,5 +1,7 @@
 # eth-plus-is-taking-shape
 
+**Source:** en_news_events/2018/09/eth-plus-is-taking-shape.html
+
 ## Bottom-up dynamic
 
 - Security and Privacy in the Digital Society, Lead: Professor David Basin, D-INFK

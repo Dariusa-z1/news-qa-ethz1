@@ -1,5 +1,7 @@
 # congressi-stefano-franscini-lanciert-ausschreibung-von-konferenzen-fuer-2017
 
+**Source:** de_internal/2015/08/congressi-stefano-franscini-lanciert-ausschreibung-von-konferenzen-fuer-2017.html
+
 ## Neu auch ETH Summer Schools @Monte Verità
 
 Forschende, Professorinnen und Professoren einer Schweizer Hochschule oder eines Schweizer Forschungsinstituts, die im Congressi Stefano Franscini (CSF) auf dem Monte Verità eine drei bis fünftägige, internationale wissenschaftliche Konferenz organisieren möchten, können ihre Anträge bis zum 15. Januar 2016 beim CSF einreichen.

@@ -1,5 +1,7 @@
 # maximal-flexibel
 
+**Source:** de_internal/2018/09/maximal-flexibel.html
+
 ## Ganztags ein Treffpunkt
 
 «Die Planung des neuen Restaurants ist ein gelungenes Gemeinschaftswerk», sagt Marcel Zurbuchen, ETH-Verantwortlicher für die Koordination der Partnerunternehmen. In das Gastro- und Raumkonzept seien auch die Ideen und Raumbedürfnisse der Studierenden und des Departements Informatik eingeflossen. Das Resultat ist ein multifunktionales Konzept, das den Gastraum jederzeit gut auslastet und eine zusätzliche Anlass-Location anbietet. Das Essensangebot kombiniere den Trend zu internationalen Speisen auch in der Gemeinschaftsgastronomie mit der Möglichkeit, vor Ort zu essen oder den Take Away zu nutzen, so Zurbuchen.

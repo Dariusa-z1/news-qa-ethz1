@@ -1,5 +1,7 @@
 # willy-krek-verstorben
 
+**Source:** de_internal/2018/09/willy-krek-verstorben.html
+
 ## Er verband Grundlagenforschung und Medizin
 
 Aufgewachsen ist Willy Krek in Kärnten, an der Technischen Universität in Graz studierte er Chemie. Ein erster Schritt in die Schweiz erfolgte 1988, als er am Schweizerischen Krebsforschungsinstitut ISREC in Lausanne doktorierte.

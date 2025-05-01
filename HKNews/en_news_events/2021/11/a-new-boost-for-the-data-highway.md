@@ -1,5 +1,7 @@
 # a-new-boost-for-the-data-highway
 
+**Source:** en_news_events/2021/11/a-new-boost-for-the-data-highway.html
+
 ## Data traffic bottleneck
 
 We meet Felix Eltes for an interview in an unimposing office building on the outskirts of Kilchberg, near Zurich, nestled between a motorway and a gardening company. At first sight, the building’s interior gives just as little indication that it is now home to a company that wants to give the computer industry a new boost. A functional open-plan office with a multitude of computer workstations, a simple meeting room with an oversized screen for video conferencing, a small, half-filled laboratory that at first glance looks more like an arts and crafts room – this is, to put it plainly, the realm of the ETH Zurich spin-off Lumiphase, which Eltes founded in spring 2020 together with Stefan Abel, Lukas Czornomaz and Jean Fompeyrine.

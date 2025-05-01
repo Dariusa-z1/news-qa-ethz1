@@ -1,5 +1,7 @@
 # climate-change-does-not-cause-extreme-winters
 
+**Source:** en_news_events/2015/03/climate-change-does-not-cause-extreme-winters.html
+
 ## Temperature range will decrease
 
 Repeated cold snaps led to temperatures far below freezing across the eastern United States in the past two winters. Parts of the Niagara Falls froze, and ice floes formed on Lake Michigan. Such low temperatures had become rare in recent years. Pictures of icy, snow-covered cities made their way around the world, raising the question of whether climate change could be responsible for these extreme events.

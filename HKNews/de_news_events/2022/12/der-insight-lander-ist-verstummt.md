@@ -1,24 +1,24 @@
 # der-insight-lander-ist-verstummt
 
-## «Grosses Abenteuer für uns»
+**Source:** de_news_events/2022/12/der-insight-lander-ist-verstummt.html
 
-Die Insight-Mission der Nasa ist nach vier Jahren beendet. Die Missionsleitung des Jet Propulsion Laboratory (JPL) der Nasa in Südkalifornien konnte die Raumsonde in zwei aufeinanderfolgenden Versuchen nicht mehr kontaktieren. Die Nasa-Ingenieure kamen damit zum Schluss, dass die Solarzellen der Raumsonde zu wenig Energie liefern, um die Batterien zu laden – ein Zustand, den sie als «dead bus» bezeichnen. Die Nasa hatte schon früher entschieden, die Mission dann für beendet zu erklären, wenn die Raumfähre zwei Kommunikationsversuche auslässt.
+## «Grosses Abenteuer für uns»
 
 Ganz gibt die amerikanische Raumfahrtbehörde noch nicht auf: Sie wird weiterhin auf ein Signal der Sonde warten. Allerdings ist es unwahrscheinlich, dass sie sich noch einmal melden wird. Das letzte Mal, dass der Insight-Lander mit der Erde kommuniziert hat, war am 15. Dezember 2022.
 
 «Ich habe den Start und die Landung dieser Mission mitverfolgt, und obwohl der Abschied von einem Raumschiff immer traurig ist, ist die faszinierende Wissenschaft, die Insight betrieben hat, ein Grund zum Feiern», sagt Thomas Zurbuchen, der noch bis Ende Jahr Wissenschaftsdirektor der Nasa ist. «Allein die seismischen Daten dieser Mission bieten enorme Einblicke, nicht nur in das Innere des Mars, sondern sie lassen sich teilweise auch auf andere Gesteinskörper wie die Erde übertragen.»
 
-## Seismometer lief am längsten
-
 Die Raumsonde Insight landete Ende November 2018 auf dem Roten Planeten und sammelte dort bis vor kurzem seismische Daten. Diese haben Details über die innere Schichtung des Mars bis hinab zum Kern, die Überreste des grösstenteils erloschenen Magnetfelds, das Wetter in diesem Teil des Mars geliefert und eine Menge Marsbebenaktivität sichtbar gemacht.
+
+## Seismometer lief am längsten
 
 «Für uns war diese Mission ein grosses Abenteuer, das bereits 1997 mit der Planung startete», sagt Domenico Giardini, Leiter das Mars-Teams an der ETH Zürich. Seine Mitarbeitenden und er haben zu Insight unter anderem die Seismometer-Elektronik beigetragen und den Marsbeben-Dienst aufgezogen und betrieben. «Wir hatten die einmalige Gelegenheit, erstaunliche wissenschaftliche Erkenntnisse zu gewinnen – und wir hatten in unserem Wissenschaftlerleben das grosse Glück, an einer erfolgreichen Mission zur Erforschung eines Planeten teilzunehmen», freut sich Giardini.
 
 Das hochempfindliche Seismometer der Insight-Sonde hat über 1300 Marsbeben aufgezeichnet, darunter auch Beben, die durch Meteoriteneinschläge verursacht wurden; der grösste hat Ende letzten Jahres Eisbrocken zu Tage gefördert.
 
-## Insight-Mission
-
 Solche Einschläge halfen den Wissenschaftler:innen, das Alter der Planetenoberfläche zu bestimmen, und die Daten des Seismometers boten die Möglichkeit, die Kruste, den Mantel und den Kern des Planeten zu untersuchen.
+
+## Insight-Mission
 
 «Dies war die erste Mission zur Erforschung des tiefen Inneren eines anderen Planeten. Wir wissen jetzt zum Beispiel, dass der Kern zu gross ist, um ihn mit unseren klassischen Modellen berechnen zu können. Das verändert die Art und Weise, wie wir über die Gesteinsplaneten in unserem Sonnensystem und anderswo im Universum denken müssen», ergänzt Simon Stähler, wissenschaftlicher Mitarbeiter in Domenico Giardinis Gruppe für Seismologie und Geodynamik an der ETH Zürich.
 

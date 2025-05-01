@@ -1,5 +1,7 @@
 # echtzeitanalyse-von-stoffwechselprodukten
 
+**Source:** de_news_events/2015/09/echtzeitanalyse-von-stoffwechselprodukten.html
+
 ## Hochdurchsatz-Metabolomik
 
 Genomik, Proteomik, Metabolomik. Wissenschaftler, die sich mit einem Fachgebiet mit der Nachsilbe -omik beschäftigen, analysieren immer die Gesamtheit von irgendetwas. Im Fall der Metabolomik ist dies die Gesamtheit aller Metaboliten – das heisst aller Stoffwechselprodukte – einer Zelle oder eines Organismus. Die Forschungsgruppen von Uwe Sauer, Professor für Systembiologie an der ETH Zürich, und Nicola Zamboni, Gruppenleiter am Institut für Molekulare Systembiologie, gehören zu den führenden auf dem Gebiet. Sie entwickelten nun eine Methode, mit der sie die Konzentration von Hunderten von Stoffwechselprodukten gleichzeitig und nahezu in Echtzeit bestimmen können.

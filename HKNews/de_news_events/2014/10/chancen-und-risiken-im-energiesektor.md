@@ -1,5 +1,7 @@
 # chancen-und-risiken-im-energiesektor
 
+**Source:** de_news_events/2014/10/chancen-und-risiken-im-energiesektor.html
+
 ## Brennende Fragen für die Podiumsdiskussion?
 
 - Veranstaltungshinweis: Energieversorgung 2050: Integration oder Inseldenken?

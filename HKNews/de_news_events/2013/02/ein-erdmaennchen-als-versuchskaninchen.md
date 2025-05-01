@@ -1,5 +1,7 @@
 # ein-erdmaennchen-als-versuchskaninchen
 
+**Source:** de_news_events/2013/02/ein-erdmaennchen-als-versuchskaninchen.html
+
 ## Leittier lässt anderen den Vortritt
 
 Wildtiere sind in ihrer natürlichen Umgebung zahlreichen Risiken und Gefahren wie Fressfeinden, Krankheitserregern oder Hindernissen wie Schluchten oder Wasseradern ausgesetzt. Im Laufe der Entwicklungsgeschichte haben sich deshalb spezifische Verhaltensweisen ausgebildet, mit denen Tiere die natürlichen Risiken minimieren. Nun hat der Mensch in der jüngsten Geschichte zahllose neue Gefahren und Risiken wie befahrene Strassen geschaffen. Aus evolutiver Sicht ist es ausgeschlossen, dass die Tiere diese Gefahren als potenziell tödliches Risiko kennen. Verhaltensbiologe Simon Townsend von der Universität Zürich und sein Kollege, der Systemforscher Nicolas Perony von der ETH Zürich haben bei wildlebenden Erdmännchen erforscht, wie sich diese gegenüber menschgemachten Risiken verhalten.
@@ -27,6 +29,4 @@ Perony, Nicolas and Townsend, Simon W.: Why did the meerkat cross the road? Flex
 Link: externe Seite http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0052834
 
 Die Erdmännchen werden als Teil des Kalahari Meerkat-Projekts im Kuruman River Reserve (Südafrika), seit längerem erforscht. Alle Tiere der überwachten Gruppen sind farbig markiert und mit Chips ausgestattet, damit sie individuell erkennbar sind. Sie sind sich zudem an die Präsenz von Menschen gewöhnt. Erdmännchen leben in Gruppen von bis zu 40 Individuen. An der Spitze der Gruppe steht das Alpha-Paar, das alleine für Nachwuchs sorgt. Die anderen Tiere aus früheren Würfen helfen den Leittieren bei der Aufzucht der Jungen — also ihren eigenen Geschwister. Das Gruppengefüge der Erdmännchen ist hoch komplex und fasziniert Verhaltensforscher seit langem.
-
-Universität Zürich Dr. Simon Townsend Institut für Evolutionsbiologie und Umweltwissenschaften Tel. +41 44 635 52 86 ETH Zürich Dr. Nicolas Perony Professur für Systemgestaltung Tel. +41 44 635 52 86 ETH Zürich Medienstelle Tel. +41 44 632 41 41
 

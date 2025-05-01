@@ -1,5 +1,7 @@
 # nichts-fuer-selbstverstaendlich-nehmen
 
+**Source:** de_news_events/2021/05/nichts-fuer-selbstverstaendlich-nehmen.html
+
 ## Das Higgs-Teilchen
 
 Günther Dissertori, ETH-Professor für Teilchenphysik und designierter Rektor, will die Dinge im Kern verstehen. Er wollte dies schon immer. Bei der Studienwahl interessierte ihn die Gentechnologie, geworden ist er Physiker. Obwohl er sich das zuerst gar nicht zugetraut hätte: «Ich dachte, Physik würden nur die Besten der Besten studieren.» Und dazu zählte er sich nicht.

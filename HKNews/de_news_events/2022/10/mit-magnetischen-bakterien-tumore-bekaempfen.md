@@ -1,5 +1,7 @@
 # mit-magnetischen-bakterien-tumore-bekaempfen
 
+**Source:** de_news_events/2022/10/mit-magnetischen-bakterien-tumore-bekaempfen.html
+
 ## Main article
 
 Derzeit gibt es mehrere Forschungsprojekte, in denen die Wirksamkeit von Bakterien der Art Escherichia coli gegenüber Tumoren untersucht werden. Heute ist es möglich, die Bakterien mittels synthetischer Biologie zu verändern, um ihre therapeutische Wirkung zu optimieren, Nebenwirkungen zu reduzieren und die Sicherheit zu erhöhen.

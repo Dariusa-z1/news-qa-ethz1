@@ -1,5 +1,7 @@
 # c2d2-auf-korrosionskurs
 
+**Source:** de_news_events/2014/08/c2d2-auf-korrosionskurs.html
+
 ## Korrosion gefährdet die Schweizer Infrastruktur
 
 Über 3500 Autobahnbrücken in der Schweiz bringen uns jederzeit sicher und schnell über Taleinschnitte, Bäche, Flüsse oder Verkehrswege. Hinzu kommen Tausende von Brücken von Kantonsstrassen. Zwei Eigenschaften haben die meisten von ihnen gemeinsam: Sie sind unabdingbar für die Schweizer Verkehrsinfrastruktur und sie bestehen aus Stahlbeton. Dadurch sind sie sicher und langlebig – zumindest solange, bis die Korrosion einsetzt.

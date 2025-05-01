@@ -1,5 +1,7 @@
 # bilanz-und-ausblick-auf-die-energieversorgung-der-eth-zuerich
 
+**Source:** de_internal/2023/05/bilanz-und-ausblick-auf-die-energieversorgung-der-eth-zuerich.html
+
 ## Milder Winter beeinflusst Verbrauchsreduktion
 
 (Bild: Adobe Stock; Bearbeitung: ETH Zürich)

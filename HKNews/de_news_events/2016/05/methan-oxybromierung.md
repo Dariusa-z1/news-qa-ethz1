@@ -1,5 +1,7 @@
 # methan-oxybromierung
 
+**Source:** de_news_events/2016/05/methan-oxybromierung.html
+
 ## Interne Bromrückführung
 
 Erdgas als Rohstoff für Chemikalien zu nutzen, ist ein intensiv verfolgtes Ziel der chemischen Forschung. Wissenschaftlern unter der Leitung von Javier Pérez-Ramírez, Professor für Katalyse-Engineering, ist es nun gelungen, ein Vorgehen zu optimieren, mit dem Erdgasbestandteile in höherwertige Chemikalien überführt werden können. «Wir ersetzen bei einem Molekül des Erdgasbestandteils Methan (CH 4 ) ein Wasserstoff-Atom durch ein Brom-Atom, wodurch Brommethan (CH 3 Br) entsteht», erklärt Pérez-Ramírez. «Dieses kann die chemische Industrie als Ausgangsstoff zur Produktion von Treibstoffen und einer Reihe von Chemikalien wie Polymeren und Medikamenten verwenden.»

@@ -1,5 +1,7 @@
 # a-fig-tree-to-mark-the-end-of-an-era
 
+**Source:** en_internal/2016/06/a-fig-tree-to-mark-the-end-of-an-era.html
+
 ## “It was a pleasure to work with you all.”
 
 The ETH Zurich University Assembly’s last meeting before summer recess concluded with a barbeque party for staff members and guests. This year, representatives of the four university groups met on 2 June 2016 at Forsthaus Waldegg in Uitikon on the Uetliberg.

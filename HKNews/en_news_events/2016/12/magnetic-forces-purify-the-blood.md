@@ -1,5 +1,7 @@
 # magnetic-forces-purify-the-blood
 
+**Source:** en_news_events/2016/12/magnetic-forces-purify-the-blood.html
+
 ## Focus on acute blood poisoning
 
 Lukas Langenegger picks up a small glass ampoule containing a dark, reddish-brown fluid. Then he holds a magnet against the vial, and iron particles accumulate on the edge of the glass as if by magic, leaving behind a crystal-clear fluid. This simple demonstration illustrates the concept behind a new method for purifying blood.

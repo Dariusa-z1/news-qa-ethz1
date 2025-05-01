@@ -1,5 +1,7 @@
 # zeugen-aus-der-fruehzeit-der-erde
 
+**Source:** de_news_events/2021/01/zeugen-aus-der-fruehzeit-der-erde.html
+
 ## Die Kombination hilft weiter
 
 Wie genau ist die Erde im tiefsten Inneren zusammengesetzt? Diese Frage versuchen Erdwissenschaftlerinnen und Erdwissenschaftler mit ausgeklügelten Verfahren zu beantworten. Mit Hilfe von seismischen Wellen beispielsweise rekonstruieren sie die Strukturen im Erdinnern, was Rückschlüsse über die Dynamik des Geschehens und damit indirekt auch über die Zusammensetzung der Gesteine erlaubt.

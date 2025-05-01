@@ -1,5 +1,7 @@
 # neural-efficiency-hypothesis-confirmed
 
+**Source:** en_news_events/2015/07/neural-efficiency-hypothesis-confirmed.html
+
 ## Facial memory tested
 
 The brains of more intelligent people are capable of solving tasks more efficiently, which is why these people have superior cognitive faculties, or as Elsbeth Stern, Professor for Research on Learning and Instruction at ETH Zurich, puts it: “when a more and a less intelligent person are given the same task, the more intelligent person requires less cortical activation to solve the task.” Scientists refer to this as the neural efficiency hypothesis, although it ceased being a hypothesis quite some time ago and is now accepted by experts as an undisputed fact, with ample evidence to support it.

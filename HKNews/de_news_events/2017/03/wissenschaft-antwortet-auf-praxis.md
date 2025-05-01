@@ -1,12 +1,12 @@
 # wissenschaft-antwortet-auf-praxis
 
+**Source:** de_news_events/2017/03/wissenschaft-antwortet-auf-praxis.html
+
 ## Main article
 
 ETH-News: Was ist der Grund für das spezielle Format, das das Energy Science Center für das Symposium gewählt hat? Christian Schaffner: Wir möchten mit diesem Symposium der Industrie die Gelegenheit geben, ihre Sicht im Bereich der Energie darzulegen. Wir sind überzeugt, dass die Industrie eine wichtige Rolle spielen wird, wenn es darum geht, die globalen Herausforderungen der Energieversorgung zu meistern. Neben der Rolle des Staates als Regulierer und der Forschung ist die Industrie die dritte wichtige Kraft. An der ETH gibt es viele Veranstaltungen von und für Wissenschaftler. Unser Symposium soll eine Ergänzung sein. Eine Veranstaltung, an welcher die Unternehmen Inhalte liefern und so in einen Dialog mit der Wissenschaft treten.
 
 Wie kritisch wird diese Auseinandersetzung sein? Es ist ein öffentlicher Anlass für alle Interessierten, und es werden Konkurrenten auf dem Podium stehen. Wir erwarten nicht, dass wir Geheimnisse über die Energiestrategien der Firmen erfahren werden. Aber – und das macht den Anlass aus – wir werden die Unternehmen im direkten Vergleich sehen und wie sie ihre Strategie gegen aussen darstellen und kommunizieren. Und genau dieser Vergleich wird die Unterschiede sichtbar machen und den Dialog in Gang bringen. Darum wird die Debatte mit den Professorinnen und Professoren der ETH wichtig sein. Sie sollen den Vertretern der Unternehmen auf den Zahn fühlen.
-
-Wie bereiten sich die Wissenschaftlerinnen und Wissenschaftler vor? Zum einen studieren sie die öffentlich verfügbaren Unterlagen der Unternehmen. Manche der Professorinnen und Professoren standen in irgendeiner Form bereits früher in Kontakt mit den Unternehmen, sei es aufgrund von Forschungskooperationen oder gemeinsamen Veranstaltungen. Zudem werden die Forschenden mit den Industrievertretern ein Vorgespräch führen. Wir sorgen auch dafür, dass die Professorinnen und Professoren sämtliche Materialien, die präsentiert werden, vorab erhalten.
 
 War es schwierig, Unternehmen zum Mitmachen zu überzeugen? Das war spannend. Als wir uns das Format überlegt haben, haben wir uns gefragt, wie viele Unternehmen wohl zusagen werden. Wir haben neun angeschrieben und auf drei bis vier Zusagen gehofft. Schnell haben wir dann gemerkt, dass sich weitere Unternehmen meldeten, sobald sie davon erfahren haben, dass sich ihre Konkurrenz angemeldet hat. Der Vergleich ist natürlich auch für die Unternehmen spannend.
 

@@ -1,5 +1,7 @@
 # deutsch-als-fremdsprache-turbo-in-einem-jahr-deutsch-lernen
 
+**Source:** de_internal/2016/05/deutsch-als-fremdsprache-turbo-in-einem-jahr-deutsch-lernen.html
+
 ## Main article
 
 Die Lehre gehört für Doktorierende und wissenschaftliche Mitarbeitende an der ETH Zürich zu den Grundaufgaben. Damit Deutsch im Alltag an der Hochschule nicht zur Hürde wird, bietet die ETH Zürich ihnen zusammen mit dem Sprachenzentrum der Universität Zürich und der ETH Zürich einen Deutsch-Intensivkurs an.

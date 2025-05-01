@@ -1,5 +1,7 @@
 # the-dark-side-of-remote-working
 
+**Source:** en_news_events/2022/02/the-dark-side-of-remote-working.html
+
 ## Lack of sensory stimuli
 
 Perhaps it’s happened to you: you had a fast-paced workday, tackling countless issues all at once and juggling emails, chats and video calls with your colleagues. But instead of feeling accomplished after an intense day at the virtual office, you sometimes simply feel exhausted, lost and empty.
@@ -17,8 +19,6 @@ Cutting out commuting and other small everyday actions such as changing meeting 
 Recent neuroscience studies also show that our brains process information differently depending on whether the objects are physical or virtual. Different regions of the brain are activted depending on whether we focus on an object in physical reality or in virtual space. The science is not yet in on what kind of impact this has on our performance and well-being. It is clear, though, that these questions will only grow in importance, especially with the increasing use of immersive frontier technologies such as the Metaverse.
 
 ## About the author
-
-The disappearance of personal interaction at the workplace ultimately can negatively impact our well-being, and digital contact can only compensate for this loss to a limited degree. Social contact is essential to our mental and physical health, even if the exact needs vary by individual. It has been shown that in-person social contact has a calming, regulating effect on the nervous system and helps reduce stress. New studies also suggest that of all the types of communication used during lockdowns, face-to-face interaction had the most positive and long-lasting effect on our well-being. This also holds true for feelings of social connectedness among co-workers: face-to-face interaction boosted these feelings the most, followed by video calls and telephone conversations – and at the low end of the spectrum, text messages.
 
 This shows how important it is to return to the office, at least part time, and to focus on real-world experiences like picking up a book or newspaper and going outside regularly. And if physical meetings with colleagues or customers don’t take place for a longer period of time, it’s a better idea to invite them to a video call or to pick up the phone than just to send another email or chat message. While the range of options for digital interaction poses a great opportunity, it is critical to remain aware of how we use them. Whether we’re an employee or an employer, we should aim to use digital tools in a well-thought-out manner, paving the way for a hybrid working world that is responsible and humane.
 

@@ -1,5 +1,7 @@
 # braucht-die-eth-eine-frauenquote-fuer-fuehrungspositionen
 
+**Source:** de_internal/2022/07/braucht-die-eth-eine-frauenquote-fuer-fuehrungspositionen.html
+
 ## Pro
 
 Annegret Kern, Mitarbeiterin im Stab Präsident

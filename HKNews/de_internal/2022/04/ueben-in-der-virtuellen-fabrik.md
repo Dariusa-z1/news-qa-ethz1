@@ -1,5 +1,7 @@
 # ueben-in-der-virtuellen-fabrik
 
+**Source:** de_internal/2022/04/ueben-in-der-virtuellen-fabrik.html
+
 ## Erklärvideos ersetzen Online-Vorlesungen
 
 In der Corona-Pandemie jagte eine Online-Vorlesung die nächste, die Studierenden verbrachten oft ganze Tage in Videocalls. Das eigene Zimmer wurde zum Hörsaal, und die Grenzen zwischen Arbeits- und Erholungsort verschwammen. Viele Studierende klagten über physische Erschöpfung, emotionale Leere und Monotonie.

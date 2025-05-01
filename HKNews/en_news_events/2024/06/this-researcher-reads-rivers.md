@@ -1,5 +1,7 @@
 # this-researcher-reads-rivers
 
+**Source:** en_news_events/2024/06/this-researcher-reads-rivers.html
+
 ## A sensor to measure water quality
 
 Jessica Droujko is passionate about water – and rivers in particular. The Canadian scientist was born along the Niagara River, spent her summers on the Ottawa River and earned her Bachelor‘s degree in Montreal, where two rivers merge to create the great St. Lawrence River. She came to ETH Zurich for her Master’s studies and fell in love with Switzerland and its rivers, prompting her to do her doctorate at the Department Of Civil, Environmental and Geomatic Engineering. During this time, she developed the foundation for her start-up Riverkin, which measures and analyses the quality of river water.

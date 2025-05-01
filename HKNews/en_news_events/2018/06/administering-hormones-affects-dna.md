@@ -1,5 +1,7 @@
 # administering-hormones-affects-dna
 
+**Source:** en_news_events/2018/06/administering-hormones-affects-dna.html
+
 ## A time window of increased sensitivity
 
 The public debate on endocrine disrupting chemicals (EDCs) – exogenous substances that have the same or similar effects as endogenous hormones – has been going on for some time. Chemicals such as bisphenol A or phthalates, the latter of which are used to soften plastics, may be connected to rising infertility rates among men and women.

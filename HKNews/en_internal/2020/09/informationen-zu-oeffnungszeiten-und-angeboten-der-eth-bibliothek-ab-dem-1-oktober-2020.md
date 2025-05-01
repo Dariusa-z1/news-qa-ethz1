@@ -1,5 +1,7 @@
 # informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-1-oktober-2020
 
+**Source:** en_internal/2020/09/informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-1-oktober-2020.html
+
 ## Face masks mandatory
 
 - ETH Library in the main building (InfoCenter): Mon–Fri 8.00–22.00, Sat–Sun 9.00–17.00
@@ -40,11 +42,9 @@ There are many events scheduled for the autumn, but some will be conducted onlin
 
 ## Subscribe to Newsletter
 
-You can also continue to make use of our digital resources and contact options . Please do not visit the library if you belong to an at-risk group or are feeling unwell.
+Any questions? The ETH Library will be happy to help.
 
 ## Staffnet
-
-Any questions? The ETH Library will be happy to help.
 
 E-mail: You can also get in touch with us via WhatsApp or our chat function.
 

@@ -1,5 +1,7 @@
 # erc-synergy-grants
 
+**Source:** de_news_events/2019/10/erc-synergy-grants.html
+
 ## Gemeinsame Spitzenforschung mit Europa
 
 Zusammenhänge und Fragestellungen werden immer komplexer, was die Zusammenarbeit von Forschenden aus verschiedenen Gebieten notwendig macht. Seit 2012 fördert der Europäische Forschungsrat (ERC) deshalb mit ihren Synergy Grants Forschungsprojekte, an denen zwei bis vier Forschende aus verschiedenen Fachgebieten beteiligt sind und die einen hohen Synergieeffekt aufweisen. Dieses Jahr wurden 37 Konsortien mit einem hochdotierten Grant von 10 bis 14 Millionen Euro ausgezeichnet. Bei zwei Projekten ist die ETH Zürich im Lead, an einem weiteren ist die Hochschule beteiligt. Mit den Forschungsprojekten von Domenico Giardini zur Vorhersage von Erdbeben, von Jacob Corn im Bereich Genom-Editierung, sowie von Jeffrey W. Bode zur Entwicklung von Breitband-Antiviren­the­ra­pien ist die Unterstützung des Europäischen Forschungsrats durch die Synergy Grants thematisch breit gefächert.
@@ -17,6 +19,4 @@ Webseite der Gruppe Seismologie und Geodynamik (auf Englisch) Jacob Corn , ETH-P
 externe Seite Webseite des Corn Lab (auf Englisch) Viren wie Influenza A bleiben eine der grössten Bedrohungen für die menschliche Gesundheit. Trotz jahrzehntelanger Forschung wissen wir sehr wenig über die molekularen Mechanismen, mit denen Viren Säugetierwirte infizieren, und wie sie sich genau vor dem Immunsystem verstecken. Jüngste Ausbrüche von Ebola-, Zika- oder West-Nil-Viren verdeutlichen die anhaltenden Gefahren, die von herkömmlichen Viren ausgehen. Jeffrey Bode erhält in Zusammenarbeit mit Patrick Matthias des Friedrich Miescher Institut for Biomedical Research (FMI) in Basel, und Yohei Yamauchi von der Universität Bristol den ERC Synergy Grant, um die molekularen Mechanismen von Virusinfektionen zu untersuchen, um neuartige Breitband-Antivirentherapien zu ermöglichen.
 
 Webseite der Bode Research Group (auf Englisch)
-
-ETH Zürich Medienstelle Telefon: +41 44 632 41 41
 

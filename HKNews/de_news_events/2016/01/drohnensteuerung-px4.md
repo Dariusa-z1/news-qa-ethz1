@@ -1,5 +1,7 @@
 # drohnensteuerung-px4
 
+**Source:** de_news_events/2016/01/drohnensteuerung-px4.html
+
 ## Goldstandard in den nächsten Jahren
 
 Vor kurzem ging in Las Vegas die Consumer Electronics Show, die weltweit grösste Messe für Unterhaltungs- und Heimelektronik, zu Ende. Auf besonderes Interesse stiessen dabei die neusten Drohnenmodelle. Für die meisten unsichtbar mit an Bord von vielen neuen Geräten: die neuste Steuerungs-Plattform von Qualcomm Technologies, des Marktführers bei Drohnen-Prozessoren.

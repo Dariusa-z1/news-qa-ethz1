@@ -1,5 +1,7 @@
 # mit-glasfasernetzen-erdbeben-und-tsunamis-vorhersagen
 
+**Source:** de_news_events/2023/11/mit-glasfasernetzen-erdbeben-und-tsunamis-vorhersagen.html
+
 ## In Kürze
 
 - Forschende der ETH Zürich und dem Eidgenössischen Institut für Metrologie METAS gewinnen Erschütterungsdaten aus der aktiven Rauschunterdrückung, die in der optischen Datenkommunikation die Genauigkeit der Signale erhöht.

@@ -1,5 +1,7 @@
 # kleinstmagnete-fuer-zukuenftige-datenspeicher
 
+**Source:** de_news_events/2017/03/kleinstmagnete-fuer-zukuenftige-datenspeicher.html
+
 ## Atom mit Oberfläche verschmolzen
 
 Die Idee ist faszinierend: Auf kleinstem Platz könnten riesige Datenmengen gespeichert werden, wenn man für eine Informationseinheit (in der binären Digitaltechnik eine Null oder eine Eins) bloss ein einziges Atom oder ein kleines Molekül bräuchte. Theoretisch ist dies möglich, denn bestimmte Atome lassen sich so magnetisieren, dass die Magnetisierung nur zwei Richtungen annehmen kann: «Spin up» oder «Spin down». In der Abfolge der Magnetisierungsrichtung vieler Moleküle liessen sich so Informationen speichern.

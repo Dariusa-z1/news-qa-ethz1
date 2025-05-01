@@ -1,5 +1,7 @@
 # eisen-ersetzt-blei
 
+**Source:** de_news_events/2016/10/eisen-ersetzt-blei.html
+
 ## 450 Schulkinder untersucht
 
 Blei ist ein giftiges Schwermetall, das bis vor 25 Jahren auch in der Schweiz dem Autobenzin zugesetzt wurde. Es schädigt insbesondere die sich entwickelnden Gehirne von Kindern und Jugendlichen. Die Schäden sind nicht umkehrbar.

@@ -1,5 +1,7 @@
 # cybersecurity-and-ways-to-handle-uncertainties
 
+**Source:** en_news_events/2021/02/cybersecurity-and-ways-to-handle-uncertainties.html
+
 ## Main article
 
 ETH senior lecturer Myriam Dunn Cavelty never imagined that cybersecurity would evolve from a niche subject to a big thing. Today, the topic is on everyone’s lips - and it is an important research field at ETH Zurich. Myriam is a highly respected researcher in the area and talks about how cybersecurity and uncertainty come as a pair.

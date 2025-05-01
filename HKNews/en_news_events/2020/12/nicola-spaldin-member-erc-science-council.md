@@ -1,5 +1,7 @@
 # nicola-spaldin-member-erc-science-council
 
+**Source:** en_news_events/2020/12/nicola-spaldin-member-erc-science-council.html
+
 ## Main article
 
 The European Commission today appointed five outstanding scientists as new members of the Scientific Council of the European Research Commission (ERC), including Nicola Spaldin. The professor of materials theory at ETH Zurich is only the third person from Switzerland to sit on this body, after Rolf Zinkernagel (University of Zurich) and Helga Nowotny (ETH Zurich).

@@ -1,5 +1,7 @@
 # high-demand-for-snsf-consolidator-grants
 
+**Source:** en_news_events/2014/05/high-demand-for-snsf-consolidator-grants.html
+
 ## Maximum of CHF 2 million per project
 
 Since the acceptance of the Swiss popular initiative “Against mass immigration”, academics wishing to conduct research in Switzerland have been unable to apply for funding to the European Research Council (ERC). The SNSF therefore launched two transitional measures: first the SNSF Starting Grants and now the SNSF Consolidator Grants. A total of 111 researchers grasped the second opportunity by 20 May.

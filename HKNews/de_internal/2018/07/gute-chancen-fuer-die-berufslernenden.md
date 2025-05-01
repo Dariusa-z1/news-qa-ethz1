@@ -1,5 +1,7 @@
 # gute-chancen-fuer-die-berufslernenden
 
+**Source:** de_internal/2018/07/gute-chancen-fuer-die-berufslernenden.html
+
 ## Abschlüsse 2018 nach Berufsrichtung
 
 Wie Studium, Doktorat und Weiterbildung ist auch die Berufsbildung an der ETH Zürich fest verankert. 15 verschiedene Berufe kann man an der ETH erlernen. Insgesamt über 170 Lernende, Praktikantinnen und Praktikanten umfasst die ETH-Berufsbildung derzeit. 52 von ihnen haben am Donnerstagabend ihre Ausbildung an der ETH abgeschlossen. Unter ihnen 37 Männer und 15 Frauen. Ihr Abschluss wurde an der Lehrabschlussfeier im AudiMax des ETH-Hauptgebäudes gewürdigt.

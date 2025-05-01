@@ -1,5 +1,7 @@
 # festliche-stimmung-auf-dem-campus-honggerberg
 
+**Source:** de_internal/2022/12/festliche-stimmung-auf-dem-campus-honggerberg.html
+
 ## Abschied vom Forschungschef
 
 Es durfte wieder gefeiert werden im festlich geschmückten Foyer des HPH-Gebäudes auf dem Campus Hönggerberg. Joël Mesot sprach den über 1300 Gästen seinen Dank für ihr grosses Engagement in einem schwierigen Jahr aus.

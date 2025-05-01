@@ -1,5 +1,7 @@
 # bauen-fuer-die-eth-von-morgen-das-neue-life--das-magazin-fuer-die-eth-community-ist-da
 
+**Source:** de_internal/2015/12/bauen-fuer-die-eth-von-morgen-das-neue-life--das-magazin-fuer-die-eth-community-ist-da.html
+
 ## Main article
 
 Neue Wohnhäuser für Studierende, zwei neue Gastronomiebetriebe und ein neugestalteter Vorplatz für das ETH-Hauptgebäude sind nur ein paar der aktuellen Bauprojekte auf dem Campus Hönggerberg sowie rund um die ETH Zürich im Zentrum. «life» zeigt auf, was wo geplant ist und fasst zudem den Stand der Rückführung von zweckentfremdeten Wohnraum zusammen.

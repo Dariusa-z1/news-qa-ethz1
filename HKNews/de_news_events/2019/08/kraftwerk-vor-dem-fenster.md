@@ -1,5 +1,7 @@
 # kraftwerk-vor-dem-fenster
 
+**Source:** de_news_events/2019/08/kraftwerk-vor-dem-fenster.html
+
 ## Positive Energiebilanz
 
 Gebäude zu heizen oder zu kühlen benötigt Energie. Mit intelligenten Fassaden könnte man viel davon sparen. Ein an der ETH Zürich entwickeltes System verwendet bewegliche Solarpanels, die Strom produzieren und zugleich genau so viel Sonne durchlassen oder Schatten spenden, wie es Wetter und Raumklima erfordern.

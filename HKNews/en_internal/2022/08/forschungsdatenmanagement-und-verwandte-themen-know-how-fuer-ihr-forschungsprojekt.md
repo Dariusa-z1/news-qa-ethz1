@@ -1,5 +1,7 @@
 # forschungsdatenmanagement-und-verwandte-themen-know-how-fuer-ihr-forschungsprojekt
 
+**Source:** en_internal/2022/08/forschungsdatenmanagement-und-verwandte-themen-know-how-fuer-ihr-forschungsprojekt.html
+
 ## Main article
 
 There are eight workshops in the series that will be held in September, October and November 2022, the first six of which build on each other.

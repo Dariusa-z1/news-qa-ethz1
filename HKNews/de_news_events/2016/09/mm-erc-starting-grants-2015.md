@@ -1,5 +1,7 @@
 # mm-erc-starting-grants-2015
 
+**Source:** de_news_events/2016/09/mm-erc-starting-grants-2015.html
+
 ## In unterschiedlichsten Disziplinen an der Spitze
 
 Im prestigeträchtigen Wettbewerb um die Starting Grants des Europäischen Forschungsrats (ERC) haben sich zwei Wissenschaftlerinnen und vier Wissenschaftler der ETH Zürich durchgesetzt. Sie erhalten je rund 1,6 Millionen Schweizer Franken Fördergeld, um damit ihre Forschungsprojekte voranzutreiben – gesamthaft fliessen also über 9,3 Millionen CHF an Forschende, die ihr Projekt über die ETH eingereicht haben. Die sechs jungen Talente stammen aus unterschiedlichen Forschungsbereichen von Visual Computing über Gesundheitswissenschaften bis hin zu Quantenoptik. Gemeinsam ist den Projekten die wissenschaftliche Exzellenz.
@@ -31,6 +33,4 @@ Der Mathematiker Antti Knowles beschäftigt sich mit Zufallsmatrizen. Das sind m
 Die Europäische Union will die CO 2 -Emissionen im Stromsektor bis 2050 um 93 bis 99 Prozent reduzieren. Johan Lilliestam , Oberassistent und Dozent am Institut für Umweltentscheidungen, erforscht, wie die Energiebranche den Übergang hin zu einem vollständig erneuerbaren Stromsystem vollziehen kann. In seinem ERC-Projekt will er untersuchen, inwiefern sich dieses Vorhaben und weitere energiepolitische Ziele – etwa eine geringere Nachfrage oder mehr Wettbewerb im Strommarkt – gegenseitig beeinflussen. Dazu analysiert er, ob es Zielkonflikte gibt, und wie die anderen Ziele die Kosten eines erneuerbaren Stromsystems und das Verhalten zentraler Marktteilnehmer beeinflussen. Die Resultate sollen dabei helfen, energiepolitische Ziele konfliktfrei zu gestalten, damit die europäische Transition zu den Erneuerbaren gelingt.
 
 Mit diesen Grants fördert der Europäische Forschungsrat ERC unabhängige Nachwuchsforscherinnen und Nachwuchsforscher beliebiger Nationalität mit 2 bis 7 Jahren Erfahrung nach Abschluss der Promotion und einer vielversprechenden wissenschaftlichen Karriere. Entscheidendes Kriterium für die Vergabe ist die Exzellenz des eingereichten Forschungsprojekts, das in einer öffentlichen oder privaten Forschungsorganisation, die ihren Sitz in einem EU-Mitgliedstaat oder einem assoziierten Staat hat, durchgeführt werden muss. Während 5 Jahren werden die Projekte mit bis zu 1,6 Millionen Schweizer Franken gefördert.
-
-ETH Zürich Medienstelle Telefon: +41 44 632 41 41
 

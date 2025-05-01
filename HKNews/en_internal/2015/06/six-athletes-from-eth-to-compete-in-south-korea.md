@@ -1,5 +1,7 @@
 # six-athletes-from-eth-to-compete-in-south-korea
 
+**Source:** en_internal/2015/06/six-athletes-from-eth-to-compete-in-south-korea.html
+
 ## Main article
 
 Six of the athletes are students from ETH Zurich:

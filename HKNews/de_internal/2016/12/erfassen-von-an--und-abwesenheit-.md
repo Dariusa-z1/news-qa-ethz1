@@ -1,8 +1,12 @@
 # erfassen-von-an--und-abwesenheit-
 
+**Source:** de_internal/2016/12/erfassen-von-an--und-abwesenheit-.html
+
 ## Main article
 
 Seit dem Jahresbeginn 2015 gilt an der ETH Zürich ein neuer Rechnungslegungsstandard. Dieser orientiert sich an IPSAS, dem internationalen Rechnungslegungsstandards für den öffentlichen Sektor. Im Zuge dieser Umstellung wird ab 2017 die Zeiterfassung der ETH-Angestellten neu geregelt.
+
+Die Schulleitung der ETH Zürich hat dazu am 13. Dezember 2016 ein Reglement zur Erfassung der Arbeitszeit und Abwesenheiten genehmigt.
 
 Gemäss diesem Reglement sind die Mitarbeitenden der ETH Zürich ab dem 1. Januar 2017 verpflichtet, die tägliche Arbeitszeit sowie bestimmte Abwesenheiten im Zeiterfassungssystem in ETHIS (ETH Informations- und Support-System) oder in einem bestehenden Zeiterfassungssystem zu erfassen. Dabei ist die Zeiterfassung je nach Personalkategorie unterschiedlich geregelt.
 

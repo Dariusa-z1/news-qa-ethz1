@@ -1,5 +1,7 @@
 # selenium-deficiency-promoted-by-climate-change
 
+**Source:** en_news_events/2017/02/selenium-deficiency-promoted-by-climate-change.html
+
 ## Precipitation affects selenium concentration
 
 Selenium is an essential micronutrient obtained from dietary sources such as cereals. The selenium content of foodstuffs largely depends on concentrations in the soil: previous studies have shown that low selenium concentrations are associated with high pH and oxygen availability and low clay and soil organic carbon content. In Europe, as is known from regional studies, selenium-poor soils are found particularly in Germany, Denmark, Scotland, Finland and certain Balkan countries.

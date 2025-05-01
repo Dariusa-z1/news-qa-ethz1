@@ -1,5 +1,7 @@
 # snsf-publishes-guidelines-for-data-management-plans
 
+**Source:** en_internal/2017/05/snsf-publishes-guidelines-for-data-management-plans.html
+
 ## Main article
 
 The guidelines address researchers and give support in the creation of the data management plan:

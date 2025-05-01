@@ -1,5 +1,7 @@
 # vollstaendige-umstellung-auf-swisscovery-zum-1-april-2021
 
+**Source:** de_internal/2021/03/vollstaendige-umstellung-auf-swisscovery-zum-1-april-2021.html
+
 ## Main article
 
 Ende März endet die Übergangszeit für die Umstellung auf die neue Rechercheplattform externe Seite swisscovery , die im letzten Dezember eingeführt wurde.

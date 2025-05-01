@@ -1,5 +1,7 @@
 # fresh-herbs-from-factory-halls-and-bunkers
 
+**Source:** en_news_events/2021/08/fresh-herbs-from-factory-halls-and-bunkers.html
+
 ## More yield, less consumption
 
 Mark Zahran’s grandfather drove a tractor on the fields of the Swiss Plateau near Bern. Now, in an open-plan office in Zurich, Mark himself is working on what the agriculture of the future might look like. “Our ecological footprint depends to a large extent on how we produce our food,” Zahran says from his building’s small forecourt, with the Sihl River rushing by just a few metres away. He goes on: “We also need solutions for feeding a global population of 10 billion sustainably by 2050.”

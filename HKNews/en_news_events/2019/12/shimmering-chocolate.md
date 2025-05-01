@@ -1,5 +1,7 @@
 # shimmering-chocolate
 
+**Source:** en_news_events/2019/12/shimmering-chocolate.html
+
 ## Experiments in the kitchen
 
 The chocolate shimmers in dynamically changing rainbow colours. It seems to glow in the light. A group of scientists from ETH Zurich and FHNW University of Applied Sciences and Arts Northwestern Switzerland have recently filed a patent for this process.

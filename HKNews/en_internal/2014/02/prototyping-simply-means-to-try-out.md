@@ -1,5 +1,7 @@
 # prototyping-simply-means-to-try-out
 
+**Source:** en_internal/2014/02/prototyping-simply-means-to-try-out.html
+
 ## Main article
 
 Last autumn, the first study trip within the framework of the “Raus aus den vier Wänden” (“Leaving our comfort zone”) Innovedum project was made and it went to Stanford. The aim of the trip was to broaden our horizon in defined subject areas, to question the current methods at ETH and to find inspiration for new projects.

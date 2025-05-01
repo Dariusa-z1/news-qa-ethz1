@@ -1,5 +1,7 @@
 # two-distinguished-lectures-about-water-and-flows
 
+**Source:** en_internal/2016/03/two-distinguished-lectures-about-water-and-flows.html
+
 ## Sculpting water
 
 The D-MAVT Distinguished Lecture Series brings world leading scientists and engineers to ETH Zurich to present their work in a colloquium and to meet with its faculty and students. The colloquium has broad attendance by faculty, staff, Master and Doctoral students from all departments of ETH Zurich.

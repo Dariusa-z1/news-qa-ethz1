@@ -1,5 +1,7 @@
 # blog-stern-lernen-digital-corona
 
+**Source:** de_news_events/2020/05/blog-stern-lernen-digital-corona.html
+
 ## Faire Prüfungen kaum machbar
 
 Weltweit wurden seit Mitte März Schulen und Universitäten fast buchstäblich über Nacht vor die Herausforderung gestellt, ihre Lernangebote auf ICT umzustellen. Lehrende, die bisher bestenfalls Moodle als Ablage für Folien und Texte nutzen, kommunizieren jetzt mit den Lernenden über Zoom, WhatsApp usw.. An vielen Institutionen – darunter auch an unserer ETH – klappt das erstaunlich gut. Für die meisten Lehrerinnen und Lehrer – egal ob an der Hochschule oder an allgemeinbildenden Schulen – dürfte feststehen, dass ein Teil der eingesetzten digitalen Methoden auf Dauer übernommen wird. Ich werde auf jeden Fall – nach meinen hoffentlich in naher Zukunft wieder vor realen Menschen stattfindenden Vorlesungen – zu Randzeiten und am Wochenende kurze Zoom-Kleingruppen anbieten, in denen offene Fragen geklärt werden können.

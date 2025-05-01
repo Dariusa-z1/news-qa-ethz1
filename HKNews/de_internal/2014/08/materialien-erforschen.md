@@ -1,5 +1,7 @@
 # materialien-erforschen
 
+**Source:** de_internal/2014/08/materialien-erforschen.html
+
 ## Main article
 
 Begleitend bietet die Website des Material-Archivs eine Fülle an Informationen zu Materialbeschrieb, Eigenschaften, Bearbeitungstechniken und Herstellungsverfahren. Fotos illustrieren darüber hinaus traditionelle und innovative Materialmuster und Anwendungsbeispiele.

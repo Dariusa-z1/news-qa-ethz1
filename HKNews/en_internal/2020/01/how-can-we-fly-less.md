@@ -1,5 +1,7 @@
 # how-can-we-fly-less
 
+**Source:** en_internal/2020/01/how-can-we-fly-less.html
+
 ## Taking credible action
 
 On Monday, more than 200 students, researchers and employees from ETH Zurich and other universities and organisations in Switzerland attended the forum on ETH Zurich’s Air Travel Project to discover the latest developments. Workshops and discussions also offered them a chance to discuss specific ways in which they could help to reduce CO 2 emissions themselves.

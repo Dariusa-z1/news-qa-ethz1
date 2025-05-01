@@ -1,5 +1,7 @@
 # safe-intubation-thanks-to-artificial-intelligence-and-robotics
 
+**Source:** en_news_events/2023/06/safe-intubation-thanks-to-artificial-intelligence-and-robotics.html
+
 ## Main article
 
 Successful intubation of the trachea can save lives. However, complications often arise because the procedure is challenging and requires a great deal of experience. aiEndoscopic, a spin-off from ETH Zurich, the University of Zurich and University Hospital Zurich, has now developed a device that should make intubation easier and safer in the future.

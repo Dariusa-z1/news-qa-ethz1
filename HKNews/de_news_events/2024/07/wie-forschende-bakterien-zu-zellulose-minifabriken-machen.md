@@ -1,5 +1,7 @@
 # wie-forschende-bakterien-zu-zellulose-minifabriken-machen
 
+**Source:** de_news_events/2024/07/wie-forschende-bakterien-zu-zellulose-minifabriken-machen.html
+
 ## In Kürze
 
 - Materialforschende der ETH Zürich haben 40'000 Varianten des zellulosebildenden Bakteriums Komagataeibacter sucrofermentans hergestellt.

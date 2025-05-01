@@ -1,5 +1,7 @@
 # rollout_fokus_projekte
 
+**Source:** de_news_events/2015/05/rollout_fokus_projekte.html
+
 ## Elektrischer Rollstuhl macht Treppen befahrbar
 
 Motivierte Studierende haben auch dieses Jahr wieder die Chance genutzt, im Rahmen der sogenannten Fokus-Projekte ihre Produktidee in die Realität umzusetzen: über den Entwurf, das Design, die Produktion bis hin zum Marketing haben sie selbständig sämtliche Schritte der Produktentwicklung durchlaufen. Dabei entstanden sind unter anderem zwei neuartige technische Hilfssysteme für Menschen mit einer körperlichen Behinderung.

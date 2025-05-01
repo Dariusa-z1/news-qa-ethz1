@@ -1,5 +1,7 @@
 # patrick-aebischer-gibt-epfl-praesidium-ende-2016-ab
 
+**Source:** en_internal/2015/02/patrick-aebischer-gibt-epfl-praesidium-ende-2016-ab.html
+
 ## Succession: selection by the ETH Board
 
 The Federal Council today re-elected Patrick Aebischer as president of the EPFL for a limited term of office until 31 December 2016. This corresponds with the unanimous motion of the ETH Board and reflects Patrick Aebischer's own wishes. After 15 years at the helm of the EPFL, it is Patrick Aebischer's wish to initiate the hand over of management responsibilities in good time. The Federal Council thanks him for his services to the institution and to education and research in Switzerland.

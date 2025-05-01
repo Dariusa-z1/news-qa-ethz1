@@ -1,5 +1,7 @@
 # gravitationsforscherin-auf-der-suche-nach-schwerelosigkeit
 
+**Source:** de_news_events/2017/06/gravitationsforscherin-auf-der-suche-nach-schwerelosigkeit.html
+
 ## Interdisziplinäre Brückenbauerin
 
 Wer Lavinia Heisenbergs Curriculum Vitae anschaut, stolpert zwangsläufig über zwei Dinge: über ihren Namen und ihr Alter. Natürlich werde sie ständig auf eine Verwandtschaft mit dem Vater der Quantenmechanik und Nobelpreisträger Werner Heisenberg angesprochen, erzählt die Physikerin. «Ich antworte meist mit Heisenbergs eigenen Worten bezüglich seiner Unschärferelation: it's uncertain.» Denn der Blick auf den Stammbaum gibt keine eindeutige Antwort. Für Lavinia Heisenberg ist der bekannte Name vor allem Ansporn, um aus dem Schatten des Physik-Übervaters zu treten und mit eigener, bahnbrechender Forschung von sich reden zu machen. Sie ist auf bestem Weg dazu: Mit 33 Jahren hat Heisenberg in einem Dutzend Ländern an renommierten Universitäten gearbeitet, ihre Publikationsliste ist mehrere Seiten lang und aktuell steckt sie im Bewerbungsverfahren für eine erste eigene Professur.

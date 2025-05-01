@@ -1,5 +1,7 @@
 # lange-nacht-der-karriere
 
+**Source:** de_internal/2014/11/lange-nacht-der-karriere.html
+
 ## Main article
 
 Hast du schon mal mit einem Manager Minigolf gespielt oder dein Gipfeli am Morgen mit dem CEO eines Grosskonzerns gegessen? Hast du schon mal versucht, einen Firmenvertreter innerhalb von 3 Minuten von dir zu überzeugen oder weisst du wie du dich kleidest, wenn «business casual» gefragt ist?

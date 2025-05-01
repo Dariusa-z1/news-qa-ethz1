@@ -1,5 +1,7 @@
 # what-previous-bird-flu-outbreaks-teach-us
 
+**Source:** en_news_events/2023/04/what-previous-bird-flu-outbreaks-teach-us.html
+
 ## Abstract
 
 - The bird flu epidemic in China from 2013 to 2017 showed that pathogens can circulate in poultry farms for several months before being detected.

@@ -1,5 +1,7 @@
 # entire-music-album-to-be-stored-on-DNA
 
+**Source:** en_news_events/2018/04/entire-music-album-to-be-stored-on-DNA.html
+
 ## Translating from digital to DNA
 
 The British band Massive Attack are considered pioneers of trip hop, an atmospheric style of electronic music featuring laid-back beats. It’s now been 20 years since the release of Mezzanine , the album which marked their international breakthrough and remains their most successful project to date. To mark the album’s 20th anniversary, the band are having it stored in DNA molecules – using technology developed at ETH Zurich. “This method allows us to archive the music for hundreds to thousands of years,” says Robert Grass, professor at ETH Zurich’s Functional Materials Laboratory. By way of comparison: CDs are said to last around 30 years.
@@ -19,4 +21,6 @@ The 5,000 glass beads of the Massive Attack album are invisible to the naked eye
 Amendment dated 05.06.2018:
 
 In an earlier version of this article, it was incorrectly stated that the 15 megabytes music album is the second largest file ever stored in DNA.
+
+Listen to a clip from Massive Attack’s Teardrop (MP3, 1017 KB) in the same audio quality that was stored on DNA.
 

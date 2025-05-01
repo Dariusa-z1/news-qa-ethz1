@@ -1,5 +1,7 @@
 # barrieren-in-den-koepfen-abbauen
 
+**Source:** de_news_events/2016/09/barrieren-in-den-koepfen-abbauen.html
+
 ## Integration schon in der Schule
 
 Technik allein ist nicht die Lösung. Darin waren sich alle Teilnehmenden der Podiumsdiskussion, die von Niklaus Walter, dem Ressortleiter Wissen bei der SonntagsZeitung und dem Tages-Anzeiger, moderiert wurde, einig. Genauso wichtig wie innovative Assistenztechnologien sei der Abbau von Alltagshindernissen und eine grössere Akzeptanz von Menschen mit Behinderung in der Gesellschaft. «Assistenztechnologien bergen sogar die Gefahr, dass die notwendigen Anpassungen der Umwelt vernachlässigt werden, da davon ausgegangen wird, dass sich der einzelne Mensch anpasst», warnte Brian McGowan, Präsident des Vereins Sensability.

@@ -1,5 +1,7 @@
 # solidarity-work-at-a-pharmacy
 
+**Source:** en_internal/2020/04/solidarity-work-at-a-pharmacy.html
+
 ## In the lab and out on the bike
 
 Ilario Scapozza is studying for a Master’s degree in Pharmacy at ETH Zurich. The 22-year-old has been working in the Rigi Apotheke in Zurich for a good four weeks now. He’s on duty five days a week helping the pharmacy cope with its heavy workload during the crisis. Scapozza explains how this came about: “I was already in contact with the pharmacy at the beginning of the year, as it’s there I’m going to be working as an assistant for the compulsory practical training year of my degree.” Shortly after ETH announced the shift to emergency operation, the pharmacy approached him for the mission. Scapozza agreed right away.
@@ -23,8 +25,6 @@ Another important task is analysing products before they’re sold – “determ
 Pharmacy student Scapozza prepares drugs for delivery. (Image: ETH Zürich/Nicola Pitaro)
 
 According to Scapozza, things at the pharmacy aren’t quite as acute as at the beginning of the crisis. “It was really dire then: suddenly we were no longer able to order products that had always been available.” And people were queuing up outside the pharmacy. All this has subsided somewhat, but nonetheless his input still helps take some of the strain off the business: “Overall, there’s more work to be done than before the crisis. Older customers, in particular, are having products delivered more often. And our suppliers are still faced with bottlenecks, which means more for us to do.”
-
-Of course, the rigorous safety precautions still apply at the Rigi Apotheke. No more than four customers are allowed in the store at any one time, and employees keep their distance from one other. Keyboards and shelves are disinfected every half hour. The same goes for deliveries – messengers have no physical contact with customers; parcels, hands and even the cargo bike are disinfected regularly. Scapozza is reassured that the risk of infection for customers is kept to a minimum like this. And he feels safe too, because he notices that both customers and employees take great pains to comply with these measures.
 
 The posting is a thoroughly positive experience for Scapozza, and a great chance to build on the knowledge he’s amassed during his studies: “It’s great to see the point of what you’ve been learning in the lecture hall for years. I now realise there are people who benefit directly from what I do, and that’s a tremendous motivation.” He warmly recommends solidarity work: “It doesn't have to be a full-time job at a pharmacy or a hospital; there are certainly people in the neighbourhood who’d be grateful for some help too.” There as well, the protective measures must be observed at all times, Scapozza concludes.
 

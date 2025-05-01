@@ -1,5 +1,7 @@
 # gerichtsentscheid-zur-kuendigung-einer-eth-professorin
 
+**Source:** de_internal/2022/04/gerichtsentscheid-zur-kuendigung-einer-eth-professorin.html
+
 ## Main article
 
 Die ETH Zürich nimmt das Urteil des Bundesverwaltungsgerichts, das noch ans Bundesgericht weitergezogen werden kann, zur Kenntnis.

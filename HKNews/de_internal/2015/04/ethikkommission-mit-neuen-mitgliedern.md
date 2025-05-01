@@ -1,5 +1,7 @@
 # ethikkommission-mit-neuen-mitgliedern
 
+**Source:** de_internal/2015/04/ethikkommission-mit-neuen-mitgliedern.html
+
 ## Main article
 
 Die Schulleitung der ETH Zürich hat Mitte März drei neue Mitglieder in die Ethikkommission gewählt. Damit hat die Kommission insgesamt neun Mitglieder.

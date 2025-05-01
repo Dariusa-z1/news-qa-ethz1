@@ -1,5 +1,7 @@
 # a-world-first-for-the-first-time-a-human-liver-was-treated-in-a-machine-and-then-successfully-transplanted
 
+**Source:** en_news_events/2022/05/a-world-first-for-the-first-time-a-human-liver-was-treated-in-a-machine-and-then-successfully-transplanted.html
+
 ## From poor to good in three days
 
 The Liver4Life research team owes its perfusion machine, which was developed in house, to the fact that it became possible to implant a human organ into a patient after a storage period of three days outside a body. The machine mimics the human body as accurately as possible, in order to provide ideal conditions for the human livers. A pump serves as a replacement heart, an oxygenator replaces the lungs and a dialysis unit performs the functions of the kidneys. In addition, numerous hormone and nutrient infusions perform the functions of the intestine and pancreas. Like the diaphragm in the human body, the machine also moves the liver to the rhythm of human breathing. In January 2020, the multidisciplinary Zurich research team – involving the collaboration of University Hospital Zurich (USZ), ETH Zurich and the University of Zurich (UZH) – demonstrated for the first time that perfusion technology makes it possible to store a liver outside the body for several days (see press release USZ of January13, 2020 ).
@@ -25,10 +27,4 @@ The next step in the Liver4Life project is to review the procedure on other pati
 The Liver4Life project was launched in 2015 under the umbrella of the Wyss Zurich Translational Center (Wyss Zurich). It brings together the highly specialized technical know-how and biomedical knowledge of around ten medical professionals, biologists and engineers. The project is being financed with donations from the initiator of Wyss Zurich, Dr. h.c. mult. Hansjörg Wyss.
 
 Clavien PA, Dutkowski P et al. Transplantation of a human liver following 3 days of ex situ normothermic preservation. Nature Biotechnology 2022. DOI: 10.1038/s41587-022-01354-7
-
-Pierre-Alain Clavien, Prof. Dr. med. Director of the Department of Visceral Surgery and Transplantation at the University Hospital Zurich
-
-Max L. Hefti, Dr. Project leader Liver4Life, Wyss Zurich Translational Center (ETH Zurich / University of Zurich)
-
-Contact through the USZ media office, ,+41 44 255 86 20
 

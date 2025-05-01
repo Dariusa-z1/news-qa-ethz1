@@ -1,5 +1,7 @@
 # technological-innovation-trumps-politics
 
+**Source:** en_news_events/2017/06/technological-innovation-trumps-politics.html
+
 ## A paradigm shift in climate politics
 
 US President Donald Trump recently decided to pull out of the Paris Agreement. Will this be the beginning of the end for an international agreement that took two decades to reach? To answer this question it is important to understand why the Paris Agreement was signed by 195 countries in the first place – only six years after the failure of the Copenhagen conference.

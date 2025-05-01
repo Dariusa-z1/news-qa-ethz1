@@ -1,5 +1,7 @@
 # New%20townhall%20series-on-the-importance-of-physical-fitness-for-well-being
 
+**Source:** en_internal/2021/01/New%20townhall%20series-on-the-importance-of-physical-fitness-for-well-being.html
+
 ## Join in with #moveETH
 
 Physical fitness is essential to our well-being – especially during the pandemic, when most of our “movement” is virtual as we work from home. This offered Julia Dannath an opportunity to show members of the ETH community some strategies for improving their physical fitness.

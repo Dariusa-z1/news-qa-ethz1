@@ -1,5 +1,7 @@
 # ich-hatte-schon-immer-freude-etwas-auf-die-beine-zu-stellen
 
+**Source:** de_internal/2022/10/ich-hatte-schon-immer-freude-etwas-auf-die-beine-zu-stellen.html
+
 ## Die Mitglieder des neuen VSETH-Vorstands
 
 - Emir İşman (Präsident)
@@ -25,6 +27,8 @@
 - Linus Ziegler (Ressort Infrastruktur)
 
 - Alexander Beck (Geschäftsführender Sekretär)
+
+Möchten Sie stets die wichtigsten internen Informationen und News der ETH Zürich erhalten? Dann abonnieren Sie den Newsletter «Intern aktuell» und besuchen Sie regelmässig Staffnet , das Info-​​Portal für ETH-​​Mitarbeitende.
 
 ## Immer aktuell informiert
 

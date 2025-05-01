@@ -1,5 +1,7 @@
 # top-speed-knowledge-transfer
 
+**Source:** en_news_events/2016/06/top-speed-knowledge-transfer.html
+
 ## Putting it into practice – and fast
 
 ETH Zurich is known for top-level research and teaching, but the university’s continuing education programme is one of its most important endeavours. Switzerland has entire professional fields, such as spatial planning and development, that would be hard-pressed to find well-trained, local specialists without ETH’s continuing education courses. The long-standing post-graduate studies at ETH Zurich are still Switzerland’s only suitable educational opportunity in certain subjects. In total, ETH Zurich offers 16 MAS programmes, 25 shorter CAS and DAS courses, roughly one hundred continuing education courses and 25 e-learning programmes.
@@ -13,8 +15,6 @@ However, ETH cannot afford to rest on its laurels. Quite the opposite, in fact: 
 By creating the position of vice-rector for continuing education last year, ETH also clearly demonstrated at the organisational level the importance it accords continuing education. Paolo Ermanni, Professor of Structure Technologies and new Vice-Rector, has a clear vision: “The necessity of lifelong learning continues to blur the distinction some people still make between education and continuing education, but this boundary will eventually disappear completely as studies and continuing education merge into each other more and more.” Ermanni wants to encourage people, inside ETH as well, to see the university’s teaching and continuing education disciplines as two equally valued sides of the same coin. He intends to ensure that lecturers who teach in continuing education receive just as much support from IT services and educational developers as those in the more traditional courses of study. Similarly, when it comes to evaluations and quality assurance actions, Ermanni aims to have continuing education on the same footing as traditional teaching.
 
 ## "Globe" Magazine
-
-Ermanni believes that targeted expansion of continuing education will also serve to strengthen the university’s ties to its stakeholders, be they alumni, companies or government authorities. Continuing education can increasingly supply tailored offerings that speak to the needs of individual groups. For example, Ermanni and his team would like to offer a continuing education programme that would get women “back to business”. The idea would be to help women in technical and scientific careers who have taken time out from work for family to get up to speed with the latest developments in their fields. For these and similar offerings, Ermanni also plans to make more use of new e-learning tools that can transmit knowledge to participants more flexibly. Still, direct contact to ETH is crucial: “We want our students to be able to participate in the ETH world, too, and we want to give them the opportunity to meet others in the ETH community,” Ermanni emphasises. He believes networks are a key component of continuing education. As he puts it, “The effect of continuing education is multiplied again over networks – for the students, for their institutions and ultimately for society as a whole.
 
 ETH Zurich Centre for Continuing Education
 

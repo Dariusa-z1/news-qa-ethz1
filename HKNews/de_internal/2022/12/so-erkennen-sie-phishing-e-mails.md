@@ -1,5 +1,7 @@
 # so-erkennen-sie-phishing-e-mails
 
+**Source:** de_internal/2022/12/so-erkennen-sie-phishing-e-mails.html
+
 ## Phishing-E-Mails sicher erkennen
 
 - Unter Druck setzen: Viele Phishing-E-Mails spielen auf Emotionen. Formulierungen wie «Sie müssen innert 24 Stunden auf diesen Link klicken, um Ihren Account zu reaktivieren.» oder «Ihr Account wird blockiert.» werden verwendet, um Angst zu erzeugen, Druck auszuüben und Sie zu einem bestimmten Verhalten zu drängen (z.B. Angabe von Konto-Details, Verifizierungs-Links, kaufen von Wertkarten etc.). Werden Sie in diesen Fällen misstrauisch – womöglich werden Sie gerade «gephisht».

@@ -1,5 +1,7 @@
 # and-the-first-AVETH-diversity-award-goes-to
 
+**Source:** en_internal/2021/05/and-the-first-AVETH-diversity-award-goes-to.html
+
 ## The categories
 
 - People who have integrated diversity and inclusion aspects into their work at ETH but always as part of their job.

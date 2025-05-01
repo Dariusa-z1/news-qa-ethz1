@@ -1,5 +1,7 @@
 # interview-wie-chatgpt-die-lehre-und-das-pruefen-veraendert
 
+**Source:** de_internal/2023/04/interview-wie-chatgpt-die-lehre-und-das-pruefen-veraendert.html
+
 ## Zu den Personen
 
 Gerd Kortemeyer, Manuel Sudau: ChatGPT wirft bei Dozierenden aktuell viele Fragen auf. Welche? Gerd Kortemeyer: Dozierende sind plötzlich mit maschinell erzeugten Texten konfrontiert, die sie nicht notwendigerweise von menschgemachten Texten unterscheiden können. Einfache Schreibarbeiten, also kleine Essays oder Zusammenfassungen, werden dadurch wohl obsolet. Wir sind deshalb mit Fragen konfrontiert wie: «wie kann man ChatGPT blockieren» oder «wie kann ich Texte der KI erkennen?». Ich verstehe diese Sorgen natürlich. Die Diskussion erinnert mich an die Zeit, als Taschenrechner aufgekommen sind. Auch damals gab es zuerst eine besorgte Abwehrhaltung. Danach fragte man sich, was das neue Werkzeug für den Mathematikunterricht bedeutet. KI komplett vom Unterricht auszusperren, ist wie beim Taschenrechner keine Option.

@@ -1,5 +1,7 @@
 # das-geheimnis-einer-guten-loesung
 
+**Source:** de_news_events/2023/06/das-geheimnis-einer-guten-loesung.html
+
 ## Brücken schlagen für chaotische Strömungen
 
 - Im Falle des 3D-Druckverfahrens für Metalle reduzierte sein Ansatz die Rechenzeit der Simulation von rund vier Stunden auf eine Zehntelsekunde (0,1 s).

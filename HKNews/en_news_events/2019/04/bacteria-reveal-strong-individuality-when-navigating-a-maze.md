@@ -1,5 +1,7 @@
 # bacteria-reveal-strong-individuality-when-navigating-a-maze
 
+**Source:** en_news_events/2019/04/bacteria-reveal-strong-individuality-when-navigating-a-maze.html
+
 ## Microbes in the T-maze
 
 Although they are considered the simplest of all life forms, even microorganisms sense their environment and are able to actively move within it. This allows them to identify both food and harmful substances and to move towards or away from them, guided by the concentration gradient of the substance in their environment. The journey of many microbes can thus be viewed as a sequence of decisions based on chemical gradients.

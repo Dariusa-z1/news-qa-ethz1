@@ -1,5 +1,7 @@
 # junge-forscher-zeigen-unternehmergeist
 
+**Source:** de_news_events/2013/01/junge-forscher-zeigen-unternehmergeist.html
+
 ## Acht Spin-offs aus dem Bereich ICT
 
 Forscherinnen und Forscher wagen immer häufiger den Schritt in die Selbständigkeit. Die Gründung einer eigenen Unternehmung ist für viele junge Talente eine attraktive Alternative zu einer wissenschaftlichen Laufbahn oder einer Karriere als Angestellte in der Privatwirtschaft geworden. Das schlägt sich in konkreten Zahlen nieder. 22 Spin-off-Firmen haben ETH-Angehörige im vergangen Jahr gegründet. Die Zahl der Firmengründungen ist damit in den letzten fünf Jahren auf hohem Niveau konstant geblieben. «Wir können nun die Früchte unserer Aufbauarbeit ernten, die wir in den letzten Jahren geleistet haben», sagt Roland Siegwart, Vizepräsident Forschung und Wirtschaftsbeziehungen. Die Marke «Spin-off der ETH Zürich» sei etabliert — nicht zuletzt dank vielen erfolgreichen Jungfirmen, die in den letzten Jahren aus der Hochschule entstanden sind.
@@ -19,6 +21,4 @@ Doch nicht nur Hightech, sondern auch Cleantech stand bei den jungen Fir-mengrü
 Die ETH-Spin-offs wurde 2012 auch andernorts gewürdigt und mit zahlreichen Förderpreisen ausgezeichnet. Insgesamt erzielten sie Preisgelder von über 900'000 Franken. Der mit knapp 100'000 Franken dotierte ZKB-Pionierpreis ging im letzten Jahr an «Cytosurge». «GetYourGuide» und «U-Blox» heimsten einen Swiss ICT Award ein. Die W.A. De Vigier Stiftung zeichnete «ProteoMedix», «Uepaa» und «Climeworks» mit je einem Förderpreis von 100'000 Franken für innovative Geschäftsideen aus. Sechs ETH-Spin-offs schafften es unter die besten Zehn des Rankings «Top 100 Swiss Start-ups», das vom Institut für Jungun-ternehmen und der Handelszeitung herausgegeben wird. Und auch im freien Markt zeigt sich, dass viele an einen nachhaltigen Erfolg der Jungfirmen glauben. Geldgeber haben im letzten Jahr mehr als zehn Millionen Franken in ETH-Spin-offs investiert.
 
 2010 hat die ETH Zürich das Förderprogramm «Pioneer Fellowships» eingeführt. Dieses vergibt Stipendien an Studierende und Doktorierende, die ihre Forschungsergebnisse in marktreife Produkte umwandeln wollen. Jedes Projekt wird mit maximal 150'000 Franken über einen Zeitraum von 18 Monaten gefördert. Aus diesem Programm sind in der Zwischenzeit vier Spin-offs entstanden, drei davon im letzten Jahr.
-
-ETH Zürich Dr. Silvio Bonaccio Leiter ETH transfer Tel. +41 44 632 77 42 ETH Zürich Medienstelle Tel. +41 44 632 41 41
 

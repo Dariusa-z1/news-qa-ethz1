@@ -1,5 +1,7 @@
 # eine-hymne-an-die-natur
 
+**Source:** de_news_events/2014/04/eine-hymne-an-die-natur.html
+
 ## Reise in den Urwald als Auftakt
 
 Geheimnisvolle Schattengewächse, samtige Farnfächer und zarte Ranken: Mit über hundert Arbeiten ist die 1954 geborene externe Seite Mireille Gros im Bestand der Graphischen Sammlung der ETH vertreten. Die Ausstellung mit dem Namen «ouvrir les archives» präsentiert die in den letzten zwanzig Jahren gesammelten Werke der Künstlerin in einer Übersicht. Darunter finden sich neben graphischen Blättern auch Zeichnungen und Künstlerbücher.

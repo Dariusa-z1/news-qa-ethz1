@@ -1,5 +1,7 @@
 # explora-goes-serie-ab-und-eintauchen-in-5-episoden
 
+**Source:** de_internal/2020/07/explora-goes-serie-ab-und-eintauchen-in-5-episoden.html
+
 ## Main article
 
 Hier haben sich Kunst und Wissenschaft einem gemeinsamen Ziel verschrieben: «Beneath The Sea, a New Form of Reef», so titelt Marie Griesmar ihr ehrgeiziges Unterfangen, das sich der Wiederherstellung bedrohter Korallenriffe widmet. Von submarinen Ökosystemen inspiriert, startete die Künstlerin und Tauchsportlerin ihr Forschungsprojekt mit der Mission, durch Schaffung nachhaltig wirkungsvoller Kunstwerke dem Aussterben von Korallen entgegenzuwirken.

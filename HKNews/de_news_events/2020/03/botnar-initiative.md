@@ -1,5 +1,7 @@
 # botnar-initiative
 
+**Source:** de_news_events/2020/03/botnar-initiative.html
+
 ## Main article
 
 Das Botnar Research Center for Child Health (BRCCH), das 2019 gemeinsam von der ETH Zürich und der Universität Basel gegründet wurde, entwickelt neue pädiatrische Ansätze, um weltweit die Gesundheit von Kindern und Jugendlichen zu fördern. Am Zentrum engagieren sich auch Forschende des Universitätskinderspitals Basel sowie des Schweizerisches Tropen- und Public Health-Instituts.

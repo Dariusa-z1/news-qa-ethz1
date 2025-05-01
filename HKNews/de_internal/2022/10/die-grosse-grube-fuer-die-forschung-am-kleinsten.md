@@ -1,5 +1,7 @@
 # die-grosse-grube-fuer-die-forschung-am-kleinsten
 
+**Source:** de_internal/2022/10/die-grosse-grube-fuer-die-forschung-am-kleinsten.html
+
 ## Lärmkalender auf der Projektwebsite
 
 In wenigen Tagen geht es los: Zwischen den Gebäuden HIL und HIT beginnen die Bagger mit dem Voraushub für eines der aktuell grössten und komplexesten Bauprojekte der ETH Zürich, das neue Physikgebäude mit dem Kürzel HPQ. Darin werden einst hochsensible Physikexperimente stattfinden, die möglichst keinen Umwelteinflüssen ausgesetzt sein dürfen. Die Labore für die empfindlichsten Experimente kommen deshalb sechs Stockwerke tief unter der Erde zu liegen.
@@ -14,17 +16,19 @@ Zu den ersten Arbeiten gehört eine Wand in der Erde, die das Grundwasser von de
 
 ## Massiver Gebäudekern
 
-Die Grösse der Baustelle und die immense Menge an Baumaterial, die verschoben und verbaut wird, steht im Gegensatz zu den Objekten, die künftig in dem Gebäude untersucht, hergestellt und entwickelt werden: Sie reichen von neuen, immer kleineren Computerchips, die dafür sorgen, dass immer kleinere elektronische Geräte gebaut werden können, über neue Materialien mit speziellen Eigenschaften oder Bauteile für künftige Quantencomputer, die mit einzelnen Photonen gesteuert werden.
+Die Abteilung Immobilien informiert auf der Projektwebsite HPQ periodisch über die Bauarbeiten, auch mit zwei Webcams. Ein Lärmkalender weist ab November auf besonders lärmintensive Arbeiten hin. Betroffene der ETH Zürich wenden sich bei Fragen an die Ansprechpartner:innen ihrer Organisation (PDF, 95 KB) .
 
-Solche Experimente erfordern eine höchst kontrollierte Umgebung. Kleinste Erschütterungen, aber auch klimatische Veränderungen oder Magnetfelder verunmöglichen die Arbeit auf solche extrem kleinen Skalen. Bildlich ausgedrückt «blicken» oder «arbeiten» die Forschenden mit grossen Maschinen auf sehr kleine Objekte und jeder noch so kleine Umwelteinfluss «verwackelt» dabei das Bild.
+Die Grösse der Baustelle und die immense Menge an Baumaterial, die verschoben und verbaut wird, steht im Gegensatz zu den Objekten, die künftig in dem Gebäude untersucht, hergestellt und entwickelt werden: Sie reichen von neuen, immer kleineren Computerchips, die dafür sorgen, dass immer kleinere elektronische Geräte gebaut werden können, über neue Materialien mit speziellen Eigenschaften oder Bauteile für künftige Quantencomputer, die mit einzelnen Photonen gesteuert werden.
 
 ## Raum für grösseren Garten
 
+Solche Experimente erfordern eine höchst kontrollierte Umgebung. Kleinste Erschütterungen, aber auch klimatische Veränderungen oder Magnetfelder verunmöglichen die Arbeit auf solche extrem kleinen Skalen. Bildlich ausgedrückt «blicken» oder «arbeiten» die Forschenden mit grossen Maschinen auf sehr kleine Objekte und jeder noch so kleine Umwelteinfluss «verwackelt» dabei das Bild.
+
 Die Temperaturabweichungen dürfen in den hochisolierten Laboren nicht grösser als 0,01 Grad Celsius sein, es muss eine konstante Luftfeuchtigkeit herrschen und Vibrationen dürfen nicht grösser als 0,1 Mikrometer pro Sekunde sein. Zum Vergleich: Ein auf der Wolfgang-Pauli-Strasse vorbeifahrender Bus generiert Vibrationen von 10 bis 25 Mikrometer pro Sekunde.
 
-Für die Konstruktion des Gebäudes heisst das: Die Labore müssen vor Erschütterungen, vor Magnetfeldern und vor Temperaturschwankungen geschützt werden. Im am tiefsten gelegenen Labor-Bau des Gebäudes, dem Center for Low Noise Experiments (CLNE), ruhen die Forschungsanlagen deshalb auf bis zu 120 Tonnen schweren Betonsockeln und sind mechanisch vom Rest des Gebäudes mittels aktiver Luftfedern entkoppelt. Zudem werden die Räume aktiv (mit Gegen-Magnetfeldern) und passiv vor Magnetfeldern abgeschirmt und mit komplexer Gebäudetechnik klimatisch stabil gehalten.
-
 ## Immer aktuell informiert
+
+Für die Konstruktion des Gebäudes heisst das: Die Labore müssen vor Erschütterungen, vor Magnetfeldern und vor Temperaturschwankungen geschützt werden. Im am tiefsten gelegenen Labor-Bau des Gebäudes, dem Center for Low Noise Experiments (CLNE), ruhen die Forschungsanlagen deshalb auf bis zu 120 Tonnen schweren Betonsockeln und sind mechanisch vom Rest des Gebäudes mittels aktiver Luftfedern entkoppelt. Zudem werden die Räume aktiv (mit Gegen-Magnetfeldern) und passiv vor Magnetfeldern abgeschirmt und mit komplexer Gebäudetechnik klimatisch stabil gehalten.
 
 Die Gebäudestruktur wurde nicht nur wie üblich hinsichtlich der Statik, sondern auch der Dynamik optimiert: Ein sehr steifer Gebäudekern mit starken Betondecken leitet alle Kräfte von der obersten Etage direkt in eine massive Bodenplatte in der untersten Etage und weiter in den Felsen. Die Büroflächen sind etwas leichter gebaut, aber immer noch so versteift, dass sie Erschütterungen von vorbeifahrenden Bussen und Lastwagen nicht an den Kern weitergeben.
 

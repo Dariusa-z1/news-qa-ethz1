@@ -1,5 +1,7 @@
 # mit-dem-betonkanu-aufs-wasser
 
+**Source:** de_internal/2015/06/mit-dem-betonkanu-aufs-wasser.html
+
 ## Main article
 
 Alle zwei Jahre findet in Deutschland eine Betonkanu-Regatta statt, an der Studierende aus ganz Europa mit ihren Bootkonstruktionen gegeneinander antreten. Anknüpfend an ihre Erfolge der letzten beiden Ausgaben haben sich zwei Teams des Instituts für Baustoffe am Departement für Bau, Umwelt und Geomatik (D-BAUG) auch in diesem Jahr hohe Ziele gesteckt.

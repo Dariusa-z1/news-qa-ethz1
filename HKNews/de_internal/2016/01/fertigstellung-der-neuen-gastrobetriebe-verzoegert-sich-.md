@@ -1,5 +1,7 @@
 # fertigstellung-der-neuen-gastrobetriebe-verzoegert-sich-
 
+**Source:** de_internal/2016/01/fertigstellung-der-neuen-gastrobetriebe-verzoegert-sich-.html
+
 ## Main article
 
 ETH-Angehörige können sich in diesem Jahr in gleich zwei neuen Gastronomiebetrieben verköstigen: Am 9. Mai 2016 eröffnet der Foodmarket im umgebauten HPR-Gebäude mit drei verschiedenen Theken. Zur Auswahl stehen vegetarische Gerichte, eine Pizza-Pasta-Station und Grill-Gerichte. Catering-Anbieter ist die SV Group.

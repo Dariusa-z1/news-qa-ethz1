@@ -1,5 +1,7 @@
 # leader-with-good-instincts
 
+**Source:** en_news_events/2016/08/leader-with-good-instincts.html
+
 ## A communal responsibility for success
 
 Around 4,000 technical, administrative, research and teaching staff – along with their families and former colleagues – attended this year’s togETHer staff party on Friday 26 August. The motto of this year’s event, held in glorious summer weather at the Hönggerberg campus, was ‘One ETH’. Guests were able to enjoy some culinary treats and live entertainment from different parts of the world.

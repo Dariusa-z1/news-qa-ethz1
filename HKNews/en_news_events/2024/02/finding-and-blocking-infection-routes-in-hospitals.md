@@ -1,5 +1,7 @@
 # finding-and-blocking-infection-routes-in-hospitals
 
+**Source:** en_news_events/2024/02/finding-and-blocking-infection-routes-in-hospitals.html
+
 ## In brief
 
 - In partnership with an ETH-spinoff, researchers develope an ultra-wideband wearable to track proximity contacts in infection networks in hospitals more accurately.
@@ -49,8 +51,4 @@ Regarding the application of this technology, the research team sees scope for t
 This project is part of the overarching research initiative "EPFL COVID-19 Real-Time Epidemiology." This initiative, spearheaded by EPFL, and including ETH Zurich's Department of Computer Science, 3db Access, TU Delft, University College London ( UCL ) and ISI Foundation, aims to deliver a secure, open-source, and privacy-enhancing toolset tailored to epidemiologists and public health practitioners. The project is funded by the Fondation Botnar.
 
 The Department of Computer Science at ETH Zurich has played a pivotal role in the Ultra-wide band technology's architectural development. "Our research into UWB technology has so far mainly focused on its security applications. I am excited to see our results now being also used in the context of epidemic preparedness," says Srdjan Čapkun, Professor of Computer Science at ETH Zurich.
-
-For its part, the ISI Foundation developed the on-board sensor software as well as the data analysis and visualisation pipeline. With partial support by the CRT Foundation, it leveraged its experience in leading the SocioPatterns collaboration, an international effort that over the last 15 years has achieved some of the largest human contact network measurements using attenuation-based proximity sensors and released open datasets that have been used in more than two thousand scientific papers. "We believe that this technology is a promising technical evolution beyond attenuation-based proximity sensors, and it will afford higher-quality measurements of contact patterns in several environment of interest," says Ciro Cattuto, Scientific Director at the ISI Foundation.
-
-In addition to spearheading the multi-institutional consortium, EPFL has shaped the strategic roadmap for the WPP device, marking its influence in both technological and ethical arenas. EPFL has also contributed key insights into human-computer interface evaluation and plans for future integration of the open DP-3T (Decentralised Privacy-Preserving Proximity Tracing) protocol, which was developed during the COVID-19 pandemic to facilitate digital contact tracing of infected individuals. “When during the pandemic we worked on the contact tracing apps, we often had to constrain our designs to the boundaries allowed by Google and Apple. Having an independent platform such as the WPP will allow us to help in pandemics prevention without intervention from technology giants,” says Carmela Troncoso, Professor and Head of the SPRING Lab at EPFL.
 

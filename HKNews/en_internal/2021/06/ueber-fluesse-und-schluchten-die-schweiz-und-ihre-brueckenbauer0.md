@@ -1,5 +1,7 @@
 # ueber-fluesse-und-schluchten-die-schweiz-und-ihre-brueckenbauer0
 
+**Source:** en_internal/2021/06/ueber-fluesse-und-schluchten-die-schweiz-und-ihre-brueckenbauer0.html
+
 ## From a craft to the art of engineering
 
 Modern bridge-building began more than 150 years ago. Since then it has undergone great changes, which continue up to the present day. Engineers from ETH Zurich played an important role in this regard. Not only did they develop technical fundamentals, but they also created true works of art both in Switzerland and abroad. After all, ETH was founded in 1855 expressly with the aim of also training “technicians for roadway, railway, hydraulic and bridge engineering”.
@@ -17,6 +19,8 @@ Bridges were and still are symbols – standing for progress but also for constr
 Read the new story on Explora.
 
 More news in July! The last episode of the miniseries “ Protecting coral reefs ” is online. Marie Griesmar, who initiated the project to save submarine ecosystems using artworks made of clay, gives her conclusions.
+
+And the Explora story “ Georeferencing – Making knowledge a new experience in 3-D ” is now available to stream or download as an audio file.
 
 # KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start.
 

@@ -1,5 +1,7 @@
 # mm-biennale-in-vendig
 
+**Source:** de_news_events/2016/05/mm-biennale-in-vendig.html
+
 ## Architektur für den Menschen
 
 Urbane Regionen sind mit einem rasanten Bevölkerungswachstum, Migrationsströmen sowie klimatischen Veränderungen konfrontiert. Deshalb setzt die ETH Zürich einen Schwerpunkt ihrer Forschung auf die Entwicklung nachhaltiger Städte. Es überrascht daher wenig, dass die ETH Zürich so prominent an der diesjährigen Architekturbiennale von Venedig vertreten ist, die sich damit auseinandersetzt, wie Architektur die Lebenssituation von Menschen verbessern kann.
@@ -55,6 +57,4 @@ Siehe hierzu auch das separate Factsheet .
 Die vom Krieg gebeutelte Stadt Sarajewo ist noch heute geprägt von Zerstörung und politischer Lähmung. Wie kein anderes Gebäude in Sarajewo steht das historische Museum von Bosnien und Herzegowina sinnbildlich für den Widerstand; Einheimische haben damit begonnen, ohne jegliche Mittel aus dem Museum erneut einen Ort der Begegnung zu machen. Angeregt durch diese Kräfte haben die Architekten des Urban Think Tanks und die Baier Bischofberger Architekten eine Reihe von temporären Massnahmen konzipiert, um die Lage zu verbessern, ohne den Charakter des Gebäudes zu verändern.
 
 Siehe externe Seite Projektseite für weitere Informationen (nur in Englisch)
-
-ETH Zürich Vanessa Bleich Medienstelle Telefon: +41 44 632 41 41
 

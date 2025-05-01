@@ -1,5 +1,7 @@
 # interview-mit-lino-guzzella
 
+**Source:** de_news_events/2017/06/interview-mit-lino-guzzella.html
+
 ## Main article
 
 ETH-News: Herr Guzzella, die Digitalisierung ist derzeit in aller Munde. Es gibt viele Medienbeiträge zu diesem Thema, Anlässe, Initiativen. Stehen wir tatsächlich vor einem Umbruch – oder ist dies einfach ein modischer Trend? Lino Guzzella: In der Tat befassen sich derzeit viele Menschen mit dieser Thematik. Das ist auch gerechtfertigt, denn wir erleben eine Entwicklung, die unser Leben stark verändern wird.

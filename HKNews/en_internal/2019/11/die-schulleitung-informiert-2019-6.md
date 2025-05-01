@@ -1,5 +1,7 @@
 # die-schulleitung-informiert-2019-6
 
+**Source:** en_internal/2019/11/die-schulleitung-informiert-2019-6.html
+
 ## Old Master’s programmes with a fresh face
 
 - if we provide excellent infrastructure for work, we will attract highly qualified employees and talented students.

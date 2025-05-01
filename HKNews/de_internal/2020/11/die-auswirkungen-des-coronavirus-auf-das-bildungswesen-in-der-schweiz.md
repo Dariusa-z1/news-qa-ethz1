@@ -1,5 +1,7 @@
 # die-auswirkungen-des-coronavirus-auf-das-bildungswesen-in-der-schweiz
 
+**Source:** de_internal/2020/11/die-auswirkungen-des-coronavirus-auf-das-bildungswesen-in-der-schweiz.html
+
 ## Neue Studien liefern wertvolle Erkenntnisse
 
 Das Coronavirus und die eingeleiteten Massnahmen, um dessen Verbreitung zu verlangsamen, hatten grosse Auswirkungen auf das Bildungswesen in der Schweiz und der ganzen Welt. Die Auswirkungen rühren nicht nur von den verfügten Schulschliessungen während des Lockdowns zu Beginn der Pandemie – auch nachdem die Schulen wieder öffneten, mussten die Pädagogen aufgrund strikter Hygiene- und Verhaltensregeln die Führung ihrer Institution und das Abhalten von Lektionen völlig neu organisieren. Es sind neue Methoden entstanden, welche laufend weiterentwickelt und an die sich ständig ändernde Situation angepasst werden.
@@ -18,9 +20,11 @@ On Tuesday, 1 December 2020, from 1.00 p.m. to 5.00 p.m., an online event is bei
 
 ## Staffnet
 
-Forschungsergebnisse dauerhaft speichern und veröffentlichen: Die ETH-Bibliothek hilft bei Fragen zu Open Access und bietet Unterstützung bei der Publikation für Forschende an der ETH Zürich. Sie verwaltet zudem die Research Collection , verhandelt mit Verlagen und erfasst Daten zur Umsetzung des Open Access an der ETH Zürich .
+Lesen Sie mehr in der offiziellen Pressemitteilung (PDF, 120 KB)
 
 ## Newsletter abonnieren
+
+Forschungsergebnisse dauerhaft speichern und veröffentlichen: Die ETH-Bibliothek hilft bei Fragen zu Open Access und bietet Unterstützung bei der Publikation für Forschende an der ETH Zürich. Sie verwaltet zudem die Research Collection , verhandelt mit Verlagen und erfasst Daten zur Umsetzung des Open Access an der ETH Zürich .
 
 Gut zu wissen: Die ETH-Bibliothek fördert Publikationen mit Bezug zur COVID-19-Pandemie. Weitere Informationen #GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel.
 

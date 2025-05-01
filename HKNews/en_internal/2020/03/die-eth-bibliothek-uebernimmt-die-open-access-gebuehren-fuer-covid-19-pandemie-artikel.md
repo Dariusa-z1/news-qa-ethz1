@@ -1,5 +1,7 @@
 # die-eth-bibliothek-uebernimmt-die-open-access-gebuehren-fuer-covid-19-pandemie-artikel
 
+**Source:** en_internal/2020/03/die-eth-bibliothek-uebernimmt-die-open-access-gebuehren-fuer-covid-19-pandemie-artikel.html
+
 ## Main article
 
 The funding covers open access fees for articles in Gold open access journals and in Hybrid journals. The research depicted in funded articles has to be related to the current crises. This includes all aspects related to the COVID-19 pandemics such as medical, economic, policy and social studies.

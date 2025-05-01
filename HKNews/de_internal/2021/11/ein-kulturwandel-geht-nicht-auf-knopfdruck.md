@@ -1,5 +1,7 @@
 # ein-kulturwandel-geht-nicht-auf-knopfdruck
 
+**Source:** de_internal/2021/11/ein-kulturwandel-geht-nicht-auf-knopfdruck.html
+
 ## Engage D-ARCH
 
 - Curriculum
@@ -58,8 +60,6 @@ Was sind nun die nächsten Schritte?
 
 ## Staffnet
 
-Als erstes teilen und diskutieren wir den Bericht im ganzen Departement. Dazu waren alle Angehörigen des D-ARCH zu einer Informationsveranstaltung eingeladen. In den nächsten Monaten werden die Erkenntnisse in all unsere Gremien wie der «Curriculum-Gruppe», der PDK, dem Mittelbau und dem Fachverein fliessen, damit diese dann konkrete Massnahmen vorschlagen können. Zudem wird im März ein nächster Parity Talk stattfinden. Wir sind auch in engem Kontakt mit dem Bereich VPPL von Julia Dannath, um spezifisch auf das D-ARCH ausgerichtete Angebote zu entwickeln.
-
 Wann werden die Studierenden etwas von den Massnahmen spüren?
 
 Ein Kulturwandel geht nicht auf Knopfdruck und lässt sich auch nicht befehlen. Wir können aber das Wissen und die Sensibilität für die angesprochenen Themen erhöhen. Ich bin überzeugt, dass wir den Kulturwandel nur schaffen, wenn wir transparent und offen über jene Dinge sprechen, die weniger gut laufen. Diese Transparenz und Offenheit sollen die Studierenden und alle Angehörigen des D-ARCH schon heute spüren.
@@ -68,9 +68,9 @@ Im Auftrag der Departementsleitung führte Engagement Arts (EA) Anfang 2021 wäh
 
 Im Fokus standen folgende Themenbereiche:
 
-## Newsletter abonnieren
-
 Alle Angehörigen des D-ARCH waren eingeladen, sich an der externen Analyse zu beteiligen. Neben einer qualitativen Umfrage, an der sich 59 Personen und Gruppierungen mit umfangreichen Beiträgen beteiligten, wurden zahlreiche Interviews in kleinen Gruppen geführt. Zusätzlich fanden Gespräche mit den unterschiedlichen Interessenvertretern statt.
+
+## Newsletter abonnieren
 
 Seit 2016 finden am Departement Architektur die sogenannten Parity Talks statt. Die ersten drei Ausgaben der Parity Talks wurden von Mitgliedern der Parity Group, einer Bottom-Up Initiative von Assistierenden und Studierenden, organisiert.
 

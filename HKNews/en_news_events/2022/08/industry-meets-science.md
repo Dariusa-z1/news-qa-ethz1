@@ -1,5 +1,7 @@
 # industry-meets-science
 
+**Source:** en_news_events/2022/08/industry-meets-science.html
+
 ## Robotics and machine learning
 
 - Professor Fisher Yu: Visual learning systems and movement analysis

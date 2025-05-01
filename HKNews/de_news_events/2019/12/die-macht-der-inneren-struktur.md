@@ -1,5 +1,7 @@
 # die-macht-der-inneren-struktur
 
+**Source:** de_news_events/2019/12/die-macht-der-inneren-struktur.html
+
 ## Weich und leitfähig
 
 In dem Keramikwürfel unter dem Mikroskop stecken Superkräfte: Eine Presse quetscht ihn von oben um fast ein Drittel seiner Höhe zusammen. Aber nichts bröselt, bricht oder reisst. Dann lässt sie nach, und der Würfel nimmt seine Ausgangsform wieder an, fast wie ein Schwamm. Die Presse wiederholt das Spiel, der Würfel bleibt intakt. Derart elastisch ist der 0,1 Millimeter kleine Keramikwürfel dank seiner inneren Struktur: Er ist durchzogen von geschwungenen Furchen und Höhlen. Diese sind so angelegt, dass sich die Zugkräfte in keinem Bereich des Würfels konzentrieren können, wenn er gequetscht wird. Denn solche Konzentrationen der Zugkräfte an defekten Stellen, Dellen oder scharfen Ecken der Struktur machen das Material brüchig. Durch die spezielle Höhlenstruktur wird das verhindert, die Keramik wird plötzlich elastisch.

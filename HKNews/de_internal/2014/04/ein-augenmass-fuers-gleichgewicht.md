@@ -1,5 +1,7 @@
 # ein-augenmass-fuers-gleichgewicht
 
+**Source:** de_internal/2014/04/ein-augenmass-fuers-gleichgewicht.html
+
 ## Soviel Freiheit wie möglich
 
 Als Peter Frischknecht vor 25 Jahren als Koordinator des Studiengangs Umweltnaturwissenschaften an die ETH kam, herrschte Aufbruchsstimmung: Geprägt von den Umweltkatastrophen in den 80er-Jahren (Stichworte Tschernobyl und Schweizerhalle, vgl. ETH Life Print , April 2013) wollte die ETH durch den noch jungen Studiengang Experten für die neue gesellschaftliche Herausforderung ausbilden. «Die Pioniere des Studiengangs waren von einem ‹Spirit› beseelt – von einem Geist, etwas für die Umwelt zu tun», erinnert sich der Departements- und Studienkoordinator an die damalige Atmosphäre. Zu diesen Pionieren gehörte auch Frischknecht.

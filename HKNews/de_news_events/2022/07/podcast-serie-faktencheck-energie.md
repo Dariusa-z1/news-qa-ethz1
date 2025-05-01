@@ -1,5 +1,7 @@
 # podcast-serie-faktencheck-energie
 
+**Source:** de_news_events/2022/07/podcast-serie-faktencheck-energie.html
+
 ## Main article
 
 Elektrofahrzeuge sind nicht umweltfreundlicher als andere Autos, die Energiewende ist zu teuer und die Rückkehr zur Atomkraft unabdingbar, wenn es Blackouts zu verhindern gilt. Und die Schweiz ist ohnehin zu klein, um etwas gegen den Klimawandel zu tun. Diese Aussagen tauchen im Schweizer Diskurs zu Energie und Klima immer wieder auf.

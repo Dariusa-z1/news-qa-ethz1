@@ -1,5 +1,7 @@
 # neustart-fuer-den-hochschulraum-schweiz-
 
+**Source:** de_news_events/2015/01/neustart-fuer-den-hochschulraum-schweiz-.html
+
 ## Lino Guzzella: «Plattform für den Dialog»
 
 - Franco Gervasoni, Direktor der Fachhochschule der Italienischen Schweiz SUPSI, für die Kammer der Fachhochschulen;

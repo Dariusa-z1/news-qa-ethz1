@@ -1,5 +1,7 @@
 # genaue-schnelltests-aus-smartem-graphen-papier
 
+**Source:** de_news_events/2023/03/genaue-schnelltests-aus-smartem-graphen-papier.html
+
 ## Das Wichtigste in Kürze
 
 - ​Schnelltests haben gegenüber anderen medizinischen Analysen einen grossen Vorteil. Sie sind so einfach, dass sie jede:r fast überall selbst durchführen kann.

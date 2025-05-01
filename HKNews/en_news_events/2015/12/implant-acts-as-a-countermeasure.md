@@ -1,5 +1,7 @@
 # implant-acts-as-a-countermeasure
 
+**Source:** en_news_events/2015/12/implant-acts-as-a-countermeasure.html
+
 ## Prosthesis supports the immune system
 
 ETH Professor Martin Fussenegger calls them molecular prosthetics: cells with specially developed gene circuits that can be implanted into an organism, where they take over metabolic functions that the organism cannot perform itself. Fussenegger and his team at ETH Zurich’s Department of Biosystems Science and Engineering in Basel have now succeeded in developing a molecular prosthesis of this kind where the functions are far more complex than before. The prosthesis is tailored to the treatment of psoriasis, a complex and chronic inflammatory disease of the skin.
@@ -35,8 +37,4 @@ The successful experiments in mice were a feasibility study, says Fussenegger. W
 Biological circuits of this kind with AND gates may also be suitable for other diseases. Fussenegger says: “Chronic inflammatory diseases are a good example of the type of disease that cannot be diagnosed by measuring a single molecule.” However, generally such diseases could be diagnosed using a designer cell that measures the profile of several messengers in the bloodstream. And if this designer cell were also to produce therapeutic molecules, it would open up promising treatment options for a wide range of diseases in the future.
 
 Schukur L, Geering B, Charpin-El Hamri G, Fussenegger M: Implantable synthetic cytokine converter cells with AND-gate logic treat experimental psoriasis. Science Translational Medicine 2015, 7: 318ra201, doi: 10.1126/scitranslmed.aac4964
-
-ETH Zurich Medienstelle Phone: +41 44 632 41 41
-
-ETH Zurich Prof. Martin Fussenegger Phone: +41 61 387 31 60
 

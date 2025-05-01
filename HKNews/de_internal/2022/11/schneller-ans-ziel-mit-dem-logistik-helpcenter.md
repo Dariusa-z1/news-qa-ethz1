@@ -1,5 +1,7 @@
 # schneller-ans-ziel-mit-dem-logistik-helpcenter
 
+**Source:** de_internal/2022/11/schneller-ans-ziel-mit-dem-logistik-helpcenter.html
+
 ## Interaktive Suchfunktion
 
 - alle für Sie relevanten Informationen auf einen Blick

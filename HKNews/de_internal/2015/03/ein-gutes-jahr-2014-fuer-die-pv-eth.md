@@ -1,5 +1,7 @@
 # ein-gutes-jahr-2014-fuer-die-pv-eth
 
+**Source:** de_internal/2015/03/ein-gutes-jahr-2014-fuer-die-pv-eth.html
+
 ## Pensionierten-Vereinigung PV ETH
 
 Mit ihrem Jahresprogramm sorgt die Vereinigung der Pensionierten der ETH Zürich (PV ETH) dafür, dass ehemalige Angestellte der ETH Zürich über die Pensionierung hinaus untereinander und mit der Hochschule verbunden bleiben. Das Jahresprogramm umfasst in der Regel zirka vier Diavorträge, 13 Wanderungen und Besichtigungen, eine bis zwei Carfahrten, die Chlausfeier und die Generalversammlung.

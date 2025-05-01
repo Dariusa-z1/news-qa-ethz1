@@ -1,5 +1,7 @@
 # urbane-verkehrskapazitaet
 
+**Source:** de_news_events/2019/11/urbane-verkehrskapazitaet.html
+
 ## Verkehrsdaten aus 41 Städten analysiert
 
 Autopendler haben erfahrungsbedingt eine Vorstellung davon, was der Begriff Verkehrskapazität bedeutet: Wenn frühmorgens Auto um Auto in eine Stadt hineinfährt, nimmt der Verkehrsfluss zunächst zu. Solange, bis sich eine kritische Anzahl von Fahrzeugen im Strassennetz befindet. Ab diesem kritischen Punkt verringert jedes zusätzliche Auto den Verkehrsfluss – der Verkehr beginnt zu stocken oder zu stauen. Dieser kritische Punkt entspricht der Verkehrskapazität oder maximalen Verkehrsleistung einer Stadt.

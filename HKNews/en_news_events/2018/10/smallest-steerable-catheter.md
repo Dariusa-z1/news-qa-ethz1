@@ -1,5 +1,7 @@
 # smallest-steerable-catheter
 
+**Source:** en_news_events/2018/10/smallest-steerable-catheter.html
+
 ## Variable stiffness
 
 For patients with cardiac arrhythmia, surgeons routinely perform a minimally invasive procedure to ablate the sections of the heart that cause unwanted electrical impulses. The physician inserts a catheter through a vein into the heart that locally generates heat to ablate the relevant sections. To navigate the catheter tip through the blood vessels with a high level of precision, the surgeon can bend the tip manually using a pull wire inside the catheter. However, the catheter can be moved in only two directions: to the left and to the right.

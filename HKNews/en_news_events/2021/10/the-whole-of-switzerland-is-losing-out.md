@@ -1,5 +1,7 @@
 # the-whole-of-switzerland-is-losing-out
 
+**Source:** en_news_events/2021/10/the-whole-of-switzerland-is-losing-out.html
+
 ## No longer competing with the best
 
 When the Swiss Federal Council announced to the media on 26 May that it was pulling out of negotiations on a framework agreement with the European Union, Sofia Karakostas and Agatha Keller knew that the coming months would be very challenging indeed. The two women run EU GrantsAccess, a joint operation between ETH Zurich and the University of Zurich that provides advice on international funding issues. Karakostas and Keller help researchers obtain third-party funding from international sources. But in the wake of the Federal Council’s decision, Switzerland now risks being excluded from the world’s largest and most important funding scheme: the European Union’s Horizon Europe programme. Besides missing out on EU subsidies worth tens of millions, Switzerland will be losing its ability to have a say in what European research should be focusing on, thereby reducing the appeal of collaboration with Swiss universities.

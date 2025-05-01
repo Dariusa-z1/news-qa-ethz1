@@ -1,5 +1,7 @@
 # publikationen-transparent-und-global-read-and-publish-vereinbarung-mit-wiley
 
+**Source:** en_internal/2021/04/publikationen-transparent-und-global-read-and-publish-vereinbarung-mit-wiley.html
+
 ## Publish research results free of charge
 
 As a scientist at ETH Zurich, you can publish open-access articles in Wiley journals without incurring any costs starting on 1 May 2021. The associated costs are covered by the new Read and Publish agreement. The agreement requires that you as the corresponding author of the submitted article are employed at ETH Zurich, and that the article was accepted for publication by the publisher after 30 April 2021. On submitting your article select affiliation with ETH Zurich. You can find detailed information on the workflow on our APC funding website .

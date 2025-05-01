@@ -1,5 +1,7 @@
 # eth-board-data-sciences-initiative-launched
 
+**Source:** en_internal/2015/05/eth-board-data-sciences-initiative-launched.html
+
 ## Main article
 
 At its meeting the ETH Board of 20/21 March 2015 also discussed research infrastructure projects of national significance and further refined its succession planning for the EPFL presidency. The position will be advertised publicly in early June. The intention is to appoint a successor with effect from 1 January 2017. Christian Zurbrügg was appointed as a new member of the Eawag Directorate.

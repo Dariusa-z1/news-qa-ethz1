@@ -1,5 +1,7 @@
 # staedte-als-rohstoffminen-der-zukunft
 
+**Source:** de_news_events/2014/05/staedte-als-rohstoffminen-der-zukunft.html
+
 ## Städte liefern wertvolle Rohstoffe
 
 Müll ist in unserer Gesellschaft seit Jahrhunderten ein Material, das weder als Rohstoff noch als Produkt gesehen wird, sondern als etwas, das wir schnellst möglich verbrennen oder vergraben möchten. Müll ist sozusagen ein Nebenprodukt, das wir nicht kategorisieren können in unser dialektisches Verständnis von «roh» oder «verarbeitet». Aber ich glaube, es ist Zeit, Müll als immens wertvolle und absolut notwendige Ressourcen zu begreifen: als Ausgangspunkt neuer Produkte und Artefakte. Dieses metabolische oder kreisförmige Denken ist an und für sich nicht neu, aber es beginnt gerade erst, sich im Bausektor im grossen Massstab durchzusetzen. So berichtete die Internetplattform «nachhaltigleben.ch» erst kürzlich, dass in der Schweiz bereits heute schon 10 Prozent der natürlichen Zuschläge in Betonmischungen durch rezyklierten Bauschutt ersetzt werden, Tendenz stark steigend [1].

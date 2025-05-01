@@ -1,5 +1,7 @@
 # blog-grote-arbeit-von-zuhause
 
+**Source:** de_news_events/2020/03/blog-grote-arbeit-von-zuhause.html
+
 ## Den bestmöglichen Kompromiss finden
 
 Die Arbeit von zu Hause aus ist seit langem ein Wunsch vieler, aber keine weit verbreitete Praxis in Unternehmen. In unserer Umfrage im Jahr 2016 antwortete mehr als die Hälfte der 1200 teilnehmenden Schweizer Unternehmen, dass sie ihren Mitarbeitenden keine Möglichkeit zur Arbeit von zuhause bieten .1 Mit COVID-19 sehen wir uns mit neuen Extremen konfrontiert: Einige von uns müssen jetzt immer von zu Hause aus arbeiten, während für andere mehr denn je die Arbeit vor Ort erforderlich ist. Und vergessen wir nicht die Menschen, die gar keine Arbeit mehr haben.
@@ -22,21 +24,19 @@ Das zweite grosse Thema betrifft die Zusammenarbeit zwischen Menschen, die räum
 
 ## Referenzen
 
-Glücklicherweise können viele von uns, die jetzt aus der Ferne mit ihren Kollegen und Kolleginnen arbeiten müssen, auf lange persönliche Beziehungen aufbauen, aber es wird trotzdem eine Herausforderung sein, neue Arbeitspraktiken zu etablieren. Die COVID-19-Pandemie zwingt uns, zu lernen, wie wir mit anderen in Kontakt bleiben und vielleicht sogar neue Beziehungen aufbauen – immer mit einem Abstand von mindestens zwei Metern.
+Technologie kann in der Zusammenarbeit helfen, aber wir müssen auch ein gutes Gespür dafür haben, wie man sie einsetzt: Kurze sachliche Informationen und Absprachen funktionieren gut über E-Mail, Slack und ähnliches. Alle Kommunikationsmittel, die auch Bilder übertragen, wie Skype, Zoom oder Whatsapp schaffen persönliche Nähe, die aber vielleicht nicht immer und von allen erwünscht ist – ich gebe zu bedenken, dass die meisten keine Arbeitskleidung mehr tragen und in einem improvisierten Büro sitzen.
 
 ## Ihre Erfahrung ist gefragt
 
-Technologie kann in der Zusammenarbeit helfen, aber wir müssen auch ein gutes Gespür dafür haben, wie man sie einsetzt: Kurze sachliche Informationen und Absprachen funktionieren gut über E-Mail, Slack und ähnliches. Alle Kommunikationsmittel, die auch Bilder übertragen, wie Skype, Zoom oder Whatsapp schaffen persönliche Nähe, die aber vielleicht nicht immer und von allen erwünscht ist – ich gebe zu bedenken, dass die meisten keine Arbeitskleidung mehr tragen und in einem improvisierten Büro sitzen.
+Um komplexe und persönliche Dinge zu besprechen, bleibt das Telefon oft immer noch das beste Mittel. Zudem werden Regeln, wie wir mit der potenziellen dauernden Erreichbarkeit umgehen, im Homeoffice noch wichtiger. Bei Teilzeitarbeitenden zum Beispiel müssen die vereinbarten arbeitsfreien Tage selbstverständlich weiterhin gelten.
 
 ## Zur Autorin
 
-Um komplexe und persönliche Dinge zu besprechen, bleibt das Telefon oft immer noch das beste Mittel. Zudem werden Regeln, wie wir mit der potenziellen dauernden Erreichbarkeit umgehen, im Homeoffice noch wichtiger. Bei Teilzeitarbeitenden zum Beispiel müssen die vereinbarten arbeitsfreien Tage selbstverständlich weiterhin gelten.
-
-Wenn wir uns gar nicht mehr auf natürliche Weise sehen, müssen wir Kontakte viel bewusster planen. Dies ist auch eine sehr wichtige Führungsaufgabe: Wie bleibe ich mit meinem Team, mit meinen Mitarbeitenden in Verbindung? Gerade die Krise verleitet manchen dazu, nur noch in operativen Kategorien zu denken. Die Gefahr ist, die ich schon 1985 bei der Befragung von Mitarbeitenden einer Versicherungsgesellschaft in den USA, die ein erstes Experiment mit Telearbeit gestartet hatte, feststellte: Aus den Augen aus dem Sinn. 3
-
-Reguläre Teamsitzungen und Gespräche mit Mitarbeitenden sollten wie gewohnt, einfach über andere Medien stattfinden. Selbst gemeinsame Kaffeepausen und Mittagessen sind als virtuelle Treffen möglich – um die Überlastung des Internets zu vermeiden, sicher nicht täglich, aber vielleicht doch einmal in der Woche. Schliesslich können informelle Nachfragen zwischendurch das kurze tägliche Gespräch in der Bürotür ersetzen. Den Kontakt in arbeitsbezogenen oder persönlich schwierigen Momenten zu suchen ist nun wichtiger denn je.
-
 Derzeit sind viele von uns gezwungen, in ihrer eigenen kleinen Welt zu bleiben. Wir müssen diese kleinen Welten unter sehr schwierigen Umständen neu ordnen, mit kleinen Kindern, die Aufmerksamkeit verlangen, mit Sorgen um die Gesundheit von Familie, Freunden und Kollegen. Gleichzeitig müssen wir mehr denn je mit der grösseren Welt verbunden bleiben, die auf unsere Solidarität angewiesen ist, um denen zu helfen, die Hilfe am meisten brauchen, medizinisch, aber auch sozial und wirtschaftlich.
+
+1 Bericht zur Untersuchung zu flexiblen Arbeitsformen (PDF, 1.1 MB) und Digitalisierung in der Schweiz
+
+2 Broschüre zu Home Office (PDF, 2.6 MB) ; Unterschung zu flexiblem Arbeiten bei Microsoft Schweiz
 
 3 Siehe auch externe Seite Chancen und Gefahren der Telearbeit in einem SRF Beitrag von 1986.
 

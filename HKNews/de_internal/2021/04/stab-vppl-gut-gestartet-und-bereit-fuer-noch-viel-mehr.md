@@ -1,5 +1,7 @@
 # stab-vppl-gut-gestartet-und-bereit-fuer-noch-viel-mehr
 
+**Source:** de_internal/2021/04/stab-vppl-gut-gestartet-und-bereit-fuer-noch-viel-mehr.html
+
 ## Die Aufgaben des Stabs
 
 - Konzipieren, Vorbereiten und Durchführen von Workshops, z.B. dem VPPL-internen Strategie-Meeting zu den Fokusthemen des Schulleitungsbereichs.
@@ -47,4 +49,6 @@ Vieles dreht sich bei Faculty Services darum, wie Professorinnen und Professoren
 Bleibt noch die Frage nach den Zielen, die sich der Stab VPPL gesetzt hat. Im grossen Kontext lautet eines davon: Die Exzellenz, die die ETH in Forschung, Lehre und den zentralen Organen aufweist, durch Exzellenz im Personal-​Management, in der Personalentwicklung und im Bereich Leadership sowie durch kompetente Beratungs-​ und Anlaufstellen rund um die Themen Chancengleichheit, Konfliktmanagement und Respekt zu begleiten.
 
 Oder – in den Worten von Stabsleiter Maximilian Buyken: «Ganz generell möchten wir der ETH ermöglichen, das, was sie tut, weiterhin sehr gut zu machen. Und ihr zudem helfen, sich auf Dinge vorzubereiten, auf die man sich eigentlich nicht vorbereiten kann.» Was er damit genau meint? «Corona ist ein gutes Beispiel: Damit hat so niemand gerechnet, niemand war richtig vorbereitet. Gerade in solchen Fällen werden Themen wie Eigenverantwortung, Führung und Kultur besonders wichtig. Dies sind Leitplanken, an denen wir uns alle orientieren, wenn es in einem konkreten Fall noch keine Regeln, Vereinbarungen oder Erkenntnisse gibt, die klären, was wie zu tun ist. Hier einen Beitrag zu einer entsprechenden Kultur und damit zur Zukunftsfähigkeit der ETH zu leisten, ist unsere grosse Vision.»
+
+Organigramm VPPL zum (PDF, 111 KB)
 

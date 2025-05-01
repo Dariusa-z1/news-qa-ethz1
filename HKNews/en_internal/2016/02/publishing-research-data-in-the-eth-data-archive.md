@@ -1,5 +1,7 @@
 # publishing-research-data-in-the-eth-data-archive
 
+**Source:** en_internal/2016/02/publishing-research-data-in-the-eth-data-archive.html
+
 ## Main article
 
 Are you looking to publish selected research data and render it citable with a DOI (Digital Object Identifier)?

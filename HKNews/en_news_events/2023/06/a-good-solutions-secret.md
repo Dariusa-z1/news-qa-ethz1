@@ -1,5 +1,7 @@
 # a-good-solutions-secret
 
+**Source:** en_news_events/2023/06/a-good-solutions-secret.html
+
 ## Building bridges for chaotic fluid flows
 
 - In the case of the 3D printing process for metals, his approach reduced the computational time of the simulation from around four hours to one tenth of a second (0.1 s).

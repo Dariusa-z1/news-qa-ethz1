@@ -1,5 +1,7 @@
 # press-release-financial-uncertainty-threatens-eth-zurichs-top-position
 
+**Source:** en_news_events/2024/04/press-release-financial-uncertainty-threatens-eth-zurichs-top-position.html
+
 ## Free reserves exhausted by the end of 2025
 
 - Restricting student numbers, for example, by imposing a limit on student places

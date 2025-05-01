@@ -1,5 +1,7 @@
 # spitzen-treffpunkt
 
+**Source:** de_news_events/2014/10/spitzen-treffpunkt.html
+
 ## Bahn frei für die Leistung von Studierenden
 
 In internationalen Rankings belegt die ETH Zürich regelmässig Topplätze. Spitzenleistungen zu erbringen, ist denn auch eines der erklärten Ziele der Hochschule. Doch was ist eine Spitzenleistung überhaupt und wie entsteht sie? Sind es Einzelne oder Teams, die Herausragendes vollbringen? Geht es letztlich um Durchhaltevermögen und den richtigen Umgang mit Niederlagen? Diesen und ähnlichen Fragen möchte Inge Keller-Hoehl, die neue Leiterin des Treffpunkts, mit dem Herbstprogramm auf den Grund gehen: «An der ETH ist der Wille zur Spitzenleistung ein omnipräsentes Thema. Da aussergewöhnliche Leistungen auch die Öffentlichkeit faszinieren, lag es auf der Hand, einen Treffpunkt darüber zu veranstalten.»

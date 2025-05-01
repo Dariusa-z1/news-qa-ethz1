@@ -1,5 +1,7 @@
 # verdrehter-pollenschlauch-macht-unfruchtbar
 
+**Source:** de_news_events/2024/04/verdrehter-pollenschlauch-macht-unfruchtbar.html
+
 ## In Kürze
 
 - Polyploide Pflanzen mit mehrfachen Chromosomensätzen sind salztolerant oder dürreresistent und erzielen oft höhere Erträge.

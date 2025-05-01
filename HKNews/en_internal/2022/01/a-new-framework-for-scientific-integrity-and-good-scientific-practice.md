@@ -1,5 +1,7 @@
 # a-new-framework-for-scientific-integrity-and-good-scientific-practice
 
+**Source:** en_internal/2022/01/a-new-framework-for-scientific-integrity-and-good-scientific-practice.html
+
 ## Clear expectations, light-touch regulation
 
 Scientific integrity and good scientific practice denote an exemplary attitude and behaviour that guides the daily work of researchers and scholars, affecting also the way they interact with one another. This is essential because the scientific community, along with business and society, requires confidence that scientific results have been produced in an honest, transparent, traceable and reproducible way.

@@ -1,5 +1,7 @@
 # duerren-vermindern-zunehmend-die-land-co2-aufnahme-in-den-tropen
 
+**Source:** de_news_events/2023/05/duerren-vermindern-zunehmend-die-land-co2-aufnahme-in-den-tropen.html
+
 ## Das Wichtigste in Kürze
 
 - Dürreperioden und schwankende Wasserverfügbarkeit beeinflussten den Kohlenstoffkreislauf in den Tropen während der letzten 60 Jahre immer stärker.

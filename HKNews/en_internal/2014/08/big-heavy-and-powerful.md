@@ -1,5 +1,7 @@
 # big-heavy-and-powerful
 
+**Source:** en_internal/2014/08/big-heavy-and-powerful.html
+
 ## High demands made of the staff
 
 When you walk into the HIF building on the Hönggerberg, you’re entering a world of superlatives. The whole area, measuring 4,000 square metres, is covered in either structural components or the machinery for testing them. This is Thomas Jaggi’s working world. The former road-building and civil engineering foreman has been working at the Institute of Structural Engineering for seven years. He, along with a mechanic and several technicians and engineers, is there to support the students and doctoral students at the Institute with their experiments.

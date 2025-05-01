@@ -1,5 +1,7 @@
 # ruzicka-prize
 
+**Source:** en_news_events/2017/11/ruzicka-prize.html
+
 ## Generation of electricity from heat
 
 Recognizing their pioneering results, ETH Zurich awards the Ruzicka Prize to two scientists of the Department of Chemistry and Applied Biosciences (D-CHAB): Maria Ibáñez, postdoc in the group of ETH professor Maksym Kovalenko, receives the prize for the improved synthesis of materials that can generate electricity from waste heat. Chih-Jen Shih, a professor at the Institute for Chemical and Bioengineering, receives the prize for the development of LEDs with an unachieved color spectrum for the next generation of displays. Both researchers receive a prize money of 5000 Swiss francs and the Ruzicka medal.

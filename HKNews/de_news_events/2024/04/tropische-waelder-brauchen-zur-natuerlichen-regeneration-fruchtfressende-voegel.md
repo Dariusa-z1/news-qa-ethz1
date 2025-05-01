@@ -1,5 +1,7 @@
 # tropische-waelder-brauchen-zur-natuerlichen-regeneration-fruchtfressende-voegel
 
+**Source:** de_news_events/2024/04/tropische-waelder-brauchen-zur-natuerlichen-regeneration-fruchtfressende-voegel.html
+
 ## Das Kohlenstoffpotenzial von Vogelsamen
 
 Eine neue Studie des Crowther Lab der ETH Zürich zeigt, dass es ein entscheidendes Hindernis für die natürliche Regeneration von Tropenwäldern gibt: Die Modelle, die mit Beobachtungsdaten aus der Mata Atlântica, dem atlantischen Regenwald Brasiliens, erstellt wurden, zeigen, dass bei der Regeneration von Tropenwäldern bis zu 38 Prozent mehr Kohlenstoff gespeichert werden könnte, wenn sich wilde Vögel frei zwischen den Waldgebieten bewegen könnten.

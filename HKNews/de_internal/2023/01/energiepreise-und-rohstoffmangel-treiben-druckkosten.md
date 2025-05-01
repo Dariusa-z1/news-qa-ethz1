@@ -1,5 +1,7 @@
 # energiepreise-und-rohstoffmangel-treiben-druckkosten
 
+**Source:** de_internal/2023/01/energiepreise-und-rohstoffmangel-treiben-druckkosten.html
+
 ## Tiefpreisniveau nicht weiter haltbar
 
 - Bis zu 70% höhere Kosten für Papier, Folien und Verpackungsmaterial

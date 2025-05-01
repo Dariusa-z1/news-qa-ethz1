@@ -1,5 +1,7 @@
 # mit-pupillenfeedback-angst-und-stress-reduzieren1
 
+**Source:** de_news_events/2023/10/mit-pupillenfeedback-angst-und-stress-reduzieren1.html
+
 ## In Kürze
 
 - Forschende der ETH Zürich zeigen, dass sich die Erregungszentren im Hirnstamm beeinflussen lassen, wenn wir Feedback zur Pupillengrösse erhalten.

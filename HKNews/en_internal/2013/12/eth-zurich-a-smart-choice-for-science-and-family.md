@@ -1,5 +1,7 @@
 # eth-zurich-a-smart-choice-for-science-and-family
 
+**Source:** en_internal/2013/12/eth-zurich-a-smart-choice-for-science-and-family.html
+
 ## Main article
 
 To maintain its position as a leading research and academic institution, ETH Zurich endeavours to attract the most highly qualified scientists. In recent years, recruitement has expanded to include international candidates. In fact, the number of non-Swiss professors has significantly increased over the last decade. Today, 34.7% of the ETH Zurich faculty are from abroad.

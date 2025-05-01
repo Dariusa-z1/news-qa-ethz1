@@ -1,5 +1,7 @@
 # now-showing-at-eth-the-climate-summit-in-paris
 
+**Source:** en_internal/2015/12/now-showing-at-eth-the-climate-summit-in-paris.html
+
 ## Main article
 
 The 2015 United Nations Climate Change Conference COP 21 has been taking place in Paris since 30 November, and runs until 11 December. Representatives from the governments and civil society of nearly 200 countries are debating how the founding efforts of the Kyoto Protocol should be continued. By the end of this week, they should achieve a new binding international agreement framing a climate policy which aims to limit global warming to under 2°C.

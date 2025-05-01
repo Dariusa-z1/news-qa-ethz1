@@ -1,5 +1,7 @@
 # la-bella-vita
 
+**Source:** de_news_events/2015/03/la-bella-vita.html
+
 ## Akrobaten inspirierten Forschung
 
 Strahlend betritt Raffaello D’Andrea sein Büro. Er kommt gerade aus einer Sitzung, bei der er mit Kollegen vom Departement Informationstechnologie und Elektrotechnik (D-ITET) Pläne für eine künftige Zusammenarbeit im Bereich Systeme und Steuerung geschmiedet haben. Er setzt sich an den Tisch vor den Bücherregalen, in denen er all seine Bücher waagrecht liegend eingeordnet hat. «Das hat seinen Sinn», erklärt er. «So kann man die Titel der Bücher viel besser lesen. Viele Leute verrenken sich den Hals, um ein bestimmtes Buch zu finden, weil die Bücher stehend eingeordnet waren.» Diese Erklärung lässt erahnen, wie Effizienz und die natürliche Ordnung das Leben und Werk von Raffaello D’Andrea beeinflussen.

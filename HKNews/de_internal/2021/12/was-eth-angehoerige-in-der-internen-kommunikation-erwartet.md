@@ -1,5 +1,7 @@
 # was-eth-angehoerige-in-der-internen-kommunikation-erwartet
 
+**Source:** de_internal/2021/12/was-eth-angehoerige-in-der-internen-kommunikation-erwartet.html
+
 ## Umfrage zur internen Kommunikation
 
 Doch was erwarten ETH-Mitarbeitende eigentlich von der internen Kommunikation? Um auf diese Frage eine Antwort zu erhalten, hat die Hochschulkommunikation im März 2021 alle ETH-Mitarbeitenden zu einer anonymen Online-Umfrage eingeladen, die von einem externen Meinungsforschungsinstitut durchgeführt wurde. 10'500 Mitarbeitende waren aufgerufen, ihre Meinung zur internen Kommunikation an der ETH abzugeben. Fast 4000 haben sich beteiligt, was einer hohen Quote von 37,4 Prozent entspricht.

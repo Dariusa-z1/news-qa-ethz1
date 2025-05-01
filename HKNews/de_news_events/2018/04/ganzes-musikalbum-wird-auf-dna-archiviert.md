@@ -1,5 +1,7 @@
 # ganzes-musikalbum-wird-auf-dna-archiviert
 
+**Source:** de_news_events/2018/04/ganzes-musikalbum-wird-auf-dna-archiviert.html
+
 ## Übersetzung von digital zu DNA
 
 Die britische Band Massive Attack gilt als Pionier des Trip-Hop, eines atmosphärisch klingenden elektronischen Musikstils mit eher langsamen Beats. Vor genau 20 Jahren ist ihr Album «Mezzanine» erschienen, mit dem ihr auch international der Durchbruch gelang und das ihr erfolgreichstes Album blieb. Zum zwanzigjährigen Jubiläum lässt die Band dieses Album nun in DNA-Molekülen speichern – mit einer an der ETH Zürich entwickelten Technologie. «Wir schaffen es auf diese Weise, die Musik für hunderte bis tausende Jahre zu archivieren, sagt Robert Grass ETH-Professor am Labor für Funktionelles Material-Engineering der ETH Zürich. Zum Vergleich: CDs wird eine Haltbarkeit von rund 30 Jahren nachgesagt.
@@ -19,4 +21,6 @@ Die 5000 Glaskügelchen des Massive-Attack-Albums sind von blossem Auge unsichtb
 Anmerkung vom 05.06.2018:
 
 In einer früheren Version dieses Artikels stand fälschlicherweise, dass es sich beim 15 Megabyte umfassenden Musikalbum um die zweitgrösste je in DNA gespeicherte Datei handelt.
+
+Ausschnitt (MP3, 1017 KB) aus dem Song Teardrop von Massive Attack in der Audioqualität, mit der die Musik auf DNA gespeichert ist.
 

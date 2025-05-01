@@ -1,5 +1,7 @@
 # a-magnetic-catheter-against-strokes
 
+**Source:** en_news_events/2022/07/a-magnetic-catheter-against-strokes.html
+
 ## Entering the brain quickly and with precision
 
 Strokes are the world’s second most common cause of both death and long-term disability. One in four adults over the age of 25 will suffer a stroke in their lifetime. If a blood clot in the brain cannot be removed using drugs, those affected require emergency surgery, which sees the surgeon manoeuvre a catheter through an artery past the heart into the brain to clear away the disturbance of the blood supply.

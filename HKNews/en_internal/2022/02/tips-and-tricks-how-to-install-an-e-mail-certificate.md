@@ -1,5 +1,7 @@
 # tips-and-tricks-how-to-install-an-e-mail-certificate
 
+**Source:** en_internal/2022/02/tips-and-tricks-how-to-install-an-e-mail-certificate.html
+
 ## What is an e-mail certificate?
 
 It’s something you might have already noticed in e-mails from other members of the ETH community – a small seal next to the sender’s name:
@@ -18,19 +20,17 @@ Another advantage is that if both the sender and receiver have an e-mail certifi
 
 ## Your contribution to “Tips and Tricks”
 
-ETH employees can create their e-mail certificate free of charge via the PKI Certificate Management Portal . If you don’t have the necessary permissions, please contact your organisation’s / department’s IT support group.
+You can find instructions for how to install the certificate here . Please note: Accessing the website and installing the certificate is possible only within the ETH network or when working from home with a VPN connection.
 
 ## Comment policy Intern aktuell
 
-You can find instructions for how to install the certificate here . Please note: Accessing the website and installing the certificate is possible only within the ETH network or when working from home with a VPN connection.
+Not at all. The instructions will help you order and install your certificate. We were able to complete the entire process in just seven minutes, so you can easily set the certificate up when you have a spare moment.
 
 ## Subscribe to Newsletter
 
-Not at all. The instructions will help you order and install your certificate. We were able to complete the entire process in just seven minutes, so you can easily set the certificate up when you have a spare moment.
+Yes, there are also certificates for group mailboxes. However, to order one, you need to send a ticket to the service desk providing information on the “account”, “e-mail address” and “send-as authorisation group”. All members of the “send-as authorisation group” will then see this certificate in their personal PKI portal and can install it in the same way as for a personal certificate.
 
 ## Staffnet
-
-Yes, there are also certificates for group mailboxes. However, to order one, you need to send a ticket to the service desk providing information on the “account”, “e-mail address” and “send-as authorisation group”. All members of the “send-as authorisation group” will then see this certificate in their personal PKI portal and can install it in the same way as for a personal certificate.
 
 Do you have anything to add to today’s tip? We’d be delighted to read your contribution in the comments column. And if you have any ideas for more tips, feel free to e-mail them to .
 

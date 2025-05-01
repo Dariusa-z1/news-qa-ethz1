@@ -1,5 +1,7 @@
 # podcast-krankheiten-mit-einem-atemhauch-diagnostizieren
 
+**Source:** de_news_events/2022/11/podcast-krankheiten-mit-einem-atemhauch-diagnostizieren.html
+
 ## Main article
 
 ETH-Wissenschaftlerinnen und -Wissenschaftler sind Teil eines Konsortiums namens Zurich Exhalomics - gemeinsam arbeitet ein grosses Team an der Zukunft der Diagnostik, bei der nur noch eine Atemprobe nötig ist, um Krankheiten zu diagnostizieren.

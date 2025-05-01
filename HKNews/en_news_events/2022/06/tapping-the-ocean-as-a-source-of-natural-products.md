@@ -1,5 +1,7 @@
 # tapping-the-ocean-as-a-source-of-natural-products
 
+**Source:** en_news_events/2022/06/tapping-the-ocean-as-a-source-of-natural-products.html
+
 ## New species and new molecules discovered
 
 The oceans are teeming with countless forms of life, from the world’s largest creature – the blue whale – to miniscule microorganisms. In addition to their vast numbers, these microorganisms are also crucial for ensuring that the entire eco- and climate system work properly. For instance, there are photosynthetically active varieties such as cyanobacteria that produce around 50 percent of the oxygen in the atmosphere. Moreover, by removing carbon dioxide from the atmosphere, microorganisms help counter global warming.

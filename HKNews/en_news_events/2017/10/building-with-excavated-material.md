@@ -1,5 +1,7 @@
 # building-with-excavated-material
 
+**Source:** en_news_events/2017/10/building-with-excavated-material.html
+
 ## Earthy architecture
 
 When modern humans build a structure, it usually works like this: they dig a pit, transport the excavated material away in a lorry and deliver tonnes of sand, gravel and cement in its place. This is mixed with water to create concrete, which is used to build the foundations and the house. The latter is then fitted out primarily with complex building technologies to compensate for any losses in comfort.

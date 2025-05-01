@@ -1,5 +1,7 @@
 # 1-million-dois-allotted
 
+**Source:** en_internal/2016/01/1-million-dois-allotted.html
+
 ## Main article
 
 Meanwhile, it provides thirty-five services to twenty-five customers all over Switzerland.

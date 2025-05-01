@@ -1,5 +1,7 @@
 # abteilung-betrieb-plant-kundenzufriedenheitsumfrage-2016
 
+**Source:** de_internal/2016/08/abteilung-betrieb-plant-kundenzufriedenheitsumfrage-2016.html
+
 ## Main article
 
 Um sich ein Bild über die Zufriedenheit unserer Kundschaft zu verschaffen, veranstalten wir im Herbst 2016 erneut eine Umfrage.

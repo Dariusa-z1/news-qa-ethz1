@@ -1,5 +1,7 @@
 # noble-preise-wie-man-sie-bekommt-und-was-sie-bewirken
 
+**Source:** de_internal/2015/06/noble-preise-wie-man-sie-bekommt-und-was-sie-bewirken.html
+
 ## Main article
 
 Jedes Jahr werden Preise für Forschungsergebnisse oder Innovationen vergeben. Bedeutend sind neben den Nobelpreisen auch die Auszeichnungen der Balzan-Stiftung. Wie aber arbeitet ein Preisverleihungskomitee? Verändert sich das Leben des Preisträgers und das seiner Familie? Diskutieren Sie solche Fragen unter anderem mit dem ETH-Professor und Nobelpreisträger Richard R. Ernst und der derzeit jüngsten ETH-Professorin Sereina Riniker. Richard R. Ernst hatte 1991 den Nobelpreis für Chemie für seine Beiträge zur Entwicklung der Methodik in der Kernspinresonanz-Spektroskopie erhalten.

@@ -1,5 +1,7 @@
 # die-schulleitung-informiert-2023-5
 
+**Source:** de_internal/2023/06/die-schulleitung-informiert-2023-5.html
+
 ## Neue Prorektoren Studium und Curriculumsentwicklung gewählt
 
 - Yoan Hermstrüwer, Professor für Legal Tech, Law and Economics, and Public Law, Universität Zürich

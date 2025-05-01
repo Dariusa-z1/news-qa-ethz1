@@ -1,5 +1,7 @@
 # ich-freue-mich-auf-meine-wiedererlangte-akademische-freiheit0
 
+**Source:** de_internal/2014/09/ich-freue-mich-auf-meine-wiedererlangte-akademische-freiheit0.html
+
 ## Zur Person
 
 Was fasziniert Sie an Ihrem Forschungsgebiet? In unserer Welt werden immer mehr Daten produziert und in steigendem Umfang erfolgt eine Wertschöpfung aus diesen Daten. Maschinelles Lernen beschäftigt sich damit, erklärende oder vorhersagende Modelle aus Daten abzuleiten. In diesem Gebiet stellen sich unglaubliche intellektuelle Herausforderungen, die ein breites Wissen in Informatik, Mathematik und Statistik erfordern. Gleichzeitig sind diese Fragen von hoher gesellschaftlicher Relevanz. Mir war es immer wichtig, in einem Forschungsgebiet zu arbeiten, das unsere zukünftige Welt prägt und fundamentale Fragen aufwirft.

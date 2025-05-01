@@ -1,5 +1,7 @@
 # datenmanagementplaene-fuer-den-snf
 
+**Source:** de_internal/2020/09/datenmanagementplaene-fuer-den-snf.html
+
 ## Main article
 
 Gesuche für den SNF müssen einen Datenmanagementplan (DMP) enthalten. Der DMP wird online in externe Seite mySNF erfasst. Dabei stellt der DMP in diesem Stadium einen Entwurf dar. Er sollte im Laufe des Projektes aktualisiert werden und spätestens bei Projektabschluss in einer finalen Form vorliegen.

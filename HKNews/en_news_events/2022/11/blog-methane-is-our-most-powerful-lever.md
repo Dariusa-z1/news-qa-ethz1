@@ -1,5 +1,7 @@
 # blog-methane-is-our-most-powerful-lever
 
+**Source:** en_news_events/2022/11/blog-methane-is-our-most-powerful-lever.html
+
 ## About the author
 
 The 1.5 degree target is slowly but surely slipping out of reach. The recent world climate conference COP27 in Egypt offered little reason for any assumptions to the contrary. Switzerland is also clearly not on course with regard to the climate. Although climate change is now recognised as a socially relevant issue, social change is making only slow progress. Our domestic emissions are decreasing at a lacklustre pace, while we are completely ignoring imports, the financial sector, and aviation and shipping.

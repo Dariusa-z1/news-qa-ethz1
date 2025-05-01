@@ -1,5 +1,7 @@
 # globe-a-wooden-dome-made-solely-from-waste
 
+**Source:** en_news_events/2022/04/globe-a-wooden-dome-made-solely-from-waste.html
+
 ## Aiming for sustainability
 
 Strolling into the carpentry shop on the Hönggerberg campus on this January morning, you could be forgiven for thinking you’ve stumbled into a beginners’ woodworking course. Huddled around a bandsaw, six people are getting a quick tutorial on how to cut timber beams into rectangular struts. Once they’ve received their instructions, some get straight down to work, deftly guiding the timber past the saw blade. Others – clearly less confident – call on the instructor’s help to make sure they’re putting their hands in the right place.
@@ -51,4 +53,6 @@ The wooden struts are putting so much strain on the plastic hubs that they have 
 The ring-shaped hubs for the wooden struts are also made from reused material; in this case, salvaged plastic water pipes.
 
 By bringing together architects, engineers and computer scientists, she hopes to create the right conditions to achieve this – at least within her own research group. Perhaps even more important, she says, is the ability to combine environmental sensitivity with an affinity for the digital world. But that can be a tough call. “On one side you have people who are fighting for the environment like Greta Thunberg, and on the other tech geeks like Elon Musk,” says De Wolf. What she’s looking for are digital natives who are willing to dedicate their skills to protecting the environment. One of De Wolf’s primary goals is to raise awareness of her field of research. Her course at this year’s summer school will bring together students from different departments to build another dome from reused materials. This dome will remain on the Hönggerberg campus over the summer to showcase her work. She is also planning an exhibition on the circular economy in construction as well as a number of smaller events.
+
+Read the issue as a PDF (PDF, 5.5 MB) Read the issue online
 

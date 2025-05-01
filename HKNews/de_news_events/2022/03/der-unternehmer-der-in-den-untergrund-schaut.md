@@ -1,5 +1,7 @@
 # der-unternehmer-der-in-den-untergrund-schaut
 
+**Source:** de_news_events/2022/03/der-unternehmer-der-in-den-untergrund-schaut.html
+
 ## Auf dem Weg in die Selbstständigkeit
 
 Der Rheinfall rauscht und tost an diesem Morgen, die Gischt sieht im Gegenlicht wie Nebel aus. Ein kleines Boot bahnt sich seinen Weg vom Aussichtsfelsen mitten in den schäumenden Wassermassen zum Schlössli Wörth.

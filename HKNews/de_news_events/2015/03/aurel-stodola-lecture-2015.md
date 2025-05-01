@@ -1,5 +1,7 @@
 # aurel-stodola-lecture-2015
 
+**Source:** de_news_events/2015/03/aurel-stodola-lecture-2015.html
+
 ## Quereinstieg in die Medizin
 
 Prof. Mauro Ferrari wird mit der Aurel Stodola Medaille geehrt.

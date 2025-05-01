@@ -1,5 +1,7 @@
 # eth-students-develop-drones-robots-and-vehicles
 
+**Source:** en_news_events/2024/05/eth-students-develop-drones-robots-and-vehicles.html
+
 ## AVERO – the safe inspection drone
 
 - external pageaCentauricall\_made is constructing an aerodynamic racing car powered exclusively by solar cells and capable of reaching motorway speeds. The team will be entering the World Solar Challenge, which covers 3,000 km in the Australian outback, for the second time in the autumn of 2025.

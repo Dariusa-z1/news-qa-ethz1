@@ -1,5 +1,7 @@
 # neues-personalgespraech-dialog
 
+**Source:** de_internal/2024/03/neues-personalgespraech-dialog.html
+
 ## Dialog-Pilot erfolgreich verlaufen und Feedback berücksichtigt
 
 Mit dem Dialog regt die ETH-Schulleitung den proaktiven Austausch zwischen Mitarbeitenden und Führungspersonen auf der Basis der Werte der ETH an. Das A und O im neuen Personalgespräch ist das respektvolle Miteinander auf Augenhöhe. Schwerpunkte liegen dabei in der gemeinsamen Ausrichtung auf die Zukunft, der gegenseitigen Unterstützung bei der Zielerreichung und in der Weiterentwicklung. Die ETH kommt mit dem Dialog weg von einseitigen Erwartungen und Beurteilungen in Form von Buchstabenratings (z.B. A oder A+). Nach wie vor und auch ohne diese Ratings umfasst die Lohnsteuerung einen Leistungsanteil.

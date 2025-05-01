@@ -1,5 +1,7 @@
 # swiss-pavilion-in-venice-opens-wall-to-neighbour
 
+**Source:** en_news_events/2023/05/swiss-pavilion-in-venice-opens-wall-to-neighbour.html
+
 ## Main article
 
 ETH News: What is the idea behind “Neighbours”? Karin Sander : I realised that as well as being neighbours, the Swiss and Venezuelan pavilions also constitute an ensemble. Bruno Giacometti, the architect who designed the Swiss pavilion, completed his project first. A few years later, Carlo Scarpa, the architect for the Venezuelan pavilion, made his design a response to it. Our exhibition focuses on the relationship between these next-door neighbours.

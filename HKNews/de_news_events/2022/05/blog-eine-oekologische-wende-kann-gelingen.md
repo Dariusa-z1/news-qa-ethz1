@@ -1,5 +1,7 @@
 # blog-eine-oekologische-wende-kann-gelingen
 
+**Source:** de_news_events/2022/05/blog-eine-oekologische-wende-kann-gelingen.html
+
 ## Ökologisches Versagen wird zum Systemrisiko
 
 - Der Mensch braucht Natur: Statt Leben und Natur zu trennen, sollten wir vielfältige Naturbeziehungen pflegen. Naturerlebnisse erhöhen die Lebensqualität und fördern die Gesundheit.11

@@ -1,5 +1,7 @@
 # aus-dem-buecherregal-eines-mathematikprofessors-neue-privatbibliothek-auf-e-rara
 
+**Source:** de_internal/2021/11/aus-dem-buecherregal-eines-mathematikprofessors-neue-privatbibliothek-auf-e-rara.html
+
 ## Mathematik von A wie Algebra bis Z wie Zahlenlehre
 
 Einer der ersten Professoren für Mathematik am neuen Polytechnikum war Johannes Orelli (1822–1885). Er war seit Gründung der Hochschule bis zu seinem Tod Dozent für Algebra sowie Differential- und Integralrechnen. Orelli galt als sehr guter Lehrer, der klare und verständliche Vorlesungen hielt und der es schaffte, die Mathematik auch den weniger Begabten näherzubringen.

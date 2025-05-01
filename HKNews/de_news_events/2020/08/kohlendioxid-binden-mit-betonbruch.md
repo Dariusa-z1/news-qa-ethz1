@@ -1,5 +1,7 @@
 # kohlendioxid-binden-mit-betonbruch
 
+**Source:** de_news_events/2020/08/kohlendioxid-binden-mit-betonbruch.html
+
 ## Erkenntnisse zur Anwendung bringen
 
 Die beiden Jungunternehmer und Gründer des ETH-Spin-Offs Neustark sind grundverschieden, scheinen sich aber gut zu ergänzen. Der eine – Johannes Tiefenthaler – doktoriert am Departement Maschinenbau und Verfahrenstechnik in der Gruppe von Professor Marco Mazzotti und tüftelt an der nächsten Technologiegeneration für die Mineralisierung von Kohlendioxid.

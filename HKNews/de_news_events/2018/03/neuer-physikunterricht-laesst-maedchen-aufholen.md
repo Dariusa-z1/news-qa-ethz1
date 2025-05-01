@@ -1,5 +1,7 @@
 # neuer-physikunterricht-laesst-maedchen-aufholen
 
+**Source:** de_news_events/2018/03/neuer-physikunterricht-laesst-maedchen-aufholen.html
+
 ## Gezieltes Scheitern
 
 Was ist der Unterschied zwischen Masse und Gewicht? Wie definiert sich Kraft in der Physik? Die wenigsten Schüler können grundlegende Konzepte der Physik richtig erklären. Nicht einmal die Besten. Das Problem liege nicht bei den Schülern, sagt Elsbeth Stern, Professorin für Lehr- und Lernforschung an der ETH Zürich: «Unsere Forschung lässt schliessen, dass es meist am Unterricht liegt, wenn gute Schüler Physik nicht verstehen.»

@@ -1,5 +1,7 @@
 # the-role-of-eth-in-the-gotthard-base-tunnel
 
+**Source:** en_news_events/2016/05/the-role-of-eth-in-the-gotthard-base-tunnel.html
+
 ## Tunnelling through "flowing ground"
 
 Tunnel driving in the Tavetscher intermediate massif (Photo: Georgios Anagnostou / ETH Zurich)

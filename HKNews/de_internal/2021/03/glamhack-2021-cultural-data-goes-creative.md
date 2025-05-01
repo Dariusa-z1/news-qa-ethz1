@@ -1,5 +1,7 @@
 # glamhack-2021-cultural-data-goes-creative
 
+**Source:** de_internal/2021/03/glamhack-2021-cultural-data-goes-creative.html
+
 ## Event für Inspiration und Vernetzung
 
 Bereit dafür, das kulturelle Erbe digital nutz- und erlebbar zu machen, Neues zu entdecken und zu lernen? Lust auf einen lebendigen Austausch mit anderen kreativen Köpfen, visionären Digital Humanists, passionierten Kulturschaffenden, akribischen Metadaten-Fans und versierten Programmierinnen und Programmierern?

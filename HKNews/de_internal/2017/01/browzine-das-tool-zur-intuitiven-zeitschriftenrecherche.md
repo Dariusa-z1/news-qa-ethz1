@@ -1,5 +1,7 @@
 # browzine-das-tool-zur-intuitiven-zeitschriftenrecherche
 
+**Source:** de_internal/2017/01/browzine-das-tool-zur-intuitiven-zeitschriftenrecherche.html
+
 ## Main article
 
 Dieses ist sowohl als Web-Anwendung als auch über eine App nutzbar:

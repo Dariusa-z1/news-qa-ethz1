@@ -1,5 +1,7 @@
 # eth-quo-vadis
 
+**Source:** de_internal/2014/12/eth-quo-vadis.html
+
 ## Die Indikatoritis
 
 Die ETH soll eine weltweit führende technische Hochschule sein. Gut so! Aber wie definiert man «weltweit führend»? Ist es wichtig, ob die ETH sich um einen oder zwei Plätze in einem jener weltweiten Rankings verbessert, die teilweise auf Kriterien beruhen, welche weit herum als eher zweifelhaft angesehen werden? Man kann diese Frage als unwesentlich für den Hochschulalltag abtun. Aber: wenn man die Rankings für wichtig hält, so ist es folgerichtig und sogar notwendig, die ETH-Angehörigen quantitativ und nach jenen Kriterien zu beurteilen, welche in die Rankings eingehen. Damit lassen wir uns die Qualitäts-Kriterien von aussen diktieren, statt sie durch einen internen Diskurs festzulegen.

@@ -1,5 +1,7 @@
 # data-transfer-by-controlled-noise
 
+**Source:** en_news_events/2019/02/data-transfer-by-controlled-noise.html
+
 ## Correlations in the double slit
 
 To send as much information as possible from A to B at the same time, scientists and engineers have developed increasingly sophisticated techniques over the past decades. Those techniques, generally known as multiplexing, allow one to transmit more signals than the number of available transmission channels. A typical example for this is radio broadcasting on different frequencies. Scientists at ETH in Zurich have now invented a novel multiplexing technique that is based on noise – something that one typically tries to avoid.

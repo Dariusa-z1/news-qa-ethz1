@@ -1,5 +1,7 @@
 # should-the-application-process-be-anonymised
 
+**Source:** en_internal/2022/04/should-the-application-process-be-anonymised.html
+
 ## For
 
 Furkan Sami Oguz, employee of the Chair of Applied Macroeconomics (Illustration: Kornel Stadler)
@@ -33,4 +35,6 @@ Our recruiting team is open-minded and is neither for nor against anonymised app
 What do you think of anonymous application processes? Discuss with us in the comments.
 
 This article appeared in the current ETH magazine "life" .
+
+the latest issue of "life". (PDF, 2.9 MB)
 

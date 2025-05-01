@@ -1,5 +1,7 @@
 # fotowettbewerb-lieblingsorte-auf-dem-campus-hoenggerberg
 
+**Source:** de_internal/2018/10/fotowettbewerb-lieblingsorte-auf-dem-campus-hoenggerberg.html
+
 ## Fotowettbewerb
 
 - Darstellung von der einzigartigen Stimmung und der Besonderheiten des Campus Hönggerberg

@@ -1,5 +1,7 @@
 # piz-daint-gehoert-zur-weltspitze
 
+**Source:** de_news_events/2017/06/piz-daint-gehoert-zur-weltspitze.html
+
 ## Strategisches Vorgehen
 
 Seit November 2013 ist der Hochleistungsrechner «Piz Daint» am Nationalen Rechenzentrum (CSCS) in Lugano der leistungsstärkste Supercomputer Europas. Ende 2016 wurde seine Leistung durch ein umfassendes Hardware-Upgrade nochmals mehr als verdreifacht. Heute ist «Piz Daint» mit einer theoretischen Spitzenleistung von 25,3 Petaflops der schnellste Rechner ausserhalb Asiens, wie an der internationalen Fachtagung ISC High Performance in Frankfurt heute bestätigt wurde. Dank innovativer Architektur ist «Piz Daint» zudem auch einer der energieeffizientesten Grossrechner weltweit.

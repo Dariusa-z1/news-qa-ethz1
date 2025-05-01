@@ -1,5 +1,7 @@
 # more-respect-for-people-who-think-differently
 
+**Source:** en_news_events/2023/08/more-respect-for-people-who-think-differently.html
+
 ## Scientifica 2023
 
 - Konflikte in Freundschaften und in der Familie bewältigen. external pageScience Café (in DE). Dept of Psychology, UZH. Exhibition stand. Fög and IKMZ, UZH.call\_made
@@ -20,9 +22,9 @@ Mazouz: Exactly. It’s a combination of both processes: the fragmentation of so
 
 That seems counter-intuitive. Surely a more fragmented society would become more complex? Mazouz: Individuals belong to various groups, and these groups are becoming increasingly alike and therefore more homogeneous. The problem comes when certain lifestyles are automatically tied to specific political ideologies; that impoverishes our society and, ultimately, our democratic discourse.
 
-## About
-
 Stadtfeld: We sometimes talk about portfolios of identities, ideas and lifestyles. As a sociologist, I find it intriguing that certain portfolios are becoming more dominant, while the overall number of portfolios is shrinking. For example, it’s increasingly uncommon that individuals identify as liberal and left-leaning, while holding conservative views on family issues. In other words, people’s lifestyles are becoming more homogenous and more politicised.
+
+## About
 
 Can you give an example? Stadtfeld: One US study found that you can get a fairly good idea of someone’s political affiliation from their coffee preferences – essentially by asking them whether they would order a pot of black coffee or a flat white to go. It turns out that the flat-white drinkers are very likely to vote Democrat!
 
@@ -34,11 +36,11 @@ A disintegrating centre plus increasing fragmentation and the politicisation of 
 
 Mazouz: What keeps a society stable is a willingness to cooperate. In order to cooperate, we need some idea of how we want to live together. The problem with affective polarisation and fragmentation is that they chip away at the number of people who can actually agree on the basic requirements for coexistence, such as the need for mutual respect.
 
-## Globe What holds the world together
-
 That’s something politicians often seem to struggle with, too... Stadtfeld: Many of them – those who are on the fringes, for example – obviously have a vested interest in feeding divisions in society.
 
 Mazouz: Right. People like that are eager to further undermine whatever mutual respect we have left. But democracy can only thrive if we accept each other as free and equal individuals, and not as enemies. That’s why I find the current state of affairs so alarming.
+
+## Globe What holds the world together
 
 Respect is clearly important. But in the age of “alternative facts”, it seems we can’t even agree on a common ground for discussion. Mazouz: Current events are making a farce out of one of the central tenets of the Enlightenment – namely, that people should use their own capacity for reason. The reality is that more and more people are getting most of their information from platforms that cast doubt on the very legitimacy of traditional epistemic authorities such as science.
 
@@ -51,4 +53,6 @@ Mazouz: A bit of self-reflection would also be helpful. We may consider ourselve
 Nadia Mazouz is Professor of Practical Philosophy in the Department of Humanities, Social and Political Sciences at ETH Zurich.
 
 Christoph Stadtfeld is Professor of Social Networks in the Department of Humanities, Social and Political Sciences at ETH Zurich.
+
+This text appeared in the 23/03 issue of the ETH magazine Globe . Read whole issue (PDF, 4.6 MB)
 

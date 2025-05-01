@@ -1,5 +1,7 @@
 # sie-ist-live-und-sie-ist-up-to-date-die-neue-website-der-eth-bibliothek
 
+**Source:** en_internal/2020/08/sie-ist-live-und-sie-ist-up-to-date-die-neue-website-der-eth-bibliothek.html
+
 ## The highlights
 
 - Knowledge is dazzling and colourful, it touches and moves you: you can find exciting news about library and research topics at a glance through linked sliders on topical focus points and current events.

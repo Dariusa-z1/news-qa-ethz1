@@ -1,5 +1,7 @@
 # der-sinn-der-nachhaltigkeit
 
+**Source:** de_news_events/2013/10/der-sinn-der-nachhaltigkeit.html
+
 ## Neoklassische versus Evolutionsökonomik
 
 Insbesondere, da die erste Antwort auf diese Frage, die ich selbst vor zwanzig Jahren hörte, als das Konzept der «nachhaltigen Entwicklung» noch relativ jung war, «nein» lautete.

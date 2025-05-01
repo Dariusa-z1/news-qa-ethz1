@@ -1,5 +1,7 @@
 # ai-reality-lags-the-hype-in-swiss-tech-industries
 
+**Source:** en_news_events/2024/06/ai-reality-lags-the-hype-in-swiss-tech-industries.html
+
 ## In brief
 
 - ETH Zurich, in collaboration with Swissmem and Next Industries, conducted a survey on the use of AI in the Swiss tech industry, in which over 200 companies took part.

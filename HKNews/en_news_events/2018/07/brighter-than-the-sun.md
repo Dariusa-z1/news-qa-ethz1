@@ -1,5 +1,7 @@
 # brighter-than-the-sun
 
+**Source:** en_news_events/2018/07/brighter-than-the-sun.html
+
 ## Inclusions tell the secrets of the past
 
 The Institute of Geochemistry and Petrology at ETH Zurich is home to an instrument that can detect the tiniest traces of noble gases. “This mass spectrometer was built here, and it’s 100 times more sensitive to helium and neon than any commercial device,” says Henner Busemann, a senior scientist at the Department of Earth Sciences and a member of the Swiss National Centre of Competence in Research’s PlanetS programme. For technical reasons, the instrument used to hang from the ceiling, and so it was nicknamed “Tom Dooley” after the alleged murderer who was hanged in the United States in the 19th century and immortalised in a folk song.

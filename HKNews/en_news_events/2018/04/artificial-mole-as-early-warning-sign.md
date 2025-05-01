@@ -1,5 +1,7 @@
 # artificial-mole-as-early-warning-sign
 
+**Source:** en_news_events/2018/04/artificial-mole-as-early-warning-sign.html
+
 ## Derailed calcium balance triggers melanin production
 
 Alongside cardiovascular disease, cancer has become the top cause of death in industrialised countries. Many of those affected are diagnosed only after the tumour has developed extensively. This often reduces the chance of recovery significantly: the cure rate for prostate cancer is 32 percent and only 11 percent for colon cancer. The ability to detect such tumours reliably and early would not only save lives, but also reduce the need for expensive, stressful treatment.

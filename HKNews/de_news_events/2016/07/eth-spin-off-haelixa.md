@@ -1,5 +1,7 @@
 # eth-spin-off-haelixa
 
+**Source:** de_news_events/2016/07/eth-spin-off-haelixa.html
+
 ## DNA-Strichcode kennzeichnet Produkt
 
 In vielen Industriezweigen werden Tracer eingesetzt – Stoffe, mit denen Produkte oder Flüssigkeiten jeglicher Art wie mit einem eindeutigen «Fingerabdruck» gekennzeichnet werden können.

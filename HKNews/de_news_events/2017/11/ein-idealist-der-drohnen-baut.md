@@ -1,5 +1,7 @@
 # ein-idealist-der-drohnen-baut
 
+**Source:** de_news_events/2017/11/ein-idealist-der-drohnen-baut.html
+
 ## Etwas bewirken
 
 Basil Weibel will hoch hinaus – und steht dennoch mit beiden Beinen fest am Boden. Im Gespräch hört er zu, überlegt, bevor er spricht, äussert sich dann mit Bedacht. «Ja, es ist ein sehr schönes Gefühl, in einer Gesellschaft zu leben, wo junge Leute eine echte Chance erhalten, etwas aufzubauen», sagt er. Natürlich sei ihm ob all der Verantwortung auch mal mulmig zu Mute, räumt er ein, und Schalk blitzt auf in seinen Augen. «Aber ein bisschen unverfroren muss man als Firmengründer schon sein.»
@@ -20,13 +22,11 @@ Das Studium war aber härter als alles, was Weibel bisher kannte. Vor allem am A
 
 ## Vom Student zum Jungunternehmer
 
-Ende Bachelor kam Weibel mit Robotik und Drohnen in Kontakt. Da fasste er den Gedanken, die Transportkosten im Paketversandmarkt mit einem flexiblen Flugroboter zu senken. In einem Fokusprojekt, in dem Studierende das erworbene Wissen praktisch anwenden, entwickelte er mit einem kleinen Team eine Transportdrohne, die flexibel wie ein Multikopter starten und landen, aber effizient wie ein Flugzeug fliegen kann.
-
 Das Resultat überzeugte derart, dass es das Autonomous Systems Lab der ETH Zürich als Förderprojekt aufnahm. Diese Erfahrung und der Support, den er erfuhr, waren für Weibel ein Schlüsselmoment: «Da wurde mir klar, genau das will ich tun!» Wenig später gründete er Wingtra.
 
-## Vielseitig gefordert
-
 Von da an ging alles Schlag auf Schlag. 2015 erhielt das Projekt entscheidende Finanzierung von der Gebert Rüf Stiftung. Im Februar 2016 nahm Wyss Zurich die Jungfirma als Förderprojekt auf. Bald stiegen private Investoren ein. Anfang 2017 hat Weibel die ersten Drohnen verkauft.
+
+## Vielseitig gefordert
 
 Allerdings nicht für den Pakettransport wie er ursprünglich dachte, sondern für Vermessung und Landwirtschaft. Denn mit Kameras ausgerüstet kann der schlaue Flugroboter präzise Geländekarten erstellen und Felder überwachen. Bauern können so Dünger und Pestizide einsparen, wovon auch Konsumenten und die Umwelt profitieren. Endlich hat Weibel gefunden, was er lange suchte: Die Möglichkeit, eine positive Veränderung mit zu gestalten.
 

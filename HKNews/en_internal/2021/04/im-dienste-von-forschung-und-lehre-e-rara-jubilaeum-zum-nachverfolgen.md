@@ -1,5 +1,7 @@
 # im-dienste-von-forschung-und-lehre-e-rara-jubilaeum-zum-nachverfolgen
 
+**Source:** en_internal/2021/04/im-dienste-von-forschung-und-lehre-e-rara-jubilaeum-zum-nachverfolgen.html
+
 ## e-rara.ch – a success story?
 
 - shed a light on the role of digital platforms in the library sector,
@@ -31,8 +33,6 @@ The e-rara platform, developed as part of the “e-lib.ch: Swiss electronic libr
 Many other libraries also contribute their stock to help expand the service. There are now more than 84,000 titles available on e-rara.
 
 ## Staffnet
-
-Are you looking for further information about the panel discussion or do you have questions about e-rara and wish to speak to its owners? Contact Dr Meda Hotea, e-rara Coordination Manager, by email at
 
 More than just data – Benefit from know-how
 

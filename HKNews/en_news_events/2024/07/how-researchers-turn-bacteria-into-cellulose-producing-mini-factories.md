@@ -1,5 +1,7 @@
 # how-researchers-turn-bacteria-into-cellulose-producing-mini-factories
 
+**Source:** en_news_events/2024/07/how-researchers-turn-bacteria-into-cellulose-producing-mini-factories.html
+
 ## In brief
 
 - Materials researchers at ETH Zurich have created 40,000 variants of the cellulose-producing bacterium Komagataeibacter sucrofermentans.

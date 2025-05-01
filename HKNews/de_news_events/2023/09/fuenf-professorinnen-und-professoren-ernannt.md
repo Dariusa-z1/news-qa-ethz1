@@ -1,5 +1,7 @@
 # fuenf-professorinnen-und-professoren-ernannt
 
+**Source:** de_news_events/2023/09/fuenf-professorinnen-und-professoren-ernannt.html
+
 ## Neuernennungen ETH Zürich
 
 (Foto: Dora Gaviria)

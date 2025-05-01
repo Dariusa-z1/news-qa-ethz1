@@ -1,5 +1,7 @@
 # ten-professors-appointed
 
+**Source:** en_news_events/2023/07/ten-professors-appointed.html
+
 ## New appointments
 
 (Photograph: Marlene Gawrisch)

@@ -1,5 +1,7 @@
 # soll-wissen-einen-nutzen-haben
 
+**Source:** de_internal/2016/03/soll-wissen-einen-nutzen-haben.html
+
 ## SOLL WISSEN EINEN NUTZEN HABEN?
 
 Rund um den Globus und quer durch unterschiedliche politische Systeme wird der gesellschaftliche Nutzen geisteswissenschaftlicher Forschung und Lehre zunehmend in Frage gestellt. Dabei steht grundlegend zur Debatte, ob Wissen überhaupt immer einen Nutzen haben soll und was genau Nützlichkeit ausmacht.

@@ -1,5 +1,7 @@
 # heute-schon-an-morgen-denken
 
+**Source:** de_internal/2023/02/heute-schon-an-morgen-denken.html
+
 ## Welche Kräfte treiben den Wandel an?
 
 Wie werden Hochschulen künftig lehren, forschen und mit der Gesellschaft interagieren? Verwandeln sich Universitäten in Start-up-Fabriken, in denen alle Absolvent:innen vor ihrem Abschluss ihr eigenes Unternehmen gründen? Oder werden sie zu Zentren für globale Lösungen, in denen die Bewältigung der dringendsten Herausforderungen der Menschheit oberste Priorität hat?

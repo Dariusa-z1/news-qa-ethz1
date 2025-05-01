@@ -1,5 +1,7 @@
 # mapping-the-strength-of-natures-weakest-force
 
+**Source:** en_news_events/2023/08/mapping-the-strength-of-natures-weakest-force.html
+
 ## Keeping an eye on climate change
 
 - Exploring gravity: mysteries from space. external pageExhibition stand. Institute of Geodesy and Photogrammetry, ETH.call\_made
@@ -37,4 +39,6 @@ Conventional experiments still have the edge in terms of accuracy, but since the
 Benedikt Soja is Professor of Space Geodesy at the Department of Civil, Environmental and Geomatic Engineering at ETH Zurich.
 
 Jürg Dual is Professor Emeritus of Mechanics and Experimental Dynamics at ETH Zurich.
+
+This text appeared in the 23/03 issue of the ETH magazine Globe . Read whole issue (PDF, 4.6 MB)
 

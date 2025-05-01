@@ -1,5 +1,7 @@
 # 2015-annual-report
 
+**Source:** en_news_events/2016/04/2015-annual-report.html
+
 ## Continuing growth
 
 Each year, ETH Zurich publicly discloses details of its performance and services rendered. This year, the annual report comes in a new format for the first time: a status report, which summarises the key events and developments at the university, and a detailed annual financial statement in line with the International Public Sector Accounting Standards (IPSAS). The annual report is also now available in three languages: German, English and French.
@@ -15,6 +17,8 @@ Conversely, ETH Zurich has itself also acted as an important instigator in indus
 ## Download
 
 The university's growth can also be seen in its financial performance. ETH Zurich's operating revenue amounted to CHF 1712 million in 2015, an increase of 1% on the previous year. Around two thirds of this revenue originated from basic government funding, with the remainder coming from third parties. Operating expenses came to CHF 1605 million, or 2% higher than the previous year.
+
+ETH Zurich’s 2015 annual report can be downloaded in three languages in PDF format, or ordered in print form from the ETH mailing centre.
 
 Archive annual reports 2002-2014
 

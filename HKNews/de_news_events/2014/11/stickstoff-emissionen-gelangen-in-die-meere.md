@@ -1,5 +1,7 @@
 # stickstoff-emissionen-gelangen-in-die-meere
 
+**Source:** de_news_events/2014/11/stickstoff-emissionen-gelangen-in-die-meere.html
+
 ## Über Tausende Kilometer verfrachtet
 
 Wenn fossile Energieträger bei hohen Temperaturen verbrannt werden, wie etwa in Kohle- und Gaskraftwerken oder bei Ölheizungen, bilden sich Stickoxide und andere reaktive Stickstoffverbindungen, die in die Atmosphäre gelangen. Auch aus der Landwirtschaft gelangt reaktiver Stickstoff in die Atmosphäre. Dies, wenn ein Teil des als Dünger eingebrachten Stickstoffs als Stickoxid oder als Ammoniak an die Atmosphäre verloren geht. Diese Emissionen sind in den letzten Jahrzehnten massiv angestiegen, vor allem in Ostasien, wo sie im letzten Jahrzehnt um 40 Prozent zugenommen haben.

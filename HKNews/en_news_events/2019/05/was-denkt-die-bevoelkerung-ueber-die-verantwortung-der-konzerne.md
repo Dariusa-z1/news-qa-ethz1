@@ -1,5 +1,7 @@
 # was-denkt-die-bevoelkerung-ueber-die-verantwortung-der-konzerne
 
+**Source:** en_news_events/2019/05/was-denkt-die-bevoelkerung-ueber-die-verantwortung-der-konzerne.html
+
 ## Approving strict laws
 
 In just over two weeks, the National Council and the Council of States will jointly discuss the Responsible Business Initiative. The issue at stake is whether companies with headquarters, head offices or main branches in Switzerland should be legally required to comply with human rights and environmental standards in their business activities at home and abroad; and whether they should be held accountable in Swiss courts for any future damage abroad they might cause. This latter point will be a key issue when the Federal Assembly decides on a counter-proposal to the initiative.
@@ -31,4 +33,6 @@ The study by Bernauer’s team shows that public pressure on business and politi
 “The strong demand for state intervention and approval for the Responsible Business Initiative are indications that the population feels a need for action,” says Bernauer. “Unless the private sector scores points with strong voluntary measures in this area and there is no counter proposal, the initiative could achieve a majority based on the current state of public opinion.”
 
 Kolcava D, Rudolph L, Bernauer T: Die Einstellung der Schweizer Bevölkerung zum Thema Unternehmensverantwortung im Ausland. Ergebnisse einer Bevölkerungsumfrage vom November 2018. ETH Zurich, Center for Comparative and International Studies. April 2019.
+
+PDF (in German) (PDF, 2.6 MB) .
 

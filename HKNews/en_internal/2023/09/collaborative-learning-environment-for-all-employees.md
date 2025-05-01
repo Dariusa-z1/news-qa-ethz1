@@ -1,5 +1,7 @@
 # collaborative-learning-environment-for-all-employees
 
+**Source:** en_internal/2023/09/collaborative-learning-environment-for-all-employees.html
+
 ## Active involvement in the learning process
 
 In a rapidly changing world that constantly presents new challenges, continuous acquisition of knowledge and ongoing personal development are needed to ensure we are ready to meet future requirements. This is exactly the purpose of the Lifelong Learning Hub , available to all staff by the end of the year via Microsoft Teams. The new platform creates a space where all users have flexible access to a varied range of learning content tailored to individual needs, at a time and place that suits them. The format ranges from on-site workshops to podcasts and online courses.

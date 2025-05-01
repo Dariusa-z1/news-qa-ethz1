@@ -1,5 +1,7 @@
 # rahmen-fuer-abgeltungsverhandlungen
 
+**Source:** de_news_events/2017/12/rahmen-fuer-abgeltungsverhandlungen.html
+
 ## Tiefenlager sind unbeliebt – man muss verhandeln
 
 Wo sollen radioaktive Abfälle sicher entsorgt werden? Weltweit ist dieses Problem noch nicht gelöst. Auch wir in der Schweiz produzieren Abfälle, die sehr lange strahlen. Diese müssen laut Kernenergiegesetz grundsätzlich bei uns im Inland entsorgt werden, und zwar so, dass ein dauernder Schutz von Mensch und Umwelt gewährleistet ist.
@@ -26,25 +28,23 @@ Weil die zukünftigen Verhandlungen freiwillig sind, ist auch der nun vorliegend
 
 ## Weiterführende Informationen
 
-Dieser Prozess entsprach dem, was wir «multilaterale Verhandlung» nennen – mit all ihren Herausforderungen und Schwierigkeiten. Es war wichtig, einen engen Kontakt zu allen Beteiligten während des gesamten Prozesses zu halten, aus einer neutralen Position heraus zu vermitteln und immer aktiv neue Ideen bereit zu haben. Oft kann eine gute neue Idee eine scheinbar verfahrene Situation wieder auflösen.
-
 Ein Beispiel dafür ist die Rolle der deutschen Regionen am Verhandlungsprozess, deren Mitwirkung anfänglich umstritten war. Wir haben den Einbezug der deutschen Nachbargemeinden durch einen zusätzlichen Sitz in der Delegation der Schweizer Gemeinden vorgeschlagen. Dadurch wurde die Sitzzahl der Schweizer Gemeinden nicht reduziert. Ein Vorschlag, den schliesslich alle Beteiligten akzeptierten.
-
-## Zu den Autoren
 
 Am Ende ist es gelungen, einen Verhandlungsrahmen von allen beteiligten Parteien verabschieden zu lassen. Am 22. September haben 20 Personen ihre Unterschrift unter das Dokument gesetzt. Dadurch können die Verhandlungen zum gegeben Zeitpunkt gut aufgenommen werden. Zudem hat der Prozess eine Basis des Dialogs gelegt und Vertrauen zwischen den betroffenen Parteien geschaffen. Eine essentielle Voraussetzung für die Lösung solch einer Aufgabe von nationaler Bedeutung.
 
-Michael Ambühl hat diesen Beitrag zusammen mit Tobias Langenegger verfasst.
+## Zu den Autoren
 
-## Zukunftsblog reloaded
+Michael Ambühl hat diesen Beitrag zusammen mit Tobias Langenegger verfasst.
 
 Medienmitteilung externe Seite BFE
 
+## Zukunftsblog reloaded
+
 Professor für Verhandlungsführung und Konfliktmanagement,
 
-## Wählen Sie
-
 Weitere Informationen zur Person
+
+## Wählen Sie
 
 Doktorand an der Professur für Verhandlungsführung und Konfliktmanagement,
 

@@ -1,5 +1,7 @@
 # fussball-em-jetzt-beim-eth-tippspiel-mitmachen
 
+**Source:** de_internal/2021/05/fussball-em-jetzt-beim-eth-tippspiel-mitmachen.html
+
 ## Mitmachen beim ETH-Tippspiel
 
 - Registrieren und Tipp abgeben auf «Point»

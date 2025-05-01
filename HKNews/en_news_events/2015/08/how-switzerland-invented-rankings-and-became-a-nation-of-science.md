@@ -1,5 +1,7 @@
 # how-switzerland-invented-rankings-and-became-a-nation-of-science
 
+**Source:** en_news_events/2015/08/how-switzerland-invented-rankings-and-became-a-nation-of-science.html
+
 ## Die Naturforschenden
 
 ETH News: In your book «Die Naturforschenden» [The Natural Scientists], you write that Switzerland has been regarded as one of the most successful science nations since the 18th century. What are the historical bases of that success? Schär: That's a difficult question for historians to answer, because it depends on how "success" is defined. These definitions are subject to the vicissitudes of historical change. As historians we can say this: the history of scientific definitions of success and scientific rankings is, to an astonishing degree, associated with the history of Swiss science.
@@ -18,9 +20,9 @@ The ETH library image archive has a photo showing another polar researcher, Alfr
 
 Such mechanisms of international collaboration mixed with competition are still at play today: with ERC grants, for example, one still compares how many are won by Switzerland in relation to other countries. Schär: The criteria that define what makes a successful science nation have naturally changed since the 19th century. But what has remained is the simultaneous cooperation and competition within the international scientific system. The Swiss natural sciences are still very much active in the international networks – not least in numerous projects in the southern hemisphere.
 
-## The natural sciences up close
-
 Bernhard C. Schär is a post-doctoral fellow with the Chair for History of the Modern World at ETH Zurich. His research focusses on the history of the sciences and colonial history and the global history of Switzerland. Most recently he published work on Swiss natural scientists during the period of Dutch colonial imperialism in South-east Asia around the turn of the 20th century.
+
+## The natural sciences up close
 
 Lea Pfäffli is a doctoral student with the Chair for History of Technology. Her research concentrates on the history of polar exploration, its material culture and global circulation. Most recently she worked on an exhibition on the history of knowledge in German studies.
 
@@ -37,4 +39,6 @@ Insights into time and change. (Photo: SCNAT)
 The Swiss Academy of Sciences (SCNAT) is celebrating its 200th anniversary under the motto «The natural sciences up close»: through Saturday 15 August 2015, installations, guided tours and lectures on the world of the natural sciences will be open to the public at locations throughout Zurich.
 
 The programme also includes tours and lectures at ETH Zurich, for example in the Entomological Collection, at focusTerra, about the earthquakes in Switzerland, in the image archive of the ETH Bibliothek, or about quarks, Higgs and leptons.
+
+For a personal experience of the world of science, there is also the ScienceGuide , the downloadable app for science activities in Switzerland.
 

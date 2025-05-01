@@ -1,5 +1,7 @@
 # blog-we-should-not-underestimate-the-increasingly-warm-summer-temperatures
 
+**Source:** en_news_events/2024/07/blog-we-should-not-underestimate-the-increasingly-warm-summer-temperatures.html
+
 ## About the author
 
 What’s happened to the summer? I've been asked this question a lot over the past few weeks. Just like May, June was changeable, wet and lacking in sunshine. But it wasn’t too cold. According to MeteoSwiss, the average daily temperature in June was still 0.4 degrees Celsius warmer than the average for the current reference period from 1991 to 2020. 1

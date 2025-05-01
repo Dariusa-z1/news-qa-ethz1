@@ -1,5 +1,7 @@
 # netto-null-braucht-einen-plan
 
+**Source:** de_news_events/2021/10/netto-null-braucht-einen-plan.html
+
 ## Massgebend ist das CO2-Budget
 
 Nach dem Scheitern des CO 2 -Gesetzes im Juni steht die Schweizer Politik vor grossen Herausforderungen. Einerseits soll das Zwischenziel von 50 Prozent Reduktion der Treibhausgase bis 2030 weiterhin erreicht werden. Wie, ist man sich noch nicht einig. Andererseits steht die Abstimmung zur Gletscher-Initiative an. Diese verlangt, das Ziel «Netto Null 2050» in die Verfassung zu schreiben. Damit dürfte die Schweiz ab 2050 nicht mehr Treibhausgase ausstossen, als natürliche und technische CO 2 -Senken aufnehmen können.

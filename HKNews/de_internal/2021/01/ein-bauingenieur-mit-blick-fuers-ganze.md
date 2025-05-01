@@ -1,5 +1,7 @@
 # ein-bauingenieur-mit-blick-fuers-ganze
 
+**Source:** de_internal/2021/01/ein-bauingenieur-mit-blick-fuers-ganze.html
+
 ## Der Professor, der aus der Praxis kam
 
 Gross vorstellen muss man Thomas Vogel nicht. Man kennt ihn an der ETH – und auch ausserhalb der Hochschule. Vogel ist Spezialist für Baustatik und Stahlbetonkonstruktionen. Brückenbau ist sein engeres Gebiet. Er erforscht, was Tragwerke sicher und langlebig macht. Als Hochschullehrer hat er Generationen von Studierenden in die Kunst des konstruktiven In­ge­nieur­baus eingeführt. Stürzt irgendwo ein grösseres Bauwerk ein, klingelt Vogels Telefon. Seine Expertise ist in der Fachwelt und bei Medien gefragt.
@@ -49,8 +51,6 @@ Es überrauscht kaum, dass Vogel von Anfang an auch übergeordnete Aufgaben übe
 Wunderli-Allensbach überzeugte ihn dann, dass seine Erfahrung als Doktorvater und Studiendelegierter durchaus reichen würde. Vogel amtete als Prorektor Doktorat auch ohne Doktortitel erfolgreich acht Jahre lang unter drei Rektorinnen und Rektoren.
 
 Im letzten Sommer gab Vogel sein bisher jüngstes Amt als Vorsteher des Departements Bau, Umwelt und Geomatik ab.
-
-Nach 28 Jahren geht seine akademische Karriere nun zu Ende. «Für mich war es immer ein grosses Privileg, an der ETH Zürich studieren und arbeiten zu dürfen», blickt Vogel zurück. Das Schönste sei für ihn, dass man oft mit jungen, motivierten Menschen in Kontakt ist. Diese positive Grundstimmung auf dem Campus hat er in den letzten Monaten im Homeoffice vermisst.
 
 Der Arbeit hat er indessen nicht alles geopfert: «Es gab für mich auch ein Leben neben der ETH», erzählt er. Zusammen mit seiner Frau geniesst er Fluss- und Kanalfahrten auf dem Hausboot. Dann arbeitet er leidenschaftlich gern mit Holz. In einem Sabbatical entdeckte er das Saxofon. Seit elf Jahren spielt er in der Big Band Zürich. Vogel liebt den Wald und seinen Garten. Als weiteres Hobby kam kürzlich die Imkerei dazu.
 

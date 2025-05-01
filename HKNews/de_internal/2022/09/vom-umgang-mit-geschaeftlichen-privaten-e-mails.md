@@ -1,5 +1,7 @@
 # vom-umgang-mit-geschaeftlichen-privaten-e-mails
 
+**Source:** de_internal/2022/09/vom-umgang-mit-geschaeftlichen-privaten-e-mails.html
+
 ## Änderungen in der E-Mail-Archivierung
 
 - die Geschäftsunterlagen in der Dokumentenablage schnell und zuverlässig zu finden.

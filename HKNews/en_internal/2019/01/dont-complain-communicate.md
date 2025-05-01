@@ -1,5 +1,7 @@
 # dont-complain-communicate
 
+**Source:** en_internal/2019/01/dont-complain-communicate.html
+
 ## Main article
 
 André Blanchard, you spent over 11 years as PeKo President. Did it ever bother you that the Staff Commission’s work is hardly ever noticed within ETH?
@@ -19,8 +21,6 @@ Were there failures along the way?
 AB: Actually there weren’t. Although sometimes we didn’t make progress as quickly as we would have liked; for example, regarding the support of internal job changes. We think that applications from within ETH should be granted a slight advantage in terms of time.
 
 In the last few months there have been allegations regarding isolated cases of abuse of power in employee management, particularly in relation to doctoral supervision. How does the PeKo see its role in this matter?
-
-AB: We are a possible first point of contact. When technical and administrative staff are involved, we listen, advise and pass on reports to the relevant offices if desired. Incidentally, the fact that members of the administrative and technical staff can now be given the role of ombudsperson as well as professors is also down to the PeKo.
 
 CS: Unfortunately, malpractice and abuse can happen anywhere. Professors need autonomy – it is crucial to their success. But it goes without saying that ethical principles apply to everyone. If we are now looking to develop measures to improve the management culture here, it is important for ETH that undergraduates, postgraduates, technical and administrative staff and professors work together to come up with solutions.
 

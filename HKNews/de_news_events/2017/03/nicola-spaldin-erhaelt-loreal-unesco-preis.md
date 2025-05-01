@@ -1,5 +1,7 @@
 # nicola-spaldin-erhaelt-loreal-unesco-preis
 
+**Source:** de_news_events/2017/03/nicola-spaldin-erhaelt-loreal-unesco-preis.html
+
 ## Main article
 
 Bereits zum 19. Mal wird der L’Oréal-Unesco-Preis For Women in Science in Paris verliehen. Mit der Auszeichnung sollen herausragende Forscherinnen aus der ganzen Welt geehrt und gefördert werden. Nicola Spaldin, ETH-Professorin am Departement für Materialwissenschaften, erhält den begehrten Award für die Region Europa. Die Forschung der britischen Wissenschaftlerin legt die theoretischen Grundlagen für das Verständnis und die Entwicklung sogenannter multiferroischer Materialien. Diese zeichnen sich durch die einzigartige Eigenschaft aus, gleichzeitig magnetisch und elektrisch zu sein. An ihrem Forschungsgebiet fasziniere sie vor allem die Interdisziplinarität – die Verbindung von Physik, Chemie und Materialeigenschaften, wie Spaldin bei früherer Gelegenheit in den ETH-News sagte.

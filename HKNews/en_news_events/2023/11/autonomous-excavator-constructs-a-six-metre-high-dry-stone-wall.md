@@ -1,5 +1,7 @@
 # autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall
 
+**Source:** en_news_events/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html
+
 ## In brief
 
 - Until today, dry stone wall construction has involved vast amounts of manual labour.

@@ -1,5 +1,7 @@
 # blog-anthony-patt-energiesparen
 
+**Source:** en_news_events/2018/12/blog-anthony-patt-energiesparen.html
+
 ## A drop in the ocean
 
 During the summer heat wave of 2018, the Swiss media reported that the elderly were especially suffering. In order to achieve the climate policy goals, there was no possibility to turn on air conditioning in Zürich homes for the elderly. 1 Reducing energy consumption is good. But does climate protection demand that people suffer, even the elderly, when the temperature goes high? The standard answer seems to be yes. The logic is simple. Most of the energy people use comes from fossil fuels, which are the main cause of climate change. So it would seem logical that people need to use less energy.

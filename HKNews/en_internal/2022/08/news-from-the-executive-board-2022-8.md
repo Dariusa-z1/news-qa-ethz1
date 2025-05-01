@@ -1,5 +1,7 @@
 # news-from-the-executive-board-2022-8
 
+**Source:** en_internal/2022/08/news-from-the-executive-board-2022-8.html
+
 ## New continuing education programme: CAS ETH in Climate Innovation
 
 - Kathrin Teuscher, lawyer (existing): Re-elected for a regular term of four years.

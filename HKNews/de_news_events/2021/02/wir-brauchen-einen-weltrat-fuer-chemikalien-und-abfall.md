@@ -1,5 +1,7 @@
 # wir-brauchen-einen-weltrat-fuer-chemikalien-und-abfall
 
+**Source:** de_news_events/2021/02/wir-brauchen-einen-weltrat-fuer-chemikalien-und-abfall.html
+
 ## Es gibt Fortschritte, doch das reicht nicht
 
 Chemikalien sind das Schmiermittel der modernen Welt. Doch die Welt geht mit Chemikalien höchst unzureichend um. In den letzten Jahrzehnten nahmen die Anzahl und Vielfalt der gehandelten Chemikalien stark zu – heute sind es einige hunderttausend Substanzen. Bei mehr als einem Drittel davon kennt man die chemischen Eigenschaften nur schlecht und weiss nicht, wie giftig sie sind. Mindestens drei Prozent aller Chemikalien haben gefährliche Eigenschaften. 1

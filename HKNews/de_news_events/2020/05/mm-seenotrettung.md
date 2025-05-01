@@ -1,5 +1,7 @@
 # mm-seenotrettung
 
+**Source:** de_news_events/2020/05/mm-seenotrettung.html
+
 ## None
 
 Jedes Jahr ertrinken bei Schiffsunfällen oder Flugzeugabstürzen hunderte Menschen auf dem offenen Meer. Seenotrettern bleibt nur wenig Zeit, Menschen zu bergen, die auf dem Wasser treiben, denn die Wahrscheinlichkeit, eine Person lebend zu finden, sinkt nach sechs Stunden signifikant. Neben den Gezeiten und wechselhaften Wetterbedingungen erschweren instabile Küstenströmungen die Rettungsaktionen.

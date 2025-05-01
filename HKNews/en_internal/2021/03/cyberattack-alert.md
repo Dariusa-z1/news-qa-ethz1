@@ -1,5 +1,7 @@
 # cyberattack-alert
 
+**Source:** en_internal/2021/03/cyberattack-alert.html
+
 ## This is CEO fraud
 
 - “Hello are you free at the moment? I need your assistance urgently.”
@@ -36,31 +38,25 @@ ETH recorded a rise in cyberattacks last year. A particularly insidious form of 
 
 ## How CEO fraud often plays out
 
-Fraudsters often get hold of codes of Google Play or Apple Store gift cards, which the employees buy in good faith with their own money. They do this by preying on their victims’ sense of urgency – putting them under pressure, and leaving them no time to think. Victims are contacted by name and their willingness to help is surreptitiously exploited.
+Such attacks are carefully prepared. “Whereas previously phishing emails could easily be spotted by their typos, fraudsters now do extensive internet research,” says Domenico Salvati, Chief Information Security Officer at ETH Zurich. These days, the supervisor’s name is neatly placed above the email address, the address details are copied into the footer, and sometimes even a second email address is created that appears to be the supervisor’s private address.
 
 ## What can I do to prevent this?
 
-Such attacks are carefully prepared. “Whereas previously phishing emails could easily be spotted by their typos, fraudsters now do extensive internet research,” says Domenico Salvati, Chief Information Security Officer at ETH Zurich. These days, the supervisor’s name is neatly placed above the email address, the address details are copied into the footer, and sometimes even a second email address is created that appears to be the supervisor’s private address.
+ETH employee X receives an email request, which seems to have been sent by the supervisor:
 
 ## I’ve received a phishing email. What should I do?
 
-ETH employee X receives an email request, which seems to have been sent by the supervisor:
+Employee X: “Yes, I’m free now. What can I do to help you? ”
 
 ## A little suspicion is no bad thing
 
-Employee X: “Yes, I’m free now. What can I do to help you? ”
+Employee X: “Yes, there are several close by.”
 
 ## Subscribe to Newsletter
 
-Employee X: “Yes, there are several close by.”
-
-## Staffnet
-
 Employee X, a little later: “I’ve got the cards. And here are the photos of the numbers.”
 
-Particularly now, when many of us working from home have no direct contact with colleagues and can’t check up on things easily, it’s wise to be cautious.
-
-Online scammers are sneaky, and skilled at using human nature to set up contact. That’s why it’s crucial always to be alert, especially when working from home. If we deal openly with this issue and warn others, scammers will have a much harder time of it.
+## Staffnet
 
 You’ll find more on CEO fraud, phishing and internet fraud on the IT Services website , under information security and awareness.
 

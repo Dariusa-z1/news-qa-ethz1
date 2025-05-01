@@ -1,5 +1,7 @@
 # bernauer-koubi-klimawandel-migration
 
+**Source:** de_news_events/2018/02/bernauer-koubi-klimawandel-migration.html
+
 ## Flüchtlingsströme nach Europa?
 
 Die Erderwärmung wirkt sich zunehmend negativ auf Menschheit und Ökosysteme aus. Während sich Wissenschaftler über die meisten dieser Folgen 1 einig sind, gehen die Meinungen darüber, wie der Klimawandel das menschliche Migrationsverhalten beeinflusst, weit auseinander. Verschiedene führende Politiker, internationale Organisationen und Wissenschaftler behaupten, der Klimawandel werde international zu grossen Migrationsströmen führen, hauptsächlich aus den armen in die reichen Länder.

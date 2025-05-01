@@ -1,5 +1,7 @@
 # news-from-the-executive-board-2022-1
 
+**Source:** en_internal/2022/01/news-from-the-executive-board-2022-1.html
+
 ## New member of ETH Zurich’s ombuds office
 
 The ETH Zurich ombuds office offers advice to members of the ETH community who are having difficulties or conflicts in the workplace or during studies, and handles reports of suspected illegal actions. At least three ombudspersons must be appointed to this office. As a rule, they are elected for a term of four years.
@@ -43,8 +45,6 @@ Since 2003, the ETH Foundation has been promoting research, teaching and knowled
 In accordance with its mission, the ETH Foundation focuses on supporting projects of strategic importance to ETH. These might be new professorships or larger, mostly interdisciplinary initiatives and projects. As a secondary activity, it proposes projects of lesser strategic importance to donors or seeks individual solutions.
 
 ## Staffnet
-
-The goal is first and foremost to propose major projects and initiatives to the ETH Foundation, and so the Executive Board is establishing a simple and transparent process. To this end, it has formed a committee of members from the various staff units and departments, chaired by the Office of the President. The committee coordinates project preparation, serves as the first point of contact for ETH employees and, if necessary, also assists the ETH Foundation in finding projects that match the individual wishes of donors.
 
 The Executive Board has approved a new training concept for the Safety, Security, Health and Environment department ( SSHE ). This concept lays the foundation for all members of the ETH community to be aware of the safety and security basics at ETH and to act accordingly.
 

@@ -1,5 +1,7 @@
 # flipped-classroom
 
+**Source:** de_news_events/2016/12/flipped-classroom.html
+
 ## Individuellere Unterrichtsgestaltung
 
 «Versuchen Sie so viel wie möglich miteinander zu diskutieren», ermutigt Katja Köhler, Dozentin am Departement Biologie, die rund 500 Studierenden des ersten Semesters zu Beginn der Vorlesung. Normalerweise wird das Sprechen während dem Unterricht nicht gerne gesehen, im Flipped Classroom zum Thema «Genetische Variabilität» ist es jedoch ausdrücklich erwünscht.

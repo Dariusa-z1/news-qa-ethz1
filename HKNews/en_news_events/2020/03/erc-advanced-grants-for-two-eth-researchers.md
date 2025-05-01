@@ -1,5 +1,7 @@
 # erc-advanced-grants-for-two-eth-researchers
 
+**Source:** en_news_events/2020/03/erc-advanced-grants-for-two-eth-researchers.html
+
 ## European research is more important than ever
 
 Although much of Europe is currently at a standstill, the European Research Council (ERC) has announced the names of the researchers who will receive an ERC Advanced Grant this year. These include two researchers from ETH: microbiologist Julia Vorholt and pharmacologist Jean-Christophe Leroux will each receive some 2.58 million Swiss francs in funding for their projects.
@@ -23,6 +25,4 @@ Jean-Christophe Leroux is a professor of Drug Formulation and Delivery at the De
 Julia Vorholt , Professor of Microbiology, has been awarded a second ERC Advanced Grant. Her new project focuses on ways to impart specific abilities to cells. Vorholt takes her inspiration from a partnership between single-celled organisms that was rare – but extremely successful – in the evolution of life: cells living symbiotically within other cells in a process known as endosymbiosis. Over the course of evolution, this gave rise to organelles – separate compartments with their own metabolic functions inside higher cells. The relics of this coexistence include mitochondria, which act as the powerhouses of cells, and chloroplasts, which conduct photosynthesis. With her research group, Vorholt now wants to develop artificial compartments in order to introduce new metabolic characteristics into cells on a modular basis. Numerous biotechnology applications could benefit from this.
 
 ETH researchers have been successfully applying for EU funding – ERC Research Grants – since 2007, and more than 80 have now received an ERC Advanced Grant. In addition to the Advanced Grants, the European Research Council also annually awards Starting Grants to young researchers at the beginning of their careers and Consolidator Grants to more established researchers to further develop their own group. Furthermore, the numerous ERC Proof of Concept Grants (funding for the preparation of feasibility studies and business plans) awarded to ETH Zurich show that basic research is often used in market innovations with corresponding economic benefits.
-
-ETH Zurich Media relations Phone +41 44 632 41 41
 

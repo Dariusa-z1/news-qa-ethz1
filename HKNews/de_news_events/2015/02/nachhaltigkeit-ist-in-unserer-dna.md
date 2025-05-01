@@ -1,5 +1,7 @@
 # nachhaltigkeit-ist-in-unserer-dna
 
+**Source:** de_news_events/2015/02/nachhaltigkeit-ist-in-unserer-dna.html
+
 ## Grün ist nicht gleich grün
 
 Zunächst etwas Persönliches: Dies ist bis auf weiteres mein letzter Beitrag im ETH-Zukunftsblog. Nach meinem Doktorat in Umweltökonomie werde ich die ETH Zürich in Richtung Privatwirtschaft verlassen. Dieser Beitrag ist von dem Limbo zwischen den Welten inspiriert - von einer Jobmesse.

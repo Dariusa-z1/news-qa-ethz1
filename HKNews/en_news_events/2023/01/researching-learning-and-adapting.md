@@ -1,5 +1,7 @@
 # researching-learning-and-adapting
 
+**Source:** en_news_events/2023/01/researching-learning-and-adapting.html
+
 ## Machine-made meteorologists
 
 In autumn 2014, Iceland’s Holuhraun volcano erupted, spewing daily about 120,000 tonnes of sulphur dioxide into the air at its peak. A thick belt of tiny particles, also known as aerosols - a notorious air pollutant, formed in the atmosphere above this otherwise virtually unspoiled region. This volcanic eruption served as a very good natural experiment that allowed climate researchers to study how the sudden upwelling of particulate matter affected clouds. “Since aerosols can promote the formation of cloud droplets, they are an important factor in projecting climate change but we still know very little about it,” Wang explains. Since September 2021, the 30-year-old environmental scientist has been an ETH Zurich Fellow at the university’s Institute for Atmospheric and Climate Science, working as a member of the group run by Ulrike Lohmann, Professor of Atmospheric Physics.

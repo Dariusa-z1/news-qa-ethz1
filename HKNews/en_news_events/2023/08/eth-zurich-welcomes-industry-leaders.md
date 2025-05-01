@@ -1,5 +1,7 @@
 # eth-zurich-welcomes-industry-leaders
 
+**Source:** en_news_events/2023/08/eth-zurich-welcomes-industry-leaders.html
+
 ## Digitalisation and security
 
 - Prof. Verena Zimmermann: Focusing on the Human Factors in Cybersecurity

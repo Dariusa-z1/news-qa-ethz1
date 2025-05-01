@@ -1,5 +1,7 @@
 # ein-platz-an-der-sonne
 
+**Source:** de_news_events/2017/03/ein-platz-an-der-sonne.html
+
 ## Meteoriten aus Berner Museum
 
 Der unscheinbare, kleine Stein, der mit Hightech-Methoden analysiert wurde, heisst Jiddat al Harasis 466. Er hat einen weiten Weg zurückgelegt, bevor er in die Erdatmosphäre eintrat und in der Wüste von Oman landete. «Wir nehmen an, dass Jiddat al Harasis 466 vor vier Millionen Jahren entstanden ist als Trümmerteil eines Zusammenstosses zweier grösserer Brocken im Asteroidengürtel zwischen Mars und Jupiter», sagt Antoine Roth, Forscher am Institut für Geochemie und Petrologie der ETH Zürich. Die Reise vom Asteroidengürtel zur Erde legte der Stein schnell zurück. Beim Atmosphäreneintritt wurde er stark erhitzt, so dass er viel von seinem Material verlor. Das Stück, das ursprünglich einen Radius von zwei Zentimeter hatte, endete als Ein-Zentrimeter-Meteorit.

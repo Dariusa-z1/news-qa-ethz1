@@ -1,5 +1,7 @@
 # sicherheitsluecke-bei-intel-entdeckt
 
+**Source:** de_news_events/2021/10/sicherheitsluecke-bei-intel-entdeckt.html
+
 ## Kein Grund zur Panik, aber eine Lektion
 
 Vor wenigen Jahren hat Intel, der weltweit führende Anbieter von PC-Mikroprozessoren, eine Neuerung eingeführt, die grössere Datensicherheit verspricht: Sogenannte Software Guard Extensions (SGX). Dabei handelt es sich um hardwarebasierte Kontrollmechanismen, welche dafür sorgen, dass Daten auch dann sicher sind, wenn das Betriebssystem eines Computers lückenhaft sein bzw. angegriffen werden sollte. «Betriebssysteme müssen eine riesige Zahl an Funktionen erfüllen und sind hochkomplex», erklärt Shweta Shinde, Assistenzprofessorin am Departement Informatik der ETH Zürich. Darum mache es Sinn, Anwendungen mit sensiblen Daten quasi vom Betriebssystem abzuschirmen. Die Software Guard Extensions ermöglichen dies mittels sogenannter Enklaven: Gewisse Bereiche dienen dem Schutz des Programmcodes jener Anwendungen, auf die das Betriebssystem nicht zugreifen können soll.

@@ -1,5 +1,7 @@
 # informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-31-august-2020
 
+**Source:** de_internal/2020/08/informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-31-august-2020.html
+
 ## Maskenpflicht ab dem 24. August 2020
 
 - ETH-Bibliothek Hauptgebäude (InfoCenter): Mo–Fr 8.00–20.00, Sa und So 9.00–17.00
@@ -48,11 +50,7 @@ Museen und Ausstellungen öffnen im September wieder.
 
 Im Herbst finden zahlreiche Veranstaltungen statt, aufgrund der Schutzmassnahmen jedoch zum Teil virtuell. Bitte beachten Sie die Hinweise und Details dazu im Veranstaltungskalender .
 
-Nutzen Sie gerne auch weiterhin unsere digitalen Angebote und Kontaktmöglichkeiten . Verzichten Sie bitte auf einen Besuch, falls Sie zu einer Risikogruppe gehören oder Krankheitssymptome aufweisen.
-
 Fragen? Die ETH-Bibliothek hilft gerne.
-
-E-Mail: Sie können uns auch über externe Seite WhatsApp und unseren Chat kontaktieren.
 
 #MehrWissen – Die aufbereiteten Inhalte der ETH-Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter.
 

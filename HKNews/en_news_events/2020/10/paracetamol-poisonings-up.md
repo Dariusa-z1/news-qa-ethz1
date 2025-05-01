@@ -1,5 +1,7 @@
 # paracetamol-poisonings-up
 
+**Source:** en_news_events/2020/10/paracetamol-poisonings-up.html
+
 ## It’s important to consult a professional
 
 Paracetamol (acetaminophen) is a popular source of pain relief. In Switzerland, it is available over the counter in 500 milligram tablets, but also in double the dose, in 1,000 milligram (1 gram) tablets when prescribed by a physician. Researchers at ETH Zurich have now investigated whether the availability of the higher-dose tablets could be linked to the increased incidence of paracetamol poisoning, concluding that it is.

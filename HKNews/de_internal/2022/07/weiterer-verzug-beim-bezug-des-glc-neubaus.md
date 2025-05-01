@@ -1,8 +1,8 @@
 # weiterer-verzug-beim-bezug-des-glc-neubaus
 
-## Main article
+**Source:** de_internal/2022/07/weiterer-verzug-beim-bezug-des-glc-neubaus.html
 
-Für Lehre, Forschung und Zusammenarbeit an der ETH Zürich ist die inzwischen mehrfach verschobene Gebäudeübergabe in vielerlei Hinsicht eine grosse Belastung. Die Abteilung Immobilien steht in ständigem Kontakt mit den betroffenen Departementen und ihren Forschungsgruppen, damit der negative Einfluss der Verzögerungen auf Lehre und Forschung so gering wie möglich ausfällt. Hauptgrund für die weitere Verzögerung ist, dass die Bauarbeiten nur langsam vorankommen. Die Inbetriebnahme des Neubaus kann deshalb nicht wie geplant noch in diesem Jahr stattfinden. Aus Sicht der ETH Zürich als Bauherrin handelt es sich um ein Verschulden der Generalunternehmerin.
+## Main article
 
 Ein zentraler Bestandteil der ausstehenden Arbeiten betrifft das Überprüfen des komplexen Zusammenspiels von Gebäude- und Labortechnik auf den rund 12'000 Quadratmetern grossen Labor-, Büro- und Seminarflächen. «Um einen reibungslosen Betrieb in dem Neubau zu gewährleisten, ist es enorm wichtig, die Technik vor dem Einzug der Forschungsgruppen sorgfältig zu prüfen sowie das Zusammenspiel auf Herz und Nieren zu testen», sagt Daniel Bucheli, Direktor der Abteilung Immobilien, «dennoch sind wir bestrebt, das Gebäude schnellstmöglich für Lehre und Forschung zur Verfügung zu stellen. Die durch den Verzug entstandenen Unannehmlichkeiten bedauern wir sehr.»
 

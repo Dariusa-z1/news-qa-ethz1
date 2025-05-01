@@ -1,5 +1,7 @@
 # autonomous-robot-dogs-drones-and-racing-cars
 
+**Source:** en_news_events/2023/08/autonomous-robot-dogs-drones-and-racing-cars.html
+
 ## Main article
 
 The video presents three of these projects: autonomous racing, autonomous drones and robotic dogs. These projects are not only a good learning experience for the students, but can also be applied in practice, for example to support the visually impaired or to reach places that are difficult for humans to access during natural disasters.

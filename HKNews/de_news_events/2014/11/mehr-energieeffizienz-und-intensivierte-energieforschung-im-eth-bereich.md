@@ -1,5 +1,7 @@
 # mehr-energieeffizienz-und-intensivierte-energieforschung-im-eth-bereich
 
+**Source:** de_news_events/2014/11/mehr-energieeffizienz-und-intensivierte-energieforschung-im-eth-bereich.html
+
 ## ETH-Bereich: Mehr Energieeffizienz
 
 Die Bundesverwaltung, der ETH-Bereich und die bundesnahen Unternehmen haben bei der Nutzung von Umwelt- und Energieressourcen eine Vorbildfunktion. Zusammen sind sie für rund zwei Prozent des schweizerischen Energieverbrauchs verantwortlich. Seit einigen Jahren sind die Bundesverwaltung, SBB, Post, Swisscom und Skyguide daran, die Energieeffizienz zu erhöhen und den Energieverbrauch zu senken. Diese Anstrengungen sollen in Zukunft weiter intensiviert werden.

@@ -1,5 +1,7 @@
 # was-denkt-die-bevoelkerung-ueber-die-verantwortung-der-konzerne
 
+**Source:** de_news_events/2019/05/was-denkt-die-bevoelkerung-ueber-die-verantwortung-der-konzerne.html
+
 ## Zustimmung zu strengen Gesetzen
 
 In gut zwei Wochen behandeln National- und Ständerat gemeinsam die Konzernverantwortungsinitiative. Zur Debatte steht, ob Unternehmen mit Sitz, Hauptverwaltung oder Hauptniederlassung in der Schweiz die Menschenrechte und Umweltstandards bei ihrer Geschäftstätigkeit im In- und Ausland per Gesetz einhalten müssen und künftig auch für Schäden, die sie im Ausland verursachen, vor Schweizer Gerichten haftbar gemacht werden können. Letzteres wird ein zentrales Thema sein, wenn das Parlament über einen Gegenentwurf zur Initiative entscheidet.
@@ -35,4 +37,6 @@ Die Studie von Bernauers Team zeigt, dass der öffentliche Druck auf Wirtschaft 
 «Die starke Nachfrage nach staatlicher Intervention und Zustimmung für die Konzernverantwortungsinitiative sind Indizien dafür, dass in der Bevölkerung ein Handlungsbedarf wahrgenommen wird», sagt Bernauer, «solange der Privatsektor nicht mit starken freiwilligen Massnahmen in diesem Bereich punkten kann und kein Gegenentwurf vorliegt, könnte die Initiative beim momentanen Stand der öffentlichen Meinung eine Mehrheit finden.»
 
 Kolcava D, Rudolph L, Bernauer T: Die Einstellung der Schweizer Bevölkerung zum Thema Unternehmensverantwortung im Ausland. Ergebnisse einer Bevölkerungsumfrage vom November 2018. ETH Zurich, Center for Comparative and International Studies. April 2019.
+
+PDF zum Herunterladen (PDF, 2.6 MB) .
 

@@ -1,5 +1,7 @@
 # completion-of-the-new-dining-facilities-is-delayed%20
 
+**Source:** en_internal/2016/01/completion-of-the-new-dining-facilities-is-delayed%20.html
+
 ## Main article
 
 Staff and students of ETH Zurich will be able to visit two new dining facilities this year: a food market with three different counters is opening on 9 May 2016 in the converted HPR building. The market will offer a selection of vegetarian dishes, a pizza and pasta counter, and options from the grill. Catering will be managed by the SV Group.

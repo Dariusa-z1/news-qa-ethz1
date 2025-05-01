@@ -1,5 +1,7 @@
 # renewed-article-search-on-the-knowledge-portal
 
+**Source:** en_internal/2014/10/renewed-article-search-on-the-knowledge-portal.html
+
 ## Main article
 
 For the article search the metadata from scientific information resources is integrated in one single search.

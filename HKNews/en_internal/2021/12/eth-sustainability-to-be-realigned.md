@@ -1,5 +1,7 @@
 # eth-sustainability-to-be-realigned
 
+**Source:** en_internal/2021/12/eth-sustainability-to-be-realigned.html
+
 ## Air travel and ETH Week to switch Executive Board domain
 
 - The ETH Week, which sees students working together in interdisciplinary teams for a week at a time on a socially relevant topic, has been assigned wholly to the Rectorate as of 1 January 2022.

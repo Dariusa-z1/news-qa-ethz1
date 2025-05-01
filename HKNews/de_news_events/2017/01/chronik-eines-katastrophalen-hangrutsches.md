@@ -1,5 +1,7 @@
 # chronik-eines-katastrophalen-hangrutsches
 
+**Source:** de_news_events/2017/01/chronik-eines-katastrophalen-hangrutsches.html
+
 ## Die Bewegung pflanzt sich fort
 
 Dass die Moosfluh-Bahn trotz beweglichem Fundament ihrer Bergstation im letzten Herbst den Betrieb vorübergehend einstellen musste, sagt viel über die dramatischen Ereignisse, die sich im Aletschgebiet abspielen. Seit Jahren ist die Moosfluh, der Hang, der an den Aletschgletscher grenzt, in Bewegung. In zuvor nie gekanntem Tempo gleitet die gesamte Böschung von rund einem Quadratkilometer Ausdehnung talwärts. Geowissenschaftler können nun belegen, dass die Instabilität dieses Hangs direkt mit dem Rückgang des Gletschereises und damit dem Klimawandel zusammenhängt. Dabei stützen sich die Forscher auf einen einzigartigen Datensatz. Um Messdaten zu erheben, setzten die Forscher verschiedene Messinstrumente und -systeme ein. Sie verwendeten Laserscanner aus der Luft und vom Boden aus, Radar- und GPS-Messungen. Auch werteten sie Satelliten- und alte Messdaten (der Gletscherhöhe und –länge) sowie Landeskarten aus.

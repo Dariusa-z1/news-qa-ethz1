@@ -1,5 +1,7 @@
 # from-complex-data-to-simple-images
 
+**Source:** en_news_events/2020/01/from-complex-data-to-simple-images.html
+
 ## Presenting key data characteristics in a simple way
 
 Mariëlle van Kooten feels quite at home on stage – that is obvious just a few seconds into her appearance at the Falling Walls Lab. She projects confidence and jokes with the audience, a style that is in tune with the project she is presenting. The ETH systems biologist wants to make something sexy that is actually completely unsexy: the analysis of vast quantities of complex genetic and medical data. Her goal here is to facilitate the early detection, prevention and treatment of diseases.
@@ -33,6 +35,8 @@ So does she have time for anything else, such as hobbies? “Please don’t ask 
 In the meantime, she is continuing to develop the SciSwipe app. Her next task is to simplify the image data, such as MRI and CT images. “We need to come up with something new here that allows us to convert the images so that non-specialists can interpret them as well,” she says. Although she does have an idea how to do this, she is not giving anything away. As soon as SciSwipe is capable of handling four different types of data, the beta version of the app will be released to the public.
 
 Van Kooten says that her many different activities – her doctoral thesis, the refinement of her app and the new start-up – can continue alongside each other at present. She is happy that she does not have to decide for one or the other. She thinks the various opportunities are much too exciting for her to settle on a specific direction already.
+
+The Falling Walls Lab is part of the influential Falling Walls conference in Berlin organised every year on 9 November to mark the anniversary of the fall of the Berlin Wall. The reference to such an iconic event is because the conference aims to break down walls in science and expand the knowledge horizon and the limits of what is feasible. Falling Walls not only includes the Lab presentations, but also the Falling Walls Venture, where research start-ups across the globe have the chance to introduce themselves, and the Falling Walls Circle, a gathering of 50 leaders invited from research organisations and companies.
 
 Falling Walls Lab video
 

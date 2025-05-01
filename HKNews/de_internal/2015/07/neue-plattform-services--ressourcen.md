@@ -1,5 +1,7 @@
 # neue-plattform-services--ressourcen
 
+**Source:** de_internal/2015/07/neue-plattform-services--ressourcen.html
+
 ## Main article
 
 Das bisherige Intranet wird Anfang August zur neuen Plattform «Services & Ressourcen» umgestaltet. Diese richtet sich primär an ETH-Mitarbeitende, enthält aber auch Informationen für externe Website-Besucherinnen und -Besucher.

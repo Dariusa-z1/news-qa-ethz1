@@ -1,5 +1,7 @@
 # plastikrecycling-soll-kein-selbstzweck-sein
 
+**Source:** de_news_events/2022/02/plastikrecycling-soll-kein-selbstzweck-sein.html
+
 ## Situation heute
 
 Das Recycling von Plastik ist im Trend. Die Sammelstellen eines städtischen Pilotprojekts in Zürich Höngg und Schwamendingen wurden mit Kunststoffverpackungen förmlich überfüllt¹, sogar aus anderen Quartieren brachten Menschen ihren Plastikabfall dorthin. Dieses Recyclingbedürfnis beruht oft auf der Ansicht, dass im Kreislauf geführte Materialien die Umweltfolgen unseres Konsums kompensieren können. Um diesen Zweck zu erfüllen, müssten unter anderem die recycelten Materialien zu einem grossen Teil Primärressourcen ersetzen.

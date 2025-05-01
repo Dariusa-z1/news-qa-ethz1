@@ -1,5 +1,7 @@
 # ultraschneller-magnetantrieb
 
+**Source:** de_news_events/2016/07/ultraschneller-magnetantrieb.html
+
 ## Bisherige Systeme haben zahlreiche Nachteile
 
 «Eigentlich ist daran nicht viel Neues», sagt Arda Tüysüz, Postdoc am Power Electronic Systems Laboratory (PES) der ETH Zürich bescheiden. Die Elektronik, die Magnetlagerung, das physikalische Grundprinzip – alles schon da gewesen. Aber diese Grundlagen in einem Hochgeschwindigkeitsantrieb zusammenzufügen, der massiv kleiner und energieeffizienter ist und um einen Faktor 20 mehr Umdrehungen als bisherige Modelle erzielt – das ist die Ingenieurskunst, die die PES-Forscher beherrschen. In Zusammenarbeit mit dem ETH-Spin-off Celeroton haben Tüysüz und Kollegen einen neuartigen magnetgelagerten Reaktionsradantrieb entwickelt, der mehr als 150‘000 Umdrehungen pro Minute erreicht.

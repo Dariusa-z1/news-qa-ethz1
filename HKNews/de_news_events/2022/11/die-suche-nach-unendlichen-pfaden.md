@@ -1,5 +1,7 @@
 # die-suche-nach-unendlichen-pfaden
 
+**Source:** de_news_events/2022/11/die-suche-nach-unendlichen-pfaden.html
+
 ## Kaffee kochen oder Antennen platzieren
 
 Barbara Dembin steht vor der Wandtafel in ihrem Büro im ETH-Hauptgebäude und zeichnet mit Kreide einen Kreis mit Beulen und Dellen – den Umriss eines Steins. «Wie dringt Wasser von aussen durch den Stein?», fragt sie und skizziert ein paar dünne Linien, die auf unterschiedliche Weise ins Kreisinnere führen. Um diese Frage zu beantworten, führe man einen Parameter ein, erklärt sie und malt ein «p» auf die Tafel. Der Parameter p entspricht der Dichte der Löcher im Stein, also der durchschnittlichen Zahl der Löcher in einem kleinen Gesteinsvolumen. Erreicht p einen bestimmten Schwellenwert, ist das Gestein porös und Wasser beginnt einzudringen.

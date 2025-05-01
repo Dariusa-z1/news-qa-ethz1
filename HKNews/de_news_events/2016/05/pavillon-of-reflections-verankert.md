@@ -1,5 +1,7 @@
 # pavillon-of-reflections-verankert
 
+**Source:** de_news_events/2016/05/pavillon-of-reflections-verankert.html
+
 ## Einmaliges Grossprojekt
 
 Der «Pavillon of Reflections» hat heute um halb sieben Uhr am Bellevue festgemacht. Für 100 Tage wird der Pavillon Dreh- und Angelpunkt für tausende Besucher der europäischen Kunstbiennale Manifesta 11 in Zürich sein. Zuvor zogen drei motorisierte Weidlinge unter den interessierten Blicken von Ruderern und Medienvertretern den Pavillon aus 150 Tonnen Holz und Stahl vom Mythenquai über den See zum Bellevue. Fast eine Stunde dauerte die Überfahrt, bei welcher der Bau wie ein überdimensioniertes Floss über den Zürichsee glitt. Damit findet ein einmaliges Grossprojekt mit 30 Studierenden des Departements Architektur der ETH Zürich seinen erfolgreichen Abschluss.

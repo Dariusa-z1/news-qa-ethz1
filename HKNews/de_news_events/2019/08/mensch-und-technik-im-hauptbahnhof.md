@@ -1,5 +1,7 @@
 # mensch-und-technik-im-hauptbahnhof
 
+**Source:** de_news_events/2019/08/mensch-und-technik-im-hauptbahnhof.html
+
 ## Rennen in vier Diszipinen
 
 Für Weltklasse Zürich haben die Events im Hauptbahnhof, die jeweils im Vorfeld des Leichtathletikmeetings im Letzigrund stattfinden, bereits eine lange Tradition. Nun präsentierte man erstmals zusammen mit dem Cybathlon einige Demonstrationswettkämpfe.

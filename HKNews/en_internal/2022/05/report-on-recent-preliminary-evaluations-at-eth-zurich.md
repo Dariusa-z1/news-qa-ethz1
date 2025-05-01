@@ -1,5 +1,7 @@
 # report-on-recent-preliminary-evaluations-at-eth-zurich
 
+**Source:** en_internal/2022/05/report-on-recent-preliminary-evaluations-at-eth-zurich.html
+
 ## No evidence of dereliction of duty or gender discrimination
 
 At the end of 2020, ETH President Joël Mesot asked the ETH Board to commission an independent report to clarify whether ETH Zurich had adhered to the university’s existing rules of procedure during their preliminary evaluations conducted in recent years into allegations of scientific misconduct. “The expert report was commissioned in response to a number of voices criticising our communication of individual cases of suspected scientific misconduct. With the report, the Executive Board wanted to verify whether we had acted correctly and where we needed to make improvements,” Joël Mesot says, outlining the reasons for requesting the review.

@@ -1,5 +1,7 @@
 # mixed-cultures-for-a-greater-yield
 
+**Source:** en_news_events/2021/06/mixed-cultures-for-a-greater-yield.html
+
 ## Applying an ecological principle
 
 Monocultures dominate arable land today, with vast areas given over to single elite varieties that promise a high yield. But planting arable land with just one type of crop has its disadvantages: these areas are easy game for fungal and insect pests, posing a threat to crops. To keep pests at bay, farmers are having to use resistant varieties and various pesticides.

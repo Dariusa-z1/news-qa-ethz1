@@ -1,5 +1,7 @@
 # suedpolarmeer-versuesst-wegen-meereistransport
 
+**Source:** de_news_events/2016/08/suedpolarmeer-versuesst-wegen-meereistransport.html
+
 ## Das Antarktische Eis wandert
 
 Langjährige Messungen des Salzgehaltes im Südpolarmeer zeigen, dass dieser während den letzten Jahrzehnten abgenommen hat. So stark wie in diesem Ozean hat sich der Salzgehalt in keinem anderen Meer verändert. Eine vollständige Erklärung dafür hatte die Forschung bislang nicht.

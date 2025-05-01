@@ -1,5 +1,7 @@
 # podcast-machine-learning-medicine
 
+**Source:** en_news_events/2020/08/podcast-machine-learning-medicine.html
+
 ## Main article
 
 ETH computer scientists Julia Vogt and Fanny Yang work in the field of Machine Learning and Medicine. While Fanny builds models, Julia applies the theories in different projects collaborating with hospitals. In the first podcast episode after the summer break they explain why machine learning is an important tool in medicine.

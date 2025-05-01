@@ -1,5 +1,7 @@
 # impact-of-selective-logging-in-tropical-forests-underestimated
 
+**Source:** en_news_events/2014/07/impact-of-selective-logging-in-tropical-forests-underestimated.html
+
 ## Selective logging a misleading concept
 
 Tropical trees are logged because of their highly prized timber – but logging is not always done by clearing an entire forest area, where valuable habitats for flora and fauna are completely destroyed. In many tropical rainforests, trees are also logged individually, a practice known as selective logging. This involves felling selected large, valuable trees while leaving the rest of the forest more or less intact. The impact of this practice on biodiversity, however, is debatable. Previous studies that tried to summarize the impact did not distinguish between different degrees of intensity of selective logging.

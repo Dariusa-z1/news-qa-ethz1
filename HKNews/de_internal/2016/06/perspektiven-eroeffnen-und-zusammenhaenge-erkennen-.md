@@ -1,5 +1,7 @@
 # perspektiven-eroeffnen-und-zusammenhaenge-erkennen-
 
+**Source:** de_internal/2016/06/perspektiven-eroeffnen-und-zusammenhaenge-erkennen-.html
+
 ## Main article
 
 Das Kursprogramm Science in Perspective/Wissenschaft im Kontext ist ein integraler Bestandteil des Studiums an der ETH Zürich. Es eröffnet neue Perspektiven auf die Natur- und Technikwissenschaften, in denen plötzlich Themen relevant werden, an die man vorher in seiner Hauptfachvorlesung gar nicht gedacht hat oder die zu bearbeiten dort die Zeit fehlte.

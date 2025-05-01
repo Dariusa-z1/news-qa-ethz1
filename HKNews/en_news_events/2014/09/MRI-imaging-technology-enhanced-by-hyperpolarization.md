@@ -1,5 +1,7 @@
 # MRI-imaging-technology-enhanced-by-hyperpolarization
 
+**Source:** en_news_events/2014/09/MRI-imaging-technology-enhanced-by-hyperpolarization.html
+
 ## Main article
 
 Imaging techniques such as MRI (magnetic resonance imaging) and CT (computerized tomography) are at the forefront of medical diagnosis, and the ability to see deeper into human tissue, leading to faster diagnoses has increased steeply over the last two decades. However, the persistent problems of resolving images with high quality still limit these techniques because of the nature of living tissue. In a collaborative effort between ETH Zurich, EPFL, CNRS, ENS Lyon and CPE Lyon researchers developed a novel approach (cf. press release EPFL) that considerably improves the capabilities of medical imaging with safer procedures for the patient.

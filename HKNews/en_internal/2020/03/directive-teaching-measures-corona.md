@@ -1,5 +1,7 @@
 # directive-teaching-measures-corona
 
+**Source:** en_internal/2020/03/directive-teaching-measures-corona.html
+
 ## Scope of teaching content
 
 The changes made relate in particular to detailed provisions on how to handle modifications to the scope of teaching content, failed assessments and the extension of academic deadlines.
@@ -22,7 +24,9 @@ In light of the current exceptional situation, doctoral examinations will take p
 
 ## Subscribe to Newsletter
 
-All current information about the coronavirus at ETH Zurich can be found on www.ethz.ch/coronavirus .
+The exact and legally binding wording of the revised directive can be obtained from the Rectorate’s Directives Collection.
 
 ## Staffnet
+
+All current information about the coronavirus at ETH Zurich can be found on www.ethz.ch/coronavirus .
 

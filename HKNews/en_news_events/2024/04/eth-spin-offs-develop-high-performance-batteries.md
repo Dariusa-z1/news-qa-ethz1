@@ -1,5 +1,7 @@
 # eth-spin-offs-develop-high-performance-batteries
 
+**Source:** en_news_events/2024/04/eth-spin-offs-develop-high-performance-batteries.html
+
 ## In brief
 
 - The ETH and Empa spin-off BTRY develops fast-charging batteries that are resistant to temperature fluctuations and suitable for a wide range of applications.

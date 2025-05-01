@@ -1,5 +1,7 @@
 # the-anchor-has-dropped
 
+**Source:** en_news_events/2016/05/the-anchor-has-dropped.html
+
 ## A unique large-scale project
 
 Finished at last: At 6.30 am. yesterday, the Pavilion of Reflections was moored at Bellevue, Zurich. For 100 days, the pavilion will act as a nucleus and focal point for the thousands of visitors to the Manifesta 11 European Biennial of Contemporary Art in Zurich. The pavilion’s 150 tonnes of wood and steel had to be hauled by barge across the lake from the Mythenquai to Bellevue. The unique project, which involved some 30 students from ETH Zurich’s Department of Architecture, has now been successfully completed.

@@ -1,5 +1,7 @@
 # sl-info
 
+**Source:** de_internal/2020/01/sl-info.html
+
 ## Mitwirkungsrechte einhalten
 
 - WS 1: Neue Schulleitungs-Ressorts

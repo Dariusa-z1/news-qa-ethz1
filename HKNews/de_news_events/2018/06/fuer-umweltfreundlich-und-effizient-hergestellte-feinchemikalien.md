@@ -1,5 +1,7 @@
 # fuer-umweltfreundlich-und-effizient-hergestellte-feinchemikalien
 
+**Source:** de_news_events/2018/06/fuer-umweltfreundlich-und-effizient-hergestellte-feinchemikalien.html
+
 ## Effiziente Katalyse einer Nobelpreis-Reaktion
 
 «Der Katalysator ist deshalb so effizient, weil sich das Palladium-Atom innerhalb der Lücke bewegen kann, jedoch von den umliegenden Stickstoff-Atomen festgehalten wird», erklärt ETH-Professor Javier Pérez-Ramírez. Das Palladium-Atom ist in Grün dargestellt. (Bild: ETH Zürich / Edvin Fako)

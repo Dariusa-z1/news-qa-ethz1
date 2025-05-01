@@ -1,5 +1,7 @@
 # eine-neue-form-von-echtem-gold-fast-so-leicht-wie-luft
 
+**Source:** de_news_events/2015/11/eine-neue-form-von-echtem-gold-fast-so-leicht-wie-luft.html
+
 ## Trocknung als Herausforderung
 
 Ein Nugget aus echtem Gold, so leicht, dass es in einer Tasse Cappuccino nicht untergeht, sondern auf dem Milchschaum schwebt – was unglaublich klingt, haben Forschende der ETH Zürich tatsächlich geschaffen. Wissenschaftler unter der Leitung von Raffaele Mezzenga, Professor für Lebensmittel und weiche Materialien, stellten eine neue Art Schaumstoff aus Gold her, ein dreidimensionales Goldgeflecht, das zu einem Grossteil aus Poren besteht. Es handelt sich dabei um den leichtesten je geschaffenen Goldklumpen. «Das sogenannte Aerogel ist tausendmal leichter als ein herkömmliches Goldnugget. Es ist leichter als Wasser und beinahe so leicht wie Luft», sagt Mezzenga.

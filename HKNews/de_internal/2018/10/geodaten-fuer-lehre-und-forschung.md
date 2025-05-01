@@ -1,5 +1,7 @@
 # geodaten-fuer-lehre-und-forschung
 
+**Source:** de_internal/2018/10/geodaten-fuer-lehre-und-forschung.html
+
 ## Main article
 
 Der Service externe Seite geodata4edu.ch bietet Angehörigen Schweizer Hochschulen einen zentralen Zugang zu Geodaten von Bund und Kantonen. Somit können auch Angehörige der ETH Zürich die zur Verfügung gestellten Daten voll umfänglich für Lehre und Forschung nutzen. Der Metadatenkatalog gibt eine Übersicht über die vorhandenen Datensätze und ermöglicht gezielt, nach Daten zu suchen. Auch Handbücher, Video Tutorials und weitere Informationen sind auf geodata4edu.ch zu finden.

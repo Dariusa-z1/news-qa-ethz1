@@ -1,5 +1,7 @@
 # flu-vaccination-campaign-2015
 
+**Source:** en_internal/2015/09/flu-vaccination-campaign-2015.html
+
 ## None
 
 All members of ETH Zurich can get a vaccination: For all employees the vaccination is free of charge, for students there will be a cost contribution of 25 CHF to be paid cash on site. The vaccination is optional.

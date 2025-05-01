@@ -1,5 +1,7 @@
 # martian-moons-have-a-common-ancestor
 
+**Source:** en_news_events/2021/02/martian-moons-have-a-common-ancestor.html
+
 ## Calculating the past
 
 Mars’s two moons, Phobos and Deimos, have puzzled researchers since their discovery in 1877. They are very small: Phobos’s diameter of 22 kilometres is 160 times smaller than that of our Moon, and Deimos is even smaller, with a diameter of only 12 kilometres. “Our moon is essentially spherical, while the moons of Mars are very irregularly shaped – like potatoes,” says Amirhossein Bagheri, a doctoral student at the Institute of Geophysics at ETH Zurich, adding: “Phobos and Deimos look more like asteroids than natural moons.”

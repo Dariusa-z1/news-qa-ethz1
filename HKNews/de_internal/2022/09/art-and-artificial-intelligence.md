@@ -1,5 +1,7 @@
 # art-and-artificial-intelligence
 
+**Source:** de_internal/2022/09/art-and-artificial-intelligence.html
+
 ## Main article
 
 In der europäischen Geschichte war die Dichotomie zwischen Maschinen und Menschen, Ästhetik und Rationalität, Sehnsucht nach der Natur und dem Indigenen gegenüber der industriellen Entfremdung schon immer ein Thema für die modernen Menschen. Gegenwärtig scheint dieses alte Thema nicht nur in der Kunst, sondern auch in breiteren Kreisen der Gesellschaft Beachtung zu finden. So ist es interessant zu sehen, dass das Werben der Kunst um Aufmerksamkeit in der Wissenschaft und Technologie aktuell Gehör findet, was insbesondere mit der Entwicklung künstlicher Intelligenz zu tun hat. Denn diese Technologie scheint entscheidend für die Schaffung einer menschlicheren Zukunft zu sein. Diese und andere Fragen und Themen werden am ETH AI Center in Zürich mit seiner AI+Art Initiative erforscht, um mit künstlerischen Interventionen und Strategien eine andere Art der Intelligenz einzubringen.

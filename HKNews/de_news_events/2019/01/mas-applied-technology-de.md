@@ -1,5 +1,7 @@
 # mas-applied-technology-de
 
+**Source:** de_news_events/2019/01/mas-applied-technology-de.html
+
 ## «Ein MBA in umgekehrter Richtung»
 
 Wer in einem technologieorientierten Industrieunternehmen strategische Entscheide fällt, braucht neben Managementfähigkeiten technologisches Wissen und Verständnis. In solchen Unternehmen stossen auch herausragende Mitarbeitende mit einem sozial- oder wirtschaftswissenschaftlichen Hintergrund im Laufe ihrer Karriere an Grenzen. So liegt Potenzial brach.

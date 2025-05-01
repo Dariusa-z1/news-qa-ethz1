@@ -1,5 +1,7 @@
 # open-data-jetzt-auch-bei-gedruckten-und-handschriftlichen-quellen
 
+**Source:** de_internal/2016/12/open-data-jetzt-auch-bei-gedruckten-und-handschriftlichen-quellen.html
+
 ## Main article
 
 Die Dokumente können also für wissenschaftliche, private, nicht kommerzielle und kommerzielle Zwecke frei verwendet werden. Alte Drucke, illustrierte Materialien, Karten, Musikdrucke, Handschriften und Autographen können wie bis anhin kostenfrei heruntergeladen werden.

@@ -1,5 +1,7 @@
 # peko-is-looking-for-new-members
 
+**Source:** en_internal/2014/12/peko-is-looking-for-new-members.html
+
 ## Further Information
 
 Would you like to play an active role in promoting staff interests?
@@ -27,8 +29,6 @@ About the Personnel Committee: www.peko.ethz.ch
 ## Staffnet
 
 About the elections: www.peko.ethz.ch/infos/reglement
-
-If you have any questions, please contact:
 
 André Blanchard, President of PeKo Tel.: +41 44 633 26 03 E-Mail:
 

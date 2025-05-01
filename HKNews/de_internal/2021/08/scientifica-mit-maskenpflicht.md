@@ -1,5 +1,7 @@
 # scientifica-mit-maskenpflicht
 
+**Source:** de_internal/2021/08/scientifica-mit-maskenpflicht.html
+
 ## Sicheres Umfeld für den Austausch
 
 Über 20'000 Besucherinnen und Besucher durften ETH Zürich und Universität Zürich in den vergangenen Jahren an der Scientifica in ihren Hauptgebäuden begrüssen. Die Scientifica bietet Gelegenheit, Hochschulforschung aus erster Hand zu erleben und sich direkt mit den Wissenschaftlerinnen und Wissenschaftler auszutauschen.

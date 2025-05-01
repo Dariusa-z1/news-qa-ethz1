@@ -1,5 +1,7 @@
 # taxi-zum-staerkekorn
 
+**Source:** de_news_events/2015/02/taxi-zum-staerkekorn.html
+
 ## Solarer Energiespeicher
 
 Stärke dient Pflanzen als Energiespeicher, und als Bestandteil der Nahrung Mensch und Tier als wichtige Kohlenhydratquelle. Ausserdem wird sie in der Lebensmittel-, Bau-, Papier- und Textilindustrie gebraucht. Ein für Menschen eher schwer verdaulicher Bestandteil der Stärke, die Amylose, dient unter anderem als Binde- oder Geliermittel in der Nahrungsindustrie.

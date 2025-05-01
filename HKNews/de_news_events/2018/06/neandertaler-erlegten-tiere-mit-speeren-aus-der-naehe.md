@@ -1,5 +1,7 @@
 # neandertaler-erlegten-tiere-mit-speeren-aus-der-naehe
 
+**Source:** de_news_events/2018/06/neandertaler-erlegten-tiere-mit-speeren-aus-der-naehe.html
+
 ## Main article
 
 Für die Jagd benutzten Neandertaler Holzspeere, jedoch nicht etwa als Wurfwaffe, sondern zum Erlegen der Tiere aus nächster Nähe. Dies schliesst ein internationales Team unter Leitung von Wissenschaftlern des Archäologischen Forschungszentrums Monrepos in Neuwied, Deutschland, und Beteiligung von Wissenschaftlern der ETH Zürich in der jüngsten Ausgabe der Fachzeitschrift externe Seite Nature Ecology & Evolution .

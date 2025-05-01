@@ -1,5 +1,7 @@
 # mm-eth-tag-2016
 
+**Source:** en_news_events/2016/11/mm-eth-tag-2016.html
+
 ## Enlightenment ideals in danger
 
 What skills and knowledge should the generation leaving ETH with their Master’s degrees in 2030 take with them? ETH Rector Sarah Springman is deeply concerned with this question. The new educational policy, introduced in 2016, clearly states that, “ETH prepares its students to shape the future as independent thinkers and as responsible members of society.” Springman’s speech cited examples such as the Manifesta pavilion and the Critical Thinking Initiative to prove that this policy is not simply a paper tiger.
@@ -30,5 +32,5 @@ Part of ETH Day traditionally belongs to the students, and this year, three youn
 
 The Association of Students at ETH Zurich (VSETH) represents the interests of the students to the Executive Board and authorities. At ETH Day, Association president Lukas Möller presented particularly dedicated lecturers with the Golden Owl in recognition of their excellent teaching. One lecturer per department receives this student-awarded prize. In addition, John Lygeros, Professor of Control and Computation at the Automatic Control Laboratory, was awarded the 2016 Credit Suisse Award for Best Teaching.
 
-ETH Zurich Media Relations Phone: +41 44 632 41 41
+Further documents, speeches and photos can be downloaded at: ETH Day 2016
 

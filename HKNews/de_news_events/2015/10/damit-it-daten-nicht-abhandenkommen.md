@@ -1,5 +1,7 @@
 # damit-it-daten-nicht-abhandenkommen
 
+**Source:** de_news_events/2015/10/damit-it-daten-nicht-abhandenkommen.html
+
 ## Main article
 
 Stellen Sie sich vor: Sie sitzen im Büro, wollen eine Datei auf dem Server öffnen, in die Sie viel Arbeit gesteckt haben – und nichts geht. Fast alle Dateien sind verschlüsselt. In einer neuen Datei finden Sie eine Lösegeldforderung: Umgerechnet knapp 500 Franken in Bitcoins sollen Sie bezahlen, wollen Sie auf Ihre Arbeit je wieder zugreifen können. Nach zwei Wochen verdoppelt sich das Lösegeld.

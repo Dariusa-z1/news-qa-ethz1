@@ -1,5 +1,7 @@
 # plastic-recycling-shouldnt-be-an-end-in-itself
 
+**Source:** en_news_events/2022/02/plastic-recycling-shouldnt-be-an-end-in-itself.html
+
 ## The current situation
 
 Recycling plastic is currently on trend. The collection points of a municipal pilot project in Zurich Höngg and Schwamendingen were literally overflowing with plastic packaging 1 , with people even coming from other neighbourhoods to drop off their plastic waste. This desire to recycle is often based on the belief that recycled materials can compensate for the environmental impact of our consumption. But to fulfil this purpose, recycled materials would have to replace primary resources to a large extent.

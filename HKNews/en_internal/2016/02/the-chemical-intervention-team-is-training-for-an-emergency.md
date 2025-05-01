@@ -1,26 +1,24 @@
 # the-chemical-intervention-team-is-training-for-an-emergency
 
+**Source:** en_internal/2016/02/the-chemical-intervention-team-is-training-for-an-emergency.html
+
 ## CIT and Zurich's Chemical Emergency Unit are complementary
 
 Fumes begin to rise in the hood. (Photo: ETH Zurich)
-
-For example, while cleaning up, members of an ETH research group find a box containing some old gas cylinders. They want to dispose of the bottles and place them in a fume hood. Suddenly, they hear a hissing sound and fumes begin to rise in the hood. The researchers immediately close the hood’s front window, leave the lab and call the ETH Emergency Desk on 888. Luckily, they have not inhaled any of the toxic fumes. The Emergency Desk contacts the CIT.
 
 ## Procedure in the event of a chemical incident
 
 The CIT assesses the situation on site and secures the area with the necessary measures. In this example, the CIT, protected by chemical-resistant suits and breathing apparatus, would resolve the situation by confining the escaping corrosive or toxic gasin the lab. If necessary, the CIT leader could also call for support from the city of Zurich’s Chemical Emergency Unit.
 
+## Subscribe to Newsletter
+
 The CIT is a specialist internal unit at ETH, but not an in-house fire service. The team leader is chemist Ines Raabe, SSHE section of Chemistry First Response, Occupational Safety, Bio Safety, Hazardous Waste Disposal (CABS). The CIT comprises volunteers who have passed a screening test and receive regular training in chemical intervention. The CIT is called on if lab users cannot solve a chemical incident themselves.
 
-## Subscribe to Newsletter
+## Staffnet
 
 If the chemical incident has triggered a fire, the fire brigade will be called rather than the CIT. Similarly, a major chemical incident would be handled by Zurich’s Chemical Emergency Unit rather than the CIT.
 
 To rehearse the interaction between the CIT and the chemical emergency unit, various training exercises will take place on the Hönggerberg campus over the next few days: from Tuesday, 16 February to Thursday, 18 February and from Tuesday, 23 February to Thursday, 25 February 2016. Chemical emergency unit vehicles will also be present outside the HCI and HCP buildings. Employees in the buildings concerned have been informed and notices are available with information on the exercises.
 
-## Staffnet
-
 In the event of an alarm: ETH members inform the ETH Emergency Desk on 888 (internal line) or call 044 342 11 88 (external). The operator reports the incident to the CABS team, which decides whether the CIT and/or the Chemical Emergency Unit should be mobilised.
-
-Do you have questions about the CIT? Or are you interested in joining the CIT? If so, please contact .
 

@@ -1,5 +1,7 @@
 # four-professors-appointed
 
+**Source:** en_news_events/2022/09/four-professors-appointed.html
+
 ## New appointments
 
 Dr Jordan Aaron (*1990), currently Scientist at WSL, as Tenure Track Assistant Professor of Engineering Geology in the Department of Earth Sciences. Jordan Aaron’s research is concerned with the basic mechanisms that control the deformation of geomaterials. He has a particular interest in major underground excavations and landslides. Jordan Aaron has won a number of awards for his research and teaching, including a Golden Owl 2019 from ETH Zurich. His appointment will strengthen the Department and help develop a strong programme of research and teaching. The chair of engineering geology is the only one of its kind in Switzerland, and acts as a focal point and interface for geological agencies and authorities

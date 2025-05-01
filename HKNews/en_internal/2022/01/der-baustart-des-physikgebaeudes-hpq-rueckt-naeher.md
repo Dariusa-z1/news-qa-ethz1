@@ -1,5 +1,7 @@
 # der-baustart-des-physikgebaeudes-hpq-rueckt-naeher
 
+**Source:** en_internal/2022/01/der-baustart-des-physikgebaeudes-hpq-rueckt-naeher.html
+
 ## Preparations now underway
 
 - HPQ construction project webpage: www.ethz.ch/hpq
@@ -30,13 +32,15 @@ As some new construction projects are getting underway, others are gradually nea
 
 ## Legal groundwork laid for the redevelopment of the Hönggerberg campus
 
-The campus is a central element in the future development of ETH Zurich. In view of the historic district and urban structures in the city centre, ETH Zurich is planning to develop most of the additional space it needs for education and research on the Hönggerberg site.
+Construction projects always involve constraints and inconvenience for a certain period. While ETH’s predictive planning aims to minimise this disruption, it’s impossible to eliminate it entirely. To inform users of the surrounding buildings directly about the upcoming construction at HPQ and HPT, and to answer any questions, the Real Estate Management department held an information event on 25 January 2022. A recording of the event is available here and the presentation can be downloaded here (PDF, 194.9 MB) .
 
 ## Further information
 
-With a view to future structural development, ETH Zurich worked with the city and cantonal authorities to revise the legal planning principles. The revised special building regulations come into force on 31 January 2022 and lay the groundwork for the further development of the campus. Read more about the long-term vision for the campus here .
+The campus is a central element in the future development of ETH Zurich. In view of the historic district and urban structures in the city centre, ETH Zurich is planning to develop most of the additional space it needs for education and research on the Hönggerberg site.
 
 ## Subscribe to Newsletter
+
+With a view to future structural development, ETH Zurich worked with the city and cantonal authorities to revise the legal planning principles. The revised special building regulations come into force on 31 January 2022 and lay the groundwork for the further development of the campus. Read more about the long-term vision for the campus here .
 
 ## Staffnet
 

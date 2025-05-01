@@ -1,5 +1,7 @@
 # diese-forscherin-liesst-fluesse
 
+**Source:** de_news_events/2024/06/diese-forscherin-liesst-fluesse.html
+
 ## Ein Sensor zur Messung der Wasserqualität
 
 Jessica Droujkos grosse Leidenschaft ist Wasser, insbesondere Flusswasser. Die gebürtige Kanadierin kam am Niagara-Fluss auf die Welt, verbrachte ihre Sommer am Ottawa-Fluss und machte ihren Bachelor in Montreal, wo sich die beiden Flüsse treffen und den St. Lawrence-Fluss bilden. Für ihr Master-Studium kam sie an die ETH Zürich. Die Schweiz und natürlich ihre Flüsse haben es Droujko angetan, und so entschied sie sich für ein Doktorat am Departement Bau, Umwelt und Geomatik. Darin entwickelte sie die Grundlagen für ihr Start-up Riverkin, mit dem sie die Qualität von Flusswasser messen und auswerten kann.

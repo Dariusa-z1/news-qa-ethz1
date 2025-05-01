@@ -1,5 +1,7 @@
 # consistently-among-the-best
 
+**Source:** en_news_events/2017/03/consistently-among-the-best.html
+
 ## Excellence strategy takes effect
 
 The eight researchers are all full or associate professors, and some of them have been for many years. The spectrum of topics covered is broad, ranging from microbiology to systems biology and from organic chemistry to quantum physics. The amounts awarded are between EUR 2 million and EUR 3 million, with the total sum amounting to EUR 20.2 million. Three of the recipients have succeeded in making it into the Champions League of research for a second time. In addition to the grant winners, almost as many researchers – seven – received an A rating (“excellent”) and for all intents and purposes meet the criteria for a grant.
@@ -31,6 +33,4 @@ Bradley Nelson is a Professor of Robotics and Intelligent Systems and an expert 
 Jörn Piel is a full Professor at the Institute of Microbiology. His group’s main objective is to understand how bacteria generate bioactive natural products. These substances are the basis of many drugs, but are often produced at only small amounts in nature and are too complex for large-scale chemical synthesis. With his ERC project Piel aims to understand how such complex biosynthetic processes arise during evolution. These insights from nature will then be applied to the laboratory to create tailored bacterial production systems by synthetic biology. The project could thereby provide technologies to access rare bioactive substances as well as new variants that do not occur in nature, for use in drug discovery and development.
 
 Renato Zenobi is a Professor of Analytical Chemistry. In his research, Zenobi develops and uses mass spectrometric and nano-analytical methods. One of these methods is tip-enhanced Raman spectroscopy, which was invented in his lab. In his ERC project, Zenobi aims to refine this spectroscopic imaging method to examine the nanostructure of sensitive two-dimensional molecular materials such as biological membranes or artificially produced, two-dimensional polymers, without damaging them during the measurement process.
-
-ETH Zurich Media relations Phone: +41 44 632 41 41
 

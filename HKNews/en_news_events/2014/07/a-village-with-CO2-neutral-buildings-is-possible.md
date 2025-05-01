@@ -1,5 +1,7 @@
 # a-village-with-CO2-neutral-buildings-is-possible
 
+**Source:** en_news_events/2014/07/a-village-with-CO2-neutral-buildings-is-possible.html
+
 ## Local power production
 
 Located in the Engadine, Zernez has set the goal of using only renewable sources to meet its energy requirements for buildings in the municipality, thus reducing CO 2 emissions to zero (read the article in German by ETH professor Arno Schlüter on the Zukunftsblog ). The project, Zernez Energia 2020, is supported by the Swiss federal government. An interdisciplinary team from ETH Zurich in the fields of urban design, building systems, construction physics, energy research and ecological system design are closely involved in the project. These researchers have analysed the feasibility of the project and now present the initial findings in an exhibition (see box). The conclusion is that essentially the ambitious goal is possible and will not compromise the townscape, though perhaps not before 2020.

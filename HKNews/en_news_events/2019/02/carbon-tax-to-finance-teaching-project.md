@@ -1,5 +1,7 @@
 # carbon-tax-to-finance-teaching-project
 
+**Source:** en_news_events/2019/02/carbon-tax-to-finance-teaching-project.html
+
 ## More responsible air travel
 
 - Compensation: since the beginning of 2019, D-MAVT has levied an internal carbon tax on air travel as its own form of compensation. For all plane tickets, each research group pays a substantial fee per tonne of CO2 emitted. A return flight from Zurich to Boston for instance will thus cost around CHF 150 more. Of this fee, around 15 percent goes to the Federal Office for the Environment to purchase emission certificates, whereas the remaining 85 percent goes into an internal fund.

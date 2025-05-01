@@ -1,5 +1,7 @@
 # langjaehriges-peko-mitglied-verstorben
 
+**Source:** de_internal/2015/12/langjaehriges-peko-mitglied-verstorben.html
+
 ## Main article
 
 Renate Amatore.

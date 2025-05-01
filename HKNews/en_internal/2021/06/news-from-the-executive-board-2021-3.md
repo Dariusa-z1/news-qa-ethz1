@@ -1,5 +1,7 @@
 # news-from-the-executive-board-2021-3
 
+**Source:** en_internal/2021/06/news-from-the-executive-board-2021-3.html
+
 ## In-depth discussion on the future of work
 
 - In the short term: even before the pandemic, it was possible to work from home at ETH, with numerous teams taking advantage of this option. This practice is to be re-established after the summer holidays and may be extended as required, depending on the circumstances.

@@ -1,5 +1,7 @@
 # wissenschaftler-entwickeln-hochpraezisen-digitalen-zwilling-der-erde
 
+**Source:** de_news_events/2021/02/wissenschaftler-entwickeln-hochpraezisen-digitalen-zwilling-der-erde.html
+
 ## Informationssystem zur Entscheidungsfindung
 
 Um bis 2050 klimaneutral zu werden, hat die Europäische Union zwei ehrgeizige Programme gestartet: « externe Seite Green Deal » und « externe Seite Digital Strategy ». Als eine Schlüsselkomponente für die erfolgreiche Umsetzung haben Klimawissenschaftler und Informatiker die Initiative « externe Seite Destination Earth » lanciert, die Mitte dieses Jahres starten wird und bis zu zehn Jahre laufen soll. Während dieses Zeitraums soll ein hochpräzises digitales Modell der Erde entstehen, ein digitaler Zwilling der Erde, um die Klimaentwicklung und Extremereignisse räumlich und zeitlich bestmöglich abzubilden.

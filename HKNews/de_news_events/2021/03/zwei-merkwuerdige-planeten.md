@@ -1,5 +1,7 @@
 # zwei-merkwuerdige-planeten
 
+**Source:** de_news_events/2021/03/zwei-merkwuerdige-planeten.html
+
 ## Aussergewöhnliche Zustände
 
 Die beiden grossen Gasplaneten Uranus und Neptun haben seltsame Magnetfelder. Diese sind jeweils relativ zu den Rotationsachsen des Planeten stark gekippt und sind deutlich vom physikalischen Zentrum des Planeten versetzt. Warum das so ist, darüber rätseln Planetenwissenschaftler bereits seit längerem. Verschiedene Theorien gehen davon aus, dass eine einzigartige innere Struktur dieser Planeten für dieses bizarre Phänomen verantwortlich sein könnte. Demnach entsteht das schiefe Magnetfeld durch Umwälzungen in einer konvektiven Schicht, die aus einer elektrisch leitenden Flüssigkeit besteht. Diese konvektive Schicht wiederum umgibt eine stabil geschichtete, nicht-konvektive Schicht, in der es aufgrund der hohen Viskosität keine Umwälzungen des Materials gibt und demnach auch keinen Beitrag zum Magnetfeld.

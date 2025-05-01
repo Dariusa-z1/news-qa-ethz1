@@ -1,5 +1,7 @@
 # hochschulduell-zum-jubilaeum
 
+**Source:** en_news_events/2014/04/hochschulduell-zum-jubilaeum.html
+
 ## Main article
 
 The Academic Sports Association Zurich (ASVZ) is celebrating its 75th anniversary. It was founded in 1939. Is it just a coincidence that it was established the same year that World War II broke out? In my opinion it is a coincidence. The history of university sport began much earlier. The first academic gymnastics clubs were set up in the early 19th century. One milestone was the foundation in 1919 of the Academic Sports Commission, an initiative of students at ETH and the University of Zurich. Their main problem was that they didn’t have their own sports complex. One of the locations where they trained was on the Wässerwiese on Rämistrasse. In 1939 the Sports Commission and the Sports Grounds Commission joined forces and established ASVZ with a view to securing their own sports complex. But it took 35 years for ASVZ to achieve this goal. It was not until 1974 that the Association inaugurated the Fluntern sports complex.

@@ -1,5 +1,7 @@
 # brain-to-foot-come-in
 
+**Source:** en_news_events/2016/03/brain-to-foot-come-in.html
+
 ## Persistent sense of estrangement
 
 A strange sensation, but familiar to anyone who has ever been given local anaesthesia and watched while a doctor operated on their leg or arm: in that moment, your own body part seems foreign, as if it doesn’t belong to your body. One reason for this is that the brain still knows which position the limb occupied before the local anaesthetic took effect. As soon as it wears off, the spooky sensation disappears.
@@ -51,6 +53,8 @@ This year’s BrainFair hosted by the Neuroscience Center Zurich is coming to an
 ## Reference
 
 «Brain Fair Zürich 2016: Bewegung». Saturday, March 19 th 2016; short presentations, 11.00-15.20 hrs, Auditorium Maximum ETH Main building, Rämistr. 101, Zurich.
+
+Humankind has long dreamed of helping those with paraplegia walk again. While this dream has not yet been completely realised, we now have numerous assistive technologies that make everyday life easier for people with physical disabilities. Cybathlon offers an up-to-date overview of these technologies. There, people with physical limitations compete with one another using the latest assistive technologies, and this tests how well the participants manage to execute everyday tasks using motorised artificial legs, portable prosthetic arms, actuated braces (exoskeletons), motorised wheelchairs, electrical muscle stimulation and novel brain-computer interfaces. Some of these technical aids are products that are already on the market, and some are prototypes from research labs from around the globe.
 
 Cybathlon, October 8 th 2016, Ice Hockey Stadium "Swiss Arena", Kloten, Switzerland.
 

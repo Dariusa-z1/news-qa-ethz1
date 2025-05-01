@@ -1,5 +1,7 @@
 # tumore-leuchten-lassen-spark-award
 
+**Source:** de_news_events/2020/07/tumore-leuchten-lassen-spark-award.html
+
 ## Krankhafte Produktion von Gewebe
 
 «Ich kann es kaum glauben, dass wir ausgewählt wurden», sagt Helma Wennemers. «Ich bin sehr stolz auf Matt, der die treibende Kraft hinter unserer Erfindung war». Die Professorin für Organische Chemie hat gemeinsam mit dem ETH-Fellow Matthew Aronoff einen fluoreszierenden Marker entwickelt, der Chirurgen ihre Arbeit erleichtern soll. Dafür wurden die beiden Forschenden nun mit dem «Spark Award 2020» ausgezeichnet.

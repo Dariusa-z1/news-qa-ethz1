@@ -1,5 +1,7 @@
 # tonmineralien-im-suedchinesischen-meer
 
+**Source:** de_news_events/2019/10/tonmineralien-im-suedchinesischen-meer.html
+
 ## Auf die Sorte kommt es an
 
 Flüsse führen den Weltmeeren fortwährend Sedimente zu. Zu den Hauptbestandteilen des Sediments gehören einerseits verschiedene Tonmineralien, die aus der Verwitterung von Gesteinen hervorgehen, andererseits organische Kohlenstoffverbindungen aus Pflanzenmaterial, das in Böden abgebaut wurde. Durch Erosionsprozesse gelangen diese beiden Bestandteile in Flüsse.

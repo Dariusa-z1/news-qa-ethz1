@@ -1,5 +1,7 @@
 # bodenreflexion-mindert-hitzewellen
 
+**Source:** de_news_events/2018/01/bodenreflexion-mindert-hitzewellen.html
+
 ## Mehr Reflexion bricht Temperaturspitzen
 
 Hitzewellen werden mit dem Klimawandel häufiger. Davon betroffen sind vor allem kontinentale Landstriche und urbane Regionen, die sich im Sommer stark aufheizen. ETH-Forschende beschreiben nun zusammen mit australischen und US-amerikanischen Kollegen einen praktikablen Ansatz, mit dem man extreme Sommerhitze regional durch clevere Landnutzung und städtisches Strahlungsmanagement abkühlen könnte. Ihre Studie ist soeben im Fachmagazin externe Seite Nature Geoscience erschienen.

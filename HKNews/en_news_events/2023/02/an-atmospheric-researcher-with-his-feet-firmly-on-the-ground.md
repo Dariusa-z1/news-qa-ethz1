@@ -1,5 +1,7 @@
 # an-atmospheric-researcher-with-his-feet-firmly-on-the-ground
 
+**Source:** en_news_events/2023/02/an-atmospheric-researcher-with-his-feet-firmly-on-the-ground.html
+
 ## Influenced by a left-wing university town
 
 Thomas Peter’s office has a stunning view that stretches from the city of Zurich to the lake, to the Uetliberg and the Albis hills and far into the Alps. But in addition to offering this breathtaking panorama, this room at the top of the CHN building tower at ETH Zurich is also rather emblematic of the research area Peter has pursued over the past 24 years at the university: atmospheric and climate science.

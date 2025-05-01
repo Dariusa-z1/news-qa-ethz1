@@ -1,5 +1,7 @@
 # precocious-black-hole
 
+**Source:** en_news_events/2015/07/precocious-black-hole.html
+
 ## Was anything different in the early Universe?
 
 Benny Trakhtenbrot, a researcher at ETH Zurich’s Institute for Astronomy, together with an international team of astrophysicists, was hunting for ancient massive black holes using the 10 meter Keck telescope in Hawaii. Although this kind of observations are routine for them, Trakhtenbrot and the team were surprised by the first black hole they looked at. The data, collected with a new instrument, revealed a giant black hole in an otherwise normal, distant galaxy, called CID-947. Because its light had to travel a very long distance, the scientists were observing it at a period when the universe was less than two billion years old, just 14 percent of its current age (almost 14 billion years have passed since the Big Bang).

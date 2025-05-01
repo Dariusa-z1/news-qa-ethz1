@@ -1,5 +1,7 @@
 # foundation-jahresbericht-2018
 
+**Source:** de_news_events/2019/03/foundation-jahresbericht-2018.html
+
 ## Meilensteine bei Reha- und ETH-Mobilitäts-Initiative
 
 Der soeben erschienene Jahresbericht gibt Einblick in die Herkunft und die Verwendung der Mittel. «Die Beiträge, die die ETH Zürich vom Bund erhält, dienen der Grundfinanzierung», erklärt Dr. Donald Tillman, Geschäftsführer der ETH Foundation. «In Ergänzung dazu stossen Donationen die Finanzierung von strategischen Initiativen an, beschleunigen die Schaffung neuer Professuren oder ermöglichen spezielle Förderprogramme. Es freut mich sehr, dass wir dank dem Engagement der Donnatorinnen und Donatoren auch in diesem Jahr einige wegweisende neue Projekte aufgleisen konnten.»

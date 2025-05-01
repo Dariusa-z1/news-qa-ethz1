@@ -1,5 +1,7 @@
 # townhall-ueber-rethink
 
+**Source:** de_internal/2020/02/townhall-ueber-rethink.html
+
 ## Neben Zustimmung auch Kritik
 
 Meilensteine bei der Schaffung eines sicheren Internets und in der Quantenphysik, tiefgreifende Curriculum-Reformen, die Reha-Initiative und der bevorstehende zweite Cybathlon, 2019 ein neuer Spin-off-Rekord, der Zürich zum Hotspot für Investoren macht. Des Weiteren eine ETH-weite Förderung der Diversity und der nationale Energiepreis für das Erdspeichersystem auf dem Campus Hönggerberg: Die ETH ist derzeit – buchstäblich – ausgezeichnet unterwegs.
@@ -23,8 +25,6 @@ Auf die geäusserte Sorge, dass in der obersten Führungsebene Lehre und Forschu
 ## Newsletter abonnieren
 
 Als operative Co-Leiterin eines Workstreams gab Nina Buchmann Einblick in die begonnene Arbeit im Workstream «Professuren», der von Detlef Günther gesteuert wird. Nach einer Bestandsaufnahme über das Selbstverständnis, Rechte, Pflichten und Erwartungen an eine Professur geht es in eine breite Diskussion und anschliessend, wieder in der Arbeitsgruppe, in die Entwicklung von Werten und Leitplanken als Orientierungshilfen. Münden soll der Workstream in einen Vorschlag für die Optimierung der Professuren und ihres Umfelds. Dazu sei auch der intensive Austausch mit den anderen rETHink-Workstreams unabdingbar, so Nina Buchmann.
-
-Um rETHink voranzubringen, seien Partizipation und Interaktion mit den ETH-Angehörigen zentral, betonte Joël Mesot mehrmals. «rETHink ist auch ein gemeinsamer Lernprozess. Wir zählen deshalb sehr auf Ihre Mitwirkung.» Diesem Aufruf schloss sich Werner Wegscheider an, der Präsident der Hochschulversammlung. Er skizzierte, wie ETH-Angehörige sich einbringen können. Interessierte können dazu die Präsidenten der jeweiligen Hochschulgruppe kontaktieren, der sie angehören.
 
 Im sich anschliessenden Austausch im Plenum wurde unter anderem gefragt, mit welchem Zeitaufwand für die Mitwirkung bei rETHink gerechnet werden muss. Nina Buchmann erklärte, dass dies von der Art der Mitwirkung abhänge. Diese könne auf einen Einsatz von zwei bis drei Stunden limitiert sein (z.B. bei einer Teilnahme an einer Fokus- oder Sounding-Gruppe) oder bis zu einer temporären Mitarbeit im Umfang von 20 Prozent reichen. Das wäre etwa bei intensiver Mitwirkung in einem Kernteam der Fall oder wenn jemand eine Arbeitsgruppe leitet. Zudem ist die Dauer des Engagements unterschiedlich. Denkbar ist ein einmaliger Einsatz, zwei bis drei Monate für eine Arbeitsgruppe oder - für ein Kernteam - ein ganzes Jahr. Wie solche Engagaments ermöglicht und, wo nötig, kompensiert werden können, werde noch diskutiert und definiert, hielt Joël Mesot fest.
 

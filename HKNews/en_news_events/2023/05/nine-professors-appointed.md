@@ -1,5 +1,7 @@
 # nine-professors-appointed
 
+**Source:** en_news_events/2023/05/nine-professors-appointed.html
+
 ## New appointments
 
 (Photograph: ETH Zurich / Kilian J. Kessler)

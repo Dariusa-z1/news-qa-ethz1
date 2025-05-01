@@ -1,5 +1,7 @@
 # rethink-nun-geht-es-richtig-los-mit-der-umsetzung
 
+**Source:** de_internal/2023/03/rethink-nun-geht-es-richtig-los-mit-der-umsetzung.html
+
 ## rETHink Switch: Ausstellung und Townhall
 
 rETHink ist bisher noch nicht richtig in der ETH angekommen. Diese Aussage hört man in den Gängen der Hochschule immer mal wieder, wenn man Mitarbeitende auf das Projekt anspricht. Das soll sich in den kommenden Monaten ändern.

@@ -1,5 +1,7 @@
 # blog-knutti-klimamodelle
 
+**Source:** en_news_events/2019/08/blog-knutti-klimamodelle.html
+
 ## Amazing progress of climate models
 
 In 1950, meteorologists Jule Charney and Ragnar Fjørtoft joined with mathematician John von Neumann and other researchers to create the first computer simulation of the weather. Back then, it took 24 hours of calculations to forecast 24 hours’ worth of weather. In other words, practically as soon as the paltry forecast was finished, reality had set in and rendered it useless. Today’s weather forecasts are astoundingly good, often producing skilful forecasts up to a week in advance and designed to include extreme events. They are available on every mobile phone and everyone knows how to interpret them.

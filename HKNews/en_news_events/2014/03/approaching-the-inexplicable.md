@@ -1,5 +1,7 @@
 # approaching-the-inexplicable
 
+**Source:** en_news_events/2014/03/approaching-the-inexplicable.html
+
 ## Studying special molecular states
 
 Frédéric Merkt, Professor for Physical Chemistry. (Photo: ETH Zurich)

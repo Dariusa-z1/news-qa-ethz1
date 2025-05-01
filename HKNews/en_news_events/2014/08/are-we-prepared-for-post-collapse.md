@@ -1,5 +1,7 @@
 # are-we-prepared-for-post-collapse
 
+**Source:** en_news_events/2014/08/are-we-prepared-for-post-collapse.html
+
 ## From the wild to post-collapse
 
 Natural resources such as oil, phosphorus, and minerals are being depleted, dangerous climate change is upon us, a majority of species diversity might go extinct in the coming decades, and systemic risks such as the outbreak of a pandemic disease increase on a crowded and highly interconnected planet. Some scientists think that environmental collapse is imminent [1], because we are about to cross biophysical thresholds with “disastrous consequences for humanity” [2], and therefore we have according to a UNEP report written by the 18 winners of the unofficial Nobel prize for the environment “no choice but to take dramatic action to avert a collapse of civilisation” [3]. But what do these predictions mean for our culture and society?

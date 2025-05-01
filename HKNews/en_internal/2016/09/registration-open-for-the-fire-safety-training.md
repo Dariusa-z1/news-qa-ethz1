@@ -1,5 +1,7 @@
 # registration-open-for-the-fire-safety-training
 
+**Source:** en_internal/2016/09/registration-open-for-the-fire-safety-training.html
+
 ## Main article
 
 The safety, security, health and environment (SSHE) administrative department offers fire safety training this year again. In the theoretical part, participants will be taught how to prevent fires from breaking out. In the practical part, the participants will learn how to behave in case of a fire. Each student will have the opportunity to fight a fire with a portable fire extinguisher and a fire blanket under expert guidance.
@@ -11,6 +13,4 @@ The courses will last just over one hour. They will start on 21 September and wi
 The course will take place outdoor and in all weather conditions. Therefore robust clothing and sturdy boots are essential.
 
 If you are interested, please register on the website www.ethz.ch/firesafetytraining
-
-For further information, please contact the section SGU Training via e-mail: .
 

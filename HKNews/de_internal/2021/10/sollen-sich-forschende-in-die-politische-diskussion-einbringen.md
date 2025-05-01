@@ -1,24 +1,24 @@
 # sollen-sich-forschende-in-die-politische-diskussion-einbringen
 
+**Source:** de_internal/2021/10/sollen-sich-forschende-in-die-politische-diskussion-einbringen.html
+
 ## Pro
 
 Nicola Nuti, Doktorand am Departement Biosysteme (Illustration: Kornel Stadler)
 
 Klimawandel und Impfskepsis sind hochemotionale Themen mit enormem Konfliktpotenzial. Trotz der zahlreichen wissenschaftlichen Beweise für den Klimawandel und für die Sicherheit der COVID-19-Impfstoffe wird darüber mit äusserster Verbissenheit diskutiert. Je nachdrücklicher die Wissenschaft auf die Fakten pocht, desto schneller werden sie abgetan. Doch woher kommt dieses Misstrauen zwischen Wissenschaft und Öffentlichkeit? Und wie spiegelt sich diese Kluft in der Politik wider?
 
-## Kontra
-
 Wie bei jeder komplexen Dynamik sind hier viele Faktoren am Werk. Forschungseinrichtungen neigen dazu, die Bedeutung der Öffentlichkeitsarbeit zu unterschätzen. Sobald die Medien diese Rolle übernehmen, bringen sie oft überspitzte oder aus dem Zusammenhang gerissene Aussagen. Lobbygruppen mit eigener Agenda verbreiten regelmässig irreführende und fragwürdige Daten. Die Öffentlichkeit kann dann nur schwer erkennen, welche Quellen Vertrauen verdienen, und wird von einer ständigen Flut schockierender und widersprüchlicher Behauptungen überrollt.
 
-Ich finde, die Wissenschaftsgemeinde muss sich in der politischen Debatte Gehör verschaffen. Von der Wissenschaft zu erwarten, dass sie lediglich objektive Daten produziert, würde voraussetzen, dass eine neutrale Haltung der Wissenschaft überhaupt möglich ist. Doch Forschung ist an sich schon ein politischer Akt. Sie wird mit öffentlichen Mitteln finanziert, und die Fragen, mit denen sie sich befasst, werden oft mit Blick darauf gewählt, was sie zum gesellschaftlichen Wandel beitragen. Wissenschaft und Politik stehen bereits im Dialog, ob es uns gefällt oder nicht.
+## Kontra
 
-## Staffnet
+Ich finde, die Wissenschaftsgemeinde muss sich in der politischen Debatte Gehör verschaffen. Von der Wissenschaft zu erwarten, dass sie lediglich objektive Daten produziert, würde voraussetzen, dass eine neutrale Haltung der Wissenschaft überhaupt möglich ist. Doch Forschung ist an sich schon ein politischer Akt. Sie wird mit öffentlichen Mitteln finanziert, und die Fragen, mit denen sie sich befasst, werden oft mit Blick darauf gewählt, was sie zum gesellschaftlichen Wandel beitragen. Wissenschaft und Politik stehen bereits im Dialog, ob es uns gefällt oder nicht.
 
 Wissenschaftlerinnen und Wissenschaftler müssen die Sprache der Politik erlernen und handlungsorientierte Belege und umsetzbare Pläne vorlegen. Wir müssen unsere Erkenntnisse strukturieren und zusammenfassen und ruhig und selbstbewusst unsere Meinung vertreten. Es ist unsere moralische Pflicht, uns für Veränderungen einzusetzen, indem wir uns in den politischen Diskurs einbringen und eine gemeinsame Sprache sprechen. Wir müssen uns in der politischen Debatte ebenso engagieren wie in der Forschung. Wenn wir die Bedeutung und Tragweite unserer Arbeit nicht vermitteln und den Kampf für Veränderungen anderen überlassen, werden unsere Bemühungen vergeblich bleiben.
 
 Gunnar Jeschke, Professor am Departement Chemie und Angewandte Biowissenschaften. (Illustration: Kornel Stadler)
 
-## Newsletter abonnieren
+## Staffnet
 
 Die Gesellschaft bezahlt uns dafür, neue Information zu finden, deren Verlässlichkeit einzuschätzen und beides ehrlich zu kommunizieren. Politik hingegen hat immer auch einen Machtaspekt und einen Propagandaaspekt. Diese beiden Aspekte vertragen sich kaum mit ehrlicher Kommunikation. Wer sich als Forscher politisch engagiert, tut das also nicht in der Rolle des Wissenschaftlers, sondern in derjenigen des Bürgers. Dabei verliert er den Anspruch, in politischen Fragen die Wissenschaft zu vertreten.
 
@@ -26,7 +26,11 @@ In den letzten Jahren wurde dieser Anspruch im politischen Prozess dennoch gern 
 
 Mehrheiten und Autoritäten bedeuten im Erkenntnisfortschritt nichts – in der Politik hingegen alles. In der Wissenschaft gelten das bessere Argument oder die besseren Daten. Diese könnten erst morgen, nächsten Monat oder in zehn Jahren gefunden werden. Wer sich dann aus politischen Gründen bereits festgelegt hat, wird zur Verteidigung seines Standpunkts neigen, auch wenn dieser wissenschaftlich unhaltbar geworden ist. Die Versuchung ist besonders gross, wenn der Standpunkt Ausdruck persönlicher Interessen ist. In der Politik ist das die Regel, ob die Handelnden es reflektieren oder nicht.
 
+## Newsletter abonnieren
+
 Unsere Forschungsergebnisse sind jedenfalls selten so klar und gesichert, wie sie von prominenten Wissenschaftlerinnen und Wissenschaftlern in politischen Debatten dargestellt werden. Ausgewiesene Experten findet man zumeist auf beiden Seiten der Auseinandersetzung. Wenn sie ihre Haltungen jeweils als sichere Erkenntnisse darstellen, muss das Vertrauen in die Wissenschaft verloren gehen
 
 Dieser Beitrag stammt aus der aktuellen Ausgabe des ETH-Magazins «life».
+
+Aktuelle Ausgabe von «life» herunterladen (PDF, 5.5 MB)
 

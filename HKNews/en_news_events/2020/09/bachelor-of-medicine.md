@@ -1,5 +1,7 @@
 # bachelor-of-medicine
 
+**Source:** en_news_events/2020/09/bachelor-of-medicine.html
+
 ## A plus in the sciences and technology
 
 ETH Zurich has been offering 100 places to study human medicine, each year, since autumn 2017. The Bachelor’s degree course, made possible by the federal government’s special programme for human medicine, was developed from scratch in close collaboration with university and clinical partners. It was initially launched as a pilot project for the five annual cohorts from 2017 to 2021. The first medical students graduated with a Bachelor’s degree this summer.
@@ -33,8 +35,6 @@ In conjunction with their teams, Wolfrum and Goldhahn played a key role in build
 Within a brief period of time, word of this unique course spread among prospective students, too. They must state their preferences when registering to study medicine, and these rankings demonstrate that the number of prospective students who pick ETH as their first choice has increased substantially in the third year.
 
 ## Clinical teaching strengthened further
-
-And how is the curriculum received by the students? “ETH offers a forward-looking medical course, with digital technologies such as machine learning also playing an important role. In particular, I really liked it when we had the chance to learn from doctors at the patients’ bedsides,” says Yi Zheng, one of the programme’s pioneers. He would have liked to have had more direct contact with patients: “But that said, it met my expectations.”
 
 Rahel Schmidt also liked the clinical practicals and patient case studies. “At ETH, learning takes place in small groups. There’s little lecturing in the traditional sense. And there’s a good attitude to mistakes: nobody minds if you put forward a diagnosis that’s completely wrong from time to time,” she laughs. Both Zheng and Schmidt recommend the course at ETH. “I’d particularly recommend it for people who want an additional focus on natural sciences and technology. However, it’s less suited to people who really don’t like mathematics, physics or programming,” says Schmidt.
 

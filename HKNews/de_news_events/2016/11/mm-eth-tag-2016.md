@@ -1,5 +1,7 @@
 # mm-eth-tag-2016
 
+**Source:** de_news_events/2016/11/mm-eth-tag-2016.html
+
 ## Ideale der Aufklärung in Gefahr
 
 Was soll die Generation, welche 2030 die ETH mit einem Masterdiplom verlässt, an Wissen und Können mitnehmen? Diese Frage beschäftigt ETH-Rektorin Sarah Springman intensiv. In der neueingeführten Lehr-Policy von 2016 heisst es klar: «Die ETH bereitet ihre Studierenden darauf vor, als eigenständig denkende und verantwortlich handelnde Mitglieder der Gesellschaft die Zukunft zu gestalten.» In ihrer Rede führte Sarah Springman Beispiele wie den Manifesta-Pavillon und die Critical Thinking Initiative an, die zeigen, dass dieser Grundsatz nicht nur ein Papiertiger bleibe.
@@ -31,6 +33,4 @@ Ein Teil des ETH-Tages gehört traditionellerweise den Studierenden. Dieses Jahr
 Der Verband der Studierenden an der ETH Zürich (VSETH) vertritt die Interessen der Studentinnen und Studenten gegenüber der Schulleitung und Behörden. Am ETH-Tag verlieh Verbandspräsident Lukas Möller besonders engagierten Lehrpersonen die Goldene Eule für deren exzellente Lehre. Diesen Sympathiepreis der Studierenden erhält eine Lehrperson pro Departement. Zudem erhielt John Lygeros, Professor für Control and Computation am Institut für Automatik, den Credit Suisse Award for Best Teaching.
 
 Weitere Dokumente, Reden und Fotos finden Sie unter: ETH-Tag 2016
-
-ETH Zürich Medienstelle Telefon: +41 44 632 41 41
 

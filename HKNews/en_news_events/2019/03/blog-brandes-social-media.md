@@ -1,5 +1,7 @@
 # blog-brandes-social-media
 
+**Source:** en_news_events/2019/03/blog-brandes-social-media.html
+
 ## Network effects and monopolisation
 
 Within just a few years, social media has risen from a peripheral phenomenon to an integral part of our everyday lives. In contrast to what followed the mass availability of cars, televisions and the internet, this rise is accompanied by a strong tendency toward monopolisation. If we exclude Chinese services such as WeChat, QQ or Tik Tok, Facebook (including Instagram and WhatsApp), YouTube, LinkedIn and Twitter have achieved primacy within their respective product niches.

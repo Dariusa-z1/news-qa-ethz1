@@ -1,5 +1,7 @@
 # spatial-timber-assemblies
 
+**Source:** en_news_events/2018/03/spatial-timber-assemblies.html
+
 ## With robotic precision
 
 Digitalisation has found its way into timber construction, with entire elements already being fabricated by computer-aided systems. The raw material is cut to size by the machines, but in most cases it still has to be manually assembled to create a plane frame. In the past, this fabrication process came with many geometric restrictions.
@@ -29,8 +31,4 @@ ETH Zurich has already completed a successful collaboration with Erne AG Holzbau
 Kohler believes in the synergy effect brought about by the partnership: “Digital fabrication depends on the tremendous expertise required for craftsmanship. Conversely, digitalisation can improve craftsmanship and open up new opportunities.” Kohler also says the fact that scientific disciplines go hand in hand with industry is essential if technologies are to be used in real architectural projects after such a brief time.
 
 Eight ETH Zurich professors are working together with industrial partners to build DFAB HOUSE, a three-storey residential unit that is part of Empa and Eawag’s NEST research and innovation platform in Dübendorf. The fabrication of the mesh mould wall in May 2017 was the starting shot for the world’s first building to combine multiple innovative digital construction processes under a single roof. Since then, two other digitally designed and fabricated building components were made ready for production and coordinated digitally within the overall project. The automated Smart Dynamic Casting coordination system has already been used at ETH to prefabricate concrete façade posts designed specifically for the loading conditions of the building’s glass façade. A so-called “smart slab”, a statically optimized concrete floor slab, is currently in pre-production. Researchers are using large-format 3D sand printing for its formwork. By bringing these elements together with Spatial Timber Assemblies, a unique combination will be materialising at DFAB HOUSE – which will open in autumn 2018.
-
-ETH Zurich Vanessa Bleich Media relations Phone: +41 44 632 41 41
-
-ETH Zurich Prof. Matthias Kohler Chair of Architecture and Digital Fabrication Phone: +41 44 633 49 06
 

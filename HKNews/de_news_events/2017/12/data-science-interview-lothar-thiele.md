@@ -1,5 +1,7 @@
 # data-science-interview-lothar-thiele
 
+**Source:** de_news_events/2017/12/data-science-interview-lothar-thiele.html
+
 ## Main article
 
 Herr Thiele, Sie wurden von der Schulleitung kürzlich zum Delegierten für Digitale Transformation ernannt. Was ist ihre Aufgabe? Thiele: Die Digitalisierung ist nicht nur für die Medien ein grosses Thema, sondern auch für die Wirtschaft und die Politik. Dies hat Rückwirkungen auf die ETH: Wir sehen uns mit vielen Anforderungen und Wünschen konfrontiert. Als führende Institution will die ETH die Diskussion aktiv mitgestalten. Dazu braucht sie eine Strategie, wie sie mit dem Thema umgehen will, und sie muss Prioritäten setzen. Meine Aufgabe ist es, die Schulleitung, die Professuren und Departemente dabei zu unterstützen.

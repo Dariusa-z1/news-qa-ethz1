@@ -1,5 +1,7 @@
 # infinite-fun-with-the-infinite-worlds
 
+**Source:** en_news_events/2020/08/infinite-fun-with-the-infinite-worlds.html
+
 ## Narrowing down infinity from the plethora
 
 One of the most astonishing findings in mathematics is the discovery that there are many different types of infinities – and for a long time, it was an unresolved problem whether some of these infinities could be of different sizes without contradiction.

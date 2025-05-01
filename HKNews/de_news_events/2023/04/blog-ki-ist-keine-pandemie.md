@@ -1,5 +1,7 @@
 # blog-ki-ist-keine-pandemie
 
+**Source:** de_news_events/2023/04/blog-ki-ist-keine-pandemie.html
+
 ## Nach dem ersten Schock...
 
 Als Covid-19 zum ersten Mal zuschlug, reagierten wir sofort, indem wir Regeln und Einschränkungen entwickelten, verkündeten und zurückzogen. Wir haben Vorschriften über Masken, Tests, Reisen und Impfungen erlassen, die teilweise widersprüchlich waren. Im Rückblick mögen uns einzelne Massnahmen lächerlich, wirkungslos oder schlicht übertrieben erscheinen – doch damals war Unvollkommenheit viel besser als Untätigkeit: Wir mussten etwas tun, um eine tödliche Pandemie einzudämmen.

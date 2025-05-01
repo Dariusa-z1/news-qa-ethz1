@@ -1,5 +1,7 @@
 # innovation-ist-nicht-lehrbar
 
+**Source:** de_news_events/2017/02/innovation-ist-nicht-lehrbar.html
+
 ## Weltwissen für die Schweiz
 
 Wie wird aus Forschung Innovation? Um dies zu erfahren, kam der österreichische Bundespräsident Alexander Van der Bellen in Begleitung einer Delegation von Diplomaten und Medienvertretern am Freitag an die ETH nach Zürich. Der Austausch mit Studierenden und Forschenden war Teil seines offiziellen Besuchs in der Schweiz. Passend zum Thema empfing ihn ETH-Präsident Lino Guzzella in der multifunktionalen Loft im LEO-Gebäude, die für Innovationsprojekte genutzt wird.

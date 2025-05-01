@@ -1,5 +1,7 @@
 # marsmonde-haben-einen-gemeinsamen-vorfahren
 
+**Source:** de_news_events/2021/02/marsmonde-haben-einen-gemeinsamen-vorfahren.html
+
 ## In die Vergangenheit zurückrechnen
 
 Die beiden Marsmonde Phobos und Deimos gaben seit ihrer Entdeckung im Jahr 1877 Rätsel auf. Sie sind sehr klein. Der Durchmesser von Phobos ist mit 22 Kilometern 160-mal geringer als der Durchmesser unseres Mondes. Deimos ist mit einem Durchmesser von nur zwölf Kilometer nochmals deutlich kleiner. «Unser Mond ist zudem schön kugelförmig, während Phobos und Deimos sehr unregelmässig geformt sind – wie Kartoffeln», sagt Amirhossein Bagheri, Doktorand am Institut für Geophysik der ETH Zürich. «Die Marsmonde gleichen damit eher einem Asteroiden als einem Mond.»

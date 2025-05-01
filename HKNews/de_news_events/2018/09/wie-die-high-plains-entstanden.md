@@ -1,5 +1,7 @@
 # wie-die-high-plains-entstanden
 
+**Source:** de_news_events/2018/09/wie-die-high-plains-entstanden.html
+
 ## Mitnichten geologisch uninteressant
 
 Am östlichen Fuss der Rocky Mountains im Mittleren Westen erstreckt sich über mehrere Bundesstaaten eine aussergewöhnliche Landschaft: die High Plains. Auf diesen nur ganz sanft geneigten Ebenen – auf einer Länge von rund 500 Kilometern senken sich diese bloss um 200 Meter ab – herrschen einzigartige ökologische Bedingungen, und sie sind eine geologische Besonderheit.

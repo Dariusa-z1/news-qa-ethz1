@@ -1,5 +1,7 @@
 # hindernisfreiheit-betrifft-uns-alle
 
+**Source:** de_internal/2023/05/hindernisfreiheit-betrifft-uns-alle.html
+
 ## Der Sportlehrer im Rollstuhl
 
 Professor Ulrich Weidmann, Vizepräsident für Infrastruktur, bringt es in seinem Grusswort auf den Punkt: «Jede Person kann betroffen sein, ob dauerhaft oder temporär. Behinderungen sind keine Ausnahme, sondern Teil der Realität. Mehr als jede zehnte Person an der ETH ist davon betroffen.»

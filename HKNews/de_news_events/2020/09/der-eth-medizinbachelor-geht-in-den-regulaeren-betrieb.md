@@ -1,5 +1,7 @@
 # der-eth-medizinbachelor-geht-in-den-regulaeren-betrieb
 
+**Source:** de_news_events/2020/09/der-eth-medizinbachelor-geht-in-den-regulaeren-betrieb.html
+
 ## Ein Plus an Naturwissenschaften und Technologie
 
 Seit Herbst 2017 bietet die ETH Zürich jedes Jahr 100 Studienplätze in Humanmedizin an. Der Bachelorstudiengang – ermöglicht durch das Sonderprogramm Humanmedizin des Bundes – wurde in enger Zusammenarbeit mit universitären und klinischen Partnern von Grund auf neu konzipiert und zunächst als Pilotprojekt über die fünf Eintrittsjahrgänge 2017 bis 2021 lanciert. Diesen Sommer haben die ersten Medizinstudierenden ihren Bachelor absolviert.
@@ -33,8 +35,6 @@ Zusammen mit ihren Teams haben Wolfrum und Goldhahn den Studiengang massgeblich 
 Innert kürzester Zeit hat sich der spezielle Studiengang auch bei Studieninteressierten herum gesprochen. Sie müssen bei der Anmeldung für das Medizinstudium ihre Präferenzen angeben; da zeigt sich, dass der Anteil der Interessierten mit Erstwahl ETH im dritten Jahr deutlich gestiegen ist.
 
 ## Klinische Lehre weiter stärken
-
-Und wie kommt das Curriculum bei den Studierenden an? «Die ETH bietet ein zukunftsträchtiges Medizinstudium an, in dem auch digitale Technologien wie Machine Learning eine wichtige Rolle spielen. Besonders gefallen hat mir, wenn wir direkt am Patientenbett von Ärzten lernen konnten», sagt Yi Zheng, einer der Bachelorpioniere. So hätte er sich noch mehr direkten Patientenkontakt gewünscht. «Meine Erwartungen haben sich aber erfüllt.»
 
 Auch Rahel Schmidt haben es die klinischen Praktika und Patientenfälle angetan. «An der ETH lernt man in überschaubaren Gruppen. Frontalunterricht im klassischen Sinn gibt es wenig. Und es herrscht eine gute Fehlerkultur – man darf auch mal eine völlig falsche Diagnose stellen», lacht sie. Sowohl Zheng als auch Schmidt würden den ETH-Studiengang weiterempfehlen. «Wärmstens denen, die einen zusätzlichen Fokus auf Naturwissenschaften und Technologie möchten. Weniger aber jenen, die Mathematik, Physik oder Programmieren gar nicht mögen», resümiert Schmidt.
 

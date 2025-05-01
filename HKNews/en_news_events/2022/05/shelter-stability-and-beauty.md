@@ -1,5 +1,7 @@
 # shelter-stability-and-beauty
 
+**Source:** en_news_events/2022/05/shelter-stability-and-beauty.html
+
 ## From Basel to Brazil
 
 You might assume that hats have nothing to do with architecture – unless, that is, you have taken the first-year foundation course in architecture and construction run by ETH Professor Annette Spiro. Her students start by measuring their own head and making an attractive hat from the materials provided to them – and then they turn the hat into a hut! “Transforming a hat into a hut-like dwelling not only releases aspiring architects from the temptation to blindly follow architectural models and assumptions; it also introduces them to three of the most fundamental themes in architecture: shelter, stability and beauty,” says Spiro.

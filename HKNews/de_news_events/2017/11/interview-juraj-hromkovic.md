@@ -1,5 +1,7 @@
 # interview-juraj-hromkovic
 
+**Source:** de_news_events/2017/11/interview-juraj-hromkovic.html
+
 ## Zur Person
 
 - Lino Guzzella: «Diese Chance müssen wir packen» (ETH-News 20.06.2017)

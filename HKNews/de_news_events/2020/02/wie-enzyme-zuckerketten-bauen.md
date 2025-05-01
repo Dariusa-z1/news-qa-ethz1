@@ -1,5 +1,7 @@
 # wie-enzyme-zuckerketten-bauen
 
+**Source:** de_news_events/2020/02/wie-enzyme-zuckerketten-bauen.html
+
 ## Modulare Architektur von Proteinen
 
 Viele Membranproteine werden in Zellen höherer Lebewesen mit komplexen Strukturen aus Zuckermolekülen, sogenannten Glykanen, bestückt. Diese molekularen Zuckerbäumchen sind nicht nur äusserst vielfältig, sondern auch charakteristisch für den jeweiligen Organismus, einen Zelltyp oder dessen Differenzierunsgrad. Unterschiedliche Glykane sind zum Beispiel auch der Schlüssel zu den unterschiedlichen Blutgruppen beim Menschen.

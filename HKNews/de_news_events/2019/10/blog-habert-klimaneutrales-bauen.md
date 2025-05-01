@@ -1,5 +1,7 @@
 # blog-habert-klimaneutrales-bauen
 
+**Source:** de_news_events/2019/10/blog-habert-klimaneutrales-bauen.html
+
 ## Konkrete Anforderungen und Zielwerte
 
 Gebäude und Infrastruktur verursachen 40 Prozent der Treibhausgase. Aufgrund der langen Betriebsdauer und langsamer Modernisierungszyklen bleiben Objekte, die wir heute errichten, bis ins Jahr 2050 praktisch unverändert bestehen. Wir sollten folglich bereits jetzt mit post-2050-tauglichen Richtlinien bauen. Was wir aber nicht tun.

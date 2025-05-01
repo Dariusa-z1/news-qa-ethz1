@@ -1,5 +1,7 @@
 # swissloop-wins
 
+**Source:** en_news_events/2017/08/swissloop-wins.html
+
 ## Main article
 
 Out of the original 1,200 applicants from universities around the world, Elon Musk invited a total of 27 teams to the SpaceX headquarters in Hawthorne, Los Angeles. Their transport capsules – known as pods – underwent rigorous testing there over the course of six days. Only three student teams passed all of the tests, earning the right to send their pod through the 1.25-kilometre-long vacuum tube in the final on 27 August.

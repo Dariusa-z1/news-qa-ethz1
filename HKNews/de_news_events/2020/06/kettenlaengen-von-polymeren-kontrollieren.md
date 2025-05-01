@@ -1,5 +1,7 @@
 # kettenlaengen-von-polymeren-kontrollieren
 
+**Source:** de_news_events/2020/06/kettenlaengen-von-polymeren-kontrollieren.html
+
 ## Polymerisationsverfahren mit Grenzen
 
 Aus unserem Alltag sind Materialien aus synthetischen Polymeren kaum mehr wegzudenken. Kleider, Autoteile, Computer oder Verpackungen – sie alle bestehen aus Polymermaterialien. Auch in der Natur gibt es eine Reihe von Polymeren, wie etwa die DNA oder Proteine.

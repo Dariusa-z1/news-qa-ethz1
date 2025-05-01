@@ -1,5 +1,7 @@
 # oldmapsonline%E2%80%93make-mobile-use-of-historical-maps
 
+**Source:** en_internal/2017/01/oldmapsonline%E2%80%93make-mobile-use-of-historical-maps.html
+
 ## Main article
 
 Now OldMapsOnline also contains more than 1,100 digital reproductions from ETH-Bibliothek, with most of these map sheets covering towns and regions in Switzerland for the period from 1750 to 1900. Developments, events and conditions in past centuries can be understood using thematic and topographical maps.

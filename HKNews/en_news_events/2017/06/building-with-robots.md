@@ -1,5 +1,7 @@
 # building-with-robots
 
+**Source:** en_news_events/2017/06/building-with-robots.html
+
 ## Digitally designed, planned and built
 
 - Prof Matthias Kohler, Chair of Architecture and Digital Fabrication
@@ -47,8 +49,4 @@ All the construction methods used in the DFAB HOUSE have been developed in recen
 Digital technologies will also be used when the DFAB HOUSE is inhabited from summer 2018. Under the lead of digitalSTROM AG and in collaboration with several other Swiss companies, innovative smart home solutions and in-ternet of things technologies will be tested. This includes devices and systems that communicate intelligently with one another and are capable of learning, and which control the building in a way that improves both energy efficiency and comfort.
 
 In addition to the DFAB HOUSE, ETH Zurich is also playing a leading role in another NEST unit: Professor Philippe Block and Professor Arno Schlüter’s groups at the Institute of Technology in Ar-chitecture are currently developing the HiLo unit , which combines ultra-light construction tech-niques for the floor and roof with an adaptive solar façade. HiLo is designed to be an energy-plus building and is intended to produce 50 percent more power than it uses. Construc-tion is expected to begin early 2018. The Vision Wood unit, which explores future-oriented applications of wood as a natural resource for the construction sector, was also created with the participation of ETH re-searchers.
-
-ETH Zurich Claudia Naegeli Media relations Phone: +41 44 632 41 41
-
-Empa Stephan Kaelin Corporate Communication NEST Phone: +41 58 765 49 93
 

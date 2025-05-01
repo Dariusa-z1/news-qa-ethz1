@@ -1,5 +1,7 @@
 # automatisierte-analyse-des-tierverhaltens
 
+**Source:** de_news_events/2022/04/automatisierte-analyse-des-tierverhaltens.html
+
 ## Für alle Tierarten geeignet
 
 Für Verhaltensstudien mit Tieren müssen Wissenschaftler:innen oft grosse Mengen von Videoaufzeichnungen analysieren. Klassischerweise sichten sie dabei Aufnahmen mit einer Gesamtdauer von vielen Wochen und Monaten und führen über das beobachtete Verhalten Protokoll. Forschende an der ETH Zürich und der Universität Zürich haben die Analyse solcher Aufzeichnungen nun automatisiert. Ein von ihnen entwickelter Bildanalyse-Algorithmus nutzt computerbasiertes Sehen und maschinelles Lernen. Der Algorithmus kann individuelle Tiere unterscheiden sowie Verhaltensweisen erkennen, die zum Beispiel auf Neugierde, Angst oder auf harmonische Interaktionen mit Artgenossen hindeuten.

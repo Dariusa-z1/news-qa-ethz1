@@ -1,5 +1,7 @@
 # optical-society-of-america-archive-now-accessible
 
+**Source:** en_internal/2016/09/optical-society-of-america-archive-now-accessible.html
+
 ## Main article
 
 The archive contains all publications since the society was founded in 1916 right up to 2015:

@@ -1,5 +1,7 @@
 # research-collection-eth-zurich-new-publication-platform
 
+**Source:** en_internal/2017/06/research-collection-eth-zurich-new-publication-platform.html
+
 ## Users of the AEM publications component
 
 The Research Collection is therefore simultaneously:

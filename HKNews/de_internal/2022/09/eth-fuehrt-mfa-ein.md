@@ -1,5 +1,7 @@
 # eth-fuehrt-mfa-ein
 
+**Source:** de_internal/2022/09/eth-fuehrt-mfa-ein.html
+
 ## So registrieren Sie sich für MFA an der ETH
 
 IT-Sicherheit ist ein Thema, das alle Unternehmen und Institutionen betrifft. Auch die ETH setzt sich vertieft damit auseinander – und führt deshalb die Multifaktor-Authentisierung (MFA) ein. Mit der Eingabe einer solchen zweiten Anmeldebestätigung soll die Sicherheit unserer Nutzendenkonten und Daten erhöht und das Risiko von Cyberattacken verringert werden. Mehr zu den Hintergründen lesen Sie im Intern-aktuell-Artikel « MFA: Mehr Sicherheit für Ihre Daten ».
@@ -19,6 +21,8 @@ Die Eingabe des OTP-Codes für Anwendungen wie Teams & Co. ist für Sie zwar ers
 ## Immer aktuell informiert
 
 Haben Sie kein Smartphone oder möchten Sie dieses nicht für geschäftliche Zwecke nutzen? Selbstverständlich gibt es auch hierfür eine Lösung, indem eine spezielle Software auf Ihrem Rechner installiert wird. Bitte konsultieren Sie unsere ausführliche Anleitung auf der Wissensdatenbank .
+
+Angaben zu den gängigen Authenticator Apps, wie Sie sich nach dem App- registrieren und wie Sie MFA anschliessend anwenden, finden Sie auf www.id.ethz.ch/mfa und im externe Seite Erklärvideo .
 
 Bei Fragen lesen Sie bitte unsere FAQ . Unterstützung erhalten Sie zudem beim ID Service Desk oder bei der für Sie zuständigen IT-Support-Organisation.
 

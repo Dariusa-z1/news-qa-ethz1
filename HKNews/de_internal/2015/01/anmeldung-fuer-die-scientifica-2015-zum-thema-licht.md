@@ -1,5 +1,7 @@
 # anmeldung-fuer-die-scientifica-2015-zum-thema-licht
 
+**Source:** de_internal/2015/01/anmeldung-fuer-die-scientifica-2015-zum-thema-licht.html
+
 ## Thema «Licht»
 
 Die vierte Ausgabe der Scientifica - Zürcher Wissenschaftstage wird von Freitagabend 4. September bis Sonntagabend 6. September in den Hauptgebäuden der Universität und ETH sowie im Aussenraum zwischen den beiden Häusern stattfinden. Neben der Ausstellung mit Forschungspräsentationen sind Kurzvorlesungen sowie weitere Spezialveranstaltungen vorgesehen.
@@ -17,8 +19,6 @@ Bis zum Freitag, 30. Januar 2015 , können Forschende der ETH Zürich und der Un
 Dabei kommen nicht Projekte aus Gebieten wie zum Beispiel Physik, Chemie, Medizin, Filmwissenschaften oder Architektur in Frage, sondern jedes Projekt aus einem Forschungsbereich, in dem sich Bezüge zu Licht und Erleuchtung aufzeigen lassen.
 
 ## Newsletter abonnieren
-
-Bei Fragen oder Informationsbedarf kontaktieren Sie bitte das Projektteam von Scientifica:
 
 externe Seite Hinweise zur Anmeldung und Online-Formular
 

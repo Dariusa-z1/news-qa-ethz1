@@ -1,5 +1,7 @@
 # mit-schallwellen-gegen-den-strom-schwimmen
 
+**Source:** de_news_events/2021/02/mit-schallwellen-gegen-den-strom-schwimmen.html
+
 ## Main article
 
 Winzige Vehikel, so klein, dass sie durch unsere Blutgefässe navigieren können, sollen es Ärzten in Zukunft erlauben, im Körperinnern Biopsien zu nehmen, Stents einzusetzen oder Medikamente präzise an schwer zu erreichende Stellen zu transportieren. Wissenschaftler weltweit erforschen und entwickeln derzeit solche Mikrovehikel. Angetrieben und gelenkt werden sie meist über magnetische oder akustische Felder oder mit Licht. Allerdings war es bisher eine grosse Herausforderung, Mikrovehikel gegen einen Flüssigkeitsstrom zu bewegen. Dies ist unter anderem nötig, damit die Winzlinge in Blutgefässen entgegen der Fliessrichtung des Bluts navigieren können. Forschende der ETH Zürich haben nun Mikrovehikel entwickelt, welche von einem externen Feld angetrieben werden und gegen den Strom schwimmen können.

@@ -1,5 +1,7 @@
 # brasilien-auf-dem-holzweg
 
+**Source:** de_news_events/2022/10/brasilien-auf-dem-holzweg.html
+
 ## Main article
 
 Gollnow F, Cammelli F, Carlson K, Garrett R. Gaps in Adoption and Implementation Limit the Current and Potential Effectiveness of Zero-Deforestation Supply Chain Policies for Soy. Environmental Research Letters 28 October 2022, doi: externe Seite 10.1088/1748-9326/ac97f6

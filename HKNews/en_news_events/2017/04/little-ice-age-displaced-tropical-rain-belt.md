@@ -1,5 +1,7 @@
 # little-ice-age-displaced-tropical-rain-belt
 
+**Source:** en_news_events/2017/04/little-ice-age-displaced-tropical-rain-belt.html
+
 ## Lower temperatures worldwide
 
 The tropical rain belt, also known as the Intertropical Convergence Zone (ITCZ), is in a state of constant migration. It continuously changes position in response to the seasons and follows the sun’s zenith, with a slight delay. This in turn determines the wet and dry periods in the tropics and subtropics over the course of the year. The tropical rain belt therefore effectively controls the climate in most of the tropical and subtropical regions, such as the monsoon season in Southeast Asia and Central America.

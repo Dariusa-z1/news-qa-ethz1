@@ -1,5 +1,7 @@
 # four-new-ways-of-discovering-eth
 
+**Source:** en_internal/2022/05/four-new-ways-of-discovering-eth.html
+
 ## Heading for a CO2-neutral future
 
 Everyday work is often shaped by recurring processes, set patterns and personal routines. While this gives us a sense of security, it sometimes prevents us from seeing what’s new. The eight Theme tours from Campus Experience set the balance right: just in time for summer, you can once again explore the university live and discover a host of new things – with ETH students and staff as your competent guides.

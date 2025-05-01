@@ -1,5 +1,7 @@
 # akustische-bildgebung-mit-umrisserkennung
 
+**Source:** de_news_events/2015/09/akustische-bildgebung-mit-umrisserkennung.html
+
 ## Resonanz-Struktur aus dem 3D-Drucker
 
 Mit zurückgeworfenem Schall kann man Objekte sichtbar machen: In der Schifffahrt liefert das Echolot Informationen zum Meeresboden oder zu Fischschwärmen, und Gynäkologinnen nutzen Ultraschallbilder, um Ungeborene im Mutterleib zu untersuchen. Ebenfalls auf Ultraschall basieren Materialprüfungsverfahren, mit denen Eisenbahnschienen oder die Tragelemente von Flugzeugen regelmässig auf Risse untersucht werden.

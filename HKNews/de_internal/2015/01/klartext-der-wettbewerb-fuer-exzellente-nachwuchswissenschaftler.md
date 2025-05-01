@@ -1,5 +1,7 @@
 # klartext-der-wettbewerb-fuer-exzellente-nachwuchswissenschaftler
 
+**Source:** de_internal/2015/01/klartext-der-wettbewerb-fuer-exzellente-nachwuchswissenschaftler.html
+
 ## Main article
 
 Für exzellente Nachwuchswissenschaftler, die ihre Forschungsergebnisse der Öffentlichkeit allgemein verständlich darstellen wollen, schreibt die Klaus Tschira Stiftung jährlich «KlarText!, den Klaus Tschira Preis für verständliche Wissenschaft», aus. Der Einsendeschluss 2015 ist am 28. Februar.

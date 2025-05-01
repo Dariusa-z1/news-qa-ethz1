@@ -1,5 +1,7 @@
 # intellektueller-auf-gullivers-spuren
 
+**Source:** de_news_events/2019/10/intellektueller-auf-gullivers-spuren.html
+
 ## Vom Grundlagen- zum Wissenschaftsforscher
 
 «Gullivers Reisen» haben es ihm angetan. Der Abenteurer aus Jonathan Swifts rund 300-jährigem Klassiker, der sich immer wieder magisch von fremden Welten angezogen fühlt und vorbehaltlos auf sie eingeht, ist einer von Gerd Folkers’ Säulenheiligen. Liess ihm seine Beanspruchung als Dozent und Forscher einmal Zeit, um in sich zu gehen, bot das Werk einen wichtigen Orientierungspunkt: «Es sind die erfrischenden, perfekt inszenierten Perspektivenwechsel, die mich an Gulliver immer aufs Neue verblüffen», so Gerd Folkers. Perspektivenwechsel: ein Schlüsselbegriff für sein Wirken in den vergangenen rund fünfzehn Jahren.

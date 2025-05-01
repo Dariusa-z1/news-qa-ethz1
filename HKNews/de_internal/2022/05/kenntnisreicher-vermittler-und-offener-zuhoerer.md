@@ -1,5 +1,7 @@
 # kenntnisreicher-vermittler-und-offener-zuhoerer
 
+**Source:** de_internal/2022/05/kenntnisreicher-vermittler-und-offener-zuhoerer.html
+
 ## Zur Person
 
 Herr Tröster, kurz zusammengefasst: Was sind die Aufgaben einer Ombudsperson, und welche Fähigkeiten sollte man für dieses Amt mitbringen?
@@ -18,15 +20,13 @@ Das klingt nach einem Sprung ins kalte Wasser…
 
 Nun, man muss berücksichtigen: Die Anfragen, die zu uns kommen, sind sehr divers. In vielen Fällen braucht es nebst Kenntnissen der ETH eine gute Portion Menschenverstand. Auf alles kann man sich daher nicht mit einem Coaching vorbereiten.
 
-Welche Möglichkeiten hat eine Ombudsperson bei der Behandlung von Fällen?
-
 ## Newsletter abonnieren
+
+Welche Möglichkeiten hat eine Ombudsperson bei der Behandlung von Fällen?
 
 Eine Ombudsperson hat keine Exekutivgewalt, sie kann also nichts durchsetzen oder anordnen. Aber sie hat das Recht, jede Stelle der ETH anzufragen und darf dort auch eine Antwort erwarten. Bei vielen Fällen ging es z.B. um eine Unklarheit im Arbeits- oder im Forschungsvertrag. Die anfragende Person wollte jedoch nicht selbst den Rechtsdienst anfragen, weil sie Angst hatte, dass ihr Fall so publik werden könnte. Hier amtete ich als Vermittler und fragte für diese Person beim Rechtsdienst an, ohne die Person zu benennen.
 
 Was haben Sie an Ihrer Tätigkeit besonders geschätzt?
-
-Zum einen die sehr gute interne Zusammenarbeit an der ETH: Ich wurde bei der Ausübung meines Amtes von allen Institutionen immer sehr unterstützt. Zu allen war der Kontakt sehr gut. Zum anderen hat es mich stets sehr motiviert, mit jungen Leuten zu arbeiten. Dieses Interesse hatte ich schon immer, während meiner gesamten Karriere.
 
 Welche ETH-Angehörigen nahmen Ihre Dienste besonders in Anspruch?
 
@@ -38,9 +38,9 @@ Die Anfragen waren sehr divers. Bei Studierenden waren die Anliegen z.B., dass e
 
 Bei Doktorierenden ging es zudem öfters auch darum, dass das Doktorat vorzeitig durch die Betreuungsperson beendet worden war und wie es für die Doktorierenden nun weitergehen soll. In solchen Fällen konnte ich manchmal helfen, eine neue Betreuungsperson zu finden, oder auch moralisch zu unterstützen. Ein Doktorand hat mich sogar einmal in der Danksagungsliste seiner Doktorprüfung aufgeführt. Dies hat mich sehr gefreut.
 
-Bei Postdocs waren die Fälle eher schwieriger, weil die Regelung für sie an der ETH noch unklar ist. Hier müsste man noch mehr tun. Diese Mitarbeitenden haben auf kurze Zeit Arbeitsverträge und unklare Zukunftsaussichten. Dies müsste man arbeitsrechtlich besser abfassen, ähnlich, wie es für die Doktorierenden mit der neuen Doktoratsverordnung geregelt wurde.
-
 ## Staffnet
+
+Bei Postdocs waren die Fälle eher schwieriger, weil die Regelung für sie an der ETH noch unklar ist. Hier müsste man noch mehr tun. Diese Mitarbeitenden haben auf kurze Zeit Arbeitsverträge und unklare Zukunftsaussichten. Dies müsste man arbeitsrechtlich besser abfassen, ähnlich, wie es für die Doktorierenden mit der neuen Doktoratsverordnung geregelt wurde.
 
 Gibt es Fälle, die Ihnen besonders in Erinnerung bleiben? Es gab durchaus lustige Fälle, z.B. jener einer nicht-schweizerischen Doktorandin, deren Professor seine Gruppe jeweils am Freitagabend zum Bier ins Niederdorf einlud. Das Problem dieser Doktorandin: Sie trank kein Bier, traute sich jedoch nicht, dem Professor zu sagen, dass sie deshalb nicht mitkommen möchte. Ich habe ihr empfohlen, dies dem Professor offen zu sagen und er sicher dafür Verständnis haben werde.
 
@@ -57,8 +57,6 @@ Was uns Ombudspersonen jedoch immer etwas auf dem Magen liegt: In manchen Fälle
 Wie bleiben Sie mit der ETH verbunden? Und wie sehen Ihre nächsten Pläne aus?
 
 Ich bin noch in der Schweizer Studienstiftung und betreue als Mentor eine Gruppe, lese regelmässig die ETH-News und lebe somit durchaus noch mit der ETH – die wird mich nicht so schnell los.
-
-Nun habe ich mehr Zeit für meine Hobbies, mache Musik und reise gerne. Ich geniesse dies sehr. Was mir jedoch etwas fehlt, ist der Kontakt zu jungen Leuten. Der war mir immer wichtig. Ich habe gerne Vorlesungen gegeben und den Austausch mit den Studierenden sehr genossen. Aber: Alles ist endlich und man muss den jungen Leuten auch Platz machen und die Chance geben, etwas Neues zu machen. Wenn nur «die Alten» rumsitzen, ist das nicht gut.
 
 Gerhard Tröster (*1953) leitete als ordentlicher Professor für Elektronik von August 1993 bis Juli 2018 das Fachgebiet «Digitale Systeme & Wearable Computing» am Institut für Elektronik der ETH Zürich. Nach seiner Emeritierung im Juli 2018 war er bis März 2022 als Ombudsperson der ETH tätig.
 

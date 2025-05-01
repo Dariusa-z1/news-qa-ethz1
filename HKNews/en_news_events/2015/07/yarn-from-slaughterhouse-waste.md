@@ -1,5 +1,7 @@
 # yarn-from-slaughterhouse-waste
 
+**Source:** en_news_events/2015/07/yarn-from-slaughterhouse-waste.html
+
 ## New use for waste product
 
 Some 70 million tonnes of fibres are traded worldwide every year. Man-made fibres manufactured from products of petroleum or natural gas account for almost two-thirds of this total. The most commonly used natural fibres are wool and cotton, but they have lost ground against synthetic fibres.

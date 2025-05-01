@@ -1,5 +1,7 @@
 # forschung-in-der-lehre
 
+**Source:** de_internal/2014/05/forschung-in-der-lehre.html
+
 ## Praxisorientierung
 
 Die Zeit vergeht wie im Flug. Ein Klischee, das aber perfekt auf die aktuelle Situation unseres Lehrstuhls im Future Cities Laboratory passt. Kaum zu glauben, dass ich nun schon seit zweieinhalb Jahren in Singapur lebe und arbeite! Nun geht unsere Zeit hier zu Ende, und ein neues Kapitel beginnt. Der Lehrstuhl für Architektur und Konstruktion kehrt zurück an die ETH Zürich. Dort werden wir unsere Forschungsarbeit fortsetzen und eine Lehrveranstaltung im Bereich Konstruktion für den Master-Studiengang anbieten – eine spannende neue Aufgabe, auf die wir uns alle sehr freuen.

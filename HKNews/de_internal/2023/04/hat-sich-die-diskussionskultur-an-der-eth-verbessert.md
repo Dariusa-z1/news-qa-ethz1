@@ -1,5 +1,7 @@
 # hat-sich-die-diskussionskultur-an-der-eth-verbessert
 
+**Source:** de_internal/2023/04/hat-sich-die-diskussionskultur-an-der-eth-verbessert.html
+
 ## Pro
 
 Pius Krütli, Co-Leiter TdLab am D-USYS

@@ -1,5 +1,7 @@
 # four-eth-professors-receive-max-planck-fellowships
 
+**Source:** en_news_events/2021/09/four-eth-professors-receive-max-planck-fellowships.html
+
 ## Main article
 
 The Max Planck Society has awarded Max Planck fellowships to four ETH professors: machine learning experts Otmar Hilliges, Thomas Hofmann, Andreas Krause and biomedical engineering expert Klaas P. Prüssmann will each lead one additional research group at the Max Planck Institute for Intelligent Systems in Tübingen/Stuttgart and also teach doctoral students.

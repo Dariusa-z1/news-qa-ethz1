@@ -1,5 +1,7 @@
 # james-webb-space-telescope-first-image
 
+**Source:** en_news_events/2022/07/james-webb-space-telescope-first-image.html
+
 ## Main article
 
 NASA has just published a first, spectacular image of the James Webb Space Telescope (JWST). What did you feel when you saw it? I felt a sense of great joy and satisfaction that everything is working so well. After almost 20 years of development, it is a great moment to finally see the first scientific data.

@@ -1,5 +1,7 @@
 # we-learn-mathematics-more-easily-if-we-talk-about-examples
 
+**Source:** en_news_events/2014/10/we-learn-mathematics-more-easily-if-we-talk-about-examples.html
+
 ## Main article
 
 It’s a typical situation at middle school, grammar school or university: you are preparing for a maths exam. Is it worth studying for it in a group, if afterwards it is your own performance that will be judged? And how should group learning work so that each individual subsequently performs better?
@@ -25,6 +27,8 @@ However, for teaching in secondary schools and universities, this traditional ty
 Many stories, one principle
 
 This is why, in contrast to the traditional group puzzle, Deiglmayr and Schalk do not assign different topics or learning content to the various members of the group in their experiments. Instead, they all have to work on problems that demonstrate the same principles and concepts. What does differ between the students is the area of application from which the tasks are taken.
+
+This means that they are all learning from different material and can benefit in the discussion from the different perspectives of the other students. The results from an initial study confirm the hypothesis that the authors’ modified group puzzle promotes learning better than a traditional one.
 
 For example, in the modified group puzzle, one member of the group works on the underlying principles of probability theory using the example of different-coloured bike helmets that are handed out on a cycling tour lasting several days. Another person uses the example of a chemist taking unlabelled samples out of a cabinet, while the third works on the example of equally matched ski jumpers competing against one another.
 

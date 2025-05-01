@@ -1,5 +1,7 @@
 # artificial-intelligence-is-not-a-pandemic
 
+**Source:** en_news_events/2023/04/artificial-intelligence-is-not-a-pandemic.html
+
 ## After the initial shock...
 
 When COVID-19 first hit, we fell over ourselves generating, proclaiming, and retracting rules and restrictions; we produced a torrent of partially contradictory regulations about masks, testing, travel, and vaccinations. Today, certain measures may seem slightly ridiculous, ineffective, or too far-reaching. At the time, though, imperfection was better than inaction: it was imperative to contain the deadly pandemic.

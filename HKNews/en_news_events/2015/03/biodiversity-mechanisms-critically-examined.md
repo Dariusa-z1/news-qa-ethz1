@@ -1,5 +1,7 @@
 # biodiversity-mechanisms-critically-examined
 
+**Source:** en_news_events/2015/03/biodiversity-mechanisms-critically-examined.html
+
 ## Participation in the Jena Experiment
 
 The prize-winner Dörte Bachmann. (Photo: ETH Zurich / Peter Rüegg)

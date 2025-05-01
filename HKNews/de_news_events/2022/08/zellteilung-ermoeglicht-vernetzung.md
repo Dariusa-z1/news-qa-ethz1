@@ -1,34 +1,32 @@
 # zellteilung-ermoeglicht-vernetzung
 
+**Source:** de_news_events/2022/08/zellteilung-ermoeglicht-vernetzung.html
+
 ## Es gibt keinen fixen Bauplan
-
-Das menschliche Gehirn ist das weitaus komplexeste Organ, das die Natur je hervorgebracht hat: 100 Milliarden Nervenzellen, jede über mehrere Kontaktstellen mit anderen Zellen vernetzt, sorgen dafür, dass wir unter anderem zu bemerkenswerten Denkleistungen fähig sind. Doch wie dieses aussergewöhnliche Organ aus einer anfänglich unstrukturierten Ansammlung von embryonalen Zellen entsteht, ist nach wie vor unklar.
-
-## Anleitung zur Vernetzung
 
 In den letzten Jahren wurden grosse Summen an Forschungsgeldern aufgewendet, um die Struktur von ausgereiften Gehirnen zu vermessen. Die Wissenschaft hofft, dass man aus der genauen Kartierung der Neuronen und ihrer Vernetzung – also dem sogenannten Konnektom – ein besseres Verständnis der Funktionsweise des Gehirns bekommt.
 
-## Räumliche und genetische Struktur
+## Anleitung zur Vernetzung
 
 Doch die grundlegende Frage, wie das Gehirn aus der begrenzten genetischen Information der Ausgangszellen entsteht, bleibt nach wie vor unbeantwortet. Denn um das Konnektom zu beschreiben, müsste in den Genen ein Milliardenfaches der tatsächlichen Informationsmenge abgespeichert sein. Wie also kommt es, dass Tiere und Menschen mit einem weitgehend vorstrukturierten Organ auf die Welt kommen, das schon kurz nach der Geburt schnelle Lernfortschritte ermöglicht?
 
-## Systematische Abfolge von Zellen
+## Räumliche und genetische Struktur
 
 Die Antwort auf diese Frage ist bemerkenswert einfach, haben Stan Kerstjens, Doktorand am Institut für Neuroinformatik der ETH und Universität Zürich, und seine beiden Betreuer Richard Hahnloser, Professor für Systemneurowissenschaften, und Rodney Douglas, emeritierter Professor für Neuroinformatik, herausgefunden.
 
-## Auf der Suche nach verwandten Zellen
-
-«Es liegt auf der Hand, dass die Anleitung zur Vernetzung in den Genen angelegt sein muss, sonst würde nicht bei allen Menschen ein ähnlich strukturiertes Gehirn entstehen», betont Kerstjens. «Allerdings ist nicht das detaillierte Konnektom in den Genen codiert, sondern eine kompakte Suchmethode. Diese wird dann von den Axonen verwendet, die als lange Fäden den Kontakt zu anderen Zellen herstellen. Das Netzwerk entsteht, indem die Axonen nach Zellen suchen, die genetisch mit ihren eigenen Neuron verwandt sind.»
-
-## Das Prinzip verstehen
+## Systematische Abfolge von Zellen
 
 Dieser neuartige Mechanismus haben die Forscher in einem in der Zeitschrift PLOS Computational Biology veröffentlichten Artikel beschrieben. Die Wissenschaftler haben ein Modell entwickelt, mit dem sie die Entwicklung eines Mäusegehirns vom embryonalen bis umgerechnet zum Reifestadium eines sechsjährigen Kindes simulieren können.
 
-## Literaturhinweis
+## Auf der Suche nach verwandten Zellen
 
 «Im Kern handelt es sich um ein Wachstumsmodell für Gewebe», erklärt Kerstjens. Ausgehend von einer einzelnen Anfangszelle entstehen im Modell nach und nach neue Neuronen, wobei bei es bei jeder Zellteilung zu gewissen Veränderungen in der Genaktivität kommt. Dieser Mechanismus führt dazu, dass Tochterzellen jeweils eine ähnliche, aber eben nicht identische Genexpression wie ihre Vorläuferinnen haben und dass Zellen mit ähnlicher Genexpression räumlich nahe beieinander liegen. Diese entwicklungsbedingte Organisation der Zellen bewirkt eine kartenähnliche Markierung der Zellen, welche die Biologie dann für die Navigation der Axonen nutzen kann.
 
+## Das Prinzip verstehen
+
 Im Laufe der embryonalen Entwicklung entsteht auf diese Weise eine hierarchische Organisation von genetischen Markierungen in den unterschiedlichen Hirnregionen, die sich jeweils durch das genetische Muster ihrer gemeinsamen Vorfahren auszeichnen. Durchquert man räumlich diese kartenähnliche Hierarchie, folgt man einer systematischen Abfolge von genetischen Profilen, die sich von Generation zu Generation von Zellen entwickelt haben.
+
+## Literaturhinweis
 
 Die Forschenden haben dazu Daten der Genaktivität von Mäusegehirnen analysiert, die vom Allen Institute for Brain Science in Seattle veröffentlicht wurden. «Wir haben die Labordaten mit unseren Simulationen verglichen und stellten eine weitgehende Übereinstimmung fest. Die Aktivität der Gene unterteilt das Gehirn also tatsächlich in verschachtelte, zusammenhängende Regionen», erklärt Kerstjens.
 

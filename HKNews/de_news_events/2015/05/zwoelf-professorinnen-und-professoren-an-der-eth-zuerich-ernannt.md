@@ -1,5 +1,7 @@
 # zwoelf-professorinnen-und-professoren-an-der-eth-zuerich-ernannt
 
+**Source:** de_news_events/2015/05/zwoelf-professorinnen-und-professoren-an-der-eth-zuerich-ernannt.html
+
 ## Ernennungen ETH Zürich
 
 Der ETH-Rat hat auf Antrag des Präsidenten der ETH Zürich, Prof. Dr. Lino Guzzella, an seiner Sitzung vom 20./21. Mai insgesamt 12 Personen zur Professorin oder zum Professor der ETH Zürich ernannt, den Rücktritt einer Professorin und eines Professors mit Verdankung zur Kenntnis genommen und einen Professorentitel verliehen.

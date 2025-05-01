@@ -1,5 +1,7 @@
 # ein-labor-fuer-die-reale-welt
 
+**Source:** de_news_events/2015/02/ein-labor-fuer-die-reale-welt.html
+
 ## Studiengang ist Teil eines neuen ETH-Instituts
 
 Raus aus der Hochschule, rein in die Entscheidungsprozesse von Politik, Wirtschaft und Gesellschaft. So lässt sich der Grundgedanke hinter dem neuem Master-Studiengang (MSc) «Science, Technology and Policy» beschreiben. Im Verlauf von drei Semestern erwerben Ingenieure, Naturwissenschaftler und Architekten grundlegende Kenntnisse über Strukturen und Prozesse in Politik, Wirtschaft und Gesellschaft.

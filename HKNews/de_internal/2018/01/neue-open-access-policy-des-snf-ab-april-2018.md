@@ -1,5 +1,7 @@
 # neue-open-access-policy-des-snf-ab-april-2018
 
+**Source:** de_internal/2018/01/neue-open-access-policy-des-snf-ab-april-2018.html
+
 ## Main article
 
 Der Schweizerische Nationalfonds hat sich vor dem Hintergrund der Anfang 2017 verabschiedeten externe Seite nationalen Open-Access-Strategie zum Ziel gesetzt, dass alle aus SNF-Projekten entstandenen wissenschaftlichen Publikationen bis 2020 Open Access zugänglich sein sollen.

@@ -1,5 +1,7 @@
 # do-it-yourself-windturbine-fuer-entwicklungslaender
 
+**Source:** en_news_events/2014/05/do-it-yourself-windturbine-fuer-entwicklungslaender.html
+
 ## Bambus und Holz als Werkstoffe
 
 - Kalmar-Roboter und Honigwaben-Turbine

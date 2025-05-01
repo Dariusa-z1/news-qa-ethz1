@@ -1,5 +1,7 @@
 # high-speed-opportunity-for-scientists
 
+**Source:** en_news_events/2014/07/high-speed-opportunity-for-scientists.html
+
 ## Qualifying event in the Miller’s Studio
 
 Just three minutes in which to present your project to a high-calibre jury: that's what makes the Falling Walls Lab an even bigger challenge than the now familiar Science Slams. Nevertheless, in essence the format is the same – it's a science competition – but in the Falling Walls Lab the participants have to manage with less than a third of the amount of time: "In most slams, participants have at least ten minutes to make their presentation," explains Naveed Syed from the Falling Walls Lab Berlin. And there's another rule that might bring the participants out in a sweat: they are only allowed three PowerPoint slides for their presentation.

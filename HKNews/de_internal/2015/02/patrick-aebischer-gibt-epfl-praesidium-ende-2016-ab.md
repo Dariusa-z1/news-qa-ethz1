@@ -1,5 +1,7 @@
 # patrick-aebischer-gibt-epfl-praesidium-ende-2016-ab
 
+**Source:** de_internal/2015/02/patrick-aebischer-gibt-epfl-praesidium-ende-2016-ab.html
+
 ## Findungsverfahren des ETH-Rats
 
 Heute hat der Bundesrat EPFL-Präsident Patrick Aebischer bis zum 31. Dezember 2016 wiedergewählt. Er folgt damit dem einstimmigen Antrag des ETH-Rats und dem Wunsch von Patrick Aebischer, das Präsidium Ende 2016 abzugeben. Nach 15 Jahren an der Spitze der EPFL hält Patrick Aebischer den Moment für gekommen, die Übergabe der Führungsverantwortung einzuleiten, damit die Hochschule ihren erfolgreichen Kurs fortsetzen kann, teilt der Bundesrat mit und dankt Patrick Aebischer für seinen ausserordentlichen Beitrag zu Gunsten des gesamten Bildungs- und Forschungsplatzes Schweiz.

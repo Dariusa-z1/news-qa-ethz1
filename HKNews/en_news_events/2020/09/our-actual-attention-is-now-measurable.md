@@ -1,5 +1,7 @@
 # our-actual-attention-is-now-measurable
 
+**Source:** en_news_events/2020/09/our-actual-attention-is-now-measurable.html
+
 ## The key to attentive user interfaces
 
 How many times a day do you turn on your smartphone? How long is the screen on and how long are the various apps in use? Every modern smartphone collects this data automatically and makes it available to the user under headings like “Digital wellbeing”. But not all screen time and app use is equal. Sometimes we concentrate fully on something for a long time, while at other times we only look briefly at the screen or are distracted multiple times by things going on around us. And sometimes we don’t look at our smartphone at all, because we’ve activated it by accident.
@@ -14,25 +16,17 @@ Sander Staal, co-author of the study, shows how eye contact detection works. A g
 
 This kind of technology seems to be becoming ever more necessary: Bâce’s research shows that the visual attention we give to smartphones is currently extremely fragmented.
 
-On average, eye contact with the screen lasts only seven seconds before the gaze wanders – and this happens four times every time the phone is unlocked, for about two seconds each time.
+The user’s level of distraction depends on their individual personality, but also on their environment and the type of app currently in use. For example, medical apps or those used for training or education keep people’s attention better than entertainment apps.
 
 ## Basis for research in a wide range of areas
-
-The user’s level of distraction depends on their individual personality, but also on their environment and the type of app currently in use. For example, medical apps or those used for training or education keep people’s attention better than entertainment apps.
 
 For Bâce, however, the major value of his work does not only lie in the concrete research results that can be obtained using the system: “Above all, we want our system to provide a basis for other scientists. We will therefore publish all our algorithms in addition to all the video data.”
 
 App developers are not the only ones who could benefit in future: sociologists or psychologists could also use the system to carry out studies on the influence of various factors on attention without any great technical outlay. The medical field could also make use of the technology: for example, changes in attention behaviour could be checked when monitoring patients, and could point towards problematic developments.
 
-## Infrastructure was a great challenge
-
 When developing the system, an app was used that, in addition to recording videos using the front-facing camera each time the phone was unlocked and collecting various sensor and metadata in parallel, also contained data protection and verification features.
 
-The study participants were able to use a review component to decide for themselves which videos to release for evaluation, and video sequences could be evaluated by other participants via an annotation game. The results of the automatic eye contact detection were reviewed during the development phase with the help of this third component.
-
-In an initial experiment with 32 participants and over a period of more than two weeks, the researchers recorded video sequences totalling 472 hours and then evaluated them using an innovative adaptive eye contact detection system. The individual videos could be up to several hundred megabytes in size, which meant that a lot of storage space was required on the smartphones and the upload times were correspondingly long. This was one of the greatest challenges.
-
-## References
+## Infrastructure was a great challenge
 
 Since users quickly switch off or at least minimise the use of apps that interfere with their everyday life, mechanisms had to be found to avoid placing an excessive load on the smartphone’s memory or blocking its transmission capacities.
 
@@ -40,9 +34,9 @@ Data protection also had to be ensured at all times – only content that had be
 
 Our smartphones will not necessarily have to evaluate sensitive personal data in order to understand us and our needs better in future. Instead, the computer scientists’ system could help to achieve this through the automatic detection of people’s attention levels.
 
-Bâce M, Staal S, Bulling A. (2020). Quantification of Users’ Visual Attention During Everyday Mobile Device Interactions. In: Proceedings of the Conference on Human Factors in Computing Systems (CHI ’20). ACM, New York, NY, USA, 2020, 1–14. doi: 10.1145/3313831.3376449
+## References
 
-Bâce M, Staal S, Bulling A. (2019). Accurate and Robust Eye Contact Detection During Everyday Mobile Device Interactions arxiv.org/abs/1907.11115
+Bâce M, Staal S, Bulling A. (2020). Quantification of Users’ Visual Attention During Everyday Mobile Device Interactions. In: Proceedings of the Conference on Human Factors in Computing Systems (CHI ’20). ACM, New York, NY, USA, 2020, 1–14. doi: 10.1145/3313831.3376449
 
 Video presentation of the paper: www.youtube.com/watch?v=SzLn3LujIqw
 

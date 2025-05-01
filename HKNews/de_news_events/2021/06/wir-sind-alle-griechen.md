@@ -1,5 +1,7 @@
 # wir-sind-alle-griechen
 
+**Source:** de_news_events/2021/06/wir-sind-alle-griechen.html
+
 ## Was das Denken beeinflusst
 
 Sollte er lieber Geschichte oder doch eher Physik studieren? Interessieren tut sich der Athener Gymnasiast in den 70er-Jahren für so viele Dinge. Doch während die Geisteswissenschaften etwas brotlos erscheinen, behaupteten Bekannte, man könne mit einem Physikstudium nur Lehrer werden, was dem jungen Konstantinos Boulouchos dann doch nicht ganz behagte. «Und heute finde ich nichts wichtiger, als junge Menschen auszubilden», lacht Boulouchos.

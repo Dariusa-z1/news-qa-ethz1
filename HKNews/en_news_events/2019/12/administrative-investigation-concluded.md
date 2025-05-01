@@ -1,5 +1,7 @@
 # administrative-investigation-concluded
 
+**Source:** en_news_events/2019/12/administrative-investigation-concluded.html
+
 ## Professor expresses regret and takes measures to improve the situation
 
 The administrative investigation opened on 17 July 2018 in the Department of Biosystems Science and Engineering (D-BSSE) is now concluded. The investigation was launched in response to a poll by the Academic Association of Scientific Staff at ETH Zurich (AVETH), and allegations made by doctoral students of poor management and support. The independent external investigators concluded that no legal provisions have been violated, but that employment contracts have in some cases been used as a means of exerting pressure.
@@ -19,6 +21,4 @@ The administrative investigation has also shown that the controls by the Human R
 ## Contact
 
 In March 2019 the Executive Board also passed a comprehensive package of measures to improve the university’s leadership and supervision structure. By 2020 all ETH doctoral students will have multiple supervision. D-BSSE already took this step in the summer of 2018. In addition, the Ordinance on Doctoral Studies is currently being revised, so as to further improve the overall conditions for doctoral studies. On top of that, the university will in future give an even higher priority to its leadership culture and personnel development. In June 2019 the ETH Executive Board therefore decided to create a new Executive Board domain with direct responsibility for personnel development.
-
-ETH Zurich Media relations Telefon: +41 44 632 41 41
 

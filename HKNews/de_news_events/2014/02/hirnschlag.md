@@ -1,5 +1,7 @@
 # hirnschlag
 
+**Source:** de_news_events/2014/02/hirnschlag.html
+
 ## Gesunde Gehirnhälfte übernimmt Kontrolle
 
 Der Hirnstamm (violett) wird nach einem Schlaganfall zu einer wichtigen Schaltstelle. (Graphik: istockphoto.com)

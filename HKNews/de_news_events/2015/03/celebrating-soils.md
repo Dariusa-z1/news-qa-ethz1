@@ -1,5 +1,7 @@
 # celebrating-soils
 
+**Source:** de_news_events/2015/03/celebrating-soils.html
+
 ## More than just “dirt”
 
 Centuries after Leonardo Da Vinci’s quote “We know more about the movement of celestial bodies than the soil underfoot” the gap in knowledge is shrinking and the vast complexity of soils is being more appreciated. However, as we farm, log and build more intensively on the fragile resource of soil, our soils are degrading while their importance for the future of humanity is becoming more apparent. This sparked 2015 as the International Year of Soils. We can’t eat, breathe, drink, or be healthy without sustainably managing soils (see externe Seite infograph ). Hence, we need to enact the significant advances in science and practice that can help us maintain and manage our soils into the future; our challenge is to take global action for our living soils that we depend on.

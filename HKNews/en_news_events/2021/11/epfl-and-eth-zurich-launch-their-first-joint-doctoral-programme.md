@@ -1,5 +1,7 @@
 # epfl-and-eth-zurich-launch-their-first-joint-doctoral-programme
 
+**Source:** en_news_events/2021/11/epfl-and-eth-zurich-launch-their-first-joint-doctoral-programme.html
+
 ## An important step
 
 How can the science of human cognition and learning help us to teach and learn? How can data science and artificial intelligence support the personalisation of learning? And how can we – especially in the age of flexible working – systematically evaluate the interaction between learners and physical spaces in different environments? These and similar questions will be intensively addressed by participants in the new joint doctoral programme in the learning sciences being offered by EPFL and ETH Zurich that starts in Spring 2022.

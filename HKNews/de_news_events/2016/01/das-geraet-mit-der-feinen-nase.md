@@ -1,5 +1,7 @@
 # das-geraet-mit-der-feinen-nase
 
+**Source:** de_news_events/2016/01/das-geraet-mit-der-feinen-nase.html
+
 ## Neue Stoffwechselmoleküle nachgewiesen
 
 Wenn es darum geht, geringste Spuren flüchtiger chemischer Verbindungen in der Luft zu messen, gehören die Analysegeräte in Pablo Sinues' Labor zu den weltweit empfindlichsten. Man findet mit ihnen sprichwörtlich die Nadel im Heuhaufen: Die Nachweisgrenze für flüchtige Verbindungen in Luft liegt im Bereich der Konzentration von einem Billionstel – und das in Echtzeit. Mit einer Luftanalyse lässt sich so beispielsweise in einem Frachtcontainer versteckter Sprengstoff aufspüren, so schnell und empfindlich, wie das Spürhunde können. Im Gegensatz zu Hunden können Sinues' Messgeräte jedoch eine breite Stoffpalette gleichzeitig analysieren – und sie werden auch nicht müde. Sinues, Privatdozent am Labor für Organische Chemie, hat nun die bereits grosse Empfindlichkeit der Messgeräte nochmals erhöht.

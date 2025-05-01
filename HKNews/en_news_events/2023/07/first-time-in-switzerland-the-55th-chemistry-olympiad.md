@@ -1,5 +1,7 @@
 # first-time-in-switzerland-the-55th-chemistry-olympiad
 
+**Source:** en_news_events/2023/07/first-time-in-switzerland-the-55th-chemistry-olympiad.html
+
 ## Five-hour tests and a visit to the Rigi massif
 
 - The IChO newsletter “external pageCatalyzercall\_made” will inform you daily about new developments concerning the Olympiad during the IChO. external pageSubscribe to it here.call\_made

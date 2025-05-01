@@ -1,5 +1,7 @@
 # delegierte-der-pensionskasse-publica-gesucht
 
+**Source:** de_internal/2016/09/delegierte-der-pensionskasse-publica-gesucht.html
+
 ## Kompetenzen der Delegierten
 
 Die Mitarbeitenden der ETH Zürich sind im Vorsorgewerk ETH-Bereich bei der Pensionskasse des Bundes Publica versichert. Am 27. November 2016 findet die Erneuerungswahl der Delegiertenversammlung der Publica für die vierjährige Amtsperiode 2017 bis 2020 statt. Die Wahl wird in diesem Jahr erstmals grundsätzlich mittels E-Voting durchgeführt werden.

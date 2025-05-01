@@ -1,5 +1,7 @@
 # wie-ein-blickwechsel-fuer-aufsehen-sorgte
 
+**Source:** de_news_events/2023/06/wie-ein-blickwechsel-fuer-aufsehen-sorgte.html
+
 ## Die Kosten minimieren
 
 Inverse Probleme sind das Spezialgebiet von Yunan Yang. «Unser Alltag ist voll davon», erklärt sie: «Ultraschall ist zum Beispiel ein inverses Problem.» Medizinische Ultraschall-Geräte senden Schallwellen ausserhalb unseres Hörbereichs aus, die durch den Körper wandern, und zeichnen die zurückgeworfenen Wellen wieder auf. Eine Software verarbeitet die Wellensignale und zeigt, was im Körper vorgeht. «Aus den Wellen das Bild des Babys zu ermitteln, ist ein inverses Problem», sagt die 32-jährige Mathematikerin, die seit Januar 2022 als «Advanced Fellow» am ETH-Institut für theoretische Studien (ETH-ITS) gearbeitet hat: «Ich wuchs in China auf und lebte danach acht Jahre in den USA, aber nie in Europa», erzählt Yang: «Deshalb wollte ich nach Zürich kommen und mit Forschenden in Europa zusammenarbeiten.»

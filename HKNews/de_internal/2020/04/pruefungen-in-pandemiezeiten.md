@@ -1,5 +1,7 @@
 # pruefungen-in-pandemiezeiten
 
+**Source:** de_internal/2020/04/pruefungen-in-pandemiezeiten.html
+
 ## Sessionsprüfungen
 
 - Für Dozierende

@@ -1,5 +1,7 @@
 # junk-dna-plays-keyrole-in-speciation
 
+**Source:** en_news_events/2021/08/junk-dna-plays-keyrole-in-speciation.html
+
 ## The origin of species: DNA edition
 
 More than 10 percent of our genome is made up of repetitive, seemingly nonsensical stretches of genetic material called satellite DNA that does not code for any proteins. In the past, some scientists have referred to this DNA as “genomic junk.”

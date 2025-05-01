@@ -1,5 +1,7 @@
 # jubilaeum-graphische-sammlung
 
+**Source:** de_news_events/2017/02/jubilaeum-graphische-sammlung.html
+
 ## Kunst soll ETH-Studierende inspirieren
 
 Nicht ein, nicht fünf – ganze 110 Werke von Pablo Picasso (1881-1973) befinden sich im Besitz der Graphischen Sammlung. Es handelt sich um teils grossformatige Blätter die einzeln, auf säurefreien Kartons und in Passepartouts gelagert werden. Und dies ist nur ein kleiner Teil des Bestandes – im Laufe ihrer 150-jährigen Geschichte kamen rund 160‘000 Werke zusammen. Neben Pablo Picasso finden sich auch unzählige Werke anderer bekannter Künstler wie Rembrandt, Goya, aber auch Warhol oder Fischli/Weiss.
@@ -25,8 +27,4 @@ Die Graphische Sammlung verdankt einige spezielle Kunstwerke grosszügigen Spend
 Die Graphische Sammlung ETH Zürich gehört mit ihrer hochkarätigen Kunstsammlung zu den grössten und bedeutendsten ihrer Art in der Schweiz. Sie geniesst grosses internationales Renommee. Seit ihrer Entstehung im Jahre 1867 ist sie durch kontinuierliche Ankäufe und zahlreiche Schenkungen weit über den ursprünglichen Rahmen einer Studiensammlung hinausgewachsen. Nebst einem Schwerpunkt im Bereich Alte Meister liegen grössere Werkgruppen von Schweizer Druckgraphik und Zeichnungen vom 19. bis zum 21. Jahrhundert vor. Als Teil der ETH Zürich ist es der Graphischen Sammlung wichtig, die wissenschaftliche Erschliessung, Erforschung und Digitalisierung ihrer Bestände voranzutreiben und interdisziplinäre Fragestellungen anzuregen.
 
 Im Jubiläumsjahr sind Ausstellungen und ein abwechslungsreiches Rahmenprogramm unter dem Motto «Blickwechsel» geplant. Die aktuelle Ausstellung «Ewige Gegenwart» entstand aus einer Ko-Produktion mit dem Helmhaus Zürich. Die Ausstellung im Mai ist ein gemeinsames Projekt mit dem Institut für Geschichte und Theorie der Architektur (gta), das gleichzeitig sein 50. Jubiläum feiert. Bei der dritten Ausstellung, die Mitte August eröffnet, kommen junge Schweizer Künstler zum Zuge. Studierenden der Universität und ETH Zürich werden dann die letzte Ausstellung des Jubiläumsjahrs mitkuratieren.
-
-ETH Zürich Dr. Linda Schädler Leiterin Graphische Sammlung Telefon: +41 44 632 40 47
-
-ETH Zürich Franziska Schmid Medienstelle Telefon: +41 44 632 41 41
 

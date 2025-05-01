@@ -1,8 +1,8 @@
 # zwei-gastvorlesungen-ueber-wasser-und-str%C3%B6mung
 
-## Wasser modellieren
+**Source:** de_internal/2016/03/zwei-gastvorlesungen-ueber-wasser-und-str%C3%B6mung.html
 
-Die D-MAVT Distinguished Lecture Series bringt weltweit führende Wissenschaftler und Ingenieure an die ETH Zürich, um ihre Arbeit im Rahmen eines Kolloquiums vorzustellen und Kontakte mit dem Fachbereich und Studierenden zu knüpfen und zu pflegen. Das Kolloquium zieht regelmässig eine breite Hörerschaft, bestehend aus Dozenten, Mitarbeitenden sowie Master- und Doktoratsstudierenden aller Departemente der ETH Zürich an.
+## Wasser modellieren
 
 Am 7. März 2016 präsentiert Wolfgang Schröder, Professor an der RWTH Aachen University, eine kartesische Cut-Cell-Methode für interagierende viskose Strömungen mit freischwebenden Begrenzungen. Die Methode ermöglicht eine präzise Auflösung der eingebetteten Begrenzungen, wobei Masse, Momentum und Energie strikte beibehalten werden.
 
@@ -18,9 +18,9 @@ David Quéré wird in seiner Vorlesung insbesondere erläutern, wie sich wassera
 
 Auf der Cut-Cell-Methode basierende Analyse freischwebender Partikel in viskosen Strömungen
 
-Prof. Wolfgang Schröder , RWTH Aachen University, Aerodynamisches Institut
-
 ## Newsletter abonnieren
+
+Prof. Wolfgang Schröder , RWTH Aachen University, Aerodynamisches Institut
 
 Montag, 7. März 2016, 17:15 Uhr im HG F 30 (nach der Vorlesung findet ein Apéro statt)
 

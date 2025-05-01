@@ -1,5 +1,7 @@
 # portraet-zuzana-sediva
 
+**Source:** de_news_events/2020/10/portraet-zuzana-sediva.html
+
 ## Neuartiges Treibmittel aus Gas und Wasser
 
 Zuzana Sediva hat eine Vorliebe für Pistazien. «Es gab eine Zeit, da sammelte ich sie in Sizilien und brachte sie nach Hause, um Glace zu machen», erzählt sie. Dass diese Leidenschaft am Ursprung ihrer Dissertation stand und schliesslich zu ihrer Geschäftsidee wurde, ahnte sie da noch nicht.

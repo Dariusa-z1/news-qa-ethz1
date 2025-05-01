@@ -1,5 +1,7 @@
 # top-100-spin-offs
 
+**Source:** de_news_events/2013/09/top-100-spin-offs.html
+
 ## Hightech vorne mit dabei
 
 Der ETH-Spin-off Bioversys ist erfolgreich. (Bild: Videostill Youtube)

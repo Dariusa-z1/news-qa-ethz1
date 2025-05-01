@@ -1,5 +1,7 @@
 # strengthening-supervision-of-doctoral-students
 
+**Source:** en_internal/2018/05/strengthening-supervision-of-doctoral-students.html
+
 ## A good time for solutions
 
 An ETH doctorate is a mark of superior performance: Therefore, much is expected of doctoral students, both academically and in terms of their personal and time commitment. But to make a success of a doctorate, students also need good supervision from professors.

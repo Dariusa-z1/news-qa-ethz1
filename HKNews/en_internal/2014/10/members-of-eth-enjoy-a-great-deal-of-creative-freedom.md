@@ -1,5 +1,7 @@
 # members-of-eth-enjoy-a-great-deal-of-creative-freedom
 
+**Source:** en_internal/2014/10/members-of-eth-enjoy-a-great-deal-of-creative-freedom.html
+
 ## About the interviewee
 
 Piero Cereghetti, you have spent 15 years working for ETH Zurich. The university has developed substantially during that time. What do you think were the greatest milestones during this development? I was extremely fortunate to join ETH Zurich precisely at the time when it was becoming independent. The process began with the establishment of our own salary administration system: previously salaries had been managed in Bern. The revision of the Federal Personnel Act and the formulation and implementation of the Personnel Ordinance and salary system for the ETH domain were key developments during this period. We also gradually transformed the old Federal Insurance Fund (FIF) into the well-financed Publica pension fund. Other important milestones include the introduction of child care and the new service logistics concept. The last major project I was involved in was the revision of the terms of employment for doctoral students, which has recently been approved by the Executive Board.

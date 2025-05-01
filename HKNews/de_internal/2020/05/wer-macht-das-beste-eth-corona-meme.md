@@ -1,5 +1,7 @@
 # wer-macht-das-beste-eth-corona-meme
 
+**Source:** de_internal/2020/05/wer-macht-das-beste-eth-corona-meme.html
+
 ## Main article
 
 Das Arbeiten und Studieren in den eigenen vier Wänden bringt viele Herausforderungen mit sich. Doch so beschwerlich und ungewohnt die derzeitige Situation auch sein mag, mit ein wenig Humor lässt sich Vieles einfacher meistern.

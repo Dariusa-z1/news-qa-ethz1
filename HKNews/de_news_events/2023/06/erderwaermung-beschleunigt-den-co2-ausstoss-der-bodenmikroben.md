@@ -1,5 +1,7 @@
 # erderwaermung-beschleunigt-den-co2-ausstoss-der-bodenmikroben
 
+**Source:** de_news_events/2023/06/erderwaermung-beschleunigt-den-co2-ausstoss-der-bodenmikroben.html
+
 ## In Kürze
 
 - Prognosen zeigen, dass die CO2-Emissionen der Bodenmikroben bis zum Ende des Jahrhunderts stark ansteigen werden.

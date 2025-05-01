@@ -1,5 +1,7 @@
 # viola-vogel-im-podcast
 
+**Source:** de_news_events/2020/03/viola-vogel-im-podcast.html
+
 ## Main article
 
 Gemäss der Professorin am Laboratorium für Angewandte Mechanobiologie können diese Massnahmen das Risiko einer Infektion mit dem Coronavirus verringern. Und sie hat auch noch eine dringende Bitte: "Alle, die gerade rauchen, nehmen Sie diese Krise ernst und hören Sie auf zu rauchen. Es könnte Ihnen helfen, zu überleben."

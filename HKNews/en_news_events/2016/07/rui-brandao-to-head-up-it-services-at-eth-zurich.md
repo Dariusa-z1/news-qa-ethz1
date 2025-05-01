@@ -1,5 +1,7 @@
 # rui-brandao-to-head-up-it-services-at-eth-zurich
 
+**Source:** en_news_events/2016/07/rui-brandao-to-head-up-it-services-at-eth-zurich.html
+
 ## Main article
 
 “I'm proud to have the opportunity to work for one of the top 10 universities in the world,” says ETH’s new Director of IT Services. Before his appointment by the ETH Executive Board, Brandao worked at Credit Suisse AG, where he was responsible for several IT departments and global projects. He recently managed the consolidation and transformation of the global testing, support and IT infrastructure organisation.

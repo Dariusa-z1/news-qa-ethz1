@@ -1,5 +1,7 @@
 # grippeschutzimpfungen-fuer-eth-mitarbeitende
 
+**Source:** de_internal/2021/09/grippeschutzimpfungen-fuer-eth-mitarbeitende.html
+
 ## Wer sollte sich impfen lassen?
 
 - Personen mit einem erhöhten Komplikationsrisiko bei einer Grippeerkrankung
@@ -38,15 +40,13 @@ Gemäss der Impfstrategie des Bundes ist nicht eine hundertprozentige Impfabdeck
 
 ## Kommentarregeln Intern aktuell
 
-Auch Personen, die im Rahmen ihrer Familie oder ihrer beruflichen Tätigkeit regelmässigen Kontakt mit einer der oben erwähnten Personengruppe haben, wird eine Impfung empfohlen. Besonders empfohlen wird die Grippeimpfung für Personen, die in der Medizin tätig sind und Mitarbeitende von Kinderkrippen.
+Um Ihnen ein sicheres Impfen zu ermöglichen, halten wir uns an die Covid-19-Regeln des BAG und der ETH:
 
 ## Staffnet
 
-Um Ihnen ein sicheres Impfen zu ermöglichen, halten wir uns an die Covid-19-Regeln des BAG und der ETH:
+Auch dieses Jahr wird die Grippeimpfung an je zwei Tagen an den Standorten Zentrum (Alumni-Pavillon GEP) und Hönggerberg (Gebäude HPH) sowie an einem Tag in Basel (Gebäude BSA) durchgeführt. Ausführliche Informationen und die Anmeldeseite finden Sie auf der Webseite der Abteilung SGU .
 
 ## Newsletter abonnieren
-
-Auch dieses Jahr wird die Grippeimpfung an je zwei Tagen an den Standorten Zentrum (Alumni-Pavillon GEP) und Hönggerberg (Gebäude HPH) sowie an einem Tag in Basel (Gebäude BSA) durchgeführt. Ausführliche Informationen und die Anmeldeseite finden Sie auf der Webseite der Abteilung SGU .
 
 Studierende und ETH-Angehörige im Ruhestand können sich unter anderem beim externe Seite Nationalen Grippeimpftag am Freitag, 5. November 2021 für einen vergünstigten Preis von CHF 30.- impfen lassen. Auch bieten Apotheken und Hausärzte/Hausärztinnen die Impfung an. Die Krankenversicherung übernimmt die Kosten für Personen mit erhöhtem Komplikationsrisiko über die Grundversicherung. Anfallende Kosten bei auswärtigen Anbietern oder Direktanmeldungen beim Zentrum für Arbeitsmedizin, Ergonomie und Hygiene (AEH) werden nicht übernommen.
 

@@ -1,5 +1,7 @@
 # globe-was-pflanzen-in-den-bergen-blueht
 
+**Source:** de_news_events/2022/09/globe-was-pflanzen-in-den-bergen-blueht.html
+
 ## Grösser und schneller
 
 Der Blick aus dem Autofenster gleicht für kurze Zeit dem Blick aus einem Flugzeug: Tief unten liegt Chur, die Häuser wirken wie Miniaturspielzeug und Autos wie Ameisen, die um dieses Spielzeug herumkurven. Der Hang fällt steil ab. Jake Alexander hält das Steuer fest umklammert, die Strasse ist schmal und holprig, kreuzen wäre an gewissen Stellen unmöglich.
@@ -49,4 +51,6 @@ Dominiert wird der Rasenziegel durch den Frauenmantel Alchemilla . «Diese Art h
 Wie genau sich die Pflanzenwelt am Calanda entwickeln wird, wird Alexanders Forschung also noch zeigen. Sicher ist: Verändern wird sie sich. Und es wird auf heutigen Alpweiden einige weisse, violette und gelbe Tupfer mehr geben.
 
 Der durch die globale Erwärmung angestossene Wandel von Ökosystemen vollzieht sich in der Arktis noch schneller als in Bergregionen. Als Folge davon wird die Arktis immer grüner. In den kommenden Jahren wollen Pflanzenökologinnen, Bodenkundler und Mikrobiologinnen im Rahmen eines Projekts von ETH+ lokale Muster und Regulationsmechanismen des Arctic Greening erforschen. Sie wollen verstehen, wie Vegetationsveränderungen, mikrobielle Bodengemeinschaften und die Bodenentwicklung das Tempo der Ökosystemveränderungen in der Arktis steuern.
+
+Ganze Ausgabe lesen (PDF, 5.1 MB)
 

@@ -1,5 +1,7 @@
 # es-ist-in-ordnung-sich-zeit-zu-lassen
 
+**Source:** de_news_events/2024/02/es-ist-in-ordnung-sich-zeit-zu-lassen.html
+
 ## Beratung für Studierende
 
 Nach dem Abschluss ihres Bachelor-Studiums in Informatik hatte Damla Ortac bereits eine Stelle als Softwareingenieurin. Doch noch bevor sie begonnen hatte, kamen ihr Zweifel und sie schlug einen ganz anderen Weg ein.

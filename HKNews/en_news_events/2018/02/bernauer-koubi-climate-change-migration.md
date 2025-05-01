@@ -1,5 +1,7 @@
 # bernauer-koubi-climate-change-migration
 
+**Source:** en_news_events/2018/02/bernauer-koubi-climate-change-migration.html
+
 ## Mass migration to Europe?
 
 Global warming is bound to have increasingly adverse consequences for humanity and ecosystems. While there is strong agreement in the scientific community about most of these consequences 1 , there is significant controversy about how climatic changes could affect human migration. Some political leaders, international organizations, and scientists claim that climate change will lead to massive population shifts in the international system, notably mass migration from poor to rich countries

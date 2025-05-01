@@ -1,5 +1,7 @@
 # mitmachen-und-gewinnen-online-umfrage-zur-eth-bibliothek
 
+**Source:** de_internal/2022/03/mitmachen-und-gewinnen-online-umfrage-zur-eth-bibliothek.html
+
 ## Main article
 
 Als ETH-Bibliothek fördern wir Wissen, unterstützen Forschung und Lehre und machen als vertrauenswürdige Institution die Welt von gestern, heute und morgen für Sie besser begreifbar.

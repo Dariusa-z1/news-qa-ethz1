@@ -1,5 +1,7 @@
 # news-from-the-executive-board-2022-9
 
+**Source:** en_internal/2022/10/news-from-the-executive-board-2022-9.html
+
 ## New management at SSHE
 
 - 2023: D-ARCH, D-BAUG
@@ -20,33 +22,29 @@
 
 Cookie Timmel, Director of Safety, Security, Health and Environment (SSHE), took early retirement on 21 October 2022. She will be succeeded by Annette Hofmann, currently Head of Safety, Security and Environment at the University of Zurich.
 
-“On behalf of the entire Executive Board, I would like to thank Cookie Timmel for her many years of professional and skilful leadership of the SSHE department,” said Ulrich Weidmann, Vice President for Infrastructure, in recognition of Timmel’s dedication to ETH. “Cookie succeeded in ensuring a consistently high level of safety and health at ETH Zurich. In addition, she was always personally involved in the management of numerous events. I wish Cookie all the best for the future and a fulfilling retirement.”
-
 ## An end-to-end safety organisation for ETH
 
-Annette Hofmann will take over the management of SSHE from 1 April 2023. In the months until then, Silke Kiesewetter will lead the department ad interim, supported by Roland Nisple from December. Reto Suter, currently Deputy Head of SSHE, will leave ETH at 5 December 2022.
-
-ETH Zurich has set itself the goal of establishing a responsible safety culture: all ETH members should have the knowledge and skills to recognise risks and hazards in their field of activity and to deal with them safely, responsibly and in accordance with the law.
+“On behalf of the entire Executive Board, I would like to thank Cookie Timmel for her many years of professional and skilful leadership of the SSHE department,” said Ulrich Weidmann, Vice President for Infrastructure, in recognition of Timmel’s dedication to ETH. “Cookie succeeded in ensuring a consistently high level of safety and health at ETH Zurich. In addition, she was always personally involved in the management of numerous events. I wish Cookie all the best for the future and a fulfilling retirement.”
 
 ## New regulations for the Master’s degree programme in Biology from 2023
 
-To ensure this, ETH is introducing an end-to-end safety organisation. It will be implemented using the “GSV” system: in future, group safety representatives (GSVs) will be appointed as contacts for occupational safety and health protection in the professors’ groups and courses. GSV tasks include carrying out hazard surveys in their groups on behalf of the professor, implementing measures and, if necessary, consulting specialist staff in the SSHE department. However, the responsibility for the safety and health of a group’s members remains with the professor.
-
-This GSV system has already proven its effectiveness during a four-year pilot phase in D-ITET and D‑MAVT. Now it is to be rolled out to all ETH Zurich departments that conduct experimental research. Staggered over the next few years, these are:
+Annette Hofmann will take over the management of SSHE from 1 April 2023. In the months until then, Silke Kiesewetter will lead the department ad interim, supported by Roland Nisple from December. Reto Suter, currently Deputy Head of SSHE, will leave ETH at 5 December 2022.
 
 ## New regulations for the Master’s degree programme in Data Science from 2023
 
-The other departments either already have an end-to-end safety organisation that can be continued unchanged (D-CHAB, D-BSSE) or they do not perform work involving special hazards. These departments can be involved through the department coordinators as a point of contact (D-GESS, D‑INFK, D-MATH and D-MTEC).
-
-The Master’s degree programme in Biology has been offered in its current form since 2018. With the new regulations taking effect in 2023, ETH aims to optimise the programme. The adjustments at a glance:
+ETH Zurich has set itself the goal of establishing a responsible safety culture: all ETH members should have the knowledge and skills to recognise risks and hazards in their field of activity and to deal with them safely, responsibly and in accordance with the law.
 
 ## Regular updates from the Executive Board
+
+This GSV system has already proven its effectiveness during a four-year pilot phase in D-ITET and D‑MAVT. Now it is to be rolled out to all ETH Zurich departments that conduct experimental research. Staggered over the next few years, these are:
+
+## Always up to date
+
+The Master’s degree programme in Biology has been offered in its current form since 2018. With the new regulations taking effect in 2023, ETH aims to optimise the programme. The adjustments at a glance:
 
 The adoption of new programme regulations in 2023 requires the termination of the previous programme regulations adopted in 2018, as the students arriving for Autumn Semester 2023 will study according to the new regulations.
 
 The Master’s degree programme in Data Science has existed in its current form since 2017. It is offered jointly by the D-INFK, D-ITET and D-MATH departments, with D-INFK taking the lead role. This programme has been successful (2017: 22 students; 2022: 176 students), with the majority of students demonstrating very good to excellent performance.
-
-## Always up to date
 
 For this reason, it is now appropriate to scale back the security measures put in place for the initial phase and to offer students more freedom. With the programme regulations as of 2023, all courses at the Master’s level of the D-INFK, D-ITET and D-MATH departments as well as all the interdisciplinary electives courses are available to the students as electives. In addition, the new regulations will optimise other topics such as the option to study abroad and responsibilities in the degree programme.
 

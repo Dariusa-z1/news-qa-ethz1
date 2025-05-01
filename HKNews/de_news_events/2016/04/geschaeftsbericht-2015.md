@@ -1,5 +1,7 @@
 # geschaeftsbericht-2015
 
+**Source:** de_news_events/2016/04/geschaeftsbericht-2015.html
+
 ## Wachstum setzt sich fort
 
 Jedes Jahr legt die ETH Zürich zuhanden der Öffentlichkeit Rechenschaft über die erbrachten Leistungen ab. Dazu hat sie nun erstmals den neu konzipierten Geschäftsbericht publiziert. Dieser besteht aus einem Lagebericht, der die wichtigsten Ereignisse und Entwicklungen an der Hochschule zusammenfasst, und einer detaillierten Jahresrechnung, die sich an den Vorgaben der «International Public Sector Accounting Standards» (IPSAS) orientiert. Neu ist zudem auch, dass der Geschäftsbericht in drei Sprachen vorliegt: Deutsch, Englisch und Französisch.

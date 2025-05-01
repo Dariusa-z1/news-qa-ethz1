@@ -1,5 +1,7 @@
 # bacterial-genome-created-with-computer
 
+**Source:** en_news_events/2019/03/bacterial-genome-created-with-computer.html
+
 ## Rationalising the production process
 
 All the genome sequences of organisms known throughout the world are stored in a database belonging to the National Center for Biotechnology Information in the United States. As of today, the database has an additional entry: Caulobacter ethensis-2.0 . It is the world’s first fully computer-generated genome of an organism, developed by scientists at ETH Zurich. However, it must be emphasised that although the genome for C. ethensis-2.0 was physically produced in the form of a very large DNA molecule, a corresponding organism does not yet exist.

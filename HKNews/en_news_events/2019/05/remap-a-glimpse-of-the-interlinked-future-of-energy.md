@@ -1,5 +1,7 @@
 # remap-a-glimpse-of-the-interlinked-future-of-energy
 
+**Source:** en_news_events/2019/05/remap-a-glimpse-of-the-interlinked-future-of-energy.html
+
 ## Flexible consumption and local intelligence
 
 - Detlef Günther, Vice President Research and Corporate Relations, ETH Zurich

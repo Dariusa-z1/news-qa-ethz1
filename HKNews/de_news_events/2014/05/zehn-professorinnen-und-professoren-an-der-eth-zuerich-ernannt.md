@@ -1,5 +1,7 @@
 # zehn-professorinnen-und-professoren-an-der-eth-zuerich-ernannt
 
+**Source:** de_news_events/2014/05/zehn-professorinnen-und-professoren-an-der-eth-zuerich-ernannt.html
+
 ## Main article
 
 Dr. Orçun Göksel (*1979), zurzeit Postdoktorand an der ETH Zürich, zum Assistenzprofessor für Computergestützte Anwendungen in der Medizin. Orçun Göksel ist ein Nachwuchsforscher mit grossem Potenzial auf den Gebieten der radiologischen Bildregistrierung, der Anwendung von Statistical Shape Models für die patientenspezifische Planung von chirurgischen Eingriffen sowie der Verwendung von Ultraschall für diagnostische und therapeutische Zwecke. Mit der Entwicklung von neuen Verfahren und der Erarbeitung neuer Ansätze für die quantitative in vivo Charakterisierung von mechanischen Gewebeeigenschaften wird Orçun Göksel dazu beitragen, die weltweit anerkannte Spitzenposition der ETH Zürich auf diesem strategisch wichtigen Gebiet auszubauen.

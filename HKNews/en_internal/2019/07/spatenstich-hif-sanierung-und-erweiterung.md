@@ -1,5 +1,7 @@
 # spatenstich-hif-sanierung-und-erweiterung
 
+**Source:** en_internal/2019/07/spatenstich-hif-sanierung-und-erweiterung.html
+
 ## Information on the pedestrian detour during the construction project
 
 According to Professor Thomas Vogel, Head of the Civil, Environmental and Geomatic Engineering department, this campus expansion will bring several disciplines closer together and in general facilitate the further development of the department and its institutes.
@@ -14,13 +16,13 @@ As the construction project involves heavy lorry traffic, the passage marked in 
 
 ## Contact
 
-The Hönggerberg campus is one of the two main ETH Zurich sites and offers the full spectrum of teaching, research and services. It houses seven departments and has a bustling campus atmosphere. In terms of infrastructural development at ETH Zurich, the Hönggerberg campus plays a unique role due to the space available. This is in contrast to the central campus, where development options are highly limited due to the historic district and urban structures. The infrastructural development at the Hönggerberg campus is based on the «Campus Hönggerberg 2040» master plan.
+Map detour (PDF, 255 KB)
 
 ## Subscribe to Newsletter
 
-Impressions from the ground-breaking ceremony. The star of the evening was the semi-autonomous excavator Menzi Muck, presented and operated by Professor Hutter and his team. (Pictures: Nicola Pitaro)
+The Hönggerberg campus is one of the two main ETH Zurich sites and offers the full spectrum of teaching, research and services. It houses seven departments and has a bustling campus atmosphere. In terms of infrastructural development at ETH Zurich, the Hönggerberg campus plays a unique role due to the space available. This is in contrast to the central campus, where development options are highly limited due to the historic district and urban structures. The infrastructural development at the Hönggerberg campus is based on the «Campus Hönggerberg 2040» master plan.
 
 ## Staffnet
 
-ETH Zurich Real Estate Management
+Impressions from the ground-breaking ceremony. The star of the evening was the semi-autonomous excavator Menzi Muck, presented and operated by Professor Hutter and his team. (Pictures: Nicola Pitaro)
 

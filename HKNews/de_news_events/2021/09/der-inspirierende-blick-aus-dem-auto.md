@@ -1,5 +1,7 @@
 # der-inspirierende-blick-aus-dem-auto
 
+**Source:** de_news_events/2021/09/der-inspirierende-blick-aus-dem-auto.html
+
 ## Zwischen Theorie und Praxis
 
 Architektur wird oft als das stahl- und betongewordene Spiegelbild gesellschaftlicher Entwicklungen bezeichnet. Die Städte und Dörfer, in denen wir leben, und die Bauwerke und Strassenzüge, die uns umgeben, verkörpern die sozialen, kulturellen und politischen Eigenheiten jener Epoche, in der sie entstanden sind.

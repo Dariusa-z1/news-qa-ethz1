@@ -1,5 +1,7 @@
 # informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-1-maerz-2021
 
+**Source:** de_internal/2021/02/informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-1-maerz-2021.html
+
 ## Standorte und Öffnungszeiten
 
 - Im Hauptgebäude und in der Baubibliothek sind Ausleihen und Rückgaben von Beständen aus allen Standorten möglich. Ebenso können kurze Recherchen und Beratungen unter Einhaltung der Distanz- und Hygienevorschriften stattfinden.
@@ -34,13 +36,9 @@ In allen ETH-Gebäuden gilt die Pflicht zum Tragen einer Maske . Es gelten weite
 
 ## Staffnet
 
-Nutzen Sie gerne auch weiterhin unsere digitalen Angebote und Kontaktmöglichkeiten . Verzichten Sie bitte auf einen Besuch, falls Sie zu einer Risikogruppe gehören oder Krankheitssymptome aufweisen.
-
-## Newsletter abonnieren
-
 Fragen? Die ETH-Bibliothek hilft gerne.
 
-E-Mail: Sie können uns auch über externe Seite WhatsApp und unseren Chat kontaktieren.
+## Newsletter abonnieren
 
 #ETHBibliothekDigital – Die ETH-Bibliothek ist nicht nur während der COVID-19-Schutzmassnahmen digital mit verschiedenen Angeboten und Dienstleistungen für Sie da.
 

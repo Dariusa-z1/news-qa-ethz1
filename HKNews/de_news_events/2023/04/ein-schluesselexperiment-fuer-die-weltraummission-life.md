@@ -1,5 +1,7 @@
 # ein-schluesselexperiment-fuer-die-weltraummission-life
 
+**Source:** de_news_events/2023/04/ein-schluesselexperiment-fuer-die-weltraummission-life.html
+
 ## Das Wichtigste in Kürze
 
 - Die Life-Initiative unter Führung der ETH Zürich soll dereinst Lebensspuren auf Exoplaneten nachweisen.

@@ -1,5 +1,7 @@
 # liebeserklaerung-an-haeufige-arten
 
+**Source:** de_news_events/2017/05/liebeserklaerung-an-haeufige-arten.html
+
 ## Das stille Artensterben
 
 Wer als Tierart beachtet werden will, muss zuerst selten werden oder aussterben. «Lonesome George», dem inzwischen verstorbenen letzten Vertreter einer Unterart von Galapagos-Schildkröten, ist ein ganzes Buch gewidmet und nach seinem Tod wurde er einbalsamiert. Die letzte Wandertaube «Martha» war eine Berühmtheit, bevor sie und damit ihre Art am 1. September 1914 im Zoo von Cincinnati verstarb.

@@ -1,5 +1,7 @@
 # die-eth-tanzt-mit-google-tango
 
+**Source:** de_news_events/2014/07/die-eth-tanzt-mit-google-tango.html
+
 ## Virtuelle und reale Welt vereinen
 
 Ein Smartphone mit Navigationsfunktion, die uns in einem Einkaufszentrum den Weg zu den Cornflakes weist. Eines, das uns realistisch zeigt, wie ein noch nicht gekauftes Sofa in den eigenen vier Wänden aussieht. Oder eines, das Blinde führen kann, wie es derzeit Hunde tun. Dies könnte bald schon Realität sein. Eine Projektgruppe des Internetgiganten Google ist unter anderem zusammen mit Hardwareproduzenten und öffentlichen Forschungsinstitutionen daran, ein solches Mobilgerät und die entsprechende Software zu entwickeln. Die ETH-Professoren Marc Pollefeys und Roland Siegwart und ihre Mitarbeiter sind wesentlich an dieser Entwicklung, dem «Project Tango» beteiligt.

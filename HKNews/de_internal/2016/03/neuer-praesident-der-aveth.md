@@ -1,5 +1,7 @@
 # neuer-praesident-der-aveth
 
+**Source:** de_internal/2016/03/neuer-praesident-der-aveth.html
+
 ## Main article
 
 Arik Jung heisst der neue Präsident der Akademischen Vereinigung des Mittelbaus an der ETH Zürich (AVETH). Die AVETH-Mitglieder haben ihn am Mittwochabend, 2. März 2016, auf dem Hönggerberg zum Nachfolger von Florian Thöle gewählt.

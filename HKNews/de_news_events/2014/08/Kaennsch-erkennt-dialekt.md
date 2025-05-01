@@ -1,5 +1,7 @@
 # Kaennsch-erkennt-dialekt
 
+**Source:** de_news_events/2014/08/Kaennsch-erkennt-dialekt.html
+
 ## Lernfähige Applikation
 
 «Hoi shaz i chume grad!» Kurznachrichten in Mundart zu schreiben, ist ein Phänomen unserer Zeit. Wer zum schnelleren Tippen gerne die Unterstützung eines Wörterbuchs nutzt, musste bisher allerdings mit Hochdeutsch Vorlieb nehmen. Nun soll die App «Kännsch» für Abhilfe sorgen. Entwickelt wurde das Programm während der letzten fünf Monate von Elektrotechnikstudentin Laura Peer in der Distributed Computing Group im Rahmen ihrer Masterarbeit.

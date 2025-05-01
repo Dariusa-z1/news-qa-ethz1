@@ -1,5 +1,7 @@
 # zk-jasper-maschinelles-lernen-architektur
 
+**Source:** de_news_events/2018/12/zk-jasper-maschinelles-lernen-architektur.html
+
 ## Der Architekt der Geldtasche
 
 Vor kurzem begleitete ich eine Gruppe von Architekturstudierenden für einige Tage bei einer Seminarwoche. Wir haben Menschen in ganz unterschiedlichen Berufen besucht und versucht zu verstehen, wie sich maschinelles Lernen und künstliche Intelligenz auf ihren Berufsalltag auswirken. Haben die Studierende Grund besorgt zu sein?

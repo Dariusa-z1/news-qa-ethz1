@@ -1,5 +1,7 @@
 # changes-in-colour-indicate-deformations
 
+**Source:** en_news_events/2021/08/changes-in-colour-indicate-deformations.html
+
 ## Artificial mother-of-pearl combined with polymer
 
 Lightweight construction has found its way into many areas, especially automotive manufacturing, shipbuilding and aircraft construction. In addition to traditional lightweight metals such as aluminium, magnesium or titanium, load-bearing applications are increasingly featuring composite materials. This is driving a concurrent need to develop new techniques and methods for the early detection of damage to or even the possible failure of such as yet understudied materials.

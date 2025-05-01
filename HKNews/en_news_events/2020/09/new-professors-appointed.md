@@ -1,5 +1,7 @@
 # new-professors-appointed
 
+**Source:** en_news_events/2020/09/new-professors-appointed.html
+
 ## Award of the title of Professor
 
 The new professors in brief:

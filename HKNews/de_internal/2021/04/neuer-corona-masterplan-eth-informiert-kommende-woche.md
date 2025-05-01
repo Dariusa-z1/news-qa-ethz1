@@ -1,5 +1,7 @@
 # neuer-corona-masterplan-eth-informiert-kommende-woche
 
+**Source:** de_internal/2021/04/neuer-corona-masterplan-eth-informiert-kommende-woche.html
+
 ## Mehr Präsenz der Studierenden ermöglichen
 
 Die vom Bundesrat beschlossenen Lockerungen eröffnen weitere Möglichkeiten für Präsenzveranstaltungen in der Lehre, aber mit sehr restriktiven Eckwerten. Auf die Arbeitssituation von Mitarbeitenden haben sie keine Auswirkungen. Kulturelle Veranstaltungen im kleinen Rahmen sind wieder möglich. Wie es an der ETH Zürich ab dem 26. April im Detail weitergehen soll, wird den Mitarbeitenden kommende Woche in einer Townhall kommuniziert. Dozierende und Studierende erhalten die Informationen direkt von der Rektorin. Der ASVZ kann den Betrieb vor Ort bereits am nächsten Montag wiederaufnehmen.

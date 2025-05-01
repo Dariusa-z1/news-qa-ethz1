@@ -1,5 +1,7 @@
 # blog-kosten-fliegen-renate-schubert
 
+**Source:** de_news_events/2018/11/blog-kosten-fliegen-renate-schubert.html
+
 ## Fliegen auf Kosten des Klimas
 
 Übers Wochenende mal schnell nach London? Zum Weihnachtsshopping rasch nach New York? Wer kennt sie nicht, die Versuchung des billigen Fliegens? Tatsache ist, dass das Fliegen dem Klima enorm schadet. Dennoch ist Fliegen heutzutage in den meisten Ländern so billig, dass mehr denn je geflogen wird. Warum ist das so?

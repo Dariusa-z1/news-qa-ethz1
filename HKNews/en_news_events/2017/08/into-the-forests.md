@@ -1,5 +1,7 @@
 # into-the-forests
 
+**Source:** en_news_events/2017/08/into-the-forests.html
+
 ## Leaves from the whole forest canopy
 
 Assistant Eva Merz is standing at the foot of a mighty beech tree in the middle of the forest. Two climbing ropes hang down from the crown of the tree. Two well-secured tree-climbers, Markus Gysin and Anja Erni, navigate their way through the branches at dizzying heights, cut off a branch and then carefully lower it to the ground by means of a thin cord. Merz grabs the branch and removes it from the cord. “I’m off again,” she calls up before hurrying back to the “base camp” with the harvested material.
@@ -48,11 +50,9 @@ Bachofen has concluded that the leaves on all layers contain similar levels of n
 
 “The tree has to invest nitrogen where it is most useful. This creates constantly conflicting goals,” explains the environmental scientist. For this reason, he says, it depends highly on the survival strategy of the tree species where in the crown the tree makes this investment.
 
-After a while, Merz puts down her reading. The photosynthesis measurements are very time consuming, taking at least 20 minutes per leaf – time she uses to read. The walkie-talkie crackles as the tree climbers make contact with her. They exchange just a few words and then Merz gets up and disappears around the bend. Barely two minutes later, she is back with the next beech branch and repeats the measurement procedure – a sort of assembly line task for the young researcher.
+When the leaves are clamped in the photosynthesis measuring instrument, once again the drill is to wait 45 minutes until picking up the next leaves from the tree-climbers. “Our days in the forest can get rather long,” says Bachofen. “At the end of the day, after we’ve cleaned and put away most of the equipment, we still have to wait until the last measurements are finished.”
 
 ## Long days in the forest
-
-When the leaves are clamped in the photosynthesis measuring instrument, once again the drill is to wait 45 minutes until picking up the next leaves from the tree-climbers. “Our days in the forest can get rather long,” says Bachofen. “At the end of the day, after we’ve cleaned and put away most of the equipment, we still have to wait until the last measurements are finished.”
 
 Finally holiday time: ETH News will present a special summer series during the break, with a new focus periodically.
 
@@ -60,9 +60,9 @@ Previous instalments:
 
 18.07. "Don't rely on your holidays to make you happy"
 
-## Summer series
-
 21.07. “Asphalt has a major downside”
+
+## Summer series
 
 26.07. Not air con, but a cooling curtain
 
@@ -70,9 +70,9 @@ Previous instalments:
 
 Has this article sparked your interest? At Scientifica, you can find out more about the work of Prof. Nina Buchmann's group.
 
-## Forest research at the Scientifica 2017
-
 Meet other scientists and ask them questions on:
+
+## Forest research at the Scientifica 2017
 
 - Friday, 1 September 2017, 6 p.m. – 9 p.m. (Vernissage)
 

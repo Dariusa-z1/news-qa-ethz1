@@ -1,5 +1,7 @@
 # keramik-ohne-brennofen
 
+**Source:** de_news_events/2017/02/keramik-ohne-brennofen.html
+
 ## Stärker als Beton
 
 Um Zement, Backsteine, Badezimmerfliesen und Porzellangeschirr herzustellen, bedarf es normalerweise grosser Hitze: In einem Brennofen werden die keramischen Materialien bei Temperaturen deutlich über 1000 Grad Celsius gebrannt. Materialwissenschaftler der ETH Zürich entwickelten nun eine auf den ersten Blick verblüffend einfache alternative Herstellungsmethode für Keramik. Sie funktioniert bei Raumtemperatur. Als Ausgangsstoff verwenden die Forscher ein Kalziumkarbonat-Nanopulver. Anstatt es zu brennen, versetzen sie es mit wenig Wasser und pressen es zusammen.

@@ -1,5 +1,7 @@
 # demanding-but-flexible-and-family-friendly
 
+**Source:** en_news_events/2015/12/demanding-but-flexible-and-family-friendly.html
+
 ## Part-time options
 
 Children like to be picked up from the crèche on time, and sometimes they are unwell. Family-friendly supervisors know that it is possible to work part-time or from home, and are more interested in the achievements of their employees than their mere presence in the workplace. These are some of the criteria for family-friendliness at ETH Zurich used by the jury for the Golden Tricycle Award, which honours the most family-friendly supervisor each year. The award was launched in 2007 by the Academic Association of Scientific Staff at ETH Zurich (AVETH) and is presented jointly by AVETH and Equal!, the ETH Zurich Office of Equal Opportunities. This year’s award winner is Ralph Schlapbach.

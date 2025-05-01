@@ -1,5 +1,7 @@
 # tauchroboter-fuer-gefaehrliche-einsaetze
 
+**Source:** de_news_events/2023/05/tauchroboter-fuer-gefaehrliche-einsaetze.html
+
 ## Main article
 
 Der Tethys-Roboter ist ein autonomes Unterwasserfahrzeug, das für den Einsatz in schwierigen Umgebungen wie trüben Gewässern und Flüssen entwickelt wurde. Er kommt vor allem dann zum Einsatz, wenn herkömmliche Such- und Rettungstechniken zu schwierig oder zu riskant sind. Ausgestattet mit akustischen Sensoren und Kameras kann der Roboter grössere Gebiete unter Wasser autonom absuchen und so ein Objekt oder eine Person schnell lokalisieren. Dadurch können gefährliche Einsätze für Taucher und Rettungskräfte vermieden werden.

@@ -1,5 +1,7 @@
 # streaming-should-not-become-the-standard
 
+**Source:** en_internal/2022/07/streaming-should-not-become-the-standard.html
+
 ## Main article
 
 Mr Dissertori, why should ETH lecturers return to primarily in-person instruction?
@@ -13,8 +15,6 @@ To be honest, we don’t know. The reality is that after two years (of the pande
 We are uncomfortable with it. We hear, for example, that more and more students consider it normal to take multiple courses that take place at the same time – partly due to the availability of recordings. They enrol in too many courses per semester. When they get to the exams, they then realise that they have taken on more than they can handle. There is also an increasing expectation that streaming and recordings are part of the course offerings.
 
 And they shouldn’t be?
-
-Streaming should not become the standard. Recordings can be very helpful for exam prep, but they should only be supplementary. ETH is an in-person university – the strength of our study programmes is in the close contact with the lecturers, with professors who are among the best in the world in their subjects. Education at ETH thrives on direct interaction with them – and also from the interaction among students themselves.
 
 So there shouldn’t be any more online offerings?
 

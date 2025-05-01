@@ -1,5 +1,7 @@
 # 50-million-swiss-francs-for-institute-of-theoretical-studies
 
+**Source:** en_news_events/2013/05/50-million-swiss-francs-for-institute-of-theoretical-studies.html
+
 ## A Permanent Meeting of World-class Minds
 
 For as long as ETH Zurich has existed, it has upheld some of the greatest theoreticians amongst its ranks. Academics such as Albert Einstein, Wolfgang Pauli, Hermann Weyl, Niklaus Wirth and many more have taught and researched in Zurich, broadening theoretical principles in the fields of physics, chemistry, mathematics and computer science, and thus contributing towards significant innovations. The importance of mathematics has continued to rise in a world shaped by technology and digitalisation. Manifold aspects of our daily routine are based on mathematical principles without us even knowing it. GPS technology which is integrated into every smartphone would be just as unthinkable without Albert Einstein's General Theory of Relativity as modern information technology would be without quantum mechanics or storage media like DVDs without the error correcting codes which are based on number theory.
@@ -35,6 +37,4 @@ Dr. Max Rössler studied mathematics at ETH and also wrote his PhD at ETH in 196
 ETH Zurich is one of the leading international universities for technology and natural sciences. It is well-known for its excellent education, ground-breaking fundamental research and for putting its new findings directly into practice. Founded in 1855, ETH Zurich today has around 18,000 students from over 100 different countries, 3,800 of whom are doctoral students. It offers researchers an inspiring working environment and its students a comprehensive education. 21 Nobel Laureates have studied, taught or conducted research at ETH Zurich, underlining the institutes excellent reputation www.ethz.ch
 
 The ETH Zurich Foundation unites companies, private individuals, foundations with ETH Zurich. As the leading technology and science foundation, it supports the university in achieving its most important strategic objectives in education and research. Funding partners benefit from access to bold, high-quality partnerships with one of the best universities anywhere in the world, and the opportunity to work together to push boundaries. www.ethz-foundation.ch
-
-ETH Zurich Foundation Dr. Donald Tillman Managing Director Tel. +41 633 69 60 ETH Zurich Media Relations Tel. +41 44 632 41 41
 

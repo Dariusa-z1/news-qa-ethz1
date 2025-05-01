@@ -1,5 +1,7 @@
 # new-materials-for-sustainable-low-cost-batteries
 
+**Source:** en_news_events/2018/04/new-materials-for-sustainable-low-cost-batteries.html
+
 ## Aggressive electrolyte fluid
 
 The energy transition depends on technologies that allow the inexpensive temporary storage of electricity from renewable sources. A promising new candidate is aluminium batteries, which are made from cheap and abundant raw materials (see box).

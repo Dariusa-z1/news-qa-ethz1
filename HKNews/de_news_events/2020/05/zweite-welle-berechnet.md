@@ -1,5 +1,7 @@
 # zweite-welle-berechnet
 
+**Source:** de_news_events/2020/05/zweite-welle-berechnet.html
+
 ## Jugendliche viel stärkere Treiber als Senioren
 
 Falls es in der Schweiz zu einer zweiten Welle der Coronavirus-Pandemie kommen sollte, wird diese deutlich langsamer anrollen als die erste. Dies schliessen Dirk Mohr, Professor für Numerische Materialmodellierung am Departement Maschinenbau und Verfahrenstechnik, und Fadoua Balabdaoui, Senior Scientist am Seminar für Statistik, aus Berechnungen mit einem neuen, von ihnen entwickelten mathematischen Modell.
@@ -12,13 +14,11 @@ In einer zweiten Welle wird es in der Schweiz daher auch kaum zu einem Engpass i
 
 Um die Zukunftsszenarien berechnen zu können, kalibrierten die Wissenschaftler ihr Modell mit den von den Kantonen veröffentlichten offiziellen Zahlen der Vergangenheit. Wie beim Erstellen einer Wetterprognose berechnete das Modell die Zukunft. Modell und Berechnungen haben die Forschenden auf der Plattform Medrxiv veröffentlicht. Die Publikation hat den normalen wissenschaftlichen Begutachtungsprozess noch nicht durchlaufen.
 
-Nach dem Wissen der Forschenden handelt es sich bei ihren Modellrechnungen um die ersten, welche für die Schweiz sehr detailliert auch die Demografie und die altersspezifischen Kontaktmuster berücksichtigen. So gelang es ihnen, für die erste Pandemiewelle die Reproduktionszahl für jede Altersgruppe gesondert zu berechnen. Dabei zeigte sich, dass in der Schweiz die 10- bis 20-Jährigen sehr stark und die 35- bis 45-Jährigen ebenfalls überdurchschnittlich zur Verbreitung des Virus beitragen. Die Senioren hingegen tragen stark unterdurchschnittlich dazu bei.
-
 Die Zahl der zu erwartenden Todesopfer bei einer allfälligen zweiten Welle hängt stark von ihrem Ausmass und ihrer Dauer ab, wie auch die Berechnungen zeigen. Ein Szenario der Wissenschaftler geht während einer zweiten Welle von folgenden Annahmen aus: Im öffentlichen Leben gelten dieselben Abstandsregeln wie jetzt, 30 Prozent der Arbeitskräfte würden im Homeoffice arbeiten, alle Schulen wären normal geöffnet, ohne dass dort besondere Massnahmen gelten würden (Verhalten der Schülerinnen und Schüler wie vor der Pandemie).
 
-## Literaturhinweis
-
 In diesem Szenario ist in einer zweiten Welle in der Schweiz mit 5000 weiteren Covid-19-Toten zu rechnen – zusätzlich zu den Opfern der ersten Welle, deren Zahl derzeit bei über 1600 liegt. Wegen der längeren Dauer der zweiten Welle würde der maximale tägliche Bedarf an Intensivbetten immer noch unter dem der ersten Welle liegen.
+
+## Literaturhinweis
 
 Die Modellrechnungen machen jedoch deutlich, dass alle Massnahmen, welche die Übertragungswahrscheinlichkeit reduzieren, die Zahl der Todesfälle in der Bevölkerung stark verringern würden. Dies gilt für Massnahmen bei allen Altersstufen, insbesondere bei der erwerbstätigen Bevölkerung und den 10- bis 20-jährigen Jugendlichen und jungen Erwachsenen.
 

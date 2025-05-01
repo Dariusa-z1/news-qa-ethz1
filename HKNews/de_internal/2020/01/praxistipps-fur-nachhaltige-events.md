@@ -1,5 +1,7 @@
 # praxistipps-fur-nachhaltige-events
 
+**Source:** de_internal/2020/01/praxistipps-fur-nachhaltige-events.html
+
 ## Vorbildlich auf dem eigenen Campus
 
 Oft sind es Details, die einen Anlass stimmig machen – oder unverhofft für Unmut sorgen. So war das Hauptprogramm der ETH-Klimarunde vom vergangenen Oktober zwar ein grosser Erfolg – doch am feierlichen Apéro im Anschluss stiess die Verpflegung teils auf Unverständnis. Das Essen freilich war einwandfrei, das Catering tadellos. Der Ärger lag daran, dass an diesem öffentlichen Event zum Klimawandel, an dem auch der Methanausstoss der Fleischproduktion erwähnt wurde, ein Teil der servierten Häppchen Fleisch enthielt. Ein Gast beschwerte sich daraufhin persönlich bei der Schulleitung über das «fehlende Bewusstsein» der Veranstalter.

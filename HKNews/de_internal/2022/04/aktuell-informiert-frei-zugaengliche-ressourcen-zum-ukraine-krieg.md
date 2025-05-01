@@ -1,5 +1,7 @@
 # aktuell-informiert-frei-zugaengliche-ressourcen-zum-ukraine-krieg
 
+**Source:** de_internal/2022/04/aktuell-informiert-frei-zugaengliche-ressourcen-zum-ukraine-krieg.html
+
 ## Kontextualisierte Hintergrundinformationen
 
 - externe SeiteTaylor &amp; Francis: Russia’s war in Ukraine – resources, commentary, analysis and insightscall\_made

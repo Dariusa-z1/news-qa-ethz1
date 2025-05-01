@@ -1,5 +1,7 @@
 # thomas-mann-lecture-mit-jan-assmann
 
+**Source:** de_internal/2022/10/thomas-mann-lecture-mit-jan-assmann.html
+
 ## International renommierter Kulturwissenschaftler
 
 - Was: «Thomas Manns ‹Morgenlandfahrt› – die Josephsromane» (6. Thomas Mann Lecture)

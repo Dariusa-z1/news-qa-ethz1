@@ -1,5 +1,7 @@
 # wo-die-proteinsynthese-maschinerie-andockt
 
+**Source:** de_news_events/2020/08/wo-die-proteinsynthese-maschinerie-andockt.html
+
 ## Feinsteuerung der Proteinherstellung
 
 Das Erbgut von Bakterien, Pflanzen bis hin zum Menschen lässt sich heute sehr einfach entziffern, und dennoch birgt es viele offene Fragen. Da sind zum Beispiel die RNA-Abschriften der Gene und die Stellen darauf, an welche die zelluläre Proteinsynthese-Maschinerie (die Ribosomen) andocken, um die genetische Information abzulesen. Ein umfassendes Verständnis zu diesen Andockstellen fehlte bisher.

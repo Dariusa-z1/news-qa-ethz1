@@ -1,5 +1,7 @@
 # globe-calculate-or-co-create
 
+**Source:** en_news_events/2022/06/globe-calculate-or-co-create.html
+
 ## About
 
 A huge map is spread out on the floor in front of us, populated by neat paper models connected by coloured threads and arrows. It’s a new world in the making – and a whole new imagining of Zurich’s Altstetten district. We’re standing in the Design in Dialogue Lab at the NEWROPE Chair of Architecture and Urban Transformation, where Professor Freek Persyn and his students are seeking to gain a better understanding of Altstetten and the dynamics of urban densification. “The Lab is a place where we can engage with stakeholders who are actively involved in the transformation of this district – from neighbourhood associations, residents and developers to allotment holders and architects with alternative ideas. That helps us see Altstetten from different angles,” says course leader Lukas Fink. The city of Zurich’s urban development plan argues that Altstetten offers significant potential for densification – and Freek Persyn agrees: “I wouldn’t describe Altstetten as metropolitan yet, but that’s definitely where it’s heading.” One of the priorities in his studio is to build up a common understanding of the district and discuss what development makes sense in this context. “Densification isn’t just about the numbers; it’s also about how we create new connections and tie new developments to what’s already there,” says Persyn.
@@ -36,9 +38,9 @@ Wälty: If we fail to densify underused locations with good public transport lin
 
 Persyn: To me, those figures feel like an over-simplification. We need to ask ourselves what qualities we want to preserve and strengthen. When we talked to residents on the Grünau estate, they said they like how it feels like an island; they appreciate that sense of community.
 
-## Globe Science &amp; beauty
-
 Wälty: Spatial planning is about more than just the people who live on an estate; it’s also about society, the economy and the environment beyond. It’s a false assumption to say that transforming a neighbourhood will necessarily make it worse.
+
+## Globe Science &amp; beauty
 
 Densification projects have a big impact on residents’ lives, yet most of them involve zero dialogue between the developers and local people. We continue walking until we reach Lindenplatz, which is a meeting point for several social subgroups. These are at risk of being displaced by the nearby development projects.
 
@@ -73,4 +75,6 @@ Freek Persyn is Professor of Architecture and Urban Transformation and Head of t
 Sibylle Wälty researches and teaches at ETH Wohnforum - ETH CASE. Her teaching on the MAS | CAS Future Mobility programme focuses on 10-minute neighbourhoods.
 
 Both are part of the FCL Global project Dense & Green Cities, led by Sacha Menz, where they investigate the transformation and densification of Altstetten.
+
+Read whole issue (PDF, 6.7 MB)
 

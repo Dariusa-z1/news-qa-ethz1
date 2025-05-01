@@ -1,5 +1,7 @@
 # new-online-courses
 
+**Source:** en_news_events/2013/09/new-online-courses.html
+
 ## Benefitting ETH students first and foremost
 
 The future is online. Does this also apply to education? “Yes” is the response from a number of universities around the world that are currently investing considerable resources in the development of new online courses. Everyone is talking about MOOCs, massive open online courses, a type of online distance learning which is intended to address the needs of a large number of students. The students complete the courses remotely, anywhere in the world in front of a computer screen, and when they pass an online examination they receive a corresponding certificate.
@@ -25,4 +27,6 @@ For the past year, ETH Zurich has offered the EduApp to its students and lecture
 As of this autumn semester, the app has been upgraded based on feedback and first user experiences. Ease of use in particular has been improved with Version 2.0. In addition to new features such as the use of images and mathematical formulas in online voting, the app has been simplified for lecturers and some features such as schedules and building floor plans are also available offline. The app was used by 25 lecturers in their classes during the 2012/2013 academic year, and more than 6,000 ETH students have installed it on their smartphones.
 
 Just a few weeks ago, the ETH EduApp was honoured with the Best Paper Award at the annual Gesellschaft für Medien in der Wissenschaft (GMW, Society for Media in Science) meeting in Frankfurt, Germany. The GMW annual meeting is the largest German-language conference in the field of digital media and universities.
+
+For further information about EduApp including links for downloads, go to eduapp.ethz.ch
 

@@ -1,5 +1,7 @@
 # digitaler-und-integrierter-eth-geschaeftsbericht-bald-in-neuem-kleid
 
+**Source:** de_internal/2022/03/digitaler-und-integrierter-eth-geschaeftsbericht-bald-in-neuem-kleid.html
+
 ## Geschäftsbericht 2021
 
 Herr Perich, die Berichterstattung der ETH Zürich wurde im Jahr 2021 einer umfassenden Evaluation unterzogen. Wie ist man dabei vorgegangen?

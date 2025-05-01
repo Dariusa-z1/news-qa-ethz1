@@ -1,5 +1,7 @@
 # globe-in-den-schuhen-der-anderen
 
+**Source:** de_news_events/2023/08/globe-in-den-schuhen-der-anderen.html
+
 ## Verluste und deren Konsequenzen
 
 - Alpenwiese und Waldboden: wie Arten interagieren. externe SeiteAusstellungsstand. Pflanzenökologie, ETHcall\_made
@@ -43,4 +45,6 @@ Doch was braucht es denn nun, wenn wir den Artenschutz verbessern möchten? Es b
 Jaboury Ghazoul ist Professor für Ökosystemmanagement am Departement Umweltsystemwissenschaften der ETH Zürich.
 
 Sarah Richman ist Mitarbeiterin in der Gruppe Pflanzenökologie am Departement Umweltsystemwissenschaften der ETH Zürich.
+
+Ganze Ausgabe lesen (PDF, 4.8 MB)
 

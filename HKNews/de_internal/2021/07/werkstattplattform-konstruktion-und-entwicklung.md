@@ -1,5 +1,7 @@
 # werkstattplattform-konstruktion-und-entwicklung
 
+**Source:** de_internal/2021/07/werkstattplattform-konstruktion-und-entwicklung.html
+
 ## Von der Kundenskizze bis zum gefertigten Stück
 
 - normgerechte Detailzeichnungen

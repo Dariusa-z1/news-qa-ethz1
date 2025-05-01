@@ -1,5 +1,7 @@
 # wir-wollen-junge-menschen-fuer-start-ups-begeistern
 
+**Source:** de_news_events/2016/01/wir-wollen-junge-menschen-fuer-start-ups-begeistern.html
+
 ## Main article
 
 ETH-News: Weshalb veranstaltet das Departement Informatik das «World Web Forum Next Generation»? Markus Püschel: Wir wollen jungen Menschen mit diesem Anlass, der in Kooperation mit dem Kanton, externe Seite eZürich und dem ETH Entrepreneur Club entstanden ist, ermöglichen, prominente Referenten und Führungspersönlichkeiten aus dem digitalen Bereich live zu erleben. Durch die Teilnahme von vier Schweizer Start-ups und einem interessierten jungen Publikum versprechen wir uns aber auch einen spannenden Wissensaustausch. Die Idee, diesen Anlass zu veranstalten, ist im Rahmen unseres Engagements bei eZürich entstanden: eZürich ist eine Plattform für Menschen, die den ICT-Standort Zürich voranbringen möchten.

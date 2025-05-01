@@ -1,5 +1,7 @@
 # kupferabscheidung-fuer-winzige-3d-objekte
 
+**Source:** de_news_events/2016/01/kupferabscheidung-fuer-winzige-3d-objekte.html
+
 ## Winzige Pipette
 
 Wissenschaftler an der ETH Zürich entwickelten ein neues Verfahren für den Mikro-3D-Druck. Damit ist es auch möglich, auf einfache Weise und in einem Arbeitsgang winzige, teils auch überhängende Strukturen herzustellen. Dereinst könnten damit zum Beispiel komplexe Uhrenbestandteile oder Mikrowerkzeuge für die Schlüssellochchirurgie hergestellt werden.

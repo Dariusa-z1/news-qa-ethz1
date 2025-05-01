@@ -1,5 +1,7 @@
 # eth-app-mit-neuen-funktionen
 
+**Source:** de_internal/2015/06/eth-app-mit-neuen-funktionen.html
+
 ## Main article
 
 Auf dem Handy die ETH-News lesen, Gebäude finden oder die Mensa-Menus vergleichen: Das geht mit der offiziellen ETH-App. Das aktuellste Update erweitert die bisher bekannten Funktionen um wichtige Punkte.

@@ -1,5 +1,7 @@
 # mathematik-uebungen-automatisiert
 
+**Source:** de_internal/2024/05/mathematik-uebungen-automatisiert.html
+
 ## Jetzt anmelden zur Verleihung des KITE-Awards
 
 Hunderte ETH-Studierende besuchen jedes Jahr Vorlesungen zu den Mathematik-Grundlagen. Und diese – zum Beispiel das Integrieren – muss man oft viel üben, bis man sie beherrscht.

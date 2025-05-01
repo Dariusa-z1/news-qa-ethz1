@@ -1,5 +1,7 @@
 # umnutzung-vom-ehemaligen-munitionslager-zum-eth-lager
 
+**Source:** de_internal/2024/01/umnutzung-vom-ehemaligen-munitionslager-zum-eth-lager.html
+
 ## Nutzbar machen, was da ist
 
 Claudio Madonna sitzt an seinem Schreibtisch im NO-Gebäude an der Sonneggstrasse und blickt konzentriert auf den Bildschirm, der vor ihm steht. Er ist Laborleiter des Rock Physics and Mechanics Laboratory am Geologischen Institut des Departements Erdwissenschaften. «Bevor wir nach Herrliberg zügeln konnten, mussten wir Labormaterial, Ersatzteile und Bohrkerne dort verstauen, wo wir in unseren Gebäuden gerade Platz frei hatten. Das war eher suboptimal», erklärt Madonna und lächelt. Er öffnet eine Präsentation mit dem Titel ZLB, so heisst das 1981 erbaute Munitionsdepot Zääjuten im ETH-Jargon inzwischen.

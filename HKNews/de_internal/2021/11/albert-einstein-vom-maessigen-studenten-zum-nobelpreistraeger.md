@@ -1,5 +1,7 @@
 # albert-einstein-vom-maessigen-studenten-zum-nobelpreistraeger
 
+**Source:** de_internal/2021/11/albert-einstein-vom-maessigen-studenten-zum-nobelpreistraeger.html
+
 ## Das Polytechnikum = Liebe²
 
 Ausgezeichnet wurde er für seine Verdienste um die theoretische Physik und insbesondere für die Entdeckung des Gesetzes des fotoelektrischen Effekts. Für die ETH Zürich gehört Albert Einstein heute zum fixen Inventar. Der Weg dorthin war aber nicht immer leicht – die Matura musste nachgeholt werden, eintönige Laborarbeiten waren nicht so sein Ding, vielmehr aber das Selbststudium zu den Meistern der theoretischen Physik.
@@ -23,6 +25,8 @@ Lesen Sie die Story auf Explora
 ## Newsletter abonnieren
 
 Im November gibt es noch mehr Neues! Die neuen Episoden der Miniserie « Wenn Kühe auf Roboter treffen – Agrarwissenschaften an der ETH Zürich » werden im November sukzessive publiziert.
+
+Zudem steht Ihnen neu die Explora-Story « Über Flüsse und Schluchten – Die Schweiz und ihre Brückenbauer » als Audiofile via Streaming oder zur Verfügung.
 
 Die Storytelling-Plattform Explora bietet spannend und informativ aufbereitete Geschichten in unterschiedlichen Formaten und zu Themen rund um die Bestände der ETH-Bibliothek.
 

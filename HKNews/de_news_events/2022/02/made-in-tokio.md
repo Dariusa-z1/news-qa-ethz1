@@ -1,5 +1,7 @@
 # made-in-tokio
 
+**Source:** de_news_events/2022/02/made-in-tokio.html
+
 ## Bellende Hunde aus Tokio
 
 Als Momoyo Kaijima am Abend des 7. Februars einen ungewöhnlichen Anruf von einer israelischen Nummer entgegennimmt, ist sie zuerst völlig überrascht und braucht einen Moment, bis sie versteht, worüber ihr Gegenüber spricht. Dan Shechtman, der Vorsitzende der Wolf Foundation, teilt Kaijima mit, dass sie und ihr Partner Yoshiharu Tsukamoto, Professor am Tokyo Institute of Technology, den diesjährigen externe Seite Wolf Preis für Architektur gewonnen haben.

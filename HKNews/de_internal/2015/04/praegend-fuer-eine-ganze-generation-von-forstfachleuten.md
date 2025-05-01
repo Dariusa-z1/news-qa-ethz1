@@ -1,5 +1,7 @@
 # praegend-fuer-eine-ganze-generation-von-forstfachleuten
 
+**Source:** de_internal/2015/04/praegend-fuer-eine-ganze-generation-von-forstfachleuten.html
+
 ## Main article
 
 Franz Schmithüsen. (Bild: D-USYS)

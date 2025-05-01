@@ -1,5 +1,7 @@
 # mm-botnar-centre-for-child-health
 
+**Source:** de_news_events/2018/09/mm-botnar-centre-for-child-health.html
+
 ## Transdisziplinärer Forschungsansatz
 
 Das BRCCH wird von der Universität Basel und der ETH Zürich getragen. Zum Netzwerk des Forschungszentrums gehören zudem Partnerinstitute wie das Universitäts Kinderspital beider Basel und das Schweizerische Tropen- und Public Health-Institut in Basel. Das Forschungszentrum bündelt die Kompetenzen der beiden Hochschulen in Systembiologie und Medizin sowie in gesundheitsrelevanten Feldern von Life Sciences, Ingenieurwissenschaften, Sozialwissenschaften und Informationstechnologie. Mit seinen Arbeiten soll das Forschungszentrum dazu beitragen, Krankheiten vorzubeugen, neue Behandlungsansätze zu entwickeln, Diagnosen und Wirkungsprognosen zu verbessern und finanziell tragbare Lösungen zu fördern. Ziel des BRCCH sind konkrete Resultate: «Wir wollen Wirkung für Kinder und Jugendliche erzielen», sagt Andrea Schenker-Wicki, Rektorin der Universität Basel.
@@ -21,10 +23,4 @@ Die Finanzierung des BRCCH erfolgt über einen Beitrag von Fondation Botnar in B
 Das Forschungszentrum nimmt seine operative Tätigkeit Anfang 2019 in Basel auf und wird schrittweise aufgebaut. Die Stadt ist mit ihrer Universität, dem Departement für Biosysteme (D-BSSE) der ETH Zürich und vielen hoch innovativen Unternehmen in den Bereichen Biotech und Life Sciences der prädestinierte Standort für das BRCCH.
 
 Fondation Botnar ist eine 2003 gegründete Schweizer Stiftung mit Sitz in Basel und führt das philantropische Vermächtnis der Familie Botnar fort. Die Stiftung setzt sich für die Verbesserung der Gesundheit und des Wohlbefindens von Kindern und Jugendlichen in stark wachsenden Städten weltweit ein. Sie wirkt dabei als Katalysator, setzt auf Partnernetzwerke und investiert in Lösungen, die digitale Innovationen einsetzen und fördern, darunter insbesondere auch künstliche Intelligenz. Fondation Botnar ist Mitglied des Dachverbands SwissFoundations der Schweizer Förderstiftungen. externe Seite www.fondationbotnar.org
-
-ETH Zürich Medienstelle Telefon: +41 44 632 41 41
-
-Universität Basel Matthias Geering Leiter Kommunikation Telefon +41 61 207 35 75
-
-Fondation Botnar Kiara Jade Barnes Engagement and Communication Officer Telefon +41 61 201 04 82
 

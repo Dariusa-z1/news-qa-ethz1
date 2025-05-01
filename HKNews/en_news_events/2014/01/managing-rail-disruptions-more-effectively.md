@@ -1,5 +1,7 @@
 # managing-rail-disruptions-more-effectively
 
+**Source:** en_news_events/2014/01/managing-rail-disruptions-more-effectively.html
+
 ## Predictable rail operations
 
 Last year, the trains of Swiss Federal Railways (SBB) were frequently late. Dense timetables and heavily used routes leave little leeway. As a result, even minor malfunctions or construction sites can throw the schedule out of sync – with negative consequences for the customer. "It is almost impossible to avoid rail disruptions completely, but they can be managed more effectively," says Steffen Schranil, traffic engineer and, until recently, a doctoral student at ETH Zurich's Institute for Transport Planning and Systems. In his dissertation, Schranil tackled the issue of whether and how rail disruptions can be determined early and reliably – reliably enough to be able to draw conclusions about the expected duration of the disruption.

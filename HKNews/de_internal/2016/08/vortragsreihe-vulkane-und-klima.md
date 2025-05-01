@@ -1,5 +1,7 @@
 # vortragsreihe-vulkane-und-klima
 
+**Source:** de_internal/2016/08/vortragsreihe-vulkane-und-klima.html
+
 ## Main article
 
 Der Ausbruch des indonesischen Vulkans Tambora in 1815 führte im darauffolgenden Jahr in Europa und Nordamerika zu einem «Jahr ohne Sommer» und in der Schweiz zu einer schweren Hungerkrise. Der Zusammenhang zwischen dem Vulkanausbruch von 1815 und den klimatischen Bedingungen von 1816 wurde erst später, vor gut 100 Jahren erkannt.

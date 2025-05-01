@@ -1,5 +1,7 @@
 # bluttest-asbest
 
+**Source:** de_news_events/2013/12/bluttest-asbest.html
+
 ## Ein Satz von möglichen Biomarkern
 
 Asbestfasern verursachen Lungenkrebs, für welchen Forschende nun eine Proteinsignatur im Blutserum gefunden haben. (Bild: wikipedia)

@@ -1,5 +1,7 @@
 # brustkrebs-mit-3-d-roentgen-frueher-erkennen
 
+**Source:** de_news_events/2023/07/brustkrebs-mit-3-d-roentgen-frueher-erkennen.html
+
 ## In Kürze
 
 - Forschende der ETH Zürich, des Paul Scherrer Instituts PSI, des Kantonsspitals Baden und des Universitätsspitals Zürich haben einen Meilenstein auf dem Weg zu einer verbesserten Brustkrebsvorsorge erreicht.

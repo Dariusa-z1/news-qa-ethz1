@@ -1,5 +1,7 @@
 # zehn-prioritaeten-fuer-klimaschutz-und-wirtschaftsentwicklung
 
+**Source:** de_news_events/2014/11/zehn-prioritaeten-fuer-klimaschutz-und-wirtschaftsentwicklung.html
+
 ## Der Kohle-Ausstieg lohnt sich
 
 «Better Growth, Better Climate» [1] lautet der Titel des neuen «Stern-Berichts», benannt nach dem Ökonom Nicholas Stern. Der Professor an der London School of Economics leitete die Entstehung dieses Reports, an dem hochkarätige Wirtschaftswissenschafter mitwirkten, unter anderem zwei Nobelpreisträger, Experten der Weltbank, der IEA und OECD, erfahrene Politiker und eine Vielzahl von Forschungsinstituten.

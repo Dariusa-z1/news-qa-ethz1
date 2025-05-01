@@ -1,5 +1,7 @@
 # a-piece-of-eth-accompanies-diesel-cars
 
+**Source:** en_news_events/2013/11/a-piece-of-eth-accompanies-diesel-cars.html
+
 ## “Diesel cars have become acceptable”
 
 A good piece of ETH research can be found in practically every diesel engine used in cars and trucks today, but also in generators or other modern ocean-going vessels. From the 1970s onwards, engineers in the university’s research laboratories were significantly involved in the development of a then revolutionary system to inject fuel into the engine: the common rail injection system. Over time, this has become standard in the industry.

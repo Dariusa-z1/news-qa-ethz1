@@ -1,5 +1,7 @@
 # the-new-york-times-online-verfuegbar-mehr-wissen-mehr-welt
 
+**Source:** en_internal/2021/07/the-new-york-times-online-verfuegbar-mehr-wissen-mehr-welt.html
+
 ## … expand your world knowledge and …
 
 - Go to external pagenytimes.com/passescall\_made

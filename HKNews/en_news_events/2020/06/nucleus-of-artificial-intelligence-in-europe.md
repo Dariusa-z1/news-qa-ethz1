@@ -1,5 +1,7 @@
 # nucleus-of-artificial-intelligence-in-europe
 
+**Source:** en_news_events/2020/06/nucleus-of-artificial-intelligence-in-europe.html
+
 ## Promoting talent and practice-oriented research
 
 Thomas Hofmann.

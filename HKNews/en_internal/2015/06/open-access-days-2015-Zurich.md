@@ -1,5 +1,7 @@
 # open-access-days-2015-Zurich
 
+**Source:** en_internal/2015/06/open-access-days-2015-Zurich.html
+
 ## Main article
 
 ETH-Bibliothek will be giving the following talks at the Open Access Days:

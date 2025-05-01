@@ -1,5 +1,7 @@
 # saeuren-helfen-gegen-viren-in-der-luft
 
+**Source:** de_news_events/2022/12/saeuren-helfen-gegen-viren-in-der-luft.html
+
 ## Wie werden Schwebeteilchen sauer?
 
 Viren wie SARS-CoV-2 oder das Grippevirus reisen quasi per Anhalter von Mensch zu Mensch: sie verbreiten sich in Aerosolen. Das sind fein verteilte, in der Luft schwebende flüssige Teilchen die eine infizierte Person beim Husten, Niesen oder einfach beim Ausatmen ausstösst und die von einer anderen eingeatmet werden.
@@ -47,8 +49,6 @@ Die Forscher:innen sind sich aber auch bewusst, dass eine solche Massnahme sehr 
 Die vorliegende Studie resultiert aus einer interdisziplinären Zusammenarbeit von Forschenden der ETH Zürich, der EPFL und der Universität Zürich. Es begann 2019 als reines Influenza-Projekt, dem Jahre der Vorbereitung vorausgingen. Aufgrund der Covid-19-Pandemie weiteten die Forschenden ihr Projekt auf das neue Coronavirus aus.
 
 Wie die beiden Viren auf saure Milieus reagieren, untersuchten die Forschenden in der Professur für Medizinische Virologie der Universität Zürich um Silke Stertz und in der Professur für Umweltchemie der EPFL um Tamar Kohn, die auch die Gesamtleitung des Sinergia-Projekts innehat. Sie testeten die Sensitivität von Influenza A- und Coronaviren auf unterschiedlich saure Bedingungen in künstlich erzeugter Lungenflüssigkeit und in Nasen- oder Lungenschleim, den die Wissenschaftler:innen zuvor von eigens gezüchteten Schleimzellkulturen ernteten.
-
-Die Mitarbeitenden der Professur für Atmosphärenchemie um Thomas Peter und Ulrich Krieger untersuchten das Verhalten schleimhaltiger Aerosolpartikel mithilfe einer elektrodynamischen Teilchenfalle. Mit dieser Apparatur können die Forschenden einzelne Schwebeteilchen über Tage bis Wochen «festhalten» und kontaktfrei untersuchen, zum Beispiel wie sie sich bei wechselnder Luftfeuchtigkeit verändern.
 
 Die Modell-Simulationen wurden ebenfalls in der Gruppe Peter durchgeführt. Die Modellierung könnte eine Schwachstelle der Gesamtstudie sein, denn wie sich die Viren in sauren Aerosolpartikeln wirklich verhalten, müssen weitere experimentelle Untersuchungen erst zeigen. Dafür entwickeln Forschende um Athanasios Nenes an der EPFL derzeit experimentelle Techniken, welche es erlauben, künftig Experimente sowohl unter strengen Biosicherheitsauflagen als auch unter verschiedenen Raumluftzusammensetzungen durchzuführen.
 

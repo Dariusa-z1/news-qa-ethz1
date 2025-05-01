@@ -1,5 +1,7 @@
 # niacin-fountain-youth
 
+**Source:** en_news_events/2013/09/niacin-fountain-youth.html
+
 ## “No scientific evidence for usefulness of antioxidants”
 
 Roundworms live longer when fed the food supplement niacin (inverted microscopic photo). (Photo: Michael Ristow / ETH Zurich)
@@ -33,8 +35,4 @@ The latest study on the effects of niacin and nicotinamide is based on a particu
 Ristow and his team’s work now suggests that the activity of sirtuins actually prolongs life in roundworms. According to the study, however, the life-prolonging effect is not down to gene regulation, as has often been supposed in the past. Instead, the effect is due to the conversion of niacin into nicotinamide. Studying genetically modified roundworms that were unable to convert nicotinamide into certain other metabolic products, the scientists did not observe any lifespan extension, even after overexpression of sirtuins, which otherwise lead to an increased life expectancy.
 
 Schmeisser K et al.: Role of Sirtuins in Lifespan Regulation is Linked to Methylation of Nicotinamide. Nature Chemical Biology, 2013, Early Online Publication, doi: 10.1038/nchembio.1352
-
-ETH Zurich Michael Ristow Professor for Energy Metabolism Tel. +41 44 655 74 46
-
-ETH Zurich Media Relations Tel. +41 44 632 41 41
 

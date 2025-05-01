@@ -1,5 +1,7 @@
 # 12-professors-appointed
 
+**Source:** en_news_events/2015/09/12-professors-appointed.html
+
 ## Appointments
 
 Ioannis Anastasopoulos. (Photo: courtesy of I.A.)

@@ -1,5 +1,7 @@
 # memorialising-willy-krek
 
+**Source:** en_internal/2018/09/memorialising-willy-krek.html
+
 ## He combined basic research and medicine
 
 Krek grew up in Carinthia, Austria and studied chemistry at Graz University of Technology. He first came to Switzerland in 1988 when he completed his doctorate at the Swiss Institute for Experimental Cancer Research ISREC in Lausanne.

@@ -1,5 +1,7 @@
 # tablets-for-study-and-work-operating-systems-in-comparison
 
+**Source:** en_internal/2014/04/tablets-for-study-and-work-operating-systems-in-comparison.html
+
 ## Main article
 
 The presentation will be in German.

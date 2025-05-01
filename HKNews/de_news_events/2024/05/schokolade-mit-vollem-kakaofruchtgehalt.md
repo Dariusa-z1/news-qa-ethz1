@@ -1,5 +1,7 @@
 # schokolade-mit-vollem-kakaofruchtgehalt
 
+**Source:** de_news_events/2024/05/schokolade-mit-vollem-kakaofruchtgehalt.html
+
 ## In Kürze
 
 - ETH-Forschende haben eine Schokolade entwickelt, die nachhaltiger und nährstoffreicher ist als herkömmliche Schokolade.

@@ -1,5 +1,7 @@
 # can-hydropower-and-fish-coexist
 
+**Source:** en_news_events/2022/01/can-hydropower-and-fish-coexist.html
+
 ## Death by Turbine
 
 Hydropower is on the rise worldwide. This renewable energy source delivers up to 16% of the world’s electricity and is expected to roughly double by 2050, with over 3,700 new dams under construction or planned 1 , mostly in South America, Southeast Asia, and Africa. In Switzerland, where more than 670 hydropower plants provide about 57% of the domestic electricity, the Government’s Energy Strategy 2050 also seeks further expansion of the sector to meet climate targets. 2 However, hydropower development does not come without environmental costs.

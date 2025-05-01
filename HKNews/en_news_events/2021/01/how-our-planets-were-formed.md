@@ -1,5 +1,7 @@
 # how-our-planets-were-formed
 
+**Source:** en_news_events/2021/01/how-our-planets-were-formed.html
+
 ## Two waves of formation at different points in time
 
 Mercury, Venus, Earth and Mars in the inner solar system are relatively small, dry planets, unlike Jupiter, Saturn, Uranus and Neptune in the outer regions, planets that contain much greater quantities of volatile elements. “In the last few years, we’ve also discovered another major difference between the two parts of the solar system,” says Maria Schönbächler, Professor at the Institute of Geochemistry and Petrology at ETH Zurich, continuing: “Meteorites have a different ‘fingerprint’ depending on whether they originated in the inner or the outer solar system.” Where they originate determines the meteorites’ isotope content. Isotopes are distinct atoms of a given element, which all share the same number of protons in their nuclei but vary in the number of neutrons.

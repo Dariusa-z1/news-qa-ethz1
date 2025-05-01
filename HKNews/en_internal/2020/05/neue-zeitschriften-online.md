@@ -1,5 +1,7 @@
 # neue-zeitschriften-online
 
+**Source:** en_internal/2020/05/neue-zeitschriften-online.html
+
 ## Main article
 
 Access is possible online in the ETH Zurich network or, from 8 June 2020, again on the premises of ETH Library.

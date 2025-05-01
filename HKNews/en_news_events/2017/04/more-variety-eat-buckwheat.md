@@ -1,5 +1,7 @@
 # more-variety-eat-buckwheat
 
+**Source:** en_news_events/2017/04/more-variety-eat-buckwheat.html
+
 ## Fruit and veg alone won't fill us up
 
 - Buckwheat: 'Neues Leben für ein altes Korn' (external pageCoop-Zeitungcall\_made, 20 February 2017, German only)

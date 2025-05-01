@@ -1,5 +1,7 @@
 # nanopartikel-bleiben-unberechenbar
 
+**Source:** de_news_events/2017/04/nanopartikel-bleiben-unberechenbar.html
+
 ## Partikel heften sich an alles
 
 Die Nanotech-Industrie boomt. Jährlich werden weltweit mehrere Tausend Tonnen künstliche Nanopartikel hergestellt. Ein Teil davon gelangt früher oder später in Gewässer und Böden. Was dort mit ihnen genau geschieht, können selbst Experten nur schwer sagen. Die Frage ist komplex, denn es gibt viele verschiedene Arten von künstlichen Nanopartikeln. Und vor allem: Die Partikel verhalten sich in der Umwelt je nach herrschenden Bedingungen völlig unterschiedlich.

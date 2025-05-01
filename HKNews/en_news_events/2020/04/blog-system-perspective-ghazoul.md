@@ -1,5 +1,7 @@
 # blog-system-perspective-ghazoul
 
+**Source:** en_news_events/2020/04/blog-system-perspective-ghazoul.html
+
 ## Living in a complex world
 
 Biology is riven with philosophical dichotomies. The naturalist-reductionist rivalry is probably chief among theses. 1 The naturalist tradition encompasses an observational comparative approach to biology, and reflects the conventions of Alexander von Humboldt and Charles Darwin. From this tradition emerged the fields of biogeography, systematics, ecology, adaptation and, of course, evolution.

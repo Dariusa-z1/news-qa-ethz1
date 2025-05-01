@@ -1,5 +1,7 @@
 # gitterstruktur-daempft-vibrationen
 
+**Source:** de_news_events/2016/07/gitterstruktur-daempft-vibrationen.html
+
 ## Zugleich stabilisierendes Bauteil
 
 Vibrationen des Motors eines Autobusses können sich unangenehm stark auf den Sitz übertragen, auf dem man sich niedergelassen hat. Bei Propellerflugzeugen und Helikoptern machen Vibrationen des Propellers oder des Rotors den Flug unruhig und laut, und sie können zu Ermüdungsschäden führen. Ingenieure versuchen daher, Vibrationen bei Maschinen, Fahrzeugen und Flugzeugen zu vermeiden. Eine neue dreidimensionale Gitterstruktur von ETH-Wissenschaftlerinnen und -Wissenschaftlern könnte nun die Möglichkeiten der Vibrationsdämmung erweitern.

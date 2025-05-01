@@ -1,5 +1,7 @@
 # mm-eroeffnung-dfab-house
 
+**Source:** de_news_events/2019/02/mm-eroeffnung-dfab-house.html
+
 ## Vom Labor zur architektonischen Anwendung
 
 Eine feingliedrige Betondecke – gegossen in 3D-gedruckten Schalungen – und eine geschwungene, von einem Bauroboter erstellte Betonwand prägen die Architektur des Wohnzimmers, das in seiner Ästhetik entfernt an die Filmsets des Schweizer Künstlers HR Giger erinnert. Auf Zuruf öffnen sich die Storen wie von Geisterhand und der Wasserkocher bereitet das Teewasser vor. Was wie ein Science-Fiction-Film klingt, ist in Dübendorf Realität: Heute öffnet das smarte und gleichzeitig weitgehend digital geplante und gebaute DFAB HOUSE erstmals seine Türen.
@@ -23,8 +25,4 @@ DFAB HOUSE ist allerdings nicht nur in Bezug auf die Hauselektronik smart, sonde
 Zwei Start-up-Ideen, die von Forschenden der Empa und der Eawag begleitet werden, helfen dabei zusätzlich Energie zu sparen: Zum einen wird die Wärme des Abwassers, die sonst verloren geht, über Wärmetauscher direkt in den Duschwannen zurückgewonnen, und zum anderen fliesst das warme Wasser bei Nicht-Gebrauch aus den Leitungen zurück in den Boiler, anstatt in den Wasserleitungen abzukühlen. Diese Methode spart nicht nur Energie und Wasser, sondern vermindert auch die Gefahr von Bakterienbildung in den Leitungen.
 
 Die sechste Unit im Forschungs- und Innovationsgebäude NEST ist ein gutes Beispiel dafür, dass die Zusammenarbeit zwischen Forschenden und der Industrie zukunftsweisende Lösungen hervorbringt. «Bei der Realisierung eines Bauprojekts wie dem DFAB HOUSE treffen traditionelle Bauweisen und neue Konzepte der digitalen Welt aufeinander. Der Weg vom digitalen Reissbrett zum realen Bau hat Wissenschaftler und Fachleute gefordert. Durch den konstruktiven Dialog wurde Visionäres praktisch umsetzbar und hoffentlich wird es bald in der Bauwirtschaft genutzt», sagt Gian-Luca Bona, Direktor der Empa.
-
-ETH Zürich Vanessa Bleich Medienstelle Telefon: +41 44 632 41 41
-
-ETH Zürich Prof. Matthias Kohler Professur für Architektur und Digitale Fabrikation Telefon: +41 44 633 49 06
 

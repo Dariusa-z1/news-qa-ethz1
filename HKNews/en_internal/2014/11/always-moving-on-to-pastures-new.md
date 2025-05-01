@@ -1,5 +1,7 @@
 # always-moving-on-to-pastures-new
 
+**Source:** en_internal/2014/11/always-moving-on-to-pastures-new.html
+
 ## From office chair to saddle
 
 As a young woman, Nicole Kubli would never have dreamt that at the age of 50 she would be the assistant of the Head of Human Resources at ETH Zurich. 30 years ago, she was a newly qualified medical practice assistant. Unlike her colleagues who went to work in doctors' practices, she began her working life at the Institute of Behavioural Sciences at ETH. "For me, it was an entirely new world." This was not least because of the obvious passion felt by the researchers, she says. "I had not met many people before who so lived for their work."

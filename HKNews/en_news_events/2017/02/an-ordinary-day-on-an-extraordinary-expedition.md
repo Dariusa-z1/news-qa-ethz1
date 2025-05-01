@@ -1,5 +1,7 @@
 # an-ordinary-day-on-an-extraordinary-expedition
 
+**Source:** en_news_events/2017/02/an-ordinary-day-on-an-extraordinary-expedition.html
+
 ## Chasing snowflakes on a windy deck
 
 You might think that after three months on Akademik Treshnikov, our expedition around the cold continent would now be as dull as the vast expanse of ice and the rough sea surrounding us. And yes, much has become routine: every day I check the equipment for measurements, every morning I call up the latest weather report from colleagues at ETH, every afternoon we work out on the helicopter deck, at regular intervals we launch weather balloons, and every evening I check that all is well secured in the lab.

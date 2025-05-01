@@ -1,5 +1,7 @@
 # extraordinary-researcher-honoured
 
+**Source:** en_news_events/2013/06/extraordinary-researcher-honoured.html
+
 ## Spotlight on a young field of research
 
 In 1990, scientists introduced a gene known to stimulate the production of flower pigments into petunia flowers to enhance their colour. However, the genetically modified plants turned practically white. The newly introduced genes not only failed to be expressed, but they also suppressed the naturally present one.
@@ -23,6 +25,4 @@ The Rössler Prize is a further highlight in Voinnet's research career. He studi
 Voinnet has a well-established reputation as a leading figure in RNA biology and has received many awards and accolades for his work. He also applied successfully for both the ERC Starting Grant and the ERC Advanced Grant, which he received this year. He has been the youngest person ever to be awarded the EMBO Gold Medal in 2009, one of Europe's most prestigious research awards for talented young researchers.
 
 The Rössler Prize will be awarded for the fifth time at the "Thanks Giving" event at ETH Zurich. The name of the event says it all: ETH Zurich and the ETH Zurich Foundation invites an exclusive group of ETH partners and friends in appreciation of their support and their trust in ETH Zurich. The prize is awarded annually and offers the highest prize money of all research awards at ETH Zurich. The ETH Zurich Foundation enables companies, private individuals and foundations to specifically support learning and research at ETH Zurich. More information at: www.ethz-foundation.ch .
-
-ETH Zurich Media Relations Tel. +41 44 632 41 41
 

@@ -1,5 +1,7 @@
 # coffee-lectures-das-neue-programm-ist-da
 
+**Source:** en_internal/2024/01/coffee-lectures-das-neue-programm-ist-da.html
+
 ## How it works
 
 Each session lasts 15 minutes. You will receive concise, condensed information on a particular topic and have time to ask questions at the end. Just the right length of time to enjoy a coffee while you listen and get to know the people behind the ETH Library.

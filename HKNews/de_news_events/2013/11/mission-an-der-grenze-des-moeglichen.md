@@ -1,5 +1,7 @@
 # mission-an-der-grenze-des-moeglichen
 
+**Source:** de_news_events/2013/11/mission-an-der-grenze-des-moeglichen.html
+
 ## Main article
 
 Im Rahmen von externe Seite SWARM werden drei identische Satelliten, bestückt mit Messgeräten, ins All gebracht. Ihre Aufgabe ist, das Erdmagnetfeld präzise zu vermessen. Die Europäische Weltraumorganisation (ESA) hat ein Konsortium aus sechs Forschungsinstitutionen damit beauftragt, die Daten von SWARM auszuwerten und aufzubereiten, sodass sie der Wissenschaftsgemeinde zur freien Verfügung stehen. Eine wichtige Rolle innerhalb des SWARM-Konsortiums spielt eine Forschungsgruppe der ETH Zürich unter der Leitung von Professor Andrew Jackson vom Institut für Geophysik. Im Interview mit ETH-News erklärte er die Aufgaben und Ziele des Projekts.

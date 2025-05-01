@@ -1,5 +1,7 @@
 # tackling-pandemic-threats-proactively
 
+**Source:** en_news_events/2020/11/tackling-pandemic-threats-proactively.html
+
 ## Disease outbreaks are inevitable
 
 (Photograph: ETH Zurich)

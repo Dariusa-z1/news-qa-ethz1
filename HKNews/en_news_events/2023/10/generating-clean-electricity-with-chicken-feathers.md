@@ -1,5 +1,7 @@
 # generating-clean-electricity-with-chicken-feathers
 
+**Source:** en_news_events/2023/10/generating-clean-electricity-with-chicken-feathers.html
+
 ## In brief
 
 - Annually, 40 million tons of chicken feathers are incinerated, causing adverse environmental effects.

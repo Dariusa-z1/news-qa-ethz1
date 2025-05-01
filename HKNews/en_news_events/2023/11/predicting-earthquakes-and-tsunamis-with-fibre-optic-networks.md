@@ -1,5 +1,7 @@
 # predicting-earthquakes-and-tsunamis-with-fibre-optic-networks
 
+**Source:** en_news_events/2023/11/predicting-earthquakes-and-tsunamis-with-fibre-optic-networks.html
+
 ## In brief
 
 - Researchers at ETH Zurich and the Swiss Federal Institute of Metrology METAS obtain vibration data from active noise cancellation, which increases the accuracy of signals in optical data communication.

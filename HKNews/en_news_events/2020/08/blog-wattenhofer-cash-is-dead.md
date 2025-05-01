@@ -1,5 +1,7 @@
 # blog-wattenhofer-cash-is-dead
 
+**Source:** en_news_events/2020/08/blog-wattenhofer-cash-is-dead.html
+
 ## CBDC out front
 
 (Photograph: ETH Zurich)

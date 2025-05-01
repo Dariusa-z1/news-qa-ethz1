@@ -1,5 +1,7 @@
 # online-teaching-let
 
+**Source:** de_news_events/2020/03/online-teaching-let.html
+
 ## Auch für die ETH eine Herausforderung
 
 Es herrscht Lockdown an der ETH. In den Gebäuden ist es ruhig. Doch der Unterricht geht weiter – nur anders als bisher. Was in Vor-Corona-Zeiten nur hier und da ausprobiert oder gezielt eingesetzt wurde, ist nun plötzlich praktisch über Nacht der einzig gangbare Weg: Alle Dozierenden der ETH Zürich bieten ihre Vorlesungen im Online Teaching an. Ein Kraftakt, nicht nur für Dozierende und Studierende, sondern auch für alle, die ihn technisch oder didaktisch unterstützen. Dazu gehört beispielsweise die Abteilung Lehrentwicklung und -technologie LET.

@@ -1,5 +1,7 @@
 # mixed-cultures-not-monotony
 
+**Source:** en_news_events/2018/07/mixed-cultures-not-monotony.html
+
 ## Simplicity is complex
 
 In 1994, Switzerland ratified the Convention on Biological Diversity in Rio, committing itself to the protection of biodiversity 1 . However, that’s not the only reason that I recommend diversifying our agriculture. Since the convention came into force in 1995, research has proven that biodiversity has an incredibly wide array of benefits 2,3 . In plant communities, a mixture of varieties or species generally produces more biomass than monocultures, and the biomass yield also fluctuates less over time.

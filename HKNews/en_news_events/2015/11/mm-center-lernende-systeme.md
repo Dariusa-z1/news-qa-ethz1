@@ -1,5 +1,7 @@
 # mm-center-lernende-systeme
 
+**Source:** en_news_events/2015/11/mm-center-lernende-systeme.html
+
 ## What determines intelligence?
 
 Cars that can park themselves, or robots that can move along uneven terrain, must be able to learn from their experiences and adapt to new situations and environments. Although these abilities are a given for humans, they present major challenges for machines. However, research in this field is progressing at a rapid pace. In order to educate the next generation of scientists in this area, intensify collaborative research and benefit from a shared infrastructure, ETH Zurich and the Max Planck Society have joined forces to establish a centre for learning systems. The centre will receive a total of five million euros in funding in the first five years, with the Max Planck Society and ETH Zurich each providing half.
@@ -17,8 +19,4 @@ The general principles of learning should not just endow robots with intelligenc
 ETH President Lino Guzzella is hoping the Center for Learning Systems will become a fertile ground for new ideas. "ETH and the Max Planck Society are two strong partners in the field of machine learning. I am expecting a great deal from this collaboration, especially with regard to educating our young scientists. It will be very interesting to see how they design the intelligent systems of the future."
 
 The Max Planck ETH Center, where scientists from Tübingen, Stuttgart and Zurich work together, is based on an existing partnership in the field of machine learning between the Max Planck Institute for Intelligent Systems and ETH Zurich. Alongside promoting scientific collaboration and training doctoral students, the centre also organises joint summer schools and workshops.
-
-ETH Zurich Prof. Dr. Thomas Hofmann Department of Computer Science Phone: +41 44 632 89 20
-
-ETH Zurich Media Relations Telefon: +41 44 632 41 41
 

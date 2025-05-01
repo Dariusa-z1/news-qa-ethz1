@@ -1,5 +1,7 @@
 # blog-grewe-ai-learning
 
+**Source:** en_news_events/2020/08/blog-grewe-ai-learning.html
+
 ## Learning (from) the whole internet
 
 (Photograph: ETH Zurich)

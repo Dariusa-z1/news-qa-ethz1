@@ -1,5 +1,7 @@
 # plant-base-steak-made-from-pea-protein
 
+**Source:** en_news_events/2022/03/plant-base-steak-made-from-pea-protein.html
+
 ## Kitchen as initial laboratory
 
 Tofu sausages, burgers made from fermented mushrooms or chicken made from pea protein – meat alternatives are becoming so popular that it’s now difficult to imagine a supermarket without them. So far, however, plant-based alternatives for high-quality meat products such as steak have not been readily available.

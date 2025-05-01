@@ -1,5 +1,7 @@
 # new-members-on-the-ethics-commission
 
+**Source:** en_internal/2015/04/new-members-on-the-ethics-commission.html
+
 ## Main article
 
 The Executive Board of ETH Zurich elected three new members to the Ethics Commission in mid-March. This brings the total number of members in the Commission to nine.

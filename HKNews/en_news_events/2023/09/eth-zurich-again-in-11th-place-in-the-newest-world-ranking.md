@@ -1,5 +1,7 @@
 # eth-zurich-again-in-11th-place-in-the-newest-world-ranking
 
+**Source:** en_news_events/2023/09/eth-zurich-again-in-11th-place-in-the-newest-world-ranking.html
+
 ## Finding meaning in the data
 
 Ranked among the best universities in the world, ETH Zurich once again takes a top position in 11th place out of the 1,904 institutions measured in the Times Higher Education World University Rankings for 2024. While the university maintained its position in the rankings for a second year in a row, its cumulative score rose by nearly four points up to 93.1. Scores for teaching, research, citations, and industry, improved and international outlook dropped only slightly. In a new metric that measures its research environment, ETH Zurich ranks in the top ten worldwide.

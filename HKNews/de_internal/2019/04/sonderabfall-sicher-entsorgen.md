@@ -1,5 +1,7 @@
 # sonderabfall-sicher-entsorgen
 
+**Source:** de_internal/2019/04/sonderabfall-sicher-entsorgen.html
+
 ## Auch kleinste Mengen von Antibiotika sind Sonderabfall
 
 Die ETH Zürich wächst. Bezogen auf Studierende und Mitarbeitende betrug das Wachstum zwischen 2015 und 2018 insgesamt über 3'000 Personen. Entsprechend kommt es in den Laboren auch zur Verwendung von mehr Chemikalien, Forschungsmaterialien – und zu mehr Abfallprodukten, die daraus entstehen. Das Plus von entsorgten Lösemitteln, Säuren, Laugen oder Akkus beträgt 2018 gegenüber 2015 rund 30 Prozent.
@@ -13,4 +15,6 @@ Neben dem Wachstum der Hochschule tragen auch aktuelle Entwicklungen dazu bei, z
 Vor diesem Hintergrund ist auch die von der SGU realisierte Umstellung des Entsorgungsprozesses der ETH zu sehen. Sonderabfälle werden an der ETH künftig elektronisch erfasst. Das Ziel ist, sowohl den Forschenden als auch den zuständigen Mitarbeitenden in den Entsorgungsstellen die Arbeit zu erleichtern und die Entsorgung insgesamt sicherer zu machen. Die elektronische Erfassung der Sonderabfälle erlaubt die Rückverfolgbarkeit von Chemikalien, lässt eine genauere Erhebung zu und gibt Aufschlüsse über den Stofffluss.
 
 ## Newsletter abonnieren
+
+In den Entsorgungsstellen für Sonderabfall im Zentrum (Gebäude CNB) ist die Umstellung bereits abgeschlossen, im HCI noch in Umsetzung. Informationen dazu sind auf der SGU-Webseite zu finden, wo auch ein neuer Erklärfilm aufgeschaltet ist sowie der aktuelle Jahresbericht (PDF, 650 KB) .
 

@@ -1,5 +1,7 @@
 # master-quantum-engineering
 
+**Source:** de_news_events/2021/09/master-quantum-engineering.html
+
 ## In beiden Perspektiven denken
 
 Derzeit intensivieren Unternehmen und Forschungszentren auf der ganzen Welt ihre Aktivitäten, um das Anwendungspotenzial der Quantenmechanik zu erschliessen. Um das dafür erforderliche Fachpersonal auszubilden, entstand an der ETH Zürich ein Masterstudienprogramm, das in seiner interdisziplinären Ausrichtung auch international viel Beachtung fand.
@@ -20,17 +22,17 @@ Der Masterstudiengang Quantum Engineering hat sie darauf vorbereitet, als Ingeni
 
 Dabei war bei der Konzeption des Studiengangs allen klar, dass man nicht einfach ein Doppelstudium mit doppeltem Pensum konstruieren kann. «Wir konzentrieren uns sowohl in der Physik wie auch in den Ingenieurfächern auf diejenigen Gebiete, die für das Quantum Engineering wirklich relevant sind», erklärt Novotny. Dennoch sind die Anforderungen an die Studierenden hoch. «Natürlich bewegt man sich aus seiner Komfortzone heraus, wenn man diesen Studiengang wählt,» sagt Ulrich.
 
-«Aber das Faszinierende ist doch, dass Quantum Engineering für alle Neuland ist.» Das Gefühl, in einem Gebiet tätig zu sein, das eine technische Revolution auslösen könnte, sei sehr motivierend. Diese Beobachtung macht auch Novotny: «Das Studium fordert sehr viel, aber die Studierenden meistern das. Sie sind ja gewissermassen Pioniere und das beflügelt sie.» Der Zusammenhalt der Studierenden untereinander ist in den Augen von Ulrich ein weiteres grosses Plus. So hat sie sich von Anfang an intensiv im neugegründeten Fachverein eingebracht. Unterstützung bei Prüfungsvorbereitungen, fachlicher Austausch und Kontakte zur Industrie stehen dort ebenso auf dem Programm wie soziale Events.
-
 Die erste Generation von Quanteningenieurinnen und -ingenieuren steht nun am Ende des Masterstudiums, die dritte Generation nimmt in diesem Herbst ihr Studium auf. Seither hat sich die Zahl derjenigen, die ein Masterstudium Quantum Engineering jeweils in Angriff nehmen, nahezu verdoppelt. Ein deutliches Zeichen dafür, dass der Studiengang auf ein grosses Bedürfnis trifft. «Das ist ein erfreuliches Erfolgszeichen», sagt Novotny. Und eine Herausforderung, vor allem auf der strukturellen und administrativen Ebene. Man müsse jetzt gut überlegen, wie man den Studiengang aus der Pionierphase in einen steady state überführen könne. So soll unter anderem auch ein Netzwerk von Industriepartnern zur Unterstützung aufgebaut werden. «Ich möchte, dass Quantum Engineering ein Gebiet mit Bodenhaftung wird», sagt Novotny.
 
-## Keine Ausgabe verpassen
-
 Die Berufsaussichten für die Absolventinnen und Absolventen seien sicherlich gut. Wirklich beurteilen könne man den Erfolg aber erst, wenn die jungen Absolvierenden einige Zeit im Berufsleben verbracht hätten, fügt Novotny vorsichtig hinzu. Anja Ulrich ist jedenfalls optimistisch: «Ich sehe ein breites Betätigungsfeld vor mir.
+
+## Keine Ausgabe verpassen
 
 Es gibt zudem noch nicht so viele Leute, die hier wirklich qualifiziert sind.» Und das Potenzial, etwas zu bewegen, etwas zu entdecken oder etwas zu verändern, sei relativ gross. «Man hat vielleicht die Chance, etwas Neues zu implementieren und nicht nur an einem kleinen Rad zu schrauben.» Was könnte begeisternder sein?
 
 Anja Ulrich gehört zur ersten Generation der Studierenden des Masterstudiengangs Quantum Engineering. Lukas Novotny ist Programmdirektor des Masterstudiengangs Quantum Engineering und Professor am Departement Informationstechnologie und Elektrotechnik. Weitere Informationen zum Masterstudiengang Quantum Engineering
+
+Ausgabe als PDF lesen (PDF, 6.9 MB)
 
 Ausgabe online lesen
 

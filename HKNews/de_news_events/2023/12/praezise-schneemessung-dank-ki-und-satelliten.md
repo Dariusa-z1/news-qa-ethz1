@@ -1,5 +1,7 @@
 # praezise-schneemessung-dank-ki-und-satelliten
 
+**Source:** de_news_events/2023/12/praezise-schneemessung-dank-ki-und-satelliten.html
+
 ## In Kürze
 
 - ETH-Forschende haben zusammen mit der Schweizer Firma ExoLabs ein KI-gestütztes Schneemesssystem entwickelt, das die Schneehöhe täglich und genauer als bisher bestimmen kann.

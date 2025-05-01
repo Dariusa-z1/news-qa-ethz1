@@ -1,5 +1,7 @@
 # die-grossartigkeit-der-objektivitaet-und-ein-paar-handfeste-beweise
 
+**Source:** de_news_events/2023/12/die-grossartigkeit-der-objektivitaet-und-ein-paar-handfeste-beweise.html
+
 ## Die Mathematik von Strassennetzen
 
 Wenn User:innen Google Maps oder einen anderen digitalen Kartenanbieter aufrufen, sehen sie Bushaltestellen, Velowege, Autobahnen. Raphael Steiner sieht Knoten, Kanten, Graphen. Mit Graphen sind nicht etwa Kurven wie Funktionsgraphen gemeint, sondern Netzwerke aus Knoten, die miteinander verbunden sind – oder nicht. Die Verbindung zwischen zwei Knoten nennen die Forschenden Kanten.
@@ -20,21 +22,19 @@ Schon als Bub, der im süddeutschen Tuttlingen aufwuchs, begann Raphael Steiner,
 
 Bereits mit seiner Bachelorarbeit hatte er in der Fachwelt Aufsehen erregt. Zusammen mit einem Mathematikprofessor in Berlin schrieb er noch vor seinem Masterabschluss ein wissenschaftliches Paper und nahm danach eine Doktorandenstelle an der Technischen Universität Berlin an. 2021 promovierte er mit gerade einmal 21 Jahren summa cum laude. «Danach wollte ich in der Nähe von meinem Zuhause in Süddeutschland bleiben», erzählt er, «da war die ETH als hervorragende Hochschule natürlich eine Option.»
 
-Er kontaktierte Angelika Steger, Professorin am ETH-Institut für theoretische Informatik, und erhielt das begehrte ETH-Fellowship . Dass es danach auch mit der Ambizione-Förderung klappte, freut ihn besonders. «Ich bin sehr glücklich darüber, weil dies vier Jahre Sicherheit bedeutet», sagt er. «Der Beruf als akademischer Forscher ist zwar toll, aber als Postdoc sorgt man sich normalerweise schon auch um seine Zukunft.»
-
 Das Thema, das er im Rahmen der Ambizione-Förderung bearbeitet, ist denn für Laien auch nur schwer verständlich. Es geht um eine Vermutung, die der Schweizer Mathematiker Hugo Hadwiger 1943 aufgestellt hat. Sie macht eine Aussage über Graphen mit bestimmten strukturellen Eigenschaften. Die Vermutung besagt, dass sich diese Gebilde auf eine ganz bestimmte Art und Weise in einfache Substrukturen zerlegen lassen, wobei sie zugleich gewisse andere Substrukturen nicht enthalten dürfen. «Ich versuche, das zu beweisen oder zumindest Fortschritte in Richtung eines Beweises zu machen», sagt Steiner. «Das ist ein grosses Problem, darüber haben sich schon viele Denker den Kopf zerbrochen.»
 
-## Zwischenziel in Reichweite
-
 Bei Hadwigers Vermutung gehe es um Graphen-Färbung, erklärt der Mathematiker. Dabei wird jedem Knoten eines Graphen eine Farbe zugewiesen. Als einzige Bedingung gilt, dass Knoten, die miteinander verbunden sind, also eine Kante haben, nicht die gleiche Farbe erhalten dürfen. Ein Teil von Hadwigers Vermutung ist der sogenannte Vier-Farben-Satz. Er besagt Folgendes: Will man eine Landkarte mit verschiedenen Ländern so einfärben, dass benachbarte Länder unterschiedliche Farben haben, so genügen vier Farben. Obwohl der Vier-Farben-Satz bereits Mitte des 19. Jahrhunderts aufgestellt wurde, dauerte es über 100 Jahre, bis man ihn beweisen konnte. «Das Vorgehen war in der Mathematik umstritten», erzählt Steiner. «Denn der Beweis erforderte Computerhilfe. Das war etwas Neues.»
+
+## Zwischenziel in Reichweite
 
 Früher analysierten die Mathematiker die verschiedenen, möglichen Fälle einer Vermutung von Hand. Doch beim Vier-Farben-Problem gab es so viele problematischen Fälle, dass dies nur ein Computer schaffte. «Die Leute waren damals skeptisch, ob der Programmcode tatsächlich fehlerfrei war», sagt Steiner. Inzwischen wurde der Beweis mit modernen Programmiersprachen überprüft und es bestehen keine Zweifel mehr. «Dennoch sind nicht alle glücklich über diese Art von Beweis», sagt Steiner. «Löst man ein Problem mit dem Computer, ist es dann zwar ein Fakt, doch intuitiv versteht man nicht so richtig, warum dies gilt.» Diese Herausforderung dürfte sich in naher Zukunft noch akzentuieren, wenn auch KI-basierte Beweisassistenten zum Einsatz kommen.
 
 Auch für den Beweis der viel allgemeineren Hadwiger Vermutung gibt es verschiedene Ansätze. Ausgangspunkt könnte ein neuer, nicht computerassistierter Beweis des Vier-Farben-Satzes sein, der als Basis für eine Verallgemeinerung dienen könnte. «Auch ich habe das schon versucht, doch es ist schwierig», gibt Steiner zu. Nun verfolgt er eine andere Herangehensweise: «Wenn wir ein mathematisches Problem nicht lösen können, vereinfachen wir es oft ein wenig und versuchen, uns dann schrittweise dem wirklichen Problem anzunähern.» Ein Zwischenziel scheint in Reichweite zu sein, wie bisherige Arbeiten zeigen.
 
-## Literaturhinweise
-
 Das Grosse Ziel im Auge, sich aber auf Zwischenschritte konzentrieren. Das macht Steiner auch, wenn er, wie so häufig in seiner Freizeit, Schach spielt. «Das macht mir sehr viel Spass», sagt er. Der Denker findet aber auch ab und zu Ausgleich im Konditionstraining der ETH oder geht laufen. «Ich singe auch gerne und überlege mir, ob ich eine Band suchen soll», erzählt er.
+
+## Literaturhinweise
 
 Wie aber geht so ein Überflieger damit um, wenn es nicht auf Anhieb klappt? Dass es bei der Arbeit auch manchmal Tage gibt, an denen die Lösungsideen nicht wie aus einem Fluss hervorquellen, gibt er gerne zu. Doch die Faszination überwiegt bei weitem. «Das Schöne an der Mathematik ist, dass sie auf konkrete Fragen auch eindeutige Antworten gibt», erklärt er. «Existiert ein handfester Beweis für etwas, dann muss selbst jemand, der dich nicht mag, diesen akzeptieren. Diese Objektivität finde ich grossartig.»
 

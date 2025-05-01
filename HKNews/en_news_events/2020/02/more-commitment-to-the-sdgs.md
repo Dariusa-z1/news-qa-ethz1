@@ -1,5 +1,7 @@
 # more-commitment-to-the-sdgs
 
+**Source:** en_news_events/2020/02/more-commitment-to-the-sdgs.html
+
 ## Universities must play their part
 
 In Australia, bush fires are raging. An unprecedented plague of locusts is afflicting Ethiopia, Kenya and Somalia. And in Switzerland, people are concerned because drinking water in some local communities is so contaminated by pesticides that fountains are being closed.

@@ -1,5 +1,7 @@
 # tuerschilder-bodenkleber-checklisten-zum-notbetrieb
 
+**Source:** de_internal/2020/04/tuerschilder-bodenkleber-checklisten-zum-notbetrieb.html
+
 ## Das wachsende Angebot beinhaltet demnächst
 
 - BAG Flyer
@@ -30,15 +32,13 @@ Unter der neuen Webshop-Kategorie «Notbetrieb Kommunikationsmittel» finden Sie
 
 ## Sie erreichen uns über
 
-Ist das Passende nicht dabei? Dann kontaktieren Sie uns und die Spezialisten von Print and Publish begleiten Sie auf Wunsch von der Gestaltung bis zum fertigen Produkt.
+Bitte berücksichtigen Sie, dass wir wegen der Schutzmassnahmen des BAG die Anzahl Mitarbeitenden vor Ort reduziert haben. Es könnte daher zu längeren Lieferzeiten kommen.
 
 ## Staffnet
 
-Bitte berücksichtigen Sie, dass wir wegen der Schutzmassnahmen des BAG die Anzahl Mitarbeitenden vor Ort reduziert haben. Es könnte daher zu längeren Lieferzeiten kommen.
+Mit diesem neuen Angebot vereinfacht die Abteilung Services die kommunikativen Herausforderungen von ETH-Angehörigen. All unsere Prozesse inklusive Logistik sind auf den Betrieb unter Notstand ausgerichtet. Deshalb sind Lieferungen an Privatadressen – Ihr Homeoffice – sowie an Gebäude der ETH über die interne Post bis auf Weiteres kostenfrei.
 
 ## Newsletter abonnieren
-
-Mit diesem neuen Angebot vereinfacht die Abteilung Services die kommunikativen Herausforderungen von ETH-Angehörigen. All unsere Prozesse inklusive Logistik sind auf den Betrieb unter Notstand ausgerichtet. Deshalb sind Lieferungen an Privatadressen – Ihr Homeoffice – sowie an Gebäude der ETH über die interne Post bis auf Weiteres kostenfrei.
 
 Wir von Print and Publish nehmen gerne Ihre Wünsche, Anregungen oder Rückmeldungen zum neuen Angebot entgegen.
 

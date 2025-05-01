@@ -1,5 +1,7 @@
 # bedrohter-boden
 
+**Source:** en_news_events/2014/08/bedrohter-boden.html
+
 ## Boden in Gefahr
 
 - Die external pageGlobal Soil Partnershipcall\_made setzt sich für eine nachhaltige Nutzung von Boden ein

@@ -1,5 +1,7 @@
 # eth-zuerich-offiziell-akkreditiert
 
+**Source:** de_news_events/2021/11/eth-zuerich-offiziell-akkreditiert.html
+
 ## Main article
 
 - Im Strategie- und Entwicklungsplan der ETH soll klarer definiert werden, welche Stellen für die verschiedenen Prozesse der    Qualitätssicherung zuständig sind. Sie stellt fest, dass informelle Praktiken ein grosses Gewicht haben und schlägt vor, manche davon zu institutionalisieren.

@@ -1,5 +1,7 @@
 # sustainable-ceramics-without-a-kiln
 
+**Source:** en_news_events/2017/02/sustainable-ceramics-without-a-kiln.html
+
 ## Stronger than concrete
 
 The manufacture of cement, bricks, bathroom tiles and porcelain crockery normally requires a great deal of heat: a kiln is used to fire the ceramic materials at temperatures well in excess of 1,000°C. Now, material scientists from ETH Zurich have developed what seems at first glance to be an astonishingly simple method of manufacture that works at room temperature. The scientists used a calcium carbonate nanopowder as the starting material and instead of firing it, they added a small amount of water and then compacted it.

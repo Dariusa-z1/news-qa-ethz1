@@ -1,5 +1,7 @@
 # die-schwerkraft-der-traeume
 
+**Source:** de_news_events/2020/11/die-schwerkraft-der-traeume.html
+
 ## Aufregende Zeiten, rätselhafte Kräfte
 
 Wer nachts den Sternenhimmel betrachtet, erahnt womöglich, womit sich Lavinia Heisenberg beruflich befasst. Heisenberg ist Kosmologin. Ihr Forschungsgebiet ist das Weltall und was darin vorkommt, seien das nun sichtbare oder dunkle Materie, Licht oder Energie, Teilchen oder Wellen, Körper oder Kräfte. Ihr Interesse gilt dabei nicht einzelnen Planeten, einem Sonnensystem oder einer Galaxie wie unsere Milchstrasse eine ist. Ihr Forschungsdrang richtet sich vielmehr auf ganze Galaxienhaufen und auf die Naturkräfte, die etwas über die Entstehung und den Aufbau des Universums aussagen.

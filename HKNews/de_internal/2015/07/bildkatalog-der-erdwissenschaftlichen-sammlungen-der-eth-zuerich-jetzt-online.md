@@ -1,5 +1,7 @@
 # bildkatalog-der-erdwissenschaftlichen-sammlungen-der-eth-zuerich-jetzt-online
 
+**Source:** de_internal/2015/07/bildkatalog-der-erdwissenschaftlichen-sammlungen-der-eth-zuerich-jetzt-online.html
+
 ## Main article
 
 Die Materialien stammen aus der Sammlung Albert Heim, die in den 1880er bis 1910er Jahren aus der ganzen Welt zusammengetragen wurden.

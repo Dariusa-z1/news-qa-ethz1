@@ -1,5 +1,7 @@
 # eth-day-2019
 
+**Source:** en_news_events/2019/11/eth-day-2019.html
+
 ## Shaping social development
 
 ETH Zurich celebrated its anniversary on 16 November with guests from politics, science, industry and the arts. In a speech commemorating the 200 th birthday this year of ETH’s founder, Alfred Escher, the guest speaker Guy Parmelin, a member of the Federal Council, looked back at the pioneering beginnings of the university, as well as describing how its early teaching and research helped to drive forward Switzerland’s industrialisation. Today, ETH continues to play a pivotal role in addressing urgent social challenges. “I’m thinking here of climate change, energy supply, mobility and especially digitisation, artificial intelligence and cybersecurity,” said the Minister for Economic Affairs, Education and Research.
@@ -23,6 +25,4 @@ Of course, the students themselves also had the opportunity to speak at the ETH 
 "In a world that at times appears to be alarmingly sectarian, partisan and divisive, it is profoundly important to establish models of inclusive communities that embrace diverse talents and work to achieve global benefits", said Prof. Hu in her acceptance speach. "I am deeply proud to be a member of that community: thank you for the honor you bestow upon me."
 
 All speeches and pictures of the ceremony can be found on the events page .
-
-ETH Zurich Media relations Phone: +41 44 632 41 41
 

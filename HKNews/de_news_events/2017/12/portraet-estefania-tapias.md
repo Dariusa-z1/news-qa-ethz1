@@ -1,5 +1,7 @@
 # portraet-estefania-tapias
 
+**Source:** de_news_events/2017/12/portraet-estefania-tapias.html
+
 ## Städteforscherin statt Künstlerin
 
 Estefania Tapias zählt zu den anerkanntesten Expertinnen für thermischen Komfort und erforscht, wie Temperatur, Luftfeuchte oder Luftgeschwindigkeit das Wohlbefinden von Menschen in Städten beeinflussen. Dafür pendelt die 29-jährige regelmässig zwischen dem ETH Future Cities-Labor in Singapur und dem Departement für Architektur in Zürich hin und her. Dazu hat sie seit 2014 eine Serie von sogenannten MOOC (massive open online courses) zur Planung der Stadt der Zukunft aufgebaut. Über 116'000 Menschen haben daran bereits weltweit teilgenommen. Als Postdoktorandin in der Forschungsgruppe von Gerhard Schmitt, ETH-Professor für Informationsarchitektur, ist sie zudem in das interdisziplinäre Forschungsprojekt «Cooler Calmer Singapore» involviert, bei dem es unter anderem darum geht, das Wohlbefinden der Menschen durch eine Reduktion von Hitze zu steigern.

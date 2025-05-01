@@ -1,5 +1,7 @@
 # die-schulleitung-informiert-2020-5
 
+**Source:** en_internal/2020/08/die-schulleitung-informiert-2020-5.html
+
 ## Procedure in cases of inappropriate behaviour
 
 - Conflict situations are to be detected, defined, de-escalated and resolved as quickly as possible. The goal is to return to people treating one another with respect.
@@ -20,15 +22,11 @@ ETH Zurich is committed to a culture of mutual respect. Bullying, discrimination
 
 ## Regular updates from the Executive Board
 
-In October, information sheets and further documents on the regulation will be made available at www.ethz.ch/respekt . Training for those staffing the contact and advice services is scheduled for November 2020.
+From 1 November, ETH Zurich will conduct regular surveys of the doctoral students, expanding these to postdocs and senior assistants as of 1 February 2021. The objective is to obtain continuous feedback about the scientific staff’s level of satisfaction, support and development. Doctoral students will be surveyed three times: the first time 12 to 15 months after they start work on their doctoral thesis; the second after 36 to 42 months; and the last time after they have completed their doctoral examination. The timing of the surveys for postdocs and senior assistants is slightly different.
 
 ## Subscribe to Newsletter
 
-From 1 November, ETH Zurich will conduct regular surveys of the doctoral students, expanding these to postdocs and senior assistants as of 1 February 2021. The objective is to obtain continuous feedback about the scientific staff’s level of satisfaction, support and development. Doctoral students will be surveyed three times: the first time 12 to 15 months after they start work on their doctoral thesis; the second after 36 to 42 months; and the last time after they have completed their doctoral examination. The timing of the surveys for postdocs and senior assistants is slightly different.
+The ETH Zurich Executive Board holds scheduled meetings every two weeks and provides feedback in the form of regular updates. This issue reports on the key decisions taken at the two meetings directly preceding the summer holiday period.
 
 ## Staffnet
-
-The anonymous survey, conducted by an external polling agency, will include questions on the introductory period, support, personal and professional development, hiring conditions, respect, health and further career planning. ETH Zurich will receive anonymised results at department level. Further evaluation is possible only if a group returns at least five responses. To detect individual situations in good time, after completing the survey, participants can submit their contact information separately and request a meeting about their situation. The HR department will get in touch with them without having any information from the survey.
-
-The ETH Zurich Executive Board holds scheduled meetings every two weeks and provides feedback in the form of regular updates. This issue reports on the key decisions taken at the two meetings directly preceding the summer holiday period.
 

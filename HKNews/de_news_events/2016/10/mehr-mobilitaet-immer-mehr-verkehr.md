@@ -1,5 +1,7 @@
 # mehr-mobilitaet-immer-mehr-verkehr
 
+**Source:** de_news_events/2016/10/mehr-mobilitaet-immer-mehr-verkehr.html
+
 ## Der Raum als früher Feind des Menschen
 
 Wie heisst es so schön: Fehler machen sei nicht so tragisch, so lange man sie nicht wiederholt. Es ist natürlich oft Interpretationssache, was ein Fehler ist – gerade in der Verkehrsplanung, wo seit Jahren ideologisch und emotional darüber debattiert wird, wie dem permanent wachsenden Verkehrsaufkommen zu begegnen sei. Ich befasse mich in meiner Dissertation mit der Entwicklung des Verkehrsnetzes und Reisens in Europa vom Mittelalter bis heute. Und bei einigem, was Politiker, Bürger und Medien heutzutage beschäftigt, kommen mir unweigerlich Déjà-vus. Werfen wir also einen Blick in die Geschichte der Mobilität.

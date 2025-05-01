@@ -1,5 +1,7 @@
 # deuteron-kleiner-als-gedacht
 
+**Source:** de_news_events/2016/08/deuteron-kleiner-als-gedacht.html
+
 ## Neue Experimente angeregt
 
 Ein Deuteron ist ein sehr einfacher Atomkern. Er besteht nur aus einem Proton und einem Neutron, also je einem der beiden Bausteine von Atomkernen. Eine internationale Kooperation von Forschenden hat am Paul Scherrer Institut PSI das Deuteron genauer vermessen als je zuvor. Der Radius des Deuterons, den sie erhielten, deckt sich jedoch nicht mit den Werten anderer Forschungsgruppen, sondern ist deutlich kleiner.

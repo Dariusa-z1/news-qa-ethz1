@@ -1,5 +1,7 @@
 # following-in-eschers-footsteps
 
+**Source:** en_news_events/2020/04/following-in-eschers-footsteps.html
+
 ## A kitchen cabinet that can think
 
 Every year in Switzerland, about one million tonnes of food from private households ends up in the rubbish. Although awareness of food waste has risen in recent years, until now little more could be done to combat the appalling wastage than inform the public and appeal to them to change their habits. But 20-year-old Julia Gschwind from Solothurn wasn’t going to settle for that. As part of her school-leaving exam work, she sought a way to tackle the squandering at its source – in the consumer’s kitchen.

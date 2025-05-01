@@ -1,5 +1,7 @@
 # zwei-neue-open-access-mitgliedschaften-frontiers-und-mdpi
 
+**Source:** de_internal/2015/01/zwei-neue-open-access-mitgliedschaften-frontiers-und-mdpi.html
+
 ## Main article
 
 Voraussetzung ist, dass der Erst- oder korrespondierende Autor des eingereichten Artikels Angehöriger der ETH Zürich ist.

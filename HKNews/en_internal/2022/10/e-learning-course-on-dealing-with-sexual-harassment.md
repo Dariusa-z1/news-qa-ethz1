@@ -1,5 +1,7 @@
 # e-learning-course-on-dealing-with-sexual-harassment
 
+**Source:** en_internal/2022/10/e-learning-course-on-dealing-with-sexual-harassment.html
+
 ## Sexual harassment affects us all
 
 We all want ETH to remain a safe and respectful place. Bullying, sexual harassment, discrimination, threats and violence are not tolerated at our university and will have consequences. As part of the “ Stand up for respect ” initiative, the Executive Board is launching an e-learning course for an in-depth exploration of the topic of sexual harassment in everyday studies and work.
@@ -21,10 +23,4 @@ Taking a stand, reporting grievances and standing up for yourself and others is 
 “The e-learning module provides a great, in-depth insight into the topic and every ETH member can learn from it,” says Julia Dannath, explaining that after completing the training, people will have a better sense of where sexual harassment begins. “We often hear the question, ‘Are you not even allowed to make a joke or flirt anymore?’. Of course we can have a laugh at our place of work or study and show others our affection. However, this behaviour becomes unacceptable when doing so violates another person's dignity and boundaries.”
 
 Complete the e-learning module “ Dealing with sexual harassment in everyday studies and work ”. You received the password by email on 25 October 2022. You can also find it on the website www.ethz.ch/respekt .
-
-If you have any questions about the content, please contact:
-
-In the event of technical questions about Moodle (login etc.), please contact the .
-
-Should you be affected by or witness sexual harassment, please get in touch with the ETH contact points .
 

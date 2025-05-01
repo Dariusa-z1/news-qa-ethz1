@@ -1,5 +1,7 @@
 # erneut-ein-virtueller-jahresausklang-samt-weihnachtszauber
 
+**Source:** de_internal/2021/12/erneut-ein-virtueller-jahresausklang-samt-weihnachtszauber.html
+
 ## «Grand merci» für Einsatz in herausfordernder Zeit
 
 Die erste Ehrung fand bereits vor dem Beginn der virtuellen Weihnachtsfeier statt – und zwar die Übergabe des ALEA Awards. Seit 2017 zeichnet der ALEA Award Führungspersonen aus, die moderne und innovative Arbeitsbedingungen ermöglichen und die Vereinbarkeit von Beruf, Familie und nebenberuflichem Engagement fördern und aktiv unterstützen. Der Award wird von AVETH mit der Unterstützung von ETH Diversity und HR vergeben.

@@ -1,5 +1,7 @@
 # strickwerk-traegt-beton
 
+**Source:** de_news_events/2018/10/strickwerk-traegt-beton.html
+
 ## 55 Kilogramm Schalung für fünf Tonnen Beton
 
 Das Herz der vier Meter hohen, geschwungenen Betonkonstruktion ist gestrickt. Als Schalung dient dem Bauwerk einzig ein mit Stahlseilen gespanntes Textil. Am Prototypen mit dem Namen KnitCandela kommt die Technologie erstmals in architektonischem Masstab zum Einsatz. Der Bau ist eine Hommage an den spanisch-mexikanischen Architekten Felix Candela (1910-1997) und ein Gemeinschaftswerk mit Zaha Hadid Architects Computation and Design Group (ZHACODE) und Architecture Extrapolated (R-Ex).

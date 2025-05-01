@@ -1,5 +1,7 @@
 # ich-habe-nach-bauchgefuehl-getippt
 
+**Source:** de_news_events/2014/07/ich-habe-nach-bauchgefuehl-getippt.html
+
 ## Deutsche mit gutem Stil
 
 «Das war das erste Tippspiel, bei dem ich mitgemacht habe», sagt Mariusz Frukacz. Der 37-jährige Postdoktorand am Institut für Geodäsie und Photogrammetrie (D-BAUG) hat das WM-Tippspiel der ETH-Community für sich entschieden. Die Preise für den ersten Platz – ein Pokal und ein iPad – wurden ihm am Dienstag übergeben.

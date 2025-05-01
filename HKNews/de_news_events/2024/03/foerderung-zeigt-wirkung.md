@@ -1,5 +1,7 @@
 # foerderung-zeigt-wirkung
 
+**Source:** de_news_events/2024/03/foerderung-zeigt-wirkung.html
+
 ## Main article
 
 Auch im vergangenen Jahr unterstützten zahlreiche Privatpersonen, Stiftungen und Unternehmen die ETH mit über 3500 Spenden, Erbschaften und Legaten in der Höhe von über 130 Millionen Franken.

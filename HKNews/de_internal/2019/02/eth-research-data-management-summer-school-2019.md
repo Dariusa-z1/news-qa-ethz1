@@ -1,5 +1,7 @@
 # eth-research-data-management-summer-school-2019
 
+**Source:** de_internal/2019/02/eth-research-data-management-summer-school-2019.html
+
 ## Main article
 
 Forschungsdatenmanagement (FDM) ist für Forschende unerlässlich. Es garantiert die sachgerechte Organisation von Forschungsdaten entlang des gesamten Lebenszyklus von der Erzeugung bis zur Erhaltung der Daten, inklusive des Teilens mit Dritten («FAIR Data»).

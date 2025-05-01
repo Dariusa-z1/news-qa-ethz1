@@ -1,5 +1,7 @@
 # ab-heute-wird-die-polybahn-erneuert
 
+**Source:** de_internal/2021/05/ab-heute-wird-die-polybahn-erneuert.html
+
 ## Main article
 
 Jährlich befördert die Polybahn gegen zwei Millionen Personen zwischen der Station Central und der Polyterrasse. Unter ihnen zahlreiche Angehörige der ETH Zürich. Auch ihren Namen erhielt sie Anlehnung an das Polytechnikum, wie die ETH in den Jahren nach ihrer Gründung hiess. Für ihren Betrieb und den Fahrplan zuständig sind die UBS zusammen mit der VBZ und dem ZVV.

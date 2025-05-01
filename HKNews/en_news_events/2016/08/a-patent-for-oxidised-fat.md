@@ -1,5 +1,7 @@
 # a-patent-for-oxidised-fat
 
+**Source:** en_news_events/2016/08/a-patent-for-oxidised-fat.html
+
 ## Inflammatory – or not?
 
 It is a hotly debated, highly researched subject that has taken on the semblance of a religious war: what are good and what are bad fats? But research from ETH Professor Manfred Kopf’s group published in recent years about fatty acids and their role in inflammatory diseases has turned certain dogmas upside down: the group found that certain oxidised fatty acids actually inhibit inflammation.

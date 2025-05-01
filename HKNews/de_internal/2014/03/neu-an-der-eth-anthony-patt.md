@@ -1,5 +1,7 @@
 # neu-an-der-eth-anthony-patt
 
+**Source:** de_internal/2014/03/neu-an-der-eth-anthony-patt.html
+
 ## Zur Person
 
 Warum sind Sie dem Ruf an die ETH Zürich gefolgt? Anthony Patt: Da fallen mir spontan drei Dinge ein. Erstens reizt es mich, in einem naturwissenschaftlich-technischen Umfeld gesellschaftliche Fragen zu untersuchen. Zweitens, findet man an der ETH dieselbe kollegiale Atmosphäre wie an den sehr guten amerikanischen Universitäten. Und drittens, finde ich Zürich ganz einfach eine tolle Stadt.

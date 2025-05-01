@@ -1,5 +1,7 @@
 # rethink-digitalisierungsstrategie-der-verwaltung
 
+**Source:** de_internal/2022/06/rethink-digitalisierungsstrategie-der-verwaltung.html
+
 ## Fragen zu rETHink?
 
 - Systematische Datenanalyse

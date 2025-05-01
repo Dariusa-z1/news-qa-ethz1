@@ -1,5 +1,7 @@
 # earth-as-a-test-object
 
+**Source:** en_news_events/2024/02/earth-as-a-test-object.html
+
 ## In brief
 
 - The technology planned for the future LIFE space mission is capable of recognising habitable exoplanets. This has been demonstrated in a study conducted by researchers at ETH Zurich and the University of Zurich.

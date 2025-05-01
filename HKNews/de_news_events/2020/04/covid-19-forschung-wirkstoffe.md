@@ -1,5 +1,7 @@
 # covid-19-forschung-wirkstoffe
 
+**Source:** de_news_events/2020/04/covid-19-forschung-wirkstoffe.html
+
 ## Den Eintritt der Viren in Zellen unterbinden
 
 Noch gibt es keine zuverlässige Therapie gegen Sars-CoV-2. Schweiz- und weltweit suchen Wissenschaftler jedoch unter Hochdruck nach Mitteln gegen den Erreger der Covid-19-Pandemie. Auch an der ETH Zürich arbeiten ausgewählte Forschungsgruppen daran. Sie erhielten von der Schulleitung eine Sonderbewilligung, trotz Notbetrieb Labore und Infrastruktur für den Kampf gegen Corona zu nutzen.

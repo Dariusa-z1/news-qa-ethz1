@@ -1,5 +1,7 @@
 # research-commission-welcomes-new-members
 
+**Source:** en_internal/2015/03/research-commission-welcomes-new-members.html
+
 ## Main article
 
 In a recent meeting, the Executive Board announced that the Research Commission would be undergoing some changes.

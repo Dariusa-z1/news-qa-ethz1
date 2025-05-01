@@ -1,5 +1,7 @@
 # united-states-absorbed-co2-despite-drought
 
+**Source:** en_news_events/2016/04/united-states-absorbed-co2-despite-drought.html
+
 ## Grasslands release CO2 during drought
 
 In the US, spring 2012 was the warmest on record. The subsequent summer was dryer and hotter than any summer since the 1930s, a period that became known in the history books as the ‘Dust Bowl’. In 2012, drought and heat afflicted almost the entire contiguous United States.

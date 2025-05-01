@@ -1,5 +1,7 @@
 # blog-die-schweiz-muss-ihr-innovationspotenzial-besser-ausschoepfen
 
+**Source:** de_news_events/2024/02/blog-die-schweiz-muss-ihr-innovationspotenzial-besser-ausschoepfen.html
+
 ## Pionierleistungen fördern, nicht erschweren
 
 Immer wenn ich einen Vortrag über Innovation in der Schweiz halte, beginne ich mit einem Bild von Eiger, Mönch und Jungfrau. Ich erzähle jeweils die Geschichte von Adolf Guyer-Zeller – für mich eine der eindrücklichsten Geschichten von unternehmerischem Ehrgeiz und Scheitern in der Schweiz des 19. Jahrhunderts.

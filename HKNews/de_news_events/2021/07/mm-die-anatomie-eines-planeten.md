@@ -1,5 +1,7 @@
 # mm-die-anatomie-eines-planeten
 
+**Source:** de_news_events/2021/07/mm-die-anatomie-eines-planeten.html
+
 ## Mars einst vollständig geschmolzen
 
 Seit Anfang 2019 haben Forschende im Rahmen der InSight-Mission Marsbeben aufgezeichnet und ausgewertet. Möglich gemacht hat das ein Seismometer, dessen Datenerfassungs- und Steuerungselektronik an der ETH Zürich entwickelt wurde. Mit Hilfe dieser Daten haben die Forschenden nun Kruste, Mantel und Kern des roten Planeten vermessen – Daten, die helfen werden, die Entstehung und Entwicklung des Planeten und somit auch des ganzen Sonnensystems zu erschliessen.

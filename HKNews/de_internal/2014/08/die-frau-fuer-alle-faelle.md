@@ -1,5 +1,7 @@
 # die-frau-fuer-alle-faelle
 
+**Source:** de_internal/2014/08/die-frau-fuer-alle-faelle.html
+
 ## Eine Macherin
 
 Claudia Sigels Arbeitsplatz ist alles andere als ein nüchternes Büro im Departement für Materialwissenschaft (D-MATL). Gross- und kleinblättrige Pflanzen säumen die grosse Fensterfront, ein künstliches menschliches Skelett mit Wintermütze und T-Shirt guckt aus hohlen Löchern bei der Arbeit zu und ein grosses, knallig rotes Sofa lädt zum Entspannen während der Kaffeepause ein.

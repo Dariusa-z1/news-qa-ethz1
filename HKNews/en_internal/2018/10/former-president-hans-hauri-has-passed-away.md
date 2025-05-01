@@ -1,5 +1,7 @@
 # former-president-hans-hauri-has-passed-away
 
+**Source:** en_internal/2018/10/former-president-hans-hauri-has-passed-away.html
+
 ## Impassioned teacher
 
 Hans Hauri presided over ETH Zurich at an eventful time: 1968, when the Federal Council handed over leadership of ETH to him, entered the annals as a year of youth movements and student protests. In addition to this, the educational landscape was also undergoing major changes. During Hauri’s time in office, the size of ETH’s faculty hugely increased, which entailed construction work on both the central and Hönggerberg campuses.

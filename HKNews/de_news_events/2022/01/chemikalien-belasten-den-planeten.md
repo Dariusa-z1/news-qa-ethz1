@@ -1,5 +1,7 @@
 # chemikalien-belasten-den-planeten
 
+**Source:** de_news_events/2022/01/chemikalien-belasten-den-planeten.html
+
 ## «Grüne» Treibstoffe sind nicht immer nachhaltig
 
 Über 99 Prozent der meistproduzierten Chemikalien sind nicht nachhaltig; ihre Herstellung basiert auf fossilen Rohstoffen und verbraucht mehr natürliche Ressourcen, als sie die Erde langfristig zur Verfügung stellen kann. So lautet das Fazit eines an der ETH Zürich entwickelten Nachhaltigkeitstests, der erstmals absolute Zahlen zur globalen Umweltbelastung durch die chemische Industrie liefert.

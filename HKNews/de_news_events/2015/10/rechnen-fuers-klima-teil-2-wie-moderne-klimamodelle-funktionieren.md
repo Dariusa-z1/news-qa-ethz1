@@ -1,5 +1,7 @@
 # rechnen-fuers-klima-teil-2-wie-moderne-klimamodelle-funktionieren
 
+**Source:** de_news_events/2015/10/rechnen-fuers-klima-teil-2-wie-moderne-klimamodelle-funktionieren.html
+
 ## Rechnen auf dreidimensionalen Gittern
 
 Computersimulationen ermöglichen die tägliche Wettervorhersage und sind enorm wichtig, wenn es darum geht, den Herausforderungen des Klimawandels zu begegnen. Um das Verhalten des Klimasystems verstehen und vorhersagen zu können, konstruieren und nutzen Wissenschaftler komplexe Rechenmodelle, welche die relevanten chemischen und physikalischen Eigenschaften der Erdoberfläche (Land und Ozeane) in vereinfachter Form berücksichtigen. Aber wie funktionieren Klimamodelle genau, und welche Implikationen für die Informatik bringen sie mit sich?

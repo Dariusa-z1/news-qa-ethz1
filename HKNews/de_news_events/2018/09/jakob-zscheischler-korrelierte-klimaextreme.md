@@ -1,5 +1,7 @@
 # jakob-zscheischler-korrelierte-klimaextreme
 
+**Source:** de_news_events/2018/09/jakob-zscheischler-korrelierte-klimaextreme.html
+
 ## Kombination häufiger als gedacht
 
 Der ausgehende Hitzesommer führt uns eindrücklich vor Augen, was uns klimatisch künftig erwarten könnte. In der Ostschweiz regnete es zwischen April und August dieses Jahres so wenig wie noch nie seit Messbeginn 1 . Gleichzeitig herrschten sehr hohe Temperaturen.

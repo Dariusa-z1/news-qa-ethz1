@@ -1,5 +1,7 @@
 # masterplan-campus-hoenggerberg-2040
 
+**Source:** en_internal/2018/05/masterplan-campus-hoenggerberg-2040.html
+
 ## Main article
 
 The Hönggerberg campus will play a key role in meeting the university’s space requirements in the future. The development works are based on a master plan known as Campus Hönggerberg 2040. This plan details how ETH Zurich will use infill development to enhance the campus on its existing premises over the coming decades.

@@ -1,5 +1,7 @@
 # improving-mobility-with-e-bikes%E2%80%93testers-needed
 
+**Source:** en_internal/2017/05/improving-mobility-with-e-bikes%E2%80%93testers-needed.html
+
 ## 100 free minutes for 100 ETH testers
 
 - ETH email address (no group email addresses!)
@@ -43,8 +45,6 @@ The Mobility and Transport section will be responsible for providing and maintai
 A pilot project with six e-bikes has been underway since last year, and there are plans to test another new model before the summer holidays. Interested teams can also contact the Mobility Platform.
 
 ETH Zurich employees who want to take part in the test phase should send their name and personal ETH email address to the ETH Mobility Platform at: .
-
-The Mobility Platform was established in spring 2016 by Vice President Human Resources and Infrastructure at ETH Zurich, Professor U. Weidmann. It is jointly managed by Susann Görlinger and Urs Nussbaum and is the central point of contact for mobility-related issues at ETH Zurich, with three main focuses: campus mobility, business trips, and logistics. Mobility is also one of the three action areas of “The Confederation: exemplary in energy” action plan.
 
 Mobility at ETH Zurich
 

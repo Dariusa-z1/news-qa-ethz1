@@ -1,5 +1,7 @@
 # mars-valleys-traced-back-to-precipitation
 
+**Source:** en_news_events/2018/06/mars-valleys-traced-back-to-precipitation.html
+
 ## Valleys eroded mainly by rainwater
 
 The surface of Mars bears structures that resemble river networks on Earth. Scientists therefore assume that there must once have been enough water on the red planet to feed streams that incised channels into the subsoil.

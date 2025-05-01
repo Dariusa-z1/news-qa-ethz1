@@ -1,5 +1,7 @@
 # der-feuerring-der-venus
 
+**Source:** de_news_events/2020/07/der-feuerring-der-venus.html
+
 ## Coronae-Vielfalt mit dem Computer simuliert
 
 Auf der Oberfläche der Venus entdeckten Planetenforscher schon vor Jahren auf hochauflösenden Bildern der Nasa-Mission «Magellan» eigenartige ringförmige Strukturen. Coronae (lat. Kronen; Einzahl: Corona) werden diese genannt, und ETH-Forschende um Taras Gerya, Professor für Geophysik am Departement Erdwissenschaften, erforschten vor einigen Jahren mithilfe von Computermodellen, wie diese Strukturen entstanden sein könnten (vgl. ETH News , 21.02.2014).

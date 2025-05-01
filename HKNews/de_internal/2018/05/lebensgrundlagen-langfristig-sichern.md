@@ -1,5 +1,7 @@
 # lebensgrundlagen-langfristig-sichern
 
+**Source:** de_internal/2018/05/lebensgrundlagen-langfristig-sichern.html
+
 ## Stärken synergetisch nutzen
 
 Ernährungssicherheit, Energieversorgung, Klimawandel. Es sind komplexe Aufgaben, vor denen die Menschheit steht. Der Lösungsweg heisst «nachhaltige Entwicklung». Eine solche zu fördern ist für die ETH Zürich Leistungsauftrag und Anspruch zugleich. Doch wie kann unsere Hochschule dieses vielschichtige und abstrakte Konzept in die Praxis und in die Köpfe der Menschen bringen?

@@ -1,5 +1,7 @@
 # white-fever
 
+**Source:** en_internal/2014/01/white-fever.html
+
 ## Main article
 
 We know that wintertime is the season for flu, but what about this thing called "white fever"? What is it and where does it come from? Is it contagious?

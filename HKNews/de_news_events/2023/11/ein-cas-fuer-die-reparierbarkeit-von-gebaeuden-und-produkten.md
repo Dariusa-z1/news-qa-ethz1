@@ -1,5 +1,7 @@
 # ein-cas-fuer-die-reparierbarkeit-von-gebaeuden-und-produkten
 
+**Source:** de_news_events/2023/11/ein-cas-fuer-die-reparierbarkeit-von-gebaeuden-und-produkten.html
+
 ## Austausch unterschiedlicher Fachleute
 
 - Start: Frühlingssemester 2024

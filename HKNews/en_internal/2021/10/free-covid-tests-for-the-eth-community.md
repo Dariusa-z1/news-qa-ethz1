@@ -1,5 +1,7 @@
 # free-covid-tests-for-the-eth-community
 
+**Source:** en_internal/2021/10/free-covid-tests-for-the-eth-community.html
+
 ## Free tests until the end of October
 
 - On Mondays, the two externally operated testing centres on Zentrum campus (main building) and on Hönggerberg campus (HPI building) will continue to be open. The results of the rapid antigen test can be made immediately available as an official COVID certificate. Both testing centres will be open every Monday from 7 a.m. to 1.30 p.m.
@@ -37,6 +39,8 @@ FAQs regarding COVID testing at ETH Zurich .
 Everything you needed to know about ETH’s internal testing programme, CoVMass .
 
 Here you can register for the PCR saliva test .
+
+Students can use this form (PDF, 2.1 MB) to claim back any external test costs incurred. The confirmation of their lecturer is required.
 
 Articles published on Intern aktuell are open for comment. The comments are reviewed and published by the editorial team before publication, provided they comply with the comment policy .
 

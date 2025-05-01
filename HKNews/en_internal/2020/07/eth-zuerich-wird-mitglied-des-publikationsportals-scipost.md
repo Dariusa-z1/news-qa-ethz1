@@ -1,5 +1,7 @@
 # eth-zuerich-wird-mitglied-des-publikationsportals-scipost
 
+**Source:** en_internal/2020/07/eth-zuerich-wird-mitglied-des-publikationsportals-scipost.html
+
 ## Main article
 
 SciPost is an open-access publication portal that is funded through university and institutional memberships rather than article processing charges (APC). Authors and readers can use its services free of charge. The portal was initially founded as a physics resource consisting of three journals, SciPost Physics , SciPost Physics Proceedings and SciPost Physics Lecture Notes . Today, users of the portal can publish their research findings in 14 journals specialising in biology, chemistry, mathematics and physics.

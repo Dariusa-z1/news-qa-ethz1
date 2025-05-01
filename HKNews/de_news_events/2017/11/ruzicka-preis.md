@@ -1,5 +1,7 @@
 # ruzicka-preis
 
+**Source:** de_news_events/2017/11/ruzicka-preis.html
+
 ## Strom aus Wärme
 
 Die ETH Zürich vergibt den diesjährigen Ruzicka-Preis an eine Wissenschaftlerin und einen Wissenschaftler des Departements Chemie und Angewandte Biowissenschaften (D-CHAB): Maria Ibáñez, Postdoc in der Gruppe von ETH‑Professor Maksym Kovalenko, erhält den Preis für die optimierte Synthese von Materialien, die aus Abwärme Strom erzeugen können. Chih-Jen Shih, Professor am Institut für Chemie- und Bioingenieurwissenschaften, erhält den Preis für die Entwicklung von LED mit einem unerreichten Farbspektrum für die nächste Generation von Displays. Beide Forschende erhalten ein Preisgeld von 5000 Franken und die Ruzicka-Medaille.

@@ -1,5 +1,7 @@
 # tropical-forests-cant-recover-naturally-without-fruit-eating-birds
 
+**Source:** en_news_events/2024/04/tropical-forests-cant-recover-naturally-without-fruit-eating-birds.html
+
 ## Main article
 
 Based on current data, this study advances the research from previous ground studies conducted by the authors in the Atlantic Forest in Brazil. The forest is one of the most biologically diverse regions in the world, but it is also one of the most fragmented with only 12 percent of the original forest remaining and mainly in small areas. The forest is also one of the most important regions on the planet for large-scale ecological restoration, with 12 million hectares of land targeted for restoration and natural recovery under the Atlantic Forest Restoration Pact. The research shows that increasing forest cover beyond 40 percent may be critical not only to maintain species diversity, as previously evidenced, but also to maintain and restore the functioning of ecosystem services, such as seed dispersal and carbon storage, to maximise the success of the massive-scale restoration initiative in this region.

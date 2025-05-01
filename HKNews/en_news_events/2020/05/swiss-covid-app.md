@@ -1,12 +1,14 @@
 # swiss-covid-app
 
+**Source:** en_news_events/2020/05/swiss-covid-app.html
+
 ## Many are following the Swiss idea
 
 People in Switzerland are gradually returning to their everyday routines and their work now that the peak of the coronavirus crisis seems to have passed. But the easing of the lockdown also fuels fears about a second wave of infection. Strict adherence to health and safety rules is the best strategy for protecting ourselves against COVID-19 infection. In addition, the government intends to provide the Swiss population with a tracing app as soon as possible that should help to stem the spread of the virus. The app is being developed as part of the DP-3T project by ETH Zurich and EPF Lausanne, working together with international researchers.
 
 ## Cooperation with Google and Apple
 
-ETH scientists are actively involved in the design, security assessment, data protection and performance of the SwissCovid app. Srdjan Čapkun, Professor for Systems and Network Security, one of the developers of the SwissCovid app, stresses: "This is not 'only' a smartphone app, but a complex distributed contact tracing system. Its main purpose is to notify people of exposure to infected persons. But it is also designed to preserve user privacy, enable roaming between countries, and work on top of existing smartphone software and hardware."
+Tracing apps are being developed at a frantic pace across the globe, but the basic idea is always the same: the smartphones we continuously have on our person can be turned into tools that help to break the chain of infection. But what's the best way to do this? "There are many ‘bad’ ways of doing this which would possibly allow unwelcome actions, such as tracking the interactions of people, or imposing selective and potentially discriminative quarantine, for example. The main distinction of DP-3T is that we came up with a series of mechanisms intended to make the design of contact tracing simple, and and watertight in terms of privacy. Some of these features are now also being incorporated into the Android and iOS operating systems," the professor comments.
 
 ## How does the app work?
 

@@ -1,5 +1,7 @@
 # pflanzliche-steaks-aus-erbsenprotein
 
+**Source:** de_news_events/2022/03/pflanzliche-steaks-aus-erbsenprotein.html
+
 ## Die Küche als erstes Labor
 
 Ob Würstchen aus Tofu, Burger aus fermentierten Pilzen oder Poulet aus Erbsenprotein: Fleischersatzprodukte erfreuen sich immer grösserer Beliebtheit und sind aus den hiesigen Supermärkten nicht mehr wegzudenken. Doch was bisher noch im Sortiment fehlte, sind pflanzliche Alternativen für hochwertige Fleischprodukte wie Steaks.

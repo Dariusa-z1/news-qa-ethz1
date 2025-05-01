@@ -1,5 +1,7 @@
 # reading-and-publishing
 
+**Source:** en_news_events/2019/12/reading-and-publishing.html
+
 ## ETH Library to provide alternatives
 
 - Elsevier: around 1,900

@@ -1,5 +1,7 @@
 # geschenke-tradition
 
+**Source:** de_internal/2021/12/geschenke-tradition.html
+
 ## Pro
 
 Dr. Andreas Steingötter, Geschäftsführer des Centers EXCITE Zurich
@@ -33,4 +35,6 @@ Das Wertvolle an Geschenken sind das Planen und das Schenken selbst, nicht der s
 Für manche ist das Schenken Ausdruck des Konsumkults. Ich sehe darin das Gegenteil: eine Gelegenheit zur Achtsamkeit. Diese Achtsamkeit sollte sich auf unsere Beziehungen zu anderen richten, nicht auf die eigenen Wünsche. Das Schenken zur Wintersonnenwende gehört zu den menschlichen Traditionen, die unser Leben bereichern. Sie aufzugeben, wäre mehr als schade.
 
 Dieser Beitrag stammt aus der aktuellen Ausgabe des ETH-​Magazins «life» .
+
+Aktuelle Ausgabe von «life» herunterladen (PDF, 4.4 MB)
 

@@ -1,5 +1,7 @@
 # portrait-mariana-popescu
 
+**Source:** en_news_events/2019/10/portrait-mariana-popescu.html
+
 ## Overcoming the constraints of conventional building methods
 
 To grasp the nature of Mariana Popescu’s work, we first need to ditch some preconceived ideas. Although the architect uses knitting techniques, the end product is far removed from the traditional image of socks or pullovers. “We want to make it easier to construct complex concrete structures,” Popescu says.

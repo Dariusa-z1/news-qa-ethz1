@@ -1,5 +1,7 @@
 # recovering-hidden-treasures-and-building-boats
 
+**Source:** en_news_events/2016/05/recovering-hidden-treasures-and-building-boats.html
+
 ## Putting new knowledge into practice
 
 A total of 450 students in the second semester of the mechanical engineering course had 12 weeks to work on their innovation projects: Ninety teams of five were tasked with developing a machine capable of recovering treasure from inside a sunken ship on the seabed – as a scale model and without water, of course. The 16 teams with the best technical solutions presented their competing solutions on the 31 st of May in the main ETH Zurich building.

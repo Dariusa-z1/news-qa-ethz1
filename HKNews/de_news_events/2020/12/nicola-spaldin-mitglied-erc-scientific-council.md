@@ -1,5 +1,7 @@
 # nicola-spaldin-mitglied-erc-scientific-council
 
+**Source:** de_news_events/2020/12/nicola-spaldin-mitglied-erc-scientific-council.html
+
 ## Main article
 
 Die Europäische Kommission hat heute fünf herausragende Wissenschaftlerinnen und Wissenschaftler als neue Mitglieder des Wissenschaftsrats des Europäischen Forschungsrats (ERC) ernannt, darunter Nicola Spaldin. Die Professorin für Materialtheorie der ETH Zürich ist nach Rolf Zinkernagel (Universität Zürich) und Helga Nowotny (ETH Zürich) erst die dritte Person aus der Schweiz, die in diesem Gremium einsitzen wird.

@@ -1,5 +1,7 @@
 # strong-adhesion-thanks-to-cavitation-bubbles
 
+**Source:** en_news_events/2022/08/strong-adhesion-thanks-to-cavitation-bubbles.html
+
 ## Cavitation makes for better plaster adhesion
 
 These days, hydrogel plasters are often used in wound care and for attaching wearable electronics to the skin. But these plasters don’t adhere to the skin particularly strongly, especially if the skin is wet.

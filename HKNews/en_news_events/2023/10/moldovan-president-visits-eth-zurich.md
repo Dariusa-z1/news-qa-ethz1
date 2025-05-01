@@ -1,5 +1,7 @@
 # moldovan-president-visits-eth-zurich
 
+**Source:** en_news_events/2023/10/moldovan-president-visits-eth-zurich.html
+
 ## Highly topical subject
 
 The event at ETH Zurich was part of the Moldovan president's two-day official visit to Switzerland. After talks on bilateral cooperation, Maia Sandu travelled to the university accompanied by President Alain Berset to talk about Moldova's role in the broader geopolitical context of Eastern Europe and the impact of Russia's war of aggression on Ukraine. This was followed by questions from students.

@@ -1,5 +1,7 @@
 # kuenstliche-intelligenz-fuer-sicherere-velohelme-und-bessere-schuhsohlen
 
+**Source:** de_news_events/2023/12/kuenstliche-intelligenz-fuer-sicherere-velohelme-und-bessere-schuhsohlen.html
+
 ## In Kürze
 
 - ETH-Forschende haben mit Hilfe von künstlicher Intelligenz Metamaterialien entworfen, die ungewöhnliche oder ausserordentliche Reaktionen auf komplexe Belastungen zeigen.

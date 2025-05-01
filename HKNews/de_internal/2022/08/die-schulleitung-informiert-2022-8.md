@@ -1,5 +1,7 @@
 # die-schulleitung-informiert-2022-8
 
+**Source:** de_internal/2022/08/die-schulleitung-informiert-2022-8.html
+
 ## Neues Weiterbildungsprogramm CAS ETH in Climate Innovation
 
 - Rechtsanwältin Kathrin Teuscher (bisher): Wiederwahl für eine reguläre Amtszeit von vier Jahren.

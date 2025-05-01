@@ -1,5 +1,7 @@
 # eth-forum-wohnungsbau-2015-dichte-die-stadt-als-lebensraum
 
+**Source:** de_internal/2015/01/eth-forum-wohnungsbau-2015-dichte-die-stadt-als-lebensraum.html
+
 ## ETH Wohnforum – ETH CASE
 
 Die drängende Frage, welche bauliche Dichte unsere Städte vertragen, führt unter Fachleuten und in der breiten Öffentlichkeit zu hitzigen Diskussionen. Gibt es für Dichte ein sinnvolles Mass? Und wie kann sie angenehme Lebensräume für ein harmonisches Zusammenleben schaffen?

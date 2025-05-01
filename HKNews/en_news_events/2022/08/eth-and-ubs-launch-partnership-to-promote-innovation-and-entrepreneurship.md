@@ -1,5 +1,7 @@
 # eth-and-ubs-launch-partnership-to-promote-innovation-and-entrepreneurship
 
+**Source:** en_news_events/2022/08/eth-and-ubs-launch-partnership-to-promote-innovation-and-entrepreneurship.html
+
 ## Promoting entrepreneurship
 
 Innovation is crucial to Switzerland’s prosperity, with a zest for science and entrepreneurship playing a key role. It is only when research results or good ideas find their way into the market that new jobs are created, or solutions are developed for social and technological progress. That is why ETH Zurich and UBS are aiming to boost entrepreneurship in Switzerland and inspire schoolchildren to study STEM subjects (STEM = Science, Technology, Enginering, Mathematics).

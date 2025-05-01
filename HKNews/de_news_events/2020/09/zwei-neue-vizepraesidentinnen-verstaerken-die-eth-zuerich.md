@@ -1,5 +1,7 @@
 # zwei-neue-vizepraesidentinnen-verstaerken-die-eth-zuerich
 
+**Source:** de_news_events/2020/09/zwei-neue-vizepraesidentinnen-verstaerken-die-eth-zuerich.html
+
 ## Die Führungs- und Unternehmenskultur weiterentwickeln
 
 Seit 2008 besteht die Schulleitung der ETH Zürich aus fünf Mitgliedern. Seither hat sich der Wettbewerb nochmals verschärft und die Erwartungen von Gesellschaft und Politik an die ETH sind gestiegen. Die ETH Zürich blickt zudem auf Jahre des Wachstums zurück: So hat sich die Anzahl der Studierenden seit 2000 mehr als verdoppelt, die Anzahl der Mitarbeitenden hat sich um 60 Prozent erhöht und die Hochschule ist kulturell und fachlich vielfältiger geworden. Gleichzeitig stieg die Anzahl der ETH-Spin-offs in den letzten Jahren kontinuierlich an und die ETH hat die Zusammenarbeit mit grossen Unternehmen ebenso wie mit KMU bewusst intensiviert.
@@ -37,6 +39,4 @@ Mit der Erweiterung der Schulleitung setzt Joël Mesot sein Ziel um, die ETH kon
 Bis Ende 2019 setzte sich die Schulleitung aus dem Präsidenten Joël Mesot (Gesamtverantwortung), der Rektorin Sarah Springman (Lehre), dem Vizepräsidenten für Forschung und Wirtschaftsbeziehungen Detlef Günther, dem Vizepräsidenten für Finanzen und Controlling Robert Perich und dem Vizepräsidenten für Personal und Ressourcen Ulrich Weidmann zusammen. Im Januar 2020 wurden die beiden neuen Vizepräsidien für die Themengebiete «Personalentwicklung und Leadership» sowie «Wissenstransfer und Wirtschaftsbeziehungen» aus den bisherigen Schulleitungsbereichen herausgelöst und von Ulrich Weidmann und Detlef Günther ad interim geführt. Ab 1. November 2020 wird sich Ulrich Weidmann voll und ganz um den Bereich Infrastruktur kümmern, während sich Detlef Günther ab 1. Januar 2021 komplett auf den Bereich Forschung fokussiert.
 
 Die Schulleitung der ETH Zürich
-
-ETH Zürich Anna Maltsev Medienstelle Telefon: +41 44 632 72 41
 

@@ -1,5 +1,7 @@
 # autorenbeitrag-ulrich-weidmann
 
+**Source:** de_news_events/2016/02/autorenbeitrag-ulrich-weidmann.html
+
 ## Main article
 
 Zuspitzung belebt jede Debatte, bisweilen zulasten wichtiger Elemente, auch wenn dies in bester Absicht geschieht. In der Ausgabe vom 7. Februar 2016 der «NZZ am Sonntag» hat sich ETH-Bibliotheksdirektor Rafael Ball pointiert zur Zukunft der Bibliotheken geäussert. Zu pointiert, wie er schmerzlich erfahren musste. Das Spektrum der Reaktionen, zumal von Experten, reicht von heftiger Sachlichkeit bis zu befremdlicher Gegenprovokation.

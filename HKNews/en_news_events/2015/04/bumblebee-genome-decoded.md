@@ -1,5 +1,7 @@
 # bumblebee-genome-decoded
 
+**Source:** en_news_events/2015/04/bumblebee-genome-decoded.html
+
 ## Immune genes analysed
 
 Bumblebees are considered peaceful and industrious creatures, and their commercial value has increased in the wake of the decline of honeybees around the world. The bees are therefore now bred on a large scale and used as pollinators for economically valuable crops. Yet, these cute little, buzzing creatures, of which there are around 250 different species worldwide, is doing poorly in some places. The large shadow cast by the honeybee collapse has distracted from the fact that in recent years in the US as well as in other areas some previously common bumblebee species have also become rare or endangered, or disappeared altogether.

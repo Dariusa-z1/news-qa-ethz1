@@ -1,5 +1,7 @@
 # cyborg-bacteria
 
+**Source:** en_news_events/2016/10/cyborg-bacteria.html
+
 ## High precision control
 
 Researchers at ETH Zurich’s Department of Biosystems Science and Engineering (D-BSSE) in Basel have created a cyborg – a hybrid creature that is part machine and part living organism. The organism in question is the E. coli bacterium, which is used frequently in biological research; the machine is a computer fitted with the most modern control technology that regulates the growth of the bacteria. Machine and organism are linked via two interfaces: the computer communicates with red and green light, which the biotechnologically modified bacteria are able to perceive. In the opposite direction, communication functions via an optical measurement of the growth rate of the bacteria culture, the results of which are fed into the computer in real-time.

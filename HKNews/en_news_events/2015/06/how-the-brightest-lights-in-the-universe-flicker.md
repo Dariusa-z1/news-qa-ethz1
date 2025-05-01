@@ -1,5 +1,7 @@
 # how-the-brightest-lights-in-the-universe-flicker
 
+**Source:** en_news_events/2015/06/how-the-brightest-lights-in-the-universe-flicker.html
+
 ## Nuclei appear to be ‘switched off’
 
 "Hanny's Voorwerp" (green, below) is an astronomical object that has been turned off around 200,000 year ago. Visible in the upper part is the spiral galaxy IC 2497. (Photo: NASA, ESA, W. Keel, Galaxy Zoo Team)

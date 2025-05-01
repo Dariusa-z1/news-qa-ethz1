@@ -1,5 +1,7 @@
 # digital-reconstruction-of-teeth
 
+**Source:** en_news_events/2017/02/digital-reconstruction-of-teeth.html
+
 ## Digital photos instead of plaster casts
 
 In recent years, IT experts have developed sophisticated image-based digital reconstruction methods for modelling the human face. These methods capture highly detailed images of the face or specific areas of the face – such as hair, eyes or eyelids – and create a digital model of them. In the past, however, very little attention has been given to the mouth cavity in general, and the teeth in particular. Image-based approaches capable of modelling teeth in a very natural way are still in the early stages of development. Accurate rendering of teeth, however, is crucial for the realistic display of facial expressions. In the past, researchers have relied on handmade plaster casts of teeth for this purpose.

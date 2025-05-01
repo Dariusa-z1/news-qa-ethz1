@@ -1,5 +1,7 @@
 # oligosaccharide-secondary-structures
 
+**Source:** en_news_events/2017/08/oligosaccharide-secondary-structures.html
+
 ## Stable arrangement
 
 Oligosaccharides – chains of sugar building blocks – are some of the most important molecules in living creatures. They make up a large part of the surface of cells and contribute to the immune system’s ability to distinguish the body's own cells from pathogens or other foreign cells. Oligosaccharides on the surface of blood cells also determine our blood group and many proteins carry oligosaccharide appendages, which are essential for protein function.

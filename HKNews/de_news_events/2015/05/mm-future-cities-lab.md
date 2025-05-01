@@ -1,5 +1,7 @@
 # mm-future-cities-lab
 
+**Source:** de_news_events/2015/05/mm-future-cities-lab.html
+
 ## Finanzierung verlängert
 
 Obwohl drei Viertel der Schweizer Bevölkerung in städtischen Gebieten leben – davon allein fast 1,9 Millionen im Grossraum Zürich –, sind die Wachstumsraten der Schweizer Städte mit einem Prozent relativ niedrig. In Singapur leben heute mehr als 5,3 Millionen Menschen in urbanen Gebieten. Eine nachhaltige städtische Entwicklung fordert sowohl Zürich wie auch Singapur heraus, genauso wie nahezu alle grossen Städte der Welt.
@@ -35,8 +37,4 @@ Das Future Cities Laboratory wurde 2010 als erstes Projekt des Singapore-ETH Cen
 Als designierter Projektleiter der zweiten Phase der FCL wird Professor Stephen Cairns vom Singapore-ETH Centre eng mit den Projektkoordinatoren in Zürich, Prof. Kees Christiaanse und Prof. Dirk Hebel, zusammenarbeiten. Zu den federführenden Wissenschaftlern gehören Professoren von den ETH-Departmenten Architektur, Bau, Umwelt und Geomatik sowie Umweltsystemwissenschaften (D-ARCH, D-BAUG und D-USYS), von der ETH Lausanne (EPFL) sowie von der NTU, der NUS und der SUTD.
 
 CREATE ist ein internationales Gemeinschaftsprojekt, in dessen Rahmen von führenden Universitäten gegründete Forschungszentren angesiedelt werden sollen. Auf dem Campus arbeiten Wissenschaftler aus unterschiedlichen Disziplinen und verschiedenen Ländern der Welt eng zusammen. Sie betreiben modernste Forschung auf strategisch wichtigen Gebieten, welche sich in praktische Anwendungen überführen lassen. Singapur kann diese schliesslich in wirtschaftlicher und sozialer Hinsicht nutzen. Die interdisziplinären Forschungszentren auf dem Campus konzentrieren sich auf die vier thematischen Forschungsbereiche menschliche Systeme, Energiesysteme, Umweltsysteme und städtische Systeme. Weitere Informationen zu CREATE unter externe Seite www.create.edu.sg
-
-ETH Zürich Geraldine Ee Singapore-ETH Centre (SEC) Telefon: +65 9856 0166 (Mobile)
-
-ETH Zürich Medienstelle Telefon: +41 44 632 41 41
 

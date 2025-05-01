@@ -1,5 +1,7 @@
 # tracing-a-digital-shadow
 
+**Source:** en_news_events/2023/03/tracing-a-digital-shadow.html
+
 ## About
 
 Mr Buhmann, will computers soon have their own emotions?
@@ -34,9 +36,9 @@ Buhmann: Human-computer interaction is obviously one area where it’s helpful f
 
 Zimmermann: Emotions and our attitudes towards machines are highly relevant to my area of research. Part of my job is to study the role of human behaviour, including our emotions, in cybersecurity. One of my doctoral students is currently investigating how emotions affect our perception of cybersecurity and our attitude towards it. For example, someone who feels anxious about cybersecurity issues may exhibit avoidance behaviour and choose not to engage with the topic at all. As a result, they may fail to learn anything, which leaves them unable to behave safely.
 
-## Globe Emotional!
-
 How can we encourage people to feel positive about interacting with machines?
+
+## Globe Emotional!
 
 Zimmermann: It depends on what you hope to achieve with the technology in question. For instance, do you want to help people experience emotions via virtual reality? Or are you aiming to create genuinely humanlike social interaction in environments such as the care sector, where human connection might be increasingly harder to come by as society ages? Some studies have shown that, depending on how they’re designed, robots can trigger certain emotions in people, thereby creating an emotional bond between humans and technology.
 
@@ -69,4 +71,6 @@ Joachim M. Buhmann is Professor of Computer Science in the Department of Compute
 Elgar Fleisch is Professor of Information and Technology Management in the Department of Management, Technology and Economics.
 
 Verena Zimmermann is Professor of Security, Privacy and Society in the Department of Humanities, Social and Political Sciences.
+
+This text appeared in the 23/01 issue of the ETH magazine Globe . Read whole issue (PDF, 5.4 MB)
 

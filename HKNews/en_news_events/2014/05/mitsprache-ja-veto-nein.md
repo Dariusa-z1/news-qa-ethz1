@@ -1,5 +1,7 @@
 # mitsprache-ja-veto-nein
 
+**Source:** en_news_events/2014/05/mitsprache-ja-veto-nein.html
+
 ## Main article
 
 cIn its meetings on Wednesday and Thursday, the ETH Board addressed the participation of donors in the filling of endowed professorships, a subject that has been much discussed in the media in recent weeks. The issue emerged after questions were raised about whether a donor – Nestlé – had been contractually granted a veto over a professorship appointment eight years ago.

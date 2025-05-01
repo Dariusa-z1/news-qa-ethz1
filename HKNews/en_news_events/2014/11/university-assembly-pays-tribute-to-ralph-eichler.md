@@ -1,5 +1,7 @@
 # university-assembly-pays-tribute-to-ralph-eichler
 
+**Source:** en_news_events/2014/11/university-assembly-pays-tribute-to-ralph-eichler.html
+
 ## A president committed to making things possible
 
 Since taking up the post of President of ETH Zurich in 2007, Ralph Eichler has regularly kept the University Assembly ( UA ) up to date with the current activities of the Executive Board. With this in mind, the UA took advantage of its plenary meeting last Thursday not only to discuss issues regarding university policy, but also to pay tribute to the achievements of the departing ETH President.

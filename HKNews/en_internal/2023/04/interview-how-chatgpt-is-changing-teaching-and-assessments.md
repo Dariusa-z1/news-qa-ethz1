@@ -1,5 +1,7 @@
 # interview-how-chatgpt-is-changing-teaching-and-assessments
 
+**Source:** en_internal/2023/04/interview-how-chatgpt-is-changing-teaching-and-assessments.html
+
 ## About the interviewees
 
 Gerd Kortemeyer, Manuel Sudau: ChatGPT is raising a lot of questions for teaching staff right now. What are they? Gerd Kortemeyer: Teaching staff are suddenly being confronted with machine-generated texts they can’t necessarily distinguish from human-written texts. Simple writing exercises like short essays and summaries are basically obsolete now. We’re being confronted with questions like: “How do you block ChatGPT?” and “How can I recognise AI-generated text?”. I completely understand these concerns. The discussion reminds me of when calculators came into use. They also initially prompted concern and defensiveness. Then people started asking what this new tool would mean for maths instruction. Like with calculators, keeping AI out of teaching entirely is not an option.

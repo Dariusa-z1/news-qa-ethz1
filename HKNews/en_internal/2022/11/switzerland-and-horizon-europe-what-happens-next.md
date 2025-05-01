@@ -1,5 +1,7 @@
 # switzerland-and-horizon-europe-what-happens-next
 
+**Source:** en_internal/2022/11/switzerland-and-horizon-europe-what-happens-next.html
+
 ## The problem with the transitional solutions
 
 - Transitional measures: For 2021 and 2022, Switzerland provided a total of 1,226 million Swiss francs for the Horizon Europe programmes to which researchers in Switzerland are barred access.

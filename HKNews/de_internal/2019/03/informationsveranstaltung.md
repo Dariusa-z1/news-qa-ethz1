@@ -1,8 +1,12 @@
 # informationsveranstaltung
 
+**Source:** de_internal/2019/03/informationsveranstaltung.html
+
 ## Main article
 
 Über 600 Mitarbeitende sind der Einladung der Schulleitung gefolgt und konnten persönlich an der Informationsveranstaltung auf dem Hönggerberg oder in einem der Übertragungshörsäle teilnehmen. Diejenigen, die leider so kurzfristig nicht dabei sein konnten, haben nun die Möglichkeit sich eine geschützte Seite Videoaufzeichnung der Veranstaltung lock (passwortgeschützt) anzuschauen.
+
+Im Vorfeld und während der Veranstaltung sind zahlreiche Fragen über SMS und WhatsApp eingegangen, die aus Zeitgründen nicht alle während der Veranstaltung beantwortet werden konnten. Die häufigsten Fragen wurden untenstehend zusammengefasst und beantwortet. Genauere Informationen finden die Mitarbeitenden auch in der Medienmitteilung , dem Interview mit Joël Mesot und in den Redetexten des ETH-Präsidenten (PDF, 116 KB) und der Rektorin (PDF, 136 KB) .
 
 Warum wurde die Veranstaltung nicht in Englisch durchgeführt? Die Veranstaltung richtete sich nicht nur an Doktorierende, sondern an alle Mitarbeitenden. Darunter sind auch welche, die nicht so gut Englisch sprechen. Der Teil, der sich insbesondere an die Doktorierenden richtete, wurde von der Rektorin auf Englisch gemacht.
 
@@ -47,8 +51,6 @@ Konkret, was wird im Architekturdepartement gegen Sexismus und Mobbing unternomm
 Das Departement Architektur toleriert ebenso wenig wie die ETH als Ganzesjegliche Form des respektlosen Umgangs miteinander; Sexismus und Mobbing gehören klar dazu. Die Diskussionen der vergangenen Monate und Wochen tragen zu einer grösseren Sensibilisierung für diese Themen bei. Die Departementsleitung ist im Gespräch mit Vertreterinnen und Vertretern der Studierenden und des Mittelbaus und hat z.B. zur Förderung der Chancengleichheit, Parität und Diversität eine entsprechende Kommission (Parity und Diversity Kommission, PDK) gegründet und als beratendes Gremium eingesetzt.
 
 Das Departement beobachtet die Situation mit externer Unterstützung laufend, um konkreten Handlungsbedarf zu erkennen und adäquate Massnahmen zu treffen.
-
-Zu den bereits beschlossenen Massnahmen gehören: Neu wird in den Entwurfsstudios, wo Studierende, Assistierende und Professorenschaft über das ganze Semester intensiv miteinander arbeiten und in direktem Kontakt stehen, jeweils zu Semesterbeginn eine studiointerne, für alle Beteiligten geltende Regel vereinbart, wie in kritischen Situationen reagiert werden soll: Fühlt sich jemand persönlich angegriffen bzw. einer unsachlichen, persönlichen Kritik ausgesetzt, wird diese kritische Situation über ein vereinbartes Codewort gestoppt. Auf Departementsebene besuchen die Professorinnen und Professoren Lehrveranstaltungen ihrer Kolleginnen und Kollegen, um einen Einblick in die jeweiligen Lehrmethoden und -situationen zu gewinnen und einander Feedback zu geben. Generell gilt für die Vortragsreihen, Podiumsgespräche und Schlusskritiken, dass gleich viele Frauen wie Männer als Gastreferentinnen bzw. Gastkritikerinnen eingeladen werden sollen. Diese Massnahme hat zum Ziel, ein ausgewogenes Geschlechterverhältnis zum Regelfall zu machen und so den bereits eingesetzten Kulturwandel zur Überwindung von tradierten Geschlechterrollen und Machtverhältnissen zu beschleunigen. Mit der Unterstützung der PDK werden die Rekrutierungsprozesse am D-ARCH reflektiert und verbessert, um die geschlechtsspezifischen Verzerrungseffekte (Gender Bias) zu erkennen und zu vermeiden.
 
 Werden ETH-Angehörige, die respektloses Verhalten erfahren haben, entschädigt? Wenn ETH-Mitarbeitende während ihrer Anstellung in eine Auseinandersetzung verwickelt werden mit Kostenfolgen, macht die ETH Zürich gemäss geltendem Personalrecht eine Kostenzusprache betreffend Anwalts- und Verfahrenskosten. Eine Entschädigung in Form eines Schadenersatzes oder einer Genugtuung gibt es allerdings nicht. Dazu fehlt die Rechtsgrundlage.
 

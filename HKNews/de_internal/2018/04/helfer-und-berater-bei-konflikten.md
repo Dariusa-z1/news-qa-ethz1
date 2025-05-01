@@ -1,5 +1,7 @@
 # helfer-und-berater-bei-konflikten
 
+**Source:** de_internal/2018/04/helfer-und-berater-bei-konflikten.html
+
 ## Dank für das Engagement von Wilfred van Gunsteren
 
 In der Arbeitswelt, sei es in der Wirtschaft oder an einer Hochschule, sind Konflikte unvermeidlich. So besteht an der ETH eine Ombudsstelle, um in Krisenfällen zu unterstützen, zu beraten und Konflikte zu beruhigen. In diesem Jahr sind es genau 20 Jahre, seit die Stelle gegründet wurde.

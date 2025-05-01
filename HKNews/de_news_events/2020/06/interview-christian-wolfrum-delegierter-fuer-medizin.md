@@ -1,5 +1,7 @@
 # interview-christian-wolfrum-delegierter-fuer-medizin
 
+**Source:** de_news_events/2020/06/interview-christian-wolfrum-delegierter-fuer-medizin.html
+
 ## Main article
 
 ETH-News: Die ETH kannte bis jetzt Delegierte für Nachhaltigkeit, Chancengleichheit, Digitale Transformation und für Globales. Neu gibt es auch einen Delegierten für Medizin. Warum? Christian Wolfrum: Die Medizin ist ein Themenschwerpunkt der ETH. Die ETH hat eine lange Tradition von hervorragender biomedizinischer Grundlagenforschung, und die ETH-Ingenieure leisten exzellente Arbeit in der Medizintechnik. Seit drei Jahren bilden wir Bachelorstudierende in Humanmedizin aus. In Zürich bilden wir zusammen mit der Universität und den universitären Spitälern einen starken Cluster und haben weitere Verbindungen zur Medizin. Es liegt aber noch mehr drin, und meine Aufgabe wird es sein, die Weiterentwicklung der medizinischen Forschung an der ETH zu unterstützen und die ETH in diesem Bereich weiter zu vernetzen.

@@ -1,5 +1,7 @@
 # kangaroo-goes-science
 
+**Source:** en_news_events/2018/06/kangaroo-goes-science.html
+
 ## How many duplicate football stickers is too many?
 
 Many children are collecting the stickers from this year’s football World Cup in Russia. Marloes Maathuis’ sons are among them. The stickers are sold in packs of five, and the children swap the duplicates. Maathuis bought her sons 50 packs, which included 244 different stickers and six duplicates. “Is that a lot or not many?” the ETH Professor of Statistics asks the 100 secondary and high school girls from throughout German-speaking Switzerland. “Not many,” reply the girls.

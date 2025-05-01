@@ -1,5 +1,7 @@
 # foundation-annual-report-2018
 
+**Source:** en_news_events/2019/03/foundation-annual-report-2018.html
+
 ## Milestones in the Rehab and ETH mobility initiatives
 
 The newly published Annual Report contains further details on the origin and application of these funds. “Federal contributions to ETH Zurich cover our basic financing needs”, explains Dr Donald Tillman, Managing Director of the ETH Foundation. “In addition to that, donations allow us to finance strategic initiatives, accelerate the creation of new professorships and enable special development programmes. I am delighted to say that the commitment shown by our donors has again allowed us to advance a number of pioneering new projects this year.”

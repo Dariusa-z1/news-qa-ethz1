@@ -1,5 +1,7 @@
 # russlands-neue-macht
 
+**Source:** de_news_events/2014/03/russlands-neue-macht.html
+
 ## Russlands imperiales Gebaren
 
 Bürgerkrieg in Syrien, neue Regierungen in Nordafrika, Russlands Einmarsch in die Ukraine, das Erstarken der afghanischen Taliban und die amerikanische Kriegsmüdigkeit – was hat das alles zu bedeuten? Genau dieser Frage gehen die Forscher des «Center for Security Studies» (CSS) in ihrem Bericht «Strategic Trends» nach. Zum fünften Mal analysieren sie darin, was die politischen Ereignisse der jüngsten Vergangenheit für die nahe Zukunft bedeuten könnten.
@@ -25,6 +27,8 @@ Befeuert wird dieser Trend durch die «Talibanisierung von Aufständen», wie Pr
 Nicht nur die USA, sondern auch die Europäische Union hat laut CSS-Bericht an geopolitischem Gewicht verloren. Lisa Watanabe diagnostiziert ein Abflauen der Beziehungen zwischen der EU und seinen südlichen Nachbarn, darunter Algerien, Ägypten, Libyen, Marokko und Tunesien. Es fehle an einer kohärenten strategischen Ausrichtung der EU-Aussenpolitik gegenüber den Staaten Nordafrikas, obschon diese von vitaler Bedeutung für die EU seien; insbesondere in Fragen der Energieversorgung, Sicherheit und Migration. Das Vakuum füllen laut Watanabe derweil andere regionale und über kulturelle und religiöse Gemeinsamkeiten verbundene Mächte, allen voran die Golfstaaten und die Türkei.
 
 Nach der Lektüre der fünf Kapitel der «Strategic Trends 2014» bleibt wenig Zweifel, dass der Westen weiter an geopolitischem Gewicht verlieren wird, während der Osten mit neuem politischen Selbstbewusstsein auftrumpft. Wie ausgeprägt dieser Trend tatsächlich ist, wird nicht zuletzt der Ausgang der aktuellen Krim-Krise zeigen.
+
+Die Publikation «Strategic Trends» (auf Englisch) steht gratis zum bereit.
 
 Die Publikationsreihe «Strategic Trends» bietet jährlich eine Analyse wichtiger weltpolitischer Entwicklungen, wobei Fragen der internationalen Sicherheit im Zentrum stehen. Ergänzend zur Publikation findet heute Freitag die Tagung «Die Schweiz und ihre Nachbarn» statt, mit einem Fokus auf die Schweizer Beziehungen zur EU und zu Russland. Referenten sind unter anderem Nationalrat Andreas Gross, Falk Bomsdorf, ehemaliger Leiter des Moskauer Büros der Friedrich-Naumann-Stiftung, und Bruno Rösli, stellvertretender Chef Sicherheitspolitik beim Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport.
 

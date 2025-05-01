@@ -1,5 +1,7 @@
 # using-electrical-stimulus-to-regulate-genes
 
+**Source:** en_news_events/2020/05/using-electrical-stimulus-to-regulate-genes.html
+
 ## A circuit board and cell container hold the key
 
 This is how it works. A device containing insulin-producing cells and an electronic control unit is implanted in the body of a diabetic. As soon as the patient eats something and their blood sugar rises, they can use an app on their smartphone to trigger an electrical signal, or they can preconfigure the app do this automatically if the meal has been entered in advance. A short while afterwards, the cells release the necessary amount of insulin produced to regulate the patient’s blood sugar level.

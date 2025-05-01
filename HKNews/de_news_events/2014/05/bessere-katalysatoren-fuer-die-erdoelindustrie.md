@@ -1,5 +1,7 @@
 # bessere-katalysatoren-fuer-die-erdoelindustrie
 
+**Source:** de_news_events/2014/05/bessere-katalysatoren-fuer-die-erdoelindustrie.html
+
 ## Es kommt auf die innere Struktur an
 
 Zeolithe gehören zu den Stoffen, welche chemische Reaktionen beschleunigen können – es sind sogenannte Katalysatoren. Meist liegen sie in Pelletform vor, und besonders bei der industriellen Herstellung von Benzin oder Heizöl aus Rohöl sind sie nicht wegzudenken. Die chemischen Reaktionen finden dabei an ihrer Oberfläche statt. Und diese sind bei Zeolithen gross: Die Katalysatoren sind mit Nano-Poren und mikroskopisch kleinen Kanälen durchsetzt, durch welche die flüssigen Reaktionspartner eindringen und die Reaktionsprodukte sie wieder verlassen können.

@@ -1,5 +1,7 @@
 # forschungskommission-mit-neuen-mitgliedern
 
+**Source:** de_internal/2015/03/forschungskommission-mit-neuen-mitgliedern.html
+
 ## Main article
 
 Die Schulleitung hat kürzlich in einer Sitzung Veränderungen in der Forschungskommission beschlossen.

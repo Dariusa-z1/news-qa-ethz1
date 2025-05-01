@@ -1,5 +1,7 @@
 # goose-pimples-at-the-particle-accelerator
 
+**Source:** en_internal/2023/09/goose-pimples-at-the-particle-accelerator.html
+
 ## Record amount of artificially generated energy
 
 ETH Rector Günther Dissertori has conducted research at CERN for more than 25 years. “Our major experiments still give me goose pimples,” he said three years ago in an interview. “Our experiments have enabled us to discover the Higgs particle in 2012 and carry out a large number of high-precision measurements. Based on the insights gained from this, we are able among other things to understand better how our universe behaved a few moments after the Big Bang, that is, which particles and forces there were roughly a tenth of a billionth of a second after the Big Bang.”

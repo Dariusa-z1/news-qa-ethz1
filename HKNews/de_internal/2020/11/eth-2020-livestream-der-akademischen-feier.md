@@ -1,5 +1,7 @@
 # eth-2020-livestream-der-akademischen-feier
 
+**Source:** de_internal/2020/11/eth-2020-livestream-der-akademischen-feier.html
+
 ## Weitere Informationen
 
 Der ETH-Tag 2020 findet statt – aufgrund der aktuellen Situation allerdings in ganz anderem Rahmen als in den vergangenen Jahren. Die Akademische Feier muss praktisch ohne Gäste in der Semper Aula über die Bühne gehen. Sie wird aber live übertragen, damit alle ETH-Angehörigen und Freundinnen und Freunde unserer Hochschule die Möglichkeit haben, zumindest virtuell mitzufeiern.

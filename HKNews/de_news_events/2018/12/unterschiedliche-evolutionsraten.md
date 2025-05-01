@@ -1,5 +1,7 @@
 # unterschiedliche-evolutionsraten
 
+**Source:** de_news_events/2018/12/unterschiedliche-evolutionsraten.html
+
 ## Rätselhafte Abweichung
 
 Die Geschwindigkeit, mit der in der Evolution neue Tier- und Pflanzenarten entstanden oder bereits existierende wieder ausgestorben sind, ist von grossem Interesse – nicht nur für Wissenschaftler. Denn Artbildungs- und Aussterberaten verraten viel über die Vergangenheit unseres Planeten. Tauchen in kurzen Abständen neue Arten auf, deutet das darauf hin, dass die Lebensbedingungen auf der Erde günstig gewesen sein müssen. Hingegen können aussergewöhnliche Ereignisse ein Massenaussterben auslösen. Das berühmteste Beispiel ist das Verschwinden der Dinosaurier vor 66 Millionen Jahren, wahrscheinlich verursacht durch einen Meteoriteneinschlag oder Vulkanausbrüche.

@@ -1,5 +1,7 @@
 # a-smart-camera-that-does-the-thinking
 
+**Source:** en_news_events/2021/03/a-smart-camera-that-does-the-thinking.html
+
 ## Software that steers many cameras
 
 The coronavirus crisis has made video a powerful communication tool: meetings, presentations and even cultural events are all being broadcast online. But anyone looking to stand out in the crowd of live audiovisual offerings must deliver a high-end performance. Which is why more and more companies are investing in equipment and technologies that will provide excellent quality and experience. Seervision, an ETH Zurich spin-off, is feeling the impact.

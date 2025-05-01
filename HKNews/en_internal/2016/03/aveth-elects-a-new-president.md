@@ -1,5 +1,7 @@
 # aveth-elects-a-new-president
 
+**Source:** en_internal/2016/03/aveth-elects-a-new-president.html
+
 ## Main article
 
 Arik Jung is the new president of the Academic Association of Scientific Staff at ETH Zurich (AVETH). AVETH members convened on the evening of Wednesday, 2 March 2016, at Hönggerberg, where they voted on the successor to Florian Thöle.

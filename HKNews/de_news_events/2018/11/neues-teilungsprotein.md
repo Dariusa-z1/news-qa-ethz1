@@ -1,5 +1,7 @@
 # neues-teilungsprotein
 
+**Source:** de_news_events/2018/11/neues-teilungsprotein.html
+
 ## Rasche Aktivierung des Stoffwechsels
 
 Bakterien können sich rasend schnell vermehren, doch sie tun es nur unter den richtigen Bedingungen. Fehlen ihnen Nährstoffe oder ist es beispielsweise zu kalt oder zu trocken, verharren sie in einem Ruhezustand. Wie eine einzelne Bakterienzelle entscheidet, ob sie sich teilen soll, wurde bisher vor allem an Populationen untersucht, die sich bereits munter vermehren. Doch was eine schlummernde Zelle dazu bringt, aus ihrem Ruhezustand zu erwachen und in die erste Teilung zu starten, wusste man bisher nicht.

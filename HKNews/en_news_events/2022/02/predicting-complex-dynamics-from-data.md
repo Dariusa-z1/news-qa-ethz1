@@ -1,5 +1,7 @@
 # predicting-complex-dynamics-from-data
 
+**Source:** en_news_events/2022/02/predicting-complex-dynamics-from-data.html
+
 ## The limits of static machine learning
 
 Modelling dynamically evolving physical systems is at the core of science and technology. Engineers need to know how the wings of a new airplane model will vibrate under particular flight conditions, and climate scientists are trying to predict how global temperatures and weather patterns will develop in the future. Those tasks are difficult because the underlying systems, by their very nature, do not behave linearly. This means that, for instance, applying twice as much force to an airplane wing will not necessarily cause it to bend twice as far (it could bend either more or less than that).

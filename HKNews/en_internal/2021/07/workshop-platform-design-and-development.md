@@ -1,5 +1,7 @@
 # workshop-platform-design-and-development
 
+**Source:** en_internal/2021/07/workshop-platform-design-and-development.html
+
 ## From the customer's sketch to the finished product
 
 - standard-compliant detailed drawings
@@ -24,9 +26,7 @@ Whether it’s for a design, a finished component or a consultation – the Work
 
 ## Subscribe to Newsletter
 
-The Workshop Platform The Workshop Platform serves as the central contact and coordination point for all workshop-related matters at ETH Zurich. Our services range from personal consultations to placing manufacturing orders in affiliated and external partner workshops.
+The servise service is currently in its start-up phase. Thank you for your patience in case of waiting times.
 
 ## Staffnet
-
-The servise service is currently in its start-up phase. Thank you for your patience in case of waiting times.
 

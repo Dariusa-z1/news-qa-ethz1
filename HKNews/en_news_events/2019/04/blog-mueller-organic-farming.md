@@ -1,5 +1,7 @@
 # blog-mueller-organic-farming
 
+**Source:** en_news_events/2019/04/blog-mueller-organic-farming.html
+
 ## Four groups of policy interventions
 
 - In a recent Comment in the journal Nature Sustainability2, we discuss four groups of policy interventions for a transition to more sustainable food systems (Fig. 1).First, policy makers can support alternative production systems such as organic agriculture. This support can take the form of direct payments, providing training and knowledge transfer, and funding research. The aim is not to achieve full coverage with any one alternative system, but to best utilize their potential and to further develop them as showcases of sustainable agriculture.

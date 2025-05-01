@@ -1,5 +1,7 @@
 # networked-colours
 
+**Source:** en_news_events/2016/11/networked-colours.html
+
 ## Colour depends on the thickness of the coating
 
 An international team of researchers has developed a novel means of producing coloured coatings for metals. The colours are produced by a special nanometre-sized structure in the coating material. In contrast to other existing structural colours (see box), this new production process can be applied very simply over a large area. The colours are also particularly intense and the material highly scratch-proof.

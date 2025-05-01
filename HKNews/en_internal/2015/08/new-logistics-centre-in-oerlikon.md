@@ -1,5 +1,7 @@
 # new-logistics-centre-in-oerlikon
 
+**Source:** en_internal/2015/08/new-logistics-centre-in-oerlikon.html
+
 ## Main article
 
 The relocation of 16 staff to the ONA building in Oerlikon began on 3 August, and just two weeks later, the new centre of excellence for logistics services will already be handling the processing and storage of all mail items and office material for the Zentrum and Hönggerberg ETH locations.

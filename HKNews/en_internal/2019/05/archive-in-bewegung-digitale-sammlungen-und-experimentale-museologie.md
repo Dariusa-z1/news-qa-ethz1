@@ -1,5 +1,7 @@
 # archive-in-bewegung-digitale-sammlungen-und-experimentale-museologie
 
+**Source:** en_internal/2019/05/archive-in-bewegung-digitale-sammlungen-und-experimentale-museologie.html
+
 ## Main article
 
 Professor Sarah Kenderdine (EPFL) researches at the forefront of interactive and immersive experiences for archives, museums, galleries and libraries. Her presentation focuses on transdisciplinary initiatives at the intersection of immersive visualisation technologies, visual analytics, aesthetics as well as cultural (big) data to explore cultural heritage from scientific, artistic and humanistic perspectives.

@@ -1,5 +1,7 @@
 # der-holocaust-ist-nicht-unvorstellbar-
 
+**Source:** de_news_events/2015/01/der-holocaust-ist-nicht-unvorstellbar-.html
+
 ## Main article
 
 - Informationen zu den Workshops für Schulklassen: www.afz.ethz.ch/lehreundforschung/oralhistory/holocaust-gedenktag

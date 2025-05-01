@@ -1,5 +1,7 @@
 # podcast-series-energy-fact-check
 
+**Source:** en_news_events/2022/07/podcast-series-energy-fact-check.html
+
 ## Main article
 
 Electric vehicles are no more environmentally friendly than other cars, the energy transition is too expensive and a return to nuclear power is essential if blackouts are to be prevented. And Switzerland is too small to do anything about climate change anyway. These statements are cited repeatedly in the Swiss discourse on energy and climate.

@@ -1,5 +1,7 @@
 # zahlen-fakten-werte-statista-buendelt-daten-fuer-ihre-forschung
 
+**Source:** en_internal/2020/09/zahlen-fakten-werte-statista-buendelt-daten-fuer-ihre-forschung.html
+
 ## Systematic research
 
 How many American citizens have a video-on-demand account? What is the GDP of Colombia? What trends can be observed for what brands in the European automotive market? – Statista is a business data platform that gives members of ETH Zurich access to statistical data on more than 80,000 topics from more than 22,500 sources. Industry and business data on more than 1,000 companies, trend analyses and prognoses, historical and current facts – the database pools a wealth of valuable information for your basic research.
@@ -14,9 +16,11 @@ Every statistic is published together with its meta data, such as the source, da
 
 ## Subscribe to Newsletter
 
-#KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start.
+Conveying information in an easily comprehensible format is an important part of presenting your research. Graphics, tables, diagrams, images and Excel files are particularly useful for this. Statista allows you to download its data as a range of file types, so that you can immediately and efficiently include the information in your research documents and publications in a visually attractive format.
 
 ## Staffnet
+
+#KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start.
 
 #ETHLibraryDigital – The ETH Library is there for you digitally with various resources and services , not only during the COVID-19 protective measures.
 

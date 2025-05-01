@@ -1,5 +1,7 @@
 # head-of-collegium-helveticum-passes-away
 
+**Source:** en_internal/2018/05/head-of-collegium-helveticum-passes-away.html
+
 ## Practised transdisciplinarity
 
 Thomas Hengartner studied anthropology and dialectology, modern German literature and Swiss history before obtaining his PhD from the University of Bern in 1989. After receiving his habilitation, he became a professor at the University of Hamburg’s Institute for Ethnology in 1996, which he led for more than ten years until 2010. Hengartner served as chair of the Kulturwissenschaftliche Technikforschung research college, which he founded in 2002. He was also the chair of the German Ethnological Society from 2003 to 2007.

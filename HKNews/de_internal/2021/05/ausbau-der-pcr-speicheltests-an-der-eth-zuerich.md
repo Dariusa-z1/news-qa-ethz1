@@ -1,5 +1,7 @@
 # ausbau-der-pcr-speicheltests-an-der-eth-zuerich
 
+**Source:** de_internal/2021/05/ausbau-der-pcr-speicheltests-an-der-eth-zuerich.html
+
 ## Flexiblere Termine
 
 Wie bei Lancierung der PCR-Speicheltests an der ETH angekündigt, nahm Anfang Mai auf dem Hönggerberg eine zweite Teststation den Betrieb auf. Im Eingangsbereich des HIL-Gebäudes steht nun auch ein Selecta-Automat, an dem Testkits bezogen werden können, sowie ein weiterer Apparat, der anderntags die Proben entgegennimmt.

@@ -1,5 +1,7 @@
 # seeing-each-other-in-times-of-covid
 
+**Source:** en_news_events/2020/04/seeing-each-other-in-times-of-covid.html
+
 ## A holodeck – similar to Star Trek
 
 Imagine you simply say to the system, “Call my parents” ­– who are perhaps physically far away or not allowed to visit because they belong to a risk group – and your parents’ photorealistic avatars appear and sit down on the sofa next to you to have a conversation. All science fiction? No, we are not too far from such a reality because the technology is almost there.

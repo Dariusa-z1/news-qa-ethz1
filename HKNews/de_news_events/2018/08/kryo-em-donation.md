@@ -1,5 +1,7 @@
 # kryo-em-donation
 
+**Source:** de_news_events/2018/08/kryo-em-donation.html
+
 ## Massgeblicher Durchbruch
 
 Proteine spielen in fast allen biologischen Prozessen eine zentrale Rolle. Doch wenn man genauer verstehen will, wie diese meist sehr komplexen Moleküle mit anderen Verbindungen zusammenwirken, muss man wissen, wie sie aufgebaut sind, welche Struktur sie haben – und vor allem auch, in welchem Zustand sie sich befinden, wenn sie mit anderen Molekülen reagieren. Doch genau diese wichtige Frage stellte die Forscher bisher vor eine fast unlösbare Aufgabe. Denn die oftmals sehr empfindlichen Verbindungen, die in den Zellen immer wieder ihre Form ändern, lassen sich beispielsweise mit einem herkömmlichen Elektronenmikroskop nicht untersuchen, ohne dass es zu Veränderungen in der Struktur kommt, welche die Aussagekraft der Messungen beeinträchtigen.

@@ -1,5 +1,7 @@
 # elektrische-fallen-fuer-exzitonen
 
+**Source:** de_news_events/2022/05/elektrische-fallen-fuer-exzitonen.html
+
 ## Wichtige Schnittstelle
 
 In Halbleitermaterialien kann Strom sowohl von Elektronen als auch von positiv geladenen Löchern, also fehlenden Elektronen, geleitet werden. Durch Lichteinfall können Elektronen zudem in ein höheres Energieband befördert werden, wodurch im ursprünglichen Band ein Loch übrigbleibt. Elektron und Loch werden nun durch elektrostatische Anziehung zu einem so genannten Exziton, einem Quasiteilchen, das sich insgesamt wie ein neutrales Teilchen verhält. Wegen ihrer elektrischen Neutralität liessen sich Exzitonen bislang nur schwer an einer bestimmten Stelle eines Materials festhalten.

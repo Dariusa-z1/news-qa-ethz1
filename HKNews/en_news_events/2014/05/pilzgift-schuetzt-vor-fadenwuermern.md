@@ -1,5 +1,7 @@
 # pilzgift-schuetzt-vor-fadenwuermern
 
+**Source:** en_news_events/2014/05/pilzgift-schuetzt-vor-fadenwuermern.html
+
 ## Toxic protein kills intestinal cells
 
 Most terrestrial plants enter into biocoenosis with funghi. Both sides benefit: the fungus, which surrounds the small roots of the host plant with a thick felt, supplies the plant with trace elements and water. The plant, in turn, supplies the fungus with sugars and other metabolites which it is unable to produce itself.

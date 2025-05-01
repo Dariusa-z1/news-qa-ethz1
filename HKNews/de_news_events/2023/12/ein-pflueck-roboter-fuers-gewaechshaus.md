@@ -1,5 +1,7 @@
 # ein-pflueck-roboter-fuers-gewaechshaus
 
+**Source:** de_news_events/2023/12/ein-pflueck-roboter-fuers-gewaechshaus.html
+
 ## Main article
 
 Die Arbeit im Gewächshaus der Beerstecher AG in Hinwil ist anstrengend: Bei einer Luftfeuchtigkeit von 80 Prozent und Temperaturen von bis zu 35 Grad kommen Menschen schnell an ihre Grenzen. Dementsprechend tut sich das Familienunternehmen in Hinwil schwer, geeignete Arbeitskräfte für die Gemüseernte zu finden und sie zu halten.

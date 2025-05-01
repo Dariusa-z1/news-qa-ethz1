@@ -1,5 +1,7 @@
 # the-chaotic-early-phase-of-the-solar-system
 
+**Source:** en_news_events/2022/05/the-chaotic-early-phase-of-the-solar-system.html
+
 ## Witnesses of the early solar system
 
 Before the Earth and other planets formed, the young sun was still surrounded by cosmic gas and dust. Over the millennia, rock fragments of various sizes formed from the dust. Many of these became building blocks for the later planets. Others did not become part of a planet and still orbit the sun today, for example as asteroids in the asteroid belt.

@@ -1,5 +1,7 @@
 # 12-professors-at-eth-zurich-appointed
 
+**Source:** en_news_events/2015/05/12-professors-at-eth-zurich-appointed.html
+
 ## Appointments at ETH Zurich
 
 Upon application of the President of ETH Zurich, Professor Lino Guzzella, at its meeting of 20/21 May 2015 the ETH Board appointed a total of 12 individuals as professors at ETH Zurich, took note of the resignation of two professors and thanked them for their services, and awarded the title of professor to one individual.
@@ -20,9 +22,9 @@ Patrick Cheridito. (Photo: Patrick Cheridito)
 
 Professor Patrick Cheridito (*1969) , currently Associate Professor at Princeton University, New Jersey, USA, as Full Professor of Insurance Mathematics. Patrick Cheridito conducts research in the field of stochastic financial mathematics and has published a series of major articles on modern risk theory, the theory of stochastic processes and valuation theory for financial securities. He has also succeeded in finding convincing solutions for important practical problems, and is therefore in demand as an adviser to the Swiss financial industry. With the appointment of Patrick Cheridito, ETH Zurich is building on its successful tradition in the field of insurance mathematics and financial mathematics.
 
-Margarita Chli. (Photo: Margarita Chli)
-
 ## Award of the title of Professor
+
+Margarita Chli. (Photo: Margarita Chli)
 
 Dr Margarita Chli (*1983) , currently Chancellor's Fellow and Tenure Track Lecturer at the School of Informatics of the University of Edinburgh, United Kingdom, as Assistant Professor of Vision for Robotics. Margarita Chli has received international recognition for her research in the field of visual robot navigation for autonomous localisation and area mapping. She participated in the first fully autonomous flight of a small helicopter with onboard localisation and mapping, which was navigated using only a camera and an inertial sensor. Her approaches have led to collaborations with leading companies. The appointment of Margarita Chli enables ETH Zurich to expand its leadership in the field of robotics.
 
@@ -40,13 +42,11 @@ Professor Siddhartha Mishra (*1980) , currently Associate Professor at ETH Zuric
 
 Renato Renner. (Photo: ETH Zurich/Giulia Marthaler)
 
+## Departures from ETH Zurich
+
 Professor Renato Renner (*1974) , currently Associate Professor at ETH Zurich, as Full Professor of Theoretical Physics. Renato Renner works on the development of new information theory methods that are suitable for applications in thermodynamics. He has succeeded in deriving a universal formula for the waste heat produced during calculation processes. Using a similar information theory approach he was also able to gather new insights regarding the foundations of quantum theory. Renato Renner is recognised worldwide as one of the leading theoreticians of his generation in the quantum information sciences. His work makes a major contribution to ETH Zurich's strong international position in this field.
 
 Alessandro Sisto. (Photo: Alessandro Sisto)
-
-## Departures from ETH Zurich
-
-Dr Alessandro Sisto (*1986) , currently a post-doctoral student at ETH Zurich, as Assistant Professor of Mathematics. Alessandro Sisto's field of work is geometric group theory, an area of research at the interface between geometry and algebra. One of his main interests is generalisations of hyperbolic groups, which play a central role in geometric group theory. He is a world leader in this field. In addition, he has made important contributions on numerous other topics, including random walks and mapping class groups. Through the appointment of Alessandro Sisto, ETH Zurich is gaining a very promising young scientist with excellent contacts.
 
 Fabian Walter. (Photo: Fabian Walter)
 

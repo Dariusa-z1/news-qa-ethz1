@@ -1,5 +1,7 @@
 # weltbuerger-und-einsiedler
 
+**Source:** de_news_events/2021/01/weltbuerger-und-einsiedler.html
+
 ## Auslöser: ein Erdbeben
 
 Der Treffpunkt mit Gerhard Schmitt ist Einsiedeln, wo er mit seiner Frau und den Töchtern lebt: Wallfahrtszentrum seit Jahrhunderten, aber auch ein Kraftort für Agnostiker. Das Gespräch, coronabedingt draussen am Klosterplatz, wird von diversen «Hallo» und «Wie gehts?» begleitet. Es wird klar: Der ETH-Professor, bekannt für seine mutigen Visionen und dafür, dass er sich lange Jahre als Botschafter der ETH zwischen den Kontinenten bewegt hat, ist auch ein stark verwurzelter «Einsiedler».

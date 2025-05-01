@@ -1,5 +1,7 @@
 # max-roessler-preis-2017
 
+**Source:** de_news_events/2017/06/max-roessler-preis-2017.html
+
 ## Kreative Computerwissenschaftlerin
 
 Seit 2009 wird alljährlich der Rössler-Preis an junge Professorinnen und Professoren in der Expansionsphase ihrer Laufbahn vergeben. Gestiftet wird die Auszeichnung von Max Rössler, einem ETH-Alumnus und Mathematiker. Olga Sorkine ist erst die zweite Frau, die den Preis erhält.

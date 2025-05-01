@@ -1,5 +1,7 @@
 # jakob-zscheischler-blog-correlated-climate-extremes
 
+**Source:** en_news_events/2018/09/jakob-zscheischler-blog-correlated-climate-extremes.html
+
 ## Co-occurrence not uncommon
 
 The end of the baking hot summer is a forceful reminder of what the climate could hold in store for us in the future. Between April and August of this year, rainfall in Eastern Switzerland was lower than has ever been recorded 1 . And during the same period, temperatures were very high.

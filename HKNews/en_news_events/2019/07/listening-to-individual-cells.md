@@ -1,5 +1,7 @@
 # listening-to-individual-cells
 
+**Source:** en_news_events/2019/07/listening-to-individual-cells.html
+
 ## An innovative nanosensor
 
 For the cells in our bodies to function as a unit, they must communicate with one another constantly. They secrete signalling molecules – ions, proteins and nucleic acids – that are picked up by adjacent cells, which in turn pass on the signal to other cells. Our muscles, digestive system and brain are only able to function thanks to this type of communication. And this is the only way in which our immune system can recognise pathogens or infected cells and react accordingly – again, by sending out signals to mobilise the immune defences. If something goes wrong with this signalling between cells, it can lead to diseases such as cancer or autoimmune disorders. “This is why it is important to research which signals the cells send out in which situations,” says Morteza Aramesh. The biophysicist, who works in the Laboratory of Biosensors and Bioelectronics at ETH Zurich, has developed a new method that does precisely that: it listens to communication between individual cells.

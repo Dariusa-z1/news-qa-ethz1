@@ -1,5 +1,7 @@
 # zurich-berlin-swissloop
 
+**Source:** en_news_events/2017/07/zurich-berlin-swissloop.html
+
 ## Reality check in Los Angeles
 
 After PayPal, SpaceX and Tesla, Elon Musk has spent the last few years working on a new project: with the aid of a student competition, he is seeking to promote innovative modes of transportation. Last September, 1,200 teams from across the world applied for the chance to send a transport capsule, known as a “pod”, as quickly as possible through a vacuum tube. How exactly they went about this was for the students themselves to decide. Among the 30 most promising concepts was that of Swissloop, an association of students from ETH Zurich and other Swiss universities.

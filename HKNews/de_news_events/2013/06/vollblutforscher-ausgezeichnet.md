@@ -1,5 +1,7 @@
 # vollblutforscher-ausgezeichnet
 
+**Source:** de_news_events/2013/06/vollblutforscher-ausgezeichnet.html
+
 ## Hohe Aufmerksamkeit für junges Forschungsfeld
 
 Um die Blütenfarbe von Petunien zu verstärken, schleusten Wissenschaftler 1990 ein Gen in die Blumen, von dem man wusste, dass es die Produktion von Blütenfarbstoffen anregte. Doch die genveränderten Pflanzen wurden beinahe weiss. Offenbar konnten die Petunien die neu eingeschleusten Gene nicht ablesen und in Farbstoffe übersetzen. Darüber hinaus unterdrückten die fremden Gene das natürlich vorhandene.
@@ -23,6 +25,4 @@ Der Rössler-Preis ist ein weiterer Höhepunkt in der steilen Forschungskarriere
 Voinnet hat sich als führender Forscher in der RNA-Biologie etabliert und erhielt für seine Arbeit bereits zahlreiche wichtige Auszeichnungen. Zudem bewarb er sich erfolgreich für den ERC Starting Grant und den ERC Advanced Grant. Im Jahr 2009 erhielt er die EMBO Gold Medal als jüngster jemals damit geehrter Wissenschaftler. Diese Medaille gilt als einer der renommiertesten europäischen Forschungspreise für talentierte Nachwuchsforscher.
 
 Der Rössler-Preis wird am «Thanks Giving»-Anlass an der ETH Zürich zum fünften Mal verliehen. Der Name des Anlasses ist Programm: Die ETH Zürich und die ETH Zürich Foundation laden eine exklusive Gruppe von Partnern, Förderern und Freunden als Zeichen der Wertschätzung für die Unterstützung und das Vertrauen an die ETH Zürich ein. Der Preis wird jährlich ausgerichtet und ist der höchstdotierte Preis für Forschung an der ETH Zürich. Über die ETH Zürich Foundation können Unternehmen, Privatpersonen und Stiftungen gezielt die Lehre und Forschung an der ETH Zürich fördern. Mehr unter: externe Seite www.ethz-foundation.ch .
-
-ETH Zürich Medienstelle Tel. +41 44 632 41 41
 

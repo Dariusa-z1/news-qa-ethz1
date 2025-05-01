@@ -1,5 +1,7 @@
 # die-schulleitung-informiert-2024-3
 
+**Source:** de_internal/2024/03/die-schulleitung-informiert-2024-3.html
+
 ## MAS ETH in AI and Digital Technology
 
 - CAS ETH in AI and Software Development (CAS ETH AIS, erstmals im Februar 2024 gestartet)

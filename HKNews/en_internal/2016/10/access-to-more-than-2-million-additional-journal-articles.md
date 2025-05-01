@@ -1,5 +1,7 @@
 # access-to-more-than-2-million-additional-journal-articles
 
+**Source:** en_internal/2016/10/access-to-more-than-2-million-additional-journal-articles.html
+
 ## Main article
 
 The following complete archives with journal articles from the following years are now available:

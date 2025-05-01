@@ -1,5 +1,7 @@
 # neue-professuren
 
+**Source:** de_news_events/2019/05/neue-professuren.html
+
 ## Main article
 
 Ein Mathematiker, der Optimierung, Informationstheorie und Datenwissenschaften verbindet; ein Experte für NMR-Spektroskopie, der in diverse ETH-Departemente und Fachbereiche ausstrahlt; ein Immunforscher, der Zellanalysen für die personalisierte Medizin entwickelt; eine Geobiologin, die mit Methoden aus der Genomik und Phylogenetik Umweltveränderungen in Mikroorganismen aufspürt: Die frisch ernannten Professorinnen und Professoren sind fachlich breit aufgestellt. «Ich freue mich sehr und bin gespannt auf die Impulse der neuen Kolleginnen und Kollegen», sagt ETH-Präsident Joël Mesot. «Die wichtigsten Entwicklungen und Durchbrüche erfolgen heute an den Schnittstellen der Disziplinen. Dem werden wir unter anderem auch mit der Initiative ETH+ gerecht. Die neuen Kolleginnen und Kollegen helfen uns, diesen Weg konsequent weiter zu verfolgen.»

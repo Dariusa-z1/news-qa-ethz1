@@ -1,5 +1,7 @@
 # gleichzeitige-hitzewellen-und-duerren
 
+**Source:** de_news_events/2017/06/gleichzeitige-hitzewellen-und-duerren.html
+
 ## Häufung gleichzeitiger Extreme
 
 Russland, im Sommer 2010 - eine Dürre und eine Hitzewelle machten dem Land schwer zu schaffen. Wälder und Torfmoore brannten. Moskau versank im dicken Smog, was zu vielen Todesfällen unter den Stadtbewohnern führte. Zur gleichen Zeit regnete es in Pakistan sintflutartig, weil das Hochdruckgebiet über Russland ein Tief über Pakistan blockierte. Dies führte zu Jahrhundertüberschwemmungen.

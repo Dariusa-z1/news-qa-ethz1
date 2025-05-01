@@ -1,5 +1,7 @@
 # herbert-bay
 
+**Source:** en_news_events/2018/12/herbert-bay.html
+
 ## Fateful encounter
 
 In his personal life, Herbert Bay has both feet firmly on the ground – but at work, he mixes the real world with the virtual. The 44-year-old is Principal Software Engineer, Digital Health & User Perception at the Zurich office of Magic Leap. The US company specialises in “mixed-reality” applications, in which 3D images are superimposed on real space.

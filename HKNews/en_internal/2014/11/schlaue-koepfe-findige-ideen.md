@@ -1,5 +1,7 @@
 # schlaue-koepfe-findige-ideen
 
+**Source:** en_internal/2014/11/schlaue-koepfe-findige-ideen.html
+
 ## Main article
 
 The publication presents a total of 60 personalities from the worlds of science, technology, culture and society. Twelve of them had held professorships at ETH Zurich, while one was once a student here. Most of them would not have made it into the book at all had it not been for their groundbreaking work at ETH:

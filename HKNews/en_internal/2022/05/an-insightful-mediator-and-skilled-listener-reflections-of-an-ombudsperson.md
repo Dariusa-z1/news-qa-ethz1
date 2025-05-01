@@ -1,5 +1,7 @@
 # an-insightful-mediator-and-skilled-listener-reflections-of-an-ombudsperson
 
+**Source:** en_internal/2022/05/an-insightful-mediator-and-skilled-listener-reflections-of-an-ombudsperson.html
+
 ## Main article
 
 Mr Tröster, can you briefly summarise what the duties of an ombudsperson are and what kind of skills should they have?
@@ -55,8 +57,6 @@ Something that always bothered us as ombudspersons was that in some cases we cou
 How are you staying connected with ETH, and what are your plans for the future?
 
 I am still part of the Swiss Study Foundation, where I’m mentoring a group, and I regularly read the ETH news – ETH is still part of me and that’s not going to change anytime soon.
-
-But now I have time for my hobbies, for playing music and for travelling. I’m enjoying this very much, but what I do miss is the contact with young people. This was always important to me. I very much enjoyed holding lectures and interacting with students. But everything comes to an end, and you have to make way for younger people and give them a chance to do something new. It’s not good if only “the old guys” are at the helm.
 
 Gerhard Tröster (*1953) was Full Professor of Electronics at the Institute of Electronics at ETH Zurich from August 1993 to July 2018, where he headed the Digital Systems & Wearable Computing Lab. After his retirement in July 2018, he served as an ombudsperson at ETH until March 2022.
 

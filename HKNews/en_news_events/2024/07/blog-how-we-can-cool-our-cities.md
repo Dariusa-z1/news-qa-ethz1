@@ -1,5 +1,7 @@
 # blog-how-we-can-cool-our-cities
 
+**Source:** en_news_events/2024/07/blog-how-we-can-cool-our-cities.html
+
 ## Trees are not the last resort
 
 More and more people are becoming aware of the increasing risk of being exposed to severe heat waves during the summer months. City inhabitants even more than others. The urban heat island effect makes cities more vulnerable to heat extremes than their rural surroundings. This is because impervious surfaces in cities made of asphalt and concrete heat up more during the day than vegetation. Cities are also subject to more heat-producing human activities such as traffic and industry. Night-time cooling, in contrast, is lower in cities, as the heat radiation to the sky is blocked by buildings.

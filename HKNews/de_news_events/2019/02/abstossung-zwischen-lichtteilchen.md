@@ -1,5 +1,7 @@
 # abstossung-zwischen-lichtteilchen
 
+**Source:** de_news_events/2019/02/abstossung-zwischen-lichtteilchen.html
+
 ## Umwandlung in Polaritonen
 
 Zwei Lichtstrahlen, die einander kreuzen, lenken sich gegenseitig nicht ab. Das liegt daran, dass es zwischen Lichtteilchen oder Photonen nach den Gesetzen der Quantenphysik keine Wechselwirkung gibt. Bei einem Zusammenstoss fliegen daher zwei Photonen einfach durcheinander durch, anstatt wie harte Kügelchen voneinander abzuprallen – es sei denn, man hilft ihnen etwas nach. Tatsächlich arbeiten Forscher schon länger an Techniken, mit denen man Photonen einander «spüren» lassen kann. Dadurch, so die Hoffnung, ergeben sich viele neue Möglichkeiten sowohl für die Forschung als auch für praktische Anwendungen. Ataç Imamoğlu, Professor am Institut für Quantenelektronik der ETH Zürich, und seine Mitarbeiter haben nun einen weiteren wichtigen Schritt in Richtung stark wechselwirkender Photonen gemacht. Ihre Forschungsergebnisse wurden kürzlich im Fachjournal externe Seite Nature Materials veröffentlicht.

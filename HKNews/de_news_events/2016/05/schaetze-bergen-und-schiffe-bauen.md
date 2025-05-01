@@ -1,5 +1,7 @@
 # schaetze-bergen-und-schiffe-bauen
 
+**Source:** de_news_events/2016/05/schaetze-bergen-und-schiffe-bauen.html
+
 ## Erlerntes praktisch anwenden
 
 Zwölf Wochen hatten die 450 Studierenden des 2. Semesters Maschineningenieurwissenschaften für das Innovationsprojekt Zeit: In 90 Fünfer-Teams sollten sie eine Maschine entwickeln, die am Meeresgrund Schätze aus einem gesunkenen Schiff bergen kann. Natürlich alles nur in Modellgrösse und ohne Wasser. Die 16 Teams mit den technisch besten Lösungen traten am 31. Mai in der ETH-Haupthalle gegeneinander an.

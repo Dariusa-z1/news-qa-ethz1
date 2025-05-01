@@ -1,5 +1,7 @@
 # an-der-schnittstelle-zwischen-robotik-und-maschinellem-lernen
 
+**Source:** de_news_events/2024/06/an-der-schnittstelle-zwischen-robotik-und-maschinellem-lernen.html
+
 ## Roboter, die auf Hindernisse klettern – und mehr
 
 Vor zehn Jahren konnten sie sich kaum fortbewegen. Heute verändern die autonomen Laufroboter von Marco Hutter und seinem Team ein ganzes Feld – und künftig sollen diese hochmobilen Roboter bei Such- und Rettungsarbeiten unterstützen, oder gar andere Planeten erkunden. Für seine Forschung erhält der Professor am Departement Maschinenbau und Verfahrenstechnik der ETH Zürich nun den diesjährigen Rössler-Preis. Es ist ein Meilenstein, ja Etappensieg auf dem Weg, der für Hutter bei einer simplen Frage begann: «Wie müssen wir Roboter bauen, damit sie sich wie ein Mensch oder Tier über jegliches Gelände bewegen können?»

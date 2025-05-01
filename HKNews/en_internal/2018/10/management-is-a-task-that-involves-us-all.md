@@ -1,5 +1,7 @@
 # management-is-a-task-that-involves-us-all
 
+**Source:** en_internal/2018/10/management-is-a-task-that-involves-us-all.html
+
 ## Honest and constructive feedback
 
 “Becoming a manager was never really my goal,” says Laura Nyström, who moved to Switzerland from Finland nine years ago to take up an assistant professorship in the Department of Health Sciences and Technology. Today, she manages a research group with around 20 employees in her role as an assistant professor. In 2015, she received an ERC Starting Grant of 1.6 million Swiss francs and at the end of August she was presented with the ALEA Award for the most exemplary manager at ETH. What is the secret ofher success? “The culture at ETH has really influenced me,” says the 41-year-old. “The people who work here are very motivated and they set themselves ambitious goals. This creates an environment of positive competition, which helps everyone to progress.” The communication between colleagues is also much more open, critical and discussion-based than at her Finnish university.

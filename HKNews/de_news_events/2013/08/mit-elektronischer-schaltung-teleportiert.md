@@ -1,5 +1,7 @@
 # mit-elektronischer-schaltung-teleportiert
 
+**Source:** de_news_events/2013/08/mit-elektronischer-schaltung-teleportiert.html
+
 ## «Wie beim Beamen»
 
 Physikern der ETH Zürich ist es erstmals gelungen, eine Information in einem sogenannten Festkörpersystem zu teleportieren. Dies gelang den Forschern auf einem Chip. Er unterscheidet sich von einem herkömmlichen Computerchip dadurch, dass die Informationen darauf nicht nach den Gesetzen der klassischen Physik, sondern nach jenen der Quantenphysik gespeichert und verarbeitet werden. In einer in der jüngsten Ausgabe der Fachzeitschrift «Nature» publizierten Studie gelang es den Forschenden, Information über sechs Millimeter zu teleportieren, von einer Ecke des Chips in die gegenüberliegende Ecke. Dies nota bene ohne dass bei der Informationsübertragung physikalische Teilchen den Weg von der Sender-Ecke in die Empfänger-Ecke zurückgelegt hätten.
@@ -23,8 +25,4 @@ Als nächstes möchten die Forschenden mit ihrem System den Abstand zwischen Sen
 «Teleportation ist eine wichtige Zukunftstechnologie auf dem Gebiet der Quanteninformationsverarbeitung», sagt Wallraff. Damit lasse sich beispielsweise Information auf einem Quantenchip oder in einem zukünftigen Quantenprozessor von einem Punkt zu einem anderen transportieren. Gegenüber den heutigen Informations- und Kommunikationstechnologien, die auf der klassischen Physik beruhen, hat quantenphysikalische Information den Vorteil, dass die Informationsdichte viel höher ist: In Quantenbits lässt sich mehr Information speichern und effizienter verarbeiten als in der gleichen Anzahl klassischer Bits.
 
 Original: Steffen L, Salathe Y, Oppliger M, Kurpiers P, Baur M, Lang C, Eichler C, Puebla-Hellmann G, Fe-dorov A, Wallraff A: Deterministic quantum teleportation with feed-forward in a solid state system. Nature, 2013, 500: 319-322, doi: externe Seite 10.1038/nature12422 .
-
-ETH Zürich Prof. Andreas Wallraff Laboratorium für Festkörperphysik
-
-ETH Zürich Medienstelle Tel. +41 44 632 41 41
 

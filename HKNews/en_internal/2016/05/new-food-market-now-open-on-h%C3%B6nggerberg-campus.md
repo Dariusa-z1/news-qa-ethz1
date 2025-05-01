@@ -1,5 +1,7 @@
 # new-food-market-now-open-on-h%C3%B6nggerberg-campus
 
+**Source:** en_internal/2016/05/new-food-market-now-open-on-h%C3%B6nggerberg-campus.html
+
 ## Main article
 
 The completion of the food market represents another milestone in ETH Zurich’s catering and retail site strategy. After four years of planning and another two years of construction, the newly opened catering facility is already impressing customers with its modern, sophisticated design.

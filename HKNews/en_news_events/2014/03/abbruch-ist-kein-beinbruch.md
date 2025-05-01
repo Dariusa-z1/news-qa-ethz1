@@ -1,5 +1,7 @@
 # abbruch-ist-kein-beinbruch
 
+**Source:** en_news_events/2014/03/abbruch-ist-kein-beinbruch.html
+
 ## Speed and level too high
 
 Failure is not the end of the game. (Graphics: from Globe 1/14, ETH Zurich)
@@ -13,8 +15,6 @@ Mirjam Kandler and her SoC colleagues offer various activities early on to avoid
 ## Finding alternatives
 
 After registering for a course of study, the future students are invited to a “Prestudy Event” a few months before the term starts. This is where students find out what awaits them at ETH and what they should pay attention to when studying. They make contact with other future students and know to whom they can turn if they feel lonely or out of their depth.
-
-The latter happens particularly in the first weeks at university. In most cases, freshers feel that the speed or level is too high when compared to school. Then the coaching team gives them tips, for example on how they can study more efficiently or how they can make contact with older students.
 
 The coaches have to show a great deal of empathy when students fail their first year examinations. It’s all about listening and finding out what the problem is. However, it’s not about making suggestions, but about providing food for thought. For instance: what were the reasons why it didn’t work out? Perhaps the wrong study method? Did the job on the side take up too much time? Turning negative emotions into positive energy is the task of the coach. And in most cases they are successful. “Many students turn this ‘failure’ into a wake-up call”, Kandler knows. True to the motto “Now more than ever!” they pick themselves up and start again. Experience shows: years later, former students even say that failing an exam was all just part and parcel of studying at ETH.
 

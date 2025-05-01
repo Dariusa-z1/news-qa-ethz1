@@ -1,5 +1,7 @@
 # 10-millionen-fuer-auterion
 
+**Source:** en_news_events/2018/09/10-millionen-fuer-auterion.html
+
 ## A well-timed idea
 
 Auterion, the world’s largest open-source drone software company, announced 10 million (USD) in seed funding earlier this month. Founded just over a year ago by ETH Zurich Alumni, Lorenz Meier and Kevin Sartori. Auterion’s seed round surpasses the current European average of 1.17 million (Venture Beat 1 ). It even tops the latest Silicon Valley average seed round of 6.3 million (Tech Crunch 2 ). So how has this Swiss start-up attracted some of the world’s top investors? Could Auterion’s success be attributed to just 3 success factors?

@@ -1,5 +1,7 @@
 # the-amazing-travels-of-small-rna
 
+**Source:** en_news_events/2020/07/the-amazing-travels-of-small-rna.html
+
 ## Proteins and DNA ruled out
 
 In most organisms, small bits of RNA play a key role in gene regulation by silencing gene expression. They do this by targeting and docking onto complementary sequences of gene transcripts (also RNA molecules), which stops the cell machinery from using them to make proteins. This mechanism is called RNA interference (RNAi), and it is critically important in biology.

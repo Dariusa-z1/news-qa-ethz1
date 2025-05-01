@@ -1,5 +1,7 @@
 # investor-summit
 
+**Source:** de_news_events/2016/01/investor-summit.html
+
 ## Main article
 
 8 Uhr am Morgen Bereits eineinhalb Stunden vor Veranstaltungsbeginn ist Dominique Burgauer, CFO und COO von Archilogic, vor Ort im Prime Center, um die Technik zu testen. Das ETH-Spin-off, das auf automatisierte 3D-Visualisierungen von Grundrissen spezialisiert ist, möchte heute den bestmöglichen Eindruck hinterlassen. Da darf Burgauer auch die Erkältung, die ihm sichtlich zu schaffen macht, nicht dran hindern. Der externe Seite Investor Summit markiert für Archilogic den Auftakt zur zweiten Finanzierungsrunde. Alles soll perfekt sein. Schliesslich geht es bei dieser Veranstaltung um potenzielle Investitionen in mehrstelliger Millionenhöhe.
@@ -21,6 +23,4 @@ Ausgewählt wurden die Start-ups von einer Jury unter Leitung von Marjan Kraak, 
 12.22 Uhr Endlich ist es soweit: Souverän stellt Burgauer, den Archilogic als versierten Finanzchef an Bord holte, das Start-up vor. Er demonstriert die 3D-Technik, definiert die Vision und die Geschäftsstrategie. Zielgruppe, das wird deutlich, sind Immobilienfirmen sowie Unternehmen, die den Arbeitsplatz mittels des Programms von Archilogic virtuell planen können.
 
 Tatsächlich kommt die Unternehmensvorstellung bei den Gästen aus In- und Ausland an. War bei dem ein oder anderen Start-up die Geschäftsstrategie nicht ganz deutlich, überzeugen Archilogic sowie mehrere andere Spin-offs mit ihrer Präsentation. Ob sie sich engagieren werden, drüber möchte der ein oder andere Investor noch einmal schlafen, doch ihr Interesse ist in jedem Fall geweckt.
-
-«Wir haben definitiv einige Leute kennengelernt, die uns weiterbringen,» berichtet Kaspar Helfrich nach Abschluss des Summits. Er hofft, dass dieser Event auch im kommenden Jahr wieder stattfindet, dann möglichst mit noch mehr internationalen Ansprechpartnern. Auch Marjan Kraak zieht ein positives Fazit. «Sehr gut war, dass der Summit komplett ausgebucht war, und ich sogar Kontakte mit interessanten Investoren für jüngere ETH Spin-offs knüpfen konnte.»
 

@@ -1,5 +1,7 @@
 # chemie-olympiade-im-55-jahr-erstmals-in-der-schweiz
 
+**Source:** de_news_events/2023/07/chemie-olympiade-im-55-jahr-erstmals-in-der-schweiz.html
+
 ## Fünfstündige Prüfungen und ein Besuch auf der Rigi
 
 - Der IChO-​Newsletter «externe SeiteCatalyzercall\_made» informiert Sie während der IChO täglich über Neuigkeiten rund um die Olympiade. externe SeiteHier abonnieren.call\_made

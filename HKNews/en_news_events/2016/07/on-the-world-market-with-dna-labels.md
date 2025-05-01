@@ -1,5 +1,7 @@
 # on-the-world-market-with-dna-labels
 
+**Source:** en_news_events/2016/07/on-the-world-market-with-dna-labels.html
+
 ## Unique DNA-labelled product
 
 In many branches of industry, tracers are used to monitor fluids and leaks, or to track products. Particularly in the energy sector, tracer field-operations are the only direct means of characterizing and monitoring oil or geothermal reservoirs by tracking the movement of fluids in the subsurface (now a $350 Mio market). Such operations consist of injecting tracers under the ground, and then sampling and analysing them at the surface. The information derived is used to decide where to drill future wells, and to plan intervention operations to minimize running costs and maximize oil recovery or geothermal power extraction.

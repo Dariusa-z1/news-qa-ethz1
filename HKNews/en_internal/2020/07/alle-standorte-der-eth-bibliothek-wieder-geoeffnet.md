@@ -1,5 +1,7 @@
 # alle-standorte-der-eth-bibliothek-wieder-geoeffnet
 
+**Source:** en_internal/2020/07/alle-standorte-der-eth-bibliothek-wieder-geoeffnet.html
+
 ## Locations and opening hours
 
 - The ETH Library in the main building (InfoCenter): Mon–Fri 8.00–20.00, Sat+Sun 9.00–17.00

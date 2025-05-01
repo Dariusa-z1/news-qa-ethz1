@@ -1,5 +1,7 @@
 # in-two-weeks-icu-capacities-could-be-at-their-limit
 
+**Source:** en_news_events/2020/10/in-two-weeks-icu-capacities-could-be-at-their-limit.html
+
 ## Main article
 
 You have launched a website with forecasts of intensive care unit (ICU) occupancy in Swiss hospitals. It is attracting a lot of interest at the moment. What can one see on the webpage? Our platform shows at a glance the occupancy level of beds in intensive care units, categorised by region, canton and individual hospital. However, only hospitals themselves and the Swiss army have access to the latter information. We also provide forecasts of how the situation might evolve 3 and 7 days ahead.

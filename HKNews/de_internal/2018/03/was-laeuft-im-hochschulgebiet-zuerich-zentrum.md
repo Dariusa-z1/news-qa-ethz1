@@ -1,5 +1,7 @@
 # was-laeuft-im-hochschulgebiet-zuerich-zentrum
 
+**Source:** de_internal/2018/03/was-laeuft-im-hochschulgebiet-zuerich-zentrum.html
+
 ## Inforaum Hochschulgebiet Zürich Zentrum
 
 Das Generationenprojekt externe Seite Hochschulgebiet Zürich Zentrum ist ein gemeinsames Vorhaben von Kanton und Stadt Zürich, dem Universitätsspital (USZ), der Universität (UZH) und der ETH Zürich. In den nächsten rund 30 Jahren entstehen im Herzen von Zürich neue Bauten, welche die Weiterentwicklung der drei Institutionen von Weltrang sichern.
@@ -21,8 +23,6 @@ Zu diesem «Stadtraumkonzept» gibt es derzeit auch in den Vitrinen im D-Stock d
 ## Newsletter abonnieren
 
 Adresse Alte Anatomie (Schulungszentrum USZ) Gloriastrasse 19 8091 Zürich externe Seite www.usz.ch > Über-uns > Bauprojekte > Inforaum Hochschulgebiet Zürich Zentrum
-
-Kontakt für Gruppen-Besichtigungen (mit rund 40 Personen), Führungen und Feedback:
 
 ETH-Hauptgebäude, Vitrinen D-Stock, 12. – 30. März und 30. April – 31. Mai 2018.
 

@@ -1,5 +1,7 @@
 # the-executive-board-reports-2018-5
 
+**Source:** en_internal/2018/10/the-executive-board-reports-2018-5.html
+
 ## ETH launches rehabilitation initiative
 
 - A new professorship will investigate the acceptance of technology and how people with disabilities participate in society (Disability and Health Technology, D-GESS)
@@ -12,19 +14,19 @@
 
 - A fifth professorship will seek to improve wound healing through innovative implants and the treatment of pressure ulcers (Human Wound Healing and Antifibrotic Therapies, D-HEST)
 
-ETH Zurich once again has three ombudspersons. The Executive Board has elected Margrit Leuthold and Peter Frischknecht to this important role, with effect from 1 October 2018. Together with the current ombudsman, Professor Gerhard Tröster, they will continue the work of Maryvonne Landolt, who has reached retirement age. The ombudspersons act as a contact point for all ETH members who have an issue that they cannot solve through their line managers or superiors. For the first time, the two new ombudspersons were selected on the recommendation of the University Assembly. In an interview published on Internal news , UA President Werner Wegscheider explains the rationale behind the new procedure, the candidate recruitment process and the requirements for ETH ombudspersons.
+With the launch of a large-scale rehabilitation initiative, ETH Zurich is seeking to establish itself as a centre of excellence for comprehensive and innovative research in the field of rehabilitation. Eight new professorships are planned across four departments.
 
 ## Increase in female students
 
-With the launch of a large-scale rehabilitation initiative, ETH Zurich is seeking to establish itself as a centre of excellence for comprehensive and innovative research in the field of rehabilitation. Eight new professorships are planned across four departments.
+In addition to the three professorships already approved (Data Science for Personalised Health, Mobile Health Systems and Healthy Ageing), the Executive Board has included five more in the professorship plans.
 
 ## New Financial Regulations approved
 
-In addition to the three professorships already approved (Data Science for Personalised Health, Mobile Health Systems and Healthy Ageing), the Executive Board has included five more in the professorship plans.
+Current rehabilitation strategies focus on the critical phase during the first weeks after injury. Long-term patients are no longer cared for systematically, which can lead to major deterioration in their quality of life. ETH Zurich’s rehabilitation initiative aims to remedy this with an innovative, comprehensive rehabilitation programme that covers all aspects from prevention to long-term support.
 
 ## Revised ETH General House Rules
 
-Current rehabilitation strategies focus on the critical phase during the first weeks after injury. Long-term patients are no longer cared for systematically, which can lead to major deterioration in their quality of life. ETH Zurich’s rehabilitation initiative aims to remedy this with an innovative, comprehensive rehabilitation programme that covers all aspects from prevention to long-term support.
+The Executive Board presented the annual Gender Monitoring Report prepared by Renate Schubert, ETH Zurich’s Gender Delegate. As far as the figures are concerned, there have been no substantial new developments. The percentage of women across the various academic tiers is roughly the same as in the previous year. For example, the proportion of women in all professorships (assistant and full professorship) in 2017 was 13.9% (previous year 13.6%), and just under 40% in all new appointments. The proportion of female students grew significantly from the long-standing figure of about 30% to 31.4% in 2017. The report’s focus chapter analyses the internal visibility of female role models. The Gender Monitoring Report can be downloaded in its entirety from equal – the office for equal opportunities for women and men. There is also a shorter version which can be printed out and distributed.
 
 ## Further Executive Board resolutions in brief
 

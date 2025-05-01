@@ -1,5 +1,7 @@
 # blog-beretta-foodwaste-switzerland
 
+**Source:** en_news_events/2019/12/blog-beretta-foodwaste-switzerland.html
+
 ## A fair amount’s happening – but not enough
 
 Things are very Christmassy now, with baby Jesus and the festive meal only a few days away. It’s an ideal moment to give thought to how we deal with food. Some ten years ago, food wastage hardly made headline news. The food industry swept the shady issue under the carpet, and a trawl through scientific literature for reports on food waste yielded little. Across the board, food donation organisations were the only ones saving edible food from hitting the garbage.

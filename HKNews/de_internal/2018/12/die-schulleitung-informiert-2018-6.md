@@ -1,5 +1,7 @@
 # die-schulleitung-informiert-2018-6
 
+**Source:** de_internal/2018/12/die-schulleitung-informiert-2018-6.html
+
 ## Bessere Einführung von neuen Professorinnen und Professoren
 
 Im Rahmen der ersten Vergaberunde des Programms ETH+ hat die Schulleitung insgesamt acht neue Professuren in den Bereichen Robotik, Materialwissenschaft, Informatik, Entwicklungszusammenarbeit und Lehre bewilligt. Für die ETH+-Initiative «Security and Privacy in the Digital Society» wurden drei Tenure-Track-Assistenzprofessuren in die Professurenplanung des Departements Informatik aufgenommen. Eine weitere Assistenzprofessur mit Anschlusslösung entsteht im Departement Materialwissenschaft aufgrund der Initiative «Robotics Materials». Auch das Departement Management, Technologie und Ökonomie kann für Fragen rund um «eDemocracy and Digital Economic Policy» (ETH+-Projekt «Digital Transformation and Society») eine Assistenzprofessur mit Tenure Track aufbauen, desgleichen das Departement für Geistes-, Sozial- und Staatswissenschaften für die «Future Learning Initiative». Je eine Vollprofessur hat die Schulleitung für «ETH for Development» und «Digital Transformation and Society» freigegeben (beide im D-GESS).

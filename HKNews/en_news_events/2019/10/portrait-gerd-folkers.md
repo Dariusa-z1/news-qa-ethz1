@@ -1,5 +1,7 @@
 # portrait-gerd-folkers
 
+**Source:** en_news_events/2019/10/portrait-gerd-folkers.html
+
 ## From scientist to science critic
 
 Gulliver’s Travels was a story that spoke to him. The protagonist from Jonathan Swift’s nearly 300-year-old classic tale of adventure, who constantly found himself magically attracted to foreign worlds and then boldly set out to explore them, is one of Gerd Folkers’ idols. Whenever Folkers found the time for reflection alongside his lecturing and research duties, the book always offered important food for thought. “The changes of perspective in the book are invigorating, perfectly described and never cease to amaze me,” he says. Change of perspective: this is a succinct way to sum up Folkers’ work over the past decade and a half.

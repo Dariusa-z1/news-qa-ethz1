@@ -1,5 +1,7 @@
 # barrier-free-eth-a-change-of-perspective
 
+**Source:** en_internal/2023/03/barrier-free-eth-a-change-of-perspective.html
+
 ## Accessibility statement
 
 How do I find the seminar room if I have very limited vision? How do I negotiate the ramp and cobblestones at HPH in a wheelchair? And how does it feel in general to navigate your way around ETH if you have a disability?

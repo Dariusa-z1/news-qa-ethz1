@@ -1,5 +1,7 @@
 # fliegen-daten-und-sieben-velos
 
+**Source:** de_news_events/2021/07/fliegen-daten-und-sieben-velos.html
+
 ## Den Vater übertrumpfen
 
 Bald ist Schluss. Schluss mit der Professur an der ETH, mit Forschungsprojekten und dem Unterricht. Ernst Hafen hat sich gut mit dem Gedanken angefreundet, dass seine aktive Zeit als Professor abgelaufen ist. «Es gibt nichts Unerledigtes», sagt er, am Tisch in seinem Büro sitzend.

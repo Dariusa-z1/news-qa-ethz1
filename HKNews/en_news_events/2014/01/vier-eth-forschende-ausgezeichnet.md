@@ -1,5 +1,7 @@
 # vier-eth-forschende-ausgezeichnet
 
+**Source:** en_news_events/2014/01/vier-eth-forschende-ausgezeichnet.html
+
 ## Predicting climatic extremes and developing new Internet architecture
 
 For the very first time, the European Research Council awarded the ERC Consolidator Grant (see box for more information). 312 researchers throughout Europe will receive the equivalent of around CHF 700 million. 22 of the Consolidator Grants went to Switzerland; ETH Zurich received the greatest number of awards among the Swiss Universities, securing four grants.
@@ -17,6 +19,4 @@ Computer Science Professor Adrian Perrig would like to use the EU grant to push 
 ETH Zurich’s high success of 25% was particularly remarkable in the first allocation of the Consolidator Grants. This is even more impressive if one considers that of the approximate 3600 projects submitted from across Europe, only 312 – around 9% – were awarded grants. Of the 16 ETH projects, four were awarded grants at the first go. The higher education institution is building on its good track record with the other two ERC grants – the Starting Grants and, in particular, the Advanced Grants. Since 2007, around CHF 190 million have flowed into projects submitted by researchers at ETH Zurich through these two funding schemes.
 
 The European Research Council ( ERC ) offers several funding schemes. In addition to the ERC Starting Grant for talented young researchers and the ERC Advanced Grant for established leading researchers, the ERC has recently launched the ERC Consolidator Grant – previously integrated into the Starting Grant – as an individual grant category. This grant is intended to support emerging researchers with seven to twelve years of experience since completing their PhD who can demonstrate a promising track record and a desire to consolidate the work of their already successful research group. The projects are selected on the basis of their academic excellence and are funded with around CHF 2.5 million over five years. The ERC introduced the new grant on its own account, considering that there are currently not enough opportunities for young researchers to develop their careers independently.
-
-ETH Zurich Media relations Tel. +41 44 632 41 41
 

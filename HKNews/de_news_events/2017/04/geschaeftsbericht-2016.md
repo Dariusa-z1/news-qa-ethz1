@@ -1,5 +1,7 @@
 # geschaeftsbericht-2016
 
+**Source:** de_news_events/2017/04/geschaeftsbericht-2016.html
+
 ## Mehr Studierende – wachsendes Angebot
 
 Ein Weltrekord für den Elektrorennwagen «grimsel», die Eröffnung des Gotthard-Basistunnels oder das neue Reallabor Arch_Tech_Lab haben das vergangene Jahr der ETH Zürich geprägt: In ihrem jetzt publizierten Geschäftsbericht für das Jahr 2016 stellt die Hochschule die wichtigsten Ereignisse und Entwicklungen vor.

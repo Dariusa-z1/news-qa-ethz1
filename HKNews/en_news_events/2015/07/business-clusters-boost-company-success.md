@@ -1,5 +1,7 @@
 # business-clusters-boost-company-success
 
+**Source:** en_news_events/2015/07/business-clusters-boost-company-success.html
+
 ## Main article
 
 Why are companies in a business cluster more innovative? And what makes a business cluster particularly successful? These questions were addressed by Professor Georg von Krogh, Professor for Strategic Management and Innovation at ETH Zurich, and Nina Geilinger, his doctoral student, in collaboration with the Business and Economic Development Division of the Office for Economy and Labour in the Canton of Zurich. The team studied business clusters in the biotech, cleantech and ICT (information and communications technologies) sectors in Canton of Zurich.

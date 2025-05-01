@@ -1,5 +1,7 @@
 # concentrating-solar-power
 
+**Source:** en_news_events/2017/09/concentrating-solar-power.html
+
 ## A controllable renewable
 
 Two solar power technologies exist today : concentrating solar power (CSP) and photovoltaics (PV). Ten years ago, CSP and PV were similar in terms of installed capacity and cost, but after the hype about Desertec and solar power exports from the desert to Europe about five years ago, they have taken quite different development paths. Whereas PV costs plummeted, CSP costs decreased more modestly; today there are 5,000 MW of CSP, but over 300,000 MW of PV. While PV is conquering the world, CSP is barely clinging to life.

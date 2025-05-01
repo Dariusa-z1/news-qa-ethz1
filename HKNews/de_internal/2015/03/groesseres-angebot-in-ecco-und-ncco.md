@@ -1,5 +1,7 @@
 # groesseres-angebot-in-ecco-und-ncco
 
+**Source:** de_internal/2015/03/groesseres-angebot-in-ecco-und-ncco.html
+
 ## Main article
 
 ECCO (Eighteenth Century Collections Online) gibt Einblick in das Wissen der englischsprachigen Welt im 18. Jahrhundert. Die ETH-Bibliothek hat hiervon die SammlungScience, Technology and Medicine erworben, die rund 60 000 Titel umfasst.

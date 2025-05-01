@@ -1,5 +1,7 @@
 # in-dieselautos-faehrt-ein-stueck-eth-mit
 
+**Source:** de_news_events/2013/11/in-dieselautos-faehrt-ein-stueck-eth-mit.html
+
 ## «Diesel-PWs wurden salonfähig»
 
 In praktisch jedem Dieselmotor, der heute in Autos und Lastwagen, aber auch in Generatoren oder modernen Hochseeschiffen zum Einsatz kommt, steckt ein gutes Stück ETH-Forschung. Ingenieure in den Forschungslabors der Hochschule waren nämlich ab den 1970-er Jahren massgeblich an der Entwicklung eines damals revolutionären Systems zur Einspritzung des Treibstoffs in den Motor beteiligt: dem sogenannten Common-Rail-Einspritzsystem. Dieses ist mittlerweile zum Industriestandard geworden.

@@ -1,5 +1,7 @@
 # fokus-projekte
 
+**Source:** de_news_events/2019/05/fokus-projekte.html
+
 ## Für andere etwas beitragen
 
 «Schon bei der Projektvorstellung stand für mich fest: dies ist mein Projekt», sagt Shuaixin Qi. Seit September 2018 baut der Maschinenbaustudent im sechsten Semester mit 14 weiteren Studierenden ein motorisiertes Exoskelett, das querschnittgelähmten Personen ermöglicht zu gehen. Qi begeistert vor allem, dass er anderen Menschen mit seinem fachlichen Können helfen kann.

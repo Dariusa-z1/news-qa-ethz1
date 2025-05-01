@@ -1,5 +1,7 @@
 # venture-2014-geschaeftsidee-noch-bis-1-dezember-anmelden
 
+**Source:** de_internal/2013/11/venture-2014-geschaeftsidee-noch-bis-1-dezember-anmelden.html
+
 ## Main article
 
 Den zehn besten Ideen winkt eine Prämie in Höhe von 2‘500 Franken. In einer zweiten Phase werden dann die besten Geschäftspläne gekürt. Hier winken Preisgelder in Höhe von insgesamt mindestens 125‘000 Franken.

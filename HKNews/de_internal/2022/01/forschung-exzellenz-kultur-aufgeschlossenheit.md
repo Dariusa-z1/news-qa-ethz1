@@ -1,5 +1,7 @@
 # forschung-exzellenz-kultur-aufgeschlossenheit
 
+**Source:** de_internal/2022/01/forschung-exzellenz-kultur-aufgeschlossenheit.html
+
 ## Über die Autoren
 
 Diskussionen über Werte bleiben oft vage. Um die Auseinandersetzung mit den fünf kulturellen Werten der ETH – Vielfalt, Offenheit, Verantwortung, Teamgeist und Exzellenz – zu beleben, haben AVETH-Mitglieder eine Aufgabe entworfen, die jeden Wert als fiktiven Charakter beschreibt. Miss Offenheit beispielsweise nutzt einen Outlook-Kalender, der offen für ihre Teammitglieder ist und teilt ihre Gedanken offen mit, auch kritische.

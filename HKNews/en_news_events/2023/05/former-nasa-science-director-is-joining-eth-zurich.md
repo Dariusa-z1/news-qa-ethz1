@@ -1,5 +1,7 @@
 # former-nasa-science-director-is-joining-eth-zurich
 
+**Source:** en_news_events/2023/05/former-nasa-science-director-is-joining-eth-zurich.html
+
 ## Moon robots, marsquakes and Earth-like exoplanets
 
 Considered to be one of the most influential scientific leaders in the world, Thomas Zurbuchen has had a decisive influence in space science. After more than 20 years in the USA, he returns to his home country. From August, he will lead ETH Zurich Space as a Professor of Space Science and Technology.

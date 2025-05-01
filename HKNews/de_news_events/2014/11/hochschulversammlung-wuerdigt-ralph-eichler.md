@@ -1,5 +1,7 @@
 # hochschulversammlung-wuerdigt-ralph-eichler
 
+**Source:** de_news_events/2014/11/hochschulversammlung-wuerdigt-ralph-eichler.html
+
 ## Präsidentschaft im Zeichen des Ermöglichens
 
 Seit seinem Amtsantritt im Jahr 2007 hat ETH-Präsident Ralph Eichler die Hochschulversammlung ( HV ) regelmässig über laufende Geschäfte der Schulleitung orientiert. Ende Jahr tritt er als Präsident der ETH Zürich zurück. Entsprechend diskutierte die Plenarversammlung der HV am vergangenen Donnerstag nicht nur hochschulpolitische Themen, sondern sie würdigte auch die Leistungen des ETH-Präsidenten.

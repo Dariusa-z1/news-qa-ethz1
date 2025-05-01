@@ -1,5 +1,7 @@
 # kleines-land-grosse-wirkung
 
+**Source:** de_news_events/2015/01/kleines-land-grosse-wirkung.html
+
 ## Die beste Vorgehensweise ausloten
 
 Fällt die Schweiz ins Gewicht? In Bezug auf Klima und Energie beantworten viele diese Frage mit Nein: Der CO 2 -Ausstoss der Schweiz ist winzig im Vergleich zu den weltweiten Emissionen, deshalb kann keine noch so umfassende Emissionsreduktion der Schweiz global etwas bewirken. Ebenso sagen einige, die Schweizer Politik könne in Sachen neue Technologien kaum etwas bewegen.

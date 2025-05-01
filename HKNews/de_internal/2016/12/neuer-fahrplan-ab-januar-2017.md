@@ -1,5 +1,7 @@
 # neuer-fahrplan-ab-januar-2017
 
+**Source:** de_internal/2016/12/neuer-fahrplan-ab-januar-2017.html
+
 ## Frühere Abfahrt ab Hauptbahnhof
 
 Der Testbetrieb von diesem Herbstsemester (die Service-Info vom 15.09.2016 hatte drüber berichtet) endet am 23. Dezember. Ab Dienstag, 3. Januar 2017 , gelten die neuen Fahrzeiten.

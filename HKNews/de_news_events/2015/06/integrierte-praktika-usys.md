@@ -1,5 +1,7 @@
 # integrierte-praktika-usys
 
+**Source:** de_news_events/2015/06/integrierte-praktika-usys.html
+
 ## Etabliertes Instrument der Lehre
 
 Schöner und inspirierender könnte die Umgebung nicht sein: hier das Schloss Greifensee, eine historische Kulisse, dort zauberhaft blau der See, in der Ferne leuchten weiss die Alpen. An diesem Ort halten 90 Studierende der Umweltnaturwissenschaften die Schlussveranstaltung ab – das vierte Semester ihres Bachelorstudiums geht mit einem Paukenschlag zu Ende.

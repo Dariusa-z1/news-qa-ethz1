@@ -1,5 +1,7 @@
 # talent-and-team-spirit-at-the-heart-of-artificial-intelligence
 
+**Source:** en_news_events/2021/10/talent-and-team-spirit-at-the-heart-of-artificial-intelligence.html
+
 ## More than 100 researchers at the ETH AI Center
 
 - Benjamin Dillenburger (D-ARCH)

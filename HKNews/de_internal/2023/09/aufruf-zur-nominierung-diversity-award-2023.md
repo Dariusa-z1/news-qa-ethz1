@@ -1,5 +1,7 @@
 # aufruf-zur-nominierung-diversity-award-2023
 
+**Source:** de_internal/2023/09/aufruf-zur-nominierung-diversity-award-2023.html
+
 ## Integration auf allen Ebenen fördern
 
 - Organisationen, die sich für unterrepräsentierte Gruppen in der ETH-Community einsetzen,

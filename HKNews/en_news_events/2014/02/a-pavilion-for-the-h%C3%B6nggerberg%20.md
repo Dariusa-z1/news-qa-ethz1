@@ -1,5 +1,7 @@
 # a-pavilion-for-the-h%C3%B6nggerberg%20
 
+**Source:** en_news_events/2014/02/a-pavilion-for-the-h%C3%B6nggerberg%20.html
+
 ## A magnet, radiating optimism
 
 The view of the area around the Katzensee lake is bound to become the trademark of the table-service restaurant in future. The Pavillon will be situated right on the hillside that leads down to Zurich-Affoltern. It will be built of wood and glazed on all sides. The timber pavilion will stand on the northern edge of the campus, at the end of Wolfgang Pauli Strasse.

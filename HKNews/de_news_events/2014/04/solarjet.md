@@ -1,5 +1,7 @@
 # solarjet
 
+**Source:** de_news_events/2014/04/solarjet.html
+
 ## Main article
 
 Mehrere namhafte wissenschaftliche Einrichtungen von der akademischen Forschung bis zur Industrieforschung (ETH Zürich, Bauhaus Luftfahrt, Deutsches Zentrum für Luft- und Raumfahrt, ARTTIC und Shell Global Solutions) haben einen thermochemischen Produktionspfad untersucht, der konzentrierte Sonnenenergie nutzt. Dessen neuartige Solarreaktor-Technologie ermöglicht es, flüssige Kohlenwasserstoffe als nachhaltige Kraftstoffe für Mobilität und Verkehr zu gewinnen.
@@ -15,8 +17,4 @@ Während die solargetriebene Redoxreaktion noch am Anfang ihrer Entwicklung steh
 „Die Nutzung von konzentriertem Sonnenlicht stellt einen potenziell sehr interessanten neuen Produktionspfad für Kraftstoffe auf Basis flüssiger Kohlenwasserstoffe dar“, ergänzt Professor Hans Geerlings von Shell. „Obwohl einzelne Prozessschritte bereits vorher in verschiedenen Maßstäben durchgeführt wurden, war vormals noch kein Versuch unternommen worden, alle Komponenten in ein durchgängiges System zu integrieren. Wir freuen uns daher, gemeinsam mit den Projektpartnern die Forschung und Entwicklung dieser aufstrebenden Technologie in der kommenden Projektphase weiter voranzutreiben.“
 
 Das Projekt SOLAR-JET (Solar chemical reactor demonstration and Optimization for Long-term Availability of Renewable JET fuel) wurde im Juni 2011 gestartet und wird von der Europäischen Union im Zuge ihres 7. Forschungsrahmenprogramms über eine Dauer von vier Jahren gefördert. Im ersten Schritt wurde die technische Machbarkeit der Herstellung von Flugzeugkraftstoff aus Sonnenlicht bewiesen. In der nächsten Projektphase wird es das Ziel der Partner sein, den Solarreaktor weiter zu optimieren sowie technische und wirtschaftliche Potenziale einer Umsetzung im industriellen Maßstab zu untersuchen. Die Forschungsergebnisse des Projektes SOLAR-JET werden einen bedeutenden Beitrag dazu leisten, Europa die Führungsposition für Forschung, Innovation und Produktion von nachhaltigem Treibstoff aus konzentrierter Sonnenenergie zu sichern.
-
-ETH Zürich Prof. Aldo Steinfeld Professur für Erneuerbare Energieträger Tel. +41 44 632 7929
-
-ETH Zürich Medienstelle Tel. +41 44 632 41 41
 

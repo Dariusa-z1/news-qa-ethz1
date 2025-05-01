@@ -1,5 +1,7 @@
 # a-sustainable-fuel-and-chemical-from-the-robotic-lab
 
+**Source:** en_news_events/2024/02/a-sustainable-fuel-and-chemical-from-the-robotic-lab.html
+
 ## In brief
 
 - A new fully automated research infrastructure is accelerating the development of chemical catalysts at ETH Zurich. Artificial intelligence is part of the workflow.

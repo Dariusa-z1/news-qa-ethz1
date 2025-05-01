@@ -1,5 +1,7 @@
 # new-earthquake-assessments-strengthen-preparedness-in-europe
 
+**Source:** en_news_events/2022/04/new-earthquake-assessments-strengthen-preparedness-in-europe.html
+
 ## Improved seismic hazard model
 
 During the 20th century, earthquakes in Europe accounted for more than 200,000 deaths and over 250 billion Euros in losses. Comprehensive earthquake hazard and risk assessments are crucial to reducing the effects of catastrophic earthquakes because earthquakes cannot be prevented nor precisely predicted.

@@ -1,5 +1,7 @@
 # fromer-swiss-federal-chancellor-thurnherr-appointed-eth-professor
 
+**Source:** en_news_events/2024/05/fromer-swiss-federal-chancellor-thurnherr-appointed-eth-professor.html
+
 ## In brief
 
 - In October 2024, former Federal Chancellor Walter Thurnherr will take up the post of Professor of Practice at the Department of Humanities, Social and Political Sciences at ETH Zurich.
@@ -22,11 +24,9 @@ Thurnherr can look back on a long career in the Swiss Federal Administration: af
 
 Given his background, Thurnherr is a perfect fit for the profile of a Professor of Practice. Created in 2022, this role is open to managers from industry, the healthcare sector or public administration whose proven expertise and extensive experience puts them in a position to expand the range of practical courses and knowledge transfer at ETH Zurich.
 
-Researchers at ETH Zurich already regularly put their expertise at the service of Swiss politics and administration. To support this exchange, ETH established a contact point for science policy engagement in 2022 and published corresponding guidelines. Thurnherr’s appointment will see a further expansion of these activities.
+To this end, a School of Public Policy is to be established at ETH Zurich by 2025, and Thurnherr will play a key role in setting it up. This new interdepartmental centre will pool policy-relevant research at the university, step up dialogue with policymakers at all levels and contribute to education and training in the field of policy analysis. ETH Zurich’s aim is for this to help achieve the best possible policymaking for Switzerland.
 
 ## Practical teaching on Swiss politics
-
-To this end, a School of Public Policy is to be established at ETH Zurich by 2025, and Thurnherr will play a key role in setting it up. This new interdepartmental centre will pool policy-relevant research at the university, step up dialogue with policymakers at all levels and contribute to education and training in the field of policy analysis. ETH Zurich’s aim is for this to help achieve the best possible policymaking for Switzerland.
 
 The former Federal Chancellor says: “We need to put in place more informal and institutional platforms to ensure that politicians have the scientific basis they need to make laws.” On the other hand, Thurnherr adds, researchers must respect the fact that politicians weigh up various interests and that the public ultimately decides by majority vote. “I’m convinced that this democratic process contributes to political stability,” he says.
 

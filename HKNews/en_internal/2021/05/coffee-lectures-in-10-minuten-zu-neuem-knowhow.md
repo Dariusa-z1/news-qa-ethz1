@@ -1,5 +1,7 @@
 # coffee-lectures-in-10-minuten-zu-neuem-knowhow
 
+**Source:** en_internal/2021/05/coffee-lectures-in-10-minuten-zu-neuem-knowhow.html
+
 ## How the Coffee Lectures work
 
 - Statista: statistics research made easy! – 2 June (in German)

@@ -1,5 +1,7 @@
 # pitchfork-and-drone
 
+**Source:** en_news_events/2019/09/pitchfork-and-drone.html
+
 ## The fourth agricultural revolution
 
 At the Research Station for Plant Sciences in Lindau, postdoctoral researcher Helge Aasen is piloting a large, black drone with six rotor blades. The drone is helping him to determine the phenotype – that is, quantify the characteristics – of 350 or so different wheat varieties under trial cultivation. Using the drone, he can do this with a speed and level of precision that, until recently, would have been inconceiv­able. The drone carries a 6-kilogram payload comprising a range of high-tech equipment. A thermal imaging camera measures the temperature of the wheat when the drone is airborne. This enables Aasen to calculate the degree of water evaporation. Two hyperspectral cameras serve to determine chlorophyll levels and therefore plant productivity. An RGB camera generates a 3D model of the crop, accurate to a matter of centimetres. This is used to calculate stalk height and leaf area. The latter is a crucial indicator of the level of resistance to pests displayed by any wheat variety. What Aasen is show­casing here is the future of farming. Indeed, drones and all the various high-tech cameras could one day form part of basic farmyard inventory.

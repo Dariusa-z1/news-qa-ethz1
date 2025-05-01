@@ -1,5 +1,7 @@
 # durch-die-haupthalle-stolpern
 
+**Source:** de_internal/2015/04/durch-die-haupthalle-stolpern.html
+
 ## Main article
 
 Stock und Stein, Treppen mit Hindernissen und Wege mit beweglichen Elementen: Im Stolperparcours der SUVA können ETH-Angehörige in den nächsten Tagen testen, wie trittsicher sie sind – und das in einem sicheren Rahmen.

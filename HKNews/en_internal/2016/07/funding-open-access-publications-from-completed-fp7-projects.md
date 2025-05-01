@@ -1,5 +1,7 @@
 # funding-open-access-publications-from-completed-fp7-projects
 
+**Source:** en_internal/2016/07/funding-open-access-publications-from-completed-fp7-projects.html
+
 ## Main article
 
 A maximum of EUR 2,000 for articles, book chapters and conference papers, and EUR 6,000 for monographs can be applied for to OpenAIRE subject to the following conditions:

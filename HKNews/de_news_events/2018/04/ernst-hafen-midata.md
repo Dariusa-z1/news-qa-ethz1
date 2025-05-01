@@ -1,5 +1,7 @@
 # ernst-hafen-midata
 
+**Source:** de_news_events/2018/04/ernst-hafen-midata.html
+
 ## Midata zeigt den Weg
 
 Im Zuge der Digitalisierung werden persönliche Daten zur gesuchten Ressource. Das Zusammenführen solcher Daten und die Analyse von Datensammlungen versprechen neue Zugänge für die medizinische Forschung. So können Smartphones und Sensoren (beispielsweise zur Messung des Blutzuckers oder des Blutdrucks) Real-Life-Daten liefern für Gesundheitsprävention, Therapie und Forschung.

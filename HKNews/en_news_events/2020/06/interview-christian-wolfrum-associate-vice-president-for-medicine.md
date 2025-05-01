@@ -1,5 +1,7 @@
 # interview-christian-wolfrum-associate-vice-president-for-medicine
 
+**Source:** en_news_events/2020/06/interview-christian-wolfrum-associate-vice-president-for-medicine.html
+
 ## Main article
 
 ETH News: ETH Zurich already has delegates, or Associate Vice Presidents, for sustainability, equal opportunities, digital transformation and global issues. Now there is a new Associate Vice President for Medicine. Why? Christian Wolfrum: Medicine is a key field at ETH. It has a long tradition of outstanding basic biomedical research, and the work ETH engineers do in the field of medical technology is top-notch. We began offering a Bachelor’s programme in human medicine three years ago. Together with the University of Zurich and the university hospitals, we are part of a strong medical cluster here in Zurich. But we can take medical research further at ETH, and it’s going to be my job to help develop medical research at ETH further and expand our network in this field.

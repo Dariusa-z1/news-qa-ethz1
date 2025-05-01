@@ -1,5 +1,7 @@
 # ki-entwirft-neue-medikamente-anhand-von-proteinstrukturen
 
+**Source:** de_news_events/2024/04/ki-entwirft-neue-medikamente-anhand-von-proteinstrukturen.html
+
 ## In Kürze
 
 - Forschende der ETH Zürich schufen eine generative künstliche Intelligenz (KI) für die Entwicklung von Wirkstoffmolekülen auf der Basis der dreidimensionalen Oberfläche von Proteinen, mit denen die Moleküle wechselwirken sollen.

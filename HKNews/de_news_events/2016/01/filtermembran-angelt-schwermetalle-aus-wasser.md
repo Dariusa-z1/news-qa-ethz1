@@ -1,5 +1,7 @@
 # filtermembran-angelt-schwermetalle-aus-wasser
 
+**Source:** de_news_events/2016/01/filtermembran-angelt-schwermetalle-aus-wasser.html
+
 ## Schwermetalle effizient filtern
 
 Brasilien erlebte im November 2015 ein Umwelt-Desaster sondergleichen. Zwei Staudämme einer Eisenerzmine brachen, eine giftige, schwermetallhaltige Brühe ergoss sich in den Rio Doce und erreichte nach Tagen den Atlantik. Die Folgen für Natur und Mensch sind verheerend: Unzählige Fische, Vögel, Haustiere starben, eine Viertelmillion Menschen hat kein Trinkwasser mehr.

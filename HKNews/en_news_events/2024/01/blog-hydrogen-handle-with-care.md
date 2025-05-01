@@ -1,5 +1,7 @@
 # blog-hydrogen-handle-with-care
 
+**Source:** en_news_events/2024/01/blog-hydrogen-handle-with-care.html
+
 ## About the author
 
 When produced and used properly, hydrogen can potentially play many roles in the transition towards clean energy and industrial systems. Hydrogen can directly replace natural gas and coal in industrial and manufacturing processes where high temperatures are needed, replace natural gas and heating oil to keep buildings warm, and replace gasoline and diesel fuel to power cars and trucks.

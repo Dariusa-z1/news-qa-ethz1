@@ -1,5 +1,7 @@
 # ein-feigenbaum-zum-abschied
 
+**Source:** de_internal/2016/06/ein-feigenbaum-zum-abschied.html
+
 ## «Es war superschön, mit euch zu arbeiten.»
 
 Ihre letzte Sitzung vor der Sommerpause verbindet die Hochschulversammlung der ETH Zürich jeweils mit einem Grillfest für Gäste und Mitglieder. Diesmal trafen sich die Vertreterinnen und Vertreter der vier Hochschulgruppen am 2. Juni 2016 im Forsthaus Uitikon Waldegg auf dem Üetliberg.

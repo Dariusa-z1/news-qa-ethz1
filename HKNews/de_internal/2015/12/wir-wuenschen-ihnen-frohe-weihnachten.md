@@ -1,5 +1,7 @@
 # wir-wuenschen-ihnen-frohe-weihnachten
 
+**Source:** de_internal/2015/12/wir-wuenschen-ihnen-frohe-weihnachten.html
+
 ## Main article
 
 Liebe Leserinnen und Leser

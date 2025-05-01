@@ -1,5 +1,7 @@
 # continuing-education
 
+**Source:** en_news_events/2019/10/continuing-education.html
+
 ## Three new CAS programmes in applied technology
 
 Many continuing education programmes at ETH Zurich serve niche areas in which the university’s resources are able to fill certain gaps. As a result, over time 52 programmes have developed. Six of these programmes will be offered for the first time next year at the ETH Zurich School for Continuing Education. Three of the new programmes are aimed at professionals in specialist sectors, with the other three designed for a broad group of managers.

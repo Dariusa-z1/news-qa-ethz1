@@ -1,5 +1,7 @@
 # online-unterricht-braucht-neue-didaktische-konzepte
 
+**Source:** de_internal/2020/03/online-unterricht-braucht-neue-didaktische-konzepte.html
+
 ## Main article
 
 Lesen Sie das Interview auf den Seiten des D-INFK:

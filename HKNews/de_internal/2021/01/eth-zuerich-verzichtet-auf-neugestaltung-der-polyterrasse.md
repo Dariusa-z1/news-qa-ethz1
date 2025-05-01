@@ -1,5 +1,7 @@
 # eth-zuerich-verzichtet-auf-neugestaltung-der-polyterrasse
 
+**Source:** de_internal/2021/01/eth-zuerich-verzichtet-auf-neugestaltung-der-polyterrasse.html
+
 ## Prioritäten setzen aufgrund der Finanzentwicklung
 
 Die ETH Zürich hat eine starke Wachstumsphase hinter sich: Die Studierendenzahlen sind gestiegen (+35 Prozent seit 2010). Entsprechend wurde der Lehrkörper stellenmässig ausgebaut (+22 Prozent nach Vollzeitäquivalenten seit 2010) und es wurden zahlreiche junge Professuren eingerichtet, die neue Forschungsfelder in gesellschaftlich relevanten Zukunftsthemen erschliessen (z.B. Künstliche Intelligenz, Gesundheitswissenschaften, Quantentechnologie).

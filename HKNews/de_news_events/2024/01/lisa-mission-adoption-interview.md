@@ -1,5 +1,7 @@
 # lisa-mission-adoption-interview
 
+**Source:** de_news_events/2024/01/lisa-mission-adoption-interview.html
+
 ## Main article
 
 Die Mission LISA (Laser Interferometer Space Antenna) zur Erforschung von Gravitationswellen im Weltall hat die Vorstudien und Überprüfung erfolgreich abgeschlossen: Das gesamte Konzept, von der Definition der wissenschaftlichen Instrumente und des Betriebssystems bis hin zu den Geräten, die für den Einsatz im Weltall gebaut werden müssen, hielt der intensiven Prüfung der Gutachter im Rahmen der «Mission Adoption Review» stand. Das Science Programme Committee der ESA (European Space Agency) hat am 25. Januar offiziell bestätigt, dass LISA ausreichend ausgereift ist und die Entwicklung der Mission wie geplant fortgesetzt werden kann. Somit hat die Mission die Freigabe zur Umsetzung.

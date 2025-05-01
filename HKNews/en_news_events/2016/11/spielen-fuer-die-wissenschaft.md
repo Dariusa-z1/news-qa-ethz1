@@ -1,5 +1,7 @@
 # spielen-fuer-die-wissenschaft
 
+**Source:** en_news_events/2016/11/spielen-fuer-die-wissenschaft.html
+
 ## Main article
 
 Are there still fundamental doubts regarding quantum mechanics? Quantum mechanics postulates a number of phenomena that seem very peculiar and contrary to our everyday experiences; for example, it asserts that the properties of objects change as soon as we observe them. Albert Einstein simply could not reconcile himself to this idea, whereas Nils Bohr accepted the strange behaviour. At that time, quantum mechanics was still the subject of fierce debate.

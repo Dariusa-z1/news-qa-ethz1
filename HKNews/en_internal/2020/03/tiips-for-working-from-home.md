@@ -1,5 +1,7 @@
 # tiips-for-working-from-home
 
+**Source:** en_internal/2020/03/tiips-for-working-from-home.html
+
 ## How can I provide structure to my day?
 
 - Start your working day with purpose and stick to the same morning routine as much as possible. Get dressed as if you were going to the office as usual.

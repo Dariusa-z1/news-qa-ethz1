@@ -1,5 +1,7 @@
 # sechs-professorinnen-und-professoren-ernannt
 
+**Source:** de_news_events/2024/07/sechs-professorinnen-und-professoren-ernannt.html
+
 ## Neuernennungen
 
 (Bild: © Moritz Drupp)

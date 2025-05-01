@@ -1,5 +1,7 @@
 # sustainable-superfood
 
+**Source:** en_news_events/2020/01/sustainable-superfood.html
+
 ## Fast growing and healthy too
 
 Best described as light green, with a taste reminiscent of bean sprouts and a pleasantly grainy texture, Wolffia is one of five genera of a plant commonly known as duckweed or “water lentils”. It is also the most easily digestible, as Cyrill Hess explains at an impromptu tasting in a basement-level environmental chamber at ETH Zurich’s Department of Environmental Systems Science. Just before, Hess had used a sieve to skim the Wolffia off the water in a wooden basin in front of the tasters . The grass-green carpet floats atop an aqueous nutrient solution that is continually cleaned by a pump. In the environmental chamber, scientists can precisely control temperature, humidity and lighting conditions. Hess started cultivating the Wolffia two weeks ago on a water surface measuring about five square meters. On a good day, he skims off 1.5 kilogrammes of this “green caviar” – that’s what he calls the product that his start-up, LemnaPro, is working on.

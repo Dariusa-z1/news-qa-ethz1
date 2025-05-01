@@ -1,5 +1,7 @@
 # vorwaerts-ohne-testate
 
+**Source:** de_internal/2016/12/vorwaerts-ohne-testate.html
+
 ## Auswertung der Versuchsphase
 
 Jahrzehntelang prägten sie den Studierendenalltag: die Testate. Gestern hat ETH-Rektorin Sarah Springman in Absprache mit der Schulleitung formell beschlossen, dass die Lehre an der ETH Zürich künftig definitiv ohne Testate auskommt. Damit bringt Springman ein Geschäft zum Abschluss, das ihre Vor-Vorgängerin Heidi Wunderli-Allenspach angestossen hatte.

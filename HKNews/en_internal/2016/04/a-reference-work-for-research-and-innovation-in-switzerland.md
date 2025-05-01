@@ -1,5 +1,7 @@
 # a-reference-work-for-research-and-innovation-in-switzerland
 
+**Source:** en_internal/2016/04/a-reference-work-for-research-and-innovation-in-switzerland.html
+
 ## Main article
 
 Johann N. Schneider-Ammann. (Photo: Alessandro Della Bella)

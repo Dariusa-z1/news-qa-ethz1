@@ -1,5 +1,7 @@
 # erste-erkenntnisse-aus-der-befragung-zu-future-of-work
 
+**Source:** de_internal/2023/06/erste-erkenntnisse-aus-der-befragung-zu-future-of-work.html
+
 ## Zentrale Ergebnisse aus der Befragung
 
 - Flexibles Arbeiten soll weiter zugelassen und gefördert werden: Ein Grossteil der Umfrageteilnehmenden arbeitet bereits hybrid und wünscht sich diese Arbeitsform auch weiterhin. Homeoffice soll daher auch weiterhin eine mögliche Arbeitsweise an der ETH sein, und zukünftig noch verstärkt gefördert werden.

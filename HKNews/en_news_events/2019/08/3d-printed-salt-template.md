@@ -1,5 +1,7 @@
 # 3d-printed-salt-template
 
+**Source:** en_news_events/2019/08/3d-printed-salt-template.html
+
 ## Scaffolds made of magnesium
 
 For the treatment of complex bone fractures or even missing bone parts, surgeons typically deploy metal implants. In this context, an attractive alternative to the traditional materials like bioinert titanium are biodegradable magnesium and its alloys. Implants made of the latter light metal are advantageous because they can biodegrade in the body, which can absorb magnesium as a mineral nutrient, rendering a second surgery for implant removal unnecessary. To promote rapid healing, the design of implants or their surfaces should be directed towards promotion of cellular adhesion or even in-growth. Materials researchers from the Laboratory of Metal Physics and Technology and the Complex Materials Group at ETH Zurich have therefore collaborated to develop a new procedure for the manufacture of magnesium implants that contain numerous structurally ordered pores but still retain their mechanical stability. This development is the subject of a forthcoming article in Advanced Materials .

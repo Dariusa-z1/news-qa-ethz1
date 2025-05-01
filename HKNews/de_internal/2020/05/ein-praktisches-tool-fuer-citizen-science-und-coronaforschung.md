@@ -1,5 +1,7 @@
 # ein-praktisches-tool-fuer-citizen-science-und-coronaforschung
 
+**Source:** de_internal/2020/05/ein-praktisches-tool-fuer-citizen-science-und-coronaforschung.html
+
 ## Mit der Intelligenz von Mensch und Maschine
 
 Viele wissenschaftliche Studien untersuchen derzeit, wie man das Coronavirus und die Krankheit COVID-19 eindämmen kann. Sie alle zu lesen und dann den politischen Entscheidungsträgern schnell eine Gesamtzusammenfassung mit allen nützlichen Informationen bereitzustellen, ist unmöglich.

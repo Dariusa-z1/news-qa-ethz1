@@ -1,5 +1,7 @@
 # stabil-in-allen-moeglichen-formen
 
+**Source:** de_news_events/2022/10/stabil-in-allen-moeglichen-formen.html
+
 ## Bemerkenswert einfache Lösung
 
 Seit längerem tüfteln Forscherinnen und Forscher an Materialien, die je nach Bedarf verschiedene stabile Formen annehmen können. Ziel dieser sogenannt multistabilen Strukturen ist es, Objekte zu bauen, deren dreidimensionale Gestalt sich je nach Bedarf dauerhaft verändern lässt. Damit könnte man beispielsweise anpassungsfähige Fassadenelemente bauen oder grosse Objekte, die sich einfach platzsparend transportieren lassen.

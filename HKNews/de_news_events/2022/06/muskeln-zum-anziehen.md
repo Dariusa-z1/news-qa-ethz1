@@ -1,5 +1,7 @@
 # muskeln-zum-anziehen
 
+**Source:** de_news_events/2022/06/muskeln-zum-anziehen.html
+
 ## So viel Kraft wie nötig
 
 «In den Armen bin ich einfach zunehmend schwach», sagt Michael Hagmann, bei dem 2016 Bethlem-Myopathie diagnostiziert wurde, eine seltene Muskelerkrankung. Um die fehlende Muskelkraft in den Armen zu kompensieren, macht Hagmann im Alltag Ausweichbewegungen, die wiederum zu einer unguten Haltung und Verspannungen führen. Marie Georgarakis, ehemalige Doktorandin am Sensory-Motor Systems Lab der ETH Zürich, kennt das Problem. «Mittlerweile gibt es zwar viele gute Therapiegeräte in Kliniken. Diese sind aber oft sehr teuer und gross. Technische Hilfsmittel, die Patient:innen direkt im Alltag unterstützen und mit denen sie auch daheim trainieren können, gib es dagegen weniger. Diese Lücke wollen wir schliessen», sagt Georgarakis.

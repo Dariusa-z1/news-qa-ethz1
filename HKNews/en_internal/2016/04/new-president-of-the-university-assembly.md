@@ -1,5 +1,7 @@
 # new-president-of-the-university-assembly
 
+**Source:** en_internal/2016/04/new-president-of-the-university-assembly.html
+
 ## CubETH on BBC
 
 Werner Wegscheider, Professor of Solid State Physics and Deputy Head of the Laboratory for Solid State Physics at ETH Zurich (D-PHYS) is the new President of the ETH Zurich University Assembly (UA). He has already represented the interests of ETH lecturers as a member of the Lecturers' Conference (KdL).

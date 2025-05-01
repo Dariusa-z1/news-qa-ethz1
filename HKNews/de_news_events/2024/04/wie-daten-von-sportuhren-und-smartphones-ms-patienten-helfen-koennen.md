@@ -1,5 +1,7 @@
 # wie-daten-von-sportuhren-und-smartphones-ms-patienten-helfen-koennen
 
+**Source:** de_news_events/2024/04/wie-daten-von-sportuhren-und-smartphones-ms-patienten-helfen-koennen.html
+
 ## In Kürze
 
 - Damit Ärzt:innen Patient:innen mit Multipler Sklerose (MS) eine passende Therapie vorschlagen können, sind sie auf verlässliche Angaben zu Beschwerden und zum Krankheitsverlauf angewiesen.

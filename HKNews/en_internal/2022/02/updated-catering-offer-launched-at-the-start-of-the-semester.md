@@ -1,5 +1,7 @@
 # updated-catering-offer-launched-at-the-start-of-the-semester
 
+**Source:** en_internal/2022/02/updated-catering-offer-launched-at-the-start-of-the-semester.html
+
 ## Reopened businesses
 
 - bQm 14:00 - 22:30

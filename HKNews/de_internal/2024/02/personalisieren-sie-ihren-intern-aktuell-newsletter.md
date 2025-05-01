@@ -1,5 +1,7 @@
 # personalisieren-sie-ihren-intern-aktuell-newsletter
 
+**Source:** de_internal/2024/02/personalisieren-sie-ihren-intern-aktuell-newsletter.html
+
 ## Stellen Sie Ihren Newsletter zusammen
 
 - Institutionelles: News der Schulleitung; Informationen zur Hochschulstrategie oder zur Organisation der ETH; Personalia; Informationen aus Gremien wie der Hochschulversammlung oder der Personalkommission
@@ -17,6 +19,8 @@
 - Ehrungen und Preise: Informationen dazu, welche ETH-Angehörigen kürzlich eine Ehrung oder einen Preis erhalten haben.
 
 - Tipps und Tricks: Neuste Artikel aus der Rubrik «Tipps und Tricks» für den Arbeitsalltag an der ETH.
+
+Übrigens: Als derzeitige Abonnentin oder derzeitiger Abonnent des Intern-aktuell-Newsletters sind Sie zurzeit automatisch für alle Themen eingeschrieben. Und wer den Newsletter von Intern aktuell noch gar nicht abonniert hat, kann dies hier nachholen .
 
 ## Mit einem Klick zum personalisierten Newsletter
 

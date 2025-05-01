@@ -1,5 +1,7 @@
 # news-from-the-executive-board-2022-5
 
+**Source:** en_internal/2022/06/news-from-the-executive-board-2022-5.html
+
 ## Social and leadership skills for ETH employees
 
 - Acting responsibly

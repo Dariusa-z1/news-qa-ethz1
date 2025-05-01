@@ -1,5 +1,7 @@
 # informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-1-maerz-2021
 
+**Source:** en_internal/2021/02/informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-1-maerz-2021.html
+
 ## Locations and opening hours
 
 - In the main building and Architecture and Civil Engineering Library, it is possible to borrow and return documents from all locations. Short searches and consultations can also take place in compliance with distance and hygiene regulations.
@@ -34,11 +36,9 @@ Face masks must be worn in all ETH buildings. The social distancing and hygiene 
 
 ## Subscribe to Newsletter
 
-You can also continue to make use of our digital resources and contact options . Please do not visit the library if you belong to an at-risk group or are feeling unwell.
+Any questions? The ETH Library will be happy to help.
 
 ## Staffnet
-
-Any questions? The ETH Library will be happy to help.
 
 E-mail: You can also get in touch with us via WhatsApp or our chat function.
 

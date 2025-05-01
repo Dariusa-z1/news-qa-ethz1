@@ -1,5 +1,7 @@
 # prozessinnovationen-in-schweizer-firmen
 
+**Source:** en_news_events/2016/11/prozessinnovationen-in-schweizer-firmen.html
+
 ## Main article
 
 The KOF Swiss Economic Institute has been conducting regular innovation surveys of around 6,000 Swiss businesses since the 1990s. The primary aim of the study is to establish how companies utilise access to external knowledge and modern information and communication technologies (ICT) – as these factors aid process innovation with a view to lowering production costs. In their interview with ETH News, Georg von Krogh, Chair of Strategic Management and Innovation and author of the study, and co-author Martin Wörter, Head of the Research Division Innovation Economics at the KOF, explain how good Swiss companies actually are at process innovation.

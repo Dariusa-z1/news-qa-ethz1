@@ -1,5 +1,7 @@
 # how-we-benefit-from-variety
 
+**Source:** en_internal/2014/04/how-we-benefit-from-variety.html
+
 ## Variety as part of education
 
 My life changed at many levels when I switched from grammar school to ETH: suddenly, I was no longer a pupil amongst 20 classmates, but a student amongst 400 students I did not know; suddenly, I was able to do whatever I wanted, nobody checked whether I was attending a lecture or drinking coffee and playing cards with friends at Polysnack.

@@ -1,5 +1,7 @@
 # blog-strassen-kongo-regenwald-kleinschroth
 
+**Source:** de_news_events/2019/06/blog-strassen-kongo-regenwald-kleinschroth.html
+
 ## Wegbereiter der Urwaldrodung
 
 Die Vielfalt an Schmetterlingen, die am Kühlergrill des Holzfällertrucks kleben, steht symbolisch für den komplexen Konflikt zwischen ökonomischer Entwicklung und Naturschutz im kongolesischen Regenwald. Hier, im Norden der Republik Kongo, werden gerade bestehende Forststrassen zu einem Teilstück des «Transafrikanischen Autobahnnetzes» ausgebaut. Die neue Strasse wird als erste Süd-Nord-Verbindung direkt durch ursprünglichen Regenwald führen. Der Fahrer des Holzfällertrucks, dem ich 2017 auf einer Forschungsreise begegnete, war jedenfalls begeistert von der guten Qualität der Fahrbahn, die es ihm nun erlaubt, mit 120 km/h durch den Dschungel zu rasen.

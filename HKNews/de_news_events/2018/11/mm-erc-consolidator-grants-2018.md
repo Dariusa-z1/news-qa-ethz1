@@ -1,5 +1,7 @@
 # mm-erc-consolidator-grants-2018
 
+**Source:** de_news_events/2018/11/mm-erc-consolidator-grants-2018.html
+
 ## Unterstützung wirkt
 
 Noch nie haben Forschende der ETH Zürich in einer Vergaberunde so viele ERC Consolidator Grants einwerben können wie dieses Mal. Bemerkenswert ist zudem die hohe Erfolgsquote: Von insgesamt 18 Eingaben kamen zwei Drittel in die zweite Runde. Davon wiederum erhielten 11 die höchste Bewertung, ein A-Score (61,1 %), und zehn wurden schliesslich bewilligt. Dies entspricht einer Erfolgsquote von 55,5 Prozent. Bislang lag die durchschnittliche Erfolgsquote bei den Consolidator Grants bei knapp 38 Prozent.
@@ -12,9 +14,9 @@ EU Grants Access unterstützt und berät die Wissenschaftler rund um Bewerbungen
 
 Erfolgreich beworben um einen europäischen Grant hat sich zudem Eleni Chatzi, Professorin für Strukturmechanik. Im September erhielt sie einen Proof of Concept-Grant. Dieser erlaubt es ihr, Machbarkeitsstudien und Businesspläne zu früheren Ideen umzusetzen. Der PoC-Grant ist mit rund 130'000 Franken dotiert.
 
-Die zehn Projekte im Überblick:
-
 ## Messlatte für Spitzenforschende: ERC Grants
+
+Die zehn Projekte im Überblick:
 
 Einer der Forschungsschwerpunkte von Paolo Crivelli ist die Physik exotischer Atome, die vollständig aus Antimaterie wie Antiwasserstoff oder aus Positronium (Elektron-Positron) und Myonium (Elektron-Anti-Myon) bestehen. Diese Systeme erlauben es, das Standardmodell der Teilchenphysik ergänzend zu Hochenergie-Experimenten zu testen. Ein genauer Vergleich der Materie-Antimaterie-Systeme könnte die beobachtete Asymmetrie in unserem Universum erklären. Ziel von Crivellis ERC-Projekts ist es, die Natur von Myonen und Myonium in einer bisher unerreichten Genauigkeit zu erforschen. Dies könnte den Schlüssel zur Beantwortung grundlegender Fragen liefern, wie etwa weshalb die Materie das Universum dominiert. Das Experiment wird an der weltweit stärksten kontinuierlichen Myonenquelle am Paul Scherrer Institut durchgeführt.
 
@@ -24,11 +26,11 @@ Jonathan Home wird in seinem ERC-Projekt eine neue Methode untersuchen, mit der 
 
 Im Zuge der Digitalisierung unterstützen lernende Systeme zunehmend Entscheidungen. Solche lernenden Systeme erforscht Informatikprofessor Andreas Krause . In seinem ERC-Projekt will er neue «Reinforcement Learning»-Verfahren mit einer bisher unerreichten Zuverlässigkeit entwickeln. Der Ansatz verknüpft moderne Resultate des maschinellen Lernens mit Techniken der robusten Optimierung und effizienten Algorithmen. Sorgfältige Modellierung der Unsicherheit ermöglicht es, vorsichtig zu agieren, aber dennoch mit zunehmenden Daten bessere Entscheidungen zu treffen. Die Lernverfahren haben vielfältige potenzielle Einsatzmöglichkeiten von der Robotik bis hin zu medizinischen, industriellen und wissenschaftlichen Anwendungen.
 
+## Kontakt
+
 Der Chemiker Maksym Kovalenko erforscht Metallhalogenide, welche mit Strom oder durch optische Anregung zum Leuchten gebracht werden können. In seinem ERC-Projekt nutzt er Chemieingenieur-Ansätze, um die optischen Eigenschaften dieser Materialien zu verändern. Das Ziel ist, ungiftige Lichtquellen für eine grosse Reihe von Anwendungen zu entwickeln, unter anderem als Nanokristalle, dünne Filme und Verbundwerkstoffe. Diese könnten in Bildschirmen, Solarzellen, Bilddetektoren und Messgeräten für Radioaktivität zum Einsatz kommen oder für zukünftige Quantenkommunikationstechnologien.
 
 Christoph Müller entwickelt neuartige Katalysatoren und Materialien für die CO 2 -Abscheidung. Mit seinem ERC-Grant will er die Fähigkeit von Erdalkalimetalloxiden verbessern, CO 2 mit einer hohen Rate und Kapazität abzutrennen und über viele Zyklen zu regenerieren. Müllers Gruppe wird hierzu Modellsysteme herstellen und deren Struktur und Oberflächenchemie im Detail charakterisieren. Die gewonnenen Erkenntnisse sollen es ermöglichen, verbesserte CO 2 -Absorber herzustellen mit dem Ziel, die Kosten der CO 2 -Abscheidung zu senken.
-
-## Kontakt
 
 Nicolas Noiray forscht in den Bereichen Strömungsmechanik für Anwendungen in der Energieerzeugung und Luftfahrt. Im Rahmen seines ERC-Projekts möchte er neue passive und aktive Regelungstechnologien entwickeln, um schädliche thermoakustische Instabilitäten in zukünftigen Gasturbinen-Brennkammern zu vermeiden. Dies soll einerseits durch die Entwicklung von Metamaterialien geschehen, die über eine breitbandige akustische Dämpfung unter den anspruchsvollen Betriebsbedingungen verfügen. Andererseits soll durch die Anwendung von Plasma die Selbstzündung verbessert werden. Diese grossen Gasturbinenkraftwerke produzieren mehrere hundert Megawatt elektrische Leistung. Die spezielle Brennkammerarchitektur ermöglicht die Verbrennung von Wasserstoff aus Power-to-Gas-Technologien, die in zukünftigen nachhaltigen Energienetzwerken eingesetzt werden könnten.
 
@@ -39,6 +41,4 @@ Mehmet Fatih Yanik interessiert sich für das Gehirn und wie Hirn-Computer-Schni
 Bei vielen Entscheidungsproblemen liegen nur unvollständige Informationen vor, und es kommen laufend neue Informationen und Schätzungen über die Zukunft dazu – man spricht von Online-Optimierungen. Die Entscheidungen von Wasserkraftwerkbetreibern, wann es sich für sie wirtschaftlich lohnt, Strom zu produzieren, sind ein Beispiel hierfür. Bei solchen komplexen Problemen ist es oft nicht möglich, die beste Lösung in vernünftiger Zeit zu finden. Deshalb entwickelt der Mathematiker Rico Zenklusen in seinem ERC-Projekt automatisierte Methoden mit neuartigen Algorithmen. Die Ergebnisse sollen grundlegende Fragen der Optimierung beantworten, die für die angewandte Mathematik und für die theoretische Informatik relevant sind. Ausserdem untersucht er Probleme, für die nur ganzzahlige Lösungen in Frage kommen, wie Stückzahlen in der Produktion.
 
 ETH-Forscherinnen und -Forscher bewerben sich seit 2007 erfolgreich um Fördermittel der Europäischen Union, die ERC Research Grants. Neben den Consolidator Grants für arrivierte Forschende zum weiteren Aufbau einer eigenen Gruppe vergibt der Europäische Forschungsrat alljährlich auch Starting Grants für Nachwuchsforschende zu Beginn ihrer Karriere und Advanced Grants für etablierte Forscherinnen und Forscher. Ausserdem zeigen ERC Proof of Concepts, die in der Vergangenheit zahlreich an die ETH Zürich vergeben wurden, dass Grundlagenforschung oft in Marktinnovationen mit entsprechendem volkswirtschaftlichem Nutzen ihre Anwendung findet. Der Europäische Forschungsrat ist Teil des europäischen Forschungs- und Innovationsprogramms Horizon 2020 (2014-2020). Die Schweiz ist seit dem 1. Januar 2017 wieder vollständig an Horizon 2020 assoziiert.
-
-ETH Zürich Medienstelle Telefon: +41 44 632 41 41
 

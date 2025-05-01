@@ -1,5 +1,7 @@
 # zellulaeres-kraeftemessen
 
+**Source:** de_news_events/2016/09/zellulaeres-kraeftemessen.html
+
 ## Elastische Unterlage
 
 Ein interdisziplinäres Team von Wissenschaftlern der ETH Zürich hat eine neue Mikroskopietechnik entwickelt. Damit können die Forschenden sehr detailliert Kräfte messen, welche biologische Zellen aufbringen, wenn diese wachsen, ihre Form ändern oder sich fortbewegen. Bei der neuen Methode handelt es sich um eine Weiterentwicklung der Traktionskraftmikroskopie (engl. traction force microscopy, TFM). Damit können Forscher diese Zellkräfte einfacher und höher aufgelöst messen als mit bisherigen Verfahren.

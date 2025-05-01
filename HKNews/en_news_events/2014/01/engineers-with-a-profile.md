@@ -1,5 +1,7 @@
 # engineers-with-a-profile
 
+**Source:** en_news_events/2014/01/engineers-with-a-profile.html
+
 ## Lots of practical experience
 
 Engineers are in demand in the labour market, and if they have an ETH degree all the more so. But in addition to an excellent education, having practical experience, social skills and a good network often decide whether graduates find jobs or not.

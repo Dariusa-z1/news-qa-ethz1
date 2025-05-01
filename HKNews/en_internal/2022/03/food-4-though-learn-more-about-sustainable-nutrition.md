@@ -1,5 +1,7 @@
 # food-4-though-learn-more-about-sustainable-nutrition
 
+**Source:** en_internal/2022/03/food-4-though-learn-more-about-sustainable-nutrition.html
+
 ## Workshops
 
 The Food4Thought trade fair will be held from 3 to 5 April on Hönggerberg campus. The event focuses on climate-friendly nutrition: visitors can get inspired by ETH spin-offs, start-ups and student projects and learn about practical concepts and real-life products that can help them eat in a more climate- and environmentally-friendly way.

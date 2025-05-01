@@ -1,5 +1,7 @@
 # eth-is-dancing-with-google-tango
 
+**Source:** en_news_events/2014/07/eth-is-dancing-with-google-tango.html
+
 ## Virtual and real world combined
 
 A smartphone that can navigate you through a shopping centre and straight to the cereal aisle. A device that shows us how a sofa we have not yet purchased will actually look in our living room. Technology that can lead the blind much in the way that guide dogs do today. All of this could soon be a reality. A project group at internet giant Google is working with hardware manufacturers, public research institutions and others to develop this type of mobile device along with the necessary software. ETH professors Marc Pollefeys and Roland Siegwart and their staff are playing a major role in this initiative, codenamed Project Tango.
@@ -12,11 +14,13 @@ Google has already produced prototypes that scientists from ETH Zurich are using
 
 “The possibilities of this device and the 3D data it delivers are limitless,” says Roland Siegwart, Professor of Autonomous Systems and Vice President of Research and Corporate Relations at ETH Zurich. “An incredible number of apps could be developed based on this technology. It remains to be seen what these will be.” The device may also open up entirely new possibilities for applications such as computer games. For example, the virtual content of games could be combined on the screen with the real surroundings captured by the camera. Gamers could use their mobile phones to navigate their way through virtually enhanced real environments, with virtual characters and objects moving with them on the screen. This combination of virtual and real worlds might also be useful for interior design visualisations.
 
+Users can also use the technology to create their own 3D maps or download maps created by others and then use them on their devices. The device compares the surroundings with stored map data in order to determine the location, enabling GPS-like navigation even indoors. In contrast, GPS does not work indoors because the necessary satellite data cannot be received.
+
 Simon Lynen, PhD student at ETH, maps the streets of Zurich with a prototype helmet-mounted device. (Screenshot: Google ATAP Project Tango)
 
-Simon Lynen, a PhD student in Siegwart’s group, is involved in developing the map function for the Tango device. Using a prototype device mounted on a bicycle helmet, he has mapped the streets of Zurich with this function, showing how the technology can also be used to navigate outdoor routes over many kilometres. “Our technology offers a clear advantage over current GPS technology outdoors too. GPS only provides the location, whereas our technology detects the viewing direction of the cameras,” says Lynen. By way of example, this enables information to be displayed depending on the viewing direction. In addition, the new technology is expected to 10 times more effective than GPS at determining location, at least within the limited scope of existing maps.
-
 ## Error correction
+
+Simon Lynen, a PhD student in Siegwart’s group, is involved in developing the map function for the Tango device. Using a prototype device mounted on a bicycle helmet, he has mapped the streets of Zurich with this function, showing how the technology can also be used to navigate outdoor routes over many kilometres. “Our technology offers a clear advantage over current GPS technology outdoors too. GPS only provides the location, whereas our technology detects the viewing direction of the cameras,” says Lynen. By way of example, this enables information to be displayed depending on the viewing direction. In addition, the new technology is expected to 10 times more effective than GPS at determining location, at least within the limited scope of existing maps.
 
 The ability of the device to determine the location in just a fraction of a second after starting the device (or whenever necessary) via comparison with the stored map is also based on ETH expertise. PhD students at ETH are also currently working on a solution that allows the device to capture 3D data from the surroundings when it cannot process the projected infrared pattern – for example, due to intense sunlight. “To do this, the device uses a sequence of ‘normal’ camera images to capture the depth data much in the way we do by moving our heads,” explains Marc Pollefeys, a professor in the Department of Computer Science.
 

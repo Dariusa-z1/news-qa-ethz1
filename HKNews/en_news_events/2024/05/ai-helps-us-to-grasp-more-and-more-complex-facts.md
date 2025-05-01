@@ -1,5 +1,7 @@
 # ai-helps-us-to-grasp-more-and-more-complex-facts
 
+**Source:** en_news_events/2024/05/ai-helps-us-to-grasp-more-and-more-complex-facts.html
+
 ## Main article
 
 Joachim Buhmann, why did you become a scientist? Buhmann: There is a great answer from Luc Ferry, a French philosopher and former Minister of Education. It's about the question of why people want to leave something behind after they die. This can be achieved by producing and raising offspring or educating and inspiring others as teachers. According to Ferry, however, the greatest legacy is left by scientists, as they make a lasting contribution to humanity as a whole through the knowledge they gain. Whether I was successful or not is for others to judge, and that may only become clear later. However, I believe that as a scientist I have at least tried to answer important questions and gain new insights, and some of my doctoral students have certainly taken away new knowledge that they have then developed further.
@@ -27,8 +29,6 @@ Do you view these developments in the field of artificial intelligence with conc
 At ETH Zurich, you were both a researcher and a lecturer and took on some administrative roles. How do you look back on your time as Vice Rector? Buhmann: You are confronted with questions that are at the interface between the preconceived set of rules and an empathetic, ethically correct assessment of individual cases. The decisions you make can result in significant restrictions on someone's life options. For example, you must decide whether a student should be expelled from their programme. This must be grounded on a very good reason rather than the randomness of any given processes. The role of Vice Rector was certainly a challenge, but I think I was able to contribute reasonable solutions.
 
 What have you learned during your time as Vice Rector? Buhmann: First and foremost, I became a scientist to do research. However, in addition to producing new knowledge, as a university lecturer I also have the responsibility to pass on existing knowledge. During my time as Vice Rector, I learned that the university's priority is always teaching, and that research comes second. However, as the quality of research is easier to measure, it is often given more importance than teaching. Students at universities should first and foremost be trained to become intelligent problem solvers who can make reasonable decisions even in conditions of great uncertainty – regardless of whether they go on to work in industry or stay in academia.
-
-You are retiring in July. Do you have any concrete plans? Buhmann: My family is relatively large. We are expecting our eighth grandchild soon. I'm sure I'll have a few tasks ahead of me. Professionally, I haven't prepared myself for a direct follow-​up job and I'm not actively looking for one. However, I would like to maintain my contacts with the institute and try to make myself useful as an emeritus professor. I also think that I will continue to do research, but probably less than now. I would also like to contribute my time and expertise to public relations work to support society in this digital transition.
 
 Read the interview in full on the website of the Department of Computer Science.
 

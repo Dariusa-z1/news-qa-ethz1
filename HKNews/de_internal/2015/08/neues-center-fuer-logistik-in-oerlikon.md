@@ -1,5 +1,7 @@
 # neues-center-fuer-logistik-in-oerlikon
 
+**Source:** de_internal/2015/08/neues-center-fuer-logistik-in-oerlikon.html
+
 ## Main article
 
 Der Umzug von 16 Mitarbeitenden in das Gebäude ONA in Oerlikon hat am 3. August 2015 begonnen. Bereits zwei Wochen später läuft die Verarbeitung und Lagerung sämtlicher Post- und Büromaterial-Sendungen der ETH-Standorte Zentrum und Hönggerberg über das neue Kompetenzzentrum für Logistikdienstleistungen.

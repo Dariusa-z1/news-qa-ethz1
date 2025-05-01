@@ -1,5 +1,7 @@
 # the-device-with-the-fine-nose
 
+**Source:** en_news_events/2016/01/the-device-with-the-fine-nose.html
+
 ## New metabolic molecules detected
 
 When it comes to measuring the smallest traces of volatile chemical compounds in the air, the analysis devices in Pablo Sinues' laboratory are among the most sensitive in the world. They can find the proverbial needle in a haystack: the detection limit for airborne volatile compounds is around a concentration of one trillionth, yet in real time. For example, with an air analysis it is possible to detect hidden explosives in a freight container, just as quickly and sensitively as a sniffer dog can. But unlike dogs, Sinues' gas analysis devices are able to analyse a wide range of compounds at the same time – plus they never get tired. Sinues, a lecturer at the Laboratory of Organic Chemistry, has now further increased the sensitivity of the already highly sensitive measuring devices.

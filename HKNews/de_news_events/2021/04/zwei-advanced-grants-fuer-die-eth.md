@@ -1,5 +1,7 @@
 # zwei-advanced-grants-fuer-die-eth
 
+**Source:** de_news_events/2021/04/zwei-advanced-grants-fuer-die-eth.html
+
 ## Ungewisse Zukunft
 
 Mit der Atmosphärenphysikerin Ulrike Lohmann und dem Politikwissenschaftler Frank Schimmelfennig haben zwei Forschende der ETH Zürich je einen Advanced Grant des Europäischen Forschungsrats (ERC) zugesprochen bekommen. Ihre Projekte werden mit 3,8 respektive 2,8 Millionen Franken unterstützt.
@@ -24,5 +26,5 @@ Frank Schimmelfennig ist Professor für Europäische Politik im Department für 
 
 ETH-​Forscherinnen und -​Forscher bewerben sich seit 2007 erfolgreich um Fördermittel der Europäischen Union, die ERC Research Grants. An der ETH Zürich haben schon über 80 Forschende einen ERC Advanced Grant erhalten. Neben den Advanced Grants vergibt der Europäische Forschungsrat alljährlich auch Starting Grants für Nachwuchsforschende zu Beginn ihrer Karriere und Consolidator Grants für arriviertere Forscherinnen und Forscher zum weiteren Aufbau einer eigenen Gruppe. Ausserdem zeigt sich an den zahlreich bewilligten ERC Proof of Concepts der ETH Zürich (Mittel für die Erstellung von Machbarkeitsstudien und Businessplänen), dass Grundlagenforschung oft in Marktinnovationen mit entsprechendem volkswirtschaftlichem Nutzen ihre Anwendung findet.
 
-ETH Zürich Hochschulkommunikation Medienstelle Telefon: +41 44 632 41 41
+Medienmitteilung (PDF, 123 KB)
 

@@ -1,5 +1,7 @@
 # der-professorenschaft-auf-den-puls-gefuehlt
 
+**Source:** de_internal/2020/05/der-professorenschaft-auf-den-puls-gefuehlt.html
+
 ## Einstiegsprozess an der ETH überzeugt
 
 An der ETH haben alle ordentlichen, ausserordentlichen und Assistenz-Professorinnen und Professoren den gleichen Chef: den ETH-Präsidenten. Joël Mesot war es bereits bei seinem Amtsantritt eines seiner Anliegen zu wissen, wie zufrieden die Professorinnen und Professoren sind und wo allenfalls der Schuh drückt. Wichtige Erkenntnisse liegen nun vor. Unter der Regie der Stelle für Chancengleichheit, des Stabs Professuren und des Generalsekretariats wurde 2019 eine Befragung unter allen ETH-Professorinnen und -Professoren durchgeführt; die erste, die spezifisch auf ihre Arbeitssituation fokussierte. «Mit über 60 Prozent war der Rücklauf sehr hoch», freut sich Renate Schubert, Delegierte für Chancengleichheit und ETH-Professorin für Nationalökonomie.

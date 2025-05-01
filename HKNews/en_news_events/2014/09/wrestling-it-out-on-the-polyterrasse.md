@@ -1,5 +1,7 @@
 # wrestling-it-out-on-the-polyterrasse
 
+**Source:** en_news_events/2014/09/wrestling-it-out-on-the-polyterrasse.html
+
 ## “The smell of my childhood”
 
 The sawdust gets everywhere – in people’s hair and ears and all over their clothes. After each bout, the “Schwingers” (traditional Swiss wrestlers) dust the brown chippings off their bodies, some of them taking the chance to wash their faces using the black tub provided and apply a little joint cream here and there. Around 20 students – including one woman – signed up for the students’ traditional Swiss wrestling contest on the Polyterrasse.

@@ -1,5 +1,7 @@
 # art-and-artificial-intelligence
 
+**Source:** en_internal/2022/09/art-and-artificial-intelligence.html
+
 ## Main article
 
 Throughout European history, modern humans have grappled with the dichotomy between man and machine, aesthetics and rationality, the longing for nature and the indigenous as a contrast to industrial alienation. Artists, but also society in general, are taking an interest in this ancient topic.

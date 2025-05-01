@@ -1,5 +1,7 @@
 # pruefungen-in-pandemiezeiten
 
+**Source:** en_internal/2020/04/pruefungen-in-pandemiezeiten.html
+
 ## Session examinations
 
 - For lecturers

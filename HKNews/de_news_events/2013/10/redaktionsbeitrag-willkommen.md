@@ -1,5 +1,7 @@
 # redaktionsbeitrag-willkommen
 
+**Source:** de_news_events/2013/10/redaktionsbeitrag-willkommen.html
+
 ## Main article
 
 Mit diesen und weiteren Fragen setzen sich Forschende und Fachleute der ETH und anderer Institutionen im «Zukunftsblog» der ETH Zürich auseinander – mit Fakten und Meinungen zu Nachhaltigkeit.

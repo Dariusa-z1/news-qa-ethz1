@@ -1,5 +1,7 @@
 # speculative-calculations-open-a-backdoor-to-information-theft
 
+**Source:** en_news_events/2022/07/speculative-calculations-open-a-backdoor-to-information-theft.html
+
 ## Speculative computing makes computers faster
 
 Sometimes a computer bleeds from its heart and reveals droplets of private information. That's the case with the "Retbleed" hardware vulnerability made public today: This vulnerability occurs in the microprocessors that execute the instructions of a computer program and perform the corresponding calculations. In some cases, the processors - namely the central processing units (CPU) - also perform special calculations that shorten the computing time and speed up the overall computing process. In the process, they leave traces in the memory that hackers could exploit to gain unauthorized access to any information in the system - for example, they could steal encryption keys or security-relevant passwords. This is especially risky in cloud environments where multiple companies share computer systems. The National Center for Cyber Security in Bern, Switzerland considers the vulnerability serious because the affected processors are in use worldwide. However, the manufacturers have already taken initial measures to close the vulnerability.
@@ -35,4 +37,6 @@ For more information, see the report posted on the NSCS website under the "Advis
 Wikner, J; Razavi, K. RETBLEED: Arbitrary Speculative Code Execution with Return Instructions. Paper accepted at the 31st USENIX Security Symposium, August 10–12, 2022, at the Boston Marriott Copley Place in Boston, MA, USA.
 
 Wikner’s and Razavi’s will present their findings at the USENIX Security '22 on 12 August 2022, 1.30 pm-2.30 pm.
+
+The scientific publication is available for download on the Retbleed project webseite of the ETH Zurich Computer Security Group. For specialists, there is also a video about Retbleed.
 

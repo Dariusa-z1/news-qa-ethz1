@@ -1,5 +1,7 @@
 # data-science-and-ai-for-the-public-good
 
+**Source:** en_news_events/2021/03/data-science-and-ai-for-the-public-good.html
+
 ## Three strands of cooperation
 
 As society becomes more digitalised, institutions need more and more data science skills. This includes the integration of tools arising from artificial intelligence in a way that is safe and beneficial to society as a whole. To this end, as a pioneer within the federal administration, the FSO is teaming up with the Swiss Data Science Center (SDSC), a joint venture between the two federal institutes of technology.
@@ -25,4 +27,6 @@ In concrete terms, the DSCC will function as a service provider in the field of 
 The President of the ETH Zurich, Joël Mesot, pointed out the relevance of this partnership. “Putting data science and artificial intelligence at the service of the public good is one of today’s major challenges. The Federal Institutes of Technology are proud to be able to bring their skills into this field and to support the Confederation in this transition so that it will benefit all sectors of society.”
 
 In 2017, the ETH Board launched a national initiative in regard to data science that resulted in the creation of a unique joint venture between the EPFL and the ETH Zurich: the Swiss Data Science Center (SDSC), aimed at promoting innovation in data science, multi-disciplinary research and open science. The SDSC’s mission is to accelerate the use of data science and machine learning techniques within academic disciplines and industry.
+
+Press Release (EN) (PDF, 231 KB) Press Release (FR) (PDF, 102 KB) Press Release (IT) (PDF, 97 KB)
 

@@ -1,5 +1,7 @@
 # name-adresse-oder-magazin-abos-aendern-leicht-gemacht
 
+**Source:** en_internal/2022/07/name-adresse-oder-magazin-abos-aendern-leicht-gemacht.html
+
 ## Change your subscription settings
 
 - Language: English
@@ -31,8 +33,6 @@ Of course, this requires your address to be up to date. You can check this under
 ## Always up to date
 
 The ETH people search lists all currently registered teaching staff, students and employees at the university. If you’d like to display your CV, information about your area of research or a list of your professional honours and memberships, you can enter this information by going to the “CV and additional data” tab.
-
-You can make changes to other personal data like your name, marital status and citizenship via ETHIS ( > Personal > Personal Data). Some data you won’t be able to change yourself. In these instances, you can use the email function in ETHIS to get in touch with your contact person at HR.
 
 Read all the articles from "Tips and Tricks" that have appeared on Internal news so far.
 

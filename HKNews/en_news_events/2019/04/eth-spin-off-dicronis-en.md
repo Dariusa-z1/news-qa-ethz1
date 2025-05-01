@@ -1,5 +1,7 @@
 # eth-spin-off-dicronis-en
 
+**Source:** en_news_events/2019/04/eth-spin-off-dicronis-en.html
+
 ## Main article
 
 When someone develops cancer, single or multiple lymph nodes are often colonised by cancer cells that form metastases. Part of the treatment involves the removal of the affected nodes, but this carries the risk of the lymphatic system collapsing.
@@ -7,10 +9,6 @@ When someone develops cancer, single or multiple lymph nodes are often colonised
 The lymphatic system is responsible for the transport of proteins, nutrients, waste products and immune cells through a fluid called the lymph. If the lymphatic system no longer functions properly, this fluid accumulates in the affected body regions, causing swelling of the arms and legs, or lymphoedema. This condition is not life-threatening but strongly affects the quality of life of the patients and can be at least partially treated with compression stockings, lymph drainage, physiotherapy and appropriate diet. But chronic lymphoedema can lead to tissue changes and eventually skin damage. In addition, the patients affected may suffer psychologically because the oedema is clearly visible and can change their physical appearance.
 
 Around ten percent of all cancer patients experience lymphoedema, especially those suffering from breast, prostate, genital and skin cancer. “The current diagnosis of lymphoedema concentrates on the symptoms, in other words the build-up of fluid,” says Patrizia Marschalkova. The ETH graduate is the founder and CEO of Dicronis, an ETH spin-off that has developed the “Lymphit”, an instrument for simple and early diagnosis of lymphoedema.
-
-This device is a tiny transdermal patch of dissolving microneedles. Patients stick this “micro patch” onto their wrist for one minute. The microneedles are long enough to penetrate the skin, but short enough not to come into contact with dermal nerves.
-
-“On contact with the aqueous environment of the skin, the microneedles dissolve and release a fluorescent dye,” Marschalkova explains. The needles are removed after a minute, and then an intelligent armband – similar to a smartwatch – is applied. The patient has to wear this for six hours.
 
 “A fluorescent detector in the intelligent armband monitors the uptake of the dye in the lymph vessels,” Marschalkova says. This enables a malfunction of the lymphatic system to be detected before any swelling develops. The device transmits the data straight to the physician overseeing medical treatment. The detector can also be useful for patients already undergoing treatment, as it makes it easy for doctors to check whether treatment is appropriate and successful or needs to be adjusted.
 

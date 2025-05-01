@@ -1,5 +1,7 @@
 # portrait-renana-gershoni-poranne
 
+**Source:** de_news_events/2019/11/portrait-renana-gershoni-poranne.html
+
 ## Die besten aus 1063 möglichen Verbindungen
 
 Im Büro von Renana Gershoni-Poranne ist es sehr geräumig, sehr aufgeräumt und sehr persönlich. An der Wand neben ihrem Schreibtisch hängen Zeichnungen, die ihre zwei Buben, fünf und neun Jahre alt, für sie gemacht haben. Eines der Bilder ähnelt einem Werk von Picasso, ein zweites ist wohl eine charmante Nachbildung von van Goghs Sonnenblumen. Und dann hängt da noch ein bunter Fussabdruck von Gershonis Jüngstem. «Ich liebe mein Büro», sagt die 35-jährige Chemikerin, setzt sich hinter ihren grossen Eckschreibtisch und erzählt gleich weiter über die vielen Glückwunschkarten, die sie von Kollegen bekommen und auf der anderen Seite des Raums in einem Regal aufgestellt hat. Gershoni-Poranne spricht so schnell, dass man sie kaum zu unterbrechen wagt.

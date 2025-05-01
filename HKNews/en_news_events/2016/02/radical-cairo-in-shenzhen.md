@@ -1,5 +1,7 @@
 # radical-cairo-in-shenzhen
 
+**Source:** en_news_events/2016/02/radical-cairo-in-shenzhen.html
+
 ## A formal look into informal settlements
 
 In many large urban areas, settlements develop independently from any official city planning. The informal mode of urbanization in Cairo indeed appears radical because it alters conventional ownership structures and questions the validity of formal planning. Informal construction at this stage of development calls for a reassessment of the way in which the discipline of architecture reacts to forces of urbanization operating beyond the usual legal framework. Persistent urban growth shows that, while lacking public services and infrastructures, informal settlements are nonetheless successful in generating dense and affordable housing. However, a constructive governmental policy to legalize these settlements has yet to materialize, and their potential is not understood.

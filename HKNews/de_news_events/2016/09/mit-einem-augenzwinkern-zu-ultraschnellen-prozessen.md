@@ -1,5 +1,7 @@
 # mit-einem-augenzwinkern-zu-ultraschnellen-prozessen
 
+**Source:** de_news_events/2016/09/mit-einem-augenzwinkern-zu-ultraschnellen-prozessen.html
+
 ## Den Erfahrungshorizont ausdehnen
 
 Die Ausstellung, die sich bis Mitte Dezember im Eingangsbereich der Campus Info auf dem ETH-Standort Hönggerberg befindet, lässt sich schnell und gut überblicken. «Schnell» ist dabei Programm: Mehrere Poster zeigen Bildfolgen mit Prozessen, die sehr schnell – oder sehr langsam – ablaufen und geben zugleich einen Einblick in die «Ultrakurzzeitforschung».

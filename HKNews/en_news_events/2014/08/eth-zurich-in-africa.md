@@ -1,5 +1,7 @@
 # eth-zurich-in-africa
 
+**Source:** en_news_events/2014/08/eth-zurich-in-africa.html
+
 ## Why a partnership in Africa?
 
 Lino Guzzella, Rector and ETH Zurich President Elect visited Stellenbosch University in South Africa to formalize an already prolific collaboration between researchers at both institutions. The memorandum of understanding signed this week is the result of ETH Zurich President Ralph Eichler's 2013 visit to South Africa and a subsequent joint workshop with the World Food System Center at ETH Zurich and the Stellenbosch Food Security Initiative. It establishes a formal cooperation and commitment to the advancement of science and technology for the benefit of society at large in areas of mutual interest such as: sustainable production systems, human nutrition, water, conservation ecology and invasive species, food science, mineralogy, and insect physiology.

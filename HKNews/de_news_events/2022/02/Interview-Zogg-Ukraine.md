@@ -1,5 +1,7 @@
 # Interview-Zogg-Ukraine
 
+**Source:** de_news_events/2022/02/Interview-Zogg-Ukraine.html
+
 ## Main article
 
 Benno Zogg ist ein Senior Researcher am Center for Security Studies (CSS) der ETH Zürich. (Bild: ETH Zürich)

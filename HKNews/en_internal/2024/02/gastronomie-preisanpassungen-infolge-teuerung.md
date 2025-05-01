@@ -1,5 +1,7 @@
 # gastronomie-preisanpassungen-infolge-teuerung
 
+**Source:** en_internal/2024/02/gastronomie-preisanpassungen-infolge-teuerung.html
+
 ## New prices from 19 February
 
 Swiss community catering services continue to be buffeted by soaring purchasing costs. Following an initial price adjustment two years ago, a number of institutions and universities in Switzerland, including neighbouring UZH, have been forced to raise their canteen prices again over the course of 2023. ETH Zurich’s caterers are also under cost pressure. They have had no other choice but to raise the prices of the meals on offer in the three large catering establishments – Polyterrasse, FUSION meal and food market – with effect from the start of the semester.

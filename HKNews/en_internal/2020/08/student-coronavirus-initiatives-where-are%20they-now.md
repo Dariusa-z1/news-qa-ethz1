@@ -1,5 +1,7 @@
 # student-coronavirus-initiatives-where-are%20they-now
 
+**Source:** en_internal/2020/08/student-coronavirus-initiatives-where-are%20they-now.html
+
 ## Spring 2020: when the world suddenly changed
 
 Human Medicine student Rahel Schmidt and Computer Science student Nicola Rüegsegger have more than just their choice of university in common. At the beginning of the coronavirus pandemic, the two ETH Zurich students were also plagued by the same nagging thought: "I have to do something!" And thus two platforms were born: Students4Hospitals and Care Now , which Schmidt and Rüegsegger were able to establish with remarkable speed, pragmatism and teamwork.

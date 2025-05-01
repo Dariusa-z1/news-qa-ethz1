@@ -1,5 +1,7 @@
 # neuer-food-market-eroeffnet-auf-hoenggerberg
 
+**Source:** de_internal/2016/05/neuer-food-market-eroeffnet-auf-hoenggerberg.html
+
 ## Main article
 
 Der «food market» ist ein weiterer Meilenstein der Arealstrategie Gastronomie & Detailhandel der ETH Zürich. Nach vier Jahren der Planung und zwei weiteren Jahren der Realisierung besticht der neue Gastronomiebetrieb unter anderem durch seine moderne und hochwertige Gestaltung.

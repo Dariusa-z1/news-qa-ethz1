@@ -1,5 +1,7 @@
 # energiesparen-eth-senkt-gasverbrauch-im-november
 
+**Source:** de_internal/2022/12/energiesparen-eth-senkt-gasverbrauch-im-november.html
+
 ## Einer der wärmsten November-Monate
 
 - elektronische Geräte abschalten

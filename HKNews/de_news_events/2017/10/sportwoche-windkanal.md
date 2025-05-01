@@ -1,5 +1,7 @@
 # sportwoche-windkanal
 
+**Source:** de_news_events/2017/10/sportwoche-windkanal.html
+
 ## Kein Blindflug mehr
 
 Die Skirennfahrerin schliesst die Schnallen ihres Skischuhs, greift ihre Stöcke und montiert die Skibrille. Sie ist startbereit – doch nicht etwa auf der Skipiste, sondern im Maschinenlabor der ETH Zürich. Der ungewohnte Anblick hat seinen Grund: Eine ganze Woche testeten Nachwuchsathletinnen und -athleten eine am Institut für Fluiddynamik entwickelte Messmethode im Windkanal der ETH. Neben Skirennfahrern suchten auch Ski-Crosser und Radrennradfahrer im Tunnel die windschnittigste Ausrüstung und eine möglichst aerodynamische Fahrposition.

@@ -1,5 +1,7 @@
 # eth-pionier-mit-biographie-geehrt
 
+**Source:** de_news_events/2015/01/eth-pionier-mit-biographie-geehrt.html
+
 ## Main article
 
 Er wurde bereits mit 24 Jahren zum ETH-Professor ernannt, war entscheidend mitverantwortlich für die Modernisierung und den Ausbau der ETH, vermittelte zwischen Hochschule und Industrie und berief Albert Einstein an unsere Hochschule: Die Rede ist von Robert Gnehm (1852-1926).

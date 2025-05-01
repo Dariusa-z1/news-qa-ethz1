@@ -1,5 +1,7 @@
 # new-head-of-the-science-task-force
 
+**Source:** en_news_events/2020/07/new-head-of-the-science-task-force.html
+
 ## Main article
 
 ETH News: Mr Ackermann, how did your appointment as Chair of the National Science Task Force come about? Martin Ackermann: When I was asked as Vice-chair whether I wanted to take over the post of Chair, I was glad to accept as I'm convinced that the Task Force plays an important and effective role. It numbers around 70 scientists – including 12 colleagues from ETH Zurich – all of whom are volunteering their services free of charge in order to help getting Switzerland through this crisis as smoothly as possible. It's a privilege to be head of such a network, and particularly given the unique situation I'm obviously approaching the task with an enormous amount of respect. I'm also glad that we have learned an incredible amount over the past months. For example, how to work most effectively with the various authorities. We can definitely build on this.

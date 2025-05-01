@@ -1,5 +1,7 @@
 # kleine-eiszeit-verschob-regenguertel
 
+**Source:** de_news_events/2017/04/kleine-eiszeit-verschob-regenguertel.html
+
 ## Global tiefere Temperaturen
 
 Der tropische Regengürtel, auch als innertropische Konvergenzzone bekannt, ist auf steter Wanderschaft. Er ändert der Jahreszeit entsprechend ständig seine Position und folgt leicht zeitverzögert dem Höchststand der Sonne. Dadurch wechseln sich in den Tropen und Subtropen im Jahresverlauf Regen- und Trockenzeiten ab – der tropische Regengürtel beherrscht so das Klima eines Grossteils der Tropen und Subtropen, zum Beispiel durch den Monsun in Südostasien und in Mittelamerika.

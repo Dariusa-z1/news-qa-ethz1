@@ -1,5 +1,7 @@
 # geovite--plattform-fuer-geodaten-in-lehre-und-forschung
 
+**Source:** de_internal/2019/07/geovite--plattform-fuer-geodaten-in-lehre-und-forschung.html
+
 ## Main article
 
 GIS-Anfängern und -Experten bietet GeoVITe einen browserbasierten, schnellen Zugang zu Geodaten von Bund und Kantonen. Das umfangreiche Datenangebot umfasst daneben auch Siegfried-/ Dufourkarten sowie unterschiedliche Zeitstände der Daten.

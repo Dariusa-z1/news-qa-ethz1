@@ -1,5 +1,7 @@
 # tempogeladene-chance-fuer-wissenschaftler
 
+**Source:** de_news_events/2014/07/tempogeladene-chance-fuer-wissenschaftler.html
+
 ## Qualifikationsveranstaltung im Miller’s Studio
 
 In nur drei Minuten sein Projekt vor einer hochkarätigen Jury präsentieren: Das macht das externe Seite Falling Walls Lab zu einer noch grösseren Herausforderung als die mittlerweile gut bekannten Science Slams. Zwar ist der Kern dieser Formate der Gleiche – es handelt sich um einen Wissenschaftswettstreit – doch müssen die Teilnehmenden beim Falling Walls Lab mit weniger als einem Drittel der Zeit auskommen: «In den meisten Slams dürfen Teilnehmer mindestens zehn Minuten präsentieren», erklärt Naveed Syed vom Falling Walls Lab Berlin.

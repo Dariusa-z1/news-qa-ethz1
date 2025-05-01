@@ -1,5 +1,7 @@
 # insekten-essen-delikat-oder-ekelhaft
 
+**Source:** en_news_events/2016/07/insekten-essen-delikat-oder-ekelhaft.html
+
 ## Warum lehnen wir Insekten als Lebensmittel ab?
 
 Die Produktion von tierischen Proteinen, vor allem von Fleisch, verschlingt weltweit sehr viele Ressourcen: Es braucht enorm viel Wasser, landwirtschaftlichen Raum und Energie. Seit langem sucht die Forschung nach einer attraktiven Alternative – eiin hochwertiger Proteinlieferant, der ressourcenschonender produziert werden kann.

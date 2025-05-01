@@ -1,5 +1,7 @@
 # neue-erdbebenanalysen-staerken-katastrophenvorsorge-in-europa
 
+**Source:** de_news_events/2022/04/neue-erdbebenanalysen-staerken-katastrophenvorsorge-in-europa.html
+
 ## Verbessertes Erdbebengefährdungsmodell
 
 Im zwanzigsten Jahrhundert forderten Erdbeben in Europa mehr als 200'000 Todesopfer und verursachten Schäden in Höhe von über 250 Milliarden Euro. Umfassende Analysen der Erdbebengefährdung und des Erdbebenrisikos sind deshalb wichtig, um die Auswirkungen katastrophaler Erdbeben zu verringern. Denn bis heute können Erdbeben weder verhindert noch genau vorhergesagt werden.

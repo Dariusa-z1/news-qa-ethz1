@@ -1,5 +1,7 @@
 # townhall-on-the-covid-19-situatuon-at-eth-zurich
 
+**Source:** en_internal/2021/04/townhall-on-the-covid-19-situatuon-at-eth-zurich.html
+
 ## Lively Q&amp;A session
 
 1200 ETH members joined the Townhall on Wednesday to learn about ETH Zurich's current Covid measures. The focus of the event was the outlook for the upcoming master plan as well as the new testing facility on campus. Rector Sarah Springman welcomed the participants on behalf of the entire Executive Board and addressed in her remarks complementary, mask-to-mask, learning opportunities for students. ETH task force leader Ulrich Weidmann gave an outlook on the measures of the new master plan, which will come into force next Monday, 26 April. The plan will be published this Friday and will change little for most employees: the home office obligation will apply until further notice. This fact will continue to cause discomfort for many of us in the coming weeks. Julia Dannath, Vice President for Human Resources Development and Leadership, is also aware of this situation. She stressed how important mutual support is at the moment and pointed out ways in which we can continue to keep motivation high.

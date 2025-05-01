@@ -1,5 +1,7 @@
 # simon-lilly-takes-the-helm-at-d-phys
 
+**Source:** en_internal/2015/06/simon-lilly-takes-the-helm-at-d-phys.html
+
 ## Main article
 
 Simon Lilly is the new Head of the Department of Physics (D-PHYS). The Professor of Experimental Astrophysics takes over from Tilman Esslinger, Professor of Quantum Optics. In May, the Department Conference, the governing body of D-PHYS, bid farewell to Tilman Esslinger as head and thanked him for his service to the department.

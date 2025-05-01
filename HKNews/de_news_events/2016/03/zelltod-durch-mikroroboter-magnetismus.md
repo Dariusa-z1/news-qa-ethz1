@@ -1,5 +1,7 @@
 # zelltod-durch-mikroroboter-magnetismus
 
+**Source:** de_news_events/2016/03/zelltod-durch-mikroroboter-magnetismus.html
+
 ## Wie die Schichten einer Lasagne
 
 Eines Tages nach der Arbeit sass Salvador Pané in einem Trolleybus in Zürich. Er war in seine Gedanken vertieft, doch plötzlich stoppte der Bus aufgrund einer Fahrleitungsstörung. Da kam ihm eine Idee: «Warum können wir nicht einen Mikroroboter erschaffen, der elektrische Energie kabellos erzeugt?» Der Gedanke liess ihn nicht mehr los – mit Folgen: Dem ETH-Forscher und seinen Kollegen ist es gelungen, winzige Partikel herzustellen, die durch Magnetfelder zum einen präzise gesteuert werden und zum anderen elektrische Felder erzeugen.

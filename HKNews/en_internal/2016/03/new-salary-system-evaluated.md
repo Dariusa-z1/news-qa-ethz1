@@ -1,5 +1,7 @@
 # new-salary-system-evaluated
 
+**Source:** en_internal/2016/03/new-salary-system-evaluated.html
+
 ## Main article
 
 Since 1 January 2006, the salaries of non-academic staff and senior scientists in permanent employment within the ETH Domain have been based on the New Salary System (NSS). Employees are assigned to function levels in the NSS. Within the confines of available resources, individual salary increments take into account both the employee’s experience and the supervisor’s assessment of the employee’s performance.

@@ -1,5 +1,7 @@
 # eth-by-night
 
+**Source:** en_internal/2017/06/eth-by-night.html
+
 ## Main article
 
 After most ETH members have gone home for the night, others are just beginning their late shift. Experiments, quiz nights and evening taekwondo lessons – you can find out everything that goes on at the ETH Zurich campus after dark in the cover story of the latest "life" .

@@ -1,5 +1,7 @@
 # problemloesung-im-eiltempo
 
+**Source:** de_news_events/2020/06/problemloesung-im-eiltempo.html
+
 ## Kampf gegen Engpässe
 
 Ab Ende März wurden im Rahmen der Initiative helpfulETH in einer Studierendenwerkstatt auf dem Campus Hönggerberg Gesichtsschutzmasken für Spitäler produziert (siehe ETH-News vom 7.4.2020). Mittlerweile wurde das Projekt ausgeweitet und in die industrielle Produktion überführt. ETH-Angehörige haben zusammen mit der HSR Rapperswil, Geberit und Swiss Prime Pack eine Produktionskette geschaffen, die so organisiert ist, dass sie bei Bedarf mindestens 1000 dieser Faceshields pro Tag herstellen kann. Das Projekt konnte seit März bereits rund 20 Spitäler und Pflegeeinrichtungen unterstützen. Es fusst auf einem Bedürfnis, das in der Corona-Krise von Ärzten gemeldet worden ist.
@@ -19,8 +21,6 @@ Dazu wurde Torbjörn Netland, Professor für Produktions- und Operationsmanageme
 ## Weitere Informationen
 
 Das Startkapital für das Faceshield-Projekt an der ETH stammte aus Geldern des Feasibility Lab, aus dem die Initiative helpfulETH ursprünglich hervorgegangen war. In der weiteren Entwicklung habe das Projekt auf Solidaritätsbasis funktioniert, betont Netland: «Bei allen beteiligten Organisationen wurden Tage und Wochen an freiwilliger Arbeit geleistet». Auch die Rohstoffe steuerten die Firmen gratis bei. Für ihn sei der wichtigste Lohn ideeller Natur, meint Netland: «Es macht mich stolz, dass wir in einer Krisensituation in so kurzer Zeit eine erfolgreiche Kooperation aufgleisen konnten, in der alle sehr viel Zeit und Energie investierten, um anderen zu helfen.»
-
-Für das Spital Männedorf war das Angebot von helpfulETH eine grosse Erleichterung: «Ich erfuhr über Kollegen aus dem Spital Limmattal vom Angebot mit den Faceshields», erzählt Sven Staender, «Also nahm ich Kontakt auf. Bald darauf konnten wir die Faceshields abholen, und 48 Stunden später waren sie bei uns im Einsatz.» Die Gesichtsmasken seien dort eingesetzt worden, wo der Bedarf am grössten war: Zur Pflege von Corona-Patienten auf der Intensivstation. Nach wie vor seien sie im Einsatz, bestätigt Staender, so etwa im Operationssaal. Die Faceshields seien hervorragend, meint der Arzt, denn sie erlaubten mehr Bewegungs- und Blickfreiheit als die Schutzbrillen, die das Personal zuvor benutzte. «Sogar in zwei verschiedenen Farben wurden sie geliefert – Trotz Krise schätzt man eine gewisse Ästhetik am Arbeitsplatz.»
 
 helpfulETH – Ingenieurslösungen für die Coronakrise (ETH-News vom 7.4.2020)
 

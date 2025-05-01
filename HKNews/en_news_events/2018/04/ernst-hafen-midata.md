@@ -1,5 +1,7 @@
 # ernst-hafen-midata
 
+**Source:** en_news_events/2018/04/ernst-hafen-midata.html
+
 ## MIDATA is leading the way
 
 As digitalisation continues to progress, personal data is becoming a precious resource. The consolidation of this data and the analysis of data pools promise to open up new opportunities for medical research. Smartphones and sensors (e.g. measuring blood sugar or blood pressure), for instance, can provide real-life data for preventative health, therapy and research.
@@ -21,6 +23,8 @@ People can collect their health data and use various data services on the platfo
 MIDATA and the cooperative model show how data can be used for the common good while at the same time meeting standards for safeguarding people’s sovereignty over their personal data. The cooperative’s democratic one-member, one-vote principle is perfect for managing personal data. After all, this type of data is among the few forms of value distributed equally throughout the world. In addition, the value of data is not attached to the dataset of a single person, but rather the aggregation of many datasets. This value should not only benefit large multinational corporations, as hitherto has been the case, but above all society – something made possible by the non-profit, cooperative-based model.
 
 The data platform used by MIDATA was developed at ETH Zurich and Bern University of Applied Sciences. The model allows the IT platform (data storage, access and consent management) to be separated from the data applications (mobile applications), thus creating an open innovation ecosystem. Start-ups, IT service providers and research groups can offer mobile apps on the platform – for example, health apps or apps for managing chronic illnesses. The IT platform is operational and is currently being used in several data science projects.
+
+Together with Ally Science ,this week MIDATA is launching a project aimed at pollen allergy sufferers throughout Switzerland.Ally Science is the product of a partnership with the allergy clinic at the Department of Dermatology at University Hospital Zurich (USZ). Its mission is to develop a comprehensive pollen allergy map of Switzerland. In Switzerland, participants interested in the study can download the Ally Science app ( i OS App Store , Google Play ). They agree to the terms of use of the MIDATA platform, which saves their data. They also consent to having the data collected by the app sent in anonymised form to the allergy clinic at USZ. USZ will perform a scientific analysis of the data to gain insights into the frequency, intensity and main influencing factors (weather, particulate matter, etc.). The hope is that as many readers of this post as possible will participate in the study.
 
 Ernst Hafen Professor at the Institute for Molecular Systems Biology
 

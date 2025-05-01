@@ -1,5 +1,7 @@
 # rueckruf-von-eth-geraeten-aus-dem-homeoffice
 
+**Source:** de_internal/2022/04/rueckruf-von-eth-geraeten-aus-dem-homeoffice.html
+
 ## Geräte bis Ende Mai an die ETH zurückbringen
 
 Als an der ETH Zürich die Homeoffice-Pflicht ausgerufen wurde, haben die Informatikdienste in Absprache mit dem zuständigen Vizepräsidenten für Infrastruktur Ulrich Weidmann schnell reagiert: Auf Grundlage der speziell erlassenen Corona-Richtlinie betreffend IKT-Mittelverwendung für das Homeoffice durften Mitarbeitende in Absprache mit den Vorgesetzten Informatikmittel wie Monitore oder Docking-Stationen aus dem Büro mit nach Hause nehmen.

@@ -1,5 +1,7 @@
 # open-up-new%20perspectives-understand-different-context
 
+**Source:** en_internal/2016/06/open-up-new%20perspectives-understand-different-context.html
+
 ## Main article
 
 The study programme Science in Perspective is an integral part of the curriculum at ETH Zurich. It opens up new perspectives on the natural and engineering sciences, while addressing topics that might have been missed, or that might not have been explored in the core subject’s lecture courses due to lack of time.

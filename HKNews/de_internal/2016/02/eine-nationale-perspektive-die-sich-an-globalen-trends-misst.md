@@ -1,5 +1,7 @@
 # eine-nationale-perspektive-die-sich-an-globalen-trends-misst
 
+**Source:** de_internal/2016/02/eine-nationale-perspektive-die-sich-an-globalen-trends-misst.html
+
 ## Main article
 
 Seit Jahresbeginn ist Gerd Folkers, ETH-Professor für pharmazeutische Chemie und langjähriger Leiter des Collegiums Helveticum, neu für vier Jahre der Präsident des Schweizerischen Wissenschafts- und Innovationsrat. Der SWIR berät den Bund in Fragen der Wissenschafts-, Hochschul-, Forschungs- und Innovationspolitik. Gerd Folkers ist seit 2012 Mitglied des SWIR und war zuvor bereits dessen Vizepräsident. Er folgt auf Astrid Epiney, die von 2012 bis 2015 SWIR-Präsidentin war und heute Rektorin der Universität Freiburg ist.

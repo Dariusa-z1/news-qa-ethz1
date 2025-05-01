@@ -1,5 +1,7 @@
 # the-future-is-already-here
 
+**Source:** en_internal/2019/07/the-future-is-already-here.html
+
 ## The art of asking questions
 
 - 2 information and documentation specialists

@@ -1,5 +1,7 @@
 # detecting-exhaustion-with-smart-sportswear
 
+**Source:** en_news_events/2023/03/detecting-exhaustion-with-smart-sportswear.html
+
 ## Abstract
 
 - A new textile sensor measures body movements very precisely without the need for electronic components such as batteries or chips.

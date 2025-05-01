@@ -1,5 +1,7 @@
 # workshop-reihe-forschungsdatenmanagement-162330102019
 
+**Source:** de_internal/2019/09/workshop-reihe-forschungsdatenmanagement-162330102019.html
+
 ## Main article
 
 In Zusammenarbeit mit den Scientific IT Services veranstaltet die ETH-Bibliothek drei aufeinander aufbauende Workshops, die die verschiedenen Elemente des Forschungsdatenmanagements entlang des Forschungsdatenzyklus thematisieren. Melden Sie sich für einzelne Workshops oder für die ganze Reihe an.
@@ -15,8 +17,6 @@ Die Workshops finden jeweils von 9.00 bis 12.00 Uhr auf dem Campus Hönggerberg 
 Möchten Sie gerne an einem oder mehreren Workshops teilnehmen?
 
 Weitere Informationen und Registration
-
-Bei Fragen können Sie uns gerne unter oder kontaktieren.
 
 #GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel.
 

@@ -1,5 +1,7 @@
 # diese-forschenden-erhalten-einen-starting-grant
 
+**Source:** de_news_events/2022/11/diese-forschenden-erhalten-einen-starting-grant.html
+
 ## Main article
 
 Der Schweizerische Nationalfonds (SNF) hat neun «SNF Starting Grants» an Forschende vergeben, die planen, ihre Projekte ab dem kommenden Jahr an der ETH Zürich durchzuführen. Insgesamt fliessen damit voraussichtlich 15,8 Millionen Franken an die ETH Zürich.

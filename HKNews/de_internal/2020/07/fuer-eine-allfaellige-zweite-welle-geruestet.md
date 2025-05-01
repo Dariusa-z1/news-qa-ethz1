@@ -1,5 +1,7 @@
 # fuer-eine-allfaellige-zweite-welle-geruestet
 
+**Source:** de_internal/2020/07/fuer-eine-allfaellige-zweite-welle-geruestet.html
+
 ## Zweiten Lockdown verhindern
 
 In der Schweiz sind mit den Lockerungsmassnahmen seit dem Lockdown die Infektionszahlen wieder angestiegen. Bis jetzt ist aber glücklicherweise die befürchtete zweite Welle ausgeblieben. Um für alle Fälle gerüstet zu sein, hat die Schulleitung in Ergänzung zum Masterplan «Rückkehr zum neuen Normalbetrieb» einen Plan B verabschiedet. Der Masterplan behält seine Gültigkeit, Plan B ergänzt ihn. Er beschreibt verschiedene Szenarien, und wie die ETH darauf reagiert. Die Szenarien wurden bereits im Mai in enger Zusammenarbeit mit den ETH-Professorinnen und -Professoren entwickelt, die in der nationalen Covid-19 Science Task Force mitarbeiten. Daraufhin wurden die Massnahmen mit den Departementen und Zentralen Organen abgestimmt.
@@ -18,13 +20,7 @@ Oberste Priorität haben dabei die Sessionsprüfungen, die im August anstehen. D
 
 ## Newsletter abonnieren
 
-«Damit wir als ETH diese Ziele erreichen können, sind wir auf die Mitarbeit aller Angehörigen angewiesen», erklärt Ueli Weidmann. Dazu zählt er in erster Linie die Einhaltung der Distanz- und Hygieneregeln, aber auch die Verwendung der Contact-Tracing-App, deren Benutzung die Schulleitung allen ETH-Angehörigen dringend empfiehlt. «Es ist absolut entscheidend, dass wir Infektionsherde so früh wie möglich erkennen können, damit wir bei einer zweiten Welle möglichst geringen Schaden davontragen», erklärt Weidmann. Dies gelte aber auch für einzelne Infektionsfälle an der ETH. Deshalb sein Aufruf: «Wer sich krank fühlt, bleibt Zuhause, wer Symptome hat, die auf eine Infektion hinweisen könnten, lässt sich sofort testen.» Wie aber soll man dabei konkret vorgehen?
-
-Die Abteilung Sicherheit, Umwelt und Gesundheit hat über den Umgang mit Krankheitsfällen ein Merkblatt erstellt. Daraus geht hervor, wer wann wen zu informieren hat, welche Massnahmen ergriffen werden müssen und wie das Contact Tracing konkret abläuft.
-
 Ein grosses Anliegen ist Weidmann, dass erkrankte ETH-Angehörige nicht stigmatisiert werden. «Die Schutzkonzepte basieren auf Wahrscheinlichkeitsüberlegungen, vor einer Ansteckung ist niemand gefeit», ruft er in Erinnerung. So ist Empathie gefragt, auch wenn einzelne Ansteckungen Konsequenzen für eine ganze Gruppe von Personen zur Folge haben.
-
-Sollten die Behörden von Stadt und Kanton Zürich oder anderer Standortkantone der ETH Zürich zum Schluss kommen, dass sich auf ihrem Gebiet eine zweite Welle entwickelt, würde die ETH Zürich diesen Plan B in Kraft setzen. Er sieht insbesondere vor, dass sich die ETH-Angehörigen konsequent nur noch in kleinen, bekannten Gruppen bewegen, die möglichst keinen Kontakt zu anderen Gruppen haben sollen. Hinzu kommt eine Maskenpflicht für einzelne Gruppen oder Gebäude, Rotationsprinzipien für Teilgruppen oder die vermehrte Anordnung von Homeoffice. Sitzungen sind wieder digital durchzuführen und es sind Stellvertretungsregelungen für alle relevanten Funktionen zu definieren. Die Departemente und die Leitenden der Zentralen Organe treffen Vorbereitungen, um diese Massnahmen aus dem Plan B schnellstmöglich umsetzen zu können. Tritt eine Infektion an der ETH Zürich auf, so wüsste man auch, wer davon betroffen sein könnte und nur diese Personen müssten vom Kanton in die Quarantäne geschickt werden. Ein Schliessen der ETH Zürich wäre nicht nötig.
 
 «Sollte sich die Situation drastisch verschlimmern, werden wir zusätzlich gezwungen sein, im bestehenden Masterplan einen Schritt zurückzugehen und die Massnahmen aus einer früheren Phase zu reaktivieren», sagt Taskforce-Leiter Weidmann und ergänzt: «Selbstverständlich ist auch immer damit zu rechnen, dass die kantonalen oder Bundesbehörden neue Regelungen erlassen – auch darauf müssten wir sofort reagieren können.» Die Taskforce beobachte die Entwicklung im In- und Ausland mit Argusaugen. Die ETH-Angehörigen hätten bisher ein grosses Verantwortungsbewusstsein gezeigt und die Regeln eingehalten. «Wenn wir so weitermachen, können wir mit vereinten Kräften eine tragische Situation, etwa ausgelöst durch einen Superspreading Event an der ETH, vermeiden», ist Weidmann überzeugt.
 

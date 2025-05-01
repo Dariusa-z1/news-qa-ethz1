@@ -1,5 +1,7 @@
 # masterplan-campus-hoenggerberg-2040
 
+**Source:** de_internal/2018/05/masterplan-campus-hoenggerberg-2040.html
+
 ## Main article
 
 Mit Blick auf den künftigen Raumbedarf spielt der Campus Hönggerberg eine zentrale Rolle. Als Grundlage seiner Weiterentwicklung dient der Masterplan «Campus Hönggerberg 2040». Dieser zeigt auf, wie die ETH Zürich den Campus in den nächsten Jahrzehnten durch eine Verdichtung auf dem bestehenden Gelände entwickeln möchte.

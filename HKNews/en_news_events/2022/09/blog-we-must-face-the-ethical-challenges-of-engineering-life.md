@@ -1,5 +1,7 @@
 # blog-we-must-face-the-ethical-challenges-of-engineering-life
 
+**Source:** en_news_events/2022/09/blog-we-must-face-the-ethical-challenges-of-engineering-life.html
+
 ## Participating in decision-making
 
 Gene therapy is at long last becoming available for the treatment of human disease. There are now approved gene therapeutic treatments for conditions as diverse as inherited blindness, childhood spinal muscular atrophy and some types of blood cancer. These therapies typically compensate for defects in a single gene by delivering the properly functioning gene to a patient either using viruses or cells as vehicles.

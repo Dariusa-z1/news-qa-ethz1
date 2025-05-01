@@ -1,5 +1,7 @@
 # wie-die-schweiz-das-ranking-erfand-und-zur-wissenschaftsnation-wurde
 
+**Source:** de_news_events/2015/08/wie-die-schweiz-das-ranking-erfand-und-zur-wissenschaftsnation-wurde.html
+
 ## Die Naturforschenden
 
 In Ihrem Buch «Die Naturforschenden» schreiben Sie, dass die Schweiz seit dem 18. Jahrhundert als eine der erfolgreichsten Wissenschaftsnationen gelte. Was sind die historischen Gründe für diesen Erfolg? Bernhard Schär: Das ist für Historiker schwierig zu beantworten, denn das hängt davon ab, wie «Erfolg» definiert wird. Diese Definitionen sind dem historischen Wandel unterworfen. Was wir als Historiker sagen können, ist: Die Geschichte der wissenschaftlichen Erfolgsdefinitionen und Wissenschaftsrankings hat erstaunlich viel mit der schweizerischen Wissenschaftsgeschichte zu tun.

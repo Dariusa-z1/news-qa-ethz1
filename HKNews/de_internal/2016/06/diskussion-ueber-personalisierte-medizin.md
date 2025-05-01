@@ -1,5 +1,7 @@
 # diskussion-ueber-personalisierte-medizin
 
+**Source:** de_internal/2016/06/diskussion-ueber-personalisierte-medizin.html
+
 ## Handlungsbedarf bei Datenorganisation
 
 Personalisierten Medizin erforscht die Grundlagen, um präzisere Diagnosen und individuellere Therapien zur Behandlung von Krankheiten entwickeln zu können. Personalisierte Medizin baut sowohl auf neuen Erkenntnissen in der Biomedizin auf als auch auf Fortschritten in der Informationstechnik, und sie setzt auf die interdisziplinäre Zusammenarbeit zwischen Medizin, Natur- und Ingenieurwissenschaften. In dieser Forschung sind die Schweiz und die ETH Zürich international gut positioniert.
@@ -29,4 +31,6 @@ LATSIS SYMPOSIUM 2016 ETH ZURICH
 Mittwoch 29.06.2016, 18:00 – 19:30 Uhr
 
 ETH-Hauptgebäude, AudiMax (HG F 30)
+
+Weitere Informationen: Flyer der Veranstaltung (PDF, 827 KB) .
 

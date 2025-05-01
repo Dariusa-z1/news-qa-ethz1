@@ -1,5 +1,7 @@
 # rethink-ist-zu-einem-projekt-der-ganzen-eth-geworden
 
+**Source:** de_internal/2021/06/rethink-ist-zu-einem-projekt-der-ganzen-eth-geworden.html
+
 ## Die wichtigsten Handlungsfelder von rETHink
 
 - Aufgaben, Autonomie und Leitplanken der Professuren und breitere Abklärung zum Thema Lehrumfang

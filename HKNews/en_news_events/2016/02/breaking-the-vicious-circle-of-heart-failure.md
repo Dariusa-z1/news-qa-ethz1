@@ -1,5 +1,7 @@
 # breaking-the-vicious-circle-of-heart-failure
 
+**Source:** en_news_events/2016/02/breaking-the-vicious-circle-of-heart-failure.html
+
 ## Enzyme activity inhibited
 
 Everyday physical activities become an ordeal, climbing stairs is a major undertaking, and patients often become completely bedridden, suffering from constant fatigue. “Heart failure is a tragic and unfortunately is currently incurable. The diagnosis usually amounts to a death sentence,” says Ursula Quitterer, Professor of Molecular Pharmacology at ETH Zurich and the University of Zurich.

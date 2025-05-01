@@ -1,5 +1,7 @@
 # biodegradable-flip-flops-coming-soon
 
+**Source:** en_news_events/2020/10/biodegradable-flip-flops-coming-soon.html
+
 ## Innovative propellant from gas and water
 
 Zuzana Sediva loves pistachios. "There was a time when I used to pick them in Sicily and bring them home to make ice cream," she recalls. Back then, she had no idea that this passion would later provide the inspiration for her dissertation – and ultimately for her business idea as well.

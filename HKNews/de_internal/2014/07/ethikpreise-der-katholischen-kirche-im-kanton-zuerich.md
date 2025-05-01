@@ -1,5 +1,7 @@
 # ethikpreise-der-katholischen-kirche-im-kanton-zuerich
 
+**Source:** de_internal/2014/07/ethikpreise-der-katholischen-kirche-im-kanton-zuerich.html
+
 ## Main article
 
 Die Katholische Kirche im Kanton Zürich engagiert sich auf vielfältige Art und Weise in der Gesellschaft und berührt so häufig ethische Fragen: zur Würde des Menschen, zu sozialen und christlichen Werten oder zu den Folgen technologischer Entwicklungen.

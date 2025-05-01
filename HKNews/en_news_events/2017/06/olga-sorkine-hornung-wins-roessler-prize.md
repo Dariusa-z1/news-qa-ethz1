@@ -1,5 +1,7 @@
 # olga-sorkine-hornung-wins-roessler-prize
 
+**Source:** en_news_events/2017/06/olga-sorkine-hornung-wins-roessler-prize.html
+
 ## A creative computer scientist
 
 Since 2009, the Rössler Prize has been awarded annually to young professors at ETH Zurich who are building their careers. The award is sponsored by ETH alumnus and mathematician Max Rössler. Olga Sorkine is only the second female winner of the prize.

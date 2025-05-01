@@ -1,5 +1,7 @@
 # wie-zuerichs-strassen-aussehen-muessten-damit-mehr-e-bikes-als-autos-fahren
 
+**Source:** de_news_events/2023/11/wie-zuerichs-strassen-aussehen-muessten-damit-mehr-e-bikes-als-autos-fahren.html
+
 ## In Kürze
 
 - E-Bike-City ist eine Vision, wie Städte aussehen könnten, wenn sie die Hälfte ihres Strassenraums für Fussgänger:innen, Radfahrer:innen und E-Biker:innen bereitstellen.

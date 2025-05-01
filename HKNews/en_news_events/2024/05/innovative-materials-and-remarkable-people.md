@@ -1,5 +1,7 @@
 # innovative-materials-and-remarkable-people
 
+**Source:** en_news_events/2024/05/innovative-materials-and-remarkable-people.html
+
 ## Technology meets the human factor
 
 “In life, one must decide whether to conjugate the verb ‘to have’ or ‘to be’,” says Paolo Ermanni, citing a quote from the pianist Franz Liszt. Ermanni says he is glad to have decided on the latter.

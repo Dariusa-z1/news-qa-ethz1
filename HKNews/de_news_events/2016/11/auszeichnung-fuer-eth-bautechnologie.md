@@ -1,5 +1,7 @@
 # auszeichnung-fuer-eth-bautechnologie
 
+**Source:** de_news_events/2016/11/auszeichnung-fuer-eth-bautechnologie.html
+
 ## Bauen ohne Holzschalung
 
 Innovation, Technologie – und Bau: Das passt auf den ersten Blick nicht zusammen. Die Baubranche ist nicht für bahnbrechende Erfindungen bekannt, und wer von Technologie spricht, denkt am ehesten noch an einen Bagger. Deshalb ist es – auf den zweiten Blick – gar nicht verwunderlich, dass der bedeutendste Schweizer Preis für Innovation und Technologietransfer in der Kategorie «Inventors» dieses Jahr für eine neuartige Bautechnologie vergeben wurde.

@@ -1,5 +1,7 @@
 # ein-bahnexperte-fuer-die-schulleitung
 
+**Source:** de_news_events/2015/09/ein-bahnexperte-fuer-die-schulleitung.html
+
 ## In der Kontinuität der Laufbahn
 
 Wer Ulrich Weidmanns Büro auf dem Hönggerberg betritt, sieht sogleich die Eisenbahnmodelle, die man mit einer Professur verbindet, die sich mit dem öffentlichen Verkehr befasst. Wer sich weiter umsieht, bemerkt, dass die meisten Ordner und Dokumentenmappen grün sind. «Grün beruhigt und vermittelt mir Gelassenheit und Wohlbefinden bei der Arbeit», begründet er die Farbwahl.

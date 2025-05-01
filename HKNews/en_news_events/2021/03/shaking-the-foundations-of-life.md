@@ -1,5 +1,7 @@
 # shaking-the-foundations-of-life
 
+**Source:** en_news_events/2021/03/shaking-the-foundations-of-life.html
+
 ## Success through cooperation
 
 The evolution of life on Earth has taken a long, long time. Protocells – the precursors of today’s unicellular organisms – formed around four billion years ago, eventually evolving into bacteria and archaea. The first eukaryotes emerged two billion years ago, providing the basis for more complex, multicellular organisms. As life evolved, it faced numerous disruptions in the form of meteorites, volcanic eruptions, ice ages and periods of great heat. Our planet has experienced at least five mass extinction events over its long history – yet still life has continued, undaunted.
@@ -31,6 +33,8 @@ Potato blossom. (Photograph: Colourbox / Alfred Hofer)
 Kirsten Bomblies, Professor of Plant Evolutionary Genetics at ETH Zurich’s Department of Biology, has been investigating this phenomenon: “Polyploidy can occur randomly or due to environmental changes such as drought, cold or salt stress.” It is common among plants, though less frequent in fish and amphibians. There is only one example of a polyploid mammal – though even this case is heavily disputed. Most polyploids are evolutionary dead ends but some acquire an advantage. “Plants with multiple sets of chromosomes are far more resistant to drought and salt than their predecessors,” she explains. Polyploid plants also have larger fruits and seeds, which makes them an interesting model for breeding new varieties of crops with higher yields and resilience. In fact, many important food crops have already been bred to be polyploid: wheat, potatoes, maize and coffee all have multiple sets of chromosomes.
 
 In one of her projects, Bomblies is investigating why polyploid plants are so stress-tolerant. One reason is cell size. Polyploid cells are larger than diploid cells, and this affects their interactions with the environment, such as the exchange of gases and water. “For an evolutionary biologist, polyploidy is as an absolutely fascinating example of disruption,” Bomblies says. “It’s a profound evolutionary force because it changes everything in an organism’s biology.”
+
+Read the current issue as a PDF (PDF, 7.4 MB)
 
 Read the current issue online
 

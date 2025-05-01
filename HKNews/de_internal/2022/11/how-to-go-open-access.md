@@ -1,5 +1,7 @@
 # how-to-go-open-access
 
+**Source:** de_internal/2022/11/how-to-go-open-access.html
+
 ## Main article
 
 Erfahren Sie alle wichtigen Eckpunkte rund ums Open-Access-Publizieren, wie es mit Verlagsverträgen, Autorenrechten und Lizenzen aussieht und welche neuen Finanzierungsmöglichkeiten die ETH Zürich 2022 bietet. Auch Open-Access-Vorgaben der Forschungsförderer und speziell die Änderungen beim SNF für 2023 werden ein Thema des Online-Kurses sein.

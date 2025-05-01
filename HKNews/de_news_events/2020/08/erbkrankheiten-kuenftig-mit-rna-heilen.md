@@ -1,5 +1,7 @@
 # erbkrankheiten-kuenftig-mit-rna-heilen
 
+**Source:** de_news_events/2020/08/erbkrankheiten-kuenftig-mit-rna-heilen.html
+
 ## Fusionsmolekül zeigt Wirkung
 
 Kurze RNA-Moleküle können als Medikamente verwendet werden. Ihre Wirksamkeit beruht auf der genetischen Information, die sie tragen: Medikamenten-RNA kann sich spezifisch an körpereigene RNA anlagern und damit deren Funktion beeinflussen. Allerdings gibt es erst wenige solche RNA-Medikamente.

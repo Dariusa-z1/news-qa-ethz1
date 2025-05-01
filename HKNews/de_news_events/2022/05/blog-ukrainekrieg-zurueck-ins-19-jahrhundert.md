@@ -1,5 +1,7 @@
 # blog-ukrainekrieg-zurueck-ins-19-jahrhundert
 
+**Source:** de_news_events/2022/05/blog-ukrainekrieg-zurueck-ins-19-jahrhundert.html
+
 ## Machtpolitik und Nationalismus eng verwandt
 
 Putins Invasion in der Ukraine kam für viele Beobachter im Westen völlig unerwartet. Hoffnungen auf eine kooperative, wirtschaftlich eng verflochtene und praktisch grenzenlose Welt haben einen schweren Schlag erlitten. In vielerlei Hinsicht läutet Russlands Annexion der Krim im Jahr 2014 die "Rückkehr der Geopolitik" 1 ein. Viele Mitglieder der realistischen Denkschule erwarten im Zuge der russischen Aggression eine Rückkehr zur altmodischen und multipolaren Grossmachtspolitik des 19. Jahrhunderts.

@@ -1,5 +1,7 @@
 # globe-new-approaches-to-waste-management
 
+**Source:** en_news_events/2022/12/globe-new-approaches-to-waste-management.html
+
 ## Steep learning curve
 
 It’s 10 a.m. at the Richterswil church community centre. The coffee samovar is already half empty, and the building is buzzing to the sound of African pop music. Students from 17 countries are making a few last tweaks to their prototypes, feverishly debating the final elements of their design amid the sketches and post-it notes covering their cubicle walls. Outside, some team members are rehearsing their presentations while others take part in an energiser activity to give them a mental and physical boost. "The students are working through the design-thinking process – a method of finding innovative solutions to complex problems," says Marriette Mertens, programme manager at ETH for Development (ETH4D) and head of the Rethinking Waste summer school.
@@ -43,4 +45,6 @@ But the most striking sign of the students’ enthusiasm for the project comes a
 The prize-winners include not only Wastech and Green Gold Challenge but also WeCycle, an awareness-raising programme that encourages kids and teenagers to set up their own compost system at school. Each award is emblazoned with Ananse Ntentan, a flower-like representation of a spider’s web taken from the traditional Ghanaian system of Adinkra symbols. "It stands for one of the key tenets of the summer school: finding creative solutions to complex challenges," says Renner.
 
 This particular symbol is designed to be broken into seven pieces and divided among the team members as a sign of solidarity. Tiaho is confident she’ll be seeing her friends again soon: "I’ve invited them over to my country." Other ETH students will also get the chance to travel to Ghana next year: plans are already in place to hold the next summer school at KNUST.
+
+Read whole issue (PDF, 4.4 MB)
 

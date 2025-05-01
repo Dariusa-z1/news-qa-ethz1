@@ -1,5 +1,7 @@
 # cleverer-kleber-koppelt-zugseil-und-motorprotein
 
+**Source:** en_news_events/2022/12/cleverer-kleber-koppelt-zugseil-und-motorprotein.html
+
 ## Microtubules: the cell’s towropes
 
 Couplings are critical to machines with moving parts. Rigid or flexible, whether the connection between the shafts in a motor or the joints in our body, the material properties ensure that mechanical forces are transduced as desired. Nowhere is this better optimised than in the cell, where the interactions between moving subcellular structures underpin many biological processes. Yet how nature makes this coupling has long baffled scientists.

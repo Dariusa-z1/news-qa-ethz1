@@ -1,5 +1,7 @@
 # die-natur-optimieren
 
+**Source:** de_news_events/2021/06/die-natur-optimieren.html
+
 ## Angepasste Kulturpflanzen
 
 Wenn es um die Ernährung geht, sehnen sich viele Menschen nach unberührter Natur. Was natürlich ist, gilt als gut und gesund. Öko-Marketing nährt das Bild einer idealisierten Landwirtschaft, die mit naturnahen Methoden natürliche Nahrungsmittel produziert. Werkzeuge wie etwa die Gentechnik sind hingegen verpönt. Sie gelten als künstliche Eingriffe in die Natur. Doch der verklärte Blick auf das Natürliche trügt. Wenig von dem, was wir heute essen, ist so natürlich entstanden. «Seit 12'000 Jahren wählen Menschen Pflanzen anhand ihrer Merkmale aus, um sie essbar und ertragreicher zu machen», sagt Bruno Studer, Professor für Molekulare Pflanzenzüchtung an der ETH Zürich. Die Landwirtschaft entstand durch künstliche Selektion.
@@ -25,6 +27,8 @@ Das Gentech-Moratorium läuft Ende Jahr aus. Der Bundesrat will es um weitere vi
 Bruno Studer ist Professor für Molekulare Pflanzenzüchtung und forscht an molekularbiologischen Methoden, um den Züchtungsprozess effizienter zu gestalten.
 
 Navreet Bhullar ist Dozentin am Institut für Molekulare Pflanzenbiologie und entwickelt neue Reis- und Weizensorten, die Mikronährstoffe wie Eisen und Zink anreichern.
+
+Ausgabe als PDF lesen (PDF, 7.5 MB)
 
 Ausgabe online lesen
 

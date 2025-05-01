@@ -1,5 +1,7 @@
 # new-professors
 
+**Source:** en_news_events/2017/05/new-professors.html
+
 ## Appointments
 
 At its meeting of 17 May 2017, the ETH Board appointed 15 new professors upon application of ETH Zurich President Lino Guzzella. The Board also acknowledged the resignation of one professor, thanking him for his service.

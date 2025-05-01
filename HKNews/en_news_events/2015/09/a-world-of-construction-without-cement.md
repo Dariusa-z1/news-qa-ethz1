@@ -1,5 +1,7 @@
 # a-world-of-construction-without-cement
 
+**Source:** en_news_events/2015/09/a-world-of-construction-without-cement.html
+
 ## Less cement, lower CO2 emissions
 
 It was a brilliant idea: why not renovate the Gothic Cathedral of Notre Dame in the centre of Lausanne using stone extracted from a nearby demolition site, after the buildings there had been razed to the ground? After all, the church was originally built of local stone that today lies buried under the city. “The redevelopment made this resource accessible again, at least for a short while,” says Guillaume Habert, professor of sustainable construction at ETH Zurich . A doctoral candidate demonstrated the local scarcity of resources under the joint supervision of Habert and the originator of the idea, a professor of architecture at the Geneva Institute of Technology, Architecture and Landscape (hepia). But sadly this was as far as it went, as Habert explains: “We just didn’t have enough time to realise the project.” By the time all the details had been worked out, the stone had already been crushed by excavators and the fragments were too small to be useful. But Habert hasn’t given up hope: “At least these efforts served as a wake-up call; perhaps next time we will succeed, be it in Lausanne or another city.”
@@ -8,25 +10,23 @@ Habert is a fervent advocate of using local resources – especially in urban en
 
 ## Radical approach
 
-One of the local resources of most interest to urban development is recycled concrete, since the raw materials from which it is made – gravel, sand and cement – can be partially recovered and reused when an old building is demolished. The first step in the process involves crushing the recuperated concrete. This rough fraction contains gravel and sand that can be extracted and used to produce new concrete. The dust that remains consists mainly of cement, which had hardened in contact with water during the original manufacturing process. “Cement recycling is a more complex process – but it’s crucial,” insists Habert. This is because the manufacturing process for cement generates large quantities of carbon dioxide (CO 2 ), partly as a result of heating the two main ingredients – limestone and clay – to a temperature of 1,500 °C, and partly due to decarbonation of limestone. The latter step liberates no less than half a tonne of CO 2 per tonne of cement. When the raw material is recycled in a cement factory, it has to be reheated to a high temperature so it can regain its original form, but at least this process doesn’t release any additional CO 2 – provided climate-neutral energy sources do the heating.
-
 Cement is the ideal binder for concrete. When mixed with water, it binds together gravel and sand. As part of the “Energy Turnaround” national research programme (NFP 70) Habert leads the joint “low energy concrete” project . Other ETH scientists and research groups from EPFL and Empa are also participating in this joint project. Its aim is to develop a product that contains less cement than traditional concrete but still has the same properties. Concrete manufacturers are already using waste from industries such as coal and steel to replace part of the cement in concrete. These waste products have ideal properties and cannot be reused or recycled by the industry that produced them. Nowadays, they replace 30 percent or more of the cement in commercial concrete products.
-
-## Next generation
 
 The researchers want to double the waste content without reducing the mechanical strength of the final product, which must still withstand a force of 30 megapascals. “This would allow buildings to have the same dimensions as today but with a significantly better CO 2 balance,” says Habert. The team’s current work consists of characterising the new concrete with a lower cement content and optimising it still further.
 
-One of the challenges with which the researchers are repeatedly confronted is how to manage the interaction between the low-cement concrete and other materials, including the steel reinforcement bars (rebars) that are cast into the concrete during construction. If the concrete contains too little pure cement, the steel rusts much too quickly. “Such reinforced concrete structures would be less durable, but that’s obviously not the result we’re looking for,” emphasises Habert.
+## Next generation
 
-## Guillaume Habert
+One of the challenges with which the researchers are repeatedly confronted is how to manage the interaction between the low-cement concrete and other materials, including the steel reinforcement bars (rebars) that are cast into the concrete during construction. If the concrete contains too little pure cement, the steel rusts much too quickly. “Such reinforced concrete structures would be less durable, but that’s obviously not the result we’re looking for,” emphasises Habert.
 
 That’s why the scientists are not just optimising the new concrete but also developing alternatives to steel reinforcement. They are working together to find rust-free alternatives such as carbon-fibre-reinforced polymers or synthetic fibres. “My role in this research is to evaluate the environmental impact of these materials,” says Habert. He analyses the CO 2 balance of the various technologies and identifies possible ways of optimising this balance.
 
+## Guillaume Habert
+
 One novel solution can be found on the Hönggerberg campus: the House of Natural Ressources , inaugurated this summer in a project led by Andrea Frangi. It serves both as an office building and as a research laboratory for sustainable construction. The concrete slabs used in its construction are reinforced with timber instead of the usual steel. “Concrete and timber make an ideal combination,” says Habert, “because there is absolutely no risk of corrosion.”
 
-## "Globe" magazine
-
 Another approach Habert is pursuing is a much more radical departure: concrete made with clay rather than cement. Clay is a far more eco-friendly building material because it is not heated to a high temperature and hence doesn’t trigger any chemical reactions. But this also has its downside: clay-based concrete has a mechanical strength of only 3 megapascals, which is roughly ten times lower than that of conventional cement-based concrete. “Consequently, this type of concrete cannot be used in the same applications,” says Habert. One possible solution would be to restrict the use of cement-free concrete to non-loadbearing walls. This alone could significantly reduce the amount of cement used in construction.
+
+## "Globe" magazine
 
 Along with optimising the material per se, another of Habert’s research group’s priorities is to improve the way it is processed at the construction site. After the novel concrete has been poured into the formwork, cracks often appear as it sets. To solve this problem, the researchers are investigating ways of chemically modifying the surface properties of the clay. Their aim is to produce a cement-free concrete that remains workable for three hours – like traditional products. The experimental cement-free concrete sets in 30 minutes, which leaves far too little time for it to be transported and processed. Special porous formwork that allows water to penetrate might also help.
 

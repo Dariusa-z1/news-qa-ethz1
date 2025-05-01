@@ -1,5 +1,7 @@
 # klare-wege-zum-ziel
 
+**Source:** de_news_events/2013/10/klare-wege-zum-ziel.html
+
 ## Neue Signaletik
 
 Der Standort Hönggerberg dient nicht nur der Forschung und der Lehre, sondern ist auch ein Campus, der durch Vorträge und Führungen Jahr für Jahr Tausende von Besucherinnen und Besuchern anzieht. Mit dem Bau von neuen Büro- und Forschungsgebäuden und zwei neuen Studierendenwohnheimen wird es immer wichtiger, dass sich Mitarbeitende, Studierende und Besucher einfach und rasch orientieren können. Während ETH-Angehörige sich nach kurzer Zeit mit den bestehenden Gebäudekürzeln, wie HIT, HXE oder HIL auskennen, können sich Gäste, die oft nur für eine Veranstaltung kommen, nur schwer orientieren.

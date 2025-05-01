@@ -1,5 +1,7 @@
 # blog-wir-sollten-die-verstaerkte-sommererwaermung-nicht-unterschaetzen
 
+**Source:** de_news_events/2024/07/blog-wir-sollten-die-verstaerkte-sommererwaermung-nicht-unterschaetzen.html
+
 ## Zum Autor
 
 Wo bleibt der Sommer? Diese Frage wurde mir in den vergangenen Wochen öfter gestellt. Tatsächlich war der Juni, wie zuvor bereits der Mai, wechselhaft, nass und sonnenarm. Zu kalt war er jedoch nicht – im Gegenteil: Laut MeteoSchweiz war die Tagesmitteltemperatur im Juni immer noch 0.4 Grad Celsius wärmer als der Durchschnitt der aktuellen Referenzperiode von 1991 bis 2020. 1

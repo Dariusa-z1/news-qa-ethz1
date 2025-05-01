@@ -1,5 +1,7 @@
 # die-eth-zuerich-setzt-sich-fuer-2023-ein-energiesparziel
 
+**Source:** en_internal/2023/01/die-eth-zuerich-setzt-sich-fuer-2023-ein-energiesparziel.html
+
 ## High electricity costs expected until at least 2025
 
 (Image: Adobe Stock; Editing: ETH Zurich)

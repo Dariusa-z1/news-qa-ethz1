@@ -1,5 +1,7 @@
 # thomas-mann-archive-extended-opening-times-and-change-in-location
 
+**Source:** en_internal/2016/05/thomas-mann-archive-extended-opening-times-and-change-in-location.html
+
 ## Main article
 
 From Monday 11 July, the archive, library and Thomas Mann’s last study will be accessible at the new location with extended opening times: Monday to Friday from 10.00 to 17.00.

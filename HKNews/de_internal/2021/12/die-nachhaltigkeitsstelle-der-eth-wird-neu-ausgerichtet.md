@@ -1,5 +1,7 @@
 # die-nachhaltigkeitsstelle-der-eth-wird-neu-ausgerichtet
 
+**Source:** de_internal/2021/12/die-nachhaltigkeitsstelle-der-eth-wird-neu-ausgerichtet.html
+
 ## Flugreisen und ETH Woche wechseln Schulleitungsbereich
 
 - Die ETH Woche, in der sich Studierende jeweils eine Woche lang in interdisziplinären Teams einem gesellschaftsrelevanten Thema widmen, ist ab 1. Januar 2022 gesamthaft dem Rektorat zugeteilt.

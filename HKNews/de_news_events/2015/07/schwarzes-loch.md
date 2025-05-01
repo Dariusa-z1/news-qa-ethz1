@@ -1,5 +1,7 @@
 # schwarzes-loch
 
+**Source:** de_news_events/2015/07/schwarzes-loch.html
+
 ## War am Anfang alles anders?
 
 CID-947 heisst das Objekt, das Benny Trakhtenbrot, Forscher am Institut für Astronomie der ETH Zürich, zusammen mit einem internationalen Team von Astrophysikern untersuchten. Beobachtungen im Keck-Observatorium auf Hawaii und mit verschiedenen Weltraumteleskopen zeigten, dass es sich dabei um eine sehr weit entfernten Galaxie mit einem extrem massereichen Schwarzes Loch handelt. Galaxie und Schwarzes Loch entstammt einer Epoche, als das Universum mit weniger als zwei Milliarden Jahren erst 14 Prozent seines jetzigen Alters hatte (heute sind seit dem Urknall fast 14 Milliarden Jahre vergangen).

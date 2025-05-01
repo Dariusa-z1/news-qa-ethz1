@@ -1,5 +1,7 @@
 # 20-years-eth-juniors
 
+**Source:** en_news_events/2017/09/20-years-eth-juniors.html
+
 ## Scoring points with creative ideas
 
 Up the hill from the ETH Main Building stands the small home of ETH juniors, on the idyllic Zürichberg. They have worked their way up, so to speak. Twenty years ago they had to knock on every door at the university in search of a place to call their own. It was on Floor G of the Main Building back in 1997 that the five founding members of ETH juniors wrote the first chapter in the success story of this student club.

@@ -1,5 +1,7 @@
 # filling-investors-with-enthusiasm
 
+**Source:** en_news_events/2016/01/filling-investors-with-enthusiasm.html
+
 ## Main article
 
 An hour and a half before the event gets under way, Dominique Burgauer, Archilogic CFO and COO is already at the Prime Center testing the technology. This ETH spin-off, specialising in automated 3D visualisations of floor plans, wants to make the best possible impression. Not even a cold, visibly bothering Burgauer, can get in his way. For Archilogic, the Investor Summit marks the prelude to the second round of financing. Everything has to be perfect. After all, this event is about potential multimillion-franc investments.
@@ -21,6 +23,4 @@ As the initiator, chairman and pilot of Solar Impulse, Bertrand Piccard gives an
 The time has finally come: Burgauer, who came on board at Archilogic as an experienced CFO, presents the start-up in impressive fashion. He demonstrates the 3D technology and defines the company’s vision and business strategy. Real-estate companies and businesses that can use Archilogic’s software to plan workplaces virtually are clear target groups.
 
 As it happens, the company presentation goes well with the guests, both from Switzerland and abroad. Although, for some of the start-ups, the business strategy is, perhaps, not completely clear, Archilogic and several other spin-offs succeed in winning the audience over with their presentations. Whether the investors want to commit themselves is a decision some of them will need to sleep on, but the company certainly sparks their interest.
-
-“We have definitely met some people who can help us,” reports Kaspar Helfrich after the summit draws to a close. He expresses hope that the event will be held again next year, ideally with even more international contacts. Marjan Kraak also sums up the experience positively saying, “It was great that the summit was fully booked, and I was even able to meet some interesting investors for newer ETH spin-offs.”
 

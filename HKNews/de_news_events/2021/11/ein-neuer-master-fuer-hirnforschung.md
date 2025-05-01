@@ -1,5 +1,7 @@
 # ein-neuer-master-fuer-hirnforschung
 
+**Source:** de_news_events/2021/11/ein-neuer-master-fuer-hirnforschung.html
+
 ## Ein Studiengang, drei Themenbereiche
 
 Psychische und neurologische Störungen wie Depressionen oder Demenz gehören zu den weit verbreitetsten Erkrankungen weltweit und stellen eine grosse Belastung für die Gesellschaft dar. Um diese Krankheiten besser zu verstehen und effizientere Therapien entwickeln zu können, braucht es Spezialistinnen und Spezialisten, die die Zusammenhänge zwischen Biologie, Technologie und klinischer Neurologie verstehen. Solche Expertinnen und Experten auszubilden, ist das Ziel eines neuen, interdisziplinären Master-Studienganges für Hirnforschung, den das externe Seite Zentrum für Neurowissenschaften der ETH Zürich und Universität Zürich ab September 2022 anbietet.

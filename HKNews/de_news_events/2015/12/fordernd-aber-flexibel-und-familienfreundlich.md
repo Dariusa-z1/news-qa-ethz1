@@ -1,5 +1,7 @@
 # fordernd-aber-flexibel-und-familienfreundlich
 
+**Source:** de_news_events/2015/12/fordernd-aber-flexibel-und-familienfreundlich.html
+
 ## Karriere auch in Teilzeit möglich
 
 Kinder wollen pünktlich aus der Krippe geholt werden und sind zwischendurch auch mal krank. Vorgesetzte, die familienfreundlich handeln, zeichnen sich unter anderem dadurch aus, dass Teilzeit- oder Heimarbeit möglich ist und ihnen die Zielerreichung ihrer Mitarbeitenden wichtiger ist als die reine Präsenz am Arbeitsplatz. So steht es in den Kriterien für Familienfreundlichkeit der ETH Zürich. Diese nutzte die Jury des Goldenen Dreirads als Grundlage, um den familienfreundlichsten Vorgesetzten 2015 zu ehren. Der Preis wurde von der Akademischen Vereinigung des Mittelbaus an der ETH Zürich (AVETH) initiiert und wird gemeinsam von AVETH und equal!, der Stelle für Chancengleichheit vergeben. Der diesjährige Preisträger ist Ralph Schlapbach.

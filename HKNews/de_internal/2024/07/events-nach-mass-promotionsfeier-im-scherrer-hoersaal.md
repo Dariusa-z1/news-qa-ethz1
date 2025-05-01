@@ -1,5 +1,7 @@
 # events-nach-mass-promotionsfeier-im-scherrer-hoersaal
 
+**Source:** de_internal/2024/07/events-nach-mass-promotionsfeier-im-scherrer-hoersaal.html
+
 ## Vom Konzept zur Umsetzung vor Ort
 
 Als der Rektor, Prof. Dr. Günther Dissertori, am frühen Freitagabend im vollbesetzten Scherrer-Hörsaal (ETA) den Doktorinnen und Doktoren und deren Familienangehörigen zu ihrem Erfolg gratuliert, sitzt Alfredo Picariello in der ersten Reihe und blickt unauffällig zu Karin Emmenegger, die am Seiteneingang steht. Picariello und Emmenegger sind in unterschiedlichen Rollen vor Ort, ihr Ziel ist jedoch das gleiche: den Doktorinnen und Doktoren eine reibungslose Promotionsfeier bereiten, an die man sich gerne erinnert.

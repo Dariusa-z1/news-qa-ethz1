@@ -1,5 +1,7 @@
 # e-learning-zum-umgang-mit-sexueller-belaestigung
 
+**Source:** de_internal/2022/10/e-learning-zum-umgang-mit-sexueller-belaestigung.html
+
 ## Sexuelle Belästigung geht uns alle an
 
 Wir alle wünschen uns, dass die ETH ein sicherer und respektvoller Ort bleibt. Mobbing, sexuelle Belästigung, Diskriminierung sowie Bedrohung und Gewalt werden an unserer Hochschule nicht toleriert und ziehen Konsequenzen nach sich. Im Rahmen der Initiative « Steh ein für Respekt » lanciert die Schulleitung nun ein E-Learning, in dem das Thema sexuelle Belästigung im Studien- und Arbeitsalltag vertieft wird.

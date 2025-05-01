@@ -1,5 +1,7 @@
 # georeferenzierung-von-karten
 
+**Source:** de_internal/2019/11/georeferenzierung-von-karten.html
+
 ## Main article
 
 Die Georeferenzierung von historischen, digitalisierten Karten ist aber aufwendig und kann oft nur von Hand geleistet werden. Deshalb zählen wir auf Ihre Unterstützung!

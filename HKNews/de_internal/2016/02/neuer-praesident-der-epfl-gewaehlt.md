@@ -1,5 +1,7 @@
 # neuer-praesident-der-epfl-gewaehlt
 
+**Source:** de_internal/2016/02/neuer-praesident-der-epfl-gewaehlt.html
+
 ## Main article
 
 Der Bundesrat hat heute auf Empfehlung des ETH-Rats Professor Dr. Martin Vetterli zum neuen Präsidenten der Ecole Polytechnique Fédérale de Lausanne (EPFL) gewählt. Martin Vetterli ist ordentlicher Professor an der EPFL und aktuell Forschungsratspräsident des Schweizerischen Nationalfonds (SNF). Sein neues Amt wird er am 1. Januar 2017 antreten. Martin Vetterli folgt auf Patrick Aebischer, welcher die EPFL seit 1. März 2000 während 16 Jahren erfolgreich geführt hat, würdigt der Bundesrat. In Aebischers Amtszeit habe sich die EPFL zu einer weltweit führenden naturwissenschaftlich-technischen Hochschule entwickelt, deren Ansehen und Bedeutung weit über die Region und die Landesgrenzen hinausstrahle.

@@ -1,5 +1,7 @@
 # these-eth-students-are-competing-in-the-olympics
 
+**Source:** en_news_events/2024/07/these-eth-students-are-competing-in-the-olympics.html
+
 ## In brief
 
 - Several athletes with a connection to ETH Zurich are taking part in the 2024 Olympic Games in Paris

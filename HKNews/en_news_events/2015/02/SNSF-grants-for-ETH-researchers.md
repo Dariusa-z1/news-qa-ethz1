@@ -1,5 +1,7 @@
 # SNSF-grants-for-ETH-researchers
 
+**Source:** en_news_events/2015/02/SNSF-grants-for-ETH-researchers.html
+
 ## Main article
 
 ETH researchers André Studart and Jonathan Home have each received a SNFS Consolidator Grant from the Swiss National Science Foundation worth up to CHF 2 million for their five-year projects.

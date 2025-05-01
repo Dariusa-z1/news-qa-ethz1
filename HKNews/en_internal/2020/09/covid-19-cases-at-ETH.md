@@ -1,5 +1,7 @@
 # covid-19-cases-at-ETH
 
+**Source:** en_internal/2020/09/covid-19-cases-at-ETH.html
+
 ## Main article
 
 ETH Zurich has gone to a lot of effort to ensure that its members stay as healthy as possible throughout the coronavirus epidemic. But infection cannot be avoided completely. Katherine Timmel, Head of the Safety, Security, Health and Environment (SSHE) department, and her deputy Reto Suter are part of the ETH Covid task force. They and their SSHE colleagues are the key point of contact when ETH members receive positive test results. Here, they offer an insight into their work and an update on ETH members who have already tested positive.
@@ -10,15 +12,9 @@ What happened there? Timmel: The course participants went on an excursion and th
 
 And is that where it happened? Timmel: We don’t know for sure, we can only speculate. But this case perfectly illustrates that no matter how strictly we adhere to our safety concept, we are still exposed to a certain level of danger - particularly in restaurants, bars and other places where people gather. I also think about the break areas at ETH.
 
-Mr Suter, what are the consequences of these cases of infection? Reto Suter: We didn’t hear about all the cases at the same time. When we got the first notification, we passed it on to the cantonal contact tracer, as we did with the later notifications. The cantonal medical officer then mandated preventive quarantine for all the participants from the canton of Zurich for which she is responsible.
-
-Was this a failure of the ETH safety concept? Suter: No, quite the opposite – the cantonal medical officer approved of the safety concept. Because it was thanks to our safety concept that we were able to provide the canton with the data required for all contacts. And that meant the preventive quarantine could be mandated quickly to prevent further infection as far as possible.
-
 What recommendations for ETH members do you derive from this case? Suter: We all have to be careful all the time. Not just at the workplace, not just in courses, but also when we’re eating and in our leisure time. We can’t always adhere to the minimum social distance. In cases of doubt, we recommend wearing a mask once too often rather than once too few. Regardless of whether masks are mandatory or not. Because, ultimately, the development over recent months shows that the more relaxed we get, the more case numbers rise. That doesn’t just apply to Zurich or Switzerland, but worldwide, as news reports indicate.
 
 Timmel: This concrete case also shows how important it is to collect contact data, whether in meetings or in restaurants. That’s the only way the tracers can act so swiftly. I also think it’s important that we inform people quickly when there’s a positive test result. Employees should tell their supervisors straight away, who can pass it on to the SSHE while complying with personal rights. Ideally, they would also inform colleagues in their team or group themselves. That helps prevent rumours when someone is ill or absent for a long period. Open communication also helps destigmatise the situation. We all know that no one “has themselves to blame” when they get infected.
-
-And who can students turn to? Timmel: Academic Services are the point of contact for students. Any student who receives a positive test should report it by email to . Academic Services will then pass the information on to us.
 
 How does SSHE proceed in the event of a positive case? Suter: When we receive notification that someone has tested positive, we gather information on the close contacts that the person had at ETH, as well as the safety concept, and pass it on to the cantonal contact tracer. But there are also cases when the cantonal emergency desk contacts us. Or the contact tracer approaches the affected person or their supervisor directly. There are numerous pathways in contact tracing, but ultimately SSHE is the ETH hub for information in all directions.
 
@@ -26,11 +22,7 @@ Timmel: There are six of us who can receive notification of positive cases, and 
 
 Can you tell us anything about the number of cases that you have processed to date? Timmel: Over the entire period, we are aware of 38 ETH members testing positive, and 21 of those since the beginning of September. Fortunately, we haven’t yet had any serious cases that have required hospitalisation. At least, none that we are aware of.
 
-Besides contact tracing, what are the most important tasks facing SSHE at present? Suter: We are following the development of the pandemic, working with other members of the task force to develop recommendations and regulations that are incorporated into the master plan and submit a report to the ETH task force every two days. And, with the active support of other SSHE team members, we answer questions on the coronavirus hotline, which was particularly busy at the beginning of the pandemic. We also generate fact sheets and FAQs for the coronavirus web page.
-
 Timmel: And we are also communicating closely with the relevant contacts in the departments and central bodies, who provide us with valuable input when we draw up regulations. At the beginning of the pandemic in particular, there was a great deal of uncertainty that required a lot of support work. Advice has become one of our key tasks. And then you still have day-to-day business to contend with, although certain tasks have to take a back seat at the moment.
-
-What would you like to see ETH members doing? Suter: Sometimes we wish people would take a look at the information on the coronavirus web page before they contact us. It has the answers to a lot of questions.
 
 Timmel: At the same time, the extensive contact with the various ETH members has been rewarding. We also sense a great overall willingness to help among the specialists who support us. Take the issue of ventilation in lecture halls, for example – here a number of professors and their teams are supporting us and conducting applied practical research. And then there are the members of the federal task force, who we can contact if we have questions. And that, as I see it, is the secret of our success at ETH. This coordinated thinking is a major reason why we have come through the crisis well. But to come back to your question: I would like to see all of us trying to keep the virus in check through protective measures. That is only possible when we all work together and take personal responsibility. Because we can’t let our guard down; the colder months will present additional challenges, we can be sure of that.
 

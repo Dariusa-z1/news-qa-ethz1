@@ -1,5 +1,7 @@
 # einfach-genial-radarreflektor
 
+**Source:** de_news_events/2017/04/einfach-genial-radarreflektor.html
+
 ## Helfen gern, aber nicht so
 
 «Dieser Mechanismus ist so genial, den müsste man patentieren lassen», dachte sich Cornelius Senn, und dies nicht zum ersten Mal. Der Mess- und Elektrotechniker am Departement Bau, Umwelt und Geomatik machte schon oft Erfindungen und stellte Geräte her, die den Forschenden im Departement das Leben erleichterten. Doch diesmal sollte sich der so leicht dahergesagte Spruch bewahrheiten.
@@ -21,8 +23,6 @@ Leinss machte Tests mit Schrauben und zog Alufolie auf Blech auf. Die Erkenntnis
 ## Grosses Potenzial
 
 Dank solcher Laschen lassen sich die Reflektorteile einfach und stabil zusammensetzen. (Bild: ETH Zürich / P. Rüegg)
-
-Also hat sich Senn Gedanken gemacht, wie er das besser lösen könnte und sein System mit der Verzahnung entwickelt, das er mit den Händen simulierte. «Als ich die Idee zu Papier brachte, kamen mir plötzlich Zweifel auf, ob sich das wirklich umsetzen lässt», erinnert er sich. Also ab in die Werkstatt, wo er ein Muster erstellte und sah, dass das Prinzip funktioniert. Und nun hörte er den Erfinderspruch vom Patent immer öfter: Silvan Leinss war begeistert, ebenso seine Chefin, Irena Hajnsek, die sie angingen, um einen Prototyp finanzieren zu können. So richtig konkret wurde die Patentfrage dann aber bei der Firma Keller Laser, die den Prototyp herstellte. Der Firmeninhaber erkundigte sich danach. «Wir sind daran», entgegnete Senn und kontaktierte daraufhin ETH transfer, die Technologietransferstelle der ETH, wo Stefan Lux ebenfalls begeistert reagierte.
 
 Bei aller Begeisterung: Praktisch jeder, der den Mechanismus sah, sagte, das habe er auch schon irgendwo gesehen. Doch wo genau? Was genau? Auch auf dem Patentamt war man sicher, dass ein solcher Mechanismus bereits hinterlegt ist. Einen Tag lang haben die Beamten gesucht – und dann doch nichts dergleichen gefunden. Nun ging es darum, die Patentschrift zu verfassen, was gar nicht so einfach war. Denn es sollte ja nicht einfach der Reflektor unter Schutzrecht gestellt werden, sondern der Mechanismus, mit dem die Platten miteinander verbunden sind. Und dieser ist so einfach, dass es extrem schwierig ist, ihn zu beschreiben.
 

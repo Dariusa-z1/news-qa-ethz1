@@ -1,5 +1,7 @@
 # eth-bibliothek-takes-part-in-the-project-data-life-cycle-management
 
+**Source:** en_internal/2015/09/eth-bibliothek-takes-part-in-the-project-data-life-cycle-management.html
+
 ## Main article
 
 Its main goal is to create sustainable and concrete solutions for the management of research data throughout its entire lifecycle.

@@ -1,5 +1,7 @@
 # Building-on-industry-relationships
 
+**Source:** en_news_events/2014/08/Building-on-industry-relationships.html
+
 ## Business relies on university research
 
 For Roland Siegwart, Vice President Research and Corporate Relations at ETH Zurich, Industry Day 2014 was a very special day: as one of the founders of the event – “a bridge between the university and industry and small and medium-sized enterprises” – it was Siegwart’s last Industry Day in his current role. He will step down as vice president at the end of the year and return to research work.
@@ -27,8 +29,6 @@ The ETH alumnus was looking forward to gaining an insight into big data and grap
 Matthias Baldinger from ETH spin-off Additively.com does not enjoy Hocoma’s comfortable position. He used Industry Day primarily as an exhibitor. The day was a good opportunity to gain some exposure and new contacts, said the co-founder of the young company, which acts as a hub for 3D printing jobs. He was therefore most interested in the field of additive manufacturing: “Industry Day is a perfect way to get an overview of the full breadth of the research at ETH.”
 
 However, working with institutes or departments at ETH Zurich is not yet an option for Additively.com – the two-man operation is still in the build-up phase. Rather, Baldinger’s idea is to carry out jobs for ETH researchers and find the ideal 3D print providers for their projects.
-
-Another first-time guest at Industry Day was Dan Kapasi, head of the five-employee company Intelligent Business Strategies. He noticed the event on the ETH website and found a few topics that interested him, such as additive manufacturing, big data and renewable energy. Kapasi said that he is interested primarily in working with spin-offs and that he hoped to make contact with as many as possible at Industry Day. His company is still too small to think of a research collaboration, such as hiring a doctoral or master’s student.
 
 ETH Zurich has expanded and strengthened its collaboration with industry and knowledge transfer steadily over recent years with the establishment of initiatives and programmes such as the Industry Relations Programme , the Pioneer Fellowships and ieLabs . The success of these endeavours is borne out by the data: significantly more contracts with companies in 2013 compared with 2003 and over recent years consistently more than 20 spin-offs a year demonstrate the effectiveness of the efforts. In 2013, ETH members registered 171 inventions and filed more than 100 new patents. “Today, entrepreneurship and industry partnerships are a central part of the ETH culture. That has not always been the case,” said Siegwart at Industry Day.
 

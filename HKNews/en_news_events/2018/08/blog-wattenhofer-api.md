@@ -1,5 +1,7 @@
 # blog-wattenhofer-api
 
+**Source:** en_news_events/2018/08/blog-wattenhofer-api.html
+
 ## More than the sum of its parts
 
 When my smartphone plays a certain tune in the morning, I know it's time to set out for the bus. If I dawdle on the way, the phone vibrates and I quicken my step a little. As always, I arrive at exactly the same time as the bus at the bus stop, and just get on. This also works without a hitch if the bus is late.

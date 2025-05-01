@@ -1,5 +1,7 @@
 # encouraging-more-critical-opinion
 
+**Source:** en_news_events/2014/11/encouraging-more-critical-opinion.html
+
 ## Rankings and voting results
 
 “A good university doesn’t just teach knowledge but the ability to think,” said ETH Rector Lino Guzzella in his speech at ETH Day 2014. He believes that scientists need to select their research approach carefully, continually adjust their direction and critically assess their results. Critical opinion should not simply be allowed, it should be encouraged. That is why ETH Zurich is working on a widely supported initiative to incorporate more independent thinking into the student curriculum.

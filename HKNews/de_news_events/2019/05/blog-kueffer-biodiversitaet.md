@@ -1,5 +1,7 @@
 # blog-kueffer-biodiversitaet
 
+**Source:** de_news_events/2019/05/blog-kueffer-biodiversitaet.html
+
 ## Unseren Lebensraum erhalten
 
 Die Artenvielfalt schwindet. Dank eines alarmierenden Berichts des Weltbiodiversitätsrates (IPBES) 1 und eindeutiger Befunde zum Insektensterben 2 wächst in der Öffentlichkeit das Bewusstsein, dass unsere belebte Natur akut bedroht ist: Der Frühling verstummt zusehends 3 , und gerade auch in der Schweiz sind etliche Tier- und Pflanzenarten unter enormem Druck. 4 Als wäre der Klimawandel nicht Herausforderung genug, droht uns nun auch eine Biodiversitätskrise. Die gute Nachricht: Wir können direkt vor unserer Haustür Massnahmen ergreifen und unmittelbar davon profitieren.

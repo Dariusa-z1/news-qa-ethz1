@@ -1,5 +1,7 @@
 # kontinente-geben-den-takt-an
 
+**Source:** de_news_events/2014/01/kontinente-geben-den-takt-an.html
+
 ## Gekoppelte dreidimensionale Darstellung
 
 An den Mittelozeanischen Rücken (MOR), die sich zehntausende von Kilometern mitten durch die Weltmeere erstrecken, öffnet sich der Meeresboden. Hier gelangt heisses Magmamaterial, transportiert durch die Konvektionsströmungen des Erdmantels, an die Oberfläche und erzeugt neue ozeanische Kruste. Wie diese Prozesse in der frühen Erdgeschichte in Gang kamen, ist Gegenstand anhaltender Debatten. Forscher der ETH Zürich und Universität Lyon beleben diese Debatte nun mit neuen Computersimulationen.

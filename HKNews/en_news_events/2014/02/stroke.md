@@ -1,5 +1,7 @@
 # stroke
 
+**Source:** en_news_events/2014/02/stroke.html
+
 ## The healthy half of the brain assumes control
 
 After a stroke, the brain stem (purple) plays an important role in the recovery of motor functions. (Graph: iStockphoto – Yakobchuk)

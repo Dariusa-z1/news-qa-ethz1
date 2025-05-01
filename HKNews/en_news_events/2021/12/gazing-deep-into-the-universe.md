@@ -1,5 +1,7 @@
 # gazing-deep-into-the-universe
 
+**Source:** en_news_events/2021/12/gazing-deep-into-the-universe.html
+
 ## Well protected against the sun
 
 The launch of an Ariane rocket from the Guiana Space Centre in the next few days will mark the fulfilment of a long-held dream for Adrian Glauser. On board will be the James Webb Space Telescope (JWST), which is bound on a mission scheduled to last up to ten years. Glauser, a physicist at ETH Zurich, has spent the past 18 years working on this challenging project, which is the follow-up to the Hubble Space Telescope. Time and time again, it has been postponed. “Over the years, I’ve learnt to stay calm whenever there’s a setback,” he says. “But now that the launch really seems to be going ahead, I’m pretty excited!”

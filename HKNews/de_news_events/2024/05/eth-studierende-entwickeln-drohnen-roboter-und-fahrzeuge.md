@@ -1,5 +1,7 @@
 # eth-studierende-entwickeln-drohnen-roboter-und-fahrzeuge
 
+**Source:** de_news_events/2024/05/eth-studierende-entwickeln-drohnen-roboter-und-fahrzeuge.html
+
 ## Avero – die sichere Inspektionsdrohne
 
 - externe SeiteaCentauricall\_made konstruiert ein aerodynamisches Rennauto, das ausschliesslich von Solarzellen angetrieben wird und autobahntaugliche Geschwindigkeiten erreicht. Im Herbst 2025 nimmt das Team zum zweiten Mal an der World Solar Challenge teil, die über 3000 km durch das australische Outback führt.

@@ -1,5 +1,7 @@
 # naturschutz-als-landschaftsgaertnerei
 
+**Source:** de_news_events/2016/11/naturschutz-als-landschaftsgaertnerei.html
+
 ## Von Landschaftsarchitekten lernen
 
 Klimawandel, Zersiedelung, Artensterben: In 50 Jahren werden die Schweizer Landschaften nicht wiederzuerkennen sein. Naturschützer tun sich mit solchen Veränderungen schwer. Sie träumen von vergangenen Zeiten: von menschenleerer Wildnis oder traditioneller Kulturlandschaft wie im 19. Jahrhundert. Das ist gefährlich. Wer die Landschaften von Morgen mitgestalten will, muss wagen, diese neu zu denken.

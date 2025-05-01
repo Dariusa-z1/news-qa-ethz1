@@ -1,5 +1,7 @@
 # morph-tales-how-ai-and-humans-interact
 
+**Source:** en_internal/2023/03/morph-tales-how-ai-and-humans-interact.html
+
 ## From the CAB to the ETH Main Building
 
 Morph Tales combines an interactive augmented reality experience with a real campus experience at ETH Zurich. In a playful way, the game aims to give young people, families and adults an understanding of how artificial intelligence (AI) can support us in a wide range of activities, or how people and AI can work together to accomplish different tasks.

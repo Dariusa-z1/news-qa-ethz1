@@ -1,5 +1,7 @@
 # wie-ein-saugnapf-medikamente-ins-blut-befoerdert
 
+**Source:** de_news_events/2023/09/wie-ein-saugnapf-medikamente-ins-blut-befoerdert.html
+
 ## In Kürze
 
 - Der Saugnapf der ETH-Forschenden ermöglicht die schmerzfreie Einnahme von Arzneimitteln, die bis anhin nur injiziert werden konnten.

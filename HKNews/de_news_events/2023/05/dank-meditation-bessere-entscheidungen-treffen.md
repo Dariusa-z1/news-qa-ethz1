@@ -1,5 +1,7 @@
 # dank-meditation-bessere-entscheidungen-treffen
 
+**Source:** de_news_events/2023/05/dank-meditation-bessere-entscheidungen-treffen.html
+
 ## Das Wichtigste in Kürze
 
 - Menschen, die im Rahmen einer Studie zwei Wochen lang täglich Achtsamkeitsmeditation praktizierten, neigten weniger dazu, negativen Informationen aus dem Weg zu gehen.

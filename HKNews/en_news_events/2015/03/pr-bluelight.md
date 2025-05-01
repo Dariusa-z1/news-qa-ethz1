@@ -1,5 +1,7 @@
 # pr-bluelight
 
+**Source:** en_news_events/2015/03/pr-bluelight.html
+
 ## Erection without sexual stimulation
 
 Erectile dysfunction is a taboo subject among men. No one likes to talk about it. But the fact is that as men age, an increasing number will suffer from erectile dysfunction. From the age of 30, the number of men who have unsatisfactory erections or none at all increases. In the over-60 age group, more than half of all men have been affected by erectile dysfunction.
@@ -33,8 +35,4 @@ An artificially induced erection would satisfy a great need among patients suffe
 ETH researchers in Basel worked on this gene construct for four years and for the time being it exists only as a prototype; tests in humans have yet to be conducted. However, Fussenegger expects that the principle will become established with humans too, since the system is very easy and inexpensive to use. “Before it can be used as a treatment, it requires highly expensive clinical tests. We are actively looking for partners to put our technology into clinical practice.”
 
 Kim T, Folcher M, Douad-El Baba M, Fussenegger M. A synthetic erectile optogenetic stimulator (EROS) enabling blue-light-inducible penile erection. Angew. Chem. Int. Ed. Engl. Published online 19th March 2015. DOI: 10.1002/anie.201412204
-
-ETH Zurich Prof. Martin Fussenegger Group of Biotechnology and Bio Engineering Phone: +41 61 387 31 60
-
-ETH Zurich Media relations Phone: +41 44 632 41 41
 

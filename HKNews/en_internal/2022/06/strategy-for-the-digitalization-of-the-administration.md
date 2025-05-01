@@ -1,5 +1,7 @@
 # strategy-for-the-digitalization-of-the-administration
 
+**Source:** en_internal/2022/06/strategy-for-the-digitalization-of-the-administration.html
+
 ## Questions about rETHink?
 
 - Systematic data analytics
@@ -46,8 +48,6 @@ And who are the members of this steering committee? Kathrin Noack: The members h
 
 ## Always up to date
 
-Peter Müller: It is important that this steering committee also has a project management office (PMO), whose staff still have to be appointed and that will be responsible for operational aspects. This PMO should act as a central contact point for all ETH units and provide support for digitalisation initiatives.
-
 How will the digitalisation strategy affect ETH members? Peter Müller: We have defined 70 individual measures in total – not all of which will have a conspicuous effect. One thing everyone will hopefully notice is the central support provided for digitalisation projects. Digitalisation is also a topic that will feed into our HR processes, so that everyone can continue to develop skills in this area. Obviously, we hope the strategy will encourage all departments to screen their processes for digitalisation potential. And employees will hopefully notice that new technologies are introduced more quickly in the ETH Zurich administration.
 
 And if you had a wish – what would be the first thing that you personally would digitalise in the ETH Zurich administration? Peter Müller: The first thing that comes to mind is the small inefficiencies that dog almost all applications and that users repeatedly stumble over, whether it be an unnecessary mouse click or a missing view. This extra effort may not be significant for just one person, but if hundreds of staff stumble over the same thing day in, day out, optimisation would be worthwhile. We should create a culture with a much stronger focus on the needs of end users.
@@ -57,6 +57,8 @@ Kathrin Noack: This focus does not mean that all individual requirements can be 
 Paul Cross: Ideally, all important processes at ETH will be digitally supported, and moreover with end-to-end processing wherever possible. There are currently still too many digital breaks. This makes end-to-end processing impossible, given the involvement of different departments, for example. That’s exactly why central control and exchange between project managers is so important. For me personally, it’s therefore already progress if we create more transparency and manage to learn more about digitalisation from each other within the administration.
 
 In the context of rETHink Workstream 5 Organisation of Central Administrative Units, the working group led by Peter Müller, Professor of Computer Science, was commissioned to draw up a digitalisation strategy for the administration of ETH Zurich. The strategy was discussed and refined in workshops with representatives of all administrative departments and several academic departments before eventually being approved by the Executive Board in mid-May. The strategy focuses on six action areas:
+
+The complete digitalisation strategy can be downloaded here:
 
 Any questions should be directed to Dieter Wüest, Paul Cross or Kathrin Noack.
 

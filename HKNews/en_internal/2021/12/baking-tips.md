@@ -1,5 +1,7 @@
 # baking-tips
 
+**Source:** en_internal/2021/12/baking-tips.html
+
 ## Beehives
 
 There are two schools of thought about this cookie’s name: Kristýna Kantnerová definitely belongs to the “beehive” camp.
@@ -53,4 +55,6 @@ Extra for greasing 100 g melted butter Preheat the oven to 180°C. Spoon 3 table
 In a separate bowl, mix the ground walnuts with the powdered sugar, cocoa and rum essence. Divide the dough into 2 equal parts and roll out each section into a 1 cm thick rectangle. Drizzle the melted butter over the top, followed by the walnut mixture, and carefully spread it over both sections. Twist the two pieces together and place in the loaf tin that has been greased with butter and lined with flour. Leave the plaited bread to rise in a warm place in the loaf tin for another 10–15 minutes until it has increased in volume. Brush with melted butter and a beaten egg.
 
 Bake the loaf for about 20 minutes or until golden. Reduce the heat to 90°C and bake for another 15 minutes. Turn it out of the loaf tin, brush with honey and leave to cool on a wire rack. Try to resist the temptation of slicing the cozonac while warm! I know it’s hard because it smells so good. Wait for a couple hours until it is cool.
+
+the latest issue of "life" (PDF, 4.3 MB)
 

@@ -1,5 +1,7 @@
 # wie-gelingt-inenentwicklung
 
+**Source:** en_news_events/2017/08/wie-gelingt-inenentwicklung.html
+
 ## Identifying the reserves
 
 - Have a clear idea of both desirable and undesirable future development.

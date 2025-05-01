@@ -1,5 +1,7 @@
 # how-a-large-protein-complex-assembles-in-a-cell
 
+**Source:** en_news_events/2020/12/how-a-large-protein-complex-assembles-in-a-cell.html
+
 ## Inspired by metabolic analysis
 
 Cells produce a great number of different protein complexes, each of which is made up of many individual proteins. These protein complexes, like ribosomes for example, are what regulate almost all of a cell’s life-sustaining biological functions.

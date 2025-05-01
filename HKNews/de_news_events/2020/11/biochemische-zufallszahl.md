@@ -1,5 +1,7 @@
 # biochemische-zufallszahl
 
+**Source:** de_news_events/2020/11/biochemische-zufallszahl.html
+
 ## DNA-Synthese mit zufälligen Bausteinen
 
 Bei der Verschlüsselung von Information sowie für Spielautomaten werden echte Zufallszahlen benötigt. Das sind Zahlen, die tatsächlich zufällig sind und von niemandem erraten werden können, auch nicht von Personen, welche detaillierte Kenntnisse haben von der Methode, mit der sie generiert wurden.

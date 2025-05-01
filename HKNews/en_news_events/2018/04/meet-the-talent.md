@@ -1,5 +1,7 @@
 # meet-the-talent
 
+**Source:** en_news_events/2018/04/meet-the-talent.html
+
 ## Main article
 
 The annual Meet the Talent event is an opportunity for Sarah M. Springman, ETH Rector and patron of the programme, and the ETH Zurich Foundation to thank everyone involved with the Excellence Scholarship and Opportunity Programme (ESOP). This year, support from private individuals, companies and foundations enable 57 scholarships to be granted to particularly talented students.

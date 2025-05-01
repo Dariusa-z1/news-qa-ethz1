@@ -1,5 +1,7 @@
 # ein-feines-gehoer-fuer-zeitreisen-oder-wie-die-zeiten-wirklich-ticken
 
+**Source:** de_news_events/2019/08/ein-feines-gehoer-fuer-zeitreisen-oder-wie-die-zeiten-wirklich-ticken.html
+
 ## Reisen durch zeitartige Schlaufen
 
 Sind Sie sich schon einmal selber begegnet? Natürlich nicht. Das passiert höchstens bei Zeitreisen in der Science-Fiction. In Spielfilmen wie «Zurück in die Zukunft» etwa (vgl. Box). In diesem Kassenhit aus den 1980er-Jahren reist Marty McFly 1985 zurück ins Jahr 1955. Das ist jenes Jahr, in dem sich seine Eltern verlieben. Als Marty McFly in die Handlung eingreift, verändert er die Vergangenheit – und läuft Gefahr, dass sich seine Eltern weder verlieben noch heiraten. Träte das ein, käme er am Ende gar nie auf die Welt. Wie aber könnte Marty durch die Zeit reisen, wenn es ihn nicht gibt?

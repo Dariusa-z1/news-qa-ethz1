@@ -1,5 +1,7 @@
 # blog-an-ecological-turnaround-can-be-achieved
 
+**Source:** en_news_events/2022/05/blog-an-ecological-turnaround-can-be-achieved.html
+
 ## Ecological degradation poses a systemic risk
 
 - Humans need nature: instead of separating our lives from nature, we should engage in rich relationships with other living beings and our ecological lifeworld. Being close to nature improves our quality of life and promotes health11.

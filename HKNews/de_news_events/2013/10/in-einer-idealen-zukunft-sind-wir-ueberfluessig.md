@@ -1,5 +1,7 @@
 # in-einer-idealen-zukunft-sind-wir-ueberfluessig
 
+**Source:** de_news_events/2013/10/in-einer-idealen-zukunft-sind-wir-ueberfluessig.html
+
 ## Main article
 
 Renate Schubert ist Professorin für Nationalökonomie und seit 2008 Delegierte für Chancengleichheit an der ETH Zürich. Heute Abend wird sie das Podium zur Eröffnung der Ausstellung Check your stereotypes moderieren. Im Interview blickt sie zurück und in die Zukunft.

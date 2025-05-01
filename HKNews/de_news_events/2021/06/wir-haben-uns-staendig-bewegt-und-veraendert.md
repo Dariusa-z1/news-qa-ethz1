@@ -1,5 +1,7 @@
 # wir-haben-uns-staendig-bewegt-und-veraendert
 
+**Source:** de_news_events/2021/06/wir-haben-uns-staendig-bewegt-und-veraendert.html
+
 ## 150 Jahre Agrarwissenschaften
 
 ETH-News: Das Departement Umweltsystemwissenschaften (D-USYS) feiert in diesem Jahr 150 Jahre Agrarwissenschaften an der ETH Zürich. Was waren in Ihren Augen Meilensteine? Nina Buchmann: 150 Jahre in zwei Sätzen zusammenzufassen, ist schwierig. Und was ein Meilenstein ist, liegt auch im Auge des Betrachters. Viele Höhepunkte haben wir auf unserer Webseite www.agri150.ethz.ch zusammengestellt. Mir fällt bei näherer Betrachtung vor allem auf, wie sehr sich Forschung und Lehre, aber auch die Organisation verändert haben.
