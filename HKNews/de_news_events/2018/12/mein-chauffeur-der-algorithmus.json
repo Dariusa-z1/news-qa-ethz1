@@ -1,0 +1,56 @@
+{
+  "language": "de",
+  "title": "Mein Chauffeur Der Algorithmus",
+  "date": "2018-12-01",
+  "source": "ETH Zürich, Hochschulkommunikation",
+  "main_content": "Stadtmobilität neu denken: Die Zukunft der Mobilität kündigt sich in Meilensteinen an: Die ­Google-Tochter «Waymo» verlautbarte diesen Februar, dass ihre Flotte an selbstfahrenden Autos über acht Millionen Kilometer auf öffentlichen Strassen zurückgelegt hat. Kurz zuvor hatte der Fahrdienst Uber drei Millionen Kilometer verkündet. Geht es nach der Industrie, werden wir uns die Strassen bald flächendeckend mit Fahrzeugen teilen, die nicht mehr von Lenkern, sondern von Algorithmen gesteuert werden. Übertriebener Techoptimismus oder realistisches Szenario?\n\nWir fragen einen renommierten Experten auf dem Gebiet, den Italiener Emilio Frazzoli, seit Oktober 2016 Professor für Dynamische Systeme und Regelungstechnik an der ETH Zürich. «Es kommt drauf an, von welcher autonomen Mobilität Sie sprechen», lautet seine Antwort. «Bis Sie Ihr selbstfahrendes Auto beim Händler kaufen können, werden mindestens noch 15 Jahre vergehen. Sprechen wir hingegen von Carsharing in beschränktem Umfang, ist sie heute schon Realität.» Letzteres hat auch mit Frazzolis Forschung zu tun. Seit Mitte Jahr kann auf dem Las Vegas Strip jedermann über die App des Ridesharing Service «Lyft» 30 BMWs buchen. Gesteuert werden sie durch Algorithmen des US-Autotechnologie-Konzerns «Aptiv», welcher den von Frazzoli gegründeten Start-up «NuTonomy» im Oktober 2017 übernommen hatte.\n\nVor seinem Wechsel an die ETH war Frazzoli zehn Jahre Professor am renommierten MIT in Boston. Von Beginn an arbeitete er an autonomen Systemen, anfänglich vor allem für Flugzeuge und Drohnen. «Das war zwar technisch meist ziemlich cool, doch trug es nicht wirklich zur Lösung von gesellschaftlichen Herausforderungen bei.» 2009 stellte er sich die Sinnfrage: «Das Hauptargument für die Forschung an selbstfahrenden Autos lautete damals immer: ‹weil sie den Verkehr sicherer machen›.»\n\nDiese Annahme stimme zumindest längerfristig, doch den viel grösseren, mittelfristigen Nutzen erkannte Frazzoli im Poten­zial, die individuelle Mobilität von Stadtbewohnern komplett neu zu denken. «Das Ziel meiner Forschungsgruppe ist eine Mobilität mit den Annehmlichkeiten eines Privatautos, die so nachhaltig ist wie der öffentliche Verkehr.» Eine Art «Uber» also, nur ohne Fahrer und deshalb viel günstiger und breiter verfügbar.\n\nDank Elektrifizierung und besserer Auslastung zudem bei deutlich geringerem Energieverbrauch und tieferen CO2-Emissionen. Private Autos sind nämlich durchschnittlich 5 Prozent der Zeit im Gebrauch. Die restlichen 95 Prozent stehen sie rum, in Parkhäusern, Garagen oder auf öffentlichem Grund. Das ist weder nachhaltig noch städtebaulich oder ressourcenökonomisch sinnvoll.\n\nFrazzolis Start-up «NuTonomy», der Steuerungssoftware für auto­nome Fahrzeuge entwickelt, begann 2014 Tests mit selbstfahrenden Fahrzeugen in Singapur zu planen. Gleichzeitig publizierte der Professor einen Artikel, indem er für den 719 km2 grossen Stadtstaat berechnete, was der vollständige Ersatz von privaten mit geteilten, selbstfahrenden Fahrzeugen für das Verkehrsaufkommen bedeuten würde. Das Ergebnis: Mit rund 40 Prozent (350 000 anstatt 800 000 Fahrzeuge) könnten die Mobilitätsbedürfnisse der gesamten Bevölkerung des Stadtstaates befriedigt werden.\n\nEin Jahr später kündigte Premierminister Lee Hsien Loong die Vision einer «Car Lite Future» an, basierend auf selbstfahrenden Fahrzeugen, dem Ausbau des ÖV und des Langsamverkehrs. Mit einer Dichte von 7697 Menschen pro km2 (in der Schweiz: 203) ist der 5,5-Millionen-Stadtstaat wie keine andere Metropole auf einen effizienten Verkehr angewiesen. Die Nachfrage nach privaten Autos wird deshalb seit Jahren durch hohe Zölle und Kosten für Fahrbewilligungen von bis zu 70 000 Dollar stark reguliert. Auf einer zwei Hektaren grossen Teststrecke der Nanyang Technological University im Westen der Insel testen heute mehr als zehn Unternehmen ihre Systeme. Ab 2022 sollen drei Randgebiete der Stadt ausserhalb der Stosszeiten mit ersten selbstfahrenden Bussen bedient werden.\n\nTransformation simulieren: Pieter Fouries «Labor» liegt im Südwesten von Singapur. Dort, in einem hellen Büro im 6. Stock des grün bewachsenen CREATE-Towers der Universität Singapur (NUS), forscht er für das «Future Cities Laboratory» der ETH Zürich an den Städten der Zukunft. Fourie leitet das Projekt «Engaging Mobility», in dessen Rahmen im Juli 2017 ein erster Workshop mit Regierungsbehörden und Hochschulen stattfand. Ziel war es, die Rahmenbedingungen für eine stadtweite «Mobility on Demand» mit selbstfahrenden Autos und Bussen zu definieren. Davon ausgehend wurden die wichtigsten Forschungsfragen formuliert. Zum Beispiel: Was geschieht mit der heute vorhandenen Parkfläche, wenn ein Grossteil der Fahrzeuge konstant unterwegs ist? Müssen Strassenführungen neu geplant werden? Und welche Auswirkungen wird ein automatisierter und elektrifizierter Verkehr auf den bestehenden ÖV, die Energienachfrage und die Sicherheit haben?\n\nSolchen Fragen geht Fourie mit der Simulationsplattform MATSim nach, die in der Gruppe von Professor Kay Axhausen am Institut für Verkehrsplanung und Transportsysteme der ETH Zürich entwickelt wurde. MATSim ist Agenten-basiert. Das heisst, die Simulation wird durch das Verhalten der einzelnen Agenten angetrieben und nicht durch übergeordnete Regeln.\n\n«Basierend auf den aktuellsten demografischen Daten zur Bevölkerung Singapurs modellieren wir eine synthetische Population, die der echten so nahe kommt wie möglich», erklärt Fourie. In dieser Population hat jeder einzelne Agent ein bestimmtes Mobilitätsverhalten und Transportziel, basierend auf reellen Verkehrsdaten. Fourie spielt nun mit den Rahmenbedingungen, darunter der Anzahl von eingeführten Fahrzeugen, deren Grösse, den maximal zulässigen Wartezeiten für Passagiere, der Verfügbarkeit von Parkplätzen und unterschiedlichen Verkehrsführungen. Dann lässt er die synthetische Population während 24 Stunden ihren Dingen nachgehen. Dabei bewertet das System automatisch für jeden einzelnen Agenten, wie effizient dieser bei verschiedenen Szenarien seine Ziele erreichen konnte.\n\nDerzeit programmiert Fouries Team solche Simulationen für die Tanjong Pagar Waterfront, ein Gelände von rund zwei Quadratkilometer Fläche im Westen Singapurs. Dieses wird aktuell von einem Containerterminal zu einem Wohn- und Geschäftsviertel umgestaltet. Mit 60 000 Akteuren hat Fourie bereits mehr als 200 000 Trips simuliert. ­Unter anderem hat er für drei unterschiedliche Strassentypologien berechnet, wie gross die Flotte an autonomen Fahrzeugen sein müsste und wie viele Strassenkilometer zurückgelegt würden, um jeweils denselben Grad an Service zu gewährleisten.\n\nWeiter haben die Forschenden für eine Flotte, bestehend aus Fahrzeugen mit 4, 10 und 20 Sitzplätzen, vier verschiedene Parkstrategien simuliert. Das vorläufige Ergebnis: Das Verkehrssystem ist am effizientesten, wenn die geteilten Fahrzeuge auf der Strasse parkieren dürfen, sobald keine Anfragen für weitere Fahrten mehr eintreffen. Auch wenn dadurch die Strassenkapazität zeitweise um eine Fahrbahn reduziert wird. Zudem fördern weniger, dafür grössere Pick-up- und Drop-off-Stationen den Verkehrsfluss, da die Autos zum Sammeln der Passagiere weniger Umwege fahren. Auch sollten die Stationen genügend gross sein, damit sie verschiedene Fahrzeuggrössen bedienen können. Bereits nächstes Jahr will Fourie solche Simulationen für die ­gesamte Insel laufen lassen.\n\nTrotz hohem Tempo in Singapur und ersten Services in Las Vegas sieht Emilio Frazzoli nach wie vor grosse Herausforderungen – besonders für die Bewältigung von chaotischen Umgebungen. «Wir wissen bis heute noch nicht genau, wie sich selbstfahrende Autos im Verkehr verhalten sollen.» Das liege an Dutzenden von Entscheidungsdilemmas, welche der Alltagsverkehr mit sich bringt. Zum Beispiel: Darf ein selbstfahrendes Auto eine doppelte Linie überqueren, wenn es dadurch einen potenziellen Unfall verhindern kann? Was, wenn ein Verkehrsteilnehmer ohne Verschulden verletzt wird, damit ein verschuldeter Fahrer nicht tödlich verunglückt?\n\nSolche Entscheide müssen in der Programmierung von Steuerungsalgorithmen angelegt sein. Frazzoli forscht deshalb unter anderem an sogenannten «Rulebooks», die dazu dienen, unterschiedliche Entscheidungskriterien in den Steuer­algorithmen zu priorisieren. Zuoberst in der Hierarchie stehen Regeln, ­welche die Sicherheit der Verkehrsteilnehmenden garantieren, zuunterst die Regeln für mehr Fahr komfort.\n\nIn einem aktuellen Artikel schätzten Frazzoli und sein Team, dass 200 Regeln in zwölf Hierarchiegruppen nötig sind, damit Fahrzeuge auf alle möglichen Situationen vorbereitet sind – inklusive Regeln mit niedriger Priorität, wie zum Beispiel, dass strassennahe Tiere nicht erschreckt werden. Für Frazzoli wäre die Zeit reif für eine breite öffentliche Debatte zum autonomen Verkehr: «Wir sollten die in den Codes implementierten Regeln zu Sicherheit und Haftung nicht einfach den Ingenieuren von privaten Unternehmen überlassen.» Schliesslich sei es im Interesse von uns allen, dass sich unsere neuen, ­virtuellen Lenker möglichst gut in den Stadtverkehr einfügen. So wie herkömmliche Neulenker; nur eben berechenbarer, sicherer und effizienter.",
+  "named_entities": [
+    "Die Zukunft",
+    "Google-Tochter",
+    "Millionen Kilometer",
+    "Fahrdienst Uber",
+    "Italiener Emilio Frazzoli",
+    "Dynamische Systeme",
+    "Mobilität Sie",
+    "Bis Sie Ihr",
+    "Frazzolis Forschung",
+    "Seit Mitte Jahr"
+  ],
+  "topics": [
+    "Sustainability",
+    "Research",
+    "Technology & Innovation",
+    "Campus Life",
+    "Staff",
+    "Finance"
+  ],
+  "keywords": [
+    "ETH Zurich",
+    "University",
+    "Research",
+    "Science",
+    "Campus",
+    "Education"
+  ],
+  "summary": "",
+  "rich_metadata": {
+    "document_length_words": 1253,
+    "readability_score": "complex",
+    "sentiment": "positive",
+    "contains_compound_words": true,
+    "contains_umlauts": true,
+    "embedding_vector": "[...]",
+    "audience_type": [
+      "Students",
+      "Faculty",
+      "Researchers",
+      "General Public"
+    ],
+    "context_tags": [
+      "Financial",
+      "Sustainability",
+      "Technology",
+      "Research"
+    ]
+  }
+}
