@@ -2,25 +2,25 @@
 
 **Source:** de_news_events/2017/02/keramik-ohne-brennofen.html
 
+**Date processed:** 2025-05-01
+
 ## Stärker als Beton
 
 Um Zement, Backsteine, Badezimmerfliesen und Porzellangeschirr herzustellen, bedarf es normalerweise grosser Hitze: In einem Brennofen werden die keramischen Materialien bei Temperaturen deutlich über 1000 Grad Celsius gebrannt. Materialwissenschaftler der ETH Zürich entwickelten nun eine auf den ersten Blick verblüffend einfache alternative Herstellungsmethode für Keramik. Sie funktioniert bei Raumtemperatur. Als Ausgangsstoff verwenden die Forscher ein Kalziumkarbonat-Nanopulver. Anstatt es zu brennen, versetzen sie es mit wenig Wasser und pressen es zusammen.
 
 «Der Herstellungsprozess lehnt sich an die geologische Gesteinsbildung an», erklärt Florian Bouville, Postdoc in der Gruppe von André Studart, Professor für komplexe Materialien. Sedimentgestein entsteht, indem Sedimente durch den Druck darüberliegender Ablagerungen während Millionen von Jahren komprimiert werden. Kalziumkarbonat-Sedimente werden so zu Kalkstein. Weil die ETH-Forscher als Ausgangsstoff Kalziumkarbonat in extrem feiner Partikelgrösse verwendeten (Nanopartikel), dauert bei ihnen das Verdichten bloss eine Stunde. «Unsere Arbeit ist der erste Nachweis für die Herstellung eines Keramikmaterials bei Raumtemperatur in so kurzer Zeit und bei relativ tiefem Druck», sagt ETH-Professor Studart.
 
-## Energieeffizient und klimafreundlich
-
 Wie Tests ergaben, hält das neue Material rund zehnmal höhere Kräfte aus als Beton, bevor es bricht. Und es ist ähnlich steif wie Stein und Beton. Das heisst, es lässt sich gleich schlecht verformen.
 
 Bisher haben die Wissenschaftler Materialproben von der Grösse eines Ein-Franken-Stücks hergestellt. Dies gelang ihnen auf einer herkömmlichen hydraulischen Presse, wie sie standardmässig auch in der Industrie verwendet wird. «Die Herausforderung ist, für den Verdichtungsprozess einen genügend hohen Druck zu erzielen. Um grössere Werkstücke herzustellen, sind entsprechend grössere Kräfte nötig», sagt Bouville. Keramikstücke in der Grösse von kleineren Badezimmerfliesen sollten laut den Wissenschaftlern jedoch im Bereich des theoretisch Machbaren liegen.
-
-## Literaturhinweis
 
 «Schon seit längerer Zeit werden in der Materialwissenschaft Wege gesucht, um keramische Materialien bei milden Bedingungen herzustellen. Denn der Brennprozess benötigt viel Energie», sagt ETH-Professor Studart. Die neue Raumtemperatur-Methode – Experten bezeichnen sie als «kaltes Sintern» – ist denn auch viel energieeffizienter. Ausserdem könnten damit Verbundwerkstoffe, die zum Beispiel Plastik enthalten, hergestellt werden.
 
 Interessant ist die Technik schliesslich im Hinblick auf eine künftige CO 2 -neutrale Gesellschaft. Es ist nämlich denkbar, für die Herstellung der Karbonat-Nanopartikel aus der Atmosphäre oder aus dem Abgas von Wärmekraftwerken abgeschiedenes CO 2 zu nutzen. Man könnte das abgeschiedene CO 2 mit Pulver eines geeigneten Gesteins reagieren lassen und auf diese Weise Karbonat herstellen, aus dem dann bei Raumtemperatur Keramik produziert wird. Das klimaschädliche CO 2 würde damit langfristig in Keramikprodukten gespeichert. Diese stellten eine CO 2 -Senke dar und könnten mithelfen, Wärmekraftwerke klimaneutral zu betreiben.
 
 In dem neuen Ansatz des «kalten Sinterns» sehen die Wissenschaftler sogar das Potenzial, längerfristig umweltfreundlichere Ersatzmaterialien für Zement-Baustoffe zu finden. Dazu sind allerdings noch grosse Forschungsanstrengungen nötig. Die Zementherstellung benötigt nicht nur viel Energie, es entstehen dabei auch grosse Mengen CO 2 – nicht so bei kalt gesinterten Ersatzmaterialien.
+
+## Literaturhinweis
 
 Bouville F, Studart AR: Geologically-inspired strong bulk ceramics made with water at room temperature. Nature Communications, 28. Februar 2017, doi: externe Seite 10.1038/ncomms14655
 

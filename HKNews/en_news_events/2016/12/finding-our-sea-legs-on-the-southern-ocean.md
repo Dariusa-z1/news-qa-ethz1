@@ -2,19 +2,17 @@
 
 **Source:** en_news_events/2016/12/finding-our-sea-legs-on-the-southern-ocean.html
 
+**Date processed:** 2025-05-01
+
 ## A closer look at water cycles
 
 After two field campaigns in Switzerland, I now have the chance to take part in a large-scale research expedition – a unique opportunity for a young weather scientist. The expedition aims to circumnavigate Antarctica – an ambitious project (see box). For me, it’s also the realisation of a dream. The anticipation I felt, as well as the team’s meticulous preparations, reflected the scale of the occasion.
 
 The team consists of ten scientists from ETH, EPFL and the University of Bergen (Norway). Iris Thurnherr and I will be the only ones on board though. We are both doctoral students in ETH’s Atmospheric Dynamics group and are in charge of carrying out the measurements on board the ship. Our colleagues will be supporting us from home with weather forecasts, advice and tips wherever possible.
 
-## Starting out is always tough
-
 The aim of our research is to investigate the interaction between sea and atmosphere in the Southern Ocean around the Antarctic. To achieve this, we will be using two laser spectrometers, a small rain radar, weather balloons and vials to collect rainwater. The laser spectrometers, which we will be using to measure atmospheric water vapour, form the heart of the project.
 
 As I boarded the ship in Bremerhaven, I was full of expectation and enthusiasm. Unfortunately, it wasn’t long before something put a damper on our high spirits: Iris and I had hardly set foot on deck when we discovered that the container in which we had installed our measuring equipment wouldn’t have power at least until we reached Cape Town. The reason for this, unbelievably, was an insufficient power supply on board.
-
-## Troubleshooting in Bremerhaven
 
 We had spent months meticulously planning for everything that could possibly go wrong with the measuring equipment, organising replacement parts and planning for every eventuality – only for everything to come unstuck because of something so simple. Something we actually couldn’t prepare for.
 
@@ -26,19 +24,17 @@ I felt at a loss, and somewhat disheartened at the prospect of not being able to
 
 Eventually, we found what we were looking for: there was a space on the top deck of the ship in a small radar control room. We immediately removed the frame with our measuring instruments from the container and transported it by crane to its new location. Seeing all our measuring equipment swaying through the air made us feel a little queasy, but thankfully everything went well, and we were able to fix the equipment down in its new location. In the last few minutes, just as the ship was setting sail, we got the devices running and began our measurements.
 
-## Improvisational skills required
-
 The first few days on board were marked by strong winds and high waves. In the North Sea, we were caught by the first true storm of the coming winter and, after a brief respite, a low-pressure area pursued us along the west coast of Spain and Portugal. The measurements proved to be similarly challenging, since access to the deck was often prohibited on account of the high waves.
 
 On top of that, we were also still waiting for permission to launch our weather balloons. Curiously, these hadn’t made it onto the list of authorised experiments. The balloons, which are equipped with measuring devices for temperature, humidity and atmospheric pressure, are an important part of our project. One of our first challenges was to convey this to the almost exclusively Russian-speaking crew. On the tenth day after setting out, the last piece of the puzzle finally fell into place: we received permission to launch, and the weather was perfect for a first test. It was a clear, beautiful and almost windless day, and the sea was as glassy and still as Lake Zurich.
 
-## A series on the Antarctic expedition
+## Improvisational skills required
 
 Good measuring data is an essential part of successful research. Getting hold of it, though, is far from straightforward, and requires a great deal of effort, patience, and a high tolerance for frustration. It’s important not to pitch your expectations too high to avoid disappointment. My experience from previous field campaigns has been confirmed on the Akademik Treshnikov: many things can and will go wrong, regardless of how well you prepare yourself. The important thing is to keep a cool head and find a workable alternative using the means available to you, as well as a healthy dose of improvisation.
 
 Der Routenplan. (Grafik: ACE Expedition)
 
-## About the author
+## A series on the Antarctic expedition
 
 The researchers of the Swiss Polar Institute’s Antarctic Circumpolar Expedition (ACE) are currently on their way to Cape Town on board the Russian ice-breaker, Akademik Treshnikov (see article in ETH News). From there, the crew will set sail just before Christmas on a three-month expedition around the South Pole. ETH members on board will be reporting on their experiences. Researchers from ETH on board will be reporting on their experiences.
 

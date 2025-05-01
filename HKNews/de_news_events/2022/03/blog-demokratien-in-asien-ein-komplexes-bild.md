@@ -2,25 +2,29 @@
 
 **Source:** de_news_events/2022/03/blog-demokratien-in-asien-ein-komplexes-bild.html
 
-## Polarisierung auch in den Ländern selber
+**Date processed:** 2025-05-01
+
+## Main article
 
 Asiens geopolitisches Gewicht wächst rasant, was Europa zu einer verstärkten Auseinandersetzung mit der Region zwingt. Asien beherbergt nicht nur die schnellst wachsenden Märkte der Welt, sondern auch sicherheitspolitische Brennpunkte von globaler Bedeutung, wie zum Beispiel das Südchinesische Meer. Letztere gewinnen durch den amerikanisch-chinesischen Weltkonflikt, der Asien zum Hauptschauplatz hat, an neuer Brisanz. Welche Trends gilt es für europäische Länder also zu beachten in ihrem zukünftigen Engagement mit Asien?
 
 Die Regionalordnung in Asien befindet sich im Umbruch und ist von einer neuen grundlegenden Instabilität gekennzeichnet. Seit gut zehn Jahren macht die aufsteigende Weltwirtschaftsmacht China auch verstärkt einen politischen Führungsanspruch geltend und fordert die seit 1945 von den USA angeführten regionale Architektur heraus. Insbesondere Pekings militärisch ausschweifendes Gebaren in der Nachbarschaft befeuert alte und neue Konflikte. Seine wachsende wirtschaftliche Dominanz schürt zudem die Angst vor einer zu grossen Abhängigkeit. Die amerikanischen Bemühungen der letzten Jahre – zusammen mit Alliierten und Partnern – die bisherige Ordnung und damit die eigene Führungsrolle in der Region zu sichern, tragen ebenfalls zum zunehmend konfrontativen Umfeld bei.
 
-## Alle im gleichen Boot
+## Polarisierung auch in den Ländern selber
 
 Besonders negativ betroffen von den gegenwärtigen Konfliktdynamiken sind Asiens Klein- und Mittelmächte, wie Singapur oder Südkorea. Mit Blick auf die Region fokussieren Forschung und Politik jedoch oft auf China und die USA. Aufmerksamkeit erhalten auch Mittelmächte mit neuen regionalen Ambitionen, die die entstehende Ordnung in Asien mitgestalten wollen und dazu auch Partnerschaften mit europäischen Ländern suchen. Dazu gehören Australien, Indien und Japan. Sie spielen eine aktive Rolle, wenn es darum geht, unter dem Begriff «Indopazifik», die ganze Region konzeptionell neu zu denken. Vor diesem Hintergrund werden Kooperationsformate, wie der Quadrilaterale Sicherheitsdialog oder die AUKUS-Sicherheitspartnerschaft reaktiviert oder neu kreiert. Das heisst, wir sehen einen Trend weg von multilateralen hin zu minilateralen Lösungen – diese halte ich aber für problematisch, weil sie oft intransparent und weniger inklusiv sind. Sprich, sie sind nicht unbedingt im strategischen Interesse kleinerer Länder Asiens.
 
 Die schnellen regionalen Umwälzungen werden von destabilisierenden, innenpolitischen Entwicklungen begleitet. Über die Länder Asiens hinweg betrachtet, nimmt die Polarisierung entlang ethnisch-nationalistischer, religiöser und ideologischer Linien zu. Zudem erleben Länder wie Indonesien, die Philippinen oder Thailand, die lange als zuverlässige internationale Partner galten, einen drastischen demokratischen Zerfall und eine deutliche Verschlechterung der Menschenrechtslage. Sie sind damit Teil eines Trends, der weltweit seit gut 15 Jahren beobachtbar ist und der politischen Stabilität dieser Länder abträglich ist.
 
-## Zur Autorin
+## Alle im gleichen Boot
 
 Unter der aktuellen thailändischen Regierung kam es in den letzten Jahren beispielsweise zu gezielten Tötungen von Oppositionellen und der politisch motivierten Auflösung einer grossen Oppositionspartei. Während der Pandemiejahre 2020 und 2021 haben illiberale und autoritäre Praktiken zugenommen - insbesondere auch in autoritären Regimen wie in Kambodscha. Doch sind all diese Entwicklungen wenig bekannt und was mich erstaunt: Reaktionen aus Europa sind entweder sehr moderat oder sie fehlen ganz.
 
 Dies erstaunt umso mehr, weil während der Pandemie das Bewusstsein in Europa gewachsen ist, dass eigene strategische Interessen eng mit Entwicklungen in Asien verknüpft sind. Die negativen Folgen eines Unterbruchs von Handelsrouten und Lieferketten in und von der Region – zum Beispiel infolge eines Konfliktausbruchs – wären auch in Europa empfindlich spürbar. Diese strategische Verflechtung wird auch in Indopazifik-Positionspapieren von Ländern wie Frankreich, Deutschland, Holland oder der EU anerkannt. In diesem Sinne sitzen wir alle im gleichen Boot.
 
 Ich bin überzeugt, dass Europa einen konstruktiven Beitrag zu Frieden, Stabilität und Sicherheit in Asien leisten kann. Einzelne, grosse geopolitische Gesten, wie das Entsenden von Kriegsschiffen in die Region – wie 2021 gesehen – sollten dabei nur ein Element eines ausgewogeneren und zielführenden europäischen Engagements darstellen. Als besonders wichtig erachte ich Massnahmen, welche kleinere Länder, wie diejenigen Südostasiens, vor Ort stärken und diese in gesamtregionale Lösungen einbinden. Dabei könnte Europa auf bestehendes Knowhow im Bereich der Förderung von Demokratie, Rechtsstaatlichkeit und Multilateralismus zurückgreifen. Wichtig wäre die Stärkung politischer und gesellschaftlicher Stabilität und Vielfalt dieser Länder. Ihre Resilienz wird mitentscheiden, wie sich Asien innerhalb komplexer Konfliktkonstellationen und unter dem Vorzeichen grosser geopolitischen Verschiebungen entwickeln wird.
+
+## Zur Autorin
 
 Linda Maduz Senior Researcher im Global Security Team des Center for Security Studies (CSS) der ETH Zürich.
 

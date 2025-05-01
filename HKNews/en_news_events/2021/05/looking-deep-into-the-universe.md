@@ -2,23 +2,17 @@
 
 **Source:** en_news_events/2021/05/looking-deep-into-the-universe.html
 
+**Date processed:** 2025-05-01
+
 ## Key element: hydrogen
 
 “It’s an exciting project,” says Alexandre Refregier, Professor of Physics at ETH Zurich, as he considers the futuristic-looking visualisation from South Africa. The image shows a scene in the middle of the Karoo semidesert, far away from larger settlements, with rows upon rows of more than 1,000 parabolic reflectors all directed towards the same point. At first glance, one might assume this is a solar power station, but it’s actually a large radio telescope that over the coming years should provide cosmologists with new insights into the makeup and history of our universe.
 
-## Combining hundreds of individual signals
-
 HIRAX stands for “Hydrogen Intensity and Real-time Analysis eXperiment” and marks the start of a new chapter in the exploration of the universe. The new large telescope will collect radio signals within a frequency range of 400 to 800 MHz. These signals will make it possible to measure the distribution of hydrogen in the universe on a large scale. “If we can use hydrogen, the most common element in the universe, to discover how matter is distributed in space, we could then draw conclusions about what dark matter and dark energy are made of,” Refregier explains.
-
-## Tested in Switzerland
 
 Dark energy and dark matter are two mysterious components that together make up the vast majority of the universe. They play a major role in the formation of structures and in the universe’s accelerated expansion. But experts remain puzzled about exactly what dark energy and dark matter are made of. HIRAX should help home in on the precise nature of these two components. The researchers also hope that the new system will deliver insights into fast radio bursts and pulsars.
 
-## An ideal location
-
 Not only will Refregier and his team be involved in the scientific analysis of the data, the professor is also helping to develop the new system together with his postdoc Devin Crichton and engineer Thierry Viant. “HIRAX is a remarkable undertaking, not just from a scientific point of view, but also because it represents a significant technological challenge,” Refregier says. As part of their subproject in collaboration with scientists from the University of Geneva, the ETH researchers are developing what’s known as a digital correlator, which will combine the signals recorded by each of the approximately six-metre telescopes. “Rather than consisting of a single large telescope, the HIRAX array is made up of numerous smaller radio telescopes that are correlated with each other,” Refregier says. “This enables us to build a telescope with a collection surface and resolution much greater than a measuring device with only one parabolic reflector.”
-
-## Opening the door for the next large-scale project
 
 The physicists first tested the technology for the digital corrector in Switzerland using a pilot system. To do so, they used the two historic radio telescopes housed at the Bleien facility in the Swiss canton of Aargau. They will now use the results of these tests to develop a digital corrector capable of linking 256 reflectors. “The HIRAX telescope is being set up in stages, which allows us to develop and refine the technology we need as we go along,” Refregier says. The funding required for this subproject was recently secured.
 

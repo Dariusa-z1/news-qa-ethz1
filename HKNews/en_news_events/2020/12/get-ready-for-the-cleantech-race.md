@@ -2,17 +2,19 @@
 
 **Source:** en_news_events/2020/12/get-ready-for-the-cleantech-race.html
 
-## How technology drives policy
+**Date processed:** 2025-05-01
+
+## Main article
 
 Feeding renewable energy sources into the power grid raises new challenges. (Photograph: Heiko Kueverling / Colourbox)
 
 Tobias Schmidt vividly recalls attending the 2009 UN Climate Change Conference in Copenhagen as a doctoral student. At the time, he says, he naively believed that the primary goal of the politicians at the conference was to save the world from the looming climate crisis. His enthusiasm soon turned to disappointment when he saw that the only result of the negotiations was a non-binding political statement based on a minimal consensus. “At some point the penny dropped,” says Schmidt, now Assistant Professor of Energy Politics at ETH Zurich. “I realised that climate politics had become much more about industrial competitiveness than the climate.”
 
+## How technology drives policy
+
 Looking back, Schmidt believes the diplomatic fiasco in Copenhagen was primarily driven by the fear of economic losses. Earlier that year, management consultants McKinsey & Company had published the second of its much-cited marginal abatement cost curves. This predicted what the cost of avoiding 1 tonne of CO 2 equivalent would be in 2030 on the basis of various technologies. “Some of the forecasts were far more pessimistic than what actually ended up happening,” says Schmidt.
 
 For example, the authors assumed that e-mobility would remain a niche market until at least 2030. Since then, however, over 8.5 million electric vehicles have been sold – a trend that continues to rise sharply. Similarly, their projected cost for photovoltaic (PV) modules in 2030 was undercut years ago.
-
-## Challenges of energy storage
 
 In the 1990s, the cost of a PV system that would avoid the production of 1 tonne of CO 2 ran to several thousand Swiss francs. Today, PV generation often generates revenue for the power it produces, so in some cases the costs of avoiding carbon emissions are already negative. “They massively underestimated the innovations in clean technology,” says Schmidt. This had significant consequences: “None of the politicians at the 2009 conference would commit to expanding this supposedly expensive tech, because they were afraid of their country losing its competitive edge.”
 
@@ -22,17 +24,15 @@ In a highly acclaimed comment piece published in Nature Energy , he argued this 
 
 To corroborate this thesis, Schmidt’s group analysed the political debate on the energy transition in the German Parliament. The researchers used the methods of discourse network analysis to study over 800 pages of text from debates on energy policy held between 1983 and 2013. The results showed how the political parties’ positions on Germany’s energy transition had changed over that period. Securing the supply of energy, increasing cost-effectiveness and reducing the environmental burden were all key arguments in parliamentary discourse – but so too was the wish to establish a robust and competitive industry supplying new energy technologies.
 
-## Shifts in the political spectrum
-
 Schmidt believes this important finding could help bridge political divides: “The more governments appreciate that a low-carbon energy policy creates new economic opportunities, the more willing they are to raise their climate ambitions to help domestic companies gain a competitive edge.”
+
+## Challenges of energy storage
 
 According to Schmidt, China – currently the country with the highest annual CO 2 emissions – offers a good example of the feedback mechanisms between policymaking and technology that his group has explored in several articles. Recent years have seen the Chinese government progressively toughen up its climate goals. At the same time, it has used cheap loans to fuel the creation of the world’s largest photovoltaics industry. Beijing has also announced medium-term plans to switch road traffic over entirely to electric vehicles, and it has boosted battery-cell production by providing targeted support for a range of systems. In September, China stunned the world by announcing that it intends to become carbon neutral by 2060.
 
 Far from being driven solely by a sudden environmental epiphany, Schmidt argues, these ambitious goals also reflect China’s determination to become the leading industrial power in the cleantech sector: “In the short term, politicians are much more interested in jobs and competitiveness than in achieving climate goals.” Beijing is taking a clever approach to funding technology by pursuing what Schmidt calls a “technology-smart policy”. This nuanced strategy uses different instruments to support different technologies, depending on their complexity, innovation curve and price development. This stands in contrast to the more scattergun approach taken by many countries in Europe.
 
 Switzerland has so far chosen to drive forward the energy transition through feed-in remuneration at cost (KEV) and one-off investment grants for renewable energy projects. It has also introduced programmes to renovate buildings and promote research and innovation. Despite these steps, green energy (excluding hydropower) only makes up some 4 percent of Switzerland’s current energy mix. The Swiss government insists this will rise significantly over the next few years to compensate for the shutdown of nuclear power plants and to meet the additional demand for electricity prompted by an increase in electric vehicles.
-
-## About the person
 
 Experts argue that the greatest potential for expanding renewables lies in PV systems. Yet feeding large amounts of solar energy into the power grid raises new challenges. With the support of the Swiss Federal Office of Energy, ETH researchers are using the Nexus-e simulation platform to model how the grid will need to be designed in the future and which economic and policy-related factors will impact implementation. “The biggest challenge is having to constantly maintain the balance between electricity generation and consumption,” says Gabriela Hug, Nexus-e project manager and professor at the Power Systems Laboratory. “PV output depends on weather conditions, so we’re likely to need technologies that can provide affordable solutions for long-term energy storage.”
 
@@ -42,9 +42,9 @@ Yet many of these technologies are relatively immature and expensive. Alternativ
 
 Control technology is another challenge here: when power is produced with the synchronous generators used in nuclear, hydroelectric and coal-fired power plants, this leaves more time to modulate short-term imbalances between supply and consumption. By contrast, PV systems cause more rapid changes in frequency, which increases the risk of power outages. This is another area where Hug’s research group is currently seeking solutions.
 
-## Globe «A new mindset»
-
 Despite the technical challenges and the threats posed by a coronavirus-led economic recession, Tobias Schmidt is cautiously optimistic about the global energy transition: “The Paris Agreement five years ago triggered a race to develop green energy technologies – and not even Donald Trump’s decision to withdraw the US from the climate agreement can change that.” He is also increasingly seeing shifts in the political spectrum, including in Switzerland. “In 2018, the FDP was still trying to water down the CO 2 Act in the National Council,” explains Schmidt. Yet this autumn, the Act was passed by the whole of the Swiss Parliament with the sole exception of the SVP parliamentary group. “I think that shows how most parties have now come to the same conclusion,” says Schmidt. “It’s time to get ready for the cleantech race!”
+
+## About the person
 
 Gabriela Hug is a professor at the Institute for Power Systems & High Voltage Technology. Her area of specialisation is the integration of renewable energy sources within the existing power grid. She regularly discusses this issue with policymakers and businesses.
 

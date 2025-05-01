@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2015/03/am-freitag-wird-die-sonne-finster.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Zwischen 9:20 und 11:45 Uhr kann man das Himmelsspektakel diesen Freitagvormittag in der Schweiz beobachten – vorausgesetzt, das Wetter spielt mit. Die Prognosen sind zwar gut, doch Hochnebel könnte den Zuschauern einen Strich durch die Rechnung machen.

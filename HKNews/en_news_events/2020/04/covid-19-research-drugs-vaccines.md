@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2020/04/covid-19-research-drugs-vaccines.html
 
+**Date processed:** 2025-05-01
+
 ## Inhibiting virus entry into cells
 
 As yet, there is still no reliable treatment for SARS-CoV-2. However, scientists across Switzerland and worldwide are engaged in an intensive search for an effective agent against the pathogen responsible for the COVID-19 pandemic. Selected research groups at ETH Zurich are also joining in these efforts. Despite the lockdown, the Executive Board gave them special permission to use the laboratories and infrastructure to fight the coronavirus.
@@ -10,15 +12,11 @@ The participating researchers have adopted a range of approaches and methods in 
 
 In simple terms, a virus consists of a shell that encloses its genetic material. In an infection, it smuggles its genome into the host cells and hijacks the cells’ metabolism in order to replicate itself. To do this, the coronavirus uses a binding protein (“key”) on its shell to dock to a receptor (“lock”) on the cell’s surface, triggering the uptake of the viral genome into the cell. If the viral key to the human cell can be blocked, the virus is rendered harmless.
 
-## Preventing virus multiplication in patients
-
 This key is known as the spike protein and is currently the subject of work by two ETH professors. Roland Riek from the Laboratory of Physical Chemistry is using binding studies on the computer (“in silico”) followed by nuclear magnetic resonance (NMR) spectroscopy in test tubes to investigate whether there are known substances that interact with the spike protein and could potentially prevent an infection. He is focusing on drugs approved by the US Food and Drug Administration (FDA).
 
 Dario Neri at the Institute of Pharmaceutical Sciences is searching for new inhibitors of the spike protein by selecting small organic molecules from a chemical library and testing them for possible activity in cellular experiments in the laboratory (“in vitro”). These molecules could eventually become lead compounds for inhaled inhibitors.
 
 Other groups are also working on ways of blocking access to the cell, but with a focus on human cells: Randall Platt , Professor of Biological Engineering, wants to identify the genes in lung cells that are responsible for the uptake of the viral genome. In addition, Professor Jeffrey Bode from the Laboratory for Organic Chemistry and partners from the Friedrich Miescher Institute in Basel and the University of Bristol have identified a human protein involved in the virus’s entry into the cell. They now want to remove this protein using specially developed substances.
-
-## Passive immunity
 
 Once inside the human cell, the virus uses the cell’s protein synthesis machinery to copy itself on a massive scale. In addition to the actual blueprint, the coronavirus genome also encodes viral enzymes that are essential for the replication process and presents an attractive target for therapies.
 
@@ -26,21 +24,19 @@ One example is the virus’s RNA polymerase: this enzyme copies the viral genome
 
 On the other hand, bioengineering professor Martin Fussenegger has chosen a different target: viral proteases. These protein-splitting enzymes are instrumental in the virus’s ability to enter the cell and produce its own shell. Fussenegger wants to find inhibitors that block these SARS-CoV-2 proteases. He is using synthetic designer cells with which he plans to investigate the protease-inhibiting potential of some 5,000 known substances in collaboration with Basel’s pharmaceutical industry. In addition, Jeffrey Bode is planning to use a previously developed technology to produce thousands of molecules in order to test them against viral proteases using Fussenegger’s designer cells.
 
-## Developing a COVID-19 vaccine
-
 Another approach lies in exploiting the immunity of cured Covid-19 patients. During an infection, the immune system creates antibodies to tackle the virus, which continue to circulate in the blood serum of recovered patients. Researchers want to put these antibodies to therapeutic use.
 
 Sven Panke , Professor of Bioprocess Engineering, is working with ETH spin-off Memo Therapeutics to search for specific antibodies in blood samples collected from cured patients. Such antibodies could be produced using biotechnology and used in treatment. Sai Reddy , Professor of Systems and Synthetic Immunology, is pursuing research in a similar direction, but with other means: his project aims to use machine learning and genome editing to artificially optimise the antiviral effect of antibodies from mice and humans.
 
 These therapeutic antibodies could be used to support the immune system of Covid-19 patients in the battle against the virus or to passively immunise high-risk individuals.
 
-## Four pillars of ETH coronavirus research
-
 One thing is becoming increasingly clear: the world will have to deal with coronavirus for a long time to come. The ultimate weapon against Covid-19 would be a preventive vaccine that protected the population. Although this is the subject of intensive research around the world, experts believe it will be at least one to one and a half years before a vaccine is available.
 
 At ETH, immunologist Emma​ Wetter Slack and microbiologists Tim Keys and Markus Aebi are working together on an easy-to-produce, affordable and storable COVID-19 vaccine based on a virus-like particle. This could be used worldwide, but is aimed primarily at developing countries. The vaccine is intended to stimulate the human immune system to produce antibodies and to promote a cellular immune response. The ETH researchers are also hopeful that it will be effective against a range of coronaviruses, including future variants.
 
 As the coronavirus-related research projects searching for vaccines and active substances are designed for the medium to long term, results cannot be expected immediately. If certain substances prove to be effective, they will still need to be tested in clinical trials or approved for the new therapeutic purpose.
+
+## Four pillars of ETH coronavirus research
 
 In order to advance research into the novel coronavirus, ETH Zurich has approved over 20 projects from various disciplines. Special permits will allow researchers to resume or continue their work in the laboratory. The approved projects have been grouped into four clusters: Diagnostics, drug and vaccine research, epidemiology, protective clothing and intensive care.
 

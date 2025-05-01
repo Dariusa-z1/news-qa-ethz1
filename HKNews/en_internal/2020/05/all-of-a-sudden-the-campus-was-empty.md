@@ -2,7 +2,9 @@
 
 **Source:** en_internal/2020/05/all-of-a-sudden-the-campus-was-empty.html
 
-## See the empty campus and ETH members on site
+**Date processed:** 2025-05-01
+
+## Main article
 
 How quickly the world can change! Not long ago, the Hönggerberg campus, comprising more than 12,000 students and staff, was as lively as any city district – and on the central campus there were spots such as the Polyterrasse, where university members gathered alongside tourists who had come for a view of the old town and the mountains.
 
@@ -10,9 +12,9 @@ Then the unthinkable happened: the coronavirus was declared an “extraordinary 
 
 A walk with a view: during her patrol, Angela Käppeli of the ETH security service checks the buildings on the Hönggerberg campus. (Photo: ETH Zurich / Alessandro Della Bella)
 
-What that had previously been the stuff of science fiction films or dystopian graphic novels was now a reality on campus: deserted cityscapes, streets and garages without cars, bus stops without people, restaurants without guests, bistro refrigerators without drinks, fitness equipment without athletes, lecture halls without students, laboratories without researchers and offices without employees. Barely conceivable in the past before the crisis, this image remains almost incomprehensible to this day.
+## See the empty campus and ETH members on site
 
-## Window on to unfamiliar perspectives
+What that had previously been the stuff of science fiction films or dystopian graphic novels was now a reality on campus: deserted cityscapes, streets and garages without cars, bus stops without people, restaurants without guests, bistro refrigerators without drinks, fitness equipment without athletes, lecture halls without students, laboratories without researchers and offices without employees. Barely conceivable in the past before the crisis, this image remains almost incomprehensible to this day.
 
 For those ETH members who have been working from home - and thus far away from the campus -, the Corporate Communications department commissioned two freelance photographers – Alessandro Della Bella and Nicola Pitaro – to visit the Hönggerberg and central campuses in April.
 
@@ -20,9 +22,9 @@ Their work paints a picture of the months when ETH operated in emergency mode fo
 
 Slumbering infrastructure: Lab Director Philipp Simka in the High Voltage Laboratory. (Photo: ETH Zurich / Nicola Pitaro)
 
-The photos of the two empty campuses give an impression of what it feels like when even on a clear and sunny day, no one is on the Polyterrasse, no one is hurrying through the corridors of the ETH main building and the reading rooms of the libraries are just as deserted as the lecture halls and the student workplaces in the foyers.
+## Window on to unfamiliar perspectives
 
-## Subscribe to Newsletter
+The photos of the two empty campuses give an impression of what it feels like when even on a clear and sunny day, no one is on the Polyterrasse, no one is hurrying through the corridors of the ETH main building and the reading rooms of the libraries are just as deserted as the lecture halls and the student workplaces in the foyers.
 
 This creates a peculiar effect: Suddenly attention is drawn to the shadows cast on the walls by the incoming sunlight, where otherwise attention was focused mainly on the people and their conversations.
 
@@ -31,8 +33,6 @@ The deserted spaces provide a window on to unfamiliar perspectives and allow vie
 Yet at the same time, the pictures also bear witness to the full scope of this unwelcome state of affairs, particularly in places where people usually gather. In restaurants and cafeterias, for example, individual entrances have been cordoned off, chairs are piled up on tables, refrigerators have been almost completely emptied and coffee cups are wrapped in plastic. Closed for business.
 
 And the mood in the sports centres is much the same: the fitness equipment is sitting unused, while cordons mark off the sports facilities and certain equipment.
-
-## Staffnet
 
 Student Martin Rösch on the HIL building with 3D printers used to make face masks. (Photo: ETH Zurich / Alessandro Della Bella)
 

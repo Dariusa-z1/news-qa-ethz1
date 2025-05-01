@@ -2,37 +2,33 @@
 
 **Source:** de_news_events/2014/03/oil-energy-realities-for-western-europe-part-1.html
 
+**Date processed:** 2025-05-01
+
 ## Importance to get prepared
 
 Oil is by far the dominant energy source for Switzerland and its neighboring countries, corresponding to about 53% of the Swiss energy mix [1]. The burning of oil satisfies almost 100% of our transport needs and more than 50% of our heating requirements. Despite the importance of oil in our daily energy consumption pattern, discussions about the energy problem tend to concentrate on the future supply of electric energy. Because of its physical properties oil is the ideal energy source for the transport of people and consumer goods. As a result of these essentially unique properties, the finding, extraction and distribution of oil became extremely profitable and allowed those who have influence in the global oil market to gain considerable economic and political power.
 
 Yet, some dark clouds appeared during the last 10 years on the oil horizon:
 
-## The “known” facts
-
 (1) Essentially no more large sources of the easily extractable oil were discovered during the last decades; (2) the known deposits are concentrated in only a few countries and their resource data are often kept like state secrets; and (3) the global oil demand increased faster than new oil fields could be opened for production. As a result, the price of crude oil has increased during the last decade by almost a factor of four.
 
 Considering the importance of oil for our current globalized way of life, it seems highly relevant to understand what we know (the “known” facts), study what we know we don’t know (the “known unknowns”) and be prepared for the unknown we don’t know of yet (“unknown unknowns”), which will constrain the future oil consumption especially in Western Europe (EU + Norway + Switzerland).
-
-## First conclusion
 
 During the year 2012, 13.3 mbd (million barrels of oil per day) were burned in Western Europe [2]. This is 15% smaller than six years ago, when about 15.5 mbd were consumed. The largest oil reduction happened in the crisis countries of Southern Europe (Greece, Italy, Spain and Portugal) where the combined consumption dropped by almost 25% since 2006. With few remaining oil reserves and a steeply declining oil production especially in the UK and Norway, about 75% (9.6 mbd) of the consumed oil in Western Europe was imported in 2012.
 
 Starting with the relatively well documented (known) remaining oil resources in Western Europe, one finds that about 80% of this remaining “domestic’’ oil is located in the North Sea territories of UK and Norway [2]. Since 10 years, the oil extraction from both countries has declined by about 6% per year (see Fig 1), and only Norway remains an oil exporting country within Western Europe.
 
-## References
-
 This rapid production decline happened despite the factor four higher oil prices, and thus provides evidence against our economic models, which claim that higher resource prices lead to more discoveries and more production. Furthermore, with the absence of significant new projects in Western Europe, the current decline rate will continue at least for the next 10-15 years.
 
 Concerning the near term future oil supply situation for Western European countries, the IEA (International Energy Association of the OECD countries in Paris) presented their ideas in a recent 2013 oil market report [3]. The IEA expects that today’s oil supply countries will reduce their exports to Western Europe during the next few years and that by 2018 only 7.3 mbd, compared to 9.6 mbd in 2012, will be delivered. According to their assumptions, the 2,3 mbd difference is not originating from a declining production, but mainly by the increasing exports to China and other countries in Asia.
 
-## Zum Autor
+## First conclusion
 
 Combining these IEA oil import estimates with the expectations from internal oil production, the consumption in Western Europe will decrease from 13.3 mbd in 2012 to 9.5 mbd already by 2018. Assuming no other fundamental and unpredicted global economy changes, Western European consumers will be confronted with a steady and totally unprepared oil consumption decline of about 5% for every coming year.
 
 My next blog post ( part 2 ) will deal with the “known unknown” and the “unknown unknown” boundary conditions for Western Europe`s future oil consumption.
 
-## Keinen Beitrag verpassen
+## References
 
 [1] Schweizer Bundesamt fur Energie, externe Seite Energiestatistiken
 

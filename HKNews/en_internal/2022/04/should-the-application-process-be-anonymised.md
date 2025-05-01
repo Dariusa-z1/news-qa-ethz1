@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2022/04/should-the-application-process-be-anonymised.html
 
+**Date processed:** 2025-05-01
+
 ## For
 
 Furkan Sami Oguz, employee of the Chair of Applied Macroeconomics (Illustration: Kornel Stadler)
@@ -10,23 +12,19 @@ Imagine applying for a job and your name is not something “typically” Swiss 
 
 We assume that this was largely attributable to unconscious discrimination. Origin and gender are associated with certain attributes, which can lead to generalisations about an entire group of people. Particularly when there are lots of applicants, recruiters spend very little time looking at each individual application. The process is like Tinder, where superficialities lead to incorrect assumptions and trick us into swiping right for a Jonas but not for a Qendrim. Or in the case of people who are similar to ourselves.
 
-## The perspective of Lukas Vonesch, Head of HR Consulting
-
 There are no further studies for the Swiss job market, but one thing is clear: if you can’t even make it past the first hurdle, you won’t have the chance to convince your counterpart of your skills on a personal level. But it’s precisely this that would help to break down prejudices and bring about a gradual reduction in unconscious bias. After all, in a face-to-face conversation, it’s what you say and how you behave that count, which is something you can influence – unlike your name, origin, gender or age. This is exactly where anonymised application processes come in, which are already the norm in many organisations in the USA and Europe.
+
+## The perspective of Lukas Vonesch, Head of HR Consulting
 
 Lukas Vonesch, Head of HR Consulting (Photograph: Gian Marco Castelberg)
 
 At ETH, we want to attract the very best. So there is no place for prejudice and discrimination in our recruitment process. Anonymised application processes promise many advantages and should be given a chance. However, they also have their limits. And the key to success is not in the application, but in our heads.
-
-## Subscribe to Newsletter
 
 First of all, however, there is a misconception we need to clear up. At ETH, it’s not HR that carries out the preselection process in recruitment – it’s the person doing the hiring. Neither does HR make the decision about the appointment – all we do is provide support and advice.
 
 Anonymous applications can help to limit unconscious prejudices. But they’re not a cure-all remedy. Even if someone’s age, gender and origin are hidden, previous jobs and educational background say a lot about a person – and can therefore also trigger unconscious biases. If too much information is anonymised, the application doesn’t really mean anything anymore.
 
 What’s more, after the initial preselection, it is time to meet virtually or in person. At this point, any anonymity is lost and our own patterns of thinking come back into play.
-
-## Staffnet
 
 There are therefore three factors that are key to a recruitment process free of prejudice. Firstly, we need to take a look at ourselves and identify our own unconscious biases. The most important thing, however, is to get a wide range of opinions on the applications. I would therefore urge anyone who hires people to involve others in the process, be open to different opinions and have a range of various people take part in the interviews. And make sure you invite candidates who might not seem like an obvious fit. Every time I need to hire someone, I shortlist a wild card candidate, i.e. I invite a person who doesn’t meet all the requirements. People might surprise you, and it’s worth being open to this.
 

@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2020/09/covid-19-cases-at-ETH.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH Zurich has gone to a lot of effort to ensure that its members stay as healthy as possible throughout the coronavirus epidemic. But infection cannot be avoided completely. Katherine Timmel, Head of the Safety, Security, Health and Environment (SSHE) department, and her deputy Reto Suter are part of the ETH Covid task force. They and their SSHE colleagues are the key point of contact when ETH members receive positive test results. Here, they offer an insight into their work and an update on ETH members who have already tested positive.

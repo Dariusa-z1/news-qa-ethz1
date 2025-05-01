@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2016/09/doppelter-gletscherkollaps-in-tibet.html
 
+**Date processed:** 2025-05-01
+
 ## Mit vereinten Kräften den Ursachen auf der Spur
 
 Um die Ursache der ersten Eislawine vom 17. Juli zu verstehen, haben wir – ein internationales Team von Forschenden der ETH, der WSL (SLF) [3] sowie der GAPHAZ-Kommission (Glacier And Permafrost Hazards In Mountains) [4] – begonnen, die dem Kollaps vorrangehende Entwicklung des Gletschers zu untersuchen und die verursachte Eislawine zu charakterisieren. Dazu analysierten wir zahlreiche Satellitenbilder und versuchten, die Lawine mit der am SLF entwickelten Simulationssoftware RAMMS (Rapid Mass Movements) [5] zu reproduzieren.
@@ -16,25 +18,23 @@ Zu unserer Überraschung offenbarte die Analyse der Höhenprofile, dass ein angr
 
 Nach kurzer Beratung mit Daniel Farinotti (VAW und WSL) modellierten Yves Bühler und Kollegen (SLF) das Risiko einer neuen Eislawine. Gemeinsam erstellten wir eine Gefahrenkarte. Koordiniert durch die GAPHAZ-Kommission wurde die Warnung auf schnellstem Weg an chinesische Wissenschaftler und die lokalen Behörden in Tibet weitergeleitet. Nur wenige Stunden später, am 22. September 2016, meldeten die chinesischen Wissenschaftler den Zusammenbruch des zweiten Gletschers mit einer weiteren gigantischen Eislawine – ein doppelter Gletscherkollaps – soetwas hat es in der bekannten Geschichte bis dahin noch nie gegeben. Zur Erleichterung aller wurde durch die zweite Lawine niemand verletzt, obwohl die Warnung bei den lokalen Behörden um wenige Stunden zu spät eintraf.
 
-Die Nachricht der tibetischen Kollegen über den Zusammenbruch des zweiten Gletschers traf alle beteiligten Wissenschaftler wie ein Schock – zu unwahrscheinlich war ein doppelter Gletscherkollaps. Gemeinsam untersuchen wir nun die Ursachen und Auslöser, die den mysteriösen Fall dieses Zwillings-Kollaps erklären könnten. Unser Schwerpunkt gilt dabei insbesondere der Frage, weshalb zwei benachbarte Gletscher derart zeitnah und auf ähnliche Weise abbrechen konnten. Das Doppelereignis deutet darauf hin, dass geologische und topografische Faktoren, meteorologische Bedingungen und – höchstwahrscheinlich – die jüngsten Klimaveränderungen eine Rolle spielen.
-
 ## Auf der Suche nach Erklärungen
+
+Die Nachricht der tibetischen Kollegen über den Zusammenbruch des zweiten Gletschers traf alle beteiligten Wissenschaftler wie ein Schock – zu unwahrscheinlich war ein doppelter Gletscherkollaps. Gemeinsam untersuchen wir nun die Ursachen und Auslöser, die den mysteriösen Fall dieses Zwillings-Kollaps erklären könnten. Unser Schwerpunkt gilt dabei insbesondere der Frage, weshalb zwei benachbarte Gletscher derart zeitnah und auf ähnliche Weise abbrechen konnten. Das Doppelereignis deutet darauf hin, dass geologische und topografische Faktoren, meteorologische Bedingungen und – höchstwahrscheinlich – die jüngsten Klimaveränderungen eine Rolle spielen.
 
 Der Zwillings-Kollaps mag brisant in der aktuellen Klimadebatte klingen und ist sicher kein erfreuliches Ereignis. Die Tatsache jedoch, dass verschiedene Satellitenaufnahmen nur wenige Stunden verzögert analysiert werden konnten, ist ein Meilenstein in der Entwicklung von Frühwarnsystemen und zeigt die Bedeutung internationaler Zusammenarbeit auf.
 
 Silvan Leinss hat diesen Beitrag zusammen mit Daniel Farinotti verfasst.
 
-[1] Nature news: externe Seite Giant, deadly ice slide baffles researchers
-
 ## Weiterführende Informationen
+
+[1] Nature news: externe Seite Giant, deadly ice slide baffles researchers
 
 [2] Stephen G. Evans, et al, “ externe Seite Catastrophic detachment and high-velocity long-runout flow of Kolka Glacier, Caucasus Mountains, Russia in 2002 ”, Geomorphology, Vol. 105, Issues 3–4, (2009).
 
 [3] Beteiligt waren die «Earth Observation and Remote Sensing Group» und die Versuchsanstalt für Wasserbau, Hydrologie und Glaziologie (VAW) der ETH Zürich sowie das Institut für Schnee- und Lawinenforschung SLF der WSL.
 
 [4] Glacier and Permafrost Hazard in Mountains externe Seite GAPHAZ
-
-## Zum Autor
 
 [5] Rapid Mass Movements externe Seite RAMMS
 
@@ -43,6 +43,8 @@ Dr. Silvan Leinss, , +41 44 633 40 45
 Dr. Yves Bühler, , +41 81 417 01 63
 
 Prof. Daniel Farinotti, , +41 44 739 25 04
+
+## Zum Autor
 
 Postdoktorand in der Gruppe für Erdbeobachtung und Fernerkundung am Institut für Umweltingenieurwissenschaften, ETH Zürich.
 

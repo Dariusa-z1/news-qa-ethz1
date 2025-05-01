@@ -2,19 +2,21 @@
 
 **Source:** de_news_events/2013/06/kuenstliche_zellenba.html
 
-## Bakterien abgeschaut
+**Date processed:** 2025-05-01
+
+## Main article
 
 Daniel Müller ist von Haus aus Physiker und baut Maschinen. Das Besondere daran: Seine Maschinen sind so winzig, dass sie in eine Zelle passen. Genauer gesagt: in eine künstliche Zelle. Die Bestandteile der Maschinen sind Moleküle, beispielsweise Proteine. «Unser Vorbild ist die Natur», erläutert Müller, Professor für Bionanotechnologie am Departement Biosysteme (D-BSSE) der ETH Zürich in Basel. «Wir wollen die Vorgänge in Zellen genau verstehen, ahmen die Vorgänge nach und bauen sie schliesslich nach unseren Bedürfnissen neu.»
 
 Klingt einfach, ist in Wirklichkeit aber unglaublich kompliziert. Denn in einer natürlichen Zelle gibt es 100'000 verschiedene Proteine, die hochspezifische Aufgaben übernehmen. Man nennt sie auch molekulare Maschinen. Sie wirken beispielsweise als Rezeptoren und transportieren Stoffe oder Signale.
+
+## Bakterien abgeschaut
 
 Eine Herausforderung für die Wissenschaftler besteht schon allein darin, die Vorgänge in der lebenden Zelle zu beobachten, denn das ist mit heutigen Methoden kaum möglich. Zwar können die Forschenden in vitro, das heisst im Reagenzglas, manche Vorgänge mit einzelnen aus der Zelle isolierten Proteinen nachvollziehen. Sie können diesen Proteinen auch mit sehr hochauflösender Mikroskopie bei der Arbeit zusehen. Doch die Komplexität der Vorgänge in einer lebenden Zelle mit all ihren Einflüssen und Rückkoppelungsmechanismen lässt sich so nicht nachvollziehen.
 
 Denn eine lebende Zelle ändert ihren Zustand ständig. Und damit ändert sich auch der Zustand der molekularen Maschinen. Eines der Ziele von Müllers Forschungsgruppe am D-BSSE besteht deshalb darin, neue Methoden zu entwickeln, mit deren Hilfe sie genau beschreiben kann, wie die Zelle ihre molekularen Maschinen reguliert. «Wenn wir wissen, wie diese molekularen Maschinen reguliert werden, haben wir viel erreicht», sagt Müller, «denn dann können wir in einem weiteren Schritt die Zelle und ihre molekularen Maschinen auch gezielt beeinflussen.»
 
 Doch Müller und seine Forschungspartner im von der EU unterstützten Projekt Nanocell gehen einen Schritt weiter. Sie haben sich zum Ziel gesetzt, molekulare Maschinen zu konstruieren, die man wie Bausteine in eine künstliche Zelle einsetzen kann. Dort sollen sie kontrolliert Aufgaben ausführen, die es so in der Natur nicht gibt. Am ambitionierten Vorhaben sind Forschende des D-BSSE, der Universitäten Basel und Bern, der Max-Planck-Institute Frankfurt und Göttingen, der Oxford University und aus Madrid beteiligt.
-
-## Die Nanozelle als Staubsauger
 
 Aus der Natur nahmen sich die Forscher unter anderem einen Mechanismus zum Vorbild, mit dessen Hilfe beispielsweise bestimmte Bakterien, Salzoder Halobakterien genannt, Energie gewinnen. Dabei spielt das Protein Bacteriorhodopsin eine wichtige Rolle. Das Protein ist in der Zellmembran der Halobakterien zu finden, die mit seiner Hilfe Licht in Energie umwandeln.
 
@@ -25,8 +27,6 @@ Es wirkt dabei als eine von Lichtenergie getriebene molekulare Maschine, die Pro
 Die Nanozelle, also die künstliche Zelle, besteht aus einem winzigen Bläschen, einem etwa 50 bis 200 Nanometer kleinen LipidVesikel. In dessen Membran sind die Proteine eingebaut, die als lichtgetriebene Protonenpumpen wirken. Je nachdem, welche Stoffe transportiert werden sollen, wollen die Forscher die entsprechende Protonenpumpe mit einem passenden Transporter kombinieren. Wird das Modul der geeigneten Lichtfrequenz ausgesetzt, kommt die Protonenpumpe in Gang, nimmt die entsprechenden Stoffe aus der Umwelt auf und transportiert sie ins Innere der Zelle, wo sie eingelagert werden.
 
 «Wir können damit quasi die Umwelt reinigen», erklärt Müller. «Unsere Nanozelle könnte beispielsweise Giftstoffe aus dem Blut oder aus einer Kläranlage aufnehmen.» Kombiniert man sie mit einem magnetischen Nanopartikel, liesse sich die Zelle samt Giftstoff einfach mit einem Magneten einsammeln und entsorgen. Im Labor funktionieren die molekularen Maschinen und Bauteile des lichtgetriebenen Nanostaubsaugers bereits.
-
-## Auf dem Weg zur Nanofabrik
 
 Vorstellbar ist auch der umgekehrte Vorgang. Wirkstoffe könnten mit Hilfe einer Protonenpumpe aus dem Zellinneren heraustransportiert und gezielt ausgesetzt werden. An diesem Prinzip arbeiten die Forscher gerade.
 

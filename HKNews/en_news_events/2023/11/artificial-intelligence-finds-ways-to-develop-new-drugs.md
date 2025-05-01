@@ -2,19 +2,18 @@
 
 **Source:** en_news_events/2023/11/artificial-intelligence-finds-ways-to-develop-new-drugs.html
 
+**Date processed:** 2025-05-01
+
 ## In brief
 
-- To date, identifying and producing new active pharmaceutical ingredients has been a complex process of trial and error. Researchers at ETH Zurich have developed an AI model that helps to identify suitable molecular sites for the development of new active ingredients.
-
-- The chemists tested the process using borylation – a reaction that activates hydrocarbon scaffolds.
-
-- This AI method can accelerate the development of new active pharmaceutical ingredients and the optimisation of existing ones.
+• To date, identifying and producing new active pharmaceutical ingredients has been a complex process of trial and error. Researchers at ETH Zurich have developed an AI model that helps to identify suitable molecular sites for the development of new active ingredients.
+• The chemists tested the process using borylation – a reaction that activates hydrocarbon scaffolds.
+• This AI method can accelerate the development of new active pharmaceutical ingredients and the optimisation of existing ones.
+## Introducing chemical functions
 
 New active pharmaceutical ingredients lay the foundations for innovative and better medical treatments. However, identifying them and, above all, producing them through chemical synthesis in the laboratory is no mean feat. To home in on the optimum production process, chemists normally use a trial-and-error approach: they derive possible methods for laboratory synthesis from known chemical reactions and then test each one with experiments; a time-consuming approach that is littered with dead ends.
 
 Now scientists at ETH Zurich, together with researchers from Roche Pharma Research and Early Development, have come up with an approach based on artificial intelligence (AI) that helps to determine the best synthesis method, including its probability of success. “Our method can greatly reduce the number of lab experiments required,” explains Kenneth Atz, who developed the AI model as a doctoral student together with Professor Gisbert Schneider at the Institute of Pharmaceutical Sciences at ETH Zurich.
-
-## Introducing chemical functions
 
 Active pharmaceutical ingredients usually consist of a scaffold onto which are bound what are known as functional groups. These are what gives the substance its highly specific biological function. The scaffold’s job is to bring the functional groups into a defined geometric alignment so that they can act in a targeted manner. Imagine a crane construction kit, in which a framework of connecting elements is bolted together in such a way that functional assemblies like rollers, cable winches, wheels and the driver’s cab are arranged correctly in relation to each other.
 
@@ -26,15 +25,13 @@ One activation method that opens up a great many possibilities for different fun
 
 “Although borylation has great potential, the reaction is difficult to control in the lab. That’s why our comprehensive search of the worldwide literature only turned up just over 1,700 scientific papers on the subject,” Atz says, describing the starting point for his work.
 
-## High predictive power, especially with 3D data
-
 The idea was to take the reactions described in the scientific literature and use them to train an AI model, which the research team could then use to consider new molecules and identify as many sites as possible on them where borylation would be feasible. However, the researchers ultimately fed their model only a fraction of the literature they found. To ensure that the model wasn’t misled by false results from careless research, the team limited itself to 38 particularly trustworthy papers. These described a total of 1,380 borylation reactions.
 
 To expand the training dataset, the team supplemented the literature results with evaluations of 1,000 reactions carried out in the automated laboratory operated by Roche’s medicinal chemistry research department. This allows many chemical reactions to be carried out at the milligram scale and analysed simultaneously. “Combining laboratory automation with AI has enormous potential to greatly increase efficiency in chemical synthesis and improve sustainability at the same time,” says David Nippa, a doctoral student from Roche who accomplished the project together with Atz.
 
-## Sights set on other activations and functionalisations
-
 The predictive capabilities of the model generated from this data pool were verified using six known drug molecules. In five out of six cases, experimental testing in the laboratory confirmed the predicted additional sites. The model was just as reliable when it came to identifying sites on the scaffold where activation isn’t possible. What’s more, it determined the optimum conditions for the activation reactions.
+
+## Sights set on other activations and functionalisations
 
 Interestingly, the predictions got even better when 3D information on the starting materials was included rather than just their two-dimensional chemical formulas. “It seems the model develops a kind of three-dimensional chemical understanding,” Atz says.
 

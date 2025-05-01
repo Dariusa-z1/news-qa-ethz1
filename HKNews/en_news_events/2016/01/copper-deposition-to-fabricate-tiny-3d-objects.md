@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2016/01/copper-deposition-to-fabricate-tiny-3d-objects.html
 
+**Date processed:** 2025-05-01
+
 ## Tiny pipette
 
 Scientists at ETH Zurich have developed a new method of 3D microprinting. This can be used to manufacture even tiny, partly overhanging structures easily and in a single step. One day, this could pave the way for the manufacture of complex watch components or microtools for keyhole surgery, for example.
@@ -10,9 +12,9 @@ In most existing 3D microprinting processes, overhanging structures can be achie
 
 The new technique is a refinement of the FluidFM system developed at ETH Zurich several years ago (see ETH Life article , 26.06.2009). At the heart of this system is a moveable micropipette mounted on a leaf spring, which can be positioned extremely precisely. Nowadays, FluidFM is used primarily in biological research and medicine; for example, to sort and analyse cells and to inject substances into individual cells. For three years now, the system has been sold commercially by the ETH spin-off Cytosurge.
 
-## Electrochemical reactions at the tip
-
 As part of his doctoral thesis at ETH Zurich, Luca Hirt has been investigating the possibility of using FluidFM for printing processes. In particular, he is interested in using this technique to electro-deposit dissolved metals and other substances on to a conductive substrate.
+
+## Electrochemical reactions at the tip
 
 The system now developed works as follows: a droplet of liquid is placed on a base plate made of gold. The tip of the micropipette penetrates the droplet and acts as a print head. A copper sulphate solution flows slowly and steadily through the pipette. Using an electrode, the scientists apply a voltage between the droplet and the substrate, causing a chemical reaction under the pipette aperture. The copper sulphate emerging from the pipette reacts to form solid copper, which is deposited on the base plate as a tiny 3D pixel.
 
@@ -26,11 +28,11 @@ Using a computer to control the movement of the micropipette, the researchers ca
 
 An advantage of the new method over other 3D microprinting processes is that the forces acting on the tip of the pipette can be measured via the deflection of the leaf spring on which the micropipette is mounted. “We can use this signal as feedback. Unlike other 3D printing systems, ours can detect which areas of the object have already been printed,” says Hirt. This will make it easier to automate the printing process.
 
-## Reference
-
 The scientists have submitted a patent application for the method. The ETH spin-off Cytosurge has now licensed the method from ETH Zurich. Pascal Behr played a key role in developing FluidFM at ETH several years ago. Today, he is CEO of Cytosurge. “We see big market potential in the printing process and an opportunity to further diversify our company,” he says. “We are convinced of the idea of using FluidFM in 3D microprinting. Now, the task is to optimise this application in collaboration with interested researchers at universities and in industry – for example, in the watchmaking, medical technology and automotive sectors.” Behr sees an initial application in the field of rapid prototyping, where microscopic components can be manufactured quickly and easily using 3D printing.
 
 The long-established collaboration between ETH Zurich and Cytosurge will also continue. “It is a case of mutual give and take, from which both sides profit,” says Zambelli . Cytosurge provides ETH with its latest equipment, which the ETH scientists are able to use for their research. They in turn help to test the devices and offer suggestions for improvements and further development.
+
+## Reference
 
 Hirt L, Ihle S, Pan Z, Dorwling-Carter L, Reiser A, Wheeler JM, Spolenak R, Vörös J, Zambelli T: Template-Free 3D Microprinting of Metal Using a Force-Controlled Nanopipette for Layer-by-Layer Electrodepostion. Advanced Materials, 19 January 2016, doi: 10.1002/adma.201504967
 

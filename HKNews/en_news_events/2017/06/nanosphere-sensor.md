@@ -2,31 +2,29 @@
 
 **Source:** en_news_events/2017/06/nanosphere-sensor.html
 
+**Date processed:** 2025-05-01
+
 ## Nanosphere in a laser beam
 
 A tiny sphere and a laser beam inside of which it hovers as if by magic – with these simple ingredients Martin Frimmer and co-workers at the Photonics Laboratory of ETH Zurich have developed a highly sensitive sensor. In the future this device is expected to measure, amongst other things, extremely weak forces or electric fields very precisely. Now the researchers have taken a major step in that direction, as they write in a recently published scientific paper.
 
 Martin Frimmer, a post-doctoral researcher in the group of ETH professor Lukas Novotny, explains the working principle of a sensor very plausibly: “First I need to know how the object acting as a sensor is influenced by its environment. Anything that happens beyond that influence tells me: there is a force at work.” In practice this usually means that interactions with the environment should be kept at a minimum in order to maximize the sensitivity of the sensor to the forces one wants to measure.
 
-## Discharging by high voltage
-
 The scientists achieved precisely that by trapping a silica nanoparticle, whose diameter is about a hundred times smaller than a human hair, using a focused laser beam. The beam creates “optical tweezers” in which the nanosphere is held in the focus of the beam by light forces. If an additional force acts on the sphere, it is shifted from is rest position, which in turn can be measured with the help of a laser beam.
 
 Since the optical tweezers keep the nanosphere hovering in midair without any mechanical contact, the influence of the environment can easily be reduced to a minimum. To do so, Frimmer and his team place the optical tweezers inside a vacuum chamber so that there are virtually no more collisions with air molecules. The only thing left now that could create a disturbance is a possible electric charge on the nanoparticle. Owing to such a charge, insufficiently screened electric fields could influence the sphere and, therefore, a possible measurement. For this reason the ETH researchers have now developed a simple but highly efficient method by which the charge on the sphere can be neutralised.
 
-## Gravity and quantum mechanics
-
 To this end they mounted a wire inside the vacuum chamber that was connected to a 7000 volt high-voltage generator. The high voltage caused the air molecules to be ionized, i.e., to be split into negatively charged electrons and positively charged ions. Either of those could now jump onto the nanosphere and make its charge more positive or more negative.
 
 To measure the charge carried by the sphere at any given moment, the physicists exposed it to an oscillating electric field and observed how strongly the sphere reacted to that. In this way they were able to confirm that the charge of the sphere changed in steps of exactly one elementary charge (i.e., the charge of an electron) to the negative or to the positive. When the high voltage is switched off, the sphere’s instantaneous charge remains constant for days.
-
-## Reference
 
 This perfect control allows the scientists to completely neutralize the electric charge on the nanoparticle. As a result, electric fields no longer have any effect on the sphere, which makes it possible to precisely measure other very weak forces. One such force is gravity. Martin Frimmer speculates, albeit cautiously, that in future the nano-sensor he developed should enable studies of the interplay between gravity and quantum mechanics.
 
 By clever manipulation of the optical tweezers the researchers can already cool the sphere down to below a ten thousandth of a degree above absolute zero. For even lower temperatures the nanoparticle is expected to start behaving quantum mechanically, so that phenomena such as quantum superpositions and their dependence on gravity can be observed.
 
 Interesting applications of the sensor also present themselves in everyday contexts, such as the measurement of accelerations. Since the charge of the nanosphere cannot only be neutralized, but also set to a well-defined value at will, the sensor is equally suitable for precision measurements of electric fields.
+
+## Reference
 
 Frimmer M, Luszcz K, Ferreiro S, Jain V, Hebestreit E, Novotny L: Controlling the net charge on a nanoparticle optically levitated in vacuum. Physical Review A 2017, 95, 061801(R), doi: 10.1103/PhysRevA.95.061801
 

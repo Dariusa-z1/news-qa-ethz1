@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2014/04/a-plea-for-dual-careers.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 In my last column I outlined the potential differences in the experiences of female and male professors likely to persist as long as there are so few women in STEM fields. With this column, I would again like to relate my own experiences to broaden the discussion on dual career opportunities as they have affected my own life and career.
@@ -21,6 +23,8 @@ A few years ago, as my husband explained the meaning of life to our older son, I
 Dual career for me means that neither partner has to give up his or her personal dreams and both can use their capabilities to do something special, get a job, earn a salary and recognition … and finally not to regret their lives.
 
 Relating my personal experience to the bigger picture, it is important to recognize that changes in society and institutions can either promote or hinder dual career opportunities. My husband and I were able to work out our own personal solution. But the important establishment of paternity leave policies (e.g., in Sweden) has allowed fathers to increase their involvement in child rearing. There are also key steps that universities can take, including (but not limited to) developing a dual career hiring protocol.
+
+## About the Author
 
 Ursula Keller was born 1959 in Zug. She has been a physics professor at ETH since 1993, and director of the NCCR MUST since 2010. She obtained her Masters at ETH Zurich in 1984, and her Ph.D. at Stanford University in 1989, and before returning to ETH she worked as an independent researcher at AT&T Bell Laboratories. Her current research group explores ultrafast science and laser technology, using this competitive know-how to understand and control fundamental charge and energy transport with atomic spatial and attosecond temporal resolution. Ursula has received several international prizes, as well as a European Research Council (ERC) Advanced Grant. She currently serves as the president of the ETH Women Professors Forum ( ETH WPF ).
 

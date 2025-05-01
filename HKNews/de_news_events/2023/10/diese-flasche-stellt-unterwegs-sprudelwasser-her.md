@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2023/10/diese-flasche-stellt-unterwegs-sprudelwasser-her.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Die ehemaligen ETH-Studierenden Christian Käser und Linus Lingg trinken gerne und viel Sprudelwasser – wie viele andere Menschen auch. Für Hahnenwasser gibt es Dutzende von praktischen und optisch ansprechenden Trinkflaschen für unterwegs. Für Sprudelwasser findet man hingegen nur die bekannten Systeme für zu Hause. Ein System für unterwegs müsste doch realisierbar sein, waren sich die beiden einig. Erste Investoren fanden sich nach dem Auftritt in der Fernsehsendung «Die Höhle der Löwen Schweiz» schnell, denn die Vorteile des Produkts liegen auf der Hand: Nachhaltig, praktisch und noch nicht am Markt erhältlich. Doch der Weg von der Idee zum Markt ist lang, wie die zwei im Gespräch schildern.

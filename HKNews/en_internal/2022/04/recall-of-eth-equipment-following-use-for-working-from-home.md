@@ -2,13 +2,13 @@
 
 **Source:** en_internal/2022/04/recall-of-eth-equipment-following-use-for-working-from-home.html
 
+**Date processed:** 2025-05-01
+
 ## Equipment to be returned to ETH by the end of May
 
 When the requirement to work from home was announced at ETH Zurich, IT Services responded rapidly in consultation with the Vice President for Infrastructure, Ulrich Weidmann. On the basis of the special pandemic guideline on the use of ICT resources for working from home, employees were allowed to take IT resources, such as monitors and docking stations, from their offices to use at home in consultation with their supervisors.
 
 “Our aim in doing so was to enable employees to do their work just as efficiently at home as in the office,” says Weidmann. Supervisors were formally given the authority to allow their team members to take ETH equipment home. It was announced at the time that this was a temporary measure and that supervisors would be required to recall the ETH equipment as soon as the recommendation or requirement to work from home no longer applied.
-
-## Subscribe to Newsletter
 
 Following the withdrawal of all pandemic-related regulations, these borrowed IT resources must now be returned by the end of May at the latest. Since working from home will continue to play a role for many in the coming phase of the “return to the office”, some may wonder why they are not allowed to continue to use the IT resources.
 

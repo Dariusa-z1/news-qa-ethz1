@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2016/03/suedafrika-delegation-besucht-eth.html
 
-## Forschungskooperationen zwischen ETH Zürich und Südafrika
+**Date processed:** 2025-05-01
+
+## Main article
 
 Jens Kossmann, Direktor des externe Seite Institutes für Pflanzenbiotechnologie an der Stellenbosch University und Samuel Zeeman, Leiter der Gruppe für Pflanzenbiochemie an der ETH Zürich erklären im ETH-News-Interview, was eine fruchtbare Kooperation über 10'000 Kilometer hinweg ausmacht.
 
@@ -20,8 +22,6 @@ Wie schwierig ist die Finanzierung solcher kooperativer Forschungsprojekte? Koss
 
 Zeeman: Da stimme ich Jens zu. Die Förderung der Mobilität ist zwar wichtig, damit sich Forscher treffen und herausfinden, wo die gemeinsamen Forschungsinteressen liegen. Aber darüber hinaus sind Instrumente nötig, um Doktoranden und Postdocs finanzieren zu können.
 
-## SNF-Förderprogramm für Schweizerisch-Südafrikanische Forschung
-
 Ist es für Forscher in Südafrika schwieriger an solche Fördermittel heranzukommen, als für Forscher in Europa? Kossmann: Ich habe lange Zeit in Deutschland gearbeitet und verfüge über ein gutes Netzwerk in Europa. Ich kenne die Leute und weiss, wen ich für welche Zusammenarbeit kontaktieren könnte. Aber gerade jüngeren Kollegen hier in Kapstadt fehlen die Kontakte nach Europa noch. Für sie ist es bedeutend schwieriger. Gerade deshalb sind die bilateralen Forschungsprogramme für sie eine grosse Chance – sie eröffnen neue Netzwerke. Ich habe in den vergangenen Jahren eine Reihe von Doktoranden nach Europa geschickt und zur Zeit arbeitet ein ehemaliger Doktorand aus unserer Gruppe in Sams Labor in Zürich.
 
 Wie muss man sich ihre Zusammenarbeit über 10`000 Kilometer hinweg konkret vorstellen? Besuchen Sie sich regelmässig oder findet die Kommunikation einzig über Telefonkonferenzen und E-Mail statt? Kossmann: Wir treffen uns mindestens einmal pro Jahr in der Schweiz oder in Südafrika. Sam hat mich bereits drei Mal in Stellenbosch besucht, auch im Rahmen von Konferenzen.
@@ -34,7 +34,11 @@ Besonders im Kontext von Nord-Süd-Kooperationen werden immer wieder Befürchtun
 
 Kossmann: Bei unserer Zusammenarbeit ist das kein Problem. Ich bin auch überzeugt, dass die meisten Forschungskooperationen zwischen Europa und Afrika für beide Seiten fruchtbar sind. Die Bedingung dafür ist natürlich, dass man sich gegenseitig respektiert. Sam und ich, wir sind nicht nur beruflich, sondern auch privat seit Jahren gute Freunde – das hilft.
 
+## Forschungskooperationen zwischen ETH Zürich und Südafrika
+
 Südafrika gehört seit 2008 zu den sieben aussereuropäischen Ländern, mit denen die Schweiz die Forschungszusammenarbeit mit gezielten Programmen vertieft. Die ETH Zürich hat 2014 ein «Memorandum of Understanding» mit der University of Stellenbosch und 2015 eines mit der University of Cape Town abgeschlossen. Darin werden Forschungskooperationen gefördert und die Themenfelder für mögliche Zusammenarbeiten definiert. Vom 10. bis 11. März 2016 besuchte eine Delegation von 17 Akademikern und Schulleitungsmitgliedern der beiden Partneruniversitäten sowie der University of Pretoria und University of the Witwatersrand die ETH Zürich. Sie wurden vom ETH-Präsidenten empfangen, diskutierten an einer öffentlichen Veranstaltung die Chancen und Herausforderungen von bilateralen Forschungskooperationen und lernten während eines Workshops unterschiedliche Förderprogramme kennen. Zugleich bot der Anlass den Forschenden der involvierten Universitäten Gelegenheit, sich besser kennenzulernen und über gemeinsame Projekte auszutauschen.
+
+## SNF-Förderprogramm für Schweizerisch-Südafrikanische Forschung
 
 Im Rahmen des externe Seite Swiss-South African Joint Research Programme (SSAJRP) führt der Schweizerische Nationalfonds (SNF) gemeinsam mit seiner Schwesterorganisation in Südafrika, der National Research Foundation (NRF), eine weitere Ausschreibung für gemeinsame Forschungsprojekte durch. Geplant ist die Finanzierung von 12 Projekten während vier Jahren. Die Ausschreibung läuft noch bis zum 31. Mai 2016.
 

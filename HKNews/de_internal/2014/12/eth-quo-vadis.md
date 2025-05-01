@@ -2,35 +2,23 @@
 
 **Source:** de_internal/2014/12/eth-quo-vadis.html
 
+**Date processed:** 2025-05-01
+
 ## Die Indikatoritis
 
 Die ETH soll eine weltweit führende technische Hochschule sein. Gut so! Aber wie definiert man «weltweit führend»? Ist es wichtig, ob die ETH sich um einen oder zwei Plätze in einem jener weltweiten Rankings verbessert, die teilweise auf Kriterien beruhen, welche weit herum als eher zweifelhaft angesehen werden? Man kann diese Frage als unwesentlich für den Hochschulalltag abtun. Aber: wenn man die Rankings für wichtig hält, so ist es folgerichtig und sogar notwendig, die ETH-Angehörigen quantitativ und nach jenen Kriterien zu beurteilen, welche in die Rankings eingehen. Damit lassen wir uns die Qualitäts-Kriterien von aussen diktieren, statt sie durch einen internen Diskurs festzulegen.
 
-## Zu wenig Zeit, um seriös zu arbeiten?
-
 Für Rankings braucht es Zahlen. Bei den wissenschaftlichen Rankings grassiert eine Krankheit immer stärker, die Indikatoritis, und sie bezieht sich vor allem auf Publikationen.
-
-## Das Missverständnis von Bologna
 
 Erstens haben wir uns einem Monopolisten, dem Institute for Scientific Information (ISI; heute im Besitz von Thomson Reuters, also einer privaten, gewinnorientierten Firma) ans Messer geliefert – was vom ISI an Journals indexiert wird, wird weit herum als potentiell gut erachtet; was nicht indexiert wird, ist a priori schlecht. Ist es angemessen, dass eine einzige private Firma über den Wert wissenschaftlicher Ergebnisse entscheidet? Zudem werden dadurch Publikationen, die in praxisnahen Journals (die durchaus ‹peer-reviewed› sein können) erscheinen, wertlos für die Leistungsbilanz von ETH-Forschenden, und dies behindert den Dialog zwischen ETH-Forschung und Praxis. Wollen wir das wirklich?
 
-## Wie weiter?
-
 Zweitens braucht es Kriterien, um zu beurteilen, welche Artikel in ISI-Journals nicht nur potentiell , sondern tatsächlich gut sind. Dies wird weit herum anhand des «Impact Factor» (IF) der Journals gemacht, nämlich der Anzahl Zitierungen, die Artikel in einem bestimmten Journal durchschnittlich erhalten. Nun ist ein Mittelwert bekanntlich ungeeignet, um schiefe Verteilungen zu charakterisieren. Die Zitierungs-Häufigkeiten in wissenschaftlichen Zeitschriften sind aber extrem schief verteilt – beispielsweise erreichen 80% der Papers, die im hoch angesehenen Journal Nature publiziert werden, 8 Jahre nach ihrer Publikation weniger als 15 Zitierungen (Basisjahr 2005, Analyse 2006-2013), d.h. man könnte sie als eigentliche Flops bezeichnen. Diese Aussage basiert auf der Annahme, dass die Zitierungshäufigkeit ein Indikator für die Qualität einer Publikation ist. Diese Annahme ist zwar ebenfalls fragwürdig, aber ich lasse sie jetzt einmal gelten.
-
-## Zur Person
 
 Die Tatsache, dass jemand kürzlich etwas in «Nature» publiziert hat, ist also kein brauchbarer Prädiktor für die Qualität dieser Arbeit. Trotzdem werden immer wieder Wissenschaftler pauschal abqualifiziert mit der Bemerkung, dass der IF jener Journals, in welchen sie publizieren, tief sei.
 
-## Keine News verpassen
-
 Woher kommt solche Fahrlässigkeit? ETH-Professoren betreuen in den meisten Fällen weit mehr als 10 Doktorierende, sie sind bemüht, selber Forschung zu betreiben, machen Lehre und managen in einer Professur «so nebenbei» ein KMU mit einem Jahresumsatz von weit über einer Million Franken und oft 20-30 Angestellten – da ist Zeit das knappste Gut im Arbeitsalltag. In dieser Situation helfen Indikatoren, sich schnell ein Bild zu machen, und sparen viel Zeit – theoretisch. Jeder Indikator ist aber ein Modell, d.h. ein vereinfachtes und damit per definitionem falsches Abbild der Realität. Wenn wir die Qualität einzelner Wissenschaftler beurteilen wollen, so hilft nur eines: sich mit der Materie beschäftigen, die Unterlagen sorgfältig studieren, einige Publikationen der zur Diskussion stehenden Person selber lesen und sich so eine eigene Meinung bilden. Das braucht Zeit. Wenn wir uns diese Zeit nicht mehr nehmen zu können glauben und statt dessen der Indikatoritis frönen, so wird die Qualität von Lehre und Forschung de facto abnehmen, obwohl wir uns das Gegenteil vormachen.
 
-## Staffnet
-
 Bei ETH-Berufungen gilt das Prinzip «Excellence before profile». Gut so! Die zentrale Frage aber ist, wie «Excellence» definiert wird. Weil wir zu wenig Zeit zu haben glauben, stützen wir uns zunehmend auf Indikatoren, und Indikatoren sind am einfachsten verfügbar bezüglich Publikationen – da hat das ISI eine sehr gute Marktlücke entdeckt und ausgefüllt. Qualität und Umfang der Lehre, Persönlichkeitsmerkmale wie z.B. Teamfähigkeit, interdisziplinäre Interaktionen oder der Umgang mit ausseruniversitären Partnern wären Beispiele für andere, meines Erachtens ebenso wichtige Kriterien – bloss gehen sie mit untergeordneter Bedeutung oder überhaupt nicht in die Beurteilung der «Excellence» von Kolleginnen und Kollegen ein, wenn die Indikatoritis grassiert.
-
-## Newsletter abonnieren
 
 Ich habe soeben die Qualität der Lehre gestreift. Professoren sind Hochschullehrer genau so wie Forscher. Wir sollten also ein gemeinsames Verständnis haben, was resp. wofür wir ausbilden an der ETH. In den systemorientierten Wissenschaften der ETH gehen seit Jahrzehnten ungefähr 80% der Absolventen in die Praxis und werden dort mit Begeisterung aufgenommen; bloss etwa 20% machen eine Dissertation. Gut so! Damit bedienen wir den Arbeitsmarkt mit hervorragend ausgebildeten Fachkräften, und ein (kleinerer) Teil der Absolventen macht Karriere in der Wissenschaft.
 
@@ -41,6 +29,8 @@ Es ist richtig, dass oft nichts so praktisch ist wie eine gute Theorie (resp. ei
 Als einzelne Wissenschaftlerinnen und Wissenschaftler sind wir den oben beschriebenen Fehlentwicklungen des akademischen Systems ziemlich hilflos ausgeliefert. Die ETH hat einen hervorragenden Ruf weltweit, und wir sind alle stolz darauf. Ebenso wichtig ist aber, dass dieser Ruf es uns ermöglichen würde, uns als Institution von den Rankings und der fremdbestimmten Indikatoritis zu verabschieden und unsere eigenen Kriterien zu definieren, was exzellent ist und wohin wir wollen – nicht notwendigerweise weiter hinauf in den Rankings, sondern in eine sinnvolle Zukunft.
 
 Auf die im Rahmen einer öffentlichen Veranstaltung gestellte Frage, ob die ETH-Studien­gänge nach der Einführung der Bologna-Reform zertifiziert werden würden, antwortete der damalige Rektor Konrad Osterwalder mit Entrüstung, die ETH sei die ETH und brauche keine Zertifizierung. Gut so! Wir brauchen auch keine Rankings, sondern sehr gute Forschung, damit wir weiterhin trotz der Kleinheit unseres Landes in der internationalen Top-Liga dabei sind, und hochstehende, theoretisch fundierte, aber auch praxisorientierte Lehre, damit wir weiterhin hervorragende, praxistaugliche Absolventen ausbilden. Dieses Ziel ist nur erreichbar, wenn wir die Metrik des wissenschaftlichen Erfolgs differenzierter gestalten. Die ETH-Wert­skala wäre eine breite Diskussion wert.
+
+## Zur Person
 
 Harald Bugmann weist einen für sein Fachgebiet und sein Alter hohen h-Index von derzeit 33 auf und hat in Journals mit einem hohen IF publiziert, z.B. Science, Ecology Letters, Ecological Monographs, Ecology, Journal of Ecology, etc. Er glaubt aber nicht, dass man anhand dieser Indikatoren beurteilen kann, ob er ein guter ETH-Professor ist. Er publiziert regelmässig Beiträge in der Schweizerischen Zeitschrift für Forstwesen und sogar im Bündner Wald, obwohl diese nicht vom ISI indexiert werden, weil er naiv genug ist zu glauben, dass die Umsetzung von Forschungsresultaten in der Praxis eine wichtige Sache sei und sich nicht von selber ergebe. Er hat noch nie auszurechnen versucht, wie viel höher sein h-Index sein könnte, wenn er statt der seit 1999 für Bündner Wald etc. vergeudeten Zeit weitere Papers für ISI-Journals geschrieben hätte.
 

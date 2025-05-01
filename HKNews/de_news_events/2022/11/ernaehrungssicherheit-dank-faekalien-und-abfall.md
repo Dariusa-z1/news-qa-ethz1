@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2022/11/ernaehrungssicherheit-dank-faekalien-und-abfall.html
 
-## Kompost aus Fäkalien und Gartenabfällen
+**Date processed:** 2025-05-01
+
+## Main article
 
 Rund 250 Millionen Afrikaner:innen, jeder fünfte Mensch auf dem zweitgrössten Kontinent, leidet an Hunger oder Unterernährung. Ein Grund dafür ist, dass den landwirtschaftlich genutzten Böden nicht genug Nährstoffe zugeführt werden und dadurch die Erträge sinken. Gleichzeitig haben viele Städte in Subsahara-Afrika ein Problem mit der Abwasser- und Abfallentsorgung. Die sanitäre Infrastruktur ist der rasanten Verstädterung oft nicht gewachsen.
 
@@ -10,9 +12,9 @@ In der Regel betrachten Forschende diese beiden Probleme getrennt. Nicht so in d
 
 Zusammen mit dem Transdisziplinaritätslabor (TdLab) der ETH Zürich leitet seine Gruppe seit 2019 das von der Direktion für Entwicklung und Zusammenarbeit (Deza) finanzierte Forschungs- und Entwicklungsprojekt «Runres». In Äthiopien, Ruanda, der Demokratischen Republik Kongo und Südafrika haben die Forschenden gemeinsam mit lokalen Partnern gezeigt, dass sie sowohl die Ernährungssicherheit als auch die Abfallentsorgung durch die geschickte Wiederverwendung und Aufwertung von organischen Abfällen verbessern können. Da lokale Unternehmer:innen diese Projekte mitgestalten und mit Unterstützung der Forschenden selbst umsetzen, sind neue Arbeitsplätze entstanden, insbesondere auch für Frauen.
 
-In vielen ländlichen Gebieten Südafrikas entsorgen die Menschen ihre Ausscheidungen weiterhin in Grubenlatrinen. Dies stellt Gemeindeverwaltungen vor grosse Herausforderungen, denn die Latrinen füllen sich schnell. Dadurch besteht ein höheres Risiko, dass Menschen in Kontakt mit Krankheitserregern kommen.
+## Kompost aus Fäkalien und Gartenabfällen
 
-## Nachhaltiges Tierfutter aus Abfällen
+In vielen ländlichen Gebieten Südafrikas entsorgen die Menschen ihre Ausscheidungen weiterhin in Grubenlatrinen. Dies stellt Gemeindeverwaltungen vor grosse Herausforderungen, denn die Latrinen füllen sich schnell. Dadurch besteht ein höheres Risiko, dass Menschen in Kontakt mit Krankheitserregern kommen.
 
 Gemeinsam mit lokalen Partnern in der Gemeinde Msunduzi hat sich Benjamin Wilde, Postdoc an der Professur für nachhaltige Agrarökosysteme, diesem Problem angenommen: «Wir arbeiten mit der lokalen Firma Duzi Turf, einem öffentlichen Versorgungsunternehmen und der Gemeinde zusammen, um aus Klärschlamm und Gartenabfällen Kompost herzustellen. Dieser wird dann als Dünger eingesetzt», erklärt der Texaner, der «Runres» von Zürich aus koordiniert.
 
@@ -20,9 +22,9 @@ Während die Gemeinde die Grünabfälle und das öffentliche Versorgungsunterneh
 
 Ähnlich wie in Südafrika geht es auch beim Runres Projekt in Bukavu, einer Stadt im Osten der Demokratischen Republik Kongo, um die Herstellung von Kompost aus organischen Abfällen. Um diese Abfälle in der Stadt besser sammeln zu können, führte der Runres-Sozialwissenschaftler Leonhard Spaeth gemeinsam mit Forschenden des International Institute of Tropical Agriculture (IITA) eine Aufklärungskampagne durch, welche die Bewohner:innen ermutigte, organische Haushaltsabfälle besser zu trennen. «Damit wir aus Abfall günstig und effizient Kompost machen können, ist eine funktionierende Mülltrennung in den Haushalten entscheidend», erklärt Spaeth. Dadurch konnte nicht nur die Abfallentsorgung in der Stadt verbessert werden, sondern auch die öffentliche Gesundheit. Der Kompost wird zudem an lokale Kaffeebauern verkauft, die ihn als Dünger einsetzen.
 
-Die Aufbereitung und Wiederverwertung von organischen Abfällen ist auch in einem weiteren Projekt von «Runres» zentral. In Ruandas Hauptstadt Kigali arbeiten die ETH-Forschenden mit einem lokalen Unternehmen zusammen, das organische Abfälle sammelt und damit die Larven von Soldatenfliegen füttert.
+## Nachhaltiges Tierfutter aus Abfällen
 
-## Kreislaufwirtschaft rundum die Banane
+Die Aufbereitung und Wiederverwertung von organischen Abfällen ist auch in einem weiteren Projekt von «Runres» zentral. In Ruandas Hauptstadt Kigali arbeiten die ETH-Forschenden mit einem lokalen Unternehmen zusammen, das organische Abfälle sammelt und damit die Larven von Soldatenfliegen füttert.
 
 «Die Larven fressen den organischen Abfall und wandeln ihn in eigene Biomasse um. Sie sind eine ausgezeichnete Proteinquelle für Nutztiere wie Hühner oder Fische», erklärt Wilde.
 
@@ -30,15 +32,17 @@ Nach wie vor importiert Ruanda einen Grossteil des Tierfutters aus dem Ausland. 
 
 Darüber hinaus wirkt diese neue Quelle für Tierfutter auch der Überfischung entgegen. Denn bis anhin verwenden Bauern für die Geflügel- oder Fischzucht vor allem Fische aus lokalen Seen.
 
-Auch in Arba Minch, einer Stadt im Süden Äthiopiens, sind die ETH-Forschenden mit einem Runres-Projekt engagiert. Die Region ist ein grosses Bananenanbaugebiet. Viele Bauern schicken ihre Bananen als Rohware nach Addis Ababa, der Hauptstadt von Äthiopien, wo Händler sie weiterverkaufen. Da die Bauern am untersten Ende der Wertschöpfungskette stehen, verdienen sie sehr wenig damit.
+## Kreislaufwirtschaft rundum die Banane
 
-## Lokale Partner von Anfang an eingebunden
+Auch in Arba Minch, einer Stadt im Süden Äthiopiens, sind die ETH-Forschenden mit einem Runres-Projekt engagiert. Die Region ist ein grosses Bananenanbaugebiet. Viele Bauern schicken ihre Bananen als Rohware nach Addis Ababa, der Hauptstadt von Äthiopien, wo Händler sie weiterverkaufen. Da die Bauern am untersten Ende der Wertschöpfungskette stehen, verdienen sie sehr wenig damit.
 
 Die ETH-Forschenden haben in den letzten zwei Jahren gemeinsam mit einem lokalen Unternehmen eine Fabrik aufgebaut, die hochwertigere Bananenprodukte wie Bananenmehl und Bananenchips produziert. Die Firma verkauft diese Produkte direkt an Supermärkte, Schulen und Krankenhäuser.
 
 «Dank höheren Gewinnmargen kann das Unternehmen den Bauern einen besseren Preis für ihre Bananen zahlen. Mehr Wertschöpfung und letztlich auch Arbeitsplätze bleiben in der Region», erklärt ETH-Forscher Wilde. Aus den Bananen will das Unternehmen in Zukunft auch Babynahrung produzieren, was die Wertschöpfung weiter erhöht.
 
 Um ihre Felder zu düngen, verwenden die Bananenbauern den Kompost eines Unternehmens, das auch Teil des Runres-Projektes ist. Diese Firma erzeugt Kompost und Tierfutter aus kaliumreichen Bananenschalen, die bei der Produktion von Bananenprodukten abfallen. Ganz im Sinne von Runres entsteht durch all diese Neuerungen eine regionale Kreislaufwirtschaft, in der Abfälle wiederverwertet und als Dünger in der Landwirtschaft eingesetzt werden.
+
+## Lokale Partner von Anfang an eingebunden
 
 Die Projekte von Runres haben nicht nur den Verdienst und die Lebensbedingungen der Bevölkerung vor Ort verbessert, auch die Art und Weise wie sie durchgeführt wurden, ist neu: In jedem der vier afrikanischen Länder, in denen Runres läuft, gibt es mindestens zwei lokale Projektmitarbeiter:innen, die über das Projekt finanziert werden. Sie sind gut vernetzt und mit den Gegebenheiten des Landes vertraut. Gemeinsam mit den ETH-Forschenden identifizierten diese beiden Personen Akteure aus der Wirtschaft, Politik und Verwaltung, die am Aufbau von Kreislaufwirtschaften interessiert sein könnten.
 

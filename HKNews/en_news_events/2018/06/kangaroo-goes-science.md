@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2018/06/kangaroo-goes-science.html
 
+**Date processed:** 2025-05-01
+
 ## How many duplicate football stickers is too many?
 
 Many children are collecting the stickers from this year’s football World Cup in Russia. Marloes Maathuis’ sons are among them. The stickers are sold in packs of five, and the children swap the duplicates. Maathuis bought her sons 50 packs, which included 244 different stickers and six duplicates. “Is that a lot or not many?” the ETH Professor of Statistics asks the 100 secondary and high school girls from throughout German-speaking Switzerland. “Not many,” reply the girls.
@@ -9,8 +11,6 @@ Many children are collecting the stickers from this year’s football World Cup 
 “That’s hard to answer,” says Maathuis. As millions of these stickers are produced around the world, 250 is a very small sample – and it could just be a coincidence that six are duplicates. However, as a statistician, Maathuis knows a way to answer this question definitively: “I start with a thought experiment and a scenario.”
 
 There are 682 stickers in total. “Let's assume we have a machine that draws one sticker at random from each of 682 containers and places them into the five-packs,” explains the mathematician. This machine could be used to create a very large number of 50-pack series and then determine how many duplicates there are per 50 packs. This would allow us to compare whether six is a lot, not many or a normal amount of duplicates.
-
-## The link between landslides and mathematics
 
 In reality, this machine is a computer. Using her statistics program, Maathuis ran this 50-pack series scenario a million times and counted the number of duplicates. This resulted in values between 16 and 71, with an average of 40. On this basis, six duplicates are extremely few. “So we were either incredibly lucky or – more likely – our thought experiment scenario was inaccurate and the cards are probably not packed at random,” says Maathuis.
 

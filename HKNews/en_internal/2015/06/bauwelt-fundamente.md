@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2015/06/bauwelt-fundamente.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Since it was launched in 1963, it has featured a large number of pivotal texts on modern and post-modern architecture. Meanwhile, with 150 volumes, it is the most extensive book series in German on these topics.

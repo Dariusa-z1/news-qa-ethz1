@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2017/05/revealing-how-neurons-communicate.html
 
+**Date processed:** 2025-05-01
+
 ## Expertise from the Hierlemann group
 
 MaxWell Biosystems AG’s head office is hidden away in a Basel laboratory building previously used by Syngenta, just a stone’s throw from ETH Zurich’s Department of Biosystems Science and Engineering (D-BSSE). Most rooms are still empty, but on the third floor, in a spacious laboratory at the end of a long corridor, the entrepreneurial atmosphere is already palpable. The startup was founded in September 2016 by Urs Frey and Jan Müller, two former electrical engineering doctoral students at ETH Zurich, Michele Fiscella, a biotechnologist from D-BSSE, and Marie Obien, a neuroscientist.

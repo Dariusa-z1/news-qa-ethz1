@@ -2,29 +2,29 @@
 
 **Source:** de_news_events/2023/12/globe-ein-grosser-schritt-in-der-gelenkforschung.html
 
+**Date processed:** 2025-05-01
+
 ## Einzigartige Messeinheit
 
 «Das Knie ist das spannendste und gleichzeitig komplexeste Gelenk des menschlichen Körpers», sagt Bill Taylor, Professor für Bewegungsbiomechanik am Departement für Gesundheitswissenschaften und Technologie. «Es gibt enorme Beschleunigungen, komplexe Bewegungsmuster und hohe Belastungen.» Seine Leidenschaft für dieses Gelenk hat er bereits vor 20 Jahren entdeckt. Und er hat sich zum ambitionierten Ziel gesetzt, die Funktionsweise des Knies vollumfänglich zu verstehen: «Nur wenn wir wissen, wie das Gelenk belastet wird und welche Bewegungsmuster existieren, können wir verstehen, warum ein Gelenk steif, Knorpel abgebaut wird oder Schmerzen entstehen.»
 
 Um die Funktionsweise des Knies zu ergründen, setzen Bill Taylor und sein Team eine weiterentwickelte Technologie der Videofluoroskopie ein. Bei der Fluoroskopie werden Skelettstrukturen im menschlichen Körper durch pulsierende Röntgenstrahlen sichtbar gemacht. Taylor kombiniert diese Methode mit der Bewegungsanalyse mittels Hautmarker, Kraftmessplatten sowie der Messung der Muskelaktivität. Um das Knie beim Gehen und Treppensteigen verfolgen zu können, wurde am Institut für Biomechanik der ETH Zürich vor mehr als zehn Jahren ein automatisiertes bewegliches Fluoroskop entwickelt. Das bogenförmige Röntgengerät wurde dabei auf einen Roboter montiert, der den Bewegungen des Gelenks folgte. Beim Gehen einer Versuchsperson bewegte sich die ganze Apparatur mit und nahm bewegte Röntgenbilder des Knies auf. Aus den zweidimensionalen Bildern können später dreidimensionale Rekonstruktionen und anatomische Modelle mit Muskeln und Bändern des Knies erstellt werden. So lässt sich erkennen, welche Bänder bei welcher Bewegung wie stark belastet werden, was wiederum wichtig ist, um die Entstehung von Schmerzen zu verstehen.
 
-## Neuer Standort bringt Vorteile
-
 Obwohl dieses ursprüngliche Gerät viel genauere Messungen ermöglichte als bisherige Methoden, zeigten sich auch Schwächen: Die Bilder wurden nur in einer Ebene mit geringer Auflösung aufgenommen, und aufgrund der Konstruktion konnte nur langsames Gehen untersucht werden. Darum wollen Taylor und sein Team das Gerät weiterentwickeln. Die Vision: «Wir wollen eine einzigartige Messeinheit auf dem neuesten Stand der Technik bauen», sagt Taylor. Diese soll den Goldstandard setzen – nicht nur für die Grundlagenforschung, sondern auch für die klinische Beurteilung der Kniefunktionalität. Hier stellen sich viele Fragen: Wo soll man mit der Rehabilitation eines geschädigten Gelenks ansetzen? Wann muss ein Gelenk ersetzt werden, und welches Implantat eignet sich für die betroffene Person am besten?
 
-Die Bewilligung eines Förderantrags durch den Schweizerischen Nationalfonds war der Startschuss für die Entwicklung des neuen Dual-Plane-Videofluoroskops. Neben der innovativen Bildgebungseinheit mit zwei Ebenen verfügt das neue Gerät über Elektromotoren, die extrem schnell beschleunigen und so das Knie zum Beispiel beim Treppensteigen im Sichtfeld der Bildgebungseinheit halten können. Zudem fährt das Tracking-Gerät auf der Grundlage nur eines einzigen Markers, der ohne Verbindung zum Fluoroskop auf dem Knie des Probanden befestigt ist, sodass sich dieser frei bewegen kann.
+## Neuer Standort bringt Vorteile
 
-## Zur Person
+Die Bewilligung eines Förderantrags durch den Schweizerischen Nationalfonds war der Startschuss für die Entwicklung des neuen Dual-Plane-Videofluoroskops. Neben der innovativen Bildgebungseinheit mit zwei Ebenen verfügt das neue Gerät über Elektromotoren, die extrem schnell beschleunigen und so das Knie zum Beispiel beim Treppensteigen im Sichtfeld der Bildgebungseinheit halten können. Zudem fährt das Tracking-Gerät auf der Grundlage nur eines einzigen Markers, der ohne Verbindung zum Fluoroskop auf dem Knie des Probanden befestigt ist, sodass sich dieser frei bewegen kann.
 
 Im Herbst 2023 zog Taylor mit seinem Team vom bisherigen Standort am Campus Hönggerberg in den ETH-Neubau GLC im Zentrum von Zürich. Der Transport und der Aufbau des neuen Fluoroskops waren eine grosse Herausforderung und setzten eine lange Planung voraus. Um die volle Funktion des Systems gewährleisten und alle Sicherheitsvorschriften einhalten zu können, musste das Betonfundament des Labors im Untergrund des Forschungsgebäudes eigens für die 22 Meter lange Versuchsanlage entworfen und gebaut werden.
 
 Mit dem Neubau im Gloriarank (GLC) schafft die ETH Zürich im Hochschulgebiet Zürich Zentrum ein modernes Entwicklungs- und Laborgebäude, in dem Lehre, Forschung und Translation in den Bereichen Gesundheit, Medizin und Medizintechnik zusammenfinden. Die Realisierung wurde durch eine grosszügige Donation der Mäxi-Stiftung ermöglicht.
 
-## «Globe» Mensch im Mittelpunkt
-
 Die Nähe zu Kliniken und anderen Forschungseinrichtungen bringt Bill Taylor viele Vorteile: «Wir arbeiten sehr eng mit der Schulthess Klinik zusammen, sie hat uns unter anderem bei der Konstruktion des neuen Geräts unterstützt.» Auch mit der Universitätsklinik Balgrist, dem Universitätsspital Zürich und dem Kantonsspital Baden gibt es gemeinsame Projekte. Das Fluoroskop wird am neuen Standort erstmals für eine Studie mit gesunden Probandinnen und Probanden eingesetzt – mit dem Ziel, Standarddaten für den Zustand intakter Knie zu entwickeln. Diese sollen später als Referenz für andere Studien dienen, so etwa für ein laufendes Innosuisse-Projekt, das Studienteilnehmende mit künstlichen Kniegelenken untersuchen wird und Erkenntnisse für die zukünftige Entwicklung von Implantaten liefern soll.
 
 Bill Taylor denkt aber bereits viel weiter: Er möchte die heute schon niedrigen Strahlungswerte der bildgebenden Geräte noch weiter reduzieren. So liesse sich die Technologie nicht nur auf periphere Gelenke wie das Knie anwenden, sondern auch auf sensiblere Körperteile wie die Schulter oder die Wirbelsäule. Erste Kliniken melden bereits Interesse.
+
+## Zur Person
 
 Bill Taylor ist Professor für Bewegungsbiomechanik am Departement für Gesundheitswissenschaften und Technologie der ETH Zürich.
 

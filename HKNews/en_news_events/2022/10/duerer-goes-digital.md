@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2022/10/duerer-goes-digital.html
 
-## Main article
+**Date processed:** 2025-05-01
+
+## The Collection Catalogue Online
 
 The Collection Catalogue Online with over 50,000 digitised artworks from the Graphische Sammlung is freely accessible .
 

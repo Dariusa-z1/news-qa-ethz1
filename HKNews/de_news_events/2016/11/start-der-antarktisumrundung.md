@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2016/11/start-der-antarktisumrundung.html
 
+**Date processed:** 2025-05-01
+
 ## Wasserkreislauf im Fokus der ETH
 
 Jetzt geht’s los: Am 19. November sticht der russische Eisbrecher «Akademik Treshnikov» ab Bremerhaven in See. Ziel: Kapstadt. Zweck: Menschen und Geräte für die internationale Antarctic Circumpolar Expedition (ACE) des Swiss Polar Institute nach Südafrika zu schaffen. Von dort startet kurz vor Weihnachten die Expedition zu einer dreimonatigen vollständigen Umrundung des Südpols.
@@ -12,8 +14,6 @@ Eines dieser Projekte ist dasjenige von ETH-Professor Heini Wernli. Seine Doktor
 
 Er und seine Forschungsgruppe möchten den Wasserkreislauf des südlichen Ozeans genauer untersuchen. Dazu werden die ETH-Forschenden an Bord Wasserisotope im Wasserdampf der Atmosphäre und im Niederschlag messen. Anhand dieser Isotope können sie die Wechselwirkungen zwischen Meer und Atmosphäre bestimmen, aber auch Prozesse in den Wolken und der Atmosphäre während eines Niederschlags.
 
-## Auf die Wassersammler warten Nachtschichten
-
 Thurnherr und Graf werden während der Expedition das entsprechende Messinstrument überwachen. Dieses ist in einem Container untergebracht, den die ETH-Forschenden mit Kollegen vom Paul Scherrer Institut (PSI) teilen. Das Gerät misst dann die Isotope, die im Wasserdampf der angesogenen Luft enthalten sind.
 
 Wernlis Doktorierende werden zudem Regenproben sammeln und archivieren. Dazu müssen sie während des gesamten Niederschlagsereignisses alle zehn Minuten den Sammelbehälter austauschen – unter Umständen mitten in der Nacht, stundenlang. «Das wird uns sicher schlaflose Nächte bescheren», sagt Pascal Graf.
@@ -21,8 +21,6 @@ Wernlis Doktorierende werden zudem Regenproben sammeln und archivieren. Dazu mü
 Wasserproben nehmen werden sie auch von Seen und Wasserläufen auf den Inseln, die der Eisbrecher anlaufen wird. Sämtliche Proben werden aufbewahrt und erst nach der Expedition im Labor analysiert.
 
 Darüber hinaus werden die ETH-Forschenden mit einem Radar die Atmosphäre durchleuchten. Diese Messungen geben ihnen Auskunft über die Intensität und die Struktur des Niederschlags wie zum Beispiel die Grösse der Regentropfen. Auch dieses Instrument werden sie überwachen und warten. «Das Schlimmste was passieren könnte, ist, dass eines der Messgeräte irreparabel aussteigt», betont Thurnherr.
-
-## In drei Etappen um den Südpol
 
 In drei Etappen um den Südpol: Übersichtskarte der Expedition.
 

@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2017/06/cyber-risks-summit.html
 
+**Date processed:** 2025-05-01
+
 ## Technologie im Kampf gegen Cyber-Attacken
 
 Die Wannacry-Schadsoftware, russische Hacker, Wahlmanipulation: Cyber-Attacken auf Computernetze machen in letzter Zeit immer wieder Schlagzeilen und zeigen auf, wie entscheidend Daten- und Informationssicherheit für unsere Gesellschaft sind. Die ETH Zürich hat schon früh die Wichtigkeit der Informationssicherheit erkannt und deshalb vor rund 15 Jahren das Zurich Information Security & Privacy Center (ZISC) gegründet, das den Cyber Risks Summit organisiert hat. Die branchenübergreifende Arbeit des ZISC ist aktueller denn je, wie ETH-Präsident Lino Guzzella auch in seiner Eröffnungsrede betonte: «Es ist Zeit, dass wir die Kräfte aus Wissenschaft, Wirtschaft und Staat bündeln für einen wirksamen Schutz gegen die Gefahren aus dem Cyberspace.» Nebst der Zusammenarbeit mit der Industrie hob Lino Guzzella auch die Wichtigkeit der Grundlagenforschung hervor und plädierte für grössere Investitionen in diesem Bereich.
@@ -10,9 +12,9 @@ Die Wannacry-Schadsoftware, russische Hacker, Wahlmanipulation: Cyber-Attacken a
 
 Sicherheit und vor allem Transparenz zeichnen auch die neue digitale Übermittlungstechnologie Blockchain aus. In seinem Referat verglich Ari Juels, Professor an der Cornell University in New York, die Kommunikation mittels Blockchain mit derjenigen auf einer Pinnwand. Jede Aussage ist jederzeit für alle Beteiligten ersichtlich und kann deshalb auch nicht mehr verändert werden. Das erlaube eine vielseitige Anwendbarkeit für Transaktionen im Finanzsektor und das Aufsetzen von smarten Verträgen. Gleichzeitig betonte Juels jedoch, dass die Blockchain-Technologie noch in den Kinderschuhen stecke.
 
-## Gemeinsame Anstrengungen für mehr Sicherheit
-
 Úlfar Erlingsson, Tech Lead Manager bei Google Brain, thematisierte wie Big Data die Informationssicherheit erhöhen kann. Die Möglichkeit grosse Mengen an Daten zu sammeln, ohne dabei die Persönlichkeitsrechte zu verletzen, eröffne auch in Bezug auf Informationssicherheit neue Möglichkeiten, erklärte Erlingsson. So gelinge es bislang noch unbekannte Gefahren im Cyberspace aufzudecken und neue Lösungen auszuarbeiten.
+
+## Gemeinsame Anstrengungen für mehr Sicherheit
 
 Als Überleitung zur Podiumsdiskussion «Die Schweiz – das erste Internet-sichere Land der Welt?» stelle Adrian Perrig, Leiter des Instituts für Informationssicherheit der ETH Zürich, die vom ihm entwickelte neue Internetarchitektur Scion vor. Diese verhindert unter anderem unerwünschte Datenumleitungen und ist ein gutes Beispiel dafür, wie im ZISC Forschung und Wirtschaft zusammenarbeiten. So diskutierte Perrig die Praxistauglichkeit des Forschungsprojektes mit Andréa M. Maechler, Direktionsmitglied der Schweizerischen Nationalbank (SNB), Andreas Häberli, CTO der dorma+kaba Gruppe sowie Nationalrat und ICT-Unternehmer Franz Grüter.
 

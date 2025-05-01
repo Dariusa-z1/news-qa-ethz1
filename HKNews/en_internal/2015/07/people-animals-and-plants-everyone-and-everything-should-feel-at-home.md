@@ -2,7 +2,9 @@
 
 **Source:** en_internal/2015/07/people-animals-and-plants-everyone-and-everything-should-feel-at-home.html
 
-## Anniversaries Second quarter 2015
+**Date processed:** 2025-05-01
+
+## Main article
 
 When you mention the word “lawn mower” around to Jörg Brenn, his eyes light up. Switching on the motor, engaging the right gear and then simply mowing away – “that’s the part I enjoy most about my work”. Twice a year, Brenn pushes his electric mower over the extensive meadows and green spaces on the Hönggerberg campus. Funnily enough, he does not have a speedy, racing-car-like machine you can sit in, similar to what many a green-fingered hobbyist may like to own.
 
@@ -12,17 +14,15 @@ ETH Zurich is keen to encourage natural biodiversity. On the Hönggerberg campus
 
 Jörg Brenn is fond of sustainable gardening: “People, animals and plants – everyone and everything should feel at home.” Indeed, the assistant gardener is himself an excellent witness, able to testify that there has been an audible increase in the volume of buzzing, humming, croaking and whistling in the campus’s green spaces: he has been there, busily working away, caring for the university’s gardens since 1980.
 
-## Subscribe to Newsletter
-
 Brenn has a wry smile: “I’ve been outside nine hours every day in summer, and eight in winter, ever since.” The current heat wave does not bother him, and he also loves the snow. He cleans the garden tools or helps out with maintenance when it rains. “There is always something to do,” he says. The question of what he does not like about his work seems to baffle him.
 
 It seems he has never actually pondered the thought that cutting hedges and buds, watering flowerbeds, sprinkling water on the grass, harvesting hay, sweeping up branches and raking leaves could not be fun. The green-fingered fellow puts has head back and squints as he looks into the sunlight dappling through the leaves above. Jörg Brenn gives the impression of a man who has found his place in nature.
 
+## Anniversaries Second quarter 2015
+
 35 years Jörg Brenn, Facility Management Infrastructure Division Marcel Herzog, Services Dr Pascal Leuchtmann, Institute of Electromagnetic Fields Bruno Jörg, Laboratory of Crystallography Doris Sutter, Institute of Chemical and Bioengineering David Schmid, Facility Management Infrastructure Division
 
 30 years Michael Leopold, Institute for Solid State Physics Rolf Willy Liebermann, Real Estate Infrastructure Division Cornelius Senn, Department of Civil, Environmental and Geomatic Engineering Albert Weber, Institute of Machine Tools and Manufacturing Hans Wunderli, Institute of Terrestrial Ecosystems
-
-## Staffnet
 
 25 years Piero Arizzoli, ETH-Bibliothek Dr Stefan Blunier, Institute of Mechanical Systems Etienne Chevalley, RAPLAB D-ARCH Jules Fenner, Institute of Geodesy and Photogrammetry Stefan Gribi, Laboratory of Hydraulics, Hydrology and Glaciology Marie-Laure Müller, Professor of Development Economics Renate Pfister,Facility Management Infrastructure Division Aldo-Ricardo Rossi, Institute of Electromagnetic Fields Zsuzsanna Sebestyén, Institute of Cartography and Geoinformation
 

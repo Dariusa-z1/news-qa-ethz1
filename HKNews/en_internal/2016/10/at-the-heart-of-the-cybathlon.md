@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2016/10/at-the-heart-of-the-cybathlon.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 More than 70 teams from 25 countries will go head to head at the Swiss Arena in Kloten on 8 October. People with physical disabilities will compete in six challenging disciplines, supported by the latest technological assistance systems. Such a major event requires significant preparation: Roland Sigrist, Dario Wyss and Nicole Kasielke have been working hard to organise the upcoming competition for months. “life” introduces the organisers and their helpers.

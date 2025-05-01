@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2014/11/mehr-energieeffizienz-und-intensivierte-energieforschung-im-eth-bereich.html
 
+**Date processed:** 2025-05-01
+
 ## ETH-Bereich: Mehr Energieeffizienz
 
 Die Bundesverwaltung, der ETH-Bereich und die bundesnahen Unternehmen haben bei der Nutzung von Umwelt- und Energieressourcen eine Vorbildfunktion. Zusammen sind sie für rund zwei Prozent des schweizerischen Energieverbrauchs verantwortlich. Seit einigen Jahren sind die Bundesverwaltung, SBB, Post, Swisscom und Skyguide daran, die Energieeffizienz zu erhöhen und den Energieverbrauch zu senken. Diese Anstrengungen sollen in Zukunft weiter intensiviert werden.
@@ -10,15 +12,11 @@ Im Rahmen der Energiestrategie 2050 sieht der Bundesrat ein Massnahmenpaket vor,
 
 Der ETH-Bereich mit der ETH Zürich und der EPF Lausanne sowie den Forschungsanstalten Paul-Scherrer-Institut, Empa, Eawag und WSL verzeichnet steigende Studierendenzahlen und unterhält energieintensive Grossforschungsanlagen. Die Lehre und Forschung in neuen Forschungsfeldern und Technologien wurden ausgebaut.
 
-## Kernkompetenz Energieforschung
-
 Ungeachtet dieses Wachstums sank der pro-Kopf-Energieverbrauch, und die Energieeffizienz nahm zu, teilt der Bundesrat weiter mit. Das Energieeffizienzziel des ETH-Bereichs lautet, bis 2020 eine Effizienzsteigerung von mindestens 20 Prozent gegenüber dem Referenzjahr 2006 zu erreichen. Von 2006 bis 2013 konnte der ETH-Bereich die Energieeffizienz bereits um 15 Prozent verbessern. Zum Beispiel gehört der Neubau des Nationalen Hochleistungsrechnungszentrums CSCS in Lugano zu den energieeffizientesten Rechenzentren der Welt.
 
 In der Energieforschung investiert der ETH-Bereich gezielt in Ausbildung, Wissenschaft und in den direkten Technologietransfer in die Wirtschaft. Neben neuen Studiengängen und Forschungsprojekten wird der ETH-Bereich beim Aufbau der neuen nationalen Kompetenzzentren für die Energieforschung eine führende Rolle übernehmen, so der Bundesrat.
 
 Wie der ETH-Rat mitteilt, besteht der entscheidende Beitrag des ETH-Bereichs zum Erfolg der Energiestrategie 2050 in der Kernkompetenz der beiden Hochschulen und der vier Forschungsanstalten: in der Energieforschung. Sie ist im ETH-Bereich bereits seit Jahren ein zentrales Forschungsfeld und deckt die ganze Wertschöpfungskette ab – von der Grundlagenforschung bis zur produktnahen Entwicklung, die der Industrie und innovativen KMU in der Schweiz zu Gute kommt, schreibt der ETH-Rat.
-
-## Energieversorgung 2050: Integration oder Inseldenken?
 
 Im Vordergrund der Energieforschung im ETH-Bereich stehen die Reduktion von CO 2 -Emissionen sowie energieeffiziente Prozesse. Über 70 Prozent der Mittel, die der ETH-Bereich für die Energieforschung zur Verfügung hat, wird in die Erforschung erneuerbarer Energien und der Energieeffizienz investiert.
 
@@ -26,7 +24,7 @@ Die ETH Zürich führt zudem mit dem Energy Science Center ein eigenes Kompetenz
 
 Eine führende Rolle übernimmt der ETH-Bereich auch bei den neuen nationalen Kompetenzzentren für die Energieforschung ( externe Seite Swiss Competence Centers for Energy Research, SCCER ). Diese werden in für die Energieforschung prioritären Aktionsfeldern tätig sein - wie Energieeffizienz und Energiesysteme, Speicherung oder Mobilität. Bei drei von ihnen hat die ETH Zürich die Gesamtleitung:
 
-## Keine News verpassen
+## Energieversorgung 2050: Integration oder Inseldenken?
 
 Veranstaltung an der ETH Zürich
 

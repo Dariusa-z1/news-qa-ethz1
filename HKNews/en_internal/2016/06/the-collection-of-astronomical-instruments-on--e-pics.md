@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2016/06/the-collection-of-astronomical-instruments-on--e-pics.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 You will find several digital images, 360° views and content-related information on each object. The images can also be downloaded for free.

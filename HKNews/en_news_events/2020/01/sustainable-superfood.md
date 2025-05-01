@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2020/01/sustainable-superfood.html
 
+**Date processed:** 2025-05-01
+
 ## Fast growing and healthy too
 
 Best described as light green, with a taste reminiscent of bean sprouts and a pleasantly grainy texture, Wolffia is one of five genera of a plant commonly known as duckweed or “water lentils”. It is also the most easily digestible, as Cyrill Hess explains at an impromptu tasting in a basement-level environmental chamber at ETH Zurich’s Department of Environmental Systems Science. Just before, Hess had used a sieve to skim the Wolffia off the water in a wooden basin in front of the tasters . The grass-green carpet floats atop an aqueous nutrient solution that is continually cleaned by a pump. In the environmental chamber, scientists can precisely control temperature, humidity and lighting conditions. Hess started cultivating the Wolffia two weeks ago on a water surface measuring about five square meters. On a good day, he skims off 1.5 kilogrammes of this “green caviar” – that’s what he calls the product that his start-up, LemnaPro, is working on.
@@ -10,9 +12,9 @@ Hess, who studied environmental sciences at ETH Zurich, conducted research with 
 
 He discovered his enthusiasm for alternative and sustainable foods in Achim Walter’s lectures on alternative crops. Walter, Professor of Crop Science at ETH, wants to help build a sustainable world food system through research, new technologies and alternative crops. Walter helped Hess obtain a position as a guest researcher so he could use the lab and environmental chambers to further refine his idea.
 
-He also introduced Hess to his former undergraduate student Melanie Binggeli. During her studies, she was active in the ETH Entrepreneur Club and other start-up networks. Binggeli wrote her Bachelor’s thesis on soy and her Master’s thesis on insects, so she already had some experience with alternative sources of protein. “The UN Food and Agriculture Organization says that by 2050, we have to increase food production by 70 percent. To do that, we urgently need new approaches,” she says, continuing: “What really fascinates me about research is putting new knowledge into practice, so we can do something positive for people and for the environment.”
-
 ## Establishing a market
+
+He also introduced Hess to his former undergraduate student Melanie Binggeli. During her studies, she was active in the ETH Entrepreneur Club and other start-up networks. Binggeli wrote her Bachelor’s thesis on soy and her Master’s thesis on insects, so she already had some experience with alternative sources of protein. “The UN Food and Agriculture Organization says that by 2050, we have to increase food production by 70 percent. To do that, we urgently need new approaches,” she says, continuing: “What really fascinates me about research is putting new knowledge into practice, so we can do something positive for people and for the environment.”
 
 One key part of the progression from the initial idea to the first product samples was the Student Project House at ETH Zurich. It was here that Binggeli and Hess developed the first prototypes for their system. What started out as a plastic crate and an aquarium water pump has transformed into a sophisticated wooden basin with specific current properties for optimum Wolffia growth. They also had a mentor who not only helped them to build up a network, but she also provided encouragement in difficult patches and stressed how important it is to test out ideas at an early stage.
 

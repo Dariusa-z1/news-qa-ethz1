@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2022/07/does-eth-need-a-quota-for-women-in-management-positions.html
 
+**Date processed:** 2025-05-01
+
 ## Pro
 
 Annegret Kern, Office of the President employee
@@ -12,17 +14,15 @@ It is still mostly men who are in key positions: they lead appraisal interviews,
 
 Introducing a quota for women gives us a real chance to cut through this cycle of unconscious prejudice and make a meaningful contribution to the work being done to improve access to equal opportunities. For one thing, having such a quota would give many qualified women the opportunity to prove themselves and unlock their full potential. And at the same time, it would create more female role models – who would in turn give other women the confidence to believe they could hold a management position.
 
-## Against
-
 Together with the other measures put in place by ETH to provide more equality of opportunity, by increasing the percentage of women at management level, we could lay the foundations for a real cultural shift. However, change is only possible if diverse groups are adequately represented and are open to the strengths and weaknesses of other groups. The quota will force us to put our trust not only in similarities but also in differences.
 
 In the best-case scenario, by introducing a quota for women at ETH, we will increase the percentage of women and change the culture so much that, a few years down the line, we’ll no longer need a quota. Then we will all have achieved our goal.
 
+## Against
+
 Stephanie Habicht, IT Services employee
 
 Whenever someone asks me if we need more women in management positions, my answer is quite clear: yes. At ETH and more generally too. But we have to consider what is the best way to achieve this goal. A quota for women would perhaps solve the problem in terms of numbers, but it would cause new problems at the same time.
-
-## Always up to date
 
 On the one hand, every woman in a management position would be faced with questions and distrust: is she there just because of her gender or is it really because of her ability? And with that, we lock in the preconception that women can’t (or don’t have to) actually do anything at all. It would also run counter to the goal of distributing roles and diversifying fairly, with no particular gender characteristic being given preference or pushed to the fore. I – as someone who presents as female – would rather be selected based on my ability than my gender. In the worst-case scenario, introducing a quota for women could lead an employer who had felt forced to hire someone against their will to take out their displeasure on that new manager.
 

@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2019/01/interview-joel-mesot.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH-News: Joël Mesot, die Kommunikation rund um den Abschluss der Disziplinaruntersuchung ist ausgesprochen knapp ausgefallen. Warum? Joël Mesot: Ich kann gut verstehen, dass die Öffentlichkeit mehr Details erfahren möchte. Doch diesem Wunsch können wir aus rechtlichen Gründen nicht nachkommen. Die Disziplinaruntersuchung ist ein personalrechtliches Verfahren, das sich gegen eine einzelne Person richtet und dessen Abschlussbericht nicht veröffentlicht wird. Es gehört zudem zu unserer Sorgfaltspflicht, nicht nur die meldenden Personen, sondern auch die beschuldigte Person zu schützen.

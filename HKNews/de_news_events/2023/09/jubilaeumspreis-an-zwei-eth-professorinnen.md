@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2023/09/jubilaeumspreis-an-zwei-eth-professorinnen.html
 
+**Date processed:** 2025-05-01
+
 ## Prognosen für Krankheitserreger
 
 Anlässlich ihres 50-jährigen Bestehens verlieh die Stiftung Max Cloëtta ihren einmalig ausgerichteten Jubiläumspreis an die beiden ETH-Professorinnen Tanja Stadler und Barbara Treutlein für ihre herausragenden Leistungen und ihre Forschung im Bereich der Biomedizin. Die Preisträgerinnen sind beide am Departement für Biosysteme der ETH Zürich in Basel tätig. Sie werden sich den Preis von 250‘000 Franken teilen und ihn dazu verwenden, weitere Forschung zu finanzieren.
@@ -9,8 +11,6 @@ Anlässlich ihres 50-jährigen Bestehens verlieh die Stiftung Max Cloëtta ihren
 Als Professorin für Computational Biology hat sich Tanja Stadler zu einer führenden Wissenschaftlerin für Biomedizin entwickelt, sowohl in der Schweiz als auch weltweit. Ihre Forschung auf dem Gebiet der genetischen Stammbaumanalysen ist für Studien zur Ausbreitung und Entwicklung von Krankheitserregern von zentraler Bedeutung. Stadler arbeitet an der Schnittstelle von Mathematik, Informatik und Evolutionsbiologie und hat mit ihrer Arbeit wichtige Beiträge geleistet über die Ausbreitung und Entwicklung von Infektionskrankheiten, darunter HIV/Aids, Ebola, Covid-19 und Affenpocken. In ihrer Arbeit entwickelt sie grundlegende Theorien und computergestützte Tools zur Beantwortung von Kernfragen der Evolution, die die Biowissenschaften nicht nur in der Molekularbiologie, Virologie, Epidemiologie, Immunologie und Ökologie voranbringen, sondern auch in der Entwicklungsbiologie und der evolutionären Entwicklung von biologischen Arten. Während der Corona-Pandemie trug Stadler wesentlich zur Pandemiebekämpfung in der Schweiz bei und leitete die Swiss National Covid-19 Science Task Force.
 
 Tanja Stadlers Vision für die Zukunft ist eine Welt, in der sowohl Behörden als auch einzelne Bürger:innen Zugang haben zu einer Prognose-App, die ihnen den Verlauf von Epidemien anzeigt und ihnen hilft, Entscheidungen zu fällen. So wie uns eine Wettervorhersage hilft, zu entscheiden, ob wir einen Regenschirm auf unseren Weg zur Arbeit mitnehmen sollen, könnte uns eine Epidemie-Vorhersage dabei unterstützen, zu beurteilen, wie wichtig es zum Beispiel ist, vorübergehend eine Schutzmaske zu tragen. Stadler will ihren Anteil am Preis dazu nutzen, um die Echtzeitanalyse riesiger genetischer Datensätze von Krankheitserregern weiterzubringen. Solche Analysen sind eine Voraussetzung für eine umfassende epidemiologische Prognose.
-
-## Jede Zelle erzählt eine Geschichte
 
 Zum Cloëtta-Jubiläumspreis sagt Stadler: «Es ist mir eine grosse Ehre, diese bedeutende Anerkennung für meine Arbeit zu erhalten. Die Tatsache, dass ich diesen Preis gemeinsam mit Barbara Treutlein erhalte, zeugt vom hervorragenden wissenschaftlichen Umfeld am Standort Basel der ETH Zürich – der wissenschaftlichen Heimat von uns beiden.»
 

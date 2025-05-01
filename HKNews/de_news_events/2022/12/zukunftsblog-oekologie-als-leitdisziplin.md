@@ -2,19 +2,25 @@
 
 **Source:** de_news_events/2022/12/zukunftsblog-oekologie-als-leitdisziplin.html
 
-## Mit der Natur statt gegen sie
+**Date processed:** 2025-05-01
+
+## Main article
 
 Das Artensterben ist zu einem der grössten globalen Risiken geworden. Das haben inzwischen auch die internationale Politik und Wirtschaft erkannt. An der Weltnaturkonferenz in Montreal haben die Staaten heute ein globales Abkommen und dringend nötige neue Ziele für die Biodiversität vereinbart. 1 So sollen unter anderem bis 2030 mindestens 30 Prozent der weltweiten Land- und Meeresflächen unter Schutz gestellt werden. Das ist ein wichtiger Meilenstein für den Artenschutz und ein bedeutendes Signal an die Menschen. Es wird aber nicht reichen.
+
+## Mit der Natur statt gegen sie
 
 Biodiversität ist das Fundament für Lebensqualität, Gesundheit, ein gut funktionierendes lokales Klima, eine ökologische Landwirtschaft und viele weitere lebensnotwendige Funktionen unserer Landschaften. Es muss daher gelingen, die gesamte genutzte Landschaft ökologisch zu regenerieren. Dafür braucht es einen Wandel hin zu einer ökologischen Wirtschaft, die Naturkapital vermehrt anstatt es zu vernichten. Das ist möglich, wenn die Wirtschaft auf naturbasierte Lösungen setzt.
 
 Naturbasierte Lösungen spannen mit der Natur zusammen, generieren Wertschöpfung und kommen – sofern gut durchdacht – der Biodiversität, dem Klima und der menschlichen Gesundheit zugute. Sie sind multifunktional und können sich selbst erhalten. Das macht sie oft anpassungsfähiger, widerstandsfähiger und im Unterhalt günstiger als technische Lösungen.
 
+## Zum Autor
+
 Christoph Küffer ist Privatdozent am Departement Umweltsystemwissenschaften der ETH Zürich und Professor für Siedlungsökologie an der OST Rapperswil.
 
-Regenerieren wir Wälder, Moore, Flüsse und Böden, fördern wir die Artenvielfalt und sichern uns wertvolle Dienste. Ökosysteme senken Treibhausgase und dämpfen die Folgen des Klimawandels. 2 Sie nehmen rasch viel Regenwasser auf und gleichen das regionale Klima aus, indem sie hohe Temperaturen und Trockenheit puffern. 3
+## Fortschritt dank Ökologie
 
-## Zum Autor
+Regenerieren wir Wälder, Moore, Flüsse und Böden, fördern wir die Artenvielfalt und sichern uns wertvolle Dienste. Ökosysteme senken Treibhausgase und dämpfen die Folgen des Klimawandels. 2 Sie nehmen rasch viel Regenwasser auf und gleichen das regionale Klima aus, indem sie hohe Temperaturen und Trockenheit puffern. 3
 
 Ökologische Landwirtschaft produziert Nahrungsmittel mit der Hilfe von biologischer Vielfalt auf dem Feld – von diverseren Kulturen über Nützlinge bis hin zu Mikroorganismen im Boden. Agroforstsysteme kombinieren Bodenkulturen mit Bäumen und bringen ganze Artgemeinschaften ins Agrarland zurück. Das macht das System widerstandsfähiger.
 
@@ -24,9 +30,11 @@ Die interdisziplinäre Stadtforschung ist aktuell ein spannendes Feld für natur
 
 Dazu gehören auch «biobasierte» Baumaterialien wie Lehm, Holz, Bambus, Stroh, lebende Pflanzen oder Pilzgeflechte. 5 Sie sind wiederverwendbar, speichern CO 2 und bergen das Potenzial für klimaneutrales Bauen in einer künftigen Kreislaufwirtschaft. «Regeneratives Design» denkt über sich selbst erneuernde Gebäude nach, die zudem abbaubar sind und als Teil der natürlichen Stoffkreisläufe die Stadtnatur oder nachwachsendes Baumaterial ernähren.
 
+## Wählen Sie den Wissenschafts-Blog des Jahres
+
 Der Zukunftsblog ist wieder für die Wahl des externe Seite Wissenschafts-Blogs des Jahres (2022) nominiert. Geben auch Sie Ihre Stimme ab. Zur Abstimmung geht’s externe Seite hier .
 
-## Fortschritt dank Ökologie
+## Als Gesellschaft mitbestimmen
 
 Diese Visionen illustrieren, wie der ökologische Ansatz zu radikal neuen Ideen führen kann. Naturbasiert blickt nicht nostalgisch zurück, sondern bietet Perspektiven für die Welt von morgen.
 
@@ -38,8 +46,6 @@ Entsprechend hängt auch der Weg zu einer naturbasierten Ökonomie von der strat
 
 Das bedeutet für Hochschulen, dass sie in die ökologische Grundlagenforschung investieren, den Technologietransfer von naturbasierten Lösungen durch Ideen-Inkubatoren und Startup-Plattformen fördern, und ökologisches Wissen in alle Studiengänge und Weiterbildungskurse integrieren.
 
-## Wählen Sie den Wissenschafts-Blog des Jahres
-
 Die ETH Zürich hat mit der Nachhaltigkeit gezeigt, wie Fokussierung geht: Sie machte das Thema früh zu einem strategischen Schwerpunkt und verankerte es breit in Forschung, Lehre und auf dem Campus. 8 Heute fliessen Prinzipien der Nachhaltigkeit in die Lehrinhalte aller Fachrichtungen ein. Ein ähnliches Querschnittsthema sehe ich in der Biodiversität.
 
 Eine erfolgreiche Regeneration der natürlichen Lebensgrundlagen wird das Wissen aller Disziplinen erfordern. Sie wird aber nur gelingen, wenn die Ökologie zur Leitdisziplin unseres Wirkens wird. Die Biodiversitätskrise ist vor allem eine Krise der Wissensgesellschaft: Es fehlt an ökologischem Wissen, Werten und Handlungskompetenzen.
@@ -49,8 +55,6 @@ Eine erfolgreiche Regeneration der natürlichen Lebensgrundlagen wird das Wissen
 2 Fred Pearce: externe Seite A Trillion Trees – Restoring Our Forests by Trusting in Nature . Dieses Buch diskutiert Aufforstung als Klimalösung kritisch und kompetent.
 
 3 Ökosysteme schützen vor Naturgefahren: Beispiele sind Schutzwälder im Gebirge, Küstenschutz durch Mangroven, Hochwasserschutz durch renaturierte Flussufer und Auen, Klimaregulierung und sauberes Wasser durch Wälder und Moore.
-
-## Als Gesellschaft mitbestimmen
 
 4 Das Future Cities Laboratory forscht zu nachhaltiger urbanen Entwicklung; aktuelle Projekte befassen sich mit Urbanisierung von Landwirtschaftsgebieten , resilienter grüner und blauer Infrastruktur oder mit verdichteten und begrünten Städten .
 

@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2020/09/eth-and-kantonsspital-baden-expand-collaboration.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH Zurich and Kantonsspital Baden (KSB) have already been working closely together since 2017. The Bachelor’s programme in human medicine launched that year at ETH begins with an introductory week at KSB, where the students can get a taste of life in a hospital. This practice-oriented training in the hospital serves as an example of what students can expect in future.

@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2019/06/brain-stimulation.html
 
+**Date processed:** 2025-05-01
+
 ## Introducing viruses into the brain
 
 Some videos on the internet are remarkably striking. In one, a man is sitting on the sofa holding a remote control. His hands and arms are trembling and shaking in a way that clearly indicates Parkinson’s disease. He lifts the remote control, points it at his chest and presses a grey button – and his tremors subside almost immediately. What we don’t see in the video are the two electrodes in the patient’s brain connected to a pacemaker implanted in his chest. When he presses the button, the pacemaker delivers electrical pulses to the basal ganglia, a group of neurons involved in movement planning and control. Stimulating this brain area, which is heavily affected by Parkinson’s disease, causes the motor symptoms to cease almost immediately – producing an almost spooky effect.
@@ -12,8 +14,6 @@ Bohacek uses brain stimulation to investigate how stress affects the organism. �
 
 That’s why Bohacek has opted to simplify things by focusing on individual elements. He is currently investigating the noradrenergic system, which plays a key role in stress. In situations of acute stress – for example when a fire alarm suddenly goes off – the brain is flooded with norepinephrine. The principal site responsible for synthesising norepinephrine is a tiny area of the brain called the locus coe­ruleus. This is hidden away deep in the brain stem rather like a needle in a haystack. “It is far too small and difficult to access for the kind of probes we use for deep brain stimulation,” says Bohacek. An overactive locus coeruleus can cause certain types of anxiety and panic disorders, which is why many scientists and the pharmaceutical industry are so determined to gain a better understanding of how it works.
 
-## Brain machine interfaces
-
 In order to ascertain what happens in this particular brain area in stressful situations, the ETH professor uses designer viruses to specifically modify the activity of neurons in the locus coer­uleus. To do this, he works with a special mouse line that restricts expression of the virus selectively to the locus coeruleus. The virus then causes an artificial receptor (receptor mol­ecule) to form on the surface of the nerve cells, and specific substances can activate this receptor, much like a single key fitting a specific lock.
 
 By activating these receptors, the researchers can trigger the release of norepinephrine without the need to activate the entire stress system. This allows Bohacek and his team to then study the changes that unfold in response to noradrenaline release in the entire brain.
@@ -21,8 +21,6 @@ By activating these receptors, the researchers can trigger the release of norepi
 The neuroscientist hopes these kinds of experiments will lead to a better understanding of the causes of stress disorders. “In order to develop more effective therapies, we first need to gain a greater insight into the molecu­lar stress mechanisms. Regulating the excitability of locus coeru­leus neurons using similar methods to brain stimulation would be a very interesting approach,” says Bohacek. “But it remains to be seen if and when these techniques will finally become a clinical reality.”
 
 New therapies for brain disorders are also at the top of Mehmet Fatih Yanik’s agenda. “We’re working on technologies to fix network dysfunctions in brain disorders. Such dysfunctions are at the heart of many brain disorders ranging from depression and schizophrenia, to autism,” says Yanik, Professor of Neurotechnology at the Institute of Neuroinformatics at ETH and the University of Zurich.
-
-## Globe Magazine
 
 Pills are still the most common way to treat brain disorders. The active substance in the medication binds to the corresponding target molecule in a nerve cell, typically triggering or in­hibiting a biochemical signalling cascade in the cell. This is a relatively undirected approach, however, since, in many cases, the drugs’ targets are located throughout the entire brain or even in other parts of the body – not just in the specific area of brain that the drug is meant to act on.
 

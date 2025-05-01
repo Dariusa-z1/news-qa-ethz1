@@ -2,35 +2,31 @@
 
 **Source:** de_news_events/2017/10/waage-fuer-einzelne-zellen.html
 
+**Date processed:** 2025-05-01
+
 ## Neuartige Zellwaage mit hoher Auflösung
 
 Ob Regenwurm, Sonnenblume oder Mensch – wir alle bestehen aus Zellen. Kein Wunder also, dass Forschende sich intensiv mit diesen Grundbausteinen des Lebens beschäftigen. Viele ihrer Geheimnisse haben sie ihnen bereits entlockt. Doch das Gewicht lebender Zellen und dessen Veränderung in Echtzeit genau zu messen, war bisher nicht möglich. Es gab schlicht keine geeignete Messmethode.
 
 Das ist nun anders: Wissenschaftler der Forschungsgruppe Biophysik unter der Leitung von ETH-Professor Daniel J. Müller haben in Zusammenarbeit mit Christoph Gerber von der Universität Basel und Jason Mercer vom University College London eine neuartige Zellwaage entwickelt. Mit dieser ist es nicht nur möglich, die Masse lebender Zellen innert kürzester Zeit zu bestimmen, sondern auch zu verfolgen, wie sich deren Gewicht über die Zeit verändert. Und das mit einer Auflösung von Millisekunden und Billionstel Gramm.
 
-## Gewicht und Zellaktivität gleichzeitig beobachten
-
 Gewogen werden die Zellen, die normalerweise rund zwei bis drei Nanogramm wiegen, unter kontrollierten Bedingungen in einer Zellkulturkammer. Der Wägearm, ein winziges, hauchdünnes, transparentes und mit Collagen oder Fibronektin beschichtetes Siliziumplättchen, wird zum Boden der Kammer heruntergefahren, stupst dort eine Zelle an und nimmt sie auf. «Für die Messungen hängt die Zelle quasi kopfunter an der Unterseite eines winzigen Federbalkens», sagt Gotthold Fläschner, einer der Hauptbeteiligten an der Entwicklung der neuen Waage.
 
 Auf der Seite, an welcher der mikroskopische Federbalken befestigt ist, wird dieser mithilfe eines blauen, pulsierenden Lasers minim zum Schwingen angeregt. Ein zweiter, sehr schwacher infraroter Laser misst vorne, wo die Zelle hängt, die Schwingungen, zuerst ohne und dann mit Zelle. «Aus der Differenz der beiden Schwingungen lässt sich die Masse der Zellen errechnen», erklärt David Martínez-Martín, der die Zellwaage entwickelt und gebaut hat.
-
-## Gewicht von lebenden Zellen schwankt
 
 Auf dem Computerbildschirm wird das Gewicht und dessen Veränderung als Kurve dargestellt und kann über den gesamten Zeitraum der Messung – seien das nun Millisekunden oder Tage – abgelesen werden. Da die Messapparatur samt Zellkultur direkt auf dem Objekttisch eines leistungsstarken Fluoreszenzmikroskops montiert ist, kann zusätzlich zur Gewichts-Messung alles, was gleichzeitig im Innern der gewogenen Zellen vorgeht, gefilmt und beobachtet werden.
 
 So lässt sich beispielsweise verfolgen, wie sich das Gewicht während Zellzyklus und Zellteilung verändert, welchen Einfluss verschiedene Substanzen auf die Masse der Zellen haben oder was passiert, wenn ein Virus sie befällt. Martínez-Martín und Fläschner haben diverse solche Experimente durchgeführt.
 
-## Grosses Interesse an Zellwaage
-
 Eine besonders bemerkenswerte Beobachtung: «Wir haben festgestellt, dass das Gewicht lebender Zellen kontinuierlich um ein bis vier Prozent schwankt, während sie ihr Gesamtgewicht regulieren», sagt Martínez-Martín. Tote Zellen zeigen diese Schwankungen im Sekundenbereich nicht, wie die Biophysiker nachweisen konnten. Die Forscher sind begeistert. Fläschner: «Wir sehen hier Dinge, die noch niemand vor uns beobachtet hat.»
 
 Wo immer die ETH-Wissenschaftler von ihrer Neuentwicklung berichten, stossen sie auf grosses Interesse. «Die Masse der Zelle ist ein sehr guter Indikator für ihre Physiologie», erklärt Martínez-Martín die Begeisterung. Logisch also, dass sich Biologen aller Richtungen für die neue Messmethode interessieren. Auch für Medizin und Pharmaindustrie könnte sie interessant sein. Man könnte damit das krankhafte Wachstum von Zellen untersuchen und den Einfluss von Medikamenten darauf testen.
 
-## Literaturhinweis
-
 Überraschender ist, dass sich auch Materialwissenschaftler für das Gerät interessieren. «Dort geht es vor allem um die sogenannte Funktionalisierung von Nanopartikeln, also darum, die Oberflächen von sehr kleinen Partikeln zu verändern», erklärt Martínez-Martín.
 
 Dieser Tage stellen die beteiligten Wissenschaftler ihre Erfindung in der Fachzeitschrift « externe Seite Nature » erstmals einem breiten wissenschaftlichen Publikum vor. Die neue Wäge-Methode ist unterdessen patentrechtlich geschützt. Die Chancen, dass Wissenschaftler verschiedenster Disziplinen die vielversprechende neue Zell-Waage bald selbst nutzen können, stehen jedoch gut: Die Schweizer Firma externe Seite Nanosurf AG arbeitet als Lizenznehmerin bereits an einem serienreifen Gerät.
+
+## Literaturhinweis
 
 Martínez-Martín D, Fläschner G, Gaub B, Martin D, Newton R, Beerli C, Mercer J, Gerber C, Müller DJ. Inertial picobalance reveals fast mass fluctuations of mammalian cells. Nature, published online 25th Oct 2017, DOI: externe Seite 10.1038/nature24288
 

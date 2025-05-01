@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2023/10/moldovan-president-visits-eth-zurich.html
 
+**Date processed:** 2025-05-01
+
 ## Highly topical subject
 
 The event at ETH Zurich was part of the Moldovan president's two-day official visit to Switzerland. After talks on bilateral cooperation, Maia Sandu travelled to the university accompanied by President Alain Berset to talk about Moldova's role in the broader geopolitical context of Eastern Europe and the impact of Russia's war of aggression on Ukraine. This was followed by questions from students.
@@ -13,8 +15,6 @@ The esteemed guests were welcomed by Joel Mesot, President of ETH Zurich, who gr
 The difficulty of peaceful co-existence in the current geopolitical situation was made clear in both Alain Berset's and Maia Sandu's speeches. "I admire the determination with which Moldova is defending its independence and strengthening its ties with the EU," Berset said. He added that Russia's attack on Ukraine had had a major impact on neighbouring Moldova.
 
 This was confirmed by Maia Sandu. At the beginning of the war more than one million people initially fled from Ukraine to Moldova with its 2.6 million inhabitants. Around 80,000 refugees are still living there today. Only with the support of the entire population was it possible to master this situation. In addition, Russia is trying to undermine their democratically elected government through disinformation and by cutting off gas supplies.
-
-## Fight of two ideologies
 
 According to Moldova's president, the war in Ukraine is not just about winning territory, but is also an ideological fight. "It is a battle between an authoritarian system that wants to impose its goals by force and the free democratic world." While democracy is not perfect either, "it is the best we have." Moldova, she said, belongs to those states in Europe that live in a democracy, which is why it aspires to join the EU by 2030.
 

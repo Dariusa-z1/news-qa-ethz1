@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2020/10/cybathlon-2020-technik-bewegt-menschen.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 A leather toe? A wooden hand? A prosthetic controlled by nerve impulses? Technological advances have naturally resulted in ever more complex systems, up to and including bionic prostheses. In the ETH Library, you will find historic exhibits – including two particularly valuable designs for hand prostheses by Aurel Stodola and Pierre Ballif – as well as comprehensive research literature on this topic.

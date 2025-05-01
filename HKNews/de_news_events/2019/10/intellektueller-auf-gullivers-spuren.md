@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2019/10/intellektueller-auf-gullivers-spuren.html
 
+**Date processed:** 2025-05-01
+
 ## Vom Grundlagen- zum Wissenschaftsforscher
 
 «Gullivers Reisen» haben es ihm angetan. Der Abenteurer aus Jonathan Swifts rund 300-jährigem Klassiker, der sich immer wieder magisch von fremden Welten angezogen fühlt und vorbehaltlos auf sie eingeht, ist einer von Gerd Folkers’ Säulenheiligen. Liess ihm seine Beanspruchung als Dozent und Forscher einmal Zeit, um in sich zu gehen, bot das Werk einen wichtigen Orientierungspunkt: «Es sind die erfrischenden, perfekt inszenierten Perspektivenwechsel, die mich an Gulliver immer aufs Neue verblüffen», so Gerd Folkers. Perspektivenwechsel: ein Schlüsselbegriff für sein Wirken in den vergangenen rund fünfzehn Jahren.
@@ -9,8 +11,6 @@
 Seit 1991 ausserordentlicher, seit 1994 ordentlicher ETH-Professor für pharmazeutische Chemie, lehrte und forschte er über das molekulare Design von bioaktiven Molekülen und deren Einsatz in Tumortherapien und Erkrankungen des Immunsystems. Seine Kreativität und Tatkraft blieben bereits in dieser Zeit nicht auf sein Spezialgebiet beschränkt. So sorgte er als Leiter des Center of Pharmaceutical Sciences Basel-Zurich in den neunziger Jahren zielstrebig dafür, dass zwischen der ETH und der Uni Basel Vorlesungen in hoher Qualität übertragen werden konnten, samt der Möglichkeit standortübergreifender Interaktion. Mit dieser Verbindung zweier Hörsäle zu einem einzigen virtuellen Raum – damals eine technische Pioniertat – verschaffte Folkers dem für die Schweizer Pharmazieforschung zentralen Standort Basel einen wichtigen Schub.
 
 An der ETH machte er sich bald mit Wortmeldungen einen Namen, die zeigten, dass ihm viel daran lag, die wissenschaftliche Praxis zu hinterfragen. So leitete er in den frühen Nullerjahren über zwei Semester eine öffentliche Veranstaltungsreihe unter dem Titel «Wissenschaft kontrovers», in der Themen wie Fälschungen in der Wissenschaft, Industrieabhängigkeit von Forschung oder der Hype um die Nanotechnologie debattiert wurden. Wenn es darum ging, Standpunkte der Wissenschaft gesellschaftlich einzubetten oder über Sinn und, manchmal auch Unsinn, der Forschung nachzudenken, war der eloquente «Apotheker der ETH», wie er sich halb im Scherz gern selbst bezeichnet, oft zur Stelle.
-
-## Kritischer Vordenker
 
 Deshalb konnte der persönliche Perspektivenwechsel, den er 2004 vollzog, eigentlich nicht überraschen. In jenem Jahr übernahm Gerd Folkers die Leitung des Collegium Helveticum, des Thinktanks für transdisziplinäre Studien von Universität Zürich, ETH Zürich und Zürcher Hochschule der Künste. Von der pharmazeutischen Grundlagenforschung zog es ihn jetzt sichtbar in die Position des Forschers, der den Wissenschaften neue Blickfelder eröffnet, indem er sie miteinander reagieren liess. Als Direktor des Collegiums prägte er dessen Umgestaltung von einem Graduiertenkolleg für junge Forschende zu einem Institut, das Professorinnen und Professoren aller drei Hochschulen und aus unterschiedlichen Forschungsgebieten zusammenbringt. Diese verpflichten sich für eine mehrjährige Periode und widmen sich in dieser Zeit einem Schwerpunktthema – wie etwa «Reproduzierbarkeit, Vorhersage, Relevanz», das Gerd Folkers bis zum Ende seiner Amtszeit im Jahr 2015 koordinierte.
 

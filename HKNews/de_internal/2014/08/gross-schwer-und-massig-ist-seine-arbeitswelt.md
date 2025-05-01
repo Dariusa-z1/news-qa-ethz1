@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2014/08/gross-schwer-und-massig-ist-seine-arbeitswelt.html
 
+**Date processed:** 2025-05-01
+
 ## Hohe Anforderungen an Personal
 
 Wer das HIF-Gebäude auf dem Hönggerberg betritt, trifft auf Superlative. Überall auf dem 4000 Quadratmetergrossen Boden verteilt stehen entweder Bauelemente oder Maschinen, mit welchen diese geprüft werden können. Hier ist das Arbeitsreich von Thomas Jaggi. Seit sieben Jahren arbeitet der ehemalige Strassenbau-Tiefbaupolier am Institut für Baustatik und Konstruktion. Zusammen mit einem Mechaniker, Technikern und Ingenieuren unterstützt er die Studierenden und Doktorierenden am Institut bei deren Versuchen.
@@ -10,15 +12,13 @@ Daneben betreut er immer auch wieder Aufträge von ausserhalb der ETH – der Pr
 
 Jaggi ist einer der wenigen, die diese Fähigkeiten besitzen. Nicht ohne Grund. Vor 25 Jahren kam er als Polier an die ETH Hönggerberg. Am Institut für Baustoffe, Werkstoffchemie und Korrosion spezialisierte er sich auf den Werkstoff Beton. Als Experte führte er Messungen an Brücken, Staumauern, Tunnels und Strassen durch. Daneben betreute er unzählige Studierende. «Die Arbeit forderte mich immer wieder neu heraus. Nicht zuletzt auch, weil ich auf dem gleichen Wissenstand sein musste wie die Studenten.» Immer wieder besuchte Jaggi Schulungen und Kurse ausserhalb der ETH. Aber nicht nur: «Ich sass auch regelmässig in Vorlesungen an der ETH. Ich musste ja wissen, was den Studenten gelehrt wurde.» Nach 15 Jahren wechselte er dann ans Institut für Geotechnik, wo er drei Jahre lang verschiedenste Gesteins- und Felsarten bearbeitet und auf deren Festigkeit geprüft hat. Auch hier war er in die Forschung und Lehre involviert.
 
-## Kein bisschen müde
-
 Für seine heutige Arbeit ist sein Weg durch die Institute ein grosser Vorteil, wie er sagt. Sein Wissen über die verschiedenen Materialien und Prüfmaschinen könne er optimal einbringen. Nicht nur das: «Meine jetzige Arbeit macht mir am meisten Spass.» Gross, schwer und massig sei es am Institut für Baustatik und Konstruktion. «Das ist meine Welt», sagt er. Er sei daher auch nach 25 Jahren an der ETH noch kein bisschen müde. Im Gegenteil: «Ich gehe jeden Morgen gerne zur Arbeit.»
+
+## Dienstjubiläen Mai 2014
 
 45 Jahre Andreas Dutly, Inst. f. Chemie- u. Bioing.wiss.
 
 40 Jahre Hans Müller, Dienste
-
-## Dienstjubiläen Mai 2014
 
 30 Jahre Michael Dröge, Institut für Teilchenphysik (IPP)
 
@@ -26,23 +26,17 @@ Für seine heutige Arbeit ist sein Weg durch die Institute ein grosser Vorteil, 
 
 20 Jahre Viola Gloor, Dep. Geistes-,Sozial-u.Staatswiss. Ruth Bertschi, IVT Stab Judith Bissegger, ETH-Bibliothek
 
-## Dienstjubiläen Juni 2014
-
 15 Jahre Dr. Marcel Leupp, Dep. Mathematik Sonja Blum, Studienadministration Zaharoula Nianias, Betrieb Ursula Scheier Wieder, Inst. f. Molecular Health Sciences
 
 10 Jahre Barbara Schori, Mobilitätsstelle Susanne Benitz, ETH-Bibliothek Sabina Maria Eipe, Inst. f. Robotik u. Intell. Syst. Hans Rudolf Felber, Probl.Entwicklungsländer, Kappel Sofia Delamanis, Institut für Biomechanik
 
 Altersrücktritte Prof. Dr. Johannes Friso van der Veen, Professur für Experimentalphysik
 
-## Staffnet
-
 Todesfälle Dr. Jacques Michel Marcel Laville, ID Service Delivery Prof. Dr. Andreas Tönnesmann, Inst. f. Geschichte u. Architektur
 
 35 Jahre Evangelia Papatheodorou-Disseris, Betrieb
 
 30 Jahre Peter Salzmann, Prozessplanung und Projekte Gustav Nussbaumer, Inst. f. Raum- u. Landschaftsentw.
-
-## Newsletter abonnieren
 
 25 Jahre Thomas Wyder, V. Wasserbau, Hydrologie u. Glaz. Thomas Jaggi, Inst. f. Baustatik u. Konstruktion Dr. Irena Hajdas, Labor für Ionenstrahlphysik (LIP)
 

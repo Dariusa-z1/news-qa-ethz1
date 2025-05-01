@@ -2,19 +2,9 @@
 
 **Source:** de_news_events/2018/09/rock-print-pavilion.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
-
-- «Digitale Materialität»: Einführung von Prof. Fabio Gramazio
-
-- «Jammed Architectural Structures»: Vortrag von Petrus Aejmelaeus-Lindström und Gergana Rusenova (in Englisch)
-
-- Samstag, 6. Oktober 2018, 11 Uhr
-
-- Sonntag, 14. Okt. 2018, 11 Uhr
-
-- Samstag, 20. Okt. 2018, 11 Uhr
-
-- Sonntag, 4. November, 14 Uhr
 
 30 Tonnen Schotter, 120 Kilometer Schnur – und ein Bauroboter: Aus diesen drei Kernelementen entsteht der «Rock Print Pavilion». Die temporäre Installation auf dem Kirchplatz vor dem Gewerbemuseum Winterthur ist ein Forschungsprojekt von Gramazio Kohler Research, der ETH-Professur für Architektur und Digitale Fabrikation, und Teil der Ausstellung «Hello, Robot. Design zwischen Mensch und Maschine».
 
@@ -24,11 +14,19 @@ Das Phänomen nennt sich «Jamming», vom englischen Wort für Stau, Verklemmung
 
 Mit dem «Rock Print Pavilion» loten die Forschenden die Möglichkeiten der digitalen und robotischen Fabrikation in der Architektur aus. Auch der Recycling-Gedanke ist bei diesem Projekt zentral: Die Bauteile können auf einfache Weise rückgebaut und die Materialien wiederverwendet werden.
 
+## Zur Ausstellung
+
+• «Digitale Materialität»: Einführung von Prof. Fabio Gramazio
+• «Jammed Architectural Structures»: Vortrag von Petrus Aejmelaeus-Lindström und Gergana Rusenova (in Englisch)
+Öffentliche Führungen:
+
+• Samstag, 6. Oktober 2018, 11 Uhr
+• Sonntag, 14. Okt. 2018, 11 Uhr
+• Samstag, 20. Okt. 2018, 11 Uhr
+• Sonntag, 4. November, 14 Uhr
 4. Oktober 2018 – 4. November 2018, Gewerbemuseum Winterthur
 
 Eröffnung: Donnerstag, 4. Oktober 2018, 18:30 Uhr.
-
-Öffentliche Führungen:
 
 externe Seite Weitere Informationen
 

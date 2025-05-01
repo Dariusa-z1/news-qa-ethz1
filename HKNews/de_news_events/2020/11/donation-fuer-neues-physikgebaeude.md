@@ -2,27 +2,21 @@
 
 **Source:** de_news_events/2020/11/donation-fuer-neues-physikgebaeude.html
 
+**Date processed:** 2025-05-01
+
 ## Ein Beitrag für den Forschungsplatz Schweiz
 
 Die Quantenforschung hat sich in den letzten Jahren rasant entwickelt. Es ist absehbar, dass Quantenphänomene in den Bereichen Computing, Sensorik und Kryptografie bald technisch neue Anwendungen ermöglichen werden. Die Forschung in diesem Bereich erfordert allerdings eine hochkomplexe Infrastruktur, denn die fragilen Effekte auf atomarer Ebene lassen sich nur mit sehr aufwändigen Experimenten erfassen.
 
-## Herzstück unter der Erde
-
 Eine wichtige Voraussetzung für diese Experimente ist, dass sie in einer möglichst störungsarmen Umgebung durchgeführt werden können. Die ETH Zürich plant deshalb ein Forschungsgebäude, das optimal an diesen Zweck angepasst ist. «Das geplante Bauwerk erlaubt uns, die Forschung an der Grenze des technisch Machbaren weiter voranzutreiben», erklärt Gianni Blatter, Professor für theoretische Physik und treibende Kraft hinter dem Vorhaben.
-
-## Bezug in acht Jahren
 
 Martin Haefner und Joël Mesot. (Bild: Valeriano di Domenico / ETH Foundation)
 
-## ETH Foundation
+## Herzstück unter der Erde
 
 Martin Haefner, ETH-Alumnus und Ehrenrat der ETH Zürich, bringt nun mit einer Donation von 40 Millionen Franken an die ETH Foundation das Vorhaben den entscheidenden Schritt weiter. «Mit meiner Donation möchte ich nicht nur die ETH Zürich stärken, sondern den gesamten Forschungsplatz Schweiz», erklärt der Verwaltungsratspräsident und Eigentümer der Firma AMAG: «Dieses Vorhaben ist für die zukunftsweisende Quantenforschung wichtig und erlaubt auch neue Erkenntnisse in der Grundlagenforschung.» ETH-Präsident Joël Mesot ist sehr erfreut über die grosszügige Zusage: «Dank dieser Donation können wir auf dem Hönggerberg eine Forschungseinrichtung realisieren, die bezüglich der Qualität ihrer Infrastruktur ihresgleichen sucht und mit der die ETH ihre führende Stellung in den Quantentechnologien weiter ausbauen kann.»
 
-## Zur Person: Martin Haefner
-
 Von aussen gesehen wirkt das neue HPQ-Gebäude, das von Ilg Santer Architekten entworfen wurde, ruhig und strukturiert. Über dem öffentlich zugänglichen zweigeschossigen Eingangsgeschoss befinden sich vier Stockwerke, die Büro- und Laborarbeitsplätze für 18 Professuren mit insgesamt knapp 500 Mitarbeitenden bieten. Das eigentliche Herzstück des neuen Gebäudes befindet sich unter dem Erdboden: In der Tiefe sind drei Hochtechnologie-Forschungsplattformen geplant. Die Forschenden werden dort beispielsweise neue Materialien und elektronisch-optische Bauteile herstellen, anspruchsvolle Laserexperimente durchführen oder untersuchen, wie man Atome und Ionen als Quantenobjekte gezielt beeinflussen kann.
-
-## Kontakt
 
 Das neue Gebäude ist so ausgelegt, dass Störungen durch äussere Erschütterungen oder elektromagnetische Wellen auf ein Minimum reduziert werden. Auch in Bezug auf die Temperaturstabilität und Kühlleistung soll das Gebäude höchsten Ansprüchen genügen. Entsprechend hoch sind die Anforderungen an den Bau. «Dieses Gebäude wird nicht nur eine Stätte für innovative Experimente sein, sondern ist auch selber eine Innovation», hält Blatter fest. Dies gilt insbesondere für die neue CLNE-Plattform, die sich zuunterst im Gebäude befindet. Sie ermöglicht es, besonders empfindliche, hoch-isolierte Experimente durchzuführen. Die Versuchseinrichtungen dieser Plattform ruhen auf mächtigen Betonplattformen, damit beispielsweise vorbeifahrende Trolleybusse oder Lastwagen keine dieser empfindlichen Messungen stören.
 
@@ -30,9 +24,13 @@ Bis die Forschenden die neue Infrastruktur nutzen können, müssen sie sich alle
 
 Weitere Informationen zum HPQ-Gebäude →
 
+## ETH Foundation
+
 Gemeinsam mit engagierten Privatpersonen, Unternehmen oder Stiftungen fördert die ETH Foundation Ausnahmetalente und beschleunigt relevante Forschungsprojekte an der ETH Zürich, um die Innovationskraft der Schweiz zu stärken und so zu Lösungen der grossen Herausforderungen unserer Zeit beizutragen. Gemeinsam erreichen wir mehr. In der Wissenschaft. Für die Gesellschaft.
 
 Zur Website der externe Seite ETH Foundation
+
+## Zur Person: Martin Haefner
 
 Martin Haefner (Jahrgang 1954) studierte Mathematik an der ETH Zürich. Nach fünfundzwanzig Jahren Tätigkeit als Mathematiklehrer an den Kantonsschulen Baden und Alpenquai (Luzern) wurde er 2006 exekutiver Verwaltungsratspräsident der AMAG. Martin Haefner, heute Alleineigentümer der AMAG, engagiert sich immer wieder als Philanthrop, so auch für die ETH Zürich als Donator der ersten Stunde der ETH Foundation. Er ist verheiratet und wohnt in Horw (LU).
 

@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2014/04/flugzeugtreibstoff-aus-sonnenenergie.html
 
+**Date processed:** 2025-05-01
+
 ## Synthesegas für die Kerosinherstellung
 
 Ein europäisches Konsortium unter Beteiligung der ETH Zürich hat den experimentellen Machbarkeitsnachweis erbracht für die Herstellung von flüssigem Treibstoff in einem thermochemischen Prozess mit Hilfe von konzentrierter Sonnenenergie. Am von der EU geförderten Projekt Solarjet waren neben der ETH Zürich das Deutsche Zentrum für Luft- und Raumfahrt, das Treibstoffunternehmen Shell, der Think Tank Bauhaus Luftfahrt und die Consultingfirma Arttic beteiligt.
@@ -9,8 +11,6 @@ Ein europäisches Konsortium unter Beteiligung der ETH Zürich hat den experimen
 Kernstück des Herstellungsprozesses von nachhaltigem «solarem Kerosin» ist ein Hochtemperatur-Solarreaktor, der in der Gruppe von Aldo Steinfeld, Professor für Erneuerbare Energieträger an der ETH Zürich und Leiter des Labors für Solartechnik am Paul Scherrer Institut, entwickelt wurde. Der Reaktor beinhaltet einen porösen, keramischen Solarabsorber aus dem Metalloxid Cerdioxid. Damit wird in einem zyklischen, zweistufigen sogenannten Redox-Prozess Wasser und CO 2 gespalten.
 
 Die erste, energieintensive Stufe läuft bei 1500 Grad Celsius ab, wobei die benötigte Energie aus konzentrierter Solarstrahlung stammt. Das Metalloxid gibt in diesem ersten Schritt Sauerstoff ab und liegt anschliessend in sogenannt reduzierter Form vor. Im zweiten Schritt reagiert das reduzierte Metalloxid bei 700 Grad Celsius mit Wasserdampf und CO 2 , die dem Metalloxid Sauerstoff-Atome übertragen. Das Metalloxid hat damit wieder seine Ausgangsform erreicht, und der Kreisprozess kann erneut gestartet werden. Entstanden sind ein Gasgemisch aus Wasserstoff (H 2 )und Kohlenmonoxid (CO), das als Synthesegas – oder Syngas – bezeichnet wird. Es kann anschliessend zur Synthese von flüssigem Treibstoff verwendet werden.
-
-## Industrielle Anwendung ausloten
 
 «Es gelang uns, mit dem Reaktor 240 Zyklen zu durchlaufen», sagt Daniel Marxer, Doktorand in der Gruppe von Steinfeld. So gewannen die ETH-Forscher 750 Liter Syngas, welches sie in einem Druckbehälter nach Amsterdam schickten. Dort wurde daraus in einem Forschungszentrum von Shell mit einer etablierten Methode (Fischer-Tropsch-Verfahren) Kerosin hergestellt.
 

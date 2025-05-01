@@ -2,15 +2,13 @@
 
 **Source:** en_internal/2015/01/eth-woche---fordere-die-zukunft-heraus.html
 
+**Date processed:** 2025-05-01
+
 ## Food: Healthy. Fair. Enough for All.
 
 The purpose of the ETH Week is to foster critical thinking skills and to motivate students of all departments for sustainable action through an innovative learning experience.
 
-## Subscribe to Newsletter
-
 The topic of the first ETH Week is as complex as it is relevant: the state of the global food supply in the 21 st century. Addressing it requires ecological, agricultural, and technical knowledge that is contextualized by an awareness of complex political, economic, and societal systems.
-
-## Staffnet
 
 Place: ETH Zürich Hönggerberg Date: Sunday 6.9.2015 to Friday 11.9.2015, daily full-time programme . Language: English
 

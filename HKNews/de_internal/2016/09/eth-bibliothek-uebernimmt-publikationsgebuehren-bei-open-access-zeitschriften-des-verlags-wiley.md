@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2016/09/eth-bibliothek-uebernimmt-publikationsgebuehren-bei-open-access-zeitschriften-des-verlags-wiley.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Voraussetzung ist, dass der Erstautor des eingereichten Artikels an der ETH Zürich beschäftigt ist. Die Übernahme gilt ausschliesslich für die externe Seite reinen Open-Access-Zeitschriften von Wiley .

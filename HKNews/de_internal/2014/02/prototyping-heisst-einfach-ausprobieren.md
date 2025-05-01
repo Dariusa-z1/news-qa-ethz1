@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2014/02/prototyping-heisst-einfach-ausprobieren.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Im vergangenen Herbst fand die erste Studienreise im Rahmen des Innovedum-Projektes «Raus aus den vier Wänden» nach Stanford statt. Ziel der Studienreise war es, zu festgelegten Themenbereichen einmal über den Tellerrand zu schauen, die momentanen Vorgehensweisen an der ETH zu hinterfragen und sich zu neuen Projekten inspirieren zu lassen.

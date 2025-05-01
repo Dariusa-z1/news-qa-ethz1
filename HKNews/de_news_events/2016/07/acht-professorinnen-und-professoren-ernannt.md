@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2016/07/acht-professorinnen-und-professoren-ernannt.html
 
+**Date processed:** 2025-05-01
+
 ## Ernennungen ETH Zürich
 
 Der ETH-Rat hat an seiner Sitzung vom 13./14. Juli 2016 auf Antrag des Präsidenten der ETH Zürich, Lino Guzzella, insgesamt acht Professorinnen und Professoren an der ETH Zürich ernannt sowie einen Professorentitel verliehen.
@@ -22,8 +24,6 @@ Jeremy Richardson. (Bild: Jeremy Richardson)
 
 Dr. Jeremy Richardson (*1986) , zurzeit Junior Research Fellow an der Durham University, Grossbritannien, zum Tenure-Track-Assistenzprofessor für Theoretische Molekulare Quantendynamik. Jeremy Richardson forscht im Bereich der theoretischen Beschreibung von quantendynamischen Prozessen komplexer Systeme. Seine Resultate ermöglichen unter anderem die Untersuchung von Prozessen, die in der Chemie von zentraler Bedeutung sind, wie Protonen- und Elektronenübertragungen in grossen molekularen Komplexen und in der kondensierten Phase. Mit der Berufung von Jeremy Richardson gewinnt die ETH Zürich einen äusserst originellen theoretischen Chemiker, der die erfolgreiche Tradition des Departements Chemie und Angewandte Biowissenschaften auf dem Gebiet der theoretischen Chemie fortsetzen wird.
 
-## Verleihung des Titels «Professor»
-
 Konrad Schindler.
 
 Prof. Dr. Konrad Schindler (*1974) , zurzeit ausserordentlicher Professor an der ETH Zürich, zum ordentlichen Professor für Photogrammetrie und Fernerkundung. Konrad Schindler ist ein international vielbeachteter Forscher auf seinem Gebiet und engagiert sich in überdurchschnittlichem Masse in der Lehre. Seine drei Hauptthemen sind die integrierte Behandlung in der Extraktion von geometrischen und semantischen Informationen, die Kombination und Fusion von Daten und Informationen aus multiplen Sensoren und Plattformen sowie die Wartung und Nachführung von sehr grossen Geo-Datenbanken – insbesondere auch von Informationen und Daten, die auf dem Internet zur Verfügung gestellt werden. Die Ernennung von Konrad Schindler zum ordentlichen Professor trägt dazu bei, die internationale Spitzenposition der ETH Zürich im Bereich der Photogrammetrie zu sichern und auszubauen.
@@ -37,6 +37,8 @@ Jing Wang.
 Prof. Dr. Jing Wang (*1979) , zurzeit Assistenzprofessor an der ETH Zürich, zum ausserordentlichen Professor für Luftqualität und Partikeltechnologie. Jing Wang gilt auf dem Gebiet der Luftreinhaltung und der Partikeltechnologie als einer der führenden Wissenschaftler weltweit. Seine Forschungsschwerpunkte umfassen unter anderem die Reduktion von Nanopartikeltransporten und -emissionen, die Entwicklung von Instrumenten zur Messung von Nanopartikeln in der Luft sowie die Luft- und Wasserfiltration. Seine Arbeit trägt dazu bei, die Bedeutung von Nanomaterialien für den Umwelt- und Arbeitsschutz besser zu verstehen. Mit der Berufung von Jing Wang zum ausserordentlichen Professor erhalten sich ETH Zürich und Empa einen exzellenten Forscher, der das Thema Luftreinhaltung im Umweltingenieurwesen an beiden Institutionen nachhaltig weiterbringen wird.
 
 Ce Zhang.
+
+## Verleihung des Titels «Professor»
 
 Dr. Ce Zhang (*1987) , zurzeit Postdoktorand an der Stanford University, Kalifornien, USA, zum Tenure-Track-Assistenzprofessor für Informatik. Ce Zhang ist ein vielversprechender Nachwuchswissenschaftler. Seine Forschungsinteressen liegen im Bereich von Datenbanken, Datenverarbeitung, Maschinellem Lernen und Data Science. Im Fokus seiner Anwendungen liegen Systeme, die Wissenschaftlern helfen, grosse Menge von Daten zu analysieren und zu verstehen. Dabei verbindet er die klassischen Gebiete der Datenbanken und des Information Retrieval mit neuen Methoden im Maschinellen Lernen. Mit der Berufung von Ce Zhang stärkt das Departement Informatik die Lehr- und Forschungstätigkeiten im Bereich Data Science entscheidend.
 

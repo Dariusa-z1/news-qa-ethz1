@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2023/12/zwoelf-professorinnen-und-professoren-ernannt.html
 
+**Date processed:** 2025-05-01
+
 ## Neuernennungen
 
 (Bild: Ida Annersten)
@@ -20,8 +22,6 @@ Prof. Dr. Mark Fuge (*1986), zurzeit ausserordentlicher Professor an der Univers
 
 Prof. Dr. Eva Heinen (*1981), zurzeit ordentliche Professorin an der Technischen Universität Dortmund, Deutschland, zur ordentlichen Professorin für Verkehrs- und Mobilitätsplanung am Departement Bau, Umwelt und Geomatik. Eva Heinens interdisziplinäre Forschung konzentriert sich auf Mobilität und Verkehr an der Schnittstelle von nachhaltiger Entwicklung, Verkehrs- und Raumplanung und Gesundheit. Ihre Forschungsarbeiten zum nichtmotorisierten Verkehr waren wegweisend für die Gründung einer Interessengruppe innerhalb der World Conference on Transport Research Society (WCTRS). Eva Heinen verfügt zudem über umfangreiche Lehrerfahrung. Mit ihrer Berufung ergeben sich wichtige Interaktionen und Synergien mit anderen Instituten und Departementen der ETH Zürich.
 
-## Beförderungen
-
 (Bild: MPI-SWS)
 
 Michalis Kokologiannakis (*1993), zurzeit Doktorand am Max-Planck-Institut für Softwaresysteme, Kaiserslautern, Deutschland, zum Tenure-Track-Assistenzprofessor für Informatik am Departement Informatik. Michalis Kokologiannakis Forschung befasst sich mit Programmiersprachen, insbesondere der formalen Verifikation von Programmen. Er entwickelt unter anderem fortgeschrittene Algorithmen, die sehr effizient eine grosse Anzahl von Programmausführungen analysieren können. In seiner Forschung schlägt Michalis Kokologiannakis erfolgreich die Brücke zwischen theoretischen Grundlagen und praktischen Anwendungen. Dies ermöglichte ihm, produktive Kooperationen mit der Industrie aufzubauen und seine Forschung in die Praxis zu transferieren.
@@ -38,7 +38,7 @@ Martina Voser (*1973), zurzeit Inhaberin und Mitglied der Geschäftsleitung der 
 
 Dr. Basile Isidore Martin Wicky (*1988), zurzeit Postdoktorand an der University of Washington in Seattle, USA, zum Tenure-Track-Assistenzprofessor für Biomolekulares Design am Departement Biosysteme. Die Forschung von Basile Wicky konzentriert sich auf das computergestützte Design von Proteinen und auf die synthetische Biologie zur Programmierung biomolekularer und zellulärer Systeme. Langfristig hat seine Forschung unter anderem die Entwicklung neuer molekularer und zellulärer Therapien zum Ziel. Seine Berufung wird wichtige Synergien sowohl mit der akademischen Forschung als auch mit der Biotechnologie- und Pharmaindustrie fördern, die besonders an künstlicher Intelligenz für die Arzneimittelentdeckung und -entwicklung interessiert sind.
 
-## Verleihung des Titels «Professor of Practice»
+## Beförderungen
 
 (Bild: e-Pics)
 
@@ -56,11 +56,13 @@ Prof. Dr. Sascha Patrick Quanz (*1979), zurzeit ausserordentlicher Professor an 
 
 Prof. Dr. Rico Zenklusen (*1981), zurzeit ausserordentlicher Professor an der ETH Zürich, zum ordentlichen Professor für Mathematik am Departement Mathematik. Rico Zenklusen forscht auf dem Gebiet der Kombinatorischen Optimierung. Das Hauptziel dieses Bereichs ist die Verwendung mathematischer Techniken, um schnelle Algorithmen für eine Vielzahl von Berechnungsfragen zu entwickeln. Er ist ein international führender und anerkannter Mathematiker. Der stellvertretende Leiter des Instituts für Operations Research unterhält ein breites und internationales Netz von Mitarbeitenden, was sich auch in seiner beeindruckenden Publikationsbilanz widerspiegelt. Er wurde mehrfach ausgezeichnet, unter anderem 2018 mit einem ERC Consolidator Grant und 2021 mit der Goldenen Eule der ETH Zürich.
 
-## Verabschiedungen
-
 (Bild: Michael Kleinespel)
 
+## Verleihung des Titels «Professor of Practice»
+
 Prof. Dr. Stefan Kurz (*1966), zurzeit VP Chief Expert bei der Robert Bosch GmbH sowie Dozent an der Universität von Jyväskylä, Finnland, zum Professor of Practice der ETH Zürich. Stefan Kurz ist eine angesehene Führungspersönlichkeit in der Industrie mit einem umfangreichen Hintergrund in Forschung und Entwicklung. In seiner Laufbahn hat er sowohl in der Wissenschaft als auch in der Industrie bedeutende Beiträge geleistet und Innovationen vorangetrieben. An der ETH Zürich wird er aktuelle Fragestellungen aus der industriellen Forschung und Entwicklung aufnehmen und eine grosse Anzahl von Projekten in den Grundlagen der Bereiche hybride Modellierung und computergestützter Elektromagnetismus anbieten. Er wird diese Tätigkeit Anfang Februar 2024 antreten und den Titel Professor of Practice ab dann tragen.
+
+## Verabschiedungen
 
 Prof. Dr. Joachim M. Buhmann (*1959), zurzeit ordentlicher Professor für Informatik (Information Science and Engineering) am Departement Informatik, wird Ende Juli 2024 in den Ruhestand treten. Joachim M. Buhmann kam 2003 als ordentlicher Professor an die ETH Zürich. Sein zentrales Forschungsthema sind Algorithmen in den empirischen Wissenschaften. Er hat sich mit maschinellem Lernen, Computersehen und statistischer Datenanalyse beschäftigt und den Brückenschlag zu den Ingenieurs- und Lebenswissenschaften gepflegt. Seine Forschungsarbeiten im Bereich der Medizin wurden durch die Fellow-Auszeichnung der International Association for Pattern Recognition gewürdigt und führten zu seiner Aufnahme als Einzelmitglied in die Schweizerische Akademie der Technischen Wissenschaften.
 

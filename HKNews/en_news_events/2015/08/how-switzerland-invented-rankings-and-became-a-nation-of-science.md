@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2015/08/how-switzerland-invented-rankings-and-became-a-nation-of-science.html
 
-## Die Naturforschenden
+**Date processed:** 2025-05-01
+
+## Main article
 
 ETH News: In your book «Die Naturforschenden» [The Natural Scientists], you write that Switzerland has been regarded as one of the most successful science nations since the 18th century. What are the historical bases of that success? Schär: That's a difficult question for historians to answer, because it depends on how "success" is defined. These definitions are subject to the vicissitudes of historical change. As historians we can say this: the history of scientific definitions of success and scientific rankings is, to an astonishing degree, associated with the history of Swiss science.
 
@@ -22,11 +24,11 @@ Such mechanisms of international collaboration mixed with competition are still 
 
 Bernhard C. Schär is a post-doctoral fellow with the Chair for History of the Modern World at ETH Zurich. His research focusses on the history of the sciences and colonial history and the global history of Switzerland. Most recently he published work on Swiss natural scientists during the period of Dutch colonial imperialism in South-east Asia around the turn of the 20th century.
 
-## The natural sciences up close
-
 Lea Pfäffli is a doctoral student with the Chair for History of Technology. Her research concentrates on the history of polar exploration, its material culture and global circulation. Most recently she worked on an exhibition on the history of knowledge in German studies.
 
 Die Natur- forschenden. (Photo: ETH- Bibliothek / Hier + Jetzt)
+
+## Die Naturforschenden[The Natural Scientists]
 
 Over the past 200 years, Swiss natural scientists have explored the world and contributed to the global interconnectedness of Switzerland as a centre of scientific research.
 
@@ -35,6 +37,8 @@ In a new book, 15 historians have now compiled biographies that shed light on th
 Patrick Kupper & Bernhard C. Schär (Ed.). Die Naturforschenden. Auf der Suche nach Wissen über die Schweiz und die Welt, 1800–2015. Hier und Jetzt, Verlag für Kultur und Geschichte, Baden, 2015, 308 pages.
 
 Insights into time and change. (Photo: SCNAT)
+
+## The natural sciences up close
 
 The Swiss Academy of Sciences (SCNAT) is celebrating its 200th anniversary under the motto «The natural sciences up close»: through Saturday 15 August 2015, installations, guided tours and lectures on the world of the natural sciences will be open to the public at locations throughout Zurich.
 

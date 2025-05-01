@@ -2,11 +2,11 @@
 
 **Source:** en_internal/2024/02/wanted-eth-employees-from-other-continents.html
 
+**Date processed:** 2025-05-01
+
 ## Promoting an open organizational culture
 
 Whether it's how openly and directly you communicate or when unpunctuality begins - our cultural background shapes our behavior and how we perceive the behavior of others.
-
-## Always up to date
 
 This is why cultural diversity can sometimes lead to difficulties - but at the same time to more creativity, more unconventional ideas and better solutions. The prerequisite for this is an organizational culture in which cultural differences are perceived and used as an opportunity.
 

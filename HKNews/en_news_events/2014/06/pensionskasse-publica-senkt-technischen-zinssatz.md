@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2014/06/pensionskasse-publica-senkt-technischen-zinssatz.html
 
+**Date processed:** 2025-05-01
+
 ## Members to receive lump-sum compensation payment
 
 As of 1 January 2015, the technical interest rate will be lowered from its current level – 3.5 per cent – to 2.75 per cent. This decision taken by the Publica Fund Commission also entails an adjustment to the conversion rate. However, the intention is to maintain the current level of pension benefits by building up more provisions and taking other accompanying measures.
@@ -11,8 +13,6 @@ Publica cites the persistently low level of interest rates as the reason for mak
 It therefore feels compelled to cut the technical interest rate in order to ensure that it can stabilise the funded ratio even in the event of a fall in the return on investment. This is, in their words, an “unfortunately unavoidable” measure.
 
 The technical interest rate is used to determine the current value of pension entitlements arising in the future. It also has an influence on the conversion rate, which serves as a basis for calculating the pension amount. If the technical interest rate is too high, so too is the conversion rate and, consequently, the pension.
-
-## Higher contributions
 
 That is why the conversion rate, which stood at 6.15 per cent, is now being reduced to 5.65 per cent. This gives rise to an additional requirement for savings contributions of 8.85 per cent in order to keep pensions at a level comparable to what they are now.
 

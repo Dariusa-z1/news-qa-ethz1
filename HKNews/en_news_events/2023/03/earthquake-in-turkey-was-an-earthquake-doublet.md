@@ -2,33 +2,31 @@
 
 **Source:** en_news_events/2023/03/earthquake-in-turkey-was-an-earthquake-doublet.html
 
+**Date processed:** 2025-05-01
+
 ## Abstract
 
-- Researchers confirm that an earthquake doublet occurred in Turkey and Syria.
-
-- The first quake tipped the scales, triggering the second powerful earthquake very shortly thereafter on a neighbouring fault.
-
-- Experts suspect there is a “seismic gap” along the North Anatolian Fault south of Istanbul and under the Sea of Marmara, given the absence of a powerful earthquake in the past 250 years.
-
-- Earthquake hazard and risk for the Turkish metropolis are very high.
-
+• Researchers confirm that an earthquake doublet occurred in Turkey and Syria.
+• The first quake tipped the scales, triggering the second powerful earthquake very shortly thereafter on a neighbouring fault.
+• Experts suspect there is a “seismic gap” along the North Anatolian Fault south of Istanbul and under the Sea of Marmara, given the absence of a powerful earthquake in the past 250 years.
+• Earthquake hazard and risk for the Turkish metropolis are very high.
 ETH News: You and your colleague Jean-Paul Ampuero from Geoazur have just published a commentary on the early February earthquakes in Turkey in a scientific journal. What’s new? Luca Dal Zilio: The two powerful earthquakes that hit Turkey and Syria on 6 February 2023 were of similar magnitude (7.8 and 7.6) and only nine hours apart. These events are referred to as an earthquake doublet because they are a pair of powerful earthquakes that have centroids closer than their rupture size and occur within a time frame that is shorter than the recurrence time inferred from the plate motion.
 
 There was long talk of an exceptionally strong aftershock. The second earthquake in this case wasn’t a typical aftershock, as it was almost as strong as the first one and occurred on a different, nearby fault. According to Bath’s Law, the largest aftershock is usually about 1.2 magnitudes smaller than the main earthquake. A series of earthquakes like the recent events in Turkey and Syria has its own unique features. Studying these events helps us learn more about earthquakes and improves our ability to predict them.
-
-## About
 
 Why did an earthquake doublet occur? The first earthquake probably contributed to an increase in static stress in the area where the second event occurred. While this increase may not have been substantial, it could have been sufficient to set off the second event just hours later. This suggests that both faults were under critical stress. The first earthquake might have given a final nudge to the second fault zone, which had accumulated stress over decades and was already critically loaded. Further research will help us better understand this aspect of earthquake interaction.
 
 What can be learnt from your analysis for the reconstruction of towns and villages in the regions affected? Significant damage cannot be avoided in earthquakes of this magnitude, especially when cities are located exactly on seismically active fault lines, causing large surface displacements of six to eight metres. This event underscores the need to better understand the strong ground motion near a fault and to update risk management practices – for instance, by calculating how stress transfer has changed the hazard probability in the region. Ideally, we should also find out to what extent strong mainshocks have changed the stability of buildings and increased their vulnerability to aftershocks.
 
-## Reference
-
 Haven’t we long been aware of the high seismic hazard and the associated extreme risk for this region? Yes, various European institutes – including ETH Zurich and the Swiss Seismological Service – have put a lot of effort into calculating the earthquake hazard across Europe in recent years. Thanks to these efforts, we now have an earthquake hazard map of Europe that everyone can access. This map shows that the North Anatolian Fault and the East Anatolian Fault – both of which run through Turkey – are two of the most active fault systems in Europe and the world and thus pose a major seismic hazard to the region. The North Anatolian Fault, on which Istanbul is located, also poses a significant risk. There were several earthquakes along this fault in the last century. These events have now left a seismic gap south of Istanbul and beneath the Sea of Marmara, a gap that has not been filled for 250 years. Seismologists often refer to such regions as seismic gaps because they are sections of a fault system where little or no seismic activity has occurred over an extended period of time, even though neighbouring sections have been affected by earthquakes. We assume that these are areas along a fault where stresses accumulate before releasing an enormous amount of energy all at once, which can result in powerful earthquakes.
 
 How does the future look and what will happen next? In summary, the current focus is on dealing with the tremendous loss of life and property. In the months and years ahead, several follow-up studies to our report will provide a further insight into this catastrophic event. We hope to be able to learn from this to make buildings safer and to better prepare for such events. As scientists, we hope that this event can provide valuable insights into the mechanics of faults and the physics of earthquakes.
 
+## About
+
 Luca Dal Zilio is a senior scientist at the Institute of Geophysics at ETH Zurich. His research focuses on the development and applications of computer simulations. Among other things, he uses them to study the physics of earthquakes, fault mechanisms and seismicity.
+
+## Reference
 
 Dal Zilio, L., Ampuero, JP. Earthquake doublet in Turkey and Syria. Commun Earth Environ 4 , 71 (2023). doi: 10.1038/s43247-023-00747-z
 

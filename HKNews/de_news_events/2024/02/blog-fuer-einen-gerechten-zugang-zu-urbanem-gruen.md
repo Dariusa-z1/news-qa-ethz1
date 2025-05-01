@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2024/02/blog-fuer-einen-gerechten-zugang-zu-urbanem-gruen.html
 
-## Zum Autor
+**Date processed:** 2025-05-01
+
+## Main article
 
 Auf dem Quai beim See flanieren, dem Fluss entlang durch die Stadt spazieren, Pingpong spielen im Park – es sind alltägliche Selbstverständlichkeiten wie diese, die unser Wohlbefinden steigern. Selbstverständlichkeiten, mit denen wir unsere Freizeit gestalten – und dann war das Selbstverständliche auf einmal nicht mehr möglich.
 
@@ -10,9 +12,9 @@ Als im März 2020 in der Schweiz und ganz Europa pandemiebedingt der Lockdown be
 
 Als naturverbundener Stadtbewohner waren die Schliessungen für mich persönlich eine einschneidende Erfahrung. So machten uns die gesperrten Promenaden und Pärke schmerzhaft bewusst, wie wichtig urbane Grünflächen für unsere Lebensqualität sind, und wie sehr wir diese Orte für unsere körperliche und seelische Gesundheit brauchen.
 
-Fritz Kleinschroth ist Senior Scientist am Lehrstuhl für Ökosystemmanagement der ETH Zürich und forscht an den Folgen der Urbanisierung für Ökosystemen.
+## Zum Autor
 
-## Eine Frage des Wohlstands
+Fritz Kleinschroth ist Senior Scientist am Lehrstuhl für Ökosystemmanagement der ETH Zürich und forscht an den Folgen der Urbanisierung für Ökosystemen.
 
 Seither ist viel passiert. Und ich stelle erfreut fest: Es wird heute deutlich mehr über die Rolle von Natur im urbanen Raum geredet als vor der Pandemie. Corona ist gegangen – das Thema Stadtgrün ist geblieben, zumindest vorläufig. Das hat auch mit den Hitzewellen im Stadtsommer zu tun, wenn kühlende Vegetation Gold wert ist. In Zürich ist das Thema gerade jetzt hochaktuell, da gleich zwei relevante Initiativen zum Mythenpark und zum Seeufer anstehen. 1
 
@@ -22,7 +24,7 @@ Die Frage ist nicht trivial. Denn Länder und Städte haben ganz unterschiedlich
 
 Ich forsche selber zu den Wechselwirkungen zwischen urbaner Infrastruktur und Ökosystemen und sehe die Dynamik um Grünflächen seit Corona als Indikator dafür, was Menschen in Städten wirklich wichtig ist. Gleich zu Begin der Pandemie zeigten wir, dass Google Anfragen nach Suchbegriffen wie «Spazieren gehen» im deutsch- und englischsprachigen Raum kurzfristig markant zugenommen hat – ein Indiz, dass die Nachfrage nach öffentlichen Pärken während der Krise stark gestiegen ist. 2
 
-## Stadtgrün ist ungleich verteilt
+## Eine Frage des Wohlstands
 
 Auch aufgrund einiger anderer vielzitierter Studien aus Nordeuropa gingen bisher die meisten Forschenden (einschliesslich uns) implizit von einer generellen Zunahme der Nutzung von Grünflächen aus. Dies auch deshalb, weil das Bedürfnis nach Bewegung im Freien angesichts von Homeoffice, geschlossenen Schulen und Reiseverboten deutlich grösser war als vor der Pandemie.
 
@@ -32,11 +34,11 @@ Mit einem mehrsprachigen Team haben wir nun systematisch die Literatur zur verä
 
 Unsere Analyse offenbart tatsächlich eine überraschend grosse Diskrepanz in der Nutzung von Grünflächen an verschiedenen Orten auf der Welt. Wir können diese Unterschiede im Wesentlichen durch finanziellen Wohlstand erklären. Konkret zeigen wir, dass die Nutzung von Grünflächen in wohlhabenderen Regionen zunahm, während sie in ärmeren Regionen deutlich abnahm.
 
-## Empfehlungen für lebenswerte Städte
-
 Das heisst: In Städten und Regionen haben nicht alle Menschen die gleichen Möglichkeiten, Grünflächen zu nutzen. Soziale Ungleichheit manifestierte sich also in zweierlei Hinsicht: Menschen, die entweder in wohlhabenden Gegenden leben oder im Besitz von privaten Gärten waren (oder beides), konnten die Einschränkungen durch vermehrte Aktivitäten an der frischen Luft ausgleichen. Menschen ohne solche Möglichkeiten mussten jedoch auf Vorteile für Gesundheit und Wohlbefinden verzichten.
 
 Das wirft die wichtig Frage auf, wie wir in der Stadtentwicklung eine gerechte Verteilung von Grünräumen erreichen. Wollen wir vermeiden, dass sich immer mehr Menschen für das sichere Haus mit Garten in der Aglomeration entscheiden, dann müssen wir unsere Städte grundlegend anders gestalten.
+
+## Empfehlungen für lebenswerte Städte
 
 Gerade in weniger privilegierten Quartieren mit kleinen Wohnungen braucht es mehr Natur und Erhohlungsraum im Freien, zum Beispiel indem Brachflächen zugänglich und nutzbar gemacht werden. Das übergeordnete Ziel der «Inneren Verdichtung» in der Stadtplanung lässt sich nur realisieren, wenn genügend Grünflächen und ein gerechter Zugang zu diesen gewährleistet wird. Wir sprechen daher auch von «doppelter Innenentwicklung», die baulich verdichtet und gleichzeitig die Qualität von Grünräumen erhöht.
 

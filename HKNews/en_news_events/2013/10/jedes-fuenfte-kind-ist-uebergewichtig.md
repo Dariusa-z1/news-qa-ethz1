@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2013/10/jedes-fuenfte-kind-ist-uebergewichtig.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Stefanie Murer investigated body weight of Swiss children. (Photo: ETH Zürich)
@@ -21,6 +23,8 @@ Do you have an explanation for what is causing these differences? It’s possibl
 Are there any other peculiarities? We established that there was a greater increase in the proportion of obese boys than of girls. Specifically, nearly 2% more boys are obese than girls. We believe this is related to the different levels of body awareness and should be a consideration in preventive measures.
 
 In your study, you also take a close look at the figures from other countries. How does Switzerland fare when you compare it internationally? Of course, there are countries such as America, where more than 30% of children are overweight. In southern European countries, such as Greece, Spain and Portugal, the proportion is also around 30%, much higher than in Switzerland. In Europe, Switzerland is positioned in the lower section, alongside northern countries such as Denmark and Holland. There is also a trend towards stabilisation in many other countries, though the levels differ.
+
+## Literature Reference
 
 Murer SB, Saarsalu S, Zimmermann MB, Aeberli I: Pediatric adiposity stabilized in Switzerland between 1999 and 2012. European Journal of Nutrition, 2013, doi: 10.1007/s00394-013-0590-y
 

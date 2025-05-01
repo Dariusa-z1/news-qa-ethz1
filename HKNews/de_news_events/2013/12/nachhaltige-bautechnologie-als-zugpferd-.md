@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2013/12/nachhaltige-bautechnologie-als-zugpferd-.html
 
+**Date processed:** 2025-05-01
+
 ## Molekulare Grundlagen der Gesundheit
 
 Mit dem Schwerpunkt «Digitale Fabrikation und hoch entwickelte Bauprozesse in der Architektur» will das ETH-Institut für Technologie in der Architektur neue Ansätze für die Forschungs- und Baupraxis entwickeln. Mit seiner Ausrichtung auf innovative Planungs- und Bauprozesse sowie auf nachhaltige Bautechnologien setzt die «Digitale Fabrikation» die strategischen Themen des Departements Architektur (D-ARCH) fort, also Urbanisierung, Klimawandel und Ressourcenknappheit im Zeitalter der Informationsgesellschaft. Das Programm ergänzt zudem die Aktivitäten des «Future Cities Laboratory» in Singapur.
@@ -14,19 +16,17 @@ Ausser sich vor Freude ist Frédéric Allain: Der in Frankreich geborene Profess
 
 Gemäss Allain wird der Schwerpunkt ein besseres Verständnis der RNA-Funktionen für die Gesundheit und die Mechanismen der Erkrankung ermöglichen: Schliesslich habe die RNA-Forschung in den vergangenen Jahre eine Reihe bedeutender Entdeckungen gemacht. Diese Fortschritte ermöglichen es, zu verstehen, wie RNA Genomdynamik und Zellbiologie steuern und genetische Krankheiten verursachen können.
 
-## Schlüsselrolle für theoretische Forschung
-
 «Indem wir die Spitzenforschung vernetzen, wollen wir das Grundlagenwissen über die Rolle der RNA für die Physiologie der Zellen und Organismen vorantreiben», erklärt Allain. An der ETH Zürich beteiligen sich sechs Professuren. Das multidisziplinäre RNA-Programm verbindet Wissen aus Chemie, Biochemie, Biophysik, Zellbiologie und Physiologie. Weiter hat die ETH in den vergangenen Jahren Technologie-Plattformen für Mikroskopie und Genomik geschaffen.
 
 Langfristig sollen neue medizinische Anwendungen und therapeutische Ansätze entstehen. «Das RNA-Programm wird die ETH nachhaltig mit medizinischen Fakultäten und der Industrie verknüpfen.»
+
+## Schlüsselrolle für theoretische Forschung
 
 Die Forschung an der Schnittstelle zwischen Mathematik und theoretischer Physik ist aktuell ein sehr kreatives Forschungsgebiet. Der Schwerpunkt «The Mathematics of Physics (SwissMAP)» will nun die Zusammenarbeit zwischen Mathematikern und Physikern weiter ausbauen.
 
 «Dass wir ‹SwissMAP› umsetzen dürfen, zeigt, welche Bedeutung die theoretische Forschung für die Schweiz hat», sagt Giovanni Felder, Professor am ETH-Departement Mathematik und Co-Leiter des Programms. Neben Arbeitsgruppen der ETH Zürich und der Universität Genf, dem Leading House, beteiligen sich theoretische Physiker des Cern sowie Forschende der EPFL, der Universitäten Zürich und Bern an SwissMAP.
 
 Typische Forschungsgebiete, in denen sich Mathematik und Physik berühren, sind die Wahrscheinlichkeitstheorie und die Geometrie: Wenn etwa Physiker, die mit der Quantenfeldtheorie und Stringtheorie arbeiten, die Elementarteilchen beschreiben, entwickeln sie geometrische Begriffe, die zu neuen Erkenntnissen in der Mathematik führen. Wenn sie die Thermodynamik mikroskopisch beschreiben, lassen sie sich auch durch die Wahrscheinlichkeitstheorie anregen, sagt Felder. Er selber untersucht mathematische Eigenschaften von Modellen der statistischen Mechanik und der Quantenfeldtheorie. «Die Mathematik entwickelt neue Methoden, welche der Physik nutzen und umgekehrt regen viele Ideen aus der Physik die mathematische Forschung an», betont Felder.
-
-## Molekulare Staubsauger aus der Natur
 
 Auch das interdisziplinäre Institut für theoretische Studien (ETH-ITS) spielt eine Rolle im Forschungsnetzwerk: «Im Institut wollen wir innovative theoretisch Forschende aus Mathematik, Physik oder Informatik an die ETH holen. Ihr Wissen möchten wir natürlich mit ‹SwissMAP› verbinden, um so neue theoretische Einsichten zu ermöglichen», verdeutlicht Felder, Direktor des Instituts.
 

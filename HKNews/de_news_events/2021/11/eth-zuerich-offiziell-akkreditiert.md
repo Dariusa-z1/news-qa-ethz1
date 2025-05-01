@@ -2,16 +2,16 @@
 
 **Source:** de_news_events/2021/11/eth-zuerich-offiziell-akkreditiert.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
-- Im Strategie- und Entwicklungsplan der ETH soll klarer definiert werden, welche Stellen für die verschiedenen Prozesse der    Qualitätssicherung zuständig sind. Sie stellt fest, dass informelle Praktiken ein grosses Gewicht haben und schlägt vor, manche davon zu institutionalisieren.
+Joël Mesot sagt: «Der Bericht der Gutachtergruppe bietet eine sehr scharfe Analyse. Sie zeigt, dass die Qualitätssicherung an der ETH ein gelebtes Gut ist, das wir erhalten, festigen und verfeinern wollen». Ausgehend von ihrem Bericht haben die Gutachter auch Empfehlungen an die ETH formuliert. Sie betreffen zusammengefasst die folgenden Anliegen:
 
-- Zudem sollen die Prozesse intern wie extern besser kommuniziert werden.Die Mitwirkungsprozesse könnten gemäss den Gutachtern in den einzelnen Departementen einheitlicher geregelt sein. Zudem empfehlen die Gutachter zu prüfen, wie die Gremien zusammengesetzt sein müssen, damit die Mitsprache von Studierenden und Mittelbau langfristig gesichert sind.
-
-- Die Gutachtergruppe bekräftigt die ETH darin, neben der Aufteilung der Basisprüfung auf zwei Blöcke weitere Massnahmen zu    schaffen, damit weniger Studierende im ersten Jahr ihr Studium abbrechen, ohne die Prüfung abzulegen.
-
-- Weiter soll die ETH Doktorierende mit Kursen zu persönlichen Kompetenzen unterstützen. Zudem sollen sie für ihren Einsatz in der Lehre eine eigene Evaluation erhalten.
-
+• Im Strategie- und Entwicklungsplan der ETH soll klarer definiert werden, welche Stellen für die verschiedenen Prozesse der    Qualitätssicherung zuständig sind. Sie stellt fest, dass informelle Praktiken ein grosses Gewicht haben und schlägt vor, manche davon zu institutionalisieren.
+• Zudem sollen die Prozesse intern wie extern besser kommuniziert werden.Die Mitwirkungsprozesse könnten gemäss den Gutachtern in den einzelnen Departementen einheitlicher geregelt sein. Zudem empfehlen die Gutachter zu prüfen, wie die Gremien zusammengesetzt sein müssen, damit die Mitsprache von Studierenden und Mittelbau langfristig gesichert sind.
+• Die Gutachtergruppe bekräftigt die ETH darin, neben der Aufteilung der Basisprüfung auf zwei Blöcke weitere Massnahmen zu    schaffen, damit weniger Studierende im ersten Jahr ihr Studium abbrechen, ohne die Prüfung abzulegen.
+• Weiter soll die ETH Doktorierende mit Kursen zu persönlichen Kompetenzen unterstützen. Zudem sollen sie für ihren Einsatz in der Lehre eine eigene Evaluation erhalten.
 Seit das Schweizer Hochschulförderungs- und -koordinationsgesetz 2015 in Kraft trat, müssen sich alle öffentlichen oder privaten Hochschulen, die sich als «Universität», «Fachhochschule» oder «Pädagogische Hochschule» bezeichnen möchten, alle sieben Jahre akkreditieren lassen.
 
 Die ETH Zürich hat diese Akkreditierung im Oktober als eine der ersten Universitäten erhalten.
@@ -27,8 +27,6 @@ Parallel dazu wurden die «Leitlinien des internen Qualitätssicherungssystems»
 Wichtige Vernehmlassungen
 
 Die ETH konnte auf diese Weise darlegen, dass die Qualitätssicherung in ihrer Kultur und Organisation breit abgestützt ist. Das reicht vom Strategieprozess der Schulleitung über Berufungsverfahren für Professorinnen und Professoren, Evaluationen von Departementen und Studiengängen, den Unterrichtsevaluationen, bis zur fest verankerten Mitwirkungskultur durch die die Hochschulgruppen, also die Hochschulversammlung, die der Konferenz des Lehrkörpers, die Akademischen Vereinigung des Mittelbaus an der ETH Zürich (AVETH), den Verband der Studierenden an der ETH Zürich (VSETH) und die Personalkommission. Viele Prozesse folgen der Subsidiarität und sind dezentral organisiert.
-
-Joël Mesot sagt: «Der Bericht der Gutachtergruppe bietet eine sehr scharfe Analyse. Sie zeigt, dass die Qualitätssicherung an der ETH ein gelebtes Gut ist, das wir erhalten, festigen und verfeinern wollen». Ausgehend von ihrem Bericht haben die Gutachter auch Empfehlungen an die ETH formuliert. Sie betreffen zusammengefasst die folgenden Anliegen:
 
 Die Empfehlungen stossen an der ETH auf offene Ohren: «Im Zusammenhang mit dem Organisationsentwicklungsprojekt rETHink haben wir unsere Prozesse grundlegend analysiert, und zurzeit arbeiten ETH-Angehörige aus allen Bereichen an Lösungsvorschlägen, die genau in diese Richtung zielen», sagt Joël Mesot. Mit Blick auf die Lehre ist die ETH auch auf Kurs, wie Rektorin Sarah Springman darlegt: «Eine Stärkung der überfachlichen Kompetenzen, nicht nur bei Doktorierenden, sondern über alle Stufen hinweg, ist das Ziel von ETH Talent, einem grossangelegten Projekt, das zurzeit gerade Fahrt aufnimmt.» Immer mehr Departemente führen zudem die Aufteilung der Basisprüfung ein. Und die Vermeidung von Studienabbrüchen ohne Prüfungsversuch sei bereits seit einiger Zeit auf der Agenda des Rektorats.
 

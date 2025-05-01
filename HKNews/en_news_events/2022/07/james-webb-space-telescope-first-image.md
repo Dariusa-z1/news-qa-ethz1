@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2022/07/james-webb-space-telescope-first-image.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 NASA has just published a first, spectacular image of the James Webb Space Telescope (JWST). What did you feel when you saw it? I felt a sense of great joy and satisfaction that everything is working so well. After almost 20 years of development, it is a great moment to finally see the first scientific data.
@@ -13,6 +15,8 @@ Do the first images meet your expectations? They exceed them! With the James Web
 What else can we expect? A great deal. These are just the very first images, a kind of preview of what is to come. The Hubble telescope has always delivered new and fantastic images, and so will JWST. In addition to the images, there are all the spectra and data, which may not look so beautiful, but are all the more interesting scientifically.
 
 What do you hope for as the mission progresses? I anticipate that the limits of our imagination will once again be expanded and that we will be surprised by nature with its incredible beauty and diversity. Personally, I am looking forward to exploring the atmospheres of exoplanets - planets orbiting stars other than the Sun. JWST will have a lot of potential to advance this field of research by exponential orders of magnitude.
+
+## About Adrian Glauser
 
 Adrian Glauser is a Senior Scientist at the Institute for Particle Physics and Astrophysics at ETH Zurich. He was involved in the development of a shutter and connecting cables for a mid-infrared range measuring instrument (MIRI) carried by the JWST. Over the past 14 years, he has worked on the calibration of the MIRI. Glauser is the project manager for Swiss participation in the mission.
 

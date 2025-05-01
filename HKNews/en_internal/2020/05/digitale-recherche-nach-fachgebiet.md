@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2020/05/digitale-recherche-nach-fachgebiet.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Access to electronic journals, textbooks, new publications and links to external databases including Web of Science and Scopus is just a few clicks away. Comprehensive information is provided on the following subjects, which are aligned to the research and teaching performed at ETH Zurich:

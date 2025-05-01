@@ -2,43 +2,27 @@
 
 **Source:** en_internal/2020/07/buildings-to-reopen-starting-3-august.html
 
+**Date processed:** 2025-05-01
+
 ## Student workplaces are back
 
 The next stage of ETH Zurich's coronavirus master plan (3–30 August) reflects a cautious approach, relaxing restrictions where possible but maintaining a hard line where necessary. A key element of this stage is the reopening of university buildings to members of the ETH community (including handymen and guests) as well as to visitors of libraries, exhibitions and collections. The same opening hours as before the lockdown will be in place. The general public will continue to be denied access for the time being. Buildings not hosting any exams may remain closed if requested by an academic or administrative department.
 
-## Gradual return to the workplace
-
 "August is all about session exams," explains Ueli Weidmann, Vice President for Infrastructure and head of the COVID-19 task force. There are over 600 written and 400 oral examinations that will be held in scattered locations, with the biggest exams concentrated in a few buildings. Reopening the buildings is a fundamental step for ensuring that session exams can take place in the most transparent and student-friendly way.
-
-## Making contract tracing possible
 
 The same student workplace areas that were available before the lockdown will be made accessible again so that students can prepare for their exams. The workplaces can be used starting on 3 August without the need to register in advance. However, due to social distancing rules, there will be fewer spaces available. Occupancy limits will be indicated at each area.
 
-## Attendance lists for meetings, visitors
-
 August will also see the gradual return of ETH staff to the workplace. "People should return to the office gradually and vigilantly observe distancing and hygiene rules in the process. In August we will try out working together in person again, including involving colleagues who are still working remotely," says Weidmann. "Because even though we're aiming for a full return to the office in September, remote working arrangements will still continue to be part of our daily lives."
-
-## Travel to campus, catering services, sports
 
 According to Weidmann, supervisors are all bearing a special level of responsibility in these times. Supervisors must work together with their staff to draft written safety protocols for their teams that include how to follow physical distancing, hygiene and ventilation rules. Special rules also need to be developed for on-site and remote working arrangements, and it is expected that these rules will be in place until the end of the year at least. These team safety protocols also have to outline an occupancy or rotation plan for rooms – especially for open-plan offices – that do not allow for full simultaneous presence of the entire team due to space considerations. Additionally, supervisors must find individual solutions for team members that belong to at-risk groups.
 
-## Travelling abroad and entering Switzerland
-
 Weidmann advises employees working in the HIL and ONA buildings to exercise special caution when returning to the workplace, as those two buildings are host to large exams with numerous students. "Avoid taking breaks at times and places where students are waiting before their exams or exiting the exam rooms in large numbers," he says.
-
-## Towards further reopening in September
 
 "With life returning to the buildings, we're facing a big challenge when it comes to preventing gatherings of people," says Weidmann, urging everyone at ETH to do their part. Members of the ETH community should exercise special caution to avoid congregating in the corridors, at the entrance to exam rooms, and while waiting in line at dining facilities.
 
-## Further information
-
 As announced previously, the usual fees for ETH parking spaces will be reintroduced starting on 3 August. ETH still urges people to minimise health risks to themselves and others when travelling to campus, including observing mandatory mask rules on public transportation. People are encouraged to come to campus by foot, bicycle, motorcycle or car whenever possible.
 
-## Subscribe to Newsletter
-
 Catering services on the Zentrum and Hönggerberg campuses will be gradually stepped up. Up-to-date details are available on the Gastronomy website . It is mandatory to wear a mask while in enclosed waiting areas for catering services. This also applies to outdoor waiting areas if the personal distance of 1.5 metres cannot be observed.
-
-## Staffnet
 
 The ASVZ will resume sport activities with some restrictions and in accordance with the ASVZ safety protocol. Details are available on the ASVZ website .
 
@@ -53,6 +37,8 @@ New employees travelling from high-risk countries to take up a post at ETH Zuric
 While exam season in August currently enjoys the highest priority, attention will shift to the Autumn Semester starting in September. Life will continue to come back to campus with the return of employees. Events – currently banned through the end of August – will come back as well. When it comes to events, Weidmann warns that people should temper their expectations. "We expect to have a huge number of applications for events in the Autumn Semester," he says. "But at the same time, we have classes sometimes going on through the evenings, which will reduce the number of rooms available, and these rooms will also have reduced capacity."
 
 Permission for events will therefore be granted according to their importance, with events that are significant for ETH as a whole being given top priority. Events from the academic calendar – for instance, inaugural and farewell lectures – and knowledge-transfer events come next in the list. Only then will it be possible to consider holding public events and events with ETH partner institutions. "There will be some disappointments, but we'll be happy if we can start holding any events at all again in September," says Weidmann.
+
+## Further information
 
 Master plan – Corona: Return to “new normal” operations, Version 4, Stage 3.2.2 from 3–30 August 2020
 

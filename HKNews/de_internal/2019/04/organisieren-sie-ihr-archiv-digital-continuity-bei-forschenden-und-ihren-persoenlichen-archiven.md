@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2019/04/organisieren-sie-ihr-archiv-digital-continuity-bei-forschenden-und-ihren-persoenlichen-archiven.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Die Digitalisierung von Gesellschaft und Wissenschaft bringt viele Vorteile, aber auch Gefahren mit sich. So ist die Erhaltung analoger Dokumente verhältnismässig einfach. Das ist in der digitalen Welt anders – Daten müssen aktiv gepflegt werden, damit sie Jahrzehnte oder gar Jahrhunderte überleben. Papier ist geduldig, digitale Daten sind es nicht.

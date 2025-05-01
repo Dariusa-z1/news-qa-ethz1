@@ -2,29 +2,29 @@
 
 **Source:** de_news_events/2020/06/gewellte-oberflaechen-fuer-bessere-lichtkontrolle.html
 
+**Date processed:** 2025-05-01
+
 ## Interferenz durch Rillen
 
 Wie wichtig auf Licht basierende Technologien für unsere Gesellschaft sind, wurde in den letzten Wochen wieder deutlich. Dank des Internets können Millionen Menschen im Homeoffice arbeiten, in virtuelle Klassenräume eintreten oder mit Verwandten und Freunden sprechen. Das Internet wiederum verdankt seine Leistungsfähigkeit unzähligen Lichtpulsen, mit denen über Glasfasern enorme Datenmengen rund um den Globus verschickt werden.
 
 Um diese Lichtpulse zu lenken und zu kontrollieren, kommen verschiedene Technologien zum Einsatz. Eine der ältesten und wichtigsten ist das Beugungsgitter, mit dem verschiedenfarbiges Licht in genau vorbestimmte Richtungen abgelenkt wird. Seit Jahrzehnten versuchen Wissenschaftler, das Design und die Herstellung von Beugungsgittern zu verbessern und die Gitter den anspruchsvollen Anwendungen von heute anzupassen. An der ETH Zürich haben Forschende um David Norris, Professor am Departement Maschinenbau und Verfahrenstechnik, eine völlig neue Methode entwickelt, mit der effizientere und präzisere Beugungsgitter hergestellt werden können. Sie taten dies gemeinsam mit Kollegen, die jetzt an der Universität Utrecht arbeiten, und der Firma Heidelberg Instruments Nano, die als ETH-Spin-off SwissLitho gegründet wurde. Ihre Ergebnisse veröffentlichten sie kürzlich in der Wissenschaftszeitschrift externe Seite Nature .
 
-## Oberflächenbearbeitung mit heisser Sonde
-
 Beugungsgitter beruhen auf dem Prinzip der Interferenz. Wenn eine Lichtwelle auf eine gerillte Oberfläche fällt, so wird sie in viele kleinere Wellen aufgeteilt, die jeweils von einer Rille ausgehen. Wenn diese Wellen die Oberfläche verlassen, können sie sich entweder gegenseitig verstärken oder auslöschen, je nach ihrer Ausbreitungsrichtung und Wellenlänge (die mit ihrer Farbe zusammenhängt). Dies erklärt, warum die Oberfläche einer mit weissem Licht beleuchteten CD, auf der Daten in feinen Rillen gespeichert sind, einen Regenbogen an reflektierten Farben erzeugt.
 
 Damit ein Beugungsgitter richtig funktioniert, müssen seine Rillen einen ähnlichen Abstand haben wie die Wellenlänge des Lichts, also in etwa einen Mikrometer – hundertmal kleiner als ein menschliches Haar. «Traditionell werden diese Rillen mit Herstellungsmethoden der Mikroelektronik in die Materialoberfläche geätzt», sagt Nolan Lassaline, Doktorand in Norris’ Arbeitsgruppe und Erstautor der Studie. «Das bedeutet allerdings, dass die Rillen des Gitters treppenartig-kantige Seitenwände haben. Andererseits sagt uns die Physik, dass die Rillen glatt und gewellt sein sollten wie die gekräuselte Wasseroberfläche eines Sees.» Mit traditionellen Verfahren hergestellte Rillen können daher nur eine grobe Näherung darstellen, was zur Folge hat, dass das Beugungsgitter Licht weniger effizient lenkt. Dank eines völlig neuen Ansatzes haben Norris und seine Mitarbeiter nun eine Lösung für dieses Problem gefunden
-
-## Eine Vielzahl von Anwendungen
 
 Ihr Ansatz beruht auf einer Technologie, die ebenfalls aus Zürich stammt. «Unsere Methode ist sozusagen ein Urenkel des Rastertunnelmikroskops, das die späteren Nobelpreisträger Gerd Binnig und Heinrich Rohrer vor knapp vierzig Jahren in Zürich erfunden haben», sagt Norris. In einem solchen Mikroskop werden Materialoberflächen mittels einer extrem spitzen Sonde mit hoher Auflösung abgetastet. Die so entstandenen Bilder zeigen sogar einzelne Atome des Materials.
 
 Umgekehrt kann man die spitze Sonde aber auch benutzen, um ein Material damit zu bearbeiten und so gewellte Oberflächen herzustellen (siehe Bild). Dazu heizen die Forscher die Spitze einer Rastersonde auf fast 1000 Grad Celsius und drücken sie an bestimmten Stellen in eine Polymerschicht. Dadurch brechen die Moleküle des Polymers an diesen Stellen auseinander und verdampfen, wodurch die Oberfläche präzise geformt werden kann. Punkt für Punkt können die Wissenschaftler so beliebige Oberflächenprofile mit einer Auflösung von wenigen Nanometern in die Polymerschicht schreiben. Zum Schluss wird eine Silberschicht auf das Polymer aufgedampft und das Profil so auf ein optisches Material übertragen. Die Silberschicht kann dann vom Polymer abgelöst und als reflektierendes Beugungsgitter verwendet werden kann.
 
-## Literaturhinweis
+## Eine Vielzahl von Anwendungen
 
 «Auf diese Weise können wir beliebig geformte Beugungsgitter mit einer Auflösung von wenigen Atomabständen in der Silberschicht herstellen», sagt Norris. Anders als bei den traditionellen kantigen Rillen sind solche Gitter sind nun keine Näherungen mehr, sondern praktisch perfekt, und sie lassen sich so formen, dass die Interferenz der reflektierten Lichtwellen präzise kontrollierbare Muster bildet.
 
 Solche perfekten Beugungsgitter eröffnen neue Möglichkeiten der Lichtkontrolle, die zu einer Reihe von Anwendungen führen, sagt Norris: «Die neue Technik kann beispielsweise dazu verwendet werden, winzige Beugungsgitter in integrierte Schaltkreise einzubauen, mit denen optische Signale für das Internet noch effizienter gesendet, empfangen und verteilt werden können.» Lassaline fügt hinzu: «Generell können wir mit solchen Beugungsgittern stark miniaturisierte optische Geräte wie etwa Mikro-Laser herstellen, die in einen Chip integriert sind.» Diese miniaturisierten Geräte, sagt er, reichen von ultra-dünnen Kameralinsen bis hin zu kompakten Hologrammen mit schärferen Bildern. Sie werden voraussichtlich verschiedenste optischen Technologien beeinflussen, wie etwa futuristische Handykameras, Biosensoren oder autonomes maschinelles Sehen für Roboter und selbstfahrende Autos.
+
+## Literaturhinweis
 
 Lassaline N, Brechbühler R, Vonk SJW, Ridderbeek K, Spieser M, Bisig S, le Feber B, Rabouw FT, Norris DJ: Optical Fourier surfaces. Nature, 24. Juni 2020, doi: externe Seite 10.1038/s41586-020-2390-x
 

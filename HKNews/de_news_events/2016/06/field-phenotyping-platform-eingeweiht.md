@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2016/06/field-phenotyping-platform-eingeweiht.html
 
+**Date processed:** 2025-05-01
+
 ## Inspiriert durch Fussball-Übertragung
 
 Schon von der Strasse aus sind die Masten sichtbar, die auf dem Areal des agrarwissenschaftlichen Forschungsbetriebs der ETH Zürich in Lindau-Eschikon (ZH) stehen. Man fragt sich unweigerlich: Wozu sind diese da? Forschende der Gruppe für Kulturpflanzenwissenschaften der ETH Zürich haben das Geheimnis der Türme gelüftet: Am Freitag, 10. Juni, weihten sie mit einer kleinen Feier ihre Feldphänotypisierungsanlage ein. Damit geht die weltweit erste derartige Anlage in Betrieb.
@@ -9,8 +11,6 @@ Schon von der Strasse aus sind die Masten sichtbar, die auf dem Areal des agrarw
 Mit dieser Anlage werden die Wissenschaftlerinnen und Wissenschaftler Kulturpflanzen fast über das ganze Jahr hinweg genau untersuchen können. Damit wollen sie herausfinden, worin sich einzelne Sorten voneinander unterscheiden, wie lange diese bis zur Blüte brauchen oder wie die Entwicklung von der Temperatur oder Bodenfeuchte abhängt. Die Wissenschaftler untersuchen derzeit hunderte kleiner Plots verschiedener Sorten von Weizen, Soja, Mais, Buchweizen und Futtergräsern.
 
 Mit der Überwachungsanlage können die Forschenden auch erkennen, ob und wie sich Pilzkrankheiten auf den Pflanzen entwickeln oder wie viel Unkraut den Boden bedeckt. «Die Anlage hilft langfristig der Pflanzenzüchtung und der Präzisions-Landwirtschaft», fasst Achim Walter, Professor für Kulturpflanzenwissenschaften der ETH Zürich zusammen.
-
-## Prüfstand für Digitalisierung der Landwirtschaft
 
 Von ihm stammt die Idee, eine solche Feldphänotypisierungsanlage für die Nutzpflanzenforschung zu bauen. Inspiriert wurde er von «Spider Cams» – über dem Stadion schwebenden Kameras, die auch an der derzeitigen Fussball-EM verwendet werden. Diese Kameras vermitteln den TV-Zuschauerinnen den Eindruck eines Fluges über das Spielfeld.
 

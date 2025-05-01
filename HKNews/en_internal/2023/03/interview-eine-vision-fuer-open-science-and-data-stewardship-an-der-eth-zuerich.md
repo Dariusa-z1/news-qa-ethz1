@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2023/03/interview-eine-vision-fuer-open-science-and-data-stewardship-an-der-eth-zuerich.html
 
+**Date processed:** 2025-05-01
+
 ## Interview on integrating Open Science thinking into a work and team setting at ETH Zurich
 
 Open science and open research data (ORD) are two keywords that are very prominent in the Swiss and European research communities at the moment. swissuniversities and ETH Domain are also advancing these topics with their own programmes to promote open research data. But how do you integrate Open Science approaches into your day-to-day work and into the team in a research group? A discussion with Professor Elizabeth Tilley (D-MAVT, Global Health Engineering ) and Lars Schöbitz, an Open Science specialist who works in the research group, offers practical insights into these questions.
@@ -27,8 +29,6 @@ The Global Health Engineering group has successfully applied for an explore proj
 It settled on me. I have always had an affinity for computers, and had professors that naturally taught me how to manage data properly without calling it research data management. I knew how to work with spreadsheets, but in my first job realised the limitations of using spreadsheet-based software tools for my data analysis. When the R programming language was introduced to me, I was hooked by the kind community, and the concept of computational reproducibility. That was the spark; if others could verify my results, and build upon them if I published the raw data and code that produced those results, then why should I not do that!? Surprisingly (to me), not everyone thought the same way at that point, so it took me another five years to get the opportunity to try it out in Liz’s group.
 
 You’ve got to be persistent. I only know a few researchers with healthy work hours, and asking them to do something that doesn’t count towards their tenure package is obviously met with resistance. It helps to be empathetic. I try to meet people where they are and take it from there. Everything I have learned about effective teaching comes from Greg Wilson and his fabulous book “ Teaching Tech Together ”. Everything I have learned about teaching data science comes from Mine Çetinkaya-Rundel and her efforts to provide open educational material for data science .
-
-## Always up to date
 
 As part of the national ORD strategy, swissuniversities encourages universities to promote and incentivise data stewardship and ORD specialists. To promote such roles, we need role models. During our discussion about data stewardship at ETH Zurich we quickly realised that these role models already exist: Many research groups at ETH already include employees who take care of adequate research data management, reproducible data analysis or the development of code scripts. The project now allows us to support such roles and to highlight to other research groups the important work these specialists and supporters do. We see that data stewardship can and does in fact take many forms at ETH Zurich. Having an Open Science specialist employed as an integral part of a research group is one of these options and it aligns neatly with the requirements of many funders and ETH guidelines for the open availability of research data.
 

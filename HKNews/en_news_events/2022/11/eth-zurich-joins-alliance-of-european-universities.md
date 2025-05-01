@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2022/11/eth-zurich-joins-alliance-of-european-universities.html
 
+**Date processed:** 2025-05-01
+
 ## Contribution to European educational area
 
 As of today, ETH is part of the Enhance Alliance. ETH Rector Günther Dissertori signed a memorandum of understanding to that effect today in Aachen at a meeting of the rectors.
@@ -9,8 +11,6 @@ As of today, ETH is part of the Enhance Alliance. ETH Rector Günther Dissertori
 The Enhance Alliance aims to promote mobility among students and teaching staff by removing administrative hurdles and trying out new forms of mobility and cooperation.
 
 Member institutions to date include TU Berlin, Chalmers University of Technology, NTNU Trondheim, Politecnico di Milano, RWTH Aachen, Warsaw University of Technology and Universitat Politècnica de València. Together with ETH, new members TU Delft and Gdańsk University of Technology joined the alliance today.
-
-## Shared course offerings
 
 The alliance was founded as part of the European Commission’s “European Universities” initiative. This initiative was launched in order to strengthen strategic partnerships between European universities and thereby increase the global competitiveness of European higher education in the long term. According to Günther Dissertori, “We can only shape the future of university education in Europe by working together. Thanks to Enhance, ETH can play an active role in that work.”
 

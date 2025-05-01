@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2017/09/20-jahre-eth-juniors.html
 
+**Date processed:** 2025-05-01
+
 ## Mit kreativen Einfällen punkten
 
 Ein kleines Häuschen, idyllisch gelegen oberhalb des ETH-Hauptgebäudes am Zürichberg, ist die Heimat der «ETH juniors». Sie haben sich sprichwörtlich hochgearbeitet, haben sie doch zwanzig Jahre zuvor an jede Türe der ETH Zürich geklopft auf der Suche nach Räumlichkeiten, bis sie diese gefunden haben: Im Stock G des Hauptgebäudes beginnt 1997 mit fünf Gründungsmitgliedern die Erfolgsgeschichte des studentischen Vereins.
@@ -10,15 +12,11 @@ Initiant war Frank Floessel, damals ETH-Student der Elektrotechnik und Präsiden
 
 Diese Dienstleistungen können sehr unterschiedlich aussehen, von IT-Lösungen wie der Umsetzung einer App bis hin zu betriebswirtschaftlichen Marktanalysen oder Workshops. Die meisten Aufträge sind aber technischer Natur und widerspiegeln die wirtschaftlichen Herausforderungen sowie die angebotenen Studiengänge an der ETH Zürich. «Denn Unternehmen schätzen besonders das technische Know-how der Studierenden bei neueren Technologien wie dem maschinellen Lernen oder Big Data», sagt Robin Bloch, aktueller Präsident der «ETH juniors». Zudem würden die Studierenden mit kreativen Einfällen bei den Auftraggebern punkten, führt Bloch weiter aus.
 
-## Grosses Potenzial in der IT-Branche
-
 Der Präsident leitet die «ETH juniors» zusammen mit neun anderen Studierenden. Neben ihren jeweiligen spezifischen Aufgaben sind alle zehn Geschäftsmitglieder für die Betreuung von Kundenaufträgen zuständig. Sie organisieren Meetings mit dem Kunden und suchen gleichzeitig passende, studentische Mitarbeitende. Die Mitglieder sind laut Bloch darum bemüht, dass ihr Verein eine «Unternehmensschule » mit «Start-up-Kultur» ist. So verwundert es nicht, dass sich viele Juniors später selbstständig machen oder sich mit anderen Ehemaligen für eine Firmengründung zusammentun. Beispiele solcher Zusammenschlüsse sind die Start-ups Tempobrain, Climeworks oder GetYourGuide.
 
 So bezeichnet auch Gründer Floessel den Vereinszweck nicht nur als Unternehmungsberatung, sondern auch als Talentschmiede für Studierende, und zeigt sich von der Arbeit seiner Nachfolger begeistert: «Jedes Mitglied übernimmt grosse Verantwortung – es ist daher auch nicht einfach, immer wieder so passionierte Studierende zu finden. Ich bin sehr stolz.» Doch Talent und Motivation reichen nicht aus. Hilfreich war auch die anfängliche finanzielle Unterstützung der ETH und die Vorteile, die es mit sich bringt, den prestigeträchtigen ETH-Brand nutzen zu dürfen.
 
 Floessel und seine Kollegen waren allerdings so erfolgreich, dass sie bereits ab dem ersten Geschäftsjahr finanziell unabhängig waren. Früher zahlten sie sich den Überschuss aus, heute wird ein Teil davon in einen eigenen Fonds investiert. «Damit möchten wir Start-ups und andere Projekte von ehemaligen Juniors finanziell unterstützen », sagt Bloch über den neu geschaffenen «jFund». Erstes Erfolgsbeispiel ist das Jungunternehmen Careship, eine Webplattform für den Seniorenbereich, die stundenweise Betreuungsangebote vermittelt. Das Start-up erhielt nach der ersten finanziellen Unterstützung der Juniors nun auch vier Millionen Dollar eines Investors.
-
-## Magazin Globe
 
 Es ist vielleicht kein Wunder, dass das erste Start-up, das der Fund unterstützt, aus dem IT-Bereich stammt. Junge Menschen sind meistens mit den neuen technischen Errungenschaften aufgewachsen und mit der digitalen Welt vertraut. Etablierten Firmen fehlt dagegen oftmals das Wissen um die neuste Technik.
 

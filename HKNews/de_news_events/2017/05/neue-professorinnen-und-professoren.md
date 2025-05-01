@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2017/05/neue-professorinnen-und-professoren.html
 
+**Date processed:** 2025-05-01
+
 ## Ernennungen
 
 An seiner Sitzung vom 17. Mai. 2017 hat der ETH-Rat auf Antrag des Präsidenten der ETH Zürich, Lino Guzzella, 15 Personen zur Professorin, respektive zum Professor ernannt und den Rücktritt von einem Professor mit Verdankung zur Kenntnis genommen.
@@ -36,8 +38,6 @@ Prof. Dr. Torsten Hoefler (*1981), zurzeit Tenure-Track-Assistenzprofessor an de
 
 (Bild: z.V.g.)
 
-## Verabschiedung
-
 Dr. Stefanie Jonas (*1980), zurzeit Postdoktorandin an der ETH Zürich, zur Assistenzprofessorin für RNA-Biologie und Krankheitsmechanismen. Stefanie Jonas beschäftigt sich in ihrer Forschung mit der Regulation und Prozessierung von Ribonukleinsäuren (RNA) sowie deren Einbau in zelluläre RNA-Protein-Maschinerien in menschlichen Zellen. Diese Prozesse sind von substantieller Bedeutung bei genetischen Erkrankungen und Krebs. Stefanie Jonas’ Resultate schaffen unter anderem Grundlagen für potenzielle Therapieansätze in diesen Gebieten. Mit ihrer Ernennung zur Assistenzprofessorin verstärkt die ETH Zürich die wichtige Forschung auf dem Gebiet der RNA-Biologie mit besonderem Fokus auf pathogenetisch relevante Zusammenhänge.
 
 (Bild: z.V.g.)
@@ -65,6 +65,8 @@ Dr. Simone Schürle (*1985), zurzeit Postdoktorandin am Massachusetts Institute 
 Prof. Dr. Eftychia Vayena (*1972), zurzeit SNF-Förderungsprofessorin an der Universität Zürich, zur ordentlichen Professorin für Bioethik. Eftychia Vayena ist eine international gefragte Expertin für ethische Fragestellungen in Zusammenhang mit der digitalen Revolution im Gesundheitswesen. Sie untersucht etwa, welche Rechte dem Individuum an den eigenen Genom- und Gesundheitsdaten zustehen. Speziell interessiert sie die zunehmende Bedeutung der persönlichen Daten, die über Smartphone-Sensoren erhoben werden. Mit der Berufung von Eftychia Vayena unterstreicht die ETH Zürich die Bedeutung der Gesundheitsethik, insbesondere im Hinblick auf die anstehende Ausbildung von Medizinstudierenden und stellt die Verbindung zum strategischen Forschungsschwerpunkt Big Data her.
 
 (Bild: Giulia Marthaler)
+
+## Verabschiedung
 
 Prof. Dr. Marcy Zenobi-Wong (*1963), zurzeit Tenure-Track-Assistenzprofessorin an der ETH Zürich, zur ausserordentlichen Professorin für Gewebetechnologie und Biofabrikation. Marcy Zenobi-Wongs Forschungsinteressen liegen im Bereich der Biomechanik von Knorpelgeweben. Sie verfügt über die aussergewöhnliche Fähigkeit, mechanische und biologische Sicht­weisen zu kombinieren. Dies erlaubt ihr, innovative Wege zu gehen, um neuestes Wissen in der Zell- und Mechanobiologie auf regenerative Methoden in der Gewebetechnologie anzuwenden. Damit ist sie in einer exzellenten Position, um im Department Gesundheitswissenschaften und Technologie der ETH Zürich eine Schlüsselrolle in der Gewebe- und Knorpeltechnologie einzunehmen.
 

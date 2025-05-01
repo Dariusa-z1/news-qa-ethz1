@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2021/06/were-all-greeks.html
 
+**Date processed:** 2025-05-01
+
 ## What influences thinking
 
 Should he study history or physics? As a teenager in Athens in the 1970s, Konstantinos Boulouchos was interested in so many things. But while the humanities seemed a bit of a dead end, he was told a physics degree was only good for becoming a teacher, an idea he didn’t quite like either. “And today I find nothing more important than educating young people,” laughs Boulouchos.
@@ -10,23 +12,21 @@ The ETH professor is full of enthusiasm when he talks about his students. As a y
 
 But first, back to the beginning. Born in Chalkis in 1955, Boulouchos decided to study mechanical engineering at the National Technical University of Athens and came to ETH in 1978, where he completed his doctorate in thermodynamics and combustion engines in January 1984. Following a period of research at Princeton University, Boulouchos returned to ETH Zurich in 1988, where he researched computer-aided simulation methods and non-contact, mostly laser-optical, measurement techniques. It is this combination of experimental approaches and simulations that led to his appointment as Head of the Combustion Research Laboratory at the Paul Scherrer Institute (PSI) in 1995, and his coordination of the joint programme for combustion research by ETH Zurich and PSI until 2005.
 
-## 2,000 watts, or a tonne of CO2?
-
 Switzerland has long since become a second home for the professor, who has held Swiss citizenship since 1997. Where does Boulouchos see the biggest differences between Greece and Switzerland? Naturally, in Switzerland everything is more orderly and structured and hence more reliable, he says. But at the end of the day, we are all Greeks, says the professor with a smile. He means this philosophically, like so much of the conversation: “The Greeks Aristotle, Heraclitus and Democritus influenced all our thinking. Logical methodology, the empirical testing of established opinions and doctrines dominate not only, but of course especially, the world of science.” For him, however, it was vital to supplement the thinking of the ancient Greeks with ideas from Eastern philosophy. What particularly fascinates Boulouchos, who loves Japan, is thinking in complex systems: “In Eastern philosophy, humans see themselves as part of a larger system, not only in space, but also in the course of time.”
 
 Konstantinos Boulouchos. (Photograph: ETH Zurich / Daniel Winkler)
 
+## 2,000 watts, or a tonne of CO2?
+
 It was this systemic approach that shaped his research and activities from the 2000s. It all started by accident. The then Vice President for Research, Professor Ulrich Suter, asked Boulouchos over a beer if he actually knew how many professors at ETH were researching energy-related issues. “Clear proof of the importance of direct and informal exchange,” says Boulouchos with a little irony given the current claims that we can all work remotely. A survey of the 360 or so professors at the time revealed an unexpected result – about 40 were researching in different sub-areas, but all independently of each other. And so the idea of the Energy Science Center (ESC) was born; it was founded in time for ETH’s 150th anniversary in 2005 and headed by Boulouchos until the end of 2011.
 
-## Switzerland’s energy future after Fukushima
-
 In 2008, the ESC published the study “Energy Strategy for ETH Zurich”, which was intended to herald a paradigm shift. The ETH Domain had been a strong supporter of the 2,000-watt society, a concept that had been adopted by many communes and administrations and had helped to shape future plans. It soon became clear to Boulouchos that focusing only on the energy aspect was not enough: “The real problem even then was the CO 2 emissions, which was why we posited the idea. Although we need to reduce our energy needs, what matters most is where the energy comes from."
+
+## Switzerland’s energy future after Fukushima
 
 However, it is now clear that one tonne of CO 2 per person is not enough to stop climate change. Greenhouse gas emissions are to be reduced to practically zero by about 2050. The question of which technological and economic innovations, energy policy instruments and changes in individual behaviour this will involve will keep the professor busy for some time to come.
 
 Another literally seismic event took place during Boulouchos’s time as Head of the ESC. On 11 March 2011, the earth shook in Japan and resulted in the nuclear disaster in Fukushima. The risk of an accident happening in a nuclear power plant is very small, but Fukushima showed us how dangerous it can be if the unlikely event does occur." This called nuclear energy into question in a fundamental way, and the pressure was on for the ESC to provide answers. Boulouchos and his colleagues presented the study “Energy Future Switzerland” just six months after the accident. The study concluded that a gradual withdrawal from nuclear energy in Switzerland, although very challenging, was in principle technologically and economically feasible.
-
-## How political should science be?
 
 Federal Councillor Doris Leuthard set up an Advisory Board for the Energy Strategy 2050, of which Boulouchos was one of 18 members. In 2014 he was also appointed Head of the Swiss Competence Center for Energy Research – Efficient Technologies and Systems for Mobility (SCCER Mobility) and in 2018 president of the permanent Energy Commission of the Swiss Academies of Arts and Sciences. These functions have enabled him to play a decisive role in shaping Switzerland’s energy future, even after handing over the reins of the ESC at ETH. But is it politics or science?
 

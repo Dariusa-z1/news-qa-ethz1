@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2023/02/geerdeter-atmosphaerenforscher.html
 
+**Date processed:** 2025-05-01
+
 ## Durch linke Universitätsstadt geprägt
 
 Von Thomas (Tom) Peters Büro hat man eine atemberaubende Sicht auf die Stadt Zürich, den See, den Üetliberg und die Albiskette bis weit in die Alpen. Der Raum zuoberst im Turm des CHN-​Gebäudes der ETH Zürich bietet jedoch nicht nur ein bombastisches Panorama, sondern ist geradezu sinnbildlich für das Forschungsgebiet, welches Peter in den vergangenen 24 Jahren an der ETH verfolgt hat: Atmosphäre und Klima.
@@ -10,23 +12,19 @@ Trotz seines Refugiums in wolkiger Höhe hat der ETH-​Professor für Atmosphä
 
 Seine wissenschaftliche Karriere startete der heute 65-​Jährige in seiner Heimatstadt Marburg, wo er Physik studierte. Nach einem Studienjahr in den USA kehrte er nach Deutschland zurück und doktorierte 1988 in Plasma-​ und Atomphysik an der TU München.
 
-## Von der Fusionsforschung zur Atmosphärenchemie
-
 Sein Herkunftsort Marburg prägte Tom Peter. Die Stadt sei wegen der Universität immer radikal links gewesen, und von dieser Radikalität habe er sich als Student anstecken lassen. «Allerdings war ich radikal grün und pazifistisch», sagt er. Natürlich folgen Anekdoten: Zur Zeit des Waldsterbens in den frühen 1980er-​Jahren sei er auf die Strasse gegangen und habe den Leuten erklärt, wie Angsttriebe an kranken Bäumen aussehen.
 
 Mitte der 1980er-​Jahre, als er im Rahmen seiner Doktorarbeit mit Hochleistungslasern arbeitete, gehörte er zu den Initianten eines offenen Briefes an den deutschen Bundeskanzler Helmut Kohl, in welchem er die Mitarbeit an US-​Präsident Ronald Reagans Strategic Defense Initiative (SDI), der «Illusion eines Schutzschildes» gegen nuklear bewaffnete Raketen, ablehnte.
 
 «Diese Vorstellung war für uns so einschneidend, dass es eine starke Antwort brauchte», erinnert er sich. Der offene Brief, den 350 Wissenschaftler:innen unterschrieben, wirbelte viel Staub auf. «Der Medienrummel war riesig, so dass wir zwei Wochen lang nicht mehr normal arbeiten konnten», schmunzelt er.
 
-## Der Ort, wo chemische Prozesse ablaufen
-
 Wenige Zeit später vollzog Peter auch einen radikalen Kurswechsel in seiner Forschung: Er arbeitete an Themen der Inertialfusion, von der man hoffte, dass sie eines Tages unser Energieproblem lösen könnte und hatte bereits ein Dutzend viel beachtete Artikel zu Fusionsplasmen publiziert, als im klar wurde, dass es ein steiniger Weg sein würde, bis diese Energieform genutzt werden könnte – wenn überhaupt. Und wenn, dann könnten es sich nur technisch hoch entwickelte, reiche Länder leisten. «Deshalb entschloss ich mich für ein ganz anderes Feld: die Atmosphärenforschung, denn an Umweltthemen war ich schon immer interessiert.»
+
+## Der Ort, wo chemische Prozesse ablaufen
 
 1990 wechselte Peter ans Max-Planck-Institut für Chemie in Mainz, in die Abteilung des späteren Nobelpreisträgers Paul Crutzen. Dort begann er mit Arbeiten zum stratosphärischen Ozons und zu den Prozessen, welche die Ozonschicht zerstören, die uns vor UV-Strahlung schützt. Besonders interessierten ihn dabei Aerosol- und Wolkenpartikel und die Frage, unter welchen Umständen sie zu Gehilfen des ozonzerstörenden, menschgemachten Chlors in der Stratosphäre würden.
 
 Generell ist die Stratosphäre so trocken, dass dort keine Wolken vorkommen. Nur wenn es im Winter in der Stratosphäre über den Polen sehr kalt wird, können sich Wolken bilden.
-
-## Transportbehälter von Umweltgiften
 
 Zusammen mit seinen Kolleg:innen fand Peter heraus, dass die Stratosphärenwolken erstaunlicherweise meistens nicht aus Eispartikeln, sondern aus hochkonzentrierten Salpetersäuretröpfchen bestehen. Dass bei Temperaturen um –85°C flüssige Tröpfchen in der Atmosphäre existieren sollten, hatte man nicht erwartet. Niemand glaubte ihnen zu Beginn.
 
@@ -34,31 +32,25 @@ Tatsächlich erwiesen sich aber genau diese Salpetersäuretröpfchen als der Ort
 
 «Aber», sagt Peter, «es sind nicht die Wolken aus Salpetersäuretröpfchen selbst, die das Ozon zerstören, sondern das Chlor, das aus den von uns emittierten, langlebigen Fluor-Chlor-Kohlenwasserstoffen stammt. Die Wolken sind nur die Handlanger des Chlors».
 
-## Grounding des Luftverkehrs
-
 Der Atmosphärenchemiker erwarb sich in seinem «neuen» Feld rasch Expertise und war aufgrund dessen viele Jahre als Ko-Autor der Ozone Assessment Reports zum Zustand der Ozonschicht im Rahmen des Montreal-Protokolls tätig, manchmal an mehreren Kapiteln gleichzeitig. «Viel Arbeit», sagt er, «aber äusserst interessant. »
 
 Die Stratosphäre blieb für Peters Arbeitsgruppe immer interessant. Hinzu kamen Arbeiten über das troposphärische Aerosol: Wie kann aus der komplexen Zusammensetzung organischer Aerosole Einfachheit entstehen? Welche fundamentalen physikalischen und chemischen Eigenschaften haben sie?
 
 Peters Gruppe zeigte, dass organische Aerosolpartikel unter trockenen Bedingungen in der Troposphäre glasförmig werden können. «Stellen Sie sich vor, Sie hätten ein miniaturisiertes Hämmerchen. Damit könnten Sie ein gläsernes, Mikrometer grosses Teilchen in viele Splitter zerschlagen», sagt Peter. Die «Verglasung» der Aerosole verlangsamt die physikalischen und chemischen Prozesse, die in den Partikeln ablaufen.
 
-## Aerosole als Klimaretter?
-
 Aus den glasförmigen Aerosolteilchen können weder darin eingeschlossene organische Moleküle noch Wasser entweichen. Erst wenn die Bedingungen an einem anderen Ort der Atmosphäre feuchter werden, wird die Aerosolhülle wieder flüssig und durchlässig. «Wir schliessen daraus, dass gewisse organische Aerosolteilchen perfekte Transportbehälter für flüchtige organische Verbindungen sein können, zum Beispiel für Umweltgifte wie krebserregende Polyaromate oder DDT. Die Glashülle kann diese Stoffe vor Abbauprozessen in der Luft schützen und so zu deren weltweiter Verteilung beitragen», sagt Peter.
 
 In lebhafter Erinnerung ist ihm auch ein Thema, das ihm zwar «keine hochtrabende Publikation» eingebracht habe, dafür aber für die Öffentlichkeit sehr relevant war: Als 2010 der Vulkan Eyjafjallajökull auf Island ausbrach, nahmen Peter und seine Mitarbeitenden sofort Messungen mit ballongetragenen optischen Instrumenten auf, die in seiner Gruppe entwickelt wurden. «Damit identifizierten wir dünne Schichten glashaltiger Vulkanascheteilchen in zwei bis sechs Kilometer Höhe über Zürich, die Flugzeugtriebwerke lahmlegen können.»
 
-Diese Messung war einzigartig. Sie wurde zuerst in den ETH-​News veröffentlicht, «hat aber beim Bundesamt für Zivilluftfahrt, dem Bazl, voll eingeschlagen», erzählt er. «Sie riefen mich in aller Herrgottsfrühe an einem Sonntag an und wollten wissen, ob diese Aerosol-​Schicht den Flugverkehr gefährde». Das Amt hat danach das Flugverbot über der Schweiz für eine Woche verlängert.
+## Aerosole als Klimaretter?
 
-## Säuren gegen Viren im Atemaerosol
+Diese Messung war einzigartig. Sie wurde zuerst in den ETH-​News veröffentlicht, «hat aber beim Bundesamt für Zivilluftfahrt, dem Bazl, voll eingeschlagen», erzählt er. «Sie riefen mich in aller Herrgottsfrühe an einem Sonntag an und wollten wissen, ob diese Aerosol-​Schicht den Flugverkehr gefährde». Das Amt hat danach das Flugverbot über der Schweiz für eine Woche verlängert.
 
 Die von seiner Gruppe gebauten Balloninstrumente sind weltweit erfolgreich: Sie wurden in den letzten 15 Jahren über 600-​mal eingesetzt, in 15 Ländern und Regionen von Spitzbergen über die Tropen bis nach Neuseeland.
 
 Mit globalen Chemie-Klima-Modellen scheuten sich Peter und seine Mitarbeiter:innen auch nicht, das ethisch heikle Thema anzugehen, ob gezielt in die Stratosphäre eingebrachte Aerosole zur Kühlung des Klimas genutzt werden könnten. «Leider vergeht Jahr um Jahr, ohne dass wir die dringend nötigen Reduktionen der CO 2 -Emissionen in die Wege leiten», sagt Peter.
 
 Er findet es daher besser, künstliche Methoden zur Klimakühlung zu erforschen und zu verstehen, und sei es nur, um sich aufgrund möglicher gravierender Nebenwirkung gegen ihren Einsatz auszusprechen. «Die Risikoabwägung eines Einsatzes des Geoengineerings gegenüber dessen Unterlassung ist schwierig. Sie kann aber nur gelingen, wenn wir die Auswirkungen verstehen – zumindest im Modell.»
-
-## Schwerarbeit im eigenen Department
 
 Kurz vor seiner Emeritierung ist eine Studie erschienen, die Tom Peter als weiteren Höhepunkt seiner Laufbahn bezeichnet: Diese Studie begann 2017 in einem schweizerischen Forschungskonsortium und läuft noch immer auf Hochtouren. Das Konsortium untersucht die Frage, wie lange Viren in ausgeatmeten Aerosolpartikeln infektiös bleiben und wodurch sie inaktiviert werden ( ETH News vom 21.12.22). Ihr Fazit: Ausgeatmete Partikel nehmen rasch Säuremoleküle aus der Luft auf, die Viren gründlich inaktivieren können. Diese Studie hat direkte praktische Implikationen, nämlich häufig zu lüften, wodurch Säuremoleküle von der Aussenluft nach innen Raumluft gelangen, oder sogar die gezielte Anreicherung der Raumluft mit geringen Säuremengen, um so die Viren rasch zu eliminieren.
 

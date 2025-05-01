@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2017/07/orientation-on-data-management-plans-for-snsf-grants.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH Library’s Digital Curation Office , together with Scientific IT Services (external link) , informed the ETH researchers and answered their questions at an information event.

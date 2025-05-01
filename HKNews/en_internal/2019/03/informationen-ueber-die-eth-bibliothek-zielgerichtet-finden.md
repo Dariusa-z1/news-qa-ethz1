@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2019/03/informationen-ueber-die-eth-bibliothek-zielgerichtet-finden.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 From now on, not only will you be able to find documents on the Search Portal , but also selected information about ETH Library and its services.

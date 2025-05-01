@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2014/07/following-his-gut-instinct.html
 
+**Date processed:** 2025-05-01
+
 ## Stylish Germany
 
 “It was the first game of this kind that I’ve ever taken part in,” said Mariusz Frukacz, after the 37-year-old Post Doc at the Institute of Geodesy and Photogrammetry (D-BAUG) won the ETH community’s World Cup predictor game. The prizes for first place – a cup and an iPad – were presented to him last Tuesday.
@@ -11,8 +13,6 @@ In actual fact, Frukacz admits to being more interested in culture than sport. A
 “But when I received the e-mail saying that there was going to be a World Cup predictor game at ETH, I thought it would be fun to enter a competition just against other members of ETH Zurich,” he said. Entering also gave him a reason for taking more of an interest in the World Cup, he said, despite the fact that Poland, twice bronze medal winners, failed to qualify this time round.
 
 “When I noticed that I was doing quite well with my predictions, I started to analyse matches and read articles about them. But I always relied more on my gut instinct than on a strategy when making my predictions.”
-
-## ETH’s predictor game a success
 
 Of course, a few times he was totally wide of the mark, for example with one of the bonus questions that had to be answered before the World Cup started: “I thought Brazil would win the World Cup, but even after their very first match I realised my prediction had been wrong.”
 

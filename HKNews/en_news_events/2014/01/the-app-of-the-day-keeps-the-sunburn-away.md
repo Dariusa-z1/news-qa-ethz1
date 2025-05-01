@@ -2,19 +2,21 @@
 
 **Source:** en_news_events/2014/01/the-app-of-the-day-keeps-the-sunburn-away.html
 
-## Preventive measures
+**Date processed:** 2025-05-01
+
+## Main article
 
 We’ve all experienced it before: that rush and excitement to board the plane or pack the car and quickly escape the heavy load of grey skies, long office hours and household chores that never seem to end. Destination – paradise! Which nine times out of ten means a place sous le soleil. Whether you end up on the white sandy beaches of the Maldives or on the white powdery slopes of Zermatt, bathing in the sun with shades on and a cocktail in your hand is most likely part of the holiday plan.
 
 The Sunbuddy app with the corresponding sensor (right). (Photo: Bitsplitters)
+
+## Preventive measures
 
 But at what point does the fun in the sun become a burning nightmare? Or, how do you know when you’ve reached your limit of UV intake? ETH spin-off Bittsplitters set out to answer this question when they launched the first prototype of SunBuddy in April 2013. “SunBuddy is a UV radiation awareness system that tracks and measures sunlight exposure in real-time with a sensor and a smartphone application”, explains Samuel Welten, one of the founders.
 
 The more vitamin D your body gets from sunlight, the better? Well, not exactly. It’s true that the body produces vitamin D when skin is directly exposed to the sun, and most people meet at least some of their vitamin D requirements in this way. However, while sunlight is essential to vitamin D synthesis, overexposure is dangerous.
 
 Unfortunately, most of us are all too familiar with the sunburn scenario. Looking like a red-faced raccoon may be a hilarious sight but sunburns can inflict serious and permanent damage to your skin. Even if you don't get burned, a high amount of UV radiation can accelerate the rate at which your skin ages, or worse, lead to skin cancer. In fact, skin cancer is the most common form of cancer, and it is mainly caused by the UV radiation contained in sunlight.
-
-## SunBuddy to watch over us
 
 Taking preventive measures such as staying indoors or wearing protective clothing and applying sunscreen with at least a sun protection factor (SPF) of 8 when out in the sun for more than a few minutes can effectively reduce UV absorption, lowering the risk of skin cancer.
 

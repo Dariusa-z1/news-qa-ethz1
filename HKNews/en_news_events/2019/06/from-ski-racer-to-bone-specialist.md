@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2019/06/from-ski-racer-to-bone-specialist.html
 
+**Date processed:** 2025-05-01
+
 ## From the ski slope to the lecture hall
 
 Thomas Zumbrunn’s childhood in Meiringen, in the Bernese Oberland, was the perfect setting for someone destined to become a ski racer: born in a mountainous region, virtually with a pair of skis on his feet. As soon as he could walk, he immediately took to the slopes under the expert guidance of his parents, both ski instructors.
@@ -13,8 +15,6 @@ Thomas Zumbrunn does not spend long dwelling on his fate. Fall down, get back up
 When he received an athletic scholarship at the University of Utah, Zumbrunn spent the mornings at university and the afternoons on the slope, and eventually completed his Bachelor’s degree from ETH. He then continued with a Master’s program in biomedical engineering in Salt Lake City.
 
 It was the perfect lifestyle for him. “This combination of study and sport was ideal for me,” he says, almost with a sense of enthusiasm.
-
-## The bone puzzle
 
 He realised his sports career was over, after competing in the winter Universiade in Turkey in 2011. Having decided to pursue his professional career, things weren’t easy initially. Eventually, however, he found his dream job at Massachusetts General Hospital in Boston, the teaching hospital for the renowned Harvard University. “I had an incredible time working with clinicians and scientists on the innovation and development of new orthopaedic implants,” he recounts.
 

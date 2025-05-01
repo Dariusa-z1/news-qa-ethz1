@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2023/03/chatgpt-und-co-in-der-lehre-refresh-teaching-anlass-am-28-maerz.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Der Rektor Günther Dissertori lädt Dozierende ein, das Thema KI in der Lehre beim Refresh-Teaching-Anlass vom 28. März um 12:15 zu diskutieren.

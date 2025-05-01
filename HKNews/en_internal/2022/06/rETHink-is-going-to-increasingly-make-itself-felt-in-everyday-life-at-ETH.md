@@ -2,7 +2,9 @@
 
 **Source:** en_internal/2022/06/rETHink-is-going-to-increasingly-make-itself-felt-in-everyday-life-at-ETH.html
 
-## Questions about rETHink?
+**Date processed:** 2025-05-01
+
+## Main article
 
 Mr Mesot, after taking office as President of ETH, you launched the rETHink project with the aim of ensuring that the university and its members can retain their autonomy and freedom. This touches on topics like ownership, leadership and feelings of affiliation with ETH. Things seem to have slowed down, however, following initial broad-based discussions about the university’s values and the presentation of areas for action. Is the project stumbling a bit? Joël Mesot: It’s true that there hasn’t been much news published about rETHink recently. Paradoxically, this is because the project is taking shape, and the participants are now developing concrete solutions. Before we introduce these new ideas to all of ETH, we’d like to sound them out with stakeholder groups and in various participatory bodies.
 
@@ -14,9 +16,9 @@ Can you already tell us something about this model? Yes, I’m really enthusiast
 
 What other progress has the project made? One of the most important questions when it comes to organising an institution like ETH is how to split up roles and responsibilities between the three main arms of the university: the professorships, the academic departments and the Executive Board, including the central administrative units. And it’s becoming increasingly clear that if we want to achieve our chief aim of retaining our autonomy and freedom, we need to strengthen the role of the academic departments and to define the interactions between the three levels more clearly.
 
-Do you have any questions about this article? Or perhaps questions about rETHink that others might also find interesting? If so, please send a short email to .
+## Questions about rETHink?
 
-## Always up to date
+Do you have any questions about this article? Or perhaps questions about rETHink that others might also find interesting? If so, please send a short email to .
 
 The project leads will answer questions from the ETH community in an Internal news article.
 

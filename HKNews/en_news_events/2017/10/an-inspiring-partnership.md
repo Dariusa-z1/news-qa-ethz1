@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2017/10/an-inspiring-partnership.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH News: Professor Hierold, a symposium will take place tomorrow, Tuesday, at ETH Zurich on the Binnig and Rohrer Nanotechnology Center (BRNC), which is run jointly by ETH Zurich and IBM in Rüschlikon. What is the background to this event? Christofer Hierold: We started talks with IBM about ten years ago to jointly build a new research platform in the field of semiconductor nanotechnology. The result was the BRNC, which opened in Rüschlikon more than six years ago. The centrepiece is a large cleanroom facility, which we share; in addition, there are laboratories and offices for research groups from ETH Zurich and IBM. Empa is also a partner in the BRNC. Now is the ideal time for us to take stock and look to the future.
@@ -19,6 +21,8 @@ And how are these translated into practical applications? This of course differs
 How is the BRNC positioned on the international stage? We are very well positioned internationally. Although we have not installed a standard CMOS process for chip production, as it would not make sense for a research laboratory, we have the most advanced unit processes, such as 3D nanoprinting and chemical vapour deposition for 2D crystals. However, we must be careful to maintain our position. Other universities and institutes – for example, in China and the US – are currently investing in new technology platforms. The BRNC was opened ten years after FIRST and has been in operation for six years now. We therefore should urgently clarify our needs for the time in five or ten years.
 
 How do you see the future? In the longer term, we will need cleanrooms and laboratories that can do more than they do today; for example, where a wide variety of materials can be combined, including functional polymers and biological materials, which are not well tolerated in cleanrooms today. Some processes and analysis tools also require a particularly low noise environment; i.e. shielding from mechanical, acoustic and electromagnetic interference in order to achieve control on an atomic scale. We have also found that it is a bit short-term to plan a cleanroom facility of a fixed size; possible extensions should be taken into account from the beginning.
+
+## About Christofer Hierold
 
 Christofer Hierold is a Professor of Micro and Nanosystems at the Department of Mechanical and Process Engineering. His research focuses on the evaluation of new materials for micro-electromechanical systems and sensors made from carbon nanotubes. He is part of the FIRST lab’s management team and represents ETH Zurich on the BRNC’s management team as coordinator.
 

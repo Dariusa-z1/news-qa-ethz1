@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2021/03/questions-raised-about-the-two-surveys-among-eth-employees.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH President Joël Mesot had announced them in an e-mail: the two surveys that were launched within a week. On 23 March, the consulting firm Empiricon sent an e-mail with a link to the employee survey; yesterday, Tuesday 30 March, the market and social research institute gfs-zürich called on people to take part in a survey on internal communication.

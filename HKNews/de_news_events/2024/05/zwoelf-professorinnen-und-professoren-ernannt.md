@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2024/05/zwoelf-professorinnen-und-professoren-ernannt.html
 
+**Date processed:** 2025-05-01
+
 ## Neuernennungen ETH Zürich
 
 (Foto: WSS, Oliver Lang Fotografie)
@@ -22,8 +24,6 @@ Prof. Dr. Joaquim Serra (*1986), zurzeit Assistenzprofessor an der ETH Zürich, 
 
 (Foto: privat)
 
-## Beförderungen ETH Zürich
-
 Prof. Dr. Sobhan Seyfaddini (*1982), zurzeit Directeur de Recherche am Centre national de la recherche scientifique (CNRS) und an der Université d’Orsay in Paris, zum ordentlichen Professor für Mathematik am Departement Mathematik. Sobhan Seyfaddini beschäftigt sich mit symplektischer Geometrie und Topologie, einem relativ jungen Zweig der Mathematik, der eine geometrische Sprache zum Studium der klassischen Mechanik liefert. Sein Schwerpunkt liegt auf der sogenannten C^0-symplektischen Topologie. Sobhan Seyfaddini hat massgeblich zur Entwicklung dieses Forschungsgebiets beigetragen und wurde mehrfach ausgezeichnet, unter anderem mit einem ERC Starting Grant. Am Departement Mathematik wird er den Fachbereich Geometrie, insbesondere auf dem Gebiet der symplektischen Topologie, verstärken.
 
 (Foto: IST Austria)
@@ -34,6 +34,8 @@ Dr. Barbora Trubenová (*1984), zurzeit Postdoktorandin an der ETH Zürich, zur 
 
 Dr. Cornelia W. Twining (*1989), zurzeit Postdoktorandin an der Eawag, zur Assistenz­professorin für Nahrungsnetz Ökophysiologie am Departement Umweltsystemwissenschaften. Cornelia W. Twining befasst sich in ihrer Forschung mit der Frage, wie sich Organismen an räumlich-zeitliche Schwankungen ihrer Ernährungslandschaft anpassen und wie sich der globale Wandel auf die Nährstoffflüsse in und zwischen Ökosystemen auswirkt. Aktuell widmet sie sich dem Einfluss des Klimawandels auf die Phänologie und den Ernährungsstoffwechsel von Wasserinsekten. Cornelia W. Twining bringt Kooperationen mit der Eawag, wo sie zusätzlich als Gruppenleiterin tätig sein wird, und der WSL an die ETH Zürich und wird das Departement Umweltsystemwissenschaften mit ihrer disziplinären Expertise verstärken.
 
+## Beförderungen ETH Zürich
+
 (Foto: ETH Zürich)
 
 Prof. Dr. Florian Dörfler (*1982), zurzeit ausserordentlicher Professor an der ETH Zürich, zum ordentlichen Professor für Komplexe Regelsysteme am Departement Informationstechnologie und Elektrotechnik. Florian Dörfler ist ein international anerkannter Experte auf dem Gebiet der automatischen Steuerung, Systemtheorie und Optimierung. Sein Forschungsschwerpunkt liegt auf der Entscheidungsfindung in komplexen Systemen und zielt auf die Entwicklung von Methoden in den Bereichen Kontrolle, Optimierung, Spieltheorie und Lernen. Seine Methoden kommen unter anderem in industriellen Umgebungen, insbesondere im Bereich der Strom­versor­gungs­systeme, zum Einsatz. Florian Dörfler hat vielfach in hochrangigen Zeitschriften publiziert und zahlreiche Auszeichnungen erhalten. Zudem hat er sich als fesselnder Redner und engagierter Lehrer einen Namen gemacht.
@@ -41,8 +43,6 @@ Prof. Dr. Florian Dörfler (*1982), zurzeit ausserordentlicher Professor an der 
 (Foto: ETH Zürich / Giulia Marthaler)
 
 Prof. Dr. Giacomo Indiveri (*1967), zurzeit ausserordentlicher Professor an der Universität Zürich sowie an der ETH Zürich, zum ordentlichen Professor für Neuromorphische Kognitive Systeme am Departement Informationstechnologie und Elektrotechnik. Giacomo Indiveri ist ein weltweit führender Experte auf dem Gebiet des neuromorphen Computing. Er studiert biologische und künstliche neuronale Verarbeitungs­systeme und baut neuromorphe kognitive Hardwaresysteme. Aufgrund der zunehmenden Verwendung künstlicher neuronaler Netze ist das Neuromorphic Engineering von grosser gesellschaftlicher Bedeutung und hat Auswir­kungen auf die Robotik und die personalisierte Medizin. Giacomo Indiveri verfügt über eine herausragende Publikationsbilanz und hat zahlreiche Auszeichnungen erhalten, unter anderem 2017 einen ERC Consolidator Grant. Er wird weiterhin im Rahmen einer Doppelprofessur an der Universität und ETH Zürich tätig sein.
-
-## Verleihung des Titels «Professorin» oder «Professor»
 
 (Foto: ETH Zürich / Giulia Marthaler)
 
@@ -56,13 +56,13 @@ Prof. Dr. Bruno Studer (*1977), zurzeit ausserordentlicher Professor an der ETH 
 
 Prof. Dr. Barbara Treutlein (*1982), zurzeit ausserordentliche Professorin an der ETH Zürich, zur ordentlichen Professorin für Quantitative Entwicklungsbiologie am Departement Biosysteme. Barbara Treutlein ist eine führende Wissenschaftlerin auf dem Gebiet der quantitativen Entwicklungsbiologie und widmet ihre Forschung dem Verständnis der menschlichen Ontogenese. Sie untersucht etwa die Bildung menschlicher Organoide, um das Fehlschlagen von Prozessen im Krankheitsfall zu verstehen und um die Entwicklung von Organoiden in vitro so zu beeinflussen, dass sie den realen Geweben besser entsprechen. Barbara Treutlein ist Mitglied in mehreren prestigeträchtigen Ausschüssen und Berufungskommissionen, und sie hat für ihre Forschung zahlreiche Auszeichnungen erhalten, darunter einen ERC Starting Grant sowie einen ERC Synergy Grant.
 
+## Verleihung des Titels «Professorin» oder «Professor»
+
 (Foto: ETH Zürich / Giulia Marthaler)
 
 Dr. Jake Alexander (*1980), zurzeit Dozent und Senior Scientist an der ETH Zürich, zum Titularprofessor am Departement Umwelt­systemwissenschaften der ETH Zürich. Jake Alexander ist ein international anerkannter Pflanzenökologe mit Fokus auf alpine Pflanzen. Er forscht zu der Frage, wie ökologische und evolutionäre Prozesse wie der Klimawandel die Verteilung und Ausbreitung von Arten beeinflussen und zu veränderten Interaktionen führen. Jake Alexanders Forschung wurde unter anderem mit einem ERC Starting Grant ausgezeichnet.
 
 Dr. Martin Frimmer (*1982), zurzeit Privatdozent und Senior Scientist an der ETH Zürich, zum Titularprofessor am Departement Informationstechnologie und Elektrotechnik der ETH Zürich. Martin Frimmer forscht zu Elektronik und Photonik. Sein Schwerpunkt liegt auf der Wechselwirkung von Licht mit nanostrukturierten Materialien und der Frage, wie sich diese Wechselwirkung mit Nanostrukturen wie z. B. optischen Antennen oder Resonatoren kontrollieren und verbessern lässt. Er hat das Departement und die ETH Zürich wiederholt bei Outreach-Vorträgen vertreten und ist sehr aktiv in der Lehre.
-
-## Verleihung des Titels «Professor of Practice»
 
 (Foto: CV Pics)
 
@@ -71,6 +71,8 @@ Dr. Eva Lieberherr (*1980), zurzeit Dozentin und Gruppenleiterin an der ETH Zür
 (Foto: privat)
 
 Dr. Maarten Nachtegaal (*1974), zurzeit Privatdozent an der ETH Zürich und Gruppenleiter am Paul Scherrer Institut (PSI), zum Titularprofessor am Departement Chemie und Angewandte Biowissenschaften der ETH Zürich. Maarten Nachtegaal ist ein Experte für Beamline-Operando-Röntgenmessungen. Dabei verbindet er die anorganische Chemie mit der chemischen Physik und konzentriert sich auf die Weiterentwicklung von Synchrotrontechniken, um die Struktur von Katalysatoren zu untersuchen und katalytische Prozesse zu verbessern. Maarten Nachtegaal geniesst grosses Ansehen in seinem Fachbereich und ist ein engagierter und erfolgreicher Betreuer und Mentor.
+
+## Verleihung des Titels «Professor of Practice»
 
 (Foto: Meret Branscheidt)
 
@@ -82,9 +84,9 @@ Dr. Sylke Poehling (*1967), Global Head und Senior Vice President für Therapeut
 
 (Foto: Béatrice Devènes)
 
-## Verabschiedungen ETH Zürich
-
 Walter Thurnherr (*1963), ehemaliger Bundeskanzler, zum Professor of Practice der ETH Zürich. Walter Thurnherr hat sich während seiner Amtszeit als Bundeskanzler von 2016 bis 2023 stark für den Austausch zwischen Wissenschaft und Politik eingesetzt und trat insbesondere für den Einbezug der Wissenschaft in die politische Entscheidfindung ein. Als Professor of Practice wird Walter Thurnherr an der ETH Zürich angewandte Lehrveranstal­tungen im Bereich der Politikgestaltung in der Schweiz anbieten sowie zum Aufbau der geplanten School of Public Policy beitragen und hier insbesondere für den Impact verantwortlich sein. Dank seiner langjährigen Führungsaufgaben verfügt er über einzigartige Erfahrungen in der Politikgestaltung und in der Diplomatie sowie ausgewiesene Fähigkeiten in der strategischen Planung, der interdisziplinären Zusammenarbeit und der Problemlösung.
+
+## Verabschiedungen ETH Zürich
 
 Prof. Dr. Georgios Anagnostou (*1959), zurzeit ordentlicher Professor für Untertagbau am Department Bau, Umwelt und Geomatik, wird Ende Januar 2025 in den Ruhestand treten. Georgios Anagnostou kam nach langjähriger Tätigkeit als beratender Ingenieur für Tunnelbau 2003 als ordentlicher Professor an die ETH Zürich. Sein aktueller Forschungsschwerpunkt liegt auf dem Quellverhalten anhydrithaltiger Tonsteine, dem Verhalten von hartem, sprödem Felsen unter hohen Spannungen sowie der Stabilität und Verformung von tiefen Tunneln in weichen Böden. Georgios Anagnostou ist ein begehrtes Mitglied in nationalen und internationalen Fachgremien. Er leitete zweimal als stellvertretender Vorsteher und von 2005 bis 2007 als Institutsvorsteher das Institut für Geotechnik.
 

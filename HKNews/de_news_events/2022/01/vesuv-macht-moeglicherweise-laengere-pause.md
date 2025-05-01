@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2022/01/vesuv-macht-moeglicherweise-laengere-pause.html
 
-## Granate erlauben präzise Datierung
+**Date processed:** 2025-05-01
+
+## Main article
 
 Der Vesuv ist einer der gefährlichsten Vulkane Europas. Mehr als drei Millionen Menschen wohnen in seiner unmittelbaren Nähe, und in historischer und prähistorischer Zeit kam es zu explosiven Ausbrüchen, welche ganze Siedlungen und Städte der Umgebung zerstörten.
 
@@ -12,7 +14,7 @@ Eine Forschungsgruppe der ETH Zürich hat deshalb in Zusammenarbeit mit Forschen
 
 Zu den vier untersuchten Eruptionen zählen die Avellino-Eruption von vor 3950 Jahren, die als mögliches «worst-case-scenario» für zukünftige Ausbrüche gilt, und die Eruption von 79 n. Chr., welche die römischen Städte Pompeji und Herculaneum unter sich begrub. Letztere wurde durch den römischen Schriftsteller Plinius dem Jüngeren dokumentiert, daher werden diese Ausbrüche als Plinianische Eruptionen bezeichnet. Weiter untersuchten die Vulkanologen die Mercato-Eruption, die sich vor 8890 Jahren ereignete, und die Pollena-Eruption von 472 n.Chr. Diese ist der kleinste der untersuchten Ausbrüche, aber immer noch ähnlich gross wie die jüngste Tonga-Eruption.
 
-## Intervalle werden kürzer
+## Granate erlauben präzise Datierung
 
 In ihrer Studie, die soeben in der Fachzeitschrift Science Advances erschienen ist, bestimmten die Forschenden um Erstautor Jörn-Frederik Wotzlaw und ETH-Professor Olivier Bachmann, das Alter von Granatkristallen, die in vulkanischen Ablagerungen zu finden sind. Dieses Mineral entsteht in der Gesteinsschmelze, die in der Magmakammer in der oberen Kruste unter dem Vesuv lagert. Kennt man das Alter dieses Halbedelsteins, kann man darauf schliessen, wie lange Magma in diesem Reservoir verweilte, ehe sie vom Vulkan ausgespuckt wurde.
 
@@ -22,7 +24,7 @@ Um das Alter der Granatkristalle zu bestimmen, nutzten die Forschenden die radio
 
 Die Granate für diese Untersuchung stammen alle aus Material, das die ETH-Forschenden mithilfe von Kollegen der Universitäten Mailand und Bari vor Ort sammelten. Dazu suchten sie entsprechende Fundstellen auf, wo die Ablagerungen der vier erwähnten Eruptionen an der Oberfläche liegen und für die Probennahme gut zugänglich sind.
 
-## Magmastau eher unwahrscheinlich
+## Intervalle werden kürzer
 
 Anhand der Granat-Altersbestimmungen können die Forschenden nun aufzeigen, dass die explosivsten Magmatypen des Vesuvs (sogenannte phonolithische Magma), mehrere Tausend Jahre in einem Reservoir in der oberen Kruste verweilen, ehe der Einstrom von ursprünglicherer, heisserer Magma aus der unteren Kruste eine Eruption auslöst.
 
@@ -32,17 +34,15 @@ Für alle Ausbrüche gilt: Die Verweildauer der phonolithischen Magma im Reservo
 
 «Wir halten es für wahrscheinlich, dass ein grosser Körper aus phonolitischer Magma in der oberen Kruste das Aufsteigen von ursprünglicherer, heisserer Schmelze aus tiefer gelegenen Reservoiren blockiert hat», sagt Bachmann. «Das Rohrleitungssystem des Vesuvs ist ziemlich kompliziert», sagt er schmunzelnd.
 
-## Engmaschige Überwachung
-
 Grafik: Olivier Bachmann / ETH Zürich.
+
+## Magmastau eher unwahrscheinlich
 
 Unter dem Vesuv liegen mehrere Magmakammern, die miteinander verbunden sind. Die oberste Kammer ist massgebend für die Eruptionen. Sie füllt sich in relativ kurzer Zeit mit Magma aus einer der unteren Kammern, beginnt auszukühlen und zu kristallieren. Das führt zu chemischen Veränderungen der Restschmelze. Fachleute nennen diesen Reifungsprozess magmatische Differenzierung, und die differenzierte Magma des Vesuvs wird als phonolithisch bezeichnet. Irgendwann (möglicherweise in etwa gleichen zeitlichen Abständen) strömt primitivere, sogenannt mafische Magma aus grösserer Tiefe in die obere Kammer ein. Dadurch steigt dort der Druck stark an. Das zwingt den Phonolithen dazu aufzusteigen, gelegentlich bis an die Oberfläche –der Vulkan bricht aus.
 
 Ein Reservoir für phonolithische Magma unterhalb des Vesuvs hat möglicherweise in den vergangenen 10'000 Jahren schon immer bestanden. Die Frage ist aber, ob es heute eines gibt, das eine gefährliche Eruption, wie die von vor 3950 Jahren oder die von 79 n.Chr., speisen könnte.
 
 Aus seismischen Untersuchungen geht hervor, dass unterhalb des Vesuvs in sechs bis acht Kilometern Tiefe tatsächlich ein Reservoir vorhanden ist. Ob die darin enthaltene Magma aber aus mehr mafischer oder phonolithischer Magma zusammengesetzt ist, lässt sich mithilfe der Seismik nicht herausfinden. Da aber der Vesuv seit 1631 vor allem mafische Magma zu Tage gefördert hat, halten es die Forscher für unwahrscheinlich, dass sich derzeit ein differenzierter Phonolith staut.
-
-## Literaturhinweis
 
 «Der letzte grosse Ausbruch von 1944 war vor fast 80 Jahren, was der Beginn einer längeren Ruhephase sein könnte, während der sich differenzierte Magma ansammeln kann. Eine gefährliche Eruption, vergleichbar mit der von 79 n. Chr., braucht vermutlich eine deutlich längere Ruhephase», sagt Wotzlaw.
 
@@ -51,6 +51,8 @@ Tritt in den kommenden Jahrzehnten vorwiegend mafische Magma aus, könnte das ei
 «Zu kleineren, aber trotzdem sehr gefährlichen Ausbrüchen wie der von 1944 oder sogar der von 1631 kann es jedoch schon nach kürzeren Ruhephasen kommen» ergänzt Wotzlaw. «Eine genaue Prognose der Grösse und Art von Vulkanausbrüchen ist bis jetzt nicht möglich. Aber ist möglich, dass Wiedererwachen von Magmareservoiren unterhalb von Vulkanen durch Überwachung zu erkennen.»
 
 Um böse Überraschungen zu vermeiden, werden der Vesuv und seine Aktivitäten sowie die noch gefährlicheren Phlegräischen Felder westlich davon, rund um die Uhr überwacht. So misst der italienische vulkanologische Dienst jedes Erdbeben rund um den Vulkan, analysiert die Gase, die aus Fumarolen austreten, und beobachtet Bodenverformungen, die auf Aktivität im Untergrund hinweisen. Auch besteht ein Notfallplan, wie der Grossraum Neapel zu evakuieren wäre, sollte das Monitoring ergeben, dass ein Ausbruch bevorsteht.
+
+## Literaturhinweis
 
 Wotzlaw J-F, Bastian L, Guillong M, et al. Garnet petrochronology reveals the lifetime and dynamics of phonolitic magma chambers at Somma-Vesuvius. Science Advances, 12 Jan 2022, Vol 8, Issue 2, DOI: externe Seite 10.1126/sciadv.abk2184
 

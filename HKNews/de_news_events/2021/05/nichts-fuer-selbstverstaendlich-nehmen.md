@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2021/05/nichts-fuer-selbstverstaendlich-nehmen.html
 
+**Date processed:** 2025-05-01
+
 ## Das Higgs-Teilchen
 
 Günther Dissertori, ETH-Professor für Teilchenphysik und designierter Rektor, will die Dinge im Kern verstehen. Er wollte dies schon immer. Bei der Studienwahl interessierte ihn die Gentechnologie, geworden ist er Physiker. Obwohl er sich das zuerst gar nicht zugetraut hätte: «Ich dachte, Physik würden nur die Besten der Besten studieren.» Und dazu zählte er sich nicht.
@@ -10,23 +12,17 @@ Dissertori wuchs in Algund auf, ein Dorf im Südtirol in der Nähe von Meran, di
 
 1994 führte ihn ein Stipendium von der Universität Innsbruck als Doktorand ans Cern in Genf. 1997 promovierte er dort. 2001, 31-jährig, erhielt er eine Assistenzprofessur an der ETH Zürich. «Ich fühlte mich eigentlich fast zu jung dafür und war froh, dass mich mein Umfeld dazu ermunterte und ich dann auch grosse Unterstützung erhielt.» Fortan pendelte er zwischen seinen Arbeitsplätzen am CERN in Genf und der ETH in Zürich, wo er 2007 zum ordentlichen Professor ernannt wurde.
 
-## Würde ich das verstehen?
-
 Am Cern half er mit, das CMS-Experiment am grossen Teilchenbeschleuniger aufzubauen. Jenes Experiment, mit dem es gelang, das Higgs-Teilchen nachzuweisen und Peter Higgs’, Robert Brouts (†) und François Englerts Theorie zu belegen. Dafür erhielten Higgs und Englert 2013 den Nobelpreis für Physik. Dissertori hatte zusammen mit den ETH-Professorinnen und Professoren Christophorus Grab, Felicitas Pauss und Rainer Wallny mitgeholfen, den Weg dafür zu ebnen.
 
 Als Experimentalphysiker habe er immer auch die Nähe zu den Theoretikerinnen und Theoretikern gesucht, sagt er. Dafür benötigte er ein tiefes Verständnis beider Disziplinen. Oder in Dissertoris Worten: «Das Wissen ist zum Teil so spezialisiert, dass schon die gemeinsame Sprache und Verständigung zur Herausforderung wird.» Und auch die Arbeit in grossen Kollaborationen, wie sie in der Teilchenphysik normal ist, habe ihm immer Freude bereitet.
 
 Dissertori hat zudem viel Herzblut für das Unterrichten. An der Physik und dem Unterricht fasziniert ihn dasselbe: komplexe Sachverhalte möglichst einfach zu erklären. Erklären und Verstehen gehörten zusammen, sagt er: «Wie oft glaubt man doch, man hätte etwas verstanden. Aber erst, wenn ich etwas zu erklären versuche, realisiere ich, ob ich die Materie durchdrungen habe.»
 
-## Respekt vor dem Wachstum
-
 Kommt hinzu, dass man beim Erklären auf das Gegenüber eingehen muss: «Ich frage mich immer, ob ich als Gegenüber meine Erklärung wirklich verstehen würde.» Wenn nicht, ist er mit der Erklärung nicht zufrieden.
 
 Für seine Art zu unterrichten wurde er von den Studierenden gleich viermal mit der «goldenen Eule» für den besten Unterricht am Departement ausgezeichnet und auch den «Credit Suisse Award for best teaching at ETH» erhielt er. Sein Unterricht ist beliebt. Dissertori lässt das Lob aber nicht unkommentiert: Beliebtheit solle man nicht automatisch mit Qualität gleichsetzen.
 
 Was gute Lehre ausmacht, sei eine der Fragen, mit denen er sich als Rektor genauer beschäftigen wolle. Für viele sei diese Frage vielleicht implizit beantwortet, das reiche ihm aber nicht.
-
-## Den Präsenzunterricht neu denken
 
 Darauf angesprochen, welche Projekte er in Angriff nehmen möchte, nennt er denn auch die Überarbeitung der Evaluation der Lehre. Die Beurteilung mittels Umfragen bei den Studierenden erachtet er als zu einseitig, er wünscht sich dabei weitere Blickwinkel, zum Beispiel ein Feedback durch Kolleginnen und Kollegen. Obwohl sich Wissenschaftlerinnen und Wissenschaftler gewohnt seien, ihre Forschung durch Kolleginnen und Kollegen kommentieren zu lassen, gebe es dafür in der Lehre eine grosse Hemmschwelle. Diese möchte er abbauen.
 

@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2016/03/opening-event-to-launch-new-campus-info-points%20.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 The Campus Info points at ETH Zurich are a central resource for visitors, staff and students of ETH Zurich, providing information and services such as giving directions, selling tickets and even arranging car rental. The Campus Info points in the main building can be found at reception in the main hall and in the service area on D floor (HG D 34). The Campus Info point on the Hönggerberg campus is in the HIL building in room D 25.9.

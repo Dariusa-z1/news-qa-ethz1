@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2021/07/fliegen-daten-und-sieben-velos.html
 
+**Date processed:** 2025-05-01
+
 ## Den Vater übertrumpfen
 
 Bald ist Schluss. Schluss mit der Professur an der ETH, mit Forschungsprojekten und dem Unterricht. Ernst Hafen hat sich gut mit dem Gedanken angefreundet, dass seine aktive Zeit als Professor abgelaufen ist. «Es gibt nichts Unerledigtes», sagt er, am Tisch in seinem Büro sitzend.
@@ -12,8 +14,6 @@ Sein angestammtes Forschungsfeld verlässt Hafen dafür nicht. Ziel des Projekts
 
 Hafens wissenschaftliche Laufbahn begann mit seinem Doktorat 1983 in Entwicklungsbiologie am Biozentrum in Basel. Im Laufe seiner Doktorarbeit konnte er nachweisen, wie und wo Gene, die die Anzahl der Körpersegmente der Taufliege bestimmen, im Embryo angeschaltet werden. Später befasste er sich mit jenen Genen, die das Schicksal von Zellen bestimmen. Dabei deckte Hafen Mechanismen auf, welche bei der Krebsbildung eine wichtige Rolle spielen. «Die Veränderung des Zellschicksals ist Teil der Krebsgenese. Das interessante ist, dass bei der Fliege und beim Menschen gleiche Gene involviert sind. Das hat damit zu tun, dass Mensch und Fliege vor 600 Millionen Jahren einen gemeinsamen Vorfahren hatten», erklärt er.
 
-## Präsident für ein Jahr
-
 Aus diesem Grund explodierte damals die Fliegenforschung, weil man bei Drosophila die Gene für Entwicklungsprozesse viel schneller identifizieren konnte als beim Menschen und diese auch für dessen Krankheiten relevant sind. Für seine Forschungserfolge wurde Ernst Hafen denn auch mehrfach mit renommierten Preisen ausgezeichnet, darunter der Ernst-​Jung-, der Friedrich-​Miescher- und der Otto-​Naegeli-Preis.
 
 Zur Biologie kam Hafen durch seinen Biologielehrer am Gymnasium. «Bei Schweizer Jugend forscht hatte ich nie mitgemacht», schmunzelt er. «Ich hatte aber im Gymnasium einen sehr guten Lehrer, der mich für das Fach begeisterte.» Ein zusätzlicher Ansporn sei aber auch gewesen, dass sein Vater, ein Germanist, Deutschlehrer und Rektor am Gymnasium Münchenstein, in Biologie eher schlecht war und der Sohn eine Möglichkeit sah, seinen «Übervater» darin zu übertrumpfen. Also schrieb er für das Studium der Molekular- und Zellbiologie am Biozentrum der Universität Basel ein.
@@ -22,17 +22,15 @@ In den Vorlesungen von Walter Gehring, einem bekannten Schweizer Molekular- und 
 
 «Letztendlich fand ich nie heraus, welche Moleküle es waren, die das Schicksal dieser Zellen bestimmten. Aber ich entwickelte eine Methode, wie man diese Determinanten lokalisieren und auf dem Fliegen-Ei visualisieren kann. Das war nach drei Jahren Misserfolg mein wissenschaftlicher Durchbruch», erzählt er. Davon zeugt das Titelbild der renommierten Fachzeitschrift «Cell» von 1990, das er einrahmen liess und in seinem Büro aufbewahrt.
 
-## Noch einmal Fliegenforscher
-
 Mit der Taufliege Drosophila schaffte Ernst Hafen seinen wissenschaftlichen Durchbruch.
+
+## Präsident für ein Jahr
 
 Diese Entdeckung gab auch seiner Doktorarbeit eine neue Richtung: Genetik als Methode zum Verständnis von Entwicklungsbiologie. «Ich hatte das Glück, dass ich mit dem amerikanischen Postdoc Mike Levine zusammenarbeiten konnte.» Für Hafen eine prägende Zeit: er saugte die Lebensart, die Levine und ein weiterer amerikanischer Postdoktorand im Labor lebten, in sich auf. «Die beiden zeigten mir eine neue Welt. Sie hatten eine andere Kultur. Das Leben im Labor war spannender als das zuhause. Manchmal sassen wir um drei Uhr in der Früh im Labor, rauchten und tranken Bier.»
 
 Hafen zog es deshalb nach Ende seiner Dissertation in die USA, wo er 1984 eine Postdoc-Stelle in Berkeley fand. Während dieser Zeit entdeckte er in der Fliege ein Gen, das im Menschen als eines der Krebs-Gene bekannt war.
 
 Nach drei Jahren in den USA kehrte Hafen mit seiner Frau und ihren ersten beiden von mittlerweile drei Söhnen in die Schweiz zurück. Er hatte sich unter anderem an der Universität Zürich auf eine Assistenzprofessur am Zoologischen Institut beworben, auf die er 1987 berufen wurde. 1994 wurde er zum Extraordinarius und 1997 zum Ordinarius befördert.
-
-## Daten als neues Steckenpferd
 
 Doch Ernst Hafen war nicht nur der Fliegenforscher oder Fliegendoktor, wie ihn sein Sohn Timothy auf die Frage der Lehrerin nach dem Beruf des Vaters bezeichnete. «Ich war immer vielseitig interessiert, unter anderem auch an Hochschulpolitik», sagt er. Als die ETH Zürich für den Ende 2004 abtretenden Präsidenten Olaf Kübler einen Nachfolger suchte, bewarb er sich und wurde für dieses Amt gewählt, das er am 1. Januar 2005 antrat. Seine Professur an der Uni Zürich gab er dafür auf.
 
@@ -42,17 +40,15 @@ Er blieb an der ETH und erhielt eine Professur am Institut für Molekulare Syste
 
 Davon profitierte auch Hafen, der dadurch zu seiner Fliegenforschung zurückfand. Im Rahmen der von Aebersold initiierten Systembiologieinitiative «SystemsX» führte er das Teilprojekt «WingX» durch. Dessen Ziel war, herauszufinden, wie ein ganzes Genom zusammenspielt, um die Flügelgrösse in einer natürlichen Population von Drosophila zu definieren. «Mit diesem Projekt konnten wir erstmals mehr als nur die Wirkung einzelner Gene untersuchen, sondern das Zusammenspiel des gesamten Genoms, aller Gen-Transkripte und der darauf basierenden Proteine», sagt Hafen. Etwas, was in dieser Detailfülle zuvor nicht möglich war. «Das war nur möglich, weil ich an dieses Institut kommen und mit Ruedi Aebersold zusammenarbeiten konnte. Das war ein schöner Abschluss der Fliegen-Grundlagenforschung.»
 
-## Gelungene Lehre weiterentwickeln
-
 Nach seinem Rücktritt als ETH-Präsident befasste sich Hafen zunehmend mit Fragen und Problemen, die mit seiner Fliegenforschung nichts mehr zu tun hatten: dem Umgang mit persönlichen (Gesundheits-)Daten.
 
 Nicht nur die Forschung und die Medizin häufen immer mehr Daten über Genome, Gesundheit und Krankheit an, sondern auch jeder Einzelne: mit dem Aufkommen von Smartphones und Smartwatches, welche jederzeit Körperfunktionen und Bewegung messen.
 
+## Gelungene Lehre weiterentwickeln
+
 Er stellte jedoch fest, dass die Menschen die Aggregation (also das Zusammenführen) der eigenen Daten den Tech-Giganten überlassen. Dagegen kämpft er an: «Wir haben das Recht dazu, unsere Daten in geeigneter Weise selbst zusammenzuführen und nicht Google oder Facebook zu überlassen, die unsere Daten in klingende Münze umwandeln», gibt er zu bedenken.
 
 Hafen setzte sich deshalb dafür ein, ein paralleles Datenökosystem unter der Kontrolle jedes Einzelnen aufzubauen. Als Lösung schlug er Datengenossenschaften vor, die die Rolle des Treuhänders übernehmen. Diese Treuhänder sammeln die Daten der Individuen, bereiten sie auf, machen sie interoperabel und präsentieren sie anonymisiert in einer Datenallmend. Die Datengenossenschaft regelt auch, ob und wie Firmen darauf zugreifen und – gegen Bezahlung –­ davon profitieren können. Die Daten bleiben aber in der Allmend. «Bürgerinnen und Bürger könnten dann aktiv selbst bestimmen, ob sie ihre Daten der Gesellschaft oder der Wirtschaft zur Verfügung stellen wollen», erklärt Hafen.
-
-## Loslassen und in die Pedale steigen
 
 Er gründete aufgrund seiner Erkenntnisse einen Verein, der sich für Datengenossenschaften einsetzt. Daraus wiederum ging tatsächlich eine Datengenossenschaft hervor, die «Midata». Der Verein ist mittlerweile aufgelöst, weil er seinen Zweck erfüllt hatte. Midata besteht nach wie vor, allerdings «so erfolgreich, wie es mit beschränkten Mitteln möglich ist», sagt der ETH-Professor. Das Ziel, so sein Fazit, kam bei vielen CEOs und Politikern, mit denen er sprach, gut an. Aber niemand hätte sich so richtig vorstellen können, wie es umgesetzt werden solle. Deshalb wollte auch niemand Geld dafür einsetzen. Hafen ist aber nach wie vor überzeugt: «Die Daten-Genossenschaft ist die richtige Form.»
 

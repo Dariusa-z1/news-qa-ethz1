@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2022/11/die-suche-nach-unendlichen-pfaden.html
 
+**Date processed:** 2025-05-01
+
 ## Kaffee kochen oder Antennen platzieren
 
 Barbara Dembin steht vor der Wandtafel in ihrem Büro im ETH-Hauptgebäude und zeichnet mit Kreide einen Kreis mit Beulen und Dellen – den Umriss eines Steins. «Wie dringt Wasser von aussen durch den Stein?», fragt sie und skizziert ein paar dünne Linien, die auf unterschiedliche Weise ins Kreisinnere führen. Um diese Frage zu beantworten, führe man einen Parameter ein, erklärt sie und malt ein «p» auf die Tafel. Der Parameter p entspricht der Dichte der Löcher im Stein, also der durchschnittlichen Zahl der Löcher in einem kleinen Gesteinsvolumen. Erreicht p einen bestimmten Schwellenwert, ist das Gestein porös und Wasser beginnt einzudringen.
@@ -10,15 +12,13 @@ Barbara Dembin steht vor der Wandtafel in ihrem Büro im ETH-Hauptgebäude und z
 
 Auch in diesem mathematischen Modell spielt der Parameter p für die Lochdichte eine entscheidende Rolle. Ist sein Wert 0, gibt es keine Kanten und damit auch keinen unendlichen Pfad. Ist sein Wert 1, sind alle Kanten vorhanden und damit auch ein unendlicher Pfad. «Uns interessieren die Werte für p zwischen 0 und 1, denn da passiert etwas Verzwicktes», sagt Dembin: «Es gibt einen kritischen Punkt, bei dem sich das makroskopische Verhalten sprunghaft ändert.» Unterhalb dieses kritischen Werts sieht man keinen unendlichen Pfad, darüber gibt es mindestens einen unendlichen Weg. «Man nennt dieses Verhalten einen Phasenübergang», sagt die Mathematikerin.
 
-## Stress am Examen
-
 Das Forschungsgebiet, das seit den 1950er Jahren aus solchen Überlegungen entstanden ist, heisst Perkolationstheorie, nach dem lateinischen Wort «percolare» für durchdringen. Auf Französisch, Dembins Muttersprache, ist «Percolateur» eine spezielle Bezeichnung für eine Kaffeemaschine. Und tatsächlich ist auch das Kaffeekochen ein Perkolationsphänomen. Ist das Kaffeepulver zu stark komprimiert, sind die Löcher zu klein, es dringt kein Wasser durch. «Der Phasenübergang entspricht jenem Moment, in dem das Wasser durch die Kaffeekörner zu fliessen beginnt», sagt Dembin.
 
 Mit der Perkolationstheorie lassen sich viele physikalische Phänomene untersuchen wie beispielsweise die spontane Magnetisierung von Legierungen oder die Entstehung von Sternen in Galaxien. Damit kann man aber auch zeigen, wie der Strassenverkehr in Städten zusammenbricht, wenn bestimmte Engpässe überlastet sind. In der Telekommunikation lässt sich so eruieren, wo man Antennen am besten platziert, um ein flächendeckendes Netz zu erhalten. Man kann damit aber auch erklären, wie sich Waldbrände oder Epidemien ausbreiten. So nutzten viele Forschende die Perkolationstheorie während der Covid-Pandemie, um Aussagen zur Ausbreitung und Empfehlungen zur Eindämmung der Viren zu erarbeiten.
 
-Von solchen praktischen Anwendungen ist die Arbeit von Dembin aber weit entfernt: «Ich forsche auf dem Gebiet der theoretischen Mathematik und konzentriere mich ganz auf theoretische Aspekte; Anwendungen zu finden, ist ein anderer Job.» Eine der Hauptfragen der Perkolationstheorie gilt dem Verhalten des aufgezeichneten mathematischen Modells am kritischen Punkt. Ist das Modell zweidimensional wie auf der Wandtafelskizze, lässt sich beweisen, dass der kritische Parameter ½ ist, und dass es bei diesem kritischen Parameter keinen unendlichen Pfad gibt.
+## Stress am Examen
 
-## Preis für innovative Arbeit
+Von solchen praktischen Anwendungen ist die Arbeit von Dembin aber weit entfernt: «Ich forsche auf dem Gebiet der theoretischen Mathematik und konzentriere mich ganz auf theoretische Aspekte; Anwendungen zu finden, ist ein anderer Job.» Eine der Hauptfragen der Perkolationstheorie gilt dem Verhalten des aufgezeichneten mathematischen Modells am kritischen Punkt. Ist das Modell zweidimensional wie auf der Wandtafelskizze, lässt sich beweisen, dass der kritische Parameter ½ ist, und dass es bei diesem kritischen Parameter keinen unendlichen Pfad gibt.
 
 «In drei Dimensionen kennen wir den genauen Wert des kritischen Parameters nicht, und wir glauben, dass es keinen unendlichen Pfad am kritischen Parameter gibt», sagt sie und fügt hinzu, dass dies eines der wichtigsten offenen Probleme auf diesem Gebiet ist. «Aber darum geht es mir nicht. Vielmehr befasse ich mich mit dem sogenannten unterkritischen Bereich, in dem es mit Sicherheit keinen unendlichen Pfad gibt», sagt Dembin: «Wir wollen verstehen, wie schnell die Wahrscheinlichkeit, dass ein langer Pfad existiert, mit der Grösse dieses Pfades gegen Null tendiert.» Zusammen mit Vincent Tassion, Mathematikprofessor an der ETH Zürich, hat sie bereits Ergebnisse zu dieser Frage für eine andere Art von Perkolationsmodell erzielt.
 
@@ -26,7 +26,7 @@ Aufgewachsen ist Barbara Dembin in der Nähe von Paris. Schon als Kind brilliert
 
 Noch heute fühlt sie sich manchmal etwas unwohl, wenn sie mit erfahreneren Forschenden, die sie noch nicht kennt, über Mathematik spricht. «Ein Problem, das meine männlichen Kollegen offenbar nicht haben», sagt sie: «Ich denke wohl, dass ich als Frau besonders aufpassen muss, dass ich einen guten Eindruck mache.» Noch im Gymnasium seien die Besten in Mathematik meist Mädchen gewesen, später sei die Zahl der Frauen in diesem Gebiet auf 10 Prozent gefallen. «Da gehört man wirklich zu einer Minderheit, und man achtet mehr auf das, was man sagt, weil man viel besser sichtbar ist.» Im Forschungsalltag habe sie aber keine Probleme. «Ich hörte nie sexistische Bemerkungen oder Ähnliches», sagt sie.
 
-## Literaturhinweis
+## Preis für innovative Arbeit
 
 Nach dem Studium und dem Doktorat in Mathematik am renommierten Laboratoire de probabilités, statistique at modélisation (LPSM) in Paris bewarb sie sich für eine Postdoktorandenstelle im Team von Vincent Tassion – «im letzten Moment, zwei Wochen vor Anmeldeschluss», erinnert sie sich: «Ehrlich gesagt hatten meine Bekannten, die noch nie in der Schweiz waren, und auch ich selbst keine gute Meinung über das Land. Wir hielten die Städte für kalt und langweilig.» Doch als sie ihre Stelle an der ETH im September 2020 antrat, fühlte sie sich schnell wohl. «Ich mag Zürich sehr und möchte nicht nach Paris zurück. Es ist hier wirklich schön», sagt sie. Sie geht gerne in die Stadt, geniesst aber auch die Natur, macht Waldspaziergänge oder längere Wanderungen. Zudem lernt sie Deutsch. «Ich schaue mir viele Filme auf Deutsch an und jemand sagte, ich hätte einen hübschen Akzent», meint sie lachend.
 
@@ -35,6 +35,8 @@ Sie kocht auch gerne und sieht darin durchaus Parallelen zur Forschung. «Die K�
 Die Erfolge lassen zudem solche Tiefpunkte vergessen. Für ihre herausragenden Beiträge zur Perkolationstheorie erhielt Barbara Dembin 2022 den SwissMAP Innovator Prize, eine Auszeichnung des Nationalen Forschungsschwerpunkts (NCCR), der sich mit der Mathematik der Physik befasst. In der prämierten Forschung befasste sie sich mit der sogenannten “First-Passage Percolation” und verwandten Perkolationsmodellen. Um zu erklären, worum es beim Modell der «First-Passage Percolation» geht, nimmt Dembin wieder ein Stück Kreide zur Hand und zeichnet erneut ein Gitter auf die Wandtafel. «Die Kanten entsprechen diesmal Strassen und die Schnittpunkte stellen Kreuzungen dar», erklärt sie. Auf einigen Strassen fährt man schneller, auf anderen langsamer, entsprechend erhalten die Kanten Zahlenwerte, je nachdem wie lange man braucht, um von einer Kreuzung zur anderen zu gelangen.
 
 «Nun haben wir zwei Leute, die das Strassennetz durchqueren wollen», erklärt Dembin und zeichnet ein «A» und ein «B» in einiger Entfernung links vom Gitter auf die Wandtafel. Rechts vom Gitter skizziert sie zwei kleine Kreise – die Destinationen von A und B. Der wichtige Punkt ist, dass die Entfernung zwischen Abfahrts- und Ankunftsort viel grösser ist als die Entfernung zwischen A und B und auch als jene zwischen den beiden Zielorten. «Beide Personen nehmen nun ihr GPS, um herauszufinden, welches der kürzeste Weg zum Ziel ist», sagt die Mathematikerin. Das Resultat: Beide wählen anfänglich unterschiedliche, kleine Strassen, die schliesslich zu einer Autobahn führen. Dort fahren A und B auf der gleichen Strasse, bis sich ihre Wege vor dem Erreichen des Ziels wieder trennen. «Genau dies konnte ich zusammen mit meinen Kollegen Dor Elboim und Ron Peled unter bestimmten Annahmen beweisen», sagt Dembin: «Aber natürlich sprechen wir in unserem mathematischen Modell nicht von kleinen Strassen und Autobahnen.» Doch sie gibt zu: «Wenn man etwas beweist, sieht das am Ende oft einfach aus, so als habe man gar nichts geleistet. Doch der Weg dahin war hart.»
+
+## Literaturhinweis
 
 Dembin B, Elboim R, Peled R. Coalescence of geodesics and the BKS midpoint problem in planar first-passage percolation. externe Seite https://arxiv.org/abs/2204.02332
 

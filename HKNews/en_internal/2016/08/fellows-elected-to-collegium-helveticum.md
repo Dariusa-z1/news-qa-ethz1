@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2016/08/fellows-elected-to-collegium-helveticum.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 At its session on 12 July 2016, the Collegium Helveticum's Board of Trustees appointed fellows for its next term, which will last from 1 October 2016 to the end of 2020 and focus on the theme of digital societies. From the 26 first-class applications they received, the Board selected seven professors from the Swiss Federal Institute of Technology (ETH Zurich), University of Zurich (UZH) and Zurich University of the Arts (ZHdK).

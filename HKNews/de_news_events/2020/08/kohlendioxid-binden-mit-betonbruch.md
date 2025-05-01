@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2020/08/kohlendioxid-binden-mit-betonbruch.html
 
+**Date processed:** 2025-05-01
+
 ## Erkenntnisse zur Anwendung bringen
 
 Die beiden Jungunternehmer und Gründer des ETH-Spin-Offs Neustark sind grundverschieden, scheinen sich aber gut zu ergänzen. Der eine – Johannes Tiefenthaler – doktoriert am Departement Maschinenbau und Verfahrenstechnik in der Gruppe von Professor Marco Mazzotti und tüftelt an der nächsten Technologiegeneration für die Mineralisierung von Kohlendioxid.
@@ -12,17 +14,15 @@ Der andere – Valentin Gutknecht – ist Betriebswirtschaftler und kümmert sic
 
 Schon während seiner Masterarbeit hat sich Tiefenthaler mit verschiedenen Möglichkeiten beschäftigt, wie man Kohlendioxid mit mineralischen Stoffen reagieren lassen und als Kalkstein binden kann.
 
-## Verfeinerte Eigenschaften des Abbruchmaterials
-
 Eigentlich gibt es genug mineralische Stoffe auf der Erde, um mehrere Hundert Milliarden Tonnen Kohlendioxid zu binden, doch weil diese Materialien – etwa Magnesiumsilikate – nicht besonders reaktiv seien, müssten sie zuvor auf 700 Grad aufgeheizt werden, sagt Tiefenthaler. Im Gegensatz dazu habe sich Betongranulat als hochreaktiv erwiesen, wegen der insgesamt riesigen Oberfläche der vielen millimeterkleinen Partikel. Auch ohne Vorbehandlung formt der Betonbruch mit dem Kohlendioxid sehr stabile chemische Verbindungen.
 
 Die Neustark-Gründer Valentin Gutknecht und Johannes Tiefenthaler (Bild: Micha Riechsteiner)
 
+## Emissionen rückgängig machen
+
 Der Clou von Neustarks Technologie: Sie bindet CO 2 in den Poren und an der Oberfläche von Betongranulat als Kalkstein. Dieses aufgewertete Granulat kann nun als Sand- und Kiesersatz in frischen Beton gemischt werden. Dank dem aufgewerteten Granulat benötigt man dafür weniger Zement - bei gleichbleibenden Eigenschaften.
 
 «Mich hat gereizt, dass die Lösung nicht erst in fünf oder zehn Jahren, sondern schon jetzt greifbar ist», sagt der zweite Jungunternehmer, der Ökonom Valentin Gutknecht. Unterwegs zum Betonwerk Kästli in der Umgebung von Bern, wo die Pilotanlage von Neustark schrittweise in Betrieb genommen wird, findet er etwas Zeit für ein Gespräch. Vor der Gründung war Gutknecht beim ETH-Spin-off Climeworks – dem Pionierunternehmen für die Entfernung von Kohlendioxid aus der Umgebungsluft – mitverantwortlich für das Marketing und den Verkauf. Bei Neustark läge die Herausforderung vor allem darin, zwischen vielen Themenbereichen zu jonglieren, sagt Gutknecht. Sie müssten nicht nur die Betoneigenschaften im Griff haben, sondern sich auch auf den verschlungenen Pfaden der CO 2 -Zertifizierungen zurechtfinden.
-
-## Emissionen rückgängig machen
 
 «Begonnen haben wir mit Interviews mit den Geschäftsführern von zehn verschiedenen Betonwerken, um zu erfahren, wo der Schuh drückt», erzählt Gutknecht. «Dann haben wir mit Fördergeldern von privaten Investoren und von der öffentlichen Hand die ersten kleinen Prototypen entwickelt.
 

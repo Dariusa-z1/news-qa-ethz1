@@ -2,19 +2,15 @@
 
 **Source:** en_internal/2021/05/eth-zurich-moving-into-new-gloriarank-building-later-than-planned.html
 
+**Date processed:** 2025-05-01
+
 ## Operational start
 
 The new GLC building is particularly significant for ETH Zurich and for Zurich as a location. Working with partners, ETH is seeking to set a new milestone in medical technology research and application with the new infrastructure. “The professorships, their labs and a technology platform for clinical trials will further expand existing ETH activities in medical research and its leading role in innovative medical technology,” says Detlef Günther, Vice President for Research.
 
-## Joint effort
-
 With around 12,000 m² of laboratory, office and seminar space, the site will bring together research groups and allow for greater collaboration with industry, the University of Zurich, the University Hospital Zurich and other university hospitals.
 
-## Subscribe to Newsletter
-
 As client, ETH is monitoring construction progress and will define a point in time for the start of operations, to provide its lecturers and researchers with the greatest measure of planning security. In this it is also guided by semester dates and the lead time required to set up laboratories and incorporate new GLC classrooms into semester planning.
-
-## Staffnet
 
 Due to a delay in the construction work and a later handover of the building from the general contractor to ETH, the GLC will not be opening in 2021 as originally planned. “Based on the current stage of construction, ETH expects the building to open in 2022. We would look to begin operations in the spring semester,” says Ulrich Weidmann, Vice President for Infrastructure.
 

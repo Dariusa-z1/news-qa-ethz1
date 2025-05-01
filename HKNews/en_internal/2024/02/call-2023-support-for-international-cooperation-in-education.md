@@ -2,7 +2,9 @@
 
 **Source:** en_internal/2024/02/call-2023-support-for-international-cooperation-in-education.html
 
-## Main article
+**Date processed:** 2025-05-01
+
+## Erasmus+ cooperation projects
 
 Under the International Programme, Movetia supports cooperation projects between Swiss educational institutions and European and non-European partner institutions to develop joint educational activities. Funding is available as fixed grants between CHF 15,000 and CHF 60,000 CHF, covering a maximum of 60% of the total project costs. The maximum project duration is 24 months
 

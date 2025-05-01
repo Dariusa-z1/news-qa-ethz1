@@ -2,13 +2,13 @@
 
 **Source:** en_news_events/2018/02/all-set-for-a-new-semester.html
 
+**Date processed:** 2025-05-01
+
 ## Learning to teach
 
 The exams are over, perhaps a few days of holiday here or there, and it’s time for things to get going again for the students – the start of the spring semester. And for the lecturers, it’s once again time for their schedule to be defined by lectures and exercises. This is a special moment for anyone standing at the front of a class for the first time.
 
 All of us have experience with teachers and lecturers, both the good and the slightly less accomplished. But what is it like to be the one standing at the front? How do you motivate the students? And what’s the best way to convey the course material? The Learning to Teach course offered by the Educational Development and Technology department (LET) provides answers to these questions. It’s specifically aimed at doctoral students who lead exercises, conduct excursions or provide support for internships and lectures.
-
-## Exercise session in inorganic chemistry
 
 Over three days, participants get an insight into teaching concepts and an overview of the most important literature. But even more important is the opportunity to gain experience themselves by running through teaching situations in small groups. “Trying things out is at the heart of what we do, and we try to keep the theory to a minimum,” explains Marion Lehner, who runs the course for the LET. “Once the participants have had initial experience of teaching, they can come up with concrete questions and really make the most of it.”
 
@@ -38,9 +38,9 @@ Since last semester, Janne Soetbeer has offered exercise sessions for 20 to 30 f
 
 Manuel Zimmermann, Dept. Civil, Environmental and Geomatic Engineering.
 
-## Demanding but rewarding
-
 “Certain things that I thought would be difficult before the course did actually turn out to be difficult,” says Manuel Zimmermann, who will be offering exercises connected to a lecture on railway infrastructure to around 200 students. As he has discovered, communicating a concept properly isn’t that easy. He also found the group exercises helpful, particularly the immediate feedback from colleagues: “‘I rarely get that kind of feedback in the lesson, because the students don’t dare tell me if they don’t understand my explanations,” he says. For Zimmermann, giving feedback also contributed a lot to the learning process: “We were forced to consider why something was good, and in so doing we recognised certain methodological principles from the theory section.”
+
+## Demanding but rewarding
 
 All the participants agree: the course was demanding, but well worth it. They are motivated to get to grips with their teaching tasks with the knowledge that they can make mistakes to improve their teaching. “We will soon be doing on a large scale what we have done in microcosm here,” says Janne Soetbeer, looking back on the three days.
 

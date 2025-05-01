@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2016/08/congressi-stefano-franscini-eroeffnen-ausschreibung-fuer-konferenzen.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Das Congressi Stefano Franscini, seit 1989 die Kongress-Platform der ETH Zürich, bietet die Möglichkeit wissenschaftliche Tagungen auf dem Monte Verità oberhalb von Ascona am Lago Maggiore zu organisieren. Die Ausschreibung für Konferenzen in 2018 richtet sich an Wissenschaftlerinnen und Wissenschaftler, die an einer Schweizer Hochschule oder an einem Schweizer Forschungsinstitut tätig sind; internationale Zusammenarbeit ist sehr willkommen.

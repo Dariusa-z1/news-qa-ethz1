@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2013/11/swarm-at-scientific-frontier.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 SWARM is a constellation of three identical satellites with equipment for making precise measurements of the magnetic field. The European Space Agency (ESA) has appointed a consortium of six research institutions to carry out the processing of data from SWARM and to produce specific scientific products that are then freely available to the scientific community. One member of the consortium is a team from ETH Zurich under the direction of ETH professor Andrew Jackson. In an interview with ETH News, he has explained the goals of the project.

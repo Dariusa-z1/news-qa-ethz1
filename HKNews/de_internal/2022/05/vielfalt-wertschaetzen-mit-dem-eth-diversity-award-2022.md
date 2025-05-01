@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2022/05/vielfalt-wertschaetzen-mit-dem-eth-diversity-award-2022.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Zu den wichtigsten Werten der ETH gehören Verantwortung, Offenheit, Vielfalt, Teamgeist und Exzellenz. Im gesamten ETH-Bereich setzen sich Studierende, Mitarbeitende und Dozierende auf vielfältige Weise für Vielfalt und Inklusion ein. Es passiert überraschend viel an der ETH zur Förderung der Vielfalt, von der Basis bis zur Verwaltung (z.B. Aktivitäten zum Monat des Respekt s). Der ETH Diversity Award 2022 wurde ins Leben gerufen, um die Verdienste von Mitgliedern unserer ETH-Gemeinschaft für ihre Arbeit zur Förderung von Inklusion und Vielfalt zu würdigen.

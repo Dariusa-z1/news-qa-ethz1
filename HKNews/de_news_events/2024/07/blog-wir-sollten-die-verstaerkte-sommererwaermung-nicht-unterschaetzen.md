@@ -2,19 +2,23 @@
 
 **Source:** de_news_events/2024/07/blog-wir-sollten-die-verstaerkte-sommererwaermung-nicht-unterschaetzen.html
 
-## Zum Autor
+**Date processed:** 2025-05-01
+
+## Main article
 
 Wo bleibt der Sommer? Diese Frage wurde mir in den vergangenen Wochen öfter gestellt. Tatsächlich war der Juni, wie zuvor bereits der Mai, wechselhaft, nass und sonnenarm. Zu kalt war er jedoch nicht – im Gegenteil: Laut MeteoSchweiz war die Tagesmitteltemperatur im Juni immer noch 0.4 Grad Celsius wärmer als der Durchschnitt der aktuellen Referenzperiode von 1991 bis 2020. 1
+
+## Zum Autor
 
 Dominik Schumacher ist Postdoc an der Professur für Land-Klima-Dynamik der ETH Zürich und forscht zu Extremereignissen im Klimawandel.
 
 Der Juni 2024 fühlte sich trotzdem kühl an, unter anderem, weil er bewölkungsbedingt tagsüber eher kälter, nachts dafür wärmer war, und weil er damit gerade zu den jüngsten Jahren mit rekordhohen Junitemperaturen in Kontrast steht. Es wäre jedoch vermessen, vom kühlen Juni gleich auf den ganzen Sommer zu schliessen. Als Klimaforscher, der sich mit Extremereignissen in einer immer wärmeren Welt befasst, wäre ich überrascht, wenn dieser Sommer in der Schweiz nicht doch noch heiss würde.
 
+## Saubere Luft macht wärmer
+
 Ein Blick auf die Entwicklung der letzten drei Jahrzehnte zeigt: Die Sommer in Europa und der Schweiz erwärmen sich schneller als jede andere Region der Welt. Fast die gesamte beobachtete Sommererwärmung von 2,3 Grad Celsius seit dem späten 19. Jahrhundert findet ab den 80er Jahren bis heute statt. 2 Nun deuten neue Erkenntnisse darauf hin, dass sich Europa und die Schweiz noch stärker erwärmen als bisher erwartet.
 
 In einer kürzlich veröffentlichten Studie gemeinsam mit ETH-Professorin Sonia Seneviratne und Forschenden am Institut für Atmosphäre und Klima verglichen wir die Sommererwärmung in Europa von 1980 bis 2022 mit den Prognosen regionaler Klimamodelle und stellten fest, dass die meisten Modelle die Beobachtungen nicht vollständig abbilden. 3,4 Das heisst, die simulierte Erwärmung ist geringer als beobachtet – die Modelle sind zu optimistisch und hinken der tatsächlichen Erwärmung etwa 15 Jahre hinterher. Der Grund dafür hat mit der verbesserten Luftqualität über Westeuropa zu tun.
-
-## Saubere Luft macht wärmer
 
 Globale Klimamodelle verwenden Gitterzellen von rund 100 km Länge und stellen die Schweiz nur mit einer Handvoll Pixel dar – die Alpen, die das Wetter und Klima der Schweiz entscheidend beeinflussen, sind kaum erkennbar.
 
@@ -26,7 +30,7 @@ Aerosole sind feinste Schwebeteilchen in der Luft, die etwa beim Verbrennen foss
 
 Obwohl globale Klimamodelle die veränderten Aerosole berücksichtigen, wurden bei regionalen Klimamodellen meistens der Einfachheit halber konstante Konzentrationen angenommen. Somit wurde die Erwärmung in der Schweiz und umliegenden Ländern bisher unterschätzt, und damit vielleicht auch der Anpassungsbedarf.
 
-## Diskrepanz zwischen Modell und Beobachtung
+## Wie warm ist entscheidend
 
 Regionale Modelle, welche die abnehmenden Aerosole vernachlässigen, untertreffen heute die tatsächliche sommerliche Erwärmung im Schnitt um mehr als 0,5 Grad Celsius. Unter einem starken Treibhausgas-Szenario könnte diese Diskrepanz in Westeuropa gegen Ende Jahrhundert um ein weiteres Grad zunehmen. Bei Hitzewellen über Westeuropa wird die Intensivierung sogar noch stärker unterschätzt: Von heute bis 2100 dürften es 1 bis 1,5 Grad Celsius sein.
 
@@ -37,8 +41,6 @@ Und was ist nun mit dem Sommer? Auch wenn heisses Sommerwetter 2024 in der Schwe
 1 Meteo-Schweiz Blog externe Seite Das wechselhafte und nasse Wetter widerlegt nicht die Klimaerwärmung
 
 2 MeteoSchweiz externe Seite Entwicklung von Temperatur und Niederschlägen
-
-## Wie warm ist entscheidend
 
 3 Schumacher, D. L., Singh, J., Hauser, M., Fischer, E. M., Wild, M., and Seneviratne, S.I. (2024): Exacerbated summer European warming not captured by climate models neglecting long-term aerosol changes. Commun. Earth Environ., 5, externe Seite DOI: 10.1038/s43247-024-01332-8
 

@@ -2,15 +2,9 @@
 
 **Source:** en_news_events/2023/04/europe-needs-to-become-more-independent-of-china.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
-
-- China, Russia, and the Future of the World Order
-
-- Silicon Curtain: America’s Quest for Allied Export Controls against China
-
-- Alliances and Extended Nuclear Deterrence in Europe and Asia
-
-- How India Navigates a World in Transition
 
 Mr. Thränert, which issue worries you the most? Oliver Thränert: The war in Ukraine continues to cast a big shadow over global affairs. We’re caught up in a geopolitical confrontation between Russia, a nuclear power, and the Western and other states that support Ukraine. And with China now siding with Russia, the US government even goes so far as to characterise it as a global confrontation between democracy and autocracy.
 
@@ -44,7 +38,13 @@ Are Russia and China equal partners? With its economic power, China is clearly t
 
 What impact will this have? China’s influence over Russia is growing. Russia also has a long common border with China. The Russian population along this frontier is thinning, but the Chinese population on the other side continues to grow. That also makes Russia vulnerable to China.
 
+## Strategic Trends 2023
+
 The Strategic Trends series offers an annual analysis of key developments in global affairs, with a focus on international security. The current issue contains the following articles:
 
+• China, Russia, and the Future of the World Order
+• Silicon Curtain: America’s Quest for Allied Export Controls against China
+• Alliances and Extended Nuclear Deterrence in Europe and Asia
+• How India Navigates a World in Transition
 Read the current issue here .
 

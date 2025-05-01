@@ -2,11 +2,15 @@
 
 **Source:** de_news_events/2023/02/wiedereroeffnung-des-thomas-mann-archivs.html
 
-## Zürich, im Juni 1955
+**Date processed:** 2025-05-01
+
+## Main article
 
 Die Dauerausstellung «Im Schreiben eingerichtet. Thomas Mann und sein Arbeitszimmer» ist vollständig neu konzipiert, die temporäre Ausstellung «Thomas Mann. Achtung Europa!» hochaktuell: Das Thomas-Mann-Archiv vermittelt bei seiner Wiedereröffnung Bewusstsein für die Geschichte und Sensibilität für die Gegenwart.
 
 Drei Stationen des Lebens eines der berühmtesten Schriftsteller des 20. Jahrhunderts stehen exemplarisch für sein Schaffen, sein politisches Engagement – und seine Verbindung zur ETH Zürich.
+
+## Zürich, im Juni 1955
 
 Karl Schmid, der Rektor der ETH Zürich, verleiht Thomas Mann zum 80. Geburtstag einen Ehrendoktortitel der Naturwissenschaften und ehrt damit einen, «der für das hohe Gut der Geistesfreiheit lebenslänglich in Wort und Tat einstand», wie der Urkunde zu entnehmen ist. Spätestens jetzt ist die besondere Beziehung zwischen dem Schriftsteller und der ETH Zürich besiegelt. Zwei Monate später verstirbt Thomas Mann und die Erbengemeinschaft entscheidet, den Nachlass der Schweiz zu schenken – dem Land, dem sich Thomas Mann zu Lebzeiten besonders verbunden fühlt. Bereits ein Jahr nach dem Tod Manns unterzeichnet der Bundesrat die Schenkungsurkunde und die Hochschule gründet das Thomas-Mann-Archiv.
 
@@ -17,8 +21,6 @@ Nach Jahren im Bodmerhaus und einem rund sechsjährigen Provisorium auf dem Hön
 «European Listeners!», lautet die Ansprache von Thomas Mann, als er sich anlässlich des zehnten Jahrestags der Machtergreifung Adolf Hitlers per Radio äussert. Es folgt ein bemerkenswertes Bekenntnis zu Europa als über die Nationalstaaten hinausgehende, den kriegsversehrten Kontinenten einigende Gemeinschaft:
 
 «Ich spreche zu euch als einer der eurigen, als ein Deutscher, der sich stets als Europäer betrachtet hat, der eure Länder und eure Kulturen gekannt hat und zutiefst davon überzeugt war, daß die politischen und wirtschaftlichen Zustände Europas, diese Aufteilung in willkürlich umgrenzte Staaten und Souveränitäten, die das Unglück des Kontinents herbeigeführt hat, veraltet und überholt ist.» (Rückübersetzung des englischen Typoskripts, zit. nach: Thomas Mann, Gesammelte Werke in dreizehn Bänden, Bd. XIII, Frankfurt am Main 1974, S. 749)
-
-## München, Ende der 1920er-Jahre
 
 Ab dem 1. März 2023 beleuchtet die temporäre Ausstellung «Thomas Mann. Achtung Europa!» dieses viel beachtete Engagement. Europa war für Thomas Mann ein Lebensthema: als kultureller Raum und als politisches Projekt. In einer Videoinstallation sprechen die Autor:innen Laura de Weck, Dana Grigorcea, Usama Al Shahmani und Michail Schischkin über die Bedeutung von Manns Überlegungen für das heutige Europa, das mit dem Ukrainekrieg erneut um seinen Zusammenhalt ringt.
 

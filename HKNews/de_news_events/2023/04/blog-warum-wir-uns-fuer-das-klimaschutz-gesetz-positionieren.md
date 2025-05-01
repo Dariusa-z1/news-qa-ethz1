@@ -2,9 +2,13 @@
 
 **Source:** de_news_events/2023/04/blog-warum-wir-uns-fuer-das-klimaschutz-gesetz-positionieren.html
 
-## Das Klimaschutz-Gesetz stärkt die Schweiz
+**Date processed:** 2025-05-01
+
+## Main article
 
 Mehr als 200 Wissenschaftlerinnen und Wissenschaftler von Schweizer Universitäten und Forschungsanstalten unterstützen das Klimaschutz-Gesetz. Die Expert:innen aus den Bereichen Klima, Energie, Umwelt und Nachhaltigkeit sowie weiteren Fachrichtungen mit Bezug zum Klimawandel veröffentlichten dazu eine Stellungnahme. 1
+
+## Das Klimaschutz-Gesetz stärkt die Schweiz
 
 Mit dem Klimawandel haben wir ein ernsthaftes Problem. Die naturwissenschaftlichen Fakten, die gesellschaftlichen Erkenntnisse von ähnlich gelagerten Problemen sowie die technischen und wirtschaftlichen Analysen lassen keinen anderen Schluss zu: Um das Problem an der Wurzel zu packen, müssen wir die CO 2 -Emissionen auf Netto-Null reduzieren. Dazu hat sich die Schweiz unter dem Pariser Übereinkommen verpflichtet. Unser Land und andere Industrienationen stehen in der Verantwortung, denn wir haben das Problem mitverursacht. Zudem haben wir die finanziellen und technischen Möglichkeiten, etwas dagegen zu tun. Die Schweiz hat eine Vorbildrolle - was wir tun, macht einen Unterschied. Und: Wenn wir uns engagieren, werden wir davon profitieren.
 
@@ -18,15 +22,17 @@ Kurz: Mit dem Klimaschutz-Gesetz stärken wir die Schweiz. Davon bin ich überze
 
 Reto Knutti ist Professor für Klimaphysik an der ETH Zürich.
 
+## Kontext liefern und einordnen
+
 In der Vergangenheit wurde oft kritisiert, wenn Wissenschaftler:innen sich in politische Debatten einbringen. Solch aktivistische “Einflussnahme” sei unsachlich, ja zutiefst anti-wissenschaftlich. Wissenschaftler:innen sollten vorurteils- und wertfrei forschen, sich politisch aber nicht äussern.
 
 Ich zähle mich zu jenen Fachleuten, die ihre Aufgabe anders verstehen: Gerade weil wir Wissenschaftler:innen sind, erachten wir es als unsere Pflicht, uns einzumischen. Voraussetzung dafür ist, dass wir über die nötige Expertise verfügen und aus wissenschaftlicher Sicht argumentieren. Während Politiker:innen gerne auf unsere Expertise zurückgreifen, ist sie für die breite Öffentlichkeit weit weniger verfügbar. Gerade bei Volksentscheiden, in denen wissenschaftliche Zusammenhänge eine zentrale Rolle spielen, ist es wichtig und richtig, dass auch Wissenschaftler:innen dazu Stellung nehmen und einordnen.
 
 Als Forschende erarbeiten wir primär Grundlagen, aber auch Entscheidungshilfen und Lösungen. Wir denken in Szenarien, bewerten Optionen und analysieren Kosten, Nutzen und Risiken. Die Ziele legen Politik und Gesellschaft fest. Doch nicht jede Situation lässt sich wissenschaftlich isoliert und nüchtern betrachten. Denn oft sind gesellschaftliche Prioritäten im Spiel. Insbesondere beim Klimawandel kann Forschung heute kaum mehr unpolitisch sein: Die Aussage, dass die Schweiz ihre CO 2 -Emissionen rasch reduzieren muss, ist einerseits eine rein logische Schlussfolgerung aus der Physik und der Verpflichtung aus dem Übereinkommen von Paris, das die Schweiz ratifiziert hat, und andererseits als Forderung politisch.
 
-Der Anspruch, dass Wissenschaft völlig wertefrei sein muss, ist weder möglich noch wünschenswert. Forschung muss wissenschaftlichen Prinzipien genügen, objektiv und reproduzierbar sein. Jede Forschung wird jedoch unweigerlich durch das gesellschaftspolitische Umfeld geprägt. Entscheidend ist, dass wir bei unserer Interpretation die Werte, Prioritäten und Kriterien transparent machen und auch mögliche andere Bewertungen diskutieren. 3
+## Dialog und Kommunikation als Auftrag
 
-## Kontext liefern und einordnen
+Der Anspruch, dass Wissenschaft völlig wertefrei sein muss, ist weder möglich noch wünschenswert. Forschung muss wissenschaftlichen Prinzipien genügen, objektiv und reproduzierbar sein. Jede Forschung wird jedoch unweigerlich durch das gesellschaftspolitische Umfeld geprägt. Entscheidend ist, dass wir bei unserer Interpretation die Werte, Prioritäten und Kriterien transparent machen und auch mögliche andere Bewertungen diskutieren. 3
 
 Nicht zuletzt kommt der modernen Wissenschaft auch eine Rolle als Fakten-Checker zu: In einer Zeit, in der vermeintliche Realitäten und gezielte Desinformation auf Plakaten und sogar auf offiziellen Partei-Webseiten verbreitet werden, müssen Forschende mit ihrer Expertise klarstellen, was stimmt und was nicht. Tun wir es nicht, werden andere Akteure mit Partikulärinteressen ihre eigenen Interpretationen liefern.
 
@@ -37,8 +43,6 @@ In der Öffentlichkeit Stellung zu beziehen, könnte in gewissen Kreisen unsere 
 Wir erachten das Klimaschutz-Gesetz als wichtigen Schritt in die richtige Richtung. Deshalb bringen wir uns ein und tragen zu einer faktenbasierten Meinungsbildung bei.
 
 1 externe Seite Stellungnahme zum Klimaschutz-Gesetz von Wissenschaftlerinnen und Wissenschaftlern Schweizer Hochschulen.
-
-## Dialog und Kommunikation als Auftrag
 
 2 « externe Seite Bundesgesetz über die Ziele im Klimaschutz, die Innovation und die Stärkung der Energiesicherheit » und externe Seite Klimaschutzgesetz-ja.ch
 

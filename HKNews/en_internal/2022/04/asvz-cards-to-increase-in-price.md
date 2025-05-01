@@ -2,25 +2,20 @@
 
 **Source:** en_internal/2022/04/asvz-cards-to-increase-in-price.html
 
+**Date processed:** 2025-05-01
+
 ## New membership fees from autumn/new year
 
-- For students: new rate from autumn semester 2022 CHF 35 per semester (currently: CHF 30)
-
-- For staff: new rate from 1 January 2023 CHF 300 per year (currently: CHF 225)
-
-- For alumni: new rate from 1 January 2023 CHF 700 per year (currently: CHF 600)
-
+• For students: new rate from autumn semester 2022 CHF 35 per semester (currently: CHF 30)
+• For staff: new rate from 1 January 2023 CHF 300 per year (currently: CHF 225)
+• For alumni: new rate from 1 January 2023 CHF 700 per year (currently: CHF 600)
 Student numbers are rising and all those who are eligible to use the ASVZ sports facilities are doing so more frequently. In recent years, the ASVZ has had to invest heavily at various levels in order to cover the huge demand.
 
 “It’s very positive that more and more people are enjoying sport with the ASVZ. We are investing a lot to keep pace with this development. The downside is that that costs a lot too,” explains ASVZ Director Lorenz Ursprung. The sports association has continuously expanded its sports programmes, for example, and extended opening hours. The strength and cardio rooms have also been updated on a regular basis.
 
-## Staffnet
-
 The prime focus in the near future will be on expanding the available space. The Gloriarank sports centre is set to open in February 2023. The Irchel sports centre is being expanded, with the addition of Irchel-West, which will open in September 2024. The ASVZ is also able to use additional municipal and cantonal sports halls, particularly in the evenings. The sports association will even have a presence at the Forum UZH in the centre.
 
 In addition, the ASVZ is constantly adapting opening hours to suit users’ needs. The Winterthur sports centre, for example, has been open on Sundays since 2020. From autumn 2022, the Polyterrasse sports centre will remain open until 11 p.m. on weekdays.
-
-## Subscribe to Newsletter
 
 And, not least, the registration and signing-in services, the app and the website have been constantly developed and professionalised in recent years.
 

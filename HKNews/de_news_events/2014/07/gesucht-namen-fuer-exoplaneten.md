@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2014/07/gesucht-namen-fuer-exoplaneten.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH-News fragte Kevin Schawinski, Professor für Astrophysik und Mitinitiant der Citizen Science-Plattform, und Sascha Patrick Quanz, der als Senior Scientist selber Exoplaneten erforscht, was sie von der Idee halten.
@@ -37,6 +39,8 @@ Welches sind die nächsten grossen Schritte bei der Erforschung der Exoplaneten?
 Quanz: Je mehr Planeten wir finden, umso mehr Fragen tauchen auf; insofern haben wir extrem viele offene Fragen! Wir sollten klären, wie viele Planeten ihre Sterne in einem Abstand umkreisen, der es erlaubt, dass auf ihnen Wasser flüssig sein könnte. Flüssiges Wasser wird häufig als Bedingung genannt, damit Leben, wie wir es von der Erde kennen, auf einem anderen Planet möglich sein könnte.
 
 2M1207b war 2004 der erste Exoplanet, der direkt auf optischem Wege durch das Very Large Telescope (VLT) der ESO wahrgenommen werden konnte.
+
+## Zu den Personen
 
 Kevin Schawinski wurde 1981 in Zürich geboren und ist seit 2012 Assistenzprofessor der Astrophysik von Galaxien und schwarzen Löchern am Departement Physik. Sein Hauptforschungsinteresse gilt der Co-Evolution von Galaxien und supermassiven schwarzen Löchern. Zudem engagiert sich Schawinski für “Citizen Science” (Bürgerwissenschaft) und die direkte Einbindung der Öffentlichkeit in die wissenschaftliche Forschung. ( ETH life vom 21.1.2013 )
 

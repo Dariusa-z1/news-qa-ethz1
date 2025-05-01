@@ -2,31 +2,27 @@
 
 **Source:** de_news_events/2021/02/aerosole-veraendern-sonneneinstrahlung-ueber-jahrzehnte.html
 
+**Date processed:** 2025-05-01
+
 ## Natürliche Schwankungen oder Luftverschmutzung?
 
 In den späten 1980er und 1990er Jahren fanden Forschende der ETH Zürich erste Hinweise darauf, dass die Sonneneinstrahlung auf der Erdoberfläche seit den 1950er Jahren laufend abgenommen hatte. Bekannt wurde das Phänomen als «global dimming» – ein weltweites Abdunkeln der Atmosphäre. Ab den späten 1980er Jahren aber setzte ein «brightening» ein. Die Atmosphäre hellte vielerorts wieder auf, die Einstrahlung auf der Erdoberfläche nahm zu.
 
 «Wir haben in früheren Arbeiten gezeigt, dass die Sonneneinstrahlung an der Erdoberfläche über Jahrzehnte hinweg nicht konstant ist, sondern substanzielle Variationen zeigt - ein Phänomen, das unter dem Begriff «global dimming and brightening» bekannt geworden ist», sagt ETH-Professor Martin Wild vom Institut für Atmosphäre und Klima.
 
-## Abdunkelung auch bei wolkenfreiem Himmel
-
 Weshalb es zu den über Jahrzehnten beobachteten Schwankungen kam, ist jedoch nur unzureichend geklärt. Besonders umstritten ist, ob die Schwankungen durch die Luftverschmutzung und die damit verbundene Blockierung des Sonnenlichts durch Aerosole verursacht werden oder ob sie eher eine Folge natürlicher Schwankungen im Klimasystem sind.
 
 So vermuteten einige Wissenschaftler, dass sich die Wolkenbedeckung über Jahrzehnte verändert haben könnte, und so die Sonnenstrahlung während der Abdunkelungsphase stärker dämpfte als während der Aufhellphase.
 
-## Aufhellung nach wirtschaftlichem Zusammenbruch
-
 Martin Wild und Kollegen von weiteren Forschungsanstalten analysierten deshalb Messdaten aus den Jahren 1947 bis 2017 der unter Klimaforschenden berühmten Strahlungsmessreihe Potsdam. Dabei handelt es sich um eine der längsten und am besten unterhaltenen kontinuierlichen Messungen der Sonneneinstrahlung auf die Erdoberfläche.
 
-Damit konnten sie nun in einer neuen Studie zeigen, dass diese Schwankungen nicht auf natürliche Veränderungen in der Wolkenbedeckung zurückzuführen sind, sondern variierenden menschgemachten Aerosolen zugrunde liegen. Die Arbeit wurde soeben in der Fachzeitschrift externe Seite «Geophysical Research Letters» veröffentlicht.
+## Abdunkelung auch bei wolkenfreiem Himmel
 
-## Dimming verringerte Verdunstung und Niederschlag
+Damit konnten sie nun in einer neuen Studie zeigen, dass diese Schwankungen nicht auf natürliche Veränderungen in der Wolkenbedeckung zurückzuführen sind, sondern variierenden menschgemachten Aerosolen zugrunde liegen. Die Arbeit wurde soeben in der Fachzeitschrift externe Seite «Geophysical Research Letters» veröffentlicht.
 
 «Bei unserer Analyse filterten wir den Einfluss der Wolken heraus, um zu sehen, ob diese längerfristigen Schwankungen in der Einstrahlung auch bei wolkenfreiem Himmel auftraten», erklärt Wild. Und tatsächlich: Die Schwankungen der Sonnenstrahlung waren auch ohne Wolken erkennbar.
 
 Als Hauptfaktor für die Abdunkelung identifizierten die Forscher Aerosole, die aufgrund der Luftverschmutzung in die Atmosphäre gelangten. «Das haben wir zwar vermutet, konnten es aber bisher nicht direkt nachweisen», sagt der ETH-Professor.
-
-## Literaturhinweis
 
 Für die menschverursachte Variation spricht auch, dass der Übergang von Abdunkelung zur Aufhellung mit dem wirtschaftlichen Zusammenbruch der früheren kommunistischen Länder Ende der 80er Jahre zusammenfiel. In dieser Zeit führten zudem viele westliche Industrieländer strengere Luftreinhaltemassnahmen ein, was die Luftqualität massiv verbesserte. Und nicht zuletzt erholte sich die Atmosphäre vom Ausbruch des Pinatubo, der 1991 riesige Mengen an Aerosolen in die Luft geschleudert hatte.
 
@@ -37,6 +33,8 @@ Die Sonneneinstrahlung an der Erdoberfläche ist bei Klimafragen eine zentrale G
 Auch die Kryosphäre, also die Gletscher- und Eiswelten, wird von der Strahlung beeinflusst. «Der Rückgang unserer Gletscher beschleunigte sich, als sich die Atmosphäre wieder aufzuhellen begann», sagt Wild. «Und auch für die Solarindustrie ist ein besseres Verständnis dieser Schwankungen von zunehmender Bedeutung bei der Planung ihrer Anlagen.»
 
 In Potsdam betreibt der Deutsche Wetterdienst ein Observatorium, das seit 1937 die Sonneneinstrahlung misst. Damit verfügt die Station über eine der weltweit längsten Strahlungsmessreihen. «Ich bin sehr dankbar für Messdaten, die viele Jahrzehnte umfassen, denn nur dank solchen Messreihen können wir Umwelt- und Klimaveränderungen festhalten und sichtbar machen», betont Martin Wild. Es sei deshalb dringend nötig, weltweite Messnetze zu unterhalten, die über sehr lange Zeit betrieben werden. Das sei zwar wenig spektakulär und schwierig zu finanzieren. «Wollen wir den Klimawandel verstehen und den Einfluss des Menschen klären, müssen wir über ausreichend lange Messreihen verfügen», sagt der Klimaforscher. Zu diesem Zweck unterhält die ETH auch das sogenannte «Globale Energiebilanz Archiv (GEBA)», das eine einzigartige Sammlung von weltweiten Strahlungsmessreihen enthält.
+
+## Literaturhinweis
 
 Wild M, Wacker S, Yang S, Sanchez-Lorenzo A. Evidence for Clear‐sky Dimming and Brightening in Central Europe, Geophysical Research Letters, first published: 01 February 2021. DOI: externe Seite 10.1029/2020GL092216
 

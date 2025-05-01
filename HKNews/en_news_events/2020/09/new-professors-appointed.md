@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2020/09/new-professors-appointed.html
 
-## Award of the title of Professor
+**Date processed:** 2025-05-01
+
+## Main article
 
 The new professors in brief:
 
@@ -17,6 +19,8 @@ Professor Marina Krstic Marinkovic (*1984), currently Junior Professor at Ludwig
 Professor Leonardo Senatore (*1978), currently Associate Professor at Stanford University in Palo Alto, USA, as Full Professor of Theoretical Physics in the Department of Physics. Leonardo Senatore’s research deals with theoretical cosmology, particularly the analysis of cosmic background radiation, the large-scale structure of the universe and gravitational waves. He has developed innovative methods for the quantitative description of cosmological phenomena, and was the recipient of a New Horizons in Physics Prize – a prestigious award aimed at early-career researchers. The appointment of Leonardo Senatore enables ETH Zurich to strengthen its research and teaching in fundamental physics and theoretical cosmology.
 
 Professor Shinichi Sunagawa (*1978), currently Assistant Professor at ETH Zurich, as Associate Professor of Microbiome Research in the Department of Biology. Shinichi Sunagawas’ research concentrates on microbial communities in oceans and the human gut. Among other activities, he is bioinformatics coordinator for the Tara Oceans expedition, a major international project which is studying the biological diversity of the oceans. The appointment of Shinichi Sunagawa enables the Department of Biology to boost interdepartmental cooperation in the fields of environment, health and medicine. His research will create further synergies with the University of Zurich and Zurich University Hospital, and assist the NCCR Microbiomes national research programme.
+
+## Award of the title of Professor
 
 Professor Marcy Zenobi-Wong (*1963), currently Associate Professor at ETH Zurich, as Full Professor of Tissue Engineering and Biofabrication in the Department of Health Sciences and Technology. Marcy Zenobi-Wong’s research interests focus on cartilage repair and biofabrication. Thanks to her acknowledged expertise in bioprinting as well as two-photon polymerisation, polymer chemistry and tissue biology, she is a leading specialist in the development and application of new biomaterials. Her ability to combine mechanical and biological perspectives allows Marcy Zenobi-Wong to pursue innovative paths as she applies the latest knowledge of cellular and mechanobiology to regeneration methods in tissue engineering.
 

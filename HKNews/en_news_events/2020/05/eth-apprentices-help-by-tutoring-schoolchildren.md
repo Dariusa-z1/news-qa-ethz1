@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2020/05/eth-apprentices-help-by-tutoring-schoolchildren.html
 
-## Main article
+**Date processed:** 2025-05-01
+
+## Online career orientation sessions
 
 Help with mathematics, physics, foreign languages, using office software on PCs – when 12- to 15-year-old secondary school pupils reach the limits of their knowledge, they can turn to the helpful tutoring service offered by apprentices at ETH Zurich. All they have to do is visit the “Lern mit mir” learning platform, go to the “ LernArena ” section and then select the desired subject. Registration and tutoring are free of charge.
 

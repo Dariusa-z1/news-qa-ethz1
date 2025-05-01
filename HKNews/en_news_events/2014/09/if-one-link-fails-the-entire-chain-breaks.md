@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2014/09/if-one-link-fails-the-entire-chain-breaks.html
 
+**Date processed:** 2025-05-01
+
 ## ETH Zurich mandate at risk
 
 Before the year is out, the Swiss Federal Council plans to adopt a mandate for renegotiation Switzerland’s agreement with the EU on the free movement of persons. At the same time, it intends to submit a draft act on how Switzerland can control its own immigration policy.
@@ -12,8 +14,6 @@ This restriction will also affect foreign staff and students at Swiss universiti
 
 In the long term, excessive restrictions on immigration will pose a threat to ETH Zurich’s mandate to expand its position at the forefront of international education and research and share its findings with Swiss business and society. “We have a mandate to ensure that Switzerland has access to globally available knowledge. To fulfil this mandate, we need to secure the top talent.”
 
-## Dependant on access to world markets
-
 Those were the words of Lino Guzzella, Rector and President-elect of ETH Zurich, speaking before members of the Parliament in Berne last Thursday in a session organised by the Parliamentary Group on Education, Research and Innovation ( PG BFI ) and the FUTURE network . Lino Guzzella was joined on the podium by Silvio Ponti, Deputy CEO of the specialty chemicals company Sika and an ETH graduate, and Mario Gattiker, Director of the Federal Office for Migration.
 
 Lino Guzzella expressed his dissatisfaction with the latest developments, pointing out that science depends on international exchange and that the foreign professors, who make up two thirds of ETH Zurich’s professorial staff, play a hugely important role in securing the university’s international status and networks.
@@ -21,8 +21,6 @@ Lino Guzzella expressed his dissatisfaction with the latest developments, pointi
 Guzzella and the industry representative agreed that both research and production must have free access to global markets if they are to avoid descending into mediocrity. “I don’t want to have to beg for quotas, but the signs are not good,” Guzzella said, commenting on the immigration restrictions. That applies to both ETH Zurich and research-based industry. “Even if just a single link fails, the entire chain breaks,” Guzzella concluded.
 
 He warned that a decline of this kind would not happen instantly, but would gradually creep in over the next 20 years. However, dark clouds have already started to appear on the horizon: the European Union, for example, has made any access to its markets dependent on the Agreement on the Free Movement of Persons.
-
-## In a weaker position
 
 What is more, young Swiss talent is now excluded from participating in European research competitions for pupils. “Making the future difficult for young people cannot be a good thing,” said Guzzella. Switzerland is also no longer fully associated with the Erasmus + and Horizon 2020 research programmes.
 

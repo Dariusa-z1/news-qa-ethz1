@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2017/01/mit-selbstgebauten-skis-auf-die-piste.html
 
-## Main article
+**Date processed:** 2025-05-01
+
+## Schritt für Schritt zum eigenen Ski
 
 Beim Betreten des Werklabors im ETH Zentrum sticht einem ein leicht penetranter, synthetisch anmutender Geruch in die Nase. Mehrere lange Tische mit metallenen Wannen füllen den kleinen Raum. Es herrscht munteres Treiben im Kurs Integrative Ski Design and Fabrication Workshop des Bachelors Maschineningenieurswissenschaften. Studenten schwirren emsig um die Tische, suchen sich ihre Materialien zusammen und bereiten sich auf das bevorstehende Programm vor: die Skirohlinge Schicht für Schicht in der sogenannten Sandwich-Bauweise anzufertigen.
 

@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2015/04/der-gesundheit-auf-der-spur.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Das Institut für Epidemiologie, Biostatistik und Prävention der Universität Zürich erforscht die Gesundheit. Seine Erkenntnisse setzt das Institut für das Wohlergehen der Zürcherinnen und Zürcher ein: Auch Angehörige der ETH Zürich können das Institut am 6. Juni auf einem abwechslungsreichen Erlebnisparcours kennenlernen.

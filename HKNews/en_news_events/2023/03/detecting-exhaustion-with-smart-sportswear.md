@@ -2,47 +2,45 @@
 
 **Source:** en_news_events/2023/03/detecting-exhaustion-with-smart-sportswear.html
 
+**Date processed:** 2025-05-01
+
 ## Abstract
 
-- A new textile sensor measures body movements very precisely without the need for electronic components such as batteries or chips.
-
-- Integrated into work and sports clothing, the sensor can predict in real time how exhausted you are during physical exertion.
-
-- The sensor is made of a special yarn that expands when you pull on it thereby generating an electrical signal.
-
-- The textile sensor can be used to prevent fatigue-related injuries in sports or at the workplace.
-
+• A new textile sensor measures body movements very precisely without the need for electronic components such as batteries or chips.
+• Integrated into work and sports clothing, the sensor can predict in real time how exhausted you are during physical exertion.
+• The sensor is made of a special yarn that expands when you pull on it thereby generating an electrical signal.
+• The textile sensor can be used to prevent fatigue-related injuries in sports or at the workplace.
 Exhaustion makes us more prone to injury when we’re exercising or performing physical tasks. A group of ETH Zurich researchers led by Professor Carlo Menon, Head of the Biomedical and Mobile Health Technology Lab, have now developed a textile sensor that produces real-time measurements of how exhausted a person gets during physical exertion. To test their new sensor, they integrated it into a pair of athletic leggings. Simply by glancing at their smartphone, testers were able to see when they were reaching their limit and if they ought to take a break.
 
 This invention, for which ETH Zurich has filed a patent, could pave the way for a new generation of smart clothing: many of the products currently on the market have electronic components such as sensors, batteries or chips retrofitted to them. In addition to pushing up prices, this makes these articles difficult to manufacture and maintain.
 
-## An extraordinary yarn
-
 By way of contrast, the ETH researchers’ stretchable sensor can be integrated directly into the material fibres of stretchy, close-fitting sportswear or work clothing. This makes large-scale production both easier and cheaper. Menon highlights another benefit: “Since the sensor is located so close to the body, we can capture body movements very precisely without the wearer even noticing.”
+
+## An extraordinary yarn
 
 When people get tired, they move differently – and running is no exception: strides shorten and become less regular. Using their new sensor, which is made of a special type of yarn, the ETH researchers can measure this effect.
 
-## Smart running leggings
-
 It’s all thanks to the yarn’s structure: the inner fibre is made of a conductive, elastic rubber.. The researchers wrapped a rigid wire, which is clad in a thin layer of plastic, into a spiral around this inner fibre. “These two fibres act as electrodes and create an electric field. Together, they form a capacitor that can hold an electric charge,” says Tyler Cuthbert, a postdoc in Menon’s group, who was instrumental in the research and development that led to the invention.
+
+## Smart running leggings
 
 Stitching this yarn into the thigh section of a pair of stretchy running leggings means that it will stretch and slacken at a certain rhythm as the wearer runs. Each movement alters the gap between the two fibres, and thus also the electric field and the capacitor’s charge.
 
-## Textile antenna for wireless data transfer
-
 Under normal circumstances, these charge fluctuations would be much too small to help measure the body’s movements. However, the properties of this yarn are anything but normal: “Unlike most other materials, ours actually becomes thicker when stretched,” Cuthbert says. As a result, the yarn is considerably more sensitive to minimal movements. Stretching it even a little produces distinctly measurable fluctuations in the sensor’s charge. This makes it possible to measure and analyse even subtle changes in running form.
+
+## Textile antenna for wireless data transfer
 
 But how can this be used to determine a person’s exhaustion level? In previous research, Cuthbert and Menon observed a series of testers, who ran while wearing athletic leggings equipped with a similar sensor. They recorded how the electric signals changed as the runners got more and more tired. Their next step was to turn this pattern into a model capable of predicting runners’ exhaustion which can now be used for their novel textile sensor. But ensuring that the model can make accurate predictions outside the lab will require a lot of additional tests and masses of gait pattern data.
 
-## Applications include sport and workplace
-
 To enable the textile sensor to send electrical signals wirelessly to a smartphone, the researchers equipped it with a loop antenna made of conducting yarn, which was also sewn directly onto the leggings. “Together, the sensor and antenna form an electrical circuit that is fully integrated into the item of clothing,” says Valeria Galli, a doctoral student in Menon’s group.
+
+## Applications include sport and workplace
 
 The electrical signal travels from the stretchable sensor to the antenna, which transmits it at a certain frequency capable of being read by a smartphone. The wearer runs and the sensor moves, creating a signal pattern with a continuously fluctuating frequency, which a smartphone app then records and evaluates in real time. But the researchers still have quite a bit of development work to do to make this happen.
 
-## Reference
-
 At the moment, the researchers are working on turning their prototype into a market-ready product. To this end, they are applying for one of ETH Zurich’s sought-after Pioneer Fellowships. “Our goal is to make the manufacture of smart clothing cost-effective and thus make it available to a broader public,” Menon says. He sees the potential applications stretching beyond sport to the workplace – to prevent exhaustion-related injuries – as well as to rehabilitation medicine.
+
+## Reference
 
 Cuthbert T, Hannigan B, Roberjot P, Shokurov A, Menon C. HACS: Helical Auxetic Yarn Capacitive Strain Sensors with Sensitivity Beyond the Theoretical Limit. Advanced Materials , 2023. doi: 10.1002/adma.202209321
 

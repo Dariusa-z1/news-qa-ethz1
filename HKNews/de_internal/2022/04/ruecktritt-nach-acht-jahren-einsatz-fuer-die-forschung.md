@@ -2,27 +2,21 @@
 
 **Source:** de_internal/2022/04/ruecktritt-nach-acht-jahren-einsatz-fuer-die-forschung.html
 
+**Date processed:** 2025-05-01
+
 ## Leidenschaft für die Forschung an der ETH
 
 Nach zwei Amtsperioden hat sich Detlef Günther entschieden, per 31.12.2022 seine Funktion als Vizepräsident für Forschung niederzulegen, in seine noch aktive Forschungsgruppe am Departement für Chemie und angewandte Biowissenschaften (D-CHAB) zurückzukehren und sich damit wieder voll der Lehre und der eigenen Forschung zu widmen. «Es ist jetzt der richtige Zeitpunkt, um noch einmal spannende Entwicklungen in der Forschung der analytischen Chemie mitzugestalten», sagt Detlef Günther. «Ich möchte mit meinen Doktorierenden noch ein paar neue Forschungsideen umsetzen.»
 
-## Erfolge in Wirtschaftsbeziehungen und Transfer
-
 «Das Herz von Detlef hat immer für die Forschung und die Wirtschaftsbeziehungen der ETH Zürich geschlagen und er hat es mit seinem immensen Einsatz als Vizepräsident möglich gemacht, dass neue Forschungsthemen erschlossen wurden, die interdisziplinäre Forschung gestärkt wurde und neue Zentren entstanden sind. Ich bedaure seinen Rücktritt per Ende Jahr sehr und bedanke mich bei ihm herzlich für seinen herausragenden Einsatz im Dienste unserer Forschung, unserer Wirtschaftsbeziehungen und des Wissenstransfers», betont der Präsident der ETH Zürich. Joël Mesot zeigt aber auch Verständnis für diesen Entscheid: «Ich bin ja selbst Forscher – deshalb kann ich sehr gut nachvollziehen, dass Detlef Günther nochmals zu 100 Prozent zurück in die eigene Forschung möchte.»
-
-## Nachfolgesuche beginnt
 
 Besonders stark eingesetzt hat sich der passionierte Fussballkenner Günther mit enzyklopädischem Gedächtnis für die Stärkung der Grundlagenforschung. In seiner Amtszeit und auf sein Betreiben hat die ETH verschiedene Plattformen mit herausragender Infrastruktur auf- und ausgebaut sowie neue Kompetenzzentren gegründet. Zuletzt etwa das Zentrum für Künstliche Intelligenz , dem inzwischen über 100 Professor:innen der ETH Zürich angehören oder der Tumor Profiler und die digitale Versuchs- und Interventions-Plattform, welche die medizinische Forschung der ETH weiter voranbringen sollen. In den letzten Jahren durfte die ETH Zürich auch viele Erfolge im Rahmen der europäischen Forschungsförderung erzielen. Deshalb hat sich Detlef Günther jüngst auch mit viel Energie gegen den Ausschluss der Schweiz aus dem ERC gewehrt. Auch sein Engagement gegen ein vollständiges Tierversuchsverbot zeugt von seiner tiefen Überzeugung, dass gute Forschung nur dort entsteht, wo sie sich frei entfalten kann.
 
-## Detlef Günthers Werdegang und Verdienste
-
 Von 2015 bis 2020 war Detlef Günther nicht nur für den Bereich Forschung, sondern auch für die Wirtschaftsbeziehungen und den Transfer des Wissens in die Gesellschaft zuständig (vgl. Kasten «Werdegang und Verdienste»). «Die Begleitung und aktive Förderung unserer Spin-off-Aktivitäten hat mir viel Freude bereitet», sagt Detlef Günther. In seiner Amtszeit hat sich die Zahl der ETH-Ausgründungen konstant erhöht. «Und auch das Pioneer-Fellow-Programm zur Förderung von Nachwuchsforschenden und ihren innovativen Ideen, das mein Vorgänger ins Leben gerufen hat, hat sich prächtig entwickelt», freut sich der Ende Jahr abtretende Forschungsverantwortliche der ETH Zürich.
-
-## Staffnet
 
 Wie schon bei der Teilpensionierung von Robert Perich, ist ETH-Präsident Joël Mesot auch bei Detlef Günther dankbar, dass dank der frühzeitigen Ankündigung des Rücktritts jetzt Zeit bleibt für eine geordnete Suche nach einer guten Nachfolgelösung. Joël Mesot: «Die Forschung ist neben der Lehre das Herzstück der ETH Zürich. Die Besetzung dieser Schlüsselposition ist daher für die Entwicklung der ETH Zürich entscheidend und hat für mich in den nächsten Wochen die höchste Priorität».
 
-## Newsletter abonnieren
+## Detlef Günthers Werdegang und Verdienste
 
 Der Ende Dezember 2022 abtretende Vizepräsident für Forschung hat seine Ausbildung und sein Doktorat am Departement für Chemie der Martin-Luther-Universität in Halle-Wittenberg in der damaligen DDR absolviert. Dort startete er auch seine akademische Karriere, die ihn im weiteren Verlauf vom Institut für Pflanzenbiochemie in Halle an das Departement für Erdwissenschaften an der Universität von Neufundland in Kanada und im Jahr 1995 als Postdoktorand an die ETH Zürich geführt hat. Nach Zürich geholt hatte ihn Christoph Heinrich im Departement Erdwissenschaften (D-ERDW), um an der ETH eine laserbasierte Methode für die Mikroanalytik aufzubauen.
 

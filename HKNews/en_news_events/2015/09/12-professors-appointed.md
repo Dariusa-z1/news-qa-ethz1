@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2015/09/12-professors-appointed.html
 
+**Date processed:** 2025-05-01
+
 ## Appointments
 
 Ioannis Anastasopoulos. (Photo: courtesy of I.A.)
@@ -20,8 +22,6 @@ Marco Hutter. (Bild: courtesy of M.H.)
 
 Dr. Marco Hutter (*1985), currently Deputy Laboratory Director at ETH Zurich, as Tenure Track Assistant Professor of Robotic Systems. Marco Hutter has achieved global recognition for his pioneering work on mechanical walking. His focus is on innovative concepts of series elastic actuation systems, which enable quadrupedal robots to walk and run in an extremely efficient and dynamic manner. A drive module developed by his team will shortly be used in the industrial manufacture of walking excavators. Marco Hutter's appointment will further enhance ETH Zurich's leading position in robotics research and significantly strengthen two National Centres of Competence in Research – Digital Fabrication and Robotics.
 
-## Award of the title of Professor
-
 Christoph Keller (Photo: courtesy of C.K.)
 
 Dr. Christoph Keller (*1981), currently a post-doctoral student at Rutgers University, New Jersey, USA, as Assistant Professor of Mathematical Physics. Christoph Keller is an internationally acclaimed theoretical physicist. His work highly successfully combines physical intuition with methods from modern mathematics. He has gained particular recognition for his work on conformal field theories and their applications in string theory. In addition, he is a gifted teacher who is able to explain even the most complex content while inspiring students to discover more about his research interests. Christoph Keller's appointment at ETH Zurich is expected to reinforce the traditionally strong relationship between the Departments of mathematics and physics.
@@ -38,9 +38,9 @@ Onur Mutlu. (Photo: courtesy of O.M.)
 
 Prof. Dr. Onur Mutlu (*1978), currently Associate Professor at Carnegie Mellon University, Pittsburgh, USA, as Full Professor of Computer Science. Onur Mutlu is one of the world's most promising scientists in the field of computer engineering and has gained an excellent reputation through his contributions to top conferences. He conducts research into the design of fast, scalable and energy-efficient computers, especially their memory architecture. His other research topics include biological computing and bio-inspired systems. Onur Mutlu's appointment strengthens the computer systems subject area at ETH Zurich. His work also has interesting cross-connections with topical research issues such as data centres, networks and operating systems.
 
-## Departures
-
 Gunnar Rätsch. (Photo: courtesy of G.R.)
+
+## Award of the title of Professor
 
 Prof. Dr. Gunnar Rätsch (*1973), currently Associate Professor at the Memorial Sloan Kettering Cancer Center in New York, USA, as Full Professor of Biomedical Informatics. Gunnar Rätsch is an internationally renowned specialist in medical and bioinformatics. He develops highly advanced statistical processes to discover genes in genomic sequence data and use them to extract medical information. This knowledge is linked to large volumes of data from hospital archives, for example, thus helping to drive personalised medicine forward. By appointing Gunnar Rätsch, ETH Zurich is not only proactively strengthening research and teaching at the interface between information technology and medicine but also reinforcing the strategic area of big data.
 
@@ -54,9 +54,9 @@ Dr. Stefanie D. Krämer (*1964), Senior Lecturer and Senior Scientist at ETH Zur
 
 Christoph Vorburger. (Photo: Giulia Marthaler)
 
-Prof. Dr. Christoph Vorburger (*1971), from October 2015 Group Leader at Eawag in Dübendorf, as Adjunct Professor at ETH Zurich. Christoph Vorburger is an internationally acclaimed evolutionary biologist and an outstanding university lecturer. His Swiss National Science Foundation (SNSF) assistant professorship at the Department of Environmental Systems Science at ETH Zurich expires at the end of September 2015.
+## Departures
 
-## Don't miss the latest news
+Prof. Dr. Christoph Vorburger (*1971), from October 2015 Group Leader at Eawag in Dübendorf, as Adjunct Professor at ETH Zurich. Christoph Vorburger is an internationally acclaimed evolutionary biologist and an outstanding university lecturer. His Swiss National Science Foundation (SNSF) assistant professorship at the Department of Environmental Systems Science at ETH Zurich expires at the end of September 2015.
 
 Prof. Dr. Pius Baschera (*1950), currently Full Professor of Entrepreneurship, will retire at the end of January 2016. Since 1998 Pius Baschera has been a lecturer at ETH Zurich, alongside his successful business career as a mechanical engineer and business expert. In 2006 the ETH Board appointed him as a Full Professor. His post was established along the lines of a Professor of Practice with reduced working hours. ETH Zurich thus ensures a suitable mix of research and practical management. In his work as a lecturer, Pius Baschera focused on giving lectures on innovation management and practice-based case studies on strategy development and implementation. His lectures have been very popular.
 

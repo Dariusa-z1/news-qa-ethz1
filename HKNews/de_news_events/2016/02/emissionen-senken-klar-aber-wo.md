@@ -2,27 +2,19 @@
 
 **Source:** de_news_events/2016/02/emissionen-senken-klar-aber-wo.html
 
+**Date processed:** 2025-05-01
+
 ## Ich will es noch etwas genauer wissen
 
 Kürzlich kaufte ich mir bei einem grossen Schweizer Detailhändler einen schönen Baumwollpulli. Verwundert las ich auf dem Etikett, dass dieses Produkt als «100% CO 2 -neutral» gilt. Ich freute mich über das Label: Der Pulli ist nicht nur warm und schön; bei seiner Herstellung achtet man offenbar auch auf faire Arbeitsbedingungen, Umweltschutz und Transparenz entlang der gesamten Lieferkette. Was will ich noch mehr?
 
-## Störanfälliger Reduktions-Mechanismus
-
 Auf der angegebenen Webseite erklärt man mir: «Bei Anbau, Herstellung und Transport wird der CO 2 -Ausstoss so gering wie möglich gehalten. Nicht vermeidbare Umweltbelastungen kompensieren wir durch den Bau von Biogasanlagen sowie effiziente Holzöfen und stellen sicher, dass der CO 2 -Ausstoss direkt vor Ort kompensiert wird.»
-
-## Falsche Anreize
 
 Beim Stichwort «CO 2 -Kompensation im Ausland» gehen mir verschiedene Flashbacks durch den Kopf: Wie ich in den Anfängen des Kompensationsgeschäfts als Experte tätig war, wie schwierig damals gute CO 2 -Kompensationsprojekte zu finden waren, und wie ich einst als Vertreter der ETH nach einem Vortrag in Indien heftig angegriffen wurde; und ich denke an die Diskussionen kürzlich in der Presse, ob CO 2 -Kompensationen im Ausland nach den Klimaverhandlungen in Paris überhaupt noch zeitgemäss sind. Meine Antwort darauf lautetet: Nein.
 
-## Abschied vom Ablasshandel im Ausland
-
 Als Grossvater des Begriffs «Graue Energie» interessiere ich mich seit den frühen 70-er Jahren für Prozessketten und Systemgrenzen – beides Aspekte, die bei der CO 2 -Kompensationen im Ausland über den sogenannten Clean Development Mechanism (CDM) eine Rolle spielen. CDM ist ein zentraler Mechanismus des Kyoto-Protokolls, der es – vereinfacht gesagt – reduktionswilligen Industriestaaten erlaubt, Energiesparprojekte in ärmeren Ländern zu finanzieren (in der Regel Entwicklungsländer, die sich im Kyoto-Protokoll nicht zu Reduktionen verpflichtet haben). Die Idee dahinter: Emissionen dort senken, wo es günstig ist, und gleichzeitig ärmeren Staaten ermöglichen, sich nachhaltig zu entwickeln.
 
-## Ein alternativer Ansatz
-
 Dass dieser Mechanismus fehleranfällig ist, liegt auf der Hand: Vor Jahren wurden Systemgrenzen oft unsauber gezogen, so dass eine Energiesparmassnahme (und die damit verbundene CO 2 -Emissionsreduktion) auf Kosten eines Mehrverbrauchs ausserhalb der Systemgrenzen erfolgte. Heute gibt es zwar Regeln, die dies verbieten. Doch ist es immer noch sehr schwierig, die Reduktionsleistung eines CDM-Projekts genau zu beziffern, weil man diese nur durch den Vergleich mit einem Referenzprojekt ohne CDM-Geld ermitteln kann. Wie dieses fiktive Referenzprojekt aussieht, ist eine Ermessensfrage. Man vergleicht das CDM-Projekt (etwa ein effizientes Gaskraftwerk) nicht mit dem Ist-Zustand (gar kein Kraftwerk), sondern mit einem hypothetischen Projekt, wie es ohne CDM-Geld gebaut würde (schmutziges Kohlekraftwerk). Im Vergleich mit dem Ist-Zustand stellen die meisten CDM-Projekte also einen Mehrverbrauch dar.
-
-## Zum Autor
 
 Ein weiteres Beispiel zur Verdeutlichung: In der oben erwähnten Diskussion an einer Indischen Universität griff mich der junge Mann an, weil er einen Fachartikel von ETH-Kollegen gelesen hatte, in dem ein bestimmter Wirkungsgrad eines Prozesses als «State of the Art» bezeichnet wurde. Was war daran so schlimm? Nichts. Die Aussage stimmte und war auch im Kontext von Entwicklungsländern völlig korrekt. Der Grund lag vielmehr darin, dass der junge Mann für eine Consulting-Firma im CDM-Geschäft arbeitete. Da der CO 2 -Kredit, den ein CDM-Projekt erwirtschaftet, massgeblich von den Wirkungsgraden der im Referenzprojekt verwendeten Technik abhängt, definieren viele Entwicklungsländer den «State of the Art» zu ihren Gunsten und halten die Wirkungsgrade und Umweltstandards bewusst tief, um möglichst viel CDM-Geld zu erhalten. Das bedeutet aber, dass auch viele Projekte, die nichts mit CDM zu tun haben, nicht auf der Höhe des technischen Fortschritts geplant werden.
 

@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2021/07/lord-of-the-flies-data-and-seven-bycicles.html
 
+**Date processed:** 2025-05-01
+
 ## Trying to outshine his father
 
 The end is in sight. The end of his ETH professorship, research projects and teaching. Ernst Hafen has come to terms with the realisation that he is reaching the end of his time as an active professor. “There are no more loose ends,” he says, seated at the table in his office.
@@ -12,8 +14,6 @@ This does not mean he is working outside his usual field of research. The aim of
 
 Hafen’s scientific career began with a PhD in developmental biology in 1983 from the Biocenter at the University of Basel. During his doctoral studies he managed to prove how and where genes that determine the number of body segments in fruit flies are activated in the embryo. He then went on to study the genes that control the fate of cells. This led him to discover key mechanisms that play an important role in the growth of cancer cells. “The change in the cell fate is part of carcinogenesis. What’s interesting here is that the same genes are involved in both fruit flies and humans. This is because humans and flies had the same ancestor 600 million years ago,” he explains.
 
-## One year as ETH President
-
 This triggered an explosion of research into flies at the time, because it was possible to identify the genes for developmental processes much quicker for Drosophila than for humans, and these genes are also relevant for human diseases. Ernst Hafen has received many prestigious awards for his research, including the Ernst ​Jung, Friedrich ​Miescher and Otto ​Naegeli Prize.
 
 Hafen’s interest in biology was sparked by his biology teacher in Gymnasium. “I never took part in the ‘Swiss Youth in Science’ programme,” he says, with a grin. “But I had a really good teacher at Gymnasium who inspired me in the subject.” There may have been another factor driving his ambition: his father – a talented German scholar, teacher and rector at the Gymnasium in Münchenstein – was actually comparatively poor at biology, and the son saw this as an opportunity to outshine this patriarchal figure. So he signed up to study molecular and cell biology at the Biocenter at the University of Basel.
@@ -22,17 +22,15 @@ Ernst Hafen first came across flies while attending the lectures of the late Wal
 
 “Ultimately I never actually discovered which molecules were responsible for controlling the fate of these cells. But I developed a method for localising these determinants and visualising them on the fly embryo. After three years of failure, that was my scientific breakthrough,” he recalls. He has the proof, in a frame in his office: the cover page of the acclaimed journal “Cell” from 1984.
 
-## Back to studying flies
-
 Ernst Hafen made his scientific breakthrough with the fruit fly Drosophila.
+
+## One year as ETH President
 
 This discovery also gave his doctoral studies a new direction: genetics as a method for understanding developmental biology. “I was fortunate to work with two American postdocs, Mike Levine and Bill McGinnis.” This was a formative period for Hafen: he immersed himself in the lifestyle and ethos of Levine and McGinnis. “Those two showed me a whole new world. They had a different work culture. Life in the laboratory was more exciting than life at home. Sometimes we sat in the lab at three in the morning, smoking and drinking beer together.” After finishing his dissertation, Hafen moved to America to take up a postdoc position in Berkeley in 1984. It was during this period that he discovered a gene in flies that was known to be a cancer gene in humans.
 
 After three years in the US, Hafen and his wife, along with their first two sons, returned to Switzerland, where their third son was born. He had applied for the post of assistant professor at the University of Zurich Institute of Zoology. Following his initial appointment in 1987, he was made full professor in 1997.
 
 But Ernst Hafen was not just the “fly doctor”, as his son Timothy once called him when asked by his teacher about his father’s profession. “I always had a lot of different interests, including university politics,” he remarks. When ETH Zurich was looking for someone to succeed Olaf Kübler, due to step down as ETH President at the end of 2004, Hafen’s application was successful. He took up office on 1 January 2005, at the same time giving up his job as professor at the University of Zurich.
-
-## Data – a new hobby horse
 
 The ETH Board asked Hafen to reform the university along the lines of the Anglo-Saxon model. However, this ambitious reform project met with stiff opposition from the ETH professorship especially, and eventually came to nothing. This prompted Hafen to step down prematurely after just one year in office.
 
@@ -42,17 +40,15 @@ His appointment also benefited Hafen, by helping him find his way back to fly re
 
 After stepping down as ETH President, Hafen focused increasingly on questions and problems that had nothing to do with his research on flies: the treatment of personal (health) data.
 
-## Refining a successful teaching approach
-
 More and more data about genomes, health and disease are now emerging not only from research and healthcare, but also from private individuals – the advent of smartphones and smartwatches continuously measuring body functions and movement. ”Each of us has the right and opportunity to collate far more personal health data than Google would ever be able to and make it available to our doctor or for research,” Hafen stresses.
 
 He has noticed, however, that people leave the gathering together of their personal data to the tech giants, and he is campaigning against this:
 
+## Refining a successful teaching approach
+
 Hafen is therefore advocating the construction of a parallel data ecosystem under the control of each individual. As a solution, he proposes data cooperatives acting as trustees. Their job is to gather the private health data, prepare them, make them interoperable and present them in anonymised format in a digital data commons. This data commons also controls whether (and how) companies can access and use the data for commercial benefit – as long as they pay for the privilege. But the data stay in the commons. “Citizens themselves can then actively choose whether they want to make their data available for commercial or social purposes,” Hafen explains.
 
 This prompted him to set up the association Data and Health to promote data cooperatives, which in turn led to the founding of an actual data cooperative, “Midata”. Having fulfilled its mission, the association has now been dissolved, but Midata still exists – although “it’s only as successful as limited funding allows,” says the ETH professor. He concludes that many CEOs and policymakers he spoke to thought it was a good idea, but they struggled to imagine how it should actually be implemented. So no one was prepared to put up the necessary funding. Even so, Hafen is still convinced: “A data cooperatives are a fair and democratic solution”.
-
-## Breaking away and leaping into the saddle
 
 Apart from research into flies and health data, Hafen has always been interested in teaching. “You mostly work on your own in teaching, unlike research,” he comments. There are also far fewer role models – at the most, some favourite professors from one’s own time as a student whose teaching style is worth copying. He wanted to change that – which was part of the reason for the launch of the “clicker” system. This allows students to respond directly to teachers’ questions during the lecture. The teacher can then immediately check how many correct answers are received. The clicker system makes large, anonymous lectures far more interactive.
 

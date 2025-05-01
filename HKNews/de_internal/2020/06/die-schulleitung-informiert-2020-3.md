@@ -2,35 +2,23 @@
 
 **Source:** de_internal/2020/06/die-schulleitung-informiert-2020-3.html
 
+**Date processed:** 2025-05-01
+
 ## Neue externe Ombudsperson
 
 Medizin gehört zu den thematischen Schwerpunkten der ETH Zürich. Um dieses Gebiet weiter zu stärken und die verschiedenen Gesundheitsinitiativen weiter zu fördern und zu bündeln, hat die Schulleitung Christian Wolfrum (D-HEST) zum neuen Delegierten für Medizin ernannt. Der Professor für translationale Ernährungsforschung ist dem Vizepräsidenten für Forschung zugeordnet und nimmt diese neue Funktion seit dem 1. Juni 2020 wahr. In seiner Funktion als Studiendirektor für den Medizinbachelor der ETH Zürich wird er weiterhin eng mit der Rektorin zusammenarbeiten. Ein ausführliches Interview mit Christian Wolfrum wird demnächst folgen.
 
-## Skintegrity wird neues Open-ETH-Projekt
-
 Seit dem 1. Mai 2020 verfügt die ETH Zürich – zusätzlich zu den internen Ombudspersonen – über eine externe, unabhängige Ombudsperson: Die Rechtsanwältin und Mediatorin Kathrin Teuscher wurde für zwei Jahre in dieses Amt gewählt.
-
-## Zentrum für lernende Systeme wird weitergeführt
 
 «Wir sind der Empfehlung der Hochschulversammlung mit Freude gefolgt: Kathrin Teuscher ist die ideale externe Fachfrau, an die sich ETH-Mitarbeitende mit ihren beruflichen Anliegen wenden können». (Ulrich Weidmann, Vizepräsident für Infrastruktur und Personal- und Leadership a.i.)
 
-## Sprachen lernen mit neuen Möglichkeiten
-
 Die neue externe ergänzt die internen Ombudspersonen, Gerhard Tröster und Peter Frischknecht. Die dritte interne Ombudsperson, Margrith Leuthold, ist bis Ende 2020 ans Singapore ETH Center (SEC) entsandt und wird ihre Funktion ab Anfang 2021 wieder aufnehmen.
-
-## Spitzen-NMR-Spektrometer für Zürich und Basel
 
 Alle ETH-Ombudspersonen nehmen Fragen entgegen und beraten ETH-Angehörige. Sie sind der Vertraulichkeit und Anonymität verpflichtet und geben keine Informationen an interne Stellen weiter. Die Ombudspersonen können bei Bedarf auch zusätzliche externe Fachpersonen beiziehen, z.B. für rechtliche Fragen oder psychologische Themen.
 
-## Regelmässige Informationen aus der Schulleitung
-
 Mit dieser Wahl folgt die ETH den Anliegen der internen Vernehmlassung und der Empfehlung der Eidgenössischen Finanzkontrolle nach einer externen Anlaufstelle. Seit November 2019 besteht auch eine externe Beratungsstelle Respekt bei Themen um Mobbing, Belästigung und Diskriminierung . Den aktuellen Jahresbericht der ETH-Ombudsstelle finden sie hier (PDF, 94 KB) .
 
-## Staffnet
-
 Seit 2016 läuft im Rahmen der «Hochschulmedizin Zürich das Flaggschiffprojekt «Skintegrity». Hier forschen 26 Gruppen der Universität Zürich, der universitären Zürcher Spitäler und der ETH Zürich an neuartigen Diagnosemethoden und Therapien zur Behandlung von schweren Hautdefekten, Hautkrankheiten und Wundheilungsstörungen. Um die Zukunft des erfolgreichen Projekts zu sichern, hat die Schulleitung entschieden, Skintegrity für die nächsten vier Jahre mit 6 Millionen Franken zu unterstützen. Skintegrity wird im Rahmen von Open-ETH (ehemals ETH+) geführt.
-
-## Newsletter abonnieren
 
 Seit 2015 führen die Max-Planck-Gesellschaft (MPG) und die ETH Zürich das Zentrum für lernende Systeme (Center for Learning Systems, CLS). Zum Abschluss der ersten Finanzierungsperiode wurde das CLS erfolgreich evaluiert. Das Zentrum umfasst 32 Professorinnen und Professoren aus fünf Departementen der ETH (INFK, ITET, MATH, MAVT und HEST) sowie 16 Direktorinnen und Direktoren der MPG.
 
@@ -45,6 +33,8 @@ Diese Änderungen mussten in der Geschäftsordnung nachvollzogen werden. Ausserd
 Die Universitäten Basel, Zürich und die ETH erhalten eine neue, gemeinsame Technologieplattform. Die «Swiss National Ultrahigh-Field Solution NMR Facility» beinhaltet ein 1,2-Gigahertz-Spektrometer in Zürich am Standort Irchel sowie eines dieser hochmodernen Geräte (0,8 Gigahertz) in einem Gebäude der Universität Basel. Die Gesamtkosten belaufen sich auf 16,5 Mio. Franken. Die Schulleitung der ETH Zürich hat dafür einen Beitrag mit einem Kostendach von 6 Millionen Franken bewilligt und erhält dafür ein Drittel der Messzeit an diesem schweizweit einzigartigen Spitzeninstrument.
 
 Das NMR-Spektrometer steigert die experimentelle Empfindlichkeit und Auflösung für die Analyse von Biomolekülen erheblich. Das kleinere Gerät in Basel stellt eine wichtige Ergänzung für die Infrastruktur des D-BSSE dar. Auch zwei Industrieunternehmen beteiligen sich an den Kosten und erhalten dafür ebenfalls Nutzungszeit.
+
+## Regelmässige Informationen aus der Schulleitung
 
 Die Schulleitung der ETH Zürich trifft sich alle zwei Wochen zur ordentlichen Schulleitungssitzung. In dieser Rubrik wird über die wichtigsten Entscheide aus diesen Sitzungen informiert, in dieser Ausgabe diejenigen der Sitzungen von Anfang April bis zum 2. Juni 2020.
 

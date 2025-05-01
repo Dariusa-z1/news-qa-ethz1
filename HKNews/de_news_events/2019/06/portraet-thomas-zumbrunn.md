@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2019/06/portraet-thomas-zumbrunn.html
 
+**Date processed:** 2025-05-01
+
 ## Auf der Piste und im Hörsaal
 
 So stellt man sich den geborenen Skirennfahrer vor: Ein Bergler, quasi mit den Skiern aus dem Mutterleib geschlüpft, einer, der die ersten Gehversuche zeitgleich mit den ersten Schwüngen auf der Piste unternimmt, der Vater Skilehrer, die Mutter Skilehrerin. So wuchs Thomas Zumbrunn in Meiringen (BE) auf. «Die Skischule war meine Kindertagesstätte», sagt er lachend. Im Jahr 2003 der Höhepunkt: Zumbrunn wurde Junioren-Schweizermeister im Super-G. Das war kurz nachdem er die Matura gemacht und nur ein Ziel hatte: Ski-Profi. Also konzentrierte er sich ein Jahr lang auf den Sport, trainierte täglich und arbeitete bei seinem Vater, hauptberuflich als Hauswart tätig. Doch trotz aller Anstrengungen schaffte er den Sprung ins B-Kader nicht «Für mich brach damals eine Welt zusammen», sagt er.
@@ -12,17 +14,15 @@ Mit einem Sportstipendium kam Zumbrunn an die University of Utah, verbrachte die
 
 Es war ein Leben nach seinem Gusto. «Diese Kombination aus Studium und Sport hat mir so gut gefallen», sagt er – und es liegt fast etwas Schwärmerisches, wenn dieser boden- (oder berg-)verhaftete Mann dies sagt.
 
-## ETH-Silbermedaille statt Skisportmedaillen
-
 Nach der Winter-Universiade in der Türkei 2011 wurde ihm klar, dass seine Sportkarriere zu Ende war, und Zumbrunn lancierte seine Berufslaufbahn. Zunächst war dies nicht ganz einfach. Doch dann fand er am Massachusetts General Hospital in Boston, dem Spital der renommierten Harvard-Universität seinen Traumjob. «Es war toll, mit Klinikern und Wissenschaftlern neue orthopädische Implantate zu entwickeln», erzählt er.
 
 Und trotzdem: Nach sechs Jahren in den USA wuchs in Zumbrunn der Wunsch, in die Schweiz zurückzukehren. Also streckte er seine Fühler wieder Richtung ETH aus, doktorierte bei Stephen Ferguson mit einer Arbeit zu neuartigen Knie-Implantaten. Die ersten beiden Jahre seiner Dissertation verbrachte Zumbrunn weiterhin in Boston - «eine optimale Konstellation für mich», wie er sagt. Für seine Doktorarbeit erhielt er schliesslich auch die Silbermedaille der ETH Zürich – ein Höhepunkt, der sein aufregendes «Rennen» über den Atlantik abrundete.
 
 Röntgenbild eines Schienbeinbruchs direkt unterhalb des Kniegelenks: Solch komplizierten Verschraubungen sollen vereinfacht werden. (Bild zVg T. Zumbrunn)
 
-Die Schrauben verursachen immer wieder Probleme, etwa weil sie nicht genügend Stabilität verleihen oder sogar angrenzende Gelenke verletzen. Die Lösung: Massgeschneiderte Knochenplatten. «Heute werden Standard-Platten oft noch während des chirurgischen Eingriffs zurechtgebogen, damit sie dem Patienten angepasst werden können», erklärt Zumbrunn. «Man kann sich vorstellen, dass die Resultate mitunter suboptimal sind.»
-
 ## Berg und Stadt
+
+Die Schrauben verursachen immer wieder Probleme, etwa weil sie nicht genügend Stabilität verleihen oder sogar angrenzende Gelenke verletzen. Die Lösung: Massgeschneiderte Knochenplatten. «Heute werden Standard-Platten oft noch während des chirurgischen Eingriffs zurechtgebogen, damit sie dem Patienten angepasst werden können», erklärt Zumbrunn. «Man kann sich vorstellen, dass die Resultate mitunter suboptimal sind.»
 
 Zumbrunns Idee besteht nun darin, mittels Computertomographie und 3D-Druck die Knochenplatten auf die Anatomie jedes einzelnen Patienten abzustimmen und dadurch mehr Stabilität zu erzielen. Zudem kann so festgelegt werden, wie die einzelnen Knochensplitter vor dem Eingriff möglichst optimal verschraubt werden. Vor allem aber soll die neue Methode die OP-Zeit verkürzen. Somit könnte die «fracture specific bone plate» langfristig einen Beitrag zur Kostensenkung im Gesundheitswesen leisten.
 

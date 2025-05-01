@@ -2,27 +2,29 @@
 
 **Source:** en_news_events/2017/06/the-eyes-have-it.html
 
-## Injections at the touch of a button
+**Date processed:** 2025-05-01
+
+## Main article
 
 In Switzerland, the most frequent cause of serious visual impairment among older people is macular degeneration, affecting one fifth of those over 80. The condition rarely leads to complete blindness, but it severely worsens a person’s vision. Those who suffer from it are often left with blurred vision and can no longer read or drive. In serious cases, they can only distinguish between light and dark.
 
 Macular degeneration is incurable, but its advanced stages are manageable with medication. This slows the progress of the disease and in some cases even helps the patient regain some visual acuity. The treatment calls for injections every four to six weeks – directly into the eye. “The procedure is unpleasant, but not painful for most people,” says Professor Stephan Michels, Deputy Chief Physician of the eye clinic at Triemli Hospital in Zurich. Triemli alone carries out 7,500 eye injections every year, and when looking at Switzerland as a whole, that figure climbs to some 100,000. “Sometimes I treat up to 60 patients in one day,” Michels says.
 
+## Injections at the touch of a button
+
 If a patient is about to move their eye, sensors help the robot to react more quickly than a doctor ever could. (Image: Ophthorobotics)
 
 In future, he and his colleagues may get support from a robot currently in development at ETH start-up Ophthorobotics. The company was founded by researchers from ETH’s Multi-Scale Robotics Lab together with retinal specialists from Triemli Hospital. “Our robot will be the first to help in administering eye injections,” says Franziska Ullrich, a mechanical engineer at ETH and the CEO of Ophthorobotics.
 
-## Better use of doctors’ time
-
 Thanks to the robot, doctors no longer need to give the injections themselves. Instead, the robot – a mobile device – is positioned above the head of the patient, who is lying down. Using two cameras, the robot produces a 3D image of the eye to be injected. It then calculates where the injection site should be and independently positions the needle. The ophthalmologist initiates and monitors everything on a screen in real time; they must only briefly check the settings and then press a button to start the injection. “The robot makes the injection more precise and thus safer,” says Ullrich. She is working on refining the device, which currently exists only as a prototype in the lab.
+
+## Better use of doctors’ time
 
 At present, doctors give the eye injections by hand in an operating room. There, the nursing staff first prep the patient by numbing the eye with a local anaesthetic and disinfecting it. The eyelid is carefully held open with a lid speculum. Then, the doctor fits the syringe with a very fine needle. The injection site is comprised of a very narrow band between the iris and the outermost corner of the eye. During the actual injection, the patient must hold their eye still in order to avoid the risk of injuring it, although “that happens extremely rarely,” says Michels.
 
 The robot will nevertheless offer an even greater degree of safety. That’s because it uses sensors to detect whether the patient is about to move their eye just before the injection begins. If that happens, the device immediately halts the procedure. “It can react faster than we can as doctors,” Michels says.
 
 A further advantage is that the robot can identify every patient with certainty by means of an iris scan, which in turn should prevent injections being given to the wrong patient or in the wrong eye. The system is also designed to be able to automatically retrieve the patient’s file, which contains a record of all previous treatments – as well as information on which of the two eyes is to receive the injection and with what dosage of medication, for example. It even records the exact injection site of every treatment and then calculates a slightly different position for the next time. This is important, as too many injections on the same site could lead to thinning of the sclera.
-
-## Strong acceptance among patients
 
 However, Michels believes the robot’s greatest advantage will be in that it saves doctors time and grants them more flexibility. The current procedure requires them to wait around in the operating room until the next patient has been prepped and they can set up the injection: unused time that quickly adds up to several hours a day. Yet the injection itself lasts just 30 seconds. “With the robot, doctors will no longer have to be physically present in the operating room,” Ullrich says. Instead, they can control the device from another location, such as their consultation room. Thus, as Ullrich points out, they can use the time between injections for other tasks.
 

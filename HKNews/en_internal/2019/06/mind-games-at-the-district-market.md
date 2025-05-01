@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2019/06/mind-games-at-the-district-market.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Equipped with a headset measuring brain activity, up to four participants at a time competed in a virtual race with mind control. Children and young people in particular were brimming with enthusiasm and curiosity – slots for “BrainDriver” were packed throughout the day.

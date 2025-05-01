@@ -2,19 +2,17 @@
 
 **Source:** en_news_events/2013/09/warum-wohnen-wir-nicht-wo-wir-arbeiten.html
 
+**Date processed:** 2025-05-01
+
 ## Die Arbeitersiedlung als Vorbild?
 
 Ich selber fahre ebenfalls mit dem Tram an die ETH und komme meist rechtzeitig, um zu beobachten, wie sich die Leute im Haus gegenüber zur Arbeit aufmachen. Warum arbeiten wir dort, wo andere wohnen – und arbeiten nicht dort, wo wir auch wohnen?
 
-## Gefragt sind Konzepte, die auf das 21. Jahrhundert angepasst sind
-
 Das erwähnte Paradoxon gilt nicht nur in der Stadt Zürich – Ähnliches können wir auch in grösserem Massstab beobachten: da fährt die eine Person von Zürich nach Bern, um dort zu arbeiten, während die andere gerade den umgekehrten Weg wählt. Gefragt sind also Konzepte, die Wohnen und Arbeiten vereinen.
-
-## Weiterführende Informationen
 
 Die Frage nach der funktionalen Aufteilung unserer Städte in Gebiete, wo vornehmlich gewohnt bzw. gearbeitet wird, steht zu Beginn der Geschichte. Die Durchmischung von Wohnen und Arbeiten ist die Antwort darauf. Aber genügt das? Wohl nicht ganz, denn bei mir im Quartier wie auch dort, wo ich arbeite, sind Wohnen und Arbeiten durchaus gemischt, aber eben nicht durch die gleichen Leute. Was wir brauchen, sind Gebiete, in denen diejenigen Menschen arbeiten, die dort auch wohnen. Sei es im gleichen Gebäude oder in Fussdistanz im Quartier. Beispiele aus früheren Zeiten gibt es viele; eines, das aktuell wiederbelebt wird, steht in Möhlin (Kanton Aargau): die «Bata-Siedlung» (siehe Abbildung).
 
-## About the author
+## Gefragt sind Konzepte, die auf das 21. Jahrhundert angepasst sind
 
 Die Ausgangslage ist klassisch: der Patron einer Grossfirma erstellt für seine Arbeitenden und deren Familien Häuser in nächster Umgebung der Fabrikationsanlagen – im Sinne eines paternalistischen Humanismus. Kann eine solche Idee auch in der heutigen Zeit angestrebt werden?
 

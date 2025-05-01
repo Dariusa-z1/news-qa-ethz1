@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2023/06/beim-blick-beginnts-wie-eth-forschende-zur-nachhaltigen-campusmobilitaet-beitragen.html
 
+**Date processed:** 2025-05-01
+
 ## Was eine E-Bike-Stadt benötigt
 
 Clarissa Livingston ist Doktorandin in der Gruppe für Verkehrsplanung von Kay Axhausen. Sie arbeitet auf dem Hönggerberg und kommt in der Regel mit dem E-Bike zur Arbeit. Sie fährt nicht nur regelmässig mit dem E-Bike sondern sie ist auch Verkehrsforscherin. Als solche wirkt sie in « E-Bike-City » mit. In diesem Forschungsprojekt haben sich sieben Gruppen des Departements Bau, Umwelt und Geomatik (D-BAUG) zusammengeschlossen, um die Vision einer Stadt zu entwickeln, die bis zur Hälfte ihres Strassenraums für E-Bikes und Fahrräder und eine nachhaltige, so genannte Mikromobilität zur Verfügung stellt. Nun untersuchen sie, unter welchen Voraussetzungen und Auswirkungen sich eine solche Stadt realisieren liesse.
@@ -14,25 +16,23 @@ Sicherheit und Infrastruktur hängen naturgemäss zusammen – zum Beispiel redu
 
 Hier schliesst Clarissa Livingston an. Obgleich schwierig zu quantifizieren, sind das Verhalten der Verkehrsteilnehmenden und die Art, wie sie miteinander umgehen, mitentscheidend für das Sicherheitsgefühl: «Bei Biker:innen, die mit Kindern unterwegs sind, ändert sich das Sicherheitsgefühl zum Beispiel drastisch», sagt Clarissa Livingston. Blickkontakte seien entscheidend: «Was Biker:innen gut sehen und was nicht, beeinflusst ihr Sicherheitsgefühl.» Sie untersucht unter anderem, wie Verkehrsknotenpunkte und Kreuzungen gestaltet sein müssen, damit sich Radfahrer:innen und E-Biker:innen beim Überqueren sicher fühlen.
 
-## Erweiterung der Velo-Infrastruktur an der ETH
-
 Heikle Stellen kennt auch die Anfahrt zum Campus Hönggerberg. In einer Semesterarbeit zum Thema «E-Bike-City Campus», die Clarissa Livingston betreute, stellte der Student Max Rieder zum Beispiel fest, dass die Fussgängerstreifen an der Glaubtenstrasse Nord für Biker:innen besonders problematisch sind. Der Abstand zwischen der Fussgänger:inn-Insel und dem Randstein ist dort gerade so breit, dass die Autofahrer:innen intuitiv annehmen, sie hätten genug Platz, um Radfahrer:innen zu überholen. Die Messungen von Rieder zeigen jedoch, dass dies nicht der Fall ist. Zudem entspricht die gemessene Breite dort nicht den empfohlenen Schweizer Normen, und selbst erfahrene, sichere Radfahrer:innen fühlen sich dort unsicher.
 
 Auf dem Campus Hönggerberg selbst lässt sich komfortabel und angenehm Rad fahren, jedoch: «Max Rieder hat festgestellt, dass vor allem die Signalisation, die es Velofahrern erleichterte, schnell die nächstgelegenen Abstellplätze oder Infrastruktur wie Pumpstationen zu finden, verbessert werden sollte », sagt Livingston. Ausserdem, so fügt sie hinzu, habe Max Rieder gezeigt, dass die ETH zum Teil die auf dem Campus installierten Typen von Abstellständern ändern müsste: Die derzeit eingerichteten Typen sind ihm zufolge der Vielfalt der genutzten Fahrräder und E-Bikes nicht angepasst, besonders mit Blick auf Reifenbreite, Lenkerform und Fahrradlänge. Bei den Ständern, bei denen das Fahrrad am Lenker aufgehängt werden muss, bestehe die Gefahr, dass die Verkabelung des Fahrrads beschädigt werde.
 
-## Neben den Kosten zählt auch die Akzeptanz
+## Erweiterung der Velo-Infrastruktur an der ETH
 
 Die ETH hat in den vergangenen Jahren die Infrastruktur für Radfahrende und E-Biker:innen auf dem Campus Hönggerberg und auf dem Campus Zentrum stetig ausgebaut. Neben Abstellmöglichkeiten für Fahrräder, Parkplätzen mit Ladestationen für E-Bikes und öffentlichen Velo-Pumpen wurden ebenfalls eine sichere, wettergeschützte Velo Box und eine studentische Velo-Werkstatt auf dem Campus Hönggerberg eingerichtet (vgl. Überblick Velo-Infrastruktur ).
 
 Ausserdem können ETH-Angehörige Fahrräder oder E-Bikes zu günstigen Konditionen ausleihen: Aktuell haben sie nach Abschluss eines vergünstigten Jahresabos Zugriff auf 2000 Velos und E-​Bikes in der Stadt Zürich (Züri Velo von PubliBike), für die es drei Stationen auf dem Campus Zentrum und eine auf dem Campus Hönggerberg gibt. Hinzu kommen 40 jederzeit verfügbare E-​Bikes inklusive eines E-Cargo-Bikes des Partners Urban Connect an mehreren ETH-​Standorten sowie ETH-eigene Team E-Bikes oder Cargo-Bikes für Institute und Abteilungen (vgl. Übersicht ). Demnächst werden diese Angebote auch auf der Karte in der ETH-App abrufbar sein.
 
-## Routen zum ETH-Campus besser verstehen
+## Neben den Kosten zählt auch die Akzeptanz
 
 «Wir werden die Velo-Infrastruktur an der ETH noch weiter ausbauen», sagt Sandy Jeschke von der Fachstelle Mobilität, die bei den Campus Services für die strategische Ausrichtung von Velo-, E-Bike- und Mobilitätsangeboten für die ETH zuständig ist. Zum Beispiel werden bei Bedarf zusätzliche Velo-Parkplätze in Tiefgaragen eingerichtet oder für die «Langzeitparker:innen» unter den E-Biker:innen zusätzliche Ladestationen installiert. Auch wenn die Wolfgang-Pauli-Strasse saniert wird, ist die Verkehrssicherheit aller Verkehrsteilnehmer ein wichtiges Thema. Bereits heute werden Velo-Abstellplätze abends ausgeleuchtet: «Das ist für uns Frauen wichtig», sagt Sandy Jeschke. Ausserdem achte die ETH darauf, dass Abstellplätze genug Raum hätten, da der Bedarf bei Rädern mit Anhängern für Kinder zunehme. Gespannt ist Sandy Jeschke, die sich mit Clarissa Livingston austauscht, auf die Ergebnisse zur Gestaltung von Knoten und Kreuzungen sowie jenen zur derzeit laufenden «smart moves»- Mobilitätsumfrage , der ETH Zürich, die ebenfalls von Professor Kay Axhausen begleitet wird.
 
 «Unsere Forschung über Infrastrukturkosten hat gezeigt, dass Investitionen in die Veloinfrastruktur wirtschaftlich sehr attraktiv sind. Sie bieten einen grossen Nutzen bei relativ tiefen Kosten», sagt David Zani. Rad-Infrastruktur einzurichten, sei in der Praxis allerdings oft nicht ganz einfach. Ihr Bau wird von Meinungen beeinflusst: «Infrastruktur gibt sehr viel zu diskutieren.» Die öffentliche Meinung und die Akzeptanz von E-Bike-bezogenen Verkehrs- und Infrastrukturmassnahmen sowie Massnahmen zur CO 2 -Reduktion des Mobilitätssektors erforscht Michael Wicki.
 
-## Immer aktuell informiert
+## Routen zum ETH-Campus besser verstehen
 
 Michael Wicki ist Postdoktorand in der Gruppe für Raumentwicklung und Stadtpolitik von David Kaufmann. «Wie oft bei politischen Massnahmen führt auch bei der E-Bike-Förderung eine Umverteilung dazu, dass einige Menschen das Gefühl haben, benachteiligt zu werden und eine solche Veränderung ablehnen», sagt Wicki, «wichtig ist, Personen, die den Wandel ablehnen, mit unterstützenden Massnahmen einzubeziehen, um Hindernisse der E-Bike-Nutzung zu verringern und die Akzeptanz zu erhöhen.» Unterstützend wirkten in der Regel breit zugängliche Informationen über die Vorteile und Auswirkungen nachhaltiger Mobilität sowie je nachdem Ausgleichsmassnahmen. Die dabei gewonnenen Erkenntnisse, was die Akzeptanz von E-Bike-Fördermassnahmen stärkt oder schwächt, sind für Wicki auch für die Campusentwicklung der ETH relevant.
 

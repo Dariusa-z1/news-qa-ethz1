@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2013/10/equal-opportunities.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Renate Schubert is a Professor for Economics at ETH Zurich and has been the Delegate for Equal Opportunities since 2008. This evening, she will be moderating the panel discussion to mark the opening of the Check your stereotypes exhibition. In this interview, she reflects on the past and looks to the future.

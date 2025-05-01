@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2013/12/eth-bibliothek-auch-sonntags-geoeffnet.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Subscribe to the Newsletter for internal news

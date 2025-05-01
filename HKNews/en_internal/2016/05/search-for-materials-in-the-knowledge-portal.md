@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2016/05/search-for-materials-in-the-knowledge-portal.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Consequently, the catalogue of ETH-Bibliothek now also contains around 1000 materials of the material groups wood, paper, metal, plastics, stone, glass, ceramic and dye.

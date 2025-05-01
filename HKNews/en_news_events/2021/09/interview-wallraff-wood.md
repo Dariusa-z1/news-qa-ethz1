@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2021/09/interview-wallraff-wood.html
 
-## About the persons
+**Date processed:** 2025-05-01
+
+## Main article
 
 ETH spin-off Zurich Instruments was recently acquired by German technology group Rohde & Schwarz. What was so significant about this deal? Vanessa Wood : Zurich Instruments has gone from being a niche manufacturer to attracting the interest of a major electronics company. That’s fantastic news! It shows that demand for quantum technology devices has now reached a broader market, and it confirms the more general trend we’re seeing in investments in this area. Andreas Wallraff : Rohde & Schwarz is a big corporate group. Their decision to snap up Zurich Instruments will certainly have been motivated by that company’s success in carving out a position for itself in the market for quantum technology instruments over recent years. Although Rohde & Schwarz has some products that can be used in related fields of application, they had never really targeted this particular area before. So buying an ETH spin-off was a good opportunity for the company to get into this market. We’ve been collaborating with Zurich Instruments on joint projects for the past eight years, so it’s also an exciting development for us as a lab.
 
@@ -12,8 +14,6 @@ Have we now reached the point where you would say we’re transitioning from qua
 
 How close are the ties between ETH and the private sector? Wood : We’re already cooperating with industry partners on numerous Innosuisse and EU projects. At the same time, we’re working with the recently founded Quantum Center, which is headed by Andreas. The idea is to set up a Partnership Council, which will help industry partners, ETH researchers and students benefit from ever-closer cooperation.
 
-## Funding for the quantum center
-
 Which specific industries do you have in mind? Wood : We hope to attract the interest of major international technology companies such as Google, IBM and Microsoft as well as start-ups such as Rigetti Computing and IQM. We’ll also be looking at potential users of quantum technology, such as the cyber security sector. Wallraff : I’m also very interested in applications in the chemical, pharma and biotech sectors, such as the development of catalysts, biologically and chemically active substances, and medicinal drugs. These may be a long way off – a bit like quantum computing itself – but they’re definitely areas in which quantum computers could offer major benefits. Calculate the properties of a complex molecule, for example, and you’re essentially solving a quantum physics problem.
 
 It all sounds very interdisciplinary! Does the Quantum Center involve many different branches of knowledge? Wallraff : We currently have 28 founding members from six academic departments – Physics, Chemistry and Applied Biosciences, Electrical Engineering and Information Technology, Computer Science, Materials Science, Mechanical and Process Engineering – and from the Paul Scherrer Institute. It’s important to promote an interdisciplinary approach, because we really are in the process of transitioning from basic research, where there’s still an awful lot to do, to real-world quantum technology applications. And these applications are certainly not confined to the realm of physics; in fact they may even turn out to be predominantly in other areas such as chemistry, materials science and computer science. That’s why we also need to address students outside the physics bubble – with courses like the Master of Science in Quantum Engineering, for example.
@@ -22,11 +22,13 @@ How competitive is Switzerland in the quantum sphere? Wood : Very competitive in
 
 How did ETH establish such a strong position in the quantum sciences? Wood : ETH has long striven to gain a good strategic position in this field. We do that by investing in people as well as in the latest and most cutting-edge infrastructure and equipment. We’re very fortunate to have professors at ETH who rank among the world’s best in all the major quantum computer technologies, including superconducting circuits and photonics, to name just two. ETH ploughed significant support and funding into the creation of a Master of Science in Quantum Engineering, the first programme of its kind in Europe. Financing for the Quantum Center came from the ETH+ initiative and the ETH Foundation. ETH also joined forces with PSI to back the creation of the Quantum Computing Hub, a cutting-edge laboratory that aims to address the challenges of scaling up quantum computers. Wallraff : There was a moment in 2005 where I was able to choose which direction my career should take – and I knew I wanted to go somewhere that would allow me to turn theory into practice. Quantum research is a high-tech field, so you can’t get anywhere without seriously complex infrastructure and the right resources. ETH has managed to keep that impetus going and deliver steady growth over all these years, and now it’s reaping the benefits. I’m sure we’ll continue to enjoy this momentum for many years to come.
 
-## Don't miss a Globe
+## About the persons
 
 Andreas Wallraff is Professor of Solid State Physics and head of the Quantum Device Lab at ETH Zurich. He is also the founding director of the recently established Quantum Center at ETH Zurich and leads efforts to build superconducting quantum computers at the ETH Zurich – PSI Quantum Computing Hub.
 
 Vanessa Wood has been Vice President for Knowledge Transfer and Corporate Relations at ETH Zurich since 2021. She is also full professor and chair at the Institute for Electronics (IfE) at ETH Zurich.
+
+## Funding for the quantum center
 
 To reinforce its leading position in quantum research and help translate theory into practice, ETH Zurich teamed up with the Paul Scherrer Institute (PSI) to establish the new Quantum Center . Donor funding supports the ongoing development of a technological base to enable the manufacture of quantum computers as well as a doctoral programme and new professorships.
 

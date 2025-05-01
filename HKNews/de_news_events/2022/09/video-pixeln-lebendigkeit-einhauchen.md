@@ -2,19 +2,19 @@
 
 **Source:** de_news_events/2022/09/video-pixeln-lebendigkeit-einhauchen.html
 
+**Date processed:** 2025-05-01
+
 ## Gemeinsam mit Koryphäen aus anderen Bereichen
 
 Wenn Siyu Tang mit den ETH-Architekturprofessoren Fabio Gramazio und Matthias Kohler im «Flight Assembled Architecture (FAA) Revisited»-Projekt für das Guggenheim Museum Bilbao zusammenarbeitet, vereint die Leiterin der Computer Vision and Learning Group des ETH-Instituts für Visual Computing zwei grosse Faszinationen aus ihrer Jugend: «Bei der Studienwahl stand ich vor der Entscheidung zwischen Architektur und Computer Science. An der ETH kann ich jetzt als Informatikerin mit Weltklasse-Architekten interdisziplinär zusammenarbeiten. Das ist für mich eine perfekte Kombination.»
 
 Tang ist eine Spezialistin für das Erfassen und Modellieren von virtuellen Menschen anhand von Bildern. Sie arbeitet seit zweieinhalb Jahren als Assistenzprofessorin an der ETH Zürich. Das Umfeld, das eine derartige Zusammenarbeit möglich macht, gehört für sie zu den grossen Pluspunkten der Hochschule. «In vielen Forschungsbereichen arbeiten weltweit anerkannte Koryphäen», unterstreicht Tang. Das ermöglicht interdisziplinäre Projekte, die sonst auf diesem hohen Niveau nicht möglich sind.
 
-## Verhaltensbiologischer Takt bringt Stabilität
-
 Für das Projekt «FAA Revisited» bevölkerte Tangs Team die vertikale, von Drohnen gebaute Fussgängerstadt mit autonomen Avataren (siehe Video). Dabei konnten die Computerwissenschaftler:innen auf ihre bisherigen Forschungsarbeiten zur Modellierung von virtuellen Menschen aufbauen, die sich über längere Zeiten natürlich durch ihre Umgebung bewegen: «Der grosse Unterschied zwischen Forschungsprojekten und Fragestellungen aus der realen Welt sind die Anforderungen an die Stabilität und Generalisierbarkeit der Technologien unter Berücksichtigung aller denkbaren Bedingungen. Die Avatare im ‹FAA Revisited›-Projekt müssen sich praktisch für immer und in allen möglichen Situationen durch die Stadt bewegen können.»
 
-Um dies möglich zu machen, hat Tangs Team auf Erkenntnisse aus der Verhaltensbiologie zurückgegriffen. Die bisherigen Algorithmen verirrten sich nämlich in ihren Richtungsentscheidungen - ähnlich wie die Langzeitwetterprognosen – bei einer längeren Anwendung immer mehr in den praktisch unendlich vielen Möglichkeiten, die sich ihnen bieten. Die Folge waren unnatürlich wirkende Bewegungsmuster und logische Konflikte.
+## Verhaltensbiologischer Takt bringt Stabilität
 
-## Simulationen für das Chirurgen-Training
+Um dies möglich zu machen, hat Tangs Team auf Erkenntnisse aus der Verhaltensbiologie zurückgegriffen. Die bisherigen Algorithmen verirrten sich nämlich in ihren Richtungsentscheidungen - ähnlich wie die Langzeitwetterprognosen – bei einer längeren Anwendung immer mehr in den praktisch unendlich vielen Möglichkeiten, die sich ihnen bieten. Die Folge waren unnatürlich wirkende Bewegungsmuster und logische Konflikte.
 
 Tangs Team hat nun die 0,25 Sekunden, die es dauert, bis ein Mensch etwas bewusst wahrnimmt und zum Beispiel mit einer Bewegung reagieren kann, als Intervall definiert, in dem der Bewegungsalgorithmus Richtungsentscheidungen trifft. Die Sequenzierung der Bewegung in diese verhaltensbiologischen «Takt» hat in Kombination mit der Einführung einer statistischen Zufallskomponente bei jeder Richtungsentscheidung tiefgreifende Folgen. Die Bewegung wird auf der einen Seite langfristig stabilisiert und zeigt auf der anderen Seite auch eine lebensechte Variabilität.
 
@@ -26,13 +26,11 @@ Noch stehen die Spezialist:innen für visuelle Datenverarbeitung mit ihrer Arbei
 
 Für die in China aufgewachsene Jungwissenschaftlerin steckt in diesem Projekt eine zusätzliche persönliche Motivation: Als sie klein war, ging ihre Mutter, eine Augenärztin, für zwei Jahre nach Mauretanien, um Patient:innen zu behandeln und dortige Kolleg:innen auszubilden. Daran kann sie jetzt anknüpfen: «Das Training an Simulatoren kann speziell der Medizin in sich entwickelnden Ländern enorme Fortschritte ermöglichen. Dass ich damit indirekt die Arbeit meiner Mutter fortführen kann, ist für mich zusätzlich erfüllend.»
 
-## Von der Uni in die Industrie und wieder zurück
-
 Dass Tang praktischen Herausforderungen nicht aus dem Weg geht, zeigt auch ihr Werdegang. Nach dem Bachelor in Computer Science, den Sie an der Zhejiang University absolviert hat, schlug sie nicht gleich einen akademischen Weg ein. Sie wechselte vielmehr von der chinesischen Elite-Universität in die Privatwirtschaft und entwickelte Software für Consumer-Elektronikgeräte. «Das wurde mir aber nach zwei Jahren zu langweilig», bemerkt Forscherin, die eine grosse Leidenschaft für ihr Fachgebiet und ihr Team ausstrahlt,, mit einem Lachen.
 
-Den Masterabschluss wollte sie danach nicht einfach in China machen, sondern in Europa: «Aus Deutschland stammten viele qualitativ hochstehende Geräte und Instrumente, die meine Mutter als Ärztin und mein Vater, ein Mechanikingenieur, benutzten. Zudem liegt das Land mitten in Europa. Das ist ideal, um die verschiedenen Länder kennenzulernen.»
-
 ## Ein egozentrischer Weg zum natürlichen Verhalten
+
+Den Masterabschluss wollte sie danach nicht einfach in China machen, sondern in Europa: «Aus Deutschland stammten viele qualitativ hochstehende Geräte und Instrumente, die meine Mutter als Ärztin und mein Vater, ein Mechanikingenieur, benutzten. Zudem liegt das Land mitten in Europa. Das ist ideal, um die verschiedenen Länder kennenzulernen.»
 
 Der Wechsel von Deutschland, wo sie am Max-Planck-Institut für Intelligente Systeme in Tübingen bereits eine erste Forschungsgruppe geleitet hat, nach Zürich ist für Tang nicht nur aus wissenschaftlicher Sicht ein Glücksfall. «Für unseren viereinhalb Jahre alten Sohn ist die Stadt ein Paradies. Der See, die vielen Spielplätze, die umgebenden Wälder und die nahen Berge. Wir können als Familie hier so viel gemeinsam unternehmen.»
 

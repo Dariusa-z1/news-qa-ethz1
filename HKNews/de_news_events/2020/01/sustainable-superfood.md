@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2020/01/sustainable-superfood.html
 
+**Date processed:** 2025-05-01
+
 ## Schnell wachsend und hochgesund
 
 Es ist leuchtend grün, schmeckt ein wenig wie Sojasprossen und hat eine angenehm körnige Konsistenz. Die Rede ist von Wolffia, einer von fünf Wasserlinsengattungen. Die bekömmlichste, wie Cyrill Hess bei einem improvisierten «Tasting» in einer Klimakammer im ersten Untergeschoss des Departements Umweltsystemwissenschaften der ETH Zürich erklärt. Hess hat die verkostete Wolffia soeben mit einem Sieb aus dem Wasser im Holzbecken vor uns abgeschöpft. Dort schwimmt der grasgrüne Teppich auf einer wässrigen Nährlösung, die über eine Pumpe kontinuierlich gereinigt wird. Temperatur, Feuchtigkeit und Lichtbedingungen werden in der Klimakammer genau kontrolliert. Hess hat die Wolffia vor zwei Wochen angesetzt. An guten Tagen schöpft er auf den rund fünf Quadratmetern Wasseroberfläche 1.5 Kilogramm «grünen Kaviar» ab – so nennt er das Produkt seines Start-ups «LemnaPro».
@@ -10,9 +12,9 @@ Cyrill Hess hat Umweltnaturwissenschaften an der ETH Zürich studiert. Während 
 
 Seine Begeisterung für alternative und nachhaltige Lebensmittel wurde in der Vorlesung «Alternative Crops» von Achim Walter geweckt. Der ETH-Professor für Kulturpflanzenwissenschaften will mit Forschung, neuen Technologien und alternativen Nahrungspflanzen einen Beitrag zu einem nachhaltigen Welternährungssystem leisten. Walter half Hess, damit dieser als Gastwissenschaftler Labor und Klimakammern zur Weiterentwicklung seiner Idee nutzen konnte.
 
-Zudem machte er Hess mit seiner ehemaligen Bachelorstudentin Melanie Binggeli bekannt. Sie war während ihres Studiums im «ETH Entrepreneur Club» und anderen Start-up-Netzwerken aktiv. Binggeli hatte während einer Bachelorarbeit zu Soja und einer Masterarbeit zu Insekten erste Erfahrungen mit alternativen Proteinen gesammelt. «Bis 2050 müssen wir laut FAO 70 Prozent mehr Lebensmittel produzieren. Wir brauchen deshalb dringend neue Lösungsansätze», sagt sie und ergänzt: «Was mich an der Forschung wirklich fasziniert, ist neues Wissen in die Praxis umzusetzen, um damit einen positiven Beitrag für Menschen und Umwelt leisten zu können.»
-
 ## Einen Markt aufbauen
+
+Zudem machte er Hess mit seiner ehemaligen Bachelorstudentin Melanie Binggeli bekannt. Sie war während ihres Studiums im «ETH Entrepreneur Club» und anderen Start-up-Netzwerken aktiv. Binggeli hatte während einer Bachelorarbeit zu Soja und einer Masterarbeit zu Insekten erste Erfahrungen mit alternativen Proteinen gesammelt. «Bis 2050 müssen wir laut FAO 70 Prozent mehr Lebensmittel produzieren. Wir brauchen deshalb dringend neue Lösungsansätze», sagt sie und ergänzt: «Was mich an der Forschung wirklich fasziniert, ist neues Wissen in die Praxis umzusetzen, um damit einen positiven Beitrag für Menschen und Umwelt leisten zu können.»
 
 Wichtig auf dem Weg von der ursprünglichen Idee zu ersten Produktsamples war das Student Project House der ETH Zürich. Hier entwickelten Binggeli und Hess die ersten Prototypen für ihr System. Was mit einer Plastikkiste und einer Aquarium-Wasserpumpe begann, ist zu einem ausgefeilten Holzbecken geworden, mit spezifischen Strömungseigenschaften für optimales Wolffia-Wachstum. Eine Mentorin half beim Aufbau eines Netzwerks, motivierte in schwierigen Phasen oder zeigte wie wichtig es ist, Ideen früh zu testen.
 

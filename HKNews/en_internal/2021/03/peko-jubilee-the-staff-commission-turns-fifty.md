@@ -2,57 +2,51 @@
 
 **Source:** en_internal/2021/03/peko-jubilee-the-staff-commission-turns-fifty.html
 
+**Date processed:** 2025-05-01
+
 ## A wide-ranging remit
-
-- 8 April, 4-5 p.m.: Panel discussion (in German) on the history, significance and future of PeKo at ETH Zurich. The event can be followed live on the PeKo website.
-
-- 21 October, 6 p.m., Audimax ETH Zurich:  Presentation by Daniel Lampart (in German), Chief Economist of the Swiss Federation of Trade Unions, on Staff Commissions in Switzerland.
 
 On 1 January 1971, the first ETH Zurich Staff Commission (PeKo) officially started work. Getting to that point wasn’t easy, as initially the Commission encountered strong headwinds. Not everyone was enthusiastic about employees wanting to have a say in the direction and everyday life at ETH. However, PeKo received support from the students, among others, who stood up for the university staff in the course of the movement of 68.
 
 “It took a while before PeKo was really taken seriously,” explains Jrène Müller-Gantenbein, PeKo Vice President. “But nowadays, you can’t imagine university affairs without it. It’s a recognised forum which is represented in the ETH university assembly.”
 
-## On hand when needed
-
 So what exactly does PeKo do? The catalogue of tasks is as varied as it is long.
 
 “Basically, PeKo represents the interests and concerns of the administrative and technical staff – i.e. those employees not employed in a scientific function – to the Executive Board, and encourages cooperation between the two parties,” summarises PeKo President Christopher Sauder Engeler. “Employees turn to us when they have a problem at work, an issue relating to pay, or a concern about gender equality, restructuring or keeping a job.”
 
-## Celebrating in a fitting manner
-
 On top of that, PeKo gets involved wherever the well-being of employees is at stake – for instance, in new projects and reorganisations, construction plans, personnel measures, consultations and internal directives.
 
-That’s a wide array of tasks – but do ETH employees realise how many services PeKo provides? “We’re not interested in making a noise about what we do; it’s more about being active and on hand when needed,” asserts Jrène Müller-Gantenbein. “Of course, we’re most visible to employees when they come to us with concerns or questions, during a reorganisation, for instance. But they’re aware of us indirectly too – in that we take part in all consultations and always see to the well-being of our administrative and technical staff.”
+## On hand when needed
 
-## A birthday wish
+That’s a wide array of tasks – but do ETH employees realise how many services PeKo provides? “We’re not interested in making a noise about what we do; it’s more about being active and on hand when needed,” asserts Jrène Müller-Gantenbein. “Of course, we’re most visible to employees when they come to us with concerns or questions, during a reorganisation, for instance. But they’re aware of us indirectly too – in that we take part in all consultations and always see to the well-being of our administrative and technical staff.”
 
 Christopher Sauder Engeler stresses that PeKo also acts as a mediator between staff and the Executive Board: “We have the opportunity to pass on information in both directions, up or down the organisation. Which means we can support those responsible in their decision-making.”
 
 Of course, PeKo also makes its presence felt at social events – especially at the togETHer (in German) staff party, which was initiated by the Staff Commission in 2005 and is an expression of how ETH values its employees.
 
-## Bright ideas competition: take part now!
-
 This year’s togETHer would have featured celebrations to mark PeKo’s 50th anniversary. Yet, due to the coronavirus pandemic, the event has been postponed until next year.
+
+## A birthday wish
 
 However, two events are being held to celebrate the PeKo jubilee:
 
-## Further Information
-
+• 8 April, 4-5 p.m.: Panel discussion (in German) on the history, significance and future of PeKo at ETH Zurich. The event can be followed live on the PeKo website.
+• 21 October, 6 p.m., Audimax ETH Zurich: Presentation by Daniel Lampart (in German) , Chief Economist of the Swiss Federation of Trade Unions, on Staff Commissions in Switzerland.
 A 50th anniversary is a good moment to look back, but also to look ahead. So, speaking for the entire PeKo team, how are Christopher Sauder Engeler and Jrène Müller-Gantenbein hoping things will pan out for PeKo in future?
 
 Top of their wish list are “Motivated, proactive staff who want to commit to PeKo’s cause,” says the Vice President. “And these aren’t easy to find, as working for PeKo isn’t remunerated and can be time-consuming.”
-
-## Subscribe to Newsletter
 
 Christopher Sauder Engeler concurs: “Getting involved in PeKo isn’t particularly fashionable these days. Most of us are too comfortable, so we’re less politically active than we used to be. The next PeKo elections will be in spring 2022, and we’re hoping for plenty of applications from the departments and central bodies. We’d like to take on board as many as possible of the occupational groups that we represent in PeKo.”
 
 So what does it take to work for PeKo? “Patience and a certain persistence, as with all political or participatory processes,” admits Sauder Engeler. “Perhaps things don’t appear to be moving, but when you look at the longer time frame you realise they’ve already happened!”
 
-## Staffnet
-
 It seems a tricky, time-consuming business – is it really worth working for PeKo? Jrène Müller-Gantenbein is emphatic: “Absolutely! Time and again we’re thanked by employees whom we’ve been able to help. And that makes every minute of our commitment worthwhile.”
 
+## Bright ideas competition: take part now!
+
 Do you have a good idea for improving workday life at ETH? Then send it to the PeKo ideas competition (in German) . We’ll be awarding prizes for the best ones.
+
+## Further Information
 
 Introducing PeKo The PeKo story 50th anniversary (in German)
 

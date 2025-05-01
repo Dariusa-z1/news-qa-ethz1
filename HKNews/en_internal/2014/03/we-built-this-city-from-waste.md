@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2014/03/we-built-this-city-from-waste.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 “Eventually, the future city would make no distinction between waste and supply (…)” - Mitchell Joachim
@@ -19,6 +21,8 @@ Singapore strives to find the most advanced, high-tech solutions for everything,
 The doctorial seminar, “Constructing Waste’, which I conducted in Fall 2012, was a first approach to this search on an academic scale at FCL. But implementing refuse for future buildings will require a different mindset. One possible idea could be to change our linear understanding of products being destined for landfills or incineration plants at the end of their time. As such, the seminar focused on the remodeling of everyday consumables in order to pre-design them for a second life cycle as a building material.
 
 The first opportunity to apply these efforts in full scale presented itself soon after. ETH-Zurich will be exhibited during ‘IDEAS CITY’ 2015, in New York, an event curated by the New Museum. Responsible for the pavilion design, my team proposed an architectural solution, which puts emphasize on questions of resilience and sustainability. The resulting proposal “Airless” utilizes discarded PET bottles as a stiffening element in a “vacuumized” building structure. The bottles, which can be found in any trash bin in New York, are packed in prefabricated arch-shaped foil tubes. Once filled, the air in these tubes is sucked out to create a lightweight, super inexpensive and very efficient self-sustainable structure, which can be used to construct large span spatial arrangements. Additionally, the process does not alter any of the bottles, so at the end of the exhibition they can then be reintroduced into the existing recycling system. Through such activities, we hope to show that ETH Zurich is on the forefront of future-oriented thinking and research when it comes to using waste as a construction material.
+
+## About the author
 
 Marta Heisel-Wisniewska is currently working as a researcher at the Chair of Architecture and Construction at the Future Cities Laboratory in Singapore. She received her education at West Pomeranian University of Technology ZUT Szczecin in Poland, as well as at the University of the Arts Berlin between 2004 and 2011. At the Ethiopian Institute of Architecture, Building Construction and City Development in Addis Ababa, she worked as a lecturer and architectural program coordinator, and was part of a research team on refugee shelter design. She also served as a coordinator of a consultancy project for Addis Ababa Institute of Technology AAiT. In 2011, EiABC Student Council recognized her commitment with a ‘Best Teaching’ award.
 

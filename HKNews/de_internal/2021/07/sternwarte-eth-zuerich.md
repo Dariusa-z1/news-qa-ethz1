@@ -2,25 +2,23 @@
 
 **Source:** de_internal/2021/07/sternwarte-eth-zuerich.html
 
+**Date processed:** 2025-05-01
+
 ## Mehr Frei- und Grünraum statt Parkplätze
 
 Den Freiräumen im Hochschulgebiet wird eine besondere Bedeutung zugeschrieben. Sie dienen Hochschul- und Spitalangehörigen sowie Anwohnenden sowohl als Begegnungs- und Rückzugsort und fördern die Durchwegung zwischen den umliegenden Gebäuden und dem Quartier. Durch ihre Begrünung und Beschattung tragen sie zudem zu einem positiven Lokalklima der Stadt Zürich bei.
 
-## Der Park als Teil der Sternwartkaskade
-
 Einer dieser Parks ist der historische Aussenbereich der Sternwarte, welcher ursprünglich 1864 von Gottfried Semper entworfen wurde. Auf diesen Freiraum richtete die ETH Zürich in den letzten Monaten ein besonderes Augenmerk: bei seiner Aufwertung und Neugestaltung war der Blick zurück genauso relevant wie jener in die Zukunft. Das heutige Erscheinungsbild des Parks soll an die ursprünglich errichtete Gartenanlage erinnern und zugleich in die heutige und die zukünftige Entwicklung im Hochschulgebiet eingebettet sein. Vor allem dient der Park den Angehörigen der umliegenden Institutionen und Quartiere als attraktiver Aufenthalts-, Begegnungs- und Rückzugsort.
-
-## Offener und hindernisfreier HG-Vorplatz
 
 Im Zentrum der Neugestaltung stand der Hof der Sternwarte. Anstelle des auf alten Plänen und Bildern erkennbaren Stockbrunnens erhielt der Hof ein neues, Brunnenbecken mit Sitzrand zum Verweilen. Weiter ist der Frei- und Grünraum durch die Entfernung der Parkplätze und die Neubepflanzung der ursprünglichen Mauern erweitert worden. Die vor dem Haupteingang der Sternwarte liegende Terrasse blieb weitgehend erhalten und kann neu als Empfangs- und Ausstellungsbereich genutzt werden. Ein kleiner intimer Garten mit Rückzugsqualität entstand zudem als obere Gartenterrasse mit Verbindung zur Frauenklinik.
 
-## Staffnet
+## Der Park als Teil der Sternwartkaskade
 
 Die Neugestaltung orientiert sich am externe Seite Weissbuch des Hochschulgebiets Zürich Zentrum , in welchem die ETH Zürich zusammen mit der Universität Zürich, dem Universitätsspital Zürich sowie der Stadt und dem Kanton Zürich die Entwicklungs- und Gestaltungsgrundsätze im Hochschulgebiet definiert haben. Darin wird der Sternwartpark als Teil der sogenannten Sternwartkaskade gesehen, welche das Hochschulgebiet vom Central her erschliesst und sich durch verschiedene öffentlich nutzbare Aufenthaltsräume auszeichnet.
 
-## Newsletter abonnieren
-
 Ein solcher befindet sich auch vor dem Gebäude LFW , benannt nach dem historischen Land- und Forstwirtschaftlichen Institut, und das auch heute, nach 150 Jahren, noch als «Basis» der Agrarwissenschaften an der ETH dient. Dessen Eingangsportal wurde kürzlich durch die Neubepflanzung der Grünflächen, der Wiederinbetriebnahme des Brunnens und der Ergänzung mit Steinbänken aufgewertet. Abgestimmt auf das gleichzeitig durchgeführte Strassenbauprojekt der Stadt Zürich an der Rämi- und Tannenstrasse, ist dieser Bereich zur Strasse hin geöffnet worden und somit zugänglicher als bisher. Hinsichtlich der weiteren Entwicklung des Hochschulgebiets beabsichtigt die ETH in den nächsten Jahren im erweiterten Aussenbereich zusätzliche Umgestaltungen, die ebenfalls seinen historischen und städtebaulichen Kontext berücksichtigen.
+
+## Offener und hindernisfreier HG-Vorplatz
 
 Seit Juni 2021 wird aktuell der Vorplatz des Hauptgebäudes der ETH Zürich umgestaltet. Durch die ebenerdige Gestaltung wird er zukünftig hindernisfrei begehbar und für verschiedene Veranstaltungen flexibler einsetzbar sein. Die lärmintensiveren Rückbauarbeiten laufen noch bis Anfang August. Danach wird der Vorplatz etappenweise bis im September 2022 neu aufgebaut. Mehr zum Bauprojekt HG Vorplatz und der darunterliegenden HG Einstellgarage hier .
 

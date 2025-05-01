@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2015/04/gegen-verschwendung-einfach-alles-aufessen.html
 
+**Date processed:** 2025-05-01
+
 ## Ist Aufessen die Lösung?
 
 Es gibt viele Argumente dafür, dass wir die Verschwendung von Nahrungsmitteln reduzieren sollten. Aus ökologischer Sicht bedeutet Lebensmittelverschwendung auch Verschwendung begrenzter Ressourcen, insbesondere von Energie, Land und Wasser. Wenn wir 100g von einem Steak wegwerfen, dann verschwenden wir nicht nur 100g Fleisch, sondern zusätzlich 1‘400 Liter Wasser, und wir besetzen unnötigerweise einen Quadratmeter fruchtbares Land über ein ganzes Jahr. Aus ökonomischer Sicht verschwenden wir damit eine Menge Geld: Jeder Schweizer Haushalt wirft jährlich im Mittel 1‘500 bis 2‘500 Franken, die er im Supermarkt für Essen ausgegeben hat, in den Kübel. Aus ethischer Sicht verschwenden wir «das Brot der Armen». Mit den Lebensmitteln, die pro Schweizer weggeworfen werden, könnte das Kaloriendefizit von sechs unterernährten Menschen gedeckt werden. Und aus sozialer Sicht würdigen wir die in die Produktion investierte Arbeit von vielen, teilweise unterbezahlten Menschen nicht.
@@ -14,13 +16,9 @@ Erste Reaktionen auf diese Tatsachen könnten sein, dass wir im Restaurant stur 
 
 Die Kosten, die durch Übergewicht und Adipositas sowie durch die damit verbundenen Krankheiten gemäss Bundesamt für Gesundheit verursacht werden, beliefen sich im Jahr 2006 auf fast sechs Milliarden Franken. Wenn wir alle Resten aufessen würden, auch wenn wir keinen Hunger haben, so verschlimmern wir dieses Problem. Wenn wir beginnen, halb verdorbene Produkte zu essen, belastet das unsere Gesundheit zusätzlich. Pilzsporen und giftige Stoffwechselprodukte der Schimmelpilze können mitunter in die Tiefe der Lebensmittel eindringen, ohne dass das sichtbar wäre. Wenn wir also aufessen um des Aufessens Willen, können wir zwar «Foodwaste» gemäss Definition verhindern. Doch so bringen wir den Lebensmitteln keineswegs mehr Wertschätzung entgegen.
 
-## Bewusst essen
-
 Bewusst essen und das Essen auch wirklich geniessen sind die besten Mittel gegen Verschwendung. (Foto: Claudio Beretta)
 
 Für einen wahrhaftig würdigen Umgang mit Lebensmitteln stellt sich die Frage, wozu wir eigentlich essen. In erster Linie sollten wir essen, um gesund zu sein und unserem Körper Energie zuzuführen. Zweitens sollte uns Essen Freude und Genuss bereiten. Und drittens sollten wir Essen als Gelegenheit benützen, um soziale Erlebnisse zu pflegen, sei es bei einem Familiennachtessen oder beim gemeinsamen Kochen mit Freunden.
-
-## About the author
 
 Dies ist nur möglich, wenn wir bewusst essen. Das bedeutet, dass wir uns achten, was wir essen. Wir müssen uns dazu informieren und auf unsere Sinne hören. Frische, unverarbeitete, saisonale, schonend im Einklang mit der Natur produzierte Lebensmittel in ausgewogenen Kombinationen und massvollen Mengen versorgen unseren Körper mit den nötigen Vitaminen und Mineralstoffen. Fast Food, Billigprodukte aus intensiver Massenproduktion und Fertiggerichte mit chemischen Zusatzstoffen hingegen sind die Ursache vieler Zivilisationskrankheiten. Wir sollten also an erster Stelle gesunde Lebensmittel beziehen. Mit jedem Franken, den wir in «Junk Food» investieren, unterstützen wir eine Industrie, welche die Menschen zu krankmachendem Konsum verführt. An zweiter Stelle sollten wir massvoll einkaufen, sodass wir alle Lebensmittel verzehren können, so lange sie noch gut und frisch sind. Und an dritter Stelle kommt eine sinnvolle Resteverwertung.
 

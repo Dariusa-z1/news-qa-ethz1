@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2017/04/im-austausch-mit-talenten.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Im Rahmen eines «Tags der offenen Tür» empfingen ehemalige und aktuelle Excellence Scholars die Gäste, um ihre Forschungsprojekte zu präsentieren und sich über Studium, Motivation und Zukunftspläne auszutauschen. Rektorin und ESOP-Schirmherrin Sarah M. Springman dankte in ihrer Rede allen Förderern und Partnern, die jedes Jahr einen entscheidenden Beitrag zur Unterstützung der besten Talente leisten.

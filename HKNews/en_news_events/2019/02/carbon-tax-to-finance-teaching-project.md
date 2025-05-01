@@ -2,15 +2,9 @@
 
 **Source:** en_news_events/2019/02/carbon-tax-to-finance-teaching-project.html
 
+**Date processed:** 2025-05-01
+
 ## More responsible air travel
-
-- Compensation: since the beginning of 2019, D-MAVT has levied an internal carbon tax on air travel as its own form of compensation. For all plane tickets, each research group pays a substantial fee per tonne of CO2 emitted. A return flight from Zurich to Boston for instance will thus cost around CHF 150 more. Of this fee, around 15 percent goes to the Federal Office for the Environment to purchase emission certificates, whereas the remaining 85 percent goes into an internal fund.
-
-- Awareness: this internal carbon tax is designed to raise awareness of climate damage and bring about a cultural shift towards a more conscious approach to business trips. The department is also promoting alternative means of transport and expanding the infrastructure for video conferences.
-
-- Reduction: CO2 emissions caused by air travel are set to be reduced by 12 percent by 2025 at D-MAVT.
-
-- Education in Sustainability: the proceeds from the carbon tax (internal fund) are invested in student research projects that promote sustainability in line with the United Nations Sustainable Development Goals (SDGs)2,3.
 
 Air travel accounts for more than half of ETH Zurich’s CO 2 emissions, but is still considered to be (almost) unavoidable in the globally networked world of science. This dilemma is not only relevant to climate scientists. As part of the ETH-wide initiative to reduce air travel (see box for further information 1 ) we at the Department of Mechanical and Process Engineering (D-MAVT) are also asking ourselves: how can we reduce our flight-related CO 2 emissions without sacrificing scientific quality or reducing the career prospects of researchers? This should be achieved considering that personal interactions between researchers at international conferences are not only very helpful, but also part of the culture.
 
@@ -18,17 +12,17 @@ In order to address the conflicting goals of international collaboration and cli
 
 ## Tax flights to support teaching
 
-When developing a viable solution, it was essential that we took the people who would be most affected and their needs into careful consideration. To the students, it was clear: emissions need to have a price. Every tonne of CO 2 emitted should cost something. In addition, sustainability issues should become a central part of the curriculum. The professors advocated spending ETH funds primarily for research purposes and not for conventional emission certificates. The doctoral students called for the increased use of modern technology such as video conferencing in order to avoid air travel.
-
 These different priorities led to the CARES initiative. This acronym stands for Compensation, Awareness, Reduction and Education in Sustainability:
 
-## New sustainable focus projects
+• Compensation: since the beginning of 2019, D-MAVT has levied an internal carbon tax on air travel as its own form of compensation. For all plane tickets, each research group pays a substantial fee per tonne of CO 2 emitted. A return flight from Zurich to Boston for instance will thus cost around CHF 150 more. Of this fee, around 15 percent goes to the Federal Office for the Environment to purchase emission certificates, whereas the remaining 85 percent goes into an internal fund.
+• Awareness: this internal carbon tax is designed to raise awareness of climate damage and bring about a cultural shift towards a more conscious approach to business trips. The department is also promoting alternative means of transport and expanding the infrastructure for video conferences.
+• Reduction: CO 2 emissions caused by air travel are set to be reduced by 12 percent by 2025 at D-MAVT.
+• Education in Sustainability: the proceeds from the carbon tax (internal fund) are invested in student research projects that promote sustainability in line with the United Nations Sustainable Development Goals (SDGs) 2,3 .
+When developing a viable solution, it was essential that we took the people who would be most affected and their needs into careful consideration. To the students, it was clear: emissions need to have a price. Every tonne of CO 2 emitted should cost something. In addition, sustainability issues should become a central part of the curriculum. The professors advocated spending ETH funds primarily for research purposes and not for conventional emission certificates. The doctoral students called for the increased use of modern technology such as video conferencing in order to avoid air travel.
 
 At the heart of the initiative is the idea of using the funds collected for student projects. CARES is designed to promote students’ creativity, raise their awareness of sustainability and strengthen their project skills. Students can apply to the department with their own projects. The more SDGs their project addresses, the greater the chances of winning scientific and financial support.
 
 CARES thus complements the existing focus project teaching format at D-MAVT, in which undergraduate students apply their theoretical knowledge in practice. 4 Students may already choose to carry out a focus project as an alternative to lectures in the third year of their Bachelor’s degree. Until now, focus projects have primarily been initiated by professors. CARES allows students to develop project ideas on their own and to finance them independently of professors.
-
-## A solution with a future
 
 We are convinced that CARES is the right approach for our department to reduce CO 2 emissions while promoting scientific innovation. The carbon tax levied not only creates an incentive to choose alternative means of transport and communication, but also finances new projects proposed by talented young students. They get the opportunity to find solutions to urgent problems and actively shape the future of the society.
 
@@ -40,13 +34,13 @@ This also means that funds earmarked for research are not being diverted from th
 
 2 Agenda 2030 : 17 Sustainable Development Goals.
 
-## About the authors
-
 3 For more on this topic, see this blog post by Christine Bratrich, Head of ETH Sustainability: The 2030 Agenda: Our responsibility as a university and the website ETH Zurich and the Agenda 2030 .
 
 4 Within the framework of the focus projects , students independently develop innovative products. Examples include a robot that saves people buried under rubble ( Proboscis ) and an exhibition that explains how CO 2 is stored underground ( Carbon Storage Showcase ).
 
 Undergraduate students from the Department of Mechanical and Process Engineering who are interested in CARES are invited to apply with their project ideas by 28 February 2019 . Further information on the initiative and the application process can be found here .
+
+## About the authors
 
 Marco M azzotti Professor of Process Engineering at ETH Zurich’s Institute of Process Engineering
 

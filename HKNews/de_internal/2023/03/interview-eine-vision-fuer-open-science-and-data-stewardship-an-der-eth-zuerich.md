@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2023/03/interview-eine-vision-fuer-open-science-and-data-stewardship-an-der-eth-zuerich.html
 
+**Date processed:** 2025-05-01
+
 ## Interview zur Integration des Open-Science-Ansatzes in das Arbeits- und Teamumfeld an der ETH Zürich
 
 Open Science und Open Research Data (ORD) sind zwei Begriffe, die in der schweizerischen und europäischen Forschungslandschaft derzeit sehr präsent sind. Auch externe Seite swissuniversities und der externe Seite ETH-Bereich treiben diese Themen mit eigenen Programmen zur Förderung offener Forschungsdaten voran. Doch wie können Open-Science-Ansätze in den Arbeitsalltag und in das Team einer Forschungsgruppe integriert werden? Professorin Elizabeth Tilley (D-MAVT, Global Health Engineering ) und Lars Schöbitz, Open-Science-Spezialist der Forschungsgruppe, gewähren im Gespräch praktische Einblicke in diesen Themenbereich.
@@ -25,8 +27,6 @@ Meine Hauptaufgabe besteht in der Schaffung und Förderung einer Open-Science-Ku
 Die Gruppe Global Health Engineering hat sich erfolgreich um ein Forschungsprojekt im Rahmen des externe Seite Programms Offene Forschungsdaten (ORD) des ETH-Bereichs beworben. Das Projekt mit dem Titel «openwashdata» läuft von März 2023 bis August 2024 und zielt darauf ab, eine internationale Gemeinschaft aufzubauen, die offene Praktiken für Daten im Bereich Wasser, Sanitärversorgung und Hygiene (WASH) etablieren soll (Projektwebsite: externe Seite https://openwashdata.org )
 
 Es hat sich bei mir einfach so ergeben. Ich hatte schon immer eine Affinität zu Computern und dann Professor:innen, die mir ganz selbstverständlich beigebracht haben, wie man Daten richtig verwaltet, ohne es Forschungsdatenmanagement zu nennen. Ich wusste, wie man mit Tabellenkalkulationen arbeitet, aber in meinem ersten Job habe ich die Grenzen von Softwaretools, die auf Tabellenkalkulationen basieren, für meine Datenanalyse erkannt. Als mir die Programmiersprache R vorgestellt wurde, war ich von der freundlichen Gemeinschaft und dem Konzept der Reproduzierbarkeit von Datenanalysen sofort begeistert. Das war die Initialzündung: Wenn andere meine Ergebnisse überprüfen und darauf aufbauen können, weil ich die Rohdaten und den Code veröffentliche, der diese Ergebnisse hervorgebracht hat, warum sollte ich das dann nicht auch umsetzen? Überraschenderweise (für mich) sahen das damals nicht alle so, und so dauerte es weitere fünf Jahre, bis ich die Gelegenheit bekam, es in Liz’ Gruppe auszuprobieren.
-
-## Immer aktuell informiert
 
 Man muss hartnäckig sein. Ich kenne nur wenige Forschende mit gesunden Arbeitszeiten, und wenn man sie bittet, etwas zu tun, das auf ihrem Lebenslauf keinen hohen Stellenwert hat, stösst man verständlicherweise auf Widerstand. Es hilft, einfühlsam zu sein. Ich versuche, die Menschen dort abzuholen, wo sie sind, und die Dinge von dort aus anzugehen. Alles, was ich über effektives Unterrichten gelernt habe, stammt von Greg Wilson und seinem fabelhaften Buch « externe Seite Teaching Tech Together ». Und alles, was ich über das Unterrichten von Datenwissenschaft gelernt habe, stammt von Mine Çetinkaya-Rundel und ihren Bemühungen, externe Seite offenes Bildungsmaterial für Data-Science bereitzustellen.
 

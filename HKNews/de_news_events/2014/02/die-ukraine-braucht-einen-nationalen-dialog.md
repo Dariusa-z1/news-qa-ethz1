@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2014/02/die-ukraine-braucht-einen-nationalen-dialog.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH-News: Herr Grätz, ist mit der Flucht des Präsidenten Janukowitsch vom Sonntag der wichtigste Schritt für den Frieden in der Ukraine gemacht? Jonas Grätz: Sehr viele Menschen in der Ukraine sehen die Geschehnisse nach wie vor als Putsch. Im russischen Fernsehen, das besonders im Südosten des Landes geschaut wird, werden die neuen Autoritäten als Faschisten und Neonazis dargestellt. Eine neugewählte Regierung wird es sehr schwer haben, im gesamten Land Anerkennung zu finden.
@@ -29,6 +31,8 @@ Gibt es Alternativen? Ja, der ukrainische Staat hat in den letzten Jahren mehrer
 Was braucht die Ukraine nun am dringendsten? Das Land braucht vor allem einen nationalen Dialog zwischen den neuen Kräften in Kiew, den Bürgern im Westen und den östlichen Regionen des Landes. Man muss jetzt um eine gemeinsame Interpretation der Ereignisse der vergangenen Monate ringen. Internationale Organisationen wie die OSZE könnten dabei eine wichtige Rolle spielen, wenn es ihnen gelingt, das Vertrauen der Parteien zu gewinnen. Die Ukraine steht wirtschaftlich am Abgrund. Das Land braucht daher rasch eine effektive Regierung, die die eklatanten Probleme des Landes löst.
 
 Jonas Grätz ist wissenschaftlicher Mitarbeiter des «Global Security Team» am Center for Security Studies (CSS) der ETH Zürich. Er hat sich auf Fragen der Energiesicherheit sowie russische Innen- und Aussenpolitik spezialisiert.
+
+## Schweizer als OSZE-Botschafter in der Ukraine
 
 Am 24. Februar hat Bundespräsident Didier Burkhalter, derzeit Vorsitzender der Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE), den Botschafter Tim Guldimann zu seinem persönlichen Gesandten für die Ukraine ernannt. Guldimann spricht Russisch und verfügt als ehemaliger Leiter der OSZE-Unterstützungsgruppe in Tschetschenien (1996-1997), der OSZE-Mission in Kroatien (1997-1999) und der OSZE-Mission in Kosovo sowie als Sonderbeauftragter des UNO-Generalsekretärs im Kosovo (2007-2008) über grosse Erfahrung im Bereich der Konfliktbearbeitung in Osteuropa sowie gute OSZE-Kenntnisse. Guldimann bleibt zugleich Leiter der Schweizer Botschaft in Berlin.
 

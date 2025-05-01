@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2020/10/portraet-zuzana-sediva.html
 
+**Date processed:** 2025-05-01
+
 ## Neuartiges Treibmittel aus Gas und Wasser
 
 Zuzana Sediva hat eine Vorliebe für Pistazien. «Es gab eine Zeit, da sammelte ich sie in Sizilien und brachte sie nach Hause, um Glace zu machen», erzählt sie. Dass diese Leidenschaft am Ursprung ihrer Dissertation stand und schliesslich zu ihrer Geschäftsidee wurde, ahnte sie da noch nicht.
@@ -15,8 +17,6 @@ Sedivas Lösung ist gleich in doppelter Hinsicht nachhaltig: erstens handelt es 
 Bioplastik ist im Trend. Jedes Jahr werden weltweit 20 bis 30 Prozent mehr davon hergestellt. Für Schaumstoff gibt es heute aber noch sehr wenige nachhaltige Alternativen. Das liegt daran, dass die chemische Herstellung gewisse Eigenschaften an das Ausgangsmaterial voraussetzt. So schäumt ein Kunststoff auf, wenn ihm ein Treibmittel zugegeben wird, meistens unter starker Hitze und grossem Druck. Organischer Abfall jedoch ist in der Regel hitzeempfindlich und kann nicht unter derart hohen Temperaturen verarbeitet werden. «Die gewünschte Elastizität von Schaumstoff mit Biomasse zu erzeugen, ist sehr schwierig», erklärt Sediva.
 
 Sedivas Lösung besteht unter anderem aus einem neuartigen Treibmittel, das im Herstellungsprozess zugegeben wird und dafür sorgt, dass die Biomasse bei tieferen Temperaturen aufschäumt. Das Bio-Treibmittel ist – im Gegensatz zu den synthetischen Zusatzstoffen bei Plastik-Schaumstoffen – komplett grün. Es basiert auf einem Gemisch von Gas und Wasser. Sediva hatte es im Rahmen ihrer Dissertation an der ETH entwickelt, letztes Jahr meldete sie zusammen mit der ETH ein Patent dafür an.
-
-## Verpackungen – und Schuhe?
 
 Damit Schaumstoffe aus organischen Abfällen eine hohe Elastizität erreichen, muss ein genaues «Rezept» eingehalten werden. Dazu gehören das speziell entwickelte Treibmittel, eine Mischung aus organischen Abfällen und ein bestimmter Herstellungsprozess. Sediva überlegt sich, ob sie in Zukunft auch dieses «Rezept» schützen lassen soll.
 

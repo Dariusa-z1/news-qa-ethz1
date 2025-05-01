@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2016/05/18-professorinnen-und-professoren-an-der-eth-zuerich-ernannt.html
 
+**Date processed:** 2025-05-01
+
 ## Ernennungen ETH Zürich
 
 Der ETH-Rat hat an seiner Sitzung vom 25./26. Mai 2016 auf Antrag des Präsidenten der ETH Zürich, Lino Guzzella, 18 Professorinnen und Professoren ernannt, einen Professorentitel verliehen und den Rücktritt von einem Professor mit Verdankung zur Kenntnis genommen.
@@ -30,8 +32,6 @@ Collin Y. Ewald (Bild: Harvard Medical School / Stephanie M. McPherson)
 
 Dr. Collin Y. Ewald (*1980) , zurzeit Postdoktorand an der ETH Zürich, zum Assistenzprofessor für Regeneration von Extrazellulärer Matrix. Collin Ewald ist ein international anerkannter Forscher auf dem Gebiet der moleku­laren Biologie des Alterns. Ihm gelang es unter anderem zu zeigen, dass fast alle Interventionen, die das Leben verlängern, nicht nur das Zellinnere schützen und reparie­ren, sondern in unerwarteter Weise auch das Zelläussere (die extrazelluläre Matrix). Seine Berufung wird die Grundlagen­forschung zum Schwerpunktthema alternde Gesellschaft / gesundes Altern an der ETH Zürich erheblich verstärken. Das Ziel des SNF-Förderungsprofessors wird sein, her­auszufinden, wie sich die verbesserte Regeneration der extrazellulären Matrix auf die Verlängerung der gesunden Lebensspanne auswirkt.
 
-## Verleihung des Titels «Professor»
-
 Mohsen Ghaffari (Bild: Matilde Barbosa)
 
 Mohsen Ghaffari (*1987) , zurzeit Doktorand am Massachusetts Institute of Technology (MIT), Cambridge, USA, zum Tenure-Track-Assistenzprofessor für Informatik. Mohsen Ghaffari ist ein höchst vielversprechender Nachwuchsforscher, der in der Theoretischen Informatik mit Schwerpunkt auf verteiltem Rechnen und Netzwerkalgorithmen forscht. Seine mehrfach ausgezeichneten Arbeiten verbinden mathematische Methoden aus Wahrscheinlichkeitstheo­rie und Graphentheorie mit Algorithmendesign und Analyse. Er schafft dabei Bezüge zu etablierten Themen der ETH Zürich und zu neuen Schwerpunkten im Bereich der Verarbeitung grosser Datenmengen und der sozialen Netzwerke. Die führende Rolle der Hochschule in diesen zukunftsträchtigen Gebieten wird mit der Berufung von Mohsen Ghaffari gestärkt.
@@ -58,8 +58,6 @@ Dr. Shinichi Sunagawa (*1978) , zurzeit wissenschaftlicher Mitarbeiter am Europ�
 
 Vincent Tassion (Bild: Maria Kondrattieva)
 
-## Verabschiedung ETH Zürich
-
 Dr. Vincent Tassion (*1986) , zurzeit Postdoktorand an der Universität Genf, zum Assistenzprofessor für Mathematik. Vincent Tassions Forschungsgebiet sind Phasenübergänge in Modellen der statistischen Physik – ein Hauptthema der Wahrschein­lichkeitstheorie. Dabei geht es darum, Phänomene aus der Physik oder Chemie anhand von dis­kreten Modellen zu beschreiben und zu erklären. Vincent Tassion hat in den letzten Jahren zu verschiedenen offenen Fragen in diesem Themenbereich geforscht, unter anderem zu den Phasenübergängen für Modelle in drei Dimensionen. Dabei konnte er langjährige offene Probleme lösen. Mit seiner Berufung gewinnt die ETH Zürich einen hervorragenden jungen Mathe­matiker, der für seine Kolleginnen und Kollegen sowie für seine Studierenden eine grosse Bereicherung sein wird.
 
 Konrad Tiefenbacher (Bild: Konrad Tiefenbacher)
@@ -80,9 +78,13 @@ Prof. Dr. Samuel Zeeman (*1970) , zurzeit ausserordentlicher Professor an der ET
 
 Oded Zilberberg (Bild: ETH Zürich / Heidi Hostettler)
 
+## Verleihung des Titels «Professor»
+
 Dr. Oded Zilberberg (*1979) , zurzeit wissenschaftlicher Mitarbeiter im Forschungszentrum eines renommierten Schweizer Unternehmens, zum Assistenzprofessor für Quantenphysik der Kondensierten Materie. Oded Zilberberg ist ein vielseitiger Forscher, der mit seinen Erkenntnissen in internationalen Fachkreisen Aufsehen erregt hat. Seine Arbeit konzentriert sich auf quantenkohärente Phänomene im Grenz­bereich der Festkörperphysik und der Quantenoptik und zielt darauf ab, neue Anwendungen in der Sensorik und in der Informationsverarbeitung zu ermöglichen. Mit der Berufung von Oded Zilberberg, der vom SNF eine Förderungsprofessur erhält, stärkt die ETH Zürich ihre Forschungsaktivität auf dem Ge­biet des Nationalen Forschungsschwerpunktes «Quantum Science and Technology» signifikant.
 
 Ita Heinze-Greenberg (Bild: Barbara Sigg)
+
+## Verabschiedung ETH Zürich
 
 Dr. Ita Heinze-Greenberg (*1956) , leitende wissenschaftliche Mitarbeiterin und Lehrbeauftragte an der ETH Zürich, zur Titularprofessorin der ETH Zürich. Ita Heinze-Greenberg ist eine international anerkannte Expertin für die Architektur des 19. und 20. Jahrhunderts. Sie wirkt am Institut für Geschichte und Theorie der Architektur an der ETH Zürich und prägt dessen Forschung und Lehre in wesentlichen Themenfeldern.
 

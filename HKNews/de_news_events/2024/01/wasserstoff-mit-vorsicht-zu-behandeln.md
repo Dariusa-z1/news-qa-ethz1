@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2024/01/wasserstoff-mit-vorsicht-zu-behandeln.html
 
-## Zum Autor
+**Date processed:** 2025-05-01
+
+## Main article
 
 Wird Wasserstoff richtig hergestellt und verantwortungsvoll verwendet, kann das reaktive Gas für die Energiewende eine wichtige Rolle spielen. Denn Wasserstoff kann Gebäude heizen, Fahrzeuge antreiben und in hochtemperierten Industrieprozessen direkt Erdgas und Kohle ersetzen.
 
@@ -10,15 +12,17 @@ Mit Wasserstoff und aus der Luft gewonnenem CO 2 lassen sich auch synthetische B
 
 Schliesslich wird Wasserstoff auch als Speicher für elektrische Energie verwendet. Batterien ist er vor allem dann überlegen, wenn grosse Strommengen über lange Zeiträume erhalten bleiben sollen. Doch so vielseitig und verlockend Wasserstoff erscheinen mag, er bringt auch verschiedene Herausforderungen mit sich.
 
+## Zum Autor
+
 Anthony Patt ist Professor für Klimaschutz und -​anpassung an der ETH Zürich.
 
 Zum einen die Speicherung: Es braucht viel Energie, um Wasserstoff unter Druck zu setzen oder zu kühlen. Die kleinen und flüchtigen Moleküle neigen dazu, durch viele Materialien zu diffundieren. Neue Ansätze wie Nanomaterialien oder die Umwandlung von Wasserstoff in besser speicherbare Stoffe sind noch nicht ausgereift. 1 Die Speicherkosten sind hoch. 2
 
 Herausfordernd ist auch die Produktion. 3 Heute wird fast aller Wasserstoff aus Erdgas hergestellt, wodurch viel CO 2 in die Atmosphäre gelangt. Diesen grauen Wasserstoff gilt es schrittweise auszumustern.
 
-## Neue Bedenken gegenüber Wasserstoff
-
 Blauer Wasserstoff entsteht ebenfalls aus Erdgas, wobei das CO 2 aufgefangen und dauerhaft unterirdisch gespeichert wird. Leider entweichen dabei grosse Mengen an Erdgas, vor allem Methan, ein starkes Treibhausgas.
+
+## Neue Bedenken gegenüber Wasserstoff
 
 Die sauberste Variante ist grüner Wasserstoff und nutzt erneuerbare Energie, um Wasser in Wasserstoff und Sauerstoff zu spalten. Dies ist allerdings überaus ineffizient. Wird Wasserstoff letztlich zur Wärme- oder Stromerzeugung konsumiert, geht mehr als die Hälfte der aufgewendeten Energie verloren (siehe dazu diesen Blogbeitrag ).
 
@@ -30,7 +34,7 @@ Die Antwort ist, wir wissen es nicht, weil es nur sehr wenig Forschung dazu gibt
 
 Es gibt mächtige Lobbygruppen, die politisch darauf drängen, Wasserstoff so breit wie möglich einzusetzen. Finanziert wird die politische Einflussnahme vor allem von der fossilen Energiewirtschaft, denn Produktion, Vertrieb und Verkauf von flüssigen und gasförmigen Energieträgern zählen zu ihrer Kernkompetenz. 8 Viele Menschen sind, wie ich, äusserst besorgt über die Konsequenzen der ehrgeizigen Wasserstoffpläne überall in Europa, sowohl für die Verbraucher:innen als auch fürs Klima.
 
-## Wie viel geht tatsächlich verloren?
+## Den Einsatz auf sinnvolle Anwendungen beschränken
 
 Das heisst konkret: Überall dort, wo eine direkte Elektrifizierung möglich ist, zum Beispiel bei Wärmepumpen und batteriebetriebenen Elektroautos, werden die Stromkosten weitaus geringer sein als mit Wasserstoff. Unsere Energiemodelle zeigen zudem, dass eine durch Stromhandel mit Europa gewährleistete Versorgungssicherheit deutlich günstiger ausfällt als ein energieautarkes nationales Stromsystem mit Wasserstoffspeichern für den saisonalen Produktionsausgleich. 9
 
@@ -43,8 +47,6 @@ Dabei helfen könnten strengere Vorschriften, die den Einsatz von grauem oder bl
 1 Rasul, M. G., M. . Hazrat, M. A. Sattar, M. I. Jahirul, and M. J. Shearer, 2022: The future of hydrogen: Challenges on production, storage and applications. Energy Convers. Manag. , 272 , 116326, externe Seite doi:10.1016/J.ENCONMAN.2022.116326 .
 
 2 Die Coalition for Green Energy & Storage (CEGS) – eine gemeinsame Initiative der ETH Zürich und der EPFL – will die Herausforderungen rund um die Speicherung und den Transport von Wasserstoff zusammen mit der Industrie angehen. Der Autor ist nicht nicht teil der Initiative.
-
-## Den Einsatz auf sinnvolle Anwendungen beschränken
 
 3 Wasserstoff kommt auf der Erde nur selten rein als H2 vor. Es wird jedoch über grosse H2-Vorkommen in tiefen Gesteinsschichten spekuliert. Falls dies zutrifft und die Kosten für die Förderung nicht zu hoch wären, könnte das ein Wendepunkt sein. Siehe: Milkov AV, 2022: externe Seite Molecular hydrogen in surface and subsurface natural gases: Abundance, origins and ideas for deliberate exploration. Earth-Science Rev. , 230, 104063.
 

@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2013/12/zwei-energiekompetenzzentren-fuer-die-eth.html
 
+**Date processed:** 2025-05-01
+
 ## Elektrifizierung und Effizienzsteigerung
 
 Die Schweiz will ihren Energiebedarf langfristig möglichst aus erneuerbaren Quellen decken. So hat der Bundesrat nicht nur den Ausstieg aus der Atomenergie beschlossen, sondern mit der Energiestrategie 2050 auch eine Wende hin zu klimaschonenden CO 2 -neutralen Energiequellen eingeläutet. Um dafür technologisch gerüstet zu sein, fördert der Bund die Energieforschung. Er schafft deshalb im ETH-Bereich sieben Energiekompetenzzentren, die während den kommenden drei Jahren – und möglicherweise anschliessend für weitere vier Jahre – betrieben werden. Bezeichnet werden sie als «Swiss Competence Centers for Energy Research» (SCCER). Während den ersten drei Jahren fliessen insgesamt 72 Millionen Franken Bundesgelder in diese Zentren.
@@ -11,8 +13,6 @@ Gestern informierte die Kommission für Technologie und Innovation (KTI) über v
 Hauptstossrichtung dabei ist, die Energieeffizienz der Mobilität zu erhöhen und insbesondere den CO 2 -Ausstoss massiv zu reduzieren. Das möchte man unter anderem dadurch erreichen, dass ein Teil des Verkehrs elektrifiziert wird. So sollen im Rahmen dieses SCCER unter anderem Komponenten für die Elektromobilität entwickelt werden. Als Beispiel: In einer Batterietechnologie-Plattform sollen Batterien entwickelt werden, die leistungsfähiger, langlebiger und in der Herstellung günstiger sind.
 
 Teil des SCCER Mobilität sind zudem Bestrebungen mit fossilen Treibstoffen betriebene Antriebssysteme einerseits effizienter zu machen und sie andererseits weiterzuentwickeln, so dass sie optimal mit Treibstoffen aus erneuerbaren Quellen betrieben werden können, als Verbrennungsmotoren oder Brennstoffzellen. Und es geht darum, neue Materialien zu entwickeln, um Fahrzeuge leichter zu bauen, und um neue Lösungen, bei Fahrzeugen auch den Energiebedarf, der nicht in den Antrieb gesteckt wird, zu senken – etwa bei der Klimatisierung und der Heizung.
-
-## Förderung der Tiefengeothermie
 
 Schliesslich richtet dieses SCCER auch einen ganzheitlichen Blick auf die Mobilität. Es werden etwa die wirtschaftlichen und ökologischen Auswirkungen der Technologieentwicklung untersucht. Und es geht um Fragen der Raumplanung und der für die Elektromobilität benötigten Infrastruktur. «Das SCCER Mobilität ist ein Bekenntnis der Schweizer Politik, dass der Verkehr in der Energiewende eine dominierende Rolle spielen wird», sagt Konstantinos Boulouchos. «Und es ist ein Bekenntnis dazu, dass für die Energiewende neben dem politischen Willen auch technologische Durchbrüche unabdingbar sind, die nur mit Forschung erzielt werden können.»
 

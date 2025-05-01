@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2021/03/in-der-werkstatt-des-riesen.html
 
+**Date processed:** 2025-05-01
+
 ## Die Ingenieure und das Kreuz
 
 Auf den ersten Blick wähnt man sich in einer Schiffswerft irgendwo im Hafenareal Hamburgs: Eine weite Halle, Neonlicht und an der Decke ein Hängekran auf Schienen, der tonnenschwere Stahlelemente, Betonstützen und Holzbalken durch den Raum hievt. Dazu Schrauben, so lang und dick wie die Unterarme eines Erwachsenen, und Muttern mit dem Radius von Tellern – als wäre das hier die Werkstatt eines Riesen.
@@ -10,15 +12,13 @@ Auf den ersten Blick wähnt man sich in einer Schiffswerft irgendwo im Hafenarea
 
 Die Prüfstände reihen sich rechts und links entlang eines mit gelbem Klebeband markierten Korridors. Zum Beispiel «LUSET», ein zehn Mal zehn Meter grosser Koloss, dessen Eingeweide aus hundert einzeln ansteuerbaren Hydraulikzylindern bestehen. Damit lassen sich mit Stahl bewehrte Betonplatten zermalmen – schön kontrolliert, um natürliche Bedingungen zu imitieren. Die Forschungsgruppe von Professor Walter Kaufmann führt hier auch Versuche für das Bundesamt für Strassen (ASTRA) durch, um zu testen, ob Brücken saniert werden müssen. Schräg gegenüber steht ein weiterer Gigant namens «MAST». Unter massiven Stahlträgern steht eine mit Stahl bewehrte Betonmauer von rund drei Metern Länge und zwei Metern Höhe. Metallplatten, die auf der Oberkante der Mauer liegen, können durch gewaltige Zylinder bewegt werden, um die Kräfte eines Erdbebens in Slow Motion zu simulieren. Professor Božidar Stojadinović analysiert damit das Verhalten von Beton und Stahl unter Erdbebenbedingungen. «Grundsätzlich könnte man auch ein kleines Haus in den Prüfstand bauen und auf Erdbebentauglichkeit prüfen», erklärt Werne.
 
-## Pionierprojekt aus Holz
-
 «Stopp! Ich sehe hier einen ersten Riss», ruft jemand am nördlichen Ende der Bauhalle. Er ist Teil einer Gruppe von sechs Männern, zwei vom Zürcher Ingenieurbüro «WaltGalmarini», drei Doktoranden des IBK und ein Techniker der Bauhalle. Sie haben sich um einen Tisch mit mehreren Computerbildschirmen versammelt; daneben steht ein knallblauer Kasten, aus dem zwei Manometer und zwei Hebel herausragen – eine handbetriebene Hydraulikpumpe. Vor dieser temporären Kontrollbrücke liegt ein Holzkreuz aus einer 4,4 Meter langen Holzstütze und zwei Riegeln. Diese bestehen zur Hälfte aus demselben Buchenfurnierschichtholz wie die Stütze, sind jedoch an der Unterseite je mit einer Betonschicht unterzogen. Verbunden sind die beiden Riegel mit der Stütze durch ins Holz eingeklebte Gewindestangen. Für die Befestigung der Riegel wurde eine rund zehn Zentimeter breite Fuge mit hochfestem Vergussmörtel gegossen. Dieser Stützen-Riegel-Knoten soll heute getestet werden. Dafür wurde das Kreuz zwischen zwei bulligen Hydraulikzylindern installiert, die durch tonnenschwere Schubwände aus Stahl am Boden fixiert sind.
 
 Die Ingenieure haben sich um sieben Uhr in der Früh in der Bauhalle versammelt, um das Kreuz auf Biegen und Brechen zu belasten. Dabei wollen sie mehr über dessen Steifigkeit, Tragfähigkeit und Duktilität erfahren. Hoch über dem Kreuz sind an einem Stahlträger drei Infrarotkameras befestigt. Sie messen anhand von 78 zuvor markierten Messpunkten auf dem Beton des Kreuzes jede Verschiebung von mehr als 0,1 Millimetern. Mit diesen Werten lassen sich Kurven und Diagramme zeichnen, die zeigen, bei welcher Belastung welche Verformungen wo stattgefunden haben.
 
 Unter extremer Belastung weitet sich ein Riss auf mehrere Zentimeter. (Bild: Daniel Winkler)
 
-## Eruptiv statt duktil
+## Pionierprojekt aus Holz
 
 Kurz nach halb zehn und bei etwas mehr als 200 Kilonewton Zugbelastung, was einer Belastung mit 20 Tonnen Gewicht entspricht, zeigen sich erste feine Risse im Beton. Der Doktorand, der die manuelle Hydraulikpumpe für den Druckaufbau bedient, lässt den Hebel los. Ein Mitarbeiter von «WaltGalmarini» fährt den Rissen im Beton mit einem blauen Marker fein säuberlich nach und versieht sie mit einer 2, was so viel wie Laststufe 2 bedeutet. So können die Ingenieure auch später noch nachvollziehen, bei welcher Belastung welche Risse aufgetreten sind. Sie schiessen Fotos vom aktuellen Rissbild und machen sich Notizen. Danach wird der Druck wieder abgelassen.
 
@@ -26,7 +26,7 @@ Was heute am Prüfstand der Professur für Holzbau simuliert wird, ist das Verha
 
 Eine solche Bauweise ist in der Schweiz aufgrund des Brandschutzes erst seit 2015 erlaubt. Hinzu kommen Innovationen im Holzbau. «Laubhölzer sind zwar schwieriger zu verarbeiten, haben aber wesentlich bessere mechanische Eigenschaften als Nadelhölzer», erklärt Frangi. «Deshalb sind sie für die hohen Lasten im Hochhausbau gut geeignet.» Durch Schälen von Buchenstämmen und anschliessendes Verkleben der zwei bis drei Millimeter dicken Holzfurniere entstehen Bauteile mit optimierter Tragfähigkeit bei kleineren Querschnitten. Die Folge sind leichtere Bauwerke im Vergleich zu herkömmlichen Hochhäusern aus Beton. Und eine bessere Umweltbilanz: Pro Kubikmeter verbautem Holz wird rund eine Tonne CO₂ im Material gespeichert. Hinzu kommt der reduzierte Einsatz von Beton, dessen Zementproduktion circa acht Prozent der globalen CO₂-Emissionen verursacht. Auch die Holz-Beton-Hybriddecke, die in «Projekt Pi» auf 27 Stockwerken verbaut wird, ist ein Novum aus Frangis Gruppe. Sie ist 30 Prozent leichter als herkömmliche Beton-Stahl-Decken, bei gleichbleibender Tragfähigkeit, wie Belastungstests in der Bauhalle gezeigt haben. Und auch ihr Schall- und Schwingungsverhalten entspricht den Normen.
 
-## Erkenntnisse, wertvoll wie Gold
+## Eruptiv statt duktil
 
 «Baam!» Ein dumpfer, stählerner Knall durchdringt die Halle. Es ist kurz vor 16 Uhr, die Zugbeanspruchung auf die beiden Riegel betrug zuletzt 510 Kilonewton (51 Tonnen), was rund der doppelten Kraft entspricht, der das Gebäude gesetzlich standhalten muss. An einem der beiden Riegel sind im Beton lange Risse zu sehen, rund zwei Zentimeter breit. An dieser Stelle werden die horizontalen Holz-Beton-Verbunddecken einst mit der vertikalen Holzstütze verbunden. Andreas Galmarini stürmt mit seinem Mitarbeiter zur Rissstelle, schiesst Fotos und markiert sie wiederum mit dem blauen Stift. «Jetzt hat’s die Zugarmierung im Knoten geputzt», sagt der Mitinhaber von «WaltGalmarini», der die Bauhalle noch von seiner eigenen Dissertation an der ETH kennt.
 
@@ -34,21 +34,21 @@ Der plötzliche, unangekündigte Bruch weicht von den Modellrechnungen der Ingen
 
 Ein Doktorand aus Frangis Gruppe ergreift erneut den Hebel der Hydraulikpumpe und beginnt zu pumpen. Nun soll auch noch der zweite Riegel «auf Bruch belastet werden», wie es im Ingenieursjargon heisst. Bald zieht er den Pullover aus, das Blut steigt ihm in den Kopf, der Widerstand des Hebels wird immer grösser. Bei 500 Kilonewton ist für den Bruchteil einer Sekunde ein Knacken zu hören. Daraufhin sinkt der Widerstand, die Kurve auf dem Laptop flacht ab. «Wunderschön!», kommentiert Galmarinis Mitarbeiter. «Nun sind wir am Punkt des Fliessens angelangt.» Jetzt offenbart sich das duktile Bruchverhalten, das sich Bauingenieure für ihre Werke wünschen. Kein plötzliches Versagen des Tragwerks, sondern ein langsames, plastisches Verformen der Materialien.
 
-## Aktuelle Ausgabe
-
 Der Doktorand pumpt weiter; das Manometer zeigt bald 300 Bar. Derweil weitet sich ein Riss im Mörtel. Bei 550 Kilonewton knallt es wieder. Diesmal zweimal nacheinander – und noch lauter als beim ersten Riegel. Der Doktorand lässt den Hebel fallen. Der Riss in der Mörtelfuge ist nun mehrere Zentimeter breit und gibt die Sicht auf mit Schutt überzogene Eisenstangen frei. Die enorme Kraft hat zwei der ineinandergreifenden Metallschlaufen gesprengt, die als alternative Verbindung von Riegel und Stütze getestet wurden.
 
 Mit Smartphones und Spiegelreflexkameras dokumentieren die Ingenieure das zerstörte Kreuz, das wie erschlafft im fahlen Licht der Halle liegt. Nochmals werden die beiden Riegel von allen Seiten inspiziert, Betonabplatzungen interpretiert und über das genaue Verhalten im Inneren des Knotens wird spekuliert. Eine Woche später wird ein zweites Kreuz mit zwei weiteren Konstruktionsvarianten getestet. Danach werden die Ingenieure von «WaltGalmarini» zusammen mit Andrea Frangi entscheiden, welche Knotensysteme von Implenia beim Bau der 27 Stockwerke im 80 Meter hohen Holzhochhaus verwendet werden.
 
 «Solche Daten zum Verhalten von Beton, Stahl und Holz in Extremsituationen können wir sonst nur in Regionen sammeln, in denen kürzlich ein Erdbeben oder ein Taifun getobt hat», sagt Galmarini. Er war selbst schon für das Schweizer Korps für Humanitäre Hilfe (SKH) in Erdbebengebieten. Doch selbst dort lasse sich die Dynamik der Materialien und der Konstruktion nicht in Slow Motion verfolgen, wie hier in der Bauhalle. «Das ist für uns wertvoll wie Gold!», sagt der Ingenieur euphorisch und wendet sich wieder der Inspektion der klaffenden Wunde im Beton zu.
 
-## Keine Ausgabe verpassen
+## Aktuelle Ausgabe
 
 Aktuelle Ausgabe als PDF lesen (PDF, 8.2 MB)
 
 Aktuelle Ausgabe online lesen
 
 Alle ​​Ausgaben im Archiv
+
+## Keine Ausgabe verpassen
 
 Abonnieren Sie das Print-Magazin
 

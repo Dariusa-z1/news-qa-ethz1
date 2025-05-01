@@ -2,9 +2,13 @@
 
 **Source:** en_news_events/2016/02/eth-researcher-honoured.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH professor Petra Dittrich uses lab-on-a-chip technology to develop miniaturized analysis systems for application in biology and chemistry. She would like to develop this technology further in her ERC project, utilising it as a basis for the production of simple artificial cells with similar functionalities to living cells. The first step will involve creating standardised cells with a fixed composition from a variety of synthetic components. They will serve as model systems for biological research, for example to closely examine the function of cell membranes. As part of the project, Dittrich is also attempting to develop hybrid cells comprised of natural and synthetic components; these cells could someday be used as biosensors in lab-on-chip analytics, or to produce proteins and other biomolecules.
+
+## Latecomer for Starting Grants
 
 In December of last year, ETH News announced that seven ETH researchers had successfully applied for an ERC Starting Grant. Now, yet another young scientist at ETH Zurich will enjoy EU funding: Martin Vechev is also entitled to an ERC Starting Grant.
 

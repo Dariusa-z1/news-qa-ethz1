@@ -2,23 +2,19 @@
 
 **Source:** en_internal/2021/07/switzerland-non-associated-in-horizon-europe.html
 
+**Date processed:** 2025-05-01
+
 ## Participation in collaborative projects still possible
 
 Important for all ETH researchers: as participants from a non-associated third country, researchers and innovators in Switzerland can continue to apply for calls for collaborative projects in which third countries are eligible to participate. These will not be financed by the European Commission, but funded directly by the State Secretariat for Education, Research and Innovation (SERI). This will be subject to the condition that their project applications are considered as being eligible for funding by the European Commission or its commissioned agency. However, participants from non-associated third countries cannot take on coordination tasks in collaborative projects.
 
-## Participation in individual projects currently not possible
-
 Participation in mono-beneficiary instruments (individual ERC grants, MSCA Postdoctoral Fellowships, MSCA COFUND and the EIC Accelerator) is by principle excluded for researchers from a non-associated third country. However, exceptional rules apply to the 2021 calls of the ERC Starting Grants (StG) and the ERC Consolidator Grants (CoG), which have already been closed or the registration deadline has passed. As the host institution for these projects can be changed during the preparation phase of the Grant Agreement, proposals submitted by Principal Investigators based at a Swiss host institution will be evaluated by the European Commission. SERI will provide national funding for researchers whose proposals for an ERC StG or CoG were positively evaluated. In addition, SERI will prepare proposals for suitable transitional measures for those programme parts that are no longer accessible in view of the Confederation's credit and budget process (notably for ERC Advanced Grants and for the field of quantum and space technologies).
-
-## Interview with Detlef Günther, Vice President for Research at ETH Zurich
 
 More detailed information can be found on the SERI website . There you will find a fact sheet and some FAQs about Swiss participation in Horizon Europe and related programmes and initiatives. These documents are updated regularly.
 
-## Subscribe to Newsletter
+## Interview with Detlef Günther, Vice President for Research at ETH Zurich
 
 Detlef Günther, Vice President for Research at ETH Zurich (Photograph: ETH Zurich/Markus Bertschi)
-
-## Staffnet
 
 Detlef Günther, it is now clear that Switzerland will now be treated as a non-associated third country in the Horizon Europe funding programmes. What does this mean for ETH Zurich? Switzerland’s full association status in the world’s largest research funding programme is of crucial importance to ETH Zurich. Since 2007, ETH researchers have received in excess of 500 million Swiss francs from the European Research Council (ERC) to advance their projects. The fact that we at ETH are excluded from taking part in a large number of these funding programmes is incomprehensible to me. I very much personally regret this development.
 

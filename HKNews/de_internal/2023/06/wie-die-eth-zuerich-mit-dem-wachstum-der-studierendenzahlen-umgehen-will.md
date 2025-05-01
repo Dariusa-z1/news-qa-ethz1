@@ -2,7 +2,9 @@
 
 **Source:** de_internal/2023/06/wie-die-eth-zuerich-mit-dem-wachstum-der-studierendenzahlen-umgehen-will.html
 
-## Taskforce Wachstum Studierendenzahlen
+**Date processed:** 2025-05-01
+
+## Main article
 
 Günther Dissertori, es fehlen Fachkräfte und an der ETH bewerben sich immer mehr Studierende. Warum also ist das Wachstum ein Problem? Günther Dissertori: Die Zahl der Studierenden wächst seit Jahren, und es ist keine Trendwende in Sicht. Gleichzeitig werden die zur Verfügung stehenden Mittel – vor allem für Personal und Infrastruktur – in den künftigen Jahren mindestens stagnieren. Das wirkt sich unter anderem auf das Betreuungsverhältnis aus und gefährdet die Qualität der Lehre.
 
@@ -18,8 +20,6 @@ Wie meinen Sie das? Eine grosse Herausforderung ist es aktuell, die Leistungen d
 
 Das bremst aber noch nicht das Wachstum… Nicht direkt, aber die Methode legt die Grundlage, gezielter auszuwählen. Wir brauchen bei der Zulassung zum Master eine Haltungsänderung, weg von einer Zulassung und hin zu einer Rekrutierung. Die Zulassungsstrategie schlägt vor, dass die Departemente auch Zielgrössen für die Zusammensetzung der Kohorten nach Bildungsherkunft bestimmen, also die Anteile von ETH/EPFL-Bachelors, übrige Schweizer Bachelors, EU/EFTA-Bachelors und den weiteren ausländischen Studierenden. Die Zusammensetzung soll den Zielen der ETH für die Lehre folgen. Das oberste Ziel ist, qualifizierte Fachkräfte für den Arbeitsmarkt in der Schweiz auszubilden. Weiter wollen wir den wissenschaftlichen Nachwuchs fördern und drittens eine gut durchmischte, internationale Studierendenschaft haben.
 
-## Immer aktuell informiert
-
 Eine strengere Selektion bedeutet, dass nicht alle ausländischen Studierenden ihr Wunschstudium an der ETH beginnen können… Das ist schon heute so. Aber selbst wenn das aus Kapazitätsgründen öfter geschehen sollte, bleibt im Gegensatz zu einem starren Numerus Clausus die Möglichkeit, ein Studium in einem anderen Fach zu beginnen.
 
 Lässt sich das Wachstum denn überhaupt brechen? Brechen werden wir es nicht können – und das wollen wir auch gar nicht. Nochmals: Wir brauchen die Fachkräfte. Mit einer strengeren Selektion können wir aber das Tempo des Wachstums drosseln.
@@ -31,6 +31,8 @@ Zielt die Strategie nur auf das Masterstudium? Nein, wir diskutieren auch beim B
 Wie fielen die Reaktionen aus den Departementen aus? Wir haben diese Massnahmen in einer breit abgestützten Taskforce und zusätzlich an einem grossen Lehrretreat zu Beginn des Jahres entwickelt und besprochen und viel Zustimmung erfahren. An dem Retreat haben unter anderen die Studiendirektorinnen und Studiendirektoren aus allen Departementen sowie je eine Delegation der Studierenden und Doktorierenden teilgenommen. Wichtig: Wir sprechen von einer Strategie mit Grundsätzen und nicht von einem Reglement. Es ist "work in progress" und bei der Umsetzung haben die Departemente Handlungsspielraum.
 
 Was kommt mit der Strategie auf die Departemente zu? Sie werden als Erstes Kapazitätsgrenzen definieren müssen, hauptsächlich basierend auf personellen Ressourcen, insbesondere bei den Assistierenden. Dort ist die grösste Last. Daneben werden auch Räume oder Laborplätze eine Rolle spielen. Ich erwarte von den Departementen, dass ihre Zulassungskommissionen die Mittel, die wir nun definieren, nutzen.
+
+## Taskforce Wachstum Studierendenzahlen
 
 Eine von Rektor Günther Dissertori eingesetzte Taskforce untersucht, wie die ETH mit dem Wachstum der Studierendenzahlen umgehen kann, sodass die Qualität der Lehre nicht leidet. Ein erstes Resultat der Taskforce ist die neue Strategie für die Zulassung , welche im Januar 2023 an einem grossen Lehrretreat besprochen und von der Schulleitung verabschiedet worden ist (Schulleitungssitzung vom 7. März). Darüber hinaus arbeitet die Taskforce an Prognosen der Studierendenzahlen, an einer Vision der Lehre für 2040 und an einem Impact-Assessment für die Lehre.
 

@@ -2,59 +2,45 @@
 
 **Source:** en_internal/2018/09/the-executive-board-reports-4.html
 
-## Developing online communication
+**Date processed:** 2025-05-01
 
-- The “Young Talent” category will recognise the best projects from apprentices and secondary school students up to the age of 20. Nominations for this category are carried out in cooperation with “Schweizer Jugend forscht” and “Young Enterprise Switzerland”, which promotes potential entrepreneurs in secondary schools.
-
-- The “Students” category is aimed at Bachelor and Master’s students up to the age of 25 at Swiss universities and universities of applied sciences.
+## Main article
 
 Each department has appointed a delegate for good scientific practice (GSP), each of whom also becomes a member of ETH Zurich’s new university-wide GSP Commission established in March 2018 (see The Executive Board reports 2018/1 ). With the inclusion of the two trusted intermediaries for integrity in research and the GSP Commission, the Executive Board has now determined the competencies of the GSP delegates.
 
-## Childcare on a new footing
+## Developing online communication
 
 The GSP delegates handle the strategic questions of good scientific practice and integrity in research, and ensure that these issues are visible and applied in their departments. The trusted intermediaries, on the other hand, are responsible for operational handling of specific disputes. The Executive Board has approved the corresponding function description of the GSP delegates.
 
-## Restart for the ICT Commission
-
 ETH Zurich’s communication channels, from the website and mobile apps to social media, will undergo further development in incremental steps. The goal is to steadily adapt all digital communication channels to new requirements, technologies and trends in order to catch up with the best universities in the world in this area and to keep pace in the medium term. Here, the ETH Zurich Executive Board made it known that it did not want to see a repeat of the kind of large-scale web projects that had proved problematic in the past.
 
-## New Teaching Commission members
+## Childcare on a new footing
 
 For the new online communications roadmap, the IT Services and Corporate Communications web teams will get a slight boost in personnel, with the budget for external project support also increased. These additional expenses, totalling CHF 4.5 million over the next five years, will avoid the need for the university to launch a new major project to revise the ETH website from 2020. By comparison, the last web relaunch (2011 to 2017) cost CHF 8.7 million.
 
-## New workshop concept
-
 For ETH Zurich, combining family and career is an important issue. Thus, childcare that complements family life is a key factor. ETH Zurich offers most of its nursery places in cooperation with the kihz Foundation , which is jointly supported by the University of Zurich. The cooperation agreement of 2002 between the ETH, the university and the foundation is now undergoing revision, and both supporting organisations will sign the amended agreement.
-
-## ETH Zurich’s Alfred Escher Prize
 
 The kihz Foundation offers a wide range of childcare centres with permanent places, flexible childcare ( kihz flex ), individual homecare services ( kihz mobil ) and holiday supervision . ETH Zurich spends around CHF 1.6 million per year in support of the various childcare services.
 
-## Foundation for the operations at AgroVet-Strickhof
+## Restart for the ICT Commission
 
 The ICT Commission is embedded in the organisational regulation of ETH Zurich; now it is being relaunched as a modern IT governance committee for all IT issues at ETH Zurich. The Executive Board has approved the revised regulations for the commission. The ICT Commission will be tasked with co-development and maintenance of the IT strategy, and supervision of its implementation. It will additionally support the services and strategic IT projects of the IT Services department. The Commission will be headed by the Vice President Human Resources and Infrastructure. Four professorial members will be nominated by the heads of academic departments, while the Vice President Human Resources and Infrastructure will propose a head of administrative department for the central bodies and three external members. The head of IT Services is a permanent member of the Commission. The nominating body is the Executive Board.
 
-## Consultation proceedings on salary structures for postdocs
-
 The Executive Board has appointed Prof. Ulrike Grossner as the new representative of D-ITET and Prof. Guillaume Habert as the new representative of D-BAUG to the Teaching Commission. Grossner succeeds Prof. Vanessa Wood, who has been appointed head of department, while Habert will succeed Professor Martin Raubal, who will become the department’s Head of Studies. The Teaching Commission is an advisory body to the Executive Board. It is responsible for ‘Teaching and Learning’ innovation management as part of ETH Zurich’s university development. The Chair is Prof. Andreas Vaterlaus, Vice-Rector for Curriculum Development.
-
-## A framework for ETH competence centres
 
 The new ETH Zurich workshop concept fared well in the consultation proceedings in spring 2018. In particular, the formation of a technology platform for all 33 ETH workshops met with widespread approval. This platform is divided into standard technology with generally accessible, modern standard machinery for which the providing department has priority use, and a specialist technology area, which will soon have a new tool to improve capacity in the future. In the medium term, existing professorial and institute workshops will be transferred to departmental workshops.
 
-## Further Executive Board resolutions in brief
+## ETH Zurich’s Alfred Escher Prize
 
 The Services department has established a new section for workshops. The first task will be to develop a detailed process with administrative and other departments by the end of the year. From this will come a business plan with finance planning, procurement strategy and process documentation. Starting in 2019, the first technology areas will be integrated into the platform step by step, with parts of the Physics workshop functioning as a pilot. The new workshop management tool is set to begin operations in 2020.
 
-## Regular updates from the Executive Board
+## Foundation for the operations at AgroVet-Strickhof
 
 The 200th anniversary of the birth of Zurich entrepreneur, founder and politician Alfred Escher – who also had a major part in the founding of ETH – falls on 20 February 2019. To mark the anniversary, ETH Zurich has launched a new prize mit dem Innovationen von jungen Menschen aus der ganzen Schweiz ausgezeichnet werden sollen. Beurteilt werden die Projekte der «Eschers von morgen» in zwei Kategorien:
 
-## Subscribe to Newsletter
-
+• The “Young Talent” category will recognise the best projects from apprentices and secondary school students up to the age of 20. Nominations for this category are carried out in cooperation with “Schweizer Jugend forscht” and “Young Enterprise Switzerland”, which promotes potential entrepreneurs in secondary schools.
+• The “Students” category is aimed at Bachelor and Master’s students up to the age of 25 at Swiss universities and universities of applied sciences.
 The deadline for project entries is 19 November. The winner will be chosen in February 2019 by a jury led by Detlef Günther, Vice President Research and Corporate Relations. The jury is looking for innovative, bold and relevant projects that are socially oriented, well thought out and compellingly presented, and which relate to natural sciences and technology.
-
-## Staffnet
 
 The Executive Board has approved a cooperation agreement with the Canton of Zurich and the University of Zurich, as well as the new procedural rules for operations at the new joint research and teaching infrastructure AgroVet-Strickhof. AgroVet-Strickhof encompasses sites at Lindau, Früebüel/Walchwil, Alp Weissenstein and Winterthur-Wülflingen. The new Lindau site opened on 1 September 2017 . The cooperation agreement provides the framework for collaboration between the three partners, while the procedural rules determine the operational implementation of these rules, including the division of costs and the management structure.
 
@@ -63,6 +49,8 @@ From 1 July 2019, postdocs throughout ETH will be subject to the same employment
 ETH Zurich currently operates eight competence centres to combine existing competencies around current, scientifically relevant issues, and to promote interdisciplinary exchange. They cover a broad spectrum ranging from the Plant Science Center and Energy Science Center to the World Food System Center and the Center for Materials and Processes, and were recently joined by the Citizen Science Center, a joint venture with the University of Zurich launched in 2017. The Executive Board has now revised the framework conditions for all competence centres. This states that the Executive Board’s start-up financing will be applied for a maximum of eight years and will generally amount to a maximum of CHF 200,000 per year. The participating professors should also make a small annual contribution (at least CHF 1,000) in order to broaden the financial base and encourage commitment. The “ETH Competence Centre” label can be retained after the eight-year period provided financing is sustainably secured; e.g. membership fees, departmental contributions or external funding. The new ETH guidelines for competence centres will apply from 1 October 2018.
 
 +++ The Swiss Seismological Service and the Department of Earth Sciences will receive a new triaxial press, “LabQuake”. This was optimised specifically for issues at the intersection of seismology and rock physics, and cost CHF 970,000. +++ +++ The Executive Board also approved the procurement of an electron beam microprobe for the Institute of Geochemistry and Petrology at a cost of CHF 1.2 million. This replacement procurement represents an update to a key element of the Department of Earth Sciences’ infrastructure. +++ +++ The ETH Zurich Collections and Archives Committee has appointed Susann Görlinger and Alexander Wäber as representatives of the Vice President Human Resources and Infrastructure. This consulting committee covers issues around preservation, safeguarding and communication of items of cultural and historic value, with existing members Linda Schädler (Art in Construction Commission), Oliver Yves Martin (natural sciences collections), Gregor Spuhler (History Archive) and Stefan Wiederkehr (ETH Library) reconfirmed by the Executive Board. +++
+
+## Regular updates from the Executive Board
 
 The ETH Zurich Executive Board meets every two weeks for its usual session. Brief summaries of the major decisions passed during these meetings can be found in this section. It appears every four to six weeks. This edition contains the key decisions from the Executive Board meetings of 3 July, 23 August and 4 September 2018.
 

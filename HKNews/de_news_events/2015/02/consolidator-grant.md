@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2015/02/consolidator-grant.html
 
-## Main article
+**Date processed:** 2025-05-01
+
+## Überbrückung wegen Teilausschluss
 
 Die ETH-Forscher André Studart und Jonathan Home haben je einen SNFS Consolidator Grant des Schweizerischen Nationalfonds erhalten. Die Projekte haben eine Laufzeit von fünf Jahren und sind mit bis zu zwei Millionen Franken dotiert.
 

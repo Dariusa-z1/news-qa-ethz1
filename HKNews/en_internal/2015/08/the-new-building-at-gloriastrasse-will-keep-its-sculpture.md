@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2015/08/the-new-building-at-gloriastrasse-will-keep-its-sculpture.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH Zurich is constructing the new GLC building for medical technology research and applications on Gloriastrasse. The building will include spaces for the Department of Health Science and Technology ( D-HEST ) and the Department of Information Technology and Electrical Engineering ( D-ITET ), which can also be used for collaborative projects with industry, hospitals and the University of Zurich.

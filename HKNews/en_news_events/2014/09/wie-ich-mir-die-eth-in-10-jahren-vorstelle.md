@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2014/09/wie-ich-mir-die-eth-in-10-jahren-vorstelle.html
 
-## Essay: ETH Zurich in 10 years’ time?
+**Date processed:** 2025-05-01
+
+## Main article
 
 Over the course of a year, I have had the chance to get to know ETH Zurich in a way that the average student never would. I’ve been annoyed at the complicated manner in which responsibilities are allocated and delighted to see how well many staff are doing their jobs, and I’ve sat on the sofa in the ETH President’s office and unravelled students’ problems which I could never have conceived of, even in my wildest dreams.
 
@@ -12,11 +14,11 @@ In 2024, new students will get to know ETH Zurich and their fellow students in a
 
 The range of lectures and tutorials on offer will have been supplemented with discussion sessions, online courses and tutorials, collections of resources and independent project work. There will also be various opportunities for further development alongside studies. This will help to ensure that students graduate from ETH Zurich not only as experts in their chosen field, but also as people who know how they want to use their skills in their future career and in society.
 
-## 
-
 Life on campus will have changed. With the addition of student residences, the Hönggerberg campus will have transformed from a place exclusively for working and learning into a complete living space. Instead of heading out of the laboratory and straight to the bus stop, people will linger a little longer in the bar in the new student centre, watch a film in the same building or meet friends at one of the electric barbeque areas dotted about the campus. The atmosphere on a warm summer’s evening will be like being by Lake Zurich.
 
 These facilities will add emotional value to the years students spend at ETH. Their fellow students will be like family, and they will get to know their professors not just as teachers lecturing in front of a class, but also as equal partners in discussion sessions. At the end of their studies at ETH, students will enjoy a wonderful graduation ceremony that will bring a fitting end to this formative period of their lives and put the finishing touch on their time as students.
+
+## Essay: ETH Zurich in 10 years’ time?
 
 Do you have an idea of how the university will develop over the next decade?
 

@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2016/03/zwei-gastvorlesungen-ueber-wasser-und-str%C3%B6mung.html
 
+**Date processed:** 2025-05-01
+
 ## Wasser modellieren
 
 Am 7. März 2016 präsentiert Wolfgang Schröder, Professor an der RWTH Aachen University, eine kartesische Cut-Cell-Methode für interagierende viskose Strömungen mit freischwebenden Begrenzungen. Die Methode ermöglicht eine präzise Auflösung der eingebetteten Begrenzungen, wobei Masse, Momentum und Energie strikte beibehalten werden.
@@ -10,15 +12,11 @@ Die Effizienz und Genauigkeit dieser neuartigen Methode wird für verschiedene d
 
 Am 21. March 2016 referiert David Quéré, Professor am ESPCI ParisTech und der École polytechnique Paris, zum Thema Wasser. Wasser und – etwas allgemeiner – Flüssigkeiten, sind formlos. Die Kombination von Oberflächenspannung und externen Einflüssen, wie beispielsweise Schocks, Zentrifugationen etc. erlaubt es jedoch, Wasser zu modellieren und damit spezifische Wirkungen zu erzielen.
 
-## Staffnet
-
 David Quéré wird in seiner Vorlesung insbesondere erläutern, wie sich wasserabstossende Materialien für derartige Zwecke nutzen lassen und welche Funktionen «Skulpturen» übernehmen können. Er wird diese Diskussion mit verschiedenen spektakulären Anwendungen aus der Natur illustrieren.
 
 (Darstellung: RWTH Aachen / Wolfgang Schröder)
 
 Auf der Cut-Cell-Methode basierende Analyse freischwebender Partikel in viskosen Strömungen
-
-## Newsletter abonnieren
 
 Prof. Wolfgang Schröder , RWTH Aachen University, Aerodynamisches Institut
 

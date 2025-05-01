@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2022/03/the-west-should-quickly-tighten-the-sanctions.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH News: Professor Ambühl, the war in Ukraine has been raging for more than three weeks now. What is your assessment of this situation? Michael Ambühl: The resistance of the Ukrainian people is impressive and deserves the utmost respect. The president, the people and the army have managed to achieve the unimaginable: stymieing Putin’s military machinery and thwarting his visions of a blitzkrieg.
@@ -35,6 +37,8 @@ Could that work? A similar “snapback” clause was incorporated in the 2015 tr
 Wouldn’t a diplomatic solution also have to take the security interests of all countries in the region into account? Absolutely. We need a new security architecture for Eastern Europe, which would have to be defined at a security conference. This would involve particularly guarantees for the current NATO and EU countries that were formerly part of the Soviet Union or the Warsaw Pact. As a first step in this direction, an effort could be made to draw up a joint memorandum of understanding and convene a corresponding conference as soon as possible.
 
 All these suggestions would require a minimum level of trust in Russia’s loyalty to any agreement, but wasn’t this destroyed with its attack on Ukraine? The man in the Kremlin definitely can’t be trusted. This makes it that much more important that any treaty is not based on trust, but is designed in such a way that it is in the parties’ own interests to comply. Only then will they do so.
+
+## About
 
 Michael Ambühl is a Professor Emeritus of Negotiation and Conflict Management at ETH Zurich.
 

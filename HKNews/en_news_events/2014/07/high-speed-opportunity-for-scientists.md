@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2014/07/high-speed-opportunity-for-scientists.html
 
+**Date processed:** 2025-05-01
+
 ## Qualifying event in the Miller’s Studio
 
 Just three minutes in which to present your project to a high-calibre jury: that's what makes the Falling Walls Lab an even bigger challenge than the now familiar Science Slams. Nevertheless, in essence the format is the same – it's a science competition – but in the Falling Walls Lab the participants have to manage with less than a third of the amount of time: "In most slams, participants have at least ten minutes to make their presentation," explains Naveed Syed from the Falling Walls Lab Berlin. And there's another rule that might bring the participants out in a sweat: they are only allowed three PowerPoint slides for their presentation.
@@ -10,9 +12,9 @@ Just three minutes in which to present your project to a high-calibre jury: that
 
 Anyone wishing to introduce their innovative research project, business model or initiative at the event can apply : Falling Walls Lab Zurich, the Swiss preliminary round for Falling Walls Lab Berlin, will take place on 23 September 2014 in the Miller’s Studio in Zurich-Tiefenbrunnen. The closing date for applications is 12 September.
 
-## Winner goes to Berlin
-
 The Falling Walls Lab is open to Master's students, doctoral students, post-docs, young professionals and young entrepreneurs up to the age of 35 and from any discipline. The qualifying round for participants from Switzerland and southern Germany is organised by ETH Zurich in cooperation with Life Sciences Zurich.
+
+## Winner goes to Berlin
 
 Whoever wins first place in Zurich will be invited to the final in Berlin on 8 November. A total of a hundred people will be selected from the preliminary rounds in various countries, and they will present their ideas to a high-calibre jury from the scientific and business communities at the Falling Walls Lab in Berlin. Presentations are given in English.
 

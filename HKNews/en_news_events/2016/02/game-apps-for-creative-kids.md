@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2016/02/game-apps-for-creative-kids.html
 
+**Date processed:** 2025-05-01
+
 ## Real-time animation from children’s drawings
 
 With games on their smartphones and YouTube movies on their tablets, children learn about the possibilities of mobile devices early on. In this environment, traditional toys, colouring books and crayons may seem out dated. That’s why the nursery is opening up to the digital world, too, and finding a new lease of life through apps. ETH Zurich’s Game Technology Center will present examples of this kind of augmented reality at CeBIT , the world’s largest computer expo, which runs from 14 to 18 March in Hanover.
@@ -20,11 +22,11 @@ The interactive colouring book is one of a total of six augmented creativity app
 
 In principle, augmented creativity can be applied to any kind of space, whether a book, a room or an entire city. In their paper, the researchers also present an app that gamefies public spaces. The basic principle is similar to that of the colouring book: when a pre-defined building is filmed with a smartphone or tablet, virtual objects such as illuminated panels or number puzzles appear on its facade, via the device’s screen. Players collect points by solving these tasks, turning a walk around town into a game, and the player into its hero.
 
-## ETH Zurich at CeBIT 2016
-
 For now, the apps created by Sumner’s team are just prototypes, in order to experience augmented creativity and to test out its potential applications. They are not available in app stores and the team is not focusing on their commercialisation. Nevertheless, Sumner is convinced the concept has great potential – not just for children, but for adults too. Indeed, virtual reality (VR) and augmented reality could soon become part of our everyday lives: The first commercial glasses capable of blending virtual content with real-life surroundings should be available soon. Microsoft will bring its Hololens on to the market this year, and Magic Leap, a Google-financed start-up, is aiming to do the same.
 
 Things are also happening in Switzerland: VR start-up Mindmap recently acquired $100 million in venture capital, and Artanim presented its VR technology at this year’s Sundance festival in Utah. Whether this integration of the virtual into our everyday lives catches on depends not just on the hardware, but also on whether augmented reality apps capture the public’s imagination. For those looking for an early glimpse, the Game Technology Center’s stand at this year’s CeBIT is open to all.
+
+## ETH Zurich at CeBIT 2016
 
 CeBIT, the trade fair for digitization in business, education, and society, will open its doors on 14 March 2016 in Hannover. This year, Switzerland is the Partner Country of CeBIT 2016. ETH Zurich will present the breadth of its research and education in the fields of robotics, digital fabrication, and game technology.
 

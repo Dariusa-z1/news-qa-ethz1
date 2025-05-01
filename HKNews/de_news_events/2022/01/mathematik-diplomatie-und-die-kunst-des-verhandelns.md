@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2022/01/mathematik-diplomatie-und-die-kunst-des-verhandelns.html
 
+**Date processed:** 2025-05-01
+
 ## Die Geheimwaffe
 
 Zwei Institutionen haben das Leben von Michael Ambühl geprägt: Die ETH Zürich und das Eidgenössischen Departement für auswärtige Angelegenheiten (EDA). An der ETH verbringt er insgesamt 14 Jahre als Student und Doktorand der angewandten Mathematik sowie als Professor für Verhandlungsführung. Im diplomatischen Dienst der Schweiz sind es gar 31 Jahre, davon 9 Jahre als Staatssekretär, der höchsten Position in der Bundesverwaltung.
@@ -10,15 +12,13 @@ Wer den gebürtigen Berner, der Ende Januar emeritiert wird, verstehen will, kom
 
 Die Liste der Verhandlungen, an denen Michael Ambühl beteiligt ist, liest sich wie eine Chronologie der Schweizer Aussenpolitik: Bilaterale I, Bilaterale II, Fazilitation der Verhandlungen über das iranische Atomprogramm, Mediation zwischen Armenien und der Türkei, Steuerstreit zwischen den USA und der Schweiz. Die Aufzählung liesse sich noch weiter fortsetzen.
 
-## Verhandlungsengineering
-
 Es gibt in der Schweiz wohl niemanden, der so viel diplomatische Verhandlungserfahrung hat wie Ambühl. «Wunderwaffe», «Trumpfkarte», «Joker» oder gar «Usain Bolt der Aussenpolitik» sind einige der Superlative, zu welchen sich Schweizer Medien über die Jahre hinweg hinreissen liessen.
 
 «Das ist alles Unsinn», kommentiert Ambühl diesen Lobgesang. Patentrezepte für erfolgreiche Verhandlungen gebe es nicht, aber eine durch Erfahrung und Theorie fundierte Methode sehr wohl. Ausserdem sei auch eine Portion Glück notwendig, um komplexe Verhandlungen erfolgreich abzuschliessen.
 
-Ambühl zückt ein Blatt Papier und skizziert einen Entscheidungsbaum. In das oberste Kästchen schreibt er Brexit. «Erst wenn wir ein schwer überschaubares Problem wie den Austritt Grossbritanniens aus der EU in seine essenziellsten Bestandteile zerlegen, werden Lösungen sichtbar». Hier spricht der Systematiker aus Ambühl. Verhandlungen sind für ihn eine Frage des richtigen Engineerings.
+## Verhandlungsengineering
 
-## Empathie und sprachliche Finesse
+Ambühl zückt ein Blatt Papier und skizziert einen Entscheidungsbaum. In das oberste Kästchen schreibt er Brexit. «Erst wenn wir ein schwer überschaubares Problem wie den Austritt Grossbritanniens aus der EU in seine essenziellsten Bestandteile zerlegen, werden Lösungen sichtbar». Hier spricht der Systematiker aus Ambühl. Verhandlungen sind für ihn eine Frage des richtigen Engineerings.
 
 «Ein Verhandlungsproblem gut zu strukturieren, ist bereits die halbe Miete.» Im Falle des Brexits führt diese Methode schnell zur Frage, wie die Zuwanderung im beidseitigen Interesse geregelt werden kann. Um die oftmals diffusen Verhandlungspositionen klar zu formulieren, bedient sich Ambühl gerne mathematischer Formeln wie dieser: Übermässige Einwanderung = Mittelwert aller EU/EFTA-Länder + zweifache Standardabweichung, die mit einigen länderspezifischen Koeffizienten multipliziert wird.
 
@@ -26,7 +26,7 @@ Auf diese Weise wird ein emotionales Thema auf objektiv ermittelbare Werte herun
 
 Ambühl ist sich der Grenzen dieser Methode sehr wohl bewusst. «Wenn es zwischen Akteurinnen und Akteuren grosse politische Differenzen oder Wertekonflikte gibt, helfen auch die elegantesten Formeln nichts.» Zudem scheitert die Anwendung formaler Methoden oft daran, dass sich die Verhandlungsparteien nicht darauf einigen können, was die wichtigsten Probleme sind. Lassen sich AkteurInnen aber auf den formalen Ansatz ein, kann dieser zu überraschenden Lösungen führen. So geschehen zum Beispiel beim Landverkehrsabkommen zwischen der Schweiz und der EU, das Ambühl als einen grossen Verhandlungserfolg bezeichnet.
 
-## Von der Praxis zur Theorie
+## Empathie und sprachliche Finesse
 
 Doch Verhandlungen lassen sich nicht ausschliesslich auf kühle Arithmetik reduzieren. Es benötigt auch eine gehörige Portion Empathie: «Ein guter Verhandler braucht Verständnis für sein Gegenüber und muss sich in die andere Seite hineindenken können.» Nur wer diesen Riecher hat, kann die Schmerzgrenze des Gegenspielers erahnen.
 
@@ -34,15 +34,13 @@ Zudem gilt es, Differenzen auf konziliante Art zu umschreiben. «Die Kunst ist, 
 
 Doch ist dieser einmal erzielt, gibt es selten Anlass für Triumphgefühle. Ambühl nennt dies das Paradox des Verhandlers: «Man ist froh über den Abschluss, fragt sich aber sofort, ob man zu konziliant war». Letztlich wisse man nie genau, was der Verhandlungspartner bereit zu geben gewesen wäre. Jede Verhandlung findet hinter diesem Schleier der Ungewissheit statt.
 
-## Dialog zwischen Wissenschaft und Politik
-
 Als Michael Ambühl 2013 an die ETH berufen wird, konzentriert er sich zunächst auf die Lehre. Sein Kurs Einführung ins Verhandlungsengineering findet rasch Zulauf aus anderen Departementen. Im Frühjahrssemester 2021 besuchen 650 Studierende die Vorlesung, eine der grössten an der ETH Zürich.
 
 Weitere Akzente setzt Ambühl vor allem im Dialog zwischen Wissenschaft und Politik. 2015 organisiert er erstmals einen Ausbildungskurs für neue Schweizer Parlamentarierinnen und Parlamentarier, an dem neben ETH-Forschenden auch Professorinnen und Professoren andere Schweizer Hochschulen mitwirken.
 
-Seit 2016 ist er ausserdem der Direktor der neu gegründeten Swiss School of Public Governance an der ETH. Diese richtet sich an Führungskräfte in der öffentlichen Verwaltung und bietet Weiterbildungsprogramme zur guten Regierungsführung an. Durch sein Netzwerk schafft es der ehemalige Staatssekretär immer wieder, hochkarätige Vortragende wie die beiden Alt Bundesräte Micheline Calmy-Rey und Pascal Couchepin oder den aktuellen Schweizer Bundeskanzler Walter Thurnherr an die ETH zu holen.
+## Dialog zwischen Wissenschaft und Politik
 
-## Alles Leben ist Problemlösen
+Seit 2016 ist er ausserdem der Direktor der neu gegründeten Swiss School of Public Governance an der ETH. Diese richtet sich an Führungskräfte in der öffentlichen Verwaltung und bietet Weiterbildungsprogramme zur guten Regierungsführung an. Durch sein Netzwerk schafft es der ehemalige Staatssekretär immer wieder, hochkarätige Vortragende wie die beiden Alt Bundesräte Micheline Calmy-Rey und Pascal Couchepin oder den aktuellen Schweizer Bundeskanzler Walter Thurnherr an die ETH zu holen.
 
 2021 ist Ambühl massgeblich an der Gründung des von der ETH Zürich und der Universität Genf gemeinsam getragenen Labors für Wissenschaft in der Diplomatie in Genf beteiligt. «Das Labor», so der ETH-Professor, «soll wissenschaftliche Erkenntnisse und Methoden für die diplomatische Lösung internationaler Konflikte bereitstellen.»
 
@@ -50,9 +48,9 @@ Besonders erfreut ist Ambühl ausserdem über die Rolle, die seine Mitarbeiterin
 
 Als philosophisch interessierter Laie orientiert sich Ambühl an Karl Poppers berühmten Diktum, alles Leben sei Problemlösen. Ganz im Sinne eines Ingenieurs, reicht es ihm nicht, Probleme nur zu beschreiben, er will auch dazu beitragen, sie zu lösen.
 
-## Einfluss auf die europapolitische Debatte
-
 Unter seinen Mitarbeitenden am Lehrstuhl für Verhandlungsführung gilt Ambühl als engagiert und integrativ. «Er motiviert, bindet uns stark ein und will wissen, was wir zu aktuellen Fragen denken», erklärt die Physikerin Daniela Scherer, die bei Ambühl doktoriert hat und nun gemeinsam mit ihm forscht. Sie sieht in ihm den klassischen republikanischen Staatsdiener, dem es nicht um Politik, sondern um die Res Publica, die öffentliche Sache, geht.
+
+## Einfluss auf die europapolitische Debatte
 
 Ambühl scheut sich nicht, zu konkreten politischen Fragen Stellung zu nehmen. So zum Beispiel auch bei den Diskussionen zu den Beziehungen zwischen der Schweiz und der EU. Dabei gehe es ihm vor allem darum, die Debatte aus wissenschaftlicher Sicht zu bereichern. «Ich will der Politik wissenschaftlich fundierte Entscheidungsgrundlagen liefern und keine politische Person sein», betont der ETH-Professor, der mit Medienauftritten sehr zurückhaltend ist.
 

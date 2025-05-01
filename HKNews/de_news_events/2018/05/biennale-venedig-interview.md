@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2018/05/biennale-venedig-interview.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Kurz nach der Veröffentlichung dieses Artikels erhielt der Schweizer Pavillon zum ersten Mal den Goldenen Löwen. Weitere Informationen finden Sie im Artikel « Biennale 2018: Beitrag der ETH gewinnt goldenen Löwen ».
@@ -19,6 +21,8 @@ Mit eurem Konzept habt Ihr euch im Wettbewerb der Pro Helvetia gegen mehr als 80
 Welche war für euch die grösste Herausforderung? Van der Ploeg : Die tickende Zeit. Das vergangene Jahr war ein einziger Wettlauf gegen die Uhr. Aber wir haben uns sehr effizient organisiert und gut abgesprochen. Da wir zum ersten Mal ein Projekt dieses Umfangs realisierten, machten wir eine extrem steile Lernkurve. Bosshard : Für mich bestand die grösste Herausforderung darin, alle Fäden zusammenzuhalten. Aber ich denke, es ist uns wirklich gut gelungen, auch dank der Unterstützung von unserem Professor Alex Lehnerer, der das Team immer ermutigt hat, und vom ganzen Departement. Das war wirklich grossartig.
 
 Inside ‘Svizzera 240: House tour ’ (© Bilder 1-3: Christian Beutler / Keystone ; Bild 4: Wilson Wootton)
+
+## Weitere ETH-Projekte an der Biennale Venedig 2018
 
 Nicht nur im Schweizer, sondern auch im Japanischen Länderpavillon steckt viel ETH: Die Ausstellung externe Seite «Architectural ethnography» wird von Momoyo Kaijima, Professorin für Architectural Behaviorology, und Laurent Stalder, Professor für Architekturtheorie, kuratiert. Zu den Ausstellern gehört unter anderem Tom Emerson, Professor für Architektur und Konstruktion.
 

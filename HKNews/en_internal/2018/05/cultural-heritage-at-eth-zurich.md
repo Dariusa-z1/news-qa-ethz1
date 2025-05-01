@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2018/05/cultural-heritage-at-eth-zurich.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 On 3 June 2018, ETH Zurich offers you the opportunity to experience its cultural heritage: during workshops, tours, talks and much more. ETH Zurich’s archives and institutes will be showing how today’s top-flight research creates the cultural heritage of tomorrow. The programme offers you an overview of the diverse events.

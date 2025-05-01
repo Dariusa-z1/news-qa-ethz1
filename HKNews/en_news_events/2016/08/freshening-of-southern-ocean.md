@@ -2,37 +2,29 @@
 
 **Source:** en_news_events/2016/08/freshening-of-southern-ocean.html
 
+**Date processed:** 2025-05-01
+
 ## The drifting Antarctic sea ice
 
 Long-term measurements of the salinity in the Southern Ocean have revealed a strong freshening signal over the past decades. In fact, these salinity changes are among the most pronounced in the global ocean. To date, the source of these changes has remained a conundrum.
 
 A newly published study in the scientific journal ‘Nature’ by researchers from ETH Zurich, the GEOMAR Helmholtz Centre for Ocean Research Kiel and the University of Hamburg now describes a possible reason for this freshening of the Southern Ocean waters.
 
-## Meltwater freshens Antarctic Intermediate Water
-
 In their study, the scientists describe for the first time that the sea-ice conveyor belt around Antarctica has strengthened substantially, and that the associated freshwater fluxes to the open Southern Ocean can explain the Southern Ocean salinity distribution and its recent changes. This conveyor belt consists of the formation of sea ice along the Antarctic coast, thereby fixing water in ice, the northward transport of this frozen water, and the subsequent release of this water upon melting at the sea-ice edge.
 
 It may seem paradoxical, but while the sea ice in the Arctic is rapidly shrinking, the sea ice surrounding the Antarctic continent is actually expanding, despite global warming. Satellite observations show that the maximum ice cover in the Southern Ocean now extends further north than it did 30 years ago. This expansion is mainly due to a stronger transport of sea ice that has pushed the sea-ice edge further to the north. The new study unveils the substantial consequences for the ocean’s salinity: Antarctic sea ice forms and melts every year. At the time of its maximum extent, it covers an area of 18 million square kilometres – roughly the combined land area of the USA and Canada. During the freezing process, the salt in the sea water is rejected, thereby increasing the salinity of the remaining sea water. When the ice melts, the fresh water is released back into the ocean, thus freshening it. The ice mostly forms close to the coast of Antarctica. Strong winds and ocean currents then drive the sea ice more than 1,000 km northwards across the open sea. The northernmost edge of the sea ice is located roughly at 60 degrees south. This is where the ice starts to melt in the spring, releasing freshwater into the ocean.
-
-## Continuous rise in freshwater input
 
 The cold meltwater that enters the sea water cools and freshens the ocean surface. Driven by the winds and other factors, this modified water mass then sinks below the warmer surface waters to form what is known as the Antarctic Intermediate Water, which has a comparatively low salinity. At depths of about 600 to 1,500 metres, this water spreads as a tongue to the north with its tip stretching as far as the Equator, and in the eastern Atlantic even as far as the coast of the Iberian peninsula.
 
 “Our research demonstrates that the low salinity of the Antarctic Intermediate Water can be mostly explained by the freshwater released from the sea ice," says Dr Matthias Münnich, who is lecturer in physical oceanography at ETH Zurich and has been deeply involved in the study.
 
-## Impact on global climate
-
 “The amount of freshwater released from the sea ice into the open ocean surface waters and the Antarctic Intermediate Water has increased significantly in past decades. For the first time, we have been able to quantify these changes, which are presumably caused by stronger southerly winds during this period,” says the lead author of the study, Alex Haumann, a doctoral student in the Environmental Physics group and the Center for Climate Systems Modeling at ETH Zurich.
 
 According to their calculations, Alex Haumann and his colleagues estimated that the transport of freshwater by the sea ice has increased by up to 20 percent over the period 1982 to 2008. This would have caused a freshening of the sea water in the melt zone by as much as 0.02 grams per kilogramme of sea water per decade. “This figure is compatible with long-term records,” says Nicolas Gruber, Professor of Environmental Physics at ETH Zurich and Alex Haumann’s Ph.D. advisor.
 
-## Swiss polar exploration
-
 “Research conducted over many years has shown that the Antarctic Intermediate Water has been freshening strongly,” he explains. Scientists had assumed, however, that this phenomenon was due to the increased rainfall over the Southern Ocean. “But the changes in rainfall reconstructed in the weather and climate models are far too small to be able to explain the observed freshening.” The ETH professor is therefore confident: “It must be the increased northward transport of freshwater by the sea ice that is largely responsible for this change.”
 
 Melting sea ice at the ice edge in the Ross Sea.
-
-## Reference
 
 The sea ice affects not only the salinity of the sea water, but also its stratification. Water with a low salinity is lighter than more salty waters, and therefore floats at the surface. So if the surface water becomes fresher and thus lighter, it is more difficult for the saltier and heavier deep water to rise to the surface. This makes the vertical stratification of the water masses more stable. In turn, the stratification determines how the different water masses interact with each other and with the atmosphere to take up greenhouse gases, such as carbon dioxide, and heat. “A more stable stratification could theoretically lead to a stronger uptake of carbon dioxide by the Southern Ocean, because less deep water that is rich in CO₂ rises to the surface, where it releases carbon dioxide to the atmosphere,” Professor Gruber explains. In the case of heat, the reverse situation would apply: a more stable ocean would actually absorb less heat.
 
@@ -44,7 +36,11 @@ It is not clear yet whether the southerly winds have strengthened due to anthrop
 
 So far, the Southern Ocean has acted as a climate regulator and carbon sink: climate models show that this ocean has absorbed around three quarters of the excess heat. The Southern Ocean has also taken up around half the total amount of anthropogenic carbon dioxide absorbed by the world’s oceans.
 
+## Swiss polar exploration
+
 In April 2016, the new Swiss Polar Institute (SPI) was founded by a consortium comprising ETH Zurich, the Swiss Federal Institute of Technology in Lausanne (EPFL), the Swiss Federal Institute for Forest, Snow and Landscape Research (WSL) and the University of Bern. This new centre is devoted to exploring the Earth’s poles and other extreme environments. SPI’s first major project is ambitious: an international expedition with 55 researchers from 30 different countries will spend several months circumnavigating the Antarctic continent, starting at the end of December 2016. The climate scientist Alex Haumann from Professor Nicolas Gruber’s group at ETH will also be joining the cruise. The goal of the expedition is to measure and quantify the impact of climate change and pollution in the Southern Ocean.
+
+## Reference
 
 Haumann FA, Gruber N, Münnich M, Frenger I, Kern S. Sea-ice transport driving Southern Ocean salinity and its recent trends. Nature, 31 August 2016. DOI: 10.1038/nature19101
 

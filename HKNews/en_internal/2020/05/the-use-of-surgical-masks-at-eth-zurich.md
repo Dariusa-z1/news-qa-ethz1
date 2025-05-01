@@ -2,7 +2,9 @@
 
 **Source:** en_internal/2020/05/the-use-of-surgical-masks-at-eth-zurich.html
 
-## Weitere Informationen
+**Date processed:** 2025-05-01
+
+## Main article
 
 Dr Sigel, must I wear a surgical mask when I return to work on campus? We only recommend wearing a surgical mask if it is impossible to maintain the minimum distance of two metres when working in the laboratory or workshop.
 
@@ -12,8 +14,6 @@ Why is it advisable not to wear surgical masks as a general rule? Firstly, becau
 
 Why is the rule on physical distancing so important? Here we need to understand how the coronavirus is transmitted: an infectious person can spread the virus through coughing, sneezing or talking into the surrounding atmosphere. The virus is transported in the form of fine droplets or aerosols which can travel up to two metres before sinking quickly to the ground. If these droplets land on us, the virus can enter the body through our mucous membranes.
 
-## Subscribe to Newsletter
-
 Can you describe these aerosols? Aerosols are airborne particles, the smallest of them in the nanometre range – normally invisible to the naked eye, in other words. You may be familiar with aerosols as the puff of breath you can see coming from your mouth on a very cold winter's day. These tiny clouds of aerosols can survive for hours in an interior space, but do not spread for metres.
 
 So surgical masks are not effective? On the contrary: a surgical mask can reduce the risk of the virus being transmitted directly to others by containing the release of infectious droplets when someone talks. But they are not reliable enough to effectively block all the aerosols. We therefore only recommend using surgical masks in restricted spaces where physical distancing rules cannot be adhered to. Surgical masks are only effective when used correctly, and that is not always straightforward in everyday situations.
@@ -22,13 +22,13 @@ What are the main challenges when using surgical masks? The first problem is put
 
 Are the masks also intended for private use? No, surgical masks issued by ETH should only be used at work. Masks for private use can be purchased from pharmacies or wholesalers.
 
-## Staffnet
-
 There are now many different types of mask, including those made of fabric, which can be used more than once. Do they offer the same level of protection? We do not advise the use of masks made of cloth, as they do not offer adequate protection. The Type II surgical masks issued by ETH have a high bacterial filter efficiency and resistance against airborne droplets.
 
 What about respirator masks containing an exhalation valve? This type of mask is not a suitable means for protecting other people from infection. It actually has the opposite effect: the valve in the mask creates a jet effect that can propel exhaled droplets into the surrounding air.
 
 Some members of the ETH community belong to what is classed as a high-risk group because of pre-existing medical conditions. What advice would you give them? Vulnerable persons belonging to a risk group should basically continue working from home. If this is not possible – for example because someone manages a critical infrastructure at the university – they must strictly observe physical distancing and good hygiene rules in the workplace. In addition, they must avoid travelling by public transport wherever possible.
+
+## Weitere Informationen
 
 More information: SSHR information sheet on how to use surgical masks and where to obtain them.
 

@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2022/07/imaging-the-brain-with-ultrasound-waves.html
 
-## Non-invasive and cost-effective examination
+**Date processed:** 2025-05-01
+
+## Main article
 
 Both ultrasound for medical imaging and seismology for imaging the Earth's interior measure the propagation of waves through matter. For example, when seismic waves encounter material differences in the Earth's interior, such as between different rock formations, they are reflected and refracted at their interfaces. As a result, the speed of the waves changes. If researchers measure these waves at the surface, they can draw conclusions about the structure of the Earth's interior, as well as the composition of the rocks and their material properties such as density, pressure or temperature.
 
@@ -10,15 +12,17 @@ With the help of sophisticated algorithms and high-performance computers such as
 
 Thus, about 6 years ago, the research group worked with physicians to successfully develop ultrasound methods for the early detection of breast cancer. The team is now investigating how the brain can be examined with ultrasound. With this method, the researchers and doctors could one day monitor stroke patients or identify brain tumors, for example.
 
+## Non-invasive and cost-effective examination
+
 Compared to computed tomography (CT) or X-rays, ultrasound has a decisive advantage: the procedure is almost entirely harmless to the body. Moreover, it is much more cost-effective than magnetic resonance imaging (MRI), for example, and the ultrasound devices are transportable for use in remote regions. The problem, however, is that ultrasound has so far only worked well for soft tissues—it is very difficult to get ultrasound waves through hard structures such as the skull, because bone strongly reflects and dampens the waves.
 
 Patrick Marty, PhD student in Fichtner’s group, is now developing in his doctoral thesis a method to overcome this challenge with the support of Christian Böhm, senior scientist in the Seismology and Wave Physics Group. This method should provide the basis for imaging the brain with ultrasound in high resolution, according to the scientists.
 
-## Learning on a magnetic resonance imaging scanner
-
 To simulate the propagation of waves through the brain, the researchers are developing algorithms which perform many calculations over a special grid known as a “mesh”. At the heart of this is a software package called Salvus. Developed at ETH Zurich with the support of CSCS, Salvus models the propagation of the complete wave field (full-waveform) over spatial scales ranging from a few millimeters to thousands of kilometers. ETH seismologists use this software to simulate seismic waves, for example to explore the interior of the Earth or Mars, and now also for medical imaging. The software package uses the spectral element method (SEM), which is particularly well suited for simulating wave propagation in media with high-contrast material transitions—like soft brain tissue and bone.
 
 "Unlike conventional ultrasound, which only uses the arrival time of the waves, we use the entire wave information in our simulations," says Marty. This means that the shape, frequency, velocity, and amplitude of the wave at every point of its propagation flow into the calculations.
+
+## Learning on a magnetic resonance imaging scanner
 
 For their model, the researchers first use a MRI of the brain as a reference. Then, on the "Piz Daint" supercomputer, they perform calculations with different parameters until the simulated image matches that of the MRI.
 
@@ -26,13 +30,13 @@ With this method, they obtain a quantitative image instead of the less informati
 
 The researchers are convinced that this method can be used to distinguish healthy tissue from diseased tissue while being both non-invasive and cost-effectively. Specifically, this method could be fed into a computer that is integrated into an ultrasound device specially developed for this purpose. The computer would perform a series of calculations using the ultrasound signals recorded by sensors, and the result would be a 3D image of the brain being examined. However, the researchers emphasise that there is still a long way to go until this can enter clinical practice.
 
-## References
-
 A particular remaining challenge is the complex geometry of the skull, due to eye, nose and jaw cavities etc., which must be modelled precisely in the simulation without dramatically increasing the computation time. To solve this problem, Marty is developing methods that create individual numerical meshes for arbitrary skull shapes out of hexahedra (small elements that have six faces). "With these deformed little cubes, we are 100 to 1000 times faster than if we were working with tetrahedra," says Böhm. "In addition, the project benefits greatly from new developments in graphics cards, like the ones we have in 'Piz Daint' and, in the future, in 'Alps'. They are ideal for this method."
 
 The researchers are continuing to work together with physicians at the university hospital of the University Zürich to further develop these techniques. If Marty succeeds during the next three years of his doctoral thesis in further developing the procedures for meshing and imaging the brain, these same methods may be transferable to other parts of the body, such as knees or elbows. This would serve as a promising basis for developing a corresponding ultrasound device.
 
 This text by Simone Ulmer first appeared in English on the CSCS website .
+
+## References
 
 Marty P, Boehm C, Paverd C, Rominger M, & Fichtner A (2022). Full-waveform ultrasound modeling of soft tissue-bone interactions using conforming hexahedral meshes. Medical Imaging 2022: Physics of Medical Imaging, 12031, 877–891.
 

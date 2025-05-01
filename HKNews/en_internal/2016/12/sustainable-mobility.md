@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2016/12/sustainable-mobility.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Transport and mobility are key topics for the future of ETH Zurich’s Zentrum and Hönggerberg locations. Resource consumption has been carefully considered along with easy accessibility to buildings for staff and students. The mobility platform launched this year aims to help reduce the carbon footprint and energy consumption of ETH Zurich associated with mobility. ‘ Life ’ also explores the question of how to reduce the large proportion of the carbon footprint caused by people flying on business.

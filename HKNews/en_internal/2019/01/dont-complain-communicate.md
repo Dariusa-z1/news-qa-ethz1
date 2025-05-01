@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2019/01/dont-complain-communicate.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 André Blanchard, you spent over 11 years as PeKo President. Did it ever bother you that the Staff Commission’s work is hardly ever noticed within ETH?
@@ -31,6 +33,8 @@ CS: One key aim is to remove the sometimes considerable obstacles that stand in 
 Mr Blanchard, what three tips would you give your successor?
 
 AB: Don’t take anything personally in this role. Be patient; at ETH you often have to play the long game. And once you have set yourself a goal, stick with it: it will pay off in the end!
+
+## About the interviewees
 
 André Blanchard is a technical employee in the Institute of Geophysics and in the Swiss Seismological Service (SED). He joined ETH as an apprentice 42 years ago. He was President of the Staff Commission (PeKo) from 2007 to 2018. Christopher Sauder Engeler has been at ETH since 2001. He is responsible for video conferencing in Multimedia Services. He has been PeKo President since summer 2018.
 

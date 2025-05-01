@@ -2,31 +2,25 @@
 
 **Source:** de_news_events/2022/08/zellteilung-ermoeglicht-vernetzung.html
 
+**Date processed:** 2025-05-01
+
 ## Es gibt keinen fixen Bauplan
 
 In den letzten Jahren wurden grosse Summen an Forschungsgeldern aufgewendet, um die Struktur von ausgereiften Gehirnen zu vermessen. Die Wissenschaft hofft, dass man aus der genauen Kartierung der Neuronen und ihrer Vernetzung – also dem sogenannten Konnektom – ein besseres Verständnis der Funktionsweise des Gehirns bekommt.
 
-## Anleitung zur Vernetzung
-
 Doch die grundlegende Frage, wie das Gehirn aus der begrenzten genetischen Information der Ausgangszellen entsteht, bleibt nach wie vor unbeantwortet. Denn um das Konnektom zu beschreiben, müsste in den Genen ein Milliardenfaches der tatsächlichen Informationsmenge abgespeichert sein. Wie also kommt es, dass Tiere und Menschen mit einem weitgehend vorstrukturierten Organ auf die Welt kommen, das schon kurz nach der Geburt schnelle Lernfortschritte ermöglicht?
-
-## Räumliche und genetische Struktur
 
 Die Antwort auf diese Frage ist bemerkenswert einfach, haben Stan Kerstjens, Doktorand am Institut für Neuroinformatik der ETH und Universität Zürich, und seine beiden Betreuer Richard Hahnloser, Professor für Systemneurowissenschaften, und Rodney Douglas, emeritierter Professor für Neuroinformatik, herausgefunden.
 
-## Systematische Abfolge von Zellen
+## Räumliche und genetische Struktur
 
 Dieser neuartige Mechanismus haben die Forscher in einem in der Zeitschrift PLOS Computational Biology veröffentlichten Artikel beschrieben. Die Wissenschaftler haben ein Modell entwickelt, mit dem sie die Entwicklung eines Mäusegehirns vom embryonalen bis umgerechnet zum Reifestadium eines sechsjährigen Kindes simulieren können.
 
-## Auf der Suche nach verwandten Zellen
-
 «Im Kern handelt es sich um ein Wachstumsmodell für Gewebe», erklärt Kerstjens. Ausgehend von einer einzelnen Anfangszelle entstehen im Modell nach und nach neue Neuronen, wobei bei es bei jeder Zellteilung zu gewissen Veränderungen in der Genaktivität kommt. Dieser Mechanismus führt dazu, dass Tochterzellen jeweils eine ähnliche, aber eben nicht identische Genexpression wie ihre Vorläuferinnen haben und dass Zellen mit ähnlicher Genexpression räumlich nahe beieinander liegen. Diese entwicklungsbedingte Organisation der Zellen bewirkt eine kartenähnliche Markierung der Zellen, welche die Biologie dann für die Navigation der Axonen nutzen kann.
-
-## Das Prinzip verstehen
 
 Im Laufe der embryonalen Entwicklung entsteht auf diese Weise eine hierarchische Organisation von genetischen Markierungen in den unterschiedlichen Hirnregionen, die sich jeweils durch das genetische Muster ihrer gemeinsamen Vorfahren auszeichnen. Durchquert man räumlich diese kartenähnliche Hierarchie, folgt man einer systematischen Abfolge von genetischen Profilen, die sich von Generation zu Generation von Zellen entwickelt haben.
 
-## Literaturhinweis
+## Auf der Suche nach verwandten Zellen
 
 Die Forschenden haben dazu Daten der Genaktivität von Mäusegehirnen analysiert, die vom Allen Institute for Brain Science in Seattle veröffentlicht wurden. «Wir haben die Labordaten mit unseren Simulationen verglichen und stellten eine weitgehende Übereinstimmung fest. Die Aktivität der Gene unterteilt das Gehirn also tatsächlich in verschachtelte, zusammenhängende Regionen», erklärt Kerstjens.
 
@@ -35,6 +29,8 @@ Im Modell verbinden sich dann in einem zweiten Schritt die Zellen mit anderen Ze
 Die Forscher konnten zeigen, dass dieser ziemlich einfache Mechanismus Axone über grosse Distanzen zu bestimmten Zielen führen kann und dass auf diese Weise ein Konnektom entsteht, das demjenigen eines realen Mäusegehirns sehr nahe kommt. «Die meisten Zellen verbinden sich innerhalb der näheren Umgebung und einige wenige schaffen es bis in weit entfernte Regionen. Dadurch entstehen Areale, die in sich stark vernetzt sind, die dann mit anderen Arealen in Verbindung stehen.»
 
 Zwar lässt sich mit diesem einfachen Modell kein reales menschliches Gehirn abbilden. «Aber das war auch nicht unser Ziel der Arbeit», meint Kerstjens. «Wir wollen das Prinzip verstehen, wie ein lernfähiges Organ entsteht. Und diese Arbeit zeigt uns nun, auf welchem Weg wir weiterforschen können.»
+
+## Literaturhinweis
 
 Kerstjens S et.al. Constructive Connectomics: how neuronal axons get from here to there using gene-expression maps derived from their family trees. PLoS Computational Biology, 25. August 2022. DOI: externe Seite 10.1371/journal.pcbi.1010382
 

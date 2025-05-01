@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2016/03/angela-merkel-cebit-eth-stand.html
 
-## Main article
+**Date processed:** 2025-05-01
+
+## Enge Verbindungen zu Deutschland
 
 Für die deutsche Bundeskanzlerin Angela Merkel steht der alljährliche Besuch der in Hannover stattfindenden CeBIT so fest im Terminkalender, wie für den Schweizer Bundespräsidenten hierzulande die Olma. Kein Wunder, handelt es sich bei der CeBIT doch um die bedeutendste und grösste Computermesse der Welt. Wer hier ausstellt, zeigt, was morgen die Gesellschaft und Wirtschaft digital prägen könnte. Die Schweiz ist dieses Jahr Partnerland der CeBIT und kann auf rund 2700 Quadratmetern präsentieren, wie innovativ sie auf dem Gebiet der ICT ist.
 

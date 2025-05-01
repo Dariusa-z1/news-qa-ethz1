@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2014/04/security-gap-heartbleed.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 A big issue in the last days was the vulnerability called «Heartbleed», which affects, for example, web stores, Internet banking or in general all web services accessed over SLL («https»).

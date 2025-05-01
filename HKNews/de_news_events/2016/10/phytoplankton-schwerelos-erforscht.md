@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2016/10/phytoplankton-schwerelos-erforscht.html
 
+**Date processed:** 2025-05-01
+
 ## Wandernde Mikroalgen im Visier
 
 Es war ein hochfliegendes und nicht alltägliches Experiment: «Wir konnten eine wichtige Hypothese testen: Änderungen in der relativen Schwerkraft, wie sie in der Umwelt ständig durch Turbulenzen im Wasser vorkommen, beeinflussen das Verhalten aquatischer Mikroorganismen», freut sich Roman Stocker nach dem bisweilen zweiten Schweizer Forschungsflug in die Schwerelosigkeit.
@@ -10,9 +12,9 @@ Der ETH-Professor für Hydromechanik und Grundwasser war zusammen mit vier Forsc
 
 Es handelt sich dabei um Phytoplankton – einzellige photosynthetische Algen, die in Meeren und Seen artenreich vorkommen. Tagsüber schwimmen diese Mikroorganismen an die Wasseroberfläche hin zum Licht, nachts migrieren sie in die Tiefe, wo es mehr Nährstoffe gibt. Das Wanderverhalten ist ökologisch relevant und für Gewässerforscher auch deshalb interessant, weil es bei vielen Arten zu sogenannten Phytoplankton-Blüten kommt, die für Fische und Menschen toxisch sein können.
 
-## Filmen und parallel Genaktivität messen
-
 «Wir wissen, dass Turbulenzen im Wasser die Wanderungen des Phytoplanktons behindern können. Doch die Ursache ist bislang nicht bekannt», erklärt Stocker. Er und sein Team vermuten, dass winzige Wirbel im Wasser einzelne Zellen zum Taumeln bringen, wodurch sich deren wahrgenommene Schwerkraft relativ zur Schwimmrichtung laufend ändert. Diese Hypothese stammte aus vorherigen Laborexperimenten mit künstlichen Turbulenzen. Mit dem Parabelflug vom Samstag testeten die Forschenden nun, wie eine sich ändernde Schwerkraft das Wanderverhalten des Phytoplanktons beeinflusst.
+
+## Filmen und parallel Genaktivität messen
 
 Dazu richtete Stockers Gruppe im «Zero-G-Flieger» eine Versuchsanordnung ein, die es erlaubt, die mikroskopisch kleinen Zellen beim schwerelosen Schwimmen zu filmen und parallel die Genexpression als Antwort auf Schwerkraftänderungen zu messen.
 

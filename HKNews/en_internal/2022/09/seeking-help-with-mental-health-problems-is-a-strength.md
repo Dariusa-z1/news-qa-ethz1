@@ -2,7 +2,9 @@
 
 **Source:** en_internal/2022/09/seeking-help-with-mental-health-problems-is-a-strength.html
 
-## About Psychological Counseling Services
+**Date processed:** 2025-05-01
+
+## Main article
 
 Cornelia Beck, psychologist and psychotherapist, has been Head of UZH/ETH Psychological Counseling Services since 2016.
 
@@ -16,21 +18,19 @@ Have the kinds of problems you see changed over the past 50 years? Not really �
 
 Are there other things that have changed? Yes, time pressure has increased enormously. As a result, many students are looking to progress quickly and almost all of them stick to the standard course duration. They forget that this is the minimum amount of time in which they can complete the course. Instead, they think they must complete it in that time. This means they put themselves under a great deal of pressure, which in turn makes them very performance-driven.
 
-## 50 years of Psychological Counseling Services
-
 What’s also changed over the past 50 years are the universities themselves. They’ve grown into large organisations, and many students struggle with the resulting anonymity. They feel indistinguishable, invisible – and this makes them less motivated. In my view, this perceived indifference gets in the way of developing free, critical thinking.
 
 What attitude do today’s students have towards psychological counselling? On the one hand, today’s students are more willing to seek counselling. They appear to have developed the skills that enable them to get help sooner. On the other hand, as I mentioned earlier, they’re under an enormous amount of pressure. They feel they have to be efficient, productive and fast, and cope with the rigours of selection and competition while under immense time pressure.
 
 We often detect these expectations during sessions. Ideally, what they want from us is a fast-acting, prepackaged solution with a handful of specific tips thrown in. But personal development is all but impossible unless you really put your mind to it.
 
+## About Psychological Counseling Services
+
 Psychological Counseling Services offers all students and doctoral candidates at the University of Zurich and ETH Zurich psychological support in dealing with issues related to learning and performance, difficulties with decision-making and orientation, interpersonal conflicts and other personal problems. Sessions are free of charge and confidential. More information about Psychological Counseling Services.
 
 What differences have you noticed within the group of students who come to you? First, that – just like for all psychosocial offerings – more women (60 percent) than men come to us. In particular, ETH’s women students and doctoral candidates approach us more often than those from UZH. Women’s socialisation means that they are generally more willing to seek support and talk about their problems.
 
 Are there any other differences? Over 25 percent of sessions are with students with an international background. Many of them have had to jump through a lot of hoops to study here. They arrive with certain expectations and insecurities about themselves, others and their university. Disappointments, communication problems and cultural differences can then make it harder for them to integrate and can also lead to pronounced psychosocial strain.
-
-## Always up to date
 
 Another difference is that UZH’s Bachelor’s students tend to be more likely to make an appointment than their counterparts at ETH. But when it comes to Master’s and doctoral students, it’s the other way round: we see more from ETH than from UZH.
 
@@ -41,6 +41,8 @@ As Psychological Counseling Services celebrates 50 years, what are your hopes fo
 So the universities need to do a certain amount of rethinking? I’d like to see a return to the idea that university education is about more than simply teaching someone what they need to know to work in a particular field. I have to impression that Bologna has placed the focus on credits and timeframes, so much so that many students no longer take a moment to ask themselves what other areas of interest they have and which subjects they would like to spend a semester studying. Students should be given the time and space they need to develop their academic and scientific identity.
 
 And there should be an awareness that it’s possible for any student to go through a difficult period, without it meaning that they aren’t cut out for an academic career.
+
+## 50 years of Psychological Counseling Services
 
 This anniversary will be marked at the beginning of October with a podium discussion open to all, as well as workshops for students and doctoral candidates. The anniversary also features in an installation in the UZH Lichthof and another in the ETH Gallery (HG F).
 

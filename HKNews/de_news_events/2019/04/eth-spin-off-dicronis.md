@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2019/04/eth-spin-off-dicronis.html
 
-## Main article
+**Date processed:** 2025-05-01
+
+## Mikronadeln als Namensgeber
 
 Wenn jemand an Krebs erkrankt, sind oft einzelne oder mehrere Lymphknoten von Metastasen bildenden Krebszellen besiedelt. Deshalb werden in der Therapie die betroffenen Knoten entfernt, allerdings mit dem Risiko, dass das lymphatische System kollabiert.
 

@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2015/11/two-finalists-in-supercomputing.html
 
+**Date processed:** 2025-05-01
+
 ## Fifty times bigger and faster
 
 Simulations on supercomputers support experimental research in many scientific fields. The calculations are normally hugely complex and time-consuming, even for the most powerful supercomputers, and include, for example, the simulation of nanoscale electronic components such as transistors, or the simulation of blood flow through microscopic channels, separating out metastasis-building tumour cells from red blood cells.
@@ -18,15 +20,13 @@ When simulating the behaviour of nanocomponents, the quantum effects that occur 
 
 Now, both software codes have been optimised for hybrid computer systems on Piz Daint, and doctoral students Sascha Brück and Mauro Calderara have developed a new algorithm called SplitSolve to greatly reduce the computing time and allow for the analysis of structures with over 50,000 atoms. SplitSolve enables parallel and simultaneous computing on CPUs and GPUs.
 
-## Focus on cancer
-
 Luisier is convinced that “with the help of Titan, we have redefined the boundaries for quantum transport simulations. The simulations are now realistic enough to be of direct benefit to experimental research into nanodevices.”
 
 Simulated flow of red blood cells through a predefined structure. (Graphics: CSElab)
 
-The second research team from ETH that has been nominated for the Gordon Bell Prize is led by ETH Professor Petros Koumoutsakos of the Computational Science & Engineering Laboratory (CSElab). In collaboration with researchers from the Università della Svizzera italiana, the United States (Brown University, NVIDIA) and Italy (CNR and University of Rome), the team used the Titan supercomputer to run state-of-the-art simulations of the flow of micron-sized red blood cells and tumour cells through microfluidic channels. According to the researchers, the geometric details and the number of cells have been improved by two orders of magnitude; thus the study redefines the boundaries for simulating flows through micron-scale devices.
+## Focus on cancer
 
-## Gordon Bell Prize
+The second research team from ETH that has been nominated for the Gordon Bell Prize is led by ETH Professor Petros Koumoutsakos of the Computational Science & Engineering Laboratory (CSElab). In collaboration with researchers from the Università della Svizzera italiana, the United States (Brown University, NVIDIA) and Italy (CNR and University of Rome), the team used the Titan supercomputer to run state-of-the-art simulations of the flow of micron-sized red blood cells and tumour cells through microfluidic channels. According to the researchers, the geometric details and the number of cells have been improved by two orders of magnitude; thus the study redefines the boundaries for simulating flows through micron-scale devices.
 
 This has enabled the computational scientists to emulate the laboratory experiments (lab-on-a-chip) of other researchers looking at how tumour cells could be filtered out of the blood to allowfor the early diagnosis of metastatic cancer. Just as in an experiment, the simulation shows the behaviour of blood that flows through a system made up of columns of a certain size and shape, arranged in rows. Because of the geometry of the device and the structure of the cells, the larger tumour cells, which measure in diameter about 25 microns - three times larger than red blood cells - drift to the side of the device so they can be separated out of the bloodstream and identified.
 
@@ -34,11 +34,11 @@ Looking for a tumour cell in blood is like looking for a needle in a flowing hay
 
 The “in silico lab-on-a-chip”, as Koumoutsakos calls the simulation, reproduces and assists in further optimising laboratory experiments and designing novel lab-on-a-chip-devices that are essential to researchers in the pharmaceutical industry.
 
-## Don't miss the latest news
-
 Koumoutsakos and his team have been working for over a decade on researching the processes involved in cancer. Having first simulated angiogenesis, i.e. how tumour cells stimulate the growth of blood vessels and so enable the transport of tumour cells in the bloodstream, his next goal was to simulate the flow of blood and tumour cells in the capillaries of the circulatory system. He wanted to demonstrate the interaction of cells and drug-carrying nanoparticles in the capillaries. “The problem is that the tumour-induced blood vessels are so entangled that there is no easy way to describe them. That means we are not able to reconstruct them in simulations,” says Koumoutsakos.
 
 Having watched real experiments to separate tumour cells, he had the idea of using this approach to investigate the behaviour of the cells in blood. George Karniadakis of Brown University had the necessary expertise in what is called dissipative particle dynamics, where the flow of blood is simulated as a collection of individual particles. Diego Rossinelli from CSElab and other members of the team put these techniques together into a model and optimised the codes before making the simulation on Titan that put them in the running for the Gordon Bell Prize.
+
+## Gordon Bell Prize
 
 The “Gordon Bell Prize” has been endowed by the Association for Computing Machinery since 1987 and is named after the famous computing engineer and pioneer in the field of high-performance computing. It has been presented at the SC conference in the United States every year since 1987. The prize is worth USD 10,000 and recognises outstanding achievements in supercomputing. It is intended to promote and drive forward the development of large-scale parallel computing, in which multiple computing operations run simultaneously in parallel.
 

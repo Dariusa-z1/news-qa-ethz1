@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2022/08/dem-arktischen-ergruenen-auf-der-spur.html
 
+**Date processed:** 2025-05-01
+
 ## Grösstes und schwierigstes Unterfangen
 
 «Wir haben Landschaften gesehen, in denen Permafrost grossflächig kollabiert ist», sagt Sebastian Dötterl besorgt. Der Professor für Bodenressourcen ist soeben von einer Feldkampagne von Spitzbergen zurückgekehrt. Die Inselgruppe liegt auf rund 78 Grad nördlicher Breite, das Thermometer klettert hier im Sommer im Durchschnitt auf neun Grad Celsius.
@@ -10,9 +12,9 @@ Dorthin war er Mitte Juli mit elf weiteren Forscherinnen und Forschern der ETH Z
 
 Noch vor wenigen Tagen kniete Dötterl mit Wollmütze, wind- und regendichter Kleidung in der Tundra, um Bodenproben zu sammeln. Jetzt sitzt er in Shorts und T-Shirt in seinem Büro. Der Forscher wirkt etwas abgekämpft, aber nicht nur wegen dem Wechsel aus der kühlen Arktis in die Augusthitze von Zürich. Sondern auch wegen der Feldforschung auf Spitzbergen selbst – oder vielmehr: wegen der Rahmenbedingungen.
 
-## Corona, Krieg und Pilotenstreik
-
 «Dieses Unterfangen stellt bezüglich Grössenordnung und Schwierigkeit meine bisherigen Feldarbeits-Kampagnen in den Schatten», betont Dötterl. «Ich hatte noch nie mit solch schwierigen Rahmenbedingungen zu kämpfen wie bei diesem Projekt, und dass, obwohl wir auch viel Feldforschung in Regionen wie dem Kongo betreiben.»
+
+## Corona, Krieg und Pilotenstreik
 
 Erst verzögerte die Coronapandemie den Projektstart um mehr als ein Jahr. Dann begann Russland im Februar den Krieg gegen die Ukraine, was bedeutete, dass das Forschungsteam Infrastruktur, die der russische Staat auf Spitzbergen betreibt, nicht wie geplant nutzen durfte. Für den Zugang in abgelegene Regionen wären die Forschenden jedoch darauf angewiesen gewesen. Mit Glück konnten die norwegischen Partner in letzter Minute ein Segelschiff samt Crew chartern, damit die Forschenden ein Dach über dem Kopf hatten und zu ihren Untersuchungsgebieten gelangen konnten.
 
@@ -24,9 +26,9 @@ Die Hauptstadt Spitzbergens Longyearbyen ist für das Forschungsteam aus Pflanze
 
 Den Anstoss zu diesem Forschungsvorhaben gegeben hat die Tatsache, dass die globale Erwärmung Ökosysteme rasant verändert. In der Arktis vollzieht sich dieser Wandel noch schneller als anderswo auf der Welt. So sind die Temperaturen im hohen Norden in den letzten drei Jahrzehnten um vieles stärker gestiegen als im weltweiten Durchschnitt.
 
-Das bringt nicht nur die Gletscher und den Permafrost zum Schmelzen, sondern ändert auch Böden und Pflanzen in der arktischen Tundra. Zwischen 1984 und 2012 sind 30 Prozent der Tundren Nordamerikas grüner geworden, wie eine externe Seite Nasa-Studie zeigte. Weshalb aber manche Tundren stärker und rascher ergrünen als andere, hängt vermutlich mit der lokalen Bodenfruchtbarkeit, dem Wasserhaushalt und dem Mikroklima zusammen.
-
 ## Improvisation war gefragt
+
+Das bringt nicht nur die Gletscher und den Permafrost zum Schmelzen, sondern ändert auch Böden und Pflanzen in der arktischen Tundra. Zwischen 1984 und 2012 sind 30 Prozent der Tundren Nordamerikas grüner geworden, wie eine externe Seite Nasa-Studie zeigte. Weshalb aber manche Tundren stärker und rascher ergrünen als andere, hängt vermutlich mit der lokalen Bodenfruchtbarkeit, dem Wasserhaushalt und dem Mikroklima zusammen.
 
 Im Fokus der ETH- und WSL-Forschenden stehen einerseits angestammte und eingeführte Pflanzen und wie diese auf die Erwärmung reagieren. Die Wissenschaftler:innen befassen sich auch mit der sich beschleunigenden Bodenentwicklung und den Veränderungen biogeochemischer Kreisläufe. Dazu untersuchen sie ursprüngliche Tundraböden, gestörte Böden in Siedlungsnähe sowie nährstoffreiche Böden in der Nähe von Vogelkolonien an.
 
@@ -34,11 +36,11 @@ Weiter möchten die Forschenden herausfinden, welche Rolle Mikroben bei der Besi
 
 Aus ihren Daten wollen die Forschenden schliesslich ein Modell ableiten, welches Änderungen in der Vegetation, den Böden und den Mikroorganismen beinhaltet und zur Prognose zukünftiger Änderungen in arktischen Ökosystemen verwendet werden kann.
 
-## Laborarbeit und Trip nach Nordnorwegen
-
 Mit dem Verlauf der Expedition sind Dötterl und seine Co-Projektleiter:innen trotz aller Schwierigkeiten mit der Expedition sehr zufrieden. «Vor Ort ist fast alles wie erhofft gelaufen», freut sich der Projektleiter. Alle Teilnehmer:innen seien stark motiviert gewesen, alle hätten aufeinander aufgepasst und eine sehr gute und kollegiale Zusammenarbeit gepflegt. «Das ist bei einem Projekt von diesem Schwierigkeitsgrad und unter den teilweise beengenden Bedingungen auf dem Schiff nicht selbstverständlich», betont Dötterl.
 
 Bis auf eine Stelle – die Behörden sperrten eine Siedlung wegen eines streunenden Eisbärs - konnten sie in allen Untersuchungsflächen wie gewünscht Proben holen, insgesamt 1,2 Tonnen Bodenmaterial, das die Forschenden teils gefroren nach Zürich verschifft haben, wo das Material im kommenden Winter im Labor analysiert wird. Dazu kommen hunderte von Pflanzenproben und Samenmaterial für Experimente in Zürich sowie hunderte von mikrobiologischen Proben.
+
+## Laborarbeit und Trip nach Nordnorwegen
 
 Um das darin enthaltene genetische Material zu konservieren, mussten diese Proben im Gelände sofort eingefroren werden und bei -80 Grad Celsius in flüssigem Stickstoff transportiert werden. Weil dafür in der Wildnis keine ausreichende Stromversorgung vorhanden war, schickten die Forschenden vorgängig einen Tank mit 400 Litern flüssigen Stickstoff unter vier Bar Druck nach Spitzbergen. Da der Tank jedoch ein Loch bekam und drei Wochen in Tromsö zwischenlagerte, ehe er auf die Insel verschifft wurde, enthielt er nur noch knapp 100 Liter. Der Druck war auf ein Bar abgesunken. «Das ging gerade noch so auf», sagt Dötterl.
 

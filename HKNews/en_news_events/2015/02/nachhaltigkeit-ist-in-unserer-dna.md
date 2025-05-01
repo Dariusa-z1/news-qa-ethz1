@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2015/02/nachhaltigkeit-ist-in-unserer-dna.html
 
+**Date processed:** 2025-05-01
+
 ## Grün ist nicht gleich grün
 
 Zunächst etwas Persönliches: Dies ist bis auf weiteres mein letzter Beitrag im ETH-Zukunftsblog. Nach meinem Doktorat in Umweltökonomie werde ich die ETH Zürich in Richtung Privatwirtschaft verlassen. Dieser Beitrag ist von dem Limbo zwischen den Welten inspiriert - von einer Jobmesse.
@@ -10,17 +12,15 @@ Nachdem ich mich an der ETH mit Landnutzungsfragen beschäftigt habe, sind für 
 
 Die Antwort (sinngemäss): Nachhaltigkeit sei ein bereichsübergreifendes Thema, weshalb man keine Spezialisten gebrauchen könne. Diese Schlussfolgerung hat mich verwundert: Auch Rechtsabteilung und Buchhaltung arbeiten bereichsübergreifend, aber es käme wohl niemand auf die Idee, deshalb dafür keine Experten, sprich Juristinnen und Buchhalter, einzustellen. Wenn es den Unternehmen ernst ist mit der Nachhaltigkeit, brauchen sie auch hierfür echte Expertise.
 
-## Alternativen zu unwirksamen Zertifikaten
-
 Während meines Doktorats habe ich mich auf tropische Abholzung spezialisiert und möchte daher ein Beispiel aus diesem Bereich bringen. Lebensmittelkonzerne sind in der Regel Grosseinkäufer von Palmöl, und viele Grossunternehmen haben heute das Ziel «100-Prozent nachhaltiges» Palmöl zu verwenden. Dafür setzen derzeit die meisten auf sogenannte «Green Palm»-Zertifikate.
 
 Nachdem Palmölplantagen einmal angelegt sind, produzieren sie für viele Jahrzehnte hohe Erträge. Die lokalen Umweltauswirkungen sind dabei vergleichbar mit denen anderer Monokulturen. Das eigentliche Umweltproblem ist daher nicht die Produktion des Öls an sich sondern die Zunahme der Plantagenfläche von circa 5 Prozent pro Jahr auf Kosten von tropischen Regenwäldern. Ein Nachhaltigkeits-Zertifikat sollte also zum Ziel haben, effektiv gegen die fortschreitende Abholzung zu wirken.
 
 «Green Palm» geht auf den ersten Blick in die richtige Richtung: Es zertifiziert «nachhaltig» produziertes Palmöl; das heisst unter anderem, dass es nicht von Plantagen stammen darf, auf denen 2005 noch Regenwald stand. Alle davor gerodeten Flächen sind für das Zertifikat zulässig.
 
-## About the author
-
 Auf den zweiten Blick entpuppt sich das Zertifikat allerdings als wenig wirksam, und zwar durch etwas, das Umweltökonomen als «Re-Shuffeling Effekt» bezeichnen: Gäbe es das Zertifikat nicht, würden alle Palmölkonsumenten einen kleinen Anteil Öl von frisch gerodeten Flächen und einen grossen Teil von alten Plantagen kaufen. Wenn nun einige wenige Grossunternehmen ausschliesslich «Green Palm»-zertifiziertes Öl von alten Plantagen kaufen, landet einfach etwas mehr Öl von frisch gerodeten Flächen bei allen anderen Abnehmern (siehe Grafik). Die Verteilung auf die Konsumentengruppen ändert sich, die Zusammensetzung des Gesamtmarkts bleibt gleich und es wird kein Hektar weniger abgeholzt.
+
+## Alternativen zu unwirksamen Zertifikaten
 
 Wirklich nachhaltiges Palmöl müsste bei der Zunahme der Gesamtproduktion ansetzen, zum Beispiel durch Intensivierung der Palmöl-Produktion durch kleinbäuerliche Betriebe und durch Re-Kultivierung von Brachflächen. Für beides gibt es Projekte, die aber auf finanzielle Hilfe angewiesen sind. Wollen Unternehmen diese Projekte mit dem Kauf des so produzierten Palmöls unterstützen, sind die Mehrkosten jedoch deutlich höher als bei «Green Palm»-zertifiziertem Öl – dort betragen die Mehrkosten gerademal knapp 1 Prozent. Dennoch wäre es sinnvoller, zumindest einen Teil des gesamten Palmöls auf nachhaltige Quellen umzustellen anstatt die gleiche Summe für ineffektive Zertifikate auszugeben.
 

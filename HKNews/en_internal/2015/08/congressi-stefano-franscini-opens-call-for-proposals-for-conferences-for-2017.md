@@ -2,15 +2,13 @@
 
 **Source:** en_internal/2015/08/congressi-stefano-franscini-opens-call-for-proposals-for-conferences-for-2017.html
 
+**Date processed:** 2025-05-01
+
 ## New: ETH Summer Schools @ Monte Verità
 
 Researchers and university professors working in Switzerland who would like to organise an international academic conference at Congressi Stefano Franscini at Monte Verità are invited to submit their proposal to CSF by 15 January 2016. Conferences should be three to five days in length.
 
-## Subscribe to Newsletter
-
 From this year, applications can be submitted for workshops as well (three days duration, 25–30 participants).
-
-## Staffnet
 
 Likewise, ETH Zurich researchers or professors can organise a Winter School for doctoral students at Monte Verità. The deadline for submitting the applications for 2016/2017 is 15 January 2016.
 

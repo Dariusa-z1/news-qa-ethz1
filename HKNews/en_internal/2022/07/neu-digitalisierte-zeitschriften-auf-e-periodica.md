@@ -2,7 +2,9 @@
 
 **Source:** en_internal/2022/07/neu-digitalisierte-zeitschriften-auf-e-periodica.html
 
-## What is E-Periodica?
+**Date processed:** 2025-05-01
+
+## Main article
 
 The ZS was founded in 1923 under the title Zürcher Student . Switzerland’s oldest student newspaper looks back on an eventful past: it was initially intended as a nationalist publication. In the 1960s, the paper took a sharp left turn and changed its name to Zürcher Studentin , linguistically transitioning from a male student to a female one. At some point, it lost all interest in politics and developed financial troubles. The end seemed nigh but did not come. In 2006, the newspaper decided to go by “ZS”, which remains its name to the present day. To the issues 1923–ff.
 
@@ -36,8 +38,6 @@ To the issues 1979–1997
 
 The almanac of the Geographische Gesellschaft von Bern replaced the society’s annual report from 1973 onwards. Until then, its annual report had published news from the society alongside academic contributions. For financial reasons, however, the two were separated. The society news, which included discussions of lectures held within the society, appeared in Berner Geographischen Mitteilungen , the new bulletin of the Geographische Gesellschaft von Bern. Scientific content was published in the society’s almanac instead. The increased collaboration with the University of Bern’s department of geography further allowed the publishers to produce supplements to the almanac.
 
-## Contact
-
 Almanac of the Geographische Gesellschaft Bern : To the issues 1973–ff.
 
 Supplement to the almanac of the Geographische Gesellschaft von Bern : To the issues 1975–1982
@@ -70,8 +70,6 @@ Arbeitskreis Dorfgeschichte, the working group on village history, is a committe
 
 To the issues 1985–ff.
 
-## Always up to date
-
 The series Beiträge zur Heimatkunde des Sensebezirks was published by the Verein für Heimatkunde between 1927 and 1983. The Sensebezirk is the only fully German-speaking district in the canton of Freiburg. Over the years, the number of articles published varied considerably. Their quality, too, ranges from popular science to serious academia. The publishing association considered these articles themselves to be a “treasure trove of local history” that considerably grew in popularity among the local population over time.
 
 To the issues 1927–1983
@@ -97,6 +95,8 @@ Sinfonia , published under the title Das Orchester between 1934 and 1939, was th
 In collaboration with the Swiss National Library NL
 
 To the issues 1934–1997
+
+## What is E-Periodica?
 
 E-Periodica is the online platform for Swiss periodicals and is a service of the ETH Library. Subjects range from the natural sciences through architecture, mathematics, history, geography, art and culture to the environment and social policies. At E-Periodica you’ll find freely accessible periodicals from the 18th century through to the present. Resources are being continually expanded and supplemented by current editions.
 

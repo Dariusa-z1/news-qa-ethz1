@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2016/05/materialien-im-wissensportal-suchen.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Somit befinden sich rund 1000 Werkstoffe der Materialgruppen Holz, Papier, Metall, Kunststoff, Stein, Glas, Keramik und Farbmittel auch im Katalog der ETH-Bibliothek.

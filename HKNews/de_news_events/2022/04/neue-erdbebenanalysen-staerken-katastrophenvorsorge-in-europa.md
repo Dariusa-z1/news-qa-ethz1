@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2022/04/neue-erdbebenanalysen-staerken-katastrophenvorsorge-in-europa.html
 
+**Date processed:** 2025-05-01
+
 ## Verbessertes Erdbebengefährdungsmodell
 
 Im zwanzigsten Jahrhundert forderten Erdbeben in Europa mehr als 200'000 Todesopfer und verursachten Schäden in Höhe von über 250 Milliarden Euro. Umfassende Analysen der Erdbebengefährdung und des Erdbebenrisikos sind deshalb wichtig, um die Auswirkungen katastrophaler Erdbeben zu verringern. Denn bis heute können Erdbeben weder verhindert noch genau vorhergesagt werden.
@@ -10,15 +12,13 @@ Ein internationales Team von europäischen Seismologinnen, Geologen und Ingenieu
 
 Diese Modelle beschreiben, wo durch Erdbeben ausgelöste Erschütterungen zu erwarten sind, wie stark und wie häufig diese auftreten und welche möglichen Auswirkungen sie auf die bebaute Umwelt und auf Menschen haben. Sie ermöglichen es, wirksame Vorsorgemassnahmen festzuschreiben und damit die Auswirkungen auf Gebäude und ihre Nutzerinnen und Bewohner erheblich zu verringern.
 
-## Ältere Gebäude bestimmen das Erdbebenrisiko
-
 Die Forschenden aktualisierten und harmonisierten die den Modellen zugrundeliegenden Datensätze – ein komplexes Unterfangen angesichts der riesigen Datenmengen und der unterschiedlichen tektonischen Gegebenheiten in Europa. Eine solche Harmonisierung ist jedoch nötig, um wirksame länderübergreifende Strategien zur Katastrophenvorsorge einzurichten, wie etwa die Festlegung von Versicherungskonzepten oder die Bestimmung von zeitgemässen Bauvorschriften auf europäischer und nationaler Ebene.
 
 Das aktualisierte europäische Erdbebengefährdungsmodell sowie das neue Erdbebenrisikomodell sind frei zugänglich, inklusive der ihnen zugrundeliegenden Datensätze.
 
-Die Erdbebengefährdung beschreibt potenzielle Bodenerschütterungen durch künftige Erdbeben und beruht auf dem Wissen über vergangene Erdbeben, der Geologie, Tektonik und den lokalen Bedingungen an beliebigen Orten in ganz Europa.
+## Ältere Gebäude bestimmen das Erdbebenrisiko
 
-## Grosse gemeinsame Anstrengung
+Die Erdbebengefährdung beschreibt potenzielle Bodenerschütterungen durch künftige Erdbeben und beruht auf dem Wissen über vergangene Erdbeben, der Geologie, Tektonik und den lokalen Bedingungen an beliebigen Orten in ganz Europa.
 
 In die aktuelle Version des Gefährdungsmodelles wurden erweiterte Datensätze integriert. Diese erlauben es, die Erdbebengefährdung in Europa umfassender und neu zu beurteilen. Das hat dazu geführt, dass im Vergleich zum Modell von 2013 die Einschätzungen der zu erwartenden Bodenerschütterungen in den meisten Teilen Europas nach unten korrigiert wurden. Davon ausgenommen sind einige Regionen in der westlichen Türkei, Griechenland, Albanien, Rumänien, im Süden Spaniens und Portugals. Dort wurden die Einschätzungen der zu erwartenden Bodenerschütterungen nach oben angepasst.
 
@@ -26,7 +26,7 @@ Das aktualisierte Modell bestätigt die Türkei, Griechenland, Albanien, Italien
 
 Eine erdbebengerechte Bauweise ist eine der wirksamsten Massnahmen, um die Bevölkerung besser vor Erdbeben zu schützen. Das aktualisierte europäische Erdbebengefährdungsmodell ist eine wesentliche Informationsgrundlage für die zweite Auflage der europäischen Baunormen (Eurocode-8-Normen). Auf Länderebene sind allerdings die vorhandenen nationalen Gefährdungsmodelle massgebend für Baunormen und weitere Aspekte der Erdbebenvorsorge.
 
-## Was die Risikomodelle für die Schweiz bedeuten
+## Grosse gemeinsame Anstrengung
 
 Anders als das Gefährdungsmodell beschreibt das erste europäische Erdbebenrisikomodell die erwarteten Folgen eines Erdbebens auf die Bevölkerung und die Wirtschaft. Um dieses Risiko zu bestimmen, benötigen Forschende Informationen über den lokalen Untergrund, die Gebäude- und Bevölkerungsdichte, die Verletzbarkeit von Gebäuden sowie zuverlässige Einschätzungen der Erdbebengefährdung.
 
@@ -34,17 +34,15 @@ Das Risikomodell zeigt: Besonders gross ist das Erdbebenrisiko in städtischen G
 
 Obwohl die meisten europäischen Länder über neuere Bauvorschriften und -normen verfügen, gibt es noch immer viele nicht oder nur unzureichend gegen Erdbeben gesicherte ältere Gebäude. Sie bergen ein höheres Risiko für ihre Bewohner.
 
-## Nationales Erdbebenrisikomodell in Arbeit
-
 Das höchste Erdbebenrisiko betrifft daher städtische Gebiete, die oft eine Geschichte von schadenbringenden Erdbeben aufweisen. Dazu zählen Städte wie Istanbul und Izmir in der Türkei, Catania und Neapel in Italien, Bukarest in Rumänien und Athen in Griechenland.
 
 Allein auf diese vier Länder entfallen fast 80 Prozent des modellierten wirtschaftlichen Schadens von sieben Milliarden Euro, den Erdbeben im jährlichen Durchschnitt in Europa verursachen. Aber auch Städte wie Zagreb, Tirana, Sofia, Lissabon, Brüssel und Basel tragen ein überdurchschnittlich hohes Erdbebenrisiko verglichen mit weniger exponierten Städten wie Berlin, London oder Paris.
 
 An der Entwicklung der beiden Modelle hat ein Kernteam von Forschenden aus ganz Europa, mit führender Beteiligung der ETH Zürich, gearbeitet. Das Vorhaben begann vor mehr als 30 Jahren. Tausende Fachpersonen aus ganz Europa waren beteiligt. Diese Anstrengungen wurden durch mehrere von der Europäischen Kommission finanzierte Projekte und durch nationale Gruppen unterstützt.
 
-## Erste Hinweise auf Regionen mit hohem Risiko
-
 Forschende des Schweizerische Erdbebendienstes (SED) und der Gruppe für Seismologie und Geodynamik an der ETH Zürich leiteten zahlreiche dieser Projekte. Am SED ist zudem EFEHR (European Facilities for Earthquake Hazard and Risk) beheimatet. EFEHR ist ein gemeinnütziges Netzwerk, das sich der Entwicklung und Aktualisierung von Erdbebengefährdungs- und Risikomodellen in Europa und im Mittelmeerraum verschrieben hat. Die ETH Zürich ist damit eine zentrale Drehscheibe für die Datensammlung- und Aufbereitung, den offenen Zugang zu Erdbebengefährdungs- und Risikomodellen inklusive aller Grundlagendatensätze sowie den Wissensaustausch.
+
+## Was die Risikomodelle für die Schweiz bedeuten
 
 Eine wichtige Massnahme zur Erdbebenvorsorge, die auf Gefährdungsmodellen beruht, sind Normen für eine erdbebengerechte Bauweise. In der Schweiz legt der Schweizerische Ingenieur- und Architektenverband (SIA) diese Normen fest. Der SIA stützt sich dabei auf die nationale Gefährdungsabschätzung, die der Schweizerische Erdbebendienst an der ETH Zürich erstellt und letztmals im Jahr 2015 aktualisiert hat. Nationale Modelle bilden die lokalen Verhältnisse präziser und höher aufgelöst ab als gesamteuropäische Modelle. Dennoch wird der SIA das neue europäische Modell auf Unterschiede zum nationalen Modell hin analysieren. Es ist jedoch nicht zu erwarten, dass die derzeit geltenden Normen angepasst werden müssen.
 

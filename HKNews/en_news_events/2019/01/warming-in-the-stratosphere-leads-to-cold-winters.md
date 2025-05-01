@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2019/01/warming-in-the-stratosphere-leads-to-cold-winters.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Finally, another winter that truly deserves its name. Is the current cold weather related to the phenomenon of the sudden stratospheric warming (SSW) that occurred in early January? Daniela Domeisen: The cold and snow are simply due to the fact that it is winter. But while the current cold winter weather in Europe may not yet be related to the SSW, this event may be responsible for the cold to persist for several weeks to come.
@@ -19,6 +21,8 @@ How long does the disturbance of the polar vortex last? In the upper stratospher
 Does climate change increase the occurrence of these events? This is currently unknown. We have only been aware of the phenomenon since the 1950s, so our observations cover only a few decades. This makes predictions of future SSW frequency challenging. In fact, we currently observe opposing tendencies: the stratosphere generally cools due to climate change. At the same time, Arctic sea ice is melting. This can affect how large-scale waves, which span the entire planet, move up into the stratosphere, where they can trigger SSW events. If wave propagation changes, SSW frequency may be affected. Some models say that SSWs are becoming more common, while other models predict fewer events. We do not currently have conclusive forecasts.
 
 How do you know in advance if a SSW will take place? We can estimate the probability of a SSW several weeks or even months in advance. Factors that facilitate stratospheric warming events include the El Niño phenomenon, which is associated with warmer ocean surface temperatures in the tropical Pacific. El Niño has been active this winter, suggesting a higher probability for a SSW event, and indeed it happened. I was hoping for a Christmas event, but so far, a SSW event has never happened around the holidays – that would be a nice Christmas present for us atmospheric dynamicists!
+
+## About Daniela Domeisen
 
 Daniela Domeisen has been a Professor of Atmospheric Predictability at the Institute of Atmospheric and Climate Science at ETH Zurich since 2017.
 

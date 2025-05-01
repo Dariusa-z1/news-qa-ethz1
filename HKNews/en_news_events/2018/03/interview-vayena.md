@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2018/03/interview-vayena.html
 
-## Globe: Tailor-made medicine
+**Date processed:** 2025-05-01
+
+## Main article
 
 ETH News: Switzerland is hoping to set up a national database infrastructure for personalised medicine over the next four years. Are we ready to take that step? Effy Vayena: I would say we’re getting ready. This is the phase where we need to set up systems for handling data from patients and healthy individuals responsibly. Generating and processing this kind of data raises technological, scientific and societal questions that we must address.
 
@@ -13,8 +15,6 @@ But in January we learned that hackers had managed to breach the IT systems of o
 What’s the level of trust like at the moment? People trust healthcare institutions. They feel safe when they go to hospitals. It’s true that some studies highlight a lack of trust in public institutions all over the world, but they also show that healthcare institutions tend to inspire more trust than other kinds of organisations. Maintaining that trust is something that matters to all of us – institutions and researchers alike. Trust really is essential.
 
 How do you go about maintaining or even increasing that trust? We have an obligation to handle people’s data very carefully. Clarifying responsibilities across all aspects of data processing is crucial too. Everyone needs to know who’s responsible for what, and such responsibilities should be taken seriously. What’s more, we need to be transparent and communicate clearly with the public – and by that I mean a frank dialogue, not just PR. The public must understand why their data is needed and what it’s used for. And those of us working in research institutions need to listen more and find out what people’s concerns are. The data used in personalised medicine stems from patients and healthy citizens, and many of the activities involved are funded by taxpayers. It’s a matter of respect to engage people in discussions about what we’re doing.
-
-## Magazin Globe
 
 Health data is generally held by hospitals. But researchers from other institutions would like to make use of it, too. That means they need access to the data. What conditions need to be in place for that to happen? Anyone who provides access to data has to ensure that the recipient fulfils a series of requirements in regard to data privacy, data security and other issues. The recipient also needs to have a well-justified reason for requesting access to data – one that shows some social value. And, obviously, access to personal data may be given only if the person it concerns has authorised this.
 

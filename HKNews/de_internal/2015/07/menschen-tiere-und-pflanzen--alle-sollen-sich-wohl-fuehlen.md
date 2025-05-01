@@ -2,7 +2,9 @@
 
 **Source:** de_internal/2015/07/menschen-tiere-und-pflanzen--alle-sollen-sich-wohl-fuehlen.html
 
-## Dienstjubiläen im zweiten Quartal 2015
+**Date processed:** 2025-05-01
+
+## Main article
 
 Wenn man Jörg Brenn gegenüber das Wort «Rasenmäher» erwähnt, leuchten seine Augen auf. Den Motor anschmeissen, den richtigen Gang einlegen und dann einfach losmähen – «das ist das Schönste an meiner Arbeit». Zweimal im Jahr schiebt Brenn seinen Elektromäher über die ausgedehnten Wiesen und Grünflächen auf dem Campus Hönggerberg.
 
@@ -12,17 +14,15 @@ Mit blumenreichen Magerwiesen, unterschiedlichen Strauchformen, einheimischen Wi
 
 Brenn erinnert sich: Damals, vor 35 Jahren, an einem Tag, als ihn seine Arbeit als Mechaniker in einer Fabrik mal wieder bedrückt, meldet er sich auf gut Glück, «ins Blaue hinein», beim damaligen Gärtnereiverantwortlichen der ETH: Er suche «eine Stelle mit mehr Natur», ob er nicht mal vorbeikommen könne. Er darf – auch ohne entsprechende Ausbildung.
 
-## Staffnet
-
 Jörg Brenn lächelt schief: «Seitdem bin ich im Sommer neun, im Winter acht Stunden täglich draussen.» Die aktuelle Hitzewelle macht ihm nichts aus, und den Schnee liebt er auch. Bei Regen reinigt er die Gartengeräte, hilft bei der Maschinenwartung, «es gibt immer was zu tun». Die Frage, was ihm an seiner Arbeit nicht gefällt, scheint ihn zu verwundern. Er hat wohl noch nie darüber nachgedacht, dass Hecken und Blütenstände schneiden, Rabatten giessen, Rasen sprengen, heuen, Äste zusammenkehren und Laub harken keinen Spass machen könnten.
 
 Der Pflanzenfreund legt den Kopf in den Nacken und blinzelt ins Sonnenlicht, das sich in feinen Strahlen seinen Weg durchs Blätterdach bahnt. Er sieht aus wie einer, der seinen Platz im Grünen gefunden hat.
 
+## Dienstjubiläen im zweiten Quartal 2015
+
 35 Jahre Jörg Brenn, Infrastrukturbereich Betrieb Marcel Herzog, Abteilung Dienste Dr. Pascal Leuchtmann, Institut für Elektromagnetische Felder Bruno Jörg, Laboratorium für Kristallographie Doris Sutter, Institut für Chemie und Bioingenieurwissenschaften David Schmid, Infrastrukturbereich Betrieb
 
 30 Jahre Michael Leopold, Laboratorium für Festkörperphysik Rolf Willy Liebermann, Infrastrukturbereich Immobilien Cornelius Senn, Departement Bau, Umwelt und Geomatik Albert Weber, Institut für Werkzeugmaschinen und Fertigung Hans Wunderli, Institut für Terrestrische Ökosysteme
-
-## Newsletter abonnieren
 
 25 Jahre Piero Arizzoli, ETH-Bibliothek Dr. Stefan Blunier, Institut für Mechanische Systeme Etienne Chevalley, Raplab D-ARCH, Departement Architektur Jules Fenner, Institut für Geodäsie und Photogrammetrie Stefan Gribi, Versuchsanstalt für Wasserbau, Hydrologie und Glanzologie Marie-Laure Müller, Professur für Entwicklungsökonomie Renate Pfister, Infrastrukturbereich Betrieb Aldo-Ricardo Rossi, Institut für Elektromagnetische Felder Zsuzsanna Sebestyén, Institut für Kartografie und Geoinformation
 

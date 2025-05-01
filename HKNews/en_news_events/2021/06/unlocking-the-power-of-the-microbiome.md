@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2021/06/unlocking-the-power-of-the-microbiome.html
 
+**Date processed:** 2025-05-01
+
 ## Volume control of the plant response
 
 Hundreds of different bacterial species live in and on leaves and roots of plants. A research team led by Julia Vorholt from the Institute of Microbiology at ETH Zurich, together with colleagues in Germany, first inventoried and categorised these bacteria six years ago. Back then, they isolated 224 strains from the various bacterial groups that live on the leaves of thale cress (Arabidopsis thaliana). These can be assembled into simplified, or “synthetic” plant microbiomes. The researchers thus laid the foundations for their two new studies, which were just published in the journals Nature Plants and Nature Microbiology.
@@ -18,9 +20,9 @@ In the second study, Vorholt and her team explored how bacterial communities cha
 
 What they didn’t expect was that another genetic defect would have the biggest effect: if the plants were deficient in a certain enzyme, an NADPH oxidase, the bacterial community was thrown off-kilter. Plants use this enzyme to produce highly reactive oxygen radicals, which have an antimicrobial effect. In the absence of this NADPH oxidase, microbes that under normal circumstances lived peacefully on the leaves developed into what are known as opportunistic pathogens.
 
-## References
-
 For Vorholt, the two studies show that synthetic microbiomes are a promising approach to investigating the complex interactions within different communities. “Since we can control and precisely engineer the communities, we can do much more than just observe what happens. In addition to simply determining cause and effect, we can understand them on a molecular level,” Vorholt says. An ideal microbiome protects plants from diseases while also making them more resilient to drought and salty conditions. This is why the agricultural industry is among those interested in the team’s results. They should help farmers harness the power of the microbiome in the future.
+
+## References
 
 Maier BA, Kiefer P, Field CM, Hemmerle L, Bortfeld-Miller M, Emmenegger B, Schäfer M, Pfeilmeier S, Sunagawa S, Vogel CM, and Vorholt JA. A general non-self response as part of plant immunity. Nat Plants 7: 696–705 (2021). doi: 10.1038/s41477-021-00913-1 .
 

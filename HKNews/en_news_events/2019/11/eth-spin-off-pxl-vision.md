@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2019/11/eth-spin-off-pxl-vision.html
 
-## New process is more secure
+**Date processed:** 2025-05-01
+
+## Main article
 
 “We bring trust to the digital world by enabling secure digital identity verification.” This is how 34-year-old Karim Nemr summarises the business concept behind PXL Vision. He is one of the founders of the ETH spin-off, which aims to create products that could one day be as ubiquitous in our day-to-day lives as coffee machines or smartphones.
 
@@ -10,9 +12,9 @@ Actually, the latter is vital to the business idea of these young Zurich entrepr
 
 With the help of the app, the verification of a person's identity becomes almost child's play. (Photograph: ETH Zurich)
 
-The technology, called Daego (a mash-up of “digital alter ego”), supports all international travel documents as well as other forms of ID – for example, the voter card that serves as the primary ID in Mexico.
+## New process is more secure
 
-## ETH’s good image
+The technology, called Daego (a mash-up of “digital alter ego”), supports all international travel documents as well as other forms of ID – for example, the voter card that serves as the primary ID in Mexico.
 
 There are other potential applications in the private sphere, for instance when employing a babysitter, hiring a private tutor, for online-gambling or even online-dating. With the PXL Vision app, people could quickly check to see if the person at the door is indeed the person who applied for the post.
 
@@ -21,8 +23,6 @@ Current solutions for verifying someone’s identity still require some human in
 Customers are of the same opinion: telecommunications provider Sunrise was one of the first to sign up, despite initial scepticism. “At first, the company’s main concern was whether their customers would accept the new technology,” Nemr explains, “but these were unfounded. It turns out that, regardless of age or gender, people have no problem with their identity being verified digitally.”
 
 Swiss Sign, provider of the digital SwissID, has proven to be another key partner for PXL Vision. And the rest of the customer list – which includes UPC as well as other mobile phone operators and banks – reads like a Who’s Who of Switzerland’s digital pioneers. Nemr is also proud of his company’s financial independence: “We’ve been self-supporting since day one and we’ve managed to grow without accepting external financing.”
-
-## Banks, the US and Asia
 
 Nemr never imagined that he would wind up in this field after studying hospitality management in Lausanne. “I was always interested in technology already as a child, and knew early on that I wanted to be an Entrepreneur” he recalls.
 

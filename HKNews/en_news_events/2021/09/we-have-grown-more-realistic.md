@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2021/09/we-have-grown-more-realistic.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Ms Günther, Mr Brugger, the NADEL Center for Development and Cooperation is celebrating its 50th anniversary. How has the general understanding of development aid changed since the centre was founded?
@@ -61,6 +63,8 @@ Brugger: I couldn’t agree more.
 Prof. Dr. Isabel Günther has been Professor of Development Economics and the Academic Director of NADEL since 2014.
 
 Dr. Fritz Brugger is the executive director of NADEL and in charge of the institute’s continuing education programmes.
+
+## 50 years of NADEL
 
 The NADEL Center for Development and Cooperation was founded at ETH Zurich in 1970. After a one-year delay due to the corona crisis, NADEL is now celebrating its 50th anniversary with a series of public events and lectures on “rethinking cooperation for an inclusive world”. You can find more information on the event series on the NADEL anniversary website .
 

@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2024/02/gastronomie-preisanpassungen-infolge-teuerung.html
 
+**Date processed:** 2025-05-01
+
 ## New prices from 19 February
 
 Swiss community catering services continue to be buffeted by soaring purchasing costs. Following an initial price adjustment two years ago, a number of institutions and universities in Switzerland, including neighbouring UZH, have been forced to raise their canteen prices again over the course of 2023. ETH Zurich’s caterers are also under cost pressure. They have had no other choice but to raise the prices of the meals on offer in the three large catering establishments – Polyterrasse, FUSION meal and food market – with effect from the start of the semester.
@@ -13,8 +15,6 @@ As of 19 February 2024, students will pay CHF 0.50 more for basic vegetarian mea
 All caterers have reported that costs have risen to such an extent that they can no longer be absorbed by strategic purchasing and the optimisation of internal processes. In addition to rising energy costs and food prices, staff costs have soared owing to the fluctuation in the workforce brought about by Covid-19 and the resulting staff shortage.
 
 In terms of revenue, guest numbers have not recovered since the pandemic. “Now that many employees work part of the time from home, we unfortunately do not expect a return to the numbers we enjoyed prior to 2020,” explains Stefan Spiegel, ETH Vice President for Finance and Controlling, who is responsible for catering operations. This shortfall in revenue cannot be compensated by the number of student guests, especially since employees pay a higher price for their meals and thereby generate more revenue per visit.
-
-## Price increases unavoidable
 
 General cost-cutting measures are also a factor pushing down catering revenue. “Departments are organising far fewer events followed by aperitifs; and any catering events that are held are more modest than in the past,” Spiegel continues. This means that a key source of compensation for any deficits in catering operations is on the decline.
 

@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2022/09/across-all-catering-facilities-at-eth-turnover-has-fallen-by-half.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Some of the catering facilities at ETH are closed, although they were buzzing before the pandemic, such as Polysnack in the main building. Mr Perich, is this still due to the impact of the pandemic?

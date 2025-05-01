@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2014/07/ein-dorf-mit-co2-neutralen-gebaeuden-ist-moeglich.html
 
+**Date processed:** 2025-05-01
+
 ## Lokale Stromproduktion
 
 Zernez im Engadin hat sich zum Ziel gesetzt, den Energiebedarf für die Gebäude auf dem Gemeindegebiet ausschliesslich aus erneuerbaren Quellen zu decken und die CO 2 -Bilanz auf null zu senken (siehe Beitrag von ETH-Professor Arno Schlüter im Zukunftsblog ). Das entsprechende Projekt «Zernez Energia 2020» wird vom Bund unterstützt. Ein interdisziplinäres Team der ETH Zürich aus den Bereichen Städtebau, Gebäudesysteme, Bauphysik, Energieforschung und ökologisches Systemdesign betreut es eng. Die beteiligten Forscherinnen und Forscher haben die Machbarkeit des Projekts analysiert und präsentieren nun erste Zwischenergebnisse in einer Ausstellung (siehe Kasten). Das Fazit: Das ambitionierte Ziel ist grundsätzlich erreichbar, ohne das Ortsbild zu beeinträchtigen, wenn auch vielleicht nicht bis 2020.
@@ -9,8 +11,6 @@ Zernez im Engadin hat sich zum Ziel gesetzt, den Energiebedarf für die Gebäude
 Um den Energieverbrauch zu senken, schlagen die Wissenschaftlerinnen und Wissenschaftler vor, unter anderem Gebäude zu sanieren und Erdölheizungen und alte Elektroheizungen auf Fernwärme aus der gemeindeeigenen Holzschnitzelheizung oder Wärmepumpen umzurüsten. Diese Umstellung hängt stark davon ab, wie aktiv Hausbesitzer sich daran beteiligen. «Mit diesen Massnahmen lassen sich die CO 2 -Emissionen stark reduzieren, allerdings nicht ganz auf null senken», sagt Michael Wagner, Projektleiter und Mitarbeiter von Kees Christiaanse, Professor für Architektur und Städtebau an der ETH Zürich.
 
 Um mittelfristig dennoch eine neutrale CO 2 -Bilanz zu erreichen, schlagen die Forschenden vor, die verbleibenden Emissionen zu kompensieren, indem Zernez vermehrt Strom aus erneuerbaren Quellen lokal produziert, ins Schweizer Netz einspeist und verkauft: Es sollen Kleinwasserkraftwerke gebaut und die Solarenergie stärker genutzt werden, ebenso soll das Holz aus den Wäldern der Gemeinde vermehrt für die zentrale Holzschnitzelheizung verwendet werden.
-
-## Kooperationsprojekte durch verdichtetes Bauen
 
 Damit liessen sich die Projektziele grundsätzlich bis 2020 erreichen. Der Bau einer solchen Infrastruktur wäre für die Gemeinde allerdings sehr teuer, wenn damit der heutige Energiebedarf gedeckt und die heutigen CO 2 -Emissionen kompensiert werden sollten. Ausserdem wäre die Kapazität einer auf heute ausgerichteten Infrastruktur mittel- und langfristig möglicherweise zu gross. Denn die Forschenden gehen davon aus, dass wegen den Energiesparmassnahmen in Zukunft weniger Energie benötigt wird. Wagner schätzt daher, dass die lokale Produktion eher auf einen zukünftig reduzierten Verbrauch und niedrigere CO 2 -Emissionen ausgerichtet wird. Als Folge davon dürften die Projektziele erst zwischen 2040 und 2050 erreicht werden.
 

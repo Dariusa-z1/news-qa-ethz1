@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2022/06/globe-calculate-or-co-create.html
 
-## About
+**Date processed:** 2025-05-01
+
+## Main article
 
 A huge map is spread out on the floor in front of us, populated by neat paper models connected by coloured threads and arrows. It’s a new world in the making – and a whole new imagining of Zurich’s Altstetten district. We’re standing in the Design in Dialogue Lab at the NEWROPE Chair of Architecture and Urban Transformation, where Professor Freek Persyn and his students are seeking to gain a better understanding of Altstetten and the dynamics of urban densification. “The Lab is a place where we can engage with stakeholders who are actively involved in the transformation of this district – from neighbourhood associations, residents and developers to allotment holders and architects with alternative ideas. That helps us see Altstetten from different angles,” says course leader Lukas Fink. The city of Zurich’s urban development plan argues that Altstetten offers significant potential for densification – and Freek Persyn agrees: “I wouldn’t describe Altstetten as metropolitan yet, but that’s definitely where it’s heading.” One of the priorities in his studio is to build up a common understanding of the district and discuss what development makes sense in this context. “Densification isn’t just about the numbers; it’s also about how we create new connections and tie new developments to what’s already there,” says Persyn.
 
@@ -40,8 +42,6 @@ Persyn: To me, those figures feel like an over-simplification. We need to ask ou
 
 Wälty: Spatial planning is about more than just the people who live on an estate; it’s also about society, the economy and the environment beyond. It’s a false assumption to say that transforming a neighbourhood will necessarily make it worse.
 
-## Globe Science &amp; beauty
-
 Densification projects have a big impact on residents’ lives, yet most of them involve zero dialogue between the developers and local people. We continue walking until we reach Lindenplatz, which is a meeting point for several social subgroups. These are at risk of being displaced by the nearby development projects.
 
 Persyn: I remember a student saying that a clean Lindenplatz isn’t a real Lindenplatz! Some places defy our conventional understanding of beauty; by doing so, they provide a niche for certain user groups.
@@ -69,6 +69,8 @@ Wälty: Right. For example, you can use ground-floor premises in more diverse wa
 Persyn: That’s exactly the kind of thing we should be scrutinising more closely. Ground-floor premises don’t have to be commercial – they can also be social. It’s the same with our idea of beauty: in reality, it’s just one among many values. We should also be thinking about criteria such as orientation, suitability and climate – and we should be making those values just as explicit as the solution. The 10-minute neighbourhood represents a certain set of values that we need to communicate to people. And we need a new culture of spatial planning that is able to weigh up and connect these values.
 
 Calculate or co-create? The two architects agree that both are necessary for designing dense neighbourhoods that people actually enjoy living in. But Persyn is quick to point out a Swiss trait that often gets in the way: “It’s the fear of conflict that leads to micromanagement – yet conflict can teach us so many valuable lessons.”
+
+## About
 
 Freek Persyn is Professor of Architecture and Urban Transformation and Head of the Institute of Landscape and Urban Studies. He is co-owner and founding partner of the architecture firm 51N4E in Brussels.
 

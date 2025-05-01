@@ -2,19 +2,9 @@
 
 **Source:** de_internal/2022/03/der-persoenliche-austausch-bleibt-unverzichtbar.html
 
-## Weitere Informationen
+**Date processed:** 2025-05-01
 
-- Weitere Informationen zu Nebenbeschäftigungen
-
-- Wie Sie vorgehen: Melde- und Bewilligungsprozess
-
-- Interessenskonflikte und Leistungsbeeinträchtigungen
-
-- Beurteilung von Nebentätigkeiten und Beispiele
-
-- Richtlinien Nebenbeschäftigungen
-
-- ETHIS
+## Main article
 
 Copyright: GM CASTELBERG
 
@@ -28,8 +18,6 @@ Was ändert sich somit für Mitarbeitende, die eine Nebenbeschäftigung ausführ
 
 Professorinnen und Professoren mussten bereits bis anhin ihre Nebenbeschäftigungen melden bzw. bewilligen lassen. Neu müssen Nebenbeschäftigungen, je nach Art und Umfang, von allen Mitarbeitenden via ETHIS gemeldet und eventuell auch von einer vorgesetzten Stelle bewilligt werden. Einen Überblick über den Prozess sowie melde- und/oder bewilligungspflichtige Nebenbeschäftigungen findet man auf der ETH-Webseite [ Nebenbeschäftigungen und weitere Tätigkeiten | ETH Zürich ].
 
-## Staffnet
-
 Wie ist es, wenn Mitarbeitende bereits einer bestehenden Nebenbeschäftigung bzw. weiteren Tätigkeit nachgehen und diese in der Vergangenheit an einer anderen Stelle gemeldet haben. Müssen diese trotzdem noch via ETHIS eingetragen werden?
 
 Es müssen neu alle melde- und bewilligungspflichtigen Nebentätigkeiten via ETHIS eingegeben werden. Dies gilt auch für bereits bestehende oder bereits anderweitig gemeldete Beschäftigungen ausserhalb der ETH Zürich, die noch nicht in ETHIS eingetragen wurden. Mit dem neuen Prozess sind alle Meldungen und Bewilligungen von Nebentätigkeiten an einem Ort erfasst und können einfacher bearbeitet werden.
@@ -41,8 +29,6 @@ Genau, diese beiden Begriffe sind die Kernpunkte der neuen Richtlinien. Eine Neb
 Nebenbeschäftigungen werden von der ETH Zürich nach Möglichkeit unterstützt und können meistens bewilligt werden. Denn Nebentätigkeiten können sowohl das Netzwerk und das Wissen erweitern als auch Erfahrungen vermitteln. Viele ETH-Mitarbeitende werden angefragt, um sich auch ausserhalb der ETH einzubringen und wollen sich entsprechend engagieren. Das kann für alle Beteiligten und die ETH nützlich sein. Solche Engagements müssen aber mit der Tätigkeit bei der ETH Zürich vereinbar sein.
 
 Gehen wir davon aus, dass bei einer gemeldeten Nebenbeschäftigung bzw. weiteren Tätigkeit ein Interessenskonflikt oder eine Leistungsbeeinträchtigung besteht. Wie werden Nebenbeschäftigungen mit einem bestehenden Konflikt behandelt? Werden diese automatisch nicht bewilligt?
-
-## Newsletter abonnieren
 
 Die meisten Nebentätigkeiten müssen tatsächlich nicht bewilligt, sondern nur gemeldet werden. Aber auch wenn sie nur gemeldet werden müssen, ist dies eine Chance für Mitarbeitende und vorgesetzte Personen, sich auszutauschen und abzustimmen, sodass mögliche Konflikte erkannt und allenfalls Massnahmen besprochen werden können.
 
@@ -56,3 +42,11 @@ Das private Engagement der Mitarbeitenden ist zu respektieren und die persönlic
 
 Die Richtlinien zeigen die zu beachtenden Rahmenbedingungen für die Ausübung von Nebentätigkeiten auf. Der persönliche Austausch zwischen Mitarbeitenden und vorgesetzten Personen bleibt unverzichtbar. Es ist wichtig, dass die möglichen Interessenskonflikte, Leistungsbeeinträchtigungen und Reputationsrisiken einer Nebentätigkeit gemeinsam erkannt und mögliche Massnahmen besprochen werden. Nebenbeschäftigungen können einen vielfältigen beruflichen und privaten Nutzen für alle Beteiligten haben. Meist ist eine Kombination persönlicher Interessen und der Interessen der ETH Zürich möglich, sodass Nebentätigkeiten unterstützt werden können.
 
+## Weitere Informationen
+
+• Weitere Informationen zu Nebenbeschäftigungen
+• Wie Sie vorgehen: Melde- und Bewilligungsprozess
+• Interessenskonflikte und Leistungsbeeinträchtigungen
+• Beurteilung von Nebentätigkeiten und Beispiele
+• Richtlinien Nebenbeschäftigungen
+• ETHIS

@@ -2,19 +2,19 @@
 
 **Source:** de_internal/2022/02/wyss-zurich-foundation-neues-fundament-fuer-translationale-forschung-und-technologietransfer.html
 
-## Vielversprechende Projekte und Start-ups
+**Date processed:** 2025-05-01
+
+## Main article
 
 Seit 2015 existiert das externe Seite Forschungszentrum «Wyss Zurich Translational Center» von UZH und ETH Zürich. Ermöglicht wurde seine Gründung dank einer grosszügigen Donation von 120 Millionen US-Dollar durch den Mäzen Hansjörg Wyss. Basierend auf dem Know-how und der erstklassigen Infrastruktur der beiden Hochschulen bringt das Zentrum wissenschaftliche Ideen in die Anwendung. Der Fokus liegt dabei auf klinischen Therapien, neuartigen Technologien und intelligenten Systemen in der regenerativen Medizin und der Robotik.
 
 Um das Zentrum auf eine längerfristige stabile Basis zu stellen, haben UZH und ETH nun die gemeinnützige Stiftung «Wyss Zurich Foundation» gegründet. «Damit haben wir eine klare Trennung zwischen der Stiftung, die über Zusprachen entscheidet, und dem Zentrum, das die Förderung erhält», erklärt Michael Schaepman, Rektor der UZH und Stiftungsratspräsident. Das «Wyss Zurich Translational Center» wird weiterhin translationale Forschung und Technologietransfer in medizinische Anwendungen und innovative Produkte fördern.
 
-## Staffnet
-
 Ein Stiftungsrat, zusammengesetzt aus je maximal zwei Mitgliedern der Wyss Foundation USA, der UZH und der ETH, wird künftig über die Beiträge an einzelne Projekte sowie die thematisch spezialisierten Technologieplattformen des «Wyss Zurich Translational Center» entscheiden. Aktuell existieren die beiden Plattformen Robotics Technologies (ETH) und Regenerative Medicine Technologies (UZH), die die Projekte bei der Translation und Weiterentwicklung unterstützen. Zukünftige Projektanträge aus den beiden Hochschulen werden von einem unabhängigen Komitee evaluiert und dem Stiftungsrat zur Förderung vorgeschlagen.
 
-Die Perfusionsmaschine in Betrieb. (Bild: USZ)
+## Vielversprechende Projekte und Start-ups
 
-## Newsletter abonnieren
+Die Perfusionsmaschine in Betrieb. (Bild: USZ)
 
 Das Zentrum unter der Leitung der beiden Co-Direktoren Roland Siegwart (ETH) und Simon P. Hoerstrup (UZH) hat in den letzten sechs Jahren zahlreiche Projekte und Start-ups zum Nutzen der Gesellschaft und zum Wohle von Patientinnen und Patienten auf den Weg gebracht. So zum Beispiel das Projekt externe Seite «Liver4Life» : Ein interdisziplinäres Team von Forschenden der UZH und der ETH entwickelte eine Perfusionsmaschine, dank der eine Leber eine ganze Woche lang ausserhalb des menschlichen Körpers erhalten werden kann und nicht nur wenige Stunden wie bisher. Die Maschine hält die Leber am Leben, sodass eine Spenderleber vor einer Transplantation überprüft und sogar behandelt werden kann.
 

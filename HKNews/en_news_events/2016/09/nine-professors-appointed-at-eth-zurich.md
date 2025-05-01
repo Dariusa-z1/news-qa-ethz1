@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2016/09/nine-professors-appointed-at-eth-zurich.html
 
+**Date processed:** 2025-05-01
+
 ## Appointments
 
 Rima Alaifari.
@@ -28,8 +30,6 @@ Federica Sallusto
 
 Dr Federica Sallusto (*1961), currently Director of the Center of Medical Immunology and Head of the Cellular Immunology Laboratory at the Institute for Research in Biomedicine, Università della Svizzera italiana, Bellinzona, as Full Professor of Medical Immunology. Federica Sallusto is a globally renowned scientist. Her work and research findings have made a significant contribution to our current understanding of human immunology. Recently, she and her team used new approaches to investigate human T cells with defined characteristics for vaccination studies and in pathological clinical situations (e.g. auto-immune diseases). The appointment of Federica Sallusto will enable ETH Zurich to substantially strengthen its leading international position in the life sciences and personalised medicine.
 
-## Departures
-
 Gerhard Schratt.
 
 Professor Gerhard Schratt (*1972), currently Professor and Director of the Institute of Physiological Chemistry at Philipps-Universität Marburg, Germany, as Full Professor of Systems Neuroscience. Gerhard Schratt’s internationally acclaimed research focuses on the molecular mechanisms that underlie the formation and environmentally-dependent alteration of neural circuits in the human brain. His special interest is in synapses, which play an important role in information storage. The appointment of Gerhard Schratt enables the Department of Health Sciences and Technology to strengthen the connections between the research areas of health, systems biology and neuroscience in an optimal way.
@@ -39,6 +39,8 @@ Sonia Seneviratne.
 Professor Sonia Seneviratne (*1974), currently Associate Professor at ETH Zurich, as Full Professor of Land Climate Dynamics. Sonia Seneviratne has attracted international attention as a highly innovative researcher. She conducts research into land climate interactions on different spatial and temporal scales. In her work, she makes use of models, data analyses and new processes for generating validation data sets. She gained wide recognition through her appointment as the leading co-author of the Special Report on Climate Change and Extreme Events, which was published by the Intergovernmental Panel on Climate Change (IPCC ) in 2012. The promotion of Sonia Seneviratne to Full professor enables ETH Zurich to retain a successful researcher in an area of research that is highly relevant to society.
 
 Mark Tibbitt.
+
+## Departures
 
 Dr Mark Tibbitt (*1985), currently a post-doctoral student at Massachusetts Institute of Technology, Cambridge, USA, as Tenure Track Assistant Professor of Macromolecular Engineering. During his doctoral studies, Mark Tibbitt worked on the synthesis and mechanical characterisation of polymer hydrogels for mammalian cell culture and regenerative medicine. His results attracted international recognition. Since then he has been working on the development and manufacture of polymer materials for the controlled delivery of small molecules and biotherapeutics, including for applications in ophthalmic, cardiac and cancer medicine. By appointing Mark Tibbitt, ETH Zurich is strengthening its expertise in important fields such as tissue engineering and regenerative medicine.
 

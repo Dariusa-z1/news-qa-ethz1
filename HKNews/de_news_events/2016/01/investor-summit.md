@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2016/01/investor-summit.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 8 Uhr am Morgen Bereits eineinhalb Stunden vor Veranstaltungsbeginn ist Dominique Burgauer, CFO und COO von Archilogic, vor Ort im Prime Center, um die Technik zu testen. Das ETH-Spin-off, das auf automatisierte 3D-Visualisierungen von Grundrissen spezialisiert ist, möchte heute den bestmöglichen Eindruck hinterlassen. Da darf Burgauer auch die Erkältung, die ihm sichtlich zu schaffen macht, nicht dran hindern. Der externe Seite Investor Summit markiert für Archilogic den Auftakt zur zweiten Finanzierungsrunde. Alles soll perfekt sein. Schliesslich geht es bei dieser Veranstaltung um potenzielle Investitionen in mehrstelliger Millionenhöhe.

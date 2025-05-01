@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2020/06/interview-christian-wolfrum-delegierter-fuer-medizin.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH-News: Die ETH kannte bis jetzt Delegierte für Nachhaltigkeit, Chancengleichheit, Digitale Transformation und für Globales. Neu gibt es auch einen Delegierten für Medizin. Warum? Christian Wolfrum: Die Medizin ist ein Themenschwerpunkt der ETH. Die ETH hat eine lange Tradition von hervorragender biomedizinischer Grundlagenforschung, und die ETH-Ingenieure leisten exzellente Arbeit in der Medizintechnik. Seit drei Jahren bilden wir Bachelorstudierende in Humanmedizin aus. In Zürich bilden wir zusammen mit der Universität und den universitären Spitälern einen starken Cluster und haben weitere Verbindungen zur Medizin. Es liegt aber noch mehr drin, und meine Aufgabe wird es sein, die Weiterentwicklung der medizinischen Forschung an der ETH zu unterstützen und die ETH in diesem Bereich weiter zu vernetzen.
@@ -13,6 +15,8 @@ Wie möchten Sie erreichen, dass mehr Patientinnen und Patienten von der ETH-For
 ETH-Professorinnen und -Professoren geniessen in ihrer Forschung grosse Freiheit. Soll diese Bottum-up-Kultur in der Medizin nun mit verstärkter Lenkung von oben beschränkt werden? Die Bottom-up-Kultur trägt wesentlich zu unserem Erfolg bei. Daran soll die ETH festhalten. Ich werde in zwei Richtungen tätig sein: Einerseits werde ich Ideen aus den einzelnen Departementen und Forschungsgruppen bündeln, unsere Schulleitung strategisch beraten und die Interessen der ETH gegenüber unseren Partnern vertreten. Andererseits wird es auch darum gehen, neue Forschungsinitiativen zu entwickeln und anzustossen – wie eben zum Beispiel die Stärkung der klinischen Forschung.
 
 Nur wenige der rund 540 Professorinnen und Professoren sind ausgebildete Ärzte. Braucht die ETH mehr davon? Diesen Aspekt wird man bei der Berufung von Professorinnen und Professoren in den nächsten Jahren angehen müssen. In meiner Rolle als Delegierter für Medizin werde ich die Schulleitung diesbezüglich beraten. Zusätzlich möchten wir vermehrt Ärztinnen und Ärzte gewinnen, die bei uns für eine gewisse Zeit forschen. Ebenso wichtig ist aber auch, die bei uns tätigen Naturwissenschaftler und Ingenieure medizinisch fortzubilden, damit sie Anwendungsmöglichkeiten ihrer Forschung in der Medizin erkennen und mit Medizinern diskutieren können. Umgekehrt setzen wir alles daran, den Humanmedizinerinnen, die wir bei uns im Bachelorstudiengang ausbilden, umfassende naturwissenschaftliche Kenntnisse zu vermitteln. All dies sollte es uns ermöglichen, erfolgreiche interdisziplinäre Teams zu schaffen, welche gemeinsam medizinische Lösungen erarbeiten.
+
+## Christian Wolfrum
 
 Christian Wolfrum ist Professor für Translationale Ernährungsbiologie am Institut für Ernährung und Gesundheit der ETH Zürich. Er ist ausserdem Studiendirektor des Studiengangs Gesundheitswissenschaften und Technologie sowie seit drei Jahren Studiendirektor des neuen Bachelorstudiengangs Humanmedizin, den er massgeblich mitaufgebaut hat. Seit dem 1. Juni 2020 ist er zusätzlich Delegierter Medizin der Schulleitung im Bereich des ETH-Vizepräsidenten für Forschung.
 

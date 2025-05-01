@@ -2,15 +2,13 @@
 
 **Source:** de_internal/2020/07/eigentlich-geht-es-uns-gut.html
 
+**Date processed:** 2025-05-01
+
 ## Eigentlich geht es mir gut
 
 Aufstehen. Kaffeemaschine anstellen. Computer starten. Duschen. Trainer-hose und T-Shirt anziehen. Mails checken. Und ab ins erste Zoom-Meeting. So startete ich meinen ersten Arbeitstag im Homeoffice. Es folgten weitere Sitzungen, bei denen meine Kolleginnen und Kollegen auf Kacheln erschienen, manche mit einer wehenden Palme im Hintergrund, andere gaben einen Einblick in ihre Klause. Zwischendurch einen Text schreiben und Mails beantworten. Gegen Mittag meldete sich mein Nacken – ich musste raus, mich etwas bewegen. Am Abend fühlte ich mich erschlagen.
 
-## Doch «uneigentlich» ...
-
 Als der Lockdown verkündet wurde, ging es bei uns in der Hochschulkommunikation hoch zu und her. In den folgenden Wochen arbeiteten wir unter Hochdruck und fragten uns immer wieder gegenseitig nach unserem Befinden. «Mir geht es gut», war meine Antwort. Ich arbeitete zwar intensiv, oft in den Abend hinein, aber ich hatte mit der Zeit Rituale entwickelt, um mit dem Homeoffice klarzukommen: Am Morgen erst in die Bäckerei, um den Arbeitsweg zu kompensieren, der mir fehlte. Über Mittag ein Spaziergang im Quartier, um den Blickwinkel zu öffnen, und auch am Abend ein Rundgang, um durchzuatmen. Doch die Müdigkeit blieb. Und auch die Rundgänge erinnerten mich an den Eisbären im Zoo, den ich als Kind bedauert hatte.
-
-## Wie es den ETH-Angehörigen geht
 
 Eigentlich ging es mir wirklich gut. Das wurde mir immer wieder bewusst, wenn ich von Kolleginnen und Kollegen hörte, die sich auch noch um ihre Kinder kümmern mussten, oder von solchen, die nicht im Homeoffice arbeiten konnten. Hinzu kamen die Nachrichten aus der ganzen Welt über das grassierende Virus. Aber auch die Nachrichten über Kurzarbeit und Firmenkonkurse in der Schweiz zeigten mir, in welch privilegierter Situation ich mich befand.
 
@@ -18,23 +16,15 @@ Eigentlich ging es mir wirklich gut. Das wurde mir immer wieder bewusst, wenn ic
 
 Zähle ich mit meinen Erfahrungen eher zu den Ausnahmen, oder ging es den meisten ETH-Angehörigen so wie mir? Als der Lockdown verhängt wurde, hat Gudela Grote, Professorin für Arbeits- und Organisationspsychologie, mit ihrer Gruppe eine Umfrage bei allen ETH-Mitarbeitenden gestartet, um herauszufinden, wie sie mit der Arbeitssituation im Ausnahmezustand zurechtkommen. Über die Dauer von drei Monaten haben mehr als 2100 ETH-Angehörige an mehreren der insgesamt zehn Befragungsrunden teilgenommen. Die detaillierte Auswertung braucht noch einige Zeit, doch die wesentlichen Ergebnisse liegen vor. Es sind naturgemäss aggregierte Daten, hinter denen Tausende von individuellen Empfindungen stehen, wie ich sie eben geschildert habe.
 
-## Teamgeist fördert Engagement
-
 Eine komplett neue und mithin eine der grössten Herausforderungen stellte für alle ETH-Angehörigen die Trennung zwischen Arbeit und Privatleben dar. «Die Grenze ist generell durchlässig geworden, was gewisse Vorteile brachte, aber auch mit Nachteilen verbunden war», stellt Gudela Grote fest. Je enger Mitarbeitende ihre Arbeit mit dem Privatleben verwoben hätten, desto weniger hätten sie sich sozial isoliert gefühlt. Ihren Alltag erlebten sie allerdings als stressiger. Dies trifft insbesondere auf Kolleginnen und Kollegen zu, die neben der Arbeit Kinder zu betreuen beziehungsweise zu unterrichten hatten. Über die Zeit hat sich aber dieser Stress – zumindest im Mittel – verringert.
-
-## Soziale Isolation und Konflikte
 
 Eine besondere Rolle spielte die Frage, ob es gelang, bei der Arbeitszeit Grenzen zu ziehen. Zu Beginn der Erhebungsperiode berichtete gut ein Drittel der Befragten, dass sie ausserhalb der regulären Arbeitszeiten arbeiten müssten. Gegen Ende der Periode war es immer noch ein Fünftel. «Dies scheint mir ein wichtiges Signal für die Vorgesetzten zu sein», sagt Gudela Grote. «Dauernde Verfügbarkeit darf nicht gefordert werden.»
 
-## Erkenntnisse fliessen in rETHink ein
-
 In der letzten Befragungsrunde wurden die Teilnehmenden um ihre Einschätzungdarüber gebeten, ob ihre Vorgesetzten das Vertrauen hätten, dass ihre Teams zu Hause genauso effizient arbeiten wie vor Ort. Und die Vorgesetzten wurden auch direkt gefragt, ob sie dieses Vertrauen haben. Die Antworten sind generell sehr positiv, auch wenn die Vorgesetzten ihr Vertrauen weniger stark ausdrücken, als es die Mitarbeitenden vermuten. «Hier muss angesetzt werden, damit auch zukünftig die Vorteile des Homeoffice genutzt werden können», ist Grote überzeugt.
 
-## Staffnet
+## Soziale Isolation und Konflikte
 
 Das Arbeitsengagement war im Homeoffice insgesamt hoch. «Gerade in der Anfangszeit fühlten sich viele durch die neue Herausforderung, virtuell zu unterrichten und zusammenzuarbeiten, angespornt», sagt Grote. Besonders engagiert waren Mitarbeitende, die zu Beginn der Befragung angegeben hatten, gerne und effizient zu Hause zu arbeiten. Über die Zeit hat sich aber ihr Engagement jenem der anfangs weniger enthusiastischen Kolleginnen und Kollegen angeglichen. «Vermutlich haben sie realisiert, dass es etwas anderes ist, tageweise oder die ganze Woche zu Hause zu arbeiten», meint Grote. Weiter zeigt die Studie, dass die Befragten die Kommunikation als sehr gut einschätzten. Die meisten fühlten sich auch durch Kolleginnen und Kollegen, Vorgesetzte und die ETH als Ganzes gut unterstützt. So berichten Teilnehmende etwa von grossem Verständnis der Arbeitskolleginnen und -kollegen für ihre Herausforderung, Arbeit und Schulunterricht zu Hause unter einen Hut zu bringen. Die Zusammenarbeit in den Teams wurde im Allgemeinen positiv bewertet. Diese Faktoren haben sich laut Grote positiv auf das Arbeitsengagement ausgewirkt und sind mit der Zeit immer wichtiger geworden. Besonders deutlich zeigt sich dieser Zusammenhang bei Mitarbeitenden, die ihre Aufgaben nicht für sich allein erledigen können. Allerdings stieg bei ihnen mit dem hohen Arbeitsengagement auch das Stressempfinden, die Grenze zwischen Arbeit und Privatleben war durchlässiger.
-
-## Newsletter abonnieren
 
 Trotz allgemein gutem Teamgeist: «Aus den offenen Antworten wissen wir, dass soziale Isolation für viele Mitarbeitende ein Thema war», sagt Grote. Über die Zeit habe das Gefühl, sozial isoliert zu sein, zwar abgenommen. «Das geht aus den Mittelwerten hervor, die aber nichts über das Empfinden des Einzelnen aussagen», gibt sie zu bedenken.
 

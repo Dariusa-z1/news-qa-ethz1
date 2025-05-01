@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2020/03/covid-19-forschung-call-for-proposals.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Das Zentrum lädt Forscher aus seinen vier Partnerinstitutionen (ETH Zürich, Universität Basel, Universitätskinderspital Basel und Schweizerisches Tropen- und Gesundheitsinstitut) ein, Projekte einzureichen, die einen Beitrag zur COVID-19-Pandemie leisten können.

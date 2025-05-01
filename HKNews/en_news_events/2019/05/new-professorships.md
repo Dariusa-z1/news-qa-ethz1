@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2019/05/new-professorships.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 A mathematician who combines optimisation, information theory and data science; an expert in NMR spectroscopy whose work extends into various ETH departments and faculties; an immunology researcher who develops cellular analysis for personalised medicine; a geobiologist who traces environmental changes in microorganisms using methods from genomics and phylogenetics: the newly appointed professors cover a wide range of subjects. “I am delighted with the appointments and look forward to seeing the fresh momentum that our new colleagues will provide,” says ETH President Joël Mesot. “Today, the most significant developments and breakthroughs happen at the interface between disciplines. We are responding to this with the ETH+ initiative, among other approaches. Our new colleagues will help us to consistently pursue this path even further.”
@@ -25,6 +27,8 @@ Dr Sascha Patrick Quanz (*1979), currently Senior Scientist at ETH Zurich, as As
 Professor Roger Schibli (*1968), currently Associate Professor at ETH Zurich and Laboratory Head at the PSI, as Full Professor of Radiopharmacy in the Department of Chemistry and Applied Biosciences. Roger Schibli is one of the world’s leading researchers in the field of radiopharmaceutical chemistry and is regarded as a specialist in the development of radiodiagnostics and radiotherapeutics. The main focus of his research at ETH Zurich is on developing new chemical and enzymatic strategies for the functionalisation of biomolecules for subsequent labelling with diagnostic and therapeutic radionuclides. At the PSI's Center for Radiopharmaceutical Sciences, Roger Schibli’s group is developing new radiotracers based on small molecules, particularly folates and nucleosides.
 
 Dr Benjamin David Stocker (*1982), currently Research Fellow at the Ecological and Forestry Applications Research Centre (CREAF) in Barcelona, Spain, as Assistant Professor of Computational Ecosystem Science in the Department of Environmental Systems Science. Benjamin Stocker conducts research into how ecosystems function, and into climate feedback mechanisms between the terrestrial biosphere and the atmosphere. He uses dynamic global vegetation and Earth system models to quantify the impact of the biosphere on the Earth's carbon balance. With the appointment of Benjamin Stocker, ETH Zurich is strengthening research into the impact of climate change on the biosphere and into terrestrial ecosystems. This will bring important synergies, including with WSL.
+
+## Award of the title of Professor
 
 Professor Jeroen van Bokhoven (*1971), currently Associate Professor at ETH Zurich and Laboratory Head at the PSI, as Full Professor of Heterogeneous Catalysis in the Department of Chemistry and Applied Biosciences. Through his research, Jeroen van Bokhoven strives to achieve a fundamental understanding of the functions of heterogeneous catalysts, on the basis of which he seeks to develop new heterogeneous catalysts. His interests focus on the oxidation activity of carrier-supported precious metal catalysts and the nature of active sites in zeolite catalysts. The appointment of Jeroen van Bokhoven as Full Professor will strengthen the links between ETH Zurich and the PSI, where he and his laboratory carry out research and instrument development on a number of beamlines of the Swiss Synchrotron Light Source, as well as supporting user operation.
 

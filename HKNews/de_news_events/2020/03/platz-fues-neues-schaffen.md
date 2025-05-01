@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2020/03/platz-fues-neues-schaffen.html
 
-## Stärkere Gewichtung ­der ­­Engineering-Anteile
+**Date processed:** 2025-05-01
+
+## Main article
 
 Der enorme Wissenszuwachs durch Forschung und Technik in den letzten 30 Jahren führt dazu, dass auch ausgewiesene Expertinnen und Experten zusehends Mühe haben, mit der Entwicklung des Kenntnisstands Schritt zu halten. Vor diesem Hintergrund ergeben das hartnäckige Aneinanderreihen von ­Fakten und die systematische Vermittlung eines enzyklopädischen Wissens immer weniger Sinn.
 
@@ -10,13 +12,15 @@ Der enorme Wissenszuwachs durch Forschung und Technik in den letzten 30 Jahren f
 
 Wichtige Signale liefere jeweils die Unterrichtsbeurteilung, sagt er. Wenn sich viele Studierende beklagen, dass der Stoff zu dicht sei und ihnen die Zeit fehle, die Unterrichtsinhalte zu verarbeiten, deute das oft darauf hin, dass es Zeit sei für eine Entrümpelung. Ziel gemäss der Lehrpolicy der ETH ist es, den Studierenden vielfältige Möglichkeiten und Freiräume zu bieten, Höchstleistungen zu zeigen – auch ausserhalb von Leistungsnachweisen und Curricula. «Auf der Stufe der einzelnen Lehrveranstaltungen geschieht viel, das wir in der Zentrale nicht mitbekommen», sagt Vaterlaus. Werden jedoch grössere Änderungen geplant oder gar ganze Studiengänge neu gestaltet, beteiligen sich die Abteilung Lehrentwicklung und -technologie, das Team der Rechtsetzung Lehre und der Prorektor Curriculumsentwicklung von Anfang an am Prozess.
 
+## Stärkere Gewichtung ­der ­­Engineering-Anteile
+
 Mit der Studiengangsinitiative steht den Departementen ein Instrument zur Verfügung, mit dem sie sich einen finanziellen Spielraum eröffnen und Zeit gewinnen können für die Entwicklung von neuen Inhalten und Lehrformen. Wenn ein ganzer Studiengang neu strukturiert und umgebaut wird, so dass «kein Stein auf dem andern bleibt», entsteht Platz für Neues. Das lässt sich beispielsweise bei den beiden aktuellen Studiengangsinitiativen der Materialwissenschaft und der Biologie beobachten.
 
 Die Materialwissenschaften haben sich seit der Jahrtausendwende stark entwickelt. Die frühere Trennung der Materialklassen – etwa ­Metall, Keramik oder Polymere – hat an Bedeutung verloren, dafür stehen nun übergreifende Eigenschaften im Vordergrund. So gibt es etwa einen Lehrstuhl für komplexe oder einen für multifunktionale Materialien. «Wir möchten die neue Auslegung des Fachgebiets schon im ­Bachelor-Studium besser abbilden», sagt Sara ­Morgenthaler, Studienkoordinatorin am Departement Materialwissenschaft.
 
-Im Austausch mit Dozierenden und Studierenden, aber auch mit Ehemaligen, anderen Hochschulen und Unternehmen, ist skizziert worden, was Absolventinnen und Absolventen nach durchlaufener Ausbildung können müssen. So ist ein Ziel der Initiative «Materials ­Redesigned», dass das Curriculum die ­Studierenden auf die beruflichen Herausforderungen der Zukunft vorbereitet. Dies soll durch eine stärkere Gewichtung der Engineering- und ­Design-Anteile unter Beibehaltung der wissenschaftlichen Stringenz geschehen.
-
 ## Ausgerichtet an der Entwicklung des Lebens
+
+Im Austausch mit Dozierenden und Studierenden, aber auch mit Ehemaligen, anderen Hochschulen und Unternehmen, ist skizziert worden, was Absolventinnen und Absolventen nach durchlaufener Ausbildung können müssen. So ist ein Ziel der Initiative «Materials ­Redesigned», dass das Curriculum die ­Studierenden auf die beruflichen Herausforderungen der Zukunft vorbereitet. Dies soll durch eine stärkere Gewichtung der Engineering- und ­Design-Anteile unter Beibehaltung der wissenschaftlichen Stringenz geschehen.
 
 Es helfe, sich bei der Neuausrichtung eines Studiengangs grundlegende Fragen zu stellen und mit einem sogenannten Qualifikationsprofil zuerst die Ziele zu definieren, sagt Vaterlaus. Durch die Zielorientierung würden Dozierende die enge Fokussierung auf das eigene Fach­gebiet überwinden können. «Wenn statt der Frage, ob ich jetzt zwei oder drei Stunden für meine Vorlesung kriege, das ganze Studienprogramm im Fokus steht, beginnt meist ein sehr konstruktiver Prozess der Curriculumsentwicklung.»
 
@@ -28,9 +32,9 @@ Bisher diente das erste Jahr des Bachelor-Studiengangs weitgehend dazu, das unte
 
 Mit dem neuen Studiengang versuchen die Biologinnen und Biologen nun nachzuzeichnen, wie sich das Leben von Beginn an – vor etwa vier Milliarden Jahren – entwickelt hat und welche vielfältigen Lösungen dabei entstanden sind, um unter den jeweils vorherrschenden Bedingungen bestehen zu können. Vorholt und ihre Kolleginnen und Kollegen möchten den Unterricht auf den grundlegenden Erkenntnissen der letzten 20 Jahre aufbauen, die ein neues Licht auf biologische Kernfragen werfen. Was ist Leben, und was sind seine Voraussetzungen und Gesetzmässigkeiten? «Wir hoffen, dass wir die Neugierde und den kritischen Geist unserer Studierenden wecken, wenn wir von Anfang an Fragen aufwerfen, die noch offen sind, um so auch die Grenzen unseres Wissens aufzeigen», sagt Julia Vorholt.
 
-Der neue Studiengang soll mehr interdisziplinäre Elemente enthalten und engere Verbindungen als bisher zu Chemie, Physik, ­Mathematik und Informatik knüpfen. Geplant ist, die Unterrichtsinhalte der Biologie mit denen der anderen Fächer abzustimmen. «Mit diesem Anliegen sind wir überall auf offene ­Ohren gestossen», sagt Vorholt. Diese gegenseitige Ausrichtung und Vernetzung soll die anderen Disziplinen für die angehenden Biologinnen und Biologen relevanter und spannender machen. «So wird beispielsweise ein Kollege der Erdwissenschaften mit seiner Expertise aufzeigen, wie die Erde ohne Leben ausgesehen hat und welche dramatischen Veränderungen der Erde von biologischen Prozessen ausgelöst worden sind», führt Vorholt aus. «Das soll gleich am Anfang des Studiums den Blick für grosse Zusammenhänge öffnen, bevor wir in die molekularen Grundlagen der Lebensprozesse einsteigen.»
-
 ## Zukunftsweisende Lehrgänge
+
+Der neue Studiengang soll mehr interdisziplinäre Elemente enthalten und engere Verbindungen als bisher zu Chemie, Physik, ­Mathematik und Informatik knüpfen. Geplant ist, die Unterrichtsinhalte der Biologie mit denen der anderen Fächer abzustimmen. «Mit diesem Anliegen sind wir überall auf offene ­Ohren gestossen», sagt Vorholt. Diese gegenseitige Ausrichtung und Vernetzung soll die anderen Disziplinen für die angehenden Biologinnen und Biologen relevanter und spannender machen. «So wird beispielsweise ein Kollege der Erdwissenschaften mit seiner Expertise aufzeigen, wie die Erde ohne Leben ausgesehen hat und welche dramatischen Veränderungen der Erde von biologischen Prozessen ausgelöst worden sind», führt Vorholt aus. «Das soll gleich am Anfang des Studiums den Blick für grosse Zusammenhänge öffnen, bevor wir in die molekularen Grundlagen der Lebensprozesse einsteigen.»
 
 Im Unterschied zu den beiden erwähnten Studien­gangsinitiativen, die den aktuellen Kenntnisstand in ihrem Fach durch eine Neuanordnung der Lehrinhalte in den Unterricht einfliessen lassen, führt der Wissenszuwachs an anderen Orten zur Entstehung völlig neuer Lehr­gänge. So haben die beiden Schwesternschulen ETH Zürich und EPFL im Herbst 2019 den ­Master-Studiengang «Cyber Security» lanciert. «Mit dem gemeinsamen Ausbildungsgang bündeln wir die Stärken unserer beiden Hochschulen in einem für unser Land zentralen ­Bereich», sagt ETH-Präsident Joël Mesot.
 

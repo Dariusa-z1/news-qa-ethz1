@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2020/07/new-head-of-the-science-task-force.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH News: Mr Ackermann, how did your appointment as Chair of the National Science Task Force come about? Martin Ackermann: When I was asked as Vice-chair whether I wanted to take over the post of Chair, I was glad to accept as I'm convinced that the Task Force plays an important and effective role. It numbers around 70 scientists – including 12 colleagues from ETH Zurich – all of whom are volunteering their services free of charge in order to help getting Switzerland through this crisis as smoothly as possible. It's a privilege to be head of such a network, and particularly given the unique situation I'm obviously approaching the task with an enormous amount of respect. I'm also glad that we have learned an incredible amount over the past months. For example, how to work most effectively with the various authorities. We can definitely build on this.
@@ -19,6 +21,8 @@ Your predecessor Matthias Egger had a prominent public profile and occasionally 
 And what happens if your view differs from the FOPH? That's a good thing! If there's one lesson we have learned from the coronavirus crisis, it's that we can only solve problems by working together. Having different opinions and a healthy exchange of views is absolutely vital in such a unique situation, otherwise it might be possible to move too far in one direction or another. The Task Force therefore cooperates closely with the authorities and then communicates its opinions and arguments to the general public as well.
 
 What's your general assessment of how well Switzerland is coping with the pandemic? By all pulling together we have got through this crisis together comparatively well so far. We are all delighted to have managed to bring the number of infections down so low, and despite a recent spike, rates now seem to be stabilising again. It is much easier and less expensive to keep the epidemic under control when infection rates are low than if they are high. We are now in a phase where we need to consider where we go from here. Key for me is the belief that we can successfully beat this crisis by working together.
+
+## About the new head of the Task Force
 
 Martin Ackermann was born in Schwyz in 1971 and grew up in Zofingen. He studied Biology at the University of Basel and completed his PhD. in 2002 with a dissertation on ageing processes in bacteria. After his PhD he worked for two years as a postdoc at UC San Diego. Martin Ackermann joined ETH Zurich as a researcher in 2004 and has been full professor since 2015. He heads the research group studying the ecology of microbial systems at ETH Zurich and Eawag. His group investigates how microorganisms interact with each other and with the environment, and how they affect each other as a result. He is married and has two school-age children.
 

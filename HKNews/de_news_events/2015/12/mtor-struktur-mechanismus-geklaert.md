@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2015/12/mtor-struktur-mechanismus-geklaert.html
 
+**Date processed:** 2025-05-01
+
 ## Organisation von mTORC1 aufgeklärt
 
 Vor rund 25 Jahren entdeckte Michael Hall in Hefezellen das Protein «Target of Rapamycin» (TOR), ein Mitglied aus der Familie der Proteinkinasen, welches mittlerweile zu den meistuntersuchten Proteinen gehört. Später fand man auch ein TOR-Protein in S äugetierzellen, wo es als mTOR - mammalian Target of Rapamycin – bekannt ist.
@@ -10,15 +12,11 @@ Beim Menschen spielt mTOR eine bedeutende Rolle bei verschiedenen Krankheiten wi
 
 In Säugetierzellen liegt die Kinase TOR in zwei funktionell und strukturell verschiedenen Proteinkomplexen vor, mTORC1 und mTORC2. Beide Komplexe sind riesige Proteinstrukturen, die aus mTOR und weiteren Proteinen zusammengesetzt sind. In diesen beiden Konstellationen übt mTOR verschiedene Funktionen aus. Es kontrolliert das Wachstum und die Grösse von Zellen, regelt den Stoffwechsel und den Energiehaushalt. Nur mTORC1 lässt sich durch Rapamycin beeinflussen.
 
-## Neue Einsichten in Wirkmechanismus
-
 Wegen der immensen Komplexität der mTOR-Komplexe war es bis anhin sehr schwierig, Einblicke in deren Wirkmechanismen und Strukturen zu erhalten. Frühere Versuche, die detaillierte Struktur des Proteins und seiner Partner aufzuklären, sind bisher gescheitert.
 
 Nun hat eine gemeinsame Anstrengung des Teams von Timm Maier und Michael Hall vom Biozentrum der Universität Basel und der Gruppe von Professor Nenad Ban von der ETH Zürich Früchte getragen. Ein interdisziplinärer Ansatz, der biochemische, kristallographische und elektronenmikroskopische Methoden verknüpfte, ermöglichte es den Wissenschaftlern, noch nie dagewesene Einblicke in die Architektur des Proteinkomplexes mTORC1 zu erhalten. Die Kenntnis der Struktur ist wichtig, um die Wechselwirkung von mTORC1 mit Rapamycin zu verstehen.
 
 «Die Resultate dieser Arbeit, die nun in der Fachzeitschrift Science erschienen sind, sind für uns sehr aufregend. Sie erklären erstmals die Mechanismen, wie Proteinsubstrate zum aktiven Zentrum des mTORC1-Komplexes geführt werden, wie Rapamycin die Zusammensetzung des Komplexes verändert und dessen Substratspezifität beinflusst», erklärt Nenad Ban. Dies wiederum führe zu den beobachteten pharmazeutischen Effekten von Rapamycin.
-
-## Mehr als die Summe seiner Teile
 
 Der Aufbau dieses riesigen Proteinverbunds ist aussergewöhnlich und die Resultate der Studie geben präzise an, wo die Orte der Wechselwirkung der Partnerproteine liegen und wie diese angeordnet sind.
 
@@ -26,13 +24,13 @@ Auch Timm Maier haben die Ergebnisse der Studie überrascht: «Obwohl schon viel
 
 Mit ihrer Studie haben die Forscherinnen und Forscher die Basis für weitere Untersuchungen gelegt, die darauf abzielen, die Funktion jedes einzelnen Proteins des Komplexes noch besser zu verstehen.
 
-## Literaturhinweis
-
 So kann nun die Funktion jedes einzelnen Proteins im Komplex genau erforscht werden. «Es ist wenig sinnvoll, sich nur die Einzelteile alleine anzuschauen, denn die Interaktionen aller Proteine innerhalb des Verbunds sind entscheidend für dessen Funktion. Das Ganze ist weit mehr als nur die Summe seiner Teile», so Maier.
 
 Eine feine Regulation der TOR-Aktivität ist äusserst wichtig, denn kleinste Störungen können schwere Konsequenzen nach sich ziehen. So kann eine Fehlregulation von TOR gesteuerten Signalwegen zu einer Reihe von Krankheiten wie beispielsweise Krebs, Herz-Kreislauf- und neurodegenerativen Erkrankungen führen.
 
 Dieser Text basiert auf einer externe Seite Medienmitteilung des Biozentrums der Universität Basel.
+
+## Literaturhinweis
 
 Aylett CHS, Sauer E, Imseng S, Boehringer D, Hall MN, Ban N, Maier T. Architecture of Human mTOR Complex 1; Science, published online 17 December 2015. DOI: externe Seite 10.1126/science.aaa3870
 

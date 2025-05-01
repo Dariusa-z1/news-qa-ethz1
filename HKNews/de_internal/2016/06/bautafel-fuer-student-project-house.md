@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2016/06/bautafel-fuer-student-project-house.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 An der Ecke Tannenstrasse/Clausiusstrasse wird in diesen Tagen eine über sechs Meter breite Bautafel für das Student Project House-Projekt montiert, das bis Ende 2019 im ehemaligen Fernheizkraftwerk entsteht. In diesem können Studierende während ihres Studiums selbstständig und in interdisziplinären Gruppen eigene Projekte verfolgen. Mit einer Umgebung, die zum Ideenaustausch und zum Experimentieren einlädt, gibt die ETH Zürich ihren Studierenden Raum, um kreative Ideen zu entwickeln und umzusetzen.

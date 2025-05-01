@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2016/11/spielen-fuer-die-wissenschaft.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH-News: Herr Wallraff, Sie beteiligen sich mit Ihrem Labor am Big Bell Test? Worum geht es bei diesem Test? Andreas Wallraff: Der Big Bell Test ist ein gross angelegtes Experiment, an dem sich elf wissenschaftliche Institutionen weltweit und mindestens 30‘000 Mitspieler auf der ganzen Welt beteiligen. Es soll eine weitere Bestätigung für die Quantenmechanik liefern.
@@ -23,6 +25,8 @@ Können denn Menschen die Zufälligkeit garantieren? Die grundlegende Annahme be
 Wie genau läuft das Experiment ab? Die Versuchspersonen spielen am 30. November auf ihrem Computer oder Handy ein kleines Videospiel, das ein paar Minuten Zeit benötigt. Dabei erzeugen die Spieler eine Abfolge von 0 und 1. Die Daten werden dann nach Barcelona ans externe Seite Institute of Photonic Sciences übermittelt und von dort aus an die elf beteiligten Labors verteilt, wo Forscher entsprechende Experimente durchführen. Auch wir an der ETH Zürich werden an diesem Tag in unserem Labor Messungen machen. Dabei nutzen wir supraleitende elektronische Schaltungen als quantenmechanische Objekte.
 
 Was erhoffen Sie sich von diesem Experiment? Es würde mich sehr überraschen, wenn das Resultat zuungunsten der Quantenmechanik ausfallen würde. Ich erwarte also, dass diese Theorie nochmals bestätigt wird. Darüber hinaus erhoffe ich mir, dass mit diesem Experiment das Interesse an der Quantenmechanik gestärkt wird und dass wir die Neugier von möglichst vielen Menschen wecken können, sich mit diesem Teil der Physik zu befassen. Es ist wirklich eine faszinierende Welt!
+
+## Big Bell Test – so machen Sie mit
 
 Der Big Bell Test findet am 30. November 2016 statt. Mindestens 30'000 Menschen sollen an diesem Tag über ein Videospiel eine möglichst zufällige Sequenz von Zahlen erzeugen, welche dann für das Experiment verwendet werden. Auf der Webseite des Tests finden sich übrigens auch viele interessante Informationen zur Welt der Quantenphysik.
 

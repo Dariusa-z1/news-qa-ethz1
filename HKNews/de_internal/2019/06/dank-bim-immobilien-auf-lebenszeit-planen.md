@@ -2,23 +2,23 @@
 
 **Source:** de_internal/2019/06/dank-bim-immobilien-auf-lebenszeit-planen.html
 
-## Film
+**Date processed:** 2025-05-01
+
+## Main article
 
 Um die CO2 Emissionen aus Heizung und Kühlung auf dem Areal Hönggerberg signifikant zu reduzieren, entsteht gerade die HI-Verteilerzentrale . Sie ist ein Bestandteil des Anergienetzes auf dem Hönggerberg und eine von insgesamt fünf Verteilerzentralen. Künftig wird sie die HI-Gebäudegruppe mit Wärme und Kälte versorgen und dafür sorgen, dass die Abwärme einzelner Gebäude direkt in andere Gebäude umverteilt wird.
 
 Die Entwicklung der Energieversorgung und entsprechend des Anergienetzes ist wegweisend für einen nachhaltigen Betrieb der Gebäude und der Forschungsinfrastruktur auf dem Campus Hönggerberg. In messbaren Werten bedeutet dies laut Wolfgang Seifert, strategischer Leiter des Anergienetzes, «Aus der HI-Zentrale können neu 3.8 Gigawattstunde Wärme und 5.1 Gigawattstunde Kälte aus dem Anergienetz zur Verfügung gestellt werden. Dies substituiert fossile Wärme und mechanisch erzeugte Kälte aus der Energiezentrale HEZ.» Die ETH Zürich verfolgt das Ziel die CO2 Emissionen weiter zu senken, mit dem Anspruch im Jahr 2020 50 Prozent gegenüber 2006, im Jahr 2030 65 Prozent und im Jahr 2040 80 Prozent der fossilen Brennstoffe (Gas) einzusparen.
 
-## Staffnet
-
 Der sukzessive Ausbau des Anergienetzes beeinflusst sowohl den fossilen Energiebedarf als auch die Betriebskosten positiv und ist ein wichtiger Pfeiler für die Zielerfüllung zur Energieeffizienz, die der Massnahmenkatalog „Vorbildfunktion Bund im Energiebereich (VBE)“ zur Realisierung der Energiestrategie 2050 des Bundesrates fordert.
 
 Bei der HI-Verteilerzentrale wie auch bei der HIF Sanierung und Erweiterung , arbeitet die ETH Zürich mit der optimierten Planungsmethode «BIM» Building Information Modeling. Dabei werden die, während der Planung erstellten Daten und Informationen digital erfasst, kombiniert und zueinander referenziert. Laut Ueli Fergg, BIM Manager der ETH Zürich, entsteht dadurch rund um das Bauwerk eine Datenbank mit objektbezogenen, geometrischen und alphanumerischen Informationen. BIM bringt weit mehr Nutzen als die konventionelle CAD Planung und kann über den gesamten Lebenszyklus des Bauwerkes gewinnbringend sein, wie beispielsweise in der Qualitätssicherung, in der Projektplanung und in der Bewirtschaftung.
 
-## Newsletter abonnieren
-
 Laut Prof. Ulrich Weidmann, Vizepräsident für Personal und Ressourcen, hat die Abteilung Immobilien das Potenzial von BIM bereits 2014 erkannt und entsprechend mit den genannten Pilotprojekten gestartet sowie einen Leitfaden entwickelt. Damit sind die Grundsteine für die breite Einführung bei Neubauten und geeigneten weiteren Vorhaben gelegt.
 
 Durch die Zusammenführung der 3D Fachmodelle kann der Bauherrschaft oder den Nutzern schon in frühen Projektphasen ein visualisierter Zugang zum Projekt bereitet werden, wie folgender Film der HI-Verteilerzentrale zeigt.
+
+## Film
 
 Walter Iten, Abteilungsleiter Betrieb nahm an der Rohbaubegehung der HI-Verteilerzentrale teil und sagte danach: «Das war das erste Mal, dass ich BIM hautnah erleben durfte. Die entsprechende Bedeutsamkeit von BIM für die Planungs- und Unterhaltsqualität eines Gebäudes wurde durch den Rundgang mit 3D-Brille in der HI-Verteilerzentrale konkret erlebbar» und fügte an: «Ich bin gespannt, wie sich die Arbeit mit BIM in den nächsten Jahren verändern wird».
 

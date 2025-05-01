@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2020/09/neue-professorinnen-und-professoren-ernannt.html
 
-## Verleihung des Titels «Professor»
+**Date processed:** 2025-05-01
+
+## Main article
 
 Die neuen Professorinnen und Professoren im Kurzporträt:
 
@@ -17,6 +19,8 @@ Prof. Dr. Marina Krstic Marinkovic (*1984), zurzeit Juniorprofessorin an der Lud
 Prof. Dr. Leonardo Senatore (*1978), zurzeit ausserordentlicher Professor an der Stanford University in Palo Alto, USA, zum ordentlichen Professor für Theoretische Physik am Departement Physik. Die Forschung von Leonardo Senatore beschäftigt sich mit theoretischer Kosmologie, insbesondere mit der Analyse der kosmischen Hintergrundstrahlung, der Struktur des Universums auf grossen Längenskalen sowie mit Gravitationswellen. Er hat neuartige Methoden für die quantitative Beschreibung kosmologischer Phänomene entwickelt und wurde mit dem New Horizons in Physics Prize ausgezeichnet, einem renommierten Nachwuchspreis. Durch die Ernennung von Leonardo Senatore verstärkt die ETH Zürich Forschung und Lehre im Bereich der fundamentalen Physik und der theoretischen Kosmologie.
 
 Prof. Dr. Shinichi Sunagawa (*1978), zurzeit Assistenzprofessor an der ETH Zürich, zum ausserordentlichen Professor für Mikrobiomforschung am Departement Biologie. Shinichi Sunagawas Forschung konzentriert sich auf bakterielle Lebensgemeinschaften in Ozeanen und dem menschlichen Darm. Unter anderem koordiniert er das internationale Grossprojekt TARA Oceans, das die biologische Vielfalt der Weltmeere analysiert. Mit der Berufung von Shinichi Sunagawa verstärkt das Departement Biologie die interdepartementale Zusammenarbeit in den Bereichen Umwelt, Gesundheit und Medizin. Seine Forschung wird weitere Synergien mit der Universität Zürich und dem Universitätsspital Zürich erschliessen sowie das nationale Forschungsprogramm NCCR Microbiomes verstärken.
+
+## Verleihung des Titels «Professor»
 
 Prof. Dr. Marcy Zenobi-Wong (*1963), zurzeit ausserordentliche Professorin an der ETH Zürich, zur ordentlichen Professorin für Gewebetechnologie und Biofabrikation am Departement Gesundheitswissenschaften und Technologie. Marcy Zenobi-Wong konzentriert sich in ihrer Forschung auf die Reparatur von Knorpelgewebe und die Biofabrikation. Durch ihre anerkannte Expertise in Bioprinting sowie der 2-Photon-Polymerisation, der Polymerchemie und Gewebebiologie gilt sie als führende Expertin für die Entwicklung und Anwendung von neuen Biomaterialen. Ihre Fähigkeit, mechanische und biologische Sichtweisen zu kombinieren, ermöglichen es Marcy Zenobi-Wong, innovative Wege zu gehen, um neuestes Wissen in der Zell- und Mechanobiologie auf regenerative Methoden in der Gewebetechnologie anzuwenden.
 

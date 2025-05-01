@@ -2,21 +2,23 @@
 
 **Source:** en_news_events/2014/02/stroke.html
 
-## The healthy half of the brain assumes control
+**Date processed:** 2025-05-01
+
+## Main article
 
 After a stroke, the brain stem (purple) plays an important role in the recovery of motor functions. (Graph: iStockphoto – Yakobchuk)
 
-Around 16,000 people in Switzerland suffer a stroke every year. Often the result of a sudden occlusion of a vessel supplying the brain, it is the most frequent live-threatening neurological disorder. In most cases, it has far-reaching consequences for survivors. Often the stroke sufferers have to cope with handicaps and rehabilitation is a long process. The brain does, however, have a “considerable capacity for regeneration” explains Lukas Bachmann, a member of Professor Martin Schwab’s research team . He found that the brainstem, the oldest region in the brain, could play an important role in recovery. The results have now been published in “The Journal of Neuroscience”.
+## The healthy half of the brain assumes control
 
-## Sprouting of neurons from the brainstem
+Around 16,000 people in Switzerland suffer a stroke every year. Often the result of a sudden occlusion of a vessel supplying the brain, it is the most frequent live-threatening neurological disorder. In most cases, it has far-reaching consequences for survivors. Often the stroke sufferers have to cope with handicaps and rehabilitation is a long process. The brain does, however, have a “considerable capacity for regeneration” explains Lukas Bachmann, a member of Professor Martin Schwab’s research team . He found that the brainstem, the oldest region in the brain, could play an important role in recovery. The results have now been published in “The Journal of Neuroscience”.
 
 A stroke in the cerebral cortex frequently leads to motor constraints of one half of the body, to what is known as hemiparesis. This is due to the loss of neuron pathways which transmit signals from the cortex to the spinal cord. As these pathways are crossed, the side of the body contralateral to the affected half of the brain is affected. The major impairments at the beginning are often only temporary and stroke sufferers can sometimes stage an amazing recovery. “The side of the body affected is increasingly controlled by the ipsilateral side of the cortex, i.e. the healthy side”, explains Lukas Bachmann. As the neuron pathways are crossed, this raised the following question for the neuroscientists: by which pathway are the signals rerouted from the motor cortex to the ipsilateral parts of the spinal cor
 
 In their study in mice the researchers in Martin Schwab’s team now demonstrate that the brainstem probably plays a key role in the rerouting of neural impulses. Images of the brain show that after a major stroke nerve fibers from specific core regions of the brain sprout into the area of the spinal cord that had lost its input after a stroke. “At the same time, more fibers sprout from the intact cortex into these same regions of the brainstem”, continues Lukas Bachmann. These changes in the neuronal circuits may mediate the non-crossed flow of nerve impulses after a stroke. “This could turn out to be a key mechanism which facilitates recovery after a stroke”, says the brain researcher. The scientists now want to use these findings to steer the sprouting of neurons in various areas of the brain by means of targeted therapy to maximise the recovery of motor functions.
 
-## Further reading
-
 This text was written by Media Relations of the University of Zurich and first published under www.mediadesk.uzh.ch .
+
+## Further reading
 
 Bachmann LC, Lindau NT, Felder P, Schwab ME: Sprouting of Brainstem–Spinal Tracts in Response to Unilateral Motor Cortex Stroke in Mice. The Journal of Neuroscience, February 25, 2014. DOI: 10.1523/JNEUROSCI.4384-13.2014
 

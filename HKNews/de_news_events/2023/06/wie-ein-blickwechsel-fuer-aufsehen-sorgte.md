@@ -2,15 +2,17 @@
 
 **Source:** de_news_events/2023/06/wie-ein-blickwechsel-fuer-aufsehen-sorgte.html
 
-## Die Kosten minimieren
+**Date processed:** 2025-05-01
+
+## Main article
 
 Inverse Probleme sind das Spezialgebiet von Yunan Yang. «Unser Alltag ist voll davon», erklärt sie: «Ultraschall ist zum Beispiel ein inverses Problem.» Medizinische Ultraschall-Geräte senden Schallwellen ausserhalb unseres Hörbereichs aus, die durch den Körper wandern, und zeichnen die zurückgeworfenen Wellen wieder auf. Eine Software verarbeitet die Wellensignale und zeigt, was im Körper vorgeht. «Aus den Wellen das Bild des Babys zu ermitteln, ist ein inverses Problem», sagt die 32-jährige Mathematikerin, die seit Januar 2022 als «Advanced Fellow» am ETH-Institut für theoretische Studien (ETH-ITS) gearbeitet hat: «Ich wuchs in China auf und lebte danach acht Jahre in den USA, aber nie in Europa», erzählt Yang: «Deshalb wollte ich nach Zürich kommen und mit Forschenden in Europa zusammenarbeiten.»
 
 Auch das Erfassen von Erdbeben lässt sich als inverses Problem betrachten. Aus den seismischen Signalen, welche die Erdbebenstationen messen, geht hervor, wo und wie tief unter der Oberfläche sich die Quelle des Bebens befindet. «Auch hier geht es um Signalverarbeitung», sagt Yang. Mit ihrer Lösung des inversen Problems bei seismischen Wellen mithilfe einer weiteren mathematischen Theorie sorgte sie in der Fachwelt für Aufsehen. Diese Theorie heisst «optimaler Transport».
 
-«Es handelt sich dabei um eine sehr schöne Theorie, die auf eine einfache Frage zurückgeht, die sich der französische Mathematiker Gaspard Monge 1781 stellte», erzählt Yang: Wie kann man einen grossen Haufen Sand am besten von einem Ort zu einem anderen transportieren, so dass die Kosten möglichst gering sind? Man summiert die Kosten sämtlicher Bewegungen, also Masse mal Entfernung, und versucht diesen Wert zu minimieren, um den optimalen Transportplan zu bestimmen.
+## Die Kosten minimieren
 
-## Eine wunderbare Begegnung
+«Es handelt sich dabei um eine sehr schöne Theorie, die auf eine einfache Frage zurückgeht, die sich der französische Mathematiker Gaspard Monge 1781 stellte», erzählt Yang: Wie kann man einen grossen Haufen Sand am besten von einem Ort zu einem anderen transportieren, so dass die Kosten möglichst gering sind? Man summiert die Kosten sämtlicher Bewegungen, also Masse mal Entfernung, und versucht diesen Wert zu minimieren, um den optimalen Transportplan zu bestimmen.
 
 «Das Problem des optimalen Transports ist einfach zu formulieren, aber nur sehr schwer zu lösen», sagt die Mathematikerin: «Für Monge war es nicht lösbar.» Erst in den 1940er Jahren konnte das Problem soweit vereinfacht werden, dass es sich zwanzig Jahre später dank effizienteren Computern lösen liess. «Seit den 1990er Jahren hat sich die Theorie vervollständigt; es gibt Erweiterungen, schnelle Algorithmen und Anwendungen», sagt Yang.
 
@@ -18,15 +20,13 @@ Zurück zu den seismischen Wellen. «Wir können nicht 200 Kilometer tief in die
 
 Ihre mathematische Karriere verdanke sie einer wunderbaren Begegnung, erzählt Yang. Sie hatte an der chinesischen Zhejiang-Universität das Naturwissenschaftsstudium begonnen und nach einem Jahr festgestellt, dass Mathematik zwar das härteste Fach war, sie aber am meisten faszinierte, so dass sie es als Hauptfach wählte. Als Studentin holte sie als Freiwillige Gäste vom Flughafen Shanghai ab, darunter Luis Caffarelli und seine Gattin Irene Gamba, beide argentinisch-amerikanische Mathematiker:innen, die an der Universität von Texas in Austin Professuren haben. Caffarelli gehörte schon damals zu den Koryphäen auf dem Gebiet der partiellen Differenzialgleichungen und erhielt kürzlich den Abel-Preis, die höchste Auszeichnung für Mathematiker:innen über 40.
 
-## Mathematik-Treffpunkt ETH
-
 «Ich war sehr aufgeregt und habe die beiden auf der zweistündigen Fahrt vom Flughafen zur Universität mit Fragen gelöchert, was aus heutiger Sicht ziemlich rücksichtslos war», sagt Yang: Caffarelli und Gamba beantworteten die Fragen der Studentin geduldig und ermutigten sie, sich in Austin für ein Doktorandenprogramm zu bewerben. Yang reüssierte: «Ein Jahr später war ich in Austin, um meine Doktorarbeit zu starten und traf beide wieder.»
+
+## Mathematik-Treffpunkt ETH
 
 Zu den Fakultätsmitgliedern in Austin zählte damals der italienische Mathematiker Alessio Figalli, der 2016 an die ETH Zürich berufen und 2018 mit der Fields-Medaille ausgezeichnet wurde, eine Art Nobelpreis für Mathematiker:innen unter 40 Jahren. 2015 besuchte Yang an der Universität von Texas in Austin Figallis Kurse, der ebenfalls im Gebiet des optimalen Transports arbeitet. Nach ihrer Doktorarbeit wechselte sie ans Courant-Institut der Universität von New York, der Nummer 1 in der angewandten Mathematik in den USA. Dort traf sie auf Afonso Bandeira, der 2019 an die ETH berufen wurde. Es war deshalb naheliegend, dass sie sich nach Ablauf ihrer Postdoc-Stelle in den USA als «Advanced Fellow» am ETH-ITS bewarb und erneut reüssierte.
 
 Die ETH sei weltweit einer der besten Orte, um zu forschen. Zusammen mit Figalli und einem Kollegen der EPF Lausanne organisierte sie kürzlich in Zürich einen internationalen Workshop zu Theorie und Anwendung des optimalen Transports.
-
-## Der Frustration davonlaufen
 
 Der Wechsel der Metrik, um Wellen zu messen und so inverse Probleme mithilfe des optimalen Transports zu lösen, hat sich inzwischen durchgesetzt. Die Werkzeuge aus dieser Theorie werden heute für viele verschiedene Anwendungen eingesetzt. Man kann sie beispielsweise auch beim maschinellen Lernen anwenden, da man dort ebenfalls versucht, Daten in Übereinstimmung zu bringen. Oder bei der Bestimmung der Struktur von Molekülen durch Tiefsttemperatur-Elektronenmikroskopie.
 

@@ -2,19 +2,19 @@
 
 **Source:** en_news_events/2020/05/portrait-jan-wegner.html
 
+**Date processed:** 2025-05-01
+
 ## Fighting famine with software
 
 “I want my research to move things in the right direction and help our planet take a step forward,” says Wegner. However, he and his team realise that this is hardly possible to achieve from their lab in Zurich. For that reason, they have made EcoVision Lab's software, with all of its functionalities and algorithms, freely available for download and use by public platforms anywhere in the world. “These programmes are highly automated. The results are therefore objective and comparable,” explains Wegner. This means that scientists can obtain meaningful insights on a global level regarding critical issues such as biodiversity.
 
-Wegner says that making the software freely available goes beyond the goal of having comparable data sets: “I believe that remote sensing and machine learning have great potential to drive development in impoverished regions. Take farmland as an example – we could use satellite images and artificial intelligence to estimate yields and strike back against famine.”
-
 ## Inspired by the Dalai Lama
+
+Wegner says that making the software freely available goes beyond the goal of having comparable data sets: “I believe that remote sensing and machine learning have great potential to drive development in impoverished regions. Take farmland as an example – we could use satellite images and artificial intelligence to estimate yields and strike back against famine.”
 
 Wegner was first drawn to physics and philosophy as fields of study. This combination was not possible, however, so he needed a plan B. As his father was a geomatics specialist with his own surveying office, he decided to study geodesy and geoinformatics. After completing his studies at Leibniz University Hannover, the German-born Wegner knew that he wanted to go into research. “When I was studying, I wanted more freedom to pursue my own ideas, but it was often just about working through assignments and tests, which wasn't my style,” says Wegner. “What I really wanted to do was be innovative and develop things that are useful to people.”
 
 One of his sources of inspiration? The Dalai Lama. The spiritual leader visited Wegner's hometown of Oldenburg in 1998, and Wegner – then just 16 years old – had the opportunity to meet him and listen to his speech. “He truly impressed me with his balanced yet enthusiastic manner and his commitment to social issues,” recalls Wegner.
-
-## Just say no to illegal chocolate
 
 After completing his doctoral thesis and backpacking through South America, he decided to come to ETH, where he received a scholarship for postdocs initiated by the university to promote up-and-coming researchers. Since then, he has been part of Konrad Schindler's Photogrammetry and Remote Sensing research group, where he dedicates himself to issues close to his heart.
 

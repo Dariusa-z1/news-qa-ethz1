@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2014/06/life-is-keeping-horizon-2020-in-sight.html
 
+**Date processed:** 2025-05-01
+
 ## Research in international teams
 
 Since Switzerland voted to curb immigration in February, it has been classed as a third country rather than an associated country in relation to Erasmus+ and Horizon 2020. Moreover, talks with the EU on what will happen next to the links between Swiss research and Europe are currently suspended.
@@ -9,8 +11,6 @@ Since Switzerland voted to curb immigration in February, it has been classed as 
 “The priority is to ensure that, if possible, Switzerland reestablishes its association as soon as possible and that our researchers are included in the European Research Council’s evaluations,” says ETH President Ralph Eichler.
 
 Until then, he welcomes the interim solutions and the temporary backup measures proposed by the Federal Council and the Swiss National Science Foundation, because his “main concern is the unclear situation for students and researchers”.
-
-## Strong women in chemistry
 
 Internationalism and multicultural teams are a reality at ETH Zurich, an example of which is Juliana Sutanto‘s team: The Indonesian assistant professor of management information systems has seven different nationalities in her team at D-MTEC. She believes that this mainly brings advantages, but also presents some challenges. Interviewed by life, she explains why.
 

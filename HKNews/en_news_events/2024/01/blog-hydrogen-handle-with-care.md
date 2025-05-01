@@ -2,13 +2,17 @@
 
 **Source:** en_news_events/2024/01/blog-hydrogen-handle-with-care.html
 
-## About the author
+**Date processed:** 2025-05-01
+
+## Main article
 
 When produced and used properly, hydrogen can potentially play many roles in the transition towards clean energy and industrial systems. Hydrogen can directly replace natural gas and coal in industrial and manufacturing processes where high temperatures are needed, replace natural gas and heating oil to keep buildings warm, and replace gasoline and diesel fuel to power cars and trucks.
 
 When combined with CO 2 captured directly from the air, hydrogen can be used to manufacture carbon-neutral synthetic fuels, which could replace gasoline, heating oil, diesel and jet fuel, as well forming the feedstock for carbon-neutral chemicals and plastics.
 
 And hydrogen can be used as a storage medium for electricity, outperforming batteries when it comes to storing large volumes of electricity over monthly or seasonal time scales. But hydrogen also poses several challenges.
+
+## About the author
 
 Anthony Patt is a professor of climate policy at ETH Zurich.
 
@@ -30,11 +34,11 @@ The answer is that we don’t know, because very little research has been done. 
 
 There are powerful lobbying groups urging policy makers to expand the use of hydrogen as extensively as possible. The fact that these lobbyists are funded by oil and gas producers is no surprise. Not only does blue hydrogen make use of natural gas, but the business of distributing and selling hydrogen also matches the fossil fuel companies’ competitive advantage in the energy industry. 8 Many people, me included, are extremely concerned about what ambitious plans for hydrogen usage could lead to, both for energy consumers and for the climate.
 
+## Restricting hydrogen to sensible applications
+
 Anywhere that direct electrification is possible – such as for heat pumps and battery electric cars and trucks – the costs to consumers of electrifying are far lower than switching to hydrogen or hydrogen-based fuels. Our energy models also show that costs for electricity consumers are far lower when policymakers guarantee supply security by maintaining European electricity trade, rather than moving towards independent national systems that require hydrogen storage to overcome local seasonal imbalances. 9
 
 Across Europe as a whole there is a balanced supply of non-fossil electricity – wind, solar, hydropower and nuclear – which can supply year-round power without losing half of the energy to the conversion losses involved in storage. On top of these concerns come the recent insights into hydrogen’s contribution to global warming.
-
-## How much hydrogen would actually leak?
 
 Policy makers are already facing challenges scaling up clean electricity production fast enough to phase out fossil generation over the next 20 years; adding the electricity demand of inefficient green hydrogen production will make this even harder. 10 If energy users become locked-in to using hydrogen, but the clean electricity isn’t there to produce sufficient green hydrogen, then we will have to turn to blue hydrogen as a stop gap measure. That could be a catastrophe for the climate.
 
@@ -49,8 +53,6 @@ Hydrogen will play a role in cleaning up the energy system and stopping climate 
 2 A joint ETHZ – EPFL initiative, the Coalition for Green Energy & Storage , plans to address many of the issues associated with hydrogen storage. The author is not associated with this initiative.
 
 3 Hydrogen tends not to exist in nature in pure form, namely H 2 . Recently there has been speculation that large H 2 deposits may exist in certain deep rock formations. If this is true, and if the costs of extracting this hydrogen are not prohibitively high, then this could be a game changer. See: Milkov AV, 2022: Molecular hydrogen in surface and subsurface natural gases: Abundance, origins and ideas for deliberate exploration. Earth-Science Rev. , 230, 104063.
-
-## Restricting hydrogen to sensible applications
 
 4 Hauglustaine, D. et al., 2022: Climate benefit of a future hydrogen economy . Commun. Earth Environ. , 3 (1), 295.
 

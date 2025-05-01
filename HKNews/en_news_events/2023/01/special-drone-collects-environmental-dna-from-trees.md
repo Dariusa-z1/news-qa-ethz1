@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2023/01/special-drone-collects-environmental-dna-from-trees.html
 
-## How the drone collects material
+**Date processed:** 2025-05-01
+
+## Main article
 
 Ecologists are increasingly using traces of genetic material left behind by living organisms left behind in the environment, called environmental DNA (eDNA), to catalogue and monitor biodiversity. Based on these DNA traces, researchers can determine which species are present in a certain area.
 
@@ -10,25 +12,27 @@ Obtaining samples from water or soil is easy, but other habitats – such as the
 
 Researchers at ETH Zurich and the Swiss Federal Institute for Forest, Snow and Landscape Research WSL, and the company SPYGEN have partnered to develop a special drone that can autonomously collect samples on tree branches.
 
-The drone is equipped with adhesive strips. When the aircraft lands on a branch, material from the branch sticks to these strips. Researchers can then extract DNA in the lab, analyse it and assign it to genetic matches of the various organisms using database comparisons.
+## How the drone collects material
 
-## Preparing rainforest operations at Zoo Zurich
+The drone is equipped with adhesive strips. When the aircraft lands on a branch, material from the branch sticks to these strips. Researchers can then extract DNA in the lab, analyse it and assign it to genetic matches of the various organisms using database comparisons.
 
 But not all branches are the same: they vary in terms of their thickness and elasticity. Branches also bend and rebound when a drone lands on them. Programming the aircraft in such a way that it can still approach a branch autonomously and remain stable on it long enough to take samples was a major challenge for the roboticists.
 
 „Landing on branches requires complex control,” explains Stefano Mintchev, Professor of Environmental Robotics at ETH Zurich and WSL. Initially, the drone does not know how flexible a branch is, so the researchers fitted it with a force sensing cage. This allows the drone to measure this factor at the scene and incorporate it into its flight manoeuvre.
 
+## Preparing rainforest operations at Zoo Zurich
+
 Researchers have tested their new device on seven tree species. In the samples, they found DNA from 21 distinct groups of organisms, or taxa, including birds, mammals and insects. „This is encouraging, because it shows that the collection technique works,“ says Mintchev, who co-authored the study that has just appeared in the journal Science Robotics .
 
 The researchers now want to improve their drone further to get it ready for a competition in which the aim is to detect as many different species as possible across 100 hectares of rainforest in Singapore in 24 hours.
-
-## Reference
 
 To test the drone’s efficiency under conditions similar to those it will experience at the competition, Mintchev and his team are currently working at the Zoo Zurich’s Masoala Rainforest. „Here we have the advantage of knowing which species are present, which will help us to better assess how thorough we are in capturing all eDNA traces with this technique or if we’re missing something,“ Mintchev says.
 
 For this event, however, the collection device must become more efficient and mobilize faster. In the tests in Switzerland, the drone collected material from seven trees in three days; in Singapore, it must be able to fly to and collect samples from ten times as many trees in just one day.
 
 Collecting samples in a natural rainforest, however, presents the researchers with even tougher challenges. Frequent rain washes eDNA off surfaces, while wind and clouds impede drone operation. „We are therefore very curious to see whether our sampling method will also prove itself under extreme conditions in the tropics,” Mintchev says.
+
+## Reference
 
 Aucone E, Kirchgeorg E, Valentini A, Pellissier L, Deiner K, Mintchev S: Drone-assisted collection of environmental DNA from tree branches for biodiversity monitoring. Science Robotics, 18 January 2023. DOI 10.1126/scirobotics.add5762
 

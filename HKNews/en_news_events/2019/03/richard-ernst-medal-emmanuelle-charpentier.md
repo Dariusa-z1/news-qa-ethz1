@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2019/03/richard-ernst-medal-emmanuelle-charpentier.html
 
-## Richard R. Ernst Lecture 2019
+**Date processed:** 2025-05-01
+
+## Main article
 
 Everyone’s talking about Crispr-Cas9, a molecular tool that allows biologists to make changes to organisms’ gene sequences relatively easily. This method has revolutionised genetic engineering. It has been actively applied for several years now, for example in crop cultivation. In the future, scientists hope to use Crispr to cure genetic diseases or AIDS.
 
@@ -10,9 +12,9 @@ Professor Emmanuelle Charpentier, Director at the Max Planck Institute for Infec
 
 “With the Richard R. Ernst Gold Medal, we honour researchers who have made discoveries that go beyond pure science to have a major impact on society as well,” says Beat Meier, Professor at the Laboratory of Physical Chemistry. There is no question that this applies to Crispr-Cas9, which Professor Charpentier helped discover. The implications of this method go beyond biology and biotechnology, as it also holds out hope for healing illnesses that have thus far proved incurable. Meier points out that the rapid spread of Charpentier’s discovery also attests to its significance and applicability: “Whereas other discoveries establish themselves in the scientific community slowly and find application only after several decades, the Crispr-Cas9 method spread to other research labs around the globe in just a few years.”
 
-Lecture by Professor Emmanuelle Charpentier: “CRISPR-Cas9 – A Game Changer in Gene Editing and Genome Engineering”
+## Richard R. Ernst Lecture 2019
 
-## ETH podcasts on the subject
+Lecture by Professor Emmanuelle Charpentier: “CRISPR-Cas9 – A Game Changer in Gene Editing and Genome Engineering”
 
 Friday, 29 March 2019, 4.00 p.m., ETH Zurich, Main Building, Auditorium Maximum (HG F30), Rämistrasse 101. Doors open at 3.30 p.m.The event will be held in English and admission is free.
 
@@ -21,6 +23,8 @@ The lecture will be followed by a panel discussion, which in addition to the spe
 More information can be found here
 
 The Richard R. Ernst Lecture is held every two years in honour of the 1991 winner of the Nobel Prize in Chemistry. Organised by the Laboratory of Physical Chemistry at ETH Zurich, the lecture is intended to promote dialogue between researchers and the public and raise awareness of fundamental issues concerning the future. The Richard R. Ernst Gold Medal is conferred upon individuals who have made outstanding contributions to society and science. Previous honourees include Gottfried Schatz, Kofi Annan, Roger Penrose and Felicitas Pauss.
+
+## ETH podcasts on the subject
 
 #CRISPRbabies - a new challenge in research ethics? One ETH - two generations (discussion with participation of ETH professor emeritus Richard Ernst)
 

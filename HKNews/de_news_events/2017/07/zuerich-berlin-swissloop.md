@@ -2,13 +2,15 @@
 
 **Source:** de_news_events/2017/07/zuerich-berlin-swissloop.html
 
-## Realitätscheck in Los Angeles
+**Date processed:** 2025-05-01
+
+## Main article
 
 Nach PayPal, SpaceX und Tesla widmet sich Elon Musk seit ein paar Jahren einem neuen Projekt: Mit Hilfe eines Studentenwettbewerbs möchte er innovative Transportmöglichkeiten fördern. 1200 Teams aus der ganzen Welt haben sich letzten September beworben, um eine Transportkapsel, einen sogenannten Pod, möglichst schnell durch eine Vakuumröhre zu schicken. Wie genau sie das anstellen, war den Studierenden selbst überlassen. Unter den 27 vielversprechendsten Konzepten ist auch jenes von Swissloop, einem Verein von Studierenden der ETH Zürich und anderer Schweizer Hochschulen.
 
 Nachdem die Studierenden der Bereiche Maschinenbau, Elektrotechnik, Informatik, Materialwissenschaft, Physik und Wirtschaft über Monate intensiv an ihrem Pod gearbeitet haben, präsentierten sie ihn gestern Abend erstmals der Öffentlichkeit. Die elegante weisse Kapsel, mit einer Länge von 3,5 Metern, erinnert in ihrer Form an einen Wal. Doch besonders spannend ist ihr technisches Innenleben. Um den Pod möglichst schnell voranzubringen, haben sich die jungen Forschenden nämlich für eine Mischung aus Levitation und Kaltgasantrieb entschieden: Die Magnetschienen auf der Unterseite ihres Pods erzeugen Wirbelströme auf der Aluminimumplatte in der Röhre, wenn sie über die Platte geschoben werden. Der Pod beginnt zu schweben. Beschleunigt wird die Kapsel durch einen Kaltgasantrieb, indem – ähnlich wie bei einer Rakete – komprimierte Luft durch den Druckunterschied aus dem Pod in der Vakuumröhre geschossen wird. Auf diese Weise soll auf der 1.25 Kilomter langenTeststrecke eine Höchstgeschwindigkeit von bis zu 400 km/h erreicht werden, ohne dass Emissionen entstehen. Auf längeren Strecken sollen bis zu 1200 km/h möglich sein. In Zukunft sollen damit grosse Distanzen, wie etwa die Strecke von Zürich nach Berlin, in nur 35 Minuten zurückgelegt werden können.
 
-## Geborene Jungunternehmer?
+## Realitätscheck in Los Angeles
 
 Ob diese Technologie in der Realität aber tatsächlich funktioniert, wird sich erst am letzten Augustwochenende zeigen. Beim grossen Finale in Los Angeles wird Swissloop seinen Pod erstmals testen. Sollten alle Sicherheitstests erfolgreich ablaufen, wird sich das einzige Schweizer Team beim Geschwindigkeitswettbewerb mit den anderen Finalisten messen. Wobei das Gewinnen nicht im Vordergrund steht, sagt Luca Di Tizio, ETH-Student und CEO von Swissloop. Alleine, dass sie in ihren Pod in den USA präsentieren dürften, sei für ihn und sein Team eine grosse Ehre. «Die Arbeit hat uns allen sehr viel Spass gemacht», erzählt Di Tizio.
 

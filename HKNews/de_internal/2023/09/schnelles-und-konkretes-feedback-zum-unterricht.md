@@ -2,21 +2,23 @@
 
 **Source:** de_internal/2023/09/schnelles-und-konkretes-feedback-zum-unterricht.html
 
-## Anmeldung zum Peer Feedback on Teaching
+**Date processed:** 2025-05-01
+
+## Main article
 
 Dozierende fühlen sich manchmal als Einzelkämpfer:innen. Denn im Gegensatz zur Forschung ist ein regelmässiger Austausch mit Kolleginnen und Kollegen im Lehralltag oft nicht etabliert. Das soll sich nun ändern. Rektor Günther Dissertori hat dafür zusammen mit der Konferenz des Lehrkörpers die Initiative «Peer Feedback on Teaching» lanciert.
 
-## Schnelles und konkretes Feedback
+## Anmeldung zum Peer Feedback on Teaching
 
 Dozierende müssen lediglich mitteilen, für welche ihrer Lehrveranstaltungen sie Peer Feedback wünschen, und sie können nähere Angaben machen, mit wem sie sich gern austauschen würden. LET übernimmt danach die «Partnersuche» und stellt Leitfäden für die Vorbereitung, den Unterrichtsbesuch und das Debriefing zur Verfügung. Jetzt anmelden.
 
-## Didactic Fellows als Ansprechpartner für die Lehre
+## Schnelles und konkretes Feedback
 
 Im Frühlingssemester 2023 fanden bereits die ersten Besuche statt. Manuela Fischer ist Dozentin am Departement Informatik und gibt Grundlagenvorlesungen für Studierende anderer Studiengänge. Sie meldete sich für das Peer Feedback an, weil sie wegen des 2-Jahres-Rhythmus der Unterrichtsevaluationen nur selten Rückmeldungen zu ihren Vorlesungen erhielt. «Die Beobachtungen von Kollegen sind zudem auch konkreter, ihre Anregungen kann ich direkt nutzen, um meinen Unterricht zu verbessern», sagt sie.
 
-## Immer aktuell informiert
-
 Ziel der Initiative sei, eine Kultur der offenen Türen zu etablieren, sagt Günther Dissertori. «Kaum etwas bietet mehr Inspiration und Aha-Effekte als ein Feedback von Kolleginnen. In der Forschung ist der gegenseitige, kritische Austausch selbstverständlich, in der Lehre leider noch nicht.»
+
+## Didactic Fellows als Ansprechpartner für die Lehre
 
 Seinen eigenen Aha-Moment erlebte Dissertori im LET-Kurs «Teaching at ETH» bei Sarah Shephard. Gegenseitige Unterrichtsbesuche sind ein essenzieller Teil dieses Kurses und die Auseinandersetzung mit neuen Methoden geschieht dort vertieft anhand eines didaktischen Experiments im eigenen Kurs. Mit dem neuen Angebot möchte Dissertori solche Erfahrungen auch ausserhalb des Kurses möglich machen und dadurch die Hürde senken, sich mit dem eigenen Unterricht auseinanderzusetzen.
 

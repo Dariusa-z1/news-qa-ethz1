@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2022/10/eth-zuerich-baut-ihre-mitgliedschaft-beim-publikationsportal-scipost-aus.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Seit dem Start der Mitgliedschaft der ETH Zürich 2020 ist das Publikationsvolumen von ETH-Wissenschaftlerinnen und -Wissenschaftlern bei externe Seite SciPost stetig gestiegen und die ETH Zürich hat inzwischen ihre finanzielle Unterstützung ausgebaut.

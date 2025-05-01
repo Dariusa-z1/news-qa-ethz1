@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2015/03/between-the-lecture-theatre-and-the-trenches-members-of-eth-zurich-involved-in-the-first-world-war.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 The ETH Zurich University Archives will be presenting its resources on the subject of "Zwischen Hörsaal und Schützengraben: ETH-Angehörige im Ersten Weltkrieg" (Between the lecture theatre and the trenches: members of ETH Zurich involved in the First World War). The tour will be in German. Meeting point: ETH-Bibliothek, circulation desk ( main building , floor H). No registration necessary.

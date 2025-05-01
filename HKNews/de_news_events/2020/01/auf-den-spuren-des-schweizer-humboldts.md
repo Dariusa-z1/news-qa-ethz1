@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2020/01/auf-den-spuren-des-schweizer-humboldts.html
 
+**Date processed:** 2025-05-01
+
 ## Deutsch pauken in Buenos Aires
 
 Am Arbeitsplatz von Tomás Bartoletti wird offensichtlich, dass man es weder mit einem Ingenieur noch einem klassischen Geisteswissenschaftler zu tun hat: Gegenüber seines Arbeitstisches mit Laptop und zwei grossen Flachbildschirmen steht ein Regal mit Büchern zur Geschichte der Indigenen in Lateinamerika, zur Kolonialisierung Afrikas, zu Museen und ihren Sammlungen und Schweizer Jägern in Graubünden. Schriften in Englisch, Französisch, Spanisch, Portugiesisch und Deutsch.
@@ -12,17 +14,15 @@ Tomás Bartolettis Weg zur Philologie – und damit auch nach Zürich – beginn
 
 Die fremde Sprache macht ihm Spass; Mehrsprachigkeit wird bei ihm rasch zum Normalfall. Mit 16 Jahren reist er im Rahmen eines Austauschs erstmals nach Nürnberg. Damit war die Beziehung zum deutschen Sprachraum etabliert und sein Interesse an der Fremde und ihrer Sprachen endgültig geweckt. Ein Studium in klassischer Philologie, Lateinamerikanischer Literatur und Linguistik war naheliegend. Später kamen noch die Wissenschafts- und Technikgeschichte hinzu.
 
-## Ein «alpiner Jäger» in Peru
-
 «Mir lag von Beginn an viel daran, disziplinäre Grenzen zu überwinden», sagt Bartoletti in seinem Büro am Institut für Geschichte, wo er in der Gruppe von Harald Fischer-Tiné an der Professur für Geschichte der modernen Welt forscht. «Ich interessiere mich genauso für griechische Mythologie wie für Ethnologie oder Paläontologie und Umweltgeschichte.» Sein Studium würzte er mit Aufenthalten in Deutschland und seine Doktorarbeit schrieb er grösstenteils an der Humboldt-Universität in Berlin sowie an der Universität Erfurt. Bartolettis Thema: Die griechische Wahrsagung aus der Perspektive indigener Andenvölker.
 
 Mit dem Forschungsprojekt versuchte der Forscher, die Kosmopraxis und Mystik von indigenen Kulturen Lateinamerikas für die Deutung von griechischen Orakeln im klassischen Athen fruchtbar zu machen. Der Doktorand wagte damit eine Weltanschauung, in der die Anden-Kultur auf einer Ebene mit der griechischen Hochkultur existiert. Natürlich habe er damit auch Altertumswissenschaften untergraben, sagt er schelmisch und fragt: «Weshalb muss man an einer lateinamerikanischen Universität fürs philologische Studium bis heute Altgriechisch und Latein lernen? Weshalb nicht Quechua, Aymara oder eine andere Sprache der indigenen Bevölkerung Lateinamerikas?»
 
 Eine Reproduktion des Ekeko, den Gott des Glücks und der Fruchtbarkeit des Andenvolks der Aymara, ziert Bartolettis Büro. (Foto: partners in GmbH - Stefan Weiss)
 
-Während seiner Doktorarbeit in Berlin stiess Bartoletti zufällig auf Schriften des Naturforschers, Forschungsreisenden, Zoologen, Linguisten und Diplomaten Johann Jakob von Tschudi. Bartoletti nennt ihn heute gar den «Schweizer Humboldt». Der Glarner aus einer reichen, bildungsbürgerlichen Patrizierfamilie unternahm Mitte 19. Jahrhundert zahlreiche mehrjährige Forschungsreisen durch Peru, Brasilien und Bolivien. Er veröffentlichte Bücher über die Fauna, archäologische Studien zu den Inkas, sieben Reisetagebücher, schrieb eine Grammatik der Quechua-Sprache und die erste Übersetzung der indigenen Sprache ins Deutsche. Zudem gehörte er zu den ersten, die ein Kokainextrakt nach Europa brachten – ein Import, der später für die Pharmaindustrie eine ausserordentliche Bedeutung haben sollte.
-
 ## Postkoloniale Schweiz
+
+Während seiner Doktorarbeit in Berlin stiess Bartoletti zufällig auf Schriften des Naturforschers, Forschungsreisenden, Zoologen, Linguisten und Diplomaten Johann Jakob von Tschudi. Bartoletti nennt ihn heute gar den «Schweizer Humboldt». Der Glarner aus einer reichen, bildungsbürgerlichen Patrizierfamilie unternahm Mitte 19. Jahrhundert zahlreiche mehrjährige Forschungsreisen durch Peru, Brasilien und Bolivien. Er veröffentlichte Bücher über die Fauna, archäologische Studien zu den Inkas, sieben Reisetagebücher, schrieb eine Grammatik der Quechua-Sprache und die erste Übersetzung der indigenen Sprache ins Deutsche. Zudem gehörte er zu den ersten, die ein Kokainextrakt nach Europa brachten – ein Import, der später für die Pharmaindustrie eine ausserordentliche Bedeutung haben sollte.
 
 Bartoletti konnte zu Beginn nicht glauben, dass ausser einer unkritischen Biographie aus den 50er-Jahren noch nichts zu von Tschudi publiziert worden war. «Es scheint als hätten sich bislang nur wenige Historiker in der Schweiz für ihn interessiert.» Bartoletti arbeitet deshalb an einer globalen Biographie zu von Tschudi, in welcher er ihn als einen Mann seiner Zeit verstehen und im globalen historischen Kontext einbetten will. Damit trägt er zu einer «Global History» bei, einer Geschichtsschreibung, die versucht, Narrative aus verschiedenen Weltregionen und Kulturen zu verbinden und die dabei auftretenden offenen Fragen und Widersprüche zu anerkennen. Damit verbunden ist der Versuch der Überwindung eines Eurozentrismus, der bis heute viele Geschichtsbücher beherrscht.
 
@@ -32,9 +32,9 @@ Für seine Forschung bedient sich Bartoletti bei von Tschudis Originalschriften 
 
 Zu den Objekten, die von Tschudi von seinen Reisen heimbrachte, gehört auch eine kleine Ekeko-Figur aus Stein, das Original der Statue in Bartolettis Bücherregal. Von Tschudi hatte die Figur Mitte 19. Jahrhundert einem einheimischen Priester geklaut, nachdem er diesen dazu verführt hatte, sich mit Cognac zu betrinken. So steht es in einem seiner Bücher. Die Figur ging vor fünf Jahren vom Bernischen Historischen Museum zurück nach Bolivien. Eine Episode, die ein Licht auf von Tschudis koloniale Praxis wirft: Obschon die Kolonialisierung vorüber war und die Andenstaaten ihre Freiheit von Spanien bereits erlangt hatten, bedienten sich von Tschudi und andere Forschungsreisende ganz selbstverständlich an den dortigen Kulturgütern.
 
-## Mit den Studierenden ins Museum
-
 «Die `Neo-Kolonialisierung`Lateinamerikas geschah nicht durch Waffen», erklärt Bartoletti. «Vielmehr nutzten Gentlemen wie von Tschudi die Wissenschaft, die Vernetzung mit lokalen Eliten, Geschäftsbeziehungen und Kartographien, um Macht auszuüben.» Bartolettis eigene Einstellung zu von Tschudi ist entsprechend ambivalent: Einerseits ist er angewidert vom tief im Kolonialismus verankerten Weltbild und dem Glauben an die eigene Überlegenheit gegenüber den Indigenen. Andererseits ist er fasziniert vom umfangreichen Wissen, dem unbändigen Schaffensdrang und der eindrücklichen Sprachkenntnisse des Naturforschers.
+
+## Mit den Studierenden ins Museum
 
 Dabei erkennt er durchaus Parallelen zu seiner eigenen Biographie: Die Begeisterung für Sprachen und Linguistik, der kosmopolitische Werdegang, das Schreiben, um die Welt in Worten zu ergründen. «Manchmal habe ich das Gefühl, dass er mich für diese Forschung ausgewählt hat – und nicht ich ihn», sagt Bartoletti und lacht.
 

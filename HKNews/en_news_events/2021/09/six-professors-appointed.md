@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2021/09/six-professors-appointed.html
 
+**Date processed:** 2025-05-01
+
 ## New appointments
 
 Professor Lint Barrage (*1985), currently Assistant Professor at the University of California, USA, as Associate Professor of Energy and Climate Economics in the Department of Management, Technology and Economics. Lint Barrage’s research focuses on the macroeconomic and social consequences of ecological developments and environmental policy decisions. She has a particular interest in the effects of energy and climate policy on economic development. The appointment of Lint Barrage boosts the Department’s competences and research activities in energy economics and policy. It will also create important synergies with colleagues at the Center for Energy Policy and Economics and the Energy Science Center.
@@ -18,11 +20,11 @@ Professor Marco Hutter (*1985), currently Tenure Track Assistant Professor at ET
 
 Professor Tanja Stadler (*1981), currently Associate Professor at ETH Zurich, as Full Professor of Computational Evolution in the Department of Biosystems. Tanja Stadler develops mathematical and bioinformatic methods of identifying dynamic processes and is acknowledged to be a leading researcher in the new field of phylogenetic dynamics. She has an outstanding list of publications to her name and has received many prestigious awards, including an ERC Starting Grant in 2013 and an ERC Consolidator Grant in 2021. Tanja Stadler has been a member of the Swiss National COVID-19 Science Task Force since it was founded in March 2020; she became head of the Task Force in August 2021.
 
+## Departures
+
 Professor Michael Ambühl (*1951), currently Full Professor of Negotiation and Conflict Management in the Department of Management, Technology and Economics, is to retire at the end of January 2022. Michael Ambühl studied at ETH Zurich and completed his doctorate there in 1980. From 1982 to 2013 he was a public servant; his career included a posting to the Swiss Mission to the EU in Brussels and serving both as Head of the Integration Office and as State Secretary. He played a substantial part in many important negotiations, and in 2013 the ETH Board appointed him as a full professor so that he could share his experience of politics and diplomacy via university teaching and research. In addition to holding his professorship, Michael Ambühl set up the Swiss School of Public Governance (SSPG), of which he is Director.
 
 Professor Michael Detmar (*1957), currently Full Professor of Pharmacogenomics in the Department of Chemistry and Applied Biosciences, will retire at the end of January 2022. Michael Detmar joined ETH Zurich as a full professor in 2004. His research focuses on tumour biology, the molecular control of chronic inflammation and the development of individualised therapies. In 2015 he received the accolade of election as a member of the German National Academy of Sciences Leopoldina. Michael Detmar was a member of the National Research Council of the SNSF from 2013 to 2021. He has been awarded numerous prizes, has co-edited several academic journals and is an adviser to a number of international institutions and companies.
-
-## Departures
 
 Professor Qiuting Huang (*1957), currently Full Professor of Electronics in the Department of Information Technology and Electrical Engineering, is to retire at the end of January 2022. Qiuting Huang joined ETH Zurich as an assistant professor in 1993. Over the past 30 years he has carried out pioneering work in a multitude of disciplines in the field of integrated circuits and systems. He is also regarded as one of the leading experts on high-frequency integrated circuits for wireless and mobile communication. From 2013 to 2015 he was Director of Studies at the Department of Information Technology and Electrical Engineering. Qiuting Huang is a committed university lecturer who has received numerous awards and prizes; he continues to serve on various committees.
 

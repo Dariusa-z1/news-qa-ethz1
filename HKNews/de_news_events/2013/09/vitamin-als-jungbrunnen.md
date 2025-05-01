@@ -2,31 +2,27 @@
 
 **Source:** de_news_events/2013/09/vitamin-als-jungbrunnen.html
 
-## «Keine Evidenz für Wirkung von Antioxidantien»
+**Date processed:** 2025-05-01
+
+## Main article
 
 Die winzigen Fadenwürmer leben länger mit Niacin. (Bild: Michael Ristow / ETH Zürich)
 
-Wer möchte das nicht: lange und gesund leben? Eine bekannte Substanz könnte dabei helfen, wie ETH-Wissenschaftler bei Fadenwürmern gezeigt haben. Vitamin B3 – auch bekannt als Niacin – sowie sein Stoffwechselprodukt Nikotinamid in der Nahrung führte dazu, dass die Würmer um rund ein Zehntel länger lebten.
+## «Keine Evidenz für Wirkung von Antioxidantien»
 
-## Substanz imitiert Ausdauersport
+Wer möchte das nicht: lange und gesund leben? Eine bekannte Substanz könnte dabei helfen, wie ETH-Wissenschaftler bei Fadenwürmern gezeigt haben. Vitamin B3 – auch bekannt als Niacin – sowie sein Stoffwechselprodukt Nikotinamid in der Nahrung führte dazu, dass die Würmer um rund ein Zehntel länger lebten.
 
 Wie ein internationales Forscherteam unter der Leitung von Michael Ristow, Professor für Energiestoffwechsel, in verschiedenen anderen Experimenten zeigen konnten, wirkten Niacin und sein Stoffwechselprodukt Nikotinamid über eine Reihe weiterer Stoffwechselprodukte: Wird Nikotinamid vom Stoffwechsel umgebaut, entstehen über mehrere Schritte sogenannte freie Radikale. «Diese freien Radikale führen bei den Fadenwürmern zur Lebensverlängerung», sagt Ristow.
 
 Dies mag erstaunen, denn freie Radikale gelten landläufig als ungesund. Mit seiner Ansicht widerspricht Ristow denn auch der Lehrbuchmeinung, wie sie viele andere Wissenschaftler vertreten. Es ist bekannt, dass freie Radikale Körperzellen schädigen können, ein Zustand, der als oxidativer Stress bezeichnet wird. Bestimmte Substanzen, sogenannte Antioxidantien, die auch in Früchten, Gemüse und gewissen Pflanzenölen enthalten sind, können diese freien Radikale neutralisieren. Nach Ansicht vieler Wissenschaftler sind Antioxidantien gesundheitsfördernd.
 
-## Relevant auch für den Menschen
-
 «Dafür, dass die Einnahme von Antioxidantien insbesondere in Tablettenform gesund wäre, gibt es allerdings keinerlei überzeugende wissenschaftliche Evidenz», sagt Ristow. Es stehe ausser Frage, dass Früchte und Gemüse gesund seien. Das liege aber an anderen Pflanzeninhaltsstoffen wie den Polyphenolen. «Obst und Gemüse sind gesund, obwohl sie Antioxidantien enthalten», sagt der ETH-Professor. Er ist vielmehr davon überzeugt, dass geringe Mengen an freien Radikalen und der durch sie ausgelöste oxidative Stress gesundheitsfördernd wirken. «Körperzellen können gut mit oxidativem Stress umgehen und ihn wieder abbauen», sagt Ristow.
 
 In früheren Studien bei Menschen zeigte Ristow, dass die gesundheitsfördernde Wirkung von Ausdauersport über eine gesteigerte Bildung von freien Radikalen vermittelt wird – und dass Antioxidantien diesen Effekt aufheben. Aus der jetzigen Studie schliesst er, dass Niacin einen ähnlichen Stoffwechselzustand wie bei Sport herbeiführt. «Niacin lässt den Körper glauben, er würde Sport betreiben – ohne dass dies wirklich der Fall ist», sagt Ristow. Die Wirkung von Sport imitierende Substanzen werden auf Englisch als «exercise mimetics» bezeichnet.
 
-## Umstrittene Wirkung von Enzymen
-
 Die Forschenden machten ihre Experimente im Modellorganismus Caenorhabditis elegans. Dieser nur ein Millimeter kleine Fadenwurm ist einfach zu züchten und hat eine Lebensdauer von nur einem Monat, weshalb er in der biomedizinischen Forschung für Alterungsexperimente sehr beliebt ist.
 
 Die Ergebnisse der Studie könnten auch für den Menschen relevant sein, sagt Ristow. Denn der Stoffwechselweg um Niacin ist bei Fadenwürmern und höheren Lebewesen sehr ähnlich. Ob Niacin ähnliche Wirkungen auf die Lebenserwartung von Mäusen hat, ist Gegenstand von Ristows derzeitiger Forschung. Frühere Studien legen einen gesundheitsfördernden Effekt von Niacin auch bei Menschen nahe: Die Substanz senkt erhöhte Blutfettspiegel.
-
-## Kontakt
 
 Niacin und Nikotinamid sind seit vielen Jahren als Nahrungsergänzungsmittel zugelassen. Ristow könnte sich gut vorstellen, dass die Substanzen in Zukunft breit zum therapeutischen Einsatz kommen. Eine ganze Reihe an Nahrungsmitteln enthalten natürlicherweise Niacin: Es ist unter anderem in Fleisch, Leber, Fisch, Erdnüssen, Pilzen, Reis und Weizenkleie enthalten. Ob die Menge, die man über die Nahrung aufnehmen kann, allerdings für einen gesundheitsfördernden oder lebensverlängernden Effekt ausreicht, ist laut Ristow noch zu beweisen.
 

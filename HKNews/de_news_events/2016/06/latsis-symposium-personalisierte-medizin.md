@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2016/06/latsis-symposium-personalisierte-medizin.html
 
-## Personalisierte Medizin ist schon da
+**Date processed:** 2025-05-01
+
+## Main article
 
 Fachleute sehen es als vielversprechende Weiterentwicklung der Medizin: Patientendaten sollen anonymisiert und standardisiert in grossen Datenbanken gruppiert werden. Interessierte Forscher und behandelnde Ärzte hätten darauf Zugriff und könnten die Daten auswerten. Dies würde die medizinische Grundlagenforschung und die Behandlungsqualität für die einzelnen Patienten in Spitälern einen grossen Schritt weiterbringen, so die Hoffnung.
 
@@ -10,7 +12,7 @@ Diese Hoffnung gründet auf den neuen Möglichkeiten, welche molekulare Methoden
 
 Zu den Chancen und Herausforderungen dieser sogenannten Personalisierten Medizin fand in den vergangenen drei Tagen das Latsis-Symposium der ETH Zürich mit mehr als 200 Wissenschaftlerinnen und Wissenschaftler statt. Mit einer öffentlichen Podiumsdiskussion gestern Abend ist die Konferenz zu Ende gegangen.
 
-## Daten möglichst breit austauschen
+## Personalisierte Medizin ist schon da
 
 Personalisierte Medizin ist nach wie vor ein grosses Versprechen für die Zukunft – letztlich ist es ein Langfristprojekt, zu dem die Fachleute heute die Weichen stellen möchten. Doch, so wurde an der Konferenz auch deutlich: «Personalisierte Medizin machen wir schon heute», sagte etwa Roger Stupp, Direktor der Klinik für Onkologie am Universitätsspital Zürich, an der Podiumsdiskussion.
 
@@ -18,15 +20,11 @@ Der Bioinformatiker Thomas Lengauer, Professor am Max-Planck-Institut für Infor
 
 Auch in der Krebsmedizin hat die Bestimmung des genetischen Bauplans der Tumorzellen ihren festen Platz in Diagnose und Therapieplanung, wie Mark Rubin, Professor an der Cornell University, ausführte. Rubin leitet dort das Institut für Precision Medicine, das weltweit erste seiner Art. Bereits heute kämen in vielen Spitälern und Ländern Onkologen regelmässig zusammen, um gemeinsam Behandlungsmöglichkeiten für Patienten zu diskutierten, sagte er. Für ihn und andere am Symposium anwesende Fachleute lägen in einem noch breiteren Austausch von Patientendaten enorme Chancen für die Medizin und insbesondere für die Krebsmedizin.
 
-## Vergleichbar mit dem Gotthardtunnel
-
 «Die wohl wichtigste Schlussfolgerung der dreitägigen Konferenz war, dass Personalisierte Medizin einen breiten, möglichst weltweiten Datenaustausch voraussetzt», sagte Holger Moch, Professor am Universitätsspital Zürich und Co-Leiter des Kompetenzzentrums Personalisierte Medizin von Universität und ETH Zürich, zum Schluss der Konferenz.
 
 Ins gleiche Horn stiess einen Tag zuvor Mark Rubin: «Der Schlüssel zum Erfolg ist der Aufbau einer Infrastruktur, über die sehr viele Spitäler Daten austauschen können». Man müsse sich jedoch im Klaren sein, dass dies ein Grossprojekt sei, eine Investition in die Zukunft, vergleichbar mit der Planung und dem Bau des Gotthardbasistunnels.
 
 Eine solche umfassende elektronische Gesundheitsdatenbank brächte eine Qualitätssteigerung in der Medizin: Ärztinnen und Ärzte, die einen Patienten mit einem spezifischen, molekular charakterisierten Tumortyp behandelten, könnten bei der Therapieplanung frühere Erfolge und Misserfolge bei vielen Patienten mit denselben molekularen Markern miteinbeziehen, allenfalls unterstützt von statistischer Auswertungssoftware.
-
-## Zu enge Schranken
 
 Allerdings – so wurde insbesondere an der Podiumsdiskussion deutlich –, müssen auf dem Weg zu einer umfassenden Gesundheitsdatenbank Fragen des Datenschutzes und des Schutzes vor Missbrauch gelöst werden. Genom-Daten könnten persönlicher nicht sein: Mit ihnen lässt sich ein Mensch nicht nur eindeutig charakterisieren, es lassen sich daraus auch sehr viele Informationen gewinnen, etwa zur Anfälligkeit auf erblich bedingte Krankheiten.
 

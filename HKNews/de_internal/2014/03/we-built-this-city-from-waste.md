@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2014/03/we-built-this-city-from-waste.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 «Möglicherweise wird die Stadt der Zukunft gar nicht mehr zwischen Versorgung und Entsorgung unterscheiden (…)» - Mitchell Joachim
@@ -19,6 +21,8 @@ In Singapur strebt man für alle Lebensbereiche die fortschrittlichsten High-Tec
 Das Seminar «Constructing Waste» («Abfall für die Bauindustrie»), das ich im Herbst 2012 für Doktorierende am FCL leitete, war als erster Annäherungsschritt auf akademischer Ebene konzipiert. Um Abfall zukünftig wirklich als Baustoff einsetzen zu können, braucht es einen mentalen Switch. Wie am Seminar näher beleuchtet, dürfen wir keine lineare Betrachtungsweise des Produktlebenszyklus' mehr haben, bei dem Abfall am Ende der Kette einfach entsorgt wird, sondern müssen dieses Ende als neuen Anfang eines zweiten Lebenszyklus' betrachten, bei dem Konsumgüter in Baugüter umgewandelt werden.
 
 Kurze Zeit später bot sich schon Gelegenheit, diese Erkenntnisse für ein Grossprojekt zu nutzen: Die ETH Zürich wird als Ausstellerin an der «IDEAS CITY» 2015 in New York teilnehmen, die vom New Museum veranstaltet wird. Mein Team ist für den Bau und die Gestaltung des ETH-Pavillons verantwortlich und hat dafür ein Konzept entwickelt, das Fragen zur Elastizität und Nachhaltigkeit der verwendeten Baustoffe in den Fokus rückt. Der finale Pavillon-Entwurf mit der Bezeichnung «Airless»basiert auf entsorgten PET-Flaschen, welche die Vakuum-Struktur des Pavillons als verstärkendes Trägermaterial stützen. PET-Flaschen, die in New York in jedem Abfallbehälter liegen, werden zu diesem Zweck in vorgefertigte, bogenförmige Röhren aus Kunststoff-Folie gesteckt. Danach werden die Röhren vakuumiert und es entsteht eine leichtgewichtige, extrem kostengünstige und äusserst effiziente Trägerstruktur, die für den Bau grossräumiger, dreidimensionaler Konstruktionen verwendet werden kann. Bei diesem Verfahren werden die PET-Flaschen übrigens nicht verändert, so dass sie nach dem New Yorker Event wieder dem Recycling zugeführt werden können. Mit Initiativen wie dieser möchten wir aufzeigen, dass die ETH Zürich ganz vorne mit dabei ist, wenn es um eine zukunftsorientierte Perspektive und Forschungsaktivität im Bereich Abfallrecycling für die Bauindustrie geht.
+
+## Zur Person
 
 Marta Heisel-Wisniewska ist derzeit als Forscherin am Future Cities Laboratory (FCL) in Singapur im Auftrag der Professur für Architektur und Konstruktion tätig. Von 2004 bis 2011 studierte sie am Departement Architektur und Städteplanung der Westpommerschen Technischen Universität Stettin (ZUT) in Polen sowie am Departement Architektur der Hochschule für Künste in Berlin. Bevor sie zum FCL nach Singapur berufen wurde, war sie Dozentin und Koordinatorin des Architekturprogramms am Äthiopischen Institut für Architektur, Bauwesen und Städteentwicklung in Addis Ababa, wo sie Mitglied einer Forschungsgruppe war, die sich mit dem Design von Flüchtlingsauffangeinrichtungen befasste. Für ihr Engagement wurde sie von EiABC-Studentenrat im Jahr 2011 mit dem «Best Teaching Award» ausgezeichnet.
 

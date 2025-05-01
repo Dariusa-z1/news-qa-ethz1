@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2017/11/game-technology-center-app.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 «Augmented Creativity» nennen die Forschenden ihre Anwendungen, mit denen sie das Zeichnen und Malen, Musizieren und Spielen mithilfe von Augmented Reality noch spannender machen. Darunter verstehen sie die Verschmelzung von animierten, virtuellen Elementen mit der realen Umgebung.

@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2020/11/zoom-bleibt-uns-erhalten.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Zoom hat sich an der ETH in Windeseile etabliert – nicht nur in der Lehre, sondern auch im Arbeitsalltag. Zurzeit sind an unserer Hochschule rund 9500 Pro-Lizenzen im Einsatz, die sämtliche Funktionen des Conferencing Tools umfassen. Hinzu kommen rund 17'500 freie Lizenzen mit einem eingeschränkten Funktionsumfang, die aber eine unkomplizierte Teilnahme an Zoom-Meetings erlauben.

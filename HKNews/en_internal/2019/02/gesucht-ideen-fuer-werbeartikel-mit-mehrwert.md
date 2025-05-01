@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2019/02/gesucht-ideen-fuer-werbeartikel-mit-mehrwert.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 We are on the lookout for ideas for commercially available products and freebies to be distributed during courses, events or ETH Zurich campaigns (e.g. fresher bags).

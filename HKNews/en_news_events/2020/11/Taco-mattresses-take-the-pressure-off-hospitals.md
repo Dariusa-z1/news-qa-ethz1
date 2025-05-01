@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2020/11/Taco-mattresses-take-the-pressure-off-hospitals.html
 
-## Available on the internet free of charge
+**Date processed:** 2025-05-01
+
+## Main article
 
 When the first wave of coronavirus ran its course in spring, Julian Ferchow was shocked to begin with. “We saw the pictures coming in from Italy, with exhausted doctors and distraught nursing staff.” He knew right away: “We have to help out.” Ferchow put his doctoral project aside for a while and assembled a 20-strong team. Within four weeks, using virtual tools, they developed what is known as the Proning Taco system, which makes it easier for nursing staff to rotate COVID-19 patients in intensive care. This takes the pressure off hospitals crippled by a lack of personnel during the pandemic.
 
@@ -12,7 +14,7 @@ As manual turning requires a good deal of strength, particularly in the case of 
 
 Julian Ferchow presenting the proning system. (Photograph: Julian Ferchow / pdz)
 
-## Reference
+## Available on the internet free of charge
 
 Although the technique is simple, the system is highly effective and inexpensive. The Proning Taco is made in such a way that it stabilises the patient and enables the rotation to be performed with only minimal resistance. The mattresses are made of thin, viscoelastic foam that reduces pressure spots during the rotation process. They are also ergonomically designed and adjustable. “The mattress comes in one size and is suitable for all patients,” Ferchow says.
 
@@ -21,6 +23,8 @@ Ferchow is researching product development and engineering design in 3D printing
 Based in Basel, OBA AG now intends to manufacture the proning system on a larger scale. To this end, a pre-production prototype was put through its paces at University Hospital Zurich two weeks ago. The company is now making minor modifications to the product and intends to offer it to hospitals. Ferchow is delighted to hear this news. “From the outset, our only goal was to make a difference and help society in the pandemic,” he says. This is also the aim of the helpfulETH initiative launched by ETH Professor Mirko Meboldt, which enabled the development of the proning system.
 
 After Ferchow and his team had successfully developed and tested a functional prototype in the spring, they could have applied for a patent. Instead, they posted a product description online, making it available to everyone free of charge. “As a result, even hospitals in Asia got in touch,” Ferchow says. This makes it very likely that intensive care COVID-19 patients in other countries will soon be rotated according to the taco principle.
+
+## Reference
 
 Ferchow J et al.: Proning TACO - Facilitating the Proning of Patients with ARDS. Research Collection ETH Zürich, doi: 10.3929/ethz-b-000412980
 

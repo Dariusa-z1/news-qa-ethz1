@@ -2,23 +2,27 @@
 
 **Source:** de_news_events/2023/06/blog-mit-ki-in-eine-menschenwuerdige-zukunft.html
 
-## Auf Menschenrechten basierend
+**Date processed:** 2025-05-01
+
+## Main article
 
 Künstliche Intelligenz würde man treffender als datenbasierte Systeme (DS) bezeichnen. Denn ihre Leistung fusst auf ihrem Vermögen, grosse Datenmengen auszuwerten, und einige Bereiche der Intelligenz entziehen sich dem Zugriff von DS: Soziale und emotionale Intelligenz bleiben für sie unerreichbar, weil ihnen echte Gefühle fehlen. Ebenso wenig sind sie moralfähig, weil ihnen dazu die Freiheit mangelt.
 
 Sowohl die Chancen als auch die Risiken von DS für die Menschheit sind immens. So können DS als Assistenzsysteme beispielsweise Menschen mit einer Behinderung ein selbstbestimmteres Leben ermöglichen. Andererseits können solche Assistenzsysteme und Suchmaschinen unsere Privatsphäre sowie den Datenschutz verletzen und auch die Selbstbestimmung der Menschen unterwandern: DS können Menschen manipulieren, da sie aufgrund der enormen Daten über uns bildlich gesprochen genau wissen, welche Klaviertasten sie spielen müssen, damit bei uns die Musik erklingt – sprich: damit wir so einkaufen oder politisch so wählen oder abstimmen, wie sie das wollen. Solche politische Manipulation sowie Fake News und Desinformation bedrohen die Demokratie massiv.
 
-Um die Chancen von DS nachhaltig nutzen und die Risiken meistern oder vermeiden zu können, ist es notwendig, DS international zu regulieren. Die EU geht mit ihrem geplanten Gesetz über Künstliche Intelligenz 1 einen Schritt in die richtige Richtung, da sie die Menschen und ihre Rechte höher gewichtet als wirtschaftliche Interessen von ein paar multinationalen Tech-​​Konzernen und staatlichen Missbrauch einschränkt. Zu verbessern wäre bei diesem Gesetz noch der Schutz von Menschen auf Flucht sowie die Vereinfachung der Beschwerdemöglichkeiten bei einer Beeinträchtigung von Menschen durch DS.
+## Auf Menschenrechten basierend
 
-## Zum Autor
+Um die Chancen von DS nachhaltig nutzen und die Risiken meistern oder vermeiden zu können, ist es notwendig, DS international zu regulieren. Die EU geht mit ihrem geplanten Gesetz über Künstliche Intelligenz 1 einen Schritt in die richtige Richtung, da sie die Menschen und ihre Rechte höher gewichtet als wirtschaftliche Interessen von ein paar multinationalen Tech-​​Konzernen und staatlichen Missbrauch einschränkt. Zu verbessern wäre bei diesem Gesetz noch der Schutz von Menschen auf Flucht sowie die Vereinfachung der Beschwerdemöglichkeiten bei einer Beeinträchtigung von Menschen durch DS.
 
 Da die Möglichkeiten und Gefahren von DS enorm sind, und es sich um ein globales Thema handelt, müssen wir dieses darüber hinaus auch auf globaler Ebene angehen. Bei den ethischen Überlegungen und Entscheidungen, was beim Design und der Nutzung von DS alles berücksichtigt werden soll, lohnt es sich, die Menschenrechte als Orientierungshilfe hinzuzuziehen. Menschenrechte haben den grossen Vorteil, dass sie auf einem einfachen Konzept beruhen und sich auf das Wesentliche fokussieren: Sie definieren Minimalstandards, die Menschen ein menschenwürdiges Leben garantieren. Gleichzeitig sind sie innovationsfreundlich, indem sie Menschen in ihrer Freiheit des Denkens, der Meinungsäusserung und des Informationszugangs schützen sowie die Pluralität durch die Achtung der Selbstbestimmung jedes Menschen fördern.
 
+## Zum Autor
+
 Peter G. Kirchschläger ist ordentlicher Professor für Theologische Ethik sowie Leiter des Instituts für Sozialethik an der Universität Luzern und derzeit Gastprofessor an der Professur für Neuroinformatik und Neuronale Systeme der ETH Zürich sowie am ETH AI Center.
 
-Ich habe vor zwei Jahren vorgeschlagen, dass DS immer auf Menschenrechten basierend entwickelt und betrieben werden sollten sowie bei der Uno eine internationale Agentur für datenbasierte Systeme (International Data-​Based Systems Agency, externe Seite IDA ) geschaffen werden soll – ähnlich der internationalen Atomenergiebehörde IAEA. 2 Die IDA soll als Plattform für die technische Zusammenarbeit im Bereich von DS dienen, welche die Menschenrechte, die Sicherheit und die friedliche Nutzung von DS fördert, sowie als globale Aufsichts-​ und Zulassungsbehörde fungieren.
-
 ## Von The Elders aufgegriffen
+
+Ich habe vor zwei Jahren vorgeschlagen, dass DS immer auf Menschenrechten basierend entwickelt und betrieben werden sollten sowie bei der Uno eine internationale Agentur für datenbasierte Systeme (International Data-​Based Systems Agency, externe Seite IDA ) geschaffen werden soll – ähnlich der internationalen Atomenergiebehörde IAEA. 2 Die IDA soll als Plattform für die technische Zusammenarbeit im Bereich von DS dienen, welche die Menschenrechte, die Sicherheit und die friedliche Nutzung von DS fördert, sowie als globale Aufsichts-​ und Zulassungsbehörde fungieren.
 
 The Elders – eine von Nelson Mandela gegründete unabhängige Gruppe globaler Leader, der unter anderem der ehemalige Uno-​Generalsekretär Ban Ki Moon und die erste Präsidentin Irlands, Mary Robinson, angehören – haben meine konkreten Handlungsvorschläge der menschenrechtsbasierten DS und einer internationalen Agentur zur ihrer Überwachung unlängst übernommen und die Uno-​Mitgliedstaaten zum entsprechenden Handeln aufgefordert. 3 Auch der Uno-​Generalsekretär António Guterres hat menschenrechtsbasierte DS und international abgestimmtes Handeln hin zu einer institutionellen Lösung in seinem jüngsten Policy Brief aufgegriffen. 4 Das freut mich und stimmt mich zuversichtlich.
 

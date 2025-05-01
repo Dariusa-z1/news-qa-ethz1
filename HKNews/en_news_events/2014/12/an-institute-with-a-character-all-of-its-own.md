@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2014/12/an-institute-with-a-character-all-of-its-own.html
 
+**Date processed:** 2025-05-01
+
 ## Mathematics as the language of dialogue
 
 The Clausiusstrasse leads from the ETH Main Building into the Oberstrass district. As you walk along it, after about four minutes you see two buildings on the left-hand side with red façades and white corner-stones all around. They were built in 1882 and used to be the homes of middle- to upper-class families.
@@ -14,8 +16,6 @@ Terry Hwa arrived in Zurich as the first ITS fellow. The opening ceremony took p
 
 The red building is very smart, simple yet appealing, with its inviting wooden staircase. On the ground floor is a seminar room with brightly coloured chairs and house plants. The rooms are more like traditional studios than modern laboratories.
 
-## Physics as a source of inspiration
-
 That is the intention: the setting is supposed to help encourage the fellows to talk to each other and share their ideas with researchers at ETH Zurich. “The ITS is intended to be a meeting place for researchers who want to engage in dialogue about new theories that go beyond their subject boundaries”, says Giovanni Felder.
 
 Why the focus on theories? The theoretical parts of natural sciences and computer science increasingly involve difficult mathematics. In these three disciplines, the new development has enabled a fruitful dialogue to take place: the theoretical sciences and information science not only use a common mathematical language but also investigate cross-disciplinary questions and solutions. This is true, for example, of the currently very fertile field of research at the interface of mathematics and physics: “Mathematics is developing new methods that physicists make use of, and in return, many ideas from physics are stimulating mathematical research”, says Giovanni Felder, whose own career has taken him from doctoral student in physics to professor of mathematics. Typical areas of convergence include probability theory, statistical mechanics, quantum information, geometry and string theory. The latter sees elementary particles not as individual points but as swinging strings and is one candidate for a grand unified theory of the universe, which continues to elude scientists.
@@ -25,8 +25,6 @@ Emily Clader is researching how the concepts of string theory can be understood 
 Dmitry Chelkak also describes himself as doing pure mathematics, “but highly inspired by physics”. The Russian, who is a researcher at the Steklov Mathematical Institute, works on probability theory and statistical mechanics. “The ITS combines two attractive aspects: on the one hand, it is a stand-alone
 
 institute that is not part of a department. On the other hand, it is fully integrated into ETH Zurich and only five minutes away from its main building. This closeness matters when it comes to collaboration”, says Chelkak.
-
-## Small institute, big networking
 
 The ITS does not focus on major research programmes, but rather small discussion groups. Typical examples include the ITS Science Colloquium and the workshops organised by the fellows. In the middle of October, for example, about 20 researchers from the fields of physics and computer science spent a week passionately debating quantum mechanics.
 

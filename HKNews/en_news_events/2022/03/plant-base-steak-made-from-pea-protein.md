@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2022/03/plant-base-steak-made-from-pea-protein.html
 
+**Date processed:** 2025-05-01
+
 ## Kitchen as initial laboratory
 
 Tofu sausages, burgers made from fermented mushrooms or chicken made from pea protein – meat alternatives are becoming so popular that it’s now difficult to imagine a supermarket without them. So far, however, plant-based alternatives for high-quality meat products such as steak have not been readily available.
@@ -9,8 +11,6 @@ Tofu sausages, burgers made from fermented mushrooms or chicken made from pea pr
 Martin Hofmann is confident that this is about to change. The material scientist has developed a method to produce plant-based steak from fat and pea protein. These products are aimed primarily at people like him: non-vegetarians who intend to reduce their meat consumption and switch to a more plant-based diet.
 
 “I’d like to help launch a healthy, environmentally and animal-friendly substitute for high-quality meat that tastes like the animal-based original,” Hofmann says.
-
-## From beef protein to pea protein
 
 One might say that Hofmann was predestined to become a natural scientist. His mother is a biochemist, his father a botanist and his sister a geologist. For the Hofmanns, scientific experiments were as normal as football and board games were for other families. “After all, every kitchen is like a small laboratory,” the ETH researcher says.
 
@@ -26,8 +26,6 @@ The only way to give a plant-based alternative a meaty feel is by biochemically 
 
 Hofmann’s plant-based alternative substitutes the fat tissue that characterises steak with a simple oil in water emulsion to which additives such as vitamins and trace elements can be added. Since the emulsion’s fat content can be reduced significantly, the plant-based steak is not only more eco-friendly than the animal-based original, but healthier as well.
 
-## Market-ready in one year
-
 Marbling is an important quality characteristic of steaks. If it is very strong – as in Japanese Kobe beef – the meat is considered to be of the highest quality. However, to artificially recreate marbling is anything but simple.
 
 “You have to imitate something highly irregular. Because when we look at one half of a steak, it tells us nothing about what the other half looks like,” Hofmann explains. Only products that take into account the randomness of nature can replicate the unique taste and mouthfeel of steak.
@@ -35,6 +33,8 @@ Marbling is an important quality characteristic of steaks. If it is very strong 
 Based on his research on the mixing behaviour of soft materials, Hofmann developed a method whereby the pea protein and the fat are intermingled to recreate the typical marbling of high-quality meat. He calls this method “advective processing.” Unlike conventional 3D printing techniques, this method continuously forces the protein dough and the fat into an attachment and mixes them.
 
 For this process, he combines two components: The hardware consists of two extrusion dies for the pea protein and one for the fat. The second component is Hofmann’s own software which controls the merging process.
+
+## Market-ready in one year
 
 Hofmann now aims to bring his method to market and found a spin-off as part of a Pioneer Fellowship , which is supported by the Fondation Alcea. This would be his second start-up: in 2014, he and a fellow student founded a company called Technis, which specialises in the development of ground sensors for smart floors and now employs 51 people.
 

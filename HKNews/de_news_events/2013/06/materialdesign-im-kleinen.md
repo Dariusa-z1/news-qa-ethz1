@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2013/06/materialdesign-im-kleinen.html
 
+**Date processed:** 2025-05-01
+
 ## Germanium wird lasertauglich
 
 Ralph Spolenak räumt gleich zu Beginn mit einem Missverständnis auf: Kleiner ist nicht immer besser in der Nanowelt der Materialien. Ab einer gewissen Winzigkeit können negative Effekte überwiegen. Der Leiter des Laboratoriums für Nanometallurgie der ETH Zürich sucht mit seinem Team daher die optimale Längenskala für Materialien, bei der sich deren Eigenschaften verbessern, bevor sie sich wieder verschlechtern. Da diese Längenskala zwar häufig, aber eben nicht immer im Nanobereich, also unter 100 Nanometern liegt, bevorzugt der Professor den Begriff «klein» statt «nano». Sein Ziel: «Im Kleinen einen Vorteil erzielen.»
@@ -14,8 +16,6 @@ Wie Spolenak und sein Team mit Materialdefekten und Grenzen im Nanobereich «exp
 
 Im Gegensatz zu Strom und Kupferkabel kann Licht Signale wesentlich rascher übertragen. Da sich Silizium, das Grundmaterial aller Computerchips, nicht für den Bau von Lasern eignet, setzen die Wissenschaftler auf Germanium; zumal dies bestens mit Silizium kompatibel ist. «Wenn man Metalle kleiner macht, geht der spezifische Widerstand hoch, und damit reduziert sich die Geschwindigkeit, mit der sich Informationen über elektrische Signale übertragen lassen. Dieser Effekt stellt ein Limit der Miniaturisierung dar, das sich durch optische Signalübertrag lösen lässt», erklärt Ralph Spolenak.
 
-## Material für strahlendes Lächeln
-
 Damit Germanium zum Einsatz kommen kann, bedarf es einer speziellen Konfiguration von Elektronen. Diese wird erreicht, indem die Forscher es einer Zugspannung aussetzen, es also dehnen, um dem Halbleiter Photonen (Lichtteilchen) zu entlocken. Durch die Dehnung rücken die Atome, aus denen das Metall besteht, aus einander. Infolge dessen können sich die Elektronen, die Träger der elektrischen Ladung, ungestörter bewegen und gelangen auf Energieniveaus, die für die Entstehung von Photonen günstig sind.
 
 Schon bei einer Dehnung von 3 Prozent gibt Germanium rund 25mal mehr Photonen ab als im entspannten Zustand. «Das reicht nahezu aus, um einen Laser zu bauen», sagt Spolenak. Drei Prozent hört sich nach wenig an. Doch überträgt man die Nanodimensionen auf die Makrowelt, entspricht diese Zugspannung der Kraft, die auf einen Bleistift wirkt, wenn zwei Lastwagen in entgegengesetzter Richtung daran ziehen. Die notwendigen hohen elastischen Dehnungen sind in diesem Fall nur bei fast defektfreien Materialien möglich.
@@ -25,8 +25,6 @@ Der ETH-Materialforscher forscht aber auch auf ganz anderen Gebieten, etwa im Be
 Um dieses ästhetische Problem zu lösen, haben Spolenak und sein Team mehrere Lagen aus speziellen keramischen Materialien kombiniert, die dick genug sind, um das Dunkle zu überdecken, aber gleichzeitig dünn genug, um den oben erwähnten Skaleneffekt ausnutzen zu können – das heisst: Die Tatsache, dass Material, indem man es kleiner macht, fester wird.
 
 Beim Designen neuer Materialien orientieren sich die Forscher häufig an der Natur. Ein Vorbild ist zum Beispiel das Perlmutt. Es besteht zwar zu 97 Prozent aus sehr spröden, steifen Materialien, doch die Muschelschalen selbst sind rund 3000mal bruchfester als das in ihnen eingebettete Mineral Kalziumkarbonat.
-
-## Elemente gezielt einsetzen
 
 Dafür verantwortlich ist eine spezielle Kombination aus Grösse und Form. So haben die Mineralblättchen nicht nur eine ganz bestimmte Dicke von wenigen zehn Nanometern, sie sind auch in einer ganz bestimmten Struktur ausgerichtet. Beides zusammen macht die Schalen so enorm fest und führt zu attraktiven optischen Eigenschaften, wie sie auch beim «weissen» Implantat zum Einsatz kommen.
 

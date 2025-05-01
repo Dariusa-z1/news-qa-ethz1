@@ -2,23 +2,19 @@
 
 **Source:** en_internal/2014/12/loyal-to-eth.html
 
+**Date processed:** 2025-05-01
+
 ## Eight years at EducETH
 
 “In my job in Corporate Communications, I was in my element,” Susanne says. She would arrive at the office in the morning, deal with enquiries and gather information from the professors and departments – “I really enjoyed the variety this offered and the chance to briefly delve into all kinds of subject areas at ETH.” Then she became pregnant. The demands of her job left her very little room for manoeuvre: “I couldn’t cut down my work, so I had to give it up.”
 
-## November 2014 anniversaries
-
 For the next two years she stayed at home to look after her son. Her daily routine involved getting up early, feeding the baby, changing his nappy, taking a midday nap, going for a walk and going to bed in the evening – and then having to get up several times in the night. “Eventually I felt like I was going stir-crazy,” recalls Susanne, who is now a mother of three. She wanted to work again – and more specifically, she wanted to work for ETH. As she puts it, “I always found its international character and variety of subject areas interesting.”
-
-## Don't miss the latest news
 
 Susanne found exactly what she was looking for in the Teacher Training Department of the Institute for Research on Learning and Instruction (EducETH), where she has spent the past eight or so years working part-time to provide support for the professorship in various areas. As well as being responsible for assisting work experience instructors with the students’ mandatory secondary school work placements, she is involved in the administration of a longitudinal study being conducted by EducETH. This study uses a series of tests to investigate whether children who come into contact with scientific subjects early on in their school career develop an aptitude for science and a better understanding of it later on. The primary school teachers who volunteered to take part in the study are provided with intensive training, support over several years and relevant learning resources.
 
-## Subscribe to Newsletter
-
 Susanne’s work has also shaped her views as a private individual. In her job she has to deal with teachers who are keen to encourage their pupils and rarely shy away from hard work. “It bothers me when I see my children’s teachers making very little effort,” she remarks.
 
-## Staffnet
+## November 2014 anniversaries
 
 40 years Pierrot Dekumbis, Operations Group D-PHYS
 

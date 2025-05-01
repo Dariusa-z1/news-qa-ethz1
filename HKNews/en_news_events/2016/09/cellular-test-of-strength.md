@@ -2,31 +2,29 @@
 
 **Source:** en_news_events/2016/09/cellular-test-of-strength.html
 
-## Regular pattern
+**Date processed:** 2025-05-01
+
+## Main article
 
 Microscopy image of a red fluorescent grid and a cell (upper left), whose interaction with the substrate is visible at its edges in green. The same image is shown on the right and below in different colours. (Photograph: ETH Zurich / Martin Bergert)
 
-An interdisciplinary team of scientists from ETH Zurich has developed a new microscopy technique that allows researchers to measure in great detail the forces exerted by biological cells when they grow, change shape or move around. The new technique is an advancement of traction force microscopy (TFM). With it, researchers are able to measure cell forces readily, directly and at a higher resolution than with previous methods.
+## Regular pattern
 
-## Cooperation between of several research groups
+An interdisciplinary team of scientists from ETH Zurich has developed a new microscopy technique that allows researchers to measure in great detail the forces exerted by biological cells when they grow, change shape or move around. The new technique is an advancement of traction force microscopy (TFM). With it, researchers are able to measure cell forces readily, directly and at a higher resolution than with previous methods.
 
 “The most common forms of traction force microscopy in use today utilise an elastically deformable substrate with microscopic fluorescent reference points embedded in it,” says Dimos Poulikakos, a Professor of Thermodynamics at ETH Zurich and coordinator of the research project. Scientists are able to study cells on this substrate in laboratory experiments. When these cells change shape, or simply due to their motion, the substrate also changes shape, shifting the reference points.
 
 The scientists first photograph the cells and the reference point layer in this state under the microscope, and then remove the cells – at which point the substrate moves back to its original shape – and photograph the elastic layer at the exact location of the cells a second time. In a computer-assisted comparison of the dot pattern in the two pictures, they are able to determine how far each point in the cell was able to shift the elastic substrate. As the physical properties of the substrate are already known, this makes it possible to determine which forces are acting on each point.
 
-## More accurate and in 3D
-
 A regular pattern with quantum dots (red) printed on an elastic silicon substrate (grey). Cells (green) can move the substrate. Microscopy observation of the deformation takes place from below. (Visualisations: Bergert et al. Nature Communications 2016, edited)
 
-Until now, the fluorescent reference points could be only randomly embedded in the substrate material in TFM applications. The researchers under Poulikakos have now succeeded to orderly arrange these points in a regular grid pattern on a silicon substrate for the first time. To accomplish this, they used Nanodrip, a 3D nano-printing technology developed a few years ago in the laboratory of ETH professor Poulikakos.
+## Cooperation between of several research groups
 
-## Application in cancer research
+Until now, the fluorescent reference points could be only randomly embedded in the substrate material in TFM applications. The researchers under Poulikakos have now succeeded to orderly arrange these points in a regular grid pattern on a silicon substrate for the first time. To accomplish this, they used Nanodrip, a 3D nano-printing technology developed a few years ago in the laboratory of ETH professor Poulikakos.
 
 The regular and clearly defined arrangement of the orientation points offers advantages. “We no longer have to remove cells and compare before and after images. Instead, we can determine the forces using a single microscopy image,” says Aldo Ferrari, a senior assistant in Poulikakos’ group. This allows scientists to observe cells over a longer period of time and, among other applications, to repeatedly measure the cell’s forces at various times.
 
 The technical development was possible thanks to the close cooperation of many ETH researchers: Scientists from the laboratory of ETH professor Edoardo Mazza determined the physical properties of the silicone substrate and developed numerical models which allowed them to calculate the forces that corresponded to each deformation of the surface. ETH professor Olga Sorkine-Hornung and Daniele Panozzo, a professor at the New York University, contributed to the computer-assisted calculations of the effective displacement of the points in the microscopy images.
-
-## Reference
 
 Moreover, the scientists used blue, green and red luminescent quantum dots as fluorescent dyes obtained from the group under ETH professor and quantum dot expert David Norris. Quantum dots are nanostructures made of semiconductor material with a customised geometry.
 
@@ -37,6 +35,8 @@ Finally, with this development it is also possible to determine cell-generated f
 “The new system is easy to use and ready for implementation,” says Poulikakos. The software developed for it is open source, and the ETH researchers have made it available to colleagues free of charge. Interested scientists must, however, be able to use nanoprinting technology in the laboratory in order to produce the quantum dot silicon substrate.
 
 The new system can be used in cell biology and biomedical research to study the movements of cells or to measure interactions between cells and implants. Poulikakos’ group, for instance, is collaborating with researchers from Politecnico di Milano to explore how the activities of individual genes, the mobility of cells of a particular type of carcinoma and the thereby acting forces are interrelated.
+
+## Reference
 
 Bergert M et al.: Confocal reference free traction force microscopy, Nature Communications 2016, doi: 10.1038/ncomms12814
 

@@ -2,13 +2,9 @@
 
 **Source:** en_news_events/2016/05/pauli-lectures-devoted-to-cell-logistics.html
 
+**Date processed:** 2025-05-01
+
 ## Parcel service using the lock-and-key principle
-
-- Monday, 30 May 2016, 8.15 pm (ETH Zentrum, Auditorium Maximum, HG F 30)
-
-- Tuesday, 31 May 2016, 8.15 pm (ETH Zentrum, Auditorium Maximum, HG F 30)
-
-- Wednesday, 1 June 2016, 3.30 pm (ETH Hönggerberg campus, lecture hall HCI G3).
 
 Similar to a chemical factory, cells manufacture various proteins at a relentless pace, which then have to be quickly transported to their destination after synthesis. Some of these molecules are intended for export to the cell’s surface, while others take on roles in the cell’s interior. Cells use a sophisticated distribution system to transport materials: they package freshly manufactured proteins in tiny bubble-shaped ferries called vesicles. These bring the special cargo to the right place at the right time and make no mistakes with the delivery addresses. It has long been a mystery as to how cells accomplish this logistical feat with such precision. James E. Rothman, a professor of biochemistry and cell biology at Yale University, is an expert in the field of cellular transport systems and has made a major contribution to solving the mystery of cell logistics.
 
@@ -18,17 +14,24 @@ Like all cells and their organelles, the vesicle – which transports the cargo 
 
 This parcel service process – known as intracellular membrane fusion – is a fundamental mechanism in biology and plays a central role in cell growth and division. It is also medically relevant because mistakes in the supply chain can lead to serious diseases. By characterising membrane fusion, Rothman supplied the basic principle for a variety of important physiological processes, including the release of the hormone insulin into the bloodstream, communication between nerve cells in the brain and the infection of cells by viruses.
 
-## With the insight of a Nobel Prize winner
-
 Rothman’s groundbreaking discoveries on cellular transport routes won international recognition. He has received numerous awards for his work, the high point being the Nobel Prize for Physiology in 2013. The Department of Biology at ETH Zurich is now honouring Rothman for his research achievements by inviting him to give this year’s Wolfgang Pauli lectures.
 
 During the ETH lecture series, which begins next Monday, Rothman will first talk about the importance of research for society and what it takes to make scientific achievements possible. In a second lecture, he will offer an insight into the cell transport system and, in particular, the series of discoveries that led to the 2013 Nobel Prize.
 
 Finally, Rothman will address the communication of nerve cells, where membrane fusion occurs much faster than anywhere else in nature: when a nerve impulse crosses a synapse, vesicles at the nerve endings release neurotransmitters in less than one millisecond; these act as chemical messengers to carry the information to the adjacent nerve cell. In his third lecture, he will explore how it is possible that the same mechanism is about 10,000 times faster here than in hormonal secretions.
 
-The Wolfgang Pauli Lectures, a three-part lecture series, have been held annually since 1962. They are dedicated, in turn, to physics, mathematics and biology. The Pauli Lectures offer a forum for distinguished speakers to present their pioneering research. The lecture series is named after the theoretical physicist and Nobel laureate Wolfgang Pauli, who was a professor at ETH Zurich from 1928 until his death in 1958. The lectures, which are given in English, are open to the public and aimed at a wide audience with an interest in natural sciences. Admission is free. Registration is not necessary.
-
 ## Pauli Lectures 2016
+
+On the Role of Scientific Research in Society, and Lessons Learned from a Life in Science
+
+• Monday, 30 May 2016, 8.15 pm (ETH Zentrum, Auditorium Maximum, HG F 30)
+On the Sorting of Proteins to Compartmentalize the Cell – the Story of Three Nobel Prizes from a Modern Perspective
+
+• Tuesday, 31 May 2016, 8.15 pm (ETH Zentrum, Auditorium Maximum, HG F 30)
+On the Structural Biochemical Mechanism of Synaptic Neurotransmission in the Brain
+
+• Wednesday, 1 June 2016, 3.30 pm (ETH Hönggerberg campus, lecture hall HCI G3).
+The Wolfgang Pauli Lectures, a three-part lecture series, have been held annually since 1962. They are dedicated, in turn, to physics, mathematics and biology. The Pauli Lectures offer a forum for distinguished speakers to present their pioneering research. The lecture series is named after the theoretical physicist and Nobel laureate Wolfgang Pauli, who was a professor at ETH Zurich from 1928 until his death in 1958. The lectures, which are given in English, are open to the public and aimed at a wide audience with an interest in natural sciences. Admission is free. Registration is not necessary.
 
 The lectures from James E. Rothman:
 

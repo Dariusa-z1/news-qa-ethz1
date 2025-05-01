@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2013/12/roland-siegwart-why-the-nccrs-are-so-important-for-eth-zurich.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Prof. Siegwart, the Federal Council has launched new National Centres of Competence in Research (NCCR), whereby ETH Zurich is involved in four in a leading or co-leading capacity. What is your reaction as ETH Vice President Research and Corporate Relations? Roland Siegwart: I'm very happy. This is a huge success for ETH Zurich. Our researchers put a great deal of energy and enthusiasm into their applications. I'm all the more delighted that their visions and dreams are now coming true.

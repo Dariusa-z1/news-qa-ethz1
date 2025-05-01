@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2016/09/neun-professorinnen-und-professoren-ernannt.html
 
+**Date processed:** 2025-05-01
+
 ## Ernennungen
 
 Der ETH-Rat hat an seiner Sitzung vom 28./29. September 2016 auf Antrag des Präsidenten der ETH Zürich, Lino Guzzella, neun Professorinnen und Professoren ernannt und den Rücktritt von drei Professoren zur Kenntnis genommen.
@@ -30,8 +32,6 @@ Federica Sallusto.
 
 Dr. Federica Sallusto (*1961), zurzeit Direktorin des Center of Medical Immunology und Leiterin des Laboratory of Cellular Immunology am Institute for Research in Biomedicine an der Università della Svizzera italiana in Bellinzona, zur ordentlichen Professorin für Medizinische Immunologie. Federica Sallusto ist eine weltweit renommierte Wissenschaftlerin. Ihre Arbeiten und Forschungsergebnisse haben wesentlich zum heutigen Verständnis der Humanimmunologie beigetragen. In jüngster Zeit schaffte sie es mit ihrem Team dank neuer Ansätze, humane T Zellen mit definierten Eigenschaften für Impfstudien oder in pathologischen klinischen Situationen (z.B. Autoimmunerkrankungen) zu untersuchen. Mit Federica Sallusto kann die ETH Zürich ihre internationale Spitzenposition im Bereich der Life Sciences und der personalisierten Medizin wesentlich stärken.
 
-## Verabschiedungen
-
 Gerhard Schratt.
 
 Prof. Dr. Gerhard Schratt (*1972), zurzeit Professor und Direktor des Instituts für Physiologische Chemie an der Philipps-Universität Marburg, Deutschland, zum ordentlichen Professor für Systemneurowissenschaften. Gerhard Schratts international beachtete Forschung konzentriert sich auf die molekularen Mechanismen, die der Ausbildung und umweltabhängigen Veränderung neuronaler Schaltkreise im menschlichen Gehirn zugrunde liegen. Sein besonderes Interesse gilt dabei den Synapsen, denen eine wichtige Rolle bei der Informationsspeicherung zukommt. Mit der Berufung von Gerhard Schratt kann das Departement Gesundheitswissenschaften und Technologie die Verbindungen zwischen den Forschungsbereichen Gesundheit, Systembiologie und Neurowissenschaften ideal verstärken.
@@ -41,6 +41,8 @@ Sonia Seneviratne.
 Prof. Dr. Sonia Seneviratne (*1974), zurzeit ausserordentliche Professorin an der ETH Zürich, zur ordentlichen Professorin für Land-Klima Dynamik. Sonia Seneviratne hat sich weltweit Beachtung als sehr innovative Forscherin verschafft. Sie befasst sich mit Land-Klima-Wechselwirkungen auf verschiedenen räumlichen und zeitlichen Skalen. Dabei setzt sie Modelle, Datenanalysen und neue Verfahren zur Erzeugung von Validationsdatensätzen ein. Grosse Anerkennung erfuhr sie durch die Ernennung zur leitenden Autorin des IPCC-Sonderberichts zu extremen Klimaereignissen, der 2012 veröffentlicht wurde. Mit der Ernennung von Sonia Seneviratne zur ordentlichen Professorin erhält sich die ETH Zürich eine erfolgreiche Forscherin in einem gesellschaftlich höchst relevanten Forschungsgebiet.
 
 Mark Tibbitt.
+
+## Verabschiedungen
 
 Dr. Mark Tibbitt (*1985), zurzeit Postdoktorand am Massachusetts Institute of Technology, Cambridge, USA, zum Tenure-Track-Assistenzprofessor für Makromolekulares Engineering. Während seiner Promotion widmete sich Mark Tibbitt der Synthese und mechanischen Charakterisierung von polymeren Hydrogelen für die Kultur von Säugetierzellen und für die regenerative Medizin. Er konnte dabei international beachtete Resultate erzielen. Seither widmet er sich der Entwicklung und Produktion von polymeren Materialien für die kontrollierte Abgabe von kleinen Molekülen und Biotherapeutika, etwa für Anwendungen in der Augen-, Herz- und Krebsmedizin. Mit der Berufung von Mark Tibbitt verstärkt die ETH Zürich ihre Expertise in wichtigen Bereichen wie Gewebe-Engineering und regenerative Medizin.
 

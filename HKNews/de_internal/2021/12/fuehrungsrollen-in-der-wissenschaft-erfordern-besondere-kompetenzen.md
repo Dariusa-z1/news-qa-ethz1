@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2021/12/fuehrungsrollen-in-der-wissenschaft-erfordern-besondere-kompetenzen.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Im Workstream 3 geht es um die Begleitung von Professorinnen und Professoren. Welche konkreten Themen behandelt die Arbeitsgruppe? Edoardo Mazza: Wir konzentrieren uns im Wesentlichen auf drei Themen: Beim ersten geht es darum, Professorinnen und Professoren in ihrer Führungsrolle zu unterstützen. Zweitens betrachten wir die verschiedenen Phasen während der Amtszeit von Professorinnen und Professoren. Wir entwickeln Instrumente, um beispielsweise die Prozesse rund um die Berufung, Beförderung oder Emeritierung zu verbessern. Auch Themen wie Arbeitsbelastung oder die Gleichbehandlung von Geschlechtern innerhalb der Professorenschaft oder die Evaluation der Professorinnen und Professoren gehören dazu. Das dritte Thema ist die Konfliktprävention und der Umgang mit Konfliktsituationen. Hier geben wir als Soundingboard Feedback zu neuen Prozessen und Unterstützungsangeboten, die der Bereich VPPL entwickelt.

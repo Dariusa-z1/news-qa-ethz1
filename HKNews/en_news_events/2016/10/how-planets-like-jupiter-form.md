@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2016/10/how-planets-like-jupiter-form.html
 
+**Date processed:** 2025-05-01
+
 ## Luminous shock front detected
 
 Astronomers set up two theories explaining how gaseous giant planets like Jupiter or Saturn could be born. A bottom-up formation mechanism states that first, a solid core is aggregated of roughly ten times the size of the Earth. «Then, this core is massive enough to attract a significant amount of gas and keep it,» explains Judit Szulágyi, post-doctoral fellow at the ETH Zürich and member of the Swiss NCCR PlanetS. The second theory is a top-down formation scenario: Here the gaseous disk around the young star is so massive, that due to self-gravity of the gas-dust, spiral arms are forming with clumps inside. Then, these clumps collapse via their own gravity directly into a gaseous planet, similar to how stars form. The first mechanism is called «core-accretion», the second one «disk instability». In both cases, a disk forms around the gas-giants, called the circumplanetary disk, which will serve as a birth-nest for satellites to form.
@@ -14,13 +16,13 @@ Regarding the size of the new born planet, observations can be misleading as the
 
 «When we see a luminous spot inside a circumplanetary disk, we cannot be sure whether we see the planet luminosity, or also the surrounding disk luminosity,» says Judit Szulágyi. This may lead to an overestimation of the planet’s mass of up to four times. «So maybe an observed planet has only the same mass as Saturn instead of some Jupiter masses,» concludes the scientist.
 
-## References
-
 In their simulations the astrophysicists mimicked the formation processes by using the basic physical laws such as gravity or the hydrodynamical equations of the gas. Because of the complexity of the physical models the simulations were very time consuming, even on Europe’s fastest supercomputer at CSCS: «On the order of nine months running time on hundreds to several thousands of computing cores» estimates Judit Szulágyi: «This means that on one computing core it would have taken longer than my entire lifetime.»
 
 Yet there are still challenges ahead. Simulations of disk instability still do not cover a long timescale. It is possible that after the protoplanet has collapsed to the density of Jupiter its disk will heat up more like in core-accretion. Likewise, the hotter gas found in the core-accretion case would be partially ionized, a favourable environment for effects of magnetic fields, completely neglected so far. Running even more expensive simulations with a richer description of the physics will be the next step.
 
 The author of this text, Barbara Vonarburg, is in charge is in charge of public outreach at the National Competence Center in Research PlanetS .
+
+## References
 
 Szulagyi J, Mayer L, Quinn T. Circumplanetary disks around young giant planets: a comparison between core-accretion and disk instability, Monthly Notices of the Royal Astronomical Society 2016; doi: 10.1093/mnras/stw2617
 

@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2018/10/blog-siegwart-mooresches-gesetz.html
 
+**Date processed:** 2025-05-01
+
 ## Reale Welt hat andere Gesetzmässigkeiten
 
 Kürzlich war ich am Swiss Startup Day und sah dort einen Videovortrag von Peter Diamandis. Der charismatische Amerikaner begründete die X-Prize-Stiftung, welche Preise für radikale technische und wissenschaftliche Entwicklungen ausschreibt. Mit blumigen Worten erklärte uns Diamandis im Vortrag die «Disruptivität der Innovation», die dadurch ermöglicht wird, dass sich die Rechenleistung von Computern und die Menge der verfügbaren Daten exponentiell entwickeln. Diamandis erklärte das schon hinreichend bekannte mooresche Gesetz, das aufzeigt, dass sich die Rechenleistung pro Mikrochip-Fläche seit 1971 etwa alle 18 Monate verdoppelt.
@@ -18,11 +20,11 @@ Auch bei der Entwicklung von besseren Batterien, die für Elektroautos, Smartpho
 
 Wenn auch immer wieder Spektakuläres aus den Forschungslabors zu hören ist, sind in den nächsten Jahren kaum neue Batteriekonzepte zu erwarten, die die Energiedichte exponentiell wachsen lassen. Energiedichte von Batterien oder Erträge aus Ackerland haben physikalische Grenzen, die auch durch grosse Versprechen nicht einfach wegzudiskutieren sind. Die Digitalisierung mag uns zwar helfen, Fahrzeuge, Stromnetze oder die Landwirtschaft effizienter und nachhaltiger zu machen, aber das nur in kleinen Schritten.
 
-## Zum Autor
-
 Fortschritte in Bereichen wie Welternährung, Klimawandel oder nachhaltige Energieversorgung sind dringend nötig. Dazu braucht es viel Forschung und Entwicklung und auch ein gesellschaftliches Umdenken. Bei diesen entscheidenden Themen werden es nicht disruptive Schritte sein, die sehr schnell die Kassen der Firmen füllen. Richtige Investitionen in die Zukunft sind langfristig und kapitalintensiv. Statt grossartige Gewinne schaffen sie eine bessere Welt. Es wäre schön, wenn die IT-Firmen und ihre visionären Vordenker ihre exponentiell wachsenden Gewinne vermehrt für die exponentiell wachsenden Probleme unserer Welt einsetzten, um die realen Herausforderungen der Menschheit zu lösen. Denn eine bessere Welt wäre ein grossartiger Gewinn.
 
 Dieser Text ist auch als Autorenbeitrag in der NZZ erschienen.
+
+## Zum Autor
 
 Roland Siegwart Professor für Autonome Systeme an der ETH Zürich und Co-Direktor des Wyss Zurich
 

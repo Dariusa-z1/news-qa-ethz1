@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2020/11/zukunftsblog-tim-keys-pandemie-bedrohungen-proaktiver-angehen.html
 
-## Weitere Krankheitsausbrüche sind unvermeidlich
+**Date processed:** 2025-05-01
+
+## Main article
 
 (Bild: ETH Zürich)
 
@@ -10,7 +12,7 @@ Im Marathon der Entwicklung eines Impfstoffs gegen Covid-19 sind wir beim Endspu
 
 Die gegenwärtige Pandemie werden wir wahrscheinlich innert wenigen Jahren unter Kontrolle bringen können. Bei Krankheiten wie Masern, Kinderlähmung und Pocken war das anders, sie haben die Menschheit während Jahrhunderten geplagt. Erst in den letzten Jahrzehnten ist es uns mit Impfstoffen gelungen, die von ihnen verursachte Last an Todesfällen und Behinderungen zu verringern oder gar ganz zu eliminieren. Dieser Erfolg hat allerdings eine Kehrseite: Das öffentliche Bewusstsein für die Gefahr, die von Infektionskrankheiten ausgeht, hat ebenfalls abgenommen.
 
-## Lehren von Ebola und Sars-1
+## Weitere Krankheitsausbrüche sind unvermeidlich
 
 Covid-19 erinnert uns schmerzlich daran, dass unsere Gesellschaft nach wie vor anfällig ist auf neu auftretende Infektionskrankheiten. Weil viele Krankheitserreger heute mit Impfungen bekämpft werden können, besteht die Herausforderung der kommenden Jahrzehnte darin, Impfstoffe zu entwickeln, die uns vor künftigen Krankheitsbedrohungen schützen.
 
@@ -18,15 +20,13 @@ Immer wieder nämlich springen Krankheiten vom Tier auf den Menschen über. Mit 
 
 Diese Vorbereitung umfasst im Wesentlichen drei Dinge: Erstens wachsam zu sein und zu erkennen, welche Infektionskrankheiten auftreten und zirkulieren (Monitoring), zweitens solche Erreger zu erforschen und drittens gegen sie präventiv Impfstoffe zu entwickeln.
 
-## Hohe Kosten lohnen sich
-
 Meist scheitern wir an diesem dritten Punkt, und dafür gibt es gute Gründe: Die Entwicklung eines Impfstoffs von der ersten Idee bis zum erfolgreichen Abschluss von klinischen Studien kann mehr als ein Jahrzehnt dauern und kostet über 500 Millionen US-Dollar. Das Risiko eines Scheiterns ist hoch. Und selbst wenn die Entwicklung erfolgreich ist, ist die Aussicht auf einen kommerziellen Erfolg bei einem solchen Impfstoff gering, denn bereits eine verhältnismässig geringe Anzahl Dosen reicht, um einen Ausbruch zu beenden. Entsprechende Projekte werden daher nur selten zu Ende geführt.
 
 Ein tragisches Beispiel ist der Impfstoff gegen Ebola. Obschon während mehr als zehn Jahren an seiner Entwicklung gearbeitet wurde, war er erst ein Jahr nach dem Ausbruch der Krankheit 2014 in Westafrika einsatzbereit. Bei diesem Ausbruch starben 11'000 Menschen. Heute wissen wir, dass der Impfstoff einen 100%-igen Schutz gegen die Krankheit bietet.
 
 Bei Sars-1 versiegten die finanziellen Anreize für die Entwicklung eines Impfstoffs, nachdem der Ausbruch unter Kontrolle gebracht wurde. Im vergangenen April veröffentlichte Laborstudien deuten darauf hin, dass ein Impfstoff gegen Sars-1 möglicherweise einen gewissen Schutz vor einer Covid-19-Infektion geboten hätte 1 . Wäre die Entwicklung fortgesetzt worden, hätte ein Sars-1-Impfstoffkandidat in der Frühphase des Covid-19-Ausbruchs getestet werden können. Möglicherweise hätte er die Covid-Epidemie zum Stillstand gebracht, bevor sie sich zu einer Pandemie ausgeweitet hat.
 
-## Referenzen
+## Hohe Kosten lohnen sich
 
 Vorsorge zahlt sich aus. Und es gibt auch positive Beispiele, die das zeigen: Die schnelle Entwicklung von Covid-19-Impfstoffen ist auch mehreren Jahren an Grundlagenforschung und angewandter Impfstoffforschung zum Mers-Virus zu verdanken. Mehrere Mers-Impfstoffprojekte wurden langfristig finanziell unterstützt von der Coalition for Epidemic Preparedness Innovations (Cepi), einem Konsortium von öffentlichen, privaten und philanthropischen Geldgebern. So waren es für Mers entwickelte Impfstoff-Strategien, welche die sofortige Herstellung von vielversprechenden Covid-19-Kandidaten ermöglichten 2 . Man kann den Einfluss der Mers-Impfstoffforschung auf unsere gegenwärtige Situation jedenfalls kaum hoch genug einschätzen. Ohne diese Vorarbeiten hätte es Jahre gedauert, bis ein wirksamer Covid-19-Impfstoff entwickelt worden wäre.
 
@@ -34,7 +34,7 @@ Das Cepi-Konsortium verfolgt das Ziel, die Entwicklung von mindestens einem Impf
 
 Wenn wir die Folgen künftiger Ausbrüche minimieren wollen, ist es von entscheidender Bedeutung, dass die Gesellschaft den wahren Wert von Impfstoffen versteht und die Regierungen in die präventive Entwicklung von Impfstoffen investieren.
 
-## Zum Autor
+## Referenzen
 
 1 Walls CA et al.: Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein. Cell 2020, 181:281, doi: externe Seite 10.1016/j.cell.2020.02.058
 
@@ -43,6 +43,8 @@ Wenn wir die Folgen künftiger Ausbrüche minimieren wollen, ist es von entschei
 3 Gouglas D et al.: Estimating the cost of vaccine development against epidemic infectious diseases: a cost minimisation study. Lancet Global Health 2018, 6: e1386, doi: externe Seite 10.1016/S2214-109X(18)30346-2
 
 4 externe Seite Schwab J: Fighting COVID-19 could cost 500 times as much as pandemic prevention measures
+
+## Zum Autor
 
 Tim Keys Wissenschaftler am Departement Gesundheitswissenschaften und Technologie der ETH Zürich
 

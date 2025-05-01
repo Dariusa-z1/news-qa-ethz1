@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2018/02/organisationsdatenbank-im-neuen-design.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Seit Februar 2018 erscheint der Webauftritt der Organisationsdatenbank im neuen Corporate Web Design. Die Menüführung wurde verbessert, die bisherigen Funktionen bleiben unverändert. Sie umfassen z.B. verschiedene Anzeigemöglichkeiten von Strukturen, die Erstellung von Listen nach Organisationstyp (z.B. Departemente, Professuren, Studiengänge u.a.) oder die Suche nach Führungsverantwortlichen einer Einheit.

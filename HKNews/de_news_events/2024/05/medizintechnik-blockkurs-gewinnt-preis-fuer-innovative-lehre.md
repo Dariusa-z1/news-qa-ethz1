@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2024/05/medizintechnik-blockkurs-gewinnt-preis-fuer-innovative-lehre.html
 
-## Der Projektplan ist am ersten Tag fällig
+**Date processed:** 2025-05-01
+
+## Main article
 
 Die selbst entwickelte und produzierte Exoskelett-Greifhand packt zu. In diesem Moment erleben die ETH-Medizinstudierenden am eigenen Körper, wie ihr System funktioniert und dass sie ihr theoretisches Wissen auch in der Praxis anwenden können.
 
@@ -10,11 +12,11 @@ Es ist dies der Höhepunkt des fünftägigen Blockkurses «Medizintechnik 2», d
 
 Die ETH-Professoren Roger Gassert und Olivier Lambercy und die beiden Doktorandinnen Giada Devittori und Lena Salzmann entwickelten diesen Kurs. Besonders für das intensive Lernerlebnis wurde der Kurs jetzt ausgezeichnet: Die Konferenz des Lehrkörpers der ETH verlieh den Dozierenden den Kite-Award 2024. Mit dem Preis würdigt die ETH alle zwei Jahre ein besonders innovatives Lehrprojekt.
 
+## Der Projektplan ist am ersten Tag fällig
+
 Um die Beteiligung und Motivation der Studierenden hochzuhalten, setzt der Kurs auf ein forsches Tempo, wie das bei sogenannten Design-Sprints üblich ist. Um 18 Uhr des ersten Kurstags liefern die Teams bereits einen Projektplan ab, am Tag darauf die ersten 3D-Visualisierungen. In den Teams übernehmen die Studierenden die Rollen von Spezialist:innen für Entwurf und Prototypenbau, Programmierung, Elektronik und Sensoren, Nutzer-Evaluation und -Präsentation oder als Gruppenleiter:innen. Am Vormittag des letzten Kurstags präsentieren sie ihre Greifer.
 
 Dazwischen geben die Dozierenden Inputs zu Design und Prototyping, Innovation, Elektronik und Sensorik. Vorträge von Medizinaltechnik-Firmen und Gespräche mit Menschen mit Behinderungen sind ebenso Teil des Kurses. Dadurch sollen die Studierenden lernen, sich konsequent an den Bedürfnissen der Nutzenden zu orientieren. Mentor:innen sind für Fragen immer vor Ort. Sie unterstützen die Studierenden beim Umgang mit dem Lasercutter, mit 3D-Druckern, beim Löten und beim Zusammenbau der Mechanik.
-
-## Projekte während des ganzen Studiums
 
 Der Kurs endet mit einem Wettkampf, bei welchem die Teams mit ihren Greifern alltägliche Aufgaben erledigen müssen. Das Format ist inspiriert vom Cybathlon, dem internationalen Wettkampf, bei welchem sich Menschen mit Behinderungen mit Assistenzsystemen in verschiedenen Disziplinen messen.
 
@@ -22,11 +24,11 @@ Zusammen mit der Schlusspräsentation der Studierenden fungiert der Wettkampf al
 
 Neben der intensiven Lernerfahrung liegt den Kursmachern am Herzen, bei den künftigen Ärztinnen und Ärzten Interesse für die Ingenieurwissenschaften zu wecken und die Zusammenarbeit mit Ingenieur:innen zu fördern. Die Konferenz des Lehrkörpers lobt das Projekt genau für diese Idee und für seine hohe Intensität.
 
+## Projekte während des ganzen Studiums
+
 Einen anderen Ansatz verfolgen die zwei weiteren Projekte, die es in den Final des Kite-Awards geschafft haben: Ihnen gemeinsam ist, dass sie das Engagement der Studierenden über längere Zeit konstant hochhalten wollen.
 
 Am Center for Project Based Learning des Departements Informationstechnologie und Elektrotechnik (D-ITET) können Studierende Praxiserfahrung in Projekten sammeln.
-
-## Automatisierte Mathematik-Übungen
 
 Das Center ist 2020 gegründet worden und umfasst mittlerweile ein Team von 32 Wissenschaftler:innen und administrativen Angestellten. Diese unterstützen die Studierenden neben ihrer Forschungstätigkeit.
 
@@ -38,7 +40,7 @@ Bei den Projekten lernen die Studierenden unter anderem, realistische Aufgabenst
 
 Dass Projekte aufbauend von der Bachelor- bis zur Masterstufe angeboten werden, bewertet die Konferenz des Lehrkörpers positiv.
 
-## Innovation in Learning and Teaching Fair
+## Automatisierte Mathematik-Übungen
 
 Das dritte Finalisten-Projekt kommt aus der Mathematik: Die beiden Dozierenden Meike Akveld und Andreas Steiger haben automatisierte Mathematik-Übungssequenzen entwickelt. Denn um die Grundlagen wie etwa das Integrieren zu beherrschen, braucht es vor allem Übung. Zugleich gibt es nur eine beschränkte Anzahl Hilfsassistentinnen, die solche Übungen betreuen können.
 
@@ -49,6 +51,8 @@ Möglich wird dies dank einem Computeralgebrasystem Stack, mit welchem mathemati
 Dass die neue Lehrform selbständiges, aktives Lernen fördere, lobt die Konferenz des Lehrkörpers in ihrer Beurteilung als wegweisend. Zudem lasse sich das Konzept sehr gut skalieren und auf andere Bereiche übertragen, was angesichts des Wachstums der Studierendenzahlen an der ETH zentral sei.
 
 Künftig sollen auch Prüfungen mit dem System durchgeführt werden. Als Pilot kam es bereits erfolgreich zum Einsatz. Der Korrekturaufwand sei deutlich gesunken, während die Aufgabenqualität hoch geblieben sei, schreiben die Macher:innen.
+
+## Innovation in Learning and Teaching Fair
 
 Die Preisverleihung des Kite-Awards fand im Rahmen der zweiten « Innovation in Learning and Teaching Fair » am 15. Mai statt. Bei dem Anlass tauschen sich ETH-​​Dozierende bei einer grossen Ausstellung in der Haupthalle über innovative Lehrprojekte und -​ideen aus. Der Kite-Award zeichnet Lehrprojekte aus, die zugleich innovativ, wirksam und nachhaltig sind, also die Kompetenzen nachhaltig festigen. Sie sollen sich aber auch potenziell auf andere Fächer und Gebiete übertragen lassen. Der Kite-Award 2024 fokussierte auf Lehrformate, die Studierende besonders aktiviert und ihr Engagement im Unterricht fördert.
 

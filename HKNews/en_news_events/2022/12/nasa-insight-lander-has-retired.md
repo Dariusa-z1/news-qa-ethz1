@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2022/12/nasa-insight-lander-has-retired.html
 
+**Date processed:** 2025-05-01
+
 ## "A lifetime adventure"
 
 NASA had previously decided to declare the mission over if the lander misses two communication attempts. The agency will continue to listen for a signal from the lander, just in case, but hearing from it at this point is considered unlikely. The last time InSight communicated with Earth was December 15.
@@ -13,8 +15,6 @@ Short for Interior Exploration using Seismic Investigations, Geodesy and Heat Tr
 “It has been a lifetime adventure for our Swiss team, initiated already in 1997,” says Prof. Domenico Giardini, head of the Mars team at ETH Zurich. “We contributed to InSight the seismometer electronics, project management, the design and daily operation of the Marsquake Service and we finally had the chance for amazing research, we have been very lucky in our life as scientific researchers to be able to participate in a successful planetary exploration mission.”
 
 The highly sensitive seismometer detected 1,318 marsquakes, including quakes caused by meteoroid impacts; the largest unearthed boulder-size chunks of ice late last year.
-
-## Insight-Mission
 
 Such impacts help scientists determine the age of the planet’s surface, and data from the seismometer provides scientists a way to study the planet’s crust, mantle, and core.
 

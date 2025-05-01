@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2016/05/creative-proofs-with-pigeons-and-boxes.html
 
+**Date processed:** 2025-05-01
+
 ## The beauty of putative reasons
 
 Mathematics is sometimes like football. Solving a tricky task is not a solitary endeavour, but rather a joint effort requiring creativity and tactics. A lot is going on when secondary school students come together to solve mathematical problems at the ETH Math Youth Academy. A student comes up with an idea, a second one picks it up, suggests a possible solution and passes it to their teammate, who then scores: the problem is solved.
@@ -12,17 +14,15 @@ The solution can be found in the ‘pigeonhole’ or ‘drawer’ principle, whi
 
 If four pigeons are to be housed in only three pigeonholes, then one pigeonhole must contain at least two pigeons. The same applies if you want to place four pearls in three drawers. The principle can be generalised: when there are more items to be divided up than containers assigned, then at least one container must hold more than one item.
 
-## Creative evidence or what is the ‘pigeon’?
-
 The pigeonhole principle has a wide range of possible applications: as a method of proof, it has proven as useful in geometry as in number theory, combinatorics, graph theory (network theory), formal logic or even theoretical computer science.
 
 “That’s the beauty of mathematics: we begin with a simple principle and quickly arrive at surprising conclusions and unexpected results,” says Kaloyan Slavov. The postdoc from the Department of Mathematics researches algebraic geometry and organises the ETH Math Youth Academy. From Bulgaria, Slavov studied at Harvard, Cambridge and MIT.
 
 The ETH Math Youth Academy is part of the educational programme of the National Centre of Competence in Research, The Mathematics of Physics (NCCR SwissMAP). Under the direction of the University of Geneva and ETH Zurich, it promotes research, teaching and knowledge transfer in the fields of mathematics and theoretical physics.
 
-The pigeonhole principle quickly becomes challenging, even for secondary school students. They have to apply it to an example from geometry: a straight line intersects a triangle in such a way that it does not touch any of the triangle’s corner points. How can it be proven with the pigeonhole principle that the line cannot intersect all three sides of the triangle?
+## Creative evidence or what is the ‘pigeon’?
 
-## Mathematics is more than calculating numbers
+The pigeonhole principle quickly becomes challenging, even for secondary school students. They have to apply it to an example from geometry: a straight line intersects a triangle in such a way that it does not touch any of the triangle’s corner points. How can it be proven with the pigeonhole principle that the line cannot intersect all three sides of the triangle?
 
 From this starting point, the students notice that the real difficulty with the principle is to find out on a case-by-case basis which elements should be treated as the ‘pigeons’ and which as the ‘boxes’. This requires a flash of understanding before they can begin to apply the method to a given problem.
 

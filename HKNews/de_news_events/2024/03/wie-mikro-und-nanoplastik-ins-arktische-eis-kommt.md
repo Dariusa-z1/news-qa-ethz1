@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2024/03/wie-mikro-und-nanoplastik-ins-arktische-eis-kommt.html
 
+**Date processed:** 2025-05-01
+
 ## Neue Eigenschaften durch Zerkleinerung
 
 «Beat the Micro Bead» heisst eine 2012 initiierte Kampagne, mit dem Ziel, den Einsatz von Mikroplastik in Kosmetikprodukten zu reduzieren, um negative Auswirkungen auf Umwelt und Menschen einzudämmen. Für Alice Pradel war die Kampagne ein Weckruf. «Als junge Umweltwissenschaftlerin war ich schockiert, dass wir all diese Chemikalien in die Umwelt bringen, ohne uns dafür zu interessieren, was damit passiert», erinnert sie sich. Etwa zur gleichen Zeit machten Bilder vom «Great Pacific garbage patch» die Runde, vom riesigen Müllteppich inmitten des Pazifiks, der zu grossen Teilen aus Plastikabfällen besteht und zum Sinnbild für den anthropogenen Plastikexzess wurde. Im Jahr 2020 wurden weltweit rund 400 Millionen Tonnen Plastik produziert; neun Prozent davon wurden rezykliert, 12 Prozent verbrannt – und der gesamte Rest landet auf Mülldeponien, in der Umwelt oder im Meer.
@@ -13,8 +15,6 @@
 Sie schrieb ihre Doktorarbeit daraufhin bei Gigault zur Frage, wie und wo sich Mikro- und Nanoplastik in porösen Materialien anreichert. Gegen Ende stellte sie erstaunt fest, dass sich auch im arktischen Meereis mittlerweile grosse Mengen an Mikroplastik angesammelt hatten. Studien hatten dies kurz zuvor belegt. Eis ist ebenfalls hochporös, es gibt Stellen höherer und geringerer Dichte, Hohlräume und mikroskopisch kleine Salzwasserflüsse zwischen den Eiskristallen. Dadurch findet zwischen dem Meerwasser und dem Eis ein ständiger Austausch statt – und dafür begann sich Pradel zunehmend zu interessieren. «Dass sich Mikro- und Nanopartikel zwischen den Eiskristallen ablagern können, ist hochproblematisch. Denn das sind genau jene Stellen, wo Mikroalgen am besten gedeihen», erklärt sie. Andere Forschende haben gezeigt, dass die Algen toxische Plastik-Zusatzstoffe aufnehmen und diese in die arktische Nahrungskette gelangen können.
 
 2018 zeigte eine Studie, dass die kleinsten Mikroplastikpartikel am häufigsten im Meereis vorkommen. Mikroplastik ist definitionsgemäss kleiner als fünf Zentimeter, Nanoplastik sogar kleiner als ein Mikrometer. Mikroplastik-Partikel, die kleiner als zehn Mikrometer sind, können die Forschenden nicht mehr quantifizieren; sie stossen an analytische Grenzen. «Wir schliessen daraus, dass wir den grössten Teil des Plastiks im Meereseis weder sehen noch genau messen können», erklärt Pradel.
-
-## Erste Arktisexpedition
 
 Während ihrer Doktorarbeit hat die Forscherin ein Laborverfahren entwickelt, um Meereis im Labor wachsen zu lassen. Seit April 2022 züchtet Pradel ihre Eiskerne im Rahmen eines ETH Postdoctoral Fellowships am Departement für Umweltnaturwissenschaften der ETH Zürich. Dafür kühlt sie Meerwasser in einer Glassäule mit einem Temperaturgradienten, der von 1 °C (unteres Ende) bis -5 °C Grad (oberes Ende) reicht. Nach 19 Stunden entsteht am oberen Ende ein rund zehn Zentimeter dicker Eiskern. Werden dem Meerwasser zu Beginn Mikro- und Nanoplastikpartikel beigemischt, kann Pradel nachvollziehen, wie die Partikel vom Wasser ins Eis gelangen und dort eingelagert werden.
 

@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2017/01/work-in-the-year-2050.html
 
+**Date processed:** 2025-05-01
+
 ## Consequences for society and education
 
 “What will the world look like in 2050? Nobody knows, but progress in science and technology, notably in cyber-physical systems, presents many opportunities, but also inevitable challenges,” said ETH President Lino Guzzella in his welcome address to a packed Audi Max last Saturday. Nevertheless, ETH Zurich ventured a glance into the future with the “Global Talent Summit”, with Guzzella going on to say that the role of universities is to continually adapt to new methods of research, teaching and learning in order to meet the needs of society and prepare the next generation for the future.
@@ -18,9 +20,9 @@ The other panellists took a less drastic view in the forum on the economic, soci
 
 The talks and discussions at the forum on the technological dimension also highlighted the huge opportunities that intelligent machines present. A presentation by ETH professor Bob Sumner was met with great enthusiasm from the audience. The Associate Director of Disney Research in Zurich gave a live demonstration of how drawings in two-dimensional colouring books or paintings can be converted into animated three-dimensional figures using a special app. Unlike previous concepts, where the person enters a virtual reality using special glasses, Sumner wants to bring virtual elements into our world in order to enable interaction and boost creativity.
 
-On the other hand, the head of Google Research Europe, Emmanuel Mogenet, provided some insights into the topic of “intelligent machines”. He said that machines are particularly good at turning large quantities of unstructured information into usable data, but so far they lack intuition and experience of the world. Machines therefore now need to learn how to learn.
-
 ## Technology as an aid to people
+
+On the other hand, the head of Google Research Europe, Emmanuel Mogenet, provided some insights into the topic of “intelligent machines”. He said that machines are particularly good at turning large quantities of unstructured information into usable data, but so far they lack intuition and experience of the world. Machines therefore now need to learn how to learn.
 
 In principle, the experts taking part in the discussion continue to see machines as an aid to people. In their prognosis, the talented and well educated in particular can and will use these new aids to their advantage. James Hodson, CEO of the AI for Good Foundation, raised the question of whether the existing education system provides adequate support to talented individuals. The enthusiastic audience asked critical questions about how people with less education could be integrated into society in the future.
 

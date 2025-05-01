@@ -2,19 +2,17 @@
 
 **Source:** en_news_events/2015/10/perfect-outfit-one-click-away.html
 
+**Date processed:** 2025-05-01
+
 ## Every outfit on Instagram can now be bought
 
 Anyone who thinks fashion and computer science are two irreconcilable concepts and that fashion is inherently out of place in a technical course would quickly change their opinion with a single visit to the ETH spin-off Fashwell . Three graduates, two from computer science and one from electrical engineering, share a spacious office on Sternwartestrasse. All three are dressed in shirts and skinny jeans and have stylish haircuts. You can’t miss the fact that the young founders place a high priority on fashion and appearance – but you wouldn’t suspect that they also develop complex algorithms that could soon set every fashion lover’s heart racing.
 
-## Adaptive algorithms make it possible
-
 This is exactly what the three graduates wanted to achieve with their new app, which is available free for iOS. “Our goal is to make possible to buy every fashion photo on the internet,” explains co-founder Matthias Dantone. He is referring to the ability to instantly order articles of clothing online from any image on the web. Although the app works only for Instagram photos so far, the young entrepreneur is excited about the new product. “You just have to ‘like’ a photo on Instagram or comment on it with the hash tag #wtfash (short for ‘what the fash’) and you immediately receive a message with the outfit and similar articles of clothing. With one click, you are then directed to the online shop that offers the product. I can purchase any outfit I like from any Instagram photo or I can order a similar, less expensive outfit,” says the 28-year-old Dantone.
-
-## Great expectations for the future
 
 Although their target group is millennial shoppers – fashion lovers and app enthusiasts between 16 and 25 years of age – the co-founder is responsible for the original idea. “I have been a passionate collector of trainers for a long time,” explains the former ETH doctoral student. “Whenever I saw cool shoes in a photo, I wanted them and I was annoyed that I had no idea what they were or where I could buy them. After many conversations with friends, I was convinced that we could address a gap in the market with this solution.”
 
-## Don't miss the latest news
+## Adaptive algorithms make it possible
 
 He was also able to persuade his two co-founders, Lukas Bossard and Michael Emmersberger, who he met at ETH Zurich’s Computer Vision Lab. For a year and a half they tinkered on a solution, trying out various product versions until the official launch of Fashwell and the decision to go forward with the Fashwell app in August 2014. Since then, the three have been working intensively on the development of the smartphone application. The young entrepreneurs’ business model and planned app won over the Pioneer Fellowship jury led by Professor Roland Siegwart, former vice president for research and corporate relations. The jury awarded them 12 months of funding that started in September 2014.
 

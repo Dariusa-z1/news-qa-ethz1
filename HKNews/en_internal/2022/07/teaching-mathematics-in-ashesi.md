@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2022/07/teaching-mathematics-in-ashesi.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 In fall 2020, ETH Zurich launched a joint master's program with Ashesi University, which is located near Accra, the capital of Ghana. At the beginning of this year, the mechatronics degree program began classes. Over twenty students from seven African countries are taking part. The goal is to use ETH know-how to train engineers in Africa who can drive industrial development in Africa. Swiss industrial companies are among the partners. Lecturers from ETH Zurich are involved in the teaching. Accordingly, the first of them have now gained experience.

@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2016/06/eye-in-the-sky-to-monitor-crops.html
 
+**Date processed:** 2025-05-01
+
 ## Inspired by televised football matches
 
 Driving towards the ETH Institute of Agricultural Sciences’ Research Station in Lindau-Eschikon, near Zurich, a series of tall masts immediately catches the eye and raises the question: what purpose could they possibly serve? Researchers from the Crop Science Group at ETH Zurich have now revealed their secret. On Friday 10 th June, they held a small ceremony to launch a global first: an innovative crop phenotyping system that transfers sophisticated research capabilities from the lab to the field.
@@ -9,8 +11,6 @@ Driving towards the ETH Institute of Agricultural Sciences’ Research Station i
 This new system will allow the scientists to study the crops in high detail virtually through the entire year. Their mission is to discover the differences between the individual plant varieties and to determine how long they need to flower, or to discover the exact link between their growth and the ambient temperature and soil moisture. The ETH researchers are currently studying hundreds of small plots of different varieties of wheat, soy, maize, buckwheat and forage grasses.
 
 The monitoring system also allows the scientists to investigate whether – and how – fungal diseases develop on the crops, or to monitor weed cover on the ground. “In the long run, our system is a valuable tool for crop cultivation and precision farming”, summarises Achim Walter, Professor of Crop Science at ETH Zurich.
-
-## A digital farming experiment
 
 It was Professor Walter who originally came up with the idea of building a phenotyping system for crop research in the field. He was inspired by the “spider cams” suspended above football stadiums and currently used in the broadcasts of the Euro 2016 matches. These cameras provide a “birds eye” view of the football pitch for TV viewers.
 

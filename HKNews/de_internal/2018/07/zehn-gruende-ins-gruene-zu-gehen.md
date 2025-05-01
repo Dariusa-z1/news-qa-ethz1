@@ -2,25 +2,23 @@
 
 **Source:** de_internal/2018/07/zehn-gruende-ins-gruene-zu-gehen.html
 
+**Date processed:** 2025-05-01
+
 ## ETH Zentrum
 
 In luftigen Höhen: Auf der Gartenterrasse des LEE-Gebäudes geniesst man ein kleines bisschen Feriengefühl. Liegen und Stühle laden zu einer Pause ein, die reichhaltige Pflanzenkultur sorgt für eine entspannte Atmosphäre. Die Terrasse ist montags bis freitags von 7 bis 19 Uhr zugänglich.
 
 Zentral gelegenes Zauberwäldchen: Im Garten des Hauses «aki» finden sich auf kleinem Raum verschlungene Wege, Sitzgelegenheiten und eine Terrasse mit Blick über die Stadt – all dies unter dichtem Blätterdach. Zugang zur gemütlichen Waldatmosphäre erhält man montags bis freitags von 8 bis 18 Uhr.
 
-## ETH Campus Hönggerberg
-
 Weitsicht unter Kastanienbäumen: Wer sich Zeit nimmt für einen kurzen Aufstieg am Zürichberg, wird mit einem einzigartigen Panorama belohnt. Am Aussichtspunkt der reformierten Kirche Fluntern liegen den Besuchenden Stadt und See zu Füssen.
 
 Entspannung auf mehreren Ebenen: Im terrassenartig abgestuften Barockgarten Rechberg geniesst man die Atmosphäre eines kleinen Schlossparks. Gerade bei Sonnenuntergang lohnt sich eine Ruhepause auf einem der grossflächigen Bänke, um die letzten Strahlen des endenden Tages einzufangen. Aussicht, Atmosphäre und Sonne gibt es hier täglich von 6 bis 21 Uhr.
 
-## Staffnet
-
 Hier oben grüsst der grüne Daumen: Die Dachterrasse des CHN-Gebäudes lockt mit einem Platz an der frischen Luft. Eine Baumkronenwand sorgt für Schatten, über die gesamte Fläche verteilte Pflanzenkisten verstärken das Gesamtbild mit zusätzlichem Grün und Gartengefühl. Für eine Pause ist die Terrasse montags bis freitags von 6.30 bis 21 Uhr zugänglich.
 
-Unverhoffte Oase: Mitten im Herzen des Campus Hönggerberg liegt der Flora-Ruchat-Roncati Garten , eine naturbelassene Wiese, die einen kleinen Weiher umgibt. Bäume und umliegende Gebäude bieten Schutz vor dem fleissigen Treiben rundherum.
+## ETH Campus Hönggerberg
 
-## Newsletter abonnieren
+Unverhoffte Oase: Mitten im Herzen des Campus Hönggerberg liegt der Flora-Ruchat-Roncati Garten , eine naturbelassene Wiese, die einen kleinen Weiher umgibt. Bäume und umliegende Gebäude bieten Schutz vor dem fleissigen Treiben rundherum.
 
 Auch seichte Gewässer können still sein: Angrenzend an das Student Project House finden Ruhesuchende ein weitläufiges Wasserbecken , bei welchem man nicht nur die Beine im erfrischenden Nass, sondern auch die Seele baumeln lassen kann.
 

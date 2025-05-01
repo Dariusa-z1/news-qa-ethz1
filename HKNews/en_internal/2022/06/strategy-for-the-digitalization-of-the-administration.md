@@ -2,23 +2,9 @@
 
 **Source:** en_internal/2022/06/strategy-for-the-digitalization-of-the-administration.html
 
-## Questions about rETHink?
+**Date processed:** 2025-05-01
 
-- Systematic data analytics
-
-- Meeting and records management
-
-- Use of new technologies
-
-- Stakeholder and requirements management
-
-- Process coverage and process orientation
-
-- Digital literacy
-
-- protected pageStrategy for the Digitalization of the ETH Zurich Administrationlock
-
-- protected pageRoadmap for the Implementation of the Strategylock
+## Main article
 
 Peter Müller, you headed the working group charged with drawing up a digitalisation strategy, which entailed conducting a thorough analysis of the ETH Zurich administration. On a scale from one to ten: how well does the ETH Zurich administration score in terms of digitalisation? Peter Müller: I wouldn’t like to give a score – that was not within our remit. Essentially, ETH is in a good position in terms of digitalisation. Most of the central administrative processes have gradually been digitalised over the years. The pandemic has accelerated this trend. What’s more, ETH staff are very open to new technologies. Even so, there are several possibilities for improvement: in the digital support of cross-cutting processes, for example, or the roll-out of new technologies.
 
@@ -28,11 +14,11 @@ Paul Cross : We also want to use the digitalisation strategy to create internal 
 
 Kathrin Noack : Similar questions emerge repeatedly in such scenarios. It therefore makes sense to create synergy effects and to address recurring challenges, such as managing information security and data protection in a more integrated manner.
 
+## Questions about rETHink?
+
 Do you have any questions about this article? Or perhaps questions about rETHink that others might also find interesting? If so, please send a short email to .
 
 The project leads will answer questions in an Internal news article.
-
-## Digitalisation of the ETH Zurich administration
 
 How did your working group set about drafting this strategy? Peter Müller: We started by making a detailed analysis of the current situation and identifying strengths and weaknesses, before going on to analyse the trends that might have consequences for the administration of ETH Zurich. We defined six strategic action areas ( see infobox ) that we believe provide the maximum possible impact and drew up two or three concrete measures for each action area. At the same time, we suggested how governance structures should look – in other words, how ETH should manage the digitalisation of its administration.
 
@@ -46,8 +32,6 @@ Alongside these key points, the strategy highlights how the implementation shoul
 
 And who are the members of this steering committee? Kathrin Noack: The members have not yet been decided: this process is currently under way and being overseen by Robert Perich. One thing is clear, however: every Executive Board domain should send a representative, or else their vice president should sit in person on the committee – as in the case of Julia Dannath, Ulrich Weidmann and Robert Perich. IT Services and representatives from the academic departments will also have seats on the committee.
 
-## Always up to date
-
 How will the digitalisation strategy affect ETH members? Peter Müller: We have defined 70 individual measures in total – not all of which will have a conspicuous effect. One thing everyone will hopefully notice is the central support provided for digitalisation projects. Digitalisation is also a topic that will feed into our HR processes, so that everyone can continue to develop skills in this area. Obviously, we hope the strategy will encourage all departments to screen their processes for digitalisation potential. And employees will hopefully notice that new technologies are introduced more quickly in the ETH Zurich administration.
 
 And if you had a wish – what would be the first thing that you personally would digitalise in the ETH Zurich administration? Peter Müller: The first thing that comes to mind is the small inefficiencies that dog almost all applications and that users repeatedly stumble over, whether it be an unnecessary mouse click or a missing view. This extra effort may not be significant for just one person, but if hundreds of staff stumble over the same thing day in, day out, optimisation would be worthwhile. We should create a culture with a much stronger focus on the needs of end users.
@@ -56,9 +40,19 @@ Kathrin Noack: This focus does not mean that all individual requirements can be 
 
 Paul Cross: Ideally, all important processes at ETH will be digitally supported, and moreover with end-to-end processing wherever possible. There are currently still too many digital breaks. This makes end-to-end processing impossible, given the involvement of different departments, for example. That’s exactly why central control and exchange between project managers is so important. For me personally, it’s therefore already progress if we create more transparency and manage to learn more about digitalisation from each other within the administration.
 
+## Digitalisation of the ETH Zurich administration
+
 In the context of rETHink Workstream 5 Organisation of Central Administrative Units, the working group led by Peter Müller, Professor of Computer Science, was commissioned to draw up a digitalisation strategy for the administration of ETH Zurich. The strategy was discussed and refined in workshops with representatives of all administrative departments and several academic departments before eventually being approved by the Executive Board in mid-May. The strategy focuses on six action areas:
 
+• Systematic data analytics The systematic use of data should help make internal processes more efficient and more effective.
+• Meeting and records management A central document management system should allow the vast amount of information within the ETH Zurich administration to be stored, organised and distributed to members more easily in future.
+• Use of new technologies New developments present new challenges to ETH in very different areas (data security, law, ethics, etc.). The goal is to assess the potential and the challenges of new technologies and make recommendations for their use (or non-use) within the ETH Zurich administration.
+• Stakeholder and requirements management ETH should establish a modern stakeholder and requirements management system for digitalisation projects that transforms the needs of the stakeholders concerned into a manageable set of requirements.
+• Process coverage and process orientation One goal of digitalisation is to identify processes that could benefit from better support through IT systems. However, digitalisation alone is not enough: the processes themselves also need to be optimised.
+• Digital literacy Nearly all tasks in the ETH Zurich administration require the use of IT systems, which means that ETH staff need to have a high degree of digital literacy.
 The complete digitalisation strategy can be downloaded here:
 
+• protected page Strategy for the Digitalization of the ETH Zurich Administration lock
+• protected page Roadmap for the Implementation of the Strategy lock
 Any questions should be directed to Dieter Wüest, Paul Cross or Kathrin Noack.
 

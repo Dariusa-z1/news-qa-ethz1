@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2016/11/prozessinnovationen-in-schweizer-firmen.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 The KOF Swiss Economic Institute has been conducting regular innovation surveys of around 6,000 Swiss businesses since the 1990s. The primary aim of the study is to establish how companies utilise access to external knowledge and modern information and communication technologies (ICT) – as these factors aid process innovation with a view to lowering production costs. In their interview with ETH News, Georg von Krogh, Chair of Strategic Management and Innovation and author of the study, and co-author Martin Wörter, Head of the Research Division Innovation Economics at the KOF, explain how good Swiss companies actually are at process innovation.
@@ -33,6 +35,8 @@ Von Krogh: In our study on open innovation, we also showed that limited access t
 You recommend relying increasingly on process innovations to cut production costs. Do businesses now need to take a more exploitative approach in this area to remain commercially viable? Wörter: No, that is not what we mean. I can increase productivity by selling more or by producing existing products more cheaply – or ideally both. However, when a technology has reached a certain level of maturity, it becomes increasingly difficult to optimise it further, as the costs of any further improvement to the product rise sharply. It is therefore advisable to focus on process optimisation instead: when a new product is subsequently launched, the price will likely be similar to that of the previous model; however, thanks to the optimised processes, the company can produce it more cheaply and thus increase its productivity.
 
 Is there also a need for action at Swiss companies? Von Krogh: The next big challenge is digitalisation. Process innovations are possible when businesses improve existing process technologies or begin to use digital technologies. Many companies are already turning their attention to digitalisation, and those who haven’t should do so now, as it is set to fundamentally change the Swiss economy. The good thing about Switzerland is that policymakers are aware of this and are taking a very pragmatic approach by supporting industry.
+
+## Literature reference
 
 Trantopoulos, K., von Krogh, G., Wallin, M., & Wörter, M. (forthcoming): External Knowledge and Information Technology: Implications for Process Innovation Performance. MIS Quarterly.
 

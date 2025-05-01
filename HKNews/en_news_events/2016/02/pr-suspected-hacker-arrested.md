@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2016/02/pr-suspected-hacker-arrested.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 In January 2016, an unknown offender gained unauthorised access to the ETH Zurich IT system, logged into the ETH Zurich network, ordered software over the ETH system and downloaded data. Employees in the ETH Zurich security and IT services departments detected unlawful activities on 26 January 2016. ETH Zurich immediately reported the offence.

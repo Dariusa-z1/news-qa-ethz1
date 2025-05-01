@@ -2,43 +2,35 @@
 
 **Source:** de_news_events/2019/12/cybathlon-experience-hsr-exoskelett.html
 
+**Date processed:** 2025-05-01
+
 ## Gleiches Ziel, andere Ausgangslagen
 
 Es ist still im Lichthof des Forschungszentrums an der Hochschule für Technik in Rapperswil (HSR), Spannung liegt in der Luft. Die Besucherinnen und Besucher auf den Galerien halten den Atem an. Ein gurgelnder Motor durchbricht die Stille, gefolgt von Applaus. Rolf Schoch, 30 Jahre alt, querschnittgelähmt, steht von einer Holzbank auf und geht. Kompakt an seinem Körper ein 35 Kilogramm schweres Exoskelett – eine motorisierte Stützstruktur, die es Paraplegikern erlaubt, aufrecht zu stehen, zu gehen und Treppen zu steigen.
 
 Wie dies möglich ist, soll an dieser sogenannten Cybathlon Experience an der HSR von zwei Teams demonstriert werden: Von Varileg enhanced mit ihrem Piloten Rolf Schoch und von Project March mit der Pilotin Sjaan Quirijns. Beide Teams werden im Mai 2020 am Cybathlon teilnehmen, einem von der ETH Zürich initiierten Wettkampf, bei dem sich Menschen mit körperlichen Behinderungen beim Absolvieren alltäglicher Aufgaben mittels robotischer Assistenzsysteme messen. Nun, an der Cybathlon Experience, präsentieren die beiden Teams einem breiten Publikum ihre Exoskelette. Exoskelette, die Sjaan und Rolf befähigen, auf Augenhöhe mit der Bevölkerung zu diskutieren und alltägliche Aufgaben auszuführen – was Rolf gerade demonstriert: Er muss Becher auf einem Tisch stapeln. Dazu muss der Pilot eine seiner beiden Krücken loslassen. Die Aufgabe wird zum Balanceakt.
 
-## Unterbruch des Studiums
-
 Der Weg hierhin war nicht leicht. Beide Teams entwickelten unter enormem Zeitdruck und in enger Zusammenarbeit mit ihren querschnittgelähmten Piloten ein robotisches Exoskelett, um damit am Cybathlon 2020 anzutreten. So ähnlich das Ziel und die Motivation der beiden Studierendenteams waren, so unterschiedlich waren die Ausgangslagen.
 
 Varileg enhanced, ein Team aus 15 Bachelorstudierenden der ETH Zürich und der HSR, stellte in nur acht Monaten während eines Fokusprojekts im letzten Bachelorjahr ein Exoskelett auf die Beine. Das Team aus Maschinenbauingenieuren, Gesundheitswissenschaftlerinnen und Elektrotechnikern investierte viel Zeit in sein Assistenzsystem. Michael Heid, Maschinenbauingenieur, erzählt: «70-StundenWochen waren normal, in der heissen Phase konnten es auch 90 sein.» Vorlesungen? «Hätten wir gehabt, ja.» Doch das Fokusprojekt war für Michael eine Herzensangelegenheit – auch weil Menschen in seinem Umfeld querschnittgelähmt sind.
-
-## Seitwärts über den Parcours
 
 Entsprechend hohe Ansprüche hatten er und sein Team an ihr Endprodukt. Obwohl es schon ein Modell des Exoskeletts aus früheren Fokusprojekten gab, startete Varileg enhanced mehr oder weniger bei Null. «Natürlich sprachen wir mit unseren Vorgängern, und sie gaben uns wertvolle Tipps, doch unser Konzept war nicht vergleichbar», erklärt Michael. Nicht nur die Motoren wollte Varileg enhanced anders positionieren, auch das Material und die Steuerung des Exoskeletts waren im Vergleich zum Vorgängermodell neu.
 
 Anders sah es beim niederländischen Team Project March aus. Die 23 Studierenden der TU Delft aus sieben verschiedenen Disziplinen unterbrachen ihr Bachelor- oder Masterstudium für ein Jahr, um in einem sogenannten Dream Team am Exoskelett zu arbeiten. Ihr Vorgängerteam hatte ihnen das Projekt mit dem gesammelten Wissen während eines Monats übergeben. Anschliessend baute die vierte Generation Dream Team mit dem Wissen und der punktuellen Unterstützung ihrer Vorgänger während eines Jahres eine neue Version des bestehenden Exoskeletts, March IV. Immer mit dabei: Die Pilotin Sjaan Quirijns, die schon im Vorgängerteam und in anderen Forschungsprojekten Erfahrungen mit Exoskeletten sammeln und das Team so optimal unterstützen konnte.
 
-## Nicht alltagstauglich
-
 Auch der Slalom um die Bartische gehört zum Parcours. (Bild: ETH Zürich / Urs Matter)
 
-Rolf, der Pilot von Varileg enhanced, weist wesentlich weniger Praxis mit der motorisierten Stützstruktur auf, die ihn an der Cybathlon Experience nun gehen lässt. So steht die Anspannung in sein Gesicht geschrieben, als er in langen, gleichmässigen Schritten einen Slalom um Bartische geht. Jeden Schritt löst er per Knopfdruck an einer seiner Krücken aus. Schritt für Schritt geht er, stets begleitet von mechanischen Robotergeräuschen und zwei Helfern, die ihn im Falle eines Motorenausfalls auffangen können.
+## Seitwärts über den Parcours
 
-## Vorfreude auf den Cybathlon
+Rolf, der Pilot von Varileg enhanced, weist wesentlich weniger Praxis mit der motorisierten Stützstruktur auf, die ihn an der Cybathlon Experience nun gehen lässt. So steht die Anspannung in sein Gesicht geschrieben, als er in langen, gleichmässigen Schritten einen Slalom um Bartische geht. Jeden Schritt löst er per Knopfdruck an einer seiner Krücken aus. Schritt für Schritt geht er, stets begleitet von mechanischen Robotergeräuschen und zwei Helfern, die ihn im Falle eines Motorenausfalls auffangen können.
 
 Varileg enhanced besteht inzwischen nicht mehr aus den Studierenden der ETH und der HSR. Nach dem Rollout des Fokusprojekts im Mai 2019 wurde das Exoskelett an das Rehabilitation Engineering Lab sowie die Gruppe für Produktentwicklung der ETH Zürich und das Institut für Laborautomation und Mechatronik an der HSR übergeben. Dabei waren die Studierenden darauf bedacht, das Exoskelett und das Wissen dahinter so zu übergeben, dass die Forschenden nahtlos daran weiterarbeiten konnten. Ausserdem konnte sich Teammitglied Lukas Granzotto, einer der drei HSR-Studierenden, eine befristete Festanstellung im Labor der HSR sichern. So kann er einen wesentlichen Beitrag zum Wissenstransfer leisten und gleichzeitig noch etwas länger am Projekt arbeiten. Sein Teamkollege Michael Heid ist einerseits froh, konnte er das Projekt nach acht intensiven Monaten abschliessen. «Andererseits ist es natürlich schade, ein solches Herzensprojekt aus den Händen zu geben», sagt er.
 
 Am Ende der Bartischreihe lockern sich Rolfs Gesichtszüge, ein zufriedenes Lächeln macht sich breit, er hebt triumphierend eine Krücke in Luft. Die Besucherinnen und Besucher applaudieren begeistert, die Teammitglieder von Varileg enhanced sind sichtlich stolz. Für das Team ist die Demonstration hier fertig. Die schiefe Ebene und die Treppe, die im Hindernisparcours noch vor Rolf liegen, bewältigt er nicht. Er hatte seit seinem Trainingsstart vor erst zwei Monaten noch keine Gelegenheit, auf diesen Hindernissen zu trainieren. Lukas sagt: «Wäre die Experience nicht gewesen, hätten wir mit Rolf wahrscheinlich schon für weitere Hindernisse trainiert, gewisse Änderungen durchgeführt und getestet. Im Hinblick darauf, dass das Exoskelett nun aber so funktionierte, wollten wir kurzfristig nichts mehr daran ändern. Never change a winning team.»
 
-## Cybathlon 2020
-
 Während Rolf am Ende seines Parcours ein kurzes Interview gibt, macht sich das Team Project March für die Demonstration bereit. Sjaan sitzt in ihrem Rollstuhl. Normalerweise würde sie sich zu diesem Zeitpunkt in das auf einer Bank sitzende, leere Exoskelett hieven. Diesmal jedoch wird die Demonstration ohne Pilotin stattfinden, was keineswegs an ihr, sondern vielmehr an der Technik liegt. Nachdem March IV wenige Stunden zuvor nicht mehr imstande war, geradeaus zu gehen, musste das Exoskelett repariert werden. Bis zur Demo blieb keine Zeit mehr, das System zu testen, weshalb das Exoskelett nun aus Sicherheitsgründen zunächst leer und in Begleitung dreier Helferinnen und Helfer über die Hindernisse schreitet.
 
 Aufstehen, Slalomgehen, über die schiefe Ebene balancieren und Treppensteigen – alles kein Problem für March IV. Auf der nach rechts abfallenden Ebene präsentiert das Team ausserdem seine neuste Implementation: Das Exoskelett geht seitwärts. Langsam bewegt sich ein Bein nach dem anderen durch die Hüftmotoren zur Seite. Dieser Seitwärtsschritt wurde speziell für die schiefe Ebene entwickelt, er hilft aber auch, beim Geradeausgehen das Gleichgewicht zu halten.
-
-## Magazin Globe
 
 Die beiden Exoskelette können einiges, alltagstauglich sind sie jedoch noch nicht. Das Rennexoskelett von Varileg enhanced wurde von Beginn weg für die Hindernisse des Cybathlon 2020 konzipiert. Dafür wurden schon die Bewegungsabläufe einer gehenden Person auf den Hindernissen aufgezeichnet, und anschliessend wurde die Software entsprechend programmiert. Während Sjaan bei ihrem Exoskelett auf einem Display an der Krücke zwischen drei Schrittlängen auswählen kann, hat Rolf nur eine Variante zur Verfügung. Ausserdem können beim Exoskelett von Varileg enhanced – im Gegensatz zu March IV – die Fussgelenke nicht bewegt werden. Lukas erklärt: «Dies ist für die Cybathlon-Hindernisse nicht nötig und würde durch zusätzliche Motoren nur mehr Gewicht verursachen.»
 
@@ -47,6 +39,8 @@ Project March sieht das anders: Für einen natürlichen Gang und die effiziente 
 Bis zum Cybathlon 2020 kommt auf die beiden Teams noch einiges zu: Pilotin Sjaan wird mit dem neuen Dream Team trainieren, und das Exoskelett von Varileg enhanced wird unter der Leitung der HSR weiterentwickelt. Direkt nach der Cybathlon Experience nehmen die Forschenden das Exoskelett komplett auseinander, um sicherzustellen, dass nach den intensiven Trainings und Demonstrationen noch alles intakt ist. Ausserdem möchten sie einige Änderungen am System vornehmen. Silvia Rohner, Labormitarbeiterin an der HSR, erklärt: «Wir werden nun die Dinge in Angriff nehmen, für welche die Studierenden während des Fokusprojekts schlicht keine Zeit hatten.» Dazu gehört zum Beispiel die Optimierung des Codes und eine saubere Dokumentation. Ausserdem wird auf Wunsch von Rolf für eine bessere Balance die Schrittdauer verkürzt.
 
 Bereits jetzt in relativ schnellen Schritten schreitet Sjaan, die Pilotin von Project March, über den Parcours der Cybathlon Experience. Nachdem das Exoskelett den Parcours bei der Demonstration erfolgreich leer bewältigte, wagt das Team nun einen Durchgang mit der Pilotin. Als Sjaan die letzten Stufen der Treppe hinuntersteigt und somit das letzte der vier Hindernisse bewältigt, ist die Erleichterung beim niederländischen Team gross – genauso wie die Vorfreude auf den bevorstehenden Cybathlon 2020.
+
+## Cybathlon 2020
 
 Der Cybathlon ist ein einzigartiger Wettkampf, bei dem sich Menschen mit Behinderungen beim Absolvieren alltagsrelevanter Aufgaben mittels modernster technischer Assistenzsysteme messen. Der erste von der ETH initiierte Cybathlon fand 2016 statt. Am 2. und 3. Mai 2020 werden die Tore der Swiss Arena in Kloten für die Fortsetzung des Cybathlon geöffnet. Tickets unter: externe Seite www.cybathlon.com/tickets
 

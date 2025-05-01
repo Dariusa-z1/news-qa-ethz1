@@ -2,21 +2,18 @@
 
 **Source:** de_internal/2024/06/die-rdm-guidelines-fuer-eth-forschende-kurz-und-verstaendlich-erklaert.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
-- externe SeiteDatenmanagementplanungcall\_made
+Kurzvideos fürs einfache Verständnis Damit Sie sich schnell einen Überblick über die Richtlinien verschaffen können, hat die ETH-Bibliothek mehrere einminütige Videos erstellt. Sie fassen die wichtigsten Aspekte der Richtlinien kurz und knapp zusammen. Im externe Seite ersten Video call_made erhalten Sie einen Überblick über die Richtlinien. In fünf weiteren Kurzvideos stellen wir Ihnen die folgenden Themen vor, die für die «RDM Guidelines» zentral sind:
 
-- externe SeiteDatenmanagementplänecall\_made
-
-- externe SeiteDatenpublikationcall\_made
-
-- externe SeiteData Availability Statementscall\_made
-
-- externe SeiteDatenspeicherungcall\_made
-
+• externe Seite Datenmanagementplanung call_made
+• externe Seite Datenmanagementpläne call_made
+• externe Seite Datenpublikation call_made
+• externe Seite Data Availability Statements call_made
+• externe Seite Datenspeicherung call_made
 Seit Juli 2022 gelten für alle Forschenden der ETH Zürich die « Guidelines for Research Data Management at ETH Zurich ». Diese Regelungen dienen Ihnen als Leitfaden im Umgang mit Ihren Forschungsdaten. Eine zentrale Anforderung ist, dass Sie Ihre Forschungsdaten im Sinne der externe Seite FAIR- Prinzipien teilen. So stärken wir gemeinsam die Transparenz in der Forschung sowie die Reproduzierbarkeit Ihrer Forschungsresultate.
-
-Kurzvideos fürs einfache Verständnis Damit Sie sich schnell einen Überblick über die Richtlinien verschaffen können, hat die ETH-Bibliothek mehrere einminütige Videos erstellt. Sie fassen die wichtigsten Aspekte der Richtlinien kurz und knapp zusammen. Im externe Seite ersten Video erhalten Sie einen Überblick über die Richtlinien. In fünf weiteren Kurzvideos stellen wir Ihnen die folgenden Themen vor, die für die «RDM Guidelines» zentral sind:
 
 externe Seite Datenmanagementplanung
 

@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2015/11/gerzensee-tagung.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Bereits im März dieses Jahres wurde von Seiten eidgenössischer Parlamentarier die Idee an die ETH Zürich herangetragen, eine Einführungsveranstaltung für neugewählte Mitglieder des Bundesparlaments zu organisieren. Am zweitägigen Anlass referierten nun nicht nur Experten aus einzelnen Fachgebieten, ehemalige Parlamentarierinnen und Parlamentariern vermittelten zudem ihr Erfahrungswissen. Im Interview zieht Michael Ambühl eine erste Bilanz.
@@ -17,6 +19,8 @@ Von rund 50 neugewählten Parlamentariern haben sich 14 angemeldet. Waren Sie ü
 Auf dem Programm standen komplexe Themen wie makroökonomische Grundlagen oder das Schweizerische Sozialversicherungsrecht – was lässt sich darüber in so kurzer Zeit lernen? Natürlich lassen sich in zwei Tagen nicht umfassende Kenntnisse aneignen. Aber die Neugewählten müssen fähig sein, ein Gebiet schnell irgendwo einzuordnen und zu wissen, wo sie mehr verlässliche Informationen finden. Hier konnten unsere Expertinnen und Experten sicher Hilfestellungen leisten.
 
 Gibt es in vier Jahren wieder einen ähnlichen Anlass? Lassen wir jetzt das neue Parlament in Ruhe arbeiten, bevor wir an die nächsten Wahlen denken – schliesslich stehen den Politikerinnen und Politikern wichtige Aufgaben bevor. Wir werden zuerst die Rückmeldungen auswerten und dann entscheiden, ob wir das Seminar nochmals durchführen. Dafür haben wir ja noch etwas Zeit.
+
+## Zur Person
 
 Michael Ambühl studierte an der ETH Zürich Operations Research und Betriebswissenschaften und verfasste seine Dissertation im Bereich der Mathematischen Optimierung. 1982 trat er in den diplomatischen Dienst ein und stieg dort zum Verhandlungsführer in wichtigen aussenpolitischen Dossiers der Schweiz auf. Im September 2013 übernahm Michael Ambühl an der ETH Zürich die Professur für Verhandlungsführung und Konfliktmanagement.
 

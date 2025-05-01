@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2013/11/a-piece-of-eth-accompanies-diesel-cars.html
 
+**Date processed:** 2025-05-01
+
 ## “Diesel cars have become acceptable”
 
 A good piece of ETH research can be found in practically every diesel engine used in cars and trucks today, but also in generators or other modern ocean-going vessels. From the 1970s onwards, engineers in the university’s research laboratories were significantly involved in the development of a then revolutionary system to inject fuel into the engine: the common rail injection system. Over time, this has become standard in the industry.
@@ -10,9 +12,9 @@ Twenty years ago, on 9 November 1993, scientists presented the first modern, roa
 
 A glimpse under the bonnet. The common rail (crosswise pipe), four electronically controlled injector nozzles (behind it) and the high-pressure pump (yellow, front) can be seen. (Photo: ETH Zurich)
 
-“The common rail technology enabled the diesel injection to be divided into several injection processes for the first time,” explains Thomas Lutz. The now retired mechanical engineer was project manager of the field test at the time. In this way, a single injection process was turned into pre-, main and post injection processes. Today, there are even motors with up to five successive and precisely controlled injection processes. This division not only leads to better fuel combustion – whereby the exhaust gas contains less soot – but the engine has also become quieter.
-
 ## High-pressure pump developed at the ETH
+
+“The common rail technology enabled the diesel injection to be divided into several injection processes for the first time,” explains Thomas Lutz. The now retired mechanical engineer was project manager of the field test at the time. In this way, a single injection process was turned into pre-, main and post injection processes. Today, there are even motors with up to five successive and precisely controlled injection processes. This division not only leads to better fuel combustion – whereby the exhaust gas contains less soot – but the engine has also become quieter.
 
 “This has revolutionised the diesel automobile sector. Previously, diesel cars were loud and they pinged. Thanks to the common rail technology, they have become acceptable,” says Lutz. Finally, the technology enabled efficient exhaust gas recirculation, so nitrogen oxides in the waste gas could be reduced. “At the same time, fuel consumption was very economical,” adds Lutz.
 

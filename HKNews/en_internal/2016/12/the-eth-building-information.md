@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2016/12/the-eth-building-information.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Until now, anyone who has been looking for a building or an areal plan has had to do so on the various Zurich ETH online-platforms. Since yesterday, the new building information of the Public Real Estate Management department in the ETH network is available, which unifies the building directory, the bank of plan data and the location plans in one offer/platform.

@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2021/07/employees-and-supervisors-have-a-shared-responsibility.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Lukas Vonesch, Leiter Abteilung Personal (Bild: ETH Zürich / Gian Marco Castelberg)

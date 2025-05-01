@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2020/06/virtuelle-veranstaltungen.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Der Apéro im April war schnell abgesagt. Schwieriger war es mit dem Entscheid, die langfristig geplante Ausstellung zu canceln. Wie feiern wir heute unsere Erfolge? Wie treffen wir morgen – im virtuellen Raum – die Erwartungen unserer Gäste? Wo passt ein Webinar, wo ein Live Streaming – und wann braucht es neben der Moderation auch die Rolle des technischen Supports?

@@ -2,21 +2,19 @@
 
 **Source:** en_news_events/2014/01/vier-eth-forschende-ausgezeichnet.html
 
+**Date processed:** 2025-05-01
+
 ## Predicting climatic extremes and developing new Internet architecture
 
 For the very first time, the European Research Council awarded the ERC Consolidator Grant (see box for more information). 312 researchers throughout Europe will receive the equivalent of around CHF 700 million. 22 of the Consolidator Grants went to Switzerland; ETH Zurich received the greatest number of awards among the Swiss Universities, securing four grants.
 
-## High success rate
-
 The spectrum of subjects covered by these four grants is wide. Professor Niklas Beisert from the Institute for Theoretical Physics deals with the extraordinary properties of certain quantum field theories. These are used in theoretical physics to describe elementary particles and their interactions. The ERC project of Sonia Seneviratne, Professor at the Institute for Atmospheric and Climate Science, investigates the role of soil moisture and vegetation for the dynamics of heat waves and droughts to better explain and predict changes in these climatic extremes in the future. Furthermore, the project will analyse the potential of land-climate engineering to prevent such extreme events.
-
-## ERC Consolidator Grant
 
 Computer Science Professor Adrian Perrig would like to use the EU grant to push on with his research for a new Internet architecture. The aim is to use the properties of this new architecture to isolate errors and transport information more securely. With his project, Daniel Chen, Professor for Law and Economics, would like to investigate the effects that normative commitments have on health care and legislation. For example, the effect of the Hippocratic oath on doctors’ prescription practices if they are also confronted with material incentives at the same time.
 
-## Contact
-
 ETH Zurich’s high success of 25% was particularly remarkable in the first allocation of the Consolidator Grants. This is even more impressive if one considers that of the approximate 3600 projects submitted from across Europe, only 312 – around 9% – were awarded grants. Of the 16 ETH projects, four were awarded grants at the first go. The higher education institution is building on its good track record with the other two ERC grants – the Starting Grants and, in particular, the Advanced Grants. Since 2007, around CHF 190 million have flowed into projects submitted by researchers at ETH Zurich through these two funding schemes.
+
+## ERC Consolidator Grant
 
 The European Research Council ( ERC ) offers several funding schemes. In addition to the ERC Starting Grant for talented young researchers and the ERC Advanced Grant for established leading researchers, the ERC has recently launched the ERC Consolidator Grant – previously integrated into the Starting Grant – as an individual grant category. This grant is intended to support emerging researchers with seven to twelve years of experience since completing their PhD who can demonstrate a promising track record and a desire to consolidate the work of their already successful research group. The projects are selected on the basis of their academic excellence and are funded with around CHF 2.5 million over five years. The ERC introduced the new grant on its own account, considering that there are currently not enough opportunities for young researchers to develop their careers independently.
 

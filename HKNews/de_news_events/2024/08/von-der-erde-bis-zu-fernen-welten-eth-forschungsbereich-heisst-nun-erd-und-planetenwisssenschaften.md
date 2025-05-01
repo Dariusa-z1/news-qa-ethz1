@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2024/08/von-der-erde-bis-zu-fernen-welten-eth-forschungsbereich-heisst-nun-erd-und-planetenwisssenschaften.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH News: Johan Robertsson, Ihr Departement hat soeben den Namen gewechselt. Was war der Grund für diese Umbenennung? Johan Robertsson: Wir waren mehr als bereit für diese Namensänderung. Schon heute arbeiten mehr als die Hälfte der Professorinnen und Professoren unseres Departements an Themen, die direkt oder indirekt mit dem Weltraum zu tun haben, mit Ansätzen, die in den Erdwissenschaften verankert sind, aber eng mit Chemie, Physik und Biologie zusammenhängen. Das Themenspektrum reicht von der Fernerkundung der Erde aus dem Weltraum über die Erforschung von Exoplaneten bis hin zu Gravitationswellen. Unser Departement war massgeblich an der InSight-Mission zum Mars beteiligt. Unsere Forschenden untersuchen die Dynamik anderer Planeten, wie sie entstehen und sich im Laufe der Zeit entwickeln. Wir sind auch an Missionen beteiligt, bei denen Gesteinsproben von Asteroiden oder vom Mars gesammelt und in unseren Labors analysiert werden. Mit den neuesten Grossteleskopen untersuchen unsere Forschenden die geochemischen Signaturen von Exoplaneten auf Hinweise für Leben. Nicht zuletzt sind mehrere unserer Professorinnen und Professoren Mitglieder des Centre for Origin and Prevalence of Life (COPL), wo dieser Bereich eine zentrale Rolle spielt.
@@ -9,6 +11,8 @@ ETH News: Johan Robertsson, Ihr Departement hat soeben den Namen gewechselt. Was
 Wie hat sich die Berufung des ehemaligen NASA-Wissenschaftsdirektors Thomas Zurbuchen zum Professor in Ihrem Departement auf die Namensgebung ausgewirkt? Einer der Gründe, warum wir Thomas Zurbuchen vor zwei Jahren für die Ehrendoktorwürde der ETH nominiert haben, war, dass die Forschung in unserem Departement stark von den NASA-Weltraummissionen unter seiner Leitung profitiert hat. Wir freuen uns sehr, dass Thomas ein Jahr später als Professor zu uns gestossen ist und nun direkt im Departement arbeitet. Dass das Departement das Wort «Planet» im Namen trägt, ist übrigens kein Alleinstellungsmerkmal. Mehrere Top-Universitäten weltweit haben gleichnamige Departemente, zum Beispiel Harvard, Berkeley oder das MIT in den USA oder auch das britische Imperial College. Der Name ist also weder neu noch ungewöhnlich, sondern beschreibt besser, was wir eigentlich tun. Begonnen hat dieses Forschungsfeld vor mehr als 50 Jahren, als die NASA-Mission Apollo 11 Proben von der Mondoberfläche mitbrachte, die in unserem Edelgaslabor analysiert wurden.
 
 Johan Robertsson. (Bild: ETH Zürich)
+
+## Zur Person
 
 Johan Robertsson ist seit 2012 Professor für Angewandte Geophysik und Leiter der Forschungsgruppe Explorations- und Umweltgeophysik (EEG) am Institut für Geophysik des Departements für Erd- und Planetenwissenschaften (D-EAPS, vormals D-ERDW). Seit 2022 ist er der Departementsvorsteher.
 

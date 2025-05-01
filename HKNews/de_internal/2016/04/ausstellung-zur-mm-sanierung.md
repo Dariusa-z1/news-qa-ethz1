@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2016/04/ausstellung-zur-mm-sanierung.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Die Aufgabenstellung des öffentlichen anonymen Projektwettbewerbs war nicht einfach: Das MM unter der Polyterrasse sollte eine eigene erkennbare Adresse erhalten, ohne den Charakter des benachbarten ETH-Hauptgebäudes zu beeinträchtigen. Mehr Raum und Funktionalität für Sport und Gastronomie sollte der Projektvorschlag ebenfalls generieren. Zudem hiess es, die Orientierung innerhalb des Gebäudes sowie die Aufenthaltsqualität nicht nur der Aussichtsterrasse zu stärken. Der zwingende Sanierungsbedarf des Gebäudes, insbesondere der Gebäudetechnik, war neben weiteren Mängeln Auslöser des Wettbewerbs.

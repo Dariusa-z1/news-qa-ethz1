@@ -2,10 +2,14 @@
 
 **Source:** en_internal/2017/05/snsf-publishes-guidelines-for-data-management-plans.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 The guidelines address researchers and give support in the creation of the data management plan:
 
+• external page Guidelines call_made
+• Required external page Content of the data management plan (pdf, 209 kB) call_made
 The Digital Curation office at ETH Library is already offering guidance on this topic in their training courses and workshops .
 
 On request, we give further tailor-made trainings for groups or advise ETH researchers individually.

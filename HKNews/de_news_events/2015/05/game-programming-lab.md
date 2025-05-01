@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2015/05/game-programming-lab.html
 
+**Date processed:** 2025-05-01
+
 ## Weltklasse Spielentwickler aus der Schweiz
 
 Vergangenen Mittwoch bekundete die ETH Zürich ihren Willen, ihr Engagement bei der Entwicklung von Computerspielen weiter auszubauen. Dafür richtet das Departement Informatik ein permanentes «Game Technology Center» ein, an dem Wissenschaftler disziplinübergreifend und in Zusammenarbeit mit der Industrie an neuen Technologien für die Computerspielentwicklung tüfteln. ETH-Präsident Lino Guzzella begründete den Entscheid wie folgt: «Die Game-Technologie ist nicht nur interessant für junge Firmen und die Kreativwirtschaft, sie ist es auch für die Wissenschaft und Lehre. Wir wollen in Zukunft die Kräfte an der ETH bündeln und dieser Technologie erhöhte Aufmerksamkeit schenken.»
@@ -10,15 +12,13 @@ Noch vor fünf Jahren reagierten viele mit Kopfschütteln, als Pro Helvetia «Ga
 
 Fünf Jahre später zeigt sich, dass Pro Helvetia aufs richtige Pferd gesetzt hat: Schweizer Gameentwickler machen an internationalen Wettbewerben von sich reden, zuletzt an der diesjährigen «Game Developers Conference» in San Francisco, wo gleich zwei Schweizer einen «Best in Play»-Preis gewannen. Bezüglich Anzahl Nominationen pro Einwohner nehmen die Schweizer an der GDC mittlerweile sogar den ersten Platz ein. Für SP-Nationalrätin Jacqueline Fehr war damit die Zeit gekommen, das Thema auf die politische Bühne zu hieven: In einem externe Seite Vorstoss forderte sie im März vom Bundesrat einen Bericht darüber, wie die Politik die Entwicklung der Schweizer Game-Industrie weiter fördern kann. Der Bericht soll erstmals nicht nur das kulturelle sondern auch das wirtschaftliche Potenzial der Game-Industrie für die Schweiz aufzeigen.
 
-## «Gamification» für Nature-Publikationen
-
 Screenshot des Games Elements Racing, das Studierende der ZdHK entwickelten. (Bild: ETH Zürich / Game Technology Center)
+
+## «Gamification» für Nature-Publikationen
 
 Das Engagement der ETH Zürich in der Computerspielentwicklung ist nicht neu: Seit 2007 veranstaltet das Departement Informatik für Masterstudierende den Kurs «Game Programming Laboratory», in dem Gruppen von drei bis vier Studierenden während einem Semester selbständig Computerspiele entwickeln. Am vergangenen Mittwoch präsentierten die Studierenden im Auditorium Maximum sechs selbst erarbeitete Projekte. Die Zuschauer hatten anschliessend Gelegenheit, die Games selbst auszuprobieren und ihre Favoriten zu küren.
 
 Zum ersten Mal stand der vergangene Frühlingssemester-Kurs nicht nur ETH-Studierenden, sondern auch Studierenden der Zürcher Hochschule der Künste (ZHDK) mit Studienvertiefung Game Design offen. «Die Entwicklung von Computerspielen ist ein ideales Übungsfeld für Informatikstudierende», sagt Markus Gross, Professor am Computer Graphics Laboratory und Direktor von Disney Research Zurich. «Sie müssen dabei praktisch alles Wissen anwenden, das sie sich während des Studiums angeeignet haben: Softwareengineering, Künstliche Intelligenz, aber auch theoretische Informatik. Zusätzlich wirft die Spielprogrammierung auch Fragen aus Kunst, Psychologie und Ökonomie auf.»
-
-## ETH-Informatiker entwickeln Blockbuster-Games
 
 Für Bob Sumner, stellvertretender Leiter von Disney Research Zurich und Leiter des «Game Programming Laboratory», kommt das aktuelle Interesse von Politik, Industrie und Kultur am Gaming nicht von ungefähr: «Immer mehr Entscheidungsträger realisieren, wie viel Talent und Potenzial in diesem Bereich in der Schweiz steckt.» Doch auch in den Wissenschaften steige das Interesse an Computerspielen, sagt Sumner. Mittlerweile betreiben viele Weltklasseuniversitäten wie das externe Seite Massachusetts Institute of Technology (MIT), externe Seite Georgia Tech oder die externe Seite TU München eigene Labors für die Spielentwicklung: Indem Forschende wissenschaftliche Probleme in ein Computerspiel umformulieren, eröffnen sich neue Möglichkeiten zur Lösungsfindung.
 

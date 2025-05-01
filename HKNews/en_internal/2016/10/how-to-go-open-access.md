@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2016/10/how-to-go-open-access.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 The webinar will be held in English on Wednesday, 25 October from 11.00 to 12.00. The topics covered will be the legal, financial and political parameters of open access publishing.

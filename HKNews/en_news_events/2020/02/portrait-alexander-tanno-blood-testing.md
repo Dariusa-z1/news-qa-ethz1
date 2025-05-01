@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2020/02/portrait-alexander-tanno-blood-testing.html
 
+**Date processed:** 2025-05-01
+
 ## A step further
 
 The prototype that Alexander Tanno is holding between his thumb and forefinger doesn’t look particularly impressive. Measuring two centimetres by two centimetres, the clear plastic block is equipped with three electrodes and encloses a sample on a paper strip. But this inconspicuous device can do something exceptional: it turns a qualitative blood test into a quantitative one. This makes the test itself much more sensitive. Tanno’s invention makes it possible to have sensitive blood tests that patients can perform wherever it suits them.
@@ -10,15 +12,11 @@ The prototype that Alexander Tanno is holding between his thumb and forefinger d
 
 Tanno’s goal now is to develop a range of blood test kits that offer similar diagnostic benefits while also being small, portable and easy to use, so patients can carry them with them and perform tests anywhere. The technology is based on the lateral flow test, which, as in a pregnancy test, produces visible lines to indicate a particular result. Although such tests are fast and inexpensive, they provide only qualitative measurements. In other words, the result is either positive or negative; gradations are not detectable. The way these tests work is to apply the blood sample to a test strip, where the desired molecule in the blood is caught by certain antibodies, and together they bind to gold nanoparticles. It is the gold particles that make the molecule visible to the eye – but only when enough gold particles come together. If the concentration of the blood components being tested is too low, and therefore the quantity of bonded gold particles too small to be visible to the eye, the test is useless.
 
-## Better and more tailored treatment
-
 Tanno solved this particular problem by finding a way of using a chemical reaction to dissolve the bonded gold particles. Once dissolved, the particles can be measured more precisely in a further step. The reaction causes the electrons in the gold particles to flow, producing an electric current. The strength and voltage of this current depends on the concentration of the target molecule within the sample. In this way, it is possible to accurately measure a particular blood component even if only little of it is present in the sample. All the technology required is contained within the small, transparent prototype block. But exactly how the process works and what substances are needed for it will remain Tanno’s secret – at least as long as the patenting procedure is under way.
 
 Tanno is a biomedical engineer and wrote his doctoral thesis at ETH Zurich. This thesis laid the foundation for this development and secured him a Pioneer Fellowship . The Pioneer Fellowship programme is designed to support young scientists as they step out of the lab, launch a start-up and develop a market-ready product. Fellows receive funding over 12 to 18 months as well as support from business coaches.
 
 In his business presentation, Tanno offers a sample application for such tests: one of today’s common blood tests measures the amount of a particular inflammatory factor. In the case of people suffering from an infection or from chronic inflammatory diseases like Crohn’s disease or arthritis, such tests allow doctors to monitor the progression of the disease and to determine whether or not treatment is working.
-
-## An indirect way to success
 
 But as things stand, these blood tests are expensive and inconvenient because they call for the patient to visit the doctor or hospital. As a result, measurements are taken just once a year or at best every couple of months, which means there is a risk that short-term fluctuations – caused perhaps by a cold or change in diet – can distort the results. “But a fast and portable test would enable patients to take a measurement themselves once a week,” Tanno says, adding that this would paint a more reliable picture of how the disease is progressing and provide a faster indication of how well a particular medication is working.
 

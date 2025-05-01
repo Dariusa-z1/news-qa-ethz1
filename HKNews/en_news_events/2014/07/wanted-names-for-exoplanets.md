@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2014/07/wanted-names-for-exoplanets.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH News asked Kevin Schawinski, professor of astrophysics and co-founder of the citizen science platform, and Sascha Patrick Quanz, who as a senior scientist conducts research into exoplanets, what they think of the idea.
@@ -37,6 +39,8 @@ What are the next big steps in the study of exoplanets? Which questions are stil
 Quanz: The more planets we find, the more questions arise, which in turn means we have an extremely large number of questions to answer! We should clarify how many planets orbit around their stars at a distance that would allow them to have liquid water. Liquid water is often referred to as a condition for life as we know it on Earth and may make it possible on other planets.
 
 2M1207b, in 2004 the first exoplanet to be imaged, is waiting for a new name.
+
+## About the people
 
 Kevin Schawinski was born in 1981 in Zurich; since 2012 he has been an Assistant Professor of the astrophysics of galaxies and black holes at the Department of Physics. His primary focus of research is the co-evolution of galaxies and supermassive black holes. He is also very active in citizen science and the direct involvement of the general public in scientific research. ( ETH Life, 21 January 2013 )
 

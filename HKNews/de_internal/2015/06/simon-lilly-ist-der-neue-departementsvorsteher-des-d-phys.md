@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2015/06/simon-lilly-ist-der-neue-departementsvorsteher-des-d-phys.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Simon Lilly heisst der neue Departementsvorsteher im Department Physik (D-PHYS). Der Professor für Experimentelle Astrophysik übernimmt das Amt von Tilman Esslinger, Professor für Quantenoptik. Im Mai hat die Departementskonferenz, das oberste Organ des D-PHYS, Tilman Esslinger als Vorsteher verabschiedet und sich für seine Dienste zum Wohle des Departements bedankt.

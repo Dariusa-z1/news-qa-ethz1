@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2024/03/funding-shows-effect.html
 
-## Main article
+**Date processed:** 2025-05-01
+
+## Broad support for research and young talent
 
 Last year, numerous private individuals, foundations and companies supported ETH Zurich with more than 3500 donations, bequests and legacies totalling over 130 million Swiss francs.
 

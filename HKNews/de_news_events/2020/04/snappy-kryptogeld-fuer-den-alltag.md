@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2020/04/snappy-kryptogeld-fuer-den-alltag.html
 
+**Date processed:** 2025-05-01
+
 ## Die Eigenarten der Blockchain
 
 Längst sind Kryptowährungen wie Bitcoin, Ethereum oder Ripple nicht mehr nur ein Experimentierfeld für Systemkritiker. Sie haben sich als Anlagestrategie etabliert. Rund 5000 digitale Währungen gibt es heute. Von der populärsten, Bitcoin, sind heute über 18 Millionen Einheiten im Umlauf – das entspricht mehr als 126 Milliarden Euro. Ethereum, kurz Ether, ist die zweitgrösste digitale Währung mit einem Gesamtwert von rund 20 Milliarden Euro.
@@ -10,23 +12,17 @@ Allerdings ist der Zahlungsverkehr mit Kryptowährungen bisher noch sehr langsam
 
 Doch warum ist der Zahlungsverkehr mit digitalen Währungen bisher so schwerfällig? «Das liegt in der Natur der Blockchains, auf denen die Kryptowährungen basieren», erklärt Capkun. Bei einer Blockchain sind Informationen auf einem gemeinsam genutzten Datenregister gespeichert. Die Daten existieren nicht zentralisiert auf einem Server, sondern werden kontinuierlich auf Tausenden beteiligten Servern abgeglichen – ein riesiges Netzwerk rund um die Welt. Darum dauern Kommunikation und Bestätigung von Transaktionen eine Weile.
 
-## Schlaue Einlagen und Garantien
-
 Dafür sind die Daten transparent und sicher: Weil die Informationen auf vielen Servern gleichzeitig gespeichert sind, sind sie für alle Mitglieder des Netzwerks sichtbar und lassen sich nicht von einer Partei manipulieren. In der Blockchain gelten für alle die gleichen, automatisierten Regeln, ohne Autoritäten wie Banken, Kreditkartenfirmen, Regierungen, denen man vertrauen muss.
 
 Zwar gab es bisher schon Ansätze, den Zahlungsverkehr mit Kryptowährungen zu beschleunigen. Doch diese hoben den Zahlungsprozess dafür aus der Blockchain heraus. Sie synchronisierten einfach vorher und nachher mit dem Netzwerk – eine Vorgehensweise, die zwar funktioniert, aber den Ideen von Sicherheit, Transparenz und Autoritätsfreiheit von Blockchains zuwiderläuft. «Wir wollten einen Weg finden, dasselbe zu schaffen, ohne dafür die Blockchain zu verlassen», sagt Capkun.
 
 Dazu haben Capkun und Vasilios Mavroudis, Doktorand am University College London und damals auf Besuch in Capkuns Gruppe, ein digitales Pfandsystem entworfen, das im Hintergrund von Zahlungen abläuft. Dabei hinterlegen die Kunden zusätzlich zu ihrem Kaufbetrag eine gleich hohe Summe als Pfand, aber nur, solange die Zahlung nicht bestätigt wurde. Bei der Kryptowährung Ether also drei Minuten lang – das ist die Latenzzeit der Ethereum-Blockchain.
 
-## Gegen alle Eventualitäten abgesichert
-
 Weil ein solches Pfand nur während drei Minuten aktiv ist, fällt es im eigenen virtuellen Portemonnaie gar nicht auf. «Es ermöglicht aber dem Verkäufer, die Zahlung sofort zu bestätigen, ohne dass er Gefahr läuft, den Betrag zu verlieren», erklärt Capkun. Denn der Verkäufer sieht erst nach Ablauf der Latenzzeit der Blockchain, ob der Kaufpreis auch gedeckt ist.
 
 Hier hilft das hinterlegte Pfand: Sollte bei der Zahlung etwas nicht mit rechten Dingen zugegangen sein, kann der Verkäufer sich stattdessen einfach die Einlage holen. Und weil in der Blockchain nichts manipulierbar ist, muss er seinen Anspruch auch nicht speziell geltend machen – die Blockchain zeigt diesen automatisch und für alle transparent.
 
 Aber nicht nur die Kunden, auch die Verkäufer müssen bei Snappy Einlagen bereitstellen. Diese fallen höher aus als diejenigen der Käufer und belaufen sich auf den Betrag aller im gleichen Zeitraum ablaufenden Geschäfte der einzelnen Verkäufer. Bei einem kleinen Anbieter, einem Kiosk etwa, ist die Einlage tief, bei einem grossen Anbieter entsprechend höher. Ähnlich wie die Kundenpfande sichern auch die Verkäuferpfande ein mögliches böswilliges Verhalten ab, diesmal vonseiten der Verkäufer. So deckt Snappy alle Risiken ab. «Darum können die Zahlungen sehr rasch und trotzdem sicher ablaufen», sagt Capkun.
-
-## Der Reiz neuer Systeme
 
 Bei der praktischen Anwendung merken Kunden und Verkäufer nichts vom Pfand-Sicherheitssystem im Hintergrund. Alles läuft automatisch ab. Snappy nutzt dafür sogenannte Smart Contracts. Das sind Computerprotokolle, die digitale Verträge abbilden. Sie legen Abläufe und Regeln fest, an die sich alle in der Blockchain automatisch halten.
 

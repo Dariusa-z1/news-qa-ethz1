@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2024/01/clarifying-the-cause-of-guillain-barre-syndrom.html
 
+**Date processed:** 2025-05-01
+
 ## Autoreactive T cells target peripheral nerves
 
 Patients with Guillain-Barré syndrome (GBS) face a rare and heterogeneous disorder of the peripheral nervous system that is often triggered by preceding infections and causes severe muscle weakness. In Europe and the USA, around 1 to 2 cases per 100,000 people occur every year.
@@ -14,8 +16,6 @@ By employing sensitive experimental approaches, Latorre’ s group was able to r
 
 Normally, T lymphocytes play a vital role in our immune system by identifying and eliminating threats like infections and abnormal cells. However, in rare cases, they can mistakenly attack the body’s own tissues, leading to autoimmune diseases.
 
-## Reference
-
 “We found that these autoreactive T lymphocytes were exclusive to patients with a type of GBS characterised by nerve demyelination and showed a specific disease-associated signature, distinguishing them from healthy individuals,” Latorre explains. These findings mark the first evidence of the contribution of autoreactive T lymphocytes to the disease in humans.
 
 Furthermore, the researchers identified T lymphocytes reactive to both self-antigens of peripheral nerves (myelin) and viral antigens in a subset of post-viral GBS patients, supporting a direct link between disease development and triggers of a preceding infection.
@@ -23,6 +23,8 @@ Furthermore, the researchers identified T lymphocytes reactive to both self-anti
 Current treatments are effective for many GBS patients, but they lack specificity, and around 20% of patients remain severely disabled or die. Overall, the work of the research team offers novel insights into our understanding of GBS, opening avenues for further investigations on larger patient groups to decipher immune mechanisms in different GBS variants. This new knowledge could lead to targeted therapies for specific GBS subtypes, potentially improving patient care.
 
 This research was funded by the Swiss National Science Foundation, ETH Zurich, the Swiss Foundation for Research on Muscle Diseases and the GBS/CIDP Foundation International.
+
+## Reference
 
 Súkeníková L, Mallone A, Schreiner B, Ripellino P, Nilsson J, Stoffel M, Ulbrich SE, Sallusto F, Latorre D. Autoreactive T cells target peripheral nerves in Guillain–Barré syndrome. Nature (2024). DOI: 10.1038/s41586-023-06916-6
 

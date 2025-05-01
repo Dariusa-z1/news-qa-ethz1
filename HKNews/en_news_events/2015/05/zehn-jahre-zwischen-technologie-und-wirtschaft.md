@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2015/05/zehn-jahre-zwischen-technologie-und-wirtschaft.html
 
+**Date processed:** 2025-05-01
+
 ## Towards an overall economic perspective
 
 Modern technologies permeate our lives and shape our society, making it all the more important to examine their impact on the environment, people, society and the economy.
@@ -10,29 +12,27 @@ Since its foundation in 2005, the Department of Management, Technology and Econo
 
 “What really interests us here is the sustainable use of natural and human resources,” says Gudela Grote, Professor of Work and Organisational Psychology and Head of D-MTEC since August 2014.
 
-## Practical research and teaching
-
 At ETH Zurich, the idea of giving budding engineers an understanding of economics goes back to the 1920s, when the former “Betriebswissenschaftliche Institut” (Institute of Industrial Management) started investigating how industrial companies could best be run. The Department of Industrial Management and Manufacturing, which was the direct predecessor of D-MTEC, brought together technical disciplines, management theory and industrial science.
 
 With the establishment of D-MTEC, research and teaching in economics and management were bundled into a single department at ETH Zurich, while being significantly expanded to include fields such as innovation economics, strategy management and technology marketing. The Center of Economic Research was also created. In addition, the prestigious KOF Swiss Economic Institute is now part of D-MTEC. The Swiss Economic Institute undertakes research into Swiss and international economic developments as well as addressing economic policy issues.
 
 The focus on both economics and technology at D-MTEC differentiates it from economics faculties at other universities. In fact, its profile is unique in Europe.
 
-## Increasing visibility
-
 D-MTEC runs individual courses that are open to all students at ETH Zurich. The department also offers a master's degree programme. Prospective students must have a minimum of a bachelor's degree in engineering or the natural sciences. “Half of our students come from Switzerland and half from abroad,” explained Professor Grote.
+
+## Increasing visibility
 
 The master's programme at D-MTEC is aimed at people who would like to later work as engineers or scientists at the interface of management and economics. Most of the course graduates move into management positions in technology companies, or roles in start-ups or the public sector.
 
 D-MTEC works closely with companies and major societal players such as government departments and NGOs. “The social relevance of our research and teaching and the ongoing dialogue with a variety of organisations are key factors in our approach,” says Jost Hamschmidt, study programme coordinator at the department. Take the CEOs, for example, who participate in teaching as “Executives in Residence”. They teach courses together with the professors, and students work on specific issues arising in the company. The master's programme also includes a ten-week work placement.
-
-## Economics for innovative sustainability
 
 D-MTEC will celebrate its tenth anniversary with a symposium at the end of May (see box). It also has plans to significantly grow the department in the near future. With several professorships moving from the Department of Environmental Sciences to D-MTEC, it will soon be home to chairs in the fields of agricultural economics and environmental economics.
 
 On top of this, there is discussion on the establishment of a new MAS in Public Management and Governance, with a focus on technology-related decision-making processes in the public sector. “Managers with solid technological understanding are also in demand in government departments – for instance, in the areas of energy and the environment,” says D-MTEC Head Professor Grote.
 
 With its expertise in innovation and entrepreneurship, D-MTEC is poised to increase its visibility both inside and outside ETH Zurich. “The ten-year anniversary is an excellent opportunity to do this,” added Professor Grote. There is certainly plenty to celebrate: “It is clear from the university rankings that research undertaken at D-MTEC is highly respected among the scientific community. We are a sought-after partner for companies and public institutions alike. And we train future decision-makers who have both technical expertise and an understanding of management and economics – placing them in high demand on the labour market.”
+
+## Economics for innovative sustainability
 
 The Department of Management, Technology and Economics (D-MTEC) celebrates its anniversary on Friday, 29 May 2015 with a public symposium on ‘Management and economics for innovative sustainability – Ten years of MTEC’.
 

@@ -2,7 +2,9 @@
 
 **Source:** en_internal/2023/04/accessibility-at-eth-design-for%20all-campaign.html
 
-## Accessible teaching and teaching materials
+**Date processed:** 2025-05-01
+
+## Main article
 
 Switzerland ratified the United Nations Convention on the Rights of Persons with Disabilities (UNCRPD) back in 2014, yet people with disabilities continue to face obstacles on a daily basis, whether accessing buildings, information or events.
 
@@ -10,15 +12,15 @@ On 17 April, ETH Zurich launched its “Design for all” campaign as part of it
 
 To promote the campaign, ETH Zurich has organised a number of events. These include a panel discussion with audience participation on the topic of “Accessibility and inclusion in university education” (see below), awareness workshops to help people adopt new perspectives, and various courses on accessibility.
 
-## Panel discussion: “Accessibility and inclusion in university education” (in German)
-
 To find out more about the campaign and upcoming events, please visit ethz.ch/designforall.
+
+## Accessible teaching and teaching materials
 
 Managed by the Educational Development and Technology department (LET), the “Generate barrier-free teaching materials” subproject seeks to create the right conditions to enable ETH teaching staff to develop accessible teaching materials. This goal will be achieved by means of a three-step strategy:
 
 Four videos have been produced to highlight common barriers to accessibility and to outline key approaches to improving the accessibility of teaching materials and teaching in general.
 
-## Barrier-free at ETH Zurich
+## Panel discussion: “Accessibility and inclusion in university education” (in German)
 
 The United Nations Convention on the Rights of Persons with Disabilities (UNCRPD) calls for an inclusive education system – also at university level. This panel discussion will feature students and lecturers affected by accessibility issues as well as experts in accessible teaching. The panel will discuss the possibilities and limitations of accessibility in education and give insight into their experiences of exclusion and inclusion during the course of study.
 
@@ -26,7 +28,7 @@ Panel members: Prof. Elsbeth Stern (Professor of Empirical Research on Learning 
 
 20 April, 6–7.30 p.m. followed by reception, Hönggerberg campus ( HIT E 51 ). Registration required.
 
-## Always up to date
+## Barrier-free at ETH Zurich
 
 ETH Zurich is committed to being barrier-free: over the course of the next few years, people with disabilities or special needs – whether students, teachers, researchers, staff or visitors – should benefit from greatly improved access to ETH buildings and services.
 

@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2022/09/neues-feature-fuer-die-research-collection-grosse-datenmengen-veroeffentlichen.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Sie möchten Ihre Forschungsdaten und Ihren Programmcode gemäss den Guidelines for Research Data Management (RDM Guidelines, RSETHZ 414.2) (PDF, 229 KB) in einem FAIRen Repositorium veröffentlichen, aber Ihre Datenpakete sind grösser als 50 GB?

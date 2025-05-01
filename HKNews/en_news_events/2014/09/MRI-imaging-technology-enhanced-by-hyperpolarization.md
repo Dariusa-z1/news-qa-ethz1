@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2014/09/MRI-imaging-technology-enhanced-by-hyperpolarization.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Imaging techniques such as MRI (magnetic resonance imaging) and CT (computerized tomography) are at the forefront of medical diagnosis, and the ability to see deeper into human tissue, leading to faster diagnoses has increased steeply over the last two decades. However, the persistent problems of resolving images with high quality still limit these techniques because of the nature of living tissue. In a collaborative effort between ETH Zurich, EPFL, CNRS, ENS Lyon and CPE Lyon researchers developed a novel approach (cf. press release EPFL) that considerably improves the capabilities of medical imaging with safer procedures for the patient.
@@ -23,6 +25,8 @@ What are your next steps? Now that we have established the principle behind HYPS
 When will HYPSOs become available for clinicians? We are looking into this now. We hope it will be in the next couple of years.
 
 About the person Christophe Copéret is full professor in Inorganic Chemistry since November 2010 at the departement of chemistry and applied bioscience of ETH Zurich. His scientific interest lies at the frontiers of molecular, material and surface chemistry, with the aims to design functional materials with applications in catalysis (sustainable chemistry and energy), molecular recognition, imaging and microelectronics.
+
+## Reference
 
 Gajan D, Bornet A, Vuichoud B, Milani J, Melzi R, van Kalkeren HA, Veyre L, Thieuleux C, Conley MP, Grüning WR, Schwarzwälder M, Lesage A, Copéret C, Bodenhausen G, Emsley L, Jannin S. Hybrid polarizing solids for pure hyperpolarized liquids through dissolution dynamic nuclear polarization. PNAS 29 September 2014. DOI: 10.1073/pnas.1407730111
 

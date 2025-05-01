@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2019/11/robert-galitz-und-kurt-kreiler-der-kreis-des-zauberers-thomas-mann.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 The lecture will present largely unknown audio and film material and FBI information regarding the Mann family, retracing the trail blazed by its members in the USA in the face of diverse hostilities.

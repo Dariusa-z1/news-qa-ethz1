@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2017/08/weben-mit-nanofaeden.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Forscher aus der Gruppe von Helma Wennemers, Professorin am Laboratorium für Organische Chemie, haben ihre chemischen Webstühle in Gang gesetzt und ein einzigartiges molekulares Nano-Gewebe kreiert. Dieses Gewebe besteht aus verflochtenen organischen Molekülfäden mit ganz besonderen Eigenschaften.
@@ -17,6 +19,8 @@ Doch wie verknüpft man solche Fäden zu dem dreiachsigen Kagome-Gewebe? Dieses 
 In den oberen Spalt passen nun perfekt um 60 Grad gedrehte Fäden und in den unteren Spalt jeweils Fäden, die um 120 Grad gedreht sind. So entsteht das dreiachsige Kagome-Gewebe. An den Kreuzungen dreier Fäden sorgen wiederum die Perylen-Monoimide dafür, dass sich die Gewebestruktur nicht verschieben kann. Die Kagome-Struktur ist unter dem Elektronenmikroskop gut erkennbar.
 
 «Durch das perfekte Zusammenspiel der molekularen Bausteine konnten wir ein völlig neues, selbstorganisierendes Gewebe mit einer faszinierenden Topologie herstellen», sagt Helma Wennemers. «Zudem konnten wir zeigen, dass es wie makroskopische Gewebe viel robuster ist, als die einzelnen Fäden, aus denen es besteht.» Ausserdem gelang es den Forschenden, Metallnanopartikel in die Zwischenräume des Gewebes einzulagern. Das rein organische Gewebe könnte in Zukunft für die Entwicklung von neuartigen Katalysatoren zum Einsatz kommen oder Anwendungen in der Sensorik, Gasspeicherung und -reinigung finden.
+
+## Literaturhinweis
 
 Lewandowska U, Zajaczkowski W, Corra S, Tanabe J, Borrmann R, Benetti E, Stappert S, Watanabe K, Ochs N, Schaeublin R, Li C, Yashima E, Pisula W, Müllen K, Wennemers H. A triaxial supramolecular weave. Nature Chemistry 2017. DOI: externe Seite 10.1038/nchem.2823
 

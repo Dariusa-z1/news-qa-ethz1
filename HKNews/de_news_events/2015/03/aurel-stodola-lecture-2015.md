@@ -2,23 +2,23 @@
 
 **Source:** de_news_events/2015/03/aurel-stodola-lecture-2015.html
 
-## Quereinstieg in die Medizin
+**Date processed:** 2025-05-01
+
+## Main article
 
 Prof. Mauro Ferrari wird mit der Aurel Stodola Medaille geehrt.
+
+## Quereinstieg in die Medizin
 
 Mathematik, Maschinenbau und Verfahrenstechnik, Medizin, Nanotechnologie und die Verschmelzung von biomedizinischer Nano- und Mikrotechnologie – Mauro Ferrari kann einen beeindruckenden Leistungsausweis vorweisen. Nun wird er vom Departement Maschinenbau und Verfahrenstechnik (D-MAVT) dafür mit der Aurel Stodola Medaille 2015 geehrt.
 
 «Professor Ferraris herausragende Forschung war für uns entscheidend, ihm die Medaille zu überreichen», sagt Sotiris Pratsinis, Professor für Partikeltechnologie am Institut für Verfahrenstechnik. Alljährlich wählt die Professorenschaft des D-MAVT einen international anerkannten Experten ihres Faches aus.
-
-## Nanotechnologie auf Weg in die Klinik
 
 Ferrari startete seine akademische Laufbahn mit einem Mathematikstudium an der Universität Padua und fügte diesem einen Master und ein Doktorat als Maschineningenieur an der University of California Berkeley 1989 hinzu. Dort wurde er 1991 zuerst zum Assistenzprofessor in den Departementen Material- und Ingenieurswissenschaften, 1996 zum ausserordentlichen Professor in diesen Gebieten ernannt. Zwei Jahre später erhielt er an der Ohio State University eine ordentliche Professur für Biomedizinische Technik.
 
 Doch dabei blieb es nicht. Ein schwerer Schicksalsschlag – seine erste Frau verstarb an Krebs – spornte ihn dazu an, sich in medizinische Themen einzuarbeiten, was ihm 1999 an derselben Universität einen Lehrstuhl in Innerer Medizin einbrachte. Von 2002 bis 2004 erarbeitete er sich als Medizinstudent die Grundlagen dieses Fachs. Wie alle anderen Studierenden habe er das übliche Curriculum durchlaufen und sich durch den Stoff gekämpft, sagte Ferrari in einem externe Seite Interview mit «Nature Medicine».
 
 Ferrari ist derzeit unter anderem Präsident und Geschäftsführer des Houston Methodist Research Institute, das mehr als 1500 Mitarbeitende zählt und 800 klinische Versuche durchführt.
-
-## Dauerläufer in allen Bereichen
 
 Ausgestattet mit grundlegendem medizinischem Wissen begründete Ferrari eine neue Forschungsrichtung, in welcher er sein breites Know-how kombinieren konnte: Strömungslehre und die biomedizinische Nano- und Mikrotechnologie. Die Nanotechnologie lässt sich in drei medizinischen Bereichen nutzen: in der Diagnose, zur Wirkstoffabgabe und für die personalisierte Medizin.
 

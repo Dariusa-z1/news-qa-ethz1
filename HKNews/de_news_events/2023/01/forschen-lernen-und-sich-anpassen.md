@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2023/01/forschen-lernen-und-sich-anpassen.html
 
+**Date processed:** 2025-05-01
+
 ## Wetterfrosch aus der Maschine
 
 Im Herbst 2014 brach auf Island der Vulkan Holuhraun aus und schleuderte täglich bis zu 120'000 Tonnen Schwefeldioxid in die Luft. Über der sonst fast unberührten Gegend bildete sich in der Atmosphäre eine gewaltige Fahne aus winzigen Partikeln, sogenannten Aerosolen – ein berüchtigter Luftschadstoff. Der Vulkanausbruch war der Start für ein natürliches Experiment, bei dem Klimaforschende untersuchen konnten, wie sich der plötzliche Anstieg des Feinstaubs auf die Wolken auswirkte. «Da Aerosole die Bildung von Wolkentröpfchen fördern können, sind sie ein wichtiger Faktor bei der Vorhersage des Klimawandels, aber wir wissen noch sehr wenig darüber», erklärt Yu Wang. Die 30-jährige Umweltwissenschaftlerin forscht seit September 2021 als ETH Fellow am Institut für Atmosphäre und Klima der ETH Zürich in der Gruppe von Ulrike Lohmann, Professorin für Atmosphärenphysik.
@@ -12,17 +14,15 @@ Begeistert erzählt Wang von der Studie, die sie kürzlich in «Nature Geoscienc
 
 Klimaforschende nahmen deshalb den Vulkanausbruch auf Island zum Anlass, die Wirkung der freigesetzten Aerosole zu studieren, indem sie die Wolken im Herbst 2014 über dem Nordatlantik mit der Situation in den Jahren zuvor und danach verglichen. Doch dieser Vergleich hinkte, weil die Wolkenbildung zu einem grossen Teil auch vom Wetter abhängt, das während des Ausbruchs nicht gleich war wie in den anderen Jahren.
 
-## Von China nach Grossbritannien
-
 «Auch wir haben den Vulkanausbruch benutzt», erklärt Wang: «Doch wir haben eine Methode des maschinellen Lernens angewandt, die wie ein Wetterfrosch angeben kann, wie die Wolken bei bestimmten Wetterbedingungen aussehen.» So lässt sich anhand der «sauberen» Jahre bestimmen, wie die Wolkensituation im Ausbruchsjahr gewesen wäre, wenn es keinen Vulkanausbruch gegeben hätte. «Das ist wie eine Wettervorhersage», sagt Wang. Kennt man aufgrund des maschinellen Lernens die prognostizierten Wolken ohne Holuhraun-Vulkanausbruch sowie die Situation in den gleichen Monaten in den Jahren vor und nach der Eruption, so weiss man, dass der Unterschied nur auf die Aerosole zurückzuführen ist.
 
 Das Resultat dieser Studie überraschte die Forschenden, weil es bisherigen Vorstellungen widerspricht. «Dazu muss man wissen,» so Wang, «dass es bei der Wechselwirkung zwischen Aerosolen und Wolken zwei unterschiedliche Effekte gibt.» Sind die Emissionen stärker, steigt die Zahl der Wolkentröpfchen, doch sie sind kleiner. Dies macht die Wolken heller. Sie reflektieren mehr Sonnenlicht zurück ins All. Sind die Tröpfchen kleiner, aber auch zahlreicher, kann die Wolke mehr Wasser zurückhalten, bevor es regnet. Die Wolken bestehen länger. «Früher dachte man, dass die Wolkenhelligkeit als Kühlungseffekt dominiert, aber wir fanden heraus, dass die Dauer einer Wolke oder die Bildung neuer Wolken wichtiger ist», sagt Wang. Insgesamt erhöhten die Aerosole des Vulkanausbruchs die Wolkenbedeckung um rund zehn Prozent.
 
+## Von China nach Grossbritannien
+
 Das Interesse für Feinstaub begleitete Wang schon lange, bevor sie sich mit Klimaforschung beschäftigte. «Ich wurde in der Nähe von Peking geboren, wo die Luft stark verschmutzt ist», erzählt sie: «Ich wollte wissen, warum die Luftqualität in meiner Heimatstadt so viel schlechter ist als in Europa oder in den USA.» Sie studierte in Changchun und Peking Umweltwissenschaften und wollte in ihrer Masterarbeit herausfinden, warum die für die Luftverschmutzung verantwortliche Schadstoffkonzentration in Peking so hoch ist. «Bei meinen Feldbeobachtungen merkte ich, dass die Situation in der realen Atmosphäre so komplex ist, dass man für ein besseres Verständnis ins Labor gehen muss», sagt die Forscherin.
 
 Sie bewarb sich für ein Doktorat an der Universität von Manchester, erhielt die Zusage und zog 2017 aus China nach Grossbritannien. «Ein Riesenschritt», erinnert sie sich und seufzt, bevor sie wieder strahlt und sagt: «Ich will neue Dinge entdecken, das finde ich spannend.» In Manchester arbeitete sie mit einer Experimentierkammer, in die Gas gepumpt wurde, um die Bildung von Aerosolen zu beobachten. «Da realisierte ich, dass Aerosole nicht nur Luftschadstoffe sind, sondern auch die Wolkenbildung anregen und damit das Klima beeinflussen», erzählt sie: «Das war der Punkt, an dem ich mit der Klimaforschung anfing.»
-
-## Sich unterwegs inspirieren lassen
 
 Ihre kürzlich veröffentlichte Studie zur Wechselwirkung von Aerosolen und Wolken unterscheide sich grundlegend von früheren Arbeiten, da sie sich nicht auf Klimamodelle stütze, sondern Techniken des maschinellen Lernens anwende, sagt Wang. Dabei verwendete das Forschungsteam Satellitenbeobachtungen der Wolkendecke als Input. Es fütterte die Maschine mit den Daten, welche die Instrumente an Bord von zwei Nasa-Satelliten über zwanzig Jahre hinweg gesammelt hatten. Die Nasa besorgte die Datenverarbeitung und -analyse. «Für das maschinelle Lernen brauchen wir einen sehr grossen Datensatz», erklärt die Forscherin: «Die Beobachtungen aus den Jahren 2000 bis 2020 geben uns viel Zuversicht, dass die Methode funktioniert.»
 
@@ -32,13 +32,13 @@ Sie gibt aber zu, dass dies erst eine Pilotstudie sei. Sich nur auf einen Vulkan
 
 Corona ist ein Stichwort, das Wang nachdenklich stimmt. Vor der Pandemie konnten ihre Eltern und Freunde sie in Grossbritannien besuchen und sie reiste in den Ferien nach China. «Nun haben wir uns aber seit drei Jahren nicht mehr gesehen», erzählt sie: «Das ist hart für mich.» Sie ist froh, dass sie jetzt, da China die Beschränkungen gelockert hat, die Reise planen kann, um sie bald wieder zu treffen. Doch zusammen mit ihrem Ehemann, der als Klimaforscher zurzeit am Paul Scherrer Institut arbeitet, fühlt sie sich auch in Europa wohl.
 
-## Literaturhinweis
-
 Um auf neue Ideen zu kommen, geht sie gerne wandern oder auf Reisen mit ihrem Ehemann. So entstand die Idee, maschinelles Lernen in der Klimaforschung zu verwenden, aus einer Diskussion während einer gemeinsamen Fahrt an den Strand von Teignmouth in der Nähe von Exeter.
 
 Als Fachfrau für Wolken wird sie häufig gefragt, ob man die Klimaerwärmung durch künstliche Wolkenbildung bremsen könnte. «Das heisst Geoengineering», erklärt sie und nennt zwei Vorschläge, die diskutiert werden: Man könnte Aerosole in die Stratosphäre injizieren oder über dem Ozean Meersalzteilchen in die Wolken pumpen, «was so etwas wie ein Schmerzmittel wäre, aber keine langfristige Lösung.» Zudem sei das System Erde so komplex, dass ein derartiger Eingriff sehr gefährlich sein könnte: «Deshalb wurden alle Geoengineering-Projekte ausgesetzt.»
 
 Doch sie bleibt optimistisch und erkennt in fast allem etwas Gutes, selbst in den extremen Überschwemmungen, Dürrephasen und Hitzewellen, die sich häufen. «Selbst Leute, die nicht an eine Erwärmung geglaubt haben, denken nun allmählich, dass dies ein wichtiges Thema ist», sagt sie, aber ihr Motto sei: «Wir forschen, wir lernen und wir passen uns an.»
+
+## Literaturhinweis
 
 Chen Y, Haywood J, Wang Y, Malavelle F, Jordan G, Patridge D, Fieldsend J, De Leeuw J, Schmidt A, Cho N, Oreopoulos L, Platnick S, Grosvenor D, Field P, Lohmann U. Machine learning reveals forcing from aerosols is dominated by increased cloud cover. Nature Geoscience 15, 609-614 (2022). externe Seite https://doi.org/10.1038/s41561-022-00991-6
 

@@ -2,25 +2,23 @@
 
 **Source:** de_news_events/2014/07/praegende-exkursionen.html
 
+**Date processed:** 2025-05-01
+
 ## Lernen mit allen fünf Sinnen
 
 Nass, kalt und ungemütlich ist es in Davos Mitte Juli. Auf 2000 Meter über Meer liegt neuer Schnee. Nichtsdestotrotz gehen ein Dutzend Studierende, Assistenten und drei Professoren des Departements Umweltsystemwissenschaften (D-USYS) auf Exkursion. «Böden und Vegetation der Alpen» ist das Thema, wobei sie das Programm dem Wetter anpassen mussten: Statt mit Pflanzen oberhalb der Waldgrenze befassen sich die Studierenden mit Bodentypen und der Vegetation unterhalb davon: Fichtenwald auf saurem, nährstoffarmem, sogenanntem Podsol-Boden, Bergföhrenwald auf Serpentinitgestein.
 
 Während die Gruppe Geobotanik-Professor Matthias Baltisberger zuhört, haben viele Studierende ein Aha-Erlebnis: die vielen Keimlinge einer Bergföhre, die neben dem Mutterbaum aus dem Serpentinitschutt hervorschauen; der Gesteinsschutt, der vor wenigen Jahren von einem Murgang ins Tal verfrachtet wurde und bei jedem Schritt unter den Füssen nachgibt, der aktuelle Dauerregen, der solche Murgänge auslösen kann – die unterschiedlichen Eindrücke verdichten sich und brennen sich ins Gedächtnis ein.
 
-## Ausbruch aus dem Lernalltag
-
 Das ist mit ein Grund, weshalb Exkursionen in zahlreichen Departementen der ETH Zürich einen hohen Stellenwert haben. Agrar-, Lebensmittel- und Erdwissenschaftler, Maschinen- und Bauingenieure oder Architekten gehen nach wie vor auf Lehrausflüge. Das Spektrum an Themen reicht von Betriebsbesichtigungen in Gontenbad, Appenzell, bis hin zu Seminarwochen am Singapore-ETH Centre (SEC) in Singapur. Exkursionen gehören für die Teilnehmerinnen und Teilnehmer zu den Höhepunkten des Studiums.
 
 «Auf Exkursion gehen» mag für manche antiquiert klingen. Für den Botaniker Baltisberger aber sind Exkursionen die Lehrform schlechthin, um Wissen über Pflanzen und deren Ökologie zu vermitteln. «Es gibt keine andere Lehrveranstaltung, in der die Studierenden so viel Stoff so leicht aufnehmen wie bei einer Exkursion. Es ist im wahrsten Sinn des Wortes eine eindrückliche Lehrform.» Für ihn sind Exkursionen «unsere wertvollste Unterrichtszeit». Hier könne der in Vorlesungen theoretisch vermittelte Stoff veranschaulicht und angewandt werden. In keiner anderen Lehrform könne der Stoff mit allen fünf Sinnen erfahren werden: «Man sieht die Pflanzen in ihrem Umfeld, sie können angefasst und in den Mund genommen oder sogar gegessen werden, man kann an ihnen riechen, und bei wenigen Arten gibt es auch akustische Merkmale.»
-
-## Gute und schlechte Exkursionen
 
 Ruben Kretzschmar, Professor für Bodenchemie am D-USYS, der an der Davos-Exkursion beteiligt ist, doppelt nach: «Es ist einfach nicht dasselbe, ob ich in der Vorlesung Bilder von Bodenprofilen zeige, oder ob wir sie draussen betrachten. Die Information prägt sich besser ein.» Der abstrakte Stoff aus der Vorlesung werde auf Exkursionen erlebbar.
 
 Umweltingenieurswissenschaften-Student Matthias Gmür prägt sich die Merkmale eines Grases ein.
 
-## Hoher Zeit- und Personalaufwand
+## Gute und schlechte Exkursionen
 
 Auch Studierende schätzen die Lehrausflüge als wertvoll ein. Der Umweltingenieurwissenschaften-Student Matthias Gmür belegt «Flora, Vegetation und Böden der Alpen» als fachspezifisches Wahlfach für sein Masterstudium. Er habe bereits an mehreren Exkursionen zu verschiedenen Themen teilgenommen, «vom Baustellenbesuch bis hin zu dieser Alpenflora-Exkursion». Exkursionen seien eine gute Möglichkeit, aus dem Lernalltag auszubrechen und Inhalte auf eine andere, einprägsame Art zu lernen, betont er.
 

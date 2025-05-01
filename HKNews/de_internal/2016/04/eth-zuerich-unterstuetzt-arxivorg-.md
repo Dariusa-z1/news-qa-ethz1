@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2016/04/eth-zuerich-unterstuetzt-arxivorg-.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Die Wissenschaftlerinnen und Wissenschaftler der ETH Zürich gehören hinsichtlich der Anzahl Zugriffe weltweit zu den Top-10-Nutzern. Auch die Möglichkeit, eigene Forschungsarbeiten auf externe Seite arXiv.org zu publizieren, nutzen sie rege.

@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2018/03/personalisierte-medizin-diskussion.html
 
-## Initiativen
+**Date processed:** 2025-05-01
+
+## Main article
 
 ETH News: Die personalisierte Medizin ist unter Forschenden derzeit ein grosses Thema. Man verspricht sich Behandlungsmöglichkeiten und Medikamente, die besser auf den Einzelnen zugeschnitten sind. Warum sprechen wir dabei so oft von Daten, wenn von personalisierter Medizin die Rede ist? Markus Stoffel: Die Fortschritte in der personalisierten Medizin haben wir unter anderem den Fortschritten in den datengetriebenen Technologien und Analyseverfahren zu verdanken. Schon immer wollten Ärzte ihren Patienten die für ihren spezifischen Fall beste Behandlung anbieten. Das wird jetzt dank solcher Verfahren viel präziser als bisher möglich.
 
@@ -28,8 +30,6 @@ Und welche Erfahrungen haben Sie mit den Initiativen bereits gemacht? Aebersold:
 
 Günther: Ein anderes Problem: Was passiert beispielsweise, wenn ein Spital seine Daten weitergibt und dabei ein Leck entsteht? In solchen Fragen versuchen wir, den allersichersten Weg zu gehen, der dann natürlich nicht immer der schnellste ist.
 
-## Magazin Globe
-
 Wie sinnvoll ist es, so ein Projekt auf nationaler Ebene anzupacken? Stoffel: Diese Frage ist insbesondere für die Schweiz berechtigt. Für viele Krankheiten ist eine nur nationale Forschung nicht sinnvoll, weil sie keinen ausreichenden Zugang zu den nötigen Patientenzahlen hat. Denken wir an die grosse Gruppe der verschiedenen seltenen Erkrankungen, die man nur auf internationaler Ebene erforschen kann. Umso wichtiger ist es, dass in einem kleinen Land wie der Schweiz die Daten nicht zersplittert bleiben.
 
 Günther: Es gibt viele Länder, die uns einiges voraushaben. England zum Beispiel führt jetzt gerade eine grosse Populationsstudie durch, bei der eine halbe Million Menschen prospektiv, also ohne konkreten Verdacht auf eine Erkrankung, untersucht wird.
@@ -47,6 +47,8 @@ Was ist für die Zukunft besonders wichtig? Aebersold: Ich hoffe, dass die aktu
 Günther: Ich wünsche mir, dass die Methoden, die wir erarbeiten, möglichst schnell in die Kliniken kommen. Die Nähe zum Patienten ist für uns enorm motivierend.
 
 Stoffel: Die grössten Erfolge verzeichnete die personalisierte Medizin bisher bei seltenen Krankheiten und teilweise in der Onkologie. Sie sind oft auf innovative Forschende zurückzuführen, die es gewagt haben, ihre Lösungen in kleinen Firmen weiterzuentwickeln. Innovationen kommen aus den Universitäten. Ich hoffe, dass die Politik dies erkennt und uns auf diesem Weg weiter unterstützt.
+
+## Initiativen
 
 Zwei grosse Initiativen sollen die Forschung der Schweiz im Bereich personalisierte Medizin weiter stärken und koordinieren:
 

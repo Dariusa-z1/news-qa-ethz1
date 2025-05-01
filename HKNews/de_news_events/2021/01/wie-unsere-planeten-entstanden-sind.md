@@ -2,31 +2,29 @@
 
 **Source:** de_news_events/2021/01/wie-unsere-planeten-entstanden-sind.html
 
+**Date processed:** 2025-05-01
+
 ## Zwei Entstehungswellen zu verschiedenen Zeitpunkten
 
 Merkur, Venus, Erde und Mars im inneren Sonnensystem sind relativ kleine, trockene Planeten im Gegensatz zu Jupiter, Saturn, Uranus und Neptun weiter draussen, die viel mehr flüchtige Elemente enthalten. «In den letzten Jahren haben wir zudem einen weiteren deutlichen Unterschied zwischen innerem und äusserem Sonnensystem entdeckt», sagt Maria Schönbächler, Professorin am Institut für Geochemie und Petrologie der ETH Zürich: «Meteoriten haben einen unterschiedlichen ‘Fingerabdruck’, je nachdem, ob sie aus dem inneren oder äusseren Sonnensystem stammen.» Je nach Herkunft unterscheidet sich ihr sogenannter Isotopengehalt. Isotope sind verschiedene Atomsorten eines Elements, die im Kern die gleiche Anzahl Protonen aber unterschiedlich viele Neutronen besitzen.
 
 Die bisherige Erklärung für die Unterschiede bei der chemischen Zusammensetzung von Planeten und Meteoriten: Als das Sonnensystem vor 4,5 Milliarden Jahren aus einer Gas- und Staubscheibe entstand, wurde als erster Planet Jupiter geboren. Er teilte die Scheibe in ein inneres und äusseres System und blockierte den Austausch von Materie zwischen den beiden Teilen.
 
-## Schneelinie wandert nach aussen
-
 «In Zusammenarbeit zwischen Forschenden aus verschiedenen Fachbereichen haben wir ein neues Modell der Planetenentstehung entwickelt: Es liefert eine alternative Erklärung der Isotopenunterschiede; Jupiter brauchen wir dazu erstmal nicht», erklärt Schönbächler. Die Idee für die neue Theorie entstand in Zusammenarbeit zwischen Forschenden der ETH und Universität Zürich im Rahmen des Nationalen Forschungsschwerpunkts PlanetS, dem die Kosmochemikerin angehört. Nun veröffentlicht das internationale Team seine Arbeit in der Zeitschrift «Science».
 
 «Mit Computersimulationen haben wir berechnet, was im frühen Sonnensystem geschehen sein könnte», sagt Tim Lichtenberg von der Universität Oxford, Erstautor der Studie und ehemaliges Mitglied des Nationalen Forschungsschwerpunkts PlanetS.
 
-## Neue Kombination aktueller Daten
-
 Gemäss den Simulationen entstand das innere und äussere Sonnensystem in zwei unterschiedlichen Wellen zu zwei verschiedenen Zeitpunkten. Extrem früh, als die ursprüngliche Scheibe aus Gas und Staub sowie die Sonne noch selber im Entstehen waren, formten sich im inneren Sonnensystem die ersten Bausteine der Planeten – Brocken mit einem Durchmesser von ungefähr 100 Kilometern, von den Fachleuten Planetesimale genannt. Eine wichtige Rolle spielte dabei die sogenannte Schneelinie, die sich in einem bestimmten Abstand um die sehr junge Sonne zog. Innerhalb dieser Grenze kam das Wasser in Form von Wasserdampf vor. Ausserhalb bildeten sich Eiskristalle. Dort kondensierte ein Teil des Wasserdampfs auf Staubkörnern, die zusammenklumpten und so die ersten Planetesimale formten.
 
 «Diese waren extrem wasserreich», erklärt Lichtenberg: «Das ist erst mal seltsam, weil die Erde damit deutlich mehr Wasser enthalten und heute eher wie ein Komet aussehen sollte.» Doch auch dafür hat die neue Theorie eine Erklärung: Die Staubscheibe enthielt das radioaktive Isotop Aluminium-26. Die Planetenbausteine erbten dieses Material, das mit einer Halbwertszeit von 700'000 Jahren zerfällt und dabei viel Energie abgibt – genug, um die Planetesimale von innen aufzuheizen und zu schmelzen. Es formten sich Eisenkerne und das Wasser sowie andere flüchtige Elemente verdampften.
-
-## Literaturhinweis
 
 «Nachdem die ersten Planetesimale im inneren Sonnensystem entstanden sind, passiert in unserem Modell während rund einer halben Million Jahren nichts mehr», erklärt Lichtenberg. Dann kommt es zu einer zweiten Welle der Planetesimal-Entstehung - diesmal im äusseren Sonnensystem. Die Schneelinie ist inzwischen nach aussen gewandert, weil sich die Gas- und Staubscheibe aufgeheizt hat. Staubpartikel, die sich in Richtung Sonne bewegen, werden an der neuen Schneegrenze aufgehalten. Die Forschenden sprechen von «Traffic jam» - Verkehrsstau. Dadurch bilden sich erneut Planetesimale. «Die Bildung der Planeten im äusseren Sonnensystem begann später, war aber deutlich schneller beendet; die inneren Planeten brauchten wesentlich länger», sagt Lichtenberg. Weil der zweite Prozess später startete, war ein grosser Teil des radioaktiven Aluminium-26 bereits zerfallen und es wurden weniger flüchtige Elemente abgedampft. In Folge entstanden dort draussen die Gas- und Eisriesen wie Jupiter oder Uranus.
 
 «Unser Modell wirft zudem ein neues Licht auf das weitere Anwachsen der ursprünglichen Planetesimale im inneren Sonnensystemen, bis daraus die Gesteinsplaneten wie unsere Erde entstanden sind», sagt Maria Schönbächler. Gemäss dem Modell dominierten anfänglich Zusammenstösse zwischen den Planetesimalen. Dann folgte eine Phase, bei welcher diese Körper aufgrund ihrer Schwerkraft Staubkörner ansammelten. Die Fachleute nennen diesen Prozess «Pebble accretion». Darauf folgten wiederum Kollisionen, bis die Erde am Ende des Bildungsvorgangs mit dem letzten grossen Brocken zusammenstiess. Bei diesem Zusammenprall wurde Masse aus der frühen Erde herausgeschleudert, aus welcher der Mond entstand. Die Simulationen zeigen zudem, wie die Planeten während ihrer Bildung näher zur Sonne wanderten, bis sie ihre heutige Umlaufbahn erreichten.
 
 «In unserer Studie schlagen wir ein Gesamtszenario vor, das die Zusammensetzung und Entstehungsgeschichte des Sonnensystems reproduziert», sagt Tim Lichtenberg. Tatsächlich widerspiegeln die Computerberechnungen die Daten von Meteoriten-Analysen und astronomischen Beobachtungen. «Diese Kombination von aktuellen Meteoritendaten und Entwicklungsmodellen ist neu», fasst Maria Schönbächler zusammen und ist begeistert «wie gut alles passt».
+
+## Literaturhinweis
 
 Lichtenberg T et al.: Bifurcation of planetary building blocks during Solar System formation, Science, 371, 6527, 21 January 2021. doi: externe Seite 10.1126/science.abb3091
 

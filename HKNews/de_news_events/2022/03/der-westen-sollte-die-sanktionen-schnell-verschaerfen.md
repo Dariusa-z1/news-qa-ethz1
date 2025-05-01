@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2022/03/der-westen-sollte-die-sanktionen-schnell-verschaerfen.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH-News: Herr Ambühl, es herrscht nun seit über drei Wochen Krieg in der Ukraine. Wie schätzen sie die Situation ein? Michael Ambühl: Der Widerstand der ukrainischen Bevölkerung ist eindrücklich und verdient grössten Respekt. Dem Präsidenten, der Bevölkerung und der Armee ist das schier Unvorstellbare gelungen: Putins Militärmaschinerie aus dem Trott zu bringen und seine Blitzkrieg-Vorstellungen zu durchkreuzen.
@@ -33,6 +35,8 @@ Das wären keine unerheblichen Zugeständnisse der Ukraine. Was würde sie dafü
 Müsste eine diplomatische Lösung nicht auch die Sicherheitsinteressen aller Staaten in der Region berücksichtigen? Unbedingt. Wir brauchen eine neue Sicherheitsarchitektur für Osteuropa. Diese müsste auf einer Sicherheitskonferenz definiert werden. Dabei ginge es insbesondere um Garantien für die heutigen Nato- und EU-Staaten, die früher Teil der Sowjetunion oder des Warschauer Paktes waren. Als ersten Schritt in diese Richtung könnte man auf eine gemeinsame Absichtserklärung hinarbeiten, so schnell wie möglich eine solche Konferenz einzuberufen.
 
 All diese Vorschläge setzten ein Mindestmass an Vertrauen in die Pakttreue Russlands voraus, das doch mit dem Angriff auf die Ukraine zerstört wurde? Man kann dem Kremlherr definitiv nicht vertrauen. Umso wichtiger ist es, dass ein Abkommen nicht auf Vertrauen baut, sondern so konstruiert ist, dass das Einhalten im Interesse der Parteien ist. Nur dann werden sie sich daran halten.
+
+## Zur Person
 
 Michael Ambühl ist emeritierter Professor für Verhandlungsführung und Konfliktmanagement an der ETH Zürich.
 

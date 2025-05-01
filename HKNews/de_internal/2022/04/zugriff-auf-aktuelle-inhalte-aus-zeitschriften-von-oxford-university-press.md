@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2022/04/zugriff-auf-aktuelle-inhalte-aus-zeitschriften-von-oxford-university-press.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Ohne ein bestehendes Read & Publish-Abkommen mit dem Verlag Oxford University Press (OUP) kann es sein, dass Artikel, die im laufenden Jahr 2022 nicht als Open-Access-Artikel publiziert wurden, bald nur noch auf Bestellung verfügbar sein werden. Der Zugriff auf Artikel, die bis Ende 2021 erschienen sind, wird weiterhin wie gewohnt funktionieren.

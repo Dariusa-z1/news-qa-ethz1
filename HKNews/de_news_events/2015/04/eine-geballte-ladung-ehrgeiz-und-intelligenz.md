@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2015/04/eine-geballte-ladung-ehrgeiz-und-intelligenz.html
 
-## Main article
+**Date processed:** 2025-05-01
+
+## 11'000 Franken pro Semester
 
 «Es ist eure Aufgabe, euer Potenzial voll auszuschöpfen. Seid die Besten, die ihr sein könnt. Und dann fliegt.» Diese Worte richtete ETH-Rektorin Sarah Springman gestern Abend an die Stipendiatinnen und Stipendiaten des «Excellence Scholarship and Opportunity Programme» (ESOP). Die rund 50 anwesenden jungen Frauen und Männer hatten sich am jährlichen «Meet the Talent» an der ETH Zürich versammelt, um sich und ihre Projekte ihren Förderinnen und Fördern vorzustellen. Denn die Stipendien werden unter anderem durch die Spenden von Absolventen, Freunden und Förderern an die ETH Zürich Foundation finanziert.
 

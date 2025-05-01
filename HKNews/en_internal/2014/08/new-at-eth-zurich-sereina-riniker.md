@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2014/08/new-at-eth-zurich-sereina-riniker.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 How does it feel to be back at ETH Zurich as a professor, two years after your PhD? Sereina Riniker: I really didn’t expect this development, especially not at this speed. I’m very enthusiastic about this opportunity and have at the same time great respect for my job. I know many people from earlier and was warmly welcomed. But sometimes, I still have to get used to having my former professors as colleagues now.

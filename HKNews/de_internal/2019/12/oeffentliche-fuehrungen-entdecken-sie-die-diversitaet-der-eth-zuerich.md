@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2019/12/oeffentliche-fuehrungen-entdecken-sie-die-diversitaet-der-eth-zuerich.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Möchten Sie mehr über historische Ereignisse und Persönlichkeiten wie Albert Einstein, Max Frisch oder Thomas Mann erfahren? Besuchen Sie eine unserer öffentlichen Führungen und bestaunen Sie wertvolle Bestände, Bilder und Objekte. Tauchen Sie in Themen der aktuellen Forschung ein und lernen Sie die beiden Campus Zentrum und Hönggerberg sowie Gebäude und Kunstwerke der ETH Zürich kennen.

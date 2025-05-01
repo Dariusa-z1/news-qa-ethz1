@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2023/04/online-information-fair-eth-library-your-partner-for-managing-the-research-life-cycle.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Wussten Sie, dass die ETH-Bibliothek Sie in sämtlichen Etappen entlang des Research Life Cycle unterstützt? Sei es beim Forschungsdatenmanagement, beim Open-Access-Publizieren oder bei bibliometrischen Analysen – wir erklären Ihnen die für Ihren Forschungs-, Schreib- und Publikationsprozess wichtigsten Dienstleistungen.

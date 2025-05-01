@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2022/08/chemische-synthese-per-knopfdruck.html
 
+**Date processed:** 2025-05-01
+
 ## Muss Chemie so kompliziert sein?
 
 Es ist schon eine Weile her, seit in Kemptthal bei Winterthur Suppenwürfel hergestellt wurden. Auf dem weitläufigen Gelände der ehemaligen Maggi-Fabrik haben sich inzwischen zahlreiche Jungunternehmen eingenistet, die – ähnlich wie damals Julius Maggi – mit ihren Produkten die Welt erobern wollen.
@@ -10,23 +12,21 @@ Auch Benedikt Wanner hat sich mit seinem ETH Spin-off Synple Chem vor gut andert
 
 Der Wechsel vom ETH-Campus Hönggerberg, wo Wanner in der Anfangsphase der Firmengründung noch arbeiten konnte, nach Kemptthal sei fast wie das Ausziehen bei den Eltern als junger Student gewesen: «Man verlässt das bekannte, bequeme Zuhause und muss sich plötzlich um vieles selber kümmern», meint er. «Es war eine harte Zeit, aber unter dem Strich doch eine positive Erfahrung, denn wir haben durch den Wechsel neue Freiheiten gewonnen.»
 
-## Ein paar Handgriffe reichen
-
 Wanner hat sein Doktorat bei Jeff Bode, ETH-Professor für organische Chemie, gemacht. «Wir haben damals eine chemische Synthesereaktion entwickelt, die sehr leistungsfähig, aber auch zeitaufwändig und kompliziert ist und die zudem den Einsatz von giftigen Substanzen erfordert», erinnert sich Wanner. «Deshalb war sie bei den Forschenden nicht besonders beliebt.»
+
+## Ein paar Handgriffe reichen
 
 Warum nur muss Chemie so kompliziert sein, fragte sich Wanner. Zusammen mit Bode überlegte er, wie man typische chemische Routineaufgaben automatisieren könnte. Die Synthese einer neuen Substanz, so die Idee, sollte idealerweise so einfach sein wie das Herstellen eines Kapsel-Kaffees: Kapsel einlegen, Knopf drücken, fertig.
 
 Tatsächlich werden heute in der pharmazeutischen Forschung routinemässig bestimmte Reaktionen eingesetzt, die immer gleich ablaufen. Könnte man diese Routineaufgaben automatisieren, würde das viel Zeit sparen – und es würde die Arbeit insbesondere dann erleichtern, wenn man giftige Substanzen einsetzen muss, deren Handhabung viel Sorgfalt erfordert.
 
-## Pioneer Fellowship als Schlüsselfaktor
-
 Genau ein solches Kapsel-Synthesegerät bietet Synple Chem nun an. In einem ersten Schritt gibt man zunächst in einem Behälter das gewünschte Ausgangsprodukt in die Maschine. Danach setzt man je nach gewünschter Synthese eine vierteilige Kartusche ein, welche die benötigten zusätzlichen Reagenzien enthält. Durch Antippen von Buttons auf dem Display startet man die Reaktion und überlässt danach der Maschine für die nächsten zwei, drei Stunden die Arbeit.
 
 Ganz so simpel wie Kaffeemachen sei die Sache zwar nicht, räumt Wanner ein, weil man für eine chemische Synthese ja nicht nur Wasser und Kaffeepulver brauche. In der Regel müssen mehrere Substanzen in einer klar definierten Abfolge zugegeben werden. Aber insgesamt lässt sich die Maschine doch bemerkenswert einfach bedienen.
 
-Vergleicht man das heutige Gerät mit dem ersten Prototyp, der immer noch auf der Webseite der Firma zu sehen ist, wird offensichtlich, dass Wanner mit seinem inzwischen rund zehnköpfigen Team seit der Firmengründung 2016 grosse Fortschritte erzielt hat. «Ohne das Pioneer Fellowship der ETH Zürich hätte ich diesen Weg allerdings nie und nimmer gehen können», hält Wanner fest. «Kein Investor hätte mir aufgrund der ursprünglichen Versuchsanlage Geld gegeben.»
+## Pioneer Fellowship als Schlüsselfaktor
 
-## Das Potenzial voll ausschöpfen
+Vergleicht man das heutige Gerät mit dem ersten Prototyp, der immer noch auf der Webseite der Firma zu sehen ist, wird offensichtlich, dass Wanner mit seinem inzwischen rund zehnköpfigen Team seit der Firmengründung 2016 grosse Fortschritte erzielt hat. «Ohne das Pioneer Fellowship der ETH Zürich hätte ich diesen Weg allerdings nie und nimmer gehen können», hält Wanner fest. «Kein Investor hätte mir aufgrund der ursprünglichen Versuchsanlage Geld gegeben.»
 
 Insgesamt zwölf verschiedene Synthesen kann die Firma heute als pfannenfertige Produkte anbieten. «Unser Ziel ist es, die Palette jedes Jahr um ein, zwei neue Reaktionen zu erweitern», erklärt Guillaume Coin, der im Rahmen eines Projekts der Schweizerischen Agentur für Innovationsförderung (Innosuisse) als Forschungsleiter für das ETH Spin-off tätig ist. Wanner ist überzeugt, dass sich der Ansatz auf dem Markt durchsetzen wird. «Unsere Vision ist, dass künftig in jedem Chemielabor eine solche Maschine stehen wird», skizziert er seine Ausbaupläne.
 

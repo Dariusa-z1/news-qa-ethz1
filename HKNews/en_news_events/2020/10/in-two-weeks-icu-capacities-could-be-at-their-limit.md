@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2020/10/in-two-weeks-icu-capacities-could-be-at-their-limit.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 You have launched a website with forecasts of intensive care unit (ICU) occupancy in Swiss hospitals. It is attracting a lot of interest at the moment. What can one see on the webpage? Our platform shows at a glance the occupancy level of beds in intensive care units, categorised by region, canton and individual hospital. However, only hospitals themselves and the Swiss army have access to the latter information. We also provide forecasts of how the situation might evolve 3 and 7 days ahead.
@@ -39,6 +41,8 @@ How should people prepare in hospitals? Do they rely on your model now? I cannot
 Will the model be improved in the near future? We’re working around the clock at the moment to do that. There are invisible heroes making vital contributions, including the group of students and postdocs who have been working with me since March. I would like to take this opportunity to thank people at ETH and other Swiss universities: Cheng Zhao, Nicolas Cri s cuolo, Peter Ashcroft of ETH, Burcu Tepekule of USZ, Monica Golumbeanu of SwissTPH, and Riccardo Delli Compagni who recently joined our team thanks to the support of SNF. Some of these students took time off from their own projects to keep working on icumonitoring.ch. The Vice President for Research has supported them financially, so we are very grateful for that too.
 
 Do you also collaborate with ETH Professor Tanja Stadler and her group that is calculating the R value? Yes, we work together in the Swiss Covid-19 task force, and we meet every Monday. Although this week it was more like every day! So we constantly discuss our models in depth. Furthermore, we are using information from her model to try and refine ours. The collaboration with her and her group has been very helpful in the further development of the website.
+
+## About
 
 The 35-year-old Thomas Van Boeckel has been Assistant Professor of Health Geography and Policy at ETH Zurich since 2019. He is a member of the Swiss National Covid-19 Science Task Force of the Swiss Confederation, working in the expert group " Data and modelling ", which is headed by ETH Professor Sebastian Bonhoeffer.
 

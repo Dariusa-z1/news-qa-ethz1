@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2023/07/how-ai-models-teach-themselves-to-learn-new-things.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Despite their huge success, the inner workings of large language models such as OpenAI’s GPT model family and Google Bard remain a mystery, even to their developers. Researchers at ETH and Google have uncovered a potential key mechanism behind their ability to learn on-the-fly and fine-tune their answers based on interactions with their users. Johannes von Oswald is a doctoral student in the group headed by Angelika Steger, ETH Professor for Theoretical Computer Science, and researches learning algorithms for neural networks. His new paper will be presented at the International Conference on Machine Learning (ICML) in late July.
@@ -25,6 +27,8 @@ GPT-3, the model behind ChatGPT, has 175 billion parameters. How do you study su
 Can you provide more information on the system you used in your paper? The transformer we used in our study is roughly identical to the commonly used transformer architecture. Rather than training our system on all the texts on the internet, we trained it on examples of a simple problem known as linear regression. Because this problem and its solution are so well understood, we were able to compare the known solution with what we observed inside the transformer. We confirmed that it implements a very well-known and powerful learning algorithm within itself called gradient descent.
 
 Would you expect other behaviour to emerge that is entirely new to computer science? That is possible. In our case, we were able to show that the transformer was not simply performing plain gradient descent but an improved version of it. Two independent studies from MIT and UC Berkeley have now analysed the algorithm that the transformer learned. A long-term goal of this line of research could be to determine whether transformers can discover algorithms or even prove theorems and develop mathematics that we are not yet familiar with. This would be truly remarkable and groundbreaking.
+
+## Reference
 
 von Oswald J, Niklasson E, Randazzo E, Sacramento J, Mordvintsev A, Zhmoginov A, Vladymyrov M: Transformers learn in-context by gradient descent. Conference Paper International Conference on Machine Learning (ICML), July 2023, doi: 10.48550/arXiv.2212.07677
 

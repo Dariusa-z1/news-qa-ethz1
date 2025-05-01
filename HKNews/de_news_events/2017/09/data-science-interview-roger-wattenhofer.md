@@ -2,13 +2,9 @@
 
 **Source:** de_news_events/2017/09/data-science-interview-roger-wattenhofer.html
 
-## Zur Person
+**Date processed:** 2025-05-01
 
-- Lino Guzzella: «Diese Chance müssen wir packen» (ETH-News 20.06.2017)
-
-- Srdjan Capkun: «Es ist immer ein Kompromiss» (ETH-News 19.07.2017)
-
-- Joachim Buhmann «Die Medizin wird modellgetrieben» (ETH-News 28.08.2017)
+## Main article
 
 ETH-News: Sie haben Vorbehalte angemeldet, als das Thema Blockchain für dieses Interview gewählt wurde. Weshalb? Roger Wattenhofer: Das Thema ist spannend, aber um den Begriff Blockchain besteht ein etwas übertriebener Hype. Ich erhalte täglich von allen Seiten Anfragen dazu, von Medien, Privaten und Firmen. Ich war als Professor noch nie so populär (schmunzelt).
 
@@ -28,8 +24,6 @@ Mir scheint, dass es doch nicht etwas ist für jedermann und jedes und alles. We
 
 Wie wird sich das System entwickeln? Bitcoin oder andere Kryptowährungen werden sicher wichtiger. Bitcoin ist eine sehr dezentrale und unkontrollierte Form einer Kryptowährung. Der Wert eines Bitcoins wird nicht von einer Nationalbank beeinflusst, sondern nur vom Markt, vom Vertrauen der Benutzer in ihre Währung. Bitcoin ist es egal, wie hoch die Teuerung oder die Arbeitslosigkeit ist. Nationalbanken versuchen die Teuerung mittels Geldpolitik zu steuern. Bitcoin und andere Kryptowährungen sind noch Nischenprodukte. Wenn sie wirklich wichtig wären, müssten sich Nationalbanken was einfallen lassen.
 
-## Schwerpunktthema Daten
-
 Was ist die Alternative? Ich bin überzeugt, dass die Nationalbanken eigene Kryptowährungen ausgeben werden, etwa ein elektronisches Englisches Pfund. Elektronische Schweizer Franken wird es vermutlich nicht so schnell geben; ich habe den Eindruck, dass die Schweizer Nationalbank etwas konservativ ist – obwohl gerade in der Schweiz viel Knowhow vorhanden wäre. An der ETH Zürich etwa gibt es einige Professoren, die sich gut mit dem Thema auskennen; die ETH Zürich wurde kürzlich sogar zur «top research institution on blockchain technology» gekürt. Mit einem elektronischen Schweizer Franken könnte man künftig Verträge rein digital aufsetzen. Das würde viele juristische Konzepte vereinfachen, beschleunigen und verbessern, weil man sich mathematisch präziser ausdrücken kann als sprachlich. Der Anwalt der Zukunft sollte programmieren lernen (schmunzelt).
 
 Braucht es dann noch Banker? Auch dieses Berufsbild wird sich verändern. Ich persönlich glaube, dass die Digitalisierung in Zukunft viele Berufe verändert, viele Jobs wird es nicht mehr brauchen. Überall dort, wo Maschinen die Arbeit besser machen als der Mensch, werden Arbeitsplätze verschwinden. Die Blockchain ist nur ein Aspekt dieser Digitalisierung, es gibt viele andere Aspekte. Mich interessiert: Wie funktioniert die Gesellschaft, wenn künftig nur noch ein Drittel der Menschen Arbeit hat?
@@ -42,7 +36,11 @@ Was ist für Sie der Horizont der Digitalisierung? Die Welle rollt warscheinlich
 
 Sind das nicht einfach diffuse Ängste? Ich glaube nicht. Es gibt da verschiedene Indizien. Ein Beispiel ist die Lohnquote, also der Lohnanteil am Umsatz, die seit 25 Jahren sinkt. Ein anderes Beispiel ist die Arbeitslosigkeit. Die offizielle Arbeitslosenquote misst ja nicht die wirkliche Arbeitslosigkeit, sondern eher die «neue» Arbeitslosigkeit. Ein alternatives Mass ist die sogenannte Erwerbsbeteiligung. Diese gibt an, wie viele Menschen im Erwerbsalter einer bezahlten Arbeit nachgehen. In der Schweiz ist diese Rate hoch und ausgesprochen stabil. Aber weltweit sinkt sie; nur langsam, aber dafür kontinuierlich, ebenfalls seit 25 Jahren! Dafür gibt es viele Gründe, zum Beispiel die ansteigende Lebenserwartung. Ich glaube aber, dass sinkende Lohnquote und Erwerbsbeteiligung wenigstens teilweise Indizien der Digitalisierung sind.
 
+## Zur Person
+
 Roger Wattenhofer (Jahrgang 1969) ist seit 2001 Professor für Verteilte Systeme am Departement Informationstechnologie und Elektrotechnik der ETH Zürich. Er interessiert sich seit rund fünf Jahren für Bitcoin und die Blockchain. Er hat zum Thema das Buch «Distributed Ledger Technology» veröffentlicht.
+
+## Schwerpunktthema Daten
 
 Daten spielen in unserer Gesellschaft eine immer wichtigere Rolle. Die ETH Zürich wird sich deshalb in den kommenden Jahren vertieft mit diesem Themenschwerpunkt befassen. ETH News zeigt in einer Serie von Interviews exemplarisch auf, mit welchen Themen sich Forschende der ETH Zürich konkret befassen und wie sie die gesellschaftliche Entwicklung in ihrem Bereich einschätzen.
 

@@ -2,27 +2,19 @@
 
 **Source:** en_news_events/2016/06/net-worker-with-the-drive-to-optimise.html
 
+**Date processed:** 2025-05-01
+
 ## Making grids smarter
 
 Gabriela Hug is a small woman with a bright, alert gaze. When she speaks, she slips back into English now and then – a reminder of the time she and her husband spent in Canada and the US after her thesis. And there are many who want to hear her speak these days: lectures, conferences, contacts with industry – Hug is inundated with requests. This is due to her specialisation: optimisation of energy grids. At the Power Systems and High Voltage Laboratories (EEH) at ETH Zurich, Hug develops computational methods to operate modern electricity networks safely and reliably. As a result of her research, the World Economic Forum recently appointed her to the Young Scientists, a community of young researchers who creatively push the limits in their fields of expertise.
 
-## A robotic dog set the course
-
 She recently spoke at a WEF-organised meeting of the Young Scientists in Tianjin, China (see article on ETH Global News). Through her research, Hug explores the question of how to integrate renewable energy into the existing electricity infrastructure, making it possible to move away from nuclear energy and fossil fuels. A major topic that she has a lot to say about: “The interest is in my field of expertise, not in me personally,” says Hug, smiling.
-
-## Seven years in North America
 
 Her office on Physikstrasse above the ETH main building is modest and tidy – there are no electronic components, cables or plans of complicated circuits lying around. Hug works with the computers, develops control software and program algorithms to solve optimisation problems in the grid resulting from the energy transition.
 
-## Back to her roots
-
 She explains: “The existing energy grids and their controls are designed for the traditional power supply and are therefore too inflexible – essentially, power flows from A to B, from central power plants to the consumer.” In future, energy will be supplied largely through solar and wind power, which means it will be produced locally and subject to fluctuations. Different types of energy storage will exist and single-family homes will even be able to produce their own electricity. “To coordinate all these elements in real time requires sophisticated control systems capable of balancing production and consumption in the grid,” says Hug. She mentions electric vehicles as an example: if all these moving batteries recharged at the same time, they would overburden the grid. In future, they will have to communicate with the energy grid and dynamically decide when to recharge or feed power back into the grid. In this way e-mobility could act as a distributed buffer and support the grid as needed.
 
-## Networker for networks
-
 The 37-year-old Hug grew up in Aargau and Solothurn, and from her early days in secondary school it was clear to her that she wanted to study mathematics. The fact that it turned out differently is something she owes to her physics teacher, who sent her for a trial study week in engineering before she left school. Hug built a walking robotic dog with blinking eyes – a key experience, as she emphasises with a laugh, “From then on I was interested in electrical engineering. I loved the practical application, the tinkering around.”
-
-## “Not without my husband”
 
 The interest grew into a passion, and Hug began studying electrical engineering at ETH Zurich. After her undergraduate studies, she attended lectures by Professor Göran Andersson at the Power Systems Lab at EEH and was thrilled by his classes and subject. “Electricity is absolutely central to our society. Nothing would work without it. I found this completely fascinating,” she says enthusiastically. It is hardly a surprise that she later earned her doctorate with Andersson as her supervisor.
 

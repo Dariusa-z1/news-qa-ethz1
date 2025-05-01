@@ -2,19 +2,15 @@
 
 **Source:** en_internal/2015/02/congressi-stefano-franscini-extends-deadline.html
 
+**Date processed:** 2025-05-01
+
 ## Conferences 2016 Congressi Stefano Franscini
 
 The Congressi Stefano Franscini (CSF), the meeting platform of the Swiss Federal Institute of Technology of Zurich (ETH Zurich), has extended the deadline for submission of Proposals for obtaining a subsidy from the CSF for conferences in 2016 from 15 January 2015 to 8 February 2015.
 
-## ETH Winter Schools @Monte Verità 2015/2016
-
 The Congressi Stefano Franscini (CSF) gives the possibility to organize research conferences at Monte Verità, a hilltop over Ascona and Lake Maggiore.
 
-## Subscribe to Newsletter
-
 All researchers and university professors working in Switzerland are invited to submit their proposal for a meeting to be held in 2016; international collaborations are welcome. The applications will be evaluated by an interdisciplinary scientific board.
-
-## Staffnet
 
 The application form can be downloaded from our on line platform at the address: www.csf.ethz.ch .
 

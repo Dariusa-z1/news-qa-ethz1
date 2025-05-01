@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2019/10/emission-free-shipping.html
 
+**Date processed:** 2025-05-01
+
 ## North and Baltic Sea region drives innovation
 
 Shipping currently accounts for around three percent of global CO 2 emissions, which makes it one of the largest polluters in the transport industry alongside road and air transport. International merchant ships and large freighters are responsible for the lion’s share of these emissions. In response, various organisations, shipping companies and governments have set themselves the joint goal of establishing water transport to be carbon-neutral in the coming years. What has never been quite clear, however, is how to make this transition effectively.
@@ -11,8 +13,6 @@ Now, a group from the Department of Management, Technology and Economics at ETH 
 The report is based on shipping activities in the North and Baltic Seas. According to lead author Petrissa Eckle, this region has already made a name for itself as a driver of innovation in the industry. As a relatively small area, it’s also well suited for testing which solutions actually work in practice. Using external studies and interviews with innovators and industry experts as a basis, Eckle and her team investigated routes, the existing infrastructure, sustainability and the cost of new fuel options.
 
 They focused their efforts on alternative energy sources that will be available in the next five to ten years and that don’t emit CO 2 as the ships travel. Another key requirement of the solutions they proposed was that they be scalable for international shipping. Although the study did not include measures to enhance efficiency, such as optimised hull design or operational improvements, these would result in even greater energy savings and would, in turn, further reduce carbon dioxide emissions.
-
-## “Pilot projects are the next step”
 
 Petrissa Eckle and her team therefore see zero-emission propulsion systems in the form of electric motors, fuel cells or combustion engines powered by ammonia as holding the greatest potential in the near future. What makes the most suitable source of energy depends on the type of ship and length of the route. “In the North and Baltic Seas, ships with electric propulsion systems are already being used for short distances, which makes sense,” Eckle says.
 

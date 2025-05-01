@@ -2,11 +2,9 @@
 
 **Source:** en_news_events/2015/01/the-holocaust-is-not-unimaginable.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
-
-- Information on the workshops for school classes: www.afz.ethz.ch/educationandresearch/oralhistory/holocaust-commemoration-day/
-
-- Information on the public guided tours of the collections and archives of ETH Zurich held in the evening: www.afz.ethz.ch/educationandresearch/guided\_tours/
 
 Gregor Spuhler.
 
@@ -34,6 +32,10 @@ You also have written documents in your archives. Yes, in addition to contempora
 
 Gabor Hirsch, a survivor of the Auschwitz concentration camp, discusses his story with pupils in Januar 2007. (Photo: ETH Zurich/Archives of Contemporary History)
 
+## Contribution to documenting the Holocaust
+
+• Information on the workshops for school classes: www.afz.ethz.ch/educationandresearch/oralhistory/holocaust-commemoration-day/
+• Information on the public guided tours of the collections and archives of ETH Zurich held in the evening: www.afz.ethz.ch/educationandresearch/guided_tours/
 The Archives of Contemporary History of ETH Zurich store written, audio and video documents from private ownership on the history of Switzerland from the late 19th century to today and make these historic sources publicly accessible.
 
 With its Documentation Centre Jewish Contemporary History, the Archives of Contemporary History fill a void in the Swiss archives landscape. As a research institution that supports remembering, it is one of the world’s Shoa archives and makes a Swiss contribution to documenting the Holocaust in association with numerous other institutions.

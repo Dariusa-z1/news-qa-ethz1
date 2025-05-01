@@ -2,33 +2,19 @@
 
 **Source:** de_internal/2022/10/ich-hatte-schon-immer-freude-etwas-auf-die-beine-zu-stellen.html
 
+**Date processed:** 2025-05-01
+
 ## Die Mitglieder des neuen VSETH-Vorstands
 
-- Emir İşman (Präsident)
-
-- Léa Le Bars (Vize-Präsidentin und Ressort Hochschulpolitik)
-
-- Sina Keller (Quästorin)
-
-- Jasper Boultwood (Ressort Hochschulpolitik)
-
-- Oliver Klaus (Ressort Kommunikation)
-
-- Jannik Kochert (Ressort Hochschulpolitik und Kommunikation)
-
-- Tristan Lovšin Barle (Ressort Projekte)
-
-- Viviana Preianò (Ressort Projekte)
-
-- Anna-Siri Rietmann (Ressort Internal Affairs)
-
-- Jakob Storp (Ressort Internal Affairs)
-
-- Linus Ziegler (Ressort Infrastruktur)
-
-- Alexander Beck (Geschäftsführender Sekretär)
-
-Möchten Sie stets die wichtigsten internen Informationen und News der ETH Zürich erhalten? Dann abonnieren Sie den Newsletter «Intern aktuell» und besuchen Sie regelmässig Staffnet , das Info-​​Portal für ETH-​​Mitarbeitende.
-
-## Immer aktuell informiert
-
+• Emir İşman (Präsident)
+• Léa Le Bars (Vize-Präsidentin und Ressort Hochschulpolitik)
+• Sina Keller (Quästorin)
+• Jasper Boultwood (Ressort Hochschulpolitik)
+• Oliver Klaus (Ressort Kommunikation)
+• Jannik Kochert (Ressort Hochschulpolitik und Kommunikation)
+• Tristan Lovšin Barle (Ressort Projekte)
+• Viviana Preianò (Ressort Projekte)
+• Anna-Siri Rietmann (Ressort Internal Affairs)
+• Jakob Storp (Ressort Internal Affairs)
+• Linus Ziegler (Ressort Infrastruktur)
+• Alexander Beck (Geschäftsführender Sekretär)

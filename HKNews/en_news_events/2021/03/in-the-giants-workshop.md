@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2021/03/in-the-giants-workshop.html
 
+**Date processed:** 2025-05-01
+
 ## The engineers and the cross
 
 At first glance, this huge neon-lit space could be mistaken for a shipyard somewhere in the port of Hamburg. A mobile overhead crane arches above, poised to hoist massive steel components, concrete columns and wooden beams across the hall. Around us are bolts as long and thick as an adult’s forearm and nuts as big as plates. Are we in some kind of giant’s workshop?
@@ -10,15 +12,13 @@ At first glance, this huge neon-lit space could be mistaken for a shipyard somew
 
 The test setups are located on both sides of a central aisle demarcated with yellow tape. They include LUSET, a huge steel frame measuring 10 metres by 10 metres, whose inner workings consist of 100 individually controllable hydraulic cylinders. LUSET enables large-scale testing of reinforced concrete shell elements in a smoothly controlled manner that mimics real-life conditions. It was commissioned by the chair of Professor Walter Kaufmann. His team carries out tests for clients like the Federal Roads Office (FEDRO) to assess whether bridges require renovation. Diagonally opposite is the equally imposing MAST, which features two reinforced concrete walls approximately 3 meters long and 2 meters high, situated beneath one modular steel crosshead, which can be moved by powerful cylinders. Professor Božidar Stojadinović designed MAST to simulate earthquakes in slow motion and analyse their effects on full-scale structural elements. “Theoretically, we could even build a small house in the test setup and test its capacity to withstand earthquakes,” says Werne.
 
-## Pioneering use of wood
-
 “Hold on! I can see a crack,” shouts a voice at the north end of the laboratory. He is one of a group of six men: two from Zurich-based engineering firm WaltGalmarini, three doctoral students from IBK and one lab engineer. They are huddled around a desk looking at multiple computer screens. Next to them is a bright blue box with two manometers and two levers sticking out of it – a manually operated hydraulic pump. In front of this temporary command post is a wooden cross made of a 4.4-metre-long timber column and two beams. Half of each beam is made of the same beechwood laminated veneer lumber (LVL) as the column – but the lower half of each beam includes a layer of concrete. The two beams are joined to the column by threaded rods glued into the wood. To fasten the beams in place, the research engineers have poured high-strength mortar into a joint around 10 centimetres wide. It is this joint between the column and beams that is undergoing testing today. To perform their tests, the lab team have installed the cross between two hefty hydraulic cylinders held in place by two steel reaction walls, each weighing several tonnes.
 
 The engineers began ratcheting up the pressure at seven this morning, steadily increasing the load to see how much the cross can withstand. The aim of the experiment is to learn more about the structure’s stiffness, load-bearing capacity and ductility. High above the cross are three infrared cameras attached to a steel girder. They are monitoring 78 measuring points marked on the concrete sections of the cross so as to measure any displacement greater than 0.1 millimetres. This data can then be used to plot curves and draw diagrams showing where and what kind of deformations occur under different levels of load.
 
 One of the cracks induced by extreme loads is several centimetres wide. (Image: Daniel Winkler)
 
-## Brittle versus ductile
+## Pioneering use of wood
 
 Shortly after half past nine, and with the tensile load edging above 200 kilonewtons – equivalent to the weight of 20 tonnes – the first fine cracks start to appear in the concrete. A doctoral student operating the manual hydraulic pump releases the lever to stop any more pressure being applied. A WaltGalmarini employee steps up to the concrete and carefully traces the outline of the cracks with a blue marker pen, adding a “2” to show they’ve reached “load level 2”. Later on, this will help the engineers establish which cracks occurred under which load levels. They also make notes and take photos of the current pattern of cracks. Then it’s time to release the pressure on the cross in preparation for the next step.
 
@@ -26,15 +26,13 @@ Today’s experiments on the test setup are designed to mimic the behaviour of a
 
 Previously banned in Switzerland due to fire safety concerns, this type of structure was finally given the green light in 2015. Now, engineers are hoping to combine it with the latest innovations in timber construction. “Hardwoods are more difficult to machine, but they have better mechanical properties than softwoods,” says Frangi. “That makes them a good choice for the high loads to which high-rise buildings are subject.” LVL is made by peeling beech logs and then gluing together the 2 to 3-millimetre-thick wood veneers to produce components that offer optimal load-bearing capacity with smaller cross sections. Structures made from wood are generally lighter than conventional concrete high-rise buildings. They also have a better environmental performance, with each cubic metre of wood in a construction project tying up around one tonne of CO₂. Reducing the use of concrete is an additional benefit, since cement production makes up around eight percent of global carbon emissions.
 
-## Immensely valuable insights
-
 The timber-concrete composite slab – which will be used on the 27 floors of Project Pi – is another innovation from Frangi’s group. Load tests conducted in the laboratory show that it offers the same load-bearing capacity as conventional reinforced concrete slabs while also being 30 percent lighter. It also offers acoustic and vibration performance that meets all the relevant standards.
+
+## Brittle versus ductile
 
 “Bang!” A dull metallic thud reverberates around the hall. It’s nearly four in the afternoon and the tensile load on the two beams has just hit 510 kilonewtons (51 tonnes), which is equivalent to approximately twice the force that the building is legally required to withstand. Long cracks – each some 2 centimetres wide – are visible in the concrete section of one of the beams. This is where the horizontal timber-concrete composite slabs would be joined to the vertical timber column. Andreas Galmarini and his fellow engineer hurry to the spot where the cracks have appeared and begin to take photos and trace their outline with the blue marker. “Well, it’s all over for the tensile reinforcement at the column-beam joint!” says the co-owner of WaltGalmarini, who remembers the laboratory well from his own time as an ETH doctoral student.
 
 This sudden fracture was not predicted in the engineers’ modelling. They had expected to see a progressive increase in deformation prior to cracking – in other words, the kind of ductile behaviour that would signal imminent failure.
-
-## Current issue
 
 This demonstrates the importance of experimental research in civil engineering, says Frangi: “We can do a lot of the calculations at our desks – even using sophisticated software to simulate the load-bearing behaviour of components. But, ultimately, you need to validate these kinds of models through testing, especially when it comes to new developments.”
 
@@ -42,11 +40,11 @@ A doctoral student from Frangi’s group reaches for the lever of the hydraulic 
 
 The doctoral student keeps pumping, and the manometer soon rises to 300 bar. Meanwhile, a crack in the concrete is widening. At 550 kilonewtons, there’s another sharp cracking sound – this time twice in succession, and even louder than with the first beam. The doctoral student lets go of the lever. The crack in the concrete joint, which is now several centimetres wide, provides a glimpse of steel bars and rubble. The tremendous force has blown open two of the interlocking metal rings that the engineers were testing as an alternative joint between the column and beams.
 
-## Don't miss a Globe
-
 The engineers use SLR and smartphone cameras to document the destruction of the cross, which is drooping in the fading light of the laboratory. They inspect the two beams from all sides one more time, drawing out as much information as they can from the splintered concrete and speculating on what exactly has occurred deep within the column-beam joint. In one week’s time, they will be testing a second cross with two further design modifications. After that, the engineers from WaltGalmarini will consult with Andrea Frangi to decide which of Implenia’s joint systems should be used to construct the 27 floors of the 80-meter-tall timber tower.
 
 “The only way you can normally get this kind of data on how concrete, steel and timber perform under extreme conditions is by visiting a region that has recently been hit by an earthquake or typhoon,” says Galmarini. He spent time in earthquake zones himself while working for the Swiss Humanitarian Aid Unit (SHA). But even there, it was impossible to track the dynamics of materials and structures with the kind of slow-motion methods that are available in the laboratory. “This data is worth its weight in gold!” he says delightedly, before returning to inspect the gaping wound in the concrete.
+
+## Current issue
 
 Read the current issue as a PDF (PDF, 7.4 MB)
 

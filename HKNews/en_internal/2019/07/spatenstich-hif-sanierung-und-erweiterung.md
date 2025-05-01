@@ -2,27 +2,25 @@
 
 **Source:** en_internal/2019/07/spatenstich-hif-sanierung-und-erweiterung.html
 
-## Information on the pedestrian detour during the construction project
+**Date processed:** 2025-05-01
+
+## Main article
 
 According to Professor Thomas Vogel, Head of the Civil, Environmental and Geomatic Engineering department, this campus expansion will bring several disciplines closer together and in general facilitate the further development of the department and its institutes.
 
-## Importance of the Hönggerberg campus for ETH Zurich
-
 During his speech, he explained: “This project will put the nine professorships at the Institute of Environmental Engineering under one roof for the first time – and closer proximity simplifies communication. The nine state-of-the art laboratories will also give the Institute for Building Materials further room in which to evolve. In addition, the large experimentation facilities at the Institute of Structural Engineering, in the form of the renovated test hall, will offer an optimised structural shell, which, among other things, will offer better climatic conditions within the space. And the Institute for Geotechnical Engineering, which will be located on the lowest level, near the building’s foundation, will benefit as well. As part of a separate project, a large beam centrifuge with a rated acceleration of 250 g will be installed.” The renovation project will be carried out in phases, which will allow the extension to be completed while the site is occupied. Professor Ulrich Weidman, Vice President Human Resources and Infrastructure, explains the importance of the HIF renovation and extension project in the context of ETH Zurich’s expansion plans: “Our projects will ensure that we can offer infrastructure that meets the requirements of teaching, research and knowledge transfer.” Continuing, he said: “The HIF renovation and extension project marks a new phase of major construction at the Hönggerberg campus, and this will generate unavoidable emissions. However, through careful planning and intensive cooperation with the departments before and during the construction phase, we will be able to minimise the negative effects.” The new HIF, which was designed by Zurich-based architect firm Stücheli Architekten AG, should be completed by the beginning of 2023. The planning has ensured optimal integration into the campus, which is especially apparent in relation to the surrounding green space. For example, the project links up with the Flora-Ruchat-Roncati Garden, which will be expanded as part of the 2040 master plan. Another new feature will be direct access from Wolfgang-Pauli Strasse, which will shorten access pathways in the long term. The building will also have its own main entrance, replacing the main access route through the HIL building. Project manager Rainer Brandstätter puts it well: “HIF is receiving its very own address, giving it a place to grow.”
 
-## Image gallery: ground-breaking ceremony
+## Information on the pedestrian detour during the construction project
 
 As the construction project involves heavy lorry traffic, the passage marked in red will be blocked off for the coming years from mid-August. The appropriate detour signs will be posted around the campus.
 
-## Contact
-
 Map detour (PDF, 255 KB)
 
-## Subscribe to Newsletter
+## Importance of the Hönggerberg campus for ETH Zurich
 
 The Hönggerberg campus is one of the two main ETH Zurich sites and offers the full spectrum of teaching, research and services. It houses seven departments and has a bustling campus atmosphere. In terms of infrastructural development at ETH Zurich, the Hönggerberg campus plays a unique role due to the space available. This is in contrast to the central campus, where development options are highly limited due to the historic district and urban structures. The infrastructural development at the Hönggerberg campus is based on the «Campus Hönggerberg 2040» master plan.
 
-## Staffnet
+## Image gallery: ground-breaking ceremony
 
 Impressions from the ground-breaking ceremony. The star of the evening was the semi-autonomous excavator Menzi Muck, presented and operated by Professor Hutter and his team. (Pictures: Nicola Pitaro)
 

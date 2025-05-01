@@ -2,16 +2,16 @@
 
 **Source:** de_internal/2024/02/offenheit-von-forschungsinformation-demokratisierung-der-verwendung-von-szientometrie.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
-- Grusswort von Prof. Dr. Ulrich Weidmann, Vizepräsident für Infrastruktur ETH Zürich
+Programm:
 
-- Vortrag «Openness of research information – Democratizing the use of scientometrics» von Prof. Ludo Waltmann
-
-- Fragen und Diskussion
-
-- Apéro
-
+• Grusswort von Prof. Dr. Ulrich Weidmann, Vizepräsident für Infrastruktur ETH Zürich
+• Vortrag «Openness of research information – Democratizing the use of scientometrics» von Prof. Ludo Waltmann
+• Fragen und Diskussion
+• Apéro
 Verantwortungsvolle Forschungsbewertung und Open Science sind Themen, die alle Hochschulen betreffen. Professor Ludo Waltman, wissenschaftlicher Direktor am Centre for Science and Technology Studies (CWTS) an der Universität Leiden, berichtet in seiner Lecture über die Entwicklungen in den Niederlanden, die darauf abzielen, diese beiden Themen in grossem Umfang und konzertiert zu fördern. Dabei ist der Übergang zu neuen sczientometrischen Ansätzen, die auf offener Forschungsinformation basieren, von zentraler Bedeutung.
 
 Offene Forschungsinformation ermöglicht es, szientometrische Analysen auf transparente und reproduzierbare Weise durchzuführen. Damit demokratisieren sie die Nutzung der Szientometrie und unterstützen umfassendere und flexiblere Ansätze. Als Beispiel wird Ludo Waltman die neue «Open Edition of the CWTS Leiden Ranking» präsentieren und Möglichkeiten erörtern, wie Hochschulen am Übergang zu offener Forschungsinfomation mitwirken können.

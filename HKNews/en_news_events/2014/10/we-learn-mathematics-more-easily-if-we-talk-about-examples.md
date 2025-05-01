@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2014/10/we-learn-mathematics-more-easily-if-we-talk-about-examples.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 It’s a typical situation at middle school, grammar school or university: you are preparing for a maths exam. Is it worth studying for it in a group, if afterwards it is your own performance that will be judged? And how should group learning work so that each individual subsequently performs better?
@@ -43,6 +45,8 @@ As they compare and contrast the examples they are given, the volunteers learn t
 With a view to teaching in practice, Anne Deiglmayr concludes: “The aim of maths teaching should not be the endless learning by rote of formulae and typical examples, but rather to teach conceptual and transferable knowledge.” This kind of knowledge can be applied flexibly, Deiglmayr says. Her findings suggest that collaborative group learning encourages this, because people can then discuss and compare different approaches to solutions, principles and concepts.
 
 “It can be very helpful if a teacher sets out a good structure for the collaborative learning in advance, for example by distributing teaching material and suggesting questions for discussion in more detail that will lead students to the underlying principles. But it is better if they still practise the actual processes, such as how to calculate the answers quickly, by themselves.”
+
+## Reference
 
 Anne Deiglmayr, Lennart Schalk. Weak versus strong knowledge interdependence: A comparison of two rationales for distributing information among learners in collaborative learning settings. Learning and Instruction, Volume 40, December 2015, Pages 69–78. Available online 8 September 2015. DOI 10.1016/j.learninstruc.2015.08.003
 

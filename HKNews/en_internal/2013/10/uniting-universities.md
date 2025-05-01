@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2013/10/uniting-universities.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Arnaud Monnard
@@ -17,6 +19,8 @@ This will pose a serious challenge in terms of coordination and implementation i
 There is a lot of work to do. For one thing, staff associations will have to be created for each university of applied sciences in parallel to integrating them into Actionuni. While the concept of staff associations is a tradition at universities, it is uncommon at universities of applied sciences as research staff and the amount of research conducted is minimal compared with universities.
 
 With a clear focus on staff, Actionuni intends to implement something similar to what already exists at a Swiss national level for students: VSS-UNES , the umbrella organisation of the representative student bodies of most of Switzerland's higher education institutions. It represents the interests of students on a federal level, coordinating the requests of its members and cooperating with national and international organisations with the overall aim to promote democratisation and equalisation.
+
+## About the author
 
 Arnaud Monnard studied Life Science at EPFL where he obtained a degree in Engineering with special focus in Neuroscience. In September 2012, he started his Ph.D. studies in Human Nutrition at ETH Zurich, working on micronutrient deficiencies under Professor Michael Zimmermann. Since February 2013, Arnaud Monnard has been an active representative for External Affairs within the organisation AVETH.
 

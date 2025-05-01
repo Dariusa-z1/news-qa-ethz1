@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2014/08/polybox-neu-mit-50-gb-speicherplatz.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Der Speicherplatz von polybox wurde von anfänglichen 5 Gigabyte auf 50 Gigabyte vergrössert. Dieses Angebot der Informatikdienste der ETH Zürich gilt für alle ETH-Angehörigen und ist gratis. Der Vorteil von polybox gegenüber anderen Diensten wie Dropbox oder Google Drive: polybox lagert keine Daten aus, sondern speichert sie ETH-intern. Mit dieser Inhouse-Lösung ist die Kontrollierbarkeit gewährleistet – bei extern abgelegten Daten können die Informatikdienste die Sicherheit nicht garantieren. Zudem sind auch Mobile Clients (iPhone und Android) und Sync Clients verfügbar.

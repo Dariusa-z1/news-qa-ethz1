@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2019/11/eth-spin-off-pxl-vision.html
 
-## Neuer Prozess ist sicherer
+**Date processed:** 2025-05-01
+
+## Main article
 
 «Wir bringen Vertrauen in die digitale Welt, indem wir sichere, verifizierte digitale Identitäten ermöglichen.» Mit diesem Satz fasst Karim Nemr die Geschäftsidee von PXL Vision zusammen. Der 34-Jährige ist einer der Gründer des ETH-Spin-offs, dessen Produkte dereinst genauso selbstverständlich zu unserem Alltag gehören könnten wie die Kaffeemaschine oder das Smartphone.
 
@@ -12,7 +14,7 @@ Der Prozess ist simpel, wie Nemr gleich demonstriert: Zuerst scannt er Vorder- u
 
 Mithilfe der App wird die Verifizierung von Personen fast ein Kinderspiel. (Bild: ETH Zürich)
 
-## Gutes Image der ETH
+## Neuer Prozess ist sicherer
 
 Die Technologie namens «Daego» (von: digitales Alter Ego) unterstützt alle internationalen Reisedokumente, aber auch andere Ausweispapiere wie etwa eine mexikanische Abstimmungskarte, welche im Land als Hauptidentifikationsmittel dient. Denkbar sind auch Anwendungen im privaten Bereich, etwa um einen Babysitter oder eine Nachhilfelehrerin anzustellen. Mit der App von PXL Vision lässt sich rasch überprüfen, ob die Person, die vor der Tür steht, mit derjenigen identisch ist, die sich beworben hat.
 
@@ -21,8 +23,6 @@ Heutige Lösungen zur Identifikation von Personen sehen mindestens eine Interakt
 Das sehen auch die Kunden so: Der Telekommunikationsanbieter Sunrise ist ein Partner der ersten Stunde – trotz anfänglicher Skepsis. «Die Firma hatte erst grosse Bedenken, ob ihre Kunden die neue Technologie akzeptieren», sagt Nemr. «Doch diese Bedenken waren unbegründet. Die Leute haben unabhängig von Alter oder Geschlecht kein Problem damit, sich digital auszuweisen.»
 
 Mit Swiss Sign, Anbieterin der digitalen Identität SwissID, hat PXL Vision einen weiteren wichtigen Partner gewonnen. Und auch die weitere Kundenliste – darunter auch UPC und weitere Mobilfunkanbieter sowie Banken – liest sich wie ein Who-is-Who der digitalen Vorreiter der Schweiz. «Seit Beginn sind wir selbsttragend und konnten ohne Fremdfinanzierung wachsen», sagt PXL-Vision-Mitgründer Nemr denn auch stolz.
-
-## Banken, USA und Asien
 
 Dass er sich in diesem Umfeld wiederfinden würde, hätte er nicht gedacht: Er studierte in Lausanne Hospitality Management . «Schon als Kind interessierte ich mich für Technik und wusste früh, dass ich Unternehmer werden möchte.»
 

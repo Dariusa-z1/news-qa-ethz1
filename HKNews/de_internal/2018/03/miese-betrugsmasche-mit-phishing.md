@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2018/03/miese-betrugsmasche-mit-phishing.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Betrüger sind meisterhaft in der Tarnung - darum geben sie sich oft als bekannte und vertrauenswürdige Unternehmen aus, bei dem Sie möglicherweise tatsächlich Kunde sind.

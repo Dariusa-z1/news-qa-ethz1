@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2022/05/an-insightful-mediator-and-skilled-listener-reflections-of-an-ombudsperson.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Mr Tröster, can you briefly summarise what the duties of an ombudsperson are and what kind of skills should they have?
@@ -57,6 +59,8 @@ Something that always bothered us as ombudspersons was that in some cases we cou
 How are you staying connected with ETH, and what are your plans for the future?
 
 I am still part of the Swiss Study Foundation, where I’m mentoring a group, and I regularly read the ETH news – ETH is still part of me and that’s not going to change anytime soon.
+
+## About Gerhard Tröster
 
 Gerhard Tröster (*1953) was Full Professor of Electronics at the Institute of Electronics at ETH Zurich from August 1993 to July 2018, where he headed the Digital Systems & Wearable Computing Lab. After his retirement in July 2018, he served as an ombudsperson at ETH until March 2022.
 

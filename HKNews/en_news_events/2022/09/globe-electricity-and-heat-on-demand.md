@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2022/09/globe-electricity-and-heat-on-demand.html
 
-## Run-of-river and pumped storage as buffer reserves
+**Date processed:** 2025-05-01
+
+## Main article
 
 Switzerland aims to transition to a net-zero energy system by 2050. To meet this goal, it will need to replace fossil fuels with renewables. The Swiss government has also taken the decision to phase out nuclear power. As a result, its plans for carbon neutrality will require not only the electrification of transport and heating by means of electric vehicles and heat pumps, but also measures to compensate for the loss of nuclear generating capacity. To meet increased energy demand, Switzerland will primarily rely on hydro and photovoltaic energy sources and, to a lesser extent, wind power.
 
@@ -10,23 +12,21 @@ But what about the times when the sun doesn’t shine and the wind doesn’t blo
 
 If Switzerland starts investing more in photovoltaics, it will end up generating more power than it needs at noon on a summer’s day. To make that midday solar power available both day and night, it needs short-term storage solutions. “But Switzerland’s biggest challenge is actually long-term storage,” says Hug.
 
-## Decentralised small-scale storage
-
 The country already produces too little electricity in the winter and relies on imports to cover increased demand – and this seasonal imbalance will only intensify as the transition to renewables gathers pace. “Photovoltaic plants in particular generate surplus electricity in the summer,” says Gianfranco Guidati, an expert in energy system modelling at the ESC. “But in winter the sun is weaker and heat pumps are keeping people’s homes warm – that’s when we see a gap between energy supply and demand.”
 
 The key question for Switzerland is how to store this excess solar power from the summer to the winter. With demand for storage systems clearly growing, Hug argues that the safest approach is to invest both in established and emerging technologies: “We still haven’t come up with the perfect energy storage solution.”
 
 Yet energy storage shouldn’t be seen as an end in itself, says Guidati: “Switzerland’s goal is to achieve net-zero greenhouse gas emissions by 2050. Storage is crucial, but it’s not the only way to help us meet that goal.” He believes we should tap into indirect methods of energy storage as well as physical storage capacity. “We need to take a mixed approach,” he says. The following pages present some of the methods that might feature in this mix.
 
-## Seasonal thermal energy storage
+## Run-of-river and pumped storage as buffer reserves
 
 Robert Boes, ETH Professor of Hydraulic Engineering, sees hydropower as the backbone of the Swiss electricity system: “Hydro is our most important green energy asset, making up about 60 percent of our renewable generation. Its ability to store power also plays a key role in our net-zero strategy.”
+
+## Decentralised small-scale storage
 
 Run-of-river hydropower plants channel water directly into electricity-generating turbines to supply renewable base-load power. These kinds of plants have no storage function, unlike reservoir plants, which can store water to provide flexible generating capacity on demand. The large reservoirs in the Alps primarily serve as a form of seasonal energy storage. “The rain and melt water they collect in the spring and summer can be used to generate electricity in the winter,” says Boes. Yet, however much power these large lakes generate, they are still unable to store any of it.
 
 Only pumped-storage plants have the ability to store electricity. They do this by pumping water from a lower to an upper reservoir and then emptying the upper reservoir through the turbines to generate electricity on demand. Currently, hydroelectric pumped storage is the only proven technology for the capture and release of large amounts of electricity. It offers powerful and flexible storage capabilities – and that makes it the perfect choice for balancing the day-to-day and day-night variability of photovoltaic power generation. Nonetheless, its capacity does not stretch far enough to resolve seasonal variations in electricity generation.
-
-## Storage in energy carriers
 
 One way to reduce the winter energy gap is to build more reservoirs, but this approach is controversial. Such projects often run counter to nature conservation goals and meet resistance. “I don’t think this option shows much promise,” says Boes. “Hydropower is a mature and very efficient technology, but not enough attention has been paid to environmental aspects such as responsible water management.”
 
@@ -34,23 +34,21 @@ Researchers at ETH Zurich’s Laboratory of Hydraulics, Hydrology and Glaciology
 
 In the grid itself, batteries can act as a kind of miniature pumped-storage unit. If we have more decentralised systems generating electricity on people’s rooftops in the future, we will need distributed small-scale storage devices to perform local network balancing. Much like pumped-storage systems, batteries can be used to rapidly balance generation and demand. “Because battery size can be easily tuned to the application, they’re suitable for use as decentralised energy-storage devices in buildings,” says ETH professor Vanessa Wood.
 
-## Gravity batteries and compressed-air energy storage
-
 When combined with photovoltaic panels, batteries can take pressure off the grid by offering local storage of excess electricity for a matter of minutes or hours. If all the solar power generated at peak times in residential areas were to be fed to the limited number of pumped-storage hydropower plants in the mountains, however, this could lead to bottlenecks in the grid.
 
 In the rapidly evolving battery market for homes and electric vehicles, the latest developments include the first community-scale batteries designed to balance short-term power fluctuations on a neighbourhood level. “The next key step is to make batteries even more efficient so that they can complete more charge cycles before losing performance,” says Wood, who conducts research to understand the limitations of existing batteries and demonstrate novel battery concepts. “At the same time, we must find substitutes for problematic raw materials and develop methods to recycle batteries at low cost, without using too much energy.” Researchers all over the world are already working on solutions.
 
+## Seasonal thermal energy storage
+
 In an ideal energy system, we would use surplus solar power produced in summer to meet the increased demand for heating in winter. Storing large amounts of electricity over a period of several months is not yet financially viable, but there is one way of transferring summer sunshine to the winter months: thermal energy storage. “Cost-effective technology is already available, and it’s well-established in countries such as Denmark,” says Guidati. Yet thermal energy storage remains a relatively neglected topic in Switzerland.
 
-## Smart power networks
-
 Seasonal thermal energy storage (STES) technology captures heat in summer and releases it in winter. It requires large heat reservoirs such as basins, tanks or water-bearing layers underground. These store warm water that is heated in summer by means of heat pumps and surplus solar power. By shifting the production of heat to the summer months, STES systems reduce electricity demand in the winter and help to reduce the energy gap. Guidati believes thermal energy storage will play an important role in Switzerland in the future.
+
+## Storage in energy carriers
 
 There is only one way to store electricity indefinitely, at least for the foreseeable future. “If we ever reach a point in summer where we’ve exhausted all the short-term storage options and still have surplus electricity available,” says Guidati, “then – and only then – should we consider converting it into a storable energy carrier.” He’s referring, of course, to the great hydrogen debate.
 
 The idea is to use excess power to electrolyse water into hydrogen and oxygen. The hydrogen could then be stored in a suitable form and converted back into heat and electricity in the winter by means of a gas turbine or fuel cell. Alternatively, the hydrogen could be combined with captured CO 2 to produce synthetic methane. This not only has a higher energy density but can also be fed directly into the existing gas grid. Just one additional step is all it takes to obtain carbon-neutral liquid fuels for aviation or shipping.
-
-## Imported energy
 
 “As yet, none of these methods are established and many are not financially viable,” says Hug. Syngases could certainly serve as a long-term storage medium for solar power produced in summer, but most of the methods used to convert them back into heat and electricity are inefficient. “The most efficient way to use excess electricity is to shift it directly into some other channel like charging electric vehicles,” says Hug. Nevertheless, she considers synfuels viable for applications that are difficult to electrify.
 
@@ -58,15 +56,11 @@ When it comes to short-term energy storage, pumped-storage hydropower plants and
 
 Compressed-air energy storage systems are another alternative, though a slightly less efficient one. They work by pumping air into a reservoir or vessel to produce compressed air; this can then be used to drive a gas turbine to quickly compensate for load imbalances in the grid. Although a certain amount of heat is lost during compression, most of the heat produced can be recovered by storing and making it available again when unloading.
 
-## About
-
 A more efficient – but also more expensive – option is a flywheel: these are closer to batteries in terms of capacity, but they store energy in the form of rotational kinetic energy for just a few minutes at a time, once again to help stabilise power grids.
 
 All the researchers are keen to emphasise that physical storage systems are not the only option. There are also other approaches that act indirectly like storage and help make the system more flexible. For example, digitalised and automated power grids could monitor generation and consumption in real time to make the best use of available resources. “In the future, smart grid control will enable us to operate power networks closer to their maximum limits,” says grid expert Hug. If done successfully, this will make the system more efficient and reduce the need for operating reserves.
 
 Demand must also become more flexible so that we can make the most of the electricity available at any given point in time. Smart load management can help reduce the need to store electricity, says Guidati, citing the example of e-mobility: “Electric vehicles are mobile batteries that can help absorb peaks in photovoltaic generation in the daytime.” This requires charging stations to be deployed in locations where vehicles typically spend the day, such as workplaces, car parks and parking spaces close to the city centre.
-
-## Globe Powering the future
 
 According to the ESC’s calculations, Switzerland will also need to expand its electricity production in winter. As well as building up hydropower reserves, this will also mean investing in alpine photovoltaic plants, geothermal power, or gas-fired power plants operating on biogas or syngas. Yet Hug rejects the idea of self-sufficiency, because any attempt by Switzerland to meet all its own electricity needs would be both inefficient and hugely expensive.
 
@@ -77,6 +71,8 @@ Unlike Switzerland, Northern Europe has plenty of electricity in winter because 
 This is a sensible approach because everyone benefits when countries balance out their different generating capacities through electricity trading. However, the lack of an electricity agreement makes cross-border electricity trading with the EU difficult. “That’s why regulated access to the European electricity market would be such an important step for Switzerland,” says Hug.
 
 If it is to make a successful transition to renewables, Switzerland will need not only a broad mix of technologies, but also a blend of solutions ranging from decentralised energy production to international trading agreements.
+
+## About
 
 Gabriela Hug is a professor at the Power Systems Laboratory and Chair of the Managing Board of the Energy Science Center at ETH Zurich.
 

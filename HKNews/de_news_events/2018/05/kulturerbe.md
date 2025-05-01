@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2018/05/kulturerbe.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH-News: Spricht man von der ETH Zürich, liegt einem die Kultur nicht als Erstes auf der Zunge. Wieviel Kultur steckt in der Hochschule? Stefan Wiederkehr: Viel! Die ETH betreibt ein breites Spektrum von Archiven und Sammlungen: Ein riesiges Bildarchiv etwa, das Max-Frisch- und das Thomas-Mann-Archiv, Naturhistorische Sammlungen und einen Arzneipflanzengarten. Darüber hinaus schafft die ETH jeden Tag neues Kulturerbe: Schliesslich ist die Forschung von heute das Kulturerbe von morgen. Wir wollen am 3. Juni auch die Forschung von gestern zeigen, die zum Kulturerbe geworden ist.
@@ -19,6 +21,8 @@ Das klingt trotzdem nach einer eher trockenen Materie… Ganz und gar nicht. Vie
 Was würden Sie einem ETH-Neuling empfehlen? Die Bühne in der Haupthalle – hier bekommt man rasch einen Überblick über das Programm mit kleinen Vorschauen auf Veranstaltungen. Selber gespannt bin ich auf die Eröffnungsrede von Iso Camartin, dem Autor und hervorragenden Kenner und Beobachter des kulturellen Geschehens. Er kennt die ETH als ehemaliger Professor für Rätoromanische Literatur und Kultur sehr gut und war später beim Opernhaus und dem Schweizer Fernsehen tätig.
 
 Und was empfehlen Sie einem ETH-Kenner? Ich würde ihm das Transkribieren von Quellen und das Georeferenzieren von Bildern ans Herz legen. Mit dem 2018 eingeführten Tool «sMapshot» kann er Luftaufnahmen aus der Schweiz auf einem virtuellen 3D-Globus verorten. Dort kann er sein bestehendes Wissen anwenden und Neues erfahren. Mit einem anderen neuen Tool können Besucherinnen und Besucher gescannte historische Schriftquellen transkribieren – womit historische Zeugnisse fruchtbar werden für eine aktuelle Auseinandersetzung. Ich finde, das ist der Idealfall, gerade an einer wissenschaftlichen Institution wie der ETH: Kultur wirkt nur dann anregend und lebendig, wenn sie bearbeitet und diskutiert wird und so zu neuen Erkenntnissen führt.
+
+## Kulturerbe an der ETH
 
 Am Sonntag, 3. Juni, präsentieren Sammlungen, Archive und Bibliotheken – aber auch Forscher aus den Departementen das Kulturerbe der ETH Zürich. Im Rahmen des Schweizer Beitrags zum europäischen Kulturerbejahr « externe Seite #Kulturerbe2018 – schau hin! » führen sie das Publikum durch historische Schätze der ETH. Im ETH Hauptgebäude erwarten die Besucher Workshops, Führungen und Vorträge. Eröffnet wird der Tag mit einer Rede von Schriftsteller Iso Camartin.
 

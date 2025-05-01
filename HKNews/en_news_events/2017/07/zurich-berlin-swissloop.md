@@ -2,13 +2,15 @@
 
 **Source:** en_news_events/2017/07/zurich-berlin-swissloop.html
 
-## Reality check in Los Angeles
+**Date processed:** 2025-05-01
+
+## Main article
 
 After PayPal, SpaceX and Tesla, Elon Musk has spent the last few years working on a new project: with the aid of a student competition, he is seeking to promote innovative modes of transportation. Last September, 1,200 teams from across the world applied for the chance to send a transport capsule, known as a “pod”, as quickly as possible through a vacuum tube. How exactly they went about this was for the students themselves to decide. Among the 30 most promising concepts was that of Swissloop, an association of students from ETH Zurich and other Swiss universities.
 
 After working intensively on their pod for a number of months, the students – from the fields of mechanical engineering, electrical engineering, computer science, materials science, physics and business administration – presented it to the public for the first time last night. At 3.5 metres long, the elegant white capsule is reminiscent of a dolphin , but the technology on the inside is the really exciting part. In order to propel the pod as quickly as possible, the young researchers have opted for a combination of levitation and a cold gas thruster. The magnetic rails on the bottom of their pod produce eddy currents in the aluminium plate inside the tube as they are pushed across it. As a result, the pod begins to float. In order to accelerate the capsule, a cold gas thruster uses the pressure difference to shoot compressed air from the pod into the vacuum tube, as in a rocket. This should allow the capsule to reach a maximum speed of 400kph without generating emissions. In the future, this could allow large distances to be covered in a short period of time: for example, from Zurich to Berlin in only 35 minutes.
 
-## Born entrepreneurs?
+## Reality check in Los Angeles
 
 However, it won’t be established whether this technology actually works in reality until the last weekend of August, when Swissloop will test its pod for the first time at the grand finale in Los Angeles. If all the safety tests are successful, the only Swiss team in the race will go up against the other finalists. Winning isn’t the most important thing, says Luca Di Tizio, a student at ETH and CEO of Swissloop. For him and his team, simply having the chance to present their pod in the USA is a great honour. “We’ve all really enjoyed the work,” says Di Tizio.
 

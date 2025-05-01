@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2014/05/ten-new-professors-at-eth-zurich.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Dr Orçun Göksel (*1979), currently a post-doctoral student at ETH Zurich, as Assistant Professor of Computer-assisted Applications in Medicine. Orçun Göksel is a promising young researcher in the fields of radiological imaging, the application of statistical shape models for the patient-specific planning of surgical interventions, and the use of ultrasound for diagnostic and therapeutic purposes. By developing new procedures and working out new approaches to the quantitative in vivo characterisation of mechanical tissue properties, Orçun Göksel will contribute to extending ETH Zurich's leading global position in this strategically important area.
@@ -41,6 +43,8 @@ Professor Matthias Christandl (*1978), Assistant Professor of Quantum Informatio
 Professor Hansjürg Leibundgut (*1949), currently Full Professor of Building Systems, will reduce his working hours to 50 percent at the end of October 2014 and retire at the end of January 2015. Hansjürg Leibundgut has been a Full Professor since autumn 2005. He previously held various leading positions in the administration of the Canton of Zurich and in the private sector. He is internationally regarded as one of the foremost experts in energy and building technology related issues, and has made significant contributions to the development of emission-free, inexpensive and reliable buildings. Thanks to his wide-ranging network, he has also greatly strengthened the external relationships of the Department of Architecture.
 
 Professor Pierre Mérel (*1976), currently Full Professor of Agricultural Economics, is departing at the end of August 2014. Pierre Mérel was appointed Full Professor at ETH Zurich at the end of 2012. His research focuses on the connections between agriculture and the environment. He also conducts research on topics related to industry and to agricultural and environmental policy. Pierre Mérel is returning to the University of California, Davis, USA.
+
+## Worries over exclusion from Horizon 2020
 
 At its meeting of 21/22 May 2014, the ETH Board further supported the measures taken by the Confederation in the wake of the Mass Immigration Initiative and consolidates the ETH Domain’s national and international cooperation.
 

@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2017/11/game-technology-center-app.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 The researchers are calling their new applications “augmented creativity”. They aim to make drawing, painting, music and play more fun by using augmented reality, which means blending the real environment with animated and virtual elements.

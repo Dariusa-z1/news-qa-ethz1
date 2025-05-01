@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2022/04/environmental-dna-reveals-secret-reef-inhabitants.html
 
+**Date processed:** 2025-05-01
+
 ## One-sixth greater diversity detected
 
 Tropical coral reefs are colourful, beautiful – and rich in species. The diversity among fish is particularly high: researchers estimate that coral reefs are home to as many as 8,000 species of fish worldwide.
@@ -12,8 +14,6 @@ One reason is that many fish species lead very secretive lives, are very similar
 
 Now, a new method is making its way into ecology that circumvents such difficulties: environmental DNA (eDNA). The idea of this new approach is that organisms leave their genetic material or parts of it in the environment.
 
-## Visual observations are (still) necessary
-
 With this approach, the researchers have only to take water samples at one location, isolate the DNA (fragments) contained therein and sequence them, i.e. determine the order of DNA building blocks. Then they can compare the sequences with reference DNA sequences that come from reliably identified specimens – and can determine whether a species occurs at the location in question.
 
 This is the method used by an international team led by researchers from the University of Montpellier (France) and ETH Zurich to study the occurrence of reef fish.
@@ -22,7 +22,7 @@ In 2017 and 2019, the researchers collected 226 water samples at 26 sites in 5 t
 
 Using eDNA, the researchers found a 16 percent higher diversity of reef fishes than through conventional survey methods such as visual observations during dives. “Thanks to the eDNA method, we can detect many fish species and families much faster than with observations alone,” says Loïc Pellissier, Professor of Ecosystems and Landscape Evolution at ETH Zurich. He is one of the two lead authors of a study that has just been published in the scientific journal Proceedings of the Royal Society . The DNA analyses were completed after only two years, but the visual observations that informed the study came from countless observers and cover 13 years of observation activity.
 
-## Extraordinary diversity in the Coral Triangle
+## Visual observations are (still) necessary
 
 With the new approach, the researchers discovered more species swimming in the open water (pelagic), reef-bound species, and species that inhabit the numerous caves and crevices in reefs (cryptobenthic). Divers see or identify such fish with less frequency.
 
@@ -32,8 +32,6 @@ The discovery of these species is important because they are actively involved i
 
 However, not all species can be recorded equally easily using eDNA, such as wrasses ( Labridae ) or blennies ( Blenniidae ). Reference databases cover these species-rich families only partially, Pellissier says. Because of these gaps, a considerable part of the eDNA found in the water samples has not yet been assigned.
 
-## International cooperation
-
 To further develop the approach, the researchers are hard at work sequencing the DNA of more fish species and feeding the data into the reference databases. Nevertheless, dives will still be needed to record some species that are poorly detected with eDNA, but also to gather supplementary information such as fish sizes or biomass, which cannot (yet) be recovered from eDNA.
 
 The researchers also confirmed earlier findings that the composition of species varies widely among marine bioregions. Fish diversity is exceptionally high in the “Coral Triangle” between Borneo, Papua New Guinea and the Philippines – up to five times higher than in the Caribbean, for example. Herbivores (including coral-eating species) are particularly abundant there.
@@ -42,13 +40,13 @@ According to Pellissier, this has to do with the fact that throughout Earth’s 
 
 The Caribbean, on the other hand, was more subject to the regime of the ice ages, and its coral reefs and fish stocks shrank during the cold periods. In addition, the Isthmus of Panama was formed more than 2.7 million years ago, which, among other things, changed the ocean currents in the Caribbean. Both events led to higher extinctions.
 
-## Reference
-
 For this study, one sponsor of the research consortium was Monaco Explorations, an organisation of the Prince of Monaco. The organisation provided the scientists with a research vessel for the first part of the project, which enabled them to collect water samples in the Caribbean and off the Colombian coast. More samples were collected on separate trips, also funded by Monaco’s government.
 
 “For me as a Swiss researcher, it was enormously important to be part of an international collaboration,” Pellissier says. Without connections to his French, Colombian, Indonesian and Australian partners, he would not have been able to carry out this study. He adds: “We can’t do isolated research at this level in Switzerland.”
 
 Another expedition to collect water samples is planned for later this year. This time, the researchers want to sample the tropical waters of the Indian Ocean between South Africa and the Seychelles. The expedition, which will complement the sampling conducted in previous years, also had to be postponed because of the coronavirus.
+
+## Reference
 
 Mathon L, Marques V, Mouillot D, et al. Cross-ocean patterns and processes in fish biodiversity on coral reefs through the lens of eDNA metabarcoding. Proceedings of the Royal Society B: Biological Sciences, Volume 289, Issue 1973. Published: 20 April 2022. DOI: 10.1098/rspb.2022.0162
 

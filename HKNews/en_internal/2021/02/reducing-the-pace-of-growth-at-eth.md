@@ -2,35 +2,23 @@
 
 **Source:** en_internal/2021/02/reducing-the-pace-of-growth-at-eth.html
 
+**Date processed:** 2025-05-01
+
 ## Growth on all levels
 
 It is important to note up front that ETH Zurich’s financial health continues to be fundamentally sound, underpinned by a solid equity base. However, it remains true that the university has expanded tremendously in recent years, and our financial commitments have grown accordingly.
 
-## Growth needs to be financially sustainable
-
 All academic departments have proposed many ideas for new priorities and professorships, which in some cases has led to significant growth in recent years. The Executive Board has been closely working together with several departments to strengthen strategic focal points and has embraced some new and highly relevant academic fields (energy, healthcare, digitisation, artificial intelligence, quantum technology, etc.). This has also helped the university meet the challenges posed by its growing student body, which has risen from around 13,000 in 2007 to over 23,000 today (+77%). Furthermore, the Executive Board also used the ETH+ funding instrument to strengthen its focus on interdisciplinary topics, substantially reducing the university’s free reserves in the process – an explicit request from the federal government. Expenses for central units and technology platforms have also grown in parallel.
-
-## Taking action to slow expansion
 
 This dynamic pace of growth has brought about many long-term financial commitments in research and teaching, requiring a substantial investment in the university's infrastructure. Our future budgetary needs will continue to climb noticeably as a result of these developments. One complicating factor is that over the past four years, the federal government’s funding contribution has not risen by 2–2.5% annually as expected. The university has been able to somewhat compensate for this funding gap thanks to an increase in third-party funding, donations and profits from investments. ETH Zurich receives over 70% of its funding directly from the federal government, which is facing large deficits from the fallout of the ongoing coronavirus pandemic, so we must brace ourselves for what we expect to be tougher financial times over the next several years.
 
-## Supplemental budget and solidarity contributions for real estate
-
 ETH Zurich will need to substantially slow down its recent rapid growth rate to ensure that the university can continue to fulfil its core missions of teaching, research and knowledge transfer while keeping its finances in check. “This does not mean that we generally need to cut back or downsize,” explains ETH President Joël Mesot. “However, we need to take action now and re-prioritise our growth plans. This is the only way to ensure sufficient financial leeway for strategic developments. We have long ‘braking distances’ in this regard, since ETH has a lot of expenses related to highly long-term commitments like construction projects and professorships.”
-
-## Downsizing our wish lists
 
 The recent pace of growth has been a particularly great challenge for real estate management at the university. Last year was exceptional in terms of investment, with record amounts going towards several large ongoing construction projects. For the next several years, the university had also foreseen investments in construction and renovations that would have exceeded sustainable levels. The Executive Board wants to reduce annual spending in this area to an affordable level of between 180 and 200 million Swiss francs over the medium term. Given this scenario, the Executive Board has suspended the renovation and expansion of the MM building and the Polyterrasse site. “One of the reasons we decided to put the expansion on ice is so that we can prioritise important academic projects,” says Ulrich Weidmann, Vice President for Infrastructure.
 
-## A word with Robert Perich
-
 With four large-scale real estate projects currently close to completion, stopping the MM and Polyterrasse projects will not free up much in the way of funding for small and medium-sized projects for the 2021–2024 period. For this reason, the Executive Board has approved a one-time supplemental real estate budget of CHF 25 million plus CHF 8.5 million in additional funding. All departments have also agreed to an initial solidarity contribution totalling CHF 15 million for the current year. This constitutes a 2.27% shift of reserves in each department's annual basic budget.
 
-## Subscribe to Newsletter
-
 All departments have also been asked to extend their combined annual CHF 15 million contribution to the next three years in order to finance university-wide infrastructure projects for teaching and research. “Our academic growth and the resulting need for space and facilities have made it a necessity to continue carrying out key infrastructure projects, but this wouldn't be possible with the budget provided by the Executive Board alone. We are counting on the support of everyone in our departments and hope that over the next few months we can clarify the details for making these additional contributions,” says Robert Perich, Vice President for Finance and Controlling. “That would be a strong and positive sign of solidarity and would show that we all have each other's back in challenging times.”
-
-## Staffnet
 
 In addition to the action taken regarding real estate projects, the Executive Board requested last autumn that all academic departments should review and reprioritise any additional professorships that they had requested for the future. This was done with the aim of dampening long-term growth and ensuring that professorships and the infrastructure they require can be funded over the long term, even during times of economic difficulty. The same applies to central units at ETH: Executive Board offices, staff units, administrative departments and technology platforms were all asked last summer to revise their planning and reduce their needs by a combined total of around 20 million francs per year.
 

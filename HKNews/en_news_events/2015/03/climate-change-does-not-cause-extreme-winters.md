@@ -2,31 +2,29 @@
 
 **Source:** en_news_events/2015/03/climate-change-does-not-cause-extreme-winters.html
 
+**Date processed:** 2025-05-01
+
 ## Temperature range will decrease
 
 Repeated cold snaps led to temperatures far below freezing across the eastern United States in the past two winters. Parts of the Niagara Falls froze, and ice floes formed on Lake Michigan. Such low temperatures had become rare in recent years. Pictures of icy, snow-covered cities made their way around the world, raising the question of whether climate change could be responsible for these extreme events.
 
 It has been argued that the amplified warming of the Arctic relative to lower latitudes in recent decades has weakened the polar jet stream, a strong wind current several kilometres high in the atmosphere driven by temperature differences between the warm tropics and cold polar regions. One hypothesis is that a weaker jet stream may become more wavy, leading to greater fluctuations in temperature in mid-latitudes. Through a wavier jet stream, it has been suggested, amplified Arctic warming may have contributed to the cold snaps that hit the eastern United States.
 
-## Extremes will become rarer
-
 Scientists at ETH Zurich and at the California Institute of Technology , led by Tapio Schneider, professor of climate dynamics at ETH Zurich, have come to a different conclusion. They used climate simulations and theoretical arguments to show that in most places, the range of temperature fluctuations will decrease as the climate warms. So not only will cold snaps become rarer simply because the climate is warming. Additionally, their frequency will be reduced because fluctuations about the warming mean temperature also become smaller, the scientists wrote in the latest issue of the Journal of Climate.
 
 The study’s point of departure was that higher latitudes are indeed warming faster than lower ones, which means that the temperature difference between the equator and the poles is decreasing. Imagine for a moment that this temperature difference no longer exists. This would mean that air masses would have the same temperature, regardless of whether they flow from the south or north. In theory there would no longer be any temperature variability. Such an extreme scenario will not occur, but it illustrates the scientists’ theoretical approach.
 
-## North-south shift makes the difference
-
 Using a highly simplified climate model, they examined various climate scenarios to verify their theory. It showed that the temperature variability in mid-latitudes indeed decreases as the temperature difference between the poles and the equator diminishes. Climate model simulations by the Intergovernmental Panel on Climate Change (IPCC) showed similar results: as the climate warms, temperature differences in mid-latitudes decrease, and so does temperature variability, especially in winter.
 
 Temperature extremes will therefore become rarer as this variability is reduced. But this does not mean there will be no temperature extremes in the future. “Despite lower temperature variance, there will be more extreme warm periods in the future because the Earth is warming,” says Schneider. The researchers limited their work to temperature trends. Other extreme events, such as storms with heavy rain or snowfall, can still become more common as the climate warms, as other studies have shown.
-
-## Literature reference
 
 And the jet stream? Schneider shrugs off the idea: “The waviness of the jet stream that makes our day-to-day weather does not change much.” Changes in the north-south difference in temperatures play a greater role in modifying temperature variability.
 
 Schneider wants to explore the implications these results have in further studies. In particular, he wants to pursue the question of whether heatwaves in Europe may become more common because the frequency of blocking highs may increase. And he wants to find why these high pressure systems become stationary and how they change with the climate.
 
 Funding support for the research was provided by the U.S. National Science Foundation.
+
+## Literature reference
 
 Schneider T, Bischoff T, Plotka H. Physics of Changes in Synoptic Midlatitude Temperature Variability. Journal of Climate, 15 March 2015, doi: 10.1175/JCLI-D-14-00632.1
 

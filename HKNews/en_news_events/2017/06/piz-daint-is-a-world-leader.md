@@ -2,15 +2,13 @@
 
 **Source:** en_news_events/2017/06/piz-daint-is-a-world-leader.html
 
+**Date processed:** 2025-05-01
+
 ## Strategic approach
 
 The Piz Daint supercomputer at the Swiss National Supercomputing Centre (CSCS) has been the most powerful supercomputer in Europe since November 2013. An extensive hardware upgrade at the end of 2016 has now more than tripled its performance. Piz Daint is now the fastest computer outside Asia, with a theoretical peak performance of 25.3 petaflops, as confirmed today at the international ISC High Performance event in Frankfurt. Thanks to its innovative architecture, Piz Daint is also one of the most energy-efficient mainframe computer in the world.
 
-## Support for research
-
 The upgraded supercomputer is an energy-efficient hybrid system consisting of conventional processors (CPUs) and graphics processors (GPUs). The sophisticated system, based on a Cray XC40/XC50, is the result of a long-standing collaboration between CSCS, various hardware manufacturers, computer scientists, mathematicians and other researchers from different disciplines. This successful collaboration was initiated by the national Strategic Plan for High Performance Computing and Networking (HPCN Strategy) that was launched by the ETH Board on behalf of the federal government in 2009.
-
-## Important for international cooperation
 
 Supercomputers are now an integral part of research: in addition to theory and experiments, simulations, data analyses and visualisations now also make key contributions to most research areas. Powerful systems such as Piz Daint are crucial for high-resolution computer-intensive simulations, such as those used in climate or material research, or in the life sciences.
 

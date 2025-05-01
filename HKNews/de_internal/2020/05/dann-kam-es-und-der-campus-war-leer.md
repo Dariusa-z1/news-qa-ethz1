@@ -2,7 +2,9 @@
 
 **Source:** de_internal/2020/05/dann-kam-es-und-der-campus-war-leer.html
 
-## Fotos zeigen leeren Campus und ETH-Angehörige
+**Date processed:** 2025-05-01
+
+## Main article
 
 Wie schnell sich die Welt verändern kann! Noch ist es nicht lange her, da war der Campus Hönggerberg mit über 12’000 Studierenden und Mitarbeitenden so lebendig wie ein Stadtquartier – und auf dem Campus Zentrum gab es Orte wie die Polyterrasse, wo sich Hochschulangehörige gleichermassen sammelten wie die Touristen, die einen Blick auf die Altstadt und die Berge warfen.
 
@@ -10,9 +12,9 @@ Dann kam «es». Und mit dem Coronavirus kam die «ausserordentliche Lage»: Die
 
 Rundgang mit Aussicht: Angela Käppeli vom ETH-Sicherheitsdienst kontrolliert die Gebäude auf dem Hönggerberg. (Bild: ETH Zürich / Alessandro Della Bella)
 
-Was zuvor bestenfalls in Science-Fiction Filmen oder dystopischen Graphc Novels zu sehen war, wurde auf dem Campus auf einmal Wirklichkeit: Entvölkerte Räume in der Stadt, Strassen und Garagen ohne Autos, Haltestellen ohne Menschen, Restaurants ohne Gäste, Bistro-Kühlschränke ohne Getränke, Fitnessgeräte ohne Sportler, Hörsäle ohne Studierende, Labors ohne Forschende und Büros ohne Angestellte. Was vor der Krise unvorstellbar war, bleibt bis heute kaum fassbar.
+## Fotos zeigen leeren Campus und ETH-Angehörige
 
-## Sicht frei für ungewohnte Blickwinkel
+Was zuvor bestenfalls in Science-Fiction Filmen oder dystopischen Graphc Novels zu sehen war, wurde auf dem Campus auf einmal Wirklichkeit: Entvölkerte Räume in der Stadt, Strassen und Garagen ohne Autos, Haltestellen ohne Menschen, Restaurants ohne Gäste, Bistro-Kühlschränke ohne Getränke, Fitnessgeräte ohne Sportler, Hörsäle ohne Studierende, Labors ohne Forschende und Büros ohne Angestellte. Was vor der Krise unvorstellbar war, bleibt bis heute kaum fassbar.
 
 Für jene ETH-Angehörige, die zuhause – und damit fern vom Campus – arbeiteten, haben deshalb zwei selbständige Fotografen, Alessandro Della Bella und Nicola Pitaro, im April im Auftrag der Hochschulkommunikation den Campus Hönggerberg und den Campus Zentrum besucht. Ihre Fotos halten die «ETH im Notbetrieb» für all jene von uns fest, die den Ausnahmezustand nicht selber vor Ort erlebten.
 
@@ -20,9 +22,9 @@ Eine Auswahl dieser Fotos ist nun auf einer eigenen Webseite veröffentlicht –
 
 Schlummernde Infrastruktur: Laborleiter Philipp Simka im Hochspannungslabor. (Bild: ETH Zürich / Nicola Pitaro)
 
-Die Fotos der beiden entleerten Campus vermitteln einen Eindruck, wie es sich anfühlt, wenn selbst an einem wolkenlosen Sonnentag kein Mensch die Polyterrasse besucht, niemand durch die Gänge des ETH-Hauptgebäudes eilt und die Lesesäle der Bibliotheken ebenso verwaist sind wie die Hörsäle und die Studierendenarbeitsplätze in den Foyers.
+## Sicht frei für ungewohnte Blickwinkel
 
-## Staffnet
+Die Fotos der beiden entleerten Campus vermitteln einen Eindruck, wie es sich anfühlt, wenn selbst an einem wolkenlosen Sonnentag kein Mensch die Polyterrasse besucht, niemand durch die Gänge des ETH-Hauptgebäudes eilt und die Lesesäle der Bibliotheken ebenso verwaist sind wie die Hörsäle und die Studierendenarbeitsplätze in den Foyers.
 
 Das hat seine eigene Wirkung: Auf einmal bemerkt man, welche Schatten das einfallende Sonnenlicht auf die Mauern wirft, wo sonst die Aufmerksamkeit vor allem den Menschen und ihren Gesprächen galt.
 
@@ -31,8 +33,6 @@ Die menschenleeren Plätze geben die Sicht frei für ungewohnte Blickwinkel und 
 Die Bilder zeugen jedoch genauso von der ganzen Tragweite dieses ungewollten Zustands, namentlich dort, wo sich sonst die Menschen sammeln: In den Restaurants und Cafeterias zum Beispiel sind einzelne Zugänge abgesperrt, Stühle stapeln sich auf Tischen, Kühlschränke sind fast völlig ausgeräumt und Kaffee-Tassen in Kunststoffen eingepackt. Kein Betrieb.
 
 Vergleichbar die Stimmung in den Sport Centern: Ungenutzt stehen die Fitnessgeräte an ihrem Platz und Sperrbänder grenzen die Sportanlagen und gewisse Geräte ab.
-
-## Newsletter abonnieren
 
 Student Martin Rösch auf dem HIL-Gebäude – die 3D-Drucker dienen der Produktion von Gesichtsmasken. (Bild: ETH Zürich / Alessandro Della Bella)
 

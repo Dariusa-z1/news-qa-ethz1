@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2016/03/research-output-of-eth-zurich.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Of these, 61 % are journal articles and 24 % conference reports.

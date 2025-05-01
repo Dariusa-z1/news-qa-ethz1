@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2022/11/eth-zuerich-tritt-allianz-europaeischer-universitaeten-bei.html
 
+**Date processed:** 2025-05-01
+
 ## Beitrag zum europäischem Bildungsraum
 
 Die ETH Zürich ist Teil der europäischen Universitäts-Allianz Enhance. ETH-Rektor Günther Dissertori hat heute in Aachen bei einem Treffen der Rektor:innen ein entsprechendes Memorandum of Understanding unterschrieben.
@@ -9,8 +11,6 @@ Die ETH Zürich ist Teil der europäischen Universitäts-Allianz Enhance. ETH-Re
 Die Enhance-Allianz will die Mobilität von Lernenden und Lehrenden fördern. Dazu sollen administrative Hürden abgebaut und gemeinsam neue Formen der Mobilität und der Zusammenarbeit ausprobiert werden.
 
 Zur Allianz gehörten bislang die Universitäten TU Berlin, Chalmers University of Technology, NTNU Trondheim, Politecnico di Milano, RWTH Aachen, Warsaw University of Technology, und Universitat Politècnica de València. Gemeinsam mit der ETH sind neu auch die Universitäten TU Delft und Gdańsk University of Technology dazugestossen.
-
-## Gemeinsames Kursangebot
 
 Gegründet wurde die Allianz im Rahmen der Initiative «Europäische Hochschulen» der Europäischen Kommission. Diese Initiative wurde lanciert, um die Europäischen Universitäten stärker zu vernetzen und so ihre globale Konkurrenzfähigkeit langfristig zu erhalten. Günther Dissertori sagt: «Die Zukunft der universitären Bildung können wir in Europa nur gemeinsam gestalten. Dank Enhance kann die ETH aktiv daran mitarbeiten und einen Beitrag leisten.»
 

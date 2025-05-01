@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2014/11/university-assembly-pays-tribute-to-ralph-eichler.html
 
+**Date processed:** 2025-05-01
+
 ## A president committed to making things possible
 
 Since taking up the post of President of ETH Zurich in 2007, Ralph Eichler has regularly kept the University Assembly ( UA ) up to date with the current activities of the Executive Board. With this in mind, the UA took advantage of its plenary meeting last Thursday not only to discuss issues regarding university policy, but also to pay tribute to the achievements of the departing ETH President.
@@ -10,17 +12,15 @@ Peter Widmayer, President of the University Assembly, acknowledged the tremendou
 
 Peter Widmayer then went on to highlight aspects of Ralph Eichler’s presidency that he particularly admired:
 
-## Gender Action Plan and amendment of the FIT Act
-
 Widmayer finished his tribute by concluding that “Ralph Eichler took over an ‘ailing patient’ in ETH and nursed it back to excellent health.”
 
 Julia Wysling, who served as president of the students’ association VSETH from 2013 to 2014, picked up from where Peter Widmayer left off, describing how Ralph Eichler dealt with the concerns of the students clearly, openly and sincerely: “He was a friend to the students, someone they could talk to as equals.” She mentioned the open culture of communication and facilitation as one of the key aspects of Ralph Eichler’s presidency.
 
 Speaking as a representative of the Academic Association of Scientific Staff at ETH Zurich ( AVETH ), Remo Senn praised the President’s honest and direct style of communication: “With his matter-of-fact, direct and responsible approach to managing ETH Zurich, Ralph Eichler exemplified the values of a code of conduct in a very pragmatic way.” He then presented the outgoing president with a gift on behalf of the University Assembly.
 
-## Don't miss the latest news
-
 Ralph Eichler responded by thanking the UA for its cooperation: “The fact that, here at ETH, we can discuss things rationally with one another is what makes our university stand out. Responsibility has proved demanding at times, but I knew I could always rely on the support of a strong Executive Board team.”
+
+## Gender Action Plan and amendment of the FIT Act
 
 The topics discussed by the UA on Thursday also included the Gender Action Plan and a planned amendment of the FIT Act with a view to making further improvements.
 

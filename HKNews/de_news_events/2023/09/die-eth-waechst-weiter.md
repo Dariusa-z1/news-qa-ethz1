@@ -2,15 +2,13 @@
 
 **Source:** de_news_events/2023/09/die-eth-waechst-weiter.html
 
+**Date processed:** 2025-05-01
+
 ## Die beliebtesten Studiengänge
 
 Insgesamt starten rund 25'000 Studierende und Doktorierende am kommenden Montag in das Herbstsemester an der ETH Zürich. Rund 3250 Bachelorstudierende nehmen gemäss derzeitigem Anmeldungsstand ihr Studium auf. Damit steigt die Anzahl Neueintritte auf Bachelorstufe im Vergleich zum Vorjahr wieder an (2022: rund 3100). «Wir freuen uns, die kommende Generation von Wissenschaftler:innen, Ingenieur:innen, Architekt:innen und sonstigen Fachkräften an unserer Hochschule begrüssen zu dürfen und wünschen allen einen erfolgreichen Start», sagt ETH-Rektor Günther Dissertori.
 
-## International vernetzte Hochschule
-
 Unter den Studienanfängerinnen und -anfängern besonders beliebt sind die Studiengänge Maschineningenieurwissenschaften, Informatik und Architektur – wie bereits in den vergangenen Jahren. Und auch die Bachelorstudiengänge Physik, Mathematik sowie Gesundheitswissenschaften und Technologie stossen auf grosses Interesse.
-
-## Kontakt
 
 Unter den Masterstudiengängen belegten die Studiengänge Maschineningenieurwissenschaften, Architektur und Umweltnaturwissenschaften vordere Plätze auf der Beliebtheitsskala der Studierenden. Die Immatrikulation für das Herbstsemester 2023 ist an der ETH noch nicht abgeschlossen. Die endgültigen Zahlen stehen jeweils im November fest.
 

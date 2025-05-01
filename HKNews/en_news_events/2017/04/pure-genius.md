@@ -2,13 +2,15 @@
 
 **Source:** en_news_events/2017/04/pure-genius.html
 
-## We would like to help, but sorry
+**Date processed:** 2025-05-01
+
+## Main article
 
 “This mechanism is so clever it should be patented,” Cornelius Senn thought to himself on numerous occasions. The measurement and electrical engineer in the Department of Civil, Environmental and Geomatic Engineering (D-BAUG) is a frequent inventor and builder of devices that make life easier for researchers in the department. And this time it’s probably not just idle chatter.
 
 He has filed a patent application for a mechanism that enables the stable connection of panels – made of metal or Plexiglass, for example – without screws, but instead held together by angled blades, a type of gearing. It is difficult to describe, but is much easier to understand with a visual aid (see video).
 
-## Two inventors meet and inspire each other
+## We would like to help, but sorry
 
 It all started with a “No”. Senn declined when he was approached by a doctoral student asking for help with the development of a reflector for radar measurements. These types of reflectors are placed in snow and ice, for example, to generate elevation models. In locations with known coordinates, they serve as reference points. They are also required to adjust the focus of radar. The radar images can then be used to determine the flow velocity of glaciers and landslides in the millimetre range.
 
@@ -20,9 +22,9 @@ However, like Senn, Leinss wanted to know for sure. He had previously carried ou
 
 Leinss carried out tests with screws and applied aluminium foil to sheet metal. The results: single screws do not affect the measurements, nor do the reflectors have to be particularly thick, but thinner reflectors require more and shorter screws. “Once you’ve put together this kind of reflector, you won’t take it apart again and you certainly won’t assemble it in the sub-zero temperatures you find in places like Greenland,” says Senn from experience. He eventually abandoned the idea of using a “piano hinge” – a metal strip with numerous small screws: “If dirt gets in, it ruins it.” In addition, it is made of a different material than the metal sheeting, which could lead to electrolytic corrosion.
 
-## Big potential
-
 Because of these lashs one can put the reflector parts easily and stable together. (Image: ETH Zurich / P. Rüegg)
+
+## Big potential
 
 So Senn thought about a better solution and developed his interlocking system, which he illustrates with his hands. “When I put the idea down on paper, I suddenly began to doubt whether it would truly work,” he recalls. So he headed to the workshop, where he built a model and found that it did indeed work. And now he hears the inventor’s maxim for patents more often: Leinss was delighted, as was his boss, Hajnsek, who then began the search for funding for a prototype. The patent issue, however, was made tangible by the company that built the prototype, when the company owner inquired about it. “We’re working on it,” replied Senn, who then contacted ETH transfer, the technology transfer centre at ETH, where the idea was also met with excitement by Stefan Lux.
 

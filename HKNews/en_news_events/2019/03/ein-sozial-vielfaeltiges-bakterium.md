@@ -2,25 +2,21 @@
 
 **Source:** en_news_events/2019/03/ein-sozial-vielfaeltiges-bakterium.html
 
+**Date processed:** 2025-05-01
+
 ## Closely related, yet very different
 
 Many living systems share a fundamental capacity for cooperation. Plants and animals are made up of billions of cells that communicate with one another, carry out specific tasks and share their resources. Many single-celled microorganisms cooperate in similarly versatile ways: they form communities and exchange useful genes and resources among one other.
 
 The microbe Myxococcus xanthus is particularly cooperative. Found in soils all over the world, it has been used by scientists as a model organism to study microbial development and cooperation. The cells of this predatory bacterium form cooperative groups that swarm together and hunt other microorganisms within the soil. In order to move as a group, they secrete lubricating substances and cast out appendages that attach to the surrounding surface and other cells, moving them forward as they retract these appendages. When food becomes scarce, thousands of these bacteria aggregate into a fruiting body and form resting spores, allowing them to withstand hunger and drought.
 
-## Selection on social genes
-
 Researchers previously had theoretical reasons to expect that cooperative groups of microbes in nature might generally be socially homogeneous, as this would prevent conflict between cells from undermining cooperation. Genetically distinct individuals from different groups have been shown to often avoid, obstruct, and even combat each other. “Our knowledge about the genetic composition within cooperative groups of these social bacteria in nature used to be very limited,” says Sébastien Wielgoss, a lecturer in the research group of Professor Gregory Velicer, Institute for Integrative Biology, ETH Zurich.
 
 With their colleagues, Wielgoss and Velicer have more closely examined the genetic relationships between members of the same M. xanthus fruiting body group in the soil. They used one of the largest collections of M. xanthus strains worldwide, kept by Velicer in his laboratory freezers.
 
-## Understanding cell cooperation
-
 In a study recently published in Science , the researchers used genetic analyses to show that while cooperative groups of the soil bacterium M. xanthus do consist of closely related cells, the number of genetic types and varieties of social behaviour found within individual fruiting-body groups are unexpectedly high. The researchers inferred that these collections of diversified cell lines can remain intact for hundreds of generations.
 
 For their study, the researchers investigated groups of cells that descended recently from a common ancestor. Mutation formed various socially different, but closely related, cell lines within these groups, with lines differing in how fast they swarm or how many spores they produce within a fruiting body.
-
-## Reference
 
 Some forms of diversity pose a threat to group productivity. For example, individual bacteria can exhibit “cheating” behaviour: they contribute little to the group while exploiting its other members and lowering group function. “However, behavioural studies with these same groups have not found such socially disruptive cheating”, Wielgoss said. In contrast, while the majority of groups are highly genetically and socially diverse, the observed diversity does not appear to undermine cooperative functions at the group level.
 
@@ -29,6 +25,8 @@ The researchers attribute this high diversity of behavioural patterns to evoluti
 Wielgoss explained that natural selection may favour some combinations of diversified cell lines over other combinations or even over homogeneous groups: “Cell groups with a large behavioural repertoire may respond to environmental changes more effectively. They may often be more evolutionarily successful than homogeneous groups of cells that all behave in the same way. ‘Cultural diversity’ appears to be rather frequent among bacterial social groups.”
 
 Microorganisms are omnipresent. They fulfil important functions in our everyday lives: as helpers in our intestinal flora, as pathogens or as agents in food production. Many combine into cooperative groups of cells in nature, too. The researchers believe that these new insights into the genetic and behavioural properties of cooperative soil bacteria may help us to understand cooperation within other types of bacteria as well, including the important pathogen Pseudomonas aeruginosa that infects immuno-compromised patients and causes serious long-term infections.
+
+## Reference
 
 Wielgoss S, Wolfensberger R, Sun L, Fiegna F, Velicer G J. Social genes are selection hotspots in kin groups of a soil microbe. Science, 22. März 2019. doi: 10.1126/science.aar4416
 

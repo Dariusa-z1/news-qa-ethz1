@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2019/11/randall-platt-receives-the-eth-latsis-prize.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 You could call him a toolmaker of modern biology. In what are still the early stages of his extremely successful career, Randall Platt, Professor of Biological Engineering at the Department of Biosystems at ETH Zurich in Basel, has already developed many methods and technologies that are used by life science researchers in laboratories around the world.
@@ -11,6 +13,8 @@ He is particularly renowned for the Cas9 mice, an animal model he developed base
 Platt joined ETH in 2016 at the age of 29; he is one of its youngest professors. The university has now decided to recognise his visionary ideas and exceptional achievements by awarding him with this year’s ETH Zurich Latsis Prize.
 
 Read more about Randall Platt in ETH News , 01.06.2017.
+
+## The ETH Zurich Latsis Prize and ETH Day 2019
 
 Established in 1975 after an endowment from the Greek shipowner Giannis Latsis, the Latsis Foundation funds several Swiss science awards, including the annual ETH Zurich Latsis Prize, with which ETH honours outstanding young scientists from all fields. The Rector awards the prize, which is worth CHF 25,000, each year on ETH Day.
 

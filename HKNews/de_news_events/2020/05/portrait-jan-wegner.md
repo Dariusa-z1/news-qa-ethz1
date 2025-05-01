@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2020/05/portrait-jan-wegner.html
 
+**Date processed:** 2025-05-01
+
 ## Mit Software gegen Hungersnöte
 
 Wie verändert sich weltweit die Artenvielfalt? Wie kann die Produktion von Schokolade nachhaltiger werden? Und wie steht es um die Äcker der Schweizer Bauern? Diesen und ähnlichen Fragen geht Jan Dirk Wegner auf den Grund. Sein Ziel: Die Lebensqualität der Menschen auf der ganzen Welt verbessern und gleichzeitig die Umwelt schützen. Das klingt nach einem hoch gegriffenen Ziel, doch Wegner verfolgt es nicht allein. Um es zu erreichen, hat er vor drei Jahren das EcoVision Lab an der ETH Zürich gegründet.
@@ -17,8 +19,6 @@ Neben der Vergleichbarkeit der Daten hat die Bereitstellung der Software noch ei
 Eigentlich wollte Jan Dirk Wegner Physik und Philosophie studieren. Da diese Kombination jedoch nicht möglich war, musste er über die Bücher. Durch seinen Vater, einen Geomatiker mit eigenem Vermessungsbüro, kam er auf Geodäsie und Geoinformatik. Nach dem Studium an der Leibniz Universität Hannover war für den Deutschen klar, dass er in die Forschung gehen möchte. «Während des Studiums habe ich mir mehr Freiheit für eigene Ideen gewünscht, es war oft ein Abarbeiten von Aufgaben und Prüfungen und dieses Abarbeiten gefiel mir nicht. Viel lieber wollte ich innovativ sein und Dinge entwickeln, die den Menschen etwas nützen», sagt Wegner.
 
 Inspiriert dazu wurde er unterem anderem vom Dalai Lama. Dieser besuchte Wegners Heimatstadt Oldenburg im Jahr 1998 und der damals 16-jährige Schüler hatte die Möglichkeit, ihn kennenzulernen und seinen Vortrag anzuhören. «Er hat mich mit seiner ausgleichenden aber gleichzeitig enthusiastischen Art und seinem sozialen Engagement sehr beeindruckt», erinnert sich Wegner.
-
-## Keine illegale Schokolade
 
 Nach seiner Doktorarbeit und einer Rucksackreise durch Südamerika entschied er sich, an die ETH zu kommen. Hier erhielt er ein Stipendium für Postdoktorierende, mit welchem die Hochschule vielversprechende Nachwuchsforschende fördert. Seither treibt er in der Gruppe Photogrammetrie und Fernerkundung von Konrad Schindler jene Themen voran, die ihm am Herzen liegen.
 

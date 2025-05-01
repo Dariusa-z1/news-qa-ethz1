@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2018/02/wenn-aus-fehlern-faehrten-werden.html
 
+**Date processed:** 2025-05-01
+
 ## Auswählen: Keine Methode sagt alles
 
 Was passiert im Hirn, wenn Menschen lügen? Es ist Freitagnachmittag im «Fünffinger Dock» auf dem Campus Hönggerberg. 18 Studierende der Pharmazeutischen Wissenschaften diskutieren über die Aussagekraft und die Grenzen von wissenschaftlichen Begriffen und Methoden. Drei von ihnen, Sara Dylgieri, Severin Lustenberger und Frederik Peißert, stellen ein Fallbeispiel vor. Darin haben Forschende untersucht, welche Hirnregionen beim Lügen aktiviert werden. Sie stellten fest, dass stirnseitige und seitliche Hirnregionen aktiv sind, wenn jemand lügt, und dass andere Hirnregionen aktiv sind, wenn man sich eine Lüge ausdenkt als wenn man sie äussert.
@@ -12,8 +14,6 @@ Intensiv diskutieren die Studierenden die Annahmen, die der funktionellen Magnet
 
 Aus Bildern die richtigen Schlüsse zu ziehen, setzt methodisches Wissen voraus, was genau gemessen wird und wie ein Bild entsteht. Bildgebung umfasst nämlich mehrere, nicht immer völlig durchsichtige und eindeutige «Übersetzungsschritte»: biologische Eigenschaften werden in physikalische Messgrössen übertragen, mathematisch in räumliche Koordinaten umgerechnet und zu einem digitalen Bild zusammengesetzt.
 
-## Ergebnisse zur Diskussion stellen
-
 Das Know-how, wie man die Annahmen, Begründungen und Folgerungen eines wissenschaftlichen Ansatzes einschätzt, haben sich die Pharmazeutik-Studierenden im Kurs «Wissenschaftliche Begriffe und Methoden» angeeignet. Im Verlauf einer Woche erfahren sie, wie sich die Wahl einer bestimmten Theorie und Methode auf eine wissenschaftliche Arbeit auswirkt und worauf sie achten müssen, wenn sie die grundlegenden Annahmen und Begriffe ihrer eigenen Projektarbeit überprüfen.
 
 «Wer eine offene Forschungsfrage untersucht, sollte begründen können, welche Theorien, Herangehensweisen und Experimente sie oder er verwendet. Um die geeignetsten auszuwählen, muss man ihre Stärken und Grenzen kennen», sagt Vivianne Otto, Privatdozentin am ETH-Institut für Pharmazeutische Wissenschaften (IPW). Entworfen hat sie den Kurs zusammen mit Elvan Kut, ebenfalls Dozentin am IPW.
@@ -21,8 +21,6 @@ Das Know-how, wie man die Annahmen, Begründungen und Folgerungen eines wissensc
 Der Kurs ist Teil des komplett überarbeiteten und seit Herbst 2017 erstmals angebotenen Masterstudiengangs für Pharmazeutische Wissenschaften. Dieser befähigt zum wissenschaftlichen Arbeiten in der Grundlagenforschung und in der Industrie (im Unterschied zum «Master Pharmazie», der auf die Arbeit in Apotheken vorbereitet).
 
 Ausser den chemischen, physikalischen und biologischen Grundlagen, die es braucht, um neue Medikamente zu erforschen und zu entwickeln, vermittelt das Studium auch reflexive und praktische Fähigkeiten wie Wissenschaftsphilosophie, Ethik, wissenschaftliches Schreiben, Biostatistik und Projektmanagement.
-
-## Experimente: Theorien testen, Neuland erkunden
 
 Zur Wissenschaft gehört auch, dass die Forschenden die Gültigkeit und Schlüssigkeit ihrer Erkenntnisse kritisch hinterfragen, und dass sie ihre Ergebnisse zur Diskussion stellen. Entsprechend ist der Kurs Teil der «Critical Thinking»-Initiative der ETH Zürich.
 

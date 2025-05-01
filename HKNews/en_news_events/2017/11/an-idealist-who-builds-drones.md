@@ -2,31 +2,25 @@
 
 **Source:** en_news_events/2017/11/an-idealist-who-builds-drones.html
 
+**Date processed:** 2025-05-01
+
 ## Making a difference
 
 Basil Weibel is aiming high – and yet has both of his feet firmly on the ground. In conversation, he listens attentively, thinks before he speaks and then expresses himself carefully. “Yes, it’s a great feeling to live in a society where young people have a genuine opportunity to begin a new venture,” he says. Of course, all this responsibility makes him feel a bit queasy at times, he admits with a mischievous look in his eyes: “But you have to be a bit brazen to be a company founder.”
 
 At 29-years-old, Weibel is in charge of steering the fortunes of ETH spin-off Wingtra, where he is building a sophisticated aerial vehicle. However, he has barely any interest in aircraft or flight-simulator games. What interests him is the application – what technology can do for humans. “At secondary school, I was a bit of an idealist who wanted to change the world – and I haven’t changed. That’s still what motivates me today,” he says.
 
-## Recognising the potential of technology
-
 Weibel grew up in St. Gallen. Even as a child, he had a healthy lack of respect for the status quo. At school, he questioned tried-and-tested approaches; he wanted to do things differently. When it came to choosing a degree course, he was driven by one idea in particular: he wanted to understand the world and solve its problems. Physics was therefore one of the options he considered, as well as economics and sociology. “I probably wasn’t good enough at maths for the first option,” he says, smiling. As a result, he enrolled on the international relations and economics courses at the University of St. Gallen.
 
 There, Weibel familiarised himself with cost functions, growth models and innovation factors, and after three years completed both degree programmes at the same time. Although he found what he had learned very interesting from an academic perspective, it was not sufficiently relevant to practical applications or to his choice of career. His thirst for knowledge not yet satisfied and he was tempted by a change of direction.
-
-## A key moment in the focus project
 
 For a long time, he had wrestled with the question of how the world achieves prosperity. Of course, this newly qualified economist was aware that technology and innovation play a key part – and he had ideas about how to use technology to make a difference. What if, for example, energy could be produced cheaply and cleanly in order to reduce the world’s cost functions in one fell swoop? Fascinated by thoughts of this kind, he decided to tackle another degree – this time in mechanical engineering at ETH Zurich.
 
 However, the course was harder than anything Weibel had experienced so far. In the early days in particular, he had to work hard to stay afloat, but he started to enjoy it more and more. He saw that he was learning powerful tools that he would one day be able to put into practice.
 
-## From student to young entrepreneur
-
 Near the end of his degree, Weibel was introduced to the field of robotics and drones. That is when he came up with the idea of using a versatile aerial robot to reduce transport costs in the parcel delivery market. In a focus project, where students apply the knowledge they have learned to practical situations, he and his team developed a transport drone that is able to take off and land flexibly like a multicopter and fly efficiently like an aeroplane.
 
 The result was so impressive that it was accepted as a funded project by ETH Zurich’s Autonomous Systems Lab. For Weibel, this experience and the support he received were a key moment: “That’s when I realised, this is exactly what I want to do!” Not long afterwards, he founded Wingtra.
-
-## Versatile demands
 
 From that point, things proceeded at a rapid pace. In 2015, the project was awarded vital funding by the Gebert Rüf Foundation. In February 2016, Wyss Zurich took the fledgling company on as a funding project and before long, private investors also came on board. In early 2017, Weibel sold the first drones, albeit not for parcel delivery, as he had originally imagined, but rather for use in surveying and agriculture.
 

@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2014/01/between-africa-and-asia.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 The person who has not travelled thinks his or her mother is the best cook. - African proverb.
@@ -15,6 +17,8 @@ I ended up working for a year at the Ethiopian Institute of Architecture, Buildi
 Before my contract in Africa had lapsed, I accepted an invitation to work as a research assistant to the ETH Assistant Professor Dirk E. Hebel at the Future Cities Laboratory (FCL) in Singapore. The institute is located in the midst of a new university campus, which was acknowledged and awarded at a number of architectural events. A strong drive of being ‘modern’, ‘green’ and ‘sustainable’ is visible at each step. In terms of work efficiency, there is no risk of undesired interruption, with the small exception of AC cleaning sessions and fire drills. Everything works at its best, which makes life predictable and sometimes even boring. It even starts raining every day at the same time. Luckily my colleagues at FCL counterbalance the risk of falling into a routine. Most of the researchers for the laboratory are hired directly in Singapore, without running through ETH Zurich, which results in a multinational group of colleagues. This fact not only brings a great value to the research but also provides the most incredible first-hand lessons cultural diversity.
 
 In a few months I will move back to Europe. Luckily, one of the biggest advantages of my job is the possibility to travel back to Africa and Asia, where friends became my new family. Being able to live on three continents within the last three years has influenced my work and life on many levels. As much as I look forward to starting another chapter in yet another country, I am especially grateful for my recent experiences in Africa and Asia, knowing that what I’ve learn there will never be lost. This period of my life will always be a rich source of stories, some of which I plan to share in this very column.
+
+## About the author
 
 Marta Heisel-Wisniewska is currently working as a researcher at the Chair of Architecture and Construction at the Future Cities Laboratory in Singapore. She received her education at West Pomeranian University of Technology ZUT Szczecin in Poland, as well as at the University of the Arts Berlin between 2004 and 2011. At the Ethiopian Institute of Architecture, Building Construction and City Development in Addis Ababa, she worked as a lecturer and architectural program coordinator, and was part of a research team on refugee shelter design. She also served as a coordinator of a consultancy project for Addis Ababa Institute of Technology AAiT. In 2011, EiABC Student Council recognized her commitment with a ‘Best Teaching’ award.
 

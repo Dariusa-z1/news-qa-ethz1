@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2022/10/duerer-neu-auch-digital.html
 
-## Main article
+**Date processed:** 2025-05-01
+
+## Der Sammlungskatalog Online
 
 Der Sammlungskatalog Online mit den über 50'000 digitalisierten Werken der Graphischen Sammlung ist frei zugänglich .
 

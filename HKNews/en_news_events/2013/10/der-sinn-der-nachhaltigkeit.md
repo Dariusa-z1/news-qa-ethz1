@@ -2,19 +2,15 @@
 
 **Source:** en_news_events/2013/10/der-sinn-der-nachhaltigkeit.html
 
+**Date processed:** 2025-05-01
+
 ## Neo-classical versus evolutionary economics
 
 Especially since the first answer I myself heard to this question, twenty years ago when “sustainable development” was a relatively new concept, was “no.”
 
-## Obstacles and opportunities
-
 The no answer came from a professor of environmental and resource economics, and his reasoning had to do with the distinction between the sustainability of a particular environmental resource, and the sustainability of overall societal welfare. Inexpensive fossil fuels, for example, may have enabled people to be highly productive, to become wealthy, and with that wealth to invent and then invest in the next generation energy system, in which fossil fuels are no longer needed. The exhaustion of some resources may be a precondition to higher levels of future welfare, as much as exhausting the food on her plate may be a child’s precondition to enjoying dessert. Moreover, market prices for resources become higher the scarcer a given resource is perceived to be, and this means that the closer a resource is to exhaustion, the fewer are the number of people who can or want to afford it. As a consequence, the only resources people will completely exhaust are either those of little or no economic value, or ones for which substitutes are available. So really there is no need to worry.
 
-## About the author
-
 That particular professor was an extreme example of a neo-classical economist. These economists start with a set of reasonable assumptions about human behavior, which they formalize mathematically. Building on these, they show that a market economy, endowed with a set of resources, technologies, and the skills of its workers, will allocate those resources in a manner that is efficient, making people about as well off as possible. The threats to that efficiency come from cases where markets are incomplete. Pollution is one example. A messy factory can dump pollution on its neighbors, and not have to pay for the consequences. The simple solution of neoclassical economics is to create a legal regime in which they do need to pay, such as through a pollution tax, or by having to purchase, in advance, rights to pollute.
-
-## Don't miss a post
 
 But neo-classical economists are not alone. Evolutionary economics, for example, is a fairly recent branch that explicitly considers the case of technological change, and how people learn to use technologies in real time. They show that in many cases people get “locked in” to using inferior technologies, when it pays to stick with them because they are familiar, and everyone else is using them. Because of this, the market may settle into one of many different equilibria, some delivering much higher welfare than others, in a way that is hard or even impossible to predict. Political interventions can succeed in pulling society out of a bad equilibrium and into a better one, but they typically need to overcome several different barriers to change. These barriers may be economic, but they also may be social, psychological, or institutional.
 

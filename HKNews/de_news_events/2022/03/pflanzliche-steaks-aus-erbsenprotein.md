@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2022/03/pflanzliche-steaks-aus-erbsenprotein.html
 
+**Date processed:** 2025-05-01
+
 ## Die Küche als erstes Labor
 
 Ob Würstchen aus Tofu, Burger aus fermentierten Pilzen oder Poulet aus Erbsenprotein: Fleischersatzprodukte erfreuen sich immer grösserer Beliebtheit und sind aus den hiesigen Supermärkten nicht mehr wegzudenken. Doch was bisher noch im Sortiment fehlte, sind pflanzliche Alternativen für hochwertige Fleischprodukte wie Steaks.
@@ -9,8 +11,6 @@ Ob Würstchen aus Tofu, Burger aus fermentierten Pilzen oder Poulet aus Erbsenpr
 Geht es nach Martin Hofmann wird sich dies bald ändern. Der Materialwissenschaftler hat ein Verfahren entwickelt, mit dem pflanzliche Steaks aus Erbsenprotein und Fett produziert werden können. Er richtet sich damit vor allem an Menschen, die wie er selbst zwar keine Vegetarier sind, aber ihren Fleischkonsum reduzieren und sich öfter pflanzlich ernähren wollen.
 
 «Ich möchte dabei helfen, ein gesundes, umweltfreundliches und tiergerechtes Ersatzprodukt für hochwertiges Fleisch auf den Markt zu bringen, das geschmacklich dem tierischen Original möglichst nahekommt», so der ETH-Forscher.
-
-## Vom Rinder- zum Erbsenprotein
 
 Martin Hofmann wird die Naturwissenschaft fast schon in die Wiege gelegt. Seine Mutter ist Biochemikerin, der Vater Botaniker und die Schwester arbeitet als Geologin. Wissenschaftliche Experimente waren im Hause Hofmann so alltäglich, wie bei anderen Familien Brettspiele oder Fussball. «Schliesslich ist ja jede Küche nichts anderes als ein kleines Labor», sagt der ETH-Forscher.
 
@@ -26,8 +26,6 @@ Nur wenn man es schafft, die Proteinstruktur von Fleisch biochemisch nachzubilde
 
 Das für Steaks charakteristische Fettgewebe besteht bei Hofmanns pflanzlicher Alternative aus einer einfachen Emulsion aus Wasser und Öl, in die man Zusatzstoffe wie Vitamine und Spurenelemente integrieren kann. Da sich auch der Fettgehalt der Emulsion stark reduzieren lässt, ist das pflanzliche Steak nicht nur umweltfreundlicher, sondern auch gesünder als das tierische Original.
 
-## In einem Jahr zur Marktreife
-
 Die Marmorierung ist ein wichtiges Qualitätsmerkmal von Steaks. Ist sie sehr ausgeprägt – wie zum Beispiel beim japanischen Kobe-Rind – gilt das Fleisch als besonders hochwertig. Die künstliche Herstellung der Marmorierung ist aber alles andere als einfach.
 
 «Man muss etwas nachbilden, dass keinerlei Regelmässigkeit aufweist. Denn wenn wir uns eine Hälfte eines Steaks ansehen, können wir schlicht nicht ableiten, wie die zweite Hälfte aussieht», erklärt Hofmann. Nur Produkte, die dieser Zufälligkeit der Natur Rechnung tragen, können den einzigartigen Geschmack und das Mundgefühl eines Steaks nachahmen.
@@ -35,6 +33,8 @@ Die Marmorierung ist ein wichtiges Qualitätsmerkmal von Steaks. Ist sie sehr au
 Gestützt auf seine Forschung zum Mischverhalten weicher Materialien, entwickelt Hofmann ein Verfahren, bei dem das Erbsenprotein und das Fett so ineinanderfliessen, dass daraus die für hochwertiges Fleisch typische Marmorierung entsteht. «Advective Processing» nennt er diese Methode, die im Unterschied zu gängigen 3D-Druckverfahren die Proteinmasse und das Fett kontinuierlich in einen Aufsatz pressen und dabei vermischen.
 
 Er kombiniert dafür zwei Komponenten: Die Hardware, bestehend aus zwei Extrusionsdüsen für das Erbsenprotein sowie einer Düse für das Fett. Und eine von Hofmann selbst programmierte Software, die steuert, wie die beiden Stoffe vermischt werden.
+
+## In einem Jahr zur Marktreife
 
 Im Rahmen eines Pioneer-Fellowships, das von der Fondation Alcea unterstützt wird, möchte Hofmann sein Verfahren nun auf den Markt bringen und ein Spin-off gründen. Es wäre bereits sein zweites Start-up, denn 2014 gründet er gemeinsam mit einem Kommilitonen die Firma Technis. Diese spezialisiert sich auf die Entwicklung von Bodensensoren und umfasst mittlerweile 51 Personen.
 

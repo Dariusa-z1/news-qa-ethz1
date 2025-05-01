@@ -2,8 +2,16 @@
 
 **Source:** de_internal/2017/01/informationsverstaltungen-zu-open-access-am-30-januar-2017.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
+Inhalt
+
+• Einführung: Prof. Ulrich Weidmann, VPPR ETH Zürich
+• Präsentation: Was ist Open Access? Aktuelle Situation und Trends beim wissenschaftlichen Publizieren, Relevanz für die ETH Zürich (Dr. Rafael Ball, Direktor ETH-Bibliothek)
+• Fragerunde
+• Open-Access-Umfrage im Februar
 Die ETH-Bibliothek führt im Februar 2017 eine Befragung zum Thema Open Access durch. Am 1. Februar erhalten alle wissenschaftlichen Mitarbeitenden der ETH Zürich per E-Mail einen persönlichen Link zum Online-Fragebogen.
 
 Im Vorfeld bietet die ETH-Bibliothek zwei Informationsveranstaltungen an, zu der alle Interessierten herzlich eingeladen sind:

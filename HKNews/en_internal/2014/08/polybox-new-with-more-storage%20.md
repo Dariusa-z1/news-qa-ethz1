@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2014/08/polybox-new-with-more-storage%20.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 This service is provided by the ETH Zurich IT Services to all ETH members free of charge. The advantage of polybox over other services like Dropbox or Google Drive: polybox does not outsource any data, rather it stores them on the ETH campus. With this in-house solution, controllability is guaranteed, whereas the IT Services cannot guarantee the security of externally stored data. In addition, mobile clients (iPhone and Android) and sync clients are available.

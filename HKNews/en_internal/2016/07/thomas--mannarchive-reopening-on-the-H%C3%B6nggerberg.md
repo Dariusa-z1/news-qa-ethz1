@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2016/07/thomas--mannarchive-reopening-on-the-H%C3%B6nggerberg.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 The reading room and Thomas Mann's last study can be visited there with extended opening times.

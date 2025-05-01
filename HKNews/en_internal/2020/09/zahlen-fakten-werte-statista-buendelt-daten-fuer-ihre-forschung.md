@@ -2,23 +2,17 @@
 
 **Source:** en_internal/2020/09/zahlen-fakten-werte-statista-buendelt-daten-fuer-ihre-forschung.html
 
+**Date processed:** 2025-05-01
+
 ## Systematic research
 
 How many American citizens have a video-on-demand account? What is the GDP of Colombia? What trends can be observed for what brands in the European automotive market? – Statista is a business data platform that gives members of ETH Zurich access to statistical data on more than 80,000 topics from more than 22,500 sources. Industry and business data on more than 1,000 companies, trend analyses and prognoses, historical and current facts – the database pools a wealth of valuable information for your basic research.
 
-## Reliable data
-
 With a large amount of reports and dossiers on more than 1,000 topics, Statista is a handy resource for gaining insight into a subject and access to relevant information. All records are processed to academic standards, and additional definitions and summaries are provided to supplement individual topics.
-
-## Data integration
 
 Every statistic is published together with its meta data, such as the source, date of publication, number of survey participants, etc. This makes all information on Statista verifiable and ensures reliability for your research.
 
-## Subscribe to Newsletter
-
 Conveying information in an easily comprehensible format is an important part of presenting your research. Graphics, tables, diagrams, images and Excel files are particularly useful for this. Statista allows you to download its data as a range of file types, so that you can immediately and efficiently include the information in your research documents and publications in a visually attractive format.
-
-## Staffnet
 
 #KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start.
 

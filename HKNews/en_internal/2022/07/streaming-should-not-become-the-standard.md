@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2022/07/streaming-should-not-become-the-standard.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Mr Dissertori, why should ETH lecturers return to primarily in-person instruction?

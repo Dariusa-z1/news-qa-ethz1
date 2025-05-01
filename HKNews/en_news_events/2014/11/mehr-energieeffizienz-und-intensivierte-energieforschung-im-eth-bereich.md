@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2014/11/mehr-energieeffizienz-und-intensivierte-energieforschung-im-eth-bereich.html
 
+**Date processed:** 2025-05-01
+
 ## An increase in energy efficiency in the ETH Domain
 
 The Swiss Federal Administration, the ETH Domain and the parastate enterprises have an example to set when it comes to using environmental and energy resources. Together, they account for around two per cent of Switzerland’s energy consumption. For several years now, the Federal Administration, SBB, Swiss Post, Swisscom and Skyguide have been endeavouring to boost their energy efficiency and reduce their consumption levels – and they are ready to step up these efforts even further in future.
@@ -14,8 +16,6 @@ The ETH Domain – which comprises ETH Zurich, EPF Lausanne and the research ins
 
 In spite of this growth, the Federal Council reports that the ETH Domain’s energy consumption per capita has fallen and its energy efficiency level has increased. According to the ETH Domain’s energy efficiency targets, it is aiming to improve its efficiency by at least 20 per cent by 2020 compared to 2006.
 
-## Energy research: a core area of expertise
-
 The ETH Domain has already seen a 15 per cent improvement in energy efficiency between 2006 and 2013, thanks to initiatives such as the construction of the new Swiss National Supercomputing Centre (CSCS) in Lugano, which is one of the most energy-efficient data centres in the world.
 
 In terms of energy research, the ETH Domain is making targeted investments in training and education, science and the direct transfer of technology into industry. As well as introducing new study programmes and research projects, the Federal Council has stated that the ETH Domain will play a leading role in establishing the new national competence centres for energy research.
@@ -25,8 +25,6 @@ According to the ETH Board, the key to the ETH Domain’s contribution towards t
 Energy-efficient processes and the reduction of CO 2 emissions are at the forefront of energy research in the ETH Domain. More than 70 per cent of the funding available to the ETH Domain for energy research is channelled into investigating renewable energy sources and energy efficiency.
 
 ETH Zurich also runs its own competence centre for sustainable energy research, the Energy Science Center , which has links with a total of 57 professorships. On top of this, it offers two energy-oriented Master’s degree programmes: t he Master’s degree in Integrated Building Systems and the Master’s degree inEnergy Science and Technology .
-
-## Don't miss the latest news
 
 The ETH Domain also has a leading role to play in the new national competence centres for energy research ( Swiss Competence Centers for Energy Research, SCCER ). These will focus on the top-priority areas of action for energy research – such as energy efficiency, energy systems, storage and mobility. Three of them will be run under the overall management of ETH Zurich:
 

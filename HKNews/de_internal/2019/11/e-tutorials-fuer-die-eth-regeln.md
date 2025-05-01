@@ -2,23 +2,17 @@
 
 **Source:** de_internal/2019/11/e-tutorials-fuer-die-eth-regeln.html
 
+**Date processed:** 2025-05-01
+
 ## Lernen am konkreten Fall
 
 Was ist zu beachten, wenn man an der ETH Zürich etwas beschaffen will? Ab welchem Beschaffungswert braucht es eine Ausschreibung? Und was heisst in diesem Zusammenhang «besondere Beziehungsnähe»? Oder: Was bedeutet es für mich, wenn ein zu beschaffendes Produkt der Exportkontrolle unterliegt? Wie viel darf ich für ein Weihnachtsessen mit meinem Team ausgeben?
 
-## Gut investierte Viertelstunde
-
 Ein von der Abteilung Finanzdienstleistungen erarbeitetes E-Learningangebot zeigt jetzt, wie sich ETH-Mitarbeitende im reglementierten ETH-Umfeld sicher zurechtfinden und wo besondere Sorgfalt und Vorsicht geboten ist. Es ergänzt den bestehenden Compliance Guide, der online und gedruckt vorliegt. Aufgebaut ist es modular und zugeschnitten auf die Alltagspraxis der ETH-Führungsverantwortlichen und Mitarbeitenden in Forschung, Lehre und Verwaltung.
-
-## Korrektes Verhalten stärkt den Ruf
 
 Wer das E-Learningangebot aufruft, kann wählen, ob sie oder er ein spezifisches Themengebiet bearbeiten oder gleich sämtliche Compliance-relevanten Bereiche durcharbeiten möchte. Den Einstieg in jedes Lernmodul bildet ein Einführungsvideo, das die Regelungssituation eines Themas beschreibt und in den Kontext einbettet. Konkrete Fallbeispiele, zu denen Fragen aus der Praxis beantwortet werden müssen, konfrontieren die Lernenden anschliessend mit Standard-Situationen.
 
-## Staffnet
-
 Das Tutorial soll die wichtigsten reglementierten Bereiche der ETH Zürich abdecken. Neben dem erwähnten Thema Beschaffungen sind auch die Module «Berufliche Auslagen, Exportkontrolle und Integrität in der Forschung» abrufbar. Das Angebot wird laufend aktualisiert und erweitert.
-
-## Newsletter abonnieren
 
 «Eigenverantwortliches Handeln ist ein Trumpf der ETH Zürich. Es ermöglicht Flexibilität und schlanke, effektive Abläufe. Und das wiederum kommt unserem wissenschaftlichen Kernauftrag enorm zugute», sagt Robert Perich, Vizepräsident für Finanzen und Controlling und in der Schulleitung zuständig für das Thema Compliance.
 

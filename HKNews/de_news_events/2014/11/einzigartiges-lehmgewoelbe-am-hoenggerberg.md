@@ -2,25 +2,23 @@
 
 **Source:** de_news_events/2014/11/einzigartiges-lehmgewoelbe-am-hoenggerberg.html
 
+**Date processed:** 2025-05-01
+
 ## Rehabilitierung eines Materials
 
 Die Professur für Architektur und Konstruktion von Annette Spiro ist für praxisnahe Lehre und vertiefte Auseinandersetzung mit Baumaterialien bekannt. 2010 baute sie gemeinsam mit der ETH-Baubibliothek eine Materialsammlung für Architekten und Bauingenieure auf und 2012 bot sie erstmals das Wahlfach «Material-Werkstatt» an. «Wir wollen den Studierenden die Möglichkeit geben, sich nicht nur theoretisch, sondern auch praktisch mit Baumaterialien auseinanderzusetzen», sagt Gian Salis, Dozent am Lehrstuhl und verantwortlich für das Wahlfach.
 
 Im Frühjahr 2012 haben sich Architektur-Studierende erstmals eingehend mit dem Baustoff Lehm auseinandergesetzt. Gestern präsentierten sie in Anwesenheit von ETH-Rektor Lino Guzzella und Verantwortlichen des Departements Architektur die Frucht ihrer Studien: ein fünf Meter hoher, multifunktionaler Unterstand, der sich durch sechs weite Bögen und sechs gegen aussen hin geöffnete Gewölbe definiert. Das schnörkellose Bauwerk zeichnet sich aus durch ein einzigartiges Konstruktionsprinzip, gelang es doch zum ersten Mal, ein Gewölbe mit vorgefertigten Elementen aus nicht stabilisiertem Stampflehm zu bauen.
 
-## Schreinern und Stampfen
-
 Lehm gehört zu den ältesten Baumaterialien überhaupt. Seit Jahrhunderten werden damit in Afrika und im mittleren Osten Häuser, Ställe, Moscheen und Paläste gebaut. Infolge der Industrialisierung und des Siegeszuges von Beton ging er aber praktisch vergessen und bis heute haftet dem Baustoff der Ruf der Minderwertigkeit und Vergänglichkeit an. Lange Zeit waren auch die Möglichkeiten der Konstruktion und Gestaltung mit Lehm stark beschränkt: Lehm kann lediglich Druck- aber keine Zugkräfte aufnehmen. Er wird erst beim Trocknen fest und braucht dafür relativ lange. Gewölbte Formen direkt auf der Baustelle zu stampfen, ist deshalb unmöglich.
 
 Der Bau von Decken oder Bögen war bislang nur über den Umweg von Lehmziegeln und Mörtel möglich. «Durch die Möglichkeit der Vorfabrikation von Stampflehm-Elementen haben wir heute jedoch komplett neue Möglichkeiten», erklärt Salis. «Und dank innovativer Konstruktion kann Lehm durchaus als dauerhaftes Baumaterial eingesetzt werden.» Dies mit Vorteilen gegenüber Beton: Lehm ist praktisch überall verfügbar, braucht keine Chemikalien zum Aushärten, beinhaltet praktisch keine graue Energie, bietet ein hervorragendes Raumklima und kann durch Auflösen mit Wasser in den natürlichen Kreislauf rückgeführt werden.
-
-## Auf Tuchfühlung mit der Praxis
 
 Die Seminarteilnehmer sollten deshalb die neuen Konstruktionsmöglichkeiten mit Lehm während zwei Seminaren ausloten. Nachdem eine erste Gruppe 2012 eine Stampflehm-Mauer in Österreich gebaut hatte, erarbeiteten im Frühjahr 2013 weitere 26 Studierende in 3er- und 4er-Gruppen sieben unterschiedliche Entwürfe für eine ganze spezielle Konstruktion: ein Stampflehm-Gewölbe. Mit Lehm vom Hönggerberg bauten sie erste Modelle. Martin Rauch, der sich seit über 30 Jahren mit dem Material Lehm auseinandersetzt, stand ihnen dabei mit seiner Expertise zur Seite. Ein Entwurf wurde schliesslich zur Umsetzung ausgewählt.
 
 ETH-Studierende beim Bau der Kuppel. (Foto: Gian Salis / ETH Zürich)
 
-## Keine News verpassen
+## Auf Tuchfühlung mit der Praxis
 
 Während eines zweiwöchigen, vom ETH Innovedum-Fonds unterstützten Workshops in der Werkhalle von Martin Rauchs Firma «LehmTonErde GmbH» fertigten die Studierenden 19 Stampflehm-Elemente, aus welchen später die Kuppeln und Bögen zusammengesetzt wurden. Dafür schreinerten sie zuerst robuste Schalungen aus Holz, in die schichtweise Lehm aus der Umgebung von Laufen gefüllt und mit druckluftbetriebenen Stampfern verdichtet wurde. «Die Studierenden erfuhren vor Ort mit eigenen Händen, wie sich das zuvor Geplante nun auch tatsächlich praktisch umsetzen liess», erzählt Salis.
 

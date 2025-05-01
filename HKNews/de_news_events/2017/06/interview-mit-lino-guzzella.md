@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2017/06/interview-mit-lino-guzzella.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH-News: Herr Guzzella, die Digitalisierung ist derzeit in aller Munde. Es gibt viele Medienbeiträge zu diesem Thema, Anlässe, Initiativen. Stehen wir tatsächlich vor einem Umbruch – oder ist dies einfach ein modischer Trend? Lino Guzzella: In der Tat befassen sich derzeit viele Menschen mit dieser Thematik. Das ist auch gerechtfertigt, denn wir erleben eine Entwicklung, die unser Leben stark verändern wird.
@@ -29,6 +31,8 @@ Wenn man an die Störmanöver vor den französischen Wahlen oder an die jüngste
 Braucht es nicht auch bessere technische Schutzmassnahmen? Eine Gesellschaft muss sich immer gegen Bedrohungen schützen. Früher hatte Zürich eine Stadtmauer, heute brauchen wir informationstechnische Schutzmauern, wie wir sie bereits seit 2003 im «Zurich Information Security & Privacy Center» (ZISC) der ETH aufbauen.
 
 Forscher des ZISC schlagen vor, das Internet auf eine neue Grundlage zu stellen. Ist das realistisch? Dieses Projekt ist eine grosse Chance. Die Grundlagen des Internets wurden unter ganz anderen Voraussetzungen entwickelt als sie heute herrschen. Eigentlich ist es ein Wunder, dass dieses Gebilde noch immer so gut funktioniert. Das Projekt SCION (Scalability, Control, and Isolation on Next-Generation Networks) ermöglicht nun, Daten wirklich sicher zu transferieren. Die Schweiz könnte dank der ETH zum ersten Land mit einem sicheren Internet werden – und den Weg ebnen für viele spannende Anwendungen.
+
+## Sicherheit im Cyberspace – der Cyber Risks Summit
 
 Neue Informationstechnologien (ICT) bieten grosse Chancen, bergen aber auch Risiken. Um diesen Gefahren zu begegnen, ist es wichtig, die theoretischen Grundlagen der Informationssicherheit zu verstehen. Daneben braucht es auch praktisches Wissen, wie man mit Sicherheitsbedrohungen umgeht. Am Cyber Risks Summit werden Keynote-Referenten zunächst über neue Erkenntnisse aus der Forschung berichten. Das anschliessende Podium im zweiten Teil geht der Frage nach, wie die Schweiz zum ersten «Internet-sicheren Land» werden kann.
 

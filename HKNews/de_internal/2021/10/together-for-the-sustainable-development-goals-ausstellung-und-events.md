@@ -2,7 +2,9 @@
 
 **Source:** de_internal/2021/10/together-for-the-sustainable-development-goals-ausstellung-und-events.html
 
-## Together for the SDGs Agenda
+**Date processed:** 2025-05-01
+
+## Main article
 
 Wie können wir globale Armut und Ungleichheit bekämpfen, den Planeten schützen und sicherstellen, dass bis 2030 alle Menschen in Frieden und Wohlstand leben? Welchen Beitrag können Wissenschaft und Technologie leisten?
 
@@ -12,13 +14,13 @@ Im Jahr 2015 haben die 193 UN-Mitglieder die Agenda 2030 für nachhaltige Entwic
 
 Weitere Informationen zur Ausstellung und zu den Veranstaltungen finden Sie hier (auf Englisch).
 
+## Together for the SDGs Agenda
+
 Alle Veranstaltungen finden auf Englisch statt.
 
 Together for the SDGs - Ausstellung
 
 30. Oktober – 13. November 2021 ETH Zurich Hauptgebäude, Haupthalle Montag-Freitrag: 6:00 – 22:00, Wochenende: 8:00 – 17:00 (freier Eintritt)
-
-## Staffnet
 
 Vernissage der Ausstellung
 
@@ -33,8 +35,6 @@ World Food System Center Research Symposium 2021
 Freitag, 5. November 2021 17:15 – 21:00 ETH Zurich Hauptgebäude, HG F30
 
 externe Seite Registration
-
-## Newsletter abonnieren
 
 Building a Sustainable Future - ETH SDG Pitch-​Event
 

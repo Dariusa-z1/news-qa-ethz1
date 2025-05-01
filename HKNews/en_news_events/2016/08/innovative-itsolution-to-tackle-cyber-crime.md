@@ -2,19 +2,17 @@
 
 **Source:** en_news_events/2016/08/innovative-itsolution-to-tackle-cyber-crime.html
 
+**Date processed:** 2025-05-01
+
 ## Acute sensitivity to normal activity
 
 As a young company with just five employees, a strong sense of conviction is essential in order to challenge the technological dominance of the big players in the field of IT security such as IBM, Intel Security and Cisco. And that’s exactly what Antonio Barresi (CEO), Matthias Ganz (CTO) and Marco Nembrini (COO) from xorlab plan to do. Founded in July 2015, the ETH spin-off has developed a system that aspires to be far more reliable and cheaper than conventional solutions in protecting companies and governments from hacker attacks.
 
 “Like real criminals, cyber criminals constantly adapt their behaviour to suit a changing environment”, explains Antonio Barresi, xorlab’s CEO. “That makes it difficult to detect an intruder in the system.” Most conventional security solutions watch for “suspicious activity” within an IT system that could point to unauthorised intrusion. By contrast, xorlab concentrates on screening the normal behaviour of applications. It performs this task so meticulously that it can spot any suspicious activity immediately. In this way, it is able to isolate malicious files and websites before they can compromise a company’s IT infrastructure.
 
-## From Venture Challenge to start-up capital
-
 The hardware developed by xorlab, a mini-server weighing 31 kilos, stands before the company’s actual server infrastructure as a front line of defence against potential hacker attacks via emails, PDFs, Word or Excel documents, or websites in general. If the system detects a PDF attachment attempting to smuggle in spyware, for example, it will open the attachment on another computer isolated from the main corporate network, and then scan it for threats. If a threat is detected, the file is immediately destroyed.
 
 “During the first proof of concept a year ago, we managed to detect all the attacks made on a protected system – without triggering a single error message”, recalls Barresi. This last aspect is very attractive for companies, as every error message and suspicious activity report generates substantial extra costs. So does the software solution developed by xorlab represent a type of Holy Grail in the fight against hackers? Barresi puts it into perspective: “Our device is certainly a key component within the overall IT security infrastructure. But obviously we are not able to block every possible type of threat.”
-
-## On the verge of the first critical trials
 
 xorlab benefits from the exceptional know-how and expertise of the company’s founders. Barresi studied computer science at ETH and then worked as an IT risk manager at one of Switzerland’s leading banks, with spells as a security consultant and software developer as well. In 2013 he came back to work at ETH as scientific assistant at the Laboratory for Software Technology. Together with another computer scientist at ETH, Matthias Ganz, and the ETH mathematician Marco Nembrini, he took part in the Venture Challenge start-up course in 2014 and drafted a preliminary business plan. “We had this intuitive feeling that we were on to a good idea: something that none of us had approached before in this way”, explains Barresi when asked about the motivation for setting up the company. At the start of the year the company eventually won the start-up competition organised by Venture Kick , pocketing the prize money of 130,000 Swiss francs.
 

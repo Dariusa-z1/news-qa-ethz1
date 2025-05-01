@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2015/06/the-campus-as-a-lab.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 At the heart of June's issue of life , the ETH community magazine, is an exploration of the ways in which ETH Zurich's scientists take experiences from everyday life at the university and apply it to their research. Both the Hönggerberg and Zentrum campuses are providing intriguing testing grounds for matters of sustainability – like the sustainable gardening projects taking place across the university's numerous green spaces.

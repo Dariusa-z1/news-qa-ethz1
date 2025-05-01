@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2014/09/MRI-imaging-technology-enhanced-by-hyperpolarization.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Bildgebende Verfahren wie Magnetresonanztomographie (MRT) oder Computertomographie (CT) sind aus der heutigen Medizin nicht mehr wegzudenken. Diese Methoden erlauben schnellere und genauere Diagnosen und haben sich im Laufe der letzten Jahre stark verbessert. Jedoch setzt die Auflösung und Qualität der Bilder aufgrund der Komplexität des menschlichen Körpers diesen Technologien noch immer Grenzen. Eine Zusammenarbeit von Forschenden der ETH Zürich, der EPFL, des CNRS, der ENS Lyon, des CPE Lyon haben einen externe Seite neuen Ansatz entwickelt, um die Möglichkeiten der medizinischen Bildgebung stark zu verbessern bei gleichzeitiger höherer Sicherheit für Patienten.
@@ -23,6 +25,8 @@ Was sind die nächsten Schritte in diesem Projekt? Bis jetzt haben wir gezeigt, 
 Wann werden HYPSOs in der Medizin verfügbar sein? Auch daran arbeiten wir derzeit. Ich hoffe es gelingt uns, HYPSOs in den kommenden Jahren in die Klinik zu bringen.
 
 Zur Person Christophe Copéret ist seit November 2010 ordentlicher Professor für Anorganische Chemie am Departement Chemie und Angewandte Biowissenschaften (D-CHAB) der ETH Zürich. Sein Interesse gilt der Molekül-, Material- und Oberflächenchemie mit dem Ziel, funktionale Materialien für den Einsatz in der Katalyse, der molekularen Erkennung, der Bildgebung und der Mikroelektronik zu entwickeln.
+
+## Literaturhinweis
 
 Gajan D, Bornet A, Vuichoud B, Milani J, Melzi R, van Kalkeren HA, Veyre L, Thieuleux C, Conley MP, Grüning WR, Schwarzwälder M, Lesage A, Copéret C, Bodenhausen G, Emsley L, Jannin S. Hybrid polarizing solids for pure hyperpolarized liquids through dissolution dynamic nuclear polarization. PNAS 29 September 2014. DOI: externe Seite 10.1073/pnas.1407730111
 

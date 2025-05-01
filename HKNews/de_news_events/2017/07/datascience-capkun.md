@@ -2,9 +2,9 @@
 
 **Source:** de_news_events/2017/07/datascience-capkun.html
 
-## Zur Person
+**Date processed:** 2025-05-01
 
-- Lino Guzzella: «Diese Chance müssen wir packen» (ETH-News 20.06.2017)
+## Main article
 
 Herr Capkun, Sie sagten kürzlich in einem Interview: «Ein bisschen Paranoia schadet bei der IT-Sicherheit nicht.» Wie paranoid sollte man idealerweise sein? Bei der IT-Sicherheit ist es tatsächlich gut, etwas paranoid zu sein und die Technik immer wieder zu hinterfragen. Aber dann stellt sich sofort die Frage: Was macht man damit? Vollständige Sicherheit gibt es nur, wenn man auf viele Vorteile verzichtet. Es geht also um die richtige Balance zwischen Funktionalität und Sicherheit.
 
@@ -20,8 +20,6 @@ Sie selbst forschen unter anderem am Schutz von medizinischen Geräten. Wie gut 
 
 Vor wenigen Monaten wurden – vor allem in England – etliche Spitäler von Hackern angegriffen. Was war da das Problem? In vielen Spitälern gibt medizinische Geräte mit veralteten Betriebssystemen, teilweise sogar mit Windows 98, obwohl das schon seit Jahren nicht mehr unterstützt wird. Wenn man die Software aktualisieren will, könnte es sein, dass die Geräte nicht mehr richtig funktionieren, weil zum Beispiel Hard- und Software nicht mehr kompatibel sind. Es braucht also eine aufwändige Softwareentwicklung, und die Geräte müssen neu zertifiziert werden. Beides kostet Zeit und Geld. Und die Geräte einfach durch neue zu ersetzen, ist oft keine Lösung.
 
-## Schwerpunktthema Daten
-
 Man muss also einen Kompromiss finden? Die Komplexität zeigt sich, wenn man eine Risikoeinschätzung durchführt. Wie heikel ist es beispielsweise, wenn ein CT-Scan in falsche Hände gerät? Das hängt – unter anderem – auch davon ab, wie das Gesundheitswesen reguliert ist. Nochmals: Ein Spital vor Hackerangriffen zu schützen, ist zwar eine technische Aufgabe, aber eben nicht nur.
 
 Ein anderes Thema, das die Öffentlichkeit gegenwärtig stark interessiert, ist die Frage, ob Cyber-Attacken unsere Demokratie unterwandern. Wie schätzen Sie die Situation ein? Problematisch ist nicht nur, dass Wahlen manipuliert werden könnten, sondern auch, dass die Menschen das Vertrauen in die demokratischen Prozesse verlieren könnten. Die Post entwickelt gegenwärtig ein E-Voting-System für die Schweiz. Man kann zwar zeigen, dass dieses System kryptografisch sicher ist. Aber was kann jemand, der mit Kryptografie nicht vertraut ist, mit dieser Information anfangen? Wie überzeugt man die Menschen, dass bei einer Abstimmung oder Wahl alles mit rechten Dingen zuging? Das ist ein spannendes Thema, über das ich im Moment viel nachdenke.
@@ -32,7 +30,11 @@ Wie wird sich das ZISC in den nächsten Jahren entwickeln? Wir wollen das Zentru
 
 Die Forschung am ZISC orientiert sich also stark an konkreten Problemen? Nicht nur. Wir machen auch Grundlagenforschung, indem wir aus Neugier Sachen ausprobieren, ohne im Vornherein zu wissen, ob das funktionieren wird. Dieser Teil ist sehr wichtig für uns.
 
+## Zur Person
+
 Srdjan Capkun ist Professor für Informationssicherheit und Direktor des Zurich Information Security Center (ZISC) an der ETH Zürich. In seiner Forschung befasst er sich schwergewichtig mit dem Entwurf und der Analyse von Sicherheitsprotokollen für Funk- und Festnetze.
+
+## Schwerpunktthema Daten
 
 Daten spielen in unserer Gesellschaft eine immer wichtigere Rolle. Die ETH Zürich wird sich deshalb in den kommenden Jahren vertieft mit diesem Themenschwerpunkt befassen. ETH News zeigt in einer Serie von Interviews exemplarisch auf, mit welchen Themen sich Forschende der ETH Zürich konkret befassen und wie sie die gesellschaftliche Entwicklung in ihrem Bereich einschätzen.
 

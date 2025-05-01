@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2021/02/open-access-foerderung-wird-erweitert.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Diese neue Regelung gilt für alle Artikel, die ab dem 01.01.2021 bei einem Verlag zur Publikation in einer wissenschaftlichen Zeitschrift eingereicht wurden. Die Finanzierung können Sie über ein geschützte Seite Webformular lock beantragen, das mit Ihrem ETH-Login zugänglich ist. Einen Antrag stellen Sie nach erfolgtem Rechnungseingang durch den jeweiligen Verlag, indem Sie die Rechnung über das Webformular an die ETH-Bibliothek übermitteln. Nach Prüfung des Antrags wird die Rechnung direkt durch die ETH-Bibliothek bezahlt.

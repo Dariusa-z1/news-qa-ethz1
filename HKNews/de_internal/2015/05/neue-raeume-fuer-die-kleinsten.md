@@ -2,8 +2,15 @@
 
 **Source:** de_internal/2015/05/neue-raeume-fuer-die-kleinsten.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
+Der Ausbau ist Teil des Download Gender Action Plans der ETH Zürich vertical_align_bottom und eines Beschlusses der Schulleitung vom vergangenen Jahr,
+
+• die externe Seite kihz Hönggerberg call_made auszubauen;
+• die Servicestelle für Kinderbetreuung, Hello Kids! , aufzubauen; und
+• ETH-Angehörigen einen Beitrag an die höheren Betreuungskosten für Kinder unter 18 Monaten (Säuglinge) zu zahlen, um so die Differenz zu den Beiträgen für Kleinkinder ab 18 Monaten auszugleichen (Details in den « Download Richtlinien über die finanzielle Unterstützung von Säuglingsplätzen für ETH-Angehörige (PDF, 53 KB) vertical_align_bottom »).
 Die nigelnagelneuen, farbig umrandeten Bettchen sind ebenerdig aneinandergereiht. Die Fenster sind so tief, dass auch die Kleinsten nach draussen blicken können. Nebenan sind eine neue Krabbelecke mit hellen, einladenden Möbeln eingerichtet sowie ein Raum zum Stillen und Wickeln.
 
 Seit Montag, 4. Mai 2015, betreut kihz, die gemeinsame Stiftung der ETH Zürich und der Universität Zürich für Kinderbetreuung, in diesen Räumen auf dem Campus Hönggerberg eine weitere Gruppe mit Säuglingen im Alter von vier bis achtzehn Monaten. Insgesamt 55 Plätze ab vier Monaten bis zum Eintritt in den Kindergarten - verteilt auf fünf Gruppen («Schmetterlinge», «Krokodile», «Igel», «Papageien», «Bären») - gibt es in der kihz Hönggerberg. 74 Familien profitieren derzeit auf dem Hönggerberg von dieser Dienstleistung.

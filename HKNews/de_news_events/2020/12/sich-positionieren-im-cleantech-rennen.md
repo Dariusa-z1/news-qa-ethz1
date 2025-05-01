@@ -2,17 +2,19 @@
 
 **Source:** de_news_events/2020/12/sich-positionieren-im-cleantech-rennen.html
 
-## Technologie als Treiber der Politik
+**Date processed:** 2025-05-01
+
+## Main article
 
 Die Integration erneuerbarer Energien stellt neue Anforderungen an das Stromnetz. (Bild: Heiko Kueverling / Colourbox)
 
 Tobias Schmidt erinnert sich noch lebhaft an die UN-Klimakonferenz in Kopenhagen, an der er 2009 als Doktorand teilgenommen hatte. Etwas «naiv», wie er heute sagt, im Glauben, die Politiker seien vor allem deshalb angereist, um die Welt vor der nahenden Klimakrise zu retten. Die Verhandlungen in Kopenhagen waren jedoch enttäuschend. Am Ende einigte man sich auf einen unverbindlichen Minimalkonsens. «Irgendwann hat es bei mir klick gemacht», erzählt Schmidt, heute Assistenzprofessor für Energiepolitik an der ETH Zürich. «Mir wurde bewusst, dass es in der Klimapolitik längst nicht nur ums Klima geht, sondern vor allem um industrielle Wettbewerbsfähigkeit.»
 
+## Technologie als Treiber der Politik
+
 Das diplomatische Fiasko in Kopenhagen führt Schmidt vor allem auf die Angst vor ökonomischen Einbussen zurück. 2009 hatte das Beratungsunternehmen McKinsey zum zweiten Mal seine vielzitierte «marginal abatement cost curve» publiziert. Sie zeigte, wie viel die Vermeidung einer Tonne CO 2 -Äquivalente mit unterschiedlichen Technologien im Jahr 2030 voraussichtlich kosten wird. «Die Prognosen waren teils viel pessimistischer als die tatsächliche Entwicklung», sagt Schmidt.
 
 Die Autoren gingen beispielsweise davon aus, dass die Elektromobilität noch bis mindestens 2030 eine Nische bleiben würde. Doch mittlerweile wurden über 8,5 Millionen Elektrofahrzeuge verkauft – Tendenz stark steigend. Und die damals errechneten Kosten für Fotovoltaikanlagen im Jahr 2030 wurden längst unterschritten.
-
-## Herausforderung Speicherung
 
 Während in den 1990er Jahren die Vermeidung einer Tonne CO 2 mittels Fotovoltaik noch mehrere tausend Franken gekostet hatte, spart man durch die Vermeidung heute oft auch Geld für die Stromproduktion – die Vermeidungskosten sind also teilweise bereits negativ. «Die Innovation im Cleantech-Bereich wurde stark unterschätzt», sagt Schmidt. Mit weitreichenden Konsequenzen: «Kein Politiker wollte sich 2009 zum Ausbau von vermeintlich teuren Technologien verpflichten, die seinem Land Wettbewerbsnachteile bringen könnten.»
 
@@ -22,17 +24,15 @@ Dies sei mit einer der wichtigsten Gründe gewesen, dass sich in Paris 195 Staat
 
 Um diese These weiter zu fundieren, untersuchte Schmidts Gruppe den politischen Diskurs im deutschen Bundestag rund um die «Energiewende». Die Forschenden unterzogen über 800 Seiten Text aus energiepolitischen Debatten zwischen 1983 und 2013 einer Diskurs-Netzwerkanalyse und konnten aufzeigen, wie sich bei den Parteien die Argumentationen zur Energiewende über die Zeit veränderten. Die zentrale Erkenntnis: Neben der Versorgungssicherheit, Kosteneffizienz und Reduktion von Umweltauswirkungen gehörte der Aufbau einer starken, konkurrenzfähigen Industrie für neue Energietechnologien zu den wichtigsten Argumenten im politischen Diskurs.
 
-## Verschiebungen im politischen Spektrum
-
 In diesem Befund liege Potenzial zur Überbrückung von politischen Gräben, ist Schmidt überzeugt: «Je mehr Regierungen verstehen, dass eine CO 2 -arme Energiepolitik neue ökonomische Opportunitäten schafft, desto eher sind sie bereit, ihre Klimaambitionen zu erhöhen, um den Unternehmen Wettbewerbsvorteile zu verschaffen.»
+
+## Herausforderung Speicherung
 
 China, das Land mit den aktuell höchsten jährlichen CO 2 -Emissionen, ist laut Schmidt ein gutes Beispiel, um die Politik-Technologie-Rückkoppelung zu beobachten, die seine Gruppe in mehreren Artikeln beschrieben hat. Die Zentralregierung hat ihre Klimaziele in den vergangenen Jahren kontinuierlich verschärft und gleichzeitig mit billigen Krediten den Aufbau der weltweit grössten Fotovoltaikindustrie ermöglicht. Peking gab zudem das Ziel bekannt, den Strassenverkehr mittelfristig komplett auf Elektromobilität umstellen zu wollen, und kurbelte die Batteriezellenproduktion mit gezielter Förderung unterschiedlicher Systeme an. Und im September überraschte China die Welt mit der Ansage, seine Wirtschaft bis 2060 komplett dekarbonisieren zu wollen.
 
 Laut Schmidt hängen die ambitionierten Ziele längst nicht nur mit einem neu erwachten Umweltbewusstsein zusammen, sondern mit der Motivation, im Cleantech-Sektor zur führenden Industriemacht aufzusteigen. «Jobs und Wettbewerbsfähigkeit sind für Politiker kurzfristig sehr viel relevanter als die Erreichung von Klimazielen.» Peking gehe in der Technologieförderung sehr geschickt vor und verfolge eine «technology-smart policy», also eine Politik, die verschiedene Technologien – abhängig von deren Komplexität, Innovationskurven und der Preisentwicklung – mit unterschiedlichen Politikinstrumenten fördert. In Europa hingegen gelte häufig das Giesskannenprinzip.
 
 In der Schweiz wurde die Energiewende bisher durch eine kostenorientierte Einspeisevergütung (KEV) und Einmalvergütungen für erneuerbare Energien gefördert. Hinzu kam ein Programm für Gebäudesanierungen sowie die Förderung von Forschung und Innovation. Trotzdem liegt der Anteil von erneuerbaren Energien am Strommix (ohne Wasserkraft) derzeit lediglich bei rund vier Prozent. Laut Bund soll dieser in den kommenden Jahren deutlich ansteigen, um sowohl den Wegfall des Atomstroms zu kompensieren als auch den zusätzlichen Bedarf an Strom aufgrund der Elektrifizierung der Mobilität.
-
-## Zur Person
 
 Das grösste Potenzial für den Ausbau in der Schweiz sehen Experten in der Fotovoltaik. Doch die Integration von grossen Mengen Sonnenenergie stellt neue Anforderungen an das Stromverteilnetz. Mit der Simulationsplattform «Nexus-e» simulieren ETH-Forschende mit der Unterstützung des Bundesamts für Energie, wie ein solches Netz künftig konzipiert sein müsste und welche politischen und ökonomischen Faktoren die Umsetzung beeinflussen. «Das grösste Problem ist, dass die Stromeinspeisung zu jedem Zeitpunkt genau dem Stromverbrauch entsprechen muss», erklärt Gabriela Hug, Projektleiterin von Nexus-e und Professorin am Power Systems Laboratory. «Aufgrund der Wetterabhängigkeit von Fotovoltaik brauchen wir deshalb Technologien, die es ermöglichen, Energie auch langfristig und kostengünstig zu speichern.»
 
@@ -42,9 +42,9 @@ Doch solche Technologien sind oft noch nicht ausgereift und teuer. Die Stromkons
 
 Eine weitere Herausforderung ist die Regelungstechnik: Die Stromerzeugung über Synchronmaschinen, wie dies in Kern-, Wasser- und Kohlekraftwerken der Fall ist, lässt mehr Zeit, um kurzfristige Differenzen zwischen Einspeisung und Verbrauch auszugleichen. Die Fotovoltaik hingegen erzeugt schnellere Frequenzänderungen, womit die Gefahr von Stromunterbrüchen steigt. Auch dafür sucht Hugs Forschungsgruppe derzeit neue Lösungen.
 
-## Globe «Wandel im Kopf»
-
 Tobias Schmidt ist trotz technischer Herausforderungen und drohender Rückschläge aufgrund einer Corona- bedingten Wirtschaftsrezession vorsichtig optimistisch, was die globale Energiewende angeht. «Mit dem Klimavertrag von Paris hat vor fünf Jahren ein regelrechtes Rennen um grüne Energietechnologien begonnen. Daran konnte auch Donald Trumps Rückzug der USA aus dem Abkommen nichts ändern.» Zudem erkennt er zunehmend Verschiebungen im politischen Spektrum – auch in der Schweiz: «Noch 2018 hat die FDP das neue CO 2 -Gesetz im Nationalrat abgeschossen», erinnert Schmidt. Diesen Herbst nun hat das Parlament (mit Ausnahme der SVP-Fraktion) dieses geschlossen verabschiedet. Für Schmidt zeigt das: «Fast alle Parteien haben mittlerweile erkannt: Nun geht es um das Cleantech-Race!»
+
+## Zur Person
 
 Gabriela Hug ist Professorin am Institut für elektrische Energieübertragung. Ihr Spezialgebiet ist die Integration von erneuerbaren Energien ins bestehende Stromverteilnetz. Zu dieser Thematik ist sie regelmässig mit Politikern und Unternehmerinnen im Gespräch.
 

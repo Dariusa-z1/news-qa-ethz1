@@ -2,15 +2,15 @@
 
 **Source:** en_news_events/2019/06/urban-lab.html
 
+**Date processed:** 2025-05-01
+
 ## Prototyping solutions for the urban society
 
 The ETH Singapore Month provides an interdisciplinary setting to examine the urban society and develop solutions to some of its challenges. The participants of the first edition are a group of 48 students from seven universities, among them MIT, Nanyang Technological University Singapore, National University of Singapore and University of Cambridge. Foregrounding the role of design and design thinking as a platform for transdisciplinary work, students are challenged with “wicked problems” arising from global urbanization processes tied to the United Nations sustainable development goals (SDGs). “We confront students from multiple disciplines to design a process in order to produce an exhibition and presentation. The design of the process became the key issue for them to tackle while addressing the SDGs,” explains Marc Angélil, Professor for Architecture and Design, who designed and facilitated the workshop.
 
-## Developing applicable propositions
-
 “The spirit of the programme is very much aligned with the Singapore-ETH Centre, where we break down disciplinary and cultural barriers and tap on complementary skills and perspectives to make our future environment more sustainable, liveable, and resilient,” says Gerhard Schmitt, Director of the Singapore-ETH Centre. Gerhard Schmitt and Marc Angélil both recognize that Singapore provides a unique setting to explore topics on the urban society. “The city state responds to the challenges of the urban society in an agile way, building on its stable governance, openness of the government to engage with research, and practice of prototyping solutions before scaling them up,” says Schmitt. Through exchanges with government agencies, enterprises, researchers, and simply by experiencing the city, the students quickly gained insights into Singapore.
 
-## Lifting students out of the comfort zone
+## Developing applicable propositions
 
 Over the weeks, the students deployed their imagination and respective disciplinary knowledge to develop approaches to address SDGs including clean water and sanitation, inequality, and responsible consumption and production. Although working in an interdisciplinary setting proved to be the bigger challenge in itself, it was also the most cherished experience and lesson for participants such as Martin Stalder from the Department of Chemistry and Hager Al Laham from the Department of Architecture. Participants challenged models of governance, the definition of equality and basic rights, as well as the notion of place and boundaries with respect to SDGs. Many of these challenges would have taken seasoned policy-makers months, and sometimes even a political lifetime, to negotiate – in fact a “mission impossible” in one month.
 

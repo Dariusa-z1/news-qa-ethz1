@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2014/04/what-was-behind-the-biggest-physics-discovery-of-last-year.html
 
+**Date processed:** 2025-05-01
+
 ## Giudice, Jenni and Evans
 
 The discovery of the Higgs particle last year at the CERN Large Hadron Collider (LHC) particle accelerator in Geneva caused quite a stir and may well be considered the physics discovery of 2013 – reason enough for ETH Zurich to make it the topic of this year’s Wolfgang Pauli Lectures. Next week, three CERN scientists who were instrumental in the discovery will be talking about their backgrounds in a series of lectures intended for researchers, students and the public.
@@ -12,9 +14,9 @@ The Italian physicist Gian Francesco Giudice works in the Theoretical Physics Di
 
 The Swiss physicist Peter Jenni, alumnus and holder of an honorary doctorate title from ETH Zurich, was in charge of the Atlas Experiment at the LHC from the very start of the project in the 1990s until 2009. Atlas is one of two large detectors at the particle accelerator that succeeded in delivering experimental evidence of the existence of the Higgs particle (the other particle detector is CMS). Since his retirement a year ago, Jenni has worked as a visiting researcher at the University of Freiburg im Breisgau. His lecture on Tuesday will focus on the background leading up to the experimental discovery of the Higgs particle.
 
-## Wolfgang Pauli Lectures 2014
-
 The British physicist Lyn Evans led the team from 1993 that designed, built and commissioned the LHC particle accelerator at CERN. He is currently a visiting professor at Imperial College in London. His lecture on Thursday will focus on the LHC itself, which is considered to be the most complex research facility ever built.
+
+## Wolfgang Pauli Lectures 2014
 
 The Wolfgang Pauli Lectures, a three-part lecture series, have been held annually since 1962. The lectures, which alternate between the disciplines of physics, mathematics and biology, are a platform for exceptional speakers to present their ground-breaking research. The lecture series is named after the theoretical physicist and Nobel laureate Wolfgang Pauli, who was a professor at ETH Zurich from 1928 until his death in 1958.
 

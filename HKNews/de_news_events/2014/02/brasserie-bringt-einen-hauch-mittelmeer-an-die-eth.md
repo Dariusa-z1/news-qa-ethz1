@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2014/02/brasserie-bringt-einen-hauch-mittelmeer-an-die-eth.html
 
+**Date processed:** 2025-05-01
+
 ## Ein Magnet, der Optimismus ausstrahlt
 
 Die Aussicht auf das Gebiet rund um den Katzensee dürfte künftig das Markenzeichen des bedienten Restaurants werden. Der Pavillon wird direkt auf die Hangkante, die nach Zürich-Affoltern hinunterführt, gesetzt. Er wird aus Holz gebaut und rundum verglast. Der Holzpavillon wird am Nordrand des Campus stehen, am Ende der Wolfgang-Pauli-Strasse.
@@ -10,21 +12,19 @@ Der Pavillon wird in verschiedene Bereiche unterteilt: Wer den Holzbau vom Campu
 
 Eingerichtet wird das Restaurant mit Möbelklassikern des dänischen Architekten und Möbeldesigners Hans Wegner (1914-2007), der für seine Holzstühle bekannt war. Charakteristisch für den Pavillon ist die Verbindung von Holz und Glas sowie die weisse Färbung. Diese lassen das Restaurant – passend zur Aussicht - sehr leicht erscheinen und versprechen der Jury zufolge eine «stimmige mediterrane Atmosphäre» und erinnern ein wenig an eine Brasserie.
 
-## Ersatz für die «Cheminsula»
-
 «Mit dem Pavillon entsteht ein Magnet auf dem Campus, der vor Leichtigkeit sprüht und jenen Optimismus ausstrahlt, den die ETH verkörpert», sagte Drazenka Dragila-Salis, die Direktorin ETH Bauten, am Montagabend an der Vernissage des Projektwettbewerbs im HIL-Gebäude.
 
 Entworfen hat den Pavillon das spanische Büro externe Seite Emilio Tuñón Arquitectos mit der Schweizer Architektin und ETH-Absolventin Marceline Ruckstuhl. Die Jury unter dem Vorsitz von Roman Boutellier, Vizepräsident für Personal und Ressourcen, hat sich einstimmig für ihr Projekt «LA.Brasserie » entschieden. Daran beteiligt sind zudem die Priora Generalunternehmungen und die Hin & Weg Restauration.
 
 Ihr Projekt hat sich in einem Gesamtleistungswettbewerb gegen drei andere Bieterteams durchgesetzt. Das siegreiche Team übernimmt nun im Auftrag der ETH Zürich Planung, Bau und Betriebsführung.
 
-## Ausstellung im HIL
-
 Das neue Pavillon-Restaurant wird die frühere Dozentenmensa «Cheminsula», die Ende 2012 geschlossen wurde, ersetzen. Geplant ist eine Eröffnung zu Semesterbeginn im Herbst 2015. Ausser für Dozierende wird das neue Restaurant auch für Mitarbeitende, Besucher und Studierende geöffnet sein.
 
 Vom Platzangebot her wird das Restaurant 130 Sitzplätze im Gastraum umfassen. Hinzu kommen 20 Sitzplätze im Bar-Bistro-Teil, 30 Sitzplätze im «Private-Dining»-Bereich für geschlossene Gruppen sowie 35 Plätze auf der Terrasse.
 
 Der Pavillon ist ein Teil der Arealstrategie Gastronomie und Detailhandel, mit der die ETH ihr Verpflegungsangebot und die Mensen auf dem Campus umbaut und mit Blick auf die steigende Zahl von Studierenden und Mitarbeitenden erweitert. So wurde zum Beispiel im Februar beim Semesterstart das Restaurant « Fusion meal & coffee » eröffnet.
+
+## Ausstellung im HIL
 
 Die vier Beiträge aus dem Architekturwettbewerb werden vom Dienstag, 25.02.2014 bis Dienstag, 4.03.2014 im Foyer des HIL-Gebäudes auf dem ETH Standort Hönggerberg ausgestellt (Stefano-Franscini-Platz 5).
 

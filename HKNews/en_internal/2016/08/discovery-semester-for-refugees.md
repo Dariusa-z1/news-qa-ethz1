@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2016/08/discovery-semester-for-refugees.html
 
+**Date processed:** 2025-05-01
+
 ## Attending lectures at ETH
 
 The ‘Discovery semester for refugees’ is aimed at asylum seekers and refugees from crisis regions such as Eritrea, Somalia, Afghanistan and Syria, who have started or completed a degree in a technical or scientific field in their home country.
@@ -10,15 +12,11 @@ The programme is designed to offer the refugees an insight into the requirements
 
 The refugees can attend certain lectures at ETH Zurich free of charge for a semester. They will be supported by student mentors from the same subject area.
 
-## Subscribe to Newsletter
-
 To qualify for the programme, refugees must have an interest in technology and science, a sound knowledge of German and/or English (level B1/B2, cf. Common European Framework of Reference for Languages: Learning, Teaching, Assessment CEFR ), and be living in the Zurich region with a B, F or N permit (short-term or provisionally admitted foreigners and asylum seekers).
 
 Refugees are entitled to attend lectures, but are not permitted to take tests and will not receive a participation confirmation. Refugees must meet the ETH Zurich general admission requirements in order to enrol on a course (see Fact Sheet for Refugees (PDF, 98 KB) ).
 
 On a national level, the umbrella organisations for universities and students, swissuniversities and the Association of Swiss Student Bodies VSS , are also focusing on university access for refugees.
-
-## Staffnet
 
 Registration for the discovery semester
 

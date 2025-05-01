@@ -2,7 +2,9 @@
 
 **Source:** de_internal/2024/01/alle-anspruchsgruppen-fruehzeitig-an-bord-holen.html
 
-## Zur Person
+**Date processed:** 2025-05-01
+
+## Main article
 
 Fühlst du dich an der ETH schon zu Hause? Ich bin sehr gut an der ETH angekommen und wurde von allen Seiten herzlich aufgenommen. Das hat mir den Einstieg sehr erleichtert. Inzwischen konnte ich viele Bereiche und Departemente besuchen und viele interessante Gespräche mit Personen aus Lehre, Forschung und Verwaltung führen.
 
@@ -18,8 +20,6 @@ Haben die Sparmassnahmen der ETH Auswirkungen auf die Immobilien und damit auf d
 
 Eine Neuerung unter deiner Leitung ist die Kostenoptimierung durch neue Abwicklungsprozesse. Was bedeutet das? Bei ausgewählten neuen Grossprojekten – wie dem HWS auf dem Hönggerberg – setzen wir auf die integrale Projektabwicklung. Im Vergleich zur konventionellen Projektabwicklung laufen bei dieser Methode viele Prozesse von Anfang an parallel und unter frühzeitigem Einbezug und Mitwirkung der wichtigsten Interessensgruppen. Dies verkürzt die Planungsprozesse, schafft Anreize für alle Beteiligten und fördert die Zusammenarbeit.
 
-## Immer aktuell informiert
-
 Welche Neuerungen gehst du noch an? Das bestehende Priorisierungsverfahren für Raum- und Bauanträge wird ab 2024 geändert. Es wird wieder möglich sein, Raum- und Bauanträge jederzeit einzureichen und nicht nur zu einem Stichtag einmal im Jahr. Dies ermöglicht eine rollende und schnellere Bearbeitung der Anträge, für deren Priorisierung mehrere Budgetkommissionssitzungen pro Jahr stattfinden. Wir versprechen uns davon verschiedene Vorteile, u. a. eine gleichmässigere Auslastung unserer Ressourcen und eine noch engere Zusammenarbeit mit unseren Antragstellenden.
 
 Nachhaltigkeit, und Digitalisierung/BIM werden immer wichtiger. Wo steht die ETH mit ihren Immobilien bei diesen Themen? Die Megatrends Digitalisierung und Kreislaufwirtschaft haben einen grossen Einfluss auf den Immobilienbereich. Gemeinsam mit unseren Kolleginnen und Kollegen innerhalb des Vizepräsidiums für Infrastruktur arbeiten wir an diesen Themen. Unsere Vision ist ein «Digitaler Campus», also ein digitaler Zwilling unserer Infrastruktur als zentrale Plattform für Gebäudeinformationen. Die daraus gewonnenen Daten dienen als Grundlage für alle Prozesse – von der Bestellung neuer Infrastrukturen bis zum Abriss bestehender Infrastruktur. Das digitale Wissen über die Struktur unserer Gebäude ermöglicht effiziente Lösungen: Sei es die Simulation der bestmöglichen Energieversorgung oder die Wiederverwendung bestehender Bauteile im Sinne des Kreislaufgedankens.
@@ -29,6 +29,8 @@ Nachhaltig ist auch die gemeinsame Nutzung von Büroarbeitsplätzen, Laboren ode
 Die Anforderungen an die Abteilung Immobilien sind vielfältig: Welche Fragen/Wünsche hörst du von den Departementen am häufigsten? Unsere Mitarbeiterinnen und Mitarbeiter werden von Departementen sehr geschätzt – das ist mein Eindruck aus verschiedenen Rückmeldungen. Der Wunsch, noch enger mit ihnen zusammen zu arbeiten, ist der häufigste Wunsch, den ich in meinem ersten Jahr gehört habe. Natürlich wünschen wir uns einen noch engeren Austausch, den wir unter anderem mit dem neuen Priorisierungsprozess fördern.
 
 Wie erholst du dich von all den Herausforderungen? Meine beiden kleinen Töchter sorgen für genügend Abwechslung und dafür, dass ich auch privat nicht einroste. Ausserdem fahre ich gerne Motorrad und Ski.
+
+## Zur Person
 
 Hannes Pichler ist dipl. Masch.-Ing. ETH, hat einen MBA HSG und hat im Herbst 2023 einen MAS in Immobilien-Management abgeschlossen. Seit Februar 2023 leitet er die Abteilung Immobilien der ETH Zürich. Zuvor verantwortete er bei der Empa seit 2012 als Leiter Immobilien das Portfolio der Forschungsanstalten des ETH-Bereichs. 2006 bis 2012 war er bei der Firma Holcim im Industrie- und Anlagenbau tätig.
 

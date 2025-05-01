@@ -2,7 +2,9 @@
 
 **Source:** de_internal/2019/01/nicht-reklamieren-kooperieren.html
 
-## Zu den Personen
+**Date processed:** 2025-05-01
+
+## Main article
 
 André Blanchard, hat es Sie in den über elf Jahren als PeKo-Präsident nie gestört, dass man von der Personalkommission ETH-intern kaum etwas mitbekommt?
 
@@ -14,8 +16,6 @@ CS: Ja. Ich finde, die PeKo soll weiterhin Partnerin sowohl der Mitarbeitenden w
 
 André Blanchard, auf welche Verbesserungen, die Sie mit der PeKo angestossen haben, sind Sie stolz?
 
-## Staffnet
-
 AB: Wir haben es geschafft, dass die Wertschätzung des technisch-administrativen Personals nicht nur diskutiert wird, sondern in konkrete Massnahmen mündet. So ist das Personalfest nicht mehr aus dem ETH-Kalender wegzudenken. Auch das Sabbatical for Staff wurde dadurch ermöglicht. Weiter haben wir dazu beigetragen, dass Personalgespräche und Arbeitszeugnisse heute ein ‘must’ sind. Und: Wir haben uns mit Erfolg dafür stark gemacht, befristete Stellen für Infrastrukturpersonal zunehmend in Festanstellungen umzuwandeln.
 
 Gab es auch Misserfolge?
@@ -26,8 +26,6 @@ In den letzten Monaten wurden Vorwürfe über einzelne Fälle von Machtmissbrauc
 
 AB: Wir sind eine mögliche erste Anlaufstelle. Wo technisch-administratives Personal betroffen ist, hören wir zu, beraten und leiten Meldungen, wenn gewünscht, an die zuständige Stelle weiter. Übrigens: Dass die Inhaber der Ombudsstelle mittlerweile nicht nur aus der Professorenschaft, sondern auch aus dem Personal stammen, hat ebenfalls die PeKo initiiert.
 
-## Newsletter abonnieren
-
 CS: Missbrauch und Übergriffe können leider überall passieren. Professorinnen und Professoren brauchen Eigenständigkeit, sie ist ein Schlüssel zum Erfolg. Doch ethische Grundsätze gelten selbstverständlich für alle. Wenn wir nun Massnahmen entwickeln, um die Führungskultur weiter zu verbessern, ist es wichtig für die ETH, dass Studierende, Doktorierende, Personal und Professorenschaft gemeinsam Lösungen erarbeiten.
 
 Herr Sauder, was wollen Sie als «oberster ETH-Mitarbeiter» für das Personal erreichen?
@@ -37,6 +35,8 @@ CS: Ein wichtiges Ziel ist, die zum Teil hohen Hürden für die Entwicklung des 
 Herr Blanchard, welche drei Tipps geben Sie ihrem Nachfolger mit auf den Weg?
 
 AB: Nimm in dieser Funktion nichts persönlich. Bewahre die Geduld; es gilt an der ETH öfter dicke Bretter zu bohren. Und: Behalte ein einmal gefasstes Ziel im Auge; es lohnt sich!
+
+## Zu den Personen
 
 André Blanchard ist technischer Mitarbeiter am Institut für Geophysik und beim Schweizerischen Erdbebendienst. Er trat vor 42 Jahren als Lehrling in die ETH Zürich ein. Von 2007 bis 2018 war er Präsident der PeKo. Christopher Sauder Engeler ist seit 2001 an der ETH und Verantwortlicher für Videokonferenzen bei den Multimedia Services. Seit Sommer 2018 ist er Präsident der PeKo.
 

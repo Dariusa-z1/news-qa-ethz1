@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2018/12/algorithms-take-the-wheel.html
 
+**Date processed:** 2025-05-01
+
 ## Rethinking urban mobility
 
 The future of mobility is measured in milestones: this February, Google subsidiary Waymo announced that its fleet of self-driving cars had covered over 8 million kilometres on public roads. This came shortly after Uber’s announcement that it had completed 3 million kilometres of autonomous driving. If industry has its way, then we will soon be sharing all our streets with vehicles controlled by algorithms instead of drivers. But is that a realistic scenario? Or simply a rose-tinted vision of a tech-driven future?
@@ -10,23 +12,19 @@ We asked one of the leading experts in this field, Italian researcher Emilio Fra
 
 Before joining ETH, Frazzoli spent ten years as a professor at the prestig- ious MIT in Boston. Autonomous systems – initially aircraft and drones – were the focus of his work right from the start. “The technical side of that was generally pretty cool, but it wasn’t really doing much to help solve the challenges society is facing.” In 2009, he found himself pondering a fundamental question: “Back then, the main argument for conducting research into self-driving cars was the idea that they would make road traffic safer.” While acknowledging the truth of that statement, at least in the long term, Frazzoli realised there was potentially a much larger, medium-term benefit to be gained from completely rethinking the issue of individual mobility for city dwellers.
 
-## Globe - Smart mobility
-
 “The goal of my research group is a form of mobility that combines the convenience of a private car with the sustainability of public transport.” In other words, a kind of Uber, but driverless and therefore much more economical and available. Plus – thanks to electrification and better capacity utilisation – a solution that offers significantly lower energy consumption and CO 2 emissions. Right now, people use private cars, on average, just 5 percent of the time, which means the cars spend the remaining 95 percent of the time standing idle in car parks and garages or on the street. This makes no sense in terms of sustainability, urban development or resource efficiency.
 
 Frazzoli’s start-up NuTonomy, which develops control software for autonomous vehicles, began drawing up plans to test self-driving cars in Singapore back in 2014. At around the same time, the professor published an article in which he investigated how replacing all the private vehicles in the 719-square-kilometre city-state with shared, self-driving vehicles would affect traffic volumes. His results showed that the mobility needs of Singapore’s entire population could be met with some 40 percent of the vehicles (350,000 instead of 800,000).
 
 One year later, Prime Minister Lee Hsien Loong unveiled his vision of a “car-lite future” based on autonomous vehicles, the expansion of public transport and the fostering of slow traffic such as walking and cycling. With 5.5 million inhabitants and a population density of 7,697 people per square kilometre – compared with Switzerland’s figure of 203 – Singapore is more dependent on efficient transport than any other major metropolitan area.
 
-## Simulating transformation
-
 That is why Singapore has spent years trying to crack down on demand for private cars by imposing high taxes and charging up to 70,000 dollars for the certificates of entitlement required to own a vehicle. More than ten companies are current- ly testing their systems in a 2-hectare test facility at Nanyang Technological University in the western part of Singapore Island. And plans are already in place to operate the first self- driving buses outside rush hours in three of the city’s suburbs starting in 2022.
+
+## Simulating transformation
 
 Pieter Fourie’s “laboratory” is located in the western part of Singapore. He works in a sunlit office on the sixth floor of the CREATE Tower, a building encased in vertical foliage at the National University of Singapore (NUS). Here, he conducts research into the cities of the future on behalf of ETH Zurich’s Future Cities Laboratory. Fourie heads up the Engaging Mobility project, which brought together government authorities and universities at a preliminary workshop in July 2017. The goal was to define the basic conditions required to implement city-wide, on-demand mobility using autonomous cars and buses.
 
 The researchers used the results of the workshop to formulate key research questions such as: What do we do with the current supply of parking spaces if the majority of vehicles are constantly on the road? Do we need to redefine the layout of our roads? And what effect will auto- mated, electrified transport have on existing public transport, energy requirements and safety?
-
-## Decision-making dilemmas
 
 Fourie explores these and similar issues using the MATSim simulation platform developed by a group led by Professor Kay Axhausen at ETH Zurich’s Institute for Transport Planning and Systems. MATSim is agent-based, which means the simulation is driven by the behaviour of individual agents rather than by overarching rules. “On the basis of Singapore’s most recent demographics, we are modelling a synthetic population that is as close as possible to the real one,” Fourie says.
 

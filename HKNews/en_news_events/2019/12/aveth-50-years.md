@@ -2,19 +2,17 @@
 
 **Source:** en_news_events/2019/12/aveth-50-years.html
 
+**Date processed:** 2025-05-01
+
 ## Focus on doctoral supervision
 
 What began as a tentative idea has evolved over the past 50 years to become a mainstay of the university: the Academic Association of Scientific Staff at ETH Zurich (AVETH) includes representatives from all academic departments as well as the Singapore-ETH Centre. It represents the interests of doctoral students, post-docs and scientific staff in the University Assembly and on a number of university commissions. The organisation currently has 2,300 members. This is equivalent to one- third of the approximately 6,000 scientific staff, the majority of whom (some 4,000) are doctoral students. “Our membership figures are very high compared to other universities,” says Martin Roszkowski, AVETH President since 2017.
 
 The association offers concrete assistance and represents the scientific staff’s interests in university policymaking. Roszkowski cites the example of a practice that some individual professors introduced a few years ago of establishing part-time positions for post-docs due to budget constraints. AVETH strongly opposed this practice and successfully fought off an alternative proposal to introduce a pay gradation scheme instead of part-time positions to cut costs.
 
-## Reassessing the doctorate
-
 AVETH’s broad-based representation and popularity at the university is based on tens of thousands of hours of voluntary work and specific services. The association holds information events to welcome new doctoral students, post-docs and academic staff. AVETH representatives from the academic departments get in touch with new arrivals personally, providing useful information on life at ETH. The AVETH website offers a survival guide for doctoral students, providing advice and targeted assistance for the doctoral studies process, which can be a challenging time. Some 30 years ago, the AVETH offshoot Telejob laid the foundations for the online job platform “ETH get hired”. And this year, to celebrate its 50th anniversary, AVETH organised a series of workshops and takeaway talks.
 
 One of the services AVETH members use a lot is counselling. Scientific staff can turn to the organisation for confidential assistance regarding any concerns they may have about their employment or difficulties in their private life. AVETH members provide advice or enlist the help of experts for situations such as conflict de-escalation or the need to prepare for a difficult discussion. The most frequent reason doctoral students turn to the counselling service is to resolve conflicts with their supervisors, says Roszkowski.
-
-## Globe Magazine
 
 In 2017, this prompted AVETH to launch a study into the quality of doctoral student supervision at ETH. The results made a major impact when they were published in April 2018. Sixty-two percent of the almost 1,600 respondents said they were generally satisfied with their supervision. Yet almost a quarter of the respondents said their supervisor had abused their position of authority.
 

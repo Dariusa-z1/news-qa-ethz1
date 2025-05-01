@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2014/11/26-november-tag-der-forschung.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Dann besuchen Sie den Stand der ETH-Bibliothek und lassen sich von unseren Fachpersonen beraten:

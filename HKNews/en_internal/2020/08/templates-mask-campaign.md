@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2020/08/templates-mask-campaign.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 From Monday, August 24, it will be "Mask on!" for everyone who is on the move in ETH Zurich buildings. This is to keep the risk of infection on campus as low as possible in view of the continuing high number of cases.

@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2015/03/asvz-ab-mai-2015-mit-online-schalter-fuer-kurse-und-lager.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Der Ansturm auf die ASVZ-Schalter ist bei Anmeldebeginnen von Kursen und Lagern jeweils gross: Interessierte warten bereits lange vor Schalteröffnung in den Sport Centern, um einen der beliebten Plätze zu ergattern. In der Polyterrasse wurde in den letzten Jahren deshalb ein Ticket-System à la Post oder SBB eingeführt, damit ein fairer Ablauf gewährleistet werden kann.

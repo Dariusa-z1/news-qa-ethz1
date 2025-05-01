@@ -2,15 +2,16 @@
 
 **Source:** en_internal/2022/01/mit-astrorara-himmelserscheinungen-interaktiv-erleben.html
 
+**Date processed:** 2025-05-01
+
 ## Experience historical astronomy
-
-With the AstroRara web app, you can discover and interactively experience not one but three historic works. Explore the magical-seeming world of astronomy, fascinatingly visualised and supplemented with exciting background information on the respective author and work, and vividly brought to life via animations and touch functionality.
-
-## Subscribe to Newsletter
 
 Use AstroRara to learn more about the following topics:
 
-## Staffnet
+• Eclipses : In his “Theoricae novae planetarum” (1472), Georg von Peuerbach (1423–1461) set down crucial insights into planetary motion. You can set up interactive lunar and solar eclipses with the slider and compare the depicted positions of the Earth, Moon and Sun with the illustrations in the incunabulum.
+• Retrograde motion : In his “Atlas Novus Coelestis” (1742), the German astronomer Johann Gabriel Doppelmayr (1677–1750) published numerous astronomical and cosmographic copperplate engravings. These include the retrograde motion observed from the Earth when the faster-moving Venus overtakes the Earth on the inside.
+• Comet tail : “Astronomicum Cæsareum” is regarded as one of the most beautiful astronomical books of the Renaissance. It was printed in the print shop of Peter Apian (1495–1552) in 1540. From August 1531, the mathematician and cartographer observed the motion of the bright comet later known as Halley’s Comet, illustrating that comets’ tails are always facing away from the sun.
+With the AstroRara web app, you can discover and interactively experience not one but three historic works. Explore the magical-seeming world of astronomy, fascinatingly visualised and supplemented with exciting background information on the respective author and work, and vividly brought to life via animations and touch functionality.
 
 AstroRara is a service provided by the ETH Library that can be used on mobile devices and desktop computers. Have you always wanted to know more about the models and the phenomena observed in the night sky? AstroRara lets you do more than just view the historical works of famous astronomers – it allows you experience them interactively.
 

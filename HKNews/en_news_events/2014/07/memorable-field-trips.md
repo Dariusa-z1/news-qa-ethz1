@@ -2,25 +2,23 @@
 
 **Source:** en_news_events/2014/07/memorable-field-trips.html
 
+**Date processed:** 2025-05-01
+
 ## Learning with all five senses
 
 In mid-July, Davos is wet, cold and uncomfortable. At 2,000 metres above sea level, there’s nothing but snow. But that doesn’t stop a dozen students, assistants and three professors from the Department of Environmental Systems Science (D-USYS) from embarking on a field trip. ‘Soils and Vegetation of the Alps’ is the subject – but the weather forces them to change the programme. Instead of plants beyond the treeline, the students will study the soil profiles and vegetation below it: a spruce forest on acidic, nutrient-poor ‘podzol’ and a pine forest on serpentinite rock.
 
 While the group listens to Matthias Baltisberger, professor of geobotany at ETH, many students have an eureka experience: the many seedlings of a mountain pine, which protrude from the serpentinite rubble alongside the mother tree; the debris that was carried into the valley by a mudslide a few years ago and now gives way beneath each step; the continuous rainfall, which can trigger such mudslides – the various impressions condense and become etched in the memory.
 
-## Break from the normal study routine
-
 This is one of the reasons why field trips are so important in many departments at ETH Zurich. Whether they’re studying agricultural, food or earth sciences, architecture, mechanical and civil engineering, study field trips are as popular as ever among students. They range from tours of the Gontenbad mineral water plant in Appenzell to week-long seminars at the Singapore-ETH Centre in Singapore. For participants, field trips are the highlights of the course.
 
 ‘Going on a field trip’ may sound like an old-fashioned or antiquated concept, but for botanist Baltisberger, they are simply the best method of teaching students about plants and their ecology. “There is no other teaching format that enables students to absorb so much material so easily. Study field trips are – quite literally – an impressive teaching method.” Baltisberger sees field trips as “our most valuable lesson time”. They allow the theoretical content taught in lectures to be demonstrated and applied in a hands-on environment. No other teaching method allows the course material to be experienced with all five senses: “Plants can be seen in their natural environments. The students can smell, touch, chew or even eat them. And some species even have acoustic properties.”
-
-## Good and bad field trips
 
 This opinion is shared by another member of the Davos field trip group, Ruben Kretzschmar, professor of soil chemistry at D-USYS: “Seeing pictures of soil profiles in lectures is simply not the same as studying them in the field, where the information is remembered more easily.” A field trip brings the abstract material from a lecture to life.
 
 Environmental Engineering student Matthias Gmür is fixing the characteristics of grass in his memory.
 
-## Time and personnel-intensive
+## Good and bad field trips
 
 Students also appreciate the value of study field trips. Environmental engineering student Matthias Gmür is taking ‘Flora, Vegetation and Soil of the Alps’ as an optional module on his Master’s course. He has already been on several field trips on different topics, “from visiting a construction site to this one about Alpine flora”. He sees field trips as a good opportunity to take a break from the normal study routine and learn things in a different, more memorable manner.
 

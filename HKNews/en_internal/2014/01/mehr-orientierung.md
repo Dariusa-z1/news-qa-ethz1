@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2014/01/mehr-orientierung.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Right now, student life at ETH is revolving around one thing: the upcoming exams. While others are enjoying themselves on the ski slopes, the ETH libraries are full to bursting until late in the evenings, nervous students arriving for exams can be found on the Hönggerberg piazza at hourly intervals, and coffee consumption on the ETH campuses probably reaches record level towards the end of January.
@@ -21,6 +23,8 @@ Naturally, the implementation of such a project would take a while and cost a lo
 No matter whether this project is implemented soon or someday in the remote future, I hope the MoEB students arriving in spring will have an informative introduction day. I wish them lots of strength, stamina and success settling into the student life at ETH and hope that they will feel a part of it in some way. For – and I speak from personal experience – this feeling of belonging makes studying a fulfilling pursuit that gives you the courage to look beyond your horizon, lets you make the most of the opportunities that ETH offers, and finally gives you what you are here to get: an excellent education, not just in your field of study but in all aspects of life.
 
 Julia Wysling
+
+## About the author
 
 In November 2013, Julia Wysling was elected President of VSETH by the Council of Members, the highest body in the Student Association VSETH. She was born in Zurich in 1990 and grew up in Zurich, Vienna and most recently in Uster. Having successfully completed her studies at the Kantonsschule Rämibühl, which included an exchange year in Australia, she has been studying mathematics at ETH Zurich since 2009. Julia had previously already played an active part in the Mathematicians’ and Physicists’ Association (VMP), in various VSETH committees and in the SoNaFe/WiNaFe Association, which organises the summer and winter end-of-semester parties at ETH Zurich. One aspect of her work in VSETH, which she finds particularly fascinating, is how the students’ political representation influences the range of services on offer. In her free time, Julia spends her time training for a triathlon.
 

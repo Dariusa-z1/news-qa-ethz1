@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2017/07/central-construction-site.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Central is undergoing a comprehensive renovation between April and November: tram lines are being replaced, the tram islands extended and new roofs installed. The area will also be made safer for pedestrians and cyclists.

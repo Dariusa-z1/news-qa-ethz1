@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2019/09/neue-professoren-ernannt.html
 
-## Verleihung des Titels «Professor»
+**Date processed:** 2025-05-01
+
+## Main article
 
 Alle vom ETH-Rat auf Antrag von ETH-Präsident Joël Mesot ernannten, respektive beförderten Persönlichkeiten haben sich auf ihrem Gebiet bereits einen Namen gemacht.
 
@@ -18,8 +20,6 @@ Prof. Dr. Dennis Hofheinz (*1979), zurzeit ordentlicher Professor am Karlsruher 
 
 Prof. Dr. Gabriela Hug (*1979), zurzeit ausserordentliche Professorin an der ETH Zürich, zur ordentlichen Professorin für Elektrische Energieübertragung. Gabriela Hug ist eine international viel beachtete und preisgekrönte Wissenschaftlerin. Ihr Arbeitsgebiet liegt im Entwurf und in der Optimierung von zukünftigen Energienetzen. Ihre Stossrichtung ist, erneuerbare Energien in die Energienetze zu integrieren und damit den schrittweisen Ausstieg aus der fossilen Energieversorgung zu unterstützen. Die optimale Regelung der Netzführung strebt sie mit Hilfe von verteilten, dezentralen Reglerkonzepten an. Ihr starker Praxisbezug wird durch namhafte Industriepartnerschaften dokumentiert. Mit der Ernennung von Gabriela Hug zur ordentlichen Professorin sichert sich die ETH Zürich eine überaus innovative und produktive Wissenschaftlerin mit grossem Potential.
 
-## Verabschiedungen
-
 Prof. Dr. Giacomo Indiveri (*1967), zurzeit ausserordentlicher Professor an der Universität Zürich, zum ausserordentlichen Professor für Neuromorphische Kognitive Systeme. Giacomo Indiveri erforscht die natürlichen neuronalen Strukturen und Prozesse im Gehirn, um sie künstlich nachzubilden und in den Computerwissenschaften einzusetzen. Sein Ziel ist, anhand neuromorpher Prinzipien sogenannte autonome kognitive Systeme aufzubauen, wie beispielsweise ein Cochlea-Implantat, also eine Hörprothese für Gehörlose. Giacomo Indiveris Beiträge wurden bereits zweimal mit ERC Grants gewürdigt. Mit seiner Berufung zum Doppelprofessor stärkt die ETH Zürich ihre Kompetenzen auf dem Gebiet des Neuromorphic Engineering und vertieft die Zusammenarbeit mit der Universität Zürich.
 
 Prof. Dr. Christoph Müller (*1978), zurzeit ausserordentlicher Professor an der ETH Zürich, zum ordentlichen Professor für Energiewissenschaft und Engineering. Christoph Müller ist ein international sichtbarer und sowohl in der Fachwelt als auch innerhalb der ETH Zürich sehr gut vernetzter Wissenschaftler, der 2018 einen ERC Consolidator Grant erhalten hat. Er beschäftigt sich mit Forschungsproblemen an der Schnittstelle zwischen Maschinen- und Chemieingenieurwissenschaften mit dem Ziel, neue Verfahren der Energieumwandlung mit massiv reduziertem CO 2 -Ausstoss zu entwickeln. Dabei hat er sowohl numerische als auch experimentelle Methoden erfolgreich weiterentwickelt. Mit der Ernennung von Christoph Müller zum ordentlichen Professor sichert sich die ETH Zürich einen brillanten Wissenschaftler mit hohem Engagement für die Entwicklung der Hochschule.
@@ -28,7 +28,11 @@ Prof. Dr. Romain Quidant (*1975), zurzeit Professor am Institute of Photonic Sci
 
 Prof. Dr. Konrad Tiefenbacher (*1980), zurzeit ausserordentlicher Professor an der Universität Basel und am Departement Biosysteme der ETH Zürich, zum ausserordentlichen Professor für Synthese von Funktionellen Modulen (Doppelprofessur mit der Universität Basel). Konrad Tiefenbachers Forschungsfokus im Bereich selbstorganisierter katalytisch aktiver molekularer Kapseln befasst sich mit einem sehr anspruchsvollen supramolekularen Thema an der Schnittstelle zwischen organischer Chemie und Biochemie. Die hervorragende Qualität und Originalität seiner Forschung hat Konrad Tiefenbacher unter anderem durch das Einwerben eines ERC Starting Grants unter Beweis gestellt. Mit seiner Ernennung zum ausserordentlichen Professor stärkt die ETH Zürich ihr Profil in einem zukunftsweisenden Bereich.
 
+## Verleihung des Titels «Professor»
+
 Dr. Jürg Schweizer (*1960), zurzeit Leiter des WSL-Instituts für Schnee- und Lawinenforschung in Davos, und Lehrbeauftragter an der ETH Zürich, zum Titularprofessor der ETH Zürich. Jürg Schweizer ist einer der weltweit führenden Forscher im Bereich der Schneemechanik, der Lawinenkunde und der Lawinenrettung. Er ist national und international bestens vernetzt und engagiert sich stark in verschiedenen wissenschaftlichen internationalen und nationalen Gremien. Seine Lehrtätigkeit an der ETH Zürich wird von den Studierenden konstant als sehr gut bewertet.
+
+## Verabschiedungen
 
 Prof. Dr. Marc Angélil (*1954), zurzeit ordentlicher Professor für Architektur und Entwurf, trat Ende Juli 2019 in den Ruhestand. Marc Angélil kam 1994 an die ETH Zürich und wurde 1997 auf seine heutige Stelle berufen. Sein Forschungsinteresse gilt den Entwicklungen im Städtebau und sozial-räumlichen Strukturen, die er in grossstädtische Regionen in Europa, Asien und den USA untersucht. Die Erarbeitung von Strategien zur Unterstützung nachhaltiger Stadtentwicklungsprozesse steht dabei im Vordergrund. Für die ETH Zürich wie auch sein Departement hat er sich immer mit grossem Engagement eingesetzt und prägend in unterschiedlichen Rollen und Funktionen agiert. Neben seiner erfolgreichen akademischen Tätigkeit arbeitet er als Architekt und führt zusammen mit zwei Partnern ein Architekturbüro mit Sitzen in Los Angeles und Zürich.
 

@@ -2,19 +2,19 @@
 
 **Source:** en_news_events/2014/12/handing-over-the-baton.html
 
-## Facing up to problems with courage
+**Date processed:** 2025-05-01
+
+## Main article
 
 The drinks reception held on Monday evening was an impressive occasion, with guests filling the entire ASVZ Polyterrasse sports hall. Several cameras were filming throughout the evening, so anyone who couldn’t secure a spot on the front row could watch events unfold on the two large screens provided. The ETH Big Band stirred up a great atmosphere, while Professor Gerd Folkers introduced the speeches with aplomb as MC for the night.
 
 “I often say that ETH is governed by drinks receptions,” said Ralph Eichler by way of introduction. “So today is my last act as head of government.” In his speech, the departing President of ETH Zurich highlighted ETH’s achievements during his seven-year term, including the university’s improved performance in rankings, new professorships and degree programmes, student projects such as the Sepios nautical robot or the Grimsel electric racing car, the establishment of the Singapore-ETH Centre including the launch of a second research project and the example ETH has set in terms of balancing work and family life, environmental issues and ethics.
 
-## Handing over the baton
+## Facing up to problems with courage
 
 Professor Eichler also praised ETH’s cooperation with the University of Zurich, which proved particularly effective in implementing projects such as the “Hochschulmedizin” initiative or the “Wyss Translational Center Zurich”, a newly established research institute.
 
 He also mentioned the sports competition held by ETH and the University of Zurich to mark the anniversary of the Academic Sports Association Zurich (ASVZ): “Of course – who won?” he pointed out with a smile. “Perhaps we’d better not say that too loudly.”
-
-## Don't miss the latest news
 
 Fritz Schiesser, President of the ETH Board, gave a speech in which he credited Ralph Eichler with bringing stability back to ETH Zurich and facing up to problems with courage, even when he first took up his post as President back in 2007. He added that the presidential role would now be going to a “seasoned expert in ETH and a proven leader” in Lino Guzzella.
 

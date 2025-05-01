@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2017/12/ten-professors-appointed.html
 
+**Date processed:** 2025-05-01
+
 ## Appointments at ETH Zurich
 
 In response to the proposals received from the President of ETH Zurich, Professor Lino Guzzella, the ETH Board resolved at its meeting of 13/14 December 2017 to appoint a total of 10 professors and award the title of professor to four individuals.
@@ -18,13 +20,13 @@ Professor Dirk Mohr (*1976), currently Tenure Track Assistant Professor at ETH Z
 
 Dr Rafael Polania (*1983), currently a post-doctoral student at the University of Zurich, as Assistant Professor of Decision Neuroscience. Rafael Polania investigates how the human brain makes decisions and turns them into targeted action. His highly interdisciplinary approach combines modelling neural processes and behaviour with modern imaging techniques and non-invasive brain stimulation. This allows him to affect neural communication within the brain in a targeted manner and explore its impact on human behaviour. Rafael Polania’s research was awarded an ERC Starting Grant this year. His appointment enables ETH Zurich to strengthen human research, among other disciplines.
 
-## Award of the title of Professor
-
 Dr Lesya Shchutska (*1985), currently Research Associate at ETH Zurich, as Assistant Professor of Experimental Particle Physics. Lesya Shchutska is an internationally recognised young scientist who received an ERC Starting Grant in 2017. Her research focuses on searching for physical phenomena beyond the standard model of particle physics. She makes use of data recorded by the CMS experiment at the CERN Large Hadron Collider (LHC) in Geneva. Lesya Shchutska is one of the world's leading experts in the search for supersymmetric particles. ETH Zurich has appointed her with a view to enhancing its leading role in experimental high-energy physics.
 
 Professor Olga Sorkine Hornung (*1981), currently Associate Professor at ETH Zurich, as Full Professor of Computer Science. Olga Sorkine is internationally regarded as a leading scientist in the field of geometric modelling and digital geometry processing. One of her main areas of research is the interactive modelling of surfaces, which plays a significant role in many areas of application for computer graphics. She has obtained crucial research results in this field. At present she is also working on digital fabrication and 3D printing techniques in computer design. Olga Sorkine’s results have won a number of awards, including an ERC Starting Grant in 2012.
 
 Professor Alexander Stremitzer (*1974), currently Professor at the University of California, Los Angeles, USA, as Full Professor of Law, Economics, and Business. Alexander Stremitzer is one of the world's leading experts in the application of experimental methods to legal questions. He uses mathematical models to develop hypotheses regarding the interaction between business partners in contractual, liability and bankruptcy law and examines their validity in social science laboratories. His work incorporates findings from law, economics and the behavioural sciences. The appointment of Alexander Stremitzer reinforces the international position of the Center for Law & Economics at ETH Zurich.
+
+## Award of the title of Professor
 
 Professor Zhendong Su (*1970), currently Professor at the University of California, Davis, USA, as Full Professor of Computer Science. Zhendong Su is a leading international expert in software engineering and programming languages. He has made substantial contributions in many key areas of computer science. These include developing innovative test methods for compilers – the most important software development tool. He is also noted for test and analysis techniques which improve the security of web applications. The appointment of Zhendong Su ideally strengthens the Department of Computer Science’s research and teaching in the field of software engineering and programming languages.
 

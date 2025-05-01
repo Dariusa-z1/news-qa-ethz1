@@ -2,27 +2,19 @@
 
 **Source:** en_internal/2022/01/a-new-framework-for-scientific-integrity-and-good-scientific-practice.html
 
+**Date processed:** 2025-05-01
+
 ## Clear expectations, light-touch regulation
 
 Scientific integrity and good scientific practice denote an exemplary attitude and behaviour that guides the daily work of researchers and scholars, affecting also the way they interact with one another. This is essential because the scientific community, along with business and society, requires confidence that scientific results have been produced in an honest, transparent, traceable and reproducible way.
 
-## Transparent appraisal of potential conflicts of interest
-
 First issued in 2008, the ETH Zurich Guidelines on scientific integrity (Integrity Guidelines, RSETHZ 414) were thoroughly revised last year. The new Code of conduct for scientific integrity , published in May 2021 by the Swiss Academies of Arts and Sciences, formed the basis for this comprehensive revision. Scientific integrity rests upon the four fundamental principles of reliability, honesty, respect and responsibility. The new Integrity Guidelines clarify the meaning of the basic principles for various aspects of scientific activity.
-
-## Workable principles to govern publication
 
 The Integrity Guidelines apply to all members of the ETH community engaged in scientific activity, whether in teaching or research. The guidelines are valid for all disciplines and may, if required, be further elaborated so as to meet the requirements of specific disciplines. The Executive Board of ETH Zurich approved the revised guidelines in early December. They will take effect as of 1 January 2022.
 
-## Next steps: Awareness campaigns, training programmes
-
 “With the Integrity Guidelines, we as the ETH scientific community have laid down the standards that should govern our teaching and research activities, and we have done this in order to strengthen confidence in our scientific work and results,” says Nicolas Gruber, Professor of Environmental Physics (D-USYS). Gruber is President of the Commission for Good Scientific Practice (GSP Commission), the body that led the comprehensive review of the Integrity Guidelines as well as the accompanying internal consultation process.
 
-## Subscribe to Newsletter
-
 Characteristic of the new Integrity Guidelines is their focus on fundamentals and their use of a non‑prescriptive approach, which describes what ought to be done rather than listing what should not. There is little concrete elaboration with regard to specific disciplines. “The Integrity Guidelines provide a guide of conduct, not a set of regulations. They offer practical guidance for everyday situations and are designed to be preventive,” Gruber explains. “They determine what constitutes scientific integrity but refrain from prescribing, down to the very last detail, what may or may not be done.”
-
-## Staffnet
 
 “Feedback from the internal consultation process indicated that the new Integrity Guidelines are overall an improvement over the previous version. Many of the comments also expressed a wish for guidance, prevention and light-touch regulation,” he adds. The Commission discussed the main points of the comments in depth and subsequently made various cuts and clarifications.
 

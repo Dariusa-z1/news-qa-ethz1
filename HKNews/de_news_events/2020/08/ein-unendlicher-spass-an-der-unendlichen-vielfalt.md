@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2020/08/ein-unendlicher-spass-an-der-unendlichen-vielfalt.html
 
+**Date processed:** 2025-05-01
+
 ## Aus der Vielfalt heraus das Unendliche eingrenzen
 
 Zu den erstaunlichsten Erkenntnissen der Mathematik gehört die Entdeckung, dass es verschiedene Arten von Unendlichkeiten gibt – und es war lange ein offenes Problem, ob gewisse dieser Unendlichkeiten widerspruchsfrei verschieden gross sein können.
@@ -20,8 +22,6 @@ Wie alle mathematischen Theorien baut die genannte Mengenlehre auf Axiomen auf. 
 
 Die Kontinuumshypothese und die Frage, wie viele Arten von Unendlichkeit sich finden lassen, beschäftigt die Mathematik bis heute, wobei sich die Ansätze je nach philosophischer Haltung unterscheiden: So versuchen Mengentheoretiker wie Hugh Woodin, der Gastredner der Bernays Lectures 2016 , die Kontinuumshypothese doch noch zu widerlegen oder zu beweisen, indem sie die ZFC-​Axiome mit neuen erweitern. Woodin folgt dabei seiner Überzeugung, dass es nur ein «richtiges» Modell der Mengelenlehre geben kann.
 
-## Paul Bernays Vorlesungen 2020
-
 Einen anderen, etwas «verspielteren» Ansatz verfolgt Saharon Shelah, von dem man erzählt, er liebe es, anspruchsvolle Probleme zu lösen, und der von sich selbst sagt, seine mathematikphilosophische Position sei der Hedonismus: «Mathematik macht Spass!» Shelah fragt sich weniger, ob die Kontinuumshypothese unlösbar sei, sondern er sagt sich umgekehrt, wenn sie so oder so keine Widersprüche zu den Axiomen der Mathematik auslöst, dann ist man frei davon auszugehen, dass sie nicht gilt, und anschliessend zu untersuchen, ob es zusätzliche Arten von Unendlichkeit gibt. Im Prinzip könnte es zwischen der abzählbaren Unendlichkeit und dem Kontinuum unendlich viele Unendlichkeiten geben.
 
 Einige lassen sich ausschliessen: «Für unendliche Mengen ist jede erdenkliche Grösse möglich, die keinen Widerspruch zu den ZFC-Axiomen auslöst», sagt Lorenz Halbeisen, Privatdozent und Logiker der ETH Zürich, der mit Shelah geforscht hat. Dafür hat Shelah die so genannte Proper Forcing-Technik entwickelt. Mit dieser Methode lässt sich die ZFC-Mengenlehre um neue unendliche Mengen erweitern, und man kann sehr verschiedene Modelle von ZFC konstruieren, um damit gewisse Aussagen zu überprüfen. «Mit dieser Technik kann man sehr gut angeben, was in einem Modell jeweils möglich ist und welche Grössen man für unendliche Mengen ausschliessen kann», sagt Halbeisen.
@@ -36,9 +36,9 @@ In dem eingangs erwähnten Beweis erweiterten Shelah und seine Wiener Kollegen Z
 
 «Der Nachweis, dass zehn Unendlichkeiten im Cichoń-Diagramm verschieden sein können, ist nicht nur bahnbrechend, sondern auch typisch für Shelah», sagt Halbeisen, «er betrachtet mathematische Sachverhalte total unvoreingenommen und sieht höchst erstaunliche Zusammenhänge. Dabei ist sein Gespür für mögliche Lösungen untrüglich.» «Shelahs Entdeckungen wurden bisher philosophisch noch wenig bedacht, sie dürften jedoch zu höchst spannenden, neuen mathematisch-philosophischen Einsichten führen», schliesst Giovanni Sommaruga, Dozent für Philosophie der Formalwissenschaften an der ETH Zürich.
 
-Prof. Saharon Shelah, Hebrew University Jerusalem, Israel
+## Paul Bernays Vorlesungen 2020
 
-## Literaturverzeichnis
+Prof. Saharon Shelah, Hebrew University Jerusalem, Israel
 
 «Das Ringen um die Grösse des Unendlichen»
 
@@ -51,6 +51,8 @@ Lecture 3: KARDINALZAHLINVARIANTEN DES KONTINUUMS: SIND SIE ALLE UNABHÄNGIG? Di
 Alle Vorträge werden auf Englisch gehalten und sind in sich abgeschlossen. Lecture 1 richtet sich an ein breites, wissenschaftlich interessiertes Publikum, während sich die Lectures 2 und 3 an die Forschungsgemeinschaft wenden.
 
 Wegen der ausserordentlichen Umstände der COVID-​​19 Pandemie finden die Paul Bernays Lectures 2020 als Webinar statt. Weitere Informationen .
+
+## Literaturverzeichnis
 
 Goldstern, M, Kellner J, Shelah S. Cichoń's maximum. Annals of Mathematics, Vol. 190, No. 1 (July 2019), pp. 113-143. DOI: externe Seite 10.4007/annals.2019.190.1.2 . Eine allgemeinverständliche Darstellung dieser Publikation findet sich in den News der externe Seite Technischen Universität Wien .
 

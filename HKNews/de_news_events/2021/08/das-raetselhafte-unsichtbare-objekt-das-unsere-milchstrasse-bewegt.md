@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2021/08/das-raetselhafte-unsichtbare-objekt-das-unsere-milchstrasse-bewegt.html
 
+**Date processed:** 2025-05-01
+
 ## Von der Möglichkeit zur Gewissheit
 
 Das Weltall ist auch ein Raum, der Fragen auslöst: Was genau geschieht zum Beispiel im Zentrum einer Galaxie? Dieser Frage hat sich Andrea Ghez, Physik-Nobelpreisträgerin von 2020, in ihrer Laufbahn als Astronomin und Astrophysikerin mit Hingabe gewidmet. Könnte es sogar sein, dass sich im Kern jeder Galaxie ein supermassives schwarzes Loch befindet, das umso massiver ist, je massiver eine Galaxie ist? Das sind Fragen, die in der Astronomie diskutiert und erforscht werden.
@@ -12,9 +14,9 @@ Im Fall unserer Galaxie, der Milchstrasse, gilt es mittlerweile als theoretisch 
 
 Den Physik-Nobelpreis erhielt Andrea Ghez 2020 zusammen mit Reinhard Genzel und Roger Penrose: Penrose für die Entdeckung, dass sich die Entstehung schwarzer Löcher mit der allgemeinen Relativitätstheorie widerspruchsfrei voraussagen lässt; Genzel und Ghez für die Entdeckung eines supermassiven kompakten Objekts im Zentrum unserer Galaxie. Physikalisch betrachtet sind schwarze Löcher nämlich äusserst massereiche und extrem kompakte Objekte, deren Gravitation so stark wird, dass sie alles anziehen, was in ihren Einzugsbereich, den so genannten Ereignishorizont, gelangt: Nichts kann sich einem schwarzen Loch entziehen, weder Sterne noch Sonnen, Strahlung oder Information – auch nicht Licht. Dieser Tatsache, dass sie das Licht «verschlucken» und für Menschen unsichtbar sind, verdanken die schwarze Löcher ihren Namen.
 
-Während Roger Penrose den Nobelpreis für einen mathematischen Beweis erhielt, wurden Reinhard Genzel und Andrea Ghez dafür geehrt, dass sie die Messtechnologie und Instrumente soweit verfeinerten, dass sie dank modernster, hochauflösender bildgebender und optischer Verfahren das eigentlich unsichtbare und extrem schwere Objekt im Herzen der Milchstrasse als schwarzes Loch indirekt nachweisen konnten.
-
 ## Schärfere Bilder enthüllen das schwarze Loch
+
+Während Roger Penrose den Nobelpreis für einen mathematischen Beweis erhielt, wurden Reinhard Genzel und Andrea Ghez dafür geehrt, dass sie die Messtechnologie und Instrumente soweit verfeinerten, dass sie dank modernster, hochauflösender bildgebender und optischer Verfahren das eigentlich unsichtbare und extrem schwere Objekt im Herzen der Milchstrasse als schwarzes Loch indirekt nachweisen konnten.
 
 «Andrea Ghez hat viele Jahre lang hartnäckig untersucht, was im Zentrum der Galaxie passiert. Als begnadete Instrumentenbauerin hat sie die zur Beobachtung von schwarzen Löchern benötigte Messtechnologie laufend weiterentwickelt und entscheidend verbessert», würdigt der Astrophysiker Philippe Jetzer, Professor der Universität Zürich, der an den Bernays Lectures in Andrea Ghez’ Forschung einführt. Zu Jetzers Schwerpunkten gehören Gravitationswellen und Relativitätstheorie. Über die Entstehung supermassiver schwarzer Löcher forscht er im Zusammenhang mit dem geplanten ESA-Forschungssatelliten «LISA», an dem sich auch ETH-Forschende beteiligen, und der neue Messdaten über Gravitationswellen aus dem Weltraum liefern soll.
 
@@ -26,19 +28,19 @@ Auf der Grundlage der verbesserten Bildgebung konnte Ghez – und Genzel – erk
 
 Derzeit untersucht Ghez, wie sie ihren Ansatz erweitern kann. Im Vergleich der Galaxien ist das schwarze Loch der Milchstrasse relativ ruhig. Wenn schon die Bewegungen in einer Galaxie, die wie die Milchstrasse eher inaktiv erscheint, im Zentrum von einem schwarzen Loch gesteuert werden, dann liegt die Annahme nicht fern, dass solche Objekte in den Zentren aller Galaxien zu finden seien.
 
-## Die Philosophie der Paul Bernays Lectures
-
 Andrea Ghez’ Auftritt an den Paul Bernays Lectures 2021 schliesst nahtlos an die Vorlesungsreihe «Women in Science and Space» an, an der in diesem Frühjahr Physikerinnen auf Einladung von ETH-Rektorin Sarah Springman ihre Forschung zum Thema Weltall vorstellten (vgl. Links weiter unten).
+
+## Die Philosophie der Paul Bernays Lectures
 
 Eine spezielle Erfahrung werden die zehnten Paul Bernays Vorlesungen für Giovanni Sommaruga. Sie werden die letzten sein, die der Logiker und Philosoph mit Spezialisierung in Formalwissenschaften organisiert. Auf seine Idee und Initiative hin wurde die Ehrenvorlesungsreihe 2012 als ein Format ins Leben gerufen, das sich der Philosophie der exakten Wissenschaften (Mathematik, Logik, Informatik, Physik) widmet. Was die Paul Bernays Lectures auszeichnet, ist die Konzeption von Philosophie, die ihr zugrunde liegt.
 
 «Charakteristisch für dieses Verständnis der Philosophie der exakten Wissenschaften ist ihre Nähe zur wissenschaftlichen Forschung selbst, aus der sie ihre Themen und Fragen schöpft, und auf die sie im besten Fall sogar zurückwirkt», sagt Sommaruga. In dieser Form ist Philosophie selbst eine Grundlagenforschung, die die Grundlagen und Methoden einer bestimmten Disziplin reflektiert und untersucht. Heute sind die Paul Bernays Lectures eine einzigartige, komplementäre Veranstaltung zu den Wolfgang Pauli Lectures , deren Format und Ausrichtung bei Studierenden und Forschenden grossen Anklang gefunden hat.
 
+## Paul Bernays Vorlesungen 2021
+
 Prof. Andrea M. Ghez, University of California, Los Angeles, Nobelpreis der Physik 2020
 
 «Ein einzigartiges physikalisches Labor im Zentrum unserer Galaxie»
-
-## Paul Bernays Vorlesungen 2021
 
 Lecture 1: Von der Möglichkeit zur Gewissheit eines supermassereichen schwarzen Lochs Montag, 30. August 2021, 17 Uhr, Audimax, ETH-Hauptgebäude
 

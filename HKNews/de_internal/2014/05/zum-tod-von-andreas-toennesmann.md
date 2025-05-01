@@ -2,25 +2,21 @@
 
 **Source:** de_internal/2014/05/zum-tod-von-andreas-toennesmann.html
 
+**Date processed:** 2025-05-01
+
 ## Unbestechlicher Spürsinn, grenzenlose Neugierde
 
 Die eigene Begeisterung für die Architektur anschaulich zum Ausdruck zu bringen und seine Mitmenschen daran teilhaben zu lassen, war eine besondere Gabe, über die Andreas Tönnesmann verfügte. Er war nicht nur einer der renommiertesten Kunst- und Architekturhistoriker der Gegenwart, sondern auch ein Lehrer mit Leib und Seele.
 
 Bis zuletzt widmete er seine schwindenden Kräfte mit grosser menschlicher Wärme und persönlichem Engagement den Studierenden der ETH Zürich. Er schulte sie in der Bedeutung geschichtlicher Prozesse für die gebaute Umwelt und lehrte sie dabei zugleich, der Thematik mit Euphorie zu begegnen.
 
-## Berufung an ETH als glückliche Fügung
-
 Mit stupender Eloquenz vermochte er es, komplexe Zusammenhänge in klare, einfache und dennoch äusserst präzise Sätze zu packen und seine Zuhörer und Leser mitzureissen. Seine Studierenden dankten ihm dafür mit der mehrfachen Verleihung der Goldenen Eule, dem Ehrenpreis für exzellente Lehre. Ein geradezu persönliches Anliegen war ihm die Förderung des wissenschaftlichen Nachwuchses. Als fürsorglicher Doktorvater betreute er mit aussergewöhnlichem Einsatz und Enthusiasmus über fünfzig Dissertationen.
 
 Seine Analyse der Architektur fand ihren Anfang stets am konkreten Objekt, doch führten seine Erkenntnisse weit darüber hinaus. Mit unbestechlichem Spürsinn verstand er es, unsere materielle Umwelt mit gesellschaftlichen Phänomenen und ihren geistigen Hintergründen in Verbindung zu bringen und ihr Leben einzuhauchen. Er verfasste grundlegende Werke zur Kunst und Architektur der Renaissance, einer Epoche, die er besonders liebte.
 
-## Staffnet
-
 Seine Neugierde kannte aber keine Grenzen, er forschte universell und in unterschiedlichen Disziplinen und Epochen bis hin zu filmischen und literarischen Werken. Der zu seinem sechzigsten Geburtstag erschienene Band «Die Freiheit des Betrachtens» birgt ausgewählte Aufsätze und zeugt nicht nur im Titel von den breiten Interessen und der unvoreingenommenen Herangehensweise des Verstorbenen.
 
 Die Berufung Andreas Tönnesmanns an die ETH Zürich im Jahr 2001 war eine glückliche Entscheidung. Nach dem Studium der Kunstgeschichte und Literaturwissenschaften in Deutschland und Italien und einer Forschungstätigkeit an der Bibliotheca Hertziana, dem Max-Planck-Institut für Kunstgeschichte in Rom, hatte er an verschiedenen deutschen und schweizerischen Universitäten gelehrt. Von 1991 bis 2000 war er ordentlicher Professor an den Universitäten Bonn und Augsburg, bevor er dem Ruf an die ETH Zürich folgte.
-
-## Newsletter abonnieren
 
 Von 2006 bis 2010 war Andreas Tönnesmann Vorsteher des Instituts für Geschichte und Theorie der Architektur (gta), von 2007 bis 2009 Vorsteher des gesamten Departements Architektur. Als Mitglied der Strategiekommission der ETH Zürich gestaltete er die Zukunft der Hochschule mit. Dank seines herausragenden Sachverstands wurde Andreas Tönnesmann in zahlreiche nationale und internationale Institutionen berufen, so zum Vorsitzenden des wissenschaftlichen Beirats der Gerda Henkel Stiftung, zum Mitglied des Kuratoriums der Herzog August Bibliothek in Wolfenbüttel und des Kunsthistorischen Instituts in Florenz.
 

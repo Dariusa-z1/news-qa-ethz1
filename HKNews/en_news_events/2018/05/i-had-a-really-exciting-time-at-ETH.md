@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2018/05/i-had-a-really-exciting-time-at-ETH.html
 
+**Date processed:** 2025-05-01
+
 ## Interlinking academia and practice
 
 In his office, one thing stands out above all else: the huge number of books. “I love to read,” says Paul Embrechts, who has written several books of his own – which are now considered standard works in the field. Embrechts is also proud of the fact that the Federal Reserve Bank of Boston (the Fed) invited him to teach 15 of its decision-makers with the aid of his book Quantitative Risk Management . An approachable and down-to-earth individual, Embrechts relished this opportunity to put his expertise into practice.
@@ -10,23 +12,17 @@ Indeed, practical relevance has always been important to him: “As an academic,
 
 By setting up RiskLab in 1994, Embrechts created a vehicle that builds institutional links between research and practice. He founded RiskLab with Hans-Jakob Lüthi from the Institute for Operations Research in response to the growing number of inquiries from banks. The banks were apparently looking for help with risk management, but Embrechts is keen to emphasise one thing: “RiskLab is precompetitive. We don’t engage in consulting work. After all, we’re still mathematicians and work on basic research.”
 
-## An influential risk researcher
-
 In mid 1994, a conference was held with risk management delegates from banks, the Bank for International Settlements (BIS) and members of ETH. “The idea was for the banks to indicate where they saw problems and for us, from ETH, to suggest how we could contribute to solving them,” says Embrechts. Later, insurers also came on board. RiskLab was a world first, he says, and its format has since been replicated.
 
 “It was successful here at ETH because of the concentration of knowledge and practice in a relatively small geographical area,” Embrechts says resolutely. “RiskLab was not only of academic interest to ETH but also relevant to the world of practice.” He also mentions the human components: for many of its staff, RiskLab becomes like a second home, and also ETH alumni enjoy popping in to visit former colleagues.
 
 Belgian by birth and also a Swiss citizen, Embrechts was the first in his family to go to university. He is an approachable character who is interested in people and enjoys receiving visitors. At the same time, he maintains a certain degree of distance from private industry and has never founded a company of his own. His experience of the links between academia and practice was gained as a Member of the Board of Directors of Bank Julius Baer and of Swiss Life.
 
-## A comprehensive understanding of risks
-
 Was there much demand for his academic advice in those roles? “Yes, I was able to get involved and provide assistance from an academic perspective,” says the risk researcher. “ETH enjoys an excellent level of acceptance in industry, and I gained a great deal of knowledge that also benefited my research,” he adds.
 
 Through his research, Embrechts has played a key role in shaping the development of risk management. Despite his knowledge, however, or perhaps precisely because of it, he never got lost in the formulas and has always warned against relying blindly on a risk indicator. He has therefore been very critical of the “value at risk” (VaR), a measure of risk that has seen increasing use in the financial industry since 1994.
 
 His criticism is that the VaR says nothing about the scale of losses if the market is not behaving normally – in other words, in extreme cases such as the financial crisis. For that, he says, you need a risk indicator such as the “expected shortfall”, which Embrechts was involved in developing.
-
-## More time for his family
 
 Did he see the financial crisis coming? “We didn’t predict the financial crisis per se,” Embrechts admits, “but we’ve always warned that the capital requirements for banks – Basel II – are not sufficient to cover extreme cases.” In May 2001, Embrechts and his colleagues at the London School of Economics published a paper warning that the current measures of risk could destabilise the economy in the event of a crisis. In addition, they claimed that Basel II only imposed regulations on individual banks, and not on the banking system as such.
 

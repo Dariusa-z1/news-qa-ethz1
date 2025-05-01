@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2015/06/mit-radarwellen-den-wald-ausmessen.html
 
-## Weitere Informationen
+**Date processed:** 2025-05-01
+
+## Main article
 
 Irena Hajnsek ist gerade aus Afrika zurückgekehrt. In Gabun hat sich die Professorin für Erdbeobachtung und Fernerkundung um Flughafenbenutzungsgebühren und Sendegenehmigungen gekümmert. Im Februar 2016 will sie mit einem Team für eine Expedition in diesen zentralafrikanischen Staat reisen. Die Forschenden werden dort in den Urwald fliegen und mit dem Radar des externe Seite Deutschen Zentrums für Luft- und Raumfahrt Daten sammeln, aus denen sie die Biomasse des Walds errechnen können.
 
@@ -12,11 +14,11 @@ Wie aber misst man einen Wald aus? «Wir senden von einem Flugzeug oder einem Sa
 
 Die letzte Mission startete 2012 und heisst «TanDEM-X». Während das Wort Tandem im Projektnamen auf die zwei Satelliten verweist und DEM für Digitales Geländemodell steht, steht das X für die Länge der Radarwellen von drei Zentimetern. Mit den Daten erstellen die Forschenden ein globales digitales Geländemodell mit einer Genauigkeit im Meterbereich. «Ein einheitliches Höhenmodell für den ganzen Globus – das gibt es bis anhin noch nicht», vermerkt Hajnsek mit einem Anflug von Stolz. «Dieses Höhenmodell kann dann von Wissenschaftlern weltweit genutzt werden, um beispielsweise Kartenmaterial herzustellen, aber es dient auch als Basis für viele andere Fragestellungen.»
 
-## Magazin «Globe»
-
 Allerdings sind die Wellenlängen im X-Band zu kurz, um dichten Wald zu durchdringen und den Boden zu erreichen. «Für diese Aufgabe steht uns das L-Band mit 23 Zentimetern oder ein P-Band mit 80 Zentimetern Wellenlänge zur Verfügung.» In Deutschland liegt bereits der Vorschlag für die Tandem-L-Mission vor, an der sich auch die japanische Raumfahrtagentur beteiligen will. Die Idee ist auch hier, die Biomasse zu vermessen, und zwar mehrmals jährlich, um den Einfluss der Jahreszeiten zu berücksichtigen. Allerdings sei die Finanzierung noch nicht ganz gesichert, sagt Hajnsek, die auch bei diesem Projekt beteiligt ist.
 
 Die ESA hat für das eingangs erwähnte Biomass-Projekt entschieden, zum ersten Mal Messungen vom Weltraum aus mit einem P-Band-System zu machen. Deshalb sind nun Tests angesagt. «In Schweden haben wir den im Norden typischen borealen Wald untersucht und in Deutschland den temperaten Wald», erzählt Hajnsek. «Was nun noch fehlt, sind die Wälder der Tropen, also der sehr dichte tropische Regenwald, die Mangrovenwälder und die Savannenwälder». Die wird sie Anfang nächstes Jahr in Gabun messen.
+
+## Weitere Informationen
 
 Professur für Erdbeobachtung und Fernerkundung der ETH Zürich
 

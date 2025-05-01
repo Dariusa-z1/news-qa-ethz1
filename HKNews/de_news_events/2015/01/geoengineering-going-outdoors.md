@@ -2,43 +2,41 @@
 
 **Source:** de_news_events/2015/01/geoengineering-going-outdoors.html
 
+**Date processed:** 2025-05-01
+
 ## Field experiments
 
 Climate science is giving a clear signal that action has to be taken to halt global warming. Rising greenhouse gas emissions are driving us towards a climate with negative consequences for society in most parts of the world, for instance through an increase in weather extremes. The fact that we still do not have any binding agreements on reducing greenhouse gases is pushing part of the scientific community towards researching technological fixes for the climate problem – geoengineering.
 
 Geoengineering aims at treating the “symptoms” of climate change – most notably the temperature increase – by altering the Earth’s radiation balance. The proposed methods vary greatly in terms of their technological characteristics and possible consequences. In this blog post, we focus on the best-known solar geoengineering method: the “artificial volcano” or stratospheric aerosols method. Scientists propose injecting small, reflective sulphate particles (aerosols) into the stratosphere at 15–20 km altitude. The small particles reduce the amount of solar radiation reaching the Earth’s surface and thus cool the lower atmosphere. This effect has been observed after large volcanic eruptions (thus the name “artificial volcano”), most recently after the 1991 Mt. Pinatubo eruption, when the global average temperature decreased by almost 0.5°C in the year following the eruption. Unlike volcanoes, geoengineers would continuously inject the aerosols until greenhouse gas levels dropped below a level determined to be safe. So far, all solar geoengineering studies have been confined to computer models [1].
 
-## Why is field testing so controversial?
-
 A group of atmospheric scientists have recently proposed nine field experiments to test solar geoengineering methods [2]. They divided ideas into those that aim at understanding the effectiveness and risks of geoengineering and those aimed at developing technologies needed for the deployment of geoengineering. Furthermore, the scientists made a clear distinction between experiments seeking to understand small-scale atmospheric processes like chemical reactions on the surface of artificially injected particles and those targeting large-scale climate responses, e.g. a decrease in global average temperature. The impact of large-scale experiments cannot be simply extrapolated from small-scale ones. However, large-scale experiments would only be performed in cases where numerous prior small-scale tests proved successful with only negligible environmental risks – which might be too late to avoid some of the negative consequences of global warming.
 
 The proposed experimental design of a small-scale stratospheric sulphur (and water) injection field test (source: [3])
 
-## Why bother with geoengineering at all?
+## Why is field testing so controversial?
 
 Of the proposed experiments, a small field test called the stratospheric controlled perturbation experiment (SCoPEx) is at the most advanced planning stage [3]. A Harvard research group designed the experiment to better quantify a side-effect of stratospheric sulphur injections: ozone depletion. A decrease in stratospheric ozone levels can increase the risk of skin cancer, which could be even more disruptive for society than the greenhouse gas-driven warming of the planet. A sudden decrease in ozone concentrations during SCoPEx would probably kill the idea of stratospheric sulphur geoengineering. As illustrated in the figure, the experiment is comprised of a balloon with a module carrying an aerosol generator, observational instruments, and an engine. The module both injects and monitors the aerosol plume. The experiment is expected to emit less sulphur and water than an intercontinental flight between Europe and the US. The researchers estimate the total costs of the field experiment to be around USD 10 million.
 
 SCoPEx and other currently proposed small-scale experiments most likely do not pose significant risks for environment and society. Unlike full geoengineering deployment with large-scale, decades-long injections, these experiments would not modify the planet's energy balance. However, there remain other issues related to the proposed outdoor geoengineering research:
 
-## Further information
-
 Curiosity-driven geoengineering research provides the information society and policymakers need to choose the best strategy in dealing with climate change [4]. Geoengineering modelling studies contribute to a better understanding of the stratosphere and more accurate representation of aerosol processes and their interactions with climate, e.g. the impact of volcanoes on global temperature, precipitation, crop yields, etc. This results in more robust modelling projections of the future climate.
 
 We think geoengineering tests should be constrained to either computer models or laboratories until we develop a good understanding of all associated natural processes and risks. Small-scale process-based experiments could prove to be useful – however, we suggest taking a step back and focusing on open questions regarding natural atmospheric processes like stratospheric aerosol microphysics.
 
-## Zu den Autoren
-
 This blog was co-written by PhD student Blaž Gasparini and Prof. Ulrike Lohmann.
 
-[1]The topic has already been discussed in more detail in previous blog entries (in German): Geoengineering – Ein gefährliches Spiel mit Aerosolen? and Kann Geoengineering das Klimaproblem lösen?
+## Further information
 
-## Keinen Beitrag verpassen
+[1]The topic has already been discussed in more detail in previous blog entries (in German): Geoengineering – Ein gefährliches Spiel mit Aerosolen? and Kann Geoengineering das Klimaproblem lösen?
 
 [2] Keith et al., 2014: Field experiments on solar geoengineering: report of a workshop exploring a representative research portfolio, Phil. Trans. Roy. Soc., doi: externe Seite 10.1098/rsta.2014.0175
 
 [3] Dykema et al., 2014: Stratospheric controlled perturbation experiment: a small-scale experiment to improve understanding of the risks of solar geoengineering, Phil. Trans. Roy. Soc., doi: externe Seite 10.1098/rsta.2014.0059
 
 [4] see also Robock, A. 2012: Is geoengineering research ethical? ( externe Seite Pdf )
+
+## Zu den Autoren
 
 Doktorand in Atmosphären- und Klimawissenschaft
 

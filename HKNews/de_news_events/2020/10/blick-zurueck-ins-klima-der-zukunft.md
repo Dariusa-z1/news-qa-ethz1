@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2020/10/blick-zurueck-ins-klima-der-zukunft.html
 
+**Date processed:** 2025-05-01
+
 ## Was Mineralien übers Klima aussagen
 
 Vor 57 bis 55 Millionen Jahren ging das Paläozän zu Ende, und das Eozän begann. Damals war die Atmosphäre mit dem Treibhausgas Kohlendioxid geradezu überflutet: Dessen Konzentration betrug 1400 ppm bis 4000 ppm. Unschwer vorzustellen, dass auf der Erde Temperaturen wie in einer Bio-Sauna geherrscht haben müssen. Es war heiss und schwül, und das Eis an den Polkappen war komplett verschwunden.
@@ -10,15 +12,13 @@ Das damalige Klima ist für Forschende interessant um abzuschätzen, wie sich da
 
 Eine Gruppe von Forschern der ETH Zürich, der Pennsylvania State University und des CASP in Cambridge (GB) haben deshalb das Klima rekonstruiert, das am Ende des Paläozäns und am Anfang des Eozäns herrschte, und zwar anhand von winzigen Mineralien aus ehemaligen Sumpfböden. Die Studie erschien soeben in der Fachzeitschrift «Nature Geoscience».
 
-## Dampfend heisse Welt
-
 Bei den Mineralien handelt es sich um Siderit. Sie entstanden in sauerstofflosen Böden, die sich unter einer dichten Pflanzendecke in Sümpfen entwickelten. Sümpfe waren im Paläozän und Eozän entlang der heiss-feuchten Küsten weit verbreitet.
 
 Dünnschliff von Siderit-Kugeln aus Alaska unter dem Mikroskop. (Bild: Washington State Univ/Seattle)
 
-Siderit ist ein Eisenkarbonat und besteht aus einem Eisen-Atom, einem Kohlenstoff und drei Sauerstoff-Atomen (FeCO 3 ). Während des Wachstums der Siderit-Kristalle werden je nach Bodentemperatur unterschiedliche Kohlenstoff- und Sauerstoff-Isotopen in das Kristallgitter eingebaut. Die wachsenden Kristalle speichern auch Informationen über die Luftfeuchtigkeit, da die Sauerstoffisotope aus Wasser stammen, das durch Regen in den Boden eindrang. So speichern die Kristalle Informationen über das Klima der Epoche, in der sie wuchsen. Diese Informationen können die Forscher auslesen, indem sie die Isotopenzusammensetzung der Kristalle im Labor bestimmen. Daraus lassen sich Rückschlüsse auf den Feuchtigkeitsgehalt der Atmosphäre und die Lufttemperaturen ziehen.
+## Dampfend heisse Welt
 
-## Subtropischer Wasserdampf wärmte Pole
+Siderit ist ein Eisenkarbonat und besteht aus einem Eisen-Atom, einem Kohlenstoff und drei Sauerstoff-Atomen (FeCO 3 ). Während des Wachstums der Siderit-Kristalle werden je nach Bodentemperatur unterschiedliche Kohlenstoff- und Sauerstoff-Isotopen in das Kristallgitter eingebaut. Die wachsenden Kristalle speichern auch Informationen über die Luftfeuchtigkeit, da die Sauerstoffisotope aus Wasser stammen, das durch Regen in den Boden eindrang. So speichern die Kristalle Informationen über das Klima der Epoche, in der sie wuchsen. Diese Informationen können die Forscher auslesen, indem sie die Isotopenzusammensetzung der Kristalle im Labor bestimmen. Daraus lassen sich Rückschlüsse auf den Feuchtigkeitsgehalt der Atmosphäre und die Lufttemperaturen ziehen.
 
 Um die klimatischen Bedingungen vom Äquator bis zu den Polregionen nachzuzeichnen, untersuchten die Forscher Siderite von 13 verschiedenen Fundorten auf der Nordhalbkugel der Erde. Damit deckten sie alle geografischen Breiten von den Tropen bis zur Arktis ab.
 
@@ -26,15 +26,11 @@ Um die klimatischen Bedingungen vom Äquator bis zu den Polregionen nachzuzeichn
 
 So lag vor 57 bis 55 Mio. Jahren die mittlere jährliche Lufttemperatur am Äquator im heutigen Kolumbien bei rund 41°C. Im arktischen Sibirien betrug die durchschnittliche Sommertemperatur 23°C.
 
-## Anpassungsfähigkeit überfordert
-
 Anhand ihres Siderit-«Hygrometers» wiesen die Forscher auch nach, dass der globale Feuchtigkeitsgehalt der Atmosphäre beziehungsweise die spezifische Feuchtigkeit im Paläozän und Eozän viel höher war als heute. Der Wasserdampf blieb auch länger in der Luft, weil die spezifische Feuchtigkeit stärker zunahm als Verdunstung und Niederschlag. Der Anstieg der spezifischen Feuchtigkeit war jedoch nicht überall gleich.
 
 Dank der Tatsache, dass die Forschenden über Siderit aus allen Breitengraden verfügten, konnten sich auch die Verteilung der spezifischen Feuchtigkeit untersuchen: Die Tropen und die höheren Breiten wiesen damals eine sehr hohe Luftfeuchtigkeit auf.
 
 Die Forscher führen dies darauf zurück, dass Wasserdampf aus den Subtropen in diese Zonen verfrachtet wurde. In den Subtropen stieg die spezifische Feuchte am wenigsten an. Die Verdunstung nahm zu, die Niederschläge wurden weniger. Dadurch entstand mehr Wasserdampf, der schliesslich hin zu den Polen und zum Äquator gelangte. Und mit dem Dampf wurde auch Wärme transportiert.
-
-## Schwierige Suche nach Siderit-Kristallen
 
 Auch heute beobachten Klimaforschende, dass Wasserdampf und Wärme von den Subtropen in die Tropen strömen. «Dieser Transport dürfte im Eozän noch stärker gewesen sein», sagt Joep van Dijk. «Und die Zunahme des Transport von Wärme in hohe Breiten kann tatsächlich die Verstärkung der Erwärmung in den Polregionen begünstigt haben.»
 
@@ -42,11 +38,13 @@ Die neuen Resultate sprechen dafür, dass auch im Zug der aktuellen Klimaerwärm
 
 «Der CO 2 -Gehalt der Atmosphäre war damals zwar deutlich höher als heute, doch der Anstieg auf diese Werte vollzog sich über Millionen von Jahren», gibt er zu bedenken. «Dies im Gegensatz zu heute, wo die Menschheit den CO 2 -Gehalt seit der Industrialisierung in nur 170 Jahren um fast 50 Prozent erhöht hat.» Tiere und Pflanzen hatten damals viel mehr Zeit, sich an die sich ändernden klimatischen Bedingungen anzupassen. «Das ist mit der aktuellen rasanten Entwicklung schlicht nicht möglich», betont der Forscher.
 
-## Literaturhinweis
+## Schwierige Suche nach Siderit-Kristallen
 
 Die Siderite waren nicht einfach zu finden. Die Mineralien sind einerseits winzig, andererseits kommen sie nur in fossilen Sumpfböden vor, und diese sind heutzutage teilweise erst in mehreren Kilometern Tiefe unter der Erdoberfläche zu finden. Dementsprechend war es für die Forschenden schwierig bis unmöglich, selber Siderite auszugraben. «Wir haben mehrere Expeditionen zu Fundorten unternommen, aber wir konnten nur in einem Fall Siderit finden», sagt Joep van Dijk.
 
 Die Forschenden konnten für ihre Untersuchungen jedoch auf die Sammlung von Mitautor Tim White zurückgreifen. Der Amerikaner von der Pennsylvania State University besitzt die weltweit grösste Siderit-Sammlung.
+
+## Literaturhinweis
 
 Van Dijk J, Alvarez F, Bernasconi SM, et al.: Spatial pattern of super-greenhouse warmth controlled by elevated specific humidity. Nature Geoscience, published online on 26 October 2020. DOI: externe Seite 10.1038/s41561-020-00648-2
 

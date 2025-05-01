@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2016/03/querschnittlaehmung-veraendert-koerperrepraesentation.html
 
+**Date processed:** 2025-05-01
+
 ## Bleibendes Gefühl der Entfremdung
 
 Wer schon einmal lokal betäubt wurde und zusehen durfte, wie an seinem Bein oder Arm operiert wurde, kennt diese seltsame Wahrnehmung. Der eigene Körperteil kommt einem in diesem Moment fremd vor, als gehöre er nicht zum eigenen Körper. Dies liegt unter anderem daran, dass das Gehirn noch immer die Position gespeichert hat, welche die Gliedmasse vor der örtlichen Betäubung innehatte. Sobald die Wirkung der Anästhesie abklingt, ist der Spuk vorbei.
@@ -9,8 +11,6 @@ Wer schon einmal lokal betäubt wurde und zusehen durfte, wie an seinem Bein ode
 Bei Menschen, die eine Verletzung des Rückenmarks oder einen Schlaganfall erlitten haben, geht diese «Entfremdung» der eigenen Gliedmassen jedoch nicht vorüber. Denn eine solche Verletzung beeinträchtigt oder unterbricht die Kommunikation zwischen Gehirn und Körper. Dies beeinflusst die anatomische Rekonstruktion des Körpers im Gehirn, die sogenannte Körperrepräsentation.
 
 Denn Hirn und Gliedmassen wie Arme, Beine, Füsse oder Hände tauschen ständig Daten über Lage, Orientierung und Zustand aus, sogenannte somatosensorische Informationen. Auch das Auge ist an der Körperwahrnehmung beteiligt. Das Gehirn seinerseits verarbeitet diese visuellen und somatosensorischen Informationen zu einem Bild des Körpers, das in der Grosshirnrinde «abgelegt» wird. Unter Experten und Ärzten ist bis heute allerdings umstritten, ob und wie stark die Schädigung des Rückenmarks die Körperrepräsentation verändert. Die Studien, die dazu durchgeführt wurden, sind widersprüchlich.
-
-## Körperbilder im Kopf einordnen
 
 Nun haben Forscherinnen und Forscher verschiedener Institutionen unter Co-Leitung von ETH-Professor Roger Gassert vom Labor für Rehabilitationstechnik mit einer neuen Studie mehr Licht in die Sache gebracht. Diese wurde soeben in der Fachzeitschrift «Scientific Reports» veröffentlicht.
 
@@ -26,15 +26,11 @@ Die Probanden – darunter je elf mit kompletter oder mit teilweiser Durchtrennu
 
 Am schwierigsten war die Aufgabe für Probanden mit vollständiger Rückenmarksdurchtrennung. Für die Beurteilung der Lage und Orientierung des gesamten Körpers brauchten sie deutlich länger – bis zu 50 % mehr Reaktionszeit –als Probanden mit unversehrtem Rückenmark. «Je stärker das Rückenmark zerstört ist, desto grösser ist die Reaktionszeit für die Beurteilung von Bildern des Körpers, desto stärker ist auch die Ganzkörper-Repräsentation im Gehirn verändert», sagt der ETH-Professor.
 
-## Exoskelette oder Prothesen mit Gedanken steuern
-
 Das Gehirn nehme während dem Betrachten der Bilder unbewusst die eigene aktuelle Körperlage wahr und diese beeinflusse die Beurteilung des Bildes. Sei das Rückenmark komplett durchtrennt, erhalte das Gehirn nur noch visuelle Reize. «Die Körperrepräsentation ist somit gestört, und es fällt den Betroffenen schwerer, die gestellte Aufgabe zu lösen.»
 
 Mit den Tests konnten die Forschenden aber auch eine Einschätzung darüber gewinnen, wie stark die teilweise oder komplette Querschnittlähmung die Repräsentation der gezeigten Körperteile beeinflusst. So war bei allen Probanden die Handrepräsentation unverändert. Hielten die Probanden während den Tests ihre eigenen Hände gekreuzt, stieg die Reaktionszeit bei allen drei Gruppen vergleichbar an.
 
 Die Haltung der Füsse jedoch beeinflusste die Reaktionszeit merklich. Dabei zeigten Probanden mit kompletter Querschnittlähmung eine geringere Reaktionszeit, bis sie ihre Antwort formulieren konnten, als Probanden mit teilweiser Lähmung und gesunde Kontrollprobanden. Dies deutet darauf hin, dass das Gehirn von Menschen mit kompletter Durchtrennung des Rückenmarks den Fuss anders repräsentiert als Menschen, deren Gehirn noch Informationen aus den unteren Extremitäten empfängt.
-
-## Brain Fair
 
 Dass Probanden mit teilweiser oder kompletter Lähmung die Aufgaben ebenso genau und richtig wie gesunde Probanden lösen können, heisst für Gassert auch, dass die Repräsentation im Gehirn dynamisch und anpassungsfähig ist.
 
@@ -42,21 +38,23 @@ Die Studie hat laut Gassert auch Auswirkungen auf Rehabilitation und Therapie vo
 
 Er kann sich aber auch vorstellen, dass die mit diesem Testverfahren gewonnenen Erkenntnisse dabei helfen, die Netzwerke im Gehirn, die für die Körperrepräsentation zuständig sind, zu stimulieren und so aktiv zu erhalten, dies auch im Hinblick auf mögliche Mensch-Maschinen-Schnittstellen. Diese könnten in Zukunft wichtig werden, um das Gehen mit Exoskeletten oder Prothesen zu ermöglichen.
 
-## Cybathlon
-
 «Dieser Ansatz könnte dabei helfen, die Körperrepräsentation auch nach einer Rückenmarksverletzung «wach» zu halten. In einem zweiten Schritt könnte dies dazu dienen, mentale Befehle standardisiert zu erzeugen und damit ein Exoskelett mit einer Gehirn-Computer-Schnittstelle zu bewegen», sagt Gassert.
 
 Der Test wurde entwickelt von Roger Gasserts ehemaligen Mitarbeiter Silvio Ionta, der mittlerweile an der Universität Lausanne arbeitet. Mitgeleitet wurde Gasserts Studie von Armin Curt vom Zentrum für Paraplegie der Universitätsklinik Balgrist.
 
+## Brain Fair
+
 Morgen Samstag geht die diesjährige Ausgabe der externe Seite Brain Fair des Zentrums für Neurowissenschaften Zürich mit einem reich befrachteten Vortragsprogramm zu Ende. Verschiedene Forscherinnen und Forscher der Universität Zürich und der ETH Zürich referieren darüber, wie Bewegung auf das Gehirn wirkt - und umgekehrt. Unter den Referenten ist auch ETH-Professor Roger Gassert. Er stellt zusammen mit Michelle Starkey (Neurowissenschaftlerin, Universitätsklinik Balgrist), Armin Curt (Neurologe, Universitätsklinik Balgrist) und William Taylor (Ingenieur, ETH) das Projekt «ZurichMove - Bewegungssensoren, die Sie bewegen» vor. Die weiteren Beiträge sehen Sie externe Seite hier .
 
-## Literaturhinweis
-
 «Brain Fair Zürich 2016: Bewegung». Samstag, 19. März 2016; Kurzvorträge von 11.00-15.20 Uhr, Auditorium Maximum ETH-Hauptgebäude, Rämistr. 101.
+
+## Cybathlon
 
 Gelähmten das Gehen wieder zu ermöglichen, ist ein Menschheitstraum. Auch wenn dieser Traum noch nicht gänzlich in Erfüllung gegangen ist, gibt es mittlerweile zahlreiche Assistenztechnologien, die den Alltag von Menschen mit körperlichen Behinderungen erleichtern. Einen aktuellen Überblick über solche Technologien ermöglicht der Cybathlon . Dabei treten Menschen mit körperlichen Einschränkungen mithilfe modernster Assistenztechnologien gegeneinander an. Dabei wird getestet, wie gut es den Teilnehmern gelingt, alltägliche Aufgaben mithilfe motorisierter Beinprothesen, tragbarer Armprothesen, aktuierter Stützapparate (Exoskelette), motorisierter Rollstühle, elektrischer Muskelstimulation und neuartiger Hirn-Computer-Schnittstellen auszuführen. Bei diesen technischen Hilfsmitteln handelt es sich teils um marktgängige Produkte und teils um Prototypen aus Forschungslabors aus aller Welt.
 
 Cybathlon, 8. Oktober 2016, Eishockeystadion Swiss Arena in Kloten
+
+## Literaturhinweis
 
 Ionta S, Villiger M, Jutzeler CR, Freund P, Curt A, Gassert R. Spinal cord injury affects the interplay between visual and sensorimotor representations of the body. Scientific Reports 6, Article number: 20144 (2016) DOI: externe Seite 10.1038/srep20144
 

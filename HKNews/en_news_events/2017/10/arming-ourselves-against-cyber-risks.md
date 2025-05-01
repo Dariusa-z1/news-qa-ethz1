@@ -2,13 +2,13 @@
 
 **Source:** en_news_events/2017/10/arming-ourselves-against-cyber-risks.html
 
+**Date processed:** 2025-05-01
+
 ## More powers for cyber defence
 
 “The university and the Federal Department of Defence (DDPS) have enjoyed a close relationship for decades,” said Lino Guzzella in his address to welcome the Federal Councillor to the Audimax. The university primarily works with the DDPS via two competence centres: the ETH Center for Security Studies, which supports Switzerland’s security policy with its socio-economic and political expertise, and the technically focussed Zurich Information Security & Privacy Center (ZISC), in which ETH works with industry and the government to develop solutions to the growing challenges in the field of information security. “And last but not least,” added Guzzella, “ETH Zurich’s military academy (MILAK) has forged a strong link between ETH and the Federal Department of Security.”
 
 Security has become an increasingly hot topic in recent years: “The international situation has worsened,” said Parmelin. “Terror attacks in European cities, war and the collapse of states in North Africa and the Middle East, war in Ukraine, the omnipresence of cyber attacks – all of these things also affect Switzerland and its population.” This sentiment is confirmed by the Council’s latest security report, which provides guidelines to the Federal Assembly and the government. Swiss security policy is therefore going through a period of change, explained Parmelin.
-
-## Improving talent management
 
 For example, in 2018 the army will be streamlined to enable greater flexibility and swifter deployment. The intelligence service will acquire new resources and powers in order to respond to new threats. The Head of the DDPS also noted that “there’s a lot going on in the field of cyber risks too”. He believes that the opportunities for cyberspace abuse are far greater than we had assumed even a few years ago. “Today, everything is so closely interconnected that attackers could cause great damage with very little effort – and with very little chance of being detected.” Parmelin explained that an expertly executed attack on a state-owned enterprise at the start of his tenure as Defence Minister opened many people’s eyes. He is now planning to expand cyber defence resources in the army and intelligence service with around 100 new specialists by 2020.
 

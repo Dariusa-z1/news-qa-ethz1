@@ -2,25 +2,22 @@
 
 **Source:** en_news_events/2023/04/a-key-experiment-for-the-life-space-mission.html
 
+**Date processed:** 2025-05-01
+
 ## Abstract
 
-- The international LIFE initiative led by ETH Zurich hopes to one day detect traces of life on exoplanets.
-
-- A laboratory experiment under realistic conditions is now set to demonstrate the technical feasibility.
-
-- It can be realised thanks to a funding contribution of three million euros.
+• The international LIFE initiative led by ETH Zurich hopes to one day detect traces of life on exoplanets.
+• A laboratory experiment under realistic conditions is now set to demonstrate the technical feasibility.
+• It can be realised thanks to a funding contribution of three million euros.
+## The hunt for traces of life
 
 “It’s an important step on a very long road,” says Adrian Glauser, a senior scientist at the Institute for Particle Physics and Astrophysics at ETH Zurich. In late March, he and Sascha Quanz, a professor of astrophysics at ETH Zurich and head of the Exoplanets and Habitability Group, learned that the Swiss government will contribute nearly three million euros to support the NICE project as part of PRODEX (PROgramme de Développement d’EXpériences scientifiques), a European Space Agency (ESA) programme. This funding will enable ETH researchers to develop important technological foundations that are indispensable to realising the ambitious LIFE space mission.
-
-## The hunt for traces of life
 
 The LIFE (Large Interferometer for Exoplanets) initiative is aimed at undertaking a more detailed study of Earth-like exoplanets – planets that are similar to Earth in size and temperature but orbit other stars. It will focus particularly on planetary systems within a distance of up to 65 light years from our solar system. The plan is to position five smaller satellites at L2, the Lagrange point that is home to the James Webb Space Telescope. Together, these satellites will form a large telescope that will act as an interferometer to pick up the exoplanets’ infrared thermal radiation. The spectrum of the light can then be used to deduce the composition of those exoplanets and their atmospheres. “Our goal is to detect chemical compounds in the light spectrum that hint at life on these exoplanets. Earth’s atmosphere, for example, contains oxygen and methane produced by biological activity,” explains Quanz, who leads the LIFE initiative.
 
 ## Precision measurement instruments
 
 ESA has made the mission a high priority – LIFE is considered a candidate for a future major ESA science mission. However, today’s futuristic images showing how the five satellites will operate in space must not obscure the fact that the project relies on a major feat of technology and that many questions remain unanswered. One key question, for instance, is whether the measurements can even be carried out in the way the researchers have in mind.
-
-## Technology suitable for space
 
 The main problem in exoplanet research is that the much brighter light from the host star makes it difficult to detect the faint light its exoplanets reflect or emit. “The instruments have to be able to see the light of a firefly that’s next to a lighthouse 4,000 kilometres away,” Glauser says, explaining the demands on the measuring instruments.
 

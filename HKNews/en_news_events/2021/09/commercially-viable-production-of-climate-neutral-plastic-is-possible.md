@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2021/09/commercially-viable-production-of-climate-neutral-plastic-is-possible.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Since the early 1950s, plastics have found their way into almost every area of modern life. Between 1964 and 2014, plastic consumption increased twentyfold, from 15 to 311 million tonnes per year. Not only has environmental pollution from plastic waste increased during this time, but the amount of petroleum its manufacture consumes is large, as are the associated greenhouse gas emissions.
@@ -19,6 +21,8 @@ The cost of the newly proposed manufacturing method is on a par with that of thi
 Policymakers can promote the path to climate-neutral plastics by offering incentives for more plastic recycling and increased use of biomass and CCU, the authors conclude in the study. “We shouldn’t think of the different technologies for plastic manufacture individually, because there is great potential in combining them in a clever way,” Bardow says.
 
 This text is a revised version of a press release from RWTH Aachen University.
+
+## Reference
 
 Meys R, Kätelhön A, Bachmann M, Winter B, Zibunas C, Suh S, Bardow A: Achieving net-zero greenhouse gas emission plastics by a circular carbon economy, Science, 30 September 2021, doi: 10.1126/science.abg9853
 

@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2021/06/wir-haben-uns-staendig-bewegt-und-veraendert.html
 
-## 150 Jahre Agrarwissenschaften
+**Date processed:** 2025-05-01
+
+## Main article
 
 ETH-News: Das Departement Umweltsystemwissenschaften (D-USYS) feiert in diesem Jahr 150 Jahre Agrarwissenschaften an der ETH Zürich. Was waren in Ihren Augen Meilensteine? Nina Buchmann: 150 Jahre in zwei Sätzen zusammenzufassen, ist schwierig. Und was ein Meilenstein ist, liegt auch im Auge des Betrachters. Viele Höhepunkte haben wir auf unserer Webseite www.agri150.ethz.ch zusammengestellt. Mir fällt bei näherer Betrachtung vor allem auf, wie sehr sich Forschung und Lehre, aber auch die Organisation verändert haben.
 
@@ -20,8 +22,6 @@ Der Druck auf die Landwirtschaft steigt, nicht nur aufgrund des Klimawandels. B�
 
 Weshalb sollte ein Bauer die Biodiversität in seine Überlegungen einbeziehen? Aufgrund eigener Forschung in meiner Gruppe und in Zusammenarbeit mit der Agrarökonomie-Gruppe von Robert Finger kann ich sagen: Biodiversität im Grasland und daher auch im Futterbau ist ein Produktionsfaktor. Wir konnten zeigen, dass mit erhöhter Biodiversität die Erträge steigen und vor allem stabiler sind gegenüber Umwelteinflüssen – und dass sich das auch rechnet. Ich gehe davon aus, dass sich mehr Biodiversität auch im Ackerbau und im Agroforst auszahlt. Dann mag bei einer Trockenheit oder bei einem Spätfrost der Ertrag einer Pflanzenart um 20 Prozent zurückgehen, dafür steigt derjenige einer anderen. Es gibt aber keinen Totalausfall wie bei einer Monokultur. Zudem profitiert auch unter Normalbedingungen eine Art von der anderen. Der Einbezug von Biodiversität in agrarökonomische Überlegungen wird mit der Digitalisierung wahrscheinlich noch mehr an Fahrt aufnehmen.
 
-## Zur Person
-
 Was sind die neusten Entwicklungen in der Lehre? In der Lehre haben wir 2016 die Studiengang-Reform abgeschlossen. Von Anfang an war klar, dass die Ausbildung auf Bachelorstufe breit sein soll, also die bereits genannten Standbeine Pflanze, Tier, Ökonomie und Politik umfassen muss. Darauf aufbauend folgt im Master die Spezialisierung. Wir haben im Bachelor wieder ein Praktikum auf einem Schweizer Bauernhof eingebaut. Der Master wurde von 3 auf 4 Semester erweitert, um zusätzlich ein Forschungspraktikum zu integrieren. Geändert hat sich in den letzten 30 Jahren auch, dass wir mehr Wert legen auf quantitative Fähigkeiten, also auf Datenanalyse und Auswertung, sowie das Verschriftlichen und Präsentieren der Ergebnisse und Erkenntnisse. Das zählt ja nicht nur in der Wissenschaft, sondern auch im Berufsleben.
 
 Hat sich die Studiengangreform ausbezahlt? Ja. Was wir so hören, kommt der Studiengang sehr gut an, sowohl bei den Studierenden als auch bei denen, die die Abgängerinnen und Abgänger später anstellen. Fast alle Absolventinnen und Absolventen haben acht Monate nach Studienabschluss eine Anstellung. Das Spektrum ist extrem vielfältig, von NGOs, Industrie- und Detailhandelsbetrieben zu landwirtschaftlichen Schulen. Aber auch Banken, Dienstleister und Versicherungen oder die öffentliche Verwaltung stehen auf der Liste. Rund 15 Prozent machen ein Doktorat.
@@ -32,9 +32,13 @@ Sie geben bald die Departementsleitung ab. Was waren für Sie Höhepunkte oder w
 
 Was haben Sie sich nun vorgenommen? Ich verschnaufe erst mal und nehme ein halbjähriges Sabbatical. Die Forschung und Lehre habe ich ja nie aufgegeben. Ein paar Dinge, die ich delegieren musste, nehme ich wieder zurück. Weiterlaufen wird mein Engagement im Projekt «rETHink». In meiner Forschungsgruppe haben zudem neue Projekte gestartet, und einige Anträge sind noch hängig. Es wird mir also bestimmt nicht langweilig.
 
+## 150 Jahre Agrarwissenschaften
+
 1871 wurde an der ETH Zürich die Abteilung Landwirtschaft gegründet. Nun feiert das Institut für Agrarwissenschaften sein 150-jähriges Bestehen mit verschiedenen Events im Jubiläumsjahr.
 
 Auf der Jubiläumswebseite finden Sie eine Zeitschiene mit historischen Fakten und ausgewählten Artikeln aus den vergangenen 150 Jahren.
+
+## Zur Person
 
 Nina Buchmann ist seit 2003 Professorin für Graslandwissenschaften der ETH Zürich. Sie war von 2012 bis 2021 in der Leitung des Departements Umweltsystemwissenschaften (D-USYS) tätig, zuerst als Vize-Vorsteherin, dann vier Jahre als Vorsteherin.
 

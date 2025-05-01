@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2017/03/science-responds-to-industry.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH News: What’s the reasoning behind the particular format that the Energy Science Center has chosen for the symposium? Christian Schaffner: We want to offer industry representatives an opportunity to present their perspectives on the energy sector. We are convinced that industry will play a key role when it comes to managing global energy supply challenges. Industry is the third main actor in the segment, along with research and the government. ETH hosts a lot of events by and for scientists. Our symposium is intended as a supplement to that programme; an event where companies provide the content, establishing a dialogue with science.
@@ -13,6 +15,8 @@ Was it difficult to convince companies to participate? That was exciting. When w
 As the head of the Energy Science Center, what insights are you hoping to gain from the symposium? Our public events aim to educate a broad audience, from industry representatives to laypeople with an interest in the subject, about recent developments in the energy sector and the current state of energy research. This event should highlight global challenges and make clear that energy strategy is an international issue rather than a purely Swiss one. We also want to show that the corporate world – that is to say, these international companies – also play an important role in this energy strategy.
 
 Does this symposium aim to influence the political debate surrounding energy? What we want is to make the greatest number of facts available as possible, inform the public to the greatest extent possible and stimulate discussion. This is not a political statement – it’s a contribution to public debate.
+
+## The Global Energy Challenge – A Corporate View
 
 At the symposium “The Global Energy Challenge – A Corporate View”, representatives of multinational companies will discuss energy policy with scientists from ETH Zurich in a novel format. The companies, which include ABB, Shell and Swiss Re, will introduce their energy strategies and visions. Their presentations will then be discussed by an ETH professor or an experienced researcher, with a panel discussion to follow. ETH President Lino Guzzella will open the event.
 

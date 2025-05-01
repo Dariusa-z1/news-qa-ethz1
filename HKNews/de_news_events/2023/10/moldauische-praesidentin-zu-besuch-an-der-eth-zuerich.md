@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2023/10/moldauische-praesidentin-zu-besuch-an-der-eth-zuerich.html
 
+**Date processed:** 2025-05-01
+
 ## Hochaktuelles Thema
 
 Die Veranstaltung an der ETH Zürich war Teil des zweitägigen offiziellen Besuchs der moldauischen Präsidentin in der Schweiz. Nach Gesprächen zur bilateralen Zusammenarbeit war Maia Sandu gemeinsam mit Bundespräsident Alain Berset an die Hochschule gekommen, um über die Rolle der Republik Moldau im breiteren geopolitischen Kontext Osteuropas und die Auswirkungen des russischen Angriffskrieges auf die Ukraine zu sprechen und sich Fragen von Studierenden zu stellen.
@@ -13,8 +15,6 @@ Willkommen geheissen wurden die hohen Gäste von Joel Mesot, Präsident der ETH 
 Wie schwierig ein friedliches Miteinander in der aktuellen geopolitischen Lage ist, wurde sowohl in der Rede von Alain Berset als auch von Maia Sandu deutlich. «Ich bewundere, mit welcher Bestimmtheit Moldau seine Unabhängigkeit verteidigt und seine Verbindungen zur EU ausbaut», sagte Berset. Der Angriff Russlands auf die Ukraine habe gerade auch das Nachbarland Moldau hart getroffen.
 
 Dies bestätigte Maia Sandu. Über eine Millionen Menschen seien bei Kriegsbeginn aus der Ukraine zunächst in ihr Land mit seinen 2,6 Millionen Einwohnern geflohen. Rund 80'000 Flüchtlinge lebten bis heute dort. Dies sei nur durch die Mithilfe der gesamten Bevölkerung zu bewältigen gewesen. Hinzu kämen Versuche Russlands, ihre demokratisch gewählte Regierung durch Desinformation oder den Stopp von Gaslieferungen zu stürzen.
-
-## Kampf zwischen zwei Systemen
 
 Aus Sicht der Präsidentin Moldaus geht es bei dem Ukrainekrieg nicht allein um den Gewinn von Territorien, sondern um einen ideologischen Kampf. «Es ist ein Kampf zwischen einem autoritären System, das seine Ziele mit Gewalt durchsetzen will, und der freien demokratischen Welt». Zwar sei auch die Demokratie nicht perfekt, «aber es ist das Beste, was wir haben». Die Republik Moldau gehöre zum Kreis der Staaten in Europa, die Demokratie leben, deshalb strebe sie den EU-Beitritt bis 2030 an.
 

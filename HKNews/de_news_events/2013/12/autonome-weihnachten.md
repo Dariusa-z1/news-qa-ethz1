@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2013/12/autonome-weihnachten.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Wenn Robo-Rudolf und Robo-Nikolaus zusammen mit einem Schwarm Robo-Elfen Geschenke ausliefern und die autonom im Wald gepflückte Tanne von einer Quadrokopter-Fee geschmückt wird, dann feiern die putzigen Kreaturen des Autonomous Systems Lab der ETH Zürich Weihnachten. Und sie lassen die Welt daran teilhaben in ihrem neusten externe Seite Video . Ob sie dieses auch schon autonom auf Youtube gestellt haben, war bis Redaktionsschluss nicht zweifelsfrei in Erfahrung zu bringen. Sicher aber ist, dass zahlreiche Forscherinnen und Forscher ihre Kreationen auf Weihnachten getrimmt – pardon, programmiert haben.

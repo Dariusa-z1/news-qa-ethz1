@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2016/02/a-national-perspective-that-reflects-global-trends.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 At the beginning of the year, Gerd Folkers, ETH Professor of Pharmaceutical Chemistry and long-serving Chair of Collegium Helveticum, was appointed the new President of the Swiss Science and Innovation Council, a post that he will hold for four years. The SSIC advises the government on policy matters relating to science, higher education, research and innovation. Gerd Folkers has been a member of the SSIC since 2012 and previously served as its Vice President. He follows in the footsteps of Astrid Epiney, SSIC President from 2012 to 2015 and now Rector of the University of Freiburg.

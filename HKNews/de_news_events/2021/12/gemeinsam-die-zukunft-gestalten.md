@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2021/12/gemeinsam-die-zukunft-gestalten.html
 
-## Rethink
+**Date processed:** 2025-05-01
+
+## Main article
 
 Was sind Ihre persönlichen Ziele von rETHink? Julia Dannath: Ich bin seit einem Jahr an der ETH und bin begeistert, dass Joël Mesot dieses Projekt lanciert hat. Mein persönliches Ziel ist, dass sich ETH-weit ein Community-Spirit ergibt, der bedeutet: Wir können alle gemeinsam die Zukunft dieser Hochschule mitprägen!
 
@@ -34,8 +36,6 @@ Dannath: Auch so einen Spirit hinzukriegen, finde ich ein sehr hartes Ziel. Wenn
 
 Wie breit verankert sehen Sie rETHink derzeit? Mesot: Wir haben das Projekt 2019 gestartet, also vor dem Ausbruch der Pandemie. Darüber bin ich enorm froh. So hatten wir bereits ein Gefäss, in das wir auch Themen integrieren konnten, die sich im Laufe der Monate ergaben. Flexible Arbeitsplätze zum Beispiel oder neue Lernformen. Erst in Krisenzeiten Massnahmen zu ergreifen, ist viel schwieriger. Wir haben das eindrücklich bei der Nationalen Covid-19-Taskforce gesehen. Wäre so ein wissenschaftliches Beratungsgremium bereits installiert gewesen, hätte es dieses Misstrauen gegenüber Wissenschaftlern und Wissenschaftlerinnen wohl nicht in dem Ausmass gegeben. Auf die ETH kommen harte Zeiten zu. Die Verschuldung des Bundes wird nicht ohne Konsequenzen sein, auch das Verhältnis zur EU nicht. Wir haben ein Gefäss, wo wir bei Bedarf einzelne Themen – nicht so intensiv wie jetzt bei rETHink – besprechen können. Deshalb ist dieser Prozess für mich so wichtig. Mein Traum ist es, dass ein Teil davon in Zukunft bleibt.
 
-## «Globe» Hochschulen im Wandel
-
 Schmid: Wir haben die Entwicklungsfähigkeit der ETH entwickelt. Das ist der grosse Nutzen von rETHink. Es wird immer wieder nötig sein, sich weiterzuentwickeln. Es macht Spass. Es ist aber auch harte Arbeit.
 
 Mesot: Kollegen und Kolleginnen, die schon länger dabei sind, sagen mir, dass wir eine neue Art der Diskussionskultur etabliert haben.
@@ -61,6 +61,8 @@ Dannath: Aber man kann nicht immer oben sein. Es muss auch der Moment kommen, in
 Damit sprechen Sie die Zeit nach rETHink an… Dannath: Wenn rETHink beendet ist, wird es Dinge geben, die jetzt in der Institution so verankert sind, dass sie bleiben. Unabhängig davon, ob dann die aktuelle Schulleitung oder der Projektleiter noch da sind. Die Frage ist, wie man das langfristig verankert. Man hat immer die Struktur und die Kultur. Die Kultur haben wir jetzt auf den Weg gebracht.
 
 Mesot: Wir werden immer wieder Impulse geben, aber mit weniger Intensität. Ich stelle mir vor, dass wir uns in der Folge jeweils eines Themas pro Jahr annehmen. Auch die Kulturdiskussion muss weitergehen, denn die Werte ändern sich.
+
+## Rethink
 
 Mit dem von Präsident Joël Mesot initiierten Projekt rETHink sollen die Weichen für die organisatorische Weiterentwicklung der ETH Zürich gestellt werden. In sechs Teilprojekten wurde die heutige Organisation der ETH Zürich reflektiert und an den Herausforderungen gespiegelt, mit denen sich die Hochschule heute und morgen konfrontiert sieht. Die daraus abgeleiteten Erkenntnisse wurden zu einem Aktionsplan zusammengefasst. Die konkrete Umsetzung erfolgt in enger Zusammenarbeit mit den Professorinnen und Professoren, den Departementen, den Zentralen Organen und den Mitwirkungsgremien. Dank rETHink soll die ETH Zürich fit bleiben für die Zukunft. Ziel ist es, auch in zwanzig Jahren zu den erfolgreichsten Universitäten der Welt zu gehören.
 

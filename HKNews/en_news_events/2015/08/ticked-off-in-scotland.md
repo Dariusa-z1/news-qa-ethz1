@@ -2,23 +2,19 @@
 
 **Source:** en_news_events/2015/08/ticked-off-in-scotland.html
 
+**Date processed:** 2025-05-01
+
 ## Of New Zealand Sheep and Lyme disease
 
 I sit down among the heather on the side of a big hill in the Scottish Highlands. In reaching for a banana from my pack I discover my iPad at the bottom. This is mildly annoying—apart from the extra unnecessary weight, the iPad is now smeared with soft, over-ripe banana. Nonetheless, I need a break, and I might as well use it productively by telling you what's on my mind. These last few minutes I have been thinking about the productivity of sheep in New Zealand. This issue is actually, directly, and physically, affecting my enjoyment of the walk, and not in a positive way.
 
-## Sink for ticks
-
 Let me explain. I have before me a magnificent landscape, spotlighted by shafts of sunlight streaming through gaps in the clouds. Patches of ancient Caledonian pine forests fill small river gorges, hills stretch out before me, and the sea lies beyond. The magnificence of the view is indescribable – you really have to be here. But I have not been looking at the view. I am, instead, intently studying my ankles and legs for ticks, each around the size of a poppy seed. I find four. None has yet latched onto my skin, so it is easy to pick them off. I wonder how many I have not been able to find, and redouble my search. Ticks carry Lyme disease which, if not treated early, can be a debilitating and long-term illness. It is something I certainly want to avoid.
-
-## Conflicting objectives and complex interactions
 
 Ticks, and Lyme disease, are increasing in Scotland, or at least we are increasingly aware of their existence. I have spoken to many stalkers (professional hunters), foresters, and crofters (small-scale farmers) and they all tell me that ticks are far more common than they used to be, as is the incidence of Lyme disease. Foresters blame the high deer population, stalkers blame the expansion of woodland habitat, crofters blame the decline of sheep. They are all correct, but let's get back to those New Zealand sheep.
 
-## The Highlands are still worth a trip
-
 New Zealand produces sheep at a fraction of the cost of sheep farming in Scotland. Many crofters and sheep farmers in Scotland have consequently been priced out of the market, and sheep numbers in the Highlands have declined greatly. While this is first and foremost a problem for rural livelihoods in Scotland, the decline of sheep on the hills is also exacerbating my current troubles. Sheep are 'tick sponges'. Sheep spend most of their lives on the hills, and they each accumulate ticks in their hundreds. These ticks are then killed by the regular treatment of sheep with insecticides. Sheep are, effectively, a sink for the tick population and, so crofters tell me, keep tick numbers low. If the crofters are correct, then sheep farming in New Zealand has led ticks – and the Lyme disease that they transmit – to become much more common in the Highlands of Scotland. It is this that is impinging on my enjoyment of the Scottish hills.
 
-## Zum Autor
+## Conflicting objectives and complex interactions
 
 Sheep are only part of the story. Deer also host ticks, as do small mammals and birds. The high population of deer in the Highlands helps to maintain large tick populations. Yet deer are being culled on many Highland estates to encourage tree regeneration, to the chagrin of neighboring sport-hunting estates. As woodlands expand so do bird and small mammal populations, so ticks might not suffer much from deer culling. Deer do not carry Lyme disease anyway, but birds and small mammals do. And when extensive woodlands do establish, it is going to be a lot more difficult to control the deer.
 

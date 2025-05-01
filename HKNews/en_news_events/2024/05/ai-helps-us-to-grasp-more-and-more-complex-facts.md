@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2024/05/ai-helps-us-to-grasp-more-and-more-complex-facts.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Joachim Buhmann, why did you become a scientist? Buhmann: There is a great answer from Luc Ferry, a French philosopher and former Minister of Education. It's about the question of why people want to leave something behind after they die. This can be achieved by producing and raising offspring or educating and inspiring others as teachers. According to Ferry, however, the greatest legacy is left by scientists, as they make a lasting contribution to humanity as a whole through the knowledge they gain. Whether I was successful or not is for others to judge, and that may only become clear later. However, I believe that as a scientist I have at least tried to answer important questions and gain new insights, and some of my doctoral students have certainly taken away new knowledge that they have then developed further.
@@ -9,6 +11,8 @@ Joachim Buhmann, why did you become a scientist? Buhmann: There is a great answe
 Did you already know at the beginning of your career that you wanted to do research at a university? Buhmann: It was a kind of ideal, but I was never obsessed with the idea of becoming a professor. After my time as a postdoc in California, I was quite open to the idea of becoming a professor because my children were already older. My wife and I had our children in our 20s, and I became an associate professor at the University of Bonn at the age of 32. I am convinced that luck played a role in my career. Things could certainly have turned out very differently.
 
 Would you have had a plan B? Buhmann: My plan B would have been to go into a research laboratory or industry. There were already options in the field of machine learning in the 1990s, although not as many as there are today.
+
+## About
 
 Joachim Buhmann was a Professor of Practical Computer Science at the University of Bonn from 1992 to 2003, before he accepted a position at ETH Zurich and became a Full Professor of Computer Science. In his teaching and research, he focused on questions related to pattern recognition and data analysis, which includes areas such as machine learning, statistical learning theory, and applied statistics. Professor Buhmann took on important administrative functions at ETH, including the roles of Vice Rector for Study Programmes (2014-​2018) and Head of the Institute for Machine Learning (2014-​2023). Since 2017, he has also been a member of the Research Council of the Swiss National Science Foundation.
 

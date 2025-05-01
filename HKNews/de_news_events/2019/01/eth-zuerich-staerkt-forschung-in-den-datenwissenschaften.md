@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2019/01/eth-zuerich-staerkt-forschung-in-den-datenwissenschaften.html
 
+**Date processed:** 2025-05-01
+
 ## Wie Daten zu Erkenntnis werden
 
 Wer heute mit dem Smartphone fotografiert, erhält automatisch ganze Fotoalben mit Titel, Datum, Reisekarte und Standortbezeichnungen digital zusammengestellt. Ohne eigenes Zutun. Die Resultate sind erstaunlich gut, jedenfalls so, dass ein Betrachter nicht einfach beurteilen kann, wer das Album erstellt hat: ein Mensch oder eine Maschine?
@@ -12,17 +14,15 @@ Gemeint sind damit in der Regel lernfähige Berechnungsverfahren, sogenannte int
 
 Effiziente, intelligente Algorithmen, die selber lernen, wie sie in den Daten das erwünschte Wissen finden, wirken sich nicht nur auf private Nutzer und industrielle Abläufe aus, sie verändern auch die Art, wie sich Forschende und Computer ihre Arbeit teilen. Besonders bei sehr grossen, komplexen und uneinheitlichen Datenmengen können solche Algorithmen wertvolle Erkenntnisse ermöglichen, die sonst unbemerkt blieben.
 
-## Eine neue Dimension
-
 Sowohl Beobachter als auch Gestalter dieser rasanten Entwicklung der datengetriebenen Methoden ist Peter Bühlmann. Von Haus aus ist der ETH-Professor ein Statistiker. Seit Jahresbeginn leitet er die neue Initiative der ETH Zürich für die «Grundlagen der Datenwissenschaften» (« ETH Foundations of Data Science »). Wie man aus Daten Informationen und Erkenntnisse gewinnen kann, ist seit jeher das Kerngeschäft der Statistik.
 
 Peter Bühlmann (Mitte, zw. Alessio Figalli und Cédric Villani) leitet die Initiative «Grundlagen der Datenwissenschaften». (Foto: PPR / Christian Merz)
 
+## Eine neue Dimension
+
 Die datengetriebenen Ansätze unterscheiden sich jedoch von den klassischen, sagt Bühlmann mit der Prise Witz, die ihn auszeichnet: «Im klassischen Ansatz der Statistik ging ein Forscher von einer wissenschaftlichen Fragestellung aus und überlegte sich sehr sorgfältig, welche Daten er mit welcher Methode erhob, um daraus möglichst informative Schlüsse zu ziehen. Weil die Daten heute, zugespitzt gesagt, wie automatisch vom Himmel fallen, ist das oftmals nicht mehr so.»
 
 Die neuen Ansätze, die intelligente Algorithmen verwenden, können auch ohne geplante Datenerhebung automatisch interessante Information aus vorhandenen Datenmengen herausziehen. Aus diesen neuen Möglichkeiten sind in den vergangenen Jahren die Datenwissenschaften entstanden: Heute sind sie ein interdisziplinäres Forschungs- und Entwicklungsgebiet im Schnittbereich von Statistik, Informatik, Informationstechnologie und Mathematik.
-
-## Verantwortung und faire Algorithmen
 
 «Datenwissenschaften sind etwas Neues. Sie sind nicht einfach Statistik, nicht einfach Informatik und auch nicht einfach Informationstechnologie, sondern ein Zusammenwirken von allen drei», sagt Bühlmann. Mit der neuen Initiative stärke die ETH Zürich die datenwissenschaftliche Grundlagenforschung, indem sie die bestehende Expertise bündle. Beteiligt sind elf Professuren aus drei ETH-Departementen, die in den Bereichen Statistik , Maschinelles Lernen und Informationstechnologie forschen.
 
@@ -32,9 +32,9 @@ Da sich datenwissenschaftliche Neuerungen auf viele Nutzer in Wissenschaft, Wirt
 
 Nicht in jedem Fall gelingt die Automatisierung schliesslich so elegant wie in der erwähnten Foto-App. Mitunter kann die Anwendung intelligenter Algorithmen durchaus problematisch werden: Wenn zum Beispiel Computer aufgrund von Merkmalsdaten (Alter, Geschlecht, Nationalität, Gesundheit etc.) auslesen, wer kreditwürdig ist, oder wenn sie Richtern Hinweise geben, mit welcher Wahrscheinlichkeit Angeklagte schuldig sein könnten – dann sollten sich daraus keine Benachteiligungen ergeben.
 
-## Innovationen ermöglichen: ETH+ Grants
-
 Für Bühlmann sind deshalb «interpretierbares maschinelles Lernen» und «faire Algorithmen» zwei grosse Forschungsfragen, die ihn persönlich sehr interessieren: «Als Grundlagenforscher will ich etwas Sinnvolles für die Gesellschaft produzieren. Ich will wissen, wann eine Anwendung zuverlässige Resultate liefert und wann weniger», sagt Bühlmann, «das ist meine Haltung.»
+
+## Innovationen ermöglichen: ETH+ Grants
 
 Die Initiative ETH+ unterstützt interdisziplinäre Projekte von Studierenden, Forschenden und anderen ETH-Angehörigen, die dazu beitragen, dass die ETH das Innovationspotenzial an den Grenzen der Disziplinen und Departemente besser ausschöpfen kann.
 

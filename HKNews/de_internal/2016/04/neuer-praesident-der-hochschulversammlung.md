@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2016/04/neuer-praesident-der-hochschulversammlung.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Werner Wegscheider, Professor für Festkörperphysik und stellvertretender Leiter des Laboratoriums für Festkörperphysik der ETH Zürich (D-PHYS), ist der neue Präsident der Hochschulversammlung der ETH Zürich (HV). In der HV hat er schon bisher die Anliegen der ETH-Dozierenden wahrgenommen - als Vertreter der Konferenz des Lehrköpers (KdL).

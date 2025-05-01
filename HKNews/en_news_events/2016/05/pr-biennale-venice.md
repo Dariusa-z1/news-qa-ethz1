@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2016/05/pr-biennale-venice.html
 
+**Date processed:** 2025-05-01
+
 ## Architecture for the people
 
 Confronted with rapid population growth, urban regions face an influx of migrants and the challenges of climate change. For this reason, ETH Zurich is focusing its research on the development of sustainable cities. It is hardly surprising, then, that ETH Zurich is represented so prominently at this year’s Architecture Exhibition in Venice, that addresses how architecture can improve people’s living situations.
@@ -20,8 +22,6 @@ See the separate Factsheet for more information and Photos .
 
 The Block Research Group and ODB Engineering join the team of Norman Foster and supported by the Lafarge Holcim Foundation to present an earthen tile shell, which serves as a prototype for a terminal for drones, the “droneport”, in Rwanda. In the future, this is intended to form part of an infrastructural network to supply blood, medication and other important goods to remote regions of Africa.
 
-## Overview of projects related to ETH
-
 More Information and Photos .
 
 “Mud WORKS!” Main exhibition, Giardini – Anna Heringer, Martin Rauch and Andres Lepik
@@ -37,8 +37,6 @@ See the separate Factsheet for more information.
 “Incidental Space” Swiss Pavilion – Exhibitor: Prof. Christian Kerez, Curator: Sandra Oehly, together with: Profs. Benjamin Dillenburger, Joseph Schwartz, Karin Sander, Ludger Hovestadt, Olga Sorkine-Hornung, and Alessandro Tellini
 
 The ‘Incidental Space’ project from architect Christian Kerez takes the form of fundamental research and re-examines the possibilities of architecture. Although today’s technology creates more possibilities than ever before, architects’ creative scope seems instead to be narrowing. In this project, Kerez demonstrates how the interpretation of architecture can change not only the possibilities of architecture but also the architecture itself.
-
-## Contact
 
 See the press release from Pro Helvetia for more information and Photos .
 

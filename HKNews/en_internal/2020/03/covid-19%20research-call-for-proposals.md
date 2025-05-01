@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2020/03/covid-19%20research-call-for-proposals.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 The Centre invites researchers from its four partner institutions (ETH Zurich, University of Basel, University Children’s Hospital Basel and Swiss Tropical and Public Health Institute) to submit projects that can deliver impact in the COVID-19 pandemic.

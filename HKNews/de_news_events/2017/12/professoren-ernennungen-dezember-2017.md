@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2017/12/professoren-ernennungen-dezember-2017.html
 
+**Date processed:** 2025-05-01
+
 ## Ernennungen
 
 Der ETH-Rat hat an seiner Sitzung vom 13./14. Dezember 2017 auf Antrag des Präsidenten der ETH Zürich, Lino Guzzella, zwei Frauen und acht Männer zu Professorinnen respektive Professoren ernannt. Vier Persönlichkeiten wurde der Professorentitel verliehen.
@@ -18,13 +20,13 @@ Prof. Dr. Dirk Mohr (*1976), zurzeit Tenure-Track-Assistenzprofessor an der ETH 
 
 Dr. Rafael Polania (*1983), zurzeit Postdoktorand an der Universität Zürich, zum Assistenzprofessor für Neurowissenschaft der Entscheidungsprozesse. Rafael Polania erforscht, wie das menschliche Gehirn Entscheidungen trifft und dann in zielgerichtetes Han­deln umsetzt. In seinem stark interdisziplinären Ansatz kombiniert er die Modellierung von neuronalen Prozessen und Verhalten mit modernen bildgebenden Verfahren und nicht-invasiver Hirnstimulation. Dies erlaubt ihm, die neuronale Kommunikation des Gehirns ziel­gerichtet zu beeinflussen und die Auswirkung auf das menschliche Verhalten zu untersu­chen. Rafael Polania’s Forschung wurde dieses Jahr mit einem ERC Starting Grant gewürdigt. Mit seiner Ernennung stärkt die ETH Zürich unter anderem die Humanforschung.
 
-## Verleihung des Titels «Professor»
-
 Dr. Lesya Shchutska (*1985), zurzeit Oberassistentin an der ETH Zürich, zur Assistenzprofessorin für Experimentelle Teilchenphysik. Lesya Shchutska ist eine international beachtete Nachwuchs­wissenschaftlerin und erhielt 2017 einen ERC Starting Grant. Sie fokussiert ihre Forschung auf die Suche nach physikalischen Phä­nomenen jenseits des Standardmodells der Teilchenphysik. Dafür verwendet sie die Daten, die mit dem CMS-Experiment am Large Hadron Collider (LHC) des CERN in Genf aufgezeichnet werden. Auf dem Gebiet der Suche nach sogenannten supersymmetrischen Teilchen gilt Lesya Shchutska als eine der weltweit führenden Expertinnen. Mit der Ernennung von Lesya Shchutska will die ETH Zürich ihre führende Rolle in der experimentellen Hochenergiephysik weiter ausbauen.
 
 Prof. Dr. Olga Sorkine Hornung (*1981), zurzeit ausserordentliche Professorin an der ETH Zürich, zur ordentlichen Professorin für Informatik. Olga Sorkine gilt als weltweit führende Wissenschaftlerin im Bereich der geometrischen Modellie­rung sowie der digitalen Bearbeitung von Geometrie. Eines ihrer Hauptarbeitsge­biete umfasst die interaktive Modellierung von Oberflächen, die in vielen Anwendungs­berei­chen der Computergraphik eine bedeutende Rolle spielt. In diesem Bereich hat sie fundamentale Forschungsergebnisse erzielt. Aktuell befasst sie sich auch mit Computerdesign in Zusammenhang mit digitaler Fabrikation und 3D-Druckverfahren. Olga Sorkines Resultate wurden verschiedentlich ausgezeichnet, unter anderem erhielt sie 2012 einen ERC Starting Grant.
 
 Prof. Dr. Alexander Stremitzer (*1974), zurzeit Professor an der University of California, Los Angeles, USA, zum ordentlichen Professor für Recht und Ökonomie. Alexander Stremitzer ist weltweit einer der führenden Wissenschaftler in der Anwendung experi­menteller Methoden auf juristische Fragestellungen. Mit mathematischen Modellen entwickelt er Hypothesen über die Interaktion von Geschäftspartnern im Vertrags-, Haftpflicht- und Konkursrecht und überprüft diese in sozialwissenschaftlichen Labors auf ihre Validität. Dabei fliessen Erkenntnisse aus der Rechtswissenschaft, der Volkswirtschaftslehre und den Verhaltenswissenschaften ein. Die Berufung von Alexander Stremitzer festigt die weltweite Stellung des Center for Law & Economics an der ETH Zürich.
+
+## Verleihung des Titels «Professor»
 
 Prof. Dr. Zhendong Su (*1970), zurzeit Professor an der University of California, Davis, USA, zum ordentlichen Professor für Informatik. Zhendong Su ist einer der weltweit führenden Experten in Software Engineering und Program­mier­sprachen. Er hat wesentliche Beiträge in vielen wichtigen Gebieten der Informa­tik geleistet. Dazu gehört beispielsweise die Entwicklung neuartiger Testmethoden für Compiler, dem wichtigsten Werkzeug in der Software-Entwicklung. Bekannt ist er auch für Test- und Analyse­techniken, welche die Sicherheit von Web-Applikationen verbessern. Mit der Berufung von Zhendong Su verstärkt das Departement Informatik in idealer Weise die Forschung und Lehre im Bereich Software Engineering und Programmier­sprachen.
 

@@ -2,7 +2,9 @@
 
 **Source:** en_internal/2017/07/the-campus-never-sleeps.html
 
-## Security and order
+**Date processed:** 2025-05-01
+
+## Main article
 
 “Which 95-year-old announced his retirement from public life today?” asks Brett Stirling. He is in the middle of running a pub quiz in the Alumni Lounge. It is 8 p.m. Many ETH members are rounding off their day with a quiz here on the Hönggerberg campus. While the teams put their heads together to discuss the answer – wasn't it Prince Philip? – restaurant manager Nurcan Inak explains her concept for the Alumni Lounge: “We hope our events will encourage people to spend more time on the campus.” From the autumn semester onwards, there will be a daily programme of events including live music, games evenings, karaoke and exhibitions. The lounge already hosts events several times a month and it is busy on evenings when there is nothing planned as well. “People come here to chat, work and switch off,” says Inak, placing the caipirinha she has just prepared on the bar. “Many of them come after a sports match or training session and stay for a beer.”
 
@@ -10,23 +12,21 @@ Loch Ness next door is a good place for beer too. On this particular evening in 
 
 The gym in question at the Hönggerberg Sport Center is still busy. It is now 9 p.m. It is slowly getting dark and it has started to rain. The people here are mostly men, lifting weights, using the fitness machines and doing sit-ups on the mats. In the sports hall, meanwhile, a handball training session is taking place. “You have to run faster!” shouts the trainer. “Let's go! One more time!” Sweaty and red-faced, the players dart around the court. The ball flies back and forth until: “Yes! It's a goal!”
 
-## Polyterrasse in the moonlight
-
 There's lots still going on in the adjacent rooms as well. Salsa, ballet, taekwondo – all of the courses are well attended. The Sport Center is open until 10.45 p.m. on weekdays. While some people are celebrating, others are still sweating.
+
+## Security and order
 
 A 69 bus is driving up to the bus stop. Despite the late hour, it is bringing a good dozen people to the campus. “In the last couple of years, we have seen an increase in the number of events. That has led to more night-time disturbances,” says Christof Körber from the security service of the Safety, Security, Health and Environment department. He has been working at ETH Zurich for 19 years. Today he's on the late shift. In the HCO car park, he checks the delivery entrance for the Chemistry department. “That needs clearing away,” says Körber, pointing to empty containers stacked up against the wall. Behind the containers is the emergency shower which is used in the event of chemical accidents. “Otherwise you could lose valuable seconds in a contamination situation.” During his shift, he makes sure that all doors are locked and escape routes are clear. Alarm calls are received by the Emergency Desk first and are then forwarded on to him. Many are of a technical nature – if, for example, the ventilation or another system in a room stops working. In laboratories in particular, this can lead to dangerous situations.
 
 “Hi, this is the ETH security service. We're locking up now, if you could make your way out please.” Körber comes across lots of people still working in the computer rooms at this late hour. “Before the exams, you notice the nerves in the students,” says Körber. In the architecture department's drawing studio in the HIL building, you would hardly know it was 11 p.m. Project deadlines are coming up and the room is full of students working on their models. It's a scene of creative chaos. The tables and floor are covered with scraps of paper and tubes of glue, along with crisps and empty drinks bottles. “We'll get the last bus home at 1 a.m.,” says Cilgia Salzgeber, a first-year architecture student. She'll even be pulling a couple of all-nighters right before the deadline. On these occasions, she only has time to go home for a quick shower before it's time to get back to university again.
 
-## Subscribe to Newsletter
+## Polyterrasse in the moonlight
 
 There are people still working in the HPK basement a few buildings further along as well. In the biology department, the nuclear magnetic resonance spectrometer is working at full speed. The machine, which is around four metres tall, works all year round without interruption. Its job is to analyse tiny samples of substances such as isolated proteins and active components of medicines. “It enables us to study even the weakest signals from atoms and atomic nuclei,” explains Alvar Gossert from the Institute of Molecular Biology and Biophysics. Every few nights, there are doctoral students or other institute members on site. They take the narrow test tubes containing the samples out of the machine and replace them with new samples. They have to make sure that they are not wearing anything metallic before entering the room, because the machine generates the largest magnetic field at ETH. It would stop a watch immediately.
 
 It's the same in other departments such as the Departments of Materials Science or Chemistry and Applied Biosciences – the research never stops. There may only be people on site on rare occasions, but the machines run day and night. The campus never sleeps.
 
 It has stopped raining. At 2 a.m., the sky is full of stars. Only the odd light is still on in the student accommodation. The security service patrols both the Hönggerberg and Zentrum campuses all night long. Partygoers finish off one last beer as they make their way home along the Polyterrasse. In the morning, the cleaning staff will have to pick up their rubbish.
-
-## Staffnet
 
 The bQm bar closed a couple of hours ago after a DJ set earlier in the evening. The ETH main building is dark and quiet. But there are still a few tables occupied: some students are working through the night to prepare for their exams.
 

@@ -2,31 +2,25 @@
 
 **Source:** en_news_events/2024/06/globe-eth-research-supply-support-to-the-swiss-state.html
 
+**Date processed:** 2025-05-01
+
 ## New trends in civil protection
 
 Researchers from ETH Zurich routinely supply Switzerland’s government and public administration with expert input. Their know-how helps the public sector to craft new responses to the challenges facing society. In regular contributions to commissioned studies, hearings and consultations, ETH researchers present data, outline new trends, model scenarios, explain correlations and warn of emerging threats to the social fabric. And since the government generally lacks the time to get up to speed with new methodologies and the latest technology, ETH's contribution also helps drive innov­ation in the public sector.
 
 At the same time, ETH offers a wide range of continuing education programmes that help maintain a continuous flow of knowledge into this sphere. Each year, these courses – over 85 in total – attract a steady stream of employees from public administration, allowing them to keep abreast of the latest advances in fields ranging from artificial intelligence to digital healthcare. This article examines how ETH researchers are assisting the Swiss state and driving innovation in civil protection, financial planning, energy provision and cybersecurity.
 
-## Forecasts for the federal budget
-
 In Switzerland, it is the responsibility of the cantons to protect the population in the event of an emergency – be that a power cut, mobile phone outage or even the next pandemic. Support and coordination at the national level is provided by the Federal Office for Civil Protection (FOCP). Its responsibilities include the development of a civil protection strategy capable of addressing emerging threats and exploiting new opportunities. The Center for Security Studies (CSS) at ETH Zurich has been lending its support in this area since 2015. “Our trend analyses give the FOCP advanced warning of critical developments,” says Andrin Hauri from the CSS.
 
 The CSS report focuses on 12 key trends that are likely to have a major impact on Swiss civil protection over the next 5 to 10 years. In addition to well-known issues such as the growing urgency of climate change mitigation and increasing geopolitical polarisation, the authors also describe two technological changes that are destined to play an increasingly important role in civil protection.
-
-## E-cars for greater grid flexibility
 
 For a start, they discuss the growing impact of unmanned robotic vehicles. Researchers are already working with the public sector on the use of this technology in disaster relief, as part of the Advanced Robotic Capabilities for Hazardous Environments (ARCHE) project. ETH developments in this area include Tethys, a diving robot, Anymal, a four-legged robot, and Gravis, an unmanned excavator. The report also highlights how satellites are offering new ways to monitor the environment and to provide advance warning of natural disasters. For example, ETH researchers recently demonstrated how GPS data can be used to improve the forecasting of extreme weather events such as thunderstorms with heavy rainfall.
 
 How much money is in the federal coffers at any one time? This is a question that routinely preoccupies Switzerland’s Federal Finance Administration (FFA), the body responsible for compiling budgetary stat­istics and generating forecasts of future income and expenditure. To better anticipate how budgetary constraints might shift over the course of the year, the FFA has teamed up with the KOF Swiss Economic Institute at ETH Zurich. Over the past two years, ETH researchers have created a forecasting model that provides a sound statistical basis for planning the federal government’s finances and have helped get the new system up and running.
 
-## Armed against cyberattacks
-
 The FFA receives a steady stream of data on the Swiss economy, including figures on gross domestic product, unemployment, inflation, exchange rates, tax revenue and public expenditure. Using the new model, it can produce federal budget forecasts more quickly and more accurately. At the same time, the model makes it easier to handle volatile variables and calculate different budget scenarios. “It gives the FFA a more powerful tool to analyse how income and expenditure are affected by factors such as lower growth,” explains KOF project lead Samad Sarferaz. “That makes the state more agile when predicting how public finances will develop and determining what scope they have within the framework of the debt brake mechanism.”
 
 Switzerland aims to replace fossil fuels such as gas and oil with electricity from solar and wind power by 2050 at the latest. In addition to replacing fossil fuel heating with electric heat pumps, another key element of this strategy will be the switch from petrol and diesel to electric cars. By 2025 – according to the government target – half of all cars newly registered in Switzerland will be powered by battery. In 2023, this proportion was around 20 percent. Given that all these new e-cars will need recharging on a regular basis, this will require not only the appropriate infrastructure but also the provision of more power.
-
-## Globe Full speed ahead!
 
 To investigate what this will mean for the country’s electricity system, the ETH Energy Science Center (ESC) is currently running a project as part of a consortium commissioned by the Swiss Federal Office of Energy (SFOE). ESC researchers point out that all these electric cars will not necessarily increase the load on the power grid, provided they are charged primarily at times when electricity is plentiful. Conversely, if electric cars are able to feed electricity back into the grid when power is in short supply, they can also help make the grid more flexible and resilient. At present, researchers are still unsure whether the benefits of this process, known as bidirectional charging, will outweigh the still-high costs of installing the infrastructure.
 

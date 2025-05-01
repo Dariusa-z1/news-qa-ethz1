@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2021/08/embryonic-development-in-slow-motion.html
 
+**Date processed:** 2025-05-01
+
 ## Gene transcripts and signalling molecules studied
 
 Everyone is familiar with the roe deer, either from crossword puzzles or from real-life encounters during a jog or a hike in the forest: majestic creatures with elegant big black eyes.
@@ -26,13 +28,13 @@ Towards the end of diapause, the significant increase in the amino acid level in
 
 In this study, the researchers did not investigate whether other signalling molecules are involved alongside the various amino acids. It also remains unclear whether the amino acids are actually responsible for the resumption of embryonic development or whether the embryo itself also secretes molecules that act on maternal cells and signalling pathways. The embryo may indicate its presence to its mother through specific signalling molecules. Ulbrich would like to close this knowledge gap in future studies.
 
-## Reference
-
 These new findings shed light on reproductive and developmental biology in general. One fundamental question is how pregnancy is established in mammals. For example, in women and in domestic cattle, embryos often fail to implant in the uterus and die. “This has to do with complex interactions between the embryo and the mother,” Ulbrich says.
 
 She adds that a successful pregnancy calls for precise timing. The embryo must make itself known at the right time through appropriate (molecular) signals and interrupt the mother’s cycle. “We want to better understand this interaction between embryo and mother,” Ulbrich explains. For this, she says, the roe deer is an ideal model. Embryonic development in roe deer is very similar to that of cattle but takes place in slow motion. “This allows us to better temporally resolve the sequence of events and find causal relationships.”
 
 The findings could also help improve in vitro fertilisation in humans so that embryos may no longer need to be frozen. Moreover, natural factors could be used to control the rate at which cells, including embryonic stem cells, divide.
+
+## Reference
 
 van der Weijden VA, Bick JT, Bauersachs S, Rueegg AB, Hildebrandt TB, Goeritz F, Jewgenow K, Giesbertz P, Daniel H, Derisoud E, Chavatte-Palmer P, Bruckmaier RM, Drews B, Ulbrich SE (2021). Amino acids activate mTORC1 to release roe deer embryos from decelerated proliferation during diapause. PNAS, publiziert 27.8.2021. DOI: 10.1073/pnas.2100500118
 

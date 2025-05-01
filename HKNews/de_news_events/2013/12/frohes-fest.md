@@ -2,15 +2,9 @@
 
 **Source:** de_news_events/2013/12/frohes-fest.html
 
+**Date processed:** 2025-05-01
+
 ## Vorspeisen
-
-- Blätterteig in eine Springform geben
-
-- Sahne, Eier, Käse, evtl. Schinkenwürfel und Gewürze vermischen
-
-- Masse mit dem kleingeschnittenen Gemüse mischen und auf den Blätterteig geben
-
-- bei 180°C (Umluft) circa 30 Minuten backen
 
 Die Einsendungen reichten von der einfachen Idee bis hin zum ausgefeilten Drei-Gänge-Menu. Wir gratulieren herzlich den beiden Gewinnerinnen der Verlosung. Hier eine kleine Auswahl der eingesandten Rezepte, sortiert nach Vorspeise, Hauptgang und Dessert. En Guete!
 
@@ -32,8 +26,6 @@ Für ca. 4 Pers – hängt von der Menge des übrigen gebliebenen Fleisches ab.
 
 In kleinste Würfeli (Brunoise) schneiden und in die Vinaigrette geben, nochmals gut mischen.
 
-## Hauptgänge
-
 Fleisch vorsichtig auf einem Teller anrichten und ein wenig der Apfel-Vinaigrette darüber verteilen. Dazu passt ein Salat, zum Beispiel aus Knollensellerie, der im Winter Saison hat und deshalb besonders nachhaltig ist.
 
 Reste des Fleisches (Rind/Schwein/Geflügel) in dünne Scheiben schneiden, mit Balsamico Creme beträufeln und Thai-Basilikum-Blätter darüber streuen.
@@ -54,8 +46,6 @@ Alles mischen, so dass eine feuchte Masse entsteht, evtl. noch etwas Rahm zugebe
 
 Mit Salz, Pfeffer, Muskatnuss, Nelkenpulver und Paprika würzen – die Masse sollte nicht zu mild sein
 
-## Desserts
-
 1 rechteckiger Bio-Blätterteig 1 Bio-Ei von Hühnern, die auch ins Freie dürfen - vorsichtig teilen
 
 Aus dem Blätterteig mit einem runden Förmli (Durchmesser ca. 7 cm) – wahlweise geht auch ein Glas oder Ähnliches – möglichst viele runde Teigscheiben ausstechen. Die Teigresten beiseite legen und die Teigscheiben mit dem Eiweiss bepinseln. Einen kleinen Teelöffel der Schinkenmasse auf eine Hälfte der Scheibe legen, das Chräpfli schliessen und mit einer Gabel rundherum gut zudrücken.
@@ -70,13 +60,13 @@ Diese sanft aufeinander legen und nochmals möglichst rechteckig auswallen. Mit 
 
 (Bild: Anja Stadelmann)
 
+## Desserts
+
 Gekochte Nudeln 1 Dose Mais 150g Pilze 100g Käse
 
 Für die Sauce: 1 Zwiebel 250 ml Rahm Salz, Pfeffer, Muskatnuss, Kräuter
 
 Die Nudeln mit dem Mais und den geschnittenen Pilzen vermischen und in die Auflaufform geben. Zwiebel hacken und im Öl andünsten, Rahm hinzugeben und würzen. Die Sauce über den Auflauf giessen, mit Käse bedecken und bei 220°C im Backofen schmelzen lassen.
-
-## Keinen Beitrag verpassen
 
 (Das Rezept klappt auch mit veganen Zutaten (Haferrahm & Cheezlykäse), siehe im Bild.)
 

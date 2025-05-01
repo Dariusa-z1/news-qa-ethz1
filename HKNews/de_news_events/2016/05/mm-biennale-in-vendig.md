@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2016/05/mm-biennale-in-vendig.html
 
+**Date processed:** 2025-05-01
+
 ## Architektur für den Menschen
 
 Urbane Regionen sind mit einem rasanten Bevölkerungswachstum, Migrationsströmen sowie klimatischen Veränderungen konfrontiert. Deshalb setzt die ETH Zürich einen Schwerpunkt ihrer Forschung auf die Entwicklung nachhaltiger Städte. Es überrascht daher wenig, dass die ETH Zürich so prominent an der diesjährigen Architekturbiennale von Venedig vertreten ist, die sich damit auseinandersetzt, wie Architektur die Lebenssituation von Menschen verbessern kann.
@@ -20,8 +22,6 @@ Siehe hierzu auch das separate Factsheet und Fotos .
 
 Gemeinsam mit ODB Engineering, dem Team von Norman Foster und der Unterstützung der Lafarge-Holcim-Stiftung stellt die Block Research Group die aus Erde bestehende Gebäudehülle des Prototypen für den Drohnenflugplatz «Droneport» in Ruanda vor. Dieser soll künftig teil eines Drohnennetzes sein, dass entlegene Gegenden Afrikas mit Medikamenten und weiteren wichtigen Gütern versorgen soll.
 
-## Die ETH-Projekte im Überblick
-
 Mehr Information und Fotos .
 
 «Mud WORKS!» Hauptausstellung, Giardini – Anna Heringer, Martin Rauch und Andres Lepik Etwa drei Milliarden Menschen leben in Behausungen aus Lehm und das aus gutem Grund: Lehm ist als Naturprodukt fast überall auf der Welt verfügbar und kostet wenig. Mit einer Installation würdigen die ETH-Gastdozenten Anna Heringer und Martin Rauch gemeinsam mit Andres Lepik und dem Architekturmuseum der TU München die Schönheit und Wandelbarkeit von Lehm. Die 25 Tonnen schwere Installation haben sie über drei Monate lang von Hand geformt.
@@ -37,8 +37,6 @@ Siehe hierzu auch das separate Factsheet .
 Das als Grundlagenforschung angelegte Projekt «Incidental Space» des Architekten Christian Kerez lotet die Möglichkeiten von Architektur neu aus. Obwohl heute technologisch mehr möglich ist denn je, scheint sich der Gestaltungsspielraum der Architekten eher einzuschränken. Christian Kerez zeigt mit seinem Projekt auf, wie die Darstellung von Architektur einerseits die Möglichkeiten von Architektur andererseits aber auch die Architektur selbst verändern kann.
 
 Siehe hierzu auch die Medienmitteilung von externe Seite Pro Helvetia und externe Seite Fotos .
-
-## Kontakt
 
 Informal Settlements in Cairo Ägyptischer Pavillon – The MAS Urban Design, Prof. Marc Angélil
 

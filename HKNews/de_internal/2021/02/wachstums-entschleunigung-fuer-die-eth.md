@@ -2,35 +2,23 @@
 
 **Source:** de_internal/2021/02/wachstums-entschleunigung-fuer-die-eth.html
 
+**Date processed:** 2025-05-01
+
 ## Wachstum auf allen Ebenen
 
 Ein wichtiger Punkt vorneweg: Die ETH Zürich ist finanziell nach wie vor gesund aufgestellt und verfügt über eine solide Eigenkapitalbasis. Fakt ist aber auch, dass die Hochschule in den letzten Jahren stark gewachsen ist und entsprechende finanzielle Verpflichtungen aufgebaut hat.
 
-## Wachstum muss finanzierbar sein
-
 Sämtliche Departemente haben viele Ideen für eigene Schwerpunkte und Professuren in die Planung eingegeben und sind in den letzten Jahren zum Teil deutlich gewachsen. Die Schulleitung ihrerseits hat in enger Kooperation mit mehreren Departementen verschiedene Schwerpunktthemen gestärkt und damit neue akademische Felder von hoher gesellschaftlicher Relevanz erschlossen (Energie, Gesundheit, Digitalisierung, Künstliche Intelligenz, Quantentechnologie etc.). Damit konnte die ETH auch der wachsenden Zahl der Studierenden gerecht werden, die seit 2007 von gut 13’000 auf heute über 23’000 angestiegen ist (+77%). Interdisziplinäre Themenfelder erschloss die Schulleitung zudem mit dem Förderungsinstrument ETH+ und baute dazu die freien Reserven ab – ein expliziter Auftrag des Bundes. Parallel zu dieser Entwicklung ist auch der Aufwand für die Zentralen Organe und die Technologieplattformen angestiegen.
-
-## Massnahmen jetzt ergreifen
 
 Ein derart starkes Wachstum bringt viele langfristige Verpflichtungen in Lehre und Forschung mit sich und erfordert substanzielle Investitionen in die Infrastruktur. Unser künftiger Budgetmittelbedarf wird dadurch weiterhin spürbar ansteigen. Erschwerend kommt hinzu, dass der Finanzierungsbeitrag des Bundes in den letzten vier Jahren nicht wie erwartet um 2 bis 2,5% pro Jahr gewachsen ist. Dank der Zunahme von Drittmitteln und Donationen sowie Anlageerträgen konnte die ETH dies einigermassen kompensieren. Weil unsere Hochschule zu mehr als 70% direkt aus Bundesmitteln finanziert wird und der Bund aufgrund der anhaltenden Corona-Pandemie grosse Haushaltsdefizite macht, blicken wir in den kommenden Jahren voraussichtlich finanziell herausfordernden Zeiten entgegen.
 
-## Bereich Immobilien: Zusatzbudget und Solidaritätsbeiträge
-
 Um weiterhin die Kernaufträge Lehre, Forschung und Wissenstransfer bestmöglich zu erfüllen und gleichzeitig ihre Finanzen im Lot zu halten, muss die ETH Zürich das ausgeprägte Wachstum der vergangenen Jahre deutlich bremsen. «Dies bedeutet nicht, dass wir insgesamt abbauen oder uns gar verkleinern müssen», stellt ETH-Präsident Joël Mesot klar. «Aber wir müssen jetzt Massnahmen ergreifen und unsere Wachstumspläne neu priorisieren. Nur so bleibt uns weiterhin genügend finanzieller Spielraum für strategische Entwicklungen. Unsere Bremswege sind lang, weil viele Ausgaben, z.B. für Bauprojekte oder die Umsetzung der Professurenplanung, sehr langfristiger Natur sind.»
-
-## Abstriche nur auf den Wunschzetteln
 
 Der Wachstumskurs der letzten Jahre stellt vor allem den Bereich Immobilien vor grosse Herausforderungen. Das letzte Jahr war ein Ausnahmejahr mit einem ausserordentlich hohen Investitionsvolumen wegen mehrerer parallel laufender Grossprojekte. Auch in den kommenden Jahren wären die Investitionen in Bauprojekte und Sanierungen deutlich über einem nachhaltigen Mass gelegen. Hier will die Schulleitung nun mittelfristig das Budget auf ein solide finanzierbares Niveau von 180 bis 200 Mio. Franken pro Jahr reduzieren. Dazu musste sie unter anderem das Projekt zur Sanierung und Erweiterung des MM-Gebäudes und der Polyterrasse stoppen. «Wir haben nicht zuletzt auf dieses Erweiterungsprojekt verzichtet, um die grossen akademischen Vorhaben realisieren zu können», sagt Ulrich Weidmann, Vizepräsident für Infrastruktur.
 
-## Nachgefragt bei Robert Perich
-
 Da derzeit gleich vier Immobilien-Grossprojekte kurz vor ihrer Vollendung stehen, sind trotz dieses Verzichts die Mittel von 2021 bis 2024 für kleinere und mittlere Projekte äusserst begrenzt. Für 2021 hat die Schulleitung daher ein einmaliges Zusatzbudget von 25 Mio. Franken und weitere Zusatzmittel in der Höhe von über 8 Mio. Franken gesprochen. Zudem haben sämtliche Departemente zugestimmt, einen ersten Solidaritätsbeitrag von insgesamt 15 Mio. Franken für das laufende Jahr zu leisten. Für jedes Departement bedeutet dies eine Verschiebung von Reserven in der Höhe von 2,27% des jeweiligen Grundauftragsbudgets.
 
-## Staffnet
-
 Zusätzlich sind alle Departemente auch in den kommenden drei Jahren aufgefordert, gemeinsam weitere 15 Mio. Franken pro Jahr beizutragen, um geplante, ETH-weite Infrastrukturprojekte zugunsten von Lehre und Forschung zu finanzieren. «Die ETH ist wegen des akademischen Wachstums und der daraus entstehenden Raumbedürfnisse darauf angewiesen, dass wir wichtige Infrastrukturprojekte weiterführen. Mit dem verfügbaren Budget der Schulleitung allein werden wir diese nicht finanzieren können. Wir brauchen hier die gemeinsame Unterstützung durch die Departemente und gehen davon aus, dass in den nächsten Monaten die Modalitäten für diese Beiträge geklärt werden», kommentiert Robert Perich, Vizepräsident für Finanzen und Controlling. «Das wäre ein starkes und positives Zeichen der Solidarität, das zeigt, dass wir in herausfordernden Zeiten alle am gleichen Strick ziehen.»
-
-## Newsletter abonnieren
 
 Parallel zu dieser Entwicklung im Bereich Immobilien hat die Schulleitung bereits im vergangenen Herbst die Departemente aufgefordert, die Planung ihrer zukünftigen, zusätzlich beantragten Professuren zu überprüfen und zu priorisieren. Mit dieser Massnahme möchte die Schulleitung das langfristige Wachstum dämpfen und sicherstellen, dass die Professuren und die dafür benötigte Infrastruktur auch in wirtschaftlich herausfordernden Zeiten nachhaltig finanzierbar bleiben. Das gleiche galt auch für die zentralen Schulleitungsbereiche, Stäbe, Abteilungen und Technologieplattformen. Auch diese waren im letzten Sommer dazu angehalten, ihre Bedarfsplanung zu revidieren und für die kommenden Jahre um rund 20 Mio. Franken pro Jahr nach unten anzupassen.
 

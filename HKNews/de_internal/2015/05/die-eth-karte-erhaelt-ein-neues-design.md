@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2015/05/die-eth-karte-erhaelt-ein-neues-design.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 In diesem Sommer erhalten Angehörige der ETH Zürich eine neue ETH-Karte. Die Karte erscheint dabei im neuen Design: Das 2008 eingeführte, grüne Erscheinungsbild wird ersetzt durch ein Blau aus dem Corporate Design der ETH Zürich.

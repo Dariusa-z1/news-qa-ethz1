@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2018/11/surgent-hochschulmedizin-zurich.html
 
+**Date processed:** 2025-05-01
+
 ## Surgical landscapes
 
 Imaging tools have long been standard in surgical procedures. But the result is usually a picture on a screen which the doctors have to interpret and then transfer to the patient. New virtual processes in surgery, however, can convert data from imaging tools into three-dimensional representations which can help with diagnostics and with planning and carrying out operations.
@@ -12,8 +14,6 @@ Researchers from different disciplines from ETH Zurich, the University of Zurich
 
 Eight research groups are involved in total, and in the coming years they intend to revolutionize the way operations are planned and carried out. The first step is to survey and document the individual anatomy and tissue of patients by recording images. That will enable the researchers to create interactive maps of the “landscapes” in which the surgeons later have to work.
 
-## Operations using mixed-reality glasses
-
 Secondly, further models and simulations will be developed to enable optimal and patient-specific operation planning, as well as to make outcome prediction possible. This should make treatment results more reliable.
 
 The third aim of Surgent is to use augmented reality (AR) to efficiently and effectively support navigation during an operation. With the AR, the surgeons will receive visual and acoustic information throughout the operation, expanding their senses. Artificial intelligence will also make it possible to analyze surgeons’ actions during operations in order to provide them with the right information at the right time.
@@ -22,11 +22,11 @@ Mixed-reality glasses are already in use as part of clinical trials for some ope
 
 Mixed-reality glasses allow virtual information to be fed back to the surgeon’s view – reality and virtuality thus interact with each other. This means the surgeons have more information available to them which it was previously not possible to provide. For example, a holographic navigation using 3-D simulation could be provided during an operation.
 
-## Hochschulmedizin Zürich
-
 If several vertebrae need to be repaired in one operation, for instance, the glasses would aid the doctor in positioning the screws correctly. A navigation platform communicates wirelessly with the glasses, and the planned position of the screws is then projected into the view of the operator. The mixed reality view, as well as 3D-position tracking, means the surgeon can more quickly locate the screw position and better position the surgical instruments during the operation. The surgeons’ hands are thus guided better through this extension of their sensory and intellectual capabilities.
 
 This article by Adrian Ritter and Marita Fuchs appeared in UZH News.
+
+## Hochschulmedizin Zürich
 
 Hochschulmedizin Zürich (University Medicine Zurich) is a collaboration platform which aims to foster cooperation between the University of Zurich, ETH Zurich and the University’s hospitals in the overlapping areas of biomedical basic science, the natural sciences, engineering science, clinical research and healthcare.
 

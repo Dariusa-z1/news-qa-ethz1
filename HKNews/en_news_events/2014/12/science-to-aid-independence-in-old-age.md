@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2014/12/science-to-aid-independence-in-old-age.html
 
-## Main article
+**Date processed:** 2025-05-01
+
+## Translational research
 
 Last week, the European Institute for Innovation and Technology (EIT) gave the green light for a major project supporting applied research in the field of healthy living and active ageing. ETH Zurich is taking part as an associated partner in the project, called EIT Health, along with more than 140 European companies and research institutes. The project is due to kick off in mid-2015. Further Swiss partners include EPFL and Nestlé.
 

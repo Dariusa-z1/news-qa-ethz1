@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2018/08/banknote-to-illustrate-basic-research.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Professor Dissertori, CERN has just presented new findings on the Higgs boson – just as the Swiss National Bank (SNB) releases its new 200 franc note, an initiative in which you played a key role. Which is the bigger achievement in your opinion? Günther Dissertori: Having the chance to contribute to the design of a banknote has been an incredible and one-of-a-kind undertaking. It’s a great honour to have been asked to work with the SNB. I’ve very much enjoyed working with the graphic design team, who throughout the process showed a keen interest in the science behind the art on the new note.
@@ -29,6 +31,8 @@ What’s next for CMS? Experiments at the LHC will continue until the end of 201
 What do you hope to achieve through this expansion? The plan is for the accelerator to run for another ten years or so at significantly higher intensity. By doing that, we hope to increase the volume of data by a factor of ten. This will allow us to investigate other important aspects of the Higgs boson that we simply cannot examine at the present level of intensity. And of course we will be on the lookout for new phenomena. We’re far from the end of this particular journey. It’s also important to bear in mind that the LHC and its experiments represent a colossal scope and quality of infrastructure that makes it unique in the world. We have a duty to get every last bit of use out of this infrastructure, and to use this instrument to measure everything that can possibly be measured. Maybe we’ll even find new physics.
 
 What do you mean by a new physics? New physics might refer, for instance, to new elementary particles that had escaped detection so far. Maybe we’ll find new particles that could have something to do with the universe’s dark matter. Also, there are theories that say there may be other spatial dimensions – dimensions that produce measurable effects in particle collisions. Ultimately, it’s a question of how our world is built at the smallest possible level. When we understand that, we’ll have a better understanding of how our universe looked shortly after the Big Bang; and the better we understand that, the better we understand why our universe has developed as it has.
+
+## About
 
 Günther Dissertori has been Professor of the Institute for Particle Physics and Astrophysics at ETH Zurich since 2001. In the past years, his research group focused on the construction, commissioning, operation and data analysis of the CMS experiment at Cern. From 2016 to 2018 he was Deputy Spokesperson of the CMS experiment.
 

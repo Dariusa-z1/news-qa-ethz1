@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2015/04/virtueller-pruefstand-nanoelektronik.html
 
+**Date processed:** 2025-05-01
+
 ## Computer-Vorhersage
 
 Elektronische Bauelemente sind heute oft nur noch wenige Nanometer (Milliardstel Meter) gross. Gemäss dem sogenannten Mooreschen Gesetz halbiert sich beispielsweise die Grösse eines Transistors alle zwei Jahre. Nur so ist es möglich, heute auf dem Chip eines Smartphones zwei Milliarden Transistoren im Nanoformat zu platzieren. Die Winzlinge garantieren, dass das Smartphone die ständig wachsenden Anforderungen erfüllen kann – Telefon und Fotoapparat zu sein so wie Videokamera, Suchmaschine, persönlicher Gesundheitswächter und Entertainer auf hohem Niveau. Dabei müssen die Bauteile energieeffizient arbeiten und günstig produzierbar sein.
@@ -10,15 +12,11 @@ Umso winziger elektronische Bauteile werden, umso schwieriger ist jedoch ihre He
 
 Luisier entwickelt seit über zehn Jahren eine Software weiter, die Transistoren der Zukunft simuliert, die nur noch wenige Nanometer gross sind. Unterstützt wird er dabei vom CSCS-Supercomputer «Piz Daint», der vorherzusagen hilft, was passiert, wenn sich in der Welt der Nanomassstäbe Materialzusammensetzung, Form und Grösse verändern. Für Luisier ist «Piz Daint» derzeit die beste und effizienteste Simulationsmaschine bei der Suche nach neuen, idealen Materialkombinationen. Die Arbeit des ETH-Professors stösst bei der Industrie auf grosses Interesse, da die Simulationen Experimentierzeit und Kosten im Entwicklungsprozess neuer effizienter elektronischer Bauelemente einspart.
 
-## Mit den Kristallen spielen
-
 Ein Problem, wenn Milliarden herkömmlicher Transistoren auf einem Chip platziert werden, ist, dass sie sehr viel Wärme erzeugen und deshalb leicht überhitzen. Grund dafür ist, dass die Elektronen auf ihrem Weg durch den Transistor Energie abgeben. Luisier und sein Team simulieren mit ihrer Software OMEN – einem sogenannten Quantensimulator – auf atomarer Ebene den Transport der Elektronen, um zu untersuchen, was genau geschieht. Der simulierte Transistor besteht aus einem Nano-Draht aus Siliziumkristallen. «Fliessen die Elektronen durch den Draht, besitzen sie anfangs noch eine hohe, konstante Energie, die dann aber allmählich abnimmt und vom Kristallgitter des Siliziums in Form von sogenannten Phononen aufgenommen wird», erklärt Luisier. Indem die Elektronen und Phononen miteinander wechselwirken wird der Kristall erhitzt, die Gesamtenergie bleibt erhalten – ein Beweis für die Forscher, dass ihr Modell den Prozess korrekt wiedergibt. Ziel ist, den Transistor auf der Grundlage der durch die Simulationen gewonnen Erkenntnisse nun so zu bauen, dass die Elektronen auf ihrem Weg möglichst wenig Energie verlieren.
 
 In ihren Simulationen können die Forscher einerseits mit der Anordnung unterschiedlicher Kristallebenen im Kristall «spielen» und die Kristallstruktur verändern, oder Silizium durch ein anderes Halbleitermaterial ersetzen. Andererseits können sie die Funktionalitäten und unterschiedlichen Eigenschaften der simulierten Kristalle überprüfen.
 
 Die Halbleiter würden aber auch weniger Hitze produzieren, wenn sie aus Materialien wie Indium-Gallium-Arsenid oder Germanium gebaut werden würden. Denn durch diese Materialien können sich die Elektronen schneller hindurchbewegen. Allerdings sind sie viel teurer als Silizium.
-
-## Rechnerische Hochleistung
 
 Während den Simulationen erzeugen die Forscher Atom für Atom der entworfenen Strukturen. Wie in der herkömmlichen sogenannten «ab-initio»-Methode, die intensiv verwendet wird, um die Eigenschaften von Materialien zu analysieren, wird auch in den Simulationen der Forscher um Luisier die Schrödinger-Gleichung gelöst. Dadurch können sie untersuchen, wie Elektron und Phonon miteinander interagieren.
 

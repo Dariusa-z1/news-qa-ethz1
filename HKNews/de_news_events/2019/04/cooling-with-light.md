@@ -2,31 +2,29 @@
 
 **Source:** de_news_events/2019/04/cooling-with-light.html
 
+**Date processed:** 2025-05-01
+
 ## Ein schmaler Grat
 
 Auf so tiefe Temperaturen hat noch nie jemand zuvor ein Nanopartikel in einem Photonenkäfig hinuntergekühlt: Dominik Windey und René Reimann, Doktorand und Postdoc in der Gruppe von Lukas Novotny, Professor für Photonik, gelang es, ein 140 Nanometer grosses Glaskügelchen auf wenige Tausendstel-Grad über dem absoluten Nullpunkt abzukühlen.
 
 Ihre Arbeit haben die Forscher kürzlich in der Zeitschrift «Physical Review Letters» publiziert. Der Durchbruch gelang ihnen mit einer ausgeklügelten Versuchsanordnung. Ausgangspunkt dafür ist eine sogenannte optische Pinzette, mit der ein Nanopartikel mit Hilfe eines Laserstrahls in der Schwebe gehalten werden kann. Genau diese optische Pinzette verwendete die Gruppe bereits in einer früheren Arbeit, bei der sie ein Nanopartikel extrem schnell um die eigene Achse drehen liess.
 
-## Annäherung an eine magische Grenze
-
 Die Wissenschaftler haben nun die optische Pinzette mit einem quer dazu angeordneten Photonenkäfig ergänzt. Dieser Käfig besteht aus zwei hochreflektierenden Spiegeln, deren Position die Forscher auf wenige Milliardstel Millimeter genau einstellen können.
 
 Diese präzise Einstellung ist entscheidend, denn ein Teil des Laserlichts wird am Partikel gestreut, und über die Distanz der Spiegel können die Wissenschaftler beeinflussen, welche Art von Licht gestreut wird. «Wir können die Spiegel so einstellen, dass verstärkt Licht gestreut wird, das eine etwas höhere Frequenz hat als das primäre Laserlicht», erklärt Windey. «Da höherfrequentes Licht energiereicher ist, nehmen die Lichtteilchen bei der Streuung Energie vom Nanopartikel auf.» Anders ausgedrückt: Ist der Spiegel richtig eingestellt, verliert das Glaskügelchen andauernd Energie. Seine Schwingungsamplitude wird immer kleiner, es kühlt ab.
 
-## Unerwartete Störquelle
-
 «Der Clou bei unserer Versuchsanordnung ist, dass die Schwingung des Partikels nicht nur in einer Richtung kleiner wird, sondern in allen drei Dimensionen», hält Windey fest. «Das ist mit anderen Versuchsanordnungen, die in der Literatur über Nanopartikel in Photonenkäfigen erwähnt werden, nicht möglich.» Dass effektiv eine Abkühlung in drei Dimensionen stattfindet, bestätigten theoretische Berechnungen der Kollegen der Universität Innsbruck, mit denen die ETH-Forscher ihre Arbeit publiziert haben.
 
 Mit ihrem neuen Experiment pirschen sich die Forscher an eine magische Grenze heran: Sie nähern sich der Temperatur, bei der Nanopartikel in den sogenannten Quantengrundzustand übergehen. Wäre dies erreicht, könnte man erstmals mit vergleichsweise grossen Objekten Quantenexperimente durchführen. Man könnte zum Beispiel untersuchen, wie sich ein Glaskügelchen verhält, wenn man zwei verschiedene Quantenzustände überlagert.
-
-## Literaturhinweis
 
 Bis es soweit ist, braucht es allerdings noch viel Arbeit. «Unsere Temperaturen sind immer noch um mehr als einen Faktor 100 zu hoch», hält Windey fest. «Wir müssen das Kügelchen also noch viel stärker abbremsen, wenn wir den Quantengrundzustand erreichen wollen.» Das soll nun mit einer noch raffinierteren Anlage gelingen, bei der die Forscher zusätzlich noch einen zweiten Photonenkäfig dazuschalten, also quasi ein zweistufiges Kühlsystem implementieren.
 
 Selbstredend, dass der Aufwand nochmals wesentlich höher sein wird. «Das System ist extrem empfindlich», erläutert Windey. Bereits kleinste Störungen verschieben die Distanz zwischen den Spiegeln. Die Folge: Das Teilchen wird nicht mehr gekühlt, sondern aufgeheizt und kann nicht mehr in der optischen Pinzette festgehalten werden – die ganze Arbeit beginnt von vorne. «Wir kämpften von Anfang an mit unerwarteten Vibrationen», berichtet Windey. «Wir fanden dann heraus, dass sich unser Laborgebäude auf dem Hönggerberg wegen des Strassenverkehrs tagsüber um 4 Mikrometer hin und her bewegt. Deshalb mussten wir unsere Messungen in der Nacht durchführen.»
 
 Auch wenn die hohe Empfindlichkeit der Messanlage den Forschern derzeit noch das Leben schwer macht, könnte gerade sie eine praktische Anwendung ermöglichen. «Man könnte das System für den Bau eines extrem sensitiven Beschleunigungssensors nutzen», meint Windey. «Und wenn wir das Partikel dereinst im Quantenzustand haben, können wir Auslenkungen sogar noch viel präziser bestimmen.»
+
+## Literaturhinweis
 
 Windey D et al.: Cavity-Based 3D Cooling of a Levitated Nanoparticle via Coherent Scattering. Phys. Rev. Lett. 122, 123601, doi: externe Seite 10.1103/PhysRevLett.122.123601
 

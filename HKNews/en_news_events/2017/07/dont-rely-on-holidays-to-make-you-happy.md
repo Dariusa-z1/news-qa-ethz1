@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2017/07/dont-rely-on-holidays-to-make-you-happy.html
 
-## About
+**Date processed:** 2025-05-01
+
+## Main article
 
 Mr Hampe, travel has never been more popular – millions of Europeans will travel abroad again this summer to lie on the beach, climb breathtaking mountains, or explore cathedrals and museums in foreign cities. How has the art of travel and what people hope to get out of it changed over time? People travel for many different reasons. Educational travel, as was popular in the early modern period, is still prevalent today – an entire industry has been built on natural historical and cultural travel. The industrialisation of holidays has increasingly turned travel to remote, exotic locations into a mark of social prestige. People talk about where they've been on holiday, and this leads to competition – for example, who's been to Fiji and how many times.
 
@@ -18,8 +20,6 @@ Not everyone would agree with Socrates' negative perception of travel. You have 
 
 When we arranged this interview, you were in Moscow on a lecture tour. That's not something you'd find on a homebody's agenda. Of course, as an academic at a modern university, I often travel to conferences or give lectures at other universities. But I don't force it. I try to be as settled as possible, so I can focus on my work. That has a unique quality.
 
-## Summer series
-
 Is this also true of your holidays? Yes, for the past 30 years I've always travelled to the same place on the North Sea, so I don't have to spend time settling in, but still get a change of scenery. I travel enough on academic trips, so I don't need to travel any more during my holidays – I'm much more interested in finding peace and quiet.
 
 Peace and quiet, so you can keep working? Yes, so I can have a long period to focus on my academic work again. In your everyday work as an academic, your writing is often interrupted by administrative tasks, meetings or lectures. This creates stress, as you're constantly trying to understand other texts rather than focussing on the one you're actually trying to write. For me, the opportunity to spend four weeks writing without interruption is very relaxing – even if I spend quite a lot of this time reflecting. This is a privilege when you have a meaningful, non-alienated job. The same is probably true for artists. After a period of rest, you can crave uninterrupted creativity just as much as you craved a break from the everyday routine.
@@ -30,7 +30,11 @@ Are there particular conditions required for travel to be an enlightening experi
 
 Finally, can you give our readers some advice on how to enjoy their holidays? It's good to have low expectations, so that you don't rely on your holidays to make you happy. If you expect to be constantly happy for two weeks straight, happiness may be hard to find. And beware of trying to keep up with the Joneses – people are often disappointed because they think they have to go on a certain holiday for image reasons, even though they don't really want to. Different people also attach importance to different experiences, which can often cause problems on holidays. Take my son, for example: when his mother and I want to take him to the museum, he suffers; and when he whinges, we suffer. A certain willingness to compromise is necessary for a successful holiday.
 
+## About
+
 Michael Hampe has been full Professor for Philosophy at ETH Zurich since the winter semester 2003/04. He grew up in Hanover, and studied philosophy, psychology and German literature in Heidelberg and Cambridge. His work focusses on the philosophy and history of the empirical sciences, critical theory and metaphysics, the relationship between science and the public interest, and techniques for self-reflection.
+
+## Summer series
 
 Finally holiday time: ETH News will present a special summer series during the break, with a new focus periodically. The interview with philosopher Michael Hampe will be followed by further articles.
 

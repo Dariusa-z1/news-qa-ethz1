@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2023/03/tracing-a-digital-shadow.html
 
-## About
+**Date processed:** 2025-05-01
+
+## Main article
 
 Mr Buhmann, will computers soon have their own emotions?
 
@@ -38,8 +40,6 @@ Zimmermann: Emotions and our attitudes towards machines are highly relevant to m
 
 How can we encourage people to feel positive about interacting with machines?
 
-## Globe Emotional!
-
 Zimmermann: It depends on what you hope to achieve with the technology in question. For instance, do you want to help people experience emotions via virtual reality? Or are you aiming to create genuinely humanlike social interaction in environments such as the care sector, where human connection might be increasingly harder to come by as society ages? Some studies have shown that, depending on how they’re designed, robots can trigger certain emotions in people, thereby creating an emotional bond between humans and technology.
 
 In other words, the more humanlike a robot is, the more affinity we feel for it?
@@ -65,6 +65,8 @@ In the future, what role will emotions play in the technical sciences?
 Fleisch: What we measure is not the emotions themselves, but rather the digital shadow of our feelings registered by the measuring device. As we move forward, our technical understanding of this useful shadow will get better and better. We have an obligation to use those insights to benefit society while leaving the emotions themselves safely separated from the computer.
 
 Zimmermann: As a researcher working at the interface between the social and technical sciences, I think it's important not to look at humans and technology in isolation, but rather to consider the interaction between them. Because that’s where emotions play a crucial role.
+
+## About
 
 Joachim M. Buhmann is Professor of Computer Science in the Department of Computer Science.
 

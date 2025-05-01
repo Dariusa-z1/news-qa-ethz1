@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2015/02/research-with-a-social-relevance.html
 
-## Safeguard clause proposal
+**Date processed:** 2025-05-01
+
+## Main article
 
 ETH News: Professor Ambühl, you have proposed that Switzerland may be able to negotiate a safeguard clause with the EU in order to avoid breaching the free movement agreement. Are you intervening in the current political debate? Should an ETH professor intervene in politics? Michael Ambühl: We as researchers would like to play a role in solving problems by contributing to the discussion. In our department, we would like to further develop the research approach that we call ‘negotiation engineering’, which ultimately represents the conceptualisation of my experiences as a negotiator. We have therefore sought to apply our methods to the current example of the implementation of the mass immigration initiative. This attracted a certain amount of attention because the social relevance is directly visible in this study.
 
@@ -14,15 +16,17 @@ How do you proceed in a scientific manner in such cases? Migration is an emotion
 
 But it's hard to avoid the impression that your proposal is the only one that currently exists. It certainly is not, but we are pleased that our proposal is being discussed. Nevertheless, it may well be that our proposal is modified or is merely a catalyst that leads to new and different ideas. This brings us to the heart of our studies in the Department of Management, Technology and Economics: We educate talented young people who are capable of thinking in all directions and who accept that unlike exact disciplines, there isn’t always a ‘right’ or a ‘wrong’. Fostering their critical thinking and creativity is therefore crucial.
 
-## Literature reference
-
 Do you like teaching? It’s a relatively new field of activity for you. Yes, very much. Students at ETH are very motivated and achievement-orientated; it’s easy to teach them. Together with the University of Zurich, we simulated EU negotiations in a seminar last autumn and I was delighted how engaged the students were in the project. The university students, who were mostly lawyers, and our students from ETH got to know their respective approaches, which really inspired them. The fact that our Rector took part in the closing discussion was a token of appreciation for all involved.
 
 What are your forthcoming research projects? We are trying to apply our negotiation engineering approach to various different areas: at the moment, my Chair is working on disarmament among other things, a cost/benefit analysis of nuclear weapons and an analysis of the effectiveness of sanctions.
 
+## Safeguard clause proposal
+
 The core idea is that the principle of free movement should not be called into question. Within the EU/EFTA area, Switzerland would still participate in the free movement according to the rights and duties set out in the free movement agreement. But in the case of excessive migration, Switzerland would have the option of invoking the (newly negotiated) safeguard clause. A formula may be used to calculate the level of immigration from EU/EFTA countries that would trigger the safeguard clause. No fixed quotas would be stipulated in advance, but migration in Switzerland would be defined in relation to migration in the EU.
 
 More precisely, the threshold would be calculated from the average migration rates of all EU/EFTA countries, plus a multiple of the standard deviation, while factoring in the population of EU/EFTA foreigners and the labour market situation. Ideally, parallel to the negotiations for a safeguard clause, measures to make better use of domestic labour resources would ensure that fewer foreign workers are needed in Switzerland. As a result, the safeguard clause would be rarely, if at all used.
+
+## Literature reference
 
 Ambühl M, Zürcher S: Immigration and Swiss-EU Free Movement of Persons: Question of a Safeguard Clause, Swiss Political Science Review, 18 February 2015, doi: 10.1111/spsr.12143
 

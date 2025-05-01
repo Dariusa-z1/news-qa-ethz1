@@ -2,15 +2,17 @@
 
 **Source:** en_news_events/2018/10/digital-transformation-is-shaking-things-up.html
 
+**Date processed:** 2025-05-01
+
 ## Fostering entrepreneurial spirit
 
 Digitalisation is causing many major companies, researchers, innovations and jobs to relocate outside Europe. What are Switzerland and its neighbours doing to counteract this trend? Economics ministers from Europe’s German-speaking countries addressed this topic and others during a discussion at ETH Zurich. Johann Schneider-Ammann, Swiss Federal Councillor and Head of the Department of Economic Affairs, Education and Research, invited his counterparts from Austria, Germany and Liechtenstein to Switzerland to take part in the traditional quadripartite meeting.
 
 ETH President Lino Guzzella discussed the numerous ETH spin-offs that are helping to keep technological expertise in Europe as we head deeper into the age of digitalisation. (Photograph: ETH Zurich / O.Bartenschlager)
 
-A podium discussion in the Semper Aula served as a prelude to the main meeting. ETH President Lino Guzzella opened the discussion by listing some key figures on companies that have arisen out of ETH research. Around 25 spin-offs having been established each year for the last three years. “This includes both very large companies and smaller ones. What they all have in common is that they are key driving forces in the Swiss economy. We want to create jobs. That’s one of our main sources of motivation,” he said.
-
 ## The race to develop artificial intelligence
+
+A podium discussion in the Semper Aula served as a prelude to the main meeting. ETH President Lino Guzzella opened the discussion by listing some key figures on companies that have arisen out of ETH research. Around 25 spin-offs having been established each year for the last three years. “This includes both very large companies and smaller ones. What they all have in common is that they are key driving forces in the Swiss economy. We want to create jobs. That’s one of our main sources of motivation,” he said.
 
 To prevent the brightest minds and ideas from migrating further afield, Johann Schneider-Ammann is seeking to make Switzerland a more attractive country in which to establish a company. A new foundation established under his patronage is aiming to make it easier for start-ups to gain access to risk capital. As Schneider-Ammann stated: “We want people to be able to get their idea from the laboratory to the implementation stage without having to rely on money sourced from California or Moscow.”
 
@@ -18,9 +20,9 @@ Peter Altmaier, Minister for Economic Affairs and Energy in Germany, also highli
 
 Austria currently holds the Presidency of the Council of the European Union. Margarete Schramböck, Minister for Digital and Economic Affairs, stated that Europe is seeking to reclaim industries that were previously thought lost. She asserted that research and educational institutions such as ETH are there to give impetus to these efforts, as they provide Europe with the skills required to make strides in the field of artificial intelligence. According to Daniel Risch, Deputy Prime Minister of Liechtenstein, the principality is planning on introducing new legislation for blockchain applications.
 
-## Plea for a fifth European freedom
-
 Meanwhile, computer science students highlighted the fact that data security cannot be ignored as we grasp the opportunities offered by digitalisation. (Photograph: ETH Zurich / Oliver Bartenschlager)
+
+## Plea for a fifth European freedom
 
 The four ministers also took questions from computer science students, who used the opportunity to shine the spotlight on unresolved issues. On question asked was how the requisite amounts of data are expected to be collected in the fragmented European landscape without violating the right to personal data protection. They also questioned whether data can actually be anonymised, and how Europe is intending on joining forces without creating inert structures that are unable to keep up with the pace set by China and the US.
 

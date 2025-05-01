@@ -2,15 +2,13 @@
 
 **Source:** en_internal/2016/02/concern-for-switzerlands-academic-competitiveness.html
 
+**Date processed:** 2025-05-01
+
 ## Safeguarding academic competitiveness
 
 swissuniversities, the common voice for higher education institutions in Switzerland, announced today that if the enforcement initiative is voted in on 28 February 2016, there will be far-reaching consequences for Swiss education and research.
 
-## Subscribe to Newsletter
-
 Switzerland would violate its obligations under international law and contravene the Agreement on the Free Movement of Persons. This would place a considerable burden on the already complex negotiations with the EU regarding the research agreement. In the worst case scenario, the EU could exercise what is called a guillotine clause and terminate all agreements between the two countries – including the agreement on scientific and technical cooperation.
-
-## Staffnet
 
 In its manifesto titled “Manifesto of Swiss universities for a Switzerland at the heart of the European education and research landscape”, Swiss universities voice their concerns about Switzerland's future as a research centre. If Switzerland cannot come to an agreement with the EU by the end of 2016, university rectors and presidents, including ETH President Lino Guzzella, are warning that it will be formally excluded from European education and research agreements.
 

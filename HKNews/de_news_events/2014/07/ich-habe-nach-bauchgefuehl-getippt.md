@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2014/07/ich-habe-nach-bauchgefuehl-getippt.html
 
+**Date processed:** 2025-05-01
+
 ## Deutsche mit gutem Stil
 
 «Das war das erste Tippspiel, bei dem ich mitgemacht habe», sagt Mariusz Frukacz. Der 37-jährige Postdoktorand am Institut für Geodäsie und Photogrammetrie (D-BAUG) hat das WM-Tippspiel der ETH-Community für sich entschieden. Die Preise für den ersten Platz – ein Pokal und ein iPad – wurden ihm am Dienstag übergeben.
@@ -11,8 +13,6 @@ Eigentlich sei er mehr an Kultur interessiert als an Sport, sagt der Pole, der p
 «Doch als ich die E-Mail erhalten habe, dass es nun ein WM-Tippspiel an der ETH gibt, dachte ich, dass es spannend sein könnte, mich im Wettbewerb mit ausschliesslich ETH-Angehörigen zu messen», sagt Frukacz. Zudem habe ihm die Teilnahme einen Anreiz gegeben, sich stärker für die WM zu interessieren, obwohl Polen – immerhin zweifacher Bronzemedaillengewinner – sich nicht qualifiziert habe.
 
 «Als ich bemerkt habe, dass ich mit meinen Tipps ziemlich gut liege, habe ich auch angefangen, Spiele zu analysieren und Artikel darüber zu lesen. Ich habe aber immer stärker nach meinen Bauchgefühl getippt als mit einer Strategie.»
-
-## ETH-Tippspiel ein Erfolg
 
 Natürlich habe er auch ein paar Mal total daneben gelegen. Etwa bei einer der Bonusfragen, die man vor Beginn der Fussball-Weltmeisterschaft beantworten musste: «Ich dachte, Brasilien würde die WM gewinnen. Doch bereits nach dem ersten Spiel habe ich realisiert: Mein Tipp war falsch.»
 

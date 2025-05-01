@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2019/01/ploetzliche-stratosphaeren-erwaermung.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Endlich wieder mal ein Winter, der den Namen verdient. Hat dies mit dem Phänomen einer plötzlichen Stratosphärenerwärmung (sudden stratosphere warming, SSW) zu tun, die anfangs Januar aufgetreten ist? Daniela Domeisen: Das derzeitige kalte Winterwetter in Europa hat möglicherweise noch nicht viel mit der SSW zu tun. Es ist einfach Winter und deshalb ist es kalt und es schneit. Aber: Es könnte aufgrund der beobachteten plötzlichen Stratosphärenerwärmung noch länger kalt bleiben.
@@ -19,6 +21,8 @@ Wie lange hält die Teilung des Polarwirbels an? In der oberen Stratosphäre dau
 Verstärkt der Klimawandel das Auftreten der Ereignisse? Das weiss man noch nicht. Wir kennen das Phänomen erst seit den 1950er Jahren, die Beobachtungsdaten decken nur wenige Dekaden ab. Das erschwert es, Voraussagen über das Verhalten von SSWs zu machen. Derzeit beobachten wir gegensätzliche Tendenzen: In der Stratosphäre wird es aufgrund des Klimawandels generell kälter. Gleichzeitig schmilzt das Eis an den Polkappen, besonders das Meereis in der Arktis. Dies beeinflusst, wie sich grossräumige Wellen, welche den gesamten Planeten umspannen, in die Stratosphäre hinaufbewegen, wo sie die SSW auslösen. Wenn sich dies verändert, sind auch Veränderungen von SSWs denkbar. Einige Modelle sagen, dass SSWs häufiger werden, andere Modelle gehen von weniger solchen Ereignissen aus. Schlüssige Prognosen gibt es noch nicht.
 
 Woran erkennen Sie, dass sich eine plötzliche Erwärmung der Stratosphäre anbahnt? Die Wahrscheinlichkeit für ein SSW kann man schon mehrere Wochen oder Monate im Voraus abschätzen. Zu den Faktoren, die Stratosphärenerwärmungen begünstigen, gehören El Niño-Phänomene, bei der sich die Meeresoberfläche im tropischen Pazifik erwärmt. Dieser Faktor war in diesem Jahr gegeben und sprach dafür, dass ein SSW auftreten könnte. Um Weihnachten hat sich noch nie eines ereignet, das wäre ein schönes Weihnachtsgeschenk für uns Atmosphärendynamiker.
+
+## Zur Person
 
 Daniela Domeisen ist seit 2017 Professorin für Atmosphärische Vorhersagbarkeit am Institut für Atmosphäre und Klima der ETH Zürich.
 

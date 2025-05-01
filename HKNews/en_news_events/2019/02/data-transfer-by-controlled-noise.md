@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2019/02/data-transfer-by-controlled-noise.html
 
+**Date processed:** 2025-05-01
+
 ## Correlations in the double slit
 
 To send as much information as possible from A to B at the same time, scientists and engineers have developed increasingly sophisticated techniques over the past decades. Those techniques, generally known as multiplexing, allow one to transmit more signals than the number of available transmission channels. A typical example for this is radio broadcasting on different frequencies. Scientists at ETH in Zurich have now invented a novel multiplexing technique that is based on noise – something that one typically tries to avoid.
@@ -10,15 +12,13 @@ Shawn Divitt and Lukas Novotny have filed a patent for the new coding technique.
 
 Shawn Divitt, who initiated the development of the new technology two years ago when working as a PhD student in professor Lukas Novotny’s research group, had almost finished his dissertation when he came up with an idea. In a double slit experiment – a classic in the history of physics - he had investigated how correlations between the light waves in the two slits are created and how they affect the interference pattern.
 
-## Remote controlled experiment
-
 Correlations indicate how well one can predict, for instance, the oscillatory phase of one light wave if one knows the phase of the other wave. Even if both phases are “noisy”, meaning that their values fluctuate, they can still do so in a more or less synchronized fashion. If the correlations are strong, a clearly visible interference pattern appears on a screen behind the slits in a double slit experiment. Weak correlations, on the other hand, cause the interference pattern to be washed out or disappear completely.
 
 “The idea was to generalize that principle and to use it to encode information”, Divitt explains. To that end, he calculated the correlations between several spatially separated light waves, which can, for instance, be transmitted through an optical fibre. “What’s interesting is that the correlations exist between pairs of light waves, which means that the number of those correlations does not increase linearly with the number of light waves, but roughly quadratically”, says Divitt.
 
 Interference pattern (top) and calculated correlations (bottom) in the experiment with three simulated optical fibres. The data bits “000” and “111” are derived from the negative and positive correlations in the noise of the light waves, visible as light and dark spots. (Photographs: S.Divitt et al./ETH Zurich)
 
-## Possible security advantages
+## Remote controlled experiment
 
 In principle, therefore, it should be possible to transmit six bits of information using four light waves, 28 bits using eight light waves, and so forth. The value “1” of a bit can then be represented by a positive correlation (synchronised noise), and the value “0” by a negative correlation.
 

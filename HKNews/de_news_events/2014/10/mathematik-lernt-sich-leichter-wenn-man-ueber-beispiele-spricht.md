@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2014/10/mathematik-lernt-sich-leichter-wenn-man-ueber-beispiele-spricht.html
 
+**Date processed:** 2025-05-01
+
 ## Individuelle Leistung im Vordergrund
 
 Eine typische Schulsituation, Gymnasium oder Universität: Man bereitet ein Mathematikexamen vor. Lohnt es sich, dafür in einer Gruppe zu lernen, wenn nachher die individuelle Leistung benotet wird? Und wie muss man in der Gruppe lernen, damit hinterher jeder Einzelne eine bessere Leistung erbringt?
@@ -12,8 +14,6 @@ In den Experimenten bilden jeweils drei Studierende ein Team. In einer ersten Ph
 
 Durch Vor- und Nachtests können die Lernforschenden die individuellen Lernfortschritte der Probanden feststellen; anhand der Chat-Protokolle können sie analysieren, wie sich die Studierenden miteinander austauschen und wie das Lernen in der Gruppe mit der einzelnen Leistung zusammenhängt.
 
-## Viele Geschichten, ein Prinzip
-
 «Als Lernforscherin steht für mich die individuelle Leistung im Vordergrund und weniger die Gruppenleistung», sagt Anne Deiglmayr, «Wir untersuchen nicht die Gruppenleistung an sich, sondern wie sich das individuelle Lernen verbessert, wenn jemand mit anderen kooperiert und in einer Gruppe lernt.»
 
 Lennart Schalk gibt ein Beispiel: Eine Gruppenleistung ist in der Regel ausgerichtet auf ein Produkt. Zum Beispiel trugen Ingenieure aus diversen Disziplinen mit unterschiedlicher Expertise dazu bei, den Mars-Rover zu konstruieren, der heute als ferngesteuerter Roboter den Planeten Mars erkundet und den Wissenschaftlern auf der Erde Messdaten liefert.
@@ -22,8 +22,6 @@ Auch in Lehr- und Lernsituation werden ähnliche Situationen geschaffen, indem m
 
 Anschliessend tauscht sich die Gruppe aus, um sich aus den Unterthemen heraus das Gesamtthema zu erschliessen und mithilfe des Gelernten Probleme zu lösen. Die wechselseitige Abhängigkeit, die so entsteht, erhöht die Motivation der Gruppenmitglieder, miteinander zu kooperieren; durch die Arbeitsteilung sparen die Lernenden zudem Zeit.
 
-## Selber erkennen, was grundsätzlich gilt
-
 Für den Unterricht an Mittel- und Hochschulen ist diese klassische Art des Gruppenpuzzles jedoch in der Regel nicht das optimale Modell. «Wenn man in Klassen nach dem Modell des klassischen Gruppenpuzzles vorgeht, sind die Schülerinnen und Schüler am Ende in den Themen oder Lerninhalten, die die anderen vortragen, nicht gleich sattelfest wie in dem, dass sie sich selber aneigneten», sagt Deiglmayr. «Generell tauschen Gruppen häufig, wenn sie auf der Grundlage verschiedener Expertisen zusammenarbeiten sollen, ihr Wissen nicht vollständig aus, sondern sie bestätigen sich ihr bereits bekanntes Wissen.»
 
 Im Unterschied zum klassischen Gruppenpuzzle verteilen Deiglmayr und Schalk deshalb in ihren Experimenten nicht verschiedene Themen oder Lerninhalte an die Gruppenmitglieder. Statt dessen müssen alle Aufgaben bearbeiten, die dieselben Prinzipien und Konzepte verdeutlichen. Was sich allerdings zwischen den Lernenden unterscheidet, sind die Anwendungsgebiete, in die die Aufgaben eingebettet sind.
@@ -31,8 +29,6 @@ Im Unterschied zum klassischen Gruppenpuzzle verteilen Deiglmayr und Schalk desh
 Dadurch lernen weiterhin alle mit unterschiedlichen Materialien und können in der Diskussion von den unterschiedlichen Perspektiven der anderen profitieren. Die Ergebnisse einer ersten externe Seite Studie bestätigen die Vermutung, dass das abgeänderte Gruppenpuzzle der Autoren das Lernen stärker fördert als ein klassisches Gruppenpuzzle.
 
 In dem abgeänderten Gruppenpuzzle erarbeitet sich beispielsweise ein Gruppenmitglied die grundlegenden Prinzipien der Wahrscheinlichkeitsrechnung am Beispiel von verschiedenfarbigen Velohelmen, die bei einer mehrtägigen Radtour verteilt werden. Ein anderes Mitglied tut dies am Beispiel einer Chemikerin, die unbeschriftete Proben aus einem Schrank nimmt. Das dritte Mitglied am Beispiel von gleich starken Skispringern, die in einem Wettbewerb gegeneinander antreten.
-
-## Literaturhinweis
 
 Im ersten Beispiel verteilt ein Kursleiter jeden Morgen fünf verschiedenfarbige Velohelme an fünf Teilnehmer. Typische Fragen lauten: «Ich bekomme den Helm immer als erste, wenn noch alle fünf da sind. Mein Freund ist immer nach mir dran. Wie gross ist die Wahrscheinlichkeit, dass ich am ersten Tag den roten erhalte und am zweiten Tag den gelben?» oder «Wie gross ist die Wahrscheinlichkeit, dass mein Freund und ich am ersten Tag den roten und gelben bekommen, egal in welcher Reihenfolge?» oder «Wie gross ist die Wahrscheinlichkeit, dass ich am ersten Tag den roten erhalte und mein Freund den gelben?».
 
@@ -43,6 +39,8 @@ Durch das Vergleichen und Kontrastieren vorgegebener Beispielaufgaben, lernt der
 Mit Blick auf die Praxis folgert Anne Deiglmayr: «Der Mathematikunterricht soll ja nicht zum Auswendiglernen von Formeln und Fallbeispielen führen, sondern konzeptuelles und übertragbares Wissen vermitteln.» Solches Wissen, sagt Deiglmayr, ist flexibel anwendbar. Um es zu fördern, eignet sich nach ihren Erkenntnissen kooperatives Gruppenlernen, weil man dann verschiedene Lösungswege, Prinzipien und Konzepte diskutieren und vergleichen kann.
 
 «Sehr hilfreich ist es, wenn eine Lehrperson die Kooperation gut vorstrukturiert, zum Beispiel indem sie Lernmaterialien verteilt, und vertiefende Diskussionsfragen vorgibt, die auf zugrundeliegende Prinzipien hinführen. Reine Prozeduren wie beispielsweise das schnelle Berechnen von Lösungen übt man allerdings weiterhin besser allein.»
+
+## Literaturhinweis
 
 Anne Deiglmayr, Lennart Schalk. Weak versus strong knowledge interdependence: A comparison of two rationales for distributing information among learners in collaborative learning settings. Learning and Instruction, Volume 40, December 2015, Pages 69–78. Available online 8 September 2015. DOI externe Seite 10.1016/j.learninstruc.2015.08.003
 

@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2017/07/no-air-con-but-a-cooling-curtain.html
 
+**Date processed:** 2025-05-01
+
 ## An alternative for heat-afflicted areas
 
 It all began with a vague idea: “We thought it would be interesting to combine opposing functions in one material,” says Mario Stucki, a doctoral student at ETH Zurich’s Functional Materials Laboratory. He combined two layers of hydrophobic (water-repellent) polyurethane with a middle layer of hydrophilic (water-attracting) polymer. The resulting membrane feels dry, although it is saturated with water, and since the outer layers are covered with holes of about one micrometre in diameter, water can escape from the middle layer into the environment.
@@ -9,8 +11,6 @@ It all began with a vague idea: “We thought it would be interesting to combine
 When Stucki realised how well the water transport works across the various layers, he came up with the idea of the cooling curtain. “Water evaporation requires a lot of energy,” he says. “Heat is extracted from the air, it cools and at the same time humidifies the surrounding area.” Conventional humidifiers work in the same way – but they need a lot of power, whereas Stucki’s system is passive. “The sunlight that falls through a window on to the curtain provides enough energy for this type of air conditioning.”
 
 Such curtains could be a real blessing in hot and arid regions. In 2015, people in the Arabian Peninsula endured a heatwave with temperatures of more than 50°C. Climate scientists forecast even higher temperatures and severe aridity for desert regions, which could lead to certain climate zones becoming uninhabitable. Cooling buildings and rooms is thus becoming increasingly essential, but it devours vast amounts of electricity. In the US, for example, about 15 percent of energy consumption can be attributed to air-conditioning equipment, and a huge amount of this energy comes from fossil fuels. The passive cooling curtain would be an environmentally and climate-friendly alternative.
-
-## Further development of an earlier innovation
 
 Stucki attracted attention back in 2013 with his Master’s thesis at ETH Zurich, when he developed a new material for outdoor use in no time. In contrast to conventional functional textiles, it does not contain fluorine compounds, which are harmful to the environment and human health.
 
@@ -26,15 +26,15 @@ Stucki was able to prove the cooling curtain’s basic functionality by experime
 
 A further challenge is to ensure that the curtain is able to evaporate water over the entire surface, which will require improvements to the water transport in the membrane. It is also still unclear how long the membrane can function stably.
 
-## Reference
-
 After completing his doctorate in the summer, Stuck will concentrate on commercialising fluorine-free outdoor textiles. He is currently looking for financing partners. However, he has not ruled out the possibility that the new membrane also has potential in the outdoor sector, as it is ideally suited to the regulation and removal of sweat – one of the most important properties of functional textiles.
+
+## Reference
 
 Stucki M, Stark W. Stabilization of 2D Water Films in Porous Triple-Layer Membranes with a Hydrophilic Core: Cooling Textiles and Passive Evaporative Room Climate Control. Advanced Engineering Materials, 2017. DOI: 10.1002/adem.201700134
 
-Finally holiday time: ETH News will present a special summer series during the break, with a new focus periodically.
-
 ## Summer series
+
+Finally holiday time: ETH News will present a special summer series during the break, with a new focus periodically.
 
 Previous instalments:
 

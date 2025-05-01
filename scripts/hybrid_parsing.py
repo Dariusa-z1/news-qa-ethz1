@@ -50,6 +50,10 @@ def parse_with_bs4(html_content):
     
     all_titles = []
     all_paragraphs = []
+    structured_content = []  # To preserve structure with headings
+    
+    # Current section tracking
+    current_section = {"title": "Main article", "content": []}
 
     # Keywords to identify sections to skip
     footer_keywords = ['newsletter', 'staffnet', 'globe', 'kontakt', 'contact']
@@ -70,18 +74,70 @@ def parse_with_bs4(html_content):
                 caption_text = figcaption.get_text(" ", strip=True)
                 if caption_text:
                     all_paragraphs.append(caption_text)
+                    current_section["content"].append(caption_text)
             fig.decompose()
 
-        # Add title if exists
+        # New section if h2 exists
         if h2:
+            # Save previous section if it has content
+            if current_section["content"]:
+                structured_content.append(current_section)
+                
+            # Start a new section
             title_text = h2.get_text(strip=True)
             all_titles.append(title_text)
-        elif not all_titles:
+            current_section = {"title": title_text, "content": []}
+        elif not all_titles and not structured_content:
             # If no h2 and no titles yet, add "Main article" title for first content
             all_titles.append("Main article")
 
-        #  Extract paragraphs
+        # Process unordered lists (bullet points)
+        for ul in section.find_all('ul'):
+            # Keep track if we've added the previous paragraph's context
+            has_context = False
+            
+            # Get the previous paragraph for context if exists
+            prev_p = ul.find_previous('p')
+            prev_text = ""
+            if prev_p:
+                prev_text = prev_p.get_text(" ", strip=True)
+                if prev_text and prev_text.endswith(':'):
+                    # This is likely a list header, add it as context
+                    all_paragraphs.append(prev_text)
+                    current_section["content"].append(prev_text)
+                    has_context = True
+            
+            # Process list items
+            li_paragraphs = []
+            for li in ul.find_all('li'):
+                li_text = li.get_text(" ", strip=True)
+                if li_text:
+                    # Format as bullet points
+                    li_text = f"• {li_text}"
+                    li_paragraphs.append(li_text)
+            
+            # If we have list items, add them
+            if li_paragraphs:
+                if not has_context and prev_text and not prev_text.endswith('.'):
+                    # If previous paragraph doesn't end with period,
+                    # it might be context for the list even if not ending with ':'
+                    all_paragraphs.append(prev_text)
+                    current_section["content"].append(prev_text)
+                
+                # Add list items
+                all_paragraphs.extend(li_paragraphs)
+                current_section["content"].extend(li_paragraphs)
+
+        #  Extract paragraphs (that aren't part of lists)
         for p in section.find_all('p'):
+            # Skip if this paragraph is attached to a list and already processed
+            next_sibling = p.find_next_sibling()
+            if next_sibling and next_sibling.name == 'ul':
+                # If para ends with colon, it's likely a list intro
+                text = p.get_text(" ", strip=True)
+                if text and text.endswith(':'):
+                    continue
+            
             # Get original HTML to detect if it contains downloads we want to preserve
             p_html = str(p)
             has_important_links = any(kw in p_html.lower() for kw in allowed_link_keywords)
@@ -106,20 +162,33 @@ def parse_with_bs4(html_content):
                 continue
                 
             all_paragraphs.append(text)
+            current_section["content"].append(text)
+    
+    # Add the last section if it has content
+    if current_section["content"]:
+        structured_content.append(current_section)
     
     # If we didn't find any content, try a less strict approach
     if not all_paragraphs:
         logger.warning("No paragraphs found with standard method, trying fallback approach")
-        # Try to get all paragraphs, even without the text-image class
+        # Try to get all paragraphs and lists
         for p in soup.find_all('p'):
             text = p.get_text(" ", strip=True)
             if text and len(text) > 20:
                 all_paragraphs.append(text)
+                
+        # Try to get lists in fallback mode too
+        for ul in soup.find_all('ul'):
+            for li in ul.find_all('li'):
+                li_text = li.get_text(" ", strip=True)
+                if li_text:
+                    all_paragraphs.append(f"• {li_text}")
     
     return {
         'titles': all_titles,
         'body': '<br><br>'.join(all_paragraphs),  # use <br><br> for clearer formatting
-        'paragraphs': all_paragraphs
+        'paragraphs': all_paragraphs,
+        'structured_content': structured_content
     }
 
 def parse_with_docling(filepath):
@@ -196,10 +265,7 @@ def hybrid_parser_from_file(filepath):
     
     if html_content is None:
         raise ValueError(f"Could not read file with any encoding: {filepath}")
-    
-    # Extract the language from the path (e.g., "de_internal", "en_news_events")
-    language_folder = filepath.parts[-4] if len(filepath.parts) >= 4 else "unknown"
-    language = language_folder.split('_')[0] if '_' in language_folder else "unknown"
+
     
     # Use BeautifulSoup to extract clean body and titles
     bs4_data = parse_with_bs4(html_content)
@@ -211,22 +277,17 @@ def hybrid_parser_from_file(filepath):
         logger.warning(f"Docling parsing failed: {e}. Using fallback.")
         docling_data = {'body': '## Main article\n\n'}
     
-    # Extract year and month from filepath if available
-    try:
-        year = filepath.parts[-3] if len(filepath.parts) >= 3 else "unknown"
-        month = filepath.parts[-2] if len(filepath.parts) >= 2 else "unknown"
-    except (IndexError, ValueError):
-        year, month = "unknown", "unknown"
+    
+    # Merge structured_content from bs4_data
+    structured_content = bs4_data.get('structured_content', [])
     
     return {
         'filepath': filepath,
         'filename': filepath.name,
-        'language': language,
-        'year': year,
-        'month': month,
         'bs4_body': bs4_data['body'],
         'bs4_titles': bs4_data['titles'],
         'bs4_paragraphs': bs4_data['paragraphs'],
+        'structured_content': structured_content,
         'docling_markdown': docling_data['body']
     }
 
@@ -326,31 +387,51 @@ def process_html_file(html_file, dry_run=False):
                 'status': 'empty'
             }
     
-    # Create chunks
-    docling_chunks = chunk_docling_markdown(result['docling_markdown'])
-    content_chunks = distribute_bs4_text(result['bs4_paragraphs'], docling_chunks)
-    
-    # Inject bullet points into the first chunk's body (only if needed)
-    if content_chunks:
-        content_chunks[0]["body"] = inject_docling_bullets(
-            bs4_body=content_chunks[0]["body"],
-            docling_markdown=result['docling_markdown']
-        )
-    
     # Create markdown content
     markdown_content = f"# {html_file.stem}\n\n"
     
     # Add metadata section
     markdown_content += f"**Source:** {html_file.relative_to(html_file.parents[3])}\n\n"
+    markdown_content += f"**Date processed:** {pd.Timestamp.now().strftime('%Y-%m-%d')}\n\n"
     
-    # Add content chunks
-    for chunk in content_chunks:
-        markdown_content += f"## {chunk['title']}\n\n"
-        paragraphs = chunk['body'].split('<br><br>')
-        for p in paragraphs:
-            clean = p.strip()
-            if clean:
-                markdown_content += clean + "\n\n"
+    # Use the structured content if available
+    if 'structured_content' in result and result['structured_content']:
+        for section in result['structured_content']:
+            markdown_content += f"## {section['title']}\n\n"
+            
+            for paragraph in section['content']:
+                clean = paragraph.strip()
+                if clean:
+                    # Preserve bullet points formatting
+                    if clean.startswith('• '):
+                        markdown_content += clean + "\n"
+                    else:
+                        markdown_content += clean + "\n\n"
+    else:
+        # Fallback to the old method
+        # Create chunks
+        docling_chunks = chunk_docling_markdown(result['docling_markdown'])
+        content_chunks = distribute_bs4_text(result['bs4_paragraphs'], docling_chunks)
+        
+        # Inject bullet points into the first chunk's body (only if needed)
+        if content_chunks:
+            content_chunks[0]["body"] = inject_docling_bullets(
+                bs4_body=content_chunks[0]["body"],
+                docling_markdown=result['docling_markdown']
+            )
+            
+        # Add content chunks
+        for chunk in content_chunks:
+            markdown_content += f"## {chunk['title']}\n\n"
+            paragraphs = chunk['body'].split('<br><br>')
+            for p in paragraphs:
+                clean = p.strip()
+                if clean:
+                    # Preserve bullet points formatting
+                    if clean.startswith('• '):
+                        markdown_content += clean + "\n"
+                    else:
+                        markdown_content += clean + "\n\n"
     
     # Define the output file path - keep the same structure as the original
     markdown_file = html_file.with_suffix('.md')
@@ -376,7 +457,7 @@ def process_html_file(html_file, dry_run=False):
     return {
         'html_file': html_file,
         'markdown_file': markdown_file,
-        'chunks': content_chunks,
+        'content': markdown_content,
         'status': 'success'
     }
 

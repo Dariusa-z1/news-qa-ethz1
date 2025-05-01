@@ -2,23 +2,23 @@
 
 **Source:** en_news_events/2016/02/protective-covers-for-implants.html
 
+**Date processed:** 2025-05-01
+
 ## Membrane with micro-indentations
 
 It is one of the greatest hurdles in surgical medicine: the body identifies an implant such as a pacemaker as foreign tissue and, in a defensive reaction, encapsulates it with connective tissue known as fibrotic tissue. Under such circumstances, such rapidly growing tissue can prevent the implant from functioning. Physicians sometimes find themselves forced after months or years to conduct revision surgery, in which they have to either remove the connective tissue or replace the implant altogether.
 
 In the past few years, researchers at ETH Zurich and the ETH spin-off Hylomorph have found a way to prevent the build-up of this unwanted connective tissue by developing a biocompatible cellulose shell with a three-dimensional microstructure. Research results are giving them hope that the coated implants are less affected by fibrotic tissue build-up (see ETH News from 19.01.2015). The spin-off Hylomorph has now received recognition in the start-up competition Venture Kick. It is one of two start-ups to make it to this month's Venture Kick finale and will be supported with CHF 130,000 in seed capital.
 
-## Broad application
-
 The researchers produced the cellulose in a cell culture from specific bacteria using a micro-sized 'bed of nails' as a negative mould. In this manner, the cellulose membranes were created with corresponding minute indentations. "This 3D structure prevents fibrotic tissue from growing continuously on the membrane," explains Simone Bottan, co-founder and CEO of Hylomorph.
 
 The scientists are now working intensely to further develop the membrane for use as a cover for an artificial heart pump. Hylomorph is a partner in the HeartOne project at the Wyss Translational Center Zurich, a development centre of ETH Zurich and University of Zurich. The project aims to improve artificial heart pumps.
 
-## Venture Kick
-
 Potential applications of cellulose are not limited to heart pumps and pacemakers. "The technology could be used in the future for any implant in which connective tissue build-up is a problem; for example, breast implants or surgical meshes, which are used in hernia operations," says Bottan.
 
 In collaboration with University Hospital Zurich and the German Heart Institute Berlin, the scientists are currently using pigs in a laboratory setting to test their covers for safety, usability and their ability to reduce fibrotic tissue build-up in a realistic application. If these tests are successful, the scientists plan on conducting the first clinical trials on humans.
+
+## Venture Kick
 
 Venture Kick is an initiative that promotes innovative business ideas. It is supported by numerous foundations, companies and private individuals. Every month, eight start-up projects are given the opportunity to present in front of a jury. After three evaluation rounds, two projects are declared winners and receive a total of CHF 130,000 in seed capital. The jury evaluates factors such as team composition, market potential and how the start-up has developed in the nine months since the start of the competition. Students, researchers and professors from Swiss universities who are hoping to found a company with their business idea are eligible to apply.
 

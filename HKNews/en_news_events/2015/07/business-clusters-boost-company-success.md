@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2015/07/business-clusters-boost-company-success.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Why are companies in a business cluster more innovative? And what makes a business cluster particularly successful? These questions were addressed by Professor Georg von Krogh, Professor for Strategic Management and Innovation at ETH Zurich, and Nina Geilinger, his doctoral student, in collaboration with the Business and Economic Development Division of the Office for Economy and Labour in the Canton of Zurich. The team studied business clusters in the biotech, cleantech and ICT (information and communications technologies) sectors in Canton of Zurich.
@@ -39,6 +41,8 @@ Von Krogh: When top ICT companies such as Google set up offices around the world
 How will markets develop going forward? Can product innovation advance yet further? Von Krogh: Each market has its own unique trends, and not all markets are open to more and more technological changes. This can be due to a lack of customer resources or because people are no longer inclined to invest in new concepts. Fundamentally, I expect that consumers in many sectors will change their habits, buying more products as a one-off and then share these products more often. Cars are the prime example. The concept of the sharing economy will likely affect companies’ investment behaviour, which may have a knock-on effect for innovation activities. Innovation through intensive knowledge-sharing between companies will be inevitable.
 
 Geilinger: Firms in the cluster eco-system in the Canton of Zurich can use their full innovation potential by adopting new business models and management practices.
+
+## Literature reference
 
 Geilinger N, Krogh G, Häfliger S: Das Cluster-Ecosystem im Kanton Zürich und sein Einfluss auf den Innovationsprozess - Eine Studie der Cluster Biotech, Cleantech und ICT im Cluster-Ecosystem des Kantons Zürich , Lehrstuhl für Strategisches Management und Innovation der ETH Zürich in Kooperation mit Amt für Wirtschaft und Arbeit Kanton Zürich, Bereich Standortförderung, June 2015 (in German with an English Executive Summary)
 

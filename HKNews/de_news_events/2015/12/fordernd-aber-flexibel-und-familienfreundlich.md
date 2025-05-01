@@ -2,11 +2,15 @@
 
 **Source:** de_news_events/2015/12/fordernd-aber-flexibel-und-familienfreundlich.html
 
-## Karriere auch in Teilzeit möglich
+**Date processed:** 2025-05-01
+
+## Main article
 
 Kinder wollen pünktlich aus der Krippe geholt werden und sind zwischendurch auch mal krank. Vorgesetzte, die familienfreundlich handeln, zeichnen sich unter anderem dadurch aus, dass Teilzeit- oder Heimarbeit möglich ist und ihnen die Zielerreichung ihrer Mitarbeitenden wichtiger ist als die reine Präsenz am Arbeitsplatz. So steht es in den Kriterien für Familienfreundlichkeit der ETH Zürich. Diese nutzte die Jury des Goldenen Dreirads als Grundlage, um den familienfreundlichsten Vorgesetzten 2015 zu ehren. Der Preis wurde von der Akademischen Vereinigung des Mittelbaus an der ETH Zürich (AVETH) initiiert und wird gemeinsam von AVETH und equal!, der Stelle für Chancengleichheit vergeben. Der diesjährige Preisträger ist Ralph Schlapbach.
 
 Das Goldene Dreirad. (Bild: ETH Zürich)
+
+## Karriere auch in Teilzeit möglich
 
 Der Professor am Departement Biologie und Leiter des Functional Genomics Center Zürich freut sich über die Anerkennung. «Der Preis gibt mir ein positives Gefühl. Ich versuche, die Familienfreundlichkeit vorzuleben, ohne sie explizit zu kommunizieren», sagt er. «Da weiss man nie, ob es als selbstverständlich angesehen oder als bewusste Mitarbeiterförderung geschätzt wird.»
 
@@ -16,11 +20,11 @@ Schlapbach sagt, er lebe vor, was er sich selber von einem Vorgesetzten wünsche
 
 Die Jury des Goldenen Dreirads begründete den Entscheid für Schlapbach unter anderem damit, dass der Biochemiker Wert auf eine gute Teamarbeit lege und auch seine in Teilzeit arbeitenden Mitarbeitenden in ihrer Karriere fördere.
 
-## Weihnachtsapéro der Schulleitung 2015
-
 «Teilzeitarbeit wird von einigen als mangelnde Leistungsbereitschaft fehlinterpretiert», sagt Schlapbach. Das sei aber gar nicht der Fall: «Oft sind diese Teammitglieder effizienter. Weil sie wissen, dass ihre Zeit limitiert ist, packen sie mehr in ihre Präsenzzeit.»
 
 Auf diese Art ein Team von 40 Personen zu organisieren, sei eine Herausforderung und bedinge das Verständnis des ganzen Teams. Schlapbach: «Ich schaffe die Rahmenbedingungen, aber das Team muss die Familienfreundlichkeit auch leben und mittragen. Von der Flexibilität profitieren ja nicht nur Eltern, sondern auch Mitarbeitende mit anderen Verpflichtungen.»
+
+## Weihnachtsapéro der Schulleitung 2015
 
 Das Goldene Dreirad, der Preis für den familienfreundlichsten Vorgesetzten an der ETH Zürich, wurde am 15. Dezember am traditionellen Weihnachtsapéro der Schulleitung verliehen.
 

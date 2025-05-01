@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2021/04/gezieltere-therapien-mithilfe-der-biomedizininformatik.html
 
+**Date processed:** 2025-05-01
+
 ## Biomedizinischer Datenpool
 
 Jeder Patient und jede Patientin ist anders. Je präziser die Diagnose und je gezielter die Therapie, umso besser kann auf die individuellen Patientenbedürfnisse eingegangen werden. Dieses Ziel verfolgt das neue translationale Forschungszentrum « The LOOP Zurich – Medical Research Center». Das Zentrum will das grundlegende Verständnis von Krankheiten verbessern, um individuelle Therapien zu entwickeln. Dazu vereint es die biomedizinische Grundlagenforschung und Bioinformatik der Universität Zürich (UZH) und ETH Zürich mit der klinischen Forschung der vier universitären Spitäler – dem Universitätsspital Zürich (USZ), dem Universitäts-Kinderspital Zürich (KiSpi), der Universitätsklinik Balgrist und der Psychiatrischen Universitätsklinik Zürich (PUK).
@@ -10,23 +12,19 @@ Dank dem Zugang zu Patientinnen und Patienten durch die vier universitären Spit
 
 Eine Schlüsselkompetenz des neuen Forschungszentrums ist die Biomedizininformatik. Um für Patientinnen und Patienten personalisierte Therapien entwickeln zu können, will das Forschungszentrum mithilfe verbesserter Datenanalysen und -modellierungen neue Erkenntnisse für die Diagnostik, Therapie und Prävention gewinnen.
 
-## Erste Schwerpunkte bestimmt
-
 Die einzelnen Partnerinstitutionen verfügen je über grosse Datensammlungen, doch es besteht noch keine gemeinsame Infrastruktur, um diese humanmedizinischen Daten in geeigneter Form auszutauschen und zu nutzen. Dazu baut das Zentrum für den Standort Zürich eine neue Biomedizininformatik-Plattform auf, die sich an den Vorgaben des «Swiss Personalized Health Network», der nationalen Initiative zur Nutzung von Gesundheitsdaten, orientiert. Die neue Plattform wird bisher ungenutzte Daten erschliessen, die in klinische Entscheidungsunterstützungssysteme integriert werden können.
 
 Vor Kurzem hat das Zentrum zwei erste Anträge von Forschungskonsortien positiv evaluiert. Diese werden für die nächsten fünf Jahre mit je bis zu fünf Millionen Franken gefördert. Die Forschenden entwickeln gemeinsam neuartige, personalisierte Therapien – einerseits in der Onkologie, andererseits in der Neuro-Rehabilitation. «Diese Projekte wurden ausgewählt, weil sie als wissenschaftlich hervorragend beurteilt worden sind und wir in Zürich in diesen Bereichen über eine ausgewiesene Expertise verfügen. Dadurch können wir international eine wichtige Rolle einnehmen», sagt LOOP-Gründungsdirektor Markus Rudin.
 
 Das Forschungskonsortium «StimuLOOP» unter der Leitung der Professoren Andreas Luft (UZH) und Roger Gassert (ETH) untersucht die Gangstörungen von Schlaganfall- sowie Parkinsonpatientinnen und -patienten. «Unser Ziel ist es, den eingeschränkten Gang dieser Patienten mithilfe von auf sie zugeschnittenen Rehabilitationstherapien nachhaltig zu verbessern», erklärt Neurologe Andreas Luft.
 
-## Personalisierte Rehabilitation
+## Blutkrebspatienten zielgerichteter behandeln
 
 Geplant sind zwei klinische Studien mit rund 50 Schlaganfall- bzw. Parkinsonpatienten, die neuartige Trainings- und Konsolidierungsmethoden testen. Bei den Schlaganfall-Probanden wird die defizitäre Bewegung, zum Beispiel eine unvollständige Kniebeugung, mithilfe von Virtual Reality korrigiert: Die Patientinnen und Patienten laufen in einer virtuellen Umgebung auf einem Laufband und erhalten dabei gezieltes Feedback, sodass sich ihre Bewegungen wieder normalisieren. In einem zweiten Schritt geht es darum, das neu erlernte Gangmuster zu festigen. Dazu wird auch der Schlaf der Probanden gezielt überwacht und individuell stimuliert – denn wie Zürcher Studien gezeigt haben, verbessert der Tiefschlaf das Abspeichern von neu erlernten Bewegungen. Die Forschenden nutzen hierfür die portable Technologie von «Sleep Loop», einem Flagship-Projekt der Hochschulmedizin Zürich.
 
 Die Trainingsmethode für die Parkinsonpatientinnen und -patienten setzt auf die Tiefenstimulation des Gehirns mittels implantierter Elektroden. Die Patientinnen und Patienten beobachten im Labor ihre von den Elektroden abgeleiteten Nervensignale direkt am Computer und lernen, diese durch Neurofeedback zu beeinflussen. Dadurch, dass sie ihre Hirnaktivität im Wachzustand gezielt regulieren, können sie unmittelbar ihr Gehen verbessern. Im Anschluss festigen auch die Parkinsonpatientinnen und -patienten ihre neu gelernten Bewegungsmuster mithilfe einer gezielten Schlafstimulation.
 
 Indem für beide Patientengruppen die gleiche Art von Daten erhoben wird, lassen sich erstmals die Gangmuster sowie Lernvorgänge von Parkinson- und Schlaganfallpatienten vergleichen. Im Forschungsprojekt arbeiten Forschende sowie Therapeutinnen und Therapeuten der UZH, ETH, USZ und KiSpi zusammen.
-
-## Blutkrebspatienten zielgerichteter behandeln
 
 Für Kinder oder Erwachsene mit Lymphomen, bösartig veränderte Lymphozyten im Lymphknoten oder Knochenmark, oder akuter lymphoblastischer Leukämie (ALL) gibt es ein breites Behandlungsspektrum. Bei vielen Betroffenen meldet sich die Krebserkrankung nach einiger Zeit zurück, weil sie nicht zureichend auf die Behandlungen ansprechen. Denn noch weiss man nicht genau, welches Medikament für welche Blutkrebspatienten das richtige ist. Diesem Umstand will das von Thorsten Zenz, UZH-Professor für Hämatologie, geleitete Forschungsprojekt «INTeRCePT» Rechnung tragen.
 

@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2019/01/eth-bibliothek-uebernimmt-open-access-publikationsgebuehren-bei-der-royal-society-of-chemistry-rsc.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 This is on condition that the corresponding author of the paper submitted be employed at ETH Zurich. His or her ETH Zurich email address must be provided when transferring the manuscript . This applies to all Royal Society of Chemistry (RSC) journals except RSC Advances.

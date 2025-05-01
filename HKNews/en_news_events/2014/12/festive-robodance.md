@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2014/12/festive-robodance.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 For two years now, there's been a reason to be on your guard at ETH during the festive period: robots are on the loose! They go on the rampage at ETH Zurich and the surrounding area, knocking over Christmas trees, dragging presents around campus and throwing them here and there – always autonomously and seemingly free of human control.

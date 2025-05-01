@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2018/09/remaining-among-the-best.html
 
+**Date processed:** 2025-05-01
+
 ## Also outstanding in the other rankings
 
 The third major university ranking this year, the World University Ranking from Times Higher Education (THE), has once again ranked ETH Zurich among the best universities in the world. At 11th place, it has fallen by one position relative to last year but is still the best university in continental Europe by far, with the higher positions occupied entirely by top universities in England and the United States. Oxford once again tops the THE rankings in 2018.
@@ -12,9 +14,9 @@ ETH President Lino Guzzella is delighted with the excellent classification: “I
 
 ETH Zurich also performed extremely well in the two other major university league tables already published this year: in the QS Rankings, ETH Zurich climbed three positions to reach seventh place, while in the Shanghai Ranking (ARWU Ranking), which is heavily weighted towards Nobel prizes awarded to current and former members of the university, ETH came in 19th place for the third time in a row.
 
-## THE World Academic Summit: 2019 at ETH Zurich
-
 The different methods and criteria used by the three rankings mean it is difficult to compare the results. “The fact that ETH has been in the vanguard of all three rankings for years is definitely a sign of our consistency,” says Lino Guzzella. Responsibility for this lies not only with the political environment, which provides good framework conditions, but also with ETH Zurich itself. “It’s essential that we keep on evolving in order to keep up with the best, some of whom are investing heavily. One of the ways we do this is via the ETH+ initiative, in which we support interdisciplinary projects and set up additional professorships in future-oriented disciplines.”
+
+## THE World Academic Summit: 2019 at ETH Zurich
 
 The annual THE World University Ranking is announced as part of each year’s THE World Academic Summit. This year’s event in Singapore will be followed by one in Zurich in 2019, when ETH Zurich will host the next instalment of the world’s most important higher-education conference. Representatives from the world’s top universities, Nobel Prize winners and decision-makers from the worlds of politics and business will meet in Zurich from 10 to 12 September 2019 to debate the future of the global higher education landscape together.
 

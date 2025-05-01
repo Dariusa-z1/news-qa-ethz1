@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2023/05/nine-professors-appointed.html
 
+**Date processed:** 2025-05-01
+
 ## New appointments
 
 (Photograph: ETH Zurich / Kilian J. Kessler)
@@ -18,8 +20,6 @@ Dr Nina Cabezas Wallscheid (*1982), currently Group Leader at the Max Planck Ins
 
 (Photograph: Bryce Vickmark)
 
-## Promotions
-
 Professor Colette L. Heald (*1977), currently Full Professor at the Massachusetts Institute of Technology (MIT), Cambridge, USA, as Full Professor of Atmospheric Chemistry in the Department of Environmental Systems Science. In her research, Colette L. Heald aims to understand the key chemical and physical processes that control the composition of the atmosphere, the effects of gases and particles in the atmosphere, and the impacts of the changing climate and biosphere at global level. Her work is an ideal complement to two existing professorships in the department. This internationally renowned researcher also has an impressive list of publications to her name and has won multiple awards.
 
 (Photograph: UW Madison Board of Regents)
@@ -34,7 +34,7 @@ Professor Johanna Ziegel (*1981), currently Full Professor at the University of 
 
 Dr Thomas H. Zurbuchen (*1968), currently a freelance consultant and international speaker, as Full Professor of Space Science and Technology in the Department of Earth Sciences. Thomas H. Zurbuchen was Associate Administrator for the Science Mission Directorate at NASA from 2016 to 2022, and is an internationally sought-after expert in innovation and entrepreneurship. He will head the ETH Zurich | Space initiative, and plans to launch Switzerland’s first Master’s degree programme in space science and technology. The Department of Earth Sciences has been involved in several major space missions over the past 20 years, sometimes in a leading capacity. The appointment of Thomas H. Zurbuchen – a world-class scientist with exceptional links to NASA, the ESA, national space agencies and the space industry – provides the department and ETH Zurich with the opportunity to play a decisive role in numerous future missions and other research activities relating to space travel (e.g. satellite data).
 
-## Award of the title of Professor
+## Promotions
 
 (Photograph: ETH Zurich / Giulia Marthaler)
 
@@ -44,15 +44,17 @@ Professor Torbjörn Netland (*1980), currently Tenure Track Assistant Professor 
 
 Professor Jeremy Richardson (*1986), currently Tenure Track Assistant Professor at ETH Zurich, as Associate Professor of Theoretical Molecular Quantum Dynamics in the Department of Chemistry and Applied Biosciences. Jeremy Richardson’s research focuses on the theoretical description of quantum dynamic processes in complex systems. His main interest lies in calculating thermal velocity constants with the help of ring-polymer instanton theory. He conducts fundamental research at the highest international level and without prejudice to the outcome, which offers opportunities for exploratory research. Jeremy Richardson has won several awards and is very influential in his field, as demonstrated by numerous invitations to lecture and participate in international conferences.
 
+## Award of the title of Professor
+
 (Photograph: private)
 
 Dr Johannes Lengler (*1981), currently Lecturer in the Department of Computer Science at ETH Zurich, as Adjunct Professor at ETH Zurich. As a leading theoretical computer scientist, Johannes Lengler undertakes a broad range of research, ranging from pure mathematics to the neurosciences. In addition to his work on random network theory, he has also become a driving force behind the theory of nature-inspired search heuristics, to which he makes important contributions thanks to his background in mathematics.
 
 (Photograph: Nicholas P. van der Meulen, PSI)
 
-## Departures
-
 Dr Cristina Müller (*1975), currently Private Lecturer in the Department of Chemistry and Applied Biosciences at ETH Zurich and Group Leader at the Paul Scherrer Institut (PSI), as Adjunct Professor at ETH Zurich. Cristina Müller conducts research in the field of radiodiagnostics with particular reference to radio-labelled small molecules that target tumour-associated structures in ovarian and prostate cancer cells. She is an internationally acclaimed scientist who carries out world-class radiopharmaceutical research, for which she has received a number of awards.
+
+## Departures
 
 Professor Kay W. Axhausen (*1958), currently Full Professor of Transport Planning in the Department of Civil, Environmental and Geomatic Engineering, is to retire at the end of January 2024. Kay W. Axhausen joined ETH Zurich as a full professor in 1999. His research has a particular focus on measuring and modelling traffic behaviour and analysing transport decisions made by individuals and institutions. Of the studies he has conducted, the most influential were on the value of reducing travel time. This work led to the definition of the official values used for cost-benefit analysis in Switzerland and Germany. Kay W. Axhausen has an impressive list of publications to his name and has won many prestigious awards. He has also served on numerous commissions, committees and boards.
 

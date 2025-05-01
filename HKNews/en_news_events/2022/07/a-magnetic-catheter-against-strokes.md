@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2022/07/a-magnetic-catheter-against-strokes.html
 
-## Entering the brain quickly and with precision
+**Date processed:** 2025-05-01
+
+## Main article
 
 Strokes are the world’s second most common cause of both death and long-term disability. One in four adults over the age of 25 will suffer a stroke in their lifetime. If a blood clot in the brain cannot be removed using drugs, those affected require emergency surgery, which sees the surgeon manoeuvre a catheter through an artery past the heart into the brain to clear away the disturbance of the blood supply.
 
@@ -10,19 +12,21 @@ The sooner and faster the procedure is carried out, the lower the patient’s ri
 
 ETH spin-off Nanoflex has now developed a new type of catheter steered by remote control and computer via a magnetic field. “Not only can the catheter tip be bent in any direction thanks to a magnetic head; it’s also smaller, more manoeuvrable and safer due to the softness of the material,” explains ETH alumnus Christophe Chautems, one of the three founders of Nanoflex.
 
-In future, the magnetic catheter’s precision steering will speed up and simplify procedures compared to conventional catheters. “Even surgeons with less experience should be able to treat strokes with our system,” Chautems says. Since hospitals are currently short of catheter specialists, Chautems and his team are hopeful that their system will give more patients access to prompt stroke treatment. Having a soft and more manoeuvrable catheter should also reduce the risk of accidental vessel damage.
+## Entering the brain quickly and with precision
 
-## A magnetic field generator with wide-ranging applications
+In future, the magnetic catheter’s precision steering will speed up and simplify procedures compared to conventional catheters. “Even surgeons with less experience should be able to treat strokes with our system,” Chautems says. Since hospitals are currently short of catheter specialists, Chautems and his team are hopeful that their system will give more patients access to prompt stroke treatment. Having a soft and more manoeuvrable catheter should also reduce the risk of accidental vessel damage.
 
 Another advantage is that the surgeon steers the magnetic catheter by remote control, which means they don’t have to be at the patient’s side during the procedure. This shields doctors from the radiation of the X-ray machine that allows them to get their bearings inside the patient’s body.
 
 But it doesn’t stop there. “With our system, it will be possible to carry out procedures from a distance by remote control and on a screen,” says Silvia Viviani, who studied robotics at ETH Zurich and has worked at Nanoflex since 2021. The researchers at the start-up are hoping that, in future, stroke patients will be operated on – as quickly as possible – at the nearest local hospital by a specialist who doesn’t even have to be on the premises. This would save precious time.
 
+## A magnetic field generator with wide-ranging applications
+
 For surgeons to be able to work with the magnetic catheter, patients must lie next to a magnetic navigation system that creates a directed magnetic field. The system and the related software were developed at ETH Professor Bradley Nelson’s Multi-Scale Robotics Lab. Nelson co-founded Nanoflex together with Christophe Chautems and Matt Curran in 2021. Curran, the young company’s CEO, has over 20 years of medtech experience under his belt. Since its founding, the ETH spin-off has been supported by the Wyss Zurich Translational Center.
 
-In contrast to commercially available equipment that is permanently installed in the operating theatre, Nanoflex’s magnetic field generator is significantly lighter and thus has a wider range of applications. It can be wheeled into the operating theatre as needed and requires only power and water.
-
 ## At every big hospital
+
+In contrast to commercially available equipment that is permanently installed in the operating theatre, Nanoflex’s magnetic field generator is significantly lighter and thus has a wider range of applications. It can be wheeled into the operating theatre as needed and requires only power and water.
 
 ETH engineer Chautems spent over five years in Nelson’s research group developing the magnetic catheter and researching how to downsize the system. “Our goal was to generate a magnetic field within the smallest possible space to bring the size and weight of the equipment down. We finally cracked it by developing a new, now-patented cooling system for the electromagnet,” explains Chautems, who comes from the western part of Switzerland and first joined ETH Zurich for his Bachelor’s degree in mechanical engineering. As a result, the smaller and more flexible magnetic navigation system will be significantly cheaper than competing products.
 

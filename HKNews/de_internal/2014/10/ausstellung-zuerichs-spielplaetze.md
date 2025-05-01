@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2014/10/ausstellung-zuerichs-spielplaetze.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Bis zum Zweiten Weltkrieg bestanden Spielplätze meist aus isolierten Spielgeräten wie Schaukeln, Rutschen und Wippen. Ab den 1930er Jahren wurden jedoch neue Ideen gesucht, um kindergerechtes Spiel und Kreativität aktiv zu fördern.

@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2016/10/praesident-der-slowakei-besucht-eth.html
 
-## Main article
+**Date processed:** 2025-05-01
+
+## Cybathlon impresses Kiska
 
 Important visitor at ETH Zurich: As part of his official visit to Switzerland, Slovak President Andrej Kiska together with his host, Swiss Federal President Johann N. Schneider-Ammann, toured the ETH Hönggerberg campus on Friday morning. The President of Slovakia was accompanied by representatives from various ministries and a delegation of some 15 science and business persons.
 

@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2022/09/blog-wir-muessen-uns-den-ethischen-herausforderungen-des-bioengineering-stellen.html
 
-## Gesellschaft an Entscheidung beteiligen
+**Date processed:** 2025-05-01
+
+## Main article
 
 Endlich ist die Gentherapie bereit für die Behandlung menschlicher Krankheiten: Für so unterschiedliche Krankheiten wie erbliche Erblindung, spinale Muskelatrophie bei Kindern und einige Arten von Blutkrebs gibt es inzwischen zugelassene gentherapeutische Behandlungen. In der Regel kompensieren diese Therapien Defekte in einem einzelnen Gen, indem sie den Patienten das richtig funktionierende Gen mit Hilfe von Viren oder Zellen, die als Vehikel dienen, zuführen.
 
@@ -10,7 +12,7 @@ Im Labor geht das Engineering von Zellen jedoch inzwischen weit über diese verh
 
 Ein Beispiel solcher weitergehenden Ansätze ist eine neue Therapie für frühkindliche Erblindung. Bei dieser Krankheit degenerieren die Photorezeptoren in der Netzhaut. Erst kürzlich ist es Forschenden gelungen, die Sehfunktion eines blinden Patienten mit einem lichtempfindlichen Protein aus einer Alge wiederherzustellen. 1 Zumindest in einem Gedankenexperiment müssen wir uns nicht damit begnügen: Lichtempfindliche Proteine gibt es nicht nur in dem für den Menschen sichtbaren Lichtspektrum. Schlangen zum Beispiel haben Proteine, die auf Infrarotlicht reagieren. Kürzlich wurden solche Proteine verwendet, um bei Labormäusen Infrarotsehen zu ermöglichen. 2
 
-## Einfluss auf menschliche Identität
+## Gesellschaft an Entscheidung beteiligen
 
 Ein weiteres Beispiel für eine künstlich hergestellte De-novo-Funktion: Forschende haben Mäusen Zellen eingepflanzt, die den Blutzuckerspiegel messen 3 und als Reaktion auf einen hohen Zuckerspiegel ein blutzuckersenkendes Hormon ausschütten. In einem verwandten Projekt schütten die Zellen das Hormon als Reaktion auf Kaffeekonsum aus. Damit wurde die Diabeteskontrolle mit einer Aktivität verknüpft, die für viele Menschen zum Alltag gehört. 4
 
@@ -18,11 +20,11 @@ Auch wenn es noch eine Weile dauern wird, bis solche künstlichen molekularen un
 
 Wenn wir diese neuen Technologien den Menschen zugänglich machen wollen, ist Vorsicht und Konservatismus der richtige Weg. Am wichtigsten ist vielleicht, dass die Gesellschaft als Ganzes sowohl in die Lage versetzt als auch aufgefordert wird, sich aktiv und zusammen mit den Forschenden am Entscheidungsprozess zu beteiligen.
 
-## Über den Autor
-
 Einige der Probleme, die durch synthetische Zellkonstrukte aufgeworfen werden, sind bereits aus der Stammzell- und Gentherapie bekannt: Diese Behandlungen werden extrem teuer sein und daher die bereits bestehende Kluft zwischen denjenigen, die sich modernste Behandlungen leisten können, und denjenigen, die dies nicht können, noch verschärfen. Ausserdem könnten sie als einmalige Behandlungen mit lebenslanger Wirkung heilend wirken und ein Leben lang im Körper verbleiben. Wie stellen wir Kontrollmechanismen sicher für den Fall, dass bei der Therapie etwas schief geht und der Eingriff die Krankheit verschlimmert?
 
 Noch grundlegender ist, dass wir eine breite gesellschaftliche Diskussion darüber führen, ob wir überhaupt veränderte zelluläre oder molekulare Systeme in den menschlichen Körper einbringen sollten. Und wenn wir dies tun, müssen wir uns fragen, welche Funktionen manipuliert werden dürfen, und wie wir verhindern, dass sie ausser Kontrolle geraten – auch in einer Art und Weise, die unsere derzeitige Vorstellung und unser derzeitiges Wissen übersteigt.
+
+## Über den Autor
 
 Daniel Müller ist Professor für Biophysik am Departement für Biosysteme der ETH Zürich in Basel.
 
@@ -34,15 +36,11 @@ Es ist nicht allein Sache der Wissenschaftler:innen zu entscheiden, ob wir diese
 
 Angesichts des raschen Fortschritts, die diese Ansätze in Tiermodellen machen, und der Präzedenzfälle der Gentherapie, ist es an der Zeit, einen gesellschaftlichen Konsens über bioingenieurtechnisch veränderte Systeme zu suchen. Es ist zwar einfach, eine breite gesellschaftliche Diskussion zu fordern, aber es ist schwierig zu sagen, wie diese sinnvoll geführt werden soll, also auf eine Art, die Vertreter:innen vieler Denktraditionen – gesellschaftlicher, kultureller oder religiöser Art – daran beteiligt, und in einem Kontext, der auch die Politik beeinflussen kann.
 
-## Verschiedene Kulturen zusammenbringen
-
 Als Wissenschaftler:innen erheben wir nicht den Anspruch zu wissen, wie wir diese gewaltige Aufgabe am besten bewältigen können. Aber wir haben die Verantwortung, die Öffentlichkeit auf das Thema Zell-Engineering aufmerksam zu machen und eine offene Diskussion zu fördern, indem wir einen Rahmen bieten, in dem ein echter Diskurs stattfinden kann.
 
 Zu unseren eigenen Bemühungen in dieser Richtung gehört ein 2017 gegründeter Ethik-Thinktank 5 , der unser Departement für Biosysteme in Basel, den Nationalen Forschungsschwerpunkt (NCCR) für Molecular Systems Engineering, die Päpstliche Akademie für das Leben, das Ospedale pediatrico Bambino Gesù und das Istituto Superiore di Sanità, alle in Rom, umfasst. Nächste Woche wird diese Gruppe eine Konferenz über die Ethik des technischen Lebens 6 veranstalten, wobei die Teilnahme von Jugendlichen und von Delegierten aus Ländern ausserhalb Westeuropas und der Vereinigten Staaten ausdrücklich unterstützt wird.
 
 Indem sie Experten und Laien aus verschiedenen Nationen, Kulturen und Disziplinen zusammenbringt, zielt diese Konferenz auf einen Diskurs ab, an dem alle Beteiligten gleichberechtigt teilnehmen. Wir brauchen einen breiten Dialog über das einzigartige Potenzial und die Risiken des molekularen und zellulären Engineerings, damit die unterschiedlichen Ansichten und Werte zu einem Konsens verdichtet werden können.
-
-## Newsletter-Anmeldung
 
 Daniel Müller verfasste diesen Artikel zusammen mit Natalie de Souza, wissenschaftliche Mitarbeiterin und Dozentin am Institut für Molekulare Systembiologie der ETH Zürich.
 

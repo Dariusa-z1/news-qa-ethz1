@@ -2,8 +2,15 @@
 
 **Source:** de_internal/2016/04/birkhaeuser-building-types-online.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
+Die Datenbank bietet
+
+• über 5000 massstabgetreue Pläne
+• über 2000 Aussen- und Innenaufnahmen
+• Fachanalysen zu Wohn- und Bürogebäuden, Schulen, Industriebauten, Museen, Bibliotheken oder Sakralbauten.
 Die Datenbank bietet
 
 Eine innovative Recherche z. B. nach Gebäudetypen, volumetrischen Konstellationen oder auch städtebaulichem Kontext ist möglich.

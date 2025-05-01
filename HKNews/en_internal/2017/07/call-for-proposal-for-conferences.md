@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2017/07/call-for-proposal-for-conferences.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 The Congressi Stefano Franscini, ETH Zurich's conference platform since 1989, gives the possibility to organise research conferences at Monte Verità, a hilltop over Ascona and Lake Maggiore. All researchers and university professors working in Switzerland are invited to submit their proposal for a meeting to be held in 2019; international collaborations are welcome.

@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2018/06/challenge-the-best-in-data-science.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH Zurich’s continuing education offensive is gathering pace. After launching the School for Continuing Education with Einstein in April and presenting new programmes in cybersecurity and materials and manufacturing technology, the university is already presenting another new course: the Diploma of Advanced Studies ETH in Data Science. The programme will impart the latest knowledge, methods and technologies in the area of data science and is based on the same course units as the Master’s degree programme of the same name, which ETH launched in Autumn Semester 2017.

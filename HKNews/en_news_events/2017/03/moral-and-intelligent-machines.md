@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2017/03/moral-and-intelligent-machines.html
 
+**Date processed:** 2025-05-01
+
 ## How well can a machine make decisions?
 
 It's clear that robots are machines and not people. For one thing, they're built to relieve people from purely mechanical or repetitive work. Their intelligence is not natural, but is controlled by computer programs.
@@ -12,8 +14,6 @@ Various ETH Zurich institutes, laboratories and spin-offs are involved in the de
 
 Even if intelligent machines cannot out-think people and mostly take on routine tasks at the moment, their advent still raises questions. If man-made machines can "learn" and "decide", what happens when their actions and decisions don’t fit a human judgement of "good"? Who is then responsible for them? Who is liable for any damage they do?
 
-## Robotics – an issue of ethics
-
 Such moral and judicial questions are raised by self-driving vehicles and war robots (see the Tages-Anzeiger from 20 March 2017). Who decides whether an intelligent weapons system shoots or not? Can a weapons system differentiate between a combat situation and a pause in the battle, between foreign soldiers and civilians? How does a self-driving car decide what to do if a child suddenly jumps into the road, but swerving would mean endangering a larger group of people? Fully autonomous weapons and cars do not yet exist, but there are also more pressing questions: who is responsible for mistakes in large organisations or complex networks, where both people and machines are at work?
 
 It's always a person, some say. Others argue that we need to establish an additional legal status for “digital persons” in such cases. Is this a case for legislative action, or should measures be based on fiscal considerations? For example, should there be a tax on the added value which robots generate, particularly if people lose their jobs as a result?
@@ -21,8 +21,6 @@ It's always a person, some say. Others argue that we need to establish an additi
 These are questions which until recently seemed to be the preserve of science fiction. Lately, however, renowned journals such as Nature , The Economist , Fortune or heise online have also raised the question of how moral machines should be and what ethics are required of artificial intelligence. These questions are also gaining political weight, as shown by parliamentary motions in Switzerland and in Europe ; the European resolution concerns legal regulations for robotics as well as a code of ethics for robotics engineers.
 
 ETH Zurich also has initiatives – such as in education – which reflect these scientific activities: for example, the Critical Thinking Initiative and Cortona Week , or the Master’s programme in the History and Philosophy of Knowledge . Within this environment, ETH students and doctoral candidates from the humanities, engineering and computer sciences have joined forces to create the Robotics and Philosophy project. In February, they organised a workshop focused on the ethical implications of intelligent machines and robots, and invited experts on the ethics of artificial intelligence, such as cognitive scientist and " robot whisperer " Joanna Bryson, philosopher of technology Peter Asaro and ETH historian of ideas Vanessa Rampton. Lisa Schurrer and Naveen Shamsudhin are part of the project.
-
-## Broaden your perspective
 
 Naveen Shamsudhin has just completed his PhD at the Multi-Scale Robotics Lab; his doctoral work was on microrobotic tools for investigating plant growth mechanics. In 2009, he came to ETH Zurich on a federal scholarship (ESKAS) and completed a Master’s in Micro and Nanosystems at the Automatic Control Laboratory.
 

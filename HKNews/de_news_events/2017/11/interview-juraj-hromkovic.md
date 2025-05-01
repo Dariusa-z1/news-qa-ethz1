@@ -2,17 +2,9 @@
 
 **Source:** de_news_events/2017/11/interview-juraj-hromkovic.html
 
-## Zur Person
+**Date processed:** 2025-05-01
 
-- Lino Guzzella: «Diese Chance müssen wir packen» (ETH-News 20.06.2017)
-
-- Srdjan Capkun: «Es ist immer ein Kompromiss» (ETH-News 19.07.2017)
-
-- Joachim Buhmann «Die Medizin wird modellgetrieben» (ETH-News 28.08.2017)
-
-- Roger Wattenhofer «Blockchain ist ein Hype» (ETH-News 29.09.2017)
-
-- Nicolai Meinshausen: «Wir haben sehr viel Zulauf» (ETH-News 17.10.2017)
+## Main article
 
 ETH-News: Herr Hromkovic, die Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK) hat sich Ende Oktober für die Einführung eines Informatik-Obligatoriums am Gymnasium ausgesprochen. Sind Sie zufrieden?
 
@@ -24,6 +16,8 @@ Eine gute Schulbildung sollte die Schülerinnen und Schüler befähigen, die Wel
 
 Wenn ich die Technik nicht verstehe, dann verstehe ich auch die von Menschen gestaltete Welt nicht, in der ich lebe. Und was die Berufswelt betrifft: Kein Mensch weiss, wie diese in 10, 15 Jahren aussehen wird. Deshalb müssen wir den jungen Menschen Grundsätzliches vermitteln: Wie erzeugt man Wissen und wie entwickelt man Technologie? Wie wandelt man Wissen in Algorithmen um und wie delegiert man die Ausführung dieser Algorithmen mittels Programmierung an Maschinen? Wenn die jungen Leute das verstehen, haben sie später eine Chance, die Zukunft mitzugestalten. Wir müssen Erfinder und Produzenten und nicht nur Konsumenten erziehen.
 
+## Zur Person
+
 Juraj Hromkovic ist seit Januar 2004 Professor für Informationstechnologie und Ausbildung an der ETH Zürich. Neben seiner Forschungstätigkeit zur Komplexitätstheorie und zum Entwurf von Algorithmen für schwere Optimierungsprobleme befasst er sich schwergewichtig mit der Didaktik der Informatik. Um die Einführung der Informatik als Schulfach in der Schweiz zu fördern, gründete er 2005 das Ausbildungs- und Beratungszentrum für den Informatikunterricht , dessen Leiter er heute ist. Zudem leitet er die Lehrerausbildung für das Lehrdiplom Informatik an der ETH Zürich.
 
 Apple-Chef Tim Cook meinte kürzlich, für einen Franzosen sei es künftig wichtiger, Programmieren zu können als Englisch zu sprechen. Teilen Sie diese Ansicht?
@@ -31,8 +25,6 @@ Apple-Chef Tim Cook meinte kürzlich, für einen Franzosen sei es künftig wicht
 Das ist eine medienwirksame Äusserung. Doch mir geht es nicht nur ums Programmieren, ich spreche von Informatik.
 
 Was ist denn er Unterschied?
-
-## Die ETH am Digitaltag
 
 Programmieren ist nur ein Teil der Informatik. Einfach gesagt: Es gibt keine Mathematik ohne Arithmetik. Aber Mathematik ist mehr als nur Arithmetik. Die informatische Denkweise blickt auf eine 5000 Jahre lange Geschichte zurück.
 
@@ -52,8 +44,6 @@ Wir unterrichten zum Beispiel nicht eine bestimmte Programmiersprache, sondern w
 
 Sie haben früher in einem Interview erklärt, in den Gymnasien hätte man in den letzten 20 Jahren Informatik falsch unterrichtet…
 
-## Schwerpunktthema Daten
-
 …das ist nett ausgedrückt.
 
 Was lief denn schief?
@@ -72,8 +62,6 @@ Haben wir denn genügend Lehrer für einen solchen Informatikunterricht?
 
 Die ETH bildet schon seit mehr als 15 Jahren Lehrpersonen aus, welche Informatik auf diese Weise unterrichten könnten. Wir beginnen also nicht auf der grünen Wiese.
 
-## Digitaltag 2017
-
 Sie haben vorhin andere Länder angesprochen, in denen Informatik anders unterrichtet wird. Welche Länder sind das?
 
 Es sind vor allem osteuropäische Länder. Ich selber stamme aus der ehemaligen Tschechoslowakei und genoss in den 1970er-Jahren vier Jahre lang einen echten Informatikunterricht mit vier Stunden pro Woche. In Osteuropa hatten die MINT-Fächer insgesamt einen viel höheren Stellenwert als im Westen. In der Schweiz hat man in den 1990er-Jahren nicht nur die Informatik durch ICT ersetzt, sondern auch die Stellung der Mathematik und der Naturwissenschaften geschwächt. Nun beklagen wir uns, dass wir zu wenig Ingenieure, Mathematiker und Naturwissenschaftler haben…
@@ -82,13 +70,24 @@ Was ist die Rolle der ETH in dieser Diskussion?
 
 Die ETH sollte sich dafür einsetzen, dass die MINT-Fächer in den Schulen wieder mehr Gewicht erhalten. Die Jugendlichen wollen etwas leisten, und es gibt für sie tolle Möglichkeiten, in diesen Bereichen Leistungen für die Gesellschaft zu erbringen. Wir sollten auf das Faustische setzen: Der Mensch wird nur zufrieden, wenn er etwas Besonderes leistet, von dem er selber denkt, dass es nicht ohne ist. Diese Denkweise müssen wir wieder in die Schulen tragen.
 
+## Die ETH am Digitaltag
+
 Heute findet in der ganzen Schweiz der nationale Digitaltag statt, an dem sich auch die ETH Zürich engagiert. Sie präsentiert verschiedene Exponate zum Thema Digitalisierung in der grossen Ausstellung im Hauptbahnhof Zürich und thematisiert in Vorträgen und Live-Schaltungen ausgewählte Aspekte der Digitalisierung. Ein Höhepunkt aus ETH-Sicht ist der Programmierworkshop, den das Ausbildungs- und Beratungszentrum für den Informatikunterricht durchführt. 180 Schülerinnen und Schüler aus der ganzen Schweiz lassen sich am Morgen im ETH-Hauptgebäude in die Grundlagen der Programmierung einweihen.
 
 Das gesamte Programm des Digitaltags findet sich auf der Webseite externe Seite http://digitaltag.swiss
 
-Daten spielen in unserer Gesellschaft eine immer wichtigere Rolle. Die ETH Zürich wird sich deshalb in den kommenden Jahren vertieft mit diesem Themenschwerpunkt befassen. ETH News zeigt in einer Serie von Interviews exemplarisch auf, mit welchen Themen sich Forschende der ETH Zürich konkret befassen und wie sie die gesellschaftliche Entwicklung in ihrem Bereich einschätzen.
+## Schwerpunktthema Daten
 
 Bisherige Beiträge in dieser Serie:
+
+• Lino Guzzella: «Diese Chance müssen wir packen» (ETH-News 20.06.2017)
+• Srdjan Capkun: «Es ist immer ein Kompromiss» (ETH-News 19.07.2017)
+• Joachim Buhmann «Die Medizin wird modellgetrieben» (ETH-News 28.08.2017)
+• Roger Wattenhofer «Blockchain ist ein Hype» (ETH-News 29.09.2017)
+• Nicolai Meinshausen: «Wir haben sehr viel Zulauf» (ETH-News 17.10.2017)
+Daten spielen in unserer Gesellschaft eine immer wichtigere Rolle. Die ETH Zürich wird sich deshalb in den kommenden Jahren vertieft mit diesem Themenschwerpunkt befassen. ETH News zeigt in einer Serie von Interviews exemplarisch auf, mit welchen Themen sich Forschende der ETH Zürich konkret befassen und wie sie die gesellschaftliche Entwicklung in ihrem Bereich einschätzen.
+
+## Digitaltag 2017
 
 Heute findet in der ganzen Schweiz der nationale Digitaltag statt, an dem sich auch die ETH Zürich engagiert.
 

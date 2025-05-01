@@ -2,15 +2,13 @@
 
 **Source:** en_internal/2016/09/flu-vaccination-campaign-2016.html
 
+**Date processed:** 2025-05-01
+
 ## Vaccination appointments
 
 All members of ETH Zurich can get a vaccination: For all employees and students the vaccination is free of charge. The vaccination is optional.
 
-## Subscribe to Newsletter
-
 Registration compulsory The vaccination is for ETH-members only. Registration is open now on the .
-
-## Staffnet
 
 ETH Zurich, Zentrum, GEP Pavillon 20 October 2016, 08.30–11.30 h 15 November 2016, 08.30–11.30 h
 

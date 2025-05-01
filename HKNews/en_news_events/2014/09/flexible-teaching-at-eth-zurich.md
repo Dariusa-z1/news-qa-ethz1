@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2014/09/flexible-teaching-at-eth-zurich.html
 
+**Date processed:** 2025-05-01
+
 ## International role models
 
 From the outside, room HG E 41 looks just like any other seminar room. As of this semester, however, it has a new interior set-up specially designed to facilitate (inter)active and versatile forms of teaching.
@@ -10,17 +12,15 @@ The flexible auditorium is equipped with mobile fittings, so the tables and chai
 
 Back at the end of 2012, ETH Zurich decided to gather experience in providing MOOCs (Massive Open Online Courses) during a two-year trial period. MOOCs, which are now offered by many universities across the world, are designed to be accessible to a large number of participants worldwide. ETH has developed a slightly different concept known as TORQUEs (Tiny, Open-with-Restrictions courses focused on QUality and Effectiveness), which are primarily aimed at its own students and are therefore always related to a particular course of study at ETH Zurich.
 
-## Operating at half capacity
-
 Thanks to the flexible auditorium, the classroom-based parts of ETH’s TORQUEs can now be put into practice too. This can be done as a “flipped classroom” session, for example, in which the students start by working through the theoretical elements online before attending a classroom-based seminar with lecturers and assistants in which they apply, discuss or consolidate their knowledge of the key concepts.
 
 In autumn 2013, a delegation of professors, staff members and students from ETH Zurich travelled to Stanford, California, to investigate new teaching concepts and learning infrastructures being used by Stanford University and draw inspiration from them to take back to Zurich.
 
 Koni Osterwalder from the Educational Development and Technology (LET) staff highlights the room concepts used at Stanford’s Institute of Design (d.school) as one of the ideas the group particularly liked: “The d.school has flexible classrooms for group and project work, which create an ideal environment for focused interaction between the lecturer and the students.”
 
-## Don't miss the latest news
-
 Special seminar rooms for interactive teaching have already been established at various other universities too – especially those on the eastern side of the USA – under the label “SCALE-UP” (Student-Centred Active Learning Environment with Upside-down Pedagogies).
+
+## Operating at half capacity
 
 Koni Osterwalder believes that the flexible auditorium adds significant value to education: “Learning always requires an active and intensive engagement with the relevant content. This room enables courses to be taught in ways that encourage exactly this aspect of learning.”
 

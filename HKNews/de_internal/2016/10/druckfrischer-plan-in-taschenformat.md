@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2016/10/druckfrischer-plan-in-taschenformat.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Der Orientierungsplan zeigt die von der ETH Zürich genutzten Gebäude. Eine Auswahl an Departementen, Forschungseinheiten, Bibliotheken und anderen Angeboten, wie Mensen oder Sporteinrichtungen, finden sich in den Legenden. Die wichtigsten Anschlüsse zum öffentlichen Verkehr oder Informationspunkte, die bei Fragen weiterhelfen, sind ebenso vermerkt.

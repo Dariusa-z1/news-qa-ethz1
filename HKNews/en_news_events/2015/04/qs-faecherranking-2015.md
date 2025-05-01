@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2015/04/qs-faecherranking-2015.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 University Rankings by Subject. The university is now ranked number one in earth and marine sciences according to the global comparison. These results were recently published by the QS Ranking organisation. A year ago, ETH's earth sciences faculty ranked ninth. At that time, Harvard University held the top spot, followed by the University of Cambridge (UK) and the University of California, Berkeley, which now ranks second. Harvard occupies the third spot.

@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2020/08/neustark-binding-carbon-dioxide.html
 
+**Date processed:** 2025-05-01
+
 ## Utilising insights in practice
 
 The two young entrepreneurs and founders of the ETH spin-off Neustark couldn’t be more different, but they work very well together. Johannes Tiefenthaler is a doctoral student in the group of Professor Marco Mazzotti at the Department of Mechanical and Process Engineering, working on the next generation of technology for the mineralisation of carbon dioxide.
@@ -12,17 +14,15 @@ Valentin Gutknecht, meanwhile, is a business economist and handles both the ever
 
 Tiefenthaler had already started looking at various ways to make carbon dioxide react with mineral materials and bind it as limestone during his Master’s degree.
 
-## Refined properties of demolition material
-
 There are enough mineral materials on Earth to bind hundreds of billions of tonnes of carbon dioxide, but because these materials – such as magnesium silicate – are not particularly reactive, they have to be heated up to 700°C first, says Tiefenthaler. In contrast, concrete granulate has proven to be highly reactive due to the huge total surface area of the numerous particles, each just a few millimetres in size: even without pretreatment, the broken concrete forms very stable chemical compounds with the carbon dioxide.
 
 The Neustark founder Valentin Gutknecht and Johannes Tiefenthaler (Photograph: Micha Riechsteiner)
 
+## Avoiding emissions – and even reversing them
+
 What’s particularly special about Neustark’s technology is that it binds CO 2 in the pores and on the surface of concrete granulate as limestone. This upgraded granulate can then be mixed into fresh concrete as a replacement for sand and gravel. The upgraded granulate means that less cement is required – while the properties remain the same.
 
 “I’m very excited by the fact that this solution isn’t just coming in five or ten years – it’s available now,” says the second young entrepreneur, economist Valentin Gutknecht. He found time to talk while on his way to the Kästli concrete facility near Bern, where Neustark’s pilot plant is gradually being brought into operation.
-
-## Avoiding emissions – and even reversing them
 
 Before founding the company, Gutknecht helped to manage marketing and sales for the ETH spin-off Climeworks, a pioneer in the removal of carbon dioxide from ambient air. With Neustark, the main challenge is juggling all the different areas involved, says Gutknecht. They not only have to have a handle on the properties of the concrete, but also navigate the convoluted paths of CO 2 certification.
 
