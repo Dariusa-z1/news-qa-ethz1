@@ -1,0 +1,20 @@
+# ertraege-schonend-steigern-aber-wie
+
+## Erträge steigern – Ressourcen und Umwelt schonen
+
+In seinem Beitrag vom letzten Dezember ( Who will be the future farmers? ) beleuchtete Jaboury Ghazoul den global beschleunigten Strukturwandel und die damit verbundene Landflucht. Diese ist eine der Folgen der wirtschaftlichen Entwicklung und wird verstärkt durch die zunehmende Verknappung der Landflächen weltweit. Als Antwort auf die steigende Nachfrage nach Nahrungsmitteln bei gleichzeitigem Rückgang der Landressourcen taucht immer wieder der Begriff der «nachhaltigen Intensivierung» der Landwirtschaft auf. Was bedeutet nachhaltige Intensivierung, und wie kann sie einen Beitrag zur Ernährungssicherheit leisten? (Siehe dazu auch den Blogbeitrag Ernährungssicherheit als System verstehen ).
+
+## Gerechte Wertschöpfungsketten schaffen
+
+Unter nachhaltiger Intensivierung versteht man generell das Ziel, die Produktion von Nahrungsmitteln auf knapper Fläche zu steigern und dabei gleichzeitig die negativen Umweltauswirkungen zu verringern. So sollen die natürlichen Ressourcen als Lebensgrundlage erhalten bleiben. Tatsächlich besteht je nach lokalen Gegebenheiten und Produktionsweisen ein Potenzial, Erträge langfristig zu steigern. Ein solcher Produktionsanstieg kann zum Beispiel durch Effizienzsteigerungen zustande kommen, indem Inputs wie Saatgut, Wasser, Dünger und Pflanzenschutzmittel in der richtigen Menge zur richtigen Zeit eingesetzt werden. So kann man gleichzeitig Kosten sparen und die Umweltbelastung reduzieren. Ob und wie stark die Erträge dadurch effektiv steigen, hängt jedoch sehr von den lokalen Bedingungen ab. Bei kleinbäuerlichen Betrieben ist das Ertragspotenzial bestimmt grösser als bei industriell geprägten Grossfarmen, wie sie zum Beispiel Brasilien oder die USA kennen. Um aber die Erträge dieser effizienten, hochentwickelten Grossbetriebe langfristig zu sichern, sollten Prinzipen der nachhaltigen Intensivierung vermehrt berücksichtigt werden.
+
+## Zum Autor
+
+Ich bin überzeugt, dass sich die landwirtschaftliche Produktion immer weiter weg von der sogenannten «reinen Intervention» in Ökosysteme entwickeln wird. Diese ist geprägt durch Monokulturen, starken Einsatz nicht erneuerbarer Inputs, übermässige Bodenbearbeitung oder durch den erhöhten Einsatz von chemischen Hilfsstoffen wie zum Beispiel Pestiziden. In Zukunft werden vermehrt Formen der Intensivierung zur Anwendung kommen, die sich stärker an den natürlichen Prozessen und der Biodiversität orientieren und die Produktivität des Agrarökosystems als ganzes verbessern. Aspekte wie die Sicherung der Bodenqualität, die Befruchtung und die Schädlingskontrolle müssen hinsichtlich ihrer langfristigen Wirkung in die Systembetrachtung einfliessen. Dabei soll keinesfalls auf moderne Technologien verzichtet werden. Vielmehr geht es darum, einen optimalen Mix aus traditionellem Wissen, bewährten Verfahren und den neuesten Erkenntnissen aus Forschung und Entwicklung zu finden.
+
+## Keinen Beitrag verpassen
+
+Es geht aber nicht nur um erhöhte Produktion und Schutzmassnahmen. Ein wichtiger Bestandteil des Agrarökosystems ist die ländliche Bevölkerung und deren nachhaltige sozio-ökonomische Entwicklung. Eine nachhaltige Intensivierung hat Folgen auf die gesamte Wertschöpfungskette vom Produzenten über den Markt bis zum Konsumenten. Insbesondere am Anfang der Kette ist es wichtig, dass die ländliche Bevölkerung an der Wertschöpfung teilhat, damit auch sie von den Vorteilen der verbesserten Produktivität und Diversität profitiert. Nur so kann sich ihre Existenzgrundlage verbessern.
+
+Kleinbauern müssen einen gesicherten Zugang zu Bildung, Wissen und Technologien, Saatgut und anderen Inputs von hoher Qualität erhalten. Dazu zählen insbesondere auch Ernte- und Verarbeitungstechniken, Methoden zur Verbesserung der Nahrungsmittelsicherheit sowie der Zugang zu Märkten, Institutionen und Krediten, die ihren Bedürfnissen entsprechen. Das kann für viele Landwirte ein Anreiz sein, stärker auf nachhaltige Produktion zu setzen und so eine Zukunftsperspektive für ihre Betriebe zu schaffen.
+

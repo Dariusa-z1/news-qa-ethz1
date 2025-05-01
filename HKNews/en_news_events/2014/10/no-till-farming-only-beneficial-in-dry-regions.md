@@ -1,0 +1,36 @@
+# no-till-farming-only-beneficial-in-dry-regions
+
+## Increased yield in dry regions
+
+While Swiss farmers tend to till their fields before planting a new crop, a large proportion of their South American colleagues have stopped this practice. Instead, these farmers practise no-till farming: they leave the residues and stubbles from the previous season in the fields and use a special machine to drill a hole through the residue layer into the soil to plant the new crop. No-till farming is part of a farming approach known as conservation agriculture. Because it halts tilling, conservation agriculture is less time-consuming and can be more cost-effective than conventional farming methods. There has been some disagreement about the impact on yields, however. Some earlier studies showed that conservation agriculture resulted in lower yields.
+
+An international team of researchers led by the University of California Davis and including ETH scientists has now examined the yields achieved through conservation agriculture in a major overview study. The scientists analysed data from several hundred field trials reported in the scientific literature.
+
+## Less erosion, greater soil moisture content
+
+The team concluded that in moist climate regions with sufficient precipitation, no-till actually results in lower yields. Yields in such regions are six to nine percent lower on average than with conventional farming methods. The situation is different in dry regions: if the entire range of conservation agriculture measures is implemented, average yield gains of seven percent were found.
+
+In addition to stop with tilling, the conservation agriculture measures include leaving the residues from the previous crop in the field as well as planting different agricultural crops sequentially in a field, i.e. crop rotation rather than monoculture.
+
+## Disadvantage to feeding crop stubble to animals
+
+One of the greatest benefits of conservation agriculture is that it lowers susceptibility to erosion. This is especially important in regions with extremely heavy rainfalls. Heavy rainfalls affect ploughed fields without plants much more severely than fields in which the residues from the prior season is still in the ground. Soil in which the residues from previous crop seasons remain can also store more water. In no-till farming, farmers use more efficiently the available water, especially during dry periods.
+
+But there are also drawbacks: tilling also ploughs weeds into the ground. No-till farming skips this step, which means more herbicides are needed. Moreover, pests such as fungi and snails are more plentiful and in some cases have to be treated with chemical pesticides.
+
+## Too much moisture in moist regions
+
+As the research found, the three aforementioned components are key to the productivity of conservation agriculture. “In many places in Africa, farmers let livestock graze livestock on the residues left after harvest,” says Johan Six, Professor for Sustainable Agroecosystems, member of the World Food System Centre at ETH Zurich and co-author of the study. If residues are not maintained in the field, the yield of conservation agriculture is similar to the level of conventional farming methods in dry areas.
+
+“The crop residues are particularly important to ensure that the soil moisture is not lost through evaporation, but stays in the soil. We attribute the higher yields of conservation agriculture in dry regions to this reduced soil evaporation effect”, says Six. Where vegetation residue is not left in fields in dry regions, he explains, an important advantage of conservation agriculture is nullified.
+
+## Literature reference
+
+If farmers not only fail to leave crop residues but also do not rotate crops, the yield for no-till farming decreases by ten percent or more in both dry and moist regions compared to conventional methods. “This is largely due to the fact that the pressure from plant diseases and pests is much greater in monocultures than in crop-rotated fields,” says Juhwan Lee, post-doc in Six's group.
+
+Why does conservation agriculture lead to lower yields compared to conventional farming in moist and cold regions such as northern Europe? Six surmises that the soils there retain too much moisture, the fields are more difficult to farm with the heavy machinery early in the growing season and therefore the growing season is shortened, to a degree that it becomes too short to achieve high yields.
+
+Conservation agriculture is primarily practised in North and South America. The largest tracts of land in absolute terms that are farmed according to these principles are in the US. A fifth of all agricultural land there is farmed this way. In Brazil more than fifty percent of agricultural land employs no-till farming. In Europe, the method is less widespread; it is most widely used in Spain, where it is used on roughly a tenth of agricultural lands.
+
+Pittelkow CM, Liang X, Linquist BA, van Groenigen KJ, Lee J, Lundy ME, van Gestel N, Six J, Venterea RT, van Kessel C: Productivity limits and potential of the principles of conservation agriculture. Nature, online publication 22 October 2014, doi: 10.1038/nature13809
+

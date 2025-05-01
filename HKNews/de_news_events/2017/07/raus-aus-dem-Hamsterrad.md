@@ -1,0 +1,32 @@
+# raus-aus-dem-Hamsterrad
+
+## Der Mensch im Rad der Entwicklung
+
+Die Erfindung des Rades war eine der frühesten kulturellen Leistungen des Menschen. Eine weitere war die Domestikation von Tieren. Deren Synthese, also das Hamsterrad, kann daher sicher als Ideotyp vieler komplexer kultureller Entwicklungen dienen: Die Technik ermöglicht dem Menschen, eine Kreatur zu unterjochen, deren Instinkte anzusprechen und ihr eine neue Beschäftigung zu geben. Einmal auf Touren gebracht, scheint ein Stillstand undenkbar. Die Kreatur würde straucheln und den unkontrollierbaren Auswirkungen der Fliehkraft anheimfallen.
+
+Vom Rad zum Hamsterrad war es ein weiter Weg. Vom Pflug zum Glyphosat, von der Dampfmaschine zum Fliessband und von der ersten Rechenmaschine zum Smartphone ging es schneller. Zunehmend schneller. Es blieb nicht einmal Zeit, Hamster zu suchen; der Mensch hat sich einfach gleich selbst unterjocht.
+
+## Die Hamsterräder der Wissenschaft
+
+Technik hat uns ein längeres, mit Sinn erfülltes und von Erkenntnis bereichertes Leben beschert. Aber sie hat auch Fliehkräfte kreiert. Fliehkräfte, die uns an den Rand des Rades zwängen; die uns suggerieren, dass die Welt mindestens kopfstehen würde, wenn wir aufhörten, weiterzulaufen.
+
+Das grosse Hamsterrad des Wissenschaftsbetriebes besteht aus technischen Entwicklungen, Publikationen, Anträgen, Wettbewerben und dergleichen mehr. Kürzlich wurde es in einem PNAS-Artikel sehr prägnant analysiert ( externe Seite Science in the age of selfies ): Wir haben zwar mehr Technik und Information als jemals zuvor – aber unsere Kreativität scheint paralysiert zu sein ob all der Bewegung um uns herum, die wir selbst stets befeuern.
+
+## Fortschritt braucht auch Stillstand
+
+Wir erfinden und kommunizieren; wir publizieren Artikel in immer höherer Kadenz, erstellen Videos und sind nonstop online. Aber wie neu sind unsere Erkenntnisse wirklich? Wie revolutionär sind unsere Ideen? Sind wir vielleicht zu beschäftigt und derart mit Informationen und Reizen aus der eigenen Informationsblase überflutet, dass wir gar nicht mehr merken, dass wir eigentlich kaum Neues kreieren, sondern uns vor allem um uns selbst drehen?
+
+Neues zu schaffen, Fehlentwicklungen entgegenzuwirken, dafür zu sorgen, dass es weniger Hunger, Krankheiten oder Leiden gibt: All das braucht Zeit. Zeit für harte Entwicklungsarbeit – und Zeit für Reflexion. Neue Wirkstoffe von Pflanzenschutzmitteln oder Medikamenten werden in oft jahrelangen Testreihen geprüft. Bevor neue Pflanzensorten auf den Markt kommen, benötigt es ebenso langwierige Zulassungsverfahren.
+
+## Das Rad zur Ruhe bringen
+
+Jedem ist klar, dass es diese Zeit und dieses Prüfen der Nebenwirkungen braucht. Wieso sollte das bei radikal neuen Ideen anders sein? Ein Geistesblitz elektrisiert, aber er kann auch verletzen. Eine nicht vernünftig replizierte Studie kann ein falsches Bild ergeben. Eine schnell gepostete Info kann einen Shitstorm auslösen.
+
+In unserer Epoche der ständig verfügbaren Information ist man das Warten nicht mehr gewohnt. Aber Warten, Prüfen und Hinterfragen sind notwendig. Bei der Zulassung von möglicherweise problematischen Chemikalien genauso wie beim Entwickeln von Ideen. Erst dadurch kann man sich in die Haut eines anderen hineinversetzen, Gegenentwürfe prüfen, Positionen gründlich durchdenken. Kreativer Freiraum entfaltet sich heute nicht mehr ganz von selbst; man muss ihn herbeiführen: Der Hamster in uns muss lernen, sein Rad zu kontrollieren.
+
+## Zum Autor
+
+Unsere Hamsterräder zu nutzen, ist toll – aber sie zur rechten Zeit zum Stillstand zu bringen, ist genauso wichtig. Das kostet vielleicht Überwindung, verletzt unseren persönlichen Stolz und scheint uns vor dem Beobachter zu blamieren – aber es lohnt sich langfristig und ist weniger gefährlich als gedacht. Aus dem Physikunterricht sollten wir wissen: Die Fliehkraft ist eine Scheinkraft. Aus der Beobachtung des Hamsterrades sollten wir wissen: Die Kreatur bricht sich beim Stoppen nicht den Hals. Sondern kommt lediglich zum Stillstand, schont die Pfoten und kann endlich das tun, was sie schon immer antrieb: Einfach in Ruhe was futtern.
+
+In diesem Sinne mache ich mich als Agrarwissenschaftler nun vom Acker, versuche, die Ferien zu geniessen und sinniere dort über Kreativität und Hamsterräder weiter. Allerdings mit den Gezeiten des Meeres und dem Schwingen der Hängematte als einzigen zulässigen Erscheinungsformen der Fliehkräfte.
+

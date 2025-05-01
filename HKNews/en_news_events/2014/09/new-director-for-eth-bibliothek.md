@@ -1,0 +1,12 @@
+# new-director-for-eth-bibliothek
+
+## Main article
+
+After working for ETH Zurich for many years, Wolfram Neubauer, Director of the ETH-Bibliothek, will be retiring next year, having been in charge of the library since 1 September 1996.
+
+The Executive Board has chosen Rafael Ball (50) to succeed him at the head of the ETH-Bibliothek. Rafael Ball has a PhD in Biology and, from 1996 to 2008, he was Head of the Central Library at the Forschungszentrum Jülich (research centre), which investigates solutions for tackling major social challenges relating to energy, the environment, information and the brain. Since October 2008, Rafael Ball has been Director of the University Library of Regensburg. He will join ETH Zurich on 1 March 2015 and, following a short period of induction, will take over the management of the ETH-Bibliothek. Dr Ball is a recognised expert in his field and has a great deal of management experience.
+
+‘I would like to take this opportunity today to thank Wolfram Neubauer, on behalf of myself and my colleagues on the Executive Board, for his valuable and outstanding work,’ said Roman Boutellier, Vice-President Human Resources and Infrastructure. ‘Under his leadership, the ETH-Bibliothek has taken decisive steps over the past 18 years to carry on fulfilling its role as an indispensable source of knowledge, even in this digital age.’ Roman Boutellier would also like to wish Dr Neubauer’s successor, Rafael Ball, ‘the best of luck and every success’.
+
+In the period between the handover and his actual retirement, Wolfram Neubauer will be conducting a benchmarking study of the libraries at selected top universities to compile an overview of the future challenges facing our library. He will also continue to be on hand to assist with special matters at ETH even after his retirement.
+

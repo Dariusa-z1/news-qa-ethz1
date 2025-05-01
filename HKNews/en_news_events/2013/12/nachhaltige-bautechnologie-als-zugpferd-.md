@@ -1,0 +1,44 @@
+# nachhaltige-bautechnologie-als-zugpferd-
+
+## Molecular vacuum cleaner from nature
+
+Focusing on "Digital Fabrication and Advanced Building Processes in Architecture", the ETH Institute of Technology in Architecture aims to develop new approaches to research and building practices. By concentrating on planning and construction technologies as well as sustainable construction technologies, Digital Fabrication is continuing the strategic subjects of the Architecture Department (D-ARCH), which include urbanisation, climate change and limited resources in the age of the information society. The programme also supplements the activities at the Future Cities Laboratory in Singapore.
+
+Four ETH departments are involved: Architecture, Information Technology and Electrical Engineering, Mechanical and Process Engineering as well as Civil, Environmental and Geomatic Engineering. The plan is to create a digitally produced residential module in the Nest Living Laboratory of Empa and Eawag. As soon as the new Arc_Tec_Lab teaching and research building is complete on Hönggerberg, Digital Fabrication will have a new home. The researchers will test large-scale production processes at the planned multi-robot research facility.
+
+"The interest in this relatively new field of research has grown tremendously in recent years. But the fact that the subject area is now receiving state support from politicians and the federal administration at a national level is a whole new dimension. This opens up completely new possibilities for our field of research," says the head of the centre of competence, Matthias Kohler, Professor of Architecture and Digital Fabrication at the Architecture Department.
+
+The University of Basel and ETH Zurich will co-lead the Molecular Systems Engineering centre of competence. Their aim is to enhance system biology to become a new molecular engineering science. The research components of the University of Basel in chemistry, physics and biology are an excellent supplement to ETH Zurich's Basel-based Biosystems Department (D-BSSE) and its expertise in synthetic biology and system biology. The programme will not only extend the collaboration between the D-BSSE and, in particular, the Department of Chemistry at the University of Basel but also involve companies based in Basel.
+
+Daniel Müller, Professor at the Biosystems Department and co-head of the Molecular Systems Engineering NCCR, is delighted to have been granted funding: "We now have the unique opportunity to establish an entirely new area of research in Basel," explains the professor of biophysics.
+
+With the joint forces of ETH, the University of Basel and the industry, the initiators aim to establish a new kind of molecular engineering: "In doing so, we are guided by the example of nature," says Müller. So-called molecular factories can be found in nature: they are molecules that create new molecules themselves and assemble them to make factories.
+
+## Key role for theoretical research
+
+The researchers hope to understand the principle so that they can build their own molecular factories, for instance for energy conversion or combating cell dysfunctions or pollution. "As an example, we are working on 'molecular vacuum cleaners', which will allow cleaning up pollutants in the future," says Müller. In medicine, artificial molecular factories could be used to heal diabetes or blindness.
+
+25 research groups are currently interconnected in this competence centre. This figure is set to rise to 30 in the near future. "As 'molecular factories' have a very complex structure, we can only understand them if many groups share their knowledge. The competencies of the individual groups are not sufficient to understand them," explains Müller.
+
+Research where mathematics and theoretical physics meet is currently a very creative field of science. The Mathematics of Physics (SwissMAP) centre of competence now aims to further expand the collaboration between mathematicians and physicists.
+
+"The fact that our application to implement SwissMAP has been granted shows what significance theoretical research has for Switzerland," says Giovanni Felder, Professor at ETH's Mathematics Department and co-head of the programme. In addition to working groups of ETH Zurich and the University of Geneva, the leading house, theoretical physicists of Cern and researchers from EPFL, the universities of Zurich and Berne are involved in SwissMAP.
+
+Typical fields of research, where mathematics and physics overlap, are the theory of probabilities and geometry: when, for instance, physicists working with the quantum field theory and string theory describe the elementary particles, they develop geometrical terms that result in new findings in mathematics.
+
+When they describe thermodynamics microscopically, they are also inspired by the theory of probabilities, says Felder. He himself is examining mathematical properties of models of statistical mechanics and the quantum field theory. "Mathematics is developing new methods that benefit physics and, in turn, many ideas from physics are inspiring mathematical research," emphasises Felder.
+
+## Molecular basics of health
+
+The interdisciplinary Institute for Theoretical Studies (ETH-ITS) is also involved in the research network: "At the institute, we plan to attract to ETH innovative theoretical researchers in the areas of mathematics, physics or computer sciences. We naturally want to combine their knowledge with SwissMAP in order to thereby enable theoretical insights," explains Felder, the director of the institute.
+
+The University of Berne and ETH Zurich will co-lead the RNA and Disease programme. Research into ribonucleic acids (RNAs) has become increasingly important over the past ten years in biomedical research. ETH Zurich is now expanding research in this area in line with its strategic initiatives around “Technology and Knowledge for Health" or "Customised Medicine”.
+
+Frédéric Allain is thrilled: the French Professor at the Biology Department is the co-head of the RNA and Disease NCCR. "Switzerland now has the chance to become a highly competitive and visible international leader in RNA biology," he says.
+
+According to Allain, the competence centre will allow an advanced understanding of RNA functions in health and disease mechanisms: after all, a series of huge discoveries have been made in RNA research in recent years. These advances will make it possible to understand how RNAs regulate genome dynamics, cell biology and can cause genetic diseases.
+
+"By networking within top research, we aim to advance the basic knowledge of the role of RNAs for the physiology of cells and organisms," explains Allain. Six ETH professors are involved in this centre of competence. This multidisciplinary RNA programme combines knowledge from chemistry, biochemistry, biophysics, cell biology and physiology. Furthermore, ETH has created technology platforms for microscopy and genomics in recent years.
+
+New medical applications and therapeutic approaches are to be created in the long term. "The RNA programme will create strong links between ETH and medical faculties and the industry."
+

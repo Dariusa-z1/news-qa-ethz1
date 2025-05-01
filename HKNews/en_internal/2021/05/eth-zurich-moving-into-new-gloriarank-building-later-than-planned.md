@@ -1,0 +1,22 @@
+# eth-zurich-moving-into-new-gloriarank-building-later-than-planned
+
+## Operational start
+
+The new GLC building is particularly significant for ETH Zurich and for Zurich as a location. Working with partners, ETH is seeking to set a new milestone in medical technology research and application with the new infrastructure. “The professorships, their labs and a technology platform for clinical trials will further expand existing ETH activities in medical research and its leading role in innovative medical technology,” says Detlef Günther, Vice President for Research.
+
+## Joint effort
+
+With around 12,000 m² of laboratory, office and seminar space, the site will bring together research groups and allow for greater collaboration with industry, the University of Zurich, the University Hospital Zurich and other university hospitals.
+
+## Subscribe to Newsletter
+
+As client, ETH is monitoring construction progress and will define a point in time for the start of operations, to provide its lecturers and researchers with the greatest measure of planning security. In this it is also guided by semester dates and the lead time required to set up laboratories and incorporate new GLC classrooms into semester planning.
+
+## Staffnet
+
+Due to a delay in the construction work and a later handover of the building from the general contractor to ETH, the GLC will not be opening in 2021 as originally planned. “Based on the current stage of construction, ETH expects the building to open in 2022. We would look to begin operations in the spring semester,” says Ulrich Weidmann, Vice President for Infrastructure.
+
+The delayed opening of the building poses major challenges for the project and space planning of the departments concerned, along with their research groups. As well as the future users of the building, the HEST and ITET departments, this affects departments that would have moved into the spaces freed up by the move – BIOL, CHAB, USYS and MATL. On behalf of the Executive Board and under the direction of the Real Estate department, they have formed a task force to work together on finding interim solutions and spaces.
+
+Ulrich Weidmann expressed his thanks to all involved on behalf of the Executive Board, and emphasised: “Together with the Real Estate department and the departments concerned, the Executive Board is endeavouring to make the building available for teaching and research as quickly as possible.”
+

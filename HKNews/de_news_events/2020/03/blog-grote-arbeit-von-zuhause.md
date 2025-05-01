@@ -1,0 +1,46 @@
+# blog-grote-arbeit-von-zuhause
+
+## Den bestmöglichen Kompromiss finden
+
+Die Arbeit von zu Hause aus ist seit langem ein Wunsch vieler, aber keine weit verbreitete Praxis in Unternehmen. In unserer Umfrage im Jahr 2016 antwortete mehr als die Hälfte der 1200 teilnehmenden Schweizer Unternehmen, dass sie ihren Mitarbeitenden keine Möglichkeit zur Arbeit von zuhause bieten .1 Mit COVID-19 sehen wir uns mit neuen Extremen konfrontiert: Einige von uns müssen jetzt immer von zu Hause aus arbeiten, während für andere mehr denn je die Arbeit vor Ort erforderlich ist. Und vergessen wir nicht die Menschen, die gar keine Arbeit mehr haben.
+
+## Kein Ersatz fürs Feierabendbier
+
+Aus der langjährigen Forschung, welche Möglichkeiten aber auch Schwierigkeiten mit der Arbeit von zu Hause verbunden sind, wissen wir, dass es einen ganz entscheidenden Aspekt gibt: den Umgang mit Grenzen. 2 Wenn Arbeit und sonstiges Leben nicht mehr automatisch örtlich und zeitlich getrennt sind, müssen wir Grenzen für uns selbst neu definieren.
+
+## Welches Tool und wie?
+
+Grundsätzlich gibt es zwei Strategien. 1) Integration: Einige von uns vermischen gerne Arbeit und private Aktivitäten, z.B. mit Geschäftsgesprächen während des Abendessens und einigen schnellen Online-Einkäufen während der Arbeitszeit; 2) Segmentierung: Andere wollen Arbeit und Zuhause getrennt halten, auch wenn sie von zu Hause aus arbeiten, mit «Bürozeiten» und Geschäftskleidung.
+
+## Plötzlich virtuell führen
+
+Zurzeit sind wir alle in einem noch nie dagewesenen Ausmass mit den verschwommenen Grenzen zwischen unseren Lebensbereichen konfrontiert. Es ist wichtig, unsere eigenen Vorlieben, die der Arbeitskolleginnen und -kollegen und die unserer Familie und Freunde zu kennen und auch miteinander zu besprechen. Dann gilt es, den bestmöglichen Kompromiss zu leben. Nicht immer einfach, wenn der Raum zu Hause nur sehr begrenzt ist, um die verschiedenen Lebensbereiche zu trennen.
+
+## Grenzen überbrücken
+
+Das zweite grosse Thema betrifft die Zusammenarbeit zwischen Menschen, die räumlich getrennt sind. Zwar gibt es bereits viele Erfahrungen aus Firmen, die schon lange auf virtuelle Teams setzen, beispielsweise im «global engineering», wo Entwicklungsteams rund um den Erdball und über die verschiedenen Zeitzonen hinweg zusammenarbeiten. Doch einfach ist das verteilte Arbeiten auch dort nicht immer: Missverständnisse und Konflikte entstehen und eskalieren schneller, Vorgesetzte und Mitarbeitende können weniger gut Beziehungen miteinander aufbauen. Mit Technologien wie Skype und Zoom können wir eine virtuelle Nähe schaffen, die dem gemeinsamen Sitzen um einen Kaffeetisch ähnelt. Das gemeinsame Feierabendbier nach einem schwierigen Arbeitstag ersetzen können sie nicht.
+
+## Referenzen
+
+Glücklicherweise können viele von uns, die jetzt aus der Ferne mit ihren Kollegen und Kolleginnen arbeiten müssen, auf lange persönliche Beziehungen aufbauen, aber es wird trotzdem eine Herausforderung sein, neue Arbeitspraktiken zu etablieren. Die COVID-19-Pandemie zwingt uns, zu lernen, wie wir mit anderen in Kontakt bleiben und vielleicht sogar neue Beziehungen aufbauen – immer mit einem Abstand von mindestens zwei Metern.
+
+## Ihre Erfahrung ist gefragt
+
+Technologie kann in der Zusammenarbeit helfen, aber wir müssen auch ein gutes Gespür dafür haben, wie man sie einsetzt: Kurze sachliche Informationen und Absprachen funktionieren gut über E-Mail, Slack und ähnliches. Alle Kommunikationsmittel, die auch Bilder übertragen, wie Skype, Zoom oder Whatsapp schaffen persönliche Nähe, die aber vielleicht nicht immer und von allen erwünscht ist – ich gebe zu bedenken, dass die meisten keine Arbeitskleidung mehr tragen und in einem improvisierten Büro sitzen.
+
+## Zur Autorin
+
+Um komplexe und persönliche Dinge zu besprechen, bleibt das Telefon oft immer noch das beste Mittel. Zudem werden Regeln, wie wir mit der potenziellen dauernden Erreichbarkeit umgehen, im Homeoffice noch wichtiger. Bei Teilzeitarbeitenden zum Beispiel müssen die vereinbarten arbeitsfreien Tage selbstverständlich weiterhin gelten.
+
+Wenn wir uns gar nicht mehr auf natürliche Weise sehen, müssen wir Kontakte viel bewusster planen. Dies ist auch eine sehr wichtige Führungsaufgabe: Wie bleibe ich mit meinem Team, mit meinen Mitarbeitenden in Verbindung? Gerade die Krise verleitet manchen dazu, nur noch in operativen Kategorien zu denken. Die Gefahr ist, die ich schon 1985 bei der Befragung von Mitarbeitenden einer Versicherungsgesellschaft in den USA, die ein erstes Experiment mit Telearbeit gestartet hatte, feststellte: Aus den Augen aus dem Sinn. 3
+
+Reguläre Teamsitzungen und Gespräche mit Mitarbeitenden sollten wie gewohnt, einfach über andere Medien stattfinden. Selbst gemeinsame Kaffeepausen und Mittagessen sind als virtuelle Treffen möglich – um die Überlastung des Internets zu vermeiden, sicher nicht täglich, aber vielleicht doch einmal in der Woche. Schliesslich können informelle Nachfragen zwischendurch das kurze tägliche Gespräch in der Bürotür ersetzen. Den Kontakt in arbeitsbezogenen oder persönlich schwierigen Momenten zu suchen ist nun wichtiger denn je.
+
+Derzeit sind viele von uns gezwungen, in ihrer eigenen kleinen Welt zu bleiben. Wir müssen diese kleinen Welten unter sehr schwierigen Umständen neu ordnen, mit kleinen Kindern, die Aufmerksamkeit verlangen, mit Sorgen um die Gesundheit von Familie, Freunden und Kollegen. Gleichzeitig müssen wir mehr denn je mit der grösseren Welt verbunden bleiben, die auf unsere Solidarität angewiesen ist, um denen zu helfen, die Hilfe am meisten brauchen, medizinisch, aber auch sozial und wirtschaftlich.
+
+3 Siehe auch externe Seite Chancen und Gefahren der Telearbeit in einem SRF Beitrag von 1986.
+
+Die Professur für Arbeits-​& Organisationspsychologie von Prof. Gudela Grote hat am Mittwoch eine Untersuchung bei allen Beschäftigten der ETH Zürich gestartet. Mit einer kurzen wöchentlichen Befragung sollen die Erfahrungen mit der jetzigen Arbeitssituation erfasst werden. Daraus möchten die Forschenden einerseits Schlüsse ziehen, wie man aktuell die Zusammenarbeit hier an der ETH verbessern kann, und zudem lernen, wie eine Zukunft aussehen könnte, in der mit Blick auf den Klimawandel alle weniger für die Arbeit reisen sollten. Ebenfalls bietet die Forschungsgruppe an, vergleichbare Untersuchungen bei Firmen durchzuführen. Alle Fragen zur Untersuchung bitte an Prof. Gudela Grote:
+
+Gudela Grote Professorin für Arbeits-​ und Organisationspsychologie an der ETH Zürich
+

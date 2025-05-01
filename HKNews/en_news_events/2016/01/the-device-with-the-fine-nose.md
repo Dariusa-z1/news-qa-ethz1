@@ -1,0 +1,30 @@
+# the-device-with-the-fine-nose
+
+## New metabolic molecules detected
+
+When it comes to measuring the smallest traces of volatile chemical compounds in the air, the analysis devices in Pablo Sinues' laboratory are among the most sensitive in the world. They can find the proverbial needle in a haystack: the detection limit for airborne volatile compounds is around a concentration of one trillionth, yet in real time. For example, with an air analysis it is possible to detect hidden explosives in a freight container, just as quickly and sensitively as a sniffer dog can. But unlike dogs, Sinues' gas analysis devices are able to analyse a wide range of compounds at the same time – plus they never get tired. Sinues, a lecturer at the Laboratory of Organic Chemistry, has now further increased the sensitivity of the already highly sensitive measuring devices.
+
+His measuring device is a specially adapted mass spectrometer in which gas samples are electrically charged (ionised) in real time before being measured. This technology is called secondary electrospray ionisation (SESI). It involves interfacing a device that ionises airborne molecules to a commercially available mass spectrometer. For the past ten years, Sinues has been leading the development of this technology, to which he was first introduced as a doctoral student during his time at Yale University. Together with researchers from a spin-off company in Spain, who today market the technology and with whom he collaborates as part of an EU research project, he has now succeeded in optimising the geometry of the SESI ionisation chamber. The result is that the latest SESI generation is five times more sensitive than the previous one.
+
+## Plant fragrances and wine growing
+
+To achieve this, the researchers created a computer model of the ionisation chamber in which they could simulate the ionisation process in detail. "This model helped us find the ideal chamber design," says Sinues.
+
+In experiments with the improved SESI device, the scientists were able to detect extremely low concentrations of drugs and endogenous hormones, which they had seeded in air. Depending on the compounds, a handful to a few dozen molecules out of a trillion molecules in the surrounding air were enough to be detected. "This sensitivity is sufficient for our SESI devices to be used for breath analysis in medicine," says Sinues. "In the first tests with the new and improved SESI measuring device, we were able to measure certain metabolic molecules in exhaled breath which scientists had not been able to detect in breath before."
+
+## New flagship project from Hochschulmedizin Zürich
+
+In previous studies, Sinues and his colleagues demonstrated that the uptake and transformation of injected drugs in laboratory mice can be monitored by using this breath analysis technique. "Therefore our method could one day help clinic staff decide when to administer another dose of medication to patients," says the ETH lecturer." The use of the technology in clinics is being promoted in the coming years as part of a new flagship project under the aegis of Hochschulmedizin Zürich (see box below).
+
+The possible applications of the highly sensitive and fast gas analysers, or sniffer instruments, are not limited to medicine or explosives detection. Together with colleagues, Sinues is currently using this method in a biological research project. When infested by pests, plants produce fragrances that attract beneficial insects and warn neighbouring plants against the pest infestation. But it is difficult to detect such fragrances since their concentrations are often low and the fast response of plants calls for real time analyses. Sinues is convinced that the SESI mass spectrometer could play a key role in this line of research and even be used in wine industry, for example. "The composition of odour-active molecules in grapes change as the grapes ripen," he explains. His method could help determine the optimal harvest time for the grapes based on their bouquet of odours.
+
+## Reference
+
+Hochschulmedizin Zürich is a network consisting of ETH Zurich, the University of Zurich and the local university hospitals. Last November, the organisation announced the launch of two new large-scale and long-term research projects. In one of the new flagship projects, the possibilities of SESI mass spectrometry in breath analysis are being explored. This project is being led by Renato Zenobi, Professor of Analytical Chemistry at ETH Zurich, and Malcolm Kohler, Director of the Department of Pulmonology at University Hospital Zurich. The project focuses on using exhaled breath to diagnose diabetes or sleep apnoea. This would be quicker, cheaper and more comfortable for the patients than blood tests or spending the night in the sleep laboratory, for instance.
+
+As part of this flagship project, ETH lecturer Pablo Sinues aims at diagnosing bacterial pneumonia using breath analysis. Today the laboratory analyses often take two days to detect a specific type of bacteria. Sinues believes that this could be detected in a quarter of an hour with the SESI device. As different bacteria secrete different metabolites, they can be detected in exhaled breath. Physicians would know from the very beginning if a patient has bacterial pneumonia and could immediately commence treatment with an efficacious antibiotic.
+
+Even lung cancer could potentially be diagnosed using breath analysis. There are also other possible applications in medicine: physicians could check if a patient has taken their medication – or whether they have been smoking. For patients admitted to the hospital after taking designer drugs, doctors could quickly find out which substance they consumed.
+
+Barrios-Collado C, Vidal-de-Miguel G, Sinues PML: Numerical modeling and experimental validation of a universal secondary electrospray ionization source for mass spectrometric gas analysis in real-time. Sensors and Actuators B: Chemical 2016, 223: 217-225, doi: 10.1016/j.snb.2015.09.073
+

@@ -1,0 +1,28 @@
+# ueberraschend-ein-neues-teilchen-entdeckt
+
+## Suche nach neuen Materialeigenschaften
+
+Als der ETH-Professor Hermann Weyl im Herbst 1928 eine einjährige Gastprofessur im amerikanischen Princeton antrat, hatte der Quantenphysiker Paul Dirac kurz zuvor seine berühmte Gleichung für das Elektron veröffentlicht. Diese Formel beschrieb die Eigenschaften von sogenannten Fermionen, Quantenteilchen mit halbzahligem Spin, und läutete durch ihre Vorhersagen – unter anderem von Antimaterie – das Zeitalter der modernen Teilchenphysik ein. Weyl erkannte, dass Diracs Gleichung im Prinzip auch Lösungen für Teilchen zuliess, die keine Masse haben. 1929 veröffentlichte er einen Artikel, in dem er diese masselosen Teilchen mit halbzahligem Spin beschrieb. Später wurden sie als «Weyl-Fermionen» bezeichnet.
+
+Physiker an der ETH Zürich haben nun gemeinsam mit Forschern der Princeton University in den USA und der Chinese Academy of Sciences in Peking ein bislang unbekanntes Teilchen gefunden, das ihr illustrer Vorgänger bei seinen Berechnungen übersehen hatte und das auch danach fast neunzig Jahre lang unentdeckt geblieben war. Das Teilchen tauften sie auf den Namen «Typ-2-Weyl-Fermion».
+
+## Zuerst in der Theorie, dann nachgewiesen
+
+Auf die neue Art von Teilchen stiessen die Wissenschaftler als auf der Suche nach bisher unbekannten physikalischen Eigenschaften Kristalle des Metalls Wolframditellurid (WTe 2 ) untersuchten. «Eigentlich suchten wir in dem Material insbesondere so genannte ‹topologische› Eigenschaften, welche bestimmte Quantenzustände des Materials störungsresistenter machen», erklärt Alexey Soluyanov, Wissenschaftler in der Forschungsgruppe für Computational Physics an der ETH Zürich.
+
+Um die physikalischen Eigenschaften der Metallkristalle zu simulieren, liessen die Forscher während 200,000 Stunden auf den Supercomputern des Nationalen Hochleitungsrechenzentrums externe Seite CSCS in Lugano und der Chinese Academy of Sciences Berechnungen laufen. Nach mehreren Wochen intensiver Auswertung kamen die Wissenschaftler zu dem Schluss, dass sie etwas gänzlich Neues entdeckt hatten: Im Wolfram-Ditellurid-Kristall musste es eine bislang unbekannte Art von Fermionen geben, die Typ-2-Weyl-Fermionen.
+
+## Das Teilchen, das es nicht geben dürfte
+
+Auch das «normale» Weyl-Fermion existierte zunächst nur in der Theorie. Lange Zeit nahm man an, dass Neutrinos Weyl-Fermionen sein könnten, doch dann fanden Forscher heraus, dass sie eine – wenn auch kleine – Masse besitzen (für deren Nachweis der diesjährige Nobelpreis in Physik vergeben wurde). Allerdings vermutete man weiterhin, dass Weyl-Fermionen als Quasi-Teilchen (also kollektive Zustände vieler Elektronen, die mit den Atomkernen im Kristall wechselwirken) in sogenannten Halbmetallen vorkommen könnten.
+
+Im Juli diesen Jahres wurden dann in Princeton und Peking tatsächlich die masselosen Fermionen experimentell nachgewiesen, die Hermann Weyl einst theoretisch vorhergesagt hatte: In einem Tantal-Arsenid Kristall fanden die Forscher Quasi-Teilchen, die exakt die Eigenschaften der Weyl-Fermionen besassen. So führt ihre fehlende Masse unter anderem dazu, dass sie sich extrem schnell bewegen können und von Hindernissen im Kristall nicht gestört werden. Schon jetzt spekulieren Wissenschaftler, dass sich damit ganz neue Möglichkeiten für elektronische Bauteile eröffnen könnten.
+
+## Literaturhinweis
+
+Die nun theoretisch gefundenen Typ-2-Weyl-Fermionen unterscheiden sich von diesen herkömmlichen Weyl-Fermionen in einem wesentlichen Punkt: Es dürfte sie eigentlich gar nicht geben. Zumindest dann nicht, wenn man, wie auch seinerzeit Hermann Weyl, annimmt, dass Fermionen die Regeln von Albert Einsteins spezieller Relativitätstheorie und damit die sogenannte Lorentz-Symmetrie einhalten müssen. In «freier Wildbahn» müssen Teilchen tatsächlich diesen Regeln folgen. Im künstlichen Universum eines Kristalls dagegen kann die Lorentz-Symmetrie gebrochen werden, so dass die möglichen Energiezustände, welche die Elektronen einnehmen können, sich deutlich von denen unterscheiden, die zur Bildung normaler Weyl-Fermionen führen.
+
+Diese eigentümlichen Energiezustände wiederum könnten Materialien mit Typ-2-Weyl-Fermionen kuriose und möglicherweise nützliche Eigenschaften verleihen – etwa die Fähigkeit, unter Einfluss eines magnetischen Feldes elektrischen Strom nur in bestimmte Richtungen zu leiten. Ob diese Eigenschaften den Praxistest bestehen, muss sich noch zeigen. «Im Moment ist das neue Weyl-Fermion eine physikalische Kuriosität», räumt auch Soluyanov ein, «aber eine sehr spannende – und es gibt durchaus Potential für Anwendungen». In jedem Fall haben die Forscher nun nach Jahrzehnten endlich Hermann Weyls Forschung vollendet.
+
+Soluyanov AA, Gresch D, Wang Z, Wu QS, Troyer M, Dai X, Bernevig BA: Type II Weyl Semimetals. Nature, 25. November 2015, doi: externe Seite 10.1038/nature15768
+

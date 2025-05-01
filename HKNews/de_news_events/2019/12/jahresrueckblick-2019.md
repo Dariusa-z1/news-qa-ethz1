@@ -1,0 +1,52 @@
+# jahresrueckblick-2019
+
+## Januar
+
+Mit dem neuen Jahr beginnt an der ETH auch eine neue Ära: Der bisherige PSI-Direktor Joël Mesot übernimmt als neuer ETH-Präsident das Ruder in der Schulleitung – «mit viel Freude, Elan und Begeisterung für diese grossartige Institution». Als langjähriger ETH-Physikprofessor ist er mit den Gegebenheiten an der ETH Zürich bereits bestens vertraut. Im Bereich Spin-off-Gründungen beginnt das Jahr mit einer erfreulichen Meldung: 27 neue Unternehmen wurden im Vorjahr gegründet – so viele wie noch nie. Neue Pfade will die ETH Zürich beim Doktorat beschreiten: Am Symposium « Doctoral Supervision » diskutieren 200 ETH-Dozierende zusammen mit Gästen aus dem In- und Ausland, wie die 4000 Doktorierenden an der ETH Zürich besser betreut werden könnten.
+
+## Februar
+
+Eine besondere Auszeichnung dürfen Forschende der ETH Zürich und von Disney Research in Hollywood entgegennehmen: Für das Aufnahmesystem «Medusa» werden sie mit einem Sci-Tech-Oscar ausgezeichnet – für ETH-Informatikprofessor Markus Gross bereits die zweite derartige Ehrung. In Dübendorf eröffnen ETH-Forschende das DFAB House . Es ist die weltweit erste bewohnte Gebäudeeinheit, die nicht nur digital geplant, sondern auch weitgehend digital gebaut wurde. Eine ungünstige Prognose vermelden ETH-Gletscherforscher: Sie haben berechnet, dass die Eisvorräte der Hochgebirge Asiens bislang überschätzt wurden. Das ist besonders für die Trockengebiete Zentralasiens kritisch, hängt deren Landwirtschaft doch massgeblich vom Schmelzwasser der Gletscher ab.
+
+## März
+
+Ein mehrjähriges internationales Forschungsprojekt unter Leitung der ETH Zürich bestimmt die marine Senke für menschgemachtes CO 2 : Zwischen 1994 und 2007 nahmen die Weltmeere etwa 34 Milliarden Tonnen Kohlenstoff aus der Atmosphäre auf, was rund 31 Prozent der von Menschen verursachten CO 2 -Emissionen in diesem Zeitraum entspricht. Dann gelingt ETH-Wissenschaftlern ein wichtiger Schritt hin zu einer personalisierten Krebsimmuntherapie – mit einer Methode, anhand der sie Peptidmoleküle identifizieren können, die sich für eine patientenspezifische Impfung eignen. Die Proteinbruchstücke sollen als Impfstoffe das Immunsystem dazu anregen, einen Tumor zu bekämpfen.
+
+## April
+
+ETH-Forscher bauen menschlichen Zellen nach digitalem Vorbild zwei Rechenkerne ein, die auf dem als Genschere bekannten Crispr/Cas-System beruhen. Der biologische Zwei-Kern-Prozessor ist eine Vorstufe für einen leistungsfähigen Zellcomputer. Ebenfalls einen bedeutenden Schritt ermöglichte eine an der ETH entwickelte Methode, welche die Herstellung von grossen DNA-Molekülen mit vielen hundert Genen vereinfacht: Damit erzeugen ETH-Wissenschaftler das erste vollständig am Computer erzeugte Genom eines Bakteriums. Der Ansatz verspricht, die Biotechnologie voranzubringen. Vielversprechend sind auch die Signale, welche die InSight-Sonde vier Monate nach ihrer Landung auf dem Mars zur Erde sendete. Forschende des ETH-Marsbebendienstes deuten mindestens eines der Signale als echtes Marsbeben .
+
+## Mai
+
+Nach einer Kapitalaufnahme im Mai beläuft sich der Wert des ETH-Spin-off GetYourGuide auf geschätzte zwei Milliarden Franken. Damit erreicht die Reiseplattform als erster ETH-Spin-off den begehrten Status eines Unicorns. Gar nicht begehrt sind Mikroverunreinigungen , die unsere Gewässer belasten. Sie aus dem Abwasser zu entfernen, ist technisch jedoch sehr aufwändig. Dank einem neuen Verfahren von ETH-Forschenden lassen sich solche problematischen Substanzen nun effizient beseitigen.
+
+## Juni
+
+Im neusten QS-Ranking, einem weltweiten Vergleich von Hochschulen, ist die ETH Zürich auf den sechsten Platz vorgerückt. Sie gilt damit als zweitbeste Hochschule Europas. Hoch hinaus kommt auch eine Gruppe von ETH-Studierenden. Mit ihrer selbstgebauten Rakete namens Heidi erreichen sie am Spaceport America Cup in New Mexico den zweiten Platz in ihrer Kategorie. Weltweit einzigartig ist eine Anlage, welche ETH-Professor Aldo Steinfeld und seine Kollegen in Betrieb nehmen: Ein Parabolspiegel auf dem Dach eines ETH-Gebäudes liefert das Sonnenlicht, aus dem die Wissenschaftler zusammen mit CO 2 und Wasser aus der Luft erneuerbare Treibstoffe herstellen. Die Anlage liefert Methanol. Möglich wäre es auch, damit erneuerbares Kerosin oder Benzin zu produzieren.
+
+## Juli
+
+Ein weiteres Studierendenprojekt feiert Erfolge: Das Team Swissloop erreicht den zweiten Platz beim Hyperloop-Wettbewerb in Kalifornien, bei dem eine selbstentwickelte Transportkapsel in einer Vakuumröhre eine möglichst hohe Geschwindigkeit erreichen muss. Die Swissloop-Kapsel mit einem neuentwickelten Induktionsmotor schafft es auf 252 km/h. Materialforscher der ETH zeigen derweil auf, wie sie mittels 3D-Druck Herzklappen aus Silikon herstellen. Damit lassen sich Herzklappen drucken, die auf die Arterienform der Patienten massgeschneidert sind. Für hitzige Debatten sorgt eine wissenschaftliche Publikation von ETH-Ökologen. Sie haben berechnet, inwieweit das grossflächige Anpflanzen von Bäumen helfen könnte, die CO 2 -Konzentration in der Atmosphäre und damit die Erderwärmung zu reduzieren.
+
+## August
+
+ETH-Forschende entwickelten den kleinsten Stent der Welt . Er hat einen Durchmesser von nur einem Zwanzigstel Millimeter. Mit solchen Stents könnten Ärzte menschlichen Föten helfen, bei denen sie eine Verengung des Harnleiters feststellen. In einer Operation im Mutterleib können sie die Engstelle mit einem solchen Mikrostent weiten. Eine andere Entwicklung von ETH-Wissenschaftlern betrifft Schrauben und Platten, mit denen Orthopäden Knochenteile fixieren. Die Forschenden entwickelten ein neues Verfahren zur Herstellung von porösen Implantaten aus Magnesiumlegierungen . Die Poren ermöglichen es knochenbildenden Zellen, sich auf dem Implantat anzusiedeln und in dieses einzuwachsen. Magnesium wird vom Körper resorbiert, sodass die Implantate nicht nachträglich entfernt werden müssen.
+
+## September
+
+ETH-Forscher um Markus Niederberger entwickeln aus weichen Materialien eine flexible Batterie , die sich verdrehen, biegen und dehnen lässt. Für Anwendungen in biegsamen Elektronikgeräten ist eine solche Batterie genau die richtige. Weniger erfreulich ist die Tatsache, dass in Schwellen- und Entwicklungsländern Antibiotikaresistenzen bei Nutztieren weiter zugenommen haben. Auf einer Karte zeigt ein internationales Forschungsteam erstmals auf, wo der Handlungsbedarf am grössten ist: in China, Indien und Lateinamerika. Um weitere Resistenzdaten zu sammeln, haben die Forschenden eine offene Webplattform geschaffen. Grosse Ehre für die Materialforscherin Nicola Spaldin: Sie wird mit dem Marcel Benoist-Preis , dem «Schweizer Nobelpreis», ausgezeichnet.
+
+## Oktober
+
+Man hat es geahnt: Menschen tippen immer schneller auf Smartphones herum. Eine Studie mit über 37'000 Personen zeigt, dass der Unterschied zwischen der Tippgeschwindigkeit auf Smartphones und Computer-Tastaturen abnimmt. Während Autokorrektur hilft, schneller zu tippen, verlangsamen vorgeschlagene Wörter die Eingabe am Smartphone. Im Auftrag eines deutschen Reeders haben ETH-Forscherinnen und -Forscher Wege in eine emissionsfreie Schifffahrt in der Nord- und Ostsee ausgearbeitet. Das grösste Potenzial sehen die Forschenden in «Null-Emissionen»-Antrieben wie elektrischen oder mit Ammoniak betriebenen Motoren oder in Brennstoffzellen.
+
+## November
+
+ETH-Forschende entwickeln einen elektrooptomechanischen Schalter für Lichtstrahlen, der deutlich kleiner und schneller ist als heutige Modelle. Wichtig ist das für selbstfahrende Autos und optische Quantentechnologien. Eine an der ETH entwickelte Schutzhülle für Herzschrittmacher erweist sich im Tierversuch als erfolgreich: Rund um das Implantat bildet sich weniger des störenden Bindegewebes. Der Politologe Dominik Hangartner erhält den renommierten nationalen Latsis-Preis für seine Migrationsforschung, welche die Politik direkt anwenden kann.
+
+## Dezember
+
+Agrarökonomen untersuchen die sozioökonomischen Ursachen der weltweiten Bodenerosion . Verantwortlich dafür ist in vielen Fällen ein Ländereffekt, der von der Politik der jeweiligen Länder und landwirtschaftlichen Praxen geprägt wird. Eindeutig erkennen dies die Forscher daran, wenn die Erosionsrate an Ländergrenzen sprunghaft ansteigt. Und zum Jahresende hin haben Zürcher Forscher die David-Statue von Michelangelo als nur 1 Millimeter kleine Kupferfigur 3D-gedruckt. Die Drucktechnologie wurde an der ETH entwickelt und von der Firma Exaddon in die Praxis überführt.
+
+Die ETH-News-Redaktion wünscht Ihnen, liebe ETH-News-Leserinnen und -Leser, schöne, friedliche Festtage und einen guten Rutsch ins neue Jahr.
+

@@ -1,0 +1,46 @@
+# globe-new-approaches-to-waste-management
+
+## Steep learning curve
+
+It’s 10 a.m. at the Richterswil church community centre. The coffee samovar is already half empty, and the building is buzzing to the sound of African pop music. Students from 17 countries are making a few last tweaks to their prototypes, feverishly debating the final elements of their design amid the sketches and post-it notes covering their cubicle walls. Outside, some team members are rehearsing their presentations while others take part in an energiser activity to give them a mental and physical boost. "The students are working through the design-thinking process – a method of finding innovative solutions to complex problems," says Marriette Mertens, programme manager at ETH for Development (ETH4D) and head of the Rethinking Waste summer school.
+
+The 16-day intensive course is a collaboration between ETH Zurich and Kwame Nkrumah University of Science and Technology (KNUST) in Ghana. KNUST has sent 21 of its students to Switzerland, where they are staying in the Richterswil Youth Hostel with 20 ETH students for the duration of the course. The shared experience has forged a close bond between the two groups and opened their minds to new perspectives. Encouraging people from different backgrounds and disciplines to work together is a good way to address global challenges such as waste management, says Mertens, who was born in Ghana.
+
+## No constraints on the end product
+
+The summer school seeks to explore how organic, plastic and electronic waste can be processed efficiently and used as a resource. In Ghana, most waste is currently sent to landfill – some is incinerated, but almost none of it is sorted. Rubbish dumps containing high levels of organic matter attract disease-spreading rodents and insects, and toxic substances seep out of landfill sites into the water and soil. The failure to separate waste into different types makes recycling impossible. Things are very different in Switzerland, where waste sorting is almost a national pastime. Yet, here too, new solutions are needed to handle the fast-growing volume of plastic and electronic waste.
+
+"The students began by defining the problems they wanted to address," says Mertens. Johan Nöthiger, who is studying mechanical engineering at ETH, teamed up with three ETH and three KNUST students to explore the potential of organic waste in Accra, the capital of Ghana. They developed a concept for an app calledWastech, which households can use to arrange disposal of their organic waste. Once it is marked in the app as ready to collect, it is picked up within 24 hours, though a small fee is payable if the household’s organic waste turns out to be too contaminated for use as compost. "Wastech would pay for itself," says Nöthiger.
+
+## Intercultural exchange
+
+As their projects progressed, the students had plenty of opportunities to reality-check their ideas. They visited waste processing facilities and attended lectures. "There was also a Knowledge Fair, where the students got expert advice on how to fine-tune their projects," says Mertens. In a final step, the students conducted street interviews to gauge people’s reactions to their solutions.
+
+Getting to grips with Swiss waste management was an interesting experience for the African students. "It was a very steep learning curve for me," says Carine dit Sienyta Tiaho with a smile. A KNUST doctoral student, she was also part of the team that came up with the Wastech app. She adds, "I feel so happy seeing all these projects. I’m confident we can put lots of them into practice in the future." She pulls up a picture of her home country, Burkina Faso, on her phone. It shows an elderly woman and a wooden cart loaded with waste. "Because of the security problems in my country, the system is still relatively undeveloped compared to that of Ghana, where private companies collect waste in trucks," she says. Her detailed study of waste disposal systems helped her find a topic for her doctoral thesis. "I’ve also learned how important it is to communicate ideas not just in writing but also with drawings and prototypes," she adds.
+
+## Grand finale
+
+The students spent lots of time figuring out how to encourage changes in behaviour. "I now realise people have all sorts of reasons for sorting waste," says Nöthiger. "That’s something we should bear in mind." Robin Renggli’s group even composed a song called "Separate your Biowaste", which they hope will inspire people to participate in their "Green Gold Challenge", a scheme that would give users points in return for supplying pure organic waste for compost.
+
+Renggli, a Master’s degree student majoring in Environmental Systems and Policy at ETH, coached the group through the project. "I led discussions, cleared up misunderstandings and made sure the team didn’t get bogged down in the details," she says. For Sampson Renner, a doctoral student at KNUST, this year was his second opportunity to take on the role of coach. "The biggest challenge for me was finding the right way and the right moment to intervene, without upsetting the team’s rhythm," he says. His exhortation to "trust the process" became something of a mantra for participants by the end of the summer school. "In engineering, we’re used to having some idea right from the outset of what the solution will ultimately look like. But design thinking leaves the end product completely open, and that can sometimes test people’s patience," he says.
+
+## Lasting bond
+
+In addition to sharing knowledge and methods, the participants also benefited from a programme of social and sports activities. "Spending time together allows the students to recognise their cultural differences and figure out how these influence their teamwork and the solutions they come up with," says Mertens. "It taught me a lot about myself and my outlook on life," Renggli acknowledges. Wilfred Elegba, a senior researcher in Ghana and a lecturer and coach trainer at the summer school, has seen first-hand just how far the participants have come. "This was the first time some of the ETH students had worked so closely with members of an African university," he says. "It took a little time for some of them to warm up, but they ended up fully embracing the experience."
+
+Elegba, who came to ETH to do his doctorate, is the enthusiastic yet very modest initiator of the summer school. He never tired of pointing out the huge potential for collaboration between the two universities, both during his initial period at ETH and after the visit of former ETH Rector Sarah Springman to KNUST, and the eventual creation of the summer school owes much to his persistence.
+
+## Globe The origins of life
+
+As evening falls, the students head to the ETH Zurich Student Project House to give their final presentations. Waiting behind the curtain with their cardboard prototypes, some are already lost in concentration, while others crack the odd nervous joke.
+
+"We want the students to learn how to make the most of limited resources," says Mertens. With so few options at their disposal, the students are forced to rely on their creativity and acting skills: in a series of five-minute pitches, they present their meticulously prepared strategies in an entertaining style that gets the audience smiling. "I wish all my meetings were like this!" says ETH Rector Günther Dissertori, who is clearly enjoying the show.
+
+The six final projects highlight the diverse strategies that can be applied to waste management. One team has developed an intelligent organic waste bin that can detect and remove contaminants using infrared sensors and metal detectors; another presents an open-data platform that lets citizens report accumulations of PET plastic waste in their neighbourhood, thereby generating valuable data that can help improve the waste disposal system. One team has even come up with a way of creating a safe working environment for informal e-waste recyclers.
+
+But the most striking sign of the students’ enthusiasm for the project comes at the awards ceremony, where the teams gleefully exit the stage, hugging each other and whooping with joy. "Their team spirit and positive energy is truly inspiring. It’s clear that the summer school will leave a lasting impression on them," says Dissertori.
+
+The prize-winners include not only Wastech and Green Gold Challenge but also WeCycle, an awareness-raising programme that encourages kids and teenagers to set up their own compost system at school. Each award is emblazoned with Ananse Ntentan, a flower-like representation of a spider’s web taken from the traditional Ghanaian system of Adinkra symbols. "It stands for one of the key tenets of the summer school: finding creative solutions to complex challenges," says Renner.
+
+This particular symbol is designed to be broken into seven pieces and divided among the team members as a sign of solidarity. Tiaho is confident she’ll be seeing her friends again soon: "I’ve invited them over to my country." Other ETH students will also get the chance to travel to Ghana next year: plans are already in place to hold the next summer school at KNUST.
+

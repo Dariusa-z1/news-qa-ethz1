@@ -1,0 +1,38 @@
+# der-verlierer-ist-die-gesamte-schweiz
+
+## Nicht mehr mit den Besten messen
+
+Als der Bundesrat am 26. Mai vor die Medienschaffenden tritt, um den Abbruch der Verhandlungen über ein Rahmenabkommen mit der Europäischen Union zu verkünden, stellen sich Sofia Karakostas und Agatha Keller auf intensive Monate ein. Die beiden leiten das von der ETH Zürich und der Universität Zürich gemeinsam betriebene Büro für internationale Fördermöglichkeiten – kurz EU GrantsAccess. Karakostas und Keller unterstützen Forschende dabei, Drittmittel aus internationalen Töpfen einzuwerben. Und beim weltweit grössten und wichtigsten Fördertopf, dem «Horizon Europe»-Programm der Europäischen Union, droht der Schweiz nach dem Entscheid des Bundesrats das Aus. Auf dem Spiel stehen neben zig Millionen an Fördergeldern nichts weniger als der Einfluss auf die inhaltliche Ausrichtung der europäischen Forschung und die Attraktivität der Schweizer Hochschulen.
+
+Keller und Karakostas sind nicht leicht aus der Ruhe zu bringen. Seit über 20 Jahren leiten die beiden das EU GrantsAccess. Gemeinsam mit ihrem Team haben sie schon die schwierige Zeit nach der Annahme der Masseneinwanderungsinitiative 2014 gemeistert, als die EU erstmals die Teilnahme der Schweiz an den Ausschreibungen für «Horizon Europe» blockierte. Mitte Juni geben sie sich zunächst optimistisch und informieren Forschende, dass das Scheitern des Rahmenabkommens vorerst keinen Einfluss auf den Status der Schweiz bei «Horizon Europe» hat. Nur wenige Tage später kommt es dann doch anders: Die Europäische Kommission hält in einem Dokument explizit fest, dass die Schweiz bei den Eingaben von Forschungsprojekten als nicht assoziierter Drittstaat behandelt wird. Doch was bedeutet dieser Entscheid konkret für ETH-Forschende, die ETH und den Forschungsstandort Schweiz?
+
+## Grosse Nachteile für die Karriere
+
+«Besonders schlimm trifft es wohl junge Forschende an Schweizer Hochschulen, denn sie können sich nun nicht mehr für die begehrten europäischen Stipendien bewerben», betont Nicola Spaldin, Professorin für Materialtheorie an der ETH. Spaldin vertritt die Schweiz im Europäischen Forschungsrat (ERC), dem Ort, wo über die europäische Forschungspolitik beraten wird. Sie kennt das europäische Forschungssystem wie kaum eine andere und hat neben zahlreichen Preisen selbst bereits zwei ERC-Grants eingeworben. Sowohl die Marie-Curie Stipendien für Postdoktorierende als auch die ERC Starting Grants sind wichtige Meilensteine in der Karriere junger Forscherinnen und Forscher.
+
+Spaldin ist es wichtig zu betonen, dass es hier nicht nur um Geld geht. Auch wenn das Staatssekretariat für Bildung, Forschung und Innovation (SBFI) die Mittel aus Brüssel ersetzt, entstehen grosse Nachteile: «Es ist ein bisschen so, als würde man dem Schweizer Olympiateam sagen, dass es anstatt in Tokio nur an nationalen Wettkämpfen teilnehmen darf. Sie bekommen zwar das Preisgeld, können sich aber nicht mit den Besten messen», erklärt Spaldin. «Wer nicht die Chance hat, an den wichtigsten Stipendien und Projekten teilzunehmen, überlegt es sich zweimal, in die Schweiz zu kommen, oder verlässt sie sogar.»
+
+## Die ETH verliert an Einfluss
+
+Wie viele andere Postdoktoranden hat Stefano Maffei ein Ziel: Professor zu werden. Nach Forschungsaufenthalten in England und den USA ist der 34-jährige Geophysiker seit knapp drei Monaten zurück an der ETH Zürich. Maffei bewarb sich letztes Jahr für ein Marie-Curie-Stipendium, scheiterte aber aufgrund weniger Punkte. Die EU-Kommission empfahl ihm, seinen Antrag leicht anzupassen und erneut einzureichen. Die Chancen stünden diesmal sehr gut.
+
+Doch aktuell ist Maffei nicht mehr dazu berechtigt. Er müsste an eine Hochschule in der EU oder in einem assoziierten Drittstaat wechseln, um eine Bewerbung einreichen zu können. Für die nächsten zwei Jahre ist der italienisch-schweizerische Doppelbürger noch über ETH-Mittel finanziert, doch was danach passiert, ist unklar. Verlässt er die Schweiz, oder gar die Wissenschaft?
+
+## Die Vollassoziierung ist unerlässlich
+
+Seine grösste Sorge ist aber nicht das Geld, denn es gibt alternative, nationale Fördermittel, die erfolgreichen Forscherinnen und Forschern wie ihm zur Verfügung stehen. Was schwerer wiegt, ist, mittel- bis langfristig weniger kompetitiv zu sein. «Ein Marie-Curie-Stipendium wäre für mich ein wichtiges Sprungbrett auf dem Weg zu einer Professur», sagt Maffei. «Es wäre ein wichtiger Leistungsausweis, der bei Berufungsverfahren den entscheidenden Unterschied macht.»
+
+Nachteile entstehen aber keineswegs nur jungen Wissenschaftlerinnen und Wissenschaftlern. Auch Spitzenforscher wie ETH-Professor Domenico Giardini sind betroffen. Wie kaum ein anderer prägt der Erdbebenforscher die europäische Seismologie. Unter seiner Führung koordinierte die ETH millionenschwere Infrastrukturprojekte, um das Risiko von Erdbeben besser einschätzen zu können. «Wer grosse, europaweite Projekte koordiniert», erklärt der Schweiz-Italiener, «beeinflusst, wohin sich die Erdbebenforschung in Zukunft entwickelt.»
+
+## Keine News verpassen­
+
+Nur jene Hochschulen, die in solchen wegweisenden Projekten eine Führungsrolle einnehmen, haben Zugang zu den neuesten Daten und sind attraktiv für die besten Köpfe. «Verlieren wir diesen Status», so Giardini, «ist mittelfristig auch unsere Spitzenposition in den Rankings in Gefahr.» Und Giardini weiss, wovon er spricht: Es ist vor allem ihm und seinen Kollegen am Departement für Erdwissenschaften zu verdanken, dass die ETH im Bereich Geophysik die weltweite Nummer eins ist, noch vor Oxford, Harvard oder dem MIT.
+
+Jahrzehntelange Aufbauarbeit, die Schweizer Forschende im Rahmen von kollaborativen Projekten geleistet haben, ist nun gefährdet. Denn Hochschulen aus nicht assoziierten Drittstaaten dürfen keine ERC-Projekte mehr koordinieren. Besonders deutlich werden die Folgen bei dem Projekt «Digital Twin»: Um die Erdbebengefahr, aber auch die Klimaentwicklung bestmöglich zu simulieren, soll ein hochpräzises digitales Modell der Erde entstehen. Bis anhin war die ETH in diesem Bereich federführend, doch nach dem Entscheid der EU-Kommission hat sie ihre Führungsrolle bereits an eine spanische Hochschule abgeben müssen. «Wir können gerade zusehen, wie wir an Einfluss und Prestige verlieren», sagt Giardini. «Für die ETH Zürich ist die vollassoziierte Teilnahme der Schweiz an ‹Horizon Europe› unerlässlich», betont Detlef Günther, Vizepräsident für Forschung an der ETH Zürich. Das grösste Forschungsförderprogramm der Welt könne schlicht nicht durch eigene Förderinstrumente, nationale Programme oder bilaterale Abkommen ersetzt werden.
+
+Die Nichtassoziierung der Schweiz gefährdet Günther zufolge auf Dauer nicht nur die Rekrutierung hochkarätiger Forschender und Talente, sondern erschwert in wichtigen Forschungsgebieten die Zusammenarbeit mit europäischen Partnern. «Zusammengenommen könnten die Vernetzungs- und Wettbewerbsnachteile zu einem Reputationsverlust der Schweizer Hochschulen führen und ihre Bedeutung in der internationalen Forschung beeinträchtigen. Die Verliererin ist letztlich die gesamte Schweiz», gibt Günther zu bedenken.
+
+Ähnlich wie 2014, als sich die Schweiz und die EU nach einigen Monaten auf eine Teilassoziierung einigten, liegt der Ball nun bei der Politik. Bis eine politische Lösung vorliegt, werden Sofia Karakostas, Agatha Keller und ihr Team des EU GrantsAccess wohl weiterhin mit zahlreichen Anfragen konfrontiert sein. Doch eines ist sicher: Wenn die Politik die richtigen Weichen stellt, werden die Forschenden gerüstet sein, sich erneut mit den klügsten Köpfen Europas zu messen
+
+Dieser Beitrag stammt aus der aktuellen Ausgabe des ETH-​Magazins «life» .
+

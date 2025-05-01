@@ -1,0 +1,36 @@
+# progress-in-alternative-battery-technology
+
+## Abstract
+
+- Zinc batteries are considered a possible future alternative to the lithium-ion batteries now widely in use. Currently, however, their use often requires toxic salts.
+
+- Researchers have now optimised the electrolyte fluid for zinc batteries: they used benign salts, and in smaller quantities.
+
+- Batteries filled with this fluid can be charged faster.
+
+The world needs cheap and powerful batteries that can store sustainably produced electricity from wind or sunlight so that we can use it whenever we need it, even when it's dark outside or there's no wind blowing. Most common batteries that power our smartphones and electric cars are lithium-ion batteries. These are quite expensive because worldwide demand for lithium is soaring, and these batteries are also highly flammable.
+
+## Durability is a challenge
+
+Water-based Zinc batteries offer a promising alternative to these lithium-ion batteries. An international team of researchers led by ETH Zurich has now devised a strategy that brings key advances to the development of such zinc batteries, making them more powerful, safer and more environmentally friendly.
+
+## Salts make batteries toxic
+
+There is a number of advantages to Zinc batteries: Zinc is abundant, cheap and has mature recycling infrastructure. Furthermore, zinc batteries can store a lot of electricity. Most importantly, zinc batteries don’t necessarily require the use of highly flammable organic solvents as the electrolyte fluid, as they can also be made using water-based electrolytes instead.
+
+## Long-lasting performance and fast charging
+
+If only there weren’t challenges that engineers must face with when developing these batteries: when zinc batteries are charged at high voltage, the water in electrolyte fluid reacts on one of the electrodes to form hydrogen gas. When this happens, the electrolyte fluid dwindles and battery performance decreases. Furthermore, this reaction causes excess pressure to build up in the battery that can be dangerous. Another issue is formation of spikey deposits of Zinc during charging of the battery, known as dendrites, that can pierce through the battery and in the worst case even cause short circuit and render the battery unusable.
+
+## Reference
+
+In recent years, engineers have pursued the strategy of enriching the aqueous liquid electrolyte with salts in order to keep the water content as low as possible. But there are also disadvantages to this: It makes the electrolyte fluid viscous, which slows down the charging and discharging processes considerably. In addition, many of the salts used contain fluorine, making them toxic and harmful to the environment.
+
+Maria Lukatskaya, Professor of Electrochemical Energy Systems at ETH Zurich, has now joined forces with colleagues from several research institutions in the United States and Switzerland to systematically search for the ideal salt concentration for water-based zinc-ion batteries. Using experiments supported by computer simulations, the researchers were able to reveal that the ideal salt concentration is not, as was previously assumed, the highest one possible, but a relatively low one: five to ten water molecules per salt’s positive ion.
+
+What’s more, the researchers didn’t use any environmentally harmful salts for their improvements, opting instead for environmentally friendly salts of acetic acid, called acetates. “With an ideal concentration of acetates, we were able to minimise electrolyte depletion and prevent Zinc dendrites just as well as other scientists previously did with high concentrations of toxic salts,” says Dario Gomez Vazquez, a doctoral student in Lukatskaya’s group and lead author of the study. “Moreover, with our approach, the batteries can be charged and discharged much faster.”
+
+So far, the ETH researchers have tested their new battery strategy on a relatively small laboratory scale. The next step will be to scale up the approach and see if it can also be translated for large batteries. Ideally, these might one day be used as storage units in the power grid to compensate for fluctuations, say, or in the basements of single-family homes to allow solar power produced during the day to be used in the evening. There are still some challenges to overcome before zinc batteries will be ready for the market, as ETH Professor Lukatskaya explains: batteries consist of two electrodes – the anode and the cathode – and the electrolyte fluid between them. “We showed that by tuning electrolyte composition efficient charging of Zinc anodes can be enabled,” she says. “Going forward, however, performance cathode materials will have to be optimised as well to realize durable and efficient zinc batteries.”
+
+Gomez Vazquez D, Pollard TP, Mars J, Yoo JM, Steinrück HG, Bone SE, Safonova OV, Toney MF, Borodin O, Lukatskaya MR: Creating water-in-salt-like environment using coordinating anions in non-concentrated aqueous electrolytes for efficient Zn batteries. Energy & Environmental Science, 13 March 2023, doi: 10.1039/D3EE00205E
+

@@ -1,0 +1,22 @@
+# decision-time-predicts-the-risk-of-depression-relapse
+
+## Stay in bed or get up?
+
+Depressive disorder is a major public health problem with an unpredictable course. It often recurs, with episodes of depression interspersed with periods of remission. Many studies have shown that in order to reduce the risk of relapse, treatment should continue even after symptoms have disappeared. “It is estimated that 30% of patients relapse within six months of withdrawal. That’s a very high rate. And doctors currently have no reliable tools for estimating this risk”, says Isabel Berwian, psychologist and postdoc at the Translational Neuromodeling Unit of ETH Zurich and University of Zurich.
+
+In a study published in the journal JAMA Psychiatry , Berwian has now shown that observing the way people in remission make choices helps to predict the risk of depression relapse. To conduct this study, she and her colleagues recruited patients who had experienced recurrent or severe depression and were in remission, i.e. with no or almost no symptoms but still undergoing treatment. Each participant was given a task to measure his or her willingness to exert effort based on different levels of reward. Concretely, the participants had to choose between two options: a small effort for a small reward or a larger effort for a larger reward.
+
+Analysis of the results showed that that people affected by depression took longer to decide between the two options compared to healthy subjects. In patients who relapsed after tapering, decision time was even longer. The researchers were able to show that decision time correctly indicates a future relapse for 2 out of 3 people.
+
+A computational model showed that people in remission are more sensitive to effort. Berwian explains the finding this way: “Imagine that one evening you are already in bed. Some friends invite you to go into town to have ice cream. A healthy person would probably get up and go out. A person who is suffering from a depressive episode would be more likely to stay in bed. Even if it’s something the person enjoys doing, it just seems like too much trouble.”
+
+## Reference
+
+Although the study found that the time it takes people to decide is predictive of the risk of depressive relapse, it’s too early to apply the finding in practice. “At this stage we cannot claim to have found ‘the’ solution. The results need to be validated on a larger sample, because ours was relatively small”, says Berwian.
+
+The study was funded by the Swiss National Science Foundation and carried out at the Translational Neuromodeling Unit at ETH Zurich and the University of Zurich, at the University Psychiatric Clinic Zurich and the Charité University Hospital Berlin. It was led by Quentin Huys, now working at University College London.
+
+This text is based on a press release of the Swiss National Science Foundation.
+
+Berwian IM, Wenzel J, Collins AGE, Seifritz E, Stephan KE, Walter H, Huys QJM: Computational mechanisms of effort and reward decisions in depression and their relationship to relapse after antidepressant discontinuation, Jama Psychiatry 2020, doi: 10.1001/jamapsychiatry.2019.4971
+

@@ -1,0 +1,26 @@
+# portrait-olga-fink
+
+## Industrial assets reliably designed
+
+How do you predict something that you have never (or only very seldomly) observed? How do you make the results of artificial intelligence algorithms interpretable for experts? How do you support experts in making their decisions when algorithms have predicted something? Olga Fink explores all these questions in her research. The 37-year-old scientist is Professor of Intelligent Maintenance Systems at ETH Zurich. Her research group develops artificial intelligence algorithms that help to improve the reliability and operation of safety-critical assets such as power plants, industrial plants and transportation systems. "Our research can be compared to monitoring of human health. However, the difference is that our patients are vehicles or industrial plants," the scientist explains.
+
+Algorithms normally learn from examples. They need as many data samples as possible to be able to learn the patterns and transfer them to new data. However, in the case of rare events such as failures of safety-critical installations, very few examples are available. "The design of these industrial assets is so reliable that they fail only seldomly. In some cases it would take decades to collect sufficient data samples to learn from their faults," Fink adds when describing the challenge she faces on a daily basis. Developing algorithms that allow such events to be predicted is, therefore, the focus of her research.
+
+One of the requirements is that it should also be possible to use these algorithms for new systems for which very little data is available. In addition, they should not only be applicable to an individual vehicle or industrial asset: it should be relatively easy to transfer the algorithms and expand them to large and diverse fleets. Experts also need to be able to trace and interpret the results of the algorithms, so that they also have confidence in the recommendations made.
+
+## Doctoral studies at ETH
+
+To achieve this, Fink brings together the best of two worlds: the learning ability of AI algorithms and the interpretability of physical models. She combines AI algorithms with physical models that model the behaviour of industrial assets. "This makes it possible to predict not only when the asset will fail, but also to adjust its operation in a way that mitigates the impact of the malfunction or failure," the ETH professor emphasises.
+
+The scientist has been researching intelligent systems for fault prediction since 2009. At that time, she started her doctoral studies at ETH Zurich, having already gained practical experience in the railway industry. After completing her dissertation she continued her scientific research at Massachusetts Institute of Technology (MIT) as research affiliate, while also holding a job in the railway industry. "My goal is to develop innovative methods to solve relevant problems in industry. To do so obviously requires good understanding of that industry."
+
+She quickly realised, however, that she wanted to focus fully on research. She, therefore, soon switched to Zurich University of Applied Sciences (ZHAW), where in her role as group leader she was responsible for building up research in the area of intelligent maintenance systems. She then returned to ETH in 2018 as an SNSF (Swiss National Science Foundation) professor.
+
+## Broaden the horizon
+
+"Before I came to Germany with my family as a 13-year-old, I grew up in Western Siberia," she recounts. "Life there is tough, but I saw how the creativity of people made things possible that seem impossible." This has influenced her own attitude to life. "There is always a way to make the best out of a bad situation," she says.
+
+Creativity also plays a key role in her ground breaking research, for which she was admitted to the illustrious community of the WEF Young Scientists in 2019. At the moment, for example, the scientist is busy making her algorithms applicable to other areas such as flood forecasts or the early detection of natural hazards. "The deeper we go in research, the more potential I see and the broader my horizon becomes," Olga Fink says. And horizons are important to her not just in a figurative but also a physical sense.
+
+One of her favourite places is a bench near where she lives in Winterthur which looks out to Kyburg Castle. She often comes to this bench to develop new ideas. On a personal level, she also loves opening horizons and meeting new people from all over the world. In her research group, she has brought together people from many different nationalities and in her private life, she has been married to an Indian for more than 10 years. She sees her marriage as a symbol of her life in general: "We bring together the best of Asia and Europe and live our own special cultural mix."
+

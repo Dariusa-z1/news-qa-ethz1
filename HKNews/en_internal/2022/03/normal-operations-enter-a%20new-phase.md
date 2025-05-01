@@ -1,0 +1,36 @@
+# normal-operations-enter-a%20new-phase
+
+## Recommendation to wear masks until Easter
+
+The Federal Council’s decision to terminate the special situation with effect from the end of March means that ETH Zurich can resume normal operations. As of 1 April, the Executive Board is therefore withdrawing all pandemic regulations set out in the current master plan. The same rules now apply on the campus as outside the university.
+
+## Return to the workplace
+
+Over the past two years of the pandemic, ETH has tended to be slightly more cautious in interpreting the regulations and more restrained in easing restrictions. “Our measures have always prioritised the health and well-being of our members, and the need to fulfil our core mandates,” says Vice President Ulrich Weidmann, head of the Crisis Management team, looking back. “And I have to say, I am extremely happy that these regulations have been positively received for the most part and have also been consistently applied.” This has helped to assure a rapid return to classroom teaching and the regular scheduling of examinations. Weidmann is particularly grateful to students and their representative body VSETH for showing such solid community spirit in observing the pandemic restrictions over the past two years.
+
+## Stay at home if infected
+
+The withdrawal of the master plan means there is no longer a requirement to wear face masks indoors and in lectures. However, the Executive Board recommends that members should continue wearing a face mask in lecture halls, at least until the Easter break. “We hope to see a rapid fall in infection rates this spring as temperatures start to warm up,” Weidmann says. But even after that, it may still be sensible in certain situations to wear a face mask as a protective measure.
+
+## Crisis organisation in stand-by mode
+
+For most ETH staff, the resumption of normal operations as of 1 April means a gradual return to the workplace, in accordance with the “ Return to the Office ” plan. Answers to urgent questions about what the return to the office means in concrete terms were provided in the Town Hall meeting of 28 March .
+
+## Comment policy Internal news
+
+Julia Dannath, Vice President for Personnel Development and Leadership comments on this initial phase: “The priority during the return to the office will initially be on reconfiguring work and collaboration among teams. After the difficult experiences of the past two years, we cannot – and indeed do not want to – simply revert to how things were previously.” The goal is therefore to retain the positive aspects, such as greater flexibility, and to skilfully combine them with the irreplaceable advantages of being physically present at the workplace.
+
+## Subscribe to Newsletter
+
+“Anyone testing positive for Covid must stay at home, not return to the workplace for at least five days and spend two days without symptoms at home before returning,” Weidmann says, adding: “So we should basically behave in the same way as we would if we had a bad cold or case of flu.” To relieve the pressure on the healthcare system, ETH Zurich does not require a medical certificate for Covid infections, as long as any absence is no longer than five days. There is no longer any need to notify SSHE’s Occupational Medicine and Health Protection team and the coronavirus team (for employees), or for students to notify InfoLehre.
+
+## Staffnet
+
+Anyone experiencing Covid symptoms is still expected to get a test. All ETH members should get tested in pharmacies or other public testing centres. Testing facilities on campus will be discontinued. “However, the CoVMass testing stations can be set up again very quickly if necessary,” assures Weidmann.
+
+ETH Zurich is also running down its crisis organisation at the end of March. The Crisis Management team will continue to monitor the situation, but will not meet as frequently; there will also be no further coordination meetings of the central administrative units for the time being. “If there is another surge in infection rates in the autumn, for example, or if even new Covid variants emerge, we can swiftly reconvene this experienced team,” says Weidmann, giving particular thanks, on behalf of the Executive Board, to all those involved who made a special effort over the past two years.
+
+Articles published on Intern aktuell are open for comment. The comments are reviewed and published by the editorial team before publication, provided they comply with the comment policy .
+
+Please note that anonymous comments and contributions containing personal attacks of any kind, insults or targeted provocations will not be published.
+

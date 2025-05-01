@@ -1,0 +1,28 @@
+# quantum-aided-frequency-measurements
+
+## Quantum sensors in diamond
+
+Accurate frequency measurements are of crucial importance in many scientific and technological applications. To analyse biologically relevant molecules, for instance, one measures the frequencies at which the atomic nuclei react to electromagnetic waves. Using new measurement procedures based on quantum mechanics, it is now even possible to do such analyses with tiny probes that can be placed in the immediate vicinity of tissues and cells. A team of scientists at ETH Zurich led by Christian Degen, professor at the Laboratory for Solid State Physics, has now developed a method that will help to make future frequency measurements many times more accurate.
+
+In recent years, researchers all over the world have tried to exploit quantum mechanics for the purposes of highly sensitive precision measurements. Quantum sensing is one of the pillars of the recently announced Flagship Project of the European Commission that aims to enhance funding for research on quantum technologies. Degen and his collaborators realise a quantum sensor using a so-called nitrogen vacancy centre in diamond. Such centres are slight defects of the precious stone, which in principle consists exclusively of carbon atoms.
+
+## Accuracy through multiple measurements
+
+More precisely, a nitrogen atom replaces a carbon atom in the crystal lattice, and at the same time there is a carbon atom missing at a nearby lattice site. The energy states of such a vacancy represent a quantum system with two levels (also known as a qubit) and can be controlled using microwaves and laser beams. By putting the quantum system into a superposition of the two energy states one can measure very weak magnetic or electric fields – but only for as long as the superposition or «coherence» lasts and is not destroyed by the environment (decoherence).
+
+“To determine frequencies precisely, however, one should measure for as long as possible. It is here that our technology opens new avenues”, explains Jens Boss, a doctoral student in Degen’s laboratory.
+
+## Applications in nuclear magnetic resonance
+
+The idea is simple: the more oscillations of a periodic signal one can count, the smaller will be the relative measurement error. In order not to be bound by the coherence time of the nitrogen vacancy centre, the researchers at ETH invented a trick. Instead of performing a single measurement within the coherence time they made several hundred such measurements back-to-back. Each time the quantum state of the nitrogen vacancy centre was put in a superposition state (or “initialized”) from scratch. From those measurements the phase (i.e., the instantaneous state) of the periodic signal at a particular instant could be determined. Finally, to reconstruct the complete oscillation from those snapshots at a later time, Degen and his co-workers synchronized the measurements using a highly precise clock that allowed them to record the exact time at which each snapshot was taken.
+
+In this way, they researchers were able to measure a weak magnetic signal over several hours and to determine its frequencies to within less than a microhertz (a millionth of an oscillation per second, or roughly one oscillation every 300 hours). Even the researchers were a little surprised by the sensitivity of their sensor, as doctoral student Kristian Cujia states: “Even though the amplitude of the measured signal was only 170 nanotesla – that is less than a hundredth of the earth’s magnetic field – we found a signal-to-noise ratio of 10.000 to one. That’s huge for such small signals.”
+
+## Reference
+
+This combination of extremely precise and, at the same time, highly sensitive frequency measurements holds great promise for future quantum technologies. Degen sees possible applications, for instance, in nano-nuclear magnetic resonance. There, sensors like the one used at ETH are placed within a few nanometers of the material to be investigated. This enables a degree of spatial resolution that can normally be achieved only using very strong magnetic fields (such as can be found in devices used for medical applications). From exact measurements of the resonance frequencies the positions of the individual atoms inside a molecule of the material can then be inferred.
+
+With the new method the accuracy of such frequency measurements can be improved from around 10 Hertz, which can currently be achieved, to less than a millihertz.
+
+Boss JM, Cujia KS, Zopes J, Degen CL: Quantum sensing with arbitrary frequency resolution. Science, 25 May 2017, doi: 10.1126/science.aam7009
+

@@ -1,0 +1,52 @@
+# medical-engineering-block-course-wins-prize-for-innovative-teaching
+
+## Project plan due on the first day
+
+Developed and produced in-house, the exoskeleton gripper hand takes a firm hold. This is the moment when the ETH medical students experience first-hand how their system works – and that their theoretical knowledge can be put to practical use.
+
+This is the culmination of Medical Engineering 2, a five-day block course that students attend in the sixth semester of their Bachelor’s degree programme. Working in small teams, they put their heart and soul into developing and building a gripper, from scratch, for an elbow exoskeleton.
+
+The course was developed by ETH Professors Roger Gassert and Olivier Lambercy and two doctoral students, Giada Devittori and Lena Salzmann. It has now been recognised in particular for its intensive learning experience by winning the 2024 Kite Award. Every two years, the Lecturers’ Conference at ETH Zurich confers this award in recognition of a particularly innovative teaching project.
+
+To keep student participation and motivation high, the course sets a brisk pace, much like design sprints in the business world. The teams have to deliver a project plan by 6 p.m. on the first day of the course, followed by their first 3D visualisations the next. In their teams, students take on various roles: there are group leaders as well as specialists for design and prototype construction, programming, electronics and sensors, and user evaluation and presentation. On the morning of the last day of the course, they present their grippers.
+
+Over the five days, lecturers provide input on design and prototyping, innovation, electronics and sensor technology. Presentations by medical technology companies and discussions with people with disabilities are also part of the course. The takeaway from this for students is that they should consistently focus on the needs of the user. Mentors are always on hand to answer questions and help the students with the laser cutter, 3D printers, soldering and assembly of the mechanics.
+
+## Projects throughout the study programme
+
+The course ends with a competition in which the teams have to complete everyday tasks with their grippers. The format is inspired by the Cybathlon, ETH’s international competition for people with disabilities who use assistance systems.
+
+Along with the students’ final presentation, the competition serves as proof of academic achievement. It provides a direct comparison with the other teams, enabling self-assessment and thereby embedding the lessons learned more deeply.
+
+In addition to the intensive learning experience, the course organisers are keen to boost interest in the engineering sciences among future doctors and to promote collaboration with engineers. The Lecturers’ Conference praised the project precisely for this idea and for its high level of intensity.
+
+Two other projects that made it to the Kite Award finals take a different tack, aiming to keep student engagement consistently high over a longer period of time.
+
+At the Center for Project-Based Learning, part of the Department of Information Technology and Electrical Engineering (D-ITET), students can gain practical experience in projects.
+
+## Automated maths exercises
+
+Founded in 2020, the centre comprises a team of 32 researchers and administrative staff who support the students in addition to carrying out their own research work.
+
+The centre offers projects for all levels, starting with small practical projects lasting several weeks and followed by interdisciplinary flagship projects in which the students collaborate in teams. These projects are based on current scenarios from everyday life and topics from research and industry.
+
+The students develop algorithms, sensors or mechanics for four-legged robots that can guide visually impaired people, or they work on small, self-driving race cars.
+
+During the course of the projects, the students learn how to identify realistic tasks, decide on a solution and put it into practice. They have to communicate, manage teams and deal with tight budgets.
+
+The projects are offered for Bachelor’s and Master’s students alike, an aspect the Lecturers’ Conference viewed positively.
+
+## Innovation in Learning and Teaching Fair
+
+The third finalist project comes from the field of mathematics: lecturers Meike Akveld and Andreas Steiger have developed automated maths practice sequences. It takes practice to master the fundamentals, such as integration, but ETH has only a limited number of junior assistants who can supervise such exercises.
+
+With the automated practice sequences, students can solve as many problems as they want, whenever they want, and immediately receive personalised feedback.
+
+This is possible thanks to a computer algebra system called Stack, which can be used to assess and grade answers to mathematical problems and is available on the Moodle learning platform. Using this system, Akveld and Steiger have developed a comprehensive collection of exercises for their analysis lectures for future engineers.
+
+In its statement, the Lecturers’ Conference praised this new form of teaching, calling the way it promotes independent, active learning “groundbreaking”. The concept can also be scaled very well and transferred to other areas, which is crucial given the growth of the ETH student body.
+
+In future, the system will also be used for exams. It has already been successful in pilot tests: the creators report that the amount of correction work has decreased significantly, while the quality of the problems has remained high.
+
+The Kite Award ceremony took place as part of the second Innovation in Learning and Teaching Fair on 15 May. At the event, ETH lecturers share innovative teaching projects and ideas at a large exhibition in the main hall. The Kite Award acknowledges teaching projects that are simultaneously innovative, effective and sustainable, in the sense that they consolidate skills over the long term. These skills should also be potentially transferable to other subjects and areas. In 2024, the Kite Award focused on teaching formats that excel in motivating students and promoting their engagement in the classroom.
+

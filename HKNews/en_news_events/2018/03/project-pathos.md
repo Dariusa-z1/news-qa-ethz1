@@ -1,0 +1,24 @@
+# project-pathos
+
+## Making technology disappear
+
+They peep and sneak, startle and tremble: the animatronics-based artworks devised by the artist duo Pors & Rao are far removed from reality. They usually entice the observer with a spontaneous smile. It’s not just the calm, smooth gestures that are astonishing – there is also an interplay between work and observer: when it’s quiet, little creatures called pygmies carefully creep out from behind a screen and then hide again when they hear noises. In the artwork Exploding View, a collection of different figures scatters, while in Turning Panel, pictures hung at an angle align themselves horizontally when someone approaches.
+
+The moving artwork Pygmies at Wyss Zurich (Photograph: Fabian Stieger)
+
+This is all made possible by Pathos, a joint project at Wyss Zurich supported by the Gebert Rüf Stiftung with the artist duo Søren Pors and Aparna Rao (Pors & Rao) as well as Philipp Reist, robotic systems engineer at ETH Zurich. The ideas come from the minds of Pors & Rao, after which Pathos turns the art into animatronics: electronically and mechanically controlled, naturally moving figures. The works by Pors & Rao are all about the moment of surprise. “As humans, we read life-like gestures without thinking. Our critical consciousness needs a little longer to understand what is happening,” explains Rao. And, indeed, it does take a moment until amused astonishment transforms into active curiosity.
+
+Interplay with the observers is enabled by highly sensitive microphones and movement sensors. The robotic systems within the artworks record their stimuli and animate the artwork with specific gestures. Philipp Reist appreciates the challenges offered by the implementation of robotics in art: “The electromechanics need to be both fast and nearly inaudible; they need to function without problems and satisfy aesthetic ideas at the same time.” Clearly, the technology behind the works is demanding.
+
+## Here and there
+
+But the ultimate goal of Pathos is now to enable animatronics that doesn’t require complex engineering knowledge. It’s an idea clearly encapsulated in the project group’s motto: “Erase Technology, Erase Engineers”. For artist Aparna Rao, this expresses a desire for self-determination: “Having to constantly rely on engineers to animate our sculptures and installations runs counter to artistic spontaneity and intuition,” she explains.
+
+With animatronic creation, the aim is not to eliminate the engineering component altogether, but instead simply reduce its complexity for the user. “Technology shouldn’t be the reason for artists not implementing their vision,” says Philipp Reist. So the robotics engineer is working towards a modular tool kit that will allow ideas at the interface of art and robotics to be realised simply and without extensive technical knowledge. Software will record the desired gestures and suggest matching modules from a pre-prepared kit to ultimately turn the idea into a mechanical reality.
+
+Søren Pors and Aparna Rao are enjoying the opportunity of being “artists in residence” at Wyss Zurich. The offer allowed them to pursue the Pathos project and to profit from the exchange with ETH scientists. For half the year, however, Pors and Rao’s creative space is their studio in Bangalore, where they work with their small team to realise their projects.
+
+Stefanie Nacht and Benoît Dubath, completing their Master’s degree in mechanical engineering at ETH Zurich, were members of this team for a few months. They had the opportunity of taking part in the creative work on site, working on new ideas with the artist duo as part of an internship program by Swissnex India. Broad practical experience and exchange with Indian culture were just two of the components that made the internship such a great opportunity, according to Stefanie Nacht. The works developed during this time, Exploding View and Turning Panel , even form part of Pors & Rao’s presentation at the prestigious Art Basel Hong Kong 2018, which takes place at the end of March.
+
+Still in the research stage, Pathos’ animatronic work is yet to find a function beyond art exhibitions. “Specific usage areas need to be defined, but we already have a lot of interest from various sides,” explains Philipp Reist. “Our project can provide easy access to animatronics for artists and people without deep expertise in general.” The Pathos project therefore gives cause to hope for an even wider future adoption of this special technique in the artistic world. Pors & Rao’s team is at least sure to get astonished looks in Hong Kong.
+

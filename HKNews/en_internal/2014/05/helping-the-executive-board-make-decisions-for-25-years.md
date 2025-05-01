@@ -1,0 +1,32 @@
+# helping-the-executive-board-make-decisions-for-25-years
+
+## April 2014 anniversaries
+
+When Urs Hugentobler first entered professional life, he did not envisage getting involved in the management of ETH Zurich: he actually had quite a different career in mind. The young man had studied biology at the University of Zurich, obtained a doctorate from ETH Zurich’s Institute of Plant Sciences and just completed a postdoctoral residency at the Boyce Thompson Institute for Plant Research at America’s prestigious Cornell University. (Virtually) everything pointed towards a career in science. Yet things turned out differently. Changes of personnel at professorial level led to a shift in key areas of research. «Suddenly my specialist area was no longer a research topic here,» says Hugentobler, who is now 59 years old. «I had a decision to make: either go and do research somewhere else or head in a different direction.» He chose the second option.
+
+At that time, the Vice President Research and Corporate Relations was looking for a new member to join the team. Hugentobler applied for the position – even though this was all uncharted territory for him: «I knew next to nothing about management.» Nevertheless, he offered one crucial advantage. The staff unit worked closely with the professorships and departments and needed people who were familiar with the way research worked – so Hugentobler got the job.
+
+## Retirements
+
+Six years later, he became Head of the Information Management and Controlling Service group. When the new Finance and Controlling Executive Board division was set up in 2004, the group’s activities were incorporated into the Controlling department as Institutional Research. Together with his team and his colleagues from Controlling, Hugentobler offers support to a whole range of different offices at ETH Zurich to help them make decisions. Key elements of this include gathering and processing data, providing assistance with interpreting it and compiling information into a compact format for recipients. In academic controlling, for example, Hugentobler’s job involves providing answers to questions such as: is ETH Zurich providing students with an education that enables them to succeed professionally by applying the knowledge they have learned in their studies? How many students will flock to ETH Zurich in 2020? Or how are ETH Zurich’s research achievements being presented and what do rankings say about ETH Zurich? This task is not without its challenges: «There is a lot of data and information available and we have to supply the relevant facts from this wealth of resources.»
+
+Hugentobler says he has never regretted his move away from research. On the contrary, he finds that ETH Zurich offers a vibrant working environment and that liaising with people in so many different roles, especially in the departments, offers him an insight into the topics being explored by education and research. «There's always something fascinating to discover.» He also enjoys establishing external contacts through specialist networks and at conferences, as these opportunities to interact with colleagues keep him consistently up to date. «It’s important to find out what’s happening elsewhere – and even to question your own views sometimes – especially if you have been working in the same job for many years. Otherwise you become stuck in a rut.»
+
+## Subscribe to Newsletter
+
+35 years Prof. Dr. Ronald Peikert, Department of Computer Science
+
+30 years Kurt Barmettler, Institute of Biogeochemistry and Pollutant Dynamics
+
+## Staffnet
+
+25 years Dr. Urs Hugentobler, Controlling Edoardo Larocca, Building and Constructions
+
+20 years PD Dr. Andreas Kunz, Institute of Machine Tools and Manufacturing Danuta Maria Rogalski, IT Services
+
+15 years Esther Scharnhorst, Department of Environmental Systems Science Peter Plüss, Institute of Agricultural Sciences
+
+10 years Dr. Yuriy Myronovych Fedoryshyn, Institute of Electromagnetic Fields Esther Christen, Institute for Astronomy Dr. Erich Pimentel, Institute for Geotechnical Engineering Dr. Mario Schubert, Institute of Molecular Biology & Biophysics Nicole Graf, ETH Library Melitta Kielhauser, Facility Management Prof. Dr. Taras Gerya, Institute of Geophysics Andreas Florian Reinhardt, Educational Development and Technology Christa Klossner, Department of Biology
+
+Alfred Derungs, Facility Management Philippe Carrard, Institute for the History and Theory of Architecture (GTA) Prof. Dr. Cesare Gessler, Institute of Integrative Biology Frowin Pirovino, Geological Institute Frideriki Agorastos-Danili, Facility Management Katrin Sträuli, Department of Humanities, Social and Political Sciences Marianne Bötschi, ETH Library Polixeni Danilis-Vrontzou, Facility Management Urs Ammann, Department of Physics
+

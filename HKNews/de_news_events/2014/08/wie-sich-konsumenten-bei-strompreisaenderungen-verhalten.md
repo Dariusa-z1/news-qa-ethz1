@@ -1,0 +1,32 @@
+# wie-sich-konsumenten-bei-strompreisaenderungen-verhalten
+
+## Die Preiselastizität neu schätzen
+
+Im Umbau des Schweizer Energiesystems ist die Energieeffizienz ein wichtiger Standpfeiler – genauso wichtig wie erneuerbare Energien. Um einen effizienteren Umgang mit Energie zu erreichen, werden in der externe Seite Energiestrategie 2050 verschiedene Massnahmen vorgeschlagen – zum Beispiel ein Handel mit weissen Zertifikaten in Kombination mit einem Reduktionsziel für Stromversorger in der ersten Etappe oder die Einführung eines Lenkungssystems statt eines Fördersystems in einer zweiten Etappe. Um solche Politikinstrumente prüfen und genauer ausgestalten zu können, brauchen wir Informationen zu Umverteilungseffekten und den Auswirkung auf die Wohlfahrt der Schweiz. Diese Informationen kann man anhand gesamtwirtschaftlicher ökonomischer Modelle abschätzen. Solche Modelle basieren jedoch auf einigen Annahmen, unter anderem darüber, wie sich Konsumenten verhalten, wenn sich Energiepreise ändern. Um derartige Annahmen zu treffen, braucht man mikroökonomische Modelle.
+
+## Energiedienstleistungen sind zentral
+
+Strom ist neben Erdöl einer der Hauptenergieträger in der Schweiz, vor allem für Haushalte, welche rund einen Drittel des gesamten Energieverbrauchs verantworten. Deshalb ist es wichtig zu wissen, wie Haushalte auf eine Änderung des Strompreises reagieren. Die sogenannte Preiselastizität ist hier die massgebende Grösse: Sie definiert, wie viel weniger Strom konsumiert wird bei einer Preiserhöhung. Ist dieses Verhältnis kleiner als 1:1 (eine Erhöhung des Strompreises um zehn Prozent führt zu einer Reduktion des Stromverbrauchs um weniger als zehn Prozent) spricht man von einer unelastischen Nachfrage. Die letzten Abschätzungen – basierend auf Schweizer Haushaltsdaten – sind über 15 Jahre alt. Ein Grund für uns am Centre for Energy Policy and Economics ( CEPE ) die Zahlen zur Preiselastizität zu aktualisieren. Dazu haben wir die Haushaltsbefragungen des Verbands der Schweizerischen Elektrizitätsunternehmen (VSE) aus den Jahren 2005 und 2011 mithilfe von ökonomisch-statistischen Modellen analysiert. Die VSE-Befragungen umfassen anonymisierte Daten von rund 2000 Haushalten und beinhalten neben dem Stromverbrauch auch detaillierte Informationen zu Geräteausstattung, den Gebrauchsgewohnheiten und den sozio-ökonomischen Gegebenheiten.
+
+## Und die Preiselastizität...?
+
+Die ökonomische Theorie der Haushaltsproduktion geht davon aus, dass der Haushalt als Stromkonsument gar nicht direkt interessiert ist an Strom, sondern an Energiedienstleistungen wie sauberer Kleidung, Unterhaltung vom Fernseher oder warmem Essen. Dazu benutzt der Haushalt Strom und verschiedene Haushaltsgeräte. Die Nachfrage nach Strom ist darum eine sogenannte abgeleitete Nachfrage. Aus diesem Grund ist es wichtig, bei der Abschätzung der Konsumentenreaktion auf eine Strompreisänderung auch die Unterschiede in den Geräteausstattungen und den bezogenen Energiedienstleistungen mit einzubeziehen. Dies sind zwei der methodologischen Herausforderungen, denen wir uns gestellt haben, denn in der wissenschaftlichen Literatur gibt es wenige Bemühungen in diese Richtung.
+
+## Weiterführende Informationen
+
+Betrachtet man die Energieeffizienztrends in Europa, so stellt man fest, dass ein Grossteil der Effizienzgewinne – erreicht durch bessere Geräte – durch eine wachsende Geräteausstattung wieder aufgefressen wird [1]. Deswegen haben wir mit Hilfe der Schweizerischen Agentur für Energieeffizienz ( externe Seite SAFE ) für jeden Haushalt einen Indikator gebildet, der alle grösseren Haushaltsgeräte vom Kühlschrank über den Wäschetrockner bis zum Elektro-Boiler aufsummiert und dabei auch die Grösse und das Alter dieser Geräte mitberücksichtigt.
+
+## Zur Autorin
+
+Mit der Hilfe eines ökonometrischen Modells [2], das den Strompreis, Geräteindikator, bezogene Energiedienstleistungen und weitere Faktoren berücksichtigt, schätzen wir, dass eine Erhöhung des durchschnittlichen Strompreises um zehn Prozent den Stromverbrauch um etwa fünf bis sieben Prozent reduziert. Dies zeigt zwar dass die Stromnachfrage der Schweizer Haushalte unelastisch ist, aber unsere neu geschätzte Nachfrage ist tendenziell elastischer im Vergleich zu den älteren Literaturwerten für die Schweiz. Dabei haben wir ausserdem festgestellt, dass neben dem Strompreis die Geräteausstattung und die verschiedenen Haushaltstypen (Einfamilienhaus, Wohnung, Mieter, Besitzer, städtische oder ländliche Umgebung) einen grossen Einfluss auf den Stromkonsum haben. Dies zeigt, dass Haushalte eine grosse Heterogenität aufweisen und es daher wichtig ist, in ökonomischen Modellen zur Beurteilung neuer Politikinstrumente nicht nur aktuelle, sondern möglichst auch nach Haushaltstyp aufgeschlüsselte Daten zu verwenden.
+
+## Keinen Beitrag verpassen
+
+[1] Quelle: Lapillonnne, B. and Pollier, K., Energy Efficiency Trends for households in the EU: externe Seite Link
+
+[2] Ökonometrie kombiniert ökonomische Theorie mit mathematischen und statistischen Methoden, um wirtschaftliche Modelle zu überprüfen und ökonomische Phänomene quantitativ zu analysieren.
+
+Weitere Ergebnisse im Working Paper
+
+Das Working Paper ist Teil des Projekts „An Evaluation of the Impact of Energy Efficiency Policies on Residential Electricity Demand in Switzerland“, das durch das Forschungsprogramm Energie - Wirtschaft - Gesellschaft (EWG) des Bundesamtes für Energie (BFE) finanziert wird.
+

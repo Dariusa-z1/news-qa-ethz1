@@ -1,0 +1,30 @@
+# predicting-complex-dynamics-from-data
+
+## The limits of static machine learning
+
+Modelling dynamically evolving physical systems is at the core of science and technology. Engineers need to know how the wings of a new airplane model will vibrate under particular flight conditions, and climate scientists are trying to predict how global temperatures and weather patterns will develop in the future. Those tasks are difficult because the underlying systems, by their very nature, do not behave linearly. This means that, for instance, applying twice as much force to an airplane wing will not necessarily cause it to bend twice as far (it could bend either more or less than that).
+
+Scientists manage to model such nonlinear dynamical systems either by making linear approximations or by assuming specific nonlinear equations and then matching the model to observed data. However, both approaches lead to models that are often only valid over a limited range of the system’s motions. A group of scientists led by George Haller, Professor of Nonlinear Dynamics at ETH Zurich, together with researchers at the University of Bremen, have now found a new way to get computers to extract, directly from experimental data, nonlinear dynamical models that can make substantially more accurate predictions than previous algorithms.
+
+## Getting the big picture
+
+In recent years, researchers have made tremendous progress in teaching computers how to recognize patterns, faces and even human speech. “Those are incredible achievements”, says Haller, “but such machine learning approaches are designed for fundamentally static problems. By contrast, getting computers to learn the behaviour of dynamical systems, even of apparently simple ones like water sloshing in a tank, is significantly harder.” A complete physical model for sloshing water would have to include not just the bulk flow of fluid, but also other phenomena, such as waves breaking on the surface. Conventional simulations that include all those features are extremely time consuming even on modern supercomputers.
+
+“Our new approach relies on the realization that one doesn’t need to reproduce all the details of the dynamics, but only its key structures”, says Mattia Cenedese, a postdoc in Haller’s group and first author of the study just published in the scientific journal Nature Communications .
+
+## Shaking wings and tipping points
+
+Taking the analogy of facial recognition, rather than considering the details of a human face down to tiny wrinkles or even individual pores in the skin, the computer algorithm developed by the ETH researchers looks the big picture – say, the general shape of the eyes and nose. Applied to dynamical systems, this corresponds to finding combinations, for instance, of the position and velocity of a part of the system rather than particular trajectories under specific circumstances. As a result, the time needed for the calculations can be reduced from several hours or even days to just a few minutes.
+
+To demonstrate the strength of their algorithm, Haller and his co-workers used the results of a water-tank experiment performed by their German colleagues. In that experiment, a transparent tank filled with water was initially shaken back and forth until the water started sloshing periodically. The shaking of the tank was suddenly stopped, and the water was filmed as the sloshing slowly subsided. From that footage the motion of the centre of mass of the water was calculated and fed into a computer. The algorithm then produced a simple but still nonlinear mathematical model that captured the observed sloshing motion with high accuracy.
+
+## Reference
+
+“We expect a good model to be able to predict the dynamics not only under the conditions that prevailed during the training experiment, but also under completely different conditions”, explains Haller. And that is precisely what the model was able to do. In a second round of experiments, the rhythmical shaking of the tank continued while the water was filmed, leading to substantially different sloshing dynamics. The mathematical model accurately predicted the resulting motion of the water for different frequencies of the shaking although it had never seen such an experiment before.
+
+Haller and his group have also applied their approach to other systems, such as the simulated vibrations of an airplane wing and the flow of a viscous fluid between two moving surfaces. Their computer code is openly available. “We want the research community to be able to apply our approach to their own problems and thus contribute to a better understanding of dynamical systems arising in practice”, says Haller and adds: “Many outstanding physical problems of interest to humanity involve nonlinear dynamics, and black-box methods using pure machine learning just don’t perform well on those”.
+
+To tackle such problems, he stresses, mathematical insight that can only be created by humans – such as that used in the new algorithm - is needed. He hopes that in the future this approach will allow researchers to solve dynamical problems that involve so-called tipping points, which cause a dynamical system to suddenly and drastically change its behaviour. Such problems include the onset of turbulence, which is relevant in aircraft design and many other applications, as well as points of no return in the Earth’s climate.
+
+Cenedese M, Axås J, Bäuerlein, Avila K, Haller G: Data-driven modeling and prediction of non-linearizable dynamics via spectral submanifolds, Nature Communication, 15. Februar 2022, doi: 10.1038/s41467-022-28518-y
+

@@ -1,0 +1,48 @@
+# ausstellung-eth-with-ukraine
+
+## In Kürze
+
+- Bis 5. Februar 2024 befindet sich die Ausstellung «ETH with Ukraine—Exchanging Knowledge for a Sustainable and Resilient Future» im ETH-Hauptgebäude.
+
+- Die Ausstellung zeigt sowohl Forschungsprojekte, mit denen sich der Kriegsverlauf und die Infrastrukturzerstörung nachverfolgen lassen, als auch konzeptionelle und praktische Wiederaufbauprojekte.
+
+- Mit der Ausstellung wollen ETH-Foschende und das «Swiss Network with Ukraine» zum Erfahrungstausch beitragen, wie die Schweiz die Ukraine beim Wiederaufbau unterstützen kann.
+
+Nicht nur das menschliche Leid, das der Krieg verursacht, ist unermesslich, auch die Zerstörung von Bauten, Anlagen und Infrastruktur ist immens. Vorsichtige Schätzungen gehen davon aus, dass die Wiederherstellung der zerstörten Wohnhäuser, öffentlichen Gebäude, Industriebauten, Energienetze, Strassen, Infrastrukturen sowie Wald- und Agrarflächen um die 400 Milliarden Dollar kosten dürfte. «Das Ausmass der Infrastrukturzerstörung in der Ukraine kann man sich in der Schweiz fast nicht vorstellen», sagt Jonathan Banz. Er ist wissenschaftlicher Mitarbeiter bei Andreas Wieser, Professor für Geosensorik und Ingenieurgeodäsie, «darum wollten wir die Zerstörung ebenso sichtbar machen wie laufende Projekte zur Erhaltung und zum Wiederaufbau der Infrastruktur.»
+
+## Fernerkundung liefert Fakten zu Zerstörung und Aufbau
+
+Mit Basil Roth betreut Jonathan Banz das ETH-Forschungsprojekt « Mapping Ukraine » (deutsch: «Kartierung der Ukraine»). Dieses zielt darauf ab, die Folgen des Krieges auf die Infrastruktur und die Umwelt in der Ukraine – mittels Geoinformation, Fotos, Videos – zu dokumentieren und eine Grundlage für den Wiederaufbau zu schaffen. Das Ziel ist eine intuitiv bedienbare, digitale Plattform, die unabhängige Informationen über den Zustand der ukrainischen Infrastruktur bereitstellt.
+
+## Ein Schaufenster für Forschung und lokale Projekte
+
+Basil Roth und Jonathan Banz sind nicht die einzigen ETH-Forschenden, die sich mit den Kriegsfolgen auf die ukrainische Infrastruktur befassen. In der Gruppe von Konrad Schindler, Professor für Photogrammetrie und Fernerkundung, etwa setzt Olivier Dietrich künstliche Intelligenz ein, um Satellitenbilder auszuwerten. Aus einem eher unscharfen Satellitenbild, das die Stadt Mariupol rund um das wochenlang belagerte Asow Stahlwerk zeigt, geht so eine Karte hervor, die die Trümmerfelder im Stadtbild von Mariupol deutlich zeigt. Olivier Dietrichs Forschung schliesst direkt an «Mapping Ukraine» an und ist zugleich Teil der Initiative « externe Seite Engineering for Humanitarian Action » mit dem Internationalen Komitee vom Roten Kreuz.
+
+## Kontaminierte Böden sanieren, Geburtenklinik schützen
+
+Studierende, Forschende und Professor:innen der ETH Zürich setzen ihr Fachwissen für den Wiederaufbau der Ukraine ein. Viele von ihnen engagieren sich im Netzwerk « externe Seite Swiss Network with Ukraine », das unter anderem der emeritierte ETH-Architekturprofessor und Städteplaner Kees Christiaanse gegründet hat. Um die laufenden Projekte vorzustellen, haben nun ETH-Forschende der ETH-Departemente Architektur sowie Bau, Umwelt und Geomatik zusammen mit dem Netzwerk und dem « externe Seite Ukrainischen Verein der Studierenden und Akademiker/-innen in Zürich » die Ausstellung «ETH with Ukraine—Exchanging Knowledge for a Sustainable and Resilient Future» organisiert.
+
+## Von der Notunterkunft zu leicht baubaren Wohnhäusern
+
+Gut zwei Jahre nach Kriegsbeginn wurde die Ausstellung am Mittwochabend in der Haupthalle des ETH-Hauptgebäude eröffnet. Sie thematisiert verschiedene Aspekte des Wiederaufbaus wie Wohnen, Renovierung und Baumaterialien, Landwirtschaft und Energie, Stadtentwicklung und Raumplanung sowie Bildung und Kultur. Die Ausstellung beschränkt sich nicht auf Forschungsprojekte, sondern stellt ebenso Freiwilligen-Initiativen vor, die sich bereits heute dem Schutz und Wiederaufbau von Bauten in der Ukraine widmen.
+
+## Praktische Weiterverwendung von Baumaterial
+
+Die Ausstellung will zum Erfahrungstausch anregen, wie die konzeptionellen und technologischen Überlegungen aus der Schweiz zusammen mit konkreten Massnahmen vor Ort die Erhaltung und Reparatur von Siedlungen und Anlagen in der Ukraine unterstützen können. Darin waren sich an der Eröffnung die ETH-Professoren Matthias Kohler, Brian Adey, Kees Christiaanse und Andreas Wieser einig. Dementsprechend war auch das fünfköpfige Ausstellungs-Kuratorium gemischt: Neben Basil Roth und Jonathan Banz wirkten die Architektin Gyler Mydyti und Adam Przywara vom «Swiss Network with Ukraine» mit sowie die Ukrainerin Anastasiya Ponomaryova, die zuletzt in der Gruppe für Geschichte und Theorie der Architektur von Philip Ursprung angestellt war.
+
+## Ausstellung im ETH-Hauptgebäude
+
+Ein Bereich, in dem lokale und internationale Initiativen gefragt sind, ist die Landwirtschaft. Schliesslich sind geschätzt über 4700 Quadratkilometer Ackerland kontaminiert. An der Ausstellung zeigen die Umweltwissenschaftlerin Vira Ohorodnyk, die Ökologin Olena Melnyk und die Agrarökonomin Maryna Nehrey, mit welchen ökologischen und politischen Massnahmen sich Agrarflächen wiederherstellen und Landwirtschaftsgebiete wiederbeleben lassen. Alle drei sind aus der Ukraine geflohen und arbeiten derzeit an der ETH.
+
+Olena Melnyk untersuchte an 89 Bombenkratern, wie sehr die Bombardierungen die Ackerböden mit Schwermetallen und Umweltgiften kontaminiert haben. Ihre Erkenntnisse werden nun aufgegriffen: An der Berner Fachhochschule entwickelt eine Gruppe von Ukrainer:innen im Rahmen des externe Seite CAS Wiederaufbau Ukraine Strategien, wie sich die Böden sanieren und wieder so kultivieren lassen, dass die Gesundheit der Menschen gesichert ist, erklärt das Projektmitglied Yevgen Getman gegenüber «ETH-News». Eine andere ukrainische CAS-Teilnehmerin, Kateryna Vynogradova, schildert, wie die Geburtenklinik in Dnipro baulich so verstärkt wird, dass der Operationssaal und die Notaufnahme bei Bombardierungen geschützt sind.
+
+Die Ökonomin Iryna Doronina, die als Senior Researcher am ETH-Institut für Wissenschaft, Technologie und Politik ISPT tätig ist, untersucht die Auswirkungen des Krieges auf das Energiesystem der Ukraine. Ihre Forschung hat ergeben, dass im ersten Jahr des Krieges mehr als 255 Raketen die Energieinfrastruktur trafen und rund 70 Prozent der Energie-Anlagen und 50 Prozent des Übertragungsnetzes entweder vollständig oder zeitweise beschädigt wurden. Infolgedessen kam es in ganzen Regionen, einschliesslich der Hauptstadt, zu Stromausfällen, die bis zu acht Stunden pro Tag dauerten. Gemäss Doroninas Forschung fand der russische Angriff genau zu dem Zeitpunkt statt, als das ukrainische Stromnetz unabhängig von den benachbarten Netzen funktionierte und die Ukraine in der Lage war, das Land eigenständig mit Strom zu versorgen. Sie untersucht auch das Potenzial erneuerbarer grüner Energien für eine künftige kohlenstoffarme, dezentralisierte und konfliktresistente Strominfrastruktur in der Ukraine.
+
+Mehrere Initiativen fokussieren auf das Wohnen, da der Krieg bereits weit über 150’000 Wohnhäuser zerstörte und rund 12 Mio. Ukrainer:innen ihre Häuser verlassen mussten. Eine Initiative für leicht erstellbare Holzhäuser stammt vom Schweizer Fenster- und Fassaden-Bauer Martin Huber. Er führte schon vor dem Krieg ein Unternehmen in der Ukraine. Unter seiner Leitung wurde in der Schweiz ein dreiteiliges Kleinhaus aus Holz entwickelt, das Bad/Küche, Stube und Schlafzimmer für vier Personen umfasst. In der Ukraine ist es bislang 89-mal gebaut worden. Dank guter Wärmedämmung lassen sich auch Zeiten überbrücken, in denen Strom oder Heizung ausfallen. In einer Kooperation von Mitgliedern des «Swiss Network with Ukraine» wird nun dieser Ansatz weiterentwickelt, um ihn mit Mitteln der digitalen Fabrikation auf grössere Mehrfamilienhäuser zu übertragen, wie Gyler Mydyti, Architektin und eine der Ausstellungskuratorinnen, erklärt.
+
+In der Ausstellung steht das Modell des Holzhauses gleich neben einer reparierten Holztür und einem hölzernen Bettgestell. Diese Exponate kommen aus dem ukrainischen Projekt «CO-HATY» (was auf Deutsch mit «lieben» oder «Haus-Zusammenarbeit» übersetzt werden kann). Sie zeigen, wie Ukrainer:innen diverse Baumaterialien für Wohnhäuser wiederverwenden. Umgesetzt wird « externe Seite CO-HATY» von der ukrainischen NGO Metalab, der auch die ukrainische Architektin und Ausstellungskuratorin Anastasiya Ponomaryova angehört. In der Westukraine hat Metalab sechs ehemalige sowjetische Ministerialgebäude zu Notunterkünften für rund 1300 Flüchtlinge umgebaut und entwickelt nun weitere Ansätze, um den Mangel an Wohnungen langfristig zu mildern. Für Gyler Mydyti ist «CO-HATY» ein gutes Beispiel, dass Baufachpersonen in der Schweiz auch von den ukrainischen Ansätzen lernen können, wie sich Baumaterialien wiederverwenden lassen.
+
+Ebenfalls zur Wiederverwendung sammelt der schweizerische Verein « externe Seite Re-Win » Fenster für die Ukraine – zum Beispiel werden unter Beteiligung der Professur für Kreislaufwirtschaft in der Architektur von Catherine de Wolf, die Fenster der Huber-Pavillons, die auf dem ETH-Campus Hönggerberg abgebrochen wurden, in der Ukraine weiterverwendet.
+
+Die Ausstellung «ETH with Ukraine—Exchanging Knowledge for a Sustainable and Resilient Future» befindet sich im ETH-Hauptgebäude. Sie kann bis zum 5. Februar 2024 während der Öffnungszeiten ( Mo-So, 9.00 – 20.00 Uhr ) besucht werden.
+

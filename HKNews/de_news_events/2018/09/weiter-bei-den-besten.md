@@ -1,0 +1,22 @@
+# weiter-bei-den-besten
+
+## Auch in den anderen Ranglisten spitze
+
+Auch in der dritten grossen Universitätsrangliste in diesem Jahr, dem externe Seite World University Ranking von Times Higher Education, klassiert sich die ETH Zürich unter den besten Universitäten der Welt. Mit Rang elf verliert sie zwar einen Platz im Vergleich zum Vorjahr, ist aber weiterhin mit Abstand beste Hochschule Kontinentaleuropas. Vor ihr liegen ausschliesslich Spitzenhochschulen aus England und den Vereinigten Staaten. Angeführt wird das THE-Ranking auch 2018 von Oxford.
+
+Verbessert hat sich die ETH im Bereich der Lehre («Teaching»), wo unter anderem das Betreuungsverhältnis und die Reputation der Lehre ins Gewicht fallen. Gegenüber dem Vorjahr leicht zurückgegangen sind gemäss THE-Ranking dagegen die Werte für die Reputation im Bereich Forschung ebenso wie die Zahl der Zitationen.
+
+ETH-Präsident Lino Guzzella nimmt die Top-Klassierung erfreut zur Kenntnis: «Es ist ein grosser Erfolg, dass sich die ETH auch im THE-Ranking in der Spitzengruppe behaupten kann. In der Liga der Allerbesten können schon kleine Nuancen einzelne Rangverschiebungen auslösen.» Für ihn sei diese Rangierung eine weitere Anerkennung für die grossartige Teamleistung der ETH-Angehörigen. «Auch wenn Rankings nie die volle Wahrheit erzählen: Ein Gradmesser und eine Bestätigung für unsere Arbeit sind sie allemal», so Lino Guzzella.
+
+Auch in den zwei anderen grossen Universitätsranglisten, die in diesem Jahr bereits publiziert wurden, schnitt die ETH Zürich hervorragend ab: Im QS Ranking verbesserte sich die ETH Zürich um drei Positionen und belegt neu den siebten Platz. Im Shanghai-Ranking (ARWU-Ranking), das Nobelpreise an ehemalige und aktuelle Angehörige der Universität relativ hoch gewichtet, erreichte die ETH zum dritten Mal in Folge den 19. Rang.
+
+## THE World Academic Summit: 2019 an der ETH Zürich
+
+Da die drei Rankings unterschiedliche Methoden und Kriterien nutzen, lassen sich die Resultate kaum vergleichen. «Dass die ETH in allen drei Ranglisten seit Jahren vorne dabei ist, spricht auf jeden Fall für unsere Konstanz», sagt Lino Guzzella. Neben der Politik, welche die guten Rahmenbedingungen zur Verfügung stellt, steht auch die ETH Zürich selbst in der Pflicht. «Wir müssen uns konstant weiterentwickeln, um mit den Besten Schritt zu halten, die teilweise massiv investieren. Unter anderem tun wir dies mit der Initiative ETH+, mit der wir interdisziplinäre Projekte unterstützen und zusätzliche Professuren in zukunftsträchtigen Wissensgebieten aufbauen.»
+
+Das jährliche THE World University Ranking wird jeweils im Rahmen des THE World Academic Summit verkündet – dieses Jahr in Singapur, 2019 dann in Zürich. Denn die nächste Ausgabe des weltweit bedeutendsten Hochschulkongresses wird an der ETH Zürich stattfinden. Vertreter der weltbesten Universitäten, Nobelpreisträger sowie Entscheidungsträger aus Politik und Wirtschaft werden sich vom 10. bis zum 12. September 2019 in Zürich treffen und gemeinsam über die Zukunft der globalen Hochschullandschaft debattieren.
+
+Unter dem Titel «How Talent Thrives» wird sich der World Academic Summit in Zürich voll und ganz dem Thema Talentförderung widmen. Wie sehen Talente der Zukunft aus? Welche Fähigkeiten müssen sie mitbringen? Und wie können Universitäten ein Umfeld schaffen, in dem Talente möglichst gut gedeihen? Lino Guzzella: «Es freut mich, dass die ETH im September 2019 für drei Tage der Nabel der Hochschulwelt sein wird und ihren Teil zur künftigen Talentförderung an den Universitäten beitragen kann.»
+
+externe Seite Weitere Informationen
+

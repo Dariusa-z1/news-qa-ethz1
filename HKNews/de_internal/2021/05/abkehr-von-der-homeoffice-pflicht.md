@@ -1,0 +1,44 @@
+# abkehr-von-der-homeoffice-pflicht
+
+## Homeoffice empfohlen
+
+«Aufgrund der vom Bundesrat beschlossenen Lockerungen können wir unseren Mitarbeitenden ein wenig mehr Flexibilität bieten, und wir öffnen die Gebäude», fasst ETH-Vizepräsident Ulrich Weidmann die wichtigsten Aussagen des neuen Masterplans zusammen, den die Schulleitung verabschiedet hat. Die neuen Regeln treten per 7. Juni in Kraft, um genügend Zeit für die Umsetzung der Massnahmen und die Information der ETH-Angehörigen zu haben. Sie sind voraussichtlich bis Anfang Juli gültig.
+
+## Testprogramm erlaubt Arbeit vor Ort
+
+«Wer gut im Homeoffice arbeiten kann, soll weiterhin zuhause bleiben», betont Weidmann, der die ETH-Covid-19-Taskforce leitet. Vor allem diejenigen, denen eine Präsenz vor Ort hilft, effizient und motiviert zu arbeiten, können neu wieder an die ETH kommen. Wobei hier weiterhin die bestehenden Regeln gelten: mindestens 10 Quadratmeter Platz pro Person, eineinhalb Meter Abstand sowie Maskenpflicht am Arbeitsplatz, sobald sich mehr als eine Person im Raum befindet. Diese Regeln gelten im Übrigen weiterhin auch für alle ETH-Angehörigen, die bereits bisher an der ETH arbeiten oder studieren, weil sie aus betrieblichen Gründen vor Ort sein müssen oder auf die Infrastruktur vor Ort angewiesen sind.
+
+## Gebäude grundsätzlich wieder offen
+
+Ermöglicht wird dieser Schritt durch das sogenannte CoVMass-Testprogramm , das die ETH im April lancierte. Wer regelmässig mindestens einen Tag pro Woche an die ETH kommt, ist neu dazu aufgerufen, sich für das Programm zu registrieren und wöchentlich einen PCR-Speicheltest einzureichen. Alternativ kann auch ein Antigen-Schnelltest in einer Apotheke gemacht werden. Diese Regelung gilt auch für ETH-Angehörige, die schon bisher vor Ort waren. Davon ausgenommen sind von einer Covid-Erkrankung Genesene und vollständig Geimpfte, also Personen, deren Genesung weniger als sechs Monate zurückliegt bzw. deren zweite Impfung mindestens vierzehn Tage zurückliegt.
+
+## Studierende von Änderungen kaum betroffen
+
+«Wir betrachten den Juni als eine Art Übergangsphase für Mitarbeitende, in der Vorgesetzte ihre Mitarbeitenden nur zur Arbeit vor Ort anhalten dürfen, wenn dies betrieblich notwendig ist», sagt Weidmann. Labore und Werkstätten sollen mittels Rotationsregeln und Mehrschichtbetrieb möglichst intensiv genutzt werden können.
+
+## Campusleben: Veranstaltungen und Sportangebot
+
+Mit dem Lockerungsschritt werden sich die Campus wieder beleben. Deshalb sind ab 7. Juni grundsätzlich wieder alle Gebäude zu den üblichen Öffnungszeiten frei zugänglich. Departements- oder Abteilungsleitungen können aber die Schliessung einzelner Gebäude beantragen, sofern darin keine mündlichen oder schriftlichen Prüfungen stattfinden. Diese Gebäude sind dann weiterhin nur mit der ETH-Karte zugänglich.
+
+## Weitere Informationen
+
+Die Maskentragpflicht gilt weiterhin in allen Gebäuden, aber auch in den Aussenräumen der ETH Zürich. Sie ist nur aufgehoben bei alleiniger Nutzung eines geschlossenen Raums sowie während des Essens. In Einklang mit den Regeln des Bundes dürfen im Aussenraum der Gastrobetriebe neu 6 Personen an einem Tisch sitzen. Und auch die Tische in den Innenräumen der Gastrobetriebe dürfen nun wieder von bis zu vier Personen benutzt werden. Die Kapazitäten werden laufend an die Nachfrage angepasst. Aktuelle Informationen dazu finden sich auf der Website .
+
+## Staffnet
+
+Bezogen auf die Lehre ändert sich durch den neuen Masterplan nicht viel, da der Vorlesungsbetrieb am 4. Juni endet. Für ergänzende Präsenzoptionen, die in vielen Departementen eingeführt wurden, gelten die neuen gelockerten Bestimmungen des Bundes.
+
+## Newsletter abonnieren
+
+Für die Prüfungen, insbesondere die laufenden Semesterendprüfungen, gilt weiterhin die Corona-Weisung zur Lehre (HS2020 und FS2021 ). Alles, was in Präsenz durchgeführt wird, erfolgt unter Einhaltung der jeweiligen Schutzmassnahmen, die im Schutzkonzept FS2021 aufgeführt sind.
+
+Veranstaltungen an der ETH können weiterhin nur bewilligt werden, wenn sie für die ganze Institution von Bedeutung sind, wenn es sich um akademische Veranstaltungen handelt oder um Initiativen von Studierenden, die sich innerhalb der geltenden Regeln umsetzen lassen. Voraussetzung ist, dass die Gäste sitzen und die Maskenpflicht und Abstandsregel beachtet werden. Neu gilt eine maximale Belegung von 50% der Raumkapazität bei einer Obergrenze von 100 Personen in Innenräumen und eine Obergrenze von 300 Personen in Aussenräumen. Führungen in Innen- und Aussenräumen sind neu mit bis zu 50 Personen möglich.
+
+Auf Steh-Apéros muss – nicht nur nach Veranstaltungen – aufgrund der Vorgaben des Bundes weiterhin verzichtet werden. Die Gastrobetriebe der ETH bieten aber Verpflegungsmöglichkeiten nach den oben erwähnten Regeln an.
+
+Schliesslich kann der ASVZ sein Sportangebot erweitern, weil die Lockerungen des Bundesrats neu auch Trainings mit bis zu 50 Sporttreibenden zulassen. Der Ausbau des Sportangebots kann bereits ab Montag, 31. Mai stattfinden. Informationen zum Sportangebot finden sich auf der ASVZ- externe Seite Website .
+
+Alle übrigen Änderungen treten wie erwähnt am 7. Juni in Kraft. «Die Schulleitung ist froh, dass wir dank des Testprogramms einen Schritt in Richtung neuer Normalität einleiten können», sagt Taskforce-Leiter Weidmann. Zwar lasse die Situation erst einen kleinen Öffnungsschritt zu, doch sei er überzeugt, dass bald weitere folgen werden, nicht zuletzt, weil immer mehr ETH-Angehörige geimpft würden.
+
+Für Fragen zu den neuen Regelungen wird Vizepräsident Ulrich Weidmann, zusammen mit Mitgliedern der der ETH-Covid-19-Taskforce, an der Townhall vom Dienstag, 1. Juni, 14.00 Uhr zur Verfügung stehen. Die detaillierten Regelungen können dem Masterplan auf der Coronawebsite entnommen werden.
+

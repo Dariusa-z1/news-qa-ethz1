@@ -1,0 +1,18 @@
+# neues-feature-fuer-die-research-collection-grosse-datenmengen-veroeffentlichen
+
+## Main article
+
+Der Service libdrive ermöglicht die Open-Access-Publikation von grossen Datenmengen über das Repositorium Research Collection. Das neue Feature wurde in Zusammenarbeit mit der Abteilung Informatikdienste der ETH Zürich auf Basis der Open Source Software ownCloud entwickelt.
+
+Gut zu wissen: Wenn Sie für Ihre Publikation oder Ihren Datensatz einen DOI vor der eigentlichen Publikation in der Research Collection beziehen möchten, beispielsweise um ihn in ein Dokument zu integrieren, können Sie einen DOI-Vorbezug auslösen.
+
+Interessierte Personen können auf die publizierten Forschungsdaten in libdrive für mindestens 10 Jahre zugreifen. Es besteht aktuell keine Begrenzung der Datenmenge, die über libdrive publiziert werden kann. Nutzen Sie deswegen unser Angebot und informieren Sie sich im Handbuch Research Collection über die Nutzungsbedingungen und Anleitung für den Upload in libdrive.
+
+Habe Sie Fragen zur Research Collection? Wir helfen Ihnen gerne weiter. Kontaktieren Sie uns per E-Mail ( ) oder Telefon (+41 44 632 72 22).
+
+Die Research Collection ist die Publikationsplattform der ETH Zürich. Angehörige der Hochschule können darin wissenschaftliche Volltexte Open Access publizieren sowie Forschungsdaten archivieren oder öffentlich zugänglich machen.
+
+Mehr als nur Daten – Vom Know-how profitieren
+
+#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel.
+

@@ -1,0 +1,26 @@
+# scientifica-sucht-helfende-haende
+
+## Neue Standorte, grösseres Angebot
+
+Die Scientifica feiert dieses Jahr ihr zehnjähriges Bestehen. 2011 luden ETH Zürich und Universität Zürich die Bevölkerung zum ersten Mal dazu ein, sich in den beiden Hauptgebäuden mit Forschenden auszutauschen. Ob an Ausstellungsständen, in Kurzvorlesungen, Science Cafés oder Workshops: Die Begeisterung der Wissenschaftlerinnen und Wissenschaftler übertrug sich auf das Publikum. So wuchs die universitäre Wissenschaftsfestival über die Jahre, es kamen jeweils über 20'000 Besuchende. Entsprechend eng wurde es teilweise in der Ausstellung.
+
+## Helferinnen und Helfer gesucht
+
+Eigentlich war an eine Durchführung der Scientifica vor einem Jahr kaum zu denken. Dennoch mussten die Planungsarbeiten in Angriff genommen werden. Aufgrund der Raumsituation haben die Projektverantwortlichen als erstes entschieden, die Scientifica auf die beiden Campus Hönggerberg und Irchel auszudehnen. Den Aufruf zur Teilnahme verschickten sie in einer Situation grosser Unsicherheit. Umso überraschter waren sie über die Anzahl Eingaben. So viele Forschende wie noch nie haben ihr Interesse an einer Teilnahme angemeldet. Sie arbeiten zurzeit unter Hochdruck an ihren Präsentationen.
+
+## Als Helferin oder Helfer an der Scientifica mitwirken
+
+Rund 60 Ausstellungsstände, 50 Kurzvorlesungen und Dutzende Veranstaltungen werden dieses Jahr an den drei Standorten Zentrum, Irchel und Hönggerberg zum Thema «Natürlich künstlich» angeboten. Wie immer gibt es auch Veranstaltungen, die sich speziell an Kinder und Jugendliche richten. Zudem steht in der Vorwoche der Scientifica eine Reihe von Veranstaltungen unter dem Titel «Science and the City» auf dem Programm, das zusammen mit der Stadt Zürich realisiert wird. Alle Angebote werden wie immer Anfang August auf der Scientifica-Website aufgeschaltet. Ein entsprechender Hinweis darauf folgt hier in Intern aktuell.
+
+## Staffnet
+
+Damit die Scientifica stattfinden kann, muss das Projektteam eine neue Hürde nehmen: Durch die dezentrale Organisation ist eine viel grössere Anzahl von Helferinnen und Helfern notwendig. Aber auch das Schutzkonzept, ohne das die Scientifica dieses Jahr nicht stattfinden könnte, bedingt einen zusätzlichen Personaleinsatz. Dieses sieht nämlich vor, dass die Besucherinnen und Besucher ein Covid-Zertifikat benötigen. Sie müssen an einem der drei Standorte an der Check-in-Station ihr Zertifikat vorweisen und erhalten dann ein Armband, das ihnen freien Zutritt zu allen Gebäuden gewährt. Entsprechend müssen an allen Gebäudeeingängen Kontrollen durchgeführt werden.
+
+## Newsletter abonnieren
+
+Für diese und viele weitere Aufgaben sucht das Projektteam Helferinnen und Helfer, die am Samstag, 4. September und/oder Sonntag, 5. September einen Einsatz leisten. Ob Mitarbeiterin oder Student: Wenn Sie Lust haben, die Scientifica aus einer anderen Perspektive zu erleben und sich für diesen grossartigen Anlass zu engagieren, haben Sie dieses Jahr Gelegenheit dazu.
+
+ETH-Mitarbeitende , die einen freiwilligen Einsatz leisten möchten, melden Sie sich direkt bei . Sie verantwortet die Einsatzplanung und steht Ihnen auch bei Fragen gerne zur Verfügung. Als Dankeschön werden alle Helferinnen und Helfer zum Thank-you-dinner mit allen Mitwirkenden eingeladen.
+
+Studierende erhalten für ihren Einsatz CHF 25 pro Stunde. Sie können sich im Helferpool einschreiben: externe Seite Anleitung zur Registration im Helferpool . Auch sie werden zum Thank-you-dinner eingeladen.
+

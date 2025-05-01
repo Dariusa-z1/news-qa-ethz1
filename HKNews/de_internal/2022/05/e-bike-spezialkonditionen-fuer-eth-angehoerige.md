@@ -1,0 +1,22 @@
+# e-bike-spezialkonditionen-fuer-eth-angehoerige
+
+## Buchung über App
+
+An vier Gebäuden der ETH Zürich wurden Stationen errichtet, und es stehen insgesamt 25 hochwertige E-Bikes plus ein E-Cargobike des Anbieters «Urban Connect» zur Verwendung bereit. Die ausleihbaren Elektrofahrräder und die zugehörigen Ladestationen befinden sich auf dem Campus Hönggerberg beim Büro-​ und Laborgebäude HCI (« Fünffinger Dock »), auf dem Campus Zentrum beim Gebäude CHN (Universitätstrasse 8-​22, über die Tramhaltestellen «ETH/Universitätsspital» und «Haldenbach» erreichbar) sowie bei den ETH-Gebäuden ONA und Octavo in Zürich-Oerlikon.
+
+## Tausend neue E-​Biker:innen bis Juli
+
+Für alle ETH-Angehörigen, die mit diesen E-Bikes fahren wollen, gelten günstige Konditionen – im Vergleich zu den sonst üblichen Marktpreisen bezahlen sie einen stark reduzierten Preis. Die Preise betragen 50 Rappen pro Stunde und max. 3 Franken pro Tag, beziehungsweise pro 24 Stunden. Die Elektroantriebe ermöglichen im Schnitt Geschwindigkeiten von rund 25 km/h. Anders als bei den Modellen des früheren Anbieters «Bond» erfordert ihre Nutzung keinen Mofa-Führer:innenausweis.
+
+## Pilotbetrieb für nachhaltige Campusmobilität
+
+Die Ausleihe funktioniert über die App «Urban Connect», bei der man sich einmalig mit der ETH-Mail anmeldet. Dabei gibt man den ETH-Benutzernamen ein gefolgt von @ethz.ch und hinterlegt danach die Kreditkartennummer, damit der Preis direkt abgerechnet werden kann: Danach einfach ein Bike auswählen und losfahren! Die Nutzung der E-Bikes beschränkt sich nicht auf den ETH-Campus, man darf mit ihnen auch nach Hause pendeln. Jede Buchung muss an einer Urban-​Connect-Ladestation gestartet und beendet werden, manche Bikes müssen an dieselbe Ladestation zurückgebracht werden (das betrifft namentlich den Hönggerberg. Die Details dazu sind in der App erklärt).
+
+## Staffnet
+
+Das Ziel ist es, bis Ende Juli tausend Benutzer:innen zu gewinnen, bevor die E-​Bikes im besten Fall in einen Regelbetrieb übernommen werden (zuerst muss dazu der Pilot evaluiert werden). Die Entwicklung der Nutzer:innen-​Zahlen ist vielversprechend: Nutzten im Januar über 250 ETH-​Angehörige ein E-​Bike von «Urban Connect», so stieg diese Zahl im Laufe von März und April überproportional auf über 450 Nutzer:innen. Im Mai beträgt sie seit dieser Woche insgesamt 630 Nutzer:innen. Dazu beigetragen hat sicherlich das warme Frühlingswetter, an Sonnentagen ist die Nutzung zirka 25 Prozent höher als bei Wind, Regen oder Schnee. Am weitaus stärksten nachgefragt werden die E-​Bikes auf dem Campus Hönggerberg. Entsprechend wurde die Anzahl E-​Bikes beim HCI bereits aufgestockt.
+
+## Newsletter abonnieren
+
+Noch handelt es sich bei dem E-​Bike-Angebot an der ETH um einen Pilotbetrieb, den die ETH Zürich zusammen mit Anbieterin «Urban Connect» durchführt, nachdem sich die frühere Anbieterin «Bond» aus dem Markt zurückgezogen hat. Anhand der Evaluationsergebnisse wird sich weisen, ob das Angebot in einen Regelbetrieb überführt wird. Rein von der Technik her liesse sich die App auch auf andere Fahrzeuge (E-​Scooter, E-​Auto, Velo) und den ÖV erweitern und zu einer umfassenden Mobilitäts-​App ausbauen. Das E-​Bike-Angebot ist Teil der Mobilitätsstrategie der ETH Zürich, die derzeit entwickelt wird. Neben den E-​Bikes können ETH-​Angehörige auch die «PubliBike»-​Fahrräder der Stadt Zürich verwenden.
+

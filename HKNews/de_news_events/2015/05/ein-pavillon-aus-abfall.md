@@ -1,0 +1,52 @@
+# ein-pavillon-aus-abfall
+
+## Weggeworfene Getränkekartons verwendet
+
+«Wo gehobelt wird, da fallen auch Späne», besagt ein altes Sprichwort. Zwar bezieht es sich nicht auf die Müllproduktion unserer Welt, jedoch beschreibt es dieses Phänomen erstaunlich gut: Müll ist ein Ergebnis beinahe jeglicher menschlicher Aktivität, bei der Rohmaterialien mit Hilfe von Energie und Wissen von einem Zustand in einen anderen verwandelt werden. [1] Dieser Definition folgend galt Abfall Jahrhunderte lang als etwas Fremdes, das weder der Familie der Rohstoffe noch jener der Endprodukte angehörte. Müll war schlicht ein Nebenprodukt, das sich in unserer dialektischen Anschauung von «roh» und «verarbeitet» nicht zuordnen liess.
+
+Doch man kann Müll auch als einen integralen Bestandteil unserer Rohstoffwelt betrachten und so das Potenzial dieses Wertstoffs als Grundlage für die Herstellung von neuen Produkten erkennen. In den letzten Jahren rückte vor allem der monetäre Wert von Abfall immer mehr in den Vordergrund. Dabei spielen zum einen der Preis des Rohmaterials und der gespeicherten Energie eine Rolle, zum anderen die immer knapper werdenden Bestände der Ausgangsmaterialien. In einem früheren Blogbeitrag haben wir diese geänderte Sichtweise auf Müll als natürliche Ressource bereits besprochen.
+
+(Illustration: Felix Heisel / ETH Zürich)
+
+Die ETH Zürich beteiligt sich am IDEAS City Festival 2015 (vom 28. bis 30. Mai) des New Museum in New York unter dem Motto “Invisible City“ – die «unsichtbare Stadt». Wir bauen einen Pavillon und organisieren eine Reihe von Events, welche die stetig wachsende, jedoch meist verdrängte und dadurch fast unsichtbare Ressource Müll als Stadtbaustein thematisieren. Den Pavillon entwarfen die Assistenzprofessur für Architektur und Konstruktion Dirk E. Hebel und die Professur für Architektur und Tragwerk Philippe Block. Die Konstruktion zeigt Möglichkeiten auf, wie sich mit einem Abfallmaterial – gewonnen aus weggeworfenen Getränkekartons – durch geschickten Einsatz eindrückliche und tragende Strukturen errichten lassen.
+
+## Zerhäckselt und gepresst
+
+Getränkekartons: Recykliert und zu Platten gepresst. (Bild: Felix Heisel / ETH Zürich)
+
+2013 wurden weltweit geschätzte 178 Milliarden Getränkekartons verkauft [2]. Das Materialgemisch aus Papier (74 Prozent), Polyethylen (22 Prozent) und Aluminium (4 Prozent) lässt sich theoretisch relativ gut wieder trennen, jedoch benötigt es hierfür spezielle Maschinen und grosse Mengen Wasser und Energie. Obwohl in den vergangenen Jahren die Recyclingrate erheblich gestiegen ist, wurden in den Vereinigten Staaten alleine im Jahre 2010 ca. 430‘000 Tonnen Getränkekartons weggeschmissen [3]. Für den ETH Zürich Pavillon werden die Getränkekartons in Zusammenarbeit mit dem US-Unternehmen ReWall zunächst in einem Häcksler zerkleinert und anschliessend auf einem Laufband unter Druck und Hitze zu Platten gepresst. Hierfür benötigt es weder Wasser noch Kleber oder andere Zusatzstoffe, da sich die Materialmischung aus Aluminium, Papier und Polyethylen zu einer wasserfesten Einheit verbindet. Die Oberfläche wiederspiegelt dabei das Ausgangsmaterial durch Sprenkel, die von der farbigen Bedruckung und der glänzenden Folie herrühren [4]. Für die Materialwahl war es wichtig, dass die drei in der Lebensmittel-verpackungsindustrie verwendeten Substanzen keinerlei Schadstoffe enthalten und nach der Verwendung als Pavillon vollständig in den regulären Recyclingprozess der Firma integriert werden können. Das wird Mitte Juni nach dem Abbau der Struktur geschehen.
+
+Ein Testaufbau eines tragenden Bogensegments. (Bild: Nick Ashby / ETH Zürich)
+
+Bislang wird das Material als Innenverkleidung und Ersatz für gängige Gipsplatten im Innenausbau produziert. Unser Pavillon setzt es nun zum ersten Mal als tragendes Baumaterial im Aussenbereich ein. Da sich die Platten leicht verformen und weder auf Zug noch auf Biegung besonders gute Eigenschaften aufweisen, haben wir die Form der Struktur für die Druckkräfte optimiert. Die 90 Quadratmeter überspannende Schale wird aus 40 einzelnen, vorgespannten Bögen zusammengesetzt, welche in ihrer Form dem Kräfteverlauf folgen und lediglich Kompressionskräfte aufnehmen. Die einzelnen Bausteine mit dreieckigem Querschnitt vergrössern die statische Höhe, reduzieren das Gewicht der Struktur und ermöglichen deren Vorfertigung.
+
+## Vom Material zum Entwurf
+
+Ein Team aus Mitarbeitern beider Professuren wird die Struktur in New York City im Rahmen eines “Pop-Up Storefront Events“ vorbereiten und schliesslich innerhalb von 4 Tagen im First Street Garden aufbauen. ETH Global und das New Museum bespielen die Struktur im Anschluss während des IDEAS City Festivals mit Seminaren, Vorlesungen, Einladungen und Ausstellungen, unter anderem “Building from Waste“, einer Sammlung von 20 Baumaterialien aus Müll, zusammengestellt von den Autoren des gleichnamigen Buches Dirk E. Hebel, Marta H. Wisniewska und Felix Heisel.
+
+Diesen Beitrag hat Dirk Hebel zusammen mit Felix Heisel verfasst. Heisel erforscht alternative Baumaterialien an der Assistenzprofessur für Architektur und Konstruktion der ETH Zürich und des Future Cities Laboratory in Singapore.
+
+Mehr zum Festival und dem Material erfahren Sie unter den folgenden Links:
+
+IDEAS CITY Festival: externe Seite Programm
+
+## Weiterführende Informationen
+
+Assistenzprofessur Dirk E. Hebel: hier
+
+Block Research Goup: hier
+
+[1] Hebel, Dirk E., Marta H. Wisniewska and Felix Heisel (2014). Building from Waste, Recovered Materials in Architecture and Construction . Berlin, Basel: Birkhäuser.
+
+[2] Tetra Laval (2014). ‘The Tetra Laval Annual Report: Ensuring Food Protection’. No. 2013/2014, Pully: Tetra Laval.
+
+## Zum den Autoren
+
+[3] Miller, Chez (2013). Profiles in Garbage: Aseptic Boxes & Cartons. Waste 360 externe Seite Webpage , retrieved April 28, 2015.
+
+[4] The ReWall Company, LLC (2015). ReWallution. The ReWall Company externe Seite Webpage , retrieved April 27, 2015.
+
+Wissenschaftlicher Assistent an der Assistenzprofessur für Architektur und Konstruktion
+
+ETH Zürich / Singapore ETH Centre (SEC)
+

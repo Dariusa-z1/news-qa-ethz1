@@ -1,0 +1,20 @@
+# rethink-blog-joel-mesot-agility-perseverance
+
+## Main article
+
+About a year ago, the Executive Board launched rETHink. The idea: to prepare our university for the medium- to long-term future – in a participatory process. Our goal: to create the conditions necessary to keep teaching and research at the highest level. Several factors motivated rETHink in our rapidly changing world. What we could not foresee at the time was how the concept of change itself would take on new meaning.
+
+The COVID-19 pandemic forced us to act quickly, to improvise. Established processes became partly obsolete. Many things that were taken for granted had to be rethought. Today, when we look back on seven months since the start of the lockdown, we know we are capable of reacting quickly and adapting. Teaching switched to digital channels overnight – and it worked! We learned by experience that you can also work productively at home. Our researchers adjusted to the new situation in no time at all. They launched many projects on corona-related issues and contributed their expertise to the Swiss National COVID-19 Science Task Force.
+
+I am deeply impressed by the commitment shown by ETH members everywhere – in the laboratories, lecture halls and in the public spotlight, as well as in technology and administration. Not to mention our students, who admirably offered their help to hospitals and came to terms with the difficult situation in the best possible way.
+
+ETH Zurich has successfully mastered the challenges of the past few months and has proven itself to be a resilient organisation. We have all learned a lot. However, I am aware that we cannot only function in a reactive mode, but that we still need planning security and long-term thinking and actions. rETHink is intended to enable us to envision the university beyond the immediate constraints and restrictions. Just as a wide range of skills is needed to overcome the COVID-19 crisis, rETHink will also benefit if many ETH members contribute.
+
+With rETHink, we also want to conduct a conscious discussion of values. We have defined five values in the current strategy and development plan: openness, diversity, responsibility, team spirit and excellence. Are these the values that should serve as our foundation, or do we need other – or additional – values? How do we want to live them at ETH? I look forward to contributions to the discussion here on this blog, as well as in the discussion groups on this and other rETHink topics.
+
+The situation with COVID-19 in Switzerland and in many parts of the world does not look good as I write this post. Would we be able to launch rETHink as an ambitious project today? I do not know. But I am convinced that rETHink is a great opportunity and that we can use the experience gained in recent months to further develop our university. We will have to remain flexible, agile and persistent in order to deal with the difficult public health situation in the best possible way. We will also need these qualities in order to lead ETH into the future as a stronger institution.
+
+ETH-Präsident Joel Mesot (Bild: ETH Zürich / Markus Bertschi)
+
+Joël Mesot has been President of ETH Zurich since 1 January 2019. Once he had settled into his new role, he launched the rETHink project together with the Executive Board. Prior to this, the Full Professor of Physics headed the Paul Scherrer Institute (PSI) in Villigen for ten years.
+

@@ -1,0 +1,58 @@
+# blog-fuer-einen-gerechten-zugang-zu-urbanem-gruen
+
+## Zum Autor
+
+Auf dem Quai beim See flanieren, dem Fluss entlang durch die Stadt spazieren, Pingpong spielen im Park – es sind alltägliche Selbstverständlichkeiten wie diese, die unser Wohlbefinden steigern. Selbstverständlichkeiten, mit denen wir unsere Freizeit gestalten – und dann war das Selbstverständliche auf einmal nicht mehr möglich.
+
+Als im März 2020 in der Schweiz und ganz Europa pandemiebedingt der Lockdown begann, schlossen in Zürich die zentralen Pärke und Promenaden an Seeufer und Fluss – und blieben für fast drei Monate komplett zu.
+
+Als naturverbundener Stadtbewohner waren die Schliessungen für mich persönlich eine einschneidende Erfahrung. So machten uns die gesperrten Promenaden und Pärke schmerzhaft bewusst, wie wichtig urbane Grünflächen für unsere Lebensqualität sind, und wie sehr wir diese Orte für unsere körperliche und seelische Gesundheit brauchen.
+
+Fritz Kleinschroth ist Senior Scientist am Lehrstuhl für Ökosystemmanagement der ETH Zürich und forscht an den Folgen der Urbanisierung für Ökosystemen.
+
+## Eine Frage des Wohlstands
+
+Seither ist viel passiert. Und ich stelle erfreut fest: Es wird heute deutlich mehr über die Rolle von Natur im urbanen Raum geredet als vor der Pandemie. Corona ist gegangen – das Thema Stadtgrün ist geblieben, zumindest vorläufig. Das hat auch mit den Hitzewellen im Stadtsommer zu tun, wenn kühlende Vegetation Gold wert ist. In Zürich ist das Thema gerade jetzt hochaktuell, da gleich zwei relevante Initiativen zum Mythenpark und zum Seeufer anstehen. 1
+
+In der Wissenschaft haben Grünflächen einen veritablen Boom erlebt: Fast überall auf der Welt gingen Forschende der zentralen Frage nach, wie sich die Nutzung von urbanen Grünflächen während der Corona-Lockdowns veränderte.
+
+Die Frage ist nicht trivial. Denn Länder und Städte haben ganz unterschiedlich auf die Pandemie reagiert. Die Schweiz war zum Beispiel für einen liberalen Lockdown bekannt, doch Zürich zeigte sich mit der vollständigen Schliessung zentraler Parkanlagen (aber nicht aller) als eine der restriktiveren Städte im nördlichen Europa.
+
+Ich forsche selber zu den Wechselwirkungen zwischen urbaner Infrastruktur und Ökosystemen und sehe die Dynamik um Grünflächen seit Corona als Indikator dafür, was Menschen in Städten wirklich wichtig ist. Gleich zu Begin der Pandemie zeigten wir, dass Google Anfragen nach Suchbegriffen wie «Spazieren gehen» im deutsch- und englischsprachigen Raum kurzfristig markant zugenommen hat – ein Indiz, dass die Nachfrage nach öffentlichen Pärken während der Krise stark gestiegen ist. 2
+
+## Stadtgrün ist ungleich verteilt
+
+Auch aufgrund einiger anderer vielzitierter Studien aus Nordeuropa gingen bisher die meisten Forschenden (einschliesslich uns) implizit von einer generellen Zunahme der Nutzung von Grünflächen aus. Dies auch deshalb, weil das Bedürfnis nach Bewegung im Freien angesichts von Homeoffice, geschlossenen Schulen und Reiseverboten deutlich grösser war als vor der Pandemie.
+
+Doch weltweit gab es noch hunderte andere Publikationen zu dem Thema – und die zeichnen ein widersprüchliches Bild: Da und dort nimmt die Nutzung zu, während sie anderswo abnimmt. Rasch war klar, dass es keinen klaren Konsens gibt.
+
+Mit einem mehrsprachigen Team haben wir nun systematisch die Literatur zur veränderten Nutzung urbaner Grünflächen während und nach den Corona-Lockdowns von 2020 bis 2022 ausgewertet. Dabei haben wir aus über 3000 Beiträgen 178 relevante Studien in 5 Sprachen und aus 60 Ländern identifiziert und vergleichend analysiert. Unser Review ist im Magazin externe Seite Nature Cities erschienen und hat es auf die Titelseite geschafft. 3
+
+Unsere Analyse offenbart tatsächlich eine überraschend grosse Diskrepanz in der Nutzung von Grünflächen an verschiedenen Orten auf der Welt. Wir können diese Unterschiede im Wesentlichen durch finanziellen Wohlstand erklären. Konkret zeigen wir, dass die Nutzung von Grünflächen in wohlhabenderen Regionen zunahm, während sie in ärmeren Regionen deutlich abnahm.
+
+## Empfehlungen für lebenswerte Städte
+
+Das heisst: In Städten und Regionen haben nicht alle Menschen die gleichen Möglichkeiten, Grünflächen zu nutzen. Soziale Ungleichheit manifestierte sich also in zweierlei Hinsicht: Menschen, die entweder in wohlhabenden Gegenden leben oder im Besitz von privaten Gärten waren (oder beides), konnten die Einschränkungen durch vermehrte Aktivitäten an der frischen Luft ausgleichen. Menschen ohne solche Möglichkeiten mussten jedoch auf Vorteile für Gesundheit und Wohlbefinden verzichten.
+
+Das wirft die wichtig Frage auf, wie wir in der Stadtentwicklung eine gerechte Verteilung von Grünräumen erreichen. Wollen wir vermeiden, dass sich immer mehr Menschen für das sichere Haus mit Garten in der Aglomeration entscheiden, dann müssen wir unsere Städte grundlegend anders gestalten.
+
+Gerade in weniger privilegierten Quartieren mit kleinen Wohnungen braucht es mehr Natur und Erhohlungsraum im Freien, zum Beispiel indem Brachflächen zugänglich und nutzbar gemacht werden. Das übergeordnete Ziel der «Inneren Verdichtung» in der Stadtplanung lässt sich nur realisieren, wenn genügend Grünflächen und ein gerechter Zugang zu diesen gewährleistet wird. Wir sprechen daher auch von «doppelter Innenentwicklung», die baulich verdichtet und gleichzeitig die Qualität von Grünräumen erhöht.
+
+Unsere Erkenntnisse von Corona sprechen dafür, unsere Städte grüner, gesünder und gerechter zu machen – und damit auch widerstandsfähiger gegenüber Klimawandel und Biodiversitätsverlust. Wir wissen, dass die Menschen während der Pandemie Wälder, Gewässerufer und andere naturbelassene Elemente vermehrt nutzten.
+
+## Die Stadt von morgen ist grün und gerecht
+
+Der Weg zu lebenswerten Städten führt meines Erachtens weniger über klassische Parkanlagen, sondern vielmehr über informelle oder ungeplante Grünflächen: Wir können ungenutzte Potenziale nutzen, etwa Brachen in Wohnungsnähe, aber auch renaturierte Fliessgewässer oder begrünte Strassenränder stärker zugänglich machen. Einen Beitrag können auch Gemeinschaftsgärten leisten, die seit einigen Jahren immer beliebter werden. 4 Sie bieten mehr Menschen die Möglichkeit zum Gärtnern und brauchen weniger Platz als parzellierte Privatgärten.
+
+Während Corona an sich nicht mehr von grossem Interesse für die Öffentlichkeit sein mag, bleibt diese Zeit mir und vielen Menschen als Umbruch in Erinnerung.
+
+Es ist klar geworden, dass Städte mehr sind als Verkehrs- und Handelszentren grau-gebauter Infrastruktur, sondern dass sie auch Lebensräume für Mensch und Natur sind. Mehr grün-blaue Infrastruktur und ein sozial gerechter Zugang zu wohnungsnahen Erholungszonen sind elementare Voraussetzungen, um Städte langfristig lebenswert und nachhaltig zu gestalten.
+
+1 externe Seite Mythenpark und externe Seite Uferinitiative
+
+2 Kleinschroth F, Kowarik I. (2020). COVID-19 crisis demonstrates the urgent need for urban greenspaces. Frontiers in Ecology and the Environment, 18(6), 318–319. externe Seite https://doi.org/https://doi.org/10.1002/fee.2230
+
+3 Kleinschroth F et al. (2024). Global disparities in urban green space use during the COVID-19 pandemic from a systematic review. Nature Cities. externe Seite https://doi.org/10.1038/s44284-023-00020-6
+
+4 Bieri D, Joshi N, Wende W, Kleinschroth F. (2024). Increasing demand for community gardening before, during and after the COVID-19 pandemic. Urban Forestry & Urban Greening, 92, 128206. externe Seite https://doi.org/10.1016/j.ufug.2024.128206
+

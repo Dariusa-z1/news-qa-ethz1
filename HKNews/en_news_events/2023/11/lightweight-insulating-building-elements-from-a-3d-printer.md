@@ -1,0 +1,52 @@
+# lightweight-insulating-building-elements-from-a-3d-printer
+
+## In brief
+
+- ETH researchers working on the Airlements project are using 3D printing to produce sustainable insulation elements for buildings.
+
+- This high-precision printing process generates less waste and removes the need for expensive and time-consuming formwork.
+
+- The mineral foam used is based on industrial waste and is fully recyclable.
+
+In the main hall of the research and robotics Arch Tec Lab on Hönggerberg campus, several robotic arms hang from the roof, while half-finished beige-coloured curved structures reminiscent of sand sculptures are dotted around the floor. On one side of the room, mysterious parts protrude from wooden crates.
+
+Standing in front of one of these crates is Patrick Bedarf. He works in Professor Benjamin Dillenburger’s Digital Building Technologies group and completed his doctorate at the end of September. As part of his doctoral thesis he studied how lightweight insulating construction elements – especially more complex shapes – could be manufactured to reduce materials. To do so, he used sustainable insulation material produced by the ETH spin-off FenX using recycled industrial waste . “The mineral foam we use is an innovative construction material that contributes to a more climate-friendly industry,” Bedarf explains.
+
+## Less material used
+
+The foam is mostly made from fly ash, a waste product from industrial blast furnaces. “This material has therefore already gone through the first material cycle, and can simply be recycled after use,” Bedarf explains and crumbles between his fingers the random component he has just pulled out of the wooden crate. “The material can now be reused as a novel foam.”
+
+The production of insulating wall elements is a sustainable process: the doctoral researcher uses 3D printing to reduce material wastage and CO 2 emissions. “The formwork needed for pouring material is no longer required. Formwork is very time-consuming and can only be partially reused afterwards,” Bedarf says. Excessive wastage is a particular challenge when producing more complex geometrical shapes.
+
+## A 3D printer the size of the entire room
+
+Bedarf explains that combining 3D printing with robotics also allows inexpensive production of bespoke building parts. “Without automation, traditional construction methods that save on materials are very time-consuming and expensive, especially due to labour costs.”
+
+The researcher shows some initial samples of the hardened foam produced with a 3D printer. “Take this piece, for example, which looks like a pizza,” he says, and points to a flat disc. “We printed several different types of these small “pizzas” to begin with, and then moved on to bigger pieces to see whether foam produced by 3D printing is also suitable for large-scale applications.
+
+## “Like being in a sauna”
+
+Someone looking for a typical 3D printer in the robotics lab will be searching in vain: the entire room functions as a 3D printer. Flexible mixing chambers ensure the correct mixture of raw material. The ends of the robotic arms hanging from the roof are fitted with printer heads which apply the material layer by layer to the print bed. “The robots can navigate precisely to every predefined point in the room,” Bedarf explains. “We program the relevant path and specify where they travel and how quickly, as well as how much material should flow from the printer head, and at what time and place.”
+
+In the initial trials, Bedarf used concrete to strengthen the bespoke building parts. He then managed to produce robust components solely using foam, as shown in the prototype of the Airlement project: a monolithic corner column two metres high made of four 3D-printed segments. The four individual parts are stuck together with mortar and then sprayed with a white cement-free render.
+
+## Inspiring others to build with machines
+
+Airlements – a word play combining ‘air’ and ‘elements’ – comprise lightweight individual parts that are easy to lift manually and stack on top of one another. “The building parts can simply be printed in a factory, transported to the building site and positioned where required,” Bedarf says. “To make the component more robust, the hollow core can be cast with high-density mineral foam, eventually making it strong enough to act as a load-bearing structure.” To date, Airlements can only be used as insulating parts for internal or external walls.
+
+Each individual prototype is printed in less than an hour and hardened for one week inside the fabrication environment with a controlled temperature of 20 – 28°C and relative humidity of 20 – 70 percent. Regulating air humidity and temperature is important to ensure the material hardens correctly and is not prone to fracture.
+
+## References
+
+Bedarf has developed a special climatic chamber for this: a large transparent tent-like structure inside which the robot moves along the predefined printing path. “There was mist and dust everywhere, and it was like being in a hot sauna,” he says, and points out that this new production method no longer requires energy-intensive processing. “This is an advance on earlier work with cement-free foams, which either had to be hardened with cement or by curing at high temperature in the oven afterwards.” The corrugated texture of Airlements provides extra stability during the hardening process and in their final state.
+
+Airlements could eventually be used in sustainable construction: on the one hand, the insulation materials reduce the building’s energy consumption. On the other hand, 3D printing produces less waste than traditional methods for manufacturing building parts and concrete formwork - which is damaging to the environment - is no longer required. Lastly, Airlements are completely cement-free, which ensures sustainable construction. “If the building part is no longer needed, it can be completely shredded and reduced back to dust, ready to be processed into new foam.”
+
+Bedarf now wants to continue to develop Airlements with FenX. A dedicated production line will be built in their factory in Turgi. “We will thoroughly analyse the load-bearing capacity and insulation properties to determine how this material acts as a wall element in a closed room. Infrared measurements will help us establish where the thermal insulation could be further improved, and how to eliminate any weaknesses by adjusting the printing path.”
+
+After completing his doctorate, Bedarf continues to teach in the bachelor’s course “Computational Design I&II”. He is excited by the possibility of inspiring the next generation of architects to think geometrically at the same time as being able to communicate with machines as well. “My work with Airlements has taught me a lot about building materials and the use of information technology. And I’ve really enjoyed testing which geometrical shapes are possible with the new process. It would be wonderful if I could inspire others as well.”
+
+Bedarf, P., Szabo, A., Zanini, M., Dillenburger, B.: “Robotic 3D Printing of Geopolymer Foam for Lightweight and Insulating Building Elements“. In: 3D Printing and Additive Manufacturing (2023), doi: 10.1089/3dp.2023.0183
+
+Conference paper “Airlements: a lightweight and insulating monolithic wall system made with mineral foam 3D printing” . In: Proceedings of the 43 rd Annual Conference of the Association for Computer Aided Design in Architecture, ACADIA (2023). Presentation at the ACADIA 2023 conference on 27 October 2023.
+

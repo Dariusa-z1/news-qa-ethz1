@@ -1,0 +1,28 @@
+# mit-googles-hilfe-%C3%B6kosysteme-vermessen
+
+## Kühlende Wirkung von Strassenbäumen
+
+Wer kennt sie nicht an hochsommerlichen Tagen: die Flucht vor der drückenden Hitze unter das breite Blätterdach eines Baums, um sich dort etwas Kühlung zu verschaffen? Während entsprechende Temperaturen in der Nordhemisphäre momentan kein Thema sind, müssen sich Bewohner tropischer Städte wie Singapur das ganze Jahr über damit auseinandersetzen, wie sie sich vor hoher Sonnenstrahlung schützen.
+
+Durch Schattenwurf und die kühlende Wirkung der Verdunstung bieten Bäume und Anlagen einen gewissen Schutz, besonders in städtischen Bereichen mit höheren Umgebungstemperaturen. Städtische Ökosysteme profitieren von Grünräumen wie Parks, Gärten und Fliessgewässern: Diese reduzieren die Überschwemmungsgefahr, kühlen das städtische Mikroklima und bilden urbane Erholungsräume. Darüber, dass Bäume und Pflanzen einen vorteilhaften Einfluss auf Stadträume ausüben, herrscht allgemein zwar Konsens. Doch lagen der Forschung bisher nur sehr wenige Daten vor für die Quantifizierung des Ausmasses, in welchem Strassenbäume städtische Ökosysteme regulieren.
+
+## Google Street View als Umwelt-Datensatz
+
+Die entsprechende Forschung konzentrierte sich bisher auf die gemässigten Zonen Europas und Nordamerikas. Aber wenig ist darüber bekannt, wie sich Bäume auf Ökosysteme in tropischen Ballungsräumen auswirken. Angesichts der enormen und noch zunehmenden Bevölkerungszahlen, zumal in «Megacities» wie Tokio, Schanghai oder Delhi mit mehr als 20 Millionen Menschen, ist es wichtig zu verstehen, wie grüne Räume zu städtischer Nachhaltigkeit beitragen können.
+
+Forscher im Future Cities Laboratory am Singapore-ETH Centre entwickelten nun eine Methode zur Kartierung und Quantifizierung des Einflusses von Strassenbäumen auf Ökosysteme. Sie extrahierten dazu nahezu 100'000 Bilder aus Google Street und analysierten diese Fotos mit einem Algorithmus in 50-Meter-Intervallen, um den Anteil der durch Baumkronen geleisteten Abdeckung in mehr als 80 Prozent des Singapurer Strassennetzes zu berechnen. Die Google-Street-View-Technologie ermöglichte es den Forschern, einen Standard-Datensatz von Panoramafotos und Strassenansichten zu erschliessen, der ein globales Positionierungssystem (GPS) verwendet, um Bilder mit bestimmten Orten zu verknüpfen.
+
+## In grünen Städten lebt sichs leichter
+
+Die hohe Auflösung der Bilder ermöglichte es den Forschern, das Mass an Sonnenstrahlung einzuschätzen, das die Erdoberfläche erreicht. «Neben der Abkühlung von städtischen Mikroklimata bieten diese in dichte städtische Strassennetze integrierten Bäume weitere Vorteile. So reduzieren sie die Überschwemmungsgefahr und wirken luftreinigend», sagt Peter Edwards, Forschungsleiter am Future Cities Laboratory und Direktor des Singapore-ETH-Centres. Eine Folgerung der Forschenden ist, dass die Vergrösserung der Abdeckung durch Strassenbaumkronen die Bodenoberflächen- und Lufttemperatur auf den Strassen Singapurs reduzieren könnte. Darüber hinaus kann die relative Grösse des Blätterdachs auch als Indikator für die Verdunstungskühlung dienen, welche die Baumblätter und der aufgefangene Niederschlag erzielen.
+
+«Die Studie zeigt, dass Bäume in Singapur extrem wichtig sind, um Schatten zu erzeugen, welcher das Wohlbefinden der Menschen in puncto Temperaturen beeinflusst. Bäume zu pflanzen mit dem Ziel, die Umwelt zu kühlen, ist deshalb besonders wichtig in tropischen Städten wie Singapur, die stark unter dem städtischen Hitzeinsel-Effekt leiden», sagt Projektkoordinator Dan Richards, Postdoktorand am Future Cities Laboratory.
+
+## Literaturhinweis
+
+Diese neue und relativ günstige Methode zur raschen Bemessung des von Baumkronen produzierten Schattens könnte Stadtplanern darin unterstützen, urbane Regionen mit (zu) wenig Schatten zu identifizieren und Prioritäten für das Pflanzen neuer Bäume zu setzen.
+
+Da Google Street View heute weltweit viele Städte erfasst, könnte die Methode ausserdem dazu genutzt werden, um den Anteil der durch Bäume bewirkten Abdeckung sowie der Sonneneinstrahlung in weiteren tropischen Städten zu quantifizieren. Und wenn Google-Street-View-Bilder spezifisch während der Vegetationsperiode gesammelt werden, eignet sich die Methode auch für Städte in gemässigten Zonen – um letztlich überall grünere und nachhaltigere Stadträume zu schaffen.
+
+Richards DR, Edwards PJ: Quantifying street tree regulating ecosystem services using Google Street View. Ecological Indicators 2017, doi: externe Seite 10.1016/j.ecolind.2017.01.028
+

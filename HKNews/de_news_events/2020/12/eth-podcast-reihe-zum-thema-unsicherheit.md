@@ -1,0 +1,10 @@
+# eth-podcast-reihe-zum-thema-unsicherheit
+
+## Main article
+
+Das vergangene Jahr war seltsam und anstrengend. Geduld und Ausdauer brauchen wir alle auf vielen Ebenen. Die Corona-Virus-Pandemie hat nicht nur die Art und Weise verändert, wie wir miteinander umgehen, arbeiten und studieren, sie hat auch in vielerlei Hinsicht Unsicherheit hervorgebracht.
+
+In der Dezember-Episode des ETH-Podcasts sprechen wir mit Tierry Hörmann, dem alten, und Luca Dahle, dem neuen Präsidenten des Dachverbands der Studierenden, VSETH, und wie sie sich für ihre Mitstudierenden einsetzen. ETH-Rektorin Sarah Springman zum Gespräch dazu und vergleicht diese Phase mit einem Triathlon, bei dem das Ziel nicht in Sicht ist. Alle drei Gäste sprechen auch über die wenigen positiven Aspekte der Krise.
+
+Die Folge zum Jahresende markiert den Beginn einer Podcast-Reihe zum Thema Unsicherheit. In den nächsten Folgen werden wir mit Forschenden und Studierenden über Unsicherheit im Bereich Klima sowie Cyber-Security sprechen.
+

@@ -1,0 +1,24 @@
+# nanokristall-solarzellen-besser-verstehen
+
+## Vielversprechend wegen Quanteneffekten
+
+Für die nächste Generation von Solarzellen stehen bei Wissenschaftlern wenige Nanometer kleine Kristalle hoch im Kurs. Aus solchen Nanokristallen aufgebaute Halbleiter haben vorzügliche optische Eigenschaften; sie nutzen im Vergleich zu heutigen Solarzellen aus Silizium einen viel grösseren Anteil des Sonnenlicht-Spektrums. Allerdings gibt es Hürden bei ihrer Entwicklung: «Nanokristall-Solarzellen bestehen aus einer Vielzahl unabhängiger Kristalle verbunden mit einem molekularen Bindemittel. Und innerhalb dieses Kompositmaterials fliessen die Elektronen noch nicht so gut, wie das für eine kommerzielle Anwendung nötig wäre», sagt Vanessa Wood, Professorin für Materialien und Komponenten an der ETH Zürich. Bis jetzt sei die Physik des Ladungstransportes in Nanokristall-Kompositen noch nicht komplett verstanden, weshalb die systematische Weiterentwicklung von Nanokristall-Kompositen schwierig war.
+
+Wood und ihre Kollegen untersuchten in einer Studie Nanokristall-Solarzellen, die sie in ihrem Labor an der ETH Zürich selbst herstellen, und sie beschrieben den Elektronenfluss in solchen Zellen erstmals in einem allgemein gültigen physikalischen Modell. «Unser Modell berücksichtigt die Auswirkung einer Änderung der Kristallgrösse, des Kristallmaterials oder des molekularen Bindemittels auf den Ladungstransport», sagt Wood. So wird das Modell künftig allen Wissenschaftlern des Forschungsfeldes erlauben, die physikalischen Vorgänge innerhalb von Nanokristall-Solarzellen besser zu verstehen und die Solarzellen weiter zu optimieren.
+
+## Wirkungsgrad muss erhöht werden
+
+Der Grund für die Begeisterung vieler Solarzell-Forscher für die winzigen Kristalle liegt in der Quantenphysik: Bei Nanokristallen kommen quantenphysikalische Effekte zum Tragen (die bei grösseren Kristallen keine Rolle spielen). So sind bei sehr kleinen Kristallen wichtige physikalische Eigenschaften von der Kristallgrösse abhängig. Und weil die Wissenschaftler diese Grösse im Herstellungsprozess steuern können, können sie auch die Eigenschaften der Nanokristall-Halbleiter beeinflussen und damit optimal auf deren Anwendung in der Solartechnologie ausrichten.
+
+Zu diesen beeinflussbaren Eigenschaften gehört, wie viel des einfallenden Lichts vom Halbleiter absorbiert und zu Strom umgewandelt wird. Halbleiter absorbieren grundsätzlich nicht das ganze Lichtspektrum der Sonne, sondern nur Strahlung mit einer Wellenlänge unterhalb einer materialabhängigen Maximal-Wellenlänge oder – anders ausgedrückt – Strahlung mit Energie oberhalb der sogenannten Bandlücken-Energie. In den meisten Halbleitern kann diese Grenze nur mit einer Änderung der chemischen Zusammensetzung der Materialien geändert werden. Bei Halbleitern aus Nanokristallen kann man diese Absorptionsgrenze jedoch auch über eine Änderung der Kristallgrösse ändern. Wissenschaftler können also bei der Herstellung der Nanokristalle deren Grösse so steuern, dass sie möglichst viel Licht aus einem möglichst grossen Bereich des Sonnenspektrums absorbieren.
+
+## Literaturhinweis
+
+Weitere Vorteile von Nanokristall-Halbleitern: Sie absorbieren sehr viel mehr Sonnenlicht als klassische Silizium-Halbleiter. Das Halbleitermaterial Bleisulfid, das die Forschenden für ihre experimentelle Arbeit verwendeten, hat im Vergleich dazu beispielsweise eine um mehrere Grössenordnungen höhere Absorption. Daher reicht für die Herstellung von Nanokristall-Solarzellen bereits wenig Material aus. Es ist folglich möglich, damit sehr dünne, flexible Solarzellen zu bauen.
+
+Das neue Modell der ETH-Forschenden beantwortet eine Reihe von bisher offenen Fragen. Zum Beispiel fehlte bisher ein experimenteller Beweis dafür, dass die Bandlücken-Energie des Nanokristall-Kompositmaterials von der Bandlücken-Energie der einzelnen Nanokristalle abhängt. «Wir haben nun erstmals im Experiment gezeigt, dass dem so ist», sagt Wood.
+
+In den vergangenen fünf Jahren haben Wissenschaftler den Wirkungsgrad von Nanokristall-Solarzellen stark erhöhen können, doch selbst die besten solcher Solarzellen haben immer noch einen tiefen Wirkungsgrad: Nur gerade neun Prozent der auf die Zelle treffenden Lichtenergie der Sonne wird in elektrische Energie umgewandelt. «Um an eine kommerzielle Anwendung denken zu können, ist ein Wirkungsgrad von mindestens 15 Prozent nötig», erklärt Wood. Die Arbeit ihrer Gruppe könnte nun helfen, den Elektronenfluss in den Zellen und aus den Zellen heraus zu erhöhen, somit mehr Strom herzustellen und damit den Wirkungsgrad zu erhöhen.
+
+Bozyigit D, Lin WMM, Yazdani N, Yarema O, Wood V: A quantitative model for charge carrier transport, trapping and recombination in nanocrystal-based solar cells. Nature Communications, 27. Januar 2015, doi: externe Seite 10.1038/ncomms7180
+

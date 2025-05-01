@@ -1,0 +1,52 @@
+# why-we-are-taking-a-stand-on-the-swiss-climate-protection-law
+
+## The Climate Protection Law will make Switzerland stronger
+
+Over 200 scientists at Swiss universities and research institutes support the country’s Climate Protection Law. All are experts in climate, energy, environmental and sustainability research or in climate-related areas of political science, the social sciences, humanities, economics and law. Together, they have now published a statement outlining their position. 1
+
+Climate change is a serious problem. It’s clear from the scientific facts, from the social impact of similar problems, and from other technical and economic analyses that in order to deal with the root cause of this problem, we need to reduce carbon emissions to net zero. Switzerland is committed to meeting this goal under the Paris Agreement. Our country and other industrialised nations share a responsibility here, since it is we who helped create this problem. Furthermore, we have the financial means and the technical tools to do something about it. It’s also true that Switzerland is a role model here – our actions can and will make a difference. Finally, if we commit to solving this problem, we will also benefit.
+
+We know from experience that individual responsibility and unsolicited innovation are never enough when it comes to tackling environmental problems. Looking at the major issues of the past – waste, sewage, air pollution, ozone depletion, phosphates, asbestos and the pandemic – we’ve always needed a political framework to ensure that everyone plays their part in achieving a solution from which everyone will then benefit. After years of political stalemate, voters will have the chance on 18 June 2023 to ensure that Switzerland takes an important step forward in the area of climate and energy policy.
+
+The Climate Protection Law 2 is well founded. It creates a binding commitment, provides security for long-term planning, promotes innovation that will meet future challenges and, at the same time, boosts the competitiveness of Swiss companies. In many areas, the Climate Protection Law continues along the path that internationally operating Swiss companies are already successfully pursuing today. It reduces the risks of climate change, increases energy security and helps make the world a more liveable place.
+
+In short, I and the over 200 scientists who support this proposal are of the firm belief that the Climate Protection Law will make Switzerland stronger. In our statement, we show why we’re supporting the proposal. 1
+
+## About the author
+
+Reto Knutti is Professor of Climate Physics at ETH Zurich
+
+In the past, scientists have often been criticised for becoming involved in political debate. The argument is that such activism and lobbying is not objective and, indeed, is profoundly anti-scientific. Scientists, it is said, should pursue their research without prejudice or bias, and they should refrain from political statements.
+
+I am one of those academics with a different understanding of their role. It’s precisely because we are scientists that we regard it as our duty to get involved – provided, of course, we possess the requisite expertise and argue our case from a scientific perspective. While politicians are happy to draw on our knowledge, this expertise is far less accessible to the general public. In referendums where scientific questions play a key role, it is vital and proper that scientists should comment on the issues involved and provide context.
+
+As researchers, our primary task is to elaborate basic principles. At the same time, however, we also develop solutions and provide support with decision-making. We also outline scenarios, evaluate options and analyse costs, benefits and risks – in line with the goals set by government and society. Yet not every situation can be viewed scientifically and isolated from other social concerns that might also be in play. Moreover, when it comes to climate change, research can no longer really afford to remain apolitical. On the one hand, the assertion that Switzerland must rapidly reduce its carbon emissions is merely the logical consequence of the laws of physics and the obligations that arise from Switzerland’s ratification of the Paris Agreement. Yet, on the other hand, such an assertion is also a call for action and, as such, a political statement.
+
+The idea that science should be completely value-free is neither possible nor desirable. While all research must conform to scientific principles and be objective and reproducible, it is also inevitably shaped by sociopolitical circumstances. The key is to be transparent about the values, priorities and criteria that underlie our interpretation, and also to discuss other possible positions. 3
+
+## Providing context
+
+Last but not least, science in the modern world also has a fact-checking role to play. At a time when targeted disinformation and alleged facts are propagated in billboard campaigns and even on official political party websites, researchers must employ their expertise to determine what is true and what is not. If we fail to do this, other actors with vested interests will proffer their own interpretations.
+
+The ETH Domain has a strategic mission to promote “engagement and dialogue with society”. 4 At the same time, government is seeking to intensify its dialogue with the scientific world. 5, 6 This requires transparency, mutual trust and an understanding of respective roles. Yet it is also inevitable that this will create tension in some areas.
+
+Taking a public stand may well affect our credibility in certain circles. 7 The price of silence, however, is much higher – not only for the planet and society, but also for the precious role that facts and science play in political and media debate.
+
+We regard the Climate Protection Law as an important step in the right direction. That’s why we’re actively engaging in this debate and attempting to shape public opinion.
+
+1 Statement on the Climate Protection Law by scientists at Swiss universities.
+
+## The need for dialogue and communication
+
+2 “ Bundesgesetz über die Ziele im Klimaschutz, die Innovation und die Stärkung der Energiesicherheit ” (Federal Law on Climate Protection Goals, Innovation and Strengthening Energy Security) and Klimaschutzgesetz-ja.ch .
+
+3 Université de Lausanne (Competence Centre in Sustainability): Research and public engagement of researchers .
+
+4 ETH Board: “Joint initiatives” of the institutions of the ETH Domain: “ Engagement and Dialogue with Society ”.
+
+5 Federal Chancellery: Federal Council wishes to make better use of scientific potential in times of crisis .
+
+6 The Swiss Parliament: Motion proposed by Othmar Reichmuth: Strengthening the involvement of science in climate policy .
+
+7 Arthur Lupia: “Political endorsements can affect scientific credibility” . Nature , “News and Views” (20 March 2023).
+

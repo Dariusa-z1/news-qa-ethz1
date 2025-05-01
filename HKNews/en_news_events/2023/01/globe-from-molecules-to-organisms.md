@@ -1,0 +1,60 @@
+# globe-from-molecules-to-organisms
+
+## The right chemistry
+
+Since time immemorial, humanity has pondered the question of how life on Earth first began. Ancient cultures declared the creation of the world and the origin of life to be the work of gods and other divine beings. Science has always taken a different route. Drawing on the fundamental laws of physics, chemistry and biology, generations of researchers have advanced theories and hypotheses about the origin of life. In the process, they have amassed a vast fund of knowledge.
+
+"Our fascination with such questions is deeply rooted in Western culture," says Roland Riek, Professor of Physical Chemistry at ETH Zurich. "It’s a question of faith, but presented as a scientific hypothesis." Riek, who also has a background in physics and biology, is interested in the question of which chemical building blocks were involved in the emergence of life.
+
+For Riek, there is considerable evidence that the initial chemical processes that gave rise to living organisms on Earth – a few hundred million years after our planet came into being – must have involved amino acids and the peptides formed from these in the presence of volcanic gas. These are, he explains, stable and capable of withstanding very high temperatures. Furthermore, amino acids are relatively easy to produce – as other researchers have been able to demonstrate in a variety of "primordial soup" experiments. They are also found on meteorites. These, however, bear little trace, relatively speaking, of any of the building blocks of ribonucleic acids (RNA), which most scientists consider to be the molecules that first created the conditions for life on Earth.
+
+## The first cell
+
+"Peptides have the same capabilities as RNA: they can self-replicate but without the need for the high degree of precision that is involved in RNA replication," Riek explains. "And, like RNA, peptides not only store and relay information but are also catalytically active." Work at his lab includes a study of how amyloids can form from simple peptides.
+
+Amyloids are very tough, largely undecomposable molecular complexes that are always made up of the same peptides. Such peptide complexes can store and relay information. And they grow like crystals.
+
+Moreover, amyloids can easily dock onto RNA molecules. "It seems to me that the early picture might have looked something like this: there were amino acids, peptides and then also amyloids, which at some point bumped into RNA and combined with it," Riek says. "Over time, this combination evolved into an organism."
+
+## From primitive to complex
+
+These chemical building blocks could have crossed paths in hydrothermal vents in the deep sea or in primeval tide pools, where they became concentrated as a result of evaporation. Such high concentrations may then have led to spontaneous synthesis of more-complex molecules. "That wouldn’t happen in the ocean, because there the dilution is far too great," Riek explains.
+
+Scientific understanding of how the first cell formed is far sketchier. "We’ve got very little to go on," Riek admits. The key seems to have been the formation of vesicles within the primordial soup and its rich brew of molecules. For this, fatty acids were required. These precursors of lipids can spontaneously accumulate to form membranes and thereby create small enclosed compartments. In effect, this created reaction vessels, isolated from the primordial soup, where these molecules could become even more concentrated. These vesicles would have greatly facilitated and accelerated any ensuing chemical reactions.
+
+"Vesicle formation was probably also key to the emergence of single-celled organisms. These provided an environment in which more complex molecules such as RNA could further replicate, eventually producing a metabolism that generated enough energy to accelerate the replication processes and enhance the transmission of genetic information," explains Martin Pilhofer, Associate Professor at the Institute of Molecular Biology and Biophysics, ETH Zurich. "It’s not clear how long this phase lasted," he adds. "The further back we go, the less we know or can postulate about the Earth’s history." Nor is it possible to determine exactly when the first unicellular organisms appeared. Fossilised bacteria indicate this was around 3.5 to 4 billion years ago. What’s certain, however, is that there was already life on Earth 3 billion years ago. It seems likely that single-celled organisms first appeared in places that offered an exogenous source of energy – near hydrothermal vents in the deep sea or hot springs like those in Yellowstone National Park. It was only as they developed their own metabolism that unicellular organisms were able to become independent of this exogenous source of energy and venture into new habitats.
+
+## From the deep sea
+
+Dwelling in the vicinity of such hydrothermal vents, unicellular organisms could have quickly evolved along a variety of paths. "We suspect that in such extreme locations single-celled organisms developed into either bacteria or archaea soon after their emergence," Pilhofer says.
+
+Most bacteria and archaea – once also known as archaebacteria or primordial bacteria – are unicellular organisms without a nucleus. They form two major domains in the phylogenetic tree. The third is assigned to Eukarya. Unlike bacteria and archaea, eukaryotes have a cell nucleus, which is where the hereditary material DNA is stored. A further characteristic of eukaryotes is that they feature membrane-enclosed cell compartments such as mitochondria or chloroplasts.
+
+Researchers have long sought to determine how eukaryotes could have emerged from bacterial or archaeal microbes. A popular thesis is that a host cell "swallowed" a bacterium. This then evolved over time into a mitochondrion, which provided the eukaryote with energy. "There’s no doubt that such an event occurred," Pilhofer says.
+
+## About
+
+A further event may well have resulted in a photosynthetically active cyanobacterium being assimilated into a cell and thereby becoming a chloroplast, the organelle that performs photosynthesis in green plants and algae.
+
+However, it was long unclear what this host cell – the precursor of a eukaryote – might have been. The fog began to clear a few years ago with the publication of new findings about a primordial group of archaea that had only just been discovered.
+
+This group was found in a field of deep-sea hydrothermal vents by the name of Loki’s Castle, where water spews out of rock chimneys at a temperature of 300 degrees Celsius. Located in the North Atlantic at a depth of 2,300 metres, Loki’s Castle was only discovered in 2008. That same year, Swedish researchers removed sediment samples and analysed them for genetic material. This enabled them to reconstruct the genomes of unknown organisms. "Their findings have revolutionised the way we look at the tree of life," Pilhofer says.
+
+## Globe The origins of life
+
+The genomes indicated a new group of archaea that was initially labelled Lokiarchaeota after the place they were found but later, following further genomic and morphological studies, assigned as a class to Asgardarchaeota.
+
+These newly described microorganisms indicated that Eukarya was not a separate domain after all, but rather a subdomain of Asgardarchaeota. As Pilhofer explains: "The genome of Asgardarchaeota contains some genes that typically we only know from Eukarya. An important example of this is the gene carrying the genetic information for the cytoskeletal protein actin. That means that archaea have proteins that have previously been found only in eukaryotes."
+
+The microbiologist, who specialises in cytoskeletons, has a theory about how the primordial Asgard archaeon was able to capture a bacterium. He suggests it may have had tentacles supported by actin filaments, which it used to investigate its surroundings and interact with other organisms.
+
+In such extreme locations, archaea and bacteria frequently grow in so-called microbial mats – a densely packed environment rich in different species of microorganisms. This leads to countless interactions among individual organisms and different species. Using its tentacles, an Asgard archaeon could have embraced a bacterium and then assimilated it. "In other words, it may well have been a primordial Asgard archaeon that laid the foundations for the development of eukaryotic cells," Pilhofer explains.
+
+Together with his research group, he is using an electron microscope to create high-resolution images of Asgard archaea. This is because the images available so far are not sharp enough to determine whether the organisms indeed possess a cytoskeleton.
+
+ETH researchers also want to find out what the cell membrane of Asgard archaea looks like and whether the cells have a special internal membrane system. "This work will help us better understand how a host cell that once fused with a bacterium was able to evolve into a complex eukaryotic cell," Pilhofer says.
+
+Roland Riek is Professor of Physical Chemistry in the Department of Chemistry and Applied Biosciences and Associate Director of the Centre for Origin and Prevalence of Life ( COPL ) at ETH Zurich.
+
+Martin Pilhofer is Associate Professor of Cryo-Electron Microscopy at the Institute of Molecular Biology and Biophysics, ETH Zurich.
+

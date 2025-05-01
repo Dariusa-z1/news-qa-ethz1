@@ -1,0 +1,30 @@
+# dimpora-non-polluting-membranes-for-outerwear
+
+## Based on water filters
+
+Outdoor sports are booming – as is the entire sports apparel segment. Demand for breathable and waterproof rain jackets is particularly high, as people like to be outdoors whatever the weather. The drawback is that this type of clothing often uses membranes containing toxic fluorine compounds that can be damaging to health and the environment.
+
+Mario Stucki was keen to change this. A few years ago, while working on his Master’s project at ETH Zurich, he developed an environmentally friendly membrane free of fluorine compounds, but just as water-resistant and breathable as conventional membranes.
+
+He has since continued to develop this concept and has joined forces with the ETH doctoral student and chemical engineer Anna Beltzung to establish the spin-off Dimpora. A Swiss venture capital organisation, Venture Kick, has just awarded the pair 100,000 Swiss francs to develop their idea, on top of the 30,000 Swiss francs already paid to the young entrepreneurs last year.
+
+## Tests with athletes
+
+Stucki came up with the idea of creating a membrane for outdoor clothing while working on his Master’s project in the research group headed by Wendelin Stark, Professor for Functional Materials Engineering at ETH Zurich. Amongst other things, this group is researching nanoporous materials that are suitable as (water) filters. Membranes for outdoor wear are based on the same principle: they consist of minute pores that allow body moisture released while sweating to pass out through the membrane but stop the much bigger droplets of water from coming in.
+
+At the time, it only took Stucki 16 weeks to develop a nanoporous membrane that is fluorine free and thus non-polluting when disposed of. Not satisfied with that, Stucki wanted to know whether the material would prove itself in real-life situations and worked with a designer and a textile manufacturer to produce a jacket prototype coated with his membrane.
+
+He continued to develop the product, initially as part of his doctoral project but then also as a business idea after finishing his dissertation in September 2017. Half a year later, in May 2018, he met with Anna Beltzung. She was looking for a job, and Stucki asked her whether she would like to collaborate on the commercialisation of his product. The pair founded Dimpora at the start of this year.
+
+## Additional products in the pipeline
+
+The focus now is on continuing to develop the membrane for use as a laminated textile in sports and outdoor clothing. The new product is based on polyurethane (PU). It is already so far advanced that it can be incorporated into jacket prototypes for testing by athletes. Based on their feedback, Stucki and Beltzung want to continue to improve the membrane and hopefully bring it to market for sports and outdoor clothing brands by the end of the year.
+
+“Our aim is not to manufacture our own clothing containing our membrane, but to buy in textiles, laminate them with the membrane and sell the product on to manufacturers of outerwear and sportswear,” Stucki says.
+
+There is a good chance that Dimpora’s membranes could take the market by storm. There is very strong industry interest because there have been almost no new products since the late 1990s. But now there are emerging signs of a shake-up in the business, with new technologies possibly emerging on the market, according to the ETH graduate. A major outdoor brand recently announced the launch of a new membrane. The global market volume for breathable and water-resistant laminates is currently worth around 1.5 billion Swiss francs.
+
+The young entrepreneurs are not stopping with the PU membrane. They also have their eye on a completely biodegradable membrane, which forms part of a biodegradable laminate where the upper material layer and the glue sticking the laminate together are also biodegradable. “In principle the product is compostable at the end of its useful life,” Stucki says. But they still need more time to work on such a novel membrane.
+
+Also under development is a membrane that can be retrofitted to a finished garment. Such a product could be used, for example, to render old jackets water-resistant. But Stucki cannot (and will not) give away too much information about that for the moment. “The product is still in its infancy, and it will certainly take another two years to turn the concept into reality. Our PU-based membrane has priority,” the company’s founder emphasises.
+

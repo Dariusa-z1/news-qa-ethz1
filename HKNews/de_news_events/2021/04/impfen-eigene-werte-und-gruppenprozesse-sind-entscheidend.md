@@ -1,0 +1,38 @@
+# impfen-eigene-werte-und-gruppenprozesse-sind-entscheidend
+
+## Wie sich psychologische Sicherheit auswirkt
+
+(Bild: ETH Zürich)
+
+Auf den ersten Blick scheint es paradox: Gerade beim Fachpersonal in Spitälern, das ja unmittelbar von der Corona-Pandemie betroffen ist und wegen der vielen von Patientinnen und Patienten bereits an die Belastungsgrenze kam, ist die Impfbereitschaft nicht besonders hoch. Obwohl unterdessen der Anteil von Impfwilligen auf rund 75 Prozent gestiegen ist, stelle ich mir die Frage, ob dieser Anteil hoch genug ist und wie man ihn vielleicht sogar noch erhöhen könnte.
+
+## Sowohl positive wie negative Effekte
+
+Wir haben in einer Studie das Grippeimpfverhalten von Ärzten und Ärztinnen untersucht. In vielen Krankenhäusern in Europa sind die Beschäftigten im Gesundheitswesen nicht verpflichtet, sich gegen die saisonale Grippe impfen zu lassen – obwohl dies Krankenhausinfektionen nachweislich verringern würde. Was uns interessierte: Was für eine Rolle spielt dabei das Klima im Team?
+
+Viele leistungsstarke Teams haben Eines gemeinsam: Sie verfügen über das, was wir psychologische Sicherheit nennen. Dabei handelt es sich um eine bestimmte Art von Teamklima, bei dem sich die Mitglieder sicher fühlen, sie selbst zu sein. Sie gehen mehr zwischenmenschliche Risiken ein, indem sie beispielsweise um Hilfe bitten, Verbesserungen vorschlagen oder Fehler eingestehen. Studien haben gezeigt, dass psychologische Sicherheit eine wichtige Grundlage ist, wenn es darum geht, dazuzulernen und innovativ zu sein.
+
+## Konstruktive Auseinandersetzung suchen
+
+In unserer Studie¹ interessierten wir uns dafür, wie sich die psychologische Sicherheit im Team auf das individuelle Verhalten auswirkt. Wir nahmen dabei an, dass psychologische Sicherheit innerhalb eines Arbeitsteams das Verhalten der einzelnen Teammitglieder beeinflussen kann, weil es leichter wird, der persönlichen Einstellung treu zu bleiben.
+
+Wir wissen, dass die psychologische Sicherheit in einem Team die Angst vor negativen Reaktionen anderer Teammitglieder verringert. Das kann bedeuten, dass einzelne Teammitglieder auch eher bereit sind, sich in einer Weise zu verhalten, die ihren persönlichen Werten entspricht, selbst wenn dieses Verhalten den im Team vertretenen Werten widerspricht. Sie fühlen sich also wohler dabei, wenn sie nach ihren persönlichen Überzeugungen handeln – auch wenn diese nicht den übergeordneten Zielen entsprechen.
+
+## Referenzen
+
+Das Impfverhalten ist ein guter Test, um unsere Annahmen zu überprüfen. In einem Schweizer Kantonsspital haben wir die Meinung von Ärzten und Ärztinnen zur Grippeimpfung, ihre Wahrnehmung der psychologischen Sicherheit im Team und ihre Absicht, sich in der kommenden Saison impfen zu lassen, gemessen. Drei Monate später fragten wir sie, ob sie sich inzwischen geimpft hatten.
+
+Die psychologische Sicherheit beeinflusste den Zusammenhang zwischen der eigenen Haltung zur Impfungen und der Absicht, sich impfen zu lassen. Wenn Ärztinnen und Ärzte eine positive Einstellung zur Impfung hatten und eine hohe psychologische Sicherheit in ihrem Team wahrnahmen, bestärkte sie das noch in ihrer Absicht, sich impfen zu lassen. Interessanterweise funktionierte das auch umgekehrt: Personen mit einer negativen Einstellung zur Impfung und einer hohen wahrgenommenen psychologischen Sicherheit hatten eine besonders geringe Absicht, sich impfen zu lassen. Der Zusammenhang zwischen Absicht und tatsächlichem Verhalten war dabei generell stark.
+
+## Zum Autor
+
+Unsere Ergebnisse zeigen, dass die psychologische Sicherheit eine etwas ambivalente Sache ist. Sie scheint ein Klima zu fördern, in dem sich die Teammitglieder sicher fühlen, entsprechend ihrer Einstellung zu handeln. Wenn diese Einstellung aber nicht im Einklang mit Teamnormen oder organisationalen Zielen steht, kann psychologische Sicherheit auch abträgliches Verhalten fördern.
+
+Übertragen auf die jetzige Situation der Covid-19 Impfungen heisst das, dass die derzeitige Impfbereitschaft immer auch durch die jeweilige soziale Situation beeinflusst wird. Dabei scheinen wir uns nicht unbedingt an die Normen der Gruppe zu halten, der wir uns zugehörig fühlen, sondern fühlen uns durch ein unterstützendes Klima in der Gruppe darin bestärkt, unseren eigenen Einstellungen entsprechend zu handeln. Wollen wir nun beim Spitalpersonal und auch in der Bevölkerung die Impfbereitschaft steigern, sollten wir uns nicht davor scheuen, eine offene Auseinandersetzung zu suchen. Teamgeist, der auf Konfliktvermeidung beruht, kann uns in Haltungen verharren lassen, die letztlich für das Gemeinwohl schädlich sind.
+
+Gudela Grote hat diesen Beitrag zusammen mit Manuel Stühlinger und Jan B. Schmutz verfasst.
+
+¹ Stühlinger M., Schmutz J, Grote G. (2021): To Get Vaccinated or Not? Psychological Safety as a Catalyst for the Alignment Between Individual Beliefs and Behavior. Group & Organization Management 2021. Vol. 46. 38-96. doi: externe Seite 10.1177/1059601120983964
+
+Gudela Grote Professorin für Arbeits-​​ und Organisationspsychologie an der ETH Zürich
+

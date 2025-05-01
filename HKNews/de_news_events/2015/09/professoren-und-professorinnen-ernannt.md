@@ -1,0 +1,78 @@
+# professoren-und-professorinnen-ernannt
+
+## Ernennungen
+
+Wie der ETH-Rat mitteilt, hat er an seiner Sitzung vom 23. und 24. September 2015 auf Antrag des Präsidenten der ETH Zürich, Lino Guzzella, neun Personen zum Professor an der ETH Zürich ernannt, den Rücktritt von acht Professoren und Professorinnen mit Verdankung zur Kenntnis genommen und drei Professorentitel verliehen.
+
+Ioannis Anastasopoulos. (Bild: zvg)
+
+Prof. Dr. Ioannis Anastasopoulos (*1976), zurzeit Professor an der University of Dundee in Schottland, zum ordentlichen Professor für Geotechnik. Ioannis Anastasopoulos ist ein international renommierter Wissenschafter mit fundiertem Know-how in numerischer und physikali­scher Modellierung. Zusätzlich verfügt er über industrielle Erfahrung und innovative Forschungsideen im Bereich der geotechnischen Erdbebeningenieurwissenschaften und in der Offshore-Geotechnik. Er ergänzt die bestehende Expertise im Departement Bau, Umwelt und Geomatik in idealer Weise. Ioannis Anastasopoulos wird dazu beitragen, die Spitzenposition der ETH Zürich in geotechnischen Fragestellungen, wie etwa der Widerstandsfähigkeit von Bauten gegen Erdbeben, zu festigen.
+
+Yaakov Benenson. (Bild: Giulia Marthaler)
+
+Prof. Dr. Yaakov Benenson (*1975), zurzeit Tenure-Track-Assistenzprofessor an der ETH Zürich, zum ausserordentlichen Professor für Synthetische Biologie. Yaakov Benenson gilt als einer der führenden Nachwuchswissenschafter auf dem Gebiet der Synthe­tischen Biologie, einer neuen Wissenschaft. Diese entwickelt durch funktionale Kombination von molekularen Einzel­komponenten künstliche biologische Systeme, die neue Einsichten in Krankheiten und neuartige Therapieansätze ermöglichen. Yaakov Benenson gelang es erstmals, einen solchen molekularen biologischen Computer zu konstruieren. Mit seiner Berufung zum ausserordentlichen Professor verstärken die ETH Zürich und ihr Departement Biosysteme in Basel den strategischen Forschungsschwerpunkt der Synthetischen Biologie.
+
+Benjamin Dillenburger. (Bild: Emma McIntyre)
+
+Prof. Benjamin Dillenburger (*1977), zurzeit Assistenzprofessor an der University of Toronto, Ontario, Kanada, zum Assistenzprofessor für Digitale Bautechnologien. Benjamin Dillenburger hat sich durch herausragende Arbeiten zur Erschliessung innovativer Bereiche des Bauens international Beachtung verschafft. Seine auf der Basis digitaler Entwurfs- und Fabrikationsprozesse formulierten Thesen stellen klassische Paradigmen in Frage. Ein Schwerpunkt seiner Forschung ist das 3D-Drucken im Architektur­bereich. Dabei fokussiert er auf die Unter­suchung der spezifischen Leistungsfähigkeit und der tektonischen Möglich­keiten hochauflösender additiver Druckprozesse. Benjamin Dillenburger verfügt über das Potenzial, die zukünftige Architekturproduktion massgeblich zu prägen.
+
+Marco Hutter. (Bild: zvg)
+
+## Verleihung des Titels «Professor»
+
+Dr. Marco Hutter (*1985), zurzeit stellvertretender Laborleiter an der ETH Zürich, zum Tenure-Track-Assistenzprofessor für Robotersysteme. Marco Hutter ist ein weltweit anerkannter Vordenker im Bereich des maschinellen Laufens. Sein Fokus liegt auf neuartigen Konzepten von seriell-elastischen Antriebs­systemen, die ein äusserst effizientes und dynamisches Laufen und Rennen von vierbeini­gen Robotern ermöglichen. Ein von seinem Team entwickeltes Antriebsmodul wird in naher Zukunft in der industriellen Fertigung von Schreitbaggern eingesetzt werden. Marco Hutters Berufung wird die Spitzenposition der ETH Zürich in der Forschung auf dem Gebiet der Robotik weiter ausbauen und die beiden Nationalen Forschungsschwerpunkte Digitale Fabri­kation und Robotik massgebend stärken.
+
+Christoph Keller (Bild: zvg)
+
+Dr. Christoph Keller (*1981), zurzeit Postdoktorand an der Rutgers University, New Jersey, USA, zum Assistenzprofessor für Mathematische Physik. Christoph Keller ist ein international anerkannter theoretischer Physiker. Seine Arbeiten kombinieren äusserst erfolgreich physikalische Intuition mit Methoden der modernen Mathematik. Aufsehen erregte er insbesondere mit seinen Arbeiten zu konformen Feldtheorien und ihren Anwendungen in der Stringtheorie. Er gilt zudem als begabter Dozent, der selbst komplexeste Sachverhalte zu erläutern und die Studierenden für seine Forschungsinteressen einzunehmen vermag. Christoph Kellers Berufung an die ETH Zürich soll die traditionell enge Beziehung zwischen den Depar­tementen Mathematik und Physik weiter stärken.
+
+Alexander Mathys. (Bild: zvg)
+
+Dr. Alexander Mathys (*1979), zurzeit Abteilungsleiter am Deutschen Institut für Lebensmitteltechnik in Niedersachsen, zum Tenure-Track-Assistenzprofessor für Nachhaltige Lebensmittel­verarbeitung. Alexander Mathys ist ein renommierter Experte für thermische und nicht-thermische Haltbarmachungs­verfahren. Weitere Forschungsschwerpunkte sind die Skalierbarkeit von Prozessen über Ansätze aus der Mikroverfahrenstechnik, alter­native Proteinquellen aus Algen und Insekten sowie Lebenszyklus­analysen zur Nachhaltig­keitsbewertung von Wertschöpfungsketten. Mit der Berufung von Alexander Mathys verstärkt die ETH Zürich ihren Schwerpunkt Lebensmittelwissenschaften und Ernährung mit dem Gebiet der nach­haltigen Lebensmittelverarbeitung.
+
+Christoph Müller. (Bild: Giulia Marthaler)
+
+Prof. Dr. Christoph Müller (*1978), zurzeit Tenure-Track-Assistenzprofessor an der ETH Zürich, zum ausserordentlichen Professor für Energiewissenschaft und Engineering. Christoph Müller ist ein anerkannter Nachwuchswissenschafter mit internationaler Ausstrahlung. Er beschäftigt sich mit Forschungsproblemen an der Schnittstelle zwischen Maschinen- und Chemieingenieurwissenschaften. Sein Ziel ist, neue Verfahren der Energieum­wandlung mit massiv reduziertem CO 2 -Ausstoss zu entwickeln. Mit Christoph Müllers Berufung zum ausserordentlichen Professor erhält sich die ETH Zürich einen ausgezeichneten Spezialisten, der einen wesentlichen Beitrag zu ihrer Forschungskompetenz in einer Fachrichtung von besonderer Bedeutung für die weltweite Energiezukunft leisten wird.
+
+Onur Mutlu. (Bild: zvg)
+
+## Verabschiedungen
+
+Prof. Dr. Onur Mutlu (*1978), zurzeit ausserordentlicher Professor an der Carnegie Mellon University, Pittsburgh, USA, zum ordentlichen Professor für Informatik. Onur Mutlu gilt im Bereich Computer Engineering als einer der vielversprechendsten Wissenschafter weltweit und hat sich mit Beiträgen zu Topkonferenzen ein hohes Renommee erarbeitet. Seine Forschung befasst sich mit dem Design von schnellen, skalierbaren und energieeffizienten Computern und insbesondere ihrer Speicher­architektur. Weitere Forschungsthemen sind biologi­sches Rechnen und bioinspirierte Systeme. Onur Mutlus Berufung stärkt den Bereich Computersysteme der ETH Zürich. Zudem ergeben sich interessante Querverbindungen zu aktuellen Forschungsfragen wie Datenzentren, Netzwerke und Betriebssysteme.
+
+Gunnar Rätsch. (Bild: zvg)
+
+Prof. Dr. Gunnar Rätsch (*1973), zurzeit ausserordentlicher Professor am Memorial Sloan Kettering Cancer Center in New York, USA, zum ordentlichen Professor für Biomedizininformatik. Gunnar Rätsch ist ein international renommierter Spezialist für Medizin- und Bioinformatik. Er entwickelt modernste statis­tische Verfahren, um Gene in genomischen Sequenzdaten zu entdecken und damit medizi­nische Informationen zu extrahieren. Dieses Wissen verknüpft er mit grossen Datenmengen etwa aus Spitalarchiven und trägt so dazu bei, die personalisierte Medizin voranzutreiben. Mit der Berufung von Gunnar Rätsch verstärkt die ETH Zürich gezielt die Forschung und Lehre an der Schnittstelle zwischen Informationstechno­logie und Medizin sowie parallel dazu den strategischen Schwerpunkt Big Data.
+
+Takashi Ishikawa. (Bild: zvg)
+
+Dr. Takashi Ishikawa (*1967), Lehrbeauftragter an der ETH Zürich und Gruppenleiter am Paul Scherrer Institut (PSI), zum Titularprofessor der ETH Zürich. Takashi Ishikawa hat massgeblich zur Entwicklung der strukturbezogenen Elektronenmikroskopie an der ETH Zürich beigetragen. Er nimmt in der Anwendung dieser Technologie auf biologische Fragestellungen weltweit eine Führungsrolle ein.
+
+Stefanie D. Krämer. (Bild: Edith Föhr)
+
+Dr. Stefanie D. Krämer (*1964), Lehrbeauftragte und Leitende Wissenschaftliche Mitarbeiterin an der ETH Zürich, zur Titularprofessorin der ETH Zürich. Stefanie Krämer leistet wesentliche Beiträge zu den Lehrveranstaltungen des Instituts für Pharmazeutische Wissenschaften. Ihre wissenschaftlichen Arbeiten finden international hohe Anerkennung.
+
+Christoph Vorburger. (Bild: Giulia Marthaler)
+
+## Keine News verpassen
+
+Prof. Dr. Christoph Vorburger (*1971), ab Oktober 2015 Gruppenleiter an der Eawag in Dübendorf, zum Titularprofessor der ETH Zürich. Christoph Vorburger ist ein international angesehener Evolutionsbiologe und ein exzellenter Hochschullehrer. Seine SNF-Assistenzprofessur am Departement Umweltsystemwissenschaften der ETH Zürich läuft Ende September 2015 aus.
+
+Prof. Dr. Pius Baschera (*1950), zurzeit ordentlicher Professor für Unternehmensführung, wird Ende Januar 2016 pensioniert werden. Parallel zu seiner erfolgreichen Wirtschaftskarriere wirkte Pius Baschera seit 1998 als Lehrbeauftragter an der ETH Zürich. 2006 ernannte der ETH-Rat den Maschineningenieur und Betriebswissenschafter zum ordentlichen Professor. Konzipiert wurde seine Position im Sinne einer Professor of Prac­tice mit reduziertem Beschäftigungsgrad. Die ETH Zürich stellt auf diese Weise die Verbindung von Forschung und praktischem Management sicher. Pius Baschera fokussierte seine Tätigkeit als Dozent auf Vorlesungen zu Innovationsmanagement und auf praxisbezogene Fallstudien zu Strategie­entwicklung und -umsetzung. Seine Veranstaltungen waren äussert beliebt.
+
+Prof. Dr. Bertram Batlogg (*1950), zurzeit ordentlicher Professor für Physik der kondensierten Materie, wird auf Ende Januar 2016 in den Ruhestand treten. Bertram Batlogg wurde nach einer erfolgreichen internationalen Forschungskarriere im Jahr 2000 an die ETH Zürich berufen. Seine in höchsten Fachkreisen anerkannten und preisgekrönten Forschungstätigkeiten liegen im Bereich der experimentellen Festkör­perphysik mit Schwerpunkt auf neuen Materialien und deren elektrischen, magnetischen und optischen Eigenschaften. Es gelang ihm, Grundlagenwissen zu erweitern und dieses für praktische Anwendungen nutzbar zu machen. Seit einigen Jahren widmet Bertram Batlogg sich zudem Fragen rund um organische Molekülkristalle und organische Halbleiter.
+
+Prof. Dr. Roman Boutellier (*1950), zurzeit ordentlicher Professor für Innovations- und Technologie­management und Vizepräsident für Personal und Ressourcen, wird Ende Dezember 2015 in den Ruhestand treten. Roman Boutellier ist eine der wenigen Personen in der Schweiz, die sowohl in der Wissenschaft als auch in der Wirtschaft auf Spitzenpositionen berufen wurden. In namhaften Industriefirmen war er für verschiedene verantwortungsvolle Aufgaben zuständig und wirkt bis heute in den Verwaltungsräten internationaler Unternehmen. Seine wissenschaftliche Karriere führte ihn an die Universität St. Gallen, wo er 1993 zum ordentlichen Professor gewählt wurde. Im März 2004 ernannte ihn der ETH-Rat zum ordentlichen Professor an der ETH Zürich, ab 2005 leitete er das Nachdiplomstudium in Betriebswissenschaften, und Anfang Oktober 2008 nahm er Einsitz in die Schulleitung. Roman Boutellier trug sowohl als Professor als auch in seiner Managementfunktion wesentlich dazu bei, die ETH Zürich in strategisch zentralen Bereichen wie Immobilien, Personal oder IT-Infrastruktur zu stärken und ihre Stellung als internationale Spitzenhochschule auszubauen. Wichtige Akzente setzte er bei der Entwicklung des Hochschulgebiets im Zentrum von Zürich, beim Ausbau des Standorts Hönggerberg sowie mit den Neubauten für das nationale Hochleistungsrechenzentrum CSCS in Lugano und das Departement Biosysteme der ETH in Basel.
+
+Prof. Dr. Uta Hassler (*1950), zurzeit ordentliche Professorin für Denkmalpflege und Bauforschung, wird Ende Januar 2016 pensioniert. Uta Hassler wurde im Juni 2005 an die ETH Zürich berufen. Sie gehört europaweit zu den führenden Persönlichkeiten im Bereich Denkmalpflege. In ihrem Werk widmete sich Uta Hassler dem ganzen Spektrum denkmalpflegerischer und baugeschichtlicher Forschung. Besondere Schwerpunkte setzte sie auf die Ent­wicklung neuer Methoden zur baulichen Bestandsanalyse sowie auf die Gewinnung neuer Perspektiven für eine nachhaltige Bestandspolitik. Mit ihrem interdisziplinären Ansatz konnte Uta Hassler das Profil des Instituts für Denkmalpflege weiter schärfen und die Forschungsaktivität des Departements Architektur um zukunftsträch­tige Schwerpunkte ergänzen.
+
+Prof. Dr. Ottmar Holdenrieder (*1954), zurzeit ordentlicher Professor für Forstschutz und Dendrologie, wird sich Ende August 2016 frühzeitig pensionieren lassen. Nach verschiedenen internationalen Stationen wurde Ottmar Holdenrieder 1990 als ausserordentlicher Professor an die ETH Zürich berufen. Im Oktober 1997 folgte die Beförderung zum ordentlichen Professor. Schwerpunkte seiner Forschung waren Pilzkrankheiten an Waldbäumen, die Differentialdiagnostik von Baumkrankheiten und die Biodiversität bei Gehölzpflanzen. Der Fachbereich Forst­schutz und Dendrologie an der ETH Zürich hat unter Ottmar Holdenrieder eine aufstrebende Entwicklung erfahren und international eine Spitzen­stellung im Bereich der forstlichen Pilzwissenschaften errin­gen kön­nen.
+
+Prof. Dr. Bertrand Meyer (*1950), zurzeit ordentlicher Professor für Software Engineering, wird Ende Januar 2016 pensioniert. Bertrand Meyer wurde im Oktober 2001 vom ETH-Rat zum ordentlichen Professor an der ETH Zürich gewählt. Seine Arbeit umfasste verschiedene Aspekte des Software Engineering und kon­zentrierte sich insbesondere auf Methoden, Techniken, Sprachen und Werkzeuge für die Ver­besserung der Softwarequalität. Er verstand es hervorragend, seine Forschungsresultate für die Praxis nutzbar zu machen. Eine von ihm entwickelte Software wird heute weltweit von Unternehmen und staatlichen Stellen eingesetzt. Bertrand Meyer verfasste zudem neben Fachartikeln diverse viel beachtete Sachbücher zum Thema Software Engineering.
+
+Prof. Dr. Paul Smith (*1951), zurzeit ordentlicher Professor für Polymertechnologie, wird Ende Januar 2016 in den Ruhestand treten. Paul Smith wurde nach einer erfolgreichen Karriere in Wissenschaft und Wirtschaft 1995 an die ETH Zürich berufen. Seine Arbeitsgebiete umfassten elektrisch und optisch aktive Polymere, Phasen­übergänge in Polymersystemen, Polymersysteme mit starken molekularen Interakti­onen sowie solche mit metallischen Komponenten. Daneben hat in seiner sehr aktiven Arbeits­gruppe die Verarbeitung von Polymeren eine grosse Bedeutung. Paul Smiths Forschungsresultate erhielten weltweit Aufmerksamkeit und wurden mehrfach ausgezeichnet.
+
+Prof. Dr. Walter Steurer (*1950), zurzeit ordentlicher Professor für Kristallographie, wird Ende Januar 2016 pensioniert. Walter Steurer wirkt seit Herbst 1993 als Doppelprofessor an der ETH Zürich und an der Universität Zürich. Er gilt als einer der herausragendsten Exponenten der Kristallographie weltweit. Seine Forschungsinteressen umfassten die strukturelle Untersuchung von aperi­odischen Kristallen und von deren Phasenumwandlungen, die Modellierung von Ordnungs- und Fehlordnungs-Phänomenen, die temperaturabhängige Messung elastischer Eigenschaften an Einkristallen, Röntgenholographie sowie höherdimensionale Kristallographie. Neben seiner Forschungs- und Lehrtätigkeit wirkte Walter Steurer auch als Instituts- und Departements­vorsteher.
+
+Der ETH-Rat verdankt in seiner Mitteilung die Leistungen der scheidenden Professoren und der Professorin in Wissenschaft, Lehre und akademischer Verwaltung.
+
