@@ -1,3 +1,6 @@
+
+%%writefile scripts/process_eth_news.py
+
 import os
 import json
 import re
@@ -6,6 +9,8 @@ import unicodedata
 import logging
 from tqdm import tqdm
 from langdetect import detect
+from pathlib import Path
+
 
 # Set up logging 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -115,59 +120,58 @@ def extract_title(article_dict, filename):
     return title
 
 # Function 5: Extract Date
-def extract_date(text):
+def extract_date(text, filepath=None):
     """
-    Extract date from text and standardize to YYYY-MM-DD format.
+    Extract date from text or fallback to file path (e.g., 2021/01/...).
+    Returns a standardized date in YYYY-MM-DD format.
     """
-    # Various date patterns
+    # Same patterns as before
     date_patterns = [
-        r'(\d{1,2})\.(\d{1,2})\.(\d{4})',  # DD.MM.YYYY (German)
-        r'(\d{1,2})[/\.](\d{1,2})[/\.](\d{4})',  # DD/MM/YYYY or MM/DD/YYYY
+        r'(\d{1,2})\.(\d{1,2})\.(\d{4})',  # DD.MM.YYYY
+        r'(\d{1,2})[/\.](\d{1,2})[/\.](\d{4})',  # DD/MM/YYYY
         r'(\d{4})-(\d{1,2})-(\d{1,2})',  # YYYY-MM-DD
-        r'(\d{1,2})(?:st|nd|rd|th)? (?:of )?([A-Za-z]+)[,]? (\d{4})'  # 13th July 2021
+        r'(\d{1,2})(?:st|nd|rd|th)? (?:of )?([A-Za-z]+)[,]? (\d{4})'  # e.g., 13th July 2021
     ]
-    
+
     months = {
         'january': '01', 'february': '02', 'march': '03', 'april': '04',
         'may': '05', 'june': '06', 'july': '07', 'august': '08',
         'september': '09', 'october': '10', 'november': '11', 'december': '12',
-        'jan': '01', 'feb': '02', 'mar': '03', 'apr': '04', 'jun': '06',
-        'jul': '07', 'aug': '08', 'sep': '09', 'oct': '10', 'nov': '11', 'dec': '12',
-        # German months
         'januar': '01', 'februar': '02', 'märz': '03', 'april': '04',
         'mai': '05', 'juni': '06', 'juli': '07', 'august': '08',
         'september': '09', 'oktober': '10', 'november': '11', 'dezember': '12'
     }
-    
+
     for pattern in date_patterns:
         match = re.search(pattern, text, re.IGNORECASE)
         if match:
             if len(match.groups()) == 3:
-                if pattern == r'(\d{4})-(\d{1,2})-(\d{1,2})':  # YYYY-MM-DD
+                if pattern == r'(\d{4})-(\d{1,2})-(\d{1,2})':
                     year, month, day = match.groups()
-                elif pattern == r'(\d{1,2})(?:st|nd|rd|th)? (?:of )?([A-Za-z]+)[,]? (\d{4})':  # 13th July 2021
+                elif pattern == r'(\d{1,2})(?:st|nd|rd|th)? (?:of )?([A-Za-z]+)[,]? (\d{4})':
                     day, month_name, year = match.groups()
                     month = months.get(month_name.lower(), '01')
-                else:  # DD.MM.YYYY or similar
+                else:
                     day, month, year = match.groups()
-                
-                # Format as YYYY-MM-DD
                 return f"{year}-{month.zfill(2)}-{day.zfill(2)}"
-    
-    # Look for month year formats (e.g., "Oktober 2015", "July 2021")
-    month_year_pattern = r'([A-Za-z]+)\s+(\d{4})'
-    month_year_match = re.search(month_year_pattern, text, re.IGNORECASE)
-    if month_year_match:
-        month_name, year = month_year_match.groups()
-        month = months.get(month_name.lower(), '01')
-        return f"{year}-{month}-01"
-    
-    # If there's a 4-digit year mentioned anywhere
-    year_only = re.search(r'\b(20\d{2})\b', text)
-    if year_only:
-        return f"{year_only.group(1)}-01-01"
-    
-    # No date found, return empty string
+
+    # Fallback: try getting year/month from filepath
+    if filepath:
+        parts = Path(filepath).parts
+        year = None
+        month = None
+        for i, part in enumerate(parts):
+            if not year and re.fullmatch(r'20\d{2}', part):
+                year = part
+                # Try to get the next part as month
+                if i + 1 < len(parts):
+                    maybe_month = parts[i + 1]
+                    if re.fullmatch(r'\d{1,2}', maybe_month):
+                        month = maybe_month.zfill(2)
+                break  # stop after first valid year found
+        if year and month:
+            return f"{year}-{month}-01"
+
     return ""
 
 # Function 6: Extract Source
@@ -760,48 +764,54 @@ def generate_rich_metadata(text, language):
     return rich_metadata
 
 # Main article processing function
-def process_article(markdown_text, filename):
+def process_article(markdown_text, filename, filepath):
     """
     Process a single article through all cleaning steps.
+    Args:
+        markdown_text (str): The content of the .md file
+        filename (str): The name of the file (e.g., "article.md")
+        filepath (Path or str): Full path to the .md file, used to extract date if needed
+    Returns:
+        dict: Structured metadata and article info
     """
     try:
         # Step a: Basic cleaning
         cleaned_text = basic_text_cleaning(markdown_text)
-        
+
         # Step b: Extract article structure
         article_structure = extract_article_structure(cleaned_text)
-        
+
         # Step c: Extract main content (keep in original language)
         main_content = extract_main_content(article_structure)
-        
+
         # Step d: Detect language
         language = detect_language(main_content or cleaned_text)
-        
+
         # Step e: Extract title (keep in original language)
         title = extract_title(article_structure, filename)
-        
-        # Step f: Extract date (standardized format)
-        date = extract_date(main_content or cleaned_text)
-        
+
+        # Step f: Extract date (standardized format, fallback to folder structure)
+        date = extract_date(main_content or cleaned_text, filepath=filepath)
+
         # Step g: Extract source (keep in original language)
         source = extract_source(article_structure, main_content or cleaned_text, language)
-        
+
         # Step h: Extract named entities (keep in original language)
         named_entities = extract_named_entities(main_content, language)
-        
+
         # Step i: Extract topics (standardized to English)
         topics = extract_topics(main_content, language)
-        
+
         # Step j: Extract keywords (standardized to English)
         keywords = extract_keywords(main_content, language)
-        
+
         # Step k: Generate summary (keep in original language)
         summary = generate_summary(main_content)
-        
+
         # Step l: Generate rich metadata (standardized to English)
         rich_metadata = generate_rich_metadata(main_content, language)
-        
-        # Create final structured document
+
+        # Step m: Final structured document
         processed_article = {
             "language": language,
             "title": title,
@@ -814,11 +824,12 @@ def process_article(markdown_text, filename):
             "summary": summary,
             "rich_metadata": rich_metadata
         }
-        
+
         return processed_article
-    
+
     except Exception as e:
         logger.error(f"Error processing {filename}: {str(e)}")
+
         # Return a minimal valid structure in case of failure
         return {
             "language": "unknown",
