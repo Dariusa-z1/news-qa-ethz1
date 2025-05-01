@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/05/medizintechnik-blockkurs-gewinnt-preis-fuer-innovative-lehre.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die selbst entwickelte und produzierte Exoskelett-Greifhand packt zu. In diesem Moment erleben die ETH-Medizinstudierenden am eigenen Körper, wie ihr System funktioniert und dass sie ihr theoretisches Wissen auch in der Praxis anwenden können.

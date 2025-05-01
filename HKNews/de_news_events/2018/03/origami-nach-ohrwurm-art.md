@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/03/origami-nach-ohrwurm-art.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Jedes Kind kennt Origami. Die fernöstliche Faltkunst ermöglicht es, aus einem flachen Blatt Papier teilweise sehr komplexe Formen zu falten. Origami kommt aber auch in der Natur vor. Eines der aussergewöhnlichsten Beispiele dafür ist der Flügel des Ohrwurms. Er übertrifft menschgemachte Faltkunstwerke bei weitem.

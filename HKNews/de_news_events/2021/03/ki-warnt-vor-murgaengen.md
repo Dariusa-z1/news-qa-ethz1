@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/03/ki-warnt-vor-murgaengen.html
 
-**Date processed:** 2025-05-01
-
 ## Messungen am Murgang-Testgelände Illgraben
 
 Murgänge sind Gemenge aus Geröll, Erde und Wasser. Oft entstehen sie bei Starkregen in steilem alpinen Gelände und donnern unkontrolliert durch Schluchten und Bergbäche ins Tal. Allein in der Schweiz gibt es mehrere hundert Ereignisse pro Jahr. Der Klimawandel begünstigt das Naturphänomen, weil Permafrostböden zusehends instabil werden und Extremwetterereignisse zunehmen. Sind Murgänge besonders gross oder treten sie an unerwarteten Orten auf, entfalten sie ein erhebliches Zerstörungspotenzial, das Menschen, Infrastruktur und Umwelt bedroht.

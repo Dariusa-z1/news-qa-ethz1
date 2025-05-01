@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/01/hindernisfreie-eth-neue-kurse-neue-touren-ein-pilot.html
 
-**Date processed:** 2025-05-01
-
 ## Neue Touren
 
 Ab sofort wird es für ETH-Angehörige deutlich einfacher, digitale Inhalte barrierefrei zu erstellen. Bei Websites, PDF-Dateien, Präsentationen, Bildern oder Videos werden oftmals unwissentlich Barrieren eingebaut: Gibt es bei einem Foto beispielsweise keinen Alt-Text, d. h. eine kurze Bildbeschreibung, wird ein Video ohne Untertitel erstellt, oder fehlen in einer PDF-Datei die Navigationshilfen, ist der Inhalt für Personen mit einer Seh- oder Hörbeeinträchtigung nicht zugänglich. Um in Zukunft alle Personen zu erreichen, bietet sowohl die Hochschulkommunikation im Teilprojekt 11 «Barrierefreie Kommunikation» als auch die Abteilung Lehrentwicklung und -technologie im Teilprojekt 13 «Barrierefreie Lehrmittel» neuerdings regelmässig Kurse an, u. a. zu den Themen «Digitale Barrierefreiheit» und «Accessible pdfs - made easy». Die aktuelle Kursübersicht ist unter Interne IT-​Kurse ersichtlich.

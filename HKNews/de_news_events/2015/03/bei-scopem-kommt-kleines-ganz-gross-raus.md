@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/03/bei-scopem-kommt-kleines-ganz-gross-raus.html
 
-**Date processed:** 2025-05-01
-
 ## Bereits 500 Nutzer bei ScopeM
 
 Immer weiter hinab geht es durch lange, mit Metallplatten ausgelegte Gänge bis tief in den Keller. Unterhalb der Wiese zwischen den Gebäuden HPM und HPF stehen hier am ETH-Standort Hönggerberg hinter schweren Stahltüren einige der wertvollsten Elektronenmikroskope der ETH Zürich. Nur so – neun Meter unter der Erde in einem speziellen Bau aus Eisen-Beton – können sie erschütterungsfrei und ohne elektromagnetische Störfelder optimal funktionieren.

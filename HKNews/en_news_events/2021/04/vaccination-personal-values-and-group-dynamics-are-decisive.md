@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/04/vaccination-personal-values-and-group-dynamics-are-decisive.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 (Photograph: ETH Zurich)

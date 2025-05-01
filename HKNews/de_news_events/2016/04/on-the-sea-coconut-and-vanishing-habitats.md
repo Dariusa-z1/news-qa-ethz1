@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/04/on-the-sea-coconut-and-vanishing-habitats.html
 
-**Date processed:** 2025-05-01
-
 ## Famous for its sensational seeds
 
 Untouched natural habitats for plants and animals are becoming scarce on planet earth. Wherever men settle, they hunt and gather and shape the environment to fit their needs – causing enormous pressure on flora and fauna. Cases where humans are totally absent best illustrate how strong this influence is. The Chernobyl disaster of 1986 devastated the lives of many, but was, astonishingly, a huge saviour for local wildlife [1]: when the effects of the explosion forcibly expelled 100,000 humans, nature readily filled the vacuum, albeit at a very high price [2]. Wildlife has to cope with long term exposure to radiation, but, nonetheless, populations of lynx, elk and wolves have boomed in the area.

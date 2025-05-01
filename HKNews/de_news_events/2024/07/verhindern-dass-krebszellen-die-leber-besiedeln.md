@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/07/verhindern-dass-krebszellen-die-leber-besiedeln.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • ETH-Forschende haben Proteine an der Oberfläche von Darmkrebs- und Leberzellen identifiziert, die sich aneinanderheften und für das Wachstum von neuen Ablegern (Metastasen) wichtig sind.

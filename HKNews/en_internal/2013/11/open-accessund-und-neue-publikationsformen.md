@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2013/11/open-accessund-und-neue-publikationsformen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 On 25 November 2013, the Scientific Staff Associations of D-MTEC (ScSt@MTEC) and D-GESS (ASST) together with ETH-Bibliothek would like to invite you to an information and discussion event about Open Access and scholarly publishing.

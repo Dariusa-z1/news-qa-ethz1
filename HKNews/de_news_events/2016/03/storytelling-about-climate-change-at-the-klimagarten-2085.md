@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/03/storytelling-about-climate-change-at-the-klimagarten-2085.html
 
-**Date processed:** 2025-05-01
-
 ## Simplicity beats complexity
 
 So what type of message will inform better dialogue and effect behavioural change? Climate scientists and communication projects such as the Yale Project on Climate Change Communication [4] advise policymakers to turn to psychology for insights. A recently published paper advocates five best practices [5]:

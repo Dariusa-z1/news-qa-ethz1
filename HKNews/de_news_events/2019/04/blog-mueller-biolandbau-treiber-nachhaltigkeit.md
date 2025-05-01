@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/04/blog-mueller-biolandbau-treiber-nachhaltigkeit.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wenn wir den Verlust an Biodiversität und fruchtbare Böden stoppen und Erosion und Gewässerverschmutzung reduzieren wollen, dann muss sich die Landwirtschaft künftig grundlegend verändern. Sonst werden wir auch die Nachhaltigkeitsziele der Vereinten Nationen (Sustainable Development Goals, SDGs), von denen viele direkt mit der Landwirtschaft zu tun haben 1 , nie erreichen.

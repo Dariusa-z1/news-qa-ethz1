@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/02/new-ideas-from-the-us.html
 
-**Date processed:** 2025-05-01
-
 ## New methods of learning
 
 How do students learn at other universities? How do foreign universities evaluate their teaching? What infrastructure is required for innovative teaching? The aim of the “Raus aus den vier Wänden” (“Leaving our comfort zone”) project, in short “Rad4W”, is to find answers to these and other questions regarding teaching.

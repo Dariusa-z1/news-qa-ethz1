@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/01/hehre-huelsenfruechte-teil-2-soja-das-schwarze-schaf.html
 
-**Date processed:** 2025-05-01
-
 ## Fragwürdiges Futtermittel
 
 2016 ist das UN-Jahr der Hülsenfrüchte (siehe Teil 1 dieser Miniserie) und es markiert den zwanzigsten Geburtstag der Zulassung von gentechnisch verändertem Saatgut in den USA: Soja war eine der ersten Pflanzenarten, die man gentechnisch so manipulierte, dass sie – im Gegensatz zu den im Feld ungeplant wachsenden «Unkräutern» – durch ein bestimmtes Herbizid wie etwa Glyphosat nicht abgetötet wird. Ein Meilenstein aus Sicht der Biotechnologie, ein Sündenfall aus Sicht der Biolandwirtschaft. Billige Unkrautvernichtung und massenhafte Monokulturen sind seitdem Begriffe, die viele von uns mit Soja verbinden.

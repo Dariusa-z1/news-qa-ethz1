@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/06/portraet-thomas-zumbrunn.html
 
-**Date processed:** 2025-05-01
-
 ## Auf der Piste und im Hörsaal
 
 So stellt man sich den geborenen Skirennfahrer vor: Ein Bergler, quasi mit den Skiern aus dem Mutterleib geschlüpft, einer, der die ersten Gehversuche zeitgleich mit den ersten Schwüngen auf der Piste unternimmt, der Vater Skilehrer, die Mutter Skilehrerin. So wuchs Thomas Zumbrunn in Meiringen (BE) auf. «Die Skischule war meine Kindertagesstätte», sagt er lachend. Im Jahr 2003 der Höhepunkt: Zumbrunn wurde Junioren-Schweizermeister im Super-G. Das war kurz nachdem er die Matura gemacht und nur ein Ziel hatte: Ski-Profi. Also konzentrierte er sich ein Jahr lang auf den Sport, trainierte täglich und arbeitete bei seinem Vater, hauptberuflich als Hauswart tätig. Doch trotz aller Anstrengungen schaffte er den Sprung ins B-Kader nicht «Für mich brach damals eine Welt zusammen», sagt er.

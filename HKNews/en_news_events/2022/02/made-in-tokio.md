@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/02/made-in-tokio.html
 
-**Date processed:** 2025-05-01
-
 ## Barking dogs from Tokyo
 
 When Momoyo Kaijima took an unusual call from an Israeli number on the evening of 7 February, she couldn’t believe her ears at first and had to let the news sink in. Dan Shechtman, Council Acting Chairperson of the Wolf Foundation, had just congratulated Kaijima on winning this year’s Wolf Prize in Architecture together with her partner Yoshiharu Tsukamoto, who is a Professor at Tokyo Institute of Technology,.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/08/mit-elektronischer-schaltung-teleportiert.html
 
-**Date processed:** 2025-05-01
-
 ## «Wie beim Beamen»
 
 Physikern der ETH Zürich ist es erstmals gelungen, eine Information in einem sogenannten Festkörpersystem zu teleportieren. Dies gelang den Forschern auf einem Chip. Er unterscheidet sich von einem herkömmlichen Computerchip dadurch, dass die Informationen darauf nicht nach den Gesetzen der klassischen Physik, sondern nach jenen der Quantenphysik gespeichert und verarbeitet werden. In einer in der jüngsten Ausgabe der Fachzeitschrift «Nature» publizierten Studie gelang es den Forschenden, Information über sechs Millimeter zu teleportieren, von einer Ecke des Chips in die gegenüberliegende Ecke. Dies nota bene ohne dass bei der Informationsübertragung physikalische Teilchen den Weg von der Sender-Ecke in die Empfänger-Ecke zurückgelegt hätten.

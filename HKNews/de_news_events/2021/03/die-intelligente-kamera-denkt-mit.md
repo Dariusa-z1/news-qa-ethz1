@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/03/die-intelligente-kamera-denkt-mit.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Corona-Krise hat Videos als Kommunikationsmittel einen starken Schub verliehen. Sitzungen, Präsentationen und sogar kulturelle Anlässe werden online übertragen. Wer in der Menge an audiovisuellen Live-Angeboten herausstechen will, muss eine hochwertige Darbietung liefern. Deshalb investieren immer mehr Unternehmen in die nötige Ausrüstung und Technologien, um ein besseres Erlebnis und hohe Qualität zu liefern. Das spürt auch Seervision, ein Spin-off der ETH Zürich.

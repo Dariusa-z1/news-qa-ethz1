@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/04/wie-gehts-euch.html
 
-**Date processed:** 2025-05-01
-
 ## Marcel Schuck, Forscher am D-ITET
 
 «Da ich zurzeit nicht an den Laborgeräten Teile für meine Roboterforschung entwickeln kann, muss ich nun nach Alternativen suchen. Glücklicherweise ist es mit Methoden wie dem 3D-Druck einfacher geworden, Prototypen herzustellen. Dies erleichtert es jetzt, neue Quellen für Bauteile zu finden und spornt auch dazu an, bestehende Herangehensweisen zu überdenken.»

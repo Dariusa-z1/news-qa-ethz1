@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/04/solidarity-work-at-a-pharmacy.html
 
-**Date processed:** 2025-05-01
-
 ## In the lab and out on the bike
 
 Ilario Scapozza is studying for a Master’s degree in Pharmacy at ETH Zurich. The 22-year-old has been working in the Rigi Apotheke in Zurich for a good four weeks now. He’s on duty five days a week helping the pharmacy cope with its heavy workload during the crisis. Scapozza explains how this came about: “I was already in contact with the pharmacy at the beginning of the year, as it’s there I’m going to be working as an assistant for the compulsory practical training year of my degree.” Shortly after ETH announced the shift to emergency operation, the pharmacy approached him for the mission. Scapozza agreed right away.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/10/der-sinn-der-nachhaltigkeit.html
 
-**Date processed:** 2025-05-01
-
 ## Neo-classical versus evolutionary economics
 
 Especially since the first answer I myself heard to this question, twenty years ago when “sustainable development” was a relatively new concept, was “no.”

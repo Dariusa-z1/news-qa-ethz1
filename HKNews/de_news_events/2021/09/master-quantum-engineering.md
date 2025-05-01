@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/09/master-quantum-engineering.html
 
-**Date processed:** 2025-05-01
-
 ## In beiden Perspektiven denken
 
 Derzeit intensivieren Unternehmen und Forschungszentren auf der ganzen Welt ihre Aktivitäten, um das Anwendungspotenzial der Quantenmechanik zu erschliessen. Um das dafür erforderliche Fachpersonal auszubilden, entstand an der ETH Zürich ein Masterstudienprogramm, das in seiner interdisziplinären Ausrichtung auch international viel Beachtung fand.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/08/temporary-changes-in-opening-hours-friday-29-august.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Closed will be:

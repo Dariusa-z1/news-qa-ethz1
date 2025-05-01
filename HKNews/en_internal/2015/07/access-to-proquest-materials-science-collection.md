@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/07/access-to-proquest-materials-science-collection.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 It comprises several sub-databases, especially in the following fields:

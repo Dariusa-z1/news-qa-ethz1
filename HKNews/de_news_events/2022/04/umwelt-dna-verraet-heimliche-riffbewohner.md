@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/04/umwelt-dna-verraet-heimliche-riffbewohner.html
 
-**Date processed:** 2025-05-01
-
 ## Umwelt-DNA hilft Arten aufzuspüren
 
 Tropische Korallenriffe sind bunt, schön – und artenreich. Besonders gross ist die Fischvielfalt. Forschende schätzen, dass weltweit bis zu 8000 Fischarten in Korallenriffen vorkommen.

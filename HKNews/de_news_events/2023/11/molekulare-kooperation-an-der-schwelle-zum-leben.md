@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/11/molekulare-kooperation-an-der-schwelle-zum-leben.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Amyloide gehören möglicherweise zu den ersten grösseren Vorläufermolekülen des Lebens.

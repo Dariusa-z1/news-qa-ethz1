@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/12/frohes-fest.html
 
-**Date processed:** 2025-05-01
-
 ## Vorspeisen
 
 Die Einsendungen reichten von der einfachen Idee bis hin zum ausgefeilten Drei-Gänge-Menu. Wir gratulieren herzlich den beiden Gewinnerinnen der Verlosung. Hier eine kleine Auswahl der eingesandten Rezepte, sortiert nach Vorspeise, Hauptgang und Dessert. En Guete!

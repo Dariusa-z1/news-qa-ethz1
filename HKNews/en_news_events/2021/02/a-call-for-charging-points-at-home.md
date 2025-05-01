@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/02/a-call-for-charging-points-at-home.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 (Photograph: ETH Zurich)

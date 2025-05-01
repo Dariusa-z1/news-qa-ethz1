@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/02/aerosole-veraendern-sonneneinstrahlung-ueber-jahrzehnte.html
 
-**Date processed:** 2025-05-01
-
 ## Natürliche Schwankungen oder Luftverschmutzung?
 
 In den späten 1980er und 1990er Jahren fanden Forschende der ETH Zürich erste Hinweise darauf, dass die Sonneneinstrahlung auf der Erdoberfläche seit den 1950er Jahren laufend abgenommen hatte. Bekannt wurde das Phänomen als «global dimming» – ein weltweites Abdunkeln der Atmosphäre. Ab den späten 1980er Jahren aber setzte ein «brightening» ein. Die Atmosphäre hellte vielerorts wieder auf, die Einstrahlung auf der Erdoberfläche nahm zu.

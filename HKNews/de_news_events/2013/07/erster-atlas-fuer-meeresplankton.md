@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/07/erster-atlas-fuer-meeresplankton.html
 
-**Date processed:** 2025-05-01
-
 ## Von Bakterien bis zum Kleinkrebs
 
 Ozeane bedecken 70 Prozent der Erdoberfläche. Was sich in diesen riesigen Weiten und schier endlosen Tiefen an Pflanzenarten und Lebewesen verbirgt, ist im Vergleich zu terrestrischen Ökosystemen wenig erforscht. Besonders wenig weiss man bisher über die Verbreitung von Plankton, also denjenigen Organismen, die zu klein sind, um gegen die Ozeanströmungen zu schwimmen. In einem gross angelegten Projekt, koordiniert von Forschenden der ETH Zürich und der University of East Anglia (GB), haben sich Wissenschaftler zahlreicher Universitäten und Observatorien zusammengeschlossen, um weltweit zu erhe-ben, welches Plankton wo und wann vorkommt, und um zu ermitteln, wie viel Kohlenstoff in ihm gebunden ist. An 500'000 Messpunkten, verteilt über den ganzen Erdball, sammelten sie Daten zu Artenvielfalt und Biomasse von Plankton.

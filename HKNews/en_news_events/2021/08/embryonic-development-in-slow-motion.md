@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/08/embryonic-development-in-slow-motion.html
 
-**Date processed:** 2025-05-01
-
 ## Gene transcripts and signalling molecules studied
 
 Everyone is familiar with the roe deer, either from crossword puzzles or from real-life encounters during a jog or a hike in the forest: majestic creatures with elegant big black eyes.

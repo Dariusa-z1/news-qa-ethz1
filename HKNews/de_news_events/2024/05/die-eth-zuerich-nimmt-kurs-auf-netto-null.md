@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/05/die-eth-zuerich-nimmt-kurs-auf-netto-null.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Das Programm «ETH Netto-​Null» bündelt von 2024 bis 2030 die Aktivitäten für eine weitgehende Reduktion der Emissionen im Hochschulbetrieb.

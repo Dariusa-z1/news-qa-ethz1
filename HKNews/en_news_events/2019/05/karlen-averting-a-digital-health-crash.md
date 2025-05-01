@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/05/karlen-averting-a-digital-health-crash.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 I’ve been closely following the reporting on the Lion Air Flight 610 and Ethiopian Airlines Flight 302 tragedies. The two crashes of new Boeing aircraft followed very similar patterns, causing the deaths of 189 and 158 people, respectively. While saddened by the tragic loss of lives, I’m also struck by the parallels between the causes of these incidents and the research issues I’m facing in our projects in the digitisation and automation of health care.

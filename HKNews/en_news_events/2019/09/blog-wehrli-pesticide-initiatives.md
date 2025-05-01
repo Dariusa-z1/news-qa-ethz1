@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/09/blog-wehrli-pesticide-initiatives.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Here in Switzerland, over 300 different pesticides are applied to protect cereals, fruit and vegetables from weeds, insects and fungal attack. This prevents crop failures, and stops worm-eaten fruit and rotten vegetables finding their way to the market. Ideally, such pesticides are effective for only a short time and are then broken down by bacteria. Two pending popular initiatives are seeking to cut or even ban the use of artificial pesticides in Swiss farming. But if we’re to feed a growing worldwide population safely under rapidly changing environmental conditions, I believe it’s unrealistic to entirely forgo agrochemicals in the food we grow and import, as the pesticide initiative demands 1 .

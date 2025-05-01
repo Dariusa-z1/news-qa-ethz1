@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/12/forschungsdatenmanagement-von-der-theorie-zur-praxis.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 • The first workshop on 22 January 2020 offers an introduction to the basics of research data management (RDM) along the data life cycle, and discusses the role of Open Science in RDM.

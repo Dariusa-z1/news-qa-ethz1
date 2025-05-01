@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/12/who-will-be-the-future-farmers.html
 
-**Date processed:** 2025-05-01
-
 ## Rural to urban exodus
 
 The Food and Agricultural Organization (FAO) of the United Nations estimates that food production needs to increase by 70 percent within 40 years to meet the needs of an ever growing population. Scientists are working feverishly to develop improved crops and production systems to meet this challenge, while also seeking to minimize impact on the environment. Science has plenty of new tools to play with. Using new technologies farmers are able to match crops to optimal site conditions from scales spanning centimetres to landscapes. Improved crop varieties have better resistance to pests and pathogens, are more efficient in their use of nutrients and water, and convert more of the light’s energy to wholesome grain. These new emerging technologies offer plenty of optimism for future farmers.

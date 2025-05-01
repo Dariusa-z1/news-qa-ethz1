@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/03/la-bella-vita.html
 
-**Date processed:** 2025-05-01
-
 ## Acrobats – Inspiration for Dynamic Systems
 
 Raffaello D'Andrea walks into his office, a sparkle in his eyes, having just come from a meeting where he and colleagues in the Department of Information Technology and Electrical Engineering (D-ITET) have envisioned a future collaboration in systems and control. He sits down at a table in front of the bookshelves where all of his books are stacked horizontally. "It makes sense this way," he explains. "You see, the titles of the books are printed on the spine. How many times have you seen someone contort their neck to find a book title when they are placed on the shelves vertically?" This is the first indication of how efficiency and natural order have shaped his life and work.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/03/spatial-timber-assemblies.html
 
-**Date processed:** 2025-05-01
-
 ## With robotic precision
 
 Digitalisation has found its way into timber construction, with entire elements already being fabricated by computer-aided systems. The raw material is cut to size by the machines, but in most cases it still has to be manually assembled to create a plane frame. In the past, this fabrication process came with many geometric restrictions.

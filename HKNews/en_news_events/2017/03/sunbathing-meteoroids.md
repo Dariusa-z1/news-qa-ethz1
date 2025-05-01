@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/03/sunbathing-meteoroids.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The inconspicuous, small stone that was analysed with high-tech equipment is named Jiddat al Harasis 466. It travelled a long way before it entered the Earth’s atmosphere and landed in the desert of Oman. “We think that Jiddat al Harasis 466 was formed 4 million years ago as a remnant of a crash of bigger blocks in the asteroid belt between Mars and Jupiter,” explains Antoine Roth from the Institute of Geochemistry and Petrology at ETH Zurich. Then, after a rapid transfer from the asteroid belt to Earth, it heated up intensely during atmospheric entry and lost a lot of material. What was originally a stone with a radius of two centimetres ended up as a one centimetre meteorite.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/10/staerken-wir-teamgeist-und-vielfalt-an-der-eth-eine-konkrete-vision.html
 
-**Date processed:** 2025-05-01
-
 ## Wie könnte eine solche Plattform für Mittagstreffen aussehen?
 
 Die ETH ist ein grossartiger Ort mit interessanten Menschen. Diese Menschen kennen sich jedoch oft nicht. Wir neigen dazu, in unseren Gruppen zu bleiben und nur Mitglieder aus unseren Instituten oder akademischen Bereichen zu kennen. Während die wissenschaftliche Forschung immer spezialisierter wird, weist Wissen reibungslose Übergänge ohne feste Grenzen auf, und interdisziplinäre Projekte werden einflussreicher und werden häufiger zitiert (Steele & Stier, 2000). Aktuelle Probleme stellen uns vor immer komplexere Fragen, die von interdisziplinären Teams angegangen werden müssen. Der erste Schritt besteht darin, herauszufinden, wer Mitglied eines solchen Teams sein könnte.

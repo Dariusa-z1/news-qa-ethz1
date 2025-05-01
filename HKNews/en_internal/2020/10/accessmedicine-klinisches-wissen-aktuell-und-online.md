@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/10/accessmedicine-klinisches-wissen-aktuell-und-online.html
 
-**Date processed:** 2025-05-01
-
 ## Access knowledge
 
 In both learning environments, you have access to the latest editions of more than 100 textbooks and medical references, including the following works:

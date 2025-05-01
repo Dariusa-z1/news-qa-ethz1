@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/02/mehr-zuversicht-in-der-klimapolitik.html
 
-**Date processed:** 2025-05-01
-
 ## Simples lineares Denken
 
 Die Staaten wollen dazu beitragen, die Erderwärmung seit der Industrialisierung auf unter zwei Grad Celsius zu begrenzen. Dazu müssten unter anderem die globalen CO 2 -Emissionen in den nächsten vier Jahrzehnten komplett verschwinden. Ich denke, dass dies nicht nur möglich, sondern auch gar nicht so unwahrscheinlich ist. Allerdings gehöre ich damit klar zur Minderheit der Klimawissenschaftler. Warum bin ich optimistisch, wenn viele andere pessimistisch sind?

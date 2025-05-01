@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/07/ausschreibung-congressi-stefano-franscini.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Das Congressi Stefano Franscini bietet:

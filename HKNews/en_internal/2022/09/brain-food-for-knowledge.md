@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/09/brain-food-for-knowledge.html
 
-**Date processed:** 2025-05-01
-
 ## What’s cooking in the world of research?
 
 The Swiss Federal Polytechnic, as ETH was called in its early years, has always acknowledged the crucial role of agricultural sciences. The university saw itself as the thought engine behind an emerging Swiss industry, and a vital research hub for the national agricultural and forestry sector.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/09/20-jahre-eth-juniors.html
 
-**Date processed:** 2025-05-01
-
 ## Mit kreativen Einfällen punkten
 
 Ein kleines Häuschen, idyllisch gelegen oberhalb des ETH-Hauptgebäudes am Zürichberg, ist die Heimat der «ETH juniors». Sie haben sich sprichwörtlich hochgearbeitet, haben sie doch zwanzig Jahre zuvor an jede Türe der ETH Zürich geklopft auf der Suche nach Räumlichkeiten, bis sie diese gefunden haben: Im Stock G des Hauptgebäudes beginnt 1997 mit fünf Gründungsmitgliedern die Erfolgsgeschichte des studentischen Vereins.

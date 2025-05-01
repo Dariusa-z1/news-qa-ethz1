@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/08/nachwuchsforschende-auf-erfolgskurs.html
 
-**Date processed:** 2025-05-01
-
 ## Erfolg hält seit Jahren an
 
 Sie möchten verstehen, wie sich Infektionskrankheiten verbreiten, wie Zellen auf falsch gefaltete Proteine reagieren oder die Eigenschaften einer Lithium-Ionen-Batterie voraussagen. So unterschiedlich ihre Forschungsgebiete auch sein mögen, eines haben die ETH-Nachwuchsforschenden gemeinsam: Sie gehören zum Kreise von Jungwissenschaftlern, die vom Europäischen Forschungsrat (ERC) mit je rund 1,8 Mio. Franken unterstützt werden. Mit dem Geld können die Geförderten nun ihre Forschungsgruppe ausbauen und ihre Projekte in den nächsten fünf Jahren vorantreiben.

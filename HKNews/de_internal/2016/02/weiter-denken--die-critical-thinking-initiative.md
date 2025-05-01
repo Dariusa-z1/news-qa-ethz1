@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/02/weiter-denken--die-critical-thinking-initiative.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 • Bildarchive in der Schweiz

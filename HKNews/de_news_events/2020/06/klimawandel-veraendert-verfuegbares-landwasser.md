@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/06/klimawandel-veraendert-verfuegbares-landwasser.html
 
-**Date processed:** 2025-05-01
-
 ## Wasserdynamik über 112 Jahre rekonstruiert
 
 Wasser ist das Lebenselixier von Ökosystemen und für den Menschen eine der wichtigsten natürlichen Ressourcen. Doch das verfügbare Landwasser – also was vom Niederschlag nach Verdunstung übrig bleibt – ist auf der Erde nicht nur ungleich verteilt, es verändert sich auch über die Zeit: Beobachtungen zeigen, dass die verfügbare Wassermenge in einigen Weltregionen seit ein paar Jahrzehnten abnimmt. Ein Beispiel ist Südeuropa, das zusehends trockener wird. Anderenorts nehmen die Wasserbestände tendenziell zu.

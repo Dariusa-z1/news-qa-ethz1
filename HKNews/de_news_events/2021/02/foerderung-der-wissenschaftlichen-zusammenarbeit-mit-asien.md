@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/02/foerderung-der-wissenschaftlichen-zusammenarbeit-mit-asien.html
 
-**Date processed:** 2025-05-01
-
 ## Förderung auf breiter Ebene
 
 Bilaterale Kooperationen gehören zu den grossen strategischen Säulen der Schweizer Forschungspolitik. Nachdem sich die bilateralen Programme anfänglich vor allem auf Europa und Nordamerika konzentrierten, ist ihr Spektrum mittlerweile deutlich gewachsen. Im Auftrag des Schweizer Staatssekretariats für Bildung, Forschung und Innovation (SBFI) unterstützen die ETH Zürich sowie andere Schweizer Hochschulen und Institute als Leading Houses Forschungskooperationen und Austauschprogramme schwerpunktmässig in China, Süd- und Südostasien, Subsahara-Afrika, dem nahen Osten, Lateinamerika und Iran.

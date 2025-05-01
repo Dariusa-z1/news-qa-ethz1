@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/05/ein-tiefer-blick-ins-universum.html
 
-**Date processed:** 2025-05-01
-
 ## Wasserstoff als Schlüsselelement
 
 «Es ist ein aufregendes Projekt», erklärt Alexandre Refregier, Professor für Physik an der ETH Zürich, wenn er die futuristisch anmutende Visualisierung aus Südafrika betrachtet. Mitten in der Karoo Halbwüste, weit fernab von grösseren Siedlungen, zeigt das Bild ein Feld mit über 1000 Parabolspiegeln, die in Reih und Glied auf den gleichen Punkt ausgerichtet sind. Dabei handelt es sich nicht um ein Solarkraftwerk, wie man zunächst denken könnte, sondern um ein grosses Radioteleskop, das den Kosmologinnen und Kosmologen in den nächsten Jahren neue Einsichten über die Struktur und die Geschichte unseres Universums liefern soll.

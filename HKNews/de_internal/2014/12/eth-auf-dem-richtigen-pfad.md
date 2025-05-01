@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/12/eth-auf-dem-richtigen-pfad.html
 
-**Date processed:** 2025-05-01
-
 ## Erhöhte internationale Sichtbarkeit
 
 Die Ranglisten erhalten wir jedes Jahr fast schon mit saisonaler Verlässlichkeit geliefert: das Shanghai-Ranking wartet jeweils Ende August mit den neusten Zahlen auf, dann zieht das QS-Ranking Mitte September nach und das THE-Ranking beendet Anfang Oktober jeweils den Reigen. Und wir wissen aus ETH-Sicht: Viel hat sich an unserer Position nicht verändert über die letzten Jahre, die ETH Zürich gilt in all diesen Hochschulvergleichen jeweils als beste Universität Kontinentaleuropas.

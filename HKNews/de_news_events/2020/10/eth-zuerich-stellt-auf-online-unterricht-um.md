@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/10/eth-zuerich-stellt-auf-online-unterricht-um.html
 
-**Date processed:** 2025-05-01
-
 ## Semester erfolgreich abschliessen
 
 Die Schulleitung der ETH Zürich hat beschlossen, den Präsenzunterricht per 2. November massiv einzuschränken. Sämtliche Vorlesungen und praktisch alle Übungsgruppen werden online abgehalten. «Obwohl sich das Konzept für das Herbstsemester bisher bestens bewährt hat, sehen wir uns angesichts der rasant steigenden Infektionszahlen in der Schweiz gezwungen, diesen Schritt zu unternehmen», erläutert ETH-Rektorin Sarah Springman den Entscheid. Die ETH Zürich müsse ihren Beitrag leisten, die Dynamik der zweiten Coronawelle zu brechen. Indem sie die meisten Veranstaltungen digital durchführt, wird sich die Anzahl Studierenden auf dem Campus um 90% reduzieren. Zentral ist, dass alle ETH-Angehörigen Eigenverantwortung übernehmen und sich an die geltenden Regeln halten.

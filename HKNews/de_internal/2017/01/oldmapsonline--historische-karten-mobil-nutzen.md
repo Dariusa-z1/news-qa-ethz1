@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2017/01/oldmapsonline--historische-karten-mobil-nutzen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Beispiel für eine erfolgreich georeferenzierte Karte (Plan der Stadt Bern, ca. 1880):

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/06/a-good-solutions-secret.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Initially, Siddhartha Mishra intended to study physics. In his childhood in Bhubaneswar, the capital of the Indian state of Odisha, he dreamed of finding out “what makes the stars shine”. In his studies, he realised that the mathematical approach to the world appealed more to him than the experimental one, and so he graduated in mathematics. The turn to the real world and to physical phenomena has remained with him to this day. The topics he studies as a mathematician typically include dynamic flows, liquids or gases (fluids), which play a role in weather, climate or avalanches, for example, as well as wave-like phenomena such as those that occur in tsunamis or exploding supernovas.

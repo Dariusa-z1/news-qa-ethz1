@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/10/digital-transformation-is-shaking-things-up.html
 
-**Date processed:** 2025-05-01
-
 ## Fostering entrepreneurial spirit
 
 Digitalisation is causing many major companies, researchers, innovations and jobs to relocate outside Europe. What are Switzerland and its neighbours doing to counteract this trend? Economics ministers from Europe’s German-speaking countries addressed this topic and others during a discussion at ETH Zurich. Johann Schneider-Ammann, Swiss Federal Councillor and Head of the Department of Economic Affairs, Education and Research, invited his counterparts from Austria, Germany and Liechtenstein to Switzerland to take part in the traditional quadripartite meeting.

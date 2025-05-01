@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/03/a-good-year-for-the-pv-eth-in-2014.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Chairwoman Karin Schram said that the PV ETH can look back on a good year in 2014:

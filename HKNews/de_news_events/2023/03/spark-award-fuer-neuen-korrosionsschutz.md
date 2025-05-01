@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/03/spark-award-fuer-neuen-korrosionsschutz.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Fachjury war sich in diesem Jahr sofort einig: Unter den fünf für den Spark Award 2023 nominierten Erfindungen entschieden sie sich eindeutig für den neuartigen Korrosionsschutz der Forscher vom Labor für Multifunktionsmaterialien.

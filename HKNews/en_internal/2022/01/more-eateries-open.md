@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/01/more-eateries-open.html
 
-**Date processed:** 2025-05-01
-
 ## Hönggerberg
 
 The pandemic poses great challenges for the catering businesses at ETH. As a result of the reintroduced work from home requirements and the semester break, the number of visitors has decreased significantly and led to a reduction in the range of catering options.

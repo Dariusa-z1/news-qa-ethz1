@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/07/sap-innovationspreis-2019-fuer-die-eth-zuerich.html
 
-**Date processed:** 2025-05-01
-
 ## Gesamterneuerung als Basis für die Zukunft
 
 Das Technologie-Unternehmen SAP hat die ETH Zürich am 27. Juni 2019 in Bern mit dem SAP Innovationspreis 2018 ausgezeichnet. Prämiert wird die Hochschule für ihr Projekt «refine» (Ressourcen- und Finanzplattform der ETH Zürich, nächste Generation). ETH Zürich). Den Preis nahm der Gesamtprojektleiter Markus Knaus, Leiter Abteilung Controlling, im Namen der ETH Zürich entgegen. Der Preis zeichnet die Bestrebungen der ETH Zürich aus, auch bei der digitalen Infrastruktur top zu sein.

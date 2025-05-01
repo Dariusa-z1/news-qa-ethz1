@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/04/medienmitteilung-finanzielle-unsicherheiten-gefaehrden-top-position-der-eth-zuerich.html
 
-**Date processed:** 2025-05-01
-
 ## Ende 2025 gehen die freien Reserven aus
 
 6050 ETH-Abschlüsse, Top-Platzierungen in den internationalen Hochschulrankings und 43 neue Spin-offs: Die ETH Zürich blickt in ihrem heute publizierten Geschäftsbericht auf ein sehr erfolgreiches Jahr 2023 zurück. Im Berichtsjahr hat sie zudem 31 neue Professorinnen und Professoren berufen – erstmals mehr Frauen (58%) als Männer. Neben ihrem Grundauftrag in Lehre, Forschung und Wissenstransfer hat sie unter anderem zwei neue nationale Forschungsinitiativen lanciert: Mit der «Coalition for Green Energy & Storage» will die ETH Zürich zusammen mit der EPFL und Partnern aus Politik, Wissenschaft und Industrie Lösungen für die Speicherung und den Transport erneuerbarer Energieträger entwickeln. Die zweite Initiative, die «Swiss AI»-Initiative, verfolgt das Ziel, die Schweiz als weltweit führenden Standort für die Entwicklung und Nutzung einer transparenten und vertrauenswürdigen Künstlichen Intelligenz zu positionieren.

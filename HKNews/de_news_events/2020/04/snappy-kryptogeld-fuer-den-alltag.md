@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/04/snappy-kryptogeld-fuer-den-alltag.html
 
-**Date processed:** 2025-05-01
-
 ## Die Eigenarten der Blockchain
 
 Längst sind Kryptowährungen wie Bitcoin, Ethereum oder Ripple nicht mehr nur ein Experimentierfeld für Systemkritiker. Sie haben sich als Anlagestrategie etabliert. Rund 5000 digitale Währungen gibt es heute. Von der populärsten, Bitcoin, sind heute über 18 Millionen Einheiten im Umlauf – das entspricht mehr als 126 Milliarden Euro. Ethereum, kurz Ether, ist die zweitgrösste digitale Währung mit einem Gesamtwert von rund 20 Milliarden Euro.

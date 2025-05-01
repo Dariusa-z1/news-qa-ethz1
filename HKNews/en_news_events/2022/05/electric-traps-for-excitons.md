@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/05/electric-traps-for-excitons.html
 
-**Date processed:** 2025-05-01
-
 ## An important interface
 
 In semiconductor materials, electric current can be conducted both by electrons and by positively charged holes, or missing electrons. Light hitting the material can also excite electrons to a higher energy band, leaving behind a hole in the original band. Through electrostatic attraction, the electron and the hole now combine to create a so-called exciton, a quasiparticle that, as a whole, behaves like a neutral particle. Because of their neutrality, so far is has been difficult to hold excitons at a specific point inside a material.

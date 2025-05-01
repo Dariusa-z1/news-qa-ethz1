@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/04/brain-game.html
 
-**Date processed:** 2025-05-01
-
 ## Steered by the eeg
 
 For this year’s Cybathlon, Nicole Wenderoth, an ETH Professor at the Neural Control of Movement Lab, is working closely with Professor Cuntai Guan from Nanyang Technological University (NTU) in Singapore. Guan’s group specialises in electroencephalography (EEG) and neural signal processing. In neuroscience, EEG is used to measure the electrical activity of the brain. With the right algorithms, it can also be used to play computer games.

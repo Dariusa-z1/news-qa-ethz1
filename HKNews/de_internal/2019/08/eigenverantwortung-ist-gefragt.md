@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/08/eigenverantwortung-ist-gefragt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wie kann ich einen Sitzungsteilnehmer unterbrechen, der zu viel Redezeit in Anspruch nimmt? Und was muss ich beachten, wenn ich eine Diskussion moderiere? Antworten auf diese Fragen erhofft sich Ahmet Demirörs vom Besuch des Kurses «Facilitating meetings and workshops». Demirörs, Oberassistent am Departement Materialwissenschaft, ist einer von neun Teilnehmern einer international zusammengesetzten Gruppe, die sich an einem Junimorgen im Zentrum für Weiterbildung einfindet. Die ETH will mit diesem Kurs Forschende und Leitende von wissenschaftlichen Projekten befähigen, Sitzungen und Workshops zu moderieren. Geleitet wird er von Ruth Förster, die selbst 15 Jahre im ETH-Bereich gearbeitet hat und nun als selbstständige Trainerin und Coach tätig ist.

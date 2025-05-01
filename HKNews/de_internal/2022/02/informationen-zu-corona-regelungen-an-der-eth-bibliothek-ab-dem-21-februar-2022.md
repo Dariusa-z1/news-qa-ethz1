@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/02/informationen-zu-corona-regelungen-an-der-eth-bibliothek-ab-dem-21-februar-2022.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Bitte beachten Sie, dass an allen Standorten der ETH-​Bibliothek weiterhin eine Maskenpflicht gilt.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/08/asvz-sports-week.html
 
-**Date processed:** 2025-05-01
-
 ## Benefizaktion für Sozialstipendien
 
 Die Zeit des Couch-Surfens hat ein Ende: auf geht’s, zur Sports Week des ASVZ! In der Zeit vom 25.9. bis 3.10. können Sporthungrige, Spiellustige und Bewegungswillige zahlreiche Angebote nutzen, die es im normalen Sportfahrplan nicht gibt.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/03/digitalised-students.html
 
-**Date processed:** 2025-05-01
-
 ## What happens when data is manipulated?
 
 University teaching has started to produce huge mountains of data. More and more courses use electronic platforms like Moodle and OLAT, which can record which students log in to work through the course material and how often they do so; how long students spend on particular exercises; how many attempts they need to solve certain tasks correctly; and more. This data can produce plenty of interesting information, and it can also help students as well as lecturers to design a more efficient and successful learning process. So far, so good... but a few questions arise when you look more closely.

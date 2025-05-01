@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/10/research-collection-lesen-was-interessiert.html
 
-**Date processed:** 2025-05-01
-
 ## Pandemic first
 
 Climate change, or more specifically the extreme events it may cause, is not only the topic of the most downloaded record, but is also the subject of the article with the highest altmetric score:

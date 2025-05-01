@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/04/durchblick-im-it-beschaffungsprozess.html
 
-**Date processed:** 2025-05-01
-
 ## Unterstützung bei Beschaffungen
 
 Folgende Kurse können ab sofort gebucht werden:

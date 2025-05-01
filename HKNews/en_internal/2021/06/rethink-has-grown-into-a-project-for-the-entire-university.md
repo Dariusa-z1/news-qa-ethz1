@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/06/rethink-has-grown-into-a-project-for-the-entire-university.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Mr Mesot, the completion of the analysis phase marks one of the first milestones in the rETHink project. How do you feel about that? When the results of the analysis were presented to us at an Executive Board meeting just over a month ago, I was quite overwhelmed – to begin with, simply by the enormous amount of work undertaken, for which I am extremely grateful. Over the past months, more than 600 ETH members have given serious thought to the way in which we are organised and work together. They have been brutally honest in their analysis of the strengths we need to preserve and where there is need for improvement.

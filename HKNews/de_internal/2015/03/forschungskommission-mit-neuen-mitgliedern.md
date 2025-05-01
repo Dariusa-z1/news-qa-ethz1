@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/03/forschungskommission-mit-neuen-mitgliedern.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Neu gewählt und bis 2019 im Amt sind:

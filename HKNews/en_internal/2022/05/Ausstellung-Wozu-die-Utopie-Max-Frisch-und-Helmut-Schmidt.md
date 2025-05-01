@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/05/Ausstellung-Wozu-die-Utopie-Max-Frisch-und-Helmut-Schmidt.html
 
-**Date processed:** 2025-05-01
-
 ## Exhibition
 
 Former German Chancellor Helmut Schmidt (1918–2015) was an assertive Realpolitiker who steered Germany through a series of dramatic crises during his period of office. The politician and author was always interested in informed and challenging debates, and actively reached out to intellectuals for this purpose.

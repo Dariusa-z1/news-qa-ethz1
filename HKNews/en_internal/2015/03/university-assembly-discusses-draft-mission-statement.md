@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/03/university-assembly-discusses-draft-mission-statement.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 At its plenary session on 12 March 2015, the UA discussed among other topics:

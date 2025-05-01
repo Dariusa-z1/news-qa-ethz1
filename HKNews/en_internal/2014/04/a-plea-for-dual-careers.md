@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/04/a-plea-for-dual-careers.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In my last column I outlined the potential differences in the experiences of female and male professors likely to persist as long as there are so few women in STEM fields. With this column, I would again like to relate my own experiences to broaden the discussion on dual career opportunities as they have affected my own life and career.

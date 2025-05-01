@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/07/medienmitteilung-mehr-als-nur-medaillen-gewinnen.html
 
-**Date processed:** 2025-05-01
-
 ## Schweizer Team solid, Chinesische Studierende am besten
 
 Es war ein Fest der Naturwissenschaften – oder genauer der Chemie –, das während der letzten Woche auf dem Campus Hönggerberg der ETH Zürich gefeiert wurde. 348 Schülerinnen und Schüler aus 89 Ländern trafen sich zum friedlichen Wettstreit und stellten in je fünfstündigen praktischen und theoretischen Prüfungen ihr Chemie Know-how unter Beweis. Die Aufgaben, die das wissenschaftliche Komitee unter der Leitung des ETH-Professors Wendelin Stark entwickelte, hatten es in sich. «Fünf Stunden praktische Chemie im Labor und fünf Stunden Theorie am Stück – auf Universitätsniveau – da kommen auch die weltweit Besten an den Anschlag», erklärt Wendelin Stark. «Entsprechend beeindruckt bin ich vom Einsatz und dem Fachwissen, das die Schülerinnen und Schüler in der vergangenen Woche gezeigt haben.»

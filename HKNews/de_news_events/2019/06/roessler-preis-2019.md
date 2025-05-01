@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/06/roessler-preis-2019.html
 
-**Date processed:** 2025-05-01
-
 ## Heller und klarer
 
 Ein strahlendes Blau, ein hell leuchtendes Grün, ein sattes Rot – es ist eine faszinierende Farbpalette, die Maksym Kovalenko in seinem Labor in verschiedenen Reagenzgläsern präsentiert. Doch faszinierend sind diese Farben nicht nur, weil sie so brillant scheinen, sondern auch weil sie das Produkt einer bemerkenswerten Idee sind, die in vielen Bereichen neue Massstäbe setzen könnte.

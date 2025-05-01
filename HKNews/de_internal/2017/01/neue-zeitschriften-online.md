@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2017/01/neue-zeitschriften-online.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Hierzu zählen z. Bsp. Biologie, Medizin, Agrar- und Lebensmittelwissenschaften:

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/07/climate-kic-switzerland-venture-competition-2014.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 On Thursday, 28 August, Gina Domanig, Managing Partner Emerald Technology Ventures, and Nick Beglinger, CEO FFGS and President swisscleantech, will be holding the keynotes. Climate-KIC Switzerland’s most promising start-ups will then take to the stage and present their 5 minute pitches to the audience and the expert panel.

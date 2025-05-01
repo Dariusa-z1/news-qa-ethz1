@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/02/ukraine-dialogue.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH News: Mr Grätz, is the exit of President Yanukovych on Sunday the most important step towards peace in Ukraine? Jonas Grätz: Many people in Ukraine continue to regard the events as a coup. Russian TV, which has a wide audience particularly in the southeast of the country, has portrayed the new authorities as fascists and neo-Nazis. A newly elected government will have a very hard time finding acceptance throughout the entire country.

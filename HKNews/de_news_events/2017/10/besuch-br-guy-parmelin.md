@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/10/besuch-br-guy-parmelin.html
 
-**Date processed:** 2025-05-01
-
 ## Mehr Kräfte für die Cyber-Abwehr
 
 «Zwischen dem Verteidigungsbereich des Bundes und der Hochschule bestehen seit Jahrzehnten enge Beziehungen», sagte ETH-Präsident Lino Guzzella in seiner Begrüssung des Magistraten im Audimax. Dabei arbeitet die Hochschule vor allem über zwei Kompetenzzentren mit dem VBS zusammen: Einerseits unterstützt das ETH Center for Security Studies die Sicherheitspolitik der Schweiz mit seinen sozioökonomischen und politologischen Kompetenzen. Andererseits verfügt die ETH mit dem ZISC, dem Zurich Information Security & Privacy Center mit seiner klar technischen Orientierung über ein Zentrum, das gemeinsam mit der Industrie und dem Bund Lösungen für die wachsenden Herausforderungen bei der Informationssicherheit entwickelt. «Und nicht zuletzt», so Lino Guzzella, «ist die an der ETH Zürich beheimatete Militärakademie MILAK ein starkes Band zwischen der ETH und dem Sicherheitsbereich des Bundes.»

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/07/neue-leitlinien-fuer-den-einsatz-generativer-ki-in-der-lehre.html
 
-**Date processed:** 2025-05-01
-
 ## Verantwortung, Transparenz und Fairness
 
 Die im vergangenen Semester durchgeführte Dozierendenumfrage zum Einsatz von generativer Künstlicher Intelligenz (GenAI) hat gezeigt, dass Dozierende offene Fragen zur Nutzung haben und sich bessere Hilfestellungen wünschen.

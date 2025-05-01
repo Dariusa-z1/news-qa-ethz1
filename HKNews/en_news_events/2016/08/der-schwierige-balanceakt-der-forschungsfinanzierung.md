@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/08/der-schwierige-balanceakt-der-forschungsfinanzierung.html
 
-**Date processed:** 2025-05-01
-
 ## The primacy of free research funding
 
 • Transparency: Sponsors, funding sources and contracts are available to the public at all times, and should be cited in publications and communications.

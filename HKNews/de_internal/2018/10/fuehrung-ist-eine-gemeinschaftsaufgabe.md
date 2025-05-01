@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/10/fuehrung-ist-eine-gemeinschaftsaufgabe.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 «Vorgesetzte zu werden, war nie wirklich mein Ziel», sagt Laura Nyström, die vor neun Jahren für eine Assistenzprofessur am Departement Gesundheitswissenschaften und Technologie von Finnland in die Schweiz zog. Heute leitet sie als ausserordentliche Professorin eine Forschungsgruppe mit rund 20 Mitarbeitenden. 2015 hat sie einen ERC Starting Grant in Höhe von 1,6 Millionen Franken erhalten, Ende August wurde sie mit dem ALEA Award als vorbildlichste Führungskraft der ETH ausgezeichnet. Was macht ihren Erfolg aus?

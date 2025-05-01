@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/08/alea-award.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Laura Nyström mit dem Alea-Würfel. (Bild: Gianmarco Castelberg)

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/06/extraordinary-researcher-honoured.html
 
-**Date processed:** 2025-05-01
-
 ## Spotlight on a young field of research
 
 In 1990, scientists introduced a gene known to stimulate the production of flower pigments into petunia flowers to enhance their colour. However, the genetically modified plants turned practically white. The newly introduced genes not only failed to be expressed, but they also suppressed the naturally present one.

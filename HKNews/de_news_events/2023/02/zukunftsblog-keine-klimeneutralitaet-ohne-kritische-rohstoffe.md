@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/02/zukunftsblog-keine-klimeneutralitaet-ohne-kritische-rohstoffe.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Seit dem russischen Angriffskrieg in der Ukraine und dem Gas-Erpressungsversuch treibt Europa die Energiewende auch unter dem Aspekt der Versorgungssicherheit voran. 1 Klimaneutralität hat Konjunktur, verspricht das Fernziel doch implizit, uns aus den Fesseln fossiler Energieträger zu befreien. Dabei übersehen wir, dass mit erneuerbaren Energien neue Abhängigkeiten drohen.

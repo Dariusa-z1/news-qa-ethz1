@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/04/neuronales-netzwerk-kann-baumhoehen-von-satellitenbildern-ablesen.html
 
-**Date processed:** 2025-05-01
-
 ## Trainiert mit Laserscanning-Daten aus dem Weltraum
 
 Seit letztem Jahr befinden wir uns in der UN-Dekade für die Wiederherstellung von Ökosystemen (engl. «UN Decade on Ecosystem Restoration»). Die Initiative hat sich zum Ziel gesetzt, bis 2030 die Degradation der Ökosysteme aufzuhalten, ihr vorzubeugen und bereits entstandene Schäden, wenn möglich zu beheben. Für solche Vorhaben benötigen die Akteure präzise Grundlagen wie zum Beispiel Vermessungen und Karten des Bestands. Ralph Dubayah, Leiter der «Global Ecosystem Dynamics Investigation (GEDI)»-Mission der NASA erklärt in einem Interview: «Wir wissen schlicht nicht, wie hoch die Bäume weltweit sind. [...] Wir brauchen globale Karten davon, denn wenn wir Bäume fällen, setzen wir CO 2 in die Atmosphäre frei, und wir wissen nicht, um wie viel es sich handelt.»

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/04/elektronische-karten-inklusive-geodaten-in-der-vorschau-und-zum-download.html
 
-**Date processed:** 2025-05-01
-
 ## Nutzen Sie moderne und historische Karten
 
 Suchen Sie Karten für Ihre Forschung, die Lehre oder die private Urlaubsreise? Benötigen Sie hochaufgelöste und georeferenzierte Daten, möglichst als Open Data zur Weiterverwendung in einer GIS-Software? Dann recherchieren Sie im neuen Angebot elektronischer Karten . Zum wachsenden Angebot digitaler Karten rund um die Themen Gewässer, Küsten und mehr gehören beispielsweise die externe Seite Geologische Küstenkarte von Niedersachsen: Relief der Holozänbasis (2006) und die externe Seite Häfen des Schwarzen Meeres an der asiatischen Küste (nach 1855) .

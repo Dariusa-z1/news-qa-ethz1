@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/03/blog-pesticide-free-as-a-new-pathway-for-agriculture.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 A new approach is gaining momentum in European agriculture: a “third way” that lies between conventional production and organic farming systems. Here farmers must forego synthetic pesticides, but these only – which is simpler to implement than a switch to organic farming. At the same time, this move will achieve the ambitious targets that Switzerland and Europe have set themselves for more sustainable plant protection. 1, 2 Pesticide use is associated with considerable risks for the environment, biodiversity and human health. 3

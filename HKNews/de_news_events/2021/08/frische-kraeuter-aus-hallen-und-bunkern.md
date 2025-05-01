@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/08/frische-kraeuter-aus-hallen-und-bunkern.html
 
-**Date processed:** 2025-05-01
-
 ## Mehr Ertrag, weniger Verbrauch
 
 Mark Zahrans Grossvater fuhr im Berner Mittelland mit dem Traktor aufs Feld. Er selber tüftelt nun in einem Zürcher Grossraumbüro daran, wie die Landwirtschaft der Zukunft aussehen könnte. «Unser ökologischer Fussabdruck hängt zu einem grossen Teil davon ab, wie wir unsere Lebensmittel produzieren», sagt Zahran auf dem kleinen Vorplatz des Büros, wenige Meter daneben rauscht die Sihl. «Zudem brauchen wir Lösungen, wie wir bis 2050 eine Weltbevölkerung von 10 Milliarden Menschen nachhaltig ernähren können.»

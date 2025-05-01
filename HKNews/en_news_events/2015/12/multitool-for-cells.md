@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/12/multitool-for-cells.html
 
-**Date processed:** 2025-05-01
-
 ## Sensor, processor and motor all in one
 
 A frequent problem faced by cells is that they are surrounded by a promising cloud of scent and must determine the direction of its source. Nerve cells, for example, form long extensions that are attracted to signals from other cells in order to produce the network that forms the nervous system; similarly, scavenger cells recognise the scent of harmful germs in order that they can pursue and destroy them.

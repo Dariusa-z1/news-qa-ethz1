@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2023/04/new-e-learning-tutorial-on-unconscious-bias.html
 
-**Date processed:** 2025-05-01
-
 ## Stereotyping – and its consequences
 
 Most of us are familiar with this type of scenario. For example, we may automatically speak with a person of colour (PoC) in standard German or English but are then quite surprised when they respond in very broad Swiss German. Quite unintentionally we may have hurt their feelings – a classic example of unconscious bias. Such biased thinking is due to the fact that our brain is trained to make incredibly rapid judgements – that’s one of its key functions. People subconsciously make several thousand decisions a day, some of them not always the right ones.

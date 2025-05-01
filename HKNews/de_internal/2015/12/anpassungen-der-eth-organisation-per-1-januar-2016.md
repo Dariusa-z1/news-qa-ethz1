@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/12/anpassungen-der-eth-organisation-per-1-januar-2016.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Weitere Änderungen der Organisationsverordnung:

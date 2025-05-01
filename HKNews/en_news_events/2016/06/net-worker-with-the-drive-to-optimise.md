@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/06/net-worker-with-the-drive-to-optimise.html
 
-**Date processed:** 2025-05-01
-
 ## Making grids smarter
 
 Gabriela Hug is a small woman with a bright, alert gaze. When she speaks, she slips back into English now and then – a reminder of the time she and her husband spent in Canada and the US after her thesis. And there are many who want to hear her speak these days: lectures, conferences, contacts with industry – Hug is inundated with requests. This is due to her specialisation: optimisation of energy grids. At the Power Systems and High Voltage Laboratories (EEH) at ETH Zurich, Hug develops computational methods to operate modern electricity networks safely and reliably. As a result of her research, the World Economic Forum recently appointed her to the Young Scientists, a community of young researchers who creatively push the limits in their fields of expertise.

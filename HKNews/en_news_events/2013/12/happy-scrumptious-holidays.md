@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/12/happy-scrumptious-holidays.html
 
-**Date processed:** 2025-05-01
-
 ## Starters
 
 The recipes submitted ranged from quick and easy ideas to elaborate three-course meals. Congratulations to the two winners of our raffle. Here is a small selection of the recipes we received, separated into starters, main dishes and desserts. Bon appetit!

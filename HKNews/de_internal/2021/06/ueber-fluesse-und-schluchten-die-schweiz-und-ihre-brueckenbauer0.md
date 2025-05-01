@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/06/ueber-fluesse-und-schluchten-die-schweiz-und-ihre-brueckenbauer0.html
 
-**Date processed:** 2025-05-01
-
 ## Vom Handwerk zur Ingenieurskunst
 
 Der moderne Brückenbau nahm seinen Anfang vor mehr als 150 Jahren. Bis heute hat er grosse Entwicklungen durchgemacht. Eine wichtige Rolle spielten dabei Ingenieure der ETH Zürich: Sie erarbeiteten nicht nur die technischen Grundlagen, sondern schufen auch wahre Kunstwerke im In- und Ausland. Schliesslich war die ETH im Jahr 1855 ausdrücklich auch mit dem Ziel gegründet worden, Techniker für den Strassen-, Eisenbahn-, Wasser- und Brückenbau auszubilden.

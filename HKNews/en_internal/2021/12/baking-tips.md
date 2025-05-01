@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/12/baking-tips.html
 
-**Date processed:** 2025-05-01
-
 ## Beehives
 
 There are two schools of thought about this cookie’s name: Kristýna Kantnerová definitely belongs to the “beehive” camp.

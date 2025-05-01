@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/08/power-is-not-intrinsically-good-or-bad.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 You study the effects of social power on human behaviour. What does that involve? Social power is about asserting control over coveted resources. Not just money or food, but also things like affection or knowledge. Yet it’s not enough to simply have control over those resources – you only become socially powerful if someone else desires them.

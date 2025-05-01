@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/04/publikationen-transparent-und-global-read-and-publish-vereinbarung-mit-wiley.html
 
-**Date processed:** 2025-05-01
-
 ## Forschungsergebnisse kostenfrei publizieren
 
 Als Wissenschaftlerin oder Wissenschaftler der ETH Zürich können Sie ab dem 1. Mai 2021 Open-Access-Artikel in Zeitschriften von Wiley publizieren, ohne dass für Sie Kosten anfallen. Denn die Kosten werden durch die neue Read-and-Publish-Vereinbarung gedeckt. Voraussetzung dafür ist, dass Sie als korrespondierende Autorin oder korrespondierender Autor des eingereichten Artikels an der ETH Zürich beschäftigt sind und der Artikel nach dem 30. April 2021 vom Verlag zur Publikation akzeptiert wurde. Bitte wählen Sie bei der Einreichung des Artikels die Zugehörigkeit zur ETH Zürich aus. Detaillierte Informationen zum Workflow finden Sie auf unserer Website APC-Finanzierung .

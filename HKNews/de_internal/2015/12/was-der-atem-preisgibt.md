@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/12/was-der-atem-preisgibt.html
 
-**Date processed:** 2025-05-01
-
 ## Flagship-Projekte gesucht
 
 Die Medizin will in Zukunft die Atemluft vermehrt nutzen, um Krankheiten zu diagnostizieren. «Da steckt ein grosses Potenzial darin», sagte Renato Zenobi, Professor für analytische Chemie an der ETH Zürich, am Jahresanlass der Hochschulmedizin Zürich (HMZ). Gemeinsam mit Malcolm Kohler, Direktor der Klinik für Pneumologie am Universitätsspital Zürich, präsentierte er das Projekt «Was der Atem preisgibt».

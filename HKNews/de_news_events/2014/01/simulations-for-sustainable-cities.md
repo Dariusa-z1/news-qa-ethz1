@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/01/simulations-for-sustainable-cities.html
 
-**Date processed:** 2025-05-01
-
 ## Flows of heat and traffic
 
 The occasion, rather improbably, was the mid-term review of Future Cities Laboratory (FCL), a research programme of the Singapore-ETH Centre for Global Environmental Sustainability (SEC). We were standing in FCL’s ‘Value Lab Asia’ in Singapore, which is dominated by a display screen taking up an entire wall and three smaller screens. An international evaluation committee was being shown some of the exciting simulation products developed during the first three years of research at SEC.

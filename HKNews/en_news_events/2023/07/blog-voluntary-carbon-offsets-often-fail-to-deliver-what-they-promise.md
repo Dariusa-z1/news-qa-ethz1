@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/07/blog-voluntary-carbon-offsets-often-fail-to-deliver-what-they-promise.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Voluntary offset markets work according to the principle that emission reductions are achieved where it is most cost-effective. At first glance, that makes sense. Often, however, offset projects don’t deliver what they promise. On the contrary, the skyrocketing demand for cheap offsets incentivizes project developers to scale up projects with increasing speed. Many actors benefit from this noxious effect: project developers and verifiers from the growing market, buyers from attractive prices.

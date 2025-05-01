@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/06/mit-globi-unterwegs-im-wald.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Am 10. Juni eröffnete «Globis Waldlabor» auf dem Hönggerberg. Der Lehrpfad durch das Waldlabor wurde zum Start von 60 Kindern aus Höngg und Affoltern in Beschlag genommen. Sie gingen auf die Pirsch im Wald und erlebten gemeinsam mit Globi einen spannenden Nachmittag mit verschiedenen Experimenten.

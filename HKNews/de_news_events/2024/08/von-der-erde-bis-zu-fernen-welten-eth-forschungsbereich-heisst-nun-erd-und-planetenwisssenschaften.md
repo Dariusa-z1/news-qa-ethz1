@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/08/von-der-erde-bis-zu-fernen-welten-eth-forschungsbereich-heisst-nun-erd-und-planetenwisssenschaften.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH News: Johan Robertsson, Ihr Departement hat soeben den Namen gewechselt. Was war der Grund für diese Umbenennung? Johan Robertsson: Wir waren mehr als bereit für diese Namensänderung. Schon heute arbeiten mehr als die Hälfte der Professorinnen und Professoren unseres Departements an Themen, die direkt oder indirekt mit dem Weltraum zu tun haben, mit Ansätzen, die in den Erdwissenschaften verankert sind, aber eng mit Chemie, Physik und Biologie zusammenhängen. Das Themenspektrum reicht von der Fernerkundung der Erde aus dem Weltraum über die Erforschung von Exoplaneten bis hin zu Gravitationswellen. Unser Departement war massgeblich an der InSight-Mission zum Mars beteiligt. Unsere Forschenden untersuchen die Dynamik anderer Planeten, wie sie entstehen und sich im Laufe der Zeit entwickeln. Wir sind auch an Missionen beteiligt, bei denen Gesteinsproben von Asteroiden oder vom Mars gesammelt und in unseren Labors analysiert werden. Mit den neuesten Grossteleskopen untersuchen unsere Forschenden die geochemischen Signaturen von Exoplaneten auf Hinweise für Leben. Nicht zuletzt sind mehrere unserer Professorinnen und Professoren Mitglieder des Centre for Origin and Prevalence of Life (COPL), wo dieser Bereich eine zentrale Rolle spielt.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/07/no-air-con-but-a-cooling-curtain.html
 
-**Date processed:** 2025-05-01
-
 ## An alternative for heat-afflicted areas
 
 It all began with a vague idea: “We thought it would be interesting to combine opposing functions in one material,” says Mario Stucki, a doctoral student at ETH Zurich’s Functional Materials Laboratory. He combined two layers of hydrophobic (water-repellent) polyurethane with a middle layer of hydrophilic (water-attracting) polymer. The resulting membrane feels dry, although it is saturated with water, and since the outer layers are covered with holes of about one micrometre in diameter, water can escape from the middle layer into the environment.

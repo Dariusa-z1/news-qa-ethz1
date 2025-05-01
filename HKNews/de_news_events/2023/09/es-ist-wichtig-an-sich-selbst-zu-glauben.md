@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/09/es-ist-wichtig-an-sich-selbst-zu-glauben.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Lina De Windt erlebte eine komplett neue Welt, als sie ihr Studium an der ETH begann. Sie kam von einem Gymnasium, wo der Sport - in ihrem Fall das Ballett - im Vordergrund stand. An der ETH musste sie in vielen Fächern aufholen. Im Video erzählt sie, wie sie diese Umstellung erlebt hat und was sie neuen Studierenden rät.

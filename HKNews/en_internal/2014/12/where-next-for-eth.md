@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/12/where-next-for-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Indicatoritis
 
 ETH is one of the world’s leading technical universities. And rightly so! But how do we define “global leader”? Does it matter whether ETH moves up one or two places in a global ranking that is partially based on criteria widely regarded as dubious? This question could be dismissed as irrelevant as far as everyday university life is concerned. However, if we do consider the rankings to be important, it is only logical – and even necessary – that the quality of ETH staff is assessed using criteria that are commensurate with those employed in the rankings. It is noteworthy, this implies that the quality criteria are dictated from outside, rather than being based on internal agreement.

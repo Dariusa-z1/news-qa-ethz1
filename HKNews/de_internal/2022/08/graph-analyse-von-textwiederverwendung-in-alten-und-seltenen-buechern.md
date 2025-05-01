@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/08/graph-analyse-von-textwiederverwendung-in-alten-und-seltenen-buechern.html
 
-**Date processed:** 2025-05-01
-
 ## Bestimmen des Ursprungs gewisser Textpassagen mit Graph
 
 Die Plattform Graph , eine Kooperation der ETH-Bibliothek und der Professur für Geschichte und Theorie der Architektur des Instituts für Geschichte und Theorie der Architektur, visualisiert Muster von Textwiederverwendungen innerhalb eines Korpus und stellt deren verschiedene Verbindungen in einem Diagramm dar.

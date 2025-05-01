@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/12/medienmitteilung-eth-zuerich-erhaelt-grosse-donation-und-plant-lehr-und-forschungseinrichtung-in-deutschland.html
 
-**Date processed:** 2025-05-01
-
 ## Rund 20 neue Professuren über die nächsten 30 Jahre
 
 Klimawandel, geopolitische Instabilitäten, Energiekrise, Unterbrechungen von Lieferketten, Cyberangriffe, die sich rasch verändernde Arbeitswelt: Die Gesellschaft steht vor zahlreichen globalen Herausforderungen. «Einer der Schlüssel für Lösungen liegt in der digitalen Transformation. Alle Kräfte sind gefordert – insbesondere Wissenschaft und Universitäten. Diese tragen eine besondere Verantwortung, ihren Beitrag zu leisten», erklärt ETH-Präsident Joël Mesot die Motivation für diese Partnerschaft.

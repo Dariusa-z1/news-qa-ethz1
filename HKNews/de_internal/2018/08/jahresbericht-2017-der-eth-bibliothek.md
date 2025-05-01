@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/08/jahresbericht-2017-der-eth-bibliothek.html
 
-**Date processed:** 2025-05-01
-
 ## Quiz zum Jahresbericht
 
 • Im Kapitel Services stellen wir unser aktuelles Dienstleistungsspektrum sowie 2017 eingeführte innovative Angebote vor.

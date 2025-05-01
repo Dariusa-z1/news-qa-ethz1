@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/03/Kooperieren-fuer-bessere-Nahrungsmittel.html
 
-**Date processed:** 2025-05-01
-
 ## Impulse aus der Praxis
 
 Jeden Tag volle Regale mit qualitativ hochstehenden und nachhaltig produzierten Lebensmitteln – das ist keine Selbstverständlichkeit. Coop hat sich nicht nur als Anbieter von nachhaltig produzierten Nahrungsmitteln positioniert, sondern engagiert sich mit dem «Coop Fonds für Nachhaltigkeit» auch für neue Lösungsansätze auf dem Gebiet ressourceneffizienter Nahrungsmittelproduktion. Coop unterstützt deshalb die ETH Zürich mit einem finanziellen Beitrag an die ETH Zürich Foundation, die den Mitgliedern des World Food System Center (WFSC) zu Gute kommt. «Coop ist es ein Anliegen, Forschung zu unterstützen, von der die Kundinnen und Kunden unmittelbar profitieren können», erklärt Sibyl Anwander, Leiterin Nachhaltigkeit / Wirtschaftspolitik, bei Coop.

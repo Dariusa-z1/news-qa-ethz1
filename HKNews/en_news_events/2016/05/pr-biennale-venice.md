@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/05/pr-biennale-venice.html
 
-**Date processed:** 2025-05-01
-
 ## Architecture for the people
 
 Confronted with rapid population growth, urban regions face an influx of migrants and the challenges of climate change. For this reason, ETH Zurich is focusing its research on the development of sustainable cities. It is hardly surprising, then, that ETH Zurich is represented so prominently at this year’s Architecture Exhibition in Venice, that addresses how architecture can improve people’s living situations.

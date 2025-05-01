@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/12/globe-schmerzen-lindern-ohne-abhaengigkeit.html
 
-**Date processed:** 2025-05-01
-
 ## Optimale Therapie
 
 Der Umgang mit Opioiden wird viel diskutiert. Gemeint sind damit Morphin und mit ihm verwandte Wirkstoffe wie Oxycodon, die als Schmerzmittel eingesetzt werden. Sie sind ein Segen für Patientinnen und Patienten mit akuten starken Schmerzen, können aber wegen ihres Abhängigkeitspotenzials und der Gefahr lebensbedrohlicher Überdosierungen auch zum Fluch werden. Die Opioidkrise in den USA und in Kanada, wo jährlich mehrere Zehntausend Menschen an einer Überdosis sterben, wirft ihren Schatten auch auf Europa, wo die ärztliche Verschreibung von Opioiden wie dem Oxycodon in den letzten zehn Jahren deutlich zugenommen hat.

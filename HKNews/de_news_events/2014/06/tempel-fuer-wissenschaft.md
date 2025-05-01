@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/06/tempel-fuer-wissenschaft.html
 
-**Date processed:** 2025-05-01
-
 ## Umstrittener Stararchitekt
 
 «Der höchste Stolz Zürichs ist das eidgenössische Polytechnikum …» ist in einer illustrierten Chronik der Stadt Zürich von 1896 nachzulesen. Dieses begeisterte Urteil war nicht von Anfang an selbstverständlich, wie die Entstehungsgeschichte des ETH-Hauptgebäudes zeigt. Denn ein Monumentalbau von dieser Grössenordnung war dem zuvor in Zürich herrschenden Baugeschmack eher fremd. Man dachte städtebaulich vielmehr im Geist «republikanischer Einfachheit».

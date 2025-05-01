@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/12/acids-help-against-airborne-viruses.html
 
-**Date processed:** 2025-05-01
-
 ## How do suspended particles become acidic?
 
 Viruses such as SARS-CoV-2, influenza virus and others travel from person to person essentially by hitchhiking on aerosols. These are finely dispersed particles containing liquid suspended in the air that an infected person expels when coughing, sneezing, or simply exhaling, and can be inhaled by someone else.

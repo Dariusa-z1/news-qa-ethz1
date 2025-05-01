@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/07/scientifica-2015-was-die-welt-erhellt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 2015 is the International Year of Light. Inspired by this theme, Scientifica 2015 will focus on light and enlightenment from 5 to 6 September.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/11/effective-learning-with-wikibooks.html
 
-**Date processed:** 2025-05-01
-
 ## Quality textbooks for everyone
 
 Thomas Haslwanter has always had a penchant for compact knowledge: the first thing he did after submitting his doctoral thesis at ETH Zurich in 1992 was to treat himself to a comprehensive encyclopaedia. Haslwanter is now a professor of medical engineering at the University of Applied Sciences Upper Austria and is an associate professor for the Computer Simulations of Sensory Systems course at ETH Zurich. Over a semester, Master’s students from the fields of medical engineering, biology and neuro-informatics learn about the physiological characteristics of sensory systems, such as eyes, ears and balance, and come to understand the technologies that simulate such systems or use them as a source of inspiration.

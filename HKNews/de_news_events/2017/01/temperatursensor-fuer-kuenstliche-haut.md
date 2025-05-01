@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/01/temperatursensor-fuer-kuenstliche-haut.html
 
-**Date processed:** 2025-05-01
-
 ## Entdeckung durch «Cyber-Holz»
 
 Klapperschlangen und Grubenottern sind bekannt dafür, dass sie ihre Beute auch in völliger Dunkelheit sicher orten können. Das hochsensible Grubenorgan zwischen Auge und Nase erlaubt es ihnen, den warmen Körper eines Säugetiers noch aus einem Meter Entfernung wahrzunehmen. Die genaue Funktionsweise dieser Temperatursensoren wurde erst vor wenigen Jahren entschlüsselt.

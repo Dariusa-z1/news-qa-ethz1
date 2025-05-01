@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/01/the-r-pioneer.html
 
-**Date processed:** 2025-05-01
-
 ## Something meaningful for mankind
 
 While others wanted to become train drivers in the 1960s, one thing was always clear to Martin Mächler: he wanted to become a researcher. And that also did not change while he was at secondary school. If he was not learning mathematics, he was tinkering with computer programs. And that at a time when hardly anyone had a computer.

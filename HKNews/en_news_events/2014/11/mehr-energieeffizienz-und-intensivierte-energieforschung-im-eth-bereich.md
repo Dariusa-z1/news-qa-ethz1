@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/11/mehr-energieeffizienz-und-intensivierte-energieforschung-im-eth-bereich.html
 
-**Date processed:** 2025-05-01
-
 ## An increase in energy efficiency in the ETH Domain
 
 The Swiss Federal Administration, the ETH Domain and the parastate enterprises have an example to set when it comes to using environmental and energy resources. Together, they account for around two per cent of Switzerland’s energy consumption. For several years now, the Federal Administration, SBB, Swiss Post, Swisscom and Skyguide have been endeavouring to boost their energy efficiency and reduce their consumption levels – and they are ready to step up these efforts even further in future.

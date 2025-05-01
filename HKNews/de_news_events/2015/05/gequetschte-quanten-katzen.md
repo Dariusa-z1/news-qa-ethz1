@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/05/gequetschte-quanten-katzen.html
 
-**Date processed:** 2025-05-01
-
 ## Quetschen und Verschieben
 
 Die Quantenphysik steckt voller faszinierender Phänomene. Da ist zum Beispiel die Katze aus dem berühmten Gedankenexperiment des Physikers Erwin Schrödinger. Sie kann zugleich tot und lebendig sein, da ihr Leben vom quantenmechanisch bestimmten Zustand eines radioaktiv zerfallenden Atoms abhängt, das seinerseits Giftgas in den Katzenkäfig entweichen lässt. Solange man den Zustand des Atoms nicht gemessen hat, weiss man auch nichts über den Gesundheitszustand der armen Katze – Atom und Mieze sind aufs engste miteinander «verschränkt».

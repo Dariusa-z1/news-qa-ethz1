@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/04/stab-vppl-gut-gestartet-und-bereit-fuer-noch-viel-mehr.html
 
-**Date processed:** 2025-05-01
-
 ## Die Aufgaben des Stabs
 
 «Unseren Stab gibt’s erst seit kurzer Zeit. Dennoch – oder gerade deshalb – läuft seit Tag 1 unglaublich viel», beschreibt Maximilian Buyken, Stabsleiter von VPPL , die vergangenen Monate. Seit Dezember steht er Julia Dannath-Schuh mit Rat und Tat zur Seite und ist zentrale Anlaufstelle für die 13 anderen Mitglieder des Stabs, die sich auf die folgenden Einheiten verteilen:

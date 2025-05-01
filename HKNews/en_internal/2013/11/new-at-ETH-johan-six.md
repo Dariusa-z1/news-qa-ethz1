@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2013/11/new-at-ETH-johan-six.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 How would you explain your research to a child? Johan Six: By saying: “I try to get the best food onto your plate and want to make sure that the food you get on a daily basis is of really high quality – that means, healthy and produced in a good way. With this kind of food, not only you stay healthy, but also the environment.”

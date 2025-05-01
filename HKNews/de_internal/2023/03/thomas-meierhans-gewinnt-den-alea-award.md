@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/03/thomas-meierhans-gewinnt-den-alea-award.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der Gewinner des ALEA Awards 2023 heisst Thomas Meierhans. Der Chef der Metallwerkstatt im Departement Bau, Umwelt und Geomatik leitet den Betrieb mit rund sieben technischen Mitarbeitenden und ist zuständig für die Abwicklung von Kundenaufträgen aus der Forschung. Julia Dannath, Vizepräsidentin für Personalentwicklung und Leadership, überreichte den Award an den strahlenden Gewinner.

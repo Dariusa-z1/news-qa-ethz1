@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/02/pharmabiome.html
 
-**Date processed:** 2025-05-01
-
 ## Transplantation mit Risiken
 
 Um die 500 verschiedene Bakterienarten leben in unseren Gedärmen. Sie helfen unser Essen zu verdauen, indem sie grosse Moleküle wie Nahrungsfasern in kleinere zerlegen, die ins Blut gelangen und so dem Körper als Nährstoffe und Energiequelle dienen. Zusammen bilden die Mikroorganismen ein komplexes und fein austariertes Ökosystem, in dem jede Bakterienart eine spezielle Teilaufgabe übernimmt.

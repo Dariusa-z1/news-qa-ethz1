@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/03/biodiversity-mechanisms-critically-examined.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The prize-winner Dörte Bachmann. (Photo: ETH Zurich / Peter Rüegg)

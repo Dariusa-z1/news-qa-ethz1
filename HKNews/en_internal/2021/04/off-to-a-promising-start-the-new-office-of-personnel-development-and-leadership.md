@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/04/off-to-a-promising-start-the-new-office-of-personnel-development-and-leadership.html
 
-**Date processed:** 2025-05-01
-
 ## Roles and duties at VPPL
 
 “The VPPL staff unit has only been in existence for a short while. Despite that – or maybe even because of it – there's been an incredible amount going on since day one,” says Maximilian Buyken. Since this past December, he has served as Chief of Staff to Julia Dannath-Schuh and acts as the main go-to person for the 13 other team members of the Office of Personnel Development and Leadership . This newly created staff unit is home to the following sub-units:

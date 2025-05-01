@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/04/globe-die-soziale-seite-der-naturkatastrophen.html
 
-**Date processed:** 2025-05-01
-
 ## Riskante Stadt-Wald-Schnittstellen
 
 Christine Eriksen lebte und forschte 13 Jahre lang in Australien, bevor sie im August 2020 ihre Stelle an der ETH Zürich antrat. «Mit ein Grund für meinen Umzug in die Schweiz waren die Buschbrände», erzählt sie. Während des «Black Summer» zwischen Juni 2019 und Mai 2020 brannten in Australien mehr als 18 Millionen Hektaren Fläche, die Schäden wurden auf 70 Milliarden Schweizer Franken geschätzt. Damals lebte Eriksen in Wollongong, 90 Kilometer südlich von Sydney. Während Monaten brannte das Hinterland und der Rauch zog in die tiefer gelegenen Städte an der Küste. «Ich bin in der Nacht oft erschrocken aufgewacht und habe nach Luft gerungen, weil das Zimmer voller Rauch stand», erzählt Eriksen. «Dies, obschon ich 60 Kilometer vom nächsten Brandherd entfernt lebte.» Millionen waren chronischem Rauch ausgesetzt, und Eriksen verlor die Möglichkeit, in ihrer Freizeit etwas Abstand zu gewinnen von ihrem Forschungsthema: den gesellschaftlichen Konsequenzen von Naturkatastrophen.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/05/hows-eth-going-students-survey.html
 
-**Date processed:** 2025-05-01
-
 ## High response rate
 
 The “#howsETHgoing?” survey conducted by the Association of Students at ETH (VSETH) is quite possibly the largest survey in its history. All 16,000 Bachelor’s and Master’s students were asked to answer 30 to 50 questions about their academic situation and their mental state in general, and in particular about experiences of discrimination or unequal treatment at ETH Zurich. The number of questions varied, since follow-up questions were asked if, for example, participants claimed to have experienced discrimination or if they described themselves as non-heterosexual or transgender at the beginning of the survey.

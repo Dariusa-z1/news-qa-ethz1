@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/12/die-schulleitung-informiert-2018-7.html
 
-**Date processed:** 2025-05-01
-
 ## Neue ETH+ Grants
 
 Personalrochaden in der Forschungskommission der ETH Zürich (FK): Auf den 1. März 2019 hat die Schulleitung Ulrik Brandes (D-GESS), Max Schmidt (D-ERDW) und Emo Welzl (D-INFK) für eine vierjährige Amtsdauer gewählt. Um eine Lücke in der Expertise zur Bauwissenschaft zu schliessen, wurde Robert Flatt (D-BAUG) gewählt. Schulleitung und FK verdanken die Leistungen der zurückgetretenen Jeffrey Bode (D-CHAB), Lars-Erik-Cederman (D-GESS), Derek Vance (D-ERDW) und Peter Widmayer (D-INFK). Anthony Patt (D-USYS) wurde für eine zweite Amtsdauer wiedergewählt.

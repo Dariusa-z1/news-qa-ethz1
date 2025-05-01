@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/12/aveth-50-years.html
 
-**Date processed:** 2025-05-01
-
 ## Focus on doctoral supervision
 
 What began as a tentative idea has evolved over the past 50 years to become a mainstay of the university: the Academic Association of Scientific Staff at ETH Zurich (AVETH) includes representatives from all academic departments as well as the Singapore-ETH Centre. It represents the interests of doctoral students, post-docs and scientific staff in the University Assembly and on a number of university commissions. The organisation currently has 2,300 members. This is equivalent to one- third of the approximately 6,000 scientific staff, the majority of whom (some 4,000) are doctoral students. “Our membership figures are very high compared to other universities,” says Martin Roszkowski, AVETH President since 2017.

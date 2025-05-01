@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/01/neues-normenportal.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Im neuen Normenportal externe Seite eresearchcenter stehen folgende Normen zur Verfügung:

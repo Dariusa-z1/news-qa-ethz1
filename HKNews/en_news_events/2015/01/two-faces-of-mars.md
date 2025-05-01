@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/01/two-faces-of-mars.html
 
-**Date processed:** 2025-05-01
-
 ## Volcanic activity stopped 3.5 billion years ago
 
 The two hemispheres of Mars are more different from any other planet in our solar system. Non-volcanic, flat lowlands characterise the northern hemisphere, while highlands punctuated by countless volcanoes extend across the southern hemisphere. Although theories and assumptions about the origin of this so-called and often-discussed Mars dichotomy abound, there are very few definitive answers. ETH Zurich geophysicists with Giovanni Leone are now providing a new explanation. Leone is the lead author of a paper recently published in the journal Geophysical Research Letters .

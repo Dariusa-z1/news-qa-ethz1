@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/02/zukunftsblog-beat-christen-artificial-organisms.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Every living creature on earth has parents, grandparents, great-grandparents and so on – representing an unbroken line of ancestry all the way back to the very first organisms that lived here billions of years ago. Soon we will have life forms that have no such direct lineage. The first of these organisms will be bacteria. Bioengineers will use computers to develop such bacteria and specifically tailor them for applications in medicine, industry or agriculture. With the help of DNA synthesisers, they will build these bacteria’s genomes from the ground up to produce artificial life forms.

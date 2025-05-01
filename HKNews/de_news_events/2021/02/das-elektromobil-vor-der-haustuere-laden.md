@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/02/das-elektromobil-vor-der-haustuere-laden.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 (Bild: ETH Zürich)

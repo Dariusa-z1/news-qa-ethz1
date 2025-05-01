@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/09/50-jahre-gta.html
 
-**Date processed:** 2025-05-01
-
 ## Natur und Kultur
 
 Wer baut, hinterlässt tiefe Spuren: «Entwerfen und Bauen schreibt sich in die zeitliche Perspektive ein. Hochstehende Architektur kennt deshalb die eminente Bedeutung der Geschichte und nutzt dieses Wissen», sagt Laurent Stalder. Er ist ETH-Professor für Architekturtheorie und Leiter des gta. Das Institut widmet sich seit seiner Gründung im Jahr 1967 der Aufgabe, die Architekturstudierenden neben der Entwurfs- und Umsetzungskompetenz mit dem historisch-kulturellen Erbe vertraut zu machen, an dem sie buchstäblich weiterbauen. «Es ist entscheidend, dass sich Architektinnen und Architekten ihrer Rolle bewusst sind.»

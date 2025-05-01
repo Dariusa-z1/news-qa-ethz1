@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/05/focus-projects-2018.html
 
-**Date processed:** 2025-05-01
-
 ## Developing an electric motorbike
 
 ETH students’ focus projects count as two semesters of practical experience across all areas of mechanical engineering – from traditional vehicle and engine construction to medical technology and robotics. “It’s an opportunity for us to put our ideas and what we learn in lectures into practice,” says Marco Job, one of 100 or so Bachelor’s students who have spent the past 9 months working on a total of 12 different projects. Focus projects are offered to students in their fifth and sixth semesters by the Department of Mechanical and Process Engineering. Supervised by professors as well as doctoral students and postdocs, the students are tasked with developing their ideas into a finished product. They must also master project and time management, marketing and attracting sponsors.

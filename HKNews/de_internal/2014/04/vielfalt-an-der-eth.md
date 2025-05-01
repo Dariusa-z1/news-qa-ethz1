@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/04/vielfalt-an-der-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Vielfältigkeit als Teil der Bildung
 
 Mit dem Übertritt vom Gymnasium an die ETH hat sich mein Leben in vielen Bereichen verändert: Auf einmal war ich nicht mehr eine Schülerin unter 20 Klassenkameraden, sondern eine Studentin unter 400 Unbekannten, auf einmal konnte ich tun und lassen was ich wollte – kontrolliert hat ja niemand, ob ich in der Vorlesung sitze oder im Polysnack Kaffee trinke und mit Freunden jasse.

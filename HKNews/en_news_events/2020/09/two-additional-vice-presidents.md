@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/09/two-additional-vice-presidents.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Since 2008, the ETH Zurich Executive Board has comprised five members. In the meantime, competition has become fiercer, while the expectations of society and the political arena have intensified. ETH Zurich has grown considerably over the last few years, with student numbers more than doubling since 2000, and employee numbers increasing by 60 percent; the university has also become more diverse, both culturally and academically. The number of ETH spin-offs has surged too, and ETH Zurich has intensified collaboration with large companies and SMEs.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/04/shangri-la-entstehung.html
 
-**Date processed:** 2025-05-01
-
 ## Hebung von Flachland fraglich
 
 Der südöstlichste Teil des tibetischen Hochlandes ist eine aussergewöhnliche Gebirgslandschaft. So reichen hohe Gipfel schroff und steil auf über 7000 Meter Höhe. Grosse Flüsse, darunter Jangtse, Mekong und Saluen, haben sich tief ins Grundgestein eingefressen. Doch daneben liegen eingebettet zwischen Bergkämmen fast schon liebliche Hochtäler mit sanften Hügeln, grossen Seen und mäandrierenden Flüssen. Diese Landschaften inspirierten James Hilton zu seinem geheimnisvollen Shangri-La, einem paradiesischen und friedvollen Ort, den er mit seinem Roman «Lost Horizons» in den Köpfen der westlichen Welt verankerte.

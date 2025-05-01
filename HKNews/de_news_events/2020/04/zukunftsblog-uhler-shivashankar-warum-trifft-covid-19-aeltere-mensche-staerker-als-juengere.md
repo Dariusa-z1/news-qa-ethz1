@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/04/zukunftsblog-uhler-shivashankar-warum-trifft-covid-19-aeltere-mensche-staerker-als-juengere.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Das neue Coronavirus trifft Jung und Alt. Schwere und lebensbedrohliche Krankheitsverläufe sind bei älteren Menschen jedoch häufiger. Warum dem so ist, ist unklar. Einige Wissenschaftler vermuten, dass dies mit dem im Alter schwächeren Immunsystem zusammenhängen könnte. Es ist bekannt, dass Senioren für viele Infektionskrankheiten anfälliger sind als jüngere Personen.

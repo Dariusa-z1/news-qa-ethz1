@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/09/wie-ich-mir-die-eth-in-10-jahren-vorstelle.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Over the course of a year, I have had the chance to get to know ETH Zurich in a way that the average student never would. I’ve been annoyed at the complicated manner in which responsibilities are allocated and delighted to see how well many staff are doing their jobs, and I’ve sat on the sofa in the ETH President’s office and unravelled students’ problems which I could never have conceived of, even in my wildest dreams.

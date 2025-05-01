@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2024/02/new-laboratory-for-plant-research-on-the-hoenggerberg.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Construction work on the new greenhouse (HPY) and associated laboratory space on the Hönggerberg campus has been underway since this week. The greenhouse will serve as an additional research facility for the Institute of Molecular Plant Biology (IMPB). The new building will consist of a greenhouse area and a zone for laboratory work with the corresponding infrastructure and ancillary rooms.

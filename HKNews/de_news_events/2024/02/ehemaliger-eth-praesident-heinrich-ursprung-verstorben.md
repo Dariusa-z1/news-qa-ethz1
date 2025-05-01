@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/02/ehemaliger-eth-praesident-heinrich-ursprung-verstorben.html
 
-**Date processed:** 2025-05-01
-
 ## Internationale Karriere als Wissenschaftler
 
 Heinrich Ursprung war nicht nur von ganzem Herz Wissenschaftler, sondern auch ein Mann, der sich für die Belange der Wissenschaft auf politischem Parkett eingesetzt hat. «Er hat die universitäre Landschaft der Schweiz massgeblich geprägt, als Präsident der ETH Zürich, danach des Schweizerischen Schulrats, also des heutigen ETH-Rats, und als erster Staatssekretär für unseren Bereich. Wir profitieren noch heute von seinen Initiativen», sagt Joël Mesot, Präsident der ETH Zürich.

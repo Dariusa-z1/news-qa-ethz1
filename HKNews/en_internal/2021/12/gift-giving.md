@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/12/gift-giving.html
 
-**Date processed:** 2025-05-01
-
 ## For
 
 Dr Andreas Steingötter, Managing Director of the EXCITE Zurich Center

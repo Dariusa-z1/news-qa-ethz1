@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/09/research-results-from-singapore-on-show.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Cities are cultural centres and drivers of local and global economies. However, in their present form they are not sustainable in either ecological or social and economic terms. Rapid population growth, increased mobility and climate change has led to urban sprawl, air and water pollution and even social conflict.

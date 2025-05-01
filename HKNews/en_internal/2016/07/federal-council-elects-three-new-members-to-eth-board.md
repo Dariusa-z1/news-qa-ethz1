@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/07/federal-council-elects-three-new-members-to-eth-board.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Markus Stauffacher (Bild: Florian Meyer)

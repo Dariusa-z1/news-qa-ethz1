@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/12/christmas-reception.html
 
-**Date processed:** 2025-05-01
-
 ## Outstanding leadership
 
 The ALEA Award , which was presented before the Executive Board’s Christmas drinks party, honours leaders who foster progressive and innovative working conditions and who promote a positive balance between career, family and other part-time activities. The jury awarding the prize is composed of one Ombudsperson plus one representative each from the Human Resources department, the Staff Commission, AVETH and the Office of Equal Opportunities – Equal!. It is completed by an independent external expert from Fachstelle UND.

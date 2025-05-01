@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/09/kontraproduktiver-ausschluss-vom-arbeitsmarkt.html
 
-**Date processed:** 2025-05-01
-
 ## Kurzes Arbeitsverbot, schnellere Integration
 
 In vielen Ländern Europas dürfen Asylsuchende nicht sofort arbeiten. Nun gibt es Belege, dass ein Arbeitsverbot langfristig kontraproduktiv ist: Eine externe Seite Studie des Immigration Policy Lab der ETH Zürich und der Stanford University hat für Deutschland ergeben, dass Geflüchtete, die weniger lang vom Arbeitsmarkt ausgeschlossen sind, nach Ablauf des Arbeitsverbots schneller eine Stelle finden als jene, die länger nicht arbeiten dürfen. Fünf Jahre nach dem Ablauf der Wartefrist liegt die Beschäftigungsrate der Geflüchteten mit der kürzeren Wartezeit um 20 Prozentpunkte höher.

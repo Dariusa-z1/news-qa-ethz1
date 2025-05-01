@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/12/hin-zu-einer-digitalen-Baukultur.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Matthias Kohler übernimmt die Leitung des NFS «Digitale Fabrikation». (Bild: Matthias Kohler)

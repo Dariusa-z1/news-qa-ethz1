@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/11/eth-zurich-receives-official-accreditation.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Joël Mesot says: “The report by the AAQ expert group offers an incisive analysis, which reveals that quality assurance is a part of daily life at ETH that we want to maintain, deepen and refine.” Based on its report, the agency also formulated recommendations for ETH. In summary, they address the following concerns:

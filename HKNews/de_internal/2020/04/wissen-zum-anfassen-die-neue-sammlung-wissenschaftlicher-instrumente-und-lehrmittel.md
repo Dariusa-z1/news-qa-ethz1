@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/04/wissen-zum-anfassen-die-neue-sammlung-wissenschaftlicher-instrumente-und-lehrmittel.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Mit der 2019 neu gegründeten Sammlung archiviert die ETH-Bibliothek wissenschaftliche Instrumente und Lehrmittel unterschiedlichster Fakultäten, Institute und Departemente. Damit wird die universitäre Wissensproduktion und -vermittlung an der ETH Zürich auch über die Zeiten hinweg anschaulich, denn es befinden sich Objekte darunter, die teils noch aus der Gründungszeit der Hochschule stammen. Aber auch neuere Objekte finden konsequent Eingang – spannend vor allem einige Eigenentwicklungen der ETH Zürich.

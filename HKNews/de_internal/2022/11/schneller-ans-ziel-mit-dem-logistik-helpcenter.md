@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/11/schneller-ans-ziel-mit-dem-logistik-helpcenter.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Konkret bietet der neue Online-Dienst Hilfe und Orientierung zu:

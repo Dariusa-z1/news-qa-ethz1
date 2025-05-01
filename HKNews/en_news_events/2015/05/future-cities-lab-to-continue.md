@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/05/future-cities-lab-to-continue.html
 
-**Date processed:** 2025-05-01
-
 ## Funding renewed
 
 Three quarters of the Swiss population live in urban areas – with nearly 1.9 million in the greater Zurich area alone – but urban growth rates in the country are relatively low at 1%. Singapore, too, is predominantly urban now, with more than 5.3 million people living in urban areas. Sustainable urban development is a pressing issue not only for Asian megacities, but for big cities around the world.

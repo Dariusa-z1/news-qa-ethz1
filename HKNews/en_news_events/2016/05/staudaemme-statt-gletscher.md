@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/05/staudaemme-statt-gletscher.html
 
-**Date processed:** 2025-05-01
-
 ## Schmelzwasser stauen im Gletschermodell
 
 Unsere Alpengletscher sind wichtige Wasserspeicher. Sie helfen, den Abfluss in den Strömen Europas auszugleichen. Seit 1980 gaben die Gletscher jedes Jahr ein Wasservolumen ab, das ausreichen würde, um den Zürichsee mehr als einmal komplett aufzufüllen. Mit der Klimaerwärmung werden die alpinen Eismassen jedoch bis 2100 fast komplett abschmelzen, und der Wasserabfluss wird in heissen und trockenen Sommermonaten stark abnehmen – die Folgen für die Wasser-, Energie- und Landwirtschaft könnten verheerend sein.

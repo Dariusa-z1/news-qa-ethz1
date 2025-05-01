@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/03/agil-in-die-zukunft-mit-den-neuen-id-product-centern.html
 
-**Date processed:** 2025-05-01
-
 ## Die Lösung: agil aufgestellte Product Center
 
 Mit den neu eingeführten, agilen Product Centern begegnen wir genau diesen Herausforderungen, indem wir:

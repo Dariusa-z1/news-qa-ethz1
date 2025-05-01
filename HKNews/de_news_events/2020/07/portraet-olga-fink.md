@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/07/portraet-olga-fink.html
 
-**Date processed:** 2025-05-01
-
 ## Lernen von Ausnahmefällen
 
 Wie prognostiziert man etwas, das man noch nie (oder sehr selten) beobachtet hat? Wie macht man die Ergebnisse von Algorithmen der künstlichen Intelligenz interpretierbar für Experten? Wie unterstützt man Experten in ihren Entscheidungen, wenn die Algorithmen etwas detektiert haben? Diesen Fragen geht Olga Fink in ihrer Forschung nach. Die 37-jährige ist Professorin für Intelligente Instandhaltungssysteme an der ETH Zürich.

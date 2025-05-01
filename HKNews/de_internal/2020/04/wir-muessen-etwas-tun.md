@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/04/wir-muessen-etwas-tun.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Als sich das Coronavirus in der Schweiz auszubreiten begann, wurde Nicola Rüegsegger und Pascal Wacker schnell klar: Wir müssen etwas tun! Ihr Bachelorstudium hatten die beiden Informatikstudenten beinahe abgeschlossen, Vorlesungen hatten sie kaum noch. Sie hatten also nicht nur den Willen, zu helfen, sondern auch die Zeit – und das Know-how, denn die beiden haben 2018 externe Seite ein Start-up gegründet, das sich auf HR-Tech im Gesundheitswesen spezialisiert.

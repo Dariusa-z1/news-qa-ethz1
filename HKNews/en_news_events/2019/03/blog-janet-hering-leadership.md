@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/03/blog-janet-hering-leadership.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH Zurich appointed its first female professor in 1985, 130 years after opening its doors; by the end of 2017, 14% of the professors were women. It could be just a coincidence that the first formal action to dismiss a professor involves a female professor, but it could also tell us something about the challenges that female faculty face as an isolated minority within ETH Zurich. To identify these challenges is not a claim of gender-based discrimination. Rather, it is an attempt to address the gender dimensions of this case as well as issues that arise for individuals belonging to other minority groups.

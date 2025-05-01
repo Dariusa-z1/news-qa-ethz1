@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/08/die-schulleitung-informiert-2020-5.html
 
-**Date processed:** 2025-05-01
-
 ## Vorgehen bei unangemessenem Verhalten
 
 Die ETH Zürich setzt sich ein für eine Kultur des respektvollen Umgangs miteinander. Mobbing, Belästigung, Diskriminierung, Drohung und Gewalt werden nicht toleriert. Um diese Respektkultur weiter zu verankern und die entsprechenden Prozesse klar zu definieren, hat die Schulleitung auf den 1. September 2020 das Reglement zum Vorgehen im Falle von unangemessenem Verhalten in Kraft gesetzt. Das Reglement wurde in einem breiten Vernehmlassungsprozess mit mehreren Workshops, unter engem Einbezug der Hochschulversammlung, aller Hochschulgruppen (Konferenz des Lehrkörpers KdL, Mittelbauvereinigung AVETH, Studierendenvereinigung VSETH und Personalkommission PeKo) und der Ombudspersonen, neu aufgebaut und formuliert. Unklarheiten und Missverständnisse wurden geklärt. Zentral sind folgende Punkte:

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/12/of-autonomous-duck-taxis-and-a-precise-mars-landing.html
 
-**Date processed:** 2025-05-01
-
 ## January
 
 We learn as children that space has three dimensions. However, for a long time researchers have spoken of a theoretical fourth dimension. Now for the first time, experiments have given us a glimpse into this fourth dimension – and the theoretical basis for them was provided by ETH physics professor Oded Zilberberg. Both experiments took advantage of what is known as the quantum Hall effect to allow researchers to observe a four-dimensional physical phenomenon in two dimensions.

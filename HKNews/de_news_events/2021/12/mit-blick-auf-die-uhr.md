@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/12/mit-blick-auf-die-uhr.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Sportlich beginnt der Tag der jungen Gründerin Leonie Flückiger. Mit Musik im Ohr joggt sie in moderatem Tempo durch die Stadt. Sie trainiert für ihren ersten Marathon. Am Handgelenk trägt sie eine Smartwatch. Nur für den Sport, wie sie lächelnd versichert. Sonst muss es eine mechanische Uhr sein – von einem Schweizer Hersteller, versteht sich. Durch ihr Studium von Mikro- und Nanosystemen weiss Flückiger die präzise Handarbeit zu schätzen, die die Herstellung eines Uhrenantriebs verlangt. Schon bevor sie mit ihrem Start-up in die Uhrenindustrie eingestiegen ist, hatte sie ein Flair für Uhren. Zum Abschluss ihres Studiums an der ETH leistete sie sich eine Armbanduhr. Für die ETH-Alumna ist die Uhr mehr als ein Modeaccessoire. Sie ist ein Symbol für das Erfolgsgefühl und die Genugtuung, ein schwieriges, technisches Studium gemeistert zu haben.

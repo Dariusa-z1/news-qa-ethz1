@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/12/global-warming-disrupts-fish-stocks.html
 
-**Date processed:** 2025-05-01
-
 ## A rise of less than 2 degrees can benefit fisheries
 
 In the last twelve months, a large number of countries signed the Paris Agreement with the aim to limit global warming to no more than 1.5 degrees Celsius above pre-industrial levels. However, it is currently unclear how the world will achieve this ambitious climate target. Demonstrating the benefits to human society of meeting – or even undercutting – this goal will hopefully encourage countries and private sectors to make strong commitments to achieve it.

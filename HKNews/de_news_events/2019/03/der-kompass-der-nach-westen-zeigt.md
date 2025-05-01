@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/03/der-kompass-der-nach-westen-zeigt.html
 
-**Date processed:** 2025-05-01
-
 ## Nord-West- und Süd-Ost-Kopplung von Atomen
 
 Magnete zeichnen sich dadurch aus, dass sie einen Nordpol und einen Südpol haben. Werden zwei Magnete nahe beieinandergehalten, ziehen sich deren entgegengesetzte Pole an und die gleichen stossen sich ab. Deshalb richten sich magnetische Nadeln, wie sie in einem Kompass vorkommen, im Erdmagnetfeld so aus, dass damit die Kardinalrichtungen Nord und Süd und daraus abgeleitet Ost und West bestimmt werden können.

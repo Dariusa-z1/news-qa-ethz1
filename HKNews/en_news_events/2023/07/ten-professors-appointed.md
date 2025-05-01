@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/07/ten-professors-appointed.html
 
-**Date processed:** 2025-05-01
-
 ## New appointments
 
 (Photograph: Marlene Gawrisch)

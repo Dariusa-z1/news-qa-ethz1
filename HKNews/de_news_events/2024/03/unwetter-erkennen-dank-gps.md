@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/03/unwetter-erkennen-dank-gps.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Eine neue Studie von Forschenden der ETH Zürich zeigt, dass GPS-Daten dazu verwendet werden können, heftige Sturmereignisse anzuzeigen.

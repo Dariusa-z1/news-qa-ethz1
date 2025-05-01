@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/03/stellungnahme.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die ETH kann zu den in den Artikeln geäusserten Vorwürfen wegen des laufenden Verfahrens nicht detailliert Auskunft geben. Es ist aber wichtig, grundlegende Falschaussagen richtigzustellen:

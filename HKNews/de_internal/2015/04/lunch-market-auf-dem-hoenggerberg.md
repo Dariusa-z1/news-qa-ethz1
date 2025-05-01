@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/04/lunch-market-auf-dem-hoenggerberg.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der Lunch Market findet an folgenden Donnerstagen jeweils von 11 bis 15 Uhr statt:

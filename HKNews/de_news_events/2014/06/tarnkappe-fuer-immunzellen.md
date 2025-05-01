@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/06/tarnkappe-fuer-immunzellen.html
 
-**Date processed:** 2025-05-01
-
 ## Interferon als Tarnkappe
 
 Das Immunsystem des Menschen ist sehr komplex. Eine Vielzahl verschiedener Zellen mit unterschiedlichen Funktionen sorgt dafür, dass eindringende Keime wie Viren oder Bakterien rasch unschädlich gemacht werden und der Gesamtorganismus gesund bleibt.

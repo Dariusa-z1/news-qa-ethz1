@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/11/new-year-cards-up-for-graps.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The six versions of the 2014 New Year card combine festive motifs with soft colours, modern designs and a touch of technical flair. One of the highlights of this year’s selection is an image showing the northern lights tracing the outline of a Christmas tree against a dark-blue sky. The New Year cards are designed and produced by the graphic design team in the ETH Zurich Printing Centre.

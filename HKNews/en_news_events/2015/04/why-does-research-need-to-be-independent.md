@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/04/why-does-research-need-to-be-independent.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Science in a nutshell: during a ride on the Polybahn from Central to ETH, ETH employees have about 100 seconds to excite their audience for their activities. In the latest Polybahn-Pitch, Vice President Detlef Günther speaks about the independence of research. The video is in german.

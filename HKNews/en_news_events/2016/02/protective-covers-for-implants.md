@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/02/protective-covers-for-implants.html
 
-**Date processed:** 2025-05-01
-
 ## Membrane with micro-indentations
 
 It is one of the greatest hurdles in surgical medicine: the body identifies an implant such as a pacemaker as foreign tissue and, in a defensive reaction, encapsulates it with connective tissue known as fibrotic tissue. Under such circumstances, such rapidly growing tissue can prevent the implant from functioning. Physicians sometimes find themselves forced after months or years to conduct revision surgery, in which they have to either remove the connective tissue or replace the implant altogether.

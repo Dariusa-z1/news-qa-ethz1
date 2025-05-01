@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/04/donation-implenia.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH News: Mr Affentranger, why have you decided to offer your financial support for a new assistant professorship for innovative and industrial construction? Anton Affentranger: Construction is one of today's least efficient industries. Other industries have succeeded in achieving striking efficiency gains thanks to the standardisation of processes and comprehensive optimisation along the entire value chain. This has not been the case in the construction industry. Expertise in the field of industrial construction and the promotion of innovative technologies play a key role here. Implenia is already heavily involved in matters relating to operational excellence. We're also celebrating our 10-year anniversary this year. We want to take this occasion to continue investing in our future.

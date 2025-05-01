@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/06/dass-nichts-passiert-ist-keine-Option.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Jan und Zeljko, habt ihr euch freiwillig für rETHink gemeldet, oder wurdet ihr angefragt? Zeljko: Ich wurde angefragt. Ich habe mich dann auf die Anfrage hin freiwillig gemeldet. Also ja und ja.

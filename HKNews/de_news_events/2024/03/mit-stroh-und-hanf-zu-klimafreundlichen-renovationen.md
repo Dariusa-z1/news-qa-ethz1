@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/03/mit-stroh-und-hanf-zu-klimafreundlichen-renovationen.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Ein Team von ETH- und Forschenden anderer Hochschulen bestätigt klar, dass Wärmedämmung und Heizungsersatz zentrale Elemente von energetische Sanierungen sind.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/07/lattice-structure-absorbs-vibrations.html
 
-**Date processed:** 2025-05-01
-
 ## Also a stabilising component
 
 Vibrations from a bus engine can sometimes be felt uncomfortably strongly through the seats. Similarly, vibrations from the propellers or rotors in propeller aircraft and helicopters can make the flight bumpy and loud, and also lead to increased fatigue damage of the aircraft and its components. Engineers have therefore sought to prevent such vibrations in machines, vehicles and aircraft. A new three-dimensional lattice structure developed by ETH scientists could now expand the possibilities of vibration absorption.

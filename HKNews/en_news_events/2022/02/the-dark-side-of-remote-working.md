@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/02/the-dark-side-of-remote-working.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Perhaps it’s happened to you: you had a fast-paced workday, tackling countless issues all at once and juggling emails, chats and video calls with your colleagues. But instead of feeling accomplished after an intense day at the virtual office, you sometimes simply feel exhausted, lost and empty.

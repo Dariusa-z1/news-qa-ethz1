@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/09/zahlen-fakten-werte-statista-buendelt-daten-fuer-ihre-forschung.html
 
-**Date processed:** 2025-05-01
-
 ## Systematic research
 
 How many American citizens have a video-on-demand account? What is the GDP of Colombia? What trends can be observed for what brands in the European automotive market? – Statista is a business data platform that gives members of ETH Zurich access to statistical data on more than 80,000 topics from more than 22,500 sources. Industry and business data on more than 1,000 companies, trend analyses and prognoses, historical and current facts – the database pools a wealth of valuable information for your basic research.

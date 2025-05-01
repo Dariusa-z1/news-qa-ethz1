@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/09/interview-lukas-vonesch.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Lukas Vonesch. (Bild: ETH Zürich / Daniel Winkler)

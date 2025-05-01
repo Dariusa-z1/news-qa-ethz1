@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/11/ein-kulturwandel-geht-nicht-auf-knopfdruck.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Zu hohe Arbeitsbelastung, unklare Führungsstrukturen, wenig Diversität, Kritik am Curriculum, Fälle von sexuellen Belästigungen: Die von Engagement Arts durchgeführte Analyse (siehe Info-Box) spart nicht mit Kritik am D-ARCH. Ist die Situation an Ihrem Departement so prekär?

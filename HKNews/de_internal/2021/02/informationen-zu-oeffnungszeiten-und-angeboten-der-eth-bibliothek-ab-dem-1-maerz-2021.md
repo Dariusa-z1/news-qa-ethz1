@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/02/informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-1-maerz-2021.html
 
-**Date processed:** 2025-05-01
-
 ## Standorte und Öffnungszeiten
 
 • Im Hauptgebäude und in der Baubibliothek sind Ausleihen und Rückgaben von Beständen aus allen Standorten möglich. Ebenso können kurze Recherchen und Beratungen unter Einhaltung der Distanz- und Hygienevorschriften stattfinden.

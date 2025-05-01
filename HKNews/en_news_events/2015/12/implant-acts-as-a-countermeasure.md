@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/12/implant-acts-as-a-countermeasure.html
 
-**Date processed:** 2025-05-01
-
 ## Prosthesis supports the immune system
 
 ETH Professor Martin Fussenegger calls them molecular prosthetics: cells with specially developed gene circuits that can be implanted into an organism, where they take over metabolic functions that the organism cannot perform itself. Fussenegger and his team at ETH Zurich’s Department of Biosystems Science and Engineering in Basel have now succeeded in developing a molecular prosthesis of this kind where the functions are far more complex than before. The prosthesis is tailored to the treatment of psoriasis, a complex and chronic inflammatory disease of the skin.

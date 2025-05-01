@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/05/zweite-welle-berechnet.html
 
-**Date processed:** 2025-05-01
-
 ## Jugendliche viel stärkere Treiber als Senioren
 
 Falls es in der Schweiz zu einer zweiten Welle der Coronavirus-Pandemie kommen sollte, wird diese deutlich langsamer anrollen als die erste. Dies schliessen Dirk Mohr, Professor für Numerische Materialmodellierung am Departement Maschinenbau und Verfahrenstechnik, und Fadoua Balabdaoui, Senior Scientist am Seminar für Statistik, aus Berechnungen mit einem neuen, von ihnen entwickelten mathematischen Modell.

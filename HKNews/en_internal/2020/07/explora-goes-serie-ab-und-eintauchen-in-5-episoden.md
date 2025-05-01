@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/07/explora-goes-serie-ab-und-eintauchen-in-5-episoden.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Here, art and science have committed themselves to a common goal: "Beneath The Sea, a New Form of Reef", is how Marie Griesmar describes her ambitious undertaking, which is dedicated to the restoration of threatened coral reefs. Inspired by submarine ecosystems, the artist and diving sportswoman started her research project with the mission to counteract the extinction of corals by creating sustainable works of art.

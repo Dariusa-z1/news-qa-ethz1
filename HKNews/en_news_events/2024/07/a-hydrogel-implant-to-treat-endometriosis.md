@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/07/a-hydrogel-implant-to-treat-endometriosis.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • Hydrogels are plastic gels that can bind water. They are used to deliver doses of medication, as an ingredient in moisturisers and as gelling and thickening agents.

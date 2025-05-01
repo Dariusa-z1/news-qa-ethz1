@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/01/we-need-to-track-down-hidden-infections.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Since December, the Swiss canton of Graubünden has conducted in certain areas several rounds of mass testing for SARS-CoV-2. Any of the residents could have themselves tested for the virus free of charge, whether they exhibited typical COVID symptoms or not.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/05/swiss-covid-app.html
 
-**Date processed:** 2025-05-01
-
 ## Many are following the Swiss idea
 
 People in Switzerland are gradually returning to their everyday routines and their work now that the peak of the coronavirus crisis seems to have passed. But the easing of the lockdown also fuels fears about a second wave of infection. Strict adherence to health and safety rules is the best strategy for protecting ourselves against COVID-19 infection. In addition, the government intends to provide the Swiss population with a tracing app as soon as possible that should help to stem the spread of the virus. The app is being developed as part of the DP-3T project by ETH Zurich and EPF Lausanne, working together with international researchers.

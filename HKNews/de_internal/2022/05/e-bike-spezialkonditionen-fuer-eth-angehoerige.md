@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/05/e-bike-spezialkonditionen-fuer-eth-angehoerige.html
 
-**Date processed:** 2025-05-01
-
 ## Buchung über App
 
 An vier Gebäuden der ETH Zürich wurden Stationen errichtet, und es stehen insgesamt 25 hochwertige E-Bikes plus ein E-Cargobike des Anbieters «Urban Connect» zur Verwendung bereit. Die ausleihbaren Elektrofahrräder und die zugehörigen Ladestationen befinden sich auf dem Campus Hönggerberg beim Büro-​ und Laborgebäude HCI (« Fünffinger Dock »), auf dem Campus Zentrum beim Gebäude CHN (Universitätstrasse 8-​22, über die Tramhaltestellen «ETH/Universitätsspital» und «Haldenbach» erreichbar) sowie bei den ETH-Gebäuden ONA und Octavo in Zürich-Oerlikon.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/12/loyal-to-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Eight years at EducETH
 
 “In my job in Corporate Communications, I was in my element,” Susanne says. She would arrive at the office in the morning, deal with enquiries and gather information from the professors and departments – “I really enjoyed the variety this offered and the chance to briefly delve into all kinds of subject areas at ETH.” Then she became pregnant. The demands of her job left her very little room for manoeuvre: “I couldn’t cut down my work, so I had to give it up.”

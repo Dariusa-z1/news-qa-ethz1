@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/05/mm-biennale-in-vendig.html
 
-**Date processed:** 2025-05-01
-
 ## Architektur für den Menschen
 
 Urbane Regionen sind mit einem rasanten Bevölkerungswachstum, Migrationsströmen sowie klimatischen Veränderungen konfrontiert. Deshalb setzt die ETH Zürich einen Schwerpunkt ihrer Forschung auf die Entwicklung nachhaltiger Städte. Es überrascht daher wenig, dass die ETH Zürich so prominent an der diesjährigen Architekturbiennale von Venedig vertreten ist, die sich damit auseinandersetzt, wie Architektur die Lebenssituation von Menschen verbessern kann.

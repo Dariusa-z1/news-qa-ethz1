@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/06/New-regulation-on-the-open-access-requirement-for-doctoral-theses.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In November 2013 ETH Zurich revised the Ordinance on Doctoral Studies. The new version no longer includes the possibility of generally waiving the publication of a doctoral thesis via the ETH E-Collection institutional repository. Upon request, however, the publication can take place with an embargo of one or three years.

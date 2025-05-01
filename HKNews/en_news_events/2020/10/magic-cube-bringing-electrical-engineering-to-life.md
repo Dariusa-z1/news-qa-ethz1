@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/10/magic-cube-bringing-electrical-engineering-to-life.html
 
-**Date processed:** 2025-05-01
-
 ## Coming to a standstill
 
 "Before using Magic Cube, nothing really came to mind when hearing about electrical engineering, even though it's actually an integral part of our everyday lives." This testimonial comes from a female student at MNG Rämibühl, a math and science high school where the Magic Cube had its first trial run in the classroom in mid-October of this year. This new teaching tool was developed by ETH Zurich, tech giant ABB, and youth outreach project mint & pepper (an initiative of Wyss Zurich, which is jointly run by ETH Zurich and University of Zurich).

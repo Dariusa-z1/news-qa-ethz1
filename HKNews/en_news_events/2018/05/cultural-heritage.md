@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/05/cultural-heritage.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 If mention is made of ETH Zurich, culture is not the first thing that comes to mind. Just how much culture is there in ETH? Plenty! ETH organises a wide range of archives and collections, including a huge picture archive, the Max Frisch and Thomas Mann archives, natural history collections and a medicinal plant garden. In addition to that, ETH works at creating new cultural heritage every day: after all, today’s research is tomorrow’s cultural heritage. On 3 June we will also show yesterday’s research that has since become cultural heritage.

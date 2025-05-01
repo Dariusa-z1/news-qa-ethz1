@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/09/neues-semester-neues-kleid.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Kreativ-Spurt statt Semesterferien? Und wie sich das gelohnt hat! Nach drei hochproduktiven Sommermonaten kann sich das Polykum, die Zeitschrift des Verbands der Studierenden an der ETH Zürich, ab diesem Semester in neuem Kleid präsentieren: Nach Jahren als Tabloid – ganz im Sinne der Studierendenzeitung – erscheint das Polykum nach dem Wechsel zur Vogt-Schild Druck AG neu als Magazin.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/01/research-collection-jahresrueckblick-und-statistik-2020.html
 
-**Date processed:** 2025-05-01
-
 ## Führende Themen des Jahres 2020
 
 Der Rückblick auf die Nutzung der Research Collection im vergangenen Jahr zeigt erfreuliche Zahlen: Die Anzahl der s von Zeitschriftenartikeln lag bei über 800 000. Das ist eine Steigerung von 43 % im Vergleich zum Vorjahr und der höchste jemals auf der Plattform erreichte Wert. Dies hängt mit Sicherheit auch damit zusammen, dass immer mehr Artikel frei über die Research Collection verfügbar sind. Der Open-Access-Anteil für 2020 liegt derzeit bei 43 %, das sind 7 % mehr als beim letzten Jahresrückblick für 2019 verfügbar waren. Aber auch für die Vorjahre konnte der Open-Access-Anteil nochmals gesteigert werden.

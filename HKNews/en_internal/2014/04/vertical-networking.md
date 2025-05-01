@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/04/vertical-networking.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 When the National Research Foundation of Singapore (NRF) first came up with the idea of uniting many different universities to conduct their research projects in one educational hub in 2009, a lot of focus was placed on the uniqueness of such an academic community and the interaction opportunities this would generate.

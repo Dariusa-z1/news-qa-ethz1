@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/07/oeffnung-der-gebaeude-ab-3-august.html
 
-**Date processed:** 2025-05-01
-
 ## Studierendenarbeitsplätze frei zugänglich
 
 Der Masterplan für die Teilphase vom 3. bis 30. August zeigt, dass die ETH Zürich weiterhin sehr behutsam vorgehen will – Spielräume, wo möglich und Grenzen, wo nötig. Im Zentrum steht die generelle Öffnung der Gebäude für ETH-Angehörige sowie für Besucherinnen und Besucher der Bibliothek, der Ausstellungen und Sammlungen sowie für Handwerker und Gäste von ETH-Angehörigen. Es gelten die gleichen Öffnungszeiten wie vor der Schliessung. Der allgemeinen Öffentlichkeit bleibt der Zutritt aber vorderhand noch verwehrt. Gebäude ohne Prüfungen können auf begründeten Antrag von Departementen oder Abteilungen geschlossen bleiben.

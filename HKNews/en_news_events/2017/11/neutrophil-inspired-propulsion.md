@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/11/neutrophil-inspired-propulsion.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 When white blood cells are summoned to combat invasive bacteria, they move along blood vessels in a specific fashion, i.e., like a ball propelled by the wind, they roll along the vascular wall to reach their point of deployment. Since white blood cells can anchor themselves to the vasculature, they are capable of moving against the direction of the blood flow.

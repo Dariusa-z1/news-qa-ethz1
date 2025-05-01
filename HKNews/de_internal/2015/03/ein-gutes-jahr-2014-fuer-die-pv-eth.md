@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/03/ein-gutes-jahr-2014-fuer-die-pv-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Laut Präsidentin Karin Schram blickt der PV ETH auf ein gutes Jahr 2014 zurück:

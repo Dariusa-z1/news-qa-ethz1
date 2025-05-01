@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/12/schwingende-berge.html
 
-**Date processed:** 2025-05-01
-
 ## Hochalpine Messeinrichtungen
 
 Das Matterhorn wirkt wie ein unverrückbarer, massiver Berg, der in der Landschaft über Zermatt thront. Eine soeben in der Fachzeitschrift « externe Seite Earth and Planetary Science Letters » veröffentlichte Studie zeigt nun aber, dass dieser Eindruck täuscht. Ein internationales Forschungsteam hat nachgewiesen, dass das Matterhorn dauernd leicht in Bewegung ist: Der Gipfel schwingt in gut zwei Sekunden um wenige Nano- bis Mikrometer hin und her, angeregt durch seismische Wellen in der Erde. Diese werden durch natürliche Quellen wie die Gezeiten, die Meeresbrandung, den Wind und Erdbeben oder durch menschliche Aktivitäten erzeugt.

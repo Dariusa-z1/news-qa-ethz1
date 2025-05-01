@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/08/mapping-the-strength-of-natures-weakest-force.html
 
-**Date processed:** 2025-05-01
-
 ## Keeping an eye on climate change
 
 When a Falcon 9 rocket took off from Vandenberg Space Force Base in California in May 2018, a spellbound Benedikt Soja was there on the ground to see it. Back then, the researcher was employed by NASA, which had joined forces with the German Research Centre for Geosciences (GFZ) to launch two satellites into space. Today, Soja is Assistant Professor of Space Geodesy in the Department of Civil, Environmental and Geomatic Engineering at ETH Zurich, where he and his team analyse data from this satellite pair. “The GRACE Follow-On mission, or GRACE-FO, is designed to map Earth’s gravity field with unprecedented accuracy,” he says. “With its help, we can track the changing pull of gravity at every point on Earth.”

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/01/blog-patt-lilliestam-carbon-tax.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Twenty years ago, scientists agreed on the need to reduce CO 2 emissions from the energy sector. Today, there is agreement on the need to eliminate CO 2 emissions entirely. Carbon taxes were the policy instrument developed to achieve the first objective effectively and efficiently. However, they are of relatively little use for achieving the second. 1

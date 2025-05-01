@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/06/roessler-prize-2019.html
 
-**Date processed:** 2025-05-01
-
 ## Brighter and clearer
 
 A brilliant blue, a luminous green, a deep red – the range of colours Maksym Kovalenko presents in an array of test tubes in his lab is fascinating. But what is fascinating about the colours isn’t just that they shine so brightly, but also that they are the product of a remarkable idea that could set new standards in many areas.

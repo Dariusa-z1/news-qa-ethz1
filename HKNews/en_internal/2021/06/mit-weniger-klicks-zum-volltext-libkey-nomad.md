@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/06/mit-weniger-klicks-zum-volltext-libkey-nomad.html
 
-**Date processed:** 2025-05-01
-
 ## How does LibKey Nomad work?
 
 “ETH Get it”, the link resolver of the ETH Library, takes you from Google Scholar, Wikipedia or any other database, such as Scopus or Web of Science, to the electronic full text in just two or three clicks. Use LibKey Nomad to gain access to the PDF of journal articles with one click only.

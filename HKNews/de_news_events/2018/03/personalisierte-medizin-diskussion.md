@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/03/personalisierte-medizin-diskussion.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH News: Die personalisierte Medizin ist unter Forschenden derzeit ein grosses Thema. Man verspricht sich Behandlungsmöglichkeiten und Medikamente, die besser auf den Einzelnen zugeschnitten sind. Warum sprechen wir dabei so oft von Daten, wenn von personalisierter Medizin die Rede ist? Markus Stoffel: Die Fortschritte in der personalisierten Medizin haben wir unter anderem den Fortschritten in den datengetriebenen Technologien und Analyseverfahren zu verdanken. Schon immer wollten Ärzte ihren Patienten die für ihren spezifischen Fall beste Behandlung anbieten. Das wird jetzt dank solcher Verfahren viel präziser als bisher möglich.

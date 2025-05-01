@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/01/filling-investors-with-enthusiasm.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 An hour and a half before the event gets under way, Dominique Burgauer, Archilogic CFO and COO is already at the Prime Center testing the technology. This ETH spin-off, specialising in automated 3D visualisations of floor plans, wants to make the best possible impression. Not even a cold, visibly bothering Burgauer, can get in his way. For Archilogic, the Investor Summit marks the prelude to the second round of financing. Everything has to be perfect. After all, this event is about potential multimillion-franc investments.

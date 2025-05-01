@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/02/amyloidprotein-kopiert-sich-selbst.html
 
-**Date processed:** 2025-05-01
-
 ## Katalysatoren in der präbiotischen Evolution
 
 Lange galten sie als eine Verirrung der Biologie: Amyloide. Das sind fasrige Zusammenlagerungen aus kurzen Proteinstückchen. Ihren schlechten Ruf haben Amyloide deshalb, weil sie als Ursache von zahlreichen neurodegenerativen Erkrankungen, darunter Alzheimer, Parkinson oder Creutzfeldt-Jakob-Krankheit gelten.

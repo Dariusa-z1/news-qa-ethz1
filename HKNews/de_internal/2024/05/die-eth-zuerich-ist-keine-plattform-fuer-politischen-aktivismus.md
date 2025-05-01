@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/05/die-eth-zuerich-ist-keine-plattform-fuer-politischen-aktivismus.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die ETH Zürich hat gestern eine Demonstration von rund einhundert pro-palästinensischen Aktivist:innen im Hauptgebäude durch die Polizei räumen lassen. Warum dieses rigorose Einschreiten? Ulrich Weidmann : Die ETH Zürich sieht sich als Ort, wo unterschiedliche Meinungen und Perspektiven offen geäussert werden dürfen und sollen. Soll daraus ein konstruktiver Dialog entstehen, so bedingt dies allseitig akzeptierte Regeln. Unbewilligte Aktionen wie gestern verletzen unsere Regeln und sind kein fruchtbarer Rahmen für einen Dialog. Wir haben daher die Demonstrant:innen mehrfach aufgefordert, das Gebäude der ETH Zürich zu verlassen. Da sie dieser Aufforderung nicht nachgekommen sind, haben wir bei der Polizei den Antrag gestellt, die Demonstration aufzulösen.

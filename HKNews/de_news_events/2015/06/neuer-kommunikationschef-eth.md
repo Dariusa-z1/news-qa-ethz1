@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/06/neuer-kommunikationschef-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Strategischer Kommunikator der FINMA
 
 Die Schulleitung der ETH Zürich hat Rainer Borer zum neuen Leiter der Hochschulkommunikation ernannt. Der Historiker und Germanist mit Abschlüssen der Universitäten Basel (lic.phil.I 1990) und St. Gallen (Executive MBA 2008) tritt seine Stelle am 1. Oktober 2015 an.

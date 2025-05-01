@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/03/increasingly-digital-increasingly-consolidated-a-new-chapter-for-the-eth-annual-report.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In 2021, reporting at ETH Zurich underwent a comprehensive review. What did this involve?

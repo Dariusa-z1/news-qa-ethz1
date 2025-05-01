@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/06/interview-ueli-weidmann.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Internal news: Mr Weidmann, on 19 June the Federal Council decided to relax their coronavirus restrictions further, including reducing the physical distancing rule from 2 metres to 1.5 metres. How does the Federal Council’s decision impact the rules that apply at ETH? Ueli Weidmann: First of all, while we’re happy about the current situation, we still regard it as highly unstable. We need to continue doing everything possible to prevent outbreaks from occurring at ETH Zurich. An outbreak would jeopardise the upcoming session examinations, which would be a disaster for us. Regarding physical distancing rules, we’ve always adopted what the Federal Council recommends. So the 1.5-metre rule now also applies at ETH. However, we still recommend keeping 2 metres distance wherever possible to minimise the risks. The government hasn’t made any new statements regarding the capacity of workspaces and meeting rooms. So the same rule as before still applies: for workspaces, 10 square metres per person, and for meeting rooms, 4 square metres. And don't forget the physical distancing rule!

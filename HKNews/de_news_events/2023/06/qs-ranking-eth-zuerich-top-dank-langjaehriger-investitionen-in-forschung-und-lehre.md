@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/06/qs-ranking-eth-zuerich-top-dank-langjaehriger-investitionen-in-forschung-und-lehre.html
 
-**Date processed:** 2025-05-01
-
 ## Verbesserung auch dank neuer Methodologie
 
 Man könnte sich beinahe daran gewöhnen: Die ETH Zürich gehört in den zahlreichen Hochschulrankings Jahr für Jahr zu den besten Universitäten der Welt. So auch in der Rangliste von Quacquarelli Symonds (QS), deren neueste Ausgabe soeben erschienen ist. Dabei kann sich die ETH Zürich im Vergleich zum Vorjahr um zwei Ränge verbessern und klassiert sich an siebter Stelle. Das University College London (UCL) und das California Institute of Technology (Caltech) liegen neu hinter der Schweizer Hochschule. Angeführt wird das Ranking wie schon seit mehreren Jahren vom Massachusetts Institute of Technology (MIT). An zweiter Stelle klassiert sich die Universität Cambridge, neu gefolgt von der Universität Oxford.

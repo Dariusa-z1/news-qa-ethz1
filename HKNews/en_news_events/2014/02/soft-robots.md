@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/02/soft-robots.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 By using external magnetic forces micro-robots could navigate through veins. Laser light is triggering a conformational change of the robot's soft shell. (Graphics: Stefano Fusco, IRIS, ETH Zürich)

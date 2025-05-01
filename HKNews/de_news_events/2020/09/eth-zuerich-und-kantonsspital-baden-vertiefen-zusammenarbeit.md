@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/09/eth-zuerich-und-kantonsspital-baden-vertiefen-zusammenarbeit.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die ETH Zürich und das Kantonsspital Baden (KSB) arbeiten bereits seit 2017 eng zusammen. Der damals von der ETH neu lancierte Bachelor-Studiengang in Humanmedizin beginnt mit einer Startwoche im KSB, wo die Studierenden «Spitalluft» schnuppern können. Diese praxisbezogene Ausbildung im Spital geniesst Modellcharakter.

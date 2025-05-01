@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/12/changes-to-eths-organisation-effective-1-january-2016.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Other changes to the Organisation Ordinance are as follows:

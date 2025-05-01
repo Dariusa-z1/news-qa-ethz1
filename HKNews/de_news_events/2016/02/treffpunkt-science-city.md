@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/02/treffpunkt-science-city.html
 
-**Date processed:** 2025-05-01
-
 ## Robotische Helfer und Kraft der Gedanken
 
 Gesundheit ist ein unschätzbares Gut, das es zu erhalten gilt. Wie aber kann man das eigene Wohlergehen positiv beeinflussen? Wenn jemand erkrankt oder verunfallt; Wie kann die moderne Medizin heilen oder den Alltag zumindest erträglicher machen?

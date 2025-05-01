@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/06/dieser-roboter-sticht-ins-auge.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In der Schweiz ist die häufigste Ursache für eine schwere Sehbehinderung bei älteren Menschen die sogenannte Makuladegeneration. Bei den über 80-Jährigen ist jeder Fünfte betroffen. Die Krankheit führt zwar selten zur vollständigen Erblindung, beeinträchtigt das Sehvermögen aber stark. Betroffene sehen häufig nur noch verschwommen, können nicht mehr lesen oder Auto fahren. In schweren Fällen nehmen sie nur noch hell und dunkel wahr.

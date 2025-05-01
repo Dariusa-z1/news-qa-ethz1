@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/09/breaking-down-barriers.html
 
-**Date processed:** 2025-05-01
-
 ## Integration starts at school
 
 All the participants in the panel discussion, which was moderated by Niklaus Walter, Head of the Science section at SonntagsZeitung and Tages-Anzeiger , agreed on one thing: technology alone is not the solution. The removal of everyday obstacles and greater social acceptance of people with disabilities are just as important as innovative assistive technologies. “Assistive technologies even carry the risk that the necessary environmental adjustments will be neglected, as they lead to the assumption that the individual person will adjust,” warns Brian McGowan, President of the Sensability association based near Bern.

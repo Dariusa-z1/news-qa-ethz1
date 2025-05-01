@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/04/update-from-the-executive-board.html
 
-**Date processed:** 2025-05-01
-
 ## Ten new professors thanks to the Hanna Böhi Fund
 
 One of President Mesot’s stated goals is to increase the proportion of women at all levels of the university. In this spirit, the Executive Board has given the green light to create a pool of ten more professorships, with most of the finance provided by ETH’s Hanna Böhi Fund.

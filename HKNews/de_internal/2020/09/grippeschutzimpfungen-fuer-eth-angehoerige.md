@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/09/grippeschutzimpfungen-fuer-eth-angehoerige.html
 
-**Date processed:** 2025-05-01
-
 ## Wer sollte sich impfen lassen?
 
 Diesen Oktober und November findet die saisonale Grippeimpfungsaktion statt, die unter der Leitung von Patrick Lehmann von der Abteilung Sicherheit, Gesundheit und Umwelt (SGU) angeboten wird. Diese Aktion erfolgt in Zusammenarbeit mit dem Zentrum für Arbeitsmedizin, Ergonomie und Hygiene (AEH), einem externen Partner. Von dieser Aktion profitieren können Studierende und Mitarbeitende der ETH. Die Kosten übernimmt die Hochschule. Die ETH möchte damit ein Zeichen für den Gesundheitsschutz setzen und eine Ansteckung bei ihren Angehörigen verhindern. Es gilt: Die Grippeimpfung ist nicht nur für die geimpfte Person selbst ein Schutz, auch anderen wird Schutz geboten. Seit dem Jahr 2002 können ETH-Angehörige das Angebot nutzen – die angemeldeten Personen gehören allen Altersklassen an, darunter sind Studierende, Lernende und pensionierte ETH-Angehörige. Aufgrund des Covid-19-Schutzkonzepts und Engpässen an Impfdosen sind Familienmitglieder dieses Jahr nicht zugelassen.

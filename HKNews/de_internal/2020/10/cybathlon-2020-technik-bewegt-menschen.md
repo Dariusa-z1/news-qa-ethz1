@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/10/cybathlon-2020-technik-bewegt-menschen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Ein Zeh aus Leder? Eine Hand aus Holz? Ein von Nervenimpulsen gesteuerter Bewegungsapparat? Die fortschreitende Technik entwickelte im Laufe der Zeit immer komplexere Systeme bis hin zu bionischen Prothesen. In der ETH-Bibliothek finden Sie historische Sammlungsstücke – darunter zwei besonders wertvolle Entwürfe zu Handprothesen von Aurel Stodola und externe Seite Pierre Ballif – sowie umfassende Forschungsliteratur zum Thema.

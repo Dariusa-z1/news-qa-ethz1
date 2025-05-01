@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/12/von-schnellen-elektroautos-und-der-eth-im-weltraum.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Bildung ist der wichtigste Rohstoff der Schweiz und die Basis ihres heutigen und künftigen Erfolgs. Studierende der ETH Zürich stellten ihr Wissen 2023 erneut in der Praxis unter Beweis: Mit einem selbstgebauten Elektro-Rennwagen brachen sie den bisherigen Beschleunigungsweltrekord . In nur 0,956 Sekunden beschleunigte der ETH-Bolide Mythen von 0 auf 100 km/h. Ein anderes Studierendenteam war mehr als 3000 Kilometer in ihrem selbstgebauten Solarauto unterwegs. Die Studierenden schafften es an der World Solar Challenge nach sechs Tagen in der brütenden Hitze des australischen Outbacks ins Ziel.

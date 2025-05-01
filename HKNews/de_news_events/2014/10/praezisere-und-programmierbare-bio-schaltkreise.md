@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/10/praezisere-und-programmierbare-bio-schaltkreise.html
 
-**Date processed:** 2025-05-01
-
 ## Biosensor, der nicht «leckt»
 
 Bioingenieure arbeiten an der Entwicklung von biologischen Computern. Zu ihren Zielen gehört, kleine, aus biologischem Material aufgebaute Schaltkreise zu entwickeln, die in Zellen eingeschleust werden können, um deren Funktion zu verändern. Auf diese Weise könnte es in Zukunft möglich sein, Krebszellen soweit umzuprogrammieren, dass sie sich nicht mehr unkontrolliert teilen. Auch könnten Stammzellen in ausdifferenzierte Zellen von Organen umprogrammiert werden.

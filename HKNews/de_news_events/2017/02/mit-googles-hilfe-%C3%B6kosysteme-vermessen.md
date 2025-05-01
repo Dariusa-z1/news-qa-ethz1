@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/02/mit-googles-hilfe-%C3%B6kosysteme-vermessen.html
 
-**Date processed:** 2025-05-01
-
 ## Kühlende Wirkung von Strassenbäumen
 
 Wer kennt sie nicht an hochsommerlichen Tagen: die Flucht vor der drückenden Hitze unter das breite Blätterdach eines Baums, um sich dort etwas Kühlung zu verschaffen? Während entsprechende Temperaturen in der Nordhemisphäre momentan kein Thema sind, müssen sich Bewohner tropischer Städte wie Singapur das ganze Jahr über damit auseinandersetzen, wie sie sich vor hoher Sonnenstrahlung schützen.

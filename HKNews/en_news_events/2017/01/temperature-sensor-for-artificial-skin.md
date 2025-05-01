@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/01/temperature-sensor-for-artificial-skin.html
 
-**Date processed:** 2025-05-01
-
 ## Discovery through “cyberwood”
 
 Rattlesnakes and pit-vipers are famous for being able to safely locate their prey even in absolute darkness. The highly sensitive pit organ between eye and nose allows them to detect the warm body of a mammal even at a meter’s distance. The exact working principle of these temperature sensors was only discovered a few years ago.

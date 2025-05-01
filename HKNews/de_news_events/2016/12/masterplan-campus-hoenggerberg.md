@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/12/masterplan-campus-hoenggerberg.html
 
-**Date processed:** 2025-05-01
-
 ## Umliegende Landschaft erhalten
 
 Damit die ETH Zürich auch langfristig den benötigten Flächenbedarf für Studierende und Forschende bereitstellen kann, ist eine optimale räumliche Entwicklung von zentraler Bedeutung. Da der bauliche Spielraum für die Hochschule im Zentrum eingeschränkt ist, sollen die zusätzlichen Flächen am Standort Hönggerberg ermöglicht werden.

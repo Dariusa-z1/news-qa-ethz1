@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/06/wie-wertvoll-ist-der-gute-ruf.html
 
-**Date processed:** 2025-05-01
-
 ## Die Bedeutung des guten Rufs
 
 Wie hoch sind die Schäden für Unternehmen durch Reputationsverlust? Wie lässt sich das messen? Wie hoch ist der Verlust im Vergleich zu den operativen Kosten? Und können diese Risiken zum Beispiel an Versicherer transferiert werden? Mit diesen und ähnlichen Fragen setzten sich 16 Master-Studierende bei der «Risk Case Study Challenge 2018» auseinander.

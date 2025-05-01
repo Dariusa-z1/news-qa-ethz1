@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/10/net-zero-needs-a-plan.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Following the defeat of the CO 2 law in June, Swiss policymakers now face a considerable challenge. On the one hand, the interim target of a 50 percent reduction in greenhouse gases by 2030 must be maintained, with no current consensus on how this should be done. At the same time, the vote on the Glacier Initiative is approaching, which calls for the goal of “net zero 2050” to be written into the constitution. This would mean that as of 2050, Switzerland should not emit more greenhouse gases than natural and technical CO 2 sinks can absorb.

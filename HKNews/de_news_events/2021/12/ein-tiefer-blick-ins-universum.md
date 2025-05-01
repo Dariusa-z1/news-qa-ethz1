@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/12/ein-tiefer-blick-ins-universum.html
 
-**Date processed:** 2025-05-01
-
 ## Gut geschützt vor der Sonne
 
 Wenn in den nächsten Tagen vom Weltraumbahnhof Guayana aus die Ariane-Rakete abheben wird, geht für Adrian Glauser ein lang gehegter Traum in Erfüllung: Das James Webb Space Telescope (JWST), der Nachfolger des Hubble-Weltraumteleskops, startet zu seiner rund 10-jährigen Mission ins Weltall. Seit 18 Jahren arbeitet der ETH-Physiker an diesem Projekt, immer wieder musste er sich damit abfinden, dass das ambitionierte Vorhaben verschoben werden musste. «Ich habe in all den Jahren gelernt, mit diesen Rückschlägen gelassen umzugehen», meint er. «Doch jetzt, wo der Start in greifbare Nähe rückt, bin ich schon aufgeregt.»

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/07/clarifiying-complex-chemical-processes-with-quantum-computers.html
 
-**Date processed:** 2025-05-01
-
 ## One of the most complex enzymes
 
 Specialists expect nothing less than a technological revolution from quantum computers, which they hope will soon allow them to solve problems that are currently too complex for classical supercomputers. Commonly discussed areas of application include data encryption and decryption, as well as special problems in the fields of physics, quantum chemistry and materials research.

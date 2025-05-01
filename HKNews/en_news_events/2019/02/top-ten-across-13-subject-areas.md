@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/02/top-ten-across-13-subject-areas.html
 
-**Date processed:** 2025-05-01
-
 ## ETH Zurich's positions in the individual subject areas in the last three years
 
 Quacquarelli Symonds (QS) published its overall World University Rankings 2019 back in June 2018. They show that ETH improved its ranking by three positions compared to the previous year and now ranks seventh in the world. QS has now provided the rankings for individual subject areas. The results place ETH in a similarly positive light: QS ranked ETH in 22 subject areas. Improving upon the previous year in 15 disciplines, ETH held its position in six, and dropped one position in only one subject.

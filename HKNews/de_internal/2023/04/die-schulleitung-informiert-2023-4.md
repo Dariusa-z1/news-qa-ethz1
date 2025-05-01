@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/04/die-schulleitung-informiert-2023-4.html
 
-**Date processed:** 2025-05-01
-
 ## Departements-Evaluationen: Revision des Zeitplans 2024-2032
 
 Die ETH Zürich überprüft regelmässig die Qualität ihrer Lehre, ihrer Forschung und ihrer Dienstleistungen und sorgt damit für die langfristige Qualitätssicherung und -entwicklung. Sie tut dies u.a. über die Evaluationen der Departemente. In der Vergangenheit geschah diese in der Regel in einem Sieben-Jahres-Rhythmus, wobei in den letzten Jahren aufgrund der Corona-Pandemie einige Termine verschoben werden mussten.

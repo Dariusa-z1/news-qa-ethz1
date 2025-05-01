@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/02/aktualisiertes-gastronomie-angebot.html
 
-**Date processed:** 2025-05-01
-
 ## Wiedereröffnete Gastrobetriebe
 
 Die Pandemie dürfte für die Gastronomieunternehmen an der ETH noch länger nicht ausgestanden sein. Die Verluste der letzten beiden Jahre werden noch lange in den Geschäftsbüchern stehen, auch wenn ein Ende der Pandemie in Sichtweite ist. Das häufige und schnelle Umorganisieren ihrer Betriebe, wie z.B. Personal in die Kurzarbeit schicken oder sogar schmerzliche Entlassungen vornehmen zu müssen, wird noch lange haften bleiben. Auch das tägliche Wechselbad der Gefühle zu erleben zwischen Gästen, die sich bedroht fühlten und Unmut entgegenbrachten und solchen, die hohe Wertschätzung zeigten, war nicht immer einfach.

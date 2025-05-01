@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/04/der-multitasker.html
 
-**Date processed:** 2025-05-01
-
 ## Nepalreise führte zum Forschungsprojekt
 
 Die meisten Menschen würde ein Doktorat an der ETH Zürich vollkommen ausfüllen, zumal wenn sie noch Vater einer 10-monatigen Tochter sind. Nicht so Moritz Mussgnug. Der 31-Jährige treibt neben seiner wissenschaftlichen Arbeit zu mobilem Eye-Tracking in der Gruppe von ETH-Professor Mirko Meboldt als Mitbegründer das Start-up Memox voran. Auserdem ist er Projektkoordinator für Mito, ein Projekt zur Unterstützung nepalesischer Bauern in Zusammenarbeit mit der Schweizer Entwicklungshilfeorganisation Helvetas. Eine neu entwickelte Maschine soll die Gewinnung von dem in Nepal beliebten Walnussöl erleichtern und beschleunigen.

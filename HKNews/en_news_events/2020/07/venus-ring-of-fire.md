@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/07/venus-ring-of-fire.html
 
-**Date processed:** 2025-05-01
-
 ## Computer simulations of structural variations of coronae
 
 Years ago, planetary researchers discovered unusual circular structures on the surface of Venus when observing high-resolution images from NASA’s Magellan mission. Such structures are known as coronae (from the Latin meaning “crowns”; singular: corona). A few years ago, a team of ETH researchers led by Taras Gerya, Professor of Geophysics at the Department of Earth Sciences, used computer models to investigate how these structures may have formed (see ETH News article ).

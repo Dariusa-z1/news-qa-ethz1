@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/05/neue-ansaetze-in-der-friedensmediation.html
 
-**Date processed:** 2025-05-01
-
 ## Einladung zur Veranstaltung
 
 Das Podium setzt sich aus folgenden internationalen Mediator:innen, Fachpersonen und Beauftragten zusammen:

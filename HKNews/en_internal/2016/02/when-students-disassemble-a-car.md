@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/02/when-students-disassemble-a-car.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Analysis is defined as a method of studying something by separating it into its constituent parts. The elements are then sorted in accordance with specific criteria and relationships, before being recombined to form a whole (in the opposite process, synthesis).

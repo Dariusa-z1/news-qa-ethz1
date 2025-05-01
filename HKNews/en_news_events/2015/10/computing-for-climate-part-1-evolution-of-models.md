@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/10/computing-for-climate-part-1-evolution-of-models.html
 
-**Date processed:** 2025-05-01
-
 ## A Question of Resolution
 
 Predicting the weather and – on a larger scale – the climate is a complex process involving current local and global observations that are fed into specialized computer programs, which in turn model the future meteorological conditions. Results from such simulations are not only important for daily weather bulletins, but also provide guidance on climate change in terms of adaptation (how to cope with future climate) and mitigation (how to limit climate change by reducing greenhouse gas emissions).

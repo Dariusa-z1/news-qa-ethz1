@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/03/climate-friendly-renovations-using-straw-and-hemp.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • A team of ETH researchers and researchers from other universities clearly confirms that thermal insulation and heating replacement should be key elements of energy-efficient renovations.

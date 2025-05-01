@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/12/quantum-channel-made-of-light.html
 
-**Date processed:** 2025-05-01
-
 ## Cooling to almost absolute zero
 
 Two vessels filled with gas and connected by a channel – this is the basic setting for the experiments carried out by the physicists at the ETH Institute for Quantum Electronics. As one vessel contains more gas than the other, particles flow through the channel from one side to the other. "The question now is how the conductivity changes as we gradually make the channel narrower," says physics professor Tilman Esslinger. Initially, the conductivity decreases smoothly. However, at some point an amazing phenomenon appears: the conductivity does not change continuously anymore, but in steps, and the size of the steps is determined by a fundamental entity known as the Planck constant. "This is an immediate consequence of quantum physics," explains Esslinger.

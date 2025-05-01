@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/11/interview-juraj-hromkovic.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH-News: Herr Hromkovic, die Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK) hat sich Ende Oktober für die Einführung eines Informatik-Obligatoriums am Gymnasium ausgesprochen. Sind Sie zufrieden?

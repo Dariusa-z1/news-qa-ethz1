@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2013/11/neu-an-der-eth-joern-piel.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Was hat sie dazu motiviert, an die ETH Zürich zu kommen? Jörn Piel: Ich kenne keinen Ort, an dem die Forschungsbedingungen besser wären. Besonders attraktiv ist, dass dank der guten Grundfinanzierung auch schwierigere und innovative Pionierprojekte durchgeführt werden können, die über den meist recht kurzen Zeitraum von typischen Drittmittel-geförderten Projekten hinausgehen.

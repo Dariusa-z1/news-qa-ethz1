@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/11/elektroautos.html
 
-**Date processed:** 2025-05-01
-
 ## Are electric cars greener?
 
 The last year has been a good one for electric cars. Their market share has jumped upward, pushed by new models that are affordable and offer longer ranges. Several countries – China, India, France, and the UK – have announced policies aiming for a complete switch from gasoline to electric.

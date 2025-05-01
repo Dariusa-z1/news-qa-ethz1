@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/05/energy-the-luxury-good.html
 
-**Date processed:** 2025-05-01
-
 ## It is part of our lives
 
 The third and final week of the first module of the Energy Efficiency Challenge’s Team Competition is titled Energy and Work. The topic-specific actions are meant to show how we can reduce our energy consumption by using our resources carefully, without limiting our well-being.

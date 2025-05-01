@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/06/2000-jobs-for-students.html
 
-**Date processed:** 2025-05-01
-
 ## Promoting careers for academics
 
 A year ago, the ETH Career Center and the non-profit organisation Telejob officially launched the online job platform “ETH get hired” at the Polymesse recruitment fair. Telejob had previously operated its own job platform under the same name. Its experience with this – along with the job market experience gained by the ETH Career Center from its activities in connecting students and businesses – provided an ideal basis for the joint project, says Martin Ghisletti, Head of the ETH Career Center.

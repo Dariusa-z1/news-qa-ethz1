@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/07/neu-digitalisierte-zeitschriften-auf-e-periodica.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die ZS wurde unter dem Namen Zürcher Student 1923 gegründet. Hinter der ältesten Studierendenzeitung der Schweiz steckt ein bewegtes Stück Geschichte. Erst wollte das Blatt nationalistisch sein. Dann machte es in den 60ern links aussen Volldampf und unterzog sich als Höhepunkt seiner Morphose einer Geschlechtsumwandlung (und hiess fortan Zürcher Studentin). Irgendwann interessierte es sich plötzlich nicht mehr für Politik, kriegte die finanzielle Magersucht, war fast am Ende. Und seit 2006 will er (oder sie?) nur noch ZS genannt werden. externe Seite Zu den Ausgaben 1923–ff.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/03/die-schulleitung-informiert-2024-3.html
 
-**Date processed:** 2025-05-01
-
 ## MAS ETH in AI and Digital Technology
 
 Der MAS ETH AID, unter der Leitung des D-INFK, fokussiert sich auf Software-Themen und baut auf folgenden drei CAS-Modulen auf:

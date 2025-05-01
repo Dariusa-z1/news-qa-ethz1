@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/05/blog-eine-oekologische-wende-kann-gelingen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Biodiversitätskrise hat eine Dimension erreicht, welche nicht mehr nur durch wenige Schutzgebiete und ein paar freiwillig Engagierte bewältigt werden kann. Naturschutz ist längst kein Hobby mehr, sondern ein weltpolitisches Thema, um das wir uns dringend kümmern müssen. Daran erinnert uns der internationale Tag der Biodiversität. 1

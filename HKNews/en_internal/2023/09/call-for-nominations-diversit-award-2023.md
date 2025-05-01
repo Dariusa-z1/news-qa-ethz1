@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2023/09/call-for-nominations-diversit-award-2023.html
 
-**Date processed:** 2025-05-01
-
 ## Promoting inclusion at every level
 
 «Great ideas don’t come from teams that look or think the same; innovation happens when different perspectives, talents, and world views are mixed and shaken,» states Elizabeth Tilley, the 2022 Diversity Award recipient in the «individuals» category and professor for Global Health Engineering at D-MAVT.

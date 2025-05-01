@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/05/de-vigier-prize.html
 
-**Date processed:** 2025-05-01
-
 ## For the first time the jury invited 60 start-ups to pitch
 
 When the W.A. de Vigier Prize was awarded for the first time 30 years ago, many of this year’s prize winners were just learning to walk. Back then, nobody was talking about start-up promotion. Bill de Vigier knew from his own experience just how important seed money could be and set his goal to pave the way for young, promising entrepreneurs. He was among the first to institutionalise support for start-ups in Switzerland. For three decades, the W.A. de Vigier Foundation has awarded the highest endowed start-up prize in the country, independently and with no strings attached.

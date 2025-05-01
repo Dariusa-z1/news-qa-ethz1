@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/12/looking-back-at-2022.html
 
-**Date processed:** 2025-05-01
-
 ## January
 
 Robot ANYmal can walk over hill and dale – thanks to its visual perception and sense of touch, made possible by artificial intelligence.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/07/sommerserie-kuehlende-membran-statt-klimaanlage.html
 
-**Date processed:** 2025-05-01
-
 ## Alternative für hitzegeplagte Gebiete
 
 Alles begann mit einer vagen Idee: «Wir dachten, es wäre interessant, gegensätzliche Funktionen in einem Material zu verbinden», erzählt Mario Stucki, Doktorand am Functional Materials Laboratory der ETH Zürich. Er kombinierte zwei Lagen von hydrophobem (wasserabstossendem) Polyethuran mit einer mittleren Lage aus hydrophilem (wasseranziehendem) Polymer. Die resultierende Membran fühlt sich trocken an, obschon sie mit Wasser getränkt ist. Und da die äusseren Schichten mit Löchern von rund einem Mikrometer Durchmesser überzogen sind, kann Wasser aus der mittleren Schicht in die Umgebung entweichen.

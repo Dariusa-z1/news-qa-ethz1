@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/02/cashless-payments-with-the-twint-app.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Finally, an end to the long queues at the cash registers at lunchtime is in sight: in future people will be able to make cashless payments in ETH Zurich’s restaurants. With the Postfinance-powered Twint app, all staff and students at ETH Zurich have to do is pull out their smartphones. Thanks to an interface with ETH Zurich’s systems, the caterer’s cash registers can automatically identify whether a customer is a guest, student, or member of staff – and charge them the right price. This speeds up the entire payment process, and separate cash registers for payment via Twint or NFC-enabled credit cards are also planned for the future. Twint can already be used to pay at 8,000 Coop cash registers across Switzerland, including the branch on the Hönggerberg campus.

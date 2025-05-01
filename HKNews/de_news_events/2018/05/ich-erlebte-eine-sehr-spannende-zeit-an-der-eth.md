@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/05/ich-erlebte-eine-sehr-spannende-zeit-an-der-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Vernetzung von Wissenschaft und Praxis
 
 In seinem Büro sticht eines ins Auge: Die vielen Bücher. «Ich lese sehr gern», sagt Paul Embrechts. Einige Bücher hat er selbst verfasst; sie gelten als Standardwerke. Er ist stolz darauf, dass ihn die Federal Reserve Bank of Boston (Fed) einlud, um mit Hilfe seines Buches «Quantitative Risk Management» 15 Fed-Entscheidungsträgern Unterricht zu erteilen.

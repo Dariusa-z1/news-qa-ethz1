@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/05/lern-mit-mir-eth-lehrlinge-unterstuetzen-schuelerinnen-und-schueler.html
 
-**Date processed:** 2025-05-01
-
 ## «Schnuppern» im Netz: Online-Berufsorientierungen
 
 Egal, ob es um Mathematik, Physik, Fremdsprachen oder Bürosoftware für den PC geht – wenn 12- bis 15-jährige Oberstufen-Schülerinnen und Schüler (z.B. Real- und Sekundarschule) mit ihrem Wissen nicht mehr weiterkommen, erhalten sie praktische Nachhilfe von Berufslernenden der ETH Zürich. Dazu müssen sie einfach die Ausbildungsplattform «Lern mit mir» besuchen und in der Rubrik « LernArena » ihr Thema eingeben. Anmeldung und Nachhilfe sind gratis.

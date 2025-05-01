@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/12/was-immunzellen-ueber-schlafkrankheiten-verraten.html
 
-**Date processed:** 2025-05-01
-
 ## Ist Narkolepsie eine Autoimmunerkrankung?
 
 «Das ist mein allererstes Interview», erklärt Daniela Latorre mit einem Lächeln gleich zu Beginn des Gesprächs. Sehr wahrscheinlich wird es nicht ihr letztes bleiben: Die junge Forscherin aus Italien hat sich in den letzten Jahren einen Namen mit ihren Untersuchungen zu Narkolepsie gemacht. Als SNF-Gruppenleiterin am Institut für Mikrobiologie der ETH Zürich untersucht sie die autoimmune Basis von neurologischen Krankheiten.

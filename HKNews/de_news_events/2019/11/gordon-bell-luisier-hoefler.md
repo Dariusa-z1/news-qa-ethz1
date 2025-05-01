@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/11/gordon-bell-luisier-hoefler.html
 
-**Date processed:** 2025-05-01
-
 ## ETH-Team erhielt Gordon Bell Preis
 
 Chip-Hersteller verbauen Transistoren, die nur wenige Nanometer klein sind. Ihr Durchmesser beträgt nicht einmal ein Tausendstel eines menschlichen Haares, der bei feinem Haar etwa 20'000 Nanometer misst. Der Bedarf an immer leistungsfähigeren Hochleistungsrechnern treibt die Industrie an, noch kleinere und zugleich leistungsstärkere Bauteile zu entwickeln.

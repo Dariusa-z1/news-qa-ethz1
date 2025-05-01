@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/08/ticked-off-in-scotland.html
 
-**Date processed:** 2025-05-01
-
 ## Of New Zealand Sheep and Lyme disease
 
 I sit down among the heather on the side of a big hill in the Scottish Highlands. In reaching for a banana from my pack I discover my iPad at the bottom. This is mildly annoying—apart from the extra unnecessary weight, the iPad is now smeared with soft, over-ripe banana. Nonetheless, I need a break, and I might as well use it productively by telling you what's on my mind. These last few minutes I have been thinking about the productivity of sheep in New Zealand. This issue is actually, directly, and physically, affecting my enjoyment of the walk, and not in a positive way.

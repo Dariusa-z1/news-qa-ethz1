@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/02/fuer-den-ernstfall-proben.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Plötzlich steigen Dämpfe in der Kapelle auf. (Bild: ETH Zürich)

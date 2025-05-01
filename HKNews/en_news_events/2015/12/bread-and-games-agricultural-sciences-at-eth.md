@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/12/bread-and-games-agricultural-sciences-at-eth.html
 
-**Date processed:** 2025-05-01
-
 ## The apparent triviality of the everyday
 
 There are aspects of life that are not exactly associated with university study. Eating and drinking, for instance, or football. Similarly, we often take it for granted that the land will be farmed and food produced. And of course we know how to do it best, just as everyone knows how to position and train the national football team.

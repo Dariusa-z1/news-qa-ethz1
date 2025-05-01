@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/12/tiniest-color-picture-ever-printed.html
 
-**Date processed:** 2025-05-01
-
 ## Miniaturized clown fishes
 
 As of today Scrona Ltd. and the ETH Zurich have been announced official World Record Holders for the smallest inkjet-printed colour image. The Guinness World Records Limited achievement involved the use of the groundbreaking 3D NanoDrip printing technology, invented at ETH Zurich and now commercialized by the ETH spin-off company Scrona.

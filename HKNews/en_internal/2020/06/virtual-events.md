@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/06/virtual-events.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Cancelling the drinks party this April was straightforward; cancelling an exhibition planned for some time ahead, a trickier decision. So how do we celebrate successes these days? How can we meet our guests’ expectations in a virtual environment? Where does a webinar or live streaming fit in, and when is technical support called for in addition to a presenter?

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/04/organisieren-sie-ihr-archiv-digital-continuity-bei-forschenden-und-ihren-persoenlichen-archiven.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The digitisation of society and science has many advantages, but also its fair share of risks. Preserving documents in the analogue world is relatively straightforward in comparison to the digital world. Data needs to be actively curated so it can endure for decades or even centuries. Paper is patient, data is not.

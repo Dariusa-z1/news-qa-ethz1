@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/02/open-access-weitere-publikationsmoeglichkeiten-fuer-eth-angehoerige.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der korrespondierende Autor einer Publikation muss Angehöriger der ETH Zürich sein, damit die gratis Open-Access-Option bei IGI Global oder beim Journal of Experimental Botany gültig ist.

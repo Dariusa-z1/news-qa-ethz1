@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/09/townhall-zur-zertifikatspflicht.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wie werden die Zertifikate kontrolliert? Was muss ich vorweisen, wenn ich im ASVZ trainieren möchte? Warum braucht es in Vorlesungen auch noch eine Maskenpflicht? Wie stellen Sie sich zum Vorwurf, dass mit der Zertifikatspflicht eine Gruppe von Studierenden diskriminiert werde?

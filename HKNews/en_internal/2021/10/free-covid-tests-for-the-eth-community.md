@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/10/free-covid-tests-for-the-eth-community.html
 
-**Date processed:** 2025-05-01
-
 ## Free tests until the end of October
 
 In order to continue allowing unvaccinated people free and unhindered access to classroom teaching, the ETH Zurich Executive Board has decided to implement the following testing system starting on 1 November:

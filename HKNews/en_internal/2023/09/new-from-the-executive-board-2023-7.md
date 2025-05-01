@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2023/09/new-from-the-executive-board-2023-7.html
 
-**Date processed:** 2025-05-01
-
 ## Re-appointment of the Associate Vice President for Digital Transformation
 
 The Executive Board has once again cast their vote for Lothar Thiele as Associate Vice President for Digital Transformation. Originally, Thiele was elected to serve from 10 November 2020 until his retirement as Professor of Computer Engineering on 31 July 2022. The Executive Board then extended his term until 31 July 2023, and it has now been extended again until 31 July 2024. Thiele supports ETH with developing a future-oriented digital transformation strategy and is also assisting the President of ETH in the search for his successor.

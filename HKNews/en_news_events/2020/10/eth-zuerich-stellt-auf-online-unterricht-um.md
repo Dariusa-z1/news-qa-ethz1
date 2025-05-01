@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/10/eth-zuerich-stellt-auf-online-unterricht-um.html
 
-**Date processed:** 2025-05-01
-
 ## Finishing out the semester as planned
 
 The Executive Board of ETH Zurich has decided to extensively restrict classroom teaching starting on 2 November, with all lectures and nearly all exercise groups to be held online. "In light of the rapid increase of infections in Switzerland, we see no choice but to take this step," explains Rector Sarah Springman. "This is despite the fact that our safety concept for the Autumn Semester has proven very effective thus far." She adds that ETH Zurich must do its part to contain the second wave of the coronavirus. By holding most courses online, the number of students on campus will be reduced by 90%. It is essential for everyone in the ETH community to exercise personal responsibility and adhere to all coronavirus regulations.

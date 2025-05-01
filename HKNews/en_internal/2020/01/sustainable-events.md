@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/01/sustainable-events.html
 
-**Date processed:** 2025-05-01
-
 ## Setting an example on our campus
 
 It is often the little details that make an occasion perfect – or inadvertently provoke discontent. Take ETH’s Klimarunde climate event last October – the main programme was a resounding success, but for some attendees the refreshments at the drinks reception afterwards left a bitter taste in the mouth.

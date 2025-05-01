@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/08/rna-as-a-future-cure-for-hereditary-diseases.html
 
-**Date processed:** 2025-05-01
-
 ## Fusion molecule shown to be effective
 
 Short RNA molecules can be used as medication. Their effectiveness is based on the genetic information they carry: therapeutic RNA can bind to the body’s own RNA and thus influence how it functions. However, only a handful of such drugs are available so far.

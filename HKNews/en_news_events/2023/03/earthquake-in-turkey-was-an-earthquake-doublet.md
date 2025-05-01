@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/03/earthquake-in-turkey-was-an-earthquake-doublet.html
 
-**Date processed:** 2025-05-01
-
 ## Abstract
 
 • Researchers confirm that an earthquake doublet occurred in Turkey and Syria.

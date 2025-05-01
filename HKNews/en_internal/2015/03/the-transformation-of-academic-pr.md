@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/03/the-transformation-of-academic-pr.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 On 1 April 2015, Minh Tran, Head of the Department of Computer Science Communications Group, gave a talk at IBM Research Zurich in Rüschlikon about " The transformation of academic PR: how to cope with the market of ideas and corporate citizenship" .

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/12/how-climate-change-is-disrupting-ecosystems.html
 
-**Date processed:** 2025-05-01
-
 ## Grasshoppers translocated to high elevations
 
 The world is getting warmer and warmer – and many organisms native to lower latitudes or elevations are moving higher.

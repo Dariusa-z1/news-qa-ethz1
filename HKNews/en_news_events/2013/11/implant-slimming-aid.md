@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/11/implant-slimming-aid.html
 
-**Date processed:** 2025-05-01
-
 ## Genetic regulatory circuit monitors blood fat
 
 Humankind has a weight problem – and not only in industrialised nations, either: the growing prosperity in many Asian or Latin American countries goes hand in hand with a way of life that quite literally has hefty consequences. According to the WHO, over half the population in many industrialised nations is overweight, one in three people extremely so. Overweight people are at an increased risk of developing type-2 diabetes or cardiovascular disease, the latter being the most common cause of death in western industrialised nations. Not only is high-calorie and fatty food a lifetime on the hips, backside and stomach; it also leaves traces in the blood, where various fats ingested via food circulate. Increased blood-fat values are also regarded as a risk factor for heart attacks and strokes.

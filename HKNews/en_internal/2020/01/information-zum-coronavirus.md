@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/01/information-zum-coronavirus.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH members are generally advised to take the following precautions for coping with the current flu outbreak:

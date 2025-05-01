@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/09/schnelles-und-konkretes-feedback-zum-unterricht.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Dozierende fühlen sich manchmal als Einzelkämpfer:innen. Denn im Gegensatz zur Forschung ist ein regelmässiger Austausch mit Kolleginnen und Kollegen im Lehralltag oft nicht etabliert. Das soll sich nun ändern. Rektor Günther Dissertori hat dafür zusammen mit der Konferenz des Lehrkörpers die Initiative «Peer Feedback on Teaching» lanciert.

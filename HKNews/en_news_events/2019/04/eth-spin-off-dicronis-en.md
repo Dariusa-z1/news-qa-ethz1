@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/04/eth-spin-off-dicronis-en.html
 
-**Date processed:** 2025-05-01
-
 ## Name derived from microneedles
 
 When someone develops cancer, single or multiple lymph nodes are often colonised by cancer cells that form metastases. Part of the treatment involves the removal of the affected nodes, but this carries the risk of the lymphatic system collapsing.

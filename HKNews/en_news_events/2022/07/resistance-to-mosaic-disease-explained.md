@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/07/resistance-to-mosaic-disease-explained.html
 
-**Date processed:** 2025-05-01
-
 ## Research consortium tracks down resistance gene
 
 Cassava, also known as manioc, is a staple food for nearly one billion people and an important source of raw materials. It secures an income for smallholder farmers, especially in Africa. Cassava is an undemanding crop; it does not need fertiliser and grows even in dry areas.

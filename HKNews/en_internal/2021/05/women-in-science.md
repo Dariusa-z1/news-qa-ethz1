@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/05/women-in-science.html
 
-**Date processed:** 2025-05-01
-
 ## The pioneers
 
 It was a long while before women could take up their rightful place at ETH Zurich. The first few appeared in the 19th century, and were “scientific refugees” from other countries. Why did the women back then have such a hard time? What are the everyday problems that women encounter today at the university? The tour entertainingly covers various aspects of the Women in Science topic. At the same time, it reveals what lies behind the façades of the complex built on the Hönggerberg in the 1960s: a childcare centre, for example, that makes everyday life much easier for many women at the university.

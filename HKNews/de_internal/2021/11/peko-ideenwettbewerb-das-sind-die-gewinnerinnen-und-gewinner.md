@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/11/peko-ideenwettbewerb-das-sind-die-gewinnerinnen-und-gewinner.html
 
-**Date processed:** 2025-05-01
-
 ## 1. Preis für Weiterbildungs-Plattform
 
 Mitte 2021 lancierte die PeKo der ETH Zürich einen Ideenwettbewerb . Gesucht wurden Vorschläge, wie sich der Arbeitsalltag an unserer Hochschule optimieren lässt. Mitmachen durften alle ETH-​​Angehörigen – und die Resonanz war äusserst erfreulich. «Wir haben rund 70 Ideenbeiträge erhalten. Davon schafften es rund 30 in die Endauswahl für den Wettbewerb», freut sich PeKo-Präsident Christopher Sauder Engeler an der Preisverleihung, die im Rahmen einer Veranstaltung zum diesjährigen 50-Jahr-Jubiläum der PeKo stattfand. «Die hohe Qualität der Einsendungen hat es uns als Jury nicht einfach gemacht, die Gewinner-Idee zu küren.»

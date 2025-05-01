@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/09/data-science-interview-roger-wattenhofer.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH-News: Sie haben Vorbehalte angemeldet, als das Thema Blockchain für dieses Interview gewählt wurde. Weshalb? Roger Wattenhofer: Das Thema ist spannend, aber um den Begriff Blockchain besteht ein etwas übertriebener Hype. Ich erhalte täglich von allen Seiten Anfragen dazu, von Medien, Privaten und Firmen. Ich war als Professor noch nie so populär (schmunzelt).

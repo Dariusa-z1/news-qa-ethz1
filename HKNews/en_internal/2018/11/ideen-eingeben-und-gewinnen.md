@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/11/ideen-eingeben-und-gewinnen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Do you have any suggestions for one of the following questions?

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/05/blick-in-die-tiefen-des-gehirns.html
 
-**Date processed:** 2025-05-01
-
 ## Verbesserte Fluoreszenzmikroskopie
 
 Die Funktionsweise unseres Gehirns gibt uns nach wie vor Rätsel auf. Ein Grund dafür ist, dass neuronale Prozesse auf der Ebene einzelner Zellen und Kapillaren im gesamten Gehirn bis anhin nur mit hoch-invasiven, operativen Methoden beobachtet werden können. Dies soll sich nun ändern.

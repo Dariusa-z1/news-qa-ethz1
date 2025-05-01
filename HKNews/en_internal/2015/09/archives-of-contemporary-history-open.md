@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/09/archives-of-contemporary-history-open.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The building of 1862 was totally refurbished in 1977 and has now been completely renovated and rebuilt during the last twelve months.

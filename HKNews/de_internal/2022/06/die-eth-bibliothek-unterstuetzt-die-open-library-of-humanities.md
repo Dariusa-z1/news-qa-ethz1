@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/06/die-eth-bibliothek-unterstuetzt-die-open-library-of-humanities.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die externe Seite Open Library of Humanities ist ein preisgekrönter, akademischer Open-Access-Verlag, der 28 Zeitschriften, darunter beispielsweise die Zeitschrift externe Seite Architectural Histories , ohne Publikationsgebühren für Autorinnen und Autoren herausgibt.

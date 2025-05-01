@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/10/eth-setzt-auf-vielfalt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The most important thing to highlight when defining diversity is that the people who use the word tend to view the variety within a group in a positive light. In practice, this means that differences between people are recognised and celebrated – even seen as something that the whole group can learn from.

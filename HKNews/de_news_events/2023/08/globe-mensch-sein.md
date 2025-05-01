@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/08/globe-mensch-sein.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Andere Programme sind in der Lage, eigens Texte zu schreiben oder als Chatbots mit Menschen in Dialog zu treten. Der bekannteste Chatbot ist aktuell chatGPT. Das Programm des US-Unternehmens OpenAI nutzt eine KI, um mittels Textnachrichten zu kommunizieren. Der Aufstieg ist kometenhaft. Innerhalb zweier Monate hat das Programm die 100-Millionen-User-Schwelle geknackt. Facebook hat dafür mehr als vier Jahre gebraucht. Das analoge Telefon 75 Jahre. Google will mit ihrem neu entwickelten Chatbot Bard nachziehen.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/06/eth-app-mit-neuen-funktionen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Mit der Version 3.0 können Nutzer neu:

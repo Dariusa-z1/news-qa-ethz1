@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/01/climate-conscious-catering.html
 
-**Date processed:** 2025-05-01
-
 ## Unifying CO2calculation methods
 
 Thousands of students, employees and guests make use of ETH’s catering options every day. The catering facilities produce an equivalent of about 8,000 tonnes of CO 2 every year, accounting for about a fifth of all of ETH Zurich’s greenhouse gas emissions. The University’s Catering Commission therefore launched a project in 2013 to identify a healthy, affordable and environmentally friendly way to provide catering for ETH members. It was primarily conducted by students using real-world conditions, and combined research work, training and the practical optimisation of sustainability on campus.

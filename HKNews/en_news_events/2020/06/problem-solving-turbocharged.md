@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/06/problem-solving-turbocharged.html
 
-**Date processed:** 2025-05-01
-
 ## Fighting back against shortages
 
 As part of the helpfulETH initiative, a student workshop on Hönggerberg campus began producing face shields for hospitals at the end of March (see the ETH news article from 7 April 2020). The project has been expanded, and the face shields are now being mass produced. Members of the ETH community have worked together with HSR Rapperswil, Geberit and Swiss Prime Pack to set up a manufacturing process that can produce at least 1,000 face shields per day if required. This project is based on doctors’ requests for personal protective equipment during the corona crisis. Around 20 hospitals and care facilities have been supplied with masks since March.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/06/strategy-for-the-digitalization-of-the-administration.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Peter Müller, you headed the working group charged with drawing up a digitalisation strategy, which entailed conducting a thorough analysis of the ETH Zurich administration. On a scale from one to ten: how well does the ETH Zurich administration score in terms of digitalisation? Peter Müller: I wouldn’t like to give a score – that was not within our remit. Essentially, ETH is in a good position in terms of digitalisation. Most of the central administrative processes have gradually been digitalised over the years. The pandemic has accelerated this trend. What’s more, ETH staff are very open to new technologies. Even so, there are several possibilities for improvement: in the digital support of cross-cutting processes, for example, or the roll-out of new technologies.

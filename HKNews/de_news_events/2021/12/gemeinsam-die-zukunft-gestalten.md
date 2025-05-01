@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/12/gemeinsam-die-zukunft-gestalten.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Was sind Ihre persönlichen Ziele von rETHink? Julia Dannath: Ich bin seit einem Jahr an der ETH und bin begeistert, dass Joël Mesot dieses Projekt lanciert hat. Mein persönliches Ziel ist, dass sich ETH-weit ein Community-Spirit ergibt, der bedeutet: Wir können alle gemeinsam die Zukunft dieser Hochschule mitprägen!

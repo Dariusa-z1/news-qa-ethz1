@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/11/what-makes-tissue-soft-and-yet-so-tough.html
 
-**Date processed:** 2025-05-01
-
 ## Stretched tissue loses volume
 
 In the womb, the unborn child floats in an amniotic sac filled with amniotic fluid. The baby’s smooth development is dependent on this sac remaining intact. However, it is possible for the protective container to tear following interventions such as amniocentesis or foetal surgery – or even spontaneously.

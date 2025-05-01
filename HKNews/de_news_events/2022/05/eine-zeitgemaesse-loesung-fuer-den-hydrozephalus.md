@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/05/eine-zeitgemaesse-loesung-fuer-den-hydrozephalus.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Bei der Krankheit Hydrozephalus sammelt sich Hirnflüssigkeit in den Hohlräumen des Gehirns. Eine Therapiemöglichkeit ist, diese Flüssigkeit über eine von Chirurg:innen angelegte und als Shunt bezeichnete Verbindung in die Bauchhöhle abfliessen zu lassen. Bei solchen reinmechanischen Shunts kommt es aber oft zu Komplikationen. Das siebenköpfige Vieshunt-Team möchte deshalb die Behandlungsmethode durch die Entwicklung eines mechatronischen Smart Shunt verbessern. Die Studierenden entwickeln ein intelligentes System, welches den Hirndruck automatisch auf ein gesundes Niveau regelt.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/06/globe-staying-positive-in-challenging-times.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Political scientist Linda Maduz. (Photograph: Daniel Winkler)

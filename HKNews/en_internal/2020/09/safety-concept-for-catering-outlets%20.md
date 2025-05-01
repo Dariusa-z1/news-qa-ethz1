@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/09/safety-concept-for-catering-outlets%20.html
 
-**Date processed:** 2025-05-01
-
 ## A new concept in the catering outlets
 
 Red floor markings, signs, posters and sanitiser stands everywhere you look – this is the new normal inside the ETH catering outlets, which have been heavily affected by the global pandemic like the rest of us. Before coronavirus, the start of the semester would see many students and staff streaming into the canteens, which would become particularly crowded during the midday rush hour. The 1.5-metre social distancing rule for queues and tables is currently posing a major challenge for the caterers. How can they ensure smooth operations in the canteens without imposing too many restrictions on the guests? And how can they keep everyone safe if students and staff have to take their masks off while eating?

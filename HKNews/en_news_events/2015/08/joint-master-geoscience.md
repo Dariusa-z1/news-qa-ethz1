@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/08/joint-master-geoscience.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH News: Prof. Maurer, what vision led to the establishment, 10 years ago, of a Master programme spread across three universities in three countries? Hansruedi Maurer: Sixteen years ago, ETH Zurich joined TU Delft of the Netherlands, RWTH Aachen and Imperial College London in a strategic partnership known as the IDEA League . The idea of the then rector of ETH Zurich, Konrad Osterwalder, ETH-Geophysics Professor Alan Green, and Jacob Fokkema, former Rector of TU Delft, was to set up an exchange of geophysic’s master’s degree students between the two universities. The concept of a joint master’s was developed later. The vision was to pool expertise from three leading technological institutes of in this field and therefore to offer students an excellent study programme.

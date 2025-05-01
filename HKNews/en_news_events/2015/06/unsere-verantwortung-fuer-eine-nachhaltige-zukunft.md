@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/06/unsere-verantwortung-fuer-eine-nachhaltige-zukunft.html
 
-**Date processed:** 2025-05-01
-
 ## Aktueller Nachhaltigkeitsbericht veröffentlicht
 
 Anfang Jahr trat das neue schweizerische Hochschulförderungs- und -koordinationsgesetz [1] in Kraft. Seither steht fest: Universitäten müssen über ein «Qualitätssicherungssystem» verfügen, um zu gewährleisten, dass sie ihre Aufgaben im «Einklang mit einer wirtschaftlich, sozial und ökologisch nachhaltigen Entwicklung» erfüllen. Was aber konkret bedeutet «Nachhaltigkeit» im akademischen Umfeld? Wie sollen wir als Hochschule dieses normative Konzept umsetzen, um wirtschaftliche, soziale und ökologische Ziele möglichst gleichermassen zu erreichen? Was sollen wir von unseren Studierenden, Mitarbeitenden und Forschenden fordern – und was für deren Wohlbefinden und Chancengleichheit tun?

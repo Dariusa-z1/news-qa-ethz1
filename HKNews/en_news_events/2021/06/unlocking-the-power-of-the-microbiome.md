@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/06/unlocking-the-power-of-the-microbiome.html
 
-**Date processed:** 2025-05-01
-
 ## Volume control of the plant response
 
 Hundreds of different bacterial species live in and on leaves and roots of plants. A research team led by Julia Vorholt from the Institute of Microbiology at ETH Zurich, together with colleagues in Germany, first inventoried and categorised these bacteria six years ago. Back then, they isolated 224 strains from the various bacterial groups that live on the leaves of thale cress (Arabidopsis thaliana). These can be assembled into simplified, or “synthetic” plant microbiomes. The researchers thus laid the foundations for their two new studies, which were just published in the journals Nature Plants and Nature Microbiology.

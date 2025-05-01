@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/06/verlags-verhandlungen-wegweisende-einigung-mit-elsevier-erzielt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Nach intensiven Verhandlungen mit Elsevier und nach einigen Monaten ohne Vertrag hat die Verhandlungsdelegation von externe Seite swissuniversities , bei der auch Rafael Ball als Direktor der ETH-Bibliothek Mitglied ist, einen Vertragsabschluss erzielt.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/11/fehlumbau-des-herzens-aufhalten.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Im Gewebe von Babys mit einer schweren Form der Fallot-Tetralogie, einem angeborenen Herzfehler, ist ein Protein namens BBLN stark erhöht.

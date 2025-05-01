@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/03/shaking-the-foundations-of-life.html
 
-**Date processed:** 2025-05-01
-
 ## Success through cooperation
 
 The evolution of life on Earth has taken a long, long time. Protocells – the precursors of today’s unicellular organisms – formed around four billion years ago, eventually evolving into bacteria and archaea. The first eukaryotes emerged two billion years ago, providing the basis for more complex, multicellular organisms. As life evolved, it faced numerous disruptions in the form of meteorites, volcanic eruptions, ice ages and periods of great heat. Our planet has experienced at least five mass extinction events over its long history – yet still life has continued, undaunted.

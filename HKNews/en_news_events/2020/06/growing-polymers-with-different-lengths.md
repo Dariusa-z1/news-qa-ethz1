@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/06/growing-polymers-with-different-lengths.html
 
-**Date processed:** 2025-05-01
-
 ## Polymerization processes with limits
 
 It is hard to imagine everyday life without materials made of synthetic polymers. Clothes, car parts, computers or packaging – they all consist of polymer materials. Lots of polymers are present in nature, too, such as DNA or proteins.

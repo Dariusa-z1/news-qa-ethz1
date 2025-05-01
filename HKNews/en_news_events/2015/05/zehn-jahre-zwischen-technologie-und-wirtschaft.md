@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/05/zehn-jahre-zwischen-technologie-und-wirtschaft.html
 
-**Date processed:** 2025-05-01
-
 ## Towards an overall economic perspective
 
 Modern technologies permeate our lives and shape our society, making it all the more important to examine their impact on the environment, people, society and the economy.

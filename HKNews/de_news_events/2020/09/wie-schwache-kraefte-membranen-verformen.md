@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/09/wie-schwache-kraefte-membranen-verformen.html
 
-**Date processed:** 2025-05-01
-
 ## Faszinierende Verformbarkeit
 
 Damit solche vielfältigen Formen zustande kommen, sind lokale Kräfte nötig, die von Innen auf die Zellmembran wirken. In Zellen üben etwa Bestandteile des Zellskeletts wie Aktinfilamente oder Mikrotubuli solche Kräfte auf die Membran aus. Allerdings können auch krankmachende Bakterien, die in Zellen eindringen, ähnliche Phänomene erzeugen. Bekannt ist das etwa von Listerien, den Erregern von Darmentzündungen. Indem sie die Membran deformieren, würden es die Bakterien schliesslich auch schaffen, gesunde Nachbarzellen zu infizieren.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/12/review-2020.html
 
-**Date processed:** 2025-05-01
-
 ## January
 
 New year, new inventions: ETH researchers created an 18-carat gold that is ten times lighter than normal 18-carat gold. They achieved this by replacing metallic alloy elements with a matrix of protein fibres and plastic.

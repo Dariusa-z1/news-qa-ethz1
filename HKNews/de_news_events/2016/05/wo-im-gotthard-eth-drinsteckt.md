@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/05/wo-im-gotthard-eth-drinsteckt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Vortrieb im Tavetscher Zwischenmassiv (Bild: Georgios Anagnostou / ETH Zürich)

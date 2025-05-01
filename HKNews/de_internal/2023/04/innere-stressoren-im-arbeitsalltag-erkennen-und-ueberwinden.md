@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/04/innere-stressoren-im-arbeitsalltag-erkennen-und-ueberwinden.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Belastungen im Arbeitsalltag können verschiedene Ursachen haben. Neben objektiven Belastungen und Überforderungen gibt es auch innere Stressoren, die zu solchen Situationen führen können.

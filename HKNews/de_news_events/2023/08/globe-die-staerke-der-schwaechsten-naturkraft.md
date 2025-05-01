@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/08/globe-die-staerke-der-schwaechsten-naturkraft.html
 
-**Date processed:** 2025-05-01
-
 ## Den Klimawandel verfolgen
 
 Als im Mai 2018 eine Falcon-9-Rakete von der Startrampe im kalifornischen Vandenberg abhob, war Benedikt Soja vor Ort und schaute gebannt zu. Der Forscher arbeitete damals für die NASA, die zusammen mit dem Deutschen GeoForschungsZentrum Potsdam (GFZ) zwei Satelliten ins All schickte. Heute ist Soja Professor für Weltraumgeodäsie am Departement Bau, Umwelt und Geomatik an der ETH Zürich und wertet mit seinem Team Daten dieses Satellitenpaars aus. «Mit der Mission namens GRACE Follow-On können wir das Schwerefeld der Erde besonders genau vermessen», erklärt der Forscher. «Das gibt die Erdbeschleunigung an jedem Punkt der Erde wieder.»

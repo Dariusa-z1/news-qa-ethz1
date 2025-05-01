@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/12/get-ready-for-the-cleantech-race.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Feeding renewable energy sources into the power grid raises new challenges. (Photograph: Heiko Kueverling / Colourbox)

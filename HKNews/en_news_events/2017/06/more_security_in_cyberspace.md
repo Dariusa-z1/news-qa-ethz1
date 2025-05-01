@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/06/more_security_in_cyberspace.html
 
-**Date processed:** 2025-05-01
-
 ## Technology in the fight against cyberattacks
 
 The WannaCry ransomware, Russian hackers, vote rigging – recently, cyberattacks on computer networks have made headlines, illustrating just how critical data and information security are for our society. ETH Zurich identified the importance of information security early and, around 15 years ago, it founded the Zurich Information Security & Privacy Center (ZISC), which organised the Cyber Risks Summit. The cross-industry work of the ZISC is more relevant than ever, as ETH President Lino Guzzella emphasised in his opening address: "It's time for science, business and government to join forces in developing effective protection against the dangers of cyberspace." In addition to collaboration with industry, Lino Guzzella also highlighted the importance of fundamental research and appealed for greater investment in this area.

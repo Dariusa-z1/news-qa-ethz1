@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2017/07/discounted-tickets-gassenschau.html
 
-**Date processed:** 2025-05-01
-
 ## A rubbish-strewn utopia
 
 From a straightforward street variety show in 1984 to an extravagant water show ( AKUA , 2002) all the way to a fight over a chocolate factory (2011): over its 30-year history, Karl’s kühne Gassenschau has established itself as a real highlight of the Swiss cabaret scene.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/04/how-can-we-fight-blood-cancer-more-effectively.html
 
-**Date processed:** 2025-05-01
-
 ## Abstract
 
 • Multiple myeloma is an incurable form of blood cancer. Over time, the cancer cells become resistant to the currently prescribed drugs.

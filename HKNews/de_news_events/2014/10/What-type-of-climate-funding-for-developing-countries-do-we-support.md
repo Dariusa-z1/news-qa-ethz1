@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/10/What-type-of-climate-funding-for-developing-countries-do-we-support.html
 
-**Date processed:** 2025-05-01
-
 ## Insight into public support for North-South climate funding
 
 Many policymakers and scientists argue that North-South financial transfers in the order of $100 billion per year will be required to obtain commitments for greenhouse-gas reductions from developing countries and emerging economies, and to help protect poor countries from climate-related risks. At the United Nations’ Climate Summit [1] on September 23, heads of state from developing and developed countries stressed the need to scale up both public and private climate finance instruments.

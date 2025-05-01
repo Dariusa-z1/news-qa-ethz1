@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/11/gerzensee-tagung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Bereits im März dieses Jahres wurde von Seiten eidgenössischer Parlamentarier die Idee an die ETH Zürich herangetragen, eine Einführungsveranstaltung für neugewählte Mitglieder des Bundesparlaments zu organisieren. Am zweitägigen Anlass referierten nun nicht nur Experten aus einzelnen Fachgebieten, ehemalige Parlamentarierinnen und Parlamentariern vermittelten zudem ihr Erfahrungswissen. Im Interview zieht Michael Ambühl eine erste Bilanz.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/04/qs-faecherranking-2015.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Erdwissenschaften der ETH Zürich haben im neusten Fächer-Ranking des QS World University Rankings den Sprung an die Spitze geschafft und führen nun den Bereich «Earth and Marine Sciences» im weltweiten Vergleich an. Dies gab die QS-Ranking-Organisation soeben bekannt. Vor Jahresfrist lagen die ETH-Erdwissenschaften noch auf Platz neun. Damals führte die Harvard University vor der University of Cambridge (GB) und der University of California, Berkeley. Letztere liegt nun neu auf Platz zwei. Harvard belegt Platz drei.

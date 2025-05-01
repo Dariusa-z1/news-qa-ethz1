@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2017/01/oldmapsonline%E2%80%93make-mobile-use-of-historical-maps.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Example of a successfully georeferenced map (map of the city of Bern, c. 1880):

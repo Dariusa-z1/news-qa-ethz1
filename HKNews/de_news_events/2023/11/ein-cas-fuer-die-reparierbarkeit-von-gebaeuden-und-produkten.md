@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/11/ein-cas-fuer-die-reparierbarkeit-von-gebaeuden-und-produkten.html
 
-**Date processed:** 2025-05-01
-
 ## Austausch unterschiedlicher Fachleute
 
 Nicht nur Handys, Toaster oder Staubsauger lassen sich heute kaum noch reparieren, auch Gebäude sind oft so konstruiert, dass ein Rück- und Neubau lohnender ist als eine Reparatur. Dabei wäre das Reparieren - und damit die Reduktion des Materialverbrauchs - die oberste Maxime für einen nachhaltigen Umgang mit Ressourcen.

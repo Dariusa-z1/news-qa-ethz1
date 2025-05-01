@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/09/die-schulleitung-informiert-2018-4.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Jedes Departement hat einen oder eine Delegierte(n) für gute wissenschaftliche Praxis (GWP) bestimmt, der zugleich Mitglied ist in der schulweiten, im März 2018 gegründeten neuen GWP-Kommission der ETH Zürich (vgl. SLS-Info 2018/1 ). Unter Einbezug der beiden Vertrauenspersonen für Integrität in der Forschung und der GWP-Kommission hat die Schulleitung nun die Kompetenzen der GWP-Delegierten festgelegt.

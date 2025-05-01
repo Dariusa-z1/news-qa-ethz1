@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/02/taxi-ride-to-starch-granules.html
 
-**Date processed:** 2025-05-01
-
 ## New gene discovered
 
 Starch acts as an energy reserve for plants and as an important source of carbohydrates in human and animal diets. Starch is also used in the food, construction, paper and textile industries. Amylose, an less digestible component of starch, serves as a binder and gelling agent in the food industry.

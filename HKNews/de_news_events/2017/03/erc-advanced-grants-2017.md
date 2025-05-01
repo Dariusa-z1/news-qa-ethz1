@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/03/erc-advanced-grants-2017.html
 
-**Date processed:** 2025-05-01
-
 ## Die Exzellenz-Strategie greift
 
 Die acht Forscher sind allesamt ordentliche oder ausserordentliche Professoren, zum Teil seit vielen Jahren. Das Themenspektrum ist breit und reicht von der Mikro- über die Systembiologie und die organische Chemie bis zur Quantenphysik. Die eingeworbenen Mittel sind je zwischen zwei und drei Millionen Euro hoch, und die Gesamtsumme beläuft sich auf rund 20,2 Millionen Euro. Drei der Geförderten haben es bereits zum zweiten Mal geschafft, diese wohl derzeit höchste Auszeichnung für Pionierforschung zu erhalten. Zusätzlich bekamen weitere sieben Forscherinnen und Forscher ein A-Rating („ausgezeichnet“), die damit die Kriterien für einen Grant eigentlich erfüllen.

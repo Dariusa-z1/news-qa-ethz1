@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/02/portraet-tom-crowther.html
 
-**Date processed:** 2025-05-01
-
 ## Vom Postdoc zum Laborleiter
 
 Tom Crowther steht an einem Pult in einem kleinen Büro im CHN-Gebäude der ETH Zürich und schaut auf den Bildschirm. «Das ist eigentlich nicht mein Büro», sagt er, fast schon entschuldigend dafür, dass er den Gast nicht standesgemäss empfängt.

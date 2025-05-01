@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/11/mehr-flexibilitaet-im-wissensportal.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Ob Desktop-PC oder Tablet – die Unterseiten des Wissensportals passen sich flexibel der Grösse Ihres Endgerätes an. Website-Inhalte, Formulare, Links und Buttons sind entsprechend ebenfalls mobil nutzbar. Nutzerinnen und Nutzern von Smartphones empfehlen wir aktuell noch unsere mobile Website .

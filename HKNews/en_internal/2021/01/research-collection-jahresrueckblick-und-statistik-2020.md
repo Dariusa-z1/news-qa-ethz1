@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/01/research-collection-jahresrueckblick-und-statistik-2020.html
 
-**Date processed:** 2025-05-01
-
 ## Key topics in 2020
 
 Our review of the usage figures for the Research Collection last year reveals some pleasing numbers: there were over 800,000 downloads of journal articles. This represents a 43% increase on the previous year and the highest number ever achieved on the platform. This is certainly not least due to the fact that the number of articles available for free via the Research Collection is growing constantly. The proportion of open-access articles in 2020 is currently at 43%; this is 7% more than was available during the last annual review for 2019. However, the proportion of open-access content had also increased in previous years.

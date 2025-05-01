@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/05/how-tendons-become-stiffer-and-stronger.html
 
-**Date processed:** 2025-05-01
-
 ## Gene variant overreacts
 
 Tendons are what connect muscles to bones. They are relatively thin but have to withstand enormous forces. Tendons need a certain elasticity to absorb high loads, such as mechanical shock, without tearing. In sports involving sprinting and jumping, however, stiff tendons are an advantage because they transmit the forces that unfold in the muscles more directly to the bones. Appropriate training helps to achieve an optimal stiffening of the tendons.

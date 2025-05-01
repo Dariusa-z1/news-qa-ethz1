@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/07/mit-ultraschallwellen-das-gehirn-untersuchen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Sowohl die medizinische Bildgebung mit Ultraschall wie auch die Seismologie zur Darstellung des Erdinneren nutzen die Ausbreitung von Wellen durch die Materie. Treffen seismische Wellen auf Materialunterschiede im Erdinnern, etwa unterschiedliche Gesteinsverbände, werden sie an deren Grenzflächen reflektiert und gebrochen. Infolgedessen ändert sich die Geschwindigkeit der Wellen. Messen nun Forschende an der Oberfläche diese Wellen, können sie Rückschlüsse auf den Aufbau des Erdinneren ziehen, über die Gesteinszusammensetzung und deren Materialeigenschaften wie Dichte, Druck oder Temperatur.

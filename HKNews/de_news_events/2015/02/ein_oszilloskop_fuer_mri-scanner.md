@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/02/ein_oszilloskop_fuer_mri-scanner.html
 
-**Date processed:** 2025-05-01
-
 ## Aus Studenten werden Unternehmer
 
 «Eigentlich wollte ich ja unbedingt in die Versicherungsbranche einsteigen», erzählt Christoph Barmet und lächelt verlegen. Zehn Jahre, eine ETH-Silbermedaille und eine Spin-off-Gründung später ist der 37-Jährige jedoch sicher, dass die Entscheidung gegen das Versicherungswesen und für die MRI-Technologie die richtige war.

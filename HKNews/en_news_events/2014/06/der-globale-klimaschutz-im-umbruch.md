@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/06/der-globale-klimaschutz-im-umbruch.html
 
-**Date processed:** 2025-05-01
-
 ## Pragmatischer Wandel in der Klimapolitik
 
 Nach der Veröffentlichung aller drei Teile des fünften IPCC-Sachstandsberichts und nur anderthalb Jahre vor dem mutmasslich entscheidenden Klimagipfel in Paris hat sich allenthalben Ernüchterung breitgemacht. Heute riskiert kaum noch jemand, den baldigen Durchbruch bei den Klimaverhandlungen zu verkünden, aber auch Warnungen vor nahenden Grosskatastrophen nehmen wesentlich weniger Raum ein.

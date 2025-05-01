@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/04/germanium-wird-lasertauglich.html
 
-**Date processed:** 2025-05-01
-
 ## Starker Zug durch Mikro-Brücken
 
 Forscher von der ETH Zürich, dem Paul Scherrer Institut PSI und dem Politecnico di Milano haben gemeinsam eine Fabrikationstechnik entwickelt, mit der sie den Halbleiter Germanium durch starke Zugspannung lasertauglich machen können. In ihrer kürzlich in «Nature Photonics» erschienenen Publikation zeigen sie, wie sie die dazu benötigte Zugspannung auf effiziente Weise erzeugen können. Die Wissenschaftler weisen nach, dass sie mit ihrer Methode die opti-schen Eigenschaften des an sich für Laser ungeeigneten Germaniums wirksam verändern können: «Bei einer Dehnung von drei Prozent gibt das Material rund 25 Mal mehr Photonen ab als im entspannten Zustand», erklärt Martin Süess, Doktorand am Laboratorium für Nanometallurgie von Professor Ralph Spolenak und dem EMEZ an der ETH Zürich. «Das reicht aus, um damit Laser zu bauen», sagt sein Mitstreiter Richard Geiger, Doktorand am Labor für Mikro- und Nanotechnologie am PSI und dem Institut für Quantenelektronik der ETH Zürich unter Professor Jérôme Faist.

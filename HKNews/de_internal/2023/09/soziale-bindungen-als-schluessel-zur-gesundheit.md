@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/09/soziale-bindungen-als-schluessel-zur-gesundheit.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Neue Forschungsergebnisse zeigen: Wenn wir uns einer Gruppe zugehörig fühlen, sind wir gesünder. Teamgeist, Zugehörigkeitsgefühl und die damit verbundene soziale Unterstützung tragen dazu bei, Fälle von Burnouts zu reduzieren und unser Wohlbefinden zu steigern.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/04/a-pop-up-restaurant-on-the-polyterrasse.html
 
-**Date processed:** 2025-05-01
-
 ## Seven-course evening meals
 
 The restaurant is currently being built on the Polyterrasse. On 7 May, this pop-up restaurant with its less-than-conventional approach will be complete. The Tastelab is all about exploring the relationship between science and cooking. The organisers are eager to use these four weeks to demonstrate how it is possible to improve traditional recipes or create entirely new recipes through an understanding of scientific principles. Eggs will be poached in their shells, meat will be cooked for days in a water bath, carbonation will add a sparkle to fruit, and coffee will be brewed cold.

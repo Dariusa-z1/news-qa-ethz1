@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/01/neue-app-sch%C3%BCtzt-vor-brandroter-haut.html
 
-**Date processed:** 2025-05-01
-
 ## Aggressive Sonnenstrahlen
 
 Wir alle kennen das: In Eile und voller Vorfreude können wir es kaum erwarten, endlich ins Flugzeug zu steigen oder unser Auto zu beladen, um den bleischweren Wolken am Himmel, den langen Arbeitstagen im Büro und den schier endlosen Routinearbeiten im Haushalt zu entfliehen. Unser Reiseziel: das Paradies! Bei neun von zehn Urlaubsreisen heisst das im Klartext, einen Platz an der Sonne zu ergattern. Ob weisse Sandstrände auf den Malediven oder weiss überzuckerte Berghänge in Zermatt: Mit einer Sonnenbrille auf der Nase und einem Cocktail in der Hand steht Sonnenbaden sehr wahrscheinlich ganz oben auf dem Urlaubsprogramm.

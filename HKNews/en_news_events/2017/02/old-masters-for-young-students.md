@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/02/old-masters-for-young-students.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Not one, not five, but a total of 110 works by Pablo Picasso (1881-1973) can be found in the Collection. These are in part large-format sheets that are stored individually on acid-free cardboards and in passe-partouts. And this is only a small part of the inventory – over the course of its 150-year history, some 160,000 works have been collected. Alongside Pablo Picasso are countless works by other prominent artists such as Rembrandt and Goya as well as Warhol or Fischli/Weiss.

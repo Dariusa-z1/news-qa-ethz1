@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/02/zum-zweiten-mal-sicherheitsluecke-bei-kreditkarten-entdeckt.html
 
-**Date processed:** 2025-05-01
-
 ## Sicherheitsschranke doppelt überlistet
 
 Die von den Forschern genutzte Methode orientiert sich unter anderem am «man-in-the-middle»-Prinzip. Dabei manipuliert der Angreifer den Datenaustausch zwischen zwei Kommunikationspartnern, in diesem Fall zwischen Karte und Karten-Terminal. Die Forscher brauchten dafür eine eigens kreierte Android-App und zwei NFC-fähige Mobiltelefone. Die App signalisierte dem Karten-Terminal in unwahrer Weise, dass erstens kein PIN nötig sei, und dass zweitens der Karteninhaber verifiziert wurde. In einem ersten Schritt funktionierte die Methode nur bei Visa-Karten, da andere Anbieter ein anderes Protokoll verwenden (ein Protokoll regelt die Datenübertragung).

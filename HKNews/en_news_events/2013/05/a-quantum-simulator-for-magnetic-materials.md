@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/05/a-quantum-simulator-for-magnetic-materials.html
 
-**Date processed:** 2025-05-01
-
 ## The concert of tiny magnets
 
 Physicists understand perfectly well why a fridge magnet sticks to certain metallic surfaces. But there are more exotic forms of magnetism whose properties remain unclear, despite decades of intense research. An important step towards filling these gaps comes now from Tilman Esslinger and his group at the Department of Physics. The team has developed a new kind of device that uses laser beams and atoms to emulate magnetic materials. Their approach promises fundamental insights beyond what can be obtained with current theoretical and computational methods. Moreover, the work might guide researchers towards finding new materials with interesting properties for future technologies and applications.

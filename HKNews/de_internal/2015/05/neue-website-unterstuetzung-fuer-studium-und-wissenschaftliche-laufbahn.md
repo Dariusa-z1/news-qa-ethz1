@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/05/neue-website-unterstuetzung-fuer-studium-und-wissenschaftliche-laufbahn.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Um Studierende und Forschende während ihrer Zeit an der ETH Zürich zu unterstützen, stellt die Hochschule zahlreiche Beratungsangebote zur Verfügung. Diese sind auf die Bedürfnisse der jeweiligen Studien- oder Karrierephasen abgestimmt. Die Unterstützung reicht von persönlichen Beratungen (z.B. bei Wohnungssuche, Kinderbetreuung, Laufbahnberatung, Berufseinstieg, Firmengründung) bis zur juristischen Hilfe bei Patentierungsfragen.

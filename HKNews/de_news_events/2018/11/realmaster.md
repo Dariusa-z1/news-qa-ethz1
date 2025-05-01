@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/11/realmaster.html
 
-**Date processed:** 2025-05-01
-
 ## Die richtigen Studierenden ansprechen
 
 Die ETH Zürich möchte die besten Studierenden der Welt nach Zürich locken. Doch nicht überall auf der Welt sind die drei Buchstaben so bekannt wie in der Schweiz. Die Aufmerksamkeit bei potenziellen Studierenden wecken soll ein neues Hip-Hop-Video. Ein Master of Ceremonies führt die Zuschauerinnen und Zuschauer über den Campus und rappt zusammen mit ETH-Studierenden über das Master-Studium. Und wie man das von der ETH nach dem vor zwei Jahren lancierten externe Seite Trailer nicht anders erwartet, kommt Humor im Clip nicht zu kurz.

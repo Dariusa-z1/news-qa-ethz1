@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/03/a-new-direction-for-cancer-research.html
 
-**Date processed:** 2025-05-01
-
 ## Tumour type is key
 
 Dagmar Iber is Professor of Computational Biology at ETH’s Department of Biosystems Science and Engineering in Basel. Her research group uses a combination of lab experiments and computer modelling to investigate how cells organise themselves into organs and other complex, three-dimensional tissue structures based on the genetic information they contain. Until recently, their work did not touch on cancer research. But that all changed when the ETH Board issued a call for research proposals combining basic and medical research on new topics in health-related fields.

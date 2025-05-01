@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/06/einzigartiger-garten-spiegelt-und-begeistert-new-york.html
 
-**Date processed:** 2025-05-01
-
 ## Garden pavilion reflects the museum, New York and New Yorkers
 
 There’s a new luscious green lawn in the middle of New York. Its garden chairs, hedges and gazebo-like structure are reminiscent of a suburban American garden. Which is precisely what the latest project by Günther Vogt , Professor of Landscape Architecture at ETH Zürich, is meant to be: a suburban garden on the roof of a building in New York City. “The location is simply one-of-a-kind,” says Vogt. “You’re in the middle of this metropolis of eight million people, yet you’re also standing on an expansive lawn and can see the Manhattan skyline, which looks a little like a mountain landscape. As you gaze down on Central Park, you have the feeling you’re looking at a forest. The roof of the Metropolitan Museum is the only place in New York that offers such an impressive view.”

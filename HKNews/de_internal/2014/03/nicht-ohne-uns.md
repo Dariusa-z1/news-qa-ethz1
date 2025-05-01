@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/03/nicht-ohne-uns.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 “Life is what happens while you're busy making other plans” ̶ «Das Leben ist das, was passiert, während du damit beschäftigt bist, andere Pläne zu schmieden»: treffender könnte das Zitat an meiner Bürotür nicht beschreiben, wie die Wochen nach dem 9. Februar für den VSETH verlaufen sind. Die sorgfältig geplanten Projekte für den Februar und den März, die unter anderem die Einrichtung einer Eisbahn auf dem Hönggerberg, eine Stellungnahme zur Rektorenwahl und gezieltes Lobbying im Nationalrat zu den Studiengebühren vorsahen, wurden auf einmal von einem neuen Thema in den Schatten gestellt: Von der Masseneinwanderungsinitiative und ihren Auswirkungen auf die europäischen Bildungs- und Forschungprogramme «Erasmus+» und «Horizon 2020».

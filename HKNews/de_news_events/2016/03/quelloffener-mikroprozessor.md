@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/03/quelloffener-mikroprozessor.html
 
-**Date processed:** 2025-05-01
-
 ## Prozessor für tragbare Mikrosysteme
 
 Quelltexte von Software und Baupläne von Hardware sind in der Regel gut gehütete Geschäftsgeheimnisse. Nicht so bei Open-Source-Produkten. Der Code von Open-Source-Software beispielsweise ist allen frei zugänglich. Bekanntestes Beispiel ist das Betriebssystem Linux. Interessierten Entwicklern ist es möglich, die Software nicht nur zu nutzen, sondern sie auch weiterzuentwickeln und ihren Bedürfnissen anzupassen.

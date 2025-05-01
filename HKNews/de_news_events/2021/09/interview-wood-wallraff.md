@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/09/interview-wood-wallraff.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Kürzlich wurde der ETH-Spin-off Zurich Instruments von der deutschen Unternehmensgruppe Rohde & Schwarz übernommen. Was ist bemerkenswert daran? Vanessa Wood : Das war eine grossartige Nachricht! Eine Firma, die mit einem Nischenprodukt begann, ist nun für einen grossen Elektronik-Anbieter interessant geworden. Das zeigt, dass der Bedarf an Instrumenten für Quantentechnologie einen breiteren Markt erreicht hat. Und es bestätigt den Trend, den wir allgemein bei Investitionen in diesen Bereich sehen. Andreas Wallraff : Rohde & Schwarz ist ein grosses Unternehmen. Ihre Motivation für den Kauf war sicher, dass sich Zurich Instruments in den letzten Jahren in der Instrumentierung für Quantentechnologie zunehmend etabliert hat. Rohde & Schwarz haben zwar Produkte, die man im erweiterten Umfeld auch nutzen kann, aber sie hatten dieses Gebiet bisher noch nicht wirklich adressiert. So war es für das Unternehmen eine gute Gelegenheit, durch den Kauf eines ETH-Spin-offs in dieses Feld einzusteigen. Aber auch für uns als Labor ist das eine wichtige Nachricht, weil wir mit Zurich Instruments schon seit acht Jahren gemeinsame Projekte machen.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/01/artificial-muscles-lighter-softer-more-robust.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • Researchers at ETH Zurich have developed artificial muscles that are lighter, safer and more robust than their predecessors.

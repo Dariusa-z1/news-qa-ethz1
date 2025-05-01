@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/08/geplante-windparks-virtuell-erleben.html
 
-**Date processed:** 2025-05-01
-
 ## Windparks sicht- und hörbar machen
 
 In der Schweiz stossen geplante Windenergieanlagen (WEA) häufig auf Widerstand. Denn die lokale Bevölkerung steht solchen Vorhaben meist sehr kritisch gegenüber: Wie verändert ein Windpark das Landschaftsbild? Und wie laut rauschen die Rotorblätter? Betroffene möchten oft detailliert erfahren, was Windenergieprojekte für die Umgebung bedeuten. In der Praxis sind also neue Kommunikationsmassnahmen nötig, um die Bevölkerung besser zu informieren und sie für die Teilnahme am Planungsprozess zu gewinnen.

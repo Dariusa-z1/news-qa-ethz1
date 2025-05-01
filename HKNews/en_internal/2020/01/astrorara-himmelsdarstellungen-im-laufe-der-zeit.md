@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/01/astrorara-himmelsdarstellungen-im-laufe-der-zeit.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Have you ever wondered how scientists of centuries past observed and documented celestial events?

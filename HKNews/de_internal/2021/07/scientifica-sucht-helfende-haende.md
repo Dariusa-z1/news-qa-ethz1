@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/07/scientifica-sucht-helfende-haende.html
 
-**Date processed:** 2025-05-01
-
 ## Neue Standorte, grösseres Angebot
 
 Die Scientifica feiert dieses Jahr ihr zehnjähriges Bestehen. 2011 luden ETH Zürich und Universität Zürich die Bevölkerung zum ersten Mal dazu ein, sich in den beiden Hauptgebäuden mit Forschenden auszutauschen. Ob an Ausstellungsständen, in Kurzvorlesungen, Science Cafés oder Workshops: Die Begeisterung der Wissenschaftlerinnen und Wissenschaftler übertrug sich auf das Publikum. So wuchs die universitäre Wissenschaftsfestival über die Jahre, es kamen jeweils über 20'000 Besuchende. Entsprechend eng wurde es teilweise in der Ausstellung.

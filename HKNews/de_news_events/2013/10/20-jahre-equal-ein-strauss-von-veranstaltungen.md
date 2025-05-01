@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/10/20-jahre-equal-ein-strauss-von-veranstaltungen.html
 
-**Date processed:** 2025-05-01
-
 ## Gender-Rap
 
 Konstante 30 Prozent: So hoch ist der Studentinnenanteil an der ETH Zürich und bei den Berufungen für eine Professur bekommt noch weit häufiger ein Mann die Stelle. Frauen und Männer arbeiten anders, verhandeln anders und lachen auch anders. Dies zeigen die Gastdozenten Kriszti Kiss und Stefan Keim in ihrem «Gender-Kabarett», am Donnerstag den 31. Oktober um 12 Uhr im HG Raum E3. Sie erzählen, spielen und singen vom Glanz und Elend der Chancengleichheit, von den Absurditäten der Theorie und der Komik der Praxis.

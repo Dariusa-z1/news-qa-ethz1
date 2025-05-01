@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/02/keeping-an-eye-on-the-entire-ageing-process.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Humans are increasingly living longer. Interestingly, however, statisticians only predict an increase in years of life, not years in which we remain healthy: these “healthy years” stay more or less constant 1 . That means that people live longer, but spend more of that time ill – which suggests there will be negative consequences for the financing of our health system.

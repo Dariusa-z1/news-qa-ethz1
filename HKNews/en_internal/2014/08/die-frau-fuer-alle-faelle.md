@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/08/die-frau-fuer-alle-faelle.html
 
-**Date processed:** 2025-05-01
-
 ## A doer
 
 Claudia Sigel's place of work is anything but a boring office in the Department for Materials Science (D-MATL). The wide windowsill is lined with plants large and small, an artificial skeleton wearing a woolly hat and T-shirt watches over proceedings from hollow eye sockets and a big, bright red sofa offers an inviting place to relax during coffee breaks.

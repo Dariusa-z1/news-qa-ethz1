@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/04/nie-ohne-schutzbrille.html
 
-**Date processed:** 2025-05-01
-
 ## Mittelschwere Gesichts- und Handverletzungen
 
 Um Gesundheitsschäden vorzubeugen, ist in vielen ETH-Labors das Tragen einer persönlichen Schutzausrüstung (PSA) Pflicht. Zur PSA gehören je nach Arbeit beispielsweise Labormäntel, Sicherheitsschuhe, Schutzbrillen oder Handschuhe. Aufgrund des hohen Sicherheitsbewusstseins an der ETH Zürich passieren bei der tagtäglichen Arbeit mit Gefahrstoffen sehr wenige Unfälle. Eine der Ausnahmen bildet eine Explosion, die sich im Herbst 2012 in einem Chemielabor auf dem Hönggerberg ereignete.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/08/wir-setzen-auf-masken-und-distanz.html
 
-**Date processed:** 2025-05-01
-
 ## Risikominimierung mit Masken
 
 Spätestens mit Start des Herbstsemesters werden sich wieder mehr Menschen und unterschiedliche Personengruppen auf dem ETH-Campus aufhalten. Die Studierenden kehren zurück, auch die Präsenz der ETH-Mitarbeitenden in den Büros nimmt zu. Ausserdem sind die Gebäude wieder uneingeschränkt für die Öffentlichkeit zugänglich.

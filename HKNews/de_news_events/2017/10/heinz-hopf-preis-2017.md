@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/10/heinz-hopf-preis-2017.html
 
-**Date processed:** 2025-05-01
-
 ## Die Rätsel der Raumkrümmung
 
 Manche geometrischen Räume entziehen sich der unmittelbaren Vorstellungskraft. Sie zu beschreiben, erfordert mehr als eine Sprache des Alltags. Einer, der die Sprache der Geometrie blendend beherrscht, ist der Amerikaner Richard M. Schoen, Professor an der Stanford Universität und an der Universität von Kalifornien, Irvine. Für seine «herausragenden und grundlegenden Beiträge zur Differentialgeometrie und zur Geometrischen Analysis» verleiht ihm die ETH Zürich den Heinz-Hopf-Preis 2017.

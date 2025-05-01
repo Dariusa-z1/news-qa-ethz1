@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/05/frequenzmessung-mit-quanten-hilfe.html
 
-**Date processed:** 2025-05-01
-
 ## Quantensensor im Diamanten
 
 Genaue Frequenzmessungen sind in vielen wissenschaftlichen und technischen Anwendungen äusserst wichtig. Um zum Beispiel biologisch relevante Moleküle mit Hilfe der Kernspinresonanz zu analysieren, misst man die Frequenzen, bei denen die Atomkerne auf elektromagnetische Wellen reagieren. Mit Hilfe neuer, auf der Quantenmechanik beruhender Messverfahren ist es mittlerweile sogar möglich, solche Analysen mit winzigen Sonden durchzuführen, die in unmittelbare Nähe von Geweben und Zellen gebracht werden können.

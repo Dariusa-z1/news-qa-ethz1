@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/03/wissenschaft-antwortet-auf-praxis.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH-News: Was ist der Grund für das spezielle Format, das das Energy Science Center für das Symposium gewählt hat? Christian Schaffner: Wir möchten mit diesem Symposium der Industrie die Gelegenheit geben, ihre Sicht im Bereich der Energie darzulegen. Wir sind überzeugt, dass die Industrie eine wichtige Rolle spielen wird, wenn es darum geht, die globalen Herausforderungen der Energieversorgung zu meistern. Neben der Rolle des Staates als Regulierer und der Forschung ist die Industrie die dritte wichtige Kraft. An der ETH gibt es viele Veranstaltungen von und für Wissenschaftler. Unser Symposium soll eine Ergänzung sein. Eine Veranstaltung, an welcher die Unternehmen Inhalte liefern und so in einen Dialog mit der Wissenschaft treten.

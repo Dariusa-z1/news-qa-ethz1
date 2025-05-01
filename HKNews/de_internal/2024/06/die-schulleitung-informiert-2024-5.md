@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/06/die-schulleitung-informiert-2024-5.html
 
-**Date processed:** 2025-05-01
-
 ## Reglement über unangemessenes Verhalten revidiert
 
 Die Schulleitung hat der Revision des bisherigen « Reglements betreffend Meldungen von Angehörigen der ETH Zürich über unangemessenes Verhalten », RSETHZ 615, zugestimmt. Ziel der Revision ist es, die Beschwerdeprozesse weiterzuentwickeln und die Prävention zu stärken. Neu unterscheidet das Reglement drei Stellen, an die sich Angehörige der ETH Zürich wenden können:

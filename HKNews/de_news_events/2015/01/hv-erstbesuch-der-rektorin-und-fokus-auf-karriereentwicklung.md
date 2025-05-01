@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/01/hv-erstbesuch-der-rektorin-und-fokus-auf-karriereentwicklung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Orientierung über Beschlüsse und laufende Geschäfte der Schulleitung der ETH Zürich ist ein fester Bestandteil, wenn sich die vier Hochschulgruppen (Lehrkörper, akademischer Mittelbau, Studierende und technisch-administratives Personal) im Plenum der Hochschulversammlung (HV) treffen. In der Regel stellen der Präsident oder die Rektorin die Schulleitungsgeschäfte persönlich den HV-Mitgliedern vor. An der Plenarversammlung vom 15. Januar 2015 übernahm Sarah Springman diese Aufgabe. Es war ihr erster Besuch bei der HV als Rektorin der ETH Zürich.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/01/neu-an-der-eth-tapio-schneider.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wie würden Sie einem Kind Ihr Forschungsgebiet erklären? Tapio Schneider: Ich versuche zu verstehen, wie unser Klima funktioniert: Was bestimmt, wo es wie viel regnet? Wie die Winde zustande kommen? Wann und wo es Wolken gibt? Ich möchte physikalische Gesetzmässigkeiten für das Klima finden. Diese sollten nicht nur für die Erde gelten, sondern auch für andere Planeten.

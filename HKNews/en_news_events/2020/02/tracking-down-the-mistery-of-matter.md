@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/02/tracking-down-the-mistery-of-matter.html
 
-**Date processed:** 2025-05-01
-
 ## 50,000 measurements
 
 The Big Bang created both the matter in the universe and the antimatter – at least according to the established theory. Since the two mutually annihilate each other, however, there must have been a surplus of matter, which has remained to this day. The cause of this excess of matter is one of the great mysteries of physics and astronomy. Researchers hope to find a clue to the underlying phenomenon with the help of neutrons, the electrically neutral elementary building blocks of atomic nuclei. The assumption: If the neutron had a so-called electric dipole moment (abbreviated nEDM) with a measurable non-zero value, this could be due to the same physical principle that would also explain the excess of matter after the Big Bang.

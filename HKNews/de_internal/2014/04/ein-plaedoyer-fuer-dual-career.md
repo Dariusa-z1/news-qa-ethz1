@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/04/ein-plaedoyer-fuer-dual-career.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In meiner letzten Kolumne befasste ich mich mit den potentiell unterschiedlichen Berufserfahrungen von Professorinnen und Professoren: Ich legte dar, dass diese Unterschiede solange bestehen bleiben, wie nur ganz wenige Frauen im MINT-Bereich tätig sind. In dieser Kolumne möchte ich erneut über meine persönlichen Erfahrungen berichten und die Diskussion eröffnen, wie sich die Chance zur Dual Career auf mein Leben und auf meine Berufskarriere ausgewirkt hat.

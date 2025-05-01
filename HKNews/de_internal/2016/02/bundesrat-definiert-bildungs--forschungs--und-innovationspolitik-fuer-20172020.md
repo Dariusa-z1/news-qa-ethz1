@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/02/bundesrat-definiert-bildungs--forschungs--und-innovationspolitik-fuer-20172020.html
 
-**Date processed:** 2025-05-01
-
 ## Hochschulen wegen Diskrepanz besorgt
 
 Die Leitlinie für die BFI-Förderperiode 2017–2020 lautet Kontinuität mit gezielter Weiterentwicklung . Dazu hat der Bundesrat vier Förderschwerpunkte definiert:

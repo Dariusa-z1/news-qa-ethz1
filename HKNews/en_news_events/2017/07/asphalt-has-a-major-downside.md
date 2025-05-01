@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/07/asphalt-has-a-major-downside.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH News: Professor Carmeliet, why are cities so much hotter than the countryside during the summer? Jan Carmeliet: Cities are made with a lot of concrete and asphalt. These materials are relatively dark and are particularly effective at absorbing solar radiation; they warm up during the day and store the heat. At night, buildings and streets then act as radiators, releasing the heat stored during the day and heating up the environment. Buildings in cities also block the wind, and cities contain less vegetation than the countryside. Wind by removal of hot air and plants that evaporate water have a cooling effect.

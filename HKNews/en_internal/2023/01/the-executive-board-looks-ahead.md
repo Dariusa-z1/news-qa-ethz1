@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2023/01/the-executive-board-looks-ahead.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 As in previous years, the members of the ETH Zurich Executive Board used this town hall meeting for employees as an opportunity to take stock of the previous year and to look ahead to those topics that are likely to be important in the next.

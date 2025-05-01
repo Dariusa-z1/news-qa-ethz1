@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/05/neue-raeume-fuer-die-kleinsten.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der Ausbau ist Teil des Download Gender Action Plans der ETH Zürich vertical_align_bottom und eines Beschlusses der Schulleitung vom vergangenen Jahr,

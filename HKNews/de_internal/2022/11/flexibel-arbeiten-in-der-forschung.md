@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/11/flexibel-arbeiten-in-der-forschung.html
 
-**Date processed:** 2025-05-01
-
 ## Mehr Diversität an Konferenzen
 
 «An Tagen, die gefüllt sind mit virtuellen Sitzungen, oder wenn ich Ruhe zum Schreiben brauche, mache ich gerne Homeoffice», beschreibt Paola Picotti, Professorin für Molekulare Systembiologie, ihren heutigen Arbeitsalltag. Auch viele Mitglieder ihrer Gruppe handhaben dies so. Eine für Paola Picotti sehr positive Entwicklung, die dank der Pandemie und dem damals unumgänglichen Gang ins Homeoffice möglich wurde. Was ebenfalls aus der Corona-Zeit geblieben ist: Der heute in ihrer Gruppe selbstverständliche Einsatz von Online-Kommunikations-Medien wie Zoom oder Teams.

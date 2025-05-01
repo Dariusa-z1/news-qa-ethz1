@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/06/news-from-the-executive-board-2021-3.html
 
-**Date processed:** 2025-05-01
-
 ## In-depth discussion on the future of work
 
 In its last meeting, the Executive Board focused for the first time on ETH staff going back to the office after the long phase of working from home due to the pandemic; it now seems increasingly likely that life is returning to normal.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/06/semper-candelabras-restored.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The historic candelabras that flanked the polyterrace entrance of the ETH main building for many decades have experienced a lot. They were reshaped, repainted, relocated and finally eroded by rust. They had to be dismantled in 2013 for safety reasons.

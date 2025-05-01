@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/11/decoding-the%20way-catalysts-work.html
 
-**Date processed:** 2025-05-01
-
 ## Oberflächenchemie massgebend
 
 Wasserstoff, insbesondere solcher, der «grün» hergestellt wurde durch die Spaltung von Wasser mit erneuerbarem Strom, gilt als Schlüsselelement einer zukünftigen nachhaltigen Mobilität. Einerseits kann Wasserstoff in Brennstoffzellen chemisch reagieren und zur Gewinnung elektrischer Energie benutzt werden. Damit können Elektromotoren angetrieben werden. Andererseits kommt er bei der Herstellung von synthetischen Flüssigtreibstoffen zum Einsatz.

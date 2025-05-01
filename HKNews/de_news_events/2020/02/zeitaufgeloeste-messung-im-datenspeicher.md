@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/02/zeitaufgeloeste-messung-im-datenspeicher.html
 
-**Date processed:** 2025-05-01
-
 ## Magnetisierung mit einzelnen Spins
 
 Am Departement Materialwissenschaft der ETH Zürich erforschen Pietro Gambardella und seine Mitarbeiter die Datenspeicher von morgen. Schnell sollen sie sein, Daten lange und zuverlässig speichern und zudem auch noch wenig kosten. Diese Quadratur des Kreises leisten so genannte magnetische «Random Access Memories» oder Direktzugriffsspeicher (MRAM), die schnelles Schalten über elektrische Ströme mit dauerhafter Speicherung in magnetischen Materialien verbinden. Schon vor einigen Jahren konnten die Forscher zeigen, dass ein bestimmter physikalischer Effekt – das Spin-Bahn-Drehmoment – eine besonders schnelle Datenspeicherung ermöglicht. Nun ist es Gambardellas Arbeitsgruppe in Zusammenarbeit mit dem Forschungs- und Entwicklungszentrum IMEC in Belgien gelungen, den genauen Ablauf eines einzelnen solchen Speichervorgangs zeitlich aufzulösen - und ihn mit einigen Tricks noch schneller zu machen.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/12/das-ist-wie-wenn-man-die-a-jugend-von-barcelona-spielen-sieht.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH-News: Welche Art von Forschung fördert die Forschungskommission der ETH Zürich? Uwe Sauer: Wir fördern grundlegende Forschung aus allen Disziplinen der ETH Zürich, und explizit auch die Zusammenarbeit innerhalb und zwischen Disziplinen. Unsere Förderung berücksichtigt die Naturwissenschaften genauso wie die Ingenieur- und Sozialwissenschaften, und sie umfasst die Anwendung ebenso wie Methodenentwicklung und Grundlagenforschung. Unser Anspruch ist: Wir wollen eine Tür öffnen für originelle Forschungsideen, die langfristig neue Forschungsgebiete erschliessen können.

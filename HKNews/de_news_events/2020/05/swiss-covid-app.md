@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/05/swiss-covid-app.html
 
-**Date processed:** 2025-05-01
-
 ## Viele folgen der Schweizer Idee
 
 Die Menschen in der Schweiz kehren nach der Corona-Krise allmählich wieder zu ihrem Alltag und ihrer Arbeit zurück. Mit den Lockerungen des Lockdowns steigt aber auch die Angst vor einer zweiten Infektionswelle. Gesundheits- und Sicherheitsvorschriften bleiben die beste Strategie, um sich gegen eine COVID-19-Infektion zu schützen. Zusätzlich plant der Bund, der Schweizer Bevölkerung möglichst bald eine Tracing App zur Verfügung zu stellen, die dazu beitragen kann, die Verbreitung des Virus einzudämmen. Die App wird im Rahmen des Projekts DP-3T von der ETH Zürich und Lausanne gemeinsam mit internationalen Forschenden entwickelt.

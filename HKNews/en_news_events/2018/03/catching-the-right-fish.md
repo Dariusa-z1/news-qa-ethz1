@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/03/catching-the-right-fish.html
 
-**Date processed:** 2025-05-01
-
 ## Stable basic structure, varied attachments
 
 Searching for new drugs is like fishing in the dark: the prospect of catching something is very uncertain, and it requires patience, skill and – of course – money. ETH researchers led by Dario Neri have developed a new screening method that speeds up the search for drugs, making it cheaper and more efficient, as they reported in the journal Nature Chemistry .

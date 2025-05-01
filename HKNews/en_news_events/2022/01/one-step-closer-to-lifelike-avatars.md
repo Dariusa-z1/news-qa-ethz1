@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/01/one-step-closer-to-lifelike-avatars.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 These days, people stare at their screens ever more frequently – especially since the onset of the coronavirus pandemic. Conferences, meetings and discussions with work colleagues all take place via video call. If the big tech companies have their way, such encounters will become an immersive experience in the so-called metaverse as early as next year, thanks to 3D glasses and specialised computer programs.

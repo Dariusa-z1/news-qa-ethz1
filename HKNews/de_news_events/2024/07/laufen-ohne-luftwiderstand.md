@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/07/laufen-ohne-luftwiderstand.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Innerhalb weniger Monate haben Forschende der ETH Zürich einen Airshield entwickelt, der eine neue Art des Hochgeschwindigkeitstrainings ermöglicht: Laufen ohne Luftwiderstand. Der Airshield ist ein U-förmiger Windschutz aus Plexiglas mit Rädern, der mit einem Gokart vor der Läuferin oder dem Läufer hergefahren wird. Sensoren regeln die Geschwindigkeit, der Fahrer im Gokart muss nur lenken. Athlet:innen erreichen so auch im Training Wettkampfgeschwindigkeiten, die sonst nur durch einen erhöhten Adrenalinspiegel möglich sind.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/05/die-chaotische-fruehphase-des-sonnensystems.html
 
-**Date processed:** 2025-05-01
-
 ## Zeugen des frühen Sonnensystems
 
 Bevor sich die Erde und die anderen Planeten gebildet hatten, war die junge Sonne von kosmischem Gas und Staub umgeben. Aus dem Staub bildeten sich über die Jahrtausende Gesteinsbrocken von unterschiedlicher Grösse. Viele wurden zu Bausteinen für die späteren Planeten. Doch manche dieser Brocken wurden nie Teil eines Planeten und umkreisen die Sonne noch heute, etwa als Teil des Asteroidengürtels.

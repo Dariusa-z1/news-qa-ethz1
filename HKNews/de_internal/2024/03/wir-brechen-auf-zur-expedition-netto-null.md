@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/03/wir-brechen-auf-zur-expedition-netto-null.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Noch wissen wir nicht, wie es sich anfühlt, Teil einer klimaneutralen Universität zu sein. Der Weg zum Netto-Null-Punkt gleicht einer Expedition, auf der es viel zu entdecken, zu lernen und an Hindernissen zu überwinden gilt. Erfolg ist nicht garantiert. Aber mit vereinten Kräften können wir Wesentliches auf dem Weg in Richtung Klimaneutralität erreichen. Die ETH-Schulleitung hat am 14. März 2024 die Lancierung des Programms «ETH Netto-Null» beschlossen. Von langer Hand und kollaborativ mit der ETH-Gemeinschaft vorbereitet, spezifiziert die ETH nun ihre Meilensteine auf dem Absenkpfad für die Jahre bis 2030 und stellt vorausschauend die Weichen für die Herausforderungen nach 2030. Dabei berücksichtigt sie auch die dynamischen gesetzlichen Grundlagen und Rahmenbedingungen und markiert Beständigkeit in ihrer Rolle als innovative und zukunftsorientierte Institution. Dies macht die ETH, indem sie Wege in eine klimaverträgliche Zukunft aufzeigt und relevantes Wissen, Technologie und Erfahrung in die Gesellschaft trägt.

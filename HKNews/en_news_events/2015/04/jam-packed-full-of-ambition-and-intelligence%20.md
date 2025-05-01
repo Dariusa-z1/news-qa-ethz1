@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/04/jam-packed-full-of-ambition-and-intelligence%20.html
 
-**Date processed:** 2025-05-01
-
 ## 11,000 francs per semester
 
 “It’s your task to realise your full potential. Be the very best you can be. And then you’ll take off.” These were the words spoken on Tuesday night by ETH Rector Sarah Springman to the scholarship holders of the “Excellence Scholarship & Opportunity Programme” (ESOP). The 50 or so young women and men who were in attendance had gathered for the annual “Meet the Talent” event at ETH Zurich where they were to present themselves and their projects to their patrons. Because these scholarships are financed in part by donations to the ETH Zurich Foundation given by alumni, friends and supporters.

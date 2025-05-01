@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/09/die-verteilung-der-emissionen.html
 
-**Date processed:** 2025-05-01
-
 ## Rückwärts rechnen
 
 Reto Knutti ist ein gefragter Experte, wenn es um Klimaprognosen geht. Der ETH-Professor für Klimaphysik zeigte vor Jahren auf, dass das Treibhausgas CO2 das Klima nicht nur kurzfristig, sondern während vieler Jahrhunderte beeinflusst. Und er war an der Entwicklung von Computermodellen beteiligt, mit denen sich Klimaveränderungen simulieren und in die Zukunft projizieren lassen.

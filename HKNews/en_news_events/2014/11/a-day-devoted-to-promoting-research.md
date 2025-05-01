@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/11/a-day-devoted-to-promoting-research.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Anyone opting for a career in science needs to take many things into account: international mobility and networking are very important, as well as identifying new research areas and implementing independent projects. The route to the top, i.e. to becoming a professor, however, is difficult and very selective.

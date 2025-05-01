@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/03/cookies-automatisch-filtern-und-blockieren.html
 
-**Date processed:** 2025-05-01
-
 ## Scheinkontrolle durch Cookie-Banner
 
 In grossen Bannern und quer über den Bildschirm fragen uns Websites, ob wir der Nutzung von Cookies zustimmen. Cookies sind kleine Dateien, die im Webbrowser angelegt werden und die eine:n Nutzer:in für eine Website identifizierbar macht, ohne auf personenbezogene Daten wie eine E-Mail-Adresse angewiesen zu sein. Dadurch können beispielsweise persönliche Einstellungen oder Anmeldedaten gespeichert werden oder die Nutzungszeit- und Dauer ermittelt werden.

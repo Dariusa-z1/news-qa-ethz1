@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/10/talent-und-teamgeist-als-herz-der-kuenstlichen-intelligenz.html
 
-**Date processed:** 2025-05-01
-
 ## ETH AI Center neu mit über hundert Forschenden
 
 Künstliche Intelligenz (KI) wird die Art und Weise verändern, wie Menschen und Computer ihre Arbeit teilen. Besonders bei sehr grossen, komplexen oder uneinheitlichen Datensätzen eröffnen Techniken des maschinellen Lernens neue Zugänge zu bislang unlösbaren Herausforderungen. Dieser Wandel eröffnet ein riesiges Potenzial für Forschung, Entwicklung und Start-ups. Im Prinzip lassen sich KI-Methoden in allen Forschungsdisziplinen und Branchen anwenden.

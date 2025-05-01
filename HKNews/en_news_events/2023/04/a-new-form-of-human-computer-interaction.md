@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/04/a-new-form-of-human-computer-interaction.html
 
-**Date processed:** 2025-05-01
-
 ## Abstract
 
 • ETH researchers developed a new programming language called LMQL (Language Model Query Language).

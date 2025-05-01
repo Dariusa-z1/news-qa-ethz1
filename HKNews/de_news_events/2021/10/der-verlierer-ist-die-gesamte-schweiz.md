@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/10/der-verlierer-ist-die-gesamte-schweiz.html
 
-**Date processed:** 2025-05-01
-
 ## Nicht mehr mit den Besten messen
 
 Als der Bundesrat am 26. Mai vor die Medienschaffenden tritt, um den Abbruch der Verhandlungen über ein Rahmenabkommen mit der Europäischen Union zu verkünden, stellen sich Sofia Karakostas und Agatha Keller auf intensive Monate ein. Die beiden leiten das von der ETH Zürich und der Universität Zürich gemeinsam betriebene Büro für internationale Fördermöglichkeiten – kurz EU GrantsAccess. Karakostas und Keller unterstützen Forschende dabei, Drittmittel aus internationalen Töpfen einzuwerben. Und beim weltweit grössten und wichtigsten Fördertopf, dem «Horizon Europe»-Programm der Europäischen Union, droht der Schweiz nach dem Entscheid des Bundesrats das Aus. Auf dem Spiel stehen neben zig Millionen an Fördergeldern nichts weniger als der Einfluss auf die inhaltliche Ausrichtung der europäischen Forschung und die Attraktivität der Schweizer Hochschulen.

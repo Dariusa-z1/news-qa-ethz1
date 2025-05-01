@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/07/vom-ewigen-ungleichgewicht.html
 
-**Date processed:** 2025-05-01
-
 ## Weiter entfernte Beeinflussung
 
 Wer eine Flasche Bier in eine grosse Badewanne voll eiskalten Wassers legt, der wird alsbald ein kühles Bier geniessen können. Wie das funktioniert, haben Physiker schon vor über hundert Jahren herausgefunden. Durch die Glasflasche hindurch findet ein Wärmeausstausch statt, bis ein Gleichgewicht erreicht ist.

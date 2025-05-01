@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/10/hgzz-freiraum-fuers-hochschulgebiet-zuerich.html
 
-**Date processed:** 2025-05-01
-
 ## Räume zwischen den Neubauten aufwerten
 
 Die Baudirektion hat die drei kantonalen Gestaltungspläne «USZ Kernareal Ost», «USZ/ETH Schmelzberg» sowie «UZH Wässerwies» festgesetzt. Sie legen den maximalen Rahmen in Bezug auf Zahl, Lage, äussere Abmessungen sowie Nutzung und Zweck der geplanten Bauten verbindlich fest. Damit ist die Planung für das Hochschulgebiet Zürich Zentrum (HGZZ) abgeschlossen Noch ist allerdings das Ergebnis der drei eingereichten Rekurse abzuwarten.

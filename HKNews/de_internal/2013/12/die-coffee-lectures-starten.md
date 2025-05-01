@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2013/12/die-coffee-lectures-starten.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Ab dem 3. Dezember 2013 bietet das Informationszentrum Chemie Biologie Pharmazie (ICBP) in seinem neuen Seminarraum HCI G2 auf dem Hönggerberg so genannte Coffee Lectures an. Das sind kurze Informationsveranstaltungen von maximal 10 Minuten, die Studierenden und Mitarbeitenden der Departemente D-CHAB, D-BIOL und D-MATL Tools und Datenbanken des ICBP vorstellen. Natürlich sind auch Gäste aus anderen Departementen willkommen. Das Ziel der Coffee Lectures ist es, die Dienstleistungen, Angebote und Informationsquellen bei Mitarbeitenden und Studierenden bekannter zu machen und ihre Nutzung zu unterstützen. Zu den Präsentationen gibt es jeweils gratis einen Kaffee. Die Coffee Lectures stellt das ICBP in einem unterhaltsamen externe Seite Video auf dem Youtube-Kanal der ETH vor.

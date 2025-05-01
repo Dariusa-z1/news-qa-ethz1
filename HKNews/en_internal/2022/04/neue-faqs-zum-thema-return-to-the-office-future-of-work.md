@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/04/neue-faqs-zum-thema-return-to-the-office-future-of-work.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In the town hall meeting it was explained that ETH Zurich plans to shape its forms of work and collaboration in two phases: "Return to the Office" and "Future of Work". In addition, the Vice-Presidency for Personnel Development and Leadership presented the "Welcome Back" workshop .

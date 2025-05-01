@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/03/security-in-asia-also-affects-europe.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Asia’s geopolitical weight is growing rapidly, forcing Europe to consider how it wants to engage with the region in the future. The continent is home not only to the world’s fastest growing markets, but also to security flashpoints of global importance, such as the South China Sea. These hotspots are becoming more volatile as a result of the US-China strategic competition, which has Asia as its main theatre. So what trends should European countries be aware of in their future dealings with the region?

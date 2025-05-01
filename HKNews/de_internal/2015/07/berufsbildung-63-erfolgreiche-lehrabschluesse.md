@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/07/berufsbildung-63-erfolgreiche-lehrabschluesse.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Insgesamt schlossen 26 Frauen und 37 Männer die Berufslehre an der ETH ab. Nach Lehrberufen aufgefächert sind dies 2015:

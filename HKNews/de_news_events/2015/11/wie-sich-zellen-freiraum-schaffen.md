@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/11/wie-sich-zellen-freiraum-schaffen.html
 
-**Date processed:** 2025-05-01
-
 ## Membranproteine pumpen die Zellen auf
 
 Der menschliche Körper erneuert sich fortwährend. Tag für Tag sterben mehrere Billionen unserer Körperzellen. Ebenso viele entstehen in diesem Zeitraum neu, weil sich andere Zellen teilen. Damit sie dies können, nehmen Zellen eine Kugelform an. Nur so klappt die Aufteilung der Chromosomen auf die zwei entstehenden Tochterzellen problemlos. Tag für Tag kommt es daher in unserem Körper billionenfach zu folgendem Schauspiel: Eine Zelle ändert ihre für ihre Funktion charakteristische Form zu einer Kugel, sie teilt sich, und die Tochterzellen nehmen wieder ihre arttypische Gestalt an.

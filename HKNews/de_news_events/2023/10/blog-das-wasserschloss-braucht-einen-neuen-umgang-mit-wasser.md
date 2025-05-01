@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/10/blog-das-wasserschloss-braucht-einen-neuen-umgang-mit-wasser.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Schweiz gilt als Wasserschloss Europas – als zuverlässige Lieferantin von frischem Wasser, das selbst dann noch stetig aus alpinen Quellen fliesst, wenn es anderswo knapp wird. Dieses Idealbild, das früher Realität war, wird heute durch den Klimawandel arg gestört. Extremereignisse wie Hochwasser und Trockenheit treten immer öfter auf: Das Wasserschloss ist im Stresszustand.

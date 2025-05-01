@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/02/a-laboratory-for-the-real-world%20.html
 
-**Date processed:** 2025-05-01
-
 ## The degree programme is part of a new Institute
 
 Straight from university into the world of political, economic and social decision-making processes: this is the core idea behind the new MSc programme in Science, Technology and Policy. Over the course of three semesters, engineers, natural scientists and architects will acquire basic knowledge of the structures and processes within the fields of politics, the economy and society. They will learn how to systematically evaluate decisions using scientific methods and thus contribute to addressing key social challenges. The degree programme aims to help ETH graduates better apply their knowledge of natural sciences, engineering or architecture to decision-making processes regarding major issues for the future, such as urban development, energy, sustainability and information and communications technology.

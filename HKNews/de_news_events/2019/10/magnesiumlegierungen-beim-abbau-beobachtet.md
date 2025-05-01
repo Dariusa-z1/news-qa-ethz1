@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/10/magnesiumlegierungen-beim-abbau-beobachtet.html
 
-**Date processed:** 2025-05-01
-
 ## Körperverträgliche Legierungselemente
 
 Magnesium und seine Legierungen halten vermehrt Einzug in die Medizin: einerseits als Material für Implantate in der Knochenchirurgie wie Schrauben oder Platten, andererseits als Material für Stents, um bei kardiovaskulären Eingriffen verengte Herzkranzgefässe aufzuweiten.

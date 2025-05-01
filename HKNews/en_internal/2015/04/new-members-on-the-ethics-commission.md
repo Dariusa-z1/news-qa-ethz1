@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/04/new-members-on-the-ethics-commission.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Newly elected members include:

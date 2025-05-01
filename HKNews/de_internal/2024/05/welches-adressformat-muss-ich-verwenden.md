@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/05/welches-adressformat-muss-ich-verwenden.html
 
-**Date processed:** 2025-05-01
-
 ## ETH-Adressformat zur Angabe der institutionellen Zugehörigkeit (bei allen Publikationen zu verwenden)
 
 Deutsch Claudia Muster, Institut für Atmosphäre und Klima, ETH Zürich, 8092 Zürich, Schweiz,

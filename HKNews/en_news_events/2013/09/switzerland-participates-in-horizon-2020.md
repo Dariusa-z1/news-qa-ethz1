@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/09/switzerland-participates-in-horizon-2020.html
 
-**Date processed:** 2025-05-01
-
 ## New priorities
 
 Switzerland will continue to take part in the European Union’s latest research framework programme, "Horizon 2020", which will run from 2014 to 2020. The Swiss National Council agreed to Switzerland’s participation in the programme in June 2013. On 10 September, the Council of States added its approval with 44 votes for and none against. This parliamentary decision has laid the foundations for building on Switzerland’s previous successful involvement in EU research programmes.

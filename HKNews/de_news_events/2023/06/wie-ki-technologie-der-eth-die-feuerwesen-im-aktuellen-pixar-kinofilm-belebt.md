@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/06/wie-ki-technologie-der-eth-die-feuerwesen-im-aktuellen-pixar-kinofilm-belebt.html
 
-**Date processed:** 2025-05-01
-
 ## Bilder übertragen, um Story zu unterstützen
 
 Die Hauptfigur Ember ist ein feuriges Elementarwesen, dessen Kopf aus Flammen besteht, die sich ständig bewegen. Diese Feuerflammen und Hitzeströmungen realistisch nachzuzeichnen, stellte die Animationsfilmer:innen vor eine grosse Herausforderung, wie unlängst das externe Seite Tech-Magazin Wired berichtete – mit der ETH-Technologie kamen sie schliesslich zu einer Lösung, welche die Flammenstruktur in Embers Gesicht derart ausgeprägt erscheinen lässt, wie das mit den bisherigen Simulationstechnologien nicht möglich war.

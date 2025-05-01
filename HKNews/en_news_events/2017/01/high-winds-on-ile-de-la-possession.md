@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/01/high-winds-on-ile-de-la-possession.html
 
-**Date processed:** 2025-05-01
-
 ## Over the sea to sand
 
 Today is a special day – 31 December 2016 – the last day of the year. And we’re waiting eagerly – not for the New Year’s Eve party, like the crew of the Russian ship, but for our helicopter ride to Île de la Possession, one of the Crozet islands in the southern Indian Ocean (see box).

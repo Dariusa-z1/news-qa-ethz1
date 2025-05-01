@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/07/Hotspots-of-cultural-history.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Using statistical methods, an extensive database of the places of birth and death of significant cultural individuals can be used to calculate the cultural significance and interaction of locations in Europe and North America over a period of 2,000 years. This was the conclusion reached by a seven-member research team from ETH Zurich, Northeastern University in Boston and the University of Texas at Dallas in an article published in the current edition of Science. Lead author Maximilian Schich, who holds a PhD in Art History and headed the extensive project. The group included Dirk Helbing at ETH Zurich, Professor of Sociology, who is specialised in modelling and simulation.

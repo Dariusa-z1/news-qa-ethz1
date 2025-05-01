@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/09/MRI-imaging-technology-enhanced-by-hyperpolarization.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Bildgebende Verfahren wie Magnetresonanztomographie (MRT) oder Computertomographie (CT) sind aus der heutigen Medizin nicht mehr wegzudenken. Diese Methoden erlauben schnellere und genauere Diagnosen und haben sich im Laufe der letzten Jahre stark verbessert. Jedoch setzt die Auflösung und Qualität der Bilder aufgrund der Komplexität des menschlichen Körpers diesen Technologien noch immer Grenzen. Eine Zusammenarbeit von Forschenden der ETH Zürich, der EPFL, des CNRS, der ENS Lyon, des CPE Lyon haben einen externe Seite neuen Ansatz entwickelt, um die Möglichkeiten der medizinischen Bildgebung stark zu verbessern bei gleichzeitiger höherer Sicherheit für Patienten.

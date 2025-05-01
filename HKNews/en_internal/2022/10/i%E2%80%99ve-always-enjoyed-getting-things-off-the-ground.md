@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/10/i%E2%80%99ve-always-enjoyed-getting-things-off-the-ground.html
 
-**Date processed:** 2025-05-01
-
 ## The members of the new VSETH Executive Board
 
 • Emir İşman (President)

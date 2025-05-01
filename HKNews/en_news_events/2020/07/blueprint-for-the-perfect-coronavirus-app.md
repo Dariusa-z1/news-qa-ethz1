@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/07/blueprint-for-the-perfect-coronavirus-app.html
 
-**Date processed:** 2025-05-01
-
 ## No miracle solution
 
 Handwashing, social distancing and mask wearing: all these measures have proven effective in the current COVID-19 pandemic – just as they were 100 years ago when the Spanish flu was raging throughout the world. However, the difference this time is that we have additional options at our disposal. Many countries are now using digital tools such as tracing apps to supplement those tried and tested measures.

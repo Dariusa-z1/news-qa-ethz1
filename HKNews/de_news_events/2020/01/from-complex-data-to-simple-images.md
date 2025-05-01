@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/01/from-complex-data-to-simple-images.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Auf der Bühne fühlt sich Mariëlle von Kooten wohl, das wird schon nach den ersten paar Sekunden ihres Auftritts am Falling Walls Lab klar. Sie wirkt selbstsicher und schäkert mit dem Publikum – das passt auch zum Projekt, das sie dort vorstellt. Die ETH-Systembiologin will etwas sexy machen, das eigentlich komplett unsexy ist: die Auswertung von riesigen Mengen komplexer Daten aus der Genetik und der Medizin. Damit will sie helfen, die Früherkennung, Prävention und Behandlung von Krankheiten zu verbessern.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/04/die-hintergruende-der-physik-entdeckung-des-letzten-jahres.html
 
-**Date processed:** 2025-05-01
-
 ## Giudice, Jenni und Evans
 
 Die Entdeckung des Higgs-Bosons letztes Jahr am Teilchenbeschleuniger LHC des Cern in Genf schlug hohe Wellen und darf wohl als die Physik-Entdeckung des Jahres 2013 bezeichnet werden. Grund genug für die ETH Zürich, sie zum Thema der diesjährigen Wolfgang-Pauli-Vorlesungen zu machen. Drei massgeblich an der Entdeckung beteiligte Cern-Wissenschaftler werden nächste Woche über deren Hintergründe referieren, in Vorlesungen, die sich sowohl an Wissenschaftler, Studierende und die Öffentlichkeit richten.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/07/datascience-capkun.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Professor Capkun, you recently said in an interview: “A little paranoia doesn’t hurt when it comes to IT security.” How paranoid should we be, ideally? With regard to IT security, it’s a good idea to stay wary and constantly question the technology. But then the question arises, what do you do about it? You can only have full security by giving up some benefits, so you have to find the right balance between function and security.

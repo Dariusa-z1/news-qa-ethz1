@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/03/in-der-werkstatt-des-riesen.html
 
-**Date processed:** 2025-05-01
-
 ## Die Ingenieure und das Kreuz
 
 Auf den ersten Blick wähnt man sich in einer Schiffswerft irgendwo im Hafenareal Hamburgs: Eine weite Halle, Neonlicht und an der Decke ein Hängekran auf Schienen, der tonnenschwere Stahlelemente, Betonstützen und Holzbalken durch den Raum hievt. Dazu Schrauben, so lang und dick wie die Unterarme eines Erwachsenen, und Muttern mit dem Radius von Tellern – als wäre das hier die Werkstatt eines Riesen.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/03/neuer-praesident-der-aveth.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Weiter wählten die AVETH-Mitglieder das Präsidium, namentlich sind dies:

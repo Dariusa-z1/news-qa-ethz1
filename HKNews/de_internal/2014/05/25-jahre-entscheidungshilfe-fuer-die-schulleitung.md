@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/05/25-jahre-entscheidungshilfe-fuer-die-schulleitung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Eigentlich hatte Urs Hugentobler am Anfang seiner Berufslebens ganz anderes im Sinn, als an der ETH in das Hochschulmanagement einzusteigen. Der junge Mann hatte davor an der Universität Zürich Biologie studiert, ein Doktorat am ETH-Institut für Pflanzenwissenschaften gemacht und gerade einen Postdoc-Aufenthalt am Boyce Thompson Institute for Plant Research an der renommierten Cornell University in den USA hinter sich. (Fast) alles sprach für eine Karriere in der Wissenschaft.

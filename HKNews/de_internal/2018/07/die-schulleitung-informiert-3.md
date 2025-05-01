@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/07/die-schulleitung-informiert-3.html
 
-**Date processed:** 2025-05-01
-
 ## Bereich VPPR zieht nach Oerlikon
 
 Am Studienreglement für den ETH-Bachelor in Humanmedizin, der letztes Jahr lanciert wurde, wurden kleine Korrekturen angebracht. Insbesondere wurde die Abfolge der Fächer optimiert und auf Wunsch der Studierenden wurden im zweiten Studienjahr neue Prüfungsblöcke eingebaut. Ebenfalls verabschiedet hat die Schulleitung das Reglement für das Weiterbildungsprogramm des DAS ETH in Datenwissenschaft, das von den Departementen INFK, ITET und MATH gemeinsam angeboten wird.

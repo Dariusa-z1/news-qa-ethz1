@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/09/vitamin-als-jungbrunnen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die winzigen Fadenwürmer leben länger mit Niacin. (Bild: Michael Ristow / ETH Zürich)

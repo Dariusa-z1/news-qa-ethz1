@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/07/name-adresse-oder-magazin-abos-aendern-leicht-gemacht.html
 
-**Date processed:** 2025-05-01
-
 ## Change your subscription settings
 
 For instance, if you’d like to receive life as an English PDF via email rather than getting the German print edition in your mailbox, you can change your settings as follows:

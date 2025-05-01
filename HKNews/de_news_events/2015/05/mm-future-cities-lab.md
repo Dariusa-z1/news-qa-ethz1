@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/05/mm-future-cities-lab.html
 
-**Date processed:** 2025-05-01
-
 ## Finanzierung verlängert
 
 Obwohl drei Viertel der Schweizer Bevölkerung in städtischen Gebieten leben – davon allein fast 1,9 Millionen im Grossraum Zürich –, sind die Wachstumsraten der Schweizer Städte mit einem Prozent relativ niedrig. In Singapur leben heute mehr als 5,3 Millionen Menschen in urbanen Gebieten. Eine nachhaltige städtische Entwicklung fordert sowohl Zürich wie auch Singapur heraus, genauso wie nahezu alle grossen Städte der Welt.

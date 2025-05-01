@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/10/administrativuntersuchung-eingeleitet.html
 
-**Date processed:** 2025-05-01
-
 ## Oberstes Ziel: Schutz der Doktorierenden
 
 Die Schulleitung der ETH Zürich hat beschlossen, eine unabhängige Administrativuntersuchung aufgrund der Vorwürfe im früheren Institut für Astronomie zu eröffnen. Ziel der Untersuchung ist es, die Verhältnisse und Abläufe innerhalb der betroffenen Bereiche sowie das Verhalten der beteiligten Personen zu überprüfen. ETH-Präsident Lino Guzzella zum Entscheid: «Die formelle Administrativuntersuchung erlaubt uns, noch genauer hinzuschauen und zu entscheiden, ob noch weitere Massnahmen getroffen werden sollen». Die ETH-Schulleitung beauftragt in den nächsten Tagen eine externe Fachperson mit der Durchführung der Administrativuntersuchung.

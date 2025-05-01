@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/01/between-africa-and-asia.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The person who has not travelled thinks his or her mother is the best cook. - African proverb.

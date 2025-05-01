@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/12/statins-reduce-brown-adipose-tissue.html
 
-**Date processed:** 2025-05-01
-
 ## Of mice and men
 
 A certain proportion of the adult population has not only white adipose (or fatty) tissue, but also the brown kind. This brown adipose tissue helps to convert sugar and fat into heat. People with brown adipose tissue are better at regulating their body temperature in the winter, and are less likely to suffer from excess weight or diabetes.

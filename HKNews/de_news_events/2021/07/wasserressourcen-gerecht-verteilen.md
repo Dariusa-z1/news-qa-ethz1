@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/07/wasserressourcen-gerecht-verteilen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Flüsse sind die Lebensadern vieler Länder. Sie schaffen wertvolle Ökosysteme, liefern Trinkwasser für die Menschen und Brauchwasser für die Landwirtschaft und Industrie. Insbesondere im Globalen Süden herrscht ein starker Wettbewerb um den Zugang zu Süsswasserressourcen. Durch die zunehmende Nutzung von Wasserkraft hat sich dieser Wettbewerb in jüngster Zeit noch verschärft.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/11/insekten-als-inspiration.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Im Frühjahr 2019 stellten Studierende des Studiengangs Textildesign von der Hochschule Luzern – Design & Kunst unter dem Titel «Rendez-Vous! Insektensammlung trifft Textildesign» an der ETH Zürich ihre Arbeiten aus. Beim Entwurf ihrer textilen Werke liessen sie sich von der reichen Formenvielfalt und Verspieltheit der Insekten in der Entomologischen Sammlung der ETH Zürich inspirieren.

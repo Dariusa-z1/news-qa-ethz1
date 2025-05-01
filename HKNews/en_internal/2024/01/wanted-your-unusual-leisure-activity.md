@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2024/01/wanted-your-unusual-leisure-activity.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 For the spring issue of life magazine, we are looking for these and less unusual activities that ETH members do together. We would like to portray groups and networks that meet regularly for certain activities outside of work.

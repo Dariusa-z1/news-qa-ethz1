@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2013/11/neu-an-der-eth-johan-six.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wie würden Sie einem Kind Ihr Forschungsgebiet erklären? Johan Six: Indem ich ihm sage: «Ich versuche, das beste Essen auf deinen Teller zu bringen. Ich forsche daran, dass dein tägliches Essen gesund ist und auf eine gute Art und Weise produziert wurde. Denn das Ziel ist, dass nicht nur du gesund bist, sondern auch die Umwelt gesund bleibt.»

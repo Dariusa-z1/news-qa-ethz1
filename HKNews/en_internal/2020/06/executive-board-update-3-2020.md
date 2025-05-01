@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/06/executive-board-update-3-2020.html
 
-**Date processed:** 2025-05-01
-
 ## New external ombudsperson
 
 Medicine is one of the main focus areas of ETH Zurich. To further strengthen this area, as well as to promote and coordinate the various health initiatives, the Executive Board has appointed Christian Wolfrum (D-HEST) as the new Delegate for Medicine. The Professor for Translational Nutritional Biology reports to the Vice President for Research and took up his new role on 1 June 2020. In his function as Director of Studies for BSc Health Sciences at ETH Zurich he will continue to work closely with the Rector. An in-depth interview with Christian Wolfrum will appear soon.

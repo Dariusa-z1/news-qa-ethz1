@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/07/eth-zuerich-met-new-york-ein-rueckblick-im-hauptgebaeude.html
 
-**Date processed:** 2025-05-01
-
 ## Eine Bühne für die ETH Zürich
 
 «Die ETH-Community soll wissen, wie wir uns ausserhalb der Schweiz darstellen», sagt Jürg Brunnschweiler, Leiter ETH Global. Welche visionären Bewegungen und Ideen stammen aus Zürich? Und welchen Einfluss haben Sie auf das heutige Amerika? Solche Fragen wurden am Festival «Zürich Meets New York: A Festival of Swiss Ingenuity» vom 16. bis 23. Mai in New York zur Debatte gestellt.

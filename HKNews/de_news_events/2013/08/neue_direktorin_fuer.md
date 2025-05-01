@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/08/neue_direktorin_fuer.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Ab dem 1. September leitet Drazenka Dragila-Salis den Infrastrukturbereich Bauten an der ETH Zürich. (Bild: Thomas Langholz / ETH Zürich)

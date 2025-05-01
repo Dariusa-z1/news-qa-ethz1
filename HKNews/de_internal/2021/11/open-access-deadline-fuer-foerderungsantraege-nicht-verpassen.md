@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/11/open-access-deadline-fuer-foerderungsantraege-nicht-verpassen.html
 
-**Date processed:** 2025-05-01
-
 ## Wissen verbreiten, Kosten eindämmen
 
 Auf unserer Website finden Sie weitere Informationen zum Thema:

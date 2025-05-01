@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/09/battery-with-a-twist.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Today’s electronics industry is increasingly focusing on computers or smartphones with screens that can be folded or rolled. Smart clothing items make use of wearable micro-devices or sensors to monitor bodily functions, for example. However, all these devices need an energy source, which is usually a lithium-ion battery. Unfortunately, commercial batteries are typically heavy and rigid, making it fundamentally unsuitable for applications in flexible electronics or textiles.

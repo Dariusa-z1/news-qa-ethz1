@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/10/gratis-covid-tests-fuer-eth-angehoerige.html
 
-**Date processed:** 2025-05-01
-
 ## Gratistests bis Ende Oktober
 
 Damit Nichtgeimpfte weiterhin ungehinderten und kostenlosen Zugang zu Lehrveranstaltungen haben, hat die Schulleitung der ETH Zürich nun entschieden, ab dem 1. November das folgende Testsystem anzubieten:

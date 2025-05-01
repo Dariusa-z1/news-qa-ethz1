@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/12/warum-die-eth-breiter-bloggt.html
 
-**Date processed:** 2025-05-01
-
 ## Verbreiteter Zweifel
 
 Wir leben in verrückten Zeiten: Wenn die Wissenschaft weltweit fast einhellig den Klimawandel als real betrachtet, höchste politische Stellen dies aber bezweifeln und gar negieren. Wenn gestandene Wissenschaftler von anonymen Internetplattformen aus ungestraft lächerlich gemacht werden. Wenn jeder achte Mensch in Deutschland sich dazu bekennt, Wissenschaft nicht zu glauben, und nur die Hälfte aller Befragten der Forschung vertraut. [1] In solch ver-rückten Zeiten sind die Hochschulen gefordert – vor allem kommunikativ.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/02/gabriela-hug-on-the-topic-of-energy-supply.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 How can renewable energy sources provide baseload power? Is there enough energy for everyone to drive an electric car? How likely are power outages? Gabriela Hug, Professor at the Power Systems Laboratory of ETH Zürich, answers these and other questions from the community.

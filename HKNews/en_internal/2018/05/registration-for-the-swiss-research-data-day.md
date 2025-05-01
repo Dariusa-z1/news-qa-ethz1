@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/05/registration-for-the-swiss-research-data-day.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Registration for the Swiss Research Data Day 2018 (SRDD2018) is now open. #SRDD2018 will gather notable speakers to discuss practices around handling, managing, and sharing research data. In addition, you can showcase your own work as a poster and network with colleagues.

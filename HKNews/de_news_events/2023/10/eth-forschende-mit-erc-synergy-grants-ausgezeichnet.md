@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/10/eth-forschende-mit-erc-synergy-grants-ausgezeichnet.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der Europäische Forschungsrat (ERC) hat gestern bekannt gegeben, welche Gruppen von Forschenden einen ERC Synergy Grant zugesprochen erhalten haben. Darunter sind auch zwei ETH-Forschende: Das Projekt «AxoBrain» mit Barbara Treutlein vom Departement Biosysteme der ETH in Basel und das Projekt «HYROPE» mit Nicolas Noiray vom Departement Maschinenbau und Verfahrenstechnik werden mit je einem Zuschuss von rund drei Millionen Franken gefördert. Dadurch fliessen insgesamt 5,9 Mio. CHF an die ETH Zürich.

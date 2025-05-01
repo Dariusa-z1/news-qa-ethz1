@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/04/pruefungen-in-pandemiezeiten.html
 
-**Date processed:** 2025-05-01
-
 ## Session examinations
 
 The semester break begins on 1 June. For most students, this means preparing for examinations that take place at the end of the semester or during the summer. However, our current exceptional situation will also impact how exams are held. The Rector has issued a third revision to the directive on teaching measures due to the coronavirus pandemic, which sets out how examinations are to take place. The measures are aligned with ETH’s master plan for returning to normal operations, although the plan is subject to uncertainty. This means that the statements are based on current knowledge and may change in the event of new Federal Council decisions or Executive Board evaluations.

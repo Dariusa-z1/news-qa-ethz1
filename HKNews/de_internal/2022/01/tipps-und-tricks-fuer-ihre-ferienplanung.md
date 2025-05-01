@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/01/tipps-und-tricks-fuer-ihre-ferienplanung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Übersicht über Ihre Zahl von Ferientagen und Ihre Überzeit bietet ETHIS . Nach dem Login, für welches Sie Ihren ETH-Benutzernamen und Ihr ETH-Passwort (sowie eine VPN-Verbindung im Homeoffice) benötigen, gelangen Sie auf die ETHIS-Startseite. Hier finden Sie unter «Persönlich => Zeitwirtschaft» das «Zeitblatt». Oben rechts auf dieser Seite befindet sich ein Reiter « Jahresübersicht ». Aufgeführt sind hier nicht nur die Arbeitsstunden, die Sie jeden Monat leisten müssen bzw. geleistet haben, sondern auch die Anzahl freier Stunden, die Ihnen aufgrund von Ferien oder einem Dienstaltersgeschenk zur Verfügung stehen.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/03/generous-donors.html
 
-**Date processed:** 2025-05-01
-
 ## Milestones 2016
 
 In 2016, 500 new donors were added to the existing 4,400 supporters of the ETH Zurich Foundation. Together, they supported ETH Zurich’s unique projects with gifts amounting to CHF 48 million.

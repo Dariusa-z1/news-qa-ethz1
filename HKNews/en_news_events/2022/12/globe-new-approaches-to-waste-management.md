@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/12/globe-new-approaches-to-waste-management.html
 
-**Date processed:** 2025-05-01
-
 ## Steep learning curve
 
 It’s 10 a.m. at the Richterswil church community centre. The coffee samovar is already half empty, and the building is buzzing to the sound of African pop music. Students from 17 countries are making a few last tweaks to their prototypes, feverishly debating the final elements of their design amid the sketches and post-it notes covering their cubicle walls. Outside, some team members are rehearsing their presentations while others take part in an energiser activity to give them a mental and physical boost. "The students are working through the design-thinking process – a method of finding innovative solutions to complex problems," says Marriette Mertens, programme manager at ETH for Development (ETH4D) and head of the Rethinking Waste summer school.

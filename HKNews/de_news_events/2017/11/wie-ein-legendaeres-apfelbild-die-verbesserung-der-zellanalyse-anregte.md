@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/11/wie-ein-legendaeres-apfelbild-die-verbesserung-der-zellanalyse-anregte.html
 
-**Date processed:** 2025-05-01
-
 ## Gut kombiniert
 
 Alle Lebensprozesse von Menschen, Tieren und Pflanzen sind abhängig von Zellaktivitäten. Allein der menschliche Körper umfasst über 210 Zelltypen mit bestimmten Eigenschaften und Funktionen, die seine Entwicklung und seine Gesundheit beeinflussen. Jede einzelne dieser Zellen und ihre Eigenschaften genau zu kennen, ist eine wichtige Grundlage für Biologie und Medizin. Die gesuchte Zellinformation herauszufiltern, ist manchmal eine gewaltige Herausforderung – besonders wenn von einer Million Zellen knapp ein Dutzend die Eigenschaft hat, die eine Krankheit auslöst.

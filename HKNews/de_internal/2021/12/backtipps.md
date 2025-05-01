@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/12/backtipps.html
 
-**Date processed:** 2025-05-01
-
 ## Beehives
 
 Wenn es um den Namen dieses Gebäcks geht, gibt es zwei Lager. Kristýna Kantnerová gehört ganz klar zur «Beehives»-Seite.

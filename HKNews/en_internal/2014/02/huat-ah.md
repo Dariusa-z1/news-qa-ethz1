@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/02/huat-ah.html
 
-**Date processed:** 2025-05-01
-
 ## New Year’s Beast and the Dragon Dance
 
 May the wishes of your heart come true. - Chinese New Year proverb.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/12/zukunftsblog-oekologie-als-leitdisziplin.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Das Artensterben ist zu einem der grössten globalen Risiken geworden. Das haben inzwischen auch die internationale Politik und Wirtschaft erkannt. An der Weltnaturkonferenz in Montreal haben die Staaten heute ein globales Abkommen und dringend nötige neue Ziele für die Biodiversität vereinbart. 1 So sollen unter anderem bis 2030 mindestens 30 Prozent der weltweiten Land- und Meeresflächen unter Schutz gestellt werden. Das ist ein wichtiger Meilenstein für den Artenschutz und ein bedeutendes Signal an die Menschen. Es wird aber nicht reichen.

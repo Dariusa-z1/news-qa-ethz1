@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/10/how-climate-change-in-directly-affects-us.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Climate change is happening, and no place is immune to the consequences. It’s true that Switzerland is unlikely to be as drastically affected as many other countries – alarming accounts of tropical storms, the flooding of entire regions or prolonged droughts generally reach us from abroad. But in today’s closely interconnected world economy where raw materials, foodstuffs and commodities are produced in distant countries and consumed around the world, extremes of climate and weather at any point along the supply chain can quickly have knock-on effects around the globe. Therefore, supply shortfalls or disrupted flows of goods could also affect Switzerland.

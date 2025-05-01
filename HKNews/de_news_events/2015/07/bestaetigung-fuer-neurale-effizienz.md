@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/07/bestaetigung-fuer-neurale-effizienz.html
 
-**Date processed:** 2025-05-01
-
 ## Erinnerung an Gesichter getestet
 
 Das Gehirn intelligenterer Menschen ist in der Lage, Aufgaben effizienter zu lösen. Darum sind diese Personen kognitiv leistungsfähiger als andere. Oder mit den Worten von Elsbeth Stern, Professorin für empirische Lehr- und Lernforschung an der ETH Zürich, ausgedrückt: «Sind eine intelligentere und eine weniger intelligente Person gleichermassen mit einer Aufgabe vertraut, muss die intelligentere Person ihr Gehirn weniger stark aktivieren, um die Aufgabe zu lösen.» In der Wissenschaft wird dies als Hypothese der neuralen Effizienz bezeichnet, wobei es längst keine Hypothese mehr ist, sondern eine unter Experten unbestrittene Tatsache, die mit ausreichend Daten unterlegt ist.

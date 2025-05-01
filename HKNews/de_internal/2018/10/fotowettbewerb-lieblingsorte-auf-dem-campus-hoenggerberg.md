@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/10/fotowettbewerb-lieblingsorte-auf-dem-campus-hoenggerberg.html
 
-**Date processed:** 2025-05-01
-
 ## Fotowettbewerb
 
 Was macht den Campus Hönggerberg für euch besonders? Wo haltet ihr euch am liebsten auf? Womit verbringt Ihr eure Zeit auf dem Hönggerberg?

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/11/winzige-roboter-aus-metall-und-kunststoff.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Roboter, so winzig, dass sie sich durch unsere Blutgefässe bewegen und Medikamente im Körper an bestimmte Stellen bringen – dies ist ein Forschungsziel, dass Wissenschaftler seit Jahren verfolgen. Forschenden der ETH Zürich ist es nun gelungen, erstmals solche «Mikromaschinen» zu bauen, die aus Metall und Kunststoff bestehen, und bei denen diese beiden Materialien so miteinander verknüpft sind, wie dies beispielsweise die Glieder einer Kette. Möglich ist dies dank einer von ihnen entwickelten neuen Herstellungstechnik.

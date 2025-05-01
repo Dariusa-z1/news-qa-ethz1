@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/01/die-eth-zuerich-setzt-sich-fuer-2023-ein-energiesparziel.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 (Bild: Adobe Stock; Bearbeitung: ETH Zürich)

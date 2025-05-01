@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/09/six-professors-appointed.html
 
-**Date processed:** 2025-05-01
-
 ## New appointments
 
 Professor Lint Barrage (*1985), currently Assistant Professor at the University of California, USA, as Associate Professor of Energy and Climate Economics in the Department of Management, Technology and Economics. Lint Barrage’s research focuses on the macroeconomic and social consequences of ecological developments and environmental policy decisions. She has a particular interest in the effects of energy and climate policy on economic development. The appointment of Lint Barrage boosts the Department’s competences and research activities in energy economics and policy. It will also create important synergies with colleagues at the Center for Energy Policy and Economics and the Energy Science Center.

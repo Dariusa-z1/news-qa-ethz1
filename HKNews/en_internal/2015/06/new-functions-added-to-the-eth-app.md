@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/06/new-functions-added-to-the-eth-app.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 As of version 3.0, users can now:

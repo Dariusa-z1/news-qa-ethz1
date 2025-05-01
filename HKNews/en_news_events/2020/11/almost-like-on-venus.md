@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/11/almost-like-on-venus.html
 
-**Date processed:** 2025-05-01
-
 ## Making magma in the laboratory
 
 Four-and-a-half billion years ago, Earth would have been hard to recognise. Instead of the forests, mountains and oceans that we know today, the surface of our planet was covered entirely by magma – the molten rocky material that emerges when volcanoes erupt. This much the scientific community agrees on. What is less clear is what the atmosphere at the time was like. New international research efforts led by Paolo Sossi, senior research fellow at ETH Zurich and the NCCR PlanetS, attempt to lift some of the mysteries of Earth’s primeval atmosphere. The findings were published today in the journal Science Advances .

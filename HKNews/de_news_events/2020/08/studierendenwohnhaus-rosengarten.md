@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/08/studierendenwohnhaus-rosengarten.html
 
-**Date processed:** 2025-05-01
-
 ## Ruhe zum Lernen und sozialer Austausch
 
 Günstiger Wohnraum ist in Schweizer Städten und insbesondere in Zürich knapp bemessen. Gleichzeitig sind momentan über 70'000 Menschen an Zürcher Hochschulen immatrikuliert und gerade Studierende sind dringend auf eine preisgünstige Wohngelegenheit angewiesen. Diesem Umstand Rechnung zu tragen, ist das Ziel der Stiftung für Studentisches Wohnen Zürich (SSWZ), die vor über 30 Jahren von der ETH Zürich, der Universität Zürich, der Stadt Zürich und der WOKO Studentische Wohngenossenschaft gegründet wurde.

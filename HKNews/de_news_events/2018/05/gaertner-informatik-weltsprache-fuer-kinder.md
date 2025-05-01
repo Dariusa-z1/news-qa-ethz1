@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/05/gaertner-informatik-weltsprache-fuer-kinder.html
 
-**Date processed:** 2025-05-01
-
 ## Viel mehr als Computer und Bildschirme
 
 Informatik gehört zur Allgemeinbildung. Nehmen wir dies ernst, so hat das grundlegende Konsequenzen. Zum Beispiel sollten wir die Informatik unseren Kindern so vermitteln wie andere allgemeinbildende Fächer. Mathematik gehört selbstverständlich dazu. Denn wer würde schon wollen, dass sein Kind nicht zwei und zwei zusammenzählen kann? Für mich ist es ebenso wichtig, dass unsere Kinder nicht als Informatik-Analphabeten aufwachsen.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/11/eth-spin-off-pxl-vision.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 “We bring trust to the digital world by enabling secure digital identity verification.” This is how 34-year-old Karim Nemr summarises the business concept behind PXL Vision. He is one of the founders of the ETH spin-off, which aims to create products that could one day be as ubiquitous in our day-to-day lives as coffee machines or smartphones.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/02/wenn-aus-fehlern-faehrten-werden.html
 
-**Date processed:** 2025-05-01
-
 ## Auswählen: Keine Methode sagt alles
 
 Was passiert im Hirn, wenn Menschen lügen? Es ist Freitagnachmittag im «Fünffinger Dock» auf dem Campus Hönggerberg. 18 Studierende der Pharmazeutischen Wissenschaften diskutieren über die Aussagekraft und die Grenzen von wissenschaftlichen Begriffen und Methoden. Drei von ihnen, Sara Dylgieri, Severin Lustenberger und Frederik Peißert, stellen ein Fallbeispiel vor. Darin haben Forschende untersucht, welche Hirnregionen beim Lügen aktiviert werden. Sie stellten fest, dass stirnseitige und seitliche Hirnregionen aktiv sind, wenn jemand lügt, und dass andere Hirnregionen aktiv sind, wenn man sich eine Lüge ausdenkt als wenn man sie äussert.

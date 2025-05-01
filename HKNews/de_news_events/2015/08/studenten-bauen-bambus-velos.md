@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/08/studenten-bauen-bambus-velos.html
 
-**Date processed:** 2025-05-01
-
 ## Erster Preis für Prototyp
 
 Stabiler, leichter, nachhaltiger und schöner: So preist Kevin Klein, Informatikstudent der ETH Zürich, Fahrräder an, die einen Rahmen aus Bambus haben. Stahl oder Aluminium, aus welchem normale Alltagsräder gemacht seien, seien mit viel grauer Energie belastet. «Bambus aber wächst drei Zentimeter pro Stunde, einfach so, ohne dass man einen Finger rühren muss», sagt Klein.

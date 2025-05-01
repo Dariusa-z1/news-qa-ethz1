@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/06/integrated-practicals-usys.html
 
-**Date processed:** 2025-05-01
-
 ## Established teaching tool
 
 Who could want more beautiful or inspiring surroundings: here we are in the historic Greifensee Castle, by the captivating blue waters of the eponymous lake, with shimmering white Alps on the horizon. This is where 90 students on the Bachelor of Environmental Sciences course are seeing out the end of their fourth semester with a bang.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/07/tragend-gedruckt.html
 
-**Date processed:** 2025-05-01
-
 ## 3D-Druckschichten folgen Druckkräften
 
 Millionen von Neubauten auf der ganzen Welt werden mit Stahlbeton gebaut, obwohl diese Bauweise sehr hohe CO 2 -Emissionen verursacht. Besonders gravierend sind der Stahl für die Armierung und der Zement. ETH-Forschende zeigen nun, wie man bei beidem sparen kann.

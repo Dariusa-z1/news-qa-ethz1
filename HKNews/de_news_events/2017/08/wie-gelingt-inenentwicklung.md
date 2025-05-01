@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/08/wie-gelingt-inenentwicklung.html
 
-**Date processed:** 2025-05-01
-
 ## Die Reserven identifizieren
 
 Gemäss revidiertem Raumplanungsgesetz müssen sich Siedlungen verstärkt nach innen entwickeln, das heisst mehr Einwohner und Beschäftige im bereits bestehenden Siedlungsgebiet aufnehmen. Zersiedelung und Landverschleiss hingegen sollen sie eindämmen. Doch wie können die Gemeinden eine gute Innenentwicklung leisten?

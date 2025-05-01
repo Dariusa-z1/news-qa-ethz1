@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/04/stepping-down-after-eight-years-of-dedication-to-research.html
 
-**Date processed:** 2025-05-01
-
 ## Passion for research at ETH
 
 Following two full terms of office, Detlef Günther has decided to step down as Vice President for Research on 31 December 2022 and return to his former research group, which is still active at the Department of Chemistry and Applied Biosciences (D-CHAB). With this move he will once again be dedicated full time to his own research and teaching activities. “Now is the right time to contribute to exciting developments in the field of analytical chemistry again,” says Günther. “I’d like to work together with my doctoral students to implement a few new research ideas.”

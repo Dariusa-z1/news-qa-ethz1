@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/03/computer-erzeugtes-genom.html
 
-**Date processed:** 2025-05-01
-
 ## Herstellungsprozess rationalisiert
 
 Alle weltweit bekannten Genomsequenzen von Organismen sind in einer Datenbank des amerikanischen Zentrums für Biotechnologie-Information gespeichert. Seit heute gibt es dort einen zusätzlichen Eintrag, jenen zu Caulobacter ethensis-2.0 . Es ist das weltweit erste komplett am Computer erzeugte Genom eines Lebewesens, erstellt von Wissenschaftlern der ETH Zürich. Betonen muss man allerdings: Von C. ethensis-2.0 existiert bisher nur das Genom – reell, in Form eines Chromosoms, also eines sehr grossen DNA-Moleküls. Einen dazugehörigen Organismus gibt es noch nicht.

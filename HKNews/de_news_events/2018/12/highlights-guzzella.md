@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/12/highlights-guzzella.html
 
-**Date processed:** 2025-05-01
-
 ## Corine Mauch, Stadtpräsidentin
 
 Mit grossem Engagement hat sich Lino Guzzella für die ETH Zürich und für den Forschungsstandort Schweiz eingesetzt. Während seiner Amtszeit hat er einerseites wichtige Initiativen weiter vorangetrieben, andererseits hat er neue Projekte lanciert, wie beispielsweise den Medizin-Bachelor, das Projekt ETH+ oder die «Critical Thinking» Initiative.

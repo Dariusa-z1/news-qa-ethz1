@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/08/ab-in-die-baeume.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Hilfsassistentin Eva Merz steht am Fuss einer mächtigen Buche, mitten im Wald. Zwei Kletterseile hängen aus der Krone des Baumes hinab. In schwindelerregender Höhe turnen die Baumkletterer Markus Gysin und Anja Erni gut gesichert durchs Geäst, schneiden einen Zweig ab und seilen ihn an einer dünnen Leine sorgfältig ab. Merz greift sich den Zweig, löst ihn von der Leine. «Ich bin wieder weg», ruft sie den beiden zu und eilt mit der Ernte zum «Basislager».

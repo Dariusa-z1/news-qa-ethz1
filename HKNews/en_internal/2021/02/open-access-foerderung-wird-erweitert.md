@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/02/open-access-foerderung-wird-erweitert.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 This new regulation applies to all articles submitted to a publisher for publication in a scientific journal from 01.01.2021 onwards. You can request funding via a protected page web form lock that can be accessed with your ETH login. Please only apply for funding after you have received the invoice by the respective publisher, and send the invoice to the ETH Library via the web form. After reviewing the application, the invoice will be paid directly by the ETH Library.

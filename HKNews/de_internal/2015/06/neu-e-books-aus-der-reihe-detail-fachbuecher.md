@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/06/neu-e-books-aus-der-reihe-detail-fachbuecher.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Recherchieren Sie Bestseller wie den Beton oder den Fassaden Atlas im Wissensportal.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/01/dont-complain-communicate.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 André Blanchard, you spent over 11 years as PeKo President. Did it ever bother you that the Staff Commission’s work is hardly ever noticed within ETH?

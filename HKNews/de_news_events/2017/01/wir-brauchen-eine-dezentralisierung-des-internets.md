@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/01/wir-brauchen-eine-dezentralisierung-des-internets.html
 
-**Date processed:** 2025-05-01
-
 ## Eine Welt ohne Grenzen
 
 Er ist eine Ikone des Internets, und sein Name fasziniert auch junge Menschen, die sich eine Welt ohne World Wide Web gar nicht mehr vorstellen können: Sir Tim Berners-Lee, der «Vater des World Wide Web», wie ihn ETH-Präsident Lino Guzzella bei seiner Begrüssung nannte, gastierte am Mittwochmorgen im Rahmen des Worldwebforum Next Generation an der ETH Zürich. Vor dem vorwiegend jungen Publikum zeichnete er nach, wie sich das Internet aus seinen Anfängen bis heute entwickelt hat und warum ihn diese Entwicklung heute frustriert.

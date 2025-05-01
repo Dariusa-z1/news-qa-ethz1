@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/05/mathematik-uebungen-automatisiert.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Hunderte ETH-Studierende besuchen jedes Jahr Vorlesungen zu den Mathematik-Grundlagen. Und diese – zum Beispiel das Integrieren – muss man oft viel üben, bis man sie beherrscht.

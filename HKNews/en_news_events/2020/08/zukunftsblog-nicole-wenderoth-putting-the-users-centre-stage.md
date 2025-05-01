@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/08/zukunftsblog-nicole-wenderoth-putting-the-users-centre-stage.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 (Photograph: ETH Zurich)

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/10/clay-minerals-call-the-shots-with-carbon.html
 
-**Date processed:** 2025-05-01
-
 ## It all depends on the variety
 
 Rivers discharge a constant supply of sediment into the world’s oceans. This sediment is largely composed of various clay minerals – the products of rock weathering – and organic compounds of plant origin that have decomposed in soils. These two components end up in rivers as a result of erosion.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/04/targeted-therapies-thanks-to-biomedical-informatics.html
 
-**Date processed:** 2025-05-01
-
 ## Built on biomedical informatics
 
 Patients differ. The more precise the diagnosis and the more targeted the therapy, the better the individual needs of patients can be met. This is the goal of The LOOP Zurich . The new translational research center wants to improve our basic understanding of diseases to develop therapies that are tailored to the individual. To this end, it combines basic research in biomedicine and bioinformatics from the University of Zurich (UZH) and ETH Zurich with clinical research from Zurich's university hospitals – the University Hospital Zurich (USZ), the University Children’s Hospital Zurich (KiSpi), the University Hospital Balgrist and the University Hospital of Psychiatry Zurich (PUK).

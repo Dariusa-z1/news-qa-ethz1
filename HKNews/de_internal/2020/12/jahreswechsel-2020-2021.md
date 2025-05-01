@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/12/jahreswechsel-2020-2021.html
 
-**Date processed:** 2025-05-01
-
 ## Reduziertes Dienstleistungsangebot
 
 Ab Montag, 7. Dezember 2020 sind diverse Gebäude nur noch von 7 bis 18 Uhr offen. Entsprechende Informationen sind vor Ort bei den Haupteingängen ausgeschildert.

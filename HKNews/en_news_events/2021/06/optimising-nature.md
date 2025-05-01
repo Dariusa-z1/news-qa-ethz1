@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/06/optimising-nature.html
 
-**Date processed:** 2025-05-01
-
 ## Boosting better crops
 
 When it comes to food, many people yearn for nature in its most pristine state. The thinking is that natural products are somehow better and healthier. Organic food is marketed through an idealised vision of agriculture in which quasi-natural methods are used to produce natural food, and tools such as genetic engineering are frowned upon as a form of artificial meddling. Yet this romanticised view of nature is deceptive. Very little of what we eat today is produced in ways that could be considered entirely natural. “For the past 12,000 years, we’ve been modifying plants by selecting for traits that make them more edible and higher yielding,” says Bruno Studer, Professor of Molecular Plant Breeding at ETH Zurich.

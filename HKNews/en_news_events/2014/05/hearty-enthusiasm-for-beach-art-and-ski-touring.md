@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/05/hearty-enthusiasm-for-beach-art-and-ski-touring.html
 
-**Date processed:** 2025-05-01
-
 ## BeachBot – the robot that can draw hearts
 
 For students on the Mechanical and Process Engineering programme, the third year of studies is a special one: they have the chance to put their knowledge into practice as part of a “focus project” and develop a product based on their own ideas or in cooperation with industry. In teams of five to eight, the students spend two semesters working independently to realise their product. Two of the innovations produced this year are the beach robot BeachBot and the TourBo (Touring Boot) ski boot.

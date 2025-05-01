@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/09/nachwuchswissenschaftlerinnen-und--wissenschaftler-praesentieren-ihre-ideen-an-der-eth-zuerich-.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Drei Minuten Zeit, drei Power-Point-Slides, ein Ziel: Die Jury von seinem Forschungsprojekt überzeugen. Mitte letzter Woche stellten sich junge Forschende unterschiedlichster Nationalität dieser Herausforderung beim Falling Walls Lab in Zürich. Eine interdisziplinäre Jury bewertete die Vorträge, gleichzeitig wählte auch das Publikum seine Favoritin: Anna Lisa Martin-Niedecken von der ZHdK.

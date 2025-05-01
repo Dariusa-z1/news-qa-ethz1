@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/03/nicola-spaldin-receives-award.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 2017 marks the 19th L’Oréal-Unesco For Women in Science awards in Paris. The awards aim to recognise and support outstanding female researchers from all around the world. Nicola Spaldin, ETH Professor in the Department of Materials, will receive this prestigious award for the Europe region. The British scientist's research lays the theoretical foundations for the understanding and development of so-called multiferroic materials, which have the unique property of being simultaneously magnetic and electric. As Spaldin previously remarked in ETH News , she is particularly fascinated by her research field's interdisciplinarity – the combination of physics, chemistry and material properties.

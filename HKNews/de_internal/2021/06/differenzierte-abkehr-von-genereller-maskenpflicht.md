@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/06/differenzierte-abkehr-von-genereller-maskenpflicht.html
 
-**Date processed:** 2025-05-01
-
 ## Maskenfrei in Aussenräumen
 
 Im Gleichschritt mit den Lockerungen des Bundesrates hat die Schulleitung auf Antrag des Krisenstabs entschieden, auch an der ETH Zürich weitere Lockerungen vorzunehmen und hat die Eckwerte für den neuen Masterplan verabschiedet. Dieser wird in den nächsten Tagen finalisiert und am nächsten Dienstag aufgeschaltet. Die Lockerungen treten bereits ab Samstag 26. Juni 2021 in Kraft und sind bis mindestens Mitte August gültig. Vorgesehen sind unter anderem eine differenzierte Abkehr von der generellen Maskentragepflicht und eine Erlaubnis für Apéros im Aussenraum.

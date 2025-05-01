@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/11/immer-wieder-auf-zu-neuen-ufern.html
 
-**Date processed:** 2025-05-01
-
 ## Vom Bürosessel in den Pferdesattel
 
 Dass sie mit 50 Jahren einmal die Assistentin des Leiters Human Resources werden würde, hätte sich Nicole Kubli als junge Frau nie gedacht. Vor 30 Jahren war sie frisch gebackene medizinische Praxisangestellte. Anders als ihre Berufskolleginnen, die in einer Arztpraxis unterkamen, begann ihr Arbeitsleben am Institut für Verhaltenswissenschaften der ETH. «Für mich war das eine ganz neue Welt.» Vor allem wegen der spürbaren Leidenschaft der Forscher, wie sie sagt. «Ich hatte davor nur wenige Leute kennen gelernt, die so für ihre Berufung lebten.»

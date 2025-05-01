@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/01/Arbeiten%20im%20Jahr%202050.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 «Niemand weiss, wie die Welt 2050 tatsächlich aussehen wird. Sicher ist nur, dass der Fortschritt in Wissenschaft und Technik, vor allem bei robotischen Systemen, viele Chancen und zugleich auch unvermeidliche Herausforderungen mit sich bringt» sagte ETH-Präsident Lino Guzzella bei der Begrüssung im vollbesetzten Audi Max am vergangenen Samstag. Trotzdem wagte die ETH Zürich mit dem «Global Talent Summit» einen Blick in die Zukunft. Denn, so Guzzella weiter, es sei die Aufgabe einer Hochschule, ihre Forschung und Lehre kontinuierlich anzupassen, um nachfolgende Generationen für die Zukunft vorzubereiten .

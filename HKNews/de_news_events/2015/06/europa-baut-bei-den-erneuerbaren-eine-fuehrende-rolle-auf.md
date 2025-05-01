@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/06/europa-baut-bei-den-erneuerbaren-eine-fuehrende-rolle-auf.html
 
-**Date processed:** 2025-05-01
-
 ## Versuch und Irrtum
 
 Warum kooperiert ein risikofreudiger Silicon-Valley-Unternehmer wie Elon Musk, Chef des Elektromobil- und Batterieherstellers Tesla, mit der kaum bekannten deutschen Ökostromfirma Lichtblick? [1] Kurz gesagt: Es sind gute Geschäftsaussichten in den «neuen» Energiemärkten des alten Kontinents. Auch der amerikanische Prestige-Verband für Elektrotechnik IEEE (Institute of Electrical and Electronics Engineers) blickt durchaus bewundernd nach Europa: «Lessons Learned along Europe's Road to Renewables» heisst ein unlängst auf IEEE Spectrum erschienener Bericht [2]. Dieser beleuchtet den raschen Wechsel auf Erneuerbare in einigen europäischen Ländern. Die Spitzenreiter sind Portugal, Dänemark und Spanien mit 63, 60 und 40 Prozent Anteil erneuerbarer Energie an der produzierten Strommenge 2014, gefolgt von Deutschland mit einem Anteil von knapp 30 Prozent. Die beiden Beispiele sind für mich zwei von vielen Hinweisen, dass Europa bei den Stromnetzen für erneuerbare Energie eine führende Stellung entwickelt.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/08/farbwechsel-zeigt-schaeden-im-material-an.html
 
-**Date processed:** 2025-05-01
-
 ## Künstliches Perlmutt mit Polymer kombiniert
 
 In vielen Bereichen hat die Leichtbauweise Einzug gehalten, insbesondere im Fahrzeug-, Schiff- und Flugzeugbau. Nebst klassischen Leichtmetallen wie Aluminium, Magnesium oder Titan werden zunehmend auch Verbundmaterialien, sogenannte Komposite, in tragenden Anwendungen verbaut. Das hat zur Folge, dass gleichzeitig neue Techniken und Methoden entwickelt werden müssen, um Schäden oder gar ein mögliches Versagen solcher noch wenig erprobter Materialien frühzeitig zu erkennen.

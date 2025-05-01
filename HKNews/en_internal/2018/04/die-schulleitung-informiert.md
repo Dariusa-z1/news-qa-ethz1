@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/04/die-schulleitung-informiert.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The report on the past year from Reto Knutti, the Associate Vice President for Sustainability , was positive. The highlight was ETH Week last September. The event was planned around the theme of “Manufacturing the future” and attracted about 200 participating students and some 100 experts from industry, research, government and NGOs. The topic of ETH Week 2018 will be “Energy matters” to focus on issues surrounding the energy supply. Another important topic in the area of sustainability and mobility is the reduction of CO 2 emissions from air travel by members of the ETH community. So it made sense to organise the first entirely virtual academic conference together with other universities. There are even a few solutions that can be used in small-talk situations, such as over an apéritif.

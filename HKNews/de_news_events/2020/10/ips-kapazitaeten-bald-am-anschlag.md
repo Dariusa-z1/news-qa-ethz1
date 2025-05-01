@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/10/ips-kapazitaeten-bald-am-anschlag.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Thomas Van Boeckel, Sie haben eine Webseite mit Prognosen über die Belegung von Betten auf Intensivstationen in Schweizer Spitälern lanciert. Es stösst zurzeit auf grosses Interesse. Was zeigt die Webseite? Unsere externe Seite Plattform zeigt auf einen Blick die Auslastung von Betten auf Intensivstationen, aufgeschlüsselt auf Regionen, Kantone und einzelne Spitäler. Auf letztere Grafik erhalten allerdings nur Spitäler selbst und die Armee Zugriff. Darüber hinaus bieten wir Prognosen, wie sich die Situation in drei und in sieben Tagen entwickeln könnte.

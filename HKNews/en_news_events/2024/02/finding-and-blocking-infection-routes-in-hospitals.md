@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/02/finding-and-blocking-infection-routes-in-hospitals.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • In partnership with an ETH-spinoff, researchers develope an ultra-wideband wearable to track proximity contacts in infection networks in hospitals more accurately.

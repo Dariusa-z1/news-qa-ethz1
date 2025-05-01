@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/06/dank-bim-immobilien-auf-lebenszeit-planen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Um die CO2 Emissionen aus Heizung und Kühlung auf dem Areal Hönggerberg signifikant zu reduzieren, entsteht gerade die HI-Verteilerzentrale . Sie ist ein Bestandteil des Anergienetzes auf dem Hönggerberg und eine von insgesamt fünf Verteilerzentralen. Künftig wird sie die HI-Gebäudegruppe mit Wärme und Kälte versorgen und dafür sorgen, dass die Abwärme einzelner Gebäude direkt in andere Gebäude umverteilt wird.

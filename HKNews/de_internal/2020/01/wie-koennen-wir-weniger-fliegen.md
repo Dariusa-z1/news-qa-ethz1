@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/01/wie-koennen-wir-weniger-fliegen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Über 200 Studierende, Forschende und Mitarbeitende der ETH Zürich sowie anderer Schweizer Hochschulen und Organisationen nutzten am Montag die Gelegenheit, um sich an einem «Forum zum ETH Flugreisen-​Projekt» über den neusten Stand des Projekts zu informieren und in Workshops und Gesprächsrunden konkrete Möglichkeiten zu diskutieren, wie man selber zur CO 2 -Reduktion beitragen kann.

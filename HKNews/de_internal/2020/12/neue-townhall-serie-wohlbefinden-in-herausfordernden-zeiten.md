@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/12/neue-townhall-serie-wohlbefinden-in-herausfordernden-zeiten.html
 
-**Date processed:** 2025-05-01
-
 ## Soziales Beisammensein in Pandemiezeiten
 
 Die letzten Monate haben gezeigt: Fernab der Normalität, aber mit Bravour meisterten die ETH-Angehörigen die Herausforderungen, die sich durch die Pandemie gestellt haben. Besonders jetzt, wo sich der Arbeitsalltag enorm verändert hat – vom Homeoffice, der Maskenpflicht auf dem Campus hin zu Social Distancing – kommt dem persönlichen Wohlbefinden eine tragende Rolle zu.

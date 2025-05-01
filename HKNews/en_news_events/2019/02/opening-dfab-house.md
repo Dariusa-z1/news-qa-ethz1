@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/02/opening-dfab-house.html
 
-**Date processed:** 2025-05-01
-
 ## From laboratory to architectural application
 
 A delicate concrete ceiling – cast in 3D-printed formwork – and a curved concrete wall created by a construction robot characterize the architecture of the living room, whose aesthetics are remotely reminiscent of the film sets of the Swiss artist HR Giger (the creator of "Alien"). Upon saying a specific command, the blinds open as if by magic and the kettle prepares water for tea. What sounds like a science fiction film is reality in Dübendorf: today, the smart and largely digitally planned and built DFAB HOUSE opens its doors.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/07/biodiversitaet.html
 
-**Date processed:** 2025-05-01
-
 ## Vielfältiger Campus Hönggerberg
 
 Am Wegrand entlang der HCI-Südfassade leuchten Wildblumen in kräftigen Frühlingsfarben: violett der Wiesensalbei, rosa die Esparsette, gelb der Wundklee, rot der Mohn. Eine Hummel taucht in eine Salbeiblüte ein, um den Nektar herauszuholen. Der Campus Hönggerberg ist nicht nur ein Hort der Wissenschaft, sondern auch Heimat vieler Tiere und Pflanzen und somit der Biodiversität im Siedlungsraum.

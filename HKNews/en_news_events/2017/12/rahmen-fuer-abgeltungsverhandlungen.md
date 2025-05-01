@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/12/rahmen-fuer-abgeltungsverhandlungen.html
 
-**Date processed:** 2025-05-01
-
 ## Repositories are unpopular – you have to negotiate
 
 Where should radioactive waste be safely disposed of? This problem is not finally solved anywhere in the world. We also produce waste that emits radiation for a very long time. According to the Swiss Nuclear Energy Act, this waste must be disposed of in Switzerland. The long-term protection of people and the environment must be safeguarded.

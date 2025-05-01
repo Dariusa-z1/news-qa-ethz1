@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/12/dokumentenlieferdienst-der-eth-bibliothek-ist-zulaessig.html
 
-**Date processed:** 2025-05-01
-
 ## Commercial Court accepted publisher arguments
 
 The core responsibilities of every academic library typically include procuring and preparing a wide array of information, as well as making it accessible to users in an appropriate form. This includes the delivery of copies and scans of scientific publications.

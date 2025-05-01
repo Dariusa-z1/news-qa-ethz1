@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/08/eth-zurich-welcomes-industry-leaders.html
 
-**Date processed:** 2025-05-01
-
 ## Digitalisation and security
 
 The ETH Industry Day – the largest annual networking event for industry and ETH researchers –is the perfect opportunity to get insight into ETH research and how it is applied in industry. Selected professors and young entrepreneurs will present projects in the fields of

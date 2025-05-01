@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/09/mm-botnar-centre-for-child-health.html
 
-**Date processed:** 2025-05-01
-
 ## Transdisziplinärer Forschungsansatz
 
 Das BRCCH wird von der Universität Basel und der ETH Zürich getragen. Zum Netzwerk des Forschungszentrums gehören zudem Partnerinstitute wie das Universitäts Kinderspital beider Basel und das Schweizerische Tropen- und Public Health-Institut in Basel. Das Forschungszentrum bündelt die Kompetenzen der beiden Hochschulen in Systembiologie und Medizin sowie in gesundheitsrelevanten Feldern von Life Sciences, Ingenieurwissenschaften, Sozialwissenschaften und Informationstechnologie. Mit seinen Arbeiten soll das Forschungszentrum dazu beitragen, Krankheiten vorzubeugen, neue Behandlungsansätze zu entwickeln, Diagnosen und Wirkungsprognosen zu verbessern und finanziell tragbare Lösungen zu fördern. Ziel des BRCCH sind konkrete Resultate: «Wir wollen Wirkung für Kinder und Jugendliche erzielen», sagt Andrea Schenker-Wicki, Rektorin der Universität Basel.

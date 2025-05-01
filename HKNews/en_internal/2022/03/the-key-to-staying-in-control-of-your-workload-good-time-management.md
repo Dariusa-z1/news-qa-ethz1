@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/03/the-key-to-staying-in-control-of-your-workload-good-time-management.html
 
-**Date processed:** 2025-05-01
-
 ## Three principles
 
 Essentially, time management is founded on three practical principles:

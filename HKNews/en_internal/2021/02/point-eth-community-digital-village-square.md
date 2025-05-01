@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/02/point-eth-community-digital-village-square.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Isabelle Castagna from the ETH Sustainability team is co-initiator and project manager of “Point” (Image: ETH Zurich)

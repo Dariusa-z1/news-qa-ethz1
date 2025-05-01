@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/04/the-multitasker.html
 
-**Date processed:** 2025-05-01
-
 ## Nepal trip leads to research project
 
 Studying towards a doctorate at ETH Zurich would be enough for most people, especially if they were also father to a 10-month-old daughter. But not Moritz Mussgnug. Alongside his academic work on mobile eye-tracking in ETH Professor Mirko Meboldt's group, the 31-year-old is also co-founder of startup Memox and project coordinator at MITO. Through the development of a new machine, this joint project with Swiss development organisation Helvetas aims to support Nepali farmers by making the production of Nepal's much-loved walnut oil quicker and easier.

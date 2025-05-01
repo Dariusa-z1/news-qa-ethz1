@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/12/compost-for-kenya.html
 
-**Date processed:** 2025-05-01
-
 ## A chaotic start
 
 Manuel Mathis still remembers the human geog­raphy class that made such a lasting impression on him at secondary school. His teacher explained that millions of people go to bed hungry each night, in part due to the erosion and diminishing fertility of the soil they use to grow their crops. There and then, Mathis resolved to pursue a course of study that would help to alleviate hunger and poverty. In 2015, he enrolled at ETH and embarked on a degree programme in agricultural sciences. He was bombarded with huge amounts of theory about soil-plant systems, yet he yearned to spend more time digging in the soil to get hands-on experience. This led him to take a job, alongside his studies, at a composting plant in Fehraltdorf in October 2020. “The practical experience I gained there has served me well,” says the 25-year-old student on a Zoom call in late September. He is sitting in the living room of his apartment in the centre of Nairobi, looking rather under the weather. It turns out he is fighting off another in a series of nasty stomach bugs. “It’s a natural consequence of working here,” he explains. “I get pretty close to all sorts of unfamiliar viruses and bacteria!”

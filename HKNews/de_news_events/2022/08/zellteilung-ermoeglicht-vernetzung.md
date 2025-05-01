@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/08/zellteilung-ermoeglicht-vernetzung.html
 
-**Date processed:** 2025-05-01
-
 ## Es gibt keinen fixen Bauplan
 
 In den letzten Jahren wurden grosse Summen an Forschungsgeldern aufgewendet, um die Struktur von ausgereiften Gehirnen zu vermessen. Die Wissenschaft hofft, dass man aus der genauen Kartierung der Neuronen und ihrer Vernetzung – also dem sogenannten Konnektom – ein besseres Verständnis der Funktionsweise des Gehirns bekommt.

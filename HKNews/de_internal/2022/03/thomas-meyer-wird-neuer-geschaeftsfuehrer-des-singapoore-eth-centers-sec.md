@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/03/thomas-meyer-wird-neuer-geschaeftsfuehrer-des-singapoore-eth-centers-sec.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Bevor er zum SEC kam, war Thomas Meyer in Europa und Asien in verschiedenen Funktionen tätig, unter anderem in der Forschung, bei Start-ups, in der IT-Beratung und der Schweizerischen Botschaft in Tokyo. In seiner Karriere arbeitete er als Software Engineer, Projektmanager, als Business- und Prozessberater bis hin zum Geschäftsführer.

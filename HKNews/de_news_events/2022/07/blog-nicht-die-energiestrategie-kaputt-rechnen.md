@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/07/blog-nicht-die-energiestrategie-kaputt-rechnen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die NZZ berichtete Anfang des Monats, dass eine massive Abhängigkeit von Stromimporten im Winter drohe, sollte der Bund die Energiestrategie samt Atomausstieg durchziehen. Als Referenz für diese Ausagen diente ein nicht begutachtetes Arbeitspapier des ETH-Risikoforschers Didier Sornette. Darin wird für Januar 2050 eine extrem hohe Stromimportquote von 69% prognostiziert. Es ist nicht neu, dass die Schweiz im Winter Strom importiert. Die Forschung hat sich ausgiebig mit der Erzeugungslücke im Winter befasst und kommt zu anderen Ergebnissen. Ziel unserer Replik ist zu erklären, warum die Annahmen in diesem Papier¹ nicht richtig sind und so der Schweizer Importbedarf in der Zukunft viel grösser veranschlagt wird, als es die Modellierungen unseres Kompetenzzentrums ergeben. Unsere drei Hauptpunkte sind die folgenden.

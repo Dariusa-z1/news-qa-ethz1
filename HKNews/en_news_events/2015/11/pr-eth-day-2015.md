@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/11/pr-eth-day-2015.html
 
-**Date processed:** 2025-05-01
-
 ## Adapting learning goals to rapid developments
 
 "We need to be doing things right, but most of all we need to be doing the right things. Only then can we ensure the success of our university in a rapidly changing society," said ETH Rector Sarah Springman in her speech on this year's ETH Day. The Rector took stock of her first year in office and highlighted how she wants to educate the students so they can later have an impact as highly qualified professionals in the economy and society.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/02/new-head-of-student-exchange-office.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The Student Exchange Office is responsible for exchange agreements with partner universities concerning student mobility. It takes care of all the needs of ETH students who wish to take part in one of the international exchange programmes. At the same time, the employees look after the incoming mobility students, visiting students and the Swiss government scholarship holders who come to ETH Zurich.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/08/wie-ein-bakterium-von-methanol-leben-kann.html
 
-**Date processed:** 2025-05-01
-
 ## Bakterien nutzen Pflanzen-Abfallprodukt
 
 Viele Chemiker erforschen derzeit, wie man aus den kleinen Kohlenstoffverbindungen Methan und Methanol grössere Moleküle herstellt. Denn Methan kommt auf der Erde reichlich vor und kann auch durch die Vergärung von Biomasse in Biogasanlagen hergestellt werden. Aus Methan lässt sich Methanol produzieren. Beide Moleküle sind einfach gestrickt, und sie besitzen je nur ein Kohlenstoffatom. Daraus grössere Moleküle mit mehreren Kohlenstoffatomen zu synthetisieren, ist allerdings komplex.

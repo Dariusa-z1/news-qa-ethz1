@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/08/peko-ideen-gesucht-fuer-die-arbeitswelt-von-morgen.html
 
-**Date processed:** 2025-05-01
-
 ## So nehmen Sie teil
 
 Ihre Ideen können Sie zu folgenden Themen einreichen:

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/06/rETHink-is-going-to-increasingly-make-itself-felt-in-everyday-life-at-ETH.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Mr Mesot, after taking office as President of ETH, you launched the rETHink project with the aim of ensuring that the university and its members can retain their autonomy and freedom. This touches on topics like ownership, leadership and feelings of affiliation with ETH. Things seem to have slowed down, however, following initial broad-based discussions about the university’s values and the presentation of areas for action. Is the project stumbling a bit? Joël Mesot: It’s true that there hasn’t been much news published about rETHink recently. Paradoxically, this is because the project is taking shape, and the participants are now developing concrete solutions. Before we introduce these new ideas to all of ETH, we’d like to sound them out with stakeholder groups and in various participatory bodies.

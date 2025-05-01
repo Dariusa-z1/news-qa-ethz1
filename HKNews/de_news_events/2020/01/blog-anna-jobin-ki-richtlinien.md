@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/01/blog-anna-jobin-ki-richtlinien.html
 
-**Date processed:** 2025-05-01
-
 ## Kein einziges gemeinsames ethisches Prinzip
 
 Künstliche Intelligenz – kurz KI genannt – ist zwar noch nicht lange in aller Munde, aber als einzelnes Schlagwort schon wieder veraltet. Neuerdings dreht sich alles um «ethische KI» - die unterschiedlichsten Organisationen haben inzwischen Ethik-Leitlinien und Stellungnahmen herausgegeben. Den Überblick über all diese Publikationen zu behalten ist inzwischen schwierig geworden und es stellt sich die Frage: Was sagen diese Dokumente überhaupt aus? Wird da nun jedes Mal das Rad neu erfunden? Welches Verständnis von Ethik steht hinter solchen Empfehlungen zu ethischer KI? Und wer legt dieses fest? Da im Monatstakt neue Richtlinien erscheinen, scheint mir eine Bestandsaufnahme unabkömmlich.

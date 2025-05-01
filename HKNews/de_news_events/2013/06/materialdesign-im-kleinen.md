@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/06/materialdesign-im-kleinen.html
 
-**Date processed:** 2025-05-01
-
 ## Germanium wird lasertauglich
 
 Ralph Spolenak räumt gleich zu Beginn mit einem Missverständnis auf: Kleiner ist nicht immer besser in der Nanowelt der Materialien. Ab einer gewissen Winzigkeit können negative Effekte überwiegen. Der Leiter des Laboratoriums für Nanometallurgie der ETH Zürich sucht mit seinem Team daher die optimale Längenskala für Materialien, bei der sich deren Eigenschaften verbessern, bevor sie sich wieder verschlechtern. Da diese Längenskala zwar häufig, aber eben nicht immer im Nanobereich, also unter 100 Nanometern liegt, bevorzugt der Professor den Begriff «klein» statt «nano». Sein Ziel: «Im Kleinen einen Vorteil erzielen.»

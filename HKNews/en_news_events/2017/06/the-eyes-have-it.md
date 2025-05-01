@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/06/the-eyes-have-it.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In Switzerland, the most frequent cause of serious visual impairment among older people is macular degeneration, affecting one fifth of those over 80. The condition rarely leads to complete blindness, but it severely worsens a person’s vision. Those who suffer from it are often left with blurred vision and can no longer read or drive. In serious cases, they can only distinguish between light and dark.

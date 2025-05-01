@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/09/wir-duerfen-nicht-stehen-bleiben.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Julia Dannath-Schuh wird zur Vizepräsidentin für Personalentwicklung und Leadership, Vanessa Wood zur Vizepräsidentin für Wissenstransfer und Wirtschaftsbeziehungen ernannt (lesen Sie die Medienmitteilung ). Der ETH-Präsident Joël Mesot nimmt Stellung zu dieser Veränderung.

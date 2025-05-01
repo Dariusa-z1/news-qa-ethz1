@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/11/how-cells-create-free-space.html
 
-**Date processed:** 2025-05-01
-
 ## Membrane proteins inflate the cells
 
 The human body is constantly regenerating itself. Trillions of cells die in our bodies each day. During this same period of time, many new ones are formed as other cells divide. In order to divide, cells undergo a process known as cell rounding, which allows the chromosomes to be copied and then to be incorporated into two daughter cells. The following spectacle occurs in our bodies trillions of times each day: a cell changes the shape typical for its function by rounding into a sphere and before dividing. The daughter cells once again assume the characteristic cell shape.

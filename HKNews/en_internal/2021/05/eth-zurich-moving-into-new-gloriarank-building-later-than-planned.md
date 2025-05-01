@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/05/eth-zurich-moving-into-new-gloriarank-building-later-than-planned.html
 
-**Date processed:** 2025-05-01
-
 ## Operational start
 
 The new GLC building is particularly significant for ETH Zurich and for Zurich as a location. Working with partners, ETH is seeking to set a new milestone in medical technology research and application with the new infrastructure. “The professorships, their labs and a technology platform for clinical trials will further expand existing ETH activities in medical research and its leading role in innovative medical technology,” says Detlef Günther, Vice President for Research.

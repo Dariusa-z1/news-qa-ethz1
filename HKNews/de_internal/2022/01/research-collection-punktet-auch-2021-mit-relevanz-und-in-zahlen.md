@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/01/research-collection-punktet-auch-2021-mit-relevanz-und-in-zahlen.html
 
-**Date processed:** 2025-05-01
-
 ## Rekordjagd
 
 Im vergangenen Jahr konnten wir an dieser Stelle eine neue Höchstmarke bei den Artikel-s für 2020 vermelden. Und in diesem Jahr können wir das erneut: Die Gesamtzahl der s ist 2021 gegenüber 2020 noch einmal um satte 36 %, das sind fast 290 000 s, gestiegen. Ein Grund dafür ist sicher, dass der Anteil der Einträge, die Open Access in der Research Collection vorhanden sind, jährlich steigt. Für das Jahr 2021 konnten wir erstmals für einen Jahrgang einen höheren Anteil an Open-Access-Einträgen als an Metadateneinträgen feststellen. Für das Jahr 2020 fehlen nur noch 3 % bis zur 50%-Marke – wir freuen uns, wenn Sie uns helfen diese Marke zu erreichen, indem Sie Ihre Volltexte hochladen.

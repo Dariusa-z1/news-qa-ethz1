@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/10/computing-for-climate-part-2-how-climate-models-work.html
 
-**Date processed:** 2025-05-01
-
 ## 3D-computational grids
 
 Computer simulations lie at the heart of everyday weather forecast, and they are of great importance when it comes to addressing the challenges of climate change. To understand and predict the behaviour of the climate system, scientists build und use complex computational models. These include the relevant chemical and physical properties of the earth’s surface (land and oceans) and of the atmosphere, in a simplified way. But how do climate models work, and what are the implied challenges for Computer Science?

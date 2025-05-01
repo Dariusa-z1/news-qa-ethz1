@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/03/learning-in-lockdown.html
 
-**Date processed:** 2025-05-01
-
 ## A challenge for the institution
 
 ETH has entered lockdown mode. The once bustling buildings are now filled with the sounds of silence. Teaching has continued, however – just in a different way. All lecturers at ETH have now switched over to conducting online courses. In pre-corona times, online learning was tried out occasionally or used for specific purposes, but suddenly it has become the only way of doing things. This seismic switch has been a great feat not only for lecturers and students, but also for the staff providing technical and didactic support. One such unit working behind the scenes is the Educational Development and Technology Department (LET).

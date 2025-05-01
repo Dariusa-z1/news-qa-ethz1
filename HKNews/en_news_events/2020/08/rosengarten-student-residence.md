@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/08/rosengarten-student-residence.html
 
-**Date processed:** 2025-05-01
-
 ## Space for peaceful studying and social interaction
 
 Affordable housing in Swiss cities – particularly in Zurich – is scarce. But currently more than 70,000 students are enrolled at Zurich’s universities, and they are in dire need of affordable housing. SSWZ, which was founded more than 30 years ago by ETH Zurich, Zurich University, the City of Zurich and Zurich’s student housing cooperative (WOKO) have made it a mission to address this situation.

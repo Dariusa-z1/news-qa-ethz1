@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/04/always-wear-safety-glasses.html
 
-**Date processed:** 2025-05-01
-
 ## Moderately severe facial and hand injuries
 
 To prevent injury, wearing personal protection equipment (PPE) is compulsory in many ETH laboratories. Depending on the type of work, the PPE may include items such as lab coats, safety shoes, safety glasses or gloves. Thanks to the high level of safety awareness at ETH Zurich, there are very few accident s, despite the daily work with hazardous substances. One exception was an explosion that occurred in autumn 2012 in a chemistry laboratory on the Hönggerberg campus.

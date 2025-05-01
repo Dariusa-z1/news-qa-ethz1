@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/09/vom-umgang-mit-geschaeftlichen-privaten-e-mails.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Bei der Art und Weise, wie E-Mails an der ETH Zürich archiviert werden, gibt es in diesem Jahr wichtige Änderungen: So werden z.B. neu E-​Mails, die sich seit über zehn Jahren im Mailarchiv ( https://mailarchive.ethz.ch ) befinden, automatisch gelöscht – es sei denn, man meldet sich von diesem Löschprozess ausdrücklich ab ( mehr dazu in diesem Artikel ).

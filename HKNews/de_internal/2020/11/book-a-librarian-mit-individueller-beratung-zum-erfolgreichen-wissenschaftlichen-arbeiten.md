@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/11/book-a-librarian-mit-individueller-beratung-zum-erfolgreichen-wissenschaftlichen-arbeiten.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Themen umfassen beispielsweise:

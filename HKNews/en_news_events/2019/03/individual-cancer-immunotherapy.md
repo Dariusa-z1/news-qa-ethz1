@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/03/individual-cancer-immunotherapy.html
 
-**Date processed:** 2025-05-01
-
 ## Rapport between immune cells and tumour cells
 
 Cells belonging to the body’s own immune system can help fight tumours. For several years now, this has allowed oncologists to use medications known as checkpoint inhibitors to encourage T cells to eliminate tumour cells. Last year the two scientists who discovered this therapeutic approach were awarded the Nobel Prize for Medicine.

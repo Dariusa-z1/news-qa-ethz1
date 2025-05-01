@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/07/charm-of-the-recent-past.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Looking back from a historical point of view, 1979 turned out to be a watershed year. Margaret Thatcher became Prime Minister, while the Iranian Revolution occurred and led to far-reaching consequences. Soviet troops invaded Afghanistan, and NATO embarked on disarmament talks at the same time as it positioned mid-range missiles in Europe. While Michel Foucault was preoccupied with neoliberalism, the "market" became a magic word, reverberating far beyond Ronald Reagan's economic policies. During the same year – 1979 – consumer electronics (the Walkman) and computers (PC) became household objects.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/05/fussball-em-jetzt-beim-eth-tippspiel-mitmachen.html
 
-**Date processed:** 2025-05-01
-
 ## Mitmachen beim ETH-Tippspiel
 
 Eigentlich hätte die externe Seite Fussball-EM bereits im letzten Jahr stattfinden sollen. Aufgrund der Corona-Pandemie wurde sie jedoch auf diesen Sommer verschoben. Nun geht’s am 11. Juni endlich los – und das gleich in elf verschiedenen Städten.

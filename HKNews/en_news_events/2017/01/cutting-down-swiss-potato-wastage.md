@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/01/cutting-down-swiss-potato-wastage.html
 
-**Date processed:** 2025-05-01
-
 ## Where and why do potatoes get lost?
 
 Food production puts a significant strain on the environment. Firstly, it demands many resources, such as water, soil, agrochemicals and energy. Secondly, processes like dunging or spraying release many harmful emissions. What’s more, it costs a lot of money to prepare food for consumption, and to store, transport and pack them.

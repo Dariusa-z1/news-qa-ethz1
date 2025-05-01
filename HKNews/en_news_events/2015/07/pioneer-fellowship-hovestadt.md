@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/07/pioneer-fellowship-hovestadt.html
 
-**Date processed:** 2025-05-01
-
 ## Massive reduction in error rates
 
 Western blotting is a molecular biological technique used to detect proteins and is a common procedure in the field of biochemistry. This test is carried out more than 6,000 times every day in Europe alone. Its applications include everything from the development of new medication to diagnosing infections and inspecting foodstuffs. That said, the method currently used is still very time-consuming and prone to errors. Each individual experiment takes approximately six hours, and one in four is unsuccessful and has to be repeated. This is what Tina Hovestadt wants to change. The 25-year-old woman, who submitted her Master’s thesis in Mechanical Engineering this June, is currently developing a device that may revolutionise protein analysis.

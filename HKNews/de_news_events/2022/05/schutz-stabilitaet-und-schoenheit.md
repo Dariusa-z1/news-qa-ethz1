@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/05/schutz-stabilitaet-und-schoenheit.html
 
-**Date processed:** 2025-05-01
-
 ## Von Basel nach Brasilien
 
 Was hat ein Hut mit Architektur zu tun? Wer bei ETH-Professorin Annette Spiro den Grundkurs für Architektur und Konstruktion im ersten Studienjahr belegt hat, weiss: Alles. Die Studierenden müssen vom eigenen Kopf ausgehend Mass nehmen, das zugeloste Material zu einer ansprechenden Form verbinden und anschliessend aus dem Hut eine Hütte bauen. «Die Transformation vom Hut zur Hütte befreit die angehenden Architekt:innen nicht nur von unreflektierten architektonischen Vorbildern und Annahmen, sondern führt sie auch an drei elementare Themen der Architektur heran: Schutz, Stabilität und Schönheit», so Spiro.

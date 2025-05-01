@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/08/interview-guenther-dissertori.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Das Cern hat soeben neue Resultate zum Higgs-Boson präsentiert. Fast gleichzeitig hat die Schweizerische Nationalbank (SNB) die neue 200er-Note in Umlauf gebracht, an der Sie massgeblich mitgearbeitet haben. Was ist für Sie wichtiger? Günther Dissertori: Die Mitwirkung an der Gestaltung einer Banknote ist für mich sicher ein sehr ungewöhnliches, einmaliges Projekt. Es ist eine grosse Ehre, dass ich mit der SNB zusammenarbeiten durfte. Und es entwickelte sich eine tolle Zusammenarbeit mit dem Grafikteam, das sich sehr für die auf der Note dargestellte Wissenschaft interessierte.

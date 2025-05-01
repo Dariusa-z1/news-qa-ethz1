@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/12/festlicher-jahresausklang.html
 
-**Date processed:** 2025-05-01
-
 ## Ausgezeichnete Führung
 
 Der ALEA Award , der dieses Jahr im Vorfeld des Weihnachtsapéros der Schulleitung vergeben wurde, zeichnet Führungspersonen aus, die moderne und innovative Arbeitsbedingungen ermöglichen und die Vereinbarkeit von Beruf, Familie und nebenberuflichem Engagement fördern. Die Jury zur Vergabe dieses Preises setzt sich aus einer Ombudsperson, je einer Vertreterin der Personalabteilung, der Personalkommission, der AVETH sowie der Stelle für Chancengleichheit – Equal! zusammen und wird zusätzlich durch einen unabhängigen externen Experten der Fachstelle UND ergänzt.

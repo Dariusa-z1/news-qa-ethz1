@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/11/ein-idealist-der-drohnen-baut.html
 
-**Date processed:** 2025-05-01
-
 ## Etwas bewirken
 
 Basil Weibel will hoch hinaus – und steht dennoch mit beiden Beinen fest am Boden. Im Gespräch hört er zu, überlegt, bevor er spricht, äussert sich dann mit Bedacht. «Ja, es ist ein sehr schönes Gefühl, in einer Gesellschaft zu leben, wo junge Leute eine echte Chance erhalten, etwas aufzubauen», sagt er. Natürlich sei ihm ob all der Verantwortung auch mal mulmig zu Mute, räumt er ein, und Schalk blitzt auf in seinen Augen. «Aber ein bisschen unverfroren muss man als Firmengründer schon sein.»

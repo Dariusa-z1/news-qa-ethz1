@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/11/reactions-to-master-video.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 “C-R-I-N-G-E” is a frequent comment on YouTube as a reaction to the video that ETH Zurich made to address prospective Master’s students all over the world. Other users describe the video as “cool” or “great”. Within the first 24 hours, the video was viewed 60,000 times. On YouTube the majority of reviews and comments were negative, while positive and negative comments were more balanced on other platforms, such as Facebook.

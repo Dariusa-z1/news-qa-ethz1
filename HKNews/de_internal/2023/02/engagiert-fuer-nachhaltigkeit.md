@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/02/engagiert-fuer-nachhaltigkeit.html
 
-**Date processed:** 2025-05-01
-
 ## Nachhaltigkeits-Initiativen der ETH-Gemeinschaft
 
 Heute zeugen sowohl ein dicker SDG-Vorlesungskatalog als auch eine grosse Anzahl von Start-ups , die sich aktuellen Herausforderungen mit zukunftsträchtigen Ideen und Technologien stellen, von der Durchdringung von Nachhaltigkeitsthemen in der Lehre und Forschung an der ETH Zürich. Auch geforscht wird in einem grossen Spektrum zu Themen der nachhaltigen Entwicklung. Explizit sind es mindestens fünf Lehrstühle, die den Begriff «sustainable» in ihrem Namen tragen, und viele mehr, die sich mit Nachhaltigkeit beschäftigen. Institutionalisierte Einheiten wie ETH Sustainability im Bereich des ETH-Präsidenten oder die Abteilungen Engineering und Systeme, Campus Services , Sicherheit, Gesundheit, Umwelt (SGU) und Immobilien (Campusentwicklung) im Vizepräsidium Infrastruktur sowie die Fachstelle Diversity im Vizepräsidium Personal und Führung setzen sich seit bald zwei Jahrzehnten für eine ganzheitliche Nachhaltigkeit an der ETH Zürich ein. Sie berücksichtigen dabei eine nachhaltige Entwicklung mit ökologischen, sozialen und wirtschaftlichen Dimensionen im Referenzrahmen der globalen Agenda 2030 mit ihren 17 Nachhaltigkeitszielen.

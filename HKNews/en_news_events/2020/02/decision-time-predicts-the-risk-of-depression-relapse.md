@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/02/decision-time-predicts-the-risk-of-depression-relapse.html
 
-**Date processed:** 2025-05-01
-
 ## Stay in bed or get up?
 
 Depressive disorder is a major public health problem with an unpredictable course. It often recurs, with episodes of depression interspersed with periods of remission. Many studies have shown that in order to reduce the risk of relapse, treatment should continue even after symptoms have disappeared. “It is estimated that 30% of patients relapse within six months of withdrawal. That’s a very high rate. And doctors currently have no reliable tools for estimating this risk”, says Isabel Berwian, psychologist and postdoc at the Translational Neuromodeling Unit of ETH Zurich and University of Zurich.

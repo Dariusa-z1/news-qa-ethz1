@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/02/publishing-research-data-in-the-eth-data-archive.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The ETH Data Archive offers this service to members of ETH Zurich for data that is also intended to remain available in the long term. There are two options to choose from:

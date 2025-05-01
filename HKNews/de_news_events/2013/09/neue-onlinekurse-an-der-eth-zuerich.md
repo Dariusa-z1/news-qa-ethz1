@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/09/neue-onlinekurse-an-der-eth-zuerich.html
 
-**Date processed:** 2025-05-01
-
 ## Eigene Studierende sollen profitieren
 
 Online ist die Zukunft. Gilt das auch für die Lehre? Ja, findet eine Reihe von Hochschulen weltweit, die derzeit viele Ressourcen in die Entwicklung von neuen Onlinekursen investiert. In aller Munde sind die MOOCs, die «massive open online courses», eine Art Online-Fernstudien, die eine grosse Zahl von Studierenden ansprechen sollen. Diese absolvieren die Kurse dezentral, irgendwo auf der Welt vor einem Bildschirm, und erhalten bei bestandenem Onlinetest ein entsprechendes Zertifikat.

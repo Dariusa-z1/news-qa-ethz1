@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/09/neuer-standort-im-eth-hauptgebaeude.html
 
-**Date processed:** 2025-05-01
-
 ## Ausstellungseröffnung im kommenden Jahr
 
 Das Thomas-Mann-Archiv ist ab sofort im ETH-Hauptgebäude zu finden. Benutzerinnen und Benutzer profitieren von einer besseren Erreichbarkeit und von der professionell ausgestatteten Infrastruktur des Lesesaals Sammlungen und Archive der ETH-Bibliothek.

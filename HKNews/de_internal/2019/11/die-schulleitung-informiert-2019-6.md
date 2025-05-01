@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/11/die-schulleitung-informiert-2019-6.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Nachdem der Frauenanteil unter den Studierenden seit dem Jahr 2004 konstant bei rund 30 Prozent gelegen ist, ist er 2018 erstmals auf 32 Prozent angestiegen. Laut der neusten Ausgabe des Gender-Monitorings von equal!, der ETH-Stelle zur Förderung von Chancengleichheit und Vielfalt, ist der Frauenanteil auch unter den festangestellten Professorinnen und Professoren gestiegen, von 12,1 Prozent 2017 auf 13,3 Prozent im Jahr 2018. Der Assistenzprofessorinnenanteil sank leicht auf 21,9 Prozent. Der Frauenanteil aller Typen von Professuren lag bei knapp 15 Prozent. Der Fokusteil des Gender Monitorings befasst sich in diesem Jahr mit dem Frauenanteil unter den Gründerinnen und Gründern von ETH-Spin-offs. Dieser lag in den letzten 28 Jahren bei nur gerade knapp acht Prozent. Auch in den letzten zehn Jahren hat sich der Gründerinnen-Anteil nur selten über die 10-Prozent-Marke bewegt. Die Gründe liegen unter anderem darin, dass sich Frauen stärker von fehlendem eigenen Betriebswirtschaftswissen abschrecken lassen als Männer. Ausserdem ist der Frauenanteil in vielen spin-off-trächtigen Forschungsgruppen von Beginn an verhältnismässig tief.

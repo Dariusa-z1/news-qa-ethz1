@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/04/mehr-vielfalt-esst-buchweizen.html
 
-**Date processed:** 2025-05-01
-
 ## Obst und Gemüse allein machen nicht satt
 
 Rund die Hälfte der nutzbaren Landoberfläche der Erde verwenden wir Menschen zur Nahrungsmittelproduktion. Jede weitere Ausdehnung wäre für die Ökologie und das Weltklima höchst problematisch. Dabei werden wir immer mehr und immer anspruchsvoller: Fleisch und andere tierische Produkte zu verzehren kommt in vielen ehemals vegetarisch lebenden Kulturen zusehends in Mode und gilt als Statussymbol. Doch jeder Trend verursacht eine Gegenbewegung: In unserem Kulturkreis leben mehr und mehr Leute vegetarisch, oft sogar vegan. Beide Haltungen kann ich als rational denkender Pflanzenwissenschaftler und bekennender Currywurstliebhaber nachvollziehen.

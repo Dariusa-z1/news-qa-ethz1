@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/07/kleiner-schneller-billiger.html
 
-**Date processed:** 2025-05-01
-
 ## Der Trick mit den Plasmonen
 
 Im Februar 1880 erprobte der amerikanische Erfinder Alexander Graham Bell in seinem Labor in Washington ein Gerät, das er selbst als seine grösste Errungenschaft, noch vor dem Telefon, bezeichnete: das «Photophon». Bells Idee, mit Hilfe von Licht gesprochene Worte über grosse Entfernungen zu übermitteln, war der Vorläufer einer Technik, ohne die das moderne Internet undenkbar wäre. Riesige Datenmengen werden heute rasend schnell in Form von Lichtpulsen durch Glasfaserkabel geschickt, wozu sie allerdings zunächst von elektrischen Signalen, mit denen Computer und Telefone arbeiten, in optische umgewandelt werden müssen. Bei Bell war es noch ein simpler hauchdünner Spiegel, der Schallwellen in moduliertes Licht umwandelte. Heutige elektro-optische Modulatoren sind komplizierter, doch eines haben sie mit ihrem Urahn gemein: Sie sind mit einigen Zentimetern noch immer ziemlich gross, vor allem im Vergleich mit elektronischen Bauteilen, die nur einige Mikrometer messen.

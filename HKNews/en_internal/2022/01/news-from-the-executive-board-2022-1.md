@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/01/news-from-the-executive-board-2022-1.html
 
-**Date processed:** 2025-05-01
-
 ## New member of ETH Zurich’s ombuds office
 
 The ETH Zurich ombuds office offers advice to members of the ETH community who are having difficulties or conflicts in the workplace or during studies, and handles reports of suspected illegal actions. At least three ombudspersons must be appointed to this office. As a rule, they are elected for a term of four years.

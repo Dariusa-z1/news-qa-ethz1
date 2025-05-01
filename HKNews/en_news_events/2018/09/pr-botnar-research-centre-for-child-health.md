@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/09/pr-botnar-research-centre-for-child-health.html
 
-**Date processed:** 2025-05-01
-
 ## Transdisciplinary approach to research
 
 The BRCCH operating institutions are the University of Basel and ETH Zurich. The Research Centre’s network also includes partner institutions such as the University Children’s Hospital of Basel and the Swiss Tropical and Public Health Institute in Basel. It combines the expertise of both universities in systems biology, medicine and various areas of life sciences, engineering, social sciences and information technology that are relevant to health. With the results it produces, the BRCCH will help to prevent diseases, develop new treatment approaches, improve diagnoses and effectiveness forecasts, and make healthcare systems more affordable. The BRCCH aims to generate tangible results: “We want to have an impact on the lives of children and adolescents,” says Prof. Andrea Schenker-Wicki, Rector, University of Basel.

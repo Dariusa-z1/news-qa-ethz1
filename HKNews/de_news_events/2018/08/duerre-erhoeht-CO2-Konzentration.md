@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/08/duerre-erhoeht-CO2-Konzentration.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Ökosysteme auf dem Land absorbieren durchschnittlich 30% der menschengemachten CO 2 -Emissionen und mildern so den Anstieg der CO 2 -Konzentration in der Atmosphäre. Aber Pflanzen brauchen Wasser um zu wachsen. Wenn eine Dürre auftritt und die Böden austrocknen, reduzieren Pflanzen ihre Photosynthese. Sie reduzieren ihre Aktivität, um Wasser zu sparen und ihr Gewebe zu erhalten. Dadurch können sie kein Kohlendioxid mehr aus der Umgebungsluft abscheiden und es verbleibt mehr in der Luft. Dieser Effekt ist im Labor leicht zu beobachten, seinen Einfluss auf den gesamten Planeten zu messen hat sich allerdings als schwierig erwiesen. Eine der grössten Herausforderungen: herauszufinden, wo und wie oft Dürren weltweit auftreten. Vincent Humphrey, Klimaforscher in der Gruppe von Sonia Seneviratne, Professorin für Land-Klima-Dynamik an der ETH Zürich, hat in einer neuen Studie mit innovativer Satellitentechnologie die globale Empfindlichkeit von Ökosystemen gegenüber Wasserstress berechnet. Die Studie wurde in Zusammenarbeit mit dem Laboratoire des Sciences du Climat et de l'Environnement (Frankreich) und der Universität Exeter (Grossbritannien) durchgeführt.

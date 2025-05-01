@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/07/korrosionsprozesse-entschluesseln.html
 
-**Date processed:** 2025-05-01
-
 ## Gängige Hypothese widerlegt
 
 Wie schnell Stahl in Beton oder in einem anderen porösen Material korrodiert, ist zentral für eine Vielzahl an technischen Anwendungen, etwa bei Rohrleitungen im Erdreich oder bei Stahlbetonbrücken. Seit Jahrzehnten existieren verschiedene Hypothesen und Modelle, die aber die empirischen Befunde generell nicht abschliessend erklären können. Forschende rund um Ueli Angst, ETH-Professor für Dauerhaftigkeit von Werkstoffen, haben dieses Rätsel nun gelöst und ein neues, bestechend einfaches Modell entwickelt, das soeben in der Zeitschrift «Nature Materials» veröffentlicht wurde.

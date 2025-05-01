@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/08/comedian-with-a-head-for-business.html
 
-**Date processed:** 2025-05-01
-
 ## From ETH to the US
 
 “I absolutely adore cake. And, as a food scientist, I have to test desserts on a frequent basis to check they’re still up to scratch!” says Fabian Unteregger with a wink as he settles down for our interview at the famous Sprüngli Café in Zurich. Unteregger is a successful comedian and ETH alumnus with a doctorate in medicine – and he happens to consider regular activity much more important than always following a healthy diet.

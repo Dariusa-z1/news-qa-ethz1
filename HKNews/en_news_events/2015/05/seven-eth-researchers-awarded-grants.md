@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/05/seven-eth-researchers-awarded-grants.html
 
-**Date processed:** 2025-05-01
-
 ## Building on past success
 
 ERC Advanced Grants are very popular among researchers throughout Europe, as only top researchers’ projects are supported by the European Research Council (ERC). The grants are therefore considered a special distinction. In addition, researchers welcome the significant funds: the approved projects receive from CHF 2.5 million to CHF 3.5 million over a period of five years.

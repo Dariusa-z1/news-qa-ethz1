@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/06/pr-breastcancer-is-nocturnal.html
 
-**Date processed:** 2025-05-01
-
 ## Circadian rhythm-regulated hormones control metastasis
 
 Breast cancer is one of the most common forms of cancer, according to the World Health Organization (WHO). Each year, around 2.3 million people worldwide contract the disease. If doctors detect breast cancer early enough, patients usually respond well to treatment. However, things become much more difficult if the cancer has already metastasised. Metastasis occurs when circulating cancer cells break away from the original tumour, travel through the body via blood vessels and form new tumours in other organs.

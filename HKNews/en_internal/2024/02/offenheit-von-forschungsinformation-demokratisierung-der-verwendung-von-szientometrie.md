@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2024/02/offenheit-von-forschungsinformation-demokratisierung-der-verwendung-von-szientometrie.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Programme:

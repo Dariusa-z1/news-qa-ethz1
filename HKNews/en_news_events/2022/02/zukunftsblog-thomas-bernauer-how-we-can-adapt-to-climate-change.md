@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/02/zukunftsblog-thomas-bernauer-how-we-can-adapt-to-climate-change.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Today, the Intergovernmental Panel on Climate Change (IPCC) presented the second section of the Sixth Assessment Report (AR6) on the state of climate research. 1 The first section released last August described the physical basis, causes and extent of climate change (see blog post by Sonja Seneviratne); while the second section deals with the consequences of global warming for the environment and humanity.

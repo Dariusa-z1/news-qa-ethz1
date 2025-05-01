@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/10/arbeitsunterbrechungen-fuehren-zu-koerperlichem-stress.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Beinahe ein Drittel der Arbeitnehmenden in der Schweiz erlebt arbeitsbedingten Stress, wie dem Job-Stress-Index 2020 der Stiftung Gesundheitsförderung Schweiz zu entnehmen ist. Wenn sich dieser Stress chronifiziert, kann er zu Erschöpfungszuständen führen, die sich nachteilig auf die öffentliche Gesundheit auswirken und grosse wirtschaftliche Folgekosten verursachen.

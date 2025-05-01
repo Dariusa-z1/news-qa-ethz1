@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/02/unterstuetzen-sie-die-internationale-chemie-olympiade-2023.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Über 300 Chemie-Talente im Alter von 16 bis 19 Jahren aus etwa 90 Ländern werden diesen Sommer an der ETH ihre Chemie-Fähigkeiten an einer theoretischen und einer praktischen Prüfung unter Beweis stellen. Neben dem Wetteifern um die begehrten Medaillen werden den Jugendlichen und ihren Mentor:innen während der einwöchigen Olympiade auch die Schweiz näher vorgestellt und verschiedene Ausflüge unternommen.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/09/komplexe-technologien-nachhaltig-und-ganzheitlich-betreuen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Erkenntnis in der Grundlagenforschung und technologische Entwicklung sind eng verknüpft. Mithilfe neuster Mess- und Analysetechnologien stossen Natur- und Ingenieurwissenschaften in immer kleinere und schnellere, subatomare Bereiche vor. Ihre Labors enthalten sensorisch hochempfindliche, technisch hochkomplexe und digital hochvernetzte Infrastrukturen. Besonders deutlich wird das an grossen Einrichtungen auf dem Campus Hönggerberg wie dem Reinraumlabor FIRST für Mikro- und Nanowissenschaften oder den Hochtechnologie-​Forschungsplattformen im künftigen Neubau der Physik HPQ (vgl. ETH-Medienmitteilung vom 25. 11. 2020 ).

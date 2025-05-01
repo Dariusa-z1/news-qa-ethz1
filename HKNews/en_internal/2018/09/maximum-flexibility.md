@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/09/maximum-flexibility.html
 
-**Date processed:** 2025-05-01
-
 ## A meeting point throughout the entire day
 
 “The planning for the new restaurant is a highly successful joint effort,” says Marcel Zurbuchen, ETH Officer for the Coordination of Partner Companies. The catering concept and room layout have also incorporated the ideas and spatial requirements of both the students and the Department of Computer Science. The result is a multifunctional concept that makes good use of the guest area at all times while providing an additional events venue. Zurbuchen explains that the food served couples the trend towards international fare that can also be observed in the mass catering sector, with the possibility of eating in or ordering a take-away.

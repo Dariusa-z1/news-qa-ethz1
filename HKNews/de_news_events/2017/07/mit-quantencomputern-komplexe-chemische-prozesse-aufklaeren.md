@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/07/mit-quantencomputern-komplexe-chemische-prozesse-aufklaeren.html
 
-**Date processed:** 2025-05-01
-
 ## Eines der komplexesten Enzyme
 
 Nichts geringeres als eine technologische Revolution erwarten Fachleute von Quantencomputern: Sie sollen bald schon Probleme lösen können, die wegen ihrer hohen Komplexität ausserhalb der Reichweite klassischer Supercomputer liegen. Die Datenverschlüsselung und -entschlüsselung sowie die Lösung spezieller Probleme in der Physik, Quantenchemie und Materialforschung sind oft genannte Anwendungsgebiete.

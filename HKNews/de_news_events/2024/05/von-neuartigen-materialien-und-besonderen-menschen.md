@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/05/von-neuartigen-materialien-und-besonderen-menschen.html
 
-**Date processed:** 2025-05-01
-
 ## Materialien und Menschen
 
 «Man muss sich im Leben entscheiden, ob man das Verb ‘haben’ oder ‘sein’ dekliniert», zitiert Paolo Ermanni sinngemäss den grossen Pianisten Franz Liszt, um zu betonen, dass er glücklich sei, sich für das zweite Verb entschieden zu haben.

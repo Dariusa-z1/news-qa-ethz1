@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/08/globe-wir-brauchen-mehr-respekt-fuer-andersdenkende.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Egal, ob man eine Zeitung aufschlägt, eine Onlineplattform besucht oder den Fernseher anschaltet: Man hat das Gefühl, die Gesellschaft ist immer polarisierter. Stimmt diese Wahrnehmung? Nadia Mazouz: Wir sollten zunächst zwischen zwei Arten der Polarisierung unterscheiden: Bei der emotionalen Polarisierung spiegeln Individuen oder Gruppen die Emotionen der anderen negativ. Ich freue mich dann zum Beispiel, wenn es anderen schlecht geht. Diese Polarisierung ist durch die sozialen Medien nicht nur sichtbarer geworden – sie findet auch häufiger statt, so verstehe ich die Diagnose der Soziologinnen und Soziologen.

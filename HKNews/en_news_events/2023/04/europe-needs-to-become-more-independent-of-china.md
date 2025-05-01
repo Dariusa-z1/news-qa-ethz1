@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/04/europe-needs-to-become-more-independent-of-china.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Mr. Thränert, which issue worries you the most? Oliver Thränert: The war in Ukraine continues to cast a big shadow over global affairs. We’re caught up in a geopolitical confrontation between Russia, a nuclear power, and the Western and other states that support Ukraine. And with China now siding with Russia, the US government even goes so far as to characterise it as a global confrontation between democracy and autocracy.

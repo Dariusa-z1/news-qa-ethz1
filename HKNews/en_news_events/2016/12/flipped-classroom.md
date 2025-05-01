@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/12/flipped-classroom.html
 
-**Date processed:** 2025-05-01
-
 ## Individual lesson design
 
 “Try to talk to each other as much as possible,” says Katja Köhler, a lecturer in the Department of Biology, as she attempts to motivate around 500 first-semester students at the start of the lecture. Normally, talking during classes is frowned upon, but in the flipped classroom on genetic variability, it is actively encouraged.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/04/der-mars-bebt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Insight-Sonde (vgl. Box) hat bereits verschiedene Signale vom Mars auf die Erde gesendet. Eine erfreuliche Meldung für die ETH Zürich. Denn die Erfassung dieser Signale ist unter anderem der hochempfindlichen Elektronik des Seismometers zu verdanken, die am Labor für Raumfahrtelektronik und -instrumente der Hochschule entwickelt wurde. «Die Messungen zeigen, dass unsere Elektronik dort oben reibungslos läuft», freut sich Domenico Giardini. Der Professor für Seismologie und Geophysik koordiniert die Aktivitäten an der ETH für die InSight-Mission. Die aufgezeichneten Erschütterungen auf dem Mars seien insgesamt eher schwach. Entsprechend schwierig sind sie einzuordnen: Stammen sie vom Wind? Wurden sie von Meteoriteneinschlägen verursacht? Oder liegt ihnen tatsächlich Prozesse im Marsinneren zugrunde? Ein Ereignis, das die Erde am 6. April 2019 erreichte, deuten Forschende des ETH-Marsbebendiensts als mögliches Marsbeben.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/05/remap-a-glimpse-of-the-interlinked-future-of-energy.html
 
-**Date processed:** 2025-05-01
-
 ## Flexible consumption and local intelligence
 
 What will be more important in the future: privacy or cost efficiency? Gabriela Hug, Professor of Electric Power Systems at ETH, has investigated this issue with a focus on long-term changes in the energy supply system. Her approach shows how electricity consumers will be able to take advantage of local storage systems to optimise the overall grid load, reduce their energy bills and protect their privacy.

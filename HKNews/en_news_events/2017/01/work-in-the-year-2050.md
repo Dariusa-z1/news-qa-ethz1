@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/01/work-in-the-year-2050.html
 
-**Date processed:** 2025-05-01
-
 ## Consequences for society and education
 
 “What will the world look like in 2050? Nobody knows, but progress in science and technology, notably in cyber-physical systems, presents many opportunities, but also inevitable challenges,” said ETH President Lino Guzzella in his welcome address to a packed Audi Max last Saturday. Nevertheless, ETH Zurich ventured a glance into the future with the “Global Talent Summit”, with Guzzella going on to say that the role of universities is to continually adapt to new methods of research, teaching and learning in order to meet the needs of society and prepare the next generation for the future.

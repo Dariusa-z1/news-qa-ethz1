@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/12/ozeane-klimamotoren.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Was hat Sie als Ozeanographin nach Zürich gezogen, so weit weg vom Meer? Die ETH Zürich verfügt über eine der wenigen Maschinen weltweit, die in der Lage sind, Umweltradioaktivität zu messen. Diese Beschleuniger-Massenspektrometer können Radioisotope im Meerwasser bereits zählen, wenn darin nur einige wenige Atome enthalten sind. Wir setzen sie ein, um sehr langlebige Radionuklide zu messen, die entweder auf natürlichem Weg oder durch menschliches Zutun ins Meer gelangt sind.

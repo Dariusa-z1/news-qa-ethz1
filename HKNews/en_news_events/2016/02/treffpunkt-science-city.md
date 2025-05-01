@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/02/treffpunkt-science-city.html
 
-**Date processed:** 2025-05-01
-
 ## Robotic assistance and the power of thought
 
 Health is a priceless asset, and one that needs to be looked after. But what exactly can we do to improve our well-being? If someone falls ill or has an accident, how can modern medicine cure them, or at least make their daily lives more bearable?

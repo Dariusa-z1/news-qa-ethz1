@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/07/roboterteam-auf-mond-erkundungstour.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Forschende statteten drei Laufroboter mit Messinstrumenten aus, um auf dem Mond Mineralien zu finden.

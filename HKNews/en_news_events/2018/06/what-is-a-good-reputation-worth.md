@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/06/what-is-a-good-reputation-worth.html
 
-**Date processed:** 2025-05-01
-
 ## The significance of reputation
 
 How high are the losses incurred by companies through reputational damage? How can they be measured? How high is the loss relative to operating costs? Can these risks be transferred, for example, to insurers? Sixteen Master's students set out to find answers to these and similar questions in the “Risk Case Study Challenge 2018”.

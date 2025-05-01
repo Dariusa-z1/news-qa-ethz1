@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/10/moldauische-praesidentin-zu-besuch-an-der-eth-zuerich.html
 
-**Date processed:** 2025-05-01
-
 ## Hochaktuelles Thema
 
 Die Veranstaltung an der ETH Zürich war Teil des zweitägigen offiziellen Besuchs der moldauischen Präsidentin in der Schweiz. Nach Gesprächen zur bilateralen Zusammenarbeit war Maia Sandu gemeinsam mit Bundespräsident Alain Berset an die Hochschule gekommen, um über die Rolle der Republik Moldau im breiteren geopolitischen Kontext Osteuropas und die Auswirkungen des russischen Angriffskrieges auf die Ukraine zu sprechen und sich Fragen von Studierenden zu stellen.

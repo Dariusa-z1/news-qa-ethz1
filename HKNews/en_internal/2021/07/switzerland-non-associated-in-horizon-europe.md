@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/07/switzerland-non-associated-in-horizon-europe.html
 
-**Date processed:** 2025-05-01
-
 ## Participation in collaborative projects still possible
 
 Important for all ETH researchers: as participants from a non-associated third country, researchers and innovators in Switzerland can continue to apply for calls for collaborative projects in which third countries are eligible to participate. These will not be financed by the European Commission, but funded directly by the State Secretariat for Education, Research and Innovation (SERI). This will be subject to the condition that their project applications are considered as being eligible for funding by the European Commission or its commissioned agency. However, participants from non-associated third countries cannot take on coordination tasks in collaborative projects.

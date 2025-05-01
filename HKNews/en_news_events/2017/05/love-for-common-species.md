@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/05/love-for-common-species.html
 
-**Date processed:** 2025-05-01
-
 ## Dying out quietly
 
 It seems that before people will pay attention to a species, it must become rare or even extinct. Lonesome George, the last remaining member of a subspecies of Galapagos tortoises, has a whole book to his name; after his death, he was embalmed. And Martha, the last passenger pigeon, was famous before she died in Cincinnati Zoo on 1 September 1914, and her species became extinct.

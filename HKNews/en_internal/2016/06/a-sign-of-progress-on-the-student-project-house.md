@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/06/a-sign-of-progress-on-the-student-project-house.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 A six-metre-wide sign will be erected at the corner of Tannenstrasse/Clausiusstrasse at the site where the Student Project House will be created within the former district heating power plant. Construction is expected to be complete by the end of 2019. This space will allow students to work independently and in interdisciplinary groups on their own projects during their studies. By creating an environment that invites its users to exchange ideas and experiment, ETH Zurich is providing students with a space for innovation, where they can develop and implement creative ideas.

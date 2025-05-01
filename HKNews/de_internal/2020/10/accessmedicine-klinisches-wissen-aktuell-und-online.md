@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/10/accessmedicine-klinisches-wissen-aktuell-und-online.html
 
-**Date processed:** 2025-05-01
-
 ## Wissen abrufen
 
 In den beiden Lernumgebungen stehen Ihnen zusammen über 100 Textbooks und medizinische Referenzen in jeweils aktueller Auflage zur Verfügung. Darunter befinden sich die folgenden einschlägigen Werke:

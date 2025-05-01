@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/03/blog-pestizidfrei-als-neuer-weg-fuer-die-landwirtschaft.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In der europäischen Landwirtschaft gewinnt ein neuer Ansatz an Bedeutung: ein «dritter Weg» zwischen konventioneller Produktion und Biolandbau, bei dem die Bäuerinnen und Bauern auf synthetische Pestizide verzichten, aber nur auf diese. Das ist für die Landwirte einfacher umzusetzen als komplett auf Bio umzustellen. Gleichzeitig lassen sich damit die ehrgeizigen Ziele, die sich die Schweiz und Europa in Sachen nachhaltigerem Pflanzenschutz gesetzt haben, erreichen. 1, 2 Der Einsatz von Pflanzenschutzmitteln ist nämlich oft mit erheblichen Risiken für die Umwelt, die Biodiversität und die menschliche Gesundheit verbunden. 3

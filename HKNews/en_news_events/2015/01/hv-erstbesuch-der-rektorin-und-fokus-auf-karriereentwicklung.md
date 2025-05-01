@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/01/hv-erstbesuch-der-rektorin-und-fokus-auf-karriereentwicklung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Providing information about the decisions and ongoing activities of the Executive Board of ETH Zurich is always an integral part of proceedings when the four groups that make up the university (lecturers, scientific staff, students and technical/administrative personnel) meet for a plenary session of the University Assembly (UA). It is customary for the Executive Board activities to be presented to the UA members personally by the President or Rector. Sarah Springman performed this duty at the meeting on 15 January 2015, marking her first appearance at the UA as Rector of ETH Zurich.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/01/vier-eth-forschende-ausgezeichnet.html
 
-**Date processed:** 2025-05-01
-
 ## Predicting climatic extremes and developing new Internet architecture
 
 For the very first time, the European Research Council awarded the ERC Consolidator Grant (see box for more information). 312 researchers throughout Europe will receive the equivalent of around CHF 700 million. 22 of the Consolidator Grants went to Switzerland; ETH Zurich received the greatest number of awards among the Swiss Universities, securing four grants.

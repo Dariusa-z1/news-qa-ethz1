@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/05/registrars-office-emergency-mode.html
 
-**Date processed:** 2025-05-01
-
 ## Battling paper overload
 
 For many members of the ETH community, working on campus is currently a relic of the past. However, some staff have remained at their desks throughout the lockdown: among them, Giuliana Torre and Edith Niederhäuser, who have continued working at the Registrar’s Office in the Main Building. Together with their colleague Guido Lussy, they are currently processing Bachelor’s programme applications for the 2020 Autumn Semester. The sheer number of applications and the strict guidelines for handling original application documents mean that it isn’t possible for them to work from home.

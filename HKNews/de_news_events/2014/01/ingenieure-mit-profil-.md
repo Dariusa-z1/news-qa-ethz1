@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/01/ingenieure-mit-profil-.html
 
-**Date processed:** 2025-05-01
-
 ## Viel praktische Erfahrung
 
 Ingenieure sind auf dem Arbeitsmarkt gesucht – solche mit einem ETH-Abschluss sowieso. Doch neben einer exzellenten theoretischen Ausbildung entscheiden oft die praktische Erfahrung, die sozialen Fähigkeiten und ein gutes Netzwerk, ob Absolventen eine Stelle erhalten oder nicht.

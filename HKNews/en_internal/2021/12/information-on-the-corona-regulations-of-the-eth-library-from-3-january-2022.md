@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/12/information-on-the-corona-regulations-of-the-eth-library-from-3-january-2022.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 As of 3 January 2022, only ETH members will have access to individual locations (with ETH card and access authorization for the building). The Architecture and Civil Engineering Library (HIL) and the InfoCenter (HG) will be open to external visitors.

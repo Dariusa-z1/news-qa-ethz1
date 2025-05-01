@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/05/von-fischrobotern-und-kuenstlichen-muskeln.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Ein Roboter, der sich wie ein Fisch bewegt, ein Anzug mit künstlichen Muskeln, eine Herz-Lungen-Maschine für Säuglinge und eine Methode, um aus gebrauchten Kleidern Garn zu spinnen – das sind nur vier der Ideen, die ETH-Bachelorstudierende der Maschinenbauwissenschaften in diesem Jahr im Rahmen der Fokusprojekte vorangetrieben haben. Am 30. Mai präsentieren die Teams ihre Produkte der Öffentlichkeit.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/07/attosecond-measurement-on-electrons-in-water-clusters.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Virtually all vital chemical processes take place in aqueous solutions. In such processes, a decisive role is played by electrons that are exchanged between different atoms and molecules and thus, for instance, create or break chemical bonds. The details of how that happens, however, are difficult to investigate as those electrons move very fast. Researchers at ETH Zurich led by Hans Jakob Wörner, professor of physical chemistry, in collaboration with colleagues at Lawrence Berkeley National Laboratory (USA) have now succeeded in studying the dynamics of electrons in clusters made of water molecules with a time resolution of just a few attoseconds. Their results recently appeared as an advance publication in the scientific journal Nature.

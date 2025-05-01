@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/01/portrait-vogel-civil-engineer-who-sees-the-bigger-picture.html
 
-**Date processed:** 2025-05-01
-
 ## A professor with engineering roots
 
 Thomas Vogel does not require much in the way of introductions. Most people at ETH know who he is – and his name is often heard outside the university as well. Vogel is a specialist in structural analysis and reinforced concrete structures with a focus on bridge construction. His research focuses on ensuring that structures are safe and durable. The university professor has introduced generations of students to the art of structural engineering. If a large structure collapses somewhere, Vogel’s phone starts ringing. His expertise is highly sought after among experts in the field and in the media.

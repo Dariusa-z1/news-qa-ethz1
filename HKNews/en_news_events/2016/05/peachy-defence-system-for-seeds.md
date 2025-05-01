@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/05/peachy-defence-system-for-seeds.html
 
-**Date processed:** 2025-05-01
-
 ## Cyanide as a by-product of insect snacking
 
 Don’t eat the core, it’s poisonous: it's something parents often say to their children before they eat their first peach. Peach pits, which are hidden inside the nut-like husk, do in fact contain amygdalin, a substance which can degrade into hydrogen cyanide in the stomach.

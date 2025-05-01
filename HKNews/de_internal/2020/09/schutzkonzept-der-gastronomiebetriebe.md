@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/09/schutzkonzept-der-gastronomiebetriebe.html
 
-**Date processed:** 2025-05-01
-
 ## Umdenken in Gastronomiebetrieben
 
 Ein Blick in die Gastronomiebetriebe der ETH zeigt: Rote Markierungen auf dem Boden, überall Schilder, Plakate und Desinfektionsmittelstände, wo das Auge hinreicht – die Pandemie ist auch in Gastronomiebetrieben an der ETH allgegenwärtig. Vor Corona strömte mit Semesterbeginn eine Vielzahl an Studierenden und Mitarbeitenden in die Mensen, besonders zur Stosszeit am Mittag herrschte dichtes Gedränge. Der Sicherheitsabstand von 1.5 Metern für Warteschlangen und bei Sitzplätzen stellt Caterer zurzeit vor eine grosse Herausforderung. Denn wie kann ein Betrieb einen reibungslosen Ablauf sicherstellen, ohne dass zu viele Einschränkungen für den Besuch in der Mensa anfallen? Und wie können Betreiber die Sicherheit trotzdem gewährleisten, wenn Studierende und Mitarbeitende ihre Masken während des Essens ausziehen?

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/08/wir-werden-zwischen-der-zeit-vor-und-nach-corona-unterscheiden.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wie haben Sie den Notbetrieb aus Sicht der ID erlebt? Der Lockdown hat uns zu raschem Handeln gezwungen. Praktisch übers Wochenende mussten wir unsere VPN-Kapazitäten verdreifachen und zusammen mit den Akademischen Diensten und dem LET eine Lösung für die Übertragung und Aufzeichnung der Lehrveranstaltungen finden. Das war eine hektische Zeit. Für Zoom hatten wir bereits einige Lizenzen, die wir zum Glück sehr schnell ausbauen konnten. Zudem beobachteten wir zu Beginn des Notbetriebs eine gewaltige Steigerung der Anzahl Tickets. So benötigten viele ETH-Angehörige Unterstützung bei der Einrichtung ihres Arbeitsplatzes oder der Verwendung von Zoom. Ich glaube aber, die meisten Mitarbeitenden haben diese Anfangszeit erfreulich gut gemeistert.

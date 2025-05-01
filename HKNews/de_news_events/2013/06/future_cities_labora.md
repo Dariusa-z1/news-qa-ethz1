@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/06/future_cities_labora.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Daran arbeitet das Future Cities Laboratory in Singapur.

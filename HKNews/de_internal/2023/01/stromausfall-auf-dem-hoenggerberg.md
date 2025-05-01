@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/01/stromausfall-auf-dem-hoenggerberg.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Ein Defekt in einer Mittelspannungs-Anlage löste einen Stromausfall auf dem Campus Hönggerberg aus. (Bild: ETH Zürich / Facility Services)

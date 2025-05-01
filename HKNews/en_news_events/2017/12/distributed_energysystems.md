@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/12/distributed_energysystems.html
 
-**Date processed:** 2025-05-01
-
 ## H2 and batteries store solar energy
 
 Thermal solar energy systems heat the floor and water for the shower, an elevator runs on solar and wind energy, and whatever electricity is not consumed today is stored in batteries for tomorrow or will be available next month in the form of gas. And if your own energy reserves are not enough, the battery from your neighbour's electric car can help out.

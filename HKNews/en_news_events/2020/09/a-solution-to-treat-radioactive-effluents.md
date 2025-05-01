@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/09/a-solution-to-treat-radioactive-effluents.html
 
-**Date processed:** 2025-05-01
-
 ## Filter also suitable for radioactive isotopes
 
 The nuclear accident in Fukushima remains etched into people’s memories. It was a catastrophe that caused huge amounts of radioactively contaminated water to be released, which the operators of the nuclear power plant subsequently had to clean up. One of the methods they used was reverse osmosis but it wasn’t particularly effective. Although it is possible to purify up to 70 percent of the contaminated water this way, radioactive elements accumulate in the remaining 30 percent. Some of these elements are highly radioactive and remain so for thousands of years. As things stand, the Japanese government is planning to dump this water – over one million litres in total – in the Pacific Ocean come 2022.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/09/a-world-of-construction-without-cement.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 It was a brilliant idea: why not renovate the Gothic Cathedral of Notre Dame in the centre of Lausanne using stone extracted from a nearby demolition site, after the buildings there had been razed to the ground? After all, the church was originally built of local stone that today lies buried under the city. “The redevelopment made this resource accessible again, at least for a short while,” says Guillaume Habert, professor of sustainable construction at ETH Zurich . A doctoral candidate demonstrated the local scarcity of resources under the joint supervision of Habert and the originator of the idea, a professor of architecture at the Geneva Institute of Technology, Architecture and Landscape (hepia). But sadly this was as far as it went, as Habert explains: “We just didn’t have enough time to realise the project.” By the time all the details had been worked out, the stone had already been crushed by excavators and the fragments were too small to be useful. But Habert hasn’t given up hope: “At least these efforts served as a wake-up call; perhaps next time we will succeed, be it in Lausanne or another city.”

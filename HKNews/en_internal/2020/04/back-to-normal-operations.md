@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/04/back-to-normal-operations.html
 
-**Date processed:** 2025-05-01
-
 ## Overall parameters
 
 After introducing initial contingency measures to combat the coronavirus crisis back in February and then declaring emergency operations on 16 March, the Executive Board has now agreed a master plan, “Return to new normal operations”, outlining how research, teaching and work will progressively resume at the university for the rest of the year. This master plan is organised into three distinct stages, with different rules applying to each one.

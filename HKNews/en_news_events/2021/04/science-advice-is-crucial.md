@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/04/science-advice-is-crucial.html
 
-**Date processed:** 2025-05-01
-
 ## Bare numbers have no substance
 
 Over a hundred scientists from Swiss universities and research institutes have issued a statement in strong support of the CO 2 Act. 1 Does this mean they’re stepping outside of their traditional role? Yes – and in doing so, they’re also fulfilling their responsibility.

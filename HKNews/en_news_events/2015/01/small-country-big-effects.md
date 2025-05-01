@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/01/small-country-big-effects.html
 
-**Date processed:** 2025-05-01
-
 ## Figuring out the best course of action
 
 Does Switzerland matter? When it comes to climate and energy, a lot of people say no: Switzerland’s CO 2 emissions are tiny compared to those of the rest of the world, and so no amount of emissions reduction here will make any difference of global significance. Likewise, people say, the potential for Swiss policy to make a difference with respect to new technologies is extremely limited.

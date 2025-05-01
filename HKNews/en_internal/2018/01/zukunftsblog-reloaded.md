@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/01/zukunftsblog-reloaded.html
 
-**Date processed:** 2025-05-01
-
 ## Three posts at relaunch
 
 Members of ETH can do a lot to strengthen the Zukunftsblog and help it to reach a wider audience. This could include things like:

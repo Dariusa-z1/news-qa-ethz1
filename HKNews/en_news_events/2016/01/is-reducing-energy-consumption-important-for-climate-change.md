@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/01/is-reducing-energy-consumption-important-for-climate-change.html
 
-**Date processed:** 2025-05-01
-
 ## A necessary and sufficient condition
 
 World leaders in Paris renewed their pledge to limit climate change to no more than 2°C warming. The science backs this up, and suggests that even with 2°C warming, there may be some catastrophic consequences. The science is also clear that to achieve the 2°C limit, and certainly any limit even more ambitious, like 1.5°C, we need to completely eliminate carbon dioxide (CO 2 ) emissions in the energy sector as quickly as possible.

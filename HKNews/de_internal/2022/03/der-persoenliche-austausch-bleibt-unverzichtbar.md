@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/03/der-persoenliche-austausch-bleibt-unverzichtbar.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Copyright: GM CASTELBERG

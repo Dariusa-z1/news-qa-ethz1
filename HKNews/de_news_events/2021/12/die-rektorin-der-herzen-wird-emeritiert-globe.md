@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/12/die-rektorin-der-herzen-wird-emeritiert-globe.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Sarah Springman hat sich mit grosser Begeisterung für gute Lehre eingesetzt. (Bild: Markus Bertschi)

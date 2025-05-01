@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/03/foresight-more-than-magic.html
 
-**Date processed:** 2025-05-01
-
 ## What foresight means for ETH
 
 What exactly do we mean when we walk about 'foresight’? The term is not that easy to define. “Foresight is preparing today for the contexts of tomorrow,” says US native Chris Luebkeman, who has been working in this field for around two decades. In January 2020 he joined ETH Zurich, where he now leads the Strategic Foresight Hub in the Office of the President. “It’s important to focus on the plural form in this sentence,” explains Luebkeman. “It's not about imagining just one context, but as many as possible. What directions could we be headed in? Which directions would be ideal? Or realistic?”

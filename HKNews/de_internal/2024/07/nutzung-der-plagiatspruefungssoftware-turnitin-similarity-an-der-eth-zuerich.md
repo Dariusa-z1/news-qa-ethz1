@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/07/nutzung-der-plagiatspruefungssoftware-turnitin-similarity-an-der-eth-zuerich.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Bei Turnitin Similarity handelt es sich um eine Plagiatsprüfsoftware, die Ähnlichkeiten in Texten, einschliesslich Paraphrasierungen, Zitaten und Verweisen erkennt. Die webbasierte Software greift für den Vergleich von Texten auf eine umfangreiche Datenbank mit akademischen – sowohl publizierten als auch unpublizierten – Arbeiten, Büchern, Journals und anderen Quellen zu.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/09/mm-erc-starting-grants-2015.html
 
-**Date processed:** 2025-05-01
-
 ## In unterschiedlichsten Disziplinen an der Spitze
 
 Im prestigeträchtigen Wettbewerb um die Starting Grants des Europäischen Forschungsrats (ERC) haben sich zwei Wissenschaftlerinnen und vier Wissenschaftler der ETH Zürich durchgesetzt. Sie erhalten je rund 1,6 Millionen Schweizer Franken Fördergeld, um damit ihre Forschungsprojekte voranzutreiben – gesamthaft fliessen also über 9,3 Millionen CHF an Forschende, die ihr Projekt über die ETH eingereicht haben. Die sechs jungen Talente stammen aus unterschiedlichen Forschungsbereichen von Visual Computing über Gesundheitswissenschaften bis hin zu Quantenoptik. Gemeinsam ist den Projekten die wissenschaftliche Exzellenz.

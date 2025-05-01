@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/12/freedom-to-fail.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The start-up Pleasant Plants, founded by Jenny Held and Alexander Smirnow, develops miniature automated gardens that can be kept on a shelf or on the kitchen table. A peek into one of these techpacked wooden boxes might reveal herbs or cherry tomatoes, both of which can easily be grown by even the least green-fingered users. The price of the automated plant production assistant – including the rooting medium, seeds, nutrients, user manual and power cord – is 299 Swiss francs. Once installed, it ensures plants receive the right amount of water, light and nutrients. The start-up recently delivered the first batch to customers and is now looking at ways to reduce costs.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/05/energy-security-in-a-climate-neutral-switzerland-is-possible.html
 
-**Date processed:** 2025-05-01
-
 ## Abstract
 
 • A new white paper from the Energy Science Center (ESC) looks at Switzerland’s net zero target 2050 from the perspective of security of supply.

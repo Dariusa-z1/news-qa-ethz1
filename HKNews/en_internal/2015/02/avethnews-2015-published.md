@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/02/avethnews-2015-published.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 At the beginning of each year, AVETH (Academic Association of Scientific Staff at ETH Zurich) issues the AVETH, the annual report of AVETH. Here, AVETH informs on the activities and events of the past year and provides and outlook for the new year.

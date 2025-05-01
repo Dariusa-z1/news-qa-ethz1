@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/10/blog-manoli-palmoel.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Palm oil stands at the centre of an intense and often polarised debate 1 . While the massive expansion of oil palm across the tropics has undoubtedly helped to alleviate poverty, it has also contributed to deforestation, carbon emissions, and significant losses of biodiversity. But are alternatives to oil palm any more sustainable? Can we satisfy the booming global demand for vegetable oil while saving land and water by growing alternative crops?

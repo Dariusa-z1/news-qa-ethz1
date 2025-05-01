@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/11/realmaster.html
 
-**Date processed:** 2025-05-01
-
 ## Addressing the right students
 
 ETH Zurich wants to attract the most talented students in the world. But the three letters "ETH" aren’t as well known the globe over as in Switzerland. So now there’s a new hip-hop video out to catch the attention of those young people. A master of ceremonies guides viewers across the campus and raps with ETH students about the programmes. And as you’d expect after the ETH video trailer launched two years ago, this clip isn’t short on humour.

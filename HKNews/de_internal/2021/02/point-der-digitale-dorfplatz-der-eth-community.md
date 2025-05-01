@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/02/point-der-digitale-dorfplatz-der-eth-community.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Isabelle Castagna aus dem Team von ETH Sustainability ist Mitinitiantin und Projektleiterin von «Point» (Bild: Andreas Eggenberger)

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/04/forming-for-an-entire-generation-of-forestry-experts.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Franz Schmithüsen. (Photo: D-USYS)

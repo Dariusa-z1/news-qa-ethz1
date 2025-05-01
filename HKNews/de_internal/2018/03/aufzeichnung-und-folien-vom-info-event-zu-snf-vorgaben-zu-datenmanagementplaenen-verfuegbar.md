@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/03/aufzeichnung-und-folien-vom-info-event-zu-snf-vorgaben-zu-datenmanagementplaenen-verfuegbar.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 • Weitere Informationen zum Thema Datenmanagementpläne

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/01/aufgepeppte-antibiotika.html
 
-**Date processed:** 2025-05-01
-
 ## Antibiotikum ist selektiver
 
 Immer mehr Bakterien erweisen sich als resistent gegen Antibiotika. Die Suche nach neuen Wirkstoffen erweist sich als schwierig, und auf kaum mehr eingesetzte Antibiotika früherer Generationen auszuweichen, ist wegen ihrer teils starken Nebenwirkungen oft keine Option. Ein Forschungsteam um Andrea Vasella, emeritierter Professor am Laboratorium für Organische Chemie der ETH Zürich, und Erik Böttger, Professor am Institut für Medizinische Mikrobiologie der Universität Zürich, zeigte nun, wie sich die Wirkung herkömmlicher Antibiotika markant verbessern lässt.

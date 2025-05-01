@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/05/kulturerbe.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH-News: Spricht man von der ETH Zürich, liegt einem die Kultur nicht als Erstes auf der Zunge. Wieviel Kultur steckt in der Hochschule? Stefan Wiederkehr: Viel! Die ETH betreibt ein breites Spektrum von Archiven und Sammlungen: Ein riesiges Bildarchiv etwa, das Max-Frisch- und das Thomas-Mann-Archiv, Naturhistorische Sammlungen und einen Arzneipflanzengarten. Darüber hinaus schafft die ETH jeden Tag neues Kulturerbe: Schliesslich ist die Forschung von heute das Kulturerbe von morgen. Wir wollen am 3. Juni auch die Forschung von gestern zeigen, die zum Kulturerbe geworden ist.

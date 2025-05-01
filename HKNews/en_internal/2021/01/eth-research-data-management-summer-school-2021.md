@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/01/eth-research-data-management-summer-school-2021.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Sessions of the ETH Research Data Management Summer School cover the following topics:

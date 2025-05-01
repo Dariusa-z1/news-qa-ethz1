@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/01/wie-man-helle-quantenpunkte-noch-heller-macht.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Mit Hilfe chemischer Verfahren und quantenmechanischer Effekte haben Forschende die Helligkeit von Quantenpunkten aus Blei-Halogenid-Perowskiten deutlich verbessert.

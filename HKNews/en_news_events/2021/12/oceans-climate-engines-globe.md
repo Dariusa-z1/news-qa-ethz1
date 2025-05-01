@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/12/oceans-climate-engines-globe.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 You’re an oceanographer, so what drew you to Zurich, which is so far away from the sea? Worldwide there are only a handful of instruments able to measure environmental radioactivity – and ETH Zurich has one of them! These accelerator mass spectrometers can count even just a few atoms of radioisotopes in seawater. We use them to measure very long-lived radionuclides that have been introduced to the oceans by either natural or human activity.

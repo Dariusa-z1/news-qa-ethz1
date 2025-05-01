@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/03/combatting-infant-malnutrition.html
 
-**Date processed:** 2025-05-01
-
 ## The role of gut flora
 
 According to the World Health Organisation (WHO), 148 million children under five suffer from developmental delay due to malnutrition and are therefore unlikely to reach their full potential as adults. Malnutrition is caused by an insufficient intake of food or an inadequate absorption of nutrients such as proteins, vitamins and minerals. This, in turn, stunts growth and weakens the immune system. Infant malnutrition is a problem chiefly in Africa and Asia.

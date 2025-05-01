@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/08/mentale-staerk-mit-software-trainieren.html
 
-**Date processed:** 2025-05-01
-
 ## Mentaltraining für Sportler
 
 Wenn Sarah Meissner in ihrer Freizeit Tischtennis spielt, dann versucht sie, zwischen den Punkten immer wieder kurz innezuhalten und sich für einen Moment ganz bewusst auf ein bestimmtes Körperteil, wie etwa ihre Fingerspitzen, zu konzentrieren. Zudem achtet sie auf ihre Atmung. Es sind mentale Strategien, die ihr helfen sollen, konzentriert zu bleiben. «Es gibt immer wieder Momente, wo ich merke: Jetzt bin ich nicht mehr fokussiert», sagt sie. Meist dann lässt die Leistung nach, der Punkt geht verloren.

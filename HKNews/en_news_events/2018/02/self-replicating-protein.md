@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/02/self-replicating-protein.html
 
-**Date processed:** 2025-05-01
-
 ## Catalysts in prebiotic evolution
 
 Long regarded as a biological aberration, amyloids are fibrous aggregates of short protein fragments. Amyloids have a bad reputation because they are thought to be the cause of multiple neurodegenerative diseases, including Alzheimer’s, Parkinson’s and Creutzfeldt–Jakob disease.

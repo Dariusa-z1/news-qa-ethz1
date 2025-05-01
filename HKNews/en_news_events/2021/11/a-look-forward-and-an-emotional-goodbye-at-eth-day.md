@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/11/a-look-forward-and-an-emotional-goodbye-at-eth-day.html
 
-**Date processed:** 2025-05-01
-
 ## Never stop evolving
 
 The emotional mood at the 166th anniversary of ETH was due not only to the fact that unlike last year it could be held as an in-person event, it was also the last ETH Day with Sarah Springman as host. She will step down at the end of January after 25 years as an ETH professor and seven years as Rector. She still has her sights set firmly on teaching at ETH: “We’re not quite back to ‘business as usual’, but the students are back on campus,” she said. This is only possible as a result of Covid certificate requirements, and Springman stressed that we must all take responsibility in global challenges such as the pandemic: “Homo sapiens appears to be the biggest troublemaker on the planet. But we’re also the only problem solver.” She believes that curriculum developments at ETH as are on track, for example with the launch of a large-scale project to integrate computational competencies into all degree programmes.

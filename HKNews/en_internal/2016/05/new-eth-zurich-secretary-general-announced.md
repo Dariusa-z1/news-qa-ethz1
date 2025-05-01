@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/05/new-eth-zurich-secretary-general-announced.html
 
-**Date processed:** 2025-05-01
-
 ## Pragmatic reform of ETH’s organisational structure
 
 Hugo Bretscher will retire this autumn. Katharina Poiger Ruloff will be taking over his position as Secretary General of ETH Zurich. She has been on the President’s Staff and responsible for Strategy and Development since 2008.

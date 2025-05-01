@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/11/digitales-emblem-fuer-humanitaeres-recht-im-cyberspace.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Cyberattacken auf kritische digitale Infrastruktur verursachen nicht nur einen finanziellen und logistischen Schaden. Sie können – zum Beispiel in Spitälern – auch katastrophale humanitäre Folgen haben.

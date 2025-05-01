@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/04/ulrich-weidmann-zu-besuch-bei-der-personalkommission.html
 
-**Date processed:** 2025-05-01
-
 ## Lohn im Blick
 
 Als Vizepräsident für Personal und Ressourcen ist Ulrich Weidmann zuständig für die Personalpolitik, die Personalentwicklung und das Personalmanagement der ETH Zürich. Unlängst hat er die Personalkommission (PeKo) besucht, die die Interessen des administrativen und technischen Personals vor der Schulleitung vertritt.

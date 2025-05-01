@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/02/wenn-studierende-ein-auto-zerlegen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wörtlich genommen wird bei einer Analyse der untersuchte Gegenstand erfasst, indem man ihn in seine Bestandteile zerlegt. Danach werden seine Elemente nach Kriterien und Beziehungen geordnet und wieder zu einem Ganzen zusammengesetzt (Synthese).

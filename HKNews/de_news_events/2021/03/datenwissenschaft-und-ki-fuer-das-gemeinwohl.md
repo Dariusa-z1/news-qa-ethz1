@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/03/datenwissenschaft-und-ki-fuer-das-gemeinwohl.html
 
-**Date processed:** 2025-05-01
-
 ## Eine Zusammenarbeit auf drei Ebenen
 
 Die Digitalisierung der Gesellschaft erfordert bei Institutionen immer mehr Kompetenzen im Bereich Datenwissenschaft. Vor allem auf künstlicher Intelligenz basierende Ansätze müssen sicher und für die ganze Gesellschaft nutzbringend einsetzbar sein. In diesem Hinblick schliesst sich das BFS in seiner Vorreiterrolle innerhalb der Bundesverwaltung mit dem von den Eidgenössischen Technischen Hochschulen gemeinsam betriebenen «Swiss Data Science Center» (SDSC) zusammen. Martin Vetterli, Präsident der Eidgenössischen Technischen Hochschule in Lausanne (EPFL), meint zu dieser Zusammenarbeit: «Ich freue mich sehr über diese strategische Partnerschaft zwischen unseren beiden Hochschulen und dem BFS im Rahmen eines gemeinsamen Flaggschiffprojekts. Sie erinnert an die Partnerschaft zwischen dem AlanTuring Institute in London und dem British Office for National Statistics, die sich ebenfalls gemeinsam für die Forschung und Innovation im Bereich der Datenwissenschaft einsetzen.»

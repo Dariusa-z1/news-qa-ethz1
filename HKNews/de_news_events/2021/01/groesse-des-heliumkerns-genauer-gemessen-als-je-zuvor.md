@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/01/groesse-des-heliumkerns-genauer-gemessen-als-je-zuvor.html
 
-**Date processed:** 2025-05-01
-
 ## Langsame Myonen, kompliziertes Lasersystem
 
 Helium ist nach Wasserstoff das zweithäufigste Element im Universum. Rund ein Viertel der Atomkerne, die in den ersten Minuten nach dem Urknall entstanden, waren Heliumkerne. Diese bestehen aus vier Bausteinen, nämlich zwei Protonen und zwei Neutronen. Für die Grundlagenphysik ist es entscheidend, die Eigenschaften des Heliumkerns zu kennen, unter anderem um Vorgänge in anderen Atomkernen zu verstehen. «Der Heliumkern ist ein sehr fundamentaler Kern», sagt Aldo Antognini, Physiker am PSI und an der ETH Zürich.

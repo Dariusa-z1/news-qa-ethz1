@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/07/swissloop-verfehlt-top-3.html
 
-**Date processed:** 2025-05-01
-
 ## Grosse Pläne nach dem Wettbewerb
 
 Am 22. Juli endete die dritte Hyperloop Pod Competition der Firma SpaceX in Los Angeles. Studententeams aus der ganzen Welt entwickelten Transportkapseln – sogenannte Pods – für die Hyperloop-Vision von Elon Musk: Der Tesla-Gründer will ein Transportsystem schaffen, in dem Menschen und Güter mit über 1000 Kilometern pro Stunde durch Vakuumröhren reisen.

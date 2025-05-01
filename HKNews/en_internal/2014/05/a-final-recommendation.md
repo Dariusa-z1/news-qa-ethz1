@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/05/a-final-recommendation.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In my second column I highlighted the recent ETH Rector election. The elected candidate, professor Springman, is a co-founder and a board member of the ETH WPF. We are happy to congratulate Sarah Springman for her successful nomination.

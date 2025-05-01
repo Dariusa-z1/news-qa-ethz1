@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/01/sponge-bacteria.html
 
-**Date processed:** 2025-05-01
-
 ## Centrifugalising sponge
 
 Sponges are unique beings: they are invertebrates that live in symbiosis with sometimes hundreds of different types of bacteria; similar to lichens which are a biocoenosis of algae and fungi. "Put simply, many sponges are lumps of bacteria in which some sponge cells are found," says Jörn Piel, Professor of Microbiology at the ETH Zurich.

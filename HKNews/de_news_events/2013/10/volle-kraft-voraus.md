@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/10/volle-kraft-voraus.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH-Professorin Annette Oxenius stellte das Netzwerk «Node Infection & Immunity» vor. (Bild: Marita Fuchs / UZH News)

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/10/mystery-of-the-martian-resolved.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • One year after the NASA InSight Mission ended, the analysis of the recorded marsquakes, combines with computer simulations, is still yielding new findings.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/08/paul-bernays-lectures-2022-on-artificial-intelligence-and-mathematics.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The lectures will take place in Room HG E7 of ETH Zurich, main building, Rämistr. 101, Zurich:

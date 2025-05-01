@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/03/vontobel-preis-bachmann.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Preisträgerin Dörte Bachmann. Bild: ETH Zürich / Peter Rüegg.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/06/wissenstransfer-mit-turbowirkung.html
 
-**Date processed:** 2025-05-01
-
 ## Schnell in die Praxis
 
 Die ETH Zürich ist bekannt für Spitzenforschung und für hervorragende Lehre. Doch auch die universitäre Weiterbildung ist eine ihrer wichtigen Aufgaben. So gibt es ganze Bereiche in der Schweiz, die es ohne das Weiterbildungsangebot der ETH schwer hätten, gut ausgebildete einheimische Spezialisten zu finden, beispielsweise die Raumplanung oder die Entwicklungszusammenarbeit. Die traditionsreichen Nachdiplomstudiengänge der ETH Zürich in diesen Themenbereichen sind nach wie vor das einzige entsprechende Ausbildungsangebot der Schweiz in der jeweiligen Fachrichtung. Insgesamt bietet die ETH Zürich derzeit 16 MAS-Programme, 25 kürzer dauernde CAS und DAS, rund hundert Fortbildungskurse und 25 E-Learning-Programme an.

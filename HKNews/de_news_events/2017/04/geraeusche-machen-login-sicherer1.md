@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/04/geraeusche-machen-login-sicherer1.html
 
-**Date processed:** 2025-05-01
-
 ## App und Browser vergleichen Geräusche
 
 Sichere Passwörter und mehrstufige Authentifizierungssysteme sind heute wichtiger denn je: Im Internet bezahlen wir unsere Rechnungen, kommunizieren über Geschäftliches und geben allerlei Privates preis. Und doch benutzen viele Menschen das immergleiche Passwort für all ihre Konten. Dabei nehmen Identitätsdiebstahl und Internetspionage weltweit besorgniserregend zu, wie die Swisscom vergangene Woche in ihrem Security Report 2017 berichtete.

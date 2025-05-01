@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/02/waermeres-klima-setzt-mehr-kohlenstoff-frei.html
 
-**Date processed:** 2025-05-01
-
 ## Berechtigte Befürchtungen
 
 Ohne die Landökosysteme wäre es um die Zukunft unseres Klimas wohl noch schlechter bestellt als ohnehin schon. Pflanzen und Böden nehmen derzeit rund ein Drittel aller menschlichen Treibhausgas-Emissionen aus der Atmosphäre auf. Damit gehören sie zu den wichtigsten Bremsern der globalen Klimaerwärmung. Besonders bedeutsam sind die Böden, speichern sie doch einen Grossteil des organischen Kohlenstoffs, so dass dieser nach dem Ableben der Pflanzen nicht gleich zurück in die Atmosphäre gelangt.

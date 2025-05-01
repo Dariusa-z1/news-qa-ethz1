@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/02/the-chemical-intervention-team-is-training-for-an-emergency.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Fumes begin to rise in the hood. (Photo: ETH Zurich)

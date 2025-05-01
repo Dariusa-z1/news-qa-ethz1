@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/12/gendergerechte-sprache.html
 
-**Date processed:** 2025-05-01
-
 ## Pro
 
 Franziska Schmid, Leiterin Medienstelle (Illustration: Kornel Stadler)

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/06/lernevent-eth-mitarbeitende.html
 
-**Date processed:** 2025-05-01
-
 ## Lernen beginnt mit Neugier
 
 Im vergangenen Herbst hat die ETH mit dem Lifelong Learning Hub (L3H) eine Initiative für lebenslanges Lernen für alle Mitarbeitenden gestartet (siehe Intern aktuell vom 20.9.2023 ). Die Initiative steht für eine aktive und offene Auseinandersetzung mit uns selbst und mit der Welt, in der wir leben.

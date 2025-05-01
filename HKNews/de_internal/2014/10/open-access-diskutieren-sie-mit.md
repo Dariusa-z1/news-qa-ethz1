@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/10/open-access-diskutieren-sie-mit.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 • Mittwoch, 15. Oktober, 18.15 bis 20 Uhr: externe Seite Open Access: Reizwort oder Zauberformel? call_made Podiumsrunde zur neuen Publikationsförderung des Schweizerischen Nationalfonds. Veranstaltet vom UZH Graduate Campus in Kooperation mit der Zentralbibliothek Zürich.

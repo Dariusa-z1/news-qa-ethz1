@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/06/tanja-stadler-stopping-epidemics.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 A genetic code that can be deciphered and analysed is not only present in humans; pathogens such as viruses and bacteria also have one. Scientists have been decoding the blueprints of pathogens since the spread of the HIV pandemic in the 1990s. Mathematical analyses of genetic sequences have been central to those efforts from the outset.

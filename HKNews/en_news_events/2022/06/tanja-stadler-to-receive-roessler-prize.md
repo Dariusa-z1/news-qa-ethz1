@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/06/tanja-stadler-to-receive-roessler-prize.html
 
-**Date processed:** 2025-05-01
-
 ## Mathematician to mathematician
 
 Tanja Stadler explains her area of research using a tree as an illustration. During reproduction, genetic information changes – branching out like the boughs of a tree. “I answer biological questions by reconstructing the tree from genetic sequences and then calculating the biological processes from that,” she says. She skilfully explains how this approach is applicable to all areas of biology. She elaborates with particularly illustrative examples, including viruses that mutate, cancer cells that proliferate and ecosystems that evolve through time. Today, Stadler has a rather esteemed audience – patron of the sciences Max Rössler is visiting her laboratory at the ETH Department of Biosystems Science and Engineering in Basel.

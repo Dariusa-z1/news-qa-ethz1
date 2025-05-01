@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/12/review-of-2019.html
 
-**Date processed:** 2025-05-01
-
 ## January
 
 The new year also ushered in a new era at ETH. The former director of PSI, Joël Mesot, took over the reins of the Executive Board as the new President of ETH Zurich with a sense of “great elation, drive and enthusiasm for this venerable institution”. As a long-serving ETH physics professor, he knows ETH Zurich inside out. Good news from the spin-offs where the year also began on a positive note. An unprecedented 27 new companies were founded in 2018. ETH Zurich is striking out in new directions in its doctoral studies. During the Doctoral Supervision symposium, 200 ETH lecturers and guests from home and abroad discussed ways of improving supervision of the 4,000 doctoral students at ETH Zurich.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/03/the-dyatlov-pass-mystery-and-what-a-research-article-can-trigger.html
 
-**Date processed:** 2025-05-01
-
 ## Assumptions and model confirmed
 
 There are scientific articles whose results give rise to discussion not only among researchers, but equally in the media and society: this is exactly what ETH professor Alexander Puzrin, head of the Institute of Geotechnical Engineering at ETH Zurich, and EPFL professor Johan Gaume, head of the Snow and Avalanche Simulation Laboratory (SLAB) and a visiting scientist at the WSL Institute for Snow and Avalanche Research SLF, experienced last year.

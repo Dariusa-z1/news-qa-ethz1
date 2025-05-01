@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/04/the-key-to-more-flexibility-refine.html
 
-**Date processed:** 2025-05-01
-
 ## More integrated view of budgets
 
 For the month of January, no one at ETH Zurich was paid twice – or crucially, not paid at all. However, things could have been very different. On 9 January 2019, four years after the launch of the “refine” project, the ETH Information and Support portal ETHIS switched over to the latest SAP software S/4 HANA.

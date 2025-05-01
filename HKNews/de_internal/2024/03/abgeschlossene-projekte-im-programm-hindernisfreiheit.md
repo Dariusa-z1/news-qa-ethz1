@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/03/abgeschlossene-projekte-im-programm-hindernisfreiheit.html
 
-**Date processed:** 2025-05-01
-
 ## Fachwissen und Qualitätskontrolle bei Immobilien
 
 Drei Teilprojekte unter der Leitung von Dominik Jenni (Abteilung Immobilien) wurden Ende 2023 erfolgreich abgeschlossen:

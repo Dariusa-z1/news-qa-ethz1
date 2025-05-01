@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/07/the-good-years.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Im historischen Rückblick erweist sich das Jahr 1979 als eine bemerkenswerte Zäsur: Margaret Thatcher wird Premierministerin, im Iran kommt es zu einer folgenschweren Revolution. Sowjetische Truppen marschieren in Afghanistan ein und die Nato führt Abrüstungsgespräche, stationiert in Europa aber gleichzeitig Mittelstreckenraketen. Während sich Michel Foucault mit dem Neoliberalismus beschäftigt, wird «der Markt» zum Zauberwort, weit über die Wirtschaftspolitik von Ronald Reagan hinaus. 1979 ist auch das Jahr, in dem sowohl die Unterhaltungselektronik (Walkman) als auch der Computer (PC) personalisiert wurden.

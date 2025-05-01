@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/05/squeezed-quantum-cats.html
 
-**Date processed:** 2025-05-01
-
 ## Squeezing and shifting
 
 Quantum physics is full of fascinating phenomena. Take, for instance, the cat from the famous thought experiment by the physicist Erwin Schrodinger. The cat can be dead and alive at once, since its life depends on the quantum mechanically determined state of a radioactively decaying atom which, in turn, releases toxic gas into the cat’s cage. As long as one hasn’t measured the state of the atom, one knows nothing about the poor cat’s health either – atom and kitty are intimately “entangled” with each other.

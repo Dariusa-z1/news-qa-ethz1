@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2023/03/rethink-implementation-is-now-really-getting-under-way.html
 
-**Date processed:** 2025-05-01
-
 ## rETHink Switch: exhibition and Town Hall meeting
 
 rETHink hasn’t really taken off yet at ETH. This is something frequently heard in the university’s corridors when staff are asked about the project. This is set to change in the coming months.

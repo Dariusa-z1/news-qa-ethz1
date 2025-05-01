@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/07/zuerich-berlin-swissloop.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Nach PayPal, SpaceX und Tesla widmet sich Elon Musk seit ein paar Jahren einem neuen Projekt: Mit Hilfe eines Studentenwettbewerbs möchte er innovative Transportmöglichkeiten fördern. 1200 Teams aus der ganzen Welt haben sich letzten September beworben, um eine Transportkapsel, einen sogenannten Pod, möglichst schnell durch eine Vakuumröhre zu schicken. Wie genau sie das anstellen, war den Studierenden selbst überlassen. Unter den 27 vielversprechendsten Konzepten ist auch jenes von Swissloop, einem Verein von Studierenden der ETH Zürich und anderer Schweizer Hochschulen.

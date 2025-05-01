@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/03/spark-award-2016.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Jury hatte eine anspruchsvolle Aufgabe: Allein 2015 haben Forschende der ETH Zürich 195 Erfindungen entwickelt, von denen 98 zum Patent angemeldet wurden. Aus all diesen innovativen Ideen galt es, die wirtschaftlich vielversprechendste für den «Spark Award» auszuwählen. Der Preis wird seit fünf Jahren an der ETH verliehen. Spezialisten von ETH transfer, der Technologietransferstelle der ETH Zürich, sowie externe Juroren aus Forschung und Wirtschaft haben daher in den vergangenen Wochen all diese Erfindungen auf Originalität und Potenzial geprüft.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/04/wie-die-pflanzenwelt-den-klimakreislauf-praegt.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Forschende simulieren mit neuen Computermodellen, wie Klimawandel, Kontinentalverschiebung und Pflanzenwelt in 390 Millionen Jahre Erdgeschichte zusammengespielt haben.

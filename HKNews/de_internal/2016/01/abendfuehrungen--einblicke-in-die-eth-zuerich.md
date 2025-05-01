@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/01/abendfuehrungen--einblicke-in-die-eth-zuerich.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 • Wie wurde Thomas Mann in Fotografien inszeniert?

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/05/neues-zentrum-fuer-computergestuetztes-entwerfen.html
 
-**Date processed:** 2025-05-01
-
 ## KI beschleunigt den Entwurf von Brücken
 
 Wenn Architekten und Ingenieure Bauwerke entwickeln, vergeht zwischen dem ersten Entwurf und dem Baubeginn oft viel Zeit. Dazwischen liegen zahlreiche Runden, in denen sie verschiedene Entwürfe hinsichtlich Material, Kosten, Termine, Statik und Dynamik erkunden und gegeneinander abwägen. Dies geschieht oft nacheinander, Schritt für Schritt.

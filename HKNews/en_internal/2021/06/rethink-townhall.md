@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/06/rethink-townhall.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 "We want to create more time and resources for our core tasks with rETHink," Joël Mesot opened the virtual Townhall. Over the last few months, more than 600 ETH employees from all areas have worked out in six so-called workstreams where ETH needs to pull the levers to achieve this overarching goal.

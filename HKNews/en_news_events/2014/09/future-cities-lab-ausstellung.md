@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/09/future-cities-lab-ausstellung.html
 
-**Date processed:** 2025-05-01
-
 ## Tropical city and tiles made from coffee grounds
 
 At around 20 tables in the ETH main building, researchers are offering an insight into their work in Singapore. The white tables show projects developed by individual research groups in a specific discipline, such as the “3For2” project. In Singapore, up to one-third of the enclosed volume of a building is typically occupied by technical systems and structural elements. By integrating systems in the core of the building, it is now possible to fit three floors into the space previously needed for two, hence the name 3For2. At the same time, the new system results in a pleasant indoor climate and increases energy efficiency by a factor of two.

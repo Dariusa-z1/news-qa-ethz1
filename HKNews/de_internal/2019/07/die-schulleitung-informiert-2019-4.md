@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/07/die-schulleitung-informiert-2019-4.html
 
-**Date processed:** 2025-05-01
-
 ## Ombudsstelle: Neue externe Stelle und mehr fachlicher Support
 
 Die ETH Zürich pflegt eine Kultur des respektvollen Umgangs. Belästigung, Diskriminierung, Mobbing, Drohung und Gewalt werden nicht toleriert. Die Erfahrungen der letzten Jahre haben gezeigt, dass die Angebote der intern zur Verfügung stehenden Stellen sowie deren Verfahren im Umgang mit unangemessenem Verhalten weiter verbessert werden müssen. Die Schulleitung hat dazu am 14. März 2019 ein umfassendes Massnahmenpaket kommuniziert. Auf der Basis verschiedener Analysen sind diese Massnahmen nun konkretisiert worden.

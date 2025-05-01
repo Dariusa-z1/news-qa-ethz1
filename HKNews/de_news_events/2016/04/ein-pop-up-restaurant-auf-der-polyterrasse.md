@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/04/ein-pop-up-restaurant-auf-der-polyterrasse.html
 
-**Date processed:** 2025-05-01
-
 ## Sieben-Gänge-Menü zum Abendessen
 
 Auf der Polyterrasse wird in diesen Tagen gebaut: bis am 7. Mai wird ein temporäres Restaurant fertiggestellt, das einen nicht alltäglichen Ansatz verfolgt. Im sogenannten Tastelab dreht sich alles um die Beziehung zwischen Wissenschaft und Kochen. Während vier Wochen wollen die Organisatoren zeigen, wie man mit dem Verständnis von wissenschaftlichen Zusammenhängen traditionelle Rezepte verbessern oder auch komplett neue Rezepte entwerfen kann. Dabei werden etwa Eier in der Schale pochiert, Fleisch tagelang im Wasserbad gegart, Früchte mit Kohlensäure versetzt oder Kaffee kalt gebraut.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/08/into-the-forests.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Assistant Eva Merz is standing at the foot of a mighty beech tree in the middle of the forest. Two climbing ropes hang down from the crown of the tree. Two well-secured tree-climbers, Markus Gysin and Anja Erni, navigate their way through the branches at dizzying heights, cut off a branch and then carefully lower it to the ground by means of a thin cord. Merz grabs the branch and removes it from the cord. “I’m off again,” she calls up before hurrying back to the “base camp” with the harvested material.

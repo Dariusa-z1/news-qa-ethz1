@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/01/on-the-trail-of-the-swiss-humboldt.html
 
-**Date processed:** 2025-05-01
-
 ## Taking up German in Buenos Aires
 
 It’s clear from Tomás Bartoletti’s workplace that he is neither an engineer nor a classic humanities scholar: opposite his desk with a laptop and two large flat screens is a shelf with books on the history of Latin America’s indigenous peoples, the colonisation of Africa, museums and their collections, and Swiss hunters in the Grisons. Volumes in English, French, Spanish, Portuguese and German. In the midst of this linguistic and intellectual diversity, a stocky stone figure with large eyes, surrounded by toy money notes, sweets, cigarettes and books about a Swiss explorer – devotional items for a replica of Ekeko, the god of fortune and prosperity of Bolivia’s Aymara people. The figure is meant to bring luck to Bartoletti’s research during his two years of postdoctoral studies at ETH Zurich. At the same time, it is very much part of his research.

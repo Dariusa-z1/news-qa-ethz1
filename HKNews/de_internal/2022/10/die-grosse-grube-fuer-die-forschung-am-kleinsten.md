@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/10/die-grosse-grube-fuer-die-forschung-am-kleinsten.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In wenigen Tagen geht es los: Zwischen den Gebäuden HIL und HIT beginnen die Bagger mit dem Voraushub für eines der aktuell grössten und komplexesten Bauprojekte der ETH Zürich, das neue Physikgebäude mit dem Kürzel HPQ. Darin werden einst hochsensible Physikexperimente stattfinden, die möglichst keinen Umwelteinflüssen ausgesetzt sein dürfen. Die Labore für die empfindlichsten Experimente kommen deshalb sechs Stockwerke tief unter der Erde zu liegen.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/07/first-atlas-on-oceanic-plankton.html
 
-**Date processed:** 2025-05-01
-
 ## From bacteria to small crustaceans
 
 Oceans cover 70 per cent of the earth's surface. The animal and plant species concealed within these vast expanses and almost fathomless depths have been researched relatively little in comparison with those of terrestrial ecosystems. To date, very little is known about the distribution of plankton — those organisms that are too small to swim against the ocean currents. In a large-scale project coordinated by researchers at ETH Zurich and the University of East Anglia (UK), scientists from numerous universities joined forces to make a survey of when and where which plankton species occur and to determine how much car-bon they absorb. At 500,000 locations across the globe, they collected data on the species diversity and biomass of plankton.

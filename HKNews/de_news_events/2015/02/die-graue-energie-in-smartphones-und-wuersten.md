@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/02/die-graue-energie-in-smartphones-und-wuersten.html
 
-**Date processed:** 2025-05-01
-
 ## Eine wahrlich globale Angelegenheit
 
 Die Debatte rund um die Volksinitiative dreht sich zu einem grossen Teil darum, ob diese sinnvoll ist oder nicht. Als Forscher im Bereich Energie und Umwelt mit Kenntnissen in Life Cycle Assessment (LCA, zu Deutsch Lebenszyklusanalyse oder Ökobilanz) fragte ich mich, wie man die vorgeschlagene neue Energiesteuer berechnen würde.

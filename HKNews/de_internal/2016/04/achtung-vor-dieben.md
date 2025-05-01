@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/04/achtung-vor-dieben.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 2015 wurden an der ETH Zürich 69 Diebstähle von Eigentum der ETH und Privateigentum verzeichnet. Aus diesem Anlass ruft die Abteilung Sicherheit, Gesundheit und Umwelt (SGU) in Erinnerung, wie wichtig es ist, Wertgegenstände vor dem Zugriff Dritter zu schützen, ein Portemonnaie nicht offen auf dem Bürotisch oder dem Mensa-Tablett liegen zu lassen. Auch verschlossene Türen und Fenster erschweren Dieben ihr Handwerk. Ein Diebstahl verursacht immer Aufwand, der sich in manchem Fall durch Prävention vermeiden lässt.

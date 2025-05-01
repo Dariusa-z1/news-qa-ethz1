@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/06/doing-nothing-is-not-an-option.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Jan and Zeljko, did you volunteer for the rETHink project, or were you approached first? Zeljko: First I received an enquiry, and then I volunteered – so “yes” on both counts!

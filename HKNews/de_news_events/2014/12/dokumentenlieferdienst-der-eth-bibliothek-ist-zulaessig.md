@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/12/dokumentenlieferdienst-der-eth-bibliothek-ist-zulaessig.html
 
-**Date processed:** 2025-05-01
-
 ## Handelsgericht folgte Argumentation der Kläger
 
 Die Beschaffung und Bereitstellung von Informationen aller Art sowie deren Erschliessung und kundengerechte Präsentation gehört traditionell zum Kerngeschäft jeder wissenschaftlichen Bibliothek. Zu diesen Aufgaben gehört auch der Versand von Kopien und Scans wissenschaftlicher Aufsätze.

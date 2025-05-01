@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/10/eth-bibliothek-uebernimmt-publikationsgebuehren-beim-open-access-verlag-copernicus.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The condition is that the corresponding author of the article concerned is employed by ETH Zurich.

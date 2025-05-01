@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/10/renewed-article-search-on-the-knowledge-portal.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 This results in the following changes in the second search tab "Articles and more" on the Knowledge Portal:

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/02/valentinstag.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Jiayi und Chris haben sich vor zehn Jahren in der Asia Mensa im CLA-Gebäude kennengelernt und zwei Jahre später ihr ETH-Studium am Departement Management, Technologie und Ökonomie abgeschlossen. Heute arbeiten beide in Zürich und sind stolze Eltern eines kleinen Sohnes.

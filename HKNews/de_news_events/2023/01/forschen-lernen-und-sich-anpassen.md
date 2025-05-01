@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/01/forschen-lernen-und-sich-anpassen.html
 
-**Date processed:** 2025-05-01
-
 ## Wetterfrosch aus der Maschine
 
 Im Herbst 2014 brach auf Island der Vulkan Holuhraun aus und schleuderte täglich bis zu 120'000 Tonnen Schwefeldioxid in die Luft. Über der sonst fast unberührten Gegend bildete sich in der Atmosphäre eine gewaltige Fahne aus winzigen Partikeln, sogenannten Aerosolen – ein berüchtigter Luftschadstoff. Der Vulkanausbruch war der Start für ein natürliches Experiment, bei dem Klimaforschende untersuchen konnten, wie sich der plötzliche Anstieg des Feinstaubs auf die Wolken auswirkte. «Da Aerosole die Bildung von Wolkentröpfchen fördern können, sind sie ein wichtiger Faktor bei der Vorhersage des Klimawandels, aber wir wissen noch sehr wenig darüber», erklärt Yu Wang. Die 30-jährige Umweltwissenschaftlerin forscht seit September 2021 als ETH Fellow am Institut für Atmosphäre und Klima der ETH Zürich in der Gruppe von Ulrike Lohmann, Professorin für Atmosphärenphysik.

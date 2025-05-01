@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/04/informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-26-april-2021.html
 
-**Date processed:** 2025-05-01
-
 ## Locations and opening hours
 
 From Monday, 26 April 2021, the following opening hours apply:

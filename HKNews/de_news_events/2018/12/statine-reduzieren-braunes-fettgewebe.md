@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/12/statine-reduzieren-braunes-fettgewebe.html
 
-**Date processed:** 2025-05-01
-
 ## Bei Mäusen und Menschen
 
 Ein Teil der erwachsenen Menschen besitzen nicht nur weisses, sondern auch braunes Fettgewebe. Letzteres hilft, Zucker und Fett in Wärme zu verwandeln. Wer braunes Fettgewebe hat, kann seine Körperwärme im Winter besser regulieren und leidet weniger häufig an Übergewicht und an Diabetes.

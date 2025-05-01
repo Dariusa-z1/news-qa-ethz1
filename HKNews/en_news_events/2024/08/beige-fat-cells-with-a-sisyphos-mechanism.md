@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/08/beige-fat-cells-with-a-sisyphos-mechanism.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • A newly described type of beige fat cell consumes energy and generates heat by running biochemical processes back and forth, seemingly without purpose.

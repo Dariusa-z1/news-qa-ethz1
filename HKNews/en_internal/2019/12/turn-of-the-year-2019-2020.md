@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/12/turn-of-the-year-2019-2020.html
 
-**Date processed:** 2025-05-01
-
 ## Reduced services
 
 For the period from Tuesday, 24 December 2019 up to and including Sunday, 5 January 2020 , special ETH Zurich opening times and operational hours apply. Buildings may still be accessed with a key or ETH card. All customer desks will be closed at the turn of the year and cannot be reached by telephone or electronic means.

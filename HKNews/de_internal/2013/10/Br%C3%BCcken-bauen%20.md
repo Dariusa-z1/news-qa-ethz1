@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2013/10/Br%C3%BCcken-bauen%20.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Arnaud Monnard

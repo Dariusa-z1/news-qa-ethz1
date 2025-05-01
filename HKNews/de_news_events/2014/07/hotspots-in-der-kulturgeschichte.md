@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/07/hotspots-in-der-kulturgeschichte.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Ein umfangreicher Datensatz mit Geburts- und Sterbeorten von namhaften Kulturschaffenden reicht aus, um mit statistischen Methoden die kulturelle Bedeutung und Interaktion von Orten in Europa und Nordamerika über 2000 Jahre hinweg zu berechnen. Das zeigt eine siebenköpfige Forschergruppe der ETH Zürich, der Northeastern University in Boston und der University of Texas at Dallas in einem Artikel der aktuellen Ausgabe von «Science». Der Erstautor Maximilian Schich, promovierter Kunsthistoriker, leitete das umfangreiche Projekt in der Gruppe von Dirk Helbing, Professor für Soziologie mit den Schwerpunkten Modellierung und Simulation an der ETH Zürich.

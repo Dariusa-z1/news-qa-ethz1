@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/01/perlmutt-imitat.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Materialwis­senschaft­ler, geleitet von André R. Studart, entwickelten so einen Verbundwerkstoff, der äusserst steif, stark und belastbar ist.

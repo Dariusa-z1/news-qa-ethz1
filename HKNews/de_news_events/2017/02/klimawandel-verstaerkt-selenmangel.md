@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/02/klimawandel-verstaerkt-selenmangel.html
 
-**Date processed:** 2025-05-01
-
 ## Niederschläge beeinflussen Selenkonzentration
 
 Selen ist ein unverzichtbares Spurenelement, das wir über die Nahrung, beispielsweise über Getreide, aufnehmen. Der Selengehalt von Nahrungsmitteln hängt stark von der Selenkonzentration im Boden ab. Studien zeigten, dass die Selenkonzentration tiefer ist, wenn der pH-Wert und die Sauerstoffverfügbarkeit hoch und der Anteil an Ton und organischem Kohlenstoff im Boden tief sind. In Europa finden sich selenarme Böden vor allem in Deutschland, Dänemark, Schottland, Finnland und einigen Balkanländern. Dies weiss man aufgrund von regionalen Untersuchungen.

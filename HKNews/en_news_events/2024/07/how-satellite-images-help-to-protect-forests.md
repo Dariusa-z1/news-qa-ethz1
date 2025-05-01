@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/07/how-satellite-images-help-to-protect-forests.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Hundreds of satellites orbit the Earth each day and record thousands of images of our planet. These huge quantities of data serve as the basis for various purposes such as weather forecasts and monitoring ocean pollution and the expansion of populated areas. However, the data have to be analysed and interpreted. This is where ETH spin-off askEarth comes in: the company facilitates access to satellite images and makes them easily readable, with the focus placed on environmental and climate monitoring.

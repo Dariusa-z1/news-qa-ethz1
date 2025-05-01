@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/05/archive-fuer-alle.html
 
-**Date processed:** 2025-05-01
-
 ## Veranstaltungen
 
 • Dienstag, 07. Juni 2022, 18.15 Uhr: Osteuropa im ETH-​Archiv (Führung im Hochschularchiv der ETH Zürich)

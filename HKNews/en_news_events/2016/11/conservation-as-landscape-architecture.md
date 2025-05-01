@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/11/conservation-as-landscape-architecture.html
 
-**Date processed:** 2025-05-01
-
 ## Learning from landscape architects
 
 Climate change, urban sprawl, biodiversity loss: in 50 years the Swiss landscape will be very different. Nature conservationists find this hard to accept. They dream of bygone days – of an uninhabited wilderness or the traditionally cultivated landscape of the 19th century. This is a dangerous mindset. If we want to influence the design of the landscapes of tomorrow, we have to risk seeing them in a new light.

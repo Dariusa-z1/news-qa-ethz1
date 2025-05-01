@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/07/imaging-the-brain-with-ultrasound-waves.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Both ultrasound for medical imaging and seismology for imaging the Earth's interior measure the propagation of waves through matter. For example, when seismic waves encounter material differences in the Earth's interior, such as between different rock formations, they are reflected and refracted at their interfaces. As a result, the speed of the waves changes. If researchers measure these waves at the surface, they can draw conclusions about the structure of the Earth's interior, as well as the composition of the rocks and their material properties such as density, pressure or temperature.

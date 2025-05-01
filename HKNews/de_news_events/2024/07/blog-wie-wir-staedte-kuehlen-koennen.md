@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/07/blog-wie-wir-staedte-kuehlen-koennen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wir sind in den Sommermonaten häufiger heftigen Hitzewellen ausgesetzt. Immer mehr Menschen werden sich dessen bewusst, Stadtbewohnende noch mehr als andere. Der Wärmeinseleffekt macht städtische Agglomerationen anfälliger für extreme Hitze als ländliche Gebiete. Denn mit Asphalt und Beton versiegelte Flächen heizen sich tagsüber stärker auf als Grünflächen. Hinzu kommt, dass menschliche Aktivitäten wie Verkehr und Industrie in Städten mehr Wärme erzeugen. Die nächtliche Abkühlung ist in Städten hingegen geringer, da die Wärmestrahlung in den Himmel durch die Gebäude stärker abgeschirmt wird.

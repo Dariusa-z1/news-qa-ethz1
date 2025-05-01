@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/11/ein-tag-im-zeichen-der-forschungsfoerderung.html
 
-**Date processed:** 2025-05-01
-
 ## Ein gutes Verhältnis
 
 Wer eine wissenschaftliche Laufbahn einschlägt, muss Vieles beachten: internationale Mobilität und Vernetzung etwa sind sehr wichtig und ebenso, neue Forschungsthemen zu erkennen und eigenständig Projekte umzusetzen. Der Weg an die Spitze, sprich: zur Professur, ist jedoch steil und sehr selektiv. Nicht alle von ihnen schaffen es bis zu einer eigenen Professur.

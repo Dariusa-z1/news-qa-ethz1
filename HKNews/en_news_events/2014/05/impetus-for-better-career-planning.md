@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/05/impetus-for-better-career-planning.html
 
-**Date processed:** 2025-05-01
-
 ## “ETH plays a pioneering role”
 
 On Wednesday, the Federal Council published its long-awaited report on promoting young talent at Swiss universities, in which it assesses the current situation, offers recommendations for research institutions and proposes measures to be taken. In the report, the government emphasises how important the universities and young scientists are for innovation and competitiveness in Switzerland.

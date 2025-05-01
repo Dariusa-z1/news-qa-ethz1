@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/09/brain-food-fuer-wissenshungrige.html
 
-**Date processed:** 2025-05-01
-
 ## Aktuelles aus Grundlagenforschung
 
 Das Eidgenössische Polytechnikum, wie die ETH in ihren frühen Jahren hiess, räumte den Agrarwissenschaften schon immer eine wichtige Rolle ein. Die Hochschule sah sich nicht nur als Denkmotor einer aufstrebenden Schweizer Industrie, sondern auch als Forschungsanstalt einer wichtigen, nationalen Land- und Forstwirtschaft.

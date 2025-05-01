@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/10/garage-in-the-main-building-of-eth-zurich-reopens.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The parking garage in the main building of ETH Zurich will open its doors again on 7 November 2022. The garage was under renovation since summer 2021. This work has improved both traffic routing and orientation for users, with barrier-free access guaranteed throughout.

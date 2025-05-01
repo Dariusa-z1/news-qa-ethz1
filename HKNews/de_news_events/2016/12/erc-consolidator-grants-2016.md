@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/12/erc-consolidator-grants-2016.html
 
-**Date processed:** 2025-05-01
-
 ## Horizon 2020 hat positiven Effekt
 
 Drei Projekte von Forschern der ETH Zürich wurden aufgrund ihrer Exzellenz mit einem ERC Consolidator Grant ausgezeichnet. Bei den Projekten, die je mit bis zu zwei Millionen Schweizer Franken gefördert werden, geht es unter anderem um die Sicherheit drahtloser digitaler Netzwerke, partielle Differenzialgleichung und sogenannte Frequenzkämme (siehe Kurzbeschreibungen). Detlef Günther, Vizepräsident für Forschung und Wirtschaftsbeziehungen freut sich über die Auszeichnung des Europäischen Forschungsrats: «Das sind grossartige Forschungsprojekte, welche auf ihrem Gebiet entscheidende Grundlagen schaffen. Die Auszeichnung und die Förderung sind deshalb sehr verdient.»

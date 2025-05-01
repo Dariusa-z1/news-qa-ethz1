@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/06/opioide-auch-in-der-schweiz-auf-dem-vormarsch.html
 
-**Date processed:** 2025-05-01
-
 ## Verkaufszahlen steigen an
 
 Die Opioid-Krise hält die USA seit Anfang der 2000er-Jahre in Atem, und die Corona-Pandemie hat die Situation noch verschärft. 2021 starben dort mehr als 100'000 Menschen an einer Opioid-Überdosis. Allmählich mehren sich die Anzeichen, dass es auch Europa mit einer Opioid-Krise zu tun bekommt. Erste Studien aus den Niederlanden und Dänemark machten auf den wachsenden Gebrauch von Oxycodon, ein starkes Opioid, aufmerksam. Dieser Wirkstoff, der ursprünglich unter dem Namen Oxycontin verkauft wurde, war ein wichtiger Treiber der Opioid-Krise in den USA.

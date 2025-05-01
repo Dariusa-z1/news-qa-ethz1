@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/05/auf-dem-weg-nach-paris-wo-stehen-wir.html
 
-**Date processed:** 2025-05-01
-
 ## Die Staaten und ihre Zusagen in Form von INDCs
 
 Die lieben Klimakonferenzen – das mediale Interesse ist nach vielen Jahren der ewig gleichen Meldungen (viele Demonstranten, keine Erfolge) definitiv abgeflaut. Ausserhalb des internen Kreises weiss darum auch kaum jemand: Der Konferenz vom kommenden Dezember in Paris wird ähnlich viel Bedeutung zukommen wie der COP 15 in Kopenhagen 2009. Es steht also viel auf dem Spiel – ein erneutes Scheitern könnte sogar das Ende der globalen Klimakonferenzen bedeuten. Man hört und liest bisweilen aber wenig. Das ist vielleicht auch gut so, denn übermässiges Medieninteresse schürt vor allem die Erwartungen. Und das macht es noch schwieriger, einen Kompromiss zu finden.

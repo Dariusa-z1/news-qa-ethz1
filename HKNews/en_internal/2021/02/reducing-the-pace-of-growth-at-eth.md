@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/02/reducing-the-pace-of-growth-at-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Growth on all levels
 
 It is important to note up front that ETH Zurich’s financial health continues to be fundamentally sound, underpinned by a solid equity base. However, it remains true that the university has expanded tremendously in recent years, and our financial commitments have grown accordingly.

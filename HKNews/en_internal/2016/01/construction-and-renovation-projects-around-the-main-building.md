@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/01/construction-and-renovation-projects-around-the-main-building.html
 
-**Date processed:** 2025-05-01
-
 ## Exhibition in the main hall
 
 A variety of construction and renovation projects are planned for the main building over the coming months and years. The Real Estate department will be holding an information session to present future projects for the main building and explain their next steps. The event will take place in the Audi Max auditorium (HG F 30) on 11 January, 2016 from 4 to 4:45 pm.

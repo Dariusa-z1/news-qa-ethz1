@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/01/research-collection-punktet-auch-2021-mit-relevanz-und-in-zahlen.html
 
-**Date processed:** 2025-05-01
-
 ## Breaking records
 
 Last year, we reported that we had set a new record for article downloads in 2020. And we are doing the same this year – the total number of downloads in 2021 increased by 36% (almost 290,000 downloads) compared to 2020. Of course, one reason for this increase is the fact that the amount of open-access records available in the Research Collection grows every year. In fact, 2021 was the first year that the percentage of open-access records was higher than that of metadata records. We are only missing 3% to get to 50% for 2020 – and we would really appreciate it if you could help us reach that figure by uploading your full texts.

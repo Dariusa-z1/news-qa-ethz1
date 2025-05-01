@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/05/wie-sehnen-steifer-und-staerker-werden.html
 
-**Date processed:** 2025-05-01
-
 ## Genvariante mit überschiessender Reaktion
 
 Sehnen verbinden die Muskeln mit den Knochen. Sie sind verhältnismässig dünn, müssen aber gewaltige Kräfte aushalten. Sind die Sehnen leicht elastisch, können sie hohe Belastungen wie zum Beispiel einen Stoss aufnehmen ohne dabei zu reissen. In Sprint- und Sprung-betonten Sportarten sind allerdings steife Sehnen ein Vorteil, denn sie übertragen die in den Muskeln entfalteten Kräfte direkter auf die Knochen. Entsprechendes Training führt denn auch zu einer optimalen Versteifung der Sehnen.

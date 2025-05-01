@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/06/field-phenotyping-platform-eingeweiht.html
 
-**Date processed:** 2025-05-01
-
 ## Inspiriert durch Fussball-Übertragung
 
 Schon von der Strasse aus sind die Masten sichtbar, die auf dem Areal des agrarwissenschaftlichen Forschungsbetriebs der ETH Zürich in Lindau-Eschikon (ZH) stehen. Man fragt sich unweigerlich: Wozu sind diese da? Forschende der Gruppe für Kulturpflanzenwissenschaften der ETH Zürich haben das Geheimnis der Türme gelüftet: Am Freitag, 10. Juni, weihten sie mit einer kleinen Feier ihre Feldphänotypisierungsanlage ein. Damit geht die weltweit erste derartige Anlage in Betrieb.

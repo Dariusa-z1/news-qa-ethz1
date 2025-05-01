@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/11/ueberraschend-ein-neues-teilchen-entdeckt.html
 
-**Date processed:** 2025-05-01
-
 ## Suche nach neuen Materialeigenschaften
 
 Als der ETH-Professor Hermann Weyl im Herbst 1928 eine einjährige Gastprofessur im amerikanischen Princeton antrat, hatte der Quantenphysiker Paul Dirac kurz zuvor seine berühmte Gleichung für das Elektron veröffentlicht. Diese Formel beschrieb die Eigenschaften von sogenannten Fermionen, Quantenteilchen mit halbzahligem Spin, und läutete durch ihre Vorhersagen – unter anderem von Antimaterie – das Zeitalter der modernen Teilchenphysik ein. Weyl erkannte, dass Diracs Gleichung im Prinzip auch Lösungen für Teilchen zuliess, die keine Masse haben. 1929 veröffentlichte er einen Artikel, in dem er diese masselosen Teilchen mit halbzahligem Spin beschrieb. Später wurden sie als «Weyl-Fermionen» bezeichnet.

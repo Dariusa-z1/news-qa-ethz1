@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/09/covid-19-faelle-an-der-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die ETH Zürich unternimmt grosse Anstrengungen, damit ihre Angehörigen möglichst gesund durch die Coronapandemie kommen. Dennoch lassen sich Ansteckungen nicht komplett vermeiden. Katherine Timmel, Leiterin der Abteilung Sicherheit, Gesundheit und Umwelt (SGU) und ihr Stellvertreter Reto Suter sind in der ETH-Covid-Taskforce. Gemeinsam mit anderen SGU-Teammitgliedern bilden sie den Dreh- und Angelpunkt, wenn ETH-Angehörige ein positives Testresultat erhalten. Sie geben einen Einblick in ihre Arbeit und benennen den aktuellen Stand der bisher positiv getesteten ETH-Angehörigen.

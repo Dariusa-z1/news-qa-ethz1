@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/05/energiesicherheit-in-einer-klimaneutralen-schweiz.html
 
-**Date processed:** 2025-05-01
-
 ## Das Wichtigste in Kürze
 
 • Ein neues Whitepaper des Energy Science Center (ESC) beurteilt das Schweizer Netto-Null-Ziel 2050 im Lichte der Energiesicherheit.

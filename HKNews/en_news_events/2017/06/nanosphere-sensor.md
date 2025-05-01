@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/06/nanosphere-sensor.html
 
-**Date processed:** 2025-05-01
-
 ## Nanosphere in a laser beam
 
 A tiny sphere and a laser beam inside of which it hovers as if by magic – with these simple ingredients Martin Frimmer and co-workers at the Photonics Laboratory of ETH Zurich have developed a highly sensitive sensor. In the future this device is expected to measure, amongst other things, extremely weak forces or electric fields very precisely. Now the researchers have taken a major step in that direction, as they write in a recently published scientific paper.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/06/sichere-intubation-dank-kuenstlicher-intelligenz-und-robotik.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Eine erfolgreiche Intubation der Luftröhre kann Leben retten. Doch immer wieder kommt es dabei zu Komplikationen, denn der Eingriff ist anspruchsvoll und erfordert viel Erfahrung. aiEndoscopic, ein Spin-off der ETH Zürich, der Universität Zürich und des Universitätsspitals Zürich, hat nun ein Gerät entwickelt, das Intubieren in Zukunft einfacher und sicherer machen soll.

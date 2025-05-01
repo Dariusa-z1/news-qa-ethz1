@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/03/the-sun-is-set-to-go-dark-on-friday.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 People in Switzerland will be able to see a celestial spectacle this Friday morning between 9.20 and 11.45 a.m. – provided the weather cooperates, of course. The forecasts are good, but high fog could spoil the show for spectators.

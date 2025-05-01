@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/04/a-hymn-to-nature.html
 
-**Date processed:** 2025-05-01
-
 ## Prompted by a visit to the rainforest
 
 Mysterious shadowy plants, velvety ferns and delicate tendrils: the Collection of Prints and Drawings at ETH Zurich contains more than one hundred works of art by Mireille Gros (born in 1954). The exhibition, entitled «Ouvrir les archives» («Opening up the archives»), presents an overview of pieces by the artist which have been collected over the past twenty years. These include not only prints, but also drawings and artist’s books.

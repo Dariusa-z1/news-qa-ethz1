@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/05/medical-engineering-block-course-wins-prize-for-innovative-teaching.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Developed and produced in-house, the exoskeleton gripper hand takes a firm hold. This is the moment when the ETH medical students experience first-hand how their system works – and that their theoretical knowledge can be put to practical use.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/08/a-change-of-perspective.html
 
-**Date processed:** 2025-05-01
-
 ## The impact of species loss
 
 The CHN building on the ETH Zentrum campus is generally a hive of activity, with researchers writing papers and students working on assignments between lectures. Equally buzzing is the basement of the Department of Environmental System Sciences, where some 50 young bumblebee queens are busy establishing new colonies in a climate chamber. On hand to monitor this process is Sarah Richman, an ecologist from the Plant Ecology group led by Janneke Hille Ris Lambers.

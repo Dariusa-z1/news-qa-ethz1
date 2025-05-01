@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/01/neue-townhall-serie-die-bedeutung-von-physischer-fitness-fuer-das-wohlbefinden.html
 
-**Date processed:** 2025-05-01
-
 ## Aufzeichnung Townhall vom 28. Januar 2021
 
 Die physische Fitness ist massgeblich für das Wohlbefinden – besonders in Coronazeiten, in denen wir uns im Homeoffice vornehmlich digital bewegen. Diesen Umstand nahm Julia Dannath zum Anlass, Strategien aufzuzeigen, wie man als ETH-Angehöriger seine physische Fitness steigern kann. So kann körperliche Betätigung einen Ausgleich zum Büroalltag bieten und stressabbauend wirken. Aber auch bewusste Erholungsphasen sind Teil der physischen Fitness. Funktioniert das Zusammenspiel von Hirn, Körper und Seele, so kann dies einen positiven Effekt auf die geistige Leistungsfähigkeit ausüben.

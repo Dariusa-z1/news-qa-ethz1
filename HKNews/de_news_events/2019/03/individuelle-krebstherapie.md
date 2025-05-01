@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/03/individuelle-krebstherapie.html
 
-**Date processed:** 2025-05-01
-
 ## Übereinstimmung von Immunzellen und Tumor
 
 Zellen des körpereigenen Immunsystems können helfen, Tumore zu bekämpfen. So können Onkologen seit einigen Jahren T-Zellen mit Medikamenten – sogenannten Checkpoint-Inhibitoren –dazu anzuregen, Tumorzellen zu eliminieren. Letztes Jahr wurden die beiden Entdecker dieses Therapieansatzes mit dem Medizin-Nobelpreis geehrt.

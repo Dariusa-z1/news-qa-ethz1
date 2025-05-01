@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/02/wachstums-entschleunigung-fuer-die-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Wachstum auf allen Ebenen
 
 Ein wichtiger Punkt vorneweg: Die ETH Zürich ist finanziell nach wie vor gesund aufgestellt und verfügt über eine solide Eigenkapitalbasis. Fakt ist aber auch, dass die Hochschule in den letzten Jahren stark gewachsen ist und entsprechende finanzielle Verpflichtungen aufgebaut hat.

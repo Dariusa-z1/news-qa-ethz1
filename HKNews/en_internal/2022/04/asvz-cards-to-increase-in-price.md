@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/04/asvz-cards-to-increase-in-price.html
 
-**Date processed:** 2025-05-01
-
 ## New membership fees from autumn/new year
 
 • For students: new rate from autumn semester 2022 CHF 35 per semester (currently: CHF 30)

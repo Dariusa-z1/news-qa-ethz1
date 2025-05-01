@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/03/suedafrika-delegation-besucht-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Jens Kossmann, Direktor des externe Seite Institutes für Pflanzenbiotechnologie an der Stellenbosch University und Samuel Zeeman, Leiter der Gruppe für Pflanzenbiochemie an der ETH Zürich erklären im ETH-News-Interview, was eine fruchtbare Kooperation über 10'000 Kilometer hinweg ausmacht.

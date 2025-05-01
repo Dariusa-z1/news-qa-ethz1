@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/09/die-covid-zertifikatspflicht-ist-nicht-diskriminierend.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 (Foto: ETH Zürich)

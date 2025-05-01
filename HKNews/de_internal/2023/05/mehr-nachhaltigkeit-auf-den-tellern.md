@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/05/mehr-nachhaltigkeit-auf-den-tellern.html
 
-**Date processed:** 2025-05-01
-
 ## Die Caterer auf dem Campus sind auf Kurs
 
 Die ETH Zürich will auf ihrem Campus nachhaltig handeln und bis 2030 ihre Treibhausgasemissionen um mindestens 50 Prozent reduzieren. Eine wichtige Rolle spielt dabei die Ernährung. Schon länger arbeiten ETH Sustainability und die Sektion Partnerorganisationen mit den Cateringunternehmen SV Group und Compass Group zusammen, um die Restaurants auf dem Campus klimafreundlicher zu machen. Seit Anfang 2022 verstärken sie ihr Engagement im dreijährigen Projekt Nachhaltige Gastronomie . Dieses hat das «Klimaprogramm Gastronomie der ETH» abgelöst und verfolgt das Ziel, die Verpflegung an der ETH Zürich ganzheitlich nachhaltiger zu gestalten.

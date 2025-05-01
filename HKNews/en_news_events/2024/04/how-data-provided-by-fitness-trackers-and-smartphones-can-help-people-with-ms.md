@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/04/how-data-provided-by-fitness-trackers-and-smartphones-can-help-people-with-ms.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • To manage multiple sclerosis (MS) and present the patient with suitable treatment options, physicians must have reliable information about that person’s symptoms and how the disease is progressing.

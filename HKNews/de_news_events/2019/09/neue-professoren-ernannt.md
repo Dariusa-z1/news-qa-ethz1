@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/09/neue-professoren-ernannt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Alle vom ETH-Rat auf Antrag von ETH-Präsident Joël Mesot ernannten, respektive beförderten Persönlichkeiten haben sich auf ihrem Gebiet bereits einen Namen gemacht.

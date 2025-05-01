@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/12/countries-benefit-when-they-learn-from-each-other.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 SARS-CoV-2 has spread around the world. However, the course of the pandemic and how individual countries deal with it differ. In a sense, the pandemic could thus be seen as a huge (and unfortunate) scientific experiment repeated dozens of times, with variations. A wealth of information is inherent in this repetition. Individual countries should take advantage from this by sharing information and learning from each other.

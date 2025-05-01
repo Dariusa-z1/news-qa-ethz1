@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/07/visualising-muscle-disease.html
 
-**Date processed:** 2025-05-01
-
 ## Targeting the cannabis receptor
 
 Many people will remember the Ice Bucket Challenge back in the summer of 2014. This social media campaign helped patient support groups to promote public awareness of the rare, but debilitating and incurable muscle disease, amyotrophic lateral sclerosis (ALS). The challenge involved one person nominating three others through social media, creating a snowball effect, to make a financial donation to an ALS support group, or – as a forfeit – to pour a bucket of ice-cold water over their heads. This action was supposed to give participants a brief insight into one of the symptoms experienced by someone suffering from degenerative muscle disease.

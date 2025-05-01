@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/10/finding-your-way-through-difficult-times.html
 
-**Date processed:** 2025-05-01
-
 ## Ask for advice early on
 
 Markus T.* doesn't know what to do. The young scientist is using a laboratory at ETH for his doctoral work. He has been going there almost every day for over a year now. He enjoys his work, and to begin with he feels that he fits in well at the lab. When a set of samples is rendered unusable due to carelessness on Markus’s part, it takes a lot of extra effort from the research group to rectify the damage.

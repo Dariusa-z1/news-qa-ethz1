@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/03/hv-befasst-sich-mit-leitbild-entwurf-und-neuem-studiengang.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 An ihrer Plenarversammlung vom 12. März 2015 befasste sich die HV unter anderem:

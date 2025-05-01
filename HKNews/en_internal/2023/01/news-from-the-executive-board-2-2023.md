@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2023/01/news-from-the-executive-board-2-2023.html
 
-**Date processed:** 2025-05-01
-
 ## Email services will in future be in the cloud
 
 The Executive Board has therefore decided in future to use Microsoft’s “Exchange Online”. This means that data from emails, calendars, contact lists and the like will in future be stored and processed on Microsoft cloud infrastructure in Switzerland. This migration offers a number of advantages:

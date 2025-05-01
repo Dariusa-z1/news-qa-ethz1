@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/05/do-it-yourself-windturbine-fuer-entwicklungslaender.html
 
-**Date processed:** 2025-05-01
-
 ## Bambus und Holz als Werkstoffe
 
 Elektrischer Strom eröffnet Menschen sowohl soziale als auch wirtschaftliche Perspektiven: Man kann Strassen, Schulen und Spitäler beleuchten, Nahrungsmittel und Medikamente kühlen, leichter kommunizieren und neue Marktmöglichkeiten erschliessen. Doch die Stromversorgung in Entwicklungsländern ist häufig fragil und umweltbelastend – oder gar nicht existent. Und in Industrieländern bestehende Anlagen zur Nutzung erneuerbarer Energiequellen sind für Entwicklungsländer oft wirtschaftlich nicht tragbar. Mit einer massgeschneiderten Low-Tech-Windturbine zum Selberbauen wollen wir den Menschen vor Ort ermöglichen, sich mit nachhaltig produzierter Energie selbst zu versorgen.

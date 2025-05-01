@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/01/innovedum-launches-focal-point-themes.html
 
-**Date processed:** 2025-05-01
-
 ## 1st focal point theme: “Interactive teaching which fosters personal responsibility”
 
 • Focal point projects can apply for up to 60,000 Swiss francs in funding. Their applications are examined in a fast-track assessment process.

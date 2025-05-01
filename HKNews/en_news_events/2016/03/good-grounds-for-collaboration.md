@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/03/good-grounds-for-collaboration.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Mr Kossmann, Mr Zeeman, before we delve into your collaboration, could you briefly explain what the research itself deals with? Zeeman: Above all, I’m interested in how plants convert carbon dioxide into starch and sugar. We’re trying to better understand the metabolism and biochemical processes of plants, so that we can optimise them – for example, in harvesting crops.

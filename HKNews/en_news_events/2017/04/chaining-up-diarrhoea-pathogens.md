@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/04/chaining-up-diarrhoea-pathogens.html
 
-**Date processed:** 2025-05-01
-
 ## Agglutination only in the test tube
 
 Vaccinations are known to protect against pathogens such as bacteria or viruses. They direct the body to form protective antibodies (IgA), and have been successfully used against some intestinal infections.

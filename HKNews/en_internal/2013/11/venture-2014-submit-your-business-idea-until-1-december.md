@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2013/11/venture-2014-submit-your-business-idea-until-1-december.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The ten best proposals will be awarded CHF 2,500 each. In a second phase, the authors of the best business plans will be invited to present them to the jury. In this phase, the total prize money is at least CHF 125,000.

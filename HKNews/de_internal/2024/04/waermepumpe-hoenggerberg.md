@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/04/waermepumpe-hoenggerberg.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Im Herbst 2023 haben die Abteilungen Immobilien, Facility Services und Engineering & Systeme im Untergeschoss des HEZ-Gebäudes auf dem Campus Hönggerberg eine grosse Kältemaschine/Wärmepumpe in Betrieb genommen. Der thermodynamische Kreislaufprozess funktioniert dabei prinzipiell gleich, unabhängig davon, ob Kälte und/oder Wärme produziert wird (siehe Kasten "Wärmepumpe einfach erklärt").

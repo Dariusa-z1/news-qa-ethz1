@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/02/pharmabiome.html
 
-**Date processed:** 2025-05-01
-
 ## Transplants come with risks
 
 Around 500 different types of bacteria live in our intestines. They help us to digest food by breaking down large molecules such as dietary fibres into smaller units that enter the bloodstream and provide our body with nutrients and energy. Together, these microorganisms form a complex and finely tuned ecosystem, in which each type of bacteria plays a specific role.

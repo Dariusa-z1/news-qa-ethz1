@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/03/angela-merkel-cebit-eth-zurich-stand.html
 
-**Date processed:** 2025-05-01
-
 ## Close ties with Germany
 
 A visit to CeBIT in Hannover is an annual fixture for German Chancellor Angela Merkel, just as the Olma trade fair in St Gallen is for Swiss President Johann Schneider-Ammann. After all, CeBIT is the largest and most important computer trade fair in the world. Exhibitors are here to show how our society and economy of the future could be shaped by digitalisation. As CeBIT’s partner country this year, Switzerland had 2,700 m 2 in which to present its innovations in the ICT sector.

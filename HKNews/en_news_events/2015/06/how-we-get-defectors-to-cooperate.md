@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/06/how-we-get-defectors-to-cooperate.html
 
-**Date processed:** 2025-05-01
-
 ## Everyone thinks someone else will do it
 
 Picture a lake with several factories located on or close to its shores. One of the companies secretly disposes of its hazardous waste nearby, from where it leaches into the lake and causes damage to the other companies’ operations. As the injured parties, the other companies could file a suit against the company that has committed the environmental violation, but doing so is associated with certain costs. Which of the companies will take it upon itself to act? It’s questions such as this that Andreas Diekmann, professor of sociology at ETH Zurich, has addressed in a social cooperation study conducted together with Wojtek Przepiorka from Utrecht University.

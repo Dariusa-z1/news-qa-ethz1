@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/02/nachhaltig-mobil-sein.html
 
-**Date processed:** 2025-05-01
-
 ## Wer, wenn nicht wir?
 
 «smart moves» ist Teil der mehrjährigen Sensibilisierungskampagne VBE , die aufzeigt, wie wir uns als ETH-Angehörige im Alltag noch energieeffizienter und ressourcenschonender verhalten können. Thematisch stand im vergangenen Jahr die nachhaltige Ernährung im Zentrum; 2023 dreht sich nun alles darum, wie wir noch nachhaltiger unterwegs und mobil sein können.

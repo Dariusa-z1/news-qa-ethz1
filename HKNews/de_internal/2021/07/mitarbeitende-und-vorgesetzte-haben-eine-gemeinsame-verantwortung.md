@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/07/mitarbeitende-und-vorgesetzte-haben-eine-gemeinsame-verantwortung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Lukas Vonesch, Leiter Abteilung Personal (Bild: ETH Zürich / Gian Marco Castelberg)

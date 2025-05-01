@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/09/weiter-bei-den-besten.html
 
-**Date processed:** 2025-05-01
-
 ## Auch in den anderen Ranglisten spitze
 
 Auch in der dritten grossen Universitätsrangliste in diesem Jahr, dem externe Seite World University Ranking von Times Higher Education, klassiert sich die ETH Zürich unter den besten Universitäten der Welt. Mit Rang elf verliert sie zwar einen Platz im Vergleich zum Vorjahr, ist aber weiterhin mit Abstand beste Hochschule Kontinentaleuropas. Vor ihr liegen ausschliesslich Spitzenhochschulen aus England und den Vereinigten Staaten. Angeführt wird das THE-Ranking auch 2018 von Oxford.

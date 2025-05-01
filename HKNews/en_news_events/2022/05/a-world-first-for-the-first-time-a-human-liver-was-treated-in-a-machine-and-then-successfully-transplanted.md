@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/05/a-world-first-for-the-first-time-a-human-liver-was-treated-in-a-machine-and-then-successfully-transplanted.html
 
-**Date processed:** 2025-05-01
-
 ## From poor to good in three days
 
 The Liver4Life research team owes its perfusion machine, which was developed in house, to the fact that it became possible to implant a human organ into a patient after a storage period of three days outside a body. The machine mimics the human body as accurately as possible, in order to provide ideal conditions for the human livers. A pump serves as a replacement heart, an oxygenator replaces the lungs and a dialysis unit performs the functions of the kidneys. In addition, numerous hormone and nutrient infusions perform the functions of the intestine and pancreas. Like the diaphragm in the human body, the machine also moves the liver to the rhythm of human breathing. In January 2020, the multidisciplinary Zurich research team – involving the collaboration of University Hospital Zurich (USZ), ETH Zurich and the University of Zurich (UZH) – demonstrated for the first time that perfusion technology makes it possible to store a liver outside the body for several days (see press release USZ of January13, 2020 ).

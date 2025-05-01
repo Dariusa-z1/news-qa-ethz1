@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/06/life-is-keeping-horizon-2020-in-sight.html
 
-**Date processed:** 2025-05-01
-
 ## Research in international teams
 
 Since Switzerland voted to curb immigration in February, it has been classed as a third country rather than an associated country in relation to Erasmus+ and Horizon 2020. Moreover, talks with the EU on what will happen next to the links between Swiss research and Europe are currently suspended.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/05/oxybromination-of-methane.html
 
-**Date processed:** 2025-05-01
-
 ## Complete bromine recycling
 
 The use of natural gas as a raw material for chemicals production is a goal pursued intensively in chemical research. Scientists working under Javier Pérez-Ramírez, Professor of Catalysis Engineering, have now succeeded in optimising a process which enables natural gas constituents to be upgraded into higher-value chemicals. “We take a molecule of the natural gas constituent methane (CH 4 ) and replace one of its hydrogen atoms with a bromine atom to form methyl bromide (CH 3 Br),” explains Pérez-Ramírez. “The latter can be used as a base material in the chemical industry for the production of fuels and a range of chemicals, such as polymers and pharmaceuticals.”

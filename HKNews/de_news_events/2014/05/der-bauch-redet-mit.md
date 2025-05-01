@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/05/der-bauch-redet-mit.html
 
-**Date processed:** 2025-05-01
-
 ## Furchtloser ohne Bauchgefühl
 
 Ein unbeleuchtetes, einsames Parkhaus bei Nacht, Schritte in der Dunkelheit. Das Herz schlägt schneller, der Magen zieht sich zusammen. Bedrohliche Situationen spüren wir oft im Bauch. Diesem sprichwörtlichen Bauchgefühl wollen Forschende zunehmend auf den Grund gehen, nachdem lange das Gehirn als Zentrum aller Emotionen galt.

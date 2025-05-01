@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/07/toxizitaetstest-mit-plazenta-und-embryo.html
 
-**Date processed:** 2025-05-01
-
 ## Chip mit unterschiedlichen Zellen
 
 Medikamente sollen nicht nur sicher sein für die Patientinnen und Patienten, sondern im Falle einer Schwangerschaft auch für das ungeborene Kind im Mutterleib. Bereits in einem frühen Stadium der Entwicklung neuer Medikamente werden Wirkstoffe daher in der Petrischale mit embryonalen Stammzellen aus Zelllinien von Mäusen getestet. Damit will man vermeiden, dass eine embryoschädigende Wirkung erst zu einem späteren Zeitpunkt bei Tierversuchen an trächtigen Mäusen bemerkt würde.

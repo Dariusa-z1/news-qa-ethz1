@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/01/no-stress-response-thanks-to-new-agent.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • The only way to block harmful stress responses to date has involved the use of a drug that is accompanied by a host of unwanted side effects.

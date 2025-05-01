@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/01/ein-bauingenieur-mit-blick-fuers-ganze.html
 
-**Date processed:** 2025-05-01
-
 ## Der Professor, der aus der Praxis kam
 
 Gross vorstellen muss man Thomas Vogel nicht. Man kennt ihn an der ETH – und auch ausserhalb der Hochschule. Vogel ist Spezialist für Baustatik und Stahlbetonkonstruktionen. Brückenbau ist sein engeres Gebiet. Er erforscht, was Tragwerke sicher und langlebig macht. Als Hochschullehrer hat er Generationen von Studierenden in die Kunst des konstruktiven In­ge­nieur­baus eingeführt. Stürzt irgendwo ein grösseres Bauwerk ein, klingelt Vogels Telefon. Seine Expertise ist in der Fachwelt und bei Medien gefragt.

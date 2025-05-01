@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/12/der-eth-treu-vor-und-nach-der-mutterschaftspause.html
 
-**Date processed:** 2025-05-01
-
 ## Seit acht Jahren am EducETH
 
 Wenn Susanne Schawalder auf ihre zehn Jahre an der ETH Zürich zurückblickt, fällt ihr vor allem ein Ereignis ein: die Vergabe des Chemie-Nobelpreises an den ETH-Professor Kurt Wüthrich im Jahr 2002. Sie war damals in der Kommunikation der ETH tätig, organisierte Events, suchte Ansprechpersonen für Journalisten, gab selbst auch Auskunft und unterstützte die ETH-Departemente bei Kommunikationsaufgaben. Dieser Tag stellte nun alles Bisherige in den Schatten. Im Minutentakt klingelte das Telefon: Radio, Fernsehen, Zeitungen wollten Antworten auf ihre vielen Fragen. «Wir waren richtig elektrisiert, so etwas hatte ich bis dahin nicht erlebt», erinnert sich Schawalder. Das änderte sich in den folgenden Wochen nur geringfügig. Der positive Hype um Kurt Wüthrich hielt an. «Der Traum jeder Hochschule und auch jeder Kommunikationsabteilung.»

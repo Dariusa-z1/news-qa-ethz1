@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2013/11/new-at-eth-zurich-joern-piel.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 What motivated you to come to ETH Zurich? Jörn Piel: I know no place where one could have better conditions for doing research. Particularly exciting is the possibility to conduct more intricate and innovative pioneer projects that exceed the usual setting of third-party-funded projects. Thanks to solid funding, this is possible.

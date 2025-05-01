@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/04/flexible-arbeitsplaetze-an-der-eth-pro-oder-contra.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Homeoffice wird auch nach der Corona-Krise für viele von uns zum Arbeitsalltag gehören. Damit verändern sich auch die Anforderungen an die Arbeitsinfrastruktur: Ungenutzte Arbeitsplätze im Büro könnten durch flexible Arbeitsplätze vermieden werden. Einige Grosskonzerne haben das sogenannte Desksharing bereits vor der Pandemie eingeführt, und auch an der ETH wird dieses Konzept künftig bei einigen Teams im neuen Gebäude «Octavo» getestet.

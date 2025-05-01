@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/07/soil-bugs-munch-on-plastic-films.html
 
-**Date processed:** 2025-05-01
-
 ## Soil microbes mineralise films composed of alternative polymer
 
 Our world is drowning in a flood of plastic. Eight million tons of plastic end up in the oceans every year. Agricultural soils are also threatened by plastic pollution. Farmers around the world apply enormous amounts of polyethylene (PE) mulch films onto soils to combat weeds, increase soil temperature and keep the soil moist, thereby increasing overall crop yields.

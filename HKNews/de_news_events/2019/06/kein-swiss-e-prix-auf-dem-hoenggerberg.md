@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/06/kein-swiss-e-prix-auf-dem-hoenggerberg.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der Campus Hönggerberg. (Bild: ETH Zürich / Alessandro Della Bella )

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/12/saeuren-helfen-gegen-viren-in-der-luft.html
 
-**Date processed:** 2025-05-01
-
 ## Wie werden Schwebeteilchen sauer?
 
 Viren wie SARS-CoV-2 oder das Grippevirus reisen quasi per Anhalter von Mensch zu Mensch: sie verbreiten sich in Aerosolen. Das sind fein verteilte, in der Luft schwebende flüssige Teilchen die eine infizierte Person beim Husten, Niesen oder einfach beim Ausatmen ausstösst und die von einer anderen eingeatmet werden.

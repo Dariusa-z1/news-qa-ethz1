@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/11/die-schweiz-und-horizon-europe-wie-weiter.html
 
-**Date processed:** 2025-05-01
-
 ## Das Problem der Übergangslösungen
 
 Die Schweiz riskiere ihre wissenschaftliche Stärke zu verlieren, wenn sie beim europäischen Forschungs- und Innovationsförderprogramm Horizon Europe nicht assoziiert werde, mahnte ETH-Präsident Joël Mesot kürzlich in der externe Seite Neuen Zürcher Zeitung . Auch Detlef Günther, Vizepräsident für Forschung, doppelte an einem von EU GrantsAccess organisierten Event zu diesem Thema nach: «Je länger die Schweiz von Horizon Europe ausgeschlossen ist, umso schwerwiegender sind die Konsequenzen für Forschung und Innovation in der Schweiz.» Betroffen vom Ausschluss sind nicht nur arrivierte Forschende, sondern besonders die Talente, die sich überlegen, ob sie nach Zürich kommen oder ihre Laufbahn in einem Land fortsetzen, das voll an Horizon Europe assoziiert ist und in dem man sich um europäisch evaluierte ERC Grants bewerben kann.

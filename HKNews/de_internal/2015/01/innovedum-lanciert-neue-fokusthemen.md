@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/01/innovedum-lanciert-neue-fokusthemen.html
 
-**Date processed:** 2025-05-01
-
 ## 1.     Fokusthema: «Interaktiver und die Eigenverantwortung fördernder Unterricht»
 
 • Fokusprojekte können Unterstützung bis 60 kFr. beantragen und werden in einem Schnellverfahren begutachtet.

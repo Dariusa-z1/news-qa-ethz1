@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/07/the-worlds-fastest-rotation.html
 
-**Date processed:** 2025-05-01
-
 ## Tweezers made of light
 
 Nothing in the world rotates faster than a tiny particle in a laboratory at the Institute for Photonics in Zurich.There, ETH professor Lukas Novotny and his collaborators have succeeded in manipulating a minuscule piece of glass only a hundred nanometres in size – a thousand times smaller than a hair – in such a way as to make it turn around its own axis more than a billion times a second. The scientists hope that their experiments will yield new insights into the stability of glass and other materials under extreme stress. The results of their research were recently published in the scientific journal Physical Review Letters .

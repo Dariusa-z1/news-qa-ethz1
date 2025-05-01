@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/04/webcast-aus-der-werkstatt-klimawandel-sichtbar-gemacht.html
 
-**Date processed:** 2025-05-01
-
 ## Schwieriges mediales Umfeld
 
 Die Berichte des Weltklimarats (IPCC) folgten Schlag auf Schlag: Nach Teil 1 im letzten September zu den physikalischen Grundlagen ( Blogbeitrag ) wurden in den letzten Wochen Teil 2 zu den Auswirkungen ( Blogbeitrag ) und Teil 3 zur Verminderung ( Blogbeitrag ) präsentiert. Mit Tausenden von Seiten braucht man Wochen, um das zu verdauen, und selbst die Zusammenfassungen sind trockene Kost: eine nüchterne Aneinanderreihung von Fakten und Zahlen, ohne Zweifel von ausgezeichneter Qualität und Vollständigkeit, für Laien jedoch wenig attraktiv und entsprechend schwer zugänglich.

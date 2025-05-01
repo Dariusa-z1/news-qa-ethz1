@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/06/rethink-digitalisierungsstrategie-der-verwaltung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Peter Müller, Sie leiteten die Arbeitsgruppe zur Erarbeitung einer Digitalisierungsstrategie und haben dazu die Verwaltung genau analysiert. Auf einer Skala von 1 bis 10: Wie gut steht die Verwaltung der ETH beim Thema Digitalisierung heute da? Peter Müller: Noten möchte ich keine vergeben, das war ja auch nicht unser Auftrag. Grundsätzlich steht die ETH bei der Digitalisierung gut da. In den vergangenen Jahren wurden die meisten zentralen Prozesse Schritt für Schritt digitalisiert. Die Pandemie hat das Ganze nochmals beschleunigt. Zudem sind ETH-Mitarbeitende offen gegenüber neuen Technologien. Dennoch gibt es etliche Verbesserungsmöglichkeiten, zum Beispiel bei der digitalen Unterstützung bereichsübergreifender Prozesse oder beim Einsatz neuer Technologien.

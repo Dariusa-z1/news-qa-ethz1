@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/02/think-ahead-critical-thinking-initiative.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 • Data Management in Research – Why and How?

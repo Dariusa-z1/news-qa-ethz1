@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/05/fromer-swiss-federal-chancellor-thurnherr-appointed-eth-professor.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • In October 2024, former Federal Chancellor Walter Thurnherr will take up the post of Professor of Practice at the Department of Humanities, Social and Political Sciences at ETH Zurich.

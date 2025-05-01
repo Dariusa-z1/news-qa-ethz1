@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/02/bernhard-plattner-neue-eth-vertrauensperson-.html
 
-**Date processed:** 2025-05-01
-
 ## Anlaufstellen für ETH-Angehörige
 
 Seit Anfang Februar hat die ETH Zürich eine neue Vertrauensperson für Fragen zu möglichem Fehlverhalten in der Forschung: Bernhard Plattner, emeritierter Professor für Technische Informatik (D-ITET), hat diese Aufgabe als Nachfolger von Wolfgang Kinzelbach, emeritierter Professor für Hydromechanik (D-BAUG), angenommen. Bernhard Plattner ist ein Pionier der Computernetzwerke und des Internets sowie Mitgründer des ETH-Instituts für Technische Informatik und Kommunikationsnetze.

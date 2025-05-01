@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/06/first-year-examinations-in-two-blocks.html
 
-**Date processed:** 2025-05-01
-
 ## Managing the workload
 
 Students currently starting their undergraduate studies at ETH are permitted to sit first-year examinations after two semesters at the earliest. The exams are the first comprehensive assessment of the work covered in the initial year of study, and for many students represent a defining moment in their university education.

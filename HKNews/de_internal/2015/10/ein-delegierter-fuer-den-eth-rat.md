@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/10/ein-delegierter-fuer-den-eth-rat.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Hochschulversammlung der ETH Zürich lädt alle ETH-Angehörigen herzlich ein zu einer Informationsveranstaltung über den ETH-Bereich und die Rolle des Delegierten der Hochschulversammlung im ETH-Rat.

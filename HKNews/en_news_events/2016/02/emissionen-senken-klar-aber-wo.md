@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/02/emissionen-senken-klar-aber-wo.html
 
-**Date processed:** 2025-05-01
-
 ## Ich will es noch etwas genauer wissen
 
 Kürzlich kaufte ich mir bei einem grossen Schweizer Detailhändler einen schönen Baumwollpulli. Verwundert las ich auf dem Etikett, dass dieses Produkt als «100% CO 2 -neutral» gilt. Ich freute mich über das Label: Der Pulli ist nicht nur warm und schön; bei seiner Herstellung achtet man offenbar auch auf faire Arbeitsbedingungen, Umweltschutz und Transparenz entlang der gesamten Lieferkette. Was will ich noch mehr?

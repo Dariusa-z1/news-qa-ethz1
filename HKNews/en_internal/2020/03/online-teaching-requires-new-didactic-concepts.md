@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/03/online-teaching-requires-new-didactic-concepts.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Read the interview on the D-INFK website:

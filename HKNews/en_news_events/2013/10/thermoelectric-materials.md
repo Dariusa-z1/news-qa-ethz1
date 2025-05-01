@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/10/thermoelectric-materials.html
 
-**Date processed:** 2025-05-01
-
 ## From heat to electricity
 
 Discovered in the 19th century, thermoelectric materials have the remarkable property that heating them creates a small electrical current. But enhancing this current to a level compatible with the needs of modern technologies has revealed an extraordinary challenge for scientists of the last decades, despite important theoretical and experimental efforts. Now a novel approach could lead to substantial progress. At ETH Zurich the quantum optics group of Tilman Esslinger has created a key model to better understand the fundamental phenomena – “a thermoelectric material emulator”.

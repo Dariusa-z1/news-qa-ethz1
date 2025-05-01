@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/11/nationalrat-diskutiert-studiengebuehren-.html
 
-**Date processed:** 2025-05-01
-
 ## Fees based on tax liability?
 
 In recent years, the proportion of foreign students at ETH Zurich and EPFL has continuously increased. At ETH alone, the total number of students breached the level of 18,000 this autumn for the first-ever time. The Federal Council is also aware of this. With the general lack of skilled professionals in mind, it is generally pleased about this development: "It shows that the teaching at ETH is very attractive and creates a dynamic, international atmosphere at the university", wrote Switzerland's national government on Thursday (21.11.2013) in a statement on the National Council's motion calling for fair tuition fees at ETH and EPFL.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/01/schallbetriebene-sensoren-sparen-millionen-von-batterien.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Forschende entwickeln einen neuartigen Sensor, der auf bestimmte Schallwellen reagiert und dadurch in Schwingung versetzt wird.

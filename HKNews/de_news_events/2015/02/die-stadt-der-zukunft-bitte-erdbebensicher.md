@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/02/die-stadt-der-zukunft-bitte-erdbebensicher.html
 
-**Date processed:** 2025-05-01
-
 ## Selten, aber mit zerstörerischem Potenzial
 
 In den letzten 25 Jahren sind etwa 700’000 Menschen durch Erdbeben und ihre direkten und indirekten Auswirkungen wie etwa Tsunamis oder Erdrutsche gestorben. Die Prognosen für die kommenden 25 Jahre sind ähnlich grimmig: Es steigt die Wahrscheinlichkeit, dass Mega-Erdbeben auf Mega-Cities treffen. Grund dafür ist die rasant fortstreitende, weltweite Urbanisierung. Sie macht Szenarien mit bis zu einer Million Toten und / oder ökonomischen Schäden von bis zu einer Billiarde Dollar denkbar. Reden die Medien also zurecht von «Killer-Erdbeben»?

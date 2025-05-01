@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/07/water-resources-defusing-conflict-promoting-cooperation.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Rivers are lifelines for many countries. They create valuable ecosystems, provide drinking water for people and raw water for agriculture and industry. In the Global South in particular, there is strong competition for access to freshwater resources. The increasing use of hydropower has recently intensified this competition further.

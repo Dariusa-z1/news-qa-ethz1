@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/05/eth-data-archive-im-data-citation-index-dci-.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 • externe Seite Data Citation Index call_made (Zugriff für ETH-Angehörige)

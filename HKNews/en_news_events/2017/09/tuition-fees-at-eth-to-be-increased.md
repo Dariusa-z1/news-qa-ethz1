@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/09/tuition-fees-at-eth-to-be-increased.html
 
-**Date processed:** 2025-05-01
-
 ## Top training at a still favourable price
 
 ETH Zurich is currently one of the Swiss universities with the lowest tuition fees. With 1160 Swiss francs per year, ETH Zurich is in the third with the lowest fees. The ETH Board has now decided to raise the fees by CHF 500 per year. The new fees will be introduced in two stages. The increase amounts to CHF 250 for the autumn semester 2019/2020 and CHF 250 for the autumn semester 2020/2021. This affects not only Bachelor's and Master's students, but also doctoral candidates, participants in continuing education programmes and students attending the courses.

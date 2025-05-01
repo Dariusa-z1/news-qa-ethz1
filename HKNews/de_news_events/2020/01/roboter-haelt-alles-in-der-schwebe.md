@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/01/roboter-haelt-alles-in-der-schwebe.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die kleine Installation, die Marcel Schuck auf einer Holzplatte an seinem Arbeitsplatz aufgebaut hat, erinnert an den Physikunterricht: An einer Platine mit Mikrochip ist eine lange, aus zwei Halbkugeln bestehende Greifzange angeschlossen, die aussieht wie ein Kopfhörer. Mit dem Arrangement demonstriert er einen physikalischen Effekt: Zwischen den Halbkugeln schwebt nämlich eine kleine Kugel. In der Luft gehalten wird sie durch Ultraschallwellen. «Man spricht von akustischem Schweben», erklärt der Wissenschaftler.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2013/12/25-jahre-im-dienst-der-juedischen-zeitgeschichte.html
 
-**Date processed:** 2025-05-01
-
 ## Weit mehr als nur ein Job
 
 Eigentlich ist es kein Zufall, dass Uriel Gast vor 25 Jahren frisch von der Universität Zürich am Archiv für Zeitgeschichte der ETH Zürich ( AfZ ) anfing. Auch wenn er in den Job als Archivar «unverhofft hineingerutscht» sei, begleitete ihn das Schicksal der jüdischen Flüchtlinge in der Schweiz seit jungen Jahren. Bereits Jahre zuvor hatte er eine KV-Lehre beim Europa-Verlag Zürich absolviert, deren Besitzer sich während des Zweiten Weltkriegs für politische Emigranten und jüdische Flüchtlinge einsetzten. «Die Geschichten dazu waren im Haus allgegenwärtig», erinnert er sich. Später studierte er allgemeine Geschichte und widmete sich in seiner Lizentiatsarbeit der Geschichte der Eidgenössischen Fremdenpolizei seit dem Ersten Weltkrieg. Diese baute er nach seinem Abschluss zur Dissertation aus. Auf Grund dieser Arbeit sei der damalige Archivleiter auf ihn aufmerksam geworden und habe ihm einen Job angeboten, sagt Gast: «Ich hatte Glück, dass er sich mit den gleichen Themen beschäftigte».

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/04/neue-faqs-zum-thema-return-to-the-office-future-of-work.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In der Townhall wurde vorgestellt, wie die ETH Zürich die Zusammenarbeit und die Arbeitsformen in zwei Phasen gestaltet: «Return to the Office» und «Future of Work». Zudem präsentierte das Vizepräsidium für Personalentwicklung und Leadership den «Welcome Back»-Workshop .

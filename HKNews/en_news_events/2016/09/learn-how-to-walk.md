@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/09/learn-how-to-walk.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The exoskeleton VariLeg is the work of an interdisciplinary team of 11 ETH students and doctoral candidates. The first prototype was developed by nine Bachelor’s students from the Department of Mechanical and Process Engineering in the course of a focus project from autumn 2014 to spring 2015. The exoskeleton, which will now be put into action at the Cybathlon, is a further development of this prototype and grew out of a subsequent focus project. “Cybathlon was our target from the very beginning,” says Patrick Pfreundschuh, a Bachelor’s student in mechanical engineering. “We were convinced that we could significantly improve on our original prototype and make it ready for this one-of-a-kind competition.” Together with several participants from the original team, the new team went to work in autumn 2015.

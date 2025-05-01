@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/10/heinz-hopf-prize-for-claire-voisin.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In mathematics, proof is the silver bullet for assured findings. However, in a branch of mathematics such as algebraic geometry, whose fundamental concepts and research topics have long moved away from everyday concepts and forms, conjectures also serves as an essential driver of knowledge advancement. When formulated, Conjectures are neither proven nor disproven, but they are well-substantiated. In this respect, they describe a mathematical problem whose solution is yet to be found.

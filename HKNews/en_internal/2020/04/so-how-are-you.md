@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/04/so-how-are-you.html
 
-**Date processed:** 2025-05-01
-
 ## Marcel Schuck, researcher in D-ITET
 
 “There are some areas of my robotics research that I can’t work on at the moment because I don’t have access to the lab equipment, so I’m having to find alternative ways of spending my time. Fortunately, methods like 3D printing have made it easier to create prototypes. This in turn is opening up new sources of components and is encouraging us to rethink our current approaches.”

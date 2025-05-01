@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/04/flemings-method-in-miniature.html
 
-**Date processed:** 2025-05-01
-
 ## “Bubble tea” in the quest for active substances
 
 It was 90 years ago that mould accidentally got onto a bacterial culture in Alexander Fleming’s lab. The Scottish bacteriologist observed that the mould produced a substance that killed the bacteria on the cell-culture dish. He had discovered penicillin, one of the first antibiotics. There are now several dozen classes of antibiotics on the market, and scientists continue to search tirelessly for new antimicrobial agents because they are urgently needed in medicine. A large proportion of these drugs are natural products or take these as their origin. And the method of detection is still the same as it was in Fleming’s day: if a substance can kill bacteria on a cell-culture dish, then it’s an antibiotic.

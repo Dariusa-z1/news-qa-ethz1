@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/09/top-100-spin-offs.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der ETH-Spin-off Bioversys ist erfolgreich. (Bild: Videostill Youtube)

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/07/starke-kopplung-durch-spin-trio.html
 
-**Date processed:** 2025-05-01
-
 ## Qubits mit Ladung oder Spin
 
 Quantencomputer rechnen mit Quanten-Bits oder «Qubits», also Quantenzuständen beispielsweise von Atomen oder Elektronen, die gleichzeitig die logischen Werte «0» und «1» annehmen können. Um viele solcher Qubits zu einem leistungsstarken Quantenrechner zusammenzuschliessen, muss man sie über Entfernungen von Millimetern oder gar mehreren Metern miteinander koppeln. Dies kann zum Beispiel, ganz ähnlich wie bei einer Radioantenne, über die Ladungsverschiebung durch eine elektromagnetische Welle erreicht werden. Allerdings setzt eine solche Kopplung das Qubit auch störenden Einflüssen von unerwünschten elektrischen Feldern aus, worunter die Qualität der logischen Qubit-Operationen stark leidet.

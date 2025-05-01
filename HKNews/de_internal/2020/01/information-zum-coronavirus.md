@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/01/information-zum-coronavirus.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Grundsätzlich werden ETH-Angehörigen folgende Vorsichtsmassnahmen empfohlen, auch im Hinblick auf die aktuelle Grippewelle:

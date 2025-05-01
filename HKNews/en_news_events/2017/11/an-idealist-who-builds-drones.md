@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/11/an-idealist-who-builds-drones.html
 
-**Date processed:** 2025-05-01
-
 ## Making a difference
 
 Basil Weibel is aiming high – and yet has both of his feet firmly on the ground. In conversation, he listens attentively, thinks before he speaks and then expresses himself carefully. “Yes, it’s a great feeling to live in a society where young people have a genuine opportunity to begin a new venture,” he says. Of course, all this responsibility makes him feel a bit queasy at times, he admits with a mischievous look in his eyes: “But you have to be a bit brazen to be a company founder.”

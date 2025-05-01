@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/01/mit-astrorara-himmelserscheinungen-interaktiv-erleben.html
 
-**Date processed:** 2025-05-01
-
 ## Experience historical astronomy
 
 Use AstroRara to learn more about the following topics:

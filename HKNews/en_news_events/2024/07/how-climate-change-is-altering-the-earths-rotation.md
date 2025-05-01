@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/07/how-climate-change-is-altering-the-earths-rotation.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • The Earth’s axis of rotation is shifting due to climate change and movements in the Earth’s interior. The corresponding polar motion is triggered by shifts in mass such as the melting of polar ice caps.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/10/emission-free-shipping.html
 
-**Date processed:** 2025-05-01
-
 ## North and Baltic Sea region drives innovation
 
 Shipping currently accounts for around three percent of global CO 2 emissions, which makes it one of the largest polluters in the transport industry alongside road and air transport. International merchant ships and large freighters are responsible for the lion’s share of these emissions. In response, various organisations, shipping companies and governments have set themselves the joint goal of establishing water transport to be carbon-neutral in the coming years. What has never been quite clear, however, is how to make this transition effectively.

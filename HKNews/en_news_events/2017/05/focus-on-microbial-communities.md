@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/05/focus-on-microbial-communities.html
 
-**Date processed:** 2025-05-01
-
 ## How do microorganisms interact?
 
 Microorganisms: without them, there would be no oxygen, humans and animals would not be able to digest food, and the cycles of the elements on our planet would come to a standstill. An interdisciplinary team of scientists now plans to shed light on microbial communities. Led by ETH Zurich and the Massachusetts Institute of Technology (MIT), three ETH research groups are collaborating with several US universities to investigate microbial ecosystems, with a special focus on the oceans. The research project, named Theory of Microbial Ecosystems (THE-ME), is supported by the Simons Foundation, which will provide 15 million US dollars over a period of at least five years. The foundation was founded by James Simons and his wife Marilyn. James Simons is an eminent mathematician and pioneer of quantitative trading. Since 1994, the Simons Foundation has been supporting research in mathematics and the basic sciences.

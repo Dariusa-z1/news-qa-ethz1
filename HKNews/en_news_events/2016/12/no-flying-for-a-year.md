@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/12/no-flying-for-a-year.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 A year ago, I decided to give up flying (see my previous blog ). And for good reason: in order to achieve the climate goals drawn up in Paris and ratified by countries in sufficient number, our society must reduce CO 2 emissions to zero in the next decades. The scientific community can set a good example here, and test for itself how institutions can be reformed in order for a climate-friendly society to function.

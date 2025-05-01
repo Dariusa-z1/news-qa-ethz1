@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/11/the-seeds-have-germinated.html
 
-**Date processed:** 2025-05-01
-
 ## Vitamin A deficiency threatens millions of children
 
 This autumn will probably go down in agrarian history. In October, farmers in the Philippine Province of Antique harvested a substantial amount of beta-carotene-enriched Golden Rice for the first time – namely a total of 67 tonnes from 17 fields.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/06/dem-mond-so-nah--im-bann-der-anziehungskraft-unseres-erdtrabanten.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Dies war auch für die Forschung ein grosser Schritt: Durch die Apollo-Mission, aber ebenso transportiert über Meteorite, konnten Mondgestein-Proben an der ETH Zürich analysiert und Rückschlüsse auf die Entstehung und die Oberfläche des Mondes gezogen werden.

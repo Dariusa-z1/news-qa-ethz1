@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/06/mit-radarwellen-den-wald-ausmessen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Irena Hajnsek ist gerade aus Afrika zurückgekehrt. In Gabun hat sich die Professorin für Erdbeobachtung und Fernerkundung um Flughafenbenutzungsgebühren und Sendegenehmigungen gekümmert. Im Februar 2016 will sie mit einem Team für eine Expedition in diesen zentralafrikanischen Staat reisen. Die Forschenden werden dort in den Urwald fliegen und mit dem Radar des externe Seite Deutschen Zentrums für Luft- und Raumfahrt Daten sammeln, aus denen sie die Biomasse des Walds errechnen können.

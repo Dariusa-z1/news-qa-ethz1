@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/05/peko-mit-neuem-vorstand-und-web-auftritt-.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Personalkommission (PeKo) der ETH Zürich hat Ende April 2015 einen neuen Vorstand gewählt und konstituiert. Dieser besteht aus:

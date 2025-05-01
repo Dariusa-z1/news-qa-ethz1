@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/11/vernetzte-farben.html
 
-**Date processed:** 2025-05-01
-
 ## Farbe hängt von Schichtdicke ab
 
 Ein internationales Forscherteam entwickelte ein neuartiges Prinzip, um verschiedenfarbige Beschichtungen für Metalle herzustellen. Die Farben kommen aufgrund einer auf der Nanometer-Skala speziellen Feinstruktur des Beschichtungsmaterials zustande. Im Gegensatz zu anderen, bestehenden Strukturfarben (siehe Kasten) lässt sich das neue Herstellungsprinzip sehr einfach grossflächig anwenden. Ausserdem sind die Farben ausgesprochen intensiv und das Material äusserst kratzfest.

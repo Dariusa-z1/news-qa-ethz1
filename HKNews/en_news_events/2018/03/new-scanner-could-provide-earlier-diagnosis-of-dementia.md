@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/03/new-scanner-could-provide-earlier-diagnosis-of-dementia.html
 
-**Date processed:** 2025-05-01
-
 ## Cheaper, smaller and more mobile
 
 They are barely thirty years old and are already actively involved in improving the diagnosis of Alzheimer’s disease. Max Ahnen (29) and Jannis Fischer (30) are developing a PET brain scanner that is not only less expensive, but also much more compact than those currently installed in hospitals. In recognition of their work, the US business magazine Forbes has included them on its “ 30 Under 30 Europe ” list 2018, in the category of Science & Healthcare. Forbes compiles this list every year to recognise “the most intelligent young entrepreneurs and inventors” in different disciplines. “We’re very proud to have made it onto the list,” says Jannis Fischer, who then jokes: “Next year we would have been too old to qualify!”

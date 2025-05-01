@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/06/how-urea-may-have-been-the-gateway-to-life.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • Researchers can now observe chemical reactions taking place in liquids at high temporal resolution.

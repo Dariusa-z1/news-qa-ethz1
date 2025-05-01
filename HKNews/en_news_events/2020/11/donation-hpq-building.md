@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/11/donation-hpq-building.html
 
-**Date processed:** 2025-05-01
-
 ## Enhancing Switzerland as a research location
 
 In recent years, quantum research has developed at breakneck speed. Scientists believe that quantum phenomena in the fields of computing, sensor technology and cryptography will soon facilitate novel technological applications. However, research in this field relies on highly complex infrastructure, because it takes extremely elaborate experiments to detect these fragile effects at the atomic level.

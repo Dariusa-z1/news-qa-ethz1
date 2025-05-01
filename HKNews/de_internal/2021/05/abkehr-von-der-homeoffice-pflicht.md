@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/05/abkehr-von-der-homeoffice-pflicht.html
 
-**Date processed:** 2025-05-01
-
 ## Homeoffice empfohlen
 
 «Aufgrund der vom Bundesrat beschlossenen Lockerungen können wir unseren Mitarbeitenden ein wenig mehr Flexibilität bieten, und wir öffnen die Gebäude», fasst ETH-Vizepräsident Ulrich Weidmann die wichtigsten Aussagen des neuen Masterplans zusammen, den die Schulleitung verabschiedet hat. Die neuen Regeln treten per 7. Juni in Kraft, um genügend Zeit für die Umsetzung der Massnahmen und die Information der ETH-Angehörigen zu haben. Sie sind voraussichtlich bis Anfang Juli gültig.

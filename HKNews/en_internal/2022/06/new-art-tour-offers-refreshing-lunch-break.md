@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/06/new-art-tour-offers-refreshing-lunch-break.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In addition to test tubes, measuring instruments and reference books, the buildings of ETH Zurich also include 300 works of art worth seeing. You can now discover part of this ETH art inventory on the guided tour «Kunst zum Zmittag» in the pleasantly chilly main building. In just 60 minutes, you will explore the fascinating the fascination friction between exact sciences and ambiguous art.

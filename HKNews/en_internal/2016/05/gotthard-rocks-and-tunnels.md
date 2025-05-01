@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/05/gotthard-rocks-and-tunnels.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 And it has also left its mark on ETH-Bibliothek’s holdings:

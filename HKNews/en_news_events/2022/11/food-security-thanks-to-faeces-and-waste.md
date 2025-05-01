@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/11/food-security-thanks-to-faeces-and-waste.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Around 250 million Africans – 1 in 5 people on the world’s second-largest continent – suffer from hunger or malnourishment. One reason for this is that agricultural soils have not been receiving enough nutrients. As a result, crop yields are declining. At the same time, many cities in sub-Saharan Africa face challenges with their sanitation and solid waste management. In many places, rapid urbanisation is overstraining the waste and sanitary infrastructure.

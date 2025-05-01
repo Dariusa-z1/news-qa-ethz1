@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/05/hindernisfreiheit-ist-eine-daueraufgabe.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Ulrich Weidmann, Vizepräsident für Infrastruktur (Bild: ETH Zürich)

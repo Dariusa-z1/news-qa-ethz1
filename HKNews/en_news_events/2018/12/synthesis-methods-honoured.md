@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/12/synthesis-methods-honoured.html
 
-**Date processed:** 2025-05-01
-
 ## One of the most important prizes for promoting young talent
 
 Christof Sparr was born in 1980 in Appenzell. He studied chemistry at ETH Zurich and completed his education with a doctorate in synthetic organic chemistry. After continuing his research at ETH Zurich and the University of Cambridge, he moved in 2013 to the University of Basel, where he was appoint-ed Assistant Professor of Chemistry in 2016. In addition to this year’s Ruzicka Prize, Sparr has previ-ously been awarded the ETH Medal for his doctoral thesis, and last year won the Swiss Chemical Society’s Werner Prize.

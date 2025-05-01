@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/10/no-till-farming-only-beneficial-in-dry-regions.html
 
-**Date processed:** 2025-05-01
-
 ## Increased yield in dry regions
 
 While Swiss farmers tend to till their fields before planting a new crop, a large proportion of their South American colleagues have stopped this practice. Instead, these farmers practise no-till farming: they leave the residues and stubbles from the previous season in the fields and use a special machine to drill a hole through the residue layer into the soil to plant the new crop. No-till farming is part of a farming approach known as conservation agriculture. Because it halts tilling, conservation agriculture is less time-consuming and can be more cost-effective than conventional farming methods. There has been some disagreement about the impact on yields, however. Some earlier studies showed that conservation agriculture resulted in lower yields.

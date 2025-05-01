@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/08/borkenkaefer-im-klimawandel.html
 
-**Date processed:** 2025-05-01
-
 ## Profitiert der Buchdrucker vom Klimawandel?
 
 «Den Borkenkäfer – gibt’s den noch?» Solche Fragen hören wir oft, wenn wir Nicht-Fachleuten über unsere Forschung berichten. Wenn man hier landläufig vom «Borkenkäfer» spricht, ist meistens der Buchdrucker ( Ips typographus ) gemeint, der bekannteste und bedeutendste der 119 Borkenkäferarten der Schweiz. Er kommt in jedem Wald mit Fichten vor und ist ein wichtiges Pionierinsekt beim Abbau stark geschwächter oder abgestorbener Bäume. Wenn er sich jedoch in Massen vermehrt, üblicherweise nach grossen Sturmereignissen, kann er grossflächig auch vitale Fichtenbestände befallen. Nach den Stürmen Vivian (1990) und Lothar (1999) war «der Käfer» nicht nur in den Wäldern, sondern auch in den Medien allgegenwärtig. In den letzten Jahren ist es aber ruhiger um ihn geworden, da wir zurzeit in den meisten Regionen der Schweiz sehr niedrige Käfer- und Befallszahlen verzeichnen.

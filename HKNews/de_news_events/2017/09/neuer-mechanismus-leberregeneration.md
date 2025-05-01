@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/09/neuer-mechanismus-leberregeneration.html
 
-**Date processed:** 2025-05-01
-
 ## Weiterkommen mit Proteomik
 
 Die Leber ist ein Wunderding: Es ist das einzige Organ, das selbst nach grösseren Verletzungen ohne Narbenbildung vollständig regenerieren kann. Deshalb kann man für eine Organspende einen Teil der Leber entfernen und einem anderen Menschen einsetzen. Die Leber des Menschen wächst innert weniger Wochen wieder auf ihre ursprüngliche Grösse an, wenn sie eine bestimmte Mindestgrösse nicht unterschreitet. Spendet aber jemand einen Teil seiner Leber an eine andere Person, so liegen die Grössen der verbleibenden Leberteile sowohl beim Spender als auch beim Empfänger an der Grenze der Regenerationsfähigkeit. Forschung und Medizin sind deshalb stark daran interessiert, diese ausserordentliche Fähigkeit der Leber weiter zu optimieren. Hierfür ist es wichtig, die an der Regeneration beteiligten Gene und davon abgeleiteten Proteine zu identifizieren und deren Funktion zu untersuchen.

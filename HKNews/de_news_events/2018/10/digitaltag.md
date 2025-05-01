@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/10/digitaltag.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der nationale Digitaltag, der dieses Jahr zum zweiten Mal stattfand, will die Bevölkerung für den digitalen Wandel sensibilisieren. Mit von der Partie war auch die ETH Zürich. Sie konzentrierte sich auf die beiden Themen Informatikausbildung von Schülerinnen und Schülern und die Digitalisierung in der Medizin. In beiden Bereichen spielt die Hochschule seit längerem eine massgebende Rolle.

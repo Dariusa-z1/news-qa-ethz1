@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/04/earpiece-that-speeds-up-recovery-after-a-stroke.html
 
-**Date processed:** 2025-05-01
-
 ## Brief summary of key points
 
 • An earpiece uses electrical impulses to stimulate the vagus nerve in the ear.

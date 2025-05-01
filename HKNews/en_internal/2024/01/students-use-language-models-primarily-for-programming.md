@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2024/01/students-use-language-models-primarily-for-programming.html
 
-**Date processed:** 2025-05-01
-
 ## Rarely used in courses, but often for learning
 
 New AI tools, in particular language models such as ChatGPT, are actively used by ETH students. Preferably as support for programming tasks. This is shown by a survey conducted by the Teaching Development and Technology department (LET) together with the Department of Mathematics' Seminar for Statistics. Around 4800 or around a third of all students responded to the questions they were asked in September 2023.

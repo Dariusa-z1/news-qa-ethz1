@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/01/wie-unsere-planeten-entstanden-sind.html
 
-**Date processed:** 2025-05-01
-
 ## Zwei Entstehungswellen zu verschiedenen Zeitpunkten
 
 Merkur, Venus, Erde und Mars im inneren Sonnensystem sind relativ kleine, trockene Planeten im Gegensatz zu Jupiter, Saturn, Uranus und Neptun weiter draussen, die viel mehr flüchtige Elemente enthalten. «In den letzten Jahren haben wir zudem einen weiteren deutlichen Unterschied zwischen innerem und äusserem Sonnensystem entdeckt», sagt Maria Schönbächler, Professorin am Institut für Geochemie und Petrologie der ETH Zürich: «Meteoriten haben einen unterschiedlichen ‘Fingerabdruck’, je nachdem, ob sie aus dem inneren oder äusseren Sonnensystem stammen.» Je nach Herkunft unterscheidet sich ihr sogenannter Isotopengehalt. Isotope sind verschiedene Atomsorten eines Elements, die im Kern die gleiche Anzahl Protonen aber unterschiedlich viele Neutronen besitzen.

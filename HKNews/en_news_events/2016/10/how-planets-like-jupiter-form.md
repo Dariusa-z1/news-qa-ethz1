@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/10/how-planets-like-jupiter-form.html
 
-**Date processed:** 2025-05-01
-
 ## Luminous shock front detected
 
 Astronomers set up two theories explaining how gaseous giant planets like Jupiter or Saturn could be born. A bottom-up formation mechanism states that first, a solid core is aggregated of roughly ten times the size of the Earth. «Then, this core is massive enough to attract a significant amount of gas and keep it,» explains Judit Szulágyi, post-doctoral fellow at the ETH Zürich and member of the Swiss NCCR PlanetS. The second theory is a top-down formation scenario: Here the gaseous disk around the young star is so massive, that due to self-gravity of the gas-dust, spiral arms are forming with clumps inside. Then, these clumps collapse via their own gravity directly into a gaseous planet, similar to how stars form. The first mechanism is called «core-accretion», the second one «disk instability». In both cases, a disk forms around the gas-giants, called the circumplanetary disk, which will serve as a birth-nest for satellites to form.

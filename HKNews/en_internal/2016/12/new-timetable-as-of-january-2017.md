@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/12/new-timetable-as-of-january-2017.html
 
-**Date processed:** 2025-05-01
-
 ## Earlier departure from the main station
 
 The trial operation for the autumn semester (as reported in Service info, 15.09.2016 ) ends on 23 December. New travel times will apply from Tuesday, 3 January 2017 .

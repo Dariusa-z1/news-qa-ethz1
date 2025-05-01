@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/04/neue-zeitschriften.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 • Biomarkers in Medicine

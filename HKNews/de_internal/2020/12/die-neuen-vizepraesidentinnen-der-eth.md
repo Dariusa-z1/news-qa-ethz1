@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/12/die-neuen-vizepraesidentinnen-der-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 «Ihr bringt Kompetenzen in die Schulleitung, die wir noch nicht haben. Und diese 360-Grad-Diversität ist mir extrem wichtig», sagte ETH-Präsident Joël Mesot anlässlich der Medienkonferenz zur Erweiterung der Schulleitung. Seit dem 1. November verstärkt Julia Dannath die Schulleitung der ETH als neue Vizepräsidentin Leadership und Personalentwicklung, am 1. Januar beginnt Vanessa Wood ihr Amt als Vizepräsidentin Wissenstransfer und Wirtschaftsbeziehungen. Doch wer sind die beiden neuen Mitglieder in der Leitung der ETH? Was treibt sie an und was zeichnet sie als Menschen und Führungskräfte aus?

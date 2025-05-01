@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/02/concern-for-switzerlands-academic-competitiveness.html
 
-**Date processed:** 2025-05-01
-
 ## Safeguarding academic competitiveness
 
 swissuniversities, the common voice for higher education institutions in Switzerland, announced today that if the enforcement initiative is voted in on 28 February 2016, there will be far-reaching consequences for Swiss education and research.

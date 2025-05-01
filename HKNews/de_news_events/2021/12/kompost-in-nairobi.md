@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/12/kompost-in-nairobi.html
 
-**Date processed:** 2025-05-01
-
 ## Anfängliches Chaos
 
 Manuel Mathis erinnert sich noch genau: Am Gymnasium im Fach Humangeografie erzählte der Lehrer davon, dass mehrere hundert Millionen Menschen täglich hungrig zu Bett gehen, unter anderem weil ihre Böden erodieren und zunehmend weniger fruchtbar sind. Das hat beim Schüler einen bleibenden Eindruck hinterlassen. Fortan wusste er, dass er etwas studieren wollte, womit er einen Beitrag gegen Hunger und Armut leisten konnte. Er schrieb sich an der ETH ein und begann 2015 ein Studium in Agrarwissenschaften. Dort wurden ihm enorme Mengen an theoretischem Wissen zu Boden-Pflanzen-Systemen vermittelt. Was ihm etwas zu kurz kam, war die Praxis: das Wühlen in der Erde. Deshalb begann er im Oktober 2020, neben dem Studium auf einer Kompostierungsanlage in Fehraltdorf zu arbeiten. «Diese praktische Erfahrung kommt mir heute sehr zugute», sagt der 25-jährige Student während eines Zoom-Calls Ende September. Er sitzt im Wohnzimmer seines Studios im Zentrum Nairobis und wirkt etwas mitgenommen. Zum wiederholten Male leidet er an einer gröberen Magenverstimmung. «Eine natürliche Nebenerscheinung meines Jobs hier», sagt er. «Dieser bringt mich ziemlich eng mit allerlei ungewohnten Viren und Bakterien in Kontakt.»

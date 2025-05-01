@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/02/congressi-stefano-franscini-extends-deadline.html
 
-**Date processed:** 2025-05-01
-
 ## Conferences 2016 Congressi Stefano Franscini
 
 The Congressi Stefano Franscini (CSF), the meeting platform of the Swiss Federal Institute of Technology of Zurich (ETH Zurich), has extended the deadline for submission of Proposals for obtaining a subsidy from the CSF for conferences in 2016 from 15 January 2015 to 8 February 2015.

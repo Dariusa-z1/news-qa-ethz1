@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/01/success-by-the-dozen.html
 
-**Date processed:** 2025-05-01
-
 ## Extraordinary success rate
 
 A simulation that should demonstrate how social behavioural patterns develop, new protein capsules that are able to transport medication easily, electrontransfer processes in new dimensions and research on microbial diversity in the soil — the list of ETH Zurich projects funded by the European Research Council (ERC) is long and varied. No fewer than twelve ETH Zurich researchers are to receive an ERC Advanced Grant and thus up to EUR 2.5 million for their projects in the next five years. Never before have so many professors from ETH Zurich been as successful in applying for Advanced Grants as in 2012. With the Advanced Grants, the ERC exclusively supports projects by established top-flight researchers, thus making them a special award. During the 2012 tendering stage, the ERC allocates a total of EUR 680 million to 302 scientists in 24 different countries.

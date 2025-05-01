@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/06/beim-blick-beginnts-wie-eth-forschende-zur-nachhaltigen-campusmobilitaet-beitragen.html
 
-**Date processed:** 2025-05-01
-
 ## Was eine E-Bike-Stadt benötigt
 
 Clarissa Livingston ist Doktorandin in der Gruppe für Verkehrsplanung von Kay Axhausen. Sie arbeitet auf dem Hönggerberg und kommt in der Regel mit dem E-Bike zur Arbeit. Sie fährt nicht nur regelmässig mit dem E-Bike sondern sie ist auch Verkehrsforscherin. Als solche wirkt sie in « E-Bike-City » mit. In diesem Forschungsprojekt haben sich sieben Gruppen des Departements Bau, Umwelt und Geomatik (D-BAUG) zusammengeschlossen, um die Vision einer Stadt zu entwickeln, die bis zur Hälfte ihres Strassenraums für E-Bikes und Fahrräder und eine nachhaltige, so genannte Mikromobilität zur Verfügung stellt. Nun untersuchen sie, unter welchen Voraussetzungen und Auswirkungen sich eine solche Stadt realisieren liesse.

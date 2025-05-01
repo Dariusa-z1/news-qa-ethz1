@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/05/ein-herz-fuer-strandkunst-und-skitouren.html
 
-**Date processed:** 2025-05-01
-
 ## BeachBot – der Roboter, der Herzen zeichnet
 
 Das dritte Studienjahr ist für die Studierenden im Studiengang Maschinenbau und Verfahrenstechnik ein spezielles: Im sogenannten Fokusprojekt können sie ihr Wissen praktisch anwenden und ein Produkt nach einer eigenen Idee oder in Zusammenarbeit mit der Industrie entwickeln. Jeweils fünf bis acht Studierende bilden ein Team, das zwei Semester lang selbständig ein Produkt umsetzt. Elf Projekte sind dieses Jahr am Start, darunter der Strandroboter BeachBot und der Skischuh TourBo (Touring Boot). Weitere Highlights wurden in ETH News und im ETH-Zukunftsblog bereits vorgestellt.

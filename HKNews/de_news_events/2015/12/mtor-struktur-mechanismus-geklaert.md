@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/12/mtor-struktur-mechanismus-geklaert.html
 
-**Date processed:** 2025-05-01
-
 ## Organisation von mTORC1 aufgeklärt
 
 Vor rund 25 Jahren entdeckte Michael Hall in Hefezellen das Protein «Target of Rapamycin» (TOR), ein Mitglied aus der Familie der Proteinkinasen, welches mittlerweile zu den meistuntersuchten Proteinen gehört. Später fand man auch ein TOR-Protein in S äugetierzellen, wo es als mTOR - mammalian Target of Rapamycin – bekannt ist.

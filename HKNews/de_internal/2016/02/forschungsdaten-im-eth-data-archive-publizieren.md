@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/02/forschungsdaten-im-eth-data-archive-publizieren.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Das ETH Data Archive bietet Angehörigen der ETH Zürich diese Dienstleistung für Daten, die zugleich langfristig verfügbar bleiben sollen. Zwei Möglichkeiten stehen zur Auswahl:

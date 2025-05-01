@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/08/major-award-for-climate-researcher.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The prize in the amount of 200,000 CHF is among the highest foundation prizes awarded in Switzerland. It honours individuals who have dedicated their work to improving people’s living conditions and have made special contributions. “That describes Reto Knutti very well,” says the foundation’s president, Carlo Schmid-Sutter. “Our awareness of climate change has increased even before this scorcher of a summer; thanks to new ways of communicating knowledge, Reto Knutti has managed to reach people who are now interested, make the results of his research known far beyond academia, and sensitize political decision makers and the broader public to this subject.”

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/10/should-researchers-get-involved-in-political-debates.html
 
-**Date processed:** 2025-05-01
-
 ## For
 
 Nicola Nuti, Doctoral student at the Department of Biosystems Science and Engineering. (Illustration: Kornel Stadler)

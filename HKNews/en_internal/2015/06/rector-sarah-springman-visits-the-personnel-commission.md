@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/06/rector-sarah-springman-visits-the-personnel-commission.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 She notes that challenges in relation to teaching at ETH Zurich include:

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/09/new-professors-appointed.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The new professors in brief:

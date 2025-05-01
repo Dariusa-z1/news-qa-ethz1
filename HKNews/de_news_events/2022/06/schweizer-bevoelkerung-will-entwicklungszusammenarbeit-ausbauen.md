@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/06/schweizer-bevoelkerung-will-entwicklungszusammenarbeit-ausbauen.html
 
-**Date processed:** 2025-05-01
-
 ## Unterstützung für ein umfassenderes Engagement
 
 ETH-Forschende haben Ende 2021 erstmals eine Umfrage zur Einstellung der Schweizer Bevölkerung zur Entwicklungszusammenarbeit durchgeführt. Rund 2800 Personen nahmen daran teil. Die Ergebnisse wurden heute publiziert. «Mit dieser Befragung möchten wir einen Beitrag zur öffentlichen Diskussion und Meinungsbildung leisten», erklärt die Co-Leiterin des NADEL - Center for Development and Cooperation Prof. Isabel Günther.

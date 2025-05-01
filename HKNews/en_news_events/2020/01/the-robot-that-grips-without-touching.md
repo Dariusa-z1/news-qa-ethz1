@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/01/the-robot-that-grips-without-touching.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The small installation that Marcel Schuck has assembled on his workbench is reminiscent of a school physics lesson: an arrangement, comprising two semi-spheres and resembling a pair of headphones, is connected to a circuit board carrying microchips. He is using the assembly to demonstrate a physical effect. A small sphere hovers between the two semi-spheres, held up by ultrasound waves. “This phenomenon is known as acoustic levitation,” the scientist explains.

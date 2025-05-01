@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/06/grimsel-electric-racing-car-broke-world-record.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The Formula Student team at the Academic Motorsports Club Zurich (AMZ) accomplished its mission today: the grimsel electric racing car accelerated from 0 to 100 km/h in just 1.513 seconds and set a new world record. It reached the speed after covering less than 30 m of track at the Dübendorf air base near Zurich. The previous world record stood at 1.779 seconds and was set last year by a team at the University of Stuttgart.

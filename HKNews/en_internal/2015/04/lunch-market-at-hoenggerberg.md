@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/04/lunch-market-at-hoenggerberg.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The Lunch Market will take place on the following Thursdays from 11 a.m. to 3 p.m. in each case:

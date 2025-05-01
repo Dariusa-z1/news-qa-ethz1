@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/07/making-europe-sweat.html
 
-**Date processed:** 2025-05-01
-
 ## The opposite of sweating
 
 In 2003, Europe experienced a record-breaking summer, and many people feel that this summer is headed the same way. In the midst of this heatwave, the scientific journal Nature Geoscience has published a study that can help us to understand such extreme weather conditions. For around two years, an ETH research team has analysed climate data from all over the world in a bid to explain the driving force behind stable high-pressure systems. It has long been known that extremely stable high-pressure systems in the upper troposphere, that is five to ten kilometres up into the atmosphere, can trigger summer heatwaves. Researchers have termed these special high-pressure conditions ‘blocking’, since they deflect low-pressure systems and, as a result, may lead to warm weather patterns. These patterns are around 2,000 kilometres in diameter and can span across large swathes of Europe. They interrupt the typical westerly flow from the North Atlantic, which would otherwise determine the weather conditions in our region.

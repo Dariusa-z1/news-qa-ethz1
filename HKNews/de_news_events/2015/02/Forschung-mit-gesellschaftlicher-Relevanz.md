@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/02/Forschung-mit-gesellschaftlicher-Relevanz.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH-News: Herr Ambühl, mit Ihrem Vorschlag, dass man mit der EU über eine Schutzklausel verhandeln könnte, um nicht das Freizügigkeitsabkommen zu verletzen, greifen Sie in eine aktuelle politische Debatte ein. Darf sich ein ETH-Professor in die Politik einmischen? Michael Ambühl: Wir möchten von Seiten der Forschung mit einem Diskussionsbeitrag zur Lösung eines Problems beitragen. Innerhalb der Professur wollen wir den Forschungsansatz weiterentwickeln, den wir «Verhandlungs-Engineering» nennen und der letztlich eine Konzeptualisierung meiner als Verhandlungsleiter gemachten Erfahrungen darstellt. Wir haben deshalb versucht, unsere Methoden am aktuellen Beispiel der Umsetzung der Einwanderungsinitiative anzuwenden. In diesem Fall haben wir wohl deshalb eine gewisse Aufmerksamkeit erhalten, weil bei dieser Studie die gesellschaftliche Relevanz direkt sichtbar wird.

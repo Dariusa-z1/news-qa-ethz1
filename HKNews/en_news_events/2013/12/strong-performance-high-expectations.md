@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/12/strong-performance-high-expectations.html
 
-**Date processed:** 2025-05-01
-
 ## Large sum of research funds
 
 University rankings are often a subject for debate, but they are nevertheless used internationally as indicators for universities’ success. “A university is more than just a number”, said Ralph Eichler in his presentation. This year, ETH Zurich is again among the leading universities and remains the best in continental Europe according to various rankings.

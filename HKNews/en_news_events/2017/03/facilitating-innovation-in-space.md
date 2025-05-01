@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/03/facilitating-innovation-in-space.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 There is still a cheerful atmosphere at the office of the spin-off "IRsweep", at the Institute for Quantum Electronics on the ETH Hönggerberg campus. The start-up founders – Andreas Hugi, Markus Geiser and Markus Mangold – and their three colleagues have every reason to celebrate: together with six other startups in the field of space technologies and applications – including four other ETH companies – IRsweep has been selected for the ESA BIC Switzerland programme. In the first phase, the companies will benefit from funding of EUR 50,000, and will also receive technological and business support from ESA BIC Switzerland’s extensive network of partners. The other start-ups are Pristem from EPFL and Skypull from Ticino as well as the ETH companies IRsweep , Anybotics , Diramics , Embotech und Fixposition . They all convinced the jury with ground-breaking technologies along with good business plans and commercial potential.

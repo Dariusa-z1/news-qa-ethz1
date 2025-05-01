@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/07/pioneer-fellow-hovestadt.html
 
-**Date processed:** 2025-05-01
-
 ## Fehlerrate massiv reduziert
 
 Der Western Blot ist ein molekularbiologisches Verfahren zum Nachweis von Proteinen und gehört in der Biochemie zum Standard: Alleine in Europa wird dieser Test täglich mehr als 6000 Mal durchgeführt. Seine Anwendung reicht von der Entwicklung neuer Medikamente über die Diagnose von Infektionen bis hin zur Lebensmittelkontrolle. Jedoch ist das Verfahren derzeit noch sehr zeitaufwendig und fehleranfällig. Rund sechs Stunden dauert jedes einzelne Experiment – wobei jedes vierte fehlschlägt und wiederholt werden muss. Das möchte Tina Hovestadt ändern: Die 25-Jährige, die im Juni ihre Masterarbeit im Fach Maschineningenieurwissenschaften abgegeben hat, arbeitet derzeit an einem Gerät, welches die Proteinanalyse revolutionieren soll.

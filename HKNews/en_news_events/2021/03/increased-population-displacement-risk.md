@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/03/increased-population-displacement-risk.html
 
-**Date processed:** 2025-05-01
-
 ## Population growth greatly increases risk
 
 Every year, millions of people around the world are displaced from their homes due to severe weather caused by climate change. According to the International Red Cross and Red Crescent Movement, 10.3 million people were displaced as a result of climate-related events in the last six months alone – four times the number displaced by war and conflict in the same period. One of the main causes of displacement is flooding. A recent example is the situation in eastern Australia, where tens of thousands of people are having to flee their homes to seek safety from this hundred-year flood.

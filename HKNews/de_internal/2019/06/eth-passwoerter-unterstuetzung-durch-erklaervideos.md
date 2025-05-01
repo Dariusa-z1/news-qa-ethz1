@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/06/eth-passwoerter-unterstuetzung-durch-erklaervideos.html
 
-**Date processed:** 2025-05-01
-
 ## Administration von ETH-Passwörtern
 
 Zur Unterstützung der ETH-Mitarbeitenden und -Studierenden haben die Informatikdienste Erklärvideos produzieren lassen. Sie vermitteln das jeweilige Vorgehen einfach und anschaulich. Schritt für Schritt erklären die Informatikdienste wie Sie

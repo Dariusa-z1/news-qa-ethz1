@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/08/die-schulleitung-informiert-2022-8.html
 
-**Date processed:** 2025-05-01
-
 ## Neues Weiterbildungsprogramm CAS ETH in Climate Innovation
 
 Da die Amtszeit der bisherigen Ombudspersonen in diesem Jahr endet, führte die Schulleitung an ihrer letzten Sitzung folgende Ersatz- und Wiederwahlen durch:

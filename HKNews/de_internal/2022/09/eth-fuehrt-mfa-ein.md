@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/09/eth-fuehrt-mfa-ein.html
 
-**Date processed:** 2025-05-01
-
 ## So registrieren Sie sich für MFA an der ETH
 
 IT-Sicherheit ist ein Thema, das alle Unternehmen und Institutionen betrifft. Auch die ETH setzt sich vertieft damit auseinander – und führt deshalb die Multifaktor-Authentisierung (MFA) ein. Mit der Eingabe einer solchen zweiten Anmeldebestätigung soll die Sicherheit unserer Nutzendenkonten und Daten erhöht und das Risiko von Cyberattacken verringert werden. Mehr zu den Hintergründen lesen Sie im Intern-aktuell-Artikel « MFA: Mehr Sicherheit für Ihre Daten ».

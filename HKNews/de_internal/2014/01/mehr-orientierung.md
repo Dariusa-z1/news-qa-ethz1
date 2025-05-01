@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/01/mehr-orientierung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Das Studierendenleben an der ETH dreht sich momentan nur um eines: Die anstehenden Prüfungen. Während andere sich in den Bergen beim Skifahren vergnügen, sind die Bibliotheken an der ETH bis spät am Abend zum Brechen voll, im Stundentakt begegnet man auf der Piazza auf dem Hönggerberg nervösen Studierenden kurz vor Prüfungsbeginn und der Kaffeekonsum auf dem ETH-Gelände steigt wohl gegen Ende Januar auf Rekordhöhe.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/11/reaktionen-auf-master-video.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 C-R-I-N-G-E, wörtlich übersetzt «zusammenzucken», freier übersetzt «fremdschämen», ist ein häufiger Kommentar auf externe Seite YouTube als Reaktion auf das Video, mit dem die ETH Zürich künftige Masterstudierende auf der ganzen Welt ansprechen will. Andere User finden das Video «cool» oder «grossartig». Innert der ersten 24 Stunden wurde das Video 60'000 Mal angeschaut. Insbesondere auf YouTube sind die Einschätzungen und Kommentare mehrheitlich negativ, während sich die positiven und negativen Kommentare auf anderen Plattformen, etwa Facebook, die Waage halten.

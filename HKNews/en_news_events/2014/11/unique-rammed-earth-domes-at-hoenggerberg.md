@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/11/unique-rammed-earth-domes-at-hoenggerberg.html
 
-**Date processed:** 2025-05-01
-
 ## Rediscovering loam
 
 Annette Spiro’s Chair of Architecture and Construction is known for hands-on teaching and in-depth exploration of building materials. They established a collection of materials for architects and civil engineers in collaboration with the ETH Baubibliothek in 2010, and in 2012 offered the optional module Material Workshop for the first time. “We want to give students the opportunity to explore building materials not only in theory, but also in practice”, says Gian Salis, a lecturer in the department who is responsible for the module.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/02/eth-graduates-reinvent-the-user-manual.html
 
-**Date processed:** 2025-05-01
-
 ## Out of the lab and into the field
 
 David Shapira and Kordian Caplazi have three things in common: they are young, have an ETH degree in their pockets and knew before they graduated that they wanted to become self-employed. With the founding of Rimon Technologies in August 2020, they have fulfilled their dream of starting their own company The start-up is so successful that four more members joined the team last year.

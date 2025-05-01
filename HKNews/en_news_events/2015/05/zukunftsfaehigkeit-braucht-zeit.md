@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/05/zukunftsfaehigkeit-braucht-zeit.html
 
-**Date processed:** 2025-05-01
-
 ## Junge Genies und alte Meister
 
 Vermehrt tauchen an Universitäten Rufe nach einer langsameren Wissenschaft auf. Vor einigen Jahren hat ein Slow Science Manifest zu einem Rascheln in der Wissenschaftspresse geführt [1]. Neuerdings vertritt die Science in Transition Bewegung in Holland ähnliche Anliegen [2]. Kritisiert wird, dass eine Wissenschaft, die immer schneller überraschende Durchbrüche produzieren will, dies auf Kosten der Qualität tut. «Weniger statt mehr, langsamer statt schneller» fordern auch prominente Wissenschaftler. Stanford-Professor John Ioannidis analysiert seit vielen Jahren die mangelhafte Qualität von schnell produzierten Studien [3]. Nobelpreisträger erklären, sie hätten ihre genialen Einsichten in der heutigen akademischen Welt nicht erarbeiten können [4]. Viele sehen die Wurzel des Übels im Druck, so viel wie möglich zu publizieren («publish or perish»), und in der Vermessung der akademischen Leistung von Wissenschaftlern und Universitäten durch Indikatoren und Rankings [5].

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/12/spin-off-portraet-gratxray.html
 
-**Date processed:** 2025-05-01
-
 ## Gitter als Schlüsselelement
 
 Am Anfang jedes Jungunternehmens steht die Vision, mit neuen Ideen den Markt zu erobern. Vor der erfolgreichen Firmengründung gibt es jedoch etliche Meilensteine zu erreichen. So auch im Fall von «GratXray», einem Spin-off, das diesen Sommer aus der ETH Zürich und dem Paul-Scherrer-Institut (PSI) hervorgegangenen ist.

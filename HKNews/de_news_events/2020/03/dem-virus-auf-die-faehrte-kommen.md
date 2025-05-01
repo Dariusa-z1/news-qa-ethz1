@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/03/dem-virus-auf-die-faehrte-kommen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Bereits nehmen über 3500 Personen am COVID-19-Monitoring teil. (Bild: BMI)

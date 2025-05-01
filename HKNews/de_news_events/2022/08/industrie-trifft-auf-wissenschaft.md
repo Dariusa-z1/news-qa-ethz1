@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/08/industrie-trifft-auf-wissenschaft.html
 
-**Date processed:** 2025-05-01
-
 ## Robotik und maschinelles Lernen
 
 Am 7. September 2022 findet an der ETH Zürich der diesjährige Industry Day statt. Er beleuchtet erfolgreiche Industriepartnerschaften, angewandte Forschung und Spin-offs der ETH Zürich und bietet der Industrie eine einzigartige Gelegenheit, um mit ETH-Forschenden und Jungunternehmer:innen ins Gespräch zu kommen.

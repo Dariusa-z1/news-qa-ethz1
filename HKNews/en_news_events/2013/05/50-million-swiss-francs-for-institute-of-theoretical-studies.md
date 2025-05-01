@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/05/50-million-swiss-francs-for-institute-of-theoretical-studies.html
 
-**Date processed:** 2025-05-01
-
 ## A Permanent Meeting of World-class Minds
 
 For as long as ETH Zurich has existed, it has upheld some of the greatest theoreticians amongst its ranks. Academics such as Albert Einstein, Wolfgang Pauli, Hermann Weyl, Niklaus Wirth and many more have taught and researched in Zurich, broadening theoretical principles in the fields of physics, chemistry, mathematics and computer science, and thus contributing towards significant innovations. The importance of mathematics has continued to rise in a world shaped by technology and digitalisation. Manifold aspects of our daily routine are based on mathematical principles without us even knowing it. GPS technology which is integrated into every smartphone would be just as unthinkable without Albert Einstein's General Theory of Relativity as modern information technology would be without quantum mechanics or storage media like DVDs without the error correcting codes which are based on number theory.

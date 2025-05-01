@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/12/projekt-rethink-fit-bleiben-fuer-die-naechsten-20-jahre.html
 
-**Date processed:** 2025-05-01
-
 ## Spitzenstellung halten
 
 Die ETH Zürich ist eine Erfolgsgeschichte. Die Hochschule bewegt sich auf internationalem Spitzenniveau, in der Lehre wie in der Forschung und im Wissenstransfer. «Doch der Druck auf die ETH steigt», stellte ETH-Präsident Joël Mesot fest, als er 2019 sein Amt antrat.

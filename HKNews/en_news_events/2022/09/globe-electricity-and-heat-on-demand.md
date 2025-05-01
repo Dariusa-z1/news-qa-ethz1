@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/09/globe-electricity-and-heat-on-demand.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Switzerland aims to transition to a net-zero energy system by 2050. To meet this goal, it will need to replace fossil fuels with renewables. The Swiss government has also taken the decision to phase out nuclear power. As a result, its plans for carbon neutrality will require not only the electrification of transport and heating by means of electric vehicles and heat pumps, but also measures to compensate for the loss of nuclear generating capacity. To meet increased energy demand, Switzerland will primarily rely on hydro and photovoltaic energy sources and, to a lesser extent, wind power.

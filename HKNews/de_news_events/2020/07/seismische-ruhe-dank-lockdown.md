@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/07/seismische-ruhe-dank-lockdown.html
 
-**Date processed:** 2025-05-01
-
 ## Ruhe unter Schweizer Städten
 
 Durch die Analyse von monate- bis jahrelangen Datensätzen von über 300 seismischen Stationen auf der ganzen Welt konnte die Studie unter der Leitung von Thomas Lecocq vom königlichen Observatorium in Belgien zeigen, wie das seismische Hintergrundrauschen in vielen Ländern und Regionen seit Beginn der Lockdown-Massnahmen abnahm. An der internationalen Studie beteiligten sich auch Forschende des Schweizerischen Erdbebendienstes an der ETH Zürich.

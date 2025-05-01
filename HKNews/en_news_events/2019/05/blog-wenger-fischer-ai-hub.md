@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/05/blog-wenger-fischer-ai-hub.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The surge of progress in Artificial Intelligence (AI) over the last few years has been driven primarily by economic market forces and the manifold commercial applications. Large global technology companies, particularly in the US and China, lead the field in AI. Yet this concentration of AI resources in a few private corporations is increasingly undercutting the competitiveness of public research institutions and smaller companies. Such oligopolistic market dynamics threaten to exacerbate existing economic and social inequalities.

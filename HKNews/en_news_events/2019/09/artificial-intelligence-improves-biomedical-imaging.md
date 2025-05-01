@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/09/artificial-intelligence-improves-biomedical-imaging.html
 
-**Date processed:** 2025-05-01
-
 ## Correcting for image distortions
 
 Scientists at ETH Zurich and the University of Zurich have used machine learning methods to improve optoacoustic imaging. This relatively young medical imaging technique can be used for applications such as visualizing blood vessels, studying brain activity, characterizing skin lesions and diagnosing breast cancer. However, quality of the rendered images is very dependent on the number and distribution of sensors used by the device: the more of them, the better the image quality. The new approach developed by the ETH researchers allows for substantial reduction of the number of sensors without giving up on the resulting image quality. This makes it possible to reduce the device cost, increase imaging speed or improve diagnosis.

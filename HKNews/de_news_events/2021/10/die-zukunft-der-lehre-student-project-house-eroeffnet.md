@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/10/die-zukunft-der-lehre-student-project-house-eroeffnet.html
 
-**Date processed:** 2025-05-01
-
 ## Fähigkeiten, die über das Studium hinausgehen
 
 Ein smarter Blindenstock, eine AR-Brille als Anleitungsersatz und ein Haus, das sich dank Blockchain selbst verwaltet: Diese und viele weitere Ideen setzen Studierende im neu eröffneten Student Project House neben dem ETH-Hauptgebäude bereits um. «Mit diesem Ideenlabor möchten wir unsere Studierenden ermuntern und befähigen, Neues auszuprobieren, auch mal zu scheitern und daraus zu lernen und explizit auch solche Projekte umzusetzen, die nicht zu ihrem Studium gehören», erklärt ETH-Rektorin und Schirmherrin der Initiative Professorin Sarah Springman. Seit der Gründung des Pilotprojekts auf dem Campus Hönggerberg im Jahr 2016 wurden schon über 2500 Studierende durch das Student Project House unterstützt.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/03/brand-beim-hia-gebaeude.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Im Bereich der Anlieferung des HIA-Gebäudes (Forschungs-​/Laborgebäude Wasserbau) auf dem Campus Hönggerberg brach heute Nachmittag ein Feuer an einem Lieferwagen aus. Die aufgebotene Feuerwehr konnte den Brand rasch löschen und geht als Ursache von einem Motorbrand aus.

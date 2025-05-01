@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/05/ein-pionier-des-schweizer-internets-tritt-ab.html
 
-**Date processed:** 2025-05-01
-
 ## Beantragte Schweizer Internetdomain
 
 Professor Bernhard Plattner strahlt Ruhe aus. Er ist offensichtlich im Reinen mit dem, was er geleistet hat und auch damit, dass nun ein neuer Abschnitt in seinem Leben beginnt. 30 Jahre seines Lebens hat er an der ETH Zürich der Erforschung von Computernetzen und des Internets gewidmet, seit 1994 als ordentlicher Professor. Am 1. August wird er offiziell in den Ruhestand verabschiedet.

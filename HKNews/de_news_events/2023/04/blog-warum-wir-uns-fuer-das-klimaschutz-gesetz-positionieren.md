@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/04/blog-warum-wir-uns-fuer-das-klimaschutz-gesetz-positionieren.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Mehr als 200 Wissenschaftlerinnen und Wissenschaftler von Schweizer Universitäten und Forschungsanstalten unterstützen das Klimaschutz-Gesetz. Die Expert:innen aus den Bereichen Klima, Energie, Umwelt und Nachhaltigkeit sowie weiteren Fachrichtungen mit Bezug zum Klimawandel veröffentlichten dazu eine Stellungnahme. 1

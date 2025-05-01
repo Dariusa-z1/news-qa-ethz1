@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/10/rechnen-furs-klima-teil-1-evolution-der-modelle.html
 
-**Date processed:** 2025-05-01
-
 ## Eine Frage der Auflösung
 
 Prognosen des Wetters und – in einem grösseren Rahmen – des Klimas sind ein komplexer Prozess. Dabei fliessen aktuelle lokale und globale Beobachtungen in spezialisierte Computerprogramme ein, die dann die künftigen meteorologischen Bedingungen modellieren. Die Ergebnisse solcher Simulationen sind nicht nur wichtig für den täglichen Wetterbericht; sie geben auch Antworten auf Fragen des Klimawandels, etwa bezüglich Anpassung (wie sollen wir mit dem künftigen Klima umgehen?) und Schutzmassnahmen (wie können wir den Klimawandel eindämmen?).

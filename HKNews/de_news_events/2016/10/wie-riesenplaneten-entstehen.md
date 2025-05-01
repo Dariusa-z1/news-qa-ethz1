@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/10/wie-riesenplaneten-entstehen.html
 
-**Date processed:** 2025-05-01
-
 ## Simulation mit Supercomputer
 
 Astronomen haben zwei Theorien aufgestellt, welche die Geburt von Riesenplaneten wie Jupiter oder Saturn erklären. Beim ersten Mechanismus findet der Aufbau von unten nach oben statt, indem sich zuerst ein fester Kern bildet, der etwa zehnmal so gross ist wie die Erde. «Dann hat dieser Kern genügend Masse, um eine beträchtliche Menge Gas anzuziehen und zurückzuhalten», erklärt Judit Szulágyi, Astrophysikerin an der ETH Zürich und Mitglied des Nationalen Forschungsschwerpunkts PlanetS.

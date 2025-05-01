@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/11/pr-erc-consolidator-grants.html
 
-**Date processed:** 2025-05-01
-
 ## Support is effective
 
 Researchers from ETH Zurich have never before been able to win so many ERC Consolidator Grants in one round as they managed to this time. The high success rate is also impressive: Of a total of 18 entries, two thirds advanced to the second round. And of these, 11 earned the highest rating, an “A” score (61.1%), and 10 were ultimately approved. This corresponds to a 55.5 percent success rate. The average success rate for Consolidator Grants had previously been just under 38 percent.

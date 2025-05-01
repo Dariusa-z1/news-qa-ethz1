@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/01/kohle-klima-und-entwicklung-die-rolle-indiens.html
 
-**Date processed:** 2025-05-01
-
 ## Die zwei Seiten der Medaille
 
 Der für Kohle zuständige indische Minister of State Piyush Goyal, ein relativ junger, gut vernetzter und in den USA weitergebildeter Mann, hat angekündigt, den Kohleabbau Indiens in den kommenden fünf Jahren zu verdoppeln. Indien verfügt über grosse Kohlereserven, doch die Qualität der Kohle ist in der Regel schlecht, und der CO 2 -Ausstoss pro erzeugte Nutzenergiemenge hoch. Der aus Indien stammende Veerabhadran Ramanathan, Direktor des Centers for Atmospheric Sciences an der Scripps Institution of Oceanography, wird in einem kürzlich in der New York Times erschienenen Artikel [1] wie folgt zitiert: «If India goes deeper and deeper into coal, we’re all doomed; and no place will suffer more than India.» Dem hält Goyal in dem Artikel folgendes entgegen: «India’s development imperatives cannot be sacrificed at the altar of potential climate changes many years in the future, the West will have to recognize we have the needs of the poor.»

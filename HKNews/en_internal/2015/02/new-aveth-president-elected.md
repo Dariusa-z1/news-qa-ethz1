@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/02/new-aveth-president-elected.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Along with Florian Thöle, the following people have been elected to specific posts on the Board:

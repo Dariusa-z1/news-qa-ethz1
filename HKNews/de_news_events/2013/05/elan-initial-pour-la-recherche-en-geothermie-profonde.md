@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/05/elan-initial-pour-la-recherche-en-geothermie-profonde.html
 
-**Date processed:** 2025-05-01
-
 ## Un signal important
 
 La géothermie profonde est considérée comme une technologie porteuse d'avenir qui pourrait contribuer à exploiter l'énergie thermique du sol jusqu'à présent inutilisée. L'ETH Zurich avait décidé il y a quelque temps, de vouloir créer deux chaires universitaires en géothermie profonde. La donation de la Fondation Werner Siemens de 10 millions de francs suisses à l'ETH Zurich Foundation permet désormais à l'ETH Zurich de faire avancer concrètement la stratégie en matière de géothermie et d'installer la première chaire.

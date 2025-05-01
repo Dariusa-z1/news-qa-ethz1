@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/02/neues-gewaechshaus-auf-dem-hoenggerberg.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Seit letzter Woche läuft die Baustelleneinrichtung für das neue Labor für Pflanzenforschung (HPY) auf dem Campus Hönggerberg. Das Laborgebäude dient dem Institut für Molekulare Pflanzenbiologie (IMPB) als zusätzliche Forschungsanlage. Der Neubau wird aus einem Gewächshausbereich und einer Zone für Laborarbeiten mit entsprechender Infrastruktur sowie den dazugehörigen Nebenräumen bestehen.

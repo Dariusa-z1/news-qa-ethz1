@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/01/wasserstoff-mit-vorsicht-zu-behandeln.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wird Wasserstoff richtig hergestellt und verantwortungsvoll verwendet, kann das reaktive Gas für die Energiewende eine wichtige Rolle spielen. Denn Wasserstoff kann Gebäude heizen, Fahrzeuge antreiben und in hochtemperierten Industrieprozessen direkt Erdgas und Kohle ersetzen.

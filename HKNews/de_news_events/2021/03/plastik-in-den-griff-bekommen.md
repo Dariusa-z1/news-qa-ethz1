@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/03/plastik-in-den-griff-bekommen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 (Bild: ETH Zürich)

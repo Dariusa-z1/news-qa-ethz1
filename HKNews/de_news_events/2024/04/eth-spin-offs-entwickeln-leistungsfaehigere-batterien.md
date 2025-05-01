@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/04/eth-spin-offs-entwickeln-leistungsfaehigere-batterien.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Das ETH- und Empa-Spin-off BTRY entwickelt schnell ladbare Batterien, die resistent gegenüber Temperaturschwankungen und vielseitig einsetzbar sind.

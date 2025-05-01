@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/11/eth-spin-off-pxl-vision.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 «Wir bringen Vertrauen in die digitale Welt, indem wir sichere, verifizierte digitale Identitäten ermöglichen.» Mit diesem Satz fasst Karim Nemr die Geschäftsidee von PXL Vision zusammen. Der 34-Jährige ist einer der Gründer des ETH-Spin-offs, dessen Produkte dereinst genauso selbstverständlich zu unserem Alltag gehören könnten wie die Kaffeemaschine oder das Smartphone.

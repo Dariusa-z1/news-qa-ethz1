@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/09/sich-hilfe-bei-psychischen-problemen-zu-holen-ist-eine-kompetenz.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Cornelia Beck, Psychologin und Psychotherapeutin, leitet seit 2016 die Psychologische Beratungsstelle UZH/ETH.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/03/research-commission-welcomes-new-members.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 New members appointed for a term to 2019:

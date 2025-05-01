@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/11/meister-der-neuromodulierung.html
 
-**Date processed:** 2025-05-01
-
 ## Zwei Welten vereinen
 
 Stanisa Raspopovics Leidenschaft für das Gehirn, das Nervensystem und für Neurotechnologien begann während seinem Elektrotechnikstudium in Pisa. «Ich las damals in einer Wissenschaftszeitschrift einen Bericht über Forschung an Affen, die mit ihren Gedanken und via Hirnstrommessungen Roboterarme steuern konnten», sagt er.

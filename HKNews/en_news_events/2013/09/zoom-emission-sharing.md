@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/09/zoom-emission-sharing.html
 
-**Date processed:** 2025-05-01
-
 ## Calculating backwards
 
 Reto Knutti is a popular expert when it comes to climate predictions. Some time ago, this ETH Zurich professor of climate physics revealed that the greenhouse gas CO2 does not only influence the climate in the short term, but also for several centuries. And he was involved in the development of computer models that can be used to simulate climate changes and project them into the future.

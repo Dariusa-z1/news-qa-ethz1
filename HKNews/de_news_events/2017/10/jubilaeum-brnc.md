@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/10/jubilaeum-brnc.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH-News: Herr Hierold, morgen Dienstag findet an der ETH ein Symposium über das Binnig and Rohrer Nanotechnologie Center (BRNC) statt, das die ETH gemeinsam mit IBM in Rüschlikon betreibt. Was ist der Hintergrund dieses Anlasses? Christofer Hierold: Vor rund 10 Jahren nahmen wir mit IBM Gespräche auf, gemeinsam eine neue Forschungsplattform im Bereich Halbleiter-Nanotechnologie zu bauen. Daraus entstand das BRNC, das vor gut sechs Jahren in Rüschlikon eröffnet wurde. Das Kernstück des Zentrums ist ein grosser Reinraum, den wir gemeinsam nutzen. Dazu kommen noch Labors und Büros für Forschungsgruppen der ETH Zürich und IBM. Zudem ist auch die Empa ein Partner im BRNC. Nun ist für uns ein idealer Moment, Bilanz zu ziehen und in die Zukunft zu blicken.

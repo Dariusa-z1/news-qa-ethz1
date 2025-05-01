@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/12/nccr-qsit-switzerland-could-play-a-key-role.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Mr Ensslin, the National Centre of Competence in Research “Quantum Science and Technology” (NCCR QSIT) is now in its final month. It spanned a period shaped by the “second quantum revolution”. Could you explain what that is? The “second quantum revolution” refers to the entanglement of quantum objects, a phenomenon that enables us to control multiple quantum systems. Developments in this field began in the 1980s and expanded in recent years to incorporate the aspect of engineering. In other words, it was no longer about just controlling multiple quantum objects, but also using them to build entirely new systems.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/09/gastro-betriebe-beschliessen-verbesserungsmassnahmen.html
 
-**Date processed:** 2025-05-01
-
 ## Grössere Vielfalt gewünscht
 
 Besonders gute Noten verteilten die Befragten dem Personal sowie dem Ambiente (Mobiliar, Geschirr). Auch die Getränke, insbesondere die Kaffee- und Teequalität, kommen gut an. Verbesserungen gegenüber der Befragung von 2012 sehen die Befragten beim Salatangebot, den warmen Menüs, dem Snack- und Sandwichangebot sowie dem Preis-Leistungsverhältnis. Am zufriedensten sind die Gäste in den Verpflegungsbetrieben Clausiusbar, bQm und Dozentenfoyer.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/07/chemie-olympiade-im-55-jahr-erstmals-in-der-schweiz.html
 
-**Date processed:** 2025-05-01
-
 ## Fünfstündige Prüfungen und ein Besuch auf der Rigi
 
 Am 16. Juli treffen rund 350 junge Chemie-Talente aus gut 90 Nationen auf dem Campus Hönggerberg der ETH Zürich ein. Nachdem sie sich in nationalen Vorausscheidungen qualifizieren konnten, treten sie nun an der externe Seite Internationalen Chemie-Olympiade (IChO) gegeneinander an. Für alle Teilnehmer:innen wird der Wettbewerb mit Sicherheit ein einmaliges Erlebnis; für einige wird es gar die erste Auslandreise sein. Auch bei der Schweizer Kandidatin Sabine Isabelle Neuhaus steigt die Nervosität, aber auch die Vorfreude: «Ich freue mich darauf, mich mit Gleichgesinnten aus anderen Kulturen austauschen zu können, und ihnen die Schweiz zu zeigen», sagt Neuhaus. Sie ist eine von insgesamt 64 Frauen, die an der Olympiade teilnehmen, und eines von vier jungen Talenten, die die Schweiz am Wettbewerb vertreten. Ihre Teamkollegen sind: Vivian Michael Huber aus Basel, Alex Martinetti aus Lugano und Andrin Hauenstein aus Uster. Jede Länderdelegation kann ein Team von maximal vier Jugendlichen unter 20 Jahren entsenden.

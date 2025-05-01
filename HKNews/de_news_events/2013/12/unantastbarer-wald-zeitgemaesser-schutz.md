@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/12/unantastbarer-wald-zeitgemaesser-schutz.html
 
-**Date processed:** 2025-05-01
-
 ## Erfolgreicher Waldschutz
 
 Der Verlust an Kulturland geht ungebremst weiter. Im flachen Mittelland, in der Umgebung der Agglomerationen, betrifft dies meist wertvolles Ackerland. Der Wald hingegen ist heiliggesprochen. Er darf nicht angetastet werden, und dies obwohl die Waldfläche in der Schweiz weiterhin zunimmt, um rund 4‘500 Hektaren pro Jahr [1], mehrheitlich in den Alpen. Die Waldfläche im Mittelland bleibt ungefähr stabil.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/10/start-der-neuen-respekt-kampagne.html
 
-**Date processed:** 2025-05-01
-
 ## Tipps für «Upstander»
 
 Im Fokus der aktuellen Respekt-Kampagne stehen wir alle – denn jedes Mitglied der ETH-Community hat die Möglichkeit, einen Punkt zu machen und als «Upstander» einzuschreiten, wenn Grenzen des gegenseitigen Respekts überschritten werden. Ob in einer Sitzung, in der Forschungsgruppe oder beim informellen Mittagessen. «Verhaltensweisen wie Mobbing, Belästigung, Diskriminierung sowie Bedrohung und Gewalt haben an unserer Hochschule keinen Platz», spricht es ETH-Präsident Joël Mesot deutlich an. «Ein respektvoller Umgang miteinander ist die Grundlage unserer Gemeinschaft. Ich rufe daher alle ETH-Angehörigen dazu auf, für diese Werte einzustehen. Achten Sie aufeinander – und schreiten Sie ein, wenn Sie unangemessenes Verhalten beobachten – respektvoll, natürlich.»

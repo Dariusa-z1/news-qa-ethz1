@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2023/04/accessibility-at-eth-design-for%20all-campaign.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Switzerland ratified the United Nations Convention on the Rights of Persons with Disabilities (UNCRPD) back in 2014, yet people with disabilities continue to face obstacles on a daily basis, whether accessing buildings, information or events.

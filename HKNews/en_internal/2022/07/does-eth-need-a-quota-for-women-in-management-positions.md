@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/07/does-eth-need-a-quota-for-women-in-management-positions.html
 
-**Date processed:** 2025-05-01
-
 ## Pro
 
 Annegret Kern, Office of the President employee

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/03/klimawandel-fuehrt-nicht-zu-winterextremen.html
 
-**Date processed:** 2025-05-01
-
 ## Spannbreite der Temperatur wird abnehmen
 
 Die letzten beiden Winter brachten bittere Kälte über den Osten der USA. Über mehrere Wochen fielen die Temperaturen weit unter den Gefrierpunkt, und auf dem Lake Michigan vor Chicago trieben Eisschollen. So niedrige Temperaturen waren in den letzten Jahren selten geworden. Bilder von vereisten und schneebedeckten Städten gingen um die Welt und mit ihnen die Frage, ob der Klimawandel für diese Extremereignisse verantwortlich sei.

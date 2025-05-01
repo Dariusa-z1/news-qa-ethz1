@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/03/approaching-the-inexplicable.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Frédéric Merkt, Professor for Physical Chemistry. (Photo: ETH Zurich)

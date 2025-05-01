@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/06/wearable-muscles.html
 
-**Date processed:** 2025-05-01
-
 ## As much strength as necessary
 
 “My arms are simply getting weaker,” says Michael Hagmann, who was diagnosed with a rare form of muscular dystrophy known as Bethlem myopathy back in 2016. To compensate for the lack of muscle strength in his arms, Hagmann adjusts his movements in a way that results in poor posture and strain. Marie Georgarakis, a former doctoral student at ETH Zurich’s Sensory Motor Systems Lab, is familiar with the problem. “Although hospitals have numerous good therapy devices, they are often very expensive and unwieldy. And there are few technical aids that patients can use directly in their everyday lives and draw on for assistance in performing exercises at home. We want to close this gap,” says Georgarakis.

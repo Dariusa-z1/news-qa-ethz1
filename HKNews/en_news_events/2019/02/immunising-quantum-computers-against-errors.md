@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/02/immunising-quantum-computers-against-errors.html
 
-**Date processed:** 2025-05-01
-
 ## Periodic oscillatory states
 
 When building a quantum computer, one needs to reckon with errors – in both senses of the word. Quantum bits or “qubits”, which can take on the logical values 0 and 1 at the same time and thus carry out calculations faster, are extremely susceptible to perturbations. A possible remedy for this is quantum error correction, which means that each qubit is represented “redundantly” in several copies, such that errors can be detected and eventually corrected without disturbing the fragile quantum state of the qubit itself. Technically this is very demanding. However, several years ago an alternative suggestion came up in which information isn’t stored in several redundant qubits, but rather in the many oscillatory states of a single quantum harmonic oscillator. The research group of Jonathan Home, professor at the Institute for Quantum Electronics at ETH Zurich, has now realised such a qubit encoded in an oscillator. Their results have been published in the scientific journal Nature .

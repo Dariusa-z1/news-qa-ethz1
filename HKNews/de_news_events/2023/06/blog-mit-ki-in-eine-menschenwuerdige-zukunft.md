@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/06/blog-mit-ki-in-eine-menschenwuerdige-zukunft.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Künstliche Intelligenz würde man treffender als datenbasierte Systeme (DS) bezeichnen. Denn ihre Leistung fusst auf ihrem Vermögen, grosse Datenmengen auszuwerten, und einige Bereiche der Intelligenz entziehen sich dem Zugriff von DS: Soziale und emotionale Intelligenz bleiben für sie unerreichbar, weil ihnen echte Gefühle fehlen. Ebenso wenig sind sie moralfähig, weil ihnen dazu die Freiheit mangelt.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/12/den-wiederaufbau-der-ukraine-mit-recycling-beton-im-blick.html
 
-**Date processed:** 2025-05-01
-
 ## Kreislaufwirtschaft
 
 Es waren tragische erste Kriegstage, die Viacheslav Troian in seinem Vorort von Kiew erlebt hat und die den Professor an der Kiewer Nationalen Universität für Bauwesen und Architektur dazu bewogen haben, zusammen mit seiner Familie nach Westeuropa zu fliehen. Als Vater von vier Kindern war es ihm erlaubt, das Land zu verlassen. Dass er letztlich in der Schweiz und an die ETH gekommen ist, dabei hat auch ein gutes Stück Zufall mitgeholfen. «Wir standen in Budapest am Bahnhof, und ich habe mich mit meiner Frau beraten, wohin die Reise gehen soll», erzählt Troian. Ukrainische Flüchtlinge mussten damals für die Zugreise keine Fahrtkosten bezahlen. Lediglich die Platzreservation von drei Euro war fällig – egal wohin man fuhr. Endstation des einen Zuges, für den Troian Plätze reservieren konnte, war Zürich. Und so kam es, dass er und seine Familie in die Schweiz fuhren. «Wir haben damals gehofft, dass der Krieg bald zu Ende sein wird und wir zurückkehren würden.» Es kam anders.

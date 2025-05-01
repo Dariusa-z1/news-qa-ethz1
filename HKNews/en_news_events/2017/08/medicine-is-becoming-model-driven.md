@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/08/medicine-is-becoming-model-driven.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH News: Professor Buhmann, our society is currently going through a fundamental transformation process as the result of digitalisation. To what extent is this also changing medicine? Joachim Buhmann: Forecasting models will play a much greater role in medicine than they do today. Using computers, we can now develop far more complex models than we could in the past. And nowhere is the need for these models more urgent than in medicine. We can collect data from a large number of medical cases and use it to learn about the mechanisms of a disease. At the same time, however, there are so many model parameters to consider that we need machines to process them. Before digitalisation, humans couldn’t study models if their sheer complexity meant we could no longer remember them. Today, however, we can – in that we no longer design the models ourselves but rather consider possible “learning” algorithms, which are then responsible for generating the models. This is known as machine learning.

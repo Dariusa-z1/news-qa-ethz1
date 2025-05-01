@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/04/annual-report-2016.html
 
-**Date processed:** 2025-05-01
-
 ## More students – more courses
 
 A world record for the grimsel electric racing car, the opening of the Gotthard Base Tunnel and the new Arch_Tech_Lab laboratory with real-world conditions were just some of last year's highlights at ETH Zurich. The University presents the most important events and developments in its recently published 2016 Annual Report.

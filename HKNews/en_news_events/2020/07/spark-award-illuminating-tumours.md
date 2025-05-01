@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/07/spark-award-illuminating-tumours.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 “I can hardly believe that we were chosen,” Helma Wennemers says. “I’m very proud of Matt, who has been the driving force behind our invention.” Wennemers, Professor of Organic Chemistry, worked with Matthew Aronoff to develop a fluorescent marker intended to make the surgeon’s task easier. For their achievement, the two researchers have received the 2020 Spark Award.

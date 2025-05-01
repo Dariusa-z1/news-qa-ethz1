@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/04/solarjet.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Mehrere namhafte wissenschaftliche Einrichtungen von der akademischen Forschung bis zur Industrieforschung (ETH Zürich, Bauhaus Luftfahrt, Deutsches Zentrum für Luft- und Raumfahrt, ARTTIC und Shell Global Solutions) haben einen thermochemischen Produktionspfad untersucht, der konzentrierte Sonnenenergie nutzt. Dessen neuartige Solarreaktor-Technologie ermöglicht es, flüssige Kohlenwasserstoffe als nachhaltige Kraftstoffe für Mobilität und Verkehr zu gewinnen.

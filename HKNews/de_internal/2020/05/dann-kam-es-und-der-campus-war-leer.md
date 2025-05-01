@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/05/dann-kam-es-und-der-campus-war-leer.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wie schnell sich die Welt verändern kann! Noch ist es nicht lange her, da war der Campus Hönggerberg mit über 12’000 Studierenden und Mitarbeitenden so lebendig wie ein Stadtquartier – und auf dem Campus Zentrum gab es Orte wie die Polyterrasse, wo sich Hochschulangehörige gleichermassen sammelten wie die Touristen, die einen Blick auf die Altstadt und die Berge warfen.

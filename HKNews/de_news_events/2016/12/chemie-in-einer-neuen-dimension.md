@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/12/chemie-in-einer-neuen-dimension.html
 
-**Date processed:** 2025-05-01
-
 ## Modellversuch mit unerreichter Präzision
 
 In der chemischen Industrie werden 80 Prozent aller Produkte mit Katalyse-Verfahren hergestellt. Auch in der Energieumwandlung und -speicherung und der Abgasreinigung sind sie unverzichtbar. Das Beisein eines Katalysators sorgt dafür, dass chemische Reaktionen in Gang gebracht oder beschleunigt werden. Entsprechend wichtig ist, dass diese Verfahren möglichst schnell und effizient ablaufen; das schont die Umwelt, spart Zeit und Ressourcen. Deshalb hat die Industrie grosses Interesse daran, katalytische Verfahren zu optimieren. «Dafür braucht sie ein tieferes Verständnis davon, was auf molekularer Ebene vor sich geht», sagt Jeroen van Bokhoven, Professor für heterogene Katalyse an der ETH Zürich und Leiter des Labors Katalyse und nachhaltige Chemie am PSI.

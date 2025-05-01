@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/05/mindful-meditation-helps-us-make-better-decisions.html
 
-**Date processed:** 2025-05-01
-
 ## Abstract
 
 • People who practiced mindfulness meditation every day for two weeks as part of a study were less likely to avoid negative information.

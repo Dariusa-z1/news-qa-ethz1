@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/10/suche-nach-artikeln-im-wissensportal-erneuert.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Im zweiten Suchreiter "Artikel und mehr" im Wissensportal ergeben sich dadurch folgende Neuerungen:

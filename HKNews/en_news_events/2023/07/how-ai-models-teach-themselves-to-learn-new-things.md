@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/07/how-ai-models-teach-themselves-to-learn-new-things.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Despite their huge success, the inner workings of large language models such as OpenAI’s GPT model family and Google Bard remain a mystery, even to their developers. Researchers at ETH and Google have uncovered a potential key mechanism behind their ability to learn on-the-fly and fine-tune their answers based on interactions with their users. Johannes von Oswald is a doctoral student in the group headed by Angelika Steger, ETH Professor for Theoretical Computer Science, and researches learning algorithms for neural networks. His new paper will be presented at the International Conference on Machine Learning (ICML) in late July.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/02/bio-inspired-neuroprosthetics-sending-signals-the-brain-can-undrestand.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • Neuroprostheses are electro-mechanical devices that are connected to the nervous system. As yet, these are unable to provide natural communication with the brain. Instead, they often evoke artificial, unpleasant sensations, similar to a feeling of tingles over the skin.

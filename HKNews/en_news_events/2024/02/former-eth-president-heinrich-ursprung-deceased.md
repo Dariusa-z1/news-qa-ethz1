@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/02/former-eth-president-heinrich-ursprung-deceased.html
 
-**Date processed:** 2025-05-01
-
 ## International career as a scientist
 
 Heinrich Ursprung was not only a highly committed scientist but also a man who championed the interests of science in the political arena. “He played a key role in shaping the university landscape in Switzerland, first as President of ETH Zurich, then as President of the Swiss School Board – the current ETH Board – and subsequently as the first State Secretary for Science and Research. We are still benefiting from his initiatives today,” says Joël Mesot, President of ETH Zurich.

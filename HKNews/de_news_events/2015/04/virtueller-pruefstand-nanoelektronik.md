@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/04/virtueller-pruefstand-nanoelektronik.html
 
-**Date processed:** 2025-05-01
-
 ## Computer-Vorhersage
 
 Elektronische Bauelemente sind heute oft nur noch wenige Nanometer (Milliardstel Meter) gross. Gemäss dem sogenannten Mooreschen Gesetz halbiert sich beispielsweise die Grösse eines Transistors alle zwei Jahre. Nur so ist es möglich, heute auf dem Chip eines Smartphones zwei Milliarden Transistoren im Nanoformat zu platzieren. Die Winzlinge garantieren, dass das Smartphone die ständig wachsenden Anforderungen erfüllen kann – Telefon und Fotoapparat zu sein so wie Videokamera, Suchmaschine, persönlicher Gesundheitswächter und Entertainer auf hohem Niveau. Dabei müssen die Bauteile energieeffizient arbeiten und günstig produzierbar sein.

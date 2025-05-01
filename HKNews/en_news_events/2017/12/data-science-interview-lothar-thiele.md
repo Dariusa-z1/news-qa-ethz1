@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/12/data-science-interview-lothar-thiele.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Mr Thiele, you were recently appointed representative for digital transformation by the Executive Board. What are your responsibilities in this role? Thiele: Digitalisation is not just a major topic in the media; the economy and politics are feeling its effects too. This has repercussion for ETH, in that we are having to face many demands and requirements. As a leading institution, ETH wants to have an active say in the discussion surrounding digitalisation. This calls for a strategy on how to tackle the topic. We also need to set priorities. My task is to support the Executive Board, the professors and the departments in this area.

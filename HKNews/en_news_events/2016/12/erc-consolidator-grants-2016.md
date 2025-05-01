@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/12/erc-consolidator-grants-2016.html
 
-**Date processed:** 2025-05-01
-
 ## Horizon 2020 has a positive impact
 
 Three projects from researchers at ETH Zurich have been awarded ERC Consolidator Grants based on their scientific excellence. The projects will each receive funding of up to 2 million Swiss francs and address topics including the security of wireless digital networks, partial differential equations and “frequency combs” (see brief descriptions). Detlef Günther, ETH Zurich Vice President for Research and Corporate Relations, is very pleased by the European Research Council awards: “These are exceptional research projects that will generate essential basic knowledge in their respective fields. The research funding awards are very well deserved.”

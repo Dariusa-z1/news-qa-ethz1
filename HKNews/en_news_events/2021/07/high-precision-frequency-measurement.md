@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/07/high-precision-frequency-measurement.html
 
-**Date processed:** 2025-05-01
-
 ## Continuous correction
 
 For many scientific experiments, today’s researchers require a precise reference frequency that allows them to calibrate the time measurements made by their equipment. Such experiments include spectroscopy investigations – in which chemical reactions between molecules are examined in real time – and physical studies on natural constants.

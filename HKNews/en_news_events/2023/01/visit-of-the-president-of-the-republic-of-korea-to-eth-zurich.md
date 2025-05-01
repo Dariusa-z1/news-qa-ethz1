@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/01/visit-of-the-president-of-the-republic-of-korea-to-eth-zurich.html
 
-**Date processed:** 2025-05-01
-
 ## Quantum science at ETH Zurich
 
 President of the Republic of Korea Yoon Suk Yeol took advantage of his visit to the World Economic Forum’s Annual Meeting in Davos to make a detour to ETH Zurich to exchange views with quantum scientists. The visiting delegation included seven South Korean ministers.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/10/a-delegate-to-the-eth-board.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The University Assembly of ETH Zurich warmly invites all staff and students to an informational event on the ETH Domain and the role of the University Assembly delegate to the ETH Board.

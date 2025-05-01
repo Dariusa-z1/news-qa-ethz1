@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/03/in-the-giants-workshop.html
 
-**Date processed:** 2025-05-01
-
 ## The engineers and the cross
 
 At first glance, this huge neon-lit space could be mistaken for a shipyard somewhere in the port of Hamburg. A mobile overhead crane arches above, poised to hoist massive steel components, concrete columns and wooden beams across the hall. Around us are bolts as long and thick as an adult’s forearm and nuts as big as plates. Are we in some kind of giant’s workshop?

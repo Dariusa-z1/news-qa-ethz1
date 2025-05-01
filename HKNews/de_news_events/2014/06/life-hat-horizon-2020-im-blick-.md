@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/06/life-hat-horizon-2020-im-blick-.html
 
-**Date processed:** 2025-05-01
-
 ## Forschen in internationalen Teams
 
 Seit die Schweiz im Februar für eine begrenzte Zuwanderung stimmte, gilt sie bei Erasmus+ und Horizon 2020 als Drittstaat und nicht mehr als assoziierter Staat. Derzeit sind die Gespräche mit der EU ausgesetzt, wie es mit der Anbindung der Schweizer Forschung an Europa weitergeht.

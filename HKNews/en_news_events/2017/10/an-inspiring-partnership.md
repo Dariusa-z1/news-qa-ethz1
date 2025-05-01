@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/10/an-inspiring-partnership.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH News: Professor Hierold, a symposium will take place tomorrow, Tuesday, at ETH Zurich on the Binnig and Rohrer Nanotechnology Center (BRNC), which is run jointly by ETH Zurich and IBM in Rüschlikon. What is the background to this event? Christofer Hierold: We started talks with IBM about ten years ago to jointly build a new research platform in the field of semiconductor nanotechnology. The result was the BRNC, which opened in Rüschlikon more than six years ago. The centrepiece is a large cleanroom facility, which we share; in addition, there are laboratories and offices for research groups from ETH Zurich and IBM. Empa is also a partner in the BRNC. Now is the ideal time for us to take stock and look to the future.

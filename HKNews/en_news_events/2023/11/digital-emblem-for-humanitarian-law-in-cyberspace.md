@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/11/digital-emblem-for-humanitarian-law-in-cyberspace.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • Cyberattacks on critical digital infrastructure not only cause financial and logistical damage. They can also have catastrophic humanitarian consequences, for example in hospitals.

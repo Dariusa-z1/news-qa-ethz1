@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/11/sergio-mattarella-al-politecnico.html
 
-**Date processed:** 2025-05-01
-
 ## Swiss universities and Europe
 
 Mesot referred to ETH’s various historical links with Italy. He explained how ETH’s mission today remained unchanged since its foundation – to be at the service of society. The world today, however, is a different place, with numerous crises and challenges facing it and Switzerland. To solve them requires not only the political will for cross-border cooperation but also the contribution of science and innovative technologies. He then thanked the Italian President for his visit: “We greatly appreciate that you are giving us the opportunity today to build a cultural bridge while exchanging ideas with our researchers and students.”

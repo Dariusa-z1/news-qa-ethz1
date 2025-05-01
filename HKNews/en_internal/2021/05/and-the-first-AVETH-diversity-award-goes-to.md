@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/05/and-the-first-AVETH-diversity-award-goes-to.html
 
-**Date processed:** 2025-05-01
-
 ## The categories
 
 The jury was composed of three members of the diversity group at AVETH and one member from Equal!. For judging, the nominations were categorized into four main categories:

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/07/mit-drohnen-auf-spurensuche-im-dschungel.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Unter der Leitung von Forschenden der ETH Zürich und WSL nahm das Team ETH BiodivX am Halbfinale des internationalen Forschungswettbewerbs XPRIZE Rainforest teil.

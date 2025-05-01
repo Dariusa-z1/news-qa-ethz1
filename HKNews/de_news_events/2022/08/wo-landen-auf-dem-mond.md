@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/08/wo-landen-auf-dem-mond.html
 
-**Date processed:** 2025-05-01
-
 ## Eis als faszinierendes Potenzial
 
 1972 sind die letzten Menschen auf dem Mond gelandet – danach wurde das Apollo-Programm eingestellt. Doch das Interesse am Mond ist wieder neu erwacht. Nachdem China bereits 2020 mit einem Roboter auf der Rückseite des Mondes gelandet ist und dabei auch gleich eine Nationalflagge gehisst hat, plant die NASA voraussichtlich zwischen 2025 und 2028 mit dem Artemis-Programm in der Mond-Südpolregion zu landen. Astronaut:innen sollen dann speziell diesen Teil des Mondes erkunden.

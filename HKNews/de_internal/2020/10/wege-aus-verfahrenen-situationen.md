@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/10/wege-aus-verfahrenen-situationen.html
 
-**Date processed:** 2025-05-01
-
 ## Frühzeitig Beratung anfordern
 
 Markus T.* weiss nicht mehr weiter. Im Rahmen seiner Doktorarbeit nutzt der junge Wissenschaftler ein Labor der ETH. Seit gut einem Jahr geht er dort fast täglich ein und aus. An seiner Arbeit hat er Freude, er fühlt sich zunächst gut integriert. Als Markus eine Unachtsamkeit begeht und dadurch ein Set von Proben unbrauchbar wird, muss die Forschungsgruppe einen grösseren Sondereffort leisten, um den Schaden zu beheben.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/12/zwei-energiekompetenzzentren-fuer-die-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Elektrifizierung und Effizienzsteigerung
 
 Die Schweiz will ihren Energiebedarf langfristig möglichst aus erneuerbaren Quellen decken. So hat der Bundesrat nicht nur den Ausstieg aus der Atomenergie beschlossen, sondern mit der Energiestrategie 2050 auch eine Wende hin zu klimaschonenden CO 2 -neutralen Energiequellen eingeläutet. Um dafür technologisch gerüstet zu sein, fördert der Bund die Energieforschung. Er schafft deshalb im ETH-Bereich sieben Energiekompetenzzentren, die während den kommenden drei Jahren – und möglicherweise anschliessend für weitere vier Jahre – betrieben werden. Bezeichnet werden sie als «Swiss Competence Centers for Energy Research» (SCCER). Während den ersten drei Jahren fliessen insgesamt 72 Millionen Franken Bundesgelder in diese Zentren.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/01/peko-is-looking-for-new-members.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Do you want to play an active role in representing the interests of the ETH staff? As a member of the ETH Zurich Staff Commission, you can do just that. For the upcoming term of office, the Commission is looking for committed, innovative ETH employees from the administrative and technical areas who are prepared to play an active role in representing the interests and concerns of the staff. Existing members may be re-elected for the new term.

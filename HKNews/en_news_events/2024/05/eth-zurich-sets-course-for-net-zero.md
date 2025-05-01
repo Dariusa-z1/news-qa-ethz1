@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/05/eth-zurich-sets-course-for-net-zero.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • The "ETH Net Zero" programme bundles all activities for a far-reaching reduction in emissions in university operations between 2024 and 2030.

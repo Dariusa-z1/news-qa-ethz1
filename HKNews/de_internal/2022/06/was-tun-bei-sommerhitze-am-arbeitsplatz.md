@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/06/was-tun-bei-sommerhitze-am-arbeitsplatz.html
 
-**Date processed:** 2025-05-01
-
 ## Das können Sie tun
 
 Vorsorgemassnahmen

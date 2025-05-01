@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/01/brain-signals-for-drug-screening.html
 
-**Date processed:** 2025-05-01
-
 ## Looking into the brain
 
 There are still comparatively few treatments available for brain diseases. Among other reasons, this is due to the difficulty of developing new drugs, as it is not easy to establish the effects and side effects of a substance on the brain. The standard in medical research is behavioural studies involving rodents, in which researchers give the animals a new drug and document their patterns of behaviour. These studies are important, but they are not suitable for use in the search for new drugs via high-throughput screening. This method is used in the pharmaceutical industry, among other, and involves testing tens of thousands of substances in parallel, which is not possible when making behavioural observations of rodents.

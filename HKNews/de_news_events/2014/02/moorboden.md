@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/02/moorboden.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Das stäbchenförmige Bodenbakterium Shewanella oneidensis kann Elektronen aus seinem Stoffwechsel auf Huminstoffe übertragen. (Bild: Andreas Kappler, Universität Tübingen)

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/12/alea-award-bekommt-ein-upgrade.html
 
-**Date processed:** 2025-05-01
-
 ## AVETH und VPPL setzen sich gemeinsam für gute Leadership ein
 
 Im Jahr 2017 hatte der ALEA Award (kurz für «Art of Leadership Award») seinen ersten grossen Auftritt an der ETH. Die Vereinigung AVETH rief den Preis als Nachfolger des Goldenen Dreirads ins Leben: Fortan wurde der ALEA Award jährlich im Rahmen grosser, interner ETH-Ereignisse an Führungspersonen vergeben, die von ihren Mitarbeitenden für ihren vorbildlichen Führungsstil nominiert wurden – entweder im Rahmen des Weihnachtsapéros oder des Mitarbeitendenfests togETHer.

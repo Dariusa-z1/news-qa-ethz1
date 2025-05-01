@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/05/karlen-digital-health-vor-dem-absturz-bewahren.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Seit Wochen verfolge ich aufmerksam die Berichterstattung über die Tragödien des Lion-Air-Fluges 610 und des Fluges 302 der Ethiopian Airlines. Die Abstürze des neuen Flugzeugtyps 737 Max von Boeing erfolgten nach sehr ähnlichen Mustern. 189 respektive 158 Menschen kamen ums Leben. Nicht nur diese Todesfälle machen mich betroffen, auch sehe ich Parallelen zwischen den Ursachen dieser Flugunfälle und Forschungsfragen, mit denen ich mich in meinem Gebiet, der Digitalisierung und Automatisierung im Gesundheitswesen, beschäftige.

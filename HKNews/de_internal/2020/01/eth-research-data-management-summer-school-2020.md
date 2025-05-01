@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/01/eth-research-data-management-summer-school-2020.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Sessions decken folgende Themen ab:

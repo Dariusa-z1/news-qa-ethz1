@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/09/commercially-viable-production-of-climate-neutral-plastic-is-possible.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Since the early 1950s, plastics have found their way into almost every area of modern life. Between 1964 and 2014, plastic consumption increased twentyfold, from 15 to 311 million tonnes per year. Not only has environmental pollution from plastic waste increased during this time, but the amount of petroleum its manufacture consumes is large, as are the associated greenhouse gas emissions.

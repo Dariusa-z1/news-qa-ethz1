@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/02/blog-fuer-einen-gerechten-zugang-zu-urbanem-gruen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Auf dem Quai beim See flanieren, dem Fluss entlang durch die Stadt spazieren, Pingpong spielen im Park – es sind alltägliche Selbstverständlichkeiten wie diese, die unser Wohlbefinden steigern. Selbstverständlichkeiten, mit denen wir unsere Freizeit gestalten – und dann war das Selbstverständliche auf einmal nicht mehr möglich.

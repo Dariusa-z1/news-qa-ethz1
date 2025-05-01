@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/09/flexible-batterie.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Elektronikbranche setzt immer mehr auf Computer oder Smartphones mit falt- oder rollbaren Bildschirmen. In intelligenten Kleidern kommen tragbare Kleinstgeräte oder Sensoren zum Einsatz, um beispielsweise Körperfunktionen zu überwachen. All diese Geräte brauchen jedoch eine Energiequelle, und in der Regel ist dies eine Lithiumionenbatterie. Nur: solche Batterien sind schwer und rigid und damit im Prinzip ungeeignet für Anwendungen in flexiblen Elektronikgeräten oder Textilien.

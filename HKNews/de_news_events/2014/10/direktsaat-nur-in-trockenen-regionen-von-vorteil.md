@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/10/direktsaat-nur-in-trockenen-regionen-von-vorteil.html
 
-**Date processed:** 2025-05-01
-
 ## Ertragssteigerung in trockenen Regionen
 
 Während Schweizer Bauern ihre Äcker in der Regel pflügen, bevor sie eine neue Feldfrucht säen, verzichtet ein grosser Teil ihrer südamerikanischen Kollegen darauf. Stattdessen pflegen diese Landwirte die sogenannte Direktsaat: Sie lassen die Stoppeln der Vorkultur auf dem Feld stehen, ziehen mit einer speziellen Maschine Schlitze in den Boden, in welche die Maschine im selben Arbeitsschritt die nachfolgende Frucht sät. Die Direktsaat ist Teil einer Anbaumethode, die auf Englisch als «Conservation Agriculture» bezeichnet wird. Weil damit auf das Pflügen verzichtet werden kann, gilt die Conservation Agriculture gegenüber der herkömmlichen Anbaupraxis als zeit- und kosteneffizienter. Umstritten ist allerdings, wie es auf der Ertragsseite aussieht. Einige frühere Studien zeigten, dass die Conservation Agriculture zu geringeren Erträgen pro Fläche führt.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/07/unravelling-corrosion.html
 
-**Date processed:** 2025-05-01
-
 ## An open question from the 1950s
 
 The rate at which steel corrodes in concrete or other porous materials is crucial to a large number of technological applications, such as underground pipelines or steel-reinforced concrete bridges. Although various hypotheses and models have been around for decades, none of them is able to capture the scientific mechanism that is at the origin of the empirical data. Researchers in the team led by Ueli Angst, a professor at ETH focusing on the durability of engineering materials, have now solved this mystery. Their new and impressively simple model has just been published in the journal Nature Materials .

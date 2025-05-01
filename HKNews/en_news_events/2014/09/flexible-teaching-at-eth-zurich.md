@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/09/flexible-teaching-at-eth-zurich.html
 
-**Date processed:** 2025-05-01
-
 ## International role models
 
 From the outside, room HG E 41 looks just like any other seminar room. As of this semester, however, it has a new interior set-up specially designed to facilitate (inter)active and versatile forms of teaching.

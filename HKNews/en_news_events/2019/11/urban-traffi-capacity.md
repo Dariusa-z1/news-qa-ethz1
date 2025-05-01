@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/11/urban-traffi-capacity.html
 
-**Date processed:** 2025-05-01
-
 ## Analysis of traffic data from 41 cities
 
 People who commute by car will have an idea of what “traffic capacity” means, drawn from their own experience: as a stream of cars heads into a city early in the morning, the flow of traffic initially increases – until a critical point is reached in terms of the number of vehicles on the roads. From this point on, every additional car reduces the flow of traffic, and vehicles come to a standstill or form a traffic jam. This critical point represents a city’s traffic capacity, or its possible maximum traffic volume.

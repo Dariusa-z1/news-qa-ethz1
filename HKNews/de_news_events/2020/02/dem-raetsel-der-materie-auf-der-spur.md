@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/02/dem-raetsel-der-materie-auf-der-spur.html
 
-**Date processed:** 2025-05-01
-
 ## 50'000 Messungen
 
 Beim Urknall entstand sowohl die Materie des Universums als auch die sogenannte Antimaterie – so zumindest die gängige Theorie. Da sich die beiden allerdings gegenseitig auslöschen, muss ein Überschuss an Materie entstanden sein, der bis heute übrigblieb. Wie es dazu gekommen ist, ist eines der grossen Rätsel der Physik und Astronomie. Einen Hinweis auf das dahinterliegende Phänomen hoffen Forschende unter anderem mithilfe von Neutronen zu finden, den elektrisch ungeladenen Bausteinen der Atomkerne. Die Vermutung: Hätte das Neutron ein messbares elektrisches Dipolmoment (kurz: nEDM), könnte dahinter das gleiche physikalische Prinzip stecken, das auch den Überhang an Materie nach dem Urknall erklären würde.

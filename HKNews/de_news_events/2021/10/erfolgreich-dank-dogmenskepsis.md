@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/10/erfolgreich-dank-dogmenskepsis.html
 
-**Date processed:** 2025-05-01
-
 ## 100 Jahre altes Wissen
 
 Nicola Aceto ist ein fröhlicher Mensch. Während er von seiner Forschung erzählt, lacht er oft und fühlt sich in seinem Büro sichtlich wohl, obwohl es noch fast leer ist. Darin stehen erst ein Schreibtisch mit zwei Bildschirmen, ein Sitzungstisch und ein leeres Regal. Ein wenig werde sich der Raum füllen, sagt der Biochemiker, der zurzeit von der Universität Basel an die ETH Zürich umzieht. Auf das Regal kommen Zeichnungen seiner beiden Kinder und Post- und Gratulationskarten von Kollegen. An die kahlen Wände will er als erstes zwei Bilder der Entdeckung hängen, der er seinen Erfolg verdankt: kolorierte Mikroskop-Aufnahmen von Zusammenschlüssen von Tumorzellen. Aus diesen wachsen bei Krebspatienten häufig Metastasen. Für die Entdeckung dieser Zell-Cluster und ihrer Bedeutung hat der ETH-Professor für Molekulare Onkologie zahlreiche Preise erhalten, darunter kürzlich den Schweizer Wissenschaftspreis Latsis, der ihm am 4. November dieses Jahres von Bundespräsident Guy Parmelin überreicht wird.

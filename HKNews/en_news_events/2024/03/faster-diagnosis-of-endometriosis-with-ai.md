@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/03/faster-diagnosis-of-endometriosis-with-ai.html
 
-**Date processed:** 2025-05-01
-
 ## Entrepreneurs by chance
 
 Endometriosis is widespread. Around ten percent of all women of childbearing age throughout the world suffer from it. And “suffer” is the operative word here, as it takes an average of eight to twelve years for these benign growths of the endometrium in the abdominal cavity to be diagnosed. Years in which women endure severe pain generally before and during menstruation.

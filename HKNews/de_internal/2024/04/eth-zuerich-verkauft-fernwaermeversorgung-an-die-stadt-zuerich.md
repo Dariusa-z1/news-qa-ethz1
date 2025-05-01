@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/04/eth-zuerich-verkauft-fernwaermeversorgung-an-die-stadt-zuerich.html
 
-**Date processed:** 2025-05-01
-
 ## Übertrag auf den 1. Januar 2025 geplant
 
 Ab den 1940er-Jahren nahm die Bedeutung wärmetechnischer Grossanlagen, namentlich Dampfturbinen, Grossheizkessel und Wärmetauscher in der Forschung der ETH Zürich zu. Die dabei anfallende Abwärme wurde zunächst zur Beheizung von Hochschulgebäuden und später auch von Liegenschaften rund um den Gebäudekomplex ML/FHK genutzt. Über die Jahre entstand so das ETH-Fernwärmenetz am Standort Campus Zentrum.

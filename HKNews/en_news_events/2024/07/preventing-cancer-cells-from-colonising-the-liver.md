@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/07/preventing-cancer-cells-from-colonising-the-liver.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • ETH Zurich researchers have discovered proteins on the surface of colorectal cancer cells and liver cells that bind together and that play a major role in the formation of new metastases.

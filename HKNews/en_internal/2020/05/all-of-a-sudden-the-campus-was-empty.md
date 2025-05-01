@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/05/all-of-a-sudden-the-campus-was-empty.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 How quickly the world can change! Not long ago, the Hönggerberg campus, comprising more than 12,000 students and staff, was as lively as any city district – and on the central campus there were spots such as the Polyterrasse, where university members gathered alongside tourists who had come for a view of the old town and the mountains.

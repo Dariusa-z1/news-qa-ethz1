@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/08/die-schweiz-von-oben.html
 
-**Date processed:** 2025-05-01
-
 ## Warum Luftaufnahmen so attraktiv sind
 
 1973 gewinnt der FC Zürich mit 2:0 nach Verlängerung den Cupfinal gegen den FC Basel im Wankdorf-Stadion Bern. Was neben der sporthistorischen Dimension erstaunt: Von dieser Partie gibt es ein Luftbild, auf dem nicht nur das ausverkaufte Stadion, sondern auch der Parkplatz mit vielen bunten Fahrzeugen aus den 1970er Jahren zu sehen ist. Nebst dieser aussergewöhnlichen historischen Aufnahme sind im neuen Bildband «Swissair Luftbilder» 36 farbige und 112 schwarzweisse Abbildungen aus den Beständen der ETH-Bibliothek versammelt. Die älteste Aufnahme stammt aus dem Jahre 1918, die jüngste von 1999.

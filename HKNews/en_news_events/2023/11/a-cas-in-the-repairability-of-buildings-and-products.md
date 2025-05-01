@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/11/a-cas-in-the-repairability-of-buildings-and-products.html
 
-**Date processed:** 2025-05-01
-
 ## Dialogue between different experts
 
 Not only is it barely possible these days for mobile phones, toasters and vacuum cleaners to be repaired, but buildings are also frequently constructed in such a way that demolishing and rebuilding them pays off more than a repair. Yet repairing – and thereby reducing the consumption of materials – is the overriding principle for a sustainable handling of resources.

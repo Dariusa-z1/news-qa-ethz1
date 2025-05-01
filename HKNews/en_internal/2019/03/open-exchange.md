@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/03/open-exchange.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 More than 600 employees accepted the Executive Board’s invitation to the information event and were able to attend in person on the Hönggerberg or in one of the broadcasting rooms.Those who unfortunately could not attend at such short notice now have the opportunity to watch a protected page video recording of the event lock (password protected).

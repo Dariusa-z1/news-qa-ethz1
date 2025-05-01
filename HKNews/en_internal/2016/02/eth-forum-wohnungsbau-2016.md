@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/02/eth-forum-wohnungsbau-2016.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 How can one say what is a ‘fair’ price for housing? There is more than one way to look at this issue: plans for housing need to be more than just cost-effective – they also need to meet strict requirements in terms of profitability and social impact. Experts at the event will take an international perspective on developments in the housing sector, as well as addressing the general framework and key players. They will also be applying interdisciplinary insights to demonstrate how low-cost housing concepts can be put into practice. Speakers will offer critical perspectives on current strategies and their analysis of the latest challenges.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/03/spatial-timber-assemblies.html
 
-**Date processed:** 2025-05-01
-
 ## Mit robotischer Präzision
 
 Die Digitalisierung hat im Holzbau Einzug gehalten: Ganze Bauelemente werden bereits heute mit computergestützten Anlagen gefertigt. Dabei wird das Rohmaterial zwar von Maschinen zugeschnitten, danach jedoch meist manuell zu einem ebenen Rahmen verbaut. Dieser Fertigungsprozess schränkte die geometrische Gestaltungsfreiheit bis anhin stark ein.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/05/pulses-for-particle-accelerators.html
 
-**Date processed:** 2025-05-01
-
 ## Several hundred acceleration stages
 
 The most well-known use of high voltage pulses is in electric fences on farms. However, particle accelerators in large-scale research facilities such as CERN in Geneva also rely on high voltage pulse generators – but these produce pulses with much higher energies and voltages than those used in agricultural fences. Preparatory work is currently underway at CERN for the next large-scale research project from 2025. One of two potential projects is the construction of a 50-kilometre-long linear accelerator in a tunnel running from Nyon to the Rhone valley gorge near Bellegarde in France (CLIC project, see box). Researchers at ETH Zurich have developed a pulse generator required for this accelerator in the framework of a collaboration agreement with CERN. A few days ago, prototypes were delivered to CERN, where they will now be put through their paces.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/07/arbeiten-bei-hitze.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 As well as drinking enough, the following tips will help on hot days:

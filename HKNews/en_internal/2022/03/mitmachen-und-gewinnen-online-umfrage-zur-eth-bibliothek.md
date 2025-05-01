@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/03/mitmachen-und-gewinnen-online-umfrage-zur-eth-bibliothek.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The ETH Library promotes knowledge, supports teaching and research, and – as a trusted institution – makes the world of yesterday, today and tomorrow more comprehensible to you.

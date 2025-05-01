@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/06/globe-calculate-or-co-create.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 A huge map is spread out on the floor in front of us, populated by neat paper models connected by coloured threads and arrows. It’s a new world in the making – and a whole new imagining of Zurich’s Altstetten district. We’re standing in the Design in Dialogue Lab at the NEWROPE Chair of Architecture and Urban Transformation, where Professor Freek Persyn and his students are seeking to gain a better understanding of Altstetten and the dynamics of urban densification. “The Lab is a place where we can engage with stakeholders who are actively involved in the transformation of this district – from neighbourhood associations, residents and developers to allotment holders and architects with alternative ideas. That helps us see Altstetten from different angles,” says course leader Lukas Fink. The city of Zurich’s urban development plan argues that Altstetten offers significant potential for densification – and Freek Persyn agrees: “I wouldn’t describe Altstetten as metropolitan yet, but that’s definitely where it’s heading.” One of the priorities in his studio is to build up a common understanding of the district and discuss what development makes sense in this context. “Densification isn’t just about the numbers; it’s also about how we create new connections and tie new developments to what’s already there,” says Persyn.

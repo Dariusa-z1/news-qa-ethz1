@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/01/an-der-grenze-zwischen-physik-und-mathematik.html
 
-**Date processed:** 2025-05-01
-
 ## Schlüsselwort Symmetrie
 
 «Das Zusammenspiel von Physik und Mathematik hat mir schon in der Mittelschule gefallen», sagt Sylvain Lacroix, der vor 30 Jahren in der Nähe von Paris geboren und dort aufgewachsen ist. «Abstrakte Dinge in der Mathematik zu lernen und zu sehen, dass sie in der Physik eindeutig umgesetzt werden: Das war etwas, das mich fasziniert hat.» Während des Studiums an der École Normale Supérieure de Lyon beschäftigte er sich besonders gern und intensiv mit physikalischen Fragen, hinter denen sehr viel Mathematik steckte, und als er ein Thema für seine Doktorarbeit wählen musste, war klar, dass es aus diesem Bereich stammen sollte. Damals entschied sich Lacroix für die Erforschung der Theorie der sogenannten integrierbaren Modelle. Diesem Thema blieb er bis heute treu.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/05/pauli-lectures-devoted-to-cell-logistics.html
 
-**Date processed:** 2025-05-01
-
 ## Parcel service using the lock-and-key principle
 
 Similar to a chemical factory, cells manufacture various proteins at a relentless pace, which then have to be quickly transported to their destination after synthesis. Some of these molecules are intended for export to the cell’s surface, while others take on roles in the cell’s interior. Cells use a sophisticated distribution system to transport materials: they package freshly manufactured proteins in tiny bubble-shaped ferries called vesicles. These bring the special cargo to the right place at the right time and make no mistakes with the delivery addresses. It has long been a mystery as to how cells accomplish this logistical feat with such precision. James E. Rothman, a professor of biochemistry and cell biology at Yale University, is an expert in the field of cellular transport systems and has made a major contribution to solving the mystery of cell logistics.

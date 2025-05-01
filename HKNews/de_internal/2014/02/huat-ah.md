@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/02/huat-ah.html
 
-**Date processed:** 2025-05-01
-
 ## Neujahrsmonster und Drachentanz
 
 Mögen deine Herzenswünsche in Erfüllung gehen. - Chinesisches Sprichwort zum Neuen Jahr

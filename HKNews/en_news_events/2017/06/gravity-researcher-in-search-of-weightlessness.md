@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/06/gravity-researcher-in-search-of-weightlessness.html
 
-**Date processed:** 2025-05-01
-
 ## Building interdisciplinary bridges
 
 Two things immediately come to mind when reading Lavinia Heisenberg’s curriculum vitae: her name and her age. She acknowledges that she’s constantly quizzed whether she is related to the father of quantum mechanics and Nobel prize-winner, Werner Heisenberg. “Most of the time I quote Heisenberg’s own words from his Uncertainty Principle: ‘It`s uncertain’,” the young physicist explains. The family tree does not provide a clear answer. For Lavinia Heisenberg, the famous name is mostly an incentive to cast off the shadow of the great man of physics and draw attention to herself through her own ground-breaking research. She is well on course to do so: at the age of 33, Heisenberg has already worked at various prestigious universities in a dozen different countries, her list of publications runs to several pages, and she is currently applying for her first appointment as a professor.

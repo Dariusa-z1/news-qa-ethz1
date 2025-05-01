@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/09/schleusenwaerter-fuer-leberfette.html
 
-**Date processed:** 2025-05-01
-
 ## Von der Fettleber zur Herzattacke
 
 Das Oktoberfest in München hinterlässt im Körper Spuren: Fettes Essen und reichlich Alkohol sorgen dafür, dass die Leber viel zu tun hat. Dieses Organ speichert nämlich einen Teil der aufgenommenen Fette (und baut den Alkohol zu Fett um), gibt sie aber auch wieder ab, sobald der Exzess vorbei ist.

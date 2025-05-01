@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/05/hg-vorplatz-und-garage-werden-offener-und-hindernisfrei.html
 
-**Date processed:** 2025-05-01
-
 ## Anpassungen während Umbauzeit
 
 Wer kürzlich vor Ort war hat es bereits bemerkt, dass sich vor dem Hauptgebäude etwas getan hat und beim genauen Hinschauen bemerkt, dass die Pflanzen rund um den Vorplatz weg sind. Das ist eine der Vorbereitungsmassnahmen für die im Juni anstehenden Bauarbeiten am Vorplatz. Die Hecken wurden zu deren Schutz und Erhaltung in die Umgebung der Villa-Hatt verpflanzt. Nach den Sanierungsarbeiten werden neue Hecken eingesetzt.

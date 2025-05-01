@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/10/personalgespraeche-notwendiges-uebel-oder-verkannte-chance.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Jahresgespräche seien mühsam, nichtssagend und brächten Organisationen nicht weiter, klagen viele. Sind Personalgespräche überhaupt noch zeitgemäss? Diese Kritik hört man oft – man sollte sie zum Anlass nehmen, Gespräche zu verbessern. Das Personalgespräch sollte ein persönliches Gespräch sein, das aufmerksam und wertschätzend geführt wird. Ist dies nicht der Fall, empfindet man es als überflüssig oder als Abspulen einer Routine. Ein gutes Gespräch aber ist immer zeitgemäss.

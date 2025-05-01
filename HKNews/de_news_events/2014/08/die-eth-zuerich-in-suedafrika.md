@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/08/die-eth-zuerich-in-suedafrika.html
 
-**Date processed:** 2025-05-01
-
 ## Warum eine Partnerschaft in Afrika?
 
 Lino Guzzella, Rektor und designierter Präsident der ETH Zürich, besuchte diese Woche die Stellenbosch University in Südafrika und unterzeichnete eine Absichtserklärung zur Zusammenarbeit der beiden Hochschulen. Damit erhält die bereits bisher sehr erfolgreiche Zusammenarbeit einen offiziellen Rahmen. Zu den gemeinsamen Interessenbereichen gehören nachhaltige Produktionssysteme, Ernährung, Wasser, Naturschutzökologie und invasive Arten, Lebensmittelwissenschaft, Mineralogie und Insektenphysiologie. Die nun unterzeichnete Erklärung (Memorandum of Understanding) geht auf einen Besuch von ETH-Präsident Ralph Eichler in Südafrika im Jahr 2013 zurück sowie auf einen Workshop des World Food System Center der ETH Zürich und der Stellenbosch Food Security Initiative.

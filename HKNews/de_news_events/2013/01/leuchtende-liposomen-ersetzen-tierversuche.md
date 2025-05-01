@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/01/leuchtende-liposomen-ersetzen-tierversuche.html
 
-**Date processed:** 2025-05-01
-
 ## Stärker leuchten, bedeutet höhere Konzentration
 
 Das Botulinum-Neurotoxin (BoNT) ist eines der stärksten bekannten Gifte. Produziert wird es vom Bakterium Clostridium botulinum. BoNT hemmt die Signalübertragung von Nervenenden zu den Muskeln, was zu Lähmungen bis hin zum Atemstillstand führt. Ein Mikrogramm pro Kilogramm Körpergewicht reicht, um einen Erwachsenen zu töten. BoNT ist berüchtigt als Lebensmittelgift, zum Beispiel bei ungenügend sterilisiertem, eingemachtem Gemüse. Botulinum-Neurotoxin hat aber auch Vorzüge. So werden damit Dutzende von chronischen Leiden und Gebrechen behandelt, darunter nervlich bedingte Fehlhaltungen wie der Schiefhals, Schielen, Migräne oder der Tennisarm. Seit den 1990er Jahren braucht auch die Kosmetikindustrie das Gift im grossen Stil unter dem Namen Botox, um Falten im Gesicht zu glätten.

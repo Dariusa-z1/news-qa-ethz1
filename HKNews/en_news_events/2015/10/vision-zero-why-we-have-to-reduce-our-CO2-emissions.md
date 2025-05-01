@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/10/vision-zero-why-we-have-to-reduce-our-CO2-emissions.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Next Wednesday the third " Klimarunde " will take place. We titled the event “Vision zero”, as we will discuss the possible ways that could lead us to a CO 2 -neutral society. In this blog post, I would like to discuss the scientific background of this vision.

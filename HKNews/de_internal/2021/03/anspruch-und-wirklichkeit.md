@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/03/anspruch-und-wirklichkeit.html
 
-**Date processed:** 2025-05-01
-
 ## Ein Ausreisser bei den Beurteilungen der Werte
 
 Verantwortung, Offenheit, Vielfalt, Teamgeist und Exzellenz: Für wie wichtig halten ETH-Angehörige diese Werte der neuen ETH-Charta? Wie werden sie im Alltag gelebt? Und gibt es andere Werte, die für eine gute und erfolgreiche Zusammenarbeit wichtig wären? Diese Fragen haben die Verantwortlichen des rETHink-Workstreams 6 (Kulturentwicklung) in einem Intern-aktuell-Artikel aufgeworfen und die Leserinnen und Leser dazu aufgerufen, an einer Umfrage teilzunehmen. Rund 300 ETH-Angehörigen haben sich daran beteiligt.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/08/das-falling-walls-lab-zurich-sucht-ueberzeugende-talente.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In drei Minuten Redezeit das Publikum und die Jury von einer innovativen Idee auf Englisch überzeugen – das ist die Herausforderung des externe Seite Falling Walls Lab , das am 21. September 2016 zum dritten Mal in Zürich stattfindet. Als Schauplatz dient ab 18 Uhr das Kulturcafé bQm in der Polyterrasse.

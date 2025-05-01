@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/07/the-new-york-times-online-verfuegbar-mehr-wissen-mehr-welt.html
 
-**Date processed:** 2025-05-01
-
 ## … erweitern Sie Ihr Welt-Wissen und …
 
 … Sie so sofortigen Zugang zur «The New York Times»-Online-Ausgabe erhalten. Das geht ganz einfach:

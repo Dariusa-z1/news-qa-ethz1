@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/05/sparking-off-research-into-deep-geothermal-energy.html
 
-**Date processed:** 2025-05-01
-
 ## Sending an Important Signal
 
 Deep geothermal energy is regarded as a very promising technology, as it would allow previously unused heat energy from the ground to be tapped. ETH Zurich had decided some time ago to create two chairs in deep geothermal energy underlining its desire to play an active part in shaping Switzerland's future energy landscape. With a donation of 10 million Swiss francs to the ETH Zurich Foundation from the Werner Siemens Foundation, ETH Zurich can take firm steps to press ahead with its geothermal energy strategy by appointing its first chair.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/06/globe-optimistisch-in-schwierigen-zeiten.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Politikwissenschaftlerin Linda Maduz. Bild: Daniel Winkler

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/04/mehr-spielraum-mit-refine.html
 
-**Date processed:** 2025-05-01
-
 ## Integrale Sicht auf Budgets
 
 Niemand an der ETH Zürich hat den Lohn im Januar doppelt oder gar nicht erhalten. Das hätte auch anders laufen können. Am 9. Januar 2019 wurde – vier Jahre nach dem Start des Projektes «refine» – das ETH-Informations- und Support-Portal ETHIS auf die neueste SAP-Software S/4 HANA umgestellt.

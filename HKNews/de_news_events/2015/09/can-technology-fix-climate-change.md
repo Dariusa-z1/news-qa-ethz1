@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/09/can-technology-fix-climate-change.html
 
-**Date processed:** 2025-05-01
-
 ## A less rosy view of technological change
 
 • The first path is that PV could make electricity less expensive, stimulating additional growth in electricity consumption (classical rebound effect). But since PV doesn’t work at night, the additional consumption could lead to greater demand for conventionally generated power: more coal and gas.

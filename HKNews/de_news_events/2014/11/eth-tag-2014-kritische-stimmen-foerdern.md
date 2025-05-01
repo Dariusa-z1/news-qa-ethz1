@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/11/eth-tag-2014-kritische-stimmen-foerdern.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 «Eine gute Hochschule vermittelt nicht primär Wissen, sondern die Fähigkeit zu denken». Dies sagte ETH-Rektor Lino Guzzella in seiner Rede zum diesjährigen ETH-Tag. Wissenschaftlerinnen und Wissenschaftler müssten ihren Forschungsansatz sorgfältig auswählen, dabei die Suchrichtung immer wieder justieren und ihre eigenen Resultate selbstkritisch prüfen. Kritische Stimmen sind deshalb nicht nur zuzulassen, sondern sogar zu fördern. Die ETH Zürich sei deshalb daran, mit einer breit abgestützten Initiative das eigenständige Reflektieren noch verstärkt ins Curriculum ihrer Studierenden aufzunehmen.

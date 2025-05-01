@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/09/antimicrobial-resistances-on-the-rise.html
 
-**Date processed:** 2025-05-01
-
 ## Mapping resistance hotspots
 
 The world is experiencing unprecedented economic growth in low- and middle-income countries. An increasing number of people in India, China, Latin America and Africa have become wealthier, and this is reflected in their consumption of meat and dairy products. In Africa, meat consumption has risen by more than half; in Asia and Latin America it is up by two-thirds.

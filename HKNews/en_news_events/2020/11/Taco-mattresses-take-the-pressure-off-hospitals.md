@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/11/Taco-mattresses-take-the-pressure-off-hospitals.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 When the first wave of coronavirus ran its course in spring, Julian Ferchow was shocked to begin with. “We saw the pictures coming in from Italy, with exhausted doctors and distraught nursing staff.” He knew right away: “We have to help out.” Ferchow put his doctoral project aside for a while and assembled a 20-strong team. Within four weeks, using virtual tools, they developed what is known as the Proning Taco system, which makes it easier for nursing staff to rotate COVID-19 patients in intensive care. This takes the pressure off hospitals crippled by a lack of personnel during the pandemic.

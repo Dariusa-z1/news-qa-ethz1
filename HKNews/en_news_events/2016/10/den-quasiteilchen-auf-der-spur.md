@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/10/den-quasiteilchen-auf-der-spur.html
 
-**Date processed:** 2025-05-01
-
 ## Excitons and polarons
 
 If one tries to understand weather phenomena, it’s not much use looking at the behaviour of single water droplets or air molecules. Instead, meteorologists (and also laymen) speak of clouds, winds and precipitation – objects that result from the complex interplay between small particles. Physicists dealing with the optical properties or the conductivity of solids use much the same approach. Again, tiny particles – electrons and atoms – are responsible for a multitude of phenomena, but an illuminating picture only emerges when many of them are grouped into “quasiparticles”.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/08/elektronen-am-tempolimit.html
 
-**Date processed:** 2025-05-01
-
 ## Grundstein aus den Neunziger Jahren
 
 Geschwindigkeit mag keine Hexerei sein, doch sie ist die Grundlage für Technologien, die nicht selten wie Magie anmuten. Moderne Computer etwa sind so leistungsfähig, weil in ihnen winzige Schaltelemente elektrische Ströme in Bruchteilen einer Milliardstel Sekunde steuern. Die unglaublichen Datenflüsse des Internet wiederum sind nur möglich, weil äusserst schnelle elektro-optische Modulatoren Informationen in Form sehr kurzer Lichtpulse durch Glasfaserkabel schicken.

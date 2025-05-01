@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/04/interview-gudela-grote.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die ETH ist seit Wochen im Notbetrieb: Für die überwiegende Mehrheit von uns bedeutet das Homeoffice. Wie geht es uns dabei? Schaffen wir es, trotzdem weiterhin effizient zu arbeiten? Können wir auch in physischer Isolation mit Kolleginnen und Kollegen verbunden bleiben?

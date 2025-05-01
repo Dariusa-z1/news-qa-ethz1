@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/09/influenza-vaccination.html
 
-**Date processed:** 2025-05-01
-
 ## Who should take advantage of vaccination?
 
 The seasonal influenza vaccination campaign will be held this October and November, led by Patrick Lehmann from the Safety, Security, Health and Environment (SSHE) department. This campaign is offered in collaboration with our external partner AEH, the Centre for Occupational Medicine, Ergonomics and Hygiene. Students and staff at ETH can take advantage of the campaign, with the costs covered by the university. With this move, ETH hopes to make a positive contribution to health protection and prevent infection among its members. Flu vaccination provides protection not only for the individual being vaccinated, but also for others. ETH members have been able to benefit from this offer since 2002; the individuals concerned belong to all age groups and include students, apprentices and retired ETH members. In view of the Covid-19 safety concept and a shortage of vaccination doses, family members will not be included in this year’s campaign.

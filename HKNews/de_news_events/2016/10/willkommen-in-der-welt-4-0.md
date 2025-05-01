@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/10/willkommen-in-der-welt-4-0.html
 
-**Date processed:** 2025-05-01
-
 ## Digitale Helfer im Alltag
 
 Ein Leben ohne Internet, Handy und ständige Vernetzung? Für viele Menschen nur schwer vorstellbar. Die digitale Revolution hält zunehmend Einzug in unseren Alltag und eröffnet uns zahlreiche neue Möglichkeiten. Das Potential der Digitalisierung ist jedoch längst noch nicht ausgeschöpft. Deshalb forschen auch an der ETH Zürich Wissenschaftlerinnen und Wissenschaftler täglich an technischen Weiterentwicklungen in verschiedenen Forschungsbereichen.

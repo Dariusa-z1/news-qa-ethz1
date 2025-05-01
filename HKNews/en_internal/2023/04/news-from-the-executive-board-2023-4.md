@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2023/04/news-from-the-executive-board-2023-4.html
 
-**Date processed:** 2025-05-01
-
 ## Departmental evaluations: Revised timetable for 2024–2032
 
 ETH Zurich regularly audits the quality of its teaching, research and services, thus ensuring long-term quality assurance and enhancement. One way the university does this is through departmental evaluations. In the past, these were generally carried out every seven years. However, several dates have had to be postponed in recent years due to the coronavirus pandemic.

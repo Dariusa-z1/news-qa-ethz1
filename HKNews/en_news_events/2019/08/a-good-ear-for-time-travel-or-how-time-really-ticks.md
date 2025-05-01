@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/08/a-good-ear-for-time-travel-or-how-time-really-ticks.html
 
-**Date processed:** 2025-05-01
-
 ## Travelling through time-like loops
 
 Have you ever come face-to-face with yourself before? Obviously not. But it is the kind of thing that might happen during time travel in science fiction – for example, in films such as Back to the Future (see box). In this 1980s blockbuster, Marty McFly travels back in time from 1985 to 1955. This is the year when his parents fell in love. When Marty intervenes in the plot, he changes the past – and runs the risk that his parents will neither fall in love nor get married. If that had happened, he never would have been born. But how could Marty have travelled through time if he doesn’t exist?

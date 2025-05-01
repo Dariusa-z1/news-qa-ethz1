@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/06/update-from-the-executive-board.html
 
-**Date processed:** 2025-05-01
-
 ## Strengthening the Executive Board
 
 At its last retreat, the Executive Board reached some initial decisions on the future development of the university. The discussion centred on the organisation of the Executive Board itself, the collaboration between the academic departments and the Executive Board, the university’s core values and the further development of leadership and management in the academic domain.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/07/ein-hydrogel-implantat-gegen-endometriose.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Hydrogele sind Gele aus Kunststoff, die Wasser binden können. Sie werden zur Freisetzung von Medikamenten, in Feuchtigkeitscremes oder als Gelier- und Verdickungsmittel eingesetzt.

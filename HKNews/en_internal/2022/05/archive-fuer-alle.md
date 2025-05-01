@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/05/archive-fuer-alle.html
 
-**Date processed:** 2025-05-01
-
 ## Events
 
 • Tuesday, 7 June 2022, 6.15 p.m.: Eastern Europe at the ETH Zurich Archives (guided tour of the ETH Zurich University Archives)

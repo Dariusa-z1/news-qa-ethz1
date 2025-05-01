@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/12/die-schulleitungiinformiert-2022-10.html
 
-**Date processed:** 2025-05-01
-
 ## Sonia Seneviratne ist neue Delegierte für Nachhaltigkeit
 
 Auf 31. Dezember 2022 gibt Reto Knutti, Professor für Klimaphysik am D-USYS, das Amt des Delegierten für Nachhaltigkeit ab, welches er seit 2015 ausübte. Als neue Delegierte konnte Sonia Seneviratne gewonnen werden, seit 2016 ordentliche Professorin für Land-Klima-Dynamik am Institut für Atmosphäre und Klima, ebenfalls am D-USYS. Die Schulleitung dankt Reto Knutti für seinen langjährigen und wertvollen Einsatz als Delegierter für Nachhaltigkeit und wünscht Sonia Seneviratne einen guten Start in ihrer neuen Funktion. Mehr zur Stabsübergabe von Reto Knutti an Sonia Seneviratne erfahren Sie in diesem Artikel .

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/07/die-schnellste-drehung-der-welt.html
 
-**Date processed:** 2025-05-01
-
 ## Pinzette aus Licht
 
 Nichts auf der Welt dreht sich schneller als ein winziges Teilchen in einem Labor des Instituts für Photonik in Zürich. Dort gelang es ETH-Professor Lukas Novotny und seinen Mitarbeitern, ein nur einhundert Nanometer grosses Glaspartikel – tausendmal kleiner als der Durchmesser eines Haares – derart zu manipulieren, dass es sich pro Sekunde mehr als eine Milliarde Mal um seine Achse dreht. Von solchen Experimenten erhoffen sich die Forscher unter anderem neue Erkenntnisse über die Stabilität von Glas und anderen Materialien bei extremen Belastungen. Die Ergebnisse ihrer Arbeit veröffentlichten sie kürzlich im Fachjournal externe Seite Physical Review Letters .

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/06/tanja-stadler-erhaelt-roessler-preis.html
 
-**Date processed:** 2025-05-01
-
 ## Mathematiker:innen unter sich
 
 Tanja Stadler erklärt ihr Forschungsgebiet mit Hilfe eines Baums. Bei der Fortpflanzung verändern sich die genetischen Informationen – sie verästeln sich wie die Zweige eines Baums. «Ich beantworte biologische Fragen, indem ich aus genetischen Sequenzen den Baum rekonstruiere und dann die biologischen Prozesse daraus berechne.» Gekonnt erklärt Tanja Stadler, wie sich diese Herangehensweise praktisch auf alle Bereiche der Biologie übertragen lässt und gibt sich Mühe, besonders anschauliche Beispiele zu finden. Seien es Viren, die mutieren, Krebszellen, die sich vermehren bis hin zum Ökosystem, das sich stetig entwickelt. Die ETH-Professorin hat an diesem Tag auch einen prominenten Zuhörer – der Wissenschaftsmäzen Max Rössler besucht sie in ihrem Labor am ETH-Departement für Biosysteme in Basel.

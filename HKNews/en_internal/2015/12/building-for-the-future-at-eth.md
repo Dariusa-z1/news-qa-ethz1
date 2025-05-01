@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/12/building-for-the-future-at-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 New apartment buildings for students, two new cafeterias and a redesigned forecourt for the ETH main building are just a few of the current construction projects at the Hönggerberg campus and around the ETH Zurich Zentrum site. This issue of “life” highlights what is being planned where, and also gives an update on the process of returning certain buildings to their original residential purpose.

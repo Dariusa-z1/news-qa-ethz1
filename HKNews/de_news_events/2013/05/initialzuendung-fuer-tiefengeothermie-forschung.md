@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/05/initialzuendung-fuer-tiefengeothermie-forschung.html
 
-**Date processed:** 2025-05-01
-
 ## Wichtiges Signal
 
 Die Tiefengeothermie gilt als aussichtsreiche Technologie, mit deren Hilfe die bisher ungenutzte Wärmeenergie aus dem Erdreich erschlossen werden könnte. Mit dem Entscheid, zwei Professuren in Tiefengeothermie zu schaffen, hat die ETH Zürich schon früher ihren Willen bekräftigt, die Energiezukunft der Schweiz aktiv mitzugestalten. Die Donation der Werner Siemens-Stiftung von 10 Mio. Schweizer Franken an die ETH Zürich Foundation ermöglicht es nun der ETH Zürich, die Geothermie-Strategie konkret voranzutreiben und die erste Professur einzurichten.

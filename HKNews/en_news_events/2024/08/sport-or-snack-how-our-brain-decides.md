@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/08/sport-or-snack-how-our-brain-decides.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • The chemical messenger orexin and the orexin neurons in the brain mediate the decision between exercise and snacking. Researchers at ETH Zurich made this discovery in mice. The results are likely to be transferable to humans.

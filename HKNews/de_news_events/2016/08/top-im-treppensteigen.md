@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/08/top-im-treppensteigen.html
 
-**Date processed:** 2025-05-01
-
 ## Überarbeitete Technik, neuer Name
 
 Es herrscht geschäftiges Treiben im Campus Balgrist. Nach zehn Monaten und zahllosen technischen Änderungen geht der überarbeitete Rollstuhl des Scewo-Teams erstmals zur Testfahrt an den Start. Immer mit einem Blick aufs Reglement und einem auf dem Rollstuhl begleitet Pascal Buholzer Scewo-Fahrer Josep Ballester durch den Parcours. Zwar nimmt der Rollstuhl Treppen souverän, doch die Wendigkeit beim Öffnen von Türen oder die Stabilität auf unebenen Grund lässt noch etwas zu wünschen übrig.

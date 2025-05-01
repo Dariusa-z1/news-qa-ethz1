@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/01/vier-eth-forschende-ausgezeichnet.html
 
-**Date processed:** 2025-05-01
-
 ## Klimaextreme vorhersagen und neue Internet-Architektur bauen
 
 Der Europäische Forschungsrat vergab zum ersten Mal den ERC Consolidator Grant (siehe Kasten). 312 Forschende in ganz Europa erhalten umgerechnet rund 700 Millionen Schweizer Franken. 22 der Consolidator Grants gehen in die Schweiz; die ETH Zürich hat mit vier Grants am meisten der Auszeichnungen unter den Schweizer Universitäten erhalten.

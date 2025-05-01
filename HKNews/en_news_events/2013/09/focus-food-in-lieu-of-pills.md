@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/09/focus-food-in-lieu-of-pills.html
 
-**Date processed:** 2025-05-01
-
 ## Oats as super-food
 
 Too much fat, too much sugar and not enough exercise: in developed countries, it would appear, eating makes you ill these days. Obesity, diabetes, cardiovascular diseases and cancer are on the increase and healthcare costs are running into billions. On the flipside, there is a dream: food that not only tastes nice and does you good, but can also help to prevent or cure illnesses. Food as medicine: if you believe what advertising and product declarations on yoghurts, margarines and co. tell you, this dream has already come true. Supermarket shelves are increasingly filled with food products to which health-enhancing substances have been added. Functional foods (see box on p. 34) also promise to become a multi-billion-dollar business.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/12/home-office-and-only-academic-events-allowed.html
 
-**Date processed:** 2025-05-01
-
 ## Working from home is mandatory again
 
 ETH Zurich is updating its coronavirus rules to bring them in line with the latest regulations announced by the Federal Council. These measures come into force on Monday 20th December. The master plan will be updated over the course of the week and published on the Coronavirus website .

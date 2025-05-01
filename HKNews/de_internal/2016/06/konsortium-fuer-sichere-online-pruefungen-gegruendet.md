@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/06/konsortium-fuer-sichere-online-pruefungen-gegruendet.html
 
-**Date processed:** 2025-05-01
-
 ## Konsortium mit weiteren Mitgliedern
 
 Online-Prüfungen gewinnen innerhalb der traditionellen Bildungseinrichtungen zunehmend an Bedeutung. Darüber hinaus sind sie essentiell für die neuen, vollständig online angebotenen Lernangebote wie zum Beispiel MOOCs (Massive Open Online Courses).

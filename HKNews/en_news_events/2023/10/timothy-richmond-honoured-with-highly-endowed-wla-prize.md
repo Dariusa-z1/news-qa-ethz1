@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/10/timothy-richmond-honoured-with-highly-endowed-wla-prize.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The World Laureates Association Prize (WLA Prize) unveiled its 2023 laureates on 14 Sept, at a press conference held in Shanghai. This year, a total of five exceptional scientists are being honored with the Prize's two individual awards: the WLA Prize in Computer Science or Mathematics and the WLA Prize in Life Science or Medicine.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/04/striking-the-right-balance.html
 
-**Date processed:** 2025-05-01
-
 ## As much freedom as possible
 
 When Peter Frischknecht came to ETH Zurich as Coordinator for the Environmental Sciences course 25 years ago, the department was really taking off: in the light of the environmental catastrophes of the 1980s (such as Chernobyl and Schweizerhalle, see ETH Life Print , April 2013), ETH Zurich wanted its still new course to train experts in how to deal with the new social challenges. “The pioneers of the course were inspired by a certain spirit, a desire to do something for the environment,” says the Department and Study Course Coordinator, recalling the atmosphere of those days.

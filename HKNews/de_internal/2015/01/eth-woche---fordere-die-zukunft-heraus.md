@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/01/eth-woche---fordere-die-zukunft-heraus.html
 
-**Date processed:** 2025-05-01
-
 ## Ernährung: Gesund. Gerecht. Genug für alle.
 
 Die ETH Woche ist eine Veranstaltung der Critical Thinking Initiative und fördert kritisches Denken, innovatives Lernen und nachhaltiges Handeln.

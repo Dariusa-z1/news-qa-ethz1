@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/05/Ausstellung-Wozu-die-Utopie-Max-Frisch-und-Helmut-Schmidt.html
 
-**Date processed:** 2025-05-01
-
 ## Ausstellung
 
 Der frühere deutsche Bundeskanzler Helmut Schmidt (1918–2015) galt als durchsetzungsfähiger Realpolitiker, der die Bundesrepublik während seiner Amtszeit durch eine Reihe dramatischer Krisen steuerte. Der Politiker und spätere Publizist war stets an sachlich fundierten und anspruchsvollen Debatten interessiert, wofür er gezielt den Kontakt zu Intellektuellen suchte.

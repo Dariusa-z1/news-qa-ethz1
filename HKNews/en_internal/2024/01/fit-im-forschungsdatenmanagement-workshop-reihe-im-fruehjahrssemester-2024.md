@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2024/01/fit-im-forschungsdatenmanagement-workshop-reihe-im-fruehjahrssemester-2024.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In seven individual online workshops, the ETH Library, in collaboration with Scientific IT Services, will address the various elements of research data management (RDM) along the research data life cycle. You are free to decide whether you want to take part in individual workshops or all of them.

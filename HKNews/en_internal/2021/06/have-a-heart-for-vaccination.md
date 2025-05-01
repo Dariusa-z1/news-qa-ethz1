@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/06/have-a-heart-for-vaccination.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The Federal Office of Public Health’s new information campaign on the COVID-19 vaccination has been running since mid-May. It focuses on the message “Have a heart for us all”. It underlines the important contribution made by those getting vaccinated to containing the pandemic and how they are having a heart for their fellow human beings by doing so. The campaign reminds the population that now’s a good time to inquire about making a vaccination appointment.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/11/more-flexibility-on-the-knowledge-portal.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Whether you're using a desktop PC or tablet – the subpages of the Knowledge Portal adjust flexibly to the size of your device. This also means that website contents, forms, links and buttons can be used on the go. For the time being, we still recommend our mobile website for Smartphone users.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/10/geodaten-fuer-lehre-und-forschung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The service geodata4edu.ch offers members of Swiss universities a central access point to federal and cantonal geodata. This also enables members of ETH Zurich to use the data provided fully for teaching and research.

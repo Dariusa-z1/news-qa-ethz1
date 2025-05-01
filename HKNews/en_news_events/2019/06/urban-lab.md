@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/06/urban-lab.html
 
-**Date processed:** 2025-05-01
-
 ## Prototyping solutions for the urban society
 
 The ETH Singapore Month provides an interdisciplinary setting to examine the urban society and develop solutions to some of its challenges. The participants of the first edition are a group of 48 students from seven universities, among them MIT, Nanyang Technological University Singapore, National University of Singapore and University of Cambridge. Foregrounding the role of design and design thinking as a platform for transdisciplinary work, students are challenged with “wicked problems” arising from global urbanization processes tied to the United Nations sustainable development goals (SDGs). “We confront students from multiple disciplines to design a process in order to produce an exhibition and presentation. The design of the process became the key issue for them to tackle while addressing the SDGs,” explains Marc Angélil, Professor for Architecture and Design, who designed and facilitated the workshop.

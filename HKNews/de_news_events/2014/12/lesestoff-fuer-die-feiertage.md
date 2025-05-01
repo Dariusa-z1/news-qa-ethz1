@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/12/lesestoff-fuer-die-feiertage.html
 
-**Date processed:** 2025-05-01
-
 ## Klimawandel
 
 Besonders empfehlen möchten wir Ihnen aus gegebenem Anlass unsere Sammlung an Reste-Rezepten für die Festtage , die wir letztes Jahr zusammengetragen haben.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/02/eth-hindernisfrei.html
 
-**Date processed:** 2025-05-01
-
 ## Verpflichtet, Hürden abzubauen
 
 Eine kleine Stufe an der Eingangstür, kein rollstuhlgängiges WC, Webinformationen, die mit einer Sehbehinderung unzugänglich bleiben: Für Nichtbetroffene geringfügige Hürden in Organisationen und Unternehmen reichen aus, um Menschen mit speziellen Bedürfnissen daran zu hindern, eine Tätigkeit in Angriff zu nehmen, die ihrem Wunsch und Können entspricht. Unter Umständen mit gravierenden Folgen für deren weiteren Karriereverlauf.

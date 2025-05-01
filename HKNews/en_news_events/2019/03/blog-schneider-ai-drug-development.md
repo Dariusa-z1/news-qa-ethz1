@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/03/blog-schneider-ai-drug-development.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 (Photograph: ETH Zurich)

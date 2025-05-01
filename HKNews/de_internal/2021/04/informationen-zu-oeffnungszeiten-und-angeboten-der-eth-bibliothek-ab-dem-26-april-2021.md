@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/04/informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-26-april-2021.html
 
-**Date processed:** 2025-05-01
-
 ## Standorte und Öffnungszeiten
 
 Ab Montag, 26. April 2021 gelten folgende Öffnungszeiten:

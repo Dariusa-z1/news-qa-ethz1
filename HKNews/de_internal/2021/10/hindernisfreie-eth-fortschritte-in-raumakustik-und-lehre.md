@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/10/hindernisfreie-eth-fortschritte-in-raumakustik-und-lehre.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Eine ungenügende Raumakustik bei einem leise gesprochenen Vortrag, undeutliche Fragen von den Zuhörenden, oder aber das eigene eingeschränkte Gehör – all dies kann dazu führen, dass wir von den vielen Lehrveranstaltungen und Vorträgen, die jeden Tag an der ETH gehalten werden, nur einen Teil verstehen. Deswegen wurde durch die Informatikdienste (ID) in der Semesterpause die Hörverständlichkeit in Lehrräumen verbessert: Zahlreiche Hörsäle und Seminarräume wurden mit sogenannten Hörschlaufen ausgestattet. Dadurch können Hörgeräte Audiosignale wie Musik oder Vorträge in Räumen empfangen und störungsarm wiedergeben.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/07/wie-der-klimawandel-die-erdrotation-veraendert.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Die Rotationsachse der Erde verschiebt sich aufgrund von Klimawandel und Bewegungen im Erdinnern. Die damit verbundene Polbewegung wird durch Massenverlagerungen wie das Schmelzen der polaren Eismassen ausgelöst.

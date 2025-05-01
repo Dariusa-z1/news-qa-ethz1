@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/09/genetically-modifying-individual-cells-in-animals.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • Researchers combined the modification of many genes in living adult animals using the CRISPR-Cas gen scissors with the subsequent analysis of single cells.

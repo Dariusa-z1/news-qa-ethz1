@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/11/mm-eth-tag-2019.html
 
-**Date processed:** 2025-05-01
-
 ## Den gesellschaftlichen Wandel gestalten
 
 Gemeinsam mit Gästen aus Politik, Wissenschaft, Kultur und Wirtschaft feierte die ETH Zürich am 16. November ihren Jahrestag. Anlässlich des diesjährigen 200. Geburtstags von ETH-Gründer Alfred Escher blickte der Festredner, Bundesrat Guy Parmelin, auf die pionierhaften Anfänge der Hochschule zurück. Und genauso, wie die ETH in ihren Anfängen mit Lehre und Forschung die Industrialisierung der Schweiz vorantrieb, so leiste die ETH auch heute einen substanziellen Beitrag, wenn es darum geht, drängende gesellschaftliche Herausforderungen zu bewältigen. «Ich denke dabei etwa an Klimawandel, Energieversorgung, Mobilität und ganz besonders an Digitalisierung, künstliche Intelligenz und Cybersecurity», sagte der Minister für Wirtschaft, Bildung und Forschung.

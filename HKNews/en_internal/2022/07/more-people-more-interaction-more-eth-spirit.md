@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/07/more-people-more-interaction-more-eth-spirit.html
 
-**Date processed:** 2025-05-01
-
 ## Changes at a glance
 
 “More people, more interaction, and boosting the feeling of belonging within the ETH community.” This is how Anna Maltsev, Editor-in-Chief of life magazine , describes the publication’s new direction. And this is precisely what readers wanted from the magazine, as revealed in last year’s survey on internal communication and follow-up workshops conducted with technical-administrative and scientific staff. “We’re happy to accommodate the wish to put members of the ETH community more in the spotlight,” says Maltsev.

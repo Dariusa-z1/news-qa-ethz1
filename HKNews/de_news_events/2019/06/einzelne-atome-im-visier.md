@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/06/einzelne-atome-im-visier.html
 
-**Date processed:** 2025-05-01
-
 ## Massiv höhere Auflösung
 
 Die Kernspinresonanz-Spektroskopie – kurz NMR-Spektroskopie – ist eine der wichtigsten physikalisch-chemischen Untersuchungsmethoden. Damit lässt sich beispielsweise die Struktur und die Dynamik von Molekülen präzise bestimmen. Wie wichtig die Methode für die Wissenschaft ist, zeigt sich auch daran, dass die beiden letzten Nobelpreisträger der ETH Zürich, Richard Ernst und Kurt Wüthrich, für Weiterentwicklungen dieser Methode ausgezeichnet wurden.

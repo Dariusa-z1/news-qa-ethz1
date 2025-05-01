@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/09/einblick-in-die-biologische-kohlenstoffpumpe-im-meer.html
 
-**Date processed:** 2025-05-01
-
 ## Leise rieselt der Meeresschnee
 
 Die Ozeane spielen im globalen Kohlendioxid-Haushalt eine wichtige Rolle. Denn in ihnen leben Abermilliarden von winzigen Algen, die mittels Photosynthese das Kohlendioxid aufnehmen und in ihre Biomasse einbauen. Wenn diese Algen absterben, rieseln sie – zusammen mit den Ausscheidungen der kleinen Krebschen, die sich von ihnen ernähren – als so genannter Meeresschnee in tiefere Zonen hinab, wo ungefähr ein Prozent des eingebauten Kohlendioxids für Tausende von Jahren im Meeresgrund begraben wird.

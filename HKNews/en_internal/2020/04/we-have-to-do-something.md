@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/04/we-have-to-do-something.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 When the coronavirus began to spread in Switzerland, Nicola Rüegsegger and Pascal Wacker quickly realised: we have to do something! The two computer science students had almost completed their Bachelor’s degree, with hardly any lectures left. So they not only had the will to help, but also the time – and the know-how, since the two had founded a start-up company in 2018 that specialises in HR tech in the healthcare sector.

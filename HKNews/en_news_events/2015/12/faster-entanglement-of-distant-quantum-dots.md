@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/12/faster-entanglement-of-distant-quantum-dots.html
 
-**Date processed:** 2025-05-01
-
 ## Distant quantum dots
 
 In many future information and telecommunication technologies, a remarkable quantum effect called entanglement will likely play an important role. The entanglement of two quantum objects means that measurements on one of the objects instantaneously determine the properties of the other one – without any exchange of information between them.

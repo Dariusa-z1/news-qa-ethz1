@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/11/albert-einstein-vom-maessigen-studenten-zum-nobelpreistraeger.html
 
-**Date processed:** 2025-05-01
-
 ## Das Polytechnikum = Liebe²
 
 Ausgezeichnet wurde er für seine Verdienste um die theoretische Physik und insbesondere für die Entdeckung des Gesetzes des fotoelektrischen Effekts. Für die ETH Zürich gehört Albert Einstein heute zum fixen Inventar. Der Weg dorthin war aber nicht immer leicht – die Matura musste nachgeholt werden, eintönige Laborarbeiten waren nicht so sein Ding, vielmehr aber das Selbststudium zu den Meistern der theoretischen Physik.

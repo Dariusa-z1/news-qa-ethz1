@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/07/toxicity-testing-on-the-placenta-and-embryo.html
 
-**Date processed:** 2025-05-01
-
 ## A chip with different cell types
 
 Drugs must be safe not just for the patients; in the case of pregnant patients, drugs must also be safe for the unborn children still in the womb. Therefore, at an early stage in the development of new medicines, candidate substances are tested in the Petri dish on embryonic stem cells from mouse cell lines. This is to avoid that an embryo-damaging effect would only be noticed at a later stage during tests with pregnant mice.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/10/eth-impfumfrage-die-resultate.html
 
-**Date processed:** 2025-05-01
-
 ## Hohe Rücklaufquote von 54%
 
 In einer anonymen Umfrage im Auftrag von Corona-Krisenstab und Schulleitung fragte das unabhängige Meinungsforschungsinstitut Empiricon nach, wer unter den ETH-Angehörigen bereits geimpft, bald geimpft oder bewusst nicht geimpft ist. Die Umfrage dauerte vom 29. September bis 8. Oktober 2021.

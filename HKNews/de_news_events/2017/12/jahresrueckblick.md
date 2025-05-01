@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/12/jahresrueckblick.html
 
-**Date processed:** 2025-05-01
-
 ## Februar
 
 Zum Jahresbeginn konnten Geologen anhand eines einzigartigen Datensatzes die dramatischen Entwicklungen am Aletschgletscher dokumentieren: Weil sich das Eis so rasch zurückgezogen hat, ist ein angrenzender Hang rasant in Bewegung gekommen. Die Forschenden zeigten auf, dass der Eisverlust des Aletschgletschers und das Abrutschen der Moosfluh direkt zusammenhängen.

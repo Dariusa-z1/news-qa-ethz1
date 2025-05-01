@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/12/jahreswechsel-2019-2020.html
 
-**Date processed:** 2025-05-01
-
 ## Reduziertes Dienstleistungsangebot
 
 Zwischen Dienstag, 24. Dezember 2019, bis und mit Sonntag, 5. Januar 2020 , gelten an der ETH Zürich spezielle Betriebs- und Öffnungszeiten. Der Zutritt zu den Gebäuden bleibt mit Schlüssel oder ETH-Karte gewährleistet. Sämtliche Kundenschalter sind über den Jahreswechsel geschlossen – ohne telefonische oder elektronische Erreichbarkeit.

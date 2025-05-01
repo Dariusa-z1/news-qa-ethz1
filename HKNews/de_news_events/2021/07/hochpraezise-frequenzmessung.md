@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/07/hochpraezise-frequenzmessung.html
 
-**Date processed:** 2025-05-01
-
 ## Kontinuierliche Korrektur
 
 Für viele wissenschaftliche Experimente benötigen die Forschenden heute eine präzise Referenzfrequenz, mit der sie die Zeitmessung ihrer Geräte kalibrieren können. Zu diesen Experimenten gehören beispielsweise Spektroskopie-Untersuchungen, bei denen chemische Reaktionen zwischen Molekülen in Echtzeit untersucht werden, oder physikalische Studien zu Naturkonstanten.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/11/randall-platt-receives-the-eth-latsis-prize.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 You could call him a toolmaker of modern biology. In what are still the early stages of his extremely successful career, Randall Platt, Professor of Biological Engineering at the Department of Biosystems at ETH Zurich in Basel, has already developed many methods and technologies that are used by life science researchers in laboratories around the world.

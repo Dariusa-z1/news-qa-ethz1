@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/11/mm-ruzicka-preis-2015.html
 
-**Date processed:** 2025-05-01
-
 ## An intelligent combination
 
 Messengers are molecules that allow cells in organisms to communicate with one another so that they can interact correctly. Henning Jessen, Professor of Bioorganic Chemistry at the University of Freiburg in Breisgau, studies the chemical biology of secondary messengers, which are messengers that operate within the cell, relaying and processing signals from outside the cell that cannot pass through the membrane. Although investigations into the chemical biology of these secondary messengers are still in their infancy, scientists hope that this field of research will provide answers to fundamental questions.

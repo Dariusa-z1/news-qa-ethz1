@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/03/hilfsgueter-fuer-die-ukraine-sammelaktion-an-der-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Update vom 05. Mai 2022: Die Sammelaktion wird mindestens bis Ende Mai weitergeführt . Die Sammelstelle auf dem Hönggerberg befindet sich neu im HPT C 117 . Bitte beachten Sie zudem, dass sich die Gegenstände, die am meisten gebraucht werden, laufend ändern. Schauen Sie daher regelmässig in der externe Seite entsprechenden Liste nach.

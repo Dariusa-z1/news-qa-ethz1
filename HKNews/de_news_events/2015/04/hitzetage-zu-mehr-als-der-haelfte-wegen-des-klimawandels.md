@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/04/hitzetage-zu-mehr-als-der-haelfte-wegen-des-klimawandels.html
 
-**Date processed:** 2025-05-01
-
 ## Der gezinkte Würfel
 
 Wetterextreme sind Teil des chaotischen Wettergeschehens und entstehen aus einem komplexen Zusammenspiel vieler Faktoren. Werden diese Wetterkapriolen im Laufe des Klimawandels häufiger? Ja und nein. Es wäre falsch, aus der Tatsache, dass es schon früher Wetterextreme gab, zu schliessen, der Klimawandel habe keinen Einfluss auf deren Häufigkeit. Klar ist aber auch, dass die oft mit «Global Weirding» bezeichnete Idee, wonach alle Wetterphänomene extremer werden, zu kurz greift. Denn es ist wissenschaftlich nicht erwiesen, ob tatsächlich alle Wetterextreme wie Hagel, Stürme und Tornados zunehmen.

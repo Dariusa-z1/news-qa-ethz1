@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/04/meet-the-talent.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH-News: Frau Springman, was bedeutet für Sie Talent? Sarah Springman: Talent haben, bedeutet eine überdurchschnittliche Begabung auf einem Gebiet zu besitzen. Wenn ich mich umschaue, ist die ETH voll von sehr talentierten Studierenden, Doktorierenden, Professorinnen und Professoren und Mitarbeitenden.

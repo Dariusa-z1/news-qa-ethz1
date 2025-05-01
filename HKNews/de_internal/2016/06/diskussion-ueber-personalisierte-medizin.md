@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/06/diskussion-ueber-personalisierte-medizin.html
 
-**Date processed:** 2025-05-01
-
 ## Handlungsbedarf bei Datenorganisation
 
 Personalisierten Medizin erforscht die Grundlagen, um präzisere Diagnosen und individuellere Therapien zur Behandlung von Krankheiten entwickeln zu können. Personalisierte Medizin baut sowohl auf neuen Erkenntnissen in der Biomedizin auf als auch auf Fortschritten in der Informationstechnik, und sie setzt auf die interdisziplinäre Zusammenarbeit zwischen Medizin, Natur- und Ingenieurwissenschaften. In dieser Forschung sind die Schweiz und die ETH Zürich international gut positioniert.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/01/blog-koennen-wasserkraft-und-fische-koexistieren.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wasserkraft ist weltweit auf dem Vormarsch. Die erneuerbare Energiequelle liefert knapp 16 Prozent des globalen Stroms und soll sich bis 2050 gut verdoppeln. Über 3700 neue Staudämme sind im Bau oder geplant 1 , vor allem in Südamerika, Südostasien und Afrika. Auch in der Schweiz sieht die Energiestrategie 2050 einen weiteren Ausbau des Sektors an, um die Klimaziele zu erreichen. 2 Doch Wasserkraft ist mit hohen Umweltkosten verbunden.

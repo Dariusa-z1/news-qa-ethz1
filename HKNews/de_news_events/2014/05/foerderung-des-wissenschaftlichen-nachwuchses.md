@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/05/foerderung-des-wissenschaftlichen-nachwuchses.html
 
-**Date processed:** 2025-05-01
-
 ## «ETH hat Vorreiterrolle»
 
 Der Bundesrat hat am Mittwoch einen lange erwarteten Bericht über die Nachwuchsförderung im Schweizer Hochschulbereich veröffentlicht. Darin beurteilt er die aktuelle Situation, gibt Empfehlungen an die Forschungsinstitutionen und schlägt Massnahmen vor. Im Bericht betont die Regierung, wie gross die Bedeutung der Hochschulen und des wissenschaftlichen Nachwuchses für die Innovations- und Wettbewerbsfähigkeit der Schweiz sei.

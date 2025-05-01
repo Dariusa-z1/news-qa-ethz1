@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/07/tapping-into-a-new-reservoir-of-antibiotics.html
 
-**Date processed:** 2025-05-01
-
 ## Antibiotic interactions revealed
 
 A wide variety of different microorganisms, such as bacteria and fungi, live on the leaves of plants. Although they offer few nutrients, leaf surfaces are densely populated. In an effort to keep the competition at bay, many of the leaf dwellers turn to chemical warfare: they develop antibiotic substances that prevent the growth and reproduction of their fellow occupants.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/10/phosphorrecycling-aus-klaerschlamm.html
 
-**Date processed:** 2025-05-01
-
 ## Unterbrochener Kreislauf
 
 Rund 16,500 Tonnen Phosphor importiert die Schweiz jährlich. Diesen Wert hat das Bundesamt für Umwelt (BAFU) für das Jahr 2006 errechnet [1]. Gleichzeitig verlässt nur knapp ein Viertel davon wieder das Land, hauptsächlich in gelöster Form als Abfluss durch unsere Gewässer. Die Menge an Phosphor in der Schweiz nimmt also beständig zu. Aus ökonomischer, ökologischer und ressourcenpolitischer Sicht macht es Sinn, diesen «Vorrat» anzuzapfen und Phosphor wiederzuverwenden (siehe auch diesen Blogbeitrag ).

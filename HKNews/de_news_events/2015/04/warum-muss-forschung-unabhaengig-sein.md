@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/04/warum-muss-forschung-unabhaengig-sein.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wissenschaft kurz und knapp: Während einer Polybahnfahrt vom Central hoch zur ETH haben ETH-Angehörige rund 100 Sekunden Zeit, die Zuhörer für ihre Tätigkeit zu begeistern. Im neuesten Polybahn-Pitch spricht Vizepräsident Detlef Günther über die Unabhängigkeit der Forschung.

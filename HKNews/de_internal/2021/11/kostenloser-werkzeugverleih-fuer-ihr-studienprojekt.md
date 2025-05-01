@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/11/kostenloser-werkzeugverleih-fuer-ihr-studienprojekt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Einer Idee noch den letzten Schliff verleihen und gerade kein passendes Werkzeug zur Hand? Die ETH-Bibliothek leiht Ihnen für Ihre Projektarbeit tragbare Elektrowerkzeuge samt Zubehör aus. Darunter befinden sich Schwingschleifer, Schlagbohrschrauber und Bohrhammer und einiges mehr. Neu im Sortiment: Schraubzwingen, eine Laser-Wasserwaage oder auch ein 81-teiliger Werkzeugkoffer. Schauen Sie einfach in der Liste mit allen Geräten nach. Sie finden diese auf externe Seite ETH-Bibliothek @ swisscovery .

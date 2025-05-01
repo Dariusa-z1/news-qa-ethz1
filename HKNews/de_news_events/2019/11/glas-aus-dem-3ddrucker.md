@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/11/glas-aus-dem-3ddrucker.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Glasobjekte mit einem 3D-Druckverfahren herzustellen, ist nicht einfach. Erst wenige Forschungsgruppen weltweit haben versucht, Glas mithilfe additiver Verfahren zu produzieren. Einige davon schufen Objekte, indem sie geschmolzenes Glas ausdruckten. Das hat den Nachteil, dass dafür sehr hohe Temperaturen und hitzebeständige Apparaturen nötig sind. Andere verwendeten pulverförmige Keramikpartikel, die sich bei Raumtemperatur drucken und später zu Glas sintern lassen. Allerdings war die Komplexität der daraus gefertigten Objekte bisher eher gering.

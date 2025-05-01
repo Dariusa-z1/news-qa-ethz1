@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2023/01/by-eth-for-eth.html
 
-**Date processed:** 2025-05-01
-
 ## What do we need all that for?
 
 Let’s start with the basics: What even are social and leadership competencies? A combination of knowledge, abilities and attitudes, these competencies relate to interpersonal behaviour. They can be observed in everyday situations, they can be measured – and what’s especially important for their application: they can be acquired if they are not yet sufficiently established. In a community, social and leadership competencies provide structure, offer orientation in terms of personal development and create a common language and shared expectations.

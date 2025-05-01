@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/01/f%C3%BCnf-wege-wie-kreativit%C3%A4t-inspiriert.html
 
-**Date processed:** 2025-05-01
-
 ## Kreative Anwendung der Quantenmechanik
 
 «Was wäre, wenn …?» Diese ebenso schlichte wie weitreichende Frage ist oft der Auslöser für eine Imagination und Kreativität, die Ideen hervorbringt, mutige Entscheidungen befördert und ganze Wirtschaftsbereiche transformiert. Während wir noch mitten in der vierten industriellen Revolution stehen, die durch allgegenwärtige Vernetzung einen globalen Wirtschaftsraum hervorbringt, prognostizieren Forschende der ETH Zürich bereits, welche menschlichen Aspekte die fünfte industrielle Revolution bestimmen werden.

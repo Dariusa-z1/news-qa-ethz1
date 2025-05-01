@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/07/following-his-gut-instinct.html
 
-**Date processed:** 2025-05-01
-
 ## Stylish Germany
 
 “It was the first game of this kind that I’ve ever taken part in,” said Mariusz Frukacz, after the 37-year-old Post Doc at the Institute of Geodesy and Photogrammetry (D-BAUG) won the ETH community’s World Cup predictor game. The prizes for first place – a cup and an iPad – were presented to him last Tuesday.

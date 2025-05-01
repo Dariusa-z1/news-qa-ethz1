@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/09/construction-of-the-hcp-office-and-seminar-building-is-complete.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Between 11 a.m. and 1 p.m. on Wednesday 16 September, staff and students of ETH Zurich can visit the new building and learn more about it on a guided tour. This will be followed by a special event for invited guests.

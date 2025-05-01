@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/08/blog-wattenhofer-cash-is-dead.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 (Photograph: ETH Zurich)

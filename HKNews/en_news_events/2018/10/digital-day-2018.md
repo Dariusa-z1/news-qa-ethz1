@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/10/digital-day-2018.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The national Digital Day, which took place for the second time this year, aims to raise public awareness of digital transformation. ETH Zurich also took part, focusing on the two topics of IT education for school pupils and digitalisation in medicine. The University has long played a prominent role in both areas.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/05/estimating-the-second-wave.html
 
-**Date processed:** 2025-05-01
-
 ## Age matters
 
 Should Switzerland see a second wave of the coronavirus pandemic, it would proceed more slowly than the first. This is the conclusion reached by Dirk Mohr, Professor of Computational Modeling of Materials in ETH Zurich’s Department of Mechanical and Process Engineering, and Fadoua Balabdaoui, Senior Scientist in the Seminar for Statistics, based on calculations with a new mathematical model they have specifically developed to forecast the COVID-19 epidemic in Switzerland.

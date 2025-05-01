@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/12/wir-wuenschen-ihnen-frohe-weihnachten.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Liebe Leserinnen und Leser

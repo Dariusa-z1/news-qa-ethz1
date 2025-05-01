@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/04/pruefungen-in-pandemiezeiten.html
 
-**Date processed:** 2025-05-01
-
 ## Sessionsprüfungen
 
 Am 1. Juni beginnen die Semesterferien. Für die meisten Studierenden heisst das: auf Prüfungen lernen, die am Semesterende oder im Laufe des Sommers stattfinden. Die besondere Situation, in der wir uns befinden, beeinflusst auch den Prüfungsmodus. Wie die Prüfungen von statten gehen sollen, hat die Rektorin in der dritten Ausgabe der Weisung zu den Massnahmen in der Lehre wegen der Coronavirus-Pandemie festgeschrieben. Sie sind im Einklang mit dem Masterplan für die Rückkehr zum Normalbetrieb, der allerdings mit Unsicherheiten behaftet ist. So basieren die Aussagen auf dem heutigen Wissensstand, sie können aber durch neue Entscheide des Bundesrats oder Einschätzungen der Schulleitung Änderungen erfahren.

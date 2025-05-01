@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/11/50-jahre-afz.html
 
-**Date processed:** 2025-05-01
-
 ## Dem kritischen Denken verschrieben
 
 Geburtstage, insbesondere die runden, sind gute Anlässe für einen Blick zurück und einen nach vorne. Beim Archiv für Zeitgeschichte (AfZ) der ETH Zürich, das dieses Jahr sein 50-jähriges Bestehen feiert, fängt die Überraschung schon bei der ersten Stunde an: seine Gründung ist nämlich einer studentischen Initiative zu verdanken. Getrieben von eigenem Forschungsinteresse an der Geschichte der Schweiz im Zweiten Weltkrieg und verärgert über den versperrten Zugang zu staatlichen Akten, gründete der damals 24-jährige Student Klaus Urner gemeinsam mit seinem Kommilitonen Hans Rudolf Humm die «Arbeitsgruppe für Zeitgeschichte». Kurz darauf konnten die Studenten zwei Mansardenzimmer eines ETH-Gebäudes an der Weinbergstrasse mieten. Die Räume füllten sich rasch mit Zeitungsartikeln, Broschüren und Mikrofilmen.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/10/neue-weiterbildungsangebote.html
 
-**Date processed:** 2025-05-01
-
 ## Drei neue CAS in angewandter Technologie
 
 Viele Weiterbildungsprogramme der ETH Zürich bedienen Nischen, in denen ein Manko besteht und in welche die Hochschule ihre Stärken einbringen kann. So ist über die Zeit ein Angebot von 52 unterschiedlichen Programmen entstanden. Sechs davon bietet die School for Continuing Education der ETH Zürich im kommenden Jahr zum ersten Mal an. Während sich drei der neuen Angebote an Fachleute in spezialisierten Branchen richten, sprechen die anderen drei eine breite Gruppe von Managerinnen und Managern an.

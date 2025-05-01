@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/05/deutsch-als-fremdsprache-turbo-in-einem-jahr-auf-deutsch-unterrichten-koennen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Lehre gehört für Doktorierende und wissenschaftliche Mitarbeitende an der ETH Zürich zu den Grundaufgaben. Damit Deutsch im Alltag und an der Hochschule nicht zur Hürde wird, bietet die ETH Zürich mit dem Sprachenzentrum der Universität Zürich und der ETH Zürich den Kurs «Deutsch als Fremdsprache (DaF) Turbo» an.

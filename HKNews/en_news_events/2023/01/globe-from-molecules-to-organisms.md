@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/01/globe-from-molecules-to-organisms.html
 
-**Date processed:** 2025-05-01
-
 ## The right chemistry
 
 Since time immemorial, humanity has pondered the question of how life on Earth first began. Ancient cultures declared the creation of the world and the origin of life to be the work of gods and other divine beings. Science has always taken a different route. Drawing on the fundamental laws of physics, chemistry and biology, generations of researchers have advanced theories and hypotheses about the origin of life. In the process, they have amassed a vast fund of knowledge.

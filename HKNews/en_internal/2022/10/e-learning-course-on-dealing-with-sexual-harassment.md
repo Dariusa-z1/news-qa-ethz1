@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/10/e-learning-course-on-dealing-with-sexual-harassment.html
 
-**Date processed:** 2025-05-01
-
 ## Sexual harassment affects us all
 
 We all want ETH to remain a safe and respectful place. Bullying, sexual harassment, discrimination, threats and violence are not tolerated at our university and will have consequences. As part of the “ Stand up for respect ” initiative, the Executive Board is launching an e-learning course for an in-depth exploration of the topic of sexual harassment in everyday studies and work.

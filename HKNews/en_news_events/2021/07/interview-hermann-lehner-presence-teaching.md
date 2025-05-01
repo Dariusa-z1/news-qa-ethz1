@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/07/interview-hermann-lehner-presence-teaching.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Mr Lehner, the Rector has written to students telling them to expect face-to-face teaching for the autumn semester. Students will doubtless be relieved. However, they have been told it will be a new kind of “face-to-face”. What exactly does this mean? After three semesters of online teaching, we are doing all we can to reintroduce face-to-face attendance for the autumn semester as a matter of principle. Active learning, exercises and experimental teaching in particular should take place on campus. We are planning for normal attendance densities in this regard. Having said that, we also want to maintain and even expand on innovative online forms of teaching. So we are not going back to face-to-face teaching as we knew it before the outbreak of the pandemic.

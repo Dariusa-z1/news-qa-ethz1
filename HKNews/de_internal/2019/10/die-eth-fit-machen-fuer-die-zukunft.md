@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/10/die-eth-fit-machen-fuer-die-zukunft.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Nach noch nicht einmal einem Jahr im Amt lancieren Sie eine Überarbeitung der ETH-Organisationen und strukturieren die Schulleitung um. Weshalb? Joël Mesot: Die ETH bewegt sich in Lehre, Forschung und Wissenstransfer auf internationalem Spitzenniveau. Doch die Anforderungen an die ETH nehmen laufend zu: Der globale Wettbewerb in Forschung und Bildung wird härter. Ausserdem verzeichnen wir bei Studierenden und Mitarbeitenden seit Jahren ein stetes Wachstum. Und Personal- und Führungsfragen sind in den letzten Jahren immer wichtiger geworden.

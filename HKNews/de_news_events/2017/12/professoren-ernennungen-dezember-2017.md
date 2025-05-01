@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/12/professoren-ernennungen-dezember-2017.html
 
-**Date processed:** 2025-05-01
-
 ## Ernennungen
 
 Der ETH-Rat hat an seiner Sitzung vom 13./14. Dezember 2017 auf Antrag des Präsidenten der ETH Zürich, Lino Guzzella, zwei Frauen und acht Männer zu Professorinnen respektive Professoren ernannt. Vier Persönlichkeiten wurde der Professorentitel verliehen.

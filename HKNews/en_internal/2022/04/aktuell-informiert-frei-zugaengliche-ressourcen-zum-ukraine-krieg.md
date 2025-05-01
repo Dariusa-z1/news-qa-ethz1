@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/04/aktuell-informiert-frei-zugaengliche-ressourcen-zum-ukraine-krieg.html
 
-**Date processed:** 2025-05-01
-
 ## Contextualised background information
 
 • external page Taylor & Francis: Russia’s war in Ukraine – resources, commentary, analysis and insights call_made

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/12/the-secret-to-good-teaching.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 So what is the secret to good teaching? One person should know: John Lygeros, Professor of Control and Computation and Head of the Department of Information Technology and Electrical Engineering. He has already won the ETH Golden Owl teaching prize three times in the past and this year accepted the CS Award for Best Teaching at ETH Day.

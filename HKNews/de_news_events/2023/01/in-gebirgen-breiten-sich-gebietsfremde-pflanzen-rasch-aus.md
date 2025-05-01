@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/01/in-gebirgen-breiten-sich-gebietsfremde-pflanzen-rasch-aus.html
 
-**Date processed:** 2025-05-01
-
 ## Invasive Pflanzen füllen ihre Nische
 
 Viele Gebirge sind naturnahe und durch den Menschen wenig beeinträchtigte Lebensräume. Sie beherbergen viele, teilweise hoch spezialisierte und endemische Tier- und Pflanzenarten. Auch von Invasionen durch gebietsfremde Pflanzenarten (Neophyten) sind Gebirge bisher weitgehend verschont geblieben.

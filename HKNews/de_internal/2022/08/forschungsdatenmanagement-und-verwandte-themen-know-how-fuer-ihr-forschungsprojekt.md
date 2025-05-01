@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/08/forschungsdatenmanagement-und-verwandte-themen-know-how-fuer-ihr-forschungsprojekt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 • Der erste Kurs beschäftigt sich mit den Grundlagen des Forschungsmanagements und ihrer Anwendung – diese bilden die Basis für Ihr Forschungsprojekt.

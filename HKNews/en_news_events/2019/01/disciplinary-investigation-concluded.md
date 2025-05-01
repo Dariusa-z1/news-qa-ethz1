@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/01/disciplinary-investigation-concluded.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In September 2018 ETH Zurich launched a disciplinary investigation into a professor in the Department of Architecture. This investigation, conducted and since completed by an external independent investigator, concluded that the professor did not effectively separate his personal and professional relationships. As a result, his conduct was in breach of ETH Zurich’s Compliance Guide .

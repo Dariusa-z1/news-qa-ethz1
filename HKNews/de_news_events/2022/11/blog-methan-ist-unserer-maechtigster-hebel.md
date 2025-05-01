@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/11/blog-methan-ist-unserer-maechtigster-hebel.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Das 1.5-Grad-Ziel droht langsam aber sicher ausser Reichweite zu geraten. Die jüngste Weltklimakonferenz COP27 in Ägypten bot jedenfalls wenig Anlass für gegenteilige Annahmen. Auch die Schweiz ist beim Klima klar nicht auf Kurs. Der Klimawandel ist zwar mittlerweile als gesellschaftsrelevantes Thema anerkannt, doch der gesellschaftliche Wandel kommt nur schleppend voran. Unsere Emissionen in Inland sinken zwar gemächlich, aber Importe, Finanzsektor sowie Luft- und Schifffahrt ignorieren wir komplett.

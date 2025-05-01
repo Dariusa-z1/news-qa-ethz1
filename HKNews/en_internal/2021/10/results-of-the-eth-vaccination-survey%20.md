@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/10/results-of-the-eth-vaccination-survey%20.html
 
-**Date processed:** 2025-05-01
-
 ## High participation rate of 54%
 
 The Corona Crisis Management team and the Executive Board commissioned an anonymous survey to find out more about the ETH community’s vaccination status: who is already vaccinated, who is planning to be and who has decided against vaccination. Empiricon, an independent opinion research firm, was tasked with carrying out the survey, which ran from 29 September through 8 October 2021.

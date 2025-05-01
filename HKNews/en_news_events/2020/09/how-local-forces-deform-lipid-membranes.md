@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/09/how-local-forces-deform-lipid-membranes.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In order for such diverse shapes to come about, local forces are required to act on the outer lipid membrane from within. In cells, it is the job of components of the cytoskeleton (e.g. actin filaments, and microtubules) to exert such forces on the membrane that deformations occur. However, disease-causing bacteria that invade cells can also produce similar phenomena. Listeria , the pathogens that cause intestinal inflammation, are one known example. Deforming the membrane in this way would ultimately enable the bacteria to infect healthy neighbouring cells.

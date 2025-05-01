@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/07/sap-innovation-award-2019-for-eth-zurich.html
 
-**Date processed:** 2025-05-01
-
 ## Total renewal as a foundation for the future
 
 The technology company SAP awarded the SAP Innovation Award 2018 to ETH Zurich on 27 June 2019 in Bern. The university was recognised for its “refine” project (next-generation resource and finance platform for ETH Zurich). The award was accepted on behalf of ETH Zurich by project leader Markus Knaus, head of the Controlling department. The award also recognises the efforts of ETH Zurich to achieve excellence in the realm of digital infrastructure.

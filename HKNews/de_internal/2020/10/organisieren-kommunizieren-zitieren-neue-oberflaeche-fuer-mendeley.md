@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/10/organisieren-kommunizieren-zitieren-neue-oberflaeche-fuer-mendeley.html
 
-**Date processed:** 2025-05-01
-
 ## Mendeley Reference Manager
 
 Literaturverwaltungssystem und soziales Netzwerk in einem: Als Angehörige der ETH Zürich profitieren Sie von der Revision des Mendeley-Programms. Neu wurde der Mendeley Reference Manager lanciert und die Oberfläche der Web-Library überarbeitet. Damit organisieren Sie übersichtlich Ihre Forschungsliteratur, nutzen diese unkompliziert für Ihre eigenen Publikationen und tauschen sich allseitig mit anderen Wissenschaftlerinnen und Wissenschaftlern aus.

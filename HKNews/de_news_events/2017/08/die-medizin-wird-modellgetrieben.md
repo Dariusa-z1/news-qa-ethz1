@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/08/die-medizin-wird-modellgetrieben.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH-News: Herr Buhmann, mit der Digitalisierung steht unsere Gesellschaft mitten in einem fundamentalen Transformationsprozess. Inwiefern verändert dieser auch die Medizin? Joachim Buhmann: Die Medizin wird sehr viel stärker als heute von Vorhersagemodellen bestimmt sein. Mithilfe von Computern können wir heute viel komplexere Modelle entwickeln als früher. Und nirgends werden diese Modelle dringender benötigt als in der Medizin. Wir können Daten von vielen medizinischen Fällen sammeln und daraus lernen, was die Mechanismen einer Krankheit sind. Dabei müssen wir allerdings so viele Parameter berücksichtigen, dass wir Maschinen brauchen, die sie verarbeiten. Vor der Digitalisierung konnten wir Menschen keine Modelle studieren, die so komplex waren, dass wir sie uns nicht mehr merken konnten. Heute geht das – indem wir nicht mehr die Modelle selbst entwerfen, sondern uns überlegen, wie Algorithmen aussehen könnten, die dann die Modelle erzeugen. Das ist maschinelles Lernen.

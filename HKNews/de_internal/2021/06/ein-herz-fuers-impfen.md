@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/06/ein-herz-fuers-impfen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Seit Mitte Mai läuft die neue Informationskampagne zur Covid-19-Impfung des Bundesamtes für Gesundheit (BAG). Im Vordergrund steht dabei die Botschaft «Ein Herz für uns alle»: Wer sich impfen lässt, leistet einen wichtigen Beitrag zur Bewältigung der Pandemie und zeigt dadurch auch ein Herz für seine Mitmenschen. Die Kampagne weist die Bevölkerung darauf hin, dass jetzt ein guter Zeitpunkt ist, um sich nach Impfterminen zu erkundigen.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/02/seltene-proteine-kollaborieren-frueher.html
 
-**Date processed:** 2025-05-01
-
 ## Denaturierung auf einen Schlag?
 
 Man schlägt ein Ei auf, lässt es in die heisse Bratpfanne gleiten – und fast unmittelbar danach wird das transparente und glibbrige Eiklar weiss und fest. Was man beim Spiegeleierbraten beiläufig beobachtet, ist ein wichtiges biochemisches Phänomen: die Denaturierung von Proteinen.

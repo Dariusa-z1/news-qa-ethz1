@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/06/bauen-mit-robotern.html
 
-**Date processed:** 2025-05-01
-
 ## Digital entworfen, geplant und gebaut
 
 Roboter, die Mauern bauen und 3D-Drucker, die ganze Schalungen für Geschossdecken drucken – die digitale Fabrikation in der Architektur hat sich in den letzten Jahren rasant entwickelt. Im Rahmen des Nationalen Forschungsschwerpunktes (NFS) Digitale Fabrikation haben sich Architektinnen, Robotiker, Materialwissenschafterinnen, Statiker und Nachhaltigkeitsexpertinnen der ETH Zürich mit Wirtschaftspartnern zusammengetan, um gleich mehrere neuartige, digitale Bautechnologien vom Labor in die Praxis zu überführen. Gebaut wird auf NEST, dem modularen Forschungs- und Innovationsgebäude, welches die Empa und Eawag auf ihrem Campus in Dübendorf errichtet haben. Hier können Forschende neue Bau- und Energietechnologien unter realen Bedingungen testen. NEST bietet eine zentrale Support-Struktur mit drei offenen Plattformen, an die einzelne Bauprojekte – sogenannte Innovationsunits – andocken können. Vor Kurzem ist der Startschuss für die Bauarbeiten des DFAB HOUSE erfolgt.

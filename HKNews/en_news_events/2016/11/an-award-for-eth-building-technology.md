@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/11/an-award-for-eth-building-technology.html
 
-**Date processed:** 2025-05-01
-
 ## Building without a timber formwork
 
 Innovation, technology – and construction: at first glance, these aren’t things that go hand in hand. The construction industry is not renowned for its groundbreaking inventions, and anyone who mentions technology is still most likely thinking of a digger. So – on second glance – it is perhaps not all that surprising that a new type of building technology has this year received the most significant Swiss prize for innovation and technology transfer in the “Inventors” category.

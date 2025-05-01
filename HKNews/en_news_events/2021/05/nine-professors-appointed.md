@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/05/nine-professors-appointed.html
 
-**Date processed:** 2025-05-01
-
 ## New appointments at ETH Zurich
 
 Dr Pedro Beltrao (*1979), currently Group Leader at the European Bioinformatics Institute of the European Molecular Biology Laboratory in Hinxton, United Kingdom, as Associate Professor of Computational Systems Biology in the Department of Biology. Pedro Beltrao’s research is concerned with the cellular consequences of genetic variation and their influence on health and illness. He received an ERC Starting Grant in 2015 and is regarded as one of the leading researchers in his field. His appointment creates important synergies with various departments and with University Hospital Zurich, particularly in relation to the Strategic Focus Area Personalized Health and Related Technologies.

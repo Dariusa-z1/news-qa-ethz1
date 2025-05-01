@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/01/nicht-reklamieren-kooperieren.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 André Blanchard, hat es Sie in den über elf Jahren als PeKo-Präsident nie gestört, dass man von der Personalkommission ETH-intern kaum etwas mitbekommt?

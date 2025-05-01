@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/05/innovating-peace-mediation.html
 
-**Date processed:** 2025-05-01
-
 ## Event invitation
 
 The panelists will include the following international mediation practitioners, experts, and officials:

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/10/stable-in-all-kinds-of-shapes.html
 
-**Date processed:** 2025-05-01
-
 ## A remarkably simple solution
 
 For a great many years, researchers have been trying to create structures that can assume different stable shapes as required. The goal of creating these multi-stable structures, as they are known, is to build three-dimensional objects that can switch between shapes again and again as needed. This would pave the way for realizing, say, adaptable elements or large objects that can change shape and take less space during transportation.

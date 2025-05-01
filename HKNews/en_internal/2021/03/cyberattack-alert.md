@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/03/cyberattack-alert.html
 
-**Date processed:** 2025-05-01
-
 ## This is CEO fraud
 
 ETH employee X receives an email request, which seems to have been sent by the supervisor:

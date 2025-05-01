@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/04/kite-award-2016.html
 
-**Date processed:** 2025-05-01
-
 ## Two dozen nominations
 
 “At ETH Zurich, teaching and research form a single unit. That’s why innovative teaching concepts are just as important as scientific research,” stated Felicitas Pauss, President of the ETH Lecturers’ Conference (KdL), in her opening remarks for the awards ceremony. The KdL created the KITE Award for Key Innovation in Teaching at ETH with a view to supporting the development of excellent teaching concepts. The idea is for these methods to motivate students to delve deeper into subjects and to prepare them for working life.

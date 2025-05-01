@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/07/auf-augenhoehe-im-neuen-personalgespraech-dialog.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Nachdem das neue Personalgespräch «Dialog» im Herbst 2023 in einem Pilot mit rund 900 Führungspersonen und Mitarbeitenden der ETH Zürich erfolgreich getestet wurde ( Intern aktuell vom 25. März 2024 ), führt die Schulleitung das neue Konzept mit dem überarbeiteten Formular (PDF, 154 KB) für alle Mitarbeitenden in technischen und administrativen Funktionen sowie für Senior Scientists, wissenschaftliche Mitarbeitende, Oberassistierende und Postdoktorierende ein. Für Doktorierende gelten weiterhin der bisherige Fortschrittsbericht sowie das Standortgespräch des Rektorats.

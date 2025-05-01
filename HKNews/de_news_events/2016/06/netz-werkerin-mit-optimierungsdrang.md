@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/06/netz-werkerin-mit-optimierungsdrang.html
 
-**Date processed:** 2025-05-01
-
 ## Das Stromnetz schlauer machen
 
 Soeben hat sie an einem von WEF organisierten Treffen der Young Scientists im chinesischen Tianjin referiert (siehe Artikel von ETH Global). In ihrer Forschung geht Hug der Frage nach, wie sich erneuerbare Energien in die bestehende Strominfrastruktur integrieren lassen, damit eine Abkehr von atomaren und fossilen Energieträgern möglich wird. Ein grosses Thema, zu dem sie viel zu sagen hat. «Das Interesse gilt meinem Fachgebiet, nicht meiner Person», schmunzelt sie bescheiden.

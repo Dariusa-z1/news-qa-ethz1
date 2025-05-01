@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/07/trotz-abwesenheit-immer-erreichbar-mit-dem-telefonservice-der-campus-info.html
 
-**Date processed:** 2025-05-01
-
 ## Längere Abwesenheiten
 
 Aktivieren Sie dafür vor Ihrer Abwesenheit die Rufumleitung auf die Nummer 111 – entweder direkt am Telefonapparat oder online über das Phone Control Center .

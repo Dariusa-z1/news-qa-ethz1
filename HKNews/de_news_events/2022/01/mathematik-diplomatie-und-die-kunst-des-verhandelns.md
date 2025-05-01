@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/01/mathematik-diplomatie-und-die-kunst-des-verhandelns.html
 
-**Date processed:** 2025-05-01
-
 ## Die Geheimwaffe
 
 Zwei Institutionen haben das Leben von Michael Ambühl geprägt: Die ETH Zürich und das Eidgenössischen Departement für auswärtige Angelegenheiten (EDA). An der ETH verbringt er insgesamt 14 Jahre als Student und Doktorand der angewandten Mathematik sowie als Professor für Verhandlungsführung. Im diplomatischen Dienst der Schweiz sind es gar 31 Jahre, davon 9 Jahre als Staatssekretär, der höchsten Position in der Bundesverwaltung.

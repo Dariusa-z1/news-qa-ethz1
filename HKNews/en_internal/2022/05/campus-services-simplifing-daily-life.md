@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/05/campus-services-simplifing-daily-life.html
 
-**Date processed:** 2025-05-01
-
 ## A new name and orientation
 
 Campus Channels , Mobility and Signage are just three of the 16 service areas that Campus Services offers across ETH. To achieve top-level teaching and outstanding research, a finely honed infrastructure is indispensable. Time is the scarcest resource at the university, and as Prof. Ulrich Weidmann, Vice President for Infrastructure, explains: «Our professional services mean that the students and staff can focus on their main tasks – because we see to everything else.»

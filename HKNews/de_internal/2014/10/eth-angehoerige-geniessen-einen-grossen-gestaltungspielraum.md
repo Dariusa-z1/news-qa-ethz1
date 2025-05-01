@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/10/eth-angehoerige-geniessen-einen-grossen-gestaltungspielraum.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Piero Cereghetti, sie waren 15 Jahre an der ETH Zürich. In dieser Zeit hat sich die ETH massiv entwickelt. Was waren für Sie die grössten Meilensteine in der Entwicklung? Ich hatte extrem Glück, genau in die Zeit hineinzukommen, in der die Verselbständigung der ETH vonstattenging. Angefangen hat das mit dem Aufbau einer eigenen Lohnadministration: Früher wurden die Löhne in Bern verarbeitet. Die Revision des Bundespersonalgesetzes, die Ausarbeitung und Umsetzung der Personalverordnung und des Lohnsystems im ETH-Bereich prägten diese Zeit. Zudem haben wir die alte Eidgenössische Versicherungskasse EVK Schritt für Schritt zur gut finanzierten Pensionskasse Publica umgebaut. Auch der Aufbau der Kinderbetreuung und das neue Logistikkonzept der Dienste sind wichtige Meilensteine. Die zuletzt von der Schulleitung verabschiedete Revision der Anstellungsbedingungen der Doktorierenden war für mich das letzte grosse Vorhaben.

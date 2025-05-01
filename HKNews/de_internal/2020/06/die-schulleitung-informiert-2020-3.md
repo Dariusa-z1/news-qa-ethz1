@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/06/die-schulleitung-informiert-2020-3.html
 
-**Date processed:** 2025-05-01
-
 ## Neue externe Ombudsperson
 
 Medizin gehört zu den thematischen Schwerpunkten der ETH Zürich. Um dieses Gebiet weiter zu stärken und die verschiedenen Gesundheitsinitiativen weiter zu fördern und zu bündeln, hat die Schulleitung Christian Wolfrum (D-HEST) zum neuen Delegierten für Medizin ernannt. Der Professor für translationale Ernährungsforschung ist dem Vizepräsidenten für Forschung zugeordnet und nimmt diese neue Funktion seit dem 1. Juni 2020 wahr. In seiner Funktion als Studiendirektor für den Medizinbachelor der ETH Zürich wird er weiterhin eng mit der Rektorin zusammenarbeiten. Ein ausführliches Interview mit Christian Wolfrum wird demnächst folgen.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/03/early-practice-makes-perfect.html
 
-**Date processed:** 2025-05-01
-
 ## The museum, a place of learning
 
 Tabea Schneider is bent intently over the solar panel. Is everything installed in the right place? Will it hold? Is the overall symmetry of the satellite correct? One last critical look … yes, it looks good. Satisfied, she leans back and looks up with her eyes alight. All around her sit lots of little engineers who have just built their own satellite models. The table is strewn with craft supplies: aluminium foil, glue, colourful paper, pens, strings, adhesive foil, scissors, corks, cardboard and twigs.

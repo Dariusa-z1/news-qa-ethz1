@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/06/ferienlektuere.html
 
-**Date processed:** 2025-05-01
-
 ## Weitere Buchtipps von ETH-Angehörigen
 
 • «Eine kleine Geschichte der Zeit» von Stephen Hawking – Christian Thurn, Doktorand im D-GESS

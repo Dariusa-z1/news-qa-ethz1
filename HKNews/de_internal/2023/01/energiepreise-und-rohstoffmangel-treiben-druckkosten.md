@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/01/energiepreise-und-rohstoffmangel-treiben-druckkosten.html
 
-**Date processed:** 2025-05-01
-
 ## Tiefpreisniveau nicht weiter haltbar
 
 Die Pandemie und der Krieg in der Ukraine haben zu einem massiven Anstieg der Rohstoff- sowie der Energiekosten geführt und Frachtkapazitäten weltweit verknappt. Die Auswirkungen sind überall spürbar und machen auch vor dem Druckzentrum der ETH nicht halt.

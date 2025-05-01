@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/05/new-director-of-the-swiss-seismological-service.html
 
-**Date processed:** 2025-05-01
-
 ## Earthquake hazard as a specialist field
 
 Stefan Wiemer will be responsible for further pursuing the manifold activities and mandates of the SED as the federal institute for seismology. The core objectives of the SED are seismological monitoring and hazard assessment in Switzerland. For Stefan Wiemer, communicating knowledge about seismological activity is particularly important. This means informing authorities, media and the public appropriately and comprehensively, as well as educating students. Additionally, Stefan Wiemer wants to create space for pursuing new developments. "The increased use of geo-energy also presents challenges to the SED, and I am really looking forward to meeting them head on", says Stefan Wiemer.

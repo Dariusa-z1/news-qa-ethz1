@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/06/neanderthals-killed-animals-with-spears-at-close-range.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Neanderthals hunted with wooden spears, but they didn’t throw them – they used them to kill animals at close range. This is the conclusion that an international research team led by scientists from the Monrepos Archaeological Research Centre in Neuwied, Germany has reached. The team, which included scientists from ETH Zurich, published its findings in the latest issue of the journal Nature Ecology & Evolution .

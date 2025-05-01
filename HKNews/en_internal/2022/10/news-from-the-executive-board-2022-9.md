@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/10/news-from-the-executive-board-2022-9.html
 
-**Date processed:** 2025-05-01
-
 ## New management at SSHE
 
 This GSV system has already proven its effectiveness during a four-year pilot phase in D-ITET and D‑MAVT. Now it is to be rolled out to all ETH Zurich departments that conduct experimental research. Staggered over the next few years, these are:

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/02/what-does-an-image-truly-convey.html
 
-**Date processed:** 2025-05-01
-
 ## No method reveals everything
 
 What happens in people’s brains when they lie? It’s Friday afternoon at the Fünffinger Dock on the Hönggerberg campus and 18 pharmaceutical sciences students are discussing the explanatory power and limitations of various scientific terms and methods. Three of them, Sara Dylgieri, Severin Lustenberger and Frederik Peißert, bring up a case study in which researchers study the regions of the brain that are activated when a person lies. The scientists found that the frontal and lateral regions of the brains are activated when a person lies, and that other regions of the brain are activated when a person invents a lie rather than when they express it.

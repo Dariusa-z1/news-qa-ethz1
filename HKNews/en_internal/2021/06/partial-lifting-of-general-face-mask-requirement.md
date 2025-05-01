@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/06/partial-lifting-of-general-face-mask-requirement.html
 
-**Date processed:** 2025-05-01
-
 ## Face masks no longer compulsory outdoors
 
 In line with the Federal Council’s easing of measures to contain the coronavirus, and in response to a proposal from the Crisis Management team, the Executive Board has decided to further relax COVID restrictions on campus and has approved the basic parameters for a new version of the master plan. This will be finalised over the coming days and is due to go live on the web on Tuesday. The easing already comes into force on Saturday, 26 June 2021 and is valid at least until mid-August. Changes include partial lifting of the general requirement to wear a face mask and permission for gatherings such as drinks receptions outdoors.

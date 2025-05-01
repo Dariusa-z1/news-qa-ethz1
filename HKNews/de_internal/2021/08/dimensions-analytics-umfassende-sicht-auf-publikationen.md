@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/08/dimensions-analytics-umfassende-sicht-auf-publikationen.html
 
-**Date processed:** 2025-05-01
-
 ## Gezielt suchen
 
 Dimensions Analytics ermöglicht Ihnen eine umfassende Sicht auf kontinuierlich aktualisierte Informationen rund um wissenschaftliche Publikationen. Dabei können Sie Ihre Suche für sechs verschiedene Datentypen durchführen:

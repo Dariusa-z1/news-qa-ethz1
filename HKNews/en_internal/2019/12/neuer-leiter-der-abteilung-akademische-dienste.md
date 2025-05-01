@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/12/neuer-leiter-der-abteilung-akademische-dienste.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Dr. Hermann Lehner studied compu­ter science at ETH Zurich and re­ceived his doctorate from ETH Zu­rich in 2011. During his studies, he was involved in student activities at various levels: He was president of both the student association of computer science and the student associations’ board. Further, he was engaged in the boards of VSETH, ASVZ and the Academic Association of Scientific Staff of computer sciences. After completing his doctorate, he joined Incentage AG, where he was initially a Senior Software Engineer and then team leader of the Development Department.

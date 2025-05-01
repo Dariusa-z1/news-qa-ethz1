@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/06/projekt-quartierstrom.html
 
-**Date processed:** 2025-05-01
-
 ## Anreiz für private Erzeuger
 
 Im Dezember 2018 fiel der Startschuss zu einem schweizweit einzigartigen Experiment: Im Quartier Schwemmiweg in Walenstadt haben sich 37 Haushalte zu einem lokalen Strommarkt zusammengeschlossen. Besitzerinnen und Besitzer von Photovoltaikanlagen können ihren selbst erzeugten Strom an die eigenen Nachbarn verkaufen, ohne Umweg über den Energieversorger. Haushalte ohne Solaranlage können sauberen Strom aus nächster Nähe beziehen. Den Preis bestimmen die Teilnehmenden selbst, über Angebot und Nachfrage.

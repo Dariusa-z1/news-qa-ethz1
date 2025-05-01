@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/11/interview-juraj-hromkovic.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH News: Professor Hromkovic, in late October, the Swiss Conference of Cantonal Ministers of Education (EDK) came out in favour of introducing computer science as a compulsory subject in secondary schools. Are you pleased?

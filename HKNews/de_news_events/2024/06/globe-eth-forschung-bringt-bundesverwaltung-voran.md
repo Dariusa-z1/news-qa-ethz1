@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/06/globe-eth-forschung-bringt-bundesverwaltung-voran.html
 
-**Date processed:** 2025-05-01
-
 ## Trends im Bevölkerungsschutz
 
 Forschende der ETH Zürich stellen ihr Know-how regelmässig in den Dienst der Schweizer Politik und Verwaltung, um Lösungen für gesellschaftliche Probleme zu entwickeln. Ob in Auftragsstudien, Anhörungen oder in Beratungsgesprächen – die Wissenschaftler:innen liefern Daten, zeigen Trends auf, berechnen Szenarien, erklären Zusammenhänge, oder warnen vor Gefahren. Damit tragen die ETH-Forschenden immer wieder zu Innovationen im öffentlichen Sektor bei, denn der Verwaltung fehlt meist die Zeit, sich eingehender mit neuen Analysemethoden und Technologien zu beschäftigen.

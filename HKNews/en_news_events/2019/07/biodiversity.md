@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/07/biodiversity.html
 
-**Date processed:** 2025-05-01
-
 ## Biodiversity on the Hönggerberg campus
 
 From the violet meadow sage and the pink sainfoin to the yellow anthyllis and the red poppies: wild flowers in vibrant spring colours light up the path along the south facade of the HCI building. A bumblebee dips into a sage bloom to extract the sweet nectar. The Hönggerberg campus is not just a hub of science. It is also home to all manner of animals and plant life, serving as a space for biodiversity within a settlement area.

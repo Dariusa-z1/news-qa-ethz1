@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2013/12/pc-herunterfahrenabschalten.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Subscribe to the Newsletter for internal news

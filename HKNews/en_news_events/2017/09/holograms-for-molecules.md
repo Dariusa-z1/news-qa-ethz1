@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/09/holograms-for-molecules.html
 
-**Date processed:** 2025-05-01
-
 ## Directly visible with laser light
 
 Much can be detected in blood or urine: viral illnesses, metabolic disorders or autoimmune diseases can be diagnosed with laboratory tests, for instance. But such examinations often take a few hours and are quite complex, which is why doctors hand the samples over to specialist laboratories.

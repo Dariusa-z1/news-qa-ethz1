@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/11/epfl-und-eth-zuerich-lancieren-erstes-gemeinsames-doktoratsprogramm.html
 
-**Date processed:** 2025-05-01
-
 ## Ein wichtiger Schritt
 
 Wie helfen uns Erkenntnisse aus der Lern- und Kognitionsforschung beim Lehren und Lernen? Wie können Datenwissenschaften und künstliche Intelligenz individuell abgestimmtes Lernen unterstützen? Und wie gelingt es uns – gerade in Zeiten flexibler Arbeitsmodelle –, die Interaktion zwischen Lernenden und physischen Räumen in verschiedenen Umgebungen systematisch zu evaluieren? Diese und ähnliche Themen sollen die Teilnehmenden eines neuen gemeinsamen Doktoratsprogramms in den Lernwissenschaften intensiv behandeln. Ab Frühling 2022 wird es an der EPFL und der ETH Zürich angeboten.

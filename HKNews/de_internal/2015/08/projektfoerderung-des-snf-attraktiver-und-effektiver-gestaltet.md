@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/08/projektfoerderung-des-snf-attraktiver-und-effektiver-gestaltet.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wichtige Elemente der Reform sind:

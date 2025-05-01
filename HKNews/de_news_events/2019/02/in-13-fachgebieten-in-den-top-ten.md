@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/02/in-13-fachgebieten-in-den-top-ten.html
 
-**Date processed:** 2025-05-01
-
 ## Die Rangierung der ETH Zürich in den einzelnen Fachgebieten im QS Ranking der letzten drei Jahre
 
 Bereits im Juni 2018 publizierte Quacquarelli Symonds (QS) das allgemeine World University Ranking 2019. Dort verbesserte sich die ETH gegenüber dem Vorjahr um drei Positionen und erreichte neu den siebten Rang. Nun hat QS das Ranking zu den unterschiedlichen Fachgebieten nachgeliefert. Da zeigt sich ein ähnlich positives Bild für die ETH: In 22 Fachgebieten wird die ETH rangiert. Dabei kann sie sich in 15 Disziplinen gegenüber dem Vorjahr verbessern, in sechs hält sie die Position und lediglich in einem Fachgebiet verliert sie einen Rang.

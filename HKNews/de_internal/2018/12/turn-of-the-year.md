@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/12/turn-of-the-year.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Informationen zu Öffnungs- und Betriebszeiten (PDF, 993 KB)

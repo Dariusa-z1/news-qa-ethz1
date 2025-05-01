@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/02/thomas-mann-archive-to-reopen.html
 
-**Date processed:** 2025-05-01
-
 ## Zurich, June 1955
 
 The Thomas Mann Archive is set to reopen this evening, with two exhibitions that raise awareness of history and promote sensitivity towards the present. The permanent exhibition “The Furnishings of a Writer. Thomas Mann and his study” has been fully redesigned, and the temporary exhibition “Thomas Mann. Europe beware!” is timely and highly topical.

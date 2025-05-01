@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/06/der-eth-spirit-das-neue-life-ist-da.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 An der ETH Zürich ist ein Zusammengehörigkeitsgefühl und ein Stolz spürbar, der die Menschen motiviert, ihr Bestes zu geben. Doch wie kommt dieser ETH-Spirit zustande und was bringt er der Institution und unserem Land? Für die Juni-Ausgabe des Magazins «life» haben wir hochrangige Vertreter der ETH zu diesem Thema befragt. Zudem waren wir einen Tag lang auf dem Campus unterwegs, um Stimmen von Mitarbeitenden und Studierenden einzufangen.

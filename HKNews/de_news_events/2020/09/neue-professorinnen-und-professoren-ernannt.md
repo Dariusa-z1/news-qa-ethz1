@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/09/neue-professorinnen-und-professoren-ernannt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die neuen Professorinnen und Professoren im Kurzporträt:

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/09/hologramm-fuer-molekuele.html
 
-**Date processed:** 2025-05-01
-
 ## Mit Laser-Licht direkt sichtbar gemacht
 
 Im Blut oder Urin lässt sich so einiges nachweisen: Viruskrankheiten, Stoffwechselstörungen oder Autoimmunerkrankungen beispielsweise lassen sich mit Laboruntersuchungen diagnostizieren. Solche Untersuchungen dauern oft ein paar Stunden und sind ziemlich aufwendig, weshalb Ärzte die Proben spezialisierten Labors übergeben.

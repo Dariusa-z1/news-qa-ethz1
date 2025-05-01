@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2024/01/alle-anspruchsgruppen-fruehzeitig-an-bord-holen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Do you already feel at home at ETH? I’ve settled in very well at ETH Zurich and was warmly welcomed by everyone. That made it a lot easier for me to get started. Since then I have been able to visit many divisions and departments and have had many interesting conversations with people from teaching, research and administration.

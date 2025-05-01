@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/09/avec-box.html
 
-**Date processed:** 2025-05-01
-
 ## A longstanding goal achieved
 
 The new shopping facility, which is run by the company Valora, is a container building and was launched in spring 2019. It is now available for all ETH members and campus visitors to use from 17 September to 10 November. The only requirements are personal identification via app and the specification of a payment method. Staff will be on site during the day to help customers with the purchase process; at night and over the weekend, the business will run without staff.

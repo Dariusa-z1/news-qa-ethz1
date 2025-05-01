@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/08/swissloop.html
 
-**Date processed:** 2025-05-01
-
 ## Nach dem Wettbewerb ist vor dem Wettbewerb
 
 Insgesamt 27 von ursprünglich rund 1200 Teams von Universitäten aus der ganzen Welt hatte Elon Musk auf das SpaceX-Gelände in Hawthorne in Los Angeles geladen. Sechs Tage lang wurden ihre Transportkapseln, sogenannte Pods, auf Herz und Nieren geprüft. Nur drei Studierendenteams haben alle Tests erfolgreich absolviert und durften ihren Pod beim Finale am 27. August durch die 1,25 Kilometer lange Vakuumröhre schweben lassen.

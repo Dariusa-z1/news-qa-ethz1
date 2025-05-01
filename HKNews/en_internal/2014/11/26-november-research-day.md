@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/11/26-november-research-day.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Then why not pay us a visit at the ETH-Bibliothek stand and talk to our experts?

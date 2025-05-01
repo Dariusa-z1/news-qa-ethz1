@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/02/lohnanpassungen-bei-eth-doktorierenden-und-wissenschaftlichen-assistierenden.html
 
-**Date processed:** 2025-05-01
-
 ## Gespräche gehen weiter
 
 Ende des letzten Jahres war unklar, ob die Doktorierenden der ETH Zürich, wie die anderen ETH-Mitarbeitenden, im neuen Jahr einen Teuerungsausgleich erhalten werden. Hintergrund: Diese Löhne orientieren sich am externe Seite Schweizerischen Nationalfonds SNF – doch der SNF hatte sich zu diesem Zeitpunkt noch nicht zu einer möglichen Lohnanpassung geäussert ( vgl. Intern aktuell vom 19.12.2022 ).

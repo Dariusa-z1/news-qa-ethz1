@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/11/lohnt-sich-demand-side-management-fuer-schweizer-stromversorger.html
 
-**Date processed:** 2025-05-01
-
 ## DSM in der Schweiz
 
 Sogenanntes Demand-Side-Management (DSM) bezeichnet ursprünglich Planungs-, Einführungs- und Beobachtungsaktivitäten von Stromversorgungsunternehmen, um Konsumenten dazu zu bringen, ihre Stromnachfrage anzupassen – sei das durch zeitliche Verschiebung oder Verringerung des Verbrauchs. Entstanden sind solche DSM-Programme an der Westküste der USA schon in den 1970er Jahren. Von dort breiteten sie sich langsam an die Ostküste und in kontinentalere Regionen der USA sowie nach Kanada aus. Auch heute noch sind DSM-Programme weitverbreitet bei nordamerikanischen Stromversorgen. In den letzten paar Jahren sind solche Programme auch in einzelnen Ländern Europas populär geworden.

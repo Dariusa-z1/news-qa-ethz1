@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/07/neue-themen-an-oeffentlichen-fuehrungen-entdecken-.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Our tours answer questions you might not even have thought of yet:

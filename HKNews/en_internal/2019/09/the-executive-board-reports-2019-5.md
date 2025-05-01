@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/09/the-executive-board-reports-2019-5.html
 
-**Date processed:** 2025-05-01
-
 ## New goals for admission to the master’s programme
 
 The admission criteria for the master’s programme are being redefined. The Rector has launched a new project in support of this: “Redefine Master’s Admission”. In one of the subprojects overseen by Lorenz Hurni, Vice-Rector for Study Programmes, ETH’s goals when admitting candidates to the master’s programme were reformulated. Those in charge of the study programmes gave their feedback on the proposals last spring. The Executive Board has now approved the final version. Admission to the master’s programme will in future be oriented towards five overarching goals:

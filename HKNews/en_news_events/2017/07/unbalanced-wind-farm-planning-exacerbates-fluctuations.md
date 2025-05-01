@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/07/unbalanced-wind-farm-planning-exacerbates-fluctuations.html
 
-**Date processed:** 2025-05-01
-
 ## Combining weather data and production capacities
 
 The expansion of renewable energy has been widely criticised for increasing weather-dependent fluctuations in European electricity generation. A new study shows that this is due less to the variability of weather than from a failure to consider the large-scale weather conditions across the whole continent: many European countries are unilaterally following national strategies to expand wind energy capacities without looking beyond their own backyard.

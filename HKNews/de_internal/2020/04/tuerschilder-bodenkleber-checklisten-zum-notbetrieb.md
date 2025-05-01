@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/04/tuerschilder-bodenkleber-checklisten-zum-notbetrieb.html
 
-**Date processed:** 2025-05-01
-
 ## Das wachsende Angebot beinhaltet demnächst
 
 Unter der neuen Webshop-Kategorie «Notbetrieb Kommunikationsmittel» finden Sie neben Vorlagen zum Befüllen bereits erste fertige Kommunikationsmaterialien. Mit diesem Angebot erstellen Sie in Kürze beispielsweise Türschilder für Sitzungszimmer mit Angabe der maximalen Personenzahl oder Hinweise zur Hygiene – inklusive Produktionsauftrag. Das produzierte Material lassen Sie sich an eine ETH-Büroadresse oder kostenfrei direkt ins Homeoffice liefern. So einfach geht das!

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/09/eth-continues-to-grow.html
 
-**Date processed:** 2025-05-01
-
 ## The most popular courses
 
 A total of around 25,000 students and doctoral candidates will start the Autumn Semester at ETH Zurich this coming Monday. Some 3,250 Bachelor’s students will be setting out on their studies, according to the current enrolment figures. This marks an increase in the number of new students at Bachelor’s level compared to the previous year (2022: around 3,100). “We’re delighted to welcome the next generation of scientists, engineers, architects and other professionals to our university, and we hope they all get off to a successful start,” says ETH Rector Günther Dissertori.

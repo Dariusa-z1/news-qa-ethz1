@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/02/making-professorships-fit-for-the-future.html
 
-**Date processed:** 2025-05-01
-
 ## A comprehensive, broad-based analysis of the status quo
 
 A growing student body is placing increasing demands on teaching staff, and global challenges require ever more collaboration between disciplines. There are growing calls for more diversity and democratic approaches to management. And while the new media landscape has opened up more possibilities for professors to do their own outreach, these new possibilities also pose the inherent risk of reputational damage. Professorships are facing mounting challenges from inside and outside the academy. These challenges have risen sharply over the past few years, but the number of hours in a day has of course stayed the same. This is why there is a need for a shared and forward-looking understanding of what constitutes a professorship at ETH alongside an excellent environment and infrastructure. These factors will help professors achieve a healthy balance between the diverse expectations and time-consuming duties that comprise their role. Clearly defined guideposts should empower the various staff members working in professorships to concentrate on their core duties while also successfully responding to changing requirements. rETHink's Workstream 2: Professorships is working on developing models that can turn these goals into reality.

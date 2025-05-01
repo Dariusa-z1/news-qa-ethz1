@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/09/twin-glacier-collapse-in-tibet.html
 
-**Date processed:** 2025-05-01
-
 ## Joint effort to analyse the cause
 
 In order to understand the cause of the first giant ice avalanche on 17 July, we – an international team of scientists from ETH, SLF/WSL [3] and the scientific commission GAPHAZ [4] – began to investigate the glacier’s development prior to the collapse and to characterize the resulting avalanche. We did this through analysing a large number of visual and radar satellite images, in addition to running Rapid Mass Movements (RAMMS) computer simulations [5] to reproduce the event.

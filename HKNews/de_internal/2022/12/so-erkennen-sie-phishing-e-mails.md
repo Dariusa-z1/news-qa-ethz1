@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/12/so-erkennen-sie-phishing-e-mails.html
 
-**Date processed:** 2025-05-01
-
 ## Phishing-E-Mails sicher erkennen
 
 Damit Sie nicht in die Falle tappen und Cyberkriminelle keine Chance haben, achten Sie bei E-Mails auf folgende Anzeichen:

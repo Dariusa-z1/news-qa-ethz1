@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/09/antibiotikaresistenzen-nehmen-rasant-zu.html
 
-**Date processed:** 2025-05-01
-
 ## Brennpunkte der Resistenzen kartieren
 
 Die Welt erlebt ein beispielloses Wirtschaftswachstum in Schwellen- und Entwicklungsländern. Immer mehr Menschen in Indien, China, Lateinamerika oder Afrika sind zu mehr Wohlstand gekommen, was sich in einem erhöhten Verzehr von Fleisch und Milchprodukten äussert. In Afrika hat der Fleischkonsum in den letzten zwei Jahrzehnten um mehr als die Hälfte zugenommen, in Asien und Lateinamerika um zwei Drittel.

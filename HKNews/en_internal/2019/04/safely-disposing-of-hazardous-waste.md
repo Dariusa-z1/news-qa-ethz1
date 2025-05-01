@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/04/safely-disposing-of-hazardous-waste.html
 
-**Date processed:** 2025-05-01
-
 ## Even the tiniest amounts of antibiotics count as hazardous waste
 
 ETH Zurich is growing. The number of students and staff increased by more than 3,000 people in total between 2015 and 2018. This also means that more chemicals and research materials are being used in the laboratories – and so more waste is being produced. Compared to 2015, around 30 percent more solvents, acids, alkalis and batteries were disposed of in 2018.

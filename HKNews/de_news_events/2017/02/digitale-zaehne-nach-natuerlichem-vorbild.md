@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/02/digitale-zaehne-nach-natuerlichem-vorbild.html
 
-**Date processed:** 2025-05-01
-
 ## Digitalfoto statt Gips
 
 In den vergangenen Jahren haben Computerforscherinnen und -forscher ausgeklügelte bildbasierte digitale Rekonstruktionen für die Gesichter von Menschen entwickelt. Mit solchen Methoden lassen sich ein Gesicht oder Teile davon wie Haare, Lider oder Augen in hohem Detailgrad erfassen und digital abbilden. Ein wesentlicher Teil des Gesichts wurde bis anhin jedoch stiefmütterlich behandelt: der Mund und insbesondere die Zähne. Bildbasierte Ansätze, mit denen letztere möglichst natürlich dargestellt werden können, stecken in den Kinderschuhen. Um einem Gesicht einen lebensechten Ausdruck zu verleihen, ist es allerdings wesentlich, die Zähne naturgetreu abzubilden. Bis anhin griffen Forschende dazu auf handgefertigte Zahnreihenmodelle aus Gips zurück.

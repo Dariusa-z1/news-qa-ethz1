@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/09/a-glimpse-into-the-oceans-biological-carbon-pump.html
 
-**Date processed:** 2025-05-01
-
 ## A quiet trickle of snow
 
 Oceans play a key role in the global carbon dioxide balance. This is because billions of tiny algae live there, absorbing carbon dioxide through photosynthesis and incorporating it into their biomass. When these algae die, they trickle down – along with the excretions of microscopic creatures that feed on them – as “marine snow” into deeper zones. About one percent of their carbon dioxide then lies buried in the seafloor for thousands of years.

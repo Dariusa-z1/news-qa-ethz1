@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/02/tips-and-tricks-for-microsoft-teams.html
 
-**Date processed:** 2025-05-01
-
 ## Getting started: Register for Microsoft 365 / Teams
 
 Microsoft 365 and Teams are available to all members of the ETH community as a communication and collaboration platform. However, to use Teams, you first have to set up what is known as a cloud subscription .

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2023/01/soaring-energy-price-and-shortage-of-raw-materials-affect-printing-costs.html
 
-**Date processed:** 2025-05-01
-
 ## Low prices no longer viable
 
 The pandemic and the war in Ukraine have led to a surge in the costs of energy and raw materials, and a worldwide shortage of freight capacity. The impact of this is being felt everywhere, not least at the ETH printing centre.

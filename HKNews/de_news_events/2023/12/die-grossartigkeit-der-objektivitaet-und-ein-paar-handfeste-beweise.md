@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/12/die-grossartigkeit-der-objektivitaet-und-ein-paar-handfeste-beweise.html
 
-**Date processed:** 2025-05-01
-
 ## Die Mathematik von Strassennetzen
 
 Wenn User:innen Google Maps oder einen anderen digitalen Kartenanbieter aufrufen, sehen sie Bushaltestellen, Velowege, Autobahnen. Raphael Steiner sieht Knoten, Kanten, Graphen. Mit Graphen sind nicht etwa Kurven wie Funktionsgraphen gemeint, sondern Netzwerke aus Knoten, die miteinander verbunden sind – oder nicht. Die Verbindung zwischen zwei Knoten nennen die Forschenden Kanten.

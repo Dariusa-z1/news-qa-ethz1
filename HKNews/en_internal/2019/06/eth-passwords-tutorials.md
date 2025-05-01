@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/06/eth-passwords-tutorials.html
 
-**Date processed:** 2025-05-01
-
 ## Administration of ETH passwords
 
 To support ETH staff and students, IT Services have created tutorials. They convey the respective procedure simply and vividly. Step by step, IT Services explain how you can

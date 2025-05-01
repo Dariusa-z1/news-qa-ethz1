@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/01/taking-doctoral-studies-to-the-next-level.html
 
-**Date processed:** 2025-05-01
-
 ## Doctoral studies are changing
 
 In total, 200 ETH lecturers, half of them professors at all levels, about 80 doctoral students, 60 administrators and 40 guests from universities in Switzerland and abroad accepted the invitation to attend the Doctoral Supervision symposium. The topic is generating a stir and rightly so, as doctoral studies are a pillar of research universities.

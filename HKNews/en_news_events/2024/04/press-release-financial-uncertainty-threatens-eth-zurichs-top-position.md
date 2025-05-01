@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/04/press-release-financial-uncertainty-threatens-eth-zurichs-top-position.html
 
-**Date processed:** 2025-05-01
-
 ## Free reserves exhausted by the end of 2025
 
 A total of 6,050 ETH graduates, top rankings in international university league tables and 43 new spin-offs: ETH Zurich looks back on a very successful year in its annual report 2023 published today. During the reporting period, 58% of the 31 new professors appointed were women, marking the first time women outnumbered men. In addition to its basic mandate in teaching, research and knowledge transfer, ETH Zurich also launched two new national research initiatives. The Coalition for Green Energy & Storage, an initiative led by ETH Zurich and EPFL, brings together partners in politics, science and industry to develop solutions for the storage and transport of renewable energies. The second, the Swiss AI Initiative, aims to position Switzerland as a leading global hub for the development and use of transparent and trustworthy artificial intelligence.

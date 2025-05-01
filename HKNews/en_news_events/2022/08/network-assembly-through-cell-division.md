@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/08/network-assembly-through-cell-division.html
 
-**Date processed:** 2025-05-01
-
 ## No definite blueprint
 
 Over the past few years, vast sums of research funding have been poured into precisely surveying the structure of the fully formed brain. The scientific community is hoping that comprehensively mapping neurons and their connections – known collectively as the connectome – will provide a better understanding of how the brain works.

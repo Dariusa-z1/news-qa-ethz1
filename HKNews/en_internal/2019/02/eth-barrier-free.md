@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/02/eth-barrier-free.html
 
-**Date processed:** 2025-05-01
-
 ## A duty to break down barriers
 
 A small step at the entrance, a toilet that is not wheelchair accessible, online information that is inaccessible to people with a visual impairment: hurdles that may seem minor to people without disabilities can prevent others with special needs from pursuing activities in line with their aims and talents. This can have severe consequences for their careers.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/05/forscherinnen-und-studentinnen-mit-grossem-engagement-und-grossen-ambitionen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Was haben Sie gedacht, als Sie in den Medien über diese Studie gelesen haben? Die kolportierten Rückschlüsse, die aus der Studie gezogen wurden, haben mich irritiert und frustriert. Als Frau, die selbst einen ambitionierten Berufsweg eingeschlagen und gleichzeitig eine Familie mit drei Kindern gegründet hat, fühle ich mich auch ganz persönlich betroffen. Und selbstverständlich erging es nicht nur mir so. Dieser Diskurs hat in der ganzen ETH-Community grosse Irritationen und Verärgerung ausgelöst.

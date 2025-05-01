@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/05/safeguarding-the-necessities-of-life.html
 
-**Date processed:** 2025-05-01
-
 ## Exploiting synergies
 
 Ensuring food security, supplying energy, tackling climate change. The human race is facing a range of complex challenges. Sustainable development provides the solution. ETH Zurich regards the promotion of sustainable development as both a performance mandate and a standard to live up to. But how can our university put this complex and abstract concept into practice and bring it into the public consciousness?

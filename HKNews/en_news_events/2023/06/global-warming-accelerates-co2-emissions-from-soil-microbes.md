@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/06/global-warming-accelerates-co2-emissions-from-soil-microbes.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • It is projected that by the end of the century, CO 2 emissions from soil microbes will escalate.

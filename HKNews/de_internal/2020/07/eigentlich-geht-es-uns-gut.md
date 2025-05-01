@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/07/eigentlich-geht-es-uns-gut.html
 
-**Date processed:** 2025-05-01
-
 ## Eigentlich geht es mir gut
 
 Aufstehen. Kaffeemaschine anstellen. Computer starten. Duschen. Trainer-hose und T-Shirt anziehen. Mails checken. Und ab ins erste Zoom-Meeting. So startete ich meinen ersten Arbeitstag im Homeoffice. Es folgten weitere Sitzungen, bei denen meine Kolleginnen und Kollegen auf Kacheln erschienen, manche mit einer wehenden Palme im Hintergrund, andere gaben einen Einblick in ihre Klause. Zwischendurch einen Text schreiben und Mails beantworten. Gegen Mittag meldete sich mein Nacken – ich musste raus, mich etwas bewegen. Am Abend fühlte ich mich erschlagen.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/08/informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-31-august-2020.html
 
-**Date processed:** 2025-05-01
-
 ## Face masks mandatory as of 24 August 2020
 
 All locations of the ETH Library are open. Some buildings continue to operate on reduced opening hours throughout September:

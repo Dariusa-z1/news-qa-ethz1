@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/12/rahmen-fuer-abgeltungsverhandlungen.html
 
-**Date processed:** 2025-05-01
-
 ## Tiefenlager sind unbeliebt – man muss verhandeln
 
 Wo sollen radioaktive Abfälle sicher entsorgt werden? Weltweit ist dieses Problem noch nicht gelöst. Auch wir in der Schweiz produzieren Abfälle, die sehr lange strahlen. Diese müssen laut Kernenergiegesetz grundsätzlich bei uns im Inland entsorgt werden, und zwar so, dass ein dauernder Schutz von Mensch und Umwelt gewährleistet ist.

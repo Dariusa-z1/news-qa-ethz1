@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/12/battlefield-of-the-sexes.html
 
-**Date processed:** 2025-05-01
-
 ## Comparing gene activity patterns
 
 Scientists have been asking a fundamental question ever since the time of Darwin: how do the different sexes evolve when the genes of females and males are for the most part the same?

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/04/clouds-in-three-dimensions.html
 
-**Date processed:** 2025-05-01
-
 ## Three-dimensional cloud visualisation
 
 Visualisation plays a huge role in the study of weather data, such as temperature, air pressure and the cloud water content of the atmosphere. Displaying this data graphically is quite natural, since it has clear spatial reference points and is very simple to superimpose on maps.

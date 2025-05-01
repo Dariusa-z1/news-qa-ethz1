@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/12/heartfelt-tributes-to-departing-rector-globe.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 She has worked with great enthusiasm for good teaching. (Image: Markus Bertschi)

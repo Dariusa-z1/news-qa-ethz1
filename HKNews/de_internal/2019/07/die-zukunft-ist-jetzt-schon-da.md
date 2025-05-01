@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/07/die-zukunft-ist-jetzt-schon-da.html
 
-**Date processed:** 2025-05-01
-
 ## Die Kunst des Fragenstellens
 
 Wenn die Berufslernenden ihre Ausbildung an der ETH beginnen, ist für sie zunächst vieles fremd: Der Berufsalltag ebenso wie das hochtechnische, vielfältige und internationale Umfeld der ETH Zürich. In der Regel leben sie sich dann rasch ein, lernen die nötigen Arbeitsmethoden, wie sie im Team arbeiten und wie sie mit Kunden umgehen.

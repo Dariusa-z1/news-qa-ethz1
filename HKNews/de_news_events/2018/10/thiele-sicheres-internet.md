@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/10/thiele-sicheres-internet.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Es gibt wohl kaum eine Informationsinfrastruktur, die nicht von Hackern angegriffen werden kann und es auch wird: Unsere Telefone, Tablets, Laptops, PC aber auch Datenzentren und das Internet als Ganzes. Kleine und grosse Firmen waren in der Vergangenheit gleichermassen betroffen, sei es Facebook, die Ruag, Yahoo oder Sony. Auch kritische Daten und Infrastrukturen blieben nicht verschont, denken wir nur an die Erpressungen mit der Schadsoftware WannaCry, von denen auch Englische Spitäler betroffen waren, das zur Sabotage von Industrieanlagen genutzte Programm Stuxnet oder die entwendeten Gesundheitsdaten von 1,5 Millionen Menschen in Singapur.

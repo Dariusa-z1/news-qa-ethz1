@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/07/detecting-breast-cancer-earlier.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • Researchers from the ETH Zurich, the Paul Scherrer Institute PSI, the Cantonal Hospital Baden and the University Hospital Zurich have achieved a milestone on the way to improved breast cancer screening.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/02/minor-changes-to-the-coronavirus-masterplan.html
 
-**Date processed:** 2025-05-01
-
 ## New master plan with minor changes
 
 The new Spring Semester started on Monday – but in online mode. Most ETH staff are working from home and virtually all university buildings are closed. More than a few ETH members are struggling with motivation. “Unfortunately we still have a few weeks to get through and we need to grit our teeth and keep going,” comments Ueli Weidmann, head of the ETH Covid task force, summarising the current situation.

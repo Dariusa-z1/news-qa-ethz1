@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/08/eine-quelle-der-inspiration.html
 
-**Date processed:** 2025-05-01
-
 ## Further strengthening the exchange
 
 Snoring can develop into a health problem, which is why a Swiss company is now working together with ETH researchers to develop a bed that can reduce snoring. Thanks to the latest technology, the bed can modify the posture of the sleeping person by means of easy movements, and thus prevent snoring. This technology is being explored in ETH’s Sensory-Motor Systems Lab. The bed is just one example of how ETH Zurich works together with small and medium-sized enterprises (SMEs).

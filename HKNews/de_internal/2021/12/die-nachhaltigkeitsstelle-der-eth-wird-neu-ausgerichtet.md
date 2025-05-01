@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/12/die-nachhaltigkeitsstelle-der-eth-wird-neu-ausgerichtet.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Nachhaltigkeit ist vielleicht dasjenige Handlungsfeld, in dem die ETH Zürich am ausgeprägtesten sowohl wissenschaftlich als auch institutionell gefordert ist. Schliesslich hat die ETH als öffentlich finanzierte, globale Top-Hochschule eine gesellschaftliche Verantwortung – zum Beispiel sind, wenn man an den Umgang mit Ressourcen oder an die Senkung der Treibhausgasemissionen denkt, neben Lösungsansätzen aus Lehre, Forschung und Innovation, auch konkrete Beiträge der Hochschule selbst gefragt. Folgerichtig arbeiten heute nicht nur die ETH-​Departemente und eine wachsende Zahl von Kompetenzzentren an Lösungen, um eine nachhaltige Entwicklung zu ermöglichen, sondern die Hochschule hat auch Nachhaltigkeitsziele für die Campus- und Infrastrukturentwicklung (inkl. Mobilität, Gastronomie und Beschaffung): «Nachhaltigkeit ist Teil der ETH-Kultur», heisst es dazu im Strategie-​ und Entwicklungsplan 2021-​2024: «Zudem leben wir die Nachhaltigkeit auf unserem eigenen Campus und fördern die Idee der ETH als Testlabor.»

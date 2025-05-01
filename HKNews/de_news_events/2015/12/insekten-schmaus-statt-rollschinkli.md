@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/12/insekten-schmaus-statt-rollschinkli.html
 
-**Date processed:** 2025-05-01
-
 ## Alternative Nahrungsquellen sind gefragt
 
 Eiweisse (Proteine) sind essentiell für den menschlichen Organismus: Wir brauchen sie unter anderem für den Zellaufbau und ein funktionierendes Immunsystem. Für unsere Ernährung können wir zwischen tierischen oder pflanzlichen Eiweissquellen wählen. In den letzten Jahren ist aber die globale Nachfrage für tierisches Eiweiss besonders gestiegen. Tierische Proteine sind zwar sehr wertvoll für den menschlichen Organismus, doch um Fleisch herzustellen, nehmen wir teilweise drastische negative Auswirkungen in Kauf. Vor allem die Massentierhaltung mit ihren hohen Belastungen für Tier (Stress, Krankheitsanfälligkeit) und Umwelt (Futtermittelverbrauch, Treibhausgase) kann einem den Genuss des Rollschinklis vermiesen. Die Suche nach tierischen Eiweissquellen, die umweltfreundlicher produziert werden können, wird deshalb immer dringlicher.

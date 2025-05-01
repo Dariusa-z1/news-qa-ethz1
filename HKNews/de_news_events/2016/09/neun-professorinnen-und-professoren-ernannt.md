@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/09/neun-professorinnen-und-professoren-ernannt.html
 
-**Date processed:** 2025-05-01
-
 ## Ernennungen
 
 Der ETH-Rat hat an seiner Sitzung vom 28./29. September 2016 auf Antrag des Präsidenten der ETH Zürich, Lino Guzzella, neun Professorinnen und Professoren ernannt und den Rücktritt von drei Professoren zur Kenntnis genommen.

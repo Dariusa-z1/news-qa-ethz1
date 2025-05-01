@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/02/uebertragungswege-von-infektionen-in-spitaelern-auffinden-und-unterbrechen.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • In Zusammenarbeit mit einem ETH-Spin-off entwickeln die Forschenden ein tragbares Ultrabreitband-Tracking-System, um in Spitälern die Nahkontakte in Infektionsnetzwerken genauer nachzuverfolgen.

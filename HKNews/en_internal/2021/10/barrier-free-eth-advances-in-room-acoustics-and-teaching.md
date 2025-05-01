@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/10/barrier-free-eth-advances-in-room-acoustics-and-teaching.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 When a lecture hall’s acoustics are subpar for a soft-spoken delivery, when audience members ask a muffled question, or when our own hearing is limited: all of these can mean that we understand only part of the many courses and lectures held every day at ETH. In response, IT Services (ITS) spent the semester break improving intelligibility in classrooms: they have equipped numerous lecture halls and seminar rooms with what are known as hearing loops. These allow hearing aids in those rooms to receive audio signals such as music or lectures and reproduce them with little interference.

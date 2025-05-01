@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/10/rethink-blogpost-christian-thurn.html
 
-**Date processed:** 2025-05-01
-
 ## How could such a lunch meeting platform look like?
 
 ETH is a great place with interesting people. However, these people often do not know each other. We tend to stay in our groups, only knowing members from our institutes or academic fields. Whereas scientific research becomes more and more specialized, knowledge has smooth transitions without fixed borders and interdisciplinary projects become more influential and get cited more often (e.g. Steele & Stier, 2000). Current problems confront us with increasingly complex questions that need to be tackled by interdisciplinary teams. Getting to know, who could be a member of such a team is the first step.

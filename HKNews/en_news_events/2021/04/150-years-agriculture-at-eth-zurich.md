@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/04/150-years-agriculture-at-eth-zurich.html
 
-**Date processed:** 2025-05-01
-
 ## An outstanding faculty-student ratio
 
 Switzerland was an agricultural country until well into the 19th century. Given its share of the gross national product and the fact that over 80 percent of the population were involved in farming, agriculture was the single most important economic sector. However, increasing industrialisation and the shift towards a service economy meant that agriculture was compelled to evolve, too. While in other countries, particularly in Germany, agricultural sciences were already well established at universities, in Switzerland the teaching focused on empirical aspects; there was a distinct lack of systematic research in the agricultural sector. That all changed when parliament passed the somewhat awkwardly titled “Federal act concerning the extension of the forestry school of the Swiss Federal Polytechnic Institute to a school of agriculture and forestry” and the School of Agriculture was founded at ETH Zurich in 1871, some 150 years ago.

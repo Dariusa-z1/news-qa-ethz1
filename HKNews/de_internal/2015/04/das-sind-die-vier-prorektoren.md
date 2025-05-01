@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/04/das-sind-die-vier-prorektoren.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Neu ins Amt gewählt wurde:

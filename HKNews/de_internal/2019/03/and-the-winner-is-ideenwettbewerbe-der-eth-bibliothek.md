@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/03/and-the-winner-is-ideenwettbewerbe-der-eth-bibliothek.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 • In der externe Seite Data Challenge call_made haben zwei Ideen gewonnen, die sich mit dem Gamifizieren von Daten und mit Schnittstellen (APIs) zu unseren digitalen Ressourcen befassen.

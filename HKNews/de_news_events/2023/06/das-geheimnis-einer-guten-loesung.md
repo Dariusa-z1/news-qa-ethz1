@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/06/das-geheimnis-einer-guten-loesung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Ursprünglich hatte Siddhartha Mishra Physik studieren wollen. In seiner Kindheit in Bhubaneswar, der Hauptstadt des indischen Bundesstaats Odisha, träumte er davon, zu erfahren, «was die Sterne zum Scheinen bringt». Im Studium realisierte er, dass ihm der mathematische Zugang zur Welt mehr lag als der experimentelle, und so schloss er in der Mathematik ab. Die Hinwendung zur wirklichen Welt und zu physikalischen Erscheinungen hat sich ihm bis heute erhalten. Zu den Themen, die er als Mathematiker untersucht, zählen typischerweise dynamische Strömungen, Flüssigkeiten oder Gase (Fluide), die zum Beispiel bei Wetter, Klima oder Lawinen eine Rolle spielen, sowie wellenartige Phänomene, wie sie bei Tsunamis oder explodierenden Supernovas auftreten.

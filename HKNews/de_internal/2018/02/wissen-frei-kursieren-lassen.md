@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/02/wissen-frei-kursieren-lassen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Ihre Kernaussagen sind:

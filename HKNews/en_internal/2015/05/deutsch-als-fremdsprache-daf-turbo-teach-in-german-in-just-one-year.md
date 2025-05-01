@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/05/deutsch-als-fremdsprache-daf-turbo-teach-in-german-in-just-one-year.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Teaching is one of the fundamental tasks for all doctoral students and academic staff at ETH Zurich. With this in mind, ETH Zurich is working in cooperation with the joint Language Center of the University of Zurich and ETH Zurich to offer the “Deutsch als Fremdsprache (DaF) Turbo” course to ensure the German language does not create an unnecessary barrier.

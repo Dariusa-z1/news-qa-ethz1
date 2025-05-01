@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/01/eth-am-wef-2019.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 «So habe ich auch angefangen!», ruft eine der ersten Augenzeuginnen des vielleicht ersten schlittschuhlaufenden Roboters der Welt entzückt. Der vierbeinige und etwa katzengrosse Skaterbot der ETH hat sich die Fortbewegung auf Kufen selber beigebracht und pflegt entsprechend einen sehr eigenen Stil. Langsam aber nicht unelegant schlängelt er sich über die Eisfläche vor dem Pavillon der ETH in Davos: Der Skaterbot ist definitiv der Star des dritten Auftrittes der ETH vor den Toren des Jahrestreffens des World Economic Forums – Highlights gibt es aber viele.

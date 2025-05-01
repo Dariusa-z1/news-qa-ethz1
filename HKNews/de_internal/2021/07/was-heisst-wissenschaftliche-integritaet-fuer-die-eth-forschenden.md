@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/07/was-heisst-wissenschaftliche-integritaet-fuer-die-eth-forschenden.html
 
-**Date processed:** 2025-05-01
-
 ## Diskussion um neue ETH-Integritätsrichtlinien eröffnet
 
 • Verlässlichkeit gewährleistet Qualität in Lehre und Forschung und bildet die Grundlage der Glaubwürdigkeit sowie des Vertrauens in die Wissenschaft. Verlässlichkeit bezieht sich dabei auf alle Phasen der wissenschaftlichen Arbeit, von der Konzeption (inkl. Auswahl des Projektes und der Projektpartner) bis zur Publikation und der Datenpflege. Sie beinhaltet Transparenz und Nachvollziehbarkeit.

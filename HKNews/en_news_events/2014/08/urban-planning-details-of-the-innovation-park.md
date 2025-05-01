@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/08/urban-planning-details-of-the-innovation-park.html
 
-**Date processed:** 2025-05-01
-
 ## New urban district
 
 In 2016, a biotope is planned in Dübendorf in which the fruits of university research are turned into marketable products as quickly as possible in collaboration with international companies. ETH Zurich has supported the idea since 2004 with planning, comparison and feasibility studies. The campus in Dübendorf is to become one of two hubs of a Swiss innovation network; the second hub is scheduled for Lausanne near EPFL. ETH Zurich and EPFL are working closely together with the Swiss Innovation Park association and the cantons on details of the project.

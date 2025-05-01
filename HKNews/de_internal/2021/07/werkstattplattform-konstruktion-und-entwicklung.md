@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/07/werkstattplattform-konstruktion-und-entwicklung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Seit April dieses Jahres finden Kundinnen und Kunden bei der Werkstattplattform zusätzlich Unterstützung bei allen Bedürfnissen rund um Konstruktion und Entwicklung. Damit hat sich diese Technologieplattform der ETH innert kurzer Zeit zu einem Full Service Provider entwickelt. Ihr Angebot richtet sie in erster Linie an alle ETH-Forschenden, die dank der weiteren Dienstleistung einen niederschwelligen, unkomplizierten Zugang zum Fachbereich Konstruktion und Entwicklung vorfinden. Die Konstruktionsabteilung der Werkstattplattform arbeitet mit dem SolidWorks 2020 CAD System, kann aber diverse andere CAD-Daten einlesen und bearbeiten.

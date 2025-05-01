@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/01/klimabewusster-genuss.html
 
-**Date processed:** 2025-05-01
-
 ## CO2-Berechnungsmethoden vereinheitlichen
 
 An der ETH Zürich verpflegen sich täglich Tausende Studierende, Mitarbeitende und Gäste. Insgesamt verursacht die Gastronomie ein Äquivalent von jährlich rund 8‘000 Tonnen CO 2 . Das entspricht etwa einem Fünftel aller Treibhausgasemissionen der ETH Zürich. Um herauszufinden, wie ETH-Angehörige gesund, erschwinglich und gleichzeitig umweltverträglich verpflegt werden können, lancierte die Gastronomiekommission der ETH Zürich deshalb 2013 ein Projekt. Getragen wurde es hauptsächlich von Studierenden, methodisch wurde ein so genannter Reallabor-Ansatz gewählt. Dabei gingen Forschungsarbeiten, Ausbildung und die konkrete Optimierung der Nachhaltigkeit auf dem Campus Hand in Hand.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/05/new-appointments-at-eth-zurich.html
 
-**Date processed:** 2025-05-01
-
 ## New appointments at ETH Zurich
 
 (Photograph: WSS, Oliver Lang Fotografie)

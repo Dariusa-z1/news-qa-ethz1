@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/06/pointing-the-way-for-researchers-in-switzerland.html
 
-**Date processed:** 2025-05-01
-
 ## CHF 500 million for 2014
 
 The Federal Council has pointed the way: researchers in Switzerland wishing to participate in the Horizon 2020 European research and innovation programme will be funded directly by Switzerland. This was decided by the federal government on Wednesday: “We have found a solution for 2014,” Federal Councillor Johann Schneider-Ammann told the media. “This solution creates certainty and clarity for our research community, because we provide the funds that authorise participation in Horizon 2020.”

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2013/10/21-27-october-open-access-week-2013-at-eth-zurich.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Visit us at our stands and find out about ETH Zurich’s open-access policy and the open-access strategies of key research sponsors:

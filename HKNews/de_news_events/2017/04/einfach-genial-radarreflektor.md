@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/04/einfach-genial-radarreflektor.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 «Dieser Mechanismus ist so genial, den müsste man patentieren lassen», dachte sich Cornelius Senn, und dies nicht zum ersten Mal. Der Mess- und Elektrotechniker am Departement Bau, Umwelt und Geomatik machte schon oft Erfindungen und stellte Geräte her, die den Forschenden im Departement das Leben erleichterten. Doch diesmal sollte sich der so leicht dahergesagte Spruch bewahrheiten.

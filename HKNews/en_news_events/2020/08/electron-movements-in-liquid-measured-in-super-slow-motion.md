@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/08/electron-movements-in-liquid-measured-in-super-slow-motion.html
 
-**Date processed:** 2025-05-01
-
 ## Delayed transport of electrons from the liquid
 
 To understand how chemical reactions begin, chemists have been using super-slow motion experiments for years to study the very first moments of a reaction. These days, measurements with a resolution of a few dozen attoseconds are possible. An attosecond is 1x10 -18 of a second, i.e. a millionth of a millionth of a millionth of a second.

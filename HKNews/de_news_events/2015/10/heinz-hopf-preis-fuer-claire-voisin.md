@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/10/heinz-hopf-preis-fuer-claire-voisin.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der Königsweg zu gesicherter Erkenntnis in der Mathematik ist der Beweis. In einem mathematischen Teilgebiet wie der algebraischen Geometrie, deren Grundbegriffe und Forschungsgegenstände sich sehr weit von alltagsnahen Begriffen und Formen entfernt haben, sind auch Vermutungen ein wesentlicher Antrieb für den weiteren Erkenntnisfortschritt. Einmal formuliert, sind Vermutungen zwar weder bewiesen noch wiederlegt, für ihre Richtigkeit gibt es aber gute Gründe. Insofern bezeichnen sie ein mathematisches Problem, dessen Lösung noch aussteht.

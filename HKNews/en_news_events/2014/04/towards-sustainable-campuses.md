@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/04/towards-sustainable-campuses.html
 
-**Date processed:** 2025-05-01
-
 ## “Sustainable Campus Initiative”
 
 ETH Zürich hosted members of the International Alliance of Research Universities ( IARU ) on 24 – 25 April 2014, for its annual Presidents’ Meeting. The presidents and key members of the leadership from Australian National University, National University of Singapore, University of California, Berkeley, University of Copenhagen, The University of Tokyo, Peking University, University of Cambridge, University of Oxford, and Yale University gathered to reconfirm their commitment as an alliance to addressing key issues facing society - from aging, longevity, and health to climate change and the impact of campus activities on the environment.

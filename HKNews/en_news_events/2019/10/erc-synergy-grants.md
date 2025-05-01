@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/10/erc-synergy-grants.html
 
-**Date processed:** 2025-05-01
-
 ## ETH and Europe conducting cutting-edge research together
 
 Correlations and questions in research are becoming more and more complex, which makes collaboration between researchers from different fields necessary. Since 2012, the European Research Council (ERC) has been awarding Synergy Grants to promote research projects which demonstrate a high synergy effect and in which two to four researchers from different fields work together. This year, 37 consortiums were awarded a generous grant of EUR 10 to 14 million. ETH Zurich is leading two projects and is involved in a third. The European Research Council’s Synergy Grants support a wide range of research projects across a variety of topics, including Domenico Giardini’s research on predicting earthquakes, Jacob Corn’s research on genome editing and Jeffrey W. Bode’s research on the development of broad-spectrum antiviral therapies.

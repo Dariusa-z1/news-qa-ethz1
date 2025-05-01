@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/02/townhall-ueber-rethink.html
 
-**Date processed:** 2025-05-01
-
 ## Neben Zustimmung auch Kritik
 
 Meilensteine bei der Schaffung eines sicheren Internets und in der Quantenphysik, tiefgreifende Curriculum-Reformen, die Reha-Initiative und der bevorstehende zweite Cybathlon, 2019 ein neuer Spin-off-Rekord, der Zürich zum Hotspot für Investoren macht. Des Weiteren eine ETH-weite Förderung der Diversity und der nationale Energiepreis für das Erdspeichersystem auf dem Campus Hönggerberg: Die ETH ist derzeit – buchstäblich – ausgezeichnet unterwegs.

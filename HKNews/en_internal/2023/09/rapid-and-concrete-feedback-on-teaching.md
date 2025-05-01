@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2023/09/rapid-and-concrete-feedback-on-teaching.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Lecturers sometimes feel like lone warriors: regular interaction with colleagues – a common feature in the research community – is not always part of their daily routine. But that’s about to change. Rector Günther Dissertori and the Lecturers’ Conference have together launched the initiative “ Peer Feedback on Teaching ” to address the situation.

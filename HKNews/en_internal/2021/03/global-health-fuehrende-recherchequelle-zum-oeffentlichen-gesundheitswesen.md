@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/03/global-health-fuehrende-recherchequelle-zum-oeffentlichen-gesundheitswesen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 • Global coverage : It encompasses international literature not covered by other databases and offers users a truly global perspective.

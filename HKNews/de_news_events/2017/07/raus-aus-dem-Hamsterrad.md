@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/07/raus-aus-dem-Hamsterrad.html
 
-**Date processed:** 2025-05-01
-
 ## Der Mensch im Rad der Entwicklung
 
 Die Erfindung des Rades war eine der frühesten kulturellen Leistungen des Menschen. Eine weitere war die Domestikation von Tieren. Deren Synthese, also das Hamsterrad, kann daher sicher als Ideotyp vieler komplexer kultureller Entwicklungen dienen: Die Technik ermöglicht dem Menschen, eine Kreatur zu unterjochen, deren Instinkte anzusprechen und ihr eine neue Beschäftigung zu geben. Einmal auf Touren gebracht, scheint ein Stillstand undenkbar. Die Kreatur würde straucheln und den unkontrollierbaren Auswirkungen der Fliehkraft anheimfallen.

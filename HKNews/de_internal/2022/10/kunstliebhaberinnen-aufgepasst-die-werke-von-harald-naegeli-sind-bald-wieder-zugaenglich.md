@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/10/kunstliebhaberinnen-aufgepasst-die-werke-von-harald-naegeli-sind-bald-wieder-zugaenglich.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Abteilung Immobilien hat kürzlich über die geplante Wiedereröffnung der Einstellgarage vom 07. November 2022 berichtet.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/05/studierendenumfrage.html
 
-**Date processed:** 2025-05-01
-
 ## Hohe Rücklaufquote
 
 Unter dem Titel #wiegETHs? hat der Verband der Studierenden an der ETH (VSETH) vermutlich die grösste Befragung seiner Geschichte durchgeführt. Sämtliche 16’000 Bachelor- und Masterstudierende waren aufgerufen, rund 30 bis 50 Fragen zu beantworten: zu ihrer Studiensituation und ihrer psychischen Verfassung im Allgemeinen, im Speziellen aber auch zu Erfahrungen mit Diskriminierung oder Ungleichbehandlung an der ETH. Die Anzahl Fragen fiel unterschiedlich aus, weil nachgehakt wurde, wenn die Teilnehmenden beispielsweise angaben, Benachteiligungen erfahren zu haben oder wenn sie sich eingangs der Befragung als nicht heterosexuell oder als trans*gender bezeichnet hatten.

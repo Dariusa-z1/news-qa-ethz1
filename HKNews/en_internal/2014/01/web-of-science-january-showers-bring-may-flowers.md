@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/01/web-of-science-january-showers-bring-may-flowers.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Subscribe to the Newsletter for internal news

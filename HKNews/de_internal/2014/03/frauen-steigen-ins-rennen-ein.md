@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/03/frauen-steigen-ins-rennen-ein.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In meiner ersten Kolumne habe ich meine persönlichen Erfahrungen als Professorin an der ETH Zürich geschildert. Diesmal möchte ich im Tandem mit meiner Kollegin Prof. Janet Hering (WPF-Vizepräsidentin) ein Thema angehen, das besonders aktuell ist: die Wahl des neuen ETH-Rektors.
