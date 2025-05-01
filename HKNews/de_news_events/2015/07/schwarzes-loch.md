@@ -1,0 +1,30 @@
+# schwarzes-loch
+
+**Source:** de_news_events/2015/07/schwarzes-loch.html
+
+## War am Anfang alles anders?
+
+CID-947 heisst das Objekt, das Benny Trakhtenbrot, Forscher am Institut für Astronomie der ETH Zürich, zusammen mit einem internationalen Team von Astrophysikern untersuchten. Beobachtungen im Keck-Observatorium auf Hawaii und mit verschiedenen Weltraumteleskopen zeigten, dass es sich dabei um eine sehr weit entfernten Galaxie mit einem extrem massereichen Schwarzes Loch handelt. Galaxie und Schwarzes Loch entstammt einer Epoche, als das Universum mit weniger als zwei Milliarden Jahren erst 14 Prozent seines jetzigen Alters hatte (heute sind seit dem Urknall fast 14 Milliarden Jahre vergangen).
+
+Die Auswertung der auf Hawaii gesammelten Daten ergab, dass das Schwarze Loch in CID-947 mit fast zehn Milliarden Sonnenmassen zu den massereichsten bisher bekannten Schwarzen Löchern gehört. Was die Forscher aber besonders überraschte, war nicht der Rekordwert des Schwarzen Lochs, sondern die Masse der Galaxie: «Unser Messwert entspricht der Masse einer normalen Galaxie», sagt Trakhtenbrot, Postdoc in der Gruppe für extragalaktische Astrophysik von Professorin Marcella Carollo. «Wir haben also ein sehr massereiches Schwarzes Loch in einer normalen Galaxie.» Ein Resultat, das die Astronomen vor ein Rätsel stellte. Deshalb bestimmten zwei Forscherinnen die Masse der Galaxie unabhängig voneinander. Beide kamen zum gleichen Resultat. In der aktuellen Ausgabe der Fachzeitschrift «Science» berichtet das Team über seine Ergebnisse.
+
+Die meisten Galaxien, so auch unsere Milchstrasse, beherbergen in ihrem Zentrum ein Schwarzes Loch, in dem eine Gesamtmasse von Millionen bis Milliarden Sonnenmassen steckt. «Schwarze Löcher sind Objekte, deren Gravitation so stark ist, dass ihnen nichts – nicht einmal das Licht – entkommen kann. Einsteins Relativitätstheorie beschreibt, wie sie die Raumzeit selber verbiegen», sagt ETH-Professor Kevin Schawinski, Mitautor der neuen Studie. Nachweisen lassen sich die Schwarzen Löcher, weil Materie durch die grosse Anziehung in ihrer Nähe stark beschleunigt wird und dadurch besonders energiereiche Strahlung aussendet.
+
+Beobachtungen haben bisher gezeigt, dass die Schwarzen Löcher umso massereicher sind, je mehr Sterne ihre Heimatgalaxie enthält. «Dies gilt für das lokale Universum, das nur die Situation in der nahen Vergangenheit des Universums widerspiegelt», erklärt Benny Trakhtenbrot. Hier gehen das Wachstum der Schwarzen Löcher und die Entstehung von Sternen offenbar Hand in Hand. Wenn man davon ausgehe, dass aus einem gemeinsamen Reservoir aus kaltem Gas einerseits Sterne entstehen und andererseits das Schwarze Loch im Zentrum gefüttert wird, sei durchaus einleuchtend, sagt der Astronom. Ausserdem gibt es Studien, wonach die Strahlung, die während des Wachstums des Schwarzen Lochs ausgesandt wird, die Sternbildung kontrolliert oder sogar stoppt, indem die freiwerdende Energie das Gas aufheizt. Die neuen Ergebnisse lassen nun allerdings vermuten, dass diese Prozesse zumindest im frühen Universum anders abliefen.
+
+Das weit entfernte, junge Schwarze Loch, das Trakhtenbrot und seine Kollegen beobachteten, hat rund zehnmal weniger Masse als seine Galaxie. Im heutigen, lokalen Universum erreichen die Schwarzen Löcher eine Masse von nur 0,2 bis 0,5 Prozent der Masse ihrer Heimatgalaxien. «Das heisst, dass dieses Schwarze Loch viel effizienter gewachsen ist als seine Galaxie – dies im Gegensatz zu den Modellen, die eine Hand-in-Hand-Entwicklung vorhersagen», erklärt der ETH-Forscher. Aus ihren Beobachtungen schliessen die Astronomen zudem, dass das Schwarze Loch am Ende seines Wachstums angelangt ist, während weiterhin Sterne entstehen. Entgegen früherer Annahmen stoppte der Energie- und Gasfluss, angetrieben vom Schwarzen Loch, die Sterngeburten also nicht.
+
+Auch in Zukunft könnte die Galaxie noch weiter wachsen, doch das Verhältnis zwischen der Masse des Schwarzen Lochs und der Sterne würde unüblich gross bleiben. CID-947 könnte damit ein Vorläufer der extremsten, massereichsten Systeme sein, die wir heute im lokalen Universum beobachten, wie die Galaxie NGC 1277 im Sternbild Perseus, 220 Millionen Lichtjahre von unserer Milchstrasse entfernt, vermuten die Forscher. Weitere Erkenntnisse über die Galaxienentwicklung erhoffen sie sich von Beobachtungen mit dem Radioteleskop Alma in Chile.
+
+## Literaturhinweis
+
+Trakhtenbrot B, Megan Urry C, Civano F, Rosario D J, Elvis M, Schawinski K, Suh H, Bongiorno A, Simmons B D: An Over-Massive Black Hole in a Typical Star-Forming Galaxy, 2 Billion Years After the Big Bang, Science, Vol. 349, pages 168-171 (2015).
+
+## Verwandte Artikel
+
+Wie die hellsten Leuchten im All «flimmern» (ETH-News, 24.06.2015)
+
+## Weitere Informationen
+
+externe Seite Was ist ein Schwarzes Loch? Video mit ETH-Professor Kevin Schawinski
+

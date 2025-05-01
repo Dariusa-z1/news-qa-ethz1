@@ -1,0 +1,36 @@
+# foresight-more-than-magic
+
+**Source:** en_internal/2021/03/foresight-more-than-magic.html
+
+## What foresight means for ETH
+
+What exactly do we mean when we walk about 'foresight’? The term is not that easy to define. “Foresight is preparing today for the contexts of tomorrow,” says US native Chris Luebkeman, who has been working in this field for around two decades. In January 2020 he joined ETH Zurich, where he now leads the Strategic Foresight Hub in the Office of the President. “It’s important to focus on the plural form in this sentence,” explains Luebkeman. “It's not about imagining just one context, but as many as possible. What directions could we be headed in? Which directions would be ideal? Or realistic?”
+
+Strategic foresight deals with possible scenarios for the future. Various tools and methodologies are used to explore the uncertainty that tomorrow will bring and to obtain a better understanding of “what could be”: on a personal level, for institutions or for society as a whole.
+
+For ETH, questions emerge about what the next generation of teaching will look like, who will be a student in the future and how their studies will be structured, and how the university can prepare for these developments. “Our most important mission at the Strategic Foresight Hub is ensuring that ETH is still one of the world's best technical universities 40 years from now and that the university remains relevant in Switzerland, both socially and economically,” says Luebkeman. “University education and basic research are in flux around the world. Strategic foresight allows us to think about what these changes mean for ETH and its future in the broadest possible terms. And it also allows us to become the best version of ourselves.”
+
+The Foresight Team doesn’t conduct their work by looking into crystal balls or reading tea leaves, however. According to Luebkeman, it's more than magic: the team applies tried and tested tools and methods, primarily from the social sciences. Their toolkit includes surveys, workshops, secondary literature, and scenario modeling with highly diverse groups of stakeholders.
+
+“With foresight methodology and workshops, it’s important to be aware of cognitive biases and certain behavioural patterns,” explains Katarina Hruba, Senior Manager at the Foresight Hub. One example is groupthink, a phenomenon in which people adjust their views to be in line with the expected opinion of the group. This leads to a reduction in the scope of discussions as well as suboptimal decision-making. “With strategic foresight, it's about offering people different perspectives than the ones they’re already familiar with. One way of doing this is in our workshops, by posing provocative ‘what would happen if...’ questions that people normally wouldn't be confronted with. Expanding people’s thinking is what foresight is about,” says Hruba.
+
+When starting a new project, Luebkeman’s initial focus isn't on methodology, but on asking a more fundamental question: why? Why are we doing what we're doing? What are our objectives? Which questions do we need to answer in order to achieve our goals? According to Luebkeman, it is extremely important to obtain clear answers to these questions at the beginning of each Foresight Hub project, as each methodological toolkit will look different depending on the answers.
+
+## Support for the ETH community
+
+The primary goal of the Strategic Foresight Hub is to help the ETH community advance its understanding of what the future could look like. The hub provides a space for exploring ideas and offers a wide variety of foresight methodologies alongside project management support. Several initiatives are already underway with support from the hub's foresight experts. Examples include working with the Rectorate to imagine what teaching and learning might look like in the year 2040 and a project with the AI Center, the focus of which is not only on new technologies but rather on the impact that artificial intelligence could have on our lives in the future.
+
+“We have a lot of very good problem solvers here at ETH,” says Luebkeman. “However, when researchers try to solve a problem, they usually don't ask themselves what the consequences of solving that problem are. Our hub also tries to describe how our world might look after these solutions have made their impact felt throughout the entire ecosystem in the future.”
+
+Would you like to find out how strategic foresight applies to your work? Are you working on a project where you could use the support of the Foresight Team? Or are you generally interested in engaging with long-​​term trends and plausible futures? If you answered yes to any of these questions, the doors to the Strategic Foresight Hub are open. “We're very interested in growing our internal network even further, introducing more people to Foresight and assisting the ETH community with all kinds of questions they might have about the future,” says Luebkeman.
+
+You can learn more about the hub's work and exchange ideas in the Friends of Foresight community, a multi-disciplinary group for exploring fresh perspectives on the long-​term trends and drivers of change within our society. The community is currently under development, but you can already join by sending an email to .
+
+“We very much welcome anyone who would like to become a ‘Friend of Foresight’ or who would like to integrate strategic foresight approaches in their current projects in one way or another,” says Luebkeman. “They can all help strengthen ETH’s foresight muscle, since reflecting on the future is a muscle that has to be trained consistently.”
+
+## Essay contest: submit your vision of the future!
+
+Can you imagine what your life will look like in the year 2040? Describe your vision in a short text (no more than 3,000 characters) and submit it to the 2040 essay contest. The Foresight Team will award gift certificates (e.g. from SBB, Transa, Blindekuh restaurant) to the winners.
+
+Take part in the 2040 essay contest
+

@@ -1,0 +1,20 @@
+# ausstellung-zuerichs-spielplaetze
+
+**Source:** de_internal/2014/10/ausstellung-zuerichs-spielplaetze.html
+
+## Main article
+
+Bis zum Zweiten Weltkrieg bestanden Spielplätze meist aus isolierten Spielgeräten wie Schaukeln, Rutschen und Wippen. Ab den 1930er Jahren wurden jedoch neue Ideen gesucht, um kindergerechtes Spiel und Kreativität aktiv zu fördern.
+
+In der Spielplatzbewegung der 1950er Jahren förderte Zürich unkonventionelle Lösungen und übernahm damit eine Vorreiterrolle. Es entstand eine Bewegung, die von Privatpersonen und Organisationen getragen wurde. Herausragende Beispiele dieser Zeit sind die Erfolgsgeschichte der Robinson-Spielplätze und der Aufbruch der Zürcher Gartenarchitektur.
+
+Die Ausstellung «Architektur für Kinder: Zürichs Spielplätze» zeichnet die Geschichte der Zürcher Spielplätze seit 1950 nach. In Filmen, Diashows, Plänen und Fotografien aus privaten und öffentlichen Archiven wird die Bewegung lebendig erfahrbar. Zudem zeigen Kinder in einem Experiment, wie und wo sie heute am liebsten spielen.
+
+Die Ausstellung im HIL-Gebäude auf dem Campus Hönggerberg ist vom 6. November bis 10. Dezember geöffnet.
+
+Aufruf an alle Kinder: Wo spielt ihr draussen am liebsten? Schickt eure Fotos und Zeichnungen bis am 26. Oktober an die untenstehende Adresse. Wir drucken sie als Poster aus und zeigen sie in unserer Ausstellung zu Zürcher Spielplätzen – die Poster könnt ihr als Dankeschön am Schluss nach Hause nehmen.
+
+Mail: Post: ETH Zürich, gta Ausstellungen, HIL C 75, Stefano-Franscini-Platz 5, 8093 Zürich
+
+Weitere Informationen auf der gta-Website .
+

@@ -1,0 +1,41 @@
+# genetically-modifying-individual-cells-in-animals
+
+**Source:** en_news_events/2023/09/genetically-modifying-individual-cells-in-animals.html
+
+## In brief
+
+• Researchers combined the modification of many genes in living adult animals using the CRISPR-Cas gen scissors with the subsequent analysis of single cells.
+• This lets them switch off different genes in the individual cells of an organ, thus creating a mosaic of genetically different cells, and study the effects.
+• The method simplifies and accelerates animal research and is particularly suitable for studying diseases with complex genetic causes.
+## First time in adult animals
+
+One proven method for tracking down the genetic causes of diseases is to knock out a single gene in animals and study the consequences this has for the organism. The problem is that for many diseases, the pathology is determined by multiple genes. This makes it extremely difficult for scientists to determine the extent to which any one of the genes is involved in the disease. To do this, they would have to perform many animal experiments – one for each desired gene modification.
+
+Researchers led by Randall Platt, Professor of Biological Engineering at the Department of Biosystems Science and Engineering at ETH Zurich in Basel, have now developed a method that will greatly simplify and speed up research with laboratory animals: using the CRISPR-Cas gene scissors, they simultaneously make several dozen gene changes in the cells of a single animal, much like a mosaic. While no more than one gene is altered in each cell, the various cells within an organ are altered in different ways. Individual cells can then be precisely analysed. This enables researchers to study the ramifications of many different gene changes in a single experiment.
+
+For the first time, the ETH Zurich researchers have now successfully applied this approach in living animals – specifically, in adult mice – as they report in the current issue of Nature. Other scientists had previously developed a similar approach for cells in culture or animal embryos.
+
+To “inform” the mice’s cells as to which genes the CRISPR-Cas gene scissors should destroy, the researchers used the adeno-associated virus (AAV), a delivery strategy that can target any organ. They prepared the viruses so that each virus particle carried the information to destroy a particular gene, then infected the mice with a mixture of viruses carrying different instructions for gene destruction. In this way, they were able to switch off different genes in the cells of one organ. For this study, they chose the brain.
+
+Using this method, the researchers from ETH Zurich, together with colleagues from the University of Geneva, obtained new clues to a rare genetic disorder in humans, known as 22q11.2 deletion syndrome. Patients affected by the disease show many different symptoms, typically diagnosed with other conditions such as schizophrenia and autism spectrum disorder. Before now, it was known that a chromosomal region containing 106 genes is responsible for this disease. It was also known that the disease was associated with multiple genes, however, it was not known which of the genes played which part in the disease.
+
+For their study in mice, the researchers focused on 29 genes of this chromosomal region that are also active in the mouse brain. In each individual mouse brain cell, they modified one of these 29 genes and then analysed the RNA profiles of those brain cells. The scientists were able to show that three of these genes are largely responsible for the dysfunction of brain cells. In addition, they found patterns in the mouse cells that are reminiscent of schizophrenia and autism spectrum disorders. Among the three genes, one was already known, but the other two had not previously been the focus of much scientific attention.
+
+“If we know which genes in a disease have abnormal activity, we can try to develop drugs that compensate for that abnormality,” says António Santinha, a doctoral student in Platt’s group and lead author of the study.
+
+The method would also be suitable for use in studying other genetic disorders. “In many congenital diseases, multiple genes play a role, not just one,” Santinha says. “This is also the case with mental illnesses such as schizophrenia. Our technique now lets us study such diseases and their genetic causes directly in fully grown animals.” The number of modified genes could be increased from the current 29 to several hundred genes per experiment.
+
+“It’s a big advantage that we can now do these analyses in living organisms, because cells behave differently in culture to how they do as part of a living body,” Santinha says. Another advantage is that the scientists can simply inject the AAVs into the animals’ bloodstreams. There are various different AAVs with different functional properties. In this study, researchers used a virus that enters the animals’ brains. “Depending on what you’re trying to investigate, though, you could also use AAVs that target other organs,” Santinha says.
+
+ETH Zurich has applied for a patent on the technology. The researchers now want to use it as part of a spin-off they are establishing.
+
+## Perturbing the genome
+
+The technique presented here is one of a series of new genetic editing methods used to alter the genome of cells in a mosaic-like manner. CRISPR perturbation is the technical term for this research approach that involves the perturbation of the genome using CRISPR-Cas gene scissors. This approach is currently revolutionising research in the life sciences. It makes it possible to obtain a great deal of information from a single scientific experiment. As a result, the approach has the potential to accelerate biomedical research, such as in the search for the molecular causes of genetically complex diseases.
+
+A week ago, another research group from the Department of Biosystems Science and Engineering at ETH Zurich in Basel, working with a team from Vienna, published a study in which they applied CRISPR perturbation in organoids (see ETH News ). Organoids are microtissue spheroids that are grown from stem cells and have a similar structure to real organs – in other words, they are a sort of miniature organ. They are an animal-free research method that complements research on animals. Because both methods – CRISPR perturbation in animals and in organoids – can provide more information with fewer experiments, both have the potential to ultimately reduce the number of animal experiments.
+
+## Reference
+
+Santinha AJ, Klingler E, Kuhn M, Farouni R, Lagler S, Kalamakis G, Lischetti U, Jabaudon D, Platt RJ: Transcriptional linkage analysis with in vivo AAV-Perturb-seq, Nature, 20 September 2023, doi: 10.1038/s41586-023-06570-y
+

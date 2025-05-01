@@ -1,0 +1,24 @@
+# resistente-bakterien-mit-nanopartikeln-aufloesen
+
+**Source:** de_news_events/2021/04/resistente-bakterien-mit-nanopartikeln-aufloesen.html
+
+## Bioglas und Metall
+
+Beim Wettrüsten «Menschheit gegen Bakterien» haben die Bakterien momentan die Nase vorn. Unsere einstigen Wunderwaffen, die Antibiotika, versagen immer häufiger bei Keimen, die trickreiche Manöver einsetzen, um sich vor der Wirkung der Medikamente zu schützen. Einige Arten ziehen sich sogar ins Innere menschlicher Körperzellen zurück, wo sie dann vom Immunsystem unbehelligt bleiben. Zu diesen besonders gefürchteten Erregern gehören auch multiresistente Staphylokokken (MRSA), die lebensgefährliche Krankheiten wie Blutvergiftungen oder Lungenentzündungen hervorrufen können.
+
+Um die Keime in ihrem Versteck aufzuspüren und unschädlich zu machen, hat ein Team von Forschenden der ETH Zürich und der Empa nun Nanopartikel entwickelt, die einen völlig anderen Wirkmechanismus als herkömmliche Antibiotika nutzen: Während Antibiotika schlecht in Körperzellen eindringen können, gelingt es diesen Nanopartikeln, sich ins Innere der befallenen Zelle einschleusen zu lassen. Einmal dort angekommen, bekämpfen sie die Bakterien.
+
+Das Team unter der Leitung von Inge Herrmann, Professorin für Nanopartikuläre Systeme an der ETH Zürich und Forscherin an der Empa in St. Gallen, hat hierzu das Material Ceroxid eingesetzt, das in seiner Nanopartikel-Form antibakteriell und entzündungshemmend wirkt. Die Forschenden kombinierten das Ceroxid mit einem bioaktiven Keramikwerkstoff, sogenanntem Bioglas, und stellen Nanopartikel-Hybride aus den beiden Materialien her.
+
+In der Petrischale und mittels Elektronenmikroskopie untersuchten sie die Wechselwirkungen zwischen den Hybrid-Nanopoartikeln, Körperzellen und Bakterien. Behandelten die Wissenschaftler mit Bakterien infizierte Zellen mit den Nanopartikeln, begannen sich die Bakterien im Inneren der Zellen aufzulösen. Blockierten die Forschenden hingegen die Aufnahme der Hybrid-Partikel in die Zellen, stoppte auch der antibakterielle Effekt.
+
+Der genaue Wirkmechanismus der Cerium-haltigen Partikel ist derzeit noch nicht vollständig geklärt. Erwiesen ist, dass auch andere Metalle antimikrobielle Effekte aufweisen. Cerium ist allerdings weniger giftig für Körperzellen als beispielsweise Silber. Die Forschenden nehmen derzeit an, dass die Nanopartikel auf die Zellmembran der Bakterien einwirken, wobei reaktive Sauerstoffverbindungen entstehen, die zur Zerstörung der Keime führen. Da die Zellmembran von menschlichen Zellen anders aufgebaut ist als die von Bakterien, bleiben Körperzellen von diesem Vorgang verschont.
+
+Gegen einen derartigen Mechanismus, so meinen die Forschenden, würden sich vermutlich weniger Resistenzen entwickeln können. Als nächstes wollen die Wissenschaftlerinnen und Wissenschaftler die Wechselwirkung der Partikel im Infektionsgeschehen genauer analysieren, um die Struktur und Zusammensetzung der Nanowirkstoffe weiter zu optimieren. Ihr Ziel ist, ein einfaches und robustes antibakterielles Mittel zu entwickeln, das im Inneren infizierter Zellen wirksam ist.
+
+Dies ist eine leicht veränderte Fassung eines externe Seite News-Artikels der Empa , der weiterführende Informationen enthält.
+
+## Literaturhinweis
+
+Matter MT, Doppegieter M, Gogos A, Keevend K, Ren Q, Herrmann IK: Inorganic nanohybrids combat antibiotic-resistant bacteria within human macrophages. Nanoscale 2021, doi: externe Seite 10.1039/d0nr08285f
+

@@ -1,0 +1,26 @@
+# lessons-of-remote-teaching-in-mathematics
+
+**Source:** en_internal/2020/06/lessons-of-remote-teaching-in-mathematics.html
+
+## Main article
+
+Due to the spread of the coronavirus, ETH Zurich suspended all classroom teaching in March and expanded its offering of online study alternatives. In four interviews, which the Department of Mathematics has published on its website today, Max Reinhardt, Valentin Bosshard, Andreas Steiger and Afonso Bandeira tell how they experienced the switch to remote teaching and what conclusions they have drawn from it.
+
+Max Reinhardt. (Photo: D-MATH)
+
+Max Reinhardt is a mathematics Bachelor’s student in his sixth semester and is the Vice President of the VMP, the Association of Mathematics, Physics and CSE Students at ETH Zurich. In this interview , he talks about what his experience of switching to remote teaching has been. “There were various combinations of recordings and online teaching – so this meant Zoom lectures almost as normal, where we could ask questions live, or videos recorded in advance, with the lecturers available in a chat room to answer questions during the normal lecture time. I thought this was an awesome way of doing things, and overall it worked really well. I heard hardly any negative feedback about the switch to the new format," he says.
+
+Valentin Bosshard. (Bild: D-MATH)
+
+Valentin Bosshard organises exercises for Analysis, one of the two major first-year series of lectures for Bachelor’s students. Working with lecturer Peter Jossen and around 20 student teaching assistants, he helps to run lectures and exercises. In an interview , he talks about and what challenges the department had to overcome. “It was a bit chaotic at first, because we didn’t know what was and wasn’t expected of us," he says looking back on the first week in March. Today, he says: "Aside from the correction work, the switch to the new format went extremely well. With the help of our student teaching assistants and some amazing, creative video solutions, we really pulled off the exercises successfully.”
+
+Andreas Steiger. (Bild: (D-MATH)
+
+As a Mathematics lecturer, Andreas Steiger works together with colleagues on evaluating new teaching practices. In this interview , he talks about his experience: “It was an overwhelmingly positive experience from my point of view – everything worked really well. ETH was extremely well prepared for the switch and it quickly adapted the technology we needed to our new situations – like Zoom, the video conferencing tool, or the recording equipment in the auditoriums.” Will teaching change in the long term? “I think we’ll probably develop a more relaxed attitude to distance learning,” he says. “Another interesting outcome of the situation has been that lecturers have had to re-evaluate their teaching methods.”
+
+Afonso Bandeira. (Bild: D-MATH)
+
+Afonso Bandeira is a Professor of Mathematics in the field of data science. He has been at the Department since September 2019. When asked about remote teaching, he says in the interview : “In normal class I try to involve the students as much as possible by asking them questions to help lead into the next step. Sometimes even their expressions alone function as answers. Now, in the video meeting it became very hard to read the audience. If I end up doing distance learning again, now that both me and the students are more used to it, I will try to have a system in which students are more encouraged to participate.”
+
+The four complete interviews were first published in the news channel of the Department of Mathematics.
+

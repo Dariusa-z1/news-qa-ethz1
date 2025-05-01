@@ -1,0 +1,36 @@
+# die-grosse-grube-fuer-die-forschung-am-kleinsten
+
+**Source:** de_internal/2022/10/die-grosse-grube-fuer-die-forschung-am-kleinsten.html
+
+## Main article
+
+In wenigen Tagen geht es los: Zwischen den Gebäuden HIL und HIT beginnen die Bagger mit dem Voraushub für eines der aktuell grössten und komplexesten Bauprojekte der ETH Zürich, das neue Physikgebäude mit dem Kürzel HPQ. Darin werden einst hochsensible Physikexperimente stattfinden, die möglichst keinen Umwelteinflüssen ausgesetzt sein dürfen. Die Labore für die empfindlichsten Experimente kommen deshalb sechs Stockwerke tief unter der Erde zu liegen.
+
+Entsprechend viel Platz benötigt die Baustelle: Das abgesperrte Gelände erstreckt sich vom Gebäude HIF bis zur Mitte der Wolfgang-Pauli-Strasse und umfasst das Gebäude HIT auf zwei Seiten, vier Krane kommen bis 2024 darauf zu stehen.
+
+Für den unterirdischen Teil des Gebäudes muss eine rund dreissig Meter tiefe Grube angelegt werden. Wenn die Bauarbeiten wie geplant in der ersten Hälfte 2024 am tiefsten Punkt angelangt sind, wird die Grube tiefer sein als das benachbarte Gebäude HIT hoch ist. Unterhalb der Grube werden zudem 195 neue Erdsonden für die Erweiterung des Anergienetzes gebohrt.
+
+Zu den ersten Arbeiten gehört eine Wand in der Erde, die das Grundwasser von der künftigen Grube fernhält. Mit an imposanten Seilkranen montierten Fräsen wird ein 1,5 Meter breiter und bis zu 36 Meter tiefer Graben ausgehoben und betoniert. Diese Arbeiten werden zu hören sein, jedoch ist die Bauweise deutlich vibrationsärmer, als wenn Spundwände in den Boden gerammt würden, wie dies von anderen Baustellen bekannt ist.
+
+## Lärmkalender auf der Projektwebsite
+
+Die Abteilung Immobilien informiert auf der Projektwebsite HPQ periodisch über die Bauarbeiten, auch mit zwei Webcams. Ein Lärmkalender weist ab November auf besonders lärmintensive Arbeiten hin. Betroffene der ETH Zürich wenden sich bei Fragen an die Ansprechpartner:innen ihrer Organisation (PDF, 95 KB) .
+
+## Schutz für Arbeit an kleinsten Bausteinen
+
+Die Grösse der Baustelle und die immense Menge an Baumaterial, die verschoben und verbaut wird, steht im Gegensatz zu den Objekten, die künftig in dem Gebäude untersucht, hergestellt und entwickelt werden: Sie reichen von neuen, immer kleineren Computerchips, die dafür sorgen, dass immer kleinere elektronische Geräte gebaut werden können, über neue Materialien mit speziellen Eigenschaften oder Bauteile für künftige Quantencomputer, die mit einzelnen Photonen gesteuert werden.
+
+Solche Experimente erfordern eine höchst kontrollierte Umgebung. Kleinste Erschütterungen, aber auch klimatische Veränderungen oder Magnetfelder verunmöglichen die Arbeit auf solche extrem kleinen Skalen. Bildlich ausgedrückt «blicken» oder «arbeiten» die Forschenden mit grossen Maschinen auf sehr kleine Objekte und jeder noch so kleine Umwelteinfluss «verwackelt» dabei das Bild.
+
+Die Temperaturabweichungen dürfen in den hochisolierten Laboren nicht grösser als 0,01 Grad Celsius sein, es muss eine konstante Luftfeuchtigkeit herrschen und Vibrationen dürfen nicht grösser als 0,1 Mikrometer pro Sekunde sein. Zum Vergleich: Ein auf der Wolfgang-Pauli-Strasse vorbeifahrender Bus generiert Vibrationen von 10 bis 25 Mikrometer pro Sekunde.
+
+Für die Konstruktion des Gebäudes heisst das: Die Labore müssen vor Erschütterungen, vor Magnetfeldern und vor Temperaturschwankungen geschützt werden. Im am tiefsten gelegenen Labor-Bau des Gebäudes, dem Center for Low Noise Experiments (CLNE), ruhen die Forschungsanlagen deshalb auf bis zu 120 Tonnen schweren Betonsockeln und sind mechanisch vom Rest des Gebäudes mittels aktiver Luftfedern entkoppelt. Zudem werden die Räume aktiv (mit Gegen-Magnetfeldern) und passiv vor Magnetfeldern abgeschirmt und mit komplexer Gebäudetechnik klimatisch stabil gehalten.
+
+Die Gebäudestruktur wurde nicht nur wie üblich hinsichtlich der Statik, sondern auch der Dynamik optimiert: Ein sehr steifer Gebäudekern mit starken Betondecken leitet alle Kräfte von der obersten Etage direkt in eine massive Bodenplatte in der untersten Etage und weiter in den Felsen. Die Büroflächen sind etwas leichter gebaut, aber immer noch so versteift, dass sie Erschütterungen von vorbeifahrenden Bussen und Lastwagen nicht an den Kern weitergeben.
+
+Der Aushub und das benötigte Baumaterial generieren Lastwagenverkehr. Damit dieser den restlichen Verkehr auf dem Campus nicht behindert, fahren die Lastwagen via Schleife auf der Westseite des Campus an und warten in einer speziell errichteten Zone, bis sie beladen werden können. Auf der Wolfgang-Pauli-Strasse ist kein Werkverkehr erlaubt.
+
+## Raum für grösseren Garten
+
+Einmal fertig gebaut, wird von den speziellen Eigenschaften des Gebäudes für Passanten nur noch wenig zu sehen sein. Ebenerdig ist ein Café geplant und hinter dem Gebäude – oberhalb des unterirdischen Laborbereiches – entsteht der neue Teil des vergrösserten Flora-​Ruchat-Roncati-Gartens mit einem neuen Teich, der auch als Rückhaltebecken bei Starkniederschlägen dient. Café und Garten sind offen für alle Besucher:innen. Finanzierung: Dieser zukunftsweisende Bau wird auch dank einer grosszügigen Donation von ETH-​Alumnus und -​Ehrenrat Martin Haefner ermöglicht.
+

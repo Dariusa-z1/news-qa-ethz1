@@ -1,0 +1,34 @@
+# eth-zuerich-offiziell-akkreditiert
+
+**Source:** de_news_events/2021/11/eth-zuerich-offiziell-akkreditiert.html
+
+## Main article
+
+Joël Mesot sagt: «Der Bericht der Gutachtergruppe bietet eine sehr scharfe Analyse. Sie zeigt, dass die Qualitätssicherung an der ETH ein gelebtes Gut ist, das wir erhalten, festigen und verfeinern wollen». Ausgehend von ihrem Bericht haben die Gutachter auch Empfehlungen an die ETH formuliert. Sie betreffen zusammengefasst die folgenden Anliegen:
+
+• Im Strategie- und Entwicklungsplan der ETH soll klarer definiert werden, welche Stellen für die verschiedenen Prozesse der    Qualitätssicherung zuständig sind. Sie stellt fest, dass informelle Praktiken ein grosses Gewicht haben und schlägt vor, manche davon zu institutionalisieren.
+• Zudem sollen die Prozesse intern wie extern besser kommuniziert werden.Die Mitwirkungsprozesse könnten gemäss den Gutachtern in den einzelnen Departementen einheitlicher geregelt sein. Zudem empfehlen die Gutachter zu prüfen, wie die Gremien zusammengesetzt sein müssen, damit die Mitsprache von Studierenden und Mittelbau langfristig gesichert sind.
+• Die Gutachtergruppe bekräftigt die ETH darin, neben der Aufteilung der Basisprüfung auf zwei Blöcke weitere Massnahmen zu    schaffen, damit weniger Studierende im ersten Jahr ihr Studium abbrechen, ohne die Prüfung abzulegen.
+• Weiter soll die ETH Doktorierende mit Kursen zu persönlichen Kompetenzen unterstützen. Zudem sollen sie für ihren Einsatz in der Lehre eine eigene Evaluation erhalten.
+Seit das Schweizer Hochschulförderungs- und -koordinationsgesetz 2015 in Kraft trat, müssen sich alle öffentlichen oder privaten Hochschulen, die sich als «Universität», «Fachhochschule» oder «Pädagogische Hochschule» bezeichnen möchten, alle sieben Jahre akkreditieren lassen.
+
+Die ETH Zürich hat diese Akkreditierung im Oktober als eine der ersten Universitäten erhalten.
+
+Vergeben wird sie durch den Schweizerischen Akkreditierungsrat, der sich aus 20 unabhängigen Mitgliedern zusammensetzt, darunter Vertreterinnen und Vertreter aus der Arbeitswelt, von verschiedenen Hochschulen, von den Studierenden, vom Mittelbau und von den Dozierenden. Die Akkreditierung bescheinigt der ETH, dass sie hinsichtlich Qualitätsstrategie, Governance, Lehre, Forschung und Dienst­leis­tungen, Ressourcen sowie interne und externe Kommunikation die vorgegebenen Standards erfüllt.
+
+Gutachten und Selbstbeurteilung
+
+Zur Durchführung des Verfahrens hat sich die ETH Zürich für die Agentur für Akkreditierung und Qualitätssicherung (AAQ) entschieden. Grundlage des Verfahrens ist ein Selbstbeurteilungsbericht. Mehr als 60 Personen aus der ganzen ETH arbeiteten an dem 275-seitigen Dokument mit. Daran beteiligt haben sich alle Hochschulgruppen, Departemente und Stäbe der Schulleitung. In Workshops haben sie ihre Einschätzung zu den insgesamt 18 vorgegebenen Qualitätsstandards abgegeben, welche die Akkreditierung vorsieht.
+
+Parallel dazu wurden die «Leitlinien des internen Qualitätssicherungssystems» erarbeitet und 2020 publiziert. Sie beschreiben das Qualitätssicherungssystem der ETH Zürich und enthalten die qualitativen Ziele des Strategie- und Entwicklungsplans für die Lehre, Forschung und Wissens- und Technologietransfer sowie Ressourcen. Zudem nennen die Leitlinien die wichtigsten Prozesse und die Organisation, die sicherstellen, dass diese Ziele erreicht werden. Joël Mesot, Präsident der ETH Zürich, sagt: «Die beteiligten Leute haben unglaublich wichtige Arbeit geleistet. Die Akkreditierung ist auch ein Lernprozess für unsere Organisation. Ich danke allen – und insbesondere Rektorin Sarah Springman und Generalsekretärin Katharina Poiger – für ihr riesiges Engagement.»
+
+Wichtige Vernehmlassungen
+
+Die ETH konnte auf diese Weise darlegen, dass die Qualitätssicherung in ihrer Kultur und Organisation breit abgestützt ist. Das reicht vom Strategieprozess der Schulleitung über Berufungsverfahren für Professorinnen und Professoren, Evaluationen von Departementen und Studiengängen, den Unterrichtsevaluationen, bis zur fest verankerten Mitwirkungskultur durch die die Hochschulgruppen, also die Hochschulversammlung, die der Konferenz des Lehrkörpers, die Akademischen Vereinigung des Mittelbaus an der ETH Zürich (AVETH), den Verband der Studierenden an der ETH Zürich (VSETH) und die Personalkommission. Viele Prozesse folgen der Subsidiarität und sind dezentral organisiert.
+
+Die Empfehlungen stossen an der ETH auf offene Ohren: «Im Zusammenhang mit dem Organisationsentwicklungsprojekt rETHink haben wir unsere Prozesse grundlegend analysiert, und zurzeit arbeiten ETH-Angehörige aus allen Bereichen an Lösungsvorschlägen, die genau in diese Richtung zielen», sagt Joël Mesot. Mit Blick auf die Lehre ist die ETH auch auf Kurs, wie Rektorin Sarah Springman darlegt: «Eine Stärkung der überfachlichen Kompetenzen, nicht nur bei Doktorierenden, sondern über alle Stufen hinweg, ist das Ziel von ETH Talent, einem grossangelegten Projekt, das zurzeit gerade Fahrt aufnimmt.» Immer mehr Departemente führen zudem die Aufteilung der Basisprüfung ein. Und die Vermeidung von Studienabbrüchen ohne Prüfungsversuch sei bereits seit einiger Zeit auf der Agenda des Rektorats.
+
+Die «Leitlinien des interne Qualitätssicherungssystems» wurden aktualisiert und mit der Liste der verantwortlichen Funktionsträger und -Funktionsträgerinnen ergänzt.
+
+Die Akkreditierung gilt für eine Periode von sieben Jahren und muss im Jahr 2028 erneuert werden.
+

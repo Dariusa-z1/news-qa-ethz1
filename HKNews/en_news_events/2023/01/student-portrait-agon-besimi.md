@@ -1,0 +1,16 @@
+# student-portrait-agon-besimi
+
+**Source:** en_news_events/2023/01/student-portrait-agon-besimi.html
+
+## Main article
+
+Studying at ETH Zurich is challenging, and all students have their own personal hurdles to overcome. This short video series gives a somewhat different insight into everyday life as a student. It provides an account of students, their setbacks and how they dealt with them.
+
+## Advice for students
+
+ETH Zurich offers advice centres for (virtually) any situation that may arise during your studies.
+
+## Further information
+
+Thanks to the ESOP scholarship , Agon Besimi was able to come to ETH Zurich.
+

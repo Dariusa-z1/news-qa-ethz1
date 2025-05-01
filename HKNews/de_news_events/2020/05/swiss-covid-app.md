@@ -1,0 +1,22 @@
+# swiss-covid-app
+
+**Source:** de_news_events/2020/05/swiss-covid-app.html
+
+## Viele folgen der Schweizer Idee
+
+Die Menschen in der Schweiz kehren nach der Corona-Krise allmählich wieder zu ihrem Alltag und ihrer Arbeit zurück. Mit den Lockerungen des Lockdowns steigt aber auch die Angst vor einer zweiten Infektionswelle. Gesundheits- und Sicherheitsvorschriften bleiben die beste Strategie, um sich gegen eine COVID-19-Infektion zu schützen. Zusätzlich plant der Bund, der Schweizer Bevölkerung möglichst bald eine Tracing App zur Verfügung zu stellen, die dazu beitragen kann, die Verbreitung des Virus einzudämmen. Die App wird im Rahmen des Projekts DP-3T von der ETH Zürich und Lausanne gemeinsam mit internationalen Forschenden entwickelt.
+
+Tatsache ist, dass viele Projekte und Länder den gleichen Weg bei der Entwicklung der Tracing App eingeschlagen haben. Einige verwenden Teile des DP-3T-Codes, andere implementieren ihn komplett und passen ihn an die jeweiligen Länder an. Das zugrunde liegende Konzept ist dasselbe. «Dies ist ein Experiment für uns alle. So etwas ist bisher noch nie gemacht worden», führt Čapkun aus.
+
+Einige Personen könnten sich Sorgen um den Datenschutz machen, wenn mit Google und Apple zwei Techgiganten mit an Bord sind. Čapkun, der selber grössten Wert auf Datenschutz legt, beruhigt: «Im Falle der SwissCovid App werden Informationen lokal verarbeitet, alle Daten werden nach 21 Tagen automatisch gelöscht und persönliche Daten nirgends zentral gespeichert. Die Datensicherheit ist immer garantiert.» Design und Implementierung der SwissCovid App sind zudem Open Source.
+
+Čapkun gibt zu bedenken: «Wir alle versuchen, eine Tracing App auf Software und Hardware aufzubauen, die nicht für diesen Zweck konzipiert wurde. Bluetooth wurde nicht für diese Art der gross angelegten Entfernungsmessung entwickelt. Um sicherzustellen, dass wir es auf diese Weise nutzen können, ist viel Technik und die Zusammenarbeit nötig – Apple und Google können da helfen.» Die Schweiz ist denn auch das erste Land der Welt, dass die Schnittstellen von Google und Apple in der App verwendet. «Es bedeutet auch, dass wir die Ersten sind, die mit den Kinderkrankheiten des Programms fertig werden müssen. Wir brauchen deshalb das Feedback der Nutzenden, bevor wir im Juni mit der nationalen Einführung starten», so Čapkun.
+
+Die App nutzt Bluetooth-Beaconing-Technologie: Per Bluetooth sucht die App nach anderen Smartphones in der Nähe, auf denen die App ebenfalls installiert ist. Finden sich zwei solche Geräte, tauschen diese zufällige Beacons – eine Art privater Schlüssel – aus, sofern sie während mehr als 15 Minuten weniger als zwei Meter voneinander entfernt waren. Diese Parameter wurden von den Epidemiologen so festgelegt und könnten innerhalb der App auch noch angepasst werden, falls neue Informationen über das Virus das nötig machen würden.
+
+In der Pilotphase geht es vor allem darum, die Funktionsfähigkeit aller Komponenten des Systems zu testen und natürlich auch deren Zusammenspiel. Eine der Herausforderungen besteht darin, sicherzustellen, dass die App die Nähe zwischen Menschen aufgrund der Bluetooth-Signale genau erkennen kann. Es liegt auf der Hand, dass die Wahrscheinlichkeit einer Infektion nicht nur von der Entfernung, sondern auch von vielen anderen Faktoren abhängt. «In Zusammenarbeit mit den Epidemiologen haben wir deshalb einen Bewertungsraster festgelegt, das darauf abzielt, falsche Ergebnisse zu reduzieren», sagt Čapkun.
+
+Und was, wenn Bugs bei der SwissCovid App entdeckt werden? «Das ist Sinn und Zweck einer solchen Pilotphase – alles, was wir heute verbessern und korrigieren können, läuft nachher besser», so Čapkun, und hält fest: «Zwei Mitglieder meiner Gruppe, Marc Roschlin und Patrick Leu, haben viele Stunden an diesen Messungen und deren Analyse gearbeitet. Wir sind alle froh, dass die Pilotphase nun beginnt.»
+
+Die Pilotphase wurde vom Bund durch eine Verordnung geregelt und läuft spätestens Ende Juni aus. Das Entwicklungsteam hofft jedoch, dass der Pilot deutlich schneller gute Ergebnisse liefert und dass das Parlament in der nächsten Session Anfang Juni einen Gesetzesentwurf verabschiedet, der eine schnelle Implementierung für die ganze Schweizer Bevölkerung ermöglicht.
+

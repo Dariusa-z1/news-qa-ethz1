@@ -1,0 +1,24 @@
+# faster-entanglement-of-distant-quantum-dots
+
+**Source:** en_news_events/2015/12/faster-entanglement-of-distant-quantum-dots.html
+
+## Distant quantum dots
+
+In many future information and telecommunication technologies, a remarkable quantum effect called entanglement will likely play an important role. The entanglement of two quantum objects means that measurements on one of the objects instantaneously determine the properties of the other one – without any exchange of information between them.
+
+Disapprovingly, Albert Einstein called this strange non-locality “spooky action at a distance”. In the meantime, physicists have warmed to it and are now trying to put it to good use, for instance in order to make data transmission immune to eavesdropping. To that end, the creation of entanglement between spatially distant quantum particles is indispensable. That, however, is not easy and typically works rather slowly. A group of physicists led by Atac Imamoglu, a professor at the Institute for Quantum Electronics at the ETH in Zurich, have now demonstrated a method that allows the creation of a thousand times more entangled states per second than was possible before.
+
+In their experiments, the young researchers Aymeric Delteil, Zhe Sun und Wei-bo Gao used two so-called quantum dots that were placed five metres apart in the laboratory. Quantum dots are tiny structures, measuring only a few nanometres, inside a semiconductor material and in which electrons are trapped in a sort of cage. The quantum mechanical energy states of those electrons can be represented by spins, i.e., little arrows pointing up or down. When the spin states are entangled, it is possible to deduce from a measurement performed on one of the quantum dots which state the other one will be found in. If the spin of the first quantum dot points up, the other one points down, and vice versa. Before the measurement, however, the directions of the two spins are both unknown: they are in a quantum mechanical superposition of both spin combinations.
+
+In order to entangle the two quantum dots with each other the researchers at ETH used the principle of heralding. “Unfortunately, at the moment it is practically impossible to entangle quantum objects that are far apart with certainty and on demand”, explains Imamoglu. Instead, it is necessary to create the entangled states using a scattershot approach in which the quantum dots are constantly bombarded with light particles, which are then scattered back. Every so often this will result in a fluke: one of the scattered light particles makes a detector click, and the resulting spin states are actually entangled.
+
+Imamoglu and his colleagues make use of this trick. They send laser pulses simultaneously to the two quantum dots and measure the light particles subsequently emitted by them. Before doing so, they carefully eliminated any possibility to find out which quantum dot the light particles originated from. The click in the light detector then “heralds” the actual entanglement of the quantum dots and signals that they can now be used further, e.g., for transmitting quantum information.
+
+The researchers tested their method by continuously shooting around ten million laser pulses per second at the quantum dots. This high repetition rate was possible because the spin states of quantum dots can be controlled within just a few nanoseconds. The measurements showed that in this way 2300 entangled states were produced per second.
+
+“That’s already a good start”, says Imamoglu, adding that the method certainly has room for improvement. Entangling quantum dots that are more than five metres apart, for instance, would require an enhancement of their coherence time. This time indicates how long a quantum state survives before it is destroyed through the influence of its environment (such as electric or magnetic fields). If the heralding light particle takes longer than one coherence time to fly to the detector, then a click no longer heralds entanglement. In future experiments the physicists want, therefore, to replace the quantum dots by so-called quantum dot molecules, whose coherence time are a hundred times longer. Furthermore, improvements of the detection probability of the light particles could lead to an even higher entanglement yield.
+
+## Reference
+
+Delteil A, Sun Z, Gao W, Togan E, Faelt S, Imamoglu A: Generation of heralded entanglement between distant hole spins, Nature Physics, 21 December 2015, doi: 10.1038/nphys3605
+

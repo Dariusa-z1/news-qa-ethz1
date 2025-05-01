@@ -1,0 +1,10 @@
+# im-austausch-mit-talenten
+
+**Source:** de_news_events/2017/04/im-austausch-mit-talenten.html
+
+## Main article
+
+Im Rahmen eines «Tags der offenen Tür» empfingen ehemalige und aktuelle Excellence Scholars die Gäste, um ihre Forschungsprojekte zu präsentieren und sich über Studium, Motivation und Zukunftspläne auszutauschen. Rektorin und ESOP-Schirmherrin Sarah M. Springman dankte in ihrer Rede allen Förderern und Partnern, die jedes Jahr einen entscheidenden Beitrag zur Unterstützung der besten Talente leisten.
+
+Mit dem Excellence Scholarship and Opportunity Programme ermöglicht die ETH Zürich seit 2007 Talenten, ein Masterstudium an der ETH Zürich ohne finanzielle Sorgen und mit spezieller Betreuung durch eine Lehrperson zu absolvieren. Mit dem Stipendium werden nur die besten aller neueintretenden Masterstudierenden gefördert, unabhängig von ihrer Herkunft und ihrer wirtschaftlichen Situation. Die Stipendien werden durch Donationen von Alumni, Freunden und Förderern an die ETH Zürich Foundation finanziert.
+

@@ -1,0 +1,38 @@
+# schleusenwaerter-fuer-leberfette
+
+**Source:** de_news_events/2016/09/schleusenwaerter-fuer-leberfette.html
+
+## Von der Fettleber zur Herzattacke
+
+Das Oktoberfest in München hinterlässt im Körper Spuren: Fettes Essen und reichlich Alkohol sorgen dafür, dass die Leber viel zu tun hat. Dieses Organ speichert nämlich einen Teil der aufgenommenen Fette (und baut den Alkohol zu Fett um), gibt sie aber auch wieder ab, sobald der Exzess vorbei ist.
+
+Dauern die Ausschweifungen aber an und werden nicht durch Bewegung und Sport kompensiert, wird der Mensch übergewichtig und diabetisch, und es entwickelt sich eine Fettleber. Wird rechtzeitig Gegensteuer gegeben, kann sich die Leber von der Verfettung meist vollständig erholen. Im schlechteren Fall entzündet sich das Organ, was kaum mehr behandelbar ist.
+
+Mit einer Fettleber einher gehen auch schlechte Blutfettwerte. Verfettet die Leber, gibt sie - um sich zu entlasten-, Fette ins Blut ab, darunter «gute» in Form von High Density Lipoprotein (HDL), aber auch «schlechte», wie das Low Density Lipoprotein (LDL) und dessen Vorstufe Very Low Density Lipoprotein (VLDL).
+
+Sind die Konzentrationen von LDL und VLDL im Blut hoch, bildet sich eine Gefässverengung durch sogenannte atherosklerotische Plaques. Löst sich ein Plaque ab, besteht die Gefahr eines Gefässverschlusses, was zu einem Herzinfarkt oder Hirnschlag führt.
+
+Wie Übergewicht, Fettleber und Gefässverkalkung zusammenhängen, hat das Team von Markus Stoffel, Professor für Molekulare Gesundheitswissenschaften der ETH Zürich in Zusammenarbeit mit weiteren Wissenschaftlern in der Schweiz, Deutschland und den USA genauer angeschaut. Und dabei Überraschendes entdeckt: Den Wissenschaftlern ist es gelungen, in Leberzellen ein Protein namens Vigilin dingfest zu machen, das eine Art Schleusenwärter ist. Dieser reguliert die Abgabe von Fetten, darunter das VLDL, aus der Leber ins Blut.
+
+Die Forschenden fanden Vigilin in grosser Zahl in den Leberzellen übergewichtiger Mäuse. Und auch beim Menschen wurden sie fündig: «Der Vigilinspiegel in Leberzellen von Menschen mit Fettleber korreliert stark mit dem prozentualen Anteil von Fett in der Leber. Anders gesagt: je mehr Fett die Leberzellen enthalten, desto höher ist die Menge an Vigilin», erklärt Stoffel.
+
+In einer Studie, die soeben in der Fachzeitschrift Nature Communications veröffentlicht wurde, zeigen der ETH-Professor und seine Mitarbeitenden, dass Vigilin vor allem die Proteine reguliert, welche Fette aus der Leber transportieren. Das Molekül bindet aber nicht direkt an diese Transportproteine, sondern an bestimmte Stellen der dazugehörenden Boten-RNA.
+
+Die Boten-RNA ist die Abschrift eines Gens. Sie ist der eigentliche Bauplan für das zugehörige Protein und wird aus dem Zellkern hinaus zu den Ribosomen transportiert. Diese molekularen Maschinchen bauen anhand der Boten-RNA das Protein auf.
+
+Es wird vermutet, dass Vigilin die Boten-RNA, an die es bindet, gezielt den Ribosomen zuführt. Es ist aber nicht nur ein Transportvehikel, es beschleunigt auch die Produktion des entsprechenden Proteins.
+
+Eines dieser von Vigilin «geförderten» Proteine ist Apolipoprotein B (ApoB). Dieses ist für den Export von Triglyceriden aus der Leber besorgt. Triglyceride fördern ebenfalls die Gefässverkalkung, treten sie doch bei Übergewicht gehäuft auf.
+
+Um den ursächlichen Zusammenhang zwischen Vigilin und Gefässverkalkung herzustellen, hemmten die Forschenden die Bildung dieses Proteins in der Leber von Mäusen mit Hilfe eines neuen Verfahren der RNA-Interferenz. Als Folge davon litten die Tiere deutlich weniger stark an Atherosklerose als Tiere, deren Vigilin normal arbeitete. Umgekehrt führte eine verstärkte Vigilin-Bildung zu massiven Ablagerungen in den Gefässen.
+
+«Vigilin greift auf einer Ebene in die Gen-Regulation ein, die bislang kaum untersucht wurde», sagt Stoffel. Wie Gene auf Ebene der DNA reguliert werde, sei mittlerweile immer besser verstanden. Auch wie der Aufbau von Boten-RNA aufgrund der DNA-Vorlage geregelt würden, sei ziemlich gut bekannt. Aber über die Regulation des Schritts von der Boten-RNA zum Protein sei nur sehr wenig bekannt. Umso wertvoller deshalb auch die Erkenntnis, dass Vigilin auf dieser Ebene regulierend eingreife. Für die Forscher spannend: Vigilin ist das erste RNA-bindende Protein, das im Zusammenhang mit Fettleibigkeit und Diabetes gefunden wurde.
+
+Noch nicht bekannt ist hingegen die atomare Struktur von Vigilin. Mehrere Gruppen weltweit arbeiten daran. Stoffel stellt sich das Vigilin Molekül als eine Art «Krake» mit mehreren Armen vor: Das Molekül weist 14 verschiedene Bindestellen für ein Boten-RNA-Molekül auf. Jeder dieser Arme vermag an eine spezifische RNA-Domäne zu binden und den Produktionsvorgang des entsprechenden Proteins zu beschleunigen.
+
+Von dieser Entdeckung erhofft sich der Forscher eine mögliche Therapie gegen die Fettleber. Da Vigilin auf mehrere Proteine einwirken kann, ist es allerdings kein einfaches therapeutisches Ziel, da Nebenwirkungen schwierig abzuschätzen sind. Die Forscher haben dennoch auf ihre Entdeckung ein Patent eingereicht. Stoffel glaubt, dass die Pharmaindustrie dieses Target ins Auge fassen könnte, wenn weitere Studien in anderen Modellen einen therapeutischen Nutzen zeigen.
+
+## Literaturhinweis
+
+Mobin MB, Gerstberger S, Teupser D, Campana B, Charisse K, Heim MH, Manoharan M, Tuschl T, Stoffel M. The RNA-binding protein vigilin regulates VLDL secretion through modulation of Apob mRNA translation. Nature Communications, published online 26 th Sept 2016. DOI: externe Seite 10.1038/ncomms12848
+

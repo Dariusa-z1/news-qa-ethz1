@@ -1,0 +1,22 @@
+# meet-the-talent
+
+**Source:** en_news_events/2016/04/meet-the-talent.html
+
+## Main article
+
+ETH News: Professor Springman, what does talent mean to you? Sarah Springman: Talent means having an above-average ability in a particular field. It is obvious that ETH is full of talented students, doctoral students, professors and staff members.
+
+What kind of talent can I expect to see at “Meet the Talent”? Students who have received an ESOP scholarship from ETH will be meeting the patrons who are financing their scholarships: representatives of companies and foundations, as well as private donors. This makes for an unusual and very productive meeting of minds from a range of different age groups and backgrounds. I find it particularly interesting that many of the current and former ESOP scholars don't just stand out in science or their own fields of study, but often have a number of different talents, excelling in sports, social or musical domains too.
+
+ETH Rector Sarah Springman. (Photograph: ETH Zurich)
+
+“Meet the Talent” offers patrons and ESOP scholars the chance to get to know each other – what are your hopes for the event? I believe there’s nothing more inspiring than the chance to meet interesting people. For one thing, the scholars can meet their patrons, and have the opportunity to express their gratitude. It’s also nice for the patrons to come to ETH to learn about the scholars’ lives and what they hope to achieve in them. The members of the committee who select the scholars will also be there – they’ll be able to see how scholars and donors interact, and join in too!
+
+The Excellence Scholarship and Opportunity Programme (ESOP) allows ETH to offer support to the best incoming Master's students. How do you decide which students to support? Applicants must present their creative ideas in an articulately crafted scholarship proposal. Committees then examine all the proposals and select the best ones. So this means that the committee members need to be quite talented too! A lot of people engage in the decision-making, taking time to identify the most suitable candidates. I very much appreciate the work done by the committees. I do find that the word “best” is a tricky one in this context – we don't know, after all, if students who could be chosen for this programme are actually applying!
+
+The programme has been running for several years now – is there anything you’d like to change about it? We’ve done well to get to the position where we can offer support to around fifty students each year. Although there are a few processes we could optimise, there are currently no plans for expansion. This doesn’t mean that we have finished our work in providing scholarships and promoting talent. I think that the majority of ETH students are talented in one form or another – otherwise they wouldn’t be at ETH! That's why we’re always keen to improve support for talented students at ETH.
+
+## Excellence Scholarship and Opportunity Programme
+
+Since 2007, the Excellence Scholarship and Opportunity Programme ( ESOP ) has made it possible for Master's students to complete their degree at ETH without any financial worries, while also benefiting from special support from a member of the teaching staff. The scholarship is offered exclusively to the best incoming Master's students, regardless of their origin or financial background. The Excellence Scholarship consists of a study and maintenance grant of CHF 11,000 per semester, as well as exemption from the fees. The scholarships are funded by specific donations to the ETH Zurich Foundation.
+

@@ -1,0 +1,26 @@
+# entdecken-sie-die-welt-von-thomas-mann-in-kommenden-ausstellungen
+
+**Source:** de_internal/2023/01/entdecken-sie-die-welt-von-thomas-mann-in-kommenden-ausstellungen.html
+
+## Main article
+
+Erfahren Sie in der Dauerausstellung «Im Schreiben eingerichtet. Thomas Mann und sein Arbeitszimmer» mehr über das kreative Umfeld und die Bedingungen, die Manns Werk geprägt haben. Dazu gehören sein berühmter Schreibtisch, der ihn ins Exil begleitete, seine private Bibliothek und zahlreiche Gegenstände aus verschiedenen Kulturen.
+
+Die Ausstellung zeigt Ihnen, wie der Schriftsteller gearbeitet hat, welche Werkzeuge und Gewohnheiten seinen Schreibprozess bestimmten und wie sich sein Arbeitstag sowie das Zusammenleben mit seiner Familie gestalteten.
+
+Zwischen dem 01. März und 06. August können Sie zudem in der temporären Ausstellung «Thomas Mann. Achtung Europa!» erkunden, wie sich Manns Interesse an Europa – als kulturellem Raum und politischem Projekt – im Laufe seines Lebens entwickelte. So wandelte sich sein Blick auf das Verhältnis zwischen Europa und Deutschland über die Jahrzehnte: Durch den Aufstieg des Nationalsozialismus und Exilerfahrungen in der Schweiz und den USA wurde er zum überzeugten Weltbürger. In einer Videoinstallation sprechen die Autorinnen und Autoren Laura de Weck, Dana Grigorcea, Usama Al Shahmani und Michail Schischkin über die Bedeutung von Manns Ideen für unser heutiges Europa.
+
+«Diese vollständig neu konzipierten Ausstellungen bieten die Gelegenheit, Leben und Werk Thomas Manns neu zu entdecken», so Tobias Amslinger, Leiter des Thomas-Mann-Archivs. «An unserem neuen und definitiven Standort im ETH-Hauptgebäude werfen wir einen zeitgemässen Blick auf das Vermächtnis des Schriftstellers.»
+
+Feierliche Eröffnung
+
+Anlässlich der feierlichen Eröffnung am 28. Februar um 18.00 Uhr ist Dr. Dr. habil. Stefan Mann als Vertreter der Familie Mann zu Gast an der ETH Zürich. Die Schriftstellerin Dana Grigorcea wird über ihren heutigen Blick auf Manns Werk und die Praxis des Schreibens nachdenken. Anschliessend können die Ausstellungen besucht werden, und ein Apéro bietet Gelegenheit zum Gespräch.
+
+Wenn wir Sie zur Eröffnung begrüssen dürfen, freuen wir uns über Ihre externe Seite Anmeldung bis 20. Februar.
+
+Das Thomas-Mann-Archiv der ETH Zürich bewahrt seit 1956 den Nachlass des Literaturnobelpreisträgers Thomas Mann. Dazu zählen die private Bibliothek sowie die Einrichtung des letzten Arbeitszimmers des Schriftstellers. Das durch die ETH-Bibliothek betriebene Archiv dient als Forschungsstelle zu Leben, Werk und Wirken des Autors. Die beiden Ausstellungen werden anlässlich des Umzugs des Archivs ins ETH-Hauptgebäude eröffnet.
+
+#FokusMensch – Lassen Sie sich von Menschen inspirieren und lernen Sie Neues.
+
+Raum für mehr – Vielfalt und Austausch erleben
+

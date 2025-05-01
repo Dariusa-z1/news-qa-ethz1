@@ -1,0 +1,16 @@
+# ein-pop-up-restaurant-auf-der-polyterrasse
+
+**Source:** de_news_events/2016/04/ein-pop-up-restaurant-auf-der-polyterrasse.html
+
+## Sieben-Gänge-Menü zum Abendessen
+
+Auf der Polyterrasse wird in diesen Tagen gebaut: bis am 7. Mai wird ein temporäres Restaurant fertiggestellt, das einen nicht alltäglichen Ansatz verfolgt. Im sogenannten Tastelab dreht sich alles um die Beziehung zwischen Wissenschaft und Kochen. Während vier Wochen wollen die Organisatoren zeigen, wie man mit dem Verständnis von wissenschaftlichen Zusammenhängen traditionelle Rezepte verbessern oder auch komplett neue Rezepte entwerfen kann. Dabei werden etwa Eier in der Schale pochiert, Fleisch tagelang im Wasserbad gegart, Früchte mit Kohlensäure versetzt oder Kaffee kalt gebraut.
+
+«Die Wissenschaft kann in der Küche einen grossen Beitrag leisten», sagt Remo Gisi, Mit-Initiant des Tastelabs. Er hat an der ETH Zürich Informatik studiert und ist begeisterter Hobby-Koch. Alle fünf Organisatoren des Tastelabs sind ETH-studierte Naturwissenschaftler. Küchenchefin und die treibende Kraft hinter dem Projekt ist Susanne Tobler, Physikerin und Gründerin des Event- und Cateringunternehmens Tobler Tastes.
+
+«Wir möchten zeigen, wie neue Techniken und Erkenntnisse das Kochen und seine Resultate nicht nur einfacher und verlässlicher, sondern vor allem auch besser machen können», sagt Gisi. «Durch neue Kochmethoden und kreative Kombinationen werden die ausgewählten, saisonalen Produkte unerreicht gut zur Geltung gebracht.» Der wissenschaftliche Hintergrund werde den Gästen dabei als «Beilage» erklärt – mit dem ETH-Hauptgebäude symbolisch im Hintergrund.
+
+Das von ETH-Architekten entworfene Gebäude wird nun bis zum 7. Mai aufgebaut und ist vom 9. Mai bis zum 5. Juni geöffnet. 120 Innen- und 30 Aussenplätze stehen den Gästen zur Verfügung. «Am Mittag bieten wir jeweils ein Hauptgericht mit kleiner Vorspeise oder Mini-Dessert an, das um die 20 Franken kostet», sagt Gisi. An bestimmten Tagen wird dieses Menü auch vegetarisch sein. Am Wochenende gibt es einen Brunch für 46 Franken.
+
+Der Fokus des temporären Restaurants liegt aber auf dem Abendessen: Für 128 Franken und nur mit Reservation servieren die ETH-Alumni ein Sieben-Gänge-Menü. «Mit jedem Gang zeigen wir den Gästen, was man bereits mit relativ simplen wissenschaftlichen Methoden besser oder einfacher machen kann», sagt Gisi. Ergänzt wird das Angebot durch eine Café- und Cocktailbar, die von den Inhabern der Zürcher Bar Dante betrieben wird.
+

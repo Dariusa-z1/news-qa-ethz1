@@ -1,0 +1,24 @@
+# 3d-printing-of-silicone-components
+
+**Source:** en_news_events/2019/08/3d-printing-of-silicone-components.html
+
+## Customised parts at the push of a button
+
+Their ultimate goal is to save lives: the founders of the ETH spin-off Spectroplast, Manuel Schaffner and Petar Stefanov, have developed a novel 3D printing process capable of making biocompatible silicone parts. “In the long term we hope to use the technology to offer medical implants,” says Schaffner, the young company’s CEO. “And not in standard sizes, as is the case with conventional off-the-shelf products, but customised to fit the individual patient perfectly.”
+
+Until now, Additive Manufacturing has traditionally produced objects made of hard materials such as metal, ceramic, or plastic. On the other hand, soft elastic silicone is still being used exclusively with injection moulding, where different elements of the composite material are fused together at extremely high temperatures of around 300 degrees. Schaffner’s doctoral research came up with a novel method that makes it possible to create soft silicone parts with a 3D printer. He is naturally reluctant to go into more detail, for fear of encouraging copycat products.
+
+3D printing has two major advantages over the traditional injection moulding process: on the one hand this high-precision method is able to produce very complex shapes for the first time. ETH researchers recently used the new method to produce artificial heart valves made of silicone (see ETH News article ). On the other hand, it makes production simpler and cheaper, as no moulds are required: everything happens at the touch of a button. This paves the way for mass production of customised components.
+
+Manuel Schaffner and Petar Stefanov. (Photograph: Oliver Bartenschlager)
+
+Even so, it will take a few years before the young company is able to market artificial heart valves or implants created by 3D printing, as the relevant regulatory and approval processes for medical devices are very complex and time-consuming. This is why the company will initially concentrate on what Schaffner calls “life-improving” rather than “life-saving” products. Silicone components therefore make sense wherever customised parts are especially beneficial, such as hearing aids or breast prosthesis. “Women who have had a breast removed due to cancer, for example, often face the fate of only being able to choose from standardised breast prosthesis,” Schaffner explains. “So some even ask for the other breast to be removed and replaced with an identically shaped prosthesis, purely for the sake of symmetry.” One solution to this predicament would be to create a template on the computer with the help of an MRI or CT scan, providing a perfectly shaped model ready for 3D printing.
+
+The joint founders of Spectroplast know each other from their time at ETH. Having completed his doctorate in interdisciplinary natural sciences at the Department of Materials, Manuel Schaffner was looking for an engineer for his project, and Petar Stefanov applied. At the time Stefanov was studying electrical engineering and information technology at ETH and was also interested in Additive Manufacturing. “While experimenting with plastic shapes, we found there is much greater interest in the market for 3D printing of silicone parts,” Schaffner explains. And so the pair decided to set up a new company to meet this demand.
+
+## Investments fuel growth
+
+The world’s first high-precision 3D silicone printer is currently still located in the young company’s laboratory on the Hönggerberg campus. Although Spectroplast has only been operating since last year, the printer has been running virtually non-stop. According to Schaffner, the customer base has already grown to around 200. “We are currently working in shifts,” he says. So far the 32-year-old has only been able to alternate shifts with co-founder Stefanov to complete the print orders. But now an end to the production stress is in sight: The German AM Ventures Holding GmbH has just injected 1.5 million Swiss francs into the start-up, which will allow the young entrepreneurs to recruit four new staff members by the end of the year. Up to now, the co-founders have managed to keep their heads above water thanks to funding from the ETH Pioneer Fellowship and the Swiss Innovation Agency, Innosuisse.
+
+On top of that, the electrical engineer Stefanov is also experimenting with new printers that will allow production capacities to be ramped up. “The second generation should be ready to run by the end of the year,” the 27-year-old says. As with the first prototype, he is playing around with components from conventional printers which he modifies for printing silicone. In future, Spectroplast not only wants to make money from 3D printing jobs, but also from the sale of printers and consumables. This should be possible in two years’ time, according to their business plan.
+

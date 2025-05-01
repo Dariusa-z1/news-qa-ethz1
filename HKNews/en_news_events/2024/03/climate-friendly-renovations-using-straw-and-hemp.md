@@ -1,0 +1,47 @@
+# climate-friendly-renovations-using-straw-and-hemp
+
+**Source:** en_news_events/2024/03/climate-friendly-renovations-using-straw-and-hemp.html
+
+## In brief
+
+• A team of ETH researchers and researchers from other universities clearly confirms that thermal insulation and heating replacement should be key elements of energy-efficient renovations.
+• They developed a model that uses AI to calculate greenhouse gas emissions and costs and also takes into account uncertainties such as future climate and price developments.
+• With bio-based building materials such as straw or hemp, significantly more greenhouse gas emissions can be saved in insulation compared to today.
+Switzerland is home to just under 1.8 million residential buildings and a further million non-residential ones. Together, these account for some 40 percent of the country’s final energy demand. Buildings represent a key lever in moving Switzerland towards climate neutrality: far more than half of all of its buildings are still heated using fossil fuels like oil and gas. What’s more, the vast majority were built at a time before effective efficiency standards and many are in desperate need of renovation to make them more energy-efficient.
+
+There are various points to consider when renovating a build to improve its energy efficiency. These include replacing the heating system and measures to insulate the roof, windows, cellar ceiling and façade. (Graphic: Springer Nature / Dept. of Civil, Environmental and Geomatic Engineering)
+
+## Considering a building’s life cycle
+
+Traditional renovations are geared towards energy consumption and involve two main measures: insulating the shell of a building to lower its energy consumption, and replacing fossil-fuel heating systems to promote the use of renewables. In light of climate change, more attention is being paid to the question of how renovate a building to ensure that its greenhouse gas emissions are as low as possible throughout its life cycle.
+
+## Replacement heating and insulation
+
+At ETH Zurich, the Department of Civil, Environmental and Geomatic Engineering has spent years researching this topic. A recent study by Guillaume Habert, Professor of Sustainable Construction, and Bruno Sudret, Professor of Risk, Safety and Uncertainty Quantification, supplies some new answers. This study was produced in collaboration with the University of Applied Sciences and Arts Western Switzerland (Yverdon) and Chalmers University of Technology (Gothenburg). It was published on 13 March 2024 in the journal Nature Communications .
+
+The study focuses on six buildings that have remained largely unrenovated since they were first built between 1911 and 1988. These specific buildings were selected to provide a representative sample of all Swiss buildings. For each of these properties, the researchers calculated the volume of greenhouse gas emissions that would result from a variety of renovation measures over the course of a 60-year building life cycle (from the time of the renovation). One aspect the researchers examined was replacing the existing heating system with one powered by gas, wood pellets, or a heat pump. Another was installing layers of insulation of different thicknesses – both using conventional insulation materials (EPS, fibreglass, mineral wool, cellulose fibres) and insulation materials made from fast-growing plants (straw, hemp).
+
+Factoring in the building material is important because the different manufacturing processes vary greatly in terms of their energy needs and therefore also in the amount of greenhouse gas emissions they cause. “CO 2 emissions from the manufacture of conventional insulation materials can be very high, sometimes high enough to cancel out the positive effects they have on energy consumption when used in the renovation of a building,” Habert says. Building materials made from renewable raw materials are responsible for much lower greenhouse gas emissions. Moreover, they offer the added bonus of absorbing CO 2 from the atmosphere while they grow and storing it long-term in the building.
+
+## An 87 percent drop in greenhouse gases
+
+The calculations for greenhouse gas emissions from a building over a 60-year life cycle show that the cheapest and most effective way of cutting these emissions is to replace oil and gas heating systems. Moreover, using bio-based insulation materials is also a top priority. “Our results show – based on our assumptions – that Switzerland’s buildings could cut their greenhouse gas emissions by up to 87 percent primarily by switching to heat pumps or wood pellets, but also by using bio-based building materials such as straw bales, hemp mats and hempcrete,” says Alina Galimshina, describing one of the principal findings of the study, which is based largely on the doctoral thesis she wrote at ETH Zurich.
+
+Galimshina came up with an innovative way of calculating the greenhouse gas emissions and the (investment, operating, and maintenance) costs for the duration of the life cycle. After all, choosing the right renovation strategy largely depends on future developments such as the rise in ambient temperatures resulting from climate change, but also energy prices, the carbon footprint of grid electricity, user behaviour, and other factors. The study factors in these uncertainties by employing suitable mathematical tools. Computational models for assessing life-cycle criteria take up a great deal of computing time. To reduce the computing effort required, the team used machine learning to develop a surrogate model. “Thanks to this surrogate model, we managed to optimise the various parameters related to the potential renovation options while taking into account the uncertainties of energy prices, the carbon footprint of grid electricity, and ambient temperatures,” Sudret says. This optimization was made possible using the UQLab software tool, which has been developed by his group and used to quantify uncertainties in predictive models from various disciplines since 2015, and further expanded for this very project.
+
+## Putting results into practice
+
+Today, everyone is talking about the need to replace fossil-fuel heating systems, but the use of bio-based building materials like straw and hemp is still in its infancy. These materials are met with scepticism in the building trade because they sometimes need thicker insulation and raise questions about damp and fire safety. Another hot topic is the high cost of renovations that use bio-based insulation, although critics have been known to ignore the corresponding reductions in operating costs.
+
+With these aspects in mind, the research team has set itself the goal of sharing the results of their work with planners, architects and other building experts. These efforts, which are part of an ongoing project supported by the Swiss National Science Foundation’s Agora Programme, include discussion forums and a survey of experts from the building industry. At the same time, a website is being set up that provides a software tool for comparing how climate-friendly different renovation strategies are.
+
+## “Artificial intelligence for Switzerland” series
+
+Artificial intelligence (AI) is having an impact on every aspect of our lives – research included. Machine learning methods are being used in projects across all disciplines. ETH Zurich also conducts fundamental research in this field, however. Working in collaboration with EPFL, it has launched the Swiss AI Initiative. This aims to position Switzerland as a leading global location in which to develop and use transparent and trustworthy AI. In this series, we use specific examples to show how ETH is working on joint projects with industry, NGOs and the authorities to harness AI for Switzerland, thereby creating added value for our country.
+
+Featured topic “Artificial intelligence at ETH Zurich”
+
+## Reference
+
+Galimshina A, Moustapha M, Hollberg A, Lasvaux S, Sudret B, Habert G: Strategies for robust renovation of residential buildings in Switzerland. Nature Communications 15, Article number: 2227 (2024). DOI: 10.1038/s41467-024-46305-9
+

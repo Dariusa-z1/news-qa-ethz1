@@ -1,0 +1,18 @@
+# official-comment
+
+**Source:** en_news_events/2019/03/official-comment.html
+
+## Main article
+
+ETH Zurich is unable to respond in detail to the allegations made because dismissal proceedings are still ongoing. Nevertheless, it is vital that fundamentally incorrect claims are refuted:
+
+• The insinuation that ETH consistently failed to carefully investigate the allegations made against the astronomy professor is incorrect. The administrative investigation was carried out in accordance with legal requirements. The external independent investigator observed all the conditions governing administrative procedures and was not influenced by ETH or its members in any way.
+• The professor’s claim that she was not given a fair hearing is incorrect. In a series of meetings in spring 2017 she was presented with the allegations contained in the testimonials. She also had a chance to give her view of things during the administrative investigation. She was confronted with the statements of those interviewed, and afterwards received transcripts of these interviews. In addition, she was able to give a detailed comment on the draft of the investigation report. During the procedure to review whether dismissal was appropriate, she also had the chance to explain her position to the special committee of professors.
+• Based on the 36 interviews conducted and a review of the documentation provided by all parties, the administrative investigation concluded that the professor has been responsible of serious misconduct over an extended period. In view of this, the investigator subsequently recommended terminating the employment relationship.
+• There was no evidence either in the final investigation report or the committee’s recommendation to support the astronomy professor’s claims that the allegations made were part of a targeted campaign against her.
+In the past week, the online magazine Republik has published a number of articles on ETH Zurich (see part 1 / 2 / 3 / Interview in German). These articles are full of one-sided allegations and insinuations. We are deeply disturbed by these sweeping attacks on ETH Zurich and on individual members of the university community. The interview with the professor contains serious but unsubstantiated allegations of mismanagement, sexism and corruption.
+
+At a media conference on 14 March, ETH Zurich already made it clear that it had learned lessons from the past and is working with ETH members to optimise its internal processes and continue to improve its leadership culture. An interview like the one which appeared on Friday morning does not help ETH on this path in any way.
+
+As legal proceedings are ongoing, ETH Zurich was – and still is – unable to make any official comment to the media on the details of the investigation. Once dismissal proceedings have been concluded, however, the university will publish the full version of the investigation report.
+

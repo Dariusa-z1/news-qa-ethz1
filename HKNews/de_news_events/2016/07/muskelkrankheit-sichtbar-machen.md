@@ -1,0 +1,34 @@
+# muskelkrankheit-sichtbar-machen
+
+**Source:** de_news_events/2016/07/muskelkrankheit-sichtbar-machen.html
+
+## Spezifisch für einen Cannabis-Rezeptor
+
+Viele dürften sich noch an die «Ice Bucket Challenge» von vorletztem Sommer erinnern. Patientenorganisationen rückten mit dieser Kampagne die seltene, aber heimtückische und unheilbare Muskelkrankheit Amyotrophe Lateralsklerose (ALS) ins Bewusstsein der Bevölkerung. In der Ice Bucket Challenge wurden Personen nach dem Schneeballsystem über soziale Medien dazu aufgefordert, ALS-Patientenorganisationen finanziell zu unterstützen oder aber sich einen Eimer Eiswasser über den Kopf zu giessen. Letzteres sollte die Teilnehmenden für kurze Zeit in die Lage eines Patienten versetzen, dessen Muskeln versagen.
+
+Bei der ALS werden die für die Muskelsteuerung verantwortlichen Nervenzellen allmählich abgebaut. Es kommt zu Muskelschwund und Muskellähmungen sowie dadurch unter anderem zu Geh-, Sprech- und Schluckstörungen. Medikamente können den Krankheitsverlauf höchstens verzögern; oft beträgt die Lebenserwartung nach einer Diagnose nur wenige Jahre. Die Ursachen der Krankheit sind weitgehend unklar.
+
+Einen wichtigen Beitrag zur Erforschung von ALS könnte nun eine neue Markersubstanz leisten, die ETH-Forschende zusammen mit Experten des Kantonsspitals St. Gallen und des Universitätsspitals Zürich entwickelten. Mit der neuen Substanz wird es vielleicht möglich, den Krankheitsverlauf von ALS-Patienten mittels Positronen-Emissions-Tomografie (PET) nachzuverfolgen. PET ist ein bildgebendes Verfahren, mit dem man im Körpergewebe bestimmte Moleküle auf Zelloberflächen sichtbar machen kann. Dazu werden Markersubstanzen – sogenannte PET-Liganden – verwendet, die sich nach dem Schlüssel-Schloss-Prinzip an diese Moleküle heften. Die Markersubstanzen sind radioaktiv markiert, wobei ihre radioaktive Strahlung von kurzer Dauer ist (Halbwertszeit von einigen Minuten bis wenigen Stunden). Beim PET wird diese Strahlung gemessen.
+
+Mittels Positronen-Emissions-Tomografie (PET) aufgenommener Hirnschnitt einer Maus ohne (links) und mit (rechts) entzündetem Nervengewebe. Gelbe und rote Farbtöne weisen auf den Cannabinoid-Rezeptor 2 hin. (Bild: ETH Zürich / Simon M. Ametamey)
+
+## Auch für andere Krankheiten
+
+Der neuentwickelte PET-Ligand heftet sich an ein Rezeptormolekül des körpereigenen Signalübertragungswegs für Cannabis-Inhaltsstoffe – an den Cannabinoid-Rezeptor 2 (CNR2). Dieser kommt vor allem in entzündetem Nervengewebe vor, so auch im zentralen Nervensystem von ALS-Patienten.
+
+«Die grosse Herausforderung unserer Arbeit war, einen PET-Liganden zu entwickeln, der sich nur an CNR2 heftet, nicht jedoch an den verwandten Cannabinoid-Rezeptor 1 (CNR1)», erklärt Simon Ametamey, Professor am Departement für Pharmazeutische Wissenschaften der ETH Zürich. Denn CNR1 kommt im Gehirn aller Menschen vor. Dort vermittelt er die schmerzlindernde und berauschende Wirkung von Cannabis.
+
+Die Forschenden in Ametameys Gruppe synthetisierten eine Reihe von Molekülen und massen im Reagenzglas deren Vermögen, sich an die Rezeptoren CNR2 und CNR1 zu heften. Das Molekül mit der am stärksten ausgeprägten Vorliebe für CNR2 testeten sie schliesslich erfolgreich in Ratten und Mäusen mit entzündetem Nervengewebe. Die Wissenschaftler reichten dieses Molekül zur Patentierung ein. Klinische Studien bei Menschen stehen noch aus.
+
+«Der neue PET-Ligand könnte dereinst helfen, ALS besser zu erforschen und zu verstehen, wie die Krankheit fortschreitet», sagt Ametamey. Auch bei der Früherkennung der Krankheit könnte er zum Einsatz kommen. Ebenfalls interessant wäre er für die Erforschung und Diagnose weiterer Krankheiten, bei denen es zu einer Entzündung des Nervengewebes kommt, etwa für neurodegenerative Erkrankungen wie Alzheimer, Parkinson oder Multiple Sklerose.
+
+Ein Nachteil des neuen PET-Liganden ist, dass seine Radioaktivität auf dem Isotop Kohlenstoff-11 beruht. Denn die Radioaktivität von Kohlenstoff-11 verklingt sehr rasch; pro 20 Minuten nimmt sie jeweils um die Hälfte ab. «Die Substanz kann daher nur an dem Ort eingesetzt werden, an dem sie produziert wird. Bereits ein Transport von Zürich nach St. Gallen liegt nicht drin», so Ametamey. Er und seine Kollegen sind daher daran, die Substanz weiterzuentwickeln und dabei das Isotop Fluor-18 mit einer Halbwertszeit von 110 Minuten einzubauen. Bereits zeichnen sich erste Erfolge ab, wie Ametamey sagt.
+
+Potenzial hätte das Molekül ausserdem in einer abgewandelten, nicht-radioaktiven Form: «Stoffe, die an CNR2 binden, wirken im Körper entzündungshemmend», so Ametamey. «Es wäre somit denkbar, verwandte Moleküle dereinst als Medikament in der Therapie von ALS einzusetzen sowie von anderen Krankheiten, bei denen es zu einer Nervenentzündung kommt.»
+
+Die Forschung wurde finanziell unterstützt durch die Schweizerische ALS-Stiftung und die Vontobel-Stiftung.
+
+## Literaturhinweis
+
+Slavik R, Müller Herde A, Bieri D, Weber M, Schibli R, Krämer SD, Ametamey SM, Mu L: Synthesis, radiolabeling and evaluation of novel 4-oxo-quinoline derivatives as PET tracers for imaging cannabinoid type 2 receptor. European Journal of Medicinal Chemistry, 2015. 92: 554-564, externe Seite doi: 10.1016/j.ejmech.2015.01.028
+

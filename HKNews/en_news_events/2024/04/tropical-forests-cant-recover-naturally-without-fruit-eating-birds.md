@@ -1,0 +1,16 @@
+# tropical-forests-cant-recover-naturally-without-fruit-eating-birds
+
+**Source:** en_news_events/2024/04/tropical-forests-cant-recover-naturally-without-fruit-eating-birds.html
+
+## Strategies for recovering tropical forests
+
+Based on current data, this study advances the research from previous ground studies conducted by the authors in the Atlantic Forest in Brazil. The forest is one of the most biologically diverse regions in the world, but it is also one of the most fragmented with only 12 percent of the original forest remaining and mainly in small areas. The forest is also one of the most important regions on the planet for large-scale ecological restoration, with 12 million hectares of land targeted for restoration and natural recovery under the Atlantic Forest Restoration Pact. The research shows that increasing forest cover beyond 40 percent may be critical not only to maintain species diversity, as previously evidenced, but also to maintain and restore the functioning of ecosystem services, such as seed dispersal and carbon storage, to maximise the success of the massive-scale restoration initiative in this region.
+
+“We have always known that birds are essential, but it is remarkable to discover the scale of those effects,” says Thomas Crowther, Professor of Ecology at ETH Zurich, and the senior co-author of the study. “If we can recover the complexity of life within these forests, their carbon storage potential would increase significantly.”
+
+Earlier research suggests that recovering forests could capture more than 2.3 billion tonnes of carbon in the Atlantic Forest region, and that natural regeneration is likely to be more cost-effective – as much as 77 percent less in implementation costs - than active planting.
+
+Researchers note that a range of strategies, such as planting fruit trees and preventing poaching, could enhance animal movement in tropical areas where passive restoration is more likely. Active restoration is necessary in highly fragmented landscapes.
+
+"By identifying the thresholds of forest cover in the surrounding landscape that allow seed dispersal, we can identify areas where natural regeneration is possible, as well as areas where we need to actively plant trees, allowing us to maximize the cost-effectiveness of forest restoration,” says Danielle Ramos, a co-author of the paper affiliated with the University of Exeter, UK and Universidade Estadual Paulista, Rio Claro, São Paulo, Brazil.
+

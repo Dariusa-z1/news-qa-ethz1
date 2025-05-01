@@ -1,0 +1,36 @@
+# constitutionally-permitted-and-even-required
+
+**Source:** en_news_events/2021/04/constitutionally-permitted-and-even-required.html
+
+## Main article
+
+We are witnessing a fierce political and social debate about whether those who have had their Covid vaccine shots should be allowed to move more freely than unvaccinated people. Opponents of a vaccine passport or “green pass” system, which would ease restrictions on those vaccinated, for example, by allowing them to travel more freely, make two main arguments: First, for legal and ethical reasons, vaccinated people should not be given preferential treatment as this would violate principles of equality and be unethical; it would drive a wedge through society. Second, it’s not yet scientifically proven that vaccinated people are less infectious, and so the “precautionary principle” prohibits any preferential treatment.
+
+## Unequal treatment is justified
+
+Yet these arguments are neither legally sound nor ethically convincing. This is not a case of unjustified unequal treatment; there’s a good objective reason for distinguishing between vaccinated and unvaccinated people: namely, the vaccination. Whether all of those who want to get the vaccine have or have had the same access to the vaccine is irrelevant. In life, there are inequalities far more fundamental which we willingly, and sometimes quite questionably, accept to give rise to constitutionally justified distinctions – like, for example, holding the citizenship of a wealthy country, robust health, or a youthful age.
+
+In principle, given our constitutional traditions, the state is required to guarantee and protect fundamental freedoms and constitutional rights. Interventions and restrictions are possible, but must be justified. The restrictions on freedom that we’ve had to endure for over a year now are justified by the danger of the virus, its rapid spread, and the risk of overburdening the health system.
+
+In fact, data from Israel and the USA suggest that in the vast majority of cases not only does vaccination keep an individual from falling ill, but is also very likely to prevent that individual from passing the virus on to others – an analysis also shared last week by the German Robert Koch Institute. This means vaccinated people no longer belong to the pool of those at risk, or those who could put others at risk. This is the whole point of vaccination. As part of a growing herd of vaccinated people, they also potentially offer protection for those who can’t be vaccinated for medical reasons, or don’t want to for ideological reasons -- positions which are also, in principle constitutionally protected. Consequently, there no longer remain any reasons to restrict fundamental rights for those fully vaccinated.
+
+## Which just leaves envy
+
+Providing such a proof is practically impossible, and would represent a dangerous shift: for good reason, it’s not the citizens who must prove they’re not dangerous in order to exercise their basic rights, but rather the state who has to justify if it wants to restrict these rights. Based on current scientific information, there’s simply no plausible argument to restrict freedoms of vaccinated people.
+
+Once herd immunity has been achieved that is, when we’re all protected regardless of our vaccination status, and our health system is secure again, then the restrictions of fundamental rights will be lifted for everyone, and the vaccination passport will lose its significance. The fact that, due to vaccine shortage, we cannot lift restrictions for everyone simultaneously, but rather sequentially, is a banality we no longer even notice in other areas of life. Would anyone seriously argue that a state building a broadband internet network, it should only allow its citizens to use the broadband internet once the network has been fully rolled out in rural areas? As long as priority for vaccination follows objective criteria and is not arbitrary, it’s irrelevant that some regain their basic rights sooner than others.
+
+So, what’s left is an argument driven by sublimated envy. To expose this, we can use a legal ethics thought experiment developed by Nobel Prize-winning economist John Harsanyi and legal philosopher John Rawls, called “the veil of ignorance”: How were we to decide if we didn’t know into which social role we were to be born in – in the role of a vaccination supporter or that of a vaccination opponent, in the role of a vaccinated or that of an unvaccinated? It seems certain that without subjective bias we would all agree – that everybody fully vaccinated should no longer suffer restrictions of their basic liberties.
+
+So let’s rejoice with those who have been vaccinated! At least they can gradually enjoy their freedoms again and can wrest control over their lives from the virus. In this respect, the green pass with its easing of restrictions for vaccinated people can make us happy, give us hope, and let us breathe a sigh of relief, as does seeing the pictures from Israel. This is where our country should be headed too.
+
+Alexander Stremitzer is a lawyer and professor at ETH Zurich. He wrote this blog together with the constitutional lawyers Kevin Cope, professor at the University of Virginia, and Emanuel Towfigh, professor at EBS University in Wiesbaden. Stremitzer and Cope have also published an article on the same topic in the latest issue of the Journal of Nuclear Medicine 1 .
+
+## References
+
+1 Cope K, Stremitzer A: Governments are constitutionally permitted to provide ‘vaccine passports’ – we think some may also be constitutionally obligated to do so. Journal of Nuclear Medicine 2021, doi: jnumed.121.262434
+
+## About the author
+
+Alexander Stremitzer Professor of Law and Economics at ETH Zurich
+

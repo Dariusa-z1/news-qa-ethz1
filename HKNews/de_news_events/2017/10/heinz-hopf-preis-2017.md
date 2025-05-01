@@ -1,0 +1,42 @@
+# heinz-hopf-preis-2017
+
+**Source:** de_news_events/2017/10/heinz-hopf-preis-2017.html
+
+## Die Rätsel der Raumkrümmung
+
+Manche geometrischen Räume entziehen sich der unmittelbaren Vorstellungskraft. Sie zu beschreiben, erfordert mehr als eine Sprache des Alltags. Einer, der die Sprache der Geometrie blendend beherrscht, ist der Amerikaner Richard M. Schoen, Professor an der Stanford Universität und an der Universität von Kalifornien, Irvine. Für seine «herausragenden und grundlegenden Beiträge zur Differentialgeometrie und zur Geometrischen Analysis» verleiht ihm die ETH Zürich den Heinz-Hopf-Preis 2017.
+
+Das ETH-Mathematikdepartement zeichnet einen Forscher aus, der an der Grenze von Mathematik und Physik wichtige mathematische Techniken und neue Methoden im Gebiet der Differentialgeometrie und der Allgemeinen Relativitätstheorie einführte. «Das Vermögen, Brücken zu bauen zwischen scheinbar weit auseinanderliegenden Problemen, ist eine der verblüffendsten Fähigkeiten von Richard Schoen», sagt Alessandro Carlotto. Der ETH-Professor für Mathematik forschte in Stanford intensiv mit seinem Doktorvater Richard M. Schoen – unter anderem über die Einstein-Gleichungen.
+
+Zusammen gelang es ihnen, neuartige Lösungen für die Einsteinschen Feldgleichungen zu erarbeiten. Diese beschreiben im Rahmen der Allgemeinen Relativitätstheorie die Gravitationskräfte. «Unsere Lösungen stimmen mit den Axiomen der Allgemeinen Relativitätstheorie vollständig überein, weisen aber explizit Phänomene auf, die in keiner anderen Klasse von bisher bekannten Lösungen der Einstein-Gleichungen vorhanden sind», legt Alessandro Carlotto dar.
+
+Auch Schoen bezieht sich auf die Allgemeine Relativitätstheorie, wenn man ihn fragt, welche Forschungsfrage er selbst für die faszinierendste seiner Laufbahn hält: «Mit besonderem Stolz erfüllt mich der Beweis der Positiven-Masse-Vermutung, weil sie von einer derart grundlegenden Natur für die Einstein-Gleichungen ist», sagt Schoen, «und es ist ein Beispiel, wie wir eine Idee aus der Physik heranziehen können, um ein ausserordentliches mathematisches Problem zu lösen.»
+
+Um Richard M. Schoens wissenschaftliche Leistungen einzuordnen, lohnt sich ein Blick in die Geschichte: Seit dem 19. Jahrhunderts entwickelten die Mathematiker neue Mittel, um die allgemeinen Eigenschaften von geometrischen Räumen zu beschreiben, die weit komplexer sind als zweidimensionale Flächen und dreidimensionale Räume, die den Menschen vom Alltag her vertraut sind.
+
+Zwei Wegbereiter der Entwicklung dieses mathematischen Gebiets waren Bernhard Riemann (1826 - 1866) und Albert Einstein (1879 - 1955). Die 1854 aufgestellte Riemannsche Geometrie ebnete einen Weg zur 1915 vorgestellten Allgemeinen Relativitätstheorie. Heinz Hopf (1894 - 1971) seinerseits leistete weitere fundamentale Beiträge zur Riemannschen Geometrie und zur globalen Gestalt mehrdimensionaler Räume.
+
+Die Riemannsche Geometrie befasst sich, wie Schoen darlegt, mit gekrümmten Räumen. Zum Beispiel hat die Oberfläche einer Kugel – oder einer Sphäre – die Geometrie einer konstanten Krümmung. Unter einer Krümmung verstehen Mathematiker in der einfachsten Bedeutung die jeweils lokale Abweichung einer Kurve von einer Geraden. Man kann dann verschiedene Begriffe der Krümmung für einen höherdimensionalen Raum einführen, wobei man das Studium der zweidimensionalen, gekrümmten Oberflächen verallgemeinert.
+
+«Für höherdimensionale Räume ist es viel schwieriger, zu erfassen, welche Art von Metrik man erwarten kann», sagt Schoen. Von einer Metrik sprechen die Mathematiker, wenn sie die Abstände zweier Elemente eines Raums ermitteln. Heute ist die Riemannsche Geometrie ein Teilgebiet der Differentialgeometrie, die geometrische Objekte wie eine Kugel, eine Sphäre, eine Oberfläche oder einen Torus (sieht aus wie ein «Doughnut») untersucht .
+
+Die Allgemeine Relativitätstheorie beschreibt die Wechselwirkung zwischen Materie, Raum und Zeit. Sie deutet die Gravitation als eine geometrische Eigenschaft der gekrümmten vierdimensionalen Raumzeit. Einsteins Feldgleichungen sagen aus, dass die Art, wie sich Materie in einem Gebiet der Raumzeit bewegt, gleich der Weise ist, wie die Raumzeit gekrümmt ist. Zur Beschreibung der gekrümmten Raumzeit wandte Albert Einstein Differentialgeometrie an.
+
+Der Reichtum der Arbeiten Riemanns und Einsteins zeigt sich darin, dass sie auch nach über 100 Jahren zu weiteren Forschungsfragen motivieren. «Wir haben noch immer kein vollständiges Verständnis dieser geometrischen Räume, deshalb sind ihre vertiefte geometrische Erforschung und die Entwicklung neuer Techniken, mit denen man vielleicht noch allgemeinere und überraschendere Lösungen für die Einstein-Gleichungen erzeugen kann, ein Hauptthema meiner aktuellen Forschung», sagt Carlotto.
+
+Während ein Physiker jedoch ein Modell konstruiert und gegebenenfalls revidiert, weil es mit seinen Daten und dem «grossen Bild» seiner Theorie übereinstimmen muss, nimmt ein Mathematiker wie Carlotto dieses Modell als gegeben an und untersucht, welche logischen Folgerungen sich daraus ergeben. «Ich untersuche nicht, ob die Allgemeine Relativität die richtige Art und Weise ist, um die Gravitation zu beschreiben, sondern ich nehme sie als Rahmen und versuche zu sehen, was sie uns über Dinge wie kosmologische Phänomene oder Gravitationswellen sagt.»
+
+Schoen schliesst: «Ich schätze es, wenn ich visuell über meine Arbeit denken kann. Die Physik erlaubt mir eine andere Art, die Geometrie zu betrachten, und sie stellt neue Einsichten und Interpretationen bereit, die zu neuen mathematischen Resultaten führen können.»
+
+## Heinz Hopf Lectures 2017
+
+Richard M. Schoen «How curvature shapes space»
+
+Montag, 30. Oktober 2017 17.15 Uhr, Aula HG G60 Dienstag, 31. Oktober 2017 17.15 Uhr, HG E3
+
+Weitere Informationen inkl. Symposium: www.math.ethz.ch/hopf
+
+## Literaturhinweis
+
+Schoen R, Yau ST. On the proof of the positive mass conjecture in general relativity. Comm. Math. Phys. 65 (1979), no. 1, 45-76.
+

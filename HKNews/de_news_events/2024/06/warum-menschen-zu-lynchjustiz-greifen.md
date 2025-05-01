@@ -1,0 +1,53 @@
+# warum-menschen-zu-lynchjustiz-greifen
+
+**Source:** de_news_events/2024/06/warum-menschen-zu-lynchjustiz-greifen.html
+
+## In Kürze
+
+• Anhand eines neuen Datensatzes, der 2818 Lynchfälle in 18 Ländern Lateinamerikas umfasst, untersucht ETH-Forscher Nussio unter welchen Bedingungen es vermehrt zu Lynchjustiz kommt.
+• Der Konfliktforscher zeigt, dass Lynchjustiz beispielsweise in jenen Gemeinden Mexikos häufiger vorkommt, in denen der Staat schwach und die lokale Gemeinschaft stark ist und die Menschen sich der nachbarschaftlichen Sicherheit verpflichtet fühlen.
+• Menschen lassen sich zu diesen Gewalttaten hinreissen, weil sie dem Druck der Gruppe nachgeben und die Sicherheit der Gruppe wichtiger finden als die Rechte einzelner Personen.
+## Erstmals Lynchvorfälle systematisch untersucht
+
+Ende März 2024 verschwand ein achtjähriges Mädchen in Taxco, einer mexikanischen Kleinstadt zweieinhalb Autostunden südlich von Mexiko-Stadt. Noch bevor die Polizei die Leiche des Mädchens fand, hatte die Dorfgemeinschaft bereits eine mutmassliche Schuldige ausgemacht. Dutzende Anwohner:innen versammelten sich vor ihrem Haus, schlugen die Tür ein und zerrten die Frau auf die Strasse. Vor den laufenden Kameras mehrerer Medienschaffender, die für eine Veranstaltung in der Stadt waren, wurde die Frau vom Mob zu Tode geprügelt. Die Polizei war zwar präsent, griff aber zu spät und nicht energisch genug ein.
+
+Neben Mexiko gehören solche Fälle von Lynchjustiz vor allem in Brasilien, Indien, Indonesien, Pakistan, Nigeria und in Südafrika zur Tagesordnung. Bis heute ist sich die Forschung uneinig, warum eine Gruppe von Zivilpersonen plötzlich das Recht in die eigenen Hände nimmt und mit physischer Gewalt gegen mutmassliche Straftäter vorgeht. ETH-Konfliktforscher Enzo Nussio hat nun erstmals einen überregionalen Datensatz von Lynchjustizfällen in ganz Lateinamerika zusammengetragen, um diese Frage zu beantworten.
+
+Seine Studien, die kürzlich in mehreren Fachzeitschriften erschienen sind, werfen ein neues Licht auf ein bisher wenig verstandenes Phänomen. «Wir beobachten Fälle von Lynchjustiz vor allem dort, wo ein schwacher Staat auf eine starke, lokale Gemeinschaft trifft, welche die nachbarschaftliche Sicherheit höher gewichtet als das Leben mutmasslicher Straftäter», erklärt Nussio, der am Center for Security Studies der ETH Zürich forscht. Genau das sei auch in Taxco der Fall gewesen.
+
+Obwohl Lynchjustiz eine weit verbreitete Form kollektiver Gewalt ist, stützt sich die Forschung dazu oft auf Fallstudien zu einzelnen Vorfällen. Eine systematische und vergleichende Untersuchung zahlreicher Fälle in verschiedenen Ländern scheiterte bis anhin an fehlenden Daten. Diese Lücke schliessen nun Nussio und sein Koautor Govinda Clayton mit ihrem neuen Datensatz.
+
+Dieser beruht auf Medienberichten und umfasst 2818 Lynchvorfälle, die sich zwischen 2010 und 2019 in 18 Ländern Lateinamerikas ereignet haben. 543 davon endeten mit mindestens einem Todesopfer. Am häufigsten entzündete sich die Gewalt an vermeintlichen Diebstählen, gefolgt von mutmasslichem Mord und Kindesmissbrauch. Knapp die Hälfte aller Lynchvorfälle wurde von Gruppen begangen, die zwischen 20 und 99 Personen umfassten, knapp ein Drittel von Gruppen mit mehr als 100 Personen.
+
+Mit 261 Fällen in zehn Jahren ist Guatemala das Land mit der höchsten Lynchrate bezogen auf seine rund 14 Millionen Einwohner. Dahinter folgen Bolivien und Mexiko, wobei Mexiko mit 1134 Fällen die meisten Fälle von Lynchjustiz aufweist. Diese Daten, die die Forschenden auf einer externe Seite interaktiven Webseite visualisiert haben, bilden eine einmalige Grundlage, um die Bedingungen von Lynchjustiz besser zu verstehen.
+
+## Schwache Staaten begünstigen die Lynchjustiz
+
+«Wir wissen aus zahlreichen Studien, dass Lynchjustiz vor allem dort passiert, wo der Staat und seine Sicherheitskräfte nicht in der Lage sind, die Zivilbevölkerung vor Kriminalität zu schützen», sagt Nussio. Die Menschen in diesen Gebieten fühlen sich eher als Opfer und entwickeln das Bedürfnis, das Gesetz selbst in die Hand zu nehmen.
+
+Dazu kommt, dass staatliche Akteure in schwachen Staaten oft als illegitim und korrupt wahrgenommen werden. «Wenn sich beispielsweise die Polizei selbst nicht an das Gesetz hält oder gar mit Kriminellen zusammenarbeitet, fühlen sich Bürgerinnen und Bürger weniger stark an das Gesetz gebunden», erklärt der Konfliktforscher. Gewaltsame Selbstjustiz wird so zu einer legitimen Praxis der sozialen Kontrolle und lokalen Sicherheit.
+
+Doch dieser Kontext allein erklärt noch nicht, warum Menschen plötzlich zu Gewalt greifen. Warum beteiligen sich unbescholtene Zivilpersonen an oft brutalen Gewalttaten gegen mutmassliche Täter, wenn sie auch ohne mitzumachen von der abschreckenden Wirkung dieser Taten profitieren würden? Weil sie ein Teil von starken lokalen Gemeinschaften sind, sagt Nussio.
+
+Zudem sind die Kosten einer Nichtteilnahme höher, da der Ruf ein kooperatives Mitglied der Gemeinschaft zu sein auf dem Spiel steht, wenn man sich gegen den lynchenden Mob stellt. «Wenn ich einmal nicht mitmache, helfen mir die Nachbarn vielleicht nicht, wenn ich das nächste Mal selbst bedroht werde», schildert Nussio die soziale Logik des Gruppendrucks.
+
+Darüber hinaus findet Nussio, dass Gemeinden oder Nachbarschaften, in denen sich viele Leute gut kennen, ihre kollektive Sicherheit moralisch über die körperliche Unversehrtheit des Einzelnen stellen. Die vermeintliche Sicherheit des Kollektivs in Taxco rangiert zum Beispiel über den individuellen Rechten der mutmasslichen Verbrecherin.
+
+Doch der ETH-Forscher belässt es nicht bei einer Untersuchung auf individueller Ebene. Er prüft auch, warum die Lynchraten innerhalb Mexikos stark schwanken. «Lynchjustiz tritt vor allem in jenen Gemeinden Mexikos häufiger auf, wo Nachbarn stärkere Bindungen haben», sagt der Konfliktforscher. Gemeinschaften gelten als stark, wenn deren Mitglieder sich regelmässig gegenseitig helfen und zusammenarbeiten. Diese Kooperationsbereitschaft entnimmt Nussio aus den Antworten auf eine repräsentative Umfrage, die in ganz Mexiko durchgeführt wurde.
+
+Um die Ergebnisse seiner auf Umfragedaten beruhenden Analyse zu untermauern, hat sich der Konfliktforscher ausserdem ein natürliches Experiment zu Nutze gemacht: 2017 kam es in der Region Mexiko-Stadt zu einem Erdbeben. Aus der Forschungsliteratur ist bekannt, dass Naturkatastrophen wie Erdbeben dazu führen können, dass Gemeinschaften näher zusammenrücken. Es wäre daher auch zu erwarten, dass die Lynchraten in jenen Gemeinden am meisten zunehmen, die besonders stark vom Erdbeben betroffen sind. «Genau das habe ich in meinen Analysen festgestellt. Es gab einen klaren Zusammenhang zwischen dem Erdbeben und höheren Lynchraten», erklärt Nussio.
+
+Dass dieser Zusammenhang nicht nur für Mexiko gilt, zeigen Nussio und Clayton in einer anderen Publikation anhand des Tsunamis in der indonesischen Provinz Aceh im Jahr 2004. Auch in Aceh steigt die Lynchrate nach dem Tsunami im Vergleich zu anderen Regionen Indonesiens deutlich an.
+
+Dass es in westlichen Staaten kaum noch Fälle von Lynchjustiz gibt, hat für Nussio im Umkehrschluss vor allem damit zu tun, dass die Menschen dort eher darauf vertrauen, dass der Staat und seine Sicherheitskräfte für Sicherheit und Ordnung sorgen und Verbrechen nicht ungestraft bleiben. Zudem funktionieren westliche Gesellschaften in der Regel deutlich individualistischer als jene in Lateinamerika und Südostasien. Die Menschen fühlen sich ihrer Nachbarschaft oder Dorfgemeinschaft weniger stark verpflichtet.
+
+## Literaturhinweis
+
+Nussio E, The ‘Dark Side’ of Community Ties. Collective Action and Lynching in Mexico, American Sociological Review 2024. doi: externe Seite 10.1177/00031224241253268 .
+
+Nussio E, Clayton G, Introducing the Lynching in Latin America (LYLA) Dataset, Journal of Peace Research 2024 . doi: externe Seite 10.1177/00223433231220275 .
+
+Nussio E, How Moral Beliefs Influence Collective Violence. Evidence from Lynching in Mexico, Comparative Political Studies 2023 . doi: externe Seite 10.1177/00104140231223747
+
+Nussio E, Clayton G, A Wave of Lynching. Morality and Authority in Post-Tsunami Aceh. Comparative Politics 2022, 55 (2): 313–36. doi: externe Seite 10.5129/001041523X16645676522699
+

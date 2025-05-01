@@ -1,0 +1,28 @@
+# auf-dem-weg-in-die-neue-normalitaet
+
+**Source:** en_internal/2020/04/auf-dem-weg-in-die-neue-normalitaet.html
+
+## Crisis not over yet
+
+At the townhall meeting held online on 28 April, the members of the Executive Board started by outlining the priorities in their areas of responsibility over the past weeks, and explained how they plan to restore normal operations for the university. As expected, the meeting attracted a lot of interest: 2,400 members joined the event. The large number of questions – over a hundred – reflected the general atmosphere of uncertainty. Some people think the return to normality is too quick, while others think it’s too slow. And obviously concerns about protecting health was one of the biggest issues for members of the ETH community. The head of the HR Department Lukas Vonesch and Dr Leonhard Sigel, head of Occupational Medicine at ETH, helped the Executive Board to answer questions. The questions raised in the townhall meeting – along with the answers – will be integrated in the FAQs published on the coronavirus webpage . Given the large number of questions, they will be grouped together by topic rather than answered individually.
+
+In his introduction, ETH President Joël Mesot consciously used the term “new normal operations”, hopefully starting on 1 September. “We all want to get back to normality, but I am convinced that this normality will not be the same as a few months ago.”
+
+Ulrich Weidmann, Vice President for Infrastructure and head of the Coronavirus Task Force, also stressed that the exit strategy did not simply mean a return to “business as usual”, but was rather a separate protracted process that would last at least to the end of this year. “The virus is among us, and there is a serious risk of a second strong wave of infection, as a vaccine will not be ready for at least 12 to 15 months. The only way to minimise risks is to adopt an extremely cautious exit strategy.” For this reason, the health protection measures are particularly important, such as strict rules on room occupancy to ensure the required social distancing, and measures for contact tracing.
+
+Strict observation of the rules on good hygiene and social, or rather, “physical” distancing is still the main limiting factor on the resumption of experimental research. Taking the master plan as a blueprint, the academic departments have worked out – within the space of just two weeks – how they intend to step up research in a prudent and responsible manner. Detlef Günther, Vice President for Research, thanked the departments for their huge commitment and support. In addition, he praised the efforts of ETH scientists, who at the moment are actively involved with COVID-19 research in more than 50 projects.
+
+Rules on physical distancing also obviously apply to forthcoming examinations in the summer. “We want to give all our students the opportunity to complete the academic year and not to lose a semester. This is what guided many of our decisions on teaching,” said ETH Rector Sarah Springman. The session exams held in August are the most important form of performance assessment. For this reason, the Rector’s Office has taken these as a starting point in planning changes to the standard examination rules. The current plan is to hold session examinations on site in ETH buildings, while observing all the necessary rules on social distancing and hygiene. If more space is needed, other premises could be rented as well.
+
+In his address, Robert Perich, Vice President for Finance and Controlling, explained that ETH’s financial situation was comfortable, unlike many other organisations. “However, the recession will leave a heavy dent in the federal budget, which will inevitably affect ETH as well, given that 70% of our financing comes directly from the government.” He also discussed the topic of catering on the campus. Up to 7 June catering facilities will still be very limited. On the Centre campus, a takeaway service will operate in the Alumni Pavillon from 4 May onwards, and the food trailer will open at ETZ. On the Hönggerberg campus there will be Street Food and Avec Box, as well as a new takeaway service in Fusion. A decision will be taken in the second half of May about which facilities will open from 8 June onwards.
+
+In his closing comments, ETH President Mesot said that no one would ever want to live through a crisis of this nature, but now that it is here, we must learn lessons from it – as a society, as an institution and also as individuals. The “rETHink” project provides the ideal platform for us to continue to develop as a university based on the experiences we have gone through. For his part, Mesot intends to spend one day a week working from home in future.
+
+As a final thought, he added “In these moments of immense human fragility, we have experienced first-hand over the past weeks the true meaning of solidarity. If I had one wish, it would be that we could incorporate a slice of this into our ETH culture as part of our new normality. As I see it, solidarity not only means helping someone in need, but treating them with respect. This principle should continue to apply even after we have managed to come up with a vaccine.”
+
+## More information
+
+All information on measures taken by ETH Zurich in connection with the coronavirus can be found on the coronavirus webpage
+
+Video: Recording of the townhall meeting convened by the Executive Board on 28 April 2020
+

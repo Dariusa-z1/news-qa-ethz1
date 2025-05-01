@@ -1,0 +1,46 @@
+# an-der-schnittstelle-zwischen-robotik-und-maschinellem-lernen
+
+**Source:** de_news_events/2024/06/an-der-schnittstelle-zwischen-robotik-und-maschinellem-lernen.html
+
+## Roboter, die auf Hindernisse klettern – und mehr
+
+Vor zehn Jahren konnten sie sich kaum fortbewegen. Heute verändern die autonomen Laufroboter von Marco Hutter und seinem Team ein ganzes Feld – und künftig sollen diese hochmobilen Roboter bei Such- und Rettungsarbeiten unterstützen, oder gar andere Planeten erkunden. Für seine Forschung erhält der Professor am Departement Maschinenbau und Verfahrenstechnik der ETH Zürich nun den diesjährigen Rössler-Preis. Es ist ein Meilenstein, ja Etappensieg auf dem Weg, der für Hutter bei einer simplen Frage begann: «Wie müssen wir Roboter bauen, damit sie sich wie ein Mensch oder Tier über jegliches Gelände bewegen können?»
+
+Schnell war klar: statt eines Raupen- oder Radantriebes sollten es Beine sein. Diese Antwort warf jedoch die Frage auf, wie so ein Beinantrieb für einen Roboter überhaupt aussehen und funktionieren sollte. «Wir haben uns also mit der Entwicklung neuer Antriebs- und Steuerungskonzepte beschäftigt, wobei die Roboter anfangs noch gar nichts konnten und weit von einer nützlichen Anwendung entfernt waren», erklärt Hutter.
+
+Im Laufe der Jahre haben sich die Technologien ständig weiterentwickelt, sodass Roboter heute in der Lage sind, über schwierigstes Gelände zu navigieren und in der realen Welt eingesetzt werden können. Marco Hutter nennt Beispiele: «Unsere Laufroboter werden heute für Industrieinspektionsarbeiten kommerziell genutzt und wir erforschen neue Fähigkeiten, die in Zukunft Erkundungs- oder Rettungseinsätze in komplett unbekannten Umgebungen ermöglichen.»
+
+Dabei setzt das Team von Marco Hutter seit Jahren auf Künstliche Intelligenz: Mittels maschinellen Lernens wird dem Roboter beigebracht, die Umgebung zu verstehen und mit ihr zu interagieren. Steht der Laufroboter vor einem Hindernis, erkennt er mit Hilfe einer Kamera und eines künstlichen neuronalen Netzwerks, um welche Art von Hindernis es sich handelt. Er führt dann die Bewegungen aus, die er zuvor im Training als erfolgversprechend erlernt hat. Fast wie ein wissbegieriger Hund. Kein Wunder also, heisst der vierbeinige Roboter «ANYmal» – ein Kunstwort bestehend aus «überall» (eng: anywhere) und «Tier» (eng: animal).
+
+## Auszeichnung für einen Pionier
+
+Die Grundlagenforschung aus Hutters Team findet nicht nur Anwendung im Bereich der Laufrobotik. «Die Technologien zur Autonomie, der Umgebungswahrnehmung, oder das maschinelle Lernen zur Regelung nutzen wir heute zum Beispiel zur Automatisierung von Bagger- und Forstmaschinen, für Roboter in der Landwirtschaft, oder für Logistikaufgaben», ergänzt Hutter.
+
+Hutters Arbeit zur Mobilität und Autonomie von KI-gesteuerten Laufrobotern haben die Robotik-Forschung grundlegend verändert und gleichzeitig dazu beigetragen, die ETH Zürich als weltweit führende Institution in der Robotik zu verankern. Für sie erhält Hutter den Rössler-Preis in diesem Jahr. Die Auszeichnung würdigt nicht nur seine wissenschaftlichen Pionierleistungen – die revolutionäre, auf maschinellem Lernen basierende Fortbewegungssteuerung ist heute ein Standard, der an der ETH entwickelt wurde. Die Auszeichnung würdigt auch das hohe Niveau, das Hutter in den Bereichen Technologietransfer, Unternehmertum sowie Community- und Projektinitiativen erreicht hat. Hutter habe es geschafft, «ein weites Kooperations-Netz zu spannen», erklärt ETH-Zürich-Präsident Joël Mesot. «Es ist eine grosse Ehre, mit dem Rössler-Preis 2024 ausgezeichnet zu werden. Ich habe Herrn Rössler vor mehr als zehn Jahren kennengelernt, als ich noch ganz am Anfang meiner Forschung stand. Damals hätte ich nie gedacht, dass ich einmal eine solche Auszeichnung erhalten würde», sagt Marco Hutter.
+
+## Kreativität und interdisziplinäres Fachwissen
+
+Hutter interessierte sich schon früh dafür, wie Maschinen gebaut sind, wie Mechaniken funktionieren. Kein Wunder, dass es ihn an die ETH Zürich zog, wo er seine Bachelor-Arbeit bereits über Mikrorobotik schrieb, gefolgt von einer Semesterarbeit und einem Industriepraktikum über Regelungssysteme. Aufgrund seiner herausragenden Leistungen im Bachelor-Studium wurde er im Master mit einem der ersten Exzellenz-Stipendien der ETH Foundation gefördert. Seine Master-Arbeit schrieb Hutter im Bereich Modellierung und Laufrobotik bei Roland Siegwart, Professor für Autonome Systeme.
+
+So erwarb er wichtige Fähigkeiten, um neue Fragen in der Robotik zu erforschen. «Wenn mich jemand fragt, was ich mache, antworte ich oft: Spielen für Erwachsene. Ich glaube, dass man das Spielerische braucht, um kreativ neue Ideen zu entwickeln – und gleichzeitig macht die Arbeit sehr viel Spass», führt Hutter aus. Dabei sei ein solides theoretisches Grundwissen unerlässlich – sei es in Mathematik, Regelungstechnik oder maschinellem Lernen. Robotik eben, ein interdisziplinäres Feld. «Wir arbeiten mit Umweltwissenschaftler:innen, Architekt:innen , Geolog:innen, und Expert:innen aus dem Baubereich und vielen anderen Disziplinen zusammen. Das macht die Arbeit sehr interessant. Man muss offen sein und fachübergreifend arbeiten können», ergänzt er.
+
+## Technologietransfer und Unternehmergeist
+
+Vor zehn Jahren erhielt Marco Hutter ein Pioneer Fellowship der ETH Foundation und gründete damit zusammen mit seinem Forscherteam das damalige Start-up ANYbotics. Das Pioneer Fellowship half, die Laufrobotertechnologie von der Erforschung bis zur kommerziellen Anwendung zu bringen. Der Technologietransfer von der Wissenschaft in die Praxis ist ein wichtiges Element in der Arbeit von Hutter. Er beschränkt sich nicht auf theoretische, simulationsbasierte oder konzeptionelle Forschung, sondern geht über den Konzeptnachweis hinaus und zeigt Lösungen auf, die in realistischen Szenarien funktionieren. So ist Hutter Inhaber von sechs Patenten und hat in seiner Gruppe einen starken Unternehmergeist entwickelt, aus dem bisher acht ETH-Spin-offs hervorgegangen sind.
+
+Ein aktuelles Beispiel für den Realitätscheck der neusten Forschung im Bereich mobile Manipulation ist die Teilnahme am diesjährigen Cybathlon, bei dem es darum geht, wie Menschen mit körperlichen Einschränkungen durch robotische Assistenzsysteme unterstützt werden können. Der Roboter kann auf Befehl einen Apfel vom Tisch nehmen und zum Essen reichen, eine Tür öffnen oder etwas aus dem Briefkasten holen. Für solche Aufgaben war bisher immer eine zusätzliche Person nötig.
+
+## Von der Munitionsräumung bis zum Mars
+
+Das eröffnet neue Möglichkeiten für die Autonomie und Selbstbestimmung von Menschen mit körperlichen Einschränkungen, und es gibt immer mehr solcher Beispiele. Doch Hutter zügelt die Erwartungen etwas: Trotz dieser Fortschritte seien die Systeme im Vergleich zu Menschen oder Tieren immer noch sehr einfach. «Ziel ist es daher, Roboter immer mehr mit einem besseren Verständnis ihrer Umgebung zu verknüpfen. Ein Roboter in einem Gebäude muss zum Beispiel wissen, was eine Tür ist und wie sie funktioniert, oder dass er, um einen Apfel zu holen, sich wohl am ehesten in die Küche begeben muss», ergänzt Hutter.
+
+Marco Hutter und sein Team engagieren sich intensiv in verschiedenen Bereichen, in denen sie ihre Systeme einsetzen können, häufig in Bereichen, wo es für Menschen zu gefährlich ist wie bei der Munitionsräumung im ehemaligen Munitionslager Mitholz.
+
+Schon lange hegt Hutter den Wunsch, Roboter der ETH im Weltraum einzusetzen. Über die Jahre hat er immer wieder gezeigt, dass Laufroboter Steigungen und Hindernisse viel besser überwinden können als solche mit Raupen oder Rädern. «Das ist zwar komplex, aber die Technologie ist inzwischen so weit, dass sie diese Herausforderungen meistern kann», sagt Hutter. Deshalb sei es heute möglich, über neue Anwendungen nachzudenken. Zum Beispiel könnten Roboter in Krater auf dem Mars oder dem Mond klettern, dort Erkundungen durchführen und Daten liefern, zu denen wir bisher keinen Zugang hatten.
+
+## Der Rössler Preis
+
+Max Rössler vermachte 2008 der ETH Zürich Foundation zehn Millionen Franken. Mit dem Zins aus diesem Vermögen stiftet er einen jährlichen Förderpreis für ETH-Professor:innen in der Expansionsphase ihrer Forschungskarriere. Der Preis ist mit 200‘000 Franken die höchstdotierte Auszeichnung für Forschung an der ETH Zürich und wird jeweils am «Thanks Giving»-Anlass der externe Seite ETH Zürich Foundation verliehen. Der Preisstifter studierte an der ETH Zürich Mathematik und doktorierte über Bahnberechnungen in der Raumfahrt. Nach einem Forschungsaufenthalt an der Harvard University kehrte er an die ETH zurück und war von 1967 bis 1978 Senior Scientist und Lehrbeauftragter am Institut für Operations-Research. Später war er in der Vermögensverwaltung tätig, ehe er sich aus dem Geschäftsleben zurückzog. 2013 verlieh ihm die ETH Zürich den Titel eines Ehrenrats.
+
+Weitere Informationen zum externe Seite Rössler-Preis .
+

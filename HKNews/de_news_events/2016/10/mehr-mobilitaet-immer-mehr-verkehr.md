@@ -1,0 +1,46 @@
+# mehr-mobilitaet-immer-mehr-verkehr
+
+**Source:** de_news_events/2016/10/mehr-mobilitaet-immer-mehr-verkehr.html
+
+## Der Raum als früher Feind des Menschen
+
+Wie heisst es so schön: Fehler machen sei nicht so tragisch, so lange man sie nicht wiederholt. Es ist natürlich oft Interpretationssache, was ein Fehler ist – gerade in der Verkehrsplanung, wo seit Jahren ideologisch und emotional darüber debattiert wird, wie dem permanent wachsenden Verkehrsaufkommen zu begegnen sei. Ich befasse mich in meiner Dissertation mit der Entwicklung des Verkehrsnetzes und Reisens in Europa vom Mittelalter bis heute. Und bei einigem, was Politiker, Bürger und Medien heutzutage beschäftigt, kommen mir unweigerlich Déjà-vus. Werfen wir also einen Blick in die Geschichte der Mobilität.
+
+Fernand Braudel, der grosse französische Historiker, beschrieb 1966 in seinem Standardwerk [1] das räumlich beschränkte Leben der einfachen Bevölkerung im ausgehenden Mittelalter. Der Alltag spielte sich an Ort und in Fussmarsch-Distanz ab. Man reiste selten, gefährlich und mühsam – und sicher nicht zum Vergnügen. Die Verkehrsinfrastruktur war schlecht und beschränkte sich auf ehemalige römische Strassen, Handelspfade und gewisse schiffbare Flussabschnitte. Gemeinden waren oft isoliert, das Potenzial ökonomischer Entwicklung dementsprechend mager. Braudel nannte den Raum den Feind Nummer eins des Menschen, nicht Seuchen oder Krankheiten.
+
+Damals lebte die grosse Mehrheit in Dörfern und nicht in Städten. Doch in letzteren wurden Technik und Wissen vorangetrieben. So führte genauere Messtechnik zu besseren Strassen, und dank Anbau im Dreizelgensystem stiegen die Erträge von Nahrungs-und Futtermitteln für Pferde. Die Reisegeschwindigkeit nahm zu. Quasi als Nebeneffekt erhöhte sich der Wohlstand der Städte, was wiederum Leute anzog. Als Folge davon setzte ein reger Austausch zwischen Stadt und Umland einerseits (Nahrung, Arbeit, Handwerk) und zwischen verschiedenen Städten anderseits ein. Er diente nicht nur dem Handel, sondern auch der Kommunikation. Erste Postunternehmen begannen neben Briefen auch Personen zu transportieren.
+
+In der Neuzeit nahmen die Verbindungen zwischen Städten für Reisen zu Pferd oder gar Kutschen inflationär zu. Viele Städte wurden vom Verkehr regelrecht überschwemmt, obwohl das Reisen immer noch etwas für Privilegierte war. Die Londoner beklagten sich über das permanente und schlafraubende Pferdehufgeklapper und die gefährlichen Zustände in den Gassen der City. Also wurden die Verkehrswege verbreitert. Doch statt dass sich die Situation entschärfte, nahm der Strom an Pferden und Kutschen – inklusive Tonnen an Mist – nur noch zu. Es gab Zeiten, da getrauten sich feine Damen wochenlang gar nicht mehr vor die Haustüre.
+
+## Von der Eisenbahn zur Autobahn
+
+Merkliche Besserung brachte erst die Eisenbahn nach 1800. Sie verkürzte nicht nur die Reisezeiten massiv, sie machte das Reisen für die breiten Massen erschwinglich. Der internationale Waren- und Personentransport etablierte sich. Als 1844 die erste Eisenbahn der Schweiz aus dem Elsass in Basel einfuhr, sollen die Leute in heller Panik vor Rauch, Feuer und Lärm auf die Strassen gerannt sein. Das gleiche Jahr war aber auch in anderer Hinsicht wichtig. 1844 wütete die Kartoffelfäule in Nordamerika. Nur wenige Monate später, im Juni 1845, tauchte diese Krankheit zum ersten Mal in Europa auf und zwar im heutigen Belgien. Die Sporen mussten mit einem Dampfschiff, dem Gegenstück der Eisenbahn auf Wasser, über den Atlantik mitgereist sein. Anfang September war schon das komplette Westeuropa betroffen. Die Nebenwirkung einer erst gerade frisch mobil gewordenen Welt liess Millionen von Europäerinnen und Europäern verhungern. (Für ein modernes «Pendant» zur Kartoffelfäule siehe [2]).
+
+Etwas mehr als 100 Jahre später erfasste die Massenmotorisierung die Schweiz. Wer etwas auf sich hielt, besorgte sich ein Auto, und die Schweiz beschloss, das ganze Land mit einem Autobahnnetz zu erschliessen. Die Kantone realisierten eine Umfahrung nach der anderen, Baselland war da keine Ausnahme. 1970 eröffnete die A2 quer durch den Kanton, nur ein paar Jahre später war die Umfahrung Liestal fertig gestellt. Zur gleichen Zeit liess sich der deutsche Politiker Hans-Jochen Vogel mit dem Satz «Wer Strassen sät, wird Verkehr ernten» zitieren – ein Spruch, der auch heute noch gerne verwendet wird. Und Vogel sollte auf seine Weise Recht behalten. Denn bereits in den 1990er staute sich der Verkehr auf Liestals Hauptstrasse wieder genau gleich wie in den 1960er Jahren – trotz Umfahrung. [3]
+
+Und heute? Die Urbanisierung, ein globaler Megatrend, geht weiter. In den Städten streitet man sich nach wie vor um die richtige Verkehrspolitik. So sind es zwar nicht mehr Pferdemist und –lärm, sondern zum Beispiel Autoparkplätze, an denen sich die Geister scheiden. Der Ausbau der Strassen sowohl innerhalb der Siedlungsgebiete wie auch über Land ist nach wie vor ein probates Mittel, das auch in der Schweiz verlässlich politische Mehrheiten findet. Was im London des 18. Jahrhunderts und Baselland des 20. Jahrhunderts fehlgeschlagen ist, soll nun irgendwie doch funktionieren – so zumindest werden die Milliardeninvestitionen gerechtfertigt.
+
+Ich bin kürzlich auf einen lesenswerten Aufsatz aus Nordamerika [4] gestossen, der Hans-Jochen Vogels Eindruck auch wissenschaftlich bestätigt: Mehr Verkehrsinfrastruktur ist keine Lösung für Stau. Das trifft ganz offensichtlich auch auf die Eisenbahn zu, die mit Bahn 2000 bereits «Opfer ihres eigenen Erfolgs ist» – dennoch würde die Schweiz ohne Eisenbahn wohl gar nicht mehr funktionieren. [5]
+
+Das immer schnellere und leistungsfähigere Verkehrssystem hat der Schweiz zweifellos Wohlstand und Vielfalt gebracht. Allerdings, und das macht die Beschäftigung mit Mobilität und Verkehr auch so spannend, sind dabei auch eine Vielzahl an «unerwarteten Nebenwirkungen» für Umwelt und Gesellschaft aufgetreten. Und wie schon oft in den vergangenen zweihundert Jahren steht der Verkehrssektor nun erneut vor einem rasanten Wandel: Die digitale und autonome Mobilität, in der selbstfahrende Autos dank optimaler Auslastung die Strassen entschlacken.
+
+Ob Digitalisierung und technologischer Fortschritt tatsächlich die erwarteten Effizienzgewinne bringen, oder noch mehr Bedürfnisse erzeugen, wird sich weisen. [6] Unabhängig davon sollten wir uns als Gesellschaft fragen, was uns der Mehrverkehr tatsächlich bringt.
+
+Aus meiner Sichtwäre es klug, Verkehr und Mobilität stets im Kontext von Gesellschaft, Wirtschaft und Umwelt zu denken und Kosten sowie Nutzen umfassend zu analysieren. Nur sind viele Effekte zum Teil stark zeitversetzt und in Realität Kreisläufe und nicht einfache Ursache-Wirkungsbeziehungen. Je intensiver wir unsere Mobilität leben, desto umfassender und tiefgreifender werden auch die ausgelösten Umwälzungen – die negativen, aber zum Glück auch die positiven.
+
+Eine Patentlösung in diesem Dilemma sehe ich im Moment keine – aber Sie vielleicht?
+
+## Weiterführende Informationen
+
+[1] Ferdinand Braudel: La Méditerranée et la Monde Méditerranéen à l'Epoque de Philippe II ( externe Seite UCpress )
+
+[2] Was Mitte 19. Jahrhundert die Eisenbahn war, ist heute eindeutig das Flugzeug. Diesen Sommer hatten viele Beeren- und Steinobstproduzenten sehr schlechte Ernten. Schuld ist zu einem grossen Teil die Kirschessigfliege. Sie stammt ursprünglich aus Asien und wurde mit grosser Wahrscheinlichkeit durch den internationalen Fruchthandel per Flugzeug in die Schweiz eingeschleust. Diese Ernteausfälle führen zu keiner Hungerkrise, aber doch zu einem grossen wirtschaftlichen Schaden.
+
+[3] Geschichte Basel-Land: externe Seite Meher Strasse, mehr Verkehr
+
+[4] The Fundamental Law of Road Congestion: externe Seite Evidence from US Cities
+
+[5] Gesamtwirtschaftliche Effekte des öffentlichen Verkehrs mit besonderer Berücksichtigung der Verdichtungs- und Agglomerationseffekte: externe Seite PDF
+
+[6] Lesen Sie dazu diesen Meinungsbeitrag von Paul Schneeberger in der NZZ vom 13.10.2016: externe Seite Mobilität ist kein Selbstzweck
+

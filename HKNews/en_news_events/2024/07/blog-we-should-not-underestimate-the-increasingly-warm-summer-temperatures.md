@@ -1,0 +1,56 @@
+# blog-we-should-not-underestimate-the-increasingly-warm-summer-temperatures
+
+**Source:** en_news_events/2024/07/blog-we-should-not-underestimate-the-increasingly-warm-summer-temperatures.html
+
+## Main article
+
+What’s happened to the summer? I've been asked this question a lot over the past few weeks. Just like May, June was changeable, wet and lacking in sunshine. But it wasn’t too cold. According to MeteoSwiss, the average daily temperature in June was still 0.4 degrees Celsius warmer than the average for the current reference period from 1991 to 2020. 1
+
+## About the author
+
+Dominik Schumacher is a postdoc at the Chair of Land-Climate Dynamics at ETH Zurich and researches extreme events in climate change.
+
+June 2024 nevertheless felt cool, partly because it tended to be colder during the day and warmer at night due to cloud cover. What’s more, we compared it with recent years that featured record-high June temperatures. However, it would be presumptuous to use a cool June as the basis upon which to draw conclusions about the entire summer. As a climate researcher who deals with extreme events in an increasingly warmer world, I would be surprised if this summer didn’t turn out to be hot in Switzerland after all.
+
+## Clean air increases warming
+
+A look at the trend over the last three decades shows that summers in Europe and Switzerland are warming up faster than anywhere else in the world. Virtually the entire 2.3 degrees Celsius increase in temperature that we have observed in summers since the late 19th century has taken place between the 1980s and the present day. 2 New findings now indicate that Europe and Switzerland are heating up even more than previously expected.
+
+In a recently published study conducted with ETH Professor Sonia Seneviratne and researchers at the Institute for Atmosphere and Climate, we compared the warmer summers in Europe between 1980 and 2022 with the projections of regional climate models. We found that most models fail to fully reflect the observations. 3,4 This means that simulated warming is less than observed – the models are too optimistic and lag about 15 years behind the actual degree of warming. The reason for this has to do with the improved air quality over Western Europe.
+
+Global climate models use grid cells of around 100 km in length and represent Switzerland with only a handful of pixels – the Alps, which have a major influence on Switzerland’s weather and climate, are barely recognisable.
+
+Regional climate models calculate atmospheric events at a much higher resolution and refine global climate information with detailed regional simulations. They are indispensable for planning adaptation and climate protection measures, especially for small countries with complex topographies. Regional models also form the basis for the national climate services of several European countries, including Switzerland.
+
+However, most of these models fail to consider the fact that man-made air pollution from aerosols in Europe has been declining since its peak around 1980. 3,7
+
+Aerosols are very fine particles suspended in the air that are produced, for instance, when we burn fossil fuels. They offset the warming caused by greenhouse gases by attenuating short-wave sunlight. Thanks to air pollution control measures, aerosol emissions have been falling for years, and their cooling effect is on the decline. The increasingly clean air is masking the warming less and less. 5,6
+
+Although global climate models account for the changes in aerosols, regional climate models usually assume constant concentrations for the sake of simplicity. As a result, the increasing temperatures in Switzerland and its neighbouring countries have been underestimated to date, as has also perhaps the need for the models’ adaptation.
+
+## Temperature matters
+
+Regional models that neglect to factor in decreasing aerosols currently underestimate the actual summer warming by more than 0.5 degrees Celsius on average. Under a strong greenhouse gas scenario, this discrepancy could increase by a further degree in Western Europe towards the end of the century. In the case of heatwaves over Western Europe, the intensification is underestimated even more: between today and 2100 it is likely to be 1 to 1.5 degrees Celsius.
+
+1.5 degrees Celsius warmer than expected. Does this even matter during a heatwave? In fact, every tenth of a degree is relevant in the case of extreme heat. This is because heat mortality increases exponentially with temperature, which is why even slightly higher temperatures have an even greater impact on people and society. 8
+
+And what about the summer? Even if we haven’t yet experienced a heatwave this summer in Switzerland, the next heatwave is sure to come, and future events could eclipse what we have experienced so far. 9 However, we are inadequately prepared for extreme heat or a combination of heat and drought. We should not underestimate the increase in summer temperatures.
+
+1 MeteoSwiss Blog The changeable and wet weather does not disprove global warming
+
+2 MeteoSwiss Temperature and precipitation trends
+
+3 Schumacher, D. L., Singh, J., Hauser, M., Fischer, E. M., Wild, M., and Seneviratne, S.I. (2024): Exacerbated summer European warming not captured by climate models neglecting long-term aerosol changes. Commun. Earth Environ, 5, DOI: 10. 1038/s43247-024-01332-8
+
+4 USYS News: Regional climate models for Europe were previously too optimistic
+
+5 Wild, M., Gilgen, H., Roesch, A., Ohmura, A., et al. (2005): From Dimming to Brightening: Decadal Changes in Solar Radiation at Earth's Surface. Science , 308, 847-850, DOI: 10.1126/science. 1103215
+
+6 Wild, M., Wacker, S., Yang, S., Sanchez-Lorenzo, A. (2021): Evidence for Clear-Sky Dimming and Brightening in Central Europe. Geophys. Res. Lett. 48, e2020GL092216, DOI: 10. 1029/2020GL092216C
+
+7 Gutierrez, C., Somot, S., Nabat, P., Mallet, M., et al. (2020): Future evolution of surface solar radiation and photovoltaic potential in Europe: investigating the role of aerosols. Env. Res. Lett. 15, 034035, DOI: 10. 1088/1748-9326/ab6666
+
+8 Vicedo-Cabrera, A.M., Scovronick, N., Sera, F. et al. The burden of heat-related mortality attributable to recent human-induced climate change. Nat. Clim. Chang. 11, 492-500 (2021). DOI: 10. 1038/s41558-021-01058-x
+
+9 Der Standard: High probability of even more extreme heatwaves in Europe
+

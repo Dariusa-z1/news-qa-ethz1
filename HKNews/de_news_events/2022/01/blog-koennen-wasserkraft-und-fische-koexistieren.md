@@ -1,0 +1,54 @@
+# blog-koennen-wasserkraft-und-fische-koexistieren
+
+**Source:** de_news_events/2022/01/blog-koennen-wasserkraft-und-fische-koexistieren.html
+
+## Main article
+
+Wasserkraft ist weltweit auf dem Vormarsch. Die erneuerbare Energiequelle liefert knapp 16 Prozent des globalen Stroms und soll sich bis 2050 gut verdoppeln. Über 3700 neue Staudämme sind im Bau oder geplant 1 , vor allem in Südamerika, Südostasien und Afrika. Auch in der Schweiz sieht die Energiestrategie 2050 einen weiteren Ausbau des Sektors an, um die Klimaziele zu erreichen. 2 Doch Wasserkraft ist mit hohen Umweltkosten verbunden.
+
+## Tod durch Turbine
+
+Weltweit ist ein Drittel aller Süsswasserfischarten vom Aussterben bedroht. Eine der Hauptursachen sind Wasserkraftwerke und Staudämme: Sie verändern die Lebensräume in den Flüssen, blockieren die Wanderrouten von Fischen, töten und verletzen Fische. Ich habe vor kurzem das Fischsterben durch Wasserkraftwerke in Brasilien untersucht. In den letzten zehn Jahren wurden Hunderte von Tonnen an Fischen getötet. 3
+
+Auch in Europa und in der Schweiz verenden Fische an Wasserkraftwerken. Das Fischsterben bedroht nicht nur die Biodiversität, sondern verursacht der Industrie mitunter hohe Kosten 3 und verringert die Umweltqualität für die gesamte Gesellschaft.
+
+Die weltweit wachsende Wasserkraft steht im Widerspruch zu globalen und nationalen Naturschutzzielen, welche den Ausbau des Sektors behindern können. 4 Das ist das Dilemma zwischen Wasserkraft und Fischen. Es führt oft zu verhärteten Fronten zwischen Anspruchsgruppen und zu politischen Blockaden. Das müssen wir besser machen.
+
+Ich halte es für möglich, die Wasserkraft auszubauen und gleichzeitig die Fischpopulationen zu erhalten. Dazu müssen wir als Gesellschaft anerkennen, dass wir auf erneuerbare Energien ebenso angewiesen sind wie auf gesunde Süsswasser-Ökosysteme – auch wenn sich das beisst. Die Frage ist also nicht entweder oder, sondern wie man beides in Einklang bringt. Anstatt erneuerbare Energien und Naturschutz gegeneinander auszuspielen, sollten wir die unterschiedlichen Interessen zusammenführen. Kurz: Wir müssen Kompromisse finden.
+
+## Einen fairen Mittelweg finden
+
+Kompromisse efordern gegenseitige Zugeständnisse. Das ist nicht immer einfach, sind doch potenzielle Standorte für Wasserkraft wie etwa frei fliessende Flüsse auch Hotspots für den Schutz von Fischen – und selbst mit ökologischen Massnahmen sind Staudämme nie wirklich fischfreundlich.
+
+Hier kann pragmatisches Denken helfen, Handlungsspielräume zu öffnen: Flüsse wurden über Jahrhunderte hinweg verändert, so dass nicht alle Gebirgsbäche ökologischen gleich wertvoll sind; einige könnten entbehrlich sein. Im Gegenzug muss Wasserkraft nicht jedes Tal fluten und könnte Standorte für neue Staudämme sorgfältiger auswählen, um den ökologischen Schaden zu minimieren.
+
+Das Dilemma zwischen Wasserkraft und Fischen lässt sich nur lösen, indem man die relevanten Interessen einbindet und gemeinsam getragene Lösungen sucht. Ich halte folgende Grundsätze für hilfreich:
+
+1. Integrative Planung ist entscheidend. Sie erfordert kompetente Behörden, die bei der Entwicklung von Projekten mit unterschiedlichem Forderungen umgehen können. Eine gute Planung sollte sämtliche Anspruchsgruppen einbeziehen, alternative Standorte sowohl ökologisch als auch energiewirtschaftlich bewerten und Handlungsoptionen ausloten. Die Priorisierung technisch geeigneter Standorte mit geringen ökologischen Folgen kannn Entscheidungsprozesse beschleunigen. 5
+
+2. Energie- und Naturschutzpolitiken sollten anpassungsfähig und auf dem aktuellen Stand von Wissenschaft und Technik sein, um flexible und effektive Lösungen zu ermöglichen. Allzu starre Vorschriften führen hingegen oft in eine Sackgasse.
+
+3. Transparenter Daten- und Erfahrungsaustausch zwischen Projekten und Regionen kann massgebend zur Lösung des Wasserkraft-Fisch-Dilemmas beitragen. Meiner Meinung nach wäre eine globale Wissensplattform für die Verbreitung bewährter Praktiken sinnvoll. Beteiiligte sollten Informationen offen mit der Gesellschaft teilen.
+
+Hier ist ein vielversprechendes Beispiel: Nachdem in der Schweiz neue Wasserkraftwerke jahrelang blockiert worden waren, trafen sich Stromunternehmen, Umweltverbände und kantonale Behörden im Sommer 2020 zu einem runden Tisch. Die Akteure haben sich seither auf eine gemeinsame Bewertungsmethode sowie auf eine Liste von fünfzehn potenziellen Projekten für den Ausbau der Wasserkraft geeinigt. 6
+
+Der Kompromiss wurde möglich, weil jedes Projekt an einem anderen Ort Ausgleichsmassnahmen zum Schutz von Biodiversität und Landschaft vorsieht – zusätzlich zu den baulichen Massnahmen, um die Kraftwerke weniger schädlich für Fische zu machen. Das deckt sich mit meinen Erfahrungen aus Brasilien: Oft sind die involvierten Parteien bereit, Kompromisse einzugehen, wenn sie die Möglichkeit erhalten, solche gemeinsam zu erarbeiten.
+
+Wir müssen jetzt handeln, wenn wir die Stromversorgung decken und Fischpopulationen weltweit erhalten wollen. In grossen Flusssystemen wie dem Amazonas, dem Mekong und dem Kongo stehen nicht nur die Stromversorgung und die Fischvielfalt auf dem Spiel, sondern auch die Ernährungssicherheit. Je umsichtiger wir Wasserkraft planen, desto ausgewogener werden die Kompromisse sein, um den Zielkonflikt zwischen Ausbau und Schutz zu entschärfen.
+
+## Referenzen
+
+1 Zarfl et al. 2015. externe Seite A global boom in hydropower dam construction . Aquatic Sciences 77(1):161-170 doi:10.1007/s00027-014-0377-0.
+
+2 In der Schweiz liefern derzeit mehr als 670 Wasserkraftwerke rund 57 Prozent des inländischen Stroms. Siehe: Bundesamt für Energie: externe Seite Wasserkraft and externe Seite Energiestrategie 2050
+
+3 Unser Bericht: Fish mortality at Hydropower Plants – Identifying Problems and Co-Creating Solutions mit Beispielen von brasilianischen Geldstrafen von über 100 Millionen Schweizer Franken in zehn Jahren.
+
+4 Zum Beispiel bieten das externe Seite Schweizerische Gewässerschutzgesetz und die externe Seite Gewässerschutzverordnung sowie die externe Seite Europäische Wasserrahmenrichtlinie eine rechtliche Grundlage zum Schutz von Süsswasserökosystemen, einschliesslich geeigneter Lebensräume für Fische.
+
+5 Diese Planungsinstrumente haben wir für die Standortwahl von Kleinwasserkraftwerken in Brasilien entwickelt: Romanelli et al, 2018. externe Seite Site Selection for Hydropower Development: A GIS-Based Framework to Improve Planning in Brazil. Journal of Environmental Engineering 144(7) doi:10.1061/(asce)ee.1943-7870.0001381.
+
+## Zum Autor
+
+Luiz Silva Wissenschaftler am Lehrstuhl für Grundwasser und Hydromechanik (Stocker Lab), ETH Zürich
+

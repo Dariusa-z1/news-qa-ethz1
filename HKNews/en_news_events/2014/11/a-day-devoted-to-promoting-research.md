@@ -1,0 +1,32 @@
+# a-day-devoted-to-promoting-research
+
+**Source:** en_news_events/2014/11/a-day-devoted-to-promoting-research.html
+
+## Main article
+
+Anyone opting for a career in science needs to take many things into account: international mobility and networking are very important, as well as identifying new research areas and implementing independent projects. The route to the top, i.e. to becoming a professor, however, is difficult and very selective.
+
+Young researchers are not alone on their career path: colleges and promotional institutions support them both in furthering their career and in implementing projects or attending programmes. The Swiss National Science Foundation (SNSF) is the biggest organisation for funding research in Switzerland. It funds about one quarter (23%) of research and development expenditure of the public authorities. Half (52%) of all funding attracted by ETH from third parties in project-driven research funding comes from the SNSF.
+
+The promotion possibilities are aligned with the various career phases of the researchers. Accordingly, the eligibility terms differ depending on the promotional instruments. To offer young researchers an overview of the existing promotion possibilities, the Swiss National Science Foundation regularly organises Research Days. During these events, grassroots researchers are given practical information on the application and selection process and can ask the persons in charge questions.
+
+The Swiss National Science Foundation visited ETH Zurich on Wednesday. There was major interest in Research Day. The young researchers were huddled together around the information stands in the hall of the main building during their lunch break. The Audimax with its 430 seats was also full.
+
+Roland Siegwart, Vice President Research and Corporate Relations of ETH Zurich, welcomed the grassroots researchers. He noted that excellence, freedom of research, trust and a culture of empowerment are required to promote talent in research.
+
+Nicholas Spencer, the President of the ETH Research Commission, showed how ETH-internal funding supplements that of the SNSF by explaining the ETH Grants, ETH Fellows, Seed Projects and Pioneer Fellows. He considers it to be important that the work involved in filing an application and the chances of an application being successful have a good ratio.
+
+Martin Vetterli, the SNSF Research Council President, and Angelika Kalt, Deputy Director of the Swiss National Science Foundation, then explained that the SNSF’s career funding will newly focus on researchers from the level of post-docs and assistant professors. In the future, the Swiss National Science Foundation plans to increasingly support the researchers at an early stage of their careers and to enable them to pursue free and independent research.
+
+Like on Saturday in his speech at ETH Day , Martin Vetterli showed, by referring to the example of research publications and patents, that the international networking of science in Switzerland is the country’s major strength. It would be extremely detrimental to research in Switzerland if the country were to isolate itself, he said.
+
+One funding area, which ETH has expanded in recent years under Roland Siegwart and which the federal administration also plans to strengthen, is the transition area between basic research and market-driven innovation. Specifically, this involves promoting technology development and entrepreneurship in students, doctoral students and young researchers.
+
+Independence as a quality
+
+Sebastian Bonhoeffer, Professor of Theoretical Biology (D-USYS), Stefanie Hellweg, Professor of Ecological Systems Design (D-BAUG), Antonio Togni, Professor of Organometallic Chemistry (D-CHAB) and Sabine Schneider, Professor of Contemporary German Literature (University of Zurich), then answered questions in the Audi Max. All four assess applications on behalf of the Swiss National Science Foundation. Antonio Togni recommended grassroots researchers to show in their application how independent and innovative their research is and how new their project is.
+
+As a general rule, scientific relevance, originality and topicality as well as the suitability of the method and feasibility are important when research project applications are considered. Furthermore, the quality of the research group selected counts when it comes to mobility grants.
+
+As a rule, the tools are open to all researchers with a link to Switzerland and for all research disciplines and subjects, i.e. also for people who work in the industry for some time or conduct interdisciplinary or application-driven research. Following this discussion, the grassroots researchers had the opportunity to get practical tips on how to successfully file an application for funding.
+

@@ -1,0 +1,24 @@
+# schnellere-verschraenkung-entfernter-quantenpunkte
+
+**Source:** de_news_events/2015/12/schnellere-verschraenkung-entfernter-quantenpunkte.html
+
+## Weit entfernte Quantenpunkte
+
+In vielen zukünftigen Informations- und Telekommunikationstechnologien wird wahrscheinlich die sogenannte Verschränkung, ein erstaunlicher Effekt der Quantenphysik, eine wichtige Rolle spielen. Die Verschränkung von zwei Quantenobjekten führt dazu, dass Messungen an einem der Objekte augenblicklich die Eigenschaften des anderen festlegen – ohne dass Informationen zwischen den beiden ausgetauscht wurden.
+
+Albert Einstein bezeichnete diese seltsame Nichtlokalität noch ablehnend als «spukhafte Fernwirkung». Inzwischen haben sich Physiker längst damit angefreundet, und sie versuchen nun, sie nutzbringend anzuwenden, etwa um damit Daten abhörsicher zu übertragen. Dazu ist es unabdingbar, eine Verschränkung räumlich weit entfernter Quantenteilchen herbeizuführen. Das ist nicht einfach und funktioniert in der Regel recht langsam. Physiker um Atac Imamoglu, Professor am Institut für Quantenelektronik der ETH Zürich, zeigten jetzt ein Verfahren auf, mit dem sich tausendmal mehr Verschränkungen pro Sekunde herstellen lassen als bisher.
+
+Die Nachwuchsforscher Aymeric Delteil, Zhe Sun und Wei-bo Gao verwendeten für ihre Experimente zwei sogenannte Quantenpunkte, die sie in fünf Metern Entfernung voneinander im Labor platzierten. Quantenpunkte sind winzige, nur wenige Nanometer grosse Strukturen innerhalb eines Halbleitermaterials, in denen Elektronen wie in einem Käfig gefangen sind. Die quantenmechanischen Energiezustände der Elektronen können als Spins dargestellt werden, also als Pfeile, die nach oben oder unten zeigen. Sind die Spinzustände verschränkt, so kann man aus einer Messung an einem der Quantenpunkte herleiten, in welchem Zustand sich der jeweils andere befindet. Zeigt der Spin des ersten Quantenpunktes nach oben, so zeigt der andere nach unten, und umgekehrt. Vor der Messung allerdings weiss man von keinem der beiden, in welche Richtung er zeigt: Sie befinden sich in einer quantenmechanischen Überlagerung beider möglicher Spin-Kombinationen.
+
+Um die beiden Quantenpunkte miteinander zu verschränken, machten sich die ETH-Forscher das Prinzip der «Verkündigung» zunutze. «Es gibt derzeit leider praktisch keine Möglichkeit, weit entfernte Quantenobjekte mit Sicherheit und auf Knopfdruck miteinander zu verschränken », erklärt Imamoglu. Stattdessen muss man die Verschränkungszustände nach dem Schrotschussverfahren erzeugen, indem man die Quantenpunkte immer wieder mit Lichtteilchen beschiesst, die dann wieder zurück gestreut werden. In einigen wenigen Fällen kommt es dann zu Zufallstreffern: Eines der Lichtteilchen löst einen «Klick» in einem Detektor aus, und die so entstandenen Spinzustände sind tatsächlich verschränkt.
+
+Imamoglu und Kollegen machen sich diesen Trick zunutze. Sie schicken Laserpulse gleichzeitig an beide Quantenpunkte und messen die Lichtteilchen, welche diese daraufhin aussenden. Vorher haben sie allerdings dafür gesorgt, dass es unmöglich ist herauszufinden, von welchem Quantenpunkt die Lichtteilchen stammen. Der Klick im Detektor «verkündet» den Forschern dann, dass die Quantenpunkte in der Tat durch die Laserpulse verschränkt wurden und signalisiert ihnen, dass sie nun beispielsweise zur Übertragung von Quanteninformationen weiterverwendet werden können.
+
+Die Forscher testeten ihr Verfahren, indem sie die beiden Quantenpunkte etwa zehn Millionen Mal pro Sekunde mit Laserpulsen beschossen. Diese hohe Wiederholungsrate war möglich, da sich die Spinzustände von Quantenpunkten in wenigen Nanosekunden kontrollieren lassen. Aus den Messungen ergab sich, dass dabei 2300 Mal pro Sekunde verschränkte Zustände der Quantenpunkte entstanden.
+
+«Das ist schon mal ein guter Anfang», sagt Imamoglu und fügt hinzu, dass sich das Verfahren durchaus noch verbessern lässt. Um beispielsweise mehr als fünf Meter voneinander entfernte Quantenpunkte verschränken zu können, muss zunächst deren Kohärenzzeit verlängert werden. Diese gibt an, wie lange ein Quantenzustand bestehen bleibt, bevor er durch Einwirkung seiner Umgebung (etwa durch elektrische oder magnetische Felder) zerstört wird. Braucht das Verkündigungs-Lichtteilchen länger als die Kohärenzzeit, um zum Detektor zu fliegen, so verkündet ein Klick keine Verschränkung mehr. In künftigen Experimenten wollen die Physiker daher die einzelnen Quantenpunkte jeweils durch sogenannte Quantenpunkt-Moleküle ersetzen, deren Kohärenzzeiten hundert Mal länger sind. Auch eine Verbesserung der Nachweiswahrscheinlickeit der Lichtteilchen könnte zu einer noch besseren Verschränkungs-Ausbeute führen.
+
+## Literaturhinweis
+
+Delteil A, Sun Z, Gao W, Togan E, Faelt S, Imamoglu A: Generation of heralded entanglement between distant hole spins, Nature Physics, 21. Dezember 2015, doi: externe Seite 10.1038/nphys3605
+

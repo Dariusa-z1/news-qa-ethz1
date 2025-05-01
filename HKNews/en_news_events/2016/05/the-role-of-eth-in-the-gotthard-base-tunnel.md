@@ -1,0 +1,34 @@
+# the-role-of-eth-in-the-gotthard-base-tunnel
+
+**Source:** en_news_events/2016/05/the-role-of-eth-in-the-gotthard-base-tunnel.html
+
+## Main article
+
+Tunnel driving in the Tavetscher intermediate massif (Photo: Georgios Anagnostou / ETH Zurich)
+
+The origins of SBB and ETH Zurich are closely related. The railway entrepreneur Alfred Escher needed engineers for his ambitious project to link the north and south of Switzerland. Thus, the birth of the Gotthard line also marked the birth of ETH Zurich. The polytechnic opened its doors in Zurich in 1855, and work began on the Gotthard tunnel in 1872. Since then, ETH specialists have supported all types of tunnel construction, including the latest project. They include not only construction engineers but also geologists, geomatics engineers and IT specialists.
+
+“Tunnelling has been taught at ETH to a high standard for almost 100 years,” says Georg Anagnostou, professor of tunnelling. “This project would not have been possible without our graduates.” From 1990 until his retirement in 2002, Anagnostou’s predecessor Kalman Kovári served as chairman of the base tunnel civil engineering working group. The group assessed overall planning issues, such as the tunnel route and the selection of optimum tunnel system, in addition to technical construction issues.
+
+## Tunnelling through "flowing ground"
+
+The engineers were forced to address this key question during the early planning stage in the Piora syncline on the southern side of the Gotthard. Due to its geological nature, this fault zone had been dreaded by experts for years: no one was sure whether the sugary dolomite on the mountain’s surface extended all the way down to tunnel level. If so, the tunnel would have had to break through 30 to 50 metres of "flowing ground"; i.e. loose soil under high water pressure. This risk prompted the ETH scientists to perform extensive tunnel static calculations. “The tests showed the importance of aspects such as tunnel support, compressive strength and the thickness of the injection body to overcome flowing ground,” explains Anagnostou.
+
+At the Tavetsch intermediate massif in the north-east, the ETH scientists analysed the deformability of the rock and provided the scientific basis to help prevent construction delays. “Squeezing rock conditions can jam the tunnel-boring machines, leading to major construction delays,” explains Anagnostou. It goes without saying that such delays are very expensive. In this respect, the findings from the Gotthard Base Tunnel – the world’s longest railway tunnel – are also of great economic importance for international tunnel construction.
+
+## Gotthard as a driver of research
+
+“The work on the Gotthard has provided all kinds of extremely important impetus for research, the results of which are not just applicable here in Switzerland but also in other countries around the world, such as in projects in Turkey and the US.” However, the findings from this unique project also have more far-reaching implications: they are covered in dissertations and taught on courses that educate the tunnel engineers of the future.
+
+Researchers at the Institute of Geodesy and Photogrammetry also made considerable contributions to the successful construction of the Gotthard. The tunnel surveying specialists provided the scientific basis for the planning and engineering of the Alpine tunnel. Although the difficult conditions on the Gotthard massif posed major challenges for the surveyors, these were overcome with the help of professors Alessandro Carosio, who served as a geodesy expert at AlpTransit Gotthard AG until his retirement in 2008, and Alain Geiger.
+
+The geomatics engineers used GPS for orientation of the structure on the surface; however, the signals cannot be received inside the mountain. The course was therefore determined using a gyrotheodolite that can measure the direction of geodetic north to an accuracy of 0.001 degrees, exact enough for boring long tunnels. To achieve this level of precision – and to link the portals at exactly the right height – the effects of gravitational anomalies and deflections of the vertical on the measurements had to be corrected.
+
+At the tunnel site, these were caused mainly by the topography and the differing rock density inside the mountain. The required model (geoid) of the gravity field could be determined only with the help of the expertise and specifically designed measurement devices at ETH Zurich.
+
+The researchers also played a pioneering role in the methodology. At Sedrun, inertial measurement technology was used for the first time to determine the direction inside the tunnel, along with the gyrotheodolite. ETH professor Hilmar Ingensand developed this technology together with his colleagues at TU Munich. With the additional measurement data, the surveyors were able to ensure that boring progressed in the right direction from its origin at the base of the 800 metre shaft. These research efforts paid off: at the final breakthrough of the tunnel, the deviation was a mere eight centimetres horizontally and one centimetre vertically – an engineering masterstroke. And as noted by Carosio: “The surveyors responsible were all ETH graduates.”
+
+## Official opening of the Gotthard Base Tunnel
+
+The Gotthard Base Tunnel will be officially opened on Saturday 4 and Sunday 5 June. ETH Zurich will be represented by seven projects at this public event organised by SBB. In Rynächt, experiments will allow visitors to experience the forces that hold together a tunnel arch and learn how tunnellers are able to drill into a mountain from opposite sides and meet in the middle. In addition, researchers from the field of mechanical engineering will demonstrate how in the future visitors to unfamiliar cities will be able to call on autonomous robots for orientation. In Erstfeld, the main focus will be on electric racing cars. Engineering students will present the cars with which they have led the Formula Student world rankings for three years and continue to set new speed records. More information is available at www.gottardo2016.ch
+

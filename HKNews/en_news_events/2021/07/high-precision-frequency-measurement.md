@@ -1,0 +1,34 @@
+# high-precision-frequency-measurement
+
+**Source:** en_news_events/2021/07/high-precision-frequency-measurement.html
+
+## Continuous correction
+
+For many scientific experiments, today’s researchers require a precise reference frequency that allows them to calibrate the time measurements made by their equipment. Such experiments include spectroscopy investigations – in which chemical reactions between molecules are examined in real time – and physical studies on natural constants.
+
+Access to exactly this kind of highly precise reference frequency could soon become standard for Swiss research institutions. In a joint project funded as part of the Swiss National Science Foundation’s Sinergia programme, researchers at ETH Zurich, the University of Basel, the Swiss Federal Institute of Metrology (METAS) – Switzerland’s “guardian of measurement units” – and the SWITCH Foundation, which operates Switzerland's academic data network, have demonstrated that such a precision reference signal can be sent via conventional telecommunications infrastructure.
+
+"Initial results show that this permits chemical spectroscopy analyses that are 100 times more accurate than before", reports Stefan Willitsch, Professor of Physical Chemistry at the University of Basel and coordinator of the project. "With this precision, the laws of nature are verified by spectroscopic measurements on molecules with unprecedented accuracy," adds Frédéric Merkt, Professor of Physical Chemistry at ETH Zurich.
+
+Specifically, the project established a trial network that connects the METAS site in Wabern near Bern with the University of Basel and ETH Zurich. A clever process synchronises the output signal with the METAS atomic clock. This signal is transmitted via the fibre-optic network operated by SWITCH – which manages IT network infrastructures for Swiss universities – to Basel and Zurich, where researchers can use it to calibrate their measuring devices.
+
+"To ensure that the signal reaches the researchers with the desired level of precision, transmission must be continuously adjusted. Even the slightest variation in the length of the fibre-optic cable – caused by vibrations or temperature changes – affect the frequency", explains Jacques Morel, Head of the Photonics, Time and Frequency Laboratory at METAS. Therefore the signal is bounced back from Basel and Zurich to Bern, where the output signal is corrected as required.
+
+“In Switzerland, we’re only now beginning to establish this kind of network,” says Jérôme Faist, Professor at the Institute for Quantum Electronics at ETH Zurich, who contributed his expertise in laser technology to the project. “Other countries like Italy, Germany and France are already a step ahead in this area.”
+
+In these countries, the reference frequencies have, up to now, been transmitted in one of two ways – each with its own specific drawbacks. Either the signal is sent via a dedicated cable, which produces an optimum physical result but is expensive, or the signal is transmitted via the telecommunications provider’s existing infrastructure. While this is much cheaper, it is technically inferior because the reference signal for measuring time is transmitted within the C band, in other words at a similar base frequency to data traffic. Not only does this leave the reference signal open to potential disruption by the rest of the data traffic, it blocks a channel that would normally be used for data transmission, which in turn complicates operation.
+
+## International networking
+
+“We’ve now developed a third option,” explains Fabian Mauchle, project manager at Switch: “For reasons of cost, we use the existing SWITCH network. But instead of transmitting the reference signal within the physically optimum C band – which is largely taken up by data traffic – we use the L band, which is still mostly uncongested and has a different base frequency.” The results now show that the L band is also a viable option for transmitting reference signals at excellent quality without encountering disruption from data traffic. This did, however, require SWITCH to make certain modifications to its network infrastructure.
+
+The next step will be to further expand the network to include other Swiss institutions such as CERN in Geneva, EPFL or the University of Neuchâtel. There are also plans to take the network to an international level. The goal is to establish a transnational network capable of comparing signals from various atomic clocks.
+
+This would pave the way for an even more precise time measurement for defining the second as an SI unit. To ensure consistent time measurement worldwide, atomic clocks are currently compared with satellite signals in the gigahertz range. Synchronising atomic clocks using optical signals in the terahertz range would allow measurements of the second up to 18 decimal places instead of the “mere” 16 decimal places previously achieved. But the only way this can work is if the signals used to compare these optical clocks are transmitted as light via fibre optics.
+
+Faist also points out that it’s not just chemists and physicists who could benefit from the new network. It could provide geoscientists with new insights, too. Geoscientists might not require highly precise time signals for their experiments, but since even the tiniest disruption will affect the signal frequency, they could use the approach to detect subsurface vibrations that are too subtle for today’s measuring devices to register.
+
+## Reference
+
+Husmann D et.al.: SI-traceable frequency dissemination at 1572.06 nm in a stabilized fiber network with ring topology. Vol. 29, No. 16 /2 August 2021. doi: 10.1364/OE.427921
+

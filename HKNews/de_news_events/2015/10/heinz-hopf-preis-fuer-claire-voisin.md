@@ -1,0 +1,42 @@
+# heinz-hopf-preis-fuer-claire-voisin
+
+**Source:** de_news_events/2015/10/heinz-hopf-preis-fuer-claire-voisin.html
+
+## Main article
+
+Der Königsweg zu gesicherter Erkenntnis in der Mathematik ist der Beweis. In einem mathematischen Teilgebiet wie der algebraischen Geometrie, deren Grundbegriffe und Forschungsgegenstände sich sehr weit von alltagsnahen Begriffen und Formen entfernt haben, sind auch Vermutungen ein wesentlicher Antrieb für den weiteren Erkenntnisfortschritt. Einmal formuliert, sind Vermutungen zwar weder bewiesen noch wiederlegt, für ihre Richtigkeit gibt es aber gute Gründe. Insofern bezeichnen sie ein mathematisches Problem, dessen Lösung noch aussteht.
+
+Fast legendär ist in dieser Hinsicht Claire Voisin: schliesslich hat die 53-jährige französische Mathematikerin im Gebiet der algebraischen Geometrie die berühmte «Kodaira-Vermutung» widerlegen oder für andere ein wegweisendes Zwischenergebnis vorweisen können.
+
+«Claire Voisin gehört zu den weltweit führenden Forschenden im Gebiet der komplexen algebraischen Geometrie», sagt Rahul Pandharipande, Professor für Mathematik an der ETH Zürich, «seit 30 Jahren spielt sie eine Schlüsselrolle für die Weiterentwicklung unseres Fachgebiets.»
+
+Claire Voisin. (Bild: Claire Voisin)
+
+## Geometrie mit algebraischen Gleichungen
+
+Für ihre aussergewöhnlichen mathematischen Leistungen wird Claire Voisin am 2. November 2015 an der ETH Zürich mit dem Heinz-Hopf-Preis 2015 für reine Mathematik ausgezeichnet. «Claire Voisin ist eine exzellente Wahl. Der Entscheid für sie ist einstimmig gefallen», sagt Urs Lang, Professor für Mathematik und Vorsitzender des Wahlkomitees des Heinz-Hopf-Preises. Den mit 30‘000 Schweizer Franken dotierten Preis verleiht das Departement Mathematik der ETH Zürich seit 2009 alle zwei Jahre.
+
+Charakteristisch für die algebraische Geometrie ist, dass sie Objekte wie Kurven oder Flächen mit algebraischen Mitteln und Gleichungen untersucht. Historisch geht diese Methodik auf René Descartes und die Einführung des Koordinatensystems zurück. So wird etwa der Kreis durch die Gleichung x 2 + y 2 = 1 beschrieben. Heute freilich studiert die algebraische Geometrie längst nicht mehr nur ein- und zweidimensionale Objekte wie eben Kurven, sondern sie untersucht auch Objekte, die drei oder mehr Dimensionen umfassen. Dabei richtet sie ihr Augenmerk auch nicht bloss auf anschauliche Merkmale, sondern auf Invarianten, also auf strukturelle, unveränderliche Eigenschaften von Gestalten, Flächen oder Körpern jeglicher Art.
+
+Auch methodisch arbeitet sie nicht mehr nur mit einzelnen Gleichungen, sondern mit den Lösungen beliebiger Gleichungssysteme, die Polynomgleichungen mit mehreren Variablen enthalten, sowie mit algebraischen Mengen (Varietäten oder Ringe). Relevant ist diese Forschung zum Beispiel für die Physik und die Frage, wie das Universum aufgebaut und geordnet ist.
+
+Zu Claire Voisins wichtigsten Erkenntnissen gehört die 2008 mit dem «Clay Research Award» ausgezeichnete Lösung für eine 50 Jahre alte Vermutung des japanischen Mathematikers Kunihiko Kodaira. Diese bezieht sich auf die so genannten Kähler-Mannigfaltigkeiten, die auch in der physikalischen Stringtheorie eine Rolle spielen. Diese Theorie geht statt von Elementarteilchen von Strings (engl. «Fäden, Saiten») als grundlegenden räumlichen Objekten aus. Den Begriff der Mannigfaltigkeit führte 1854 der deutsche Mathematiker Bernhard Riemann als Verallgemeinerung von Flächen auf höhere Dimensionen ein. Die heute übliche Definition veröffentlichte 1913 sein Landsmann Hermann Weyl, der Vorgänger von Heinz Hopf als Professor an der ETH Zürich.
+
+Kodaira vermutete, dass man nicht nur zweidimensionale Kähler-Mannigfaltigkeiten in eine algebraische Varietät umformen kann, sondern dass das in höheren Dimensionen ebenso möglich sei. Claire Voisin löste das Problem, indem sie Gegenbeispiele zur Kodaira-Vermutung angeben konnte, die keine solchen Umformungen sind. «Dass sie ihre Argumente von wohlfundierten Beispielen her aufbaut, zeichnet Claire Voisins Arbeitsweise aus», würdigt Rahul Pandharipande.
+
+Um projektive algebraische Varietäten geht es auch in einem Teilbeweis und einem Lösungsweg von Voisin zu Vermutungen der beiden amerikanischen Mathematiker Mark Green und Spencer Bloch. Was die berühmte Vermutung des britischen Mathematikers William Hodge betrifft, so gilt Voisins Buch «Hodge Theory and complex algebraic geometry» heute als Standardwerk. Über diese und verwandte Probleme werden am 3. November 2015 drei namhafte algebraische Geometer, unter ihnen Arnaud Beauville, Voisins Doktorvater, an einem Symposium sprechen. Zusätzlich wurden acht Nachwuchsforschende eingeladen.
+
+Claire Voisin arbeitet als «Directrice de Recherche» für das Institut de mathématiques de Jussieu in Paris. Sie ist Mitglied verschiedener Europäischer Akademien. 2015 wurde sie zur Professorin für algebraische Geometrie am Collège de France ernannt. Für 2017 ist Claire Voisin eingeladen, erneut an die ETH Zürich zu kommen und ein Jahr lang als Fellow am Institut für Theoretische Studien (ETH-ITS) zu forschen.
+
+## Heinz-Hopf-Vorlesungen und Preisverleihung
+
+Am 2. November 2015 um 18.15 Uhr findet die Verleihung des Heinz-Hopf-Preises an Claire Voisin in der Semper-Aula der ETH Zürich (HG G 60) statt.
+
+Die beiden Heinz-Hopf-Vorlesungen zum Thema «Diagonalen in der algebraischen Geometrie» finden am Montag, 2. November 2015 im HG G 60 und am Dienstag, 3. November 2015 im HG G 3 statt, beide jeweils um 17:15 Uhr.
+
+Ein Symposium mit drei namhaften algebraischen Geometern über Aspekte aus Claire Voisins Forschung findet am 3. November 2015 an der ETH Zürich im Raum HG E 3 statt.
+
+Vorlesungen und Symposium werden auf Englisch durchgeführt.
+
+Weitere Informationen auf der Webseite zum Heinz-Hopf-Preis .
+

@@ -1,0 +1,30 @@
+# a-playful-approach-to-more-sustainability
+
+**Source:** en_news_events/2014/03/a-playful-approach-to-more-sustainability.html
+
+## Main article
+
+The use of the word sustainability has been omnipresent for some years now. It has become difficult to find a business that does not have a sustainability or a corporate social responsibility concept. But what are initially good ideas for more energy efficiency and less consumption of resources often end up as paper tigers without a broad impact. Dominik Brem, ETH’s Environmental Officer, is convinced that this does not necessarily have to be the case: “Minor behavioural changes in day-to-day work are the key to promoting the sustainability of organisations. We want to encourage ETH employees and students to make them by triggering their ambition and nudging them towards improving their environmental balance as a team.”
+
+On behalf of the ETH Safety, Security, Health and Environment staff unit (SSHE), an initial Energy Efficiency Challenge for employees of ETH Zurich will therefore be held in 2014. The challenge consists of two parts: from 5 to 25 May, teams of three to ten members can go head-to-head in the team competition via an online game platform over three weeks. In the second part, the Our Commitment module, from July, the existing teams should then set longer-term targets and pursue them over one year at their discretion, such as, for instance, in the area of office ecology or energy consumption in server rooms and research facilities. The challenge will be implemented by the start-up company WeAct (see box). Christian Kaufmann from WeAct explains: “We use the group dynamics and playful elements to anchor sustainability in organisations.”
+
+## More vegetables and less PET
+
+The WeAct team competitions will be held via a kind of online game platform. From a list of predefined energy saving measures, employees or students select those that they wish to pursue during the competition. For instance, more journeys to the office by bike, less meat for lunch or consistently switching off the lights when leaving the office and flat. “I like the fact that one can set one’s own targets independently,” says Diane Seda, a former ETH student who has already participated in two three-week WeAct team competitions. She established the Fungis team a year ago with four fellow students.
+
+Seda has focused on her eating habits in particular. The passionate meat eater switched to an entirely vegan diet for one week, and to a vegetarian one for two weeks. “I started to read about what the vegan diet has to offer and shopped more at markets,” explains Seda. She also wanted to reduce her consumption of PET bottles, compost more organic waste and reduce the length of her showers. Every time a participant in the game has implemented such a measure, he enters this in his personal user account on the internet. He is then credited points for his achievement, and the number of points differs depending on the activity. The points of the individual team members are added up and are visible for all players on the platform.
+
+Towards the end of the challenge, in particular, people start to take a closer look at the points collected by competitors, says Seda. And it goes without saying that one tries to increase one’s own number of points a little: “With an extra weekend bike tour with the entire team for instance.” The fact that other participants may cheat was never a worry for Seda.“Enthusiasm about the game can only materialise if you also achieve your targets,” she says with conviction. Last year she won the spring challenge with her Fungis team. Their prize was a regional vegetables subscription. The produce was then cooked and eaten by the team in several joint evening meals. The challenge has also influenced her life style beyond the competition: she eats a lot less meat nowadays and occasionally organises a vegan cook-in evening with her friends.
+
+## “Our Commitment” to long-term change
+
+That is, then, precisely the aim of Our Commitment, the second module of the Energy Efficiency Challenge. The behaviour trained during the team competition should be established with the employees for the long term. Gildo Sturzenegger is the deputy head of the Transport and Parking team and has participated in a pilot module. “The project motivated us to combine our transport orders in such a way that we do not need to travel the same route twice,” he says. “That saves both time and energy.”
+
+Student Diane Seda’s Fungis team will also participate in the first Energy Efficiency Challenge for ETH employees in May. But winning is not her priority, says Seda. It is far more important to question everyday habits: “For me, it’s a time when I consciously live in a sustainable manner and pick up new habits in the process.” A nice side effect is that her team also regularly meets for joint activities outside the competition on the internet during the challenge.
+
+## From Ecoworks to WeAct
+
+What was launched as a student initiative by the former students Prisca Müller and Majka Baur in winter 2010 within the framework of the Ecoworks Workshop at ETH Zurich has now grown to become a multiple-award-winning ETH start-up with five employees. In addition to several competitions for students, the start-up also organised competitions for companies such as WWF Switzerland, Amstein + Walthert and AXA Winterthur for the first time last year. On behalf of the ETH Safety, Security, Health and Environment staff unit (SSHE), an initial Energy Efficiency Challenge for employees of ETH Zurich will now be held in 2014. Anyone achieving 75 per cent of their targets will be automatically entered in a prize draw. Individual and team prizes, such as a team meal in a restaurant or vouchers for sustainable products, will be up for grabs.
+
+More information on the Energy Efficiency Challenge is available at: www.ethz.ch/eechallenge-en .
+

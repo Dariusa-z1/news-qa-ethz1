@@ -1,0 +1,24 @@
+# first-time-in-switzerland-the-55th-chemistry-olympiad
+
+**Source:** en_news_events/2023/07/first-time-in-switzerland-the-55th-chemistry-olympiad.html
+
+## Five-hour tests and a visit to the Rigi massif
+
+On 16 July, around 350 talented young chemists from some 90 countries will gather on ETH Zurich’s Hönggerberg campus. Having made it through national qualifying heats, they will now compete in the International Chemistry Olympiad (IChO) . The competition is bound to be a once-in-a-lifetime experience for all participants – for many, it will be their first time abroad. For the Swiss candidate, Sabine Isabelle Neuhaus, tensions are mounting, but so is the anticipation. “I’m looking forward to being able to exchange ideas with kindred spirits from other cultures and show them something of Switzerland,” Neuhaus says. She is one of a total of 64 women taking part in the Olympiad, and one of the four talented young chemists representing Switzerland in the competition. Her teammates are: Vivian Michael Huber from Basel, Alex Martinetti from Lugano and Andrin Hauenstein from Uster. Each national delegation is made up of a maximum of four young people under the age of 20.
+
+ETH Zurich has been busy with preparations for the event for months, organising accommodation and meals, designing day trips and programme events, and preparing the tests and lab workstations. The competition includes two five-hour tests comprising a series of challenging theory problems and chemistry experiments. These tasks are drawn up by the IChO Scientific Committee and then translated by the delegations into around 50 languages. In addition to the demanding tests, the programme also offers an array of excursions: these include a visit to the city of Bern, a hike on the Rigi massif, and behind-the-scenes looks at pharmaceutical manufacturer Lonza’s development department and research at the Paul Scherrer Institute (PSI). From 16 to 25 July, more than 300 ETH Zurich employees and volunteers from the Swiss Chemistry and Science Olympiad community will be on hand. They will be joined by the 275 adults – mostly chemistry professors, teachers and researchers – accompanying the foreign secondary school pupils.
+
+## ETH has a long chemistry tradition
+
+The aim of the International Chemistry Olympiad is to challenge and nurture secondary school pupils who are interested in and show an aptitude for chemistry, and to promote the international exchange of ideas. IChO has taken place every year since 1968, but this is the first time Switzerland has hosted. This means ETH Zurich and the country as a whole have a unique opportunity to showcase themselves as outstanding locations for chemistry research and education, and to attract talented young people. “Science is an international discipline that is dependent on networking. That’s why ETH Zurich has made a specific commitment to supporting future generations of scientists as well as international scientific discourse,” says Günther Dissertori, Rector of ETH Zurich. “I hope that we can get many of our young visitors excited about ETH, and that they experience Switzerland as an open, democratic society and see what opportunities there are here for them to realise their potential and advance the scientific cause,” Dissertori says.
+
+ETH Zurich is among the world’s leading educational institutions for chemistry: its chemistry courses have won top places in international rankings for many years. Moreover, ETH has already produced ten Nobel Prize winners in this field. Established in 1855, the university’s Department of Chemistry and Applied Biosciences is known for its interdisciplinary approach. Its research and teaching staff includes 55 professors.
+
+The slogan for this year’s International Chemistry Olympiad is “Let’s find solutions together”. Even if it’s everyone for themselves in the competition, exchanging ideas is still a major part of the event. After all, the only way to solve the problems of our time and improve our quality of life is to work together. Future chemists will have a key role to play because without their expertise, we stand no chance of tackling climate change or the energy crisis. For example, chemistry can help improve the treatment of drinking water and wastewater, turn sunlight into electricity, produce sustainable packaging and building materials, and develop new medications and treatments.
+
+## Everything you need to know about the IChO
+
+Keep up to date about what is happening at the International Chemistry Olympiad:
+
+• The IChO newsletter “ external page Catalyzer call_made ” will inform you daily about new developments concerning the Olympiad during the IChO. external page Subscribe to it here. call_made
+• Impressions of the IChO can also be found on external page Instagram call_made , external page Facebook call_made , external page Twitter call_made and external page YouTube call_made .

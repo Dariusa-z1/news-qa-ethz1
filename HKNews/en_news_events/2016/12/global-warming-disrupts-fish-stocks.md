@@ -1,0 +1,34 @@
+# global-warming-disrupts-fish-stocks
+
+**Source:** en_news_events/2016/12/global-warming-disrupts-fish-stocks.html
+
+## A rise of less than 2 degrees can benefit fisheries
+
+In the last twelve months, a large number of countries signed the Paris Agreement with the aim to limit global warming to no more than 1.5 degrees Celsius above pre-industrial levels. However, it is currently unclear how the world will achieve this ambitious climate target. Demonstrating the benefits to human society of meeting – or even undercutting – this goal will hopefully encourage countries and private sectors to make strong commitments to achieve it.
+
+Scientists at ETH Zurich and the University of British Columbia have therefore translated the Paris climate target to the global fisheries, which are supporting billions of people for food, livelihood and culture. In doing so, they highlight how this important sector would benefit from meeting this goal. Their study has just been published in the journal “ Science ”.
+
+According to simulations from the researcher’s computer models, the fishing industry would strongly benefit if the Paris Agreement global warming target of 1.5°C would be met. The maximum catch potential of fish would increase by three percent for every degree Celsius decrease in surface temperature. The global fish catch is around 88 million tonnes in 2014 as reported by the Food and Agricultural Organization (FAO).
+
+The researchers also found that some oceans will benefit much more from achieving the global warming target. Fishermen in the tropical Pacific Ocean would see their catch shrink by 12 percent if the 1.5 degree rise in temperature is met, while a 3.5 degree increase would lead to a reduction of 47 percent. The benefits for vulnerable tropical countries is therefore a strong reason why 1.5°C should be met. “People living in these regions rely heavily on fish as their primary protein source from animals,” stresses Thomas Frölicher, co-author of the study, and senior scientist at the ETH Institute of Biogeochemistry and Pollutant Dynamics (IBP).
+
+In a warming climate, fishes shift to cooler waters. (Graphics: Lindsay Lafreniere)
+
+## Direct connection between emissions and catch
+
+By contrast, Arctic fishing boats could see their catch increase by a fifth for every degree Celsius rise in surface temperature. The warming will have a positive effect on fisheries in the Arctic region, because it reduces the amount of sea ice and allows more light and heat to penetrate the ocean. This promotes the growth of phytoplankton, which in turn boosts fish stocks. In addition, fish stocks in the Arctic region will increase due to the invasion of species from warmer low latitude regions. If the 1.5°C target agreed in Paris could be met, Arctic fishermen would see their catch increase by about 30 percent. A rise in surface temperature of 3.5°C would boost their catch by 55 percent. In extreme cases, the local catch could even quadruple.
+
+Fish stocks in the high northern latitudes will not necessarily always benefit from the ocean’s increased warming and productivity. A tipping point will eventually be reached after which the increase in temperature has negative consequences for Arctic fisheries. For example, fish stocks in the North Sea will start to decrease again as soon as the average temperature rise exceeds about 3.5 degrees. This is because high water temperatures result in more stable stratification of the ocean, which in turn inhibits the growth of phytoplankton.
+
+“The correlation between the average global temperature and the cumulative man-made carbon-dioxide emissions into the atmosphere is linear, just like the connection between global fishing yields and temperature," explains Frölicher. This makes it possible to directly calculate the impact of one tonne of CO 2 emissions on the global fishing catch.
+
+At present, the resolution of the climate models is to some extent not high enough to make robust predictions for individual coastal regions. Frölicher and his colleagues are therefore working on a follow-up study that will use climate models with much higher resolution.
+
+The ETH scientist is part of a group of fish experts, called the Nippon Foundation-Nereus Program, which is co-led by lead author of the paper Professor William Cheung at the University of British Columbia. The Canadian researchers have developed a computer programme that enables them to model the population of 900 different species of fish. This fish model includes environmental conditions for the fish, such as water temperature, and the level of nutrients and oxygen in the water. The team has coupled these potential populations with existing climate models simulations in order to determine the living conditions of fish under different climate scenarios. “The models highlight where fishes might migrate to in the future,” says Frölicher.
+
+Depending on the future climate change scenario, tropical fish currently living in waters between 27 and 29 degrees Celsius will be faced with water that is one to 2 degrees higher. However, many species will be unable to adapt to these conditions, also because warm water contains less oxygen. As a result, the fishes have to search for a new habitat. “Once the temperature reaches a certain threshold, these fish will be forced to migrate to cooler waters in order to survive,” warns Frölicher.
+
+## Reference
+
+Cheung WWL, Reygondeau G, Frölicher TL. Large benefits to marine fisheries of meeting the 1.5°C global warming target. Science, Advanced Online Publication, 22 Dec 2016. doi: 10.1126/science.aag2331
+

@@ -1,0 +1,14 @@
+# die-eth-waechst-weiter
+
+**Source:** de_news_events/2023/09/die-eth-waechst-weiter.html
+
+## Die beliebtesten Studiengänge
+
+Insgesamt starten rund 25'000 Studierende und Doktorierende am kommenden Montag in das Herbstsemester an der ETH Zürich. Rund 3250 Bachelorstudierende nehmen gemäss derzeitigem Anmeldungsstand ihr Studium auf. Damit steigt die Anzahl Neueintritte auf Bachelorstufe im Vergleich zum Vorjahr wieder an (2022: rund 3100). «Wir freuen uns, die kommende Generation von Wissenschaftler:innen, Ingenieur:innen, Architekt:innen und sonstigen Fachkräften an unserer Hochschule begrüssen zu dürfen und wünschen allen einen erfolgreichen Start», sagt ETH-Rektor Günther Dissertori.
+
+Unter den Studienanfängerinnen und -anfängern besonders beliebt sind die Studiengänge Maschineningenieurwissenschaften, Informatik und Architektur – wie bereits in den vergangenen Jahren. Und auch die Bachelorstudiengänge Physik, Mathematik sowie Gesundheitswissenschaften und Technologie stossen auf grosses Interesse.
+
+Unter den Masterstudiengängen belegten die Studiengänge Maschineningenieurwissenschaften, Architektur und Umweltnaturwissenschaften vordere Plätze auf der Beliebtheitsskala der Studierenden. Die Immatrikulation für das Herbstsemester 2023 ist an der ETH noch nicht abgeschlossen. Die endgültigen Zahlen stehen jeweils im November fest.
+
+Der Frauenanteil unter den neueintretenden Studierenden beträgt rund 33 Prozent. 81 Prozent der neuen Bachelorstudierenden kommen aus der Schweiz; 19 Prozent haben ihre vorherige Ausbildung im Ausland abgeschlossen. Bei den Masterstudierenden machen die Bildungsausländer:innen 43 Prozent aus. Am stärksten vertreten sind Personen, die ihre Vorbildung in Deutschland, Italien, China oder den USA erworben haben. Zudem werden rund 280 Studierende von Partnerhochschulen an der ETH studieren. Darunter sind Studierende von schweizerischen, schwedischen und britischen Hochschulen am stärksten vertreten. Etwa 170 Studierende, die an Mobilitätsprogrammen teilnehmen, werden zudem eine Studien- oder Projektarbeit an der ETH durchführen. Diese Studierenden kommen grösstenteils von deutschen, schweizerischen und italienischen Hochschulen.
+

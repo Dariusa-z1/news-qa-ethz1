@@ -1,0 +1,40 @@
+# zwei-neue-vizepraesidentinnen-verstaerken-die-eth-zuerich
+
+**Source:** de_news_events/2020/09/zwei-neue-vizepraesidentinnen-verstaerken-die-eth-zuerich.html
+
+## Main article
+
+Seit 2008 besteht die Schulleitung der ETH Zürich aus fünf Mitgliedern. Seither hat sich der Wettbewerb nochmals verschärft und die Erwartungen von Gesellschaft und Politik an die ETH sind gestiegen. Die ETH Zürich blickt zudem auf Jahre des Wachstums zurück: So hat sich die Anzahl der Studierenden seit 2000 mehr als verdoppelt, die Anzahl der Mitarbeitenden hat sich um 60 Prozent erhöht und die Hochschule ist kulturell und fachlich vielfältiger geworden. Gleichzeitig stieg die Anzahl der ETH-Spin-offs in den letzten Jahren kontinuierlich an und die ETH hat die Zusammenarbeit mit grossen Unternehmen ebenso wie mit KMU bewusst intensiviert.
+
+Um auch in der Führungskultur und Personalentwicklung zu den besten Hochschulen der Welt zu gehören und ihre Stellung als einer der Innovationsmotoren der Schweiz langfristig zu sichern, organisiert die ETH Zürich diese beiden Aufgabenbereiche neu und erweitert dazu ihre Schulleitung. Damit werden die über die Jahre aufgebauten Kompetenzen in diesen beiden Themengebieten gebündelt und weiter ausgebaut. Auf Antrag von ETH-Präsident Joël Mesot hat der ETH-Rat am 23. September 2020 Julia Dannath-Schuh als neue Vizepräsidentin für Personalentwicklung und Leadership und Vanessa Wood als neue Vizepräsidentin für Wissenstransfer und Wirtschaftsbeziehungen ernannt.
+
+## Die Führungs- und Unternehmenskultur weiterentwickeln
+
+«Es freut mich zutiefst, dass wir mit den beiden neuen Vizepräsidentinnen zwei kompetente Führungspersönlichkeiten mit sehr viel Know-how in ihren Zuständigkeitsbereichen für die Schulleitung der ETH Zürich gewinnen konnten», sagt ETH-Präsident Joël Mesot, der die Erweiterung der Schulleitung im Juni 2019 initiiert hat .
+
+«Seit meinem Amtsantritt ist es mir ein Anliegen, die Personalentwicklung auf allen Ebenen zu stärken und die Führungskultur weiterzuentwickeln. Ich bin überzeugt, dass wir diesem Ziel mit der Schaffung eines neuen Schulleitungsbereichs und der Ernennung von Julia Dannath-Schuh zur Vizepräsidentin einen grossen Schritt näherkommen.»
+
+Julia Dannath-Schuh ist die neue Vizepräsidentin für Personalentwicklung und Leadership. (Bild: ETH Zürich)
+
+Julia Dannath-Schuh unterstützt seit über zwölf Jahren Organisationen in der Schweiz und im Ausland bei der Weiterentwicklung ihrer Führungs- und Unternehmenskultur. Die ausgewiesene Personalexpertin hat einen Doktorabschluss in Psychologie und mehrere Publikationen in ihren Fachbereichen hervorgebracht. «Seit ich vor vielen Jahren als wissenschaftliche Assistentin an der ETH Zürich gearbeitet habe, bin ich ein grosser Fan dieser Hochschule. Mir ist bewusst, dass es in meinem Aufgabenbereich einige Herausforderungen und auch mal Konfliktsituationen gibt. Diese konstruktiv und gemeinsam mit allen Betroffenen anzupacken und zu lösen, darauf freue ich mich enorm», sagt Julia Dannath-Schuh. Sie wird die Schulleitung ab dem 1. November 2020 verstärken.
+
+## Den Wissenstransfer in die Wirtschaft ausbauen
+
+Vanessa Wood wird ihre Kompetenzen ab dem 1. Januar 2021 in der Schulleitung einbringen. Ihrer Tätigkeit als ETH-Professorin am Departement für Informationstechnologie und Elektrotechnik wird sie in einem reduzierten Pensum weiterhin nachgehen.
+
+«Die Verbindung zwischen Forschung und Wirtschaft hat mich schon immer fasziniert. Ich freue mich sehr, dass ich die ETH künftig auch auf institutioneller Ebene beim Wissenstransfer in die Gesellschaft unterstützen kann», sagt Vanessa Wood, die seit 2011 auf dem Gebiet der Nanotechnologie und Batterieforschung an der ETH Zürich forscht.
+
+Ergebnisse aus der Forschungstätigkeit von Vanessa Wood sind bereits in mehrere Spin-offs eingeflossen. Ausserdem erhielt sie zahlreiche Auszeichnungen für ihren Beitrag zum Wissenstransfer in die Wirtschaft. Als Professorin und Departementsvorsteherin konnte sie ihre Führungsqualitäten unter Beweis stellen und ihr Netzwerk innerhalb der ETH und in der Wirtschaft ausbauen.
+
+## Wichtiger Meilenstein im Projekt rETHink
+
+«Angesichts des raschen technologischen Wandels ist es zentral, dass die Forschungsergebnisse aus den Laboren der ETH ihren Weg in die Wirtschaft und Gesellschaft finden. Ich bin sicher, dass Vanessa Wood den Wissenstransfer unserer Hochschule stärken und ausbauen wird», sagt ETH-Präsident Joël Mesot.
+
+Mit der Erweiterung der Schulleitung setzt Joël Mesot sein Ziel um, die ETH konsequent und bedarfsorientiert weiterzuentwickeln und ihre Position als eine der renommiertesten Hochschulen der Welt langfristig zu sichern. Die Ernennung der neuen Vizepräsidentinnen ist ein wichtiger Meilenstein im Projekt rETHink , in dessen Rahmen die Strukturen und Prozesse der ETH überprüft und weiterentwickelt werden.
+
+## Die aktuelle Schulleitung und die neuen Bereiche
+
+Bis Ende 2019 setzte sich die Schulleitung aus dem Präsidenten Joël Mesot (Gesamtverantwortung), der Rektorin Sarah Springman (Lehre), dem Vizepräsidenten für Forschung und Wirtschaftsbeziehungen Detlef Günther, dem Vizepräsidenten für Finanzen und Controlling Robert Perich und dem Vizepräsidenten für Personal und Ressourcen Ulrich Weidmann zusammen. Im Januar 2020 wurden die beiden neuen Vizepräsidien für die Themengebiete «Personalentwicklung und Leadership» sowie «Wissenstransfer und Wirtschaftsbeziehungen» aus den bisherigen Schulleitungsbereichen herausgelöst und von Ulrich Weidmann und Detlef Günther ad interim geführt. Ab 1. November 2020 wird sich Ulrich Weidmann voll und ganz um den Bereich Infrastruktur kümmern, während sich Detlef Günther ab 1. Januar 2021 komplett auf den Bereich Forschung fokussiert.
+
+Die Schulleitung der ETH Zürich
+

@@ -1,0 +1,14 @@
+# die-professorinnen-der-eth-organisieren-sich-neu
+
+**Source:** de_internal/2016/05/die-professorinnen-der-eth-organisieren-sich-neu.html
+
+## Kooperation mit Professorinnen der EPFL
+
+Laut dem Gender-Monitoring 2014/2015 der Stelle für Chancengleichheit der ETH Zürich liegt der Frauenanteil bei den Professuren an der ETH im Durchschnitt bei 12,8 Prozent. «Erstrebenswert wären mindestens 33 Prozent», sagt Ursula Keller, Professorin für Experimentalphysik am Departement Physik (D-PHYS). «Zahlreiche Studien zeigen, dass Betriebe besser funktionieren, wenn in den Führungspositionen auch Frauen gut vertreten sind. Das gilt auch für Forschungsinstitutionen.» Um den Frauenanteil in Führungspositionen an der ETH zu erhöhen, hat Ursula Keller 2011 mit anderen Professorinnen das Women Professors Forum der ETH Zürich (WPF) ins Leben gerufen. In sehr kurzer Zeit sind mehr als 80 Prozent der ETH-Professorinnen dem gleichnamigen Verein beigetreten.
+
+Jetzt tritt Ursula Keller von ihrem Amt als WPF-Präsidentin zurück. Ihre Nachfolge übernimmt die bisherige Vize-Präsidentin, Janet Hering. Sie ist Professorin am Departement Umweltsystemwissenschaften (D-USYS) der ETH Zürich sowie an der ETH Lausanne und steht als Direktorin der Eawag, dem Wasserforschungsinstitut des ETH-Bereichs, vor. Der Aufbau und die Pflege dieses Frauennetzwerks ist für sie eine Herzensangelegenheit: «Natürlich können Frauen auch aus eigener Kraft Karriere machen, aber wir wissen, dass ein gutes Netzwerk diesen Weg erleichtern kann. Das belegen auch wissenschaftliche Untersuchungen.»
+
+An der WPF-Generalversammlung im April 2016 haben die Mitglieder nicht nur eine neue Präsidentin gewählt, sondern auch einer Statutenänderung zugestimmt, die es ermöglicht, dass neu auch Professorinnen der ETH Lausanne WPF beitreten können. Rizlan Bernier-Latmani, Professorin für Umwelt-Mikrobiologie an der ETH Lausanne, wurde für das Amt der WPF-Vize-Präsidentin einstimmig gewählt. Sie teilt ihr Amt mit der ebenfalls neu gewählten Viola Vogel, Professorin für angewandte Mechanobiologie im Departement Gesundheitswissenschaften und Technologie (D-HEST).
+
+«Wir sind davon überzeugt, dass beide Hochschulen noch mehr leisten können, um den Frauenanteil in den nächsten Jahren markant zu erhöhen», sagt Hering.
+

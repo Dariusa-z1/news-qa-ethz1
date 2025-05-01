@@ -1,0 +1,28 @@
+# eine-neue-dimension-der-transplantation
+
+**Source:** de_news_events/2022/03/eine-neue-dimension-der-transplantation.html
+
+## Mithilfe einer Nanospritze
+
+So wie sich der menschliche Körper in verschiedene Organe – etwa Herz, Lungen, Nieren, Darm oder Leber – unterteilen lässt, bestehen auch unsere Zellen aus mehreren, sich ergänzenden und voneinander abhängigen Systemen, die in der Fachsprache als Organellen (also kleinen Organen) bezeichnet werden. Und so wie das Leben eines nierenkranken Menschen mit der Transplantation einer gesunden Niere mitunter um mehrere Jahrzehnte verlängert werden kann, könnten dereinst vielleicht einzelne Zellen mit der Transplantation von Zellbestandteilen aufgefrischt werden.
+
+Dass dieses Gedankenexperiment kein Hirngespinst ist, sondern in den Bereich des technisch Machbaren gerückt ist, zeigen die neuen Befunde der Forschungsgruppe um Julia Vorholt vom Institut für Mikrobiologie an der ETH Zürich. Wie die Wissenschaftlerinnen und Wissenschaftler soeben in der Fachzeitschrift PLos Biology berichten, haben sie mithilfe einer Nanospritze, die sie zuvor entwickelt haben, Mitochondrien von einer lebenden Zelle in eine andere verpflanzt.
+
+In diesen winzigen Kraftwerken der Zellen finden die biochemischen Prozesse der Zellatmung statt, die sich schon vor mehr als zwei Milliarden Jahren in Bakterien herausgebildet hatten. Später bildeten einige Bakterien mit anderen Zellen eine enge Gemeinschaft, eine so genannte Endosymbiose. Sie spielt in der Stammesgeschichte des Lebens auf der Erde eine zentrale Rolle: Erst sie ermöglichte die Entwicklung von Pilzen, Pflanzen oder Tieren (einschliesslich uns Menschen), die alle aus komplexen Zellen aufgebaut sind.
+
+## Wenn sich Fäden in Perlenketten verwandeln
+
+So haben sich aus den uralten Bakterien im Lauf der Zeit Mitochondrien gebildet: Organellen, die in den heutigen komplexen Zellen für die Energiegewinnung zuständig sind. In menschlichen Zellen bilden Mitochondrien ein fadenartiges dynamisches Netzwerk. «Die Fäden reagieren auf Unterdruck – und verwandeln sich in eine Art Perlenkette, von der sich einzelne Mitochondrien abspalten», sagt Christoph Gäbelein, der Erstautor des Fachbeitrags.
+
+Mit eigens für diese Studie entwickelten, schräg endenden und zylinderförmigen Nanopipetten stachen die Forschenden durch die Zellmembran – und saugten die kugelförmigen Mitochondrien ein. Dann stachen sie durch die Membran einer anderen Zelle und pumpten die Mitochondrien wieder aus der Nanopipette heraus in die Empfängerzelle.
+
+Die Position der Nanopipette wird vom Laserlicht eines umfunktionierten Rasterkraftmikroskops kontrolliert. Ein Druckregler passt den Flüssigkeitsstrom an. Dadurch lassen sich während einer Organellentransplantation unvorstellbar kleine Volumen im Femtoliterbereich (das sind Millionstel eines Millionstels eines Milliliters) bewegen. «Sowohl die Donor- wie auch die Akzeptorzellen überleben diese minimalinvasive Prozedur», sagt Gäbelein.
+
+Auch über 80 Prozent der transplantierten Mitochondrien überstehen die Operation. In den meisten Zellen beginnen die injizierten Mitochondrien nach zwanzig Minuten mit dem fadenartigen Netzwerk der neuen Zelle zu fusionieren. «Sie werden von der Wirtszelle akzeptiert», sagt Julia Vorholt. Nur in wenigen Zellen fallen sie der Qualitätskontrolle der neuen Wirtszellen zum Opfer – und werden abgebaut.
+
+«In Zukunft wird die hier vorgestellte Technik Anwendungen in verschiedenen Forschungsbereichen ermöglichen», schreiben die Forschenden. Vorstellbar sei, dass sich damit etwa Stammzellen verjüngen lassen, deren Stoffwechselaktivität mit zunehmendem Alter nachlässt. Doch das Team um Vorholt verfolgt andere Pläne. «Wir wollen die Prozesse verstehen, die die Zusammenarbeit der verschiedenen Zellkompartimente steuern – und nachvollziehen, wie sich Endosymbiosen im Laufe der Zeit evolvieren», sagt Vorholt.
+
+## Literaturhinweis
+
+Gäbelein CG, Feng Q, Sarajlic E, Zambelli T, Guillaume-Gentil O, Kornmann B, Vorholt JA. Mitochondria transplantation between living cells. PLoS Biol . 20: Published: March 23, 2022, doi: externe Seite 10.1371/journal.pbio.3001576
+

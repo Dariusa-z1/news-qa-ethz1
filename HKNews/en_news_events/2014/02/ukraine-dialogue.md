@@ -1,0 +1,36 @@
+# ukraine-dialogue
+
+**Source:** en_news_events/2014/02/ukraine-dialogue.html
+
+## Main article
+
+ETH News: Mr Grätz, is the exit of President Yanukovych on Sunday the most important step towards peace in Ukraine? Jonas Grätz: Many people in Ukraine continue to regard the events as a coup. Russian TV, which has a wide audience particularly in the southeast of the country, has portrayed the new authorities as fascists and neo-Nazis. A newly elected government will have a very hard time finding acceptance throughout the entire country.
+
+Jonas Grätz is a researcher at the Center for Security Studies (CSS) at ETH Zurich. (Photo: ETH Zurich)
+
+Is it possible that Russia will intervene militarily in Ukraine? I think overt military intervention is unlikely. It's not even necessary because Russia has other ways of exerting influence.
+
+Such as? Russia enjoys a great deal of support on the Crimean Peninsula, an autonomous region belonging to Ukraine. It might support a declaration of independence by separatist forces there. On Thursday morning, armed pro-Russian forces had already occupied the regional parliament in Crimea. On Friday, unnamed, armed forces temporarily seized the airport of Sevastopol. Those were likely Russian troops, or have been armed by Russia. However, Russia reassured Ukraine’s territorial integrity in the 1994 Budapest Memorandum, an international agreement with Great Britain and the United States. Russia has to be reminded of this agreement, and that even support of separatist forces constitutes a breach.
+
+In western Ukraine, people are fighting for the EU Association Agreement. In the southeast of the country, Ukrainian flags are being replaced by Russian flags. Are we witnessing a return of the Cold War? In recent years, Russia has increasingly distanced itself from the West, which includes resorting to Soviet symbols once again. Yet the revolt in Ukraine shows precisely that this Cold War game no longer sits well with the people. The citizens have moved on today and take their destiny into their own hands. What ultimately led to the uprising was the will of the protesters to bring about qualitative change. There wasn't much the EU or Russia could do to promote or prevent this. This is why, in my estimation, the geopolitical element is currently taking the back seat, as the people take centre stage. In Crimea, too, there are ethnic groups such as the Crimean Tatars who took to the streets in favour of the new government. But given the sudden appearance of heavily armed forces, the situation on the Crimea will now have to be closely monitored.
+
+In 2000, Russian President Putin organised the Customs Union as a countermodel to the EU, which is set to expand next year to form the Eurasian Economic Union. The effect will be that former Soviet states will become more closely bound to Moscow. Do some Ukrainians see this as an alternative to the EU? In Moscow, Ukraine is seen as a sister Slavic nation to Russia. In addition, Kiev also holds symbolic significance as the origin of Russian statehood. This is not so in the case of current Union members such as Kazakhstan, Kyrgyzstan and Tajikistan. An accession by Ukraine would be essential for the Union. Yet even Yanukovych previously abandoned this because it would have been too stark a political symbol. It is true that the eastern regions of Ukraine are highly dependent on the Russian economy, and many citizens there advocate the Customs Union with Russia. But as a project that promotes identity formation, Ukraine has never held this Union in high esteem.
+
+To what extent does Russia pit its economic power against Ukraine? Russia has suspended the EUR 15 billion in economic aid it had promised Yanukovych. In addition, there are threats of economic sanctions if Ukraine signs a free trade agreement with the EU. Now, however, several EU finance ministers have announced that they will step into the breach and make these funds available quickly and non-bureaucratically. This should provide a basis for a national dialogue.
+
+The protests in Kiev have taken a heavy death toll. Many victims are from western and central Ukraine. Others are from Georgia and even Russia. (Source: CSS / ETH Zurich)
+
+A clear signal, is it not? It does demonstrate that the EU considers the transition of power to be legitimate. And, of course, it is believed that cooperation will be better with the new figures than with Yanukovych, who was always manoeuvred back and forth between the EU and Russia.
+
+How dependent on Russia will Ukraine remain, even if it moves closer to the EU? No president in Kiev can circumvent Russia. A third of exports go to the Moscow-dominated Customs Union. 60 percent of Ukraine's natural gas is imported from Russia. Russia can therefore wield some powerful leverage. Moreover, Russia granted Yanukovych reduced gas prices in return for its loyalty to the Kremlin. These agreements expire at the end of March and will have to be renegotiated. Higher gas prices are the last thing Ukraine needs right now.
+
+Are there any alternatives? Yes, but only in the longer term. In recent years, the Ukrainian government signed several agreements with Shell and Chevron for natural gas production in its country. These operations might be ramped up in the future. There are additional deposits in the Black Sea, beyond Crimea, and plans to extract these in the future. Inland coal deposits might also contribute to greater energy autonomy. And if Russia increases prices, gas imports from the EU are also conceivable.
+
+What does Ukraine need most right now? Above all, the country needs to have a national dialogue among the new forces in Kiev, the citizens in the west and those in the eastern regions of the country. There will now be a struggle to formulate a common interpretation of the events of recent months. International organisations such as the OSCE might play an important role in this process if they succeed in gaining the confidence of the parties. Ukraine is economically on the brink. For this reason, the country quickly needs to establish an effective government that can solve the country's glaring problems.
+
+Jonas Grätz is a researcher with the Global Security Team at the Center for Security Studies (CSS) at ETH Zurich. He is a specialist in issues surrounding energy security and energy policy as well as Russian domestic and foreign policy.
+
+## Swiss OSCE ambassador to Ukraine
+
+On 24 February, President Didier Burkhalter, who presently holds the Chairmanship of the Organization for Security and Co-operation in Europe (OSCE), appointed Ambassador Tim Guldimann as his personal envoy to Ukraine. Guldimann speaks Russian and, as former Head of the OSCE Assistance Group in Chechnya (1996-1997), the OSCE Mission to Croatia (1997-1999) and the OSCE Mission in Kosovo as well as Special Representative of the UN Secretary General in Kosovo (2007-2008), has extensive experience in the handling of conflicts in eastern Europe and sound knowledge of the OSCE. Guldimann is the head of the Swiss Embassy in Berlin.
+

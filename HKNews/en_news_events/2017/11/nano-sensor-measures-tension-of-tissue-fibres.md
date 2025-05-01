@@ -1,0 +1,38 @@
+# nano-sensor-measures-tension-of-tissue-fibres
+
+**Source:** en_news_events/2017/11/nano-sensor-measures-tension-of-tissue-fibres.html
+
+## Bacterium senses tensional state of tissue fibres
+
+Bacteria are able to attach themselves to tissue fibres with the aid of a ‘nano-adhesive’. Just how they achieve this was investigated a few years ago by Viola Vogel, Professor of Applied Mechanobiology, using computer simulations at CSCS . The researchers simulated how the bacterial nano-adhesive – a peptide thread with several binding sites strung together like pearls – adheres to what are called fibronectin fibres. These form part of the fibrous network in which cells are embedded. Where there is a lesion, the fibronectin fibres become severed.
+
+Intact tissue fibres are held under tension by the pulling force from cells in the fibrous network. When fibronectin fibres are stretched by forces, simulations of this process showed that the distances between the individual binding sites on fibronectin, as bridged by the bacterial peptide, grow too large and hence the bacterial nano-adhesive becomes largely detached.
+
+At the time, the researchers had not expected such results. These suggested that the Staphylococcus aureus bacterium, whose adhesion was used in the simulation, might in the course of its evolution have developed a nano-sensor to detect the tensional state of fibronectin fibres. In order to ‘successfully’ infect a lesion, the dreaded bacterium probably binds itself to severed and therefore structurally relaxed fibres.
+
+However, little is known about the tensional state of tissue fibres and their effect on physiological processes in degenerative changes in tissue, for example. There is also a lack of methods suitable for measuring the minuscule forces that cells exert on tissue fibres.
+
+Viola Vogel and her research group are therefore working on nano-sensors that can do the job: inspired by the simulations, they developed a bacterial peptide able to recognise the tensional states of fibronectin in tissue. Such a peptide could be used both in therapy and diagnostics.
+
+Now, tests on the synthetically produced peptide in cell cultures as well as in tumour tissue from animal models have given the researchers positive results. Because the peptide binds to un-tensioned fibres only, it can visibly reveal which tumour tissue fibres are under tension. The research findings were published today in the scientific journal Nature Communications.
+
+In order to test whether the peptide indeed binds only to un-tensioned fibres, the researchers added to the cell culture medium a special optical ‘nano-probe’ they had developed. This probe is only usable in cell cultures, where it changes colour to indicate the tensional state of the fibres. In addition, the researchers tagged the synthetically produced peptide with an additional fluorophore in order to visualize where it binds in cell culture.
+
+Furthermore, tumour tissues were stained with special colour-tagged peptide and antibodies that bind to all fibronectin, where they rendered visible all fibronectin fibres in the tumour versus the relaxed fibres as marked by the peptide.
+
+Detailed examination of the tumour revealed to the scientists’ astonishment that the peptides did not bind to all of the fibronectin fibres, though – a sign that not every fibre in the tumour is under tension. “However, we cannot yet say why tensioned fibronectin is more abundant in some areas of the tumour than in others,” says Vogel.
+
+In order to find out whether the bacterial adhesive is suitable for diagnostic purposes as well, researchers at the Paul Scherrer Institute (PSI) led by Martin Behé and Roger Schibli injected radioactively tagged peptides into the animal model. This enabled the scientists to identify where the peptide binds in the organism. “Besides the well-perfused organs such as kidneys, liver and spleen, the peptide mainly accumulated in tumour tissue,” says Viola Vogel. This was also where it remained the longest.
+
+The scientists hope that the peptides will be able to serve as diagnostic markers of tumour tissues and of other degenerative diseases. The peptides could be used for radiation therapy or for delivering active pharmaceutical ingredients to the diseased site, for example by binding an active ingredient to the bacterial peptide, whereupon the peptide’s binding sensors bring the active ingredient straight to its target. The great advantage of peptides is that they are much smaller than nanoparticles and antibodies. “These little molecules can therefore penetrate much better and deeper into dense tumour tissue,” says Vogel.
+
+Both the results and Vogel’s novel research approach in the quest for new methods of diagnostics and therapy have attracted attention: in addition to an ERC and a recently awarded SNF grant, the renowned Charité university hospital in Berlin has conferred on Viola Vogel an Einstein Professorship that will enable her to fund two positions, making it possible to combine the new technique with clinical research. In cooperation with PSI, Vogel also intends to investigate which types of tissues and diseases can be best targeted by the peptide.
+
+It has been a long road from the first simulations at CSCS and laboratory tests to animal models, Viola Vogel points out. The experimental sciences routinely take a critical view of research based on simulations. But the ETH professor refutes this perception: “Through simulations we try to sharpen our thinking about molecular processes.” The researcher is convinced that the present findings could not have been achieved without simulations. “This brings us clearly to the point where simulations have predictive value,” says Vogel.
+
+This article by Simone Ulmer, editor science and technology, has been published first on the web site of CSCS.
+
+## Reference
+
+Arnoldini et al. Novel peptide probes to assess the tensional state of fibronectin fibers in cancer, Nature Communications (2017), DOI: 10.1038/s41467-017-01846-0 .
+

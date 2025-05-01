@@ -1,0 +1,38 @@
+# mm-eth-tag-2015
+
+**Source:** de_news_events/2015/11/mm-eth-tag-2015.html
+
+## Lehrziele an rasante Entwicklungen anpassen
+
+«Wir müssen die Dinge richtig machen, vor allem aber die richtigen Dinge machen – nur so können wir den Erfolg unserer Hochschule in einer sich rasant wandelnden Gesellschaft sichern.» Das sagte ETH-Rektorin Sarah Springman in ihrer Rede zum diesjährigen ETH-Tag. Die Rektorin zog Bilanz ihres erstes Amtsjahres und zeigte auf, wie sie die Studierenden ausbilden will, damit sie später als hochqualifizierte Fachkräfte in Wirtschaft und Gesellschaft wirken können.
+
+An einer Institution wie der ETH könne es nicht nur um die Kenntnis-Erweiterung der Studierenden in ihrem Fachgebiet gehen. «Wir müssen Fähigkeiten wie geistige Beweglichkeit und eigenständiges Denken fördern», betonte sie. Vielmehr sollten den jungen Menschen Werthaltungen vermittelt werden, wie unternehmerisches Denken und Führungsstärke sowie sozial und ökologisch verantwortungsvolles Handeln.
+
+Die Zukunft sei ungewiss und niemand könne voraussagen, in welcher Umgebung ETH-Absolventinnen und Absolventen in 40 Jahren arbeiten werden. Für die Lehre bedeute das, den richtigen Mix an Lehrangeboten zu finden und die Lernziele an neue Begebenheiten anzupassen. Angesichts der Flut an Informationen und deren schnellen Verbreitung stelle sich auch die Frage, ob Fachwissen vermehrt in die Breite oder eher in die Tiefe vermittelt werden solle und welche Bedeutung dem online- oder projektbasierten Lernen zukomme.
+
+Zum Schluss ging die ETH-Rektorin auf zwei Entwicklungen ein, die ihr Sorgen bereiten: Die sich abzeichnende Isolation der Schweiz in Europa sowie die bevorstehenden Sparprogramme des Bundes. «Bildung und Forschung wurden in der Schweiz immer als Investition in die Zukunft des Landes angesehen. Wir hoffen sehr, dass die öffentliche Hand auch weiterhin klug investiert», sagte sie.
+
+## Zukunftsfähige Verbindung
+
+Die Zürcher Stadtpräsidentin und ETH-Alumna Corine Mauch zeigte in ihrer Festansprache auf, wie sich die Stadt und die ETH Zürich historisch gemeinsam entwickelt haben. Dabei ging sie auf die Verbindungen der Stadt und der Hochschule ein und betonte deren Bedeutung für den Standort Zürich: «Stadt und ETH gehören zusammen und diese Verbindung ist bereichernd, erfolgreich und zukunftsfähig», so Mauch.
+
+Auch heute noch würden sich Stadt und ETH parallel entwickeln. Als Beispiel nannte Mauch die Realisierung des Masterplans im Hochschulgebiet Zürich Zentrum. Aber auch von den Entwicklungen am Standort Hönggerberg würden wichtige Impulse für die Stadt und das Stadtleben ausgehen. So sei Zürich nicht zuletzt wegen der Anziehungskraft der ETH eine junge, aber auch eine ungemein internationale Stadt. «Zürich wurde zu einer erfolgreichen Stadt, weil sie immer wieder Menschen aus der ganzen Schweiz und von überall auf der Welt eine neue Heimat bieten konnte», betonte die Stadtpräsidentin. Zürich werde eine gute Zukunft haben, wenn die Stadt für Menschen aus der ganzen Welt offen bleibe.
+
+Zwei Forscherinnen und ein Forscher erhielten am Festtag die Ehrendoktorwürde der ETH Zürich für ihre ausserordentlichen Leistungen in Wissenschaft und Lehre. Mark Felton Randolph, Professor für Bauingenieurswissenschaften und Fugro Chair in Geotechnics an der University of Western Australia in Perth, hat herausragende Beiträge im Bereich der Offshore-Geotechnik geleistet und neuartige Methoden für Offshore-Baugrunduntersuchungen entwickelt. Eine weitere Ehrendoktorwürde vergab die ETH an Frances Hamilton Arnold, Dickson-Professorin am California Institute of Technology, für ihre wegweisende Forschung auf dem Gebiet der gerichteten Evolution von Proteinen. Um neuartige Proteine zum Beispiel für den Einsatz in der Medizin zu kreieren, hat sie neue Ansätze entwickelt, um Darwins Evolutionslehre im Labor nachzuempfinden. Die dritte Ehrung ging an Mildred Dresselhaus, Professorin für Elektrotechnik am Massachusetts Institute of Technology. Aufgrund ihrer wegweisenden Beiträge zur Erforschung von Kohlenstoff-Strukturen gilt sie international als die «Queen of Carbon». Bereits in den 1960er Jahren untersuchte sie Graphit mit optischer Spektroskopie.
+
+Jürgen Dormann und Hansjörg Wyss wurden zu Ehrenräten ernannt für ihr aussergewöhnliches, persönliches Engagement zur Förderung der Lehre und Forschung bzw. der Forschung und des Technologietransfers an der ETH Zürich. Jürgen Dormann war als CEO und Verwaltungsrat in namhaften Firmen wie ABB, Adecco und Sulzer tätig. Seit 2008 leitet er die ETH Zürich Foundation als ehrenamtlicher Stiftungsratspräsident und hat in dieser Funktion die finanzielle Entwicklung der Stiftung massgeblich vorangetrieben und die Tradition der Hochschulförderung mit privaten Mitteln weiter etabliert. Hansjörg Wyss, erfolgreicher Unternehmer und ETH-Alumnus, hat mit einer ausserordentlichen Donation die Gründung des Wyss Translational Center ermöglicht. Das neue Forschungszentrum der Universität Zürich und der ETH dient als Schnittstelle von Medizin, Natur- und Ingenieurwissenschaften.
+
+## Goldene Eule für engagierte Dozierende
+
+Traditionellerweise werden auch die besten Lehrkräfte am ETH-Tag ausgezeichnet. Der Verband der Studierenden an der ETH Zürich (VSETH) verlieh je einer resp. einem Dozierenden pro Departement die Goldene Eule für besonders engagierte und exzellente Lehre. Der Credit Suisse Award For Best Teaching ging dieses Jahr an Prof. David J. Norris vom Departement Maschinenbau und Verfahrenstechnik.
+
+Am ETH-Tag gaben auch drei junge Talente aus dem Departement Chemie und Angewandte Biowissenschaften einen Einblick in ihre aktuellen Arbeiten. Sie präsentierten einen Prototypen für einen portablen Wasserfilter, einen neuen Therapieansatz gegen Gluten-Intoleranz sowie die Smartphone-App «apoc – advanced problems in organic chemistry», die als Lernumgebung von und für Studierende an der ETH und weltweit dienen soll.
+
+ETH-Präsident Lino Guzzella würdigte in seinem Schlusswort die Verdienste von Roman Boutellier, der Ende Jahr von seinem Amt als Vizepräsident Personal und Ressourcen altershalber zurücktreten wird. Roman Boutellier war während mehr als sieben Jahren für den Bau, die Renovation und den Betrieb der Gebäude zuständig und war verantwortlich für das Personal, die ETH-Bibliothek und die Informatikdienste. Er habe in allen diesen Bereichen Hervorragendes geleistet, so Guzzella. Der ETH-Präsident ergriff aber auch die Gelegenheit, seinen Stolz auf die Hochschule auszudrücken: «Ich mag ja etwas befangen sein in dieser Frage – aber ich bin überzeugt davon, dass die ETH eine helvetische Erfolgsgeschichte ist, welche in die ganze Welt ausstrahlt», sagte er.
+
+Die Texte aller Reden, die Kurzbiographien der diesjährigen Ehrendoktoren und Ehrenräte sowie eine Liste aller Preisträgerinnen und Preisträger finden Sie unter: www.eth-tag.ethz.ch
+
+## Videos ETH-Tag 2015
+
+Videos über den ETH-Tag 2015 finden Sie im Videoportal der ETH Zürich.
+
