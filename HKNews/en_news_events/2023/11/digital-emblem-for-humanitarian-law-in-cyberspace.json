@@ -1,0 +1,55 @@
+{
+  "language": "en",
+  "title": "• Cyberattacks on critical digital infrastructure not only cause financial and logistical damage. They can also have catastrophic humanitarian consequences, for example in hospitals.",
+  "date": "2023-11-01",
+  "source": "Linker, F, Basin, D. ADEM: An Authentic Digital EMblem. CCS ’23: Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security. November 2023. Pages 2815–2829. Published: 21 November 2023. DOI: 10.1145/3576915.3616578",
+  "main_content": "In brief: • Cyberattacks on critical digital infrastructure not only cause financial and logistical damage. They can also have catastrophic humanitarian consequences, for example in hospitals.\n• Together with the International Committee of the Red Cross (ICRC), ETH Zurich computer scientists have developed a protective emblem that can be easily and cost-effectively integrated into existing digital systems worldwide.\n• This \"Authentic Digital Emblem\" (ADEM) meets various security requirements and is also effective against automated cyberattacks. The emblem indicates that a digital infrastructure is entitled to protection. However, legal implementation remains a major challenge.\n\nTrusted emblem for protection against attacks: Ransomware attacks can paralyse organisations or entire countries by hacking into a network and encrypting critical data. The attackers then demand a ransom; if their demands aren’t met, the data will not be decrypted and may be lost forever. Depending on the given situation, the financial and logistical damage can be enormous. In January 2022, the International Committee of the Red Cross (ICRC) was the victim of a cyberattack. Data belonging to more than 500,000 people around the world was stored on the affected servers. This included data on people who needed special protection, such as missing persons, refugees from war zones and prisoners. “The ICRC’s digital infrastructure has grown considerably in recent years – and so has the number of cyberattacks on our systems,” says Mauro Vignati, Adviser Digital Technologies of Warfare at the ICRC. Particularly during wars and armed conflicts, such cyberattacks could also have catastrophic humanitarian consequences, for example if the digital infrastructure of a hospital is paralysed by the enemy.\n\nFor conflicts beyond cyberspace, the ICRC has employed protective emblems since the Geneva Conventions of 1949, the core of international humanitarian law. The red cross, red crescent and red crystal provide protection for hospitals, vehicles and employees of organisations in the International Red Cross and Red Crescent Movement network (including the ICRC). Today, the network has over 80 million members who are active in 192 countries. As a matter of principle, bearers of these emblems are protected by international humanitarian law, especially in conflicts. Warring parties are not allowed to attack them. “That’s why we’ve been wondering for some time whether we could also develop an emblem to protect our digital infrastructure,” Vignati says. Such a system would have to fulfil a number of requirements: “It should be easy and cost-effective to integrate into existing digital systems worldwide and easy to maintain. It would also have to bridge linguistic, technological and cultural differences.” What’s more, the emblem ought to be as flexible as possible. In certain situations, it’s important for ICRC staff to mask the emblem, Vignati says.\n\nMachine-readable and decentralised: The emblem they have developed is cryptographically secured using a digital signature – a long sequence of bits that can be read by a program developed for this purpose. This makes it possible to retrieve information about the owner, the IP or domain worthy of protection, as well as the publisher of the emblem. “It’s important that the emblem can be read by machines, because most cyberattacks today are automated,” Linker says. In other words, hacker software needs to automatically load and read the emblem, so it can recognise that it is accessing a system belonging to an organisation that is protected by international humanitarian law. And that needs to happen during the software’s first reconnaissance, before it does any damage to the system.\n\nAnother key requirement is for the digital emblem to be managed in a decentralised way rather than by a central authority. States that are committed to international humanitarian law should be able to verify that a certain digital infrastructure on their territory is entitled to protection and therefore bears an emblem. To this end, ADEM is based on an open standard, so governments can adapt the emblem’s implementation as flexibly as possible to their own requirements.\n\nPotential attacks on servers and networks can come from hacker groups, but also from states during a war. These want to remain undetected at all costs. “That’s why attackers must be able to view the emblem without either the protected institution or the issuer of the digital signature being able to tell that the emblem has been looked at.” Only then will potential attackers be prepared to have their systems run the scanner for detecting the emblem. “Standard internet authentication protocols aren’t suitable for this because they require interaction between the two parties involved,” Linker says. “That attracts attention, which means it won’t work in a conflict.” He managed to come up with a combination of suitable internet protocols (UDP, TLS and DNS) to mask the distribution of the emblem.\n\nLinker has now evaluated the system in a security analysis under a comprehensive threat model. His evaluation shows that the digital emblem cannot be misused by attackers and acts as a security guarantee. He says that this provides proof of concept. He is now developing the first prototypes further, while colleagues from the Centre for Cyber Trust in Bonn will conduct interviews with hackers to find out how willing people are to respect such an emblem. After all, only then will they bother to run a program that can recognise emblems. But this is something Linker is confident about: in the past, hackers have been known to avoid humanitarian targets on occasion, “for ethical reasons or simply to avoid attracting too much attention.”\n\nVignati from the ICRC is satisfied: “ADEM fulfils all our original requirements for a digital emblem.” The main task now is to further optimise the emblem’s visibility to potential attackers. However, it will probably be several years before the digital emblem actually starts helping to protect the ICRC’s critical digital infrastructure and hospitals in war zones. “The legal implementation is very challenging,” Vignati says. Implementing the emblem in the legal framework calls for adjustments to the Geneva Conventions: “Either through a new additional protocol or through an addition to the existing protocols.” The ICRC plans to showcase ADEM, along with another system designed at John Hopkins University, at an international humanitarian law conference to be held in October 2024. It will also present legal pathways for bringing the digital emblem into operation. “That would be an important first step in strengthening humanitarian protection in cyberspace,” Vignati says.",
+  "named_entities": [
+    "International Committee",
+    "Red Cross",
+    "Authentic Digital Emblem",
+    "In January",
+    "Mauro Vignati",
+    "Adviser Digital Technologies",
+    "Geneva Conventions",
+    "International Red Cross",
+    "Red Crescent Movement",
+    "Cyber Trust"
+  ],
+  "topics": [
+    "Technology & Innovation",
+    "International",
+    "Staff",
+    "Education",
+    "COVID-19",
+    "Finance"
+  ],
+  "keywords": [
+    "ETH Zurich",
+    "Emblem",
+    "Digital",
+    "That",
+    "Humanitarian",
+    "Have",
+    "International"
+  ],
+  "summary": "In brief: • Cyberattacks on critical digital infrastructure not only cause financial and logistical damage. They can also have catastrophic humanitarian consequences, for example in hospitals....",
+  "rich_metadata": {
+    "document_length_words": 1057,
+    "readability_score": "complex",
+    "sentiment": "negative",
+    "contains_compound_words": true,
+    "contains_umlauts": false,
+    "embedding_vector": "[...]",
+    "audience_type": [
+      "Students",
+      "Staff"
+    ],
+    "context_tags": [
+      "Financial",
+      "Technology",
+      "Events",
+      "International"
+    ]
+  }
+}

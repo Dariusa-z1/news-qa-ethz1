@@ -1,0 +1,56 @@
+{
+  "language": "en",
+  "title": "• Neuroprostheses are electro-mechanical devices that are connected to the nervous system. As yet, these are unable to provide natural communication with the brain. Instead, they often evoke artificial, unpleasant sensations, similar to a feeling of tingles over the skin.",
+  "date": "2024-02-01",
+  "source": "Valle G, Katic Secerovic N, Eggemann D, Gorskii O, Pavlova N, Petrini FM, Cvancara P, Stieglitz T, Musienko P, Bumbasirevic M, Raspopovic S: Biomimetic computer-to-brain communication enhancing naturalistic touch sensations via peripheral nerve stimulation. Nature Communications, 20 February 2024, doi: 10.1038/s41467-024-45190-6",
+  "main_content": "In brief: • Neuroprostheses are electro-mechanical devices that are connected to the nervous system. As yet, these are unable to provide natural communication with the brain. Instead, they often evoke artificial, unpleasant sensations, similar to a feeling of tingles over the skin.\n• This paraesthesia might be caused by overstimulation of the nervous system. ETH Zurich researchers together with colleagues in Germany, Serbia and Russia have proposed that neuroprosthetics should transmit biomimetic signals that are easier for the brain to understand.\n• These new findings are relevant to arm and leg prostheses as well as various other aids and devices, including spinal implants and electrodes for brain stimulation.\n\nModel simulates activation of nerves in the sole: A few years ago, a team of researchers working under Professor Stanisa Raspopovic at the ETH Zurich Neuroengineering Lab gained worldwide attention when they announced that their prosthetic legs had enabled amputees to feel sensations from this artificial body part for the first time. Unlike commercial leg prostheses, which simply provide amputees with stability and support, the ETH researchers’ prosthetic device was connected to the sciatic nerve in the test subjects’ thigh via implanted electrodes.\n\nThis electrical connection enabled the neuroprosthesis to communicate with the patient’s brain, for example relaying information on the constant changes in pressure detected on the sole of the prosthetic foot when walking. This gave the test subjects greater confidence in their prosthesis – and it enabled them to walk considerably faster on challenging terrains. “Our experimental leg prosthesis succeeded in evoking natural sensations. That’s something current neuroprostheses are mainly unable to do; instead, they mostly evoke artificial, unpleasant sensations,” Raspopovic says.\n\nThis is probably because today’s neuroprosthetics are using time-constant electrical pulses to stimulate the nervous system. “That’s not only unnatural, but also inefficient,” Raspopovic says. In a recently published paper, he and his team used the example of their leg prostheses to highlight the benefits of using naturally inspired, biomimetic stimulation to develop the next generation of neuroprosthetics.\n\nTo generate these biomimetic signals, Natalija Katic – a doctoral student in Raspopovic’s research group – developed a computer model called FootSim. It is based on data collected by collaborators in Canada, who recorded the activity of natural receptors, named mechanoreceptors, in the sole of the foot while touching different points on the feet of volunteers with a vibrating rod.\n\nThe model simulates the dynamic behaviour of large numbers of mechanoreceptors in the sole of the foot and generates the neural signals that shoot up the nerves in the leg towards the brain – from the moment the heel strikes the ground and the weight of the body starts to shift forward to the outside of the foot until the toes push off the ground ready for the next step. “Thanks to this model, we can see how semsory receptors from the sole, and the connected nerves, behave during walking or running, which is experimentally impossible to measure” Katic says.\n\nInformation overload in the spinal cord: To assess how closely the biomimetic signals calculated by the model correspond to the signals emitted by real neurons, Giacomo Valle – a postdoc in Raspopovic’s research group – worked with colleagues in Germany, Serbia and Russia on experiments with cats, whose nervous system processes movement in a similar way to that of humans. The experiments took place in 2019 at the Pavlov Institute of Physiology in St. Petersburg and were carried out in accordance with the relevant European Union guidelines.\n\nThe researchers implanted electrodes, connecting some to the nerve in the leg and some to the spinal cord to discover how the signals are transmitted through the nervous system. When the researchers applied pressure to the bottom of the cat’s paw, thereby evoking the natural neural response that occurs when a cat takes a step, the peculiar pattern of activity recorded in the spinal cord did indeed resemble the patterns that were elicited in the spinal cord when the researchers stimulated the leg nerve with biomimetic signals.\n\nBy contrast, the conventional approach of time-constant stimulation of the sciatic nerve in the cat’s thigh elicited a markedly different pattern of activation in the spinal cord. “This clearly shows that the commonly used stimulation methods cause the neural networks in the spine to be flooded with information,” Valle says. “This information overload could be the reason for the unpleasant sensations or paraesthesia reported by some users of neuroprosthetics,” Raspopovic adds.\n\nIn their clinical trial with leg amputees, the researchers were able to show that biomimetic stimulation is superior to time-constant stimulation. Their work clearly demonstrated how the signals that mimicked nature produced better results: not only were the test subjects able to climb steps faster, they also made fewer mistakes in a task that required them to climb the same steps while spelling words backwards. “Biomimetic neurostimulation allows subjects to concentrate on other things while walking,” Raspopovic says, “so we concluded that this type of stimulation is more naturally processed and less taxing on the brain.”\n\nRaspopovic, whose lab forms part of the ETH Institute of Robotics and Intelligent Systems, believes that these new findings are not only relevant to the limb prostheses he and his team have been working on for over half a decade. He argues that the need to move away from unnatural, time-constant stimulation towards biomimetic signals also applies to a whole series of other aids and devices, including spinal implants and electrodes for brain stimulation. “We need to learn the language of the nervous system,” Raspopovic says. “Then we’ll be able to communicate with the brain in ways it really understands.”",
+  "named_entities": [
+    "Professor Stanisa Raspopovic",
+    "Zurich Neuroengineering Lab",
+    "Natalija Katic",
+    "Giacomo Valle",
+    "Pavlov Institute",
+    "European Union",
+    "Intelligent Systems",
+    "Neuroprostheses",
+    "Germany",
+    "Serbia"
+  ],
+  "topics": [
+    "Research",
+    "Weather & Environment",
+    "Communication",
+    "Staff",
+    "Technology & Innovation",
+    "Education"
+  ],
+  "keywords": [
+    "ETH Zurich",
+    "That",
+    "With",
+    "Signals",
+    "Stimulation",
+    "Brain",
+    "This"
+  ],
+  "summary": "In brief: • Neuroprostheses are electro-mechanical devices that are connected to the nervous system. As yet, these are unable to provide natural communication with the brain....",
+  "rich_metadata": {
+    "document_length_words": 936,
+    "readability_score": "complex",
+    "sentiment": "positive",
+    "contains_compound_words": true,
+    "contains_umlauts": false,
+    "embedding_vector": "[...]",
+    "audience_type": [
+      "Students",
+      "Faculty",
+      "Researchers"
+    ],
+    "context_tags": [
+      "Technology",
+      "Research",
+      "Communications",
+      "International"
+    ]
+  }
+}
