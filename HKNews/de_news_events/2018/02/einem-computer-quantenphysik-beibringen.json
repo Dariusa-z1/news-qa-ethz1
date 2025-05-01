@@ -1,0 +1,55 @@
+{
+  "language": "de",
+  "title": "Einem Computer Quantenphysik Beibringen",
+  "date": "2018-02-26",
+  "source": "ETH Zürich, Hochschulkommunikation",
+  "main_content": "Quantenphysik und Handschriften: Physikstudenten verbringen viele Jahre damit, die oft absurd erscheinenden Gesetze und Effekte der Quantenmechanik zu beherrschen. Der Quantenzustand eines physikalischen Systems kann, zum Beispiel, so lange unbestimmt sein, bis man ihn misst, und eine Messung an einem Teil des Systems kann den Zustand eines weit entfernten Teils beeinflussen, ohne dass zwischen den beiden Informationen ausgetauscht werden.\n\nDas ist alles schon verwirrend genug. Doch die Probleme gehen weiter, wenn die Studenten ihren Abschluss machen und mit der Forschung beginnen: Um den Zustand eines Quantensystems im Experiment exakt zu bestimmen, muss man diesen Zustand erst sorgfältig präparieren und dann viele Messungen an ihm durchführen, immer und immer wieder. Sehr oft kann man das, woran man interessiert ist, nicht einmal direkt messen.\n\nEin internationales Forscherteam unter Leitung von Giuseppe Carleo, Oberassistent am Institut für Theoretische Physik der ETH Zürich, hat nun eine Software für maschinelles Lernen entwickelt, mit deren Hilfe ein Computer den Quantenzustand eines komplexen physikalischen Systems aufgrund experimenteller Beobachtungen «lernen» und die Ergebnisse hypothetischer Messungen vorhersagen kann. In Zukunft könnten solche Computerprogramme dazu verwendet werden, die Genauigkeit von Quantencomputern zu testen.\n\nDas Prinzip seines Ansatzes, erklärt Carleo, ist recht simpel. Er benutzt einen intuitiven Vergleich, der die komplizierten Details der Quantenmechanik elegant umschifft: «Was wir machen ist, grob gesagt, in etwa so, als würden wir einem Computer beibringen, meine Handschrift zu imitieren. Dazu zeigen wir ihm eine Reihe von Schriftproben, aus denen er dann nach und nach lernt, meine a’s, l’s und so weiter nachzuahmen.»\n\nDer Computer schafft das, indem er sich beispielsweise die Schreibweisen für ein «l» ansieht, das auf ein «a» folgt. Diese Schreibweisen sind nicht immer gleich, weshalb der Computer eine Wahrscheinlichkeitsverteilung berechnet, die mathematisch ausdrückt, wie oft ein Buchstabe auf eine bestimmte Art geschrieben wird, wenn ihm ein anderer Buchstabe vorausgeht. «Sobald der Computer diese Verteilung herausgefunden hat, könnte er damit etwas reproduzieren, das meiner Handschrift sehr ähnlich sieht», sagt Carleo.\n\nSchnellere Tomographie für Quantenzustände: Die Quantenphysik ist natürlich viel komplizierter als die Handschrift einer Person. Dennoch ist das Prinzip, das Carleo (der vor Kurzem an das Flatiron Institute in New York gewechselt ist) zusammen mit Matthias Troyer, Guglielmo Mazzola (beide an der ETH) und Giacomo Torlai von der Universität Waterloo sowie Kollegen vom Perimeter Institute und der Firma D-Wave in Kanada für ihren Maschinenlern-Algorithmus benutzt haben, ziemlich ähnlich.\n\nDer Quantenzustand des physikalischen Systems wird in einem so genannten neuronalen Netz kodiert, und das Lernen geschieht in kleinen Schritten, indem der aktuelle Zustand des Netzes in zu erwartende Messwahrscheinlichkeiten übersetzt wird. Diese Wahrscheinlichkeiten werden dann mit den echten Messdaten verglichen, und das Netz wird daraufhin so angepasst, dass die Übereinstimmung in der nächsten Runde besser wird. Wenn diese Übungsphase abgeschlossen ist, kann man den im neuronalen Netz gespeicherten Quantenzustand für «virtuelle» Experimente verwenden, ohne diese tatsächlich im Labor durchzuführen.\n\n«Maschinelles Lernen zur Rekonstruktion von Quantenzuständen aus Messergebnissen zu verwenden, hat eine Reihe von Vorteilen», erklärt Carleo. Er führt ein eindrucksvolles Beispiel an, in dem der Quantenzustand von nur acht zusammenhängenden Quantensystemen (gefangenen Ionen) experimentell bestimmt werden sollte. Mit einem als Quantentomographie bekannten Standardverfahren waren in etwa eine Million Messungen nötig, um die gewünschte Genauigkeit zu erreichen. Die neue Methode dagegen schaffte das mit wesentlich weniger Messungen, und zudem konnten auch deutlich grössere Systeme untersucht werden, die vorher nicht zugänglich waren.\n\nDas ist vielversprechend, denn für gewöhnlich geht man davon aus, dass die Zahl an Rechenschritten, die man benötigt, um ein komplexes Quantensystem auf einem klassischen Computer zu simulieren, exponentiell mit der Zahl der Quantenobjekte im System ansteigt. Der Hauptgrund dafür ist ein Phänomen namens Verschränkung, das dazu führt, dass weit voneinander entfernte Teile des Systems innig miteinander in Verbindung stehen, obwohl sie keine Informationen austauschen. Carleo und seine Kollegen verwenden eine Schicht aus «versteckten» Neuronen, um dies zu berücksichtigen. Dadurch schafft es der Computer, den korrekten Quantenzustand auf viel kompaktere Weise zu kodieren.\n\nDie Möglichkeit Quantensysteme zu untersuchen, die aus vielen Komponenten – oder «Qubits», wie sie häufig genannt werden – bestehen, ist zudem für künftige Quantentechnologien von Bedeutung, wie Carleo betont: «Wenn wir Quantencomputer testen wollen, die aus mehr als einer Handvoll an Qubits bestehen, werden wir das mit herkömmlichen Mitteln wegen der exponentiellen Skalierung nicht schaffen. Unser Ansatz über das maschinelle Lernen dagegen sollte es uns ermöglichen, Quantencomputer mit bis zu 100 Qubits zu testen.» Ausserdem kann die Maschinenenlern-Software Experimentalphysikern helfen, indem sie es ihnen erlaubt, virtuelle Messungen durchzuführen, die im Labor nur sehr schwierig zu realisieren wären.\n\nEin Beispiel dafür ist der Verschränkungsgrad eines Systems, das aus vielen miteinander wechselwirkenden Qubits besteht. Bislang ist die Methode nur an künstlich erzeugten Daten getestet worden, aber die Forscher planen, sie schon bald für die Analyse von echten experimentellen Daten zu benutzen.\n\nLiteraturhinweis: Torlai G, Mazzola G, Carrasquilla J, Troyer M, Melko R, Carleo G: Neural-network quantum state tomography. Nature Physics (2018), published online 26th Feb 2018. doi: externe Seite 10.1038/s41567-018-0048-5",
+  "named_entities": [
+    "Der Quantenzustand",
+    "Giuseppe Carleo",
+    "Theoretische Physik",
+    "In Zukunft",
+    "Das Prinzip",
+    "Der Computer",
+    "Diese Schreibweisen",
+    "Schnellere Tomographie",
+    "Die Quantenphysik",
+    "Flatiron Institute"
+  ],
+  "topics": [
+    "Technology & Innovation",
+    "Research",
+    "Education",
+    "Campus Life",
+    "International",
+    "Communication"
+  ],
+  "keywords": [
+    "ETH Zurich",
+    "University",
+    "Research",
+    "Science",
+    "Campus",
+    "Education"
+  ],
+  "summary": "Quantenphysik und Handschriften: Physikstudenten verbringen viele Jahre damit, die oft absurd erscheinenden Gesetze und Effekte der Quantenmechanik zu beherrschen....",
+  "rich_metadata": {
+    "document_length_words": 816,
+    "readability_score": "complex",
+    "sentiment": "slightly negative",
+    "contains_compound_words": true,
+    "contains_umlauts": true,
+    "embedding_vector": "[...]",
+    "audience_type": [
+      "Students",
+      "Researchers",
+      "Administration"
+    ],
+    "context_tags": [
+      "Technology",
+      "Research",
+      "Administrative",
+      "International"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "language": "en",
+  "title": "• Researchers at ETH Zurich have created a generative artificial intelligence (AI) for developing drug molecules based on the three-dimensional surface of proteins with which the molecules are to interact.",
+  "date": "",
+  "source": "Atz K, Cotos L, Isert C, Håkansson M, Focht D, Hilleke M, Nippa DF, Iff M, Ledergerber J, Schiebroek CCG, Romeo V, Hiss JA, Merk D, Schneider P, Kuhn B, Grether U, Schneider G: Prospective de novo drug design with deep interactome learning. Nature Communications, 22 April 2024, doi: 10.1038/s41467-024-47613-w",
+  "main_content": "In brief: • Researchers at ETH Zurich have created a generative artificial intelligence (AI) for developing drug molecules based on the three-dimensional surface of proteins with which the molecules are to interact.\n• The new computer process ensures right from the start that the molecules can also be chemically synthesised.\n• The scientists have made their new software available to researchers worldwide, who can now use the method for their own projects.\n\nExcluding side effects from the outset: “It’s a real breakthrough for drug discovery,” says Gisbert Schneider, Professor at ETH Zurich’s Department of Chemistry and Applied Biosciences. Together with his former doctoral student Kenneth Atz, he has developed an algorithm that uses artificial intelligence (AI) to design new active pharmaceutical ingredients. For any protein with a known three-dimensional shape, the algorithm generates the blueprints for potential drug molecules that increase or inhibit the activity of the protein. Chemists can then synthesise and test these molecules in the laboratory.\n\nAll the algorithm needs is a protein’s three-dimensional surface structure. Based on that, it designs molecules that bind specifically to the protein according to the lock-and-key principle so they can interact with it.\n\nThe new method builds on the decades-long efforts of chemists to elucidate the three-dimensional structure of proteins and to use computers to search for suitable potential drug molecules. Until now, this has often involved laborious manual work, and in many cases the search yielded molecules that were very difficult or impossible to synthesise. If researchers used AI in this process at all in recent years, it was primarily to improve existing molecules.\n\nNow, without human intervention, a generative AI is able to develop drug molecules from scratch that match a protein structure. This groundbreaking new process ensures right from the start that the molecules can be chemically synthesised. In addition, the algorithm suggests only molecules that interact with the specified protein at the desired location and hardly at all with any other proteins. “This means that when designing a drug molecule, we can be sure that it has as few side effects as possible,” Atz says.\n\nTo create the algorithm, the scientists trained an AI model with information from hundreds of thousands of known interactions between chemical molecules and the corresponding three-dimensional protein structures.\n\nTogether with researchers from the pharmaceutical company Roche and other cooperation partners, the ETH team tested the new process and demonstrated what it is capable of. The scientists searched for molecules that interact with proteins in the PPAR class – proteins that regulate sugar and fatty acid metabolism in the body. Several diabetes drugs used today increase the activity of PPARs, which causes the cells to absorb more sugar from the blood and the blood sugar level to fall.\n\nStraightaway the AI designed new molecules that also increase the activity of PPARs, like the drugs currently available, but without a lengthy discovery process. After the ETH researchers had produced these molecules in the lab, colleagues at Roche subjected them to a variety of tests. These showed that the new substances are indeed stable and non-toxic right from the start.\n\nThe researchers aren’t now pursuing these molecules any further with a view to bringing drugs based on them to the market. Instead, the purpose of the molecules was to subject the new AI process to an initial rigorous test. Schneider says, however, that the algorithm is already being used for similar studies at ETH Zurich and in industry. One of these is a project with the Children’s Hospital Zurich for the treatment of medulloblastomas, the most common malignant brain tumours in children. Moreover, the researchers have published the algorithm and its software so that researchers worldwide can now use them for their own projects.\n\n“Our work has made the world of proteins accessible for generative AI in drug research,” Schneider says. “The new algorithm has enormous potential.” This is especially true for all medically relevant proteins in the human body that don’t interact with any known chemical compounds.\n\n“Artificial Intelligence for Switzerland” series: Artificial intelligence (AI) is having an impact on every aspect of our lives – research included. Machine learning methods are being used in projects across all disciplines. ETH Zurich also conducts fundamental research in this field, however. Working in collaboration with EPFL, it has launched the Swiss AI Initiative. This aims to position Switzerland as a leading global location in which to develop and use transparent and trustworthy AI. In this series, we use specific examples to show how ETH is working on joint projects with industry, NGOs and the authorities to harness AI for Switzerland, thereby creating added value for our country.\n\nFeatured topic “Artificial intelligence at ETH Zurich”",
+  "named_entities": [
+    "Gisbert Schneider",
+    "Applied Biosciences",
+    "Kenneth Atz",
+    "Hospital Zurich",
+    "Artificial Intelligence",
+    "Researchers",
+    "Professor",
+    "Department",
+    "Chemistry",
+    "Roche"
+  ],
+  "topics": [
+    "Research",
+    "International",
+    "Technology & Innovation",
+    "Staff",
+    "Education",
+    "Finance"
+  ],
+  "keywords": [
+    "ETH Zurich",
+    "Molecules",
+    "That",
+    "With",
+    "Researchers",
+    "From",
+    "Algorithm"
+  ],
+  "summary": "",
+  "rich_metadata": {
+    "document_length_words": 788,
+    "readability_score": "complex",
+    "sentiment": "neutral",
+    "contains_compound_words": true,
+    "contains_umlauts": false,
+    "embedding_vector": "[...]",
+    "audience_type": [
+      "Students",
+      "Faculty",
+      "Researchers"
+    ],
+    "context_tags": [
+      "Technology",
+      "Research",
+      "Education",
+      "International"
+    ]
+  }
+}
