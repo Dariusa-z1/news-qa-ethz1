@@ -2,31 +2,27 @@
 
 **Source:** de_internal/2021/10/hindernisfreie-eth-fortschritte-in-raumakustik-und-lehre.html
 
-## Infoportal barrierefreie digitale Lehrmittel
+**Date processed:** 2025-05-01
 
-- Die Seite e-Accessibility Basics gibt eine umfassende, leicht verständliche Einführung ins Thema digitale Barrierefreiheit.
-
-- Accessibility @ ETHZ informiert konkret über geplante Massnahmen im Rahmen des Teilprojekts 13 «Barrierefreie Lehrmittel».
-
-- Auf Support Services werden fortlaufend neue Unterstützungsangebote zur Förderung der barrierefreien Lehre an der ETH publiziert.
-
-- Und unter Resources sind die wichtigsten internationalen Websites zum Thema verlinkt.
+## Main article
 
 Eine ungenügende Raumakustik bei einem leise gesprochenen Vortrag, undeutliche Fragen von den Zuhörenden, oder aber das eigene eingeschränkte Gehör – all dies kann dazu führen, dass wir von den vielen Lehrveranstaltungen und Vorträgen, die jeden Tag an der ETH gehalten werden, nur einen Teil verstehen. Deswegen wurde durch die Informatikdienste (ID) in der Semesterpause die Hörverständlichkeit in Lehrräumen verbessert: Zahlreiche Hörsäle und Seminarräume wurden mit sogenannten Hörschlaufen ausgestattet. Dadurch können Hörgeräte Audiosignale wie Musik oder Vorträge in Räumen empfangen und störungsarm wiedergeben.
 
-## Veranstaltung «Barrieren abbauen – auch in den Köpfen»
-
 Zusätzlich wurde in einem Pilotprojekt im Gebäude NO an der Clausiusstrasse im Hörsaal C60 die Raumakustik generell verbessert. Durch eine neu eingezogene Decke konnte die sogenannte Nachhallzeit, also das «Leiserwerden» eines Tons oder Geräusches nach der Abschaltung der Schallquelle, deutlich reduziert werden, sodass bei Vorträgen die Sprachverständlichkeit verbessert wurde.
 
-## Hindernisfreiheit an der ETH Zürich
+## Infoportal barrierefreie digitale Lehrmittel
 
 Nicht nur akustisch, auch inhaltlich sollen Lehrveranstaltungen zunehmend barrierefrei werden. Um dieses Ziel im Laufe der nächsten Jahre zu erreichen, wurde von der Abteilung Lehrentwicklung und -technologie (LET) ein neues Infoportal zu Themen der barrierefreien Lehre unter Lehre -> e-Accessibility aufgeschaltet. Das Portal ist nur auf Englisch verfügbar und gliedert sich aktuell in vier Bereiche:
 
-## Staffnet
+• Die Seite e-Accessibility Basics gibt eine umfassende, leicht verständliche Einführung ins Thema digitale Barrierefreiheit.
+• Accessibility @ ETHZ informiert konkret über geplante Massnahmen im Rahmen des Teilprojekts 13 «Barrierefreie Lehrmittel».
+• Auf Support Services werden fortlaufend neue Unterstützungsangebote zur Förderung der barrierefreien Lehre an der ETH publiziert.
+• Und unter Resources sind die wichtigsten internationalen Websites zum Thema verlinkt.
+## Veranstaltung «Barrieren abbauen – auch in den Köpfen»
 
 Das Online-Webinar «Barrieren abbauen – auch in den Köpfen» findet am 24. November 2021 von 13-14 Uhr im Rahmen der «Respekt Events 2021» statt. Bitte melden Sie sich hier an.
 
-## Newsletter abonnieren
+## Hindernisfreiheit an der ETH Zürich
 
 Die Schulleitung hat im Herbst 2020 den Startschuss gegeben für die Umsetzung von Hindernisfreiheit: Menschen mit Behinderungen oder Menschen mit besonderen Bedürfnissen – seien es Studierende, Lehrende, Forschende, Mitarbeitende oder Besucherinnen und Besucher – sollen im Verlauf der nächsten Jahre weitgehend uneingeschränkten Zugang zu den Gebäuden und Dienstleistungen der ETH erhalten.
 

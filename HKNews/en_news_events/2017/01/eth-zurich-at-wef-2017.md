@@ -2,9 +2,13 @@
 
 **Source:** en_news_events/2017/01/eth-zurich-at-wef-2017.html
 
-## International exchange
+**Date processed:** 2025-05-01
+
+## Main article
 
 In his welcome address, ETH President Lino Guzzella emphasised the many connections between ETH and the canton of Grisons, including a number of impressive constructions such as the Sunniberg Bridge near Klosters, designed by ETH engineer Christian Menn. He also mentioned the research conducted at Alp Weissenstein, the Villa Garbald in Castasegna, Bergell, and the recently launched concept for a transalpine railway between Scuol (CH), Mals (IT) and Landeck (A). In addition, ETH architecture student Ursin Huonder has produced plans and a model for improvements to the Lower Engadine village Tschlin, home to just 300 residents. Lino Guzzella: “One of the reasons we've come to Davos is to explore and deepen opportunities for collaboration with the canton of Grisons.”
+
+## International exchange
 
 The ETH delegation is also using the World Economic Forum 2017 as an opportunity for exchange with the huge range of WEF participants from around the world. There are numerous meetings on the agenda with representatives of various elite universities, international associations and industries.
 

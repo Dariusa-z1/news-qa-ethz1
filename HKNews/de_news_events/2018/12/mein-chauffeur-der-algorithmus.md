@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2018/12/mein-chauffeur-der-algorithmus.html
 
+**Date processed:** 2025-05-01
+
 ## Stadtmobilität neu denken
 
 Die Zukunft der Mobilität kündigt sich in Meilensteinen an: Die ­Google-Tochter «Waymo» verlautbarte diesen Februar, dass ihre Flotte an selbstfahrenden Autos über acht Millionen Kilometer auf öffentlichen Strassen zurückgelegt hat. Kurz zuvor hatte der Fahrdienst Uber drei Millionen Kilometer verkündet. Geht es nach der Industrie, werden wir uns die Strassen bald flächendeckend mit Fahrzeugen teilen, die nicht mehr von Lenkern, sondern von Algorithmen gesteuert werden. Übertriebener Techoptimismus oder realistisches Szenario?
@@ -10,23 +12,19 @@ Wir fragen einen renommierten Experten auf dem Gebiet, den Italiener Emilio Fraz
 
 Vor seinem Wechsel an die ETH war Frazzoli zehn Jahre Professor am renommierten MIT in Boston. Von Beginn an arbeitete er an autonomen Systemen, anfänglich vor allem für Flugzeuge und Drohnen. «Das war zwar technisch meist ziemlich cool, doch trug es nicht wirklich zur Lösung von gesellschaftlichen Herausforderungen bei.» 2009 stellte er sich die Sinnfrage: «Das Hauptargument für die Forschung an selbstfahrenden Autos lautete damals immer: ‹weil sie den Verkehr sicherer machen›.»
 
-## Globe - Intelligente Mobilität
-
 Diese Annahme stimme zumindest längerfristig, doch den viel grösseren, mittelfristigen Nutzen erkannte Frazzoli im Poten­zial, die individuelle Mobilität von Stadtbewohnern komplett neu zu denken. «Das Ziel meiner Forschungsgruppe ist eine Mobilität mit den Annehmlichkeiten eines Privatautos, die so nachhaltig ist wie der öffentliche Verkehr.» Eine Art «Uber» also, nur ohne Fahrer und deshalb viel günstiger und breiter verfügbar.
 
 Dank Elektrifizierung und besserer Auslastung zudem bei deutlich geringerem Energieverbrauch und tieferen CO2-Emissionen. Private Autos sind nämlich durchschnittlich 5 Prozent der Zeit im Gebrauch. Die restlichen 95 Prozent stehen sie rum, in Parkhäusern, Garagen oder auf öffentlichem Grund. Das ist weder nachhaltig noch städtebaulich oder ressourcenökonomisch sinnvoll.
 
 Frazzolis Start-up «NuTonomy», der Steuerungssoftware für auto­nome Fahrzeuge entwickelt, begann 2014 Tests mit selbstfahrenden Fahrzeugen in Singapur zu planen. Gleichzeitig publizierte der Professor einen Artikel, indem er für den 719 km2 grossen Stadtstaat berechnete, was der vollständige Ersatz von privaten mit geteilten, selbstfahrenden Fahrzeugen für das Verkehrsaufkommen bedeuten würde. Das Ergebnis: Mit rund 40 Prozent (350 000 anstatt 800 000 Fahrzeuge) könnten die Mobilitätsbedürfnisse der gesamten Bevölkerung des Stadtstaates befriedigt werden.
 
-## Transformation simulieren
-
 Ein Jahr später kündigte Premierminister Lee Hsien Loong die Vision einer «Car Lite Future» an, basierend auf selbstfahrenden Fahrzeugen, dem Ausbau des ÖV und des Langsamverkehrs. Mit einer Dichte von 7697 Menschen pro km2 (in der Schweiz: 203) ist der 5,5-Millionen-Stadtstaat wie keine andere Metropole auf einen effizienten Verkehr angewiesen. Die Nachfrage nach privaten Autos wird deshalb seit Jahren durch hohe Zölle und Kosten für Fahrbewilligungen von bis zu 70 000 Dollar stark reguliert. Auf einer zwei Hektaren grossen Teststrecke der Nanyang Technological University im Westen der Insel testen heute mehr als zehn Unternehmen ihre Systeme. Ab 2022 sollen drei Randgebiete der Stadt ausserhalb der Stosszeiten mit ersten selbstfahrenden Bussen bedient werden.
+
+## Transformation simulieren
 
 Pieter Fouries «Labor» liegt im Südwesten von Singapur. Dort, in einem hellen Büro im 6. Stock des grün bewachsenen CREATE-Towers der Universität Singapur (NUS), forscht er für das «Future Cities Laboratory» der ETH Zürich an den Städten der Zukunft. Fourie leitet das Projekt «Engaging Mobility», in dessen Rahmen im Juli 2017 ein erster Workshop mit Regierungsbehörden und Hochschulen stattfand. Ziel war es, die Rahmenbedingungen für eine stadtweite «Mobility on Demand» mit selbstfahrenden Autos und Bussen zu definieren. Davon ausgehend wurden die wichtigsten Forschungsfragen formuliert. Zum Beispiel: Was geschieht mit der heute vorhandenen Parkfläche, wenn ein Grossteil der Fahrzeuge konstant unterwegs ist? Müssen Strassenführungen neu geplant werden? Und welche Auswirkungen wird ein automatisierter und elektrifizierter Verkehr auf den bestehenden ÖV, die Energienachfrage und die Sicherheit haben?
 
 Solchen Fragen geht Fourie mit der Simulationsplattform MATSim nach, die in der Gruppe von Professor Kay Axhausen am Institut für Verkehrsplanung und Transportsysteme der ETH Zürich entwickelt wurde. MATSim ist Agenten-basiert. Das heisst, die Simulation wird durch das Verhalten der einzelnen Agenten angetrieben und nicht durch übergeordnete Regeln.
-
-## Entscheidungsdilemmas
 
 «Basierend auf den aktuellsten demografischen Daten zur Bevölkerung Singapurs modellieren wir eine synthetische Population, die der echten so nahe kommt wie möglich», erklärt Fourie. In dieser Population hat jeder einzelne Agent ein bestimmtes Mobilitätsverhalten und Transportziel, basierend auf reellen Verkehrsdaten. Fourie spielt nun mit den Rahmenbedingungen, darunter der Anzahl von eingeführten Fahrzeugen, deren Grösse, den maximal zulässigen Wartezeiten für Passagiere, der Verfügbarkeit von Parkplätzen und unterschiedlichen Verkehrsführungen. Dann lässt er die synthetische Population während 24 Stunden ihren Dingen nachgehen. Dabei bewertet das System automatisch für jeden einzelnen Agenten, wie effizient dieser bei verschiedenen Szenarien seine Ziele erreichen konnte.
 

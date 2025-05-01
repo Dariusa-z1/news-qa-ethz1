@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2014/07/eth-zuerich-met-new-york-ein-rueckblick-im-hauptgebaeude.html
 
+**Date processed:** 2025-05-01
+
 ## Eine Bühne für die ETH Zürich
 
 «Die ETH-Community soll wissen, wie wir uns ausserhalb der Schweiz darstellen», sagt Jürg Brunnschweiler, Leiter ETH Global. Welche visionären Bewegungen und Ideen stammen aus Zürich? Und welchen Einfluss haben Sie auf das heutige Amerika? Solche Fragen wurden am Festival «Zürich Meets New York: A Festival of Swiss Ingenuity» vom 16. bis 23. Mai in New York zur Debatte gestellt.
@@ -11,8 +13,6 @@ Die Veranstaltung wurde gemeinsam von der ETH Zürich, der Stadt Zürich, der Un
 Nun zeigt die Retrospektive «ETH Zürich Met New York» mit Videos, Bannern und Fotowänden, wie sich die ETH Zürich in New York präsentiert hat. Der Rückblick findet vom 22. Juli bis 12. August in der Haupthalle des Hauptgebäudes der ETH Zürich statt.
 
 «ETH Global hat die Aufgabe, unsere Hochschule im Ausland als führende naturwissenschaftlich-technische Universität zu positionieren. Die USA ist für die ETH der wichtigste Markt, dort will sie bekannt sein – bei zukünftigen Studenten, Forschenden und in der Start-up-Szene», sagt Brunnschweiler.
-
-## Festival 2016 in San Francisco
 
 Die Woche in New York habe viel gebracht: «Das Festival war eine grossartige Bühne für die ETH Zürich. Was wir in diesen Tagen auf die Beine gestellt haben, hat auf alle, die wir erreicht haben, Eindruck gemacht», sagt Brunnschweiler. «Die Rückmeldungen waren ausnahmslos positiv.»
 

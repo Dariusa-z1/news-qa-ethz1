@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2014/09/falling-walls-lab-im-millers-studio.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Am Dienstag, 23. September ist es soweit: Am externe Seite Falling Walls Lab in Zürich stellen junge Teilnehmer aus allen Disziplinen ihr Projekt vor. Dafür haben sie gerade mal drei Minuten Zeit und dürfen nur drei Powerpoint-Slides verwenden.

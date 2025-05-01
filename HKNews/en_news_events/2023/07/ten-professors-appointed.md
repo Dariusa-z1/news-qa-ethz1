@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2023/07/ten-professors-appointed.html
 
+**Date processed:** 2025-05-01
+
 ## New appointments
 
 (Photograph: Marlene Gawrisch)
@@ -18,13 +20,13 @@ Dr Michelle Frei (*1991), currently Postdoctoral Researcher at the University of
 
 (Photograph: private)
 
-## Promotions
-
 Dr Marie Schoelmerich (*1989), currently Postdoctoral Research Fellow at the University of California, Berkeley, USA, as Tenure Track Assistant Professor of Environmental Microbiology in the Department of Environmental Systems Science. Marie Schoelmerich’s research deals with biochemical and bioenergetic questions relating to anaerobic bacteria that use ancient metabolic pathways. The main research focus of her group at ETH Zurich will be on anaerobic microorganisms which play a key role in the CO 2 and CH 4 cycle. This appointment will ideally complement interdisciplinary research within the Department, as well as strengthening links with the Department of Biology, the Department of Health Sciences and Technology, and Eawag.
 
 (Photograph: private)
 
 April Yi Wang (*1995), currently a doctoral student at the University of Michigan, USA, as Tenure Track Assistant Professor of Educational Technology in the Department of Computer Science. April Yi Wang’s research focuses on the investigation and further development of modern digital technologies, with particular reference to tools that enable and facilitate efficient cooperation between data scientists. She also uses methods based on artificial intelligence, thus working at the cutting edge at a time when increasingly complex processes are being digitalised and automated. The wide reach of April Yi Wang’s work will further enhance the profile of ETH Zurich as a scientific pioneer in digitalisation.
+
+## Promotions
 
 (Photograph: ETH Zurich / Giulia Marthaler)
 
@@ -33,8 +35,6 @@ Professor Daniel Farinotti (*1982), currently Tenure Track Assistant Professor a
 (Photograph: ETH Zurich / Giulia Marthaler)
 
 Professor Robert Finger (*1981), currently Associate Professor at ETH Zurich, as Full Professor of Agricultural Economics and Policy in the Department of Management, Technology and Economics and in the Department of Environmental Systems Science. Robert Finger’s research lies at the interface between economics and agricultural science, and contributes to more resilient and sustainable agricultural and food systems. He has won numerous awards and enjoys an outstanding international reputation, which is reflected not only in his success at attracting research funding but also in the numerous invitations he receives to speak at conferences and serve on scientific bodies. In addition, Robert Finger has a strong commitment to public outreach and science communication.
-
-## Departure from ETH Zurich
 
 (Photograph: ETH Zurich / Giulia Marthaler)
 
@@ -47,6 +47,8 @@ Professor Mark Tibbitt (*1985), currently Tenure Track Assistant Professor at ET
 (Photograph: ETH Zurich / Giulia Marthaler)
 
 Professor Jing Wang (*1979), currently Associate Professor at ETH Zurich and Group Leader at Empa, as Full Professor of Air Quality and Particle Technology in the Department of Civil, Environmental and Geomatic Engineering. Jing Wang’s broad-based research covers air quality monitoring and control, aerosol measurement and characterisation, the detection and treatment of biological pathogens, and pollution abatement. His international reputation is reflected in his impressive list of publications, with citation rates among the highest in this area of research. He is the owner of three patents and serves on several committees. His commitment to teaching is particularly worthy of note.
+
+## Departure from ETH Zurich
 
 Professor Ce Zhang (*1987), currently Associate Professor of Computer Science in the Department of Computer Science, left ETH Zurich at the end of June 2023. Ce Zhang’s research takes place at the interface between data science and systems, with the aim of developing more efficient, simpler and workable platforms for the data sciences. During his time at ETH Zurich he built up an internationally recognised research group. He has left ETH Zurich in order to take up a professorship at the University of Chicago, USA.
 

@@ -2,15 +2,9 @@
 
 **Source:** en_news_events/2013/12/happy-scrumptious-holidays.html
 
+**Date processed:** 2025-05-01
+
 ## Starters
-
-- Place the puff pastry in a springform tin
-
-- Mix together the cream, eggs, cheese, herbs and spices and the ham cubes (if you are using them)
-
-- Finely chop the vegetables, mix together with the cream mixture and spread everything onto the pastry
-
-- Bake at 180°C (fan-assisted ovens) for approx. 30 mins
 
 The recipes submitted ranged from quick and easy ideas to elaborate three-course meals. Congratulations to the two winners of our raffle. Here is a small selection of the recipes we received, separated into starters, main dishes and desserts. Bon appetit!
 
@@ -30,11 +24,11 @@ Sauté everything together, add enough water to cover and hang the bag of herbs 
 
 Sent in by C. Krawczyk Slice the leftover meat (beef/pork/chicken) into thin slices, sprinkle some balsamic dressing over the top and garnish with basil leaves.
 
-## Main dishes
-
 Sent in by A. Stadelmann
 
 (Photo: Anja Stadelmann)
+
+## Desserts
 
 Pasta, cooked 1 tin sweetcorn 150g mushrooms 100g cheese
 
@@ -49,8 +43,6 @@ Sent in by M. Oberli
 4 eggs 250 ml milk 100 ml cream 4 tbsp. parmesan cheese, grated ½ tsp. salt Pepper 400 g macaroni, cooked (leftover) 2 tbsp. each of chopped marjoram and finely chopped chives 200 g frozen peas, defrosted 1 carrot, washed and sliced into very fine strips Butter for frying Chives and marjoram to garnish
 
 1. Mix together the eggs, milk, cream and parmesan. Season.
-
-## Desserts
 
 2. Stir in the macaroni, marjoram, chives, peas and carrot. Fry in butter, partly covered, over a low heat until it resembles a tortilla.
 
@@ -69,8 +61,6 @@ Sent in by C. Krawczyk
 - Bake at 180°C (fan-assisted ovens) for approx. 30 mins
 
 Sent in by A. Stadelmann
-
-## Don't miss a post
 
 (Photo: Anja Stadelmann)
 

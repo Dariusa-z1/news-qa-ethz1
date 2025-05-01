@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2015/04/exploring-health.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 How can we stay healthy, and how can we keep our families healthy? The Epidemiology, Biostatistics and Prevention Institute’s research, teaching, and services improve the health of communities in Zurich and beyond. Members of ETH Zurich and the general public are invited to visit the institute on 6 June for 29 fun and interactive activities where they can learn about the institute’s activities – and the state of their own health. The event also includes an engaging children’s programme.

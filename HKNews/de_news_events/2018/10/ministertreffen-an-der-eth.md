@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2018/10/ministertreffen-an-der-eth.html
 
+**Date processed:** 2025-05-01
+
 ## Gründergeist fördern
 
 Im Zuge der Digitalisierung ziehen grosse Firmen Forscher, Erfindungen und Arbeitsplätze aus Europa ab. Was tun die Schweiz und ihre Nachbarn dagegen? Unter anderem darüber unterhielten sich am Dienstag die deutschsprachigen Wirtschaftsminister Europas an der ETH Zürich. Bundesrat und Bildungsminister Johann Schneider-Ammann hatte seine Amtskollegin aus Österreichs und die Amtskollegen Deutschlands Liechtensteins zum traditionellen Vierertreffen in die Schweiz eingeladen.
@@ -14,9 +16,9 @@ Den Auftakt für den Anlass bildete ein Podium in der Semper-Aula. ETH-Präsiden
 
 Auch der Peter Altmaier, deutscher Bundesminister für Wirtschaft und Energie, betonte die Bedeutung des digitalen Wandels. Dadurch werde neu verteilt, wo auf der Welt die neuen Arbeitsplätze entstehen. Mit vereinten Kräften und staatlicher Unterstützung könnten es europäische Unternehmen schaffen, Anwendungen künstlicher Intelligenz zu entwickeln und weltweit zu vermarkten. Österreich hat zurzeit die EU-Ratspräsidentschaft inne. Margarete Schramböck, Bundesministerin für Wirtschaftsstandort und Digitalisierung, sagte, Europa wolle bereits verloren geglaubte Industrien wieder zurückholen. Forschungs- und Bildungsstätten wie die ETH seien dabei Impulsgeber, weil sie Europa mit den nötigen Kompetenzen rund um das Thema Künstliche Intelligenz versorgten. Liechtenstein setzt laut Regierungsschef-Stellvertreter Daniel Risch unter anderem auf eine neue Gesetzgebung für Blockchain-Anwendungen.
 
-## Plädoyer für eine fünfte europäische Freiheit: Freiheit des Datenverkehrs
-
 Informatikstudierende diskutierten mit der Ministerin und den Ministern.
+
+## Plädoyer für eine fünfte europäische Freiheit: Freiheit des Datenverkehrs
 
 Die vier Minister stellten sich auch den Fragen von Informatik-Studierenden. Diese legten den Finger auf ungelöste Probleme. Etwa, wie sich im kleinteiligen Europa die nötige Menge Daten sammeln lasse, ohne dabei das Recht auf persönlichen Datenschutz zu verletzen. Sie stellten zudem in Frage, dass sich Daten wirklich anonymisieren lassen. Und sie fragten, wie Europa die Kräfte bündeln wolle, ohne dabei träge Konstrukte zu schaffen, die das von China und Amerika vorgegebene Tempo nicht mithalten können.
 

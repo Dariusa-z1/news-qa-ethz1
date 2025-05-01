@@ -2,25 +2,28 @@
 
 **Source:** de_news_events/2022/12/duenger-klimafreundlicher-produzieren.html
 
+**Date processed:** 2025-05-01
+
 ## Indien und China gefährdet
 
+Paolo Gabrielli, Senior Scientist am Labor für «Reliability and Risk Engineering» der ETH Zürich hat zusammen mit Lorenzo Rosa, Forschungsgruppenleiter an der Carnegie Institution for Science in Stanford, USA, verschiedene CO 2 -neutrale Herstellungswege von Stickstoffdünger untersucht. In einer in der Fachzeitschrift «Environmental Research Letters» veröffentlichten externe Seite Studie call_made kommen die beiden Forscher zum Schluss, dass ein Wandel bei der Stickstoffproduktion möglich ist und ein solcher unter Umständen auch die Ernährungssicherheit erhöht. Die alternativen Herstellungswege haben aber Vor- und Nachteile. Konkret haben die beiden Forscher drei Alternativen untersucht:
+
+• Der benötigte Wasserstoff wird wie derzeit mit fossilen Energiequellen hergestellt, wobei das Treibhausgas CO 2 nicht in die Atmosphäre emittiert, sondern in den Produktionsbetrieben abgeschieden und dauerhaft im Untergrund gespeichert wird ( Carbon Capture and Storage, CSS ). Das benötigt nicht nur eine Infrastruktur für das Abscheiden, den Transport und die Lagerung des CO 2 , sondern entsprechend auch mehr Energie. Trotzdem ist das eine vergleichsweise effiziente Herstellungsmethode. Allerdings ändert sich dadurch nichts an den Abhängigkeiten von fossilen Brennstoffen.
+• Die Düngerherstellung lässt sich elektrifizieren , indem der Wasserstoff mittels Elektrolyse aus Wasser hergestellt wird, was aber etwa 25-mal so viel Energie braucht wie die heutige Herstellung mit Erdgas. Es bräuchte also sehr viel Strom aus klimaneutralen Quellen. Interessant ist dieser Ansatz für Länder, in denen viel Solar- oder Windenergie zur Verfügung steht. Allerdings ist geplant, aus Klimaschutzgründen auch andere Wirtschaftssektoren zu elektrifizieren. Das könnte somit zu einer Konkurrenz um nachhaltige Elektrizität führen.
+• Stellt man den Wasserstoff für die Düngerproduktion aus Biomasse her, sind dafür viel Ackerland und Wasser nötig. Somit konkurriert dieser Herstellungsweg ironischerweise die Nahrungsmittelproduktion. Sinnvoll ist er laut den Studienautoren, wenn Abfallbiomasse – zum Beispiel Ernteabfälle – verwendet wird.
 Eine intensive Landwirtschaft ist nur möglich, wenn die Böden mit Stickstoff, Phosphor und Kalium gedüngt werden. Während Phosphor und Kalium als Salze abgebaut werden können, muss Stickstoffdünger aufwändig aus Stickstoff aus der Luft und aus Wasserstoff hergestellt werden, wobei die Produktion von Wasserstoff äusserst energieintensiv ist. Es werden dazu grosse Mengen an Erdgas oder – vor allem in China – Kohle benötigt. Entsprechend gross ist der CO 2 -Fussabdruck, die Abhängigkeit von fossiler Energie und somit auch die Anfälligkeit auf Preisschocks auf den Energiemärkten.
-
-Paolo Gabrielli, Senior Scientist am Labor für «Reliability and Risk Engineering» der ETH Zürich hat zusammen mit Lorenzo Rosa, Forschungsgruppenleiter an der Carnegie Institution for Science in Stanford, USA, verschiedene CO 2 -neutrale Herstellungswege von Stickstoffdünger untersucht. In einer in der Fachzeitschrift «Environmental Research Letters» veröffentlichten externe Seite Studie kommen die beiden Forscher zum Schluss, dass ein Wandel bei der Stickstoffproduktion möglich ist und ein solcher unter Umständen auch die Ernährungssicherheit erhöht. Die alternativen Herstellungswege haben aber Vor- und Nachteile. Konkret haben die beiden Forscher drei Alternativen untersucht:
-
-## Wandel bei Stickstoffherstellern
 
 Nach Ansicht der Wissenschaftler dürfte der Schlüssel zum Erfolg darin liegen, alle diese Ansätze je nach Land und lokalen Voraussetzungen und verfügbaren Ressourcen zu kombinieren. Zusätzlich müsse Stickstoffdünger effizienter verwendet werden, betont Lorenzo Rosa: «Wenn man Probleme wie Überdüngung und Food Waste angeht, kann man auch den Düngerbedarf reduzieren.»
 
 Die Wissenschaftler haben in der Studie ausserdem untersucht, in welchen Ländern der Welt die Ernährungssicherheit aufgrund ihrer Abhängigkeit von Stickstoff- oder Erdgasimporten derzeit besonders gefährdet ist. Diese Länder sind besonders anfällig für Preisschocks auf den Erdgas- und Stickstoffmärkten: Indien, Brasilien, China, Frankreich, die Türkei und Deutschland.
-
-## Literaturhinweis
 
 Eine Dekarbonisierung der Düngemittelproduktion würde diese Anfälligkeit in vielen Fällen reduzieren und die Ernährungssicherheit erhöhen. Denn zumindest bei einer Elektrifizierung mittels erneuerbarer Energien oder der Nutzung von Biomasse verringert man die Abhängigkeit von Erdgasimporten. Allerdings relativieren die Forschenden diesen Punkt: Alle CO 2 -neutralen Methoden zur Herstellung von Stickstoffdünger sind energieintensiver als die gegenwärtige Nutzung fossiler Energie. Somit bliebe man immer noch anfällig auf gewisse Preisschocks – zwar nicht direkt auf solche auf den Erdgasmärkten, aber gegebenenfalls auf solche beim Strom.
 
 Bei den Herstellerländern von Stickstoffdünger dürfte es im Rahmen einer Dekarbonisierung zu Veränderungen kommen, wie die Wissenschaftler in der Studie aufzeigen. Die grössten Exportnationen für Stickstoff sind heute Russland, China, Ägypten, Katar und Saudi-Arabien. Mit Ausnahme von China, das Erdgas importieren muss, haben alle diese Länder ihre eigenen Erdgasreserven. In Zukunft dürften eher Länder profitieren, die viel Solar- und Windstrom herstellen und gleichzeitig ausreichende Land- und Wasserreserven haben, wie zum Beispiel Kanada und die USA.
 
 «Wir kommen nicht umhin, den Stickstoffbedarf der Landwirtschaft in Zukunft nachhaltiger zu gestalten, sowohl um die Klimaziele zu erreichen als auch aus Gründen der Ernährungssicherheit», sagt Paolo Gabrielli. Der Krieg in der Ukraine beeinflusst den Weltmarkt für Nahrungsmittel nicht nur, weil das Land normalerweise viel Getreide exportiert, sondern auch, weil als Folge des Krieges die Erdgaspreise gestiegen sind. Deswegen sind auch die Preise für Stickstoffdünger gestiegen. Trotzdem ist von einigen Düngerherstellern bekannt, dass sie wegen der exorbitanten Gaskosten nicht mehr wirtschaftlich produzieren können und die Produktion zumindest zeitweise eingestellt haben.
+
+## Literaturhinweis
 
 Rosa L, Gabrielli P: Energy and food security implications of transitioning synthetic nitrogen fertilizers to net-zero emissions, Environmental Research Letters 2022, doi: externe Seite 10.1088/1748-9326/aca815
 

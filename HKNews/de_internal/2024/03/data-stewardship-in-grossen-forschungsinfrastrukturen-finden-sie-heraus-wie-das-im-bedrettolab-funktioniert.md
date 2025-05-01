@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2024/03/data-stewardship-in-grossen-forschungsinfrastrukturen-finden-sie-heraus-wie-das-im-bedrettolab-funktioniert.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Rebecca Hochreutener arbeitet seit August 2021 als Programmadministratorin im BedrettoLab . In ihrer Funktion ist sie für den reibungslosen Ablauf aller Forschungsprojekte im BedrettoLab verantwortlich. Dies beinhaltet sowohl administrative Aspekte als auch das Datenmanagement. Sie ist Data Steward* im Open-Research-Data (ORD)​-Projekt mit der ETH-Bibliothek .
@@ -26,6 +28,10 @@ Im Zusammenhang mit deiner Rolle als Data Steward bist du auch im Data Stewardsh
 
 Rebecca : Das Data Stewardship Network ermöglicht einen guten Austausch mit anderen Data Stewards, die eine andere Perspektive haben, da sie zum Teil in sehr unterschiedlichen Abteilungen und Forschungsgruppen arbeiten. Der Austausch dieser unterschiedlichen Erfahrungen ist sehr nützlich und hilfreich.
 
+• Wie können Datensätze für integrierte Experimente beschrieben und mit aussagekräftigen Metadaten versehen werden?
+• Wie können Daten einfach zwischen verschiedenen Partnern und/oder Untergrundlabors ausgetauscht werden?
+• Wie können Daten für jede und jeden ohne «graue» Vorkenntnisse verständlich/lesbar und analysierbar gemacht werden?
+• Und, schliesslich: Welche Lösungen gibt es für das Streaming und Speichern sehr grosser Datenmengen?
 Welche Potenziale seht ihr darin, Data Stewardship in Forschungsgruppen und Labs zu verankern?
 
 Rebecca : Data Stewardship in verschiedenen Forschungsgruppen zu integrieren, ist aus unserer Sicht ein guter bottom-up Ansatz, der sich mit der Zeit etablieren wird. Die Finanzierung dieser Data Stewards sehe ich noch eher kritisch, da die Fördermöglichkeiten meines Wissens derzeit sehr gering sind.
@@ -49,6 +55,8 @@ Ziel von DAMOCLES ist es, ein Datenmanagementkonzept zu entwickeln, das auf die 
 Tatsächlich werden einzelne Datensätze heute meist nach akzeptablen Datenmanagement-Standards archiviert.
 
 Um diese Fragen zu beantworten, werden wir die Anforderungen der Nutzendengemeinschaft analysieren und eine umfassende Bestandsaufnahme der Sensoren, Daten, Formate und Zugangsbedingungen erfassen. Hardware- und Softwareanforderungen für Speicherung, Datenbanken und Webdienste dieser Grösse sind relevante Nachforschungen, um ein Datenmanagementkonzept zu entwickeln, welches den Anforderungen der Untergrundlabore entspricht.
+
+## ORD-​Projekt von swissuniversities zum Thema Data ​Stewardship
 
 Im Rahmen der externe Seite nationalen ORD-Strategie ermutigt swissuniversities alle Forschungsinstitutionen in der Schweiz, Data Stewardship zu fördern und entsprechende Anreize zu schaffen. An der ETH Zürich wird dieses Ziel unter anderem mit einem von 2023 bis 2024 laufenden Projekt verfolgt, das von der ETH-​Bibliothek koordiniert wird. Alle Informationen zum Thema Data Stewardship finden Sie auf unserer Website.
 

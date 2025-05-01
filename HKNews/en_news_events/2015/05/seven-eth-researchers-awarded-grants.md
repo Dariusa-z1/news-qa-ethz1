@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2015/05/seven-eth-researchers-awarded-grants.html
 
+**Date processed:** 2025-05-01
+
 ## Building on past success
 
 ERC Advanced Grants are very popular among researchers throughout Europe, as only top researchers’ projects are supported by the European Research Council (ERC). The grants are therefore considered a special distinction. In addition, researchers welcome the significant funds: the approved projects receive from CHF 2.5 million to CHF 3.5 million over a period of five years.
@@ -12,8 +14,6 @@ ETH Zurich is one of the most successful European universities in recent years i
 
 “These grants are of course a wonderful thing for us researchers, but they are also increasingly an important indicator of a university’s performance. ETH Zurich has fared well up to now,” adds Aebersold.
 
-## Full association remains the goal
-
 The European Union put the participation of Swiss-based researchers on ice after Swiss citizens voted in favour of the mass immigration initiative in February 2014. But an agreement signed by the Swiss Federal Council last autumn allowed Swiss researchers to at least partially participate in the EU research programme Horizon 2020, opening the door again to EU research funding and ERC grants.
 
 However, it is not yet clear whether researchers in Switzerland will be able to participate in Horizon 2020 beyond the end of 2016. The EU has made this dependent on whether a solution is found to the free movement of persons. Günther explains: “It will continue to be of central importance to the Swiss academic landscape that researchers can apply for the prestigious ERC Grants. But this will be possible only if Switzerland can participate fully in the Horizon 2020 research programme over the long term.”
@@ -21,8 +21,6 @@ However, it is not yet clear whether researchers in Switzerland will be able to 
 ERC Advanced Grants have been awarded to the following researchers (in alphabetical order):
 
 Ruedi Aebersold is a professor of molecular systems biology. His research examines all issues relating to how proteins control and catalyse the complex biochemical processes of living cells. In his European Research Council (ERC) project, he aims to map protein networks and classify the relationship between the structure of such networks and profiles of observable characteristics (phenotypes), such as certain diseases. The project’s importance lies in determining the basic mechanisms for how genetic differences are expressed in phenotypes via changes in protein networks. This is Aebersold’s second ERC Advanced Grant; he was awarded his first in 2008.
-
-## Contact
 
 Atac Imamoglu, Professor of Quantum Electronics, investigates semiconductor nanostructures in which electrons interact with single photons (particles of light). The first goal of his ERC funded project is to use coherent laser excitation to convert the state of the electronic system from a semiconductor into a superconductor, in a controlled and reversible manner. The second goal aims to make use of electron-light coupling to ensure that photons in these systems interact strongly with each other – in stark contrast to light beams in free space which have no influence on each other. Scientists ascribe great potential to these advances for the realization of devices with novel functionalities.
 

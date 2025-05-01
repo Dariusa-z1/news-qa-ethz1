@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2016/03/neues-lohnsystem-evaluiert.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Die Saläre des nicht-akademischen Personals und der Senior Scientists mit Festanstellung im ETH-Bereich richten sich seit dem 1. Januar 2006 nach dem Neuen Lohnsystem (NLS). Im NLS werden die Mitarbeitenden einer Funktionsstufe zugeordnet. Im Rahmen der verfügbaren Mittel beruht ihre individuelle Lohnentwicklung auf der Erfahrung sowie auf der Bewertung ihrer Leistung durch die oder den Vorgesetzten.

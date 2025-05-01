@@ -2,11 +2,9 @@
 
 **Source:** de_internal/2021/12/die-nachhaltigkeitsstelle-der-eth-wird-neu-ausgerichtet.html
 
-## Flugreisen und ETH Woche wechseln Schulleitungsbereich
+**Date processed:** 2025-05-01
 
-- Die ETH Woche, in der sich Studierende jeweils eine Woche lang in interdisziplinären Teams einem gesellschaftsrelevanten Thema widmen, ist ab 1. Januar 2022 gesamthaft dem Rektorat zugeteilt.
-
-- Die ETH Sustainability Summer School, in der Studierende jeweils aktuelle und nachhaltigkeitsrelevante Themen in interdisziplinären und interkulturellen Teams bearbeiten, ist ab 1. Januar 2022 gesamthaft ETH for Development (ETH4D) angeschlossen.
+## Main article
 
 Nachhaltigkeit ist vielleicht dasjenige Handlungsfeld, in dem die ETH Zürich am ausgeprägtesten sowohl wissenschaftlich als auch institutionell gefordert ist. Schliesslich hat die ETH als öffentlich finanzierte, globale Top-Hochschule eine gesellschaftliche Verantwortung – zum Beispiel sind, wenn man an den Umgang mit Ressourcen oder an die Senkung der Treibhausgasemissionen denkt, neben Lösungsansätzen aus Lehre, Forschung und Innovation, auch konkrete Beiträge der Hochschule selbst gefragt. Folgerichtig arbeiten heute nicht nur die ETH-​Departemente und eine wachsende Zahl von Kompetenzzentren an Lösungen, um eine nachhaltige Entwicklung zu ermöglichen, sondern die Hochschule hat auch Nachhaltigkeitsziele für die Campus- und Infrastrukturentwicklung (inkl. Mobilität, Gastronomie und Beschaffung): «Nachhaltigkeit ist Teil der ETH-Kultur», heisst es dazu im Strategie-​ und Entwicklungsplan 2021-​2024: «Zudem leben wir die Nachhaltigkeit auf unserem eigenen Campus und fördern die Idee der ETH als Testlabor.»
 
@@ -14,15 +12,15 @@ Die Bedeutung der Nachhaltigkeit für die ETH Zürich zeigt sich daran, dass sie
 
 Nicht alle Nachhaltigkeitsaufgaben sind im Stab des Präsidenten angesiedelt. Der Teil der Campus-Nachhaltigkeit, der die Gesundheit, die Immobilien, Gebäudetechnik, die Mobilität, die Computersysteme, die Barrierefreiheit oder die Grünflächen und das Umweltmanagement betrifft, befindet sich im Schulleitungsbereich Infrastruktur, nachhaltige Finanzen und Beschaffung befinden sich bei Finanzen & Controlling, und Diversität bei Personalentwicklung und Leadership.
 
-## ETH Sustainability koordiniert das Programm «Netto Null»
-
-In den vergangenen zwei Jahren gab es nun personelle und inhaltliche Entwicklungen, die die künftige Ausrichtung, Aufgaben und Zuständigkeiten von ETH Sustainability direkt beeinflussen.
-
-So verliessen im Spätsommer 2021 zwei langjährige und im Bereich der Nachhaltigkeit sehr verdienstvolle Mitarbeiterinnen die ETH Zürich: Christine Bratrich, die Leiterin von ETH Sustainability, und Susann Görlinger, die Projektleiterin des Projekts Flugreisen – «Stay grounded, keep connected», mit dem die ETH Zürich zum Vorbild vieler Universitäten im In- und Ausland wurde, den Ausstoss der Treibhausgasen von Dienstflugreisen zu senken. Neu ist, dass das Projekt Flugreisen vom Stab Infrastruktur zu ETH Sustainability wechselt. Beide Stellen sind im November und Dezember neu ausgeschrieben worden. Seit dem 1. September 2021 leitet Omar Kassab das Team ETH Sustainability ad interim.
+## Flugreisen und ETH Woche wechseln Schulleitungsbereich
 
 Weiter gibt es eine Veränderung bei den «Lehraktivitäten» von ETH Sustainability:
 
-## Immer aktuell informiert
+• Die ETH Woche, in der sich Studierende jeweils eine Woche lang in interdisziplinären Teams einem gesellschaftsrelevanten Thema widmen, ist ab 1. Januar 2022 gesamthaft dem Rektorat zugeteilt.
+• Die ETH Sustainability Summer School, in der Studierende jeweils aktuelle und nachhaltigkeitsrelevante Themen in interdisziplinären und interkulturellen Teams bearbeiten, ist ab 1. Januar 2022 gesamthaft ETH for Development (ETH4D) angeschlossen.
+In den vergangenen zwei Jahren gab es nun personelle und inhaltliche Entwicklungen, die die künftige Ausrichtung, Aufgaben und Zuständigkeiten von ETH Sustainability direkt beeinflussen.
+
+So verliessen im Spätsommer 2021 zwei langjährige und im Bereich der Nachhaltigkeit sehr verdienstvolle Mitarbeiterinnen die ETH Zürich: Christine Bratrich, die Leiterin von ETH Sustainability, und Susann Görlinger, die Projektleiterin des Projekts Flugreisen – «Stay grounded, keep connected», mit dem die ETH Zürich zum Vorbild vieler Universitäten im In- und Ausland wurde, den Ausstoss der Treibhausgasen von Dienstflugreisen zu senken. Neu ist, dass das Projekt Flugreisen vom Stab Infrastruktur zu ETH Sustainability wechselt. Beide Stellen sind im November und Dezember neu ausgeschrieben worden. Seit dem 1. September 2021 leitet Omar Kassab das Team ETH Sustainability ad interim.
 
 Analysiert wurden im vergangenen Jahr auch die Schnittstellen mit anderen Organisationseinheiten der ETH, die sich mit Nachhaltigkeit befassen, wie zum Beispiel der Umweltkommission oder zur künftigen Abteilung Engineering und Systeme, die die Technologien rund um die Labors und Gebäude betreuen wird . Dabei wurde auch diskutiert, wie sich diese Schnittstellen in Zukunft allenfalls anders gestalten lassen. Im Zuge dieser Diskussionen soll ETH Sustainability neu ausgerichtet und neu organisiert werden. Dieses Vorhaben hat die Schulleitung unlängst zur Kenntnis genommen.
 

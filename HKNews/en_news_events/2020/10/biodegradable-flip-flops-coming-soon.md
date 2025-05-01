@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2020/10/biodegradable-flip-flops-coming-soon.html
 
+**Date processed:** 2025-05-01
+
 ## Innovative propellant from gas and water
 
 Zuzana Sediva loves pistachios. "There was a time when I used to pick them in Sicily and bring them home to make ice cream," she recalls. Back then, she had no idea that this passion would later provide the inspiration for her dissertation – and ultimately for her business idea as well.
@@ -13,8 +15,6 @@ At present these materials still tend to be made from fossil resources, with the
 Sediva's solution is sustainable in two respects: first, the biomass used in her process is a natural waste product – coming partly from agriculture. So no additional land cultivation is necessary. Second, the organic foam material breaks down much faster than conventional foamed plastic.
 
 Bioplastics are booming: global production volumes are growing by around 20 to 30 percent every year. But there are currently very few sustainable alternatives to foamed plastic, mainly because the chemical manufacturing process requires raw materials with very specific properties. Conventional plastic starts to foam when a propellant is added, usually under high temperature and pressure. By contrast, organic waste is usually heat sensitive and cannot be processed at such high temperatures. "It's very difficult to achieve the desired elasticity of foam using biomass," Sediva explains.
-
-## Packaging – and shoes?
 
 Sediva's solution involves the use of a novel propellant that is added during the manufacturing process and enables the biomass to foam at lower temperatures. The bio-propellant is completely green, unlike the synthetic additives used in the production of foamed plastics. It is based on a mixture of gas and water which Sediva developed as part of her dissertation at ETH Zurich. Last year she filed a patent for it, in partnership with ETH.
 

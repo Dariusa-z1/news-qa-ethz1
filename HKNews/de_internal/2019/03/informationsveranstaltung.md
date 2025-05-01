@@ -2,12 +2,28 @@
 
 **Source:** de_internal/2019/03/informationsveranstaltung.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Über 600 Mitarbeitende sind der Einladung der Schulleitung gefolgt und konnten persönlich an der Informationsveranstaltung auf dem Hönggerberg oder in einem der Übertragungshörsäle teilnehmen. Diejenigen, die leider so kurzfristig nicht dabei sein konnten, haben nun die Möglichkeit sich eine geschützte Seite Videoaufzeichnung der Veranstaltung lock (passwortgeschützt) anzuschauen.
 
 Im Vorfeld und während der Veranstaltung sind zahlreiche Fragen über SMS und WhatsApp eingegangen, die aus Zeitgründen nicht alle während der Veranstaltung beantwortet werden konnten. Die häufigsten Fragen wurden untenstehend zusammengefasst und beantwortet. Genauere Informationen finden die Mitarbeitenden auch in der Medienmitteilung , dem Interview mit Joël Mesot und in den Redetexten des ETH-Präsidenten (PDF, 116 KB) und der Rektorin (PDF, 136 KB) .
 
+Fragen zur Mehrfachbetreuung:
+
+• Soll die zweite Betreuungsperson ebenfalls von der ETH sein?
+• Wie werden die Aufgaben der zwei betreuenden Professoren aufgeteilt?
+• Wie wird sichergestellt, dass die Professoren voneinander unabhängig sind?
+Was tut die ETH, damit der Frauenanteil endlich steigt – insbesondere bei den Professoren? Der ETH Zürich ist die Erhöhung des Frauenanteils in der Professorenschaft ein grosses Anliegen. Bei den letzten beiden Berufungsrunden lag der Anteil von Frauen bei ca. 40%. Es gibt an der ETH den sogenannten Gender Action Plan , der das Ziel hat, den stellenweise noch sehr tiefen Frauenanteil an der ETH zu erhöhen. Auch gibt es im ETH-Bereich (Also die beiden ETHs und die Forschungsinstitute des ETH-Bereichs) das Projekt, «Fix the leaky Pipeline», das junge Forscherinnen zu einer akademischen Karriere führen soll. Nachstehend ein paar Informationen:
+
+• Das Programm « externe Seite Fix the leaky pipeline call_made » wurde vor zehn Jahren im gesamten ETH-Bereich (ETH Zürich, EPF Lausanne, PSI, Eawag, WSL und Empa) eingeführt.
+• Es wurde von der AG Chancengleichheit im ETH-Bereich initiiert und dient dazu, junge Forscherinnen (fortgeschrittene Doktorandinnen, weibliche Postdocs) zu ermutigen, die akademische Karriere einzuschlagen und diese erfolgreich zu verfolgen. Inzwischen hat es ein grosses Alumnae-Netzwerk.
+• Finanziert werden: je eine Teilzeit-Koordinatorin an der ETH und an der EPFL; externe Seite Coaching-Gruppen call_made und Kurse für Teilnehmende. Das externe Seite Kursprogramm call_made umfasst Themen wie Zeitmanagement, Bewerbungen, Auftrittskompetenz etc. Ausserdem gibt es jährliche Kick-off-Meetings sowie interdisziplinäre Netzwerk-Treffen.
+• Seit 2017 gibt es ausserdem externe Seite One-to-One call_made - und externe Seite Peer-Mentoring call_made -Programme für junge Wissenschaftlerinnen. Die Gender-Delegierte und Equal werben dazu Professorinnen und Professoren der ETH Zürich an, die während eines Jahres freiwillig als Mentorinnen und Mentoren tätig sind.
+• Die ETH Zürich ergänzt das Programm durch zusätzliche Mentoring-Plätze. 2019 werden ca. 30 Frauen an der ETH Zürich am Programm teilnehmen (dazu kommen weitere Frauen von den anderen ETH-Institutionen).
+• Neben den individuellen Treffen von Mentees und Mentorinnen/Mentoren organisieren die ETH Zürich und die EPFL auch Vernetzungs-Anlässe für alle Mentees und Mentorinnen/Mentoren.
+• Verstärkte Dual Career-Massnahmen
 Warum wurde die Veranstaltung nicht in Englisch durchgeführt? Die Veranstaltung richtete sich nicht nur an Doktorierende, sondern an alle Mitarbeitenden. Darunter sind auch welche, die nicht so gut Englisch sprechen. Der Teil, der sich insbesondere an die Doktorierenden richtete, wurde von der Rektorin auf Englisch gemacht.
 
 Wird die Personalabteilung in der Behandlung von Meldungen auch geschult? Ja. Die verschiedenen Anlauf- und Meldestellen der ETH werden ab Herbst 2019 regelmässig geschult. Die Personalabteilung verfügt aber bereits heute über Fachpersonen mit entsprechender Aus- und Weiterbildung, z.B. Psychologinnen und Psychotherapeuten. Sie arbeiten auch mit externen Fachpersonen zusammen und sorgen dafür, dass Betroffene schnell und professionell unterstützt werden. Zudem wird der Umgang mit Meldungen und Beschwerden neu geregelt und beschleunigt. Ziel ist es, dass Meldungen umgehend angegangen und deren Behandlung, wenn möglich, innerhalb von sechs Monaten abgeschlossen werden. Dazu wird das Case Management schrittweise zu einem Team ausgebaut. Es sorgt dafür, dass die richtigen Stellen involviert und die Beteiligten regelmässig über den Stand des Verfahrens informiert werden.
@@ -34,8 +50,6 @@ Die geplanten Massnahmen im Bereich der Doktoratsbetreuung sollen nun konkretisi
 
 Wie viel „Zentralisierung“/Standardisierung soll es in der Betreuung von Doktorierenden künftig geben? Die genaue Umsetzung wird sich im Laufe der kommenden Diskussion herausstellen. Die Idee ist, überall die gleichen Prinzipien wie z.B. die Mehrfachbetreuung zu etablieren. Bei der Art der Umsetzung sollen die einzelnen Departemente aber frei sein, damit spezifische fachliche Anforderungen berücksichtigt werden können.
 
-Fragen zur Mehrfachbetreuung:
-
 Zu diesen Fragen können wir noch keine verbindlichen Antworten geben. Sie werden Gegenstand der nun zu konkretisierenden Umsetzung sein. Wie werden Studierende und Mittelbau in den Berufungsprozess integriert werden? Der akademische Mittelbau und die Studierenden werden im Rahmen von Panels stärker in den Berufungsprozess einbezogen. Sie sollen die Möglichkeit erhalten, Interviews mit den Bewerberinnen und Bewerbern zu führen und eine Bewertung abzugeben, die angemessen berücksichtigt wird.
 
 Viele Massnahmen sollen bis 2020 umgesetzt werden. Was geschieht mit Doktorierenden, die heute schon hier sind und Probleme haben bzw. nicht von einer Mehrfachbetreuung profitieren können? Doktorierende, die ein Problem haben, sollen sich bei den Anlaufstellen melden. Gibt es unüberbrückbare Differenzen, unterstützen der Prorektor Doktorat und die Doktoratsadministration als letzte Massnahmen schon heute Doktorierende dabei, eine/n andere/n Betreuer/in zu finden.
@@ -55,6 +69,4 @@ Das Departement beobachtet die Situation mit externer Unterstützung laufend, um
 Werden ETH-Angehörige, die respektloses Verhalten erfahren haben, entschädigt? Wenn ETH-Mitarbeitende während ihrer Anstellung in eine Auseinandersetzung verwickelt werden mit Kostenfolgen, macht die ETH Zürich gemäss geltendem Personalrecht eine Kostenzusprache betreffend Anwalts- und Verfahrenskosten. Eine Entschädigung in Form eines Schadenersatzes oder einer Genugtuung gibt es allerdings nicht. Dazu fehlt die Rechtsgrundlage.
 
 Wird es eine Follow-up-Veranstaltung geben, um einen Stand der Arbeiten zu präsentieren? Über den aktuellen Stand der Umsetzung von Massnahmen werden wir weiter berichten. Dazu sind verschiedene Kanäle denkbar. Das können Artikel in ETH-eigenen Publikationen sein, aber auch weitere Informationsveranstaltungen.
-
-Was tut die ETH, damit der Frauenanteil endlich steigt – insbesondere bei den Professoren? Der ETH Zürich ist die Erhöhung des Frauenanteils in der Professorenschaft ein grosses Anliegen. Bei den letzten beiden Berufungsrunden lag der Anteil von Frauen bei ca. 40%. Es gibt an der ETH den sogenannten Gender Action Plan , der das Ziel hat, den stellenweise noch sehr tiefen Frauenanteil an der ETH zu erhöhen. Auch gibt es im ETH-Bereich (Also die beiden ETHs und die Forschungsinstitute des ETH-Bereichs) das Projekt, «Fix the leaky Pipeline», das junge Forscherinnen zu einer akademischen Karriere führen soll. Nachstehend ein paar Informationen:
 

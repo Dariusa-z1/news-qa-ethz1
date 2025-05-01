@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2016/05/18-professors-appointed-at-eth-zurich.html
 
+**Date processed:** 2025-05-01
+
 ## Appointments at ETH Zurich
 
 Upon application of the President of ETH Zurich, Professor Lino Guzzella, at its meeting of 25/26 May 2016 the ETH Board appointed a total of 18 professors, awarded the title of professor to one woman and took note of the resignation of one professor and thanked him for his services.
@@ -30,8 +32,6 @@ Collin Y. Ewald (Photo: Harvard Medical School / Stephanie M. McPherson)
 
 Dr Collin Y. Ewald (*1980) , currently a post-doctoral student at ETH Zurich, as Assistant Professor of Extracellular Matrix Regeneration. Collin Ewald is an internationally acclaimed researcher in the field of the molecular biology of ageing. Among other things, he has successfully shown that almost all life-extending interventions protect and repair not only the interior of the cell, but also, in an unexpected way, its exterior (the extracellular matrix). His appointment will significantly strengthen fundamental research at ETH Zurich into the important topic of our ageing society / ageing healthily. As an SNSF-funded professor, Collin Ewald's aim will be to find out what impact improving the regeneration of the extracellular matrix has on extending a healthy lifespan.
 
-## Award of the title of Professor
-
 Mohsen Ghaffari (Photo: Matilde Barbosa)
 
 Mohsen Ghaffari (*1987) , currently a doctoral student at the Massachusetts Institute of Technology (MIT), Cambridge, USA, as Tenure Track Assistant Professor of Computer Science. Mohsen Ghaffari is a highly promising young scientist who conducts research into theoretical computer science with a focus on distributed computing and network algorithms. He has won several awards for his work, which combines mathematical methods derived from probability theory and graph theory with algorithm design and analysis. His research connects with topics that are already being studied at ETH Zurich, as well as with new areas of research in the field of high volume data processing and social networks. Mohsen Ghaffari's appointment will strengthen the Federal Institute's leading position in these forward-looking subjects.
@@ -58,8 +58,6 @@ Dr Shinichi Sunagawa (*1978) , currently Staff Scientist at the European Molecul
 
 Vincent Tassion (Photo: Maria Kondrattieva)
 
-## Departure from ETH Zurich
-
 Dr Vincent Tassion (*1986) , currently a post-doctoral student at the University of Geneva, as Assistant Professor of Mathematics. Vincent Tassion's area of research covers phase transitions in models of statistical physics – a key topic in probability theory. This work centres around describing and explaining physical and chemical phenomena using discrete models. In recent years, Vincent Tassion has grappled with a number of unanswered questions in this field, including phase transitions for three-dimensional models. He has succeeded in solving problems that had remained open for years. Through his appointment, ETH Zurich is gaining an outstanding young mathematician who will be a great asset to his colleagues and students.
 
 Konrad Tiefenbacher (Photo: Konrad Tiefenbacher)
@@ -80,9 +78,13 @@ Professor Samuel Zeeman (*1970) , currently Associate Professor at ETH Zurich, a
 
 Oded Zilberberg (Photo: ETH Zürich / Heidi Hostettler)
 
+## Award of the title of Professor
+
 Dr Oded Zilberberg (*1979) , currently a Research Associate in the research centre of a well-known Swiss company, as Assistant Professor of Quantum Condensed Matter Theory. Oded Zilberberg is a versatile researcher whose findings have attracted international attention in his field. His work focuses on coherent quantum phenomena at the interface of solid state physics and quantum optics with the aim of facilitating new applications in sensor technology and information processing. The appointment of Oded Zilberberg, who receives an SNSF-funded professorship, significantly strengthens ETH Zurich's research in the field covered by the National Centre of Competence in Research "Quantum Science and Technology".
 
 Ita Heinze-Greenberg (Photo: Barbara Sigg)
+
+## Departure from ETH Zurich
 
 Dr Ita Heinze-Greenberg (*1956) , Senior Scientist and Lecturer at ETH Zurich, as Adjunct Professor at ETH Zurich. Ita Heinze-Greenberg is a globally recognised expert in the architecture of the 19th and 20th centuries. She works at the Institute for the History and Theory of Architecture at ETH Zurich, contributing to its research and teaching in important areas of interest.
 

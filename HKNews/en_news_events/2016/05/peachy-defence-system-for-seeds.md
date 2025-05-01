@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2016/05/peachy-defence-system-for-seeds.html
 
+**Date processed:** 2025-05-01
+
 ## Cyanide as a by-product of insect snacking
 
 Don’t eat the core, it’s poisonous: it's something parents often say to their children before they eat their first peach. Peach pits, which are hidden inside the nut-like husk, do in fact contain amygdalin, a substance which can degrade into hydrogen cyanide in the stomach.
@@ -10,15 +12,13 @@ But peaches, apricots and almonds didn’t develop this defence system to keep c
 
 Chemists from Wendelin Stark’s research group at ETH Zurich have drawn inspiration from this and copied the defence system of bitter almonds and other members of the Prunus family in the lab. They are developing a coating for seeds that functions in the same way as this natural model and is just as effective, but doesn’t impair seed germination and is also biodegradable. The study accompanying their work was recently published in the Journal of Agricultural and Food Chemistry .
 
-## Successful testing on insect pests
-
 To determine the efficacy of a coating, the researchers tested different layer sequences. The sequence that finally emerged as the most effective consists of several layers of polylactic acid (PLA), a substance that is harmless to both humans and the environment. The innermost layer contains an enzyme. On top of this lies a layer of pure polylactic acid, followed by two layers in which the hydrogen cyanide precursor amygdalin is embedded – the same substance found in the husks of bitter almond seeds. A final layer is composed of pure PLA.
 
 If an insect larva chews through these layers, the amygdalin is released, followed by the enzyme. The two substances mix together and the amygdalin breaks down into hydrogen cyanide, which kills the insect larva’s appetite – or even the creature itself.
 
-In collaboration with the Julius Kühn Institute in Berlin, the researchers have tested the efficacy of their treatment on a variety of cereal pests. The bitter almond defence system proved very effective against the larvae of the mealworm ( Tenebrio molitor ), the Indian mealmoth ( Plodia interpunctella ) and the lesser grain borer ( Rhizopertha dominica ). The lesser grain borer is a beetle that causes considerable damage to wheat stores worldwide.
+## Successful testing on insect pests
 
-## A possible replacement for pesticides
+In collaboration with the Julius Kühn Institute in Berlin, the researchers have tested the efficacy of their treatment on a variety of cereal pests. The bitter almond defence system proved very effective against the larvae of the mealworm ( Tenebrio molitor ), the Indian mealmoth ( Plodia interpunctella ) and the lesser grain borer ( Rhizopertha dominica ). The lesser grain borer is a beetle that causes considerable damage to wheat stores worldwide.
 
 Significantly fewer fully grown beetles hatched on coated than uncoated seeds. They reproduced less successfully and the larvae grew more slowly because they had eaten less.
 
@@ -26,9 +26,9 @@ In addition, the researchers were able to show in laboratory and fieldwork that 
 
 “We've demonstrated that this new kind of coating method works: the grains are protected from being eaten by insects and are usable in the field,” explain the study's authors Carlos Mora and Jonas Halter. The treatment using this method is as straightforward as it is with spraying. Nor are the costs of the new method significantly higher than with insecticides.
 
-## References
-
 The ETH researchers are convinced that this kind of seed coating can be used on other kinds of crops too. “The method has the potential to replace certain synthetic pesticides,” believes Carlos Mora. “Not only is the coating biodegradable, but it also ensures that the seeds retain their quality in storage.”
+
+## References
 
 Mora CA, Halter JG, Adler C, Hund A, Anders H, Yu K, Stark WJ. Application of the Prunus spp. Cyanide Seed Defense System onto Wheat: Reduced Insect Feeding and Field Growth Tests. Journal of Agricultural and Food Chemistry 2016 . DOI 10.1021/acs.jafc.6b00438
 

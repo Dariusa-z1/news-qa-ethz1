@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2013/12/nachhaltige-bautechnologie-als-zugpferd-.html
 
+**Date processed:** 2025-05-01
+
 ## Molecular vacuum cleaner from nature
 
 Focusing on "Digital Fabrication and Advanced Building Processes in Architecture", the ETH Institute of Technology in Architecture aims to develop new approaches to research and building practices. By concentrating on planning and construction technologies as well as sustainable construction technologies, Digital Fabrication is continuing the strategic subjects of the Architecture Department (D-ARCH), which include urbanisation, climate change and limited resources in the age of the information society. The programme also supplements the activities at the Future Cities Laboratory in Singapore.
@@ -16,11 +18,11 @@ Daniel Müller, Professor at the Biosystems Department and co-head of the Molecu
 
 With the joint forces of ETH, the University of Basel and the industry, the initiators aim to establish a new kind of molecular engineering: "In doing so, we are guided by the example of nature," says Müller. So-called molecular factories can be found in nature: they are molecules that create new molecules themselves and assemble them to make factories.
 
-## Key role for theoretical research
-
 The researchers hope to understand the principle so that they can build their own molecular factories, for instance for energy conversion or combating cell dysfunctions or pollution. "As an example, we are working on 'molecular vacuum cleaners', which will allow cleaning up pollutants in the future," says Müller. In medicine, artificial molecular factories could be used to heal diabetes or blindness.
 
 25 research groups are currently interconnected in this competence centre. This figure is set to rise to 30 in the near future. "As 'molecular factories' have a very complex structure, we can only understand them if many groups share their knowledge. The competencies of the individual groups are not sufficient to understand them," explains Müller.
+
+## Key role for theoretical research
 
 Research where mathematics and theoretical physics meet is currently a very creative field of science. The Mathematics of Physics (SwissMAP) centre of competence now aims to further expand the collaboration between mathematicians and physicists.
 
@@ -29,8 +31,6 @@ Research where mathematics and theoretical physics meet is currently a very crea
 Typical fields of research, where mathematics and physics overlap, are the theory of probabilities and geometry: when, for instance, physicists working with the quantum field theory and string theory describe the elementary particles, they develop geometrical terms that result in new findings in mathematics.
 
 When they describe thermodynamics microscopically, they are also inspired by the theory of probabilities, says Felder. He himself is examining mathematical properties of models of statistical mechanics and the quantum field theory. "Mathematics is developing new methods that benefit physics and, in turn, many ideas from physics are inspiring mathematical research," emphasises Felder.
-
-## Molecular basics of health
 
 The interdisciplinary Institute for Theoretical Studies (ETH-ITS) is also involved in the research network: "At the institute, we plan to attract to ETH innovative theoretical researchers in the areas of mathematics, physics or computer sciences. We naturally want to combine their knowledge with SwissMAP in order to thereby enable theoretical insights," explains Felder, the director of the institute.
 

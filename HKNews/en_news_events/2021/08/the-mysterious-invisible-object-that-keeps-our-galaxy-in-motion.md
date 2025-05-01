@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2021/08/the-mysterious-invisible-object-that-keeps-our-galaxy-in-motion.html
 
+**Date processed:** 2025-05-01
+
 ## From a possibility to certainty
 
 The universe is a space that prompts questions; questions such as what exactly happens at the centre of a galaxy? Andrea Ghez, winner of the 2020 Nobel Prize in Physics, has dedicated herself to this very question throughout her career as astronomer and astrophysicist. Could it actually be possible that at the core of every galaxy lies a supermassive black hole that gets more massive the more massive a galaxy is? These are the types of questions discussed and researched in astronomy.
@@ -12,9 +14,9 @@ In the case of our galaxy, the Milky Way, it is now generally accepted, both the
 
 Ghez shared the 2020 Nobel Prize in Physics with Reinhard Genzel and Roger Penrose: Penrose for discovering that the formation of black holes is a robust prediction of the general theory of relativity; Genzel and Ghez for discovering a supermassive compact object at the centre of our galaxy. From a physical perspective, black holes are actually immensely compact objects with an extremely high mass and a force of gravity so strong that they pull in anything that finds its way into their entry area, known as the event horizon. Nothing can escape from a black hole, neither stars nor suns, radiation nor information – not even light. The fact that they “swallow up” light and remain invisible to humans is what gives black holes their name.
 
-While Penrose received his Nobel Prize for providing mathematical evidence, Genzel and Ghez were honoured for having refined measurement technology and instruments to such a degree that they were able to use state-of-the-art, high-resolution imaging and optical techniques to indirectly prove that the essentially invisible and extremely heavy object at the heart of the Milky Way is a black hole.
-
 ## Sharper images expose the black hole
+
+While Penrose received his Nobel Prize for providing mathematical evidence, Genzel and Ghez were honoured for having refined measurement technology and instruments to such a degree that they were able to use state-of-the-art, high-resolution imaging and optical techniques to indirectly prove that the essentially invisible and extremely heavy object at the heart of the Milky Way is a black hole.
 
 “Over the course of many years, Ghez has resolutely investigated what happens at the centre of our galaxy. Her exceptional talent for building instruments has enabled her to continuously develop and decisively improve the measurement technology required to observe black holes,” says Philippe Jetzer, astrophysicist and professor at the University of Zurich, who will introduce Ghez’s research at the Bernays Lectures. Jetzer’s focus areas include gravitational waves and general relativity. He is conducting research into the formation of supermassive black holes in connection with the planned ESA research satellite “LISA”. ETH Zurich researchers are involved in the project, which is expected to provide new measurement data on gravitational waves from space.
 
@@ -26,19 +28,19 @@ Using these improved imaging techniques, Ghez – as well as Genzel – was able
 
 Andrea Ghez is currently looking into ways of expanding her approach. Compared with other galaxies, the black hole in the Milky Way is relatively calm. If movement within a galaxy such as the Milky Way that appears rather inactive are controlled by a black hole at its centre, such objects could well be found at the centre of every galaxy.
 
-## The philosophy behind the Paul Bernays Lectures
-
 Ghez’s participation in the Paul Bernays Lectures 2021 is a fitting continuation of the “ Women in Science and Space ” lecture series held back in the spring, which saw female physicists present their research on the topic of space at the invitation of ETH Rector Sarah Springman (for the recordings see the links below).
+
+## The philosophy behind the Paul Bernays Lectures
 
 The tenth Paul Bernays Lectures will be particularly poignant for Giovanni Sommaruga. They will be the last lectures to be organised by the logician and philosopher, who specialises in the formal sciences. It was his idea and initiative to launch the honorary lecture series in 2012 in a format that addresses the philosophy of the exact sciences (mathematics, logic, computer science, physics). The underlying concept of philosophy is what sets the Paul Bernays Lectures apart.
 
 “This understanding of the philosophy of the exact sciences is characterised by its proximity to scientific research itself, from which it draws its topics and questions, and on which, in the best-case scenario, it even has an effect,” Sommaruga says. In this form, philosophy itself is a type of basic research that reflects and examines the foundations and methods of a certain discipline. Today, the Paul Bernays Lectures represent a unique event complementary to the Wolfgang Pauli Lectures , whose format and focus have proven very popular among students and researchers alike.
 
+## Paul Bernays Lectures 2021
+
 Prof. Andrea M. Ghez, University of California, Los Angeles, Nobel Prize in Physics 2020
 
 “A unique physical laboratory at the centre of our galaxy”
-
-## Paul Bernays Lectures 2021
 
 Lecture 1: From a possibility to a certainty of a supermassive black hole Monday 30 August 2021, 5 p.m., Audimax, ETH Main Building
 

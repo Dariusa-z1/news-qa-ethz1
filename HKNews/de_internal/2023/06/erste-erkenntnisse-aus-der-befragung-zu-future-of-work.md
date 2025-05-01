@@ -2,49 +2,45 @@
 
 **Source:** de_internal/2023/06/erste-erkenntnisse-aus-der-befragung-zu-future-of-work.html
 
+**Date processed:** 2025-05-01
+
 ## Zentrale Ergebnisse aus der Befragung
-
-- Flexibles Arbeiten soll weiter zugelassen und gefördert werden: Ein Grossteil der Umfrageteilnehmenden arbeitet bereits hybrid und wünscht sich diese Arbeitsform auch weiterhin. Homeoffice soll daher auch weiterhin eine mögliche Arbeitsweise an der ETH sein, und zukünftig noch verstärkt gefördert werden.
-
-- Keine Einheitslösung für alle: Nebst einem klaren Trend zur hybriden Arbeitsweise hat die Umfrage jedoch auch gezeigt, dass die Bedürfnisse und Möglichkeiten unter den ETH-Mitarbeitenden sehr verschieden sind: Gerade im wissenschaftlichen Bereich ist die Arbeit vor Ort öfters eine Grundvoraussetzung für die Forschung, während beispielsweise viele administrative Mitarbeitende (die auch in den Departementen vertreten sind) ihre Arbeit problemlos auch zuhause erledigen können. Von Letzteren wird denn auch tendenziell ein höherer Anteil an Homeoffice gewünscht. Dies bedeutet: Eine einheitliche, ETH-weite Regelung zum hybriden Arbeiten – beispielsweise 60% vor Ort, 40% im Homeoffice – ist weder sinnvoll noch umsetzbar.
 
 Immer wieder liest und hört man, dass die Pandemie die Art, wie wir zusammenarbeiten, nachhaltig verändert hat. Flexible Arbeitsformen wie mobiles Arbeiten und Homeoffice würden vermehrt genutzt und ständen gleichberechtigt neben der physischen Präsenz am Arbeitsort. Doch trifft dies tatsächlich zu – und wie sind Ihre Erfahrungen als ETH-Mitarbeitende bisher mit dieser «neuen Art» des flexiblen, mobilen Arbeitens?
 
 Diesen Fragen ging die Umfrage «Return to the Office & Future of Work» nach, bei welcher im November 2022 alle Mitarbeitenden der ETH Zürich Gelegenheit hatten zu schildern, wie ihre aktuelle Arbeitssituation aussieht, und welche Arbeitsbedingungen hinsichtlich Flexibilität und Mobilität sie bevorzugen würden. Jetzt sind die Resultate verfügbar.
 
-## Alle Ergebnisse auf einen Blick
-
 Gut 31% aller ETH-Mitarbeitenden nahmen an der Umfrage teil. Gemäss der Hochschule für Angewandte Psychologie FHNW, die die Umfrage im Auftrag der ETH durchgeführt hatte, gilt dies bei einer Befragung dieser Grössenordnung als guter Wert, und die Ergebnisse sind gut verallgemeinerbar. Besonders hohe Rücklaufquoten liegen u.a. für Personen mit einem Pensum ab 90% vor (72% Rücklaufquote), für Personen in einem unbefristeten Arbeitsverhältnis (gerundet 59% Rücklauf) sowie für Personen ab 36 Jahren (gerundet 50% Rücklauf).
 
 Aus den Antworten der 4231 Mitarbeitenden, die den gesamten Fragebogen ausgefüllt hatten, lassen sich u.a. folgende zentrale Ergebnisse ziehen:
-
-## Was wir daraus lernen
 
 Die hybride Arbeitsweise, bei der die Mitarbeitenden sowohl vor Ort als auch im Homeoffice tätig sind, ist zurzeit das am häufigsten gewählte Arbeitsmodell – und dürfte es auch bleiben, wünschten sich die Umfrageteilnehmenden doch im Mittel einen Anteil von 56% für die Präsenz vor Ort, und 35% Arbeit im Homeoffice. Gewisse Mitarbeitendengruppen wie beispielsweise IT-Mitarbeitende gaben sogar einen höheren Anteil an Homeoffice von etwa 50% als ideal an. Im Gegensatz dazu wünschten sich u.a. die Mitarbeitenden einiger Departemente tiefere Anteile an Homeoffice von ca. 30%. Gründe hierfür können sein, dass z.B. experimentelle Forschung die Anwesenheit im Labor voraussetzt, und der persönliche Austausch vor Ort als zentral für den Forschungsfortschritt eingestuft wird.
 
 Welche Gründe sprechen für das Arbeiten vor Ort an der ETH? Danach gefragt, gaben jeweils über 80% der Umfrageteilnehmenden an, dass die gegenseitige Verständigung beim Arbeiten vor Ort leichter fällt, vermehrt Kommunikation stattfindet und der Teamzusammenhalt als stärker erlebt wird.
 
-## So geht’s weiter
-
 Ein knappes Fünftel der Mitarbeitenden stimmte der These zu, dass Vorgesetzte auf ihre Anwesenheit bestehen würden und sie deshalb an den Arbeitsplatz an der ETH kommen müssten. «Ein eigentliches «Recht auf Homeoffice» kann an der ETH nicht gewährt werden. Denn es gibt Tätigkeiten, für die eine Anwesenheit vor Ort grundlegend ist und die sich nicht von zuhause aus erledigen lassen. Gemäss unserer Umfrage trifft dies auf 17% der Teilnehmenden zu», konkretisiert Julia Dannath, Vizepräsidentin für Personalentwicklung und Leadership . «Ich appelliere dennoch an alle Führungskräfte, deren Mitarbeitende den Wunsch haben, gewisse Tätigkeiten im Homeoffice auszuführen: Bitte erlauben Sie dies, wo immer möglich. Wird auf die Anwesenheit vor Ort bestanden, ist es wichtig, dies gut und verständlich zu begründen.»
 
 Welche Vorteile bringt das Arbeiten zuhause mit sich? Am häufigsten nannten die ETH-Mitarbeitenden hier den Wegfall des Reisewegs (79% Zustimmung), die Autonomie in der Ortswahl und die Zeiteinteilung (78% Zustimmung) sowie die bessere Vereinbarkeit von Arbeit und Privatleben (69% Zustimmung).
-
-## Mehr über «Future of Work»
 
 Gründe wie «höhere Produktivität» (59% Zustimmung), «motivierter im Homeoffice» (49% Zustimmung) und «Beitrag zur CO 2 -Einsparung» (47% Zustimmung) stellten Beweggründe v.a. für diejenigen Mitarbeitendengruppen dar, die auch eine höhere Präferenz fürs Homeoffice aufwiesen. Hierzu gehörten u.a. Oberassistierende, IT-Mitarbeitende, administrative Mitarbeitende und Postdoktorierende.
 
 Welche Schwierigkeiten können bei der vermehrten Arbeit im Homeoffice auftreten? Die höchste Zustimmung fanden diese beiden Herausforderungen: Das Schwinden von Identifikation mit der Organisation oder dem Team sowie die Gefahr von Entgrenzung und Arbeiten ohne Ende. Interessant dabei: Jene Mitarbeitendengruppen, die zurzeit wenig Homeoffice machen und sich dies auch für die Zukunft nicht wünschen, sind stärker der Ansicht, dass mit zunehmendem Homeoffice die Identifikation mit dem Unternehmen und dem Team abnimmt.
 
-## Immer aktuell informiert
+## Alle Ergebnisse auf einen Blick
 
 Sie möchten sich vertieft mit der Umfrage und deren Resultaten auseinandersetzen? Alle Ergebnisse, Übersichtsdiagramme sowie weitere Erläuterungen finden Sie in der Gesamtpräsentation der Umfrageresultate (ETH-Login notwendig).
 
 Weitere Informationen zu «Future of Work».
 
+## Was wir daraus lernen
+
 Was bedeuten diese Ergebnisse nun – und wie geht es weiter? Als Erstes lassen sich aus den Umfrageresultaten folgende zentrale Aussagen ziehen:
 
+• Flexibles Arbeiten soll weiter zugelassen und gefördert werden: Ein Grossteil der Umfrageteilnehmenden arbeitet bereits hybrid und wünscht sich diese Arbeitsform auch weiterhin. Homeoffice soll daher auch weiterhin eine mögliche Arbeitsweise an der ETH sein, und zukünftig noch verstärkt gefördert werden.
+• Keine Einheitslösung für alle: Nebst einem klaren Trend zur hybriden Arbeitsweise hat die Umfrage jedoch auch gezeigt, dass die Bedürfnisse und Möglichkeiten unter den ETH-Mitarbeitenden sehr verschieden sind: Gerade im wissenschaftlichen Bereich ist die Arbeit vor Ort öfters eine Grundvoraussetzung für die Forschung, während beispielsweise viele administrative Mitarbeitende (die auch in den Departementen vertreten sind) ihre Arbeit problemlos auch zuhause erledigen können. Von Letzteren wird denn auch tendenziell ein höherer Anteil an Homeoffice gewünscht. Dies bedeutet: Eine einheitliche, ETH-weite Regelung zum hybriden Arbeiten – beispielsweise 60% vor Ort, 40% im Homeoffice – ist weder sinnvoll noch umsetzbar.
 Die Arbeit am Konzept «Future of Work» ist mit dem Bereitstellen der Umfrageresultate natürlich noch lange nicht abgeschlossen. In einem nächsten Schritt sollen die Ergebnisse weiter analysiert und darauf basierend Massnahmen und Empfehlungen definiert werden, über die anschliessend bei Bedarf die Schulleitung beraten wird. Über die daraus entstandenen nächsten Schritte werden wir Sie voraussichtlich im Sommer 2023 wieder informieren.
+
+## Mehr über «Future of Work»
 
 Allgemeine Informationen zum flexiblen Arbeiten an der ETH finden Sie auf der Webseite von «Future of Work».
 

@@ -2,19 +2,17 @@
 
 **Source:** de_news_events/2015/01/kleines-land-grosse-wirkung.html
 
+**Date processed:** 2025-05-01
+
 ## Die beste Vorgehensweise ausloten
 
 Fällt die Schweiz ins Gewicht? In Bezug auf Klima und Energie beantworten viele diese Frage mit Nein: Der CO 2 -Ausstoss der Schweiz ist winzig im Vergleich zu den weltweiten Emissionen, deshalb kann keine noch so umfassende Emissionsreduktion der Schweiz global etwas bewirken. Ebenso sagen einige, die Schweizer Politik könne in Sachen neue Technologien kaum etwas bewegen.
 
 Während der letzten fünfzehn Jahre konnten wir einen Photovoltaik-Boom in Deutschland beobachten. Obwohl sich nicht alle darauf gesetzten Hoffnungen erfüllt haben, hat dieser Boom doch zu erheblichen Preissenkungen geführt und weltweit Klimaschutzmassnahmen erschwinglicher gemacht. Die Schweiz ist aber zehnmal kleiner als Deutschland, und ein ähnlicher Boom hierzulande hätte eine viel geringere Wirkung. Daraus schliessen manche Leute, dass die Schweiz nichts bewirken könne, und dass wir genauso gut eine Energiepolitik verfolgen könnten, in der Kosten niedrig gehalten und neue Technologien erst dann angewendet werden, wenn sie dank grösserer Länder wettbewerbsfähig geworden sind. Manche behaupten auch, der einzige mögliche Beitrag, den die Schweiz leisten könnte, läge im Bereich der Wissenschaft und der Entwicklung neuer Technologien in den Labors von Forschungsinstitutionen wie der ETH Zürich.
 
-## Zum Autor
-
 Ich stimme dem nicht zu. Ich glaube, die Schweiz ist für die Staatengemeinschaft bedeutend als Vorreiterin bei der Entwicklung kohlenstofffreier Technologien, aber auch bei deren Einsatz, um ihr eigenes Energiesystem zu transformieren. Denn einige der grössten Herausforderungen der Energiewende sind nicht finanzieller Natur, sondern institutioneller. Institutionelle Fortschritte eines kleinen Landes können leicht auf grössere Länder übertragen werden.
 
 Hier zwei Beispiele: Es ist sehr wahrscheinlich, dass unser zukünftiges Energiesystem zu einem grossen Teil auf Solarenergie beruhen wird, sodass in Zukunft auf den meisten Schweizer Dächer einige Quadratmeter Solarzellen installiert sein werden. Grosse Ungewissheit herrscht bei der Frage, wie sich das mit anderen Bedürfnissen vereinbaren lässt, zum Beispiel Stadtzentren mit historischen Gebäuden möglichst attraktiv zu erhalten. Ein gesellschaftlich akzeptierter Kompromiss braucht Regeln und Verfahren um zu entscheiden, wo Solarzellen sinnvoll sind und wo nicht, woher die Finanzierung kommt und wem die Solarzellen letztendlich gehören. Die Akzeptanz der Bevölkerung wird wahrscheinlich davon abhängen, ob die Gewinne aus der Solarenergie in der Gemeinde bleiben oder transferiert werden. Wenn wir die beste Vorgehensweise in diesen Fragen bei uns ausloten, können uns andere kopieren.
-
-## Keinen Beitrag verpassen
 
 Ein weiteres Beispiel sind Elektroautos, die ziemlich sicher ein Bestandteil unseres künftigen Energiesystems sein werden. Es gibt viele Ideen, wie sich ein Netzwerk aus Ladestationen einrichten, finanzieren und managen liesse, wenn der Anteil an Elektrowagen auf unseren Strassen steigt. Einige dieser Ideen werden sich zweifellos als besser erweisen als andere, und wir werden die besten Lösungen wahrscheinlich durch «Trial and Error» herausfinden. Auch in diesem Fall: Andere können diese Lösungen übernehmen.
 

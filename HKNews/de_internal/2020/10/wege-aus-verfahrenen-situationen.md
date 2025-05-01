@@ -2,29 +2,23 @@
 
 **Source:** de_internal/2020/10/wege-aus-verfahrenen-situationen.html
 
+**Date processed:** 2025-05-01
+
 ## Frühzeitig Beratung anfordern
 
 Markus T.* weiss nicht mehr weiter. Im Rahmen seiner Doktorarbeit nutzt der junge Wissenschaftler ein Labor der ETH. Seit gut einem Jahr geht er dort fast täglich ein und aus. An seiner Arbeit hat er Freude, er fühlt sich zunächst gut integriert. Als Markus eine Unachtsamkeit begeht und dadurch ein Set von Proben unbrauchbar wird, muss die Forschungsgruppe einen grösseren Sondereffort leisten, um den Schaden zu beheben.
 
-## Mitsprache aller Hochschulgruppen
-
 Einem Arbeitskollegen ist der Vorfall spürbar aufgestossen. Nach anfänglicher Zurückhaltung lässt er im Kollegenkreis kein gutes Haar an Markus und seiner Leistung. Auch ihm selbst gegenüber macht der Kollege immer häufiger abwertende Kommentare und gibt ihm zu verstehen, dass er seinem Auftrag nicht gewachsen sei und sich eine andere Beschäftigung suchen sollte. Unterstützung von anderen Gruppenmitgliedern bleibt aus, immer mehr Kollegen wenden sich von Markus ab. Seine Gespräche mit dem Teamleiter über die Situation verlaufen im Sand, er fühlt sich immer unwohler und zunehmend isoliert. Schliesslich konsultiert Markus die ETH-«Respekt»-Seite und vereinbart ein Gespräch mit der neu geschaffenen externen Ombudsstelle der ETH.
-
-## Klare Prozesse
 
 «Markus T. geht richtig vor», meint Ernestine Hildbrand, Projektleiterin bei Human Resources. «Wer spürt, dass im Arbeitsumfeld etwas nicht mehr stimmt, sollte das Problem bei einer geeigneten Stelle zur Sprache bringen. Vor allem, wenn man sich ungerecht behandelt, belästigt oder sogar bedroht fühlt.» Dabei sollte, falls möglich, die oder der Vorgesetzte die erste Anlaufstelle sein, so ihre Empfehlung.
 
-## Alle Wege führen zu Hilfe
-
 «An der ETH Zürich erwarten wir in der Zusammenarbeit gegenseitigen Respekt und Wertschätzung», betont Lukas Vonesch, Leiter Human Resources. «Verstösse gegen den Verhaltenskodex der ETH tolerieren wir nicht, und wir gehen gemeinsam mit Betroffenen dagegen vor.» Wie das konkret abläuft, beschreibt nun das auf den 1. September 2020 in Kraft gesetzte Reglement betreffend Meldungen von Angehörigen der ETH Zürich über unangemessenes Verhalten.
-
-## Staffnet
 
 Der Reglementstext ist breit abgestützt: Einbezogen waren die Ombudspersonen, die Hochschulversammlung (HV) und alle Hochschulgruppen wie etwa die Mittelbauvereinigung AVETH und der Studierendenverband VSETH. Werner Wegscheider, Professor für Festkörperphysik und HV-Präsident, ist mit dem Erreichten zufrieden. «Die Rollen der verschiedenen Anlauf- und Beratungsstellen sind nun klar definiert.» Dies gilt auch für die Ombudspersonen. Dazu wurden parallel zur Entwicklung des Reglements die entsprechenden Bestimmungen der ETH-Organisationsverordnung (OV) geschärft.
 
-## Newsletter abonnieren
-
 Die Arbeit an den Details war entscheidend: «Für Betroffene ist es zum Beispiel wichtig, dass die Fachpersonen im Rahmen ihrer Abklärungen nur mit Einverständnis der betroffenen Person deren Anonymität aufheben dürfen.» Hier habe es bisher Unsicherheiten gegeben. «Ich bin froh, dass jetzt präzise formuliert ist, wie der Umgang mit der Anonymität gehandhabt wird, wie beide Seiten geschützt werden und wie für einen vertraulichen und fairen Ablauf gesorgt wird», sagt Werner Wegscheider.
+
+## Klare Prozesse
 
 Hauptmerkmal des Meldeprozesses ist dessen zweiteilige Struktur. In einer ersten, informellen Phase wird versucht, gemeinsam mit der betroffenen Person möglichst rasch und einfach zu einer Lösung zu kommen. Wichtig in dieser Phase ist: Die meldende Person hat die nächsten Schritte in der Hand, wirkt aktiv mit und ihr Anliegen wird vertraulich behandelt. Meistens geht es in dieser Phase um persönliche Beratung und Unterstützung. Nur wenn die Person es wünscht, können die Fachpersonen eine Vermittlung angehen.
 

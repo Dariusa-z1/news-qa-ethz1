@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2020/09/der-eth-medizinbachelor-geht-in-den-regulaeren-betrieb.html
 
+**Date processed:** 2025-05-01
+
 ## Ein Plus an Naturwissenschaften und Technologie
 
 Seit Herbst 2017 bietet die ETH Zürich jedes Jahr 100 Studienplätze in Humanmedizin an. Der Bachelorstudiengang – ermöglicht durch das Sonderprogramm Humanmedizin des Bundes – wurde in enger Zusammenarbeit mit universitären und klinischen Partnern von Grund auf neu konzipiert und zunächst als Pilotprojekt über die fünf Eintrittsjahrgänge 2017 bis 2021 lanciert. Diesen Sommer haben die ersten Medizinstudierenden ihren Bachelor absolviert.
@@ -10,31 +12,27 @@ Jetzt zeigt sich: Fast alle frischgebackenen Bachelorabsolventinnen und -absolve
 
 Dem trägt die Hochschule nun Rechnung: Sie beendet das Pilotprojekt mehr als ein Jahr früher als geplant und führt den Studiengang neu ab Januar 2021 im regulären Betrieb weiter. «Damit steht nun fest, dass die ETH fortan einen konkreten Beitrag zur Behebung des Ärztemangels in der Schweiz leistet», freut sich Springman.
 
-## Topmotivierte «Testpilotinnen»
-
 Tatsächlich wählen die allermeisten Bachelorabsolventinnen und -absolventen, denen grundsätzlich auch ein Masterstudium an der ETH offensteht, den Weg des Arztes oder der Ärztin. Ein Blick auf die erste Kohorte zeigt: Von den hundert Studierenden des Eintrittsjahrgangs 2017 sind aktuell 87 noch dabei. Von ihnen haben 77 bereits den Bachelor abgeschlossen – also in der Minimalstudienzeit. Lediglich zwei bleiben an der ETH und wechseln die Fachrichtung. Alle anderen 75 Absolventinnen und Absolventen machen den Master in Humanmedizin: je 20 in Zürich und Basel, und 35 an der Università della Svizzera Italiana (USI) in Lugano.
 
 Im Schnitt fielen in den bisherigen drei Jahrgängen rund zehn Prozent bei der Basisprüfung im ersten Anlauf durch. «Insgesamt erwarten wir aufgrund unserer Erfahrungen, dass etwa 85 bis 90 Prozent der Studienanfänger den Bachelor auch abschliessen werden», sagt ETH-Professor Christian Wolfrum, seit drei Jahren Direktor des neuen Studiengangs.
 
 Was ihn ganz besonders freut: «Die Partneruniversitäten und andere Institutionen sind sehr an den ETH-Bachelors interessiert.» Die Erfahrungen deuten darauf hin, dass das neuartige Curriculum funktioniert. «Wir bilden Mediziner aus mit einem besonderen Profil – Ärztinnen und Ärzte mit Spezialwissen in Naturwissenschaften und Technologie, die dank ihrem Rüstzeug auch Entwicklungen im Bereich der digitalen Medizin in die klinische Praxis umsetzen können», sagt er.
 
-## Unterricht auf Augenhöhe
-
 Den Studierenden der ersten Kohorte kam die Rolle von «Testpiloten» zu. «Unsere Pionierinnen haben sich wacker geschlagen, auch wenn es zuweilen hektisch war», sagt Professor Jörg Goldhahn, Projektleiter des Bachelors Humanmedizin. Nicht nur ihn habe das grosses Interesse der Medizinstudierenden verblüfft. «Auch Dozierende anderer Unis meldeten begeistert zurück, wie analytisch und engagiert die ETH-Bachelorstudierenden im Unterricht seien», erzählt Goldhahn.
+
+## Unterricht auf Augenhöhe
 
 Auch ETH-intern gelten die Medizinstudierenden als hoch motiviert. Dass ihr Engagement bisweilen über das reine Curriculum hinaus geht, haben sie während der Corona-Krise mit zwei Initiativen zur Unterstützung des Gesundheitswesens und mit Hilfseinsätzen in Spitälern mehrfach bewiesen. So eilt ihnen bei den Partnerinstitutionen bereits ein guter Ruf voraus.
 
 Das Engagement ist sicher auch auf die hohe Interaktivität zurückzuführen, die den Unterricht kennzeichnet. Wolfrum und Goldhahn waren von Anfang an darum bemüht, die Studierenden einzubinden. Die Erfahrung: Wenn die Studierenden merken, dass konstruktive Kritik etwas bewirkt, dann beteiligen sie sich auch aktiv, was wiederum die Qualität des Unterrichts erhöht.
 
-## Die Medizin von morgen mitgestalten
-
 Eine der Absolventinnen ist Rahel Schmidt. «Wir hatten diverse Möglichkeiten uns einzubringen, und wurden ernst genommen – das war toll. So konnten wir den Studiengang effektiv mitgestalten», berichtet sie. Die Studienleitung wiederum nutzte den steten Fluss an Feedback, um das Curriculum laufend anzupassen. Wenn es mit Dozierenden nicht gut lief oder Lehrformate nicht passten, nahm man rasch Veränderungen vor. «Heute sind die wichtigsten Korrekturen bereits erfolgt», bilanziert Goldhahn.
 
 Zusammen mit ihren Teams haben Wolfrum und Goldhahn den Studiengang massgeblich mitaufgebaut. Entstanden ist ein Curriculum, das neben Medizin, Naturwissenschaften und Technologie auch Aspekten wie Teamfähigkeit, Kommunikation, Zusammenarbeit mit anderen Pflegeberufen sowie kritischem Denken einen hohen Stellenwert einräumt.
 
-Innert kürzester Zeit hat sich der spezielle Studiengang auch bei Studieninteressierten herum gesprochen. Sie müssen bei der Anmeldung für das Medizinstudium ihre Präferenzen angeben; da zeigt sich, dass der Anteil der Interessierten mit Erstwahl ETH im dritten Jahr deutlich gestiegen ist.
-
 ## Klinische Lehre weiter stärken
+
+Innert kürzester Zeit hat sich der spezielle Studiengang auch bei Studieninteressierten herum gesprochen. Sie müssen bei der Anmeldung für das Medizinstudium ihre Präferenzen angeben; da zeigt sich, dass der Anteil der Interessierten mit Erstwahl ETH im dritten Jahr deutlich gestiegen ist.
 
 Auch Rahel Schmidt haben es die klinischen Praktika und Patientenfälle angetan. «An der ETH lernt man in überschaubaren Gruppen. Frontalunterricht im klassischen Sinn gibt es wenig. Und es herrscht eine gute Fehlerkultur – man darf auch mal eine völlig falsche Diagnose stellen», lacht sie. Sowohl Zheng als auch Schmidt würden den ETH-Studiengang weiterempfehlen. «Wärmstens denen, die einen zusätzlichen Fokus auf Naturwissenschaften und Technologie möchten. Weniger aber jenen, die Mathematik, Physik oder Programmieren gar nicht mögen», resümiert Schmidt.
 

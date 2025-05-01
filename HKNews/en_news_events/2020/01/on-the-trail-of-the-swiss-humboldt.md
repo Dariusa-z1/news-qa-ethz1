@@ -2,13 +2,13 @@
 
 **Source:** en_news_events/2020/01/on-the-trail-of-the-swiss-humboldt.html
 
+**Date processed:** 2025-05-01
+
 ## Taking up German in Buenos Aires
 
 It’s clear from Tomás Bartoletti’s workplace that he is neither an engineer nor a classic humanities scholar: opposite his desk with a laptop and two large flat screens is a shelf with books on the history of Latin America’s indigenous peoples, the colonisation of Africa, museums and their collections, and Swiss hunters in the Grisons. Volumes in English, French, Spanish, Portuguese and German. In the midst of this linguistic and intellectual diversity, a stocky stone figure with large eyes, surrounded by toy money notes, sweets, cigarettes and books about a Swiss explorer – devotional items for a replica of Ekeko, the god of fortune and prosperity of Bolivia’s Aymara people. The figure is meant to bring luck to Bartoletti’s research during his two years of postdoctoral studies at ETH Zurich. At the same time, it is very much part of his research.
 
 Tomás Bartoletti’s path to philology – and ultimately to Zurich – starts in the eighties in a quiet Buenos Aires suburb. This is where he grows up in a middle-class family with roots tracing back to Hamburg and Ticino. By a stroke of luck, German immigrants set up a school with a nursery attached, not far from his parental home. At the tender age of five, Bartoletti starts to swot up on German verbs and grammar. He takes to the foreign language quickly, and is multilingual before long. At the age of 16 he travels to Nuremberg for the first time as part of a school exchange. This cements his ties with the German-speaking region and kindles his interest in foreign cultures and their languages. He moves on to study classical philology, Latin American literature and linguistics, later following this up with the history of science and technology.
-
-## An “alpine hunter” in Peru
 
 “From the very start, I felt it was important to overcome the boundaries of academic disciplines,” says Bartoletti in his office at the Institute of History, where he is engaged in research in Harald Fischer-Tiné’s group in the History of the Modern World professorship. “I am just as interested in Greek mythology as in ethnology, palaeontology or environmental history.” He peppered his studies with stays in Germany and he wrote most of his doctoral thesis at Berlin’s Humboldt University and the University of Erfurt. Bartoletti’s thesis was on “Greek divination from the perspective of the indigenous Andean peoples”. With his project, the researcher tried to apply the cosmology traditions and mysticism of indigenous cultures of Latin America to the interpretation of Greek oracles in classical Athens. The doctoral student thus ventured a worldview in which Andean culture exists on the same level as Greek high culture. This approach obviously undermines classical studies, he notes mischievously, and asks “If you study philology at a Latin American University, why do you still need to learn ancient Greek and Latin? Why not Quechua, Aymara or another language spoken by an indigenous people of Latin America?”
 
@@ -20,13 +20,11 @@ During his doctoral studies in Berlin, Bartoletti accidentally came across the w
 
 Initially Bartoletti could hardly believe that nothing had been published to date about von Tschudi, apart from an uncritical biography in the 1950s. “It seems that very few Swiss historians had shown any interest in him till then.” Bartoletti is therefore working on a global biography on von Tschudi which portrays him as a man of his time and seeks to understand him within the global historical context of his day. He is thus contributing to a global history, a historiography that seeks to combine narratives from different world regions and cultures, and address the open questions and contradictions that arise in the process. This is part of an attempt to overcome a Eurocentrism that still dominates many history books today.
 
-## Taking students on museum visits
-
 Bartoletti’s research draws on von Tschudi’s original writings and over 500 letters which he has brought together in an archive and which his knowledge of German allows him to tap into. In addition, Bartoletti is studying objects that von Tschudi brought back from his travels, including 600 stuffed animals that are currently part of a collection in Nuremberg’s Natural History Museum. “Von Tschudi’s diaries are full of descriptions of rifles,” Bartoletti says. “During his five years in Peru, he hunted like crazy!” Bartoletti recognises in von Tschudi the archetype of an “alpine hunter” popular in Swiss literature and culture of the 19 th century. Bartoletti reckons that von Tschudi was not only an outstanding scientist, but above all a passionate hunter.
 
 One of the objects that von Tschudi brought back from his travels was actually a small stone figurine of Ekeko, the original of the copy seen on Bartoletti’s bookshelf. Von Tschudi stole the figurine in the middle of the 19 th century from a local priest whom he got drunk on brandy – at least, this is how he tells the story in his diaries. Five years ago, Bern’s History Museum returned the figurine to Bolivia.
 
-## Related articles
+## Taking students on museum visits
 
 This episode throws light on von Tschudi’s colonial attitude to doing things: even though colonisation was effectively over and the young Andean nations had already won their independence from Spain, von Tschudi and other explorers had no reservations about plundering objects from local cultures.
 
@@ -37,6 +35,8 @@ At the same time, he can recognise parallels with his own life: the passion for 
 The postdoc used the first five months of his two-year ETH Fellowship to travel around with the country with his Swiss railcard, visiting as many as possible archives and collections that relate to his research. “An extremely pleasant way to get to know Switzerland better.” He was very impressed by the sheer volume, diversity and good condition of local collections. “There’s still too much to do!”, says Bartoletti. He is repeatedly coming across untapped writings and objects that provide insights into links between Switzerland and Latin America. “These sources not only hold fantastic potential for a global history of Switzerland and Latin America, but equally for a global history of science.”
 
 He is currently sharing his fascination for local collections with his students attending his seminars on biographies of scientific objects and their place in the global narratives. Bartoletti holds most of his seminars in Swiss museums and collections. “When we learn to read these critically, they tell us stories about complex global interconnections,” Bartoletti concludes. “Stories which in some cases also challenge our current perceptions of Swiss and Latin American identities.”
+
+## Related articles
 
 A life devoted to protein research (ETH News, 03.12.2019)
 

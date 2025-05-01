@@ -2,15 +2,24 @@
 
 **Source:** en_internal/2023/01/forschungsdatenmanagement-und-verwandte-themen-know-how-fuer-ihr-forschungsprojekt.html
 
-## Registration and further information
+**Date processed:** 2025-05-01
 
+## Main article
+
+• The first course teaches the basics of research data management and how to apply them. This will constitute the foundation of your own research project.
+• The second workshop is about data management planning and how you, as a scientist, can meet the requirements of research funders and ETH Zurich.
+• The third workshop focuses on active research data management: you will learn best practices and tools for data management during a research project.
+• Part four of the workshop series is dedicated to reproducible scientific computing and data analysis. Topics include the advantages and disadvantages of computational notebooks and the management of computing environments.
+• The fifth workshop delves into research involving sensitive data and points out best practices for their secure handling along the entire data life cycle.
+• Part six deals with publishing data and working with open access. Among other things, you will learn about the requirements of research funders regarding open access and open research data as well as Creative Commons licenses.
+• The seventh and final workshop is all about citizen science and its added value for researchers. In addition to the general principles of the citizen science method, it also deals with the various approaches and associated tools.
 There are seven workshops in the series that will be held in March, April and May 2023, the first six of which build on each other.
 
 The workshop series will be held online via Zoom except for workshop four. The workshops will take place on Wednesday mornings between 1 March and 3 May 2023.
 
 All courses will be held in English. They are aimed at doctoral students, postdocs, academic staff and other members of ETH Zurich.
 
-## Always up to date
+## Registration and further information
 
 Register for individual workshops or the entire series of workshops on our website .
 

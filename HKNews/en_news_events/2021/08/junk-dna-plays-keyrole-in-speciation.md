@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2021/08/junk-dna-plays-keyrole-in-speciation.html
 
+**Date processed:** 2025-05-01
+
 ## The origin of species: DNA edition
 
 More than 10 percent of our genome is made up of repetitive, seemingly nonsensical stretches of genetic material called satellite DNA that does not code for any proteins. In the past, some scientists have referred to this DNA as “genomic junk.”
@@ -14,8 +16,6 @@ Researchers have known for years that satellite DNA is highly variable between s
 
 These are about the most rapidly evolving sequences in the genome, but the prior perspective has been, ‘Well, these are junk sequences, who cares if your junk is different from mine?’” says Jagannathan.
 
-## A tale of two fruit fly species
-
 But as they were investigating the importance of satellite DNA for fertility and survival in pure species, Jagannathan and Yamashita had their first hint that these repetitive sequences might play a role in speciation.
 
 When the researchers deleted a protein called Prod that binds to a specific satellite DNA sequence in the fruit fly Drosophila melanogaster, the flies’ chromosomes scattered outside of the nucleus into tiny globs of cellular material called micronuclei, and the flies died. “But we realized at this point that this piece of satellite DNA that was bound by the Prod protein was completely missing in the nearest relatives of Drosophila melanogaster ,” Jagannathan says.
@@ -26,8 +26,6 @@ To study how satellite DNA differences might underlie reproductive incompatibili
 
 Researchers can breed a Drosophila melanogaster female to a Drosophila simulans male, “but the cross generates very unhappy offspring,” Yamashita says. “Either they're sterile or they die.”
 
-## Reference
-
 Jagannathan and Yamashita studied the tissues of the offspring to see what was leading these hybrids to drop like flies. Right away they noticed something interesting: “When we looked at those hybrid tissues, it was very clear that their phenotype was exactly the same as if you had disrupted the satellite DNA-mediated chromosomal organization of a pure species,” Yamashita says. “The chromosomes were scattered, and not encapsulated in a single nucleus.”
 
 Furthermore, the researchers could create a healthy hybrid fly by mutating certain genes in the parent flies called “hybrid incompatibility genes,” which have been shown to localize to satellite DNA in the cells of pure species. Via these experiments, the researchers were able to demonstrate how these genes affect chromosomal packaging in hybrids, and pinpoint the cellular phenotypes associated with them for the first time.
@@ -37,6 +35,8 @@ Taken together, these findings suggest that because satellite DNA mutates relati
 In future studies, Jagannathan and Yamashita hope to put their model to the ultimate test: if they can design a protein that can bind the satellite DNA of two different species and hold the chromosomes together, they could theoretically ‘rescue’ a doomed hybrid, allowing it to survive and produce viable offspring. This feat of bioengineering is likely years off. “Right now it’s just a pure conceptual thing,” Yamashita says.
 
 This article is based on a story by Eva Frederick, Whitehead Institute.
+
+## Reference
 
 Jagannathan M, Yamashita Y. Defective satellite DNA clustering into chromocenters underlies hybrid incompatibility in Drosophila. Molecular Biology and Evolution, msab221. Published 24 July 2021. DOI: 10.1093/molbev/msab221
 

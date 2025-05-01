@@ -2,23 +2,23 @@
 
 **Source:** de_news_events/2014/01/sunnbuddy-neue-app-sch%C3%BCtzt-vor-brandroter-haut.html
 
-## Aggressive Sonnenstrahlen
+**Date processed:** 2025-05-01
+
+## Main article
 
 Wir alle kennen das: In Eile und voller Vorfreude können wir es kaum erwarten, endlich ins Flugzeug zu steigen oder unser Auto zu beladen, um den bleischweren Wolken am Himmel, den langen Arbeitstagen im Büro und den schier endlosen Routinearbeiten im Haushalt zu entfliehen. Unser Reiseziel: das Paradies! Bei neun von zehn Urlaubsreisen heisst das im Klartext, einen Platz an der Sonne zu ergattern. Ob weisse Sandstrände auf den Malediven oder weiss überzuckerte Berghänge in Zermatt: Mit einer Sonnenbrille auf der Nase und einem Cocktail in der Hand steht Sonnenbaden sehr wahrscheinlich ganz oben auf dem Urlaubsprogramm.
 
 Die Sunbuddy-App und der dazugehörige Sensor (rechts). (Bild: Bitsplitters)
 
-Doch wann wird aus dem Spass an der Sonne ein glühend heisser Alptraum? Oder anders gefragt: Wissen Sie, wann Sie das Maximum Ihrer täglichen UV-Dosis erreicht haben? Der ETH-Spin-off Bitsplitters setzte sich genau mit dieser Frage auseinander und lancierte im April 2013 den ersten Sunbuddy-Prototypen. «Sunbuddy ist ein System zur Messung der UV-Strahlung. Es erfasst und misst die Sonnenexposition in Echtzeit und verfügt über einen Sensor und eine Smartphone-App», erklärt Samuel Welten, einer der Firmengründer.
+## Aggressive Sonnenstrahlen
 
-## Vorbeugende Massnahmen
+Doch wann wird aus dem Spass an der Sonne ein glühend heisser Alptraum? Oder anders gefragt: Wissen Sie, wann Sie das Maximum Ihrer täglichen UV-Dosis erreicht haben? Der ETH-Spin-off Bitsplitters setzte sich genau mit dieser Frage auseinander und lancierte im April 2013 den ersten Sunbuddy-Prototypen. «Sunbuddy ist ein System zur Messung der UV-Strahlung. Es erfasst und misst die Sonnenexposition in Echtzeit und verfügt über einen Sensor und eine Smartphone-App», erklärt Samuel Welten, einer der Firmengründer.
 
 Je mehr Vitamin D Ihr Körper dank der Kraft der Sonne produziert, desto besser? Nein, das stimmt so nicht. Es stimmt, dass unser Körper Vitamin D produziert, sobald Sonnenstrahlen direkt auf unsere Haut einwirken. Die meisten Menschen können so zumindest einen Teil ihres Vitamin-D-Bedarfs decken. Sonnenlicht ist zwar essentiell für die Vitamin-D-Synthese, doch eine übermässige Sonnenexposition ist gefährlich.
 
 Leider haben die meisten von uns sich schon öfter mal nicht nur die Finger an der Sonne verbrannt. Wer wie ein Hummer oder eine Languste aussieht, bietet einen mehr als komischen Anblick. Doch ein Sonnenbrand kann die Haut ernst- und dauerhaft schädigen. Selbst wenn man sich keinen Sonnenbrand dabei holt, kann eine hohe UV-Strahlung die Hautalterung beschleunigen, oder – schlimmer noch – zu Hautkrebs führen. Tatsächlich ist Hautkrebs die häufigste Krebsart und wird hauptsächlich durch die UV-Strahlung der Sonne verursacht.
 
 Es gibt vorbeugende Massnahmen, um die Wahrscheinlichkeit einer UV-Strahlenüberdosis und das damit verbundene Krebsrisiko wirksam zu senken: Man kann sich vorwiegend in Innenräumen aufhalten, schützende Kleidung tragen und ein Sonnenschutzprodukt mit mindestens Faktor 8 auftragen, bevor man länger als nur für ein paar Minuten ins Freie geht.
-
-## Sunbuddy wacht über unser Wohlbefinden
 
 Diese Vorsichtsmassnahmen sind schon viel wert, wenn man den Körper vor einer übermässigen Sonnenexposition schützen möchte, doch sie können die UV-Strahlung, die bereits auf den Körper eingewirkt hat, nicht quantifizieren. So ist es schwierig abzuschätzen, wann man erneut Sonnenschutz auftragen sollte, wann das Tragen eines Sonnenhutes sinnvoll wäre oder wann es Zeit ist, einen schattigen Platz aufzusuchen. «Oftmals holen sich die Leute einen Sonnenbrand, weil sie sich mit unbekannten Situationen oder Umgebungen auseinandersetzen müssen und die Kraft und Intensität der UV-Strahlung vor Ort unterschätzen. Urlaubsorte sind ein klassisches Beispiel hierfür», sagt Welten. «Die Schwierigkeit bei der Einschätzung von UV-Strahlung rührt im allgemeinen daher, dass sie für das menschliche Auge unsichtbar ist.»
 

@@ -2,45 +2,39 @@
 
 **Source:** en_internal/2022/01/der-baustart-des-physikgebaeudes-hpq-rueckt-naeher.html
 
-## Preparations now underway
+**Date processed:** 2025-05-01
 
-- HPQ construction project webpage: www.ethz.ch/hpq
-
-- Information event (25.01.2022): DownloadPresentation Building Projects HPQ and HPT (PDF, 194.9 MB)vertical\_align\_bottom
-
-- Information event (10.09.2021): Structural developments at ETH Zurich
-
-- DownloadContacts for construction emissions Hönggerberg campusvertical\_align\_bottom
+## Main article
 
 ETH Zurich wants to further expand its leading position in quantum research, and thus lay key groundwork for developing new materials and future technologies. Precise investigation of easily disrupted quantum effects on an atomic level calls for highly complex infrastructure and a minimally disruptive environment. The new building, designated HPQ, will offer precisely that. HPQ is to have a very open look, which will fit in well to the existing campus. But what will not be immediately apparent is that around two-thirds of the building’s total volume will actually be underground. Shielded as much as possible from environmental influences such as vibrations and temperature fluctuations, this is where the laboratories and technology platforms for sensitive work will be housed. After some eight years of preparations – needs assessment, feasibility study, design competition, implementation planning, budgeting, approvals and tenders – construction will begin this summer. The building is expected to take a further five years to complete, with the first year devoted to excavating foundations on an impressive scale of around 75 metres by 67 metres, reaching a depth of 28 metres. This is equivalent to approximately 20 tennis courts. It is estimated that digging the foundations will involve the removal of some 12,000 truckloads of earth. At the same time, a new field of earth probes will be created for the anergy grid. This expansion supports ETH Zurich’s goal of taking a major step closer to climate neutrality. The project also covers changes to the surrounding area: the neighbouring Flora Ruchat Roncati Garden, which is a designated historical monument, will be expanded in the final year of construction to enhance its biodiversity and given an additional pond to serve as a retention reservoir to cope with heavy rainfall.
 
-## Removal of the Huber Pavilions
+## Preparations now underway
 
 Preliminary work has already started to ensure that construction of HPQ can begin this summer. For instance, a waiting area for lorry traffic is being established next to the Albert-Einstein-Brücke exit and a turning loop is being built next to the new HIF laboratory wing. In this way, ETH Zurich is ensuring that traffic on the Hönggerberg campus will continue to flow smoothly. There will also be visible changes along the main thoroughfare of Wolfgang-Pauli-Strasse. As the perimeter of the construction site overlaps with the road lane towards Höngg, the central reservation will be removed. This will allow two-way traffic to continue throughout construction of HPQ, meaning that Wolfgang-Pauli-Strasse will remain open to the ETH eLink, VBZ buses, cyclists and pedestrians. The bus stops will also remain where they are. Removing the central reservation was an inevitable measure that was part of the commissioned proposal. The idea is for the street to continue to function as a lively, green space, but instead of having its green area in the middle, in the future it will have groves and flower beds running along either side.
 
-## Renovation of HPT for plant biology and workshops
+## Removal of the Huber Pavilions
 
 By far the most visible change will take place on the HPQ site itself. Today, what stands between the HIF and HIL buildings are the Huber Pavilions. Erected between 1987 and 1995 as temporary structures, they have been used as teaching and drawing spaces by the Department of Architecture for the past few decades. Because the pavilions are beloved, especially by our architecture students, ETH Zurich’s plans for the HPQ building originally included relocating them. But further investigation revealed that continuing to use the pavilions as teaching spaces would be possible only if additional requirements were met. This would have meant carrying out extensive renovations at a considerable cost. In addition, the search for an alternative site on campus proved unsuccessful. This was because all land suitable for building had already been allocated for other projects, such as the new ETH Centre for Students and Entrepreneurs (HIC) and the HWS teaching and office building. Moreover, areas that are empty today will be required over the coming years for logistical purposes relating to future construction projects. ETH Zurich therefore decided to sell off the pavilions. The process for selling such property follows a defined cascade process, which stipulates that the Swiss federal government, the canton and city of Zurich have first refusal. Only then can the pavilions go to a private buyer. Removal of the pavilions will be completed in May 2022. Replacement spaces for drawing and teaching will be provided in the HIL building. This building is scheduled to be fully renovated in the early 2030s. Preparations for the future HPQ construction site also include the felling of some trees. A range of new trees and bushes will be planted as part of the landscaping work and the expansion of the Flora Ruchat Roncati Garden. The exterior space will be enhanced overall.
 
-## End of renovations and expansion of the HIF building
+## Renovation of HPT for plant biology and workshops
 
 Another major project – alterations to the HPT building – will begin on campus in 2022. Starting in the spring, the south wing and the workshops will be fully renovated. In addition to renewing the building technology, the structure will also receive new laboratories complete with the latest research infrastructure. This will be the new home of the Institute of Molecular Plant Biology, bringing the entire Department of Biology onto the Hönggerberg campus. The alterations also mean that the Department of Physics workshops, which are currently spread across the HPT and HPF buildings, can all be housed in HPT. Such consolidations pave the way for internal organisational synergies. Another upgrade will be to make the building fully accessible. This project will set the tone for making all the listed HP buildings fully accessible. It will also require space for construction logistics. A construction platform will be erected immediately adjacent to the building in the gap between it and HPI, where it will remain from May 2022 to December 2023.
 
-## Information for those directly affected
+## End of renovations and expansion of the HIF building
 
 As some new construction projects are getting underway, others are gradually nearing completion. These include the renovation and expansion of the HIF building. The expanded laboratory wing for the Department of Civil, Environmental and Geomatic Engineering was completed back in mid-2021. Existing laboratory and office spaces will be fully renovated by the end of 2022, followed by the alterations to the existing experiment facility in 2023.
 
-## Legal groundwork laid for the redevelopment of the Hönggerberg campus
-
 Construction projects always involve constraints and inconvenience for a certain period. While ETH’s predictive planning aims to minimise this disruption, it’s impossible to eliminate it entirely. To inform users of the surrounding buildings directly about the upcoming construction at HPQ and HPT, and to answer any questions, the Real Estate Management department held an information event on 25 January 2022. A recording of the event is available here and the presentation can be downloaded here (PDF, 194.9 MB) .
 
-## Further information
+## Legal groundwork laid for the redevelopment of the Hönggerberg campus
 
 The campus is a central element in the future development of ETH Zurich. In view of the historic district and urban structures in the city centre, ETH Zurich is planning to develop most of the additional space it needs for education and research on the Hönggerberg site.
 
-## Subscribe to Newsletter
-
 With a view to future structural development, ETH Zurich worked with the city and cantonal authorities to revise the legal planning principles. The revised special building regulations come into force on 31 January 2022 and lay the groundwork for the further development of the campus. Read more about the long-term vision for the campus here .
 
-## Staffnet
+## Further information
 
+• HPQ construction project webpage: www.ethz.ch/hpq
+• Information event (25.01.2022): Download Presentation Building Projects HPQ and HPT (PDF, 194.9 MB) vertical_align_bottom
+• Information event (10.09.2021): Structural developments at ETH Zurich
+• Download Contacts for construction emissions Hönggerberg campus vertical_align_bottom

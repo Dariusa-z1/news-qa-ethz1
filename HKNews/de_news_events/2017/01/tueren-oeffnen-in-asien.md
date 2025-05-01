@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2017/01/tueren-oeffnen-in-asien.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Nämlich? Dass mehr als die Hälfte der Interessierten neben Singapur mehr zu Indonesien erfahren wollen. Deshalb führen wir nun Anfang März mit rund einem Dutzend Firmenvertretern eine Studienreise nach Singapur und Jakarta durch.
@@ -15,6 +17,8 @@ Gibt es weitere Ideen? Ja, die nächste Idee ist, an unserem Zentrum zusammen mi
 Wie wirkt dieser Brückenschlag für die Wirtschaft auf das ETH-Kerngeschäft Forschung, Lehre und Wissenstransfer zurück? Es ist für die Forschung enorm wichtig, den Stand der Praxis zu kennen, um Wissenslücken zu orten. Heute führt oft erst ein Verständnis aller Facetten eines Problems zu einer guten Lösung. Ganz wichtig ist zudem der Wille, wissenschaftliche Konzepte in die Praxis zu transferieren. Der Schlüssel dazu ist beidseitiges Interesse und ein enger Austausch zwischen Wissenschaft und Wirtschaft. Unsere Plattform hilft uns hier in Südostasien, diese Ziele zu erreichen.
 
 Sie haben das SEC seit dessen Start begleitet und mitgeprägt. Worin besteht Ihre persönliche Motivation für das STIP? Was mich in Singapur täglich fasziniert ist, welch enorme Möglichkeiten die Region mutigen und unternehmungslustigen Menschen bietet. Schweizer Firmen haben mit ihren intelligenten Lösungen und ihrer hohen Qualität beste Karten, um in Asien erfolgreich zu sein. Trotzdem scheint es manchmal, dass die grosse Distanz zu Europa und vermeintliche kulturelle Hürden vor allem kleinere und mittlere Unternehmen zögern lassen, die sich bietenden Chancen zu packen. Mit dem STIP wollen wir den Firmen zeigen – gerade auch KMU –, dass sie auch mit ihren begrenzten Ressourcen hier den Durchbruch schaffen können.
+
+## Weitere Informationen
 
 Für die Study Tour nach Singapur und Indonesien vom 1. bis 7. März 2017 stehen noch Plätze zur Verfügung.
 

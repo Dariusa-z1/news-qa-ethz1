@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2023/03/interview-ilic-krause-entwicklungsstopp-ki.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH-News: Herr Krause, Tech-Grössen fordern in einem externe Seite offenen Brief ein Moratorium für das Training von Systemen Künstlicher Intelligenz (KI), die leistungsstärker als GPT-4 sind. Ist eine so drastische Massnahme angebracht? Andreas Krause: Ich bezweifle, dass diese Forderung durchsetzbar ist, da hinter der Entwicklung grosse kommerzielle und strategische Interessen stehen. Zudem ist es schwierig festzulegen was konkret eingeschränkt werden soll ohne Wettbewerbsverzerrung zu betreiben und Innovation in der Anwendung zu gefährden. Auch wenn ein solches Moratorium beschlossen werden würde, könnte wohl niemand sicherstellen, dass nicht weiter verdeckt am Training solcher Modelle gearbeitet wird.

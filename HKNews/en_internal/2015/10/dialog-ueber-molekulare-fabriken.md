@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2015/10/dialog-ueber-molekulare-fabriken.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Molecular sciences, art, religion and politics – these topics will be discussed on 22 October 2015 at 7.20 pm at the second "Basar Molekular", a live-radio talk at Unternehmen Mitte in Basel with four well-known guests: Anita Fetz, Council of States member representing Basel-Stadt since 2003, Felix Gmür, the bishop of Basel, who leads the largest Swiss diocese since 2011, Stefan Gubser, TV- and theater-actor, best known for his role as "Kommissar” Reto Flückiger in the Swiss episodes of the Sunday-night TV-favourite "Tatort", and Daniel J. Müller, Professor for Biophysics at ETH Zurich (D-BSSE) and Co-Director of the NCCR Molecular Systems Engineering.

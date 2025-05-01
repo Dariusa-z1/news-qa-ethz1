@@ -2,21 +2,15 @@
 
 **Source:** de_internal/2014/01/neue-kolumnistinnen.html
 
+**Date processed:** 2025-05-01
+
 ## Neue VSETH-Präsidentin
 
 Den Auftakt in der kommenden Woche macht Ulrike Kastrup. Sie leitet seit fünf Jahren focusTerra, das erdwissenschaftliche Forschungs- und Informationszentrum der ETH Zürich. Sie studierte an den Universitäten Bonn und Zürich Geologie und promovierte beim Schweizerischen Erdbebendienst am Institut für Geophysik an der ETH Zürich. Anschliessend forschte und arbeitete sie im Bereich des Risikomanagements und der Risikokommunikation bei Naturgefahren an der United Nations University in Bonn, am Royal Melbourne Institute of Technology in Australien und als Corporate Risk Managerin bei der SBB. Mit den zahlreichen Ausstellungen und Aktivitäten in focusTerra möchten Ulrike Kastrup und ihr Team einem breiten Publikum die Faszination und Schönheit der Erdwissenschaften vermitteln und über deren Rolle in unserem Alltag informieren.
 
-## Präsidentin des WPF
-
 Im November 2013 wählte der Mitgliederrat, das oberste Organ des Studierendenverbands VSETH, Julia Wysling zu seiner Präsidentin. Sie wurde 1990 in Zürich geboren und ist in Zürich, Wien und Uster aufgewachsen. Nach erfolgreich absolvierter Matura an der Kantonsschule Rämibühl inklusive Austauschjahr in Australien studiert sie seit 2009 an der ETH Mathematik. Zuvor war Julia Wysling schon in ihrem Fachverein VMP (Verein der Mathematik- und Physikstudierenden), in mehreren VSETH-Kommissionen und im Verein SoNaFe/WiNaFe tätig. Besonders faszinierend an der Arbeit im VSETH findet sie das Zusammenspiel zwischen der politischer Vertretung der Studierenden und dem Angebot von Dienstleistungen. In ihrer Freizeit trainiert Julia Wysling für einen Triathlon.
-
-## «Live» aus Singapur
 
 Eine weitere Autorin ist Ursula Keller. Die Physikprofessorin ist seit 1993 an der ETH und seit 2010 Leiterin des nationalen Kompetenzzentrums NCCR MUST («Molecular Ultrafast Science and Technology»). Sie wurde 1959 in Zug geboren. 1984 erhielt sie ihren Master an der ETH Zürich und promovierte 1989 an der Stanford University. Sie war zunächst als «Member of Technical Staff» mit ihrem eigenen Forschungslabor an der AT&T Bell Laboratories tätig, bevor sie an die ETH zurückkehrte. Zusammen mit ihrer derzeitigen Forschungsgruppe untersucht und sprengt sie die (Mess)-Grenzen in den ultraschnellen Wissenschaften und in der Lasertechnologie. Das Team nutzt das Know-How für die Erforschung und Beantwortung grundlegender Fragen des Ladungs- und Energietransports auf atomarer Ebene mittels Attosekunden-Messtechnologien. Ursula Keller wurde mit mehreren internationalen Preisen ausgezeichnet und hat einen Advanced Grant des Europäischen Forschungsrates (ERC) erhalten.. Derzeit ist sie die amtierende Präsidentin des ETH Women Professors Forums (WPF).
 
-## Staffnet
-
 Vom Campus des SEC in Singapur berichtet Marta Heisel-Wisniewska. Sie ist derzeit als Forscherin am Future Cities Laboratory (FCL) in Singapur im Auftrag der Professur für Architektur und Bau tätig. Von 2004 bis 2011 studierte sie am Departement Architektur und Städteplanung der Westpommerschen Technischen Universität Stettin (ZUT) in Polen sowie am Departement Architektur der Hochschule für Künste in Berlin. Bevor sie zum FCL nach Singapur berufen wurde, war sie Dozentin und Koordinatorin des Architekturprogramms am Äthiopischen Institut für Architektur, Bauwesen und Städteentwicklung in Addis Ababa, wo sie Mitglied einer Forschungsgruppe war, die sich mit dem Design von Flüchtlingsauffangeinrichtungen befasste. Für ihr Engagement wurde sie von EiABC-Studentenrat im Jahr 2011 mit dem 'Best Teaching Award' ausgezeichnet.
-
-## Newsletter abonnieren
 

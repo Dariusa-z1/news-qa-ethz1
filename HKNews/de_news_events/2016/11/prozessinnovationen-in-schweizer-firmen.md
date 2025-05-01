@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2016/11/prozessinnovationen-in-schweizer-firmen.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Die Konjunkturforschungsstelle (KOF) der ETH Zürich führt seit den 1990er-Jahren bei rund 6000 Schweizer Unternehmen regelmässig Innovationsumfragen durch. Im Zentrum dieser Studie steht, wie Firmen den Zugang zu externem Wissen und moderne Informations- und Kommunikationstechnologien (IKT) nutzen – denn diese Faktoren unterstützen die Innovation von Prozessen, um Produktionskosten zu senken. Im Interview mit ETH-News erklären Georg von Krogh, Professor für Strategisches Management und Innovation und Autor der Studie, sowie Co-Autor Martin Wörter, Leiter der Sektion Innovationsökonomik der KOF, wie gut Schweizer Firmen bei den Prozessinnovationen wirklich sind.
@@ -31,6 +33,8 @@ Von Krogh: In unserer Studie zu «Open Innovation» haben wir auch aufgezeigt, d
 Sie empfehlen, vermehrt auf Prozessinnovationen zu setzen, um Produktionskosten zu senken. Müssen Betriebe nun diesen Teil der Zitrone stärker auspressen, um marktfähig zu bleiben? Wörter: Nein, so ist das nicht gemeint. Ich kann die Produktivität erhöhen, indem ich mehr verkaufe oder indem ich die vorhandenen Produkte günstiger produziere – am besten beides. Wenn aber eine Technologie eine gewisse Reife erreicht hat, wird es immer schwieriger, sie weiter zu optimieren, weil die Kosten einer weiteren Verbesserung des Produktes stark steigen. Deshalb ist es ratsam, an den Prozessen zu arbeiten. Wenn dann ein neues Produkt auf den Markt gebracht wird, ist der Preis oft ähnlich hoch wie der des Vorgängermodells. Das Unternehmen kann aber dank optimierten Prozessen günstiger produzieren und dadurch seine Produktivität steigern.
 
 Gibt es bei den Schweizer Firmen auch Handlungsbedarf? Von Krogh: Die nächste grosse Herausforderung ist die Digitalisierung. Prozessinnovationen werden möglich, indem Unternehmen bereits existierende Prozesstechnologien verbessern oder digitale Technologien neu einsetzen. Bereits heute beschäftigen sich viele Firmen mit der Digitalisierung. Wenn Führungskräfte dies noch nicht getan haben, wird es höchste Zeit, denn sie wird die Schweizer Wirtschaft fundamental verändern. Das Erfreuliche an der Schweiz ist, dass die Politik sich dessen bewusst ist und eine sehr pragmatische Haltung ausübt, indem sie die Industrie unterstützt.
+
+## Literaturhinweis
 
 Trantopoulos, K., von Krogh, G., Wallin, M., & Wörter, M. (bevorstehende Erscheinung): External Knowledge and Information Technology: Implications for Process Innovation Performance. MIS Quarterly.
 

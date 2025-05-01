@@ -2,23 +2,19 @@
 
 **Source:** de_internal/2020/07/fuer-eine-allfaellige-zweite-welle-geruestet.html
 
+**Date processed:** 2025-05-01
+
 ## Zweiten Lockdown verhindern
 
 In der Schweiz sind mit den Lockerungsmassnahmen seit dem Lockdown die Infektionszahlen wieder angestiegen. Bis jetzt ist aber glücklicherweise die befürchtete zweite Welle ausgeblieben. Um für alle Fälle gerüstet zu sein, hat die Schulleitung in Ergänzung zum Masterplan «Rückkehr zum neuen Normalbetrieb» einen Plan B verabschiedet. Der Masterplan behält seine Gültigkeit, Plan B ergänzt ihn. Er beschreibt verschiedene Szenarien, und wie die ETH darauf reagiert. Die Szenarien wurden bereits im Mai in enger Zusammenarbeit mit den ETH-Professorinnen und -Professoren entwickelt, die in der nationalen Covid-19 Science Task Force mitarbeiten. Daraufhin wurden die Massnahmen mit den Departementen und Zentralen Organen abgestimmt.
 
-## Infektionsfälle: schnell reagieren
-
 Ueli Weidmann, Vizepräsident für Infrastruktur und Leiter der ETH-Covid-Taskforce
-
-## Massnahmen des Plan B
 
 «Wir wollen alles daransetzen, einen zweiten generellen Lockdown der ETH zu verhindern», umschreibt Ueli Weidmann, Vizepräsident für Infrastruktur und Leiter der ETH-Covid-Taskforce, das generelle Ziel des Dokuments. Es sieht punktuelle Massnahmen vor, die rechtzeitig umgesetzt werden sollen, damit der Prüfungs-, Lehr- und Forschungsbetrieb aufrechterhalten werden kann.
 
-## Staffnet
-
 Oberste Priorität haben dabei die Sessionsprüfungen, die im August anstehen. Dank geeigneten Schutzmassnahmen sollen sie auch in diesen ungewöhnlichen Zeiten ohne Beeinträchtigungen über die Bühne gehen. Das Herbstsemester soll dann mit möglichst vielen Lehrveranstaltungen vor Ort starten können, die mit Online-Veranstaltungen ergänzt werden. Forschende sollen uneingeschränkt arbeiten und möglichst alle Experimente wie geplant durchführen können. Auch Spin-off-Firmen auf den Campus sollen möglichst ohne Einschränkungen wirken können.
 
-## Newsletter abonnieren
+## Massnahmen des Plan B
 
 Ein grosses Anliegen ist Weidmann, dass erkrankte ETH-Angehörige nicht stigmatisiert werden. «Die Schutzkonzepte basieren auf Wahrscheinlichkeitsüberlegungen, vor einer Ansteckung ist niemand gefeit», ruft er in Erinnerung. So ist Empathie gefragt, auch wenn einzelne Ansteckungen Konsequenzen für eine ganze Gruppe von Personen zur Folge haben.
 

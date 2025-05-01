@@ -2,13 +2,15 @@
 
 **Source:** de_news_events/2017/04/einfach-genial-radarreflektor.html
 
-## Helfen gern, aber nicht so
+**Date processed:** 2025-05-01
+
+## Main article
 
 «Dieser Mechanismus ist so genial, den müsste man patentieren lassen», dachte sich Cornelius Senn, und dies nicht zum ersten Mal. Der Mess- und Elektrotechniker am Departement Bau, Umwelt und Geomatik machte schon oft Erfindungen und stellte Geräte her, die den Forschenden im Departement das Leben erleichterten. Doch diesmal sollte sich der so leicht dahergesagte Spruch bewahrheiten.
 
 Er hat einen Mechanismus zum Patent angemeldet, der es erlaubt, Platten – zum Beispiel solche aus Metall oder Plexiglas – ohne Schrauben stabil zusammenzufügen. Zusammengehalten werden sie von abgewinkelten Zungen, einer Art Verzahnung. Was Worte nur schwierig beschreiben können, ist umso einfacher zu verstehen, wenn man es sieht (vgl. Video).
 
-## Zwei Tüftler finden und beflügeln sich
+## Helfen gern, aber nicht so
 
 Angefangen hat alles mit einem Nein. Das Nein von Cornelius Senn, als ihn eine Doktorandin um Hilfe bat, Reflektoren für Radarmessungen aufzubauen. Solche Reflektoren werden in Schnee und Eis angebracht, um beispielsweise Höhenmodelle zu generieren. An Orten mit bekannten Koordinaten dienen sie als Referenzpunkte. Zudem werden sie benötigt, um den Fokus des Radars scharf zu stellen. Mittels der Radarbilder lassen sich dann etwa Fliessgeschwindigkeiten von Gletschern und Hangrutschungen im Millimeterbereich feststellen.
 
@@ -20,9 +22,9 @@ Doch Leinss wollte es ebenso genau wissen wie Senn. Er hatte schon früher Felde
 
 Leinss machte Tests mit Schrauben und zog Alufolie auf Blech auf. Die Erkenntnisse: Einzelne Schrauben haben tatsächlich keinen Einfluss auf die Messungen, und Reflektoren müssen nicht besonders dick sein. Doch baut man dünnere Reflektoren, muss man mehr und kürzere Schrauben verwenden. «Ist ein solcher Reflektor erst mal zusammengesetzt, nimmt man ihn nicht mehr auseinander, und man baut ihn schon gar nicht bei Minustemperaturen zusammen, wie sie etwa auf Grönland herrschen», weiss Senn aus eigener Erfahrung. Die Idee, ein sogenanntes Klavierbandscharnier zu verwenden – ein Metallband mit vielen kleinen Schrauben, das den Klavierdeckel hält – hat er verworfen: «Wenn da Dreck reingerät, geht das Band kaputt.» Zudem bestehe es aus einem anderem Material als die Metallplatten, was elektrolytische Korrosion zur Folge haben könne.
 
-## Grosses Potenzial
-
 Dank solcher Laschen lassen sich die Reflektorteile einfach und stabil zusammensetzen. (Bild: ETH Zürich / P. Rüegg)
+
+## Grosses Potenzial
 
 Bei aller Begeisterung: Praktisch jeder, der den Mechanismus sah, sagte, das habe er auch schon irgendwo gesehen. Doch wo genau? Was genau? Auch auf dem Patentamt war man sicher, dass ein solcher Mechanismus bereits hinterlegt ist. Einen Tag lang haben die Beamten gesucht – und dann doch nichts dergleichen gefunden. Nun ging es darum, die Patentschrift zu verfassen, was gar nicht so einfach war. Denn es sollte ja nicht einfach der Reflektor unter Schutzrecht gestellt werden, sondern der Mechanismus, mit dem die Platten miteinander verbunden sind. Und dieser ist so einfach, dass es extrem schwierig ist, ihn zu beschreiben.
 

@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2021/06/we-have-constantly-moved-and-changed.html
 
-## 150 Years Agricultural Sciences at ETH Zurich
+**Date processed:** 2025-05-01
+
+## Main article
 
 ETH News: This year, the Department of Environmental Systems Science (D-USYS) is celebrating 150 years of Agricultural Sciences at ETH Zurich. What events do you consider milestones? Nina Buchmann: It isn’t easy to sum up 150 years in two sentences, and whether something qualifies as a milestone depends on who you ask. We’ve put together a series of highlights on our website www.agri150.ethz.ch. Taking a closer look, I’m particularly struck by the degree of change in research and teaching, but also in the organisation.
 
@@ -20,8 +22,6 @@ The pressure on agriculture is increasing, and not only because of climate chang
 
 Why should farmers include biodiversity in their considerations? Based on my own research in my group and in collaboration with Robert Finger’s Agricultural Economics group, I can say that biodiversity is a production factor in grasslands and therefore also in forage production. We were able to demonstrate that increased biodiversity not only increases yields, but it makes grasslands more stable in the face of environmental influences – and we showed that this really pays off. I strongly suspect that more biodiversity will pay off in arable farming and agroforestry, too. Then, although a drought or a late frost might cause the yield of one crop species to drop by 20 percent, the yield of another might increase. Importantly, there would be no total failure of the kind a monoculture might suffer. Moreover, even under normal conditions, one species benefits from the other. The inclusion of biodiversity in agricultural economic considerations is likely to gain even more momentum with digitalisation.
 
-## About
-
 What are the latest developments in teaching? In teaching, we completed a reform of the degree programme in 2016. From the outset, it was clear that education at the Bachelor’s level should be broad, encompassing the aforementioned pillars of plants, animals, economics and politics. This is followed by specialisation in the Master’s programme. We again incorporated an internship on a Swiss farm into the Bachelor’s degree. The Master’s degree was extended from three to four semesters to include an additional research internship. Another aspect that has changed over the past 30 years is that we now place more emphasis on quantitative skills, that is, on data analysis and evaluation, as well as on writing up and presenting the results and findings. These are good skills to develop not only in science, but also for professional life.
 
 Has the reform of the degree programme paid off? Yes. From what we hear, the programme is very well received both by students and by those who later hire the graduates. Almost all graduates have a job eight months after graduation. The spectrum is extremely diverse, from NGOs, industrial and retail companies to agricultural schools. But the list of employers extends to banks, service providers, insurance companies and public administration, too. About 15 percent go on to pursue a doctorate.
@@ -32,9 +32,13 @@ You will soon be handing over as department head. What were your personal highli
 
 What are you going to do next? First of all, I’m going to catch my breath and take a six-month sabbatical. I’ve never given up research and teaching. I’ll be taking back a few of the things I’ve had to delegate. I will continue to be involved in the rETHink project. In addition, some new projects have got underway in my research group, and some applications are still pending. So I certainly won’t be bored.
 
+## 150 Years Agricultural Sciences at ETH Zurich
+
 (Image: ETH-Bibliothek Zurich)
 
 ETH Zurich’s Division of Agriculture was founded in 1871. The Institute of Agricultural Sciences celebrates the anniversary with various events throughout the jubilee year. On the anniversary website you can further find a timeline with historical facts and selected stories from the past 150 years.
+
+## About
 
 Nina Buchmann has been Professor of Grassland Sciences at ETH Zurich since 2003. She served in the leadership of the Department of Environmental Systems Sciences (D-USYS) from 2012 to 2021, first as Deputy Chair, then for four years as Chair.
 

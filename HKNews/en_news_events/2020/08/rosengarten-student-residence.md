@@ -2,23 +2,19 @@
 
 **Source:** en_news_events/2020/08/rosengarten-student-residence.html
 
+**Date processed:** 2025-05-01
+
 ## Space for peaceful studying and social interaction
 
 Affordable housing in Swiss cities – particularly in Zurich – is scarce. But currently more than 70,000 students are enrolled at Zurich’s universities, and they are in dire need of affordable housing. SSWZ, which was founded more than 30 years ago by ETH Zurich, Zurich University, the City of Zurich and Zurich’s student housing cooperative (WOKO) have made it a mission to address this situation.
 
-## City of Zurich, ETH, and the canton of Zurich contributed to the financing
-
 With the completion of its latest project, another milestone has been reached in the development of student housing. After three years of construction, the new Rosengarten student housing complex on Bucheggstrasse is now complete. The maisonette apartments for students are the focal point of the project, which was realised under the direction of Atelier Scheidegger Keller. “The top priority was to have as many rooms as possible while at the same time ensuring high quality living,” explains Christian Scheidegger, ETH alumnus and chief architect of the project. For SSWZ, the focus during the project was to offer each student a peaceful place for studying and somewhere that cultivates a sense of community and social interaction.
-
-## Demand for student housing remains high
 
 The new residential building with 18 shared housing units to house three to ten people, with a total of 130 students, will open its doors in September. Each unit centres around a spacious communal area with an open kitchen, around which the bedrooms and bathrooms are located. The floor of each communal area, which was designed by artist and ETH alumnus Nicolas Feldmeyer, features an image of a historic rose garden.
 
-## Don't miss the latest news
-
 The communal areas open to the two-storey loggias facing the park. Each loggia connects two housing units to create inviting opportunities for all residents to relax, socialise and eat around the shared barbecues. All the private rooms have windows facing the park for good ventilation. The solid construction and state-of-the-art sound proofing keep the living spaces quiet. Several rooms for guests, hobbies and music complete the amenities of the student housing facility. On average, the monthly rent for a room is CHF 580 (including additional costs).
 
-## Contact
+## City of Zurich, ETH, and the canton of Zurich contributed to the financing
 
 Those parts of the building that are not suitable for living spaces due to noise will be rented to small businesses and freelancers; for example, there are plans for a speech therapy practice. Various commercial uses are possible – the infrastructure required for restaurants is available as well. A kindergarten, creche and daycare centre with capacity for 83 children will eventually open in the spaces facing the park and on the ground floor of the building.
 

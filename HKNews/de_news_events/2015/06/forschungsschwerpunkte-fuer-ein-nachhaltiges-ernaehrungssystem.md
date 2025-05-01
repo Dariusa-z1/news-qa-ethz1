@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2015/06/forschungsschwerpunkte-fuer-ein-nachhaltiges-ernaehrungssystem.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH-News: Das World Food System Center der ETH Zürich befasste sich im Auftrag des Bundes mit dem Forschungsbedarf für ein nachhaltiges Schweizer Ernährungssystem. Was genau versteht man unter einem Ernährungssystem? Nina Buchmann: Ein Ernährungssystem umfasst alle im Land produzierten, aber auch konsumierten Lebensmittel – sowie Futtermittel –, alle nationalen Akteure und die nationalen Rahmenbedingungen. Das heisst, es ist ein System, das von der Produktion von Lebensmitteln bis hin zum Konsum und der Gesundheit reicht, alle Ressourcen, aber auch Abfälle und Verluste berücksichtigt, und obendrein noch von verschiedenen Rahmenbedingungen beeinflusst ist, sei es von der Ökonomie, der Politik, der Gesellschaft oder der Umwelt.
@@ -17,6 +19,8 @@ Inwiefern? Der Handlungs- und Forschungsbedarf hängt sehr stark davon ab, über
 Wo gibt es Handlungsbedarf bei diesem Systemansatz? An den Hochschulen müssen wir dieses Systemverständnis noch stärker in die Ausbildung hineinbringen. In den Agrarwissenschaften an der ETH machen wir das bereits seit langem. Auch in der Forschung des World Food System Center pflegen wir diesen systemorientierten Ansatz. Doch wir müssen uns darüber im Klaren sein, dass systemorientierte, transdisziplinäre Forschung viel mehr Zeit braucht als üblich, zum Beispiel um eine gemeinsame Sprache zu finden oder überhaupt erst Vertrauen aufzubauen. Dafür braucht es längerfristige Instrumente der Forschungsfinanzierung. Die heutige, oft projektbezogene Finanzierung über drei oder vier Jahre ist dafür meist zu kurz. Interessanterweise wurde der Systemansatz auch auf Verwaltungsebene als notwendig erachtet und Handlungsbedarf identifiziert. Unsere Interviews haben gezeigt, dass sich in der Schweiz zwar mehrere Bundesämter mit Teilaspekten des Ernährungssystems befassen, es derzeit jedoch keine umfassende nationale Strategie gibt.
 
 Und welches persönliche Fazit ziehen Sie aus der Studie? Ergebnisse aus unserer Studie fliessen direkt in das Forschungskonzept des Bundsamtes für Landwirtschaft ein, das gerade entwickelt wird. So unmittelbaren Einfluss hatte meine Tätigkeit in der Agrar- und Umweltforschung bisher wohl noch nie. Und ich nehme erfreut zur Kenntnis, dass sich das World Food System Center bereits drei Jahre nach der Gründung ein Renommee als Institution aufgebaut hat, welche den Überblick über solch ein weites Forschungsfeld hat. Immerhin bringt uns das Bundesamt für Landwirtschaft das Vertrauen entgegen, uns mit einer solch umfassenden Studie zu beauftragen.
+
+## Zur Person
 
 Nina Buchmann (49) ist Professorin für Graslandwissenschaften am Institut für Agrarwissenschaften. Sie leitet ausserdem das World Food System Center der ETH Zürich und ist Mitglied im Landwirtschaftlichen Forschungsrat der Schweiz, einem Organ, welches das Bundesamt für Landwirtschaft in Fragen zur strategischen Ausrichtung der landwirtschaftlichen Forschung berät.
 

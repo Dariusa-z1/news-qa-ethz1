@@ -2,7 +2,9 @@
 
 **Source:** en_internal/2021/10/together-for-the-sustainable-development-goals-exhibition-and-events.html
 
-## Together for the SDGs Agenda
+**Date processed:** 2025-05-01
+
+## Main article
 
 How can we fight global poverty and inequality, protect the planet and ensure that by 2030 all people enjoy peace and prosperity? What contribution can science and technology make?
 
@@ -12,7 +14,7 @@ In 2015, the 193 UN members have adopted the 2030 Agenda for sustainable develop
 
 See here for more information on the exhibition and events.
 
-## Food Day@ETH
+## Together for the SDGs Agenda
 
 Together for the SDGs - Exhibition
 
@@ -22,8 +24,6 @@ Wednesday, 3 November 2021 Covid Check-In: 17:00 – 17:30 Event: 17:30 – 19:3
 
 Careers in Sustainability and Global Development
 
-## Subscribe to Newsletter
-
 Thursday, 4 November 2021 17:30 – 20:00 ETH Main Building, HG E3
 
 World Food System Center Research Symposium 2021 Friday, 5 November 2021 17:15 – 21:00 ETH Main Building, HG F30
@@ -31,8 +31,6 @@ World Food System Center Research Symposium 2021 Friday, 5 November 2021 17:15 �
 Building a Sustainable Future - ETH SDG Pitch-​Event
 
 Monday, 8 November 2021 17:00 – 19:15 Student Project House Clausiusstrasse 16
-
-## Staffnet
 
 Registration as Pitcher
 

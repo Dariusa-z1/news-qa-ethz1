@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2014/08/die-schweiz-von-oben.html
 
+**Date processed:** 2025-05-01
+
 ## Warum Luftaufnahmen so attraktiv sind
 
 1973 gewinnt der FC Zürich mit 2:0 nach Verlängerung den Cupfinal gegen den FC Basel im Wankdorf-Stadion Bern. Was neben der sporthistorischen Dimension erstaunt: Von dieser Partie gibt es ein Luftbild, auf dem nicht nur das ausverkaufte Stadion, sondern auch der Parkplatz mit vielen bunten Fahrzeugen aus den 1970er Jahren zu sehen ist. Nebst dieser aussergewöhnlichen historischen Aufnahme sind im neuen Bildband «Swissair Luftbilder» 36 farbige und 112 schwarzweisse Abbildungen aus den Beständen der ETH-Bibliothek versammelt. Die älteste Aufnahme stammt aus dem Jahre 1918, die jüngste von 1999.
@@ -12,15 +14,15 @@ Egal aus welchem Grund man sich für Luftaufnahmen interessiert, in diesem Band 
 
 Das Luftbildarchiv der Swissair umfasst rund 135’00 Bilder und wird seit einigen Jahren von der ETH-Bibliothek erschlossen und archiviert. Den Grundstock für diesen reichen Fundus legte der Schweizer Flugpionier Walter Mittelholzer (1894–1937). Bereits 1918 machte er die ersten Aufnahmen und erkannte früh das ungeheure Potenzial der Luftaufnahmen. Dem Autor Ruedi Weidmann fiel mit Unterstützung des Grafikerduos Megi Zumstein und Claudio Barandun die schwierige Aufgabe zu, unter den 50‘000 bereits digitalisierten Luftaufnahmen, jene auszuwählen, die sich für einen Bildband besonders eignen. Die beiden Herausgeber des Bandes Michael Gasser und Nicole Graf aus dem Archivbereich der ETH-Bibliothek, beschreiben die Auswahlkriterien als spannende Mischung aus Ästhetik, Abbild der zeitlichen und geographischen Breite des Bestandes sowie gezieltem Bildinventar von Dingen, die in den letzten Jahrzehnten aus der Landschaft verschwanden oder neu dazugekommen sind. Es ist bereits der vierte Band, den die beiden Herausgeber in der Reihe «Bilderwelten. Fotografien aus dem Bildarchiv der ETH-Bibliothek» publizieren (siehe Kasten).
 
+## Mithelfen beim Identifizieren
+
 Die ETH-Bibliothek stellt ihr Bildbestände aber nicht nur in Form von Bildbänden der Öffentlichkeit zur Verfügung, sondern arbeitet intensiv an der archivarischen Aufbereitung und Digitalisierung. Im Verlauf des nächsten Jahres soll das Projekt zur Bearbeitung der Swissair-Bildbestände, insbesondere die Digitalisierung, abgeschlossen sein. Bereits jetzt sind aber auf der Bilddatenbank Bildarchiv online rund 60‘000 Luftbilder zugänglich. Bei der Beschreibung der Bilder ist auch die Mitarbeit der interessierten Öffentlichkeit gefragt. Rund 650 Bilder konnte das Bildarchiv nämlich bis jetzt noch nicht oder nur ungenügend identifizieren. Sie gehören zu einer Bildserie von Industriebauten, die in den 1920er und 1930er Jahren aus sehr geringer Flughöhe aufgenommen wurden. Die Leiterin des Bildarchivs, Nicole Graf, erklärt: «Diese Aufnahmen sind ein ganz besonderer und in Vergessenheit geratener Bestand. Da die abgebildeten Fabriken und Industriegebäude teilweise heute nicht mehr bestehen, sind die Bilder ein wichtiges und unwiederbringliches Zeugnis der Schweizerischen Industrialisierung.»
 
-## Mithelfen beim Identifizieren
+## Buch, Wettbewerb und Ausstellung
 
 Ruedi Weidmann: Swissair Luftbilder. Das Luftbildarchiv der Swissair. Herausgegeben von Michael Gasser und Nicole Graf. Bilderwelten. Fotografien aus dem Bildarchiv der ETH-Bibliothek, Band 4, ISBN 978-3-85881-429-6, CHF 59.00.
 
 «Swissair Luftbilder» ist der vierte Band mit Fotos aus dem Bildarchiv, bereits erscheinen sind Swissair Souvenirs , Die Welt im Taschenformat und Forschung im Fokus .
-
-## Buch, Wettbewerb und Ausstellung
 
 In einem Wettbewerb der ETH-Bibliothek gibt es den aktuellen Bildband zu gewinnen, unter: externe Seite https://de-de.facebook.com/ETHBibliothek
 

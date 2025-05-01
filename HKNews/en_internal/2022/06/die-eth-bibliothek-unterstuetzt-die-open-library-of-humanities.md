@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2022/06/die-eth-bibliothek-unterstuetzt-die-open-library-of-humanities.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 The Open Library of Humanities is an award-winning, academic-led, gold open-access publisher of 28 journals, e.g. Architectural Histories , with no author-facing charges.

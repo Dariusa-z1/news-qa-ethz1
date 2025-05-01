@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2014/01/white-fever.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 We know that wintertime is the season for flu, but what about this thing called "white fever"? What is it and where does it come from? Is it contagious?
@@ -17,6 +19,8 @@ Of course, such a trip was unthinkable without dog sledges. What an experience! 
 After these excursions and at the end of our 10-day trip, it was clear that we were done for: the white fever had us in its grip. We were under a spell of fascination for this constantly shifting land, the great, immeasurable vastness of the ice, the icebergs and sheets of ice floating past our window creating a constantly changing view, and we were seized by the desire to preserve this unique and fragile world threatened by climate change and exploitation. When you talk to the researchers of ETH and the University of Zurich working in these high latitudes, you will see that they are in the same predicament. Whenever you speak to them of Greenland, their eyes shine with delight and longing – maybe even a bit feverishly…
 
 Ulrike Kastrup
+
+## About the author
 
 Ulrike Kastrup has been Director of focusTerra, ETH Zurich’s Earth Science Research and Information Centre, for five years. She studied geology at the University of Bonn and the University of Zurich and completed her doctorate at the Swiss Seismological Service in the Institute of Geophysics at ETH Zurich. She then went on to carry out research and work on risk management and risk communication in relation to natural hazards at various organisations and institutions, including the United Nations University in Bonn, Royal Melbourne Institute of Technology in Australia and as a Corporate Risk Manager at SBB (Swiss Federal Railways). By organising numerous exhibitions and activities at focusTerra, Ulrike Kastrup and her team are keen to open the public’s eyes to the beauty and fascinating qualities of geology as well as its role in everyday life.
 

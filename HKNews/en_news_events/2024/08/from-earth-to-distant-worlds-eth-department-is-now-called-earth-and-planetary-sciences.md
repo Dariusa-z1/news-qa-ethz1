@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2024/08/from-earth-to-distant-worlds-eth-department-is-now-called-earth-and-planetary-sciences.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH News: Professor Robertsson, your department has just been renamed. What was the reason for the name change? Johan Robertsson: We were more than ready for this change. Over half the professors in our department are already working on topics directly or indirectly related to space, with approaches rooted in the Earth sciences but closely connected to chemistry, physics and biology. The spectrum of topics ranges from remote sensing of the Earth from space to studying exoplanets and gravitational waves. Our department played a key role in the Insight mission to Mars. We have people who research the dynamics of other planets and how they form and evolve over time. We have been part of sample return missions involving rock samples that are retrieved from asteroids or Mars, for example, and analysed in our unique laboratories. The latest large telescopes are currently being used to analyse the geochemical signatures of exoplanets to detect any evidence of life. Our department is home to several professors who are members of the Centre for the Origin and Prevalence of Life (COPL) where these observations are the cornerstone of their work.
@@ -9,6 +11,8 @@ ETH News: Professor Robertsson, your department has just been renamed. What was 
 How did the appointment of former NASA science director Thomas Zurbuchen as a professor in your department affect the name? When we nominated Thomas Zurbuchen for an honorary doctorate from ETH two years ago, one reason was that research in our department had benefited enormously from NASA space missions under his leadership. We are very pleased that Thomas joined us as professor a year later and is now contributing directly to the department. Department names that include “planets” are not unique to us. Several top universities around the world also have departments with similar names, for instance Harvard, Berkeley and MIT in the US, or Imperial College in the UK. The name is therefore neither new nor unusual, but better describes what we actually do. It is a path we have been on for a long time, starting over 50 years ago when surface samples from the NASA Apollo 11 mission were brought back and analysed in our Noble Gas Laboratory.
 
 Johan Robertsson. (Image: ETH Zurich)
+
+## About Professor Robertsson
 
 Johan Robertsson has been Professor of Applied Geophysics and Head of the Exploration and Environmental Geophysics (EEG) Research Group at the Institute of Geophysics in the Department of Earth and Planetary Sciences (D-EAPS, formerly D-ERDW) since 2012. He has headed the department since 2022.
 

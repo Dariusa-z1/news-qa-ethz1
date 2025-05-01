@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2023/03/globe-der-digitale-schatten-unserer-gefuehle.html
 
-## Zu den Personen
+**Date processed:** 2025-05-01
+
+## Main article
 
 Herr Buhmann, werden Computer bald Emotionen haben?
 
@@ -38,8 +40,6 @@ Zimmermann: In meinem Forschungsgebiet sind Emotionen und Haltungen, die wir geg
 
 Wie bringt man Menschen dazu, gerne mit Maschinen zu interagieren?
 
-## «Globe» Emotional!
-
 Zimmermann: Es kommt darauf an, was man mit den Technologien erreichen will. Ist das Ziel, dass Menschen über virtuelle Realitäten Emotionen erleben können? Oder ist das Ziel, eine möglichst menschenähnliche soziale Interaktion zu ermöglichen, in einem Anwendungsfeld wie der Pflege, wo menschlicher Bezug aufgrund der Alterung der Gesellschaft knapp werden könnte? Es gibt Studien, die zeigen, dass ein Roboter, je nachdem, wie er gestaltet ist, bestimmte Emotionen bei Menschen erzeugen und so auch eine emotionale Verbindung zwischen Mensch und Technologie entstehen kann.
 
 Also heisst das für Roboter: je ähnlicher, desto sympathischer?
@@ -65,6 +65,8 @@ Welche Rolle spielen Emotionen künftig in den technischen Wissenschaften?
 Fleisch: Wir messen nicht direkt die Emotionen, sondern den digitalen Schatten, den unsere Gefühle auf dem Messband hinterlassen. Aus technischer Sicht werden wir diesen handhabbaren Schatten immer besser verstehen. Und dieses Verständnis müssen wir für die Gesellschaft nutzen. Die Emotionen selber werden vom Computer abgekapselt bleiben.
 
 Zimmermann: Als Forscherin an der Schnittstelle zwischen den Sozialwissenschaften und der Technischen Wissenschaften ist es mir wichtig, dass wir den Menschen und die Technologie nicht isoliert betrachten, sondern die Interaktion zwischen beidem. Denn dort spielen die Emotionen eine entscheidende Rolle.
+
+## Zu den Personen
 
 Joachim M. Buhmann ist Professor für Informatik am Departement Informatik.
 

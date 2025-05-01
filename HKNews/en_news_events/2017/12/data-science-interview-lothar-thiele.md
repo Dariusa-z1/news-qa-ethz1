@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2017/12/data-science-interview-lothar-thiele.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Mr Thiele, you were recently appointed representative for digital transformation by the Executive Board. What are your responsibilities in this role? Thiele: Digitalisation is not just a major topic in the media; the economy and politics are feeling its effects too. This has repercussion for ETH, in that we are having to face many demands and requirements. As a leading institution, ETH wants to have an active say in the discussion surrounding digitalisation. This calls for a strategy on how to tackle the topic. We also need to set priorities. My task is to support the Executive Board, the professors and the departments in this area.
@@ -25,6 +27,8 @@ How should ETH position itself publicly? ETH definitely should not be striving t
 What topics do you personally consider to be of interest? There are various facets I find extremely exciting. One relates to privacy: the issue is not just about who is accessing my data; it is about what happens to the data that I disclose. Where does it go? Who is allowed to use it? What information can be gained from it? What mechanisms are there to limit this? Technically speaking, this is the domain of information theory. But there are legal and ethical issues involved too.
 
 Another aspect of digitalisation is machine learning: adaptive algorithms are not designed simply to perform sets of commands, such as sorting through a sequence of numbers. These algorithms learn through trial and error. This is a huge difference. Adaptive machines are already outperforming human beings in many areas. The problem is that we do not yet know exactly how they are learning. We have effectively created something we do not adequately understand yet. In the same vein, we do not yet know how people learn and in what respects human and machine learning differentiate.
+
+## About Lothar Thiele
 
 Lothar Thiele is a Professor of Technical Computer Science in the Department of Information Technology and Electrical Engineering at ETH Zurich. His research focuses on cyber-physical systems, the Internet of Things, embedded systems and evolutionary algorithms. He was appointed representative for digital transformation by the Executive Board at the beginning of November.
 

@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2017/06/interview-wirh-lino-guzzella.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH News: Professor Guzzella, everyone is talking about digitalisation at the moment. The topic appears in countless media reports, events and initiatives. Are we really facing a radical upheaval – or is this just a fashionable trend? Lino Guzzella: It’s true that many people are talking about this subject. That’s understandable, as we are experiencing a development that will change our lives profoundly.
@@ -29,6 +31,8 @@ If you think about the interference in the run-up to the French elections or the
 Isn’t there also a need for better technical safeguards? A society must always protect itself against threats. Zurich used to have a city wall made of bricks, but today we need IT walls like the ones we have been building at ETH’s Zurich Information Security & Privacy Center (ZISC) since 2003.
 
 Researchers at ZISC have proposed creating a new foundation for the internet. Is that realistic? This project represents a huge opportunity. The foundations of the internet were developed under very different circumstances than those prevailing today. Actually, it’s a wonder that this structure still works so well. The project known as SCION (Scalability, Control and Isolation on Next-Generation Networks) now allows secure data transfer. Thanks to ETH, Switzerland could become the first country with a secure internet – and this would open the doors for many exciting applications.
+
+## Safety in cyberspace – the Cyber Risks Summit
 
 New information and communication technology (ICT) not only offers huge opportunities; it also involves risks. To counter these risks, it is important to understand the theoretical foundations of information security. There is also a need for practical knowledge of how to handle security threats. At the Cyber Risks Summit, the keynote speakers will report on new research findings. In the second part of the summit, a panel discussion will examine the question of how Switzerland can become the first “internet-secure country”.
 

@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2015/07/cluster-machen-unternehmen-erfolgreicher.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Warum sind Firmen in einem Cluster innovativer? Und was macht einen Cluster besonders erfolgreich? Diesen Fragen sind Professor Georg von Krogh, Professor für Strategisches Management und Innovation der ETH Zürich, und Nina Geilinger, Doktorandin an derselben Professur, in Zusammenarbeit mit dem Amt für Wirtschaft und Arbeit des Kantons Zürich, Bereich Standortförderung, nachgegangen. Dazu haben sie Cluster in den Bereichen Biotech, Cleantech und ICT (Informations- und Kommunikationstechnologie) im Kanton Zürich untersucht.
@@ -39,6 +41,8 @@ Von Krogh: Wenn sich beispielsweise führende Konzerne wie Google in der ICT-Bra
 Wie werden sich die Märkte künftig weiter entwickeln? Lässt sich die Produktinnovation noch weiter beschleunigen? Von Krogh: Je nach Markt sind unterschiedliche Entwicklungen zu erwarten. Nicht alle Märkte sind offen für technologische Beschleunigung. Das kann an den fehlenden Mitteln der Kunden liegen oder daran, dass die Menschen nicht mehr gewillt sind, in immer Neues zu investieren. Grundsätzlich erwarte ich, dass sich die Konsumenten in vielen Bereichen neu orientieren werden, dass sie vermehrt Produkte nur einmal kaufen und danach zunehmend teilen. Das Auto ist dafür prädestiniert. Die Idee von der Sharing Economy wird möglicherweise einen Einfluss auf das Investitionsverhalten von Firmen haben, was dann auch deren Innovationsaktivitäten beeinflussen könnte. Innovation durch intensives Teilen von Wissen über Firmengrenzen hinaus wird unumgänglich sein.
 
 Geilinger: Unternehmen in den Clustern im Kanton Zürich können sich zudem noch deutlich weiterentwickeln, wenn sie neuartige Geschäftsmodelle und Managementansätze einsetzen.
+
+## Literaturhinweis
 
 Geilinger N, Krogh G, Häfliger S: externe Seite Das Cluster-Ecosystem im Kanton Zürich und sein Einfluss auf den Innovationsprozess - Eine Studie der Cluster Biotech, Cleantech und ICT im Cluster-Ecosystem des Kantons Zürich , Lehrstuhl für Strategisches Management und Innovation der ETH Zürich in Kooperation mit Amt für Wirtschaft und Arbeit Kanton Zürich, Bereich Standortförderung, Juni 2015
 

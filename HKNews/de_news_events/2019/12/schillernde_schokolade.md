@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2019/12/schillernde_schokolade.html
 
+**Date processed:** 2025-05-01
+
 ## Experimente in der Küche
 
 Die Praline schillert in wild wechselnden Regenbogenfarben. Es scheint, als würde sie leuchten. Eine Gruppe von Forschenden der ETH Zürich und der Fachhochschule Nordwestschweiz haben dafür vor Kurzem ein Patent angemeldet.
@@ -11,8 +13,6 @@ Einfärben konnte man Schokolade zwar schon lange. Die ETH-Forschenden erzeugen 
 Die Geschichte beginnt auf dem Flur. Der Lebensmittelwissenschaftler Patrick Rühs, der Materialwissenschaftler Etienne Jeoffroy und der Physiker Henning Galinski kommen in einer Pause auf Schokolade zu sprechen. Sie arbeiten zwar in unterschiedlichen Gruppen, ihre Büros liegen aber Tür an Tür. Sie fragen sich, ob und wie man farbige Schokolade herstellen könnte. Rühs studiert die Materialeigenschaften von Lebensmitteln, Jeoffroys Spezialgebiet sind komplexe Materialien und Galinski hat bereits intensiv zu optischen Materialien geforscht.
 
 Die ersten Experimente beginnen in der Kaffeeküche, oft am Freitagnachmittag. Das Schokoladenprojekt entsteht aus reiner Neugierde. Die drei beginnen die Eigenschaften von Schokolade zu erfassen, sie beginnen zu verstehen, was das Material ausmacht und weshalb sie braun ist. Die möglichen Lösungen ergeben sich daraus fast spielerisch. Die Umsetzung aber bleibt eine Herausforderung.
-
-## Masterprojekt führt zum Durchbruch
 
 Zuerst experimentieren die drei Wissenschaftler mit Strukturfarben auf Basis von essbaren Beschichtungen aus Gold und Titanoxid. Auf dunkler Schokolade entstehen je nach Dicke des Titan-Films goldgelbe oder tiefblaue Farben. Trotzdem verwerfen sie die Methode wieder, die Produktionsweise würde zu kompliziert, die Beschichtung der bei 31°C schmelzenden Schokolade ist heikel und aufwendig. Man kommt zum Schluss, dass es auch ohne die Zusatzstoffe gehen muss.
 

@@ -2,19 +2,17 @@
 
 **Source:** en_news_events/2016/06/top-speed-knowledge-transfer.html
 
+**Date processed:** 2025-05-01
+
 ## Putting it into practice – and fast
 
 ETH Zurich is known for top-level research and teaching, but the university’s continuing education programme is one of its most important endeavours. Switzerland has entire professional fields, such as spatial planning and development, that would be hard-pressed to find well-trained, local specialists without ETH’s continuing education courses. The long-standing post-graduate studies at ETH Zurich are still Switzerland’s only suitable educational opportunity in certain subjects. In total, ETH Zurich offers 16 MAS programmes, 25 shorter CAS and DAS courses, roughly one hundred continuing education courses and 25 e-learning programmes.
 
-## Equally valued, custom-tailored
-
 However, ETH cannot afford to rest on its laurels. Quite the opposite, in fact: continuing education will gain still more strategic importance in future. “Education has always been one of Switzerland’s most important capital goods. Looking ahead, we have to make our human capital even more of a priority,” says Daniel Künzle, head of the Centre for Continuing Education. The ongoing technological transformation makes continuing education absolutely vital. Künzle explains that “one of the strengths of continuing education at ETH Zurich is our focus on quickly implementing the technological transformation in practice and, in turn, getting the hands-on working world ready in time for this technological step change.” Going forward, the continuing education offer is to be connected even more closely with the core fields of ETH research. One example is medicine: ETH already offers an MAS programme on the intersection of medicine and physics, the purpose of which is to educate and train specialists who set up and maintain high-tech hospital equipment. Currently, ETH is in talks with the University Hospital of Zurich regarding other offerings (an MAS and various CAS programmes) in the area of top-level medicine, where the strengths of both institutions complement one another perfectly. Another area where ETH is increasingly seeking to put its research expertise into practice via continuing education is mobility of the future. The interdisciplinary “MAS ETH in Mobility of the Future” programme, being offered for spring 2017, focuses on the development of mobility solutions that conserve resources.
-
-## Further information
 
 By creating the position of vice-rector for continuing education last year, ETH also clearly demonstrated at the organisational level the importance it accords continuing education. Paolo Ermanni, Professor of Structure Technologies and new Vice-Rector, has a clear vision: “The necessity of lifelong learning continues to blur the distinction some people still make between education and continuing education, but this boundary will eventually disappear completely as studies and continuing education merge into each other more and more.” Ermanni wants to encourage people, inside ETH as well, to see the university’s teaching and continuing education disciplines as two equally valued sides of the same coin. He intends to ensure that lecturers who teach in continuing education receive just as much support from IT services and educational developers as those in the more traditional courses of study. Similarly, when it comes to evaluations and quality assurance actions, Ermanni aims to have continuing education on the same footing as traditional teaching.
 
-## "Globe" Magazine
+## Further information
 
 ETH Zurich Centre for Continuing Education
 

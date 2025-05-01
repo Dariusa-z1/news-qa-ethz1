@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2017/06/die-eth-als-nachbar.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH had two stands at the festival this year, showing visitors a number of different projects. There was a lot going on at Rigiplatz with the famous Swiss comic-book hero Globi – souvenir photos, autographs and painting activities offered fun for people of all ages. An app from the Game Technology Center even brought Globi and other cartoon characters to life in 3D.

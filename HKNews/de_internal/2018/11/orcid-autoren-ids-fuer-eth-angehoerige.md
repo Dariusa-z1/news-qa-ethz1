@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2018/11/orcid-autoren-ids-fuer-eth-angehoerige.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Forschende, die eine ORCID iD registrieren, können dadurch sicherstellen, dass ihr Publikationsoutput der korrekten Person zugeordnet wird.

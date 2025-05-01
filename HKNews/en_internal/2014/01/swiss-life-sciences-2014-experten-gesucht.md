@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2014/01/swiss-life-sciences-2014-experten-gesucht.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Subscribe to the Newsletter for internal news

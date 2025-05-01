@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2021/05/how-tendons-become-stiffer-and-stronger.html
 
+**Date processed:** 2025-05-01
+
 ## Gene variant overreacts
 
 Tendons are what connect muscles to bones. They are relatively thin but have to withstand enormous forces. Tendons need a certain elasticity to absorb high loads, such as mechanical shock, without tearing. In sports involving sprinting and jumping, however, stiff tendons are an advantage because they transmit the forces that unfold in the muscles more directly to the bones. Appropriate training helps to achieve an optimal stiffening of the tendons.
@@ -10,21 +12,19 @@ Researchers from ETH Zurich and the University of Zurich, working at Balgrist Un
 
 At the core of the newly discovered mechanism is a molecular force sensor in the tendon cells consisting of an ion channel protein. This sensor detects when the collagen fibres, that make up the tendons, shift against each other lengthwise. If such a strong shear movement occurs, the sensor allows calcium ions to flow into the tendon cells. This promotes the production of certain enzymes that link the collagen fibres together. As a result, the tendons lose elasticity and become stiffer and stronger.
 
-## Major performance advantage
-
 Interestingly, the ion channel protein responsible for this occurs in different genetic variants in humans. A few years ago, other scientists found that a particular variant called E756del is clustered in individuals of West African ancestry. At that time, the importance of this protein for tendon stiffness was not yet known. One-third of individuals of African descent carry this gene variant, while it is rare in other populations. This gene variant protects its carriers from severe cases of the tropical disease malaria. Scientists assume that the variant was able to prevail in this population because of this advantage.
 
 The researchers led by Jess Snedeker, Professor of Orthopaedic Biomechanics at ETH Zurich and the University of Zurich, have now shown that mice carrying this gene variant have stiffer tendons. They believe that tendons “overshoot” in their adaptive response to exercise due to this variant.
 
 This also has direct effects on people’s ability to jump, as the scientists showed in a study with 65 African American volunteers. Of the participants, 22 carried the E756del variant of the gene, while the remaining 43 did not. To account for various factors that influence a person’s ability to jump (including physique, training, and general fitness), the researchers compared the performance during a slow and a fast jump. Tendons play only a minor role during slow jumping manoeuvres but are particularly important during fast jumps. With their study design, the scientists could isolate the effect of the gene variant on the jumping performance.
 
-## Reference
-
 This showed that carriers of variant E756del performed 13 percent better on average. “It’s fascinating that a gene variant, which is positively selected due to an anti-malaria effect, at the same time is associated with better athletic abilities. We certainly did not expect to find this when we started the project,” says Fabian Passini, doctoral student in Snedeker’s group and first author of the study. It may well be that this gene variant explains in part why athletes hailing from countries with a high E756del frequency excel in world-class sports competitions, including sprinting, long-jumping and basketball. To date, there has been no scientific investigation into whether this gene variant is overrepresented among elite athletes. However, such a study would be of scientific interest, Passini says.
 
 The findings about the force sensor and the mechanism by which tendons can adapt to physical demands are also important for physiotherapy. “We now have a better understanding of how tendons work. This should also help us treat tendon injuries better in future,” Snedeker says. In the medium term, it may also be possible to develop drugs that dock onto the newly discovered tendon force sensor. These could one day help to heal tendinopathies and other connective tissue disorders.
 
 Financial support for this study was provided by the Swiss National Science Foundation.
+
+## Reference
 
 Passini FS, Jaeger PK, Saab AS, Hanlon S, Chittim NA, Arlt MJ, Ferrari KD, Haenni D, Caprara S, Bollhalder M, Niederöst B, Horvath AN, Götschi T, Ma S, Passini-Tall B, Fucentese SF, Blache U, Silván U, Weber B, Silbernagel KG, Snedeker JG: Shear-stress sensing by PIEZO1 regulates tendon stiffness in rodents and influences jumping performance in humans Nature Biomedical Engineering 2021, doi: 10.1038/s41551-021-00716-x
 

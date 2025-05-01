@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2021/03/systemen-den-puls-fuehlen.html
 
+**Date processed:** 2025-05-01
+
 ## Urbane Systeme: Resilienz erhöhen
 
 Von Haus aus ist Božidar Stojadinović Spezialist für erdbebensicheres Bauen. Heute befasst er sich mit urbanen Systemen und wie man sie resilienter gegen Störungen machen kann. «Systemisches Engineering wurde für die Resilienzforschung immer wichtiger», erklärt der Professor für Strukturdynamik und Erdbebeningenieurwesen. So ist es kein Wunder, dass er nun im Future Resilient Systems Programme in Singapur ein Forschungscluster leitet, bei dem es um alles andere, nur nicht um Erdbeben geht.
@@ -10,15 +12,13 @@ Ziel ist vielmehr, die Resilienz von dicht verflochtenen urbanen Systemen, wie S
 
 Mit Forschenden der Nanyang Technological University NTU in Singapur und der National University of Singapore NUS entwickelt Stojadinović ein umfassendes Computermodell, ein digitales Abbild der Stadt, mit dem sich die urbanen Systeme, Veränderungen und ihre Folgen simulieren lassen. Es umfasst alle Gebäude, die damit verbundenen Infrastruktursysteme wie Energie- und Wasserversorgung, aber auch Nutzerinteraktionen. Grundlage des Modells ist eine Computersoftware, die ursprünglich für militärische Kriegsspiele entwickelt wurde und im Gaming breite Verwendung findet.
 
-## Kritische Netzwerke: Risiken managen
-
 Die Software erlaubt es, verschiedene Simulationen von unterschiedlichen Systemen selbstständig ablaufen zu lassen und Informationen zwischen ihnen auszutauschen. «Das ist entscheidend», sagt Stojadinović. Denn urbane Systeme sind sehr komplex und die einzelnen Teilsysteme beeinflussen sich gegenseitig. «Einzelne Systeme zu modellieren und zu optimieren, funktioniert heute schon recht gut. Doch wie sich Systeme gegenseitig beeinflussen, verstehen wir oft noch zu wenig.» Das Modell, das Stojadinović und seine Mitforschenden entwickeln, soll das ändern und den Expertenblick über die Grenzen einzelner Infrastruktursysteme hinaus aufs ganze urbane System lenken.
 
 «Das hat niemand vorhersehen können», heisst es oft, wenn Systeme versagen. Giovanni Sansavini, ETH-Professor für Zuverlässigkeits- und Risikoanalyse, arbeitet jeden Tag daran, diesen Satz zu widerlegen. Der Ingenieur erforscht Risiken in komplexen Netzwerken, zum Beispiel in voneinander abhängigen Energienetzen oder grossen Lieferketten.
 
-Risiken in komplexen Systemen sind wissenschaftlich schwer fassbar. Denn die Systeme wachsen oder schrumpfen mit der Zeit, ändern ihre Struktur, umspannen oft den ganzen Globus und haben oft auch keinen fixen Betriebsmodus. Ein Stromnetz etwa ist diversen Einflüssen ausgesetzt. Und unter Last reagieren Systeme anders als im Normalbetrieb. Für ihre Experimente nutzen Sansavini und seine Gruppe deshalb Computermodelle. Risiken identifizieren sie anhand eines wissenschaftlichen Ansatzes, der sich Unsicherheitsquantifizierung nennt.
-
 ## Kompelexe Anlagen: Ausfälle voraussehen
+
+Risiken in komplexen Systemen sind wissenschaftlich schwer fassbar. Denn die Systeme wachsen oder schrumpfen mit der Zeit, ändern ihre Struktur, umspannen oft den ganzen Globus und haben oft auch keinen fixen Betriebsmodus. Ein Stromnetz etwa ist diversen Einflüssen ausgesetzt. Und unter Last reagieren Systeme anders als im Normalbetrieb. Für ihre Experimente nutzen Sansavini und seine Gruppe deshalb Computermodelle. Risiken identifizieren sie anhand eines wissenschaftlichen Ansatzes, der sich Unsicherheitsquantifizierung nennt.
 
 Dabei berücksichtigen die Forschenden alle erdenklichen Arten von Einwirkungen, Fehlern und Störungen – und beobachten, wie sich das modellierte Netzwerk verhält. Sogenannte Monte-Carlo-Simulationen erlauben es, das Zusammenwirken unzähliger Störungen zu analysieren. Darin liegt ein Schlüssel, um verborgene, sogenannt systemische Risiken zu finden. Denn oft wird in komplexen Systemen die Verkettung von Störungen zum Problem. So geschehen beim grossen Stromausfall in Italien im Jahr 2003, dessen Ursache automatische Systeme waren, die unter der Last kaskadenartig abschalteten.
 
@@ -34,19 +34,19 @@ Doch lernende Algorithmen brauchen sehr viele Daten. Das ist ein Problem. «Stö
 
 Deshalb kombinieren die Forschenden ihre Algorithmen mit physikalischen Modellen, die das zu überwachende System simulieren, oder reichern die KI-Modelle mit physikalischem Expertenwissen an. Damit brauchen die Algorithmen weniger Daten, werden aber auch besser interpretierbar für Fachexperten, die auf Basis der Algorithmen Entscheidungen treffen müssen. So konnten die Forschenden in einem Projekt mit der NASA die Lebensdauer von Flugzeugtriebwerken prognostizieren. Dies ist eines der Projekte, auf das Olga Fink besonders stolz ist. Frühdetektionen von Störungen gelingen nämlich allgemein schon recht gut. Lebensdauerprognosen aber, sagt sie, seien quasi der heilige Gral des Forschungsgebiets.
 
-## Aktuelle Ausgabe
-
 Für Walter Iten, Leiter der Abteilung Betrieb der ETH Zürich, gehört das Management von Störungen zum Alltag. Seine Abteilung ist verantwortlich für das technische und infrastrukturelle Management aller ETH-Gebäude und -Anlagen. Die grössten Probleme stellen für Iten Stromunterbrüche dar: «Ohne Strom läuft gar nichts.» Deshalb setzt die ETH auf Redundanz. So kann der Betrieb in einem Teil des ETH-Standorts Zentrum von zwei verschiedenen Unterwerken Strom beziehen. Kommt es doch einmal zu einem grösseren Ausfall, kommen Diesel-Notstromaggregate für die wichtigsten Bereiche zum Einsatz. Und für besonders heikle Forschungsanlagen wird mit Hilfe von Batterien eine unterbruchlose Stromversorgung gewährleistet.
 
 Eine vorausschauende Wartung aller Anlagen und Gebäude ist zudem das A und O, wenn es darum geht, Störungen aller Art gar nicht erst aufkommen zu lassen. Ein IT-Wartungstool hat die Betriebsstunden von Anlagen und Wartungstermine im Blick und löst fristgerechte Wartungsaufträge aus. Daneben spielt die Überwachung von Anlagen mittels Sensoren eine immer grössere Rolle, um spontan auftretende Störungen zu erkennen. Die Daten können von den Betriebsmitarbeitenden remote via Computer abgerufen werden, und sie können so auch bis zu einem gewissen Grad in den Betrieb eingreifen. Noch sind das System zur Anlagenüberwachung und das Wartungstool nicht miteinander verbunden. Angesichts der Fortschritte in Sensortechnik und KI ist das jedoch nur noch eine Frage der Zeit.
 
-Aktuelle Ausgabe als PDF lesen (PDF, 8.2 MB)
+## Aktuelle Ausgabe
 
-## Keine Ausgabe verpassen
+Aktuelle Ausgabe als PDF lesen (PDF, 8.2 MB)
 
 Aktuelle Ausgabe online lesen
 
 Alle ​​Ausgaben im Archiv
+
+## Keine Ausgabe verpassen
 
 Abonnieren Sie das Print-Magazin
 

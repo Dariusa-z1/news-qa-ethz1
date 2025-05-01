@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2019/04/neue-funktionen-fuer-e-rarach.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Seit April 2019 werden eine ganze Reihe neuer Funktionalitäten für die wissenschaftliche Community der Plattform externe Seite e-rara.ch angeboten.

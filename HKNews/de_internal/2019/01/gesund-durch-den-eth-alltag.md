@@ -2,31 +2,23 @@
 
 **Source:** de_internal/2019/01/gesund-durch-den-eth-alltag.html
 
+**Date processed:** 2025-05-01
+
 ## Schon eine Stunde Sport pro Woche hilft
 
 Wendy Altherr arbeitet im Stab der Rektorin. Ihr Arbeitsalltag ist dicht getaktet, vor allem während des Semesters. An manchen Tagen reiht sich eine Sitzung an die nächste. Zwischen Beruf und Familie bleibt häufig nur der Arbeitsweg für Sport. «Ich komme jeden Tag mit dem Fahrrad zur ETH», sagt Altherr. Manchmal nutzt sie dafür auch die Bike-Sharing-Angebote der ETH-Mobilitätsstelle. Trotz des hektischen Büro- und Familienalltags fühlt sich die 44-Jährige fit und ausgeglichen.
 
-## Ballaststoffe stärken Körper und Geist
-
 So wie Wendy Altherr geht es vielen ETH-Angehörigen: In der Mitarbeiterbefragung von 2016 bezeichneten über 80 Prozent der Befragten ihren Gesundheitszustand insgesamt als gut bis sehr gut. Doch was genau beeinflusst unser physisches und psychisches Wohlbefinden? Und welche gesundheitsfördernden Angebote gibt es an der ETH?
-
-## Aus dem Tiefschlaf kommt die Erholung
 
 «Erholung, ausgewogenes Essen und regelmässige Bewegung ergeben, klug kombiniert, für jede und jeden eine individuell gute Lösung für ein gesundes Leben», sagt Katrien De Bock. Die ETH-Professorin untersucht auf molekularer Ebene, wie Bewegung den Muskelaufbau und die Gesundheit fördert. «Bewegung wirkt sich positiv auf den Stoffwechsel und die Energieversorgung des Körpers aus und verbessert die Lernfähigkeit sowie das Erinnerungsvermögen», sagt De Bock. Zudem trage Bewegung dazu bei, dass sich Menschen glücklicher fühlten, beuge Depressionen vor und senke das Risiko von Herz-Kreislauf-Erkrankungen und Krebs.
 
-## Arbeitsumfeld beeinflusst Gesundheit
-
 «Man muss aber nicht unbedingt trainieren wie ein Athlet», sagt die Forscherin und betont: «Positive Effekte auf die Gesundheit ergeben sich bereits, wenn man eine Stunde pro Woche körperlich aktiv ist.» Das kann ein Spaziergang mit dem Hund sein, oder dass man konsequent die Treppe hochsteigt, statt im Lift zu fahren. Wichtig sei vor allem die Regelmässigkeit und dass die Bewegung Spass macht.
-
-## Die aktuelle Ausgabe des ETH-Magazins «life»
 
 Wer sich regelmässig bewegen will, wird beim Akademischen Sportverband Zürich (ASVZ) fündig. Für nur 210 Franken im Jahr können ETH-Mitarbeitende – wie auch Studierende, Alumni und Lernende – in fünf ASVZ Sport Centern sowie 48 weiteren Sportanlagen sowohl geleitete Trainings besuchen als auch individuell trainieren. In über 120 Sportarten - von Aikido über das klassische «Kondi» bis zum Wellenreiten - werden wöchentlich rund 600 geleitete Lektionen sowie jährlich rund 1'200 Ausbildungskurse und -lager angeboten. Wer noch auf der Suche nach dem optimalen Mix von Sport und Erholung ist, kann sich individuell vom ASVZ beraten lassen: Neben der Sportberatung kann unter anderem von Kraft-, Gesundheits- oder Ernährungsberatungen profitiert werden.
 
-## Staffnet
-
 Wie sich eine nahrungsfaserreiche Ernährung auf unsere Gesundheit auswirkt, untersucht die ETH-Professorin Laura Nyström. Nahrungsfasern, auch Ballaststoffe genannt, sind Kohlenhydrate, die vor allem in Getreide, Gemüse sowie Obst vorkommen. Sie fördern einen gesunden Stoffwechsel und tragen zu einer verbesserten Darmtätigkeit bei. «Ausserdem senken sie den Cholesterinspiegel, regulieren den Blutzuckerspiegel und steigern die kognitiven Fähigkeiten», sagt die Forscherin, «zudem beugen Nahrungsfasern Übergewicht vor, da sie lange satt halten.» Empfohlen sind 25 bis 30 Gramm pro Tag. Klingt nach wenig, ist in unserer täglichen Ernährung aber nicht selbstverständlich: 100 Gramm dunkles Brot, etwa Pumpernickel, enthalten rund 10 Gramm Ballaststoffe, bei 100 Gramm Kichererbsen sind es über 21 Gramm. Daneben ist eine ausreichende Vitamin- und Mineralstoffzufuhr ebenso wichtig wie eineinhalb bis zwei Liter Wasser am Tag. Zu streng sollte aber kein Menüplan sein: «Essen ist mehr als bloss ein Brennstoff des Menschen», sagt Nyström und betont: «Es soll schmecken und Freude machen.» Wesentlich zum Essen gehört der soziale Aspekt, wie etwa das gemeinsame Mittagessen und der Austausch in den Pausen. Auch das wirkt sich positiv auf unser Wohlbefinden aus.
 
-## Newsletter abonnieren
+## Arbeitsumfeld beeinflusst Gesundheit
 
 Pausen sind grundsätzlich sehr wichtig: Ohne ausreichend Erholung kann niemand auf Dauer gesund bleiben. Unterstützung bieten hier die Entspannungsräume des ASVZ im Gebäude CAB, im Uniturm und auf dem Campus Hönggerberg, in denen man zum Beispiel Audio-/Klang- und Ruheliegen nutzen kann. Zunehmend beliebter sind auch Kurse wie Yoga, Autogenes Training und Meditation. Schliesslich tragen regelmässige Entspannungsübungen zu einer besseren Schlafqualität bei.
 
@@ -37,6 +29,8 @@ Schlaflosigkeit kann auch darauf hindeuten, dass die belastenden Einflüsse der 
 Gesundheitsförderende Angebote bietet auch das HR sowie die Abteilung SGU an: Zahlreiche Kurse und persönliche Beratungen vermitteln ETH-Angehörigen, welche Massnahmen sie persönlich ergreifen können. Dazu gehören Kurse vom HR zur Optimierung der Arbeitsorganisation und -belastung oder auch solche der SGU zum Gesundheitsschutz am Arbeitsplatz wie Mutter-, Hand- und Hautschutz.
 
 Wendy Altherr hat mit den Jahren eigene Wege gefunden, um in besonders stressigen Zeiten Kraft zu tanken: «Am Wochenende verbringe ich so viel Zeit wie möglich mit meiner Familie in der Natur.», sagt sie: «im Büro halte ich jeweils einen Moment inne, wenn ich eine grosse oder stressige Aufgabe erledigt habe, um kurz zu reflektieren und zu geniessen, was ich erreicht habe. Das motiviert mich für die weitere Arbeit. Die beste Erholung überhaupt ist für mich über Mittag in der Limmat zu schwimmen, wenn es im Sommer etwas ruhiger ist».
+
+## Die aktuelle Ausgabe des ETH-Magazins «life»
 
 Neben dem Titelthema haben wir mit dem ehemaligen und dem aktuellen Präsidenten der Personalkommission über ihre Strategie und Ziele diskutiert, geben einen Einblick in die ETH Zürich Foundation und präsentieren in einer Sonderrubrik Stimmen zum Abschied von ETH-Präsident Lino Guzzella.
 

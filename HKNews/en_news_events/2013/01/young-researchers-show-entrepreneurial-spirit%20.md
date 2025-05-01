@@ -2,19 +2,15 @@
 
 **Source:** en_news_events/2013/01/young-researchers-show-entrepreneurial-spirit%20.html
 
+**Date processed:** 2025-05-01
+
 ## Eight spin-offs from the ICT sector
 
 As concrete figures reflect, researchers are taking the plunge and striking out on their own more and more frequently. For many talented young scientists, found-ing their own firm constitutes an attractive alternative to a scientific career or working in the private sector. Members of ETH Zurich founded twenty-two spin-offs last year. The number of company foundations has thus remained constantly high in the last five years. "We can now reap the fruits of all the development work we have put in recent years," says Roland Siegwart, Vice-President of Research and Corporate Relations. The "ETH Zurich spin-off" label is well established — due in no small part to many successful young companies that have emerged from the university in recent years.
 
-## Under the high-tech and cleantech banner
-
 The twenty-two new spin-offs are active in various fields, whereby over a third can be ascribed to information and communication technology. Four new foundations fall into both mechanical engineering and the service and consulting sector and two each in the electrical engineering and nanotechnology sectors. One spin-off finally emerged in each of the fields of biotechnology, pharmaceuticals and medical devices.
 
-## Prize money and large investments
-
 Silvio Bonaccio, Head of ETH Zurich's technology transfer office, particularly lauds the distinct ingenuity of the young companies: "Many of the spin-offs founded in 2012 offer solutions to extremely challenging technical problems," he says. SwissLitho AG, for instance, has developed a procedure that sets new benchmarks in the production of nanostructures. The technology developed at the IBM research lab enables complex forms to be milled from surfaces quickly, easily and with high precision. The spin-off Phocone manufactures infrared laser modules that are able to measures both heavy molecules and different gases.
-
-## Contacts
 
 However, it was not just high-tech that proved popular among the young company founders in 2012, but also cleantech. Four out of the twenty-two spin-offs founded supply products, processes and services that protect natural resources and reduce negative influences on the environment. The founders of ElectricFeel have developed an e-bike-sharing system with which you can rent an e-bike via smartphone and Polyport provides two services: the Kartoffeltaxi (potato taxi) caters for the climate-neutral transportation of local bioproducts and BringBee is a delivery service for smaller purchases at IKEA.
 

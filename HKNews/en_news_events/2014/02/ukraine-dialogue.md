@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2014/02/ukraine-dialogue.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH News: Mr Grätz, is the exit of President Yanukovych on Sunday the most important step towards peace in Ukraine? Jonas Grätz: Many people in Ukraine continue to regard the events as a coup. Russian TV, which has a wide audience particularly in the southeast of the country, has portrayed the new authorities as fascists and neo-Nazis. A newly elected government will have a very hard time finding acceptance throughout the entire country.
@@ -29,6 +31,8 @@ Are there any alternatives? Yes, but only in the longer term. In recent years, t
 What does Ukraine need most right now? Above all, the country needs to have a national dialogue among the new forces in Kiev, the citizens in the west and those in the eastern regions of the country. There will now be a struggle to formulate a common interpretation of the events of recent months. International organisations such as the OSCE might play an important role in this process if they succeed in gaining the confidence of the parties. Ukraine is economically on the brink. For this reason, the country quickly needs to establish an effective government that can solve the country's glaring problems.
 
 Jonas Grätz is a researcher with the Global Security Team at the Center for Security Studies (CSS) at ETH Zurich. He is a specialist in issues surrounding energy security and energy policy as well as Russian domestic and foreign policy.
+
+## Swiss OSCE ambassador to Ukraine
 
 On 24 February, President Didier Burkhalter, who presently holds the Chairmanship of the Organization for Security and Co-operation in Europe (OSCE), appointed Ambassador Tim Guldimann as his personal envoy to Ukraine. Guldimann speaks Russian and, as former Head of the OSCE Assistance Group in Chechnya (1996-1997), the OSCE Mission to Croatia (1997-1999) and the OSCE Mission in Kosovo as well as Special Representative of the UN Secretary General in Kosovo (2007-2008), has extensive experience in the handling of conflicts in eastern Europe and sound knowledge of the OSCE. Guldimann is the head of the Swiss Embassy in Berlin.
 

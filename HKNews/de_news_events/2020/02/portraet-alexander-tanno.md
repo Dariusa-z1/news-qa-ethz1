@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2020/02/portraet-alexander-tanno.html
 
+**Date processed:** 2025-05-01
+
 ## Einen Schritt weiter
 
 Der Prototyp, den Alexander Tanno zwischen Daumen und Zeigefinger hält, sieht nicht sonderlich beeindruckend aus – ein zwei Mal zwei Zentimeter kleiner, durchsichtiger Würfel aus Kunststoff, der eine Probe auf einem Papierstreifen umschliesst, und an dem drei Elektroden angebracht sind. Aber das unscheinbare Gerät kann etwas Einzigartiges: Es macht aus einem qualitativen Bluttest einen quantitativen. Damit wird ein Test viel empfindlicher. Tannos Erfindung macht empfindliche Bluttests möglich, die Patienten überallhin mitnehmen können.
@@ -12,8 +14,6 @@ Tannos Ziel ist nun die Entwicklung von Bluttests, die im Prinzip dasselbe könn
 
 Dieser Zusammenschluss bindet danach an Gold-Nanopartikel. Erst diese Goldpartikel machen das Molekül auf dem Streifen fürs Auge sichtbar – allerdings nur, wenn genügend Goldpartikel gebunden werden. Ist die Konzentration des untersuchten Blutbestandteils zu niedrig und daher die Menge an gebundenen Goldpartikeln zu klein, um von Auge sichtbar zu sein, ist der Test nutzlos.
 
-## Patienten besser und individueller behandeln
-
 Genau dieses Problem hat Tanno gelöst. Und zwar, indem er einen Weg gefunden hat, mit einer chemischen Reaktion die gebundenen Goldpartikel aufzulösen. Die gelösten Partikel sind dann in einem weiteren Schritt genauer messbar. Dabei lässt man mit den Goldpartikeln eine chemische Reaktion ablaufen, bei der Elektronen fliessen, sodass ein Strom entsteht. Die Stärke und Spannung dieses Stroms sind wiederum abhängig von der Konzentration des gesuchten Moleküls in der Probe. Auf diese Weise lassen sich auch geringe Mengen eines Blutbestandteils genau messen. Die gesamte dazu nötige Technologie steckt in dem Prototyp, dem kleinen, durchsichtigen Würfel. Wie der Prozess aber genau funktioniert und was für Substanzen dazu nötig sind, bleibt Tannos Geheimnis – zumindest solange das Patentverfahren noch läuft.
 
 Die Grundlagen für diese Entwicklung hat der Biomedizin-Ingenieur Alexander Tanno in seiner Doktorarbeit an der ETH Zürich erarbeitet und sich damit ein Pioneer Fellowship gesichert. Dieses Förderinstrument unterstützt Jungwissenschaftler beim Schritt aus dem Labor hin zur Gründung eines Start-ups und zur Entwicklung eines marktfähigen Produkts. Im Fellowship enthalten ist eine Finanzierung für 12 bis 18 Monate sowie Unterstützung von Business-Coaches.
@@ -21,8 +21,6 @@ Die Grundlagen für diese Entwicklung hat der Biomedizin-Ingenieur Alexander Tan
 Tanno zeigt in seiner Business-Präsentation ein Anwendungsbeispiel solcher Tests: Einer der heute gängigen Bluttests misst die Menge eines bestimmten Entzündungsfaktors im Blut. Das ist nützlich, um bei Patienten mit Infektionen oder chronischen Entzündungserkrankungen wie Morbus Crohn oder Arthritis den Verlauf der Krankheit zu überwachen und zu ermitteln, ob eine Behandlung anschlägt.
 
 Allerdings sind die Bluttests heute teuer und umständlich, weil man dazu zum Arzt oder ins Spital muss. So werden die Messungen nur einmal im Jahr oder höchstens alle paar Monate gemacht – mit dem Risiko, dass kurzfristige Fluktuationen, wie sie etwa durch eine Erkältung oder eine Ernährungsumstellung entstehen, das Bild verzerren. «Mit einem portablen Schnelltest dagegen könnten Patienten jede Woche selbst eine Messung machen», sagt Tanno. Dadurch sähe man den Verlauf der Krankheit verlässlicher und es liesse sich rascher feststellen, wie gut ein bestimmtes Medikament wirkt.
-
-## Über Umwege zu Erfolg
 
 Ebenfalls nützlich wären solche Tests beispielsweise beim Überprüfen von individuellen Medikamentendosierungen. Denn Medikamente bleiben bei Kindern, Frauen und Männern nicht gleich lange im Körper. Mithilfe von regelmässigen Messungen könnten Häufigkeit und Dosierung der Einnahme von Arzneimitteln kontrolliert und angepasst werden – sodass die Menge im Blut nie zu hoch ist, aber stets hoch genug, um wirksam zu sein. Weiter könnten solche Geräte die Prävention von Krankheiten erleichtern, weil damit Screenings grösserer Bevölkerungsgruppen weniger aufwendig wären.
 

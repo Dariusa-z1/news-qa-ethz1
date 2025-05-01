@@ -2,15 +2,17 @@
 
 **Source:** de_news_events/2019/06/kein-swiss-e-prix-auf-dem-hoenggerberg.html
 
-## Langfristige Entwicklung im Blick
+**Date processed:** 2025-05-01
+
+## Main article
 
 Der Campus Hönggerberg. (Bild: ETH Zürich / Alessandro Della Bella )
+
+## Langfristige Entwicklung im Blick
 
 Ende April hat der Organisator der Schweizer Formel E-Rennen bei der Stadt Zürich ein Gesuch eingereicht, den Swiss E-Prix 2020 rund um den Campus Hönggerberg auszutragen. Die ETH Zürich hat das Gesuch zusammen mit dem Sicherheitsdepartment der Stadt Zürich sorgfältig geprüft. Dabei kommt die ETH zum Schluss, dass sie das Gesuch für ein Rennen auf und um ihren Campus Hönggerberg ablehnt. Den Ausschlag gaben Gründe der technischen und finanziellen Unverhältnismässigkeit und die mangelnde Akzeptanz in den Quartieren.
 
 Zur Beurteilung des Gesuchs stand die ETH Zürich sowohl mit den Veranstaltern als auch mit Vertreterinnen und Vertretern der Quartiere und der Stadt Zürich im Austausch. «Dabei zeigte sich», sagt der zuständige ETH-Vizepräsident Ulrich Weidmann, «dass die für den Swiss E-Prix nötigen baulichen Eingriffe in unsere Anlagen erheblich sind und langfristig keinen Nutzen bringen, da man sie nach dem Rennen vollständig zurückbauen muss». Und in Zukunft sollen die Strassen auf dem Campus sukzessive verschmälert werden – die für Formel E-Rennen erforderliche Strassenbreite ist damit künftig nicht realisierbar.
-
-## Akzeptanz in den Quartieren wichtig
 
 Ausserdem sind die Campus-Infrastrukturen (Sanitäranlagen, Gastronomie) nicht für ein Automobilsport-Grossereignis ausgelegt. Die Kosten für die einmaligen Umbauten hätten die ETH einen Betrag in Millionenhöhe gekostet. Dazu Ueli Weidmann: «Die ETH ist nicht bereit, Steuergelder für die Durchführung eines privaten Rennanlasses auszugeben. »
 

@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2016/04/meet-the-talent.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH-News: Frau Springman, was bedeutet für Sie Talent? Sarah Springman: Talent haben, bedeutet eine überdurchschnittliche Begabung auf einem Gebiet zu besitzen. Wenn ich mich umschaue, ist die ETH voll von sehr talentierten Studierenden, Doktorierenden, Professorinnen und Professoren und Mitarbeitenden.
@@ -15,6 +17,8 @@ Bei «Meet the Talent» können die Gönnerinnen und Gönner die ESOP-Stipendiat
 Mit dem «Excellence Scholarship and Opportunity Programme» (ESOP) fördert die ETH die besten neueintretenden Masterstudierenden – wie finden Sie heraus, welche das sind? Die Bewerber und Bewerberinnen müssen ihre kreativen Ideen für den Stipendienantrag schriftlich in einer attraktiven Art und Weise formulieren. Alle Anträge werden von Kommissionen begutachtet und die besten werden dann ausgewählt. Dazu brauchen die Mitglieder der Kommissionen auch Talent! Es sind viele Personen in diese Entscheidung involviert und nehmen sich Zeit für die Auswahl der geeigneten Kandidaten und Kandidatinnen. Ich schätze die Arbeit dieser Kommissionen sehr. Den Begriff «die Besten» finde ich in diesem Zusammenhang aber schwierig – wir wissen ja nicht, ob sich wirklich alle, welche gut genug sind, für dieses Programm bewerben.
 
 Das Programm läuft jetzt seit einigen Jahren – möchten Sie etwas daran ändern? Mit etwa fünfzig geförderten Studierenden pro Jahr sind wir auf einem guten Stand angekommen. Ein Ausbau ist im Moment nicht geplant. Einige Prozesse könnten wir optimieren. Dies bedeutet aber nicht, dass im Stipendienwesen und in der Talentförderung die Arbeit getan ist. Ich denke, dass die meisten ETH-Studierenden in irgendeiner Form talentiert sind, sonst wären sie nicht an der ETH! Wir planen deshalb, die Förderung aller talentierter Studentinnen und Studenten an der ETH zu verbessern.
+
+## Excellence Scholarship and Opportunity Programme
 
 Seit 2007 ermöglicht die ETH Zürich mit dem Excellence Scholarship and Opportunity Programme ( ESOP ) Talenten, ein Masterstudium an der ETH Zürich ohne finanzielle Sorgen und mit spezieller Betreuung durch eine Lehrperson zu absolvieren. Mit dem Stipendium werden nur die besten aller neueintretenden Masterstudierenden gefördert, unabhängig von ihrer Herkunft und ihrer wirtschaftlichen Situation. Das Excellence Scholarship besteht aus einem Stipendium für Studien- und Lebenshaltungskosten à 11'000 Franken pro Semester sowie dem Erlass des Schulgeldes. Die Stipendien werden unter anderem durch Spenden an die ETH Zürich Foundation finanziert.
 

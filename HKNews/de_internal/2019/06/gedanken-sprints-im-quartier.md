@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2019/06/gedanken-sprints-im-quartier.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Mit einem Headset ausgestattet, welches die Hirnaktivität misst, konnten bis zu vier Personen gleichzeitig gegeneinander an einem virtuellen Rennen mit Gedankensteuerung antreten. Die Neugier und das Interesse vor allem bei Kindern und Jugendlichen waren gross; die verfügbaren Plätze waren praktisch durchgehend besetzt.

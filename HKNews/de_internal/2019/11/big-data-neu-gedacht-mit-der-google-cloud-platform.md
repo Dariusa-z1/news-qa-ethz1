@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2019/11/big-data-neu-gedacht-mit-der-google-cloud-platform.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Hierbei ist die Operationalisierbarkeit der Big-Data-Analytics der Schlüssel zu einer schnelleren Marktreife und zu Wettbewerbsvorteilen für Unternehmen. Auch in den Bereichen Machine Learning und künstliche Intelligenz (KI) ist die Aufbereitung von Daten von erheblicher Bedeutung.

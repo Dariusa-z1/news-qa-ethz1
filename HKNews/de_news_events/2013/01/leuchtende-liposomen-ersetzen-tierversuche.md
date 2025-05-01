@@ -2,19 +2,15 @@
 
 **Source:** de_news_events/2013/01/leuchtende-liposomen-ersetzen-tierversuche.html
 
+**Date processed:** 2025-05-01
+
 ## Stärker leuchten, bedeutet höhere Konzentration
 
 Das Botulinum-Neurotoxin (BoNT) ist eines der stärksten bekannten Gifte. Produziert wird es vom Bakterium Clostridium botulinum. BoNT hemmt die Signalübertragung von Nervenenden zu den Muskeln, was zu Lähmungen bis hin zum Atemstillstand führt. Ein Mikrogramm pro Kilogramm Körpergewicht reicht, um einen Erwachsenen zu töten. BoNT ist berüchtigt als Lebensmittelgift, zum Beispiel bei ungenügend sterilisiertem, eingemachtem Gemüse. Botulinum-Neurotoxin hat aber auch Vorzüge. So werden damit Dutzende von chronischen Leiden und Gebrechen behandelt, darunter nervlich bedingte Fehlhaltungen wie der Schiefhals, Schielen, Migräne oder der Tennisarm. Seit den 1990er Jahren braucht auch die Kosmetikindustrie das Gift im grossen Stil unter dem Namen Botox, um Falten im Gesicht zu glätten.
 
-## Günstig, einfach und präziser
-
 Der Einsatz von BoNT ist allerdings ein Spiel mit dem Feuer. Das Toxin ist ein Naturprodukt und wird nicht in konstanter Konzentration produziert. Zulassungsbehörden verlangen deshalb, dass jede Charge eines BoNT-haltigen Therapeutikums mit dem Maus-LD50-Test auf seine Toxizität getestet wird. Damit wird bestimmt, bei welcher Dosis die Hälfte der Tiere stirbt. Für solche Routinetests in der Pharmaindustrie müssen in der EU und den USA jährlich über eine halbe Million Mäuse ihr Leben lassen.
 
-## Zum Patent angemeldet
-
 Ein neues, von ETH-Forscher Oliver Weingart in Zusammenarbeit mit dem Labor Spiez entwickeltes Testsystem könnte nun diese Mäuseleben retten. Das System ist das Erste, das ohne Versuchstiere oder lebende Zellen auskommt, denn es misst die toxische Aktivität des Nervengifts mithilfe von künstlich hergestellten Lipidmembran-Bläschen, so genannten Liposomen. So hat der Forscher am Labor für Lebensmittelmikrobiologie winzige, von einer Lipid-Doppelmembran umgebene Bläschen hergestellt, die den Enden von Nervenzellen nachempfunden sind. In die Membran eingebettet sind spezifische Nervenzellrezeptoren, an welche das Botulinum-Neurotoxin nach dem Schloss-Schlüssel-Prinzip bindet. Indem die umgebende Flüssigkeit angesäuert wird, verändert sich die Struktur des Toxins, sodass ein Teil von ihm in das Liposom eingeschleust wird. Dort entfaltet das Toxin eine weitere Aktivität und zerkleinert ein im Bläschen enthaltenes Protein, das nach der Spaltung zu leuchten beginnt. Diese Fluoreszenz ist direkt an die BoNT-Konzentration gekoppelt: Je stärker die Liposomen leuchten, desto höher ist die Konzentration des Giftes.
-
-## Kontakte
 
 Das Verfahren hat handfeste Vorteile. «Die Liposomen lassen sich günstig produzieren, und für das Handling braucht es keine spezielle Schulung des Personals», sagt Weingart. Zudem liegt bei Mäusen die Nachweisgrenze von Botulinum-Neurotoxin bei etwa 10 Pikogramm. Das Ziel ist, dass sich mithilfe der Liposomen weniger als ein Pikogramm des Giftes - den billionstel Teil eines Gramms - feststellen lassen könnte. Schon nach ein bis drei Stunden erzeugt das Testsystem eine messbare Fluoreszenz. Das endgültige Resultat des Tests ist nach weniger als 24 Stunden erhältlich, bei Mäusen dauert es mindestens ein bis vier Tage. «Wir haben gesehen, dass die Idee umsetzbar ist», sagt Martin Loessner, Professor für Lebensmittelmikrobiologie. Die Forscher haben deshalb begonnen, die Testanordnung zu standardisieren. Dabei geht es auch darum, die Liposomen zu verbessern, damit verlässlichere Messungen möglich werden.
 

@@ -2,23 +2,23 @@
 
 **Source:** de_news_events/2016/07/gitterstruktur-daempft-vibrationen.html
 
+**Date processed:** 2025-05-01
+
 ## Zugleich stabilisierendes Bauteil
 
 Vibrationen des Motors eines Autobusses können sich unangenehm stark auf den Sitz übertragen, auf dem man sich niedergelassen hat. Bei Propellerflugzeugen und Helikoptern machen Vibrationen des Propellers oder des Rotors den Flug unruhig und laut, und sie können zu Ermüdungsschäden führen. Ingenieure versuchen daher, Vibrationen bei Maschinen, Fahrzeugen und Flugzeugen zu vermeiden. Eine neue dreidimensionale Gitterstruktur von ETH-Wissenschaftlerinnen und -Wissenschaftlern könnte nun die Möglichkeiten der Vibrationsdämmung erweitern.
 
 Die Forschenden unter der Leitung von Chiara Daraio, Professorin für Mechanik und Materialien, fertigten die Struktur mit einem Gitterabstand von etwa 3,5 Millimetern mittels 3D-Druck aus Kunststoff an. Ins Gitternetz betteten sie Stahlwürfel ein, die etwas kleiner sind als Spielwürfel und die als Resonatoren wirken. «Vibrationen bewegen sich vom einen Ende nicht durch die ganze Struktur, sondern werden von den Stahlwürfeln und den inneren Kunststoff-Gitterstäben aufgefangen. Das andere Ende der Struktur bewegt sich nicht», erklärt Kathryn Matlack, Postdoc in Daraios Gruppe.
 
-## Für Windkraftanlagen und die Raumfahrt
-
 Materialien zur Dämpfung von Vibrationen gab es schon bisher. In Fahrzeugen, Maschinen und Haushaltsgeräten etwa werden Vibrationen zum Teil mithilfe von speziellen, meist weichen Materialien aufgefangen. Neu an der vibrationsabsorbierenden Struktur der ETH-Forschenden ist, dass sie starr ist und damit gleichzeitig als kräftetragendes Bauteil verwendet werden kann, beispielsweise im Maschinenbau oder eben bei Flugzeugrotoren und Helikopterpropellern.
 
 Ein weiterer grosser Vorteil der neuen Struktur: Sie kann im Vergleich zu bestehenden, weichen Absorptionsmaterialien eine sehr viel grössere Bandbreite an Vibrationen abfangen, sowohl schnelle wie langsame. Insbesondere bei verhältnismässig langsamen Vibrationen ist die neue Struktur besser. «Die Geometrie der Struktur können wir so bemessen, um damit Vibrationen mit Schwingungen von einigen hundert bis einigen zehntausend Mal pro Sekunde (Hertz) zu dämpfen», sagt ETH-Professorin Daraio. «In diesem Bereich liegen auch die mit dem Gehör wahrnehmbaren Vibrationen, die unerwünschten Lärm verursachen und den Wirkungsgrad von Maschinen und Fahrzeugen verringern.»
 
-## Literaturhinweis
-
 Theoretisch könne man eine solche Konstruktion statt aus Kunststoff auch aus Aluminium und anderen Leichtmetallen bauen, sagt Matlack. Im Prinzip brauche es einfach eine Kombination von leichtem Gitterwerkstoff und darin eingebetteten Resonatoren mit einer grossen Massendichte, wobei die Geometrie von Gitterstruktur und Resonatoren jeweils im Hinblick auf die zu erwartenden Vibrationen optimal aufeinander abgestimmt sein müsse.
 
 Im Prinzip seien die Vibrationsabsorber bereit für technische Anwendungen, sagt Matlack, wobei limitierend sei, dass die 3D-Drucktechnik vor allem auf Miniserien ausgerichtet sei und derzeit gegenüber traditionellen Herstellungsmethoden bei den Materialeigenschaften noch Nachteile aufweist, zum Beispiel, was die Belastbarkeit angeht. Sobald die 3D-Drucktechnologie reif sei für den industriellen Einsatz, stünde einer breiten Anwendung nichts im Weg. Weitere Anwendungsgebiete könnten Rotoren von Windkraftanlagen sein. Eine Minimierung von Vibrationen würde dort den Wirkungsgrad erhöhen. Ausserdem wären Anwendungen im Fahrzeug- und Flugzeugbau denkbar sowie bei Weltraumraketen.
+
+## Literaturhinweis
 
 Matlack KH, Bauhofer A, Krödel S, Palermo A, Daraio C: Composite 3D-printed metastructures for low-frequency and broadband vibration absorption. PNAS, 7. Juli 2016, doi: externe Seite 10.1073/pnas.1600171113
 

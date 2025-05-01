@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2017/09/professoren-ernennungen-september-2017.html
 
+**Date processed:** 2025-05-01
+
 ## Ernennungen
 
 An seiner Sitzung vom 28. September hat der ETH-Rat auf Antrag des Präsidenten der ETH Zürich, Lino Guzzella, fünf Personen zur Professorin, respektive zum Professor ernannt und den Rücktritt von sechs Professoren mit Dank zur Kenntnis genommen.
@@ -14,9 +16,9 @@ Prof. Dr. Tanja Stadler (*1981), zurzeit Tenure-Track-Assistenzprofessorin an de
 
 Prof. Dr. Marco Stampanoni (*1974), zurzeit ausserordentlicher Professor an der ETH Zürich, zum ordentlichen Professor für Röntgenbildgebung. Marco Stampanoni ist ein international hoch anerkannter Experte für die Entwicklung bildgebender Technologien mit Röntgen- und Synchrotron-Strahlung. Ein Beispiel für sein umfassendes Wissen und seine Innovationskraft ist die von ihm an der Swiss Light Source entwickelte dedizierte Strahllinie für tomographische Mikroskopie (TOMCAT), die heute als eine der leistungsfähigsten Tomographie-Strahllinien der Welt gilt. Damit lassen sich Phänomene wie etwa Hirninfarkte und die entsprechende plastische Antwort volumetrisch darstellen und quantifizieren. Marco Stampanoni hat verschiedenste internationale Auszeichnungen erhalten, zuletzt einen ERC Grant.
 
-Dr. Thomas Ward Crowther (*1986), zurzeit wissenschaftlicher Mitarbeiter am Institut für Ökologie (NIOO) in Wageningen, Niederlande, zum Tenure-Track-Assistenzprofessor für Globale Ökosystemökologie. Thomas Crowther fokussiert seine Forschung auf Waldökosysteme und auf ökologische Prozesse, die Artengemeinschaften und Ökosysteme strukturieren. Insbesondere beschäftigt er sich mit der Regulation des Waldkohlenstoffkreislaufs durch Mikroben in Waldböden und den Auswirkungen dieser Mechanismen auf die globale Kohlenstoffbilanz und den langfristigen Klimawandel. Thomas Crowther leistet mit seinen stark interdisziplinär ausgerichteten Arbeiten wichtige Beiträge zu nationalen und internationalen Initiativen in der Bodenbewirtschaftung und in der Bekämpfung des Klimawandels.
-
 ## Verabschiedungen
+
+Dr. Thomas Ward Crowther (*1986), zurzeit wissenschaftlicher Mitarbeiter am Institut für Ökologie (NIOO) in Wageningen, Niederlande, zum Tenure-Track-Assistenzprofessor für Globale Ökosystemökologie. Thomas Crowther fokussiert seine Forschung auf Waldökosysteme und auf ökologische Prozesse, die Artengemeinschaften und Ökosysteme strukturieren. Insbesondere beschäftigt er sich mit der Regulation des Waldkohlenstoffkreislaufs durch Mikroben in Waldböden und den Auswirkungen dieser Mechanismen auf die globale Kohlenstoffbilanz und den langfristigen Klimawandel. Thomas Crowther leistet mit seinen stark interdisziplinär ausgerichteten Arbeiten wichtige Beiträge zu nationalen und internationalen Initiativen in der Bodenbewirtschaftung und in der Bekämpfung des Klimawandels.
 
 Prof. Dietmar Eberle (*1952), zurzeit ordentlicher Professor für Architektur und Entwurf, wird Ende Januar 2018 in den Ruhestand treten. Dietmar Eberle wirkt seit Sommer 1999 in seiner heutigen Funktion an der ETH Zürich. Der Schwerpunkt seiner Forschungsaktivität ist das Wohnen in seinen verschiedenen Facetten. 2000 übernahm er die Leitung des «ETH Wohnforum – ETH CASE Centre for Research on Architecture, Society & the Built Environment». Dessen interdisziplinäre Forschungs- und Entwicklungsprojekte führen die kulturwissenschaftliche Perspektive, einen sozialwissenschaftlichen Ansatz und konkrete Praxisbezüge zu einer Gesamtschau zusammen. Dietmar Eberle engagierte sich zudem während mehrerer Jahre im Leitungsgremium des Departements Architektur.
 

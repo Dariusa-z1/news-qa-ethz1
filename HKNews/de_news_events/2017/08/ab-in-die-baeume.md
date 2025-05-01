@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2017/08/ab-in-die-baeume.html
 
-## Blätter der gesamten Baumkrone
+**Date processed:** 2025-05-01
+
+## Main article
 
 Hilfsassistentin Eva Merz steht am Fuss einer mächtigen Buche, mitten im Wald. Zwei Kletterseile hängen aus der Krone des Baumes hinab. In schwindelerregender Höhe turnen die Baumkletterer Markus Gysin und Anja Erni gut gesichert durchs Geäst, schneiden einen Zweig ab und seilen ihn an einer dünnen Leine sorgfältig ab. Merz greift sich den Zweig, löst ihn von der Leine. «Ich bin wieder weg», ruft sie den beiden zu und eilt mit der Ernte zum «Basislager».
 
@@ -10,25 +12,27 @@ Das Basislager befindet sich auf einem Kiesweg in einem Wald am Südhang der Lä
 
 Das muss alles rasch geschehen: Innert Minuten nach dem Abschneiden des Zweigs reagieren die Blätter auf Wassermangel und veränderte Umweltbedingungen: Die Blätter schliessen ihre Spaltöffnungen, verdunsten weniger Wasser, bauen Chlorophyll ab und reduzieren die Photosynthese.
 
-## Umsatz der Bäume bestimmt
+## Blätter der gesamten Baumkrone
 
 Doch wozu all die Geräte und die ganzen Analysen? Bachofen und seine Helferinnen arbeiten zusammen mit ETH-Postdoc Petra D'Odorico an einem zweijährigen Projekt namens «Leaf2Canopy». Ziel ist es, den CO 2 -Austausch von Waldökosystemen mit der Atmosphäre besser zu verstehen und möglichst auch besser modellieren zu können. Diesen Austausch können Wissenschaftler mit Blattmessungen berechnen. Bisherige Berechnungen beruhen oft auf leicht zu erreichenden, bodennahen Blättern. «Wir beschreiben hingegen Blätter aus dem gesamten Kronenraum. So versuchen wir, die Modelle realistischer zu machen», erläutert Bachofen.
 
 Hoch über dem Blätterdach, aber räumlich nicht hoch aufgelöst: Messungen des Gasaustauschs auf dem Turm der Lägeren.
 
+## Umsatz der Bäume bestimmt
+
 Auch für den Waldbestand an der Lägeren werden seit über zehn Jahren Gasaustausch-Messungen auf Ökosystem-Ebene vorgenommen. Auf einem Turm, der für ein nationales Beobachtungsnetzwerk errichtet wurde, messen Sensoren CO 2 -Konzentration, Windrichtung und Windgeschwindigkeit über dem Blätterdach. Aus diesen Daten werden laufend CO 2 -Aufnahme und -Abgabe des Waldes errechnet. «Diese Berechnungen muss man allerdings vorsichtig interpretieren», erklärt Bachofen. Vor kurzem konnte eine ETH-Doktorandin zeigen, dass die Luftschichten oberhalb und unterhalb des Kronenraums nicht immer gut durchmischt werden. Bei voller Belaubung erfassen die Turm-Messungen einen beträchtlichen Teil des Gasaustausches mit der Atmosphäre nicht.
 
-## Baumkletterer an Fixseilen
-
 Mit seinem Projekt möchte der Postdoktorand nun in erster Linie die Photosynthese und die Verdunstung aus verschiedenen Stockwerken des Kronenraums quantifizieren, um davon besser auf den Wasserdampf- und CO 2 -Umsatz der Bäume und letzten Endes des ganzen Waldes zu schliessen.
+
+## Baumkletterer an Fixseilen
 
 Um an genaue Daten zu gelangen, untersuchen die Forschenden dieses Jahr zwei verschiedene Baumarten, die Buche und die Weisstanne. Von je drei Exemplaren jeder Art sammeln sie pro Probennahme je zwei Zweige auf vier verschiedenen Stockwerken und von zwei verschiedenen Ausrichtungen des Baums. Von jedem Zweig wiederum analysieren die Wissenschaftler zwei Blätter detailliert.
 
 An diesem Tag Anfang August sind drei Buchen dran. Schon Ende des Monats werden die Bäume damit beginnen, ihr Chlorophyll abzubauen und die Nährstoffe aus den Blättern zurückzuziehen – der Herbst und damit der Blattfall nahen. Die Untersuchung von Buchenblättern ist dann nicht mehr möglich. «Zurzeit haben wir Chlorophyll-Höchststand», sagt Bachofen.
 
-## Test mit einer Drohne
-
 Dieses Jahr haben er und seine Helferinnen die Probefläche siebenmal im Mai, dreimal im Juli und eben im August besucht, um Blattmaterial zu sammeln. Beziehungsweise: sammeln zu lassen. Denn das Klettern in die Bäume ist den beiden professionellen Baumpflegern Markus Gysin und Anja Erni vorbehalten. Flink steigen sie entlang von Fixseilen in die Baumkronen; dort filmen und fotografieren sie die Orte, von denen sie Zweige abschneiden.
+
+## Test mit einer Drohne
 
 Bachofen findet, dass die Beprobungsmethode gut funktioniere, doch einen grossen Nachteil habe: Die Forscher sind permanent auf die Hilfe der Baumkletterer angewiesen. Beprobungstage müssen frühzeitig vorbereitet werden. Dazwischen ist es unmöglich, Blätter zu sammeln und zu analysieren. Auch erreichen die Baumkletterer nicht sämtliche Stockwerke der Baumkrone. Die äussersten Zweige sind selbst für die Profis unerreichbar.
 
@@ -42,23 +46,21 @@ Die Photosynthese hängt unter anderem davon ab, wie viel Chlorophyll in den Bl�
 
 Baumdilemma: Wo soll der Baum Blätter ausbilden und mit Stickstoff versorgen, um das verfügbare Licht möglichst optimal auszunutzen? (Bild: ETH Zürich)
 
-## Wie verteilen Bäume den Stickstoff?
-
 Die Verteilung des Stickstoffs in den Bäumen ist ein wichtiger Faktor für die Modelle zur Berechnung des Gasaustauschs im Wald. Für die Bäume auf der Lägeren ist diese Verteilung noch unklar. Bachofen untersucht daher in diesem Jahr noch genauer, wie die Licht- und Wasserverfügbarkeiten die Photosynthese und die Verteilung des Stickstoffs in der Baumkrone steuern.
 
 Bisher konnte Bachofen zeigen, dass in den oberen Blättern pro Blattfläche mehr Chlorophyll vorhanden ist und dass die Blätter damit mehr Photosynthese betreiben können. Die oberen Buchenblätter sind aber deutlich dicker als die unteren. Daher stellte sich die Frage, ob die Blätter oben auch mehr Stickstoff und mehr Chlorophyll im Verhältnis zur Blattmasse haben als die Blätter unten, und ob sich die Verhältnisse mit der Höhe im Kronenraum ähnlich verändern.
 
 Bachofens bisheriges Fazit: Die Blätter enthalten auf allen Stockwerken ähnlich viel Stickstoff pro Blattmasse. In den oberen Blättern war aber die Chlorophyll-Konzentration bezogen auf die Menge Stickstoff geringer als in den unteren. «Ich interpretiere das so, dass der Baum den Stickstoff in den oberen Blättern vermehrt in andere Strukturen investiert als ins Chlorophyll», sagt er. Welche dies seien, könne er derzeit jedoch noch nicht sagen.
 
-## Lange Tage im Wald
-
 «Der Baum muss den Stickstoff dort einsetzen, wo es sinnvoll ist. Das ist ein ständiger Zielkonflikt», erklärt der Umweltwissenschaftler. Es hänge deshalb stark von der Überlebensstrategie der jeweiligen Baumart ab, wo innerhalb der Krone der Baum diese Investition tätige.
+
+## Lange Tage im Wald
 
 Sind die Blätter im Photosynthese-Messgerät eingespannt, heisst es wieder: Warten, dreiviertel Stunden, bis sie die nächsten Blätter bei den Baumkletterern abholen kann. «Unsere Waldtage können dann ganz schön lang werden», sagt Bachofen. «Denn am Ende des Tages, wenn wir bereits die meisten Geräte geputzt und verstaut haben, müssen wir noch warten, bis die letzten Messungen abgeschlossen sind.»
 
-Im Rahmen einer Serie präsentiert ETH-News während der Ferienzeit Beiträge zu Forschung und Innovation, welche etwas mit der schönsten Zeit des Jahres zu tun haben.
-
 ## Sommerserie
+
+Im Rahmen einer Serie präsentiert ETH-News während der Ferienzeit Beiträge zu Forschung und Innovation, welche etwas mit der schönsten Zeit des Jahres zu tun haben.
 
 18.07. «Den Urlaub nicht als Glücksmoment belasten»
 
@@ -66,9 +68,9 @@ Im Rahmen einer Serie präsentiert ETH-News während der Ferienzeit Beiträge zu
 
 26.07. Kühlvorhang statt Klimaanlage
 
-## Laubwaldforschung an der Scientifica 2017
-
 16.08. Online gegen invasive Pflanzen
+
+## Laubwaldforschung an der Scientifica 2017
 
 Hat dieser Beitrag Ihr Interesse geweckt? An der externe Seite Scientifica erfahren Sie mehr über die Arbeit von Professorin Nina Buchmann und ihrer Gruppe Graslandwissenschaften.
 

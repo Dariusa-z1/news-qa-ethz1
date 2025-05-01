@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2015/03/food-trailer-for-the-etz-terrace.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Starting in May 2015, an extensive programme of demolition, construction and renovation work will be taking place on the VAW building and parts of the ETZ building on Gloriastrasse on ETH Zurich’s Zentrum campus. Because of this, the Gloriabar will be closing on 2 April. The work is scheduled to last until around 2020.

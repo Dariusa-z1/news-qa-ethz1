@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2015/05/new-hub-for-swiss-computer-games.html
 
+**Date processed:** 2025-05-01
+
 ## World-class game developers from Switzerland
 
 Last Wednesday ETH Zurich announced its intention to further expand its commitment to the development of computer games. The Department of Computer Sciences is establishing a Game Technology Center where scientists will be able to devise new technologies for computer game development in a cross-disciplinary manner and in collaboration with industry. ETH president Lino Guzzella explains the decision: “Game technology is not only interesting for start-ups and the creative industries, but also for science and teaching. In future, we want to pool ETH’s strengths and pay increased attention to this technology.”
@@ -10,15 +12,13 @@ Five years ago, many responded by shaking their heads when Pro Helvetia launched
 
 Five years later, it appears that Pro Helvetia bet on the right horse: Swiss game developers are causing a stir at international competitions, most recently at this year’s Game Developers Conference in San Francisco, where two Swiss won a Best in Play prize. The Swiss are now in first place in terms of the number of nominations per capita at the GDC. For SP National Councillor Jacqueline Fehr, the time has finally come to bring the subject to the political stage: in an initiative in March, she called on the Federal Council for a report on how policy can further encourage development of the Swiss game industry. The report will show not only the cultural but also the economic potential of the game industry in Switzerland.
 
-## Gamification for Nature
-
 Screenshot from Elements Racing. (Photo: ETH Zurich / Game Technology Center)
+
+## Gamification for Nature
 
 The commitment of ETH Zurich to computer game development is not new: the Department of Computer Science has been organising the Game Programming Laboratory course for its Master’s students since 2007, where groups of three to four students develop their own computer games over the course of a semester. Last Wednesday in front of a packed audience of more than 300 people at the Maximum auditorium, students of ETH Zurich presented six of their projects. The spectators then had the opportunity to try the games out for themselves and choose their favourites.
 
 This year for the first time the course was open not only to ETH students but also to students from Zurich University of the Arts (ZHdK) with a focus on Game Design. “The development of computer games is the ideal training ground for computer science students,” says Markus Gross, professor at the Computer Graphics Laboratory and director of Disney Research Zurich. “They have to apply practically all the knowledge that they’ve acquired during their studies: software engineering, artificial intelligence and even theoretical computer science. Game programming also raises issues related to art, psychology and economics.”
-
-## ETH computer scientists develop blockbusters
 
 For Bob Sumner, deputy head of Disney Research Zurich and director of the Game Programming Laboratory, the current interest in gaming from politics, industry and culture is no accident: “More and more decision makers are realising how much talent and potential exists in Switzerland in this field.” And interest in computer games is growing even in the sciences, says Sumner. In the meantime, a number of other world-class universities such as the Massachusetts Institute of Technology (MIT), Georgia Tech and TU München are running their own game development laboratories. By reformulating scientific problems through a computer game, researchers open up new problem-solving possibilities.
 

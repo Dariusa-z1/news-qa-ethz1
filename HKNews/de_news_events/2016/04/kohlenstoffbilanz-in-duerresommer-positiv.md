@@ -2,15 +2,17 @@
 
 **Source:** de_news_events/2016/04/kohlenstoffbilanz-in-duerresommer-positiv.html
 
-## Ökosystem nehmen CO2 auf
+**Date processed:** 2025-05-01
+
+## Ökosystem nehmen CO2auf
 
 Das Frühjahr 2012 war in den USA das wärmste seit Beginn der Messaufzeichnungen. Nahtlos schloss ein Sommer an, der trockener und heisser war als alle anderen Sommer seit den 1930er Jahren, einer Zeit, die als «Dust Bowl» in die Geschichtsbücher einging. Unter Dürre und Hitze litt 2012 nahezu das ganze Festland der USA.
 
 Klimaforscherinnen befürchteten, dass diese Wetterkapriole vor vier Jahren das Festland der USA wegen der Sommerdürre in eine Kohlenstoff-Quelle verwandelten, wie dies in Europa während des Hitzesommers 2003 der Fall war. In einem normalen Jahr nehmen Ökosysteme mehr Kohlenstoff aus der Luft auf als dass sie abgeben. Sie sind deshalb eine Senke – was für das Weltklima wichtig ist. Das hat mit den Pflanzen zu tun, die bei der Fotosynthese Kohlendioxid (CO 2 ) für ihr Wachstum aufnehmen und in Form von Biomasse sowie im Boden speichern. Ökosysteme kompensieren dadurch ein Drittel des vom Menschen verursachten CO 2 -Ausstosses.
 
-Eine Gruppe von Forschenden aus den USA, Australien, den Niederlanden und von der ETH Zürich zeigen nun, dass das Festland der USA 2012 trotz der Dürre eine Kohlenstoffsenke blieb. Die Studie wurde soeben in der Fachzeitschrift PNAS veröffentlicht.
+## Grasländer geben bei Dürre CO2ab
 
-## Grasländer geben bei Dürre CO2 ab
+Eine Gruppe von Forschenden aus den USA, Australien, den Niederlanden und von der ETH Zürich zeigen nun, dass das Festland der USA 2012 trotz der Dürre eine Kohlenstoffsenke blieb. Die Studie wurde soeben in der Fachzeitschrift PNAS veröffentlicht.
 
 Die Forschenden fanden heraus, dass der warme Frühling Bäume, Gräser und Nutzpflanzen früher spriessen und wachsen liess. Dadurch nahmen die Ökosysteme aus der Luft mehr Kohlenstoff auf als in einem «normalen» Frühling.
 
@@ -18,19 +20,19 @@ Während der anschliessenden Dürre hingegen nahmen die Ökosysteme weniger Kohl
 
 Über das gesamte Festland betrachtet, entpuppten sich die grossflächigen Wälder der Appalachen als besonders effektive Kohlenstoffsenken. Diese nahmen insbesondere im Frühling viel zusätzlichen Kohlenstoff auf und blieben während den Sommermonaten von starken Dürre-Effekten verschont. Die Grasländer des Mittleren Westens hingegen nahmen zwar im warmen Frühling ebenfalls mehr Kohlenstoff auf, jedoch deutlich weniger während der Sommerdürre, nachdem die Vegetation verdorrt war.
 
-## Einmalige Kombination von Messdaten
-
 Zudem wurden die Dürre und Hitze im Sommer 2012 in den USA wahrscheinlich durch eine Rückkopplung des warmen Frühlings verstärkt, wie die Wissenschaftler herausfanden: da die Pflanzen zeitiger wuchsen, verbrauchten sie auch früher im Jahr die Wasserreserven im Boden. Dies machte die Ökosysteme im Sommer anfälliger für die Trockenheit. Und weil das Wasser fehlte, mussten die Pflanzen ihre Spaltöffnungen zeitiger schliessen.
 
 Solange Pflanzen genügend Wasser haben, halten sie die Spaltöffnungen auf ihren Blättern offen, um mit der Luft CO 2 , Wasserdampf oder Sauerstoff auszutauschen. Sobald es an Wasser mangelt, schliessen Pflanzen die Spaltöffnungen. Dadurch verdunstet auch weniger Wasserdampf und der kühlende Effekt durch die Verdunstung bleibt aus. So verstärkt sich die Hitze und damit auch der Stress für die Pflanzen.
 
-Für ihre Auswertung kombinierten Wolf und Kollegen verschiedene Daten. So flossen Messungen von Umweltfaktoren an 22 Standorten in den USA in die Studie ein. In diesen Ökosystemen massen die Forscher mit speziellen Messtürmen auf standardisierte Weise und kontinuierlich während mindestens fünf Jahren mehrere Umweltparameter, wie Temperatur, Bodenfeuchte, Niederschlag sowie die Kohlendioxid- und Wasserflüsse zwischen den Ökosystemen und der Atmosphäre.
+## Einmalige Kombination von Messdaten
 
-## Literaturhinweis
+Für ihre Auswertung kombinierten Wolf und Kollegen verschiedene Daten. So flossen Messungen von Umweltfaktoren an 22 Standorten in den USA in die Studie ein. In diesen Ökosystemen massen die Forscher mit speziellen Messtürmen auf standardisierte Weise und kontinuierlich während mindestens fünf Jahren mehrere Umweltparameter, wie Temperatur, Bodenfeuchte, Niederschlag sowie die Kohlendioxid- und Wasserflüsse zwischen den Ökosystemen und der Atmosphäre.
 
 Mit Messungen der Satellitenplattform MODIS konnten die Wissenschaftler ausserdem die CO 2 -Aufnahme der Pflanzendecke über die gesamten USA bestimmen. Zusätzlich wurden Messungen des CO 2 -Gehalts von bis zu 300 Meter hohen Türmen mit Modellen kombiniert, um die CO 2 -Aufnahme aus Sicht der Atmosphäre abzuschätzen.
 
 Dank einer geschickten Kombination dieser verschiedenen Daten konnten die Forscher schliesslich den Kohlenstofffluss des gesamten Festlands der USA während dem Jahr 2012 berechnen.
+
+## Literaturhinweis
 
 Wolf S, Keenan TF, Fisher JB, Baldocchi DD, Desai AR, Richardson AD, Scott RL, Law BE, Litvak ME, Brunsell NA, Peters W, van der Laan-Luijkx IT (2016) Warm spring reduced carbon cycle impact of the 2012 US summer drought. Proceedings of the National Academy of Sciences. DOI externe Seite 10.1073/pnas.1519620113
 

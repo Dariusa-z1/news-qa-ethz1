@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2015/12/langjaehriges-peko-mitglied-verstorben.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Renate Amatore.

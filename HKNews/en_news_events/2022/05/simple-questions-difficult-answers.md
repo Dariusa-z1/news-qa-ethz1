@@ -2,27 +2,25 @@
 
 **Source:** en_news_events/2022/05/simple-questions-difficult-answers.html
 
+**Date processed:** 2025-05-01
+
 ## From Budapest to Cambridge
 
 Imagine a group of people. Some of them know each other; others have never met. If you connect all the pairs of individuals who know each other, while making no connections between strangers, you end up with a network of nodes and interconnections. Mathematicians refer to such a network as a graph. Social networks like Facebook can be considered as a graph. The theory of these networks is a subfield of combinatorics, a field of mathematics in which Oliver Janzer specialises. The 27-year-old scientist has been working as an ETH Fellow in the group of mathematics professor Benny Sudakov since the autumn of 2020.
 
 “We tackle specific kinds of problems in graph theory,” Janzer explains. This might mean calculating the maximum number of people who can be connected to each other when certain patterns are forbidden – for example, if nobody in the group is permitted to know everyone else. “The questions we ask in our field tend to be fairly simple compared to the ones you get in other fields of mathematics,” Janzer says, “but somehow the solutions are not always very simple!” This is a huge understatement by the young researcher, who has already won several awards. One maths problem first formulated in 1975 had resisted every attempt to find a solution – but Janzer and Sudakov recently came up with new ideas that gave them the breakthrough they needed to solve it.
 
-## Cash prize for disproving a conjecture
-
 Translated from mathematical jargon into everyday English, the problem basically concerned the following question: How many pairs of individuals can know each other in a group of n people if there are no subgroups in which each person knows exactly k other people, where n is an integer and k is greater than or equal to the number three. “When explaining this problem, I had to cheat a tiny bit to make it easier to grasp,” Janzer confesses. Nonetheless, the solution he and Sudakov came up with is exact – and it generated tremendous interest in the scientific community when it was published as a preprint in late April 2022.
 
 Janzer grew up in Budapest, and he acknowledges how fortunate he was to attend a school in Hungary where mathematics teaching has a high priority. “My classmates had similar interests to mine. Maths was our favourite subject and we had some amazing teachers,” he says. It wasn’t long before he was making waves in a national mathematics competition and, once he hit his teens, he went on to win a bronze and two silver medals at the International Mathematical Olympiad. This paved the way for him to study mathematics at Cambridge University in the UK. “That was when things really changed,” Janzer says: “Maths at university was very different to what I was used to at school and in the competitions.”
-
-## Plenty of sport – plus the odd computer game
 
 Janzer continued to take great pleasure in the subject, even when the time came to tackle his doctoral project in Cambridge: “That was another big shift, because suddenly it wasn't just about learning things, but about doing my own research!” Before long, he was producing publishable results that were attracting the interest of experts, including ETH Professor Sudakov. “He sent me an e-mail asking what my plans were after I finished my doctorate,” Janzer says. With Sudakov on board as his mentor, he decided to apply for an ETH Zurich Postdoctoral Fellowship , a programme that aims to support up-and-coming researchers who achieve outstanding results early on in their career. “I was very happy that it all worked out,” Janzer says, because the success rate for applicants is only about 25 percent.
 
 The Hungarian scientist Paul Erdős, one of the most important mathematicians of the 20th century, probably has played a key role in Janzer’s career so far. Erdős posed numerous questions and conjectures in combinatorics, one of which Janzer was able to disprove last year. “That’s another piece of work I’m really proud of!” he says. Erdős had even set up a prize fund for anyone who solved the problem he formulated in 1981, with 250 dollars awarded for proof of his conjecture and 500 dollars for its refutation.
 
-## Don't miss the latest news
-
 The discoveries in Janzer’s specialist area are mainly applicable in the field of mathematics itself; real-world applications tend to be few and far between, though there are exceptions. “Imagine you’re drawing up the match schedule for a football league, for example,” Janzer says: “If the league has 20 teams, it is unlikely that just by hand you can design a suitable schedule. Fortunately, our work provides some useful techniques to get the job done.” Many of the applications that do emerge, he says, aren’t for specific results, but for the underlying ideas. He cites the example of randomised techniques, which were developed to solve a purely combinatorial problem; these led to randomised algorithms, which are ubiquitous in modern computer science. The results of the latest work by Janzer and Sudakov can also be applied in this field, specifically in regard to machine learning.
+
+## Plenty of sport – plus the odd computer game
 
 “On the whole, though, it’s rare for our studies to be motivated by applications,” Janzer says. The value of a piece of work is generally determined by how well it advances the research itself, how old the problem is, and how many other scientists have already attempted to tackle it. “I sometimes think it would be nice to see my research make an impact in the real world, but I am well compensated by other aspects!” Janzer says, emphasising just how beautiful his discipline is. He particularly enjoys the idea that a conclusive proof in pure mathematics will still be valid 100 or 1,000 years from now. “It’s nice to think of your own name always being associated with that theorem.”
 

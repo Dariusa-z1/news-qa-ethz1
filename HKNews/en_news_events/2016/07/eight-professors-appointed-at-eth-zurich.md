@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2016/07/eight-professors-appointed-at-eth-zurich.html
 
+**Date processed:** 2025-05-01
+
 ## Appointments at ETH Zurich
 
 Upon application of the President of ETH Zurich, Professor Lino Guzzella, at its meeting of 13/14 July 2016 the ETH Board appointed a total of eight professors and awarded the title of professor to one individual.
@@ -22,8 +24,6 @@ Jeremy Richardson.
 
 Dr Jeremy Richardson (*1986) , currently Junior Research Fellow at Durham University, UK, as Tenure Track Assistant Professor of Theoretical Molecular Quantum Dynamics. Jeremy Richardson's research focuses on the theoretical description of the quantum dynamic processes of complex systems. Among other things, his results facilitate investigation of processes that are of central importance in chemistry such as proton and electron transmission in large molecular complexes and the condensed phase. By appointing Jeremy Richardson, ETH Zurich is gaining a highly original theoretical chemist who will continue the successful tradition of the Chemistry and Applied Biosciences Department in the field of theoretical chemistry.
 
-## Award of the title of Professor
-
 Konrad Schindler.
 
 Professor Konrad Schindler (*1974) , currently Associate Professor at the ETH Zurich, as Full Professor of Photogrammetry and Remote Sensing. Konrad Schindler is highly regarded internationally in his field and an exceptionally committed teacher. His three main topics are integrated treatment in the extraction of geometric and semantic information, combining and merging data and information from multiple sensors and platforms, and maintenance and tracking of very large geo databases, especially information and data made available via the internet. The appointment of Konrad Schindler as Full Professor helps to secure and strengthen the ETH Zurich's leading international position in photogrammetry.
@@ -37,6 +37,8 @@ Jing Wang.
 Professor Jing Wang (*1979) , currently Assistant Professor at ETH Zurich, as Associate Professor of Air Quality and Particle Technology. Jing Wang is regarded as one of the world’s leading scientists in the field of air quality and particle technology. His principal areas of research include reducing nanoparticle transmission and emissions, developing tools to measure nanoparticles in the air, and air and water filtration. His work helps enhance our understanding of the importance of nanomaterials for environmental protection and occupational safety. By appointing Jing Wang as Associate Professor, ETH Zurich and Empa are securing an excellent research scientist who will contribute substantially to both institutions’ work on the maintenance of air quality in environmental engineering.
 
 Ce Zhang.
+
+## Award of the title of Professor
 
 Dr Ce Zhang (*1987) , currently a post-doctoral student at Stanford University, California, USA, as Tenure Track Assistant Professor of Computer Science. Ce Zhang is a very promising young scientist. His research interests are databases, data processing, machine learning and data science. His applications focus on systems to help scientists analyse and understand large quantities of data. He links conventional areas of databases and information retrieval with new methods of machine learning. By appointing Ce Zhang, the Computer Science Department is decisively strengthening its teaching and research activities in the field of data science.
 

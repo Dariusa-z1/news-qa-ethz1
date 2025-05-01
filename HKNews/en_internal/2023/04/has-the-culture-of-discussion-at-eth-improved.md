@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2023/04/has-the-culture-of-discussion-at-eth-improved.html
 
+**Date processed:** 2025-05-01
+
 ## For
 
 Pius Krütli, Co-director of TdLab at D-USYS
@@ -12,17 +14,15 @@ The start of the project differed from the past. Its launch was prompted by the 
 
 The working groups, comprising members from all university bodies, were given the autonomy to nominate and work on their chosen topics within the framework of the rETHink project. This involved lengthy discussions – some measured, some more heated. New ideas were put forward, and sometimes rejected again. Most importantly, everyone listened to each other and created something together at the same time. Although this should be an essential part of any creative process, it’s not always common – even among academics. Sometimes it's about privileges that may seem to be under threat, or about exercising the power of interpretation. Individual interests may be affected. Things can turn nasty quite quickly. End of discussion. This is the way it has to be done.
 
-## Against
-
 The rETHink approach: everyone on an equal footing. The better argument wins, not the entrenched hierarchical status.
 
 For me, the litmus test was the issue of excellence – one of the five key values in ETH’s vision. A tough nut to crack, which many struggled with. Excellence is now no longer an ETH value – an open outcome. But ETH continues to strive for excellence, as now embodied in its mission statement.
 
 So has the culture of discussion actually changed? From the subjective perspective of the rETHink experience: yes, it has. But there is still an element of doubt. Was it mainly an issue that only concerned a minority? Were the majority of people perhaps not even aware of rETHink and learnt nothing from it? And are some people whose attitudes may have been the reason for launching rETHink in the first place simply continuing to live their own “culture”? That can’t be ruled out. But that's where we all have our part to play. Because we live and breathe our university culture. And we must set boundaries for those who try to manipulate an open and liberal organisational culture in their favour. This calls for a somewhat different culture (of discussion).
 
-Christian Mimjähner, Campus Services business developer
+## Against
 
-## Always up to date
+Christian Mimjähner, Campus Services business developer
 
 In my function as a business developer in Campus Services and in my role as a member of the university’s Staff Commission (PeKo), I am constantly involved in a huge variety of challenging and – above all – interesting discussions. Has there been any change over the past two years? Not as far as I can see.
 

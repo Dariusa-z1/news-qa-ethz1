@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2016/04/erc-advanced-grants.html
 
+**Date processed:** 2025-05-01
+
 ## Die ETH muss attraktiv bleiben
 
 Die ERC Advanced Grants gehören zu den begehrtesten Auszeichnungen im europäischen Forschungsraum. Mit ihnen fördert der Europäische Forschungsrat (ERC) ausschliesslich Projekte von etablierten Spitzenforschenden. Wer sich erfolgreich um diese Fördermittel bewirbt, erhält neben viel Renommee auch namhafte finanzielle Unterstützung. Die angenommenen Projekte werden während fünf Jahren mit rund 2,2 bis 3,8 Millionen Franken unterstützt.
@@ -10,15 +12,11 @@ Die ERC Advanced Grants gehören zu den begehrtesten Auszeichnungen im europäis
 
 Die ausgezeichneten Projekte kommen aus Forschungsbereichen, in denen die ETH Zürich eine führende Position einnimmt, also zum Beispiel Physik, Materialwissenschaften oder Erdwissenschaften. Auch die intensive Forschung auf dem noch jüngeren Gebiet der Biosysteme trägt Früchte. Dies passt zur Strategie der ETH Zürich, die in der medizinischen Forschung neue Wege beschreiten möchte. «Für mich sind diese Grants der Beweis, dass herausragende Professorinnen und Professoren an die ETH berufen werden», sagt Prof. Detlef Günther, Vizepräsident für Forschung und Wirtschaftsbeziehungen der ETH Zürich. «Um sich auch in Zukunft im europäischen Wettbewerb behaupten zu können, muss die ETH weiterhin so attraktiv bleiben, damit die weltweit besten Talente an dieser Hochschule lernen, lehren und forschen wollen.»
 
-## Chancen auf vollständige Assoziierung intakt
-
 Mit der Unterzeichnung des Kroatien-Protokolls durch den Bundesrat im März und mit der deutlichen Annahme der Vorlage gestern durch den Nationalrat sind die Chancen der Schweiz für eine vollständige Assoziierung zum Forschungsprogramm Horizon 2020 gestiegen. Detlef Günther betont, dass diese vollständige Assoziierung für die Schweizer Hochschullandschaft zentral ist. «Die ERC Grants sind ein Leistungsausweis für die einzelnen Forscherinnen und Forscher. Sich nicht darum bewerben zu können, könnte Talente davon abhalten, in die Schweiz zu kommen, und das wäre ein grosser Nachteil für die Schweizer Forschungslandschaft.»
 
 Die ERC Advanced Grants gehen an folgende Forscher:
 
 Charalampos Anastasiou ist Professor für theoretische Teilchenphysik. Als Schwerpunkt seiner Forschung macht er theoretische Voraussagen für die Experimente am Teilchenbeschleuniger LHC am Cern. Vor sechs Jahren erhielt er bereits einen ERC Starting Grant, um damit mathematische und computerbasierte Methoden zu entwickeln, um die am LHC gemessenen Teilchenkollisionen zu simulieren. Mit dem nun erhaltenen ERC Advanced Grant wird er diese Arbeit weiterführen. Das Ziel sind noch genauere Simulationen für die Beobachtungen rund um die Entstehung von Higgs-Bosons und weiterer Teilchen. Letztlich erhofft sich Anastasiou jedoch, dass sich einige der Messungen der Experimente nicht mit den Simulationen und dem Standardmodell der Teilchenphysik erklären lassen, was zur Entdeckung neuer physikalischer Gesetze führen könnte.
-
-## Kontakt
 
 Manfred Fiebig, Professor am Departement Materialwissenschaft, ist spezialisiert auf die Erforschung von neuartigen Materialien mit einer inneren magnetischen und elektrischen Ordnung, sogenannten Multiferroika. Oft werden diese im Labor in einem Bedampfungsprozess (Pulslaserdeposition) in dünnen Schichten hergestellt. Derzeit können die magnetischen und elektrischen Eigenschaften der Materialien erst nach Abschluss des Herstellungsprozesses untersucht werden. In seinem ERC-Projekt wird Fiebig eine neue Laser-Messtechnik entwickeln, die es erlaubt, diese Eigenschaften bereits während der Herstellung in Echtzeit zu verfolgen. So können während der Produktion die Schichtsysteme durch ständige Nachführung der Herstellungsparameter auf eine maximale technologische Nutzbarkeit hin optimiert werden. Solche Materialien könnten die Grundlage neuartiger magneto-elektrischer Sensoren, Bauteile oder Datenspeichermedien werden.
 

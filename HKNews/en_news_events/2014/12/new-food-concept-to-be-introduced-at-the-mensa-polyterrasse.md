@@ -2,27 +2,25 @@
 
 **Source:** en_news_events/2014/12/new-food-concept-to-be-introduced-at-the-mensa-polyterrasse.html
 
+**Date processed:** 2025-05-01
+
 ## Closed from 19 December
 
 More space, a fresher look and a new range of food on offer – that is what visitors to the Mensa Polyterrasse cafeteria can look forward to from 19 January 2015 onwards. There will be a selection of dishes to choose from at six new counters: the “Home” counter will replace the current “Menu 1”, offering popular meat- or fish-based classics, but vegetarian meals may also be served here from time to time. To ensure a quicker service, it will now be possible to serve two people at this counter at once. Meanwhile, the “Street” counter will feature international favourites such as kebabs, hot dogs, fajitas, burgers or Indian curries.
 
 At the next counter – known as “Local” – dishes will be prepared right in front of the customers, using meat and chicken sourced exclusively from Switzerland. There will also be a strong emphasis on fair-trade and organic produce. Vegetarian and occasionally vegan dishes can be found at the “Garden” counter. Since vegetarian dishes will also be served at the “Home” counter every now and then, this new food concept will offer vegetarian diners a wider selection than before.
 
-## Taking action based on a customer survey
-
 The catering provider SV Group will also be offering an alternative to the conventional menu in the “Market” section, where seasonal soups with various toppings will be available alongside a selection of sandwiches. For those who prefer salad, the extensive “Hot & Cold” buffet in the middle of the cafeteria will provide vegetarian salads and vegetable-based cuisine with a wide range of toppings as well as meat dishes.
 
 There will be two menus available for students at a price of 6.20 Swiss francs each, but not always at the same serving station. Food at the “Hot & Cold” buffet will be offered to students for 1.80 francs per 100 grams and to staff for 2 francs per 100 grams. The prices of dishes from the “Local” counter will start from 8.50 francs, but they can be paid for at the counter itself. This means that there will be an extra checkout available in future, bringing the total number up to six.
-
-## Related articles
 
 As an exceptional case, the cafeteria will close for renovation a few days before Christmas – after lunch on 19 December, to be precise. As an alternative option, the Einstein & Zweistein cafeteria will be serving up hot food on 22, 23 and 24 December. The SV Group will run a reduced service in the Mensa Polyterrasse dining area after the Christmas holidays from 5 to 16 January. The revamped Mensa Polyterrasse is due to reopen on 19 January 2015.
 
 The renovation of the Mensa Polyterrasse cafeteria is designed not only to enhance the menu on offer, but also to improve the way the food is served, so that students and staff will not have to spend so long queuing up for their meals in future. The long waiting times were mentioned as a cause for complaint in a customer survey carried out in 2012. Improvements which have already been made as a result of this survey include the introduction of a salad buffet and new schemes such as the “Best of Burger” day or the information screens at the entrance to the cafeteria.
 
-## Don't miss the latest news
-
 The dining area will not be affected by the changes to the cafeteria at this stage, although a complete renovation is planned in the medium term.
+
+## Related articles
 
 New catering facilities on the Hönggerberg campus (Intranet News 8.10.14)
 

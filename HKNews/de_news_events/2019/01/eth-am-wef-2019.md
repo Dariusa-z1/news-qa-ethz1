@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2019/01/eth-am-wef-2019.html
 
-## Design – wissenschaftlich betrachtet
+**Date processed:** 2025-05-01
+
+## Main article
 
 «So habe ich auch angefangen!», ruft eine der ersten Augenzeuginnen des vielleicht ersten schlittschuhlaufenden Roboters der Welt entzückt. Der vierbeinige und etwa katzengrosse Skaterbot der ETH hat sich die Fortbewegung auf Kufen selber beigebracht und pflegt entsprechend einen sehr eigenen Stil. Langsam aber nicht unelegant schlängelt er sich über die Eisfläche vor dem Pavillon der ETH in Davos: Der Skaterbot ist definitiv der Star des dritten Auftrittes der ETH vor den Toren des Jahrestreffens des World Economic Forums – Highlights gibt es aber viele.
 
@@ -10,7 +12,7 @@ Drinnen sitzen die Besucher im Wissenschaftsrestaurant Tastelab, das einmal mehr
 
 Gleich neben dem Tastelab öffnet die Ausstellung «Rethinking Design» täglich die Tore für die interessierte Öffentlichkeit. Das Publikum ist so vielseitig wie das Programm. Hier treffen Schülerinnen und Schüler auf Alumni der ETH und die lokale Bevölkerung auf Prominenz aus Politik, Wirtschaft und Kultur. «Es ist grossartig, was das ETH-Team hier in Davos auf die Beine gestellt hat, und es ist inspirierend, mit wie viel Herzblut die Forscherinnen und Forscher ihre Projekte präsentieren», zeigt sich ETH-Präsident Joël Mesot bei seinem ersten WEF-Auftritt im neuen Amt beeindruckt.
 
-## ETH hostet offizielle WEF-Veranstaltung
+## Design – wissenschaftlich betrachtet
 
 Beeindruckt von der Vielseitigkeit der ausgestellten Objekte waren auch die Ehrengäste am «Rethinking Design»-Empfangs. Im bis an die Kapazitätsgrenze gefüllten Pavillon verfolgten sie zunächst ein Gespräch zum Thema Design der an der Ausstellung beteiligten ETH-Professor/innen Kristina Shea, Philippe Block, Gisbert Schneider und Simone Schürle. Fazit: Der Anspruch an das Design von Objekten verändert sich über die Zeit – sei es in Bezug auf die Optik, den Nutzen oder die Wirtschaftlichkeit. «Im Zeitalter knapp werdender Ressourcen ist es wichtig, dass Wissenschaftler und Ingenieure auch den Aspekt der Nachhaltigkeit bereits in der Designphase berücksichtigen», ist der Architekturprofessor Philippe Block überzeugt.
 

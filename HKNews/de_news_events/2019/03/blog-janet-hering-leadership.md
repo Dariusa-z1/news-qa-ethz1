@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2019/03/blog-janet-hering-leadership.html
 
-## Doppelkarrieren besser betreuen
+**Date processed:** 2025-05-01
+
+## Main article
 
 1985 ernannte die ETH Zürich ihre erste Professorin – 130 Jahre nach der Gründung der Hochschule. Ende 2017 belief sich der Anteil von Frauen in der Professorenschaft auf 14 Prozent. Vielleicht ist es nur ein Zufall, dass das erste formelle Verfahren zur Entlassung eines Mitglieds der Professorenschaft eine Frau betrifft. Aber vielleicht sagt uns dieser Fall etwas über die Herausforderungen, mit denen weibliche Hochschulangehörige als isolierte Minderheit an der ETH Zürich konfrontiert sind.
 
@@ -10,7 +12,7 @@ Wenn ich im Folgenden diese Herausforderungen benenne, kommt das nicht der Behau
 
 Ich möchte drei Aspekte hervorheben, die weibliche Hochschulangehörige besonders betreffen: Dual-Career-Programme, unbewusste Vorurteile und defizitäre Führungsstrukturen. Ich wähle diese Aspekte, weil die Schulleitung der ETH Zürich diese Themen nun konkret angehen wird.
 
-## Unbewusste Vorurteile minimieren
+## Doppelkarrieren besser betreuen
 
 Ich beginne mit den Doppel-Karrieren, weil das ein Schwerpunkt in der umfangreichen und fast gänzlich negativen Berichterstattung über diesen Fall war, der nun die ETH Zürich zu aussergewöhnlichen Massnahmen veranlasst hat. So wurde behauptet, dass die Anstellung der betroffenen Professorin im Rahmen eines Dual-Career-Programmes nicht auf persönlicher Qualifikation beruhte, was ihre exzellenten wissenschaftlichen Leistungen jedoch widerlegen. Dual-Career-Programme bieten Universitäten wichtige Hebel für die Rekrutierung, führen jedoch zu Herausforderungen in Sachen Governance. Die Leitung der ETH Zürich hatte im vorliegenden Fall eine Dual-Career-Einstellung beschlossen. Damit stand sie auch in der Verantwortung, Führungsfragen und Interessenkonflikte angemessen zu handhaben.
 
@@ -18,23 +20,19 @@ Dual-Career-Anstellungen werden in Zukunft sehr wahrscheinlich noch häufiger. D
 
 Geschlechterstereotype und unbewusste Vorurteile bewirken, dass Wissenschaftler auf allen Ebenen männliche und weibliche Lehrende anders behandeln. Frauen wie Männer sind von unbewussten Vorurteilen gleichermassen betroffen. 1,2 Sowohl Studentinnen als auch Studenten «nehmen ihre männlichen Professoren als ‘brillant, toll und kompetent‛ wahr, wohingegen derselbe Lehrstil bei einer Frau als ‘herrisch und unangenehm‛» 3 empfunden wird. Auch wenn sich solche Voreingenommenheit nicht völlig ausräumen lässt, ist es doch möglich, diese durch (online verfügbare) Übungen bewusst zu machen und abzuschwächen. Ein dahingehendes Training sollte eine Grundvoraussetzung für Führungspositionen an unserer Hochschule sein.
 
-## Führungsstrukturen verbessern
-
 Die ETH Zürich ist eine der internationalsten Universitäten der Welt. Die Professorinnen, Studierenden, Doktorierenden und wissenschaftlichen Mitarbeiter stammen aus über 120 verschiedenen Ländern und bringen ihre kulturellen Prägungen und Erwartungen mit. Diese Vielfalt ist für die ETH eine enorme Bereicherung, sie kann jedoch auch zu Konflikten führen, insbesondere wenn kulturbedingte Annahmen nicht ausgesprochen werden. Wirksame Methoden, um mit solchen Annahmen und Erwartungen umzugehen, sollten in die geplanten Einführungs- und Leadership-Programme einfliessen.
 
 In allen Organisationen befördern informelle Netzwerke den Austausch von Informationen und helfen bei der beruflichen Weiterentwicklung sowie bei der Bewältigung von Konflikten. Da Frauen und andere Minderheiten tendenziell von informellen Netzwerken ausgeschlossen sind, sind sie stärker auf formale Prozesse, Verfahren und Informationskanäle angewiesen. Alle Hochschulangehörigen verdienen Transparenz und Fairness bei der Vergabe von finanziellen Mitteln sowie die Chance, in Kommissionen mitzuwirken und Führungsaufgaben zu übernehmen. 4 Alle Professorinnen und Professoren sollten zudem auf die Unterstützung ihrer Kollegen zählen können, um Konflikte frühzeitig zu lösen. Dies ist nur möglich, wenn konstruktive Kritik, ehrliches Feedback und gemeinsame Verantwortung fest in der Kultur einer Institution verankert sind.
 
 Konflikte lassen sich zwar nicht völlig vermeiden, man kann jedoch sicherstellen, dass alle Parteien fair behandelt, ihre berechtigten Anliegen aufgenommen und ihr persönliches und berufliches Wohlergehen gewahrt werden. Die ETH sollte die grundlegenden Prinzipien der Good Governance in die Reglemente aller Departemente aufnehmen und sicherstellen, dass ihre Angebote zur Konfliktlösung (z. B. Ombuds- und Vertrauenspersonen) internationalen Standards entsprechen. 5
 
-## Weiterführende Informationen
-
 Die ETH Zürich hat eine lange Tradition in Forschung und Lehre im Dienst der Gesellschaft. Nun ist es an der Zeit, dass die Hochschule ihre Strukturen und Prozesse reformiert und ihre Kultur für die volle Einbindung von Frauen anpasst. 6 Dass entsprechende Massnahmen nun implementiert werden, wie ETH-Präsident Joël Mesot kürzlich darlegte, ist äusserst positiv zu bewerten. Dies wird nicht nur den Frauen und anderen Minderheiten helfen, sondern allen Angehörigen der ETH Zürich zugutekommen.
+
+## Weiterführende Informationen
 
 1 Bohnet, I. (2016) What Works: Gender Equality by Design , Cambridge, MA: Harvard University Press, 385 pp.
 
 2 Catalyst, externe Seite Unconscious Bias , accessed March 17, 2019.
-
-## Zur Autorin
 
 3 The Century Foundation, externe Seite How Student Evaluations Are Skewed against Women and Minority Professors , accessed March 17, 2019.
 
@@ -43,6 +41,8 @@ Die ETH Zürich hat eine lange Tradition in Forschung und Lehre im Dienst der Ge
 5 International Ombudsman Association, externe Seite IOA Standards of Practice & Code of Ethics , accessed March 18, 2019.
 
 6 Hering, J.G. (2018) “Women as Leaders in Academic Institutions: Personal Experience and Narrative Literature Review”, Pure & Applied Chemistry , externe Seite https://doi.org/10.1515/pac-2018-0603
+
+## Zur Autorin
 
 Janet Hering Professorin für Umweltbiogeochemie an der ETH Zürich, Direktorin der externe Seite Eawag und Vorsitzende des externe Seite Women Professors Forum
 

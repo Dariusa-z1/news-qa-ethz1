@@ -2,13 +2,9 @@
 
 **Source:** en_news_events/2017/09/data-science-series-interview-roger-wattenhofer.html
 
-## About Roger Wattenhofer
+**Date processed:** 2025-05-01
 
-- Lino Guzzella: “We have to seize this opportunity” (ETH News 20.06.2017)
-
-- Srdjan Capkun:“It’s always a compromise” (ETH News 19.07.2017)
-
-- Joachim Buhmann: “Medicine is becoming model-driven” (ETH News 28.08.2017)
+## Main article
 
 ETH News: You expressed reservations when blockchain was mentioned as the topic for this interview. Why is that? Roger Wattenhofer: The topic is exciting, but there is a bit too much hype surrounding the term “blockchain”. I get questions about it every day, from all directions – from the media, private individuals, and companies. I’ve never been a more popular professor (smiling).
 
@@ -28,8 +24,6 @@ It sounds to me like it still isn’t suitable for everyone and everything. Who 
 
 How will the system continue to evolve? Bitcoin and other cryptocurrencies will certainly become more important. Bitcoin is a highly decentralised, unregulated form of cryptocurrency. The value of a bitcoin isn’t influenced by a national bank, but rather only by the market and by the users’ trust in their currency. Bitcoin doesn’t care about inflation or the unemployment rate. National banks attempt to control inflation through monetary policy. Bitcoin and other cryptocurrencies are still niche products. If they were actually that important, national banks would have to formulate some kind of response.
 
-## Data in the spotlight
-
 What’s the alternative? I’m convinced that national banks will issue their own cryptocurrencies, such as an electronic British pound. Electronic Swiss francs probably won’t be available any time soon. I have the impression that the Swiss National Bank is a bit conservative – even though there would be plenty of expertise to draw on here. At ETH Zurich, for example, there are several professors who are well-versed in the topic. Recently, ETH Zurich was even named the top research institution on blockchain technology. In the future, electronic Swiss francs might make it possible to create contracts that are purely digital. That would simplify, speed up, and improve many legal concepts, because mathematical expressions are more precise than verbal ones. The next generation of lawyers should learn how to program (smiles).
 
 So do we still need bankers? Their profession will transform too. Personally, I think that digitalisation will transform many professions in the future; many jobs will become superfluous. Jobs will disappear wherever machines can do the work better than people. The blockchain is only one of many different aspects of this digitalisation process. I’m interested in how society will function when in the future, only a third of the population are employed.
@@ -42,7 +36,11 @@ For you, what’s on the horizon for digitalisation? The wave is probably alread
 
 Aren’t these simply vague fears? I don’t think so. There is some evidence. One example is the labour share , which measures the ratio of labour cost to sales, a ratio that has been falling for 25 years. Another example is unemployment. After all, the official unemployment rate does not measure actual unemployment, but rather “new” unemployment. An alternative metric is what is referred to as the labour force participation rate , which represents the number of working-age people currently in a paid occupation. In Switzerland, this rate is high and very stable. Yet it’s dropping around the world, albeit slowly – but it’s been happening continuously, also for the last 25 years! There are many reasons for this, including increasing life expectancy. However, I believe that falling labour share and labour force participation rate are at least partially due to digitalisation.
 
+## About Roger Wattenhofer
+
 Roger Wattenhofer (1969) has been a Professor of Distributed Computing at the Department of Information Technology and Electrical Engineering at ETH Zurich since 2001. He began to take an interest in bitcoin and blockchain around five years ago, and has published a book on the topic entitled Distributed Ledger Technology .
+
+## Data in the spotlight
 
 Data is playing an increasingly important role in our society, and is an issue on which ETH Zurich will focus more closely in the coming years. In a series of interviews, ETH News asks researchers at ETH Zurich about the specific topics they are focussed on, and how they see societal development in their field.
 

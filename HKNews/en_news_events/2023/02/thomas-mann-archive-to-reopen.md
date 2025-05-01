@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2023/02/thomas-mann-archive-to-reopen.html
 
+**Date processed:** 2025-05-01
+
 ## Zurich, June 1955
 
 The Thomas Mann Archive is set to reopen this evening, with two exhibitions that raise awareness of history and promote sensitivity towards the present. The permanent exhibition “The Furnishings of a Writer. Thomas Mann and his study” has been fully redesigned, and the temporary exhibition “Thomas Mann. Europe beware!” is timely and highly topical.
@@ -17,8 +19,6 @@ After being housed in the Bodmer House for many years and spending around six ye
 Thomas Mann held a radio address on the tenth anniversary of Adolf Hitler’s seizure of power. “European listeners!” he addressed his audience before expounding on his remarkable view of Europe as a community that transcends (at times warring) nation-states:
 
 “I speak to you as one of you, as a German who has always considered himself a European, who knew your countries and cultures, France, Italy, Holland, Scandinavia, and who was deeply convinced that the political and economic conditions of Europe were outdated; the division into arbitrarily bordered states and sovereignties that has brought about the misfortunate of the continent.” (From: Thomas Mann, Gesammelte Werke in dreizehn Bänden , Vol. XIII, Frankfurt am Main 1974, p. 749)
-
-## Munich, late 1920s
 
 The temporary exhibition “Thomas Mann. Europe beware!”, which runs until early August 2023, shines a spotlight on Mann’s noteworthy commitment to the European project. Europe was a lifelong interest of Mann’s, both as a cultural space and a political project. In a video installation, authors Laura de Weck, Dana Grigorcea, Usama Al Shahmani and Michail Schischkin speak about the significance of Mann’s ideas to the Europe of today, which is once again struggling to find cohesion in the face of the war in Ukraine.
 

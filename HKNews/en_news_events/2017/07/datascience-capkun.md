@@ -2,9 +2,9 @@
 
 **Source:** en_news_events/2017/07/datascience-capkun.html
 
-## About Srdjan Capkun
+**Date processed:** 2025-05-01
 
-- Lino Guzzella: “We have to seize this opportunity” (ETH News 20.06.2017)
+## Main article
 
 Professor Capkun, you recently said in an interview: “A little paranoia doesn’t hurt when it comes to IT security.” How paranoid should we be, ideally? With regard to IT security, it’s a good idea to stay wary and constantly question the technology. But then the question arises, what do you do about it? You can only have full security by giving up some benefits, so you have to find the right balance between function and security.
 
@@ -22,8 +22,6 @@ A few months ago, several hospitals – particularly in England – were attacke
 
 So you have to compromise? You can see how complex the situation is when you run a risk assessment. For example, how dangerous is it when a CT scan lands in the wrong hands? This depends, among other things, on how healthcare is regulated. Again, protecting a hospital from hacker attacks might be a technical task, but that’s not all it is.
 
-## Data in the spotlight
-
 Another topic that has attracted a lot of attention recently is the question of whether cyberattacks have the ability to undermine our democracy. What is your assessment of the situation? The problem isn’t just that elections can be manipulated; there is also the risk that people could lose trust in democratic processes. Swiss e-voting system is currently being developed by the Swiss Post. One can demonstrate that this system is cryptographically secure, but what does someone who isn’t familiar with cryptology do with that information? How do you convince people that there isn’t something fishy going on when they vote? It’s an exciting topic that I’m thinking about a lot at the moment.
 
 ETH recently hosted the Cyber Risks Summit, which was organised by the Zurich Information Security and Privacy Center (ZISC). What were your conclusions? I’m happy that the issue is resonating with so many people. The event also showed that not only is research in this area strong at ETH, but also that education in this area has tangible impact - many of our students are founding their own companies. This makes us proud, since it shows that ETH is doing a lot right in this domain.
@@ -32,7 +30,11 @@ How will the ZISC develop over the coming years? We want to expand the Center. W
 
 So research at the ZISC is becoming more focussed on concrete problems? Not just that. We’re also conducting fundamental research by working on things out of curiosity, without knowing in advance whether they will work. This aspect is very important to us.
 
+## About Srdjan Capkun
+
 Srdjan Capkun is Professor for Information Security and Director of the Zurich Information Security Center (ZISC) at ETH Zurich. His research focusses on the design and analysis of security protocols for radio and fixed networks.
+
+## Data in the spotlight
 
 Data is playing an increasingly important role in our society, and is an issue on which ETH Zurich will focus more closely in the coming years. In a series of interviews, ETH News asks researchers at ETH Zurich about the specific topics they are focussed on, and how they see societal development in their field.
 

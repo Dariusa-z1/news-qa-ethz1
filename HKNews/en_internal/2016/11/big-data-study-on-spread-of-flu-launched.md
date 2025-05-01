@@ -2,7 +2,9 @@
 
 **Source:** en_internal/2016/11/big-data-study-on-spread-of-flu-launched.html
 
-## Main article
+**Date processed:** 2025-05-01
+
+## How do people react to information about flu?
 
 How does flu spread and to what extent can individual behaviour stop it in its tracks?
 
@@ -15,6 +17,8 @@ Participants register for the study by entering their postal code and an email a
 The aim of the study is to better understand the complex interaction between the spread of disease, the information made available to the general public, and behavioural responses. The knowledge of these relationships will help combat the spread of diseases more effectively in future.
 
 Dirk Helbing (D-GESS)
+
+## Any questions about the study?
 
 Dirk Helbing, study leader and Professor of Computational Social Science, will be happy to answer any questions you may have. You can call him on +41 44 632 88 80 or an email .
 

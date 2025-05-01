@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2023/10/molekularbiologe-tim-richmond-erhaelt-hochdotierten-wla-preis.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Die World Laureates Association Prize (WLA Prize) hat am 14. September an einer Pressekonferenz in Shanghai die Preisträger für 2023 bekannt gegeben. In diesem Jahr werden insgesamt fünf herausragende Wissenschaftlerinnen und Wissenschaftler mit den beiden Einzelpreisen des Preises geehrt: dem WLA Prize in Computer Science or Mathematics und dem WLA Prize in Life Sciences or Medicine.

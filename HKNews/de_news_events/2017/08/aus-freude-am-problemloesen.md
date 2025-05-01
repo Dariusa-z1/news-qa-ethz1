@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2017/08/aus-freude-am-problemloesen.html
 
+**Date processed:** 2025-05-01
+
 ## Eine neue «Forschungskultur» kennenlernen
 
 Was braucht es, damit maschinell lernende Computer auch mehr- oder vieldeutige Wörter verstehen können? Wie lassen sich sehr komplexe Aussagen in einfache zerlegen, so dass man sie besser verschlüsseln und am Computer sicher austauschen kann?
@@ -11,8 +13,6 @@ Das sind die Fragen, mit denen sich die Kanadierin Katherine Bancroft und die Ch
 Beide haben vom ETH-Informatikdepartement eine «Student Summer Research Fellowship» erhalten. Dieses Förderstipendium gibt Informatikstudierenden aus aller Welt die Chance, im «IT-Biotop Zürich» zwei Monate lang Forschungserfahrung zu sammeln und etwas Neues auszuprobieren. Über 1200 Studierende haben sich für dieses erstmals vergebene, vom Rektorat mit Mitteln der Huber-Kudlich-Stiftung unterstützte Programm beworben. 15 von ihnen haben es geschafft.
 
 Die Interessen von Bancroft und Liu spiegeln die Breite der Informatik, die seit ihren Anfängen eine mathematische Seite mit einer technischen verbindet: Liu fühlt sich stärker zu der theoretischen Informatik hingezogen. Nach dem Schulabschluss in Peking zog sie in die USA, wo sie seither an der Universität von Kalifornien in Berkeley Computerwissenschaften studiert. In Zürich will sie beim Kryptografie-Experten Ueli Maurer ihr Wissen über Informationssicherheit und Verschlüsselungstheorie erweitern und eine neue «Forschungskultur» kennenlernen.
-
-## Weg nicht vorgezeichnet
 
 Bancroft ihrerseits ist froh, dass ihr Projekt eher experimentell als theoretisch ausgerichtet ist: «Ich möchte hier handfeste Forschungserfahrung sammeln», sagt sie. Bancroft studiert Computer Engineering an der Universität Toronto.
 
@@ -41,8 +41,6 @@ Neben ihrer Projektarbeit treffen sich die beiden Studentinnen auch regelmässig
 Forschungsnahes und projektorientiertes Lernen sind Teil einer Strategie, mit der die ETH Zürich Studierende aus aller Welt sowohl zu hervorragenden Fachleute ausbilden will als auch zu kritischen Mitgliedern ihrer Gesellschaft, die Verantwortung übernehmen.
 
 Dass sich Studierende wie Liu und Bancroft damit auseinandersetzen, wie sich Wissenschaft und Technologie auf die Gesellschaft auswirken, zeigten sie an einem Workshop Mitte August. Eingeladen von den Projektverantwortlichen der beiden Programme, Minh Tran (Departement Informatik) und Nicole Tobler (ETH-Mobilitätsstelle), diskutierten sie die Frage, welchen gesellschaftlichen Megatrends sich die Hochschulen in Zukunft stellen müssten und wie die Universität der Zukunft ganz unabhängig von möglichen Trends aussehen könnte.
-
-## Critical Thinking und Steuerung von Forschung
 
 Aus der Sicht der Studierenden sind Universitäten vor allem im Zusammenhang mit der weltweiten Nutzung und Verteilung von Ressourcen gefordert, da sie mit Wissen und Technologien zur Lösung der damit verbundenen Gerechtigkeits-, Entwicklungs-, Umwelt- und Migrationsphänomene beitragen können.
 

@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2016/06/die-sammlung-sternwarte-auf-e-pics.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Hier finden Sie zu jedem Objekt mehrere digitale Bilder, 360° Darstellungen und inhaltliche Informationen. Die Bilder können zudem frei heruntergeladen werden.

@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2015/11/ice-skating-on-the-polyterrasse.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Zurich's most beautifully situated ice rink with views of the city centre will be open for four weeks from Saturday. ETH Zurich invites staff, students and local residents to enjoy skating and refreshments at the ice rink on the Polyterrasse from 21 November to 18 December 2015. Ice skates are available to hire for six francs.

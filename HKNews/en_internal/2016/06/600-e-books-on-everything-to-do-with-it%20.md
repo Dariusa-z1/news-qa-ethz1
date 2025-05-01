@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2016/06/600-e-books-on-everything-to-do-with-it%20.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 The Herdt Campus All-you-can-read range offers members of ETH Zurich free access to the latest software handbooks.

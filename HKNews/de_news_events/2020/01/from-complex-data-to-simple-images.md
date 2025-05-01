@@ -2,31 +2,27 @@
 
 **Source:** de_news_events/2020/01/from-complex-data-to-simple-images.html
 
-## Merkmale von Daten einfach darstellen
+**Date processed:** 2025-05-01
+
+## Main article
 
 Auf der Bühne fühlt sich Mariëlle von Kooten wohl, das wird schon nach den ersten paar Sekunden ihres Auftritts am Falling Walls Lab klar. Sie wirkt selbstsicher und schäkert mit dem Publikum – das passt auch zum Projekt, das sie dort vorstellt. Die ETH-Systembiologin will etwas sexy machen, das eigentlich komplett unsexy ist: die Auswertung von riesigen Mengen komplexer Daten aus der Genetik und der Medizin. Damit will sie helfen, die Früherkennung, Prävention und Behandlung von Krankheiten zu verbessern.
 
 Dazu hat sich van Kooten während ihrer Doktorarbeit in der Forschungsgruppe von Beat Christen an der ETH Zürich eine App namens SciSwipe ausgedacht. Diese macht aus komplexen genetischen Daten einfache Bilder, mit denen auch Laien etwas anfangen können – van Kooten nennt die Bilder «Swipeable Images». Also Bilder, die sich Nutzerinnen und Nutzer beispielsweise auf dem Smartphone anschauen und spielerisch per Wischbewegung kategorisieren können. Nach dem Motto: Yep oder Nep – ganz so wie bei einer Dating-App.
 
-## Die Regeln des Erbguts
-
 Ihren Ansatz hat van Kooten am 8. November 2019 am Falling Walls Lab in Berlin vorgestellt – ein internationaler Wettbewerb, an dem die Kandidaten ihre Forschungsarbeit einer Jury von Experten aus unterschiedlichen Fachgebieten erklären, und zwar mit nur zwei Folien in nur drei Minuten. Vor dem Finale in Berlin gab es an 90 Standorten weltweit Vorausscheidungen, in der Schweiz fanden sie an der Startup Night in Winterthur statt. Am Finale waren dann 100 Nachwuchswissenschaftlerinnen und -wissenschaftler aus 63 Ländern im Rennen. Van Kooten eroberte den zweiten Platz.
 
-Jetzt sitzt die 32-jährige Niederländerin an ihrem Pult im Labor auf dem Hönggerberg und kann ihren Erfolg noch gar nicht fassen. «Mir ist nicht klar, wie ich die Jury überzeugt habe», sagt sie. Aber es müsse mit der Relevanz ihrer Idee zu tun haben. Denn wie man sinnvolle und nutzbare Informationen aus riesigen Mengen medizinischer Daten gewinnen kann, ist zurzeit eine der drängendsten Herausforderungen der künftigen, digitalen Medizin.
+## Merkmale von Daten einfach darstellen
 
-## Die Ordnung im Sturm
+Jetzt sitzt die 32-jährige Niederländerin an ihrem Pult im Labor auf dem Hönggerberg und kann ihren Erfolg noch gar nicht fassen. «Mir ist nicht klar, wie ich die Jury überzeugt habe», sagt sie. Aber es müsse mit der Relevanz ihrer Idee zu tun haben. Denn wie man sinnvolle und nutzbare Informationen aus riesigen Mengen medizinischer Daten gewinnen kann, ist zurzeit eine der drängendsten Herausforderungen der künftigen, digitalen Medizin.
 
 Dabei setzen Forschende grosse Hoffnungen in künstliche Intelligenz. Diese soll helfen, nützliche Informationen für die Erkennung, Prävention und Behandlung von Erkrankungen aus den Daten herauszufiltern. Doch damit ein solcher Algorithmus lernen kann, aus RNA-Sequenzen Risiken für bestimmte Krankheiten herauszulesen, muss er wissen, wonach er sucht. Und dazu braucht er zunächst eine grosse Menge von Trainingsdaten, die bereits gekennzeichnet sind – also Daten, die eine Art Etikett tragen, das sagt, was an bestimmten Sequenzen besonders ist. Kurz: Die künstliche Intelligenz braucht menschlichen Input, und zwar in rauen Mengen.
 
 «Darum gibt es inzwischen so viele Citizen-Science-Projekte», sagt van Kooten, «und darum bieten IT-Firmen wie Google oder Amazon einen Labeling-Service an, bei dem ihre Mitarbeitenden Daten kategorisieren.» Das gehe aber nur mit Daten, in denen auch Laien etwas erkennen können, erklärt van Kooten. Sollen aber beispielsweise genetische Daten oder Röntgen- und MRI-Bilder kategorisiert werden, funktioniert das nicht mehr.
 
-## Offene Zukunft
-
 Genau hier setzt die SciSwipe-App an, indem sie solche Daten in einfache Bilder übersetzt. «So können auch Personen, die keine naturwissenschaftliche oder medizinische Ausbildung haben, die Daten zuordnen», erklärt van Kooten. Als einen ersten Schritt hat die Systembiologin zusammen mit dem Computerwissenschaftler Anton Pols einen Algorithmus entwickelt, der Ergebnisse einer modernen RNA-Sequenzierung als einfache Kurven darstellt. Diese Kurven zeigen die Verteilung verschiedener RNA-Stücke und machen damit sichtbar, ob beim Übertragen des Erbmaterials in RNA oder bei der Verarbeitung der entstehenden RNA etwas anderes passiert ist als bei anderen Erbmaterial-Proben. Denn solche Änderungen können auf ein erhöhtes Krankheitsrisiko hinweisen, etwa ein höheres Risiko für eine bestimmte Krebsart. Das brauchen die Nutzer der SciSwipe-App allerdings nicht zu wissen – sie können einfach die Formen der Kurven vergleichen und die Daten auf diese Weise kennzeichnen. So schaffen sie die Voraussetzung dafür, dass ein genetisch bedingtes Krankheitsrisiko künftig bei Hunderttausenden Menschen frühzeitig erkannt werden kann.
 
 Das SciSwipe-Projekt ist nur ein kleiner Teil der Doktorarbeit von Mariëlle van Kooten, den sie unabhängig weiterführt. Hauptsächlich erforscht sie, wie in Zellen das Auslesen von DNA und die Herstellung von Proteinen reguliert wird. «Das Ganze ist sehr komplex, weil dafür ein paar übereinander liegende Regulierungsebenen zusammenspielen», erklärt van Kooten. Etwa während der Überschreibung der DNA in RNA, bei der Regulierung der Lebenszeit der RNA oder bei der Übersetzung der RNA in Proteine. Van Kootens Ziel ist es, die übergeordneten Regeln zu lernen, nach denen diese Regulierung sowohl in Bakterien wie auch in pflanzlichen und tierischen Zellen funktioniert. Denn: «Nur wenn man die Regeln kennt, kann man nach ihnen spielen», sagt die Systembiologin. Dann werde es denkbar, Gensequenzen im Labor neu zu konstruieren, sodass diese genauso funktionieren, wie man sich das wünscht. Womöglich lassen sich auf diese Weise in Zukunft synthetische DNA-Bausteine für neuartige biologische Systeme mit eigens entworfenen, nützlichen Eigenschaften entwickeln.
-
-## Auch in der Wissenschaft sollen Mauern fallen
 
 Derzeit ist die ETH-Systembiologin mit der Auswertung ihrer Experimente am Computer beschäftigt. Ihr Platz sieht indessen nicht so aus, als ob da gearbeitet würde: Die Fläche vor dem Computer ist frei, nichts liegt herum, die paar Hefte und Mäppchen sind akkurat gestapelt. Der Platz wirkt fast so steril wie von Kootens Laborbank nebenan «Gerade wenn viel läuft, habe ich es gerne ordentlich», sagt van Kooten und wirft einen Seitenblick auf den chaotischen Arbeitsplatz ihres Nachbarn und Mitdoktoranden. Bei van Kooten läuft tatsächlich viel. Tagsüber forscht sie für ihre Doktorarbeit, abends und am Wochenende arbeitet sie an der SciSwipe-App. Zudem ist sie zurzeit dabei, zusammen mit ihrem Kollegen Anton Pols eine Firma für SciSwipe zu gründen.
 
@@ -35,6 +31,8 @@ Bleibt da noch Zeit für etwas anderes, Hobbys zum Beispiel? «Diese Frage nach 
 Die SciSwipe-App, entwickelt sie derweil laufend weiter. Als nächstes nimmt sie sich die Vereinfachung von Bilddaten vor, wie MRI- und Computertomographie-Bilder. «Hier müssen wir uns etwas Neues überlegen, um die Bilder so umzuwandeln, dass sie auch von Laien interpretiert werden können», sagt die Systembiologin. Sie hat eine Idee, will aber noch nichts Genaues verraten. Sobald SciSwipe mit vier unterschiedlichen Arten von Daten umgehen kann, soll es eine Beta-Version der App für die breite Öffentlichkeit geben.
 
 Zurzeit würden ihre verschiedenen Aktivitäten nebeneinander hergehen, sagt van Kooten, ihre Doktorarbeit, die Weiterentwicklung ihrer App und der Aufbau des Start-ups. Sie muss sich noch nicht für das eine oder andere entscheiden und ist froh drum. Denn um sich bereits jetzt auf eine Richtung festzulegen, dafür findet sie die verschiedenen Möglichkeiten zu spannend.
+
+## Auch in der Wissenschaft sollen Mauern fallen
 
 externe Seite Das Falling Walls Lab ist Teil der wichtigen Falling Walls Konferenz in Berlin, die jedes Jahr am 9. November stattfindet, am Jahrestag des Falls der Berliner Mauer. Darauf beruft sich die Konferenz, weil sie dabei mithelfen will, auch in der Wissenschaft weitere Mauern zerbröckeln zu lassen und den Wissenshorizont und die Grenzen des Machbaren zu erweitern. Teil des Events sind neben dem Lab beispielweise das Falling Walls Venture, an dem sich Forschungs-Start-ups aus der ganzen Welt vorstellen oder der Falling Walls Circle, der 50 geladene Führungspersonen von Forschungsorganisationen und Firmen zusammenbringt.
 

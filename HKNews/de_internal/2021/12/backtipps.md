@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2021/12/backtipps.html
 
+**Date processed:** 2025-05-01
+
 ## Beehives
 
 Wenn es um den Namen dieses Gebäcks geht, gibt es zwei Lager. Kristýna Kantnerová gehört ganz klar zur «Beehives»-Seite.
@@ -14,8 +16,6 @@ Die Löffelbiskuits zerdrücken und alle Zutaten zusammenmischen, bis ein Teig e
 
 Füllung 150 g weiche Butter 100 g Puderzucker 1 Packung Vanillezucker 1 Eigelb 2 Esslöffel Rum
 
-## Nanny’s Ricotta Cookies
-
 Alle Zutaten mit dem Mixer verrühren.
 
 Weitere Zutaten Puderzucker zum Bestäuben der Form Löffelbiskuits
@@ -24,9 +24,9 @@ Die Innenseite der Form (ich hoffe, Sie wissen jetzt, welche die richtige ist...
 
 Wenn Sie keine Form haben, können Sie von Hand eine kleine Halbkugel formen und dann die oben beschriebenen Schritte befolgen. Mit dem Zeigefinger ein Loch im Boden machen und die Füllung hineingeben. Das Loch mit einem Löffelbiskuit oder einem anderen Biskuit oder auch ein bisschen Teig verschliessen. Seien Sie kreativ!
 
-Hier kommt ein ganz einfaches Rezept aus meiner Kindheit. Es stammt von meiner Grossmutter – von uns liebevoll «Nanny» genannt. Der Duft dieser Cookies versetzt mich zurück in meine Kindertage. Ich habe ihr oft dabei zugeschaut, wie sie hunderte dieser Kekse backte. Sie sind leicht, lecker und man kann gar nicht anders, als sie zu geniessen. Jedes Jahr zu Weihnachten setze ich die Tradition dieser Cookies fort und backe sie unter den wachsamen Augen von Nannys Foto.
+## Nanny’s Ricotta Cookies
 
-## Cozonac
+Hier kommt ein ganz einfaches Rezept aus meiner Kindheit. Es stammt von meiner Grossmutter – von uns liebevoll «Nanny» genannt. Der Duft dieser Cookies versetzt mich zurück in meine Kindertage. Ich habe ihr oft dabei zugeschaut, wie sie hunderte dieser Kekse backte. Sie sind leicht, lecker und man kann gar nicht anders, als sie zu geniessen. Jedes Jahr zu Weihnachten setze ich die Tradition dieser Cookies fort und backe sie unter den wachsamen Augen von Nannys Foto.
 
 Meine Grossmutter Evelyn wurde in Italien, in Avellino, geboren und ging in die USA, als sie noch sehr jung war. Wo der Ursprung dieses Rezepts tatsächlich liegt, weiss man nicht, aber vermutlich stammt es noch aus der Zeit in Avellino und sie hat es von ihrer Mutter gelernt.
 
@@ -36,9 +36,9 @@ Das Rezept ist ganz einfach und eignet sich perfekt für einen Familienbackspass
 
 Mehl, Salz und Backpulver in einer Schüssel vermengen. Den Ricotta und die Butter in einer separaten Schüssel miteinander verrühren. Die Vanille hinzufügen und gut mischen. Den Zucker vorsichtig unterheben. Das Ei unterrühren, danach schrittweise die Mischung aus Mehl, Backpulver und Salz hinzugeben. Gründlich mischen, bis ein Teig entsteht. Der Teig ist dann noch feucht und klebt ein bisschen. Mit einem kleinen Löffel ca. 15 g Teig auf ein eingefettetes Backblech oder eine Backmatte geben. Da die Cookies ihre Form beim Backen annehmen, müssen sie nicht extra geformt werden. 9 bis 10 Minuten bei 180° C backen. Nach dem Abkühlen mit Puderzucker bestäuben. Zurücklehnen, entspannen und geniessen!
 
-«Egal, wie satt man nach dem Weihnachtsessen ist: Für ein bisschen Cozonac ist immer noch Platz!» Silvana Albert mit ihrem frisch gebackenen Weihnachts-Hefegebäck.
+## Cozonac
 
-## Staffnet
+«Egal, wie satt man nach dem Weihnachtsessen ist: Für ein bisschen Cozonac ist immer noch Platz!» Silvana Albert mit ihrem frisch gebackenen Weihnachts-Hefegebäck.
 
 Cozonac (Plural Cozonaci) ist unser traditionsreichstes Weihnachtsgebäck und kommt buchstäblich in jedem rumänischen Haushalt an Weihnachten und auch an Ostern auf den Tisch. Schon meine Grossmutter hat meiner Mutter beigebracht, wie man ihn macht, meine Mutter hat es mir beigebracht und ich werde es meiner Tochter beibringen (sie ist erst drei Jahre alt). So besteht die Tradition fort, wie schon seit hunderten von Jahren. Auch wenn ich seit zwei Jahren in der Schweiz lebe, mache ich zu Ostern und Weihnachten immer einen Cozonac.
 
@@ -49,8 +49,6 @@ Alle Zutaten mindestens eine Stunde vorher aus dem Kühlschrank nehmen und bei R
 Zutaten für ein süsses Hefebrot Für eine Brotbackform mit den Massen: L = 28 cm, W = 8–13 cm (trapezförmig), H = 8 cm
 
 Teig 500 g hochwertiges Mehl 100 ml lauwarme Milch 2 Esslöffel Vollfettjoghurt 1 Esslöffel Vollrahm 100 g Zucker 100 g Butter 10 g Trockenhefe 1 Ei Abgeriebene Schale einer Zitrone oder Orange eine Prise Salz
-
-## Newsletter abonnieren
 
 Füllung 250 g gemahlene Baumnüsse 100 g Puderzucker 1 Teelöffel Kakao 1 Teelöffel Rum-Aroma
 

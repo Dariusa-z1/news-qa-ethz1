@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2023/07/wie-es-ki-modelle-schaffen-sich-selbst-neue-dinge-beizubringen.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Trotz ihres enormen Erfolges bleibt das Innenleben grosser Sprachmodelle wie der GPT-Modellfamilie von OpenAI und Google Bard ein Geheimnis, selbst für ihre Entwickler. Forscher der ETH und von Google haben nun einen möglichen Schlüsselmechanismus aufgedeckt, der sie befähigt, im laufenden Betrieb zu lernen und ihre Antworten auf der Grundlage von Interaktionen mit ihren Nutzern zu verfeinern. Johannes von Oswald ist Doktorand in der Gruppe von Angelika Steger, ETH-Professorin für Theoretische Informatik, und untersucht Lernalgorithmen für neuronale Netze. Sein neues externe Seite Paper wird Ende Juli an der International Conference on Machine Learning (ICML) vorgestellt.
@@ -25,6 +27,8 @@ GPT-3, das Modell hinter ChatGPT, hat 175 Milliarden Parameter. Wie kann man ein
 Wie sieht das System aus, das Sie in Ihrer Arbeit verwendet haben? Der von uns verwendete Transformer ist fast identisch mit der weit verbreiteten Transformer-Architektur. Anstatt unser System mit grossen Textmengen aus dem Internet zu trainieren, haben wir es mit Beispielen eines einfachen Problems trainiert, der linearen Regression. Da dieses Problem und seine Lösung sehr gut bekannt sind, konnten wir diese Lösung mit dem vergleichen, was wir im Transformer beobachtet haben. So konnten wir nachweisen, dass der Transformer einen sehr bekannten und leistungsstarken Lernalgorithmus namens «Gradient Descent» in sich selbst implementiert.
 
 Könnte es auch sein, dass Verhaltensweisen auftauchen, die für die Informatik völlig neu sind? Das könnte passieren. In unserem Fall hat der Transformer nicht einfach «Gradient Descent» gelernt und durchgeführt, sondern eine verbesserte Version davon. Jetzt haben zwei unabhängige Studien des MIT und der UC Berkeley den Algorithmus analysiert, den der Transformer gelernt hat. Ein langfristiges Ziel solcher Forschung könnte auch sein, festzustellen, ob Transformer-Algorithmen entdecken oder sogar Theoreme beweisen und Mathematik entwickeln können, die wir noch nicht kennen. Das wäre ein Meilenstein und wirklich bahnbrechend.
+
+## Literaturhinweis
 
 von Oswald J, Niklasson E, Randazzo E, Sacramento J, Mordvintsev A, Zhmoginov A, Vladymyrov M: Transformers learn in-context by gradient descent. Conference Paper International Conference on Machine Learning (ICML), July 2023, doi: externe Seite 10.48550/arXiv.2212.07677
 

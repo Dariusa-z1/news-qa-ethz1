@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2018/04/ernst-hafen-midata.html
 
-## Midata zeigt den Weg
+**Date processed:** 2025-05-01
+
+## Main article
 
 Im Zuge der Digitalisierung werden persönliche Daten zur gesuchten Ressource. Das Zusammenführen solcher Daten und die Analyse von Datensammlungen versprechen neue Zugänge für die medizinische Forschung. So können Smartphones und Sensoren (beispielsweise zur Messung des Blutzuckers oder des Blutdrucks) Real-Life-Daten liefern für Gesundheitsprävention, Therapie und Forschung.
 
@@ -10,15 +12,15 @@ Es ist zentral, dass das Zusammenführen solcher Daten bei den Bürgerinnen und 
 
 Ausserdem ist es Zeit, dass die Bürgerinnen und Bürger die Kontrolle über ihre persönlichen Daten zurückgewinnen. Wie auch der jüngste Skandal von Facebook und Cambridge Analytica zeigt, haben wir uns in die Abhängigkeit von Anbietern von vermeintlichen Gratisdienstleistungen gestellt, die wir mit unseren Daten bezahlen. Die Kontrolle über unsere Daten haben wir weitgehend verloren.
 
-## Beim Pollen-Allergie-Mapping mitmachen
-
 Aus dieser digitalen Abhängigkeit gibt es jedoch einen Weg. Daten sind nämlich kopierbar. Im kommenden Monat wird die Europäische Datenschutzgrundverordnung in Kraft treten. Dank dem Artikel zur Datenportabilität wird jede Firma verpflichtet, Bürgern eine digitale Kopie der personenbezogenen Daten auszuhändigen. Bürgerinnen und Bürgern kommt damit eine neue Macht zu. Jede und jeder wird souverän entscheiden können, ob und mit wem er oder sie Daten teilt, und wozu sie verwendet werden dürfen.
+
+## Midata zeigt den Weg
 
 Vor drei Jahren gründete ich zusammen mit anderen Wissenschaftlern die Nonprofit-Genossenschaft externe Seite Midata . Sie betreibt eine Datenplattform, agiert als Treuhänderin der Datensammlung und garantiert die Souveränität der Bürgerinnen und Bürger über die Verwendung ihrer Daten (auch in anonymisierter Form).
 
 Bürgerinnen und Bürger können auf der Plattform ihre Gesundheitsdaten sammeln und verschiedene Datendienstleistungen nutzen. Freiwillig könnten sie Forschungsprojekten den Zugang zu ihren Datensätzen geben, und sie beteiligen sich damit als «Citizen Scientists» aktiv an der medizinischen Forschung. Als Genossenschaftsmitglieder tragen die Nutzerinnen und Nutzer ausserdem zur Kontrolle und Entwicklung der Genossenschaft bei, wobei zur Kontrolle der datenethischen Qualität der Dienstleistungen und angebundenen Projekte auch eine genossenschaftsinterne Ethikkommission existiert.
 
-## Zum Autor
+## Beim Pollen-Allergie-Mapping mitmachen
 
 Midata und das gewählte Genossenschaftsmodell zeigt den Weg, wie Daten für das Gemeinwohl genutzt und gleichzeitig die Ansprüche der Bürgerinnen und Bürger auf Souveränität über ihre personenbezogenen Daten gewahrt werden können. Das demokratische Ein-Mitglied-eine-Stimme-Prinzip der Genossenschaft eignet sich hervorragend für die Verwaltung personenbezogener Daten. Denn solche Daten gehören zu den wenigen Werten, die auf der Welt gleichmässig verteilt sind. Ausserdem liegt der Wert von Daten nicht im Datensatz einer einzelnen Personen, sondern in der Aggregation von vielen Datensätzen. Dieser Wert sollte nicht wie bis jetzt nur grossen multinationalen Konzernen, sondern vor allem der Gesellschaft zu Gute kommen, was mit dem Nonprofit-Genossenschaftsmodell möglich ist.
 
@@ -27,6 +29,8 @@ Die von Midata genutzte Datenplattform wurde von der ETH Zürich und der Berner 
 In dieser Woche lanciert Midata mit externe Seite Ally Science ein Projekt, das sich an Pollenallergiker und -allergikerinnen in der ganzen Schweiz richtet. Ally Science wurde in Partnerschaft mit der Abteilung Allergologie der Dermatologischen Klinik des Universitätsspitals Zürich (USZ) entwickelt und zielt an, ein umfassendes Pollenallergie-Mapping der Schweiz zu erstellen.
 
 An der Studie interessierte Teilnehmer und Teilnehmerinnen laden die Ally-Science-App herunter ( externe Seite iOS App Store , externe Seite Google Play ). Sie stimmen den Nutzungsbedingungen der Midata-Plattform, auf der ihre Daten gespeichert werden, zu und sie willigen ein, dass die via die App erfassten Daten in anonymisierter Form an die Allergologie-Station des USZ übermittelt werden. Das USZ wird die Daten wissenschaftlich auswerten und Erkenntnisse bezüglich Häufigkeit, Intensität und den primären Einflussfaktoren (Wetter, Feinstaub etc.) gewinnen. Es ist zu hoffen, dass sich auch möglichst viele Leserinnen und Leser dieses Beitrags an der Studie beteiligen werden.
+
+## Zum Autor
 
 Ernst Hafen Professor am Institut für Molekulare Systembiologie
 

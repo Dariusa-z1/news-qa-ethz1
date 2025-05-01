@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2020/07/portraet-olga-fink.html
 
+**Date processed:** 2025-05-01
+
 ## Lernen von Ausnahmefällen
 
 Wie prognostiziert man etwas, das man noch nie (oder sehr selten) beobachtet hat? Wie macht man die Ergebnisse von Algorithmen der künstlichen Intelligenz interpretierbar für Experten? Wie unterstützt man Experten in ihren Entscheidungen, wenn die Algorithmen etwas detektiert haben? Diesen Fragen geht Olga Fink in ihrer Forschung nach. Die 37-jährige ist Professorin für Intelligente Instandhaltungssysteme an der ETH Zürich.
@@ -10,15 +12,11 @@ Mit ihrer Forschungsgruppe entwickelt sie Algorithmen der künstlichen Intellige
 
 Normalerweise lernen Algorithmen aus Beispielen. Sie benötigen möglichst viele Daten, um Muster zu erlernen und auf neue Daten zu übertagen. Bei seltenen Ereignissen wie Ausfällen von sicherheitskritischen Anlagen, fehlen solche Beispiele. «Solche Anlagen sind so ausgelegt, dass sie nur selten ausfallen. Es würde zum Teil Jahrzehnte dauern, um genügend Bespiele zu sammeln, von denen man lernen kann», beschreibt Fink die Herausforderung, die sich ihr täglich stellt. Die Entwicklung von Algorithmen, die eine Prognose von solchen Ereignissen ermöglichen, steht denn auch im Zentrum ihrer Forschung.
 
-## Einblick in die Eisenbahnindustrie
-
 Eine der Anforderungen ist es, dass die Algorithmen möglichst auch für neue Systeme, für die noch kaum Daten gesammelt worden sind, einsetzbar sein sollten. Sie sollten aber auch nicht nur für ein einzelnes Fahrzeug oder eine einzelne Anlage gültig sein. Die Algorithmen sollten möglichst einfach übertragbar und auf grosse und vielfältige Flotten erweiterbar sein. Auch sollten die Ergebnisse der Algorithmen für Fachexperten nachvollziehbar und interpretierbar sein. Nur so würden sie den Empfehlungen der Algorithmen auch vertrauen können.
 
 Um dies alles zu ermöglichen, bringt Fink das Beste aus zwei Welten zusammen: die Lernfähigkeit der KI-Algorithmen und die Interpretierbarkeit der physikalischen Modelle. Sie kombiniert Algorithmen mit physikalischen Modellen, die das Verhalten der Anlagen modellieren. «Damit kann man nicht nur prognostizieren, wann die Anlage ausfällt, sondern auch den Betrieb der Anlagen so anpassen, dass die Auswirkungen von Fehlfunktionen oder Ausfällen gemildert werden», betont die ETH-Professorin.
 
 Mit intelligenten Systemen zur Fehlerprognose beschäftigt sich die Wissenschaftlerin seit 2009. Damals begann sie an der ETH Zürich ihr Doktorat. Nach Abschluss ihrer Dissertation setzte sie ihre wissenschaftliche Tätigkeit am Massachusetts Institute of Technology (MIT) als affiliierte Wissenschaftlerin fort und nahm parallel dazu eine Stelle in der Eisenbahnindustrie an. «Mein Ziel ist es, innovative Methoden zu entwickeln, die relevante Probleme dieses Zweigs lösen. Dazu braucht man entsprechende Erfahrungen und Einblick in diese Industrie.»
-
-## Neue Ideen entwickeln
 
 Schnell merkte sie jedoch, dass sie sich voll auf die Forschung konzentrieren wollte. So wechselte sie schon bald an die Zürcher Hochschule für Angewandte Wissenschaften (ZHAW), wo sie als Gruppenleiterin die Forschung im Bereich der intelligenten Instandhaltungssysteme aufbaute. In 2018 kam sie dann zurück an die ETH Zürich, als sie die vom Schweizer Nationalfonds (SNF) geförderte Professur erhielt.
 

@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2022/12/cleverer-kleber-koppelt-zugseil-und-motorprotein.html
 
+**Date processed:** 2025-05-01
+
 ## Verbindung zwischen Zugseil und Motor
 
 Für Maschinen mit beweglichen Teilen sind Kopplungen entscheidend. Ob starr oder flexibel, ob Verbindung zwischen den Wellen in einem Motor oder den Gelenken in unserem Körper: Damit Kopplungen mechanische Kräfte wunschgemäss übertragen, müssen die verwendeten Materialien passen.
@@ -14,11 +16,11 @@ Dadurch erreichen die Proteine die perfekten Materialeigenschaften, welche die b
 
 In ihrer Studie konzentrierten sich die Forschenden auf eine Kopplung, die am Ende eines Mikrotubulus auftritt. Mikrotubuli sind winzige Röhren, die das Zellplasma kreuz und quer durchziehen und aus Proteinbausteinen namens Tubulin bestehen. Sie wirken unter anderem als Zugseile, die Lasten durch die Zelle befördern.
 
-## Flexible natürliche Kopplungen
-
 Eine der heikelsten Lasten ist der Zellkern, der das genetische Material der Zelle beinhaltet. In Hefezellen müssen die Mikrotubuli den Zellkern zum exakt richtigen Ort zwischen der Mutterzelle und der sich abknospenden Tochterzelle ziehen.
 
 Dazu muss sich der Mikrotubulus mit einem Motorprotein verbinden, welches seinerseits an einem Aktinfilament andockt, das in der Membran der entstehenden Tochterzelle verankert ist. Das Motorprotein beginnt dann dem Aktinfaden entlangzulaufen und zieht dabei den Mikrotubulus so weit in Richtung der Tochterzelle, bis der Zellkern am Ziel zwischen den beiden Zellen angelangt ist.
+
+## Flexible natürliche Kopplungen
 
 Hier spielt nun die Kopplung eine wichtige Rolle: Die Verbindung zwischen dem Mikrotubulus und dem Motorprotein muss die Spannung aushalten, die bei der Fortbewegung des Motorproteins auf dem Aktinfaden auftritt. Sie muss ausserdem dafür sorgen, dass der Zellkern präzise manövriert werden kann. «Zwischen dem Mikrotubulus und dem Motorprotein muss ein Klebstoff vorhanden sein. Ohne Kleber löst sich der Mikrotubulus ab, und es entsteht eine nicht lebensfähige Tochterzelle ohne genetisches Material», sagt Michel Steinmetz, Gruppenleiter am PSI und Spezialist für die Strukturbiologie von Mikrotubuli.
 
@@ -26,19 +28,17 @@ Um diese aussergewöhnliche Kopplung zwischen Mikrotubulus und Aktinfaden zu err
 
 Eine Frage trieb die Wissenschaftler:innen lange um: Wie bleiben die drei Kernproteine des Kar9-Netzwerks an der Mikrotubulus-Spitze haften, selbst wenn dem Röhrchen Tubulin-Bausteine entfernt oder hinzugefügt werden und in benachbarten Abschnitten des Seils Stücke eingefügt oder herausgeschnitten werden.
 
-## Kein Standard-Leim
-
 Die neuen Erkenntnisse zeigen: so wie ein Flüssigkeitstropfen an einer Bleistiftspitze haften bleibt, so haftet auch dieses Flüssigkeitströpfchen aus kondensierten Proteinen am Ende des Mikrotubulus, selbst wenn dieses wächst oder schrumpft.
 
 Die Forschenden entdeckten, dass die drei Kar9-Proteine die Eigenschaften einer Flüssigkeit dadurch erreichen, dass sie durch ein Netzwerk von schwachen Wechselwirkungen zusammenarbeiten. Da die Proteine an mehreren verschiedenen Punkten interagieren, hält der Kleber auch dann, wenn eine der Wechselwirkungen ausfällt. Das verleiht dem Mikrotubulus genügend Flexibilität, um selbst unter Spannung mit dem Motorprotein gekoppelt zu bleiben.
+
+## Kein Standard-Leim
 
 «Diese Entdeckung ist erst der Anfang eines neuen Verständnisses der Rolle, die intelligente Flüssigkeiten in der Zelle spielen», sagt Yves Barral, Professor für Biochemie der ETH Zürich. Seine Forschungsgruppe erforscht seit langem an Hefen die Zellteilung. «Flüssigkeiten aus Biomolekülen können äusserst raffiniert sein und viel mehr Fähigkeiten aufweisen, als wir es aus unserer makroskopischen Sicht gewohnt sind.» Es werde sich wohl noch zeigen, dass solche Flüssigkeiten viele ungewöhnliche Funktionen hätten, die durch die Evolution über Hunderte von Millionen Jahren ausgewählt wurden, findet der ETH-Professor.
 
 In ihrer Studie untersuchten die Forscher systematisch die Interaktionen zwischen den drei Proteinkomponenten des Kar9-Netzwerks. Auf der Grundlage von Strukturkenntnissen, die sie in früheren Untersuchungen an der Lichtquelle Schweiz SLS am PSI gewonnen hatten, mutierten sie jedes der Proteine, um gezielt Interaktionsstellen zu entfernen und zu beobachten, wie sich dies im Reagenzglas und in lebenden Zellen auswirkte.
 
 In einer Lösung kamen die drei Proteine zusammen, um deutliche Tröpfchen zu bilden, ähnlich wie Öltröpfchen in Wasser. Um zu beweisen, dass dies auch in lebenden Zellen so abläuft, untersuchten die Forschenden den Effekt von Mutationen auf die Zellteilung und die Fähigkeit der Proteine, das Ende eines schrumpfenden Mikrotubulus nachzuverfolgen.
-
-## Literaturhinweis
 
 «Im Reagenzglas war es noch einfach nachzuweisen, dass die fraglichen Proteine miteinander interagierten, um ein flüssiges Kondensat zu bilden. Aber es war eine grosse Herausforderung, den überzeugenden Beweis dafür zu finden, dass dies auch in vivo passiert», sagt Steinmetz. Diesen Beweis zu erbringen, habe sie Jahre gekostet. Steinmetz postulierte die Idee eines flüssigen Proteinleims für Mikrotubulus-Spitzen mit einer Kollegin aus den Niederlanden bereits 2015.
 
@@ -51,6 +51,8 @@ Die Forscher glauben, dass die Flüssigkeitseigenschaften der Proteine diese aus
 Die Studie ist eine Zusammenarbeit zwischen den Gruppen von Michel Steinmetz am PSI und Yves Barral, Professor für Biochemie an der ETH Zürich. Unterstützt wurden sie von den ETH-Forschungsteams von Eric Dufresne und Jörg Stelling.
 
 Dieser Text von Wissenschaftsredaktorin Miriam Arell ist zuerst auf der Webseite des Paul Scherrer Instituts (PSI) erschienen.
+
+## Literaturhinweis
 
 Meier SM, Farcas A-M, Kumar A, et al. Multivalency ensures persistence 1 of a +TIP-body at specialized microtubule ends. Nature Cell Biology, 19. Dezember 2022, DOI: externe Seite 10.1038/s41556-022-01035-2
 

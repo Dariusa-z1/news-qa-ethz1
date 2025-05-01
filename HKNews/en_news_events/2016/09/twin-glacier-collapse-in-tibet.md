@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2016/09/twin-glacier-collapse-in-tibet.html
 
+**Date processed:** 2025-05-01
+
 ## Joint effort to analyse the cause
 
 In order to understand the cause of the first giant ice avalanche on 17 July, we – an international team of scientists from ETH, SLF/WSL [3] and the scientific commission GAPHAZ [4] – began to investigate the glacier’s development prior to the collapse and to characterize the resulting avalanche. We did this through analysing a large number of visual and radar satellite images, in addition to running Rapid Mass Movements (RAMMS) computer simulations [5] to reproduce the event.
@@ -16,25 +18,23 @@ To our surprise, the analysis of surface elevation data from TanDEM-X revealed t
 
 We discussed and modeled the risk of a new ice avalanche in collaboration with Yves Bühler (SLF) and Daniel Farinotti (VAW and WSL). Based on this information, SLF produced a hazard indication map for a possible second avalanche. Coordinated by GAPHAZ, the warning was rapidly passed to Chinese scientists, who then informed the local government. Only hours later, on 22 September 2016, the Chinese scientists reported that the second glacier had collapsed, making this event of a double glacier collapse absolutely unique in known history. To everyone’s relief, nobody was hurt by this avalanche, although the warning reached the local authorities a few hours after the second avalanche.
 
-All of the scientists involved were shocked when they received news of the second glacier collapse from their Tibetan colleagues. Together we are now starting careful investigations into the causes and triggers that could explain the mysterious collapse of the twin glaciers. Our particular focus is examining why two nearby glaciers failed at similar times in similar ways. This suggests that a possible combination of geological and topographic factors, meteorological conditions, and, very likely, recent climate evolution were involved.
-
 ## In search for explanation
+
+All of the scientists involved were shocked when they received news of the second glacier collapse from their Tibetan colleagues. Together we are now starting careful investigations into the causes and triggers that could explain the mysterious collapse of the twin glaciers. Our particular focus is examining why two nearby glaciers failed at similar times in similar ways. This suggests that a possible combination of geological and topographic factors, meteorological conditions, and, very likely, recent climate evolution were involved.
 
 Despite the possible connection of the twin glacier collapse with climate change, the fact that many different satellite observations could be analysed with a delay of only few hours marks a milestone in the progress of early warning capabilities and shows the importance of international collaborations.
 
 Silvan Leinss co-authored this article with Daniel Farinotti .
 
-[1] Nature news: Giant, deadly ice slide baffles researchers
-
 ## Further information
+
+[1] Nature news: Giant, deadly ice slide baffles researchers
 
 [2] Stephen G. Evans, et al, “ Catastrophic detachment and high-velocity long-runout flow of Kolka Glacier, Caucasus Mountains, Russia in 2002 ”, Geomorphology, Vol. 105, Issues 3–4, (2009).
 
 [3] Involved were: The Earth Observation and Remote Sensing Group at the Institute for Environmental Engineering (IFU) at ETH Zürich; the Laboratory of Hydraulics, Hydrology and Glaciology (VAW) at ETH Zurich; WSL Institute for Snow and Avalanche Research (SLF Davos)
 
 [4] Glacier and Permafrost Hazard in Mountains GAPHAZ
-
-## About the author
 
 [5] Rapid Mass Movements RAMMS
 
@@ -43,6 +43,8 @@ Dr. Silvan Leinss, , +41 44 633 40 45
 Dr. Yves Bühler, , +41 81 417 01 63
 
 Prof. Daniel Farinotti, , +41 44 739 25 04
+
+## About the author
 
 Postdoc in the Earth Observation and Remote Sensing Research Group at the Institute for Environmental Engineering, ETH Zurich.
 

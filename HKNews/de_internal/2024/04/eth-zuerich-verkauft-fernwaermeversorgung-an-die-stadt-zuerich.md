@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2024/04/eth-zuerich-verkauft-fernwaermeversorgung-an-die-stadt-zuerich.html
 
+**Date processed:** 2025-05-01
+
 ## Übertrag auf den 1. Januar 2025 geplant
 
 Ab den 1940er-Jahren nahm die Bedeutung wärmetechnischer Grossanlagen, namentlich Dampfturbinen, Grossheizkessel und Wärmetauscher in der Forschung der ETH Zürich zu. Die dabei anfallende Abwärme wurde zunächst zur Beheizung von Hochschulgebäuden und später auch von Liegenschaften rund um den Gebäudekomplex ML/FHK genutzt. Über die Jahre entstand so das ETH-Fernwärmenetz am Standort Campus Zentrum.
@@ -9,8 +11,6 @@ Ab den 1940er-Jahren nahm die Bedeutung wärmetechnischer Grossanlagen, namentli
 Heute betreibt die ETH weder Forschung noch Lehre auf den Anlagen. Die Energiezentrale im Zentrum versorgt jedoch weiterhin 29 von der ETH genutzte Liegenschaften sowie 142 private und kommunale Bauten mit Fernwärme. Dazu wird primär Dampf aus der Kehrrichtverbrennungsanlage Hagenholz eingesetzt. Dieser wird im Fernheizkraftwerk im Gebäude ML zu Heisswasser entspannt und im Verteilnetz zu den jeweiligen Kunden geführt.
 
 Der Betrieb und Unterhalt einer Fernwärmeversorgung gehören nicht zum Kerngeschäft der ETH. Auch sind Betrieb und Unterhalt in der aktuellen Form für die ETH betriebswirtschaftlich uninteressant, obwohl das Netz grösstenteils in einem guten Zustand ist und die Energiezentrale kürzlich saniert wurde. Für den weiteren Ausbau des Netzes und die Aufnahme neuer Kunden fehlen die gesetzlichen Grundlagen.
-
-## Immer aktuell informiert
 
 Die ETH führte deshalb seit längerem Verkaufsverhandlungen mit Entsorgung + Recycling Zürich (ERZ). Diese Verhandlungen konnten nun erfolgreich abgeschlossen werden: Der Stadtrat beantragt dem Gemeinderat, Infrastruktur und Lieferverträge der ETH Zürich für rund 8,5 Millionen Schweizer Franken (exkl. Mehrwertsteuer) zu übernehmen. Stimmt der Gemeinderat dem Geschäft zu, erfolgt der Übertrag auf den 1. Januar 2025.
 

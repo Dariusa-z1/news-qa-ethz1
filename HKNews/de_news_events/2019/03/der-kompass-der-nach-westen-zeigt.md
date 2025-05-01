@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2019/03/der-kompass-der-nach-westen-zeigt.html
 
+**Date processed:** 2025-05-01
+
 ## Nord-West- und Süd-Ost-Kopplung von Atomen
 
 Magnete zeichnen sich dadurch aus, dass sie einen Nordpol und einen Südpol haben. Werden zwei Magnete nahe beieinandergehalten, ziehen sich deren entgegengesetzte Pole an und die gleichen stossen sich ab. Deshalb richten sich magnetische Nadeln, wie sie in einem Kompass vorkommen, im Erdmagnetfeld so aus, dass damit die Kardinalrichtungen Nord und Süd und daraus abgeleitet Ost und West bestimmt werden können.
@@ -14,8 +16,6 @@ Das Phänomen, das die Forschenden beobachten konnten, basiert auf einer Wechsel
 
 Wenn sich eine Gruppe von Kobaltatomen nach Norden oder Süden ausrichtet (rot), orientieren sich die benachbarten Kobaltatome nach Westen oder Osten (blau). Die Orientierung der benachbarten Atome liegt auf einer Ebene. Diese Wechselwirkung erfordert eine Sandwichstruktur, bei der die Kobaltschicht von einer Platin- (unten, beige) und einer Aluminiumoxidschicht (oben, hier nicht dargestellt) bedeckt wird.
 
-## Logische Gatter für Computer
-
 Bei dieser Wechselwirkung richten sich die Atomkompassnadeln nicht nur in Nord-Süd-Richtung, sondern auch in Ost-West-Richtung aus. «Wohin sie zeigen, hängt davon ab, wie sich die Atome in ihrer Nachbarschaft orientieren», sagt Luo, Erstautor der Studie, die soeben im Fachmagazin «Science» veröffentlicht wurde. Wenn beispielsweise eine Gruppe von Atomen nach Norden zeigt, weist die benachbarte Gruppe immer nach Westen. Wenn eine Gruppe von Atomen nach Süden zeigt, dann orientieren sich die benachbarten Atome nach Osten.
 
 Diese Orientierungen können durch Magnetfelder oder elektrische Ströme umgekehrt werden, das heisst von Nord nach Süd und umgekehrt. Die benachbarten Atomgruppen orientieren sich dann entsprechend neu, entweder von West nach Ost oder umgekehrt.
@@ -24,9 +24,9 @@ Aussergewöhnlich dabei ist, dass sich diese Wechselwirkung lateral, also seitli
 
 Laura Heyderman, Zhaochu Luo und Pietro Gambardella entdeckten das neue Phänomen in Nanomagneten. (Bild: ETH Zürich)
 
-Die benachbarten Atome, die entweder nach Westen oder nach Osten ausgerichtet sind, wirken als Abstandshalter zwischen den Magneten, die nach Norden oder Süden zeigen und jeweils nur wenige Nanometer gross sind. Dadurch ist es beispielsweise möglich, neue, effizientere Computerspeicher und -schalter zu bauen, was wiederum die Leistungsfähigkeit der Mikroprozessoren erhöht.
+## Logische Gatter für Computer
 
-## Literaturhinweis
+Die benachbarten Atome, die entweder nach Westen oder nach Osten ausgerichtet sind, wirken als Abstandshalter zwischen den Magneten, die nach Norden oder Süden zeigen und jeweils nur wenige Nanometer gross sind. Dadurch ist es beispielsweise möglich, neue, effizientere Computerspeicher und -schalter zu bauen, was wiederum die Leistungsfähigkeit der Mikroprozessoren erhöht.
 
 Die einzelnen Nanomagnete, die entweder nach Norden oder nach Süden gerichtet sind, eignen sich zum Bau von sogenannten Logikgattern. Ein solches Gatter ist ein Baustein in einem Computer und funktioniert als eine Art Schalter. Signale gehen in diese Gatter hinein und werden dann zu einem Ausgangssignal verarbeitet. In einem Computer sind viele dieser Gatter vernetzt, um Operationen durchzuführen. Ein solcher Computerbaustein kann auch mithilfe von Nanomagneten konstruiert werden, die nach Norden oder Süden zeigen. Diese sind vergleichbar mit den heute üblichen Prozessoren mit Transistoren, die Signale in binärer Form verarbeiten, also alle Signale als Null oder Eins interpretieren. Nanomagnete, die entweder nach Norden oder nach Süden ausgerichtet sind, können dies ebenfalls leisten. Das könnte Mikroprozessoren kompakter und effizienter machen.
 
@@ -35,6 +35,8 @@ Laut Pietro Gambardella, Professor für Magnetismus und Grenzflächenphysik der 
 Ihre Ergebnisse erzielten die Forschenden im Labor und an der Synchrotron Lichtquelle Schweiz SLS des PSI.
 
 Dieser Artikel erschien zuerst als externe Seite Pressemitteilung des Paul Scherrer Instituts.
+
+## Literaturhinweis
 
 Luo Z, Phuong Dao T, Hrabec A, Vijayakumar J, Kleibert A, Baumgartner M, Kirk E, Cui J, Savchenko T, Krishnaswamy G, Heyderman LJ, Gambardella P. Chirally coupled nanomagnets. Science (2019), published online March 28th, doi: externe Seite 10.1126/science.aau7913 externe Seite
 

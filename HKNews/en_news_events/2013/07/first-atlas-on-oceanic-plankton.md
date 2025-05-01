@@ -2,23 +2,17 @@
 
 **Source:** en_news_events/2013/07/first-atlas-on-oceanic-plankton.html
 
+**Date processed:** 2025-05-01
+
 ## From bacteria to small crustaceans
 
 Oceans cover 70 per cent of the earth's surface. The animal and plant species concealed within these vast expanses and almost fathomless depths have been researched relatively little in comparison with those of terrestrial ecosystems. To date, very little is known about the distribution of plankton — those organisms that are too small to swim against the ocean currents. In a large-scale project coordinated by researchers at ETH Zurich and the University of East Anglia (UK), scientists from numerous universities joined forces to make a survey of when and where which plankton species occur and to determine how much car-bon they absorb. At 500,000 locations across the globe, they collected data on the species diversity and biomass of plankton.
 
-## Global puzzle out of hundreds of thousands of data entries
-
 Now, they have brought together this data in a global atlas. The publication was released recently under the name of MAREDAT in a special edition of the journal "Earth System Science Data" and provides information on organisms ranging from phytoplankton and bacteria of just one picometre (one billionth of a metre) in size to centimetre-large zooplankton such as krill and other small crustaceans. In spite of the tininess of individual organisms, plankton play a crucial role in the oceans: on the one hand, plankton are an important driver of global biogeochemical cycles, and on the other hand, they form the basis of the food chains in marine ecosystems.
-
-## Plankton data for climate science
 
 For example, phytoplankton absorb CO2 for photosynthesis, release oxygen into the atmosphere and carry a good portion of the absorbed carbon into the depths of the oceans when they die and sink to the ground. In this way, phytoplankton remove CO2 from the atmosphere and contribute to the regulation of the global climate. Plankton also control the marine nitrogen cycle and can even influence cloud formation through the sulphur cycle. Zooplankton such as krill are an important source of food for whales, fishes and other marine species higher up in the food chain, which in turn are exploited by humans.
 
-## A disrupted ecosystem
-
 Meike Vogt, senior scientist at the Institute of Biogeochemistry and Pollutant Dynamics at ETH Zurich, coordinated the project together with her British colleagues at the University of East Anglia. "Analysing data from half a million survey stations was an incredibly ambitious undertaking and would have been impossible without international collaboration," says Vogt. The scientists combed through databases and publications and even extracted data from hand-written notes. The data were carefully quality-controlled before they were used to calcu-late biomass. What took especially long was persuading the various research institutes that gather such data to participate, and standardising the various con-tributions, some of which were historical.
-
-## Contacts
 
 The data help us to understand how planktonic organisms are organised in eco-systems. For example, they can provide insight into the biodiversity of different oceanic regions. Something that the scientists are particularly interested in is knowing which species occur together and whether they indicate certain habitats and biogeographical regions with similar biogeochemical functions. The researchers hope that these data will shed light on the role that plankton play in different oceanic regions as a driver of the earth's various biogeochemical cycles.
 

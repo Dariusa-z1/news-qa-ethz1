@@ -2,19 +2,19 @@
 
 **Source:** de_news_events/2016/10/willkommen-in-der-welt-4-0.html
 
+**Date processed:** 2025-05-01
+
 ## Digitale Helfer im Alltag
 
 Ein Leben ohne Internet, Handy und ständige Vernetzung? Für viele Menschen nur schwer vorstellbar. Die digitale Revolution hält zunehmend Einzug in unseren Alltag und eröffnet uns zahlreiche neue Möglichkeiten. Das Potential der Digitalisierung ist jedoch längst noch nicht ausgeschöpft. Deshalb forschen auch an der ETH Zürich Wissenschaftlerinnen und Wissenschaftler täglich an technischen Weiterentwicklungen in verschiedenen Forschungsbereichen.
 
-## Chancen und Probleme für die Gesellschaft
-
 Die kommende Ausgabe der «Treffpunkt Science City»-Reihe gibt einen umfassenden Einblick in das «Leben in der Welt 4.0». Vom 30. Oktober bis zum 27. November können Besucherinnen und Besucher jeden Alters in Vorlesungen, Demonstrationen und Ausstellungen miterleben, wie sich dank technologischen Entwicklungen unser Alltag verändert.
-
-## Programmübersicht «Treffpunkt Science City»
 
 Den Auftakt der Reihe bildet der erste Erlebnissonntag am 30. Oktober zum Thema «Total vernetzt». ETH-Forschende erklären die Funktionsweise von schlauen Gegenständen und wie sich intelligentes Wohnen, mitfühlende Kleider und sich selbständig füllende Kühlschränke auf unseren Lebensalltag auswirken oder auswirken könnten. An Demonstrationen kann unter anderem die perfekt sitzende Jeans erstellt und virtuell anprobiert oder ein dreidimensionales Malbuch getestet werden. Kinder konstruieren aus verschiedenen Materialien ihren eigenen Roboter, Jugendliche dürfen von ETH-Studierenden entwickelte Computer Games spielen. Dem Thema Roboter widmet sich auch der «Sonntag Spezial» am 6. November. Zahlreiche Programmpunkte erläutern, wie uns Roboter künftig unterstützen – sei dies im Hausbau, bei Rettungseinsätzen oder als Kurierdienste. Als weiteres Highlight werden die Quadrokopter und der Roboter «Bluebird» in Flugshows vorgeführt.
 
 Die digitale Revolution wirkt sich auch auf unser gesellschaftliches Verhalten aus. So werden Freundschaften online auf Facebook gepflegt, das Smartphone bei der Klärung von Gesundheitsfragen konsultiert und ältere Menschen bleiben dank neuartigen Technologien länger selbständig und fit. Am zweiten Erlebnissonntag, vom 20. November zeigen Forschende auf, welche Chancen und Probleme diese gesellschaftlichen Veränderungen mit sich bringen. Ausserdem können Besucher einen 3D-Drucker live erleben und ihr Smartphone mit Hilfe einer App in einen 3D-Scanner verwandeln. Am dritten und letzten Erlebnissonntag geben Experten Antworten auf Fragen wie: Wie schützt man sich vor Hackerangriffen? Brauchen wir ein neues sicheres Internet und wie sähe dieses aus? Zudem öffnet das auf dem Campus Hönggerberg neu gebaute Robotic Fabrication Laboratory seine Türen für Besuchende. Dieses weltweit einzigartige Labor zeigt, wie sich die digitale Revolution auch auf die Ausführung von Bauprozessen und auf die Architektur auswirkt.
+
+## Programmübersicht «Treffpunkt Science City»
 
 Die umfangreichen Erlebnissonntage für die ganze Familie auf dem Campus Hönggerberg mit Vorlesungen, Demonstrationen sowie Kinder- und Jugendprogramm finden am 30.10., 20.11. sowie 27.11. jeweils von 11 bis 16 Uhr statt. Der Sonntag Spezial «Die Roboter sind los» am 6.11. von 11 bis 15 Uhr im ETH-Hauptgebäude. In zwei Gesprächen werden zudem brennende Fragen zum thematischen Schwerpunkt diskutiert: Während sich das Podium am 3.11. dem Thema «Jugend online: Bereit für die Zukunft?» widmet, diskutieren in der Talkrunde «offen gesagt» am 23. November drei Gäste, ob wir ins digitale Burnout steuern oder in eine goldene Zukunft als Supermenschen. Zudem kann beim «Visit» am 9.11. im Siemens «Forum» in Zürich eine Ausstellung zur technischen Entwicklung von analog zu digital besucht werden. Das detaillierte Programm finden sie hier: Leben in der Welt 4.0
 

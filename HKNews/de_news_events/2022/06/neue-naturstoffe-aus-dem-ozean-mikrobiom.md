@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2022/06/neue-naturstoffe-aus-dem-ozean-mikrobiom.html
 
-## Neue Arten und Moleküle entdeckt
+**Date processed:** 2025-05-01
+
+## Main article
 
 Im Meerwasser tummeln sich unzählige Lebewesen, vom grössten Tier der Erde, dem Blauwal, bis hin zu winzigen Mikroorganismen. Diese sind nicht nur sehr zahlreich, sondern auch wichtig für das Funktionieren des gesamten Öko- und Klimasystems. So produzieren photosynthetisch aktive Mikroorganismen wie Cyanobakterien rund 50 Prozent des in der Atmosphäre vorhandenen Sauerstoffs. Auch entziehen solche Kleinstlebewesen der Atmosphäre Kohlendioxid und wirken damit der Klimaerwärmung entgegen.
 
@@ -12,9 +14,9 @@ Um neue, bakteriell fabrizierte Naturstoffe aufzuspüren, untersuchten Sunagawa 
 
 Dank moderner Verfahren wie etwa der Analyse von in der Umwelt vorhandener DNA (eDNA = environmental DNA) ist es einfacher geworden, neue Arten zu suchen und herauszufinden, welche bekannten Organismen wo vorkommen. Kaum bekannt ist, welche «special effects» die marinen Mikroorganismen bieten, also welche chemischen Verbindungen sie herstellen, die für Wechselwirkungen zwischen Organismen wichtig sind. Allenfalls haben solche Verbindungen auch für den Menschen einen Nutzen. Die Forschung geht davon aus, dass das Meeresmikrobiom ein hohes Potenzial für Naturstoffe birgt, die beispielsweise als Antibiotika interessant sein könnten.
 
-Die in den Proben vorhandene eDNA wurde extrahiert und Baustein für Baustein analysiert. Am Computer rekonstruierten die Wissenschaftler:innen dann ganze Genome und erschlossen sich damit die in Genen verschlüsselte Information, sprich die Baupläne von Proteinen. Schliesslich führten sie ihre neuen Daten mit bestehenden 8500 Genomdatensätzen von marinen Mikroorganismen in einer einzigen Datenbank zusammen.
+## Neue Arten und Moleküle entdeckt
 
-## Überraschung bei experimenteller Überprüfung
+Die in den Proben vorhandene eDNA wurde extrahiert und Baustein für Baustein analysiert. Am Computer rekonstruierten die Wissenschaftler:innen dann ganze Genome und erschlossen sich damit die in Genen verschlüsselte Information, sprich die Baupläne von Proteinen. Schliesslich führten sie ihre neuen Daten mit bestehenden 8500 Genomdatensätzen von marinen Mikroorganismen in einer einzigen Datenbank zusammen.
 
 Dadurch konnten sie auf 35'000 Genome zurückgreifen, um nach neuen Arten von Mikroorganismen und gezielt nach vielversprechenden Biosynthetischen Gen-Clustern (BGC) zu suchen. Ein BGC ist eine Gruppe von Genen, welche die Bauanleitung für einen Naturstoff liefern.
 
@@ -26,8 +28,6 @@ Sunagawa und seine Mitarbeitenden benannten eine Familie dieser Bakterien neu al
 
 Zwei der BGC von Eudoremicrobiaceae betrachteten die Forschenden eingehend: einen Gen-Cluster, der den genetischen Code für Enzyme enthält, die gemäss Sunagawa in dieser Konstellation noch nie in einem bakteriellen BGC gefunden wurden. Als zweites Beispiel untersuchten sie einen bioaktiven Naturstoff, der ein proteinspaltendes Enzym hemmt.
 
-## Literaturhinweis
-
 In Zusammenarbeit mit der Gruppe von Jörn Piel überprüften die Forschenden den Aufbau und die Funktion der beiden Naturstoffe experimentell.
 
 Da E. malaspinii nicht kultiviert werden konnte, mussten die Gene als Bauanleitung für die Naturstoffproduktion erst von Piels Mitarbeitenden einem Modellbakterium eingepflanzt werden. Dieses produzierte dann die entsprechenden Substanzen. Die Forschenden isolierten schliesslich die Moleküle aus den Zellen, bestimmten die Struktur und überprüften ihre biologische Aktivität.
@@ -37,6 +37,8 @@ Das war nötig, da die von Computerprogrammen vorhergesagte Enzymaktivität in e
 Das kostet viel Zeit, ist aufwändig und nicht für 40'000 potenzielle Naturstoffe, die in der Datenbank schlummern, machbar. Aber: «Unsere Datenbank birgt grosses Potential. Sie steht allen interessierten Forschern offen», betont der Forscher.
 
 Neben der fortgesetzten Zusammenarbeit mit Piels Gruppe zur Entdeckung neuer Naturstoffe, möchte Sunagawa sich mit offenen Fragen der Evolution und der Ökologie der Meeresmikroorganismen befassen, etwa wie Mikroorganismen im Meer verteilt werden, da sie sich nur passiv über grosse Distanzen verbreiten können. Auch möchte er herausfinden, welchen ökologischen oder evolutionären Vorteil gewisse Gene den Mikroben verschaffen. Der ETH-Professor vermutet, dass die BGC dabei eine grössere Rolle spielen könnten.
+
+## Literaturhinweis
 
 Paoli P, Ruscheweyh H-J, Forneris CC, et al. Biosynthetic potential of the global ocean microbiome. Nature, 2022. DOI: externe Seite 10.1038/s41586-022-04862-3
 

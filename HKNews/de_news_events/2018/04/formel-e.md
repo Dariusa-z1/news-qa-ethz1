@@ -2,11 +2,15 @@
 
 **Source:** de_news_events/2018/04/formel-e.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Am 10. Juni findet in Zürich der Julius Bär E-Prix 2018, das erste Rennen in der Schweiz mit Elektro-Rennwagen statt. In Anwesenheit der Stadtpräsidentin Corine Mauch und von ETH-Präsident Lino Guzzella präsentierten heute die Veranstalter den Medien an der ETH Zürich Details zum Anlass. Vor dem ETH-Hauptgebäude endete zudem eine Show-Fahrt: ein Formel-E-Rennwagen – pilotiert vom Schweizer Formel-E-Fahrer Sébastien Buemi – fuhr mit Polizeieskorte durch die Stadt Zürich.
 
 Zürichs Stadtpräsidentin Corinne Mauch und ETH-Präsident Lino Guzzella begrüssen Sébastien Buemi. (Bild: ETH Zürich)
+
+## Visionen und konkrete Projekte
 
 Die ETH Zürich engagiert sich im offiziellen Rahmenprogramm des Rennens, den eDays. Das Formel-E-Rennen in Zürich sei über den sportlichen Wettbewerb hinaus eine Chance, sich mit dem Thema Mobilität der Zukunft auseinanderzusetzen, sagte Lino Guzzella vor den Medien. Für die Hochschule ist eine Mobilität, die klimaschonend, energieeffizient und zahlbar zugleich ist, eines der zentralen Themen in Forschung und Ausbildung.
 

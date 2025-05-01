@@ -2,19 +2,17 @@
 
 **Source:** en_news_events/2022/08/eth-and-ubs-launch-partnership-to-promote-innovation-and-entrepreneurship.html
 
-## Promoting entrepreneurship
+**Date processed:** 2025-05-01
+
+## Main article
 
 Innovation is crucial to Switzerland’s prosperity, with a zest for science and entrepreneurship playing a key role. It is only when research results or good ideas find their way into the market that new jobs are created, or solutions are developed for social and technological progress. That is why ETH Zurich and UBS are aiming to boost entrepreneurship in Switzerland and inspire schoolchildren to study STEM subjects (STEM = Science, Technology, Enginering, Mathematics).
 
-## Encouraging STEM subjects
-
 “These initiatives are being supported by two Swiss institutions with a great deal of expertise: the number of ETH spin-offs being formed is growing constantly. Almost 500 successful companies have been established in this way since 1996. By combining our expertise in teaching and research with the well-established economical know-how and networking capabilities of UBS, we can advance Switzerland as a business location,” says Joël Mesot, President of ETH Zurich.
-
-## A creative and innovative place to meet
 
 Collaboration with research, the encouragement of training and further education, and support for entrepreneurship in Switzerland all have a long tradition at UBS. “With this partnership, we aim to boost the long-term development of entrepreneurship and innovative capabilities in Switzerland, and to promote the next generation of entrepreneurs. This is something that is very close to our heart. We are looking forward to working together with ETH and firmly believe that our joint efforts will achieve a great deal,” says Sabine Keller-Busse, President UBS Switzerland. UBS has more than 120,000 corporate clients in Switzerland – every other medium-sized and large company is a client of the bank. For years now, it has been involved in successful joint ventures in the field of tech and innovation.
 
-## Further information
+## Promoting entrepreneurship
 
 The two partners aim to use the joint initiative to provide students and young entrepreneurs with the necessary toolkit, along with helpful contacts, for them to successfully implement their ideas and innovations and bring them to market. This will complement the assistance ETH Zurich already provides start-ups with. For example, a series of events will give young entrepreneurs the opportunity to meet experienced business leaders at ETH, where they can share information, network and learn from them. Interested students will be able to find out more about financing, preparing business plans and managing a company at various events. ETH and UBS intend to support this noteworthy expansion of the existing entrepreneurship eco-system, both with in-person offerings and on digital channels.
 

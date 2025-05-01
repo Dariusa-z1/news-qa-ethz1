@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2017/04/nanopartikel-bleiben-unberechenbar.html
 
+**Date processed:** 2025-05-01
+
 ## Partikel heften sich an alles
 
 Die Nanotech-Industrie boomt. Jährlich werden weltweit mehrere Tausend Tonnen künstliche Nanopartikel hergestellt. Ein Teil davon gelangt früher oder später in Gewässer und Böden. Was dort mit ihnen genau geschieht, können selbst Experten nur schwer sagen. Die Frage ist komplex, denn es gibt viele verschiedene Arten von künstlichen Nanopartikeln. Und vor allem: Die Partikel verhalten sich in der Umwelt je nach herrschenden Bedingungen völlig unterschiedlich.
@@ -10,15 +12,13 @@ Forschende um Martin Scheringer, Privatdozent am Departement Umweltsystemwissens
 
 Den Forschenden präsentierte sich beim Kombinieren der Daten jedoch ein sehr uneinheitliches Bild. «Der Sachverhalt ist komplexer, als das wohl viele Wissenschaftler noch vor Jahren vorausgesagt hätten», sagt Scheringer. «Und wir müssen einsehen, dass wir mit den uns heute zur Verfügung stehenden Daten noch kein einheitliches Bild zeichnen können.»
 
-## Netzwerk-Analyse
-
 Nicole Sani-Kast, Doktorandin in der Gruppe von Scheringer und Erstautorin der in der Fachzeitzeitschrift PNAS veröffentlichten Analyse, ergänzt: «Künstliche Nanopartikel verhalten sich sehr dynamisch, und sie sind sehr reaktionsfreudig. Die Teilchen heften sich an alles, was sie finden: an andere Nanopartikel, um mit ihnen Agglomerate zu bilden, oder andere in der Umwelt vorhandene Moleküle.»
 
 Die Forschenden werteten die in der Fachliteratur veröffentlichten Experimentaldaten mit einer Netzwerk-Analyse aus. Diese Analyse macht sichtbar, welche Arten von Nanopartikeln (blau) bei welchen Umweltbedingungen (rot) untersucht wurden. (Grafik: Thomas Kast)
 
-Womit genau die Teilchen reagieren und wie schnell, hängt von verschiedenen Faktoren ab: dem Säuregrad von Wasser oder Boden, der Konzentration der vorhandenen Mineralstoffe und Salze und vor allem der Zusammensetzung der im Wasser gelösten oder im Boden vorhandenen organischen Moleküle. Ausserdem macht die Tatsache, dass künstliche Nanopartikel oft oberflächenbeschichtet sind, die Sache noch komplizierter: Denn je nach Umweltbedingungen behalten oder verlieren die Partikel ihre Beschichtung, was wiederum ihr Reaktionsverhalten beeinflusst.
-
 ## Mehr Systematik für maschinelles Lernen
+
+Womit genau die Teilchen reagieren und wie schnell, hängt von verschiedenen Faktoren ab: dem Säuregrad von Wasser oder Boden, der Konzentration der vorhandenen Mineralstoffe und Salze und vor allem der Zusammensetzung der im Wasser gelösten oder im Boden vorhandenen organischen Moleküle. Ausserdem macht die Tatsache, dass künstliche Nanopartikel oft oberflächenbeschichtet sind, die Sache noch komplizierter: Denn je nach Umweltbedingungen behalten oder verlieren die Partikel ihre Beschichtung, was wiederum ihr Reaktionsverhalten beeinflusst.
 
 Um die in der Literatur veröffentlichten Resultate auszuwerten, wandte ETH-Doktorandin Sani-Kast erstmals in diesem Forschungsfeld eine Netzwerk-Analyse an, wie sie zum Beispiel aus der Sozialforschung zum Erfassen von Netzwerken sozialer Beziehungen bekannt ist. Damit konnte sie zeigen, dass die vorhandenen Daten wenig divers, wenig konsistent und wenig strukturiert sind.
 
@@ -34,9 +34,9 @@ Forschende am Departement Chemie und angewandte Biowissenschaften der ETH Züric
 
 In Zusammenarbeit mit Wissenschaftlern der Universität Wien wandten die ETH-Forschenden die Methode auf Bodenproben an, die natürliche Nanopartikel mit dem chemischen Element Cer enthalten, und in die sie künstliche Cerdioxid-Nanopartikel mischten. Mit Methoden des maschinellen Lernens – die sich für diese spezielle Fragestellung hervorragend eigneten – konnten die Forschenden Unterschiede in den chemischen Fingerabdrücken der beiden Teilchenklassen ausmachen. «Während künstlich hergestellte Nanopartikel oft aus einer einzigen Verbindung bestehen, enthalten natürliche Nanopartikel meist noch eine Reihe von zusätzlichen chemischen Elementen», erklärt Alexander Gundlach-Graham, Postdoc in Günthers Gruppe.
 
-## Literaturhinweise
-
 Die neue Messmethode ist sehr empfindlich: Die Wissenschaftler konnten damit künstliche Partikel in Proben mit bis zu hundertmal mehr natürlichen Teilchen messen.
+
+## Literaturhinweise
 
 Sani-Kast N, Labille J, Ollivier P, Slomberg D, Hungerbühler K, Scheringer M: A network perspective reveals decreasing material diversity in studies on nanoparticle interactions with dissolved organic matter. PNAS 2017, 114: E1756-E1765, DOI: externe Seite 10.1073/pnas.1608106114
 

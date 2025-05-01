@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2019/07/neues-onlineangebot-zur-meldung-von-schaeden-und-stoerungen-in-eth-gebaeuden.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Die ETH Zürich hat die Grösse einer kleinen Stadt. Sie umfasst rund zweihundert Gebäude, Grünflächen, Strassen und Plätze, Erschliessungsflächen und Tausende von Räumen für die rund 30'000 ETH-Angehörigen. Im Hintergrund wird für den Betrieb dieses Angebots eine aufwendige technische Infrastruktur unterhalten. An der ETH legt man Wert darauf, diese Infrastruktur in einem einwandfreien Zustand zu halten und laufend zu modernisieren. Eine wichtige Voraussetzung für eine schnelle Problembehebung in den Gebäuden ist die Kommunikation zwischen Nutzerinnen und Nutzern und Infrastrukturbetreibern.

@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2019/12/lesen-und-publizieren-neu-geregelt.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Trotz vertragslosem Zustand mit Springer Nature ist der Zugang zu allen Zeitschrifteninhalten bis auf weiteres sichergestellt.

@@ -2,19 +2,15 @@
 
 **Source:** de_news_events/2013/01/junge-forscher-zeigen-unternehmergeist.html
 
+**Date processed:** 2025-05-01
+
 ## Acht Spin-offs aus dem Bereich ICT
 
 Forscherinnen und Forscher wagen immer häufiger den Schritt in die Selbständigkeit. Die Gründung einer eigenen Unternehmung ist für viele junge Talente eine attraktive Alternative zu einer wissenschaftlichen Laufbahn oder einer Karriere als Angestellte in der Privatwirtschaft geworden. Das schlägt sich in konkreten Zahlen nieder. 22 Spin-off-Firmen haben ETH-Angehörige im vergangen Jahr gegründet. Die Zahl der Firmengründungen ist damit in den letzten fünf Jahren auf hohem Niveau konstant geblieben. «Wir können nun die Früchte unserer Aufbauarbeit ernten, die wir in den letzten Jahren geleistet haben», sagt Roland Siegwart, Vizepräsident Forschung und Wirtschaftsbeziehungen. Die Marke «Spin-off der ETH Zürich» sei etabliert — nicht zuletzt dank vielen erfolgreichen Jungfirmen, die in den letzten Jahren aus der Hochschule entstanden sind.
 
-## Im Zeichen von Hightech und Cleantech
-
 Die 22 neu gegründeten Spin-offs sind in ganz unterschiedlichen Bereichen tätig, wobei sich mehr als ein Drittel der Informations- und Kommunikationstechnik zuordnen lassen. Je vier Neugründungen gab es im Maschinenbau sowie im Dienstleistungs- und Beratungsbereich, je zwei in den Bereichen Elektrotechnik und Nanotechnologie. Auf den Gebieten Biotechnologie und Pharma sowie Medizinische Geräte entstand je ein Spin-off.
 
-## Hohe Preisgelder und grosse Investitionen
-
 Silvio Bonaccio, Leiter von ETH transfer, der Technologietransferstelle der ETH Zürich, lobt insbesondere den ausgeprägten Erfindergeist der Jungfirmen: «Sehr viele der 2012 gegründeten Spin-offs bieten Lösungen für technisch hochanspruchsvolle Probleme», sagt er. So hat die «SwissLitho AG» ein Verfahren entwickelt, das neue Massstäbe in der Herstellung von Nanostrukturen setzt. Die am IBM Forschungslabor entwickelte Technologie erlaubt es, komplexe Formen mit hoher Präzision schnell und einfach aus Oberflächen zu fräsen. Der Spin-off «Phocone» stellt Infrarot-Lasermodule her, die einerseits schwere Moleküle und andererseits verschiedene Gase messen können.
-
-## Kontakte
 
 Doch nicht nur Hightech, sondern auch Cleantech stand bei den jungen Fir-mengründern 2012 hoch im Kurs. Vier der 22 gegründeten Spin-offs bieten Produkte, Prozesse und Dienstleistungen an, die natürliche Ressourcen schonen und negative Einflüsse auf die Umwelt reduzieren. Die Gründer von «ElectricFeel» haben ein E-Bike-Sharing-System entwickelt, mit dem man per Smartphone ein E-Bike mieten kann und «Polyport» stellt zwei Dienstleistungen zur Verfügung: Das «Kartoffeltaxi» sorgt für klimaneutrale Transporte lokaler Bioprodukte und «BringBee» ist ein Mitbringservice für kleinere Einkäufe bei IKEA.
 

@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2019/02/cambridge-university-press--evidence-based-acquisition.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 With the Evidence Based Acquisition model (EBA), users of ETH Library initially enjoy access to all e-books by Cambridge University Press for three years. This means that over 32,000 titles from a wide range of specialist fields in science, technology, medicine and the humanities will be available to interested readers. New publications will constantly be added to the range.

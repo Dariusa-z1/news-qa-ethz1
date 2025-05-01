@@ -2,13 +2,17 @@
 
 **Source:** en_news_events/2014/10/federal-council-approves-the-horizon-2020-package.html
 
-## Period of association
+**Date processed:** 2025-05-01
 
-It allows researchers from Switzerland to take full part in selected parts of Horizon 2020 and to apply for the sought-after grants provided by the European Research Council. The agreement provides for Switzerland’s full association to Horizon 2020 between 2017 and 2020, provided a solution can be found to the issue of the free movement of persons.
+## Period of association
 
 Partial association, which is in effect until 2016, allows researchers from Switzerland to take part in the different instruments of Horizon 2020 in a variety of ways. Switzerland can be fully involved as an associated country in the following parts of the programme:
 
-## Don't miss the latest news
+• "Excellent Science", the first pillar of Horizon 2020, comprises four main funding instruments for Switzerland. These include European Research Council grants, which provide significant funds for the most talented and creative researchers and their teams working in basic research. There is also the cross-disciplinary "Future and Emerging Technologies" (FET) instrument, under which, for example, the "Human Brain Project" coordinated by the EPF Lausanne falls. A third funding instrument is the Marie Curie Actions, which foster training, career development and knowledge sharing in the form of international and cross-disciplinary mobility of researchers. The fourth instrument is the promotion of research infrastructures of European importance.
+• "Spreading Excellence and Widening Participation" is a section of the programme which includes the Teaming and Twinning funding instruments, which foster research cooperation between countries with development potential and more developed countries. Switzerland has already planned projects in this area, including with Croatia and the Czech Republic.
+• Researchers, research institutions and companies from Switzerland can continue to participate fully in the Euratom programme and ITER fusion research project.
+• Switzerland can participate with third country status in all other programmes funded by or in instruments co-financed under Horizon 2020. Project partners from Switzerland receive funding in accordance with the interim measures adopted by the Federal Council in June 2014.
+It allows researchers from Switzerland to take full part in selected parts of Horizon 2020 and to apply for the sought-after grants provided by the European Research Council. The agreement provides for Switzerland’s full association to Horizon 2020 between 2017 and 2020, provided a solution can be found to the issue of the free movement of persons.
 
 The agreement is due to be signed at the end of this year. However, it has been applied retroactively, allowing Swiss researchers to participate in project calls since 15 September.
 

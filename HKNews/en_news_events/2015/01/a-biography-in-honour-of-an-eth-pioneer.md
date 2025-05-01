@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2015/01/a-biography-in-honour-of-an-eth-pioneer.html
 
-## Main article
+**Date processed:** 2025-05-01
+
+## A board member at Ciba
 
 He became a professor at ETH Zurich at the tender age of 24, played an essential role in modernising and developing ETH, forged links between it and industry and was the man who brought Albert Einstein to our university: there is only one person this could be – Robert Gnehm (1852-1926).
 

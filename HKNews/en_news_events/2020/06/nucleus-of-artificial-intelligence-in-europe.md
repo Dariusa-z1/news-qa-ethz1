@@ -2,15 +2,17 @@
 
 **Source:** en_news_events/2020/06/nucleus-of-artificial-intelligence-in-europe.html
 
-## Promoting talent and practice-oriented research
+**Date processed:** 2025-05-01
+
+## Main article
 
 Thomas Hofmann.
+
+## Promoting talent and practice-oriented research
 
 In the field of artificial intelligence, ETH Zurich and the Max Planck Institute for Intelligent Systems (MPI-IS) have been working closely together for five years. This spring they agreed to continue their research partnership, the Max Planck ETH Center for Learning Systems, for further five years until 2025. The CLS was founded in 2015 in a joint effort to work together on the cross-disciplinary research questions regarding the design and analysis of natural and man-made learning systems. The cooperation spans all levels, from leading experts at the senior scientist level to junior scientists.
 
 In an interview in the " Spotlight Stories " of the ETH Department of Computer Science, Thomas Hofmann, Co-Director of the Center, takes stock, looks to the future and explains why the topic of artificial intelligence requires thinking beyond national borders.
-
-## The future in Europe
 
 "The CLS gives us the opportunity to attract international talents," says Hofmann. The exchange of personnel is also very valuable. At the heart of CLS is its doctoral training program. According to a CLS news release of May 2020, 24 young researchers are following this route, with another six joining soon following the 2020 selection.
 

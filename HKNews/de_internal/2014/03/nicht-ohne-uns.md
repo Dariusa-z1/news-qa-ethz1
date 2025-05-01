@@ -2,25 +2,25 @@
 
 **Source:** de_internal/2014/03/nicht-ohne-uns.html
 
-## Zur Person
+**Date processed:** 2025-05-01
+
+## Main article
 
 “Life is what happens while you're busy making other plans” ̶ «Das Leben ist das, was passiert, während du damit beschäftigt bist, andere Pläne zu schmieden»: treffender könnte das Zitat an meiner Bürotür nicht beschreiben, wie die Wochen nach dem 9. Februar für den VSETH verlaufen sind. Die sorgfältig geplanten Projekte für den Februar und den März, die unter anderem die Einrichtung einer Eisbahn auf dem Hönggerberg, eine Stellungnahme zur Rektorenwahl und gezieltes Lobbying im Nationalrat zu den Studiengebühren vorsahen, wurden auf einmal von einem neuen Thema in den Schatten gestellt: Von der Masseneinwanderungsinitiative und ihren Auswirkungen auf die europäischen Bildungs- und Forschungprogramme «Erasmus+» und «Horizon 2020».
 
 Von einem Tag auf den anderen galt es, die vorher geplanten Projekte umzusetzen und gleichzeitig Fragen von verunsicherten Studierenden zu beantworten sowie Medienanfragen zu bewältigen. Solche Anfragen kompetent zu bearbeiten, während wir selber, wie viele andere auch, noch keine verlässlichen Informationen hatten, ist schwierig – vor allem wenn man noch nicht jahrelang Interviews gegeben hat und somit die Wirkung seiner eigenen Worte nicht abschätzen kann.
 
-## Staffnet
-
 Klar war uns aber auch, dass uns die Medien die Chance gaben, die Ansichten der Studierenden bekannt zu machen. So haben wir in mehreren Nachtschichten ̶ mit unserem nationalen Dachverband (VSS) und mit den befreundeten Studierendenverbänden des Kantons Zürich ̶ Medienmitteilungen zu den neusten Entwicklungen verfasst, regelmässig Interviews gegeben und auf der VSETH-Homepage ein Dossier «Masseneinwanderung» mit Informationen über das Thema auf Deutsch und auf Englisch veröffentlicht.
 
 Ganz im Gegensatz zum sonst sehr bedachten und abgeklärten Vorgehen des VSETH in hochschulpolitischen Themen mussten wir auf einmal schnell Entscheidungen treffen: Bezieht man zu den neusten Entwicklungen Position, und wenn ja welche? Mir wurde erst in diesen Zeiten wirklich klar, wofür der VSETH eine Exekutive (den VSETH-Vorstand) hat: Auch wenn man bei allen Stellungnahmen gerne eine Vernehmlassungsphase hätte und so eine breit abgestützte Meinung der Studierendenschaft vertreten würde, so gibt es doch Zeiten, in denen Sachen schnell passieren müssen, und in der auch ich als Präsidentin gefordert bin, das zu tun, wozu ich gewählt wurde: Die Studierenden zu vertreten und nach bestem Wissen und Gewissen ihre Meinung zu repräsentieren.
-
-## Newsletter abonnieren
 
 Klar war auch für uns, dass es nicht mehr reicht, nur auf die Anfragen der Medien oder auf die Entscheidungen der Politik zu reagieren. Es war an der Zeit, proaktiv ein Zeichen für die Zukunft zu setzen: Dieses Zeichen bildet der «Appell für einen offenen europäischen Hochschulraum», den wir zusammen mit anderen Bildungs- und Forschungsvertretern unter externe Seite www.not-without-switzerland.org veröffentlicht haben, und den in nur einer Woche über 20‘000 Personen unterzeichnet haben.
 
 Nun, da die mediale Diskussion um die Auswirkungen der Masseneinwanderungsinitiative auf Studierende und Forschende langsam wieder abflaut, kehrt auch im VSETH endlich ein bisschen Ruhe ein. Statt Wunden zu lecken, haben wir das weitere Vorgehen geplant: Auch wenn die Medien nicht mehr täglich darüber berichten, betreffen die Folgen der Masseneinwanderungsinitiative die Studierenden weiterhin. Auch wenn der Bund und die ETH Übergangsmassnahmen für Studierende und Forschende eingeleitet haben, bestehen nach wie vor Ungewissheiten: Was passiert nach 2014? Hat die EU die Schweizer Teilnahme an «Erasmus+» und «Horizon 2020» nur vorübergehend oder langfristig ausgesetzt?
 
 Das sind Fragen, die zeigen, dass wir die Auswirkungen des Volksentscheides an der gesamten ETH – nicht nur unter den Studierenden – diskutieren und die nötigen Schlüsse daraus ziehen müssen, um in der Zukunft unsere Position deutlich und verständlich vertreten zu können. Grundlage dieser Position sollte, meiner Ansicht nach, der folgende Grundsatz aus dem Appell sein: «Wir bekennen uns zu einem offenen europäischen und internationalen Hochschulraum und wollen weiterhin den internationalen Austausch an unseren Hochschulen pflegen und fördern.»
+
+## Zur Person
 
 Im November 2013 wählte der Mitgliederrat, das oberste Organ des Studierendenverbands VSETH, Julia Wysling zu seiner Präsidentin. Sie wurde 1990 in Zürich geboren und ist in Zürich, Wien und Uster aufgewachsen. Nach erfolgreich absolvierter Matura an der Kantonsschule Rämibühl inklusive Austauschjahr in Australien studiert sie seit 2009 an der ETH Mathematik. Zuvor war Julia Wysling schon in ihrem Fachverein VMP (Verein der Mathematik- und Physikstudierenden), in mehreren VSETH-Kommissionen und im Verein SoNaFe/WiNaFe tätig. Besonders faszinierend an der Arbeit im VSETH findet sie das Zusammenspiel zwischen der politischer Vertretung der Studierenden und dem Angebot von Dienstleistungen. In ihrer Freizeit trainiert Julia Wysling für einen Triathlon.
 

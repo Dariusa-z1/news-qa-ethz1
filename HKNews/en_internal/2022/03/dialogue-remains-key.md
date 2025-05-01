@@ -2,19 +2,9 @@
 
 **Source:** en_internal/2022/03/dialogue-remains-key.html
 
-## Further information
+**Date processed:** 2025-05-01
 
-- Outside employment and activities
-
-- How to proceed: reporting and approval process
-
-- Conflicts of interest and conflicts of commitment
-
-- How to evaluate outside activities, including example situations
-
-- Guidelines outside activities
-
-- ETHIS
+## Main article
 
 Copyright: GM CASTELBERG
 
@@ -28,8 +18,6 @@ So what has changed for employees who want to pursue outside jobs or activities?
 
 Professors were already required to report their outside activities and/or have them approved. What’s new is that all employees have to report their outside commitments, depending on the type and scope, via ETHIS and may also need to have them approved by the university. You can find an overview of the process and a list of outside activities requiring approval here [ Outside employment and other activities | ETH Zurich ].
 
-## Subscribe to Newsletter
-
 What about employees already engaged in outside employment or activities that have already been reported via other channels within the university? Do they still have to file a report on ETHIS?
 
 As a general rule, all outside activities requiring reporting or approval have to be reported via ETHIS. This also applies to ongoing activities or activities that have already been reported elsewhere within the university but that are not yet in ETHIS. Under the new process, all reports and approvals for outside activities are recorded in one place, making them easier to process.
@@ -41,8 +29,6 @@ That’s correct. Both of these terms form the core of the new guidelines. All o
 ETH supports outside activities where possible, and in most cases they can be approved. Outside activities strengthen our network and expand our knowledge as well as provide valuable experience. Many ETH employees are asked to contribute their know-how outside of ETH, and these employees want to play their part. This can be beneficial for all parties, including ETH Zurich. With that said, employees’ outside pursuits need to be compatible with their jobs at the university.
 
 Let’s say that an employee reports their outside employment and that a conflict of interest or commitment is detected. How are these conflicts handled? Are the requests for approval automatically denied?
-
-## Staffnet
 
 Most outside activities don’t actually have to be approved, just reported. But even if they just have to be reported, this provides an opportunity for employees and supervisors to discuss and align on the issue so that they can identify potential conflicts and come up with countermeasures as needed.
 
@@ -56,3 +42,11 @@ The private activities of employees should be respected. People’s personal vie
 
 The new guidelines spell out the conditions for pursuing outside activities, and the dialogue between employees and supervisors remains a key element here. It’s important to work together to identify potential conflicts and discuss possible mitigation measures. Outside employment and other activities can create a diverse range of personal and professional benefits for everyone involved. Usually it’s possible to combine the employee’s personal interests and the interests of ETH Zurich, allowing the university to support employees’ outside pursuits.
 
+## Further information
+
+• Outside employment and activities
+• How to proceed: reporting and approval process
+• Conflicts of interest and conflicts of commitment
+• How to evaluate outside activities, including example situations
+• Guidelines outside activities
+• ETHIS

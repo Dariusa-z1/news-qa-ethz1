@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2014/12/wissenschaft-fuer-unabhaengigkeit-im-alter.html
 
-## Main article
+**Date processed:** 2025-05-01
+
+## Translationale Forschung
 
 Das Europäische Institut für Innovation und Technologie (EIT) gab vergangene Woche grünes Licht für ein Grossprojekt zur Förderung der angewandten Forschung im Bereich «Gesundes Leben und aktives Altern». An dem «EIT Health» genannten Projekt ist die ETH Zürich als assoziierte Partnerin beteiligt. Insgesamt werden darin voraussichtlich ab Mitte 2015 mehr als 140 europäische Unternehmen und Forschungsinstitutionen zusammenarbeiten. Weitere Partner aus der Schweiz sind die EPFL und Nestlé.
 

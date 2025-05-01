@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2018/04/3d-visualisierung-von-wolken-und-winden.html
 
+**Date processed:** 2025-05-01
+
 ## Wolken dreidimensional visualisieren
 
 Visualisierungen spielen bei Untersuchungen von Wetterdaten wie Temperatur, Luftdruck oder dem Wassergehalt der Atmosphäre eine sehr grosse Rolle. Solche Daten grafisch darzustellen ist auch relativ einfach, da sie einen klaren räumlichen Bezug haben und sich daher gut auf Landkarten eintragen lassen.
@@ -22,8 +24,6 @@ Dabei ging es ihm weniger darum, für die Meteorologie brauchbare Prognosewerkze
 
 So zeigen Rimensbergers Visualisierungen, wie sich Wolken über Deutschland formieren und über die Zeit verändern, mit Aufwinden in die Höhe getragen und schliesslich von Winden in der Troposphäre mehr als 10 Kilometer über den Boden verfrachtet werden. In unterschiedlichen Farben dargestellt werden Wolkenzonen, die einen identischen Wasser- oder Eisgehalt haben.
 
-## Unsichtbares aufdecken
-
 Weiter analysierte der Informatikstudent auch Luftströmungen. Die Linien stellen die Pfade von Luftpaketen dar und deren Farben zeigen an, wie stark sich ein Luftpaket um seine eigene Achse dreht. Die Länge der Linien gibt Aufschluss über den zurückgelegten Weg und visualisiert damit die Strömungsgeschwindigkeit. Aufsteigende Wolken erzeugen Turbulenzen, die stärkere Verwirbelungen hervorrufen oder deren Flugbahn verändern. Beides ist an den berechneten Pfadlinien ablesbar.
 
 Den Simulationen der Wolkenentwicklung überlagerte Rimensberger zudem die Flugbahnen von startenden Passagierflugzeugen. «Ich wollte herausfinden, ob und wie Gewitterzonen den Flugverkehr beeinflussen», sagt er.
@@ -32,13 +32,15 @@ Die Flugbahnen der in Frankfurt startenden Maschinen verlaufen allerdings quer d
 
 Die neuen Visualisierungen erleichtern die Klassifizierung von Wolkenformationen, weil Wolken «sichtbar» werden, die weder Satelliten von oben noch ein Beobachter vom Boden aus sehen können. Ein Vergleich mit der heute üblichen 2D-Kategorisierung zeigte, dass die neuen Algorithmen auch übereinander angeordnete Wolkenstrukturen erkennen können.
 
-## Literaturhinweis
+## Unsichtbares aufdecken
 
 «Der wissenschaftliche Wert unserer Visualisierung liegt darin, dass wir etwas sichtbar machen, was mit bisherigen Tools nicht sichtbar ist», sagt Rimensberger. Für Echtzeitsimulationen sei aber die Zeit noch nicht reif. Auch aufwändige Grafiken wie diejenige der Luftströmungen über ganz Deutschland haben den Weg in die Praxis bisher nicht gefunden. «Die Berechnungen hierfür dauern derzeit zu lang. Wir versuchen, sie mit verbesserten Algorithmen zu verkürzen», ergänzt Günther. «Einige der Visualisierungen oder etwa die Wolkenklassifizierung könnte man aber bereits jetzt in existierende Tools integrieren.»
 
 Für die Flugsicherung könnte die Visualisierung von turbulenten Strömungsregionen oder von Regionen mit starken Auftrieb und Unwetterentwicklung ebenfalls von Interesse sein.
 
 Folgeprojekte sind geplant oder bereits in Arbeit, wie jenes einer interaktiven Auswertung von grossen meteorologischen Datensätzen. Die Computergrafiker sind zudem daran, wichtige Strukturen in diesen Daten besser sichtbar zu machen und die aufwändigen Visualisierungen von Luftströmungen zu beschleunigen. Wer weiss, vielleicht präsentiert dereinst der TV-Wetterfrosch 3D-Wetterkarten, welche auf ETH-Algorithmen beruhen.
+
+## Literaturhinweis
 
 Rimensberger N, Gross M, Günther T: Visualization of Clouds and Atmospheric Air Flows. IEEE Scientific Visualization (SciVis 2016), Phoenix, AZ, USA, October 1-5, 2017. DOI: externe Seite 10.3929/ethz-b-000237747
 

@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2022/03/der-unternehmer-der-in-den-untergrund-schaut.html
 
+**Date processed:** 2025-05-01
+
 ## Auf dem Weg in die Selbstständigkeit
 
 Der Rheinfall rauscht und tost an diesem Morgen, die Gischt sieht im Gegenlicht wie Nebel aus. Ein kleines Boot bahnt sich seinen Weg vom Aussichtsfelsen mitten in den schäumenden Wassermassen zum Schlössli Wörth.
@@ -14,8 +16,6 @@ Die Messungen am Rheinfall und seinem Felsen sind für Häusler ein Testlauf. Er
 
 Dazu verwendet Häusler eine Reihe von Seismometern, die Schwingungen respektive Wellen von Erschütterungen, die sich unterirdisch ausbreiten, wahrnehmen und aufzeichnen. So nutzt der Jungunternehmer den Umstand, dass Erdbeben, Wind, Flüsse oder der Strassenverkehr Erschütterungen erzeugen, die als Wellen durch den Untergrund rasen.
 
-## Technik hat sich bewährt
-
 Auf ihrer Reise treffen die Wellen auf Hindernisse oder Störungen unterschiedlichster Art. So werden sie zum Beispiel an Brüchen oder Rissen im Gestein abgelenkt. Im instabilen, aufgelockerten Material wiederum werden die Amplituden der Wellen verstärkt. Die Wellenmuster, die das Seismometer aufzeichnet, lassen deshalb Rückschlüsse auf die Beschaffenheit des Untergrunds zu.
 
 Zudem werden Felsen, Berge oder Gebäude von den Erschütterungen dazu angeregt, selbst zu schwingen, wie eine Gitarrensaite, die angeschlagen wird. Das Seismometer registriert auch die Eigenschwingungsfrequenzen der Objekte, was Auskunft darüber gibt, wie solide sie sind und welche Gebiete eines Hanges oder eines Felsens strukturell verbunden sind.
@@ -24,9 +24,9 @@ Schwingt der Fels an zwei Messpunkten synchron und mit der gleichen Frequenz, k�
 
 So liegt die Schwingungsdauer der meisten Felsinstabilitäten zwischen 0,1 und 0,3 Sekunden, während sie bei Bergen wie dem Matterhorn über zwei Sekunden dauert, wie Häusler als Mitautor der Studie (vgl. ETH News ) über die Resonanzfrequenzen des berühmten Felszahnes herausfand.
 
-Die Technik ist an sich nicht neu. Bauingenieure nutzen sie, um Bauten wie Brücken, Hochhäuser, Staudämme oder Windturbinen zu überwachen. Häusler hat die Methode in seiner Doktorarbeit jedoch so weiterentwickelt, um sie für die Untersuchungen in Hangrutschzonen und von Felsinstabilitäten nutzbar zu machen.
+## Technik hat sich bewährt
 
-## Zwei Standbeine
+Die Technik ist an sich nicht neu. Bauingenieure nutzen sie, um Bauten wie Brücken, Hochhäuser, Staudämme oder Windturbinen zu überwachen. Häusler hat die Methode in seiner Doktorarbeit jedoch so weiterentwickelt, um sie für die Untersuchungen in Hangrutschzonen und von Felsinstabilitäten nutzbar zu machen.
 
 In Preonzo im Kanton Tessin, wo 2012 ein Felssturz ins Tal donnerte, entdeckte Häusler mithilfe der Methode, dass grössere Teile der Anrisszone zur Instabilität gehören als angenommen. Auf der Walkerschmatt über dem Mattertal im Wallis kartierte der Geophysiker mit seiner Methode Brüche, welche andere Geologen mit Feldbegehungen nicht aufdecken konnten. Zum Einsatz kam sie auch beim Bündner Dorf Brienz/Brinzauls, das sowohl auf einem instabilen Hang steht, der sich derzeit mit einem Meter pro Jahr talwärts bewegt, als auch bergseitig von instabilen Felsen bedroht wird.
 
@@ -36,9 +36,9 @@ Dank des Fellowships kann er nun weitere Entwicklungen in Angriff nehmen, sein G
 
 Auf der Besucherplattform des Rheinfallfelsens hat Mauro Häusler ein Messgerät eingerichtet. (Bild: Peter Rüegg / ETH Zürich)
 
-Zu den Dienstleistungen seiner Firma zählen zum einen kurzfristige seismische Messungen, die der Jungunternehmer tageweise an einem Standort durchführt. «Mit meiner Methode kann ich rasch und präzise in den Untergrund ‘schauen’», sagt Häusler. Oft reicht es aus, wenn er am Morgen die Seismometer im Gelände platziert, wenige Stunden misst und am Nachmittag die Geräte abräumt, dann die Daten auswertet.
+## Zwei Standbeine
 
-## Arbeit geht nicht aus
+Zu den Dienstleistungen seiner Firma zählen zum einen kurzfristige seismische Messungen, die der Jungunternehmer tageweise an einem Standort durchführt. «Mit meiner Methode kann ich rasch und präzise in den Untergrund ‘schauen’», sagt Häusler. Oft reicht es aus, wenn er am Morgen die Seismometer im Gelände platziert, wenige Stunden misst und am Nachmittag die Geräte abräumt, dann die Daten auswertet.
 
 Zum anderen fasst Häusler auch die längerfristige Überwachung von gefährdeten Gebieten ins Auge. Da würden die Seismometer mehrere Monate oder gar Jahre in Betrieb sein. Solche Langzeitüberwachungen würden beispielsweise plötzlich sinkende Frequenzen der überwachten Zone aufdecken. «Dies wäre ein guter Hinweis auf abnehmende Stabilität des betreffenden Felsens oder Hanges. Ich kann die Seismik also auch als Frühwarnsystem einsetzen», betont der Geophysiker.
 

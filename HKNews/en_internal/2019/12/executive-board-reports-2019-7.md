@@ -2,41 +2,27 @@
 
 **Source:** en_internal/2019/12/executive-board-reports-2019-7.html
 
+**Date processed:** 2025-05-01
+
 ## New competence centre for rehabilitation
 
 From 1 January 2020, ETH will operate a new competence centre: research and teaching in the Rehabilitation Engineering and Science Center (RESC) will aim to improve health rehabilitation and quality of life for people with physical disabilities. To this end, a new Master’s programme will be established, eight additional professorships in the field of rehabilitation sciences created and public relations work further intensified with the Cybathlon 2020 as the next milestone. “The networking of research, education and public relations work in the field of rehabilitation is a task that is becoming increasingly relevant to society. That is why we are investing in this field.” Detlef Günther, ETH Vice President Research and Corporate Relations The RESC will be responsible for coordinating these efforts in research, teaching and outreach. The centre, located in the Department of Health Sciences, will link 28 ETH professors from nine departments and eight associated RESC members from University Hospital Zurich, Balgrist University Hospital, University Children’s Hospital Zurich and the Schulthess Clinic. Robert Riener is the designated head of the RESC.
 
-## University district: ETH’s contribution to public space
-
 Central to the intergenerational Hochschulgebiet Zürich Zentrum (HGZZ) project is the creation of attractive outdoor spaces and, at the same time, a traffic infrastructure designed to accommodate the anticipated future growth. In the forthcoming first development phase, this goal will be served by two joint building projects between the universities and the university hospital, to which ETH is contributing. The Executive Board has approved a contract with the HGZZ’s partners. On the one hand, the entire streetscape from the junction of Tannenstrasse and Rämistrasse to the Platte and Kantonsschule is to be remodelled. The tram tracks will be moved in order to enable pedestrians to cross safely along their entire length, combined with an urban development upgrade. This is scheduled to begin in 2026. The second project is an improvement of the pedestrian connections between Central and the main ETH building. Specifically, an attractive staircase is to be built between the Polybahn and the aki building (Polysteig). There are also plans to extend the route from the Polybahn upper station to the university (Querspange). This work is expected to commence in 2023.
-
-## Parking cost measures
 
 After mixed reactions to the decision to gradually increase parking charges , the Executive Board has revised the planned scheme. It has been found that the price increase represents a disproportionate financial burden, in particular for part-time employees. Therefore, employees with a workload of less than 70% will receive a discount of one third (similar to the student discount). ETH members who use various means of transport can now purchase a multi-ticket for 50 exits from the Hönggerberg. This costs CHF 250 and is thus cheaper than the price of the day ticket (CHF 10). Although electric vehicles do not receive a price reduction, the charging infrastructure at both locations will be expanded and made available free of charge. “Standard market charges for parking spaces are important in light of our efforts to create a CO2-free campus. However, we will carefully determine what the effective market charges are and take appropriate action.” (Ulrich Weidmann, ETH Vice President Human Resources and Infrastructure)
 
-## Center for Climate Systems to be maintained
-
 The cost of parking on the Hönggerberg will be raised to CHF 90 per month from 1 January 2020 and to CHF 120 per month from 1 January 2022, bringing it up to the level of parking charges in the centre. In a third step, the monthly charge will be raised to the market level from 1 January 2024. The plan is to charge CHF 180 per month both in the centre and on the Hönggerberg, although for the Hönggerberg this tariff will be reviewed again in 2023; i.e. before implementation.
-
-## ETH signs Charter for equal pay
 
 The Center for Climate Systems Modeling (C2SM), which was founded in 2008 as a joint competence centre with MeteoSwiss and Empa, will be continued as a teaching and research institution outside the departments from 2021. In recent years, the C2SM has consolidated its position as one of the leading centres for climate modelling. It links climate research in the Zurich area and performs important teaching and research tasks, as well as important outreach activities. For example, the C2SM draws up climate scenarios in collaboration with the National Centre for Climate Services and the widely acclaimed Klimarunde. In addition to ETH Zurich, D-USYS, MeteoSwiss and Empa, contributors to the costs of the C2SM include the participating professorships, WSL and Agroscope.
 
-## Contribution to costs of D-BSSE move
-
 State-affiliated businesses serve as role models when it comes to promoting gender equality in the workplace. It was with this in mind that Federal Councillor Alain Berset launched a “Charter for equal pay in the public sector” in 2016. The charter sets out four objectives. First, raised awareness of the national Gender Equality Act among those employees responsible for setting salaries, job assessment and recruitment, among other tasks. Second, regular monitoring of compliance with equal pay standards in their own organisation. Third, demanding equal pay as part of procurement procedures. And fourth, reporting on the concrete results of this commitment, in particular through participation in the Federal Office for Gender Equality's monitoring activities. ETH Zurich already meets these requirements. Equal pay is an important concern for the Executive Board, which is why the President has signed the federal wage charter on its behalf.
-
-## New ETH library strategy
 
 The Executive Board has approved CHF 17.4 million from its own reserves to equip the new building in Basel for the Department of Biosystems Science and Engineering (D-BSSE), scheduled to be operational in 2021. D-BSSE is contributing CHF 2.4 million to the cost of relocation. In part, the money will be used to establish a platform that will enable the production of clinical-grade therapeutics under GMP (Good Manufacturing Practice) conditions. The construction of this infrastructure will run from 2021 to 2023.
 
-## Regular updates from the Executive Board
-
 The ETH Library is the largest public scientific and technical library in Switzerland and and the national centre for scientific and engineering information. The transformation from an analogue to a digital library has largely become a reality in recent years. The ETH Library is a key entry point for scientific research, support of scientific publishing and the long-term preservation of information. It also aims to become a driving force for the generation and development of knowledge and its transfer to society. This new strategy will enable the library to become a globally networked knowledge hub at ETH, and a trusted partner and service provider for research and teaching. At the heart of the new strategy is a consistent focus on customers and comprehensive support. This is to be achieved by means of a platform known as “Connector”, in which the library’s services are prepared and made available to customers in modular form. This connector also combines services from external strategic partners to offer solutions tailored to different needs.
 
-## Subscribe to Newsletter
+## Regular updates from the Executive Board
 
 The Executive Board of ETH Zurich holds regular meetings every two weeks. This section provides information on the most important decisions taken at these meetings.
-
-## Staffnet
 

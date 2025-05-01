@@ -2,23 +2,9 @@
 
 **Source:** en_news_events/2022/11/the-seeds-have-germinated.html
 
+**Date processed:** 2025-05-01
+
 ## Vitamin A deficiency threatens millions of children
-
-- 1991: Ingo Potrykus floats the idea of a vitamin-A-enriched rice variety to fight malnutrition. Experiments start in 1992.
-
-- 1993: Carotenoid specialist Peter Beyer joins the project.
-
-- 1999: The two researchers present the prototype of Golden Rice. This breakthrough demonstrates that it is possible to reconstruct the carotenoid metabolic pathway in rice grains.
-
-- 2000: Potrykus and Beyer decide to advance the necessary product development as a humanitarian project.
-
-- 2005: Moving from daffodil genes to corn genes increases the provitamin A content.
-
-- 2006–2018: Compiling of all the necessary data for the regulatory dossier required before a genetically modified product can be grown in the open field.
-
-- 2021: Philippine biosecurity authorities give the green light for the cultivation and consumption of Golden Rice.
-
-- 2022: Cultivation commences in the Philippines under the supervision of national rice research institute PhilRice.
 
 This autumn will probably go down in agrarian history. In October, farmers in the Philippine Province of Antique harvested a substantial amount of beta-carotene-enriched Golden Rice for the first time – namely a total of 67 tonnes from 17 fields.
 
@@ -26,23 +12,29 @@ The dried and polished grains are going to be distributed to households with pre
 
 ETH Professor Emeritus Ingo Potrykus, the father and inventor of Golden Rice, sees its cultivation in the Philippines as a breakthrough: “Finally, the step towards practical utilisation has been taken. After decades during which genetic engineering has been used exclusively for commercial agriculture, the first instance of a humanitarian project using it to solve a major health issue is now becoming a reality.”
 
-## Milestones
-
 Vitamin A deficiency is a major health problem in many areas of the Philippines as well as in other Southern countries. It causes children in particular to go blind, suffer cognitive impairments and die of a weak immune system. Globally, several hundred million children are at risk of these deficiency-related diseases.
 
 Many other countries, such as Bangladesh, Indonesia, Vietnam, India and China, have therefore followed suit with the Philippines and have made considerable progress in introducing the vitamin-A-enriched rice.
 
+## Milestones
+
+• 1991: Ingo Potrykus floats the idea of a vitamin-A-enriched rice variety to fight malnutrition. Experiments start in 1992.
+• 1993: Carotenoid specialist Peter Beyer joins the project.
+• 1999: The two researchers present the prototype of Golden Rice. This breakthrough demonstrates that it is possible to reconstruct the carotenoid metabolic pathway in rice grains.
+• 2000: Potrykus and Beyer decide to advance the necessary product development as a humanitarian project.
+• 2005: Moving from daffodil genes to corn genes increases the provitamin A content.
+• 2006–2018: Compiling of all the necessary data for the regulatory dossier required before a genetically modified product can be grown in the open field.
+• 2021: Philippine biosecurity authorities give the green light for the cultivation and consumption of Golden Rice.
+• 2022: Cultivation commences in the Philippines under the supervision of national rice research institute PhilRice.
 In the early 1990s, the former ETH Professor of Plant Sciences and his colleague Peter Beyer of the University of Freiburg decided to fight malnutrition – also known as “hidden hunger” – by genetically modifying rice in such a way that the plant would accumulate beta-carotene in its grains. The human body converts beta-carotene into vitamin A, which it needs to survive. This would help people in countries, where rice is the most important source of carbohydrates, to meet their daily vitamin A requirement.
 
-## Delayed and deferred
-
 In 1999, the year Potrykus retired, he and Beyer presented a prototype of what would become known as Golden Rice: a rice variety that accumulated beta-carotene in its grains due to a transferred construct consisting of several foreign genes. The grains had a golden yellow hue: the first Golden Rice (GR) had become a reality.
+
+## Delayed and deferred
 
 Since the amount of beta-carotene in the prototype was still too small to meet a person’s daily vitamin A requirement, Beyer developed a second variant – GR2 – in collaboration with a team from the agricultural technology company Syngenta. Instead of daffodil genes, the plant scientists used genes from sweet corn. This led to a significant increase in the rice grains’ beta-carotene content compared to the prototype.
 
 Golden Rice was controversial from the start. Its use was blocked, deferred and held up for years. Environmental groups fought tooth and nail against this and other genetically modified plants. Governments, too, refused to approve the cultivation of Golden Rice. 22 years have passed between its development and large-scale cultivation.
-
-## The challenge of deregulation
 
 Now almost 89 years old, Potrykus is delighted that Golden Rice has finally been planted on a large scale: “I’m very relieved to finally see cultivation commence after so many years of production delays,” he says. That science beat ideology gives him great satisfaction. “But I’m also very upset that the delays caused further suffering among millions of children.”
 

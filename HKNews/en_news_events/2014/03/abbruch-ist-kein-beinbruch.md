@@ -2,17 +2,19 @@
 
 **Source:** en_news_events/2014/03/abbruch-ist-kein-beinbruch.html
 
-## Speed and level too high
+**Date processed:** 2025-05-01
+
+## Main article
 
 Failure is not the end of the game. (Graphics: from Globe 1/14, ETH Zurich)
+
+## Speed and level too high
 
 Anyone who fails their first year examinations is confronted with the feeling of failure, in most cases for the first time in their lives. At any rate, this is the impression that many students have. For them it’s a shock to their system, says Mirjam Kandler, Coach in the ETH unit “Student Orientation and Coaching” (SoC). Before going to university, most of them had ranked amongst the best in their high school and had easily passed all their exams. Then, things don’t go so smoothly, “The students suddenly question themselves and have doubts about their abilities.” This is something the coach knows from numerous conversations.
 
 The goal of the SoC staff is to support students in their choice of courses and in their first phase of study, but also during any potential reorientation – if, for example, it turns out that they made a mistake when choosing their courses, choosing to study at ETH or even choosing a university career in general.
 
 Mirjam Kandler and her SoC colleagues offer various activities early on to avoid students opting for the wrong course, only to drop out later. In their travelling exhibition “ETH out and about”, high school pupils can already gain an advance impression about what it means to study at ETH Zurich. To this end, ETH professors and students visit Swiss high schools, giving lectures and showing experiments from their respective disciplines. Furthermore, the SoC staff organises project weeks and study information days together with ETH departments. Anyone who is still unsure what about he or she would like to study can have the differences between the various subjects explained to them in a personal interview with a study adviser.
-
-## Finding alternatives
 
 After registering for a course of study, the future students are invited to a “Prestudy Event” a few months before the term starts. This is where students find out what awaits them at ETH and what they should pay attention to when studying. They make contact with other future students and know to whom they can turn if they feel lonely or out of their depth.
 

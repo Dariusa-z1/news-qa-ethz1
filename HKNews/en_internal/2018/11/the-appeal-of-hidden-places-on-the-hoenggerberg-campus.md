@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2018/11/the-appeal-of-hidden-places-on-the-hoenggerberg-campus.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Philip Verwege (2nd), Nicolas Ochsner (1st), Kim Gloor and Riccardo Montecchi (3rd) are delighted. (Photo: ETH Zurich)

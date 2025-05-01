@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2015/08/joint-master-geoscience.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH News: Prof. Maurer, what vision led to the establishment, 10 years ago, of a Master programme spread across three universities in three countries? Hansruedi Maurer: Sixteen years ago, ETH Zurich joined TU Delft of the Netherlands, RWTH Aachen and Imperial College London in a strategic partnership known as the IDEA League . The idea of the then rector of ETH Zurich, Konrad Osterwalder, ETH-Geophysics Professor Alan Green, and Jacob Fokkema, former Rector of TU Delft, was to set up an exchange of geophysic’s master’s degree students between the two universities. The concept of a joint master’s was developed later. The vision was to pool expertise from three leading technological institutes of in this field and therefore to offer students an excellent study programme.
@@ -29,6 +31,8 @@ Looking back today, what are you particularly proud of in the establishment of t
 And what does the future hold? Right now, I don’t see any need for changes. An average of 30 to 40 students now start the master’s course every year. That is a lot, but as long as the quality is right and there is demand for the graduates in industry, we have no desire to limit the numbers in future.
 
 Hansruedi Maurer has been Professor of Geophysics at ETH Zurich since 2007.
+
+## Studying in three countries: Joint Master in Applied Geophysics
 
 The trinational study programme in applied geophysics from ETH Zurich, RWTH Aachen and TU Delft was launched in 2006. Students live and learn for one semester at each of the participating universities. In the final semester, they write a master’s thesis at one of the universities or in collaboration with a partner in industry. Over the past 10 years, 160 students have successfully completed the programme. On 28 August, the participating partner universities will celebrate the 10th anniversary of the Joint Master at TU Delft with a seminar on geological education in Europe.
 

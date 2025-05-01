@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2014/01/neue-app-sch%C3%BCtzt-vor-brandroter-haut.html
 
+**Date processed:** 2025-05-01
+
 ## Aggressive Sonnenstrahlen
 
 Wir alle kennen das: In Eile und voller Vorfreude können wir es kaum erwarten, endlich ins Flugzeug zu steigen oder unser Auto zu beladen, um den bleischweren Wolken am Himmel, den langen Arbeitstagen im Büro und den schier endlosen Routinearbeiten im Haushalt zu entfliehen. Unser Reiseziel: das Paradies! Bei neun von zehn Urlaubsreisen heisst das im Klartext, einen Platz an der Sonne zu ergattern. Ob weisse Sandstrände auf den Malediven oder weiss überzuckerte Berghänge in Zermatt: Mit einer Sonnenbrille auf der Nase und einem Cocktail in der Hand steht Sonnenbaden sehr wahrscheinlich ganz oben auf dem Urlaubsprogramm.
@@ -10,15 +12,11 @@ Doch wann wird aus dem Spass an der Sonne ein glühend heisser Alptraum? Oder an
 
 Je mehr Vitamin D Ihr Körper dank der Kraft der Sonne produziert, desto besser? Nein, das stimmt so nicht. Es stimmt, dass unser Körper Vitamin D produziert, sobald Sonnenstrahlen direkt auf unsere Haut einwirken. Die meisten Menschen können so zumindest einen Teil ihres Vitamin-D-Bedarfs decken. Sonnenlicht ist zwar essentiell für die Vitamin-D-Synthese, doch eine übermässige Sonnenexposition ist gefährlich.
 
-## Vorbeugende Massnahmen
-
 Leider haben die meisten von uns sich schon öfter mal nicht nur die Finger an der Sonne verbrannt. Wer wie ein Hummer oder eine Languste aussieht, bietet einen mehr als komischen Anblick. Doch ein Sonnenbrand kann die Haut ernst- und dauerhaft schädigen. Selbst wenn man sich keinen Sonnenbrand dabei holt, kann eine hohe UV-Strahlung die Hautalterung beschleunigen, oder – schlimmer noch – zu Hautkrebs führen. Tatsächlich ist Hautkrebs die häufigste Krebsart und wird hauptsächlich durch die UV-Strahlung der Sonne verursacht.
 
 Es gibt vorbeugende Massnahmen, um die Wahrscheinlichkeit einer UV-Strahlenüberdosis und das damit verbundene Krebsrisiko wirksam zu senken: Man kann sich vorwiegend in Innenräumen aufhalten, schützende Kleidung tragen und ein Sonnenschutzprodukt mit mindestens Faktor 8 auftragen, bevor man länger als nur für ein paar Minuten ins Freie geht.
 
 Diese Vorsichtsmassnahmen sind schon viel wert, wenn man den Körper vor einer übermässigen Sonnenexposition schützen möchte, doch sie können die UV-Strahlung, die bereits auf den Körper eingewirkt hat, nicht quantifizieren. So ist es schwierig abzuschätzen, wann man erneut Sonnenschutz auftragen sollte, wann das Tragen eines Sonnenhutes sinnvoll wäre oder wann es Zeit ist, einen schattigen Platz aufzusuchen. «Oftmals holen sich die Leute einen Sonnenbrand, weil sie sich mit unbekannten Situationen oder Umgebungen auseinandersetzen müssen und die Kraft und Intensität der UV-Strahlung vor Ort unterschätzen. Urlaubsorte sind ein klassisches Beispiel hierfür», sagt Welten. «Die Schwierigkeit bei der Einschätzung von UV-Strahlung rührt im allgemeinen daher, dass sie für das menschliche Auge unsichtbar ist.»
-
-## SunBuddy wacht über unser Wohlbefinden
 
 Während ihrer Forschungstätigkeit am Computer Engineering and Networks Laboratory der ETH bezogen die SunBuddy-Erfinder Samuel Welten, Thomas Fahrni, Michael Kuhn, Philipp Sommer und Roger Wattenhofer auch menschliche Fehlinterpretationen in ihre Kalkulationen mit ein. Das Sensorgerät, das am Körper getragen wird, misst nicht nur Ihre UV-Exposition, sondern warnt Sie mittels Smartphone App auch vor einem hohen UV-Index oder sobald Sie Gefahr laufen, zu viel Strahlung zu absorbieren. «Dank seiner Fähigkeit, Ihre derzeitige UV-Exposition oder die bereits stattgefundene Absorption zu messen und aufzuzeichnen, ermöglicht Ihnen das Gerät, Ihre Sonnenschutzmassnahmen besser abzustimmen», meint Welten. «Und sollten Sie bereits einen Sonnenschutz aufgetragen haben und einen Sonnenhut und ein langärmeliges T-Shirt tragen, dann können Sie diese Informationen in das System eingeben und die App wird sie bei der Berechnung der Werte berücksichtigen.»
 

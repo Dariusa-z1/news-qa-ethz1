@@ -2,27 +2,29 @@
 
 **Source:** en_news_events/2015/08/borkenkaefer-im-klimawandel.html
 
+**Date processed:** 2025-05-01
+
 ## Profitiert der Buchdrucker vom Klimawandel?
 
 «Den Borkenkäfer – gibt’s den noch?» Solche Fragen hören wir oft, wenn wir Nicht-Fachleuten über unsere Forschung berichten. Wenn man hier landläufig vom «Borkenkäfer» spricht, ist meistens der Buchdrucker ( Ips typographus ) gemeint, der bekannteste und bedeutendste der 119 Borkenkäferarten der Schweiz. Er kommt in jedem Wald mit Fichten vor und ist ein wichtiges Pionierinsekt beim Abbau stark geschwächter oder abgestorbener Bäume. Wenn er sich jedoch in Massen vermehrt, üblicherweise nach grossen Sturmereignissen, kann er grossflächig auch vitale Fichtenbestände befallen. Nach den Stürmen Vivian (1990) und Lothar (1999) war «der Käfer» nicht nur in den Wäldern, sondern auch in den Medien allgegenwärtig. In den letzten Jahren ist es aber ruhiger um ihn geworden, da wir zurzeit in den meisten Regionen der Schweiz sehr niedrige Käfer- und Befallszahlen verzeichnen.
 
 Der Buchdrucker ( Ips typographus ) hat eine Länge von nur etwa 4-6 mm. (Bild: pepik44 - Fotolia.com)
 
-## Aktuelle Informationen für die Praxis
-
 Neben Sturmereignissen beeinflussen vor allem Temperatur und Niederschlag die Wechselwirkungen zwischen dem Buchdrucker und seinem Wirtsbaum, der Fichte. In einem vom BAFU finanzierten Forschungsprojekt haben wir an der WSL den Einfluss des Klimawandels auf diese Zusammenhänge untersucht. Ein wichtiges Mass für das Gefährdungspotenzial des Buchdruckers ist die Anzahl der Generationen, die er einem Jahr hervorbringen kann. Mit jeder Generation vervielfacht sich die Käferpopulation, sofern ausreichend befallsfähige Fichten verfügbar sind: Ein Weibchen produziert etwa 50 Käfer (1. Generation), daraus entstehen um die 1‘250 Individuen in der 2. Generation, und in der dritten können es dann bereits über 30‘000 sein.
 
 Bei steigenden Temperaturen entwickeln sich die Käfer schneller und können somit eher eine weitere Generation anlegen (siehe nachfolgende Abbildung). Vor allem im Mittelland, wo zurzeit meist zwei Generationen ausgebildet werden, könnte bis Ende des Jahrhunderts vermehrt eine dritte entstehen. Auch werden die Käfer früher im Jahr beginnen zu fliegen, wodurch sich die Befallsperiode verlängern wird. Erhöhte Temperaturen und die möglicherweise ebenfalls ansteigende Trockenheit werden die Fichten vor allem in tiefen, südexponierten Lagen schwächen und so ihre Abwehrfähigkeit vermindern. Zusammen mit dem schnelleren Populationswachstum kann der Käfer diese Bäume leichter besiedeln.
 
-## Das Risiko für Borkenkäferbefall steigt
+## Aktuelle Informationen für die Praxis
 
 Insgesamt wird der Klimawandel schweizweit die Anfälligkeit für den Befall von Fichtenbeständen erhöhen. Extremsituationen wie im Jahrhundertsommer 2003 könnten dann gegen Ende des Jahrhunderts der Normalfall sein.
 
 Neben langfristigen Prognosen interessieren sich Förster vor allem dafür, wie sich das aktuelle Wetter auf die Borkenkäfer vor Ort auswirkt. Dazu haben wir an der WSL die Online-Plattform www.borkenkaefer.ch entwickelt. Hier können sich Förster, Kantonsvertreter, Waldbesitzer, aber auch interessierte Laien darüber informieren, wie sich im Frühjahr oder Sommer der Käferflug auf einer bestimmten Höhenlage und Exposition entwickelt und wie die Prognose bis zum Winterbeginn aussieht. Ausserdem gibt es Hintergründiges zum Buchdrucker und zur regionalen Befallsgeschichte der letzten 30 Jahre.
 
-## Weiterführende Informationen
+## Das Risiko für Borkenkäferbefall steigt
 
 Es gibt ihn also durchaus noch, den Borkenkäfer, und seine Zukunftsperspektive unter veränderten Klimabedingungen ist gar nicht schlecht. Auch wenn die Fichte zurzeit im Mittelland zurück geht, werden steigende Temperaturen und sinkende Sommerniederschläge dort mittelfristig noch zu einem erhöhten Befallsrisiko führen. Auch in höheren Lagen, wo die Fichte eher noch zunehmen wird, wird eine zusätzliche Käfergeneration das Befallsrisiko steigern. Man muss also weiterhin mit ihm rechnen, dem Käfer.
+
+## Weiterführende Informationen
 
 Plattform für Borkenkäfer in der Schweiz: www.borkenkaefer.ch
 

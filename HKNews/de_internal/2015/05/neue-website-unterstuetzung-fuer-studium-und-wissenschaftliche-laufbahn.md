@@ -2,19 +2,19 @@
 
 **Source:** de_internal/2015/05/neue-website-unterstuetzung-fuer-studium-und-wissenschaftliche-laufbahn.html
 
-## Karriereförderung – eine Priorität des SNF
+**Date processed:** 2025-05-01
+
+## Main article
 
 Um Studierende und Forschende während ihrer Zeit an der ETH Zürich zu unterstützen, stellt die Hochschule zahlreiche Beratungsangebote zur Verfügung. Diese sind auf die Bedürfnisse der jeweiligen Studien- oder Karrierephasen abgestimmt. Die Unterstützung reicht von persönlichen Beratungen (z.B. bei Wohnungssuche, Kinderbetreuung, Laufbahnberatung, Berufseinstieg, Firmengründung) bis zur juristischen Hilfe bei Patentierungsfragen.
 
 Für junge Wissenschaftlerinnen und Wissenschaftlern, die eine Laufbahn in der internationalen Wissenschaft anstreben, bietet die ETH Zürich zudem eine grosse Palette an kompetitiven Förderinstrumenten an, die ebenfalls abgestimmt sind auf die jeweilige Karrierephase. Zudem vergibt sie regelmässig Preise für ausserordentliche Leistungen in Lehre, Forschung und Technologietransfer.
 
-## Staffnet
-
 Um rasch einen Überblick über die Gesamtheit der Beratungs- und Fördermöglichkeiten der ETH Zürich im Bereich Karriereentwicklung zu geben, haben der Stab Forschung und das neu gegründete, eth-interne «Forum Nachwuchsförderung» im Auftrag der Schulleitung die Website « Unterstützung für Studium und wissenschaftliche Laufbahn » eingerichtet. Sie befindet sich im ETH-Web unter «Arbeit, Lehren und Forschen» und umfasst u.a. zwei klickbare Grafiken, auf denen die verschiedenen Unterstützungsangebote abgebildet sind.
 
 Die Grafiken sind zu finden auf: www.ethz.ch/unterstuetzung-studium-laufbahn .
 
-## Newsletter abonnieren
+## Karriereförderung – eine Priorität des SNF
 
 Wie der Schweizerische Nationalfonds (SNF) in Zukunft gezielt Karriere und exzellenten Nachwuchs in der Wissenschaft fördern will, hat er heute (19. Mai 2015) im Zusammenhang mit seinem Mehrjahresprogramm 2017-2020 vorgestellt.
 

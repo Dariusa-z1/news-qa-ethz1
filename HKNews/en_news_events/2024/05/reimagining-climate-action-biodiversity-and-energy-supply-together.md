@@ -2,11 +2,15 @@
 
 **Source:** en_news_events/2024/05/reimagining-climate-action-biodiversity-and-energy-supply-together.html
 
-## About the author
+**Date processed:** 2025-05-01
+
+## Main article
 
 On 9 June, Switzerland will vote on the Electricity Act. This is actually a whole package of laws – and a major compromise. It aims to achieve a secure power supply with renewable energies, even in winter, and enable Switzerland to generate more domestic electricity from sun, water and wind.
 
 The proposal raises important questions: Why is the energy transition needed now and in this form? What are the consequences for the landscape and biodiversity? And, is it possible to mitigate climate change, preserve biodiversity and secure the energy supply at the same time?
+
+## About the author
 
 Cyril Brunner is a postdoc in the Climate Physics group at ETH Zurich and conducts research on climate strategies and carbon dioxide removal.
 
@@ -14,19 +18,17 @@ It is precisely these kinds of interfaces and conflicting goals that Switzerland
 
 I think the discussions centred on the vote are very important. This is because biodiversity is declining at an alarming rate worldwide, and in Switzerland in particular. The main causes of this are urbanisation and agriculture; energy infrastructure is also a driver, but only to a small extent.
 
-## Climate neutrality is not possible without compromises
-
 Nevertheless, there is a conflict of objectives between new plants and the protection of biodiversity: hydropower plants interrupt the migration routes of fish and disrupt the ecological balance of rivers; solar panels cast shadows and can affect vegetation and animals; and birds and bats collide with wind turbines. Yet these figures are very small: in Switzerland, each wind turbine kills as many birds as two domestic cats eat every year.
 
 However, climate change itself is contributing to the loss of biodiversity. If we do not succeed in mitigating it, the ever-warmer climate is likely to become one of the main drivers of species extinction. In addition, climate change is already altering landscapes on a large scale, as witnessed by the global melting of glaciers. But personally, I am more concerned about thawing permafrost, crumbling mountains and resulting unstable slopes, and withering forests due to long periods of drought. A key argument in favour of the climate targets set is to reduce the devastating consequences for biodiversity and landscapes.
+
+## Climate neutrality is not possible without compromises
 
 Switzerland wants to phase out fossil fuels primarily through heat pumps and the electrification of mobility and to cover its growing demand for renewable electricity primarily through photovoltaics and hydropower. In view of the energy crisis and geopolitical tensions, electricity production from renewable energies grew so strongly in 2023 that it could cover the electricity needs of a climate-neutral Switzerland in 25 years – but it is unlikely that the pace of 2023 can be maintained without additional measures. The Electricity Act provides incentives and removes familiar hurdles.
 
 Clearly, any new infrastructure has an impact on biodiversity and the landscape. However, negative effects can be minimised – four principles, which we discuss in the white paper, help in assessing prospective sites.
 
 In general, installations on existing infrastructure have the least impact on nature, followed by areas influenced by humans such as mountain railways, fields and pastures.
-
-## Changes are inevitable
 
 Previously, cantons had to designate suitable areas for hydroelectric or wind power plants; under the new law, they would also have to do this for large solar power plants. Landscape and biotope protection, forest conservation and the public's right to have their say and lodge complaints remain intact.
 

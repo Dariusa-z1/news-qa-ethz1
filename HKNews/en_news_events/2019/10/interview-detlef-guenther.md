@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2019/10/interview-detlef-guenther.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH-News: Professor Günther, ETH Zurich researchers working with Professor Tom Crowther’s group published a study this summer setting out a quantitative assessment of the carbon-cutting potential offered by reforestation.Today, numerous international scientists expressed criticism on the study in the journal Science. Isn’t that quite unusual? Detlef Günther: It’s certainly not unusual for researchers to take a different approach to testing a hypothesis. The scientific process is a continuous discourse that casts a critical light on new hypotheses.
@@ -13,6 +15,8 @@ Some of the critical comments were made by researchers at ETH. Is there a lack o
 On the one hand, the comments question the technical aspects of the study, while on the other they are critical of the message: that planting trees is a way of halting climate change. Have the researchers of the Crowther Lab exaggerated this claim in their communication? One of the tasks of ETH researchers is to make their findings available to a broad public and thereby encourage societal discourse. This open communication of research results is always a balancing act. But the findings must meet the very highest scientific standards. In the responses they gave to the criticisms voiced, researchers in the Crowther Lab acknowledged that their communication was not always optimal. They are quite clear that reforestation is only one approach among many towards finding a solution. Even with this approach, CO 2 emissions still need to be reduced in other ways. The authors have therefore made an appropriate amendment to the abstract of their original publication.
 
 Does the criticism have any consequences for the authors of the study? They obviously need to engage with this discussion, and have already done so through their official response in the journal Science. They gave detailed replies to the points raised, clarified misunderstandings and also admitted an inaccuracy. That’s extremely important, as the debate about the necessary solutions to halt climate change are bound to be a constant concern for society in the future.
+
+## Further information
 
 The study by the Crowther Lab on the potential that reforestation offers to reduce CO 2 published in the journal Science (5 July 2019) prompted four scientific comments and three letters which were published in the October 18 th edition, together with two responses of the scientists in the Crowther Lab. The authors have since amended a statement in the abstract of their original publication. Overview of the publications:
 

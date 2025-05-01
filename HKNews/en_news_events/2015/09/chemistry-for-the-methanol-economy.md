@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2015/09/chemistry-for-the-methanol-economy.html
 
+**Date processed:** 2025-05-01
+
 ## Where does the carbenium ion come from?
 
 Ethylene is produced in greater amounts than any other basic chemical in the world. The small molecule consisting of two carbon atoms and four hydrogen atoms, it is a basic building block in the manufacture of a wide range of basic chemicals, polymers and plasticisers. The packaging material polyethylene (PE) is just one popular application among many. Today ethylene is primarily manufactured from crude oil in a process known as cracking, but the ongoing price volatility and the finite availability of crude oil have caused a surge for an alternative manufacturing approach: its synthesis from methanol in the so-called methanol-to-olefins (MTO) process. Now a team of scientists at ETH Zurich and ENS Lyon has worked out in detail how the reaction begins.
@@ -10,11 +12,11 @@ Chemists developed the MTO process in the late 1970s, and today there are manufa
 
 For the MTO reaction to occur, methanol is brought together with so-called zeolites at 400 degrees Celsius. These zeolites are porous, granular aluminosilicate minerals facilitating the reaction as catalysts. For a long time, chemists were unable to exactly explain the MTO reaction. 20 years ago scientists postulated that other molecules had to be involved: positively charged cyclic hydrocarbon molecules in which five to six carbon atoms are bonded together, also known as cyclic carbenium ions. Such species actually react with methanol: They stitch two methanol molecules together and form a carbon-carbon bond, before producing ethylene.
 
-## Literature reference
-
 However, if these cyclic carbenium ions are involved and necessary for the reaction to start, the question is where do they come from? Many scientists proposed that these ions must be present as adventitious contaminants in methanol.
 
 Now the Franco-Swiss research team has proposed a different explanation. “We have shown that alumina, which is always present in zeolites, can easily transform methanol into ethylene and other hydrocarbons, which can then be converted into carbenium ions in the pores of the zeolite catalyst,” explains Christophe Copéret, Professor of Surface and Interface Chemistry at ETH Zurich and one of the authors of the study. “While the MTO process is up and running at industrial scale, this work shades new light on how the process starts. And it shows that simple oxide materials like alumina can trigger carbon-carbon bond formation from methanol derivatives, thus opening new avenues for the upgrading of methanol into long chain hydrocarbons.”
+
+## Literature reference
 
 Comas-Vives A, Valla M, Copéret C, Sautet P: Cooperativity between Al Sites Promotes Hydrogen Transfer and Carbon–Carbon Bond Formation upon Dimethyl Ether Activation on Alumina. ACS Central Science, 5 August 2015, doi: 10.1021/acscentsci.5b00226
 

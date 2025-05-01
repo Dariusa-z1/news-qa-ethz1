@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2014/03/not-without-us.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 “Life is what happens while you're busy making other plans” – the quote on the door to my office could hardly be a more precise description of how the weeks after 9 February passed for VSETH. The meticulously planned projects for February and March, which included installing an ice rink on Hönggerberg, issuing a statement on the election of the Rector and conducting targeted lobbying in the National Council in relation to tuition fees, among other things, were suddenly dwarfed by a new topic: the mass immigration initiative and its effects on the European education and research programmes of Erasmus+ and Horizon 2020.
@@ -19,6 +21,8 @@ Now that the discussion in the media about the effects of the mass immigration i
 These questions show that we are discussing the effects of the referendum at ETH as a whole, not only among the students, and must come to the necessary conclusions in order to represent our position distinctly and clearly in the future.
 
 To my mind, the foundation of this position should be the following principle from the appeal: “We hereby express our commitment to an open European and international higher education area, and emphasise our will to continue to foster and promote international exchange at our higher education institutions.”
+
+## About the author
 
 In November 2013, Julia Wysling was elected President of VSETH by the Council of Members, the highest body in the Student Association VSETH. She was born in Zurich in 1990 and grew up in Zurich, Vienna and most recently in Uster. Having successfully completed her studies at the Kantonsschule Rämibühl, which included an exchange year in Australia, she has been studying mathematics at ETH Zurich since 2009. Julia had previously already played an active part in the Mathematicians’ and Physicists’ Association (VMP), in various VSETH committees and in the SoNaFe/WiNaFe Association, which organises the summer and winter end-of-semester parties at ETH Zurich. One aspect of her work in VSETH, which she finds particularly fascinating, is how the students’ political representation influences the range of services on offer. In her free time, Julia spends her time training for a triathlon.
 

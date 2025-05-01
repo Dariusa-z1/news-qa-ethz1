@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2017/10/building-with-excavated-material.html
 
+**Date processed:** 2025-05-01
+
 ## Earthy architecture
 
 When modern humans build a structure, it usually works like this: they dig a pit, transport the excavated material away in a lorry and deliver tonnes of sand, gravel and cement in its place. This is mixed with water to create concrete, which is used to build the foundations and the house. The latter is then fitted out primarily with complex building technologies to compensate for any losses in comfort.
@@ -10,15 +12,13 @@ We want to show that there’s another way to do this. Specifically, by making b
 
 With this in mind, the Chair of Sustainable Construction is collaborating with IG Lehm, the association for earth construction in Switzerland, to organise the exhibition THINK Earth! in the main hall at ETH Zurich (see box). The exhibition introduces earth as a building material, explains the relevant construction techniques and offers examples of contemporary earthen architecture.
 
-## An alternative building material
+## A naturally regulated indoor climate
 
 Earth has been a reliable building material since human beings first left their caves. Indeed, earthen construction may well be the oldest building technique in the world. Unfortunately, it is no longer the most important, particularly in modern cities. Today, we build primarily with wood, brick, steel and concrete, but rarely with mud – too rarely, in our opinion. As a construction material, earth is similar to concrete, except that the gravel and other components are bound together by clay, rather than cement.
 
 But there are some important differences. Examine the issue of resources, for example, and a paradoxical situation emerges: almost everywhere in the world, the construction industry is busy trying to secure enough good sand and cheap gravel for the production of concrete – an energy-intensive process. Sand, a seemingly endless raw material, is being dug away from rivers, lakes and coasts, and is slowly but surely running out (see the following blog entry in German).
 
 While this is happening, we are removing a perfectly suitable building substrate from our cities and transporting it away at great expense to landfills and gravel pits. If we made greater use of the excavated material in construction instead, we would not only short-circuit this supply chain, but also spare our sand and gravel resources and save energy and CO 2 .
-
-## A naturally regulated indoor climate
 
 Dry air is an increasingly common problem for residents of new buildings. Problems with humidity and the indoor climate are caused by high-density construction methods and controlled ventilation and heating systems. The most common response to this deficiency is to use as much sophisticated, complex technology as possible.
 
@@ -34,9 +34,9 @@ Researchers around the world are currently working on precisely this issue. Empa
 
 If you are interested in earth architecture, you are invited to visit Think Earth! .
 
-## Think Earth! – building with earth today
-
 Guillaume Habert wrote this article in collaboration with Sasha Cisar.
+
+## Think Earth! – building with earth today
 
 The exhibition will show the potential of excavated material in construction. It opens at 5.30 p.m. on 30 October 2017 in room HG E 3. The exhibition will display projects which have received the TERRA Award , the prize for contemporary earthen architecture. There will be two discussions tackling the themes of “Earth and Health” (on 1 November, in German) and “Earth and Technology” (on 3 November, in English), both at 5.30 p.m. in the Semper Aula.
 

@@ -2,35 +2,30 @@
 
 **Source:** en_news_events/2018/06/what-is-a-good-reputation-worth.html
 
+**Date processed:** 2025-05-01
+
 ## The significance of reputation
-
-- Master Management, Technology and Economics
-
-- Departement Management, Technology and Economics
-
-- Risk Case Study Seminar 2018
 
 How high are the losses incurred by companies through reputational damage? How can they be measured? How high is the loss relative to operating costs? Can these risks be transferred, for example, to insurers? Sixteen Master's students set out to find answers to these and similar questions in the “Risk Case Study Challenge 2018”.
 
 This seminar under the direction of the ETH Zurich Risk Center was conducted as a pilot project in cooperation with the reinsurer Swiss Re. It was offered by the Department of Management, Technology and Economics (D-MTEC), although it also targeted students from other departments with an interest in risk management. The aim was for the students to develop management know-how through real examples from the business world.
 
-## The specific impact of reputational risks
-
 “This was a completely new experience for the students”, reports Bastian Bergmann, seminar leader and Executive Director of the Risk Center. “They were familiar with statistical methods and programming, but their main focus had been engineering sciences or electrical engineering. They had to learn about such topics as risk modelling or reputation management.”
 
 The kick-off meeting for the seminar was in March. The final presentation in front of 120 Swiss Re employees was in June. In between the meeting and presentation were twelve intense weeks during which the participants split into groups of four and worked on a focus topic in conjunction with a case manager from Swiss Re. In parallel the students received an introduction to risk modelling, text mining and sentiment analysis from an ETH Zurich expert.
-
-## A successful pilot project
 
 One group researched the significance allocated by companies to their reputation. Their analysis revealed that American companies in particular have been focusing more on how they are perceived externally and their reputation in recent years. Students used companies’ annual reports for their research and analysed references to reputational topics through text mining. They found that the financial sector especially has placed more of a premium on reputational management since the crisis. The annual reports did not exclusively address the traditional target groups such as investors and employees, bit rather focused increasingly on the media, social media and NGOs. The business community in the US is a lot more interested in reputational management than is the case in Switzerland.
 
 There are good reasons for the growing interest in reputation and the analysis of reputational risks. Ultimately, reputational damage can lead to loss of employees and clients. At the same time, the direct causal connection has hitherto proved difficult to quantify. “That’s why new modelling methods are also of interest to insurers in order to quantify and predict reputational risks more precisely”, says Bergmann with reference to the cooperation with Swiss Re.
 
-## A Master’s at D-MTEC
-
 Other participating groups thus examined the specific impact of reputational risks, using as a basis, by way of example, the share price of companies whose value had been impacted by adverse reputational events, including marketing mishaps, cyberattacks on customer data, accidents, criticism of child labour or the diesel scandal. The students calculated, on the basis of 37 specific case analyses, how the share price would most likely have fared if the defamatory event had not occurred and compared it to the actual price. “We saw that reputational damage was mainly significantly higher than operational loss – particularly if related to cyberattacks”, concludes Bergmann. The groups also found that companies recovered a lot quicker from reputational damage after an adverse event in the fleeting world of advertising than from instances of fraud. A marketing error can be forgotten after four days, whereas accidents or fraud are still in the public eye one month later. Another group conducted an in-depth analysis of reputational loss resulting from cyberattacks, while the fourth group gathered ideas and concepts for possible insurance solutions
 
 “The pilot project was a resounding success”, concludes Bastian Bergmann. “All the participants gave us positive feedback and said that they were able to take a lot with them in terms of content and wanted to research the subject further.” “Reputation is extremely elusive. So I’m all the more impressed by the different methods employed by the students to approach the topic”, says Eric Durand, case manager and Head of the Cyber Center of Competence at Swiss Re. The ETH Risk Center is planning a further risk case challenge in cooperation with its industrial partners for spring 2019.
 
+## A Master’s at D-MTEC
+
+• Master Management, Technology and Economics
+• Departement Management, Technology and Economics
+• Risk Case Study Seminar 2018
 The Master’s in Management, Technology and Economics prepares entrepreneurially minded students with a Bachelor’s in Engineering or Natural Sciences to take up management positions in business or society.
 

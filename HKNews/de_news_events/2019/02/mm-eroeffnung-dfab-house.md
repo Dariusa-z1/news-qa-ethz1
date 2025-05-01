@@ -2,25 +2,23 @@
 
 **Source:** de_news_events/2019/02/mm-eroeffnung-dfab-house.html
 
+**Date processed:** 2025-05-01
+
 ## Vom Labor zur architektonischen Anwendung
 
 Eine feingliedrige Betondecke – gegossen in 3D-gedruckten Schalungen – und eine geschwungene, von einem Bauroboter erstellte Betonwand prägen die Architektur des Wohnzimmers, das in seiner Ästhetik entfernt an die Filmsets des Schweizer Künstlers HR Giger erinnert. Auf Zuruf öffnen sich die Storen wie von Geisterhand und der Wasserkocher bereitet das Teewasser vor. Was wie ein Science-Fiction-Film klingt, ist in Dübendorf Realität: Heute öffnet das smarte und gleichzeitig weitgehend digital geplante und gebaute DFAB HOUSE erstmals seine Türen.
 
 Das dreigeschossige «Wohnhaus» trohnt auf der obersten von drei Plattformen im NEST. Auf diesem modularen Forschungs- und Innovationsgebäude der Empa und Eawag können Forschende zusammen mit Industriepartnern neue Bau- und Energietechnologien unter realen Bedingungen testen. NEST besteht aus einem zentralen Gebäudekern, an den unterschiedliche Gebäudemodule – sogenannte Units – andocken können.
 
-## Ein intelligentes Zuhause
-
 Für den Bau der Unit DFAB HOUSE haben Forschende aus acht Professuren der ETH Zürich im Rahmen des Nationalen Forschungsschwerpunkts (NFS) «Digitale Fabrikation» in Zusammenarbeit mit Industriepartnern gleich mehrere neuartige, digitale Bautechnologien erstmals vom Labor in reale Anwendungen überführt (siehe Factsheet Digitale Fabrikation). Die digitalen Technologien haben zum Ziel, das Planen und Bauen nicht nur effizienter zu machen, sondern auch nachhaltiger. So ist beispielsweise die digital geplante Geschossdecke des DFAB HOUSE statisch und strukturell derart optimiert, dass gegenüber einer herkömmlichen Betondecke beträchtliche Mengen an Material eingespart werden können. Auch in gestalterischer Hinsicht eröffnen die Technologien neue Möglichkeiten. So sind die beiden oberen Wohngeschosse von Holzrahmen geprägt, die mit Hilfe zweier Bauroboter fabriziert und in komplexer Geometrie angeordnet wurden.
 
 «Das architektonische Potenzial von digitalen Bautechnologien ist immens. Nur leider kommen diese Technologien noch kaum auf die Baustellen. Mit dem DFAB HOUSE gelingt es uns, Hand in Hand mit der Industrie neue Technologien zu erproben und so den Transfer von der Forschung in die Praxis zu beschleunigen», sagt Matthias Kohler, ETH-Professor für Architektur und digitale Fabrikation.
 
-## Forschung und Wirtschaft lernen voneinander
+## Ein intelligentes Zuhause
 
 In rund zwei Monaten werden nun die ersten Bewohnerinnen und Bewohner ins DFAB HOUSE einziehen. Es handelt sich dabei um akademische Gäste von Empa und Eawag. Im DFAB HOUSE werden sie in einem intelligenten Zuhause leben. Ein Firmenkonsortium unter Leitung der digitalSTROM AG hat im DFAB HOUSE erste Smart-Home-Lösungen eingebaut (siehe Factsheet Digitales Wohnen), die auf der herstellerunabhängigen digitalSTROM-Plattform basieren. Zu diesen gehören unter anderem eine intelligente und mehrstufige Einbruchsicherung, automatisierte Blend- und Beschattungsmöglichkeiten und die neueste Generation vernetzter, intelligenter Haushaltsgeräte.
 
 DFAB HOUSE ist allerdings nicht nur in Bezug auf die Hauselektronik smart, sondern auch was den Umgang mit Energie angeht: Photovoltaikmodule auf dem Dach liefern im Jahresdurchschnitt etwa eineinhalb Mal so viel Strom, wie die Unit selbst verbrauchen wird. Eine intelligente Steuerung koordiniert alle Verbräuche und sorgt dafür, dass keine Lastspitzen auftreten.
-
-## Kontakt
 
 Zwei Start-up-Ideen, die von Forschenden der Empa und der Eawag begleitet werden, helfen dabei zusätzlich Energie zu sparen: Zum einen wird die Wärme des Abwassers, die sonst verloren geht, über Wärmetauscher direkt in den Duschwannen zurückgewonnen, und zum anderen fliesst das warme Wasser bei Nicht-Gebrauch aus den Leitungen zurück in den Boiler, anstatt in den Wasserleitungen abzukühlen. Diese Methode spart nicht nur Energie und Wasser, sondern vermindert auch die Gefahr von Bakterienbildung in den Leitungen.
 

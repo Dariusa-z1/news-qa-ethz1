@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2022/12/jahresrueckblick-2022.html
 
+**Date processed:** 2025-05-01
+
 ## Februar
 
 ETH-Forschende erstellen Strukturfarben, die sie einem Schmetterling abgeschaut haben, mit dem Nano-3D-Drucker .

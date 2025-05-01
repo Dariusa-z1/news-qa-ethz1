@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2013/12/roland-siegwart-was-die-nfs-fuer-die-eth-zuerich-bedeuten.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Herr Siegwart, der Bundesrat hat die neuen Nationalen Forschungsschwerpunkte (NFS) lanciert. An vier von ihnen ist die ETH Zürich als Leading-House oder Co-Leading House beteiligt. Welches Fazit ziehen Sie als ETH-Vizepräsident für Forschung und Wirtschaftsbeziehungen? Roland Siegwart: Ich bin sehr glücklich. Das ist ein grosser Erfolg für die ETH Zürich. Unsere Forschenden haben enorm viel Energie und Begeisterung in ihre Anträge investiert. Umso mehr freut es mich, dass ihre Visionen und Träume nun wahr werden.

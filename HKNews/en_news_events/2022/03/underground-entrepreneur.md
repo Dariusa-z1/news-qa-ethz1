@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2022/03/underground-entrepreneur.html
 
+**Date processed:** 2025-05-01
+
 ## On the path to self-employment
 
 The Rhine Falls roar and thunder this morning, the spray looking like fog against the light. A small boat makes its way from the observation rock in the middle of the foaming water masses to Wörth Castle.
@@ -14,8 +16,6 @@ For Häusler, the measurements at the Rhine Falls and its rock are something of 
 
 To do this, Häusler uses a series of seismometers that sense and record vibrations or shockwaves that propagate underground. In this way, the young entrepreneur takes advantage of the fact that earthquakes, wind, rivers and road traffic all generate vibrations that race through the subsoil as waves.
 
-## Proven technology
-
 On their journey, the waves encounter obstacles or disturbances of various kinds. For example, they are deflected at fractures or fissures in the rock. Meanwhile, any unstable, loosened material amplifies the amplitudes of the waves. That means the wave patterns the seismometer is recording provide information on the nature of the subsurface.
 
 In addition, these vibrations stimulate the rocks, mountains or buildings they encounter to vibrate themselves, like a guitar string being plucked. The seismometer also records the objects’ natural vibration frequencies, which gives an indication of how solid they are and which areas of a slope or rock are structurally connected.
@@ -24,9 +24,9 @@ If the rock vibrates at the same time and at the same frequency at two measureme
 
 For example, the period of oscillation of most rock instabilities is between 0.1 and 0.3 seconds, while for mountains like the Matterhorn they last more than two seconds, as Häusler discovered; he co-authored a study (see ETH News ) on the famous peak’s resonant frequencies.
 
-The technology itself is nothing new. Civil engineers use it to monitor structures such as bridges, high-rise buildings, dams or wind turbines. However, Häusler refined the method in his doctoral thesis so that it could be used for investigations in landslide zones and of rock instabilities.
+## Proven technology
 
-## Two strings to his bow
+The technology itself is nothing new. Civil engineers use it to monitor structures such as bridges, high-rise buildings, dams or wind turbines. However, Häusler refined the method in his doctoral thesis so that it could be used for investigations in landslide zones and of rock instabilities.
 
 In Preonzo in the canton of Ticino, where a rockfall thundered into the valley in 2012, Häusler used his method to discover that the instability comprised larger sections of the crack zone than had been assumed. On the Walkerschmatt, above the Matter Valley in Valais, the geophysicist used his method to map fractures that other geologists were unable to detect with field surveys. It was also used in the village of Brienz/Brinzauls in Graubünden, which not only stands on an unstable slope that is slipping downhill, but is also threatened by unstable rocks further uphill.
 
@@ -36,9 +36,9 @@ Thanks to the Fellowship, he can now tackle further developments, build up his b
 
 Mauro Häusler has set up a monitoring device on the visitor platform of the Rhine Falls Rock. (Photograph: Peter Rüegg / ETH Zurich)
 
-His company’s services will include short-term seismic measurements, which the young entrepreneur conducts on a daily basis on-site. “My method lets me ‘look’ underground quickly and precisely,” Häusler says. Often all he needs to do is place the seismometers in the field in the morning, let them take measurements for a few hours, then collect the devices in the afternoon and evaluate the data.
+## Two strings to his bow
 
-## No shortage of work
+His company’s services will include short-term seismic measurements, which the young entrepreneur conducts on a daily basis on-site. “My method lets me ‘look’ underground quickly and precisely,” Häusler says. Often all he needs to do is place the seismometers in the field in the morning, let them take measurements for a few hours, then collect the devices in the afternoon and evaluate the data.
 
 But Häusler is also considering branching out into longer-term monitoring of vulnerable areas. This would involve having seismometers in operation for several months or even years at a time. Such long-term monitoring would reveal things like a sudden drop in the frequencies of the monitored zone. “That would be a good indication of decreasing stability of the rock or slope in question. So I can also employ seismic surveys as an early warning system,” Häusler says.
 

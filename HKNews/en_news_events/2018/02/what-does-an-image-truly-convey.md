@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2018/02/what-does-an-image-truly-convey.html
 
+**Date processed:** 2025-05-01
+
 ## No method reveals everything
 
 What happens in people’s brains when they lie? It’s Friday afternoon at the Fünffinger Dock on the Hönggerberg campus and 18 pharmaceutical sciences students are discussing the explanatory power and limitations of various scientific terms and methods. Three of them, Sara Dylgieri, Severin Lustenberger and Frederik Peißert, bring up a case study in which researchers study the regions of the brain that are activated when a person lies. The scientists found that the frontal and lateral regions of the brains are activated when a person lies, and that other regions of the brain are activated when a person invents a lie rather than when they express it.
@@ -12,8 +14,6 @@ The students have a lively discussion about the assumptions underlying functiona
 
 Drawing the right conclusions from images requires methodical knowledge about what exactly is being measured and how an image is created. Imaging involves multiple “translation steps” that are not always unambiguous: biological properties are rendered as physical quantities, converted mathematically into spatial coordinates and then assembled into a digital image.
 
-## Discussing the results
-
 The pharmacy students have acquired the skills necessary to evaluate the assumptions, justifications and implications of a scientific approach in the Scientific Concepts and Methods course. Over a week, they learn how the choice of a particular theory or method influences scientific work, and what to look for when evaluating the basic assumptions and concepts in their own projects.
 
 “Anyone working on a current research problem should be able to justify the particular theories, approaches and experiments they use. Selecting the right ones requires knowing the strengths and limitations of each,” says Vivianne Otto, a lecturer at the ETH Institute of Pharmaceutical Sciences (IPW). She designed the course together with Elvan Kut, who is also a lecturer at the IPW.
@@ -21,8 +21,6 @@ The pharmacy students have acquired the skills necessary to evaluate the assumpt
 The course is part of the completely restructured Master’s in Pharmaceutical Sciences that was offered for the first time in autumn 2017. The course prepares students for scientific work in basic research and industry (in contrast to the Master’s Pharmacy programme, which prepares students to work as pharmacists).
 
 In addition to the chemical, physical and biological basis required to research and develop new drugs, the programme also provides reflective and practical skills, such as philosophy of science, ethics, academic writing, biostatistics and project management.
-
-## Testing theories or charting new territory
 
 Science also requires that researchers scrutinise the validity and soundness of their findings, and that they put their findings up for discussion. Accordingly, the course has been integrated into ETH Zurich’s Critical Thinking Initiative.
 

@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2022/04/ein-eu-beitritt-der-ukraine-waere-keine-alternative-zur-nato.html
 
-## Solidarität mit der Ukraine
+**Date processed:** 2025-05-01
+
+## Main article
 
 Am Sonntag wurde Emmanuel Macron für eine zweite Amtszeit als französischer Präsident gewählt. Welche Bedeutung hat das in der aktuellen Situation für die Europäische Union?
 
@@ -32,8 +34,6 @@ Die EU wird sich auf die Aufgaben konzentrieren, für die sie starke Kompetenzen
 
 Wie steht es um das Verhältnis EU-Nato?
 
-## Keine News verpassen
-
 Die Zusammenarbeit und Arbeitsteilung zwischen EU und Nato hat sich deutlich intensiviert. Während die militärische Reaktion auf den russischen Angriffskrieg vor allem in der Nato stattfindet, konzentriert sich die EU auf die Koordination der Sanktionen unter den Mitgliedstaaten und mit den USA.
 
 Und trotzdem wird der französische Präsident Macron nicht müde zu betonen, dass die EU in sicherheitspolitischen Fragen autonomer werden müsse. Sind das alles Luftschlösser?
@@ -59,6 +59,8 @@ Kommen wir am Ende noch kurz auf die Beziehungen der Schweiz zur EU zu sprechen:
 Auf Grund der neuen Bedrohungslage ist es denkbar, dass die Schweiz sich in sicherheitspolitischen Fragen der EU und der Nato annähert. Die bestehenden Konflikte zwischen der Schweiz und der EU – von der Forschungskooperation bis zu den institutionellen Fragen – sind aber davon ausgenommen. Die EU hat wohl aktuell noch weniger Zeit und Geduld, auf die Forderungen der Schweiz einzugehen. Und auch in der Schweiz gibt es wenig Anzeichen, der EU entgegenzukommen.
 
 Frank Schimmelfennig ist Professor für Europäische Politik an der ETH Zürich
+
+## Solidarität mit der Ukraine
 
 Die ETH Zürich verurteilt die Kriegshandlungen in der Ukraine und unterstützt betroffene Studierende und Forschende. Hier finden Sie die aktuellen Unterstützungsangebote der ETH Zürich.
 

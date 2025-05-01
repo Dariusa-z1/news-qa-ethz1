@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2014/11/ein-tag-im-zeichen-der-forschungsfoerderung.html
 
+**Date processed:** 2025-05-01
+
 ## Ein gutes Verhältnis
 
 Wer eine wissenschaftliche Laufbahn einschlägt, muss Vieles beachten: internationale Mobilität und Vernetzung etwa sind sehr wichtig und ebenso, neue Forschungsthemen zu erkennen und eigenständig Projekte umzusetzen. Der Weg an die Spitze, sprich: zur Professur, ist jedoch steil und sehr selektiv. Nicht alle von ihnen schaffen es bis zu einer eigenen Professur.
@@ -12,8 +14,6 @@ Die Fördermöglichkeiten sind abgestimmt auf die verschiedenen Karrierephasen d
 
 Am Mittwoch war der Nationalfonds zu Gast an der ETH Zürich. Das Interesse am Tag der Forschung war gross. Rund um die Infostände in der Halle des Hauptgebäudes standen die Forschenden über Mittag dicht Seite an Seite. Auch das Audi Max mit seinen 430 Sitzplätzen war voll.
 
-## Unabhängigkeit als Qualität
-
 Roland Siegwart, Vizepräsident für Forschung und Wirtschaftsbeziehungen der ETH Zürich, hiess die Nachwuchsforschenden willkommen: Er sagte, dass Exzellenz, Forschungsfreiheit, Vertrauen und eine Kultur der Ermöglichung erforderlich sind, um Talente in der Forschung zu fördern.
 
 Nicholas Spencer, der Präsident der ETH-Forschungskommission, zeigte anhand der «ETH Grants», «ETH Fellows», «Seed Projects» und «Pioneer Fellows» auf, wie die ETH-eigenen Fördermittel jene des SNF ergänzen. Wichtig ist ihm, dass der Bewerbungsaufwand in einem guten Verhältnis zu den Erfolgschancen eines Gesuchs steht.
@@ -21,8 +21,6 @@ Nicholas Spencer, der Präsident der ETH-Forschungskommission, zeigte anhand der
 Martin Vetterli, der SNF-Forschungsratspräsident, und Angelika Kalt, die stellvertretende Direktorin des Nationalfonds, legten ihrerseits dar, dass die externe Seite Karriereförderung des SNF neu den Schwerpunkt auf Forschende ab dem Postdoktorat und Assistenzprofessuren setzt. Künftig wolle der Nationalfonds diese Forschenden vermehrt in einer frühen Karrierephase unterstützen und ihnen die Umsetzung freier und unabhängiger Forschung ermöglichen.
 
 Wie am Samstag in seiner Festansprache am ETH-Tag zeigte Martin Vetterli am Beispiel von Forschungspublikationen und Patenten auf, dass die internationale Vernetzung der Wissenschaft in der Schweiz deren grosse Stärke sei. Für die Forschung in der Schweiz wäre es ausserordentlich nachteilig, sagte er, sollte sich das Land isolieren.
-
-## Keine News verpassen
 
 Ein Förderbereich, den die ETH in den vergangenen Jahren unter Roland Siegwart ausgebaut hat, und den auch der Bund stärken will, betrifft den Übergangsbereich zwischen Grundlagenforschung und marktorientierter Innovation. Konkret geht es um die Förderung von Technologieentwicklung und Unternehmertum bei Studierenden, Doktorierenden und jungen Forschende.
 

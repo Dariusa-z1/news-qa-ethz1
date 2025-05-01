@@ -2,19 +2,19 @@
 
 **Source:** de_news_events/2018/12/zk-jasper-maschinelles-lernen-architektur.html
 
-## Der Architekt der Geldtasche
+**Date processed:** 2025-05-01
+
+## Main article
 
 Vor kurzem begleitete ich eine Gruppe von Architekturstudierenden für einige Tage bei einer Seminarwoche. Wir haben Menschen in ganz unterschiedlichen Berufen besucht und versucht zu verstehen, wie sich maschinelles Lernen und künstliche Intelligenz auf ihren Berufsalltag auswirken. Haben die Studierende Grund besorgt zu sein?
 
 Wenn man sich «Beruf» als eine Reihe von Fähigkeiten denkt, die durch eine meisterliche Ausführung verfeinert wird, dann ist die Bedrohung durch Technologie real. Bei der Geschwindigkeit, mit der neue Plattformen und neue Techniken bestimmte Fähigkeiten überflüssig machen, können Menschen selbst bei ständiger Umschulung kaum mithalten. Aber es gibt durchaus Alternativen. Für die Architektur könnte das bedeuten, dass wir die Rolle des Architekten, der Architektin erweitern, anstatt zu versuchen diese durch Technologien zu beschränken.
 
-## Blinder Algorithmus
+## Der Architekt der Geldtasche
 
 In John Evelyn's Bericht über Architekten und Architektur aus dem 17. Jahrhundert wird der Titel «Architekt» für mehrere Rollen in der Bauindustrie vergeben. Da ist der «architectus ingenio», der alle Künste beherrscht, von der Geometrie bis zur Hygiene, von der Geschichte bis zur Optik. Da ist der «architectus manuarius», der einen grossen Teil des eigentlichen Gebäudes macht. Dann ist da noch der «architectus sumptuarius». Das ist der «Architekt der Geldtasche» – eine viel verunglimpfte Figur der Architekturgeschichte, die wir heute wohl den Bauunternehmer nennen würden.
 
 Bauunternehmer sind im Architekturdiskurs nicht sonderlich hoch angesehen. Der Bauunternehmer sei durch die prognostizierte Rendite motiviert und deshalb geneigt, die Kreativität und räumliche Intelligenz in einem Architekturprojekt über Bord zu werfen, um den Gewinn zu maximieren – heisst es. Allerdings hatten Bauunternehmer bis anhin nur ein sehr grobes und unzuverlässiges Instrumentarium zur Messung der architektonischen Qualität von Räumen.
-
-## Daten intelligenter nutzen
 
 Zillow ist eines der grössten Immobilienportale in den USA mit Millionen von Transaktionen. Die Firma stellte in einer Pressemitteilung in 2016 mit Stolz fest, dass es in der Lage sei, in der Hälfte der Fälle den Immobilienpreis mit sechs Prozent Genauigkeit vorherzusagen. Dies ist nicht sehr beeindruckend, vor allem angesichts der gigantischen Datenmenge. Ein flüchtiger Blick auf den aktuellen Algorithmus macht deutlich, wie blind er ist. Bestimmte Arten von Daten sind einfach zu erfassen: die Anzahl der Quadratmeter Innenfläche, die Anzahl der Schlafzimmer, das Baujahr des Hauses, der Durchschnittspreis in der Nachbarschaft. Doch – keine dieser Informationen sagt viel über das Haus selbst aus. Solche prädiktiven Systeme sind nicht in der Lage, die qualitativen Unterschiede zu erkennen, die für die menschliche Entscheidungsfindung so wichtig sind. Faktoren wie Raumproportionen, Deckenhöhe, Materialbeschaffenheit, Umgebungsgeräusche oder auch so offensichtliche Fakten wie Aspekt und natürliches Licht – genau das, was dem Menschen wichtig ist – werden nicht berechnet.
 
@@ -26,9 +26,9 @@ Wenn die Gewinnmaximierung nicht mehr als Raummaximierung sondern als Maximierun
 
 Von allen Berufsleuten, welche die Studierenden in der Seminarwoche besucht haben, sah ein Geigenbauer der Zukunft am heitersten entgegen. Umgeben von Geigen – von denen einige zur gleichen Zeit entstanden sind als John Evelyn's Architekturbericht noch gedruckt wurde – hatte er auch einen Computer auf seinem Schreibtisch. Den nutzt er ganz selbstverständlich für die sensible Kalibrierung seiner Instrumente. Er fühlt sich nicht durch die Technologie bedroht, denn diese diente nur seinem eigenen Ziel, besser Geigen zu bauen.
 
-## Zum Autor
-
 Passivität ist eine Haltung, die sich auch Architekten und Architektinnen nicht leisten können. Trotz des Hypes wird das maschinelle Lernen nicht die Aufgabe eines guten Designs erfüllen. Künstliche Intelligenz wird nicht die Arbeit eines Architekten erledigen, sondern wird sie erweitern.
+
+## Zum Autor
 
 Adam Jasper Wissenschaftlicher Assistent am Institut für Geschichte und Theorie der Architektur (gta) der ETH Zürich
 

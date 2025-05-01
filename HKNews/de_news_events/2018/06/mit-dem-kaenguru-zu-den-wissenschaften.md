@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2018/06/mit-dem-kaenguru-zu-den-wissenschaften.html
 
+**Date processed:** 2025-05-01
+
 ## Wann hat man zu viele Fussballbildchen doppelt?
 
 Viele Kinder sammeln die Bildchen der Fussball-WM in Russland. Auch die Söhne von Marloes Maathuis. Kaufen kann man die Bildchen in Päckchen mit fünf Karten. Getauscht werden die doppelten. Maathuis kaufte ihren Söhnen 50 Päckchen. Das ergab 244 verschiedene Bildchen und 6 doppelte. «Ist das viel oder wenig», fragt die ETH-Professorin für Statistik die 100 Schülerinnen der Sekundar- und Gymnasialstufe aus der ganzen Deutschschweiz, die ihr zuhören. «Wenige», rufen die Mädchen zurück.
@@ -11,8 +13,6 @@ Viele Kinder sammeln die Bildchen der Fussball-WM in Russland. Auch die Söhne v
 Insgesamt gibt es 682 Bildchen. «Wir können annehmen», erläutert die Mathematikerin, «dass wir eine Maschine haben, die aus 682 Behältern jeweils zufällig eine Karte zieht und in die 5er-Päckchen verpackt. » Mit dieser Maschine könnte man sehr viele Serien von je 50 Päckchen herstellen und dann bestimmen, wie viele Karten pro 50 Päckchen doppelt sind. Auf dieser Basis liesse sich vergleichen, ob sechs Doppelte viel, wenig oder normal sind.
 
 In der Realität gibt es diese Maschine: es ist der Computer. Mit ihrem Statistik-Programm hat Maathuis solche 50er-Serien eine Million Mal durchgespielt und jeweils die Anzahl Doppelte gezählt. Dies ergab Werte zwischen 16 und 71, mit einem Schnitt von 40. So gesehen sind sechs Doppelte extrem wenig. «Wir hatten also unglaublich viel Glück oder, was ich eher glaube, das Szenario unseres Gedanken-Experiments stimmt nicht und die Karten werden nicht zufällig verpackt», sagt Maathuis.
-
-## Was Erdrutsche mit Mathematik zu tun haben
 
 Mit diesem Beispiel hat Marloes Maathuis den Schülerinnen gezeigt, wie Mathematik im Alltag nützen kann. Mathematik ist wichtig für alle natur- und ingenieurwissenschaftlichen Fächer, die die ETH unterrichtet: «Ich bin Bauingenieurin und Mathematik ist unser Fundament», sagt ETH-Rektorin Sarah Springman und zeigt den Schülerinnen einen Film.
 

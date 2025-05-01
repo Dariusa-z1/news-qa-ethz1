@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2014/06/pensionskasse-publica-senkt-technischen-zinssatz.html
 
+**Date processed:** 2025-05-01
+
 ## Mitglieder erhalten Einmalausgleich
 
 Per 1. Januar 2015 wird der technische Zinssatz von heute 3,5 Prozent auf 2,75 Prozent gesenkt. Das hat die Kassenkommission externe Seite «Publica» entschieden. Der Entscheid hat auch eine Anpassung des Umwandlungssatzes zur Folge. Das aktuelle Vorsorgeniveau soll aber durch die Vermehrung von Rückstellungen und durch weitere flankierende Massnahmen möglichst beibehalten werden.
@@ -9,8 +11,6 @@ Per 1. Januar 2015 wird der technische Zinssatz von heute 3,5 Prozent auf 2,75 P
 Die Publica begründet die Massnahmen mit dem anhaltend tiefen Zinsniveau: Ihre zentrale Aufgabe sei es, die Renten langfristig zu sichern. «Obwohl Publica in den letzten Jahren an den Finanzmärkten vergleichsweise gute Renditen realisieren konnte, reichen diese im Mehrjahresdurchschnitt bald nicht mehr für eine Stabilisierung des Deckungsgrades aus», teilt sie mit. Deshalb müsse sie den technischen Zinssatz senken, um auch mit einer tieferen Anlagerendite den Deckungsgrad stabilisieren zu können. Die Massnahme sei «leider unumgänglich».
 
 Der technische Zinssatz dient dazu, den heutigen Wert von in Zukunft anfallenden Rentenansprüchen zu ermitteln. Er beeinflusst zudem den Umwandlungssatz, mit dem die Höhe der Rente berechnet wird. Ist der technische Zinssatz zu hoch, ist es auch der Umwandlungssatz und somit die Rente. Aus diesem Grund wird der Umwandlungssatz von bisher 6,15 Prozent auf neu 5,65 Prozent gesenkt. Daraus ergibt sich ein Mehrbedarf an Sparbeiträgen von 8,85 Prozent, um vergleichbare Renten wie bisher zu erzielen.
-
-## Höhere Beiträge
 
 Um einer Senkung der Renten entgegenzuwirken, werden bis 31. Dezember 2014 erhebliche Rückstellungen gebildet. Daraus wird per 1. Januar 2015 den individuellen Konti der versicherten Personen eine zusätzliche Einlage gutgeschrieben.
 

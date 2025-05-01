@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2018/03/dank-neuer-geraete-demenz-fruehzeitig-erkennen.html
 
+**Date processed:** 2025-05-01
+
 ## Günstiger, kleiner, mobiler
 
 Sie sind knapp dreissig und dabei, die Diagnose von Alzheimer zu verbessern. Max Ahnen (29) und Jannis Fischer (30) entwickeln derzeit einen PET-Gehirnscanner: Er soll weniger kosten und kleiner sein als jene, die heute in den Spitälern stehen. Dafür hat sie das amerikanische Wirtschaftsmagazin Forbes in ihre « externe Seite 30 Under 30 Europe 2018 »-Liste in der Kategorie Wissenschaft und Gesundheit aufgenommen. Mit der Liste würdigt Forbes jedes Jahr «die intelligentesten jungen Unternehmer und Erfinder» in unterschiedlichen Bereichen. «Wir sind stolz darauf, dass wir es auf die Liste geschafft haben», sagt Jannis Fischer und lacht: «Nächstes Jahr wären wir dafür zu alt gewesen.»
@@ -12,9 +14,9 @@ Dieses Bild gibt Auskunft darüber, welche Funktionen das entsprechende Körpert
 
 Ahnen und Fischer arbeiten am Institut für Teilchen- und Astrophysik der ETH Zürich daran, diese Situation zu verändern. Den Anstoss dazu gaben Forschende und Ärzte der Universität Zürich und des Universitätsspitals Zürich. Ihre Erfindung heisst provisorisch Brain PET (BPET) und dient der Erkennung von Krankheiten des Gehirns. Dazu gehören Gehirntumore und Erkrankungen des Nervensystems wie Amyotrophe Lateralsklerose, Parkinson oder Alzheimer, die zu Demenz führen. BPET soll nur ein Zehntel so viel kosten wie heutige Geräte. Zudem soll der Scanner weniger als zwei Quadratmeter messen. «Er ähnelt einem Coiffeurstuhl mit Trockenhaube», sagt Ahnen. Die Grösse mache ihn viel mobiler als herkömmliche Geräte. Dadurch könnten ihn Ärzte auch an Orten abseits von grossen Krankenhäusern einsetzen, etwa in kleinen Kliniken in Südamerika, Asien oder Afrika.
 
-Nicht nur das Gerät, sondern auch dessen Anwendung wird mit Brain PET billiger. Denn je öfter das Verfahren zum Einsatz kommt, desto weniger kosten die radioaktiven Hilfsmittel. Heute gehört die Untersuchung zu den teuersten bildgebenden Verfahren in der modernen Medizin. Das können sich viele Spitäler nicht leisten. Fischer sagt: «Wir werden viel breitere Bevölkerungsgruppen erreichen können als bisher.»
-
 ## Firmengründung steht an
+
+Nicht nur das Gerät, sondern auch dessen Anwendung wird mit Brain PET billiger. Denn je öfter das Verfahren zum Einsatz kommt, desto weniger kosten die radioaktiven Hilfsmittel. Heute gehört die Untersuchung zu den teuersten bildgebenden Verfahren in der modernen Medizin. Das können sich viele Spitäler nicht leisten. Fischer sagt: «Wir werden viel breitere Bevölkerungsgruppen erreichen können als bisher.»
 
 Das würde den Betroffenen helfen, aber auch deren Angehörigen. Beide Physiker hatten Demenzkranke in der Familie. Ahnen sagt: «Es ist schwer mitanzusehen, wie eine Persönlichkeit zerfällt.» Der Vater von drei kleinen Kindern möchte die Situation für die nächste Generation verbessern.
 

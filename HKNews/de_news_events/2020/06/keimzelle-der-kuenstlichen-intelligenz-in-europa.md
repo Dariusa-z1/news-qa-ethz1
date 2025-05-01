@@ -2,17 +2,19 @@
 
 **Source:** de_news_events/2020/06/keimzelle-der-kuenstlichen-intelligenz-in-europa.html
 
-## Talentförderung und praxisrelevante Forschung
+**Date processed:** 2025-05-01
+
+## Main article
 
 Thmoas Hofmann.
+
+## Talentförderung und praxisrelevante Forschung
 
 Im Bereich der Künstlichen Intelligenz arbeiten die ETH Zürich und das Max-Planck-Institut für Intelligente Systeme (MPI-IS) seit fünf Jahren eng zusammen. In diesem Frühjahr haben sie vereinbart, ihre Forschungspartnerschaft, das Max Planck ETH Center for Learning Systems, für weitere fünf Jahre bis 2025 fortzusetzen.
 
 Das CLS wurde 2015 mit dem Ziel gegründet, gemeinsam an interdisziplinären Projekten zu forschen, die sich mit dem Design und der Analyse sowohl natürlicher als auch künstlicher lernender Systeme befassen. Die Zusammenarbeit erstreckt sich dabei über alle Ebenen, von den Professuren bis hin zu Nachwuchswissenschaftlerinnen und -wissenschaftlern.
 
 In einem Interview in den « Spotlight Stories » des ETH-Informatikdepartements zieht Thomas Hofmann, Co-Direktor des Centers, Bilanz, blickt in die Zukunft und erklärt, warum man beim Thema künstliche Intelligenz über die Landesgrenzen hinausdenken muss.
-
-## Die Zukunft in Europa
 
 «Das CLS gibt uns die Chance, internationale Talente zu gewinnen», sagt Hofmann. Einen grossen Mehrwert schaffe auch der personelle Austausch. Heute ist das gemeinsame Doktorandenprogramm das Herzstück des CLS. Gemäss Mitteilung des CLS vom Mai 2020 gehen gegenwärtig 24 junge Forscherinnen und Forscher diesen Weg, weitere sechs kommen bald hinzu.
 

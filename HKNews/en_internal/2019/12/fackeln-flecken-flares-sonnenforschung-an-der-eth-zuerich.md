@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2019/12/fackeln-flecken-flares-sonnenforschung-an-der-eth-zuerich.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 The sun triggers positive feelings in us. It is a reliable source of light and warmth without which no life on earth would be possible. Yet the sun also has its moody and dangerous sides. Solar storms can damage satellites, cause communication systems to collapse and paralyse power grids, among other things. The climate is also influenced by solar activity.

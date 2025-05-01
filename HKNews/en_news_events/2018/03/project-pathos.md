@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2018/03/project-pathos.html
 
-## Making technology disappear
+**Date processed:** 2025-05-01
+
+## Main article
 
 They peep and sneak, startle and tremble: the animatronics-based artworks devised by the artist duo Pors & Rao are far removed from reality. They usually entice the observer with a spontaneous smile. It’s not just the calm, smooth gestures that are astonishing – there is also an interplay between work and observer: when it’s quiet, little creatures called pygmies carefully creep out from behind a screen and then hide again when they hear noises. In the artwork Exploding View, a collection of different figures scatters, while in Turning Panel, pictures hung at an angle align themselves horizontally when someone approaches.
 
@@ -10,9 +12,9 @@ The moving artwork Pygmies at Wyss Zurich (Photograph: Fabian Stieger)
 
 This is all made possible by Pathos, a joint project at Wyss Zurich supported by the Gebert Rüf Stiftung with the artist duo Søren Pors and Aparna Rao (Pors & Rao) as well as Philipp Reist, robotic systems engineer at ETH Zurich. The ideas come from the minds of Pors & Rao, after which Pathos turns the art into animatronics: electronically and mechanically controlled, naturally moving figures. The works by Pors & Rao are all about the moment of surprise. “As humans, we read life-like gestures without thinking. Our critical consciousness needs a little longer to understand what is happening,” explains Rao. And, indeed, it does take a moment until amused astonishment transforms into active curiosity.
 
-Interplay with the observers is enabled by highly sensitive microphones and movement sensors. The robotic systems within the artworks record their stimuli and animate the artwork with specific gestures. Philipp Reist appreciates the challenges offered by the implementation of robotics in art: “The electromechanics need to be both fast and nearly inaudible; they need to function without problems and satisfy aesthetic ideas at the same time.” Clearly, the technology behind the works is demanding.
+## Making technology disappear
 
-## Here and there
+Interplay with the observers is enabled by highly sensitive microphones and movement sensors. The robotic systems within the artworks record their stimuli and animate the artwork with specific gestures. Philipp Reist appreciates the challenges offered by the implementation of robotics in art: “The electromechanics need to be both fast and nearly inaudible; they need to function without problems and satisfy aesthetic ideas at the same time.” Clearly, the technology behind the works is demanding.
 
 But the ultimate goal of Pathos is now to enable animatronics that doesn’t require complex engineering knowledge. It’s an idea clearly encapsulated in the project group’s motto: “Erase Technology, Erase Engineers”. For artist Aparna Rao, this expresses a desire for self-determination: “Having to constantly rely on engineers to animate our sculptures and installations runs counter to artistic spontaneity and intuition,” she explains.
 

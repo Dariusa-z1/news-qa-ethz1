@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2018/04/meet-the-talent.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Mit dem jährlichen «Meet the Talent»-Anlass danken die ETH Rektorin und Schirmherrin des Programms, Sarah M. Springman, und die externe Seite ETH Zürich Foundation all jenen, die sich für das Stipendienprogramm «Excellence Scholarship & Opportunity Programme» (ESOP) engagieren. So können in diesem Jahr dank der Unterstützung von Privatpersonen, Unternehmen und Stiftungen erneut 57 Stipendien an besonders talentierte Studierende vergeben werden.

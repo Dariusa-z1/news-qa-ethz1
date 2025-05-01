@@ -2,16 +2,16 @@
 
 **Source:** en_internal/2024/02/offenheit-von-forschungsinformation-demokratisierung-der-verwendung-von-szientometrie.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
-- Greeting by Prof. Dr Ulrich Weidmann, Vice President for Infrastructure ETH Zurich
+Programme:
 
-- Lecture "Openness of research information - Democratising the use of scientometrics" by Prof. Ludo Waltman
-
-- Questions and discussion
-
-- Apéro
-
+• Greeting by Prof. Dr Ulrich Weidmann, Vice President for Infrastructure ETH Zurich
+• Lecture "Openness of research information - Democratising the use of scientometrics" by Prof. Ludo Waltman
+• Questions and discussion
+• Apéro
 Responsible research assessment and open science are topics that concern all higher education institutions. In his lecture, Professor Ludo Waltman, Scientific Director at the Centre for Science and Technology Studies (CWTS) at Leiden University, reports on the developments in the Netherlands to promote these two topics on a large scale and in a concerted effort. The transition to new scientometric approaches based on open research information is of central importance.
 
 Open research information allows scientometric analyses to be performed in fully transparent and reproducible ways. It democratises the use of scientometrics and supports richer and more flexible approaches to scientometrics. For example, Ludo Waltman will present the new “Open Edition of the CWTS Leiden Ranking” and discuss ways in which higher education institutions can participate in the transition to open research information.

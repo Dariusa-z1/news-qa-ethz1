@@ -2,43 +2,37 @@
 
 **Source:** de_news_events/2022/12/saeuren-helfen-gegen-viren-in-der-luft.html
 
+**Date processed:** 2025-05-01
+
 ## Wie werden Schwebeteilchen sauer?
 
 Viren wie SARS-CoV-2 oder das Grippevirus reisen quasi per Anhalter von Mensch zu Mensch: sie verbreiten sich in Aerosolen. Das sind fein verteilte, in der Luft schwebende flüssige Teilchen die eine infizierte Person beim Husten, Niesen oder einfach beim Ausatmen ausstösst und die von einer anderen eingeatmet werden.
 
 Räume fleissig zu lüften und die Raumluft zu filtern, gelten deshalb als wichtige Massnahmen, um die Aerosol-Konzentration in Wohnungen, Büros oder Fahrzeugen des öffentlichen Verkehrs zu senken und damit das Infektionsrisiko zu mindern.
 
-## Kleine Aerosolpartikel werden schnell saurer
-
 Wie lange Viren in Aerosolpartikeln infektiös bleiben können, ist jedoch nicht klar. Einige Studien deuten darauf hin, dass der Feuchtigkeitsgehalt und die Temperatur der Luft eine Rolle spielen können. Ein anderer, bislang unterschätzter Faktor ist die chemische Zusammensetzung und insbesondere der Säuregehalt der ausgeatmeten Aerosolpartikel in Wechselwirkung mit der Raumluft. Viele Viren, zum Beispiel das Influenza A-Virus, sind nämlich säureempfindlich und die Aerosolpartikel können flüchtige Säuren und weitere Luftinhaltsstoffe wie Essigsäure, Salpetersäure oder Ammoniak aus der Raumluft aufnehmen, was wiederum den pH-Wert der Partikel beeinflusst.
 
 Welchen Einfluss die nach dem Ausatmen eintretende Ansäuerung der Aerosolpartikel auf die mitgeführte Virenfracht hat, ist bislang nicht erforscht worden. Ein Team von Forscher:innen der ETH Zürich, der EPFL und der Universität Zürich hat genau dies untersucht. In einer neuen Studie zeigen sie erstmals auf, wie sich der pH-Wert der Aerosolpartikel in der Zeit nach dem Ausatmen während Sekunden bis Stunden unter verschiedenen Umgebungsbedingungen verhält. Weiter zeigen sie, wie sich dies auf die in ihnen enthaltenen Viren auswirkt. Die entsprechende Studie ist soeben im Fachmagazin «Environmental Science & Technology» erschienen.
 
-## Aerosol-pH wichtig für Virusinaktivierung
+## Kleine Aerosolpartikel werden schnell saurer
 
 Den Forscher:innen zufolge versauern die ausgeatmeten Aerosolpartikel schneller als man erwarten könnte. Wie schnell die Partikel dies tun, hängt von der Konzentration der Säuremoleküle in der Umgebungsluft und von der Grösse der Aerosolpartikel ab. In typischer Luft in Wohnräumen erreichen Partikel aus Nasenschleim sowie aus eigens für die Studie synthetisierter Lungenflüssigkeit, die kleiner als ein Mikrometer sind, schon nach rund 100 Sekunden einen pH-Wert von 4, was etwa dem Säuregehalt von Orangensaft entspricht.
 
 Gemessen wird der Säuregehalt durch den pH-Wert, wobei eine neutrale Lösung pH 7 hat. Der pH von sauren Lösungen ist kleiner als 7, derjenige von basischen grösser als 7.
 
-## Filterung entfernt Säuren aus der Luft
-
 Für die Ansäuerung von Aerosolen machen die Forscher:innen vor allem die Salpetersäure verantwortlich. Diese gelangt mit der Aussenluft in die Innenräume, zum Beispiel beim Lüften oder durch Ansaugen von Aussenluft über Lüftungsanlagen. Die Salpetersäure entsteht durch den Abbau von Stickoxiden (NO x ), die hauptsächlich nach Verbrennungsprozessen mit den Abgasen von Dieselmotoren und Hausfeuerungsanlagen in die Umwelt entlassen werden. Es gibt also in Städten und Ballungsräumen permanent Stickoxid- und damit Salpetersäure-Nachschub.
 
 Salpetersäure haftet rasch an Oberflächen, auf Möbeln, Kleidern, der Haut, aber wird eben auch von den ausgeatmeten, winzigen Aerosolpartikeln aufgenommen. Die Säuremoleküle machen sie sauer und lassen damit ihren pH-Wert sinken.
-
-## Langer Weg zu gesünderem Raumklima
 
 Das Forschungsteam zeigt weiter, dass das saure Milieu entscheidenden Einfluss auf die Geschwindigkeit der Inaktivierung von in den Schleimpartikeln eingeschlossenen Viren hat. Dabei erwiesen sich die beiden Virusarten als unterschiedlich säureempfindlich: SARS-CoV-2 ist so säureresistent, dass auch die Fachleute zunächst an eine Fehlmessung glaubten. Die Coronaviren wurden erst bei einem pH unter 2 inaktiviert, also sehr sauren Bedingungen, etwa wie in unverdünntem Zitronensaft. Solche Bedingungen werden in typischer Innenraumluft nicht erreicht. Influenza A-Viren werden hingegen schon bei sauren Bedingungen von pH 4 nach einer Minute inaktiviert, wie sie sich in den Schleimpartikeln durch Säureaufnahme knapp zwei Minuten nach dem Ausatmen einstellen.
 
 Zählt man nun die Zeit, welche es für die Ansäuerung des Aerosols braucht, zusammen mit der Zeit, die es für die Inaktivierung der Grippeviren bei einem pH 4 oder kleiner benötigt, wird rasch klar: Bis 99 Prozent der Influenza A-Viren im Aerosol inaktiviert werden, dauert es ungefähr drei Minuten. Diese kurze Zeitspanne hat die Forscher:innen überrascht. Bei SARS-CoV-2 sieht es anders aus: Da in typischen Wohnräumen der Aerosol-pH kaum je unter 3,5 fällt, braucht es Tage, bis 99 Prozent der Coronaviren inaktiviert werden.
 
-## Erfolgreiche Kollaboration
-
 Die Studie zeigt, dass in gut gelüfteten Räumen die Inaktivierung von Influenza A-Viren in Aerosolen effizient funktioniert, und auch die Bedrohung durch SARS-CoV-2 reduziert werden kann (siehe Abbildung). In schlecht gelüfteten Räumen hingegen ist das Risiko aktiver Viren in Aerosolen verglichen mit Räumen mit starker Frischluftzufuhr 100-Mal höher.
 
-Daher raten die Forschenden, Innenräume häufig und gut zu lüften, damit die virushaltige Raumluft und basische Stoffe wie Ammoniak aus den Emissionen von Menschen und Innenraumaktivitäten nach draussen strömen, während saure Bestandteile der Aussenluft in ausreichender Menge in die Räume gelangen können.
+## Filterung entfernt Säuren aus der Luft
 
-## Literaturhinweis
+Daher raten die Forschenden, Innenräume häufig und gut zu lüften, damit die virushaltige Raumluft und basische Stoffe wie Ammoniak aus den Emissionen von Menschen und Innenraumaktivitäten nach draussen strömen, während saure Bestandteile der Aussenluft in ausreichender Menge in die Räume gelangen können.
 
 Schon normale Klimaanlagen mit Luftfiltern können zu einer Verringerung flüchtiger Säuren führen. Der Säureabbau in Museen, Bibliotheken oder Krankenhäusern mit Aktivkohlefiltern ist wahrscheinlich noch ausgeprägter. In solchen öffentlichen Gebäuden kann das relative Risiko einer Influenza-Übertragung im Vergleich zu Gebäuden, die mit ungefilterter Aussenluft versorgt werden, erheblich steigen, schreibt das Team in seinem Artikel.
 
@@ -51,6 +45,8 @@ Die vorliegende Studie resultiert aus einer interdisziplinären Zusammenarbeit v
 Wie die beiden Viren auf saure Milieus reagieren, untersuchten die Forschenden in der Professur für Medizinische Virologie der Universität Zürich um Silke Stertz und in der Professur für Umweltchemie der EPFL um Tamar Kohn, die auch die Gesamtleitung des Sinergia-Projekts innehat. Sie testeten die Sensitivität von Influenza A- und Coronaviren auf unterschiedlich saure Bedingungen in künstlich erzeugter Lungenflüssigkeit und in Nasen- oder Lungenschleim, den die Wissenschaftler:innen zuvor von eigens gezüchteten Schleimzellkulturen ernteten.
 
 Die Modell-Simulationen wurden ebenfalls in der Gruppe Peter durchgeführt. Die Modellierung könnte eine Schwachstelle der Gesamtstudie sein, denn wie sich die Viren in sauren Aerosolpartikeln wirklich verhalten, müssen weitere experimentelle Untersuchungen erst zeigen. Dafür entwickeln Forschende um Athanasios Nenes an der EPFL derzeit experimentelle Techniken, welche es erlauben, künftig Experimente sowohl unter strengen Biosicherheitsauflagen als auch unter verschiedenen Raumluftzusammensetzungen durchzuführen.
+
+## Literaturhinweis
 
 Luo BP, Schaub A, Glas I, Klein LK, David SC, Bluvshtein N, Violaki K, Motos G, Pohl MO, Hugentobler W, Nenes A, Krieger UK, Stertz S, Peter T, Kohn T: Expiratory aerosol pH: the overlooked driver of airborne virus inactivation. Environmental Science & Technology , Dez. 2022. DOI: externe Seite 10.1021/acs.est.2c05777
 

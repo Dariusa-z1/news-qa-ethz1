@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2016/05/recovering-hidden-treasures-and-building-boats.html
 
+**Date processed:** 2025-05-01
+
 ## Putting new knowledge into practice
 
 A total of 450 students in the second semester of the mechanical engineering course had 12 weeks to work on their innovation projects: Ninety teams of five were tasked with developing a machine capable of recovering treasure from inside a sunken ship on the seabed – as a scale model and without water, of course. The 16 teams with the best technical solutions presented their competing solutions on the 31 st of May in the main ETH Zurich building.
@@ -10,15 +12,11 @@ A total of 450 students in the second semester of the mechanical engineering cou
 
 “We built an extendable arm with adhesive tape on the front to lift, transport and deposit the treasures,” explains Gabriel Pfeiffer. Although other teams initially delegated the different tasks, Pfeiffer’s group managed to get started immediately. “A positive group dynamic developed quickly, as we already knew each other from school and military service,” he says. The biggest challenge for his team was building the interfaces between the individual modules. Ruben Massler’s team went about the development process in a completely different way: “First, we developed two or three prototypes and then combined the best from each one.”
 
-## Performance test in action
-
 The results are assessed according to two criteria: design and performance. “In the case of the design, what matters is quality, the cost of materials and the degree of innovation,” explains Heinis. Performance is assessed based on how the machines work in practice.
 
 The focus projects in the fifth and sixth semesters are more demanding than the innovation projects. About a fifth of all mechanical engineering students opt for this option while working towards their bachelor’s degree. They have eight months to develop fully functional systems. Each of the nine teams had a different objective, taken from a variety of possible applications ranging from robotics through to medicine.
 
 Over the past few days, sailors, rowers and boaters out on Lake Zurich have had the chance to see just what these projects are capable of achieving. For example, an unusual watercraft with a sort of chimney of sail canvas was seen on the water. “We developed a folding rotor sail,” explains Franz Radke, a student in his sixth semester in the Department of Mechanical and Process Engineering. The cylindrical sail makes use of what is known as the Magnus effect: when wind collides with a rotating round body, airflow is accelerated at varying intensities, creating a force that allows the boat to glide forwards. A small electric motor also rotates the sail almost silently – and the wind takes care of the rest. The idea behind the design is to create an energy-efficient alternative to a motorboat, since the rotor sail makes it possible to reduce energy consumption by an average of 30%.
-
-## Unusual watercraft
 
 The idea for this focus project ‘Eolos’ came from Radke, who began studying the Magnus effect when he was still at school. After he managed to impress the department conference and obtain its approval, he put the project together with five other ETH mechanical engineering students and two industrial design students from the Zurich University of the Arts (ZHdK). The students were supervised by the Engineering Design and Computing Laboratory at ETH Zürich.
 

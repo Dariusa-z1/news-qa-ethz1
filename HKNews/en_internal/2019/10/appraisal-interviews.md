@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2019/10/appraisal-interviews.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Many complain that annual appraisal interviews are tedious, meaningless and do nothing to help organisations. Are they even fit for purpose any more? People are often critical of them, but I think we should actually use that feedback as an opportunity to improve them. Appraisal interviews should be tailored to each individual, and carried out thoughtfully and with respect – otherwise, they will end up being perceived as superfluous or just another routine task. But a valuable discussion is always worthwhile.

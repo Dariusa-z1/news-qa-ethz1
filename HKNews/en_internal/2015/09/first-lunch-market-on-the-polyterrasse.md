@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2015/09/first-lunch-market-on-the-polyterrasse.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Sweet or savoury? From 11 a.m. to 3 p.m. on Wednesday, 23 September, 2015, visitors will be able to try a wide range of tasty dishes offered by assorted mobile refreshment stands on the Polyterrasse. The market is open not only to staff and students of ETH Zurich, but also visitors and external guests.

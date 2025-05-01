@@ -2,9 +2,13 @@
 
 **Source:** en_news_events/2014/05/zurich-has-met-ny.html
 
-## Nurturing Genius
+**Date processed:** 2025-05-01
+
+## Main article
 
 Advertising pillar at the Grand Central Station, NY. (Photo: Simone Bucher van Ligten / ETH Zurich)
+
+## Nurturing Genius
 
 ETH Zurich and its partners hosted a series of seminars, lectures and multi-media presentations at venues across New York City last week. The events illuminated the latest research in augmented reality, big data, black holes, cognitive computing, urban systems, risk, and resilience. More than 2,500 New Yorkers joined ETH Zurich professors and other well-known international personalities from U.S. research and industry for 12 awe-inspiring events as part of the Zürich Meets New York festival. The 8-day festival was presented by the Consulate General of Switzerland in New York, the City of Zurich, ETH Zurich and the University of Zurich.
 
@@ -15,8 +19,6 @@ How does ETH Zurich nurture the genius of tomorrow? “Our core philosophy is to
 “We offer a lot of freedom to our faculty members and our students, give them a lot of trust and we provide them, of course, with the means to pursue their goals,” revealed ETH rector Lino Guzzella, ETH Zurich. Guzzella, ETH computer scientist and Disney Research director Markus Gross; IBM representative Dave McQueeny, paneled a discussion on how collaboration with industries like IBM and Disney help ETH Zurich realize its research activities for the benefit of society.
 
 “In the next 40 years we have to build as much around the world as in the last 4,000 years,” said Gerhard Schmitt, ETH Zurich. The Urban Nature and Future Resilient Cities seminars explored the implications and the emergent thinking required from multiple disciplines – computer science, economics, and design – in order to face the challenges of future urban cites and systems.
-
-## Solving the Problems of the World
 
 In a lively debate, Didier Sornette, ETH Zurich and Nassim Taleb, New York University reminded participants of the resilience of New Yorkers during hurricane Sandy and in the aftermath of 911.
 

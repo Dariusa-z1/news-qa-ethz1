@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2016/04/donation-implenia.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH News: Mr Affentranger, why have you decided to offer your financial support for a new assistant professorship for innovative and industrial construction? Anton Affentranger: Construction is one of today's least efficient industries. Other industries have succeeded in achieving striking efficiency gains thanks to the standardisation of processes and comprehensive optimisation along the entire value chain. This has not been the case in the construction industry. Expertise in the field of industrial construction and the promotion of innovative technologies play a key role here. Implenia is already heavily involved in matters relating to operational excellence. We're also celebrating our 10-year anniversary this year. We want to take this occasion to continue investing in our future.
@@ -17,6 +19,8 @@ Implenia will also have one vote on the appointment committee. How much influenc
 There have recently been reports of instances in which third party funding from industry partners was tied to the appointment of their preferred candidate. What about in your case? No such condition exists. We are just one of ten committee members, all of whom participate in an open dialogue and bring their own perspectives and ideas to the table. It is the entire appointment committee that proposes candidates to the ETH President.
 
 In recent months the public has become acutely aware of potential conflicts between research financing and commercial interests. Doesn't this type of involvement potentially jeopardise your company's image? We are a commercial enterprise that has a responsibility for the common good. This also means that companies can, and perhaps even should, contribute to research and education – not only financially, but in terms of actual substance as well. I'm convinced that there are models that facilitate the involvement of business, without crushing the principle of academic freedom and teaching autonomy. For this to work properly, it is crucial to have clear rules and transparency. I believe that our partnership with ETH meets these requirements.
+
+## Sustainable Construction Initiative
 
 Implenia will be involved in establishing an assistant professorship for innovative and industrial construction in the Department of Civil, Environmental and Geomatic Engineering (D-BAUG) at ETH Zurich. Over the course of six years, the company will offer the ETH Zurich Foundation funds for the professorship totalling CHF 2.4 million. This will further expand ETH's Sustainable Construction Initiative, which has seen a total of 15 new professorships established over the past six years. Implenia has been involved with the promotion of talent at ETH Zurich since 2008 through its participation in the Excellence Scholarship & Opportunity Programme.
 

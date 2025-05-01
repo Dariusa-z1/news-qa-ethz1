@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2019/08/eth-spinoff-spectroplast.html
 
+**Date processed:** 2025-05-01
+
 ## Herstellung per Knopfdruck
 
 Irgendwann wollen sie Leben retten. Manuel Schaffner und Petar Stefanov vom ETH-Spinoff Spectroplast haben ein 3D-Druckverfahren entwickelt, mit dem erstmals hautverträgliches Silikon gedruckt werden kann. «Lang­fristig wollen wir damit medizinische Implantate anbieten», sagt Schaffner, der als CEO der Jungfirma amtet. «Und zwar nicht wie bisher in Standard­grössen, sondern personalisierte Produkte, die perfekt an den Patienten angepasst sind.»
@@ -12,9 +14,9 @@ Gegenüber dem bislang üblichen Spritzgussverfahren hat der 3D-Druck zwei wicht
 
 Manuel Schaffner und Petar Stefanov. (Bild: Oliver Bartenschlager)
 
-## Investitionen ermöglichen Wachstum
-
 Bis die Jungunternehmer künstliche Herz­klappen oder Implantate aus dem 3D-Drucker verkaufen können, dürfte es allerdings noch einige Jahre dauern. Denn die Regulierungs- und Zulassungsverfahren in der Medizin sind aufwändig und brauchen viel Zeit. Deshalb konzentriere man sich zunächst nicht auf ‚lebensrettende’, sondern auf ‚lebensverbessernde Produkte’, wie Schaffner sie nennt. Sinn machen Sili­konfabrikate beispielsweise dort, wo individuelle Grössen von hohem Nutzen sind – so etwa für Gehörhilfen oder Brustpro­thesen. «Frauen, die sich wegen Krebs eine Brust amputieren lassen müssen, stehen zum Beispiel häufig vor dem Problem, dass es nur konfektionierte Silikon­pro­thesen gibt», so Schaffner. «Manche lassen sich dann alleine der Symmetrie wegen auch die zweite, gesunde Brust amputieren und durch eine zweite Prothese ersetzen.» Werden Brustimplantate aufgrund einer MRI-Vorlage oder einer Computertomografie am Computer konstruiert, ehe sie gedruckt werden, wird dies nicht mehr nötig sein. Die beiden Gründer von Spectroplast kennen sich von ihrer Zeit an der ETH. Als Manuel Schaffner, der nach seinem Studium in interdisziplinären Naturwissenschaften am Departement für Materialwissenschaften promovierte, für ein Projekt einen Ingenieur suchte, meldete sich Stefanov. Dieser studierte damals Elektrotechnik und Informationstechnologie an der ETH und interessierte sich ebenfalls für die additive Fertigung. «Während wir mit Formen von Plastik experimentierten, stellten wir fest, dass das Interesse für den 3D-Druck von Silikon am Markt viel grösser ist», erzählt Schaffner. Und so entschlossen sie sich, zusammen ein Unternehmen zu gründen, um dieses Bedürfnis abzudecken.
+
+## Investitionen ermöglichen Wachstum
 
 Zurzeit steht der weltweit erste hochpräzise 3D-Silikondrucker in einem Labor des Jungunternehmers am ETH-Standort Hönggerberg. Obwohl es die Firma Spectroplast erst seit letztem Jahr gibt, läuft er bereits jetzt fast ununterbrochen. Die Kundenkartei umfasst gemäss Schaffner rund 200 Einträge. «Wir arbeiten derzeit Schicht», sagt er.
 

@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2018/11/pr-erc-consolidator-grants.html
 
+**Date processed:** 2025-05-01
+
 ## Support is effective
 
 Researchers from ETH Zurich have never before been able to win so many ERC Consolidator Grants in one round as they managed to this time. The high success rate is also impressive: Of a total of 18 entries, two thirds advanced to the second round. And of these, 11 earned the highest rating, an “A” score (61.1%), and 10 were ultimately approved. This corresponds to a 55.5 percent success rate. The average success rate for Consolidator Grants had previously been just under 38 percent.
@@ -12,8 +14,6 @@ Each of these grants is endowed with 2.4 million francs (2 million euros) on ave
 
 EU GrantsAccess supports and advises researchers concerning applications for European funding. “I can only continue to encourage our talented researchers at all levels to also apply for ERC grants,” adds Günther. “With such a grant they are able to realise projects that otherwise couldn’t be sponsored. In addition, it increases international visibility.”
 
-## Major grants and minor grants
-
 Eleni Chatzi, Professor of Structural Mechanics, has also successfully applied for a European grant. In September, she received a Proof of Concept Grant. This will allow her to implement feasibility studies and business plans for earlier ideas. The PoC Grant is endowed with about 130,000 francs.
 
 The ten projects at a glance:
@@ -21,8 +21,6 @@ The ten projects at a glance:
 One of Paolo Crivelli 's main areas of research is the physics of exotic atoms, which consist entirely of antimatter such as antihydrogen or positronium (electron-positron) and muonium (electron-antimuon). These systems allow testing the standard model of particle physics in a complementary way to high-energy experiments. An exact comparison of the matter-antimatter systems could explain the asymmetry observed in our universe. The aim of Crivelli's ERC project is to explore the nature of muons and muoniums with unprecedented accuracy. This could provide the key to answering fundamental questions such as why matter dominates the universe. The experiment will be conducted at the world's strongest continuous muon source, the Paul Scherrer Institute.
 
 Jonathan Home will explore in his grant a new method for scaling ion trap quantum computing and simulation based on arrays of individual charged atoms in an array of micro-fabricated Penning traps. Penning traps combine electro-statics with a homogeneous magnetic field to confine charged atoms, which offers an alternative paradigm to current methods based on radio-frequency confinement which are used in the leading quantum computing experiments today. The project should thus allow simplified scaling into two-dimensions, providing the possibility to trap higher densities of ions, as well as realise new connectivities for quantum simulations of lattice systems.
-
-## Benchmark for top researchers: ERC Grants
 
 In the process of digitalisation, learning systems are increasingly supporting decisions in the real world. Computer scientist Andreas Krause studies these types of learning systems. In his ERC project, he seeks to develop new “reinforcement learning” methods with a previously unattained level of reliability. The approach combines modern results of machine learning with techniques of robust optimisation and efficient algorithms. Careful modelling of uncertainty makes it possible to act cautiously, but still make better decisions as more data becomes available. These learning methods have various potential practical applications ranging from robotics to medical, industrial and scientific domains.
 
@@ -32,13 +30,13 @@ Christoph Müller is developing novel materials for CO 2 capture and catalysis. 
 
 The research of Nicolas Noiray deals with fluid mechanics, combustion and acoustics, with applications to power generation and aeronautics. In his ERC project, he aims at developing novel passive and active control technologies to prevent harmful thermoacoustic instabilities in future gas turbine combustors: First, by creating metamaterials with broadband acoustic damping in harsh environments; second, by applying plasma to coherently enhance autoignition. These large gas turbines produce several hundred megawatts with more than 60 percent combined-cycle efficiency. Their sequential combustor architecture allows for combustion of hydrogen supplied from power-to-gas technologies that may be deployed in future sustainable energy networks.
 
-## Contact
-
 In his research, David Steurer focuses on the computational complexity of optimisation and estimation problems arising in fields such as machine learning. For many of these problems, it is still not known how they can be solved efficiently – in other words, such that the running time is commensurate with the size of the problem instance. In his ERC project, he aims to develop an algorithmic method that guarantees an efficient solution whenever possible and thus achieves optimal efficiency. The desired result is a unified theory that is able to explain, for as many optimisation and estimation problems as possible, whether they can be solved efficiently or not.
 
 Mehmet Fatih Yanik is interested in how brains work and how brain-machine interfaces could help treat psychiatric and neurological disorders. His ERC project is about understanding and correcting brain activity patterns using minimally invasive brain machine interfaces and precise drug delivery technologies. Currently, brain disorders ranging from schizophrenia and epilepsy to depression and chronic anxiety remain poorly treatable. By developing technologies that can precisely measure and finely manipulate the complex operation of brains, Yanik and his team hope to achieve better treatment of such brain disorders.
 
 In many decision-making problems there is only partial information available, and new information and estimates about the future arrive continuously – such problems fall within the field of online optimisation. Decisions made by the operators of hydropower plants about when to generate power are one example. It is often impossible to find the best solution to such complex problems within a reasonable amount of time. This is why the mathematician Rico Zenklusen is developing automated methods using novel algorithmic approaches in his ERC project. The results are intended to answer some fundamental questions in optimisation that are relevant to applied mathematics and theoretical computer science. He also studies problems which can only have integer solutions (e.g. the number of units produced in a production environment).
+
+## Benchmark for top researchers: ERC Grants
 
 ETH researchers have been successfully applying for EU funding – ERC Research Grants – since 2007. In addition to the Consolidator Grants, the European Research Council also annually awards Starting Grants to young researchers at the beginning of their careers and Advanced Grants to established top-level researchers. What’s more, the large number of ERC Proof of Concepts produced by ETH Zurich (funds for drafting feasibility studies and business plans) shows that fundamental research often leads to market innovations with corresponding benefit for the entire economy. The European Research Council (ERC) is part of the EU Research and Innovation programme Horizon 2020 (2014-2020). Switzerland was readmitted as a full participant in Horizon 2020 on 1 January 2017.
 

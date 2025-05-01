@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2020/09/bachelor-of-medicine.html
 
+**Date processed:** 2025-05-01
+
 ## A plus in the sciences and technology
 
 ETH Zurich has been offering 100 places to study human medicine, each year, since autumn 2017. The Bachelor’s degree course, made possible by the federal government’s special programme for human medicine, was developed from scratch in close collaboration with university and clinical partners. It was initially launched as a pilot project for the five annual cohorts from 2017 to 2021. The first medical students graduated with a Bachelor’s degree this summer.
@@ -10,31 +12,27 @@ And the results are now in: almost all the new graduates will continue their med
 
 The university has taken this into account and ended the pilot project more than a year earlier than planned and will continue the degree course as a normal programme from January 2021. Springman is pleased: “This guarantees that ETH will continue to make a real contribution to remedying the shortage of doctors in Switzerland.”
 
-## Ultra-motivated “test pilots”
-
 In fact, the majority of the graduates, who in principle are eligible for a Master’s at ETH, have chosen to become doctors. A look at the first cohort shows that of the 100 students starting the course in 2017, 87 are currently still part of the group. Of this number, 77 have already completed their Bachelor’s degree – in the minimum time permitted. Just two are still at ETH, having changed to different subjects. The remaining 75 are studying for a Master’s in human medicine: 20 in Zurich, 20 in Basel and 35 at the Università della Svizzera Italiana (USI) in Lugano.
 
 On average, about ten percent of the current three cohorts failed their first-year examinations at the first attempt. “Overall, based on our experience, we expect that about 85 to 90 percent of new students will go on to complete their Bachelor’s degree,” says ETH professor Christian Wolfrum, who has been director of the new course for three years.
 
 He is particularly delighted by the fact that “our partner universities and other institutions are very interested in this degree course at ETH.” Experience suggests that the new curriculum is working well. “We train medical professionals with a unique profile: doctors with special knowledge of the natural sciences and technology, who thanks to their expertise can put developments in digital medicine into practice in a clinical setting,” he says.
 
-## Teaching on an equal footing
-
 The students in the first cohort acted as “test pilots”. “Our pioneers forged a bold path, even though it was hectic at times,” says Professor Jörg Goldhahn, project leader of the Bachelor’s degree programme in human medicine. He is not the only person impressed by the sizeable interest shown by the medical students. “Lecturers at other universities have also reported how analytical and engaged the ETH Bachelor’s students are during class,” Goldhahn explains.
+
+## Teaching on an equal footing
 
 Even within ETH, the medical students are viewed as being highly motivated. The fact that their commitment goes beyond the curriculum itself has been proven on multiple occasions during the coronavirus crisis, with two initiatives to support the healthcare system and offer assistance in hospitals. As a result, their reputation precedes them at partner institutions – in a good way.
 
 This commitment is doubtless also due to the highly interactive teaching on the course. From the start, Wolfrum and Goldhahn tried to ensure students were kept involved. Experience shows that students will participate actively if they realise that constructive criticism has an impact, which in turn boosts the quality of teaching.
 
-## Helping to shape the medicine of tomorrow
-
 Rahel Schmidt is one of the graduates. “We had all kinds of opportunities to get involved, and we were taken seriously – it was great. This enabled us to play a part in effectively shaping the degree programme,” she reports. In turn, the course management used the steady flow of feedback to adjust the curriculum on an ongoing basis. If things were not going well with lecturers, or teaching formats did not work out, swift changes could be made. “Now, the key adjustments have already been carried out,” says Goldhahn.
 
 In conjunction with their teams, Wolfrum and Goldhahn played a key role in building up the course. They created a curriculum that encompasses medicine, natural sciences and technology, and places great importance on aspects such as teamwork skills, communication, collaboration with other healthcare professions and critical thinking.
 
-Within a brief period of time, word of this unique course spread among prospective students, too. They must state their preferences when registering to study medicine, and these rankings demonstrate that the number of prospective students who pick ETH as their first choice has increased substantially in the third year.
-
 ## Clinical teaching strengthened further
+
+Within a brief period of time, word of this unique course spread among prospective students, too. They must state their preferences when registering to study medicine, and these rankings demonstrate that the number of prospective students who pick ETH as their first choice has increased substantially in the third year.
 
 Rahel Schmidt also liked the clinical practicals and patient case studies. “At ETH, learning takes place in small groups. There’s little lecturing in the traditional sense. And there’s a good attitude to mistakes: nobody minds if you put forward a diagnosis that’s completely wrong from time to time,” she laughs. Both Zheng and Schmidt recommend the course at ETH. “I’d particularly recommend it for people who want an additional focus on natural sciences and technology. However, it’s less suited to people who really don’t like mathematics, physics or programming,” says Schmidt.
 

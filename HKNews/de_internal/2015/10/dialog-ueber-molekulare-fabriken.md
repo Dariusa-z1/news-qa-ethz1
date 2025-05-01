@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2015/10/dialog-ueber-molekulare-fabriken.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Molekulare Wissenschaft, Kunst, Religion und Politik – darüber diskutieren am 22. Oktober 2015 am zweiten Basar Molekular – dem Live- Radio-Talk im Unternehmen Mitte in Basel – vier prominente Gäste: Anita Fetz, seit 2003 in Bern als Ständerätin für Basel-Stadt, Felix Gmür, seit 2011 Bischof von Basel und damit Leiter des grössten Schweizer Bistums, Stefan Gubser, TV- und Bühnendarsteller und u.a. bekannt als Schweizer Tatort-Kommissar Flückiger, und Daniel J. Müller, Professor für Biophysik an der ETH Zürich/D-BSSE und Co-Direktor des Nationalen Forschungsschwerpunktes Molecular Systems Engineering.

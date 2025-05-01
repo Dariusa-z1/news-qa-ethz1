@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2022/12/nccr-qsit-switzerland-could-play-a-key-role.html
 
-## NCCR QSIT
+**Date processed:** 2025-05-01
+
+## Main article
 
 Mr Ensslin, the National Centre of Competence in Research “Quantum Science and Technology” (NCCR QSIT) is now in its final month. It spanned a period shaped by the “second quantum revolution”. Could you explain what that is? The “second quantum revolution” refers to the entanglement of quantum objects, a phenomenon that enables us to control multiple quantum systems. Developments in this field began in the 1980s and expanded in recent years to incorporate the aspect of engineering. In other words, it was no longer about just controlling multiple quantum objects, but also using them to build entirely new systems.
 
@@ -20,9 +22,9 @@ Won’t the EU ultimately suffer by taking such a hardline stance? I think it mi
 
 What does that feel like? It’s painful. The science is going so well and quantum research is a jewel in Switzerland’s crown, but it’s all been sacrificed. The consequences will become clear in a few years’ time. As an established researcher, I can cope with them, because I’ve already built up my own network, but the consequences for young researchers will be really tough.
 
-## About
-
 Another influencing factor is the role played by the tech giants who are investing huge sums in quantum research. Is that a stroke of luck for researchers? The involvement of these big companies has various consequences for academic research. Some segments of our discipline have been flooded with money, and many good people have moved into industry as a result. One big company even poached an ETH physics professor, which is unusual. But the huge investments being made by the tech giants have also yielded new opportunities for collaboration, with all the advantages and disadvantages those entail.
+
+## NCCR QSIT
 
 The National Centre of Competence in Research “Quantum Science and Technology” (NCCR QSIT) was launched in 2011 and has been extended twice. ETH Zurich was appointed as leading house, with the University of Basel as co-leading house. Other participants in the NCCR QSIT include EPF Lausanne, the University of Geneva, the IBM Zurich Research Laboratory and the Università della Svizzera italiana in Lugano.
 
@@ -37,6 +39,8 @@ What role do the spin-off companies play that emerged from the NCCR QSIT? A bigg
 What’s the situation in regard to teaching, particularly the Master’s programme in Quantum Engineering that was launched in 2019? ETH Zurich was the first university to launch that kind of degree programme, though similar courses have now been introduced in Lausanne and Geneva. So far, it’s been a very positive experience. The students are fantastic, and really motivated – that’s good news for everyone, because one of the biggest bottlenecks in quantum research is the lack of people with specialised skills.
 
 What contribution has the NCCR QSIT made to promoting women? The Department of Physics has made real progress in recent years and we’ve appointed a number of young female professors. The NCCR QSIT has benefited from the universities’ hiring policies, because far more women are now doing their doctoral project in quantum research. One of the key ways we’ve come up with for promoting women at NCCR QSIT is through the Inspire awards, which empower female scientists at the Master’s and postdoctoral level. These awards have now also been launched by other National Centres of Competence in Research and by the new Quantum Center at ETH Zurich. But, obviously, we need to strengthen our efforts towards an open and inclusive culture in quantum research.
+
+## About
 
 Klaus Ensslin has been Professor of Experimental Physics at ETH Zurich’s Laboratory for Solid State Physics since October 1995. His research focuses on the electronic properties of novel semiconductor nanostructures. One of his group’s key goals is to achieve ever-increasing control of the quantum properties of electrons in nanostructures. Klaus Ensslin was co-initiator and director of the NCCR QSIT.
 

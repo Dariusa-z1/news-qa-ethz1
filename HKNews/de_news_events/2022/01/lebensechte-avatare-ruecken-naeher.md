@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2022/01/lebensechte-avatare-ruecken-naeher.html
 
-## Computermodell kann sogar Überschlag darstellen
+**Date processed:** 2025-05-01
+
+## Main article
 
 Spätestens seit der Corona-Pandemie starren wir noch häufiger in den Bildschirm. Sitzungen, Gespräche mit Arbeitskolleg:innen oder Konferenzen finden per Videotelefonie statt. Geht es nach den grossen Tech-Unternehmen, sollen wir uns dagegen schon ab nächstem Jahr in einer virtuellen Erlebniswelt, dem sogenannten Metaversum, treffen können – mittels 3D-Brillen und spezialisierten Computerprogrammen.
 
@@ -12,7 +14,7 @@ Einen Menschen detailgetreu und in Bewegung zu modellieren, fordert die Entwickl
 
 Wie es einfacher geht, zeigten Forscher um Otmar Hilliges, Professor für Computerwissenschaften an der ETH Zürich, in einer neuen Studie, die sie an der externe Seite Internationalen Konferenz für Computer Vision im Herbst 2021 veröffentlichten. Anstatt jedes Detail zu modellieren, nutzen die Wissenschaftler intelligente Algorithmen, die basierend auf 3D-Bildern von Menschen in einigen wenigen Posen lernen, animierte Ganzkörper-Avatare in allen erdenklichen Posen automatisch darzustellen.
 
-## Beliebig neue Gesichter mit nur einem Bild
+## Computermodell kann sogar Überschlag darstellen
 
 Computerprogramme, die mithilfe künstlicher Intelligenz (KI) lebensechte virtuelle Menschen erstellen, existieren erst seit wenigen Jahren. Damit diese Programme die verschiedenen Körperpositionen realistisch abbilden können, werden sie mit sogenannten 3D-Scans eines realen Menschen trainiert, die ein komplexes Kamerasystem vorgängig aufgenommen hat.
 
@@ -22,7 +24,7 @@ Extreme Posen ausserhalb des bekannten Bewegungsrepertoires überfordern solche 
 
 Gerade für interaktive Anwendungen sind KI-Avatare daher bislang kaum verwendbar. «Es ist unmöglich und vor allem ineffizient, das gesamte Bewegungsrepertoire im Bild einzufangen», sagt Xu Chen, ETH-Doktorand und Erstautor der Studie.
 
-## Wer genau hinschaut, kann Deepfakes entlarven
+## Beliebig neue Gesichter mit nur einem Bild
 
 Die von Chen entwickelte neue Methode verfolgt hingegen den umgekehrten Ansatz: Ausgehend von der Grundposition berechnen die KI-Algorithmen den Weg zu einer bewegten Pose. Weil auf diese Weise der Ausgangspunkt der Berechnungen immer der gleiche bleibt, lernen die Algorithmen besser, Bewegungen zu verallgemeinern.
 
@@ -32,7 +34,7 @@ Noch lassen sich die neuen Ganzkörper-Avatare nicht personalisieren; die Darste
 
 Um die Gesichter von Avataren zu personalisieren und beliebig abzuändern, hat Marcel Bühler, ebenfalls Doktorand in Hilliges Gruppe, bereits eine Lösung gefunden. Wie auch Chen in seinen Ganzkörpermodellen nutzte Bühler intelligente Algorithmen, die aus der Kombination von einem 3D-Gesichtsmodell und einer grossen Palette von Porträtfotos neue animierte Gesichter zu kreieren.
 
-## Literaturhinweis
+## Wer genau hinschaut, kann Deepfakes entlarven
 
 Während bisherige Computerprogramme bereits gute Animationen von Gesichtern in der Frontalansicht liefern, kann das Modell von Bühler auch Gesichter in der seitlichen Ansicht sowie von oben und unten realistisch darstellen.
 
@@ -41,6 +43,8 @@ Besteht die Gefahr, dass mit der neuen Technik bald noch realistischere Deepfake
 «Wer genau hinschaut, findet nach wie vor Fehler», sagt der ETH-Doktorand. Er findet es wichtiger, die Öffentlichkeit über den aktuellen Stand der Dinge zu informieren und sie zu sensibilisieren. Wenn Forschungsarbeiten zu 3D-Darstellungstechniken wie auch deren Schwachstellen öffentlich zugänglich seien, könnte dies Cybersecurity-Expert:innen dabei helfen, Deepfake-Videos im Web leichter aufzuspüren, so Bühler.
 
 Für interaktive Virtual-Reality-Anwendungen bringt die Arbeit der ETH-Forscher grosse Fortschritte. Gut möglich, dass Tech-Unternehmen wie Facebook und Microsoft die neu entwickelten Techniken der beiden Doktoranden in ihre Avatare implementieren werden.
+
+## Literaturhinweis
 
 Chen X, Zheng Y, Black M, Hilliges O, Geiger A. externe Seite SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes . International Conference on Computer Vision (ICCV), online publiziert am 11. Oktober 2021.
 

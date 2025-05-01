@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2020/06/interview-christian-wolfrum-associate-vice-president-for-medicine.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH News: ETH Zurich already has delegates, or Associate Vice Presidents, for sustainability, equal opportunities, digital transformation and global issues. Now there is a new Associate Vice President for Medicine. Why? Christian Wolfrum: Medicine is a key field at ETH. It has a long tradition of outstanding basic biomedical research, and the work ETH engineers do in the field of medical technology is top-notch. We began offering a Bachelor’s programme in human medicine three years ago. Together with the University of Zurich and the university hospitals, we are part of a strong medical cluster here in Zurich. But we can take medical research further at ETH, and it’s going to be my job to help develop medical research at ETH further and expand our network in this field.
@@ -13,6 +15,8 @@ How do you plan to enable more patients to benefit from ETH research? Medical re
 ETH professors enjoy a great deal of freedom in their research. Will increasing governance from above restrict this bottom-up culture in medicine? The bottom-up culture is a key factor in our success and not something ETH is looking to change. My work will take two approaches. First, I’ll be pooling ideas from the individual departments and research groups, providing strategic advice to the Executive Board and representing the interests of ETH to our partners. But I’ll also be developing and kick-starting new research initiatives, such as stepping up clinical research.
 
 Only a handful of the approximately 540 professors are qualified medical practitioners. Does ETH need more? This is something we’ll have to address when we appoint professors in the coming years. I’ll advise the Executive Board on this matter in my capacity as Associate Vice President for Medicine. We’d also like to attract more physicians to complete temporary research assignments at ETH. But it’s equally important that our scientists and engineers receive further training in the area of medicine so that they can recognise potential applications of their research in medicine and discuss these with medical professionals. And by the same token, we do everything in our power to equip our students taking Bachelor’s courses in medicine with a wide range of scientific skills and knowledge. All this should enable us to create successful interdisciplinary teams that work together to develop medical solutions.
+
+## About Christian Wolfrum
 
 Christian Wolfrum is Professor for Translational Nutritional Biology at the Institute of Nutrition and Health at ETH Zurich. In addition, he is Director of Studies for the Health Sciences and Technology degree programme and Director of Studies for the new Human Medicine Bachelor’s degree programme, a course he played a major role in establishing. As of 1 June 2020, he has also been assisting the Executive Board as Associate Vice President for Medicine as part of the Vice President for Research’s domain.
 

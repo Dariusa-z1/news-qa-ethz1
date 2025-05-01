@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2020/12/podcast-uncertainty.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 This past year has been strange and strenuous. Patience and endurance are what all of us need on many levels. The Corona-Virus-Pandemic not only changed the way we interact, work, and study, it also brought out Uncertainty in many aspects.

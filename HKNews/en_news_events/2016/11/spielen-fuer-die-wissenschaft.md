@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2016/11/spielen-fuer-die-wissenschaft.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Are there still fundamental doubts regarding quantum mechanics? Quantum mechanics postulates a number of phenomena that seem very peculiar and contrary to our everyday experiences; for example, it asserts that the properties of objects change as soon as we observe them. Albert Einstein simply could not reconcile himself to this idea, whereas Nils Bohr accepted the strange behaviour. At that time, quantum mechanics was still the subject of fierce debate.
@@ -21,6 +23,8 @@ So can humans guarantee randomness? The fundamental assumption in the Big Bell T
 How exactly will the experiment be conducted? On 30 November, the test subjects will play a small video game for just a few minutes on their computer or mobile phone. The players will generate a sequence of zeros and ones; this data is then transmitted to the Institute of Photonic Sciences in Barcelona and distributed to the 11 participating laboratories, where researchers will conduct the appropriate experiments. At ETH Zurich, we too will conduct experiments on the day in our laboratory, using superconducting electronic circuits as quantum mechanical objects.
 
 What do you hope to achieve with this experiment? I would be very surprised if the results came out against quantum mechanics, so it is my expectation that the theory will once again be confirmed. Furthermore, I hope that the experiment will strengthen interest in quantum mechanics and we will be able to arouse the curiosity of as many people as possible in this area of physics. It truly is a fascinating world!
+
+## Big Bell Test – how to join in
 
 The Big Bell Test will take place on 30 November 2016. The plan is for at least 30,000 people to play a video game or use a simple user interface in which zeros and ones are entered as quickly as possible in order to generate a random sequence of numbers, which will then be used for the experiment. Incidentally, the test’s website also provides a wealth of interesting information on the world of quantum physics.
 

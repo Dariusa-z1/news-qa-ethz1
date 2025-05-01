@@ -2,13 +2,13 @@
 
 **Source:** en_news_events/2019/10/portrait-gerd-folkers.html
 
+**Date processed:** 2025-05-01
+
 ## From scientist to science critic
 
 Gulliver’s Travels was a story that spoke to him. The protagonist from Jonathan Swift’s nearly 300-year-old classic tale of adventure, who constantly found himself magically attracted to foreign worlds and then boldly set out to explore them, is one of Gerd Folkers’ idols. Whenever Folkers found the time for reflection alongside his lecturing and research duties, the book always offered important food for thought. “The changes of perspective in the book are invigorating, perfectly described and never cease to amaze me,” he says. Change of perspective: this is a succinct way to sum up Folkers’ work over the past decade and a half.
 
 Folkers became Associate Professor of Pharmaceutical Chemistry at ETH in 1991, taking up the title of Full Professor in 1994 and researching the molecular design of bioactive molecules and their use in treating cancer and diseases of the immune system. From the beginning, Folkers’ creativity and drive were not limited to his field of expertise. As Director of the Center of Pharmaceutical Sciences Basel-Zurich in the nineties, he advocated for the creation of a digital link between ETH and the University of Basel that allowed lectures to be transmitted in high quality and with the possibility of interaction between the two locations. Folkers’ fusion of two lecture halls in a single digital space was a pioneering technical feat for the time and gave Basel – the pharma research hub of Switzerland – an important boost.
-
-## A critical and pioneering thinker
 
 Folkers soon made a name for himself at ETH with comments that showed his dedication to taking a critical look at scientific practice. In the early aughts, for example, he led a public event series over two semesters entitled “Debating Science Culture” in which participants debated topics such as scientific falsification, the dependence of research on private industry and the hype about nanotechnology. Folkers, who jokingly called himself the pharmacist of ETH, was often in the spotlight when it came to eloquently emphasising the societal context of scientific views or reflecting on the meaning (and sometimes the absurdity) of academic research.
 

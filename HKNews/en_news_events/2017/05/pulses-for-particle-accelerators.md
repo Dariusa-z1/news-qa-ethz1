@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2017/05/pulses-for-particle-accelerators.html
 
+**Date processed:** 2025-05-01
+
 ## Several hundred acceleration stages
 
 The most well-known use of high voltage pulses is in electric fences on farms. However, particle accelerators in large-scale research facilities such as CERN in Geneva also rely on high voltage pulse generators – but these produce pulses with much higher energies and voltages than those used in agricultural fences. Preparatory work is currently underway at CERN for the next large-scale research project from 2025. One of two potential projects is the construction of a 50-kilometre-long linear accelerator in a tunnel running from Nyon to the Rhone valley gorge near Bellegarde in France (CLIC project, see box). Researchers at ETH Zurich have developed a pulse generator required for this accelerator in the framework of a collaboration agreement with CERN. A few days ago, prototypes were delivered to CERN, where they will now be put through their paces.
@@ -18,11 +20,11 @@ If the CLIC accelerator is built, over a thousand klystrons will be required to 
 
 One of the greatest challengers for the ETH researchers was to build the pulse generator in such a way that the pulses produced are all of equal length and equal magnitude with a relative tolerance of no more than one hundred thousandth. In addition to this, CERN specified that the voltage for each pulse should jump from 0 volts to 180,000 volts and back again extremely quickly. To achieve this, the device measures the current flow one hundred thousand times per second and controls it in real time.
 
-## Linear accelerator or larger ring accelerator?
-
 "If the pulse jump were any slower, more unused power would be transmitted to the klystron, which would reduce the energy efficiency of the pulse generator," explains Sebastian Blume. During his doctoral research in Biela’s laboratory, he played a key role in the development of the pulse generator. The efficiency is therefore a central factor, as the equipment uses relatively high quantities of energy: the power of one pulse generator is more than one hundred times that of a washing machine or large vacuum cleaner.
 
 ETH's Professor Biela has already played a key role in the development of pulse generators for SwissFEL, the synchrotron radiation source that began operations a few months ago at the Paul Scherrer Institute, as part of a joint project with the Swiss electrical engineering company Ampegon.
+
+## Linear accelerator or larger ring accelerator?
 
 It is anticipated that the LHC (Large Hadron Collider) particle accelerator at CERN will run until 2035 or 2040. Beyond this, discussions are currently focused on two possible large-scale research programmes that are in competition with one another. CERN is set to decide which to install within the next three years.
 

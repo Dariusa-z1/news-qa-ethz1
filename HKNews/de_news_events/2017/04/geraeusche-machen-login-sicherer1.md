@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2017/04/geraeusche-machen-login-sicherer1.html
 
+**Date processed:** 2025-05-01
+
 ## App und Browser vergleichen Geräusche
 
 Sichere Passwörter und mehrstufige Authentifizierungssysteme sind heute wichtiger denn je: Im Internet bezahlen wir unsere Rechnungen, kommunizieren über Geschäftliches und geben allerlei Privates preis. Und doch benutzen viele Menschen das immergleiche Passwort für all ihre Konten. Dabei nehmen Identitätsdiebstahl und Internetspionage weltweit besorgniserregend zu, wie die Swisscom vergangene Woche in ihrem Security Report 2017 berichtete.
@@ -13,8 +15,6 @@ Hinter der Idee stecken Claudio Marforio und Nikos Karapanos von der System Secu
 Sound-Proof funktioniert über Umgebungsgeräusche. Meldet sich der Nutzer auf einem Gerät bei einem Dienst an, der mit Sound-Proof arbeitet, nehmen dieses sowie ein zweites Gerät, auf dem die App installiert ist, während drei Sekunden die Geräusche rund um die beiden Geräte auf. Ein Artificial-Intelligence-Algorithmus vergleicht sie dann miteinander. Stimmen sie überein, etwa das Stimmengewirr in einem Café, der laufende Fernseher oder auch der bellende Nachbarshund, wird der Nutzer automatisch eingeloggt.
 
 Im Gegensatz zu anderen Lösungen benötigt dieses Authentifizierungs-Verfahren keine Interaktion vom Endnutzer mit seinem mobilen Gerät: das Handy kann in der Hosen- oder Handtasche bleiben. Die Technologie funktioniert sogar, wenn das Smartphone in einem Nebenraum ist – vorausgesetzt, die Tür ist offen. Wer nun eine Verletzung seiner Privatsphäre befürchtet, sei beruhigt: Die aufgenommenen Geräusche verlassen das Gerät nicht. «Wir können die Nutzer damit nicht ausspionieren», betont Marforio.
-
-## Pilotprojekte mit Banken
 
 Diese sogenannte Zwei-Faktor-Authentifizierung gibt es schon länger. So schicken etwa einige Banken ihren Kunden nach der Eingabe des Passworts auf der Webseite eine SMS mit einer Zahl. Erst nachdem man diese auf der Webseite eingegeben hat, ist man angemeldet. Das ist den meisten Nutzern aber zu mühsam, zudem wird aus Sicherheitsgründen inzwischen von SMS-Login-Authentifizierungen abgeraten. «Unser System nimmt diese Prüfung dagegen unauffällig im Hintergrund vor», sagt Tobler.
 

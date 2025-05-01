@@ -2,11 +2,16 @@
 
 **Source:** en_internal/2015/09/eth-bibliothek-takes-part-in-the-project-data-life-cycle-management.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
-Its main goal is to create sustainable and concrete solutions for the management of research data throughout its entire lifecycle.
-
 This involves the following aspects:
+
+• efficiently processing and storing large amounts of data
+• documenting connections and dependencies up to publication
+• rendering relevant data accessible and archiving it on a long-term basis
+Its main goal is to create sustainable and concrete solutions for the management of research data throughout its entire lifecycle.
 
 Besides effective technical solutions, standards for best practices are also developed.
 

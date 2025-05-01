@@ -2,23 +2,21 @@
 
 **Source:** de_news_events/2018/10/thiele-sicheres-internet.html
 
-## Von Regeln gegängelt
+**Date processed:** 2025-05-01
+
+## Main article
 
 Es gibt wohl kaum eine Informationsinfrastruktur, die nicht von Hackern angegriffen werden kann und es auch wird: Unsere Telefone, Tablets, Laptops, PC aber auch Datenzentren und das Internet als Ganzes. Kleine und grosse Firmen waren in der Vergangenheit gleichermassen betroffen, sei es Facebook, die Ruag, Yahoo oder Sony. Auch kritische Daten und Infrastrukturen blieben nicht verschont, denken wir nur an die Erpressungen mit der Schadsoftware WannaCry, von denen auch Englische Spitäler betroffen waren, das zur Sabotage von Industrieanlagen genutzte Programm Stuxnet oder die entwendeten Gesundheitsdaten von 1,5 Millionen Menschen in Singapur.
 
-## Sicheres Internet ist möglich
+## Von Regeln gegängelt
 
 Der Ausblick auf das zukünftige Internet der Dinge (IoT) stimmt uns in dieser Hinsicht nicht optimistischer, da wir mit Milliarden von Geräten am Internet eine breitere Angriffsfläche bieten werden. Als Vorgeschmack mag der Vorfall im Oktober 2016 dienen, bei dem Tausende unzureichend gesicherter IoT-Devices dazu gebracht wurden, eine zentrale Infrastruktur so lahmzulegen, dass Amazon, GitHub, Twitter, die New York Times und einige weitere, grosse Websites über Stunden nicht erreichbar waren. Solche Gefährdungen werden auch nicht vor der Hardware halt machen wie die jüngsten Berichte über «Spionage-Komponenten» in Servern sowie über kritische Schwachstellen in modernen Prozessoren zeigen.
 
-## Land der Sicherheit und des Vertrauens
-
 Als Konsequenz solcher Angriffe werden die regulatorischen Vorgaben in Unternehmen und Organisationen immer komplexer und umfangreicher. Ein Beispiel sind die neuen ICT-Minimalstandards des Bundes mit 106 Massnahmen, die sich nahtlos in internationale Standards und Zertifizierungsrichtlinien eingliedern. Den Zwang zur Einhaltung von genormten und geregelten Abläufen in unserer Privat- und Arbeitswelt nehmen wir ermüdet und hilflos zur Kenntnis, er macht uns zunehmend unselbständig, führt zum Erlahmen unserer geistigen Fähigkeiten und reduziert auch immer stärker die Vorteile der digitalen Transformation. Dennoch scheint fast, als ob wir uns in unserer Abhängigkeit eingerichtet und die Lösung des Problems in der Anpassung unserer eigenen Verhaltensweisen gefunden hätten.
 
-## ETH am Digitaltag 2018
+## Sicheres Internet ist möglich
 
 Doch hier läuft etwas grundsätzlich falsch! Wenn etwas kontrolliert und gegängelt werden sollte, dann nicht wir Menschen privat und bei der Arbeit, sondern die zugrundeliegende Infrastruktur: die Hardware, Software und die Informationssysteme.
-
-## Zum Autor
 
 Es muss unser Ziel sein, ein Internet aufzubauen, das durch seine Konstruktion die wesentlichen Angriffe auf die Kommunikationsinfrastruktur nachweisbar verhindert und durch das wir Maschinen und Infrastruktur garantiert sicher verwenden können. Möglich ist es: An der ETH Zürich wurde in den letzten sechs Jahren unter der Leitung meines Kollegen Adrian Perrig die sichere Internet-Architektur Scion entwickelt.
 
@@ -26,7 +24,11 @@ Scion bietet Sicherheit, Verfügbarkeit und Leistung für alle vernetzten System
 
 Diese jüngsten Fortschritte bei neuen Internet-Architekturen müssen genutzt werden, um die Sicherheit und Leistungsfähigkeit vernetzter Systeme zu verbessern, sei es für die Kommunikation zwischen Bundesstellen, sei es zum Austausch hochsensibler Informationen wie elektronische Patientendossiers zwischen Spitälern, Gesundheitsdienstleisten und Forschungsinstitutionen, zur Kommunikation zwischen Forschungseinrichtungen, oder auch zum sicheren Betrieb unserer Energieversorgung. Dazu müssen wir in der Schweiz den Mut aufbringen, eine weltweit führende Technologie «Made in Switzerland» in einem landesweiten Vorzeigprojekt flächendeckend auszurollen. Dies wäre ein wichtiger und notwendiger Schritt zu einem Exportschlager «Internet-Sicherheit aus der Schweiz». Wir haben die Chance, unser Land als ein Ort der Sicherheit und des Vertrauens in eine weltweit führende Position zu führen: Die Schweiz, das sicherste Internetland der Welt.
 
+## ETH am Digitaltag 2018
+
 Heute 25. Oktober geht schweizweit der zweite Digitaltag über die Bühne. Die ETH setzt dieses Jahr den Schwerpunkt auf die Digitalisierung in der Medizin und zeigt im Hauptbahnhof Zürich dazu zwei Forschungsprojekte. Daneben bietet die ETH gemeinsam mit zahlreichen Institutionen aus dem Gesundheitsbereich Kurzvorträge, Laborführungen und Präsentationen an. Zudem lernen über 600 Schülerinnen und Schüler aus der ganzen Deutschschweiz an einem Programmierworkshop die Sprache der Zukunft. Weitere Infos unter: Digitaltag
+
+## Zum Autor
 
 Lothar Thiele Professor für Technische Informatik an der ETH Zürich und Delegierter des ETH-Präsidenten für Digitale Transformation
 

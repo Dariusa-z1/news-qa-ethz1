@@ -2,45 +2,30 @@
 
 **Source:** en_internal/2021/04/informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-26-april-2021.html
 
+**Date processed:** 2025-05-01
+
 ## Locations and opening hours
-
-- InfoCenter and Circulation Desk in the ETH main building:
-
-- Architecture and Civil Engineering Library (Hönggerberg):
-
-- From Monday, 17 May 2021, all other library locations will also reopen Mon–Fri 09.00–18.00 and the Hönggerberg Depot Library Mon–Fri 09.00–17.00.
-
-- Loans and returns are possible again at all locations. Short searches and consultations can also take place in compliance with distance and hygiene regulations.
-
-- We offer a free postal service for ETH staff.
-
-- Reading lounges with national and international (specialist) journals and daily newspapers are available.
-
-- Photocopiers and scanners can be used in compliance with the distancing rules.
 
 From Monday, 26 April 2021, the following opening hours apply:
 
-## Further information
+• InfoCenter and Circulation Desk in the ETH main building: Mon–Fri 09.00–18.00, Sat and Sun 09.00–17.00 (All locations will be closed on Saturday, 1 May, 2021.)
+• Architecture and Civil Engineering Library (Hönggerberg): Mon–Fri 09.00–18.00, Sat and Sun closed
+• From Monday, 17 May 2021, all other library locations will also reopen Mon–Fri 09.00–18.00 and the Hönggerberg Depot Library Mon–Fri 09.00–17.00.
+From Monday, 26 April 2021, the following opening hours apply:
 
+• Loans and returns are possible again at all locations. Short searches and consultations can also take place in compliance with distance and hygiene regulations.
+• We offer a free postal service for ETH staff.
+• Reading lounges with national and international (specialist) journals and daily newspapers are available.
+• Photocopiers and scanners can be used in compliance with the distancing rules.
 The Reading Room Collections and Archives and the exhibition of the Max Frisch Archive are regularly open Mon–Fri from 10.00–17.00. For the Reading Room pre-registration is kindly requested. The Thomas Mann Archives are accessible by appointment. The exhibition of the Graphische Sammlung can be visited during regular opening hours Mon-Sun from 10.00–16.45.
-
-## Collections, archives and exhibitions
 
 Events are partly taking place on location again. Please read the notes and details about upcoming events in the events calendar.
 
-## Events
-
 Face masks must be worn in all ETH buildings. The social distancing and hygiene measures of the Federal Office of Public Health (FOPH) remain in place. Please bear this in mind when visiting the ETH Library.
-
-## Face masks mandatory
 
 Any questions? The ETH Library will be happy to help.
 
-## Subscribe to Newsletter
-
 E-mail: You can also get in touch with us via WhatsApp or our chat function.
-
-## Staffnet
 
 #ETHLibraryDigital – The ETH Library is there for you digitally with various resources and services , not only during the COVID-19 protective measures.
 

@@ -2,15 +2,9 @@
 
 **Source:** de_news_events/2023/04/europa-muss-sich-unabhaengiger-von-china-machen.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
-
-- China, Russia, and the Future of World Order
-
-- Silicon Curtain: America’s Quest for Allied Export Controls against China
-
-- Alliances and Extended Nuclear Deterrence in Europe and Asia
-
-- How India Navigates a World in Transition
 
 Herr Thränert, welches Thema bereitet ihnen am meisten Sorgen? Oliver Thränert: Der Krieg in der Ukraine überschattet weiterhin die internationale Politik. Wir befinden uns in einer geopolitischen Konfrontation zwischen der Atommacht Russland und den westlichen und anderen Staaten, welche die Ukraine unterstützen. Die Regierung der Vereinigten Staaten sieht darin sogar eine globale Konfrontation zwischen Demokratien und Autokratien, da China sich hinter Russland gestellt hat.
 
@@ -44,7 +38,13 @@ Sind Russland und China gleichwertige Partner? China ist mit seiner wirtschaftli
 
 Welche Folgen hat das? Chinas Einfluss auf Russland steigt. Russland teilt auch eine lange Grenze mit China. Während die russische Bevölkerungssdichte entlang dieser Grenze immer dünner wird, nimmt die chinesische Bevölkerung auf der anderen Seite der Grenze weiterhin zu. Auch das macht Russland verwundbar gegenüber China.
 
+## Strategic Trends 2023
+
 Die Publikationsreihe «Strategic Trends» des Center for Security Studies der ETH Zürich bietet eine jährliche Analyse wichtiger weltpolitischer Entwicklungen, wobei Fragen der internationalen Sicherheit im Zentrum stehen. Die aktuelle Ausgabe enthält folgende Beiträge:
 
+• China, Russia, and the Future of World Order
+• Silicon Curtain: America’s Quest for Allied Export Controls against China
+• Alliances and Extended Nuclear Deterrence in Europe and Asia
+• How India Navigates a World in Transition
 Die Strategic Trends 2023 lesen sie hier .
 

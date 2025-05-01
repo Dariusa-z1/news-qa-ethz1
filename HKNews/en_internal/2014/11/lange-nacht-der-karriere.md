@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2014/11/lange-nacht-der-karriere.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 How can you get to know company representatives during a game of miniature golf at ETH Zurich? Or share coffee and cake with a CEO? How do you win over a manager in just three minutes? And what should you wear when the dress code is “business casual”?

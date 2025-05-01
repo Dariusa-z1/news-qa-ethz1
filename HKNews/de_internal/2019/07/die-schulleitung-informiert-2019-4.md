@@ -2,27 +2,19 @@
 
 **Source:** de_internal/2019/07/die-schulleitung-informiert-2019-4.html
 
+**Date processed:** 2025-05-01
+
 ## Ombudsstelle: Neue externe Stelle und mehr fachlicher Support
 
 Die ETH Zürich pflegt eine Kultur des respektvollen Umgangs. Belästigung, Diskriminierung, Mobbing, Drohung und Gewalt werden nicht toleriert. Die Erfahrungen der letzten Jahre haben gezeigt, dass die Angebote der intern zur Verfügung stehenden Stellen sowie deren Verfahren im Umgang mit unangemessenem Verhalten weiter verbessert werden müssen. Die Schulleitung hat dazu am 14. März 2019 ein umfassendes Massnahmenpaket kommuniziert. Auf der Basis verschiedener Analysen sind diese Massnahmen nun konkretisiert worden.
 
-## Neue Fachstelle Respekt
-
 Darüber hinaus werden die amtierenden Ombudspersonen fachliche Unterstützung beiziehen können. Externe Fachleute sollen die Ombudsstelle bei Bedarf juristisch und in Bezug auf Mediation und Konfliktmanagement beraten. Sie verpflichten sich zu Anonymität und Vertraulichkeit.
-
-## Früherkennung, Koordination und Case Management
 
 Weiter will die Schulleitung die Beratung und Hilfe bei Fällen von sexueller Belästigung, Diskriminierung und Mobbing ausbauen und stärken. Dieser Fälle wird sich künftig die neu geschaffene Fachstelle «Respekt» annehmen. Dazu hat die Schulleitung zwei neue Stellen bewilligt. Die Delegierte für Chancengleichheit und die Stelle für Chancengleichheit Equal! werden sich künftig auf die Förderung der Diversität an der ETH Zürich und insbesondere die Erhöhung des Frauenanteils auf allen Stufen konzentrieren. Bei Drohung und Gewalt ist weiterhin die Abteilung Sicherheit, Gesundheit und Umwelt SGU verantwortlich.
 
-## Das Doktorat entwickelt sich
-
 Rückmeldungen von ETH-Angehörigen haben ergeben, dass auch die Fachstelle «Respekt» durch eine externe, von der ETH unabhängige Beratungsstelle ergänzt und unterstützt werden soll. Die Schulleitung hat auch dafür grünes Licht gegeben. Somit können ETH-Angehörige, die sich respektlos behandelt fühlen, auf Wunsch ETH-extern beraten und über mögliche Vorgehensweisen orientieren lassen. Anonymität und Vertraulichkeit sind auch hier selbstverständlich.
 
-## Staffnet
-
 Um aufkommende Probleme frühzeitig zu erfassen und laufende Fälle rasch beilegen zu können, hat die Schulleitung eine interne Kerngruppe eingesetzt. Dieses Gremium beurteilt und koordiniert die Situationen, macht Empfehlungen gegenüber der Schulleitung und koordiniert das Vorgehen. Die Kerngruppe besteht aus den Leitungspersonen betroffener Stäbe und Abteilungen.
-
-## Newsletter abonnieren
 
 Für die internen Stellen bedeuten die laufenden Fälle eine zeitliche und fachliche Zusatzbelastung. Seit Herbst 2018 ist deshalb ein erfahrener Case Manager im Mandatsverhältnis mit der Bearbeitung laufender Fälle beschäftigt. Die Schulleitung hat nun beschlossen, diese Funktion dauerhaft zu besetzen. Noch in der Entstehung ist ein strukturierter interner Prozess für Meldungen von unangemessenem Verhalten. Es ist vorgesehen, dass die Schulleitung diesen Prozess im September 2019 festlegen wird.
 

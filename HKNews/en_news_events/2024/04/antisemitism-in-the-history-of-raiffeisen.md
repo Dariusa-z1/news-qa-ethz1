@@ -2,25 +2,20 @@
 
 **Source:** en_news_events/2024/04/antisemitism-in-the-history-of-raiffeisen.html
 
+**Date processed:** 2025-05-01
+
 ## In brief
 
-- Raiffeisen’s founder in Germany, F.W. Raiffeisen (1818–1888), had antisemitic prejudices and in particular denounced the alleged “Jewish extortion”. However, around 1880 he took pains to distance himself from the widespread “Judenhetze” (“Jew-baiting”) happening at the time.
-
-- Certain Swiss Raiffeisen representatives also made antisemitic statements and parroted the narrative that F. W. Raiffeisen had freed German farmers from being exploited by “the Jews”.
-
-- No indication was found of antisemitic practices in Swiss Raiffeisen organisation banks, and these were also not entangled in the National Socialist “plunder economy”.
+• Raiffeisen’s founder in Germany, F.W. Raiffeisen (1818–1888), had antisemitic prejudices and in particular denounced the alleged “Jewish extortion”. However, around 1880 he took pains to distance himself from the widespread “Judenhetze” (“Jew-baiting”) happening at the time.
+• Certain Swiss Raiffeisen representatives also made antisemitic statements and parroted the narrative that F. W. Raiffeisen had freed German farmers from being exploited by “the Jews”.
+• No indication was found of antisemitic practices in Swiss Raiffeisen organisation banks, and these were also not entangled in the National Socialist “plunder economy”.
+## Positions held by founder F.W. Raiffeisen
 
 Raiffeisen Group in Switzerland today has 219 cooperative Raiffeisen banks. It is based on the cooperative movement started by F.W. Raiffeisen in Germany around 1860. His concept for cooperative credit institutes was designed to improve the economic situation for the rural population; it was soon adopted in other European countries as well. On the initiative of clergyman Johann Traber, Switzerland’s first Raiffeisen bank was established in Bichelsee in the canton of Thurgau in 1900. In 1902, ten institutes founded the Swiss Union of Raiffeisen Banks.
 
-## Positions held by founder F.W. Raiffeisen
-
 Indications that F.W. Raiffeisen held antisemitic positions had arisen in the past. To shed light on the role that antisemitism played in the Swiss Raiffeisen movement, Raiffeisen Switzerland commissioned the Archives of Contemporary History at ETH Zurich to compile a research report. Among the materials the researchers reviewed were unpublished historical documents from the archives of the Raiffeisen Switzerland Cooperative in St. Gallen, archive documents from nine regional Raiffeisen banks and the estates and publications of key players in the Raiffeisen movement. The researchers also combed through copies of contemporary periodicals issued by the Swiss Union of Raiffeisen Banks as well as numerous other archives in both Switzerland and Germany.
 
-## Raiffeisen movement in Switzerland
-
 Led by Gregor Spuhler, Head of the Archives of Contemporary History at ETH Zurich, the researchers began by investigating what statements Raiffeisen’s German founder F.W. Raiffeisen made about Jews. The little source material available overall provides a contradictory picture: F.W. Raiffeisen used antisemitic expressions and claimed that he had founded his loan associations to free poor farmers from “Jewish extortion”. In one internal administrative report, F.W. Raiffeisen employed numerous antisemitic stereotypes using pathologising language – for instance, by labelling Jews as potential “cancerous ulcers”. However, this is in stark contrast to F.W. Raiffeisen’s public statements. He publicly objected specifically to the “Judenhetze” (“Jew-baiting”) and highlighted that there were also model Jews whose example Christians should follow. He was not active in the antisemitic movement and did not advocate curtailing the rights of Jews.
-
-## Contact
 
 The researchers conclude that while F.W. Raiffeisen’s statements about Jews do contain plenty of instances of antisemitic prejudice, they do not reveal a consistent antisemitic ideology. Rather, they reflect the virulence and contradictory nature of discourse at the time.
 

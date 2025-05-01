@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2014/08/switzerland-from-the-air.html
 
+**Date processed:** 2025-05-01
+
 ## Attraction of aerial photographs
 
 In 1973 FC Zurich won the Swiss Cup Final against FC Basel 2:0 after extra time at Bern’s Wankdorf Stadium. But the game wasn’t interesting just from a sports history point of view – an aerial photograph of the match not only shows the sold-out stadium but also the car park, with its many colourful vehicles from the 1970s. Alongside this unusual historical photograph, the new illustrated book Swissair Aerial Photographs contains 36 colour and 112 black-and-white pictures from the collections of ETH-Bibliothek. The oldest photo dates back to 1918 and the most recent was taken in 1999.
@@ -12,15 +14,15 @@ The new book offers something for anyone with an interest in aerial photographs.
 
 The Swissair Aerial Photography Archive contains about 135,000 pictures, which ETH Bibliothek has been archiving and making accessible over the last few years. The basis of this extensive collection of photographs was formed by the Swiss aviation pioneer Walter Mittelholzer (1894–1937), who took the first images in 1918 and was quick to realise the enormous potential of aerial shots. The author Ruedi Weidmann, with the help of graphic design duo Megi Zumstein and Claudio Barandun, had the difficult task of selecting the most suitable images from 50,000 digitalised aerial photographs for the book. According to the book’s two publishers, Michael Gasser and Nicole Graf from the archive department of ETH Bibliothek, it was important to combine aesthetics with a depiction of the chronological and geographic depth of the collection and a carefully selected image inventory of what has disappeared or appeared over the past decades. It is the fourth book that the two publishers have released in the series ‘Pictorial Worlds. Photographs from the Image Archive, ETH Bibliothek’ (see box).
 
+## Help needed for identification
+
 In addition to making its image collections available to the public in the form of illustrated books, ETH-Bibliothek also works hard on archive processing and digitalisation. The project to process the Swissair Aerial Photography Archive, particularly the digitalisation, will be completed during the course of the next year; some 60,000 photos can already be accessed in the online Image Archive . The help of the public is also needed in their description, as 650 photos have not yet been fully identified. They are part of a series of images of industrial buildings taken in the 1920s and 1930s at very low altitude. Graf explains: “These photographs form part of a very special, forgotten collection. Because some of the factories and industrial buildings no longer exist, the images provide important and irreplaceable evidence of Swiss industrialisation.”
 
-## Help needed for identification
+## Book, competition and exhibition
 
 Ruedi Weidmann: Swissair Luftbilder. Das Luftbildarchiv der Swissair / Swissair Aerial Photographs. Published by Michael Gasser and Nicole Graf, ISBN 978-3-85881-429-6, CHF 59.00.
 
 Swissair Aerial Photographs is the fourth book from the image archive. It follows Swissair Souvenirs , The World in Pocket-Size Format und Science in Sight .
-
-## Book, competition and exhibition
 
 The current book can be won in an ETH Bibliothek competition at: https://de-de.facebook.com/ETHBibliothek
 

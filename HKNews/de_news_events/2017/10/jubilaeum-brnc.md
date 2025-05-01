@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2017/10/jubilaeum-brnc.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH-News: Herr Hierold, morgen Dienstag findet an der ETH ein Symposium über das Binnig and Rohrer Nanotechnologie Center (BRNC) statt, das die ETH gemeinsam mit IBM in Rüschlikon betreibt. Was ist der Hintergrund dieses Anlasses? Christofer Hierold: Vor rund 10 Jahren nahmen wir mit IBM Gespräche auf, gemeinsam eine neue Forschungsplattform im Bereich Halbleiter-Nanotechnologie zu bauen. Daraus entstand das BRNC, das vor gut sechs Jahren in Rüschlikon eröffnet wurde. Das Kernstück des Zentrums ist ein grosser Reinraum, den wir gemeinsam nutzen. Dazu kommen noch Labors und Büros für Forschungsgruppen der ETH Zürich und IBM. Zudem ist auch die Empa ein Partner im BRNC. Nun ist für uns ein idealer Moment, Bilanz zu ziehen und in die Zukunft zu blicken.
@@ -19,6 +21,8 @@ Und wie sieht es mit dem Transfer in die Praxis aus? Das ist natürlich von Grup
 Wie ist das BRNC im internationalen Vergleich positioniert? International gesehen sind wir sehr gut aufgestellt. Wir haben zwar nicht einen CMOS-Gesamtprozess zur Chipherstellung installiert, das wäre für ein Forschungslabor auch nicht sinnvoll, aber wir verfügen über die modernsten Einzelprozesse, wie Nano-3D-Druck oder chemical vapor deposition für 2D-Kristalle. Wir müssen jedoch Acht geben, dass wir unsere Position halten. Andere Hochschulen und Institute, zum Beispiel in China und den USA investieren aktuell in neue Technologieplattformen. Das BRNC wurde zehn Jahre nach FIRST eröffnet und ist jetzt sechs Jahre in Betrieb. Wir sollten uns also dringend daran machen, unseren Bedarf für die Zeit in fünf oder zehn Jahren abzuklären.
 
 Wie sehen Sie denn die Zukunft? Längerfristig brauchen wir Reinräume und Labore, die mehr können als die heutigen, in denen man zum Beispiel die verschiedensten Materialien kombinieren kann, auch Polymere oder biologische Materialien, die man heute in Reinräumen gar nicht gerne sieht. Einige Prozesse und Analysetools benötigen zudem eine speziell rauscharme Umgebung, also Abschirmung gegen mechanische, akustische und elektromagnetische Störungen, damit man Kontrolle auf atomarem Massstab erreichen kann. Zudem haben wir festgestellt, dass es etwas kurzfristig gedacht ist, wenn man einen Reinraum in einer festen Grösse plant. Man sollte von Anfang an mögliche Erweiterungen mitbedenken.
+
+## Zur Person
 
 Christofer Hierold ist Professor für Mikro- und Nanosysteme am Departement Maschinenbau und Verfahrenstechnik. In seiner Forschung befasst er sich beispielsweise mit der Evaluation von neuen Materialien für Mikro-Elektromechanische Systeme und Sensoren aus Kohlenstoff-Nanoröhren. Er gehört zum Managementteam des FIRST Lab und vertritt als Koordinator die ETH Zürich im Leitungsteam des BRNC.
 

@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2018/11/digitalisierung-digitale-transformation--disruption.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 The speaker will examine the questions of WHY we must have digital transformation on our radar, how to pin it down and what disruption means in this context.

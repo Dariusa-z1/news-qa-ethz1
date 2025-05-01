@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2018/05/jetzt-fuer-den-swiss-research-data-day-registrieren.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 externe Seite Die Anmeldung zum Swiss Research Data Day 2018 (SRDD2018) ist ab sofort möglich.

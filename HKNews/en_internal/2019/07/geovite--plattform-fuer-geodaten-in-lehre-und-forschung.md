@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2019/07/geovite--plattform-fuer-geodaten-in-lehre-und-forschung.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 GeoVITe offers GIS beginners and experts fast, browser-based access to federal and cantonal geodata. The extensive range of data also includes Siegfried/Dufour maps as well as various data time stands.

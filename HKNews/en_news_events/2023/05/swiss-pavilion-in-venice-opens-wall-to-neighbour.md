@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2023/05/swiss-pavilion-in-venice-opens-wall-to-neighbour.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH News: What is the idea behind “Neighbours”? Karin Sander : I realised that as well as being neighbours, the Swiss and Venezuelan pavilions also constitute an ensemble. Bruno Giacometti, the architect who designed the Swiss pavilion, completed his project first. A few years later, Carlo Scarpa, the architect for the Venezuelan pavilion, made his design a response to it. Our exhibition focuses on the relationship between these next-door neighbours.
@@ -37,6 +39,8 @@ Ursprung: We don’t know for sure, but it appears that after hearing about our 
 From a political perspective, there’s also the question of whether opening up the wall to the Venezuelan pavilion is the wrong signal to send. Ursprung: We went to Venezuela to see for ourselves what’s going on. The situation there is devastating. Artists and other creatives are walled in and isolated. We’re opening up this wall not to the regime but to artists, architects and researchers. We give these individuals a voice both in our book and as part of various podium discussions.
 
 Sander: We also see the exhibition as an invitation, an example of how art can kick-start a dialogue. In this case, there might just be more leeway in art than in politics.
+
+## Switzerland at the Biennale Architettura in Venice
 
 The Biennale Architettura takes place in odd years and the Biennale Arte in even years. Switzerland has its own pavilion in the Giardini pubblici , the Biennale park in Venice. Pro Helvetia , the Swiss arts council, has run the Swiss pavilion since 2012.
 

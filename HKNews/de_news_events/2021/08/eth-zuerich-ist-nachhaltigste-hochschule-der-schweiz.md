@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2021/08/eth-zuerich-ist-nachhaltigste-hochschule-der-schweiz.html
 
+**Date processed:** 2025-05-01
+
 ## In allen Bereichen etabliert
 
 Universitäten, Fachhochschulen und Pädagogische Hochschulen sind wichtige Akteure für die nachhaltige Entwicklung von Wirtschaft und Gesellschaft. Zum dritten Mal bewertete der WWF Schweiz in einer Vergleichsstudie, wie nachhaltig die Schweizer Hochschullandschaft unterwegs ist. Untersucht wurden zehn Kriterien in den Dimensionen Strategie, Prozesse, Organisation und Stakeholder, die für eine institutionell verankerte Nachhaltigkeit bedeutend sind.
@@ -11,8 +13,6 @@ Im der soeben veröffentlichten Rating-Studie schneidet die ETH Zürich unter 28
 Die bestmögliche Klassierung als «Vorreiterin» erreichte keine Institution. Mit ihrem Ergebnis von 89,92 von total 100 möglichen Punkten stehe die ETH Zürich jedoch kurz davor, zur «Vorreiterin» aufzusteigen, schreiben die Studienautoren in ihrem Bericht.
 
 «Diese Auszeichnung und das hervorragende Ergebnis freuen uns sehr» sagt, Christine Bratrich, Leiterin der Nachhaltigkeitsstelle ETH Sustainability. «Es zeigt, dass unser langjähriges Engagement auch ausserhalb der Hochschule anerkannt und als vorbildlich wahrgenommen wird». Ein wesentlicher Teil dieses Erfolgs gebühre der anhaltenden Unterstützung durch die gesamte Schulleitung. «Nachhaltigkeit funktioniert dort, wo sie ganz oben angesiedelt ist», so Bratrich.
-
-## Auf gutem Weg, aber noch nicht am Ziel
 
 Positiv beurteilte die Studie, dass Nachhaltigkeit an der ETH Zürich seit über zehn Jahren fester Bestandteil in allen relevanten Bereichen der Hochschule ist. Bei den Kriterien Verankerung Hochschulleitung , Strategische Grundlagen sowie Reporting und Controlling erzielte die Hochschule jeweils die maximale Punktezahl. Hervorgehoben wird auch der Einbezug des Nachhaltigkeitsgremiums, der Fakultätsleitungen sowie des Professoren-Kollegiums in strategische Entscheide betreffend Nachhaltigkeit.
 

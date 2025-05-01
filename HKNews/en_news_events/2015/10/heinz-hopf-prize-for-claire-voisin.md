@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2015/10/heinz-hopf-prize-for-claire-voisin.html
 
-## Geometry with algebraic equations
+**Date processed:** 2025-05-01
+
+## Main article
 
 In mathematics, proof is the silver bullet for assured findings. However, in a branch of mathematics such as algebraic geometry, whose fundamental concepts and research topics have long moved away from everyday concepts and forms, conjectures also serves as an essential driver of knowledge advancement. When formulated, Conjectures are neither proven nor disproven, but they are well-substantiated. In this respect, they describe a mathematical problem whose solution is yet to be found.
 
@@ -12,7 +14,7 @@ Claire Voisin is almost legendary in this regard: after all, the 53-year-old Fre
 
 Claire Voisin. (Photo: Caire Voisin)
 
-## Abstractions to higher dimensions
+## Geometry with algebraic equations
 
 For her exceptional services to mathematics, Claire Voisin will be awarded the Heinz Hopf Prize 2015 for pure mathematics on 2 November 2015 at ETH Zurich. “Claire Voisin is an excellent choice. The decision to award her the prize was unanimous,” says Urs Lang, Professor of Mathematics and Chairman of the selection committee for the Heinz Hopf Prize. Carrying prize money of 30,000 Swiss francs, the prize has been awarded by the Department of Mathematics at ETH Zurich every two years since 2009.
 
@@ -22,17 +24,15 @@ Similarly, in terms of methodology, it no longer works merely with individual eq
 
 Claire Voisin’s most significant findings include the solution to a 50-year-old conjecture by Japanese mathematician Kunihiko Kodaira, for which she won the Clay Research Award in 2008. This conjecture relates to so-called Kähler manifolds, which also play a role in physical string theory. This theory is based on the assumption that fundamental spatial objects are strings instead of elementary particles. The concept of the manifold was introduced in 1854 by German mathematician Bernhard Riemann as a generalisation of surfaces to higher dimensions. Today’s customary definition was published in 1913 by his fellow countryman Hermann Weyl, Heinz Hopf’s predecessor as professor at ETH Zurich.
 
-## Author of a reference work
-
 Kodaira conjectured that it would be possible not only to transform two-dimensional Kähler manifolds into an algebraic variety but also to do so in higher dimensions. Claire Voisin solved the problem by presenting counterexamples to the Kodaira conjecture that are not transformations of this kind. “One characteristic feature of Claire Voisin’s working method is that she builds her arguments on well-founded examples,” says Rahul Pandharipande.
 
 Voisin has also used projective algebraic varieties in a partial proof and an approach to solving the conjectures of the two American mathematicians Mark Green and Spencer Bloch. With regard to the famous British mathematician William Hodge, Voisin’s book Hodge Theory and Complex Algebraic Geometry is today considered a reference work. At a symposium on 3 November 2015, talks will be given on this and other related problems by three renowned algebraic geometers, among them Arnaud Beauville, Voisin’s doctoral supervisor. Eight emerging researchers have also been invited.
 
 Claire Voisin works as a Director of Research at the Institut de Mathématiques de Jussieu in Paris. She is a member of various European academies. In 2015, she was appointed Professor of Algebraic Geometry at the Collège de France. Claire Voisin has been invited to return to ETH Zurich in 2017 to conduct research for one year as a fellow at the Institute for Theoretical Studies (ETH-ITS).
 
-Claire Voisin will be awarded the Heinz Hopf Prize on 2 November 2015 at 6:15 pm in the Semper Aula at ETH Zurich (HG G 60).
-
 ## Heinz Hopf Lectures and prize-giving ceremony
+
+Claire Voisin will be awarded the Heinz Hopf Prize on 2 November 2015 at 6:15 pm in the Semper Aula at ETH Zurich (HG G 60).
 
 The two Heinz Hopf Lectures on the topic of “Diagonals in algebraic geometry” will be held on Monday 2 November 2015 in HG G 60 and Tuesday 3 November 2015 in HG G 3, in both cases at 5:15 pm.
 

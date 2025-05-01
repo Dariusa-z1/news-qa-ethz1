@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2013/11/in-dieselautos-faehrt-ein-stueck-eth-mit.html
 
+**Date processed:** 2025-05-01
+
 ## «Diesel-PWs wurden salonfähig»
 
 In praktisch jedem Dieselmotor, der heute in Autos und Lastwagen, aber auch in Generatoren oder modernen Hochseeschiffen zum Einsatz kommt, steckt ein gutes Stück ETH-Forschung. Ingenieure in den Forschungslabors der Hochschule waren nämlich ab den 1970-er Jahren massgeblich an der Entwicklung eines damals revolutionären Systems zur Einspritzung des Treibstoffs in den Motor beteiligt: dem sogenannten Common-Rail-Einspritzsystem. Dieses ist mittlerweile zum Industriestandard geworden.
@@ -10,9 +12,9 @@ Vor zwanzig Jahren, am 9. November 1993, haben Wissenschaftler den ersten modern
 
 Blick unter die Motorhaube. Auf dem Bild sind das Common Rail (quer verlaufendes Rohr), vier elektronisch gesteuerte Einspritzdüsen (dahinter) und die Hochdruckpumpe (gelb, vorne) zu sehen. (Bild: ETH Zürich)
 
-«Die Common-Rail-Technik ermöglichte erstmals, die Dieseleinspritzung in mehrere Einspritzvorgänge aufzuteilen», erklärt Thomas Lutz. Der mittlerweile pensionierte Maschineningenieur war damals Projektleiter des Feldversuchs. Aus einem Einspritzvorgang wurden so Vor-, Haupt- und Nacheinspritzung. Heute gibt es sogar Motoren mit bis zu fünf nacheinander folgenden und präzise gesteuerten Einspritzvorgängen. Diese Aufteilung führt nicht nur zu einer vollständigeren Verbrennung des Treibstoffs, womit das Abgas russärmer wird, der Motor wurde auch leiser.
-
 ## An der ETH entwickelte Hochdruckpumpe
+
+«Die Common-Rail-Technik ermöglichte erstmals, die Dieseleinspritzung in mehrere Einspritzvorgänge aufzuteilen», erklärt Thomas Lutz. Der mittlerweile pensionierte Maschineningenieur war damals Projektleiter des Feldversuchs. Aus einem Einspritzvorgang wurden so Vor-, Haupt- und Nacheinspritzung. Heute gibt es sogar Motoren mit bis zu fünf nacheinander folgenden und präzise gesteuerten Einspritzvorgängen. Diese Aufteilung führt nicht nur zu einer vollständigeren Verbrennung des Treibstoffs, womit das Abgas russärmer wird, der Motor wurde auch leiser.
 
 «Der Diesel-PW-Bereich wurde dadurch revolutioniert. Zuvor waren Diesel-Autos laut und sie klopften. Dank der Common-Rail-Technik wurden sie salonfähig», sagt Lutz. Schliesslich ermöglichte die Technik eine effiziente Abgasrückführung, womit Stickoxide im Abgas reduziert werden konnten. «Und dies alles bei einem sehr wirtschaftlichen Treibstoffverbrauch», ergänzt Lutz.
 

@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2022/06/globe-staying-positive-in-challenging-times.html
 
-## About
+**Date processed:** 2025-05-01
+
+## Main article
 
 Political scientist Linda Maduz. (Photograph: Daniel Winkler)
 
@@ -12,11 +14,11 @@ What’s the biggest challenge right now forrelations between Asia and Europe? T
 
 What’s your advice to Switzerland in the current geopolitical situation? The strategic environment is changing rapidly. With the return of geopolitics, we’re seeing once again that a country’s international position depends more heavily on its geographic location. To extend its room for manoeuvre in foreign policy, Switzerland needs to resolve and strengthen relations with key countries, starting with its European neighbours.
 
-## Globe Science and beauty
-
 The pandemic probably has a natural origin, but the Ukraine war is most definitely caused by humans. Do we perceive each of these threats in a different way? Unlike naturally occurring events, threats of a social nature challenge us to reflect on how much responsibility we bear and how much power we have to act. They also make us question whether we could have prevented them. Could the war in Ukraine have been avoided? And, if so, how?
 
 What’s your recipe for staying positive in these challenging times? I have great faith in people’s – and society’s – resilience and in their ability to develop and progress. The pandemic and Russia’s attack on Ukraine have both shown us how supposedly safe goods, such as stability, security and travel, can very rapidly come under threat. But, on the other hand, we’ve also seen how policy can shift direction very quickly – and that can decisively change things for the better.
+
+## About
 
 Linda Maduz is Senior Researcher in the Global Security Team at the ETH Zurich Center for Security Studies (CSS).
 

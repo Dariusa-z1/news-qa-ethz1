@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2021/07/3d-printed-and-unreinforced.html
 
-## Main article
+**Date processed:** 2025-05-01
+
+## Printed in specific angles
 
 Millions of new buildings all over the world are being constructed with reinforced concrete, even though this type of construction generates large amounts of CO 2 emissions. The steel used for the reinforcement and the cement for the concrete are especially problematic in this regard. ETH researchers have now presented a way to reduce both, in a real project.
 

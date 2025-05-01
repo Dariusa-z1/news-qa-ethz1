@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2022/04/globe-eine-holzkuppel-nur-aus-abfall.html
 
-## Motivation Nachhaltigkeit
+**Date processed:** 2025-05-01
+
+## Main article
 
 Auf den ersten Blick könnte man meinen, hier finde ein Einführungskurs für Holzarbeit statt: In der Schreinerei auf dem Campus Hönggerberg hat sich an diesem Januarmorgen eine sechsköpfige Truppe um die Bandsägemaschine versammelt. Es gilt, massive Holzbalken in dünnere Leisten zu schneiden. Nach kurzer Instruktion legen die einen gleich los. Mit geübten Griffen schieben sie die Balken vors Sägeblatt. Andere zögern noch und fragen nach, ob sie die Hände am richtigen Ort halten.
 
@@ -10,31 +12,31 @@ Für einige Mitglieder der Forschungsgruppe von Catherine De Wolf, Assistenzprof
 
 Das Projekt startete im vergangenen Oktober in einem Autolagerhaus in Genf. Kurz vor dessen Abriss durften die ETH-Forschenden alle für sie brauchbaren Altbauteile aus dem Gebäude bergen. Unter Anleitung von Abbruchspezialisten zerlegten De Wolf und ihre drei Doktorierenden einen der Etagenböden in seine Einzelteile. Ihre Ausbeute – Spanplatten, Holzbalken, Stahlträger sowie einige Kunststoffrohre – transportierten sie mit einem Mini-Van nach Zürich.
 
-## Holzbalken vermisst
+## Motivation Nachhaltigkeit
 
 Wie bereits beim Abriss packt Assistenzprofessorin De Wolf auch bei den Schreinerarbeiten mit an. Gerade fährt sie mit einem Metalldetektor einen Holzbalken entlang, um Nägel und andere Fremdkörper aufzuspüren und vor dem Sägen zu entfernen. Die Wiederverwendung von Bauteilen nach den Prinzipien der Kreislaufwirtschaft ist das Kernthema, mit dem sich die 32-jährige Belgierin an der ETH beschäftigt. Den Entschluss, sich für nachhaltiges Bauen einzusetzen, fasste sie schon viel früher, während des Studiums in Architektur und Bauingenieurwesen. In einer der ersten Vorlesungen verkündete der Dozent, dass der Bausektor der weltweit grösste Verursacher unserer Treibhausgasemissionen sei, erinnert sich De Wolf. Als naturverbundener Mensch habe sie diese Tatsache zunächst schockiert. «Aber dann habe ich mir gedacht, dass ich da vieles bewirken kann.»
+
+## Holzbalken vermisst
 
 Heute, mehr als zehn Jahre später, ist De Wolf überzeugt, dass der Weg zu mehr Nachhaltigkeit im Bausektor über digitale Werkzeuge und Technologien führt. Wo und wie die Digitalisierung einen Mehrwert bringt, soll das Kuppel-Projekt zeigen.
 
 De Wolf will, dass alle Gruppenmitglieder einmal einen ganzen Wiederverwendungszyklus durchspielen – von den Abbauarbeiten über das Design eines neuen Gebäudes bis hin zu dessen Bau. «Wer die Arbeitsschritte von A bis Z selbst durchführt, findet die besten Lösungen und merkt gleichzeitig, wo die Herausforderungen liegen» , ist die Assistenzprofessorin überzeugt.
 
-## Second-Hand-Bauteile vermitteln
-
 Matthew Gordon und Catherine De Wolf studieren den digitalen Konstruktionsplan.
+
+## Second-Hand-Bauteile vermitteln
 
 «Haben wir nun genug Holzbalken?» Im hinteren Teil der Schreinerei studiert De Wolf mit dem Doktoranden Matthew Gordon den Konstruktionsplan. Die Form der geodätischen Kuppel ist nicht zufällig gewählt. Mit einer Grundstruktur aus lauter Dreiecken gehören Kuppeln zu den raum- und energieeffizientesten Bauwerken überhaupt und sind gleichzeitig extrem stabil. Das Spezielle der Holzkuppel an der ETH: Die unterschiedlich langen Streben der Dreiecke sind so dimensioniert, dass sie den Vorrat an wiederverwendetem Material möglichst effizient nutzen.
 
 Gordon, der ein Studium in digitaler Fabrikation absolvierte, hat dazu einen Algorithmus programmiert, der anhand des Holzvorrats selbstständig die optimale Geometrie und Dimensionen der Kuppel berechnet. «Ziel war, das Computerprogramm so zu konzipieren, dass es nicht die grössten Balken in kleine Stücke verschneidet und möglichst wenig Reste übrigbleiben», erklärt er. Gerade prüft der Doktorand nochmals, ob die im Computer hinterlegten Daten zu den Holzbalken mit der Realität übereinstimmen.
 
-## QR-Code für jedes Bauteil
-
 Bei den Vorbereitungsarbeiten hatte er nämlich bemerkt, dass einige Balken fehlen. Diese waren aber in der Konstruktion fest eingeplant. So musste Gordon die Flexibilität seines Computerprogramms unter Beweis stellen. Noch am selben Morgen hat er die Berechnungen neu durchgeführt. Während der Rest der Gruppe Balken um Balken zersägt, beschriftet der Chefkonstrukteur die neuen Bauteile mit der entsprechenden Nummer auf dem Plan. Bis jetzt scheint alles zu stimmen – Feuerprobe bestanden.
 
 «Diese Episode zeigt eine der grössten Herausforderungen bei der Arbeit mit gebrauchten Bauteilen», sagt De Wolf scherzhaft. Wegen Platzmangel lagerten die Holzbalken draussen vor den Werkstätten. Wahrscheinlich hat sie jemand fälschlicherweise entsorgt. Im Baugewerbe existieren ähnliche Probleme, erklärt sie. Zwar gibt es immer mehr Unternehmen, die Handel mit Second-Hand-Bauteilen betreiben. Die Bauteile zu beschaffen, ist jedoch aufwändig und zeitintensiv, der Platz für die Zwischenlagerung ist begrenzt. «Idealerweise würden die Unternehmen frühestmöglich über einen Abriss oder Rückbau informiert, so dass sie gleich mit der Suche nach Abnehmern für die Materialien beginnen können», so De Wolf. In der Realität passiere dies jedoch oftmals kurzfristig.
 
-Wie wäre es also, wenn auf einer digitalen Plattform sämtliche Informationen zu den Bauteilen in bestehenden Gebäuden erfasst würden? So könnten Architektinnen und Architekten herausfinden, wann welche Materialien aus Abrissobjekten verfügbar sind, und diese in Neubauten einplanen. «Gerade in Zeiten der Pandemie, in der Unterbrüche in globalen Lieferketten unzählige Bauprojekte verzögern, werden die Vorteile der Kreislaufwirtschaft umso mehr spürbar», erklärt Doktorand Brandon Byers.
+## QR-Code für jedes Bauteil
 
-## Sommerkurs für Studierende
+Wie wäre es also, wenn auf einer digitalen Plattform sämtliche Informationen zu den Bauteilen in bestehenden Gebäuden erfasst würden? So könnten Architektinnen und Architekten herausfinden, wann welche Materialien aus Abrissobjekten verfügbar sind, und diese in Neubauten einplanen. «Gerade in Zeiten der Pandemie, in der Unterbrüche in globalen Lieferketten unzählige Bauprojekte verzögern, werden die Vorteile der Kreislaufwirtschaft umso mehr spürbar», erklärt Doktorand Brandon Byers.
 
 Innerhalb des Kuppelprojekts hat er den Prototyp einer Onlineplattform für Bauteile erstellt. Am Beispiel der Holzelemente zeigt der studierte Bauingenieur, wie es gelingt, Informationen über mehrere Gebäudezyklen hinweg zu speichern – und bei Bedarf zu aktualisieren. Angaben wie das Installationsdatum, die Dimensionen und die Qualität der Bauteile hat der Doktorand in einer Tabelle für jeden Lebensabschnitt des Holzes aufgelistet und aktualisiert.
 
@@ -42,7 +44,7 @@ Vorteile dieses digitalen Materialpasses sieht Byers auch abseits der praktische
 
 Jedes Bauteil wird mit einem QR-Code versehen und in einer Datenbank erfasst.
 
-## Video zur Reportage
+## Sommerkurs für Studierende
 
 Mit einem Lasercutter graviert Byers die letzten QR-Codes ins Holz. In der Bauhalle beginnen unterdessen die Aufbauarbeiten. Zu zweit schrauben die Forschenden die Holzleisten an den Enden zusammen. Als Gelenke dienen ringförmige Scheiben, die sie aus Plastikrohren zugeschnitten haben. Auch diese stammen aus dem Gebäude in Genf; es waren einmal Wasserrohre. Knapp zwei Stunden später steht das unterste Stockwerk an Dreiecken. Nach drei Tagen ist die Kuppel fertig montiert – zumindest fast. Einmal mehr zeigt sich, dass bei der Arbeit mit gebrauchten Bauteilen, zu denen kaum Informationen verfügbar sind, nicht alles planbar ist: Die Holzleisten setzen die Plastikringe so fest unter Spannung, dass sie sich verziehen. Dank digitaler Fabrikation findet sich auch für dieses Problem eine Lösung. Mit einer computergesteuerten Fräsmaschine schneiden die Forschenden runde Scheiben aus den geborgenen Spanplatten heraus, die präzise in die Plastikringe passen. «Die Kuppel ist dadurch nicht nur stabiler, sondern sie gewinnt auch noch an Ästhetik», sagt Raghu, die bei diesem Projektteil den Lead übernommen hat.
 
@@ -50,7 +52,7 @@ Mit einem Lasercutter graviert Byers die letzten QR-Codes ins Holz. In der Bauha
 
 Auch die Verbindungsteile für die Holzbalken bestehen aus Altmaterial. Sie wurden aus alten Plastikrohren gefertigt.
 
-## «Globe» (Un)bekannte Risiken
+## Video zur Reportage
 
 Indem sie Architektinnen, Ingenieure und Informatikerinnen zusammenbringt, versucht De Wolf, zumindest in ihrer Forschungsgruppe die Voraussetzungen dafür zu schaffen. Fast noch wichtiger sei jedoch die Kombination aus Umweltbewusstsein und digitaler Affinität, fügt sie hinzu. Die sei nicht so häufig zu finden. «Auf der einen Seite stehen grüne Aktivistinnen wie Greta Thunberg und dann gibt es Tech-Geeks wie Elon Musk», so De Wolf. Sie suche hingegen gezielt nach Digitalaffinen, die ihr Know-how in den Dienst der Umwelt stellen.
 

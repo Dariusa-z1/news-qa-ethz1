@@ -2,21 +2,19 @@
 
 **Source:** en_news_events/2017/02/using-google-to-map-our-ecosystem.html
 
+**Date processed:** 2025-05-01
+
 ## Street trees – keeping it cool
 
 Do you remember the last time you escaped the hot summer sun to enjoy a cool reprieve in the shade beneath a broad-leafed tree? While sizzling summer days may seem far away right now in the northern hemisphere, tropical cities like Singapore deal with solar radiation on a daily basis.
 
-## Google Street View as an environmental dataset
-
 Trees and plants offer some relief, especially in urban areas with higher ambient temperatures, by providing shade and increasing evaporative cooling. Urban green spaces such as parks, gardens, and urban river networks deliver ecosystem services to cities reducing flood risk, cooling urban micro-climates, and creating recreational spaces. While it is generally accepted that trees and plants benefit urban environments, until now researchers have had very little data to work with in order to quantify the extent that street trees regulate urban ecosystems. Most of the research has been conducted in the temperate zones of Europe and North America, but little is known about how trees contribute to urban ecosystems in tropical regions. With urban populations exploding in megacities like Tokyo, Shanghai, and Delhi to well over 20 million people - it is important to understand how green spaces contribute to urban sustainability.
-
-## Thermal comfort in green cities
 
 Researchers in the Future Cities Laboratory at the Singapore-ETH Centre , a research outpost of ETH Zurich, developed a method to map and quantify how street trees regulate ecosystem services. Using nearly 100,000 images extracted from Google Street View, they analysed hemispherical photographs using an algorithm to quantify the proportion of green canopy coverage at 50 metre intervals across more than 80% of Singapore’s road network. Google Street View’s technology allowed researchers to tap into a standard dataset of panoramic photographs and streetscapes that use a global positioning system (GPS) to map images to specific locations. The high spatial resolution of the images allowed researchers to estimate the amount of solar radiation that reaches the earth’s surface. “In addition to cooling urban microclimates, these trees, which are integrated within dense urban street networks, also provide other benefits, such as reducing the risk of flash flooding and cleaning the air,” says Peter Edwards, Principal Investigator at the Future Cities Laboratory and Director of the Singapore-ETH Centre. Researchers on the project concluded that increasing the cover of the street tree canopy could reduce ground surface and air temperatures on Singapore’s streets. In addition, the relative quantity of the canopy may also serve as an indicator of evaporative cooling from leaves and rainfall interception.
 
-## Reference
-
 “The study shows that trees are extremely important in providing shade in Singapore, and this shade could improve thermal comfort for people. Providing trees to help cool the environment is particularly important in tropical cities like Singapore, which suffers heavily from the urban heat island effect,” says Dan Richards, a postdoctoral researcher at the Future Cities Laboratory and the project’s coordinator. This new and relatively inexpensive method of rapidly estimating the amount of shade provided by street trees could help urban planners to identify areas of a city with low shade and prioritise the planting of new trees. Since Google Street View covers many of the world’s cities, the method could be readily applied to quantify the proportion of canopy coverage and solar radiation in other tropical cities. If Google Street View images were collected during the growing season, the method may also be adapted to assess cities in temperate zones that experience a seasonal loss of tree leaves – enabling the possibility of creating strategically greener and more sustainable urban environments.
+
+## Reference
 
 Richards DR, Edwards PJ. Quantifying street tree regulating ecosystem services using Google Street View. Ecological Indicators 2017. 10.1016/j.ecolind.2017.01.028
 

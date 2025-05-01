@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2014/07/reminder-call-for-projects-2014-rare-diseases.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 The research programme of the Gebert Rüf Stiftung «Rare Diseases – New Approaches», started in 2009, will be continued in 2014. With CHF 2 million p.a., the programme promotes applied research aimed at developing and implementing innovative approaches or technologies.

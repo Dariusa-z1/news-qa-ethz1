@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2016/08/bedenkliche-gespraechsverweigerung.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 «Je ne suis pas d'accord avec vous, mais je me battrai pour que vous puissiez le dire.»

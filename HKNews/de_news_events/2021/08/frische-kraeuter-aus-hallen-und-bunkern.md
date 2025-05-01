@@ -2,19 +2,19 @@
 
 **Source:** de_news_events/2021/08/frische-kraeuter-aus-hallen-und-bunkern.html
 
+**Date processed:** 2025-05-01
+
 ## Mehr Ertrag, weniger Verbrauch
 
 Mark Zahrans Grossvater fuhr im Berner Mittelland mit dem Traktor aufs Feld. Er selber tüftelt nun in einem Zürcher Grossraumbüro daran, wie die Landwirtschaft der Zukunft aussehen könnte. «Unser ökologischer Fussabdruck hängt zu einem grossen Teil davon ab, wie wir unsere Lebensmittel produzieren», sagt Zahran auf dem kleinen Vorplatz des Büros, wenige Meter daneben rauscht die Sihl. «Zudem brauchen wir Lösungen, wie wir bis 2050 eine Weltbevölkerung von 10 Milliarden Menschen nachhaltig ernähren können.»
 
 Zahran, der vor zwei Jahren seinen Architektur-Master an der ETH absolviert hat, ist Gründer von YASAI. Das bedeutet auf japanisch Gemüse und zeigt, worauf es die neuartige Landwirtschaft abgesehen hat. Mit der Zukunftstechnologie «Vertical Farming» soll nicht mehr draussen auf dem Feld, sondern drinnen in Hochhäusern oder hohen Hallen angebaut werden: Gemüse, Salate und Kräuter wachsen übereinander gestapelt auf mehreren Regalen. Das Besondere daran: Die Pflanzen gedeihen nicht in der Erde, sondern in nährstoffreichem Wasser. Das Klima des Raums – Licht, Temperatur, Bewässerung – wird automatisch reguliert. Künstliche Intelligenz hilft dabei, die idealen Bedingungen zu schaffen.
 
-## Die ersten Kräuter ernten
-
 Einiges spricht dafür, dass die neue Art des Gemüseanbaus eine Zukunft hat. Denn die Produktion unter künstlichen Bedingungen ist viel ressourceneffizienter als jene auf dem Feld. «Auf der gleichen Fläche produzieren wir 15 Mal mehr und brauchen 95 Prozent weniger Wasser», erklärt Zahran. Ausserdem werden keinerlei Pestizide benötigt, und weil der Anbau im Siedlungsgebiet erfolgt, entfallen für die Umwelt schädliche Transportkosten. «Unsere Produkte sind sogar besser als Bio. Denn wir produzieren nachhaltiger. Aus weniger Ressourcen machen wir mehr. Garantiert ohne Pestizide», sagt Zahran.
 
 YASAI-Gründer Mark Zahrans ist überzeugt, dass seine Produkte besser sind als Bio. (Bild: YASAI)
 
-## Schutzanzug statt Sonnenhut
+## Die ersten Kräuter ernten
 
 Stärker als andere Vertical-Farming-Startups hat sich YASAI der Kreislaufwirtschaft verschrieben. Das grösste Problem beim Vertical Farming ist nämlich die Energie, die notwendig ist, um die Hallen auf 25 Grad zu heizen und das Sonnenlicht mittels Lampen zu imitieren. «Darum nutzen wir Abwärme zum Heizen und energiesparende LED-Lampen für die Beleuchtung.» Ausserdem sollen organische Abfälle für den Anbau rezykliert und Dünger aus Abwasser verwendet werden. Die Idee zu YASAI kam Zahran auf einer Studienreise in Mexico-City, wo er ein Buch des Vertical-Farming-Pioniers Dickson Despommier gelesen hatte. In seiner Masterarbeit suchte Zahran daraufhin nach Räumen in der Schweiz, die sich für die vertikale Landwirtschaft eignen. Und er wurde fündig: «Ungenutzte Industriehallen mit hohen Räumen gibt es hier zuhauf, und auch unterirdische Bunker eignen sich ganz gut.» Ende 2020 gründete Zahran gemeinsam mit seinem Halbbruder Stefano Augstburger sowie dem Umweltingenieur Philipp Bosshard eine Firma. Die drei feilten am Konzept für ihre erste «Vertical Farm».
 

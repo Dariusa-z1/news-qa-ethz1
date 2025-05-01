@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2017/08/eine-quelle-der-inspiration.html
 
+**Date processed:** 2025-05-01
+
 ## Further strengthening the exchange
 
 Snoring can develop into a health problem, which is why a Swiss company is now working together with ETH researchers to develop a bed that can reduce snoring. Thanks to the latest technology, the bed can modify the posture of the sleeping person by means of easy movements, and thus prevent snoring. This technology is being explored in ETH’s Sensory-Motor Systems Lab. The bed is just one example of how ETH Zurich works together with small and medium-sized enterprises (SMEs).
@@ -17,8 +19,6 @@ In Mobility and Energy, for example, Martin Saar, Professor of Geothermal Energy
 ETH professor Gabriela Hug deals with large electric power systems. She described the challenge facing research and development as the electricity grid becomes even more complex, increasingly contains intelligent network components, sensors and smart meters, and accumulates large amounts of data. “How do we deal with fluctuations and uncertainties in such systems?” she asked.
 
 In the field of mobility, the trend is towards autonomous, self-driving vehicles. Emilio Frazzoli, Professor of Dynamic Systems and Control, is conducting research in this area. In addition to technical issues, he is also engaged in issues of safety, comfort, accessible driving for disabled people, and sustainability. “Autonomous vehicles are changing the way we think about mobility,” he said.
-
-## Industry news and info for SMEs
 
 This development includes not only cars, but also intelligent aircraft and other flying objects. Margarita Chli, Professor of Vision for Robotics, is active in this area. She wants to teach robots “to see”. More specifically, her flying robots must learn how to jointly explore their surroundings and solve tasks within the group. “Perception and collaboration are key to making progress in robots,” said Chli.
 

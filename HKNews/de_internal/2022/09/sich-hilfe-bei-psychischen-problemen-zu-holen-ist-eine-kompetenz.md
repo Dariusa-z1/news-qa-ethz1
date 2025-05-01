@@ -2,7 +2,9 @@
 
 **Source:** de_internal/2022/09/sich-hilfe-bei-psychischen-problemen-zu-holen-ist-eine-kompetenz.html
 
-## Das ist die Beratungsstelle
+**Date processed:** 2025-05-01
+
+## Main article
 
 Cornelia Beck, Psychologin und Psychotherapeutin, leitet seit 2016 die Psychologische Beratungsstelle UZH/ETH.
 
@@ -16,21 +18,19 @@ Haben sich diese Problemfelder in den letzten 50 Jahren verändert? Nein, die An
 
 Gibt es dennoch Dinge, die heute anders sind? Ja, der zeitliche Druck hat stark zugenommen. Entsprechend möchten viele Studierende schnell vorwärts kommen. Fast alle orientieren sich an der Regelstudienzeit. Sie sehen nicht, dass sie ihr Studium in dieser Zeit minimal absolvieren können , sondern sie denken, dass sie in dieser Zeit ihr Studium absolvieren müssen . Dadurch machen sie sich grossen Druck und sind entsprechend leistungsorientiert.
 
-## 50 Jahre Beratungsstelle
-
 Zudem haben sich auch die Hochschulen in den vergangenen 50 Jahren verändert. Sie sind zu grossen Organisationen herangewachsen und viele Studierende haben Mühe mit der Anonymität. Sie fühlen sich unscheinbar, unsichtbar und das schadet der Motivation. Diese erlebte Indifferenz ist meines Erachtens bedrohlich für die Entwicklung von eigenständigem und kritischem Denken.
 
 Welche Einstellung haben die heutigen Studierenden zur psychologischen Beratung? Einerseits hat bei den Studierenden die Bereitschaft, eine Beratung in Anspruch zu nehmen, zugenommen. Sie scheinen eine Kompetenz entwickelt zu haben, die es ihnen ermöglicht, sich schneller Hilfe zu holen. Gleichzeitig sind die Studierenden wie erwähnt mit einem grossen Druck konfrontiert. Sie müssen effizient, leistungsfähig und schnell sein, und sie sind einem grossen Selektions- und Konkurrenzdruck bei hoher zeitlicher Belastung ausgesetzt.
 
 Diese Erwartungen bemerken wir auch häufig in der Beratung. Es soll am besten eine schnell wirksame und vorgefertigte Lösung mit konkreten Tipps geben. Dabei ist eine Persönlichkeitsreifung ohne psychische Anstrengung kaum möglich.
 
+## Das ist die Beratungsstelle
+
 Die Psychologische Beratungsstelle bietet allen Studierenden und Doktorierenden der Universität Zürich und der ETH Zürich psychologische Unterstützung bei Lern- und Leistungsstörungen, Entscheidungs- und Orientierungsschwierigkeiten, Beziehungskonflikten und anderen persönlichen Problemen an. Die Beratungen sind kostenlos und vertraulich. externe Seite Mehr Informationen über die Beratungsstelle.
 
 Welche Unterschiede stellen Sie bei den Studierenden fest, die zu Ihnen kommen? Zum einen ist der Prozentsatz der Frauen – wie bei allen psychosozialen Angeboten – höher als jener der Männer. 60% unserer Klient:innen sind Frauen. Insbesondere die Studentinnen und Doktorandinnen der ETH suchen uns häufiger auf als diejenigen der UZH. Generell sind Frauen aufgrund ihrer Sozialisation eher bereit, sich Unterstützung zu holen und über Probleme zu sprechen.
 
 Gibt es weitere Unterschiede? Über 25% der Beratungen werden von Studierenden internationaler Herkunft wahrgenommen. Häufig haben sie vieles auf sich genommen, um hier zu studieren, sie reisen an mit Erwartungen und Unsicherheiten im Gepäck, betreffend sich, den anderen und der Hochschule. Enttäuschungen, Kommunikationsprobleme und kulturelle Unterschiede können folglich die Immigration erschweren und zu starken psychosozialen Belastungen führen.
-
-## Immer aktuell informiert
 
 Ein weiterer Unterschied: Bachelor-Studierende melden sich tendenziell häufiger, wenn sie an der UZH studieren und weniger oft, wenn sie an der ETH sind. Bei den Masterstudierenden und den Doktorierenden ist es umgekehrt: Diejenigen der ETH melden sich häufiger als diejenigen der UZH.
 
@@ -41,6 +41,8 @@ Nun feiert die Beratungsstelle Jubiläum. Welche Wünsche haben Sie für die Zuk
 Es braucht also ein gewisses Umdenken an den Hochschulen? Ich wünschte mir wieder mehr Bewusstsein dafür, dass universitäre Bildung mehr umfasst, als eine Berufsausbildung. Mein Eindruck ist, dass durch Bologna das Punktezählen und der zeitliche Faktor so in den Fokus gerückt sind, dass sich viele Studierende nicht mehr die Zeit nehmen sich selbst zu fragen, welche Bereiche sie noch interessieren und welche Fächer sie für ein Semester noch belegen möchten. Dabei sollte ihnen die Zeit und der Raum, die zur Ausbildung einer akademischen und wissenschaftlichen Identität führen, gegeben werden.
 
 Und es sollte das Bewusstsein vorhanden sein, dass es allen Studierenden passieren kann, dass sie in eine schwierige Phase geraten. Und dass dies nichts über die Eignung als Akademiker:in aussagt.
+
+## 50 Jahre Beratungsstelle
 
 Anlässlich des diesjährigen Jubiläums finden Anfang Oktober eine Podiumsdiskussion für alle Interessierten sowie Workshops für Studierende und Doktorierende statt. Eine Installation im Lichthof UZH sowie in der ETH Galerie (HG F) stimmen zudem auf das Jubiläum ein.
 

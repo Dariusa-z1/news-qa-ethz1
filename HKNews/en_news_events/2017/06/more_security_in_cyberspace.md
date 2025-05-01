@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2017/06/more_security_in_cyberspace.html
 
+**Date processed:** 2025-05-01
+
 ## Technology in the fight against cyberattacks
 
 The WannaCry ransomware, Russian hackers, vote rigging – recently, cyberattacks on computer networks have made headlines, illustrating just how critical data and information security are for our society. ETH Zurich identified the importance of information security early and, around 15 years ago, it founded the Zurich Information Security & Privacy Center (ZISC), which organised the Cyber Risks Summit. The cross-industry work of the ZISC is more relevant than ever, as ETH President Lino Guzzella emphasised in his opening address: "It's time for science, business and government to join forces in developing effective protection against the dangers of cyberspace." In addition to collaboration with industry, Lino Guzzella also highlighted the importance of fundamental research and appealed for greater investment in this area.
@@ -10,9 +12,9 @@ The WannaCry ransomware, Russian hackers, vote rigging – recently, cyberattack
 
 Security and, above all, transparency are also at the centre of the new digital transmission technology blockchain. In his speech, Ari Juels, Professor at Cornell University in New York, compared communication via blockchain with a pinboard. Everything can be seen by everybody at all times, so it can also no longer be changed. This makes blockchain a highly versatile technology for transactions in the financial sector and for the drafting of smart contracts. However, Juels was also careful to highlight that blockchain technology is still in its infancy.
 
-## Joint efforts for more cybersecurity
-
 Úlfar Erlingsson, Tech Lead Manager at Google Brain, discussed how Big Data can increase information security. He explained how the ability to collect large quantities of data – without infringing on privacy rights – could also open up new possibilities in the field of information security, allowing us to uncover as yet unknown dangers in cyberspace and to develop new solutions.
+
+## Joint efforts for more cybersecurity
 
 As a bridge to the panel discussion 'Switzerland – the world's first internet-secure country?', Adrian Perrig, Head of the Institute of Information Security at ETH, presented his new internet architecture, Scion. Among other applications, Scion prevents undesirable data redirection and is a good example of the collaboration between research and industry at ZISC . Perrig discussed the practical relevance of the research project with Andréa M. Maechler, Member of the Governing Board at the Swiss National Bank (SNB), Andreas Häberli, CTO of the dorma+kaba Group, and IT entrepreneur Franz Grüter.
 

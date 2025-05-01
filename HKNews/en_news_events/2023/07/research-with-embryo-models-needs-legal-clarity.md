@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2023/07/research-with-embryo-models-needs-legal-clarity.html
 
-## About Alessandro Blasimme
+**Date processed:** 2025-05-01
+
+## Main article
 
 As publicly announced in June, three research teams from the UK, the US and Israel have independently succeeded in developing cell aggregates from human stem cells that very closely resemble the early human embryo.
 
@@ -14,9 +16,9 @@ In some countries, researchers are allowed to use real human embryos up to 14 da
 
 Is it currently legal in Switzerland to work with human embryo models beyond the 14-day limit? Research with embryos is not forbidden in Switzerland but it is strictly regulated. The limit here is 7 rather than 14 days. However, the legal definition of what constitutes an embryo in Switzerland is very narrow. The new embryo models are not likely to be included. This means that at the moment working with such models is largely unregulated in Switzerland. There are different methods for creating such embryo models. In some cases, human stem cells are genetically modified before being aggregated to form an embryo model. This would likely be prohibited in Switzerland. But there are also methods that don’t require genetic engineering.
 
-## Reference
-
 And in other European countries? The legal situation – and in particular the definition of an embryo – varies from country to country. The legislation in Austria and Belgium, for example, defines embryos in a broad way that could also cover the new models. This means that the rules that apply to research with human embryo may be interpreted to apply also to embryo models derived from stem cells. In most countries, however, there are significant legal loopholes.
+
+## About Alessandro Blasimme
 
 Alessandro Blasimme is a senior scientist at the Department of Health Sciences and Technology at ETH Zurich, where he studies the ethics and epistemology of biomedicine.
 
@@ -25,6 +27,8 @@ What does that mean for science? Uncertain frameworks don’t produce good scien
 What role can your field, bioethics, play here? As a society, we need to answer practical questions: Should the law treat embryo models the same as embryos or not? And should research on these models be allowed and within what boundaries? One of the reasons why we published our study was to stimulate this discussion. The task of us ethicists is to explore the reasons for and against using such embryo models for research and propose rules that are coherent and acceptable even if there is no definitive societal consensus on the topic. Legal loopholes hurt science. I personally think we should permit scientific research, but with rules that have been publicly discussed and can be accepted by society.
 
 What is your opinion? Should the models be treated like real embryos? The models are indeed very similar to natural human embryos. And both ethics and legal logic suggest treating like things alike. This doesn’t necessarily mean extending existing rules and limitations also to embryo models. But the latest scientific developments are a good opportunity to also reflect on and to clarify existing rules.
+
+## Reference
 
 Blasimme A, Sugarman J: Human stem cell-derived embryo models: Toward ethically appropriate regulations and policies, Cell Stem Cell, 3 July 2023, doi: 10.1016/j.stem.2023.06.007
 

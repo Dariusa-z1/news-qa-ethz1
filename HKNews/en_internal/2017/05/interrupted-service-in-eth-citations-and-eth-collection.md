@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2017/05/interrupted-service-in-eth-citations-and-eth-collection.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH Library will launch the Research Collection in the middle of June 2017, a new platform for academic publications and research data from ETH Zurich.

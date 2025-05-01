@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2021/07/interview-hermann-lehner-praesenzunterricht.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Herr Lehner, die Rektorin hat die Studierenden angeschrieben und für das Herbstsemester einen Präsenzunterricht angekündigt. Da werden die Studierenden aufatmen. Allerdings ist von «neuer Präsenz» die Rede. Was genau ist darunter zu verstehen? Nach drei Semestern Online-Unterricht setzen wir alles daran, das Herbstsemester grundsätzlich in Präsenz durchführen zu können. Insbesondere aktives Lernen, Übungen und experimentelle Lehre sollen auf dem Campus stattfinden. Dafür sehen wir die normalen Belegungsdichten vor. Gleichzeitig wollen wir aber die innovativen Online-Lehrformen beibehalten und sogar ausbauen. Wir gehen also nicht zurück zur Präsenzlehre, wie wir sie vor dem Ausbruch der Pandemie kannten.

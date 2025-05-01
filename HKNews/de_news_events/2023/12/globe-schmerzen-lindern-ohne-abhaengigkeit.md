@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2023/12/globe-schmerzen-lindern-ohne-abhaengigkeit.html
 
+**Date processed:** 2025-05-01
+
 ## Optimale Therapie
 
 Der Umgang mit Opioiden wird viel diskutiert. Gemeint sind damit Morphin und mit ihm verwandte Wirkstoffe wie Oxycodon, die als Schmerzmittel eingesetzt werden. Sie sind ein Segen für Patientinnen und Patienten mit akuten starken Schmerzen, können aber wegen ihres Abhängigkeitspotenzials und der Gefahr lebensbedrohlicher Überdosierungen auch zum Fluch werden. Die Opioidkrise in den USA und in Kanada, wo jährlich mehrere Zehntausend Menschen an einer Überdosis sterben, wirft ihren Schatten auch auf Europa, wo die ärztliche Verschreibung von Opioiden wie dem Oxycodon in den letzten zehn Jahren deutlich zugenommen hat.
@@ -18,15 +20,13 @@ Von den Personen, die in der Schweiz Opioide ärztlich verschrieben bekommen –
 
 «Wir sollten die Patientinnen und Patienten mit den Opioiden nicht allein lassen, sondern sie besser begleiten», sagt ETH-Professorin Burden. Ein Teil davon könnte sein, die Patient:innen, die zum ersten Mal Opioide erhalten, schon während des Spitalaufenthalts engmaschiger zu überwachen und schneller als bisher mit der Dosisreduktion zu beginnen. «Im Idealfall ist der Ausschleichprozess bereits im Spital abgeschlossen, und die Patienten können ohne Opioide entlassen werden», sagt Stämpfli.
 
-## Zu den Personen
-
 Wer nach dem Spitalaustritt noch opioidhaltige Schmerzmittel benötigt, soll im Gespräch oder mit schriftlichen Informationen ausführlich über den richtigen Umgang mit den Medikamenten aufgeklärt werden. Patienten und ihre Hausärzte müssen wissen, wie schnell die Medikamente bei akuten Schmerzen optimal ausgeschlichen werden können. Das Kantonsspital Baden plant dazu zusammen mit Burden eine Studie, in der verschiedene Formen des Ausschleichens auf ihre Wirksamkeit überprüft werden.
 
 «Es geht nicht darum, den Patientinnen und Patienten keine Opioide mehr zu geben, denn sie haben ein Recht darauf, nicht unter übermässigen Schmerzen leiden zu müssen», sagt Burden. «Es geht vielmehr um einen vernünftigen Umgang mit den Medikamenten, das heisst um den kurzfristigen Einsatz gegen akute starke Schmerzen, verbunden mit einem Plan, wie die Medikamente wieder abgesetzt werden können.»
 
 Von der Zusammenarbeit zwischen dem Kantonsspital Baden und der ETH profitieren beide Seiten. «Die ETH Zürich hat keine medizinische Fakultät. Die Zusammenarbeit mit dem Kantonsspital gibt uns die Möglichkeit, mit Patientendaten zu forschen und klinische Studien durchzuführen» , sagt Burden. Besonders wichtig ist ihr der Austausch mit Ärztinnen, Ärzten und Pflegenden, die täglich mit Patientinnen und Patienten zu tun haben. Die Praktiker haben viele wichtige Fragen. «Wir Wissenschaftlerinnen und Wissenschaftler haben hingegen die Forschungsexpertise, und wir können ihnen helfen, ihre Fragen zu beantworten.»
 
-## «Globe» Mensch im Mittelpunkt
+## Zu den Personen
 
 Andrea Burden ist Professorin für Pharmakoepidemiologie am Departement Chemie und Angewandte Biowissenschaften der ETH Zürich.
 

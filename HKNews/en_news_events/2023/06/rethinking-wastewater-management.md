@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2023/06/rethinking-wastewater-management.html
 
+**Date processed:** 2025-05-01
+
 ## From waste to resource
 
 Out of sight, out of mind: we’ve been flushing away human waste ever since sewers were invented, using copious amounts of fresh water to expel it from our homes and cities as fast as the pipes can carry it. Modern urban water systems are widely regarded as one of the greatest achievements of the past century. They provide us with clean drinking water, channel our wastewater to treatment plants and divert rainwater away from built-up areas. “As a result, we enjoy dry and hygienic living conditions, two of the mainstays of public health in densely populated urban areas,” says Max Maurer, Professor of Urban Water Systems at ETH Zurich and Eawag, the Swiss Federal Institute of Aquatic Science and Technology, which is part of the ETH Domain.
@@ -22,9 +24,9 @@ Maurer and Udert argue that it’s time for a rethink. They are calling for a pa
 
 Separation at source – also known as NoMix sanitation – seeks to segregate wastewater into its different fractions, because human waste and water are much easier to treat and recycle if they are not mixed together in the first place. Resource recovery takes various forms : nutrients such as nitrogen and phosphorus can be obtained from urine and faeces, while greywater – slightly dirty wastewater from kitchens, bathrooms and washing machines – can be treated and reused multiple times. Thermal energy is also recovered. Similarly, applying recovered nutrients to the fields as fertiliser closes the nutrient cycle, thereby benefiting the environment and reducing dependence on imports of mineral phosphorus fertilisers. The third principle, decentralisation , seeks to eliminate the costly transport of water through centrally managed pipe systems by ensuring that wastewater and waste can be treated as close to source as possible.
 
-## Biogas reactor and pasteuriser
-
 The researchers develop and test new wastewater technologies in the basement of NEST, the research and innovation building run by Eawag and Empa, the Swiss Federal Laboratories for Materials Science and Technology. Some of the processes they use stem from research projects launched over 15 years ago to develop off-grid sanitation solutions for countries in the Global South.
+
+## Biogas reactor and pasteuriser
 
 Well-known examples include Vuna and Blue Diversion Autarky, which provide a safe and affordable way to dispose of wastewater without requiring a combined sewerage system and centralised treatment plants.
 
@@ -32,17 +34,15 @@ Vuna stands for “Valorisation of Urine Nutrients in Africa”. In this approac
 
 Elizabeth Tilley understands all too well the importance of decentralised sanitation systems that do not require a water supply. Yet, in many regions of the world, fundamentally new concepts are required to make these work. Tilley began her research career at Eawag and completed her doctorate as part of the Vuna nutrient recycling project in South Africa, which was led by Udert. Today, she is Professor of Global Health Engineering at ETH Zurich, where she and her research group work to devise affordable and socially acceptable solutions for the protection of human health and the environment.
 
-## Tapping into existing expertise
-
 Some 2.3 billion people around the world use on-site sanitation systems such as pit latrines. These serve as an initial barrier to excreta-related pathogens, but regular emptying of the latrine creates its own set of problems. If the sludge is simply dumped into the environment or left untreated, the risk of pathogens spreading – and the potential for outbreaks of diseases such as cholera – is high.
 
 There is an urgent need for decentralised technologies that are robust, affordable and easy to operate. One promising technology is an anaerobic biogas reactor that is essentially a large, rubber balloon. This treats the faecal sludge to a certain degree, although not enough to make it safe for disposal. On the plus side, however, the process does yield a useful by-product in the form of a methane-rich gas (biogas), which can be used for cooking – just like propane or natural gas.
 
 Together with Kenyan engineering firm Opero and a Mexican supplier of biogas reactors, Tilley and her team set out to discover if they could use biogas derived from the sludge to fuel a pasteuriser that would then heat the effluent to a temperature sufficiently high to kill all the pathogens. The project was funded by ETH for Development.
 
-Julia Jäggi, a Master’s degree student in the Department of Mechanical and Process Engineering, spent three months in the Kenyan city of Kisumu, on the shores of Lake Victoria, designing and testing a pasteuriser with the capacity to treat the waste of about 500 people a day. “Engineering in the lab is one thing, but this really put our flexibility and creativity to the test! Every day was about solving problems on the fly and making the most of the resources we had,” says Jäggi. Tilley is confident that their system will soon be ready to deploy and will help prevent infectious diseases.
+## Tapping into existing expertise
 
-## About
+Julia Jäggi, a Master’s degree student in the Department of Mechanical and Process Engineering, spent three months in the Kenyan city of Kisumu, on the shores of Lake Victoria, designing and testing a pasteuriser with the capacity to treat the waste of about 500 people a day. “Engineering in the lab is one thing, but this really put our flexibility and creativity to the test! Every day was about solving problems on the fly and making the most of the resources we had,” says Jäggi. Tilley is confident that their system will soon be ready to deploy and will help prevent infectious diseases.
 
 There’s no doubt that water poses one of the biggest challenges of the future. Using this resource intelligently and sparingly is essential, both in Switzerland and abroad.“The concepts we developed for poorer countries 15 years ago are becoming increasingly relevant to Switzerland. We’re now reaping the rewards of this knowledge,” says Udert.
 
@@ -52,7 +52,7 @@ The researchers also see an opportunity for Switzerland to fast-track efforts to
 
 It would take a concerted effort by research, industry and the public sector to conduct the pilot projects required to demonstrate the feasibility of this applied knowledge and to then create an initial market. “But when it comes to the processes, the know-how and the financial resources – it’s all there already!” says Udert.
 
-## Globe Water
+## About
 
 Max Maurer is Professor of Urban Water Systems in the Department of Civil, Environmental and Geomatic Engineering at ETH Zurich and head of the research group Water Infrastructure Transition (WIT) at Eawag.
 

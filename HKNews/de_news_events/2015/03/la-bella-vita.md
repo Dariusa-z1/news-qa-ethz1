@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2015/03/la-bella-vita.html
 
+**Date processed:** 2025-05-01
+
 ## Akrobaten inspirierten Forschung
 
 Strahlend betritt Raffaello D’Andrea sein Büro. Er kommt gerade aus einer Sitzung, bei der er mit Kollegen vom Departement Informationstechnologie und Elektrotechnik (D-ITET) Pläne für eine künftige Zusammenarbeit im Bereich Systeme und Steuerung geschmiedet haben. Er setzt sich an den Tisch vor den Bücherregalen, in denen er all seine Bücher waagrecht liegend eingeordnet hat. «Das hat seinen Sinn», erklärt er. «So kann man die Titel der Bücher viel besser lesen. Viele Leute verrenken sich den Hals, um ein bestimmtes Buch zu finden, weil die Bücher stehend eingeordnet waren.» Diese Erklärung lässt erahnen, wie Effizienz und die natürliche Ordnung das Leben und Werk von Raffaello D’Andrea beeinflussen.
@@ -10,23 +12,17 @@ Am Montag, dem 23. März 2015, verleiht die externe Seite Robotic Industries Ass
 
 Der Technologie-Award würdigt nicht nur D’Andreas Leistungen im akademischen Bereich, sondern auch seinen Einsatz für die Robotikbranche und die Kunst. Während einige seiner Projekte wie der Roboterstuhl als Kunstwerke geschätzt werden, so ist es nicht sein erklärtes Ziel, die Kluft zwischen Kunst und Wissenschaft zu überwinden. «Für mich sind alle meine Arbeiten gleichwertig, egal ob sie an der Biennale in Venedig gezeigt werden oder für Kiva Systems sind. Mir geht es vor allem darum, etwas zu erschaffen», so D’Andrea.
 
-## Ingenieurtechnik + Robotik = Chancen
-
 D’Andreas Forschungsteam konzentriert sich auf die Frage, wie sich autonome Maschinen und Systeme erschaffen lassen, die Informationen nutzen, welche sie über die Umwelt aufnehmen – Systeme, die eigene Entscheidungen treffen oder gemeinsam schneller lernen können. In den vergangenen sieben Jahren haben D’Andrea und sein Team an der ETH Zürich an sieben verschiedenen Projekten gearbeitet, vom «Blind Juggler» bis zu fliegenden Robotern und vom «Cubli» bis zu einrotorigen Modulen, die koordiniert aufeinander einwirken. «Als Inspirationsquelle für diese Projekte dient das Leben, in dem wir laufend neue visuelle oder auditive Muster entdecken, Steuerungsprobleme lösen oder Dinge durch Beobachtung vereinfachen lernen», erklärt D’Andrea. Cubli etwa sei von der Cirque-du-Soleil-Vorstellung «The Statue Act» inspiriert, bei der sich die Akrobaten gegenseitig stützen mussten, um so im Gleichgewicht zu bleiben, wie es keiner von ihnen allein vermocht hätte.
 
 Auszeichnungen wie der Engelberger Award zeigen den Wert, den diese Projekte für die «reale Welt» haben, und bestätigen gleichzeitig das ETH-Modell von Lehre und Forschung. Auch könnte man denken, ein Technologiepreis werde nur für angewandte Forschungsmodelle vergeben, dabei widmen sich D’Andrea und sein Team eher abstrakten Forschungen an Systemen, die nicht auf gezielte Anwendungen ausgerichtet sind. «Diese Auszeichnung verdeutlicht, dass Grundlagenforschung die Technologie noch immer stark beeinflussen kann», sagt D’Andrea.
 
 Als Professor betreut er sowohl Studierende als auch Doktoranden. Bei letzteren sieht er sich vor allem als Impulsgeber, um Forschungslücken zu schliessen oder technische Probleme zu lösen. Durch die Entwicklung von Algorithmen, die bestehendes Wissen nutzen und dessen Grenzen durch Versuch, Irrtum und Anpassung ausloten, hat sein Team die komplexen aerodynamischen Muster von Flugmaschinen erforscht. Dank Algorithmen, die es Robotern ermöglichen, zu lernen und sich anzupassen, zählt Kiva Systems, ein von D’Andrea mitgegründetes Unternehmen, zu den innovativsten Firmen der Welt.
 
-## Im Forscherhimmel
-
 Aber nicht nur D’Andreas zehnköpfiges Team widmet sich an der ETH Zürich der Robotikforschung. Die Bandbreite an möglichen Forschungsfragen reicht vom kollektiven Lernen über Nanogeräte und Biomedizin bis zu neuen Materialien und autonomen Flugobjekten.
 
 Geprägt durch seine Studien- und Forschungserfahrung vom California Institute of Technology, der Cornell University und dem MIT verfolgt D’Andrea einen internationalen Ansatz. «Vom fachlichen Standpunkt her habe ich das schon immer geglaubt, nun aber bin ich überzeugt, dass die ETH Zürich der beste Ort weltweit ist, um technische Forschung zu betreiben. Die Unterstützung, die wir in Form von Ressourcen und akademischer Freiheit erfahren, ist einfach unglaublich», erklärt D’Andrea. Der Bund und auch die Europäische Union im Allgemeinen wüssten um die Bedeutung der Grundlagenforschung und stellten umfangreiche Forschungsgelder zur Verfügung, damit sie an der ETH erstklassige Forschungsarbeit leisten könnten.
 
 Mehr als 750 Professoren, wissenschaftliche Mitarbeiter und Studenten aus den USA lehren, forschen und studieren momentan an der ETH Zürich. Das Leistungssystem unterscheidet die ETH Zürich von anderen Universitäten. Da die Studiengebühren niedrig sind, ist die ETH für all jene interessant, die aufgrund ihres Könnens weiterkommen wollen statt aufgrund ihrer gesellschaftlichen Herkunft. D’Andrea beschreibt die Situation so: «Wenn man als Forscher langfristig ausgerichtete Grundlagenforschung betreiben kann, ohne ständig Forschungsgeldern nachjagen, Forschungsanträge schreiben und sich den Forschungszielen der Geldgeber beugen zu müssen, dann ist das ein echter Traum. Diesen Traum können Wissenschaftler, Studierende und Forschende bei uns leben. Unsere Studierenden zählen zu den besten weltweit.»
-
-## Das Erfolgsrezept
 
 Raffaello D'Andrea. (Bild: Edith Paol)
 

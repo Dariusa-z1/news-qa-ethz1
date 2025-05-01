@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2017/01/anmeldung-fuers-informatik-schnupperstudium---jetzt-offen.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Die Teilnehmerinnen verbringen drei Tage an der ETH Zürich. In dieser Zeit lernen sie, wie man Android Apps programmiert, erhalten Einblicke in verschiedene Gebiete der Informatik, besuchen Vorlesungen von ETH-Professoren und treffen auf Informatik-Studenten und Studentinnen der ETH Zürich. Zudem erfahren sie bei einer Exkursion in die Industrie mehr über die Karrieremöglichkeiten nach einem erfolgreichen Abschluss des Informatikstudiums.

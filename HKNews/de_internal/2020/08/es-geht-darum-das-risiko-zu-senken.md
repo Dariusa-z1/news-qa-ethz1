@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2020/08/es-geht-darum-das-risiko-zu-senken.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Leonhard Sigel, Leiter der Sektion Arbeitsmedizin und Gesundheitsschutz (Bild: ETH Zürich/Gian Marco Castelberg)

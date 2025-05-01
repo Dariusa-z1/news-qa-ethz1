@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2018/08/interview-guenther-dissertori.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Das Cern hat soeben neue Resultate zum Higgs-Boson präsentiert. Fast gleichzeitig hat die Schweizerische Nationalbank (SNB) die neue 200er-Note in Umlauf gebracht, an der Sie massgeblich mitgearbeitet haben. Was ist für Sie wichtiger? Günther Dissertori: Die Mitwirkung an der Gestaltung einer Banknote ist für mich sicher ein sehr ungewöhnliches, einmaliges Projekt. Es ist eine grosse Ehre, dass ich mit der SNB zusammenarbeiten durfte. Und es entwickelte sich eine tolle Zusammenarbeit mit dem Grafikteam, das sich sehr für die auf der Note dargestellte Wissenschaft interessierte.
@@ -29,6 +31,8 @@ Wie geht es weiter? Die Experimente am LHC laufen bis Ende 2018 weiter, dann fol
 Was versprechen Sie sich vom Ausbau? Der Beschleuniger soll weitere ca. zehn Jahre bei viel höheren Intensitäten laufen. Die Idee ist, die Datenmenge um den Faktor zehn zu vergrössern. Das ermöglicht es uns, weitere wichtige Aspekte des Higgs-Teilchens zu untersuchen, die man mit der derzeitigen Leistung nicht untersuchen kann. Und wir werden nach neuen Phänomenen suchen. Wir sind noch lange nicht am Ende. Wichtig ist zudem, dass der LHC und seine Experimente eine derart kolossale und geniale Infrastruktur ist, die weltweit einzigartig ist. Wir sind verpflichtet, diese Infrastruktur bis zum letzten auszureizen und mit diesem Instrument alles, was gemessen werden kann, auch gemessen wird. Vielleicht finden wir auch neue Physik.
 
 Was ist die «neue Physik»? Neue Physik heisst z.B. neue fundamentale Elementarteilchen, die man in der Natur noch nicht gesehen hat, die man aber künstlich produzieren kann. Vielleicht finden wir neue Teilchen, die etwas mit der Dunklen Materie im Universum zu tun haben könnten. Zudem sagen gewisse Theorien voraus, dass es zusätzliche räumliche Dimensionen geben könnte und dass diese in Teilchenkollisionen messbare Effekte erzeugen. Letztlich geht es darum, wie unsere Welt im kleinsten aufgebaut ist. Wenn wir das verstehen, dann verstehen wir auch besser, wie unser Universum sehr kurz nach dem Urknall ausgesehen hat; und je besser man dies versteht, desto besser versteht man auch, weshalb sich das Universum so entwickelt hat.
+
+## Zur Person
 
 Günther Dissertori ist seit 2001 Professor am Institut für Teilchenphysik und Astrophysik an der ETH Zürich. In den vergangenen Jahren lag der Schwerpunkt seiner Forschungsgruppe auf dem Bau, der Inbetriebnahme, dem Betrieb und der Datenanalyse des externe Seite CMS-Experiments am Cern. Von 2016 bis 2018 war er Deputy Spokesperson des CMS-Experiments.
 

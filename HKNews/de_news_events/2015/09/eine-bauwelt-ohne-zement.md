@@ -2,15 +2,17 @@
 
 **Source:** de_news_events/2015/09/eine-bauwelt-ohne-zement.html
 
-## Weniger Zement, weniger CO2-Emissionen
+**Date processed:** 2025-05-01
+
+## Main article
 
 Die Idee war ausgeklügelt: Die gotische Kathedrale Notre-Dame im Zentrum von Lausanne sollte mit Steinen renoviert werden, die nach dem Abriss einer Überbauung in der Stadt freigelegt würden. Denn die Kirche wurde aus lokalen Steinen gebaut, die heute unter der Stadt liegen. «Dank der Baustelle waren die Ressourcen für eine kurze Zeit wieder zugänglich», sagt Guillaume Habert, ETH-Professor für Nachhaltiges Bauen. Das Projekt wird von einem Doktoranden untersucht, der von Habert und dem Initiator der Idee, einem Architektur-Professor der Genfer Fachhochschule Hepia, betreut wird. Eines steht jedoch jetzt schon fest: «Aus zeitlichen Gründen konnte das Vorhaben nicht umgesetzt werden», bedauert Habert. Bis alles geklärt war, waren die Steine auf der Baustelle bereits zerstört und zu klein für die Renovation. «Doch das Bewusstsein wurde geweckt – ein erster Schritt», freut er sich. «Vielleicht klappt es ein anderes Mal, vielleicht auch in einer anderen Stadt.»
+
+## Weniger Zement, weniger CO2-Emissionen
 
 Habert beschäftigt sich seit längerem mit der Nutzung lokaler Ressourcen vor allem im urbanen Raum, wo der Bedarf besonders hoch ist. Eine Problematik, die dabei immer wieder auftaucht, ist die Verfügbarkeit von Ressourcen. Zwar gibt es unter einer Stadt mehr als genug Steine zum Bauen. Aber niemand will einen Steinbruch in der Stadt. Und dort wo Steine abgebaut werden, braucht sie keiner. Die Folgen: lange Transportwege, hohe Transportkosten – von der Ökobilanz ganz zu schweigen. Für Habert geht es in der Baubranche weniger um die Knappheit von Ressourcen, sondern vielmehr um deren Verteilung.
 
 Eine der wichtigsten lokalen Ressourcen zum Bauen in der Stadt stellt bereits verbauter Beton dar. Denn die Inhaltsstoffe – Kies, Sand und Zement – können nach dem Abriss eines Gebäudes teilweise erneut verwendet werden. Dazu wird der abgebaute Beton zunächst zertrümmert. So können Kies und Sand wiedergewonnen und in neuem Beton verwendet werden. Der dabei entstehende Staub besteht zum grössten Teil aus Zement, der bei der Herstellung von Beton mit Wasser reagiert hat.
-
-## Radikaler Ansatz
 
 «Das Recycling von Zement ist anspruchsvoller – aber besonders wichtig», hält der Professor für Nachhaltiges Bauen fest. Denn bei der Herstellung von Zement fallen grosse Mengen an Kohlenstoffdioxid (CO 2 ) an: einerseits bei der Erhitzung der beiden Ausgangsmaterialien Kalkstein und Ton auf 1500 °C und andererseits durch die chemische Umwandlung des Kalks. Alleine durch Letztere entsteht pro Tonne Zement eine halbe Tonne CO 2 . Beim Rezyklieren in einem Zementwerk muss der Rohstoff zwar nochmals hoch erhitzt werden, um wieder in der Ursprungsform vorzuliegen, aber immerhin entsteht dabei nicht nochmals CO 2 – sofern klimaneutral geheizt wird.
 
@@ -18,15 +20,11 @@ Zement ist der ideale Binder im Beton, der mit Wasser angerührt Kies und Sand z
 
 Die Forschenden wollen nun den Gehalt an Abfallprodukten verdoppeln, ohne dass sich die mechanische Festigkeit des Endprodukts verschlechtert. Sie sollte bei 30 Megapascal bleiben. «Damit liessen sich Bauten gleicher Dimension wie heute realisieren, die CO 2 -Bilanz aber wäre deutlich besser», sagt Habert. Derzeit ist das Team daran, den neuen Beton mit weniger Zement zu charakterisieren und immer weiter zu optimieren.
 
-## Nächste Generation
-
 Eine Herausforderung, die sich den Forschenden dabei immer wieder stellt, ist die Interaktion des zementarmen Betons mit anderen Materialien, wie etwa dem Bewehrungsstahl, der beim Bauen mit dem Beton vergossen wird. Enthält der Beton nicht genügend reinen Zement, rostet der Stahl viel zu schnell. «Solche Stahlbetonbauten wären weniger dauerhaft, und das kann selbstverständlich nicht unser Ziel sein», bringt es Habert auf den Punkt. Neben der Optimierung des neuen Betons entwickeln deshalb die Wissenschaftler auch Alternativen zum Bewehrungsstahl. Gemeinsam suchen sie nach rostfreien Alternativen wie etwa Karbonfaser-Polymere oder Kunstfasern. «Mein Fokus liegt auf dem Umweltimpact dieser Materialien», sagt Habert. Er analysiert die CO 2 -Bilanz der verschiedenen Technologien und zeigt auf, wo es Möglichkeiten gibt, die Bilanz zu optimieren.
 
 Auf dem Campus Hönggerberg wurde beispielsweise diesen Sommer das «House of Natural Ressources» unter der Leitung von Andrea Frangi eingeweiht, das Bürogebäude und Forschungslabor zugleich ist. Beim Bau wurde der Beton nicht etwa mit Stahl vergossen, sondern mit Holz. «Die Kombination von Beton und Holz ist ideal. Denn es besteht kein Risiko, dass das Material korrodiert», sagt Guillaume Habert.
 
 Ein anderer Forschungsansatz von Guillaume Habert ist weit radikaler: Beton mit Ton statt mit Zement. Weil der Baustoff nicht hoch erhitzt und damit keine chemische Reaktion in Gang gesetzt wird, ist er viel umweltfreundlicher. Das hat aber auch seine Nachteile: Die mechanische Festigkeit liegt rund zehnmal tiefer bei nur 3 Megapascal als bei herkömmlichem Beton mit Zement. «Deshalb kommt diese Art von Beton nicht für die gleichen Anwendungen in Frage», sagt Habert. Eine Möglichkeit könnte sein, den zementfreien Beton nur für nichttragende Wände zu verwenden. Bereits damit könnte der Zementverbrauch massgeblich verringert werden.
-
-## Magazin «Globe»
 
 Haberts Forschungsgruppe ist derzeit daran, nicht nur das Material an sich zu optimieren, sondern auch dessen Verwendung auf der Baustelle. Wird der neuartige Beton in die Schalung gegossen und trocknet aus, bilden sich derzeit noch Risse. Deshalb arbeiten die Forscher daran, die Oberflächeneigenschaften des Tons chemisch zu verändern. Das Ziel ist, dass der Beton ohne Zement innert drei Stunden verarbeitet werden kann – wie das Original. Im Versuch trocknet zementfreier Beton bereits nach 30 Minuten aus. Das ist viel zu kurz für Transport und Verarbeitung. Zusätzlich Abhilfe schaffen könnten auch spezielle Schalungen mit Poren, die durchlässig sind für Wasser.
 

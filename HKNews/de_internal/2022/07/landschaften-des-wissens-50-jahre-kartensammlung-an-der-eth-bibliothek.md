@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2022/07/landschaften-des-wissens-50-jahre-kartensammlung-an-der-eth-bibliothek.html
 
+**Date processed:** 2025-05-01
+
 ## Buchvernissage am Dienstag, 30. August 2022
 
 Seit Jahrzehnten sammelt die ETH-​Bibliothek Karten und gestaltet auf Basis dieser reichhaltigen Tradition den Übergang in die digitale Bereitstellung und Nutzung von Kartenwerken und Geodaten für Wissenschaft und Öffentlichkeit aktiv mit. Im Jahr 2022 blicken wir zurück auf das 50-​jährige Bestehen der grössten Kartensammlung der Schweiz und nutzen die Gelegenheit, eine Zwischenbilanz zu ziehen.
@@ -10,15 +12,13 @@ Sie sind herzlich eingeladen, das 50-​jährige Bestehen der Kartensammlung mit
 
 Wann: Dienstag, 30. August 2022, ab 17.00 Uhr
 
-## Festschrift «Landschaften des Wissens»
-
 Wo : ETH Zürich, Rämistrasse 101, Dozentenfoyer, K 30.5
 
 Anmeldung : Da die Teilnehmerzahl beschränkt ist, bitten wir um Anmeldung bis 24. August 2022 via E-​Mail an .
 
-Die neu erschienene externe Seite Festschrift bietet eine Momentaufnahme der aktuellen Entwicklungen sowohl aus bibliothekarischer Perspektive als auch aus Sicht von Forschung und Lehre. Die insgesamt 16 Beiträge geben Einblicke in die Geschichte und Bedeutung der Kartensammlung der ETH-​Bibliothek, zeigen das enorme Potential digitaler Angebote und Zugänge auf und illustrieren die vielfältige Verwendung von Karten als Bestandsteil von Forschungsaktivitäten unterschiedlichster Disziplinen
+## Festschrift «Landschaften des Wissens»
 
-## Immer aktuell informiert
+Die neu erschienene externe Seite Festschrift bietet eine Momentaufnahme der aktuellen Entwicklungen sowohl aus bibliothekarischer Perspektive als auch aus Sicht von Forschung und Lehre. Die insgesamt 16 Beiträge geben Einblicke in die Geschichte und Bedeutung der Kartensammlung der ETH-​Bibliothek, zeigen das enorme Potential digitaler Angebote und Zugänge auf und illustrieren die vielfältige Verwendung von Karten als Bestandsteil von Forschungsaktivitäten unterschiedlichster Disziplinen
 
 Haben Sie Fragen oder Rückmeldungen? Das Team Karten und Geoinformation steht Ihnen gerne per E-Mail zur Verfügung: .
 

@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2014/04/sicherheitsluecke-heartbleed.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Ein grosses Thema der letzten Tage war die Sicherheitslücke namens «Heartbleed». Diese könnte beispielsweise Web Stores, Internetbanking oder generell sämtliche Internetseiten, welche mit «https:» beginnen, betreffen.

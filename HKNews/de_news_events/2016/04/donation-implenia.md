@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2016/04/donation-implenia.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH-News: Herr Affentranger, weshalb haben Sie sich entschieden, den Aufbau einer Asssistenzprofessur für innovatives und industrialisiertes Bauen finanziell zu unterstützen? Anton Affentranger: Die Bauwirtschaft gehört heute zu den ineffizientesten Branchen überhaupt. Andere Industrien konnten dank der Standardisierung von Prozessen und der durchgängigen Optimierung entlang der gesamten Wertschöpfungskette beträchtliche Effizienzsteigerungen realisieren. Dies war in der Baubranche nicht der Fall. Know-how im Bereich des industrialisierten Bauens und der Förderung innovativer Technologien, spielen dabei eine Schlüsselrolle. Implenia beschäftigt sich bereits intensiv mit «Operational Excellence»-Themen. Zudem feiern wir in diesem Jahr unser 10-Jahr-Jubiläum. Wir wollen dies zum Anlass nehmen, weiter in unsere Zukunft zu investieren.
@@ -17,6 +19,8 @@ Implenia darf zudem in der Berufungskommission mit einer Stimme Einsitz nehmen. 
 In den letzten Tagen wurden Fälle von Drittfinanzierungen bekannt, bei denen Industriepartner ihre Förderung an einen Wunschkandidaten gekoppelt hatten. Wie stehen die Dinge in ihrem Fall? Eine solche Bedingung gibt es nicht. Wir sind eine von zehn Stimmen, die in der Berufungskommission im Rahmen einer offenen Diskussion ihre Sicht und Ideen einbringt. Es ist das Gesamtgremium, das dem ETH-Präsidenten Kandidaten und Kandidatinnen vorschlägt.
 
 Die Öffentlichkeit wurde in den letzten Monaten stark sensibilisiert für mögliche Widersprüche aus der Forschungsfinanzierung durch die Wirtschaft. Birgt ein solches Engagement nicht Risiken für das Image Ihres Unternehmens? Als Wirtschaftsunternehmen haben wir eine Verantwortung für das Gemeinwohl. Das heisst auch, dass sich Unternehmen im Bereich der Forschung und Bildung einbringen können, ja sogar einbringen sollten – nicht nur finanziell, sondern auch inhaltlich. Ich bin überzeugt, dass es Modelle gibt, die ein Engagement der Wirtschaft ermöglichen, ohne den Grundsatz der Forschungsfreiheit sowie die Unabhängigkeit der Lehre zu torpedieren. Damit das funktioniert, sind klare Regeln und Transparenz wichtige Gebote. Ich denke, dass wir diesem Anspruch mit der vorliegenden ETH-Partnerschaft gerecht werden.
+
+## Initiative für Nachhaltiges Bauen
 
 Implenia wird sich am Aufbau einer Assistenzprofessur für innovatives und industrialisiertes Bauen am Departement Bau, Umwelt und Geomatik (D-BAUG) der ETH Zürich beteiligen. Über sechs Jahre hinweg wird das Unternehmen über die ETH Zürich Foundation die Professur mit insgesamt 2,4 Millionen Franken unterstützen. Damit wird die ETH-Initiative für Nachhaltiges Bauen weiter ausgebaut, im Rahmen welcher in den letzten sechs Jahren 15 neue Professuren aufgebaut wurden. Implenia engagiert sich bereits seit 2008 durch Beteiligung am «Excellence Scholarship & Opportunity Programme» an der Talentförderung innerhalb der ETH Zürich.
 

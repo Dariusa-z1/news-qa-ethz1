@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2016/02/the-eth-bibliothek-is-going-digital.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Passion can enliven any debate, but it sometimes comes at the expense of more important elements, even when the intentions are good. In the 7 February 2016 edition of NZZ am Sonntag, ETH-Bibliothek director Rafael Ball expressed himself pointedly on the library’s future – perhaps too pointedly, as he was to learn quite painfully. The various reactions – in particular those of experts – ranged from hard objectivity to disconcerting counter-provocation.

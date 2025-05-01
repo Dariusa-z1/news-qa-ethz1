@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2019/10/emissionsfreie-schifffahrt.html
 
+**Date processed:** 2025-05-01
+
 ## Nordostseeregion als Innovationstreiber
 
 Die Schifffahrt verursacht aktuell etwa drei Prozent des weltweiten CO 2 -Ausstosses, sie gehört damit neben dem Strassen- und dem Flugverkehr zu den grössten Emittenten unter den Verkehrsträgern. Zum grössten Teil werden diese Emissionen durch internationale Handelsschiffe und grosse Frachter verursacht. Verschiedene Organisationen, Reedereien und Regierungen haben sich gemeinsam zum Ziel gesetzt, den Transport über Wasser in den nächsten Jahren CO 2 -neutral zu gestalten. Wie dieser Übergang effektiv gelingen soll, war bisher aber unklar.
@@ -9,8 +11,6 @@ Die Schifffahrt verursacht aktuell etwa drei Prozent des weltweiten CO 2 -Aussto
 Nun hat eine Gruppe am Departement für Management, Technologie und Ökonomie an der ETH Zürich mögliche Wege in eine emissionsfreie Schifffahrt ausgearbeitet. Das sogenannte «sus.lab» hat zum Ziel, wissenschaftliche Erkenntnisse zur Nachhaltigkeit mit Partnern aus der Wirtschaft umzusetzen. Den Auftrag für die Studie erhielt das Team von Christian Oldendorff, Unternehmer und Miteigentümer der Reederei Nord.
 
 Der Report betrachtet die Nordsee und die Ostsee. Studienleiterin Petrissa Eckle sagt, die Region habe sich bereits als Innovationstreiber in dem Sektor positioniert. Zudem könne so auf kleinem Raum getestet werden, welche Lösungsansätze wirklich funktionieren. Mittels externer Studien und Interviews mit Innovatoren und Experten aus der Industrie untersuchte ihr Team die Reiserouten, die vorhandenen Infrastrukturen, die Nachhaltigkeit und die Kosten möglicher neuer Treibstoffe.
-
-## «Nun sind Pilotprojekte nötig»
 
 Dabei konzentrierten sie sich auf Energieträger, die in den nächsten fünf bis zehn Jahren einsetzbar sind und die auf der Fahrt keine CO 2 -Emissionen mehr freisetzen. Zudem mussten die Lösungsansätze auf die internationale Schifffahrt skalierbar sein. Nicht berücksichtigt wurden effizienzsteigernde Massnahmen wie ein verbessertes Rumpfdesign oder betriebliche Optimierungen. Diese können zusätzlich Energie und somit Kohlendioxid sparen.
 

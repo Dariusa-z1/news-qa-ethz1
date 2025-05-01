@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2021/10/sollen-sich-forschende-in-die-politische-diskussion-einbringen.html
 
+**Date processed:** 2025-05-01
+
 ## Pro
 
 Nicola Nuti, Doktorand am Departement Biosysteme (Illustration: Kornel Stadler)
@@ -10,23 +12,19 @@ Klimawandel und Impfskepsis sind hochemotionale Themen mit enormem Konfliktpoten
 
 Wie bei jeder komplexen Dynamik sind hier viele Faktoren am Werk. Forschungseinrichtungen neigen dazu, die Bedeutung der Öffentlichkeitsarbeit zu unterschätzen. Sobald die Medien diese Rolle übernehmen, bringen sie oft überspitzte oder aus dem Zusammenhang gerissene Aussagen. Lobbygruppen mit eigener Agenda verbreiten regelmässig irreführende und fragwürdige Daten. Die Öffentlichkeit kann dann nur schwer erkennen, welche Quellen Vertrauen verdienen, und wird von einer ständigen Flut schockierender und widersprüchlicher Behauptungen überrollt.
 
-## Kontra
-
 Ich finde, die Wissenschaftsgemeinde muss sich in der politischen Debatte Gehör verschaffen. Von der Wissenschaft zu erwarten, dass sie lediglich objektive Daten produziert, würde voraussetzen, dass eine neutrale Haltung der Wissenschaft überhaupt möglich ist. Doch Forschung ist an sich schon ein politischer Akt. Sie wird mit öffentlichen Mitteln finanziert, und die Fragen, mit denen sie sich befasst, werden oft mit Blick darauf gewählt, was sie zum gesellschaftlichen Wandel beitragen. Wissenschaft und Politik stehen bereits im Dialog, ob es uns gefällt oder nicht.
 
 Wissenschaftlerinnen und Wissenschaftler müssen die Sprache der Politik erlernen und handlungsorientierte Belege und umsetzbare Pläne vorlegen. Wir müssen unsere Erkenntnisse strukturieren und zusammenfassen und ruhig und selbstbewusst unsere Meinung vertreten. Es ist unsere moralische Pflicht, uns für Veränderungen einzusetzen, indem wir uns in den politischen Diskurs einbringen und eine gemeinsame Sprache sprechen. Wir müssen uns in der politischen Debatte ebenso engagieren wie in der Forschung. Wenn wir die Bedeutung und Tragweite unserer Arbeit nicht vermitteln und den Kampf für Veränderungen anderen überlassen, werden unsere Bemühungen vergeblich bleiben.
 
-Gunnar Jeschke, Professor am Departement Chemie und Angewandte Biowissenschaften. (Illustration: Kornel Stadler)
+## Kontra
 
-## Staffnet
+Gunnar Jeschke, Professor am Departement Chemie und Angewandte Biowissenschaften. (Illustration: Kornel Stadler)
 
 Die Gesellschaft bezahlt uns dafür, neue Information zu finden, deren Verlässlichkeit einzuschätzen und beides ehrlich zu kommunizieren. Politik hingegen hat immer auch einen Machtaspekt und einen Propagandaaspekt. Diese beiden Aspekte vertragen sich kaum mit ehrlicher Kommunikation. Wer sich als Forscher politisch engagiert, tut das also nicht in der Rolle des Wissenschaftlers, sondern in derjenigen des Bürgers. Dabei verliert er den Anspruch, in politischen Fragen die Wissenschaft zu vertreten.
 
 In den letzten Jahren wurde dieser Anspruch im politischen Prozess dennoch gern mit dem Argument erhoben «Die Wissenschaft sagt». Das ist fast immer eine Falschaussage, weil es im politischen Prozess sehr selten um Sachverhalte geht, über die sich alle Wissenschaftler einig sind. Etwas redlicher ist die Behauptung «Die grosse Mehrheit der Wissenschaftler glaubt». Damit verlassen wir allerdings das Gebiet der Erkenntnis und betreten dasjenige des Glaubens. Es gab eine Zeit, in der die grosse Mehrheit der Physiker an die Äthertheorie glaubte. Trotzdem ist sie falsch. Albert Einstein, der dieser Theorie den Todesstoss versetzte, hatte seinerseits Mühe mit der «spukhaften Fernwirkung» in der Quantenmechanik. Trotzdem gibt es diese.
 
 Mehrheiten und Autoritäten bedeuten im Erkenntnisfortschritt nichts – in der Politik hingegen alles. In der Wissenschaft gelten das bessere Argument oder die besseren Daten. Diese könnten erst morgen, nächsten Monat oder in zehn Jahren gefunden werden. Wer sich dann aus politischen Gründen bereits festgelegt hat, wird zur Verteidigung seines Standpunkts neigen, auch wenn dieser wissenschaftlich unhaltbar geworden ist. Die Versuchung ist besonders gross, wenn der Standpunkt Ausdruck persönlicher Interessen ist. In der Politik ist das die Regel, ob die Handelnden es reflektieren oder nicht.
-
-## Newsletter abonnieren
 
 Unsere Forschungsergebnisse sind jedenfalls selten so klar und gesichert, wie sie von prominenten Wissenschaftlerinnen und Wissenschaftlern in politischen Debatten dargestellt werden. Ausgewiesene Experten findet man zumeist auf beiden Seiten der Auseinandersetzung. Wenn sie ihre Haltungen jeweils als sichere Erkenntnisse darstellen, muss das Vertrauen in die Wissenschaft verloren gehen
 

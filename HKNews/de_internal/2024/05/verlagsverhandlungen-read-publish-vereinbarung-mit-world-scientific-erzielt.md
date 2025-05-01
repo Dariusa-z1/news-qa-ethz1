@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2024/05/verlagsverhandlungen-read-publish-vereinbarung-mit-world-scientific-erzielt.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Die ETH-Bibliothek hat eine Vereinbarung mit dem Verlag World Scientific abgeschlossen, welche den ETH-Forscher:innen eine zusätzliche Möglichkeit bietet, ihre Resultate der Öffentlichkeit frei zugänglich zu machen. Damit konnte bereits das 20. Read-&-Publish-Abkommen zu Gunsten der ETH-Community realisiert werden.

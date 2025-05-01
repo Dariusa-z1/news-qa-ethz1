@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2022/05/the-chaotic-early-phase-of-the-solar-system.html
 
+**Date processed:** 2025-05-01
+
 ## Witnesses of the early solar system
 
 Before the Earth and other planets formed, the young sun was still surrounded by cosmic gas and dust. Over the millennia, rock fragments of various sizes formed from the dust. Many of these became building blocks for the later planets. Others did not become part of a planet and still orbit the sun today, for example as asteroids in the asteroid belt.
@@ -22,8 +24,6 @@ The results showed that the cooling was rapid and likely occurred due to severe 
 
 “Our additional measurements of Platinum isotope abundances allowed us to correct the Silver isotope measurements for distortions caused by cosmic irradiation of the samples in space. So we were able to date the timing of the collisions more precisely than ever before”, Hunt reports. “And to our surprise, all the asteroidal cores we examined had been exposed almost simultaneously, within a timeframe of 7.8 to 11.7 million years after the formation of the solar system”, the researcher says.
 
-## Reference
-
 The near simultaneous collisions of the different asteroids indicated to the team that this period must have been a very unsettled phase of the solar system. “Everything seems to have been smashing together at that time”, Hunt says. “And we wanted to know why”, she adds.
 
 The team considered different causes by combining their results with those from the latest, most sophisticated computer simulations of the solar system development. Together, these sources could narrow down the possible explanations.
@@ -33,6 +33,8 @@ The team considered different causes by combining their results with those from 
 While the nebula was still around, it slowed down the objects orbiting the Sun in it – similar to how air resistance slows a moving car. After the nebula had disappeared, so the researchers suggest, the lack of gas drag allowed the asteroids to accelerate and collide into each other – like bumper cars that were turned to turbo-mode.
 
 “Our work illustrates how improvements in laboratory measurement techniques allow us to infer key processes that took place in the early solar system – like the likely time by which the solar nebula had gone. Planets like the Earth were still in the process of being born at that time. Ultimately, this can help us to better understand how our own planets were born, but also give us insights into others outside our solar system”, Schönbächler concludes.
+
+## Reference
 
 Hunt AC, Theis KJ, Rehkämper M. et al. The dissipation of the solar nebula constrained by impacts and core cooling in planetesimals. Nature Astronomy, published online 23 May 2022; doi: 10.1038/s41550-022-01675-2
 

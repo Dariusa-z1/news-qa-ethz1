@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2018/05/innovative-bauprozesse.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Kürzlich hat der NFS Digitale Fabrikation Vertreter des Schweizerischen Nationalfonds (SNF) und seines Überprüfungsausschussses zu seiner vierten Jahresrevision eingeladen. Während der zweitägigen Veranstaltung bewertete das internationale Expertengremium die Fortschritte des NFS und diskutierte seine zukünftigen Forschungspläne. In den kommenden Monaten wird der Forschungsrat des SNF über die künftige Finanzierung des NFS entscheiden.

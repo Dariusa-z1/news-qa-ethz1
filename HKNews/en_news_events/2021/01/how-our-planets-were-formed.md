@@ -2,31 +2,29 @@
 
 **Source:** en_news_events/2021/01/how-our-planets-were-formed.html
 
+**Date processed:** 2025-05-01
+
 ## Two waves of formation at different points in time
 
 Mercury, Venus, Earth and Mars in the inner solar system are relatively small, dry planets, unlike Jupiter, Saturn, Uranus and Neptune in the outer regions, planets that contain much greater quantities of volatile elements. “In the last few years, we’ve also discovered another major difference between the two parts of the solar system,” says Maria Schönbächler, Professor at the Institute of Geochemistry and Petrology at ETH Zurich, continuing: “Meteorites have a different ‘fingerprint’ depending on whether they originated in the inner or the outer solar system.” Where they originate determines the meteorites’ isotope content. Isotopes are distinct atoms of a given element, which all share the same number of protons in their nuclei but vary in the number of neutrons.
 
 The current explanation for the differences in the chemical composition of planets and meteorites is as follows: 4.5 billion years ago, as the solar system was forming from a disc of gas and dust, the planet Jupiter was the first to develop. It split the disc into an inner and an outer region and blocked the exchange of materials between the two.
 
-## Snow line moved outwards
-
 “As a group of researchers, collaborating across a range of disciplines, we have developed a new model of planet formation. It provides an alternative explanation for the differences in isotopes, and Jupiter doesn’t play a role,” Schönbächler explains. The idea for the new theory came about through collaboration between researchers from ETH and the University of Zurich at the National Centre of Competence in Research (NCCR) PlanetS, of which Schönbächler is a member. Now the international team is publishing its work in the journal Science .
 
 “We used computer simulations to calculate what might have happened in the early solar system,” says Tim Lichtenberg from the University of Oxford, the study’s lead author and a former member of the NCCR PlanetS, who received his PhD degree at ETH.
 
-## New combination of current data
-
 According to these simulations, the inner and outer solar system formed in two separate waves at two different times. Extremely early on, when the original disc of dust and gas as well as the sun were still forming, the first building blocks of the inner planets appeared – experts refer to these pieces, which measure about 100 kilometres, as planetesimals. A key role here is played by the snow line, which formed at a certain distance to the still very young sun. Within the snow line, water existed as vapour, while water beyond it turned into ice crystals. Just outside the snow line some of the water vapour condensed onto grains of dust, which clumped together to form the first planetesimals.
 
 “These were extremely rich in water,” Lichtenberg explains, adding: “This is quite a surprise, because it means the Earth should have held much more water and so today ought to look more like a comet.” Here, too, the new theory offers an explanation: the dust disc contained the radioactive isotope aluminium-26, which the planetary building blocks inherited. It has a half-life of 700,000 years and unleashes a large amount of energy as it decays – enough to heat planetesimals from the inside and melt them. This led to the formation of iron cores and the evaporation of water and other volatile elements.
-
-## Reference
 
 “In our model, after the first planetesimals formed in the inner solar system, nothing happened for about a half a million years,” Lichtenberg explains. Then there came a second wave of planetesimal formation, only this time in the outer solar system. With the warming up of the gas and dust disc, the snow line had moved outwards, and dust particles moving towards the sun were held up at the new snow border. The researchers describe it as a “traffic jam”, and it gave rise to new planetesimals. “The formation of the planets in the outer solar system started later, but also finished more quickly; the inner planets needed a lot longer,” Lichtenberg says. Because the second process began later, a large portion of the radioactive aluminium-26 had already decayed, meaning a smaller quantity of volatile elements evaporated away. As a result, the outer region saw the formation of gas and ice giants like Jupiter, Saturn or Uranus.
 
 “Our model also sheds new light on the growth of the original planetesimals in the inner solar system, which then continued until they formed the terrestrial planets like our Earth,” Schönbächler says. According to the model, the initial phase was dominated by collisions among the planetesimals. Later, the gravity of these bodies caused them to attract and accumulate dust particles in a process experts call “pebble accretion”. Another phase of collisions followed until the end of Earth’s formation process, when it collided with one last large chunk. This impact caused the young planet to eject material that ultimately formed the moon. The simulations also illustrate how the planets migrated closer to the sun as they were forming, before settling into the orbits we see today.
 
 “In our study, we propose an overall scenario that reproduces the composition and the formation history of the solar system,” Lichtenberg says. And indeed, the computer calculations correspond to data from meteorite analysis and astronomical observations. “This combination of current meteorite data and development models is new,” Schönbächler says, “and I’m delighted at how well everything lines up.”
+
+## Reference
 
 Lichtenberg T et al.: Bifurcation of planetary building blocks during Solar System formation, Science, 371, 6527, 21 January 2021. doi: 10.1126/science.abb3091
 

@@ -2,15 +2,17 @@
 
 **Source:** de_news_events/2015/02/ein-labor-fuer-die-reale-welt.html
 
+**Date processed:** 2025-05-01
+
 ## Studiengang ist Teil eines neuen ETH-Instituts
 
 Raus aus der Hochschule, rein in die Entscheidungsprozesse von Politik, Wirtschaft und Gesellschaft. So lässt sich der Grundgedanke hinter dem neuem Master-Studiengang (MSc) «Science, Technology and Policy» beschreiben. Im Verlauf von drei Semestern erwerben Ingenieure, Naturwissenschaftler und Architekten grundlegende Kenntnisse über Strukturen und Prozesse in Politik, Wirtschaft und Gesellschaft.
 
 Sie lernen, Entscheidungsoptionen mit wissenschaftlichen Methoden systematisch zu bewerten und dadurch zur Bewältigung von zentralen gesellschaftlichen Herausforderungen beizutragen. Der Studiengang soll ETH-Absolventinnen und -Absolventen dazu befähigen, ihr Know-how in Naturwissenschaften, Technik oder Architektur zu Zukunftsthemen wie Stadtentwicklung, Energie, Nachhaltigkeit und Informations- und Kommunikationstechnologie besser in Entscheidungsprozesse einbringen zu können.
 
-Der Master-Studiengang ist Teil des Gesamtkonzepts des neu gegründeten Institute of Science, Technology and Policy (ISTP), eine neue departementsübergreifende Plattform der ETH Zürich. Es ist ein wichtiger Baustein in der sogenannten «Critical Thinking»-Initiative der ETH Zürich.
-
 ## Institut zieht in eigenes, neu gestaltetes Gebäude
+
+Der Master-Studiengang ist Teil des Gesamtkonzepts des neu gegründeten Institute of Science, Technology and Policy (ISTP), eine neue departementsübergreifende Plattform der ETH Zürich. Es ist ein wichtiger Baustein in der sogenannten «Critical Thinking»-Initiative der ETH Zürich.
 
 Das ISTP soll eine intensive und kontinuierliche Zusammenarbeit zwischen Natur-, Ingenieur- und Sozialwissenschaften ermöglichen. Direktor ist der Politikwissenschaftler Thomas Bernauer, Vizedirektor ist Reza Abhari, Professor für Energietechnik. Der Institutsleitung gehören zudem die Professoren Hubert Klumpner (Architektur), Timothy Roscoe (Computerwissenschaften) und Andreas Wenger (Sicherheitspolitik) an.
 
@@ -18,21 +20,19 @@ Das ISTP soll eine intensive und kontinuierliche Zusammenarbeit zwischen Natur-,
 
 «Jeder einzelne», erzählt er, «hat einen Brief geschrieben und zusammen mit einem gemeinsam erarbeiteten Businessplan haben wir im Herbst 2014 unsere Idee der Schulleitung vorgestellt». Dort stiessen sie auf offene Ohren und erhielten die Zusage für den Aufbau des Instituts und des Studiengangs. Beide sind in einer ersten Pilotphase auf vier Jahre angelegt. Jeder der Gründer wird etwa 20 Prozent seiner Zeit für das ISTP aufwenden – zusätzlich zur bisherigen wissenschaftlichen Arbeit und Lehre.
 
-## Für Naturwissenschaftler und Ingenieure
-
 Damit der interdisziplinäre Austausch nicht nur in der Lehre stattfindet, sondern auch im Alltag gelebt werden kann, wurde dem neuen Institut von der Schulleitung ein eigenes Gebäude zur Verfügung gestellt. In der Universitätsstrasse 41 wird das ISTP ab Sommer 2015 sein Zuhause haben. Die Räume werden bis dahin unter der Leitung von Hubert Klumpner, Architekt und ETH-Professor für Architektur und Städtebau, angepasst.
 
 Das Gebäude soll die neue Denkschule widerspiegeln und wird offen und kommunikativ gestaltet. Klumpner gehört zu den Initiatoren und sagt: «Das ISTP wird gewissermassen ein Labor, in dem die Studierenden auf die Herausforderungen der realen Welt vorbereitet werden».
 
 In sechs Basiskursen erwerben die Studierenden fundiertes Wissen darüber, wie Institutionen und Entscheidungsprozesse in Politik, Wirtschaft und Gesellschaft funktionieren. Zudem lernen sie, wie Lösungsmöglichkeiten für komplexe gesellschaftliche Probleme nach unterschiedlichen Kriterien mit wissenschaftlichen Methoden bewertet werden können. Dieses Wissen wird dann durch Fallstudien zu konkreten gesellschaftlichen Herausforderungen sowie in der Masterarbeit vertieft.
 
-## Anmeldung bis Ende März
-
 Aufgrund vieler Gespräche mit Entscheidungsträgern in Wirtschaft, Politik und Zivilgesellschaft geht Bernauer davon aus, dass die Absolventen des neuen Studiengangs in der Privatwirtschaft, dem öffentlichen Sektor, NGOs sowie internationalen Organisationen sehr gefragt sein werden.
 
 Voraussetzung für den neuen Studiengang ist entweder ein abgeschlossenes Bachelor-Studium in Architektur oder den Ingenieur- oder Naturwissenschaften plus zwei Semester eines Master-Studiums in einem dieser Bereiche. Alternativ können sich Interessierte nach einem bereits abgeschlossenen Master-Studium an der ETH Zürich oder der EPFL anmelden.
 
 Wer den ersteren Weg wählt kann im Anschluss an den dreisemestrigen MSc «Science, Technology and Policy» in den ursprünglichen Master-Studiengang zurückkehren und dort nach ein bis zwei Semestern ebenfalls abschliessen. Damit werden die Absolventen mit dem MSc «Science, Technology and Policy» in der Regel über eine Doppelqualifikation verfügen.
+
+## Anmeldung bis Ende März
 
 Interessierte können sich ab dem 1. März für den Master-Studiengang bewerben. Anmeldeschluss ist der 31. März 2015. Das Studium beginnt im September 2015. Unterrichtssprache wird Englisch sein.
 

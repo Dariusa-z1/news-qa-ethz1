@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2015/05/12-professors-at-eth-zurich-appointed.html
 
+**Date processed:** 2025-05-01
+
 ## Appointments at ETH Zurich
 
 Upon application of the President of ETH Zurich, Professor Lino Guzzella, at its meeting of 20/21 May 2015 the ETH Board appointed a total of 12 individuals as professors at ETH Zurich, took note of the resignation of two professors and thanked them for their services, and awarded the title of professor to one individual.
@@ -22,8 +24,6 @@ Patrick Cheridito. (Photo: Patrick Cheridito)
 
 Professor Patrick Cheridito (*1969) , currently Associate Professor at Princeton University, New Jersey, USA, as Full Professor of Insurance Mathematics. Patrick Cheridito conducts research in the field of stochastic financial mathematics and has published a series of major articles on modern risk theory, the theory of stochastic processes and valuation theory for financial securities. He has also succeeded in finding convincing solutions for important practical problems, and is therefore in demand as an adviser to the Swiss financial industry. With the appointment of Patrick Cheridito, ETH Zurich is building on its successful tradition in the field of insurance mathematics and financial mathematics.
 
-## Award of the title of Professor
-
 Margarita Chli. (Photo: Margarita Chli)
 
 Dr Margarita Chli (*1983) , currently Chancellor's Fellow and Tenure Track Lecturer at the School of Informatics of the University of Edinburgh, United Kingdom, as Assistant Professor of Vision for Robotics. Margarita Chli has received international recognition for her research in the field of visual robot navigation for autonomous localisation and area mapping. She participated in the first fully autonomous flight of a small helicopter with onboard localisation and mapping, which was navigated using only a camera and an inertial sensor. Her approaches have led to collaborations with leading companies. The appointment of Margarita Chli enables ETH Zurich to expand its leadership in the field of robotics.
@@ -42,8 +42,6 @@ Professor Siddhartha Mishra (*1980) , currently Associate Professor at ETH Zuric
 
 Renato Renner. (Photo: ETH Zurich/Giulia Marthaler)
 
-## Departures from ETH Zurich
-
 Professor Renato Renner (*1974) , currently Associate Professor at ETH Zurich, as Full Professor of Theoretical Physics. Renato Renner works on the development of new information theory methods that are suitable for applications in thermodynamics. He has succeeded in deriving a universal formula for the waste heat produced during calculation processes. Using a similar information theory approach he was also able to gather new insights regarding the foundations of quantum theory. Renato Renner is recognised worldwide as one of the leading theoreticians of his generation in the quantum information sciences. His work makes a major contribution to ETH Zurich's strong international position in this field.
 
 Alessandro Sisto. (Photo: Alessandro Sisto)
@@ -54,9 +52,13 @@ Dr Fabian Walter (*1978) , currently a Senior Assistant at ETH Zurich, as Assist
 
 Melanie Zeilinger. (Photo: Melanie Zeilinger)
 
+## Award of the title of Professor
+
 Dr Melanie Zeilinger (*1982) , currently Research Associate at the Max Planck Institute for Intelligent Systems in Tübingen, Germany, as Assistant Professor of Intelligent Control Systems. Melanie Zeilinger works on control systems for large-scale dispersed and highly complex systems in changing, insecure environments. One objective of her research, which has strong international links, is to fully exploit the potential of the available data in order to develop agile, high-performance controllers for security-critical systems. Melanie Zeilinger will introduce forward-looking topics in the field of intelligent control systems to the research and teaching of ETH Zurich and strengthen its leading role in this area.
 
 Michael Stauffacher. (Photo: Michael Stauffacher)
+
+## Departures from ETH Zurich
 
 Dr Michael Stauffacher (*1965) , Senior Scientist and Lecturer at the Department of Environmental Systems Science at ETH Zurich and Associate Professor Extraordinary at Stellenbosch University, South Africa, as Adjunct Professor at ETH Zurich. Michael Stauffacher successfully focuses on socio-environmental research, including the topics of nuclear waste disposal, electricity supply after Fukushima and sustainable urban development. He also makes an important contribution to ETH Zurich through his dedicated teaching.
 

@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2018/02/organisation.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Since February 2018, the organisation database's online site has had a new corporate web design. The menu navigation has been improved, while previous functions remain unchanged. These include e.g. various ways to display structures, the creation of lists by organisation type (e.g. departments, chairs, degree programmes, etc.) or searching for the heads of a unit. Each unit can check how they are represented and categorised using the link provided. Questions and requests for alterations can be directed to the Controlling department. Request forms to open and modify guide numbers can be found on the Finance and controlling website.

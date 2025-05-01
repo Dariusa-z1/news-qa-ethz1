@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2020/05/bumblebees-speed-up-flowering.html
 
-## Surprising behaviour from bumblebees
+**Date processed:** 2025-05-01
+
+## Main article
 
 Spring has sprung earlier than ever before this year, accompanied by temperatures more typical of early summertime. Many plants were already in full bloom by mid-April, about three to four weeks earlier than normal. These types of seasonal anomalies are becoming increasingly frequent due to climate change, and the resulting uncertainty threatens to disrupt the timing of mutualistic relationships between plants and their insect pollinators.
 
@@ -10,7 +12,7 @@ A research team led by ETH Professors Consuelo De Moraes and Mark Mescher has no
 
 Their study has just been published in the journal Science . “Previous work has shown that various kinds of stress can induce plants to flower, but the role of bee-inflicted damage in accelerating flower production was unexpected,” Mescher says.
 
-## Phenomenon also observed in the field
+## Surprising behaviour from bumblebees
 
 The researchers first noticed the behaviour during other experiments being undertaken by one of the authors, Foteini Pashalidou: pollinators were biting the leaves of test plants in the greenhouse. “On further investigation, we found that others had also observed such behaviours, but no one had explored what the bees were doing to the plants or reported an effect on flower production,” Mescher explains.
 
@@ -18,21 +20,21 @@ A bumblebee pierces a leaf with its tongue. (Photograph: Hannier Pulido / ETH Zu
 
 Following up on their observations, the ETH researchers devised several new laboratory experiments, and also conducted outdoor studies using commercially available bumblebee colonies – typically sold for the pollination of agricultural crops – and a variety of plant species.
 
-## Delicate balance starting to tip
-
 Based on their lab studies, the researchers were able to show that the bumblebees’ propensity to damage leaves has a strong correlation with the amount of pollen they can obtain: Bees damage leaves much more frequently when there is little or no pollen available to them. They also found that damage inflicted on plant leaves had dramatic effects on flowering time in two different plant species. Tomato plants subjected to bumblebee biting flowered up to 30 days earlier than those that hadn’t been targeted, while mustard plants flowered about 14 days earlier when damaged by the bees.
 
 “The bee damage had a dramatic influence on the flowering of the plants – one that has never been described before,” De Moraes says. She also suggests that the developmental stage of the plant when it is bitten by bumblebees may influence the degree to which flowering is accelerated, a factor the investigators plan to explore in future work.
 
 The researchers tried to manually replicate the damage patterns caused by bees to see if they could reproduce the effect on flowering time. But, while this manipulation did lead to somewhat earlier flowering in both plant species, the effect was not nearly as strong as that caused by the bees themselves. This leads De Moraes to suggest that some chemical or other cue may also be involved. “Either that or our manual imitation of the damage wasn’t accurate enough,” she says. Her team is currently trying to identify the precise cues responsible for inducing flowering and characterising the molecular mechanisms involved in the plant response to bee damage.
 
-## Reference
+## Phenomenon also observed in the field
 
 The ETH research team was also able to observe the bees’ damaging behaviour under more natural conditions, with doctoral student Harriet Lambert leading follow-up studies on the rooftops of two ETH buildings in central Zurich. In these experiments, the researchers again observed that hungry bumblebees with insufficient pollen supplies frequently damaged the leaves of non-blooming plants. But the damaging behaviour was consistently reduced when the researchers made more flowers available to the bees.
 
 Furthermore, it was not only captive-bred bumblebees from the researchers’ experimental colonies that damaged plant leaves. The investigators also observed wild bees from at least two additional bumblebee species biting the leaves of plants in their experimental plots. Other pollinating insects, such as honeybees, did not exhibit such behaviour, however: they seemed to ignore the non-flowering plants entirely, despite being frequent visitors to nearby patches of flowering plants.
 
 “Bumblebees may have found an effective method of mitigating local shortages of pollen,” De Moraes says. “Our open fields are abuzz with other pollinators, too, which may also benefit from the bumblebees’ efforts.” But it remains to be seen whether this mechanism is sufficient to overcome the challenges of changing climate. Insects and flowering plants have evolved together, sharing a long history that strikes a delicate balance between efflorescence and pollinator development. However, global warming and other anthropogenic environmental changes have the potential to disrupt the timing of these and other ecologically important interactions among species. Such rapid environmental change could result in insects and plants becoming increasingly out of sync in their development, for example. “And that’s something from which both sides stand to lose,” Mescher says.
+
+## Reference
 
 Paschalidou FG, Lambert H, Peybernes T, Mescher MC, De Moraes CM. Bumble bees damage plant leaves and accelerate flower production when pollen is scarce. Science, published online May 21st 2020. DOI: 10.1126/science.aay0496
 

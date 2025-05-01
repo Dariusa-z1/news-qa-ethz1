@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2023/03/spark-award-fuer-neuen-korrosionsschutz.html
 
-## Mit Innovationen Probleme lösen
+**Date processed:** 2025-05-01
+
+## Main article
 
 Die Fachjury war sich in diesem Jahr sofort einig: Unter den fünf für den Spark Award 2023 nominierten Erfindungen entschieden sie sich eindeutig für den neuartigen Korrosionsschutz der Forscher vom Labor für Multifunktionsmaterialien.
 
@@ -16,7 +18,7 @@ Der Spark Award ist für sie denn auch Ansporn ihre Technologie weiterzuentwicke
 
 ETH transfer, die Technologietransferstelle der ETH Zürich, unterstützt Gründerinnen und Gründer und zeichnet seit 2012 alljährlich die vielversprechendste Innovation der Hochschule mit dem Spark Award aus. Allein im vergangenen Jahr verzeichnete die ETH Zürich 104 Patentanmeldungen. Davon kamen 20 in die Endauswahl für die Preisverleihung. Kriterien für die Auswahl der Preisträger sind Originalität, Patentstärke und Marktpotenzial.
 
-## Die Siegertechnologie
+## Mit Innovationen Probleme lösen
 
 Wie viel es braucht, um aus einer guten Idee ein erfolgreiches Produkt zu machen, betonte Keynote-Redner Carlo Centonze. ETH-Absolvent Centonze hat bereits zweimal ein ETH-Spin-off mitgegründet. 2002 zunächst die Klimaschutzorganisation MyClimate, und 2005 dann das auf innovative Textilien spezialisierte Unternehmen HeiQ. «Nach der Gründung von MyClimate musste ich erkennen, wie schwierig es ist, die Ansichten von Menschen zu ändern», erklärte Centonze. «Material lässt sich deutlich leichter beeinflussen».
 
@@ -24,13 +26,15 @@ Folgerichtig entwickelt das von ihm geführte Unternehmen heute unter anderem kl
 
 Entscheidend für den Erfolg einer Innovation sind laut Centonze vor allem drei Dinge: Die Erfindung müsse zum einen ein bestehendes Problem lösen. Zum anderen müssten Gründer und Gründerinnen über ausreichend Finanzmittel verfügen. Und schliesslich gelte es die Rechte an der Innovation zu schützen.
 
+## Die Siegertechnologie
+
 Starker Korrosionsschutz: Korrosion greift alles an, egal ob Wolkenkratzer oder Schiff. Entsprechend gross ist der Markt für einen effektiven Korrosionsschutz. Forschende um Markus Niederberger und Walter Caseri haben einen Kunststoff entwickelt, der den Schutz stark verbessert. Das Polymer lässt sich wie eine Farbe aufsprühen, und man kann es sogar wieder abziehen, recyceln und erneut verwenden.
 
 Weitere Informationen zum starken Korrosionsschutz
 
-Besserer Durchblick: Wer hat sich noch nicht über beschlagene Brillengläser geärgert? Dimos Poulikakos und Thomas Schutzius haben nun mit Forschenden aus ihren Gruppen eine hauchdünne transparente Beschichtung aus Gold entwickelt, die Sonnenlicht in Wärme umwandelt. Diese Beschichtung könnte künftig das Beschlagen der Gläser verhindern und beispielsweise auch bei Autoscheiben verwendet werden.
-
 ## Die Finalisten
+
+Besserer Durchblick: Wer hat sich noch nicht über beschlagene Brillengläser geärgert? Dimos Poulikakos und Thomas Schutzius haben nun mit Forschenden aus ihren Gruppen eine hauchdünne transparente Beschichtung aus Gold entwickelt, die Sonnenlicht in Wärme umwandelt. Diese Beschichtung könnte künftig das Beschlagen der Gläser verhindern und beispielsweise auch bei Autoscheiben verwendet werden.
 
 Weitere Informationen zur besseren Brillenbeschichtung
 

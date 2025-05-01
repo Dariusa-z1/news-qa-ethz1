@@ -2,27 +2,19 @@
 
 **Source:** de_news_events/2014/02/neue-ideen-aus-usa.html
 
+**Date processed:** 2025-05-01
+
 ## Neue Lernmethoden
 
 Wie lernen Studierende an anderen Hochschulen? Wie evaluieren ausländische Universitäten ihre Lehre? Welche Infrastruktur ist für eine innovative Lehre notwendig? Antworten auf diese und andere Lehr-Fragen zu finden, ist das Ziel des Projektes «Raus aus den vier Wänden», kurz «Rad4W». Das Projekt ging als Sieger aus einem Innovedum-Wettbewerb hervor. Innovedum ist der Fonds des Rektors zur Finanzierung von Initiativen. Damit werden innovative Ideen gefördert, welche das Lernen und Lehren an der ETH Zürich nachhaltig verbessern.
 
-## Workshops zur Vorbereitung
-
 Die Idee für Rad4W hatte der Maschinenbaustudent Benedikt Ummen, im Februar 2014 auch Gewinner des « Ideenwettbwerbs13 », als er die TU Delft besuchte: «Vor allem die Infrastruktur der grossen Universitätsbibliothek in Delft hat mich begeistert. Dort findet jeder Student während der Prüfungsphase rund um die Uhr einen ruhigen Ort zum Arbeiten. Am liebsten hätte ich die Baupläne gleich an die ETH mitgenommen.»
-
-## Erste Ergebnisse
 
 Seiner Idee nach sollen ETH-Delegationen aus Professoren und Studierenden, Mittelbau und Stäben regelmässig andere exzellente Universitäten besuchen und dort Lehrmethoden und -infrastrukturen studieren und vergleichen, ob sie sich auch an der ETH anwenden lassen.
 
-## Flexible Arbeitsräume
-
 Die erste Delegation unter Leitung von Rektor Lino Guzzella besuchte die kalifornische Universität Stanford. Diese liegt rund 60 Kilometer von San Franzisco entfernt. Doktorand Andreas Steiger war auf der Reise dabei: «Stanford bietet sich zum Vergleich an, da sie mit rund 15000 Studierenden der ETH ähnelt, und auch das Verhältnis von Studierenden im Grundstudium zu solchen im Vertiefungsstudium ist vergleichbar.» Im Gegensatz zur Bundeshochschule ETH Zürich ist Stanford eine privat finanzierte Hochschule und eine Volluniversität. Von den Bewerbern erhalten nur rund sieben Prozent die Zulassung zum Studium. Mit vier Workshops bereitete sich die Vertretung der ETH vor und bestimmte dabei die Themenschwerpunkte des Besuchs, wie neue Unterrichtskonzepte, studentisches Wohnen auf dem Campus oder die Lehrinfrastruktur. Über einen Blog konnten Interessierte ihre Fragen einbringen und die Reise begleiten. In ihrem Bericht, der jetzt vorliegt, werden die Erfahrungen der Reise vertieft und auf eine mögliche Umsetzung hin geprüft.
 
-## Atmosphäre des Ausprobierens
-
 Stanfort setzt auf Massive Open Online Course (MOOCs) und Small Private Online Courses (SPOCs). Diese sind eingebettet in einen sogenannten Flipped-Classroom. Bei dieser integrierten Lehrmethode wird nicht mehr nur auf Frontalunterricht mit anschliessenden Übungen gesetzt. Das Konzept sieht vielmehr vor, dass die Studierenden den theoretischen Stoff vor der Vorlesung zugestellt erhalten (als Video, Skript, oder interaktive SPOC-Inhalte, etc.). Die ETH-Delegation findet, dass die ETH mit ihrem TORQUEs -Konzept (Tiny, Open-with-Restrictions courses focused on QUality and Effectiveness) auf dem richtigen Weg ist. Die Unterrichtsqualität für ETH-Studierende steht damit im Vordergrund, während MOOCs vorwiegend auf eine grosse Anzahl Teilnehmer ausserhalb einer Hochschule ausgerichtet sind. Die Delegation empfiehlt die TORQUEs-Initiative aktiv zu bewerben und die Departemente zu überzeugen, dass sie interaktive Unterrichtsformate anstelle der klassischen Vorlesungen einsetzen.
-
-## ETH als Vorbild bei der Nachhaltigkeit
 
 Im Gegensatz zur ETH sind Lernplätze in Stanford reichlich vorhanden. Ein Teil der Räume sind als flexible Auditorien eingerichtet, so dass innerhalb weniger Minuten von einem Vorlesungsraum in einen Raum für Übungsstunden, Gruppenarbeiten oder Präsentationen umgebaut werden kann. Die Delegation schlägt vor, dass auch an der ETH flexible Arbeitsräume geschaffen werden. Ausserdem sollten sich Studierende schnell über freie Räume informieren können, um so das vorhandene Raumangebot effizient nutzen zu können. Im Gegensatz zur ETH findet das studentische Leben nur auf dem Campus statt. Studierende wohnen, lernen und verbringen ihre Freizeit vor Ort. Den Studierenden stehen dort zwei Gebäude mit sechs Konferenz-, Sitzungsräumen sowie weiteren Büro- und Aufenthaltsräumen zur Verfügung.
 

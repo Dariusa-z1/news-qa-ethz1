@@ -2,17 +2,19 @@
 
 **Source:** de_news_events/2024/04/tropische-waelder-brauchen-zur-natuerlichen-regeneration-fruchtfressende-voegel.html
 
+**Date processed:** 2025-05-01
+
 ## Das Kohlenstoffpotenzial von Vogelsamen
 
 Eine neue Studie des Crowther Lab der ETH Zürich zeigt, dass es ein entscheidendes Hindernis für die natürliche Regeneration von Tropenwäldern gibt: Die Modelle, die mit Beobachtungsdaten aus der Mata Atlântica, dem atlantischen Regenwald Brasiliens, erstellt wurden, zeigen, dass bei der Regeneration von Tropenwäldern bis zu 38 Prozent mehr Kohlenstoff gespeichert werden könnte, wenn sich wilde Vögel frei zwischen den Waldgebieten bewegen könnten.
 
 Fruchtfressende Vögel wie der Türkisnaschvogel, die Palmentangare oder die Rotbauchdrossel spielen eine wichtige Rolle in Waldökosystemen, da sie auf ihrem Weg durch die Waldlandschaft Samen aufnehmen, ausscheiden und verbreiten. Zwischen 70 und 90 Prozent der Baumarten in tropischen Wäldern sind darauf angewiesen, dass Tiere ihre Samen verbreiten. Das ist nötig, damit Wälder wachsen und ihre Funktion erfüllen können.
 
+## Ökosystemleistungen wiederherstellen
+
 Schon frühere Studien haben gezeigt, wie wichtig Vögel für die Biodiversität in Wäldern sind, aber die Forschenden des Crowther Lab verstehen nun auch quantitativ, wie Vögel zur Wiederherstellung von Wäldern beitragen.
 
 Die neue Studie, die in der Fachzeitschrift externe Seite Nature Climate Change erschienen ist, belegt den wichtigen Beitrag von fruchtfressenden Wildvögeln zur Regeneration der Wälder. Die Forschenden verglichen das Potenzial zur Kohlenstoffspeicherung von wenig fragmentierten Landschaften mit dem von stark zerstückelten Landschaften. Die Daten zeigen, dass stark fragmentierte Landschaften die Bewegung von Vögeln einschränken und dadurch bis zu 38 Prozent weniger Kohlenstoff gespeichert werden kann.
-
-## Ökosystemleistungen wiederherstellen
 
 Im Gebiet der Mata Atlântica stellten die Forschenden fest, dass der Erhalt von mindestens 40 Prozent Waldbedeckung entscheidend ist. Ausserdem fanden sie heraus, dass der Abstand zwischen zwei Waldgebieten höchstens rund 130 Meter betragen darf, damit sich die Vögel weiterhin durch die Landschaft bewegen und für deren ökologische Erholung sorgen können.
 

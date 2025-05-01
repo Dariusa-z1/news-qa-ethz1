@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2019/09/antibiotikaresistenzen-nehmen-rasant-zu.html
 
+**Date processed:** 2025-05-01
+
 ## Brennpunkte der Resistenzen kartieren
 
 Die Welt erlebt ein beispielloses Wirtschaftswachstum in Schwellen- und Entwicklungsländern. Immer mehr Menschen in Indien, China, Lateinamerika oder Afrika sind zu mehr Wohlstand gekommen, was sich in einem erhöhten Verzehr von Fleisch und Milchprodukten äussert. In Afrika hat der Fleischkonsum in den letzten zwei Jahrzehnten um mehr als die Hälfte zugenommen, in Asien und Lateinamerika um zwei Drittel.
@@ -10,15 +12,13 @@ Um die wachsende Nachfrage zu decken, wurde die Tierzucht intensiviert, unter an
 
 Die Folgen des unsachgemässen und übermässigen Antibiotikaeinsatzes sind jedoch gravierend: Der Anteil der Bakterien, die gegen Antibiotika resistent sind, wächst rapide. Dadurch büssen die Medikamente ihre Wirksamkeit ein – was weitreichende Folgen hat für die Gesundheit der Tiere und die des Menschen.
 
-## Alarmierender Trend bei Mehrfachresistenzen
-
 Entwicklungs- und Schwellenländer haben oft nur wenig Kapazitäten, um den Gebrauch von Antibiotika und Resistenzen auf Betrieben zu überwachen. Die Anwendung von Antibiotika ist dort meist schlechter reglementiert und dokumentiert als in reichen Industrienationen.
 
 Ein Team von Forschenden unter der Leitung von Thomas Van Boeckel, SNF-Assistenzprofessor für Gesundheitsgeografie und Politik an der ETH Zürich, hat soeben in der Fachzeitschrift « externe Seite Science » eine Karte der Antibiotikaresistenzen in Nutztieren aus Entwicklungs- und Schwellenländern veröffentlicht.
 
 Um herauszufinden, wo und in welchen Nutztierarten Resistenzen bei den Krankheitserregern Salmonella , E. coli , Campylobacter und Staphylococcus aureus aufgetreten sind, schufen die Forscherinnen und Forscher eine umfangreiche Literaturdatenbank.
 
-## Tausende von Studien flossen ein
+## Alarmierender Trend bei Mehrfachresistenzen
 
 Gemäss dieser Studie sind Tiere im Nordosten Chinas, in Teilen Indiens und des südlichen Brasiliens sowie des Iran und der Türkei am stärksten von Antibiotikaresistenzen betroffen. In diesen Ländern sind die genannten Bakterien mittlerweile gegen eine Vielzahl der in der Fleischproduktion und in der Humanmedizin eingesetzten Mittel resistent. Erst wenige Resistenz-Hotspots finden sich zurzeit in Afrika mit Ausnahme von Nigeria und die Region um Johannesburg.
 
@@ -26,15 +26,11 @@ Die meisten Resistenzen treten gegen diejenigen Antibiotika auf, die am häufigs
 
 Um nachzuverfolgen, wie sich Mehrfachresistenzen entwickeln, haben die Forschenden einen neuen Index geschaffen. Dieser beziffert für jede Region den Anteil der Antibiotika mit Resistenzraten von mehr als 50 Prozent. In Schwellen- und Entwicklungsländern hat sich dieser Index für Hühner und Schweine in den letzten 20 Jahren nahezu verdreifacht. Zurzeit versagen ein Drittel der Antibiotika in 50 Prozent der Fälle in Hühnern und ein Viertel der Mittel in 50 Prozent der Fälle in Schweinen.
 
-## Open-Access-Webplattform entwickelt
-
 «Dieser beunruhigende Trend zeigt, dass in der Tierzucht eingesetzte Medikamente ihre Wirksamkeit rasch einbüssen», sagt Van Boeckel. Dies werde sich auf die Nachhaltigkeit der Fleischindustrie und möglicherweise auch auf die Gesundheit von Konsumierenden auswirken.
 
 Besorgniserregend sei dies deshalb, weil die Resistenzen besonders in jenen Ländern zunähmen, in denen auch der Fleischkonsum stark wachse und der Zugang zu tiermedizinisch verwendeten Antibiotika nur ungenügend reglementiert werde. «Antibiotika-Resistenzen sind allerdings ein globales Problem. Es ergibt keinen Sinn, mit beträchtlichem Aufwand auf der einen Seite der Erde Antibiotikaresistenzen einzudämmen zu versuchen, während sie auf der anderen Seite massiv steigen», sagt der ETH-Forscher.
 
 Für ihre aktuelle Studie sammelten Forschende der ETH, der Princeton University und der Freien Universität Brüssel tausende von Publikationen sowie unveröffentlichte Berichte von Tiermedizinern aus aller Welt. Auf Basis dieser Daten generierten die Forschenden die nun erstmals veröffentlichten Resistenzverbreitungskarten.
-
-## Literaturhinweis
 
 Die Karten decken jedoch nicht das gesamte Untersuchungsgebiet ab, insbesondere gibt es in Südamerika grosse Lücken, welche die Forscher auf einen Mangel an öffentlich zugänglichen Daten zurückführen. «Aus weiten Teilen Südamerikas gibt es kaum offizielle Zahlen oder Daten», sagt Mitautor und ETH-Postdoktorand Joao Pires. Das habe ihn überrascht, denn aus einigen Länder Afrikas seien sehr viel mehr Daten zugänglich, obwohl dort die Ressourcen für solche Erhebungen knapper seien als in Südamerika.
 
@@ -45,6 +41,8 @@ Van Boeckel erhofft sich davon, dass Wissenschaftlerinnen, die sich eine teure P
 Da die Fleischproduktion weiter steigt, könnte die Webplattform dabei helfen, gezielter gegen Antibiotikaresistenzen vorzugehen und betroffene Gebiete auf den Weg einer nachhaltigen Fleischproduktion zu bringen. «Die reichen Länder des Nordens, die seit den 1950er Jahren Antibiotika verwenden, sollen dabei helfen, dass die Umstellung gelingt», findet Van Boeckel.
 
 Die Studie wurde finanziell unterstützt durch den Schweizerischen Nationalfonds und die Branco-Weiss-Stiftung.
+
+## Literaturhinweis
 
 Van Boeckel TP, Pires J, Silvester R, Zhao C , Song J, Criscuolo NG, Gilbert M, Bonhoeffer S, Laxminarayan R. Global trends in antimicrobial resistance in animals in low- and middle-income countries. Science 365, 2019, doi: externe Seite 10.1126/science.aaw1944
 

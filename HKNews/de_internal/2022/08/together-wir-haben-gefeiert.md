@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2022/08/together-wir-haben-gefeiert.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Es sind erfreulich viele Mitarbeitende auf den Hönggerberg gekommen und wir alle haben zusammen einen wundervollen Abend verbracht, zusammen gute Gespräche geführt, angestossen und gefeiert - togETHer 22.

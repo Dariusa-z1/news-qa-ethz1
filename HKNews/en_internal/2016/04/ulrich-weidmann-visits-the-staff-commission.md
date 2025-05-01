@@ -2,19 +2,17 @@
 
 **Source:** en_internal/2016/04/ulrich-weidmann-visits-the-staff-commission.html
 
+**Date processed:** 2025-05-01
+
 ## Salaries in the spotlight
 
 As Vice President for Human Resources and Infrastructure , Ulrich Weidmann is responsible for human resources policy as well as personnel development and management at ETH Zurich. Recently he visited the Staff Commission (PeKo), which represents the interests of the administrative and technical personnel with respect to the Executive Board.
 
 Weidmann praised both the teamwork within the Executive Board and the flexibility of ETH Zurich. “Colleagues at ETH distinguish themselves through a high degree of professionalism and commitment – they are talented people who complement each other.”
 
-## Subscribe to Newsletter
-
 ETH Zurich offers favourable terms of employment and a high level of job security. No one is left behind during periods of change, while flexibility is a key factor in success at all levels.
 
 Weidmann reiterated that leadership is a matter of collaboration between staff and management, but that management have a responsibility to adequately fulfil their leadership duties.
-
-## Staffnet
 
 The evaluated salary system meets fundamental requirements, though Weidmann sees scope for adjustments to job descriptions , which serve to determine function levels as well as individual salaries.
 

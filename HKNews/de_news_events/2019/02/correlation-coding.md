@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2019/02/correlation-coding.html
 
+**Date processed:** 2025-05-01
+
 ## Korrelationen im Doppelspalt
 
 Um möglichst viele Informationen gleichzeitig von A nach B zu übertragen, haben Wissenschaftler und Ingenieure in den letzten Jahrzehnten immer ausgefeiltere Methoden entwickelt. Allgemein als Multiplexverfahren bezeichnet, erlauben diese Techniken, mehr Signale zu übermitteln, als Übertragungskanäle vorhanden sind. Ein typisches Beispiel dafür ist die Rundfunkübertragung auf verschiedenen Frequenzen. Wissenschaftler der ETH Zürich haben nun eine neues Multiplexverfahren erfunden, das auf Rauschen basiert – also auf etwas, das man normalerweise eigentlich vermeiden möchte.
@@ -10,15 +12,13 @@ Shawn Divitt und Lukas Novotny haben für die neue Codierungstechnik ein Patent 
 
 Shawn Divitt, der als Doktorand in der Arbeitsgruppe von Professor Lukas Novotny am Departement Informationstechnologie und Elektrotechnik vor zwei Jahren den Anstoss zur Entwicklung der neuen Technik gab, war eigentlich schon fast mit seiner Doktorarbeit fertig, als ihm eine Idee kam.
 
-## Ferngesteuertes Experiment
-
 In einem Doppelspalt-Experiment - einem Klassiker der Physikgeschichte - hatte er untersucht, wie sich Korrelationen zwischen den Lichtwellen in den beiden Spalten bilden und auf das Interferenzmuster auswirken. Korrelationen sagen etwas darüber aus, wie gut man zum Beispiel die Schwingungsphase einer Lichtwelle vorhersagen kann, wenn man die Phase der anderen Welle kennt. Auch wenn beide Phasen fluktuieren oder «rauschen», so können sie dies doch auf mehr oder weniger synchronisierte Weise tun. Sind die Korrelationen stark, so bildet sich im Doppelspalt-Experiment ein gut sichtbares Interferenzmuster auf einem Schirm hinter den Spalten. Schwache Korrelationen lassen das Interferenzmuster dagegen verblassen oder ganz verschwinden.
 
 «Die Idee war, dieses Prinzip zu verallgemeinern und damit Informationen zu kodieren», erklärt Divitt. Dazu berechnete er die Korrelationen zwischen mehreren räumlich getrennten Lichtwellen, die zum Beispiel durch gebündelte Glasfasern übertragen werden. «Das Interessante dabei ist, dass die Korrelationen paarweise zwischen den Lichtwellen bestehen, wodurch die Zahl dieser Korrelationen nicht linear mit der Anzahl der Lichtwellen ansteigt, sondern in etwa quadratisch», sagt Divitt.
 
 Interferenzmuster (oben) und daraus errechnete Korrelationen (unten) im Experiment mit drei simulierten Glasfasern. Die Datenbits «000» und «111» ergeben sich aus den negativen und positiven Korrelationen im Rauschen der Lichtwellen, sichtbar als dunkle und helle Punkte. (Bilder: S. Divitt et al./ETH Zürich)
 
-## Mögliche Vorteile bei der Sicherheit
+## Ferngesteuertes Experiment
 
 Im Prinzip sollte es daher zum Beispiel möglich sein, mit vier Lichtwellen sechs Bits an Information in Form von Korrelationen zu kodieren, mit acht Lichtwellen 28 Bits, und so fort. Der Wert «1» eines Bits kann dann durch eine positive Korrelation (synchrones Rauschen), der Wert «0» dagegen durch eine negative Korrelation dargestellt werden.
 

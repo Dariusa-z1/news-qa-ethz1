@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2015/11/well-prepared-for-the-first-session.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 In March of this year, Swiss parliamentarians approached ETH Zurich with the idea of organising an introductory meeting for newly elected members of parliament. Experts from different fields gave lectures at the two-day event, while former MPs also shared their knowledge and experience. In an interview, Michael Ambühl offers an initial assessment.
@@ -17,6 +19,8 @@ Out of about 50 newly elected members of parliament, 14 registered for your even
 The programme dealt with complex issues, such as macroeconomic fundamentals and Swiss social security law. Was anything learned about these in such a short period of time? Of course it is not possible to acquire extensive knowledge in two days. But newly elected members of parliament must be able to grasp a subject quickly and know where they can find more reliable information on it. This is where our experts were definitely able to provide assistance.
 
 Will there be a similar event in four years’ time? Let’s allow the new parliament to work in peace and quiet before we think about the next elections – after all, the politicians have important tasks ahead of them. We first have to evaluate the feedback and then we will decide if we will hold another seminar. There is still plenty of time for this.
+
+## About Michael Ambühl
 
 Michael Ambühl studied Operations Research and Management Science at ETH Zurich and wrote his thesis on mathematical optimisation. In 1982, he joined the diplomatic service and rose through the ranks to become a negotiator for some of Switzerland’s most important foreign policy portfolios. He has held the Chair of Negotiation and Conflict Management at ETH Zurich since September 2013.
 

@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2023/01/entdecken-sie-die-welt-von-thomas-mann-in-kommenden-ausstellungen.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Erfahren Sie in der Dauerausstellung «Im Schreiben eingerichtet. Thomas Mann und sein Arbeitszimmer» mehr über das kreative Umfeld und die Bedingungen, die Manns Werk geprägt haben. Dazu gehören sein berühmter Schreibtisch, der ihn ins Exil begleitete, seine private Bibliothek und zahlreiche Gegenstände aus verschiedenen Kulturen.

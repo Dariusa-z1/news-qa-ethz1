@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2014/08/die-frau-fuer-alle-faelle.html
 
+**Date processed:** 2025-05-01
+
 ## Eine Macherin
 
 Claudia Sigels Arbeitsplatz ist alles andere als ein nüchternes Büro im Departement für Materialwissenschaft (D-MATL). Gross- und kleinblättrige Pflanzen säumen die grosse Fensterfront, ein künstliches menschliches Skelett mit Wintermütze und T-Shirt guckt aus hohlen Löchern bei der Arbeit zu und ein grosses, knallig rotes Sofa lädt zum Entspannen während der Kaffeepause ein.
@@ -10,15 +12,11 @@ Ein Blick in den Raum verspricht: Hier wirkt ein kreativer Kopf. Einer, der sich
 
 Für solche Aufgaben braucht es nicht nur Organisationstalent, Spontaneität und Flexibilität. Sie erfordern auch schon mal Nerven wie Drahtseile, gerade dann, wenn nicht alles wie geplant läuft. Sie habe schon so manche Feuerwehrübung bewältigen müssen, von der man ausserhalb des Sekretariats nichts mitbekommen habe, sagt die 51-Jährige. «Das gehört aber zum Job dazu», beschwichtigt sie.
 
-## Viel Freiheit für kreative Ideen
-
 Kein Wunder, denn dann läuft sie zu Hochform auf. Claudia Sigel ist eine Macherin. Was sie anpackt, zieht sie meist durch. So auch als sie an die ETH kam. Die damals 35-Jährige brauchte einen Job, bei dem sie als alleinerziehende Mutter die KV-Lehre nachholen konnte und fand diesen im Sekretariat des damaligen Departements für Werkstoffe.
 
 Dabei blieb es nicht. Kaum abgeschlossen, absolvierte sie den Lehrgang «Planer Marketingkommunikation». «Eine harte Zeit», sagt sie. Drei Mal pro Woche drückte sie neben ihrem 80-Prozent-Job die Schulbank. Abends versorgte sie ihren Sohn und erledigte die anstehenden Hausarbeiten.
 
 «Ich habe das alles zwar geschafft, war aber danach komplett ausgepowert.» Einige Jahre später folgte noch eine Ausbildung zur «Ärztl. Dipl. Sportmasseurin», als die sie vor drei Jahren eine eigene Praxis eröffnete.
-
-## Dienstjubiläen
 
 Ihrem Job an der ETH blieb sie trotz allem immer treu. Nicht ohne Grund. «Ich hatte viele Freiheiten, meine kreativen Ideen umzusetzen, dass ein Jobwechsel nicht in Frage kam.» Beispiele dafür gibt es zuhauf. Gemeinsam mit dem Team wurde die Idee des Departements-Magazin «MatBlatt» umgesetzt, sie führte verschiedene Anlässe wie das Assistentinnentreffen, den Marroni-Event oder das Personalfest ein.
 
@@ -26,15 +24,13 @@ Nicht zuletzt liess man ihr bei der Gestaltung der Dachterrasse des Departements
 
 Was immer sie kurzfristig braucht, meistens reicht ein freundliches Telefonat. «Man kennt sich und hilft einander gerne.» Dies war ebenfalls ein Grund, weshalb sie seit 15 Jahren ihren Job macht. «Ich fühle mich hier respektiert und geschätzt.»
 
-## Staffnet
+## Dienstjubiläen
 
 35 Jahre Dr. Beat Walter Müller, Bereich Rektor der ETH Zürich
 
 25 Jahre Thomas Wick, Betrieb Fredy Künzli, Dienste
 
 20 Jahre Katja Körber Dearia, ETH-Bibliothek
-
-## Newsletter abonnieren
 
 15 Jahre Claudia Sigel, Dep. Materialwissenschaft Myrta Papastergios, Bauten
 

@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2015/05/the-eth-card-now-in-a-new-design.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Staff and students at ETH Zurich will receive a new ETH card this summer. This card will have a new design: the green look that was introduced back in 2008 will be replaced with a blue of the ETH Zurich corporate design.

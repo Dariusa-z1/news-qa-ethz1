@@ -2,13 +2,9 @@
 
 **Source:** de_internal/2024/07/neue-anlaufstelle-unterstuetzt-bei-konflikten-am-arbeitsplatz.html
 
-## Die Neuerungen in Kürze
+**Date processed:** 2025-05-01
 
-- Die Respektstelle bietet Orientierung, wohin sich ETH-Angehörige mit ihren Fragen am besten wenden können. Angeboten werden auch Kurzzeit-Coachings für die Ratsuchenden. Die Beratung ist vertraulich.
-
-- Die neue Klärungsstelle berät und unterstützt bei der Klärung von Spannungen und Konflikten am Arbeitsplatz. Die Klärungsstelle kann zudem von Vorgesetzten für Unterstützung bezüglich Prävention und Früherkennung von Eskalationspotenzial aufgesucht werden.
-
-- Die externe Meldestelle führt aufgrund einer schriftlichen Meldung zu Diskriminierung oder sexueller Belästigung eine formelle Abklärung durch.
+## Main article
 
 Frau Dörflinger-Khashman, vermutlich alle haben schon einmal Auseinandersetzungen im Team, unter Kolleg:innen oder mit Vorgesetzten erlebt. Warum ist es so wichtig, Konflikte anzusprechen und zu klären? Nadia Dörflinger-Khashman : Konstruktive Kontroversen sind wichtig für Innovation und Weiterentwicklung. Werden Meinungsverschiedenheiten jedoch unfair ausgetragen, Personen abgewertet oder unter Druck gesetzt, hat das nicht nur negative Auswirkungen auf die einzelne Person, sondern oft auch auf das ganze Team oder die Forschungsgruppe. Wichtig ist deshalb, bei anhaltenden Reibungen so früh wie möglich hinzuschauen und zu versuchen, die Situation zu klären. So können gebundene Ressourcen wie Kraft und Aufmerksamkeit wieder für die tatsächlichen Aufgaben und Ziele freigesetzt werden.
 
@@ -20,8 +16,6 @@ An der ETH gibt es eine Vielzahl von Anlaufstellen, die Betroffene in schwierige
 
 Die Respektstelle behandelt Anliegen von Ratsuchenden streng vertraulich. Wie wird das in der Klärungsstelle gehandhabt? Für eine Klärung mit den Beteiligten ist es notwendig, die Vertraulichkeit bis zu einem gewissen Grad aufzuheben, sonst kann keine Klärung stattfinden. Wichtig zu wissen ist: Die Klärungsstelle führt immer zuerst ein Vorgespräch mit der ratsuchenden, grundsätzlich klärungswilligen Person. Dieses ist vertraulich. Darin zeigt sie das weitere Vorgehen auf und bespricht mit der ratsuchenden Person, ob und wie sie fortfahren möchte.
 
-## Hilfe bei unangemessenem Verhalten oder Konflikten
-
 Wie geht es dann weiter? Ist die Person mit dem Vorgehen einverstanden, informiert die Klärungsstelle die andere beteiligte Person, dass die Klärung einer bestimmten Situation gewünscht wird. Dabei kann es sinnvoll sein, weitere Personen einzubeziehen wie zum Beispiel das Team, die vorgesetzte Person oder Human Resources. Die Vertraulichkeit wird dabei nur so weit wie nötig aufgehoben, um die Situation möglichst nachhaltig und zielführend zu klären und zu einer gemeinsamen Vereinbarung zu finden. Die Klärungsstelle arbeitet, im Sinne der Sache, sozusagen «bedingt vertraulich».
 
 Bleiben wir beim Thema «Vertraulichkeit». Wie sieht es damit bei der externen Meldestelle aus? Die Meldestelle hat den Auftrag, Meldungen über sexuelle Belästigung und systematische Diskriminierung nachzugehen und zu prüfen, ob oder inwiefern ein Verstoss gegen den Verhaltenskodex Respekt vorliegt. Da sie die Situation allparteilich und ohne Einschränkungen betrachtet, muss sie mit allen Beschuldigten, Beteiligten, Beobachtenden und anderen relevanten Stellen sprechen können. Dazu ist es notwendig, dass die Namen offengelegt werden. Doch auch bei der Meldestelle gilt: Das Vorgespräch ist vertraulich. Danach entscheidet die betroffene Person, ob die Meldestelle eine formalisierte Abklärung durchführen soll.
@@ -32,8 +26,6 @@ Es fällt auf, dass Sie von Klärung und nicht von Lösung sprechen. Können Sie
 
 Führen die Anlaufstellen der ETH auch Untersuchungen durch? Nein. Die Anlaufstellen haben eine Informations- und Vermittlerrolle. Sie beraten die Betroffenen, welche Angebote und Möglichkeiten in ihrem Fall zur Verfügung stehen. Das Ziel ist, sie dabei zu unterstützen, Schritte zur Veränderung ihrer Situation zu unternehmen. Auch die externe Meldestelle führt keine Untersuchungen durch, sondern eine allparteiliche, formalisierte Abklärung.
 
-## Immer aktuell informiert
-
 Die Anlaufstellen können also auch keine Massnahmen oder Sanktionen verhängen? Nein, dazu sind sie rechtlich nicht befugt. Sie können aber Empfehlungen abgeben für entscheidungsbefugte Personen wie die Vorgesetzten oder die Schulleitung. In den meisten Fällen werden diese Empfehlungen ernst genommen und umgesetzt.
 
 Gibt es das anonyme Meldeformular weiterhin? Auf jeden Fall. Zur Einordnung: Mit einer anonymen Meldung kann weder eine Unterstützung oder Abklärung erfolgen noch jemand beschuldigt werden. Mit dem anonymen Meldeformular können der ETH aber wichtige Informationen übermittelt werden, die ihr helfen, sich kontinuierlich zu verbessern.
@@ -42,7 +34,12 @@ Was möchten Sie Betroffenen von unangemessenem Verhalten oder Konflikten mit au
 
 Nadia Dörflinger-Khashman leitet die Abteilung Diversity und Collaboration im Vizepräsidium Personalentwicklung und Leadership. Gemeinsam mit ihrem Team hat sie das Respekt- und Konfliktmanagementsystem der ETH Zürich weiterentwickelt, wobei das umfassende Feedback der verschiedenen beteiligten Gruppen und Stellen der Hochschule einbezogen wurde. Im Mai 2024 hat die Schulleitung das revidierte Reglement verabschiedet.
 
+## Die Neuerungen in Kürze
+
 Die ETH Zürich setzt sich dafür ein, ihre Mitarbeitenden bei Konflikten am Arbeitsplatz oder bei unangemessenem Verhalten noch besser zu unterstützen. Deshalb wurden die bestehenden Strukturen und Prozesse überarbeitet sowie die Prävention gestärkt. Neu unterscheidet das Reglement drei Hauptstellen, an die sich Mitarbeitende wenden können:
 
+• Die Respektstelle bietet Orientierung, wohin sich ETH-Angehörige mit ihren Fragen am besten wenden können. Angeboten werden auch Kurzzeit-Coachings für die Ratsuchenden. Die Beratung ist vertraulich.
+• Die neue Klärungsstelle berät und unterstützt bei der Klärung von Spannungen und Konflikten am Arbeitsplatz. Die Klärungsstelle kann zudem von Vorgesetzten für Unterstützung bezüglich Prävention und Früherkennung von Eskalationspotenzial aufgesucht werden.
+• Die externe Meldestelle führt aufgrund einer schriftlichen Meldung zu Diskriminierung oder sexueller Belästigung eine formelle Abklärung durch.
 Das revidierte Reglement trat am 1. Juli 2024 unter der erweiterten Bezeichnung «Reglement betreffend Anliegen und Meldungen von Angehörigen der ETH Zürich über unangemessenes Verhalten und Arbeitsplatzkonflikte» in Kraft.
 

@@ -2,13 +2,13 @@
 
 **Source:** en_news_events/2024/05/innovative-materials-and-remarkable-people.html
 
+**Date processed:** 2025-05-01
+
 ## Technology meets the human factor
 
 “In life, one must decide whether to conjugate the verb ‘to have’ or ‘to be’,” says Paolo Ermanni, citing a quote from the pianist Franz Liszt. Ermanni says he is glad to have decided on the latter.
 
 Ermanni’s statement when looking back at his career on the occasion of his retirement might come as a surprise to some, seeing as how a professorship comes with a certain level of status and a comfortable salary. However, as an internationally recognised structural technology specialist, he had more lucrative options available to him over the course of his career. Ermanni dealt with innovative composite materials – materials that are lightweight yet stable and that can take on various forms depending on their environment. These materials are in high demand in numerous fields from medicine to space travel.
-
-## A love for technical objects
 
 It was not only materials that defined Ermanni’s career, but also the people. “Research alone wouldn’t have motivated me to take on a professorship 26 years ago,” he says. “Working with young people, teaching them how to ask the right questions and find answers to them, tackling new research questions alongside students – this was the appeal of the position.”
 
@@ -20,19 +20,13 @@ Materials were not yet a topic during his time at university. He delved into mat
 
 Thanks to the support of his doctoral supervisor, Ermanni was able to join Airbus in Hamburg after receiving his doctorate in 1990. He first worked in pre-development, the preparatory stage for series and market-oriented product development. He later worked in future development and dealt with questions about how to build a second-generation civil supersonic aircraft.
 
-## Leveraging the professorship
-
 At the same time, he was feeling the need to expand his horizons. “Considering the great work we were doing as engineers, I increasingly wondered why it took years for anything to be implemented,” he recalls. Ermanni wanted to understand the overarching strategic processes within large corporations and the aspects relating to production, marketing, competition and business risks. This led him to join the management consultancy firm A.T. Kearney in Milan in 1997.
 
 One year later, he got a call from Zurich, prompting him to return to his alma mater in 1998. As Professor of Structural Technologies, he and his research group have developed modern material systems for adaptive structures over the last quarter of a century. “On a systems level, we can provide materials with a kind of intelligence so that they react to different operating conditions by changing their shape, for example,” he explains. “This allows us to influence aspects like aerodynamics.” According to Ermanni, these are issues that have increased in importance – for instance, when it comes to aerospace structures. His group has also successfully used structures of this kind in the field of medical technology, developing self-expanding stents.
 
-## First Vice Rector for Continuing Education
-
 Higher quality, less waste, longer-lived products that can be recycled at the end of their lifespan: new materials are closely connected to issues of sustainability. “I’ve always been fascinated by just how much this field of research can be leveraged,” he says.
 
 Ermanni also enjoyed having a leveraging effect as a member of teaching staff. Over the past 26 years, he has supervised 67 dissertations, with another six still in progress. Some of these graduates have gone on to follow in his footsteps as consultants or professors.
-
-## Embracing entrepreneurship
 
 As the first Vice Rector for Continuing Education, Ermanni was responsible for the establishment of the School for Continuing Education. “Continuing education is a special way of packaging excellence in research so that people can deploy ‘ready-to-use’ knowledge and expertise for companies or social purposes,” he says.
 

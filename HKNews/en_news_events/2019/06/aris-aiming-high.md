@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2019/06/aris-aiming-high.html
 
+**Date processed:** 2025-05-01
+
 ## Special air brakes
 
 They’re aiming high: a team of 30 students from ETH Zurich, the Lucerne University of Applied Sciences and Arts and the Zurich University of Applied Sciences (ZHAW) are hoping that the rocket they have developed will win them a top spot among the 50 or so teams competing in the Spaceport America Cup 2019. For that, their rocket has to reach an altitude of 10,000 feet (3,048 metres) as precisely as possible and then use a parachute to loft gently back to the ground. Only then do they have a shot at winning the world’s largest student competition in rocketry.
@@ -16,9 +18,9 @@ To maximise their efficiency, the students split into two groups: the RHEA team 
 
 Alongside the technology, the students are also learning a lot about teamwork and project and time management. “ARIS members gave us extra coaching on team building and how to deal with stress,” reports Andreas Walker, an ETH Master’s student in his second semester of mechanical engineering. Other ETH Zurich members are studying computer science, materials science, physics, civil engineering and electrical engineering. The project's 30 participants come from a total of ten different fields of study. The youngest, and one of the few women on the team, is Mirela Minkova, who is studying for her Bachelor’s in mechanical engineering. She finds the project has made her more assertive: “I’ve learned to speak up for myself so that the others listen to me and take my ideas seriously.”
 
-In addition to a fascination for rocketry and space exploration, what drew Dannert, Minkova and others to ARIS was the chance to learn these soft skills and the opportunity to apply their knowledge in a hands-on way. Walker says, “I took part in a practical project – one of the Focus projects – back when I was an undergrad at ETH. That gave me lots of valuable experience, and I was excited to find a way to do something similar again.”
-
 ## Given up months of free time
+
+In addition to a fascination for rocketry and space exploration, what drew Dannert, Minkova and others to ARIS was the chance to learn these soft skills and the opportunity to apply their knowledge in a hands-on way. Walker says, “I took part in a practical project – one of the Focus projects – back when I was an undergrad at ETH. That gave me lots of valuable experience, and I was excited to find a way to do something similar again.”
 
 The team members have given up months of free time to take part in the Spaceport competition. Once the event is over, they all have a couple of days’ holiday planned. But before they can relax, this week demands their full concentration one last time. A few days ago, the components were carefully packed up and sent on their way to the middle of the New Mexico desert. “Fortunately, one of our sponsors is a logistics company with experience in shipping and importing technical equipment,” Dannert says. The competition officially kicked off on 19 June, and the 21 students who have travelled from Switzerland to the US have until Saturday morning at the latest to reassemble the rocket and successfully launch it.
 

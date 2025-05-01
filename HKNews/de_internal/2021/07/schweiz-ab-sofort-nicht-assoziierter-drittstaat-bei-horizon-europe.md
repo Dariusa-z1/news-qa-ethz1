@@ -2,13 +2,13 @@
 
 **Source:** de_internal/2021/07/schweiz-ab-sofort-nicht-assoziierter-drittstaat-bei-horizon-europe.html
 
+**Date processed:** 2025-05-01
+
 ## Teilnahme an Verbundprojekten weiterhin möglich
 
 Wichtig für alle ETH-Forschenden: Als Teilnehmer aus einem nicht-assoziierten Drittstaat können sich Forschende und Innovatoren in der Schweiz weiterhin auf Ausschreibungen für Verbundprojekte bewerben, bei denen Drittstaaten teilnahmeberechtigt sind. Finanziert werden diese dann nicht durch die Europäische Kommission, sondern die Fördermittel für die Schweizer Beteiligung werden direkt vom Staatssekretariat für Bildung, Forschung und Innovation (SBFI) an die Schweizer Teilnehmenden vergeben. Voraussetzung ist, dass deren Projektanträge von der Europäischen Kommission oder der von ihr beauftragten Agentur als förderungswürdig beurteilt werden. Allerdings können Teilnehmende aus nicht-assoziierten Drittstaaten keine Koordinationsaufgaben in Verbundprojekten übernehmen.
 
 Die Teilnahme an Einzelprojekten (ERC-Einzelgrants, MSCA Postdoctoral Fellowships und MSCA COFUND sowie EIC Accelerator) ist für Forschende eines nicht-assoziierten Drittstaats prinzipiell nicht möglich. Für die 2021er-Ausschreibungen der ERC Starting Grants und der ERC Consolidator Grants (beides bereits geschlossene Ausschreibungen bzw. die Anmeldefristen sind vorbei) gilt jedoch eine Ausnahmeregelung: Weil bei diesen Projekttypen die Gastinstitution prinzipiell bis zum Abschluss des Grant Agreements angepasst werden kann, werden Projektanträge von Forschenden (Principal Investigators) an Schweizerischen Gastinstitutionen von der Europäischen Kommission evaluiert. Forschende mit einem erfolgreich evaluierten ERC Starting oder Consolidator Grant erhalten eine Direktfinanzierung vom SBFI. Zusätzlich bereitet das SBFI Anträge für geeignete Übergangsmassnahmen für nicht mehr zugängliche Programmteile im Rahmen des Kredit- und Budgetprozess des Bundes vor (namentlich für die ERC Advanced Grants sowie für Quantum- und Space-Ausschreibungen).
-
-## Teilnahme an Einzelprojekten im Moment nicht möglich
 
 Detailliertere Informationen finden Sie auf der Website des externe Seite SBFI . Dort finden Sie ein Informationsblatt sowie eine Zusammenstellung von Antworten auf häufig gestellte Fragen zur Schweizer Beteiligung an Horizon Europe und verwandten Programmen und Initiativen. Diese Dokumente werden regelmässig aktualisiert.
 
@@ -20,13 +20,9 @@ Detlef Günther, Vizepräsident für Forschung an der ETH Zürich (Bild: ETH Zü
 
 Detlef Günther, jetzt ist klar: Die Schweiz wird bei den Förderprogrammen von Horizon Europe ab sofort als nicht-assoziierter Drittstaat behandelt. Was bedeutet das für die ETH Zürich? Für die ETH Zürich ist die vollassoziierte Teilnahme der Schweiz am grössten Forschungsförderprogramm der Welt von zentraler Bedeutung. Seit 2007 haben ETH-Forschende insgesamt über 500 Millionen Franken vom Europäischen Forschungsrat (ERC) erhalten, um ihre Projekte voranzutreiben. Dass wir als ETH von einem grossen Teil dieser Förderprogramme ausgeschlossen sind, ist für mich unfassbar. Ich persönliche bedauere diese Entwicklung sehr.
 
-## Staffnet
-
 Fehlt der ETH nun Geld für Forschung? Die Finanzen sind nur ein Aspekt. Da sind wir jetzt auf eine zusätzliche Unterstützung des Bundes angewiesen. Viel wichtiger bei Horizon Europe ist aber die internationale Zusammenarbeit und der Wettbewerb unter den besten Hochschulen Europas. Diesem Wettbewerb können sich unsere Forschenden nun nur noch sehr beschränkt stellen. Damit verliert die Schweiz als Arbeitsort für Spitzenforschende an Attraktivität. Oder vereinfacht gesagt: Wir dürfen nicht mehr in der Champions League mitspielen und müssen uns mit der Schweizer Liga zufriedengeben.
 
 Im Fussball würden in diesem Fall wohl einige Spieler den Club wechseln… Und genau das droht nun auch in der Forschung: Dass die klügsten Köpfe nicht mehr in die Schweiz kommen oder die Schweiz sogar verlassen, wenn wir längerfristig nur ein bisschen mitspielen dürfen und keine Führungsposition übernehmen können. Dadurch geht wichtiges Know-how verloren und natürlich würde auch die Schweizer Wirtschaft darunter leiden.
-
-## Newsletter abonnieren
 
 Welchen Einfluss hat der Entscheid auf die internationalen Forschungskooperationen? Momentan finden bei uns rund die Hälfte aller internationalen Kooperationen mit Ländern der EU statt. Und auch für die anderen Schweizer Hochschulen ist Europa der wichtigste internationale Partner. Die Zusammenarbeit mit anderen europäischen Universitäten wird nun aber zur Herkulesaufgabe – Verträge müssten jeweils einzeln ausgearbeitet werden, was Zeit kosten, den Forschungsbetrieb verlangsamen und die Attraktivität der Schweizer Hochschulen als Forschungspartner bedeutend schmälern wird.
 

@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2014/10/nature-communications-becomes-open-access-journal.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 All articles submitted from 20 October 2014 will be published under an open-access model. The publication costs for authors will amount to USD 5,200. You can find more information in the press release and in the FAQs provided by the publishing house.

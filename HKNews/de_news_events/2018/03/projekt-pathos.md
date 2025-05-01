@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2018/03/projekt-pathos.html
 
-## Technologie zum Verschwinden bringen
+**Date processed:** 2025-05-01
+
+## Main article
 
 Sie spähen und schleichen, erschrecken und zittern: Die Kunstwerke des Künstlerduos Pors & Rao bewegen sich fernab der Normalität. Meist entlocken sie dem Betrachter ein spontanes Lächeln. Nicht nur die stillen, feinen Bewegungen erstaunen, es entsteht auch eine Wechselwirkung zwischen Werk und Betrachter: Kleine Kreaturen namens Pygmies kriechen bei Stille vorsichtig hinter einer Bildfläche hervor und verstecken sich ruckartig bei plötzlichen Geräuschen. Im Werk Exploding View stiebt eine Ansammlung verschiedener Figuren auseinander, während sich in Turning Panel schräg hängende Bilder horizontal ausrichten, wenn sich jemand nähert.
 
@@ -10,9 +12,9 @@ Das Kunstwerk Pygmies im Wyss Zurich (Bild: Fabian Stieger)
 
 Ermöglicht wird dies durch Pathos, ein durch die Gebert Rüf Stiftung unterstütztes Gemeinschaftsprojekt am externe Seite Wyss Zurich mit dem Künstlerduo Søren Pors und Aparna Rao (Pors & Rao) sowie Philipp Reist, Robotik-Systemingenieur an der ETH Zürich. Die Ideen entspringen den Köpfen von Pors & Rao, Pathos macht die Kunst dann zur Animatronik: elektronisch und mechanisch gesteuerte, sich natürlich bewegende Figuren. Sie leben vom Überraschungsmoment: «Wir Menschen lesen lebensnahe Bewegungen ohne nachzudenken. Unser kritisches Bewusstsein braucht etwas länger, um den Vorgang zu verstehen», erklärt Rao. Und tatsächlich dauert es einen Moment, bis belustigtes Erstaunen zu aktiver Neugier wird.
 
-Technisch ermöglicht wird die Wechselwirkung mit den Beobachtern durch hochsensible Mikrophone und Bewegungssensoren. Die Robotiksysteme im Innern der Kunstwerke nehmen die Impulse auf und erwecken die Werke durch gezielte Bewegungen zum Leben. Philipp Reist schätzt die Herausforderungen, welche die Implementierung von Robotik in Kunst eröffnet: «Die Elektromechanik muss schnell und zur selben Zeit beinahe unhörbar sein, problemlos funktionieren und gleichzeitig ästhetischen Vorstellungen entsprechen.» Die Technologie hinter den Werken ist anspruchsvoll.
+## Technologie zum Verschwinden bringen
 
-## Hier und dort
+Technisch ermöglicht wird die Wechselwirkung mit den Beobachtern durch hochsensible Mikrophone und Bewegungssensoren. Die Robotiksysteme im Innern der Kunstwerke nehmen die Impulse auf und erwecken die Werke durch gezielte Bewegungen zum Leben. Philipp Reist schätzt die Herausforderungen, welche die Implementierung von Robotik in Kunst eröffnet: «Die Elektromechanik muss schnell und zur selben Zeit beinahe unhörbar sein, problemlos funktionieren und gleichzeitig ästhetischen Vorstellungen entsprechen.» Die Technologie hinter den Werken ist anspruchsvoll.
 
 Oberstes Ziel von Pathos ist es nun aber, Animatronik vom komplexen Ingenieurswissen unabhängig zu machen. Deutlich macht dies das Motto der Projektgruppe: «Erase Technology, Erase Engineers». Für die Künstlerin Aparna Rao ist dies ein Wunsch nach Selbstbestimmung: «Die ständige Abhängigkeit von Ingenieuren bei der Animation unserer Skulpturen und Installationen läuft entgegen der künstlerischen Spontaneität und Intuition», erklärt sie.
 

@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2024/02/for-equitable-access-to-urban-green-spaces.html
 
-## About the author
+**Date processed:** 2025-05-01
+
+## Main article
 
 Strolling along the promenade by the lake, walking through the city by the river, playing ping-pong in the park – everyday things like these are what increase our sense of well-being. Things we take for granted and around which we organise our free time – until, suddenly, the things we take for granted are no longer possible.
 
@@ -10,9 +12,9 @@ When the pandemic gave rise to the lockdown starting in March 2020 in Switzerlan
 
 As a nature-loving city dweller, the closures were a drastic experience for me personally. The sealed-off promenades and parks made us painfully aware of how important urban green spaces are for our quality of life and how much we need them for our physical and mental health.
 
-Fritz Kleinschroth is a senior scientist at the Chair of Ecosystem Management at ETH Zurich and researches the consequences of urbanisation for ecosystems.
+## About the author
 
-## A question of prosperity
+Fritz Kleinschroth is a senior scientist at the Chair of Ecosystem Management at ETH Zurich and researches the consequences of urbanisation for ecosystems.
 
 A lot has happened since. And I am pleased to note that there is now a lot more talk about the role of nature in urban areas than before the pandemic. COVID-19 is history, the topic of urban greenery has stayed – at least for the time being. This also has to do with the heatwaves we experience in urban summers when cooling vegetation is worth its weight in gold. In Zurich, parks are being subject to a lot of debate right now, with two major initiatives in the pipeline relating to Mythenpark and the lakeshore. 1
 
@@ -22,7 +24,7 @@ The question is not insignificant. Countries and cities reacted very differently
 
 I conduct my own research into the interplay between urban infrastructure and ecosystems and I see the attention being given to green spaces since COVID-19 as an indicator of what is really important to city dwellers. Right at the beginning of the pandemic, we showed that the number of Google searches for terms such as “going for a walk” in the German- and English-speaking world soared for a short space of time – an indication of the sharp rise in demand for public parks during the crisis. 2
 
-## Urban green is distributed unevenly
+## A question of prosperity
 
 Also based on some widely cited studies from Northern Europe, most researchers (including us) have implicitly assumed there was a general increase in the use of green spaces. This is also because people’s need for outdoor exercise was a lot greater than before the pandemic given that they were working from home, schools were closed and nobody could travel.
 
@@ -32,11 +34,11 @@ Working with a multilingual team, we systematically analysed the literature on t
 
 Our analysis actually reveals a surprisingly large discrepancy in the use of green spaces in different parts of the world. We can largely attribute these differences to financial prosperity. We show that people in wealthier areas are making increasing use of green spaces, while those in poorer regions are making a lot less use of them.
 
-## Recommendations for liveable cities
-
 This means that not everyone in cities and regions has the same access to green spaces. Social inequality is consequently manifested in two ways: people who either lived in affluent areas or owned private gardens (or both) were able to compensate for the restrictions by engaging in more outdoor activities. While those without such opportunities had to do without these health and well-being benefits.
 
 This raises important questions about the equitable distribution of green spaces in urban planning. If we want to prevent an increasing number of people from opting to live in a safe house complete with a garden in the suburbs, we need to fundamentally change the way we design our cities.
+
+## Recommendations for liveable cities
 
 Less privileged neighbourhoods where people live in small flats need more nature and outdoor recreation space – for example, by rendering vacant land accessible and usable. The overarching goal of “ inner-urban densification ” in urban planning can only be realised if sufficient green spaces and fair access to them are guaranteed. For this reason, we also speak of “dual inner-urban development”, which densifies buildings while improving green space quality.
 

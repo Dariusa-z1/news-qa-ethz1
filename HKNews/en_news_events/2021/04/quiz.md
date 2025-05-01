@@ -2,9 +2,13 @@
 
 **Source:** en_news_events/2021/04/quiz.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 In our quiz series, we take you on journeys of discovery through research and teaching at ETH Zurich. This edition is dedicated to agricultural sciences, which are celebrating their 150th anniversary this year.
+
+## The anniversary of the Agricultural Sciences
 
 The Department of Environmental Systems Science (D-​USYS) starts their anniversary year with an online event on 4 May 2021, kicked off by a video featuring Guy Parmelin, President of the Swiss Confederation, together with ETH President Joël Mesot and representatives of the Department.
 

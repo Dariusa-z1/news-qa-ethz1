@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2022/06/six-eth-zurich-researchers-receive-advanced-grants.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Last year, the Swiss National Science Foundation (SNSF) announced Advanced Grants to which established researchers from Swiss universities could apply for funding for a forward-looking, original, significant or even risky project. Of the 232 projects submitted, the SNSF selected 24 for funding. Six of them are projects submitted by professors at ETH Zurich.

@@ -2,11 +2,15 @@
 
 **Source:** en_news_events/2016/12/the-secret-to-good-teaching.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 So what is the secret to good teaching? One person should know: John Lygeros, Professor of Control and Computation and Head of the Department of Information Technology and Electrical Engineering. He has already won the ETH Golden Owl teaching prize three times in the past and this year accepted the CS Award for Best Teaching at ETH Day.
 
 Yet the award-winning professor admits that he has still not quite got to the bottom of the secret to good teaching: “I’m not yet sure what the best way to teach is. That’s why I’ve spent my life researching and working on it.” It is precisely this innovative drive that his students hold in such high esteem – but not just that. In a video, they explain why John Lygeros more than deserved to receive the CS Award for Best Teaching.
+
+## Credit Suisse Award for Best Teaching
 
 The teaching award aims to promote excellence at institutions of higher education and to strengthen Switzerland as a centre of science and research. The recipients of the Golden Owl are nominated directly for the CS Award. Together with the professional bodies, the Association of Students at ETH Zurich (VSETH) selects the winner of the CS Award according to various other criteria.
 

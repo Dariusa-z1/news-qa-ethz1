@@ -2,39 +2,25 @@
 
 **Source:** de_internal/2020/05/der-professorenschaft-auf-den-puls-gefuehlt.html
 
+**Date processed:** 2025-05-01
+
 ## Einstiegsprozess an der ETH überzeugt
 
 An der ETH haben alle ordentlichen, ausserordentlichen und Assistenz-Professorinnen und Professoren den gleichen Chef: den ETH-Präsidenten. Joël Mesot war es bereits bei seinem Amtsantritt eines seiner Anliegen zu wissen, wie zufrieden die Professorinnen und Professoren sind und wo allenfalls der Schuh drückt. Wichtige Erkenntnisse liegen nun vor. Unter der Regie der Stelle für Chancengleichheit, des Stabs Professuren und des Generalsekretariats wurde 2019 eine Befragung unter allen ETH-Professorinnen und -Professoren durchgeführt; die erste, die spezifisch auf ihre Arbeitssituation fokussierte. «Mit über 60 Prozent war der Rücklauf sehr hoch», freut sich Renate Schubert, Delegierte für Chancengleichheit und ETH-Professorin für Nationalökonomie.
 
-## Wunsch nach mehr Beteiligung
-
 Die 40 gestellten Fragen deckten sechs Themenbereiche ab: Berufung und Beförderung, Entscheidungen und Prozesse, Zusammenarbeit, Work-Life-Balance, Arbeitsklima und Beschwerdeprozesse. Sehr gute Noten gab es für den Berufungs- und Beförderungsprozess: rund 80 Prozent sind damit sehr zufrieden. Auch bei der Ausstattung ihrer Professuren und bei der Integration an der ETH ziehen die meisten Befragten ein sehr positives Fazit.
-
-## Hohe Zufriedenheit bei der Zusammenarbeit
 
 «Es freut uns sehr, dass die relativ schnellen Berufungsprozesse und die Offerten der ETH von den Professorinnen und Professoren mehrheitlich geschätzt werden», sagt Monika Gessler vom Stab Professuren. «Zum guten Resultat hat wahrscheinlich auch der Ausbau des ‘Faculty Onboarding’ beigetragen, mit dem seit 2019 neu ernannte Professorinnen und Professoren mit den Gegebenheiten der ETH und der Schweiz vertraut gemacht werden.» Dass sich laut der Befragung eine beachtliche Minderheit von 45 Prozent schon einmal Gedanken über einen Wechsel an eine andere Institution gemacht hat, habe deshalb wohl eher persönliche Gründe.
 
-## Unterschiede bei Arbeitsklima und Beschwerden
-
 Ein gemischtes Bild zeigt sich beim Eindruck, welchen die Professorinnen und Professoren von ihrem Einfluss auf Entscheidungen und Prozesse in ihren Departementen und an der ETH insgesamt haben. Im eigenen Departement beurteilen sie die Einflussmöglichkeiten als «gut» (77 von 100 möglichen Punkten), auf Ebene der ETH Zürich als «eher weniger gut» (54 Punkte). Allerdings schwankte die Bewertung je nach Departement zum Teil erheblich. «Hier zeigt sich also Potenzial», sagt Renate Schubert. «Die Professorinnen und Professoren intensiver vor Entscheidungen einzubeziehen, fördert auch ihre Identifikation mit der Institution. Ich denke, ein stärkerer Einbezug würde sich für beide Seiten lohnen.»
-
-## Ombuds- und Beratungsstellen ausgebaut
 
 In diesem Zusammenhang ist ein weiteres Resultat bemerkenswert: Die Aussage, dass die Aufgaben ausserhalb der Lehre und Forschung – also bei Funktionen in Gremien, Kommissionen und der Departementsverwaltung – gerecht unter den Professuren verteilt sind, bekam eine vergleichsweise schwache Zustimmung (55 Punkte). «Vermutlich eignet sich nicht jede Person gleichermassen für solche zusätzlichen Aufgaben. Darum übernehmen manche mehr als andere», erklärt Renate Schubert. «Zudem spiegelt sich darin wohl auch der zunehmend globalisierte Wissenschaftsbetrieb. Für ein Engagement zugunsten der eigenen Institution, das nicht direkt in Publikationen mündet, fehlt die Zeit.» Engagement setze Identifikation voraus. «Ich finde, wir sollten uns grundsätzlich überlegen, wie das Gemeinschaftsgefühl an der ETH gestärkt werden kann», sagt Renate Schubert. Wertschätzung gegenüber allen Professorinnen und Professoren, gerade auch gegenüber den sehr jungen und denjenigen kurz vor oder nach der Emeritierung sieht sie als wichtigen Faktor an.
 
-## Schulleitung sieht sich bestätigt
-
 Bezüglich der Zusammenarbeit mit den ETH-Studierenden und -Mitarbeitenden ist das Feedback gut bis sehr gut (im Schnitt 90 Punkte). Leicht schwächer, aber immer noch deutlich positiv wird die Zusammenarbeit mit der zentralen Verwaltung bewertet.
-
-## Hohe Rücklaufquote
 
 Bekanntlich haben Professorinnen und Professoren eine hohe Arbeitsbelastung. Aber mit der Work-Life-Balance kommen sie grundsätzlich gut zurecht, wie die Befragung zeigt. Allerdings wünschen sie sich von der ETH mehr Unterstützung, wenn es darum geht, Forschung, Lehre und Privatleben unter einen Hut zu bringen. Ein Aspekt bei der Verbesserung der Vereinbarkeit ist die familienergänzende Kinderbetreuung. «Die ETH hat in den letzten Jahren ihr Angebot stark ausgebaut, insbesondere die Zahl der Krippenplätze», so Renate Schubert. Weiteres kam hinzu, etwa die flexible Kinderbetreuung an der ETH oder die Vermittlung von Betreuungspersonen für unvorhergesehene Situationen und Notfälle.
 
-## Staffnet
-
 Deutliche Unterschiede, und zwar entlang der Geschlechtergrenzen, weisen die Resultate bezüglich Arbeitsklima auf. Männer gaben hier grossmehrheitlich sehr hohe Punktzahlen, die Professorinnen hingegen fühlen sich in ihrer Funktion weniger respektiert und gefördert. «Hier treten die bekannten Differenzen und Stereotype in Bezug auf männliche und weibliche Rollenbilder zutage», kommentiert Renate Schubert. «Ich stelle aber auch einen Einstellungswandel fest. Für die meisten Angehörigen der jüngeren Generation, egal welchen Geschlechts, ist Chancengleichheit heute kein Fremdwort mehr.»
-
-## Newsletter abonnieren
 
 Eine klare Diskrepanz in den Einschätzungen von Frauen und Männern zeigte sich auch beim Umgang mit Beschwerden. So gab ein substanzieller Anteil von 23 Prozent der Professorinnen an, sich in den letzten zwei Jahren diskriminiert gefühlt zu haben. Bei den Professoren sind es nur fünf Prozent. Ähnlich ist das Ergebnis beim Thema Vertrauen in den Beschwerdeprozess: Bei den Professoren ist das Vertrauen mit 61 Punkten deutlich stärker als das der Professorinnen (42 Punkte).
 
@@ -43,6 +29,8 @@ Eine klare Diskrepanz in den Einschätzungen von Frauen und Männern zeigte sich
 Den Handlungsbedarf bei diesem Thema hat die Schulleitung bereits vor einiger Zeit erkannt und Massnahmen ergriffen. Lukas Vonesch, Leiter von Human Resources an der ETH, sagt dazu: «Seit November 2019 besteht eine externe Beratungsstelle zu Respektthemen; ausserdem hat im Mai 2020 eine externe Ombudsperson mit juristischem Hintergrund und Mediationserfahrung ihre Arbeit aufgenommen. Dies trägt sicher zur Stärkung des Vertrauens in den Umgang mit Beschwerden bei.» Das entsprechende Reglement wurde erarbeitet, werde aber mit der Hochschulversammlung und den Hochschulgruppen nochmals diskutiert und verbessert, so Lukas Vonesch
 
 «Dass die Professorinnen und Professoren der ETH grundsätzlich mit ihrer Situation zufrieden sind, freut mich», bilanziert ETH-Präsident Joël Mesot. «Sie sind die Leistungsträger unserer Hochschule, und es ist eines meiner zentralen Anliegen, Arbeitsbedingungen zu schaffen, die sie zur Entfaltung ihres Potenzials benötigen. Diese Befragung ist für mich aber auch eine wichtige Bestätigung des Wegs, den wir in der Schulleitung mit unserer Organisationsentwicklung ‘rETHink’ angestossen haben. Die Stärkung von Wertschätzung und Vertrauen wird dabei eine wichtige Rolle spielen.»
+
+## Hohe Rücklaufquote
 
 Von den 533 angeschriebenen Professorinnen und Professoren beteiligten sich insgesamt 321 an der Befragung, was einem Rücklauf von 60,2 Prozent entspricht. Die Einschätzungen der Befragten wurden auf einer Skala vom 0 bis 100 Punkten erfasst, wobei 0 bis 49 Punkte als «sehr negativ» bis «gering negativ» gewertet wurden, 50 bis 64 Punkte als «gering positiv», 65 bis 84 als «eher positiv» und 85 bis 100 Punkte als «sehr positiv». Die Durchführung der Umfrage lag bei der externen Agentur Empiricon, die bereits mehrmals die ETH-Personalbefragung durchführte.
 

@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2023/05/schweizer-pavillon-in-venedig-oeffnet-mauer-zum-nachbarn.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH News: Was ist die Idee hinter «Neighbours»? Karin Sander : Mir ist aufgefallen, dass die beiden Pavillons, der Schweizer und der Venezolanische nicht nur Nachbarn sind, sondern auch ein Ensemble bilden. Bruno Giacometti, der Architekt des Schweizer Pavillons, setzte seinen Entwurf zuerst um, und Carlo Scarpa, der Architekt des venezolanischen Pavillons, reagierte wenige Jahre später darauf. Wir rücken diese unmittelbare Nachbarschaft in den Fokus und machen sie zum Exponat.
@@ -37,6 +39,8 @@ Ursprung: Wir können das nicht beweisen, aber es sieht danach aus, dass die ven
 Aus politischer Sicht kann man sich auch fragen, ob das Öffnen der Mauer zum venezolanischen Pavillon hin nicht ein falsches Signal ist. Ursprung: Wir sind nach Venezuela gereist, um uns selbst ein Bild zu machen. Die Situation dort ist verheerend. Kunst- und Kulturschaffende sind eingemauert und isoliert. Wir öffnen die Mauer nicht gegenüber dem Regime, sondern gegenüber Künstler:innen, Architekt:innen und Forschenden. Diesen Menschen geben wir in unserem Buch und auf diversen Podien auch eine Stimme.
 
 Sander: Wir sehen die Ausstellung als eine Einladung. Die Kunst kann hier einen Dialog anstossen. Dabei hat sie womöglich mehr Spielraum als die Politik.
+
+## Die Schweizer Auftritte an der Architekturbiennale in Venedig
 
 Die Biennale Architettura findet abwechselnd mit der Biennale Arte, alle zwei Jahre in Venedig statt. Die Schweiz hat ihren eigenen Pavillon in den «Giardini pubblici», dem Biennale-Park von Venedig. Seit 2012 ist die Schweizer Kulturstiftung externe Seite Pro Helvetia für den Schweizer Pavillon zuständig.
 

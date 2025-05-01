@@ -2,35 +2,30 @@
 
 **Source:** en_news_events/2024/07/preventing-cancer-cells-from-colonising-the-liver.html
 
+**Date processed:** 2025-05-01
+
 ## In brief
 
-- ETH Zurich researchers have discovered proteins on the surface of colorectal cancer cells and liver cells that bind together and that play a major role in the formation of new metastases.
-
-- The binding of the proteins triggers fundamental changes in colorectal cancer cells that allow them to take root in the liver.
-
-- These new findings will help to develop future treatments that may hinder the formation of often fatal metastases.
+• ETH Zurich researchers have discovered proteins on the surface of colorectal cancer cells and liver cells that bind together and that play a major role in the formation of new metastases.
+• The binding of the proteins triggers fundamental changes in colorectal cancer cells that allow them to take root in the liver.
+• These new findings will help to develop future treatments that may hinder the formation of often fatal metastases.
+## Molecular docking mechanism unlocked
 
 In cases where cancer is fatal, nine out of ten times the culprit is metastasis. This is when the primary tumour has sent out cells, like seeds, and invaded other organs of the body. While medicine has made great progress in treating primary tumours, it is still largely helpless in the face of metastasis. Currently, there are no medications that prevent this process.
 
-## Molecular docking mechanism unlocked
-
 A team of researchers led by Andreas Moor in the Department of Biosystems Science and Engineering at ETH Zurich in Basel have now published results in the journal Nature showing how colorectal cancer cells colonise the liver. Their findings will help to develop treatments with which it may be possible to hinder the metastatic process.
-
-## Signposts in the nervous system
 
 Cancer is said to metastasise when cells from the primary tumour break off and travel via the circulatory system to other parts of the body. “Colorectal cancer metastasises to the liver because of how our blood flows,” Moor says. Blood is first enriched with nutrients in the intestines before it goes to the liver, which metabolises the nutrients. For colorectal cancer cells, the liver is the last stop. “They get caught in the liver’s capillary network,” Moor says.
 
-## Return to sedentary state
-
 Costanza Borrelli, a doctoral student, and other members of Moor’s team have now shown that the liver cells also play a large role in whether or not the cancer cells lodged there can colonise their new location. Science has known for over a century that, much like plant seeds in soil, cancer cells are dependent on their environment, yet it was previously unknown which molecular mechanisms play a role here.
 
-## Critical period of time
+## Signposts in the nervous system
 
 Using sophisticated tests on genetically modified mice, Moor and his team have discovered that the secret lies in certain proteins on the cell surface. When liver cells have a protein called Plexin-B2 and the colorectal cancer cells possess certain proteins from the semaphorin family, the colorectal cancer cells can attach themselves to the liver cells.
 
-## Reference
-
 Cancer cells that have semaphorins on their surface are especially dangerous, as attested by clinical studies cited by Moor’s researchers in their paper. The study data shows that colorectal cancer metastasises earlier and more frequently to the liver if the tumour has large amounts of semaphorin.
+
+## Return to sedentary state
 
 Plexin and its counterpart semaphorin were previously known to the research community for their function in the nervous system, where the two proteins steer growing nerve cells and ensure they form the right pathways. “Why liver cells also create plexin and what this protein does in healthy livers is anything but clear – and interests us immensely,” Moor says. In other words, the question of its function remains open.
 
@@ -39,6 +34,8 @@ Once in the bloodstream, the cancer cells resemble those from connective tissue 
 The researchers’ discovery will have an impact on more than colorectal cancer patients: further tests have shown that plexin also encourages the formation of metastases in melanoma and pancreatic cancer. For Moor and his team, this throws up many new research questions. One in particular is drawing their focus: when cancer cells cluster together to form a tumour, they also influence cells in their environment. “Cancer cells set up their own ecosystem,” Moor explains.
 
 If efforts to inhibit the crucial interaction between plexin and semaphorin succeed, it may be possible to prevent the cancer from establishing new tumours in the first place. That’s because early on, when the relationships among the cells in this ecosystem have not yet been firmly established, tumour metastases are especially vulnerable, Moor explains. He appears confident that an answer lies within this “critical period of time in the development of metastases”, even though the path to any potential treatment is still long.
+
+## Reference
 
 Borrelli C, Roberts M, Eletto D, Hussherr MD, Fazilaty H, Valenta T, Lafzi A, Kretz JA, Guido Vinzoni E, Karakatsani A, Adivarahan S, Mannhart A, Kimura S, Meijs A, Baccouche Mhamedi F, Acar IE, Handler K, Ficht X, Platt RJ, Piscuoglio S Moor AE: In vivo interaction screening reveals liver-derived constraints to metastasis. Nature, 24 July 2024, doi: 10.1038/s41586-024-07715-3
 

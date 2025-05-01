@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2017/09/appointments-september-2017.html
 
+**Date processed:** 2025-05-01
+
 ## Appointments
 
 At its meeting of 28 September 2017, the ETH Board appointed 5 new professors upon application of ETH Zurich President Lino Guzzella. The Board also acknowledged the resignation of six professors, thanking them for their service.
@@ -14,9 +16,9 @@ Professor Tanja Stadler (*1981), currently Tenure Track Assistant Professor at E
 
 Professor Marco Stampanoni (*1974), currently Associate Professor at ETH Zurich, as Full Professor of X-ray Imaging. Marco Stampanoni has won international renown for developing imaging technologies using X-ray and synchrotron radiation. One example of his wide-ranging knowledge and innovative ability is the dedicated beamline for tomographic microscopy (TOMCAT) which he developed at the Swiss Light Source; this is now recognised as one of the most powerful tomographic beamlines in the world. It allows phenomena such as cerebral infarctions and the associated plastic response to be represented volume­trically and quantified. Marco Stampanoni has received a large number of international awards, most recently an ERC grant.
 
-Dr Thomas Ward Crowther (*1986), currently Scientist at the Institute of Ecology (NIOO) in Wageningen, Netherlands, as Tenure Track Assistant Professor of Global Ecosystem Ecology. Thomas Crowther’s research focuses on forest ecosystems and on ecological processes that structure species communities and ecosystems. He has a particular interest in the regulation of the forest carbon cycle by microbes in forest soils, and the effects of these mechanisms on the global carbon balance and long-term climate change. With his highly interdisciplinary approach, Thomas Crowther makes important contributions to national and international initiatives in soil management and combating climate change.
-
 ## Departures
+
+Dr Thomas Ward Crowther (*1986), currently Scientist at the Institute of Ecology (NIOO) in Wageningen, Netherlands, as Tenure Track Assistant Professor of Global Ecosystem Ecology. Thomas Crowther’s research focuses on forest ecosystems and on ecological processes that structure species communities and ecosystems. He has a particular interest in the regulation of the forest carbon cycle by microbes in forest soils, and the effects of these mechanisms on the global carbon balance and long-term climate change. With his highly interdisciplinary approach, Thomas Crowther makes important contributions to national and international initiatives in soil management and combating climate change.
 
 Professor Dietmar Eberle (*1952), currently Full Professor of Architecture and Design, is to retire at the end of January 2018. Dietmar Eberle has occupied his present post at ETH Zurich since summer 1999. His research activity focuses on housing in its various facets. In 2000 he became head of the “ ETH Wohnforum – ETH CASE Centre for Research on Architecture, Society & the Built Environment”. The latter’s interdisciplinary research and development projects unite the cultural studies perspective, a social sciences approach and concrete practical applications to form an overview. Dietmar Eberle also served on the governing body of the Department of Architecture for many years.
 

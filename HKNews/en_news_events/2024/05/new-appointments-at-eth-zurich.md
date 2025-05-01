@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2024/05/new-appointments-at-eth-zurich.html
 
+**Date processed:** 2025-05-01
+
 ## New appointments at ETH Zurich
 
 (Photograph: WSS, Oliver Lang Fotografie)
@@ -22,8 +24,6 @@ Professor Joaquim Serra (*1986), currently Assistant Professor at ETH Zurich, as
 
 (Photograph: private)
 
-## Promotions at ETH Zurich
-
 Professor Sobhan Seyfaddini (*1982), currently Director of Research at the Centre national de la recherche scientifique (CNRS) and at Université d’Orsay in Paris, as Full Professor of Mathematics in the Department of Mathematics. Sobhan Seyfaddini’s research is in the field of symplectic geometry and topology, a relatively young branch of mathematics which supplies a geometric language for the study of classical mechanics. His main focus is on C^0 symplectic topology. Sobhan Seyfaddini has made a significant contribution to the development of this research area and his work has been recognised through a number of awards, including an ERC Starting Grant. In the Department of Mathematics he will strengthen the subject area of geometry, particularly in the field of symplectic topology.
 
 (Photograph: IST Austria)
@@ -34,6 +34,8 @@ Dr Barbora Trubenová (*1984), currently Postdoctoral Researcher at ETH Zurich, 
 
 Dr Cornelia W. Twining (*1989), currently Postdoctoral Researcher at Eawag, as Assistant Professor of Food Web Ecophysiology in the Department of Environmental Systems Science. Cornelia W. Twining’s work examines the question of how organisms adapt to spatio-temporal fluctuations in their nutritional landscape and how global change affects nutrient fluxes in and between ecosystems. Her current focus is the impact of climate change on the phenology and nutritional metabolism of aquatic insects. Cornelia W. Twining brings cooperations with Eawag, where she will additionally work as a group leader, and WSL to ETH Zurich, and her expertise will strengthen the Department of Environmental Systems Science.
 
+## Promotions at ETH Zurich
+
 (Photograph: ETH Zurich)
 
 Professor Florian Dörfler (*1982), currently Associate Professor at ETH Zurich, as Full Professor of Complex Systems Control in the Department of Information Technology and Electrical Engineering. Florian Dörfler is an internationally acclaimed expert on automatic control, systems theory and optimisation. The main focus of his research is on decision-making in complex systems, with the aim of developing methods in the areas of control, optimisation, game theory and learning. His methods are used in industrial environments, for example, and particularly in power supply systems. Florian Dörfler has published numerous articles in leading journals and has received many awards. He has also made a name for himself as a gripping speaker and dedicated teacher.
@@ -41,8 +43,6 @@ Professor Florian Dörfler (*1982), currently Associate Professor at ETH Zurich,
 (Photograph: ETH Zurich / Giulia Marthaler)
 
 Professor Giacomo Indiveri (*1967), currently Associate Professor at the University of Zurich and at ETH Zurich, as Full Professor of Neuromorphic Cognitive Systems in the Department of Information Technology and Electrical Engineering. Giacomo Indiveri is a world expert in neuromorphic computing. He studies biological and artificial neural processing systems and builds neuromorphic cognitive hardware systems. The growing use of artificial neural networks makes neuromorphic engineering a topic of great social significance, with implications for robotics and personalised medicine. Giacomo Indiveri has an outstanding list of publications to his name and has received many awards, including an ERC Consolidator Grant in 2017. He will continue to hold a dual professorship at the University of Zurich and ETH Zurich.
-
-## Award of the title of “Professor”
 
 (Photograph: ETH Zurich / Giulia Marthaler)
 
@@ -56,13 +56,13 @@ Professor Bruno Studer (*1977), currently Associate Professor at ETH Zurich, as 
 
 Professor Barbara Treutlein (*1982), currently Associate Professor at ETH Zurich, as Full Professor of Quantitative Development Biology in the Department of Biosystems Science and Engineering. Barbara Treutlein is a leading scientist in the field of quantitative development biology, and her research is dedicated to understanding human ontogeny. Among other things, she investigates the formation of human organoids in order to understand the failure of processes in the event of illness and to influence the development of organoids in vitro so that they correspond more closely to real tissues. Barbara Treutlein is a member of several prestigious bodies and numerous appointment committees. She has received a large number of awards for her research, including an ERC Starting Grant and an ERC Synergy Grant.
 
+## Award of the title of “Professor”
+
 (Photograph: ETH Zurich / Giulia Marthaler)
 
 Dr Jake Alexander (*1980), currently Lecturer and Senior Scientist at ETH Zurich, as Adjunct Professor in the Department of Environmental Systems Science at ETH Zurich. Jake Alexander is an internationally recognised plant ecologist with a focus on alpine plants. He studies how ecological and evolutionary processes such as climate change affect the distribution and spread of species and lead to changed interactions. Jake Alexander's research has been awarded an ERC Starting Grant, among others.
 
 Dr Martin Frimmer (*1982), currently Private Lecturer and Senior Scientist at ETH Zurich, as Adjunct Professor in the Department of Information Technology and Electrical Engineering at ETH Zurich. Martin Frimmer’s areas of research are electronics and photonics. His main focus is on the interaction of light with nanostructured materials and on how to control and improve this interaction with nanostructures such as optical antennas or resonators. He has represented the Department and ETH Zurich at many outreach talks and is very active in teaching.
-
-## Award of the title of “Professor of Practice”
 
 (Photograph: CV Pics)
 
@@ -71,6 +71,8 @@ Dr Eva Lieberherr (*1980), currently Lecturer and Group Leader at ETH Zurich, as
 (Photograph: private)
 
 Dr Maarten Nachtegaal (*1974), currently Private Lecturer at ETH Zurich and Group Leader at the Paul Scherrer Institute (PSI), as Adjunct Professor in the Department of Chemistry and Applied Biosciences at ETH Zurich. Maarten Nachtegaal is an expert on beamline operando X-ray measurements. His work combines inorganic chemistry and chemical physics, with a focus on further developing synchrotron techniques in order to investigate the structure of catalysts and improve catalytic processes. Maarten Nachtegaal is highly regarded in his field and is a dedicated and successful supervisor and mentor.
+
+## Award of the title of “Professor of Practice”
 
 (Photograph: Meret Branscheidt)
 
@@ -82,9 +84,9 @@ Dr Sylke Poehling (*1967), Global Head and Senior Vice President for Therapeutic
 
 (Photograph: Béatrice Devènes)
 
-## Departures from ETH Zurich
-
 Walter Thurnherr (*1963), former Federal Chancellor, as Professor of Practice at ETH Zurich. During his term of office as Federal Chancellor from 2016 to 2023, Walter Thurnherr showed strong commitment to fostering dialogue between science and politics, and he was a particular advocate of involving the scientific community in political decision-making. As Professor of Practice at ETH Zurich, Walter Thurnherr will offer applied courses on policy-making in Switzerland and also help to set up the planned School of Public Policy, with particular responsibility for impact. His many years in leadership roles have given him unique experience of policy design and diplomacy, as well as proven skills in strategic planning, interdisciplinary cooperation and problem-solving.
+
+## Departures from ETH Zurich
 
 Professor Georgios Anagnostou (*1959), currently Full Professor of Underground Construction in the Department of Civil, Environmental and Geomatic Engineering, is to retire at the end of January 2025. Georgios Anagnostou joined ETH Zurich as a full professor in 2003 following many years working as a consulting engineer for tunnel building. His current research focuses on swelling in rocks containing clay and anhydrite, the behaviour of hard, brittle rock under high tension, and the stability and deformation of deep tunnels in soft soils. Georgios Anagnostou is much sought-after as a member of national and international expert committees. He twice served as Deputy Head of the Institute for Geotechnical Engineering and was Head of the Institute from 2005 to 2007.
 

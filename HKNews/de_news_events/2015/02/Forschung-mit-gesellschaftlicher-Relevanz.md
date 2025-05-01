@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2015/02/Forschung-mit-gesellschaftlicher-Relevanz.html
 
-## Schutzklausel: Der Vorschlag
+**Date processed:** 2025-05-01
+
+## Main article
 
 ETH-News: Herr Ambühl, mit Ihrem Vorschlag, dass man mit der EU über eine Schutzklausel verhandeln könnte, um nicht das Freizügigkeitsabkommen zu verletzen, greifen Sie in eine aktuelle politische Debatte ein. Darf sich ein ETH-Professor in die Politik einmischen? Michael Ambühl: Wir möchten von Seiten der Forschung mit einem Diskussionsbeitrag zur Lösung eines Problems beitragen. Innerhalb der Professur wollen wir den Forschungsansatz weiterentwickeln, den wir «Verhandlungs-Engineering» nennen und der letztlich eine Konzeptualisierung meiner als Verhandlungsleiter gemachten Erfahrungen darstellt. Wir haben deshalb versucht, unsere Methoden am aktuellen Beispiel der Umsetzung der Einwanderungsinitiative anzuwenden. In diesem Fall haben wir wohl deshalb eine gewisse Aufmerksamkeit erhalten, weil bei dieser Studie die gesellschaftliche Relevanz direkt sichtbar wird.
 
@@ -14,15 +16,17 @@ Wie geht man in einem solchen Fall wissenschaftlich vor? Migration ist überall 
 
 Man kann sich des Eindrucks nicht erwehren, dass zurzeit nur Ihr Vorschlag vorliegt. So ist es sicher nicht. Es freut uns aber, dass unser Vorschlag auch diskutiert wird. Es kann jedoch gut sein, dass unser Vorschlag abgewandelt wird oder nur ein Denkanstoss ist, der zu neuen, anderen Ideen führt. Damit sind wir beim Kern der Ausbildung an unserem Departement Management, Technologie und Ökonomie: Wir bilden talentierte junge Menschen aus, die in alle Richtungen denken können und akzeptieren, dass es – anders als in den exakten Disziplinen – nicht immer ein «Richtig» oder «Falsch» gibt. Deshalb ist es wichtig, ihr kritisches Denken und ihre Kreativität zu fördern.
 
-## Literaturhinweis
-
 Dann gefällt Ihnen die Lehre? Das ist doch ein relativ neues Betätigungsfeld für Sie. Ja, sehr. Die Studierenden an der ETH sind sehr motiviert und leistungsorientiert; da fällt einem das Unterrichten leicht. Im Rahmen eines Seminars haben wir zusammen mit der Universität Zürich im Herbst die Verhandlungen mit der EU simuliert. Ich war begeistert, wie engagiert die Studierenden bei diesem Projekt dabei waren. Die Uni-Studierenden, welche mehrheitlich Juristinnen und Juristen waren, und unsere ETH-Studierenden lernten jeweils die Herangehensweisen der andern kennen, was sie sehr inspirierte. Dass unsere Rektorin persönlich an der Schlussbesprechung teilgenommen hat, war ein besonderes Zeichen der Wertschätzung für alle.
 
 Und welches sind Ihre nächsten Forschungsprojekte? Wir versuchen, unseren Ansatz des Verhandlungs-Engineerings in verschiedenen anderen Bereichen anzuwenden: Aktuell arbeitet meine Professur unter anderem an Abrüstungsfragen, also an der Kosten/Nutzen-Analyse von Atomwaffen, und analysiert die Wirksamkeit von Sanktionen.
 
+## Schutzklausel: Der Vorschlag
+
 Der Kerngedanke besteht darin, dass der Grundsatz der Freizügigkeit nicht in Frage gestellt werden soll: Die Schweiz partizipiert weiterhin im EU/EFTA Raum an der Freizügigkeit mit den im Freizügigkeitsabkommen festgelegten Rechten und Pflichten, hat jedoch im Fall einer übermässigen Migration die Möglichkeit, eine (neu auszuhandelnde) Schutzklausel anzurufen. Mit Hilfe einer Formel könnte berechnet werden, wie gross die Einwanderung aus EU/EFTA-Staaten sein darf, bevor die Schutzklausel greift. Dabei werden keine fixen Zahlen im Voraus festgeschrieben, sondern die Migration in die Schweiz wird in ein Verhältnis zur Migration in der EU gesetzt.
 
 Genauer gesagt errechnet sich der Schwellenwert aus dem Mittelwert der Migrationsraten aller EU/EFTA-Staaten plus einem Vielfachen der Standardabweichung, wobei zudem noch der Bestand an EU/EFTA-Ausländern sowie die Arbeitsmarktsituation berücksichtigt werden. Idealerweise würden parallel zur Aushandlung einer Schutzklausel, die Massnahmen, bei denen die inländischen Arbeitsressourcen besser genutzt werden, so greifen, dass weniger ausländische Arbeitskräfte in die Schweiz kommen müssen. Die Schutzklausel müsste dann gar nicht, oder nur selten, zur Anwendung kommen.
+
+## Literaturhinweis
 
 Ambühl M, Zürcher S: Immigration and Swiss-EU Free Movement of Persons: Question of a Safeguard Clause, Swiss Political Science Review, 18. Februar 2015, doi: externe Seite 10.1111/spsr.12143
 

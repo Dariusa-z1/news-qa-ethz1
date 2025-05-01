@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2015/06/research-priorities-for-a-sustainable-food-system.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH News: The World Food System Center at ETH Zurich has addressed the need for research for a sustainable Swiss food system on behalf of the Confederation. What exactly is a food system? Nina Buchmann: A food system encompasses all the food – and feed – produced and consumed in a country, as well as all the national actors and the national boundary conditions. In other words, it is a system that takes into account the production of food up to the consumption and health-related issues, but also all the resources, wastes and losses. In addition, a food system is influenced by various boundary conditions, created by economy, policy, society and environment.
@@ -17,6 +19,8 @@ How so? The need for action and research depends very strongly on the period ove
 What action is needed in relation to this systems approach? At universities, we must incorporate this systems understanding more deeply into our education. At ETH, we have been doing this already for a long time in the study program of agricultural sciences. We also follow this approach in research at the World Food System Center. But we must be aware that systems-oriented, transdisciplinary research needs much more time than usually; for example, in order to find a common language or to build up a relationship of trust. Research of this kind requires longer-term research-funding instruments. Today, project-based funding is often awarded for a period of three or four years, which is typically too short for these purposes. Interestingly, the systems approach has also been deemed necessary at the administrative level and a need for action has been identified. Our interviews have shown that although several federal offices in Switzerland deal with individual aspects of the food system, there is no comprehensive national strategy at present.
 
 And what conclusions do you personally draw from the study? Results from our study contribute directly to the Federal Office for Agriculture’s research concept, which is currently under development. My work in agricultural and environmental research has probably never had such a direct impact. And I am pleased to note that just three years after the World Food System Center was founded, it has already established a reputation as an institution with an overview over such a very broad area of research. After all, the Federal Office for Agriculture has sufficient confidence in us to entrust us with such a comprehensive study.
+
+## About Nina Buchmann
 
 Nina Buchmann is Professor of Grassland Sciences at the Institute of Agricultural Sciences. She also leads the World Food System Center at ETH Zurich and is a member of Switzerland’s Agricultural Research Council, a body that advises the Federal Office for Agriculture in matters relating to the strategic orientation of agricultural research.
 

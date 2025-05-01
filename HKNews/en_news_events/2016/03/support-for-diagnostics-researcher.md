@@ -2,15 +2,17 @@
 
 **Source:** en_news_events/2016/03/support-for-diagnostics-researcher.html
 
-## Competitive in price, too
+**Date processed:** 2025-05-01
+
+## Main article
 
 The masterpiece is a simple box covering an area of around 18 square centimetres and only a couple of centimetres high. The key components inside are small square membranes with 25 test fields, or so-called spots. "To identify proteins, we apply antibodies, which bind to a specific protein, to the individual spots," explains Marco Habegger. Twenty-five different samples can be analysed on one membrane. The biological fluid to be tested – for example blood – passes through tiny holes on the box's surface into the interior. Up to ten membranes can be stacked on top of each other inside the box, making it possible to test samples for up to ten different proteins.
 
 The components of Habegger's diagnostics platform: microfluidic components (in a cell culture dish) and an analysis membrane (grey). (Photograph: ETH Zurich / Peter Rüegg)
 
-And therein lies the young researcher's innovation: "We combine two different measuring methods in one system," says Habegger. This also explains the name of the new testing device: FoRe (Forward / Reverse) Microarray. A microarray is an assay system that enables parallel analysis of different substances in a small amount of biological sample material. "Forward" means that multiple substances can be identified on a single chip, while "Reverse" means that multiple samples can be tested on a single chip. Of course, the collected data also has to be analysed; this is done by an external scanner where the membranes can be inserted.
+## Competitive in price, too
 
-## An entrepreneur with the heart of a researcher
+And therein lies the young researcher's innovation: "We combine two different measuring methods in one system," says Habegger. This also explains the name of the new testing device: FoRe (Forward / Reverse) Microarray. A microarray is an assay system that enables parallel analysis of different substances in a small amount of biological sample material. "Forward" means that multiple substances can be identified on a single chip, while "Reverse" means that multiple samples can be tested on a single chip. Of course, the collected data also has to be analysed; this is done by an external scanner where the membranes can be inserted.
 
 "I'm fascinated by the interface between technology, biology and medicine, which is why I decided to pursue studies in biomedical engineering," says Habegger. For the past year and a half or so, the 25-year-old has been tinkering around with the new test methods and has also been addressing it in his master's thesis. To help make it all a reality, he applied for a Pioneer Fellowship , founded a company, and brought his fellow student Marco Schmidt on board.
 

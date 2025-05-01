@@ -2,23 +2,9 @@
 
 **Source:** de_internal/2022/06/rethink-digitalisierungsstrategie-der-verwaltung.html
 
-## Fragen zu rETHink?
+**Date processed:** 2025-05-01
 
-- Systematische Datenanalyse
-
-- Sitzungs- und Records-Management
-
-- Nutzung neuer Technologien
-
-- Stakeholder- und Anforderungsmanagement
-
-- Prozessabdeckung und -orientierung
-
-- Digital Literacy
-
-- geschützte SeiteStrategie für die Digitalisierung der Verwaltunglock
-
-- geschützte SeiteRoadmap für die Implementierunglock
+## Main article
 
 Peter Müller, Sie leiteten die Arbeitsgruppe zur Erarbeitung einer Digitalisierungsstrategie und haben dazu die Verwaltung genau analysiert. Auf einer Skala von 1 bis 10: Wie gut steht die Verwaltung der ETH beim Thema Digitalisierung heute da? Peter Müller: Noten möchte ich keine vergeben, das war ja auch nicht unser Auftrag. Grundsätzlich steht die ETH bei der Digitalisierung gut da. In den vergangenen Jahren wurden die meisten zentralen Prozesse Schritt für Schritt digitalisiert. Die Pandemie hat das Ganze nochmals beschleunigt. Zudem sind ETH-Mitarbeitende offen gegenüber neuen Technologien. Dennoch gibt es etliche Verbesserungsmöglichkeiten, zum Beispiel bei der digitalen Unterstützung bereichsübergreifender Prozesse oder beim Einsatz neuer Technologien.
 
@@ -28,11 +14,11 @@ Paul Cross : Mit der Digitalisierungsstrategie wollen wir zudem intern Netzwerke
 
 Kathrin Noack : Es stellen sich bei solchen Vorhaben immer wieder ähnliche Fragen. Es ergibt daher Sinn, Synergien zu schaffen und wiederkehrende Herausforderungen wie beispielsweise den Umgang mit Informationssicherheit und Datenschutz übergreifend zu klären.
 
+## Fragen zu rETHink?
+
 Haben Sie Fragen zu diesem Artikel? Oder andere Fragen zu rETHink, die von allgemeinem Interesse sind? Dann senden Sie bitte eine kurze E-Mail an .
 
 Die Projektverantwortlichen werden auf Intern aktuell Fragen von ETH-Angehörigen beantworten.
-
-## Digitalisierungsstrategie der Verwaltung
 
 Wie ist die Arbeitsgruppe bei der Erarbeitung dieser Strategie vorgegangen? Peter Müller: Wir haben mit einer ausführlichen Bestandesaufnahme gestartet und Stärken und Schwächen erfasst. Zudem haben wir analysiert, welche Trends Auswirkungen auf die Verwaltung haben könnten. Danach haben wir sechs Handlungsfelder definiert ( siehe Infobox ), die aus unserer Sicht den grösstmöglichen Nutzen stiften, und pro Handlungsfeld zwei bis drei konkrete Massnahmen erarbeitet. Gleichzeitig haben wir aufgezeigt, wie die Governance-Strukturen aussehen sollen, also wie die ETH die Digitalisierung der Verwaltung steuert.
 
@@ -46,8 +32,6 @@ Neben diesen Eckpunkten zeigt die Strategie auch, wie die Umsetzung organisiert 
 
 Und wer sitzt in diesem STC? Kathrin Noack: Die Personen sind noch nicht bestimmt, dieser Prozess läuft im Moment unter der Federführung von Robert Perich. Klar ist aber, dass jeder Schulleitungsbereich eine Vertretung schickt oder wie im Falle von Julia Dannath, Ulrich Weidmann und Robert Perich selber Teil des STC sein wird. Zudem werden sicher auch die Informatikdienste sowie Vertreterinnen und Vertreter der Departemente im Gremium mitwirken.
 
-## Immer aktuell informiert
-
 Peter Müller: Wichtig ist, dass zu diesem Steering Committee auch ein Project Management Office (PMO) gehören wird, das personell ebenfalls noch zu besetzen ist und das für die operative Arbeit zuständig sein wird. Dieses PMO soll für alle ETH-Einheiten zu einer zentralen Anlaufstelle werden, um bei Digitalisierungsvorhaben zu unterstützen.
 
 Was werden die ETH-Angehörigen von der Digitalisierungsstrategie spüren? Peter Müller: Wir haben insgesamt 70 Einzelmassnahmen definiert – nicht alle werden direkt spürbar sein. Was aber hoffentlich alle spüren werden, ist die zentrale Unterstützung bei Digitalisierungsprojekten. Zudem wird das Thema Digitalisierung in unsere HR-Prozesse fliessen, damit sich jede und jeder in diesem Bereich weiterentwickeln kann. Natürlich wollen wir mit der Strategie auch anregen, dass alle Abteilungen ihre Prozesse nach Digitalisierungspotenzial durchleuchten. Und letztlich werden die Mitarbeitenden hoffentlich spüren, dass neue Technologien in der Verwaltung der ETH schneller zur Anwendung kommen.
@@ -58,9 +42,19 @@ Kathrin Noack: Dieser Fokus bedeutet nicht, dass alle individuellen Wünsche erf
 
 Paul Cross: Idealerweise werden künftig alle wichtigen Prozesse an der ETH digital unterstützt, und zwar möglichst durchgängig. Heute gibt es noch zu viele Brüche. Das heisst, sie sind eben nicht durchgängig, weil zum Beispiel unterschiedliche Abteilungen involviert sind. Genau darum ist eine zentrale Steuerung und der Austausch unter den Projektverantwortlichen so wichtig. Für mich persönlich ist es daher schon ein Erfolg, wenn wir mehr Transparenz schaffen und innerhalb der Verwaltung beim Thema Digitalisierung stärker voneinander lernen können.
 
+## Digitalisierungsstrategie der Verwaltung
+
 Im Rahmen des rETHink-Workstreams 5 «Zentrale Organe» hatte die von Informatikprofessor Peter Müller geleitete Arbeitsgruppe den Auftrag, eine Digitalisierungsstrategie für die Verwaltung der ETH Zürich zu erarbeiten. Die Strategie wurde in Workshops mit Vertreterinnen und Vertretern aller Abteilungen und mehreren Departementen diskutiert und weiterentwickelt, bevor sie Mitte Mai von der Schulleitung verabschiedet wurde. Die Strategie fokussiert inhaltlich auf sechs Handlungsfelder:
 
+• Systematische Datenanalyse Die systematische Nutzung von Daten soll dazu helfen, die internen Prozesse effizienter und effektiver zu machen.
+• Sitzungs- und Records-Management Mit einem zentralen Dokumenten-Managementsystem soll die grosse Menge an Informationen innerhalb der ETH-Verwaltung in Zukunft einfacher gespeichert, organisiert und an die Beteiligten verteilt werden.
+• Nutzung neuer Technologien Neue Entwicklungen stellen die ETH in verschiedensten Bereichen (Sicherheit, Recht, Ethik etc.) vor neue Herausforderungen. Ziel ist es, das Potenzial und die Herausforderungen neuer Technologien zu bewerten und Empfehlungen für deren Einsatz (oder Nicht-Einsatz) innerhalb der ETH-Verwaltung zu geben.
+• Stakeholder- und Anforderungsmanagement Es soll ein modernes Stakeholder- und Anforderungsmanagement für Digitalisierungsprojekte, das die Bedürfnisse der betroffenen Stakeholder in umsetzbare Anforderungen übersetzt, an der ETH etabliert werden.
+• Prozessabdeckung und -orientierung Ein Ziel der Digitalisierung ist es, Prozesse zu identifizieren, die von einer besseren Unterstützung durch IT-Systeme profitieren könnten. Digitalisierung alleine reicht jedoch nicht aus, da die Prozesse selbst ebenfalls optimiert werden müssen.
+• Digital Literacy Nahezu alle Aufgaben in der ETH-Verwaltung erfordern den Einsatz von IT-Systemen, was bei den Mitarbeitenden ein hohes Mass an digitaler Kompetenz – der so genannten Digital Literacy – voraussetzt.
 Die komplette Strategie können Sie hier herunterladen:
 
+• geschützte Seite Strategie für die Digitalisierung der Verwaltung lock
+• geschützte Seite Roadmap für die Implementierung lock
 Bei Fragen stehen Ihnen Dieter Wüest, Paul Cross oder Kathrin Noack zur Verfügung.
 

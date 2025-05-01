@@ -2,15 +2,17 @@
 
 **Source:** de_news_events/2020/07/tumore-leuchten-lassen-spark-award.html
 
-## Krankhafte Produktion von Gewebe
+**Date processed:** 2025-05-01
+
+## Main article
 
 «Ich kann es kaum glauben, dass wir ausgewählt wurden», sagt Helma Wennemers. «Ich bin sehr stolz auf Matt, der die treibende Kraft hinter unserer Erfindung war». Die Professorin für Organische Chemie hat gemeinsam mit dem ETH-Fellow Matthew Aronoff einen fluoreszierenden Marker entwickelt, der Chirurgen ihre Arbeit erleichtern soll. Dafür wurden die beiden Forschenden nun mit dem «Spark Award 2020» ausgezeichnet.
 
 Der ETH-Vizepräsident Detlef Günther sagt: «Der Fluoreszenzmarker ist eine herausragende Neuentwicklung in der diagnostischen Medizin». Krankhaftes Gewebe könne dank dieser Erfindung sichtbar gemacht werden. An der ETH Industry eWeek – einer virtuellen Veranstaltung der ETH für die Industrie – wird Günther den Preis am 23. September 2020 an das Erfinderteam überreichen.
 
-Die Erfindung ist keineswegs ein Zufallsprodukt. «Wir forschen in meinem Labor seit zehn Jahren an dem Protein Kollagen, um es auf molekularer Ebene besser zu verstehen und damit die Grundlagen für medizinische Anwendungen zu legen», erklärt Wennemers.
+## Krankhafte Produktion von Gewebe
 
-## Die Siegertechnologie
+Die Erfindung ist keineswegs ein Zufallsprodukt. «Wir forschen in meinem Labor seit zehn Jahren an dem Protein Kollagen, um es auf molekularer Ebene besser zu verstehen und damit die Grundlagen für medizinische Anwendungen zu legen», erklärt Wennemers.
 
 Der Körper braucht Kollagen, um Gewebe herzustellen. Bei Krebs und verschiedenen fibrotischen Erkrankungen entsteht allerdings zu viel Gewebe. Um diese krankhafte Produktion von Gewebe sichtbar zu machen, setzen die beiden Forschenden bei ihrer Erfindung auf das Enzym LOX, das die Quervernetzung von Kollagen im Gewebe initiiert. Dort, wo LOX aktiv ist, reichert sich auch ihr Marker an und zeigt damit den Chirurgen, wo sich das krankhaft veränderte Gewebe befindet.
 
@@ -18,9 +20,9 @@ Der Körper braucht Kollagen, um Gewebe herzustellen. Bei Krebs und verschiedene
 
 Wie hoch die Messlatte für die Erfindung von Wennemers und Aronoff lag, zeigt die Qualität der Projekte der vier weiteren Nominierten. Insgesamt verzeichnete die ETH Zürich im vergangenen Jahr 185 Erfindungen.
 
-## Die weiteren Finalisten
-
 Leuchtendes Tumorgewebe: Bei fibrotischen Erkrankungen oder Krebstumoren bildet sich oft unkontrolliert viel Gewebe. Beteiligt an diesem Prozess ist das Enzym LOX, das Kollagen-Proteine im Gewebe zusammenfügt. Matthew Aronoff und Helma Wennemers machen jetzt via LOX Tumorgewebe sichtbar. Sie haben einen fluoreszierenden Marker entwickelt, der sich dort anreichert, wo LOX aktiv ist. Chirurgen sollen so bei Operationen den Tumor vom gesunden Gewebe unterscheiden können.
+
+## Die weiteren Finalisten
 
 Implantate aus dem Drucker: Um verletzte Knochen oder Knorpel nach Unfällen oder Operationen zu ersetzen, haben Elia Guzzi und Mark Tibbitt eine Bio-Tinte für den 3D-Druck von Implantaten aus Kollagen oder Zellen entwickelt. Die Tinte ist beim Druck dünnflüssig und verdickt sie sich gleich nach dem Austritt aus dem Druckkopf. Mittels UV-Bestrahlung oder Hitze erhält das Implantat dann die gewünschte Elastizität, die sich nach der Gewebeeigenschaft richtet.
 

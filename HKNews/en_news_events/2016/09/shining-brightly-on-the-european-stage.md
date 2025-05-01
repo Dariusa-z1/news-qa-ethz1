@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2016/09/shining-brightly-on-the-european-stage.html
 
+**Date processed:** 2025-05-01
+
 ## Leading the way in a range of disciplines
 
 Six scientists from ETH Zurich have triumphed at the prestigious competition for Starting Grants from the European Research Council (ERC). Each will now receive around CHF 1.6 million in funding to advance their research projects. In total, more than CHF 9.3 million will go to researchers who designed their projects at ETH Zurich. The six talented young researchers come from research fields as diverse as visual computing, health science, and quantum optics, but all have one thing in common: scientific excellence.
@@ -12,8 +14,6 @@ In total, 29 ETH researchers applied for the prestigious ERC Starting Grants, wi
 
 It remains unclear whether Switzerland will be able to participate in the Horizon 2020 research programme as a fully associated partner again next year; the outcome is contingent on whether or not it extends the right to the free movement of persons to Croatia. The deadline for the ratification of the Croatia protocol is 9 February 2017 – if it is not ratified by then, Switzerland may be excluded from the European research competition. This would mean that all contracts not signed by the end of this year could retrospectively be deemed invalid, which would also impact the latest six ERC Starting Grant winners. “The clock is ticking. The government now needs to come up with pragmatic solutions,” stresses Detlef Günther. “The ERC Starting Grants are highly respected and advantageous indicators of achievement and are therefore much sought after by young researchers. This uncertain situation may deter the most talented individuals from coming to Switzerland, and the Swiss research community could suffer greatly as a result.”
 
-## ERC Starting Grants
-
 An overview of the projects (alphabetically):
 
 Katrien De Bock , Associate Professor of Exercise and Health, will use her ERC project to study how blood vessels contribute to muscle metabolism and the development of type 2 diabetes. She hypothesizes that muscles and blood vessels intensively communicate with each other, allowing the muscles to function optimally and to adapt to exercise training. She aims to study whether and how this communication is interrupted or affected during the development of type 2 diabetes. To answer these questions, she is combining in vivo, ex vivo and in vitro methods. The ultimate goal is to discover new molecular targets that could be used in therapeutic interventions.
@@ -22,13 +22,13 @@ In recent years, seismic tomography has provided many new insights into the Eart
 
 Rachel Grange is an Assistant Professor in Photonics at the Institute for Quantum Electronics in the Department of Physics. With her ERC Starting Grant, she will research strategies to enhance nonlinear optical signal in oxide nanomaterials to avoid using high power sources and large interaction length. The key idea is to demonstrate strong optical signals in nano-oxides with the material itself and without involving any hybrid effects from other materials such as metals that are lossy. She will investigate two Perovskite nanostructures, barium titanate nanoparticles and lithium niobate nanowires. The emphasis is not only on the photonic properties but also on the fabrication challenges of oxides that are difficult to shape. Her work will foster applications in biology as imaging markers and in optoelectronics as integrated compact optical devices.
 
-## Contact
-
 Otmar Hilliges is an Assistant Professor in Computer Science. The main objective of the ERC funded project is to develop computational tools to allow non-experts to create complex interactive technologies such as wearables, augmented and virtual reality, and personalised assistive technologies. Developing such technologies requires expertise in a diverse set of topics from hardware-level sensor design all the way to the user experience aspects. Therefore, the space of (design) parameters that need to be considered is significantly larger than during the PC era. To address these challenges, he plans to develop novel algorithms to help a non-expert to create interactive systems faster, to explore and compare more alternatives and to find solutions to complex UX design problems more efficiently.
 
 Antti Knowles is interested in the theory of random matrices. These are mathematical objects that describe numerous complex systems, such as electrical conductors, large networks, and large statistical data sets. The goal of the ERC project is to obtain a detailed understanding of two important classes of random matrices: sparse random graphs and random band matrices. The former have applications to large communication networks and the latter to the quantum theory of conduction in metals. The obtained results are expected to provide important insights into the key mathematical questions surrounding these models. Knowles has moved to the University of Geneva, where he will carry out his project.
 
 The European Union wants to reduce CO 2 emissions in the electricity sector by 93–99% by 2050. Johan Lilliestam , Senior Assistant and Lecturer at the Institute for Environmental Decisions, is researching how the energy sector can make the transition to a fully renewable electricity system. In his ERC project, he plans to investigate to what extent this aim and other energy policy objectives – such as lower demand or increased competition in the electricity market – influence each other. To this end, he is analysing where these goals conflict and how other objectives impact the cost of a renewable electricity system and the behaviour of key market participants. The results should help shape conflict-free energy policies to enable a successful European transition to renewables.
+
+## ERC Starting Grants
 
 The European Research Council (ERC) awards these grants to promote independent young scientists of any nationality, with two to seven years of experience following completion of their doctorate and who have highly promising scientific careers. The decisive criterion for awarding the grant is the submission of an outstanding research project undertaken at a public or private research organisation in an EU member state or an associated country. Up to CHF 1.5 million in funding is awarded over five years.
 

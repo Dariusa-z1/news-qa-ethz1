@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2018/05/eth-contribution-wins-golden-lion.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 For the first time ever, a Swiss pavilion was awarded the Golden Lion at the 16th edition of the Venice Architecture Biennale exhibition. Responsible for the "Best National Contribution" is a young team of ETH architects consisting of Alessandro Bosshard, Li Tavor, Matthew van der Ploeg and Ani Vihervaara. They were supported by Alexander Lehnerer, Professor of Architecture and Urban Design, who had already been responsible for the German Pavilion in 2014. At the same time, the Swiss Arts Council Pro Helvetia was also awarded the title of commissioner, i.e. the institution responsible for selecting and organising Switzerland's presence.
@@ -11,6 +13,8 @@ For the first time ever, a Swiss pavilion was awarded the Golden Lion at the 16t
 In the press release by the Pro Helvetia Cultural Foundation, Federal President Alain Berset praises the winning team: "This is an extraordinary success for the young team of architects and underlines the top class of Swiss architecture".
 
 Alessandro Bosshard and Matthew van der Ploeg offered insights into their project ‘Svizzera 240: House Tour’ in a recent interview with ETH News .
+
+## Further award winners
 
 In addition to the young team from "Svizzera 240: House Tour", the following participating architects from ETH Zurich also received awards at the Architecture Biennale.
 

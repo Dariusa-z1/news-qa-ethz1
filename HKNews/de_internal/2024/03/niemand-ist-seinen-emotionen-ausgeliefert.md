@@ -2,7 +2,9 @@
 
 **Source:** de_internal/2024/03/niemand-ist-seinen-emotionen-ausgeliefert.html
 
-## «Gefühle im Griff? Wie Gefühle uns beeinflussen und was wir tun können, um sie erfolgreich zu regulieren»
+**Date processed:** 2025-05-01
+
+## Main article
 
 Frau Dörflinger-Khashman, der Titel des Input-Referats zum Auftakt des Respekt-Programms lautet «Gefühle im Griff? Wie Gefühle uns beeinflussen und was wir tun können, um sie erfolgreich zu regulieren». Warum wurde gerade dieses Thema gewählt? Nadia Dörflinger-​Khashman: Aus mindestens zwei Gründen: Erstens werden Emotionen in der Arbeitswelt oft als unpassend empfunden. Dabei sind Gefühle eine wichtige Informationsquelle. Wo emotionale Energie ist, stecken häufig wichtige Anliegen. Damit diese von anderen gehört werden, ist es wichtig, die eigenen Emotionen im Gespräch so zu regulieren, dass die andere Person daran teilnehmen kann. Ein weiterer Grund ist, dass starke Emotionen – also zum Beispiel Wut, Angst oder Ohnmacht – in Spannungssituationen das differenzierte Denken, das Einfühlungsvermögen oder die Lösungsfindung behindern. Die Fähigkeit zur emotionalen Selbstregulation kann helfen, in schwierigen Momenten konstruktiv miteinander ins Gespräch zu kommen, statt sich in eine Sackgasse zu manövrieren.
 
@@ -12,7 +14,7 @@ Kommen wir nochmals auf das Input-Referat zurück: An wen richtet sich der Vortr
 
 Welche Angebote können wir in Zukunft im Rahmen des Respekt-Programms erwarten? Wir haben ein breites Angebot zusammengestellt, das auf unterschiedliche Aspekte einer wertebasierten Zusammenarbeit eingeht. Im April gibt es zum Beispiel Live-Events mit Fachleuten zu Themen wie Unconscious Bias, Umgang mit Konflikten sowie ein Expertengespräch zum Thema Mobbing. Parallel dazu finden sich auf unserer Webseite auch praktische Tipps und Checklisten für den Arbeitsalltag zu verschiedenen Facetten von Respekt und Zusammenarbeit. Es lohnt sich, das Respekt-Programm zu erkunden. Ich bin überzeugt, dass alle ein Thema finden, das sie umtreibt und sie vertiefen möchten.
 
-## Immer aktuell informiert
+## «Gefühle im Griff? Wie Gefühle uns beeinflussen und was wir tun können, um sie erfolgreich zu regulieren»
 
 Einladung zum Input-Referat
 

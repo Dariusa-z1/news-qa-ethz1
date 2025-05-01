@@ -2,7 +2,9 @@
 
 **Source:** de_internal/2024/03/glaubwuerdigkeit-leidet-nicht-wenn-sich-forschende-politisch-engagieren.html
 
-## Zur Person
+**Date processed:** 2025-05-01
+
+## Main article
 
 Was ist Inhalt und Zweck der Leitlinien? Benedikt Knüsel: Die Leitlinien befassen sich mit dem Science-Policy-Engagement, also damit, wie Forschende politische Entscheidungsträger:innen über wissenschaftliche Erkenntnisse informieren und ihre Expertise in politische Debatten einbringen können. Sie bieten einen Überblick über die Grundsätze, Rollen und Risiken, wenn ETH-Angehörige die Politik beraten oder sich als wissenschaftliche Expert:innen politisch engagieren. Das Ziel ist, dass politische Entscheidungen und Massnahmen basierend auf der besten verfügbaren, wissenschaftlichen Evidenz getroffen werden können. Die Leitlinien sind zudem Ausdruck einer konsolidierten Sichtweise, dass dieses Engagement an der Schnittstelle von Wissenschaft und Politik an der ETH geschätzt und unterstützt wird.
 
@@ -24,8 +26,6 @@ Sollen sich Forschende in öffentlichen, politischen Debatten zu Themen äussern
 
 Ist es denn legitim, wenn Forschende neben ihrer wissenschaftlichen Expertise auch ihre persönliche Meinung kundtun? Das ist grundsätzlich legitim. Sie sollen jedoch ihre Sichtweise als Bürgerin oder Bürger trennen von dem, was sie als Forscherin oder Forscher sagen, auch wenn diese Trennung in der Theorie einfacher ist als in der Praxis. Es ist ein wichtiger Grundsatz, dass Forschende vermeiden sollten, dass ihre eigenen Wertvorstellungen, Präferenzen und Anschauungen als wissenschaftlich gesicherte Tatsachen wahrgenommen werden.
 
-## Immer aktuell informiert
-
 Sollen sich ETH-Forschende in politischen Diskussionen äussern, bei denen die Zielvorstellungen auseinandergehen? Es ist in der Tat so, dass es für Forschende in der Politikberatung weniger Fallstricke gibt, wenn es um technische Fragen geht, die sich klar eingrenzen lassen, und deren Ziele klar formuliert sind – zum Beispiel können sie gut darlegen, was erforderlich ist, damit die Einführung einer elektronischen Identität möglichst sicher, verschlüsselt und vertrauensvoll erfolgt. Demgegenüber hat ein politisches Problem wie die COVID-Pandemie mehrere, wirtschaftliche, gesellschaftliche und gesundheitliche Dimensionen und es bestehen starke Zielkonflikte. Welches die Ziele sind oder wie die zu gewichten sind, ist Teil der politischen Entscheidungsfindung und kann nicht wissenschaftlich beantwortet werden. Entsprechend müssen die Forschenden in der Analyse und Politikberatung ebenfalls mehrere Dimensionen und verschiedene mögliche Auswirkungen berücksichtigen.
 
 Und wie geht das? Indem sie – wie die COVID-19 Science Task Force – interdisziplinär arbeiten, um die verschiedenen Sichtweisen zu verstehen. In solchen Gemengelagen empfehle ich, dass Forschende den politischen Entscheidungsträger:innen die vorhandenen Optionen vorstellen und ihnen aufzeigen, was jeweils die Konsequenzen wären, würden sie umgesetzt. Hingegen wäre ich zurückhaltend damit, eine konkrete Handlungsoption zu empfehlen. Die Entscheidung liegt in solchen Fällen immer bei der Politik.
@@ -45,6 +45,8 @@ Wie ist das, wenn Forschende Empfehlungen zu Abstimmungen oder Wahlen abgeben? I
 Gelten die Leitlinien auch für die internationale Politik? Die Leitlinien sind bewusst so formuliert, dass die ETH die politische Entscheidungsfindung auf allen Ebenen unterstützen möchte: kommunal, kantonal, national und international. Die Leitlinien gelten auch für die internationale Politik. Schliesslich ist es eine Realität, dass viele politische Entscheidungen auf internationaler Ebene zumindest vorgespurt werden, und dass viele ETH-Forschende nicht in der Schweiz sozialisiert worden sind und sich in anderen Ländern einbringen. Dem tragen wir Rechnung.
 
 Wird die Glaubwürdigkeit von Wissenschaftler:innen beeinträchtigt, wenn sie sich politisch engagieren? Studien zeigen, dass die Glaubwürdigkeit nicht darunter leiden muss, wenn sich Forschende in die Politikgestaltung einbringen und sich politisch engagieren. Das Risiko, dass ihre Glaubwürdigkeit zumindest bei gewissen politischen Lagern leidet, steigt wohl, je expliziter sich Wissenschaftler:innen selbst politisch klar für oder gegen spezifische politische Massnahmen aussprechen. Eine wichtige Voraussetzung ihrer Glaubwürdigkeit sind wissenschaftliche Sorgfalt, Integrität und Objektivität, denn auch in der politischen Diskussion kommt es auf sauber begründete Argumente an – gerade vonseiten wissenschaftlicher Expert:innen. Schlussendlich ist aber auch nicht bloss die Glaubwürdigkeit der Forschenden wichtig, sondern auch, dass wir an der ETH zu einer vernünftigen, demokratischen Debatten- und Entscheidungskultur beitragen wollen, in der möglichst gut informiert entschieden wird und die Entscheidungen demokratisch legitimiert sind.
+
+## Zur Person
 
 Benedikt Knüsel ist seit September 2022 Leiter des Science-Policy Interface im Stab Wissenstransfer und Wirtschaftsbeziehungen, das die zentrale Anlaufstelle für Science-Policy-Engagement an der ETH Zürich ist. Davor war er Wissenschaftlicher Berater beim Staatssekretariat für Bildung, Forschung und Innovation. Von 2017 bis 2020 war er Doktorand am Institut für Umweltentscheidungen und am Institut für Atmosphäre und Klima (D-USYS). Seine Dissertation beschäftigte sich mit wissenschaftsphilosophischen Fragen rund um datengetriebene Modelle in der Klimaforschung.
 

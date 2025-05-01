@@ -2,11 +2,9 @@
 
 **Source:** en_news_events/2017/08/medicine-is-becoming-model-driven.html
 
-## About Joachim Buhmann
+**Date processed:** 2025-05-01
 
-- Lino Guzzella: “We have to seize this opportunity” (ETH News 20.06.2017)
-
-- Srdjan Capkun:“It’s always a compromise” (ETH News 19.07.2017)
+## Main article
 
 ETH News: Professor Buhmann, our society is currently going through a fundamental transformation process as the result of digitalisation. To what extent is this also changing medicine? Joachim Buhmann: Forecasting models will play a much greater role in medicine than they do today. Using computers, we can now develop far more complex models than we could in the past. And nowhere is the need for these models more urgent than in medicine. We can collect data from a large number of medical cases and use it to learn about the mechanisms of a disease. At the same time, however, there are so many model parameters to consider that we need machines to process them. Before digitalisation, humans couldn’t study models if their sheer complexity meant we could no longer remember them. Today, however, we can – in that we no longer design the models ourselves but rather consider possible “learning” algorithms, which are then responsible for generating the models. This is known as machine learning.
 
@@ -20,15 +18,17 @@ Doctors also express reservations about passing case histories on to researchers
 
 To what extent will the medical profession change with digitalisation? Allow me to put it in an exaggerated and simplified way: a doctor is, to a large extent, an moderately well-organised database. While a computer will never be a better doctor, as doctors are also present at the bedside and computers can’t communicate empathy satisfactorily, it is true that information systems are the much more reliable repositories of knowledge. The capabilities of a doctor that stem from access to knowledge and knowledge generation are undergoing massive changes due to digital transformation. In our group, we’ve built systems that analyse biopsies from cancer patients. Computers are now as good as the pathologists in some cases, and sometimes even better. What’s more, computers work 24/7 and don’t suffer a performance drop after public holidays.
 
-## Data in the spotlight
-
 In addition to your role as a professor, you are also Vice-Rector for Study Programmes at ETH. Is there a need to adapt medical training? Yes, absolutely. We need to dramatically improve the mathematical education given to doctors. In the new Bachelor’s degree in medicine at ETH, we are trying to diversify the teaching we offer to our students. We’re reinforcing the technological aspects and offering medical informatics as a subject, which is something I’ve pushed a lot.
 
 Do doctors need to become specialists in medical informatics? A doctor must be able to use computers as a tool. They needn’t necessarily be able to write programs, although it would obviously be great if they could. However, they definitively need to be able to recognise when the computer tells them something nonsensical.
 
 In your research, you work on data processing chains. What does this mean? Take cancer patients, for example. First, a biopsy is taken from them. This is dissected, and then other doctors annotate it and draw their conclusions. Later, additional sources of information arrive and must be incorporated. And doctors everywhere are already using tools. A chain of this kind involves applying a variety of complex algorithms to data and ultimately produces a diagnosis, along with a prognosis of the disease’s progression and perhaps a suggested treatment. These conclusions are all predictions. This long chain starts with an unbelievably large volume of data, and at the end you have just a few bits left. Today, no theory exists for checking whether and where essential bits may have been lost in such long data processing chains so that the process chain can then be improved. Developing a theory of this kind for robust algorithms design is a key part of my research.
 
+## About Joachim Buhmann
+
 Joachim Buhmann (58) is a Professor of Computer Science at ETH Zurich. Originally from southern Germany, he leads the Pattern Recognition and Machine Learning working group. His research focus includes pattern recognition and data analysis, with a special emphasis on methodological questions of machine learning, statistical learning theory and applied statistics. He also serves as ETH Zurich’s Vice-Rector for Study Programmes.
+
+## Data in the spotlight
 
 Data is playing an increasingly important role in our society, and is an issue on which ETH Zurich will focus more closely in the coming years. In a series of interviews, ETH News asks researchers at ETH Zurich about the specific topics they are focussed on, and how they see societal development in their field.
 

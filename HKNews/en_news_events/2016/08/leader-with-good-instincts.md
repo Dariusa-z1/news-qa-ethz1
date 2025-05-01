@@ -2,25 +2,21 @@
 
 **Source:** en_news_events/2016/08/leader-with-good-instincts.html
 
+**Date processed:** 2025-05-01
+
 ## A communal responsibility for success
 
 Around 4,000 technical, administrative, research and teaching staff – along with their families and former colleagues – attended this year’s togETHer staff party on Friday 26 August. The motto of this year’s event, held in glorious summer weather at the Hönggerberg campus, was ‘One ETH’. Guests were able to enjoy some culinary treats and live entertainment from different parts of the world.
 
 In his address, ETH President Lino Guzzella explained that the annual togETHer staff party was an opportunity for the entire management team to thank all the university staff for the enormous commitment they consistently show. He took up the theme of ‘One ETH’ and called on all members of the university to work together in developing the ETH spirit. “For the university to succeed, we not only need talent and ability, but a strong sense of community”, the President said.
 
-## No set recipe
-
 With its bottom-up culture and flat hierarchical structures, ETH Zurich offers the perfect environment for this. “But responsibility is an equally vital component of the ETH spirit. In the interest of ‘One ETH’, we all need to pull in the same direction in order to exploit our potential even more effectively. This is the best way to assert the position of ETH as Switzerland’s flagship university at the top of the world rankings”.
 
 Lorenz Hurni is certainly delighted to have won the Golden Tricycle award, “But when I found out I’d won, I wasn’t actually sure why I was nominated,” he says with disarming modesty. And it’s true that he doesn't consciously organise his team around compatibility and family-friendliness. Yet his employees nominated the Professor of Cartography and director of the Institute of Cartography and Geoinformation at ETH Zurich for this year’s Golden Tricycle prize, and the jury agreed with their reasons.
 
-## Just like football
-
 Healthy common sense, flexibility, mutual trust and, above all, the right choice of colleagues are the factors that contribute to the smooth functioning of his well-motivated 26-person team with members from eight countries. “It takes a certain gut instinct,” says Hurni, who has been a professor at ETH since 1996.
 
 That may sound simple, but in fact, it’s quite a challenge. Hurni’s employees don’t just require the qualities typical of scientific work – independence, creativity and problem-solving skills – they also need a high level of mutual consideration and a strong team spirit, a characteristic exemplified by their boss. His job demands versatility: “If my professorship were a football club, I’d be the trainer, the director and the mental coach, all at once. But without the players and the support of competent staff, we still wouldn’t score any goals.”
-
-## Important soft factors
 
 Balancing personal and professional demands in various situations requires individual solutions: “Employees with a long commute can arrange days to work from home, for example, and we do our best to schedule our meetings within the fairly strict crèche opening hours. Fortunately, the ETH also allows a flexible approach to part-time work, meaning we can react quickly to any changes.”
 

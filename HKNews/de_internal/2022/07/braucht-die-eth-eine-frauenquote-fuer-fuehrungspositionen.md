@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2022/07/braucht-die-eth-eine-frauenquote-fuer-fuehrungspositionen.html
 
+**Date processed:** 2025-05-01
+
 ## Pro
 
 Annegret Kern, Mitarbeiterin im Stab Präsident
@@ -12,17 +14,15 @@ In den entscheidenden Positionen sitzen nach wie vor meistens Männer: Sie führ
 
 Die Einführung einer Frauenquote ist eine reale Chance, diesen Kreislauf unbewusster Vorurteile zu durchbrechen und einen sinnvollen Beitrag zur Verbesserung der Chancengleichheit zu leisten. Eine Frauenquote würde vielen qualifizierten Frauen erst die Möglichkeit bieten, sich zu beweisen und ihr volles Potenzial zu entfalten. Gleichzeitig würde sie mehr weibliche Vorbilder schaffen – die wiederum anderen Frauen Mut geben würden, sich eine Führungsposition zuzutrauen.
 
-## Kontra
-
 Zusammen mit den weiteren Massnahmen der ETH für mehr Chancengleichheit kann mit der Erhöhung des Frauenanteils auf der Führungsebene der Grundstein für eine kulturelle Veränderung gelegt werden. Eine Veränderung ist aber nur möglich, wenn verschiedene Menschen ausreichend vertreten und offen für die Stärken und Schwächen der anderen sind. Die Quote zwingt uns, unser Vertrauen nicht nur der Ähnlichkeit, sondern auch der Andersartigkeit zu schenken.
 
 Im besten Fall schaffen wir es durch die Einführung der Frauenquote, den Frauenanteil so zu erhöhen und die Kultur so zu verändern, dass wir schon in einigen Jahren keine Quote mehr brauchen. Dann hätten wir alle unser Ziel erreicht.
 
+## Kontra
+
 Stephanie Habicht, Mitarbeiterin bei den Informatikdiensten
 
 Wenn mich jemand fragt, ob es mehr Frauen in Führungspositionen braucht, sage ich ganz klar: ja. An der ETH und auch generell. Man muss jedoch abwägen, wie man am besten zu diesem Ziel gelangt. Eine Frauenquote würde das Problem der Anzahl vielleicht lösen, aber gleichzeitig neue Probleme mit sich bringen.
-
-## Immer aktuell informiert
 
 So wäre zum einen jede Frau in einer Führungsposition der Frage und dem Misstrauen ausgesetzt, ob sie nur aufgrund ihres Geschlechts oder aufgrund ihrer Eignung dort ist.
 

@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2014/09/fire-protection-course.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Each student will have the opportunity to fight a fire with a portable fire extinguisher under expert guidance.

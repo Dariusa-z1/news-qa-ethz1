@@ -2,31 +2,27 @@
 
 **Source:** de_news_events/2019/09/profil-julia-wysling.html
 
+**Date processed:** 2025-05-01
+
 ## Keine Langeweile
 
 Schon als Kleinkind hat Julia Wysling vom Kinderwagen aus Strassenlaternen gezählt. Das erzählt zumindest ihr Vater gerne, ein Journalist, der das Zahlenflair seiner Tochter bis heute nicht ganz verstehen kann. Doch Wysling konnte schon immer besser mit Zahlen als mit Buchstaben. «Ich ging nach der sechsten statt nach der achten Klasse ins Gymi, so musste ich keine Französischprüfung ablegen.» Es ist das Logische, das Rationale, das Julia Wysling fasziniert. «Es gibt da eher richtig und falsch und weniger Diskussionen.»
 
 Entsprechend entschied sich die heute 28-Jährige vor über zehn Jahren für das mathematisch-naturwissenschaftliche Gymnasium. Ein Entscheid, den sie ganz bewusst traf. «Ich hatte zuvor einen Lehrer, der offenbar davon überzeugt war, dass Frauen nicht in die Naturwissenschaften gehörten, und mir darum stets schlechtere Noten gab.» Daraufhin habe sie der Ehrgeiz erst recht gepackt: «Ich wollte ihm das Gegenteil beweisen.»
 
-## Politische Luft schnuppern
-
 Nach dem Gymnasium wählte Julia Wysling schliesslich ein Mathematikstudium an der ETH Zürich. Eigentlich wollte sie die Zahlen mit etwas Sozialem verbinden. Die Studienberatung empfahl ihr Psychologie. «Das fand ich dann doch etwas weit hergeholt.» Also doch einfach Mathematik. Und warum an der ETH? «Das war – untypisch für mich – zunächst ein irrationaler Entscheid.» Wyslings Mutter hatte an der ETH Pharmazie studiert und schwärmte ihrer Tochter oft von der Zeit an der ETH vor. Zwar spielte Julia Wysling auch mit dem Gedanken, im Ausland zu studieren. Als sie aber die Platzierung der ETH in den internationalen Hochschulrankings sah, war der Fall für sie klar. «Warum in die Ferne schweifen, wenn das Gute so nah ist?»
 
 Bereut hat die Zürcherin ihre Wahl nie – auch wenn sie sich heute vielleicht anders entscheiden würde. «Ich glaube, Bauinge­nieurwesen oder Informatik hätten auch gut gepasst.» Doch sie fühlte sich bei den Mathematikern gut aufgehoben. Obwohl die Männer zahlenmässig dominierten und Wysling in kleineren Vorlesungen teilweise die einzige Frau war, fühlte sie sich nie unwohl. «Die Mathematiker sind sehr sozial.»
 
-## Mehrwert für die Gesellschaft
-
 Julia Wysling konnte in diesem Umfeld auch ihren Drang nach sozialem Engagement ausleben. So war sie bereits während ihres Bachelorstudiums ehrenamtlich im Vorstand des Vereins der Mathematik- und Physikstudierenden in der Eventorganisation tätig. Ein Jahr später präsidierte sie den Verein und organisierte Events für den VSETH, den Studierendenverein der ETH – alles neben dem Studium und ihrem Nebenjob als Assistentin in der Mathematikbibliothek der ETH. «Das Studium hat manchmal schon etwas gelitten.» Doch es habe eben auch viel Flexibilität und Freiheiten zugelassen. Und: «Man muss einfach jeden Tag aufs Neue in Angriff nehmen.» Als Ausgleich zum studentischen, beruflichen und ehrenamtlichen Alltag trieb Wysling viel Sport. «Ich habe während des Studiums den Triathlon für mich entdeckt.» Dieser sei jedoch immer nur ein Hob­by gewesen. «Das einzig Kompetitive daran war, mich selbst zu verbessern.»
 
-2013 kamen Engagement und Studium aber endgültig nicht mehr aneinander vorbei: Julia Wysling wurde zur Präsidentin des VSETH gewählt. Dafür legte sie im Bachelorstudium eine einjährige Pause ein. Ein Jahr, sagt Wysling, in dem sie unglaublich viel ­lernen konnte: im zwischenmenschlichen Umgang, in der Kommunikation, der Koor­dination, dem Management und beim Problem­lösen. Als Repräsentantin von über 15 000 Studierenden unterschiedlicher Herkunft in diversen Bereichen war dies keine leichte Aufgabe. Julia Wysling meisterte sie mit rationalem Denken und Argumentieren. Heute sagt die Mathematikerin: «Ich glaube, es ist besser, Probleme zu haben, die man ­lösen kann, als ein langweiliges Leben ohne Herausforderungen zu führen.»
+## Politische Luft schnuppern
 
-## Julia Wysling
+2013 kamen Engagement und Studium aber endgültig nicht mehr aneinander vorbei: Julia Wysling wurde zur Präsidentin des VSETH gewählt. Dafür legte sie im Bachelorstudium eine einjährige Pause ein. Ein Jahr, sagt Wysling, in dem sie unglaublich viel ­lernen konnte: im zwischenmenschlichen Umgang, in der Kommunikation, der Koor­dination, dem Management und beim Problem­lösen. Als Repräsentantin von über 15 000 Studierenden unterschiedlicher Herkunft in diversen Bereichen war dies keine leichte Aufgabe. Julia Wysling meisterte sie mit rationalem Denken und Argumentieren. Heute sagt die Mathematikerin: «Ich glaube, es ist besser, Probleme zu haben, die man ­lösen kann, als ein langweiliges Leben ohne Herausforderungen zu führen.»
 
 Während ihrer Zeit als VSETH-Präsidentin, einem sehr politischen Amt, konnte sie auch vom Gymnasium profitieren. «Ich war dort in einer politisch sehr interessierten Klasse. Man musste zwangsläufig ebenfalls ein Inte­resse entwickeln, damit man mitreden konnte.» Ihr politisches Flair ging so weit, dass sie später mit der SP für den Zürcher Gemeinderat kandidierte. Dass sie nicht gewählt wurde, stört Julia Wysling nicht. «Ich wollte einfach mal schauen, wie die Politik wirklich funktioniert.» Und? «Oft wird überhaupt nicht rational argumentiert. Das fand ich etwas schockierend.»
 
 Nach dem Zwischenjahr an der Spitze des Studierendenvereins konzentrierte sich Julia Wysling wieder auf ihr Studium. Als verloren sieht die ETH-Alumna das Jahr keinesfalls. «Ich war um unzählige Erfahrungen reicher, konnte viel fürs Leben lernen.» Dies konnte sie auch während des Femtec-Careerbuildingprogramms, an dem sie während dreier Semester teilnahm. Das Förderprogramm für Frauen bereitet Studentinnen gezielt auf die berufliche Praxis und Führungsaufgaben vor.
-
-## Magazin Globe
 
 Nach Abschluss des Masterstudiums in der Forschung zu bleiben, kam für Julia Wysling nicht in Frage. «Dafür hatte ich einfach zu wenig Interesse an der Mathematik», gibt sie zu. Sie wollte etwas tun, das die Menschen weiterbringt, eine soziale Komponente hat. Per Zufall stiess die Absolventin am schwarzen Brett bei der Polymensa auf eine Ausschreibung der Analysis Simulation Engineering (ASE) AG in Zürich. Eine Ausschreibung, hinter welcher der wohl perfekte Job für Julia Wysling steckte.
 
@@ -37,6 +33,8 @@ Die Erkenntnisse und Empfehlungen, die die Mathematikerin aus den Zahlen und Dat
 Auch wenn es seit dem Studienabschluss ruhiger wurde in Wyslings Leben, ist sie immer noch sehr engagiert. Sie organisiert Events für die Alumni Vereinigung der ETH Zürich und trainiert für Halbmarathons und Triathlons. Derzeit hat Julia Wysling aber noch ganz andere Pläne: Zusammen mit ihrem Freund wandert sie vorübergehend nach Paris aus. Während er in der französischen Hauptstadt eine zweijährige Postdoc-Stelle antritt, kann sie aus der Ferne für die ASE weiterarbeiten. Wie es nach diesen zwei Jahren weitergeht, weiss Wysling noch nicht. Irgendwann möchte sie auf jeden Fall nach Zürich zurückkehren. Ihr Ziel bis dahin: Französisch zu sprechen.
 
 Hören Sie Julia Wysling auch gemeinsam mit Nobelpreisträger Richard Ernst im ETH-Podcast , wenn sie darüber sprechen, welche Rolle die ETH in ihrem Leben gespielt hat.
+
+## Julia Wysling
 
 Julia Wysling (28) studierte an der ETH Zürich Mathematik. Nachdem sie sich im Verein der Mathematik- und Physikstudierenden zwei Jahre lang ehrenamtlich engagiert hatte, unterbrach sie ihr Bachelorstudium für ein Jahr und präsidierte den Verband der Studierenden an der ETH (VSETH). Heute arbeitet Wysling als Projektmanagerin in der Personenfluss-Simulation und -Optimierung. Sie ist politisch engagiert und findet ihren Ausgleich zum beruflichen Alltag im Triathlon und Halbmarathon.
 

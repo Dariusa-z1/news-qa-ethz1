@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2018/12/anymal.html
 
+**Date processed:** 2025-05-01
+
 ## Initial test run
 
 Two men lift the 30-kilogram high-tech machine and lower it into the dark shaft using a rope. We put on reflective overalls, trade our shoes for thigh-high rubber boots and attach them firmly to our outfits. Then comes a helmet, a flashlight and disposable gloves for each of us. Fully kitted out, we begin our descent, following the steps down the wall of the shaft one by one until we reach Zurich’s sewerage system, four metres below the surface.
@@ -18,15 +20,11 @@ Peter Fankhauser, co-founder of the ETH spin-off that is commercialising ANYmal,
 
 The goal of the three-year research project entitled THING (sub-Terranean Haptic InvestiGator) is to design robots that can move about on their own and are better able to identify their surroundings. Robots generally use 3D cameras and laser sensors for orientation. But such devices can malfunction in adverse conditions – such as when the ground surface is wet or the air full of dust. That’s why the researchers consider enhanced haptic perception – orientation by touch – to be a possible solution. The project has brought together ETH researchers with colleagues from universities in Edinburgh, Pisa, Oxford and Poznań.
 
-## Underground and offshore
-
 All these institutions are experimenting with ANYmal robots, and the project participants from the various locations meet up on a regular basis. In addition to the tests in the sewerage system, next year the researchers will deploy the robot in a Polish copper mine. That will determine whether it can function in an entirely different microclimate, one characterised by hot, dusty air and gravel surfaces. ETH is represented in the project by the Laboratory for Robotic Systems led by Professor Marco Hutter, who has been conducting research into legged robots for many years. He received support from ETH soon after embarking on this research in the form of an ESOP scholarship and a Pioneer fellowship.
 
 One of the key questions on this first day of testing is whether the robot can find its way around at all in the darkness of the sewerage system. Initially, two helpers with big LED lamps illuminate the surroundings so that we can clearly see what’s going on. Then, Fankhauser asks the helpers to turn off the lamps and radios his colleagues on the surface to tell the robot to use its own lights. The robot’s sense of touch isn’t the only thing that helps it find its way in the dark, as Hutter explains: “The robot uses laser sensors and cameras to scan its surroundings. By identifying irregularities in the surface of the concrete, it can determine where it is at any given moment.”
 
 All that can be seen in the darkness now are the small round LEDs in the robot’s “head”. The atmosphere is other-worldly: the darkness, the sound of rushing water, the electromechanical whirring, the robot’s LED eyes. Then someone breaks the eerie silence ­momentarily with a droll comment: “Its eyes are a bit like a Rottweiler.”
-
-## Huge data volumes
 
 ANYmal can enter spaces too small for humans.
 
@@ -34,9 +32,9 @@ Researchers at ETH have been working on quadrupedal robots since 2009. The first
 
 After almost ten years of research, there’s a lot ANYmal can do. It can not only walk autonomously, but also boasts the sensory capabilities of sight, hearing and touch. These enable it, for instance, to read the air pressure display on a machine, identify sounds and recognise objects – for example to determine whether or not a fire extinguisher is in the right place. The robot can even perform certain manual tasks on its own. Equipped with an additional gripping arm, it can open doors, dispose of refuse or press a lift button. It also delivers data that is more precise than our own eyes, ears and noses can perceive. It can identify the ambient temperature and detect the presence of gases in the air. Its ­latest trick is recognising the composition of the ground beneath it. “Some of its powers are superhuman,” says Fankhauser.
 
-## Magazin Globe
-
 Despite the lack of light in the sewer, the robot seems to be finding its way quite well, plodding through the shallow channel at a leisurely pace. When the high-tech machine reaches a 20-centimetre-high ledge in a dry side arm of the sewer, Fankhauser brings it to a halt with a flick of the joystick. Initially, he is reluctant to give the ­robot the command to climb over the ledge. Although it has easily mastered this manoeuvre in laboratory conditions, down here it is a risky undertaking. “It’s an expensive machine,” says Fankhauser. But he gives it a try anyway. ANYmal doesn’t manage it at its first attempt. It stops at the ledge like a horse balking at a jump. “Default, start again,” radios Fankhauser. Now the robot elegantly places one leg after another over the ledge.
+
+## Huge data volumes
 
 While Fankhauser and Hutter watch the robot continue on its patrol for a while, I return to the surface via the ­entry shaft. Sitting on a bench under a white canopy, their eyes firmly fixed on a laptop, are two assistants from ETH.
 

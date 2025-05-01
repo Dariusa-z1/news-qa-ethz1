@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2017/03/consistently-among-the-best.html
 
+**Date processed:** 2025-05-01
+
 ## Excellence strategy takes effect
 
 The eight researchers are all full or associate professors, and some of them have been for many years. The spectrum of topics covered is broad, ranging from microbiology to systems biology and from organic chemistry to quantum physics. The amounts awarded are between EUR 2 million and EUR 3 million, with the total sum amounting to EUR 20.2 million. Three of the recipients have succeeded in making it into the Champions League of research for a second time. In addition to the grant winners, almost as many researchers – seven – received an A rating (“excellent”) and for all intents and purposes meet the criteria for a grant.
@@ -12,8 +14,6 @@ Looking back at the ERC's first decade, which began in 2007 with the FP7 and Hor
 
 The figures could have been even better: as we know, Switzerland was excluded from two ERC calls for proposals in 2014 after the country passed a referendum to stop mass immigration. The Swiss National Science Foundation therefore ran an alternative programme. Thanks to the ratification of the Croatia protocol last December, Switzerland can once again participate fully in Horizon 2020. “I am very relieved by this development. Participation is crucial for both Switzerland and ETH,” says Detlef Günther. “Our researchers must be able to compete with their European counterparts. The ERC grants have quickly become a prestigious tool for promoting excellent research, with every European research institute applying for them. I am therefore all the more delighted that our scientists in the current call for proposals are able to build on previous ETH successes.”
 
-## Building on previous successes
-
 The eight projects at a glance:
 
 Tilman Esslinger , Professor of Quantum Optics, has been awarded a second ERC Advanced Grant. In his new project, he is examining elementary transport mechanisms in a system that obeys the laws of quantum physics. He wants to find out how matter, heat or magnetic orientation get from A to B. To do so, he and his group will cool atomic gases to temperatures of under 100 nanokelvins. The gases will be trapped in a complex arrangement of light cages and observed using highly sensitive cameras. Understanding transport systems like these is a prerequisite for the construction of devices and computers with new functionalities, in which the effects of quantum physics play a key role.
@@ -21,8 +21,6 @@ Tilman Esslinger , Professor of Quantum Optics, has been awarded a second ERC Ad
 Mustafa Khammash is a professor of Control Theory and Systems Biology. He works at the interface of systems biology, synthetic biology and control theory. In his ERC project he wants to develop new design tools for the real-time control of living cells. The control systems will precisely and robustly steer the dynamic behavior of living cells, either by an external computer or by using novel genetic circuits that are introduced into the cells. The project comprises not only the development of a new theory and new methods, but also of control systems that address important applications in biotechnology and therapeutics.
 
 Beat H. Meier is a Professor of Physical Chemistry and specialises in investigating the atomic resolution structure of biomolecules using nuclear magnetic resonance (NMR). In his ERC project, Meier wishes to develop this technology further, and in particular to determine the atomic structure of complex biological systems with a higher spatial resolution. Such systems are, for example, proteins that are inserted into biological membranes as well as amyloid proteins, which form fibrils and play a role in Alzheimer’s disease. Meier wants to achieve the higher resolution by refining the mechanics for significantly faster sample rotation and by improving the radio frequency pulse technology.
-
-## Contact
 
 Frédéric Merkt , Professor of Physical Chemistry, will use his ERC project to explore chemical reactions of charged atoms and molecules (ions) with molecules at extremely low temperatures, paying particular attention to quantum-physical effects. To date, it has been difficult to conduct experiments just above absolute zero (minus 273 degrees Celsius) with ions, as small stray electric fields can warm the ions at these temperatures. To obtain the measurements, Merkt and his research group will protect the ions and reactants from stray fields by placing them within the orbit of a highly excited (Rydberg) electron. This is Merkt's second ERC Advanced Grant; he received his first in 2008.
 

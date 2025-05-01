@@ -2,11 +2,19 @@
 
 **Source:** en_internal/2021/01/eth-research-data-management-summer-school-2021.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
-Research Data Management (RDM) is vital for researchers to ensure the proper organisation of research data along the entire life cycle from creation to preservation, including their sharing as open data (FAIR data).
-
 Sessions of the ETH Research Data Management Summer School cover the following topics:
+
+• Broad introduction to research data management and aspects of open science
+• Daily data management during the course of a research project
+• Reproducible data management and analysis
+• Open access to publications
+• Sharing and publishing research data
+• Long-term preservation of research data
+Research Data Management (RDM) is vital for researchers to ensure the proper organisation of research data along the entire life cycle from creation to preservation, including their sharing as open data (FAIR data).
 
 The ETH Research Data Management Summer School takes place from 14 June to 18 June 2021. Event language is English. Doctoral students can obtain 2 ECTS points.
 

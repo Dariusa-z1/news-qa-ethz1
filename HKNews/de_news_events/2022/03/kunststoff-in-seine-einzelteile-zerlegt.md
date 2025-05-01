@@ -2,31 +2,27 @@
 
 **Source:** de_news_events/2022/03/kunststoff-in-seine-einzelteile-zerlegt.html
 
+**Date processed:** 2025-05-01
+
 ## Ziel ist, Polymere zu zerlegen
 
 Seit langem stellt die Chemie Polymere her. Dabei werden aus kleinen Molekül-Bausteinen lange Molekülketten hergestellt werden, die sich miteinander verbinden. Polymere sind die Grundlage von allen möglichen alltäglichen Kunststoffen wie PET oder Polyurethan.
 
 Während die Bildung von Polymeren etabliert und gut erforscht ist, haben Wissenschaftler bisher jedoch kaum untersucht, wie Polymerketten wieder abgebaut werden, um die einzelnen Bausteine, die Monomere, zurückzugewinnen. Ein Grund dafür ist, dass der Abbau komplex ist. Es gibt verschiedene Herstellungsverfahren von Polymeren, und diese entscheiden, ob sich ein Polymer überhaupt wieder in seine Einzelteile zerlegen lässt. Zudem braucht es für bisherige Abbauverfahren viel Energie, was sie wirtschaftlich unattraktiv macht. Darüber hinaus werden rezyklierte Polymere meistens nur für niederwertigere Produkte verwendet.
 
-## Erster Erfolg
-
 Dies möchte Athina Anastasaki, Professorin für Polymere Materialien der ETH Zürich, ändern. Sie hat sich zum Ziel gesetzt, Polymere zu erzeugen, die gut in ihre Bausteine zerlegt werden können, sodass diese vollumfänglich wiederverwertet werden können.
 
 Nun hat die Materialwissenschaftlerin einen ersten wichtigen Schritt in diese Richtung gemacht: Soeben ist in der Fachzeitschrift externe Seite Journal of the American Chemical Society eine Studie ihrer Gruppe erschienen. Darin zeigen Anastasaki und ihre Mitarbeitenden auf, dass sie bestimmte Polymere in ihre Grundbausteine, die Monomere, zerlegen und diese für weitere Anwendungen wiederverwerten können.
-
-## Gleiches oder anderes Produkt erzeugen
 
 Bei den abgebauten Polymeren handelt es sich um Polymethacrylate (z.B. Plexiglas), die mittels einer bestimmten Polymerisationstechnik (Reversible addition-fragmentation chain-transfer polymerisation, RAFT) erzeugt wurden. Diese verhältnismässig junge Methode, für die sich mittlerweile auch die Industrie interessiert, erzeugt Polymerketten von einheitlicher Länge.
 
 Den Forschenden der ETH Zürich ist es gelungen, bis zu 92 Prozent der Bausteine der Polymethacrylate zurückzugewinnen, und zwar ohne einen Katalysator beizufügen, welcher die Reaktion ermöglichen oder beschleunigen würde. «Es ist denkbar, unsere Methode noch weiterzuentwickeln und einen Katalysator einzusetzen. Damit könnte man die Ausbeute weiter erhöhen», sagt Anastasaki.
 
-## Methode wird Plastikproblem kurzfristig nicht lösen
-
 Für den Rückbau entscheidend ist die chemische Gruppe, die am Ende einer Polymerkette vorhanden ist. Indem die Forschenden das Polymer-Lösungsmittelgemisch auf 120 Grad Celsius erhitzten, entstanden am Ende einer Polymethacrylat-Kette sogenannte Radikale, welche den Abbau (die Depolymerisation) auslösten. Mitarbeitende der Australischen Nationaluniversität in Canberra konnten die Resultate rechnerisch bestätigen.
 
 Aus den zurückgewonnenen Bausteinen lassen sich gemäss Anastasaki das gleiche Polymer oder ein völlig anderes Produkt, ein unlösliches Hydrogel, das ebenfalls in seine Monomere zerlegbar ist, herstellen. Die neu erzeugten Produkte sind gleichwertig wie das ursprüngliche Produkt. Das steht in Kontrast zu bisherigen Produkten, die aus rezyklierten Polymeren hergestellt wurden.
 
-## Literaturhinweis
+## Methode wird Plastikproblem kurzfristig nicht lösen
 
 Die Sache hat aber einen Haken: «Produkte, die mit der RAFT-Polymerisation hergestellt werden, sind teurer als herkömmliche Polymere», sagt Anastasaki. Um diesen Nachteil anzugehen, arbeiten sie und ihre Gruppe bereits daran, die Methode für Anwendungen im grossen Massstab aufzuweiten, was die Methode konkurrenzfähiger und Produkte günstiger werden lässt. Weiter zielen die Forschenden darauf ab, die Ausbeute zu erhöhen und alle Bausteine eines Polymers zurückzugewinnen.
 
@@ -35,6 +31,8 @@ Zudem erforscht die Materialwissenschaftlerin, ob sich andere Polymere ebenfalls
 Auch wenn dieses neue Verfahren Hoffnung darauf macht, das Plastikmüllproblem der Menschheit zu lösen, winkt Anastasaki vorerst ab. Einen sofortigen Effekt werde man nicht erzielen. «Es wird noch viel Zeit und Forschung brauchen, um das Verfahren in der chemischen Industrie zu etablieren», sagt Anastasaki. Auch wird man damit den Plastikmüll nicht los. Heutige Polymere lassen sich auf diese Weise nicht abbauen. Es müssen also zuerst neue, geeignete Polymere in Umlauf kommen, um von diesen die Bausteine zurückgewinnen zu können. Einen Vorteil aber hat die Methode: Um sie einzuführen und anzuwenden, sind keine neuen Chemieanlagen nötig.
 
 «Mit der Erforschung der Depolymerisation stehen wir erst am Anfang. Es gibt über 30'000 Studien zur Entwicklung neuer Polymerisationsstrategien, aber erst eine Handvoll über die Rückgewinnung der Monomere», sagt Anastasaki.
+
+## Literaturhinweis
 
 Wang HS, Truong NP, Pei Z, Coote ML, Anastasaki A. Reversing RAFT Polymerization: Near-Quantitative Monomer Generation Via a Catalyst-Free Depolymerization Approach. Journal of the American Chemical Society, February 25, 2022. doi: externe Seite 10.1021/jacs.2c00963
 

@@ -2,45 +2,47 @@
 
 **Source:** de_news_events/2015/10/vorkaempfer-vordenker-und-vorbilder-fuer-die-raumplanung-schweiz.html
 
+**Date processed:** 2025-05-01
+
 ## Harziger Start für die Schweizer Raumplanung
 
 Die Raumplanung Schweiz steht zur Zeit vor einer ganzen Reihe von Herausforderungen: Siedlungsentwicklung nach innen, Schutz des Kulturlandes, Umsetzung der Zweitwohnungsinitiative, zweite Etappe der Revision des Raumplanungsgesetzes. Hinzu kommt das Ziel, Agglomerationen, ländliche Räume und Berggebiete kohärent zu entwickeln. Wenn man vor neuen Aufgaben steht, lohnt sich oft ein Blick zurück – um die wesentlichen bisherigen Trends und Treiber zu erkennen und Rückschlüsse auf die zukünftige Entwicklung machen zu können.
 
-Die Geschichte der Raumplanung Schweiz nahm ihren Anfang in der Sorge um die Verschandelung der Landschaft und die unwiderrufliche Zerstörung unseres Lebensraumes. Die Städte wuchsen rasch ins Umland, viele Seeufer wurden verbaut. Nach dem Zweiten Weltkrieg breitete sich das Automobil rasant aus. Dies löste in den Städten und auf dem Land schon bald einen regen Neubau von Strassen aus. Obwohl es bereits in den 1930er Jahren Bemühungen gab, eine institutionalisierte Raumplanung zu etablieren, trat das Eidgenössische Raumplanungsgesetz erst Anfang 1980 in Kraft. Vor allem während des Wirtschafts- und Baubooms der 1950er und 1960er Jahre «passierte» daher vieles einfach, weil die nötigen Rechtsgrundlagen fehlten und zahlreiche Gemeinden auf die rasche Entwicklung nicht vorbereitet waren.
-
 ## «Macher» bereiteten den Weg
+
+Die Geschichte der Raumplanung Schweiz nahm ihren Anfang in der Sorge um die Verschandelung der Landschaft und die unwiderrufliche Zerstörung unseres Lebensraumes. Die Städte wuchsen rasch ins Umland, viele Seeufer wurden verbaut. Nach dem Zweiten Weltkrieg breitete sich das Automobil rasant aus. Dies löste in den Städten und auf dem Land schon bald einen regen Neubau von Strassen aus. Obwohl es bereits in den 1930er Jahren Bemühungen gab, eine institutionalisierte Raumplanung zu etablieren, trat das Eidgenössische Raumplanungsgesetz erst Anfang 1980 in Kraft. Vor allem während des Wirtschafts- und Baubooms der 1950er und 1960er Jahre «passierte» daher vieles einfach, weil die nötigen Rechtsgrundlagen fehlten und zahlreiche Gemeinden auf die rasche Entwicklung nicht vorbereitet waren.
 
 Raumplaner hatten es in der damaligen Zeit schwer: Raumplanung war wegen der damit verbundenen Eingriffe ins Eigentum politisch nicht salonfähig, ein wirksames rechtliches Instrumentarium war nicht zur Hand, und es gab auch keine Ausbildungsmöglichkeiten in der Schweiz. Trotzdem finden sich in der Raumplanungsgeschichte Persönlichkeiten, die sich leidenschaftlich und beherzt für einen verantwortungsvollen Umgang mit dem Lebensraum einsetzten. Sie engagierten sich für das Wohl der Menschen und für den Schutz der Landschaft, der Gewässer und der natürlichen Ressourcen. Es war ihnen ein zentrales Anliegen, schützenswerte Gebäude und Ortsbilder sowie wertvolles Kulturland zu erhalten und Landwirtschaftsflächen zu sichern.
 
 In den vergangenen zehn Jahren hatte ich im Rahmen des Projektes «Ideengeschichte der Raumplanung Schweiz» die Gelegenheit, Zeitzeugen zu interviewen (siehe externe Seite Buch ). Die Begegnungen mit den Pionieren, die sich in einer Zeit mit denkbar schlechten Rahmenbedingungen überaus mutig und ideenreich für die Anliegen der Raumplanung Schweiz engagierten, haben bei mir einen tiefen Eindruck hinterlassen.
 
-## Jubiläumsausstellung «Die Schweiz plant»
-
 Es waren «Macher», die neue Wege gingen, neuartige Instrumente entwickelten und sich mit Nachdruck für die Menschen, die Natur und den Lebensraum als Ganzes einsetzten. Es sind bewegte Biographien, aber auch mitreissende Geschichten. Sie erzählen nicht nur von der Not, kein rechtliches Instrumentarium zur Verfügung zu haben, sondern auch von den Freiheiten, die man für Innovationen nutzte. Argumente mussten schlagkräftig sein, Verhandlungen hartnäckig geführt werden. Einig sind sich alle damaligen Akteure über die Bedeutung des Bundesbeschlusses über dringliche Massnahmen auf dem Gebiet der Raumplanung von 1972: Er war ein Meilenstein in der Geschichte der Raumplanung. Marius Baschung, erster Direktor des 1980 neu gegründeten Bundesamts für Raumplanung, stellte rückblickend fest: «er [der Bundesbeschluss] war ein Hammerschlag, ein revolutionärer Akt bezüglich des Föderalismus. Er kam aus heiterem Himmel.… [und] ist etwas vom Besten, das der Bund in Sachen Raumplanung und Umwelt je geleistet hat.»
 
-anlässlich 50 Jahre Raumplaner-ausbildung an der ETH Zürich
+## Jubiläumsausstellung «Die Schweiz plant»
 
-## ETH bildet ab 1965 Planer aus
+anlässlich 50 Jahre Raumplaner-ausbildung an der ETH Zürich
 
 Die Ausstellung beleuchtet den langen und oftmals steinigen Weg zur «Raumplanung Schweiz» und setzt sich mit den Motivationen der Raumplanungspioniere, der Institutionalisierung der Raum- planung und der Ausbildung an der ETH Zürich auseinander.
 
 Donnerstag, 29. Oktober bis 10. November 2015
 
-## Zur Autorin
-
 ETH Zürich, Haupthalle, Rämistrasse 101 Vernissage Donnerstag, 29. Oktober um 19.00 Uhr Abendführung, Donnerstag 5. November um 18.00 Uhr
 
 Weitere Informationen finden Sie hier .
 
-## Kinoabend «Erlebte Schweiz»: Die Schweiz gestalten
+## ETH bildet ab 1965 Planer aus
 
 Auch die Ausbildung für Raumplanung an der ETH Zürich wurde ab 1965 mit grosser Experimentierfreudigkeit aufgebaut – zuerst mit Kursen für Ortsplaner, ab 1967 mit einem eigentlichen Nachdiplomstudium in Raumplanung. Praxisbezug und Interdisziplinarität standen von Anfang an im Zentrum. Hans Rudolf Isliker, Absolvent des Kurses 1965/67 und später stellvertretender Direktor des Bundesamtes für Verkehr, erinnert sich: «Wir, die Vorkämpfer, störten uns nicht daran [dass wir Versuchskaninchen waren]. Wir hatten von vielen Freiheiten profitiert und reichlich Selbstbewusstsein gewonnen, so dass wir uns nahtlos in die aufkommende grosse Pionierzeit der schweizerischen Raumplanung einbringen konnten.»
 
 Heute haben wir ein Raumplanungsgesetz mit zugehöriger Verordnung, ein etabliertes Instrumentarium, erprobte Aus- und Weiterbildungsangebote und auf geographischen Informationssystemen basierte Datengrundlagen. Das sind – verglichen mit den frühen Jahren der Raumplanung – komfortable Ausgangsbedingungen, um die anstehenden Herausforderungen erfolgreich in Angriff zu nehmen. Und trotzdem können uns die Raumplanungspioniere etwas mit auf den Weg geben: ihren Mut, ihre Entschlossenheit, ihre Experimentierfreudigkeit und den Willen, neue Lösungen zu (er)finden, um für uns und künftige Generationen den Lebensraum nachhaltig zu planen und zu gestalten.
 
+## Zur Autorin
+
 Wissenschaftliche Delegierte NSL Archiv gta,
 
 Netzwerk Stadt und Landschaft NSL, ETH Zürich
+
+## Kinoabend «Erlebte Schweiz»: Die Schweiz gestalten
 
 Mit historischem Filmmaterial beleuchtet dieser Kinoabend, wie sich die Vorstellungen vom Raum Schweiz und räumlichen Phänomenen gewandelt haben. Die Filmdokumente machen Veränderungen im Raum eindrücklich sichtbar und zeigen, wie sich das raumplanerische Denken entwickelt hat.
 

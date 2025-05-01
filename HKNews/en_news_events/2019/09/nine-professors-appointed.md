@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2019/09/nine-professors-appointed.html
 
-## Award of the title of “Professor”
+**Date processed:** 2025-05-01
+
+## Main article
 
 All of the professors had already established themselves as experts in their fields before the ETH Board appointed or promoted them.
 
@@ -18,8 +20,6 @@ Professor Dennis Hofheinz (*1979), currently Full Professor at Karlsruhe Institu
 
 Professor Gabriela Hug (*1979), currently Associate Professor at ETH Zurich, as Full Professor of Electric Power Systems. Gabriela Hug is an internationally acclaimed, prize-winning scientist. Her work lies in the field of designing and optimising the energy networks of the future. Its emphasis is on integrating renewable energies into the energy networks, thus supporting the gradual withdrawal from fossil fuels. She is striving to achieve the optimal control of network management by means of dispersed, decentralised control systems. Her strong practical orientation is demonstrated by prestigious industry partnerships. By appointing Gabriela Hug to a full professorship, ETH Zurich is securing a highly innovative and productive scientist with great potential.
 
-## Departures from ETH
-
 Professor Giacomo Indiveri (*1967), currently Associate Professor at the University of Zurich, as Associate Professor of Neuromorphic Cognitive Systems. Giacomo Indiveri conducts research into natural neural structures and processes in the brain with a view to replicating them artificially and utilising them in the computer sciences. He aims to make use of neuromorphic principles in order to build autonomous cognitive systems such as cochlear implants – a type of auditory prosthesis for the deaf. Giacomo Indiveri’s work has already been awarded two ERC Grants. With his appointment to a dual professorship, ETH Zurich is strengthening its competencies in the field of neuromorphic engineering and deepening its collaboration with the University of Zurich.
 
 Professor Christoph Müller (*1978), currently Associate Professor at ETH Zurich, as Full Professor of Energy Science and Engineering. Christoph Müller is an internationally prominent scientist with excellent networks both in the scientific community and within ETH Zurich. He received an ERC Consolidator Grant in 2018. He works on research problems at the interface between the mechanical and chemical engineering sciences, with the aim of developing new energy conversion processes with massively reduced CO 2 emissions. In his work, he has successfully developed both numerical and experimental methods. By appointing Christoph Müller as a full professor, ETH Zurich is securing a brilliant scientist who is highly committed to the development of the Federal Institute.
@@ -28,7 +28,11 @@ Professor Romain Quidant (*1978), currently Professor at the Institute of Photon
 
 Professor Konrad Tiefenbacher (*1980), currently Tenure Track Assistant Professor at the University of Basel and at the Department of Biosystems at ETH Zurich, as Associate Professor of Synthesis of Functional Modules (dual professorship with the University of Basel). Konrad Tiefenbacher's research in the field of self-assembled catalytically active molecular capsules grapples with a very challenging supramolecular topic at the interface between organic chemistry and biochemistry. The outstanding quality and originality of Konrad Tiefenbacher’s research has been recognised by the award of an ERC Starting Grant, among others. With his appointment to an associate professorship, ETH Zurich is boosting its profile in a future-oriented field of study.
 
+## Award of the title of “Professor”
+
 Dr Jürg Schweizer (*1960), currently Head of the WSL Research Unit for Snow Avalanches and Prevention in Davos, and Lecturer at ETH Zurich, as Adjunct Professor at ETH Zurich. Jürg Schweizer is one of the world's leading researchers in the field of snow mechanics, avalanche science and avalanche rescue. He has excellent connections both within Switzerland and internationally, and is a committed member of several national and international scientific bodies. His teaching at ETH Zurich is consistently rated by students as being very good.
+
+## Departures from ETH
 
 Professor Marc Angélil (*1954), currently Full Professor of Architecture and Design, retired at the end of July 2019. Marc Angélil joined ETH Zurich in 1994 and was appointed to his present post in 1997. His research interests cover developments in urban design as well as the investigation of socio-spatial structures in metropolitan regions of Europe, Asia and the USA. His focus is on drawing up strategies to support sustainable urban development processes. He has always shown great dedication to ETH Zurich and his department, and has served in a variety of leading roles and functions. Alongside his successful academic activity, he works as an architect in an architecture firm that he manages with two partners, with offices in Los Angeles and Zurich.
 

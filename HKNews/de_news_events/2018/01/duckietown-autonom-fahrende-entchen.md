@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2018/01/duckietown-autonom-fahrende-entchen.html
 
+**Date processed:** 2025-05-01
+
 ## Probleme in Teams lösen
 
 Eine Kamera, ein günstiger Mini-Rechner, ein Chassis, Räder und Led-Lämpchen: Viel mehr braucht es nicht für einen «Duckiebot». So nennen Andrea Censi und Jacopo Tani – Dozenten des neuen Kurses für autonomes Fahren an der ETH Zürich – die kleinen Robotertaxis. Censi und Tani sind Oberassistenten in der Forschungsgruppe von Emilio Frazzoli, Professor am Departement für Maschinenbau und Verfahrenstechnik und weltweit angesehener Spezialist für autonome Systeme.
@@ -10,19 +12,19 @@ Am Dienstag haben sie ihr Lehrprojekt «Duckietown» in der Haupthalle der ETH Z
 
 Bis das klappt, brüten die Studierenden tagelang über Hard- und Software. Was wie ein Kinderspiel aussieht, ist hochkompliziert. So kompliziert, dass die Studierenden die Aufgaben nur gemeinsam lösen können. In Gruppen arbeiten sie während eines Semesters an einem Teilgebiet. Der Kurs setzt auf globale Kollaboration. Masterstudierende von der ETH Zürich, der Universität Montréal und dem Toyota Technological Institute in Chicago arbeiten zeitgleich an demselben Projekt.
 
-## Komplizierter als im Buch
-
 Censi entwickelte den Kurs zusammen mit Frazzoli und Liam Paull, heute Professor an der Universität Montréal, Ende 2015 am Massachusetts Institute of Technology (MIT). 2017 kam Censi mit Frazzoli an die ETH, wo sie Duckietown weiterentwickeln.
 
 Censi sagt: «Wir legen viel Wert darauf, den Kurs zu einem Gemeinschaftserlebnis zu machen». In Teams koordiniert und unter Zeitdruck ein Grossprojekt zu meistern ist ein Lernziel – und eine Fähigkeit, die in der Industrie gefragt ist. Nicolas Lanzetti, Masterstudent in Robotics and Control, sagt: «Normalerweise lernen wir alleine für unsere Prüfungen. Hier haben wir als Klasse ein gemeinsames Ziel: Am Ende müssen die Gruppenprojekte alle zusammenspielen».
 
 Masterstudentin Sonja Brits ergänzt: «Wir hatten viel Freiheit, wie wir das Projekt anpacken und zusammenarbeiten. Dadurch aber auch eine grosse Verantwortung gegenüber den Mitstudierenden». Censi sieht darin die Zukunft des Lernens: «Die Theorie, das Basiswissen, kann online verfügbar gemacht werden. Das Wertvolle einer Hochschule wie der ETH Zürich ist, dass sich an einem Ort so viele talentierte Fachspezialisten begegnen und zusammenarbeiten».
 
-## Vom Labor auf den Asphalt
+## Komplizierter als im Buch
 
 Eine grosse Herausforderung der Robotik und des autonomen Fahrens liegt im Zusammenspiel verschiedener Elemente. Hardwarekomponenten, Sensoren und Motoren müssen in Einklang gebracht werden. In jedem Duckiebot selbst – und in der autonomen Flotte auch untereinander. Die Zähne beissen sich die Studierenden dabei nicht an der Theorie aus, sondern an den praktischen Details: Makelhafte Hardware, Komponenten, die nicht harmonieren, Pläne, die nicht aufgehen. Censi sagt: «Die Studierenden erkennen dank Duckietown, dass die Dinge nicht so funktionieren, wie es in den Büchern steht. Es gibt in der Robotik keine vollkommenen Systeme. Hier lernen sie, damit umzugehen.»
 
 Während die Studierenden den Ententaxis beibringen, der Seitenlinie ohne Ruckler zu folgen, sich nicht von Sonnenlicht ablenken zu lassen oder sauber einzuparken, schaffen sie auch Pionierarbeit. Die Gruppen arbeiten alle an demselben Code. In Dokumentationen machen sie ihre Lösungen für kommende Studierende verfügbar – und darüber hinaus für Forschende auf der ganzen Welt: Das Projekt folgt dem Open-Source-Gedanken. Unterrichtsmodule, Code und Dokumentation sind online frei verfügbar. Censi erhofft sich dadurch, Robotik-Faszinierte anderer Institutionen dazu zu bringen, Duckiebots im Schwarm autonom fahren zu lassen.
+
+## Vom Labor auf den Asphalt
 
 Die Chancen stehen gut, dass Wissen und Codezeilen aus dem Kurs künftig auch Autos auf echten Strassen lenkt. Emilio Frazzoli ist Mitgründer der Firma Nutonomy, die in Singapur und anderen Städten einen Taxidienst mit autonomen Fahrzeugen plant. Andrea Censi arbeitet dort als Systems Architect.
 

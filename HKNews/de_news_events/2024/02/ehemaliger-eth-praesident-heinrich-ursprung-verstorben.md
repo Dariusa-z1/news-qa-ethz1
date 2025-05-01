@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2024/02/ehemaliger-eth-praesident-heinrich-ursprung-verstorben.html
 
+**Date processed:** 2025-05-01
+
 ## Internationale Karriere als Wissenschaftler
 
 Heinrich Ursprung war nicht nur von ganzem Herz Wissenschaftler, sondern auch ein Mann, der sich für die Belange der Wissenschaft auf politischem Parkett eingesetzt hat. «Er hat die universitäre Landschaft der Schweiz massgeblich geprägt, als Präsident der ETH Zürich, danach des Schweizerischen Schulrats, also des heutigen ETH-Rats, und als erster Staatssekretär für unseren Bereich. Wir profitieren noch heute von seinen Initiativen», sagt Joël Mesot, Präsident der ETH Zürich.
@@ -10,15 +12,11 @@ Heinrich Ursprung wurde am 13. März 1932 in Zurzach geboren, wo er auch die Sch
 
 Als Professor publizierte Heinrich Ursprung unter anderem zur Entwicklungsbiologie und erhielt zahlreiche Auszeichnungen und Ehrendoktorate. Er war ein engagierter Forscher und Lehrer, stets aufgeschlossen für neue Entwicklungen, besonders im Bereich der Biologie. Eine erfolgreiche Lehrtätigkeit zeugt von diesem Engagement. Er war auch ein aufmerksamer Zuhörer und hat sich für alternative Ideen und Vorschläge interessiert.
 
-## ETH-Präsident in herausfordernden Zeiten
-
 Bundesrat Hans-Peter Tschudi bietet Heinrich Ursprung im Sommer 1973 das Präsidium der ETH an. «Und dann hat er gesagt, er verbiete mir – mit diesem Verb – weiterhin in der Forschung tätig zu sein, Vorlesungen zu halten, Bücher zu schreiben, als Herausgeber von Büchern oder als Präsident von Fachgesellschaften tätig zu werden. Begründung: ETH-Präsidium sei ein Vollamt, über hundert Prozent», schilderte ein schmunzelnder Heinrich Ursprung in einem Interview von 2016 die Umstände seiner Wahl zum Präsidenten der ETH Zürich und zum Vizepräsidenten des Schweizerischen Schulrates, der Vorläufer-Organisation des heutigen ETH-Rats.
 
 In seiner Funktion als ETH-Präsident galt Ursprung als sehr führungsstark in einer für die Hochschule schwierigen Phase. So galt von 1974 bis 1986 ein Personalstopp, der nur neues ermöglichte, wenn auf Altes verzichtet wurde.
 
 Ursprung gestaltete die moderne ETH nachhaltig mit. Bei den Berufungen war er seiner Zeit voraus. Im gleichen Interview erzählte er, wie er sämtliche Kommissionen selbst präsidiert und in den 14 Jahren aus 6'700 Dossiers dem ETH-Rat insgesamt 129 Berufungen vorgeschlagen habe. Er betrieb bereits Headhunting und hat für Zukunftsgebiete gezielt Forschende von amerikanischen Spitzenuniversitäten abgeworben. Ebenso war er federführend bei der Einführung der damals neuen Studienrichtungen Informatik, Biotechnologie und Werkstoffwissenschaften.
-
-## Ursprung prägte das ETH-Gesetz mit
 
 Aber auch nach seine Zeit als ETH-Präsident war sein Einfluss auf den ETH-Bereich riesig. Von 1987 bis 1990 war er Präsident des Schweizerischen Schulrates und von 1990 bis 1997 Direktor der Gruppe für Wissenschaft und Forschung – ab 1992 als Staatssekretär. Es war die Vorgängerorganisation des heutigen Staatssekretariats für Bildung, Forschung und Innovation (SBFI).
 

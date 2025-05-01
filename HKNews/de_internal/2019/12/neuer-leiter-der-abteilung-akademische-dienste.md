@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2019/12/neuer-leiter-der-abteilung-akademische-dienste.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Dr. Hermann Lehner studierte Informatik an der ETH Zürich und promovierte 2011 ebenfalls an der ETH Zürich. Während seines Studiums war er an studentischen Aktivitäten auf verschiedenen Ebenen beteiligt: Er war Präsident des Fachvereins der Informatik und Präsident des Fachvereinsrates, zudem engagierte er sich im Vorstand des VSETH, ASVZ und im Mittelbauverein der Informatik. Nach der Promotion wechselte er zur Incentage AG, wo er zuerst Senior Software Engineer und dann Teamleiter der Entwicklungs­ab­tei­lung war.

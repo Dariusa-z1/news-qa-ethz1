@@ -2,19 +2,15 @@
 
 **Source:** en_internal/2018/10/welcome-to-the-future.html
 
+**Date processed:** 2025-05-01
+
 ## Mixed reality on the rise
 
 One of the biggest innovations is “mixed reality”, which enables students to study virtual objects using 3D glasses. The HoloLens from Microsoft was used for the first time at ETH at the start of the year – students on the Computer-Assisted Drug Design course in the Department of Chemistry and Applied Biosciences used it to study proteins. When you look through the HoloLens you can see the actual room you are standing in as well as a hologram – in this case, a protein – which you can walk round, explore and even step right through.
 
-## “Roles are changing”
-
 The project was initiated by LET, who asked for suggestions on how the glasses could be used for teaching. Thanks to a donation from an ETH alumnus, 12 pairs of glasses were purchased last year. Andreas Reinhardt, Head of Innovation Management for LET, says: “We are currently evaluating where mixed reality can provide added value in the context of teaching.” His team plans and assesses the use of new technologies and methods and supports lecturers when it comes to implementation. Reinhardt is convinced: “Virtual teaching situations are going to take off in a big way in future.”
 
-## Subscribe to Newsletter
-
 This opinion is shared by Sarah Frédérickx, Educational Developer in the Department of Health Sciences and Technology (D-HEST). “I believe that, in 30 years’ time, teaching will take place in virtual space rather than in a physical location,” she says. “It is possible that we will interact with each other as holograms rather than in person.” Benno Volk, Deputy Head of LET, says it is difficult to look so far into the future. But he is confident that ETH Zurich will still be an important physical site in 2050. “However, the rooms will be designed more for practical learning than traditional teacher-centred teaching.”
-
-## Staffnet
 
 Students in D-HEST can already carry out laboratory work in a 2D environment on a computer. In the Labster simulations, they can put on virtual gloves, work with samples and use machines. “And they are not dependent on the availability of rooms or personnel,” says Frédérickx. Furthermore, the simulations can be used to conduct experiments that would be too dangerous or expensive in real life. The Department of Materials Science has also been using the program since the start of the Autumn Semester. There are already 3D glasses available for Labster which immerse users completely in the virtual laboratories. “My aim is for us to be using these glasses in our department soon too,” says Frédérickx.
 

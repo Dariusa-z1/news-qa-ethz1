@@ -2,17 +2,19 @@
 
 **Source:** en_news_events/2019/02/top-ten-across-13-subject-areas.html
 
+**Date processed:** 2025-05-01
+
 ## ETH Zurich's positions in the individual subject areas in the last three years
 
 Quacquarelli Symonds (QS) published its overall World University Rankings 2019 back in June 2018. They show that ETH improved its ranking by three positions compared to the previous year and now ranks seventh in the world. QS has now provided the rankings for individual subject areas. The results place ETH in a similarly positive light: QS ranked ETH in 22 subject areas. Improving upon the previous year in 15 disciplines, ETH held its position in six, and dropped one position in only one subject.
 
 ETH has always been at the forefront of its engineering disciplines. In the overall rankings for engineering and technology, ETH now ranks among the top three universities worldwide. It has made the greatest leap forward in the disciplines of chemical engineering (from 12 to 5), electrical and electronic engineering (from 11 to 3), and civil and structural engineering (from 17 to 8). ETH also ranks among the top ten universities in the world in the overall natural sciences ranking. It performs best in the earth and marine sciences, where the QS rankings show it as having been the undisputed number one for several years. It has also staked a place on the podium in the environmental sciences.
 
-## About the QS rankings by subject area
-
 “Even though university comparisons are to be enjoyed within the context of their methodology, I am pleased with the consistency in which ETH maintains its high ranking in the academic world, as well as across diverse disciplines,” comments ETH Zurich President, Joël Mesot the latest QS Subject Ranking.
 
 Source: QS Ranking by Subject 2019
+
+## About the QS rankings by subject area
 
 The QS rankings have been published since 2004 and now include 1,222 universities. In the rankings by subject area, QS compares universities across a total of 48 different disciplines. By comparison with other rankings, the QS World University Rankings lend particular weight to the reputation a university enjoys within the expert community: depending on the subject area, this contributes between 40 and 60 percent to the overall result. QS also asks employers to rate the graduates of the various universities (reputation with employers), which contributes between 10 and 30 percent to the total score per subject area. Other indicators include the citations per publication (10 to 25 percent) and what is known as the "H index" (between 10 and 25 percent): aiming to measure both the productivity and the influence of the academics, this latter index is based on a selection of the university's most frequently cited works and the number of citations they have received in other publications.
 

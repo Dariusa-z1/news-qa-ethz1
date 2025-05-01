@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2017/04/nanoparticles-remain-unpredictable.html
 
+**Date processed:** 2025-05-01
+
 ## Particles attach themselves to everything
 
 The nanotech industry is booming. Every year, several thousands of tonnes of man-made nanoparticles are produced worldwide; sooner or later, a certain part of them will end up in bodies of water or soil. But even experts find it difficult to say exactly what happens to them there. It is a complex question, not only because there are many different types of man-made (engineered) nanoparticles, but also because the particles behave differently in the environment depending on the prevailing conditions.
@@ -10,15 +12,13 @@ Researchers led by Martin Scheringer, Senior Scientist at the Department of Chem
 
 However, the researchers found a very mixed picture when they looked at the data. “The situation is more complex than many scientists would previously have predicted,” says Scheringer. “We need to recognise that we can’t draw a uniform picture with the data available to us today.”
 
-## Network analysis
-
 Nicole Sani-Kast, a doctoral student in Scheringer’s group and first author of the analysis published in the journal PNAS, adds: “Engineered nanoparticles behave very dynamically and are highly reactive. They attach themselves to everything they find: to other nanoparticles in order to form agglomerates, or to other molecules present in the environment.”
 
 The researchers evaluated the experimental data published in the scientific literature using a network analysis. This analysis reveals which types of nanoparticles (blue) have been studied under which environmental conditions (red). (Visualisations: Thomas Kast)
 
-To what exactly the particles react, and how quickly, depends on various factors such as the acidity of the water or soil, the concentration of the existing minerals and salts, and above all, the composition of the organic substances dissolved in the water or present in the soil. The fact that the engineered nanoparticles often have a surface coating makes things even more complicated. Depending on the environmental conditions, the particles retain or lose their coating, which in turn influences their reaction behaviour.
-
 ## More method for machine learning
+
+To what exactly the particles react, and how quickly, depends on various factors such as the acidity of the water or soil, the concentration of the existing minerals and salts, and above all, the composition of the organic substances dissolved in the water or present in the soil. The fact that the engineered nanoparticles often have a surface coating makes things even more complicated. Depending on the environmental conditions, the particles retain or lose their coating, which in turn influences their reaction behaviour.
 
 To evaluate the results available in the literature, Sani-Kast used a network analysis for the first time in this research field. It is a technique familiar in social research for measuring networks of social relations, and allowed her to show that the data available on engineered nanoparticles is inconsistent, insufficiently diverse and poorly structured.
 
@@ -34,9 +34,9 @@ However, researchers at ETH Zurich’s Department of Chemistry and Applied Biosc
 
 In collaboration with scientists from the University of Vienna, the ETH researchers applied the method to soil samples with natural cerium-containing particles, into which they mixed engineered cerium dioxide nanoparticles. Using machine learning methods, which were ideally suited to this particular issue, the researchers were able to identify differences in the chemical fingerprints of the two particle classes. “While artificially produced nanoparticles often consist of a single compound, natural nanoparticles usually still contain a number of additional chemical elements,” explains Alexander Gundlach-Graham, a postdoc in Günther’s group.
 
-## Reference
-
 The new measuring method is very sensitive: the scientists were able to measure engineered particles in samples with up to one hundred times more natural particles.
+
+## Reference
 
 Sani-Kast N, Labille J, Ollivier P, Slomberg D, Hungerbühler K, Scheringer M: A network perspective reveals decreasing material diversity in studies on nanoparticle interactions with dissolved organic matter. PNAS 2017, 114: E1756-E1765, DOI: 10.1073/pnas.1608106114
 

@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2016/03/good-grounds-for-collaboration.html
 
-## Research collaboration between ETH Zurich and South Africa
+**Date processed:** 2025-05-01
+
+## Main article
 
 Mr Kossmann, Mr Zeeman, before we delve into your collaboration, could you briefly explain what the research itself deals with? Zeeman: Above all, I’m interested in how plants convert carbon dioxide into starch and sugar. We’re trying to better understand the metabolism and biochemical processes of plants, so that we can optimise them – for example, in harvesting crops.
 
@@ -18,8 +20,6 @@ How hard is it to finance this kind of collaborative research project? Kossmann:
 
 Zeeman: I agree with Jens on that. Supporting mobility is certainly important, so that researchers can meet and find out where their mutual research interests lie. But beyond that, funding schemes for doctoral and post-doctoral work are also necessary.
 
-## SNSF funding schemes for Swiss-South African research
-
 Exactly what sort of form does a collaboration 10,000 km apart take? Do you visit each other regularly or do you communicate solely by telephone and email? Kossmann: We meet at least once a year in Switzerland or South Africa. Sam has visited me three times at Stellenbosch, sometimes as part of a conference.
 
 Zeeman: Of course, we keep in touch mostly by phone and email. It's important, though, to meet in person from time to time, to discuss the research and get to know the people at the lab.
@@ -30,7 +30,11 @@ Fears are often voiced – especially in the context of north-south collaboratio
 
 Kossmann: It's not a problem in our collaboration. I’m convinced that the majority of research collaborations between Europe and Africa are very productive for both parties – on the condition, of course, that both sides respect each other. Sam and I have been colleagues and also good friends for years, and that certainly helps.
 
+## Research collaboration between ETH Zurich and South Africa
+
 Since 2008, South Africa has been one of the seven non-European countries with which Switzerland has developed its research collaboration through targeted programmes. In 2014, ETH Zurich signed a ‘Memorandum of Understanding’ with the University of Stellenbosch, followed by one with the University of Cape Town in 2015. These are intended to support research partnerships and define areas of possible collaboration. On 10 and 11 March 2016, a delegation of 17 academics and board members from the two partner universities, the University of Pretoria and the University of Witwatersrand visited ETH Zurich. They were welcomed by the ETH president, discussed the opportunities and challenges of bilateral research cooperation, and were introduced to a number of different research programmes as part of a workshop. The occasion also provided the researchers from the different universities with the opportunity to get to know each other better and exchange ideas on shared projects.
+
+## SNSF funding schemes for Swiss-South African research
 
 As part of the Swiss-South African Joint Research Programme (SSAJRP), the Swiss National Science Foundation (SNSF), together with its sister organisation in South Africa, the National Research Foundation (NRF), has launched a further call for collaborative research projects. 12 projects are due to be funded over a period of four years. The call for proposals runs until 31 May 2016.
 

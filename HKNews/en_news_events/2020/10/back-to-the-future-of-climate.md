@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2020/10/back-to-the-future-of-climate.html
 
-## Prevailing humidity
+**Date processed:** 2025-05-01
+
+## Main article
 
 Between 57 and 55 million years ago, the geological epoch known as the Paleocene ended and gave way to the Eocene. At that time, the atmosphere was essentially flooded by the greenhouse gas carbon dioxide, with concentration levels reaching 1,400 ppm to 4,000 ppm. So it’s not hard to imagine that temperatures on Earth must have resembled those of a sauna. It was hot and humid, and the ice on the polar caps had completely disappeared.
 
@@ -10,9 +12,9 @@ The climate in that era provides researchers with an indication as to how today�
 
 Thin section of siderite crystals from Alaska under the microscope. (Photograph: Washington State Univ/Seattle)
 
-Using tiny siderite minerals in soil samples taken from former swamps, a group of researchers from ETH Zurich, Pennsylvania State University and CASP in Cambridge (UK) reconstructed the climate that prevailed at the end of the Paleocene and in the early Eocene. Their study has just been published in the journal Nature Geoscience. The siderite minerals formed in an oxygen-free soil environment that developed under dense vegetation in swamps, which were abundant along the hot and humid coastlines in the Paleocene and Eocene.
+## Prevailing humidity
 
-## Not enough time to adapt
+Using tiny siderite minerals in soil samples taken from former swamps, a group of researchers from ETH Zurich, Pennsylvania State University and CASP in Cambridge (UK) reconstructed the climate that prevailed at the end of the Paleocene and in the early Eocene. Their study has just been published in the journal Nature Geoscience. The siderite minerals formed in an oxygen-free soil environment that developed under dense vegetation in swamps, which were abundant along the hot and humid coastlines in the Paleocene and Eocene.
 
 To reconstruct the climatic conditions from the equator to the polar regions, the researchers studied siderites from 13 different sites. These were all located in the northern hemisphere, covering all geographical latitudes from the tropics to the Arctic.
 
@@ -22,8 +24,6 @@ Accordingly, between 57 and 55 million years ago, the mean annual air temperatur
 
 Using their siderite “hygrometer”, the researchers also demonstrated that the global moisture content in the atmosphere, or the specific humidity, was much higher in the Paleocene and Eocene eras than it is today. In addition, water vapour remained in the air for longer because specific humidity increased at a greater rate than evaporation and precipitation. However, the increase in specific humidity was not the same everywhere.
 
-## Strenuous search for siderite crystals
-
 Since they had access to siderite from all latitudes, the researchers were also able to study the spatial pattern of the specific humidity. They found that the tropics and higher latitudes would have had very high humidity levels.
 
 The researchers attribute this phenomenon to water vapour that was transported to these zones from the subtropics. Specific humidity rose the least in the subtropics. While evaporation increased, precipitation decreased. This resulted in a higher level of atmospheric water vapour, which ultimately reached the poles and the equator. And the atmospheric vapour carried heat along with it.
@@ -32,13 +32,15 @@ Climate scientists still observe the flow of water vapour and heat from the subt
 
 These new findings suggest that today’s global warming goes hand in hand with increased transport of moisture, and by extension heat, in the atmosphere. “Atmospheric moisture transport is a key process that reinforces warming of the polar regions,” van Dijk explains.
 
-## Reference
-
 “Although the CO 2 content in the atmosphere was much higher back then than it is today, the increase in these values took place over millions of years,” he points out. “Things are different today. Since industrialisation began, humans have raised the level of atmospheric CO 2 by almost 50 percent over a period of just 170 years,” he explains. In the past, animals and plants had much more time to adapt to the changing climatic conditions. “They simply can’t keep up with today’s rapid development,” van Dijk says.
+
+## Strenuous search for siderite crystals
 
 Finding the siderites was not easy. For one thing, the minerals are tiny, plus they occur solely in fossil swamps, which today are often found only several kilometres below the Earth’s surface. This made it difficult or even impossible for the researchers to dig up siderites themselves. “We made several expeditions to sites where we believed siderites might occur but we found them at only one of those locations,” van Dijk says.
 
 Fortunately, one of the study’s co-authors – Tim White, an American from Pennsylvania State University – owns the world’s largest collection of siderite.
+
+## Reference
 
 Van Dijk J, Alvarez F, Bernasconi SM, et al.: Spatial pattern of super-greenhouse warmth controlled by elevated specific humidity. Nature Geoscience, published online on 26 October 2020. DOI: 10.1038/s41561-020-00648-2
 

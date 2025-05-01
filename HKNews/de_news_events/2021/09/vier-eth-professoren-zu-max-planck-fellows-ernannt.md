@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2021/09/vier-eth-professoren-zu-max-planck-fellows-ernannt.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Die Max-Planck-Gesellschaft hat vier ETH-Professoren zu Max-Planck-Fellows ernannt: Die Experten für maschinelles Lernen Otmar Hilliges, Thomas Hofmann, Andreas Krause und der Experte für biomedizinische Technik, Klaas P. Prüssmann, werden während der nächsten fünf Jahre am Max-Planck-Institut für Intelligente Systeme in Tübingen je zusätzlich eine Forschungsgruppe leiten und Doktorierende ausbilden.
@@ -17,6 +19,8 @@ Andreas Krause ist einer der führenden Forschenden für maschinelles Lernen und
 Klaas P. Prüssmann ist Spezialist für bildgebende Verfahren, insbesondere für Magnetresonanztomographie. Als Max-Planck-Fellow wird er zusammen mit den Max-Planck-Leitern Metin Sitti und Bernhard Schölkopf zu Mikrorobotik und empirischer Inferenz forschen.
 
 Die Computerwissenschaftler Sitti und Schölkopf sind beide bereits assoziierte ETH-Professoren und engagieren sich in diesem Rahmen auch an der hiesigen Ausbildung. Die Max-Planck-Fellowships der ETH-Professoren in Tübingen und Stuttgart bilden das Gegenstück zu den Engagements von Sitti und Schölkopf in Zürich.
+
+## Max Planck ETH Center for Learning Systems
 
 Das Max Planck ETH Center for Learning Systems (CLS) ist eine grenzüberschreitende Partnerschaft zwischen dem Max-Planck-Institut für Intelligente Systeme und der ETH Zürich. Es wurde 2015 gegründet und 2020 verlängert, um Forschende auf dem Gebiet der künstlichen Intelligenz und der lernenden Systeme zu vernetzen und so die interdisziplinäre Grundlagenforschung zu fördern. Das gemeinsame und international renommierte Doktorandenprogramm ist das Herzstück des CLS. Das Center wird von den Co-Direktoren Thomas Hofmann (ETH Zürich) und Bernhard Schölkopf (Max-Planck-Institut für Intelligente Systeme) geleitet.
 

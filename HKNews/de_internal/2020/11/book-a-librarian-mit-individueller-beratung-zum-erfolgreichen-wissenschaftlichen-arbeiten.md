@@ -2,11 +2,16 @@
 
 **Source:** de_internal/2020/11/book-a-librarian-mit-individueller-beratung-zum-erfolgreichen-wissenschaftlichen-arbeiten.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
-Sie brauchen Hilfe bei Ihrer Literatur- und Bildrecherche, Tipps für das wissenschaftliche Schreiben, Rat hinsichtlich Ihrer Open-Access-Publikation? Mit dem kostenlosen Service Book a Librarian der ETH-Bibliothek erhalten Sie als Angehörige der ETH Zürich umfassende Unterstützung: zu vielen Anforderungen bei Ihrer wissenschaftlichen Forschung, über alle Fachbereiche hinweg. Dabei werden sämtliche Themen massgeschneidert für Sie vorbereitet.
-
 Die Themen umfassen beispielsweise:
+
+• Open Access publizieren : Sie möchten Ihre Forschungsergebnisse kostenfrei, langfristig und für jeden zugänglich publizieren? Erfahren Sie, was Sie hinsichtlich Finanzierung, Urheberrecht oder Plattformwahl beachten müssen.
+• Forschungsdatenmanagement : Sie möchten Ihre Forschungsdaten systematisch, planvoll und sicher dokumentieren und aufbewahren? Lernen Sie die Herausforderungen des Forschungsdatenmanagements kennen und nutzen Sie dessen Möglichkeiten über den gesamten Lebenszyklus der Daten hinweg.
+• Research Collection für Forschende : Sie möchten Ihre Forschung eigenständig oder als Zusatzmaterial zu Artikeln oder Dissertationen publizieren, teilen und archivieren? Nutzen Sie die Vorteile der Research Collection, um einfach, sicher und flexibel Forschungsdaten frei zugänglich zu machen.
+Sie brauchen Hilfe bei Ihrer Literatur- und Bildrecherche, Tipps für das wissenschaftliche Schreiben, Rat hinsichtlich Ihrer Open-Access-Publikation? Mit dem kostenlosen Service Book a Librarian der ETH-Bibliothek erhalten Sie als Angehörige der ETH Zürich umfassende Unterstützung: zu vielen Anforderungen bei Ihrer wissenschaftlichen Forschung, über alle Fachbereiche hinweg. Dabei werden sämtliche Themen massgeschneidert für Sie vorbereitet.
 
 Entdecken Sie weitere Themen auf unserer Website
 

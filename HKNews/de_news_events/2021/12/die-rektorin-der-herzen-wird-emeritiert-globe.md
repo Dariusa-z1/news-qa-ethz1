@@ -2,9 +2,13 @@
 
 **Source:** de_news_events/2021/12/die-rektorin-der-herzen-wird-emeritiert-globe.html
 
-## Grundlegende Reformen umgesetzt
+**Date processed:** 2025-05-01
+
+## Main article
 
 Sarah Springman hat sich mit grosser Begeisterung für gute Lehre eingesetzt. (Bild: Markus Bertschi)
+
+## Grundlegende Reformen umgesetzt
 
 Sarah Springman war 18 Jahre Professorin für Geotechnik an der ETH Zürich, als sie 2015 ihr Amt als Rektorin antrat. In den sieben Jahren ihrer Amtszeit hat sie auf allen Stufen der Lehre bedeutende Reformen umgesetzt oder angestossen. Ihr Motto, das sie bei ihrem Handeln leitete, war immer «Students first».
 
@@ -14,9 +18,11 @@ Viel Zeit und Energie widmete die abtretende Rektorin auch dem Doktorat. Sie kü
 
 Daneben hat Springman ein grosses Projekt rund um Computational Competencies angestossen. Sie sollen in allen Studiengängen neben Mathematik und Physik zum dritten Standbein der fachlichen und methodischen Ausbildung werden.
 
+## Bildung als umfassende Aufgabe verstanden
+
 Um das Sich-Aneignen von überfachlichen Kompetenzen geht es in zwei anderen Projekten, die Springman vorangetrieben hat: Die Initiative ETH Talent soll in den einzelnen Studiengängen soziale Kompetenzen wie Teamarbeit und Leadership, aber auch persönliche Kompetenzen wie kreatives und kritisches Denken gezielt fördern. Im Student Project House können Studierende eigene Ideen verwirklichen und gemeinsam mit Kolleginnen und Kollegen anderer Fachrichtungen aussercurriculare Projekte realisieren. Dieser Think- und Makerspace startete 2019 als Pilotprojekt auf dem Hönggerberg. Vor zwei Monaten übergab die Rektorin den Studierenden ein 1600 Quadratmeter grosses Haus im Zentrum. Schliesslich seien als letzte der grossen Projeke die Youth Academy und die School for Continuing Education erwähnt, wobei mit letzerer die Weiterbildung an der ETH nicht nur ein neues Gesicht erhielt, sondern auch eine Verdoppelung des Angebots erfuhr.
 
-## Bildung als umfassende Aufgabe verstanden
+## Die Menschen mitgerissen
 
 Allerdings wird eine Aufzählung von Projekten Springman in keiner Weise gerecht. So hat sie etwa mit ihrem unermüdlichen Einsatz für Frauen und Diversität am altehrwürdigen «Poly» Veränderungen geprägt, die noch lange nachwirken.
 
@@ -26,11 +32,11 @@ So wird Sarah Springman nicht nur als zweite Rektorin nach Heidi Wunderli-Allens
 
 Zur Ruhe kommt Springman auch nach ihrer Emeritierung an der ETH nicht. Sie wird Anfang Februar ihr Amt als Principal am St. Hilda’s College an der University of Oxford antreten.
 
+## So würdigen Wegbegleiterinnen und Wegbegleiter an der ETH Sarah Springman:
+
 «Ich bewundere deine beeindruckenden Leistungen als Wissenschaftlerin, Mentorin und Führungskraft zutiefst und habe persönlich sehr von deinem Mentoring profitiert. Natürlich schätze ich deine immensen Beiträge zur Zukunft des Lehrens und Lernens, aber ganz besonders schätze ich dein kontinuierliches Engagement für das wichtige Thema der Vielfalt. Dank unseren vielen Gesprächen und deinen Ermutigungen hast du mir die Kraft gegeben, die nötigen Schritte zu unternehmen, um die Vielfalt an der ETH Zürich weiter zu verbessern. Wir haben zwar Fortschritte gemacht, aber es liegt noch ein langer Weg vor uns. Ich danke dir, Sarah, von Herzen für deinen Dienst an der ETH und der Schweiz und dafür, dass du deinen Humor und deine Leidenschaft über so viele Jahre mit uns geteilt hast.»
 
 Joël Mesot, Präsident der ETH Zürich
-
-## Die Menschen mitgerissen
 
 «Es waren schöne und anregende Jahre, in denen wir mit Sarah zusammenarbeiten durften. Unseren Vorschlag, einen ‹Sarah Springman Prize› ins Leben zu rufen, lehnte sie bescheiden ab. Gemeinsam entwickelten wir die Idee des ‹Rector’s Impulse Fund›, mit dem wir über die Jahre viele ihrer kreativen Vorschläge unterstützen und deren Umsetzung wir erleben durften. Unvergesslich bleiben uns auch die privaten gemeinsamen Momente bei uns oder bei einem feinen Essen. Die ETH und wir werden Sarah vermissen, wünschen ihr aber viel Freude und Erfolg bei ihrer neuen Aufgabe und alles Gute ‹Back to Great Britain›.»
 
@@ -44,8 +50,6 @@ Corine Mauch, Stadtpräsidentin Zürich
 
 Luca Dahle, ehem. VSETH-Präsident
 
-## So würdigen Wegbegleiterinnen und Wegbegleiter an der ETH Sarah Springman:
-
 «Es war mir eine grosse Ehre, eng mit Sarah zusammenzuarbeiten. Als Präsidentin der IDEA League hat sie unsere Hochschulallianz durch die grösste Herausforderung in der 20-jährigen Geschichte geführt. Als die weltweite Pandemie ausbrach und sich in ganz Europa Tragödien abspielten, zeigte Sarah grosse Führungsstärke. Sie sorgte dafür, dass alle unsere Rektoren einen geschützten Rahmen hatten, um ihre Sorgen zu teilen, sich gegenseitig bei der Bewältigung der dringenden Probleme der Krise zu unterstützen und Wege zu finden, wie wir unsere Universitäten umgestalten können, um noch stärker aus der Pandemie hervorzugehen.»
 
 Leslie Zachariah, Generalsekretärin IDEA League
@@ -57,8 +61,6 @@ Dieter Wüest, langjähriger Leiter der Abteilung akademische Dienste
 «We're on the same page!» Das charakterisiert meine fast fünfjährige, inspirierende und bereichernde Zusammenarbeit mit Sarah Springman. Ihr Engagement und ihre Offenheit hinsichtlich Betreuung und Unterstützung von Doktorierenden sowie Ihre Beharrlichkeit, das Doktorat reformieren zu wollen, haben die ETH Zürich entscheidend weitergebracht. Die Institution, aber auch alle Studierenden und Doktorierenden haben Sarah sehr viel zu verdanken.
 
 Antonio Togni, von 2016 bis 2021 Prorektor Doktorat
-
-## «Globe» Hochschulen im Wandel
 
 Sarah Springman verblüffte mich damit, mit welcher Leichtigkeit und mit wie viel Spass sie ihre Auftritte meistert. Durch sie lernte ich auch, welche Frage wir immer wieder stellen sollten: «Wo sind die Frauen?» Je bekannter sie wurde, desto mehr Fanpost erhielt sie. Und so kam es, dass wir Autogrammkarten bis nach China und Japan verschickten! Wir beide lieben Oscar Wilde und manchmal trug sie einige Passagen in Englisch vor: Die beste Lady Bracknell, die ich je gehört habe! Sarah: Ich werde deinen Humor vermissen!
 

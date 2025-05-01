@@ -2,7 +2,9 @@
 
 **Source:** en_internal/2024/02/optimised-processes-for-eth-financial-planning.html
 
-## Financial planning that can respond to changes
+**Date processed:** 2025-05-01
+
+## Main article
 
 A scenario and simulation model will replace current medium-term planning (MFP) in strategic financial planning, and a more dynamic rolling forecast will replace budgeting in the area of short-term, operational financial management. The corresponding processes and software solutions are being developed and will be introduced over the course of the next few months.
 
@@ -10,7 +12,7 @@ The approved introduction of scenario and simulation models for strategic financ
 
 The aim of the improvements for short-term, operational financial planning is to simplify processes, reduce the workload and give managers more flexibility in the use of funds. The new processes primarily optimise the financial planning of the Central Administrative Units, as the academic organisational units do not directly participate in medium-term planning. The new rolling forecast simplifies and harmonises financial planning thanks to the same data entry structure in both forecast rounds in the second and fourth quarter and only one reading per forecast round.
 
-## Always up to date
+## Financial planning that can respond to changes
 
 The Central Administrative Units now have a direct overview of their actual figures and entries in the planning system as well as their previous forecast values for orientation purposes. Further developments are planned for the subsequent years to provide the planning units with default values developed by a machine learning algorithm for predictive forecasting. By rolling forecast is meant that the forecast is continually adjusted and adapted to current circumstances.
 

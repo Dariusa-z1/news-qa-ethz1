@@ -2,8 +2,19 @@
 
 **Source:** en_news_events/2015/01/neustart-fuer-den-hochschulraum-schweiz-.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
+The plenary assembly has elected the following new members to the Board:
+
+• Franco Gervasoni, Director of the University of Applied Sciences and Arts of Southern Switzerland (SUPSI), representing the chamber of universities of applied sciences; and
+• Erwin Beck, Rector of the University of Teacher Education St Gallen (PHSG), representing the chamber of universities of teacher education.
+By virtue of their office, the presidents of the three chambers are also members of the Board and serve as vice-presidents of swissuniversities:
+
+• Antonio Loprieno, Rector of the University of Basel;
+• Hans-Rudolf Schärer, Rector of the University of Teacher Education Lucerne (PH Luzern); and
+• Crispino Bergamaschi, President of the Board of Directors of the University of Applied Sciences and Arts Northwestern Switzerland (FHNW).
 The New Year brought with it a fundamental change in the Swiss higher education landscape: as of 1 January 2015, the rectors and presidents of ETH Zurich, EPF Lausanne and the cantonal universities, along with their colleagues from Switzerland’s universities of applied sciences and universities of teacher education, have been united under the swissuniversities umbrella.
 
 The rectors’ conferences CRUS (for universities), KFH (for universities of applied sciences) and COHEP (for universities of teacher education), which previously operated separately, have now been merged to form swissuniversities, which represents the common interests of all three types of higher education institution in national and international education, research and innovation policy. CRUS was disbanded on 31 December 2014, marking the end of a history stretching back over a century.
@@ -16,9 +27,7 @@ Lino Guzzella: “A platform for dialogue”
 
 The new rectors’ conference re-elected Martine Rahier as its President in Berne on 20 January 2015, while appointing the vice-presidents and remaining members of the Board. Professor Rahier, who is Rector of the University of Neuchâtel, has presided over swissuniversities since it was established in November 2012. Her three-year term as President will finish as planned at the end of 2015.
 
-The plenary assembly has elected the following new members to the Board:
-
-By virtue of their office, the presidents of the three chambers are also members of the Board and serve as vice-presidents of swissuniversities:
+## A new era
 
 The new rectors’ conference has been set up as a direct result of the new Swiss Federal Higher Education Act ( HEdA ), which also came into force on 1 January 2015 and now governs the coordination between the Swiss federal government and the cantons on higher education policy. The regulations on the organisational bodies and accreditation come into effect this year, while new financing rules are due to enter into force in 2017.
 

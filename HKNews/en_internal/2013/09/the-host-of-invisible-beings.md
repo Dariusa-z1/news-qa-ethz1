@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2013/09/the-host-of-invisible-beings.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Margrit Leuthold
@@ -21,6 +23,8 @@ They make the equivalent of about 150 Swiss francs a month for 12-hour shifts. M
 Finally, let us not forget the multitude of servants, who no middle-class Indian household goes without; even the young generation of Indians takes them for granted. Women and men of every age and origin hasten through the streets to do the shopping before disappearing back into their houses to finish their domestic chores.
 
 All these people and many more – not much appreciated and but still indispensable – are a part of the incredibly complex and multifaceted Indian society. One of the most important concerns currently affecting India is “inclusive development” – a development that also considers the needs of the poor and marginalised members of the population, which make up about 60 per cent of the whole. Let us hope that the India of tomorrow will open its eyes to these invisible dwellers.
+
+## About the author
 
 Margrit Leuthold has been the Executive Director of swissnex India , based in Bangalore, since August 2012. The main goal of swissnex is to promote exchange in the areas of education, research, technology and innovation and to create international links with Swiss universities and research institutions. They cultivate a close exchange with universities, research institutions and businesses in their host regions and carry out scientific and cultural events. Previously, Margrit Leuthold, a doctor of biology, was the Director of International Institutional Affairs at ETH Zurich until July 2012. She was also the Secretary General of the Swiss Academy of Medical Sciences for eight years. Outside of her professional activities, Margrit Leuthold likes to exercise and spend time in the mountains. She is a film enthusiast and loves reading.
 

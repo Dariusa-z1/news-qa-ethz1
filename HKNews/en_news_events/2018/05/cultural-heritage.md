@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2018/05/cultural-heritage.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 If mention is made of ETH Zurich, culture is not the first thing that comes to mind. Just how much culture is there in ETH? Plenty! ETH organises a wide range of archives and collections, including a huge picture archive, the Max Frisch and Thomas Mann archives, natural history collections and a medicinal plant garden. In addition to that, ETH works at creating new cultural heritage every day: after all, today’s research is tomorrow’s cultural heritage. On 3 June we will also show yesterday’s research that has since become cultural heritage.
@@ -17,6 +19,8 @@ Why the look back? Understanding the present and the future requires knowledge o
 That still sounds like rather dry subject matter … Absolutely not. Many of these objects are quite simply beautiful; you can also touch some of them and therefore “grasp” them in a completely different way. Much of today’s top-level research is no longer accessible to the lay person. On 3 June we want to make science tangible through historical and current examples. We want our Cultural Heritage Day at ETH Zurich to attract an audience that’s culturally interested and intellectually demanding, but it also needs to be a voyage of discovery for families with children.
 
 What would you recommend to an ETH newcomer? The stage in the main hall, where you’ll get a quick overview of the programme with mini previews of the events taking place. I’m personally looking forward to the opening address of author Iso Camartin, a masterful connoisseur and observer of the cultural scene. As a former professor of Romansh literature and culture, he knows ETH Zurich very well and later worked for the Zurich Opera House and Swiss television.
+
+## Cultural Heritage at ETH
 
 On Sunday 3 June collections, archives and libraries – as well as researchers from various departments – will be showcasing the cultural heritage of ETH Zurich. As part of Switzerland’s contribution to the European Year of Cultural Heritage “ #Kulturerbe2018 – Look! ”, they will be guiding the public through ETH’s historical treasures. Workshops, guided tours and lectures will be taking place in the main building. The day starts with an opening address by writer Iso Camartin.
 

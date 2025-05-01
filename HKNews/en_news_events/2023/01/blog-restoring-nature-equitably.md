@@ -2,11 +2,15 @@
 
 **Source:** en_news_events/2023/01/blog-restoring-nature-equitably.html
 
-## How social processes affect restoration outcomes
+**Date processed:** 2025-05-01
+
+## Main article
 
 The United Nations Biodiversity Conference in Montreal closed this past December with an unprecedented agreement to place 30 percent of global degraded landscapes under protection by 2030, especially emphasizing the need to respect indigenous and local communities rights in the process.
 
 Yet, despite ambitious policies and strong financial interest, recent restoration efforts have not reached targets: only 18% of land pledged for restoration by 2020 had been restored by 2019, 1 and the world is currently off track in meeting targets set for 2030 . 2
+
+## How social processes affect restoration outcomes
 
 Global restoration agenda setting has so far primarily been driven by insights from ecologists, especially by mapping studies outlining potential of restoration across scales. These studies have provided important advances on the global scope and geographical heterogeneity of the challenge, and have played a crucial role in mobilizing attention and efforts toward restoration.
 
@@ -16,21 +20,21 @@ Current restoration often takes place in the context of strong power imbalances,
 
 Furthermore, favored objectives are likely to differ substantially between actors. Whilst local people tend to benefit from restoration projects that are integrated in agricultural systems, follow cultural forest practices, and/or yield economic benefits, private financers often favor restoration projects with strong climate change mitigation profiles. This translates to a preference to invest in fast-growing monoculture carbon farms 5 which may go directly against the objectives of local communitites and may have detrimental effects on ecosystems.
 
-## About the author
-
 In all of this, the question of who governs a landscape becomes apparent. Land-use policies driven by actors in the Global North but implemented in the Global South have a burdensome track-record of increasing marginalization of local communities for the benefit of carbon objectives, especially when decisions are made by distant but powerful stakeholders. 6 Conversely, a growing body of evidence shows how local communities can benefit from sound ecosystem restoration when decision-making is decentralized and equitable. 7
 
 There is an obvious moral argument for more equitable restoration: the people living in restorable areas are the most affected to how a landscape is altered, and should therefore have the strongest say in decision making.
 
+## About the author
+
 Sara Löfqvist is a doctoral student at the Environmental Policy Lab at ETH Zurich.
+
+## Exploiting the full potential of restoration
 
 But beyond ethical reasoning, restoration projects will be more likely to sustain, and thereby to realize ecological objectives, if they align with local communities’ desires for their landscapes. 8 People are simply more likely to maintain a participative restoration project that benefits them.
 
 Restoration outcomes are a result of both ecological and social processes. By better integrating the two in restoration agenda setting and implementation we can increase our chances to restore earths degraded ecosystems in a way that helps mitigate climate change, preserves biodiversity, and benefits vulnerable communities today and generations to come.
 
 1 Protecting and Restoring Forests: A Story of Large Commitments yet Limited Progress . Five year assessment report. Forestdeclaration.org (2019)
-
-## Exploiting the full potential of restoration
 
 2 New Forest Declaration Assessment shows alarming trajectory of forest loss . WWF (2022)
 

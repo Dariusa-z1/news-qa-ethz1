@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2021/02/mit-schallwellen-gegen-den-strom-schwimmen.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Winzige Vehikel, so klein, dass sie durch unsere Blutgefässe navigieren können, sollen es Ärzten in Zukunft erlauben, im Körperinnern Biopsien zu nehmen, Stents einzusetzen oder Medikamente präzise an schwer zu erreichende Stellen zu transportieren. Wissenschaftler weltweit erforschen und entwickeln derzeit solche Mikrovehikel. Angetrieben und gelenkt werden sie meist über magnetische oder akustische Felder oder mit Licht. Allerdings war es bisher eine grosse Herausforderung, Mikrovehikel gegen einen Flüssigkeitsstrom zu bewegen. Dies ist unter anderem nötig, damit die Winzlinge in Blutgefässen entgegen der Fliessrichtung des Bluts navigieren können. Forschende der ETH Zürich haben nun Mikrovehikel entwickelt, welche von einem externen Feld angetrieben werden und gegen den Strom schwimmen können.
@@ -15,6 +17,8 @@ Mithilfe von Ultraschall einer bestimmten Frequenz brachten die Wissenschaftler 
 Als nächstes möchten die Forschenden das Verhalten der Mikrovehikel in Blutgefässen von Tieren untersuchen. «Weil sowohl Ultraschallwellen als auch Magnetfelder Körpergewebe durchdringen, ist unsere Methode gut geeignet, um Mikrovehikel auch im Körperinnern zu lenken», sagt ETH-Professor Ahmed.
 
 Zu den angestrebten zukünftigen Anwendungsfeldern wird die Mikrochirurgie gehören – etwa das Entstopfen von verstopften Blutgefässen. Ausserdem könnten die Mikrovehikel dereinst verwendet werden, um Krebsmedikamente über die Blutgefässe zu Tumoren zu bringen und um sie dort ins Tumorgewebe einzuschleusen. Ein weiteres Anwendungsfeld ist schliesslich das Einbringen von Medikamenten aus Blutgefässen ins Hirngewebe.
+
+## Literaturhinweis
 
 Ahmed D, Sukhov A, Hauri D, Rodrigue D, Maranta G, Harting J, Nelson BJ: Bioinspired acousto-magnetic microswarm robots with upstream motility, Nature Machine Intelligence, 11. Januar 2021, doi: externe Seite 10.1038/s42256-020-00275-x
 

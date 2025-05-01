@@ -2,10 +2,14 @@
 
 **Source:** en_internal/2017/01/browzine-the-tool-for-intuitively-searching-journals.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 This tool can be used both via the web or an app:
 
+• external page Website for laptop/PC call_made
+• external page Mobile app call_made
 In order to access BrowZine, you must be connected to the ETH Zurich network.
 
 Try out the new search option and let us know what you think via a questionnaire . In doing so, you will be making a significant contribution to the decision on licensing BrowZine for further use.

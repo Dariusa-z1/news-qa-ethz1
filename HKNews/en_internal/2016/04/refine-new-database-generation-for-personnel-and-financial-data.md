@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2016/04/refine-new-database-generation-for-personnel-and-financial-data.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 “With a future-oriented technology such as HANA, we have laid the technical foundation for refine, says Robert Perich, Vice President Finance and Controlling. He particularly commends the work of the Competence Center SAP ( CCSAP ) and the ETH Zurich IT services ( ID ). “They have seen this assignment through without a hitch. It demonstrates the high standard of expertise we can count on in our administrative colleagues at ETH.”

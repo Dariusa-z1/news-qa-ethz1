@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2015/08/wie-die-schweiz-das-ranking-erfand-und-zur-wissenschaftsnation-wurde.html
 
-## Die Naturforschenden
+**Date processed:** 2025-05-01
+
+## Main article
 
 In Ihrem Buch «Die Naturforschenden» schreiben Sie, dass die Schweiz seit dem 18. Jahrhundert als eine der erfolgreichsten Wissenschaftsnationen gelte. Was sind die historischen Gründe für diesen Erfolg? Bernhard Schär: Das ist für Historiker schwierig zu beantworten, denn das hängt davon ab, wie «Erfolg» definiert wird. Diese Definitionen sind dem historischen Wandel unterworfen. Was wir als Historiker sagen können, ist: Die Geschichte der wissenschaftlichen Erfolgsdefinitionen und Wissenschaftsrankings hat erstaunlich viel mit der schweizerischen Wissenschaftsgeschichte zu tun.
 
@@ -22,11 +24,11 @@ Solche Mechanismen der internationaler Zusammenarbeit bei gleichzeitigem Wettbew
 
 Bernhard C. Schär ist Postdoktorand an der Professur für die Geschichte der modernen Welt an der ETH Zürich. Seine Forschungsinteressen betreffen die Wissenschafts- und Kolonialgeschichte, Globalgeschichte der Schweiz. Zuletzt publizierte er über Schweizer Naturforscher während des Niederländischen Imperialismus in Sudostasien um 1900.
 
-## Naturwissenschaften erlebbar nah
-
 Lea Pfäffli ist Doktorandin an der Professur für Technikgeschichte. Ihre Forschungsinteressen betreffen die Geschichte der Polarforschung, deren materielle Kultur und globale Zirkulation. Zuletzt arbeitete sie an einer Ausstellung zur Wissensgeschichte der Germanistik.
 
 Die Natur- forschenden. (Bild: ETH- Bibliothek / Hier + Jetzt)
+
+## Die Naturforschenden
 
 In den vergangenen 200 Jahren haben die Schweizer Naturforschenden grenzüberschreitend die Welt erkundet und zur globalen Vernetzung des Wissenschaftsstandorts Schweiz beigetragen.
 
@@ -35,6 +37,8 @@ In den vergangenen 200 Jahren haben die Schweizer Naturforschenden grenzübersch
 Patrick Kupper & Bernhard C. Schär (HG.). Die Naturforschenden. Auf der Suche nach Wissen über die Schweiz und die Welt, 1800–2015. Hier und Jetzt, Verlag für Kultur und Geschichte, Baden, 2015, 308 Seiten.
 
 Einsichten zu Zeit und Wandel. (Bild: SCNAT)
+
+## Naturwissenschaften erlebbar nah
 
 Die Akademie der Naturwissenschaften Schweiz (SCNAT) feiert ihr 200 Jahr-Jubiläum unter dem Motto «Naturwissenschaften erlebbar nah»: bis zum Samstag, 15. August 2015 gibt es an verschiedenen Schauplätzen in Zürich Installationen, Führungen und Vorlesungen zur Welt der Naturwissenschaften.
 

@@ -2,27 +2,21 @@
 
 **Source:** de_internal/2022/05/Ausstellung-Wozu-die-Utopie-Max-Frisch-und-Helmut-Schmidt.html
 
+**Date processed:** 2025-05-01
+
 ## Ausstellung
 
 Der frühere deutsche Bundeskanzler Helmut Schmidt (1918–2015) galt als durchsetzungsfähiger Realpolitiker, der die Bundesrepublik während seiner Amtszeit durch eine Reihe dramatischer Krisen steuerte. Der Politiker und spätere Publizist war stets an sachlich fundierten und anspruchsvollen Debatten interessiert, wofür er gezielt den Kontakt zu Intellektuellen suchte.
 
-## Eröffnungsveranstaltung
-
 Der Schweizer Schriftsteller Max Frisch (1911–1991) fungierte als wichtiger Gesprächspartner für Schmidt. Frisch begleitete den Kanzler 1975 auf dem ersten Staatsbesuch eines deutschen Regierungschefs nach China, folgte einer Einladung der SPD zum Parteitag 1977 in Hamburg und war im selben Jahr Mitglied einer Runde von Intellektuellen, mit denen Schmidt im «Deutschen Herbst» über die Ursachen des Terrorismus diskutierte.
-
-## Programm
 
 Die gemeinsame Ausstellung der Bundeskanzler-Helmut-Schmidt-Stiftung und des Max Frisch-Archivs an der ETH-Bibliothek vermittelt Einblicke in die Begegnungen von Max Frisch und Helmut Schmidt und in ihr gemeinsames Nachdenken über die Demokratie und die wirtschaftliche Verfasstheit der Gesellschaft.
 
-## Staffnet
-
 Die Ausstellung findet vom 08. Juni bis 02. September 2022 im Max Frisch-Archiv statt und ist jeweils von Montag bis Freitag zwischen 10.00 und 17.00 Uhr geöffnet.
 
-## Newsletter abonnieren
+## Eröffnungsveranstaltung
 
 Am Mittwoch, 08. Juni 2022, 18.30 Uhr, wird die Ausstellung mit einer Podiumsdiskussion im Audi Max der ETH Zürich eröffnet: Die Schriftstellerin Nora Bossong diskutiert mit Flavia Kleiner, Mitbegründerin von Operation Libero und Schriftsteller Jonas Lüscher über Max Frisch, Helmut Schmidt und die heutige Bedeutung der Utopie.
-
-## Newsletter abonnieren
 
 Moderation: alt Regierungsrat Markus Notter
 

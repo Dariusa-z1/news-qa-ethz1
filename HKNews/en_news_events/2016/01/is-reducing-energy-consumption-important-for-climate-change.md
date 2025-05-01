@@ -2,23 +2,19 @@
 
 **Source:** en_news_events/2016/01/is-reducing-energy-consumption-important-for-climate-change.html
 
+**Date processed:** 2025-05-01
+
 ## A necessary and sufficient condition
 
 World leaders in Paris renewed their pledge to limit climate change to no more than 2°C warming. The science backs this up, and suggests that even with 2°C warming, there may be some catastrophic consequences. The science is also clear that to achieve the 2°C limit, and certainly any limit even more ambitious, like 1.5°C, we need to completely eliminate carbon dioxide (CO 2 ) emissions in the energy sector as quickly as possible.
 
-## Do sufficiency and efficiency help?
-
 There is an equation, known as the Kaya Identity, which can help us think about this problem. It states that our CO 2 emissions are equal to the product of our population, each person’s consumption, the energy intensity of that consumption, and the carbon intensity of that energy. Mathematically it looks like this:
 
-## It depends …
+## Do sufficiency and efficiency help?
 
 Any schoolchild can tell you that if the left-hand side of this equation is going to be zero, then one of the terms on the right-hand side of the equation must be zero as well. Moreover, if one of those terms is zero, then it doesn’t matter what the other terms are: zero times anything else always equals zero. And it is also clear which of those terms it has to be. Most of us do not want to live in a world with no people, no consumption, or no energy use! But most of us would be happy to live in a world where all of our energy comes from carbon-neutral sources, as long as that energy is affordable, reliable, and environmentally sustainable. So reducing the carbon intensity of energy to zero, quickly, is the necessary and sufficient step to solving climate change.
 
-## De-carbonization is key
-
 Does reducing our level of consumption or improving energy efficiency help to speed up the pace with which we completely decarbonize the energy system? The answer depends on a lot of other choices that we make.
-
-## About the author
 
 Imagine, for example, a scenario where Switzerland decides that it does not want to import any energy. (Right now we import roughly three quarters of our primary energy supply as oil, uranium, natural gas, and coal). In all likelihood, the main sources of energy would then have to be hydropower, photovoltaic panels, and biomass. Given the environmental limits on hydropower and biomass production, we would need to devote a large area to photovoltaic panels: not only every available rooftop, but also some of our current agricultural land. However, if we reduced energy consumption, we could eliminate the need for this land and so avoid the local battles associated with converting farmers’ fields to solar fields. And that would probably make the transition away from imported fossil fuel easier.
 

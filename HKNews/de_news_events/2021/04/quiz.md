@@ -2,9 +2,13 @@
 
 **Source:** de_news_events/2021/04/quiz.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 In unserer Quiz-Reihe nehmen wir Sie mit auf Erkundungstouren durch Forschung und Lehre der ETH Zürich. Diese Folge widmet sich den Agrarwissenschaften, die in diesem Jahr ihr 150-jähriges Bestehen feiern.
+
+## 150 Jahre Agrarwissenschaften
 
 Das Departement Umweltsystemwissenschaften (D-​USYS) startet das Jubiläumsjahr mit einem Online-​Event am 4. Mai 2021. Zum Auftakt werden Bundespräsident Guy Parmelin zusammen mit ETH-​Präsident Joël Mesot und Vertreterinnen und Vertretern des Instituts in einem Video auftreten.
 

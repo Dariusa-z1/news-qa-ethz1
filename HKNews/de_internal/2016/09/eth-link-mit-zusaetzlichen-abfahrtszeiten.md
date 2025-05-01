@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2016/09/eth-link-mit-zusaetzlichen-abfahrtszeiten.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Der Shuttlebus, der die Standorte Zentrum und Hönggerberg verbindet.

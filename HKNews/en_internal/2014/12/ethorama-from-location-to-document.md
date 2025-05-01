@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2014/12/ethorama-from-location-to-document.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Do you want to know how the place where you live has changed in the course of time, whether historical or contemporary texts on it are available or which themes it is related with?

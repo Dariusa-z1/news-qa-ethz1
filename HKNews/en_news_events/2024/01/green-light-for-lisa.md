@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2024/01/green-light-for-lisa.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 The LISA (Laser Interferometer Space Antenna) mission to investigate gravitational waves in space has successfully completed the preliminary studies and testing phase. During this phase, the entire concept - from the technical specifications of the scientific instruments and operating system to the devices that will need to be built for use in space - was carefully scrutinized by experts as part of the Mission Adoption Review. On 25 January, following the review, the Science Programme Committee of the ESA (European Space Agency) officially confirmed that the technology is mature enough to continue developing the mission as planned. In other words, the mission got the “green light” to go ahead. The space antenna, which will be used to observe gravitational waves in space and thus detect collisions of supermassive black holes, for example, will be launched around 2035.
@@ -25,6 +27,8 @@ The antenna will be launched into space in 2035. What other hurdles does the pro
 How does it feel to be involved in such a prestigious and lengthy project – even if you probably won’t be able to play an active role at the time of its launch? Domenico Giardini : LISA will run for more than 50 years, and three generations of scientists will be working to make the mission a success. We are obviously delighted to have the privilege of playing a central role in this mission. In 2015 we witnessed the fantastic launch of LISA Pathfinder live.
 
 Philippe Jetzer: We won’t be there in person when the LISA satellites are launched in 2035. But we are confident that we will be able to help with the next, very intensive preparation phase and with the initial analysis of the data. Some of our former and current doctoral students and postdoctoral researchers are still involved in LISA’s preparation and are very active in the field of gravitational wave research. Two new professorships will also be established at ETH Zurich and the University of Zurich. Other colleagues from ETH and UZH are already involved or are interested in participating at a later stage.
+
+## LISA – Laser Interferometer Space Antenna
 
 The Laser Interferometer Space Antenna (LISA) will be the first-ever space-based gravitational wave observatory. It was selected as the European Space Agency’s third biggest mission and will be used to investigate the gravitational universe. LISA will consist of three spacecraft flying in a triangular formation with a distance of around 2.5 million kilometers between them, following the Earth on its orbit around the sun. The launch is expected to take place in 2035.
 

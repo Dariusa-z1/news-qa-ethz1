@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2017/05/teilchenbeschleuniger-der-zukunft.html
 
+**Date processed:** 2025-05-01
+
 ## Mehrere Hundert Beschleunigungsstufen
 
 Die bekannteste Anwendung von Hochspannungspulsen ist wohl die in elektrischen Weidezäunen. Doch auch Teilchenbeschleuniger an Grossforschungsanlagen wie dem Cern in Genf sind auf Hochspannungspuls-Generatoren angewiesen – solche, die im Unterschied zu Weidezaungeräten Pulse mit sehr viel höherer Energie und höherer Spannung erzeugen. Am Cern laufen derzeit die Vorarbeiten für das nächste Grossforschungsprojekt ab 2025. Einer von zwei Projektkandidaten ist der Bau eines 50 Kilometer langen Linearbeschleunigers in einem Tunnel, der von Nyon bis zum Rhone-Durchbruch bei Bellegarde in Frankreich reichen soll (Projekt Clic, siehe Kasten). Im Rahmen einer Zusammenarbeit mit dem Cern entwickelten Forschende der ETH Zürich einen für diesen Beschleuniger benötigten Pulsgenerator. Vor wenigen Tagen lieferten sie ihren Prototypen ans Cern. Dort wird er nun auf Herz und Nieren geprüft.
@@ -18,11 +20,11 @@ Falls der Clic-Beschleuniger gebaut wird, braucht es dafür über tausend Klystr
 
 Zu den grössten Herausforderungen für die ETH-Wissenschaftler gehörte, den Pulsgenerator so zu bauen, dass die erzeugten Pulse alle exakt gleich lang und ihre Spannung mit einer relativen Toleranz von bloss einem Hundertausendstel gleich hoch sind. Ausserdem war es eine Vorgabe des Cern, dass bei einem Puls die Spannung extrem schnell von 0 Volt auf 180‘000 Volt und später wieder zurück springt. Um dies zu erreichen, misst das Gerät den Stromfluss hunderttausend Mal pro Sekunde und steuert ihn in Echtzeit.
 
-## Linearbeschleuniger oder Ringbeschleuniger?
-
 «Bei einem langsameren Pulssprung würde mehr ungenutzte Leistung an das Klystron übertagen, was die Energieeffizienz des Pulsgenerators schmälern würde», erklärt Sebastian Blume. Er war im Rahmen seiner Doktorarbeit in Bielas Labor massgeblich an der Entwicklung des Pulsgenerators beteiligt. Die Effizienz ist nur schon daher zentral, weil es um verhältnismässig hohe Energiemengen geht: Ein Pulsgenerator hat eine mehr als hundertmal höhere Leistung als eine Waschmaschine oder ein grosser Staubsauger.
 
 Bereits an der Entwicklung der Pulsgeneratoren für SwissFEL, der vor wenigen Monaten eingeweihten Synchrotron-Strahlungsquelle am Paul-Scherrer-Institut, war ETH-Professor Biela massgeblich beteiligt. Dies im Rahmen eines gemeinsamen Projekts mit der Schweizer Elektrotechnikfirma Ampegon.
+
+## Linearbeschleuniger oder Ringbeschleuniger?
 
 Der Teilchenbeschneuniger LHC (Large Hadron Collider) am Cern wird voraussichtlich noch bis 2035 oder 2040 betrieben. Für die Zeit danach werden derzeit zwei mögliche Grossforschungsprogramme diskutiert, die in Konkurrenz zueinander stehen. Welches davon umgesetzt wird, entscheidet das Cern voraussichtlich innerhalb der nächsten drei Jahre.
 

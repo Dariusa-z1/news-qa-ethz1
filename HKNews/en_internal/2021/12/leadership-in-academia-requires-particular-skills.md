@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2021/12/leadership-in-academia-requires-particular-skills.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Workstream 3 is about the support for professors. What specific topics are dealt with in the working group? Edoardo Mazza: We are essentially concentrating on three topics: the first is about supporting professors in their leadership role. Secondly, we are looking at the different phases of the professor lifecycle. We are developing tools to improve the processes of hiring, promotion and retirement, for example. Topics such as faculty workload or ensuring equal treatment across the faculty are also part of this second theme, as well as the evaluation of professors. The third subject is preventing and dealing with conflict situations. For this topic, we are only acting as a sounding board, and we provide feedback on the development of new procedures and support services by the VPPL Office.

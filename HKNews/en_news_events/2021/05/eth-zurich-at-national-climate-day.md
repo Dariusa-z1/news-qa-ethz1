@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2021/05/eth-zurich-at-national-climate-day.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 The first Swiss National Climate Day will take place on 27 May. ETH Zurich will be present with exciting contributions. Various ETH Zurich researchers will participate on themes such on climate facts, nutrition, and sustainable building and living – live from the Bundesplatz in Bern.

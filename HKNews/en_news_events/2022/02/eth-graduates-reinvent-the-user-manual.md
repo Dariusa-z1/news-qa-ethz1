@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2022/02/eth-graduates-reinvent-the-user-manual.html
 
+**Date processed:** 2025-05-01
+
 ## Out of the lab and into the field
 
 David Shapira and Kordian Caplazi have three things in common: they are young, have an ETH degree in their pockets and knew before they graduated that they wanted to become self-employed. With the founding of Rimon Technologies in August 2020, they have fulfilled their dream of starting their own company The start-up is so successful that four more members joined the team last year.
@@ -10,27 +12,27 @@ Rimon develops virtual user manuals for industrial companies to support technici
 
 Augmented reality should not be confused with virtual reality, which involves becoming completely immersed in a virtual world. AR glasses, in contrast, provide a clear view of the real environment and overlay it with digital elements. In the case of augmented user manuals, the glasses project explanatory videos, interactive text fields or even 3D machine models into the field of view.
 
-## Emergency Covid solution proves successful
-
 “Our customers often only understand exactly what we do when we put AR glasses on them,” says Shapira, laughing. The “Coffee Case”, a step-by-step guide to preparing coffee with a barista machine, is a fitting choice for a demonstration. The 29-year-old originally developed this user manual as a semester project back in early 2019.
+
+## Emergency Covid solution proves successful
 
 Shapira first became acquainted with AR technology and its possible applications in an elective lecture during his mechanical engineering studies. “I was fascinated by how AR glasses could present information in a different way,” he says. Caplazi, who also attended the lecture, adds: “Because it’s a young technology, there was a lot of space for new ideas.” It soon became clear to both of them that they wanted to take a closer look at AR in their Master’s theses.
 
 Shapira came to his project through a happy coincidence, having got into conversation with the technical director of the locking systems company Dormakaba, who was visiting the mechanical engineering laboratories at ETH. The Master student talked about the possible AR applications he saw for the industrial company. Dormakaba was convinced, and Shapira set about demonstrating in a practical study the potential of the new technology in Dormakaba’s operations.
 
-## A diverse customer base
-
 For his study, Shapira designed a virtual instruction manual that guides users through the assembly of a security door system for commercial buildings. “The door system was a good case study because it was being installed only rarely at the time,” he explains. Training service technicians to do this work is correspondingly time-consuming. The plan was to compare the difference in the technicians’ performance following conventional training and instruction via AR glasses.
+
+## A diverse customer base
 
 But as with so much other practical work, Covid threw a spanner in the works here too, and Shapira was unable to perform the planned study with industry employees during lockdown. The emergency solution was to use mechanical engineering students. With no prior knowledge of the security door system or how to use the 3D glasses, all of the students completed the assembly process with no mistakes. “I never expected that,” says Shapira.
 
 At the same time, his fellow student Caplazi was focusing his Master’s thesis on the way in which hand and eye movements can be used to predict subsequent actions of AR users. This would make it possible to warn them of dangerous situations in good time. Shapira and Caplazi exchanged ideas and experiences and continued to experiment industriously in their free time, both becoming increasingly convinced that AR instructions were an area with a great deal of potential. In August 2020, their start-up was founded.
 
-## Rapid developments in technology
-
 Today, a team of six works on further developing the AR user manuals – two team members focus exclusively on programming, while a designer takes care of the visual aspects. The aim is to design a program interface that guides users through the process as intuitively as possible. “Unlike social media apps, there aren’t any best-practice examples for AR instructions as yet,” says Caplazi.
 
 The start-up’s customer base is diverse, incorporating companies from heating technology, energy technology and even kitchen companies, from international corporations to small SMEs. Rimon works closely with industry representatives on a project basis to find the appropriate application for each company. “We’ve seen in practice that companies often have similar needs,” says Roder.
+
+## Rapid developments in technology
 
 The food technology graduate, who brings experience from a previous start-up, is active primarily in sales. Like probably many others, he first considered going on to complete a doctorate after graduating, says the 28-year-old. In the field of augmented reality, however, it quickly became clear to Roder that: “We have enough scientific knowledge. Now it’s a matter of finding useful applications.”
 

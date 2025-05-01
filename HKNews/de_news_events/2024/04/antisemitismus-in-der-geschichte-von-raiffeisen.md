@@ -2,25 +2,20 @@
 
 **Source:** de_news_events/2024/04/antisemitismus-in-der-geschichte-von-raiffeisen.html
 
+**Date processed:** 2025-05-01
+
 ## In Kürze
 
-- Der Raiffeisengründer in Deutschland F.W. Raiffeisen (1818-1888) hatte antisemitische Vorurteile und prangerte insbesondere den angeblichen «jüdischen Wucher» an. Gleichzeitig distanzierte er sich aber um 1880 deutlich von der damals weit verbreiteten «Judenhetze».
-
-- Auch einzelne Schweizer Raiffeisenvertreter äusserten sich antisemitisch und übernahmen die Erzählung, F. W. Raiffeisen habe die deutschen Bauern von der Ausbeutung durch «die Juden» befreit.
-
-- Es fanden sich keine Hinweise auf antisemitische Praktiken im Bankgeschäft der Schweizer Raiffeisenorganisationen und diese waren auch nicht in die nationalsozialistische Raubwirtschaft verstrickt.
+• Der Raiffeisengründer in Deutschland F.W. Raiffeisen (1818-1888) hatte antisemitische Vorurteile und prangerte insbesondere den angeblichen «jüdischen Wucher» an. Gleichzeitig distanzierte er sich aber um 1880 deutlich von der damals weit verbreiteten «Judenhetze».
+• Auch einzelne Schweizer Raiffeisenvertreter äusserten sich antisemitisch und übernahmen die Erzählung, F. W. Raiffeisen habe die deutschen Bauern von der Ausbeutung durch «die Juden» befreit.
+• Es fanden sich keine Hinweise auf antisemitische Praktiken im Bankgeschäft der Schweizer Raiffeisenorganisationen und diese waren auch nicht in die nationalsozialistische Raubwirtschaft verstrickt.
+## Die Positionen des Gründers F.W. Raiffeisen
 
 Die Raiffeisen Gruppe in der Schweiz, zu der heute 219 genossenschaftlich organisierte Raiffeisenbanken gehören, basiert auf der um 1860 durch F.W. Raiffeisen ins Leben gerufenen genossenschaftlichen Bewegung in Deutschland. Seine Idee von genossenschaftlich organisierten Kreditinstituten, mit welcher er die wirtschaftliche Lage der Landbevölkerung verbessern wollte, wurde bald schon in weiteren Ländern Europas übernommen. Auf Initiative des Pfarrers Johann Traber entstand so denn auch um 1900 in Bichelsee TG die erste Raiffeisenkasse der Schweiz. 1902 gründeten zehn Institute den Schweizerischen Raiffeisenverband.
 
-## Die Positionen des Gründers F.W. Raiffeisen
-
 In der Vergangenheit gab es Hinweise auf antisemitische Positionen von F.W. Raiffeisen. Um zu klären, welche Rolle der Antisemitismus in der Geschichte der schweizerischen Raiffeisenbewegung spielte, hat Raiffeisen Schweiz einen Forschungsbericht beim Archiv für Zeitgeschichte der ETH Zürich in Auftrag gegeben. Dafür werteten die Forschenden unter anderem unveröffentlichte Dokumente aus den Quellenbeständen des historischen Archivs der Raiffeisen Schweiz Genossenschaft in St. Gallen aus, sowie Dokumente aus den Archiven von neun regionalen Raiffeisenbanken und die Nachlässe und Publikationen wichtiger Raiffeisenakteure. Ausserdem analysierten sie die damaligen Zeitschriften des Schweizerischen Raiffeisenverbands und recherchierten in zahlreichen weiteren Archiven in der Schweiz und in Deutschland.
 
-## Die Raiffeisenbewegung in der Schweiz
-
 Unter der Leitung von Gregor Spuhler, Leiter des Archivs für Zeitgeschichte der ETH Zürich, schauten sich die Forschenden zunächst an, wie sich der deutsche Raiffeisengründer F.W. Raiffeisen zu Juden äusserte. Die insgesamt dünne Quellenlage offenbart ein widersprüchliches Bild: F.W. Raiffeisen bediente sich antisemitischer Ausdrücke und sagte, er habe die Darlehenskassen gegründet, um arme Bauern vom «jüdischen Wucher» zu befreien. In einem verwaltungsinternen Bericht gab F.W. Raiffeisen zudem zahlreiche antisemitische Stereotype in einer pathologisierenden Sprache wieder – so bezeichnete er Jüdinnen und Juden beispielsweise als potenzielle «Krebsgeschwüre». F.W. Raiffeisens öffentliche Aussagen stehen allerdings in einem deutlichen Widerspruch dazu. Er sprach sich öffentlich explizit gegen die «Judenhetze» aus, wies darauf hin, dass es auch vorbildhafte Juden gebe, an denen sich die Christen ein Beispiel nehmen sollten, engagierte sich nicht in der antisemitischen Bewegung und forderte keine Einschränkung der Rechte der Jüdinnen und Juden.
-
-## Kontakt
 
 Die Forschenden kommen zum Schluss: F.W. Raiffeisens Aussagen über die Jüdinnen und Juden enthalten zwar viele antisemitische Vorurteile, offenbaren aber keine konsistente antisemitische Ideologie. Sie widerspiegeln eher die Virulenz und Widersprüchlichkeit der damaligen Diskurse.
 

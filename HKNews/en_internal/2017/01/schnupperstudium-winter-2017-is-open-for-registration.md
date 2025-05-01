@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2017/01/schnupperstudium-winter-2017-is-open-for-registration.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Participants will spend three days on campus at ETH, and will learn to program and write their own Android apps, immerse in different areas of computer science, will attend lectures by ETH lecturers and meet computer science students. They will learn about their career options via a visit to the local industry.

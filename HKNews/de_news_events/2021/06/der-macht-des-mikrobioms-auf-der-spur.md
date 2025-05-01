@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2021/06/der-macht-des-mikrobioms-auf-der-spur.html
 
+**Date processed:** 2025-05-01
+
 ## Lautstärkeregler der Pflanzenantwort
 
 In und auf den Blättern und Wurzeln von Pflanzen leben Hunderte von verschiedenen Bakterienarten, die das Forschungsteam um Julia Vorholt vom Institut für Mikrobiologie der ETH Zürich in Zusammenarbeit mit Kolleginnen und Kollegen aus Deutschland vor sechs Jahren erstmals inventarisiert und katalogisiert hat. Damals isolierten sie auch 224 Stämme aus den unterschiedlichen Bakteriengruppen, die die Gemeinschaften auf den Blättern der Ackerschmalwand (Arabidopsis thaliana) bilden. Diese lassen sich zu vereinfachten, so genannten synthetischen Pflanzen-Mikrobiomen zusammensetzen. Damit legten die Forscherinnen und Forscher auch den Grundstein für die beiden neuen Studien, die sie soeben in den Fachzeitschriften «Nature Plants» und «Nature Microbiology» veröffentlicht haben.
@@ -18,9 +20,9 @@ In der zweiten Studie untersuchten Vorholt und ihr Team, wie sich die Bakterieng
 
 Überraschenderweise erzielte jedoch ein anderer Gendefekt die grösste Wirkung: Fehlte den Pflanzen ein bestimmtes Enzym, eine so genannte NADPH-Oxidase, geriet die Bakteriengemeinschaft aus dem Lot. Mit diesem Enzym stellen Pflanzen hochreaktive Sauerstoffradikale her, die antimikrobiell wirken. Ohne NADPH-Oxidase entwickelten sich Mikroben, die unter normalen Umständen friedlich auf den Blättern lebten, zu (so genannten opportunistischen) Pathogenen.
 
-## Literaturhinweise
-
 Für Vorholt belegen die beiden Studien, dass die synthetischen Mikrobiome ein vielversprechender Ansatz sind, um die komplexen Wechselwirkungen in den Lebensgemeinschaften zu untersuchen. «Weil wir die Gemeinschaften kontrolliert und gezielt zusammensetzen können, kommen wir über das Beobachten hinaus – und können die Ursachen und Wirkungen nicht nur feststellen, sondern auch auf molekularer Ebene verstehen», sagt Vorholt. Ein optimales Mikrobiom schützt die Pflanzen vor Krankheiten und macht sie auch widerstandsfähiger gegen Trockenheit und Salz. Aus diesem Grund interessiert sich auch die Agrarindustrie für ihre Resultate. Sie sollen helfen, die Macht des Mikrobioms für die Landwirtschaft der Zukunft nutzbar zu machen.
+
+## Literaturhinweise
 
 Maier BA, Kiefer P, Field CM, Hemmerle L, Bortfeld-Miller M, Emmenegger B, Schäfer M, Pfeilmeier S, Sunagawa S, Vogel CM, and Vorholt JA. A general non-self response as part of plant immunity. Nat Plants 7: 696–705 (2021). doi: externe Seite 10.1038/s41477-021-00913-1 .
 

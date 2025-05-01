@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2018/08/hohe-auszeichnung-fuer-eth-klimaforscher.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Der mit 200'000 Franken dotierte Preis zählt zu den höchsten Stiftungspreisen in der Schweiz. Dabei werden Persönlichkeiten ausgezeichnet, die sich der Verbesserung der Lebensbedingungen von Menschen verschrieben und sich dabei besondere Verdienste erworben haben. «Das trifft auf Reto Knutti in hohem Masse zu,» sagt Stiftungsratspräsident Carlo Schmid-Sutter, «unser Bewusstsein für den Klimawandel ist nicht erst nach diesem Hitzesommer gestiegen, dank den neuen Wegen in der Wissensvermittlung ist es Reto Knutti gelungen, neue Interessierte zu erreichen, die Ergebnisse seiner Forschung weit über die akademische Welt hinaus bekannt zu machen und für die Thematik politische Entscheidungsträger und das breite Publikum zu sensibilisieren.»
@@ -13,6 +15,8 @@ Als einer der Hauptautoren des Klimaberichts des Weltklimarates (IPCC) zeigt Ret
 Über die Auszeichnung freut sich auch ETH-Präsident Lino Guzzella: «Der Preis ist einerseits eine Auszeichnung für die tolle Arbeit von Reto Knutti. Andererseits ist er Beleg dafür, dass die ETH Zürich an gesellschaftlich höchst relevanten Themen forscht, Lösungen dafür entwickelt und sich in die öffentliche Diskussion einbringt.»
 
 Der Preis der Stiftung Dr. J.E. Brandenberger wird Reto Knutti am 24. November 2018 in Zürich verliehen.
+
+## Über den Preis
 
 Die Stiftung Dr. J.E. Brandenberger richtet jährlich einen mit 200'000 Franken dotierten Preis an Schweizerinnen und Schweizer, die sich unter grossem und anhaltenden Einsatz der Verbesserung der materiellen oder immateriellen Lebensbedingungen von Menschen verschrieben und sich dabei besondere Verdienste erworben haben. Der Preis soll insbesondere ohne Rücksicht auf die konfessionelle und politische Einstellung Frauen und Männern verliehen werden. Gegründet wurde die Stiftung von Irma Marthe Brandenberger, der Tochter des Cellophan-Erfinders Dr. J.E. Brandenberger.
 

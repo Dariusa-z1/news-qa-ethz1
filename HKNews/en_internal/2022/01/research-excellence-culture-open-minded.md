@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2022/01/research-excellence-culture-open-minded.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Discussions about values often remain vague. To stimulate the discussion about the five cultural values of ETH – diversity, openness, responsibility, team spirit, and excellence – members of AVETH have designed an exercise that describes each value as a fictional character. Ms. Offenheit for example keeps an open detailed Outlook calendar for everyone in her group and shares her thoughts, including criticism.
@@ -19,6 +21,8 @@ The idea of GloVe word embedding is to extract semantic meaning from word co-occ
 With regard to the description of the ideal team member, this formula emerged: Research – Excellence + Culture = Open-minded. This indicates that if we would subtract “ excellence ” from the “ research ” aspect that a candidate obviously needs to bring, and instead add the relation to “ culture ” we end up with an “ open-minded ” candidate. In a similar vein as the results from the mere word frequency, again openness or open-mindedness seems to play a central role for many research teams.
 
 The rETHink project is still in progress. AVETH is curious which other relations this exercise can reveal when more teams participate. If you have not yet taken the AVETH exercise with your team, forward this blogpost to your professor, organize a meeting, and gather your colleagues to deal with this fun little exercise .
+
+## About the authors
 
 Christian Thurn (right) recently defended his PhD thesis on conceptual change in physics learning. He is president of the Association of Scientific Staff @DGESS and set the ball rolling for the LunchLottery with a blogpost in October 2020.
 

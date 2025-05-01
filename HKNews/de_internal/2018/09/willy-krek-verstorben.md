@@ -2,19 +2,15 @@
 
 **Source:** de_internal/2018/09/willy-krek-verstorben.html
 
+**Date processed:** 2025-05-01
+
 ## Er verband Grundlagenforschung und Medizin
 
 Aufgewachsen ist Willy Krek in Kärnten, an der Technischen Universität in Graz studierte er Chemie. Ein erster Schritt in die Schweiz erfolgte 1988, als er am Schweizerischen Krebsforschungsinstitut ISREC in Lausanne doktorierte.
 
-## Ein grosser Förderer
-
 Seinen wissenschaftlichen Weg setzte er an der Harvard Universität und dem Dana Farber Cancer Institute in Boston fort, bevor er als Gruppenleiter an das Friedrich Miescher Institut in die Schweiz zurückkehrte. 2003 wurde er zum ordentlichen Professor für Zellbiologie an der ETH Zürich ernannt, wo er im Departement Biologie am Institut für molekulare Gesundheitswissenschaften das Labor für «Cell Signaling and Disease Biology» mit Begeisterung bis zu seinem Tod führte.
 
-## Staffnet
-
 Das Forschungsinteresse von Wilhelm Krek galt dem Verständnis der molekularen Signalwege, die das Wachstum von Tumorzellen beeinflussen. Hier verfasste er vielbeachtete und zum Teil bahnbrechende Studien über den Einfluss des Sauerstoffmangels (Hypoxie) und des Fructose-Stoffwechsels. Der direkte Bezug der Grundlagenforschung zur medizinischen Anwendung war für Willy Krek in seiner Forschung und Lehre zentral. Seine Arbeiten mündeten in zahlreiche wissenschaftliche Publikationen, waren Grundlage für die Entwicklung neuartiger Medikamente und Ausgangspunkt für die Gründung von mehreren Start-Up-Unternehmen.
-
-## Newsletter abonnieren
 
 «Ich bin bestürzt und traurig über den viel zu frühen Tod von Willy, der ein hoch geschätzter Kollege und eine bewundernswerte Persönlichkeit war», sagt ETH-Präsident Lino Guzzella. «Willy Krek war vor mehr als zehn Jahren eine treibende Kraft, um die medizinische Forschung als neuen Schwerpunkt dieser Hochschule erfolgreich zu etablieren. Seine Dynamik und sein Mut, Grundlagenforschung und medizinische Anwendung zu verbinden, waren für uns wegweisend.»
 

@@ -2,35 +2,9 @@
 
 **Source:** en_internal/2021/06/rethink-has-grown-into-a-project-for-the-entire-university.html
 
-## rETHink’s main areas of action
+**Date processed:** 2025-05-01
 
-- Tasks, autonomy and guideposts for professorships and broader clarification regarding scope of teaching
-
-- Internal organisation / group structures of professorships
-
-- More flexible use of resources
-
-- To optimally support professors during their whole professor life cycle
-
-- To optimally support professors in adapting to evolving leadership challenges
-
-- To reduce burden (time, energy, risks) of managing difficult cases
-
-- Collaboration between academic departments and central administrative units
-
-- Improvements in the running of departments (rooms, real estate, finances)
-
-- Clarifying the departments’ tasks, autonomy and principles
-
-- Implementing professorship planning (guideposts, handling opportunities, controlling, processes, etc.)
-
-- Digitalisation: identifying thematic areas (processes, technologies, governance, stakeholder management, etc.)
-
-- Another eight areas of action (positioning services, procuring third-party funding, etc.)
-
-- Suggest, accompany and support culture discussions
-
-- Pick up on current topics relevant to culture and values
+## Main article
 
 Mr Mesot, the completion of the analysis phase marks one of the first milestones in the rETHink project. How do you feel about that? When the results of the analysis were presented to us at an Executive Board meeting just over a month ago, I was quite overwhelmed – to begin with, simply by the enormous amount of work undertaken, for which I am extremely grateful. Over the past months, more than 600 ETH members have given serious thought to the way in which we are organised and work together. They have been brutally honest in their analysis of the strengths we need to preserve and where there is need for improvement.
 
@@ -42,8 +16,6 @@ Could you give us an example of this? I’m talking about organisation within th
 
 These results hardly come as a surprise. You’re right there. And they didn’t surprise me either. But the analyses dug a little deeper, of course. And as usually happens during such processes, some initial approaches to solutions were already discussed as well. This produced several ideas which certainly surprised me, for example, sharing more resources, such as rooms, with other professorships. The working group realised that the professorship’s room requirements change over the different phases of their life cycle and more allowances should be made for this in room planning.
 
-## Town hall meeting to discuss completion of the analysis phase
-
 The professorships are one aspect, the organisation of departments another. What findings did the analysis come up with here? The analyses showed that the issues raised here are actually more fundamental to some extent. For instance, some of our structures and processes lag behind developments. Leadership structures especially are often overstretched. This touches on our dynamic pace of growth: the informal processes that allow rapid coordination and swift decisions seem to have reached their limit. We want to address this and make our processes more efficient, so less time is spent on administration.
 
 And how about the central administrative units? They are also affected by ETH’s strong growth. The analysis confirmed their high level of competence and motivation, but at the same time many employees feel overburdened. Weaknesses were also identified in cooperation and communication between the various central administrative units, and between the administration and academic departments. The CAUs generally show a very strong interest in the project and also have high expectations for rETHink.
@@ -54,8 +26,6 @@ What are the next concrete steps for rETHink? First, allow me to review some of 
 
 You’re talking about proposals? That’s right. The procedure is for workstreams to draft concrete solutions, which are then discussed in the organisation. The Executive Board makes the final decisions. That’s why in the case of rETHink it’s so important to have a broader selection of people more closely involved in the run-up to the decisions than is usual for conventional business.
 
-## Subscribe to Newsletter
-
 When can we expect the first decisions with ramifications that extend beyond the organisational aspects of the professorship? In addition to the improvements already under way, we expect more solutions in the spring of 2022, such as clarification of the basic understanding of the roles of the three institutional levels, i.e. university, academic department and professorship, and also – following on from this – clarification of the respective tasks, skills and responsibilities. This requires a common understanding of the cooperation between the departments and the central administrative units. A sort of “best practices and minimum standards” guide is to be produced by the end of 2022 for the organisation of departments, in other words, their operational and leadership structures.
 
 That’s going to take some time. So when will employees and students notice any effects from rETHink? That’s a good question, and rather tricky to answer. One thing is definite: not all ETH members will be affected to the same degree. Nor will there be a specific date upon which rETHink is activated at the flick of a switch. After all, a lot has already happened over the past two years, partly instigated directly through rETHink, and partly fast-tracked in response to the project. So there will still be various initiatives to try to get things up and running. Like the ripples created when a stone hits the surface of the water.
@@ -64,9 +34,25 @@ There are bound to be new regulations as well. Many people fear there will also 
 
 To finish up, more of a personal question: Has rETHink already had an impact on your role as ETH President? Of course – although the biggest impact has come from an earlier Executive Board decision: there are now seven board members. Our two new colleagues have enhanced our diversity. Their contribution has been very helpful and encouraged us to rethink the way we work together. Thanks also in part to the open discussions surrounding rETHink, we have developed into a formidable team in a very short space of time.
 
-Mandate: Developing and implementing a shared and forward-looking understanding of professorships at ETH and establishing appropriate guideposts.
+## rETHink’s main areas of action
 
-## Staffnet
+• Tasks, autonomy and guideposts for professorships and broader clarification regarding scope of teaching
+• Internal organisation / group structures of professorships
+• More flexible use of resources
+• To optimally support professors during their whole professor life cycle
+• To optimally support professors in adapting to evolving leadership challenges
+• To reduce burden (time, energy, risks) of managing difficult cases
+Developing a shared understanding of the departments, their core tasks and responsibilities; further developing their organisation and processes
+
+• Collaboration between academic departments and central administrative units
+• Improvements in the running of departments (rooms, real estate, finances)
+• Clarifying the departments’ tasks, autonomy and principles
+• Implementing professorship planning (guideposts, handling opportunities, controlling, processes, etc.)
+• Digitalisation: identifying thematic areas (processes, technologies, governance, stakeholder management, etc.)
+• Another eight areas of action (positioning services, procuring third-party funding, etc.)
+• Suggest, accompany and support culture discussions
+• Pick up on current topics relevant to culture and values
+Mandate: Developing and implementing a shared and forward-looking understanding of professorships at ETH and establishing appropriate guideposts.
 
 Mandate: Supporting professors in their personal development and their leadership role, as well as their contribution to the institution as a whole.
 
@@ -75,6 +61,8 @@ Developing a shared understanding of the departments, their core tasks and respo
 Orienting the services, processes, tasks, skills and responsibilities (TSRs) to the needs of the professorships and departments; pushing ahead with digitalisation.
 
 Further development of the ETH culture in order to fulfil its mission to “show the way forward in a complex world”.
+
+## Town hall meeting to discuss completion of the analysis phase
 
 Next Tuesday, 29 June 2021 , there will be a town hall meeting via Zoom to discuss the completion of the rETHink analysis phase. Between 12 noon and 1 p.m . the entire Executive Board, together with operational leads of the workstreams, will be on hand to present the main findings, as well as the areas of action highlighted and prioritised as a result. As always, they will be available to answer any questions, and simultaneous English interpretation will also be provided.
 

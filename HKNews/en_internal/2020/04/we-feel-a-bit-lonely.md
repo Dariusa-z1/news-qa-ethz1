@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2020/04/we-feel-a-bit-lonely.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Rudolf Streuli. (Bild: ETH Zürich)

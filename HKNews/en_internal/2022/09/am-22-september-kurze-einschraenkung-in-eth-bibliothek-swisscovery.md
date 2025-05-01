@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2022/09/am-22-september-kurze-einschraenkung-in-eth-bibliothek-swisscovery.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 For reasons of ongoing improvements, your ordering options will be slightly restricted on Thursday, 22 September 2022, from 17.00 to 20.00. During this time, no other pick-up location can be selected for media at the locations “ETH Library” and “GESS Library”, as they pause participating in courier dispatch. When ordering media from other libraries, the libraries mentioned will not be offered as pick-up locations during this time slot.

@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2022/02/made-in-tokio.html
 
+**Date processed:** 2025-05-01
+
 ## Barking dogs from Tokyo
 
 When Momoyo Kaijima took an unusual call from an Israeli number on the evening of 7 February, she couldn’t believe her ears at first and had to let the news sink in. Dan Shechtman, Council Acting Chairperson of the Wolf Foundation, had just congratulated Kaijima on winning this year’s Wolf Prize in Architecture together with her partner Yoshiharu Tsukamoto, who is a Professor at Tokyo Institute of Technology,.
@@ -10,25 +12,23 @@ The Wolf Prize has been awarded to outstanding scientists and artists every year
 
 Kaijima is only the third woman to receive the Wolf Prize in Architecture. She has held the position of Professor of Architectural Behaviorology at ETH Zurich since 2017.
 
-## The discovery of peripheral and interstitial spaces
-
 Kaijima grew up in 1970s Tokyo. Her family lived in a house in the city centre that was home to three generations in her childhood. “Despite being limited in space, our house accommodated entirely different lifestyles in a way that felt very natural,” she says. On her way to school, she saw first-hand just how quickly her native city was changing following the 1964 Olympic Games. These experiences and impressions are what first sparked her interest in architecture and urban development – and they still shape her work today. “Tokyo has always been one of my main sources of inspiration,” she says.
 
 Kaijima studied architecture at Japan Women’s University and at the Tokyo Institute of Technology. She won one of her first competitions together with Yoshiharu Tsukamoto while she was still studying for her Master’s degree. The pair then went on to found Atelier Bow-Wow in 1992. Bow-Wow is a playful allusion to how different countries describe the sound of a dog’s bark. “It was important to us that we as people blend into the background. And we thought the name was funny,” Kaijima recalls.
 
 Kaijima and Tsukamoto’s architectural style is strongly influenced by their engagement with their native city of Tokyo. In 2001, they published the highly acclaimed works “Made in Tokyo” and “Pet Architecture” , in which they describe the city that exists beyond the skyscrapers and shiny new structures. They focus on small houses and anonymous buildings that otherwise receive little if any architectural recognition, despite being typical of Tokyo.
 
-## Mini houses
-
 Kaijima and Tsukamoto illustrate how even small and inconspicuous peripheral and interstitial spaces can provide an opportunity for encounters. “Just one tree in a small garden can enrich public life and help to promote a harmonious coexistence,” Kaijima says.
 
 Through the case studies and examples in “Made in Tokyo”, Kaijima and Tsukamoto want to draw attention to the benefits of hybrid, flexible functionality in buildings that might at first glance not conform to conventional notions of aesthetics. They also highlight the role that even the smallest architectural interventions can play in the appropriation of urban space by its inhabitants.
 
+## Mini houses
+
 Research and design are closely intertwined for Kaijima and Tsukamoto. It thus seems almost natural that Bow-Wow’s first projects addressed residential buildings in Tokyo. The pair became known for a number of mini houses that emerged under challenging conditions on extremely narrow pieces of land.
 
-## Architectural behaviorology
-
 Highly regarded constructions such as Gae House , Mini House and Nora House are brilliant examples of how Kaijima and Tsukamoto manage to create high-quality living space in even the tightest of areas thanks to their intelligent designs. As well as being extremely conscious of existing contexts, the architects also place great importance on learning everything they can about the wishes and needs of the residents.
+
+## Architectural behaviorology
 
 Through their in-depth analysis of the interaction between buildings, human behaviour and natural resources, Kaijima and Tsukamoto have developed their own understanding of architecture over the years, which they refer to in a work published in 2010 as “architectural behaviorology”. This concept sees the duo apply theoretical and methodological approaches from ethnography, social geography and philosophy to the field of architecture.
 
@@ -40,9 +40,9 @@ The architectural duo have seen some surprising results with their ethnographica
 
 In 2011, the Guggenheim BMW Lab caused quite a stir. The mobile, carbon-fibre construction transforms the gap between two buildings into a studio and event space and can be installed in all kinds of settings. After stops in New York and Berlin, it is currently stationed in Mumbai.
 
-Following a number of visiting professorships, including at Harvard University, the Royal Danish Academy of Fine Arts and Columbia University, Kaijima joined ETH Zurich in 2017, where she set up the Chair of Architectural Behaviorology. Even in her teaching, she remains faithful to her ethnographic approach, exploring topics such as the varied use of windows or the future of learning spaces together with her students.
-
 ## Architectural ethnography in teaching
+
+Following a number of visiting professorships, including at Harvard University, the Royal Danish Academy of Fine Arts and Columbia University, Kaijima joined ETH Zurich in 2017, where she set up the Chair of Architectural Behaviorology. Even in her teaching, she remains faithful to her ethnographic approach, exploring topics such as the varied use of windows or the future of learning spaces together with her students.
 
 Her students particularly enjoyed a week-long workshop that saw them take the reins in repurposing an existing space to create an informal learning setting using locally available resources. The project enabled the students to put their newly gained knowledge directly into practice.
 

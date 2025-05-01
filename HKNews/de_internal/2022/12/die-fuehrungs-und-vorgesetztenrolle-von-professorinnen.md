@@ -2,31 +2,21 @@
 
 **Source:** de_internal/2022/12/die-fuehrungs-und-vorgesetztenrolle-von-professorinnen.html
 
+**Date processed:** 2025-05-01
+
 ## Professor:innen werden laufend beurteilt
 
 Traditionell finden im Herbst Personalgespräche statt. Auch an der ETH werden die administrativ-technischen Mitarbeitenden jährlich von ihren Vorgesetzten beurteilt, erhalten Feedback zu ihrer Arbeit und sind aufgefordert, ihrerseits eine Rückmeldung zu den Vorgesetzten zu geben. Gemeinsam werden die neuen Ziele für das kommende Jahr festgelegt. Dieser Prozess gilt für Mitarbeitende aller Stufen. Für die Professorenschaft besteht hingegen ein anderer Evaluationsprozess.
 
-## Formales Reporting über Führungsrolle gefordert
-
 Die Arbeit von Professor:innen unterliegt einer kontinuierlichen Evaluation durch Peers. So bei der Veröffentlichung von Forschungsergebnissen, der Eingabe von Forschungsgesuchen, der Anmeldung von Patenten, und auch bei der Verleihung von Auszeichnungen. Studierende beurteilen die Lehre in regelmässigen Befragungen zu den einzelnen Lehreinheiten. Und eine speziell entwickelte Datenbank, die Annual Academic Achievements (AAA), gibt einen umfassenden Überblick zu den einzelnen Aktivitäten der Professor:innen und ihren jährlichen Leistungen. Das erstreckt sich von wahrgenommenen Aufgaben in der akademischen Selbstverwaltung über andere zeiteinnehmende Aktivitäten wie Outreach oder Spin-off-Gründungen bis hin zu Nebenbeschäftigungen.
-
-## Eine passende Lösung für die ETH
 
 Doch die Erwartungen an das Reporting stiegen über die letzten Jahre.
 
-## Ein neuer Leadership-Feedback-Prozess nimmt Gestalt an
-
 So schreibt etwa die Professorenverordnung nicht nur eine regelmässige Leistungsbeurteilung der Professor:innen vor, sondern auch ein Reporting über deren Durchführung an den ETH-Rat. «Wichtig ist mir, dass eine formalere Leistungsbeurteilung nicht als lästige Pflichterfüllung verstanden wird», betont ETH-Präsident Joël Mesot. Es gehe nicht darum, dass Professor:innen einfach weitere Berichte schreiben müssten. «Die Reflexion darüber, was wir leisten und wie wir dies bewerkstelligen, soll uns dabei helfen, uns weiterzuentwickeln», so Mesot.
-
-## Vertraulichkeit sicherstellen
 
 Vor diesem Hintergrund hat die Schulleitung beschlossen, die Frage der Evaluation von Professor:innen im Rahmen von rETHink anzugehen. Workstream 3 (WS3), der sich schwerpunktmässig mit der «Begleitung von Professor:innen» befasst, wurde beauftragt zu ermitteln, wo bei der Beurteilung und Unterstützung von Professor:innen Handlungsbedarf besteht und konkrete Umsetzungsvorschläge zu entwickeln. Die Analyse zeigte auf, dass zwar die Tätigkeit von Professor:innen im AAA-Prozess vielfältig abgebildet wird, aber hinsichtlich Führungsaufgaben bisher keine formalisiert-verbindliche Möglichkeit zu regelmässiger Evaluation bzw. systematischem Feedback existiert.
 
-## Weitere Arbeiten
-
 Keine leichte Aufgabe, denn Führen in der Wissenschaft ist teilweise anders als in einem Unternehmen. Die grösste Herausforderung besteht darin, dass Doktorierende und Postdocs definitionsgemäss nur für eine bestimmte Zeit einer Forschungsgruppe angehören und an ihren eigenen Projekten arbeiten. «Solche Teams sind divers und haben eine recht hohe Fluktuation, es müssen also immer wieder neue Kolleg:innen integriert werden, die oft verschiedenartige kulturelle Hintergründe haben», erläutert Julia Dannath, Vizepräsidentin für Personalentwicklung und Leadership (VPPL). Die Besonderheit besteht darin, den Mitarbeitenden gute Orientierung und Anleitung zu bieten und gleichzeitig genügend Freiraum zur Entfaltung der eigenständigen wissenschaftlichen Karriere des Nachwuchses zu ermöglichen. «Den Balanceakt, gleichzeitig vorgesetzte Person und Mentor:in zu sein, kenne man in der Industrie zwar auch, doch die erwähnten Aspekte haben zur Folge, dass das Führen einer Forschungsgruppe an einer Hochschule zu einer besonderen Herausforderung mit grosser Verantwortung wird», resümiert Dannath.
-
-## Immer aktuell informiert
 
 Der Lösungsvorschlag, den WS3 in enger Zusammenarbeit mit dem Vizepräsidium für Personalentwicklung und Leadership und im Austausch mit der Professorenschaft erarbeitet, heisst «Leadership Feedback Prozess» (LFP).
 

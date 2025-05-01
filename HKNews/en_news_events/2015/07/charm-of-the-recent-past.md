@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2015/07/charm-of-the-recent-past.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Looking back from a historical point of view, 1979 turned out to be a watershed year. Margaret Thatcher became Prime Minister, while the Iranian Revolution occurred and led to far-reaching consequences. Soviet troops invaded Afghanistan, and NATO embarked on disarmament talks at the same time as it positioned mid-range missiles in Europe. While Michel Foucault was preoccupied with neoliberalism, the "market" became a magic word, reverberating far beyond Ronald Reagan's economic policies. During the same year – 1979 – consumer electronics (the Walkman) and computers (PC) became household objects.
@@ -23,6 +25,8 @@ What is the importance of the exponential growth of computer power? I don't beli
 What kind of consequences does this have for society? Some say it has led to the end of society. Others believe that society has become more dynamic. Both views focus on computer-assisted monitoring of situations. When they find the monitoring suspicious, they call it big brother, bean counting or morally destructive. When it suits them, however, they describe it as creating transparency, increasing flexibility, quality assurance or improved compliance. This culture of control no longer relates just to more technical or business processes, but rather to the evaluation of school programmes, the physical development of children, the monitoring of public spaces, threshold values, and melting glaciers.
 
 Did the conference take a look into the future based on this historical analysis? We of course discussed the Eurozone problem. What happened? What is going on? What are the stakes? What is to be expected? The first three questions were answered with a high level of competence. But the last one proved difficult. Change brought about by crisis is characterised by the fact that the rules of the game and stability in terms of expectations are lost. The time when one needs forecasts the most is precisely when they cannot be made. We are specialists in social change. We possess the ability to observe this change through analytical skills where possible, namely in the past. As far as future change is concerned, we will leave it to others to speculate.
+
+## About David Gugerli
 
 David Gugerli has been a professor for history of technology at ETH Zurich since 1997. He is a founding member of the Centre for the History of Knowledge, which is supported by ETH as well as the University of Zurich.
 

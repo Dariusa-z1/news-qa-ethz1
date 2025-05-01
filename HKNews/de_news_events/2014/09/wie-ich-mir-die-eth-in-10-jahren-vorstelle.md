@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2014/09/wie-ich-mir-die-eth-in-10-jahren-vorstelle.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Während eines Jahres durfte ich die ETH so kennenlernen, wie sie der Durchschnittsstudent nie sieht. Ich ärgerte mich über kompliziert verteilte Zuständigkeiten, freute mich darüber, wie kompetent einige Stellen besetzt sind, sass im Büro des ETH-Präsidenten auf dem Sofa und entwirrte Probleme von Studierenden, die ich mir auch in den wildesten Träumen nicht hätte ausdenken können.
@@ -17,6 +19,8 @@ Das Leben auf dem Campus hat sich verändert: Mit dem Bezug der Studierendenwohn
 Durch diese Angebote gewinnen die Jahre, die Studierende an der ETH verbringen, an emotionalem Wert. Die Studienkollegen werden zur Familie, die Professoren kennt man nicht nur aus dem Frontalunterricht, sondern auch als gleichwertige Partner in Diskussionsrunden.
 
 Am Ende des ETH-Studiums steht eine stimmungsvolle Masterfeier, die diesen prägenden Lebensabschnitt angemessen abschliesst und der Studienzeit ein Sahnehäubchen aufsetzt.
+
+## Essay: Die ETH in 10 Jahren?
 
 Haben auch Sie eine Vorstellung, wie sich die Hochschule in den nächsten 10 Jahren entwickeln wird?
 

@@ -2,7 +2,9 @@
 
 **Source:** de_internal/2024/02/optimierte-prozesse-fuer-die-eth-finanzplanung.html
 
-## Finanzplanung, die auf Veränderungen reagieren kann
+**Date processed:** 2025-05-01
+
+## Main article
 
 Neu sollen ein Szenario- und Simulationsmodell die bisherige Mittelfristplanung (MFP) in der strategischen Finanzplanung ersetzen sowie ein dynamischeres Rolling Forecast die heutige Budgetierung im Bereich der kurzfristigen, operativen Finanzsteuerung ablösen. Die entsprechenden Prozesse und Softwarelösungen werden nun entwickelt und in den nächsten Monaten eingeführt.
 
@@ -10,7 +12,7 @@ Die nun bewilligte Einführung von Szenario- und Simulationsmodellen für die st
 
 Das Ziel der Neuerungen für die kurzfristige, operative Finanzplanung sind vereinfachte Prozesse, geringere Aufwände sowie mehr Flexibilität für die Führungskräfte in der Mittelverwendung. In erster Linie optimieren die neuen Prozesse die Finanzplanung der Zentralen Organe, da die akademischen Organisationseinheiten in die Mittelfristplanung nicht direkt involviert sind. Der neue Rolling Forecast führt, aufgrund der gleichen Erfassungsstruktur in beiden Forecast-Runden jeweils im zweiten und im vierten Quartal, sowie nur einer Lesung pro Forecast-Runde, zur Vereinfachung und Harmonisierung der Finanzplanung.
 
-## Immer aktuell informiert
+## Finanzplanung, die auf Veränderungen reagieren kann
 
 Die zentralen Organe haben neu direkt im Planungssystem eine Übersicht über ihre Ist-Werte und Eingaben sowie als Orientierung ihre bisherigen Forecast-Werte. Für die Folgejahre sind weitere Entwicklungen geplant, um die Planungseinheiten durch Vorschlagswerte zu unterstützen, die von einem maschinellen Lernalgorithmus für das Predictive Forecasting entwickelt werden. Rolling Forecast – oder auf Deutsch «Rollierende Prognose» – drückt aus, dass die Prognose in Bewegung ist und an die aktuellen Gegebenheiten angepasst wird.
 

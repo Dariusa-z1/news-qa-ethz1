@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2013/12/eth-zuerich-eine-kluge-Wahl-f%C3%BCr-Wissenschaft-und-Familie.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Um ihre Position als eine der international führenden Hochschulen zu erhalten, ist die ETH Zürich bestrebt, die besten Wissenschaftler zu gewinnen. In den letzten Jahren hat die ETH ihre entsprechenden Anstrengungen verstärkt. Heute stammen rund 35 Prozent der ETH-Professoren aus dem Ausland.

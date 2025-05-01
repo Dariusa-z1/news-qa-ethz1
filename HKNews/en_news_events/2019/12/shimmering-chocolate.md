@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2019/12/shimmering-chocolate.html
 
+**Date processed:** 2025-05-01
+
 ## Experiments in the kitchen
 
 The chocolate shimmers in dynamically changing rainbow colours. It seems to glow in the light. A group of scientists from ETH Zurich and FHNW University of Applied Sciences and Arts Northwestern Switzerland have recently filed a patent for this process.
@@ -11,8 +13,6 @@ Traditional methods for colouring chocolate have been around for a long time. Bu
 The story begins in the shared corridor of a university building. The food scientist Patrick Rühs, the materials scientist Etienne Jeoffroy and the physicist Henning Galinski chat about chocolate during their coffee break. Although they work in different research groups, their offices are next to each other. They wonder how – and whether – it might be possible to make coloured chocolate. Rühs is studying the material properties of foodstuffs, Jeoffroy specialises in complex materials and Galinski has already done in-depth research into optical materials.
 
 The first experiments start in the kitchen where they take their coffee, often on a Friday afternoon. The chocolate project is driven by sheer curiosity. The trio of researchers start to document the properties of chocolate, to understand what is special about the material and why it is brown. The possible solutions they come up with are almost playful, but the practical implementation remains challenging.
-
-## Master’s project leads to a breakthrough
 
 First, the three scientists experiment with structural colours based on edible coatings of gold and titanium oxide. Depending on the thickness of the titanium coating, golden yellow or deep blue colours appear on the dark chocolate. Even so, the researchers reject that method, as the production process would be too complex and coating the chocolate, whose melting point is 31°C, would be tricky and time consuming. They reach the conclusion that it must also be possible to find a solution without additives.
 

@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2016/09/aktion-grippeimpfung-2016.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Alle Angehörigen der ETH Zürich können sich impfen lassen. Für die ETH-Mitarbeitenden und Studierenden ist die Impfung gratis. Die Impfung ist freiwillig.

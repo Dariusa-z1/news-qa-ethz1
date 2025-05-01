@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2014/08/big-heavy-and-powerful.html
 
+**Date processed:** 2025-05-01
+
 ## High demands made of the staff
 
 When you walk into the HIF building on the Hönggerberg, you’re entering a world of superlatives. The whole area, measuring 4,000 square metres, is covered in either structural components or the machinery for testing them. This is Thomas Jaggi’s working world. The former road-building and civil engineering foreman has been working at the Institute of Structural Engineering for seven years. He, along with a mechanic and several technicians and engineers, is there to support the students and doctoral students at the Institute with their experiments.
@@ -10,7 +12,7 @@ He also often has to deal with requests from outside ETH Zurich – from private
 
 His experience in the various institutes has been very useful for his present job, he says. He is able to bring his knowledge of the different materials and test machines to bear very effectively. And more than that: “I enjoy my present job the most.” Big, heavy and powerful is the name of the game at the Institute of Structural Engineering. “That’s my world,” he says. And that’s why he isn’t the least bit weary, even after 25 years at ETH Zurich. On the contrary: “I look forward to going to work every morning.”
 
-## Not the least bit weary
+## May 2014 anniversaries
 
 45 years Andreas Dutly, Inst. f. Chemical and Bioengineering
 
@@ -18,15 +20,11 @@ His experience in the various institutes has been very useful for his present jo
 
 30 years Michael Dröge, Inst. f. Particle Physics (IPP)
 
-## May 2014 anniversaries
-
 25 years Jacqueline Zwicky, D-CHAB Administration Rolf Meier, Lab. of Hydraulics, Hydrology and Glaciology Regula Schälchli, Geological Institute Gildo Sturzenegger, Services Pierre Funck, Dep. of Environmental Systems Science
 
 20 years Viola Gloor, Dep. of Humanities, Social and Political Sciences Ruth Bertschi, IVT Office Judith Bissegger, ETH library
 
 15 years Dr. Marcel Leupp, Dep. of Mathematics Sonja Blum, Student Administration Zaharoula Nianias, Facility Management Ursula Scheier Wieder, Inst. f. Molecular Health Sciences
-
-## June 2014 anniversaries
 
 10 years Barbara Schori, Student Exchange Office Susanne Benitz, ETH library Sabina Maria Eipe, Inst. of Robotics and Intelligent Systems Hans Rudolf Felber, Prob. of Developing Countries, Kappel Sofia Delamanis, Inst. f. Biomechanics
 
@@ -34,15 +32,11 @@ Retirements Prof. Dr. Johannes Friso van der Veen, Chair of Experimental Physics
 
 Deaths Dr. Jacques Michel Marcel Laville, ITS Service Delivery Prof. Dr. Andreas Tönnesmann, Inst. f. History and Theory of Architecture
 
-## Subscribe to Newsletter
-
 35 years Evangelia Papatheodorou-Disseris, Facility Management
 
 30 years Peter Salzmann, Process Planning and Projects Gustav Nussbaumer, Inst. f. Spatial and Landscape Development
 
 25 years Thomas Wyder, Lab. of Hydraulics, Hydrology and Glaciology Thomas Jaggi, Inst. of Structural Engineering Irena Hajdas, Lab. of Ion Beam Physics (LIP)
-
-## Staffnet
 
 15 years Dr. Jan Van Beilen, Inst. for Quantum Electronics Anders Hagström, ETH Global
 

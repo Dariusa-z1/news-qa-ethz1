@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2018/03/new-scanner-could-provide-earlier-diagnosis-of-dementia.html
 
+**Date processed:** 2025-05-01
+
 ## Cheaper, smaller and more mobile
 
 They are barely thirty years old and are already actively involved in improving the diagnosis of Alzheimer’s disease. Max Ahnen (29) and Jannis Fischer (30) are developing a PET brain scanner that is not only less expensive, but also much more compact than those currently installed in hospitals. In recognition of their work, the US business magazine Forbes has included them on its “ 30 Under 30 Europe ” list 2018, in the category of Science & Healthcare. Forbes compiles this list every year to recognise “the most intelligent young entrepreneurs and inventors” in different disciplines. “We’re very proud to have made it onto the list,” says Jannis Fischer, who then jokes: “Next year we would have been too old to qualify!”
@@ -12,9 +14,9 @@ PET scanners can help to diagnose certain neurological health conditions 10-20 y
 
 At ETH Zurich’s Institute for Particle Physics and Astrophysics, Ahnen and Fischer are working to improve this situation. The project was initiated by researchers and doctors from the University of Zurich and the University Hospital of Zurich. The provisional name for their invention is Brain PET (BPET) and it will be used to identify neurological disorders. These include brain tumours and diseases of the nervous system, such as amyotrophic lateral sclerosis, Parkinson’s and Alzheimer’s disease, all of which cause dementia.
 
-BPET is supposed to cost just a tenth of current PET machines and its footprint will be less than two square metres. “It looks a bit like a hair salon chair with an integrated hairdryer hood,” Ahnen says. Because of its size, it is much more mobile than conventional machines, and is therefore suitable for use not only in big hospitals, but also in smaller clinics in South America, Asia, or Africa.
-
 ## New company about to be set up
+
+BPET is supposed to cost just a tenth of current PET machines and its footprint will be less than two square metres. “It looks a bit like a hair salon chair with an integrated hairdryer hood,” Ahnen says. Because of its size, it is much more mobile than conventional machines, and is therefore suitable for use not only in big hospitals, but also in smaller clinics in South America, Asia, or Africa.
 
 Not only does the Brain PET technology cost less, but it is cheaper to use. The higher the frequency of use, the lower the cost of the radioactive tracer substances. PET scanners are currently the most expensive type of imaging equipment used in modern clinics, and many hospitals are unable to afford them. Fischer says: “We will be able to reach much wider sections of the population than in the past.”
 

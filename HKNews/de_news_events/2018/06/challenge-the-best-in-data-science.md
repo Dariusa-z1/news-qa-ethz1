@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2018/06/challenge-the-best-in-data-science.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Die Weiterbildungsoffensive der ETH Zürich gewinnt an Fahrt. Nachdem die Hochschule im April mit Einstein die School for Continuing Education lanciert und die neuen Programme in Cyber Security und Materialien und Fertigungstechnologie vorgestellt hat, präsentiert sie heute bereits ein weiteres Angebot: Das Diploma of Avanced Studies ETH in Data Science. Das Programm vermittelt die neuesten Kenntnisse, Methoden und Technologien im Bereich Datenwissenschaften. Es baut auf den gleichen Lerneinheiten auf wie der gleichnamige Masterstudiengang, den die ETH im Herbstsemester 2017 startete.

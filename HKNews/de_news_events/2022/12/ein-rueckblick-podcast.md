@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2022/12/ein-rueckblick-podcast.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Der ETH-Podcast geht in eine kreative Pause und wird im nächsten Jahr mit neuem Konzept wieder auftauchen. Zeit für Moderatorin und Co-Produzentin Jennifer Khakshouri von Audiobande, zurückzublicken und zwei ihrer ersten Podcast-Gäste nochmal zu besuchen:

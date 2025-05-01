@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2019/12/lesen-und-publizieren-neu-geregelt.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Despite the absence of an agreement with Springer Nature, access to all journal contents is granted until further notice.

@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2015/07/the-good-years.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Im historischen Rückblick erweist sich das Jahr 1979 als eine bemerkenswerte Zäsur: Margaret Thatcher wird Premierministerin, im Iran kommt es zu einer folgenschweren Revolution. Sowjetische Truppen marschieren in Afghanistan ein und die Nato führt Abrüstungsgespräche, stationiert in Europa aber gleichzeitig Mittelstreckenraketen. Während sich Michel Foucault mit dem Neoliberalismus beschäftigt, wird «der Markt» zum Zauberwort, weit über die Wirtschaftspolitik von Ronald Reagan hinaus. 1979 ist auch das Jahr, in dem sowohl die Unterhaltungselektronik (Walkman) als auch der Computer (PC) personalisiert wurden.
@@ -23,6 +25,8 @@ Welche Bedeutung hatte der exponentielle Anstieg von Rechenleistung? Ich glaube 
 Welche Konsequenzen hatte dies für die Gesellschaft? Manche sagen, es hätte zum Ende der Gesellschaft geführt, andere sagen, die Gesellschaft sei dynamischer geworden. Beide setzen auf rechnergestützte Überwachung der Verhältnisse und etikettieren jene Überwachung, die ihnen suspekt ist, wahlweise mit Big Brother, Erbsenzählerei oder moralischem Untergang. Was ihnen jedoch daran passt, beschreiben sie als Schaffung von Transparenz, Erhöhung der Flexibilität, als Qualitätssicherung oder als verbesserte Compliance. Die Kultur des Controlling betrifft ja längst nicht nur mehr technische oder betriebswirtschaftliche Prozesse, sondern zum Beispiel auch die Evaluation von Schulprogrammen, die körperliche Entwicklung von Kindern oder die Überwachung öffentlicher Räume, kritischer Grenzwerte und schmelzender Gletscher.
 
 Wurde basierend auf der historischen Analyse während der Konferenz auch ein Blick in die Zukunft geworfen? Natürlich haben wir auch versucht, uns ein Bild über die erwartbaren Entwicklungen in der Eurozone, in Europa und in Griechenland zu machen. Was ist passiert? Was wird gespielt? Um welche Einsätze geht es? Was ist zu erwarten? Die ersten drei Fragen wurden mit geballter Kompetenz beantwortet. Bei der letzten wurde es schwierig. Krisenhafter Wandel zeichnet sich eben gerade dadurch aus, dass einem die Spielregeln und die Erwartungsstabilität abhandenkommen. Ausgerechnet dann, wenn wir Prognosen am nötigsten hätten, lassen sie sich nicht herstellen. Nein, wir sind Spezialisten für gesellschaftlichen Wandel und haben die Kompetenz, diesen Wandel dort zu beobachten, wo dies möglich ist, nämlich in der Vergangenheit. Über den Wandel, der sich in der Zukunft ergeben haben wird, lassen wir andere spekulieren.
+
+## Zur Person
 
 David Gugerli ist seit 1997 Professor für Technikgeschichte an der ETH Zürich. Er ist Gründungsmitglied des Zentrums für die Geschichte des Wissens, das von der ETH und der Universität Zürich getragen wird.
 

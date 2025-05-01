@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2021/06/wastewater-provides-representative-data-on-viral-strains.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH News: Professor Beerenwinkel, what is the status of the coronavirus Delta variant in Switzerland? Niko Beerenwinkel: Fortunately, fewer and fewer people in Switzerland have become infected with the coronavirus in recent weeks. However, the Delta variant makes up an increasing proportion of the viruses in circulation. This is shown by data from colleagues here at the Department of Biosystems Science and Engineering, who have sequenced the viral genome in some of the PCR tests done in Switzerland to determine the viral strain. Wastewater measurements in which we are involved also clearly show this increase. We weren’t able to detect the Delta variant in any samples from Swiss wastewater treatment plants taken before 20 May. At that time, their frequency was below the detection limit. But now in the most recent samples, analysed up until 15 June, we find the Delta variant present in five of six wastewater treatment plants tested. According to our estimates, the variant accounted for 33 percent of all detected coronavirus RNA molecules in Zurich on 15 June, and 48 percent of those in the Bern region (Sensetal). In the other wastewater treatment plants studied, the proportion of the Delta strain was lower.
@@ -15,6 +17,8 @@ Are there any disadvantages with wastewater measurements? Virus variants are som
 Why is this data interesting? Changes in this ratio let us calculate whether a new variant is more easily transmissible than an older one, and if so, then how much more. Because the wastewater data represents the average over a large number of people, calculations using this data are more accurate and have less uncertainty. That means we can predict at an early stage whether a new variant should be classified as a concern or not.
 
 You publish your results on your website . The latest available data is from 15 June, which was two weeks ago. Is there some way to do the analysis faster? We and the other scientists involved started this project as a research project. Our aim was to show that these kinds of measurements are possible at all. We’re now aiming to publish the data two weeks after sampling. However, this will work only if all the molecular biological and bioinformatic analyses are error-free and succeed on the first attempt. If, say, the authorities expressed an interest in using these measurements as an early warning system in the future – in other words, to obtain information on emerging variants even more quickly and regularly – then we would have to revisit the infrastructure, which is currently geared to research, and adapt it to this goal. While that’s certainly possible, it’s beyond the scope of our research activities.
+
+## About
 
 Niko Beerenwinkel is Professor of Computational Biology at the Department of Biosystems Science and Engineering at ETH Zurich in Basel. His research at the interface of computer science, statistics and biology includes developing methods for analysing complex DNA and RNA sequencing data from viruses and tumours.
 

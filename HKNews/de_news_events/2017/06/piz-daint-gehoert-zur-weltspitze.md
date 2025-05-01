@@ -2,15 +2,13 @@
 
 **Source:** de_news_events/2017/06/piz-daint-gehoert-zur-weltspitze.html
 
+**Date processed:** 2025-05-01
+
 ## Strategisches Vorgehen
 
 Seit November 2013 ist der Hochleistungsrechner «Piz Daint» am Nationalen Rechenzentrum (CSCS) in Lugano der leistungsstärkste Supercomputer Europas. Ende 2016 wurde seine Leistung durch ein umfassendes Hardware-Upgrade nochmals mehr als verdreifacht. Heute ist «Piz Daint» mit einer theoretischen Spitzenleistung von 25,3 Petaflops der schnellste Rechner ausserhalb Asiens, wie an der internationalen Fachtagung ISC High Performance in Frankfurt heute bestätigt wurde. Dank innovativer Architektur ist «Piz Daint» zudem auch einer der energieeffizientesten Grossrechner weltweit.
 
-## Unterstützung der Forschung
-
 Der aufgerüstete Hochleistungsrechner ist ein energieeffizientes hybrides System, bestehend aus herkömmlichen Prozessoren (CPUs) und Graphikprozessoren (GPUs). Das ausgeklügelte System, das auf einem Cray XC40/XC50 basiert, ist das Ergebnis einer langjährigen Zusammenarbeit zwischen dem CSCS, verschiedenen Hardwareproduzenten sowie Informatikern, Mathematikern und weiteren Forschenden unterschiedlicher Disziplinen. Angestossen wurde diese erfolgreiche Kooperation durch die nationale Hochleistungsrechnen- und Vernetzungsstrategie (HPCN-Strategie), die vom ETH-Rat im Namen des Bundes 2009 lanciert wurde.
-
-## Wichtig für internationale Kooperationen
 
 Hochleistungsrechner sind mittlerweile aus der Forschung nicht mehr wegzudenken: Simulationen, Datenanalysen und Visualisierungen liefern neben Theorie und Experimenten in den meisten Forschungsbereichen zentrale Beiträge. Leistungsstarke Systeme wie «Piz Daint» sind entscheidend für hochaufgelöste rechenintensive Simulationen, wie sie etwa in der Klima- und Materialforschung sowie in den Life Sciences gemacht werden.
 

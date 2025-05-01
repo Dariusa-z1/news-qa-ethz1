@@ -2,15 +2,13 @@
 
 **Source:** en_internal/2022/11/eth-store-to-enter-into-collaboration-with-orell-fuessli.html
 
+**Date processed:** 2025-05-01
+
 ## Two out of three stores to be operated by Orell Füssli
 
 In addition to its own online shop, ETH Store AG operates three branches on the ETH Campus in which students and staff can find a wide range of books, stationery and ETH merchandise. ETH Store is now entering into collaboration with Switzerland’s biggest bookseller, Orell Füssli Thalia AG .
 
-## New online shop, better conditions
-
 From 1 January 2023, Orell Füssli Thalia AG will take over the ETH Store on the Hönggerberg campus and the branch on the Polyterrasse. The second ETH Store in the Centre – the branch in Sonneggstrasse – will continue to be operated by ETH Store AG and from February 2023 be managed as a new flagship store for ETH merchandise and other services and products.
-
-## Always up to date
 
 Orell Füssli will take over the staff of both ETH Stores and the existing inventory. This is to be supplemented by selected specialist literature, non-fiction books and study materials.
 

@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2024/07/six-professors-appointed.html
 
+**Date processed:** 2025-05-01
+
 ## New appointments
 
 (Photograph: © Moritz Drupp)
@@ -12,8 +14,6 @@ Professor Moritz Drupp (*1986), currently Professor at the University of Hamburg
 
 Dr Michael Moor (*1992), currently Postdoctoral Scholar at Stanford University, USA, as Tenure Track Assistant Professor of Medical AI in the Department of Biosystems Science and Engineering. Michael Moor’s research reflects his dual training as a medical doctor and data scientist. He develops machine learning and artificial intelligence models with the aim of solving biomedical problems and ultimately improving the diagnosis and treatment of patients. His particular interest is in generative AI and basic models for integrating large amounts of biomedical data and harnessing them for clinical applications. By appointing Michael Moor, the Department is strengthening its expertise in biomedical data science and artificial intelligence in medicine, while creating synergies with the ETH AI Center and the university hospitals in Basel und Zurich.
 
-## Promotions
-
 (Photograph: © Andreas Prein)
 
 Dr Andreas Franz Prein (*1982), currently Deputy Director of the Capacity Center for Climate and Weather Extremes at the National Center for Atmospheric Research (NCAR) in Boulder, USA, as Full Professor of High-Resolution Weather and Climate Modelling in the Department of Environmental Systems Science. Andreas Franz Prein’s award-winning research has a methodological focus on high-resolution climate simulations for the study of extreme precipitation events in a changing climate. Through this appointment, the Department is strengthening its expertise in the field of high-resolution simulation of weather and climate. Andreas Franz Prein’s involvement will contribute to deepening and expanding ETH Zurich’s varied internal and external cooperations with key partners in the field of climate science at MeteoSchweiz, the CSCS and other Swiss universities and research institutes.
@@ -22,7 +22,7 @@ Dr Andreas Franz Prein (*1982), currently Deputy Director of the Capacity Center
 
 Professor Yilin Wang (*1991), currently Junior Professor at the Institut des Hautes Études Scientifiques (IHES) in Bures-sur-Yvette, France, as Associate Professor of Mathematics in the Department of Mathematics. Yilin Wang studies classical and random conformal geometry at the intersection of geometry and probability theory with a focus on Loewner energy. Her work has a strong basis in physics and she understands better than anyone the subtle aspects of the interplay between geometry and probability. Her research has been awarded prestigious prizes, including an ERC Starting Grant. With the appointment of Yilin Wang, the Department is gaining an outstanding expert who has gone beyond existing research programmes to develop her own, new research direction with a unique perspective.
 
-## Award of the title of Professor
+## Promotions
 
 (Photograph: ETH Zurich / Giulia Marthaler)
 
@@ -32,7 +32,7 @@ Professor Eleni Chatzi (*1981), currently Associate Professor at ETH Zurich, as 
 
 Professor Gonzalo Guillén Gosálbez (*1978), currently Associate Professor at ETH Zurich, as Full Professor of Chemical Systems Engineering in the Department of Chemistry and Applied Biosciences. In his research, Gonzalo Guillén Gosálbez focuses on sustainability assessment and optimisation in relation to chemical systems. He is particularly interested in new chemical technologies, the chemical recycling of plastic waste, and novel catalytic systems used in applications such as organic synthesis. His research receives funding from several reputable sources, including the Swiss National Science Foundation, the EU and numerous industry partners. Gonzalo Guillén Gosálbez is a highly esteemed teacher and colleague who is set to develop the chemical engineering curriculum even further when he takes over the post of Director of Studies at the Department.
 
-## Award of the title of “Professor of Practice”
+## Award of the title of Professor
 
 (Photograph: © Monika Krichel)
 
@@ -41,6 +41,8 @@ Dr Meike Akveld (*1972), currently Lecturer and Senior Scientist at ETH Zurich, 
 (Photograph: Heidi Hostettler)
 
 Dr Tobias Donner (*1977), currently Lecturer and Senior Scientist at ETH Zurich, as Adjunct Professor in the Department of Physics at ETH Zurich. Tobias Donner is an internationally recognised pioneer in the field of cavity quantum electrodynamics with ultra-cold atomic ensembles. His research investigates the mechanical aspects of interactions between light and matter deep in the quantum realm. In the past decade he has made a decisive contribution to the research area of many-body cavity quantum electrodynamics. Tobias Donner has received a number of notable research grants, including an ERC Consolidator Grant.
+
+## Award of the title of “Professor of Practice”
 
 (Bild: © Swiss Medical Network)
 

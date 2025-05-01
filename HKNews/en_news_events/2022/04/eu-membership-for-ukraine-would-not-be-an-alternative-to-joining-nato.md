@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2022/04/eu-membership-for-ukraine-would-not-be-an-alternative-to-joining-nato.html
 
-## Solidarity with Ukraine
+**Date processed:** 2025-05-01
+
+## Main article
 
 Last Sunday, Emmanuel Macron was elected to a second term as President of France. How important is this for the European Union in the current climate?
 
@@ -32,8 +34,6 @@ The EU will focus on the tasks for which it has the expertise and resources, nam
 
 What is the current relationship between the EU and NATO?
 
-## Don't miss the latest news
-
 Collaboration and worksharing between the EU and NATO has become much more intensive. While NATO is taking the lead in terms of a military response to Russia’s war of aggression, the EU is focusing on coordinating sanctions among member countries and with the United States.
 
 And still, President Macron never grows tired of emphasising that the EU ought have more autonomy when it comes to security policy. Is this all a bit pie in the sky?
@@ -59,6 +59,8 @@ Finally, let’s turn briefly to Switzerland’s relationship with the EU. How i
 In light of the current threat, it’s conceivable that Switzerland will align its security policies more towards those of the EU and NATO. But this question is separate from the existing disputes between Switzerland and the EU, which range from research collaboration to institutional issues. Right now, the EU has even less time and patience to deal with Swiss demands. And for its part, Switzerland shows little sign of taking a step in the EU’s direction.
 
 Frank Schimmelfennig is Professor of European Politics at ETH Zurich
+
+## Solidarity with Ukraine
 
 ETH Zurich condemns the acts of war in Ukraine and supports affected students and researchers. Here you can find the current support being offered by ETH Zurich.
 

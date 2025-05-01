@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2013/09/focus-what-ends-up-on-our-shelves.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Dr Sibyl Anwander, Head of Public Affairs and Sustainability at Coop, Michael Siegrist, Professor of Consumer Behaviour and Achim Walter, Professor of Crop Science at ETH Zurich offer us answers.
@@ -121,6 +123,8 @@ Walter: Genetic engineering burst onto the scene with big promises. Today, it is
 Anwander: Climate change might thus contribute to the acceptance of genetic engineering because farmers will need new breeds faster. Classical breeding takes at least 20 years – whether we will still have this time in the face of rapid climate changes is questionable. Genetic engineering could help to speed up breeding procedures.
 
 Walter: Genetic diversity is important above all in respect of climate change. For all the main crops there are varieties that can thrive on less water or at higher or lower temperatures than prevail in a specific region today. In Switzerland we will have a different climate in 20 years’ time from the one we have now. We will need varieties that can make do with slightly less water, offer improved yield reliability or perhaps thrive at higher altitudes. We must tap into this biodiversity potential.
+
+## Interviewees
 
 Sibyl Anwander is responsible for Public Affairs and Sustainability at Coop. The ETH alumna was a researcher and lecturer for more than 10 years at her Alma Mater before taking up a position in 2001 with the Swiss wholesale distributor where she, amongst other things, published the first sustainability report. She chaired the Business Social Compliance Initiative (BSCI) and is a member of the advisory bodies of various other organisations that subscribe to sustainability.
 

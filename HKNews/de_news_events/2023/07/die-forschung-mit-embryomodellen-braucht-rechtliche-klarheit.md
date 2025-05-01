@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2023/07/die-forschung-mit-embryomodellen-braucht-rechtliche-klarheit.html
 
-## Zur Person
+**Date processed:** 2025-05-01
+
+## Main article
 
 Drei Forschungsteams aus Grossbritannien, den USA und Israel haben es unabhängig voneinander geschafft, aus menschlichen Stammzellen Zellaggregate zu entwickeln, die dem frühen menschlichen Embryo ähneln, wie im Juni bekannt wurde.
 
@@ -16,9 +18,9 @@ In einigen Ländern dürfen Forschende mit echten menschlichen Embryonen arbeite
 
 Ist es derzeit in der Schweiz rechtlich erlaubt, mit menschlichen Embryomodellen zu arbeiten, allenfalls auch länger als 14 Tage? Die Forschung mit Embryonen ist in der Schweiz nicht verboten, aber streng reglementiert, wobei die Frist in der Schweiz nicht 14, sondern 7 Tage beträgt. Die rechtliche Definition dessen, was ein Embryo ist, ist hier allerdings sehr eng gefasst. Die neuen Embryomodelle dürften nicht darunterfallen. Das heisst, die Arbeit mit ihnen ist in der Schweiz derzeit weitgehend ungeregelt. Es gibt unterschiedliche Methoden, um solche Embryomodelle zu erzeugen. Zum Teil werden die menschlichen Stammzellen dazu genetisch verändert. Das wäre in der Schweiz verboten. Es gibt aber auch Methoden, die ohne Gentechnik auskommen.
 
-## Literaturhinweis
-
 Und in den anderen europäischen Ländern? Die rechtliche Lage und insbesondere auch, was als Embryo definiert wird, unterscheiden sich von Land zu Land. Die Gesetzgebungen in Österreich und Belgien beispielsweise definieren Embryonen so, dass auch die neuen Modelle darunterfallen dürften. Das heisst, die Regulierungen zur Forschung mit menschlichen Embryonen dürften dort so ausgelegt werden, dass sie auch für die neuen Embryonenmodelle gelten. In den meisten Ländern bestehen allerdings bedeutende Gesetzeslücken.
+
+## Zur Person
 
 Alessandro Blasimme ist Wissenschaftler am Departement Gesundheitswissenschaften und Technologie der ETH Zürich und befasst sich mit der Ethik und Epistemiologie der Biomedizin.
 
@@ -27,6 +29,8 @@ Was heisst das für die Wissenschaft? Ungewisse Rahmenbedingungen bringen keine 
 Was kann Ihr Feld, die Bioethik, dazu beitragen? Als Gesellschaft müssen wir praktische Fragen beantworten: Sollen Embryomodelle Embryos rechtlich gleichgestellt werden oder nicht? Und soll die Forschung an diesen Modellen erlaubt werden und innerhalb welcher Grenzen? Wir haben unsere Studie auch deshalb veröffentlicht, weil wir jetzt diese Diskussion anregen möchten. Die Aufgabe von uns Ethikern ist es, die Gründe für und gegen die Verwendung solcher Embryomodelle zu untersuchen und Regeln vorzuschlagen, die kohärent sind und von der Gesellschaft akzeptiert werden, auch wenn es noch keinen endgültigen Konsens zu diesem Thema gibt. Gesetzeslücken schaden der Wissenschaft. Ich persönlich bin der Meinung, dass wir wissenschaftliche Forschung zulassen sollten, aber mit Regeln, die öffentlich diskutiert wurden und akzeptiert werden können.
 
 Was ist Ihre Haltung? Sollen die Modelle echten Embryonen gleichgestellt werden? Die Modelle sind Embryonen tatsächlich sehr ähnlich. Und sowohl in der Ethik als auch in der Rechtsprechung legt die Logik nahe, Gleiches gleich zu behandeln. Das bedeutet nicht zwingend, dass wir die bestehenden Regeln einfach so auf die Embryomodelle ausweiten sollten. Aber die jüngsten wissenschaftlichen Entwicklungen sind eine gute Gelegenheit, auch über die bestehenden Regeln nachzudenken und rechtliche Klarheit zu schaffen.
+
+## Literaturhinweis
 
 Blasimme A, Sugarman J: Human stem cell-derived embryo models: Toward ethically appropriate regulations and policies, Cell Stem Cell, 3. Juli 2023, doi: externe Seite 10.1016/j.stem.2023.06.007
 

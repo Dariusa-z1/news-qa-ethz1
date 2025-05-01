@@ -2,9 +2,13 @@
 
 **Source:** de_news_events/2017/01/Arbeiten%20im%20Jahr%202050.html
 
-## Folgen für Gesellschaft und Ausbildung
+**Date processed:** 2025-05-01
+
+## Main article
 
 «Niemand weiss, wie die Welt 2050 tatsächlich aussehen wird. Sicher ist nur, dass der Fortschritt in Wissenschaft und Technik, vor allem bei robotischen Systemen, viele Chancen und zugleich auch unvermeidliche Herausforderungen mit sich bringt» sagte ETH-Präsident Lino Guzzella bei der Begrüssung im vollbesetzten Audi Max am vergangenen Samstag. Trotzdem wagte die ETH Zürich mit dem «Global Talent Summit» einen Blick in die Zukunft. Denn, so Guzzella weiter, es sei die Aufgabe einer Hochschule, ihre Forschung und Lehre kontinuierlich anzupassen, um nachfolgende Generationen für die Zukunft vorzubereiten .
+
+## Folgen für Gesellschaft und Ausbildung
 
 Gemeinsam mit dem amerikanischen Fachverlag Diplomatic Courier hatte die Hochschule rund 20 Expertinnen und Experten eingeladen, um über die verschiedenen Dimensionen der sich verändernden Arbeitswelt im Zeitalter der Automatisierung zu diskutieren. Im Fokus standen neben einem Ausblick in die technischen Möglichkeiten Fragen zu gesellschaftlichen Veränderungen und zu den Folgen für Ausbildung und Arbeit. «Jeder wünscht sich einen tollen Job», führte Ana C. Rold, die Chefredaktorin des Diplomatic Courier aus. Doch wie könne dieser aussehen, wenn Roboter mehr und mehr Aufgaben übernehmen? Und welche Folgen habe dies für die Welt, in der wir leben?
 
@@ -18,9 +22,9 @@ Weniger drastisch sahen es die Podiumsteilnehmenden beim Forum zur wirtschaftlic
 
 Welch grosse Chancen intelligente Maschinen mit sich bringen, zeigten auch die Vorträge und Diskussionen beim Forum zur technischen Dimension. Viel Begeisterung beim Publikum löste die Vorführung von ETH-Professor Bob Sumner aus. Der Associate Director des Disney Forschungszentrums in Zürich führte live vor, wie sich Zeichnungen in zweidimensionalen Malbüchern oder auf Gemälden mithilfe einer speziellen App in externe Seite dreidimensionale bewegliche Figuren verwandeln. Anders als bei bisherigen Konzepten, bei denen der Mensch via Spezialbrille eine virtuelle Realität betritt, will Sumner Virtuelles in unsere Welt holen, um Interaktion zu ermöglichen und Kreativität zu fördern.
 
-Der Leiter von Google Research Europe, Emmanuel Mogenet, gab Einblicke zum Thema «Intelligente Maschinen». Maschinen seien vor allem gut darin, grosse Mengen an unstrukturierten Informationen zu nutzbaren Daten zu machen. Bislang fehle es ihnen aber an Intuition und Erfahrung mit der Welt. Daher sollen Maschinen nun lernen zu lernen.
-
 ## Technik als Hilfsmittel der Menschen
+
+Der Leiter von Google Research Europe, Emmanuel Mogenet, gab Einblicke zum Thema «Intelligente Maschinen». Maschinen seien vor allem gut darin, grosse Mengen an unstrukturierten Informationen zu nutzbaren Daten zu machen. Bislang fehle es ihnen aber an Intuition und Erfahrung mit der Welt. Daher sollen Maschinen nun lernen zu lernen.
 
 Grundsätzlich sahen die Experten bei der Diskussion zur Technik Maschinen weiterhin als Hilfsmittel des Menschen. Vor allem besonders Begabte und gut Ausgebildete könnten und würden sich diese neuen Hilfsmittel zunutze machen, so ihre Prognose. James Hodson, CEO der AI for Good Foundation, warf dazu die Frage auf, ob das bisherige Bildungssystem Talente ausreichend fördere. Das engagierte Publikum fragte kritisch nach, wie künftig Menschen mit einer geringeren Ausbildung in die Gesellschaft eingebunden sein könnten.
 

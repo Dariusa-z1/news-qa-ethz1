@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2020/05/digitale-recherche-nach-fachgebiet.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Wussten Sie, dass die ETH-Bibliothek einen nach Fachgebieten geordneten Zugang zu elektronischen Ressourcen anbietet?

@@ -2,7 +2,9 @@
 
 **Source:** de_internal/2015/11/topologie-optimierung-der-zukunft-.html
 
-## D-MAVT Distinguished Lecture Series
+**Date processed:** 2025-05-01
+
+## Main article
 
 Topologie-Optimierung ist ein Rechenverfahren zur Bestimmung von optimalen Materialverteilungen, das in mechanischen Strukturen, in Flüssigkeiten, im Bereich Nano-Optik sowie in zahlreichen weiteren ingenieurwissenschaftlichen Disziplinen zum Einsatz kommt.
 
@@ -10,9 +12,9 @@ Schwerpunkt der Vorlesung sind nebst dem aktuellen Forschungsstand im Bereich de
 
 (Grafik: DTU)
 
-Topologie-Optimierung: Der aktuelle Stand der Technik und die Zukunftsperspektiven
+## D-MAVT Distinguished Lecture Series
 
-## Staffnet
+Topologie-Optimierung: Der aktuelle Stand der Technik und die Zukunftsperspektiven
 
 Prof. Ole Sigmund , Danmarks Tekniske Universitet DTU
 
@@ -21,8 +23,6 @@ Forschungsgruppe für Topologieoptimierung der Fakultäten Maschinenbau & Mathem
 30. November 2015, 17:15 Uhr im ML E 12 (nach der Vorlesung findet ein Apéro statt)
 
 (Grafik: RWTH Aachen)
-
-## Newsletter abonnieren
 
 Cut-Cell Method Based Analysis of Freely Moving Particles in Viscous Flows
 

@@ -2,13 +2,15 @@
 
 **Source:** de_news_events/2022/11/sergio-mattarella-al-politecnico.html
 
+**Date processed:** 2025-05-01
+
 ## Schweizer Hochschulen und Europa
 
 Mesot verwies auf die verschiedenen historischen Verbindungen des Poly zu Italien. Wie schon bei ihrer Gründung, sei der Auftrag der ETH auch heute noch, im Dienst der Gesellschaft zu stehen. Die Welt sei indes eine andere mit zahlreichen Krisen und Herausforderungen, die sich der Schweiz und der Welt stellten. Für deren Lösung brauche es nicht nur den politischen Willen zur grenzüberschreitenden Zusammenarbeit, sondern auch den Beitrag der Wissenschaft sowie innovative Technologien. Dann dankte er dem italienischen Staatspräsidenten für seinen Besuch: «Wir schätzen es ausserordentlich, dass Sie uns heute die Möglichkeit geben für einen kulturellen Brückenschlag und Gedankenaustausch mit unseren Forschenden und Studierenden.»
 
-Bundespräsident Ignazio Cassis kam zu Beginn seines Grusswortes auf die historische Verbindung der ETH mit dem Tessin zu sprechen, konkret auf Stefano Franscini, den ersten Bundesrat aus dem Südkanton und einen der Gründerväter des Polytechnikums. Unter seiner Aufsicht sei die Hochschule aufgebaut worden, die heute die ganze Schweiz mit Stolz erfülle. Er dankte allen Forschenden, Studierenden und Dozierenden für Ihren Beitrag, dass die Schweiz zu den innovativsten Ländern der Welt gehöre.
-
 ## Von den Anfängen zu heutigen Herausforderungen
+
+Bundespräsident Ignazio Cassis kam zu Beginn seines Grusswortes auf die historische Verbindung der ETH mit dem Tessin zu sprechen, konkret auf Stefano Franscini, den ersten Bundesrat aus dem Südkanton und einen der Gründerväter des Polytechnikums. Unter seiner Aufsicht sei die Hochschule aufgebaut worden, die heute die ganze Schweiz mit Stolz erfülle. Er dankte allen Forschenden, Studierenden und Dozierenden für Ihren Beitrag, dass die Schweiz zu den innovativsten Ländern der Welt gehöre.
 
 In Anbetracht der aktuellen Krisen sei die Wissenschaft besonders gefordert, Antworten für die Zukunft zu entwickeln, betonte Cassis. Er setze sich sehr für die Wissenschaftsdiplomatie ein, denn es gehe darum, dass neue Erkenntnisse und Technologien allen Menschen zugutekämen und nicht nur eine kleine Gruppe von ihnen profitiere. Auch müssten Innovationen von der Gesellschaft akzeptiert und deren potenziellen negativen Effekte auf die Gesellschaft frühzeitig erkannt werden.
 
@@ -20,13 +22,11 @@ Mit Blick auf die internationale Zusammenarbeit sagte Cassis, dass «wir Schweiz
 
 Die vielen italienischen Forschenden, Dozierenden und Studierenden im Raum seien Zeugnis von der intensiven wissenschaftlichen Zusammenarbeit zwischen den beiden Ländern. Mattarella bedankte sich bei den Forschenden für die bisherige Zusammenarbeit bei den europäischen Forschungsprogrammen und brachte seinen Wunsch zum Ausdruck, dass die Schweiz bald wieder bei Horizon Europe teilnehmen könne. Freiheit und Demokratie, zentrale Werte aller europäischen Völker, seien auf das Wissen angewiesen, das Universitäten bereitstellen. Und an die Studierenden gewandt sagte er: «Der Austausch von Ideen mit jungen Leuten aus unterschiedlichen Ländern Europas fördert das kritische Denken und ein gemeinsames Verständnis.»
 
-## Innovation und Unternehmertum
-
 Zum Schluss seiner Ansprache knüpfte Mattarella an die Ausführungen von Bundespräsident Cassis an und erinnerte an die gesellschaftliche Verantwortung von Akademiker:innen, insbesondere an technischen Hochschulen. Mit einem Hinweis auf die Marmortafel vor dem Audimax, zitierte er den Ausspruch von Francesco de Sanctis, der von 1856-1860 die erste Professur für Italienische Literatur an der ETH innehatte: «Prima di essere ingegneri voi siete uomini.» - Bevor ihr Ingenieure seid, seid ihr vor allem Menschen.
 
-Innovation und Unternehmertum standen im Zentrum des zweiten Teils der Veranstaltung, durch den ETH-Rektor Günther Dissertori führte.
+## Innovation und Unternehmertum
 
-## Verschiedene Gesundheitsprojekte
+Innovation und Unternehmertum standen im Zentrum des zweiten Teils der Veranstaltung, durch den ETH-Rektor Günther Dissertori führte.
 
 Stefano Brusoni, Professor für Technologie und Innovationsmanagement, untersucht mit seiner Gruppe unter anderem Hindernisse, die der Implementierung neuer Technologien entgegenstehen. Anhand zweier Beispiele italienischer Genossenschaften zeigte er auf, welche Bedeutung auch sozialen Faktoren zukommen.
 

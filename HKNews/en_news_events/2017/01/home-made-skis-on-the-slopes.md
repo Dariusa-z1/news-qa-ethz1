@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2017/01/home-made-skis-on-the-slopes.html
 
-## Main article
+**Date processed:** 2025-05-01
+
+## Creating home-made skis, step by step
 
 A noticeable synthetic smell wafts out of the laboratory in the ETH Zentrum building. Several long tables with metallic basins fill the small room. Part of the Bachelor's in Mechanical Engineering, the Integrative Ski Design and Fabrication Workshop is a hive of activity. Students buzz around the tables, go on the hunt for their materials and prepare for the task at hand: to make skis layer by layer according to a sandwich construction.
 

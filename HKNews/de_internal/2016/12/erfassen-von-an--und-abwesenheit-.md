@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2016/12/erfassen-von-an--und-abwesenheit-.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Seit dem Jahresbeginn 2015 gilt an der ETH Zürich ein neuer Rechnungslegungsstandard. Dieser orientiert sich an IPSAS, dem internationalen Rechnungslegungsstandards für den öffentlichen Sektor. Im Zuge dieser Umstellung wird ab 2017 die Zeiterfassung der ETH-Angestellten neu geregelt.
@@ -12,6 +14,41 @@ Gemäss diesem Reglement sind die Mitarbeitenden der ETH Zürich ab dem 1. Janua
 
 Welche Abwesenheiten die Mitarbeitenden je nach Personalkategorie erfassen müssen, zeigt die folgende Zusammenstellung:
 
+Wissenschaftliche Mitarbeitende (ohne Professoren und Professorinnen)
+
+• Ferien
+• Krankheit
+• Unfall
+• Treueprämien
+• Bezahlter / unbezahlter Urlaub
+• Mutter- und Vaterschaftsurlaub
+• Militär-, Zivilschutz- und ziviler Ersatzdienst
+Administrative und technische Mitarbeitende, Funktionsstufe 1-9
+
+• Tägliche Arbeitszeit
+• Ferien
+• Krankheit
+• Unfall
+• Kompensation
+• Treueprämien
+• Bezahlter / unbezahlter Urlaub
+• Mutter- und Vaterschaftsurlaub
+• Militär-, Zivilschutz- und ziviler Ersatzdienst
+Administrative und technische Mitarbeitende, Funktionsstufe 10-15
+
+• Ferien
+• Krankheit
+• Unfall
+• Treueprämien
+• Bezahlter / unbezahlter Urlaub
+• Mutter- und Vaterschaftsurlaub
+• Militär-, Zivilschutz- und ziviler Ersatzdienst
+Mitarbeitende im Stundenlohn
+
+• Tägliche Arbeitszeit
+• Krankheit
+• Unfall
+• Mutter- und Vaterschaftsurlaub
 Wissenschaftliche Mitarbeitende (ohne Professoren und Professorinnen)
 
 Administrative und technische Mitarbeitende, Funktionsstufe 1-9

@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2015/09/buero--und-seminargebaeude-hcp-fertiggestellt.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH-Angehörige haben am Mittwoch, 16. September von 11 bis 13 Uhr die Möglichkeit, das neue Gebäude zu besichtigen und anhand einer vorbereiteten Führung Näheres zu erfahren. Danach findet ein Anlass für geladene Gäste statt.

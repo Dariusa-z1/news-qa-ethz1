@@ -2,11 +2,9 @@
 
 **Source:** en_news_events/2017/12/it-is-like-watching-the-barcelona-under-19s-play.html
 
-## 75 years of ETH Zurich’s Research Commission
+**Date processed:** 2025-05-01
 
-- School Council Minutes 1942, session no, 8, 18 December 1942, item 137, page 359.
-
-- ETHistory. The Research Commission. (website dated 4 April 2005, accessed on 12 December 2017, in German only)
+## Main article
 
 What type of research does ETH Zurich’s Research Commission fund? Uwe Sauer: We offer funds for fundamental research in all ETH Zurich’s disciplines, and in particular for collaboration within and between disciplines. Our funding considers natural sciences alongside engineering and social sciences, and it encompasses application as much as methodological development and basic research. Our aim is to open doors for original research ideas that may become new research fields in the long term.
 
@@ -20,8 +18,6 @@ Why is that? If researchers receive start-up finance from the Research Commissio
 
 How does it support young researchers at the outset of their scientific careers? For young researchers, attracting attention as an independent scientist is a major challenge. ETH Zurich aims to use innovation potential at every level. And so researchers among non-faculty scientific staff who are not attached to a chair can apply for competitive funding for their own research. We are almost the only institution to offer them this opportunity at the outset of their careers. The Research Commission thus contributes to career development and to the success of scientific talent.
 
-## The key funding instruments
-
 Why is independence important for young researchers? Because they have to develop their own research fields scientifically and they also have to publish – under their own names. Naturally, young researchers can launch their careers within a chair. Often, they lead groups that develop a new technology or investigate a topic important to the chair. However, financing from the Research Commission allows them to implement their research ideas in complete independence.
 
 Do you fund non-faculty scientific staff across the board, or just the elite? We fund cutting-edge research. So the elite, always. We assess all applications on the same scale of quality and originality for targeted start-up financing of new ideas. The jewel in our crown is the ETH Fellowship. These are fellowships in which outstanding, mostly foreign, postdoc students apply to implement their ideas at ETH. It is like watching the under-19s of FC Barcelona play and deciding who to select for the main team.
@@ -30,7 +26,15 @@ How does the Research Commission ensure that it really is funding the best and m
 
 Finally, the Research Commission has a window on the future, in a manner of speaking, with a view of emerging research trends. Do you see any particular trend? It’s true, we really are very close to the current research hotspots. One of these concerns drone technology. From the applications, we can see that ETH Zurich is extremely strong in robotics and drones. Drone technology has advanced so far that it can be developed for a wide range of research tasks. For example, drones can be deployed to check the quality of infrastructure, such as bridges – or to monitor glaciers in polar regions.
 
+## 75 years of ETH Zurich’s Research Commission
+
+Sources:
+
+• School Council Minutes 1942, session no, 8, 18 December 1942, item 137, page 359.
+• ETHistory. The Research Commission . (website dated 4 April 2005, accessed on 12 December 2017, in German only)
 The story of the Research Commission began on 12 December 1942, when the School Council, the governing body of the university, decided to form a Commission for Scientific Research at E.T.H. Its first task was to define “which E.T.H. institutes are able to conduct valuable research work in the interests of the economy”. During the economic crisis of the 1970s, ETH Zurich decided to upgrade the commission and to make more funds available for promising, fixed-term research projects.
+
+## The key funding instruments
 
 ETH Zurich’s Research Commission has a total budget of about CHF 20 million. This is distributed among various funding instruments, with some funding carried out on behalf of the Swiss National Science Foundation, such as the SNSF Fellowships, which began in 1952. In the last 20 years, it has awarded about 1,100 SNSF-funded fellowships for post-doctorate overseas placements. Quite a few of these fellows later found positions at ETH Zurich.
 

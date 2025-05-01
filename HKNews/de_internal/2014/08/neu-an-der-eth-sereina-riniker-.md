@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2014/08/neu-an-der-eth-sereina-riniker-.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Wie fühlt es sich an, zwei Jahre nach Ihrem Doktorat nun als Professorin an der ETH zu sein? Sereina Riniker: Mit dieser Entwicklung, besonders mit dieser Geschwindigkeit, habe ich natürlich nicht gerechnet. Ich freue mich riesig über diese Chance und habe gleichzeitig grossen Respekt vor meiner Aufgabe. Ich kenne viele Personen hier von früher und wurde sehr herzlich aufgenommen. Meine ehemaligen Professoren nun als Kollegen zu haben, ist manchmal noch etwas gewöhnungsbedürftig.

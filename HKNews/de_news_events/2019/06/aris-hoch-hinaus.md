@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2019/06/aris-hoch-hinaus.html
 
+**Date processed:** 2025-05-01
+
 ## Spezielle Bremsen
 
 Sie wollen hoch hinaus. 30 Studierende der ETH Zürich, Hochschule Luzern und der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) wollen beim Spaceport America Cup 2019 mit ihrer selbst entwickelten Rakete unter die besten der rund 50 internationalen Teams gelangen. Dazu muss ihre Rakete möglichst genau die Höhe von 10'000 Fuss (3048 Meter) erreichen und anschliessend sanft mit einem Fallschirm wieder zu Boden sinken. Nur dann haben sie eine Chance auf einen Sieg bei diesem weltweit grössten Studentenwettbewerb im Raketenbau.
@@ -16,9 +18,9 @@ Um möglichst effizient zu arbeiten, haben sich die Studierenden in zwei Teilber
 
 Neben der Technik lernen die Studierenden viel über Teamarbeit, Projekt- und Zeitmanagement. «Wir wurden extra von Mitgliedern des Vereins Aris zu Teambuilding und im Umgang mit Stress gecoacht», berichtet Andreas Walker, ETH-Masterstudent im zweiten Semester Maschinenbau. Mit dabei von der ETH Zürich sind zudem Informatiker, Materialwissenschaftler, Physiker, Bauingenieure und Elektrotechniker. Insgesamt kommen die 30 Projektteilnehmenden aus zehn verschiedenen Studienrichtungen. Die jüngste und eine der wenigen Frauen im Team ist die Bachelorstudentin Mirela Minkova. Sie studiert ebenfalls Maschinenbau und hat durch das Projekt an Durchsetzungsfähigkeit gewonnen, wie sie sagt. «Ich habe gelernt, darauf zu bestehen, dass mich die anderen anhören und meine Ideen ernst nehmen.»
 
-Neben der Faszination für Raketen und Raumfahrt, die unter anderem Felix Dannert und Mirela Minkova zu Aris brachte, sind es das Erlernen dieser Soft Skills und die Chance, praktisch ihr Wissen anzuwenden, welche die Teilnehmenden mitmachen lassen. Andreas Walker erzählt: «Ich habe bereits im Bachelor-Studium an der ETH an einem praktischen Projekt – einem Fokus-Projekt – mitgearbeitet und dabei viel Erfahrung gesammelt. Ich wollte gerne wieder etwas Ähnliches machen.»
-
 ## Auf Freizeit verzichtet
+
+Neben der Faszination für Raketen und Raumfahrt, die unter anderem Felix Dannert und Mirela Minkova zu Aris brachte, sind es das Erlernen dieser Soft Skills und die Chance, praktisch ihr Wissen anzuwenden, welche die Teilnehmenden mitmachen lassen. Andreas Walker erzählt: «Ich habe bereits im Bachelor-Studium an der ETH an einem praktischen Projekt – einem Fokus-Projekt – mitgearbeitet und dabei viel Erfahrung gesammelt. Ich wollte gerne wieder etwas Ähnliches machen.»
 
 Für die Teilnahme am Spaceport-Wettbewerb verzichten die Beteiligten seit Monaten auf Freizeit. Erst nach Ende des Wettbewerbs haben alle ein paar Tage Ferien geplant. Zuvor ist diese Woche ein letztes Mal volle Konzentration gefragt. Bereits vor einigen Tagen wurde das Material sorgsam verpackt und auf die Reise mitten in die Wüste von New Mexico zum Spaceport geschickt. «Zum Glück ist einer unserer Sponsoren eine Logistikfirma, die Erfahrung im Transport und der Einfuhr von technischem Gerät hat», sagt Dannert. Am 19. Juni war der offizielle Start des Wettbewerbs. Bis maximal Samstagvormittag haben die 21 aus der Schweiz in die USA gereisten Studierenden Zeit, die Rakete zusammenzubauen und erfolgreich zu zünden.
 

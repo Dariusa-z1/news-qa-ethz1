@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2022/07/mit-ultraschallwellen-das-gehirn-untersuchen.html
 
-## Schonende und kostengünstige Untersuchung
+**Date processed:** 2025-05-01
+
+## Main article
 
 Sowohl die medizinische Bildgebung mit Ultraschall wie auch die Seismologie zur Darstellung des Erdinneren nutzen die Ausbreitung von Wellen durch die Materie. Treffen seismische Wellen auf Materialunterschiede im Erdinnern, etwa unterschiedliche Gesteinsverbände, werden sie an deren Grenzflächen reflektiert und gebrochen. Infolgedessen ändert sich die Geschwindigkeit der Wellen. Messen nun Forschende an der Oberfläche diese Wellen, können sie Rückschlüsse auf den Aufbau des Erdinneren ziehen, über die Gesteinszusammensetzung und deren Materialeigenschaften wie Dichte, Druck oder Temperatur.
 
@@ -10,15 +12,17 @@ Mit Hilfe von ausgefeilten Algorithmen und Hochleistungsrechnern wie «Piz Daint
 
 So entwickelte die Forschungsgruppe schon vor sechs Jahren in Zusammenarbeit mit Medizinerinnen und Medizinern eine Ultraschallmethode zur Früherkennung von Brustkrebs. Neu erforscht das Team nun, wie sich das Gehirn mit Ultraschall untersuchen lassen könnte. Mit diesem Verfahren könnten die Forschenden und Ärzte dereinst beispielsweise Schlagfanfallpatienten überwachen oder Gehirntumore identifizieren.
 
+## Schonende und kostengünstige Untersuchung
+
 Im Vergleich zur Computertomographie (CT) oder dem Röntgen hat Ultraschall einen entscheidenden Vorteil: Das Verfahren ist für den Körper nahezu unschädlich. Zudem ist es viel kostengünstiger als etwa die Magnetresonanz-Tomographie (MRT). Darüber hinaus sind Ultraschallgeräte transportabel und können auch in entlegenen Regionen zum Einsatz kommen. Das Problem ist aber, dass Ultraschall bis anhin nur in Weichteilen gut funktioniert. Ultraschallwellen durch harte Strukturen wie die Schädeldecke zu bekommen, ist jedoch sehr schwierig, denn der Schädelknochen reflektiert und dämpft die Wellen sehr stark.
 
 Patrick Marty entwickelt in seiner Doktorarbeit bei Fichtner mit Unterstützung von Christian Böhm, Senior Scientist in der Gruppe Seismologie und Wellenphysik, nun ein Verfahren, das diese Herausforderung überwinden soll. Diese Methode soll die Grundlage dafür liefern, um das Gehirn mit Ultraschall hochauflösend darzustellen.
 
-## Lernen an einer Magnetresonanz-Tomographie
-
 Die Forscher entwickeln für die Simulation der Wellenausbreitung durch das Gehirn sowohl Algorithmen weiter wie auch ein spezielles Gitternetz, dessen Koordinatenpunkte berechnet werden müssen. Herzstück ist dabei ein an der ETH Zürich mit Unterstützung des CSCS entwickeltes Softwarepaket namens Salvus. Salvus modelliert die Ausbreitung des kompletten Wellenfeldes (full-waveform) über räumliche Skalen von einigen Millimetern bis zu Tausenden von Kilometern. ETH-Seismologen nutzen diese Software zur Simulation seismischer Wellen, um beispielsweise das Innere der Erde oder des Mars zu erforschen, sowie für die medizinische Bildgebung. Das Softwarepaket verwendet die Spektrale-Elemente-Methode (SEM), die sich besonders zur Simulation der Wellenausbreitung in Medien mit kontrastreichen Materialübergängen eignet.
 
 «Im Gegensatz zum herkömmlichen Ultraschall, der nur die Ankunftszeit der Wellen nutzt, verwenden wir in unseren Simulationen die gesamte Welleninformation», sagt Patrick Marty. Das heisst, die Form der Welle, deren Frequenz, Geschwindigkeit und Amplitude an jedem Punkt ihrer Ausbreitung fliessen in die Berechnungen ein.
+
+## Lernen an einer Magnetresonanz-Tomographie
 
 Für ihr Modell verwenden die Forscher eine MRT-Aufnahme des Gehirns als Referenzbild. Auf dem Supercomputer «Piz Daint» führen sie dann mit unterschiedlichen Parametern Berechnungen durch, bis das simulierte Bild mit dem des MRT übereinstimmt.
 
@@ -26,13 +30,13 @@ Mit ihrer Methode erhalten sie anstatt eines für den herkömmlichen Ultraschall
 
 Die Forscher sind überzeugt, dass sich mit dieser Methode gesundes Gewebe von krankem schonend und kostengünstig unterscheiden lässt. Konkret könnte dieses Verfahren in einen Computer eingespeist werden, der in ein speziell hierfür entwickeltes Ultraschallgerät integriert wird. Der Computer berechnet die von Sensoren erfassten Ultraschallsignale und heraus kommt ein dreidimensionales Bild des untersuchten Gehirns. Doch bis das Verfahren in die klinische Praxis gelange, sei es noch ein weiter Weg, betonen die Forscher.
 
-## Literaturhinweis
-
 Eine besondere Herausforderung ist die, aufgrund von Augen-, Nasen und Kieferhöhlen etc., komplexe Geometrie des Schädels, die in der Simulation genau modelliert werden muss, ohne dass dabei die Rechenzeit explodiert. Um dieses Problem zu lösen, arbeitet Patrick Marty an Methoden, die aus Hexaedern (kleine Elemente mit sechs ebenen Flächen) individuelle numerische Gitter für beliebige Schädelformen erstellen. «Mit diesen verformten kleinen Würfeln sind wir 100 bis 1000mal schneller, als wenn wir mit Tetraedern arbeiten würden», sagt Böhm. «Zudem profitiert das Projekt stark von neuen Entwicklungen bei den Graphikkarten, wie wir sie in ‘Piz Daint’ und künftig in ‘Alps’ haben. Sie sind für diese Methode ideal.»
 
 Die Forscher arbeiten mit Medizinerinnen und Medizinern des Unispitals Zürich zusammen, um diese Techniken weiterzuentwickeln. Wenn es Patrick Marty in den nächsten drei Jahren seiner Doktorarbeit gelingt, die Verfahren für die Gittererstellung und Bildgebung des Gehirns weiterzuentwickeln, könnte diese Methode auch für andere Körperteile wie das Knie oder der Ellenbogen anwendbar sein. Dies wäre dann eine vielversprechende Grundlage für die Entwicklung eines entsprechenden Ultraschallgerätes.
 
 Dieser Text von Simone Ulmer erschien in Englisch auf der Website des externe Seite CSCS .
+
+## Literaturhinweis
 
 Marty P, Boehm C, Paverd C, Rominger M, & Fichtner A (2022). Full-waveform ultrasound modeling of soft tissue-bone interactions using conforming hexahedral meshes. Medical Imaging 2022: externe Seite Physics of Medical Imaging, 12031, 877–891.
 

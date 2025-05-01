@@ -2,31 +2,27 @@
 
 **Source:** en_internal/2014/08/die-frau-fuer-alle-faelle.html
 
+**Date processed:** 2025-05-01
+
 ## A doer
 
 Claudia Sigel's place of work is anything but a boring office in the Department for Materials Science (D-MATL). The wide windowsill is lined with plants large and small, an artificial skeleton wearing a woolly hat and T-shirt watches over proceedings from hollow eye sockets and a big, bright red sofa offers an inviting place to relax during coffee breaks.
 
 It is clear from a glance round the room that there's a creative mind at work here. And one that doesn't only deal with the administrative tasks of running a departmental office, as Sigel herself says. She can provide "agony aunt advice", arrange last-minute TV recordings or organise a wheelchair at short notice — Sigel is a woman of many parts.
 
-## Plenty of scope for creative ideas
-
 Doing this kind of job requires more than just organisational skills, spontaneity and flexibility. It can also call for nerves of steel, especially when things aren't quite going to plan. She has had to sort out quite a few crises that people outside the office never found out about, says the 51-year-old. "But that's all part of the job," she says reassuringly. It's no wonder she sees it like that, because that is when she is at her best. Claudia Sigel is a doer. When she takes something on, she usually sees it through.
 
 That's how it was when she first came to ETH Zurich. Then aged 35, she needed a job in which, as a single mother, she could retrain as a commercial apprentice, and she found one in the office of what was then called the Department of Materials. She didn't stop there. Hardly had she finished her apprenticeship than she began a course to become a "Marketing communication planner". "It was a tough time," she says.
-
-## Anniversaries
 
 On top of working 80% of full-time hours, she attended classes three times a week. In the evenings she looked after her son and did the housework. "I did it all, but afterwards I was completely shattered." A few years later, she gained further qualifications in medical sports massage and opened her own practice three years ago.
 
 However, she has always remained loyal to her job at ETH Zurich, and with good reason. "I have had so much freedom to develop my own creative ideas that there was never any question of changing jobs." There's no shortage of examples of this. With her team, she introduced the idea of the departmental magazine "MatBlatt", and she initiated various events like the Assistant Professors' meetings, the Marroni Event and the Staff Party.
 
-## Subscribe to Newsletter
-
 Last but not least, she was given a free hand, within the specifications, to design the roof terrace on the Department's building on the Hönggerberg. Having been in the job for many years makes her work much easier, she says. "I now have very good contacts both inside and outside ETH." Whenever she needs something at short notice, a friendly phone call is usually all it takes. "We all know each other and are happy to help one another." This is also one reason why she has been doing the job for 15 years. "I feel that I am respected and appreciated here."
 
-35 years Dr. Beat Walter Müller, Rector's Domain, ETH Zurich
+## Anniversaries
 
-## Staffnet
+35 years Dr. Beat Walter Müller, Rector's Domain, ETH Zurich
 
 25 years Thomas Wick, Facility Management Fredy Künzli, Services
 

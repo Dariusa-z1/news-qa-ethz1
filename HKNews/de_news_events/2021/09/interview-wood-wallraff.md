@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2021/09/interview-wood-wallraff.html
 
-## Über die Personen
+**Date processed:** 2025-05-01
+
+## Main article
 
 Kürzlich wurde der ETH-Spin-off Zurich Instruments von der deutschen Unternehmensgruppe Rohde & Schwarz übernommen. Was ist bemerkenswert daran? Vanessa Wood : Das war eine grossartige Nachricht! Eine Firma, die mit einem Nischenprodukt begann, ist nun für einen grossen Elektronik-Anbieter interessant geworden. Das zeigt, dass der Bedarf an Instrumenten für Quantentechnologie einen breiteren Markt erreicht hat. Und es bestätigt den Trend, den wir allgemein bei Investitionen in diesen Bereich sehen. Andreas Wallraff : Rohde & Schwarz ist ein grosses Unternehmen. Ihre Motivation für den Kauf war sicher, dass sich Zurich Instruments in den letzten Jahren in der Instrumentierung für Quantentechnologie zunehmend etabliert hat. Rohde & Schwarz haben zwar Produkte, die man im erweiterten Umfeld auch nutzen kann, aber sie hatten dieses Gebiet bisher noch nicht wirklich adressiert. So war es für das Unternehmen eine gute Gelegenheit, durch den Kauf eines ETH-Spin-offs in dieses Feld einzusteigen. Aber auch für uns als Labor ist das eine wichtige Nachricht, weil wir mit Zurich Instruments schon seit acht Jahren gemeinsame Projekte machen.
 
@@ -12,8 +14,6 @@ Sind wir denn heute generell an dem Punkt, wo man sagen kann, dass wir jetzt üb
 
 Wie eng sind dabei die Beziehungen der ETH zur Industrie? Wood : Derzeit laufen viele Zusammenarbeiten auf der Basis von Innosuisse- und EU-Projekten. Mit dem neu gegründeten Quantum Center, das von Andreas Wallraff geleitet wird, bauen wir ein Partnership-Council auf, sodass Industriepartner, ETH- Forschende und Studierende von einer noch engeren Interaktion profitieren können.
 
-## Förderfokus Quantum Center
-
 Welche Industriebereiche haben Sie da besonders im Auge? Wood : Wir hoffen, dass die grossen internationalen Technologieunternehmen wie Google, IBM, Microsoft, aber auch Start-up-Unternehmen wie Rigetti Computing und IQM daran interessiert sein werden. Dann gibt es die Bereiche, welche potenzielle Anwender dieser Quantentechnologie sein werden, wie zum Beispiel Internetsicherheit. Wallraff : Ich persönlich finde auch Anwendungen in der Chemie-, Pharma- oder Biotechnologie sehr interessant, wie zum Beispiel die Entwicklung von Katalysatoren, biologisch und chemisch aktiven Substanzen oder Medikamenten. Das sind Dinge, die wie der Quantencomputer selbst vielleicht noch weit in der Zukunft liegen, aber wo Quantencomputer wirklich einen Vorteil bringen könnten. Wenn man zum Beispiel ein kompliziertes Molekül in der Chemie berechnen möchte, dann löst man eigentlich ein Quantenphysikproblem.
 
 Das klingt sehr interdisziplinär. Wie interdisziplinär ist denn das Quantum Center derzeit? Wallraff : Im Moment gibt es 28 Gründungsmitglieder. Die kommen aus den Departementen Physik, Chemie und Angewandte Biowissenschaften, Elektrotechnik und Informationstechnologie, Informatik, Materialwissenschaften, Maschinenbau und Verfahrenstechnik und aus dem Paul Scherrer Institut. Es ist wichtig, den interdisziplinären Aspekt zu fördern, weil in der Tat jetzt der Übergang passiert zwischen Grundlagenforschung – da gibt es immer noch viel zu tun! – zu den Anwendungen von Quantentechnologie. Und diese Anwendungen passieren eben nicht nur in der Physik, sondern möglicherweise vornehmlich sogar in anderen Bereichen, nämlich in der Chemie, in der Materialwissenschaft, in der Informatik. Deshalb liegt uns viel daran, auch Studierende in Fächern ausserhalb der Physik anzusprechen, beispielsweise mit dem Masterstudiengang Quantum Engineering.
@@ -22,17 +22,21 @@ Wie konkurrenzfähig ist die Schweiz im Quantenbereich? Wood : Die Schweiz ist e
 
 Wo liegen die Gründe für die gute Positionierung der ETH in den Quantenwissenschaften? Wood : Es war schon lange ein strategisches Interesse der ETH, sich hier gut zu positionieren. Unser Beitrag hierzu sind Investitionen in Personen wie auch in neueste und modernste Infrastruktur und Ausrüstung. Wir können uns überglücklich schätzen, an der ETH auf Professoren zählen zu dürfen, die weltweit zu den Topexperten in allen diesen Schlüsseltechnologien für Quantencomputer gezählt werden – zum Beispiel supraleitende Schaltkreise, Photonik, um nur zwei davon zu erwähnen. Die ETH hat die Schaffung eines Masters in Quantum Engineering stark gefördert – das erste solche Programm in ganz Europa. Das ETH+ Programm hat das Quantum Center unterstützt, das auch durch die ETH Foundation gefördert wird, und die ETH hat zusammen mit dem PSI den Quantum Computing Hub gebildet, dessen Ziel es ist, die Herausforderungen der Skalierung von Quantencomputern anzugehen. Wallraff : Als ich 2005 meine Entscheidung treffen durfte, wo es mit meiner Karriere weitergehen würde, war mir wichtig, an einen Ort zu gehen, wo man die Dinge auch realisieren kann. Quantenforschung ist ein Hightech-Gebiet und dafür braucht es eine aufwändige Infrastruktur und die richtigen Ressourcen, um überhaupt Fuss zu fassen. Die ETH hat es geschafft, den Schwung über Jahre hinweg aufrechtzuerhalten und ein kontinuierliches Wachstum hinzulegen, und das zahlt sich aus. Ich bin überzeugt, dass wir diesen Schwung auch weiterhin haben werden.
 
-## Keine Ausgabe verpassen
+## Über die Personen
 
 Andreas Wallraff ist Professor für Festkörperphysik und Leiter des Quantum Device Lab an der ETH Zürich. Er ist zudem Gründungsdirektor des neu gegründeten Quantum Center der ETH Zürich und leitet den Bau von supraleitenden Quantencomputern am ETH Zürich – PSI Quantum Computing Hub an.
 
 Vanessa Wood ist seit 2021 Vizepräsidentin für Wissenstransfer und Wirtschaftsbeziehungen der ETH Zürich. Zudem ist sie Professorin und Institutsleiterin am Institut für Elektronik (IfE) der ETH Zürich.
+
+## Förderfokus Quantum Center
 
 Um die Spitzenposition der ETH Zürich in der Quantenforschung weiter zu stärken und nutzbar zu machen, baut die ETH gemeinsam mit dem Paul Scherrer Institut (PSI) das neue externe Seite Quantum Center auf. Die Unterstützung von Donatorinnen und Donatoren ermöglicht die Weiterentwicklung von Technologiegrundlagen für die Herstellung von Quantencomputern, ein Doktoratsprogramm sowie neue Professuren.
 
 Ausgabe als PDF lesen (PDF, 6.9 MB)
 
 Ausgabe online lesen
+
+## Keine Ausgabe verpassen
 
 Abonnieren Sie das Print-Magazin
 

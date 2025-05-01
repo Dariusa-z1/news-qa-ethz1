@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2024/03/how-micro-and-nanoplastics-are-infiltrating-the-arctic-ice.html
 
+**Date processed:** 2025-05-01
+
 ## Disintegrating into new properties
 
 “Beat the Microbead” is the name of a campaign launched in 2012 with the aim of reducing the use of microplastics in cosmetic products in order to minimise negative effects on the environment and people. For Alice Pradel, the campaign was a wake-up call. “As a young environmental scientist, I was shocked that we were putting all these chemicals into the environment without bothering to find out what became of them,” she recalls. At around the same time, images were going around of the Great Pacific Garbage Patch: a huge carpet of rubbish in the middle of the Pacific, consisting largely of plastic waste and symbolising anthropogenic plastic excess. In 2020, around 400 million tonnes of plastic were produced worldwide; of this total, 9 percent was recycled, 12 percent was incinerated and the rest ended up in landfill sites, the environment or the sea.
@@ -13,8 +15,6 @@
 She subsequently wrote her doctoral thesis, with Gigault as supervisor, on the subject of how and where micro- and nanoplastics accumulate in porous materials. As she neared the end of this project, she was astounded to discover that large quantities of microplastics had also accumulated in the Arctic sea ice. Studies had confirmed this shortly before. Ice is a porous substance; it has areas of higher and lower density, as well as cavities and microscopic saltwater flows between the ice crystals. As a result, there is a constant exchange between the seawater and the ice – and Pradel’s interest in this phenomenon began to grow. “Micro- and nanoparticles can get lodged between the ice crystals. This is highly problematic, as these are precisely the places where microalgae thrive best,” she explains. Other researchers have shown that these algae absorb toxic plastic additives, thereby granting them entry to the Arctic food chain.
 
 A study from 2018 showed that it is the smallest microplastic particles that are the most common in sea ice. By definition, microplastics are smaller than 5 centimeters, and nanoplastics smaller than 1 micrometre. Researchers can’t quantify plastic particles smaller than 10 micrometres, which is the analytical limit. “This suggests that we can neither see nor accurately measure the lion’s share of the plastic present in the sea ice,” Pradel says.
-
-## First Arctic expedition
 
 While working on her doctoral thesis, Pradel developed a method for growing sea ice in the lab. Since April 2022, she has been cultivating these ice cores as part of a postdoctoral fellowship at the Department of Environmental Sciences at ETH Zurich. The first step of her method is to cool seawater in a glass column with a temperature gradient ranging from 1°C (lower end) to −5°C (upper end). After 19 hours, an ice core some 10 centimetres thick forms at the upper end. If micro- and nanoplastic particles are added to the seawater at the beginning, Pradel can track how the particles get from the water into the ice, where they remain.
 

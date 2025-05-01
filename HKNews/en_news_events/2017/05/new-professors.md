@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2017/05/new-professors.html
 
+**Date processed:** 2025-05-01
+
 ## Appointments
 
 At its meeting of 17 May 2017, the ETH Board appointed 15 new professors upon application of ETH Zurich President Lino Guzzella. The Board also acknowledged the resignation of one professor, thanking him for his service.
@@ -36,8 +38,6 @@ Professor Torsten Hoefler (*1981), currently Tenure Track Assistant Professor at
 
 (Photo: courtesy of S. Jonas)
 
-## Departure
-
 Dr Stefanie Jonas (*1980), currently a post-doctoral student at ETH Zurich, as Assistant Professor of RNA Biology and Disease. Stefanie Jonas conducts research into the regulation and processing of ribonucleic acids (RNA) and their incorporation into cellular RNA protein machineries in human cells. These processes are of considerable importance in genetic diseases and cancer. Stefanie Jonas’s results lay the foundations for potential therapeutic approaches in these areas. By appointing her to an assistant professorship, ETH Zurich is strengthening its important research in the field of RNA biology with a particular focus on pathogenetically relevant interconnections.
 
 (Photo: courtesy of M. Kaijima)
@@ -65,6 +65,8 @@ Dr Simone Schürle (*1985), currently a post-doctoral researcher at Massachusett
 Professor Eftychia Vayena (*1972), currently SNSF Professor at the University of Zurich, as Full Professor of Bioethics. Eftychia Vayena is an internationally sought-after expert on ethical questions relating to the digital revolution in healthcare. She explores the individual’s rights to his or her own genome and health data, for example. The increasing importance of personal data gathered by means of smartphone sensors is a particular interest of hers. By appointing Eftychia Vayena, ETH Zurich is underlining the importance of health ethics, with particular reference to the future training of medical students, while establishing a connection with the strategic focus area of big data.
 
 (Photo: Giulia Marthaler)
+
+## Departure
 
 Professor Marcy Zenobi-Wong (*1963), currently Tenure Track Assistant Professor at ETH Zurich, as Associate Professor of Tissue Engineering and Biofabrication. Marcy Zenobi-Wong’s research interests revolve around the biomechanics of cartilaginous tissue. She is exceptionally skilled at combining mechanical and biological perspectives. This enables her to pursue innovative paths in order to apply the latest knowledge of cellular and mechanobiology to regeneration methods. She is thus in an excellent position to assume a key role in tissue and cartilage engineering in the Department of Health Sciences and Technology at ETH Zurich.
 

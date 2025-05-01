@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2022/05/blog-ukrainekrieg-zurueck-ins-19-jahrhundert.html
 
+**Date processed:** 2025-05-01
+
 ## Machtpolitik und Nationalismus eng verwandt
 
 Putins Invasion in der Ukraine kam für viele Beobachter im Westen völlig unerwartet. Hoffnungen auf eine kooperative, wirtschaftlich eng verflochtene und praktisch grenzenlose Welt haben einen schweren Schlag erlitten. In vielerlei Hinsicht läutet Russlands Annexion der Krim im Jahr 2014 die "Rückkehr der Geopolitik" 1 ein. Viele Mitglieder der realistischen Denkschule erwarten im Zuge der russischen Aggression eine Rückkehr zur altmodischen und multipolaren Grossmachtspolitik des 19. Jahrhunderts.
@@ -16,9 +18,9 @@ Ernest Gellner argumentierte 5 , dass um nationalistische Prinzipien zu verwirkl
 
 Wir können in einem Arbeitspapier zeigen 6 , wie Abweichungen von Gellners nationalistischem Kongruenzprinzip die Muster der Kriegsführung in Europa zwischen 1816 und 1945 geprägt haben. Neu erhobene geografische Daten zu ethnischen Bevölkerungsverteilungen und Staatsgrenzen seit dem frühen 19. Jahrhundert erlauben es uns, Fälle von Fremdherrschaft und ethnischer Teilung systematisch zu erfassen und deren Zusammenhang mit Bürgerkriegen und zwischenstaatlichen Konflikten zu untersuchen.
 
-Unsere Ergebnisse zeigen, dass relativ grosse ethnische Minderheiten, die von einer anderen Gruppe beherrscht werden, signifikant häufiger sezessionistische Bürgerkriege beginnen. Dieses Risiko verdoppelt sich nahezu, wenn solche politisch nicht-repräsentierten Gruppen durch Staatsgrenzen geteilt sind. Beide Bedingungen treffen auf Bevölkerungsgruppen in der Ukraine zu, die sich selbst als russisch identifizieren. Sie unterstützen die separatistische Gewalt im Donbass, die sich gegen die ukrainischen Truppen richtet.
-
 ## Ethnische Teilung - zwischenstaatlicher Konflikt
+
+Unsere Ergebnisse zeigen, dass relativ grosse ethnische Minderheiten, die von einer anderen Gruppe beherrscht werden, signifikant häufiger sezessionistische Bürgerkriege beginnen. Dieses Risiko verdoppelt sich nahezu, wenn solche politisch nicht-repräsentierten Gruppen durch Staatsgrenzen geteilt sind. Beide Bedingungen treffen auf Bevölkerungsgruppen in der Ukraine zu, die sich selbst als russisch identifizieren. Sie unterstützen die separatistische Gewalt im Donbass, die sich gegen die ukrainischen Truppen richtet.
 
 Nationalistische Gewalt beschränkt sich keineswegs auf Bürgerkriege innerhalb staatlicher Grenzen. Wird eine ethnische Nation durch Staatsgrenzen geteilt, ist sie jedoch nur diesseits der Grenze an der Macht, steigt auch das Risiko zwischenstaatlicher Konflikte. Nationalstaaten mit ethnisch verwandten Minderheiten in Nachbarstaaten machen signifikant häufiger territoriale Ansprüche geltend oder kämpfen militärisch gegen das entsprechende «Gastland» als Staaten, die keine solchen grenzüberschreitenden ethnischen Verbindungen haben.
 
@@ -26,15 +28,13 @@ Putins Annexion der Krim, die aktuelle Invasion und Ansprüche auf ostukrainisch
 
 Wenn wir Staatsgrenzen und ethnische Gruppenverteilungen im geografischen Raum untersuchen, ist dies nur ein erster Schritt, um das gewalttätige Potenzial des ethnischen Nationalismus zu untersuchen. Um besser zu unterscheiden, welche Fälle ethnischer Fremdherrschaft oder Teilung zu Krieg führen können, müssen wir verstehen, warum die Geschichte eine derartige Faszination auf ethnische Nationalisten und Nationalistinnen ausübt.
 
-## Kriegsrisiko steigt mit glorifizierter Vergangenheit
-
 Wir konnten in einer zweiten Analyse zeigen 7 , dass inkongruente Grenzen eher gewaltsam angefochten werden, wenn nationalistische Herrscher die gegenwärtige Teilung und Fremdherrschaft mit vermeintlich vereinigten und politisch unabhängigeren historischen Blütezeiten kontrastieren können. Revisionistische Konflikte sind besonders häufig, wo vergangene Staatsgrenzen grössere Teile des behaupteten nationalen Territoriums umfassten. Sprich, wenn das Gebiet, das derzeit von der ethnischen Nation bewohnt wird, früher einmal zum „eigenen“ Staat gehörte.
 
 Putin hat wiederholt die verlorene Einheit Russlands infolge des Zerfalls der Sowjetunion beklagt. Essays 8 und Reden 9 offenbaren seine Motivation, den alten Ruhm der Zarenzeit wiederherzustellen. Putin und andere nationalistische Führende gehen oft Jahrhunderte zurück, um mittelalterliche Königreiche, frühneuzeitliche Territorialstaaten oder Imperien auszugraben, die angeblich die nationalistischen Ideale der ethnischen Einheit und politischen Selbstbestimmung erfüllten.
 
-Wenn moderne Vorstellungen nationalen Bewusstseins auf vormoderne Bevölkerungen projiziert und ethnischen Verwandtschaftsbeziehungen, die über Jahrhunderte andauern, konstruiert werden, halten diese einer historischen Analyse kaum Stand. Dennoch verknüpft die nationalistische Argumentation historische Fakten oft sehr geschickt mit Mythen und Behauptungen, um Narrative zu entwerfen, die ganz und gar ihren gegenwärtigen Interessen dienen.
+## Schlechtes Vorbild für andere Nationalisten
 
-## Eigennütziges Narrativ
+Wenn moderne Vorstellungen nationalen Bewusstseins auf vormoderne Bevölkerungen projiziert und ethnischen Verwandtschaftsbeziehungen, die über Jahrhunderte andauern, konstruiert werden, halten diese einer historischen Analyse kaum Stand. Dennoch verknüpft die nationalistische Argumentation historische Fakten oft sehr geschickt mit Mythen und Behauptungen, um Narrative zu entwerfen, die ganz und gar ihren gegenwärtigen Interessen dienen.
 
 Unsere Analysen verdeutlichen, dass nationalistische Konflikte im Europa nach 1945 glücklicherweise ein äusserst seltenes Phänomen geworden sind. In diesem Sinne wirft uns Russlands Eroberungsfeldzug in der Ukraine tatsächlich in das 19. und frühe 20. Jahrhundert zurück. Russlands Nationalismus fordert genau jene liberalen Normen und Institutionen heraus, die nach dem 2. Weltkrieg entwickelt wurden, um diese typisch europäische Ideologie erfolgreich einzudämmen.
 
@@ -42,15 +42,13 @@ Vor diesem Hintergrund ist der Ausgang des Krieges in der Ukraine entscheidend f
 
 Innerhalb Europas wäre es möglich, dass Serbien und Ungarn ethnische Spaltung und eine verlorene Einheit wieder in den Fokus rücken. Aus diesen Gründen sind westliche Sanktionen gegen Russland von entscheidender Bedeutung – sowohl als Strafe als auch als Abschreckung. Wenn wir naiven realistischen Analysen der aktuellen Ereignisse folgen, laufen wir Gefahr, von der subversiven Kraft des Nationalismus genauso überrascht zu werden wie Fürst Metternich 1848, als nationalistische Unruhen ihn zum Rücktritt zwangen.
 
-## Schlechtes Vorbild für andere Nationalisten
-
 Lars-Erik Cederman hat diesen Beitrag mit der Unterstützung von Yannick Pengl verfasst. Pengl ist Postdoktorand bei der Professur für Internationale Konfliktforschung an der ETH Zürich und hat zusammen mit Dennis Atzenhofer, Luc Girardin und Carl Müller-Crepon auch die im Text besprochenen Arbeitspapiere verfasst .
 
 Eine gekürzte Version des Beitrags erscheint in der externe Seite Süddeutschen Zeitung .
 
-1 Mead, Walter Russell. 2014. "The Return of Geopolitics: The Revenge of the Revisionist Powers." Foreign Affairs 93
-
 ## Referenzen
+
+1 Mead, Walter Russell. 2014. "The Return of Geopolitics: The Revenge of the Revisionist Powers." Foreign Affairs 93
 
 2 Mearsheimer, John J. 1990. "Back to the Future: Instability in Europe after the Cold War." International Security 15: 5-56.
 
@@ -58,21 +56,19 @@ Eine gekürzte Version des Beitrags erscheint in der externe Seite Süddeutschen
 
 4 Clausewitz, Carl von. 1984. Über den Krieg. Princeton: Princeton University Press.
 
-## Zum Autor
-
 5 Gellner, Ernest. 1983. Nations and Nationalism. Ithaca, NY: Cornell University Press.
 
 6 Cederman, Lars-Erik, Yannick Pengl, Dennis Atzenhofer and Luc Girardin. 2022. “Nationality Problems and War: Revisiting the Macedonian Syndrome.” ETH Zürich.
 
 7 Cederman, Lars-Erik, Yannick Pengl, Luc Girardin, and Carl Müller-Crepon. 2022. “The Future is History: Restorative Nationalism and Conflict in Post-Napoleonic Europe.” ETH Zürich.
 
-## Newsletter-Anmeldung
-
 8 externe Seite On the Historical Unity of Russians and Ukrainians , Wikipedia.
 
 9 externe Seite Nachrichten der russischen Regierung , President of Russia.
 
 10 Zacher, Mark W. 2001. "The Territorial Integrity Norm: International Boundaries and the Use of Force." International Organization 55: 215-50.
+
+## Zum Autor
 
 Lars-​Erik Cederman ist Professor für Internationale Konfliktforschung an der ETH Zürich.
 

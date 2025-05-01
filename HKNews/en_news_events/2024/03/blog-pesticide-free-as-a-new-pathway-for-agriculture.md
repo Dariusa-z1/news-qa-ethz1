@@ -2,11 +2,15 @@
 
 **Source:** en_news_events/2024/03/blog-pesticide-free-as-a-new-pathway-for-agriculture.html
 
-## Combining approaches
+**Date processed:** 2025-05-01
+
+## Main article
 
 A new approach is gaining momentum in European agriculture: a “third way” that lies between conventional production and organic farming systems. Here farmers must forego synthetic pesticides, but these only – which is simpler to implement than a switch to organic farming. At the same time, this move will achieve the ambitious targets that Switzerland and Europe have set themselves for more sustainable plant protection. 1, 2 Pesticide use is associated with considerable risks for the environment, biodiversity and human health. 3
 
 Pesticide-free production systems offer farmers more flexibility than organic farming. For example, the newly emerging initiatives for pesticide-free production allow farmers to not use pesticides for certain crops on the farm, while continuing to use them for others. A complete shift to organic farming, on the other hand, presents daunting hurdles, as the entire farm has to be converted. What’s more, an organic farm must forgo not just synthetic pesticides, but also mineral fertilisers, among other things, and this results in lower yields.
+
+## Combining approaches
 
 In the last few years, public and private initiatives have made a concerted effort to establish pesticide-free production systems in Europe. Since 2023, agri-environmental programmes in Switzerland and Germany, for instance, have compensated farmers who forgo synthetic pesticides. Swiss farmers now receive direct payments from the federal government of between CHF 650 (e.g. cereals) and CHF 1,400 (e.g. rapeseed) per hectare for growing crops without pesticides.
 
@@ -18,6 +22,8 @@ In our new study 6 , we examined the various European programmes and initiatives
 
 Robert Finger is Professor of Agricultural Economics and Policy and Chair of the World Food System Center at ETH Zurich.
 
+## Gradual expansion
+
 Without encouragement and incentives, switching to pesticide-free production is often not economically viable. The price premiums and area-based payments offered by public and private initiatives, however, make conversion financially attractive for many farms. Surveys on Swiss farmers reveal that it’s crucial they are not financially worse off by switching to pesticide-free production. Farmers also tend to perceive pesticide-free production as riskier, which may deter them from adopting new practices.
 
 Given targeted support, pesticide-free production systems have potential to be implemented on a large scale and to complement existing cultivation systems. They offer farmers more flexibility when choosing site-appropriate production and can be extended step-by-step to other aspects of the crop rotation. In this way, a viable path between conventional and organic farming will be forged – one that creates added value for the environment and farmers.
@@ -25,8 +31,6 @@ Given targeted support, pesticide-free production systems have potential to be i
 However, a number of hurdles lie in the way of expanding pesticide-free production. So far, no standard definition exists as to what counts as pesticide-free production and what not – and this hampers coherent communication. 5 In addition, the labelling of pesticide-free production poses logistical challenges, as all the transportation and processing steps must be separated. What’s more, if ultimately a large proportion of the population is to be fed with pesticide-free produce, to what extent can price premiums and area payments be maintained in the long term? And finally, the loss of yield compared to conventional production must be reduced. Researchers must now join forces with farmers and industry to make approaches for replacing pesticides more effective, and to bring down their costs.
 
 Robert Finger wrote this contribution together with Niklas Möhring , Professor at the University of Bonn.
-
-## Gradual expansion
 
 1 Finger R: Europe’s ambitious pesticide policy and its impact on agriculture and food systems. Agricultural Economics 2024, doi: 10.1111/agec.12817
 

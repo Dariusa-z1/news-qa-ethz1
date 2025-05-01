@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2023/07/zehn-neue-professorinnen-und-professoren-ernannt.html
 
+**Date processed:** 2025-05-01
+
 ## Neuernennungen
 
 (Bild: Marlene Gawrisch)
@@ -18,13 +20,13 @@ Dr. Michelle Frei (*1991), zurzeit Postdoktorandin an der University of Californ
 
 (Bild: privat)
 
-## Beförderungen
-
 Dr. Marie Schoelmerich (*1989), zurzeit Postdoctoral Research Fellow an der University of California in Berkeley, USA, zur Tenure-Track-Assistenzprofessorin für Umweltmikrobiologie am Departement Umweltsystemwissenschaften. Marie Schoelmerichs Forschung befasst sich mit biochemischen und bioenergetischen Fragestellungen in anaeroben Bakterien, die einen urtümlichen Stoffwechselweg nutzen. Der Forschungsschwerpunkt ihrer Gruppe an der ETH Zürich wird auf anaeroben Mikroorganismen liegen, die eine bedeutende Rolle im CO 2 - und CH 4 -Zyklus spielen. Ihre Berufung komplementiert in idealer Weise die interdisziplinäre Forschung innerhalb des Departements und verstärkt die Verbindung zum Departement Biologie und zum Departement Gesundheitswissenschaften und Technologie sowie zur Eawag.
 
 (Bild: privat)
 
 April Yi Wang (*1995), zurzeit Doktorandin an der University of Michigan, USA, zur Tenure-Track-Assistenzprofessorin für Educational Technology am Departement Informatik. April Yi Wangs Forschung befasst sich mit der Erforschung und Weiterentwicklung moderner digitaler Technologien, insbesondere im Bereich von Werkzeugen, die eine effiziente Zusammenarbeit zwischen Datenwissenschaftlerinnen und -wissenschaftlern ermöglichen und erleichtern. Dabei verwendet sie auch Methoden der künstlichen Intelligenz und arbeitet in Zeiten der Digitalisierung und Automatisierung immer komplexerer Prozesse am Puls der Zeit. Die Strahlkraft von April Yi Wangs Arbeit wird das Profil der ETH Zürich als wissenschaftliche Speerspitze der Digitalisierung weiter schärfen.
+
+## Beförderungen
 
 (Bild: ETH Zürich / Giulia Marthaler)
 
@@ -33,8 +35,6 @@ Prof. Dr. Daniel Farinotti (*1982), zurzeit Tenure-Track-Assistenzprofessor an d
 (Bild: ETH Zürich / Giulia Marthaler)
 
 Prof. Dr. Robert Finger (*1981), zurzeit ausserordentlicher Professor an der ETH Zürich, zum ordentlichen Professor für Agrarökonomie und -politik am Departement Management, Technologie und Ökonomie und dem Departement für Umweltsystemwissenschaften. Robert Finger forscht an der Schnittstelle von Wirtschaft und Agrarwissenschaften und trägt zu widerstandsfähigeren und nachhaltigeren Agrar- und Lebensmittelsystemen bei. Er wurde mehrfach ausgezeichnet und geniesst einen hervorragenden internationalen Ruf, was sich neben seinen Erfolgen beim Einwerben von Forschungsgeldern auch in den zahlreichen Einladungen zu Konferenzen widerspiegelt sowie im Einsitz in diversen wissenschaftlichen Gremien. Zudem engagiert sich Robert Finger stark in der Öffentlichkeitsarbeit und Wissenschaftskommunikation.
-
-## Verabschiedung ETH Zürich
 
 (Bild: ETH Zürich / Giulia Marthaler)
 
@@ -47,6 +47,8 @@ Prof. Dr. Mark Tibbitt (*1985), zurzeit Tenure-Track-Assistenzprofessor an der E
 (Bild: ETH Zürich / Giulia Marthaler)
 
 Prof. Dr. Jing Wang (*1979), zurzeit ausserordentlicher Professor an der ETH Zürich und Gruppenleiter an der Empa, zum ordentlichen Professor für Luftqualität und Partikeltechnologie am Departement Bau, Umwelt und Geomatik. Jing Wangs breite Forschung umfasst die Überwachung und Kontrolle der Luftqualität, die Messung und Charakterisierung von Aerosolen, den Nachweis und die Behandlung von biologischen Krankheitserregern und die Bekämpfung der Umweltverschmutzung. Sein internationales Renommee widerspiegelt sich in seiner beeindruckenden Publikationsbilanz mit Zitationszahlen, die zu den höchsten im Forschungsgebiet gehören. Er ist Inhaber von drei Patenten und Mitglied mehrerer Gremien. Besonders hervorzuheben ist auch sein grosses Engagement in der Lehrtätigkeit.
+
+## Verabschiedung ETH Zürich
 
 Prof. Dr. Ce Zhang (*1987), zurzeit ausserordentlicher Professor für Informatik am Departement Informatik, hat die Hochschule Ende Juni 2023 verlassen. Ce Zhang betreibt Forschung an der Schnittstelle von Datenwissenschaft und Systemen mit dem Ziel, effizientere, einfachere und handhabbare Plattformen für die Datenwissenschaft zu entwickeln. Er hat in seiner Zeit an der ETH Zürich eine international anerkannte Forschungsgruppe aufgebaut. Er hat die Hochschule verlassen, um eine Professur an der University of Chicago, USA, anzutreten.
 

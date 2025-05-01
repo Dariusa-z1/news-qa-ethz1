@@ -2,7 +2,9 @@
 
 **Source:** en_internal/2024/01/change-of-leadership-at-eth-in-singapore.html
 
-## Singapore-ETH Centre (SEC)
+**Date processed:** 2025-05-01
+
+## Main article
 
 Gisbert Schneider joined ETH Zurich in 2010 as a Full Professor for Computer-​Assisted Drug Design. It was in the same year that the university opened its branch in Singapore, which Schneider has managed as Director for the last three years. The start of his term of office was shaped by the coronavirus pandemic. It has nevertheless been possible in recent years to enhance the profile of the ETH location in Singapore and position it as a hub of Swiss science diplomacy.
 
@@ -10,9 +12,9 @@ How important is the research centre in Singapore for ETH? Gisbert Schneider: Th
 
 Let’s look back on your time at the SEC. How has the research centre developed in the last three years? For one thing it has grown further. The SEC community now comprises a total of around 300 researchers working on a large number of different projects – from urban planning to digital medicine. The focus here is on man and the question of how we wish to live and work in the future. “The future is green, clean and healthy” serves equally as both a motto and incentive. For example, after ten years we have relaunched the initial flagship project, the Future Cities Laboratory (FCL), as “FCL Global”, and we’ve initiated a third flagship programme in the form of Future Health Technologies (FHT). At the same time, the SEC has received a lot of recognition in its function as a Swiss hub in Asia.
 
-The Singapore-ETH Centre was founded in 2010 by ETH Zurich and Singapore’s National Research Foundation (NRF) as part of the NRF CREATE Campus. The research centre brings together around 300 researchers from various disciplines. They work within the framework of three flagship programmes – Future Cities Lab Global, Future Resilient Systems and Future Health Technologies – and on around 50 short to medium-term projects, including Cooling Singapore and Digital Underground.
+## Singapore-ETH Centre (SEC)
 
-## Gisbert Schneider
+The Singapore-ETH Centre was founded in 2010 by ETH Zurich and Singapore’s National Research Foundation (NRF) as part of the NRF CREATE Campus. The research centre brings together around 300 researchers from various disciplines. They work within the framework of three flagship programmes – Future Cities Lab Global, Future Resilient Systems and Future Health Technologies – and on around 50 short to medium-term projects, including Cooling Singapore and Digital Underground.
 
 Further information: https://sec.ethz.ch
 
@@ -22,9 +24,9 @@ You mentioned the Future Health Technologies programme. How has this got under w
 
 And then there’s a third flagship programme… The Future Resilient Systems programme – FRS. We’re currently in the middle of the second five-year phase here. We’ve successfully focused the programme on specific issues. Now we wish to translate the research findings into tangible products in the next two years. A good example is the InfraRisk initiative that models the risks of natural hazards for infrastructures. Talks are currently under way here with the City of Zurich regarding how these models could be meaningfully deployed. They have already been applied to other cities.
 
-## Always up to date
-
 Now you’ve handed over the management to Manu Kapur. What lies ahead for your successor? Further increasing the visibility of the SEC at ETH and in Switzerland will be the decisive factor. We also need to continue attracting and gaining outstanding researchers for the SEC. To start with, the flagship programmes will continue to run: FCL Global in the field of urban planning, FRS in resilience research and FHT in health research. On top of this there are the smaller programmes and projects that continuously require funding and need to be supported and then brought to a conclusion. The Managing Director of the SEC, Thomas Meyer, also does an outstanding job assisting with all these planning and coordination tasks. Manu will launch and implement his own ideas.
+
+## Gisbert Schneider
 
 (Photograph: ETH Zurich)
 

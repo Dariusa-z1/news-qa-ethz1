@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2023/09/clotta-jubilee-prize-awarded-to-two-eth-professors-in-basel.html
 
+**Date processed:** 2025-05-01
+
 ## Pathogen forecast, like checking the weather
 
 In honour of its 50 th anniversary, the Max Cloëtta Foundation awarded its Jubilee Prize to two ETH Zurich professors, Tanja Stadler and Barbara Treutlein for their outstanding achievements and active research in the field of biomedicine. Both working in ETH Zurich’s Department of Biosystems Science and Engineering in Basel, Switzerland, Stadler and Treutlein will share the award’s endowment valued at 250,000 Swiss francs to fund their future research.
@@ -9,8 +11,6 @@ In honour of its 50 th anniversary, the Max Cloëtta Foundation awarded its Jubi
 As a professor of Computational Evolution, Tanja Stadler has become a leading Biomedical scientist in Switzerland and worldwide. Her research in statistical phylogenetics is central to genomics-based studies of pathogen evolution and epidemiology. Working at the interface of mathematics, computer science, and evolution, she has made critical contributions to science and society through her work on infectious disease spread and evolution, including HIV, Ebola, COVID-19, and Monkeypox. Her work develops fundamental theory and computational tools for answering core questions in evolution, which advances life sciences not only in molecular biology, virology, epidemiology, immunology, and ecology, but also developmental biology and species evolution. During the coronavirus pandemic, Stadler made important contributions to the pandemic response in Switzerland and chaired the Swiss National COVID-19 Science Task Force.
 
 Tanja Stadler envisions a world in which everyone will have access to a forecasting app that shows the progression of epidemics and helps to facilitate individual and societal decision making. Like a weather forecast helps us decide on whether we should take an umbrella to work, an epidemic forecast could help us to assess the benefit, for example, of temporarily wearing a mask. Stadler anticipates using her portion of the prize award towards solving scientific questions around the analysis of huge pathogen genomic datasets in real time. Such analyses are a pre-requisite for a comprehensive epidemic forecast.
-
-## Every cell has a story to tell
 
 Commenting on the prize award, she says, “I am deeply honoured to receive this great recognition of my work. Sharing this prize with Barbara Treutlein reflects upon the outstanding scientific environment of ETH Zurich and its thriving Basel campus – a scientific home for both of us.”
 

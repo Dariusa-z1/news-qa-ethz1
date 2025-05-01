@@ -2,45 +2,37 @@
 
 **Source:** de_internal/2019/07/die-schulleitung-informiert-2019-3.html
 
+**Date processed:** 2025-05-01
+
 ## Gute Noten für Führung und Verwaltung der ETH
 
 Die Schulleitung hat auf Antrag der Forschungskommission grünes Licht zur ersten Vergabe eines ETH+-Grants gegeben. In der ersten Vergaberunde dieses neuen internen Forschungsförderungsinstruments erhält ein Konsortium von elf Forschenden rund um den Erdwissenschaftler Domenico Giardini 1,8 Millionen Schweizer Franken für ihr disziplinenübergreifendes Projekt «Planet MARS». Damit wird sichergestellt, dass über die nächsten Jahre alle Informationen der ETH-Beteiligung an der Insight-Mars-Mission ausgewertet werden können. Das Projekt zielt darauf ab, mit den aus der Mission gewonnenen Daten und einem interdisziplinären Ansatz die innere Struktur und Dynamik des roten Planeten zu erforschen. Insgesamt sechs Eingaben hat die interne Forschungskommission in dieser Vergaberunde beurteilt.
 
-## Die Risikolage der ETH
-
 Die ETH hat solide, effiziente und angemessene Strukturen und Prozesse, die es in organisatorischer Hinsicht ermöglichen, die eigenen strategischen Ziele zu erreichen. Das ist das Fazit der sogenannten «Transition Review», welche eine externe Prüfgesellschaft im Auftrag des ETH-Rats von Oktober 2018 bis Februar 2019 zur ETH Zürich durchgeführt hat. Bei jedem Wechsel an der Spitze von ETH, EPFL oder den Forschungsanstalten gibt der ETH-Rat bei einer externen unabhängigen Prüfstelle einen umfassenden «Transition Review» in Auftrag.
 
-## Hörsäle besser nutzen
+## Die Risikolage der ETH
 
 Die Prüfung umfasste die Bereiche Governance, Finanzen und Controling, Recht und Compliance sowie Immobilien. In keinem dieser Bereiche gab es auf einer fünfstufigen Skala Empfehlungen der Stufen 1 oder 2, welche dringenden Handlungsbedarf signalisieren. Der Bericht kommt zum Schluss, dass im Bereich Recht und Compliance die Reputationsrisiken wegen laufender Rechtsstreitigkeiten und im Immobilienbereich die lange Dauer von Bauprojekten (vom Bedarfsnachweis bis zum Bau von neuen Gebäuden) künftig stark zu beachten seien (Empfehlungen Stufe 3). Herausforderungen orteten die externen Prüferinnen und Prüfer auch in den ständig steigenden Transparenzanforderungen und in der Frage der Sicherung der Finanzierung und Autonomie der ETH sowie in der Sicherung der aktuell ausgezeichneten Position in Lehre und Forschung.
 
-## Aufstockung der psychologischen Beratungsstelle
-
 Die Schulleitung hat den Bericht der Risikomanagement-Kommission (RMK) diskutiert und verabschiedet. Die Risikosituation hat sich aus der finanziellen Sicht heraus nicht verändert, aber aus Sicht der Reputationsbewertung hat sie sich verschlechtert. Mit der Heraufstufung des Risikos «Fehlverhalten von Vorgesetzten und Mitarbeitenden» zu einem zentralen Kernrisiko reagiert die ETH auf die potenziellen, negativen Auswirkungen auf die öffentliche Meinung durch Fälle von Fehlverhalten von ETH-Vorgesetzten. Ein breit angelegtes Massnahmenpaket ist im Rahmen des Projekts «Führung» in Erarbeitung. In diesem Projekt entwickelte Verbesserungen werden laufend eingeführt. Die neue Initiative ETH+ wurde im vergangenen Jahr in mehrere Risiken integriert. Nach der erfolgreichen Durchführung des ersten ETH+-Zyklus wurde dieses Risiko zurückgestuft und teilweise aus den Beurteilungen der einzelnen Risiken entfernt.
-
-## Parkplätze: Anpassung an Marktpreise
 
 Die Studierendenzahlen an der ETH steigen stetig an. Das Wachstum der Unterrichtsräume kann damit nicht Schritt halten. Auch wenn ab Frühlingssemester 2020 der grösste Hörsaal der ETH Zürich, der denkmalgeschützte Scherrer-Hörsaal, nach einer Sanierung wieder zur Verfügung steht, wird diese Entlastung nur vorübergehender Natur sein. Deshalb hat die Schulleitung beschlossen, ab dem Herbstsemester 2020 sowohl im Zentrum wie auf dem Hönggerberg auf die Mittagspause von 12.00 Uhr bis 13.00 Uhr zu verzichten und die Hauptunterrichtszeiten auf 08.00 Uhr bis 18.00 Uhr auszudehnen. Das bedeutet eine Erhöhung von acht auf zehn Stunden pro Unterrichtstag.
 
-## ETH in Dübendorf
-
 Die Anfangszeiten im Zentrum bleiben jeweils bei 15 Minuten nach der vollen Stunde, abgestimmt auf die Anfangszeiten der UZH (08.00) und der Kantonsschule (07.45 Uhr). Die Anfangszeiten auf dem Hönggerberg bleiben wie bisher je nach Gebäude bei der ganzen Stunde oder einer Viertelstunde davor. Verschiedene Gremien wurden einbezogen beziehungsweise informiert. Die Studienkonferenz, die Konferenz des Lehrkörpers (KdL), die Stundenplanverantwortlichen der Departemente sowie diverse Verwaltungsstellen sind mit der Neuerung einverstanden. Der VSETH ist allerdings skeptisch, ob die Kosten der Reform den Nutzen aufwiegen. Eine vorgängige externe Studie hatte ergeben, dass die ETH Zürich unter 34 Hochschulen in der Schweiz, Deutschland und Österreich die kürzesten Hauptunterrichtszeiten hat. Eine allgemeine Mittagspause kennt keine der untersuchten Hochschulen.
 
-## Mehr Platz für das CSCS in Lugano
+## Aufstockung der psychologischen Beratungsstelle
 
 Die externe Seite psychologische Beratungsstelle von ETH und Universität Zürich wird aufgestockt. Um eine rasche und niederschwellige Betreuung Studierender und Doktorierender sicherzustellen und die (zu) lange Wartezeit von zurzeit über vier Wochen zu reduzieren, hat die Schulleitung zusätzliche 140 Stellenprozente bewilligt. Damit verfügt die Beratungsstelle künftig über insgesamt sechs Vollzeitstellen. Die Kosten werden je zur Hälfte von ETH und Universität Zürich getragen.
 
-## Regelmässige Informationen aus der Schulleitung
-
 Seit dem 1. Januar 2017 gilt die neue Parkierungsverordnung für Parkplätze an der ETH Zürich. Nun hat die Schulleitung beschlossen, die Preise für Parkplätze schrittweise auf ein marktübliches Niveau zu bringen. Gleichzeitig gilt es, die halb so hohen Preise auf dem Hönggerberg an die im Zentrum anzugleichen. Die Parkpreise liegen zurzeit bei 60 Franken pro Monat auf dem Hönggerberg und bei 120 Franken im Zentrum. Studierende erhalten einen Rabatt von einem Drittel. Zum Vergleich: Die Universität Zürich verlangt für unpersönliche Parkplätze 100 Franken pro Monat; ein Parkplatz in einer privaten Garage im umliegenden Quartier kostet zwischen 240 und 280 Franken pro Monat. Nun werden die Parkpreise auf dem Hönggerberg ab 1. Januar 2020 von 60 auf 90 Franken und ab dem 1. Januar 2022 von 90 auf 120 Franken erhöht. Ab dem 1. Januar 2024 werden in einem dritten Schritt mit einer weiteren Erhöhung um 50 Prozent auf 180 Franken pro Monat die Parkpreise an beiden Standorten an Marktpreise angenähert.
 
-## Staffnet
+## ETH in Dübendorf
 
 Der Bund bzw. die ETH Zürich übernimmt die Hallen 2 und 3 auf dem Areal des ehemaligen Militärflughafens Dübendorf. Dort soll in naher Zukunft der Innovationspark Zürich (IPZ) mit Fokus auf Mobilität, Robotik und Aviatik entstehen. Bereits jetzt forschen in einem Teil von Halle 3 einzelne Professorinnen und Professoren aus den Bereichen autonomes Fahren und Robotik. Das IPZ-Areal ist im Eigentum der Eidgenossenschaft. Die Halle 2 wird voraussichtlich bis 2020 noch von armasuisse genutzt und kann dann von der ETH übernommen werden. Die Hallen 2 und 3 sollen samt Umschwung vom übrigen IPZ-Areal ausgeschieden werden, das der Bund dem Kanton Zürich im Baurecht abgibt.
 
-## Newsletter abonnieren
-
 Das externe Seite nationale Supercomputing-Zentrum CSCS , das seit 2012 im Neubau LCA in Lugano-Cornaredo beheimatet ist, wird in den nächsten Jahren voraussichtlich von aktuell rund 110 Mitarbeitenden auf etwa 180 Personen wachsen. Steigende Drittmittelprojekte und ein erweiterter Aufgabenbereich (internationale Präsenz) führen zu diesem Wachstum. Um die zusätzlichen Flächenbedürfnisse des CSCS zu decken, soll das LCA-Gebäude um zwei Stockwerke aufgestockt werden. Dafür beantragt die ETH Zürich beim ETH-Rat über die Eingabe eines Bedarfsnachweises ein Bauprojekt in der Höhe von 9 bis 12 Mio. Franken.
+
+## Regelmässige Informationen aus der Schulleitung
 
 Die Schulleitung der ETH Zürich trifft sich alle zwei Wochen zur ordentlichen Schulleitungssitzung. In dieser Rubrik wird kurz über die wichtigsten Entscheide aus diesen Sitzungen informiert, in dieser Ausgabe diejenigen der Sitzungen der Schulleitung ab April 2019.
 

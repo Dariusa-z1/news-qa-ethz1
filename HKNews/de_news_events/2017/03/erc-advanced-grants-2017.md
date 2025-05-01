@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2017/03/erc-advanced-grants-2017.html
 
+**Date processed:** 2025-05-01
+
 ## Die Exzellenz-Strategie greift
 
 Die acht Forscher sind allesamt ordentliche oder ausserordentliche Professoren, zum Teil seit vielen Jahren. Das Themenspektrum ist breit und reicht von der Mikro- über die Systembiologie und die organische Chemie bis zur Quantenphysik. Die eingeworbenen Mittel sind je zwischen zwei und drei Millionen Euro hoch, und die Gesamtsumme beläuft sich auf rund 20,2 Millionen Euro. Drei der Geförderten haben es bereits zum zweiten Mal geschafft, diese wohl derzeit höchste Auszeichnung für Pionierforschung zu erhalten. Zusätzlich bekamen weitere sieben Forscherinnen und Forscher ein A-Rating („ausgezeichnet“), die damit die Kriterien für einen Grant eigentlich erfüllen.
@@ -12,8 +14,6 @@ Blickt man zurück auf die erste ERC-Dekade ab 2007 mit den Programmen FP7 und H
 
 Die Zahlen hätten sogar noch besser sein können: Bekanntlich war die Schweiz im Jahr 2014 aufgrund der Annahme der Masseneinwanderungs-Initiative von zwei ERC Ausschreibungen ausgeschlossen. Der Schweizerische Nationalfonds hat deshalb ein Ersatzprogramm durchgeführt. Dank der Unterzeichnung des Kroatienprotokolls im letzten Dezember kann sich die Schweiz wieder vollumfänglich an Horizon 2020 beteiligen. «Ich bin sehr erleichtert über diesen Schritt. Die Teilnahme ist für die Schweiz und die ETH sehr wichtig», hält Detlef Günther fest. «Unsere Forschenden müssen sich mit der europäischen Konkurrenz messen können. Die ERC-Grants haben sich sehr schnell zu einem renommierten Instrument zur Förderung exzellenter Forschung entwickelt, um die sich alle Forschungsinstitutionen in Europa bewerben. Deshalb freut es mich sehr, dass unsere Wissenschaftler in der aktuellen Ausschreibung an die bisherigen Erfolge der ETH anknüpfen können.»
 
-## Anknüpfen an bisherige Erfolge
-
 Die acht Projekte im Überblick:
 
 Tilman Esslinger , Professor für Quantenoptik, erhält bereits zum zweiten Mal einen ERC Advanced Grant zugesprochen. In seinem neuen Projekt untersucht er elementare Transportmechanismen in einem Regime, in dem die Gesetze der Quantenphysik gelten. Es geht um die Frage: Wie gelangen Materie, Wärme oder magnetische Ausrichtung von A nach B? Dazu wird er mit seiner Gruppe Atomgase auf Temperaturen von unter 100 Nano-Kelvin abkühlen. Die Gase werden in einer Anordnung aus Lichtkäfigen gefangen gehalten und mithilfe von hochempfindlichen Kameras beobachtet. Den Transport in diesem Regime zu verstehen ist eine Voraussetzung, um Geräte und Computer mit neuen Funktionalitäten zu bauen, in denen Effekte der Quantenphysik eine zentrale Rolle spielen.
@@ -21,8 +21,6 @@ Tilman Esslinger , Professor für Quantenoptik, erhält bereits zum zweiten Mal 
 Mustafa Khammash ist Professor für Regelungstheorie und Systembiologie. Er forscht an den Schnittstellen von Systembiologie, Synthetischer Biologie und Regelungstechnik. Mit seinem ERC-Grant möchte er Regelungssysteme entwickeln, mit denen er das dynamische Verhalten von lebenden Zellen in Echtzeit präzise steuern kann, entweder über einen externen Computer oder über neuartige genetische Schaltkreise, die er in die Zelle einbaut. Das Projekt beinhaltet nicht nur die Entwicklung von Theorien und Methoden, sondern auch von Regelungssystemen für biotechnologische und therapeutische Anwendungen.
 
 Beat H. Meier ist Professor für Physikalische Chemie und beschäftigt sich mit der Ermittlung der atomaren Struktur von Biomolekülen mittels Kernspinresonanz (NMR). In seinem ERC-Projekt möchte er diese Technik weiterentwickeln, um damit die atomare Struktur insbesondere von komplexen biologischen Systemen mit einer höheren räumlichen Auflösung zu ermitteln. Beispiele für solche Systeme sind in die Zellmembran integrierte Proteine sowie Amyloid-Proteine, welche dünne Fasern bilden und unter anderem bei der Alzheimer-Krankheit eine Rolle spielen. Erreichen möchte Meier die höhere Auflösung durch eine Weiterentwicklung der Mechanik für deutlich schnellere Proben-Rotation sowie durch eine Verbesserung der Radiofrequenz-Pulstechnologie.
-
-## Kontakt
 
 Frédéric Merkt , Professor für Physikalische Chemie, wird in seinem ERC-Projekt chemische Reaktionen von geladenen Atomen und Molekülen (Ionen) mit neutralen Molekülen bei extrem tiefen Temperaturen untersuchen. Ein spezielles Augenmerk wird dabei auf quantenphysikalischen Effekten liegen. Untersuchungen knapp über dem absoluten Temperatur-Nullpunkt (minus 273 Grad Celsius) waren bisher mit Ionen schwierig umzusetzen, da bei diesen Temperaturen bereits geringe elektrische Störfelder die Ionen erwärmen können. Um die Messungen zu realisieren, werden Merkt und seine Forschungsgruppe die Ionen und ihre Reaktionspartner innerhalb der Bahn eines hochangeregten (Rydberg) Elektrons vor Störfeldern schützen. Für Merkt ist dies bereits der zweite ERC Advanced Grant. Einen ersten erhielt er 2008.
 

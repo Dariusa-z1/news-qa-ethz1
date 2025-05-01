@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2013/09/new-online-courses.html
 
+**Date processed:** 2025-05-01
+
 ## Benefitting ETH students first and foremost
 
 The future is online. Does this also apply to education? “Yes” is the response from a number of universities around the world that are currently investing considerable resources in the development of new online courses. Everyone is talking about MOOCs, massive open online courses, a type of online distance learning which is intended to address the needs of a large number of students. The students complete the courses remotely, anywhere in the world in front of a computer screen, and when they pass an online examination they receive a corresponding certificate.
@@ -10,17 +12,15 @@ ETH Zurich also believes that online teaching has a future in education. However
 
 The first two TORQUEs are part of ETH professor Renate Schubert’s lectures in economics and Materials Science and Computational Science and Engineering study programmes’ lectures in physics II respectively. The third TORQUE is part of an introductory course in R, a statistics program frequently used at ETH Zurich.
 
-## The ‘flipped’ classroom
-
 “It is ETH Zurich’s strategy to ensure that our own students are the primary beneficiaries of these online activities in teaching,” says TORQUE Project Manager Andreas Reinhardt from the Educational Development and Technology (LET) staff unit. Furthermore, all members of Swiss universities have access to the TORQUEs’ password-protected area, with a single exception. The courses, though, are tailored to ETH students.
 
 TORQUEs consist of video sequences in which knowledge is imparted plus online exercises. Students can exchange information about course content among themselves and with tutors in an online forum. The idea is that students can prepare themselves for the associated lecture by using self-study techniques with the TORQUE learning sequences.
 
 The online courses at ETH follow the concept of the ‘flipped’ classroom. Traditionally, knowledge is imparted during a lecture and then exercises are done at home. In the ‘flipped’ classroom, it is just the opposite: the knowledge is imparted to a large extent during self-study, and classroom time is used for exercises, in-depth study and critical reflection on the material. “Through TORQUEs, we can shift the imparting of knowledge to self-study with videos, which leaves more time in the classroom for interactions between the lecturers and the students. This is enhances the quality of time spent in the classroom”, says Reinhardt.
 
-## New version and award for EduApp
-
 In the next few months, ETH intends to gather experience with this process. “We are, however, not ruling out that the TORQUEs we have today could be converted into publically accessible MOOCs in future,” adds Reinhardt. There are plans to offer three to four additional courses in the upcoming spring semester.
+
+## New version and award for EduApp
 
 For the past year, ETH Zurich has offered the EduApp to its students and lecturers. It presents students with timetables and building floor plans on a smartphone, and it helps instructors design their lectures more interactively. Using the app, for instance, it is possible to conduct exercises which include online voting during a lecture.
 

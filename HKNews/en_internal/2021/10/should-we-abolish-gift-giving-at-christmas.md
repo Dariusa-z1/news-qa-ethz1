@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2021/10/should-we-abolish-gift-giving-at-christmas.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Just a few more weeks now until mulled wine, fairy lights and frantic shopping trips take over our lives again. In many families, one question dominates the run-up to Christmas: what gifts should I buy for my loved ones? What would I like to receive myself?

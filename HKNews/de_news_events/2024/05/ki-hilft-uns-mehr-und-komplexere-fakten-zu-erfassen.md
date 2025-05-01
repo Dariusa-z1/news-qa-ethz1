@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2024/05/ki-hilft-uns-mehr-und-komplexere-fakten-zu-erfassen.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Joachim Buhmann, warum sind Sie Wissenschaftler geworden? Buhmann: Es gibt eine grossartige Antwort von Luc Ferry, einem französischen Philosophen und ehemaligen Bildungsminister. Es geht dabei um die Frage, warum Menschen nach ihrem Tod etwas hinterlassen wollen. Dies kann dadurch erreicht werden, dass wir Nachkommen zeugen und grossziehen oder als Lehrpersonen andere ausbilden und inspirieren. Das grösste Vermächtnis hinterlassen laut Ferry jedoch die Wissenschaftlerinnen und Wissenschaftler, da sie durch ihren Erkenntnisgewinn einen dauerhaften Beitrag für die Menschheit als Ganzes leisten. Ob ich damit erfolgreich war oder nicht, das sollen andere beurteilen. Ich glaube aber, dass ich als Wissenschaftler zumindest versucht habe, wichtige Fragen zu beantworten und neue Erkenntnisse zu gewinnen, und einige meiner Doktorierenden haben sicherlich neues Wissen mitgenommen, das sie dann weiterentwickelt haben.
@@ -9,6 +11,8 @@ Joachim Buhmann, warum sind Sie Wissenschaftler geworden? Buhmann: Es gibt eine 
 Wussten Sie schon zu Beginn Ihrer Karriere, dass Sie an einer Universität forschen wollten? Buhmann: Es war eine Art Idealvorstellung, aber ich war nie von der Idee besessen, unbedingt Professor werden zu müssen. Nach meiner Zeit als Postdoc in Kalifornien war ich dafür recht aufgeschlossen, weil meine Kinder bereits älter waren. Meine Frau und ich bekamen unsere Kinder in unseren Zwanzigern und ich wurde im Alter von 32 Jahren an der Universität Bonn ausserordentlicher Professor. Ich bin überzeugt, dass das Glück bei meiner Karriere eine Rolle gespielt hat. Es hätte sicherlich auch ganz anders kommen können.
 
 Hätten Sie einen Plan B gehabt? Buhmann: Mein Plan B wäre gewesen, in ein Forschungslabor oder die Industrie zu gehen. Im Bereich Maschinelles Lernen gab es bereits in den 1990er-Jahren Optionen, wenn auch nicht so viele wie heute.
+
+## Zur Person
 
 Joachim Buhmann war von 1992 bis 2003 Professor für praktische Informatik an der Universität Bonn, bevor er einem Ruf der ETH Zürich folgte und ordentlicher Professor für Informatik wurde. In Lehre und Forschung konzentrierte er sich auf Fragestellungen auf den Gebieten der Mustererkennung und der Datenanalyse, was unter anderem auch das maschinelle Lernen, die statistische Lerntheorie und die angewandte Statistik umfasst. Professor Buhmann übernahm an der ETH wichtige Verwaltungsfunktionen. Dazu zählen das Amt als Prorektor für Studium (2014-2018) und die Leitung des Instituts für maschinelles Lernen (2014-2023). Seit 2017 ist er zudem Mitglied im Forschungsrat des Schweizerischen Nationalfonds.
 

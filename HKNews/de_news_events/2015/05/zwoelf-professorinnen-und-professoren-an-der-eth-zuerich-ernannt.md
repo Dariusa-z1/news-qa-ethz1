@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2015/05/zwoelf-professorinnen-und-professoren-an-der-eth-zuerich-ernannt.html
 
+**Date processed:** 2025-05-01
+
 ## Ernennungen ETH Zürich
 
 Der ETH-Rat hat auf Antrag des Präsidenten der ETH Zürich, Prof. Dr. Lino Guzzella, an seiner Sitzung vom 20./21. Mai insgesamt 12 Personen zur Professorin oder zum Professor der ETH Zürich ernannt, den Rücktritt einer Professorin und eines Professors mit Verdankung zur Kenntnis genommen und einen Professorentitel verliehen.
@@ -24,8 +26,6 @@ Prof. Dr. Patrick Cheridito (*1969) , zurzeit Associate Professor an der Princet
 
 Margarita Chli. (Bild: Margarita Chli)
 
-## Verleihung des Titels «Professor»
-
 Dr. Margarita Chli (*1983) , zurzeit Chancellor’s Fellow und Tenure-Track-Lecturer an der School of Informatics der University of Edinburgh, Grossbritannien, zur Assistenzprofessorin für Computervision für Robotik. Margarita Chlis Forschung auf dem Gebiet der visuellen Roboternavigation für die autonome Lokalisierung und das Erstellen von Umgebungsplänen ist weltweit anerkannt. So war sie an der Realisierung des ersten vollautonomen Flugs eines kleinen Helikopters mit Onboard-Lokalisierung und Mapping beteiligt, der nur mit einer Kamera und einem Inertialsensor navigiert wurde. Ihre Ansätze haben zu Zusammenarbeiten mit renommierten Unternehmen geführt. Mit der Berufung von Margarita Chli kann die ETH Zürich ihre führende Position auf dem Gebiet der Robotik ausbauen.
 
 Katrien De Bock. (Bild: Katrien De Bock)
@@ -46,8 +46,6 @@ Prof. Dr. Renato Renner (*1974) , zurzeit ausserordentlicher Professor an der ET
 
 Alessandro Sisto. (Bild: Alessandro Sisto)
 
-## Verabschiedungen ETH Zürich
-
 Dr. Alessandro Sisto (*1986) , zurzeit Postdoktorand an der ETH Zürich, zum Assistenzprofessor für Mathematik. Alessandro Sistos Arbeitsgebiet ist die Geometrische Gruppentheorie, ein Forschungsgebiet an der Schnittstelle zwischen Geometrie und Algebra. Eines seiner Hauptinteressen gilt verschiedenen Verallgemeinerungen der hyperbolischen Gruppen, die in der Geometrischen Gruppentheorie eine zentrale Stellung innehaben. In diesem Bereich nimmt er eine weltweit führende Rolle ein. Daneben hat er wichtige Beiträge zu zahlreichen weiteren Themen geleistet, darunter zu Zufallsbewegungen und zu Abbildungsklassengruppen. Mit Alessandro Sistos Berufung gewinnt die ETH Zürich einen sehr vielverspre­chenden und bestens vernetzten Nachwuchswissenschafter.
 
 Fabian Walter. (Bild: Fabian Walter)
@@ -56,9 +54,13 @@ Dr. Fabian Walter (*1978) , zurzeit Oberassistent an der ETH Zürich, zum Assist
 
 Melanie Zeilinger. (Bild: Melanie Zeilinger)
 
+## Verleihung des Titels «Professor»
+
 Dr. Melanie Zeilinger (*1982) , zurzeit wissenschaftliche Mitarbeiterin am Max-Planck-Institut für Intelligente Systeme in Tübingen, Deutschland, zur Assistenzprofessorin für Intelligente Regelsysteme. Melanie Zeilinger beschäftigt sich mit Regelsystemen für grossangelegte verteilte und hochkomplexe Systeme in sich verändernden und unsicheren Umgebungen. Ein Ziel ihrer international stark vernetzten Forschung ist, das Potenzial der zur Verfügung stehenden Daten voll auszuschöpfen, um agile und hochleistungsfähige Controller für sicherheitskritische Systeme zu entwickeln. Melanie Zeilinger wird zukunftsträchtige Themen im Bereich der Intelligenten Regelsysteme in Forschung und Lehre der ETH Zürich einbringen und ihre führende Rolle auf diesem Gebiet stärken.
 
 Michael Stauffacher. (Bild: Michael Stauffacher)
+
+## Verabschiedungen ETH Zürich
 
 Dr. Michael Stauffacher (*1965) , leitender Wissenschaftlicher Mitarbeiter und Lehrbeauftragter am Departement Umweltsystemwissenschaften der ETH Zürich sowie Associate Professor Extraordinary an der Stellenbosch University, Südafrika, zum Titularprofessor der ETH Zürich. Michael Stauffacher konzentriert sich mit Erfolg auf sozialwissenschaftliche Umweltforschung, unter anderem zu den Themen nukleare Abfallentsorgung, Elektrizitätsversorgung nach Fukushima und nachhaltige Stadtentwicklung. Auch mit seinem grossen Engagement in der Lehre erbringt er wichtige Leistungen für die ETH Zürich.
 

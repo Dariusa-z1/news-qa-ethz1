@@ -2,15 +2,17 @@
 
 **Source:** de_news_events/2019/10/blog-habert-klimaneutrales-bauen.html
 
-## Konkrete Anforderungen und Zielwerte
+**Date processed:** 2025-05-01
+
+## Main article
 
 Gebäude und Infrastruktur verursachen 40 Prozent der Treibhausgase. Aufgrund der langen Betriebsdauer und langsamer Modernisierungszyklen bleiben Objekte, die wir heute errichten, bis ins Jahr 2050 praktisch unverändert bestehen. Wir sollten folglich bereits jetzt mit post-2050-tauglichen Richtlinien bauen. Was wir aber nicht tun.
+
+## Konkrete Anforderungen und Zielwerte
 
 Der Bausektor kann und muss eine Führungsrolle einnehmen, wenn wir die Pariser Klimaziele erreichen wollen. Eine internationale Gruppe von Wissenschaftlern und Ingenieuren einschliesslich meiner selbst hat kürzlich die Grazer Deklaration verabschiedet (siehe Box). Darin rufen wir zur Reduktion der Treibhausgasemissionen im Bausektor auf.
 
 Ein zentraler Aspekt ist die Einführung von Treibhausgasbudgets gemäss den CO 2 -Reduktionzielen des Weltklimarats IPCC. 1 Solche Budgets müssen auf einzelne Bauprodukte, Gebäude, Gebäudebestände und ganze Städte anwendbar sein und klar definierte Ziel- und Zeitvorgaben enthalten, um spätestens bis im Jahr 2050 einen Netto-​Null-CO 2 -​Ausstoss zu erreichen.
-
-## Die Technologie ist da
 
 Des Weiteren sollten die leistungsorientierten Ziele in Gesetze und Normen einfliessen. Wichtig ist zudem, dass die Anforderungen technologieneutral sind – also keine bestimmte Technologie bevorzugen. Ein besonderes Augenmerk gilt der Bauphase, da sich diese überproportional stark auf die Umwelt auswirkt: Über die Hälfte der gesamten Emissionen eines Gebäudes fallen während dem Bau aus.
 
@@ -18,15 +20,13 @@ Das aktuelle Schweizer Label für die Reduktion von Treibhausgasen in Gebäuden,
 
 Neue öffentliche Gebäude haben eine Vorbildfunktion und sollten Netto-Null-CO 2 anstreben. Das ist heute machbar: Die Schweizer Forschung und Industrie haben bereits emissionsarme Betonkonstruktionen entwickelt. 3 Kohlenstoffnegative Isoliermaterialien sind im Markt verfügbar. 4 Was wir nun brauchen, ist ein grundlegender Wandel im Denken.
 
-## Weitere Informationen
-
 Seit einigen Jahren wächst der Konsens, dass wir unsere Ernährung ändern müssen, wenn wir gesund bleiben und die Umwelt schonen wollen, etwa durch reduzierten Fleischkonsum. Entsprechend sollten wir verstehen, dass wir für umweltschonende Gebäude mit gesundem Raumklima unseren Materialkonsum ändern müssen. 5
 
 Wir können nach wie vor alle Materialien nutzen, aber in einem anderen Verhältnis als bisher. So gilt es, weniger energieintensive Baustoffe zu verwenden, um die Emissionen direkt beim Bauen zu senken. Wir wissen, wie man Netto-Null-CO 2 in Gebäuden erreicht, und wie man mit kohlenstoffnegativen Materialien baut.
 
 Als Wissenschaftler und Ingenieure hinter der Grazer Deklaration sehen wir uns in der Pflicht, den notwendigen Wandel im Bausektor gemeinsam mit Gesellschaft und Politik voranzutreiben.
 
-## Referenzen
+## Weitere Informationen
 
 Die Grazer Deklaration für Klimaschutz im Baubereich wurde im Rahmen der Sustainable Built Environment D-A-CH Conference 2019 ( externe Seite SBE19 ) vom 11. bis 14. September an der Technischen Universität Graz von 400 Teilnehmenden aus über 30 Ländern verabschiedet. Die Konferenz wurde vom KIT, von der ETH Zürich und der BOKU Wien organisiert.
 
@@ -34,7 +34,7 @@ Weitere externe Seite Informationen und die Grazer Deklaration externe Seite unt
 
 Die ETH Zürich fürht ein neues CAS zu regenerativen Materialien ein.
 
-## Zum Autor
+## Referenzen
 
 1 IPCC, 2018: externe Seite Summary for Policymakers . In: Global Warming of 1.5°C (PCC Special Report)
 
@@ -47,6 +47,8 @@ Die ETH Zürich fürht ein neues CAS zu regenerativen Materialien ein.
 Und: Pittau F., Lumia G., Heeren N., Iannaccone G., Habert G. 2019. externe Seite Retrofit as a carbon sink: the carbon storage potentials of the EU housing stock. Journal of Cleaner Production , 214, 365–376.
 
 5 Siehe zum Beispiel Ronald Rovers. externe Seite People vs Resources: restoring a world out of balance . Eburon, Niederlande
+
+## Zum Autor
 
 Guillaume Habert Professor für nachhaltiges Bauen an der ETH Zürich
 

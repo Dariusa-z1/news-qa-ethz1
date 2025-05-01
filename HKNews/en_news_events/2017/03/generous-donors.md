@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2017/03/generous-donors.html
 
+**Date processed:** 2025-05-01
+
 ## Milestones 2016
 
 In 2016, 500 new donors were added to the existing 4,400 supporters of the ETH Zurich Foundation. Together, they supported ETH Zurich’s unique projects with gifts amounting to CHF 48 million.
@@ -18,8 +20,6 @@ Innovations in teaching : donations to the field of teaching have enabled ETH to
 
 Promoting talent : thanks to funding commitments for the Excellence Scholarship & Opportunity Programme and the Pioneer Fellowship Program , talented Master’s students and young prospective entrepreneurs receive creative freedom and financial support.
 
-## ETH Zurich Foundation
-
 Media tech initiative : the support from external partners has allowed ETH to establish a new professorship and a centre for media technology, which will help the Swiss media sector to make the most of technological advances. Further information
 
 Open Lab for information security : the commitment of external partners has enabled the Zurich Information Security and Privacy Center (ZISC) to put the Open Lab into operation. The innovative work environment supports open exchange between ETH researchers and business partners. Further information
@@ -31,6 +31,8 @@ Methods of food production : two new professorships in the field of sustainable 
 Collaboration in medicine : in the field of medicine, donations have helped to establish a new professorship in pharmacoepidemiology and the development of a digital biobank for prostate cancer. Further information (only in German)
 
 World’s first Cybathlon : countless private individuals, organisations, foundations and companies contributed with their donations to the successful implementation of this major event, which showed how modern assistance technologies can help people with disabilities in everyday life. Further information
+
+## ETH Zurich Foundation
 
 The ETH Zurich Foundation is an independent, private and non-profit organisation with the mission of promoting teaching and research at ETH Zurich. Through its activities, the ETH Zurich Foundation supports ETH Zurich in maintaining and developing its leading international position. The aim is to supplement federal contributions with private financial resources.
 

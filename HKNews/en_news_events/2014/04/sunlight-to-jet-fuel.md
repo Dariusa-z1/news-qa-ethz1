@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2014/04/sunlight-to-jet-fuel.html
 
+**Date processed:** 2025-05-01
+
 ## Syngas for kerosene synthesis
 
 A European consortium with the participation of ETH Zurich has experimentally demonstrated the first ever production of jet fuel via a thermochemical process using concentrated solar energy. Researchers from ETH Zurich conducted the EU funded project Solarjet together with the German Aerospace Center (DLR), the fuel company Shell, the think-tank Bauhaus Luftfahrt, and the consulting firm Arttic.
@@ -9,8 +11,6 @@ A European consortium with the participation of ETH Zurich has experimentally de
 The key component of the production process of sustainable “solar kerosene” is a high-temperature solar reactor developed by the group of Aldo Steinfeld, Professor of Renewable Energy Carriers at ETH Zurich and Head of the Solar Technology Laboratory at the Paul Scherrer Institute. The reactor contains a porous ceramic solar absorber made of the metal oxide ceria, which enables the molecular splitting of water and CO 2 in a cyclic two-step reduction-oxidation (redox) process.
 
 The first, energy-intensive step proceeds at 1500 degrees Celsius using concentrated solar radiation as the energy source. The metal oxide releases oxygen, assuming a reduced state. In the second step at 700 degrees Celsius, the reduced metal oxide reacts with water and CO 2 , thus re-acquiring oxygen. As the metal oxide is thereby returned to its original state, it can enter the next cycle of the redox process. The net chemical product is synthesis gas – or syngas – a gas mixture of hydrogen (H 2 ) and carbon monoxide (CO), which serves as the precursor for the synthesis of liquid hydrocarbon fuels.
-
-## Exploring the industrial application
 
 “We were able to successfully perform 240 consecutive cycles,” says Daniel Marxer, PhD student of Steinfeld’s group. The yield was 750 litres of syngas, which were shipped in a pressurized vessel from Zurich to Amsterdam. There, at a Shell research centre, the solar syngas was finally converted into kerosene by an established method (Fischer-Tropsch process).
 

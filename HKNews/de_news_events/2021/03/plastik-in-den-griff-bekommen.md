@@ -2,23 +2,25 @@
 
 **Source:** de_news_events/2021/03/plastik-in-den-griff-bekommen.html
 
-## Potenziell schädlich, aber nicht reguliert
+**Date processed:** 2025-05-01
+
+## Main article
 
 (Bild: ETH Zürich)
+
+## Potenziell schädlich, aber nicht reguliert
 
 Besorgniserregende Bilder von Plastikmüll in Flüssen, Meeren und an Küsten stehen sinnbildlich für unser ungelöstes Abfallproblem. Ob in städtischen oder entlegenen Gebieten, wo immer man Proben nimmt, finden sich feste Kunststofffragmente, so genanntes Mikro- oder Nanoplastik. Das hat einen öffentlichen Diskurs ausgelöst, wie man die Flut an Plastikmüll eindämmen kann.
 
 Kunststoff-Polymere sind eine sehr heterogene Gruppe von Verbindungen – dennoch werden sie oft in denselben Topf geworfen und gleichermassen problematisiert. Natürlich ist es verlockend, pauschal die Plastikverschmutzung zu geisseln und Kunststoffe einschliesslich Mikroplastik mittels Verboten und Restriktionen einzudämmen, wie zahlreiche Vorstösse rundum die Welt zeigen. Aber können wir uns so einfach aus der Mikroplastik-Misere heraus regulieren? Die kurze Antwort lautet: leider nein.
 
-## Ein unvollständiges Bild
-
 Generelle Verbote von Stoffen sind dann angebracht, wenn es klare Beweise gibt, dass sie schädlich sind, wie etwa beim Umweltgift DDT oder den ozonabbauenden FCKW. Aber das ist bei Mikroplastik nicht unbedingt der Fall.
 
 Plastik gelangt entlang der gesamten Wertschöpfungskette in die Umwelt. Und ja, man geht davon aus, dass Kunststoffe die Qualität von Gewässern und Böden beeinträchtigen. Plastikfragmente kleiner als 5 mm gelten derzeit als «besorgnisseregende Fremdstoffe» (englisch: contaminants of emerging concern). Der Begriff beschreibt Schadstoffe, welche sich negativ auf die Umwelt oder die menschliche Gesundheit auswirken können, aber nicht durch Umweltgesetze reguliert sind.
 
-Es macht Sinn, Mikroplastik anhand der Quelle zu unterscheiden. Der überwiegende Anteil in der Umwelt stammt aus zerfallendem Makroplastikmüll oder wird bei der Produktnutzung freigesetzt, etwa Fasern aus Textilien oder Reifenabrieb. Vergleichsweise klein ist hingegen der Anteil von primärem Mikroplastik, das gezielt in Anwendungen von der Landwirtschaft bis hin zu Kosmetika zum Einsatz kommt. Vor allem für primäres Mikroplastik werden aktuell in vielen Ländern Restriktionen diskutiert.
+## Ein unvollständiges Bild
 
-## Mit Plastik anders umgehen
+Es macht Sinn, Mikroplastik anhand der Quelle zu unterscheiden. Der überwiegende Anteil in der Umwelt stammt aus zerfallendem Makroplastikmüll oder wird bei der Produktnutzung freigesetzt, etwa Fasern aus Textilien oder Reifenabrieb. Vergleichsweise klein ist hingegen der Anteil von primärem Mikroplastik, das gezielt in Anwendungen von der Landwirtschaft bis hin zu Kosmetika zum Einsatz kommt. Vor allem für primäres Mikroplastik werden aktuell in vielen Ländern Restriktionen diskutiert.
 
 Als Umweltchemikerin zweifle ich nicht daran, dass die Verschmutzung durch Kunststoffe negative Folgen hat oder haben wird, entweder direkt aufgrund ihres Vorkommens in der Umwelt oder indirekt durch toxische Zusatzstoffe. Weniger klar ist jedoch, welche spezifischen Transport- und Umwandlungsprozesse die Partikel durchlaufen können, und welche Substanzen wie schädlich sind.
 
@@ -26,7 +28,7 @@ Jenseits der Schlagzeilen gibt es also noch viele fundamentale Forschungslücken
 
 Künftig muss die Mikroplastik-Forschung die Exposition viel besser abschätzen und das Schadenpotenzial ermitteln. Erst dann lassen sich sinnvolle Massnahmen priorisieren. Noch wissen wir zu wenig über das Schicksal von Mikroplastik in der Umwelt und die ökotoxischen Auswirkungen. Das erschwert derzeit eine angemessene Risikobewertung von Nano- und Mikroplastik.
 
-## Referenzen
+## Mit Plastik anders umgehen
 
 Letztlich geht es um die Frage, wie wir Kunststoffe effektiver nutzen und dafür sorgen können, dass viel weniger davon in die Umwelt gelangt.
 
@@ -34,13 +36,15 @@ Undifferenzierte Restriktionen werden der Vielfalt an Polymerarten jedoch nicht 
 
 Die Risikobewertung von (primärem) Mikroplastik hängt von verschiedenen Faktoren ab wie dem Schadenpotenzial, verfügbaren Alternativen und der Qualität, den Kosten und Gefahren von Ersatzmaterialien. In einigen Fällen ist es technisch einfach, einen Stoff zu ersetzen. In anderen Fällen können Substitute teuer sein, schlechter funktionieren oder gar zu neuen Problemen führen.
 
-## Zur Autorin
-
 Ein Beispiel sind biologisch abbaubare Kunststoffe. Sie gelten als das Ersatzprodukt, sind aber nicht für alle Verwendungszwecke geeignet und je nach Umgebung unterschiedlich gut abbaubar. Zudem tragen bestimmte (Mikro-)Kunststoffe dazu bei, andere ökologische Ziele zu erreichen, wie etwa Agrokapseln für einen gezielteren Pflanzenschutz.
 
 Meiner Ansicht nach sollten wir Plastik durchaus regulieren – aber so, dass die Regeln als Katalysator für Innovation und bessere Praktiken dienen. Dazu müssen Restriktionen präzis fokussiert und durchsetzbar sein. Für die Politik gilt es sorgfältig abzuwägen, unter welchen Bedingungen Substitutionsanreize effektiv neue umweltfreundliche und wettbewerbsfähige Ersatzkunststoffe hervorbringen können.
 
+## Referenzen
+
 1 Mitrano D, Wohlleben W: Microplastic regulation should be more precise to incentivize both innovation and environmental safety. Perspective. Nature Communications (2020). doi: externe Seite 10.1038/s41467-020-19069-1
+
+## Zur Autorin
 
 Denise Mitrano Professorin für Umweltchemie von anthropogenem Materialien, ETH Zürich
 

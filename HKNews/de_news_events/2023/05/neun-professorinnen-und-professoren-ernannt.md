@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2023/05/neun-professorinnen-und-professoren-ernannt.html
 
+**Date processed:** 2025-05-01
+
 ## Neuernennungen
 
 (Bild: ETH Zürich / Kilian J. Kessler)
@@ -18,8 +20,6 @@ Dr. Nina Cabezas Wallscheid (*1982), zurzeit Gruppenleiterin am Max-Planck-Insti
 
 (Bild: Bryce Vickmark)
 
-## Beförderungen
-
 Prof. Dr. Colette L. Heald (*1977), zurzeit ordentliche Professorin am Massachusetts Institute of Technology (MIT) in Cambridge, USA, zur ordentlichen Professorin für Atmosphärenchemie am Departement Umweltsystemwissenschaften. Das Ziel von Colette L. Healds Forschung ist das Verständnis für die wichtigsten chemischen und physikalischen Prozesse, die die Zusammensetzung der Atmosphäre und die Auswirkungen von Gasen und Partikeln in der Atmosphäre sowie die Einflüsse des sich verändernden Klimas und der Biosphäre auf globaler Ebene kontrollieren. Mit ihrer Forschung bildet sie eine ideale Ergänzung zu zwei bereits bestehenden Professuren am Departement. Zudem verfügt die international renommierte Forscherin über eine beeindruckende Publikationsbilanz und wurde mehrfach ausgezeichnet.
 
 (Bild: UW Madison Board of Regents)
@@ -34,7 +34,7 @@ Prof. Dr. Johanna Ziegel (*1981), zurzeit ordentliche Professorin an der Univers
 
 Dr. Thomas H. Zurbuchen (*1968), zurzeit selbstständiger Berater und internationaler Redner, zum ordentlichen Professor für Weltraumwissenschaft und -technologie am Departement Erdwissenschaften. Thomas H. Zurbuchen war von 2016 bis 2022 Wissenschaftsdirektor der NASA und ist ein international gefragter Experte für Innovation und Unternehmertum. Er wird die Initiative ETH Zürich | Space leiten und plant, den schweizweit ersten Masterstudiengang in Weltraumwissenschaft und -technologie einzuführen. Das Departement Erdwissenschaften war in den letzten 20 Jahren in mehrere grosse Weltraummissionen involviert, teils in leitender Position. Mit der Berufung von Thomas H. Zurbuchen – einem Weltklasse-Wissenschaftler mit aussergewöhnlichen Verbindungen zu NASA, ESA, nationalen Raumfahrtbehörden und der Raumfahrtindustrie – eröffnet sich die Chance für das Departement und die ETH Zürich, bei einer Vielzahl zukünftiger Missionen und anderer Forschungsaktivitäten mit Bezug zur Raumfahrt (z. B. Satellitendaten) eine tragende Rolle zu spielen.
 
-## Verleihung des Titels «Professorin» oder «Professor»
+## Beförderungen
 
 (Bild: ETH Zürich / Giulia Marthaler)
 
@@ -44,15 +44,17 @@ Prof. Dr. Torbjörn Netland (*1980), zurzeit Tenure-Track-Assistenzprofessor an 
 
 Prof. Dr. Jeremy Richardson (*1986), zurzeit Tenure-Track-Assistenzprofessor an der ETH Zürich, zum ausserordentlichen Professor für Theoretische Molekulare Quantendynamik am Departement Chemie und Angewandte Biowissenschaften. Jeremy Richardson forscht im Bereich der theoretischen Beschreibung von quantendynamischen Prozessen komplexer Systeme. Sein Hauptthema ist die Berechnung von thermischen Geschwindigkeitskonstanten mit Hilfe der Ringpolymer-Instanton-Theorie. Er betreibt ergebnisoffene Grundlagenforschung auf international höchstem Niveau, welche Raum für explorative Forschung bietet. Seine Forschung wurde mehrfach ausgezeichnet und hat grossen Einfluss, was sich auch an zahlreichen Einladungen zu Vorträgen und internationalen Konferenzen zeigt.
 
+## Verleihung des Titels «Professorin» oder «Professor»
+
 (Bild: privat)
 
 Dr. Johannes Lengler (*1981), zurzeit Dozent am Departement Informatik der ETH Zürich , zum Titularprofessor der ETH Zürich. Johannes Lengler verfolgt als einer der führenden theoretischen Informatiker ein breites Forschungsspektrum, das von der reinen Mathematik bis zu den Neurowissenschaften reicht. Neben seiner Arbeit zur Theorie der Zufallsnetzwerke wurde er auch zu einer treibenden Kraft in der Theorie der naturinspirierten Suchheuristiken, zu welcher er mit seinem mathematischen Hintergrund wichtige Beiträge leistet.
 
 (Bild: Nicholas P. van der Meulen, PSI)
 
-## Verabschiedungen
-
 Dr. Cristina Müller (*1975), zurzeit Privatdozentin am Departement Chemie und Angewandte Biowissenschaften der ETH Zürich sowie Gruppenleiterin am Paul Scherrer Institut (PSI), zur Titularprofessorin der ETH Zürich. Cristina Müller forscht zu Radiodiagnostik mit einem starken Fokus auf kleine radiomarkierte Moleküle, die auf tumor-assoziierte Strukturen von Eierstock- und Prostatakrebszellen abzielen. Die international anerkannte Wissenschaftlerin betreibt radiopharmazeutische Forschung auf Weltklasseniveau und erhielt mehrere Auszeichnungen.
+
+## Verabschiedungen
 
 Prof. Dr. Kay W. Axhausen (*1958), zurzeit ordentlicher Professor für Verkehrsplanung am Departement Bau, Umwelt und Geomatik, wird Ende Januar 2024 in den Ruhestand treten. Kay W. Axhausen kam 1999 als ordentlicher Professor an die ETH Zürich. Seine Forschungs­schwerpunkte liegen in der Messung und Modellierung von Verkehrsverhalten sowie in der Analyse von verkehrlichen Entscheidungen von Personen und Institutionen. Am einflussreichsten waren seine Studien über den Wert von Reisezeiteinsparungen, die zu offiziellen Werten für die Kosten-Nutzen-Analyse in der Schweiz und in Deutschland führten. Kay W. Axhausen verfügt über eine beeindruckende Publikationsbilanz und wurde mehrfach mit renommierten Preisen ausgezeichnet. Zudem war er Teil zahlreicher Kommissionen, Komitees und Vorstände.
 

@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2018/05/architectures-blind-spot.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Shortly after the publication of this article, the Swiss Pavilion received the Golden Lion for the first time. Further information can be found in the article " Biennale 2018: ETH contribution wins Golden Lion ".
@@ -19,6 +21,8 @@ Your concept beat more than 80 other candidates in the Pro Helvetia competition.
 What was the greatest challenge for you? Van der Ploeg : The time pressure. The last year has been one long race against the clock. But we organised ourselves efficiently and coordinated well with each other. Executing a project on this scale for the first time was an extremely steep learning curve. Bosshard : For me, the greatest challenge was to keep a handle on everything. But I think we really pulled it off, thanks in no small part to the support of our professor Alex Lehnerer, who constantly encouraged the team, and of the whole department. That was really great.
 
 Inside ‘Svizzera 240: House tour ’ (© Photographs 1-3: Christian Beutler/Keystone, Photograph 4: Wilson Wootton)
+
+## Other ETH projects at the Venice Biennale 2018:
 
 ETH has a presence not only in the Swiss pavilion, but also in the Japanese pavilion. Its exhibition “Architectural ethnography” was curated by Momoyo Kaijima, Professor for Architectural Behaviorology, and Laurent Stalder, Professor of Architectural Theory. Exhibitors include Tom Emerson, Professor for Architecture and Construction.
 

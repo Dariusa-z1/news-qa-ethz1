@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2016/09/brandschutzkurs-fuer-eth-angehoerige.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Die Abteilung Sicherheit, Gesundheit und Umwelt (SGU) führt im Herbst ihre Ausbildungskurse zum Thema Brandschutz durch. Den Teilnehmenden wird im theoretischen Teil vermittelt, wo Hilfe zu erwarten ist und wie Brände entstehen bzw. verhindert werden können. Im praktischen Teil wird das korrekte Verhalten im Brandfall geschult und geübt. Jeder Kursteilnehmer hat Gelegenheit unter fachkundiger Anleitung ein Feuer mit einem Handfeuerlöscher und einer Löschdecke zu bekämpfen.

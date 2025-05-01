@@ -2,9 +2,13 @@
 
 **Source:** en_news_events/2021/08/podcast-hautsache.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 What began at lunch between the ETH-Professors Sabine Werner and Edoardo Mazza emerged as a nationwide interdisciplinary consortium of scientists from diverse universities and hospitals. The goal of Skintegrity.CH is to understand and treat skin diseases and abnormalities in wound healing. Sabine and Edoardo from the ETH as well as Lukas Sommer from the University of Zürich talk about our largest organ, the skin - from the tiniest particles to its breeding. They also let us know how collaboration works in such a large group and why it empowers the next generation of researchers.
+
+## Skintegrity at Scientifica
 
 At Scientifica, Skintegrity will show a device called Nimble, which uses a vacuum to measure mechanical properties of the skin, as well as parts of a “dynamic bioreactor” in which skin cells from patients can be grown into bioengineered skin substitutes. Further information on the website of Scientifica .
 

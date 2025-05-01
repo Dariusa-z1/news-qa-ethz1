@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2021/09/why-the-covid-certificate-requirement-is-not-discriminatory.html
 
-## Everyone has a choice
+**Date processed:** 2025-05-01
+
+## Main article
 
 (Photograph: ETH Zurich)
 
@@ -10,15 +12,15 @@ Since the Federal Council implemented Covid certification for restaurants and in
 
 Discrimination consists of actions, practices or measures that impose a relative disadvantage on persons based on their belonging to a particular social group. 1 What’s crucial here is that the unequal treatment applies to groups defined by traits such as gender, origin, or religious affiliation. In addition, to be considered discriminatory, a measure must lack objective justification. According to the Swiss Constitution, this is not the case where public interest and the protection of the fundamental rights of third parties are paramount.
 
-## Enabling education
+## Everyone has a choice
 
 Nobody speaks of discrimination against smokers, despite the strict smoking bans in restaurants. Here, the health of non-smoking guests and staff is considered more important than the freedom to light up in the dining room. The yellow fever vaccination requirement for entering tropical countries is a similar case. Again, public health outweighs the individual freedom of tourists.
 
 Putting compulsory certification on par with discrimination based on gender, origin, or religion is also misguided: individuals do not choose their gender, origin or – to a certain extent – religion. Without a valid certificate you may not be able to sit down in a restaurant, but you can always choose to get vaccinated. And since a certificate is not required for basic services such as the supermarket or public transport, no one can claim there’s a “de facto” vaccination obligation.
 
-Only if the certificate requirement were applied to a specific social group, for example, people with a migrant background, would this constitute discrimination. Calling every unequal treatment discriminatory would make a mockery of all those who are disadvantaged today on account of their gender, origin, or religious affiliation.
+## Enabling education
 
-## Reference
+Only if the certificate requirement were applied to a specific social group, for example, people with a migrant background, would this constitute discrimination. Calling every unequal treatment discriminatory would make a mockery of all those who are disadvantaged today on account of their gender, origin, or religious affiliation.
 
 But things are less straightforward when it comes to universities: one can’t compare attending a study course with going to a restaurant. Were it not for the possibility of getting tested or following a course online, the implementation of Covid-status certification would come close to making vaccination compulsory for students. Therefore, it is important that universities continue to provide an online option for lectures and offer free testing for unvaccinated members.
 
@@ -26,11 +28,13 @@ Those opposed to the certificate are calling for education for everyone; yet it�
 
 In demanding unrestricted fundamental rights, opponents of the certificate disregard the fact that their freedom of movement without a certificate curtails the freedom of others. As Daniel Koch, formerly of the Federal Office of Public Health, puts it: “Everyone is free to take the risk of getting ill, but no one has the right to infect anyone.” 2
 
-## About the author
+## Reference
 
 1 Altman A: Discrimination. Stanford Encyclopedia of Philosophy, 2011
 
 2 Knellwolf T, Büchi J: Die Schweiz sollte das Covid-Zertifikat breiter einsetzen . Tages-Anzeiger 16. Juli 2021
+
+## About the author
 
 Dario Meili Doctoral student at the Centre for Development and Cooperation (Nadel) at ETH Zurich
 

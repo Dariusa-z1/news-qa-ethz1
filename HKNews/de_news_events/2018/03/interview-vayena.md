@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2018/03/interview-vayena.html
 
-## Globe - Medizin nach Mass
+**Date processed:** 2025-05-01
+
+## Main article
 
 ETH-News: Die Schweiz möchte in den nächsten vier Jahren eine nationale Dateninfrastruktur für die personalisierte Medizin aufbauen. Sind wir dafür bereit? Effy Vayena: Ich würde sagen, wir bereiten uns darauf vor. In dieser Phase müssen wir Systeme aufbauen, die einen verantwortungsvollen Umgang mit Daten von Patienten und Gesunden ermöglichen. Dabei müssen technologische, wissenschaftliche und gesellschaftliche Fragen diskutiert werden.
 
@@ -13,8 +15,6 @@ Im Januar wurde allerdings bekannt, dass Hacker es schafften, in ein norwegische
 Wie steht es um dieses Vertrauen? Den Gesundheitsinstitutionen wird vertraut. Wenn Leute ins Spital gehen, fühlen sie sich sicher. Es gibt zwar Studien, die zeigen, dass öffentliche Institutionen weltweit an einem Vertrauensproblem leiden. Allerdings zeigen diese Studien auch, dass Gesundheitsinstitutionen eher vertraut wird als anderen. Wir alle, Forschende und Institutionen, haben ein Interesse daran, dieses Vertrauen zu erhalten. Ohne Vertrauen geht es nicht.
 
 Wie kann man dieses Vertrauen erhalten oder gar steigern? Wir müssen sehr achtsam mit den Daten umgehen. Sehr wichtig ist auch, dass in allen Prozessen die Verantwortlichkeiten geklärt sind: Es muss allen klar sein, wer wofür verantwortlich ist, und kein Beteiligter darf sich vor seiner Verantwortung drücken. Und schliesslich müssen wir transparent sein und mit der Öffentlichkeit kommunizieren. Damit meine ich keine PR-Kommunikation, sondern einen ernsthaften, offenen Dialog. Die Leute müssen verstehen, wozu ihre Daten verwendet werden und warum. Und wir in den Institutionen müssen den Leuten vermehrt zuhören und herausfinden, was ihre Anliegen sind. Die Daten der personalisierten Medizin stammen von Patienten und gesunden Bürgern, und viele der Aktivitäten sind mit Steuergeldern finanziert. Es ist eine Form von Respekt, wenn wir uns auf eine Diskussion mit den Bürgern einlassen.
-
-## Magazin Globe
 
 In der Regel liegen die Daten bei den Spitälern. Verwenden möchten diese Daten jedoch auch spitalexterne Forscher. Das heisst, Daten müssen weitergegeben werden. Unter welchen Bedingungen soll das geschehen? Wer Daten weitergibt, muss sicherstellen, dass der Empfänger eine Reihe von Bedingungen erfüllt, zum Beispiel was den Datenschutz und die Datensicherheit angeht. Wichtig ist auch, dass ein guter und fairer Verwendungszweck vorhanden ist, der einen gewissen Nutzen bringt. Und natürlich können Daten nur weitergegeben werden, wenn die Person, von der die Daten stammen, zuvor einer Weitergabe grundsätzlich zugestimmt hat .
 

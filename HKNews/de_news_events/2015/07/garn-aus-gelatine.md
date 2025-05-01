@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2015/07/garn-aus-gelatine.html
 
+**Date processed:** 2025-05-01
+
 ## Neuer Verwendungszweck für Abfallprodukt
 
 Rund 70 Millionen Tonnen Fasern werden heute jährlich rund um den Globus gehandelt. Fast zwei Drittel davon entfallen auf Kunstfasern auf Erdölbasis. Die häufigsten verwendeten Naturfasern sind Wolle und Baumwolle, doch haben sie gegenüber synthetischen Fasern an Boden verloren.
@@ -10,15 +12,13 @@ Ein absolutes, wenn gleich auch umweltgerechtes, Nischenprodukt sind Fasern aus 
 
 In den vergangenen Jahren ist jedoch der Ruf nach natürlichen Fasern aus umweltfreundlicher Produktion und erneuerbaren Ressourcen lauter geworden. Gerade die Wollfaser feierte in funktionalen Sportkleidern aus Merinowolle eine Wiederauferstehung. Und in Deutschland hat eine Jungunternehmerin vor ein paar Jahren damit begonnen, aus dem Milchprotein Kasein hochwertige Textilien zu produzieren.
 
-## Zufall verhalf zu einer Lösung
-
 Nun präsentiert Philipp Stössel, Doktorand in der Gruppe für funktionelle Materialien (FML) von Professor Wendelin Stark, in Zusammenarbeit mit dem Advanced Fibers Laboratory der Empa St. Gallen ein neues Verfahren, mit dem aus Gelatine hochwertige Fasern gewonnen werden können. Die Fasern konnte er zu einem Garn verspinnen, aus dem sich Textilien herstellen lassen.
 
 Gelatine besteht im Wesentlichen aus Kollagen, das ein Hauptbestandteil von Haut, Knochen oder Sehnen ist und in Schlachthäusern in grossen Mengen als Abfall anfällt. Daraus lässt sich einfach Gelatine herstellen. Für Stark und Stössel war es deshalb naheliegend, dieses Biomaterial für ihre Versuche zu verwenden.
 
-Beim Experimentieren bemerkte Stössel, dass sich das Protein bei der Zugabe eines organischen Lösungsmittels (Isopropanol) zu einer erhitzten, wässrigen Gelatinelösung am Boden des Gefässes absetzte. Die formlose Masse sog er mit einer Pipette auf und konnte ohne Kraftaufwand einen dehnbaren, endlosen Faden aus ihr herausdrücken. Dies war der Startpunkt für seine ungewöhnliche Forschungsarbeit.
+## Zufall verhalf zu einer Lösung
 
-## Garn glänzt seiden
+Beim Experimentieren bemerkte Stössel, dass sich das Protein bei der Zugabe eines organischen Lösungsmittels (Isopropanol) zu einer erhitzten, wässrigen Gelatinelösung am Boden des Gefässes absetzte. Die formlose Masse sog er mit einer Pipette auf und konnte ohne Kraftaufwand einen dehnbaren, endlosen Faden aus ihr herausdrücken. Dies war der Startpunkt für seine ungewöhnliche Forschungsarbeit.
 
 Im Lauf seiner Dissertation entwickelte und verfeinerte der Wissenschaftler schliesslich das Verfahren, das soeben in einer Publikation in der Fachzeitschrift «Biomacromolecules» vorgestellt wurde.
 
@@ -34,11 +34,11 @@ Die Oberfläche der Fasern ist glatt, während natürliche Wollfasern kleine Sch
 
 Grundsätzlicher Nachteil der Gelatine aber ist, dass sie wasserlöslich ist. Durch verschiedene chemische Verarbeitungsstufen musste Stössel die Wasserfestigkeit des Garns stark verbessern. So behandelte er den Handschuh zuerst mit einem Epoxid, um die Gelatine-Bestandteile stärker miteinander zu verknüpfen. Weiter behandelte der Forscher das Material mit Formaldehyd, um es noch besser auszuhärten. Um das Garn geschmeidig zu machen, imprägnierte er es zuletzt mit Lanolin, einem natürlichen Wollfett.
 
-## Pudding, Leim und Garn
-
 In den kommenden Monaten bis zum Ende seiner Doktorarbeit wird Philipp Stössel daran forschen, wie die Gelatinefasern noch wasserfester gemacht werden können. Denn diesbezüglich ist Schafwolle dem Gelatinegarn überlegen. Der Lebensmittelwissenschaftler ist aber überzeugt, dass er dem definitiven Ziel – der Produktion einer Biopolymer-Faser aus einem Abfallprodukt – sehr nahe ist.
 
 Vor zwei Jahren haben die Forscher ihre Erfindung zum Patent angemeldet, die Anmeldung befindet sich derzeit in der internationalen Phase. Nun sei man am Punkt angelangt, wo man die Kapazitätsgrenze im Labor erreicht habe, eine grosstechnische Produktion allerdings nur dann möglich sei, wenn Partner und Geld dafür gefunden würden, so der Doktorand.
+
+## Pudding, Leim und Garn
 
 Gelatine wird aus Kollagen gewonnen. Kollagen ist das häufigste Eiweiss im menschlichen Körper und Hauptbestandteil des Bindegewebes und der Haut. Dieses Biopolymer besteht aus einer Dreifachhelix von fädigen Proteinen, die wie die Stränge einer Zuckerstange umeinander verdreht und gewunden sind. Zur Gewinnung von Gelatine werden hauptsächlich Haut und Knochen von Rindern und Schweinen verwendet. Dabei wird das Kollagen teilweise denaturiert: Die Dreifachstränge lösen sich auf, die einzelnen Fäden ordnen sich danach neu an. Gelatine kann sehr viel Wasser aufnehmen und stark quellen. Sie wird deshalb in der Küche häufig als Geliermittel in Puddings oder Crèmes verwendet. Früher wurde aus Kollagen auch Leim, der Knochenleim, hergestellt.
 

@@ -2,39 +2,31 @@
 
 **Source:** en_internal/2020/05/registrars-office-emergency-mode.html
 
+**Date processed:** 2025-05-01
+
 ## Battling paper overload
 
 For many members of the ETH community, working on campus is currently a relic of the past. However, some staff have remained at their desks throughout the lockdown: among them, Giuliana Torre and Edith Niederhäuser, who have continued working at the Registrar’s Office in the Main Building. Together with their colleague Guido Lussy, they are currently processing Bachelor’s programme applications for the 2020 Autumn Semester. The sheer number of applications and the strict guidelines for handling original application documents mean that it isn’t possible for them to work from home.
 
-## “This lifeless building”
-
 This year over 3,000 applications flooded in before the deadline – up to 190 per day during the peak period in late April. These mountains of mail need to be worked through quickly. The first step is confirming receipt so that applicants don’t feel needlessly unsure, says Giuliana Torre.
-
-## Before, during and after their studies
 
 The application process also involves strict rules, for instance the requirement to submit an original copy of the applicant’s high school diploma, with different documents required depending on the type of secondary education completed. “The number of applications is on the rise, and we can only ensure that they are reviewed efficiently and properly if we don’t have additional processes on top that take up more time,” explains Rita Lindegger, Director of the Registrar’s Office. These logistical challenges made it clear from the beginning that some members of staff would have to continue working on campus during the emergency operation period. This also had the benefit of allowing staff to continue training and mentoring the office’s business administration apprentice, Aleks Mijajlovic, in person.
 
-## Highs and lows
-
 Everyday business at the Registrar’s Office is normally clearly structured, with opening hours for the phone lines and desk determining the pace of work. Now with phones not being operated and the desk shut down, only emails can be answered. Torre, who has been a member of the ETH community for over two decades, is used to a lively work environment. “I like it when things are busy,” she says. One particularly nice aspect of her job is seeing how students develop. “For example, when I advise someone at the desk and then recognise them in the hallways the next semester, I realise that they were able to successfully transfer to our university,” she says. Niederhäuser says she has also grown fond of the students: “There’s an infectious energy in this age group that I miss right now.”
 
-## Peak season in September
+## Before, during and after their studies
 
 Work at the Registrar’s Office centres around the approximately 18,000 students who attend ETH. While the applications of incoming students are demanding the staff’s attention right now, they also wear many other hats throughout the academic year. For students, the office provides a wide spectrum of services before, during and after their studies: enrolment, leaves of absence, deregistration and beyond.
 
-## Further information
-
 The Registrar’s Office equips incoming students with the vital information and documents that they need to get started at ETH. They answer individual questions, review educational records and take care of students’ official enrolment and initial registration. For current students, the office has a broad remit: they open up registration each semester, review applications from students who want to change their majors, calculate valid course credits for those who get approved, and issue all manner of official study documents, transcripts and exmatriculation certificates. These documents are needed by students who want to transfer to another university or apply for a scholarship, for instance. Former ETH students also make use of the Registrar Office’s services, ordering paperwork such as transcripts, translations of graduation documents, equivalence certificates, and study programme overviews required to receive work permits in other countries.
 
-## Subscribe to Newsletter
-
 What makes someone right for the job at the Registrar’s Office? According to Torre, you need a diverse set of skills – and you absolutely need to be flexible. “The structure of study programmes has become much more complex over the past years and decades,” she explains. “This makes our work more complex as well.” Answering specific questions can require intense research at times. “Sometimes it’s real detective work, even for us, to track down the necessary information,” says Torre.
-
-## Staffnet
 
 Sensitivity and tact are also essential. Whenever possible, the Registrar’s Office helps students navigate the administrative jungle of the university – but they also need to enforce rules. According to Niederhäuser, there are sometimes tense or even sad moments at the Registrar’s desk: “The pressure on students has increased. It's incredibly hard if, for example, you have to tell a student that they've missed the boat, that they’ve exhausted all their options for continuing to study.” This means that the situations where one can make a positive impact become even more important. “I love interacting with young people and notice a lot of gratitude when I encourage them and make them aware of new opportunities,” says Torre.
 
 Once the office overcomes the wave of new student applications, they have September to look forward to: the most challenging time of the year. “Everything comes together at the beginning of the semester in September,” explains Torre. This year the Registrar’s Office is expecting between 4,000–4,500 new incoming students for Bachelor’s and Master’s programmes. The necessary documents and information need to be prepared for all the students, and during the first weeks there are many changes in semester enrolment – and also withdrawals. Both the amount and the pace of the workload in September are enormous, but the team and the skills of the staff provide a solid foundation. “We maintain close lines of communication and harmonise well within our team. The Registrar’s Office is home to very different personalities with different strengths and areas of expertise that complement one another,” says Niederhäuser, who is looking ahead to the hectic September period with confidence.
+
+## Further information
 
 Website of the Academic Services of ETH Zurich
 

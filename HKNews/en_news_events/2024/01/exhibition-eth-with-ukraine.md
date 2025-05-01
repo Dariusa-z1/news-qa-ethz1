@@ -2,37 +2,28 @@
 
 **Source:** en_news_events/2024/01/exhibition-eth-with-ukraine.html
 
+**Date processed:** 2025-05-01
+
 ## In brief
 
-- The exhibition "ETH with Ukraine - Exchanging Knowledge for a Sustainable and Resilient Future" is located in the ETH main building until February 5, 2024.
-
-- The exhibition shows research projects that can be used to trace the course of the war and the destruction of infrastructure, as well as conceptual and practical reconstruction projects.
-
-- With this exhibition, ETH researchers and the "Swiss Network with Ukraine" want to contribute to the exchange of experience on how Switzerland can support Ukraine in its reconstruction efforts.
+• The exhibition "ETH with Ukraine - Exchanging Knowledge for a Sustainable and Resilient Future" is located in the ETH main building until February 5, 2024.
+• The exhibition shows research projects that can be used to trace the course of the war and the destruction of infrastructure, as well as conceptual and practical reconstruction projects.
+• With this exhibition, ETH researchers and the "Swiss Network with Ukraine" want to contribute to the exchange of experience on how Switzerland can support Ukraine in its reconstruction efforts.
+## Remote sensing provides facts on destruction and construction
 
 Not only is the war causing immeasurable human suffering, it is also destroying vast swathes of buildings, facilities and infrastructure. Cautious estimates suggest that restoring the destroyed homes, public buildings, industrial facilities, power grids, roads, infrastructure, forests and agricultural land will cost around 400 billion dollars. “The extent of the destruction of infrastructure in Ukraine is almost unimaginable in Switzerland,” says Jonathan Banz, a scientific assistant to Andreas Wieser, Professor of Geosensors and Engineering Geodesy. “We wanted to visualise both the destruction as well as ongoing projects to maintain and rebuild the infrastructure.”
 
-## Remote sensing provides facts on destruction and construction
-
 Together with Basil Roth, Banz is in charge of an ETH research project, Mapping Ukraine , which is looking to document the effects of the war on Ukraine’s infrastructure and environment – using geoinformation, photos and videos – and create a basis for reconstruction. The aim is to create an intuitive digital platform that provides independent information on the condition of Ukraine’s infrastructure.
-
-## A showcase for research and local projects
 
 Roth and Banz are not the only ETH researchers investigating the consequences of the war for Ukraine’s infrastructure. In the group led by Konrad Schindler, Professor of Photogrammetry and Remote Sensing, for example, Olivier Dietrich is using artificial intelligence to analyse satellite images. This can take a rather blurred satellite image showing the city of Mariupol surrounding the Azovstal steelworks, which were besieged for weeks, and produce a map that clearly shows the heaps of rubble in Mariupol’s cityscape. Dietrich’s research is directly linked to Mapping Ukraine, and it is also part of the Engineering for Humanitarian Action initiative together with the International Committee of the Red Cross.
 
-## Cleaning up contaminated soil, protecting a maternity clinic
-
 Students, researchers and professors at ETH Zurich are using their expertise to help rebuild Ukraine. Many of them are involved in Swiss Network with Ukraine , which was founded by the ETH Professor Emeritus of Architecture and urban planner Kees Christiaanse, among others. To showcase these ongoing projects, researchers from the ETH Departments of Architecture and of Civil, Environmental and Geomatic Engineering, in collaboration with the network and with the Ukrainian Association of Students and Academics in Zurich , have now organised the exhibition entitled “ETH with Ukraine – Exchanging Knowledge for a Sustainable and Resilient Future”.
-
-## From emergency accommodation to easy-to-build homes
 
 A good two years after the start of the war, the exhibition opened in the main hall of the ETH Main Building on Wednesday evening. It addresses various aspects of reconstruction such as housing, refurbishment and material supply, agriculture and energy, urban development and spatial planning as well as education and culture. Rather than limiting itself to research projects, the exhibition also presents volunteer initiatives that are dedicated even now to the protection and reconstruction of buildings in Ukraine.
 
-## Practical reuse of building materials
+## Cleaning up contaminated soil, protecting a maternity clinic
 
 The exhibition aims to encourage an exchange of experience regarding how conceptual and technological considerations from Switzerland, together with concrete measures on the ground, can play a part in preserving and repairing settlements and facilities in Ukraine. This is something that ETH Professors Matthias Kohler and Brian Adey, as well as Christiaanse and Wieser, all agreed on at the exhibition’s opening. Accordingly, the exhibition’s five-member curatorial team was also drawn from a mix of backgrounds: Basil Roth and Jonathan Banz were joined by architect Gyler Mydyti and Adam Przywara from Swiss Network with Ukraine, as well as Ukrainian Anastasiya Ponomaryova, who until recently worked in Philip Ursprung’s History and Theory of Architecture group.
-
-## Box Exhibition in the ETH Main Building
 
 One area in which local and international initiatives are in demand is agriculture. No wonder, considering that over 4,700 square kilometres of farmland are estimated to have been contaminated. At the exhibition, environmental scientist Vira Ohorodnyk, ecologist Olena Melnyk and agricultural economist Maryna Nehrey demonstrate the ecological and political steps that can be taken to restore farmland and revitalise agricultural areas. All three fled Ukraine and are currently working at ETH.
 
@@ -45,6 +36,8 @@ Several initiatives focus on housing, as the war has already destroyed well over
 In the exhibition, the model of the wooden house stands right next to a repaired wooden door and a wooden bed frame. These exhibits come from the Ukrainian project CO-HATY (which can be translated either as “to love” or as “house collaboration”). They show how Ukrainians are reusing various building materials for residential buildings. CO-HATY is run by the Ukrainian NGO Metalab, to which the Ukrainian architect and exhibition curator Ponomaryova also belongs. In western Ukraine, Metalab has converted six former Soviet municipal buildings into emergency accommodation for around 1,300 refugees. It is now developing further approaches to alleviate the housing shortage over the long term. For Mydyti, CO-HATY is a good example of how construction professionals in Switzerland can also learn from Ukrainian approaches to reusing building materials.
 
 With an eye to this kind of reuse, Switzerland’s Re-Win association is collecting windows for Ukraine – for example, the windows of the Huber pavilions that were demolished on the ETH Hönggerberg campus are being reused in Ukraine with the involvement of Catherine de Wolf’s Chair of Circular Engineering for Architecture.
+
+## Box Exhibition in the ETH Main Building
 
 The exhibition entitled “ETH with Ukraine – Exchanging Knowledge for a Sustainable and Resilient Future” is located in the ETH Main Building and can be visited until 5 February 2024 during opening hours ( Mon–Sun, 9.00 a.m.–8.00 p.m. ).
 

@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2019/09/vom-hype-zur-echten-alternative.html
 
+**Date processed:** 2025-05-01
+
 ## Nahrungskette im Visier
 
 «Insekten als Lebensmittel in Europa sind derzeit sicherlich etwas gehypt. Man muss aufpassen, diese Lösung im Vergleich mit anderen nicht zu überschätzen», warnt Alexander Mathys. Eine Aussage, die man von einem Insektenforscher nicht erwarten würde. Doch der ETH-Professor für Nach­haltige Lebensmittelverarbeitung hat gu­te Argumente für seine Haltung.
@@ -10,23 +12,17 @@ Zum Beispiel ist es unklar, ob der Fleischkonsum auf Kosten der Insekten tatsäc
 
 Ein anderer Aspekt, der Mathys beschäftigt: «Insekten sind im Moment nicht so nachhaltig, wie wir uns das wünschen, solange wir sie auf hochwertigem Futtermittel züchten, das man auch anderweitig verwenden könnte.» Was das Futter von Insekten betrifft, die als Lebensmittel gezüchtet werden, gibt es in Europa klare Beschränkungen: Insekten müssen nahezu ausschliesslich mit pflanzlichen Rohstoffen gefüttert werden, die auch als Futtermittel zugelassen sind. In der Praxis bedeutet das in den meisten Fällen Mischungen auf Basis von Roggen- oder Weizenmehl.
 
-## Alternative zu Soja
-
 In einem gemeinsamen Projekt mit Christian Zurbrügg von der Eawag wollen Alexander Mathys und sein Doktorand Moritz Gold nun Larven der Waffenfliege mit organischem Abfall füttern statt mit Getreide. Insekten als Mittel also, um organische Abfälle besser zu verwerten. «Die ­Nutzung von Abfall als Energiequelle ist eine der qualitativ niedrigsten ­Nutzungsformen», hält Mathys fest. Insekten können Abfall aufwerten, indem sie ihn fressen und dann selbst zu Lebensmittel oder zu Futtermittel für Nutztiere werden.
 
 Doch es gibt Hürden: Schimmelpilze, Krankheitserreger, kontaminierter Abfall, Schwermetalle. Die zentrale Frage ist, was am Ende in die Nahrungskette gelangt. «Die Sicherheit der Wertschöpfungskette muss garantiert sein», sagt der Lebensmittelingenieur. Deshalb untersucht Mathys’ Team die biochemische und mikrobielle Sicherheit der Larven auf organischem Abfall. Schimmelpilze oder pathogene Bakterien können gefährliche Toxine bilden und Krankheiten auslösen. Gewisse unerwünschte Inhaltsstoffe im Abfall können sich sogar in Insektenlarven anreichern und über diesen Weg in die Nahrungskette gelangen.
 
 Um diese Zusammenhänge besser zu verstehen, führt Michael Kreuzer, ETH-Professor für Tierernährung, gemeinsam mit Alexander Mathys und der Eawag Fütterungsversuche mit Geflügel am AgroVet-Strickhof durch. Das Futter für das Geflügel basiert auf Insektenlarven, die sich von Siedlungsabfällen ernährt haben. Ein Teil des Larvenfutters wird kontrolliert kontaminiert. Diese Larven werden dann dem Geflügel zu fressen gegeben. Nach mehreren Wochen Fütterung sollen Geflügelfleisch und Eier auf Schadstoffe hin untersucht werden.
 
-## Algen auf der Schlachtbank
-
 Bis es so weit ist, wertet Michael Kreuzers Doktorandin Maike Heuel die Daten eines anderen Fütterungsversuchs aus. Diese Larven haben sich nicht von wertvollem Getreide ernährt, sondern von Ausschussware oder Vorkonsumabfällen aus der Gastronomie und Getreidenebenprodukten wie etwa Kleie. Kreuzers Forschungsgruppe will mit diesem Versuch unter anderem he­rausfinden, ob Soja durch Proteinmehl und Fett der Schwarzen Waffenfliegenlarve ersetzt werden kann. Dazu hat Heuel 50 Legehennen in fünf Gruppen aufgeteilt, die alle ein anderes Futter bekamen. Die Kontroll­gruppe erhielt herkömmliches Futter, also Getreide und Soja. Die anderen Gruppen erhielten neben Getreide entfettetes Proteinmehl und Fette aus zwei unterschiedlich gefütterten Insektenlarvengruppen.
 
 Die Forschenden haben noch keine umfassenden Resultate. «Aber was wir jetzt schon sagen können: Wir können Soja komplett durch Insektenmehl ersetzen, ohne dass es eine Leistungseinbusse gibt. Das heisst ein Ei pro Tag, mehr geht nicht», freut sich Kreuzer. Andere Parameter, wie beispielsweise beim Ei der Anteil an Dotter, die Zusammensetzung des Eiweisses oder das Fettsäurenprofil sind noch nicht vollständig analysiert.
 
 Der Ersatz von Soja ist vor allem für die Biolandwirtschaft von Interesse. «Im Biolandbau wird ausserordentlich viel Soja eingesetzt, auch wenn es Biosoja ist», sagt Kreuzer. Der Grund: Es dürfen keine synthetischen Aminosäuren verfüttert werden. Daher braucht es mehr proteinreiche Nahrung, um den Bedarf der Legehennen zu decken.
-
-## Magazin Globe
 
 Auch Algen sind reich an Protein und bringen den Nachhaltigkeitsexperten Alexander Mathys zum Schwärmen: «Mikroalgen sind eine äusserst vielversprechende Quelle von Proteinen und ungesättigten Fettsäuren.» Bei unterschiedlichen Algen können Proteine bis zu 70 Prozent der Trockenmasse ausmachen und liefern alle essenziellen Aminosäuren. Doch es gibt auch Nachteile: der niedrige Techno­logiereifegrad, die oft fehlende Skalierung und die dadurch hohen Kosten. Oder die grüne Farbe. Sie ist in der Lebensmittelindustrie eine grosse ­Hürde. «Ein grünes Algensteak kann einmal ja ganz amüsant sein. Aber langfristig müssen wir flexible Lösungen liefern», sagt Mathys.
 

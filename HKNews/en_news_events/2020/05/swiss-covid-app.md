@@ -2,23 +2,17 @@
 
 **Source:** en_news_events/2020/05/swiss-covid-app.html
 
+**Date processed:** 2025-05-01
+
 ## Many are following the Swiss idea
 
 People in Switzerland are gradually returning to their everyday routines and their work now that the peak of the coronavirus crisis seems to have passed. But the easing of the lockdown also fuels fears about a second wave of infection. Strict adherence to health and safety rules is the best strategy for protecting ourselves against COVID-19 infection. In addition, the government intends to provide the Swiss population with a tracing app as soon as possible that should help to stem the spread of the virus. The app is being developed as part of the DP-3T project by ETH Zurich and EPF Lausanne, working together with international researchers.
 
-## Cooperation with Google and Apple
-
 Tracing apps are being developed at a frantic pace across the globe, but the basic idea is always the same: the smartphones we continuously have on our person can be turned into tools that help to break the chain of infection. But what's the best way to do this? "There are many ‘bad’ ways of doing this which would possibly allow unwelcome actions, such as tracking the interactions of people, or imposing selective and potentially discriminative quarantine, for example. The main distinction of DP-3T is that we came up with a series of mechanisms intended to make the design of contact tracing simple, and and watertight in terms of privacy. Some of these features are now also being incorporated into the Android and iOS operating systems," the professor comments.
-
-## How does the app work?
 
 Many projects and countries have taken the same route in developing their own tracing apps. Some are using parts of the DP-3T code, while others are implementing it independently and adapting it to their own country. But the underlying concept is the same. “This is an experiment for all of us. Something like this has never been attempted before,” says Čapkun.
 
-## What happens at the end of the pilot phase?
-
 Some people might be concerned about privacy issues, given the involvement of the two tech giants Google and Apple. Čapkun, who himself attaches great importance to data protection, is reassuring: "In our design, information is processed locally and all data are automatically deleted after 21 days. In addition, no user personal data is stored centrally, and contact tracing data never leaves the phone unless authorized by the user.” The SwissCovid app is also open sourced, so that its design and implementation will be available for public inspection. “All of us are trying to build a contact tracing system on top of software and hardware that was not designed for this purpose. Bluetooth was not developed for this kind of large-scale distance measurement. Making sure that we can use it in this way requires a lot of engineering skill and collaboration, including collaboration with Apple and Google,” says Čapkun. Switzerland is the first country in the world to use APIs from Google and Apple for the tracing app. "It also means that we are the first to have to deal with the teething troubles of the program. We therefore need feedback from users before we start the national rollout in June," says Čapkun.
-
-## Don't miss the latest news
 
 The app uses Bluetooth beaconing technology to detect nearby smartphones that are also running the app. When two such devices are in close proximity, they exchange random beacons – a kind of private keys. The app is configured to inform users if they have spent more than 15 minutes within 2m of infected people. These parameters have been set by the epidemiologists and will be fine-tuned if new information about the virus would make it necessary.
 

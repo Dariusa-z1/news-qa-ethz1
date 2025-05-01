@@ -2,25 +2,25 @@
 
 **Source:** de_internal/2019/08/eigenverantwortung-ist-gefragt.html
 
-## Learning by Doing
+**Date processed:** 2025-05-01
+
+## Main article
 
 Wie kann ich einen Sitzungsteilnehmer unterbrechen, der zu viel Redezeit in Anspruch nimmt? Und was muss ich beachten, wenn ich eine Diskussion moderiere? Antworten auf diese Fragen erhofft sich Ahmet Demirörs vom Besuch des Kurses «Facilitating meetings and workshops». Demirörs, Oberassistent am Departement Materialwissenschaft, ist einer von neun Teilnehmern einer international zusammengesetzten Gruppe, die sich an einem Junimorgen im Zentrum für Weiterbildung einfindet. Die ETH will mit diesem Kurs Forschende und Leitende von wissenschaftlichen Projekten befähigen, Sitzungen und Workshops zu moderieren. Geleitet wird er von Ruth Förster, die selbst 15 Jahre im ETH-Bereich gearbeitet hat und nun als selbstständige Trainerin und Coach tätig ist.
 
 Der Kurs ist nur ein Beispiel aus einem vielseitigen Angebot, das Mitarbeitende nutzen können, um sich persönlich, fachlich und methodisch weiterzuentwickeln. Neben der Personalabteilung bieten noch zahlreiche weitere interne Stellen Weiterbildungen an. Das Kursangebot der Human Resources reicht von Führung, Karriereplanung über Präsentationstechnik bis hin zu Projektmanagement und Umgang mit Stress. Ob kurze Veranstaltungen über Mittag, halbtägige Workshops oder mehrtägige Führungskurse – die Ausgestaltung der Weiterbildungen ist ebenso vielfältig wie deren Inhalte. Auch externe Weiterbildungen werden durch die ETH unterstützt.
 
-## Leadership und Coaching-Kultur
-
 Für Inhalt und Durchführung der Angebote ist das Team Personal- und Organisationsentwicklung verantwortlich. Die Programmgestaltung leitet sich dabei aus der HR-Strategie ab, richtet sich aber auch an der Nachfrage aus. So werden beispielsweise Themen aufgegriffen, die aus Mitarbeiterbefragungen resultieren. Viele Angebote sind sehr gut besucht, allerdings gilt es, die Formate immer wieder den Bedürfnissen anzupassen und auch mal neue Methoden einzusetzen: Bei einem Pilotversuch wurde der Kurs «Zielführende Gespräche mit Vorgesetzten» mit Elementen aus dem Improvisationstheater neu aufgesetzt.
 
-Das Kursangebot steht grundsätzlich allen Mitarbeiterinnen und Mitarbeitern offen. Ziel ist es, sowohl das technisch-administrative als auch das wissenschaftliche Personal anzusprechen, weshalb vermehrt Kurse in englischer Sprache angeboten werden.
+## Learning by Doing
 
-## Staffnet
+Das Kursangebot steht grundsätzlich allen Mitarbeiterinnen und Mitarbeitern offen. Ziel ist es, sowohl das technisch-administrative als auch das wissenschaftliche Personal anzusprechen, weshalb vermehrt Kurse in englischer Sprache angeboten werden.
 
 Auch der Kurs «Facilitating meetings and workshops» wird in Englisch durchgeführt. Das Eis in der durchmischten Gruppe ist mittlerweile gebrochen, die Teilnehmer kennen sich, und es herrscht eine vertrauensvolle Stimmung. Dazu beigetragen hat auch die sogenannte Kugellager-Methode, die die Gruppe an diesem Morgen erlernt hat. Dabei stehen sich die Personen wie Kugeln in einem Kugellager in einem inneren und einem äusseren Kreis gegenüber und interagieren – dadurch, dass ein Kreis jeweils rotiert – mit unterschiedlichen Gesprächspartnern. Nach der Mittagspause wird eine Teilnehmerin die Gelegenheit haben, die Methode unter ihrer eigenen Regie anzuwenden. Dass die Teilnehmenden ihr eben erworbenes Wissen gleich in die Tat umsetzen können und direktes Feedback erhalten, zieht sich über den ganzen Kurstag und ergibt einen kurzweiligen Mix aus Theorie und Praxis.
 
 Sein Wissen anzuwenden und jeden Tag dazuzulernen, ist wichtig für die persönliche Entwicklung. Das Kursdenken sei demnach eine schon etwas veraltete Idee, meint Eric Ryf von der Personal- und Organisationsentwicklung der ETH: «Es ist nicht damit getan, einfach einen Kurs zu besuchen. Entscheidend ist, wie das Gelernte direkt umgesetzt werden kann. Deshalb wird in unseren Seminaren oft an Fällen aus dem Arbeitsalltag gearbeitet.» Bezüglich persönlicher Entwicklung sollte man sich generell immer wieder überlegen, ob das, was man tut, seinen Neigungen und Fähigkeiten entspricht und wie man sich weiterentwickeln könnte. Die ETH will die Eigenverantwortung der Mitarbeitenden fördern und gleichzeitig die Vorgesetzten in ihrer Rolle als «Personalentwickler» stärken.
 
-## Newsletter abonnieren
+## Leadership und Coaching-Kultur
 
 Die Führungsausbildung an der ETH ist seit langem etabliert. «Am wertvollsten war für mich, in der Gruppe die eigenen Führungsschwächen aufzudecken und konkrete Mittel in die Hand zu bekommen, um diese zu überwinden», sagt Andreas Fichtner, Professor am Institut für Geophysik, der den achttägigen Führungskurs vor einem Jahr besucht hat. Bis jetzt waren unter den Teilnehmenden allerdings nur wenige Vertreter aus der Professorenschaft. Das soll sich nun ändern; noch dieses Jahr startet eine Reihe von Leadership-Veranstaltungen für die bestehenden Professorinnen und Professoren, und auch für neue Professoren sind bereits Angebote geplant.
 

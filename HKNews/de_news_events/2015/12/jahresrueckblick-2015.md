@@ -2,9 +2,13 @@
 
 **Source:** de_news_events/2015/12/jahresrueckblick-2015.html
 
-## Januar
+**Date processed:** 2025-05-01
+
+## Main article
 
 Mit diesem Jahresrückblick verabschiedet sich die ETH-News-Redaktion in die Weihnachtspause. Wir freuen uns, Sie ab dem 4. Januar 2016 wieder mit täglichen Neuigkeiten versorgen zu dürfen. Frohe Festtage und ein gutes neues Jahr!
+
+## Januar
 
 Neue Erklärung für die Zweiteilung des Mars' (Bild: NASA)
 

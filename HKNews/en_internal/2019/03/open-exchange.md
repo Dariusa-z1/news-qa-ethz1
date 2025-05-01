@@ -2,12 +2,28 @@
 
 **Source:** en_internal/2019/03/open-exchange.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 More than 600 employees accepted the Executive Board’s invitation to the information event and were able to attend in person on the Hönggerberg or in one of the broadcasting rooms.Those who unfortunately could not attend at such short notice now have the opportunity to watch a protected page video recording of the event lock (password protected).
 
 Before and during the event, numerous questions were received via SMS and WhatsApp. Due to time constraints, the Executive Board could not answer all of them during the event. The most frequently asked questions are summarised and answered below. Employees can also find more detailed information in the press release , the interview with Joël Mesot and the speech scripts for the ETH President's (PDF, 116 KB) and Rector's (PDF, 136 KB) speeches at the press conference.
 
+Questions about the shared supervision:
+
+• Should the second supervisor also be from ETH?
+• How will responsibilities be divided up between the two supervising professors?
+• How will it be ensured that the professors are independent of each other?
+What is ETH doing to finally increase the proportion of women, especially among professors? Increasing the number of women among its professors is a matter of great importance to ETH Zurich. During the last two rounds of appointments, the proportion of women was approx. 40 percent. In some areas at ETH, the proportion of women is still very low, and the Gender Action Plan is aimed at remedying this. The ETH Domain (ETH Zurich, EPFL and the research institutes in the ETH Domain) also supports the “Fix the leaky pipeline” project, which aims to steer young women in science toward a career in academia. In brief:
+
+• The « external page Fix the leaky pipeline call_made » programme was introduced throughout the ETH Domain (ETH Zurich, EPFL, PSI, Eawag, WSL and Empa) ten years ago.
+• It was initiated by the ETH Domain’s Group of Equal Opportunities for Women & Men and encourages young women in science (advanced doctoral students, female postdocs) to start down the path to an academic career and to succeed in their pursuits. The programme has since developed a large alumnae network.
+• Funding is provided for a part-time coordinator at both ETH Zurich and EPFL, as well as for external page coaching groups call_made and courses for participants. The external page course programme call_made covers such topics as time management, applications, presentation skills, etc., and there are also annual kickoff meetings and interdisciplinary network meetings.
+• Since 2017, the programme also offers external page one-to-one call_made as well as external page peer mentoring call_made programmes for young women in science. The Associate VP for gender equality and Equal! recruit ETH Zurich professors (both women and men) to volunteer as mentors for one year.
+• ETH Zurich supplements the programme with additional mentoring slots. In 2019, around 30 women at ETH Zurich will participate in the programme (in addition to women from the other institutions of the ETH Domain).
+• Besides the individual meetings between mentees and mentors, ETH Zurich and EPFL also organise networking events for all mentees and mentors.
+• Increased dual-career measures
 Why was the event not held in English? The event was aimed not only at doctoral students, but at all personnel. This includes staff whose English is not so strong. The part that was directed particularly at doctoral students was given by the Rector in English.
 
 There are numerous designated offices and contact points that people can turn to when they have problems. How will it be ensured that these reporting offices properly communicate amongst each other? Will the counselling centres run by student associations be involved in this exchange? ETH will make sure that networking between the various contact points is improved. A new measure we will introduce is to regularly pool together the information available at the various contact points, so that conflict situations can be identified at an early stage. The counselling centers run by student organisations will also be included in these meetings.
@@ -32,8 +48,6 @@ The measures planned in the area of doctoral supervision are now to be worked ou
 
 How much “centralisation”/standardisation is there to be in the supervision of doctoral students in the future? The precise implementation will be worked out in the course of the upcoming discussion. That said, it is certainly planned to establish the same principles, such as shared supervision, everywhere. The individual academic departments should nevertheless be free to determine how they implement these principles, so that they can take into account the specific requirements related to their respective disciplines.
 
-Questions about the shared supervision:
-
 We are unable to provide definite answers to these questions as of yet. They will form part of the implementation phase, which is still to be defined.
 
 How will students and scientific staff be integrated into the professorial appointment process? Scientific staff and students will be more closely involved in the appointment process as part of panels. They are to be given the option of conducting interviews with applicants and delivering an assessment, which will receive due consideration.
@@ -51,6 +65,4 @@ To be specific, what is being done about sexism and bullying in the Department o
 Will members of the ETH community who have experienced disrespectful behaviour receive compensation? ETH employees become involved in a dispute during their employment that requires them to pay for legal services related to the case, ETH Zurich will guarantee an advance of costs of legal fees in accordance with personnel law. However, there will be no damages awarded or compensation for personal suffering paid. Such measures have no legal basis.
 
 Will there be a follow-up event to report on the progress of these efforts? We will provide further information on the implementation of these measures. This could be done via various channels: articles in ETH publications, for example, or also additional informational events.
-
-What is ETH doing to finally increase the proportion of women, especially among professors? Increasing the number of women among its professors is a matter of great importance to ETH Zurich. During the last two rounds of appointments, the proportion of women was approx. 40 percent. In some areas at ETH, the proportion of women is still very low, and the Gender Action Plan is aimed at remedying this. The ETH Domain (ETH Zurich, EPFL and the research institutes in the ETH Domain) also supports the “Fix the leaky pipeline” project, which aims to steer young women in science toward a career in academia. In brief:
 

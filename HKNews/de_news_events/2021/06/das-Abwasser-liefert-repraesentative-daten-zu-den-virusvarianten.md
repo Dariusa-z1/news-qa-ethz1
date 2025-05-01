@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2021/06/das-Abwasser-liefert-repraesentative-daten-zu-den-virusvarianten.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH-News: Herr Beerenwinkel, wie steht es um die Delta-Variante des Coronavirus in der Schweiz? Niko Beerenwinkel: Erfreulicherweise steckten sich in der Schweiz in den letzten Wochen immer weniger Menschen mit dem Coronavirus an. Unter den zirkulierenden Viren nimmt die Delta-Variante aber zu. Das zeigen Daten von Kollegen hier am Departement für Biosysteme, welche bei einem Teil der in der Schweiz gemachten PCR-Tests das Virusgenom sequenziert und somit die Virusvariante bestimmt haben. Auch Abwassermessungen, an denen wir beteiligt sind, zeigen diese Zunahme deutlich. Bei Proben aus Schweizer Kläranlagen bis zum 20. Mai konnten wir die Delta-Variante noch nicht nachweisen. Deren Häufigkeit lag damals unter der Nachweisgrenze. In den jüngsten analysierten Proben bis zum 15. Juni finden wir die Delta-Variante aber bereits in fünf von sechs untersuchten Kläranlagen. Nach unseren Schätzungen machte die Variante am 15. Juni in Zürich 33 Prozent und in der Region Bern (Sensetal) 48 Prozent aller nachgewiesenen Corona-RNA-Moleküle aus. In den anderen untersuchten Kläranlagen war der Delta-Anteil geringer.
@@ -15,6 +17,8 @@ Wie steht es um Nachteile der Abwassermessungen? Virusvarianten sind im Abwasser
 Weswegen sind diese Daten interessant? Aus den Veränderungen dieses Verhältnisses kann man errechnen, ob und um wie viel eine neue Variante leichter übertragbar ist als eine alte Variante. Weil die Abwasserdaten das Mittel über eine grosse Personenzahl repräsentieren, sind die Berechnungen mit diesen Daten genauer und mit weniger Unsicherheit behaftet. Wir können somit früh vorhersagen, ob eine neue Variante als besorgniserregend einzustufen ist oder nicht.
 
 Sie veröffentlichen Ihre Resultate auf Ihrer Website . Die neusten verfügbaren Daten stammen vom 15. Juni, also von vor 2 Wochen. Ginge die Analyse auch schneller? Wir und die anderen beteiligten Wissenschaftler haben dieses Projekt als Forschungsprojekt gestartet. Es ging uns darum aufzuzeigen, dass solche Messungen überhaupt möglich sind. Wir streben jetzt die Veröffentlichung der Daten zwei Wochen nach Probenentnahme an. Das klappt aber nur, wenn alle molekularbiologischen und bioinformatischen Analysen beim ersten Versuch fehlerfrei gelingen. Möchte man diese Messungen in Zukunft – zum Beispiel im Auftrag der Behörden – als Frühwarnsystem nutzen, also um noch schneller und regelmässiger Informationen zu neuaufkommenden Varianten zu erhalten, so müsste die auf Forschung ausgerichtete Infrastruktur diesem Ziel angepasst werden. Das ist sicher möglich, aber jenseits unserer Forschungstätigkeit.
+
+## Zur Person
 
 Niko Beerenwinkel ist Professor für Rechnergestützte Biologie am Departement für Biosysteme der ETH Zürich in Basel. In seiner Forschung an der Schnittstelle von Informatik, Statistik und Biologie entwickelt er unter anderem Methoden zur Analyse von komplexen DNA- und RNA-Sequenzdaten von Viren und Tumoren.
 

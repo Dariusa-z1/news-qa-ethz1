@@ -2,13 +2,9 @@
 
 **Source:** de_news_events/2023/08/globe-wir-brauchen-mehr-respekt-fuer-andersdenkende.html
 
-## Scientifica 2023
+**Date processed:** 2025-05-01
 
-- Konflikte in Freundschaften und in der Familie bewältigen. externe SeiteScience Café. Psychologisches Institut, UZHcall\_made.
-
-- Wie konsumieren wir Informationen in digitalen Zeiten? externe SeiteAusstellungsstand. fög und IKMZ, UZHcall\_made.
-
-- Brennpunkt Monte Verità. externe SeiteKurzvorlesung. Linda Schädler, Leiterin Graphische Sammlung, ETHcall\_made.
+## Main article
 
 Egal, ob man eine Zeitung aufschlägt, eine Onlineplattform besucht oder den Fernseher anschaltet: Man hat das Gefühl, die Gesellschaft ist immer polarisierter. Stimmt diese Wahrnehmung? Nadia Mazouz: Wir sollten zunächst zwischen zwei Arten der Polarisierung unterscheiden: Bei der emotionalen Polarisierung spiegeln Individuen oder Gruppen die Emotionen der anderen negativ. Ich freue mich dann zum Beispiel, wenn es anderen schlecht geht. Diese Polarisierung ist durch die sozialen Medien nicht nur sichtbarer geworden – sie findet auch häufiger statt, so verstehe ich die Diagnose der Soziologinnen und Soziologen.
 
@@ -24,12 +20,15 @@ Das müssen Sie jetzt erklären: Eigentlich sollte die Gesellschaft doch komplex
 
 Stadtfeld: Wir können von Portfolios an Identitäten, Ideen und Lebensstilen sprechen. Als Soziologe fällt mir auf, dass bestimmte Portfolios sich durchsetzen. Dazwischen gibt es immer weniger: Die linksliberale Person mit konservativem Familienbild ist etwa eine Kombination, die es in der Mitte so immer seltener gibt. Kurz: Lebensstile werden immer homogener und politischer.
 
-## Zu den Personen
-
 Können Sie uns ein Beispiel geben? Stadtfeld: Eine Studie aus den USA hat etwa gezeigt, dass man ziemlich genau verorten kann, wo Menschen politisch stehen, wenn man – vereinfacht gesagt – betrachtet, ob sie ihren Kaffee schwarz im Kännchen oder als Flat White to go trinken. Im zweiten Falle würde die Person mit sehr grosser Wahrscheinlichkeit ihre Stimme den Demokraten geben.
 
 Mazouz: Diese Lifestyle-Elemente ermöglichen die Identifikation mit der eigenen Gruppe – und befürchtet wird, dass diese Identifikation zusehends stärker wird. Wenn die eigene Gruppe sagt: «Den Klimawandel gibt es nicht », dann übernehme ich als Mitglied diese Position. Insofern haben wir es nicht nur mit einer Polarisierung, sondern auch einer Politisierung zu tun, wenn man Politisierung als einen Prozess begreift, im Zuge dessen man sich blind mit der eigenen Gruppe solidarisiert.
 
+## Scientifica 2023
+
+• Konflikte in Freundschaften und in der Familie bewältigen. externe Seite Science Café. Psychologisches Institut, UZH call_made .
+• Wie konsumieren wir Informationen in digitalen Zeiten? externe Seite Ausstellungsstand. fög und IKMZ, UZH call_made .
+• Brennpunkt Monte Verità. externe Seite Kurzvorlesung. Linda Schädler, Leiterin Graphische Sammlung, ETH call_made .
 Gibt es im Rahmen der zunehmenden Polarisierung auch neue Konfliktlinien? Mazouz: Ja, die Forschung geht heute davon aus, dass es eine neue Spaltung der Gesellschaft jenseits des klassischen Links-rechts-Schemas gibt: in kosmopolitische Haltungen versus kommunitaristische oder eher nationale Haltungen.
 
 Zerbröselnde Mitte. Stärkere Fragmentierung. Eine Politisierung von Lebensstilen. Wie stabil ist unsere Gesellschaft denn überhaupt noch bei dieser Grüppchenbildung? Stadtfeld: Ähnlich wie eine Gruppe braucht eine Gesellschaft Normen, aber auch Narrative, damit sie zusammengehalten wird und Menschen Teil von ihr sein wollen. In der Schweiz ist man zum Beispiel sehr stolz darauf ist, dass man gut in der Konsens- und Kompromissfindung ist. Die Suche nach Kompromissen selber ist eine Norm, aber auch wieder Teil des gemeinsamen Narrativs, das die Schweiz zusammenhält.
@@ -40,8 +39,6 @@ Dieses grundlegende Verständnis scheint auch in der Politik bisweilen zu fehlen
 
 Mazouz: Genau, es sind diejenigen, die den gegenseitigen Respekt, der ohnehin schon erodiert, weiter untergraben oder dies wollen. Aber Demokratie setzt voraus, dass wir uns gegenseitig als Freie und Gleiche sehen und nicht als Feinde. Der aktuelle Zustand bereitet mir daher grosse Sorgen.
 
-## «Globe» Was die Welt zusammenhält
-
 Respekt ist das eine. Aber in Zeiten von alternativen Fakten kann man sich ja nicht einmal mehr auf dieselbe Diskussionsgrundlage einigen. Mazouz: Wir erleben gerade, wie die Grundidee der Aufklärung, nämlich sich des eigenen Verstandes zu bedienen, zur Farce wird. Immer mehr Menschen informieren sich vor allem auf Plattformen, die klassische epistemische Autoritäten wie die Wissenschaft grundsätzlich in Frage stellen.
 
 Was können wir gegen die zunehmende Polarisierung tun? Stadtfeld: Wir sollten als Gesellschaft Möglichkeiten schaffen, um über Gruppengrenzen und Milieus hinweg Beziehungen zu bilden, weil es Beziehungen sind, aus denen dann wieder Gruppen entstehen. Ich denke hier zum Beispiel an eine Bildungs- und Wohnungspolitik, die auf Durchmischung setzt, oder an Sportvereine, die ganz unterschiedliche Menschen zusammen und ins Gespräch bringen. Im Kleinen kann jede Gruppe oder Institution etwas tun – wie etwa den Austausch mit anderen zu erleichtern. Ich finde es zum Beispiel wichtig, dass wir an der ETH die Bildung sozialer Netzwerke zwischen allen Studierendengruppen ermöglichen, indem etwa Seminar- oder Mentorgruppen auch einmal zufällig zusammengestellt werden.
@@ -49,6 +46,8 @@ Was können wir gegen die zunehmende Polarisierung tun? Stadtfeld: Wir sollten a
 Als Individuum kann ich ganz konkret verändern, wie ich mit Andersdenkenden umgehe. Was raten Sie? Stadtfeld: Ohne Berührungsängste und neugierig durch die Welt zu gehen. Oft merken wir erst, wenn wir ins Gespräch kommen, dass wir mehr mit Andersdenkenden teilen, als wir vermuten würden. Wir brauchen auch eine dickere Haut und sollten uns nicht gleich über alles empören, das nicht unserer Meinung entspricht.
 
 Mazouz: Auch eine Portion Selbstkritik würde uns guttun: Als kosmopolitisch Denkende betonen wir gerne, dass wir andere Meinungen und Diversität tolerieren. Doch gleichzeitig beobachte ich die Tendenz, die angeblich Intoleranten zu verachten. Damit tragen wir selbst zur emotionalen Polarisierung bei. Es sind nicht immer die anderen, die spalten. Wir haben auch einen Auftrag an uns selbst.
+
+## Zu den Personen
 
 Nadia Mazouz ist Professorin für praktische Philosophie am Departement Geistes-, Sozial- und Staatswissenschaften der ETH Zürich.
 

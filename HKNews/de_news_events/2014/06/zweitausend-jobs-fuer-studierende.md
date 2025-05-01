@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2014/06/zweitausend-jobs-fuer-studierende.html
 
+**Date processed:** 2025-05-01
+
 ## Laufbahn von Akademikern fördern
 
 Vor einem Jahr stellten das ETH Career Center und die Non-Profit-Organisation Telejob an der Polymesse offiziell die Online-Stellenplattform «ETH get hired» vor. Zuvor betrieb Telejob eine eigene gleichnamige Stellenplattform. Die Erfahrung von Telejob mit ihrer eigenen Plattform sowie die Arbeitsmarkterfahrung des Career Centers aus der Tätigkeit an der Schnittstelle zwischen Studierenden und den Unternehmen war eine ideale Voraussetzung für dieses gemeinsame Projekt, wie der Leiter des Career Centers Martin Ghisletti sagt.
@@ -11,8 +13,6 @@ Damals war noch unklar, wie sich die Job-Seite entwickeln würde. Heute weiss er
 Gerade in diesem Jahr sei die Zahl der Jobanzeigen markant gestiegen, sagt Piotr Tokarczyk, Präsident von Telejob: «Dass neben den Universitäten auch so viele Firmen unsere Plattform nutzen, zeigt uns, dass wir uns nun etabliert haben.»
 
 Die Jobs auf «ETH get hired» können sich an Bachelor- und Master-Studierende, aber auch an Doktorierende oder Postdoktorierende richten. Dies vor allem aus den Bereichen Mathematik, Informatik, Naturwissenschaften oder Technik (MINT). Laut Ghisletti sind derzeit Studierende mit Informatikprofilen am meisten gefragt.
-
-## Weiterentwicklung geplant
 
 Viele der Anzeigen werden von Finanz-, Beratungs- und Ingenieurunternehmen geschaltet. Sie alle müssen eines erfüllen: Die Anforderungsprofile der Jobs müssen ein Studiengebiet voraussetzen, welches auch an der ETH angeboten wird. Aushilfs- und Nebenjobs sollen auf der Plattform keinen Platz finden.
 

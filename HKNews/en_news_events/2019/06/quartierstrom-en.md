@@ -2,25 +2,21 @@
 
 **Source:** en_news_events/2019/06/quartierstrom-en.html
 
+**Date processed:** 2025-05-01
+
 ## Incentives for all
 
 December 2018 marked the start of an experiment that is the first of its kind in Switzerland. In the Schwemmiweg district of Walenstadt, 37 households have joined forces to create a local energy market. Instead of having to go through their retail energy supplier, owners of photovoltaic systems can sell surplus electricity to their neighbours, giving households without solar panels the opportunity to purchase clean, locally produced energy. The participants in this local energy trading market determine the prices themselves based on supply and demand.
 
 Generating and distributing electricity within the district means that less energy needs to be brought in from outside the community. Local peer-to-peer energy trading also offers other advantages: “For example, energy generators can sell their electricity at a far higher rate than the feed-in tariff, so they get a faster return on investment on their solar installation,” says Sandro Schopfer from the Bits to Energy Lab at ETH. He heads up a project called Quartierstrom (German for district energy). Other project partners include the University of St. Gallen, several companies from the energy sector and the local grid operator Water and Electricity Works Walenstadt (WEW), which has made its distribution grid available for local trading during the project. The Swiss Federal Office of Energy supports Quartierstrom as part of its pilot, demonstration and flagship projects programme.
 
-## Both sides benefit
-
 The idea of the project is to investigate how energy markets might operate in the future. One key aspect of the energy transition is the increasing decentralisation of energy generation – ­effectively a shift away from large, centralised power plants and towards smaller, often private producers. “Up till now small generators had very few possibilities to market their energy themselves,” says Schopfer. They are required to feed their surplus energy into the grid, selling it to the electricity retailer at a feed-in tariff. Paradoxically, the electricity actually routes itself to the producer’s neighbours anyway, since electrons always follow the shortest path. “But that fact isn’t reflected in current market arrangements,” says Schopfer. Allowing private producers to participate in energy trading could provide financial incentives and help promote the use of clean, locally generated energy.
 
 One of the goals of the Quartierstrom project is to discover how this plays out in practice. Twenty-eight of the participants have their own photovoltaic systems, and nine are pure consumers, including a retirement home. The combined systems produce approximately 300,000kWh a year, while the community’s actual electri­city demand comes to around 250,000kWh. Several battery systems serve as buf­fers. Specially built Smart Meters (a variant of the low-budget computer Raspberry Pi) continuously measure the energy generated and consumed by individual households. A specially designed and implemented software carries out the actual transactions. These are based on blockchain technology, which is designed to ensure trading networks are tamper-proof.
 
-## Energy supplier as insurance
-
 The local market participants set their price limits using an app. Producers state the price they are willing to accept for their surplus energy, while consumers specify the maximum price they are willing to pay. An algorithm is then used to determine every 15 minutes who can purchase electricity from whom. It does this by matching the cheapest provider with the highest bidder. Households that are unable to find a partner to trade with simply purchase their electricity from the energy supplier at the standard market rate.
 
 Prices in the Quartierstrom market fluctuate based on supply and demand. Figures so far show that they range between the feed-in tariff of 4 cents and the energy supplier’s electricity price of 20.75 cents per kWh. “So it’s profitable for both producers and consumers,” says ETH doctoral student Liliane Ableitner, who is studying user behaviour and acceptance in the project. She is delighted with the degree of user involvement in the trading process. “Many of them are logging into the app more often than we expected.” Detailed results won’t be available until the project comes to an end in January 2020, but it’s already clear that the trading scheme is boosting the consumption of local energy within the community. In the first two weeks of February 2019, for example, over 80 percent of the solar power generated was consumed within the local district. By way of comparison, an individual household can only make use of approximately 30 percent of the electricity it produces if it is not connected to a local networked market.
-
-## Globe Magazine
 
 Yet despite producing much of the energy it needs, the district is still reliant on the local energy supplier. As well as purchasing surplus solar, the company also supplies grid power in the event that the sun isn’t shining and demand is high. “In this scenario the energy supplier will act as a kind of insurance policy to cover all eventualities,” says Ableitner. She believes that this transformation of the energy market is set to continue. That view is shared by managers at the Water and Electricity Works Walenstadt, who are convinced by the project’s merits. They hope to gain insights into new business models and help shape their development from an early stage.
 

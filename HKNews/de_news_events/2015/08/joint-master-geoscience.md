@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2015/08/joint-master-geoscience.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH-News: Herr Maurer, welche Vision führte vor zehn Jahren zur Gründung eines Masterprogramms, das über drei Hochschulen in drei Ländern verteilt ist? Hansruedi Maurer: Die ETH Zürich ging vor 16 Jahren mit der TU Delft in den Niederlanden, der RWTH Aachen und dem Imperial College in London unter dem Namen IDEA League eine strategische Partnerschaft ein. Die ursprüngliche Idee des damaligen ETH-Rektors Konrad Osterwalder, von ETH-Geophysikprofessors Alan Green und Jacob Fokkema, dem ehemaligen Rektor der TU Delft, war ein Austausch von Geophysik-Masterstudierenden zwischen den beiden Hochschulen aufzuziehen. Das Konzept eines Joint Masters wurde erst später entwickelt. Die Vision: die Expertise von drei führenden technischen Universitäten in diesem Bereich zu bündeln und den Studierenden dadurch ein exzellentes Studienangebot zu eröffnen.
@@ -29,6 +31,8 @@ Worauf sind Sie bei der Etablierung des Joint Masters heute rückblickend besond
 Und was bringt die Zukunft? Derzeit sehe ich keine Notwendigkeit für Änderungen. Jährlich beginnen nun durchschnittlich 30 bis 40 Studierende das Masterstudium. Das sind viele, aber solange die Qualität stimmt und die Abgänger in der Industrie gefragt sind, möchten wir die Anzahl auch künftig nicht begrenzen.
 
 Hansruedi Maurer ist seit 2007 Professor für Geophysik an der ETH Zürich.
+
+## Studieren in drei Ländern: «Joint Master in Applied Geophysics»
 
 Der trinationale externe Seite Studiengang für angewandte Geophysik von ETH Zürich, RWTH Aachen und TU Delft wurde 2006 gestartet. Die Studierenden lernen je ein Semester an den beteiligten Hochschulen und leben vor Ort. Während des letzten Semesters verfassen sie eine Masterarbeit an einer der Hochschulen oder in Zusammenarbeit mit einem Industriepartner. In den vergangenen zehn Jahren haben 160 Studierende das Studium erfolgreich abgeschlossen. Am 28. August feiern die involvierten Partnerhochschulen das 10-jährige Jubiläum des Joint Masters an der TU Delft mit einem Kolloquium zur erdwissenschaftlichen Ausbildung in Europa.
 

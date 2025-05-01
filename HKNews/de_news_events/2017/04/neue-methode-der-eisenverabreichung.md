@@ -2,31 +2,25 @@
 
 **Source:** de_news_events/2017/04/neue-methode-der-eisenverabreichung.html
 
+**Date processed:** 2025-05-01
+
 ## Hybrid aus Proteinfasern und Eisen-Nanopartikeln
 
 Weltweit leiden rund 1,2 Milliarden Menschen an Eisenmangel. Betroffen sind in erster Linie Frauen. Jede fünfte europäische Frau um die 20 hat Eisenmangel. Die Folgen: verminderte Leistungsfähigkeit, Müdigkeit, Blutarmut oder Kopfschmerzen.
 
 Doch die Eisenergänzung über die Nahrung oder mit Medikamenten ist schwierig, da für deren Erfolg das Eisen in einer für den Körper verfügbaren Form vorliegen muss. Das Spurenelement kann zudem die Farbe, den Geschmack und den Geruch von damit angereicherten Lebensmitteln verändern, sodass diese nicht mehr munden.
 
-## Eisenmangel rasch behoben
-
 Die beiden ETH-Professoren Raffaele Mezzenga und Michael B. Zimmermann vom Departement Gesundheitswissenschaften haben eine neue Form der Eisenergänzung von Nahrungsmitteln entwickelt: ein Hybridmaterial aus essbaren Molkeprotein-Nanofasern und Eisen-Nanopartikeln. Die entsprechende Studie, die von Mezzengas Doktorandin Yi Shen in Kollaboration mit Zimmermanns Doktorandin Lidija Posavec durchgeführt wurde, ist soeben in der Fachzeitschrift «Nature Nanotechnology» erschienen.
 
 Die Protein-Nanofasern (sogenannte Amyloidfibrillen) bestehen aus denaturierten Molkeproteinen, die bei 90°C in einer starken Säure «gekocht» (hydrolysiert) werden bis sie sich vollständig ausstrecken. Mehrere solcher Proteinfäden lagern sich selbstorganisierend zu dickeren Protein-Nanofasern zusammen.
-
-## Keine Nebenwirkungen aufgetreten
 
 Solche Nanofasern kombinierten die Forschenden mit Eisen-Nanopartikeln, die der Körper gut verwerten kann. Um diese Nanopartikel herzustellen, mischten die Forscherinnen ein Eisensalz (FeCl 3 ) direkt mit den Nanofasern in derselben sauren Lösung. Dabei entstanden 20 Nanometer grosse Eisen-Nanopartikel, die sich sofort an die Oberfläche der Nanofasern anlagerten und von ihnen stabilisiert wurden. Normalerweise sind Eisen-Nanopartikel nicht stabil: Sie bilden Aggregate und eignen sich damit nicht als Nahrungsmittelzusatz.
 
 Um die Wirksamkeit des neuartigen Eisenpräparats zu testen, verfütterten es die Wissenschaftlerinnen an Ratten, die zuvor mit eisenarmer Nahrung gefüttert wurden und deshalb an Eisenmangel litten. Das neuartige Präparat behob bei den Tieren den Eisenmangel und die damit einhergehende Blutarmut genauso gut wie Eisensulfat (FeSO 4 ). Letzteres ist der derzeitige Standard bei der Eisenergänzung bei Menschen, ändert bei Nahrungsmitteln jedoch oft Geschmack oder Farbe in unerwünschter Weise.
 
-## Alternative zu bisherigen Präparaten
-
 Auch war das Präparat leicht verdaulich. Die Forscherinnen und Forscher zeigten im Reagenzglas, dass Enzyme aus dem Magen der Tiere die Molkeprotein-Nanofasern vollständig verdauten. Zudem lösten die sauren Bedingungen, wie sie auch im Magen herrschen, die Eisen-Nanopartikel in Eisen-Ionen auf. Diese Ionen könnten im Körper rasch ins Blut aufgenommen und zur Bildung neuer roter Blutkörperchen verwendet werden.
 
 Die eisenbesetzten Molkeprotein-Nanofasern können entweder als Pulver oder in flüssiger Form verabreicht werden, und die neue Verbindung kann direkt in unterschiedliche Nahrungsmittel gegeben werden. Dabei ändert der Zusatz die Sensorik von Lebensmitteln nicht.
-
-## Literaturhinweis
 
 Um mögliche Risiken und Nebenwirkungen aufzuspüren, untersuchten die Forscherinnen und Forscher Hirn, Herz, Nieren und andere Organe der Ratten, nachdem die Tiere zwei Wochen lang Nanofasern verzehrt hatten. Die Forscher richteten ihr Augenmerk insbesondere auf die Nanofasern, da diese noch nie in Lebensmitteln oder Nahrungsergänzungsmitteln eingesetzt wurden. Deren Struktur gleicht darüber hinaus Amyloidfibrillen, die sich im Gehirn anreichern und die Alzheimer-Demenz verursachen können. Allerdings unterscheiden sich für dieses neue Eisenpräparat verwendeten Nanofasern von den krankheitsverursachenden Amyloidfibrillen dadurch, dass erstere aus essbaren Nahrungsproteinen bestehen.
 
@@ -37,6 +31,8 @@ Die Ausgangsprodukte für diese neu entwickelte Nahrungsergänzung sind sehr gü
 Die Forschenden haben auf ihre Entwicklung ein Patent angemeldet und freuen sich darauf, mit Industriepartnern ins Gespräch zu kommen, um die Technologie weiterzuentwickeln.
 
 Diese Studie wurde vom Schweizerischen Nationalfonds im Rahmen des Nationalen Forschungsprogramms Gesunde Ernährung und nachhaltige Lebensmittelproduktion ( externe Seite NFP 69 ) finanziert.
+
+## Literaturhinweis
 
 Shen Y, Posavec L, Bolisetty S, Hilty FM, Nyström G, Kohlbrecher J, Hilbe M, Rossi A, Baumgartner J, Zimmermann MB, Mezzenga R. Amyloid Fibril Systems Reduce, Stabilize and Deliver Bioavailable Nanosized Iron. Nature Nanotechnology, advance online publication 24th April 2017. DOI: externe Seite 10.1038/nnano.2017.58
 

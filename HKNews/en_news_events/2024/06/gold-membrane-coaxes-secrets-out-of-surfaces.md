@@ -2,41 +2,36 @@
 
 **Source:** en_news_events/2024/06/gold-membrane-coaxes-secrets-out-of-surfaces.html
 
+**Date processed:** 2025-05-01
+
 ## In brief
 
-- Surfaces are difficult to study with conventional methods such as Raman laser spectroscopy as the signals are very weak.
-
-- ETH researchers have developed a gold membrane that is applied to the surface of a material, amplifying the Raman signal of the surface up to a thousand times.
-
-- In the future, the gold membranes could be optimized for specific surfaces, resulting in a further significant increase in signal strength.
+• Surfaces are difficult to study with conventional methods such as Raman laser spectroscopy as the signals are very weak.
+• ETH researchers have developed a gold membrane that is applied to the surface of a material, amplifying the Raman signal of the surface up to a thousand times.
+• In the future, the gold membranes could be optimized for specific surfaces, resulting in a further significant increase in signal strength.
+## Surfaces are important for functionality
 
 “Surfaces were invented by the devil” - this quote is attributed to the theoretical physicist Wolfgang Pauli, who taught at ETH Zurich for many years and in 1945 received the Nobel Prize in physics for his contributions to quantum mechanics. Researchers do, indeed, struggle with surfaces. On the one hand they are extremely important both in animate and inanimate nature, but on the other hand it can be devilishly difficult to study them with conventional methods.
 
 An interdisciplinary team of materials scientists and electrical engineers led by Lukas Novotny, Professor of Photonics at ETH Zurich, together with colleagues at Humboldt-Universität zu Berlin has now developed a method that will make the characterization of surfaces considerably easier in the future. They recently published the results of their research, which is based on an extremely thin gold membrane, in the scientific journal Nature Communications .
 
-## Surfaces are important for functionality
-
 “Whether we are dealing with catalysts, solar cells or batteries – surfaces are always extremely relevant for their functionality”, says Roman Wyss, a former PhD student in materials science and first author of the paper, who now works as a researcher at the ETH spin-off company Enantios. The reason for this relevance is that important processes usually happen at interfaces. For catalysts, these processes are the chemical reactions that are accelerated on its surface. In batteries, the surface properties of the electrodes are crucial for their efficiency and degradation behavior.
 
 For many years, researchers have used Raman spectroscopy for examining material properties non-destructively – that is, without destroying the material in the process. In Raman spectroscopy, a laser beam is sent onto the material, and the reflected light is analysed. From the properties of the reflected light, whose frequency spectrum was modified by the vibrations of the molecules in the material, one can draw conclusions both on the chemical composition of the object under consideration – also known as its chemical fingerprint – as well as on mechanical effects such as strain.
-
-## Gold membrane with tiny pores
 
 “This is a very powerful method, but it can only be applied to surfaces with strong limitations”, says Sebastian Heeg, who contributed to the experiments as a postdoc in Lukas Novotny’s group and who now leads a junior research group at Humboldt-Universität. Since in Raman spectroscopy the laser light penetrates the material by several micrometres, the frequency spectrum is affected mainly by the bulk of the material and only to a very small degree by its surface, which only comprises a few atomic layers.
 
 To harness Raman spectroscopy also for surfaces, the ETH researchers developed a special gold membrane that is only 20 nanometres thick and contains elongated pores around a hundred nanometres in size. When such a membrane is transferred onto a surface to be investigated, two things happen: first, the membrane prevents the laser beam from penetrating into the volume of the material. Second, at the locations of the pores the laser light is concentrated and re-radiated only a few nanometres into the surface.
 
-## Thousand-fold signal amplification
-
 “The pores act as so-called plasmonic antennas – just like the antenna in a mobile phone”, says Heeg. The antenna amplifies the Raman signal from the surface by up to a thousand times compared to the signal of conventional Raman spectroscopy without the membrane. Heeg and his colleagues were able to demonstrate this on a number of materials, including strained silicon and the perovskite crystal lanthanum nickel oxide (LaNiO 3 ).
 
 Strained silicon is important for applications in quantum technologies, but so far it has not been possible to probe the strain using Raman spectroscopy because the signal produced by the surfaced was covered by the background noise of the measurement. After the gold membrane had been applied, the strain signal was selectively amplified to the point that it could be clearly distinguished from the other Raman signals of the material.
 
-## Reference
-
 The metallic perovskite lanthanum nickel oxide, on the other hand, is an important material for producing electrodes. “The strong coupling between its crystal structure and electrical conductivity make it possible to control the conductivity by changing the thickness of the electrode on the nanometre scale. The surface structure, one presumes, plays an essential role here”, says Mads Weber, a former postdoc at ETH Zurich and now assistant professor at the University of Le Mans, who investigates this class of materials and was also involved in the study. Thanks to the new gold membrane method, the researchers were now able, for the first time, to gain access to the surface structure of lanthanum nickel oxide.
 
 “Our approach is also interesting from the point of view of sustainability, as existing Raman equipment can gain completely new capabilities without much effort”, says Heeg. In the future, the researchers want to further improve their method and adapt it to user demands. For instance, currently the pores in the gold membrane have different sizes and are randomly oriented. By producing a gold membrane with pores of equal size that are aligned in parallel, the method could be optimised for specific materials, which would improve the strength of the Raman signal by another factor of a hundred.
+
+## Reference
 
 Wyss RM, Kewes G, Marabotti P et al. Bulk-suppressed and surface-sensitive Raman scattering by transferable plasmonic membranes with irregular slot-shaped nanopores. Nature Communications 15, 5236 (2024). Doi: 10.1038/s41467-024-49130-2
 

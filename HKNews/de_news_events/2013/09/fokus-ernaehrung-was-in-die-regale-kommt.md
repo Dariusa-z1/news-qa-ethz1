@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2013/09/fokus-ernaehrung-was-in-die-regale-kommt.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Sibyl Anwander, Leiterin Nachhaltigkeit/Wirtschaftspolitik bei Coop, Michael Siegrist, Professor für Consumer Behavior, und Achim Walter, Professor für Kulturpflanzenwissenschaften an der ETH Zürich, geben Antworten.
@@ -123,6 +125,8 @@ Walter: Die Gentechnik startete ursprünglich mit grossen Versprechungen. Heute 
 Anwander: Von dem her könnte der Klimawandel zur Akzeptanz der Gentechnik beitragen, weil die Landwirte schneller neue Züchtungen brauchen. Die klassische Züchtung braucht mindestens 20 Jahre – ob wir angesichts der raschen klimatischen Veränderungen diese Zeit noch haben werden, ist fraglich. Die Gentechnik könnte helfen, die Züchtungsverfahrungen zu beschleunigen.
 
 Walter: Im Hinblick auf den Klimawandel ist vor allem auch die genetische Vielfalt wichtig. Bei allen grossen Kulturarten gibt es Sorten, die mit weniger Wasser, höheren oder tieferen Temperaturen zurechtkommen, als sie heute in einer bestimmten Region vorherrschen. Wir werden in der Schweiz in 20 Jahren ein anderes Klima haben als heute. Da brauchen wir Sorten, die mit etwas weniger Wasser auskommen, die eine bessere Ertragssicherheit bieten oder vielleicht in höheren Lagen gedeihen können. Dieses Potenzial der Biodiversität müssen wir nutzen.
+
+## Gesprächsteilnehmer:
 
 Sibyl Anwander ist bei Coop verantwortlich für Public Affairs und Nachhaltigkeit. Die ETH-Alumna forschte und lehrte über zehn Jahre an ihrer Alma Mater, bevor sie 2001 beim Schweizer Grossverteiler ihre Arbeit aufnahm, wo sie unter anderem den ersten Nachhaltigkeitsbericht publizierte. Sie präsidiert die Business Social Compliance Initiative (BSCI) und ist in Gremien verschiedener anderer Organisationen vertreten, die sich der Nachhaltigkeit verpflichten.
 

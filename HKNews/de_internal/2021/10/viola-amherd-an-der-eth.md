@@ -2,19 +2,19 @@
 
 **Source:** de_internal/2021/10/viola-amherd-an-der-eth.html
 
-## «Eine sichere Schweiz – was wir dafür tun wollen und müssen» – Referat von Viola Amherd
+**Date processed:** 2025-05-01
+
+## Main article
 
 Die Welt ist in den letzten Jahren unsicherer geworden. Kriegerische Auseinandersetzungen zwischen Staaten, Terroranschläge und Cyberattacken sind eine Realität. Was heisst das für die Schweiz? Was ist zu tun, damit die Sicherheit jederzeit gewährleistet ist, auch dann, wenn sie die Bedrohungsformen verändern?
 
 Bundesrätin Viola Amherd ist Vorsteherin des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport ( VBS ) und damit federführend für die Schweizer Sicherheitspolitik. Sie referiert an der ETH Zürich zum Thema Sicherheit. Bundesrätin Amherd wird über die aktuellen Herausforderungen in der Sicherheitspolitik und ihre aktuellen Prioritäten sprechen.
 
-## Staffnet
-
 Danach folgt eine ca. 45-minütige Fragerunde mit Diskussion.
 
 Bitte registrieren Sie sich externe Seite hier für die Veranstaltung.
 
-## Newsletter abonnieren
+## «Eine sichere Schweiz – was wir dafür tun wollen und müssen» – Referat von Viola Amherd
 
 Wann: Montag, 8. November 2021 16:30 Uhr
 

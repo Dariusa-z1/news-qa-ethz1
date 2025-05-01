@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2015/08/-studierendenbefragung-2015-gute-gesamtzufriedenheit.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 In spring 2015, ETH Zurich conducted its first ever survey among Bachelor’s and Master’s students to ask how satisfied they were with their studies at the university. The 2015 Student Survey of Satisfaction found that 82 per cent of students at ETH Zurich are satisfied or very satisfied with their studies.

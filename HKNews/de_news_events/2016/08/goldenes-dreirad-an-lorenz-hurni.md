@@ -2,25 +2,21 @@
 
 **Source:** de_news_events/2016/08/goldenes-dreirad-an-lorenz-hurni.html
 
+**Date processed:** 2025-05-01
+
 ## Erfolg braucht Verantwortung
 
 Unter dem Motto «One ETH» trafen sich am Freitag, 26. August bei heissem Sommerwetter rund 4‘000 ETH-Mitarbeitende aus Technik und Administration, Forschung und Lehre, deren Angehörige sowie Ehemalige zum Personalfest « togETHer » auf dem Campus Hönggerberg. Geboten wurde Kulinarisches und Unterhaltung aus diversen Weltgegenden.
 
 «TogETHer 2016» sei ein Dankeschön der ganzen Schulleitung für das grosse und beständige Engagement aller Mitarbeitenden, sagte ETH-Präsident Lino Guzzella in seiner Festansprache. Er griff das Motto «One ETH» auf und rief die ETH-Angehörigen auf, den ETH-Spirit noch weiter zu entwickeln: «Für den Erfolg der Hochschule braucht es neben Talent und Können das Selbstverständnis, eine Gemeinschaft zu sein», sagte der Präsident.
 
-## Kein bestimmtes Rezept
-
 Dafür biete die ETH mit ihrer Bottom-up-Kultur und flachen Hierarchien eine Vorleistung, die idealer nicht sein könnte. «Aber ebenso entscheidend für den ETH-Spirit ist die Verantwortung. Wir alle müssen als 'One ETH' am gleichen Strick ziehen, um unser Potenzial noch besser auszuschöpfen. So werden wir die Position der ETH als Hochschul-Flaggschiff der Schweiz und in der weltweiten Spitze behaupten können.»
 
 Über das «Goldene Dreirad» freue er sich sehr, sagt der frischgekürte Preisträger Lorenz Hurni. «Aber als ich davon erfuhr, wusste ich eigentlich nicht, warum ich nominiert wurde», meint er mit entwaffnender Bescheidenheit. Er orientiere sich bei der Organisation seines Teams nicht bewusst an Vereinbarkeit und Familienfreundlichkeit. Trotzdem haben seine Mitarbeitenden den ETH-Professor für Kartografie und Vorsteher des Instituts für Kartografie und Geoinformation nominiert und die Jury überzeugt.
 
-## Wie im Fussball
-
 Gesunder Menschenverstand, Flexibilität, gegenseitiges Vertrauen und vor allem die richtige Auswahl der Mitarbeitenden seien wohl die Faktoren, die zum motivierten Funktionieren seines 26-köpfigen Teams beitragen; dessen Mitglieder stammen aus acht Ländern. «Einiges Bauchgefühl ist da auch im Spiel», so Lorenz Hurni, der seit 20 Jahren ETH-Professor ist.
 
 Das klingt einfach, ist aber anspruchsvoll. Zu den Musts für das wissenschaftliche Arbeiten – Selbständigkeit, Kreativität und Problemlösungskompetenz –, gesellt sich bei Lorenz Hurnis Gruppe viel gegenseitige Rücksicht und ein ausgeprägter Teamgeist, den der Chef vorlebt. Seine Vielseitigkeit ist dabei gefragt: «Wäre meine Professur ein Fussballclub, dann hätte ich gleichzeitig den Job des Trainers, Sportchefs und Mentalcoachs. Aber ohne die ‹Spieler› und den Support durch kompetenten Staff schiessen auch wir keine Tore.»
-
-## Wichtige weiche Faktoren
 
 Die Balance zwischen Berufs- und Privatleben müsse in verschiedensten Situationen individuell gefunden werden: «Bei Mitarbeitenden mit langen Arbeitswegen können zum Beispiel einzelne Home-Office-Tage vereinbart werden. Und wir versuchen, unsere Meetings mit den relativ starren Krippenzeiten abzugleichen. Auch ermöglicht die ETH einen flexiblen Umgang mit Teilzeitarbeit. So können wir schnell auf Veränderungen reagieren.»
 

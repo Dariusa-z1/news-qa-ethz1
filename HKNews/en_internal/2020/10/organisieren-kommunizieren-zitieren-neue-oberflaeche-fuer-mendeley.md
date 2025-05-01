@@ -2,19 +2,15 @@
 
 **Source:** en_internal/2020/10/organisieren-kommunizieren-zitieren-neue-oberflaeche-fuer-mendeley.html
 
+**Date processed:** 2025-05-01
+
 ## Mendeley Reference Manager
 
 A reference management system and social network in one: as a member of ETH Zurich, you can benefit from the updated Mendeley programme. New features include the Mendeley Reference Manager and the overhauled web library interface. This allows you to organise your research literature in a clear way, make easy use of said literature in your own publications, and chat with other academics.
 
-## Exclusive to ETH members: Mendeley Institutional Edition
-
 The Mendeley Reference Manager is the new alternative to the classic Mendeley Desktop. It offers an updated interface and allows you to register with your ETH login details. Try it out today!
 
-## Subscribe to Newsletter
-
 Thanks to the updated web library, Mendeley now offers you the same interface in your browser as that found on the desktop app. In addition, Mendeley is also available as an app for your iPhone and iPad.
-
-## Staffnet
 
 As a member of ETH Zurich, you also benefit from additional memory and an unlimited number of private groups, thanks to the Mendeley Institutional Edition .
 

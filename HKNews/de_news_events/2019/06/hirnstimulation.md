@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2019/06/hirnstimulation.html
 
+**Date processed:** 2025-05-01
+
 ## Mit Viren ins Hirn
 
 Auf dem Netz finden sich Videos, deren Inhalte sich im Gedächtnis festsetzen. Ein Mann sitzt mit einer Fernsteuerung in der Hand auf dem Sofa. Offensichtlich ist er an Parkinson erkrankt: Seine Hände und Arme zittern und beben. Dann hebt er die Fernsteuerung an seine Brust, drückt einen grauen Knopf – und das Zittern lässt fast augenblicklich nach.
@@ -14,8 +16,6 @@ Johannes Bohacek selbst nutzt Hirnstimulationen zur Erforschung von Stress und d
 
 Bohacek vereinfacht daher, indem er sich auf Einzelteile konzentriert; zurzeit auf das noradrenerge System, das bei Stress eine zentrale Rolle spielt. In akuten Stresssituationen, zum Beispiel dann, wenn plötzlich ein Feueralarm losgeht, wird das Gehirn mit Noradrenalin überflutet. Dafür zuständig ist ein einziges, winziges Hirnareal, der Locus caeruleus. Er liegt wie eine Nadel im Heuhaufen tief im Hirnstamm verborgen. «Er ist für Sonden, wie sie zur tiefen Hirnstimulation genutzt werden, zu klein und zu schwer erreichbar», sagt Bohacek. Ein überaktiver Locus caeruleus liegt gewissen Angst- und Panikstörungen zugrunde. Darum sind viele Forscher und die Pharma­branche stark daran interessiert, seine Funktionen besser zu verstehen.
 
-## Hirn-Maschinen-Schnittstelle
-
 Um gezielt untersuchen zu können, was sich in diesem Hirnareal bei Stress abspielt, verändert der ETH- Professor mit Hilfe von Viren gezielt Nervenzellen des Locus caeruleus. Dazu arbeitet er mit einer speziellen Maus­linie, die das Virus in den Locus caeruleus zwingt. Das Virus sorgt dafür, dass sich auf der Oberfläche der Nervenzellen ein künstlicher Rezeptor (Empfängermolekül) ausbildet.
 
 Die Forscher verabreichen dann den Mäusen eine Substanz, die sich mit diesen Rezeptoren verbindet, damit die betreffenden Neuronen erregt werden und die Ausschüttung von Nordadrenalin bewirkt wird, ohne dass vorgängig das gesamte Stresssystem aktiviert werden musste. So können Bo­ha­cek und sein Team klären, was daraufhin im gesamten Gehirn abläuft.
@@ -25,8 +25,6 @@ Von solchen Versuchen erhofft sich der Neurowissenschaftler, die Ursachen von St
 Neue Therapien für Hirnerkrankungen stehen auch bei Mehmet Fatih Yanik zuoberst auf der Traktandenliste. «Wir arbeiten an neuen Technologien, um Netzwerk-Fehlfunktionen bei Hirn- erkrankungen zu korrigieren. Solche Fehlfunktionen liegen Erkrankungen wie Depression, Schizophrenie oder Autismus zugrunde», sagt der Professor für Neurotechnologie am Institut für Neuroinformatik der ETH und der Universität Zürich.
 
 Gehirnerkrankungen werden nach wie vor meistens mit Pillen behandelt. Dabei bindet sich ein Wirkstoff an das passende Zielmolekül in der Nervenzelle und löst dadurch eine biochemische Signalkaskade in der Zelle aus. Das ist allerdings wenig spezifisch, denn die Zielmoleküle kommen oft im gesamten Gehirn oder sogar im übrigen Körper vor, nicht nur in den Hirn­arealen, die man mit dem Medikament beeinflussen möchte.
-
-## Magazin Globe
 
 Yanik hat deshalb eine andere Vorstellung davon, wie die Therapie von Hirnerkrankungen in Zukunft aussehen könnte. «Das ist im Moment eine reine Vision», schmunzelt er. Aber eigentlich ist es ihm ernst damit. Jüngst bewarb er sich mit diesem Projekt erfolgreich für Forschungsgelder von der EU.
 

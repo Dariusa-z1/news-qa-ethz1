@@ -2,7 +2,9 @@
 
 **Source:** en_internal/2015/11/the-future-of-topology-optimization.html
 
-## D-MAVT Distinguished Lecture Series
+**Date processed:** 2025-05-01
+
+## Main article
 
 The D-MAVT Distinguished Lecture Series brings world leading scientists and engineers to ETH Zurich to present their work in a colloquium and to meet with its faculty and students. The colloquium has broad attendance by faculty, staff, Master and Doctoral students from all departments of ETH Zurich.
 
@@ -12,9 +14,9 @@ The talk presents the SOTA of density-based topology optimization methods and re
 
 (Graphics: DTU)
 
-Topology Optimization: State of the Art and Future Perspectives
+## D-MAVT Distinguished Lecture Series
 
-## Subscribe to Newsletter
+Topology Optimization: State of the Art and Future Perspectives
 
 Prof. Ole Sigmund , Danmarks Tekniske Universitet
 
@@ -25,8 +27,6 @@ Topology Optimization research group at DTU Mechanical Engineering & DTU Mathema
 (Graphics: RWTH Aachen)
 
 Cut-Cell Method Based Analysis of Freely Moving Particles in Viscous Flows
-
-## Staffnet
 
 Prof. Wolfgang Schröder , RWTH Aachen University
 

@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2014/09/entdeckungsflug-ueber-die-schweiz.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Der Wandel der Schweiz vom intakten Agrarland mit verstreuten Fabriken zum heute stark bebauten Gebiet wird aus der Luft besonders augenfällig.

@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2021/11/epfl-und-eth-zuerich-lancieren-erstes-gemeinsames-doktoratsprogramm.html
 
+**Date processed:** 2025-05-01
+
 ## Ein wichtiger Schritt
 
 Wie helfen uns Erkenntnisse aus der Lern- und Kognitionsforschung beim Lehren und Lernen? Wie können Datenwissenschaften und künstliche Intelligenz individuell abgestimmtes Lernen unterstützen? Und wie gelingt es uns – gerade in Zeiten flexibler Arbeitsmodelle –, die Interaktion zwischen Lernenden und physischen Räumen in verschiedenen Umgebungen systematisch zu evaluieren? Diese und ähnliche Themen sollen die Teilnehmenden eines neuen gemeinsamen Doktoratsprogramms in den Lernwissenschaften intensiv behandeln. Ab Frühling 2022 wird es an der EPFL und der ETH Zürich angeboten.
@@ -10,21 +12,21 @@ Die Lernwissenschaften befinden sich am Schnittpunkt mehrerer Fachrichtungen. Si
 
 «Unser Ziel ist es, Fachpersonen auszubilden, die sich mit bildungsspezifischen Themen auseinandersetzen können, indem sie aus ihrem wissenschaftlichen Hintergrund im MINT-Bereich schöpfen», sagt Pierre Dillenbourg, Assoziierter Vizepräsident für Bildung und Leiter des EPFL-eigenen Labors für externe Seite Computer-Menschliche Interaktion beim Lernen und Lehren (CHILI) . Er hat das gemeinsame Doktoratsprogramm zusammen mit Manu Kapur konzipiert und entwickelt. Kapur hat die Professur für Lernwissenschaften an der ETH Zürich inne und leitet dort die Future Learning Initiative .
 
-## Förderung durch die Jacobs Foundation
-
 «Die Forschung zeigt, dass traditionelle Lehrmethoden oft nicht optimal sind», sagt Manu Kapur, der selbst Erfahrung als Mathematiklehrer hat. So konnte er zum Beispiel nachweisen, dass die systematische Nutzung des Produktiven Scheiterns bedeutend effektiver ist als der Unterricht rein in Form von Vorlesungen. «Datenwissenschaften, künstliche Intelligenz oder Robotik eröffnen neue Forschungsansätze, die solche Erkenntnisse weiter begünstigen.» Er fügt hinzu: «Das gemeinsame Programm ist ein wichtiger Schritt für die Lernwissenschaften in der Schweiz, aber auch für die Wissenschaft im Allgemeinen, da es den Rahmen für gemeinsame Programme in weiteren Disziplinen setzt.»
 
 Tatsächlich ist dies das erste gemeinsam angebotene Doktoratsprogramm der zwei Hochschulen, die beide über umfassende Erfahrungen in den Lernwissenschaften verfügen (siehe unten). «Es bestehen grossartige Synergien und Chancen zwischen unseren Hochschulen, und wir freuen uns auf weitere gemeinsame Doktoratsprogramme in der Zukunft», sagt Luisa Lambertini, Assoziierte Vizepräsidentin für Postgrade-Ausbildung an der EPFL. Und die Rektorin der ETH Zürich, Sarah Springman, meint: «Am Anfang jeder Innovation steht das Lernen. Unser Bildungssystem muss auf allen Stufen – vom Kindes- bis ins Erwachsenenalter – auf aktuellen Forschungserkenntnissen aufbauen, um einer sich immer rascher verändernden Welt gerecht zu werden.» Hierbei sei das neue Doktoratsprogramm ein wichtiger Schritt, so Springman: «Es ist richtig, dass die zwei führenden technisch-naturwissenschaftlichen Schweizer Hochschulen die Grundlage dafür weiter ausbauen.»
 
-Das neue Programm, das vier Jahre dauert, wird von der Jacobs Foundation gefördert. «Zusammenarbeit ist entscheidend, um Innovationen voranzutreiben. Daher freuen wir uns sehr, dass die beiden hochkarätigen Institutionen gemeinsam dieses Programm anbieten, das die Zukunft des Lernens prägen wird», sagt Simon Sommer, der Co-CEO der Jacobs Foundation.
+## Förderung durch die Jacobs Foundation
 
-## Zwei Hochschulen mit umfassender Erfahrung in den Lernwissenschaften
+Das neue Programm, das vier Jahre dauert, wird von der Jacobs Foundation gefördert. «Zusammenarbeit ist entscheidend, um Innovationen voranzutreiben. Daher freuen wir uns sehr, dass die beiden hochkarätigen Institutionen gemeinsam dieses Programm anbieten, das die Zukunft des Lernens prägen wird», sagt Simon Sommer, der Co-CEO der Jacobs Foundation.
 
 Die Studierenden müssen im Lauf des Programms mindestens zwölf Credits erreichen, darunter insgesamt acht Credits aus zwei Pflichtveranstaltungen (je vier Credits), die jedes Jahr an der ETH Zürich und der EPFL abgehalten werden. Der erste Kurs beleuchtet die Theorien der Lernwissenschaften, die neuesten Forschungserkenntnisse sowie die verschiedenen Blickwinkel auf die Disziplin. Im Mittelpunkt stehen zwei Fragen: Wie lernt der Mensch? Und wie können wir die Lernerfahrung verbessern? Der zweite Kurs erkundet das interdisziplinäre Instrumentarium der verschiedenen Methoden des Forschungsdesigns, der Datenerhebung und der Datenanalyse, die Forschende in den Lernwissenschaften anwenden.
 
 Die Studierenden haben zudem die Auswahl aus einem breiten Spektrum optionaler Kurse zu Themen wie maschinellem Lernen oder digitalen Technologien in der Bildung. Das Programm umfasst gemeinsame Kolloquien, Seminare, Sommer- und Winterkurse und Events, die die lernwissenschaftliche Fachgemeinschaft stärken sollen, sowohl innerhalb des Programms als auch generell in der Schweiz.
 
 Die Studierenden können das gemeinsame Doktoratsprogramm entweder an der EPFL oder der ETH Zürich absolvieren, je nachdem, an welcher Hochschule die Hauptbetreuungsperson der Doktorarbeit ihre Basis hat, wobei sie aber von einem Professor oder einer Professorin der Partneruniversität mitbetreut werden. Die Doktoratsdiplome werden mit den Logos beider Hochschulen versehen sein. Studierende, die sich für dieses Programm anmelden möchten, sollten ihre Bewerbung bis 1. Dezember 2021 einreichen. Eine weitere Bewerbungsrunde findet im Frühjahr 2022 statt.
+
+## Zwei Hochschulen mit umfassender Erfahrung in den Lernwissenschaften
 
 Die ETH Zürich bildet seit ihrer Gründung Lehrpersonen für Maturitätsschulen in den MINT-Fächern (Mathematik, Informatik, Naturwissenschaften und Technik) aus. 1999 führte sie Programme zur Entwicklung digitaler Technologien für das Lehren und Lernen ein. Seither hat die ETH drei Lernzentren eingerichtet, um effektivere Lehrmethoden für die MINT-Fächer aller Bildungsstufen zu entwickeln. Sie baut ihre Forschungsbemühungen in den Lernwissenschaften kontinuierlich aus.
 

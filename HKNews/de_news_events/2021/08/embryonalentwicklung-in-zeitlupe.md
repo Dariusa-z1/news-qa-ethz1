@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2021/08/embryonalentwicklung-in-zeitlupe.html
 
+**Date processed:** 2025-05-01
+
 ## Gen-Transkripte und Signalmoleküle untersucht
 
 Alle kennen das Reh, in vielen Kreuzworträtseln wird nach ihm gefragt, man trifft es auf der Joggingrunde oder bei einem Spaziergang im Wald an – ein filigranes Tier, mit seinen grossen schwarzen Augen geradezu elegant.
@@ -26,13 +28,13 @@ Wenn gegen ihr Ende hin der Aminosäuren-Pegel in der Uterusflüssigkeit deutlic
 
 Ob nebst den diversen Aminosäuren weitere Signalmoleküle involviert sind, haben die Forschenden in dieser Studie nicht untersucht. Ebenfalls bleibt unklar, ob die Aminosäuren tatsächlich für die Fortsetzung der Embryoreifung verantwortlich sind oder ob auch der Embryo Moleküle absondert, die auf mütterliche Zellen und Signalwege einwirken. Es könnte sein, dass der Embryo seine Präsenz mit speziellen Signalmolekülen dem Mutterorganismus anzeigt. Diese Wissenslücke möchte Ulbrich in künftigen Studien schliessen.
 
-## Literaturhinweis
-
 Die neuen Erkenntnisse werfen ein Licht auf die Reproduktions- und Entwicklungsbiologie im Allgemeinen. Eine der grundlegenden Fragen ist, wie es bei Säugetieren zu einer Schwangerschaft respektive Trächtigkeit kommt. So können sich beispielsweise bei Mensch und Rind Embryonen oft nicht in der Gebärmutter einnisten und sterben. «Dies hat mit vielschichtigen Wechselwirkungen zwischen Embryo und Mutter zu tun», sagt Ulbrich.
 
 Für eine erfolgreiche Schwangerschaft bedürfe es einer engen zeitlichen Abstimmung. Der Embryo müsse sich zum richtigen Zeitpunkt durch entsprechende (molekulare) Signale bemerkbar machen und den Zyklus der Mutter unterbrechen. «Diese Interaktion zwischen Embryo und Mutter wollen wir besser verstehen», erklärt die ETH-Professorin. Dafür sei das Reh als Modell ideal. Dessen Embryonalentwicklung sei derjenigen des Rindes sehr ähnlich, laufe aber in Zeitlupe ab. «Dadurch können wir die einzelnen Schritte besser zeitlich auflösen und ursächliche Zusammenhänge finden.»
 
 Die Erkenntnisse könnten auch dazu beitragen, die in-vitro -Fertilisation beim Menschen so zu verbessern, dass Embryonen nicht mehr eingefroren werden müssten. Zudem könnte mit natürlichen Faktoren die Geschwindigkeit der Teilung von Zellen, einschliesslich embryonaler Stammzellen, gesteuert werden.
+
+## Literaturhinweis
 
 van der Weijden VA, Bick JT, Bauersachs S, Rueegg AB, Hildebrandt TB, Goeritz F, Jewgenow K, Giesbertz P, Daniel H, Derisoud E, Chavatte-Palmer P, Bruckmaier RM, Drews B, Ulbrich SE (2021). Amino acids activate mTORC1 to release roe deer embryos from decelerated proliferation during diapause. PNAS, publiziert 27.8.2021. DOI: externe Seite 10.1073/pnas.2100500118
 

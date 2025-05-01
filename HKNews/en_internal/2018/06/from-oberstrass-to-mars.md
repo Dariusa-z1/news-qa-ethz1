@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2018/06/from-oberstrass-to-mars.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 This year’s visitors experienced another close-up of ETH Zurich. Entertaining comics from the Expedition Solar System special exhibition at focusTerra attracted many space enthusiasts to the stand by Rigiplatz in Zurich. The comics tell the story of how and why space research is particularly relevant to ETH.

@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2021/09/wir-sind-realistischer-geworden.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Frau Günther, Herr Brugger, das «NADEL – Center for Development and Cooperation» feiert sein 50-jähriges Bestehen. Wie hat sich das Verständnis von Entwicklungshilfe seit seiner Gründung gewandelt?
@@ -61,6 +63,8 @@ Brugger: Dem kann ich nur zustimmen.
 Prof. Dr. Isabel Günther ist seit Juli 2014 Professorin für Entwicklungsökonomie und akademische Direktorin des NADEL.
 
 Dr. Fritz Brugger ist geschäftsführender Direktor des NADEL und verantwortlich für die Aus- und Weiterbildungsprogramme.
+
+## 50 Jahre NADEL
 
 1970 wurde an der ETH Zürich das Center for Development and Cooperation, kurz NADEL, gegründet. Mit einem Corona-bedingten Jahr Verspätung feiert das NADEL nun sein 50-jähriges Bestehen mit einer Reihe von öffentlichen Events und Vorträgen. Auf der Jubiläumswebseite finden Sie weitere Informationen zum geplanten Programm.
 

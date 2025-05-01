@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2021/12/baking-tips.html
 
+**Date processed:** 2025-05-01
+
 ## Beehives
 
 There are two schools of thought about this cookie’s name: Kristýna Kantnerová definitely belongs to the “beehive” camp.
@@ -12,8 +14,6 @@ Dough 250 g bought round sponge biscuits 210 g sugar 130 g softened butter 30 g 
 
 Crush the sponge biscuits and mix everything together into a dough. It should be a bit sticky and solid. If you have plenty of time, you can bake the sponge biscuits yourself instead of using bought ones.
 
-## Nanny’s Ricotta Cookies
-
 Filling 150 g softened butter 100 g powdered sugar 1 package vanilla sugar 1 egg yolk 2 tablespoons rum
 
 Mix all ingredients together using a blender.
@@ -22,7 +22,7 @@ Extra ingredients powdered sugar for dusting the mould sponge biscuits
 
 Take a mould (I hope you know now which one is the right one to use…), dust its inner surface with powdered sugar to stop the dough sticking. Press a bit of the dough in the mould using your index finger and make a hole in the middle. Fill the hole with a bit of the filling and seal the bottom with one sponge biscuit. Instead of a sponge biscuit, you could also use Scottish shortbread, Linzer cookies or French sablés. Turn the mould upside down so that the biscuit is on the bottom and carefully open it to reveal the beehive. Enjoy in moderation! If you don’t have a mould, shape a small half-sphere with your hands, and then follow the instructions given above. Make a hole in the bottom using your index finger and add the filling. Cover the hole with a sponge biscuit, any other biscuit, or even a bit of dough. Be creative!
 
-## Cozonac
+## Nanny’s Ricotta Cookies
 
 This is a very simple cookie recipe from my childhood. The recipe comes from my grandmother, whom we affectionately called Nanny. These cookies fill the air with an aroma that takes me back to my childhood days when I used to watch my grandmother bake hundreds of them. They are light and delicious and simply meant to be enjoyed. Each year at Christmas, I continue the tradition of baking these cookies under the watchful eye of her photo.
 
@@ -32,17 +32,15 @@ This recipe is easy enough to follow and great to use as a family baking activit
 
 225 g white flour 200 g white sugar 55 g ricotta cheese 125 g butter 1 egg 1 teaspoon vanilla 1/2 teaspoon baking soda 1/2 teaspoon salt powdered sugar for dusting
 
-## Subscribe to Newsletter
-
 Combine the flour, salt, and baking soda in a bowl. In a separate bowl, blend the ricotta cheese and butter together. Add the vanilla and mix well. Slowly fold in the sugar. Beat in the egg and slowly add the flour, baking soda and salt. Blend thoroughly to form a dough. The dough will be moist and a little sticky. Using a small spoon, drop approximately 15 g of dough onto a greased baking tray or baking mat. There is no need to form the cookies as they will take shape while baking. Bake at 180°C for 9 to 10 minutes. After the cookies have cooled, dust them with the powdered sugar. Sit back, relax and enjoy!
+
+## Cozonac
 
 "No matter how full you are after the Christmas meal, there is always room for some cozonac.” Silvana Albert with her freshly baked Christmas yeast bread.
 
 Cozonac (plural cozonaci) is our most traditional Christmas cake and is enjoyed in literally every Romanian household at Christmas and Easter. My grandmother taught my mother how to make it, my mother taught me and I will teach my daughter (she is only three years’ old). This will ensure that this tradition will carry on as it has done for hundreds of years. Despite having been in Switzerland for two years, I still always make it at Easter and Christmas.
 
 I like to think of it as an improved version of panettone because it has a thick walnut cocoa and sugar filling. It is not an easy task to get it into the perfect shape and consistency, but it is fun to try. It tastes great even when it doesn’t look perfect! My mother’s secret is to rub honey over it when it is still hot after taking it out of the oven. It is best enjoyed with a glass of milk. No matter how full you are after a seven-​course Christmas meal, you will always find room for some cozonac!
-
-## Staffnet
 
 Take all the ingredients out of the fridge at least one hour beforehand. They should be left at room temperature. The oven door should not be opened within 20 minutes of putting the loaf tin into the oven. Ingredients for one plaited sweet bread For a loaf tin with the dimensions: L=28 cm, W=8–13 cm (trapezoid), H=8 cm
 

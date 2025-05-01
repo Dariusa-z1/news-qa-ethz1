@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2021/11/meister-der-neuromodulierung.html
 
+**Date processed:** 2025-05-01
+
 ## Zwei Welten vereinen
 
 Stanisa Raspopovics Leidenschaft für das Gehirn, das Nervensystem und für Neurotechnologien begann während seinem Elektrotechnikstudium in Pisa. «Ich las damals in einer Wissenschaftszeitschrift einen Bericht über Forschung an Affen, die mit ihren Gedanken und via Hirnstrommessungen Roboterarme steuern konnten», sagt er.
@@ -10,15 +12,11 @@ Aufgewachsen ist Raspopovic in Belgrad und Pisa, und er liebte in seiner Jugend 
 
 Ein elektronisches Gerät und Nerven miteinander zu verbinden, ist extrem komplex, wie Raspopovic erzählt. Während der Jahre seiner Doktorarbeit, ebenfalls in Pisa, und danach in Barcelona und an der EPFL in Lausanne, untersuchte er mit Computersimulationen und anschliessend ergänzt durch zahlreiche Tiermodelle, wie sich die beiden unterschiedlichen Welten am besten verbinden lassen.
 
-## Von den Grundlagen zur Anwendung
-
 «Es ist genau diese Interdisziplinarität zwischen Computerwissenschaften, Elektrotechnik, Neurobiologie, Tierforschung und klinischen Studien gemeinsam mit Ärztinnen und Ärzten, die unsere Forschung möglich und auch für mich und alle anderen Beteiligten so interessant macht», sagt Raspopovic. Mittlerweile würden die Grenzen zwischen klassischen wissenschaftlichen Fachgebieten zunehmend verschwimmen. Er selbst sehe sich als Wissenschaftler an der Schnittstelle verschiedener Disziplinen und letztlich als Neuroingenieur.
 
 In Nervenzellen werden Informationen über geladene Atome (Ionen) übermittelt, die Schaltkreise in elektronischen Geräten hingegen funktionieren mit Elektronen. Das Gemeinsame an beiden Systemen ist, dass sie sich über ein elektrisches Feld beeinflussen lassen. «Um mit Nerven zu kommunizieren verändern wir das elektrische Feld», erklärt Raspopovic. Man kann das auf unterschiedliche Arten machen, und in seiner bisherigen Forschung konnte er zeigen, dass es besonders effizient ist, dies über eine sogenannte zeitabhängige Ladungsmodulation zu tun statt über die Frequenzmodulation, wie das Forschende vorher gemacht haben. Darüber hinaus optimierte Raspopovic die Form der implantierten Elektroden, um damit einzelne Nervenbündel und nicht den gesamten Nerv beeinflussen zu können.
 
 Seit seinem Masterstudium in Pisa interessierte sich Raspopovic für grundlegende Fragen: Wie nehmen wir mit unserem Gehirn die Welt wahr? Wie funktioniert unser Bewusstsein und wo im Gehirn ist es lokalisiert? Wie lassen sich Nervensystem und Maschinen verbinden? Wie lässt sich so Information aus dem Nervensystem entschlüsseln und allenfalls sogar für Therapiezwecke beeinflussen?
-
-## Leidenschaft, Durchhaltewillen und ein gutes Team
 
 Es sind ähnlich grundlegende Fragen, die ihn heute noch umtreiben, nun als Forscher, der zu ihrer Beantwortung beiträgt. «Wir versuchen zu verstehen, wie unser Nervensystem auf künstliche Geräte, wie zum Beispiel über Elektroden mit ihm verbundene Geräten und Sensoren reagiert», sagt er. Es gehe darum herauszufinden, wie das Nervensystem solche Informationen aufnimmt und sie verarbeitet. Oder wie solche Informationen von externen Sensoren das Bewusstsein und das Unterbewusstsein beeinflussen. «Dazu arbeiten wir auch mit Psychologen und Neurowissenschaftlern zusammen», erklärt Raspopovic. «Denn nur wenn wir dies besser verstehen, können wir die Schnittstellen von Geräten und dem Körper verbessern.»
 
@@ -26,9 +24,9 @@ In seinen neueren Forschungsarbeiten ist die Neurostimulation dazugekommen. Beis
 
 Bemerkenswert für Stanisa Raspopovics Forschungstätigkeit sei, dass er alle Entwicklungen, die heute zum Teil am Menschen erprobt werden, von Grund auf entwickelt habe, schreibt die ETH-Forschungskommission zur Vergabe des Latsis-Preises 2021 der ETH Zürich. «Viele Entdeckungen sehen im Nachhinein einfach aus», sagt er selbst. «Doch oft ist es alles andere als einfach.» Viele der Herausforderungen, die sich stellen, sind technischer Natur, zum Beispiel wenn irgendwo eine Elektrode oder ein Kabel bricht, und dies erst nach einer Weile entdeckt wird. Auch musste er oft bis spät in den Abend arbeiten, etwa um die Geräte für klinische Studien vorzubereiten oder Forschungsanträge rechtzeitig vor einem Abgabetermin zu verfassen.
 
-## Latsis-​Preis der ETH Zürich
-
 Um dies zu meistern gehöre viel Durchhaltewillen dazu, sagt Stanisa Raspopovic. Letztlich seien es drei Dinge, die ihm zufolge zum Erfolg führen: Leidenschaft, Durchhaltewillen und ein gutes Team. «Alle drei sind essenziell, und sie begünstigen sich gegenseitig», sagt er. Er sei stolz auf sein Team aus jungen, motivierten Menschen. Sie alle seien angetrieben von Leidenschaft. Und während die Leidenschaft den Teamgeist begünstigt, fördere dieser wiederum den Durchhaltewillen. Damit niemand aufgibt, wenn wieder einmal eine Elektrode oder ein Kabel bricht.
+
+## Latsis-​Preis der ETH Zürich
 
 Die Latsis-​Stiftung, 1975 mit dem Vermögen des griechischen Reeders Giannis Latsis gegründet, finanziert mehrere Schweizer Wissenschaftspreise, darunter den «Latsis-​Preis der ETH Zürich». Damit zeichnet die ETH jährlich über alle Forschungsdisziplinen hinweg herausragende jüngere Forscherinnen und Forscher aus. Er wird jeweils am ETH-​Tag von der Rektorin verliehen und ist mit 25'000 Franken dotiert.
 

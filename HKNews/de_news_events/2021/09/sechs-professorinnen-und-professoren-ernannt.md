@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2021/09/sechs-professorinnen-und-professoren-ernannt.html
 
+**Date processed:** 2025-05-01
+
 ## Neuernennungen
 
 Prof. Dr. Lint Barrage (*1985), zurzeit Assistenzprofessorin an der University of California, USA, zur ausserordentlichen Professorin für Energie- und Klimawirtschaft am Departement Management, Technologie und Ökonomie. Lint Barrages Forschung konzentriert sich auf die makroökonomischen und gesellschaftlichen Konsequenzen von ökologischen Entwicklungen und umweltpolitischen Entscheidungen. Ihr besonderes Interesse gilt dabei den energie- und klimapolitischen Auswirkungen auf die wirtschaftliche Entwicklung. Mit ihrer Berufung verstärkt das Departement die die Kompetenzen und Forschungsaktivitäten in Energieökonomie und -politik. Zudem ergeben sich wichtige Synergien mit den Kolleginnen und Kollegen des Center for Energy Policy and Economics und des Energy Science Center.
@@ -18,11 +20,11 @@ Prof. Dr. Marco Hutter (*1985), zurzeit Tenure-Track-Assistenzprofessor an der E
 
 Prof. Dr. Tanja Stadler (*1981), zurzeit ausserordentliche Professorin an der ETH Zürich, zur ordentlichen Professorin für Computergestützte Evolution am Departement Biosysteme. Tanja Stadler befasst sich mit der Entwicklung von mathematischen und bioinformatischen Methoden zur Identifikation dynamischer Prozesse und gilt als führende Forscherin im neuen Gebiet der phylogenetischen Dynamik. Sie verfügt über eine herausragende Publikationsbilanz und erhielt zahlreiche prestigeträchtige Auszeichnungen, unter anderem einen ERC Starting Grant 2013 und einen ERC Consolidator Grant 2021. Tanja Stadler ist seit ihrer Gründung im März 2020 Mitglied der Swiss National COVID-19 Science Task Force und wurde im August 2021 zu deren Leiterin befördert.
 
+## Verabschiedungen
+
 Prof. Dr. Michael Ambühl (*1951), zurzeit ordentlicher Professor für Verhandlungsführung und Konfliktmanagement am Departement Management, Technologie und Ökonomie, wird Ende Januar 2022 in den Ruhestand treten. Michael Ambühl kam als Student an die ETH Zürich und promovierte 1980. Von 1982 bis 2013 stand er im Staatsdienst, unter anderem bei der EU-Mission in Brüssel, als Chef des Integrationsbüros sowie als Staats­sekretär. Bei vielen wichtigen Verhandlungen war er massgeblich beteiligt, weshalb ihn der ETH-Rat 2013 zum ordentlichen Professor ernannte, um seine Erfahrungen aus Politik und Diplomatie in der universitären Lehre und Forschung fruchtbar zu machen. Nebst seiner Professur hat Michael Ambühl die Swiss School of Public Governance (SSPG) aufgebaut und geführt.
 
 Prof. Dr. Michael Detmar (*1957), zurzeit ordentlicher Professor für Pharmacogenomics am Departement Chemie und Angewandte Biowissenschaften, wird Ende Januar 2022 in den Ruhestand treten. Michael Detmar kam 2004 als ordentlicher Professor an die ETH Zürich. Schwerpunkte von Michael Detmars Forschung sind die Tumorbiologie, die molekulare Kontrolle chronischer Entzündungen und die Entwicklung individualisierter Therapien. Im Jahr 2015 wurde seine Arbeit mit der Wahl zum Mitglied der «Deutschen Akademie der Naturforscher Leopoldina – Nationale Akademie der Wissenschaften» honoriert. Von 2013 bis 2021 war Michael Detmar Mitglied des Forschungsrats des SNF. Er erhielt zahlreiche Preise, ist Mitherausgeber mehrerer wissenschaftlicher Zeitschriften und Berater für internationale Institutionen und Firmen.
-
-## Verabschiedungen
 
 Prof. Dr. Qiuting Huang (*1957), zurzeit ordentlicher Professor für Elektronik am Departement Informationstechnologie und Elektrotechnik, wird Ende Januar 2022 in den Ruhestand treten. Qiuting Huang kam 1993 als Assistenzprofessor an die ETH Zürich. In den letzten 30 Jahren hat er Pionierarbeit in einer Vielzahl von Disziplinen auf dem Gebiet der integrierten Schaltungen und Systeme geleistet. Zudem gilt er als einer der führenden Experten im Bereich der integrierten Hochfrequenzschaltungen für die Mobilfunk-Kommunikation. Zwischen 2013 und 2015 war er Studiendirektor des Departements Informationstechnologie und Elektrotechnik. Der engagierte Hochschuldozent erhielt zudem zahlreiche Auszeichnungen und Würdigungen und war und ist Mitglied verschiedener Komitees.
 

@@ -2,7 +2,9 @@
 
 **Source:** de_internal/2022/07/neu-digitalisierte-zeitschriften-auf-e-periodica.html
 
-## Was ist E-Periodica?
+**Date processed:** 2025-05-01
+
+## Main article
 
 Die ZS wurde unter dem Namen Zürcher Student 1923 gegründet. Hinter der ältesten Studierendenzeitung der Schweiz steckt ein bewegtes Stück Geschichte. Erst wollte das Blatt nationalistisch sein. Dann machte es in den 60ern links aussen Volldampf und unterzog sich als Höhepunkt seiner Morphose einer Geschlechtsumwandlung (und hiess fortan Zürcher Studentin). Irgendwann interessierte es sich plötzlich nicht mehr für Politik, kriegte die finanzielle Magersucht, war fast am Ende. Und seit 2006 will er (oder sie?) nur noch ZS genannt werden. externe Seite Zu den Ausgaben 1923–ff.
 
@@ -36,8 +38,6 @@ externe Seite Zu den Ausgaben 1979–1997
 
 Das Jahrbuch der Geographischen Gesellschaft von Bern setzte ab 1973 den Jahresbericht der Geographischen Gesellschaft von Bern fort. Der bisherige externe Seite Jahresbericht umfasste sowohl Vereinsnachrichten als auch wissenschaftliche Beiträge. Aus finanziellen Gründen wurde jedoch eine Trennung vorgenommen. Die Vereinsnachrichten, welche u. a. die Besprechung der in der Gesellschaft gehaltenen Vorträge beinhalten, erschienen im neu geschaffenen Mitteilungsorgan der Geographischen Gesellschaft von Bern, den externe Seite Berner Geographischen Mitteilungen . Die wissenschaftlichen Aufsätze hingegen erschienen als Jahrbuch der Geographischen Gesellschaft von Bern. Die verstärkte Zusammenarbeit mit dem Geographischen Institut der Universität Bern ermöglichte es zudem, das Jahrbuch durch Beihefte zu ergänzen.
 
-## Kontakt
-
 Jahrbuch der Geographischen Gesellschaft Bern : externe Seite Zu den Ausgaben 1973–ff.
 
 Beiheft zum Jahrbuch der Geographischen Gesellschaft von Bern : externe Seite Zu den Ausgaben 1975–1982
@@ -70,8 +70,6 @@ Der Arbeitskreis Dorfgeschichte ist seit 1982 als gemeinderätliche Kommission b
 
 externe Seite Zu den Ausgaben 1985–ff.
 
-## Immer aktuell informiert
-
 Die Beiträge zur Heimatkunde des Sensebezirks erschienen von 1927 bis 1983 und wurden vom Verein für Heimatkunde herausgegeben. Der Sensebezirk ist ein Bezirk im Kanton Freiburg und der einzige rein deutschsprachige. Der Umfang der Beiträge variiert über die Jahre beträchtlich. Aber auch die Qualität der enthaltenen Artikel reicht von populär bis wissenschaftlich. Der herausgebende Verein für Heimatkunde sah denn auch die Beiträge als eine «Fundgrube heimatkundlicher Schätze», die in der Bevölkerung über die Jahre immer grössere Beliebtheit fanden.
 
 externe Seite Zu den Ausgaben 1927–1983
@@ -97,6 +95,8 @@ Sinfonia, von 1934 bis 1939 hiess die Zeitschrift Das Orchester, erschien bis 19
 In Zusammenarbeit mit der Schweizerischen Nationalbibliothek NB
 
 externe Seite Zu den Ausgaben 1934–1997
+
+## Was ist E-Periodica?
 
 externe Seite E-Periodica ist die Plattform für Schweizer Zeitschriften online und ist ein Service der ETH-Bibliothek. Das Themenspektrum reicht von Naturwissenschaften über Architektur, Mathematik, Geschichte, Geografie, Kunst und Kultur bis hin zu Umwelt und Sozialpolitik. Sie finden auf E-Periodica frei zugängliche Zeitschriften vom 18. Jahrhundert bis heute. Das Angebot wird laufend erweitert und durch aktuelle Ausgaben ergänzt.
 

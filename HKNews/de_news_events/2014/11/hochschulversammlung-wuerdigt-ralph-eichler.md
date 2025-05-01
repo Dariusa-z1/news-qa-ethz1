@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2014/11/hochschulversammlung-wuerdigt-ralph-eichler.html
 
+**Date processed:** 2025-05-01
+
 ## Präsidentschaft im Zeichen des Ermöglichens
 
 Seit seinem Amtsantritt im Jahr 2007 hat ETH-Präsident Ralph Eichler die Hochschulversammlung ( HV ) regelmässig über laufende Geschäfte der Schulleitung orientiert. Ende Jahr tritt er als Präsident der ETH Zürich zurück. Entsprechend diskutierte die Plenarversammlung der HV am vergangenen Donnerstag nicht nur hochschulpolitische Themen, sondern sie würdigte auch die Leistungen des ETH-Präsidenten.
@@ -12,17 +14,15 @@ An Ralph Eichlers Präsidentschaft schätzte Peter Widmayer besonders, dass er
 
 Peter Widmayer zog den Schluss: «Ralph Eichler hat den ‹Organismus ETH› mit Bauchschmerzen übernommen und lässt ihn kerngesund zurück.»
 
-## Gender Action Plan und ETH-Gesetzesänderung
-
 Diesem Fazit schloss sich Julia Wysling an, die von 2013 bis 2014 Präsidentin des Studierendenverbands VSETH war. Ralph Eichler habe die Anliegen der Studierenden klar, offen und aufrichtig wahrgenommen: «Er war ein Freund der Studierenden, mit dem man auf Augenhöhe diskutieren kann.» Die offene Kommunikations- und Ermöglichungskultur bezeichnete Julia Wysling als die Kernaspekte von Ralph Eichlers Präsidentschaft.
 
 Seitens der Mittelbau Vereinigung AVETH würdigte Remo Senn die ehrliche und direkte Kommunikation: «Indem Ralph Eichler die ETH sachlich, direkt und seriös führte, lebte er ganz praktisch einen Verhaltenskodex vor.» Anschliessend überreichte Remo Senn dem abtretenden Präsidenten ein Präsent im Namen der ganzen Hochschulversammlung, einschliesslich des Lehrkörpers und des Personals.
 
 Ralph Eichler bedankte sich seinerseits bei der HV für die Zusammenarbeit: «Es zeichnet die ETH aus, dass man rational untereinander diskutieren kann. Die Verantwortung hat mich gefordert, doch wusste ich, dass ich in der Schulleitung jederzeit auf ein starkes Team zurückgreifen darf.»
 
-Die Hochschulversammlung vereinigt alle vier Hochschulgruppen: Lehrkörper, Mittelbau, Studierende sowie administrative und technische Mitarbeitende. Zu den Kernaufgaben der HV gehört die konstruktiv-kritische Begleitung der Führungsarbeit der Schulleitung, des ETH-Rats und die Diskussion hochschulpolitischer Themen.
+## Gender Action Plan und ETH-Gesetzesänderung
 
-## Keine News verpassen
+Die Hochschulversammlung vereinigt alle vier Hochschulgruppen: Lehrkörper, Mittelbau, Studierende sowie administrative und technische Mitarbeitende. Zu den Kernaufgaben der HV gehört die konstruktiv-kritische Begleitung der Führungsarbeit der Schulleitung, des ETH-Rats und die Diskussion hochschulpolitischer Themen.
 
 So diskutierte die HV am Donnerstag unter anderem den Gender Action Plan und eine geplante Änderung im ETH-Gesetz mit Blick auf weitere Verbesserungen.
 

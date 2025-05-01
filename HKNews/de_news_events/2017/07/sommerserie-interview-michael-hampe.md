@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2017/07/sommerserie-interview-michael-hampe.html
 
-## Zur Person
+**Date processed:** 2025-05-01
+
+## Main article
 
 Herr Hampe, noch nie war Reisen populärer: Auch diesen Sommer fahren wieder Millionen Europäer ins Ausland, legen sich an den Strand, erklimmen atemberaubende Berge oder erkunden Kathedralen und Museen in fremden Städten. Wie hat sich die Art des Reisens und was sich die Menschen davon erhoffen über die Zeit verändert? Es gibt ganz unterschiedliche Antriebe, um zu Verreisen. Bildungsreisen, wie sie zum Beispiel in der Neuzeit populär waren, gibt es noch immer – eine ganze Industrie hat sich auf naturkundliche und kulturelle Reisen spezialisiert. Mit der Industrialisierung des Urlaubs wurde das Reisen an einen fernen, aussergewöhnlichen Ort zunehmend zu einem sozialen Prestigeobjekt. Die Leute unterhalten sich darüber, wo sie in den Ferien waren. Es entstehen Konkurrenzverhältnisse, die sich zum Beispiel in Diskussionen darüber äussern, wer schon wie oft auf den Fidschi-Inseln war.
 
@@ -18,8 +20,6 @@ Nicht alle dürften der negativen Konzeption des Reisens von Sokrates zustimmen.
 
 Als wir dieses Interview vor zwei Wochen vereinbart haben, befanden Sie sich in Moskau für eine Vortragsreise. Das lässt nicht auf die Agenda eines Stubenhockers schliessen. Natürlich fährt man als Wissenschaftler an einer modernen Hochschule oft an Kongresse oder hält an anderen Universitäten Vorträge. Ich forciere das jedoch nicht. Um mich auf meine Arbeit konzentrieren zu können, versuche ich möglichst sesshaft zu sein. Das hat seine eigene Qualität.
 
-## Sommerserie
-
 Überträgt sich das auch auf ihren Urlaub? Ja, ich fahre seit dreissig Jahren immer wieder an denselben Ort an der Nordsee, wo ich mich nicht eingewöhnen muss und trotzdem einen Wechsel habe. Neben meinen akademischen Dienstreisen brauche ich keine weiteren Reisen während meiner Urlaubszeit. Ich suche dann vielmehr die Ruhe.
 
 Ruhe, um weiterarbeiten zu können? Ja, um in der geistigen Arbeit wieder einmal eine lange Strecke zur Verfügung zu haben. Im akademischen Alltag wird man ja oft durch Verwaltungsaufgaben, Sitzungen oder Vorträge beim Schreiben unterbrochen. Das erzeugt Stress, weil man sich andauernd in andere Texte als den, den man gerade zu schreiben versucht, hineindenken muss. Vier Wochen, während derer ich beim Schreiben nicht unterbrochen werde, sind für mich sehr erholsam, auch wenn ich während dieser Zeit relativ viel nachdenke. Das ist das Privileg, wenn Sie einer sinnstiftenden, nicht entfremdeten Arbeit nachgehen. Künstlern geht das wahrscheinlich ähnlich. Man kann sich nach einer ruhigen Phase ungestörter Kreativität genauso sehnen, wie nach der Unterbrechung der alltäglichen Routine.
@@ -30,7 +30,11 @@ Gibt es bestimmte Prämissen, damit das Reisen zu einem aufklärerischen Akt wir
 
 Zum Schluss: Können Sie unseren Leserinnen und Lesern einen Rat erteilen, wie Ferien zu einem Glückserlebnis werden? Ein niedriges Anspruchsniveau ist hilfreich, damit man den Urlaub nicht als einen Glücksautomatismus belastet. Hat man den Anspruch, 14 Tage ununterbrochen glücklich zu sein, kann sich das Glück schlecht einstellen. Zudem sollte man sich vor Wettbewerbssituationen hüten: Enttäuschungen entstehen oft, wenn man glaubt, aus Gründen des Prestiges einen bestimmten Urlaub machen zu müssen, obwohl man das gar nicht will. Hinzu kommt, dass unterschiedliche Menschen unterschiedliche Erfahrungen für wichtig halten. Das führt im Urlaub oft zu Problemen. Ich kenne das von meinem eigenen Sohn. Wenn die Eltern ins Museum wollen, leidet er, und wenn er jammert, dann leiden die Eltern. Eine gewisse Kompromissbereitschaft ist für einen gelungenen Urlaub nötig.
 
+## Zur Person
+
 Michael Hampe ist seit Wintersemester 2003/04 ordentlicher Professor für Philosophie an der ETH Zürich. Er wuchs in Hannover auf, studierte Philosophie, Psychologie und Germanistik in Heidelberg und Cambridge. Seine Arbeitsgebiete umfassen die Philosophie und Geschichte der Erfahrungswissenschaften, die Kritische Theorie und Metaphysik, das Verhältnis von Wissenschaft und Öffentlichkeit sowie Techniken der Selbsterkenntnis.
+
+## Sommerserie
 
 Im Rahmen einer Serie präsentiert ETH-News während der Ferienzeit regelmässig Beiträge zu Forschung und Innovation, welche etwas mit der schönsten Zeit des Jahres zu tun haben. Das Interview mit Philosophieprofessor Michael Hampe ist der erste Teil. Weitere Beiträge folgen.
 

@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2015/04/stumble-through-the-main-hall.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Uneven surfaces, stairs with obstacles and paths with moving elements: over the next few days, members of ETH Zurich can test how sure-footed they are on SUVA’s stumbling circuit – but in a safe environment.

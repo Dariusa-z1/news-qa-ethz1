@@ -2,11 +2,9 @@
 
 **Source:** de_news_events/2015/01/der-holocaust-ist-nicht-unvorstellbar-.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
-
-- Informationen zu den Workshops für Schulklassen: www.afz.ethz.ch/lehreundforschung/oralhistory/holocaust-gedenktag
-
-- Informationen zu den Öffentlichen Abendführungen der Sammlungen und Archive der ETH Zürich: www.afz.ethz.ch/lehreundforschung/archivfuehrungen
 
 Gregor Spuhler.
 
@@ -34,6 +32,10 @@ Sie haben auch schriftliche Dokumente im Archiv. Ja. Neben Zeitzeugnissen könne
 
 Auschwitz-Überlebender Gabor Hirsch mit einer Schulklasse 2007. (Bild: ETH Zürich/Archiv für Zeitgeschichte)
 
+## Beitrag zur Dokumentation des Holocaust
+
+• Informationen zu den Workshops für Schulklassen: www.afz.ethz.ch/lehreundforschung/oralhistory/holocaust-gedenktag
+• Informationen zu den Öffentlichen Abendführungen der Sammlungen und Archive der ETH Zürich: www.afz.ethz.ch/lehreundforschung/archivfuehrungen
 Das Archiv für Zeitgeschichte der ETH Zürich sichert Schrift-, Ton- und Bilddokumente aus privatem Besitz zur Geschichte der Schweiz vom späten 19. Jahrhundert bis in die Gegenwart und macht diese historischen Quellenbestände öffentlich zugänglich.
 
 Mit seiner Dokumentationsstelle Jüdische Zeitgeschichte schliesst das Archiv für Zeitgeschichte eine Lücke in der schweizerischen Archivlandschaft. Als Forschungsstätte wider das Vergessen gehört es international zu den Archiven der Shoa und leistet im Verbund mit zahlreichen anderen Institutionen einen schweizerischen Beitrag zur Dokumentation des Holocaust.

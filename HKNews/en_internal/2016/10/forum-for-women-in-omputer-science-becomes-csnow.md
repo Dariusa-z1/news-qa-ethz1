@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2016/10/forum-for-women-in-omputer-science-becomes-csnow.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 CSNOW, the Network of Women in Computer Science (formerly Forum for Women in Computer Science), invites all interested students, faculty members and staff to join us as we take a step forward towards diversifying our environment.

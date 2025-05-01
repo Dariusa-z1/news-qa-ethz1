@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2015/11/gordon-bell-prize-nominationen.html
 
+**Date processed:** 2025-05-01
+
 ## Fünfzig Mal schneller und grösser
 
 Simulationen auf Supercomputern unterstützen in vielen wissenschaftlichen Bereichen die experimentelle Forschung. Solche Berechnungen sind auch für die leistungsstärksten Supercomputer enorm aufwendig und komplex.
@@ -10,9 +12,9 @@ Um die Abläufe in vernünftiger Zeit zu simulieren, braucht es neben den leistu
 
 ETH-Forscher simulierten den Elektronenfluss durch einen Nano-Transistor. (Grafik: Dr. Jean Favre/ CSCS)
 
-Die ETH-Professoren Mathieu Luisier vom Institut für Integrierte Systeme und Joost VandeVondele, Leiter der Gruppe Nanoscale Simulations an der ETH Zürich kombinierten mit ihren jeweiligen Teams zwei Softwareprogramme und entwickelten zudem einen neuen Algorithmus, mit dem hybride Computersysteme aus herkömmlichen CPUs und Graphikprozessoren (GPUs) optimal ausgenutzt werden können. Damit gelang es ihnen, die Zeit zur Simulation der Nanobauteile um das Fünfzigfache zu verkürzen und deren Grösse auf über 50'000 Atome zu erhöhen. Die Anzahl der Atome entspricht der realen Grösse eines Nanobauteils. «Bis anhin erlaubten die rechenintensiven Modelle in der Regel nur eine Simulation von Systemen bestehend aus maximal 1000 Atomen», betont Luisier.
-
 ## In-Silico Lab-on-a-Chip
+
+Die ETH-Professoren Mathieu Luisier vom Institut für Integrierte Systeme und Joost VandeVondele, Leiter der Gruppe Nanoscale Simulations an der ETH Zürich kombinierten mit ihren jeweiligen Teams zwei Softwareprogramme und entwickelten zudem einen neuen Algorithmus, mit dem hybride Computersysteme aus herkömmlichen CPUs und Graphikprozessoren (GPUs) optimal ausgenutzt werden können. Damit gelang es ihnen, die Zeit zur Simulation der Nanobauteile um das Fünfzigfache zu verkürzen und deren Grösse auf über 50'000 Atome zu erhöhen. Die Anzahl der Atome entspricht der realen Grösse eines Nanobauteils. «Bis anhin erlaubten die rechenintensiven Modelle in der Regel nur eine Simulation von Systemen bestehend aus maximal 1000 Atomen», betont Luisier.
 
 Um das Verhalten von Nanobauteilen zu simulieren, müssen Quanteneffekte berücksichtigt werden, die bei den winzigen Strukturen auftreten. Luisier arbeitet hierfür seit über zehn Jahren an einer Software namens OMEN. Nun hat sich der Forscher mit VandeVondele zusammen getan, der den sogenannten CP2K-Code mit- und weiterentwickelt hat. Der Code ist darauf spezialisiert, die Verteilung der Elektronen «ab-initio» – also auf der Grundlage physikalischer Gesetze ohne Einbezug empirischer Daten –, durch sogenannte Wellenfunktionen in einem in sich geschlossenen System zu bestimmen. Ein solches System sind etwa Moleküle, die einen Nano-Transistor aufbauen. Wird an den Transistor jedoch eine Spannung angelegt, durchfliessen ihn die Elektronen. Um deren Transport zu simulieren, berechnet OMEN ihren Fluss sowie die Wechselwirkung zwischen den Elektronen, die den Transistor durchfliessen. Sowohl die ab-initio-Berechnungen der Kristalleigenschaften mit CP2K als auch die des Elektronentransports mit OMEN sind enorm komplex.
 
@@ -32,13 +34,13 @@ Wie im Experiment zeigt die Simulation Blut, das durch ein System aus in Reihen 
 
 Die Suche nach einer Tumorzelle im Blut gleiche der Suche nach einer Nadel in einem fliessenden Heuhaufen, sagt Koumoutsakos: In einer Milliarde roter Blutkörperchen befindet sich eine Tumorzelle. Die Tumorzellen im Blut sind jedoch dafür verantwortlich, dass 90 Prozent der jährlich acht Millionen Krebsopfer an Metastasen sterben. Pro Milliliter Blut hat der Mensch zwischen vier und sechs Milliarden rote Blutkörperchen. Solche Trennvorrichtungen könnten deshalb zur Diagnose genutzt werden, dereinst vielleicht sogar zur Eliminierung von Tumorzellen aus dem Blut.
 
-## Gordon Bell Prize
-
 Das «In-Silico Lab-on-a-Chip», wie Koumoutsakos die Simulation bezeichnet, stelle die Laborexperimente nach und stütze diese. Der ETH-Professor ist davon überzeugt, dass solche numerische Simulationen die Pharmaindustrie unterstützen können.
 
 Koumoutsakos beschäftigt sich mit seinem Team seit über einem Jahrzehnt mit der Erforschung von Prozessen, die beim Tumorwachstum eine Rolle spielen. Nachdem er erst die Angiogenese simulierte, also wie Tumorzellen das Wachstum von Blutgefässen anregen und damit den Transport dieser Zellen in die Blutbahn ermöglichen, war sein nächstes Ziel, den Blutfluss in den Kapillaren des Blutsystems zu simulieren. Damit wollte er sichtbar machen, wie die Zellen darin zusammenspielen. «Das Problem ist aber, dass die vom Tumor erzeugten Blutgefässe so ineinander verwoben sind, dass es dazu keine gute Beschreibung gibt. Deshalb sind wir nicht in der Lage, sie in den Simulationen zu rekonstruieren», sagt Koumoutsakos.
 
 Nachdem er die realen Experimente zur Separierung von Tumorzellen gesehen hatte, kam ihm die Idee, über diesen Weg das Verhalten der Zellen im Blut zu untersuchen. George Karniadakis von der Brown University hatte das nötige Knowhow in der Simulation der sogenannten dissipativen Teilchendynamik, mit welcher der Blutfluss als eine Art Sammlung individueller Teilchen simuliert wird. Diego Rossinelli vom CSElab und weitere Teammitglieder fügten die Ansätze zu einem Modell zusammen und optimierten Codes, bevor die Simulation auf Titan gelang.
+
+## Gordon Bell Prize
 
 Der von der Association for Computing Machinery seit 1987 gestiftete «Gordon Bell Prize», benannt nach dem berühmten gleichnamigen Computeringenieur und Pionier im Bereich des High Performance Computing, wird seit 1987 auf der jährlich in den USA stattfindenden Supercomputer Conference (SC) verliehen. Der Preis ist mit 10’000 Dollar dotiert und zeichnet bedeutende Errungenschaften im Hochleistungsrechnen aus. Mit ihm soll die Entwicklung des massiv parallelen Rechnens, bei der mehrere Rechenoperationen gleichzeitig parallel laufen, gefördert und vorangetrieben werden.
 

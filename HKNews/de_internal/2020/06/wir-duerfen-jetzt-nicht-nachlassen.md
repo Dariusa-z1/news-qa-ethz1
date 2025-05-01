@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2020/06/wir-duerfen-jetzt-nicht-nachlassen.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Intern aktuell: Herr Weidmann, der Bundesrat hat am 19. Juni weitere Lockerungen beschlossen, und unter anderem den Schutzabstand von 2 Metern auf 1,5 Meter verringert. Wie beeinflusst der Bundesratsentscheid die Regeln, die an der ETH gelten? Ueli Weidmann: Zunächst: Wir sind erfreut über die aktuelle Situation, erachten sie aber noch als sehr labil. Wir müssen weiterhin alles unternehmen, um Infektionsherde an der ETH Zürich zu vermeiden. Diese würden die Sessionsprüfungen in Frage stellen, was für uns eine Katastrophe wäre. Bezüglich der Distanzregeln haben wir immer jene des Bundes übernommen; damit gelten nun die 1,5 Meter grundsätzlich auch bei uns. Zur Risikominimierung empfehlen wir aber, wo möglich bei den bisherigen 2 Metern zu bleiben. Zur Belegung von Arbeitsräumen und Sitzungszimmern macht der Bund keine neuen Aussagen. Es gilt daher weiterhin: Für Arbeitsplätze pro Person 10 Quadratmeter, in Sitzungszimmern 4 Quadratmeter. Und immer die Abstandsregel einhalten!

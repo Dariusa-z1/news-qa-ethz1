@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2019/09/recruitment.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Every year, around 1,000 positions are published on ETH Zurich’s job portal. These are now being created using the recruitment software softfactors, which offers recruiters a convenient way to create and publish job ads, and provides support with pre-selection and efficient applicant management.

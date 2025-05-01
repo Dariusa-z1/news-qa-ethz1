@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2020/03/individuelle-beratung-zu-ihren-fragen.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Ab sofort bieten wir Book a Librarian auch via Skype for Business an. Vereinbaren Sie noch heute einen Termin mit uns, falls Sie Fragen zu einer Datenbank, Rechercheunterstützung oder den Dienstleistungen der ETH-Bibliothek, wie z.B. zum Bildarchiv, dem Open-Access-Publizieren oder dem Forschungsdatenmanagement haben.

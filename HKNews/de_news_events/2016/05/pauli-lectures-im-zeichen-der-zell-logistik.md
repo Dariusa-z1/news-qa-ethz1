@@ -2,13 +2,9 @@
 
 **Source:** de_news_events/2016/05/pauli-lectures-im-zeichen-der-zell-logistik.html
 
+**Date processed:** 2025-05-01
+
 ## Paketdienst nach Schlüssel-Schloss-Prinzip
-
-- Montag, 30. Mai 2016, 20:15 h (ETH Zentrum, Auditorium Maximum, HG F 30)
-
-- Dienstag, 31. Mai 2016, 20:15 h (ETH Zentrum, Auditorium Maximum, HG F 30)
-
-- Mittwoch, 1. Juni 2016, 15:30 h (ETH Hönggerberg, Hörsaal HCI G3).
 
 Ähnlich einer chemischen Fabrik stellen Zellen unablässig verschiedenste Proteine her, die sie nach der Synthese rasch an ihren Bestimmungsort transportieren müssen. Einige dieser Moleküle sind zum Export an die Zelloberfläche bestimmt, andere nehmen Funktionen im Zellinnern wahr. Um Stoffe zu transportieren, verwenden Zellen ein raffiniertes Distributionssystem: Sie verpacken die frisch hergestellten Proteine in winzige bläschenförmige Fähren, genannt Vesikel. Diese bringen die spezielle Fracht zur richtigen Zeit an den richtigen Ort, ohne sich in der Lieferadresse zu täuschen. Wie Zellen diese logistische Meisterleistung genau vollbringen, war lange ein Mysterium. Eine Koryphäe auf dem Gebiet des zellulären Transportsystems ist James E. Rothman, Professor für Biochemie und Zellbiologie an der Yale University. Er trug massgeblich dazu bei, das Rätsel der Zell-Logistik zu lösen.
 
@@ -18,17 +14,24 @@ Die Vesikel, die das Frachtgut in ihrem Innern durch die Zelle transportieren, s
 
 Dieser Prozess der Warenabgabe – die sogenannte intrazelluläre Membranfusion – ist ein fundamentaler Mechanismus in der Biologie: Er spielt eine zentrale Rolle bei Zellwachstum und Zellteilung. Ausserdem ist er medizinisch relevant, da Fehler in der Logistikkette zu schwerwiegenden Krankheiten führen können. Indem Rothman die Membranfusion charakterisierte, lieferte er das Grundprinzip für eine Vielzahl wichtiger physiologischer Abläufe, darunter die Freisetzung des Hormons Insulin in die Blutbahn, die Kommunikation zwischen den Nervenzellen im Gehirn sowie die Infektion von Zellen durch Viren.
 
-## Mit dem Blick eines Nobelpreisträgers
-
 Rothman wurde dank seinen bahnbrechenden Erkenntnissen zu den zellulären Transportwegen international bekannt und erhielt für seine Arbeit zahlreiche Auszeichnungen, deren Krönung der Nobelpreis für Physiologie im Jahr 2013 ist. Das Departement Biologie der ETH Zürich würdigt nun Rothmans Forschungsleistung und hat ihn aus diesem Grund eingeladen, die diesjährigen Wolfgang-Pauli-Vorlesungen zu halten.
 
 In der ETH-Vorlesungsreihe, die am nächsten Montag beginnt, wird der 65-jährige Rothman zunächst über die Bedeutung der Forschung für die Gesellschaft sprechen und darüber, was es braucht, um wissenschaftliche Erfolge zu ermöglichen. In einer zweiten Vorlesung wird er einen Einblick in das Transportsystem von Zellen geben und die Serie von Entdeckungen beleuchten, die 2013 zum Nobelpreis führten.
 
 Schliesslich wird Rothman auf die Kommunikation von Nervenzellen eingehen, wo die Membranfusion so schnell abläuft wie nirgends sonst in der Natur: Erreicht ein Nervenimpuls eine Synapse, setzen Vesikel an den Nervenenden in weniger als einer Millisekunde Neurotransmitter frei, welche die Information als chemische Botenstoffe auf die benachbarte Nervenzelle übertragen. Wie es möglich ist, dass derselbe Mechanismus hier rund 10‘000 mal schneller abläuft als etwa bei der Hormonausschüttung, wird Rothman in seiner dritten Vorlesung ergründen.
 
-Die Wolfgang-Pauli-Vorlesungen sind eine seit 1962 jährlich stattfindende, dreiteilige Vorlesungsreihe. Sie sind abwechslungsweise der Physik, Mathematik und Biologie gewidmet. Im Rahmen der Pauli-Vorlesungen präsentieren hervorragende Referenten ihre wegweisende Forschung. Benannt sind sie nach dem theoretischen Physiker und Nobelpreisträger Wolfgang Pauli, der von 1928 bis zu seinem Tod 1958 als Professor an der ETH Zürich wirkte. Die Vorlesungen werden auf Englisch gehalten, sind öffentlich und richten sich an ein breites Publikum mit Interesse an Naturwissenschaften. Der Eintritt ist kostenlos. Eine Anmeldung ist nicht nötig. Die Vorlesungen von James E. Rothman:
-
 ## Pauli Lectures 2016
+
+On the Role of Scientific Research in Society, and Lessons Learned from a Life in Science
+
+• Montag, 30. Mai 2016, 20:15 h (ETH Zentrum, Auditorium Maximum, HG F 30)
+On the Sorting of Proteins to Compartmentalize the Cell – the Story of Three Nobel Prizes from a Modern Perspective
+
+• Dienstag, 31. Mai 2016, 20:15 h (ETH Zentrum, Auditorium Maximum, HG F 30)
+On the Structural Biochemical Mechanism of Synaptic Neurotransmission in the Brain
+
+• Mittwoch, 1. Juni 2016, 15:30 h (ETH Hönggerberg, Hörsaal HCI G3).
+Die Wolfgang-Pauli-Vorlesungen sind eine seit 1962 jährlich stattfindende, dreiteilige Vorlesungsreihe. Sie sind abwechslungsweise der Physik, Mathematik und Biologie gewidmet. Im Rahmen der Pauli-Vorlesungen präsentieren hervorragende Referenten ihre wegweisende Forschung. Benannt sind sie nach dem theoretischen Physiker und Nobelpreisträger Wolfgang Pauli, der von 1928 bis zu seinem Tod 1958 als Professor an der ETH Zürich wirkte. Die Vorlesungen werden auf Englisch gehalten, sind öffentlich und richten sich an ein breites Publikum mit Interesse an Naturwissenschaften. Der Eintritt ist kostenlos. Eine Anmeldung ist nicht nötig. Die Vorlesungen von James E. Rothman:
 
 On the Role of Scientific Research in Society, and Lessons Learned from a Life in Science
 

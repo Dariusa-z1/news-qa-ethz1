@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2020/01/mountain-vegetation-dries-out-streams.html
 
+**Date processed:** 2025-05-01
+
 ## Green water predominates in dry and warm summers
 
 Until now, scientists assumed that most plants suffer from water stress during droughts: they close their stomata to retain water, stop growing and, in the worst case, wither. As a result, there is a decrease in evaporation and transpiration of water from vegetation, soil and water surfaces – a process that experts call evapotranspiration. “But despite dry and warm conditions, droughts are not occurring at higher altitudes in, say, forested mountain areas,” says Simone Fatichi, senior assistant at the ETH Zurich Institute of Environmental Engineering.
@@ -10,15 +12,13 @@ Analyses of observations and computer model simulations from the heatwave of sum
 
 This is because warmth and abundant sunshine promote vegetation growth. But at the same time, the vegetation has a higher metabolism, and so it essentially sucks every last drop of water from the ground in order to grow. For that reason, evapotranspiration was much greater than expected at higher altitudes during the droughts studied.
 
-## Global warming amplifies evapotranspiration
-
 Fatichi and his colleagues have now investigated this phenomenon across large areas in the European Alps for the first time, with the help of a computer model. This enabled them to quantify the share of “green” water, i.e. water that reaches the air through evapotranspiration, in proportion to that of “blue” water, the water that runs off into streams, rivers and lakes.
 
 The researchers populated their model with data recorded at more than 1,200 stations throughout the Alpine region that measure, among other things, meteorological parameters and river runoff.
 
 On the basis of their simulation, Fatichi and his doctoral student Theodoros Mastrotheodoros calculated that in forested mountain areas 1,300–3,000 metres above sea level, evapotranspiration rates were above average in large parts of the Alps during the heatwave of 2003.
 
-## Reference
+## Global warming amplifies evapotranspiration
 
 That summer, Alpine water fluxes were on average only half their usual volume and, according to the ETH researchers’ calculations, one third of this runoff deficit was attributable to evapotranspiration. Fatichi emphasises that “it is therefore the vegetation at this altitude that was instrumental in draining the half-dry rivers and streams.”
 
@@ -27,6 +27,8 @@ As part of their investigation, the researchers also simulated a temperature ris
 As a result, discharge volumes in rivers and streams will come under even greater pressure in future. “As summers become warmer and drier, we’ll see a shift towards more green and less blue water,” Fatichi says. In the long term, this will endanger the supply of water to the lower-lying regions in and around the Alps, he explains.
 
 Several factors play into this scenario: global warming is expected to result in a general reduction in precipitation, glaciers are set to dwindle and, in dry and warm summers, evapotranspiration will intensify the problem of lower runoff volumes. Such circumstances could cast some doubt over the Alps’ role as the “water towers of Europe”. Four of Europe’s major rivers, the Rhine, Rhône, Inn and Po, originate in the Alps. Together, they supply around 170 million people with water and play a crucial role in power generation and agriculture. A large part of Europe therefore depends on the blue water from the Alps, leading Fatichi to ask the question, “can we really afford to allow the volumes of this water to decline?”
+
+## Reference
 
 Mastrotheodoros T et al.: More green and less blue water in the Alps during warmer summers. Nature Climate Change, 27 January 2019, doi: 10.1038/s41558-019-0676-5
 

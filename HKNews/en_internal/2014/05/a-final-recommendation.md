@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2014/05/a-final-recommendation.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 In my second column I highlighted the recent ETH Rector election. The elected candidate, professor Springman, is a co-founder and a board member of the ETH WPF. We are happy to congratulate Sarah Springman for her successful nomination.
@@ -21,6 +23,8 @@ A second piece of advice from the APS recommendation is the rotation of faculty 
 I make these recommendations in the interest of strengthening ETH and promoting its success. Success at ETH opens the doors for Switzerland to the rest of the world. As a student, I personally benefited from this, receiving funding from the U.S. to obtain my Ph.D. at Stanford University. Ultimately, I was able to return to ETH as a tenured professor.
 
 I am deeply grateful to ETH for providing the environment for my success, both as a student and as a professor. Nonetheless, my experience has also illuminated ways in which the ETH system has neglected to make the most of the talent that is available to it. The APS «Best Practices for Female Faculty» would have made a big difference to me as a young faculty member, and I urge the ETH to adopt them as a key component of good governance.
+
+## About the Author
 
 Ursula Keller was born 1959 in Zug. She has been a physics professor at ETH since 1993, and director of the NCCR MUST since 2010. She obtained her Masters at ETH Zurich in 1984, and her Ph.D. at Stanford University in 1989, and before returning to ETH she worked as an independent researcher at AT&T Bell Laboratories. Her current research group explores ultrafast science and laser technology, using this competitive know-how to understand and control fundamental charge and energy transport with atomic spatial and attosecond temporal resolution. Ursula has received several international prizes, as well as a European Research Council (ERC) Advanced Grant. She currently serves as the president of the ETH Women Professors Forum ( ETH WPF ).
 

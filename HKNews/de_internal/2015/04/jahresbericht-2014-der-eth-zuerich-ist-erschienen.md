@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2015/04/jahresbericht-2014-der-eth-zuerich-ist-erschienen.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Das Wachstum der ETH Zürich hat sich im Jahr 2014 weiter fortgesetzt. Insgesamt haben Ende 2014 rund 18 500 Frauen und Männer an der ETH Zürich studiert, so viele wie noch nie zuvor.

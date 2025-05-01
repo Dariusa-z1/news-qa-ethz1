@@ -2,15 +2,17 @@
 
 **Source:** en_news_events/2018/12/blog-anthony-patt-energiesparen.html
 
-## A drop in the ocean
+**Date processed:** 2025-05-01
+
+## Main article
 
 During the summer heat wave of 2018, the Swiss media reported that the elderly were especially suffering. In order to achieve the climate policy goals, there was no possibility to turn on air conditioning in Zürich homes for the elderly. 1 Reducing energy consumption is good. But does climate protection demand that people suffer, even the elderly, when the temperature goes high? The standard answer seems to be yes. The logic is simple. Most of the energy people use comes from fossil fuels, which are the main cause of climate change. So it would seem logical that people need to use less energy.
+
+## A drop in the ocean
 
 But there is an important omission in this logic. It stems from the fact that to stop climate change, we need not just to reduce our CO 2 emissions, but rather to eliminate them entirely. Once none of our energy comes from fossil fuels, then the climate won’t care how much energy we use.
 
 Of course this isn’t the entire story either. It will take time before we can switch to entirely renewable energy, across all sectors of the economy. So there are two important questions worth investigating:
-
-## Unclear effect on transition
 
 First, does the energy we save, during this period of transition to purely renewable energy, make much of a difference? Second, will efforts to conserve energy also accelerate the shift to renewable energy, or could they even slow this shift down?
 
@@ -18,7 +20,7 @@ We recently examined the first of these questions. 2 The short answer: saving en
 
 The climate turns out to be remarkably insensitive, however, to changes in energy efficiency. Under one set of assumptions, which includes current trends in improving energy efficiency, the deadline to go fossil-free is 25 years from now, 2043. With a great deal of effort, we could double the rate of improvement in energy efficiency, from the current trend of 1.5% improvement per year to 3%. How much would that shift the deadline? Only one year, moving it from 2043 to 2044. Saving energy buys us almost no time.
 
-## References
+## Unclear effect on transition
 
 What about the second question: will saving energy make it easier or harder to go fossil-free in such a short amount of time? The short answer is that we don’t really know. There are arguments going in both directions, but little in the way of any hard evidence. There is more than enough wind and sunshine available to completely replace the fossil fuels we currently use.
 
@@ -26,11 +28,13 @@ One argument supporting energy efficiency is that the less energy we use, the le
 
 On the other hand, there is reason to believe that the investment climate will be more conducive both to innovation, and to building the needed infrastructure, if overall energy demand is growing, or at least not shrinking too fast. Indeed, there are some cases where using more energy could be helpful. In one study, for example, we found the future costs of integrating large amounts of solar into the energy system to be far less if we assume that future electricity demand is highest in the summer, rather than in the winter. 3 That happens when people use air conditioning.
 
-## About the author
-
 Of course, there are a lot of reasons to save energy. But we don’t stop climate change by using less energy. We stop climate change by using different energy.
 
+## References
+
 1 Huber, M. Senioren leiden in Zürcher Altersheimen für den Klimaschutz. Tages Anzeiger (13.10.2018). 2 Patt, A., van Vliet, O., Lilliestam, J. & Pfenninger, S. Will policies to promote energy efficiency help or hinder achieving a 1.5°C climate target? Energy Efficiency (2018). doi 3 Pfenninger, S. et al. Potential for concentrating solar power to provide baseload and dispatchable power. Nature Clim. Change 4, 689–692 (2014).
+
+## About the author
 
 Anthony Patt Professor of climate policy at ETH Zurich
 

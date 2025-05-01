@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2016/05/oxybromination-of-methane.html
 
+**Date processed:** 2025-05-01
+
 ## Complete bromine recycling
 
 The use of natural gas as a raw material for chemicals production is a goal pursued intensively in chemical research. Scientists working under Javier Pérez-Ramírez, Professor of Catalysis Engineering, have now succeeded in optimising a process which enables natural gas constituents to be upgraded into higher-value chemicals. “We take a molecule of the natural gas constituent methane (CH 4 ) and replace one of its hydrogen atoms with a bromine atom to form methyl bromide (CH 3 Br),” explains Pérez-Ramírez. “The latter can be used as a base material in the chemical industry for the production of fuels and a range of chemicals, such as polymers and pharmaceuticals.”
@@ -14,15 +16,13 @@ The oxybromination of methane, as the reaction is called, can already be carried
 
 Vanadium phosphate is a relatively mild oxidising catalyst, and this is exactly what chemists are seeking in the oxybromination of methane. On the one hand, the catalyst is sufficiently strong to allow hydrogen bromide to react with oxygen at the catalyst’s surface. On the other hand, the catalytic action of vanadium phosphate is too weak to oxidise the unwanted methane and the brominated reaction products.
 
-## Long catalyst lifetime
-
 “Our method makes it possible to brominate methane in a single step at atmospheric pressure and at temperatures below 500 degrees Celsius. This makes it an attractive route for industry,” says Vladimir Paunović, a doctoral student in Pérez-Ramírez’s group. Currently, methane is industrially converted into higher grade chemicals using syngas as an intermediate. However, this method is extremely energy-intensive as it requires high pressures (up to 30 bar) and high temperatures (up to 1,000 degrees).
 
 The new catalyst is exceptionally stable. “Bromine is a halogen. Halogens react very readily with methane, which is desirable in this case, but they also attack the catalyst,” explains Paunović. “Our catalyst resists the corrosive reaction environment, which is essential for its potential industrial application.”
 
-## Reference
-
 The reason why chemical researchers are striving to make greater use of natural gas as a raw material for synthesis is primarily because it occurs in huge quantities. “We are currently experiencing a boom in natural gas exploration. If you include unconventional, hard to access reservoirs, such as shale gas or coal bed methane, estimates indicate that gas deposits will last for at least 100 years,” says Pérez-Ramírez. Today, the raw material typically used for chemical products is oil. Oil deposits are in decline, however, and chemists see natural gas as a suitable alternative.
+
+## Reference
 
 Paunović V, Zichittella G, Moser M, Amrute AP, Pérez-Ramírez J: Catalyst design for natural-gas upgrading through oxybromination chemistry. Nature Chemistry, 23 May 2016, doi: 10.1038/nchem.2522
 

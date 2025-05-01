@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2021/02/swimming-upstream-on-sound-waves.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 At some point, microvehicles that are small enough to navigate our blood vessels will enable physicians to take biopsies, insert stents and deliver drugs with precision to sites that are difficult to reach, all from inside the body. Scientists around the world are currently researching and developing suitable microvehicles. In most cases, they are powered and controlled by acoustic and magnetic fields or using light. However, until now, propelling microvehicles against a fluid flow had proved to be a major challenge. This would be necessary for the micromachines to be able to navigate in blood vessels against the direction of blood flow. Researchers at ETH Zurich have now developed microvehicles that are manipulated by an external field and can swim against the flow.
@@ -15,6 +17,8 @@ Using ultrasound at a specific frequency, the scientists first guided the cluste
 As their next step, the researchers intend to investigate how the microvehicles respond in the blood vessels of animals. “As both ultrasound waves and magnetic fields penetrate body tissue, our method is ideal for controlling microvehicles inside the body,” says ETH Professor Ahmed.
 
 Microsurgery, such as unclogging blocked blood vessels, is one of the future applications the researchers hope this method will serve. Moreover, the microvehicles could one day be used to deliver cancer drugs to tumours via the blood vessels and release them directly into the tumour tissue. Lastly, another area of application is transferring drugs from blood vessels into the tissues of the brain.
+
+## Reference
 
 Ahmed D, Sukhov A, Hauri D, Rodrigue D, Maranta G, Harting J, Nelson BJ: Bioinspired acousto-magnetic microswarm robots with upstream motility, Nature Machine Intelligence , 11 January 2021, doi: 10.1038/s42256-020-00275-x
 

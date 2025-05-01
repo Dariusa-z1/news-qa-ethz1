@@ -2,7 +2,9 @@
 
 **Source:** en_internal/2024/01/alle-anspruchsgruppen-fruehzeitig-an-bord-holen.html
 
-## About Hannes Pichler
+**Date processed:** 2025-05-01
+
+## Main article
 
 Do you already feel at home at ETH? I’ve settled in very well at ETH Zurich and was warmly welcomed by everyone. That made it a lot easier for me to get started. Since then I have been able to visit many divisions and departments and have had many interesting conversations with people from teaching, research and administration.
 
@@ -18,8 +20,6 @@ Do ETH’s savings measures have an impact on Real Estate Management and thus on
 
 One innovation under your leadership is cost optimisation through new management processes. What does that mean? For selected new large-scale projects – such as the HWS on Hönggerberg – we rely on integrated project management. Compared to conventional project management, many processes run in parallel from the outset and with early involvement of the main stakeholders. This shortens planning processes, creates incentives for all parties involved and encourages cooperation.
 
-## Always up to date
-
 What other innovations are you working on? The existing prioritisation procedure for space and retrofitting applications will be changed from 2024. It will again be possible to submit space and retrofitting applications at any time and not just for a particular cut-off date once a year. This will allow for faster, ongoing processing of applications, with several budget committee meetings being held each year to prioritise them. We expect a number of benefits, including the more equal use of our resources and even closer cooperation with our applicants.
 
 Sustainability and digitalisation/BIM are becoming increasingly important. Where does ETH stand with its real estate on these issues? The megatrends of digitalisation and the circular economy are having a major impact on the real estate sector. Together with our colleagues in the office of the Vice President for Infrastructure, we are working on these issues. Our vision is a “digital campus”, i.e. a digital twin of our infrastructure as a central platform for building information. The resulting data would serve as the basis for all processes – from ordering new infrastructure to demolishing existing pieces. Digital knowledge of the structure of our buildings enables efficient solutions, be it simulating the best possible energy supply or reusing existing components in the spirit of the circular economy.
@@ -29,6 +29,8 @@ Sharing office workstations, laboratories and workshops is also sustainable: wil
 The requirements of the Real Estate Management Department are manifold: what questions/requests do you hear most often from other departments? Our employees are highly valued by the departments – that is my impression from various bits of feedback. Wanting to work even more closely with them is the most common desire I’ve heard in my first year. Of course, we would like to see even closer exchange, which we are promoting, among other things, through the new prioritisation process.
 
 How do you unwind after all these challenges? My two little daughters provide enough variety and make sure that I stay active in my private life. I also like to ride my motorcycle and ski.
+
+## About Hannes Pichler
 
 Hannes Pichler has a degree in engineering (Dipl. Masch.-Ing.) from ETH, an MBA from HSG and completed an MAS in Real Estate Management in autumn 2023. He has been Director of the Real Estate Management Department at ETH Zurich since February 2023. Prior to that, he was Head of Real Estate Services at Empa from 2012, responsible for the portfolio of the ETH Domain’s research institutes. From 2006 to 2012 he worked for Holcim in industrial and plant engineering.
 

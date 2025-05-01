@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2023/03/neue-normenplattform-mit-zugriffserweiterung-auf-iec-normen.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Ab sofort können Normen auf externe Seite der neuen Plattform norml recherchiert werden, die mit zahlreichen Verbesserungen wie zum Beispiel einer Volltextsuche punktet. Der Zugriff auf die bisherige Plattform ist noch bis zum 31. März 2023 möglich.

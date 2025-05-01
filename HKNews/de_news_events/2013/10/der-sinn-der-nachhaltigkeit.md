@@ -2,19 +2,15 @@
 
 **Source:** de_news_events/2013/10/der-sinn-der-nachhaltigkeit.html
 
+**Date processed:** 2025-05-01
+
 ## Neoklassische versus Evolutionsökonomik
 
 Insbesondere, da die erste Antwort auf diese Frage, die ich selbst vor zwanzig Jahren hörte, als das Konzept der «nachhaltigen Entwicklung» noch relativ jung war, «nein» lautete.
 
-## Hindernisse und Möglichkeiten
-
 Die negative Antwort stammte von einem Professor für Umwelt- und Ressourcenökonomik, und sie hatte mit der Unterscheidung zwischen der Nachhaltigkeit im Umgang mit einer bestimmten Umweltressource und der Nachhaltigkeit des gesellschaftlichen Gemeinwohls zu tun. Billige fossile Brennstoffe etwa haben es den Leuten ermöglicht, hochproduktiv zu sein und reich zu werden. Dieser Reichtum hilft wiederum dabei das Energiesystem der nächsten Generation zu erfinden, in welchem fossile Brennstoffe keine Rolle mehr spielen, und wird in dieses investiert. Die Erschöpfung einiger Ressourcen könnte eine Voraussetzung für ein höheres Gemeinwohl in der Zukunft sein. Ähnlich wie für ein Kind das Leeressen seines Tellers die Voraussetzung sein mag, dass es Dessert bekommt. Überdies steigen die Marktpreise für Ressourcen umso mehr, je knapper eine bestimmte Ressource wahrgenommen wird. Das bedeutet, dass umso weniger Leute sich eine Ressource leisten können oder wollen, je näher diese ihrer Erschöpfung ist. Als Folge davon sind die einzigen Ressourcen, die sich vollständig erschöpfen werden, entweder jene mit wenig oder keinem wirtschaftlichen Nutzen, oder solche, für welche es Ersatz gibt. Es besteht also tatsächlich kein Grund zur Sorge.
 
-## Zum Autor
-
 Besagter Professor war ein extremes Beispiel eines neoklassischen Ökonomen. Diese Sorte Ökonomen gehen von einer Reihe vernünftiger Annahmen über das menschliche Verhalten aus und formalisieren diese mathematisch. Aufbauend auf diesen Annahmen zeigen sie, dass eine Marktwirtschaft, die über eine Reihe an Ressourcen, Technologien und den nötigen Fähigkeiten ihrer Arbeiter verfügt, diese Ressourcen effizient verteilt und den Leuten dadurch zum grösstmöglichen Wohlstand verhilft. Gefährlich wird es, wenn Märkte unvollständig sind. Ein Beispiel dafür liefert die Umweltverschmutzung. Eine nachlässige Firma kann den Schmutz, den sie verursacht, bei ihren Nachbarn abladen und nicht für die Folgen zahlen. Die simple Lösung der neoklassischen Ökonomen liegt darin, ein Rechtssystem zu schaffen, in welchem sie zahlen muss. Beispielsweise durch eine Umweltsteuer, oder indem sie sich die Rechte zur Umweltverschmutzung im Voraus erkaufen muss.
-
-## Keinen Beitrag verpassen
 
 Aber neoklassische Ökonomen sind nicht allein. Die Evolutionsökonomik etwa ist ein ziemlich neuer Zweig der Wirtschaftswissenschaft, der explizit den Fall eines technologischen Wandels prüft und analysiert, wie Leute lernen, Technologien in Echtzeit zu nutzen. Sie zeigen, dass die Leute oftmals bei unterlegenen Technologien bleiben, wenn sich dies auszahlt, einfach weil sie mit diesen vertraut sind und auch alle anderen diese nutzen. Deshalb könnte sich der Markt in einem von vielen Gleichgewichten einpendeln, wovon einige bedeutend mehr zum Gemeinwohl beitragen als andere. Welches Gleichgewicht, das ist schwierig oder sogar unmöglich vorherzusehen. Politische Interventionen können die Gesellschaft erfolgreich aus einem schlechten Gleichgewicht herausholen und in ein besseres überführen, aber üblicherweise müssen sie auf dem Weg zum Wandel verschiedene Hindernisse überwinden. Diese Hindernisse können ökonomischer, aber auch gesellschaftlicher, psychologischer oder institutioneller Art sein.
 

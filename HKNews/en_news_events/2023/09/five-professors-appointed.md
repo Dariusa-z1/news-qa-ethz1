@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2023/09/five-professors-appointed.html
 
+**Date processed:** 2025-05-01
+
 ## New appointments at ETH Zurich
 
 (Photograph: Dora Gaviria)
@@ -14,9 +16,9 @@ Dr Mennatallah El-Assady (*1991), currently Research Fellow at ETH Zurich, as Te
 
 (Photograph: ETH Zurich)
 
-## Promotions at ETH Zurich
-
 Dr Nicolò Defenu (*1988), currently Postdoctoral Researcher at ETH Zurich, as Assistant Professor of Quantum Physics in the Department of Physics. Nicolò Defenu’s research is concerned with statistical physics and field theory, and makes use of methods derived from the renormalisation group and non-linear dynamics. He has a particular interest in long-range interacting quantum systems. Nicolò Defenu’s teaching experience includes giving lectures and lecture series, as well as supervising students at all levels. The European Research Council awarded him an ERC Starting Grant, which is subsidised by the State Secretariat for Education, Research and Innovation (SERI).
+
+## Promotions at ETH Zurich
 
 (Photograph: Kaska Nowak)
 

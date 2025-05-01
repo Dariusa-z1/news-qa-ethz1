@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2017/06/gravitationsforscherin-auf-der-suche-nach-schwerelosigkeit.html
 
+**Date processed:** 2025-05-01
+
 ## Interdisziplinäre Brückenbauerin
 
 Wer Lavinia Heisenbergs Curriculum Vitae anschaut, stolpert zwangsläufig über zwei Dinge: über ihren Namen und ihr Alter. Natürlich werde sie ständig auf eine Verwandtschaft mit dem Vater der Quantenmechanik und Nobelpreisträger Werner Heisenberg angesprochen, erzählt die Physikerin. «Ich antworte meist mit Heisenbergs eigenen Worten bezüglich seiner Unschärferelation: it's uncertain.» Denn der Blick auf den Stammbaum gibt keine eindeutige Antwort. Für Lavinia Heisenberg ist der bekannte Name vor allem Ansporn, um aus dem Schatten des Physik-Übervaters zu treten und mit eigener, bahnbrechender Forschung von sich reden zu machen. Sie ist auf bestem Weg dazu: Mit 33 Jahren hat Heisenberg in einem Dutzend Ländern an renommierten Universitäten gearbeitet, ihre Publikationsliste ist mehrere Seiten lang und aktuell steckt sie im Bewerbungsverfahren für eine erste eigene Professur.
@@ -13,8 +15,6 @@ Heisenberg beschreibt ihre Arbeitsschwerpunkte wie folgt: «Erstens bin ich theo
 Über die Titel und Abstracts von Heisenbergs Publikationen kann sich der Laie schlecht ein Bild ihres Forschungsalltags machen. Doch die Forscherin weiss die Verwirrung in einfachen Worten aufzulösen. Physikerinnen und Physiker kennen zwei grundsätzliche Modelle: Für die Beschreibung der mikroskopischen Welt die Teilchenphysik, darunter die Quantenmechanik. Und für die Beschreibung der makroskopischen Welt, also des Weltalls, die Kosmologie. Lavinia Heisenberg beschäftigt sich mit letzterem, wobei ihr Fokus auf der Gravitation liegt, eine von vier Grundkräften in der Physik. «Einsteins Allgemeine Relativitätstheorie ist nach wie vor die beste, um Gravitation zu beschreiben, aber sie ist nicht vollständig», sagt Heisenberg. «Auf kleinen Skalen wissen wir nicht, wie wir die Theorie mit der Quantenmechanik vereinbaren sollen.»
 
 Die Unvollständigkeit zeigt sich aber auch durch Vergleiche auf grossen Skalen, zum Beispiel anhand von Messungen zur beschleunigten Expansion des Universums und des Verhaltens von Galaxien. «Damit Theorie und Beobachtungen übereinstimmen, müssen wir sehr seltsame Annahmen treffen», erklärt Heisenberg. «Demnach bestehen 95 Prozent des Universums aus dunkler Materie und dunkler Energie. Beides konnte die Wissenschaft bis heute nicht nachweisen.»
-
-## Der Traum vom Weltall
 
 Heisenberg brütet deshalb seit Jahren darüber, wie Einsteins Theorie modifiziert werden könnte, damit keine «exotischen» Materien und Energien nötig sind, um Gravitation und damit die Entstehung sowie die Entwicklung des Universums zu erklären. «Sie müssen sich eine physikalische Theorie wie einen Baum mit vielen Ästen vorstellen», erklärt sie. «Wenn sich der Stamm verändert, dann hat das Konsequenzen bis in die äussersten Spitzen der Baumkrone.» Bis Stamm, Äste und Zweige wieder zusammenpassen, rechnet Heisenberg oft wochenlang. Meist braucht sie dafür nur Bleistift und Schreibblock, gelegentlich auch spezialisierte Software. Das ist zeitintensiv. Trotzdem will Heisenberg nicht akzeptieren, dass es in der Gravitationstheorie nach wie vor viele Unbekannte gibt. «Ich will das verstehen; ich kann nicht anders», sagt sie.
 

@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2015/09/professoren-und-professorinnen-ernannt.html
 
+**Date processed:** 2025-05-01
+
 ## Ernennungen
 
 Wie der ETH-Rat mitteilt, hat er an seiner Sitzung vom 23. und 24. September 2015 auf Antrag des Präsidenten der ETH Zürich, Lino Guzzella, neun Personen zum Professor an der ETH Zürich ernannt, den Rücktritt von acht Professoren und Professorinnen mit Verdankung zur Kenntnis genommen und drei Professorentitel verliehen.
@@ -20,8 +22,6 @@ Prof. Benjamin Dillenburger (*1977), zurzeit Assistenzprofessor an der Universit
 
 Marco Hutter. (Bild: zvg)
 
-## Verleihung des Titels «Professor»
-
 Dr. Marco Hutter (*1985), zurzeit stellvertretender Laborleiter an der ETH Zürich, zum Tenure-Track-Assistenzprofessor für Robotersysteme. Marco Hutter ist ein weltweit anerkannter Vordenker im Bereich des maschinellen Laufens. Sein Fokus liegt auf neuartigen Konzepten von seriell-elastischen Antriebs­systemen, die ein äusserst effizientes und dynamisches Laufen und Rennen von vierbeini­gen Robotern ermöglichen. Ein von seinem Team entwickeltes Antriebsmodul wird in naher Zukunft in der industriellen Fertigung von Schreitbaggern eingesetzt werden. Marco Hutters Berufung wird die Spitzenposition der ETH Zürich in der Forschung auf dem Gebiet der Robotik weiter ausbauen und die beiden Nationalen Forschungsschwerpunkte Digitale Fabri­kation und Robotik massgebend stärken.
 
 Christoph Keller (Bild: zvg)
@@ -38,11 +38,11 @@ Prof. Dr. Christoph Müller (*1978), zurzeit Tenure-Track-Assistenzprofessor an 
 
 Onur Mutlu. (Bild: zvg)
 
-## Verabschiedungen
-
 Prof. Dr. Onur Mutlu (*1978), zurzeit ausserordentlicher Professor an der Carnegie Mellon University, Pittsburgh, USA, zum ordentlichen Professor für Informatik. Onur Mutlu gilt im Bereich Computer Engineering als einer der vielversprechendsten Wissenschafter weltweit und hat sich mit Beiträgen zu Topkonferenzen ein hohes Renommee erarbeitet. Seine Forschung befasst sich mit dem Design von schnellen, skalierbaren und energieeffizienten Computern und insbesondere ihrer Speicher­architektur. Weitere Forschungsthemen sind biologi­sches Rechnen und bioinspirierte Systeme. Onur Mutlus Berufung stärkt den Bereich Computersysteme der ETH Zürich. Zudem ergeben sich interessante Querverbindungen zu aktuellen Forschungsfragen wie Datenzentren, Netzwerke und Betriebssysteme.
 
 Gunnar Rätsch. (Bild: zvg)
+
+## Verleihung des Titels «Professor»
 
 Prof. Dr. Gunnar Rätsch (*1973), zurzeit ausserordentlicher Professor am Memorial Sloan Kettering Cancer Center in New York, USA, zum ordentlichen Professor für Biomedizininformatik. Gunnar Rätsch ist ein international renommierter Spezialist für Medizin- und Bioinformatik. Er entwickelt modernste statis­tische Verfahren, um Gene in genomischen Sequenzdaten zu entdecken und damit medizi­nische Informationen zu extrahieren. Dieses Wissen verknüpft er mit grossen Datenmengen etwa aus Spitalarchiven und trägt so dazu bei, die personalisierte Medizin voranzutreiben. Mit der Berufung von Gunnar Rätsch verstärkt die ETH Zürich gezielt die Forschung und Lehre an der Schnittstelle zwischen Informationstechno­logie und Medizin sowie parallel dazu den strategischen Schwerpunkt Big Data.
 
@@ -56,7 +56,7 @@ Dr. Stefanie D. Krämer (*1964), Lehrbeauftragte und Leitende Wissenschaftliche 
 
 Christoph Vorburger. (Bild: Giulia Marthaler)
 
-## Keine News verpassen
+## Verabschiedungen
 
 Prof. Dr. Christoph Vorburger (*1971), ab Oktober 2015 Gruppenleiter an der Eawag in Dübendorf, zum Titularprofessor der ETH Zürich. Christoph Vorburger ist ein international angesehener Evolutionsbiologe und ein exzellenter Hochschullehrer. Seine SNF-Assistenzprofessur am Departement Umweltsystemwissenschaften der ETH Zürich läuft Ende September 2015 aus.
 

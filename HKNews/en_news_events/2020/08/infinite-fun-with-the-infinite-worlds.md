@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2020/08/infinite-fun-with-the-infinite-worlds.html
 
+**Date processed:** 2025-05-01
+
 ## Narrowing down infinity from the plethora
 
 One of the most astonishing findings in mathematics is the discovery that there are many different types of infinities – and for a long time, it was an unresolved problem whether some of these infinities could be of different sizes without contradiction.
@@ -16,9 +18,9 @@ As Cantor demonstrated, the continuum is actually bigger than the countably infi
 
 To his disappointment, he was never able to prove this – in fact, no one has managed to establish the proof so far. On the contrary, following the Second World War, logicians Kurt Gödel (1906-1978) and Paul Cohen (1934-2007) proved that the continuum hypothesis can neither be proven nor refuted within the known axiomatic set theory. It can be assumed that there are further types of infinities or that there are none between the set of natural numbers and the continuum. Neither assumption contradicts the premises of this set theory.
 
-Like all mathematical theories, set theory is based on axioms. These are postulates or premises accepted as true from which further mathematical statements must be derived without contradiction. The ZFC axiom system, which traces back to Ernst Zermelo (1871-1953) and Abraham Fraenkel (1891-1965), has been established as the standard system of set theory and thus as the basis of mathematics as a whole. It encompasses nine axioms, including the axiom of infinity through which we can make assertions about infinite sets.
-
 ## An instinct for astonishing connections
+
+Like all mathematical theories, set theory is based on axioms. These are postulates or premises accepted as true from which further mathematical statements must be derived without contradiction. The ZFC axiom system, which traces back to Ernst Zermelo (1871-1953) and Abraham Fraenkel (1891-1965), has been established as the standard system of set theory and thus as the basis of mathematics as a whole. It encompasses nine axioms, including the axiom of infinity through which we can make assertions about infinite sets.
 
 The continuum hypothesis and the question of how many types of infinities exist still keeps mathematicians busy, although the approaches differ depending on the philosophical position. Set theorists such as Hugh Woodin, the guest speaker at the 2016 Bernays Lectures , try to refute or prove the continuum hypothesis by adding new axioms to the ZFC axioms. In doing so, Woodin follows his conviction that there can be only one "correct" set theory model. Saharon Shelah takes another somewhat more "playful" approach. He is said to love solving challenging problems and has stated that his mathematical-philosophical position is hedonism: "Mathematics is fun!"
 
@@ -34,9 +36,9 @@ In the proof mentioned at the beginning, Shelah and his Viennese colleagues expa
 
 At the Bernays Lectures, Shelah will discuss whether such an arrangement of the infinities and the cardinal arithmetic allow new insights into the continuum hypothesis. "The proof that ten infinities can be different in Cichoń's diagram is not just ground-breaking, but also typical for Shelah," says Halbeisen. "He considers mathematical matters in a completely unbiased manner and is able to see astonishing connections. His instinct for possible solutions is unerring."
 
-## Paul Bernays Lectures 2020
-
 "Shelah's discoveries have received little philosophical consideration so far, but they could lead to extremely exciting new mathematical-philosophical insights," concludes Giovanni Sommaruga, lecturer on the philosophy of formal sciences at ETH Zurich.
+
+## Paul Bernays Lectures 2020
 
 Prof. Saharon Shelah, Hebrew University Jerusalem, Israel
 
@@ -50,8 +52,6 @@ Lecture 2: HOW LARGE IS THE CONTINUUM?
 
 Tuesday, September 1, 2020, 2.15 pm, Webinar
 
-## References
-
 Lecture 3: CARDINAL INVARIANTS OF THE CONTINUUM: ARE THEY ALL INDEPENDENT?
 
 Tuesday, September 1, 2020, 4.30 pm, Webinar
@@ -59,6 +59,8 @@ Tuesday, September 1, 2020, 4.30 pm, Webinar
 All lectures are given in English and are self-​contained. Lecture 1 is aimed at a general audience; lecture 2 and 3 address the scientific community.
 
 Due to the unusual circumstances of the COVID-​​19 pandemia, the Paul Bernays Lectures 2020 will take place as a webinar. Further information .
+
+## References
 
 Goldstern, M, Kellner J, Shelah S. Cichoń's maximum. Annals of Mathematics, Vol. 190, No. 1 (July 2019), pp. 113-143. DOI: 10.4007/annals.2019.190.1.2 .
 

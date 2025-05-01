@@ -2,7 +2,9 @@
 
 **Source:** en_internal/2023/03/thomas-meierhans-wins-the-alea-award.html
 
-## Videos of the ALEA Awards
+**Date processed:** 2025-05-01
+
+## Main article
 
 The winner of the 2023 ALEA Award is Thomas Meierhans. As manager of the metal workshop in the Department of Civil, Environmental and Geomatic Engineering, he is in charge of around seven technical staff and responsible for processing customer orders from research. Julia Dannath, Vice President for Personnel Development and Leadership presented the award to the beaming winner.
 
@@ -12,9 +14,9 @@ The criteria for the selection of the ALEA Award comprised the new social and le
 
 ETH members had nominated 48 leaders in advance for the award, for the first time including not only persons with official responsibility for employees, but also those with specialist leadership roles. The jury for selection of the award comprises members of AVETH and representatives of Diversity and Collaboration, the ETH Ombuds Office, HR Consulting, and the Staff Commission.
 
-Employees from Meierhans’s team talked in a short film about the qualities of their supervisor. For example, he considers it very important that all employees should be able to realise their full potential and carry out their work with enjoyment and commitment. He sets great store here on employees identifying and optimally utilising their strengths.
+## Videos of the ALEA Awards
 
-## Always up to date
+Employees from Meierhans’s team talked in a short film about the qualities of their supervisor. For example, he considers it very important that all employees should be able to realise their full potential and carry out their work with enjoyment and commitment. He sets great store here on employees identifying and optimally utilising their strengths.
 
 Following the official presentation of the award, the guests had the opportunity to discuss the leadership competencies in World Cafés – acting responsibly, nurturing well-being, driving innovation, living inclusivity, building bridges, and enabling people.
 

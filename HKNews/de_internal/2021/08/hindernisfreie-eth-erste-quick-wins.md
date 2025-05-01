@@ -2,33 +2,29 @@
 
 **Source:** de_internal/2021/08/hindernisfreie-eth-erste-quick-wins.html
 
-## Mission-Statement wird entwickelt
+**Date processed:** 2025-05-01
+
+## Main article
 
 In der Kategorie «Bauliches» wurde das Gebäude CHN an der Universitätsstrasse als erstes Pilotgebäude für einen hindernisfreien Umbau ausgesucht. Die dort notwendigen Anpassungen werden momentan geplant und ab 2022 vorgenommen: Dazu gehören beispielsweise Rampen, Lifte oder gut sichtbare Markierungen an Glastüren und Treppenstufen – ein wichtiger Garant für die barrierefreie Fortbewegung.
 
-## ETH-Magazin und Führungen sollen zunehmend barrierefrei werden
-
 Doch nicht nur «gebaute», auch bewegliche Hindernisse erschweren Personen, zum Beispiel mit einer Mobilitätseinschränkung oder mit einer Sehbeeinträchtigung, den Weg durchs Gebäude: Mit Mobiliar blockierte Rampen, mit Kisten zugestellte Korridore, oder widerrechtlich geschlossene Brandschutztüren können zu Stolperfallen oder gefährlichen Sackgassen werden. Deswegen erarbeitet das Teilprojekt 4 «Periodische Gebäudekontrollen» unter der Leitung der Abteilung Betrieb einen effizienten Prozess, um temporäre Gefahrenquellen regelmässig zu beseitigen und sensibilisiert die entsprechenden Teams der Abteilungen für die Problematik. Ab Oktober wird es in stark frequentierten Gebäuden alle vier, in weniger stark frequentierten Gebäuden alle acht Wochen dokumentierte Kontrollrundgänge geben.
-
-## Perspektivenwechsel und Sensibilisierung
 
 Zudem können auch alle ETH-Angehörige zu einer hindernisfreieren Hochschule beitragen, indem sie Plakatwände, Möbel oder andere Gegenstände nicht in Durchgangswegen platzieren.
 
-## Hindernisfreiheit an der Scientifica
+## Mission-Statement wird entwickelt
 
 In der zweiten Kategorie «Organisation» wurden im Teilprojekt 10 «Mission-Statement kommunizieren» bereits intensive Diskussionen geführt. Das von VPPL geleitete Teilprojekt erarbeitet in einem grossen Team mit unterschiedlichen Stakeholdern und in Abstimmung mit dem Workstream 6 «Kulturentwicklung» von rETHink ein «Mission-Statement» der Schulleitung zu den Themen Hindernisfreiheit, Offenheit und Inklusion.
 
-## Hindernisfreiheit an der ETH Zürich
-
 Im Teilprojekt 11 «Barrierefreie Kommunikation» , unter dem Lead der Hochschulkommunikation, werden ausserdem die Campus Channels sowie die öffentlichen Führungen unter die Lupe genommen. Neben den in diesem Jahr bereits fünf angebotenen Führungen mit Gebärdensprachübersetzung sollen weitere Angebote ausgewählt werden, die eine barrierefreie Teilnahme ermöglichen.
-
-## Staffnet
 
 Wie fühlt es sich an, sich mit einer Behinderung an der ETH fortzubewegen? Wie finde ich den Seminarraum, wenn ich kaum etwas sehen kann? Und wie einfach komme ich im Rollstuhl über Rampe und Kopfsteinpflaster zum HPH? Sehr viel anstrengender als vermutet, sowohl mental als auch körperlich, war der Anfang Juli durchgeführte, halbtägige Sensibilisierungsworkshop für die Teilprojektleitenden. Im Rollstuhl oder mit Blindenstock und Augenmaske bzw. Simulationsbrille war die Fortbewegung und Orientierung kaum oder nur deutlich langsamer möglich. Umso wertvoller erwies sich dieser Perspektivenwechsel für die anstehende Arbeit im Umsetzungsprogramm bzw. den Teilprojekten.
 
-## Newsletter abonnieren
+## Hindernisfreiheit an der Scientifica
 
 Hindernisfreiheit ist auch an der kommenden Scientifica ein Thema. Erfahren Sie mehr über unser Programm am 4. September (12-13 Uhr, UZH, Aula) im Rahmen des Science Cafés externe Seite «Barrierefreiheit: Technologie – Hilfe oder Hürde?»
+
+## Hindernisfreiheit an der ETH Zürich
 
 Die Schulleitung hat im Herbst 2020 den Startschuss gegeben für die Umsetzung von Hindernisfreiheit: Menschen mit Behinderungen oder Menschen mit besonderen Bedürfnissen – seien es Studierende, Lehrende, Forschende, Mitarbeitende oder Besucherinnen und Besucher – sollen im Verlauf der nächsten Jahre weitgehend uneingeschränkten Zugang zu den Gebäuden und Dienstleistungen der ETH erhalten.
 

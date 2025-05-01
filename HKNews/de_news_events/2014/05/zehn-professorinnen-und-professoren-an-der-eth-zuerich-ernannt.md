@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2014/05/zehn-professorinnen-und-professoren-an-der-eth-zuerich-ernannt.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Dr. Orçun Göksel (*1979), zurzeit Postdoktorand an der ETH Zürich, zum Assistenzprofessor für Computergestützte Anwendungen in der Medizin. Orçun Göksel ist ein Nachwuchsforscher mit grossem Potenzial auf den Gebieten der radiologischen Bildregistrierung, der Anwendung von Statistical Shape Models für die patientenspezifische Planung von chirurgischen Eingriffen sowie der Verwendung von Ultraschall für diagnostische und therapeutische Zwecke. Mit der Entwicklung von neuen Verfahren und der Erarbeitung neuer Ansätze für die quantitative in vivo Charakterisierung von mechanischen Gewebeeigenschaften wird Orçun Göksel dazu beitragen, die weltweit anerkannte Spitzenposition der ETH Zürich auf diesem strategisch wichtigen Gebiet auszubauen.
@@ -41,6 +43,8 @@ Prof. Dr. Matthias Christandl (*1978), Assistenzprofessor für Quanteninformatio
 Prof. Dr. Hansjürg Leibundgut (*1949), zurzeit ordentlicher Professor für Gebäudetechnik, wird auf Ende Oktober 2014 sein Pensum auf 50 Prozent reduzieren und per Ende Januar 2015 in den Ruhestand treten. Hansjürg Leibundgut ist seit Herbst 2005 ordentlicher Professor. Zuvor war er in verschiedenen führenden Positionen in der kantonalen Verwaltung des Kantons Zürich und in der Privatwirtschaft tätig. Er gilt auf internationaler Ebene als einer der herausragenden Experten für Fragestellungen rund um Energie und Gebäudetechnik und leistete wesentliche Beiträge zur Entwicklung von emissionsfreien, kostengünstigen und zuverlässigen Gebäuden. Mit seiner breiten Vernetzung stärkte er zudem die Aussenbeziehungen des Departements Architektur wesentlich.
 
 Prof. Dr. Pierre Mérel (*1976), zurzeit ordentlicher Professor für Agrarökonomie, wird Ende August 2014 zurücktreten. Pierre Mérel wurde Ende 2012 als ordentlicher Professor an die ETH Zürich berufen. Er beschäftigt sich in seiner Forschung mit den Zusammenhängen zwischen Landwirtschaft und Umwelt. Des Weiteren forscht er zu Themen der Industriewirtschaft sowie der Agrar- und Um­weltpolitik. Pierre Mérel kehrt an die University of California, Davis, USA, zurück.
+
+## Sorge um Horizon 2020
 
 Weiter unterstützt der ETH-Rat anlässlich seiner Sitzung vom 21./22. Mai 2014 die Massnahmen des Bundes infolge der Masseneinwanderungsinitiative und festigt die nationale und internationale Zusammenarbeit des ETH-Bereichs, wie er in einer Medienmitteilung festhält.
 

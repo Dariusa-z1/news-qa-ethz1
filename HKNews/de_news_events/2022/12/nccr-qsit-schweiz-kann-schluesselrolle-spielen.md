@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2022/12/nccr-qsit-schweiz-kann-schluesselrolle-spielen.html
 
-## NCCR QSIT
+**Date processed:** 2025-05-01
+
+## Main article
 
 Herr Ensslin, Ende Jahr endet der Nationale Forschungsschwerpunkt «Quantum Science and Technology» (NCCR QSIT). Er fiel in eine Zeit, die von der «zweiten Quantenrevolution» geprägt ist. Was versteht man unter diesem Begriff? Der Begriff «zweite Quantenrevolution» bezieht sich auf die Verschränkung von Quantenobjekten, das heisst, dass man in der Lage ist, mehrere Quantenobjekte zu kontrollieren. Diese Entwicklung begann in den 1980er-Jahren. In den letzten Jahren ist der Aspekt des Engineering dazugekommen. Man kontrolliert also nicht nur mehrere Quantenobjekte, sondern baut mit ihnen völlig neue Systeme.
 
@@ -20,11 +22,11 @@ Schadet sich die EU mit dieser harten Haltung nicht selber? Das denke ich auch. 
 
 Wie ist das für Sie als Betroffener? Das tut weh. Die Wissenschaft läuft wirklich gut, die Schweiz hat mit der Quantenforschung eine Perle, die geopfert wird. Die Konsequenzen werden wir in einigen Jahren spüren. Für mich als etablierter Forscher sind die Folgen erträglich, ich habe mein Netzwerk aufgebaut. Aber für die jungen Forscherinnen und Forscher sind die Konsequenzen dramatisch.
 
-## Zur Person
-
 Ein anderer Einflussfaktor sind die grossen Tech-Firmen, die gewaltige Summen in die Quantenforschung investieren. Ein Glücksfall für die Forschung? Das Engagement der grossen Firmen hat verschiedene Konsequenzen für die akademische Forschung. Teile unseres Gebietes werden von Geld überschwemmt, so dass viele gute Leute in die Industrie gehen. Sogar ein ETH-Physikprofessor wurde von einer grossen Firma schon abgeworben, das ist ungewöhnlich. Aus dem grossen Engagement der Firmen ergeben sich jedoch auch neue Möglichkeiten zur Zusammenarbeit – mit all ihren Vor- und Nachteilen.
 
 Das heisst konkret? Man kann dank diesen Kollaborationen technisch komplexe Projekte realisieren, die sonst nicht möglich wären. Die Industrie arbeitet professionell und treibt einzelne Bereiche schnell vorwärts. Die Kehrseite: Die Firmen haben enge Zielvorgaben. Sie legen genau fest, wann sie wo sein wollen. Das nimmt der Forschung Freiräume. Andererseits erhalten wissenschaftliche Fortschritte im universitären Umfeld eine viel grössere Aufmerksamkeit, da es ja der nächste entscheidende Durchbruch sein könnte für das gesamte Gebiet.
+
+## NCCR QSIT
 
 Der Nationale Forschungsschwerpunkt «Quantum Science and Technology» (NCCR QSIT) startete 2011 und wurde zwei Mal verlängert. Die ETH Zürich war dabei Leading House, zusammen mit der Universität Basel als Co-Leading House. Am NCCR QSIT haben sich auch die EPF Lausanne, die Universität Genf, das IBM Forschungslabor Zürich sowie die Università della Svizzera italiana in Lugano beteiligt.
 
@@ -37,6 +39,8 @@ Welche Rolle spielen Spin-off Firmen, die aus dem NCCR QSIT entstanden sind? Die
 Wie ist die Bilanz in der Lehre, in erster Linie beim Masterstudiengang Quantum Engineering, der 2019 eingeführt wurde? Die ETH Zürich war die erste Hochschule mit einem solchen Studiengang. Inzwischen gibt es ähnliche Angebote auch in Lausanne und Genf. Die bisherigen Erfahrungen sind sehr gut. Wir haben fantastische und motivierte Studierende. Davon profitieren wir alle. Der grosse Engpass in der Quantenforschung sind spezialisierte Fachkräfte.
 
 Welchen Beitrag hat der NCCR QSIT in Bezug auf die Frauenförderung geleistet? In den letzten Jahren hat sich im Departement Physik einiges getan und wir haben mehrere junge Professorinnen berufen. Beim NCCR QSIT haben wir von der Anstellungspolitik der Hochschulen profitiert. Inzwischen machen deutlich mehr Frauen in der Quantenforschung ihre Doktorarbeit. Ein wichtiges Förderinstrument, das wir beim NCCR QSIT entwickelt haben, sind die Inspire-Awards, mit denen wir Frauen auf Stufe Master und Postdoktorat fördern. Diese Auszeichnungen werden inzwischen auch von anderen Nationalen Forschungsschwerpunkten vergeben sowie im neuen Quantum Center an der ETH Zürich. Aber natürlich müssen wir weiter an einer offenen und inklusiven Kultur für die Quantenforschung arbeiten.
+
+## Zur Person
 
 Klaus Ensslin ist seit Oktober 1995 Professor für Experimentalphysik am Laboratorium für Festkörperphysik der ETH Zürich. In seiner Forschung untersucht er elektronische Eigenschaften neuartiger Halbleiter-Bauelemente. Ein wichtiges Ziel der Arbeitsgruppe ist die immer bessere Kontrolle der Quanteneigenschaften von Elektronen in Nanostrukturen. Klaus Ensslin war Mitinitiator und Direktor des NCCR QSIT.
 

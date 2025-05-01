@@ -2,15 +2,17 @@
 
 **Source:** en_news_events/2023/06/how-a-change-of-perspective-caused-a-sensation.html
 
-## Minimising costs
+**Date processed:** 2025-05-01
+
+## Main article
 
 Inverse problems are Yunan Yang’s specialty. “Our everyday life is full of them,” she explains. “Ultrasound, for example, is an inverse problem.” Medical ultrasound devices emit sound waves outside our range of hearing that travel through the body and then record the reflected waves. A software program processes the wave signals and shows what’s going on in the body. “Deriving the image of a baby from the waves is an inverse problem,” says the 32-year-old mathematician, who has been an Advanced Fellow at the ETH Institute for Theoretical Studies (ETH-ITS) since January 2022. “I grew up in China and then lived in the US for eight years, but I’d never lived in Europe,” Yang says. “That’s why I wanted to come to Zurich and collaborate with researchers across the Continent.”
 
 Earthquake detection can also be viewed as an inverse problem. The seismic signals measured by earthquake stations indicate where the source of the quake is located and how deep it is below the surface. “This, too, is an issue of signal processing,” Yang says. With the help of another mathematical theory, her solution to the inverse problem in seismic waves caused a sensation among experts. That theory is called “optimal transport”.
 
-“This is a very beautiful theory that goes back to 1781,” Yang explains. “The French mathematician Gaspard Monge asked himself, ‘How can a pile of sand be transported from one place to another at the lowest possible cost?’” To determine the optimal transport map, you add up the cost of all movements – in other words, mass times distance – and try to minimise this value.
+## Minimising costs
 
-## A chance encounter
+“This is a very beautiful theory that goes back to 1781,” Yang explains. “The French mathematician Gaspard Monge asked himself, ‘How can a pile of sand be transported from one place to another at the lowest possible cost?’” To determine the optimal transport map, you add up the cost of all movements – in other words, mass times distance – and try to minimise this value.
 
 “Optimal transport is a problem that is easy to formulate but very difficult to solve,” Yang says. “Monge was unable to find the answer.” It wasn’t until the 1940s that the problem was simplified enough to be solved 20 years later, thanks to more efficient computers. “Since the 1990s, we’ve been adding the finishing touches to the theory; there are extensions, fast algorithms, and applications,” Yang says.
 
@@ -18,15 +20,13 @@ Back to seismic waves. “We can’t look at the focus of an earthquake 200 kilo
 
 Yang says she owes her mathematical career to a chance encounter. She started studying science at China’s Zhejiang University. After a year, she discovered that, even though mathematics was her most difficult subject, it was also the most fascinating, so she chose it as her main course of study. As an undergraduate student, she volunteered to pick up guests from the Shanghai airport. Two of them were Luis Caffarelli and his wife, Irene Gamba, both Argentinian-American mathematics professors at the University of Texas at Austin. At that time, Caffarelli was already a luminary in the field of partial differential equations; he recently received the Abel Prize, the most prestigious award for mathematicians over 40.
 
-## ETH: A mecca for mathematicians
-
 “I was very excited and peppered them with questions on the two-hour drive from the airport to the university, which was pretty inconsiderate now thinking back,” Yang says. Caffarelli and Gamba patiently answered her questions and encouraged her to apply for a Ph.D. program in Austin. Yang’s application was successful: “A year later, I was in Austin to start my doctorate and renewed my acquaintance with both of them there.”
+
+## ETH: A mecca for mathematicians
 
 On the Austin faculty at the time was Italian mathematician Alessio Figalli, who began teaching at ETH Zurich in 2016 and received the Fields Medal in 2018 – a kind of Nobel Prize for mathematicians under the age of 40. In 2015 at UT Austin, Yang attended classes taught by Figalli, who also works in the field of optimal transportation. After completing her Ph.D., Yang moved to the Courant Institute at New York University, the top school for applied mathematics in the United States. There she met Afonso Bandeira, who joined ETH in 2019. When her postdoc in the US came to a close, ETH seemed the obvious next step, and Yang successfully applied to become an Advanced Fellow at ETH-ITS.
 
 ETH is one of the best places in the world to do research, Yang says. Together with Figalli and a colleague from EPF Lausanne, she recently organised an international workshop in Zurich on the theory and application of optimal transport.
-
-## Running away from frustration
 
 Changing the metric for measuring waves so as to solve inverse problems using optimal transport has now become a fairly widespread technique. The tools from this theory are used today for a broad range of applications. For example, they can be used in machine learning – another area where researchers seek to match data – or in determining the structure of molecules through cryogenic electron microscopy.
 

@@ -2,7 +2,9 @@
 
 **Source:** de_news_events/2015/08/investitionen-in-die-zukunft-des-d-bsse.html
 
-## Main article
+**Date processed:** 2025-05-01
+
+## Stärkung der personalisierten Medizin
 
 Die Regierungen von Basel-Stadt und Basel-Landschaft möchten die Erfolgsgeschichte der Gründung des Departements für Biosysteme weiterführen und die Zusammenarbeit der Universität Basel mit der ETH Zürich weiter stärken. Dafür haben sie ihren Parlamenten einen Beitrag von je fünf Millionen Franken beantragt, wie sie heute Dienstag mitteilen. Von den insgesamt 10 Mio. Franken sehen sie 6 Mio. Franken für infrastrukturelle Massnahmen und 4 Mio. Franken für die Intensivierung der Forschungszusammenarbeit vor.
 

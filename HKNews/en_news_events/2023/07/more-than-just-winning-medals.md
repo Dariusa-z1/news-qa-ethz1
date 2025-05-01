@@ -2,19 +2,17 @@
 
 **Source:** en_news_events/2023/07/more-than-just-winning-medals.html
 
+**Date processed:** 2025-05-01
+
 ## Swiss team with a solid result, Chinese students won
 
 It was a celebration of the natural sciences – or more precisely, chemistry – held last week on ETH Zurich’s Hönggerberg campus. A total of 348 students from 89 countries met for a peaceful competition. They tested their chemistry knowledge in five-hour-long practical and theoretical examinations. The tasks developed by the scientific committee under the direction of ETH professor, Wendelin Stark were quite challenging. "Five hours of practical chemistry in the lab and 5 hours of theory in a row – at a university level – where even the world's best face a big challenge," explains Stark. "I am, therefore, very impressed by the dedication and expertise that the students have shown over the past week." Wendelin Stark, who represented Switzerland at the Chemistry Olympiad in Italy, Norway, and China in 1993, 1994, and 1995 respectively, discovered his love of chemistry through the competition and made contacts that have lasted to throughout his career. Now he hopes that the participants at the IChO 2023 in Switzerland were also able to gain experience that will accompany them throughout their lives.
 
-## Successful event thanks to many volunteers
-
 The participants were awarded for their great performance on Monday during the closing ceremony in the Tonhalle Zurich. A total of 217 gold, silver, and bronze medals were awarded. A further 27 candidates received an "honourable mention," including Vivian Huber from Basel-Stadt. The best participant was Weijie Mao from China, who also achieved the best result in both the theoretical and practical examinations.
-
-## Getting to know Switzerland and like-minded people in science
 
 The awards were presented by Günther Dissertori, Rector of ETH Zurich and President of IChO 2023, among others. "It was a wonderful experience and a great honour to have these motivated young people from all over the world as our guests at ETH. I think it is great to see their enthusiasm and how much they have learned about chemistry, ETH Zurich and Switzerland!", says Günther Dissertori. "Of course, I hope that we will be able to welcome some of them as students in the future."
 
-## Contact
+## Successful event thanks to many volunteers
 
 IChO 2023 was held in Switzerland for the first time and was organized by ETH Zurich’s Department of Chemistry and Applied Biosciences, the Science Olympiad Association, the Swiss Chemistry Olympiad Association, and the Swiss Chemical Society. The event also received support from the Department for Education, Research, and Innovation, as well as numerous partners from the business community and charitable foundations. Marco Gerber, head of the organizing committee, was delighted with the event's success: "We spent two years preparing for this week, and now I am happy that everything worked out so well. We owe this not least to the more than 300 volunteers who put their heart and soul into making the IChO possible!"
 

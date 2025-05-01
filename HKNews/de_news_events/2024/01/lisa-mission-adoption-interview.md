@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2024/01/lisa-mission-adoption-interview.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Die Mission LISA (Laser Interferometer Space Antenna) zur Erforschung von Gravitationswellen im Weltall hat die Vorstudien und Überprüfung erfolgreich abgeschlossen: Das gesamte Konzept, von der Definition der wissenschaftlichen Instrumente und des Betriebssystems bis hin zu den Geräten, die für den Einsatz im Weltall gebaut werden müssen, hielt der intensiven Prüfung der Gutachter im Rahmen der «Mission Adoption Review» stand. Das Science Programme Committee der ESA (European Space Agency) hat am 25. Januar offiziell bestätigt, dass LISA ausreichend ausgereift ist und die Entwicklung der Mission wie geplant fortgesetzt werden kann. Somit hat die Mission die Freigabe zur Umsetzung.
@@ -27,6 +29,8 @@ Die Antenne wird erst im Jahr 2035 ins All geschossen. Welche weiteren Hürden m
 Wie fühlt es sich an, bei einem so prestigeträchtigen und langwierigen Projekt dabei zu sein – auch wenn man den Höhepunkt, den Launch, wahrscheinlich nicht mehr aktiv begleiten kann? Domenico Giardini : LISA ist auf über 50 Jahre angelegt und drei Generationen von Wissenschaftlerinnen und Wissenschaftlern werden am Erfolg der Mission arbeiten. Wir freuen uns natürlich, dass wir das Privileg haben, an zentraler Stelle an dieser Mission beteiligt zu sein. Und wir haben den grossartigen Start von LISA Pathfinder im Jahr 2015 live miterlebt!
 
 Philippe Jetzer : Beim Start der LISA-Satelliten im Jahr 2035 werden wir nicht mehr persönlich dabei sein. Aber wir sind sicher, dass wir bei der nächsten, sehr intensiven Vorbereitungsphase und bei der ersten Auswertung der Daten helfen können. Einige unserer ehemaligen und aktuellen Doktoranden und Postdocs sind weiterhin an der Vorbereitung von LISA beteiligt und sehr aktiv auf dem Gebiet der Gravitationswellenforschung. Ausserdem werden zwei neue Professuren an der ETH und der Universität Zürich eingerichtet. Weitere Kolleginnen und Kollegen der ETH und der UZH sind bereits involviert oder an einer späteren Beteiligung interessiert.
+
+## LISA – Laser Interferometer Space Antenna
 
 Die Laser Interferometer Space Antenna (LISA) wird das erste weltraumgestützte Gravitationswellenobservatorium sein. Sie wurde als dritte grosse ESA-Mission ausgewählt und wird sich mit dem wissenschaftlichen Thema des Gravitationsuniversums befassen. LISA wird aus drei Raumsonden bestehen, die im Abstand von 2,5 Millionen Kilometer in einer Dreiecksformation der Erde auf ihrer Umlaufbahn um die Sonne folgen. Der Start wird für das Jahr 2037 erwartet.
 

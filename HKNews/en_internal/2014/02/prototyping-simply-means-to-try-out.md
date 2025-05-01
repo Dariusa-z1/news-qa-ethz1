@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2014/02/prototyping-simply-means-to-try-out.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Last autumn, the first study trip within the framework of the “Raus aus den vier Wänden” (“Leaving our comfort zone”) Innovedum project was made and it went to Stanford. The aim of the trip was to broaden our horizon in defined subject areas, to question the current methods at ETH and to find inspiration for new projects.
@@ -27,6 +29,8 @@ If ETH wants to pull level with Stanford University in this area, precisely this
 Incidentally, the VSETH can also learn a thing or two in this area: while many small things are just tried out quickly when the motivation is given, large projects at the VSETH often fail due to the same focus on perfection that forms an obstacle for ETH. While ETH at least manages, after years of evaluating, to implement projects, thanks to staff turnover being lower, when a project’s driving person retires from the VSETH, the entire, possibly already thought-through idea often also dies.
 
 For that reason, it is also time for the VSETH to be more active and weigh up the relevant situation less. The fact that a result is not perfect should not stop you, it actually offers the possibility of enhancement for future generations.
+
+## About the author
 
 In November 2013, Julia Wysling was elected President of VSETH by the Council of Members, the highest body in the Student Association VSETH. She was born in Zurich in 1990 and grew up in Zurich, Vienna and most recently in Uster. Having successfully completed her studies at the Kantonsschule Rämibühl, which included an exchange year in Australia, she has been studying mathematics at ETH Zurich since 2009. Julia had previously already played an active part in the Mathematicians’ and Physicists’ Association (VMP), in various VSETH committees and in the SoNaFe/WiNaFe Association, which organises the summer and winter end-of-semester parties at ETH Zurich. One aspect of her work in VSETH, which she finds particularly fascinating, is how the students’ political representation influences the range of services on offer. In her free time, Julia spends her time training for a triathlon.
 

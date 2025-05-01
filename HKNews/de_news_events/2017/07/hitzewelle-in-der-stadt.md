@@ -2,9 +2,9 @@
 
 **Source:** de_news_events/2017/07/hitzewelle-in-der-stadt.html
 
-## Zur Person
+**Date processed:** 2025-05-01
 
-- «Den Urlaub nicht als Glücksautomatismus belasten»,  18.07.17
+## Main article
 
 ETH-News: Herr Carmeliet, warum ist es im Sommer in Städten so viel heisser als auf dem Land? Jan Carmeliet: In den Städten gibt es viel Beton und Asphalt. Diese Materialien sind verhältnismässig dunkel und absorbieren daher Sonneneinstrahlung besonders stark. Am Tag erwärmen sie sich und speichern die Wärme. Nachts wirken Gebäude und Strassen dann wie Heizkörper: Sie geben die tagsüber gespeicherte Wärme ab und heizen die Umgebung auf. Ausserdem halten in Städten Gebäude den Wind ab, und es hat weniger Vegetation als auf dem Land. Wind und Pflanzen, die Wasser verdunsten, haben einen kühlenden Effekt.
 
@@ -14,8 +14,6 @@ Mit einer Computersimulation modellierten Sie die Temperaturen für die Stadt Z�
 
 Und wo waren die Temperaturen in Zürich am angenehmsten? In Seenähe – im Seefeld, beim Bürkliplatz und in der Enge – waren die Nachtemperaturen tiefer. Dort brachte die Luftzirkulation kühlere Luft vom See in die Stadt. Ebenfalls angenehme Temperaturen herrschten im Hirslandenquartier und in Schwamendingen. Diese Stadtteile profitierten von Fallwinden vom Adlisberg und vom Zürichberg.
 
-## Sommerserie
-
 Was möchten Sie mit solchen Computermodellierungen erreichen? Wir möchten Hitzewellen in Städten kleinräumig besser verstehen. Da es nicht praktikabel ist, eine ganze Stadt mit einem sehr dichten Netz an Temperaturmessstationen zu überziehen, behelfen wir uns mit Simulationen. Als Randbedingungen nutzen wir die Temperatur- und Wind-Messwerte von Wetterstationen und errechnen dann die Temperatur für Zürich und die Umgebung mit einer Auflösung von 250 Metern. Für die Simulation ergänzten wir ein bestehendes Wettermodell mit Informationen zu Gebäuden, den verwendeten Materialien und der Vegetation. Mit solchen Modellen können wir auch den Einfluss von Hitzewellen auf das Wohlbefinden und die Gesundheit der Stadtbewohner untersuchen. Denn dieser Einfluss ist gross. Viele ältere und kranke Personen haben Mühe mit Extremtemperaturen. Ihr Stoffwechsel passt sich nur langsam oder gar nicht an hohe Temperaturen an.
 
 Bis zum Ende dieses Jahrhunderts müssen wir mit einer deutlichen Zunahme von Hitzeextremen rechnen, vor allem in Südeuropa, aber auch bei uns, prognostizieren Klimawissenschaftler. Müssen wir aufhören, unsere Städte weiter zu verdichten? Wenn wir unsere Städte verdichten, müssen wir das intelligent machen und Luftzirkulation ermöglichen. Die typische Blockrandbebauung mit einem geschlossenen Innenhof ohne Vegetation oder Beschattung führt zu Wärmeinseln. Wichtig ist, dass wir die Luftzirkulation in der Stadt ermöglichen und beispielsweise rund um Seen und Gewässer eine offene Bauweise erhalten. Geschlossene Häuserfronten am Ufer verhindern, dass kühlere Seeluft in die Stadt strömen kann.
@@ -24,13 +22,17 @@ In Ihrer Forschung beschäftigen Sie sich auch mit der Frage, wie wir unsere St�
 
 Inwiefern? Nehmen Sie den Strassenbelag als Beispiel: In der Schweiz sind sehr viele Strassen, Trottoirs und Freiflächen asphaltiert. Solche Flächen sind einfach zu unterhalten. Asphalt hat jedoch auch einen gewichtigen Nachteil: Wegen seiner dunklen Farbe absorbiert er viel Wärme. Wünschenswert wären hellere und poröse Beläge, die bei Regen Wasser aufnehmen oder bewässert werden können. In einem meiner Forschungsprojekte beschäftige ich mich mit der Entwicklung solcher Beläge.
 
-## Vorankündigung: ETH-Klimarunde zum Thema
+## Zur Person
 
 Jan Carmeliet (56) ist Professor für Bauphysik an der ETH Zürich und Leiter der Forschungsgruppe Urban Climate an der Empa. Seine Hauptforschungsinteressen sind das städtische Klima, urbane Energiesysteme und deren Modellierung sowie die Suche nach Lösungen für negative Folgen des Klimawandels in Städten durch den Einsatz neuartiger Baumaterialen und Bepflanzung.
+
+## Sommerserie
 
 Im Rahmen einer Serie präsentiert ETH-News während der Ferienzeit regelmässig Beiträge zu Forschung und Innovation, welche etwas mit der schönsten Zeit des Jahres zu tun haben. Bisher in dieser Serie erschienen:
 
 - «Den Urlaub nicht als Glücksautomatismus belasten» , 18.07.17
+
+## Vorankündigung: ETH-Klimarunde zum Thema
 
 Wie wichtig sind Städte als Treiber des Klimawandels? Was sind die Folgen des Klimawandels in unseren Städten? Wie können sich Städte für den Klimawandel rüsten? Und wie können wir unsere Lebensweise in Städten anpassen, um den Klimawandel abzuschwächen? Diesen Fragen wird die diesjährige ETH-Klimarunde am 8. November 2017 nachgehen.
 

@@ -2,7 +2,9 @@
 
 **Source:** en_news_events/2018/03/personalised-medicine-discussion.html
 
-## Initiatives
+**Date processed:** 2025-05-01
+
+## Main article
 
 ETH News: Personalised medicine has become a hot topic for researchers, holding out the hope of new drugs and treatment strategies that are tailored more closely to an individual’s genetic make-up. Why does the topic of data come up so frequently in discussions about personalised medicine? Markus Stoffel: The progress we’ve seen in personalised medicine is, in part, due to advances in data-driven technologies and analysis methods. Doctors have always wanted to offer their patients the best treatment to suit their specific case. These kinds of methods enable them to do that with much greater precision than they could before.
 
@@ -26,8 +28,6 @@ What areas do those projects focus on? Aebersold: One of the most suitable areas
 
 What’s your experience with the two initiatives so far? Aebersold: In areas where the main sticking points are technical in nature, we can make relatively swift progress. Clinical data is tougher, because you’re dealing with fundamental issues about the ethics and content of what you collect. For example, how do you design the form that patients complete to consent to the use of their data? In some hospitals, those forms specify that coincidental findings – say, the chance discovery that the patient is at risk of developing other diseases – “must” be communicated to the patient, while other hospitals say “may”. Which approach is best practice? Resolving those kinds of issues requires in-depth discussions with the various authorities and stakeholders.
 
-## Magazin Globe
-
 Günther: And there’s another problem: what happens if a hospital shares its data and some of it is leaked? When it comes to issues like that, we try to choose the most secure path we can, even though it inevitably isn’t the fastest.
 
 How sensible is it to tackle a project like this on a national level? Stoffel: That question is particularly pertinent to Switzerland. It doesn’t make sense to restrict research in some diseases to a national level, because you wouldn’t have access to enough patients. Consider, for example, the wide array of rare diseases that can be investigated only on an international level. So, in a country as small as Switzerland, it’s even more important to ensure that data doesn’t remain fragmented.
@@ -45,6 +45,8 @@ Stoffel: To give just one example: medi­cal students that do their courses at E
 What do you see as the most important issues for the future? Aebersold: I hope that the current ini­tiatives prompt a cultural shift that leads to better networking and interdisciplinary cooperation. Günther: I would like to see hospitals incorporate as quickly as possible the meth­ods that we’re developing. Getting closer to patients is a huge motivation for us.
 
 Stoffel: The greatest success stories of personalised medicine have so far played out in the realm of rare diseases and, to some extent, in oncology. Many of them can be traced back to innovative researchers who dared to develop their solutions in small companies. Innovations stem from universi­ties; I hope policymakers recognise that and continue to support us along this journey.
+
+## Initiatives
 
 Two major initiatives have been launched to further reinforce and coordinate Swiss research in the field of personalised medicine:
 

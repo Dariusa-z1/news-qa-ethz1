@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2020/07/eth-professor-neuer-leiter-der-science-task-force.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 ETH-News: Herr Ackermann, Sie werden der neue Präsident der Nationalen Science Task Force – wie kam es dazu? Martin Ackermann: Als ich als Vizepräsident angefragt wurde, ob ich neu das Präsidium übernehmen möchte, habe ich gerne zugesagt, weil ich davon überzeugt bin, dass die Task Force eine wichtige und sinnvolle Aufgabe erfüllt. Die Task Force, das sind rund 70 Forschende – darunter 12 Kolleginnen und Kollegen aus der ETH Zürich – die sich alle freiwillig und unentgeltlich engagieren, um die Schweiz möglichst gut durch diese Krise zu bringen. Es ist ein Privileg, ein solch ausserordentliches Netzwerk zu präsidieren, aber gerade, weil die Situation so einmalig ist, habe ich natürlich auch grossen Respekt vor der Aufgabe. Ich bin zudem froh, dass wir in den letzten Monaten unglaublich viel gelernt haben, zum Beispiel wie wir am besten mit den Behörden zusammenarbeiten. Darauf können wir aufbauen.
@@ -19,6 +21,8 @@ Ihr Vorgänger Matthias Egger war sehr präsent in der Öffentlichkeit und hat t
 Und was passiert, wenn Sie und das BAG nicht einer Meinung sind? Das ist gut! Wenn wir etwas durch die Coronakrise gelernt haben, dann doch, dass wir die Probleme nur gemeinsam lösen können. Anderer Meinung zu sein und sich darüber auszutauschen, ist in einer so aussergewöhnlichen Situation absolut zentral – sonst würde man sich womöglich in die eine oder andere Richtung verrennen. Also diskutiert die Task Force intensiv mit den Behörden und kommuniziert dann ihre Betrachtungsweise und Argumente auch der Öffentlichkeit.
 
 Aus Ihrer Sicht: Wo steht die Schweiz in der Coronakrise? Wir sind – alle zusammen und mit vereinten Kräften – bislang vergleichsweise gut durch diese Krise gekommen. Wir sind alle froh, dass wir die Fallzahlen in der Schweiz auf ein so tiefes Niveau gebracht haben und sie sich nun trotz eines neuen Anstiegs offenbar wieder stabilisieren. Es ist viel einfacher und weniger kostspielig, die Epidemie bei tiefen Fallzahlen unter Kontrolle zu halten als bei höheren Fallzahlen. Nun sind wir in einer Phase, in der wir uns überlegen müssen, wie es weiter geht. Zentral ist für mich der Glaube daran, dass wir es zusammen hinbekommen, diese Krise zu meistern.
+
+## Zum neuen Präsidenten der Task Force
 
 Martin Ackermann wurde 1971 in Schwyz geboren und ist in Zofingen aufgewachsen. Er studierte Biologie an der Universität Basel, promovierte 2002 mit einer Dissertation über Alterungsprozesse in Bakterien und arbeitete danach zwei Jahre als Postdoc an der UC San Diego. Seit 2004 forscht Martin Ackermann an der ETH Zürich, seit 2015 ist er ordentlicher Professor und leitet an der ETH und der Eawag die Forschungsgruppe für Ökologie mikrobieller Systeme. Seine Gruppe erforscht, wie Mikroorganismen mit der Umwelt und untereinander interagieren und sich dadurch gegenseitig beeinflussen. Er ist verheiratet und Vater von zwei schulpflichtigen Kindern.
 

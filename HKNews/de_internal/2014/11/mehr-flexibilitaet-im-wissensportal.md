@@ -2,15 +2,13 @@
 
 **Source:** de_internal/2014/11/mehr-flexibilitaet-im-wissensportal.html
 
-## None
+**Date processed:** 2025-05-01
+
+## Main article
 
 Ob Desktop-PC oder Tablet – die Unterseiten des Wissensportals passen sich flexibel der Grösse Ihres Endgerätes an. Website-Inhalte, Formulare, Links und Buttons sind entsprechend ebenfalls mobil nutzbar. Nutzerinnen und Nutzern von Smartphones empfehlen wir aktuell noch unsere mobile Website .
 
-## Staffnet
-
 Die rechte Seitennavigation ist übersichtlicher. Die Navigation der weiteren Unterseiten kann – je nach Bedarf – durch Klicken angezeigt oder wieder ausgeblendet werden.
-
-## Newsletter abonnieren
 
 Nur wenn Sie tatsächlich nach Informationsressourcen suchen möchten, erscheinen – nach einem Klick auf das Suchfeld – die vier Suchreiter für eine gezielte Recherche.
 

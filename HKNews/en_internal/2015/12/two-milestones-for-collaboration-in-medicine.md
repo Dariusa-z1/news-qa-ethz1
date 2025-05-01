@@ -2,7 +2,9 @@
 
 **Source:** en_internal/2015/12/two-milestones-for-collaboration-in-medicine.html
 
-## A communicative campus
+**Date processed:** 2025-05-01
+
+## Main article
 
 Breath tests will increasingly be used to diagnose disease in the future. “There is great potential in breath testing”, said Renato Zenobi, Professor of Analytical Chemistry at ETH Zurich, at the annual event by University Medicine Zurich. He presented the project on ‘What the breath reveals’ together with Malcolm Kohler, Director of the Department of Pulmonology at University Hospital Zurich.
 
@@ -10,17 +12,15 @@ Breath tests will increasingly be used to diagnose disease in the future. “The
 
 Flagship projects sought
 
-## Subscribe to Newsletter
-
 With the ‘What the breath reveals’ project, University Medicine Zurich is now supporting two flagship projects – i.e. large-scale, long-term projects that have the potential to transform medicine and increase the international visibility of Zurich as a centre for medical research. The ‘ Zurich Heart ’ project, which focuses on developing improved artificial hearts for people with severe heart failure, has been running since 2012.
 
 “We want to support one to two new flagship projects per year”, explained Wolfgang Langhans, Deputy Chairman of the University Medicine Zurich Steering Committee and Professor at ETH Zurich, at the recent event.
 
 University Medicine Zurich will also continue to finance smaller "HMZ Seed Projects" . The aim here is to support visionary ideas for which the research is still in its infancy. In 2015, University Medicine Zurich selected five seed projects, all of which involved ETH Zurich.
 
-## Staffnet
-
 The new Balgrist Campus building. (Photo: University of Zurich/Ruedi Walti)
+
+## A communicative campus
 
 The new Balgrist Campus has been inaugurated on Friday evening (4 December 2015), following four years of construction. The new research and development centre for musculoskeletal medicine is adjacent to Balgrist University Hospital and brings together a variety of research groups. This is made possible by the building's transparent design without partitioning walls. There are not even any high shelves in the laboratories, as these could interrupt the line of sight between the researchers. Appliances and cabinets are attached to the outer walls.
 

@@ -2,6 +2,8 @@
 
 **Source:** en_internal/2014/08/researching-materials.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 The Material Archive website offers a wealth of additional information on material description, properties, processing techniques and manufacturing methods. Moreover, photos illustrate traditional and innovative material patterns and application examples.

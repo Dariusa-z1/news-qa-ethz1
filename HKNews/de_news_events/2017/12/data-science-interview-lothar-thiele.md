@@ -2,6 +2,8 @@
 
 **Source:** de_news_events/2017/12/data-science-interview-lothar-thiele.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Herr Thiele, Sie wurden von der Schulleitung kürzlich zum Delegierten für Digitale Transformation ernannt. Was ist ihre Aufgabe? Thiele: Die Digitalisierung ist nicht nur für die Medien ein grosses Thema, sondern auch für die Wirtschaft und die Politik. Dies hat Rückwirkungen auf die ETH: Wir sehen uns mit vielen Anforderungen und Wünschen konfrontiert. Als führende Institution will die ETH die Diskussion aktiv mitgestalten. Dazu braucht sie eine Strategie, wie sie mit dem Thema umgehen will, und sie muss Prioritäten setzen. Meine Aufgabe ist es, die Schulleitung, die Professuren und Departemente dabei zu unterstützen.
@@ -23,6 +25,8 @@ Die ETH will sich als führendes Kompetenzzentrum im Bereich Digitalisierung pos
 Wie sollte sich die ETH in der Öffentlichkeit positionieren? Die ETH sollte auf keinen Fall versuchen, maximal viel Wind zu machen, um mediale Aufmerksamkeit zu erzielen. Wir sollten nicht irgendwelchen Trends hinterherrennen, sondern Leuchtturmprojekte mit wissenschaftlicher Relevanz initiieren.
 
 Welche Themen finden Sie selbst interessant? Es gibt verschiedene Aspekte, die ich persönlich sehr spannend finde. Einer betrifft die Privatsphäre: Die Frage ist nicht nur, wer Zugriff auf meine Daten hat, sondern auch, was mit den Daten passiert, die ich weitergebe. Wohin gehen sie? Wer darf sie benutzen? Welche Informationen lassen sich daraus gewinnen? Welche Mechanismen gibt es, um das allenfalls zu beschränken? Technisch gesehen geht es um den Bereich Informationstheorie, aber es stellen sich vor allem auch rechtliche und ethische Fragen. Ein weiterer Aspekt der Digitalisierung betrifft das maschinelle Lernen: Lernfähige Algorithmen führen nicht einfach vorgegebene Befehle aus, wie zum Beispiel, eine Zahlenreihe zu sortieren. Sie lernen aufgrund von Erfolg und Fehlern. Das ist ein gewaltiger Unterschied. In vielen Bereichen sind lernfähige Maschinen bereits heute dem Menschen überlegen. Das Problem: Man weiss noch nicht genau, wie sie lernen. Wir haben also etwas geschaffen, das wir zumindest bis jetzt noch nicht genügend verstehen. Wir wissen auch nicht, wie Menschen lernen und worin sich menschliches und maschinelles Lernen prinzipiell unterscheiden.
+
+## Zur Person
 
 Lothar Thiele ist Professor für Technische Informatik am Departement Elektrotechnik der ETH Zürich. In seiner Forschung befasst er sich mit cyberphysischen Systemen, dem Internet-of-Things, eingebetteten Systemen und evolutionären Algorithmen. Anfang November wurde er von der Schulleitung zum neuen Delegierten für Digitale Transformation ernannt.
 

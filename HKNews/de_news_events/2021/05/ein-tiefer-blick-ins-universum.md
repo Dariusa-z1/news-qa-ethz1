@@ -2,23 +2,17 @@
 
 **Source:** de_news_events/2021/05/ein-tiefer-blick-ins-universum.html
 
+**Date processed:** 2025-05-01
+
 ## Wasserstoff als Schlüsselelement
 
 «Es ist ein aufregendes Projekt», erklärt Alexandre Refregier, Professor für Physik an der ETH Zürich, wenn er die futuristisch anmutende Visualisierung aus Südafrika betrachtet. Mitten in der Karoo Halbwüste, weit fernab von grösseren Siedlungen, zeigt das Bild ein Feld mit über 1000 Parabolspiegeln, die in Reih und Glied auf den gleichen Punkt ausgerichtet sind. Dabei handelt es sich nicht um ein Solarkraftwerk, wie man zunächst denken könnte, sondern um ein grosses Radioteleskop, das den Kosmologinnen und Kosmologen in den nächsten Jahren neue Einsichten über die Struktur und die Geschichte unseres Universums liefern soll.
 
-## Hunderte Einzelsignale verbinden
-
 Mit dem Hirax-Projekt – das Akronym steht für «Hydrogen Intensity and Real-time Analysis Experiment» – öffnet sich ein neues Kapitel bei der Erkundung des Weltalls. Das neue Grossteleskop wird Radiosignale im Frequenzbereich von 400 bis 800 MHz aufzeichnen. Anhand dieser Signale wird es möglich sein, die Verteilung von Wasserstoff im Universum grossräumig zu vermessen. «Wenn wir anhand des Wasserstoffs, dem häufigsten Element im Universum, erfahren, wie die Materie im Weltall verteilt ist, können wir daraus Rückschlüsse ziehen, aus was die Dunkle Materie und die Dunkle Energie bestehen», erklärt Refregier.
-
-## Testläufe in der Schweiz
 
 Bei der Dunklen Energie und der Dunklen Materie handelt es sich um zwei mysteriöse Komponenten, welche den weitaus grössten Teil des Universums ausmachen. Diese spielen eine dominante Rolle bei der Bildung von Strukturen und der beschleunigten Ausdehnung des Universums. Aus was genau diese beiden Komponenten bestehen, darüber rätselt die Fachwelt allerdings noch immer. Hirax soll nun helfen, die Natur dieser beiden Komponenten genauer einzugrenzen. Gleichzeitig hoffen die Forschenden, dass sie mit der neuen Anlage auch Erkenntnisse über blitzartige Radiosignale und Pulsare erhalten werden.
 
-## Ein idealer Standort
-
 Refregier wird sich mit seiner Gruppe aber nicht nur an der wissenschaftlichen Auswertung der Daten beteiligen, sondern er engagiert sich mit seinem Postdoc Devin Crichton und dem Ingenieur Thierry Viant auch an der Entwicklung der neuen Anlage. «Hirax ist nicht nur aus wissenschaftlicher Sicht ein bemerkenswertes Vorhaben, sondern es ist auch eine grosse technologische Herausforderung», erklärt er. Die ETH-Forschenden entwickeln in ihrem Teilprojekt zusammen mit Wissenschaftlern der Universität Genf einen sogenannten digitalen Korrelator, der die Signale der einzelnen rund 6 Meter grossen Teleskope miteinander verbindet. «Die Hirax-Anlage besteht nicht aus einem einzelnen grossen Teleskop, sondern aus zahlreichen kleineren Radioteleskopen, die miteinander korreliert werden», erläutert Refregier. «Dies ermöglicht es uns, ein Teleskop zu bauen, das eine viel höhere Sammelfläche und Auflösung hat als ein Messgerät mit nur einem Parabolspiegel.»
-
-## Türöffner für das nächste Grossprojekt
 
 Die Technik des digitalen Korrektors haben die Physikerinnen und Physiker zunächst hier in der Schweiz mit einer Pilotanlage erprobt. Sie nutzen dazu die beiden historischen Radioteleskope am Standort Bleien im Kanton Aargau. Basierend darauf werden sie nun einen digitalen Korrektor entwickeln, der 256 Spiegel miteinander verbinden kann. «Das Hirax-Teleskop wird schrittweise ausgebaut, so dass wir die Technik nach und nach weiterentwickeln können», hält Refregier fest. Die notwendige Finanzierung für dieses Teilprojekt wurde vor kurzem sichergestellt.
 

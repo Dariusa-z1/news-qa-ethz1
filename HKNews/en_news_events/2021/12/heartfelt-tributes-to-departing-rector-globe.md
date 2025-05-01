@@ -2,9 +2,13 @@
 
 **Source:** en_news_events/2021/12/heartfelt-tributes-to-departing-rector-globe.html
 
-## Key reforms
+**Date processed:** 2025-05-01
+
+## Main article
 
 She has worked with great enthusiasm for good teaching. (Image: Markus Bertschi)
+
+## Key reforms
 
 Sarah Springman was ETH Professor of Geotechnical Engineering for 18 years before being appointed Rector in 2015. During her seven-year tenure, she initiated or implemented teaching reforms on all levels while staying true to her motto of “students first”.
 
@@ -14,13 +18,15 @@ Springman also devoted significant time and energy to the ETH doctorate. Having 
 
 Springman also launched a major project to establish computational competencies. They will now serve as a third pillar of learning alongside mathematics and physics in all degree programmes.
 
+## Education as a holistic experience
+
 Springman also promoted two further projects designed to help students acquire interdisciplinary skills. The ETH Talent initiative aims to foster social skills, such as teamwork and leadership, in individual degree programmes, as well as personal skills such as creative and critical thinking.
 
 The Student Project House gives students the chance to realise their own ideas and to run extracurricular projects together with students from other disciplines. This thinkspace and makerspace started out as a pilot project on the Hönggerberg campus in 2019. Two months ago, the Rector opened a 1,600- square-metre Project House on ETH’s Zentrum campus.
 
-## Education as a holistic experience
-
 The long list of flagship projects under Springman’s tenure also includes the Youth Academy and the School for Continuing Education, the latter redefining how these programmes are presented at ETH and doubling the number of courses on offer.
+
+## Inspiring people
 
 But these successful projects only represent one aspect of Springman’s remarkable achievements. Her tireless commitment to women and diversity at this venerable university has fuelled changes that will have an impact for many years to come.
 
@@ -30,11 +36,11 @@ As a result, Sarah Springman will be remembered for far more than being the seco
 
 Her new role as emeritus Rector doesn’t mean that Springman will be putting her feet up any time soon. At the beginning of February, she will take up her next post as principal of St. Hilda’s College at Oxford University.
 
+## This is how companions at ETH pay tribute to Sarah Springman
+
 “I am full of admiration for your remarkable achievements as a scientist, mentor and leader, and, on a personal level, I have benefited enormously from your mentoring skills. I greatly value your contributions to the future of teaching and learning – and, in particular, your steadfast commitment to the important issue of diversity. Our many conversations and your valuable encouragement have given me the resolve to take the necessary steps to foster even greater diversity at ETH Zurich. We have made real progress – but there’s still a long way to go. I would like to express my heartfelt thanks to you, Sarah, for your services to ETH and to Switzerland, and for your great sense of humour and enthusiasm, both of which you shared with us over so many years.”
 
 Joël Mesot, President of ETH Zurich
-
-## Inspiring people
 
 “Working with Sarah has been a wonderful, inspiring experience. She humbly turned down our proposal to create a “Sarah Springman Prize”. So we put our heads together and came up with the idea of the Rector’s Impulse Fund, which has enabled us to support and implement many of her creative ideas over the years. We’ll never forget the private moments we shared with her at our home or over wonderful meals. We and ETH will miss Sarah greatly, but we wish her every joy and success in her new role and a safe return to British shores!”
 
@@ -50,8 +56,6 @@ Luca Dahle, former President of VSETH
 
 “Working so closely with Sarah was a real honour. As president of the Idea League, she guided our university alliance through the biggest challenge of its 20-year history. When the pandemic hit and tragedies began to unfold all across Europe, Sarah showed impressive leadership. She ensured that all our rectors had a safe space to share their concerns, to support each other in addressing the most pressing problems posed by the crisis, and to find ways of transforming our universities, so that we could emerge from the pandemic even stronger.”
 
-## This is how companions at ETH pay tribute to Sarah Springman
-
 Leslie Zachariah, Secretary General, Idea League
 
 “Doing the right things!” was always Sarah’s philosophy in setting priorities and shaping her vision for ETH Zurich – something she also did with the keen focus she showed in her successful sporting career. She demonstrated a clear sense of trust in Academic Services and her entire team, and tirelessly provided support and encouragement to all of us. The sense of appreciation we got from her motivated us to do the right things too. Thank you, Sarah!
@@ -65,8 +69,6 @@ Antonio Togni, Vice Rector for Doctoral Studies between 2016 and 2021
 I was amazed by the sheer amount of levity and fun that Sarah’s presence brought. Thanks to her, I also learned that we should always be asking ourselves: “Where are the women?”. The more famous she became, the more fan mail she got – so much so that we even ended up sending autograph cards to China and Japan! We’re both fans of Oscar Wilde, and she would sometimes recite a few passages – she was the best Lady Bracknell I’d ever heard! Sarah, I’ll miss your sense of humour!
 
 Marianne Mandrin, assistant to Rector Springman
-
-## Globe Rethinking universities
 
 Sarah’s impressive professional and sporting career makes her a real role model for many young scientists. Her immense dedication to ETH Zurich was evident in more than just the teaching side: she also made significant efforts in areas far beyond this – including, importantly, the role of women. She is a shining example of what we can all achieve through hard work, enthusiasm and courage. Thank you, Sarah – it was a huge honour to work so closely with you!
 

@@ -2,6 +2,8 @@
 
 **Source:** de_internal/2015/09/archiv-fuer-zeitgeschichte-hat-wieder-geoeffnet.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
 Das 1862 erbaute und 1977 total sanierte Gebäude ist in den letzten zwölf Monaten grundlegend renoviert und umgebaut worden.

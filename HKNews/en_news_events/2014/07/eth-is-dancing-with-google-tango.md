@@ -2,6 +2,8 @@
 
 **Source:** en_news_events/2014/07/eth-is-dancing-with-google-tango.html
 
+**Date processed:** 2025-05-01
+
 ## Virtual and real world combined
 
 A smartphone that can navigate you through a shopping centre and straight to the cereal aisle. A device that shows us how a sofa we have not yet purchased will actually look in our living room. Technology that can lead the blind much in the way that guide dogs do today. All of this could soon be a reality. A project group at internet giant Google is working with hardware manufacturers, public research institutions and others to develop this type of mobile device along with the necessary software. ETH professors Marc Pollefeys and Roland Siegwart and their staff are playing a major role in this initiative, codenamed Project Tango.
@@ -9,8 +11,6 @@ A smartphone that can navigate you through a shopping centre and straight to the
 The key feature of the new device is its ability to capture the three-dimensional environment in detail and in real time. To do this, it not only has a camera, accelerometer and angular rate sensor like any other smartphone, but is also equipped with a second built-in camera and an infrared light source. The latter projects a pattern invisible to the human eye on to the surroundings that is then captured by one of the two cameras. Using this information and the data from the acceleration and angular rate sensor, the device can then calculate detailed spatial information.
 
 Google has already produced prototypes that scientists from ETH Zurich are using for their research and to improve their algorithms. Google has announced that the first device should come on to the market next year; reportedly, it will be a tablet running the Android operating system.
-
-## Advantages over GPS
 
 “The possibilities of this device and the 3D data it delivers are limitless,” says Roland Siegwart, Professor of Autonomous Systems and Vice President of Research and Corporate Relations at ETH Zurich. “An incredible number of apps could be developed based on this technology. It remains to be seen what these will be.” The device may also open up entirely new possibilities for applications such as computer games. For example, the virtual content of games could be combined on the screen with the real surroundings captured by the camera. Gamers could use their mobile phones to navigate their way through virtually enhanced real environments, with virtual characters and objects moving with them on the screen. This combination of virtual and real worlds might also be useful for interior design visualisations.
 

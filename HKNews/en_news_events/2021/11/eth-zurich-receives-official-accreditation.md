@@ -2,16 +2,16 @@
 
 **Source:** en_news_events/2021/11/eth-zurich-receives-official-accreditation.html
 
+**Date processed:** 2025-05-01
+
 ## Main article
 
-- ETH’s strategy and development plan should more clearly define which offices/bodies are responsible for the various quality assurance processes. The analysis notes that informal practices carry a lot of weight and suggests making some of them official. In addition, the processes are to be better communicated internally and externally.
+Joël Mesot says: “The report by the AAQ expert group offers an incisive analysis, which reveals that quality assurance is a part of daily life at ETH that we want to maintain, deepen and refine.” Based on its report, the agency also formulated recommendations for ETH. In summary, they address the following concerns:
 
-- According to the external experts, the participation processes could be more uniformly regulated in the individual departments. In addition, they recommend reviewing how the committees should be composed so as to ensure that students and scientific staff have a say in the long term.
-
-- The expert group encourages ETH to go beyond splitting the first-year examinations into two blocks and institute further measures to ensure that fewer students drop out in the first year without taking the exam.
-
-- Furthermore, ETH should support doctoral students with courses on personal skills and see that they receive their own evaluation for their role in teaching.
-
+• ETH’s strategy and development plan should more clearly define which offices/bodies are responsible for the various quality assurance processes. The analysis notes that informal practices carry a lot of weight and suggests making some of them official. In addition, the processes are to be better communicated internally and externally.
+• According to the external experts, the participation processes could be more uniformly regulated in the individual departments. In addition, they recommend reviewing how the committees should be composed so as to ensure that students and scientific staff have a say in the long term.
+• The expert group encourages ETH to go beyond splitting the first-year examinations into two blocks and institute further measures to ensure that fewer students drop out in the first year without taking the exam.
+• Furthermore, ETH should support doctoral students with courses on personal skills and see that they receive their own evaluation for their role in teaching.
 Since the Swiss Higher Education Act entered into force in 2015, all public and private institutions of higher education that wish to use the designation of “university”, “university of applied sciences” or “university of teacher education” must be accredited every seven years.
 
 In October, ETH Zurich was one of the first universities to receive this accreditation.
@@ -27,8 +27,6 @@ In parallel, the university developed and published “Guidelines for the intern
 Crucial consultations
 
 In this way, ETH was able to demonstrate that quality assurance is broadly supported in its culture and organisation. This includes the Executive Board strategy process, the tenure track for professors, evaluations of departments and study programmes, teaching evaluations, and the firmly embedded culture of participation through the university groups: the University Assembly, the Lecturers’ Conference (KdL), the Academic Association of Scientific Staff at ETH Zurich (AVETH), the Association of Students at ETH Zurich (VSETH) and the Staff Commission. Many processes follow the principle of subsidiarity and are organised in a decentralised way.
-
-Joël Mesot says: “The report by the AAQ expert group offers an incisive analysis, which reveals that quality assurance is a part of daily life at ETH that we want to maintain, deepen and refine.” Based on its report, the agency also formulated recommendations for ETH. In summary, they address the following concerns:
 
 These recommendations found willing listeners at ETH: “In connection with the organisational development project rETHink , we have put our processes through a fundamental analysis, and ETH members from all areas are currently working on proposed solutions aimed precisely in this direction,” Mesot says. ETH is also on course with regard to teaching, as Rector Sarah Springman explains: “Strengthening interdisciplinary skills, not only among doctoral students but across all levels, is the goal of ETH Talent, a large-scale project that is currently gaining momentum.” She added that an increasing number of departments are introducing a split in the first-year examinations and that avoiding dropouts who fail to make any examination attempts has been on the Rectorate’s agenda for some time.
 

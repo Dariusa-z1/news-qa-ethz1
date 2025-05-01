@@ -2,13 +2,13 @@
 
 **Source:** de_news_events/2018/02/lehren-lernen.html
 
+**Date processed:** 2025-05-01
+
 ## Lehren lernen
 
 Die Prüfungen sind vorbei, vielleicht lagen ein paar Tage Ferien drin, und schon geht es wieder los für die Studierenden – das Frühlingssemester startet. Auch für die Dozierenden beginnt wieder die Zeit, in der Vorlesungen und Übungen die Agenda bestimmen. Eine ganz besondere Zeit beginnt für all jene, die zum ersten Mal vor einer Klasse stehen.
 
 Wir alle haben unsere Erfahrungen mit Lehrern und Dozentinnen gemacht, mit guten wie auch mit solchen, die didaktisch etwas weniger bewandert waren. Doch wie sieht es aus, wenn man selbst vorne steht? Wie motiviert man die Studierenden? Und wie vermittelt man ihnen den Stoff am besten? Antworten darauf vermittelt der Kurs «Learning to Teach» der Abteilung Lehrentwicklung und Technologie (LET), der sich speziell an Doktorierende richtet, die Übungen leiten, Exkursionen durchführen, aber auch Praktika oder ganze Vorlesungen betreuen.
-
-## Übungsstunde in Anorganischer Chemie
 
 In drei Tagen erhalten die Teilnehmenden einen Einblick in didaktische Konzepte und einen Überblick über die wichtigste Literatur. Viel wichtiger aber: Sie können eigene Erfahrungen sammeln, indem sie in Kleingruppen Lehrsituationen durchspielen. «Wir stellen das Ausprobieren ins Zentrum, die Theorie dazu versuchen wir möglichst schlank zu halten», charakterisiert die Verantwortliche im LET Marion Lehner den Kurs. «Haben die Teilnehmenden schon erste Lehrerfahrungen gemacht, können sie auch konkrete Fragen einbringen und so besonders profitieren.»
 
@@ -38,9 +38,9 @@ Janne Soetbeer bietet seit dem letzten Semester Übungsstunden für 20 bis 30 Er
 
 Manuel Zimmermann, Departement Bau, Umwelt und Geomatik.
 
-## Anstregend, aber lohnend
-
 «Gewisse Dinge, die ich vor dem Kurs als schwierig einschätzte, stellten sich tatsächlich als schwierig heraus», ist die Erkenntnis von Manuel Zimmermann, der für rund 200 Studierende Übungen zu einer Vorlesung über «Bahninfrastruktur» anbieten wird. Es sei nicht ganz einfach, eine Idee richtig zu vermitteln. Auch ihn haben die Gruppenübungen im Kurs weitergebracht, insbesondere das unmittelbare Feedback der Kolleginnen und Kollegen: «Im Unterricht bekomme ich ein solches Feedback selten, weil sich die Studierenden nicht getrauen etwas zu sagen, wenn sie meine Erklärungen nicht verstehen», sagt er. Aber auch das Geben von Feedback hat für Zimmermann viel zum Lernprozess beigetragen: «Wir waren gezwungen zu überlegen, weshalb etwas gut war und haben so gewisse methodische Prinzipien aus dem Theorieteil wieder erkannt.»
+
+## Anstregend, aber lohnend
 
 Der Kurs war anstrengend, doch er hat sich gelohnt, da sind sich alle Teilnehmenden einig. Motiviert nehmen sie nun ihre Lehraufgaben in Angriff, mit der Erkenntnis, dass man auch Fehler machen darf, um die Lehre zu verbessern. «Was wir bald im Grossen machen, haben wir hier im Kleinen erlebt», zieht Janne Soetbeer ein Fazit der drei Tage.
 
