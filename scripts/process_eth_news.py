@@ -1,9 +1,9 @@
 import os
 import json
-import logging
-import unicodedata
 import re
 import string
+import unicodedata
+import logging
 from tqdm import tqdm
 from langdetect import detect
 
@@ -582,7 +582,7 @@ def extract_keywords(text, language):
     
     return unique_keywords[:7]
 
-# Function for summary generation
+# Function to generate a summary
 def generate_summary(text, max_length=200):
     """
     Generate a summary of the text.
@@ -759,7 +759,7 @@ def generate_rich_metadata(text, language):
     
     return rich_metadata
 
-# Main processing function
+# Main article processing function
 def process_article(markdown_text, filename):
     """
     Process a single article through all cleaning steps.
@@ -841,137 +841,3 @@ def process_article(markdown_text, filename):
                 "context_tags": ["ETH Internal"]
             }
         }
-
-def process_folder_structure(base_path):
-    """
-    Process the entire folder structure of the ETH News repository.
-    
-    Args:
-        base_path (str): Path to the HKNews folder
-    """
-    # Define the language folders to process
-    language_folders = ['de_internal', 'de_news_events', 'en_internal', 'en_news_events']
-    
-    # Count statistics
-    total_files = 0
-    processed_files = 0
-    failed_files = 0
-    
-    # Process each language folder
-    for lang_folder in language_folders:
-        lang_path = os.path.join(base_path, lang_folder)
-        
-        if not os.path.exists(lang_path):
-            logger.warning(f"Language folder {lang_path} does not exist, skipping.")
-            continue
-        
-        logger.info(f"Processing language folder: {lang_folder}")
-        
-        # Get all year folders (either direct years like '2018' or special case '2017/01')
-        year_folders = []
-        for item in os.listdir(lang_path):
-            item_path = os.path.join(lang_path, item)
-            if os.path.isdir(item_path):
-                if item.isdigit():  # Regular year folder (e.g., '2018')
-                    year_folders.append(item)
-                elif item == '2017':  # Check for special case '2017/01'
-                    special_case = os.path.join(item_path, '01')
-                    if os.path.exists(special_case) and os.path.isdir(special_case):
-                        year_folders.append(os.path.join('2017', '01'))
-        
-        # Process each year folder
-        for year_folder in sorted(year_folders):
-            year_path = os.path.join(lang_path, year_folder)
-            
-            # Handle the special case of '2017/01'
-            if year_folder == os.path.join('2017', '01'):
-                # For the special case, we're already at the month level
-                month_folders = ['']
-                year_path = os.path.join(lang_path, '2017', '01')
-            else:
-                # For regular years, get all month folders
-                try:
-                    month_folders = [f for f in os.listdir(year_path) if os.path.isdir(os.path.join(year_path, f))]
-                except FileNotFoundError:
-                    logger.warning(f"Year folder {year_path} does not exist, skipping.")
-                    continue
-            
-            for month_folder in sorted(month_folders):
-                # For the special case '2017/01', month_folder will be ''
-                if month_folder:
-                    month_path = os.path.join(year_path, month_folder)
-                else:
-                    month_path = year_path
-                
-                logger.info(f"Processing folder: {os.path.relpath(month_path, base_path)}")
-                
-                # Get all markdown files in this month folder
-                try:
-                    files = [f for f in os.listdir(month_path) if f.endswith('.md')]
-                    total_files += len(files)
-                except FileNotFoundError:
-                    logger.warning(f"Month folder {month_path} does not exist, skipping.")
-                    continue
-                
-                # Process each markdown file
-                for md_file in files:
-                    md_path = os.path.join(month_path, md_file)
-                    json_path = os.path.join(month_path, md_file.replace('.md', '.json'))
-                    
-                    try:
-                        # Read the markdown file
-                        with open(md_path, 'r', encoding='utf-8') as f:
-                            markdown_content = f.read()
-                        
-                        # Process the article
-                        processed_data = process_article(markdown_content, md_file)
-                        
-                        # Save as JSON in the same folder
-                        with open(json_path, 'w', encoding='utf-8') as f:
-                            json.dump(processed_data, f, ensure_ascii=False, indent=2)
-                        
-                        processed_files += 1
-                        logger.info(f"Processed {md_file} -> {md_file.replace('.md', '.json')}")
-                        
-                    except Exception as e:
-                        logger.error(f"Error processing file {md_path}: {str(e)}")
-                        failed_files += 1
-    
-    # Print final statistics
-    logger.info(f"\nProcessing completed:")
-    logger.info(f"Total files found: {total_files}")
-    logger.info(f"Successfully processed: {processed_files}")
-    logger.info(f"Failed to process: {failed_files}")
-    
-    return processed_files
-
-def main():
-    """
-    Main function to execute the ETH News processing script.
-    """
-    # Get the base path to the HKNews folder in the GitHub repository
-    # In Colab, the GitHub repo is usually cloned to the current working directory
-    repo_name = 'news-qa-ethz1'
-    base_path = os.path.join(os.getcwd(), repo_name, 'HKNews')
-    
-    if not os.path.exists(base_path):
-        logger.error(f"HKNews folder not found at {base_path}")
-        # Try to find it by searching the current directory
-        for root, dirs, _ in os.walk(os.getcwd()):
-            if 'HKNews' in dirs:
-                base_path = os.path.join(root, 'HKNews')
-                logger.info(f"Found HKNews folder at {base_path}")
-                break
-        else:
-            logger.error("Could not find HKNews folder. Make sure the repository is cloned correctly.")
-            return
-    
-    logger.info(f"Starting ETH News processing from {base_path}")
-    
-    # Process all markdown files in the folder structure
-    processed_count = process_folder_structure(base_path)
-    
-    logger.info(f"Successfully processed {processed_count} files")
-
-if __name__ == "__main__":
-    main()
