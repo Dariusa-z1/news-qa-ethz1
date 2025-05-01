@@ -1,5 +1,7 @@
 # betreuung-der-doktorierenden-staerken
 
+**Source:** de_internal/2018/05/betreuung-der-doktorierenden-staerken.html
+
 ## Guter Zeitpunkt für Lösungen
 
 Das Doktorat an der ETH ist ein besonderer Leistungsausweis: Deshalb wird von den Doktorierenden viel verlangt, wissenschaftlich wie auch in Bezug auf das persönliche und zeitliche Engagement. Um ein Doktorat erfolgreich zu bestehen, brauchen die Studierenden zudem eine gute Betreuung durch Professorinnen und Professoren.

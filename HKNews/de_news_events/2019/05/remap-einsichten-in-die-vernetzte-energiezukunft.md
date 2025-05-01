@@ -1,5 +1,7 @@
 # remap-einsichten-in-die-vernetzte-energiezukunft
 
+**Source:** de_news_events/2019/05/remap-einsichten-in-die-vernetzte-energiezukunft.html
+
 ## Flexibler Konsument und lokale Intelligenz
 
 - Detlef Günther, Vizepräsident für Forschung und Wirtschaftsbeziehungen, ETH Zürich

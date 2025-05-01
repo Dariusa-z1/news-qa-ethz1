@@ -1,5 +1,7 @@
 # neue-townhall-serie-wohlbefinden-in-herausfordernden-zeiten
 
+**Source:** de_internal/2020/12/neue-townhall-serie-wohlbefinden-in-herausfordernden-zeiten.html
+
 ## Soziales Beisammensein in Pandemiezeiten
 
 Die letzten Monate haben gezeigt: Fernab der Normalität, aber mit Bravour meisterten die ETH-Angehörigen die Herausforderungen, die sich durch die Pandemie gestellt haben. Besonders jetzt, wo sich der Arbeitsalltag enorm verändert hat – vom Homeoffice, der Maskenpflicht auf dem Campus hin zu Social Distancing – kommt dem persönlichen Wohlbefinden eine tragende Rolle zu.
@@ -22,25 +24,21 @@ Rosa Visscher vom AVETH stellte Initiativen zum Bereich soziale Fitness vor, die
 
 Nadine Bienefeld, Arbeitspsychologin vom D-MTEC, stellte die Resultate der Covid-10 Mitarbeiterumfrage vor, die zwischen März und Mai 2020 durchgeführt wurde. Augenscheinlich waren die Ergebnisse, dass Mitarbeitende an der ETH generell gut mit der Krisensituation umgehen konnten. Herauskristallisiert hat sich jedoch: Doktorierende und Post-Docs des Mittelbaus fühlten sich am meisten gestresst. Mittlerweile haben sich die Umstände der Pandemiesituation geändert: Deshalb ist nun eine zweite Erhebungsrunde geplant, die am 14.12.2020 startet.
 
-Im Anschluss stellte Julia Dannath zusammen mit dem AVETH ein Massnahmenpaket vor, das unsere Zusammenarbeit und unseren Austausch während und nach der Corona-Pandemie positiv beeinflussen soll. Eine dieser Massnahmen ist das neu lancierte Projekt der «LunchLottery», wo sich ETH-Angehörige zum Austausch über Teamgrenzen hinweg treffen können. Zwei Mal pro Monat bringt die externe Veranstaltungsplattform LunchLottery per Los drei Kontakte aus der ETH-Community zu einem gemeinsames, im Moment leider virtuellen Mittagesessen oder zu einer Online-Kaffeepause zusammen. Damit sollen Vernetzungsmöglichkeiten geschaffen und die soziale Fitness der ETH-Community gestärkt werden. Der Pilotversuch dauert drei Monate mit einer anschliessenden Umfrage zu den Erfahrungen der Teilnehmenden.
+Kurz vor Abschluss ging Vizepräsidentin Dannath auf Fragen der ETH-Angehörigen ein, unterstützt durch Martin Ghisletti. In der rund einstündigen Townhall sind Fragen aufgekommen wie: Was sind mögliche Langzeitpläne der Schulleitung zur Verbesserung des Wohlbefindens? Was kann ich tun, wenn ich mich sozial isoliert fühle?
 
 ## Weitere Informationen
 
-Kurz vor Abschluss ging Vizepräsidentin Dannath auf Fragen der ETH-Angehörigen ein, unterstützt durch Martin Ghisletti. In der rund einstündigen Townhall sind Fragen aufgekommen wie: Was sind mögliche Langzeitpläne der Schulleitung zur Verbesserung des Wohlbefindens? Was kann ich tun, wenn ich mich sozial isoliert fühle?
-
 Sämtliche Fragen und Antworten, die von allgemeinem Interesse sind, werden in die FAQs auf der Coronawebsite einfliessen.
-
-## Staffnet
 
 Die nächste Townhall zum Thema «physische Fitness» wird im Januar 2021 stattfinden.
 
-Machen Sie mit bei der ETH LunchLottery. Treffen Sie sich mit anderen ETH-Angehörigen zu einem Austausch über die üblichen Teamgrenzen hinweg. Zwei Mal pro Monat lost Ihnen die LunchLottery zwei Kontakte aus der ETH-Community zu für ein gemeinsames Mittagessen oder eine Kaffeepause zu dritt.
-
-## Newsletter abonnieren
+## Staffnet
 
 externe Seite Hier können Sie sich registrieren.
 
 Informationen und Tipps zur Unterstützung von Führungskräften und Mitarbeitenden während der Coronakrise finden Sie hier .
+
+## Newsletter abonnieren
 
 Alle Informationen zu den Massnahmen der ETH Zürich in Zusammenhang mit dem Coronavirus finden sich auf der Corona-Website .
 

@@ -1,5 +1,7 @@
 # was-waelder-im-sommer-verbraunen-laesst
 
+**Source:** de_news_events/2023/03/was-waelder-im-sommer-verbraunen-laesst.html
+
 ## Das Wichtigste in Kürze
 
 - Europäische Wälder verbraunten in den letzten fünf Jahren weiträumig.

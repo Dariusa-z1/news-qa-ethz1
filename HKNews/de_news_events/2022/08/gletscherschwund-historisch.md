@@ -1,5 +1,7 @@
 # gletscherschwund-historisch
 
+**Source:** de_news_events/2022/08/gletscherschwund-historisch.html
+
 ## Alte Daten – neue Erkenntnisse
 
 Die Gletscher schmelzen rasch ab - seit den 2000er Jahren erfassen und erforschen Wissenschaftler:innen die Volumenänderung immer genauer. Wie sich die Gletscher im 20. Jahrhundert verändert haben, ist hingegen kaum bekannt. Zwar gibt es wenige Studien, welche einzelne Gletscheroberflächen des späten 19. und frühen 20. Jahrhundert rekonstruieren, aber diese zeigen teilweise eine grosse Diskrepanz zu bestehenden Modellen, wenn es darum geht, das entsprechende Gletschervolumen zu schätzen.

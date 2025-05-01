@@ -1,5 +1,7 @@
 # portrait-jan-wegner
 
+**Source:** de_news_events/2020/05/portrait-jan-wegner.html
+
 ## Mit Software gegen Hungersnöte
 
 Wie verändert sich weltweit die Artenvielfalt? Wie kann die Produktion von Schokolade nachhaltiger werden? Und wie steht es um die Äcker der Schweizer Bauern? Diesen und ähnlichen Fragen geht Jan Dirk Wegner auf den Grund. Sein Ziel: Die Lebensqualität der Menschen auf der ganzen Welt verbessern und gleichzeitig die Umwelt schützen. Das klingt nach einem hoch gegriffenen Ziel, doch Wegner verfolgt es nicht allein. Um es zu erreichen, hat er vor drei Jahren das EcoVision Lab an der ETH Zürich gegründet.

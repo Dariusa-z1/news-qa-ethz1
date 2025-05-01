@@ -1,5 +1,7 @@
 # working-from-home-no-longer-compulsory
 
+**Source:** en_internal/2021/05/working-from-home-no-longer-compulsory.html
+
 ## Remote working still recommended
 
 “Following the government’s easing of restrictions, we are now able to offer our employees a little more flexibility, and we can open up university buildings,” says ETH Vice President Ulrich Weidmann, summarising the main thrust of the new master plan passed by the Executive Board. The new rules take effect from 7 June 2021, to allow enough time for the measures to be rolled out and to make sure all ETH members are informed. The new regulations will provisionally apply up to the beginning of July.

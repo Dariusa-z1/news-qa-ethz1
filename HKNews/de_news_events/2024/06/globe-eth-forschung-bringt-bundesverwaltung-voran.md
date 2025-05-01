@@ -1,5 +1,7 @@
 # globe-eth-forschung-bringt-bundesverwaltung-voran
 
+**Source:** de_news_events/2024/06/globe-eth-forschung-bringt-bundesverwaltung-voran.html
+
 ## Trends im Bevölkerungsschutz
 
 Forschende der ETH Zürich stellen ihr Know-how regelmässig in den Dienst der Schweizer Politik und Verwaltung, um Lösungen für gesellschaftliche Probleme zu entwickeln. Ob in Auftragsstudien, Anhörungen oder in Beratungsgesprächen – die Wissenschaftler:innen liefern Daten, zeigen Trends auf, berechnen Szenarien, erklären Zusammenhänge, oder warnen vor Gefahren. Damit tragen die ETH-Forschenden immer wieder zu Innovationen im öffentlichen Sektor bei, denn der Verwaltung fehlt meist die Zeit, sich eingehender mit neuen Analysemethoden und Technologien zu beschäftigen.
@@ -35,4 +37,6 @@ Die Bundesverwaltung ist immer wieder das Ziel von Cyberangriffen. So wurden im 
 Damit das im Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) nicht passiert, sensibilisiert Céline Herren dessen Mitarbeitende für die gängigen Cyberrisiken. Sie hält Vorträge und Workshops, konzipiert E-Learning-Module und wirkt an Informationskampagnen des Departements mit. Um sich als ausgebildete Psychologin ohne Informatikhintergrund die technischen Grundlagen im Bereich Cybersicherheit anzueignen und neue Risken besser einschätzen zu können, hat sie im Herbst 2023 das CAS ETH in Cyber Security absolviert.
 
 «Durch die Weiterbildung habe ich ein vertieftes Verständnis für die aktuellen Herausforderungen und Trends im Bereich Cybersicherheit erlangt. Dieses Know-how ermöglicht es mir, unsere Mitarbeitenden umfassender zu informieren und bessere Lehrmittel zu entwickeln», sagt Herren und ergänzt: «Die Kurse waren zum Teil technisch anspruchsvoll. Doch wenn das erworbene Wissen dazu beitragen kann, Cyberangriffe auf das VBS besser abzuwehren und zu bewältigen, hat sich der Aufwand gelohnt.»
+
+Ganze Ausgabe lesen (PDF, 7.4 MB)
 

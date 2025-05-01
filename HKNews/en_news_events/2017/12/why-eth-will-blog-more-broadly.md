@@ -1,5 +1,7 @@
 # why-eth-will-blog-more-broadly
 
+**Source:** en_news_events/2017/12/why-eth-will-blog-more-broadly.html
+
 ## Widespread doubt
 
 We’re living in strange times. Scientists worldwide almost unanimously consider climate change to be a real phenomenon, but some of the world’s highest political authorities still doubt its existence or even deny it entirely. Established scientists are derided with impunity from anonymous internet platforms. Every eighth person in Germany states that they don’t believe in science, and only half of those surveyed trust in research. [1] In such strange times, universities are challenged to step up – and to communicate.

@@ -1,5 +1,7 @@
 # administrative-enquiry-opened
 
+**Source:** en_news_events/2017/10/administrative-enquiry-opened.html
+
 ## Top priority: the protection of doctoral students
 
 ETH Zurich’s Executive Board has decided to open an independent administrative enquiry in response to allegations made in the former Institute for Astronomy. The purpose of the investigation is to examine the circumstances and procedures in the areas concerned, and to review the conduct of the people involved. ETH President Lino Guzzella comments on the decision: “The official enquiry allows us to take an even closer look at the facts and decide whether further measures still need to be taken”. Over the coming days, the ETH Executive Board will commission an external expert to carry out the administrative investigation.
@@ -19,6 +21,4 @@ In hindsight, the personnel set-up at the Institute for Astronomy was not ideal,
 The university’s supervisory body, the ETH Board, has also looked into what happened with the Institute for Astronomy. In September it commended the prompt and appropriate action taken by the university, as well as the remedial measures. At the same time, it was of the opinion that the next step should be for the university to carry out a further administrative enquiry.
 
 Now that the immediate measures have defused the situation in the department, ETH Zurich is following the lead of its supervisory body. There will be a detailed investigation into what happened, focusing on the question of how better to ensure that reports of poor management conduct can be swiftly escalated to a higher level within the organisation, and in serious cases directly to the Executive Board. ETH Zurich is unable to provide additional information on this matter until the ongoing investigation has been completed and the findings submitted to the ETH Board.
-
-ETH Zurich Media Relations Phone: +41 44 632 41 41
 

@@ -1,5 +1,7 @@
 # finding-our-sea-legs-on-the-southern-ocean
 
+**Source:** en_news_events/2016/12/finding-our-sea-legs-on-the-southern-ocean.html
+
 ## A closer look at water cycles
 
 After two field campaigns in Switzerland, I now have the chance to take part in a large-scale research expedition – a unique opportunity for a young weather scientist. The expedition aims to circumnavigate Antarctica – an ambitious project (see box). For me, it’s also the realisation of a dream. The anticipation I felt, as well as the team’s meticulous preparations, reflected the scale of the occasion.

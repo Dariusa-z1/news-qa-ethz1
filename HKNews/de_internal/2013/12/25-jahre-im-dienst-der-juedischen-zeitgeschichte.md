@@ -1,5 +1,7 @@
 # 25-jahre-im-dienst-der-juedischen-zeitgeschichte
 
+**Source:** de_internal/2013/12/25-jahre-im-dienst-der-juedischen-zeitgeschichte.html
+
 ## Weit mehr als nur ein Job
 
 Eigentlich ist es kein Zufall, dass Uriel Gast vor 25 Jahren frisch von der Universität Zürich am Archiv für Zeitgeschichte der ETH Zürich ( AfZ ) anfing. Auch wenn er in den Job als Archivar «unverhofft hineingerutscht» sei, begleitete ihn das Schicksal der jüdischen Flüchtlinge in der Schweiz seit jungen Jahren. Bereits Jahre zuvor hatte er eine KV-Lehre beim Europa-Verlag Zürich absolviert, deren Besitzer sich während des Zweiten Weltkriegs für politische Emigranten und jüdische Flüchtlinge einsetzten. «Die Geschichten dazu waren im Haus allgegenwärtig», erinnert er sich. Später studierte er allgemeine Geschichte und widmete sich in seiner Lizentiatsarbeit der Geschichte der Eidgenössischen Fremdenpolizei seit dem Ersten Weltkrieg. Diese baute er nach seinem Abschluss zur Dissertation aus. Auf Grund dieser Arbeit sei der damalige Archivleiter auf ihn aufmerksam geworden und habe ihm einen Job angeboten, sagt Gast: «Ich hatte Glück, dass er sich mit den gleichen Themen beschäftigte».
@@ -10,15 +12,13 @@ Mit seinem Einstieg als junger Archivar und Historiker fing für ihn ein wichtig
 
 ## Dienstjubiläen
 
-Uriel Gasts Arbeitsjahre waren intensiv, die Abende lang. Er musste Kontakt zu Schlüsselfiguren der Zeitgeschichte aufbauen, sich in Lebensläufe- und Schicksale einlesen, wie er betont. Die persönliche Begegnung mit vielen Zeitzeugen bedeutet oft auch den Aufbau einer jahrelangen Beziehung – und deren Begleitung bis zu ihrem Tod. Heute ist der Leiter des Fachbereichs jüdische Zeitgeschichte 62 Jahre alt. Die Aufbauarbeit der ersten Jahre ist getan, die Arbeitstage sind kürzer geworden. Für ihn – selbst jüdischen Glaubens – sei die Arbeit im AfZ weit mehr als nur ein Job, sagt der Historiker. «Für mich war und ist es wohl unbewusst auch eine Spurensuche und Identitätsfindung.»
+Ab sofort erscheinen die Dienstjubiläen wieder monatlich im Intranet. Durch die Ablösung des ETH life print kam es hier zu Verzögerungen.
 
 ## Staffnet
 
-Ab sofort erscheinen die Dienstjubiläen wieder monatlich im Intranet. Durch die Ablösung des ETH life print kam es hier zu Verzögerungen.
+Juli 2013 35 Jahre Hans-Jürg Beat Gübeli, Laboratorium für Festkörperphysik Dr. Jiri Pika, ETH-Bibliothek 20 Jahre Prof. Dr. Matthias Ernst, Laboratorium für Physikalische Chemie Niklaus Heim, ID Service Delivery Martina Molz, ETH-Bibliothek 15 Jahre Prof. Dr. Bernd Gärtner, Institut für Theoretische Informatik Doris Russenberger, Professur Pflanzenbiotechnologie 10 Jahre Dr. Matthias Töwe, ETH-Bibliothek
 
 ## Newsletter abonnieren
-
-Juli 2013 35 Jahre Hans-Jürg Beat Gübeli, Laboratorium für Festkörperphysik Dr. Jiri Pika, ETH-Bibliothek 20 Jahre Prof. Dr. Matthias Ernst, Laboratorium für Physikalische Chemie Niklaus Heim, ID Service Delivery Martina Molz, ETH-Bibliothek 15 Jahre Prof. Dr. Bernd Gärtner, Institut für Theoretische Informatik Doris Russenberger, Professur Pflanzenbiotechnologie 10 Jahre Dr. Matthias Töwe, ETH-Bibliothek
 
 Altersrücktritte Noemi Blättler, Departement Geistes-, Sozial- und Staatswissenschaften Angela Ferrara-Macirelli, Areal Hönggerberg Peter Küpfer, Institut für Raum- und Landschaftsentwicklung Marco Mächler, Medien- und IT-Services Orlando Monsch, Departement Bau, Umwelt und Geomatik Dr. Peter Thurnheer, Departement Mathematik Claudia Eva Wittwer, Departement Maschinenbau und Verfahrenstechnik
 

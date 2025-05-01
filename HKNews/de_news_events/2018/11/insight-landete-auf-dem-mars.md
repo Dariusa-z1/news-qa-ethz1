@@ -1,5 +1,7 @@
 # insight-landete-auf-dem-mars
 
+**Source:** de_news_events/2018/11/insight-landete-auf-dem-mars.html
+
 ## ETH-Elektronik an Bord
 
 Die Insight-Mission hat einen weiteren Meilenstein erreicht: Nach über sechsmonatiger Flugzeit durchs All trat die Raumsonde am Montagabend in die dünne Mars-Atmosphäre ein, ging, gebremst durch einen grossen Fallschirm, in den Sinkflug über und setzte mithilfe von Brems-Triebwerken sanft auf der Ebene Elysium Planitia auf. Das gesamte Landemanöver dauerte nur gerade sechs Minuten.

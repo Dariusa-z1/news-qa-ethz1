@@ -1,5 +1,7 @@
 # die-schulleitung-informiert-2023-7
 
+**Source:** de_internal/2023/09/die-schulleitung-informiert-2023-7.html
+
 ## Wiederwahl des Delegierten für Digitale Transformation
 
 - Andreas Kilcher, D-GESS (Wiederwahl)

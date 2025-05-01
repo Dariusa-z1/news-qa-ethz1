@@ -1,5 +1,7 @@
 # die-eth-regeln-zur-zertifikatspflicht
 
+**Source:** de_internal/2021/09/die-eth-regeln-zur-zertifikatspflicht.html
+
 ## Mehrere Impfstoffe anerkannt
 
 Die ETH Zürich führt auf das neue Semester hin, das am Montag beginnt, eine Zertifikatspflicht für alle Lehrveranstaltungen auf Bachelor- und Masterstufe ein. Wer genesen, geimpft oder getestet ist und über ein entsprechendes Zertifikat verfügt, hat also Zugang zu allen im Vorlesungsverzeichnis aufgeführten Präsenzveranstaltungen. Dadurch wird es möglich, dass die Räume der ETH voll belegt werden können. Als zusätzliche Sicherheitsmassnahme gelten in allen Lehrveranstaltungen wie generell in Innenräumen eine Maskenpflicht sowie die Aufforderung, die Distanzen zwischen den Teilnehmenden möglichst gross zu halten.
@@ -26,13 +28,15 @@ In Restaurationsbetrieben, die weiterhin öffentlich zugänglich bleiben (z.B. C
 
 ## Kommentarregeln Intern aktuell
 
-An einer digitalen Townhall am 22. September 2021 von 16.00 bis 17.00 Uhr stehen Rektorin Sarah Springman und der Leiter der Corona-Taskforce der ETH, Ulrich Weidmann (Vizepräsident für Infrastruktur), ETH-Angehörigen für Fragen zur Verfügung. Eine Einladung dazu erfolgt separat.
+Da sich durch die Einführung der Zertifikatspflicht in Lehrveranstaltungen und Teilen der Gastronomie einiges ändert, wird ein neuer Corona-Masterplan erstellt, der kommende Woche auf der Corona-Website publiziert wird. Die Änderungen gegenüber dem aktuell gültigen Masterplan sind schon jetzt dort nachzulesen.
 
 ## Staffnet
 
-Wir freuen uns, wenn Sie an dieser Stelle Artikel kommentieren, Fragen stellen oder auch auf Kommentare anderer Leserinnen und Leser antworten.
+An einer digitalen Townhall am 22. September 2021 von 16.00 bis 17.00 Uhr stehen Rektorin Sarah Springman und der Leiter der Corona-Taskforce der ETH, Ulrich Weidmann (Vizepräsident für Infrastruktur), ETH-Angehörigen für Fragen zur Verfügung. Eine Einladung dazu erfolgt separat.
 
 ## Newsletter abonnieren
+
+Wir freuen uns, wenn Sie an dieser Stelle Artikel kommentieren, Fragen stellen oder auch auf Kommentare anderer Leserinnen und Leser antworten.
 
 Die Kommentare werden vor der Veröffentlichung von der Redaktion gelesen und aufgeschaltet, sofern sie den Kommentarregeln entsprechen. Bitte beachten Sie, dass daher u.a. anonym verfasste Kommentare sowie Beiträge, die persönliche Angriffe jeglicher Art, Beleidigungen oder gezielte Provokationen beinhalten, nicht veröffentlicht werden.
 

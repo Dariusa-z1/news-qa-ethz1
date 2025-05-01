@@ -1,5 +1,7 @@
 # langsame-entscheidungen-zeigen-rueckfalrisiko-einer-depression-an
 
+**Source:** de_news_events/2020/02/langsame-entscheidungen-zeigen-rueckfalrisiko-einer-depression-an.html
+
 ## Im Bett bleiben oder aufstehen?
 
 Depressionen sind eine weit verbreitete Krankheit mit einem schwierig vorherzusehenden Verlauf. Häufig ist die Erkrankung wiederkehrend: depressive Phasen kommen und gehen. Aus Studien ist bekannt, dass die Behandlung über das Abklingen der Symptome hinaus fortgesetzt werden sollte, um die Gefahr eines Rückfalls zu verringern. «Schätzungsweise 30 Prozent der Betroffenen erleiden in den ersten sechs Monaten nach dem Absetzen einen Rückfall. Das ist ein sehr hoher Anteil. Bisher gibt es kein etabliertes Instrument, mit dem sich dieses Risiko abschätzen lässt», sagt Isabel Berwian. Psychologin und Postdoktorandin an der Translational Neuromodeling Unit von ETH und Universität Zürich.

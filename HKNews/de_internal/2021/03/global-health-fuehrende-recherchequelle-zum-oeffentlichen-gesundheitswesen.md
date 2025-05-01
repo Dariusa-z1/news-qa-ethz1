@@ -1,5 +1,7 @@
 # global-health-fuehrende-recherchequelle-zum-oeffentlichen-gesundheitswesen
 
+**Source:** de_internal/2021/03/global-health-fuehrende-recherchequelle-zum-oeffentlichen-gesundheitswesen.html
+
 ## Main article
 
 Mit über 3,1 Millionen Datensätzen und einem jährlichen Zuwachs von über 160 000 Datensätzen ist Global Health die einzige Fachdatenbank, die sich der öffentlichen Gesundheit widmet. Sie vervollständigt das Bild der internationalen Medizin- und Gesundheitsforschung, indem sie einen unübertroffenen Zugang zu allen relevanten Forschungen und Praktiken im Bereich der öffentlichen Gesundheit weltweit bietet.

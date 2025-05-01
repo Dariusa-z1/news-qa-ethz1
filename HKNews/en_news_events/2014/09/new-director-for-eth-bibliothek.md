@@ -1,5 +1,7 @@
 # new-director-for-eth-bibliothek
 
+**Source:** en_news_events/2014/09/new-director-for-eth-bibliothek.html
+
 ## Main article
 
 After working for ETH Zurich for many years, Wolfram Neubauer, Director of the ETH-Bibliothek, will be retiring next year, having been in charge of the library since 1 September 1996.

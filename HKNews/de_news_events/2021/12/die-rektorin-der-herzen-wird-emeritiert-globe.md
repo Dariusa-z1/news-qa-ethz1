@@ -1,5 +1,7 @@
 # die-rektorin-der-herzen-wird-emeritiert-globe
 
+**Source:** de_news_events/2021/12/die-rektorin-der-herzen-wird-emeritiert-globe.html
+
 ## Grundlegende Reformen umgesetzt
 
 Sarah Springman hat sich mit grosser Begeisterung für gute Lehre eingesetzt. (Bild: Markus Bertschi)
@@ -73,6 +75,8 @@ Florentine Strudwick, Präsidentin AVETH
 Als Ingenieurwissenschaftlerin hat Sarah die Auswirkungen von Naturgegebenheiten auf Bauwerke erforscht, und mit ihrem scharfen Verstand konnte sie als Rektorin Parallelen zum Lernen ziehen: Bildungsangebote lassen sich nicht gegen die Natur des menschlichen Denkens und Erlebens durchsetzen. Aber wenn man zugrundeliegende Mechanismen kennt, kann man in Einklang mit der Natur solide Fundamente schaffen – weshalb sie zum Beispiel die Youth Academy zum MINT-Lernen ins Leben gerufen hat.
 
 Elsbeth Stern, Professorin für empirische Lehr- und Lernforschung
+
+Ausgabe als PDF lesen (PDF, 16.3 MB)
 
 Ausgabe online lesen
 

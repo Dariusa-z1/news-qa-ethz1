@@ -1,5 +1,7 @@
 # effektives-lernen-mit-wikibooks
 
+**Source:** de_news_events/2014/11/effektives-lernen-mit-wikibooks.html
+
 ## Qualitatives Fachbuch für jedermann
 
 Thomas Haslwanter hatte schon immer ein Faible für kompaktes Wissen: Nach dem Einreichen seiner Doktorarbeit an der ETH Zürich 1992 beschenkte er sich erst einmal mit einer umfassenden Enzyklopädie. Heute ist Haslwanter Professor für Medizintechnik an der FH Oberösterreich und bietet als Privatdozent an der ETH die Vorlesung «Computer Simulations of Sensory Systems» an. Während eines Semesters lernen Masterstudierende aus Medizintechnik, Biologie und Neuroinformatik die physiologischen Eigenschaften von sensorischen Systemen, wie Augen, Ohren und Gleichgewicht kennen sowie Technologien verstehen, die solche Systeme nachbilden oder als Inspiration nutzen.

@@ -1,5 +1,7 @@
 # donation-hpq-building
 
+**Source:** en_news_events/2020/11/donation-hpq-building.html
+
 ## Enhancing Switzerland as a research location
 
 In recent years, quantum research has developed at breakneck speed. Scientists believe that quantum phenomena in the fields of computing, sensor technology and cryptography will soon facilitate novel technological applications. However, research in this field relies on highly complex infrastructure, because it takes extremely elaborate experiments to detect these fragile effects at the atomic level.
@@ -35,6 +37,4 @@ Together with committed private individuals, companies and foundations, ETH Foun
 ETH Foundation website
 
 Martin Haefner (born 1954) studied mathematics at ETH Zurich. After teaching that subject at secondary schools in Baden and Lucerne (Alpenquai), Switzerland, he became Executive Chairman of the Board of Directors of Swiss automotive group AMAG in 2006. Today Haefner is the sole owner of AMAG, and a committed philanthropist. He was also one of the very first donors to ETH Foundation. He is married and lives in Horw, canton of Lucerne.
-
-ETH Zurich Corporate Communications Media Relations Phone: +41 44 632 41 41
 

@@ -1,5 +1,7 @@
 # virtuelle-gedenkfeier-fuer-koni-steffen
 
+**Source:** de_internal/2020/11/virtuelle-gedenkfeier-fuer-koni-steffen.html
+
 ## Weitere Informationen
 
 Das Bedürfnis, von Koni Steffen Abschied zu nehmen, sei sehr gross, schreibt die WSL in einer Mitteilung auf ihrer Webseite. Die WSL werde daher mit dem Einverständnis der Familie Steffen eine Gedenkfeier abhalten.

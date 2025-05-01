@@ -1,12 +1,14 @@
 # open-exchange
 
+**Source:** en_internal/2019/03/open-exchange.html
+
 ## Main article
 
 More than 600 employees accepted the Executive Board’s invitation to the information event and were able to attend in person on the Hönggerberg or in one of the broadcasting rooms.Those who unfortunately could not attend at such short notice now have the opportunity to watch a protected page video recording of the event lock (password protected).
 
-Why was the event not held in English? The event was aimed not only at doctoral students, but at all personnel. This includes staff whose English is not so strong. The part that was directed particularly at doctoral students was given by the Rector in English.
+Before and during the event, numerous questions were received via SMS and WhatsApp. Due to time constraints, the Executive Board could not answer all of them during the event. The most frequently asked questions are summarised and answered below. Employees can also find more detailed information in the press release , the interview with Joël Mesot and the speech scripts for the ETH President's (PDF, 116 KB) and Rector's (PDF, 136 KB) speeches at the press conference.
 
-Will the HR department also receive training in how to handle reports? Yes. The various contact points and reporting offices at ETH will receive regular training from the autumn of 2019. However, the HR department already has professionals with the appropriate education and training, such as psychologists and psychotherapists. They also cooperate with external experts and ensure that the people affected quickly receive professional support. In addition, new rules will be established for the handling of reports and complaints; these will include measures for speeding up the process. The goal is for reports to be addressed immediately, and the handling of reports to be completed within six months if possible. To this end, case management will be expanded in stages to form a team. This will ensure that the right offices are involved and that all affected parties are informed regularly about the status of the proceedings.
+Why was the event not held in English? The event was aimed not only at doctoral students, but at all personnel. This includes staff whose English is not so strong. The part that was directed particularly at doctoral students was given by the Rector in English.
 
 There are numerous designated offices and contact points that people can turn to when they have problems. How will it be ensured that these reporting offices properly communicate amongst each other? Will the counselling centres run by student associations be involved in this exchange? ETH will make sure that networking between the various contact points is improved. A new measure we will introduce is to regularly pool together the information available at the various contact points, so that conflict situations can be identified at an early stage. The counselling centers run by student organisations will also be included in these meetings.
 

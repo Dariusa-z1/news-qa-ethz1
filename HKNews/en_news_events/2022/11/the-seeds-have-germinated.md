@@ -1,5 +1,7 @@
 # the-seeds-have-germinated
 
+**Source:** en_news_events/2022/11/the-seeds-have-germinated.html
+
 ## Vitamin A deficiency threatens millions of children
 
 - 1991: Ingo Potrykus floats the idea of a vitamin-A-enriched rice variety to fight malnutrition. Experiments start in 1992.

@@ -1,5 +1,7 @@
 # bahnstoerungen-besser-beherrschen
 
+**Source:** de_news_events/2014/01/bahnstoerungen-besser-beherrschen.html
+
 ## Berechenbare Bahn
 
 Die Züge der Schweizerischen Bundesbahnen verkehrten im vergangenen Jahr häufig verspätet. Der dichte Fahrplan und die hohe Auslastung der Strecken lassen nur wenig Fahrzeitreserven zu. So gerät der Fahrplan bereits wegen kleinen Pannen oder Baustellen aus dem Takt – mit negativen Folgen für die Kunden. «Störungen im Bahnverkehr lassen sich kaum vollständig vermeiden, aber man kann sie besser meistern», sagt Steffen Schranil, Verkehrsingenieur und bis vor kurzen Doktorand am Institut für Verkehrsplanung und Transportsysteme der ETH Zürich. In seiner Dissertation hat sich Schranil mit der Frage beschäftig, ob und wie es möglich ist, Bahnstörungen früh und zuverlässig zu charakterisieren – so zuverlässig, dass man Aussagen über die voraussichtliche Störungsdauer machen kann.

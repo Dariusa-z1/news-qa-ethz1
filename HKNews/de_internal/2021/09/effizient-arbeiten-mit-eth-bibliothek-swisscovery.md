@@ -1,5 +1,7 @@
 # effizient-arbeiten-mit-eth-bibliothek-swisscovery
 
+**Source:** de_internal/2021/09/effizient-arbeiten-mit-eth-bibliothek-swisscovery.html
+
 ## Suchen und Finden ohne Anmeldung
 
 externe Seite ETH-Bibliothek @ swisscovery ist die ETH-Oberfläche von swisscovery , die Ihnen als ETH-Angehörigen viele Vorteile bietet.

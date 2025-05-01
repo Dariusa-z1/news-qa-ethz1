@@ -1,5 +1,7 @@
 # quantum-aided-frequency-measurements
 
+**Source:** en_news_events/2017/05/quantum-aided-frequency-measurements.html
+
 ## Quantum sensors in diamond
 
 Accurate frequency measurements are of crucial importance in many scientific and technological applications. To analyse biologically relevant molecules, for instance, one measures the frequencies at which the atomic nuclei react to electromagnetic waves. Using new measurement procedures based on quantum mechanics, it is now even possible to do such analyses with tiny probes that can be placed in the immediate vicinity of tissues and cells. A team of scientists at ETH Zurich led by Christian Degen, professor at the Laboratory for Solid State Physics, has now developed a method that will help to make future frequency measurements many times more accurate.

@@ -1,5 +1,7 @@
 # mm-blaulicht
 
+**Source:** de_news_events/2015/03/mm-blaulicht.html
+
 ## Erektion ohne sexuelle Stimulation
 
 Unter Männern sind Erektionsstörungen ein Tabuthema. Keiner spricht gerne darüber. Fakt ist: Mit zunehmenden Alter leiden immer mehr Männer unter der sogenannten erektilen Dysfunktion. Ab dem 30. Lebensjahr nimmt die Zahl derer, die keine oder unvollständige Erektionen haben, stetig zu. Bei den über 60-jährigen sind bereits über die Hälfte aller Männer von Erektionsstörungen betroffen.
@@ -33,8 +35,4 @@ Eine Erektion künstlich auszulösen entspricht laut Fussenegger einem grossen B
 An diesem Genkonstrukt haben die Basler ETH-Forscher vier Jahre lang gearbeitet. Vorderhand liegt es als Prototyp vor. Versuche an Menschen wurden bisher nicht unternommen. Fussenegger rechnet jedoch damit, dass sich das Prinzip dieses Genkonstrukts auch beim Menschen durchsetzen wird, da das System sehr einfach und kostengünstig in der Anwendung ist. «Bevor es zur Anwendung kommt, braucht es auf jeden Fall klinische Tests, die sehr aufwändig sind. Wir suchen aktiv nach Industriepartnern für die klinische Umsetzung unserer Technologie.»
 
 Kim T, Folcher M, Douad-El Baba M, Fussenegger M. A synthetic erectile optogenetic stimulator (EROS) enabling blue-light-inducible penile erection. Angew. Chem. Int. Ed. Engl. Published online 19th March 2015. DOI: externe Seite 10.1002/anie.201412204
-
-ETH Zürich Prof. Martin Fussenegger Gruppe für Biotechnologie und Bioingenieurwissenschaften Telefon: +41 61 387 31 60
-
-ETH Zürich Medienstelle Telefon: +41 44 632 41 41
 

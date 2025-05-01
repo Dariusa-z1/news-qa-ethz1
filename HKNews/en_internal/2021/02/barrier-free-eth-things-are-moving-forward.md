@@ -1,5 +1,7 @@
 # barrier-free-eth-things-are-moving-forward
 
+**Source:** en_internal/2021/02/barrier-free-eth-things-are-moving-forward.html
+
 ## Launch of steering committee and sub-projects
 
 The aim of “ Barrier-Free at ETH Zurich ” is clear: over the coming years, ETH Zurich plans to become an institution that is increasingly open to all, where it is possible to study and work without obstacles or barriers. The project will take time and require commitment, particularly on the part of the organisational units involved. Establishing a culture of inclusivity will also require the support of all ETH members. Physical and technological obstacles must be addressed, but so must any psychological barriers that may exist as a result of unfamiliarity or ignorance of how to deal with disability, limitations or special needs.

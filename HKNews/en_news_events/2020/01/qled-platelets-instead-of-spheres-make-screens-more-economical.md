@@ -1,5 +1,7 @@
 # qled-platelets-instead-of-spheres-make-screens-more-economical
 
+**Source:** en_news_events/2020/01/qled-platelets-instead-of-spheres-make-screens-more-economical.html
+
 ## Stacked and insulated from each other
 
 QLED screens have been on the market for a few years now. They are known for their bright, intense colours, which are produced using what is known as quantum dot technology: QLED stands for quantum dot light emitting diode. Researchers at ETH Zurich have now developed a technology that increases the energy efficiency of QLEDs. By minimising the scattering losses of light inside the diodes, a larger proportion of the light generated is emitted to the outside.

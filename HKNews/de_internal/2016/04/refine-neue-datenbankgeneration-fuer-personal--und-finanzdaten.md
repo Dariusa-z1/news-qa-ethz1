@@ -1,5 +1,7 @@
 # refine-neue-datenbankgeneration-fuer-personal--und-finanzdaten
 
+**Source:** de_internal/2016/04/refine-neue-datenbankgeneration-fuer-personal--und-finanzdaten.html
+
 ## Main article
 
 «Mit der zukunftsorientierten HANA-Technologie haben wir die technische Basis für ‹refine› gelegt», sagt Robert Perich, Vizepräsident Finanzen und Controlling. Besonders lobt er dabei die Zusammenarbeit des Competence Center SAP ( CCSAP ) und der Informatikdienste der ETH Zürich ( ID ). «Sie haben diese Aufgabe reibungslos bewältigt. Dies zeigt, auf welch exzellentes Know-how wir bei den administrativen Mitarbeitenden in der ETH Zürich zählen können.»

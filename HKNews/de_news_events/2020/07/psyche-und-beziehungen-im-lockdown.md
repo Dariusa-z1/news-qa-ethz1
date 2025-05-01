@@ -1,16 +1,14 @@
 # psyche-und-beziehungen-im-lockdown
 
-## Einsamkeit und Ängste
+**Source:** de_news_events/2020/07/psyche-und-beziehungen-im-lockdown.html
 
-Die strengen Massnahmen gegen die Ausbreitung des Coronavirus im März zeigten Wirkung. Allerdings nicht nur auf den Verlauf der Pandemie, sondern auch auf das Sozialleben und die Psyche. Wie sich das im Fall von Studierenden äussert, haben Forschende des Social Networks Lab der ETH Zürich um den Soziologen Christoph Stadtfeld in einer Längsschnittstudie untersucht. Grundlage dafür sind regelmässige Umfragen, die im Rahmen der «Swiss StudentLife»-Studie gemacht wurden. Dabei wurden Schweizer Studierende ausführlich darüber befragt, mit wem sie wie sozialen Kontakt pflegen und wie es ihnen psychisch geht.
+## Einsamkeit und Ängste
 
 Um den Einfluss des Lockdowns zu ermitteln, verglichen die Forschenden Antworten aus zwei Befragungswellen mit derselben Untersuchungsgruppe: Eine im September 2019 und eine im April 2020, rund zwei Wochen nach Inkrafttreten der «ausserordentlichen Lage» und des Versammlungsverbots sowie der Schliessung der Universitäten. Zusätzlich verglichen sie mit einer anderen Kohorte von Studierenden, die ein Jahr vor der Corona-Krise eine ähnliche Umfrage beantwortet hatte.
 
 ## Massnahmen müssen früh ansetzen
 
 Bezüglich der Entwicklung der sozialen Netzwerke kommen die Forschenden zum Schluss, dass die meisten befragten Studierenden auch nach zwei Wochen im Lockdown sozial gut eingebunden waren. Trotzdem sank bei vielen die Anzahl der als positiv empfundenen Interaktionen, und das Lernen fürs Studium geschah häufiger allein als in der Gruppe. In Bezug auf die psychische Gesundheit zeigte sich, dass es den Befragten im Durchschnitt schlechter ging als vor dem Lockdown. Stress, Sorgen und Niedergeschlagenheit kamen häufiger vor. Namentlich sorgten sich die Studierenden etwa vermehrt um ihr Umfeld und um ihre berufliche Zukunft. Dagegen traten auch positive Aspekte zutage. So gaben Studierende im April an, sie hätten weniger Angst, etwas zu verpassen. Auch der Konkurrenzstress unter ihnen scheint gesunken zu sein.
-
-Viele dieser Resultate entsprächen den Erwartungen der Forschungsgruppe, meint Stadtfeld. Interessanter werde es, wenn man einen Schritt weitergehe und sich frage, warum die negativen Effekte auf die Psyche bei gewissen Personen stärker sind als bei anderen. «Es zeigt sich, dass ein starkes soziales Netzwerk solche Effekte abfedern kann», betont er. So erwiesen sich etwa Studierende ohne regelmässige Kontakte und solche, die allein wohnen, in der Studie als anfälliger. Ein weiteres Kriterium scheint das Geschlecht zu sein. So gaben Studentinnen häufiger als Studenten an, im Lockdown ängstlich, niedergeschlagen oder gestresst zu sein. «Frauen haben im Durchschnitt stärkere soziale Netzwerke», erklärt Kieran Mepham, einer der Koautoren der Studie. Dafür könne es für sie umso belastender sein, wenn diese eingeschränkt werden.
 
 ## Literaturhinweis
 

@@ -1,5 +1,7 @@
 # die-schulleitung-informiert-2019-5
 
+**Source:** de_internal/2019/09/die-schulleitung-informiert-2019-5.html
+
 ## Neue Ziele fรผr die Zulassung zum Masterstudium
 
 - Qualitรคt und Exzellenz: Es sollen herausragende Studierende mit Poยญtenยญzial als kรผnftige ยซLeaderยป in Wissenschaft, Wirtschaft und Gesellยญschaft fรผr die ETH gewonnen werden. Damit wird die Qualitรคt der Ausยญbildung gesteigert.
@@ -28,25 +30,23 @@ Auf dem Hönggerberg soll mit dem neuen Gebäude HIC ein neues, dynamisches Zent
 
 ## Ein neues Institut im Departement Architektur
 
-Die stetig steigende Zahl von Partnerschaften sowie die verstärkten Aus­sen­kontakte und der Outreach verlangen nach neuen, zeitgemässen Räum­lichkeiten, in welchen Gäste empfangen und in die ETH Zürich eingeführt werden können. In längeren Abklärungen erwies sich, dass sich dafür die Kuppel des Hauptgebäudes, das heutige Visualisierungszentrum «VisDome», am besten eignet. Wesentliche Stärken sind die zentrale und prominente Lage im Hauptgebäude, die Nähe zum Dozentenfoyer und die einmalige architektonische Gestaltung. Zur Konkretisierung des Aus­baus wurden zahlreiche interessierte Stakeholder – die Schulleitung, zentrale Organe, Gremien, aber auch die ETH Alumni – hinsichtlich ihrer Vorstellungen und Bedürfnisse befragt. In diesem Zusammenhang kristallisierte sich zudem die Idee heraus, die Kuppel auch zu einem Living Lab im Bereich digitales Präsentieren und Kollaboration zu entwickeln. Bis Mitte 2020 soll der Bedarfsnachweis für einen solchen Repräsentationsraum vorliegen sowie ein Konzept für den Zugang und die Wegführung vom Eingang Rämistrasse. Es wird zudem aufgezeigt, wie der Zugang hindernisfrei ausgestaltet werden kann. Mit der Reception Hall, der Villa Hatt, der Semper-Aula und dem AudiMax wird die ETH Zürich über ein angemessenes Angebot an Räumlichkeiten für repräsentative Bedürfnisse verfügen.
+Das Master Scholarship Programm (MSP) wird ausgeweitet und erhält einen neuen Namen. Künftig werden jährlich nicht nur 50, sondern 60 Studierende der Masterstufe vom Leistungsstipendium profitieren. Sie werden zudem neu mit 15'000 Franken pro Jahr von der Rektorin unterstützt (bisher 12'000.-). Zusammen mit der notwendigen zusätzlichen Fi­nan­zierung der Departemente kann ein Betrag von 21'000 Franken pro Jahr erreicht werden. Der Name wird neu mit dem Departement verknüpft und heisst zum Beispiel «ETH-PHYS Scholarship». Im Rahmen des MSP-Stipendiums, einem Ergänzungsprogram zum «Excellence Scholarship Programme (ESOP)», wurden seit 2015 rund 2,5 Mio. Franken an 119 Studierende aus 31 Ländern ausgerichtet. 14 ETH-Departemente benutzen diese Stipendien und kombinieren sie teilweise mit Tätigkeiten als Hilfsassistierende.
 
 ## Quantentechnologie voranbringen
 
-Das Master Scholarship Programm (MSP) wird ausgeweitet und erhält einen neuen Namen. Künftig werden jährlich nicht nur 50, sondern 60 Studierende der Masterstufe vom Leistungsstipendium profitieren. Sie werden zudem neu mit 15'000 Franken pro Jahr von der Rektorin unterstützt (bisher 12'000.-). Zusammen mit der notwendigen zusätzlichen Fi­nan­zierung der Departemente kann ein Betrag von 21'000 Franken pro Jahr erreicht werden. Der Name wird neu mit dem Departement verknüpft und heisst zum Beispiel «ETH-PHYS Scholarship». Im Rahmen des MSP-Stipendiums, einem Ergänzungsprogram zum «Excellence Scholarship Programme (ESOP)», wurden seit 2015 rund 2,5 Mio. Franken an 119 Studierende aus 31 Ländern ausgerichtet. 14 ETH-Departemente benutzen diese Stipendien und kombinieren sie teilweise mit Tätigkeiten als Hilfsassistierende.
+Per Anfang August wurde im Departement Architektur ein neues Institut für Landschafts- und Urbane Studien (Institute for Landscape and Urban Stu­dies, LUS) geschaffen. Das LUS fusioniert und ersetzt drei Institute: jenes für Städtebau (ISB), für Landschaftsarchitektur (ILA) und Stadt der Ge­gen­wart (Contemporary City Institute; CCI). Unter seinem Dach arbeiten neu die Professuren von Christophe Girot, Hubert Klumpner, Freek Persyn, Milica Topalovic und Günther Vogt.
 
 ## Selbstlernzentrum ist ein Bedรผrfnis
 
-Per Anfang August wurde im Departement Architektur ein neues Institut für Landschafts- und Urbane Studien (Institute for Landscape and Urban Stu­dies, LUS) geschaffen. Das LUS fusioniert und ersetzt drei Institute: jenes für Städtebau (ISB), für Landschaftsarchitektur (ILA) und Stadt der Ge­gen­wart (Contemporary City Institute; CCI). Unter seinem Dach arbeiten neu die Professuren von Christophe Girot, Hubert Klumpner, Freek Persyn, Milica Topalovic und Günther Vogt.
+Die Schulleitung unterstützt die Zusammenarbeit und den Aufbau eines gemeinsamen Labors für das Zukunftsgebiet Quantentechnologie am Paul-Scherrer-Institut mit zwei Millionen Franken.
 
 ## Regelmรคssige Infos aus der Schulleitung
 
-Die Schulleitung unterstützt die Zusammenarbeit und den Aufbau eines gemeinsamen Labors für das Zukunftsgebiet Quantentechnologie am Paul-Scherrer-Institut mit zwei Millionen Franken.
+Die Schulleitung nimmt erfreut zur Kenntnis, dass das Selbstlernzentrum auf dem Campus Hönggerberg rege genutzt wird und demnach eine Ange­botslücke für Studierende schliesst. Sie sagt ja zum Dauerbetrieb des Zentrums.
 
 ## Staffnet
 
-Die Schulleitung nimmt erfreut zur Kenntnis, dass das Selbstlernzentrum auf dem Campus Hönggerberg rege genutzt wird und demnach eine Ange­botslücke für Studierende schliesst. Sie sagt ja zum Dauerbetrieb des Zentrums.
+In dieser Rubrik wird kurz über die wichtigsten Entscheide aus den zweiwöchentlich stattfindenden Schulleitungssitzungen informiert, in dieser Ausgabe diejenigen der letzten vor und der ersten beiden Sitzungen nach der Sommerpause.
 
 ## Newsletter abonnieren
-
-In dieser Rubrik wird kurz über die wichtigsten Entscheide aus den zweiwöchentlich stattfindenden Schulleitungssitzungen informiert, in dieser Ausgabe diejenigen der letzten vor und der ersten beiden Sitzungen nach der Sommerpause.
 

@@ -1,5 +1,7 @@
 # the-art-of-asking-good-questions
 
+**Source:** en_internal/2017/06/the-art-of-asking-good-questions.html
+
 ## Reflecting on our actions
 
 Anyone who is familiar with Douglas Adams' sci-fi classic "The Hitchhiker's Guide to the Galaxy" will know "42", the Deep Thought supercomputer's succinct yet cryptic answer to the question about the meaning of life. That the handy magazine from ETH's Critical Thinking team shares its name with this answer is no coincidence, since all its articles focus on how to ask a good question.

@@ -1,5 +1,7 @@
 # informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-26-april-2021
 
+**Source:** en_internal/2021/04/informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-26-april-2021.html
+
 ## Locations and opening hours
 
 - InfoCenter and Circulation Desk in the ETH main building:
@@ -32,15 +34,13 @@ Face masks must be worn in all ETH buildings. The social distancing and hygiene 
 
 ## Face masks mandatory
 
-You can also continue to make use of our digital resources and contact options . Please do not visit the library if you belong to an at-risk group or are feeling unwell.
+Any questions? The ETH Library will be happy to help.
 
 ## Subscribe to Newsletter
 
-Any questions? The ETH Library will be happy to help.
+E-mail: You can also get in touch with us via WhatsApp or our chat function.
 
 ## Staffnet
-
-E-mail: You can also get in touch with us via WhatsApp or our chat function.
 
 #ETHLibraryDigital – The ETH Library is there for you digitally with various resources and services , not only during the COVID-19 protective measures.
 

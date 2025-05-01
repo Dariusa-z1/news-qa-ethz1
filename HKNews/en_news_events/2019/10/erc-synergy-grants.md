@@ -1,5 +1,7 @@
 # erc-synergy-grants
 
+**Source:** en_news_events/2019/10/erc-synergy-grants.html
+
 ## ETH and Europe conducting cutting-edge research together
 
 Correlations and questions in research are becoming more and more complex, which makes collaboration between researchers from different fields necessary. Since 2012, the European Research Council (ERC) has been awarding Synergy Grants to promote research projects which demonstrate a high synergy effect and in which two to four researchers from different fields work together. This year, 37 consortiums were awarded a generous grant of EUR 10 to 14 million. ETH Zurich is leading two projects and is involved in a third. The European Research Council’s Synergy Grants support a wide range of research projects across a variety of topics, including Domenico Giardini’s research on predicting earthquakes, Jacob Corn’s research on genome editing and Jeffrey W. Bode’s research on the development of broad-spectrum antiviral therapies.
@@ -17,6 +19,4 @@ Seismology and Geodynamics website Jacob Corn , ETH Professor of Genome Biology,
 Corn Lab website Viruses such as Influenza A remain one of the greatest threats to human health and are associated with enormous economic impact. Despite decades of research, we know little about the molecular mechanisms that viruses use to infect mammalian hosts and how they evade the immune system. There are currently only few broad-spectrum antiviral treatments, leaving the world’s population exposed to pandemic viruses. Recent outbreaks of Ebola, Zika or West Nile viruses remind us of the continued dangers posed by viral infections. Jeffrey Bode , in collaboration with Patrick Matthias of the Friedrich Miescher Institute for Biomedical Research (FMI) in Basel, and Yohei Yamauchi of the University of Bristol, are investigating the molecular mechanisms of viral infections to enable novel broadband antiviral therapies.
 
 Bode Research Group website
-
-ETH Zurich Media relations Phone: +41 44 632 41 41
 

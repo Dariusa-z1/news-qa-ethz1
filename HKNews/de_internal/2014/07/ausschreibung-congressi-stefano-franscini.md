@@ -1,5 +1,7 @@
 # ausschreibung-congressi-stefano-franscini
 
+**Source:** de_internal/2014/07/ausschreibung-congressi-stefano-franscini.html
+
 ## Main article
 
 Die Ausschreibung für Konferenzen und ETH Winter Schools in 2016 richtet sich an Wissenschaftlerinnen und Wissenschaftler, die an einer Schweizer Hochschule oder an einem Schweizer Forschungsinstitut tätig sind; internationale Zusammenarbeit ist sehr willkommen. Die eingereichten Anträge werden durch einen interdisziplinären Beirat begutachtet.

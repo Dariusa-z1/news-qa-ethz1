@@ -1,5 +1,7 @@
 # enhanced-antibiotics
 
+**Source:** en_news_events/2014/01/enhanced-antibiotics.html
+
 ## Antibiotic is more selective
 
 More and more bacteria prove to be resistant to antibiotics. The search for new active substances proves to be difficult and resorting to earlier generations of antibiotics that are now hardly used is often not an option due to their often serious side effects. A research team including Andrea Vasella, Professor Emeritus at the Laboratory of Organic Chemistry at ETH Zurich, and Erik Böttger, Professor at the Institute of Medical Microbiology, University of Zurich, has now shown how the effect of older antibiotics can be considerably improved.

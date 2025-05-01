@@ -1,5 +1,7 @@
 # informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-31-august-2020
 
+**Source:** en_internal/2020/08/informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-31-august-2020.html
+
 ## Face masks mandatory as of 24 August 2020
 
 - ETH Library in the main building (InfoCenter): Mon–Fri 8.00–20.00, Sat–Sun 9.00–17.00
@@ -47,8 +49,6 @@ Museums and exhibitions will reopen in September.
 ## Staffnet
 
 There are many events scheduled for the autumn, but some will be conducted online for safety reasons. Please read the notes and details in the events calendar .
-
-You can also continue to make use of our digital resources and contact options . Please do not visit the library if you belong to an at-risk group or are feeling unwell.
 
 Any questions? The ETH Library will be happy to help.
 

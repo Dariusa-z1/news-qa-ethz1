@@ -1,5 +1,7 @@
 # neuer-raum-fuer-innovation-hif-eroeffnung
 
+**Source:** de_internal/2024/07/neuer-raum-fuer-innovation-hif-eroeffnung.html
+
 ## Bedeutung für die Forschung
 
 Während an anderen Stellen auf dem Campus Hönggerberg fleissig weiter gebaut, gebaggert und gebohrt wird, kehrt im neuen und erweiterten HIF-Gebäude nun Ruhe ein. Nach rund fünf Jahren Bauzeit steht dem Departement Bau, Umwelt und Geomatik (D-BAUG) ein frisches und modernes Zuhause zur Verfügung. Die Bauarbeiten haben 2019 begonnen und konnten Ende 2023 abgeschlossen werden.

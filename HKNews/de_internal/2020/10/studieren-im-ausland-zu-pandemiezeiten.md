@@ -1,5 +1,7 @@
 # studieren-im-ausland-zu-pandemiezeiten
 
+**Source:** de_internal/2020/10/studieren-im-ausland-zu-pandemiezeiten.html
+
 ## Weiterführende Informationen
 
 - Am 29. Oktober findet der Infomarkt der Mobilitätsstelle statt. Nutzen Sie die Gelegenheit und informieren Sie sich am Infomarkt der Mobilitätsstelle über die zahlreichen Austauschprogramme, welche die ETH Zürich mit Partnerhochschulen im In- und Ausland pflegt. Informieren Sie sich hier.

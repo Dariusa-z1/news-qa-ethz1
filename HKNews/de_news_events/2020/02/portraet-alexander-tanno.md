@@ -1,5 +1,7 @@
 # portraet-alexander-tanno
 
+**Source:** de_news_events/2020/02/portraet-alexander-tanno.html
+
 ## Einen Schritt weiter
 
 Der Prototyp, den Alexander Tanno zwischen Daumen und Zeigefinger hält, sieht nicht sonderlich beeindruckend aus – ein zwei Mal zwei Zentimeter kleiner, durchsichtiger Würfel aus Kunststoff, der eine Probe auf einem Papierstreifen umschliesst, und an dem drei Elektroden angebracht sind. Aber das unscheinbare Gerät kann etwas Einzigartiges: Es macht aus einem qualitativen Bluttest einen quantitativen. Damit wird ein Test viel empfindlicher. Tannos Erfindung macht empfindliche Bluttests möglich, die Patienten überallhin mitnehmen können.

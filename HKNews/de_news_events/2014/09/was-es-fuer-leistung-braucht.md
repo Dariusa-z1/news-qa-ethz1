@@ -1,5 +1,7 @@
 # was-es-fuer-leistung-braucht
 
+**Source:** de_news_events/2014/09/was-es-fuer-leistung-braucht.html
+
 ## Durchstarten in Dübendorf
 
 Sportstudent Max Schläpfer will in Studium und Sport zu den Besten gehören. Wenn er nicht lernt, trainiert er. Damit eifert er seinem Vater Ernst Schläpfer nach: Dieser ist nicht nur zweifacher Schwingerkönig, sondern hat auch an der ETH Zürich doktoriert. «Ich hätte ein schlechtes Gewissen, wenn mein Terminplan nicht voll wäre», sagt der 27-jährige Max Schläpfer. Er habe früh gelernt, dass er sich seine Zeit gut einteilen muss.

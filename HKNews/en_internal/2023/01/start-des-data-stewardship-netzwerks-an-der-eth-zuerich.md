@@ -1,5 +1,7 @@
 # start-des-data-stewardship-netzwerks-an-der-eth-zuerich
 
+**Source:** en_internal/2023/01/start-des-data-stewardship-netzwerks-an-der-eth-zuerich.html
+
 ## Main article
 
 Both the ETH Board and swissuniversities have launched wide-ranging programmes to promote open research data (ORD) over the coming years. One key element of these programmes is to establish and professionalise the role of data stewards as individuals who support the management of research data and reproducible data workflows in research groups. Many research groups at ETH Zurich already include employees who assume responsibility for uniform research data management, reproducible data analysis or the development of code scripts.

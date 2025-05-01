@@ -1,5 +1,7 @@
 # moorboden
 
+**Source:** en_news_events/2014/02/moorboden.html
+
 ## Humic substances short-circuit electrons to oxygen
 
 The soil bacterium Shewanella oneidensis can respire electrons to humic substances. (Photo: Andreas Kappler, University of Tubingen)

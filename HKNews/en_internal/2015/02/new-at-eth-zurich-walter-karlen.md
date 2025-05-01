@@ -1,5 +1,7 @@
 # new-at-eth-zurich-walter-karlen
 
+**Source:** en_internal/2015/02/new-at-eth-zurich-walter-karlen.html
+
 ## Main article
 
 How would you explain your research to a child? We develop computer programs that help to assess your health. The cool thing is that we can install these programs on a mobile phone and use its sensors. If you have a cough and feel sick, for example, your mother might use her mobile to decide whether you should just stay in bed or should rather go to the doctor. Our systems work much like the tricorder that the ship's doctor, Dr McCoy, uses on the Starship Enterprise.

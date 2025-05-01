@@ -1,5 +1,7 @@
 # open-access-deadline-fuer-foerderungsantraege-nicht-verpassen
 
+**Source:** de_internal/2021/11/open-access-deadline-fuer-foerderungsantraege-nicht-verpassen.html
+
 ## Wissen verbreiten, Kosten eindämmen
 
 - In Open-​Access-Zeitschriften publizieren

@@ -1,5 +1,7 @@
 # eine-neue-theorie-fuer-halbleiter-aus-nanokristallen
 
+**Source:** de_news_events/2020/06/eine-neue-theorie-fuer-halbleiter-aus-nanokristallen.html
+
 ## Eher Matratze als Tischplatte
 
 Seit einigen Jahren kann man Fernsehapparate kaufen, in denen mit QLED-Technologie brillante Farben erzeugt werden. Das «Q» steht dabei für «Quantenpunkt». Quantenpunkte sind wenige Nanometer grosse Kristalle eines Halbleitermaterials, die aus einigen tausend Atomen bestehen. Diese Nanokristalle sind so winzig, dass die Elektronen in ihnen nur wohldefinierte quantenmechanische Energiezustände einnehmen können; werden die Quantenpunkte von der Hintergrundbeleuchtung des Fernsehmonitors angestrahlt, so wird durch Quantensprünge zwischen diesen Zuständen Licht einer bestimmten Farbe ausgesandt.

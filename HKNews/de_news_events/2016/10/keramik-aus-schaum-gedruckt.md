@@ -1,5 +1,7 @@
 # keramik-aus-schaum-gedruckt
 
+**Source:** de_news_events/2016/10/keramik-aus-schaum-gedruckt.html
+
 ## Mit Öl und Küchenmixer zum druckbaren Schaum
 
 Die Doktorandin Carla Minas aus der Gruppe für Komplexe Materialien von ETH-Professor André Studart hat ein hoch poröses und dennoch äusserst robustes Keramikmaterial geschaffen. Sie hat dieses mit einem additiven Fertigungsverfahren «gedruckt». Die Kunst dabei war es, eine stabile Keramikemulsion als «Tinte» zu verwenden, die während und nach dem Drucken nicht in sich zusammenfällt. Mit dieser Technik lassen sich komplexe poröse Strukturen herstellen, wie sie auch in der Natur in der Form von Knochen oder Kieselalgen vorzufinden sind.

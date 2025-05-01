@@ -1,5 +1,7 @@
 # wattenhofer-alphazero
 
+**Source:** en_news_events/2018/02/wattenhofer-alphazero.html
+
 ## A history of ups and downs
 
 Over the last 60 years, artificial intelligence researchers have continually made futuristic predictions. For example, they announced that a computer would become a chess grandmaster. It was expected by 1968; it happened around 30 years later. Even more optimistic were the predictions that computers would be able to perform any and every human task by 1985 – but even today, we’re still a long way from that being the case.

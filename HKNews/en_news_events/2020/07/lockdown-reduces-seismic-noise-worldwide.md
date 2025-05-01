@@ -1,5 +1,7 @@
 # lockdown-reduces-seismic-noise-worldwide
 
+**Source:** en_news_events/2020/07/lockdown-reduces-seismic-noise-worldwide.html
+
 ## Noise reduction in urban areas
 
 By analysing month-to-years long datasets from over 300 seismic stations around the world, the study, led by Thomas Lecocq from the Royal Observatory of Belgium, was able to show how the seismic noise decreased in many countries and regions since the start of the lockdown measures. Researchers from the Swiss Seismological Service at ETH Zurich also took part in the international study.

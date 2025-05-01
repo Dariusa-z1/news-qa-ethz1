@@ -1,5 +1,7 @@
 # a-cas-in-the-repairability-of-buildings-and-products
 
+**Source:** en_news_events/2023/11/a-cas-in-the-repairability-of-buildings-and-products.html
+
 ## Dialogue between different experts
 
 - Start: Spring Semester 2024

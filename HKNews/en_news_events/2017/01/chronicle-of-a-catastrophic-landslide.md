@@ -1,5 +1,7 @@
 # chronicle-of-a-catastrophic-landslide
 
+**Source:** en_news_events/2017/01/chronicle-of-a-catastrophic-landslide.html
+
 ## Movement begets movement
 
 The fact that the Moosfluh cablecar was forced to stop operations temporarily last autumn, despite the moveable foundation at the mountain station to accommodate groundmovement, says much about the dramatic events that have occurred in the Aletsch region. The Moosfluh, the slope that borders the Aletsch glacier, has been moving for many years. The whole slope, of about a square kilometre, is moving downhill at an unprecedented pace. Geoscientists can now show that the instability of this slope is connected directly to the retreat of glacier ice and thus to climate change by drawing on a unique dataset. Researchers deployed various measuring instruments and systems to collect measurement data, including airborne and terrestrial laser scanners, radar and GPS measurements. They also analysed satellite and historical data (glacier height and length) and topographical maps.

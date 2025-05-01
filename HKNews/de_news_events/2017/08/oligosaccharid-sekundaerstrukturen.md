@@ -1,5 +1,7 @@
 # oligosaccharid-sekundaerstrukturen
 
+**Source:** de_news_events/2017/08/oligosaccharid-sekundaerstrukturen.html
+
 ## Stabile Anordnung
 
 Moleküle aus aneinandergeketteten Zucker-Bausteinen, sogenannte Oligosaccharide, gehören zu den wichtigsten Molekülen in Lebewesen. Sie machen einen Grossteil der Oberfläche von Zellen aus und tragen zum Beispiel dazu bei, dass das Immunsystem körpereigene Zellen von Krankheitserregern und anderen fremden Zellen unterscheiden kann. Oligosaccharide auf der Oberfläche von Blutzellen bestimmen ausserdem unsere Blutgruppe. Und auch viele Proteine tragen Oligosaccharid-Anhängsel, die wesentlich sind für die Protein-Funktion.

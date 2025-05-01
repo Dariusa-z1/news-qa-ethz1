@@ -1,5 +1,7 @@
 # in-the-giants-workshop
 
+**Source:** en_news_events/2021/03/in-the-giants-workshop.html
+
 ## The engineers and the cross
 
 At first glance, this huge neon-lit space could be mistaken for a shipyard somewhere in the port of Hamburg. A mobile overhead crane arches above, poised to hoist massive steel components, concrete columns and wooden beams across the hall. Around us are bolts as long and thick as an adult’s forearm and nuts as big as plates. Are we in some kind of giant’s workshop?
@@ -45,6 +47,8 @@ The doctoral student keeps pumping, and the manometer soon rises to 300 bar. Mea
 The engineers use SLR and smartphone cameras to document the destruction of the cross, which is drooping in the fading light of the laboratory. They inspect the two beams from all sides one more time, drawing out as much information as they can from the splintered concrete and speculating on what exactly has occurred deep within the column-beam joint. In one week’s time, they will be testing a second cross with two further design modifications. After that, the engineers from WaltGalmarini will consult with Andrea Frangi to decide which of Implenia’s joint systems should be used to construct the 27 floors of the 80-meter-tall timber tower.
 
 “The only way you can normally get this kind of data on how concrete, steel and timber perform under extreme conditions is by visiting a region that has recently been hit by an earthquake or typhoon,” says Galmarini. He spent time in earthquake zones himself while working for the Swiss Humanitarian Aid Unit (SHA). But even there, it was impossible to track the dynamics of materials and structures with the kind of slow-motion methods that are available in the laboratory. “This data is worth its weight in gold!” he says delightedly, before returning to inspect the gaping wound in the concrete.
+
+Read the current issue as a PDF (PDF, 7.4 MB)
 
 Read the current issue online
 

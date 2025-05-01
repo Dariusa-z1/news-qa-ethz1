@@ -1,5 +1,7 @@
 # Flight-of-discovery-over-Switzerland
 
+**Source:** en_internal/2014/09/Flight-of-discovery-over-Switzerland.html
+
 ## Main article
 
 Switzerland's transformation from intact agricultural land with scattered factories to the heavily built-up country it is today is particularly striking from the air.

@@ -1,5 +1,7 @@
 # die-schulleitung-informiert-2019-6
 
+**Source:** de_internal/2019/11/die-schulleitung-informiert-2019-6.html
+
 ## Alte Master-Studiengänge in frischer Form
 
 - Mit einer exzellenten Arbeitsinfrastruktur gewinnen wir bestqualifiziertes Personal und talentierte Studierende.

@@ -1,5 +1,7 @@
 # fuer-masterfeiern-die-einen-mit-stolz-erfuellen
 
+**Source:** de_internal/2014/05/fuer-masterfeiern-die-einen-mit-stolz-erfuellen.html
+
 ## Ein unvergesslicher Tag
 
 Mit dem Ende des Frühlingssemesters endet auch für viele Studierende ihre Zeit an der ETH. Die meisten von ihnen werden wohl nur ein weiteres Mal einen Fuss auf den Campus setzen: Zur Masterfeier, die je nach Departement auch gut ein Jahr nach Studienabschluss stattfinden kann.

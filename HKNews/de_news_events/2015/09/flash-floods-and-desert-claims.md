@@ -1,5 +1,7 @@
 # flash-floods-and-desert-claims
 
+**Source:** de_news_events/2015/09/flash-floods-and-desert-claims.html
+
 ## Studio problem set
 
 The recent Landscape Architecture Design Studio led by Professor Christophe Girot was proposed as an introduction to “desert design”, an emerging specialist area in architecture and related fields where the architecture of the landscape will come to play a vital role in its evolution. The studio worked towards structuring rainwater catchment, replenishing and distributing groundwater reserves in order to increase the autonomy from the Central Arizona Project for new resilient settlements in the Sonoran Desert of Arizona near the US–Mexico border. It primarily addressed the challenge of large-scale landscape and urban design in an area southwest of the city of Tucson prone to flash floods and severe erosion.

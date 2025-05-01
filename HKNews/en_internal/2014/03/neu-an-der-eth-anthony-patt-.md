@@ -1,5 +1,7 @@
 # neu-an-der-eth-anthony-patt-
 
+**Source:** en_internal/2014/03/neu-an-der-eth-anthony-patt-.html
+
 ## Main article
 
 What motivated you to come to ETH Zurich? Anthony Patt: Actually I had three motivations. The first is, I really enjoy doing social science research in an atmosphere that is mainly concerned with natural sciences questions. The second motivation was that at ETH you find the same collegiality like at the very good American universities. And the third point is that I just love Zurich!

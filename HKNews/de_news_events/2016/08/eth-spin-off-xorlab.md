@@ -1,5 +1,7 @@
 # eth-spin-off-xorlab
 
+**Source:** de_news_events/2016/08/eth-spin-off-xorlab.html
+
 ## Hohe Sensibilität für gutartiges Verhalten
 
 Es braucht eine Menge Selbstvertrauen, wenn man als fünfköpfiges Jungunternehmen antritt, um den grossen Entwicklern von IT-Sicherheitslösungen, wie IBM, Intel Security oder Cisco die Innovationsführerschaft streitig zu machen. Antonio Barresi (CEO), Matthias Ganz (CTO) und Marco Nembrini (COO) von Xorlab haben genau das vor. Der im Juli 2015 gegründete ETH-Spin-off hat ein System entwickelt, das Hackerangriffe auf Unternehmen und Regierungen verlässlicher und günstiger abwehren soll, als herkömmliche Lösungen.
@@ -17,6 +19,4 @@ Die von Xorlab entwickelte Hardware, ein 31 Kilogramm schwerer Miniserver, wird 
 Die Gründer von xorlab bringen viel Know-How und Wissen ins Unternehmen ein. Barresi hat an der ETH Computerwissenschaften studiert und daraufhin als IT-Riskmanager bei einer Grossbank sowie als Sicherheitsberater und Softwareentwickler gearbeitet. 2013 kehrte er als wissenschaftlicher Mitarbeiter ans Laboratory for Software Technology der ETH Zürich zurück. Zusammen mit Matthias Ganz, ebenfalls ein ETH-Computerwissenschaftler und Marco Nembrini, ein ETH-Mathematiker, nahm er 2014 am Start-up-Kurs Venture Challenge teil und erarbeitete einen ersten Business Plan. «Wir hatten schlicht das Gefühl, dass wir auf etwas gestossen waren, dass in dieser Art noch niemand vor uns gemacht hat», erklärt Barresi die Motivation zur Unternehmensgründung. Anfangs Jahr gewann das Unternehmen schliesslich den Start-up-Wettbewerb von externe Seite Venture Kick und sicherte sich dadurch 130'000 Schweizerfranken Startkapital.
 
 Xorlab könnte mit seinem Produkt bald offene Türen einrennen: Cyber-Attacken auf Unternehmen und Regierungen haben in den letzten Jahren massiv zugenommen. Der Deutsche Bundestag war davon betroffen, das US-Aussenministerium, die HSBC Bank und vor wenigen Monaten auch die Ruag. Oft entstehen dabei Millionenschäden. In einer Studie von Frost & Sullivan wurde der Markt für Security-Netzwerkanwendungen, wozu auch das System von Xorlab gehört, für das Jahr 2014 auf über 500 Millionen US Dollar beziffert. Bis 2019 soll er gar auf 3,5 Milliarden wachsen.
-
-Ob Xorlab bald zum Partner von multinationalen Grossunternehmen und Regierungen sowie zum Liebling von Investoren wird, hängt nun von den ersten Versuchen in einem realen Arbeitsumfeld ab. Laut Barresi steht der Spin-off dafür aktuell mit Banken, Finanzinstituten und Institutionen aus dem Bildungsbereich in Kontakt. Und auch Swisscom hat kürzlich angekündigt, einen möglichen Pilotbetrieb mit Xorlab zu evaluieren. Die ersten Praxiserfahrungen werden darüber entscheiden, ob das Jungunternehmen tatsächlich bald die Grossen der Branche konkurrenzieren wird.
 

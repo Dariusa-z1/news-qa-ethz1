@@ -1,5 +1,7 @@
 # oxidierte-fettsaeuren-hemmen-entzuendungen
 
+**Source:** de_news_events/2016/08/oxidierte-fettsaeuren-hemmen-entzuendungen.html
+
 ## Entzündlich – oder doch nicht?
 
 Viel wird darüber gestritten und geforscht und oft gar ein regelrechter Glaubenskrieg ausgetragen, was gute und was schlechte Fette sind. Was aber Forscherinnen und Forscher aus der Gruppe von ETH-Professor Manfred Kopf in den letzten Jahren über Fettsäuren und ihre Rolle bei Entzündungskrankheiten herausgebracht haben, hat gewisse Dogmen zu Fall gebracht: Die Gruppe fand heraus, dass bestimmte oxidierte Fettsäuren Entzündungen hemmen.

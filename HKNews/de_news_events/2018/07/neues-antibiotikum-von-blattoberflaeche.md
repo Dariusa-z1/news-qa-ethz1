@@ -1,5 +1,7 @@
 # neues-antibiotikum-von-blattoberflaeche
 
+**Source:** de_news_events/2018/07/neues-antibiotikum-von-blattoberflaeche.html
+
 ## Antibiotische Wechselwirkungen aufgedeckt
 
 Auf Blättern von Pflanzen lebt eine Vielzahl verschiedener Mikroorganismen wie Bakterien oder Pilze. Blattoberflächen werden dicht besiedelt, obwohl nur wenige Nährstoffe auf ihnen zu finden sind. Um sich die Konkurrenz vom Leib zu halten, setzen zahlreiche der Blattbewohner auf chemische Kriegsführung: Sie entwickelten antibiotisch wirkende Stoffe, welche Wachstum und Vermehrung von anderen Mitbewohnern stoppen. Eine Gruppe von Forscherinnen und Forschern um die beiden ETH-Professoren Julia Vorholt und Jörn Piel vom Institut für Mikrobiologie entdeckten nun bei einer systematischen Suche auf Blättern der Acker-Schmalwand (Arabidopsis thaliana) ein ganz besonders produktives Bakterium: Brevibacillus sp. Leaf 182. In Versuchen hemmte es die Hälfte aller 200 Stämme, welche die Forschenden von Blattoberflächen isoliert hatten. Das Bakterium stellt mindestens vier antibiotisch wirkende chemische Verbindungen her und sondert sie ab. Brevibacillus sp. Leaf 182. Zwei dieser Verbindungen waren bereits bekannt, während ein Stoff namens Macrobrevin eine bislang unbekannte chemische Struktur aufwies.

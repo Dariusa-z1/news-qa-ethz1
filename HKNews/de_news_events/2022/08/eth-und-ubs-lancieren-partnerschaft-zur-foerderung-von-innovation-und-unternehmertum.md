@@ -1,5 +1,7 @@
 # eth-und-ubs-lancieren-partnerschaft-zur-foerderung-von-innovation-und-unternehmertum
 
+**Source:** de_news_events/2022/08/eth-und-ubs-lancieren-partnerschaft-zur-foerderung-von-innovation-und-unternehmertum.html
+
 ## Förderung des Unternehmertums
 
 Innovation ist für den Wohlstand der Schweiz entscheidend. Dabei spielen Wissenschaftsbegeisterung und Unternehmertum eine zentrale Rolle. Erst wenn Forschungsresultate oder gute Ideen in den Markt fliessen, entstehen neue Arbeitsplätze und Lösungsansätze für den gesellschaftlichen und technologischen Fortschritt. Deshalb wollen die ETH Zürich und UBS das Unternehmertum in der Schweiz weiter stärken und Schülerinnen und Schüler für MINT-Fächer begeistern (MINT = Mathematik, Informatik, Naturwissenschaften und Technik).
@@ -10,11 +12,9 @@ Innovation ist für den Wohlstand der Schweiz entscheidend. Dabei spielen Wissen
 
 ## Kreativer und innovativer Begegnungsort
 
-Mit der einen Initiative wollen die beiden Partner den Studierenden und jungen Unternehmer:innen das nötige Rüstzeug samt hilfreicher Kontakte mit auf den Weg geben, damit sie ihre Ideen und Innovationen erfolgreich umsetzen und auf den Markt bringen können. Damit wird die bestehende Startup-Förderung der ETH Zürich ergänzt. So soll eine Veranstaltungsreihe ermöglichen, dass sich junge Unternehmer:innen an der ETH mit erfahrenen Führungspersonen aus der Wirtschaft treffen, sich austauschen, vernetzen und von ihnen lernen können. Bei Veranstaltungen sollen interessierte Studierende mehr über Finanzierungen, das Erstellen von Businessplänen oder das Führen eines Unternehmens erfahren. Diese markante Ausweitung des bestehenden Entrepreneurship-Ökosystems wollen ETH und UBS physisch und auf digitalen Kanälen pflegen.
+Investitionen in die Bildung und Nachwuchsförderung sind für den Erfolg der Schweiz zentral. Parallel zur Förderung des Unternehmertums wollen die ETH Zürich und UBS mit einer zweiten Initiative mehr Begeisterung für Mathematik, Informatik, Naturwissenschaft und Technik bei Primar- und Sekundarschüler:innen fördern. Das Augenmerk liegt dabei insbesondere auf Zielgruppen, die bislang weniger gut erreicht werden konnten. Dafür werden basierend auf bestehenden Formaten, wie CYBATHLON@school neue Verteilkanäle aufgebaut. Die ETH profitiert dabei von den Erfahrungen der UBS und ihrem breiten Netzwerk.
 
 ## Weitere Informationen
-
-Investitionen in die Bildung und Nachwuchsförderung sind für den Erfolg der Schweiz zentral. Parallel zur Förderung des Unternehmertums wollen die ETH Zürich und UBS mit einer zweiten Initiative mehr Begeisterung für Mathematik, Informatik, Naturwissenschaft und Technik bei Primar- und Sekundarschüler:innen fördern. Das Augenmerk liegt dabei insbesondere auf Zielgruppen, die bislang weniger gut erreicht werden konnten. Dafür werden basierend auf bestehenden Formaten, wie CYBATHLON@school neue Verteilkanäle aufgebaut. Die ETH profitiert dabei von den Erfahrungen der UBS und ihrem breiten Netzwerk.
 
 Über die beiden Initiativen hinaus soll auf dem Campus Hönggerberg ein ETH-Neubau entstehen, in dem Studierende gemeinsam Projekte umsetzen und sich angehende Unternehmer:innen mit Führungskräften und Expert:innen austauschen können. UBS wird sich mit einer Donation von bis zu 20 Millionen Franken am Neubau beteiligen. Die weitere Finanzierung soll unter anderem durch bereits erfolgte sowie zusätzliche Donationen erfolgen. Das Gebäude wird zum neuen Zuhause für den Studierendenverband VSETH und das Student Project House. Es soll studentische Initiativen und Projekte, ETH Entrepreneurship und mehrere Spin-offs unter einem Dach vereinen. Neben flexibel nutzbaren Büros wird der einladende Holzbau Veranstaltungs- und Mehrzweckräume sowie einen grossen Makerspace zur Herstellung von Prototypen enthalten. Das neue Gebäude auf dem Hönggerberg wird so zum Schmelztiegel für studentische Experimentierfreude und unternehmerischen Tatendrang.
 

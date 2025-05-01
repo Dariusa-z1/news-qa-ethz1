@@ -1,5 +1,7 @@
 # gesucht-eth-mitarbeitende-von-anderen-kontinenten
 
+**Source:** de_internal/2024/02/gesucht-eth-mitarbeitende-von-anderen-kontinenten.html
+
 ## Offene Organisationskultur fördern
 
 Egal, ob es darum geht, wie offen und direkt man kommuniziert oder ab wann Unpünktlichkeit beginnt – unser kultureller Hintergrund prägt unser Verhalten und wie wir das Verhalten anderer wahrnehmen.

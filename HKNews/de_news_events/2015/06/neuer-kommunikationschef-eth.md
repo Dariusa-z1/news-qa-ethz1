@@ -1,5 +1,7 @@
 # neuer-kommunikationschef-eth
 
+**Source:** de_news_events/2015/06/neuer-kommunikationschef-eth.html
+
 ## Strategischer Kommunikator der FINMA
 
 Die Schulleitung der ETH Zürich hat Rainer Borer zum neuen Leiter der Hochschulkommunikation ernannt. Der Historiker und Germanist mit Abschlüssen der Universitäten Basel (lic.phil.I 1990) und St. Gallen (Executive MBA 2008) tritt seine Stelle am 1. Oktober 2015 an.
@@ -25,6 +27,4 @@ Im Rahmen seiner Executive-MBA-Weiterbildung an der Universität St. Gallen hat 
 Zu seiner Wahl äusserte sich Rainer Borer wie folgt: «Es ist eine grosse Ehre, die Verantwortung für die Kommunikation einer so renommierten Hochschule zu übernehmen.» Zu seinen künftigen Schwerpunkten sagte er: «Es gilt, auf den eigenen Stärken aufzubauen, die bewährten Kommunikationsgefässe zu pflegen und mit den relevanten Stakeholdern in Gesellschaft, Politik und Medien in dauerndem Austausch zu sein.» Gleichzeitig gelte es, «agil zu sein, laufend die sich rasch verändernde Kommunikationslandschaft zu analysieren und daraus die Weiterentwicklungen abzuleiten, die nötig sind».
 
 ETH-Präsident Lino Guzzella zeigte sich erfreut über die Wahl: «Mit Rainer Borer konnte die ETH eine profilierte Persönlichkeit mit breiter Erfahrung sowohl im Journalismus wie auch in der Kommunikation gewinnen. Ich bin überzeugt, dass es ihm gemeinsam mit dem Team der Hochschulkommunikation gelingen wird, die ETH als eine der besten technischen Hochschulen noch stärker in der öffentlichen Wahrnehmung zu verankern.»
-
-ETH Zürich Medienstelle Telefon: +41 44 632 41 41
 

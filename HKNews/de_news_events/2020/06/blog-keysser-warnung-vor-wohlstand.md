@@ -1,5 +1,7 @@
 # blog-keysser-warnung-vor-wohlstand
 
+**Source:** de_news_events/2020/06/blog-keysser-warnung-vor-wohlstand.html
+
 ## Konsum verursacht Ökokrisen
 
 (Bild: ETH Zürich)

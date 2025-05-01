@@ -1,5 +1,7 @@
 # blog-voluntary-carbon-offsets-often-fail-to-deliver-what-they-promise
 
+**Source:** en_news_events/2023/07/blog-voluntary-carbon-offsets-often-fail-to-deliver-what-they-promise.html
+
 ## About the author
 
 - For many projects, it’s questionable whether the same results wouldn’t have been achieved without financing through offset certificates. For example, forests protected under offset certificates are often not at risk of deforestation even without certificate protection.3 Moreover, most wind and solar installations don’t require offset certificates to pool enough funding.4

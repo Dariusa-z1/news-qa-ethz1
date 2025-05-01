@@ -1,5 +1,7 @@
 # neubau-bss-in-basel-mit-dem-architekturpreis-iconic-award-2023-ausgezeichnet
 
+**Source:** de_internal/2023/09/neubau-bss-in-basel-mit-dem-architekturpreis-iconic-award-2023-ausgezeichnet.html
+
 ## Main article
 
 Gute Nachrichten zum BSS in Basel gibt es erfreulicherweise mehrere in letzter Zeit: So konnte letzte Woche auch hier der Schulbetrieb vom Departement BSSE starten, der Umzug läuft wie geplant parallel weiter und jetzt wurde das neue Forschungsgebäude auch noch mit einem Architekturpreis ausgezeichnet.

@@ -1,5 +1,7 @@
 # new-bss-building-in-Basel-wins-an-architectural-award
 
+**Source:** en_internal/2023/09/new-bss-building-in-Basel-wins-an-architectural-award.html
+
 ## Main article
 
 Fortunately, there has been a lot of good news about the BSS in Basel lately: last week, the BSSE department was able to start teaching here, the move is going on as planned in parallel, and now the new research building has also been awarded an architecture prize.

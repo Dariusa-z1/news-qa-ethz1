@@ -1,5 +1,7 @@
 # nicht-kommerzielle-waren-richtig-ins-ausland-verschicken
 
+**Source:** de_internal/2022/08/nicht-kommerzielle-waren-richtig-ins-ausland-verschicken.html
+
 ## Pakete und Maxibriefe
 
 Seit Januar 2022 hat die EU die Mehrwertsteuer-Freigrenze aufgehoben. Das hat zur Folge, dass ausländische Empfänger:innen von Sendungen aus der Schweiz zur Kasse gebeten werden. Was können Sie tun, damit Sendungen mit nicht-kommerziellen Waren am Bestimmungsort ankommen und dies möglichst kostengünstig?

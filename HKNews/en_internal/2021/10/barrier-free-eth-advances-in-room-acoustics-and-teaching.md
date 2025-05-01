@@ -1,5 +1,7 @@
 # barrier-free-eth-advances-in-room-acoustics-and-teaching
 
+**Source:** en_internal/2021/10/barrier-free-eth-advances-in-room-acoustics-and-teaching.html
+
 ## Infoportal for accessible digital teaching materials
 
 - The e-Accessibility Basics page provides a comprehensive, easy-to-understand introduction to digital accessibility.
@@ -22,11 +24,9 @@ Courses are set to become increasingly accessible not only in an acoustic sense 
 
 ## Subscribe to Newsletter
 
-What obstacles or barriers do people with a disability or impairment encounter – both generally in everyday life and especially at a university? Three speakers with a disability or impairment share their experiences of facing a wide variety of obstacles and barriers – whether in the digital space, in the lecture hall or in social contacts.
+The online webinar “Breaking down barriers – physical and mental” will take place on 24 November 2021 from 1 p.m. to 2 p.m. as part of “Respect Events 2021”. Please register here . Please note that the webinar will be held in German.
 
 ## Staffnet
-
-The online webinar “Breaking down barriers – physical and mental” will take place on 24 November 2021 from 1 p.m. to 2 p.m. as part of “Respect Events 2021”. Please register here . Please note that the webinar will be held in German.
 
 In autumn 2020, the Executive Board gave the green light to the implementation of the barrier-free project: over the course of the next few years, people with disabilities or special needs – whether students, teachers, researchers, staff or visitors – should benefit from greatly improved access to ETH buildings and services.
 

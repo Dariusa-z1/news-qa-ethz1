@@ -1,5 +1,7 @@
 # ein-ausblick-und-ein-emotionales-goodbye
 
+**Source:** de_news_events/2021/11/ein-ausblick-und-ein-emotionales-goodbye.html
+
 ## Sich immer wieder neu erfinden
 
 Dass die Stimmung am 166. Jahrestag der ETH besonders emotional war, lag nicht nur daran, dass er im Gegensatz zum letzten Jahr physisch stattfinden konnte: Es war auch der letzte ETH-Tag, zu dem Sarah Springman als Gastgeberin lud. Sie tritt nach 25 Jahren als ETH-Professorin und sieben Jahren als Rektorin per Ende Januar zurück. Noch hat sie die Lehre an der ETH fest im Blick: «Wir sind zwar noch nicht zurück im «Courant normal», doch die Studierenden sind wieder auf dem Campus», sagte sie. Das sei nur durch die Covid-Zertifikatspflicht möglich. Die Rektorin betonte, dass wir bei globalen Herausforderungen wie der Pandemie alle eine Verantwortung tragen: «Der Homo sapiens scheint der grösste Troublemaker auf diesem Planeten zu sein. Er ist aber auch der einzige Problem solver.» Die Curriculumsentwicklung der ETH sieht sie dabei auf Kurs: So wurde etwa ein Grossprojekt lanciert, das die Computational Competencies in allen Studiengängen integriert.

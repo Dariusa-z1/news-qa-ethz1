@@ -1,5 +1,7 @@
 # anspruch-und-wirklichkeit
 
+**Source:** de_internal/2021/03/anspruch-und-wirklichkeit.html
+
 ## Ein Ausreisser bei den Beurteilungen der Werte
 
 Verantwortung, Offenheit, Vielfalt, Teamgeist und Exzellenz: Für wie wichtig halten ETH-Angehörige diese Werte der neuen ETH-Charta? Wie werden sie im Alltag gelebt? Und gibt es andere Werte, die für eine gute und erfolgreiche Zusammenarbeit wichtig wären? Diese Fragen haben die Verantwortlichen des rETHink-Workstreams 6 (Kulturentwicklung) in einem Intern-aktuell-Artikel aufgeworfen und die Leserinnen und Leser dazu aufgerufen, an einer Umfrage teilzunehmen. Rund 300 ETH-Angehörigen haben sich daran beteiligt.
@@ -29,6 +31,8 @@ ETH-weit am häufigsten wurde als zusätzlicher Wert Respekt genannt, gefolgt vo
 Die in einem Bericht zusammengefassten Antworten sollen bei der breiten Kulturdiskussion Anregungen geben. Was steckt hinter der Differenz zwischen Anspruch und Wirklichkeit? Wie können wir die Lücke schliessen? Welche Werte sind uns tatsächlich wichtig für die Zusammenarbeit? Und: Sind wir uns einig darüber, was wichtig ist?
 
 In diesem Sinn dankt Gudela Grote im Namen des ganzen Workstreams allen Teilnehmenden für ihren wertvollen Beitrag zur Kultur- und Wertediskussion. ETH-Präsident Joël Mesot und Rektorin Sarah Springman werden in den kommenden Tagen alle ETH-Angehörigen wie bereits angekündigt dazu einladen, sich an der Diskussion zu beteiligen. «Wir hoffen, dass möglichst viele diese Einladung annehmen und aktiv in ihrem Umfeld die Diskussion anregen, wie wir die Zukunft miteinander gestalten wollen», sagt Grote.
+
+Die detaillierten Ergebnisse sind im Bericht Auswertung «Pulsmesser-Befragung» (PDF, 1.3 MB) zusammengestellt.
 
 Die fünf diskutierten Werte entstammen der ETH-Charta, die Teil des Strategie- und Entwicklungsplans 2021-2024 ist.
 

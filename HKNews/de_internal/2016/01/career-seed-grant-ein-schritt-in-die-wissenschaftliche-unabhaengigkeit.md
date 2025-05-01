@@ -1,5 +1,7 @@
 # career-seed-grant-ein-schritt-in-die-wissenschaftliche-unabhaengigkeit
 
+**Source:** de_internal/2016/01/career-seed-grant-ein-schritt-in-die-wissenschaftliche-unabhaengigkeit.html
+
 ## Main article
 
 Auf Antrag des Vizepräsidenten für Forschung und Wirtschaftsbeziehungen führt die Schulleitung per 1. März 2016 den «ETH Zurich Career Seed Grant» ein.

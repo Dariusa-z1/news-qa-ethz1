@@ -1,5 +1,7 @@
 # old-masters-for-young-students
 
+**Source:** en_news_events/2017/02/old-masters-for-young-students.html
+
 ## Art meant to inspire ETH students
 
 Not one, not five, but a total of 110 works by Pablo Picasso (1881-1973) can be found in the Collection. These are in part large-format sheets that are stored individually on acid-free cardboards and in passe-partouts. And this is only a small part of the inventory – over the course of its 150-year history, some 160,000 works have been collected. Alongside Pablo Picasso are countless works by other prominent artists such as Rembrandt and Goya as well as Warhol or Fischli/Weiss.
@@ -25,8 +27,4 @@ The Collection of Prints and Drawings owes a few special works of art to generou
 With its first-class art collection, the Collection of Prints and Drawings at ETH Zurich is one of the largest and most important of its kind in Switzerland, enjoying international acclaim. Since it was founded in 1867, it has grown far beyond the original scope of a university collection as the result of regular purchases and numerous gifts. In addition to a main focus on the Old Masters, it also includes sizeable groups of works comprising Swiss prints and drawings from the 19th to the 21st century. As a part of ETH Zurich, it is important to the Collection of Prints and Drawings to promote the scientific development, research and digitalisation of its inventory, and to encourage interdisciplinary questions.
 
 Over the course of the jubilee year, exhibitions and a varied accompanying programme are planned under the motto A Different Point of View . The current exhibition Eternal Present grew out of a co-production with the Helmhaus Zurich. The exhibition in May is a joint project with the Institute for the History and Theory of Architecture (gta), which is also celebrating its 50th anniversary. Young Swiss artists have their turn at the third exhibition, which opens in mid-August. Students of the university and ETH Zurich will then co-curate the last exhibition of the jubilee year.
-
-ETH Zurich Dr. Linda Schädler Head of the Collection of Prints and Drawings Phone: +41 44 632 40 47
-
-ETH Zurich Franziska Schmid Media Relations Phone: +41 44 632 41 41
 

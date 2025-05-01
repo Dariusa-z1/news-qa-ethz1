@@ -1,5 +1,7 @@
 # wir-bleiben-auf-der-vorsichtigen-seite
 
+**Source:** de_internal/2022/02/wir-bleiben-auf-der-vorsichtigen-seite.html
+
 ## Weiterhin Vorsicht walten lassen
 
 Nachdem der Bundesrat sämtliche Corona-Einschränkungen aufgehoben hat (mit Ausnahme der Isolation und der Maskenpflicht im Öffentlichen Verkehr und in Gesundheitseinrichtungen), kehrt die ETH Zürich ab sofort zu einem weitgehend uneingeschränkten Betrieb zurück. «Wir bleiben aber noch für ein paar Wochen auf der vorsichtigen Seite», sagt Vizepräsident Ueli Weidmann als Leiter des Krisenstabs zum Massnahmenbündel, das ab Semesterbeginn gilt.
@@ -46,9 +48,5 @@ Diese Regeln gelten bis auf Weiteres, voraussichtlich so lange, bis der Bundesra
 
 «So hoffe ich, dass wir spätestens Ende März wieder zu einem neuen Normalbetrieb übergehen können, in dem uns die Pandemie nicht mehr permanent bestimmt», sagt Weidmann.
 
-* Wer Symptome hat, erscheint nicht zur Arbeit und macht einen Covid-Test.
-
-* Wer positiv getestet worden ist, muss gemäss den Vorschriften des Bundes in Isolation.
-
-* Wer engen Kontakt zu einer positiv getesteten Person hatte, dem empfiehlt die ETH, sich zwischen dem dritten und dem fünften Tag danach testen zu lassen und für 10 Tage von zuhause aus zu arbeiten, falls möglich. Sonst ist immer eine Maske zu tragen und Kontakte sind generell zu vermeiden.
+Die detaillierten Coronaregeln, die für Arbeit und Studium gelten, können dem aktuellen Masterplan (PDF, 766 KB) entnommen werden.
 

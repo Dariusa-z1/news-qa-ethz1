@@ -1,5 +1,7 @@
 # nachwuchswissenschaftlerinnen-und--wissenschaftler-praesentieren-ihre-ideen-an-der-eth-zuerich-
 
+**Source:** en_internal/2016/09/nachwuchswissenschaftlerinnen-und--wissenschaftler-praesentieren-ihre-ideen-an-der-eth-zuerich-.html
+
 ## Main article
 
 Three minutes, three PowerPoint slides, one goal: impress the jury with your research project. Young innovators from various countries took up this challenge last week at the Falling Walls Lab in Zurich. An interdisciplinary jury assessed the presentations while the audience selected their favourite: Anna Lisa Martin-Niedecken from the Zurich University of the Arts (ZHdK).

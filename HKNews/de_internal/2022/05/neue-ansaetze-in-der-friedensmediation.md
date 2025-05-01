@@ -1,5 +1,7 @@
 # neue-ansaetze-in-der-friedensmediation
 
+**Source:** de_internal/2022/05/neue-ansaetze-in-der-friedensmediation.html
+
 ## Einladung zur Veranstaltung
 
 - Michael Keating, Geschäftsführer des European Institute of Peace (EIP) und ehemaliger Sonderbeauftragter des Generalsekretärs sowie Leiter der Hilfsmission der Vereinten Nationen in Somalia

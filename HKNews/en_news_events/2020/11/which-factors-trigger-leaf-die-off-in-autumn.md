@@ -1,5 +1,7 @@
 # which-factors-trigger-leaf-die-off-in-autumn
 
+**Source:** en_news_events/2020/11/which-factors-trigger-leaf-die-off-in-autumn.html
+
 ## Sink limitation as senescence driver
 
 Leaves of temperate deciduous trees glow in all their yellow and red glory just before falling, signalling that autumn has come. This process, called leaf senescence, allows trees to prepare for the coming winter by suspending their growth and extracting nutrients from the foliage. In the trees’ phenological cycle, leaf senescence marks the end of the productive period during which they absorb CO 2 through photosynthesis.

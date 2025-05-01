@@ -1,5 +1,7 @@
 # car-rentals-six-per-cent-cheaper
 
+**Source:** en_internal/2014/05/car-rentals-six-per-cent-cheaper.html
+
 ## Main article
 
 Another change is that car rental customers no longer have to pay the additional implant fee of CHF 23 per rental day. For business rentals, this fee is now covered by the ETH through a new internal regulation.

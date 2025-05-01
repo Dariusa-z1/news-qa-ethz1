@@ -1,5 +1,7 @@
 # etutorials-for-eth-regulations
 
+**Source:** en_internal/2019/11/etutorials-for-eth-regulations.html
+
 ## Learning based on practical cases
 
 What must you consider if you want to procure something at ETH Zurich? What is the minimum procurement value above which it must be put out to tender? And what does “special relationship” mean in this context? Or: what does it mean for me if a product to be procured is subject to export control? How much am I allowed to spend on a Christmas dinner with my team?
@@ -17,8 +19,6 @@ The e-learning service allows you to choose whether to work on a specific topic 
 The tutorial is designed to cover the most important regulated topics at ETH Zurich. Besides the issue of procurement mentioned above, there are also modules on Professional Expenses, Export Controls and Integrity in Research. The service is continuously updated and expanded.
 
 ## Staffnet
-
-In addition, short film sequences with ETH professors and staff describe how to handle export control clauses in contracts with foreign partners, and the steps to be taken when processing credit card transactions. The course is rounded off with an info tool, which contains further information, legal basics, tips and contacts for the relevant offices. The e-learning service can also be accessed via smartphone. Each module takes between 15 and 20 minutes to complete.
 
 “Responsible, independent action is one of ETH Zurich’s key strengths. It enables flexibility and lean, effective processes. And that in turn greatly benefits our core scientific mission," says Robert Perich, Vice President of Finance and Controlling, who is responsible for compliance on the Executive Board.
 

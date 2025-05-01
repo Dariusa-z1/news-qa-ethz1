@@ -1,5 +1,7 @@
 # accessmedicine-klinisches-wissen-aktuell-und-online
 
+**Source:** en_internal/2020/10/accessmedicine-klinisches-wissen-aktuell-und-online.html
+
 ## Access knowledge
 
 - external pageHarrison’s Principles of Internal Medicinecall\_made

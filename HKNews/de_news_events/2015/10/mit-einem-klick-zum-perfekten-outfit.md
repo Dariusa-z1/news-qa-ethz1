@@ -1,5 +1,7 @@
 # mit-einem-klick-zum-perfekten-outfit
 
+**Source:** de_news_events/2015/10/mit-einem-klick-zum-perfekten-outfit.html
+
 ## Jedes Outfit auf Instagram wird kaufbar
 
 Wer denkt, Fashion und Informatik seien zwei unvereinbare Begriffe und Mode in technischen Studiengängen grundsätzlich fehl am Platz, würde wohl mit einem einzigen Besuch des ETH-Spin-offs externe Seite Fashwell seine Meinung ganz schnell ändern: Zwei Informatik- und ein Elektrotechnik-Absolvent teilen sich das grosszügige Büro in der Sternwartestrasse, alle drei mit Hemd, stylischer Frisur und Röhrenjeans. Dass die jungen Gründer viel Wert auf Mode und ihr Äusseres legen, ist nicht zu übersehen – dass sie daneben noch komplexe Algorithmen entwickeln, die schon bald jedes fashionliebhabende Frauenherz höher schlagen lassen könnten, würde man zunächst wohl kaum vermuten.

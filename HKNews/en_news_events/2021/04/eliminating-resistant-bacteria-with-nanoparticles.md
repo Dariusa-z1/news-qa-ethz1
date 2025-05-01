@@ -1,5 +1,7 @@
 # eliminating-resistant-bacteria-with-nanoparticles
 
+**Source:** en_news_events/2021/04/eliminating-resistant-bacteria-with-nanoparticles.html
+
 ## Bioglass and metal
 
 In the arms race "mankind against bacteria", bacteria are currently ahead of us. Our former miracle weapons, antibiotics, are failing more and more frequently when germs use tricky maneuvers to protect themselves from the effects of these drugs. Some species even retreat into the inside of human cells, where they remain "invisible" to the immune system. These particularly dreaded pathogens include multi-resistant staphylococci (MRSA), which can cause life-threatening diseases such as sepsis or pneumonia.

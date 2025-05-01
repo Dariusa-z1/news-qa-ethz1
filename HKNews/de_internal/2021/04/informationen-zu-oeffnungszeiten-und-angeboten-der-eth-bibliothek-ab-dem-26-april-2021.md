@@ -1,5 +1,7 @@
 # informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-26-april-2021
 
+**Source:** de_internal/2021/04/informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-26-april-2021.html
+
 ## Standorte und Öffnungszeiten
 
 - Infocenter und Ausleihe im ETH-Hauptgebäude:
@@ -32,19 +34,15 @@ In allen ETH-Gebäuden gilt die Pflicht zum Tragen einer Maske . Es gelten weite
 
 ## Veranstaltungen
 
-Nutzen Sie gerne auch weiterhin unsere digitalen Angebote und Kontaktmöglichkeiten . Verzichten Sie bitte auf einen Besuch, falls Sie zu einer Risikogruppe gehören oder Krankheitssymptome aufweisen.
+Fragen? Die ETH-Bibliothek hilft gerne.
 
 ## Maskenpflicht
 
-Fragen? Die ETH-Bibliothek hilft gerne.
+#ETHBibliothekDigital – Die ETH-Bibliothek ist nicht nur während der COVID-19-Schutzmassnahmen digital mit verschiedenen Angeboten und Dienstleistungen für Sie da.
 
 ## Staffnet
 
-E-Mail: Sie können uns auch über externe Seite WhatsApp und unseren Chat kontaktieren.
+#MehrWissen – Die aufbereiteten Inhalte der ETH-Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter.
 
 ## Newsletter abonnieren
-
-#ETHBibliothekDigital – Die ETH-Bibliothek ist nicht nur während der COVID-19-Schutzmassnahmen digital mit verschiedenen Angeboten und Dienstleistungen für Sie da.
-
-#MehrWissen – Die aufbereiteten Inhalte der ETH-Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter.
 

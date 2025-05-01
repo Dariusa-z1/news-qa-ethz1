@@ -1,5 +1,7 @@
 # widriger-wind-auf-possession
 
+**Source:** de_news_events/2017/01/widriger-wind-auf-possession.html
+
 ## Übers Wasser statt durch die Luft
 
 Heute ist ein besonderer Tag. Es ist der 31.12.2016, der letzte Tag des Jahres. Wir warten ungeduldig – im Gegensatz zur Besatzung des russischen Forschungsschiffs «Akademik Treshnikov» aber nicht auf die bevorstehende Silvesterparty, sondern auf unseren Helikopterflug zur subantarktischen Île de la Possession. Diese gehört zu den Crozetinseln im südlichen Indischen Ozean (siehe Kasten).

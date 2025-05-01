@@ -1,5 +1,7 @@
 # portrait-alexander-tanno-blood-testing
 
+**Source:** en_news_events/2020/02/portrait-alexander-tanno-blood-testing.html
+
 ## A step further
 
 The prototype that Alexander Tanno is holding between his thumb and forefinger doesn’t look particularly impressive. Measuring two centimetres by two centimetres, the clear plastic block is equipped with three electrodes and encloses a sample on a paper strip. But this inconspicuous device can do something exceptional: it turns a qualitative blood test into a quantitative one. This makes the test itself much more sensitive. Tanno’s invention makes it possible to have sensitive blood tests that patients can perform wherever it suits them.

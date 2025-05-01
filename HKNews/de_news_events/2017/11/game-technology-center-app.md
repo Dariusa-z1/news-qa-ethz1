@@ -1,8 +1,8 @@
 # game-technology-center-app
 
-## Main article
+**Source:** de_news_events/2017/11/game-technology-center-app.html
 
-Malbücher und Farbstifte habe gegen Games auf Smartphones und YouTube-Filmchen oft einen schweren Stand. Schon früh kommen Kinder mit mobilen Geräten in Kontakt. Forschende des Game Technology Centers kombinieren die Vorteile von klassischen Spielzeugen mit den virtuellen Möglichkeiten und bringen neues Leben in die Kinderzimmer.
+## Main article
 
 «Augmented Creativity» nennen die Forschenden ihre Anwendungen, mit denen sie das Zeichnen und Malen, Musizieren und Spielen mithilfe von Augmented Reality noch spannender machen. Darunter verstehen sie die Verschmelzung von animierten, virtuellen Elementen mit der realen Umgebung.
 

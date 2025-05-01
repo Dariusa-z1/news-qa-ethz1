@@ -1,5 +1,7 @@
 # der-zelloberflaeche-ein-gesicht-geben
 
+**Source:** de_news_events/2018/11/der-zelloberflaeche-ein-gesicht-geben.html
+
 ## Überholtes Paradigma
 
 Auf der Oberfläche von Zellen, verankert in der Zellmembran, befindet sich eine Vielzahl verschiedener Proteine, die für die Zelle lebenswichtige Funktionen ausüben. Sie sind Antennen in die Aussenwelt, die Signale senden und empfangen, dank derer Zellen miteinander kommunizieren können. Sie sind auch Schleusen für Moleküle und transportieren Stoffe in und aus der Zelle, und sie ermöglichen, dass sich Zellen an anderen Zellen oder Strukturen festhalten können.

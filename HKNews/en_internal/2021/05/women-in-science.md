@@ -1,5 +1,7 @@
 # women-in-science
 
+**Source:** en_internal/2021/05/women-in-science.html
+
 ## The pioneers
 
 It was a long while before women could take up their rightful place at ETH Zurich. The first few appeared in the 19th century, and were “scientific refugees” from other countries. Why did the women back then have such a hard time? What are the everyday problems that women encounter today at the university? The tour entertainingly covers various aspects of the Women in Science topic. At the same time, it reveals what lies behind the façades of the complex built on the Hönggerberg in the 1960s: a childcare centre, for example, that makes everyday life much easier for many women at the university.
@@ -11,4 +13,6 @@ For some time now, ETH Zurich has been seeking to increase the number of women a
 ## Staffnet
 
 The new app tour leads you through the campus to 14 different stops, where you meet the female pioneers who helped shape ETH Zurich. First and foremost is Nadina Smetzky, the first female student to enrol at ETH Zurich in 1871, who laid the groundwork for the women who followed. Among these were the German Marie Baum and the Serb Mileva Marić, who met her future husband Albert Einstein here.
+
+And, talking of Albert Einstein, you can follow in his footsteps through the main building on the first tour of our ETH Zurich Tours App . All that you’ll need here is keen curiosity, a smartphone, headphones, the app, and 60 minutes free time! The tour comes in either German or English, and you can follow it on foot or on wheels. the app now from either the App Store or Google Play .
 

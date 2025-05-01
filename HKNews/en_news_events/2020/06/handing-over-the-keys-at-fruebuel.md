@@ -1,5 +1,7 @@
 # handing-over-the-keys-at-fruebuel
 
+**Source:** en_news_events/2020/06/handing-over-the-keys-at-fruebuel.html
+
 ## Location allows for more intense research
 
 People seeking relaxation on the Zugerberg mountain in Switzerland will have already noticed it: there have been big changes at Früebüel, a former farm. AgroVet–Strickhof, a platform for research and higher education in agriculture, joined forces with ETH Zurich to renovate and expand its barns, operational buildings and wild animal enclosures over the past two years. Now, almost three years after obtaining building permission from the Canton of Zug, the construction work is complete.

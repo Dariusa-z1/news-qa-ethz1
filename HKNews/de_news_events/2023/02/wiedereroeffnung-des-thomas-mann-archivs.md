@@ -1,5 +1,7 @@
 # wiedereroeffnung-des-thomas-mann-archivs
 
+**Source:** de_news_events/2023/02/wiedereroeffnung-des-thomas-mann-archivs.html
+
 ## Zürich, im Juni 1955
 
 Die Dauerausstellung «Im Schreiben eingerichtet. Thomas Mann und sein Arbeitszimmer» ist vollständig neu konzipiert, die temporäre Ausstellung «Thomas Mann. Achtung Europa!» hochaktuell: Das Thomas-Mann-Archiv vermittelt bei seiner Wiedereröffnung Bewusstsein für die Geschichte und Sensibilität für die Gegenwart.
@@ -29,8 +31,6 @@ Rund 67 Jahre später steht dieser Tisch im Zentrum der neuen Dauerausstellung m
 Öffnungszeiten: Montag bis Sonntag, 10 Uhr bis 17 Uhr
 
 Ort: ETH-Hauptgebäude, Ausstellungsräume E43-45, Rämistrasse 101, 8092 Zürich
-
-Kontakt: , 044 632 40 45
 
 Website: tma.ethz.ch
 

@@ -1,5 +1,7 @@
 # data-stewardship-in-grossen-forschungsinfrastrukturen-finden-sie-heraus-wie-das-im-bedrettolab-funktioniert
 
+**Source:** de_internal/2024/03/data-stewardship-in-grossen-forschungsinfrastrukturen-finden-sie-heraus-wie-das-im-bedrettolab-funktioniert.html
+
 ## Main article
 
 Rebecca Hochreutener arbeitet seit August 2021 als Programmadministratorin im BedrettoLab . In ihrer Funktion ist sie für den reibungslosen Ablauf aller Forschungsprojekte im BedrettoLab verantwortlich. Dies beinhaltet sowohl administrative Aspekte als auch das Datenmanagement. Sie ist Data Steward* im Open-Research-Data (ORD)​-Projekt mit der ETH-Bibliothek .

@@ -1,5 +1,7 @@
 # spatial-timber-assemblies
 
+**Source:** de_news_events/2018/03/spatial-timber-assemblies.html
+
 ## Mit robotischer Präzision
 
 Die Digitalisierung hat im Holzbau Einzug gehalten: Ganze Bauelemente werden bereits heute mit computergestützten Anlagen gefertigt. Dabei wird das Rohmaterial zwar von Maschinen zugeschnitten, danach jedoch meist manuell zu einem ebenen Rahmen verbaut. Dieser Fertigungsprozess schränkte die geometrische Gestaltungsfreiheit bis anhin stark ein.
@@ -29,8 +31,4 @@ Bereits beim robotergebauten Holzdach des Arch_Tech_Lab auf dem Campus Hönggerb
 Kohler ist vom Synergieeffekt dieser Zusammenarbeit überzeugt: «Die digitale Fabrikation ist auf das enorme Wissen, das im Handwerk steckt, angewiesen. Umgekehrt kann die Digitalisierung das Handwerk aufwerten und neue Möglichkeiten eröffnen». Dass die wissenschaftlichen Disziplinen Hand in Hand mit der Industrie arbeiten, sei ausserdem ausschlaggebend dafür, dass Technologien nach so kurzer Zeit bereits in die architektonische Anwendung überführt werden können, so Kohler.
 
 Acht Professuren der ETH Zürich bauen gemeinsam mit Industriepartnern das DFAB HOUSE, eine dreigeschossige Wohneinheit auf der Forschungs- und Innovationsplattform NEST der Empa und Eawag in Dübendorf. Mit der Fabrikation der «Mesh Mould» Wand erfolgte im Mai 2017 der Startschuss für dieses weltweit erste Gebäude, das gleich mehrere neuartige, digitalen Bauprozesse unter einem Dach vereinigen wird. Seither wurden zwei weitere, ebenfalls digital geplante und fabrizierte Gebäudekomponenten zur Produktionsreife gebracht und digital mit dem Gesamtprojekt koordiniert. Mit dem automatischen Gleitschalungs-System «Smart Dynamic Casting» wurden an der ETH bereits individuell dem Lastfall angepasste Fassadenpfosten aus Beton für die Glasfassade des Gebäudes vorfabriziert. In Vorproduktion befindet sich zudem ein sogenannter «Smart Slab», eine statisch optimierte Geschossdecke aus Beton, für deren Schalung Forschende grossformatigen 3D-Sanddruck verwenden. Im Zusammenspiel mit Spatial Timber Assemblies gehen diese Elemente im DFAB HOUSE – das im Herbst 2018 eröffnet wird – eine einzigartige Verbindung ein.
-
-ETH Zürich Vanessa Bleich Medienstelle Telefon: +41 44 632 41 41
-
-ETH Zürich Prof. Matthias Kohler Professur für Architektur und Digitale Fabrikation Telefon: +41 44 633 49 06
 

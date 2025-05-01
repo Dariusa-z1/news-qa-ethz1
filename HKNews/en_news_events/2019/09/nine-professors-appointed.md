@@ -1,5 +1,7 @@
 # nine-professors-appointed
 
+**Source:** en_news_events/2019/09/nine-professors-appointed.html
+
 ## Award of the title of “Professor”
 
 All of the professors had already established themselves as experts in their fields before the ETH Board appointed or promoted them.

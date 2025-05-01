@@ -1,5 +1,7 @@
 # blog-grewe-ki-lernen
 
+**Source:** de_news_events/2020/08/blog-grewe-ki-lernen.html
+
 ## GPT3 kennt (fast) das ganze Internet
 
 (Bild: ETH Zürich)

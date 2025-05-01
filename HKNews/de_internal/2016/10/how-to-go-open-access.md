@@ -1,5 +1,7 @@
 # how-to-go-open-access
 
+**Source:** de_internal/2016/10/how-to-go-open-access.html
+
 ## Main article
 
 Das Webinar findet am Mittwoch, 25. Oktober, von 11 bis 12 Uhr in englischer Sprache statt. Themen sind die rechtlichen, finanziellen und politischen Rahmenbedingungen des Open-Access-Publizierens.

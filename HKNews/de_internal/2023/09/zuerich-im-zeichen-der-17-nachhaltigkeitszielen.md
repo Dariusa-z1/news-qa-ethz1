@@ -1,5 +1,7 @@
 # zuerich-im-zeichen-der-17-nachhaltigkeitszielen
 
+**Source:** de_internal/2023/09/zuerich-im-zeichen-der-17-nachhaltigkeitszielen.html
+
 ## Herbst 2023: SDGs weltweit im Spotlight
 
 Das open your eyes Fotofestival hat das Ziel, durch Kunst, Schönheit, und die Ausdruckskraft von Fotografien seine Besucher:innen emotional zu berühren. «Stop. Think. Feel. Act.» lautet deshalb der Slogan des Festivals. Als Rahmung dient die Agenda 2030 für globale nachhaltige Entwicklung mit ihren 17 Nachhaltigen Entwicklungszielen (Sustainable Development Goals, kurz SDG). Zu jedem SDG gibt es eine Themen-Insel, an der sich eindringliche Fotografien, Erklärungen zum Entwicklungsziel und Informationen zu mehreren ETH-Projekten, welche auf dieses Ziel zuarbeiten, befinden. So sollen die Betrachter:innen gleichzeitig auf komplexe Herausforderungen unserer Zeit sowie auf potenzielle Lösungen aufmerksam gemacht werden.

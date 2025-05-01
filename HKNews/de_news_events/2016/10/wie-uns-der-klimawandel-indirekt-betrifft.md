@@ -1,5 +1,7 @@
 # wie-uns-der-klimawandel-indirekt-betrifft
 
+**Source:** de_news_events/2016/10/wie-uns-der-klimawandel-indirekt-betrifft.html
+
 ## Wetter- und klimabedingte Risiken erkennen
 
 Der Klimawandel findet statt, und kein Land kann sich seinen Folgen entziehen. Zwar werden die direkten Auswirkungen für die Schweiz vermutlich weniger drastisch ausfallen als anderswo – Hiobsbotschaften von tropischen Stürmen, Überschwemmungen ganzer Landstriche oder anhaltenden Dürren erreichen uns meistens aus dem Ausland. Doch in einer stark vernetzten Weltwirtschaft, in der Rohstoffe, Nahrungsmittel und Güter in fernen Ländern produziert und rund um den Globus konsumiert werden, können sich Wetter- und Klimaextreme entlang der Lieferketten rasch global auswirken. So kann es auch in der Schweiz zu Versorgungsengpässen oder unterbrochenen Warenströmen kommen.

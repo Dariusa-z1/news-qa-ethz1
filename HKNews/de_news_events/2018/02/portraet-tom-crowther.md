@@ -1,5 +1,7 @@
 # portraet-tom-crowther
 
+**Source:** de_news_events/2018/02/portraet-tom-crowther.html
+
 ## Vom Postdoc zum Laborleiter
 
 Tom Crowther steht an einem Pult in einem kleinen Büro im CHN-Gebäude der ETH Zürich und schaut auf den Bildschirm. «Das ist eigentlich nicht mein Büro», sagt er, fast schon entschuldigend dafür, dass er den Gast nicht standesgemäss empfängt.
@@ -28,13 +30,11 @@ An der Universität Cardiff begann er ein Studium in Bodenökologie, hatte dabei
 
 Doch der Professor glaubte stark an Crowthers Fähigkeiten. «Später, im Pub bei einem Bier, schaffte er es, mich davon zu überzeugen, dass ich ein grosses Potenzial habe, wenn ich meine Aufmerksamkeit ein wenig besser fokussieren würde.» Da sei ihm klar geworden, dass er eine wissenschaftliche Laufbahn in Ökologie einschlagen und sich dafür voll einsetzen wolle. «Ich verdanke es Professor Jones, dass ich jetzt da stehe, wo ich bin.»
 
-Nach seiner Doktorarbeit in Ökologie an der Universität Cardiff wechselte er an die Universität Yale, wo er die Ökologie von Ökosystemen mit Schwerpunkt Boden studierte. In den USA kam er mit einer Organisation in Kontakt, die für die UNO eine Kampagne zur Pflanzung von einer Milliarde Bäume plante, die «One-billion-tree-campaign». Weil jedoch niemand eine Ahnung hatte, wie viele Bäume es auf der Erde tatsächlich gab, konnte niemand den Effekt dieser Kampagne in Zahlen ausdrücken. So erhielt Crowther den Auftrag, den weltweiten Baumbestand zu kartieren und diesen aktuell einzuschätzen.
-
 Die Studie erschien 2015 in der Fachzeitschrift «Nature». Mit ihr zeigte der Forscher und drei Dutzend Mitautoren auf, dass auf der Erde rund drei Billionen Bäume wachsen. Das sind acht Mal so viele wie bei früheren Schätzungen. «Es klingt nach viel, aber jedes Jahr gehen 10 Milliarden Bäume verloren; und wahrscheinlich hat der Mensch den ursprünglichen Baumbestand schon um die Hälfte verkleinert», betont Crowther. Die Kampagnenverantwortlichen revidierten aufgrund dieser Studie das Ziel: Eine Billion Bäume sollen nun gesetzt werden.
 
-## Sich Gehör verschaffen lohnt sich
-
 Die Studie verhalf dem Wissenschaftler auch zu öffentlicher Aufmerksamkeit – selbst Bernie Sanders und Donald Trump setzten Tweets ab, die sich auf das Thema bezogen. Dank der Baumzählung und der folgenden Medienarbeit wurde auch DOB auf Crowther aufmerksam. «Kommunikation war der Startschuss für das alles», sagt er. Noch immer würden Wissenschaftler selten dazu ermuntert, über ihre Forschung mit der Öffentlichkeit zu kommunizieren. «Hätte ich nicht so viel Zeit darin investiert, wäre niemand auf meine Arbeit aufmerksam geworden.»
+
+## Sich Gehör verschaffen lohnt sich
 
 Der Grant wird es Tom Crowther und seinen Mitarbeitern ermöglichen, das Verständnis für das globale Waldsystem weiter zu vertiefen. Dieses ist nötig, um Waldwiederherstellungen und Schutzbemühungen zu lenken. In Anbetracht der Tatsache, dass Medienarbeit und soziale Medien für den Erhalt des Grants wesentlich waren, bleibt Kommunikation für Crowther weiterhin vorranging.
 

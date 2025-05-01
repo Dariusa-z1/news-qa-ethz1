@@ -1,5 +1,7 @@
 # taking-to-the-water-in-a-concrete-canoe
 
+**Source:** en_internal/2015/06/taking-to-the-water-in-a-concrete-canoe.html
+
 ## Main article
 
 A concrete canoe regatta is held in Germany every two years, with students from all over Europe competing against one another with their various boat designs. Following on from their success in the last two contests, two teams from the Institute for Building Materials – part of the Department of Civil, Environmental and Geomatic Engineering (D-BAUG) – have set themselves ambitious targets for this year’s event too.

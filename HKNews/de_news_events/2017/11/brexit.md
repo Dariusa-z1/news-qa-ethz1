@@ -1,5 +1,7 @@
 # brexit
 
+**Source:** de_news_events/2017/11/brexit.html
+
 ## Migration im Einklang mit Freizügigkeit
 
 Die britische Premierministerin Theresa May hat keine einfache Aufgabe vor sich, wenn sie die künftige Beziehung ihres Landes zur EU verhandeln muss. Der erste Teil der Brexit-Verhandlungen wird zwar noch vergleichsweise überschaubar sein: Die Rückzugsvereinbarung – die eigentliche «Scheidung» von der EU – benötigt bloss die Zustimmung des Europäischen Parlaments und von 20 Mitgliedstaaten. Komplexer werden allerdings die Verhandlungen für eine Rahmenvereinbarung werden, welche die künftigen gegenseitigen Beziehungen regelt. Dies nur schon deshalb, weil da die einstimmige Zustimmung von mehr als 30 nationalen und regionalen Parlamenten in Europa erforderlich sein kann.

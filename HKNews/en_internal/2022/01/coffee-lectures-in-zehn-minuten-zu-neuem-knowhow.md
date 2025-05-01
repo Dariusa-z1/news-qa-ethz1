@@ -1,5 +1,7 @@
 # coffee-lectures-in-zehn-minuten-zu-neuem-knowhow
 
+**Source:** en_internal/2022/01/coffee-lectures-in-zehn-minuten-zu-neuem-knowhow.html
+
 ## How the Coffee Lectures work
 
 - Get to know the new Web of Science interface – 2 February

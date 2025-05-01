@@ -1,5 +1,7 @@
 # we-need-to-track-down-hidden-infections
 
+**Source:** en_news_events/2021/01/we-need-to-track-down-hidden-infections.html
+
 ## Two stages
 
 Since December, the Swiss canton of Graubünden has conducted in certain areas several rounds of mass testing for SARS-CoV-2. Any of the residents could have themselves tested for the virus free of charge, whether they exhibited typical COVID symptoms or not.
@@ -22,19 +24,17 @@ Critics may object that mass testing is too expensive, but we believe it is wort
 
 Nevertheless, the more people take part in a test-based strategy, the more successful it will be. Our small team of scientists from ETH Zurich and Empa plus other fellow researchers have developed a simulation algorithm 2 (also available as an interactive online application 3 ) that decision-makers can use to estimate the impact of participation on the spread of the virus. In this way, they can weigh up the cost of testing versus the cost of alternative measures, such as benefit payments for the economy.
 
-Our simulations show that if a quarter of the population in a given area is tested once a week, the reproductive number (R number) can be reduced by some 40 percent. If half the population is tested once a week, the R number can actually be halved. If instead of testing the general population, authorities tested specific groups that are particularly prone to infection, they could test fewer people and still achieve the same effect. 4 These groups would include those who come into contact with many others, for instance when commuting, at work, in community facilities, or at schools.
+Focusing on these groups means that testing – even testing those with no symptoms – could become so effective that it would be possible to relax other control measures, such as the closing of shops or restaurants, at an earlier point in time. This testing strategy would serve as an important and flexible weapon in our arsenal for combatting new and more infectious viral strains. With a sufficiently high number of participants, it may even be possible to keep the new variants in check without a lockdown.
 
 ## References
-
-Focusing on these groups means that testing – even testing those with no symptoms – could become so effective that it would be possible to relax other control measures, such as the closing of shops or restaurants, at an earlier point in time. This testing strategy would serve as an important and flexible weapon in our arsenal for combatting new and more infectious viral strains. With a sufficiently high number of participants, it may even be possible to keep the new variants in check without a lockdown.
 
 To safeguard the long-term success of this strategy, however, testing needs to continue at the same rate – despite any initial success and declines in case numbers – until enough people have been vaccinated.
 
 Participation in mass testing must remain voluntary, and Graubünden’s experience so far shows that enough people are willing to be tested. What is important is that the population has an incentive. Travel time to the testing site and waiting times must be short, and the test must not be too unpleasant. This is why Graubünden not only uses nasal swabs but also saliva tests; they also have the added benefit of requiring less in terms of staff and logistics.
 
-## About the authors
-
 Now Graubünden will show if a strategy focused on testing asymptomatic people can be effective. The hands-on experience we gather there will teach us how best to organise such tests. From a theoretical, mathematical point of view, there is no reason to assume that this strategy will not work. And we also see no reason not to expand this testing strategy across the whole of Switzerland.
+
+## About the authors
 
 This text also appeared as a guest commentary in the Tages-Anzeiger (in German).
 

@@ -1,5 +1,7 @@
 # diese-eth-studierenden-starten-bei-olympia
 
+**Source:** de_news_events/2024/07/diese-eth-studierenden-starten-bei-olympia.html
+
 ## In Kürze
 
 - An den Olympischen Spielen 2024 in Paris nehmen Athlet:innen mit Bezug zur ETH Zürich Teil

@@ -1,5 +1,7 @@
 # aurel-stodola-lecture-2015
 
+**Source:** en_news_events/2015/03/aurel-stodola-lecture-2015.html
+
 ## Career integration of many disciplines
 
 Prof. Mauro Ferrari is the recipient of the Aurel Stodola Medal 2015.

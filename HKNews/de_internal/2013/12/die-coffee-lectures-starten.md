@@ -1,5 +1,7 @@
 # die-coffee-lectures-starten
 
+**Source:** de_internal/2013/12/die-coffee-lectures-starten.html
+
 ## Erste Themen der Coffee Lectures:
 
 - Di, 03.12.13 Mit Alerts auf dem Laufenden bleiben (No. 1)

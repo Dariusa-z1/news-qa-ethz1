@@ -1,5 +1,7 @@
 # neu-zugriff-auf-proquest-materials-science-collection
 
+**Source:** de_internal/2015/07/neu-zugriff-auf-proquest-materials-science-collection.html
+
 ## Main article
 
 Sie umfasst mehrere Teildatenbanken, hierbei vor allem die Gebiete

@@ -1,5 +1,7 @@
 # hirnsignale-fuer-wirkstoff-screening
 
+**Source:** de_news_events/2018/01/hirnsignale-fuer-wirkstoff-screening.html
+
 ## Ins Gehirn geschaut
 
 Für Hirnkrankheiten gibt es noch immer vergleichsweise wenige Therapien. Das liegt unter anderem an der schwierigen Entwicklung neuer Medikamente, denn die Wirkungen und Nebenwirkungen einer Substanz am Gehirn lassen sich nicht so einfach nachweisen. Standard in der Medikamentenforschung sind Verhaltensstudien an Nagetieren. Dabei geben Forschende den Tieren einen neuen Wirkstoff und dokumentieren deren Verhaltensmuster. Diese Studien sind wichtig, doch bei der Suche nach neuen Wirkstoffen im Hochdurchsatz-Screening sind sie ungeeignet. Bei diesem Verfahren, das unter anderem in der Pharmaindustrie zum Einsatz kommt, werden Zehntausende Substanzen parallel getestet. Das ist mit Verhaltensbeobachtungen an Nagetieren nicht möglich.

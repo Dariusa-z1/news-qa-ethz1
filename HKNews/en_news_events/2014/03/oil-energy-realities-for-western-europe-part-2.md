@@ -1,5 +1,7 @@
 # oil-energy-realities-for-western-europe-part-2
 
+**Source:** en_news_events/2014/03/oil-energy-realities-for-western-europe-part-2.html
+
 ## The “unknown” factors
 
 Considering the importance of oil for our current globalized way of life, it seems highly relevant to understand the “known” facts (see part 1 of the two-part blog), study what we know we don’t know (the “known unknowns”) and be prepared for the unknowns we don’t know of yet (“unknown unknowns”), which will constrain the future oil consumption especially in Western Europe (EU + Norway + Switzerland).

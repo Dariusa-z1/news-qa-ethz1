@@ -1,5 +1,7 @@
 # portrait-olga-fink
 
+**Source:** en_news_events/2020/07/portrait-olga-fink.html
+
 ## Industrial assets reliably designed
 
 How do you predict something that you have never (or only very seldomly) observed? How do you make the results of artificial intelligence algorithms interpretable for experts? How do you support experts in making their decisions when algorithms have predicted something? Olga Fink explores all these questions in her research. The 37-year-old scientist is Professor of Intelligent Maintenance Systems at ETH Zurich. Her research group develops artificial intelligence algorithms that help to improve the reliability and operation of safety-critical assets such as power plants, industrial plants and transportation systems. "Our research can be compared to monitoring of human health. However, the difference is that our patients are vehicles or industrial plants," the scientist explains.

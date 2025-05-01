@@ -1,5 +1,7 @@
 # neue-zeitschriften-online
 
+**Source:** de_internal/2017/01/neue-zeitschriften-online.html
+
 ## Main article
 
 Hierzu zählen z. Bsp. Biologie, Medizin, Agrar- und Lebensmittelwissenschaften:

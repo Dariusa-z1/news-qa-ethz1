@@ -1,5 +1,7 @@
 # globe-gegen-mangelernaehrung-bei-kindern
 
+**Source:** de_news_events/2024/03/globe-gegen-mangelernaehrung-bei-kindern.html
+
 ## Rolle der Darmflora
 
 Laut der Weltgesundheitsorganisation WHO sind 148 Millionen Kinder unter fünf Jahren von verzögerter Entwicklung aufgrund von Mangelernährung betroffen und werden deshalb voraussichtlich nie ihr vollständiges Entwicklungspotenzial erreichen. Gründe für Mangelernährung sind eine unzureichende Nahrungsversorgung oder eine mangelhafte Verwertung von Nährstoffen wie Proteinen, Vitaminen und Mineralstoffen. Dadurch wird das Wachstum verlangsamt und das Immunsystem geschwächt. Betroffen sind vor allem Kinder in Asien und Afrika.
@@ -41,4 +43,6 @@ In einem nächsten Schritt will das Forschungsteam das diagnostische Potenzial d
 Seine Kollegin in Simbabwe, Kerina Duri, hofft, dass die Zusammenarbeit mit der Schweiz auch nach Auslauf des BRCCH-Projekts Ende Jahr weitergehen wird. «Unser Ziel ist es, ein Exzellenzzentrum für die Darmflora-Forschung in Simbabwe aufzubauen», sagt sie. Ein Zentrum, von dem Mütter und Kinder nicht nur in Simbabwe, sondern in ganz Afrika profitieren könnten. «Doch um entsprechende Kapazitäten aufzubauen, sind wir auf externe Finanzierung und auf Kooperationen, wie diejenige mit der ETH Zürich, angewiesen», sagt Duri.
 
 Im vergangenen Jahr unterstützte die Fondation Botnar die Universität Basel und die ETH Zürich mit weiteren 50 Millionen Schweizer Franken, um das gemeinsame externe Seite Basel Research Centre for Child Health (BRCCH) auszubauen. Damit können sechs neue Professuren mit dem Forschungsschwerpunkt pädiatrische digitale Gesundheit eingerichtet werden. Das BRCCH, das sich für die Gesundheit junger Menschen einsetzt, wurde 2019 gegründet. Die Universität Basel und die ETH arbeiten im Centre eng mit dem Universitäts-Kinderspital beider Basel sowie dem Schweizerischen Tropen- und Public-Health-Institut zusammen.
+
+Ganze Ausgabe lesen (PDF, 3.5 MB)
 

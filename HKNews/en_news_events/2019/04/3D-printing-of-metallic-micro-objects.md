@@ -1,5 +1,7 @@
 # 3D-printing-of-metallic-micro-objects
 
+**Source:** en_news_events/2019/04/3D-printing-of-metallic-micro-objects.html
+
 ## Alternatives to ink
 
 3D printers can print almost anything these days, from production prototypes to artificial organs all the way to entire houses. Particularly on a microscopic scale, additive manufacturing, as 3D printing is also known, makes it possible to produce structures which cannot be realized using other techniques such as lithography. Up to now, a weak point of additive manufacturing has been the realization of metallic structures at the micrometre scale. A team of researchers at ETH Zurich led by Ralph Spolenak, professor at the Laboratory for Nanometallurgy of the Department of Materials, together with Dimos Poulikakos of the Department of Mechanical and Process Engineering as well as Renato Zenobi of the Department of Chemistry and Applied Biosciences, have now developed a technique that even allows one to print two metals at the same time with a spatial resolution of 250 nanometres.

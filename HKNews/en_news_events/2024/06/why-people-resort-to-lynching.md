@@ -1,5 +1,7 @@
 # why-people-resort-to-lynching
 
+**Source:** en_news_events/2024/06/why-people-resort-to-lynching.html
+
 ## In brief
 
 - Based on a new dataset of 2,818 lynchings in 18 Latin American countries, ETH researcher Enzo Nussio investigated the factors that lead to higher lynching rates.

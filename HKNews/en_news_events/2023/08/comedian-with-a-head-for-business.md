@@ -1,5 +1,7 @@
 # comedian-with-a-head-for-business
 
+**Source:** en_news_events/2023/08/comedian-with-a-head-for-business.html
+
 ## From ETH to the US
 
 “I absolutely adore cake. And, as a food scientist, I have to test desserts on a frequent basis to check they’re still up to scratch!” says Fabian Unteregger with a wink as he settles down for our interview at the famous Sprüngli Café in Zurich. Unteregger is a successful comedian and ETH alumnus with a doctorate in medicine – and he happens to consider regular activity much more important than always following a healthy diet.
@@ -20,19 +22,19 @@ In our conversation, Unteregger is open and articulate, with a keen wit that is 
 
 ## Support for start-ups
 
-Just like humour, Unteregger also sees languages as a useful tool – in his case, as a means of making meaningful contact with others. Learning languages also makes him feel more independent, helps him overcome prejudices and improves his understanding of foreign cultures. He is currently learning Arabic, his eighth language after German, Italian, Swedish, French, English, Spanish and Swiss German.
-
 A trained helicopter pilot who also plays piano, drums, bass guitar and ukulele, Fabian Unteregger is not someone who likes to sit around doing nothing – though he does make sure to get seven hours of sleep every night. After completing his ETH degree programme, his unquenchable energy drove him to study medicine at the University of Zurich, followed by a doctorate at the University of Basel. During the pandemic, he combined his job as a comedian with shifts on an emergency ward, including nights and weekends – an eye-opening experience that taught him a great deal. He also picked up experience in ultrasound scans working as a doctor at Kantonsspital Winterthur, where he completed an accredited sonograph training programme. Working in hospitals has given him an insight into how they are run, and he can’t help putting on his entrepreneurial hat to pinpoint how deficiencies in healthcare leadership might be handled in a business setting: “They really are two very different worlds!”
-
-## About
 
 Since his stint on the emergency ward, Unteregger hasn’t had time to carry out any more medical duties, but that doesn’t mean he’s left medicine behind. “What interests me now is unearthing potential for innovation,” he says. Before finishing his degree in medicine, he founded Swiss Healthcare Startups, a networking platform that aims to bring together established businesses and start-ups. Companies can learn a lot from the start-up mentality and culture, he says, as this often involves working under pressure and embracing the development of risky new products. Unteregger is impressed by the technologies and solutions that emerge from the start-up ecosystem, but he has never seriously considered setting one up himself: “I’ve had the huge privilege of being my own boss for the past 14 years. My talent lies in mentoring and supporting start-ups on their journey.”
 
-And it’s not just talented entrepreneurs and fledgling companies that benefit from his work beyond the comedy circuit. To express his gratitude for the education he received, he has also pledged to give something back to his alma mater, ETH Zurich, both as a donor and as co-founder of the ETH Circle, an international network of ETH Zurich ambassadors. He is keen to share the expertise he has acquired from supporting start-ups and working in the fast-paced entertainment industry. He is particularly interested in efforts to extend ETH’s reach. “ETH is a powerhouse like no other, and we need to broadcast that around the world,” he says.
+## About
 
-## Globe What holds the world together
+And it’s not just talented entrepreneurs and fledgling companies that benefit from his work beyond the comedy circuit. To express his gratitude for the education he received, he has also pledged to give something back to his alma mater, ETH Zurich, both as a donor and as co-founder of the ETH Circle, an international network of ETH Zurich ambassadors. He is keen to share the expertise he has acquired from supporting start-ups and working in the fast-paced entertainment industry. He is particularly interested in efforts to extend ETH’s reach. “ETH is a powerhouse like no other, and we need to broadcast that around the world,” he says.
 
 If Unteregger could give one piece of advice to today’s students, what would it be? “Focus on what you’re good at and what makes you stand out from the crowd," he advises. "But the most important thing is finding joy and passion in what you do. Life is so much easier when you love your work!”
 
+## Globe What holds the world together
+
 Fabian Unteregger is a well-known Swiss comedian. He studied food science at ETH Zurich, followed by a degree in medicine from the University of Zurich and a doctorate from the University of Basel. Unteregger, 46, is co-founder and co-president of the organisation Swiss Healthcare Startups and a founding member of the ETH Circle.
+
+This text appeared in the 23/03 issue of the ETH magazine Globe . Read whole issue (PDF, 4.6 MB)
 

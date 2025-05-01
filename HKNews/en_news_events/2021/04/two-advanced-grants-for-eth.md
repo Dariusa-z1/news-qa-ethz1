@@ -1,5 +1,7 @@
 # two-advanced-grants-for-eth
 
+**Source:** en_news_events/2021/04/two-advanced-grants-for-eth.html
+
 ## An uncertain future
 
 Two researchers at ETH Zurich – atmospheric physicist Ulrike Lohmann and political scientist Frank Schimmelfennig – have each been awarded an Advanced Grant by the European Research Council (ERC). Their projects received CHF 3.8 million and CHF 2.8 million, respectively.
@@ -24,5 +26,5 @@ Frank Schimmelfennig is Professor of European Politics at the Department of Huma
 
 ETH researchers have been successfully applying for EU funding – ERC Research Grants – since 2007. More than 80 researchers at ETH Zurich have received an ERC Advanced Grant. In addition to the Advanced Grants, the European Research Council also annually awards Starting Grants to young researchers at the beginning of their careers and Consolidator Grants to more established researchers to further develop their own group. Furthermore, the numerous ERC Proof of Concept Grants (funding for the preparation of feasibility studies and business plans) awarded to ETH Zurich show that basic research is often used in market innovations with corresponding economic benefits.
 
-ETH Zürich Corporate Communications Media Relations Tel.: +41 44 632 41 41
+Press release (PDF, 122 KB)
 

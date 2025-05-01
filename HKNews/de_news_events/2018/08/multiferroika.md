@@ -1,5 +1,7 @@
 # multiferroika
 
+**Source:** de_news_events/2018/08/multiferroika.html
+
 ## Magnetisch und elektrisch zugleich
 
 Wenn es unangenehm laut wird, kommt seit einigen Jahren in Kopfhörern oder Oberklasselimousinen der «Antischall» zum Einsatz. Dabei registriert ein Mikrofon die störenden Geräusche, und ein Computerchip berechnet daraus die geeigneten Gegenmassnahmen: Schallwellen also, deren Schwingungsphasen denen des Umgebungsschalls genau entgegengesetzt sind. Die Interferenz zwischen den Wellen führt schliesslich dazu, dass die Geräusche effektiv ausgelöscht werden. Gerne würden Physiker und Ingenieure das Prinzip der perfekten Umkehr auch auf andere Technologien anwenden, zum Beispiel auf die magnetische Struktur eines Materials. ETH-Professor Manfred Fiebig und seinen Mitarbeitern am Department Materialwissenschaft in Zürich ist nun genau das gelungen. Unterstützt wurden sie dabei von Wissenschaftlern aus Europa, Japan und Russland. Ihre Ergebnisse werden diese Woche im Fachjournal Nature publiziert.

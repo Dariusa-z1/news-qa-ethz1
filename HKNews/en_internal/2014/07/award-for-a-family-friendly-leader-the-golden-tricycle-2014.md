@@ -1,5 +1,7 @@
 # award-for-a-family-friendly-leader-the-golden-tricycle-2014
 
+**Source:** en_internal/2014/07/award-for-a-family-friendly-leader-the-golden-tricycle-2014.html
+
 ## Main article
 
 Does your superior enable your team to keep work and caring for children or an illness in the family under one roof? Is it possible for you as an employee to follow a working model that allows both individuals in a couple to pursue a career?

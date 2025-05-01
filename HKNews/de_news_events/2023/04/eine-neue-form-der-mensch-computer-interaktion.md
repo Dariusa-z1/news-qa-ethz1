@@ -1,5 +1,7 @@
 # eine-neue-form-der-mensch-computer-interaktion
 
+**Source:** de_news_events/2023/04/eine-neue-form-der-mensch-computer-interaktion.html
+
 ## Das Wichtigste in Kürze
 
 - ETH-Forscher haben eine neue Programmiersprache namens LMQL (Language Model Query Language) entwickelt.

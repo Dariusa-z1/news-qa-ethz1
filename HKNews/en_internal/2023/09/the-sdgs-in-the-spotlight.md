@@ -1,5 +1,7 @@
 # the-sdgs-in-the-spotlight
 
+**Source:** en_internal/2023/09/the-sdgs-in-the-spotlight.html
+
 ## Autumn 2023: SDGs in the Global Spotlight
 
 The open your eyes photo festival aims to emotionally touch its visitors through art, beauty, and the expressive power of photographs. Hence, the festival's slogan is "Stop. Think. Feel. Act." The framework for this is the 2030 Agenda for global sustainable development with its 17 Sustainable Development Goals (SDGs). Each SDG has a thematic island featuring impactful photographs, explanations of the development goal, and information about several ETH projects working toward that goal. The aim of the exhibition is to simultaneously raise awareness of the complex challenges of our time and also to highlight potential solutions.

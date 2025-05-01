@@ -1,5 +1,7 @@
 # jubilaeumspreis-an-zwei-eth-professorinnen
 
+**Source:** de_news_events/2023/09/jubilaeumspreis-an-zwei-eth-professorinnen.html
+
 ## Prognosen für Krankheitserreger
 
 Anlässlich ihres 50-jährigen Bestehens verlieh die Stiftung Max Cloëtta ihren einmalig ausgerichteten Jubiläumspreis an die beiden ETH-Professorinnen Tanja Stadler und Barbara Treutlein für ihre herausragenden Leistungen und ihre Forschung im Bereich der Biomedizin. Die Preisträgerinnen sind beide am Departement für Biosysteme der ETH Zürich in Basel tätig. Sie werden sich den Preis von 250‘000 Franken teilen und ihn dazu verwenden, weitere Forschung zu finanzieren.

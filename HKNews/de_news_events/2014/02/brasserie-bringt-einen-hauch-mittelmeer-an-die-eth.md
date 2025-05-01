@@ -1,5 +1,7 @@
 # brasserie-bringt-einen-hauch-mittelmeer-an-die-eth
 
+**Source:** de_news_events/2014/02/brasserie-bringt-einen-hauch-mittelmeer-an-die-eth.html
+
 ## Ein Magnet, der Optimismus ausstrahlt
 
 Die Aussicht auf das Gebiet rund um den Katzensee dürfte künftig das Markenzeichen des bedienten Restaurants werden. Der Pavillon wird direkt auf die Hangkante, die nach Zürich-Affoltern hinunterführt, gesetzt. Er wird aus Holz gebaut und rundum verglast. Der Holzpavillon wird am Nordrand des Campus stehen, am Ende der Wolfgang-Pauli-Strasse.

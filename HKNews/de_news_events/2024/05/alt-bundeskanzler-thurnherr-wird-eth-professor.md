@@ -1,5 +1,7 @@
 # alt-bundeskanzler-thurnherr-wird-eth-professor
 
+**Source:** de_news_events/2024/05/alt-bundeskanzler-thurnherr-wird-eth-professor.html
+
 ## In Kürze
 
 - Der ehemalige Bundeskanzler Walter Thurnherr wird ab Oktober 2024 Professor of Practice am Departement für Geistes-, Sozial- und Staatswissenschaften der ETH Zürich.

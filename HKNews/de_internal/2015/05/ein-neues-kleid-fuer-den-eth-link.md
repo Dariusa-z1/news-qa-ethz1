@@ -1,5 +1,7 @@
 # ein-neues-kleid-fuer-den-eth-link
 
+**Source:** de_internal/2015/05/ein-neues-kleid-fuer-den-eth-link.html
+
 ## Main article
 
 Zwei Busse fahren wochentags zwischen den beiden ETH-Standorten Zentrum und Hönggerberg hin und her. Insgesamt 69-mal am Tag. Nun kommen diese Busse in einer neuen, blau-weissen Aufmachung daher.

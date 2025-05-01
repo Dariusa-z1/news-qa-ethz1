@@ -1,5 +1,7 @@
 # 63-people-successfully-complete-their-apprenticeships
 
+**Source:** en_internal/2015/07/63-people-successfully-complete-their-apprenticeships.html
+
 ## Main article
 
 Just like last year, all the apprentices and trainees who completed the apprenticeship examination ('LAP') at ETH Zurich passed the exam in 2015. This means that 63 newly qualified apprentices in commercial and technical fields have now successfully completed their apprenticeship at ETH Zurich. At the 2015 LAP Celebration on 8 July, Dieter Schorno, Head of Vocational Education and Training at ETH Zurich, noted that half of the apprentices had gained a vocational matriculation certificate ('Berufsmatur').

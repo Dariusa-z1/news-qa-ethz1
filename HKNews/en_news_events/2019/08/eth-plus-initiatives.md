@@ -1,5 +1,7 @@
 # eth-plus-initiatives
 
+**Source:** en_news_events/2019/08/eth-plus-initiatives.html
+
 ## Bringing materials to life
 
 Interest in ETH+, which saw the launch of nine initiatives last year, is as great as ever: the second round attracted a total of 241 applicants from departments and areas right across ETH, with 25 outline ideas submitted to the second call for applications. Of these, four will now be implemented as part of ETH+; another idea relating to teaching will launch as a pilot project under ETH Rector Sarah Springman. ETH Zurich is making a total of 41.8 million Swiss francs in funding available to these initiatives, with most of this sum coming from reserves.

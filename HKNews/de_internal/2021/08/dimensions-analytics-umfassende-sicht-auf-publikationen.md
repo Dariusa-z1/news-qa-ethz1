@@ -1,5 +1,7 @@
 # dimensions-analytics-umfassende-sicht-auf-publikationen
 
+**Source:** de_internal/2021/08/dimensions-analytics-umfassende-sicht-auf-publikationen.html
+
 ## Gezielt suchen
 
 - Publikationen

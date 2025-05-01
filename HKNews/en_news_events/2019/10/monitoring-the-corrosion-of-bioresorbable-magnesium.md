@@ -1,5 +1,7 @@
 # monitoring-the-corrosion-of-bioresorbable-magnesium
 
+**Source:** en_news_events/2019/10/monitoring-the-corrosion-of-bioresorbable-magnesium.html
+
 ## Implementing a new family of alloys
 
 Magnesium and its alloys are increasingly being deployed in bone surgery, in particular as osteosynthesis implants such as screws or plates, and as cardiovascular stents to expand narrowed coronary blood vessels.
@@ -19,8 +21,6 @@ Despite these promising results, an important factor still hinders broad deploym
 ## Reference
 
 Using analytical transmission electron microscopy (TEM), Jörg Löffler and his colleagues Martina Cihova and Robin Schäublin have now managed to monitor in detail the structural and chemical changes in magnesium alloys under simulated physiological conditions over time scales of a few seconds to many hours, with so far unreached resolutions of a few nanometers. They recently published their results in Advanced Materials .
-
-With the help of modern TEM technology, provided by ETH’s competence center “ScopeM”, and the support of Patrik Schmutz from Empa Dübendorf, the researchers were able to document a so far unobserved dealloying mechanism that significantly governs the precipitates’ dissolution in the magnesium matrix. They observed – practically in real time – how calcium and magnesium ions dissolve from the precipitates once in contact with simulated body fluid, while zinc ions remain stable and accumulate. The resulting ongoing change in the precipitates’ chemical composition, termed “dealloying”, generates a dynamic change in their electrochemical activity and accelerates the magnesium alloy degradation overall.
 
 “This finding overturns a prevailing dogma, which assumed that the precipitates’ chemical composition in magnesium alloys remains unchanged,” says Löffler. That previous assumption had led to mostly false predictions regarding degradation times. “The mechanism we report seems to be universally valid, and we expect it to occur in both other magnesium alloys and other active materials that contain intermetallic precipitates,” adds Martina Cihova, doctoral student of Jörg Löffler and first author of the study.
 

@@ -1,5 +1,7 @@
 # glaubwuerdigkeit-leidet-nicht-wenn-sich-forschende-politisch-engagieren
 
+**Source:** de_internal/2024/03/glaubwuerdigkeit-leidet-nicht-wenn-sich-forschende-politisch-engagieren.html
+
 ## Zur Person
 
 Was ist Inhalt und Zweck der Leitlinien? Benedikt Knüsel: Die Leitlinien befassen sich mit dem Science-Policy-Engagement, also damit, wie Forschende politische Entscheidungsträger:innen über wissenschaftliche Erkenntnisse informieren und ihre Expertise in politische Debatten einbringen können. Sie bieten einen Überblick über die Grundsätze, Rollen und Risiken, wenn ETH-Angehörige die Politik beraten oder sich als wissenschaftliche Expert:innen politisch engagieren. Das Ziel ist, dass politische Entscheidungen und Massnahmen basierend auf der besten verfügbaren, wissenschaftlichen Evidenz getroffen werden können. Die Leitlinien sind zudem Ausdruck einer konsolidierten Sichtweise, dass dieses Engagement an der Schnittstelle von Wissenschaft und Politik an der ETH geschätzt und unterstützt wird.

@@ -1,8 +1,8 @@
 # coffee-lectures-neue-online-kurse
 
-## Main article
+**Source:** en_internal/2020/05/coffee-lectures-neue-online-kurse.html
 
-Our Coffee Lectures can provide the answers you need to questions concerning information research, open-access publishing and research data management. They are also a good opportunity to get to know points of contact and specialist staff at ETH Library.
+## Main article
 
 Each session lasts fifteen minutes. You will receive concise, condensed information on a particular topic and have time to ask questions at the end. Fifteen minutes also happens to be just the right amount of time to enjoy a cup of tea or coffee while getting the information you need.
 

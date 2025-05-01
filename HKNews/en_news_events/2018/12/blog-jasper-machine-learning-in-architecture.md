@@ -1,5 +1,7 @@
 # blog-jasper-machine-learning-in-architecture
 
+**Source:** en_news_events/2018/12/blog-jasper-machine-learning-in-architecture.html
+
 ## Architect of the money bag
 
 I recently accompanied a group of architecture students for a few days of a seminar week. We visited people in many different professions in order to understand how machine learning and artificial intelligence affect their working lives. Do the students have cause for concern?

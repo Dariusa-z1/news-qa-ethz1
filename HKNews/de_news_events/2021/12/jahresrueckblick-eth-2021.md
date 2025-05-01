@@ -1,5 +1,7 @@
 # jahresrueckblick-eth-2021
 
+**Source:** de_news_events/2021/12/jahresrueckblick-eth-2021.html
+
 ## Januar
 
 Was im Winter 1959 am russischen Djatlow-Pass geschah, wird nie restlos geklärt werden. Wissenschaftler der ETH Zürich und der EPFL finden aber eine neue Erklärung für das mysteriöse Unglück , das neun Skiwanderern das Leben kostete. Möglicherweise häufte sich durch starke hangabwärts wehende Winde so viel Schnee an, dass trotz der geringen Hangneigung eine Lawine abgehen konnte und den Biwakplatz und vier Expeditionsteilnehmer unter sich begrub.

@@ -1,5 +1,7 @@
 # globe-strom-und-waerme-haltbar-machen
 
+**Source:** de_news_events/2022/09/globe-strom-und-waerme-haltbar-machen.html
+
 ## Flusskraftwerk und Pumpspeicher
 
 Die Schweiz will ihre Energieversorgung bis 2050 klimaneutral gestalten. Dazu muss sie fossile Brenn- und Treibstoffe durch erneuerbare Energien ersetzen. Zudem will die Schweiz aus der Kernenergie aussteigen. Das Energiesystem von morgen muss also nicht nur die Sektoren Transport und Heizen mittels Elektromobilität beziehungsweise Wärmepumpen elektrifizieren, sondern gleichzeitig die wegfallende Elektrizität aus Kernkraftwerken kompensieren. Den erhöhten Strombedarf decken sollen neben der Wasserkraft vor allem Fotovoltaik und begrenzt Windkraft.
@@ -85,4 +87,6 @@ Gianfranco Guidati ist Projektmanager am Energy Science Center der ETH Zürich u
 Robert Boes ist Professor für Wasserbau und Direktor der Versuchsanstalt für Wasserbau, Hydrologie und Glaziologie an der ETH Zürich.
 
 Vanessa Wood ist Professorin am Institut für Elektronik und seit 2021 Vizepräsidentin für Wissenstransfer und Wirtschaftsbeziehungen der ETH Zürich.
+
+Ganze Ausgabe lesen (PDF, 5.1 MB)
 

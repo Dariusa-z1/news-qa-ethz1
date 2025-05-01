@@ -1,5 +1,7 @@
 # flemings-methode-im-miniaturformat
 
+**Source:** de_news_events/2019/04/flemings-methode-im-miniaturformat.html
+
 ## «Bubble Tea» für die Wirkstoffsuche
 
 Unbeabsichtigt gelangte vor 90 Jahren ein Schimmelpilz auf eine Bakterienkultur in Alexander Flemings Labor. Der schottische Bakteriologe beobachtete, dass der Pilz einen Stoff produzierte, der die Bakterien auf der Zellkulturplatte abtötete. Er entdeckte so Penicillin, eines der ersten Antibiotika. Mittlerweile gibt es mehrere Dutzend Klassen von Antibiotika, und die Wissenschaft sucht weiterhin unermüdlich nach neuen antimikrobiellen Wirkstoffen, weil diese in der Medizin dringend benötigt werden. Ein Grossteil dieser Medikamente sind Naturstoffe oder bauen auf diesen auf. Und noch immer ist die Nachweismethode dieselbe wie zu Flemings Zeiten: Ein Antibiotikum ist ein Stoff, der auf einer Zellkulturplatte Bakterien abzutöten vermag.

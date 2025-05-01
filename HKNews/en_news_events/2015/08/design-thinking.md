@@ -1,5 +1,7 @@
 # design-thinking
 
+**Source:** en_news_events/2015/08/design-thinking.html
+
 ## Putting people centre stage
 
 Specialist knowledge on its own is often not enough to hold one’s own against global competition. It’s becoming ever more important to think outside the box: in the development of new product ideas, there is a growing need for interdisciplinary thinking and working. Now master’s students at ETH Zurich will be able to acquire precisely these skills on a newly developed master’s course entitled “Design Thinking: Human-centred solutions to real-world challenges”. One of its co-initiators is Professor Mirko Meboldt of the Department of Mechanical and Process Engineering: “Our goal is to get students from as many different faculties as possible to take part, so they learn how to collaborate, share knowledge across disciplines and ultimately work together to develop innovative solutions.”

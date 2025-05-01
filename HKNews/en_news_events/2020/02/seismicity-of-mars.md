@@ -1,5 +1,7 @@
 # seismicity-of-mars
 
+**Source:** en_news_events/2020/02/seismicity-of-mars.html
+
 ## Interpreting marsquake data is challenging
 
 On 26 November 2018, the NASA InSight lander successfully set down on Mars in the Elysium Planitia region. Seventy Martian days later, the mission’s seismometer SEIS began recording the planet’s vibrations. A team of researchers and engineers at ETH Zurich, led by ETH Professor Domenico Giardini, had delivered the SEIS control electronics and is responsible for the Marsquake Service. The latter is in charge for the daily interpretation of the data transmitted from Mars, in collaboration with the Swiss Seismological Service at ETH Zurich. Now, the journal Nature Geoscience published a series of articles on the results of the mission in the first months of operation on Mars.

@@ -1,5 +1,7 @@
 # in-memory-of-konrad-steffen
 
+**Source:** en_internal/2020/08/in-memory-of-konrad-steffen.html
+
 ## Main article
 
 He was not only spellbound by Greenland’s wildness and beauty, but also driven by concern for its future: Konrad Steffen, 1952 – 2020 (Photograph: ETH Zurich / Giulia Marthaler)

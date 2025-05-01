@@ -1,5 +1,7 @@
 # ein-material-mit-besonderem-dreh
 
+**Source:** de_news_events/2020/04/ein-material-mit-besonderem-dreh.html
+
 ## Moiré-Muster im Kristall
 
 Viele moderne Technologien beruhen auf speziellen Materialien, wie etwa den für Computer wichtigen Halbleitern, in denen sich Elektronen mehr oder weniger frei bewegen können. Wie frei die Elektronen sind, wird durch ihre Quanteneigenschaften und durch die Kristallstruktur des Materials bestimmt. Meist bewegen sie sich unabhängig voneinander. Unter bestimmten Bedingungen jedoch können starke Wechselwirkungen zwischen den Elektronen zu besonderen Phänomenen führen. Ein bekanntes Beispiel dafür sind Supraleiter, in denen sich Elektronen zu Paaren zusammentun und so widerstandsfrei elektrischen Strom leiten.

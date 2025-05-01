@@ -1,5 +1,7 @@
 # eth-zurich-receives-official-accreditation
 
+**Source:** en_news_events/2021/11/eth-zurich-receives-official-accreditation.html
+
 ## Main article
 
 - ETH’s strategy and development plan should more clearly define which offices/bodies are responsible for the various quality assurance processes. The analysis notes that informal practices carry a lot of weight and suggests making some of them official. In addition, the processes are to be better communicated internally and externally.

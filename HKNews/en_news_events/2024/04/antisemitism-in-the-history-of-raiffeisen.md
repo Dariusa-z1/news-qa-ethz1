@@ -1,5 +1,7 @@
 # antisemitism-in-the-history-of-raiffeisen
 
+**Source:** en_news_events/2024/04/antisemitism-in-the-history-of-raiffeisen.html
+
 ## In brief
 
 - Raiffeisen’s founder in Germany, F.W. Raiffeisen (1818–1888), had antisemitic prejudices and in particular denounced the alleged “Jewish extortion”. However, around 1880 he took pains to distance himself from the widespread “Judenhetze” (“Jew-baiting”) happening at the time.

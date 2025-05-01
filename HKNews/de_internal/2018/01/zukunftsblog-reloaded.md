@@ -1,5 +1,7 @@
 # zukunftsblog-reloaded
 
+**Source:** de_internal/2018/01/zukunftsblog-reloaded.html
+
 ## Auftakt mit drei Blogbeiträgen
 
 - sich beim Redaktionsteam mit Ideen für interessante Blogbeiträge melden:

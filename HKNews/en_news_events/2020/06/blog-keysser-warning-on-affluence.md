@@ -1,5 +1,7 @@
 # blog-keysser-warning-on-affluence
 
+**Source:** en_news_events/2020/06/blog-keysser-warning-on-affluence.html
+
 ## Consumption leads to ecological crises
 
 (Photograph: ETH Zurich)

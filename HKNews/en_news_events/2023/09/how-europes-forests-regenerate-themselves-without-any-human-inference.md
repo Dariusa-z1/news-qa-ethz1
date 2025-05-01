@@ -1,5 +1,7 @@
 # how-europes-forests-regenerate-themselves-without-any-human-inference
 
+**Source:** en_news_events/2023/09/how-europes-forests-regenerate-themselves-without-any-human-inference.html
+
 ## In brief
 
 - Competition between trees is one of the driving forces in the natural regeneration of forests.

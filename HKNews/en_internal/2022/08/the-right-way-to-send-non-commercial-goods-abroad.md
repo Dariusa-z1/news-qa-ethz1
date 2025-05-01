@@ -1,5 +1,7 @@
 # the-right-way-to-send-non-commercial-goods-abroad
 
+**Source:** en_internal/2022/08/the-right-way-to-send-non-commercial-goods-abroad.html
+
 ## Parcels and maxi letters
 
 In January 2022, the EU abolished the VAT exemption limit. This means that recipients of consignments sent abroad from Switzerland now have to pay the tax. So how can you ensure that non-commercial goods arrive at their destination at the lowest possible cost?

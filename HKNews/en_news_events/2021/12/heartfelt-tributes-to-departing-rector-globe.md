@@ -1,5 +1,7 @@
 # heartfelt-tributes-to-departing-rector-globe
 
+**Source:** en_news_events/2021/12/heartfelt-tributes-to-departing-rector-globe.html
+
 ## Key reforms
 
 She has worked with great enthusiasm for good teaching. (Image: Markus Bertschi)
@@ -77,6 +79,8 @@ Florentine Strudwick, AVETH President
 As an engineer, Sarah has researched the effects of natural features on buildings, and with her sharp mind she has been able to draw parallels with learning as a Rector: Educational opportunities cannot be imposed against the nature of human thought and experience. But if you know underlying mechanisms, you can create solid foundations in harmony with nature - which is why she launched the Youth Academy for STEM learning, for example.
 
 Elsbeth Stern, professor of Research on Learning and Instruction
+
+Read the issue as a PDF (PDF, 16.2 MB)
 
 Read the issue online
 

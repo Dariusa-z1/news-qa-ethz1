@@ -1,5 +1,7 @@
 # science-and-photography-promote-a-new-era-of-understanding-the-world
 
+**Source:** de_internal/2023/05/science-and-photography-promote-a-new-era-of-understanding-the-world.html
+
 ## Stop. Think. Feel. Act.
 
 Ein Schulterschluss von Weltklasse-Fotografie und Weltklasse-Wissenschaft: Das ist die Kurzformel des Fotofestivals «Open Your Eyes: Transformation unserer Welt», welches als Freilichtausstellung vom 8. September bis 15. Oktober 2023 im Herzen von Zürich zu sehen sein wird.

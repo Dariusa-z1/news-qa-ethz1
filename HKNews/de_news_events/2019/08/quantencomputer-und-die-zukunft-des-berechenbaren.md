@@ -1,5 +1,7 @@
 # quantencomputer-und-die-zukunft-des-berechenbaren
 
+**Source:** de_news_events/2019/08/quantencomputer-und-die-zukunft-des-berechenbaren.html
+
 ## Vordenker und Zoowรคrter der Komplexitรคten
 
 2007 lief in Australien ein TV-Werbespot. Darin unterhielten sich zwei Models in der Garderobe über Quantenmechanik. Interessant sei, so die beiden, dass sie anders als sonst in der Physik üblich nicht von Materie, Energie oder Wellen handle, sondern von Information, Wahrscheinlichkeiten und Beobachtungsgrössen.

@@ -1,5 +1,7 @@
 # keimzelle-der-kuenstlichen-intelligenz-in-europa
 
+**Source:** de_news_events/2020/06/keimzelle-der-kuenstlichen-intelligenz-in-europa.html
+
 ## Talentförderung und praxisrelevante Forschung
 
 Thmoas Hofmann.

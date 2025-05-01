@@ -1,5 +1,7 @@
 # home-of-drones
 
+**Source:** en_news_events/2018/06/home-of-drones.html
+
 ## Switzerland’s drone ecosystem
 
 This week, the World Economic Forum moves drones to the top of its agenda convening its Drone Innovators Network at ETH Zurich. Discussions are set to span the spectrum of drone implementation in society from aviation policy to urban delivery and from the benefits of drones to their potential risk.

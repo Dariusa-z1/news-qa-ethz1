@@ -1,5 +1,7 @@
 # wie-sich-konsumenten-bei-strompreisaenderungen-verhalten
 
+**Source:** en_news_events/2014/08/wie-sich-konsumenten-bei-strompreisaenderungen-verhalten.html
+
 ## Die Preiselastizität neu schätzen
 
 Im Umbau des Schweizer Energiesystems ist die Energieeffizienz ein wichtiger Standpfeiler – genauso wichtig wie erneuerbare Energien. Um einen effizienteren Umgang mit Energie zu erreichen, werden in der Energiestrategie 2050 verschiedene Massnahmen vorgeschlagen – zum Beispiel ein Handel mit weissen Zertifikaten in Kombination mit einem Reduktionsziel für Stromversorger in der ersten Etappe oder die Einführung eines Lenkungssystems statt eines Fördersystems in einer zweiten Etappe. Um solche Politikinstrumente prüfen und genauer ausgestalten zu können, brauchen wir Informationen zu Umverteilungseffekten und den Auswirkung auf die Wohlfahrt der Schweiz. Diese Informationen kann man anhand gesamtwirtschaftlicher ökonomischer Modelle abschätzen. Solche Modelle basieren jedoch auf einigen Annahmen, unter anderem darüber, wie sich Konsumenten verhalten, wenn sich Energiepreise ändern. Um derartige Annahmen zu treffen, braucht man mikroökonomische Modelle.

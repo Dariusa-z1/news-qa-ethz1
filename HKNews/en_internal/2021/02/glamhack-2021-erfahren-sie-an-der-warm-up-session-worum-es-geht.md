@@ -1,5 +1,7 @@
 # glamhack-2021-erfahren-sie-an-der-warm-up-session-worum-es-geht
 
+**Source:** en_internal/2021/02/glamhack-2021-erfahren-sie-an-der-warm-up-session-worum-es-geht.html
+
 ## Main article
 
 Once a year, the Swiss Open Cultural Data Hackathon, also known as GLAMhack, brings together data providers, software developers, digital humanists, artists, Wikimedians, Wikipedians and other interested people to experiment with unique cultural data. The participants also investigate how this cultural data could be used for research purposes, for web and mobile apps, in the context of Wikipedia, for artistic applications or for other forms of reuse.

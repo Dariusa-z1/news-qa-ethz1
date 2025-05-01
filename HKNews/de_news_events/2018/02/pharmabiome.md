@@ -1,5 +1,7 @@
 # pharmabiome
 
+**Source:** de_news_events/2018/02/pharmabiome.html
+
 ## Transplantation mit Risiken
 
 Um die 500 verschiedene Bakterienarten leben in unseren Gedärmen. Sie helfen unser Essen zu verdauen, indem sie grosse Moleküle wie Nahrungsfasern in kleinere zerlegen, die ins Blut gelangen und so dem Körper als Nährstoffe und Energiequelle dienen. Zusammen bilden die Mikroorganismen ein komplexes und fein austariertes Ökosystem, in dem jede Bakterienart eine spezielle Teilaufgabe übernimmt.
@@ -23,6 +25,4 @@ Ausserdem stellten die Forschenden eine Mischung aus knapp einem Dutzend Arten z
 Derzeit sind die Wissenschaftler daran, die Zuchtbakterien im Labor zu testen. Versuche bei Mäusen mit gestörter Darmflora zeigten, dass sich dank der Mischung das Gleichgewicht wieder einstellte, und zwar besser als mit einer Fäkaltransplantation. «Nun möchten wir die Sicherheit und die Verträglichkeit unseres Mix möglichst schnell bei Patienten testen. Derzeit suchen wir eine Partnerfirma, welche solche klinischen Versuche mit uns durchführen möchte», so de Wouters.
 
 Mögliche Anwendungsgebiete für die künstliche Darmflora aus den Pharmabiome-Labors beschränkten sich nicht auf Clostridium-difficile -Infektionen, wie de Wouters betont. Auch bei chronischen Entzündungserkrankungen des Darms wie Morbus Crohn und Colitis Ulcerosa sowie bei Darmkrebs gelte es, ein aus dem Gleichgewicht gebrachtes Darmökosystem wieder ins Lot zu bringen. Ausserdem seien Anwendungen bei chronischen Stoffwechselerkrankungen wie Übergewicht, Fettleber und Diabetes denkbar. Es gebe Studien, welche einen Einfluss der Darmflora auf diese Krankheiten aufzeigten.
-
-Bei der Produktentwicklung und dem Ermitteln von Anwendungen hilft dem jungen Spin-off die Expertise von ETH-Biotechnologen, welche Methoden zur Kultivierung von komplexen Darmfloren entwickelt haben, sowie von Magen-Darm-Spezialisten des Universitätsspitals Zürich. «Wir haben einen sehr engen Kontakt zur Gastroenterologischen Klinik. Der Klinikdirektor ist Mitgründer unserer Firma», sagt de Wouters. «Unsere Entwicklung ist dadurch nahe bei den Patienten.»
 

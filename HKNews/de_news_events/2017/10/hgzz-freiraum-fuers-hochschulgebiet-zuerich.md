@@ -1,5 +1,7 @@
 # hgzz-freiraum-fuers-hochschulgebiet-zuerich
 
+**Source:** de_news_events/2017/10/hgzz-freiraum-fuers-hochschulgebiet-zuerich.html
+
 ## Räume zwischen den Neubauten aufwerten
 
 Die Baudirektion hat die drei kantonalen Gestaltungspläne «USZ Kernareal Ost», «USZ/ETH Schmelzberg» sowie «UZH Wässerwies» festgesetzt. Sie legen den maximalen Rahmen in Bezug auf Zahl, Lage, äussere Abmessungen sowie Nutzung und Zweck der geplanten Bauten verbindlich fest. Damit ist die Planung für das Hochschulgebiet Zürich Zentrum (HGZZ) abgeschlossen Noch ist allerdings das Ergebnis der drei eingereichten Rekurse abzuwarten.
@@ -25,4 +27,8 @@ Damit sich Anwohnerschaft und interessierte Öffentlichkeit mitten im Hochschulg
 Dieser stellt die Etappen der Planung seit der Verabschiedung des Masterplans von 2005 vor und zeigt auf, wie sich das Hochschulgebiet in Zukunft weiterentwickeln soll. Ausserdem erfahren die Besucher, welche Rolle die arealbezogenen Gestaltungspläne und das Stadtraumkonzept für die Weiterentwicklung des Hochschulgebiets spielen.
 
 Dazu werden Beispiele aus der Zusammenarbeit des Universitätsspitals, der Universität und der ETH Zürich in Lehre, Forschung und Öffentlichkeitsarbeit vorgestellt und dargelegt, dass die bauliche Infrastruktur ein Schlüsselfaktor für deren Erfolg ist. Zwei Touchscreens zeigen Videos aus der Forschungszusammenarbeit und laden zu einem Drohnenflug über des Hochschulgebiet ein.
+
+Inforaum Hochschulgebiet Zürich Zentrum in der Alten Anatomie, Gloriastrasse 19. Öffnungszeit: Werktags von 8 bis 18 Uhr.
+
+Die kantonalen Gestaltungspläne, Unterlagen zum Stadtraumkonzept HGZZ sowie weitere Grundlagen sind auf der Internetseite externe Seite www.hgzz.zh.ch verfügbar.
 

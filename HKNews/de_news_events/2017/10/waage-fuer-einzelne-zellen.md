@@ -1,5 +1,7 @@
 # waage-fuer-einzelne-zellen
 
+**Source:** de_news_events/2017/10/waage-fuer-einzelne-zellen.html
+
 ## Neuartige Zellwaage mit hoher Auflösung
 
 Ob Regenwurm, Sonnenblume oder Mensch – wir alle bestehen aus Zellen. Kein Wunder also, dass Forschende sich intensiv mit diesen Grundbausteinen des Lebens beschäftigen. Viele ihrer Geheimnisse haben sie ihnen bereits entlockt. Doch das Gewicht lebender Zellen und dessen Veränderung in Echtzeit genau zu messen, war bisher nicht möglich. Es gab schlicht keine geeignete Messmethode.

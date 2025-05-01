@@ -1,5 +1,7 @@
 # hans-von-gunten-dies-at-the-age-of-84
 
+**Source:** en_internal/2015/01/hans-von-gunten-dies-at-the-age-of-84.html
+
 ## First full-time Rector of ETH Zurich
 
 Hans von Gunten studied structural engineering at ETH Zurich and earned his diploma in 1955. He subsequently worked as assistant to Professor Pierre Lardy and, following his sudden death, assumed part of his teaching assignments for four terms. In parallel, he earned his doctorate under Professor Henry Favre before joining an engineering company in Bern, where he became a partner in 1963.

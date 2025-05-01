@@ -1,5 +1,7 @@
 # eth-zurich-supports-arXiv-org%20
 
+**Source:** en_internal/2016/04/eth-zurich-supports-arXiv-org%20.html
+
 ## Main article
 
 ETH Zurich's scientists are among the top ten users in the world in terms of the number of visits. They also use the opportunity to publish their own research projects on arXiv.org actively.

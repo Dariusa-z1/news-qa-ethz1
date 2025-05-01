@@ -1,5 +1,7 @@
 # flexible-working-for-researchers
 
+**Source:** en_internal/2022/11/flexible-working-for-researchers.html
+
 ## More diversity at conferences
 
 “I like to work from home on days that are full of virtual meetings or when I need some quiet time to write,” says Paola Picotti, Professor of Molecular Systems Biology. Many members of her research group approach work in the same way. In Picotti’s eyes, this is a very positive development – one that has been made possible by the pandemic and the initially painful transition to remote working. Another remainder from the pandemic is that it’s now second nature for Picotti’s group to use online communication tools like Zoom and Teams.

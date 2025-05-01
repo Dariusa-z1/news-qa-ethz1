@@ -1,5 +1,7 @@
 # thiele-safer-internet
 
+**Source:** en_news_events/2018/10/thiele-safer-internet.html
+
 ## Letting rules dictate
 
 There’s hardly any information infrastructure that cannot and will not be attacked by hackers, whether it's our phones, tablets, laptops, PCs, or data centres and the internet as a whole. In the past, both small and large companies have been equally affected, such as Facebook, RUAG, Yahoo and Sony. Neither have critical data and infrastructures been spared – just think of the WannaCry ransomware attack which also hit English hospitals, the Stuxnet computer worm used to sabotage industrial plants, or the theft of health data from 1.5 million people in Singapore.

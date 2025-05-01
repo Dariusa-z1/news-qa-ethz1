@@ -1,5 +1,7 @@
 # tips-and-tricks-for-microsoft-teams
 
+**Source:** en_internal/2022/02/tips-and-tricks-for-microsoft-teams.html
+
 ## Getting started: Register for Microsoft 365 / Teams
 
 Microsoft 365 and Teams are available to all members of the ETH community as a communication and collaboration platform. However, to use Teams, you first have to set up what is known as a cloud subscription .
@@ -22,11 +24,9 @@ They might be guest lecturers, students from other universities, partners, suppl
 
 ## Subscribe to Newsletter
 
-A team owner can add people from other organisations to a team by entering their e-mail address. However, for this to work, that person must have a Microsoft account with Teams. Additionally, the organisation for which the person works must allow its members to contact other organisations through Teams. Some organisations do not allow this.
+Before you begin collaborating, please take note: For security reasons, guests who gain access to an ETH team must set up multifactor authentication and enter this element each time they log in. Pease find here more information.
 
 ## Staffnet
-
-Before you begin collaborating, please take note: For security reasons, guests who gain access to an ETH team must set up multifactor authentication and enter this element each time they log in. Pease find here more information.
 
 Visit or call +41 44 632 77 77.
 

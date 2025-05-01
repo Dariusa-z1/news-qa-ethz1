@@ -1,5 +1,7 @@
 # energieraum-arktis-konfliktfabrik-oder-kontaktzone
 
+**Source:** en_news_events/2015/11/energieraum-arktis-konfliktfabrik-oder-kontaktzone.html
+
 ## Moskau und der Norden – eine alte Liebe
 
 Kola und Tschukotka: Diese zwei arktischen Regionen bedeuten mehr als nur endlose, menschenleere Tundra. Die Halbinsel Kola im äussersten Nordwesten und Tschukotka als ihr östliches Pendant bilden die jeweiligen Endpunkte einer 14‘000 Kilometer langen Küste. An diesem eisig kalten Ufer stösst das russische Festland auf den Arktischen Ozean. Doch nicht nur die Küstenlinie der russischen Arktis ist gewaltig. Grosse Teile des Landes liegen nördlich des Polarkreises; zwei der weltweit vier Millionen Arktisbewohner leben in Russland. Städte wie Murmansk, Norilsk oder Workuta bilden urbane Inseln in einem Meer der Kälte. Nickel, Gold, Apatit und vor allem Erdöl und Erdgas werden aus dem eisigen Boden an die Erdoberfläche befördert. Rohstoffe aus den Polargebieten versorgen die Rüstungsindustrie, heizen Wohnungen von der Ostsee bis an den Pazifischen Ozean und schmücken die Hände frisch vermählter Paare.

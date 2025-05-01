@@ -1,5 +1,7 @@
 # de-vigier
 
+**Source:** de_news_events/2018/05/de-vigier.html
+
 ## Tragbare Muskeln für Menschen mit Bewegungseinschränkungen
 
 Über 220 Projekte wurden für den W.A. de Vigier Preis 2018 eingereicht. Eine Jury evaluierte daraus im Februar 16 Firmen für die nächste Runde. Diese durchliefen ein Assessment und präsentierten ihre Ideen vor dem Stiftungsrat, der die 10 Finalisten wählte, aus denen schliesslich die fünf Gewinnerinnen und Gewinner gekürt wurden. Bei der Projektbeurteilung fallen folgende Faktoren ins Gewicht: Die Unternehmerpersönlichkeit, der Innovationscharakter, die gesamtgesellschaftliche Relevanz, die technische und finanzielle Realisierbarkeit sowie Marktchancen und der Arbeitsbeschaffungseffekt.

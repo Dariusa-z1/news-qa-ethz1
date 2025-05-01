@@ -1,5 +1,7 @@
 # rollende-partikelaggregate
 
+**Source:** de_news_events/2017/11/rollende-partikelaggregate.html
+
 ## Magnetfeld lässt Partikel klumpen
 
 Werden bestimmte weisse Blutkörperchen (sogenannte Neutrophile) zu einem Einsatz gegen eingedrungene Keime gerufen, bewegen sie sich in den Blutgefässen auf spezifische Weise: Sie rollen wie ein vom Wind getriebener Ball entlang der Blutgefässwand zu ihrem Einsatzort. Weil sie sich in der Gefässwand verankern können, schaffen sie es sogar, sich gegen den Blutstrom fortzubewegen.

@@ -1,5 +1,7 @@
 # blog-klimaschutz-biodiversitaet-und-energieversorgung-gmeinsam-denken
 
+**Source:** de_news_events/2024/05/blog-klimaschutz-biodiversitaet-und-energieversorgung-gmeinsam-denken.html
+
 ## Zum Autor
 
 Am 9. Juni stimmt die Schweiz über das Stromgesetz ab. Eigentlich handelt es sich um ein ganzes Paket an Gesetzen – und um einen grossen Kompromiss. Es will eine sichere Stromversorgung mit erneuerbaren Energien auch im Winter erreichen und ermöglicht es der Schweiz, mehr einheimischen Strom aus Sonne, Wasser und Wind zu gewinnen.

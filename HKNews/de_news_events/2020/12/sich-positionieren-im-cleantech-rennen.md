@@ -1,5 +1,7 @@
 # sich-positionieren-im-cleantech-rennen
 
+**Source:** de_news_events/2020/12/sich-positionieren-im-cleantech-rennen.html
+
 ## Technologie als Treiber der Politik
 
 Die Integration erneuerbarer Energien stellt neue Anforderungen an das Stromnetz. (Bild: Heiko Kueverling / Colourbox)
@@ -47,6 +49,8 @@ Tobias Schmidt ist trotz technischer Herausforderungen und drohender Rückschlä
 Gabriela Hug ist Professorin am Institut für elektrische Energieübertragung. Ihr Spezialgebiet ist die Integration von erneuerbaren Energien ins bestehende Stromverteilnetz. Zu dieser Thematik ist sie regelmässig mit Politikern und Unternehmerinnen im Gespräch.
 
 Tobias Schmidt ist Assistenzprofessor für Energiepolitik am Departement Geistes-, Sozial- und Staatswissenschaften und hat ursprünglich Elektrotechnik studiert. Heute berät er auch Politikerinnen, Unternehmer und UN-Organisationen bei Strategien zur Energiewende.
+
+Ausgabe als PDF lesen (PDF, 7.5 MB)
 
 Ausgabe online lesen
 

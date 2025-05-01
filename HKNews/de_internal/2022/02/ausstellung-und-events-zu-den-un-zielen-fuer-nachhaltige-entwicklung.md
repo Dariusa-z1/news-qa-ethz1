@@ -1,5 +1,7 @@
 # ausstellung-und-events-zu-den-un-zielen-fuer-nachhaltige-entwicklung
 
+**Source:** de_internal/2022/02/ausstellung-und-events-zu-den-un-zielen-fuer-nachhaltige-entwicklung.html
+
 ## Ausstellung und Events
 
 Welchen Beitrag können Wissenschaft und Technologie leisten, um die weltweite Armut zu bekämpfen, den Planeten zu schützen und sicherzustellen, dass bis 2030 alle Menschen in Frieden und Wohlstand leben?

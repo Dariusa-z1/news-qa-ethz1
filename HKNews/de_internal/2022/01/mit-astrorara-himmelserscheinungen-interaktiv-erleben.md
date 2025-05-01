@@ -1,5 +1,7 @@
 # mit-astrorara-himmelserscheinungen-interaktiv-erleben
 
+**Source:** de_internal/2022/01/mit-astrorara-himmelserscheinungen-interaktiv-erleben.html
+
 ## Historische Astronomie erleben
 
 Gleich drei historische Werke können Sie neu auf der Web-App AstroRara entdecken und interaktiv erleben. Erkunden Sie die magisch wirkende Welt der Astronomie, faszinierend visualisiert, mit spannenden Hintergrundinformationen zu Autor und Werk ergänzt und durch Animationen sowie Touch-Bedienung lebendig vermittelt.

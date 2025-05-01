@@ -1,5 +1,7 @@
 # asvz-to-feature-online-counter-for-courses-and-camps-as-of-may-2015
 
+**Source:** en_internal/2015/03/asvz-to-feature-online-counter-for-courses-and-camps-as-of-may-2015.html
+
 ## Main article
 
 The run on the ASVZ counters tends to be quite considerable courses and camps open for registration: those interested wait a long time in queues in the sports centres even before the counters open to secure one of the popular places. For that reason, a ticket system like that at the post office or SBB was rolled out at the Polyterrasse in recent years so that a fair process can be ensured.

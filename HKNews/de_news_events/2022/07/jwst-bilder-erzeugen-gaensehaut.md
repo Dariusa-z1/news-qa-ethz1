@@ -1,5 +1,7 @@
 # jwst-bilder-erzeugen-gaensehaut
 
+**Source:** de_news_events/2022/07/jwst-bilder-erzeugen-gaensehaut.html
+
 ## Main article
 
 Die Nasa hat soeben ein erstes spektakuläres Bild vom James Webb Space Telescope (JWST) veröffentlicht. Was haben Sie dabei empfunden? Eine grosse Freude und Genugtuung, dass alles so gut funktioniert. Nach fast 20 Jahren Entwicklungszeit ist es ein grosser Moment, nun endlich die ersten wissenschaftlichen Daten zu sehen.

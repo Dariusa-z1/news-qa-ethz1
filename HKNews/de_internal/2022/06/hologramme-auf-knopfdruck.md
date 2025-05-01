@@ -1,5 +1,7 @@
 # hologramme-auf-knopfdruck
 
+**Source:** de_internal/2022/06/hologramme-auf-knopfdruck.html
+
 ## Main article
 
 Computermodelle von bewegten Körpern bilden die Basis für zahlreiche Forschungsgebiete: Für die automatische Analyse und Erkennung menschlicher Aktivitäten (Computer Vision), die Arbeit an animierten Avataren , die Forschung an weichen Robotern oder für die Bewegungsanalyse.

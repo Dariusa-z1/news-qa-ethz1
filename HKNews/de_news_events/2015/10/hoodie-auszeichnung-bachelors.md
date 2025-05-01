@@ -1,5 +1,7 @@
 # hoodie-auszeichnung-bachelors
 
+**Source:** de_news_events/2015/10/hoodie-auszeichnung-bachelors.html
+
 ## Main article
 
 Dienstagnachmittag im Hauptgebäude der ETH Zürich, ein Gewühl aus Studierenden, fast wie beim Rugby. Sie drängen sich an eine Reihe von Tischen, reichen den Helferinnen und Helfern dahinter einen Gutschein und erhalten einen in Plastikfolie eingepackten Hoodie mit der Logo-Stickerei «ETH Zürich – best. 2015». Die meisten streifen sich den Kapuzenpulli gleich über den Kopf, posieren damit, stehen für ein Handyfoto Modell. Alle freuen sich sichtlich über die unerwartete Erweiterung ihrer Garderobe.

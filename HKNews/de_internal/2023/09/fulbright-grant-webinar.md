@@ -1,5 +1,7 @@
 # fulbright-grant-webinar
 
+**Source:** de_internal/2023/09/fulbright-grant-webinar.html
+
 ## Fulbright Webinar, Montag, 30. October 2023, 16.00–17.00 Uhr.
 
 - develop curricula and workforce

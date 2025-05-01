@@ -1,5 +1,7 @@
 # zukunftsblog-no-climate-neutrality-without-critical-raw-materials
 
+**Source:** en_news_events/2023/02/zukunftsblog-no-climate-neutrality-without-critical-raw-materials.html
+
 ## Climate neutrality with dirty raw materials?
 
 Since the Russian war of aggression in Ukraine and its attempted gas blackmail, Europe has been pushing ahead with the energy transition, which includes the perspective of supply security. 1 Climate neutrality is a hot topic, and as a long-term goal, it promises to free us from the shackles of fossil fuels. Yet we overlook the fact that renewable energies threaten to make us dependent in new ways.

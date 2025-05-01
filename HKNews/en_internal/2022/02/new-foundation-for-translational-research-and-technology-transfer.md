@@ -1,5 +1,7 @@
 # new-foundation-for-translational-research-and-technology-transfer
 
+**Source:** en_internal/2022/02/new-foundation-for-translational-research-and-technology-transfer.html
+
 ## Promising projects and start-ups
 
 T he Wyss Zurich Translational Center, run jointly by UZH and ETH Zurich, has existed since 2015. It was made possible thanks to a generous donation of USD 120 million from philanthropist Hansjörg Wyss. Wyss Zurich harnesses the expertise and first-rate infrastructure of both Zurich universities to translate scientific discoveries into applications. Its focus is on clinical therapies, innovative technologies and intelligent systems in the fields of regenerative medicine and robotics.

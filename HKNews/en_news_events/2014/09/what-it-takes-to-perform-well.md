@@ -1,5 +1,7 @@
 # what-it-takes-to-perform-well
 
+**Source:** en_news_events/2014/09/what-it-takes-to-perform-well.html
+
 ## Plans are taking off in Dübendorf
 
 Sports student Max Schläpfer wants to be one of the best in both his studies and his sporting pursuits. When he is not learning, he is busy training – and emulating his father Ernst Schläpfer, who is not only a two-time champion in traditional Swiss wrestling, but also completed a doctorate at ETH Zurich. “I would have a guilty conscience if my timetable wasn’t full,” says 27-year-old Max, who learned from an early age that he had to manage his time well.

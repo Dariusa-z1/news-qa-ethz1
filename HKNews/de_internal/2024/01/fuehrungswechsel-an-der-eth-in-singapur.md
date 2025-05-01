@@ -1,5 +1,7 @@
 # fuehrungswechsel-an-der-eth-in-singapur
 
+**Source:** de_internal/2024/01/fuehrungswechsel-an-der-eth-in-singapur.html
+
 ## Singapore-ETH Centre (SEC)
 
 Gisbert Schneider kam 2010 als ordentlicher Professor für Computer-Assisted Drug Design an die ETH Zürich. Im gleichen Jahr eröffnete die Hochschule ihre Aussenstelle in Singapur, die Schneider während der letzten drei Jahre als Direktor leitete. Der Beginn seiner Amtszeit war geprägt von der Corona-Pandemie. Dennoch gelang es in den letzten Jahren, den ETH-Standort in Singapur weiter zu profilieren und als Hub der Schweizerischen Wissenschaftsdiplomatie zu positionieren.
@@ -8,11 +10,9 @@ Welche Bedeutung hat das Forschungszentrum in Singapur für die ETH? Gisbert Sch
 
 Blicken wir auf Ihre Zeit am SEC zurück. Wie hat sich das Forschungszentrum in den letzten drei Jahren entwickelt? Zum einen ist es weitergewachsen. Inzwischen umfasst die SEC-Community insgesamt etwa 300 Forschende, die an zahlreichen verschiedenen Projekten arbeiteten – von der Stadtplanung bis hin zur digitalen Medizin. Der Mensch und die Frage, wie wir in der Zukunft leben und arbeiten wollen, stehen dabei im Mittelpunkt. «The Future is Green, Clean, and Healthy» ist Motto und Ansporn zugleich. So haben wir beispielsweise das erste Flagship-Projekt, das Future Cities Lab (FCL) nach zehn Jahren Laufzeit als «FCL Global» neu aufgesetzt; und mit Future Health Technologies (FHT) haben wir das dritte Flagship-Programm gestartet. Gleichzeitig hat das SEC in seiner Funktion als Schweizer Hub in Asien viel Anerkennung erfahren.
 
-Inwiefern? Durch unsere zahlreichen Kontakte, auch zu Schweizer Botschaften in der Region, konnten wir ein Netzwerk schaffen, das über die Forschung hinausgeht. Inzwischen wird das SEC in der Schweizer Südostasienstrategie namentlich erwähnt. Darauf können wir als ETH stolz sein. Schliesslich laden wir ETH-Spin-offs, aber auch andere Schweizer Unternehmen dazu ein, am SEC eine Zeitlang die multikulturelle Löwenstadt kennenzulernen. Das SEC bietet Raum und Gelegenheit für einen ersten Schnupperbesuch, damit auch erste Geschäftskontakte aufgebaut werden können.
+Das Singapore-ETH Centre wurde im Jahr 2010 von der ETH Zürich und Singapurs National Research Foundation (NRF) gegründet, als Teil des NRF CREATE-Campus. Das Forschungszentrum vereint rund 300 Forschende aus verschiedenen Disziplinen. Sie arbeiten im Rahmen dreier Flagship-Programme – Future Cities Lab Global, Future Resilient Systems und Future Health Technologies – sowie an rund 50 Projekten mit kurzer bis mittlerer Laufzeit, darunter Cooling Singapore und Digital Underground.
 
 ## Gisbert Schneider
-
-Das Singapore-ETH Centre wurde im Jahr 2010 von der ETH Zürich und Singapurs National Research Foundation (NRF) gegründet, als Teil des NRF CREATE-Campus. Das Forschungszentrum vereint rund 300 Forschende aus verschiedenen Disziplinen. Sie arbeiten im Rahmen dreier Flagship-Programme – Future Cities Lab Global, Future Resilient Systems und Future Health Technologies – sowie an rund 50 Projekten mit kurzer bis mittlerer Laufzeit, darunter Cooling Singapore und Digital Underground.
 
 Mehr Informationen [in Englisch]: https://sec.ethz.ch
 
@@ -20,9 +20,9 @@ Als das SEC 2010 den Betrieb aufnahm, sprach man von einem Forschungslabor. Die 
 
 Sie haben das Future-Health-Technologies-Programm erwähnt. Wie ist dieses angelaufen? Unter ganz besonderen Umständen. Als ich Anfang 2021 nach Singapur kam, waren wir alle erst mal für ein Jahr im Homeoffice tätig. Singapur hatte die Corona-Pandemie sehr effektiv bekämpft, aber mit rigorosen Massnahmen, die uns stark behinderten. So bereiteten wir den Programmstart weitestgehend online per Videochat vor. Die FHT-Teams in Singapur und Zürich haben in dieser Aufbauphase wirklich Grossartiges geleistet. Inzwischen sind einige der Projekte bereits sehr weit fortgeschritten. Es geht beispielsweise darum, das Risiko von Stürzen zu erkennen, bevor der Sturz passiert, insbesondere bei älteren Menschen. Dabei helfen uns Methoden des maschinellen Lernens und der künstlichen Intelligenz. Diese Analysen sollen nun auch in der Schweiz angewendet werden.
 
-## Immer aktuell informiert
-
 Und dann gibt es noch ein drittes Flagship-Programm … Das Future Resilient Systems Programm – FRS. Da sind wir mitten in der zweiten fünfjährigen Phase. Das Programm haben wir erfolgreich auf konkrete Fragestellungen fokussiert. Nun wollen wir die Forschungsergebnisse in den nächsten zwei Jahren in handfeste Produkte überführen. Ein gutes Beispiel ist die Initiative Infrarisk, die die Risiken von Naturgefahren für Infrastrukturen modelliert. Hier laufen aktuell Gespräche mit der Stadt Zürich, wie sich diese Modelle sinnvoll einsetzen liessen. Auf andere Städte wurden sie bereits angewendet.
+
+## Immer aktuell informiert
 
 Nun haben Sie die Leitung an Manu Kapur übergeben. Was kommt auf Ihren Nachfolger zu? Entscheidend wird die weitere Verstärkung der Sichtbarkeit des SEC an der ETH und in der Schweiz sein. Es müssen auch weiterhin hervorragende Forscherinnen und Forscher für das SEC begeistert und gewonnen werden. Zum einen laufen die Flagship-Programme weiter, das FCL Global im Bereich der Städteplanung, das FRS in der Resilienzforschung und das FHT in der Gesundheitsforschung. Daneben gibt es die kleineren Programme und Projekte, die kontinuierlich neu eingeworben, begleitet und dann wieder beendet werden müssen. Bei all diesen Planungen und Koordinationsaufgaben leistet auch der Managing Director des SEC, Thomas Meyer, ganz hervorragende Arbeit. Und dann wird Manu seine eigenen Ideen lancieren und umsetzen.
 

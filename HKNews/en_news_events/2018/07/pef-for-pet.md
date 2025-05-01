@@ -1,5 +1,7 @@
 # pef-for-pet
 
+**Source:** en_news_events/2018/07/pef-for-pet.html
+
 ## Better material properties
 
 The problem of plastic is on everyone's lips. Every year, some 50 million tons of polyethylene terephthalate (PET) alone are produced, and the trend is rising. Since recycling is usually cost-intensive and technologically difficult to implement, a great deal of plastic waste ends up in the oceans or is incinerated, causing massive CO 2 emissions. The use of crude oil in production is also problematic. However, none of us can do without plastic entirely. "Polymers and plastics are very useful materials that make a wide range of everyday applications possible in the first place. Lighter cars, smartphones, modern clothes and many medical devices would not exist if we hadn't invented polymers," says Jan-Georg Rosenboom, a fresh PhD graduate in the research group of ETH professor Massimo Morbidelli at the Department of Chemistry and Applied Biosciences. "The question is how we can reduce the negative environmental impact of plastic while maintaining its benefits for our society."

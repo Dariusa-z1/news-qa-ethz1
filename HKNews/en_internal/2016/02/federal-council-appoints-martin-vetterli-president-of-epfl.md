@@ -1,5 +1,7 @@
 # federal-council-appoints-martin-vetterli-president-of-epfl
 
+**Source:** en_internal/2016/02/federal-council-appoints-martin-vetterli-president-of-epfl.html
+
 ## Main article
 
 The Federal Council today appointed Professor Martin Vetterli as the new President of the Ecole Polytechnique Fédérale de Lausanne (EPFL), thus following the recommendation of the ETH Board. Martin Vetterli is a Full Professor at EPFL and President of the Research Council of the Swiss National Science Foundation (SNSF). He will take office on 1 January 2017.

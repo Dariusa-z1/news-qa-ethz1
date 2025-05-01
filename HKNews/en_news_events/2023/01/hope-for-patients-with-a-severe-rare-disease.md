@@ -1,5 +1,7 @@
 # hope-for-patients-with-a-severe-rare-disease
 
+**Source:** en_news_events/2023/01/hope-for-patients-with-a-severe-rare-disease.html
+
 ## Network brings success
 
 Methylmalonic aciduria (MMA) is a metabolic disorder that affects approximately one in 90,000 newborns; both parents must carry a genetic predisposition to the disease. This means the disease is rare. The consequences are also severe: an enzyme these young patients need for energy metabolism is left defective. As a result, a specific metabolite, which is usually broken down to create energy, instead accumulates in the body doing damage. MMA is considered incurable. While doctors can offer a certain degree of help, patients may experience delayed growth, kidney failure, and severe neurological impairment. Affected children and adolescents often use wheelchairs and do not always survive to reach adulthood.

@@ -1,5 +1,7 @@
 # chemie-fuer-die-methanol-wirtschaft
 
+**Source:** de_news_events/2015/09/chemie-fuer-die-methanol-wirtschaft.html
+
 ## Woher stammt das notwendige Carbenium-Ion?
 
 Es ist die weltweit am häufigsten produzierte Grundchemikalie: Ethen – ein kleines Molekül bestehend aus zwei Kohlenstoffatomen und vier Wasserstoffatomen. Es ist ein Grundbaustein für eine grosse Palette an Polymeren und Weichmachern. Der weitverbreitete Verpackungskunststoff Polyethylen (PE) ist nur einer davon. Während Ethen heute vor allem durch sogenanntes Cracken von Erdöl hergestellt wird, nimmt mit den stets stark schwankenden Preisen und den endlichen Reserven von Erdöl ein alternativer Herstellungsweg stark an Bedeutung: dessen Synthese aus Methanol. Bekannt ist dieser Syntheseschritt unter dem englischen Namen «Methanol-to-olefins» (MTO). Wissenschaftler der ETH Zürich und der ENS Lyon haben nun im Detail aufgeklärt, wie diese Reaktion beginnt.

@@ -1,5 +1,7 @@
 # why-are-forests-turning-brown-in-summer
 
+**Source:** en_news_events/2023/03/why-are-forests-turning-brown-in-summer.html
+
 ## Abstract
 
 - European forests are increasingly turning brown in the course of hot, dry summers.

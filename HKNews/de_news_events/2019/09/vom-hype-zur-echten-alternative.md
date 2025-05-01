@@ -1,5 +1,7 @@
 # vom-hype-zur-echten-alternative
 
+**Source:** de_news_events/2019/09/vom-hype-zur-echten-alternative.html
+
 ## Nahrungskette im Visier
 
 «Insekten als Lebensmittel in Europa sind derzeit sicherlich etwas gehypt. Man muss aufpassen, diese Lösung im Vergleich mit anderen nicht zu überschätzen», warnt Alexander Mathys. Eine Aussage, die man von einem Insektenforscher nicht erwarten würde. Doch der ETH-Professor für Nach­haltige Lebensmittelverarbeitung hat gu­te Argumente für seine Haltung.

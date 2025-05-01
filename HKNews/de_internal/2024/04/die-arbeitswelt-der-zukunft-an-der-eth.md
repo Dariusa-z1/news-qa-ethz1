@@ -1,5 +1,7 @@
 # die-arbeitswelt-der-zukunft-an-der-eth
 
+**Source:** de_internal/2024/04/die-arbeitswelt-der-zukunft-an-der-eth.html
+
 ## In Kürze
 
 - Ein neues Positionspapier hält unter anderem die Ziele der Schulleitung für die «Arbeitswelt der Zukunft» fest und gibt Empfehlungen für Führungskräfte und Mitarbeitende.

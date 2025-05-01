@@ -1,5 +1,7 @@
 # die-schulleitung-informiert-2024-5
 
+**Source:** de_internal/2024/06/die-schulleitung-informiert-2024-5.html
+
 ## Reglement über unangemessenes Verhalten revidiert
 
 - Die Respektstelle schafft Orientierung, wohin sich ETH-Angehörige mit ihren Fragen am besten wenden können. Angeboten werden auch Kurzzeit-Coaching für die Ratsuchenden. Die Respektstelle arbeitet vertraulich.

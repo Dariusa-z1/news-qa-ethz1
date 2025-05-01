@@ -1,5 +1,7 @@
 # wir-sind-realistischer-geworden
 
+**Source:** de_news_events/2021/09/wir-sind-realistischer-geworden.html
+
 ## Main article
 
 Frau Günther, Herr Brugger, das «NADEL – Center for Development and Cooperation» feiert sein 50-jähriges Bestehen. Wie hat sich das Verständnis von Entwicklungshilfe seit seiner Gründung gewandelt?
@@ -39,8 +41,6 @@ Günther: Unser Fokus liegt auf der empirischen Erforschung von Technologien und
 Was ist Ihr persönlicher Bezug zum NADEL?
 
 Brugger: An der Schnittstelle zwischen Forschung und Praxis zu arbeiten ist absolut spannend. Ganz besonders in einer Zeit, in der die Internationale Zusammenarbeit im Umbruch ist und neue Akteure sich einbringen. Mir kommt dabei zugute, dass ich selbst lange in der internationalen Zusammenarbeit tätig war und für sehr unterschiedliche Akteure gearbeitet habe.
-
-Günther: Es ist eine unglaublich erfüllende Aufgabe, einen Studiengang mitgestalten zu dürfen, dessen Absolventen sich weltweit für Nachhaltigkeit und Gerechtigkeit einsetzen. Wir sind mit vielen Alumni in Kontakt und lernen viel von ihnen.
 
 Wenn es das NADEL nicht gäbe, würden Sie es heute nochmal an der ETH Zürich gründen?
 

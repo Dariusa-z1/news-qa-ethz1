@@ -1,5 +1,7 @@
 # a-virus-that-kills-sleepers
 
+**Source:** en_news_events/2024/01/a-virus-that-kills-sleepers.html
+
 ## In brief
 
 - For the first time, ETH Zurich researchers have isolated a bacteriophage from rotting plant material that can attack and kill bacteria in a dormant state.

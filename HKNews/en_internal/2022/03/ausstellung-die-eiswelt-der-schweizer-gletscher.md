@@ -1,5 +1,7 @@
 # ausstellung-die-eiswelt-der-schweizer-gletscher
 
+**Source:** en_internal/2022/03/ausstellung-die-eiswelt-der-schweizer-gletscher.html
+
 ## Impressive works
 
 - Exhibition period: 4 April to 6 May 2022
@@ -22,15 +24,13 @@ On Monday, 4 April 2022, the exhibition opens with a vernissage in the Reading R
 
 ## Rare Books and Maps
 
-If you have any questions about the exhibition, please contact .
+The holdings of the Rare Books and Maps collections of the ETH Library comprise more than 75,000 volumes of monographs and journals published between the 15th and 19th century and around 400,000 technical, topographic and natural science maps and atlases.
 
 ## Subscribe to Newsletter
 
-The holdings of the Rare Books and Maps collections of the ETH Library comprise more than 75,000 volumes of monographs and journals published between the 15th and 19th century and around 400,000 technical, topographic and natural science maps and atlases.
+#KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start.
 
 ## Staffnet
-
-#KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start.
 
 More than just data – Benefit from know-​how
 

@@ -1,5 +1,7 @@
 # cyborg-bacteria
 
+**Source:** de_news_events/2016/10/cyborg-bacteria.html
+
 ## Äusserst präzise Steuerung
 
 Forschende des Departements Biosysteme (D-BSSE) der ETH Zürich in Basel haben einen Cyborg erschaffen – ein Mischwesen aus lebendem Organismus und Maschine. Beim beteiligten Lebewesen handelt sich um das Kolibakterium (Escherichia coli) , das in der biologischen Forschung häufig verwendet wird, bei der Maschine um einen Computer mit modernster Steuerungstechnik, die das Wachstum der Bakterien regelt. Verbunden sind Organismen und Maschine über zwei Schnittstellen: Der Computer kommuniziert mit rotem und grünem Licht, welches die biotechnologisch veränderten Bakterien wahrnehmen können. In der Gegenrichtung funktioniert die Kommunikation über eine optische Messung der Wachstumsrate der Bakterienkultur. Deren Ergebnis wird in Echtzeit in den Computer eingespeist.

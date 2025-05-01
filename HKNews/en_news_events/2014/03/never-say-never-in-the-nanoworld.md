@@ -1,5 +1,7 @@
 # never-say-never-in-the-nanoworld
 
+**Source:** en_news_events/2014/03/never-say-never-in-the-nanoworld.html
+
 ## Determining probability of a violation
 
 Watching a film run in reverse often makes us laugh because unexpected and mysterious things seem to happen: snow starts to form from a water puddle in the sun, growing steadily until an entire snowman appears. Many processes in nature cannot be reversed, such as a melting snowman. This irreversible behaviour is described in the second law of thermodynamics, which posits that the entropy of a system – a measure of the disorder – can never be decreased spontaneously, favouring disorder (high entropy) over order (low entropy).

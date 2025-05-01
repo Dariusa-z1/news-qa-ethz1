@@ -1,5 +1,7 @@
 # europe-needs-to-become-more-independent-of-china
 
+**Source:** en_news_events/2023/04/europe-needs-to-become-more-independent-of-china.html
+
 ## Main article
 
 - China, Russia, and the Future of the World Order

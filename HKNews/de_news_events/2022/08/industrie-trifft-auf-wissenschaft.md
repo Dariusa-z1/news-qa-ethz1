@@ -1,5 +1,7 @@
 # industrie-trifft-auf-wissenschaft
 
+**Source:** de_news_events/2022/08/industrie-trifft-auf-wissenschaft.html
+
 ## Robotik und maschinelles Lernen
 
 - Prof. Fisher Yu: Visuelle Lernsysteme und Bewegungsanalyse

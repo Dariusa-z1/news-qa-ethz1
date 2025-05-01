@@ -1,5 +1,7 @@
 # we-have-constantly-moved-and-changed
 
+**Source:** en_news_events/2021/06/we-have-constantly-moved-and-changed.html
+
 ## 150 Years Agricultural Sciences at ETH Zurich
 
 ETH News: This year, the Department of Environmental Systems Science (D-USYS) is celebrating 150 years of Agricultural Sciences at ETH Zurich. What events do you consider milestones? Nina Buchmann: It isn’t easy to sum up 150 years in two sentences, and whether something qualifies as a milestone depends on who you ask. We’ve put together a series of highlights on our website www.agri150.ethz.ch. Taking a closer look, I’m particularly struck by the degree of change in research and teaching, but also in the organisation.

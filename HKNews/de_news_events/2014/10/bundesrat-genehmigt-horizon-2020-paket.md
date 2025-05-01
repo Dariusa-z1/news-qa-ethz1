@@ -1,5 +1,7 @@
 # bundesrat-genehmigt-horizon-2020-paket
 
+**Source:** de_news_events/2014/10/bundesrat-genehmigt-horizon-2020-paket.html
+
 ## Dauer der Assoziierung
 
 Gestützt darauf können sich Forschende aus der Schweiz an ausgewählten Teilen von Horizon 2020 vollumfänglich beteiligen und sich dabei namentlich auch um die begehrten Stipendien des Europäischen Forschungsrates bewerben. Für die Zeitspanne von 2017-2020 sieht das Abkommen eine Vollassoziierung der Schweiz an Horizon 2020 vor, vorausgesetzt, dass eine Lösung im Bereich der Personenfreizügigkeit gefunden werden kann.

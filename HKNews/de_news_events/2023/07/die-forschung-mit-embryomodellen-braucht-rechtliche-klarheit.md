@@ -1,5 +1,7 @@
 # die-forschung-mit-embryomodellen-braucht-rechtliche-klarheit
 
+**Source:** de_news_events/2023/07/die-forschung-mit-embryomodellen-braucht-rechtliche-klarheit.html
+
 ## Zur Person
 
 Drei Forschungsteams aus Grossbritannien, den USA und Israel haben es unabhängig voneinander geschafft, aus menschlichen Stammzellen Zellaggregate zu entwickeln, die dem frühen menschlichen Embryo ähneln, wie im Juni bekannt wurde.

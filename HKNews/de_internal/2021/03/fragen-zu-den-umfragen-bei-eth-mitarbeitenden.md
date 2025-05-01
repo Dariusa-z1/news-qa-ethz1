@@ -1,5 +1,7 @@
 # fragen-zu-den-umfragen-bei-eth-mitarbeitenden
 
+**Source:** de_internal/2021/03/fragen-zu-den-umfragen-bei-eth-mitarbeitenden.html
+
 ## Main article
 
 ETH-Präsident Joël Mesot hatte sie in einer E-Mail angekündigt: die zwei Umfragen, die innert Wochenfrist lanciert wurden. Am 23. März kam vom Beratungsunternehmen Empiricon eine E-Mail mit dem Link auf die Mitarbeitendenbefragung, gestern Dienstag, 30. März rief das Markt- und Sozialforschungsinstitut gfs-zürich auf, an einer Befragung zur internen Kommunikation teilzunehmen.

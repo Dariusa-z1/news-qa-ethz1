@@ -1,5 +1,7 @@
 # vegi-woche-an-der-eth
 
+**Source:** de_internal/2022/09/vegi-woche-an-der-eth.html
+
 ## Nachhaltigkeit grossgeschrieben
 
 - 2 Grad Bistro

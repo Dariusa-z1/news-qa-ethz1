@@ -1,5 +1,7 @@
 # flugzeugtreibstoff-aus-sonnenenergie
 
+**Source:** de_news_events/2014/04/flugzeugtreibstoff-aus-sonnenenergie.html
+
 ## Synthesegas für die Kerosinherstellung
 
 Ein europäisches Konsortium unter Beteiligung der ETH Zürich hat den experimentellen Machbarkeitsnachweis erbracht für die Herstellung von flüssigem Treibstoff in einem thermochemischen Prozess mit Hilfe von konzentrierter Sonnenenergie. Am von der EU geförderten Projekt Solarjet waren neben der ETH Zürich das Deutsche Zentrum für Luft- und Raumfahrt, das Treibstoffunternehmen Shell, der Think Tank Bauhaus Luftfahrt und die Consultingfirma Arttic beteiligt.

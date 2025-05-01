@@ -1,5 +1,7 @@
 # -studierendenbefragung-2015-gute-gesamtzufriedenheit
 
+**Source:** de_internal/2015/08/-studierendenbefragung-2015-gute-gesamtzufriedenheit.html
+
 ## Main article
 
 Die ETH Zürich hat im Frühjahr 2015 erstmals Bachelor- und Master-Studierende nach ihrer Zufriedenheit mit dem Studium an der Hochschule befragt. Wie die Auswertung der Studierendenbefragung 2015 ergeben hat, sind 82 Prozent der ETH-Studierenden mit ihrer Studiensituation zufrieden oder sehr zufrieden.

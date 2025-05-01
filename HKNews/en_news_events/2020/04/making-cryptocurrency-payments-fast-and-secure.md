@@ -1,5 +1,7 @@
 # making-cryptocurrency-payments-fast-and-secure
 
+**Source:** en_news_events/2020/04/making-cryptocurrency-payments-fast-and-secure.html
+
 ## The nature of blockchain
 
 Cryptocurrencies such as Bitcoin, Ethereum or Ripple used to be nothing more than an experimental platform for critics of the system, but this has long ceased to be the case. These currencies have now become an established investment strategy. Today, some 5,000 digital currencies are available. The most popular is Bitcoin, which now has over 18 million units in circulation – that’s equivalent to more than 126 billion euros. Ethereum, or Ether for short, is the second-largest digital currency and has a total value of around 20 billion euros.

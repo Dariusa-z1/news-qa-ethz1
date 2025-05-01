@@ -1,5 +1,7 @@
 # digitalisierung-digitale-transformation--disruption
 
+**Source:** de_internal/2018/11/digitalisierung-digitale-transformation--disruption.html
+
 ## Main article
 
 Der Referent geht auf die Fragen ein, WARUM wir der Digitalen Transformation unsere Aufmerksamkeit schenken müssen, wie diese einzuordnen ist und was Disruption in diesem Zusammenhang bedeutet.

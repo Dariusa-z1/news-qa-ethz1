@@ -1,5 +1,7 @@
 # name-adresse-oder-magazin-abos-aendern-leicht-gemacht
 
+**Source:** de_internal/2022/07/name-adresse-oder-magazin-abos-aendern-leicht-gemacht.html
+
 ## Magazin-Abos anpassen
 
 - Sprache: Englisch

@@ -1,5 +1,7 @@
 # coffee-lectures-in-10-minuten-zu-neuem-knowhow
 
+**Source:** de_internal/2020/08/coffee-lectures-in-10-minuten-zu-neuem-knowhow.html
+
 ## So funktionieren die Coffee Lectures
 
 - Nexis Uni: Nützliche Presseartikel aus der ganzen Welt einfach finden, 2. September

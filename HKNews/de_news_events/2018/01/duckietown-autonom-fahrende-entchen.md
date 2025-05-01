@@ -1,5 +1,7 @@
 # duckietown-autonom-fahrende-entchen
 
+**Source:** de_news_events/2018/01/duckietown-autonom-fahrende-entchen.html
+
 ## Probleme in Teams lösen
 
 Eine Kamera, ein günstiger Mini-Rechner, ein Chassis, Räder und Led-Lämpchen: Viel mehr braucht es nicht für einen «Duckiebot». So nennen Andrea Censi und Jacopo Tani – Dozenten des neuen Kurses für autonomes Fahren an der ETH Zürich – die kleinen Robotertaxis. Censi und Tani sind Oberassistenten in der Forschungsgruppe von Emilio Frazzoli, Professor am Departement für Maschinenbau und Verfahrenstechnik und weltweit angesehener Spezialist für autonome Systeme.

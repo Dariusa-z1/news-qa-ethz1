@@ -1,5 +1,7 @@
 # globe-comedian-mit-unternehmer-gen
 
+**Source:** de_news_events/2023/08/globe-comedian-mit-unternehmer-gen.html
+
 ## Von der ETH zum Marketing
 
 «Ich esse unglaublich gerne Kuchen. Als Lebensmittelwissenschaftler muss ich schliesslich regelmässig Desserts testen, um zu schauen, ob sie immer noch gut sind», sagt Fabian Unteregger mit einem Augenzwinkern, als er sich zum Gespräch im Zürcher Traditionscafé Sprüngli einfindet. Für den erfolgreichen Comedian, ETH-Alumnus und Doktor der Medizin ist regelmässige Bewegung wichtiger, als sich konsequent gesund zu ernähren.
@@ -35,4 +37,6 @@ Sein Engagement neben seinem Beruf als Comedian beschränkt sich aber nicht nur 
 Wenn er heute den Studierenden einen Tipp auf den Weg geben könnte, welcher wäre das? «Mache das, worin du gut bist und dich von den anderen unterscheidest. Das Wichtigste aber ist, dass du Freude und Leidenschaft dabei verspürst. Das Leben ist so viel einfacher, wenn du für etwas brennst.»
 
 Fabian Unteregger ist ein erfolgreicher Schweizer Comedian. Er studierte an der ETH Zürich Lebensmittelwissenschaften, absolvierte danach ein Studium der Humanmedizin an der Universität Zürich und promovierte an der Universität Basel. Unteregger ist Mitgründer und Co-Präsident des Verbands Swiss Healthcare Startups und Gründungsmitglied des ETH Circle.
+
+Ganze Ausgabe lesen (PDF, 4.8 MB)
 

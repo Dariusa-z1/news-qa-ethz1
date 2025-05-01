@@ -1,5 +1,7 @@
 # gaertner-computer-science-universal-language-children
 
+**Source:** en_news_events/2018/05/gaertner-computer-science-universal-language-children.html
+
 ## Much more than a computer and a screen
 
 Computer science is a part of general education. If we are to take this seriously, there are far-reaching implications – it means, for instance, we should teach it to our children in the same way as the other basic school subjects. One of which is, of course, mathematics – for who wouldn't want their child to be able to add two and two? I consider it just as important that our children don’t grow up illiterate in computer science.
@@ -16,17 +18,15 @@ Computer science as a school subject is gradually happening, thanks to the years
 
 Many parents and teachers have reservations when it comes to computer science lessons, imagining that children will spend even more time in front of screens than they already do. For good computer science lessons, however, no computers are needed. The Kinderlabor (children's lab), which I co-founded in 2009 as an independent non-profit organisation, is geared to exactly this. We lend teachers computing boxes with teaching material for children between four to eight years of age. Simple floor robots are included as “calculators” for the children to implement what they’ve learned in a playful way.
 
-Getting to grips early with information technology has many advantages; indeed small children learn languages more effortlessly than we adults. Shouldn’t it be a part of general education that children learn the languages "spoken" most in the world? Well, the language of algorithms is one of those! We’ve identified another decisive advantage at our children's lab: the earlier children come into contact with computer science, the less gender plays a role. Five-year-old girls go all out for programming, and are just as talented as the boys. And that's just the point – we want to avoid losing talents, only because the stereotype of women being less IT-savvy than men still persists in our culture.
+So as I said, computer science is a part of general education. This doesn’t mean that we all must become computer scientists, but it does mean that we should all speak the same language, understand the relevance of computer science and have equal access to it, regardless of gender.
 
 ## Informatiktage 2018
 
-So as I said, computer science is a part of general education. This doesn’t mean that we all must become computer scientists, but it does mean that we should all speak the same language, understand the relevance of computer science and have equal access to it, regardless of gender.
-
 On 1 and 2 June, ETH Zurich will be taking part in the Zurich Region Computer Science Festival for the third time and opening its doors to young and old. Exclusive guided tours, live demonstrations, lectures and programming workshops - there is something for everyone among the 20 events. The Kinderlabor will also have an open workshop for children aged 4 - 8 and a course for teachers.
 
-## About the author
-
 All events take place in the CAB building CAB at the Universitätsstrasse 6, 8006 Zurich.
+
+## About the author
 
 Further information and reservations
 

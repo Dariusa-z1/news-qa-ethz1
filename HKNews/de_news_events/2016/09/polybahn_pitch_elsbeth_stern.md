@@ -1,5 +1,7 @@
 # polybahn_pitch_elsbeth_stern
 
+**Source:** de_news_events/2016/09/polybahn_pitch_elsbeth_stern.html
+
 ## Main article
 
 Am diesjähigen Zürcher Filmfestival (ZFF) organisiert Life Science Zurich in Verbindung zu drei Dokumentarfilmen Diskussionsrunden. In dieser Reihe wird die ETH-Professorin Elsbeth Stern zusammen mit der Neurowissenchaftlerin und Schachspielerin Monika Müller-Seps im ZFF-Talk «Ist Genialität lernbar?» aufzeigen, was sich beim Lernen im Gehirn abspielt und wie moderne Lernansätze aussehen.

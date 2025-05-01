@@ -1,5 +1,7 @@
 # ein-neues-interaktionsdesign-fuer-aem
 
+**Source:** de_internal/2021/08/ein-neues-interaktionsdesign-fuer-aem.html
+
 ## Konfiguration des Farbschemas
 
 Die grösste sichtbare Änderung, die mit dem aktuellen Release eingeführt wird, ist ein neues Interaktionsdesign. Die Darstellung der Links und Buttons wurde in allen Bereichen der Webseiten überarbeitet. Ausserdem wird ein neues Farbkonzept eingeführt. Dieses bietet die Möglichkeit, mit Einsatz von Farbthemen verschiedene Elemente der Webseite (neben der Inhalts-Navigation auch einzelne Komponenten wie Akkordeons, Zitate oder einen «Highlight Container» - bisher bekannt als «Graue Box») einzufärben.

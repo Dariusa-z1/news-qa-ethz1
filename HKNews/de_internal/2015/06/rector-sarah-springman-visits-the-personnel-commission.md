@@ -1,5 +1,7 @@
 # rector-sarah-springman-visits-the-personnel-commission
 
+**Source:** de_internal/2015/06/rector-sarah-springman-visits-the-personnel-commission.html
+
 ## Main article
 
 Einmal im Monat trifft sich die Personalkommission der ETH Zürich (PeKo), um Personalgeschäfte zu besprechen (aktuell zum Beispiel Arbeitszeugnisse, Überzeitenkompensation, Umgang mit erfahrenen Mitarbeitenden, Jobfitness oder Mitarbeiterkommunikation bei Laborschliessungen).

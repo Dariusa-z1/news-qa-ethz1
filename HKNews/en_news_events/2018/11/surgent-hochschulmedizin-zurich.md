@@ -1,5 +1,7 @@
 # surgent-hochschulmedizin-zurich
 
+**Source:** en_news_events/2018/11/surgent-hochschulmedizin-zurich.html
+
 ## Surgical landscapes
 
 Imaging tools have long been standard in surgical procedures. But the result is usually a picture on a screen which the doctors have to interpret and then transfer to the patient. New virtual processes in surgery, however, can convert data from imaging tools into three-dimensional representations which can help with diagnostics and with planning and carrying out operations.

@@ -1,5 +1,7 @@
 # die-beigen-fettzellen-mit-dem-sisyphos-mechanismus
 
+**Source:** de_news_events/2024/08/die-beigen-fettzellen-mit-dem-sisyphos-mechanismus.html
+
 ## In Kürze
 
 - Eine neu beschriebene Art von beigen Fettzellen verbraucht Energie und erzeugt Wärme, indem sie biochemische Prozesse scheinbar sinnlos hin- und herlaufen lassen.

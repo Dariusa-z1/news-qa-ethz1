@@ -1,8 +1,8 @@
 # topologie-optimierung-der-zukunft-
 
-## D-MAVT Distinguished Lecture Series
+**Source:** de_internal/2015/11/topologie-optimierung-der-zukunft-.html
 
-Die D-MAVT Distinguished Lecture Series bringt weltweit führende Wissenschaftler und Ingenieure an die ETH Zürich, um ihre Arbeit im Rahmen eines Kolloquiums vorzustellen und um Kontakte mit dem Fachbereich und Studierenden zu knüpfen und zu pflegen. Am Montag, 30. November 2015, wird Oleg Sigmund, Professor der Technischen Universität Dänemarks DTU, eine Vorlesung geben über die Zukunft der Topologie-Optimierung.
+## D-MAVT Distinguished Lecture Series
 
 Topologie-Optimierung ist ein Rechenverfahren zur Bestimmung von optimalen Materialverteilungen, das in mechanischen Strukturen, in Flüssigkeiten, im Bereich Nano-Optik sowie in zahlreichen weiteren ingenieurwissenschaftlichen Disziplinen zum Einsatz kommt.
 
@@ -22,9 +22,9 @@ Forschungsgruppe für Topologieoptimierung der Fakultäten Maschinenbau & Mathem
 
 (Grafik: RWTH Aachen)
 
-Cut-Cell Method Based Analysis of Freely Moving Particles in Viscous Flows
-
 ## Newsletter abonnieren
+
+Cut-Cell Method Based Analysis of Freely Moving Particles in Viscous Flows
 
 Prof. Wolfgang Schröder , RWTH Aachen Aerodynamisches Institut
 

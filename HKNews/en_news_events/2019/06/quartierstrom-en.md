@@ -1,5 +1,7 @@
 # quartierstrom-en
 
+**Source:** en_news_events/2019/06/quartierstrom-en.html
+
 ## Incentives for all
 
 December 2018 marked the start of an experiment that is the first of its kind in Switzerland. In the Schwemmiweg district of Walenstadt, 37 households have joined forces to create a local energy market. Instead of having to go through their retail energy supplier, owners of photovoltaic systems can sell surplus electricity to their neighbours, giving households without solar panels the opportunity to purchase clean, locally produced energy. The participants in this local energy trading market determine the prices themselves based on supply and demand.

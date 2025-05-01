@@ -1,5 +1,7 @@
 # eth-at-wef-rethinking-living
 
+**Source:** en_news_events/2022/05/eth-at-wef-rethinking-living.html
+
 ## Shaping the future – or simply living with it?
 
 With a quote from Albert Einstein – “The important thing is not to stop questioning” – the ETH pavilion guided visitors to the exhibition into a space that followed the words of the man himself. On benches along the walls and on chairs, armchairs and sofas, cushions were printed with questions about life. The pavilion thus established its own kind of “pillow talk” and invited visitors to join in thinking, asking questions and seeking answers.

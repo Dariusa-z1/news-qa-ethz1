@@ -1,5 +1,7 @@
 # using-drones-to-monitor-rainforest-biodiversity
 
+**Source:** en_news_events/2023/07/using-drones-to-monitor-rainforest-biodiversity.html
+
 ## The semi-final challenge
 
 XPRIZE Rainforest is a global competition offering 10 million US dollars to develop new biodiversity assessment technologies to improve our understanding of rainforest ecosystems. The prize was launched 2019 with just under 300 teams, which were narrowed down to 13 semi-finalist competitors. Semi-finals testing was held in the Singapore rainforest in May and June 2023 and included ETH BiodivX, a team led by ETH Zurich comprising 29 members from 13 different countries whose aim is to demonstrate the effectiveness of their jointly developed technologies. In total, 56 people from 15 organizations contributed to the ETH BiodivX team, including the three ETH spin-offs Restor, Diaxxo, and SimplexDNA.

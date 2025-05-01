@@ -1,5 +1,7 @@
 # blog-anthony-patt-energiesparen
 
+**Source:** de_news_events/2018/12/blog-anthony-patt-energiesparen.html
+
 ## Ein Tropfen auf den heissen Stein
 
 Während der Sommerhitzewelle 2018 berichteten Schweizer Medien, dass ältere Menschen besonders leiden: Um die klimapolitischen Ziele zu erreichen, gab es in Zürcher Seniorenheimen keine Möglichkeit, die Klimaanlage einzuschalten. 1 Sicher: Energiesparen ist gut. Aber verlangt Klimaschutz, dass Menschen leiden, auch ältere, wenn es schlicht zu heiss ist?

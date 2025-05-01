@@ -1,5 +1,7 @@
 # eisenmangel-mindert-impfwirkung
 
+**Source:** de_news_events/2020/07/eisenmangel-mindert-impfwirkung.html
+
 ## Babys mit kleinerem Eisenvorrat
 
 Weltweit leiden etwa 40 Prozent der Kinder an Blutarmut, weil sie nicht genügend Eisen zu sich nehmen. Nun zeigen Untersuchungen von ETH-Forschenden, dass der Eisenmangel auch den Schutz von Impfungen schmälert.

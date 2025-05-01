@@ -1,5 +1,7 @@
 # kuenstliche-intelligenz-findet-wege-zu-neuen-medikamenten
 
+**Source:** de_news_events/2023/11/kuenstliche-intelligenz-findet-wege-zu-neuen-medikamenten.html
+
 ## In Kürze
 
 - Das Finden und Herstellen von neuen Medikamenten ist bisher aufwendig. Forschende der ETH Zürich haben ein KI-Modell entwickelt, das mithilft, geeignete Molekülstellen für die Entwicklung neuer Wirkstoffe zu finden.

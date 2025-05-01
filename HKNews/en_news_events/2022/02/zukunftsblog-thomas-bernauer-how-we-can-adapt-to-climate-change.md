@@ -1,5 +1,7 @@
 # zukunftsblog-thomas-bernauer-how-we-can-adapt-to-climate-change
 
+**Source:** en_news_events/2022/02/zukunftsblog-thomas-bernauer-how-we-can-adapt-to-climate-change.html
+
 ## The consequences of climate change are everywhere
 
 - Nature is one of our most important allies. Stronger nature conservation can help enormously in adapting to climate change risks we are unable to prevent. A healthy planet is essential: it provides us with food and water, secures the livelihoods of people and helps to reduce the risk of disasters.

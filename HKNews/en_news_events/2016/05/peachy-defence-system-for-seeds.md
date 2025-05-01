@@ -1,5 +1,7 @@
 # peachy-defence-system-for-seeds
 
+**Source:** en_news_events/2016/05/peachy-defence-system-for-seeds.html
+
 ## Cyanide as a by-product of insect snacking
 
 Don’t eat the core, it’s poisonous: it's something parents often say to their children before they eat their first peach. Peach pits, which are hidden inside the nut-like husk, do in fact contain amygdalin, a substance which can degrade into hydrogen cyanide in the stomach.
@@ -20,13 +22,11 @@ In collaboration with the Julius Kühn Institute in Berlin, the researchers have
 
 Significantly fewer fully grown beetles hatched on coated than uncoated seeds. They reproduced less successfully and the larvae grew more slowly because they had eaten less.
 
-However, the layering didn’t keep absolutely all insects from feasting on the wheat grains: the treatment was not effective against the wheat weevil ( Sitophilus granarius ). This type of beetle does not lay its eggs on the grain, but instead bores a hole into it for the eggs and seals it up afterwards. The larvae then eat the wheat grain from the inside out, which means that they don’t come into contact with the coating.
-
 In addition, the researchers were able to show in laboratory and fieldwork that the treatment did not impair the germination of wheat grains. In the lab, 98% of the coated grains germinated. In the field, the coated grains did germinate a little later than the uncoated ones, and the seedlings initially developed more slowly. Nonetheless, the wheat plants were able to recover this initial deficit later on.
 
-## References
-
 “We've demonstrated that this new kind of coating method works: the grains are protected from being eaten by insects and are usable in the field,” explain the study's authors Carlos Mora and Jonas Halter. The treatment using this method is as straightforward as it is with spraying. Nor are the costs of the new method significantly higher than with insecticides.
+
+## References
 
 The ETH researchers are convinced that this kind of seed coating can be used on other kinds of crops too. “The method has the potential to replace certain synthetic pesticides,” believes Carlos Mora. “Not only is the coating biodegradable, but it also ensures that the seeds retain their quality in storage.”
 

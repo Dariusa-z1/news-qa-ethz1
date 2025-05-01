@@ -1,5 +1,7 @@
 # optimised-processes-for-eth-financial-planning
 
+**Source:** en_internal/2024/02/optimised-processes-for-eth-financial-planning.html
+
 ## Financial planning that can respond to changes
 
 A scenario and simulation model will replace current medium-term planning (MFP) in strategic financial planning, and a more dynamic rolling forecast will replace budgeting in the area of short-term, operational financial management. The corresponding processes and software solutions are being developed and will be introduced over the course of the next few months.

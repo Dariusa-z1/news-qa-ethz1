@@ -1,5 +1,7 @@
 # algorithms-take-the-wheel
 
+**Source:** en_news_events/2018/12/algorithms-take-the-wheel.html
+
 ## Rethinking urban mobility
 
 The future of mobility is measured in milestones: this February, Google subsidiary Waymo announced that its fleet of self-driving cars had covered over 8 million kilometres on public roads. This came shortly after Uber’s announcement that it had completed 3 million kilometres of autonomous driving. If industry has its way, then we will soon be sharing all our streets with vehicles controlled by algorithms instead of drivers. But is that a realistic scenario? Or simply a rose-tinted vision of a tech-driven future?

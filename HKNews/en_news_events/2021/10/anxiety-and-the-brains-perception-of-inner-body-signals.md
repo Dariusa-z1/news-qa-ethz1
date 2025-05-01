@@ -1,5 +1,7 @@
 # anxiety-and-the-brains-perception-of-inner-body-signals
 
+**Source:** en_news_events/2021/10/anxiety-and-the-brains-perception-of-inner-body-signals.html
+
 ## Anxiety and distorted breathing perception
 
 Racing heart, rapid breathing, and sweaty palms - all symptoms of anxiety, but they are also the brain’s way of preparing the body for a potential threat. Such symptoms are a normal and fleeting experience of the human condition, but for people who carry higher levels of anxiety, they perpetuate a downward spiral. The perception of bodily changes, such as heart rate and breathing, reinforce the feelings of anxiety that triggered them in the first place. Until now, technological limitations made it difficult to investigate precisely where, in the brain, this vicious cycle takes place – and how it may be altered in people with higher levels of anxiety. For the first time, researchers are now able to show how certain body signals processed in the brain differ among individuals with different levels of anxiety.

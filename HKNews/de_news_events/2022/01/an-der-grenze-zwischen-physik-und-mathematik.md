@@ -1,5 +1,7 @@
 # an-der-grenze-zwischen-physik-und-mathematik
 
+**Source:** de_news_events/2022/01/an-der-grenze-zwischen-physik-und-mathematik.html
+
 ## Schlüsselwort Symmetrie
 
 «Das Zusammenspiel von Physik und Mathematik hat mir schon in der Mittelschule gefallen», sagt Sylvain Lacroix, der vor 30 Jahren in der Nähe von Paris geboren und dort aufgewachsen ist. «Abstrakte Dinge in der Mathematik zu lernen und zu sehen, dass sie in der Physik eindeutig umgesetzt werden: Das war etwas, das mich fasziniert hat.» Während des Studiums an der École Normale Supérieure de Lyon beschäftigte er sich besonders gern und intensiv mit physikalischen Fragen, hinter denen sehr viel Mathematik steckte, und als er ein Thema für seine Doktorarbeit wählen musste, war klar, dass es aus diesem Bereich stammen sollte. Damals entschied sich Lacroix für die Erforschung der Theorie der sogenannten integrierbaren Modelle. Diesem Thema blieb er bis heute treu.
@@ -19,8 +21,6 @@ Nach seiner Dissertation arbeitete Lacroix drei Jahren als Postdoc an der Univer
 Meist arbeitet der theoretische Physiker in seinem Büro am ITS, das in einem altehrwürdigen Haus aus dem Jahr 1882 unweit des ETH-Hauptgebäudes untergebracht ist. «Ein sehr schöner Ort», meint er mit Blick aus dem Fenster auf die grüne Umgebung und die Stadt: «Ich fühle mich hier sehr wohl, ich mag das Leben in Zürich, die Atmosphäre im Allgemeinen.» In seiner Freizeit schaut er sich gern einen Film an, liest ein Buch oder trifft Freunde. «Ich gehe gern mit Leuten aus in ein Restaurant oder Café», sagt er und ist froh, dass er seine Stelle in Zürich erst nach der Lockerung der Covid-Massnahmen angetreten hat.
 
 ## Programm für Advanced Fellows
-
-«Ich bin geimpft und wir sind sehr vorsichtig an der ETH, aber obwohl es noch Restriktionen gibt, kommt das Leben langsam zurück. Deshalb war es für mich leicht, auf Anhieb Kontakt zu Kollegen und Kolleginnen zu finden», sagt Lacroix. Als besonderes Privileg empfindet er das internationale Umfeld am ITS, das Forschende aus aller Welt zusammenbringt. Neben den Seminaren, in denen die Fellows ihre Arbeit präsentieren, und dem fachlichen Gedankenaustausch haben gemeinsame Ausflüge Tradition. Im Herbst 2021 war Lacroix erstmals bei einer Wanderung am Flumserberg dabei und meint: «Ich wandere sehr gern und es ist wunderbar, die Berge so nahe zu haben.»
 
 Normalerweise sitzt er aber an seinem Pult und schreibt ziemlich abstrakte Gleichungen auf ein Blatt Papier. Ab und zu kommt ihm dabei der Computer zu Hilfe. Heutzutage würden Computer nicht nur Zahlen berechnen, erklärt er, sondern sie könnten auch abstrakte mathematische Konzepte bearbeiten, was manchmal sehr nützlich sei. Dass nur wenige Leute wirklich verstehen, was Lacroix zu Papier bringt, stört ihn nicht. «Ich habe gelernt, damit zu leben», sagt er: «Ich fühle mich in der Forschung keineswegs isoliert, zumindest nicht in der akademischen Welt.»
 

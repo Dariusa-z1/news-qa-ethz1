@@ -1,5 +1,7 @@
 # two-additional-vice-presidents
 
+**Source:** en_news_events/2020/09/two-additional-vice-presidents.html
+
 ## Developing the management and corporate culture
 
 Since 2008, the ETH Zurich Executive Board has comprised five members. In the meantime, competition has become fiercer, while the expectations of society and the political arena have intensified. ETH Zurich has grown considerably over the last few years, with student numbers more than doubling since 2000, and employee numbers increasing by 60 percent; the university has also become more diverse, both culturally and academically. The number of ETH spin-offs has surged too, and ETH Zurich has intensified collaboration with large companies and SMEs.
@@ -35,6 +37,4 @@ In expanding the Executive Board, Mesot is pursuing his goal of developing ETH Z
 Until the end of 2019, the Executive Board comprised President Joël Mesot (overall responsibility), Rector Sarah Springman (teaching), Vice President for Research and Corporate Relations Detlef Günther, Vice President for Finance and Controlling Robert Perich, and Vice President for Human Resources and Infrastructure Ulrich Weidmann. The two new vice presidencies, “Personnel Development and Leadership” and “Knowledge Transfer and Corporate Relations”, were created from the existing Executive Board domains in January 2020 and led ad interim by Ulrich Weidmann and Detlef Günther. As of 1 November 2020, Ulrich Weidmann will devote himself to the Infrastructure domain, while as of 1 January 2021, Detlef Günther will focus entirely on the Research domain.
 
 The Executive Board of ETH Zurich
-
-ETH Zurich Anna Maltsev Media Relations Telefon: +41 44 632 72 41
 

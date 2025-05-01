@@ -1,5 +1,7 @@
 # foresight-mehr-als-magie
 
+**Source:** de_internal/2021/03/foresight-mehr-als-magie.html
+
 ## Was Foresight für die ETH bedeutet
 
 Es gibt eine Frage, die gleich vorneweg beantwortet werden muss: Was ist Foresight überhaupt? Dies zu erklären, ist gar nicht so einfach. «Foresight is preparing today for the contexts of tomorrow», fasst Chris Luebkeman zusammen. Der gebürtige Amerikaner befasst sich seit rund 20 Jahren mit dem Thema – seit Januar 2020 auch an der ETH, wo er im Stab Präsident den Strategic Foresight Hub und das dazugehörige Team leitet. «Wichtig ist, in diesem Satz den Plural zu beachten», gibt er zu bedenken. «Es geht nicht darum, sich nur eine Zukunft vorzustellen, sondern möglichst viele. In welche Richtungen könnte die Entwicklung gehen? Welche wären ideal? Welche realistisch?»

@@ -1,5 +1,7 @@
 # a-historical-perspective-on-glacial-retreat
 
+**Source:** en_news_events/2022/08/a-historical-perspective-on-glacial-retreat.html
+
 ## Old data – new insights
 
 Glaciers are melting rapidly – and since the 2000s, scientists have been recording and researching changes in their volume more and more precisely. In contrast, hardly anything is known about how glaciers changed during the 20th century. Although there are a handful of studies that reconstruct the surface topography of individual glaciers in the late 19th and early 20th centuries, these partially show large discrepancies with existing models when it comes to estimating the corresponding glacier volume.

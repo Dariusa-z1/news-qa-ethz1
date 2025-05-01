@@ -1,5 +1,7 @@
 # spielerisch-forschen-experiment-mit-brasilianischen-rinderfarmern
 
+**Source:** en_news_events/2014/02/spielerisch-forschen-experiment-mit-brasilianischen-rinderfarmern.html
+
 ## Modellieren mit Spiel
 
 Die Rodung des Amazonas zu erforschen ist eine methodische Herausforderung. Die klassischen wissenschaftlichen Standards verlangen Wiederholbarkeit und empirische Überprüfung der Ergebnisse. Wie auch in der Klimamodellierung sind diese Standards für mich schwierig zu erreichen. Es gibt nur einen Amazonas, und es kostet Milliarden und dauert Jahrzehnte, seinen Schutz zu gewährleisten. Daher ist methodische Innovation essentiell.

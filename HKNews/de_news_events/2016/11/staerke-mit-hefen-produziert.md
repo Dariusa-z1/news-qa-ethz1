@@ -1,5 +1,7 @@
 # staerke-mit-hefen-produziert
 
+**Source:** de_news_events/2016/11/staerke-mit-hefen-produziert.html
+
 ## Pflanzliche Enzyme transferiert
 
 Eigentlich produzieren nur Pflanzen und Algen Stärke. Neuerdings kann das auch Hefe. Zumindest die in den Labors der Gruppe von Samuel Zeeman, Professor für Pflanzenbiochemie am Institut für Agrarwissenschaften der ETH Zürich. Den Forschenden ist es gelungen, Hefe die pflanzliche Maschinerie einzubauen, die den Speicherzucker herstellt. «Ein Novum», wie Zeeman betont.

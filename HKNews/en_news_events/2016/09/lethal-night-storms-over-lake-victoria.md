@@ -1,5 +1,7 @@
 # lethal-night-storms-over-lake-victoria
 
+**Source:** en_news_events/2016/09/lethal-night-storms-over-lake-victoria.html
+
 ## Converging breezes brew a stormy cocktail
 
 Lake Victoria, situated among Uganda, Kenya, and Tanzania, is a vital food source for around 30 million people living at its shore. With a surface of close to 70,000 km 2 , it is the second-largest lake in the world, and arguably also the most lethal: The lake is a notoriously dangerous place for the 200,000 people who go fishing there at night. The International Red Cross estimates that between 3,000 and 5,000 fishermen per year lose their lives in violent storms on the lake [1]. But despite Lake Victoria’s long-standing bad reputation, the potential consequences of climate change for this massive lake remained unknown until very recently.

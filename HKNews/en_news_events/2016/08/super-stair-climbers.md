@@ -1,5 +1,7 @@
 # super-stair-climbers
 
+**Source:** en_news_events/2016/08/super-stair-climbers.html
+
 ## Revised technology, new name
 
 The Balgrist campus is bustling with activity. After ten months and countless technical changes, the revised wheelchair from the Scewo team is ready for its first test drive. With one eye on the regulations and another on the wheelchair, Pascal Buholzer accompanies Scewo driver Josep Ballester through the obstacle course. While the wheelchair effortlessly tackles the stairs, its manoeuvrability when opening doors and its stability on uneven ground leave something to be desired.
@@ -16,11 +18,9 @@ At first, the young inventors – three mechanical engineering students at ETH Z
 
 Their electrically powered wheelchair was initially only designed for stairs. But at the Cybathlon it will also have to overcome rough terrain with tree trunks and sloping surfaces. These pose entirely different technical challenges to stairs, where the students' wheelchair had already scored points in a test run thanks to its innovative caterpillar technology. And with heavy hearts, they also had to give it a new name due to trademark issues. To accomplish all this work – everything from technical revisions and programming work on the software to announcing a new brand name – the Scewo team looked for additional students who wanted to be involved in the project. The team has since grown to nine students from ETH Zurich and ZHdK, all of whom have clear areas of responsibility and seek solutions to individual problems.
 
-The Scewo team has had a new test driver since February 2016. After completing a bachelor's in mechanical engineering in Barcelona, Josep Ballester came to Zurich to pursue his Master in Management, Technology and Economics at ETH. Since an accident, he has been paralysed below the fourth lumbar vertebra, and the team came into contact with Ballester via a request at the ETH's disability advisory service. But his role as driver in the race is not enough for him, which is why he's also taken over the task of marketing the wheelchair. Choosing the right price segment for the wheelchair will be crucial for later sales, as the price will have to cover costs but also be affordable – not the easiest of tasks given that each country has its own conditions when it comes to insurance and state payments. Another of his responsibilities is maintaining contact with what has now grown to 37 sponsors.
+The revised Scewo wheelchair that will be used at the Cybathlon still retains the basic concept, but some parts have been simplified to make it more reliable and easier to assemble. All of the electronics and control computers were replaced and are now based on more affordable industrial components: an important step for future commercialisation. The caterpillar control mechanism was also changed significantly. The two treads were originally controlled separately, but, explains Bernhard Winter, "They didn't always operate smoothly, which is why one motor now powers both caterpillars".
 
 ## Book your Cybathlon tickets now
-
-The revised Scewo wheelchair that will be used at the Cybathlon still retains the basic concept, but some parts have been simplified to make it more reliable and easier to assemble. All of the electronics and control computers were replaced and are now based on more affordable industrial components: an important step for future commercialisation. The caterpillar control mechanism was also changed significantly. The two treads were originally controlled separately, but, explains Bernhard Winter, "They didn't always operate smoothly, which is why one motor now powers both caterpillars".
 
 Whether the changes will be enough to win the Cybathlon remains to be seen, but the team appears confident during training. "No other wheelchair tackles the stairs like Scewo," its inventor Bernhard Winter says proudly. Now the wheelchair and its driver just have to prove themselves in the four other challenges on the obstacle course...
 

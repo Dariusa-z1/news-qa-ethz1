@@ -1,5 +1,7 @@
 # big-data-studie-zur-grippeverbreitung-lanciert
 
+**Source:** de_internal/2016/11/big-data-studie-zur-grippeverbreitung-lanciert.html
+
 ## Wie reagieren Menschen auf Grippe-Infos?
 
 Wie verbreitet sich die Grippe und inwiefern kann das individuelle Verhalten die Grippeausbreitung eindämmen?

@@ -1,5 +1,7 @@
 # eine-quelle-der-inspiration
 
+**Source:** de_news_events/2017/08/eine-quelle-der-inspiration.html
+
 ## Den Austausch weiter vereinfachen
 
 Schnarchen kann zum Gesundheitsproblem werden. Nun entwickelt ein Schweizer Unternehmen mit ETH-Forschenden ein Bett, welches das Schnarchen reduzieren kann. Dank neuster Technologie kann das Bett die Körperhaltung der Schlafenden durch leichte Bewegungen verändern und Schnarchen vorbeugen. Erforscht wird diese Technologie an der ETH-Professur für sensomotorische Systeme. Das Bett ist ein Beispiel, wie die ETH Zürich auch mit kleinen und mittleren Unternehmen (KMU) zusammenarbeitet.
@@ -10,15 +12,13 @@ Schnarchen kann zum Gesundheitsproblem werden. Nun entwickelt ein Schweizer Unte
 
 ## Verständnis von Mobilität verändert sich
 
-Dieses Feedback ist bei Detlef Günther und dem Team Industry Relations, der Kontaktstelle der ETH für Industrieanfragen, angekommen: Nach dem bewährten Muster sind die 20 Vorträge der ETH-Professorinnen und ‑Professoren und der ETH-Spin-offs auch in diesem Jahr kurz und verständlich. Die vier Themen, denen sie zugeordnet sind, verdeutlichen den Anwendungsbezug: «Mobilität und Energie», «Bau und Produktion», «Information und Kommunikation» sowie «Gesundheit, Ernährung und Umwelt».
-
 Im Themenbereich «Mobilität und Energie» zum Beispiel führte Martin Saar, Professor für geothermische Energie und Geofluide, durch die aktuellen Schwerpunkte der Geothermie. Um die Erdwärme nutzen zu können, benötige man neben der oberflächennahen Wärme auch wasserdurchlässige Böden oder eine andere, unter der Oberfläche wirkende Flüssigkeit, sagte er. Da nur wenige Standorte in Europa dafür in Frage kommen, stellen sich auch gesellschaftliche Herausforderungen in der grossräumigen Energieverteilung.
 
 Mit grossen Systemen der Stromversorgung befasst sich Gabriela Hug, Professorin für elektrische Energieübertragung: Sie legte dar, welche Herausforderung sich für Forschung und Entwicklung ergeben, wenn die Stromversorgungsnetze noch komplexer werden, zunehmend intelligente Netzkomponenten, Sensoren und Zähler enthalten und sich dabei grosse Datenmengen anhäufen. «Wie gehen wir in solchen Systemen mit Schwankungen und mit Ungewissheit um?», fragte sie.
 
-## Industry-News und Infos für KMU
-
 Im Bereich der Mobilität geht ein Trend in Richtung der autonomen, selbststeuernden Fahrzeuge. In diesem Gebiet forscht Emilio Frazzoli, Professor für dynamische Systeme und Regelungstechnik. Neben technischen Fragen beschäftigen ihn auch Fragen der Sicherheit, des Komforts, des behindertengerechten Fahrens und der Nachhaltigkeit. «Autonome Fahrzeuge verändern die Art, wie wir über Mobilität denken», sagt er.
+
+## Industry-News und Infos für KMU
 
 Neben den Automobilen umfasst diese Entwicklung auch intelligente Flugzeuge und andere Flugobjekte. In diesem Bereich ist Margarita Chli, Professorin für Computervision für Robotik, aktiv. Sie will Robotern «das Sehen lehren». Insbesondere müssen ihre Flugroboter lernen, wie sie ein Umfeld gemeinsam erkunden und ihre Aufgabe in der Gruppe lösen können. «Wahrnehmung und Zusammenarbeit sind ein Schlüssel zum Fortschritt in der Robotik», sagt Chli.
 

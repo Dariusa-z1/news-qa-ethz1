@@ -1,5 +1,7 @@
 # using-force-to-stiffle-dialogue
 
+**Source:** en_news_events/2016/08/using-force-to-stiffle-dialogue.html
+
 ## Main article
 
 “I disapprove of what you say, but I will defend your right to say it.” Although Voltaire himself never uttered these words, they nevertheless capture the spirit of his thinking and thus provide us with a shining example of some of the most important achievements of Enlightenment philosophy: freedom of expression and the supremacy of reason over violence. Anonymous individuals violated both of these fundamental principles yesterday at ETH Zurich. This is unacceptable. The University and the scientific community stand together in condemning such attacks.

@@ -1,5 +1,7 @@
 # eth-bibliothek-uebernimmt-publikationsgebuehren-beim-open-access-verlag-copernicus
 
+**Source:** de_internal/2014/10/eth-bibliothek-uebernimmt-publikationsgebuehren-beim-open-access-verlag-copernicus.html
+
 ## Main article
 
 Voraussetzung ist, dass der Erstautor des eingereichten Artikels an der ETH Zürich beschäftigt ist.

@@ -1,5 +1,7 @@
 # protection-for-pacemakers
 
+**Source:** en_news_events/2019/11/protection-for-pacemakers.html
+
 ## Microstructure reduces fibrotic tissue formation
 
 ETH scientists have developed a special protective membrane made of cellulose that significantly reduces the build-up of fibrotic tissue around cardiac pacemaker implants, as reported in the current issue of the journal Biomaterials . Their development could greatly simplify surgical procedures for patients with cardiac pacemakers.

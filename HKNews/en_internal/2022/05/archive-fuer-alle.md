@@ -1,5 +1,7 @@
 # archive-fuer-alle
 
+**Source:** en_internal/2022/05/archive-fuer-alle.html
+
 ## Events
 
 - Tuesday, 7 June 2022, 6.15 p.m.: Eastern Europe at the ETH Zurich Archives (guided tour of the ETH Zurich University Archives)
@@ -22,9 +24,11 @@ To see details about the events and register, visit www.ethz.ch/archiv-​woche
 
 ## Staffnet
 
-All information about the individual and guided tour is available at www.ethz.ch/spurensuche
+From 7 to 19 June 2022, you can visit the historic rooms of ETH Zurich independently using the site map (PDF, 1.8 MB) available on campus. Alternatively, join one of our guides during a guided tour between 7 and 11 June 2022 and experience up close some of the history contained in the ETH Zurich Archives on a tour in and around the main building.
 
 ## Subscribe to Newsletter
+
+All information about the individual and guided tour is available at www.ethz.ch/spurensuche
 
 This year’s Archives Week coincides with the 100-​year anniversary of the Association of Swiss Archivists (VSA) in 2022. In its anniversary year, archives across Switzerland are opening their doors to the public within and outside their institutions and organising events for an entire week.
 

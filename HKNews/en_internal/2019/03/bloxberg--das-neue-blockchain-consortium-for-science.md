@@ -1,5 +1,7 @@
 # bloxberg--das-neue-blockchain-consortium-for-science
 
+**Source:** en_internal/2019/03/bloxberg--das-neue-blockchain-consortium-for-science.html
+
 ## Main article
 
 ETH Library supports this research experiment in order to gain experience on how to support researchers with blockchain technologies and to learn how they change the way research data and results are managed or influence the collaboration between scientists.

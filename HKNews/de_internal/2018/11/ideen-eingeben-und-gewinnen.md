@@ -1,5 +1,7 @@
 # ideen-eingeben-und-gewinnen
 
+**Source:** de_internal/2018/11/ideen-eingeben-und-gewinnen.html
+
 ## Main article
 
 Haben Sie Vorschläge für eine der folgenden Fragestellungen?

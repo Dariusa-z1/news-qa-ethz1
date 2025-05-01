@@ -1,5 +1,7 @@
 # blog-freiwillige-klimakompensationen-werden-ihren-versprechen-haeufig-nicht-gerecht
 
+**Source:** de_news_events/2023/07/blog-freiwillige-klimakompensationen-werden-ihren-versprechen-haeufig-nicht-gerecht.html
+
 ## Zum Autor
 
 - Bei vielen Projekten ist fraglich, ob nicht auch ohne Zertifikate das gleiche Ergebnis erzielt worden wäre. Zum Beispiel werden viele durch Emissionszertifikate geschützte Wälder auch ohne den Schutz durch Zertifikate nicht gerodet.3 Und die meisten Wind- und Solarkraftwerke benötigen keine Zertifikate, um finanziert zu werden.4

@@ -1,5 +1,7 @@
 # gerzensee-tagung
 
+**Source:** de_news_events/2015/11/gerzensee-tagung.html
+
 ## Main article
 
 Bereits im März dieses Jahres wurde von Seiten eidgenössischer Parlamentarier die Idee an die ETH Zürich herangetragen, eine Einführungsveranstaltung für neugewählte Mitglieder des Bundesparlaments zu organisieren. Am zweitägigen Anlass referierten nun nicht nur Experten aus einzelnen Fachgebieten, ehemalige Parlamentarierinnen und Parlamentariern vermittelten zudem ihr Erfahrungswissen. Im Interview zieht Michael Ambühl eine erste Bilanz.
@@ -13,8 +15,6 @@ Was haben Sie für Feedback von Seiten der Teilnehmenden bekommen? Die ersten Fe
 Von rund 50 neugewählten Parlamentariern haben sich 14 angemeldet. Waren Sie überrascht, dass sich relative wenige angemeldet haben? Nein. Unser Anlass war immer als ein Angebot gedacht. Wir waren uns schon vorher bewusst, dass die Organisation sehr kurzfristig ist: die Wahlen waren am 18. Oktober und die neue Session beginnt bereits nächste Woche. Auch wenn sicher noch einige mehr Interesse am Anlass gehabt hätten, lag es schlicht terminlich nicht drin, dafür habe ich grosses Verständnis.
 
 Auf dem Programm standen komplexe Themen wie makroökonomische Grundlagen oder das Schweizerische Sozialversicherungsrecht – was lässt sich darüber in so kurzer Zeit lernen? Natürlich lassen sich in zwei Tagen nicht umfassende Kenntnisse aneignen. Aber die Neugewählten müssen fähig sein, ein Gebiet schnell irgendwo einzuordnen und zu wissen, wo sie mehr verlässliche Informationen finden. Hier konnten unsere Expertinnen und Experten sicher Hilfestellungen leisten.
-
-Welches Fazit ziehen Sie aus den zwei Tagen? Wir hatten drei Ziele: Hintergrundwissen für die Arbeit im Parlament zu vermitteln, die Möglichkeit zu geben, von den Erfahrungen von ehemaligen Parlamentarierinnen und Parlamentariern zu profitieren und den Teilnehmenden die Möglichkeit zu geben, über Parteigrenzen hinweg Kontakte mit anderen, ebenfalls neu Gewählten zu knüpfen. Dies ist uns – meiner Ansicht nach – gut gelungen.
 
 Gibt es in vier Jahren wieder einen ähnlichen Anlass? Lassen wir jetzt das neue Parlament in Ruhe arbeiten, bevor wir an die nächsten Wahlen denken – schliesslich stehen den Politikerinnen und Politikern wichtige Aufgaben bevor. Wir werden zuerst die Rückmeldungen auswerten und dann entscheiden, ob wir das Seminar nochmals durchführen. Dafür haben wir ja noch etwas Zeit.
 

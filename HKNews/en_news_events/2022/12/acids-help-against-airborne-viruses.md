@@ -1,5 +1,7 @@
 # acids-help-against-airborne-viruses
 
+**Source:** en_news_events/2022/12/acids-help-against-airborne-viruses.html
+
 ## How do suspended particles become acidic?
 
 Viruses such as SARS-CoV-2, influenza virus and others travel from person to person essentially by hitchhiking on aerosols. These are finely dispersed particles containing liquid suspended in the air that an infected person expels when coughing, sneezing, or simply exhaling, and can be inhaled by someone else.
@@ -51,8 +53,6 @@ The present study is the result of an interdisciplinary collaboration between re
 ## Reference
 
 How these two viruses react to acidic environments was investigated by researchers in the group led by Silke Stertz at the University of Zurich’s Institute of Medical Virology together with colleagues from the Environmental Chemistry Laboratory at EPFL led by Tamar Kohn, who is also the overall leader of this SNSF Sinergia project. They tested the sensitivity of influenza A and coronaviruses to different acidic conditions in artificially generated lung fluid and in nasal or lung mucus, which the scientists had previously harvested from specially grown mucus cell cultures.
-
-Researchers from the Atmospheric Chemistry Group at ETH Zurich, led by Thomas Peter and Ulrich Krieger, investigated the behaviour of mucus aerosols using an electrodynamic particle trap. With this apparatus researchers can “hold” individual suspended particles for days or weeks and study them without contact to surfaces, for example to see how changes in humidity affect them.
 
 The Peter group was also responsible for performing model simulations. This modelling-based approach might prove to be a weakness in the overall study; how airborne viruses really behave in acidic aerosols is something that remains to be seen in further experiments. With these in mind, researchers led by Athanasios Nenes at EPFL, who initially proposed that acidity may be an important modulator of virus activity, have developed experimental techniques and modelling approaches that will allow future experiments to be carried out both under strict biosafety conditions and using different compositions of indoor air.
 

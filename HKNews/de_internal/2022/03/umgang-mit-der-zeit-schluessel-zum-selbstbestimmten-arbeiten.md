@@ -1,5 +1,7 @@
 # umgang-mit-der-zeit-schluessel-zum-selbstbestimmten-arbeiten
 
+**Source:** de_internal/2022/03/umgang-mit-der-zeit-schluessel-zum-selbstbestimmten-arbeiten.html
+
 ## Die Grundsätze
 
 - Priorisieren Sie Ihre Aufgaben und arbeiten Sie an jenen, die wirklich wichtig sind und die Sie als Mitarbeiterin oder Mitarbeiter weiterbringen;

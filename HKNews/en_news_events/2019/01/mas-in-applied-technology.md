@@ -1,5 +1,7 @@
 # mas-in-applied-technology
 
+**Source:** en_news_events/2019/01/mas-in-applied-technology.html
+
 ## "An MBA in the Reverse Direction"
 
 Anyone making strategic decisions in a technology-oriented company needs technological knowledge and understanding in addition to management skills. In such companies, even outstanding employees with a background in social or economic sciences reach their limits in the course of their careers. Thus, potential remains unexploited.

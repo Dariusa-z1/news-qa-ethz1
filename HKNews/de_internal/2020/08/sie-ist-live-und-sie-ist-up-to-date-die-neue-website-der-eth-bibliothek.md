@@ -1,5 +1,7 @@
 # sie-ist-live-und-sie-ist-up-to-date-die-neue-website-der-eth-bibliothek
 
+**Source:** de_internal/2020/08/sie-ist-live-und-sie-ist-up-to-date-die-neue-website-der-eth-bibliothek.html
+
 ## Die Highlights
 
 - Wissen schillert und ist bunt, es berührt und wühlt auf: Spannende News zu Bibliotheks- und Forschungsthemen auf einen Blick erhalten Sie über verlinkte Slider zu thematischen Schwerpunkten und aktuellen Veranstaltungen.

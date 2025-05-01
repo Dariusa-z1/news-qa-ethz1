@@ -1,5 +1,7 @@
 # germanium-wird-lasertauglich
 
+**Source:** de_news_events/2013/04/germanium-wird-lasertauglich.html
+
 ## Starker Zug durch Mikro-Brücken
 
 Forscher von der ETH Zürich, dem Paul Scherrer Institut PSI und dem Politecnico di Milano haben gemeinsam eine Fabrikationstechnik entwickelt, mit der sie den Halbleiter Germanium durch starke Zugspannung lasertauglich machen können. In ihrer kürzlich in «Nature Photonics» erschienenen Publikation zeigen sie, wie sie die dazu benötigte Zugspannung auf effiziente Weise erzeugen können. Die Wissenschaftler weisen nach, dass sie mit ihrer Methode die opti-schen Eigenschaften des an sich für Laser ungeeigneten Germaniums wirksam verändern können: «Bei einer Dehnung von drei Prozent gibt das Material rund 25 Mal mehr Photonen ab als im entspannten Zustand», erklärt Martin Süess, Doktorand am Laboratorium für Nanometallurgie von Professor Ralph Spolenak und dem EMEZ an der ETH Zürich. «Das reicht aus, um damit Laser zu bauen», sagt sein Mitstreiter Richard Geiger, Doktorand am Labor für Mikro- und Nanotechnologie am PSI und dem Institut für Quantenelektronik der ETH Zürich unter Professor Jérôme Faist.
@@ -19,6 +21,4 @@ Die Methode des interdisziplinären Forscherteams könnte die Leistung kommender
 «Der Ansatz der Zukunft heisst Licht», sagt Geiger. Doch um dieses für die Übermittlung von Daten nutzen zu können, braucht es zuerst Lichtquellen, die so klein sind, dass sie auf einen Chip passen und sich mit Silizium, dem Grundmaterial aller Computerchips vertragen. Silizium selbst taugt nicht für die Erzeugung von Laserlicht. Das ist denn auch der Grund, wieso den Forschern viel daran liegt, Germanium laserfähig zu machen: «Germanium ist mit Silizium bestens kompatibel und wird bereits heute in der Computerindustrie bei der Herstellung von Siliziumchips verwendet», erklärt Geiger. Sollte es gelingen, mit der neuen Methode aus Germanium winzige Laser zu bauen, rückt ein Systemwechsel in greifbare Nähe. «Wir sind auf gutem Weg», sagt Süess. Das internationale Forscherteam ist momentan dabei, mit der neuen Methode tatsächlich einen Germanium-Laser zu bauen.
 
 Original: Süess MJ, Geiger R, Minamisawa RA, Schiefler G, Frigerio J, Chrastina D, Isella G, Spolenak R, Faist J & Sigg H: Analysis of enhanced light emission from highly strained germanium microbridges. Nature Photonics. 2013. Published online: 14 April 2013 doi: externe Seite 10.1038/nphoton.2013.67 .
-
-ETH Zurich Marin Süess Laboratorium für Nanometallurgie Tel. +41 44 633 64 08 Paul Scherrer Institut PSI Hans Sigg Labor für Mikro- und Nanotechnologie Tel. +41 56 310 40 48 ETH Zürich Medienstelle Tel. +41 44 632 41 41
 

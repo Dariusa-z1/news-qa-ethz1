@@ -1,5 +1,7 @@
 # annual-report-2016
 
+**Source:** en_news_events/2017/04/annual-report-2016.html
+
 ## More students – more courses
 
 A world record for the grimsel electric racing car, the opening of the Gotthard Base Tunnel and the new Arch_Tech_Lab laboratory with real-world conditions were just some of last year's highlights at ETH Zurich. The University presents the most important events and developments in its recently published 2016 Annual Report.
@@ -29,4 +31,8 @@ Spin-off companies play a key role in making knowledge acquired at the Universit
 Sustainability is a top priority for ETH Zurich. "Our University plays a central role in the development of ecologically and economically viable solutions to challenges in the fields of energy, the environment and sustainability, and we must lead by example," says Lino Guzzella. ETH has documented its social commitments over the last two years in the new Sustainability Report 2015/2016.
 
 This report focuses on the four key areas of research, teaching, campus and dialogue with the public. It includes 45 targets related to the environment, sustainable teaching and diversity, presents relevant figures, and shows where there is a need for action. The report also provides information on current projects undertaken by the University, such as the mobility platform founded in 2016 with the aim of reducing CO 2 emissions and energy consumption in the fields of campus mobility, business travel and logistics.
+
+The 2016 Annual Report can be downloaded as a German, English or French PDF or ordered in print form from the ETH mailing centre.
+
+The Sustainability Report 2015/2016 is available to download as a PDF .
 

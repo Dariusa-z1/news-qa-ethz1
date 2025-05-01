@@ -1,5 +1,7 @@
 # eth-day-2020
 
+**Source:** en_news_events/2020/11/eth-day-2020.html
+
 ## Focus on student wellbeing
 
 “A crisis shows what we are made of – and our university has passed this test with flying colours,” said ETH Rector Sarah Springman at this year's ETH Day, much of which was held online. Springman pointed out how the transition to emergency operations following the outbreak of the pandemic in mid-March 2020 served as a stress test – not least in terms of teaching arrangements. She went on to note that thanks to the fantastic team spirit and commitment of all ETH members, the university was able to step up to the new challenge quickly. She highlighted how the switch to remote teaching was mostly seamless, while the introduction of “bubbles” – small groups in which new ETH students tackle all exercises together – has led to the development of a format that the university will continue to use after the crisis is over.
@@ -29,6 +31,4 @@ Two researchers received their honorary doctorates from ETH Zurich at ETH Day. P
 In addition to honorary doctorates, ETH Zurich also traditionally appoints honorary councillors on ETH Day. This year, Adrian Weiss and Calvin Grieder were honoured for their extraordinary personal commitment to the promotion of teaching and research.
 
 Video material of the event, text of all the speeches, profiles of this year's honorary doctors and honorary councillors, and a list of all the prize winners can be found on the ETH Day website .
-
-ETH Zurich Media relations Phone: +41 44 632 41 41
 

@@ -1,5 +1,7 @@
 # vom-tabak-zum-cyberholz
 
+**Source:** de_news_events/2015/03/vom-tabak-zum-cyberholz.html
+
 ## Wasser durch Nanoröhrchen ersetzt
 
 Seit jeher lässt sich die Menschheit von der Natur inspirieren, und sie ahmt diese nach, um neue Technologien zu entwickeln. Die Beispiele reichen vom Maschinenbau über die Pharmazie bis hin zu neuartigen Materialien. So sind Flugzeuge Vögeln nachempfunden, und viele Medikamente haben ihren Ursprung in pflanzlichen Wirkstoffen. Forschende am Departement Maschinenbau und Verfahrenstechnik gingen nun einen Schritt weiter: Um einen extrem empfindlichen Temperatursensor zu entwickeln, bedienten sie sich temperaturempfindlichen pflanzlichen Zellen. Allerdings ahmten sie nicht die Eigenschaften dieser Zellen nach, sondern entwickelten ein Hybridmaterial, das neben synthetischen Komponenten auch die pflanzlichen Zellen selbst enthält. «Wir lassen die Natur für uns arbeiten», fasst Chiara Daraio, Professorin für Mechanik und Materialien, den Ansatz zusammen.

@@ -1,5 +1,7 @@
 # dank-neuer-geraete-demenz-fruehzeitig-erkennen
 
+**Source:** de_news_events/2018/03/dank-neuer-geraete-demenz-fruehzeitig-erkennen.html
+
 ## Günstiger, kleiner, mobiler
 
 Sie sind knapp dreissig und dabei, die Diagnose von Alzheimer zu verbessern. Max Ahnen (29) und Jannis Fischer (30) entwickeln derzeit einen PET-Gehirnscanner: Er soll weniger kosten und kleiner sein als jene, die heute in den Spitälern stehen. Dafür hat sie das amerikanische Wirtschaftsmagazin Forbes in ihre « externe Seite 30 Under 30 Europe 2018 »-Liste in der Kategorie Wissenschaft und Gesundheit aufgenommen. Mit der Liste würdigt Forbes jedes Jahr «die intelligentesten jungen Unternehmer und Erfinder» in unterschiedlichen Bereichen. «Wir sind stolz darauf, dass wir es auf die Liste geschafft haben», sagt Jannis Fischer und lacht: «Nächstes Jahr wären wir dafür zu alt gewesen.»

@@ -1,5 +1,7 @@
 # schillernde_schokolade
 
+**Source:** de_news_events/2019/12/schillernde_schokolade.html
+
 ## Experimente in der Küche
 
 Die Praline schillert in wild wechselnden Regenbogenfarben. Es scheint, als würde sie leuchten. Eine Gruppe von Forschenden der ETH Zürich und der Fachhochschule Nordwestschweiz haben dafür vor Kurzem ein Patent angemeldet.

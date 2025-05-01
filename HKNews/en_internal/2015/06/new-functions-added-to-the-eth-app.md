@@ -1,5 +1,7 @@
 # new-functions-added-to-the-eth-app
 
+**Source:** en_internal/2015/06/new-functions-added-to-the-eth-app.html
+
 ## Main article
 
 Read ETH News on your mobile device, find the right building, or compare what’s on the menu in the various cafeterias… Do all this and more using the official ETH app. The latest update adds a few important functions.

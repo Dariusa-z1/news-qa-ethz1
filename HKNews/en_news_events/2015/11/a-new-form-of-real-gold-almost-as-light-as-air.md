@@ -1,5 +1,7 @@
 # a-new-form-of-real-gold-almost-as-light-as-air
 
+**Source:** en_news_events/2015/11/a-new-form-of-real-gold-almost-as-light-as-air.html
+
 ## Drying process a challenge
 
 A nugget of real 20 carats gold, so light that it does not sink in a cappuccino, floating instead on the milk foam – what sounds unbelievable has actually been accomplished by researchers from ETH Zurich. Scientists led by Raffaele Mezzenga, Professor of Food and Soft Materials, have produced a new kind of foam out of gold, a three-dimensional mesh of gold that consists mostly of pores. It is the lightest gold nugget ever created. "The so-called aerogel is a thousand times lighter than conventional gold alloys. It is lighter than water and almost as light as air," says Mezzenga.

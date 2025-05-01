@@ -1,5 +1,7 @@
 # thomas-mann-archiv-wiedereroeffnung-auf-dem-hoenggerberg
 
+**Source:** de_internal/2016/07/thomas-mann-archiv-wiedereroeffnung-auf-dem-hoenggerberg.html
+
 ## Main article
 
 Der Lesesaal und das letzte Arbeitszimmer von Thomas Mann sind dort mit erweiterten Öffnungszeiten zugänglich.

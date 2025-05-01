@@ -1,5 +1,7 @@
 # dimpora-non-polluting-membranes-for-outerwear
 
+**Source:** en_news_events/2019/02/dimpora-non-polluting-membranes-for-outerwear.html
+
 ## Based on water filters
 
 Outdoor sports are booming – as is the entire sports apparel segment. Demand for breathable and waterproof rain jackets is particularly high, as people like to be outdoors whatever the weather. The drawback is that this type of clothing often uses membranes containing toxic fluorine compounds that can be damaging to health and the environment.

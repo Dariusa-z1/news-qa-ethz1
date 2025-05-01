@@ -1,5 +1,7 @@
 # kreative-datenversteher
 
+**Source:** de_news_events/2017/08/kreative-datenversteher.html
+
 ## Artikel analysieren und klassifizieren
 
 - Freitag, 1. September 2017, 18 – 21 Uhr (Vernissage)
@@ -19,8 +21,6 @@ Heute bietet das Spin-off neben fertigen Technologielösungen vor allem projektb
 Ein Beispiel ist das Klassifizieren und Kategorisieren von riesigen Textmengen. So etwa die Software, die SpinningBytes für das Schweizerische Wirtschaftsarchiv programmiert hat. Das Archiv sammelt seit 1890 Berichte über die Schweizer Wirtschaft, die alle nach demselben Muster kategorisiert werden. Früher untersuchten Archivare jeden Text, nun kann das Programm den Teil der Arbeit übernehmen. Dafür analysierte die Software 30’000 bereits kategorisierte Artikel und lernte die Zuweisungsregeln.
 
 ## SpinningBytes an der Scientifica 2017
-
-Die Informatiker bei SpinningBytes befassen sich aber nicht nur mit geschriebenen Texten. Sie entwickeln auch Programme, die die menschliche Stimme erkennen und verstehen können – und Antwort geben. «Gerade im Kundenservice herrscht für solche Dialogsysteme ein riesiges Potenzial», meint Cieliebak, «denn bei einer Service-Hotline werden sehr häufig immer dieselben Dialoge geführt.» Die oft ähnlich ablaufenden Gespräche können mittels Machine Learning «automatisiert» werden. So könnte in Zukunft beispielsweise eine Krankenkasse den ersten standardisierten Kontakt mit potenziellen Kunden mittels digitalem Formular abwickeln. «Einen Menschen ersetzt die Software aber nicht», beteuert Cieliebak. Denn sobald die Unterhaltung zu sehr von den eingepflegten Standardsätzen abweiche, könne die Software nicht mehr auf zuvor eingegebene Antworten zurückgreifen und müsse an einen Kundendienstmitarbeiter verweisen.
 
 Auch Prognosen können aufgrund der Analyse von riesigen Datenmengen erstellt werden: In einem neuen Projekt untersucht ein Programm von SpinningBytes anhand von Tweets das Herzinfarkt-Risiko in unterschiedlichen Regionen. Wie das geht? «Ein Herzinfarkt hat unter anderem damit zu tun, ob man glücklich ist oder nicht», sagt Cieliebak und erläutert weiter: «Die Sprache in den Tweets lässt Rückschlüsse auf die Zufriedenheit zu, und durch eine Verknüpfung mit weiteren statistischen Daten können Aussagen zum Herzinfarkt-Risiko in einer bestimmten Gegend gemacht werden.» Weitere solcher Prognoseprogramme sind zurzeit in Planung.
 

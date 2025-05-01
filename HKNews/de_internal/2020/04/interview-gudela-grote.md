@@ -1,5 +1,7 @@
 # interview-gudela-grote
 
+**Source:** de_internal/2020/04/interview-gudela-grote.html
+
 ## An der Studie mitmachen
 
 Die ETH ist seit Wochen im Notbetrieb: Für die überwiegende Mehrheit von uns bedeutet das Homeoffice. Wie geht es uns dabei? Schaffen wir es, trotzdem weiterhin effizient zu arbeiten? Können wir auch in physischer Isolation mit Kolleginnen und Kollegen verbunden bleiben?
@@ -18,15 +20,13 @@ Das tönt erfreulich. Wie aber sieht es mit den negativen Seiten aus? Gibt es ke
 
 ## Staffnet
 
-Was raten Sie diesen ETH-Angehörigen? Auf jeden Fall den Kontakt zu Kolleginnen und Kollegen, aber auch zu Vorgesetzten suchen und nicht versuchen, alles mit sich alleine auszumachen. Unsere Erhebung zeigt, dass es generell gute Unterstützung in den Teams zu geben scheint.
-
 Das impliziert auch Ausnahmen… Ja, es gibt einige Aussagen, die uns aufhorchen liessen. So schrieb jemand, dass der Professor sich mehr um das Wohl seiner Büropflanzen sorgt als um ihn/sie. Jemand anders berichtet von einem Vorgesetzten, der sich weigert, an virtuellen Sitzungen teilzunehmen und nur per E-Mail kommuniziert. In solch problematischen Fällen rate ich ETH-Angehörigen, sich unbedingt an die gängigen Anlaufstellen zu wenden. Auch unsere Personalabteilung, etwa Martin Ghisletti von der Personalentwicklung, hat dafür jederzeit ein offenes Ohr.
 
 Gibt es neben der sozialen Isolation weitere generelle Aspekte, die Mitarbeitende als schwierig empfinden? Vor allem am Anfang haben viele empfunden, dass der Druck, ausserhalb der regulären Arbeitszeiten verfügbar zu sein, im Homeoffice zugenommen habe. Das waren anfänglich über ein Drittel der Befragten, jetzt ist es immer noch knapp ein Viertel. Ich finde es wichtig, dass dieser Aspekt mit den Vorgesetzten oder aber gleich in der ganzen Arbeitsgruppe thematisiert wird.
 
-## Newsletter abonnieren
-
 Gibt es Gruppen von ETH-Angehörigen, die besonders unter Druck sind? Generell sind das die Forschenden, besonders die Doktorierenden und Postdocs mit Zeitverträgen, die nicht in ihre Labors konnten. Das sollte ja nun aber wieder einfacher werden. Wir werden in den nächsten Wochen sehen, wie sich die allmähliche Rückkehr der Gruppen in die Labore auf die Arbeitssituation und das Wohlbefinden auswirken.
+
+## Newsletter abonnieren
 
 Kommen wir zurück auf die positiven Erfahrungen, die Sie eingangs erwähnt haben. Was sticht da heraus? Die am häufigsten genannten positiven Erfahrungen betreffen den grossen Teamgeist und die Effektivität des virtuellen Zusammenarbeitens. Auch die Qualität der Kommunikation wird sehr positiv wahrgenommen. Die Mehrheit beurteilt auch die Unterstützung durch die ETH als sehr positiv, wobei da die Zahlen seit der ersten Erhebungsrunde leicht rückläufig sind. Die Anfangsbegeisterung darüber, wie schnell wir alle diesen Wechsel geschafft haben, ist wohl ein bisschen von der Realität eingeholt worden. Es zeigen sich auch Schattenseiten.
 

@@ -1,5 +1,7 @@
 # verordnung-ueber-das-finanz-und-rechnungswesen-des-eth-bereichs
 
+**Source:** de_internal/2014/12/verordnung-ueber-das-finanz-und-rechnungswesen-des-eth-bereichs.html
+
 ## Main article
 
 Die neue Verordnung über das Finanz- und Rechnungswesen des ETH-Bereichs legt fest, dass für die Rechnungslegung des ETH-Bereichs zukünftig die International Public Sector Accounting Standards (IPSAS) anzuwenden sind. Die IPSAS normieren als umfassendes Regelwerk die Rechnungslegung im öffentlichen Sektor aufgrund allgemein anerkannter Grundsätze.

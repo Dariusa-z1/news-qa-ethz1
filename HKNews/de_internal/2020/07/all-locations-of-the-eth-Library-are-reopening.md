@@ -1,5 +1,7 @@
 # all-locations-of-the-eth-Library-are-reopening
 
+**Source:** de_internal/2020/07/all-locations-of-the-eth-Library-are-reopening.html
+
 ## Standorte und Öffnungszeiten
 
 - ETH-Bibliothek Hauptgebäude (InfoCenter): Mo–Fr 8.00–20.00, Sa und So 9.00–17.00
@@ -32,11 +34,9 @@ Neben der ETH-Bibliothek im Hauptgebäude (InfoCenter) und der Baubibliothek sin
 
 ## Sammlungen, Archive und Ausstellungen
 
-Nutzen Sie gerne auch weiterhin unsere Sie können uns auch über externe Seite WhatsApp und unseren Chat kontaktieren.
+#MehrWissen – Die aufbereiteten Inhalte der ETH-Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter. #ETHBibliothekDigital – Die ETH-Bibliothek ist nicht nur während der COVID-19-Schutzmassnahmen digital mit verschiedenen Angeboten und Dienstleistungen für Sie da.
 
 ## Staffnet
-
-#MehrWissen – Die aufbereiteten Inhalte der ETH-Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter. #ETHBibliothekDigital – Die ETH-Bibliothek ist nicht nur während der COVID-19-Schutzmassnahmen digital mit verschiedenen Angeboten und Dienstleistungen für Sie da.
 
 ## Newsletter abonnieren
 

@@ -1,5 +1,7 @@
 # sl-info
 
+**Source:** de_internal/2019/06/sl-info.html
+
 ## Stärkung der Schulleitung
 
 An einer Klausur hat die Schulleitung erste Entscheide zur Weiterentwicklung der Hochschule gefällt. Im Zentrum der Diskussionen standen die Organisation der Schulleitung, die Zusammenarbeit von Schulleitung und Departementen, die Werte der Hochschule und die Weiterentwicklung von Führung und Management im akademischen Umfeld.

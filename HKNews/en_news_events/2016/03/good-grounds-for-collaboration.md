@@ -1,5 +1,7 @@
 # good-grounds-for-collaboration
 
+**Source:** en_news_events/2016/03/good-grounds-for-collaboration.html
+
 ## Research collaboration between ETH Zurich and South Africa
 
 Mr Kossmann, Mr Zeeman, before we delve into your collaboration, could you briefly explain what the research itself deals with? Zeeman: Above all, I’m interested in how plants convert carbon dioxide into starch and sugar. We’re trying to better understand the metabolism and biochemical processes of plants, so that we can optimise them – for example, in harvesting crops.
@@ -17,8 +19,6 @@ How hard is it to finance this kind of collaborative research project? Kossmann:
 Zeeman: I agree with Jens on that. Supporting mobility is certainly important, so that researchers can meet and find out where their mutual research interests lie. But beyond that, funding schemes for doctoral and post-doctoral work are also necessary.
 
 ## SNSF funding schemes for Swiss-South African research
-
-Is it harder for researchers in South Africa to obtain these subsidies than it is for researchers in Europe? Kossmann: I worked for a long time in Germany and have a good network of contacts in Europe. I know people, and I know who I can contact for which collaboration. But my younger colleagues in Cape Town don’t yet have these contacts in Europe. For them, things are significantly harder. That’s why these bilateral research programmes are an excellent opportunity for them – they open up a new network. I’ve sent a series of doctoral students to Europe over the past few years, and a former doctoral student from our group is working at Sam’s lab in Zurich at the moment.
 
 Exactly what sort of form does a collaboration 10,000 km apart take? Do you visit each other regularly or do you communicate solely by telephone and email? Kossmann: We meet at least once a year in Switzerland or South Africa. Sam has visited me three times at Stellenbosch, sometimes as part of a conference.
 

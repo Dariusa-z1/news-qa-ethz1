@@ -1,5 +1,7 @@
 # monitoring-cell-fates
 
+**Source:** en_news_events/2016/07/monitoring-cell-fates.html
+
 ## Stem cell regeneration
 
 In biological terms, a cell is the smallest functional entity of living organisms. The human body contains an enormous number of cells: somewhere in the region of 10 to 100 trillion, depending on a person’s size and weight. Most of these cells perform specific functions in the body and are called differentiated cells. Stem cells, on the other hand, are able to continuously divide to produce more stem cells and differentiated cells, thereby providing an endless supply of differentiated cells. Certain cells in the body have a relatively short life span. For example, many white blood cells (leucocytes) and blood platelets (thrombocytes) die within a few hours to a couple of days, while red blood cells (erythrocytes) survive around four months.

@@ -1,5 +1,7 @@
 # 50-millions-de-francs-pour-l-institut-d-etudes-theoriques
 
+**Source:** de_news_events/2013/05/50-millions-de-francs-pour-l-institut-d-etudes-theoriques.html
+
 ## Une sorte de réunion de classe mondiale permanente
 
 Depuis ses débuts, l'ETH Zurich compte parmi ses rangs des théoriciens de premier plan. Des scientifiques tels qu'Albert Einstein, Wolfgang Pauli, Hermann Weyl, Niklaus Wirth et beaucoup d'autres ont enseigné et effectué des recherches à Zurich, enrichissant ainsi les bases théoriques en physique, en chimie, en mathématiques et en informatique et contribuant à des innovations majeures. Dans notre monde empreint de technique et de technologies numériques, l'importance des mathématiques n'a cessé d'augmenter. Sans même que nous nous en rendions compte, de nombreux éléments de notre quotidien reposent sur des principes mathématiques. Sans la théorie de la relativité générale d'Albert Einstein, la technologie GPS intégrée dans tous les smartphones serait aussi impensable que la technologie de l'information moderne sans la mécanique quantique ou encore les supports de données tels que les DVD sans les codes correcteurs d'erreurs, qui sont basés sur la théorie des nombres.
@@ -35,6 +37,4 @@ Le Dr Max Rössler a étudié les mathématiques à lETH, où il a également 
 L' ETH Zurich est lune des premières universités mondiales en sciences techniques et naturelles. Elle est connue pour lexcellence de son enseignement, pour sa recherche fondamentale exemplaire et pour son transfert direct de nouvelles connaissances dans la pratique. Fondée en 1855, lETH Zurich compte aujourdhui près de 18 000 étudiants de plus de 100 pays, dont 3800 doctorants. Elle offre un environnement stimulant à ses chercheurs et une formation complète à ses étudiants. Les 21 Prix Nobel qui ont étudié, enseigné ou fait de la recherche à lETH Zurich soulignent la réputation hors pair de cette école polytechnique. www.ethz.ch
 
 L' ETH Zurich Foundation est une bâtisseuse de pont entre des entreprises, des indivi-dus, des fondations et lETH Zurich. Etant la fondation de premier plan dans les domaines de la technologie et des sciences, elle soutient la Haute Ecole afin quelle réalise ses objectifs stratégiques les plus importants dans lenseignement et la recherche. Les partenaires de cette promotion bénéficient dun accès avantageux à des collaborations formidables et courageuses avec lune des meilleures Haute Ecole dans le monde et de la possibilité de repousser ensemble les limites. externe Seite www.ethz-foundation.ch
-
-ETH Zurich Foundation Dr. Donald Tillman Gérant Tel. +41 44 633 633 69 60 ETH Zürich Media Relations Tel. +41 44 632 41 41
 

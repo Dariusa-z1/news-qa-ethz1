@@ -1,5 +1,7 @@
 # blog-natur-gerecht-wiederherstellen
 
+**Source:** de_news_events/2023/01/blog-natur-gerecht-wiederherstellen.html
+
 ## Warum soziale Fragen entscheidend sind
 
 An der Weltnaturkonferenz in Montreal vom letzten Dezember vereinbarten die Staaten überraschend, 30 Prozent der weltweit degradierten Landschaften bis 2030 unter Schutz zu stellen. Das Abkommen betont insbesondere auch die Notwendigkeit, die Rechte lokaler und indigener Gemeinschaften zu achten.

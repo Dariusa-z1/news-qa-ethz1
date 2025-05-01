@@ -1,5 +1,7 @@
 # robodance-zu-weihnachten
 
+**Source:** de_news_events/2014/12/robodance-zu-weihnachten.html
+
 ## Main article
 
 Seit zwei Jahren muss man sich vor Weihnachten in Acht nehmen: Die Roboter sind los! Sie treiben an der ETH Zürich und Umgebung ihr Unwesen – sie fällen Bäume, schleppen Geschenke durch die Gegend oder verteilen sie fliegend – stets autonom und scheinbar losgelöst von sämtlichen menschlichen Einflüssen.

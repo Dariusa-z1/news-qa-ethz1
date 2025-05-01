@@ -1,5 +1,7 @@
 # gegen-verschwendung-einfach-alles-aufessen
 
+**Source:** de_news_events/2015/04/gegen-verschwendung-einfach-alles-aufessen.html
+
 ## Ist Aufessen die Lösung?
 
 Es gibt viele Argumente dafür, dass wir die Verschwendung von Nahrungsmitteln reduzieren sollten. Aus ökologischer Sicht bedeutet Lebensmittelverschwendung auch Verschwendung begrenzter Ressourcen, insbesondere von Energie, Land und Wasser. Wenn wir 100g von einem Steak wegwerfen, dann verschwenden wir nicht nur 100g Fleisch, sondern zusätzlich 1‘400 Liter Wasser, und wir besetzen unnötigerweise einen Quadratmeter fruchtbares Land über ein ganzes Jahr. Aus ökonomischer Sicht verschwenden wir damit eine Menge Geld: Jeder Schweizer Haushalt wirft jährlich im Mittel 1‘500 bis 2‘500 Franken, die er im Supermarkt für Essen ausgegeben hat, in den Kübel. Aus ethischer Sicht verschwenden wir «das Brot der Armen». Mit den Lebensmitteln, die pro Schweizer weggeworfen werden, könnte das Kaloriendefizit von sechs unterernährten Menschen gedeckt werden. Und aus sozialer Sicht würdigen wir die in die Produktion investierte Arbeit von vielen, teilweise unterbezahlten Menschen nicht.

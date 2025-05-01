@@ -1,5 +1,7 @@
 # information-on-the-corona-regulations-of-the-eth-library-from-3-january-2022
 
+**Source:** en_internal/2021/12/information-on-the-corona-regulations-of-the-eth-library-from-3-january-2022.html
+
 ## Locations and access
 
 - Architecture and Civil Engineering Library including Self-Access Centre Hönggerberg: regularly open
@@ -53,8 +55,6 @@ Events are partly taking place on location. A 2G certificate requirement applies
 Face masks must be worn in all ETH buildings. This also applies to the study spaces. The social distancing and hygiene measures of the Federal Office of Public Health (FOPH) remain in place. Please bear this in mind when visiting the ETH Library.
 
 ## Staffnet
-
-You can also continue to make use of our digital resources and contact options . Please do not visit the library if you are feeling unwell.
 
 Any questions? The ETH Library will be happy to help.
 

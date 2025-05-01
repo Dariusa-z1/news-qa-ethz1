@@ -1,5 +1,7 @@
 # die-konferenz-des-lehrkoerpers-hat-einen-neuen-praesidenten
 
+**Source:** de_internal/2016/05/die-konferenz-des-lehrkoerpers-hat-einen-neuen-praesidenten.html
+
 ## Ein Ingenieur mit Flair für die Medizin
 
 Edoardo Mazza heisst der neue Präsident der Konferenz des Lehrkörpers ( KdL ). Die Gesamtkonferenz hat den Professor für Mechanik am Institut für Mechanische Systeme ( D-MAVT ) am 12. Mai 2016 für eine Amtszeit von zwei Jahren gewählt. Der Italiener übernimmt das KdL-Präsidium per 1. August 2016.

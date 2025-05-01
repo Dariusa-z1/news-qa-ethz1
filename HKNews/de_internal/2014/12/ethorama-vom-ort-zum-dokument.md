@@ -1,5 +1,7 @@
 # ethorama-vom-ort-zum-dokument
 
+**Source:** de_internal/2014/12/ethorama-vom-ort-zum-dokument.html
+
 ## Main article
 
 Wollen Sie wissen, wie sich Ihr Wohnort im Lauf der Zeit verändert hat, ob historische oder zeitgenössische Texte dazu vorhanden sind oder in welchen thematischen Bezügen er steht?

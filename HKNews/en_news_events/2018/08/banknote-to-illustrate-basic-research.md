@@ -1,12 +1,12 @@
 # banknote-to-illustrate-basic-research
 
+**Source:** en_news_events/2018/08/banknote-to-illustrate-basic-research.html
+
 ## Main article
 
 Professor Dissertori, CERN has just presented new findings on the Higgs boson – just as the Swiss National Bank (SNB) releases its new 200 franc note, an initiative in which you played a key role. Which is the bigger achievement in your opinion? Günther Dissertori: Having the chance to contribute to the design of a banknote has been an incredible and one-of-a-kind undertaking. It’s a great honour to have been asked to work with the SNB. I’ve very much enjoyed working with the graphic design team, who throughout the process showed a keen interest in the science behind the art on the new note.
 
 How did your colleagues at CERN and ETH react to your involvement? The reaction has been extremely positive. When the banknote was first displayed at CERN, many colleagues were pleasantly surprised.
-
-How did you come to be involved in designing the note? The SNB had laid down some broad themes for the new banknotes, one of which was the topic of science. At some point, I was contacted by the lead graphic designer on the project, Manuela Pfrunder; she wanted the new 200 franc note to depict a particle collision and the history of the universe. The hand with the three outstretched fingers representing the coordinate system was part of the design right from the initial sketches. That was the first I knew about the banknote.
 
 What has been your contribution? My role was to give concrete form to the graphic design team’s ideas – the best way to depict a particle collision or a particle detector, for instance. The front side of the note depicts the development of the universe, and I was heavily involved in the discussions around how best to summarise the most important time periods and moments in the universe’s history. On top of that, I also suggested which periods and numbers I thought should be included on the security strip.
 

@@ -1,5 +1,7 @@
 # weihnachtsapero-der-schulleitung-mit-stabsuebergabe
 
+**Source:** de_news_events/2014/12/weihnachtsapero-der-schulleitung-mit-stabsuebergabe.html
+
 ## Probleme beherzt angepackt
 
 Es war eine imposante Veranstaltung am Montagabend. Die gesamte Sporthalle des ASVZ in der Polyterrasse vermochten die Gäste zu füllen. Mehrere Kameras begleiteten den Abend – wer keinen Platz in den vorderen Reihen ergatterte, konnte das Geschehen auf den beiden grossen Leinwänden mitverfolgen. Die ETH Big Band sorgte für Stimmung, Professor Gerd Folkers führte als Moderator souverän durch die Reden.

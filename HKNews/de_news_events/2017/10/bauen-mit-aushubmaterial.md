@@ -1,5 +1,7 @@
 # bauen-mit-aushubmaterial
 
+**Source:** de_news_events/2017/10/bauen-mit-aushubmaterial.html
+
 ## Erdige Architektur
 
 Wenn der moderne Mensch ein Gebäude erstellt, dann erfolgt dies oftmals so: Er gräbt eine Grube, transportiert den Aushub mit Lastwagen ab und liefert dafür tonnenweise Sand, Kies und Zement heran. Das vermischt er mit Wasser zu Beton und bildet damit Fundament und Haus. Dieses bestückt er dann vornehmlich mit komplexer Gebäudetechnologie, um Einbussen an Komfort zu kompensieren.

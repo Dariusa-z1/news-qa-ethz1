@@ -1,5 +1,7 @@
 # den-quasiteilchen-auf-der-spur
 
+**Source:** de_news_events/2016/10/den-quasiteilchen-auf-der-spur.html
+
 ## Exzitonen und Polaronen
 
 Um Wetterphänomene zu verstehen und vorherzusagen, ist es wenig sinnvoll, das Verhalten von einzelnen Wassertröpfchen oder Luftmolekülen zu betrachten. Stattdessen sprechen Meteorologen (und auch Laien) von Wolken, Winden und Niederschlag – Objekte also, die sich aus dem komplexen Zusammenspiel kleiner Teilchen ergeben. Physiker, die sich mit optischen Eigenschaften oder der Leitfähigkeit von Festkörpern befassen, machen es ganz ähnlich. Auch hier sind kleinste Teilchen – Elektronen und Atome – für die verschiedensten Phänomene verantwortlich, doch ein aufschlussreiches Bild ergibt sich erst, wenn man viele von ihnen zu «Quasiteilchen» zusammenfasst.

@@ -1,5 +1,7 @@
 # townhall-zur-covid-19-situation-an-der-eth-zuerich
 
+**Source:** de_internal/2021/04/townhall-zur-covid-19-situation-an-der-eth-zuerich.html
+
 ## Angeregte Frage- und Antwortrunde
 
 1200 ETH-Angehörige haben sich am Mittwoch in die Townhall zu den aktuellen Covid-Massnahmen der ETH Zürich zugeschaltet. Fokus der Veranstaltung waren der Ausblick auf den kommenden Masterplan sowie die neue Testmöglichkeit auf dem Campus. Rektorin Sarah Springman begrüsste die Teilnehmenden im Namen der ganzen Schulleitung und ging in ihren Ausführungen auf die freiwilligen Präsenzangebote für Studierende ein. ETH-Taskforce-Leiter Ulrich Weidmann gab einen Ausblick auf die Massnahmen des neuen Masterplans, der kommenden Montag, 26. April in Kraft treten wird. Der Plan wird diesen Freitag publiziert und ändert für die meisten Mitarbeitenden wenig: Die Home-Office-Pflicht gilt bis auf Weiteres. Diese Tatsache macht vielen von uns auch in den nächsten Wochen zu schaffen. Der angespannten Situation ist sich auch Julia Dannath, Vizepräsidentin für Personalentwicklung und Leadership, bewusst. Sie betonte, wie wichtig die gegenseitige Unterstützung im Moment sei und zeigte Möglichkeiten auf, wie wir die Motivation weiter hochhalten können.

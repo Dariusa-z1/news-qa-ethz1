@@ -1,5 +1,7 @@
 # vom-datenset-zur-applikation--dank-deinem-beitrag
 
+**Source:** de_internal/2018/08/vom-datenset-zur-applikation--dank-deinem-beitrag.html
+
 ## None
 
 Am jährlichen Swiss Open Cultural Data Hackathon hast Du die Möglichkeit, Dich mit anderen Gleichgesinnten zusammenzutun und deine Programmierkünste spielen zu lassen. Der Hackathon findet dieses Jahr vom 26.-28. Oktober 2018 im Landesmuseum Zürich statt.

@@ -1,5 +1,7 @@
 # nachteile-von-punktueller-tropenwaldnutzung-unterschaetzt
 
+**Source:** de_news_events/2014/07/nachteile-von-punktueller-tropenwaldnutzung-unterschaetzt.html
+
 ## «Selective logging» als Deckmantel
 
 Holz von tropischen Bäumen ist wertvoll und wird daher gefällt. Nicht in jedem Fall geschieht dies im Rahmen einer Rodung ganzer Waldstücke, bei der auf einen Schlag wertvoller Lebensraum für Pflanzen und Tiere zerstört wird. Mancherorts gibt es in tropischen Regenwäldern auch eine Nutzung von Einzelbäumen – von Fachleuten auf Englisch als «selective logging» bezeichnet. Einzelne grosse, wertvolle Bäume werden dabei gefällt, der Wald bleibt ansonsten aber mehr oder minder intakt. Die Auswirkungen dieser Praxis auf die Biodiversität ist allerdings umstritten. Frühere Studien unterschieden kaum zwischen verschiedenen Intensitätsgraden des «selective logging».

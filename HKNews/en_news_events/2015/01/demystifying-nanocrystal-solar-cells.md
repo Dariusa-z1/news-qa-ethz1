@@ -1,5 +1,7 @@
 # demystifying-nanocrystal-solar-cells
 
+**Source:** en_news_events/2015/01/demystifying-nanocrystal-solar-cells.html
+
 ## Promising outlook thanks to quantum effects
 
 Scientists are focusing on nanometre-sized crystals for the next generation of solar cells. These nanocrystals have excellent optical properties. Compared with silicon in today’s solar cells, nanocrystals can be designed to absorb a larger fraction of the solar light spectrum. However, the development of nanocrystal-based solar cells is challenging: “These solar cells contain layers of many individual nano-sized crystals, bound together by a molecular glue. Within this nanocrystal composite, the electrons do not flow as well as needed for commercial applications,” explains Vanessa Wood, Professor of Materials and Device Engineering at ETH Zurich. Until now, the physics of electron transport in this complex material system was not understood so it was impossible to systematically engineer better nanocrystal-composites.

@@ -1,5 +1,7 @@
 # die-schluessel-zu-deiner-zukunft-lehrabschlussfeier-2024
 
+**Source:** de_internal/2024/07/die-schluessel-zu-deiner-zukunft-lehrabschlussfeier-2024.html
+
 ## Fachausbildung und Persönlichkeitsschulung zugleich
 
 - Kerim Erdogan

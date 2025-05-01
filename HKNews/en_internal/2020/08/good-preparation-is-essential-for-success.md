@@ -1,5 +1,7 @@
 # good-preparation-is-essential-for-success
 
+**Source:** en_internal/2020/08/good-preparation-is-essential-for-success.html
+
 ## Main article
 
 All events at ETH Zurich have been cancelled since March. How are you working at the moment? Since no events will take place through August, we're currently focusing on what things will look like starting in September. Because we have events that can't be postponed by a year, especially knowledge transfer events like academic conferences. Graduation and doctorate ceremonies are another example. This year nothing is going to take place like we imagined it, so we now need to find solutions. It's a great challenge for us to hold events that comply with all the safety measures while also generating the same emotional response in participants.

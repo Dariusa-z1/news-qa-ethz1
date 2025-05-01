@@ -1,5 +1,7 @@
 # breaking-down-plastic-into-its-constituent-parts
 
+**Source:** en_news_events/2022/03/breaking-down-plastic-into-its-constituent-parts.html
+
 ## Breaking down polymers is the goal
 
 The chemical industry has a long tradition of producing polymers. This involves turning small molecular building blocks into long chains of molecules that bond together. Polymers are the basis of all kinds of everyday plastics, such as PET and polyurethane.

@@ -1,5 +1,7 @@
 # bedrohte-feuerwerke-der-evolution
 
+**Source:** en_news_events/2014/11/bedrohte-feuerwerke-der-evolution.html
+
 ## Bedrohte Artenvielfalt auf Inseln
 
 Ein Viertel der globalen Pflanzenvielfalt findet man nur auf ozeanischen Inseln, und ebenso einmalig ist deren Tierwelt. Dies obwohl Inseln weniger als fünf Prozent der globalen Landfläche ausmachen und in geologischem Massstab sehr kurzlebig sind. Kaum haben diese Vulkangebirge die Meeresoberfläche erreicht und die Vulkanausbrüche soweit abgenommen, dass Leben möglich ist, werden sie von der Erosion bereits abgetragen und verschwinden bald wieder im Meer. Trotzdem erzählen Inseln tausendfach die Geschichte von Pflanzen und Tieren, die noch die entlegensten Landflächen im Meer erreichen, sich dort durch Evolution schnell neu anpassen und so einmalige Ökosysteme bilden. Es ist denn auch nicht verwunderlich, dass Inseln seit Charles Darwin’s Zeiten als einmalige Freilandlabors der Evolutionsbiologie und Ökologie gelten [1].

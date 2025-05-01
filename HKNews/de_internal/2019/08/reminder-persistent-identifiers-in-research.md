@@ -1,5 +1,7 @@
 # reminder-persistent-identifiers-in-research
 
+**Source:** de_internal/2019/08/reminder-persistent-identifiers-in-research.html
+
 ## Main article
 
 Es hat noch freie Plätze: Die Anmeldung läuft bis 31. August!

@@ -1,8 +1,8 @@
 # tueren-oeffnen-in-asien
 
-## Main article
+**Source:** de_news_events/2017/01/tueren-oeffnen-in-asien.html
 
-ETH-News: Herr Burkhard, wie kam es zum Engagement des Singapore-ETH Center (SEC) für kleinere und mittlere Schweizer Unternehmen? Remo Burkhard: Seit etwa drei Jahren erhalten wir am SEC immer mehr Anfragen von Schweizer Firmen, die nicht direkt forschungsbezogen sind. So wurden wir gebeten, unsere Erfahrung und Einschätzung zu einem Markteintritt in Asien zu teilen. Passen die Lösungen und Produkte solcher Unternehmen zu einem unserer beiden Forschungsschwerpunkte «Future Cities» oder «Future Resilience Systems», kann das Centre spezifisches Wissen und wichtige Kontakte vermitteln. Wir erkannten einen grösseren Bedarf und begannen mit einer Informationsveranstaltung in der Schweiz für interessierte Firmen. Viel positive Resonanz und die Erweiterung des Kreises um Vertreter der Schweizer Export- und Start-up-Förderung sowie der Start-up-Finanzierung zeigte uns, dass sich viele Firmen ein Bild der Situation vor Ort machen wollen - wobei mich etwas überraschte.
+## Main article
 
 Nämlich? Dass mehr als die Hälfte der Interessierten neben Singapur mehr zu Indonesien erfahren wollen. Deshalb führen wir nun Anfang März mit rund einem Dutzend Firmenvertretern eine Studienreise nach Singapur und Jakarta durch.
 

@@ -1,5 +1,7 @@
 # gross-schwer-und-massig-ist-seine-arbeitswelt
 
+**Source:** de_internal/2014/08/gross-schwer-und-massig-ist-seine-arbeitswelt.html
+
 ## Hohe Anforderungen an Personal
 
 Wer das HIF-Gebäude auf dem Hönggerberg betritt, trifft auf Superlative. Überall auf dem 4000 Quadratmetergrossen Boden verteilt stehen entweder Bauelemente oder Maschinen, mit welchen diese geprüft werden können. Hier ist das Arbeitsreich von Thomas Jaggi. Seit sieben Jahren arbeitet der ehemalige Strassenbau-Tiefbaupolier am Institut für Baustatik und Konstruktion. Zusammen mit einem Mechaniker, Technikern und Ingenieuren unterstützt er die Studierenden und Doktorierenden am Institut bei deren Versuchen.

@@ -1,5 +1,7 @@
 # satelliten-dna-spielt-schluesselrolle-bei-artbildung
 
+**Source:** de_news_events/2021/08/satelliten-dna-spielt-schluesselrolle-bei-artbildung.html
+
 ## Der Ursprung der Arten: DNA-Ausgabe
 
 Mehr als 10 Prozent unseres Genoms bestehen aus sich wiederholenden, scheinbar unsinnigen Abschnitten genetischen Materials, das als Satelliten-DNA bezeichnet wird. Diese trägt nicht einmal Baupläne für Proteine. Einige Wissenschaftler haben sie deshalb als «genetischen Müll» bezeichnet.

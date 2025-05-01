@@ -1,5 +1,7 @@
 # garage-im-hauptgebaeude-der-eth-zuerich-oeffnet-wieder
 
+**Source:** de_internal/2022/10/garage-im-hauptgebaeude-der-eth-zuerich-oeffnet-wieder.html
+
 ## Jetzt Parkplatz mieten
 
 Ab 7. November 2022 öffnet die Parkgarage im Hauptgebäude der ETH Zürich wieder ihre Schranken. Die Garage wurde seit dem Sommer 2021 saniert. Durch die Arbeiten konnten sowohl die Verkehrsführung als auch die Orientierung für die Nutzenden verbessert werden. Der hindernisfreie Zugang ist durchgängig gewährleistet.

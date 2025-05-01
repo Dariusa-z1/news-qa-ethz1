@@ -1,5 +1,7 @@
 # european-football-championship-eth-betting-game
 
+**Source:** en_internal/2021/05/european-football-championship-eth-betting-game.html
+
 ## Place your bets in ETH’s football challenge
 
 - Sign up and submit your picks on Point

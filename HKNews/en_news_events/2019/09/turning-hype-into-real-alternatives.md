@@ -1,5 +1,7 @@
 # turning-hype-into-real-alternatives
 
+**Source:** en_news_events/2019/09/turning-hype-into-real-alternatives.html
+
 ## Focus on the food chain
 
 “There’s no doubt that the idea of using insects as food in Europe has caused some hype. But we need to be careful not to exaggerate the benefits of this solution over other options,” says Alexander Mathys. Perhaps a surprising comment coming from an insect researcher, but this ETH Professor of Sustainable Food Processing has clearly done his homework.

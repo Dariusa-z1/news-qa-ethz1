@@ -1,5 +1,7 @@
 # qs-ranking-eth-zurich-takes-a-top-spot-thanks-to-long-term-investments-in-research-and-teaching
 
+**Source:** en_news_events/2023/06/qs-ranking-eth-zurich-takes-a-top-spot-thanks-to-long-term-investments-in-research-and-teaching.html
+
 ## Improvement also due to new methodology
 
 ETH Zurich’s confirmation of its standing as one of the world’s best universities in numerous university rankings year in, year out is something that we have almost grown accustomed to. This status has, once again, been borne out by the Quacquarelli Symonds (QS) World University Rankings, the most recent edition of which has just been published. Compared to the previous year, ETH Zurich has moved up two positions to take seventh place. University College London (UCL) and California Institute of Technology (Caltech) now rank behind the Swiss university. As has been the case for several years, Massachusetts Institute of Technology (MIT) claims the top spot. The University of Cambridge is in second place, now followed by the University of Oxford.

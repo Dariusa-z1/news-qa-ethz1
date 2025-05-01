@@ -1,5 +1,7 @@
 # the-holocaust-is-not-unimaginable
 
+**Source:** en_news_events/2015/01/the-holocaust-is-not-unimaginable.html
+
 ## Main article
 
 - Information on the workshops for school classes: www.afz.ethz.ch/educationandresearch/oralhistory/holocaust-commemoration-day/

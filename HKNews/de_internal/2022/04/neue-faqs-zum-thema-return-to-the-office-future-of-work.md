@@ -1,5 +1,7 @@
 # neue-faqs-zum-thema-return-to-the-office-future-of-work
 
+**Source:** de_internal/2022/04/neue-faqs-zum-thema-return-to-the-office-future-of-work.html
+
 ## Weitere Informationen
 
 - Flexibles Arbeiten
@@ -21,6 +23,4 @@ Dieser freiwillige Workshop kann von vorgesetzten Personen genutzt werden, um di
 ## Newsletter abonnieren
 
 Nun finden Sie auch diverse FAQs rund um das flexible Arbeiten, Homeoffice sowie mobiles Arbeiten auf der Webseite Flexibles Arbeiten - FAQs | ETH Zürich .
-
-Kontaktieren Sie bei Verständnisfragen zum Workshop-​Konzept die Abteilung Leadership & Development. Bei Fragen zu Regelungen und Rahmenbedingungen stehen Ihnen die HR Partner:in (Abteilung HR Beratung) gerne zur Verfügung.
 

@@ -1,5 +1,7 @@
 # call-for-nominations-diversit-award-2023
 
+**Source:** en_internal/2023/09/call-for-nominations-diversit-award-2023.html
+
 ## Promoting inclusion at every level
 
 - Organisations that advocate for underrepresented groups in the ETH community,

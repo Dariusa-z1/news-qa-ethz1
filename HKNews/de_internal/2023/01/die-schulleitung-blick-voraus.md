@@ -1,5 +1,7 @@
 # die-schulleitung-blick-voraus
 
+**Source:** de_internal/2023/01/die-schulleitung-blick-voraus.html
+
 ## Main article
 
 Wie bereits in den Vorjahren nutzten die Schulleitungs-Mitglieder der ETH Zürich auch diesen Jahresbeginn, um an einer Townhall für die Mitarbeitenden Bilanz über das Jahr 2022 zu ziehen und vorauszublicken auf jene Themen, die im neuen Jahr wichtig sein dürften.

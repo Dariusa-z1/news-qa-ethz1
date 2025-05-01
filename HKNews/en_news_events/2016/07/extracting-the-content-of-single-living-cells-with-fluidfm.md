@@ -1,5 +1,7 @@
 # extracting-the-content-of-single-living-cells-with-fluidfm
 
+**Source:** en_news_events/2016/07/extracting-the-content-of-single-living-cells-with-fluidfm.html
+
 ## Cells remain alive
 
 ETH researchers have developed a method using a nanosyringe whose tiny needle is able to penetrate single living cells and extract their content. The technology can be used for cell cultures, for example, in order to investigate the interior of the cells. This allows scientists to identify the differences between individual cells at the molecular level, as well as to identify and analyse rare cell types. “Our method opens up new frontiers in biological research. It is the start of a whole new chapter, so to speak”, says Professor Julia Vorholt from the Department of Biology.

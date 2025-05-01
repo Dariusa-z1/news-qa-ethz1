@@ -1,5 +1,7 @@
 # fokus-ernaehrung-was-in-die-regale-kommt
 
+**Source:** de_news_events/2013/09/fokus-ernaehrung-was-in-die-regale-kommt.html
+
 ## Main article
 
 Sibyl Anwander, Leiterin Nachhaltigkeit/Wirtschaftspolitik bei Coop, Michael Siegrist, Professor für Consumer Behavior, und Achim Walter, Professor für Kulturpflanzenwissenschaften an der ETH Zürich, geben Antworten.

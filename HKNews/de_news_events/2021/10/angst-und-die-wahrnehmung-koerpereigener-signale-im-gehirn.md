@@ -1,5 +1,7 @@
 # angst-und-die-wahrnehmung-koerpereigener-signale-im-gehirn
 
+**Source:** de_news_events/2021/10/angst-und-die-wahrnehmung-koerpereigener-signale-im-gehirn.html
+
 ## Angst und verzerrte Atemwahrnehmung
 
 Herzrasen, schnelle Atmung und schweissnasse Handflächen: das sind allesamt Symptome von Angst, mit denen das Gehirn den Körper auf eine mögliche Bedrohung vorbereitet. Diese normalen, flüchtigen Wahrnehmungen des menschlichen Körpers können bei Personen mit erhöhtem Angstpegel eine regelrechte Abwärtsspirale auslösen. Die Wahrnehmung körperlicher Veränderungen wie des Herzschlags und der Atmung verstärkt just jenes Angstgefühl, das diese Veränderungen erst hervorgerufen hat. Bisher war es aufgrund technischer Grenzen schwierig zu untersuchen, wo genau im Gehirn dieser Teufelskreis stattfindet – und wie er sich bei Menschen mit erhöhtem Angstpegel durchbrechen lässt. Nun konnten ETH-Forschende erstmals aufzeigen, wie sich bestimmte im Gehirn verarbeitete Körpersignale zwischen Menschen mit unterschiedlichen Angstpegeln unterscheiden.

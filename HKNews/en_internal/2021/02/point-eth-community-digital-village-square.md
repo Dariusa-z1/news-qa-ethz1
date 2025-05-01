@@ -1,5 +1,7 @@
 # point-eth-community-digital-village-square
 
+**Source:** en_internal/2021/02/point-eth-community-digital-village-square.html
+
 ## Born of necessity
 
 Isabelle Castagna from the ETH Sustainability team is co-initiator and project manager of “Point” (Image: ETH Zurich)
@@ -25,8 +27,6 @@ Hotline staff developed the idea of a virtual meeting platform together with ETH
 Various other contributors from a wide range of units, such as the Staff Commission, the Student Exchange Office, Corporate Communications, AVETH, VSETH and the Student Sustainability Commission (SSC), helped to define the platform’s profile and functionalities. Kristóf Sárosi from the SSC played a role in the development process, and emphasises that the suggestions and input from the project team were always gratefully received. He is justifiably proud when he says: “Many student groups have been waiting for this platform – and now we have it.” Sabine Hoffmann, who was able to share important experience on the part of the IT services, adds: “We’ve never had such a comprehensive platform for exchange. Now it’s up to us to make the most of what it has to offer.”
 
 We all have to play our part in breathing life into the platform – the more we use it, the more useful it will be to us as a result. At the same time, “Point” will keep on developing, as Castagna emphasises: “We have a long list of things we want to implement.” However, these changes cannot and should not take place overnight, but as part of an iterative process aligned with users’ needs. One of the new additions will be a forum function in which participants can discuss specific issues within a group; this should be launched in the foreseeable future. Any further ideas for the development of the platform are welcome.
-
-The long-term objective of the platform is that it will evolve into a hub for the ETH community as a whole, and a point of contact for networking and exchange long after the pandemic is a distant memory.
 
 (Image: ETH Zürich)
 

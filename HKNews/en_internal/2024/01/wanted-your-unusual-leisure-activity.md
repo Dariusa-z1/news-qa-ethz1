@@ -1,5 +1,7 @@
 # wanted-your-unusual-leisure-activity
 
+**Source:** en_internal/2024/01/wanted-your-unusual-leisure-activity.html
+
 ## Your leisure group in life
 
 For the spring issue of life magazine, we are looking for these and less unusual activities that ETH members do together. We would like to portray groups and networks that meet regularly for certain activities outside of work.

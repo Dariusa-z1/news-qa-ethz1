@@ -1,5 +1,7 @@
 # zwoelf-professorinnen-und-professoren-ernannt
 
+**Source:** de_news_events/2023/12/zwoelf-professorinnen-und-professoren-ernannt.html
+
 ## Neuernennungen
 
 (Bild: Ida Annersten)

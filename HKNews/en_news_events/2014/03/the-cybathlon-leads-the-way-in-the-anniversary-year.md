@@ -1,5 +1,7 @@
 # the-cybathlon-leads-the-way-in-the-anniversary-year
 
+**Source:** en_news_events/2014/03/the-cybathlon-leads-the-way-in-the-anniversary-year.html
+
 ## ETH and university compete for training room
 
 The Academic Sports Association of Zurich ( ASVZ ) will be 75 this year. It is celebrating its anniversary in various events and offerings for all members of the university and alumni.

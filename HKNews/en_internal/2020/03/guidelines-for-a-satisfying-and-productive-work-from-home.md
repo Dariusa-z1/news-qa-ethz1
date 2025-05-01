@@ -1,5 +1,7 @@
 # guidelines-for-a-satisfying-and-productive-work-from-home
 
+**Source:** en_internal/2020/03/guidelines-for-a-satisfying-and-productive-work-from-home.html
+
 ## #productivity
 
 - Have a designated work area and design it according to your needs, external pagehere are some tips.call\_made

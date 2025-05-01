@@ -1,5 +1,7 @@
 # start-up-bringt-umweltfreundliche-membran-auf-den-markt
 
+**Source:** de_news_events/2019/02/start-up-bringt-umweltfreundliche-membran-auf-den-markt.html
+
 ## Basis Wasserfilter
 
 Outdoor-Sport boomt, und mit ihm die Ausrüstungsbranche. Insbesondere atmungsaktive, wasserdichte Regenjacken werden stark nachgefragt, denn man will ja bei jedem Wetter draussen sein. Der Haken an der Sache ist, dass solche Kleidung meist mit Membranen ausgestattet wird, die umweltschädliche und gesundheitsgefährdende Fluorverbindungen enthalten.

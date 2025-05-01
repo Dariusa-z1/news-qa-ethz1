@@ -1,5 +1,7 @@
 # die-eth-zuerich-setzt-sich-fuer-2023-ein-energiesparziel
 
+**Source:** de_internal/2023/01/die-eth-zuerich-setzt-sich-fuer-2023-ein-energiesparziel.html
+
 ## Hohe Stromkosten bis mindestens 2025
 
 (Bild: Adobe Stock; Bearbeitung: ETH Zürich)

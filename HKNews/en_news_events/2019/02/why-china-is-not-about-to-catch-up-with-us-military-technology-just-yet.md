@@ -1,5 +1,7 @@
 # why-china-is-not-about-to-catch-up-with-us-military-technology-just-yet
 
+**Source:** en_news_events/2019/02/why-china-is-not-about-to-catch-up-with-us-military-technology-just-yet.html
+
 ## Complexity makes cyber espionage more difficult
 
 Could rivals of the United States easily imitate its advanced US weapon systems and thereby undermine its military technological superiority? Andrea Gilli from the NATO Defense College and Mauro Gilli from the Center for Security Studies at ETH Zurich have investigated this question and recently published their results in the academic journal International Security.

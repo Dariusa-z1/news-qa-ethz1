@@ -1,5 +1,7 @@
 # green-light-for-lisa
 
+**Source:** en_news_events/2024/01/green-light-for-lisa.html
+
 ## Main article
 
 The LISA (Laser Interferometer Space Antenna) mission to investigate gravitational waves in space has successfully completed the preliminary studies and testing phase. During this phase, the entire concept - from the technical specifications of the scientific instruments and operating system to the devices that will need to be built for use in space - was carefully scrutinized by experts as part of the Mission Adoption Review. On 25 January, following the review, the Science Programme Committee of the ESA (European Space Agency) officially confirmed that the technology is mature enough to continue developing the mission as planned. In other words, the mission got the “green light” to go ahead. The space antenna, which will be used to observe gravitational waves in space and thus detect collisions of supermassive black holes, for example, will be launched around 2035.

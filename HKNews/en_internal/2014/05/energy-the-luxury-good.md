@@ -1,5 +1,7 @@
 # energy-the-luxury-good
 
+**Source:** en_internal/2014/05/energy-the-luxury-good.html
+
 ## It is part of our lives
 
 - Swiss Federal Office of Energy  (2013). external pageAnalysis of Swiss energy consumptioncall\_made 2000 - 2012 broken by purpose of use.

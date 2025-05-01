@@ -1,5 +1,7 @@
 # eth-spinoff-spectroplast
 
+**Source:** de_news_events/2019/08/eth-spinoff-spectroplast.html
+
 ## Herstellung per Knopfdruck
 
 Irgendwann wollen sie Leben retten. Manuel Schaffner und Petar Stefanov vom ETH-Spinoff Spectroplast haben ein 3D-Druckverfahren entwickelt, mit dem erstmals hautverträgliches Silikon gedruckt werden kann. «Lang­fristig wollen wir damit medizinische Implantate anbieten», sagt Schaffner, der als CEO der Jungfirma amtet. «Und zwar nicht wie bisher in Standard­grössen, sondern personalisierte Produkte, die perfekt an den Patienten angepasst sind.»

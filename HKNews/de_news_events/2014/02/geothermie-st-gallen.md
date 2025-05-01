@@ -1,5 +1,7 @@
 # geothermie-st-gallen
 
+**Source:** de_news_events/2014/02/geothermie-st-gallen.html
+
 ## Suche nach alternativer Nutzung
 
 Die St. Galler Stadtwerke berichteten vor wenigen Tagen über die Ergebnisse der Tiefenbohrung. Aus dem Untergrund lässt sich mit ca. fünf Litern hundertgrädigem Wasser pro Sekunde nur gerade ein Zehntel der Wassermenge produzieren, die man sich als Minimalziel gesetzt hatte. Das ursprüngliche Betriebskonzept – heisses Wasser aus dem Untergrund für die Energiegewinnung zu fördern und mittels einer zweiten Bohrung wieder zurückzuführen – muss nun überdacht werden. In Relation zu den Kosten des Projektes von bislang rund 43 Millionen Franken ist das ein enttäuschender Befund.

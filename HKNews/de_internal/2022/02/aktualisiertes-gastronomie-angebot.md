@@ -1,5 +1,7 @@
 # aktualisiertes-gastronomie-angebot
 
+**Source:** de_internal/2022/02/aktualisiertes-gastronomie-angebot.html
+
 ## Wiedereröffnete Gastrobetriebe
 
 - bQm 14:00 - 22:30 Uhr

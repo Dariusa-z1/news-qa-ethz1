@@ -1,5 +1,7 @@
 # it-was-an-intensive-period-and-I-learned-a-lot
 
+**Source:** en_internal/2014/02/it-was-an-intensive-period-and-I-learned-a-lot.html
+
 ## More responsibility
 
 Agnes Rupacher has been an assistant in the Institute of Process Engineering for ten years. As a matter of fact, this young lady of 28 has already spent over a third of her life working for ETH. As soon as you enter her office, the half-Cypriot smiles at you from her desk. Stuck on the wall next to her are numerous postcards and souvenirs from visitors. There's also a diploma certificate - from an SAP course that she attended at ETH Zurich in 2006.

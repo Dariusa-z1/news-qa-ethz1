@@ -1,5 +1,7 @@
 # pr-botnar-research-centre-for-child-health
 
+**Source:** en_news_events/2018/09/pr-botnar-research-centre-for-child-health.html
+
 ## Transdisciplinary approach to research
 
 The BRCCH operating institutions are the University of Basel and ETH Zurich. The Research Centre’s network also includes partner institutions such as the University Children’s Hospital of Basel and the Swiss Tropical and Public Health Institute in Basel. It combines the expertise of both universities in systems biology, medicine and various areas of life sciences, engineering, social sciences and information technology that are relevant to health. With the results it produces, the BRCCH will help to prevent diseases, develop new treatment approaches, improve diagnoses and effectiveness forecasts, and make healthcare systems more affordable. The BRCCH aims to generate tangible results: “We want to have an impact on the lives of children and adolescents,” says Prof. Andrea Schenker-Wicki, Rector, University of Basel.
@@ -19,10 +21,4 @@ The Research Centre will begin its operational activities at the start of 2019 i
 ## Contact
 
 Fondation Botnar is a Swiss foundation based in Basel and established in 2003 to continue the philanthropic legacy of the Botnar family. The core purpose of the Foundation is to improve the health and wellbeing of children and young people in fast-growing urban environments around the world. Fondation Botnar acts as a catalyst, connecting diverse partners and investing in scalable artificial intelligence (AI) and digital innovations. Fondation Botnar is a member of SwissFoundations, the association of grant-making foundations in Switzerland. www.fondationbotnar.org
-
-ETH Zurich Media relations Phone +41 44 632 41 41
-
-University Basel Matthias Geering Head of Communication and Marketing Phone +41 61 207 35 75
-
-Fondation Botnar Kiara Jade Barnes Engagement and Communication Officer Phone +41 61 201 04 82
 

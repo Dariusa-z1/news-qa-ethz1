@@ -1,5 +1,7 @@
 # life-magazine
 
+**Source:** en_news_events/2013/10/life-magazine.html
+
 ## A standalone magazine
 
 With the release of a staff magazine and a future intranet, Internal Communications at ETH puts on a new face. "life", a magazine created from scratch for the ETH community will be published starting in October 2013. Aimed at the ETH workforce, be it employees in teaching, research or administration, the magazine will convey the strategy, values and qualities of ETH Zurich and inform the ETH community about how their university is developing as well as depict working environments and campus life.

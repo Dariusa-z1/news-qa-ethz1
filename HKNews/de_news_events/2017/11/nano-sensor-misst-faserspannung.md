@@ -1,5 +1,7 @@
 # nano-sensor-misst-faserspannung
 
+**Source:** de_news_events/2017/11/nano-sensor-misst-faserspannung.html
+
 ## Bakterium erkennt Spannung
 
 Bakterien können mit Hilfe eines «Nano-Klebers» an Gewebefasern anheften. Wie sie das tun, erforschte Viola Vogel, Professorin für Angewandte Mechanobiologie, vor wenigen Jahren mit Hilfe von Computersimulationen am CSCS ( externe Seite ETH Life berichtete). Die Forscher simulierten, wie der bakterielle Nano-Kleber – ein Peptidfaden, bestückt mit mehreren aneinandergereihten Bindungsstellen – an sogenannte Fibronektinfasern anhaftet. Diese Bindegewebefasern sind in Wunden durchtrennt. Sie sind Teil des fibrösen Netzwerks, in welche die Zellen eingebettet sind.

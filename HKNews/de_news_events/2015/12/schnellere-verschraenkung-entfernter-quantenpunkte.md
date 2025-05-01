@@ -1,5 +1,7 @@
 # schnellere-verschraenkung-entfernter-quantenpunkte
 
+**Source:** de_news_events/2015/12/schnellere-verschraenkung-entfernter-quantenpunkte.html
+
 ## Weit entfernte Quantenpunkte
 
 In vielen zukünftigen Informations- und Telekommunikationstechnologien wird wahrscheinlich die sogenannte Verschränkung, ein erstaunlicher Effekt der Quantenphysik, eine wichtige Rolle spielen. Die Verschränkung von zwei Quantenobjekten führt dazu, dass Messungen an einem der Objekte augenblicklich die Eigenschaften des anderen festlegen – ohne dass Informationen zwischen den beiden ausgetauscht wurden.

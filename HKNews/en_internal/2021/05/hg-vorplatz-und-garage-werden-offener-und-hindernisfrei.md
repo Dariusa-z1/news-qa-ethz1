@@ -1,5 +1,7 @@
 # hg-vorplatz-und-garage-werden-offener-und-hindernisfrei
 
+**Source:** en_internal/2021/05/hg-vorplatz-und-garage-werden-offener-und-hindernisfrei.html
+
 ## Adjustments during the renovation period
 
 Those who have recently been at the site will have already noticed some changes in front of the main building and, upon closer inspection, seen that the greenery around the forecourt is gone. This is part of the preparations for the forecourt construction project that will begin in June. To protect and preserve the hedges, they have been replanted near Villa-Hatt. New hedges will be planted once the renovation project is complete.
@@ -37,8 +39,4 @@ The underground garage has 37 artworks by Harald Naegeli, which is the largest s
 Construction Project ETH Main Buidling: www.ethz.ch/hg
 
 ETH Zurich suspends plans to renovate the Polyterrasse (Internal news: 26.01.2021)
-
-Questions about the construction project Real Estate Management OCT Binzmühlestrasse 130 8092 Zürich +41 44 632 78 30
-
-Contact Traffic Management / Advice on and selling of parking permits Campus Info Zentrum HG D 34.1 Rämistrasse 101 8092 Zürich +41 44 632 21 18
 

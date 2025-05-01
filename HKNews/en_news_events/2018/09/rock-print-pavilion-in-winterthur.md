@@ -1,5 +1,7 @@
 # rock-print-pavilion-in-winterthur
 
+**Source:** en_news_events/2018/09/rock-print-pavilion-in-winterthur.html
+
 ## Main article
 
 Thirty tonnes of loose stones, 120 kilometres of string – and a construction robot: the Rock Print Pavilion was built using nothing more than these three key elements. The temporary installation at Kirchplatz, in front of the Gewerbemuseum in Winterthur, is a research project run by Gramazio Kohler Research, the ETH Chair of Architecture an Digital Fabrication, and is part of the “Hello, Robot. Design between Human and Machine” exhibition.

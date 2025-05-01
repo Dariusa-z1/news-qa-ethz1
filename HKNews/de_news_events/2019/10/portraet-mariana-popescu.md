@@ -1,5 +1,7 @@
 # portraet-mariana-popescu
 
+**Source:** de_news_events/2019/10/portraet-mariana-popescu.html
+
 ## Materialverschleiss mindern
 
 Wer sich von Mariana Popescu und ihrer Arbeit ein Bild machen will, muss sich ein Stück weit von althergebrachten Vorstellungen lösen. Die Archi­tek­tin arbeitet zwar mit Strickwaren, aber in ihrem Projekt geht es nicht um Socken oder Pullover. «Wir wollen das Errichten von komplexen Betonbauten vereinfachen», sagt Popescu.

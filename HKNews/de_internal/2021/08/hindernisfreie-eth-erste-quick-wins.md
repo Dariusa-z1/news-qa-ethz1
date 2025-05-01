@@ -1,5 +1,7 @@
 # hindernisfreie-eth-erste-quick-wins
 
+**Source:** de_internal/2021/08/hindernisfreie-eth-erste-quick-wins.html
+
 ## Mission-Statement wird entwickelt
 
 In der Kategorie «Bauliches» wurde das Gebäude CHN an der Universitätsstrasse als erstes Pilotgebäude für einen hindernisfreien Umbau ausgesucht. Die dort notwendigen Anpassungen werden momentan geplant und ab 2022 vorgenommen: Dazu gehören beispielsweise Rampen, Lifte oder gut sichtbare Markierungen an Glastüren und Treppenstufen – ein wichtiger Garant für die barrierefreie Fortbewegung.

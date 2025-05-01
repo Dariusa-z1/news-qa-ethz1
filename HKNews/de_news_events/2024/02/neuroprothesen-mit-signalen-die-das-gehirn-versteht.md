@@ -1,5 +1,7 @@
 # neuroprothesen-mit-signalen-die-das-gehirn-versteht
 
+**Source:** de_news_events/2024/02/neuroprothesen-mit-signalen-die-das-gehirn-versteht.html
+
 ## In Kürze
 
 - Neuroprothesen sind elektromechanische Geräte, die mit dem Nervensystem verbunden sind. Noch können sie kein natürliches Gefühl erzeugen, sondern führen oft zu unangenehmen Missempfindungen, die sich wie ein Kribbeln auf der Haut anfühlen.

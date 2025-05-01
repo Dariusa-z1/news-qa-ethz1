@@ -1,5 +1,7 @@
 # simulation-booster-for-nanoelectronics
 
+**Source:** en_news_events/2019/11/simulation-booster-for-nanoelectronics.html
+
 ## Gordon Bell Prize for simulation booster
 
 Chip manufacturers are already assembling transistors that measure just a few nanometres across. They are much smaller than a human hair, whose diameter is approximately 20,000 nanometres in the case of finer strands. Now, demand for increasingly powerful supercomputers is driving the industry to develop components that are even smaller and yet more powerful at the same time.

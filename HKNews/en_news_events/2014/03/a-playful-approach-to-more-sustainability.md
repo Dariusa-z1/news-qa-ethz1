@@ -1,5 +1,7 @@
 # a-playful-approach-to-more-sustainability
 
+**Source:** en_news_events/2014/03/a-playful-approach-to-more-sustainability.html
+
 ## More vegetables and less PET
 
 The use of the word sustainability has been omnipresent for some years now. It has become difficult to find a business that does not have a sustainability or a corporate social responsibility concept. But what are initially good ideas for more energy efficiency and less consumption of resources often end up as paper tigers without a broad impact. Dominik Brem, ETH’s Environmental Officer, is convinced that this does not necessarily have to be the case: “Minor behavioural changes in day-to-day work are the key to promoting the sustainability of organisations. We want to encourage ETH employees and students to make them by triggering their ambition and nudging them towards improving their environmental balance as a team.”

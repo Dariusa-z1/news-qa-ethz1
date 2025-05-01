@@ -1,64 +1,60 @@
 # buildings-to-reopen-starting-3-august
 
+**Source:** en_internal/2020/07/buildings-to-reopen-starting-3-august.html
+
 ## Student workplaces are back
 
 The next stage of ETH Zurich's coronavirus master plan (3–30 August) reflects a cautious approach, relaxing restrictions where possible but maintaining a hard line where necessary. A key element of this stage is the reopening of university buildings to members of the ETH community (including handymen and guests) as well as to visitors of libraries, exhibitions and collections. The same opening hours as before the lockdown will be in place. The general public will continue to be denied access for the time being. Buildings not hosting any exams may remain closed if requested by an academic or administrative department.
 
-"August is all about session exams," explains Ueli Weidmann, Vice President for Infrastructure and head of the COVID-19 task force. There are over 600 written and 400 oral examinations that will be held in scattered locations, with the biggest exams concentrated in a few buildings. Reopening the buildings is a fundamental step for ensuring that session exams can take place in the most transparent and student-friendly way.
-
 ## Gradual return to the workplace
 
-The same student workplace areas that were available before the lockdown will be made accessible again so that students can prepare for their exams. The workplaces can be used starting on 3 August without the need to register in advance. However, due to social distancing rules, there will be fewer spaces available. Occupancy limits will be indicated at each area.
-
-August will also see the gradual return of ETH staff to the workplace. "People should return to the office gradually and vigilantly observe distancing and hygiene rules in the process. In August we will try out working together in person again, including involving colleagues who are still working remotely," says Weidmann. "Because even though we're aiming for a full return to the office in September, remote working arrangements will still continue to be part of our daily lives."
+"August is all about session exams," explains Ueli Weidmann, Vice President for Infrastructure and head of the COVID-19 task force. There are over 600 written and 400 oral examinations that will be held in scattered locations, with the biggest exams concentrated in a few buildings. Reopening the buildings is a fundamental step for ensuring that session exams can take place in the most transparent and student-friendly way.
 
 ## Making contract tracing possible
 
-According to Weidmann, supervisors are all bearing a special level of responsibility in these times. Supervisors must work together with their staff to draft written safety protocols for their teams that include how to follow physical distancing, hygiene and ventilation rules. Special rules also need to be developed for on-site and remote working arrangements, and it is expected that these rules will be in place until the end of the year at least. These team safety protocols also have to outline an occupancy or rotation plan for rooms – especially for open-plan offices – that do not allow for full simultaneous presence of the entire team due to space considerations. Additionally, supervisors must find individual solutions for team members that belong to at-risk groups.
-
-Weidmann advises employees working in the HIL and ONA buildings to exercise special caution when returning to the workplace, as those two buildings are host to large exams with numerous students. "Avoid taking breaks at times and places where students are waiting before their exams or exiting the exam rooms in large numbers," he says.
+The same student workplace areas that were available before the lockdown will be made accessible again so that students can prepare for their exams. The workplaces can be used starting on 3 August without the need to register in advance. However, due to social distancing rules, there will be fewer spaces available. Occupancy limits will be indicated at each area.
 
 ## Attendance lists for meetings, visitors
 
-"With life returning to the buildings, we're facing a big challenge when it comes to preventing gatherings of people," says Weidmann, urging everyone at ETH to do their part. Members of the ETH community should exercise special caution to avoid congregating in the corridors, at the entrance to exam rooms, and while waiting in line at dining facilities.
-
-Employees are being asked to stick to their teams and research groups as far as possible and to avoid mixing with colleagues from other teams and groups. This is to ensure that close contacts within ETH remain traceable in case of an outbreak.
+August will also see the gradual return of ETH staff to the workplace. "People should return to the office gradually and vigilantly observe distancing and hygiene rules in the process. In August we will try out working together in person again, including involving colleagues who are still working remotely," says Weidmann. "Because even though we're aiming for a full return to the office in September, remote working arrangements will still continue to be part of our daily lives."
 
 ## Travel to campus, catering services, sports
 
-Anyone chairing a meeting will be responsible for ensuring that minutes are kept with a list of all participants. In labs and workshops, a logbook should be kept recording occasional and exceptional occupancy, and anyone at ETH who receives visitors will have to keep a list with their names and contact information. No visitors will be allowed to be present in lounge and break rooms.
-
-These measures should help ensure that close contacts within ETH can be identified in case someone at the university falls ill with COVID-19. The Executive Board also strongly recommends that all members of the ETH community use the SwissCovid app as an additional tracing instrument.
+According to Weidmann, supervisors are all bearing a special level of responsibility in these times. Supervisors must work together with their staff to draft written safety protocols for their teams that include how to follow physical distancing, hygiene and ventilation rules. Special rules also need to be developed for on-site and remote working arrangements, and it is expected that these rules will be in place until the end of the year at least. These team safety protocols also have to outline an occupancy or rotation plan for rooms – especially for open-plan offices – that do not allow for full simultaneous presence of the entire team due to space considerations. Additionally, supervisors must find individual solutions for team members that belong to at-risk groups.
 
 ## Travelling abroad and entering Switzerland
 
-The Safety, Security, Health and Environment department has issued detailed guidelines on how to proceed in cases of infection. The guidelines cover who has to inform whom and when, which measures should be taken, and how contact tracing works in practice.
-
-As announced previously, the usual fees for ETH parking spaces will be reintroduced starting on 3 August. ETH still urges people to minimise health risks to themselves and others when travelling to campus, including observing mandatory mask rules on public transportation. People are encouraged to come to campus by foot, bicycle, motorcycle or car whenever possible.
+Weidmann advises employees working in the HIL and ONA buildings to exercise special caution when returning to the workplace, as those two buildings are host to large exams with numerous students. "Avoid taking breaks at times and places where students are waiting before their exams or exiting the exam rooms in large numbers," he says.
 
 ## Towards further reopening in September
 
-Catering services on the Zentrum and Hönggerberg campuses will be gradually stepped up. Up-to-date details are available on the Gastronomy website . It is mandatory to wear a mask while in enclosed waiting areas for catering services. This also applies to outdoor waiting areas if the personal distance of 1.5 metres cannot be observed.
-
-The ASVZ will resume sport activities with some restrictions and in accordance with the ASVZ safety protocol. Details are available on the ASVZ website .
+"With life returning to the buildings, we're facing a big challenge when it comes to preventing gatherings of people," says Weidmann, urging everyone at ETH to do their part. Members of the ETH community should exercise special caution to avoid congregating in the corridors, at the entrance to exam rooms, and while waiting in line at dining facilities.
 
 ## Further information
 
-The federal government has created an up-to-date list of countries with a high risk of infection. As of 6 July, anyone entering Switzerland from one of these areas is legally mandated to go into quarantine for ten days . Of course, this rules also applies to members of the ETH community, who will be required to wear a mask for the first four days of their return to campus.
-
-Anyone who knowingly travels to a high-risk country and is unable to work remotely during quarantine will have to use their working time credit to compensate for the working hours they miss. ETH employees can contact HR for more detailed information.
+As announced previously, the usual fees for ETH parking spaces will be reintroduced starting on 3 August. ETH still urges people to minimise health risks to themselves and others when travelling to campus, including observing mandatory mask rules on public transportation. People are encouraged to come to campus by foot, bicycle, motorcycle or car whenever possible.
 
 ## Subscribe to Newsletter
+
+Catering services on the Zentrum and Hönggerberg campuses will be gradually stepped up. Up-to-date details are available on the Gastronomy website . It is mandatory to wear a mask while in enclosed waiting areas for catering services. This also applies to outdoor waiting areas if the personal distance of 1.5 metres cannot be observed.
+
+## Staffnet
+
+The ASVZ will resume sport activities with some restrictions and in accordance with the ASVZ safety protocol. Details are available on the ASVZ website .
+
+The federal government has created an up-to-date list of countries with a high risk of infection. As of 6 July, anyone entering Switzerland from one of these areas is legally mandated to go into quarantine for ten days . Of course, this rules also applies to members of the ETH community, who will be required to wear a mask for the first four days of their return to campus.
 
 "Travelling to countries on the risk list should be avoided whenever possible," warns Weidman. ETH members must thoroughly weigh the risks and benefits of business trips to areas with an increased risk of infection. Trips that cannot be postponed must be approved by a supervisor, and no one can be forced to take such a trip. The Executive Board strongly advises students against travelling to high-risk countries for internships or study abroad programmes, appealing to their sense of responsibility.
 
 New employees travelling from high-risk countries to take up a post at ETH Zurich find themselves in a special predicament. In these cases, supervisors have to ensure that the person in question is observing the 10-day quarantine, that they have a suitable place to stay and that they are supplied with what they need for this period.
-
-## Staffnet
 
 "The list of high-risk countries is an example of how quickly the situation can change," cautions Weidmann. The task force will therefore continue reacting quickly if measures become necessary, which is why the Executive Board has approved a plan B – presented in a separate report – to complement the current master plan.
 
 While exam season in August currently enjoys the highest priority, attention will shift to the Autumn Semester starting in September. Life will continue to come back to campus with the return of employees. Events – currently banned through the end of August – will come back as well. When it comes to events, Weidmann warns that people should temper their expectations. "We expect to have a huge number of applications for events in the Autumn Semester," he says. "But at the same time, we have classes sometimes going on through the evenings, which will reduce the number of rooms available, and these rooms will also have reduced capacity."
 
 Permission for events will therefore be granted according to their importance, with events that are significant for ETH as a whole being given top priority. Events from the academic calendar – for instance, inaugural and farewell lectures – and knowledge-transfer events come next in the list. Only then will it be possible to consider holding public events and events with ETH partner institutions. "There will be some disappointments, but we'll be happy if we can start holding any events at all again in September," says Weidmann.
+
+Master plan – Corona: Return to “new normal” operations, Version 4, Stage 3.2.2 from 3–30 August 2020
+
+Guidelines for ETH staff – COVID-19: Communication of illness, dealing with close contacts and supporting contact tracing
 

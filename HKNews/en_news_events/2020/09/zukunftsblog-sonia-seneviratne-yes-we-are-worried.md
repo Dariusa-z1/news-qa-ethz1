@@ -1,5 +1,7 @@
 # zukunftsblog-sonia-seneviratne-yes-we-are-worried
 
+**Source:** en_news_events/2020/09/zukunftsblog-sonia-seneviratne-yes-we-are-worried.html
+
 ## Broader scope of the process
 
 In January, a verdict of the district court in Renens, close to Lausanne, led to a worldwide sensation: it acquitted 12 climate activists who had staged tennis matches in a Credit Suisse branch in November 2018. Their illegal but non-violent action alluded to the tennis icon Roger Federer who is sponsored by the major bank. The activists wanted to draw attention to the fact that Credit Suisse had continued to make substantial fossil fuels investments 1 after the Paris agreement was adopted in December 2015, and that in so doing had exacerbated the climate crisis. In the first hearing, 13 lawyers defended the activists pro bono, arguing that they had acted out of a “state of necessity” (état de nécessité), namely an emergency situation in which a person is forced to break the law to protect a higher good.
@@ -29,6 +31,10 @@ Many people, especially the young, believe that the voice of science is not list
 1 Swissinfo: Banks accused of massive fossil fuel investments
 
 2 Sonia Seneviratne in the Zukunftsblog: “Gletscher-Initiative”: Setting course towards 1.5°C
+
+3 Public statement from climate researchers
+
+Public statement from climate researchers (French)
 
 4 IPCC First Assessment Report 1990
 

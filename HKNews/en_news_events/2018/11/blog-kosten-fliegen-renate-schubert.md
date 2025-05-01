@@ -1,5 +1,7 @@
 # blog-kosten-fliegen-renate-schubert
 
+**Source:** en_news_events/2018/11/blog-kosten-fliegen-renate-schubert.html
+
 ## At the climate’s expense
 
 What about nipping to London at the weekend? Or a quick trip to New York for some Christmas shopping? We’re all too familiar with the temptation of cheap flights, but the truth is that flying endangers the global climate. Nonetheless, in most countries it’s so cheap to fly nowadays that people do so more than ever before. Just why is that?

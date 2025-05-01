@@ -1,5 +1,7 @@
 # raetsel-um-kern-des-mars-geloest
 
+**Source:** de_news_events/2023/10/raetsel-um-kern-des-mars-geloest.html
+
 ## In Kürze
 
 - Ein Jahr nach dem Ende der Mars-Mission InSight liefert die Analyse der aufgezeichneten Marsbeben in Kombination mit Computersimulationen noch immer neue Erkenntnisse.

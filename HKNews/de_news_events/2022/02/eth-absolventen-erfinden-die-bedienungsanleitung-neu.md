@@ -1,5 +1,7 @@
 # eth-absolventen-erfinden-die-bedienungsanleitung-neu
 
+**Source:** de_news_events/2022/02/eth-absolventen-erfinden-die-bedienungsanleitung-neu.html
+
 ## Aus dem Forschungslabor in die Industrie
 
 Drei Sachen haben David Shapira und Kordian Caplazi gemeinsam: Sie sind jung, sie haben einen ETH-Abschluss in der Tasche und sie wussten schon vor dem Studium, dass sie sich selbständig machen möchten. Den Traum der eigenen Firma haben sie sich mit der Gründung von Rimon Technologies im August 2020 erfüllt. Das Start-up ist so erfolgreich, dass im vergangenen Jahr bereits vier weitere Mitglieder zum Team gestossen sind.

@@ -1,5 +1,7 @@
 # neue-anlaufstelle-unterstuetzt-bei-konflikten-am-arbeitsplatz
 
+**Source:** de_internal/2024/07/neue-anlaufstelle-unterstuetzt-bei-konflikten-am-arbeitsplatz.html
+
 ## Die Neuerungen in Kürze
 
 - Die Respektstelle bietet Orientierung, wohin sich ETH-Angehörige mit ihren Fragen am besten wenden können. Angeboten werden auch Kurzzeit-Coachings für die Ratsuchenden. Die Beratung ist vertraulich.

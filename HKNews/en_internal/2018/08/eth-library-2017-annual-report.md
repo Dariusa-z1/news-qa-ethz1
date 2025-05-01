@@ -1,5 +1,7 @@
 # eth-library-2017-annual-report
 
+**Source:** en_internal/2018/08/eth-library-2017-annual-report.html
+
 ## Quiz on the Annual Report
 
 The Annual Report showcases this based on the various projects and activities we tackled in 2017. One of these projects, for instance, was the ETH Zurich’s Research Collection , developed and provided by ETH Library.

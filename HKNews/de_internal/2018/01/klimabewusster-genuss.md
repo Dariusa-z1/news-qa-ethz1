@@ -1,5 +1,7 @@
 # klimabewusster-genuss
 
+**Source:** de_internal/2018/01/klimabewusster-genuss.html
+
 ## CO2-Berechnungsmethoden vereinheitlichen
 
 - Sie berechnen den CO2-Fussabdruck ihres jährlichen Warenkorbs.

@@ -1,5 +1,7 @@
 # flu-viruses-disguised-as-waste
 
+**Source:** en_news_events/2014/10/flu-viruses-disguised-as-waste.html
+
 ## Capsid cracked open like a nut
 
 Viral infections always follow a similar course. The pathogen infiltrates the host cells and uses their replication and protein production machinery to multiply. The virus has to overcome the initial barrier by docking on the surface of the cell membrane. The cell engulfs the virus in a bubble and transports it towards the cell nucleus. During this journey, the solution inside the bubble becomes increasingly acidic. The acidic pH value is ultimately what causes the virus’s outer shell to melt into the membrane of the bubble.

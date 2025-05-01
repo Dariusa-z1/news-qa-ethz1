@@ -1,5 +1,7 @@
 # podcast-ai-climate-change
 
+**Source:** en_news_events/2020/05/podcast-ai-climate-change.html
+
 ## Main article
 
 This episode of the ETH podcast is about Lynn Kaack’s and David Dao’s work on the energy transition and forests, their work with the organisation Climate Change AI, and their take on research, activism and policy. We pushed back the podcast that had been produced before the lockdown due to our special series on COVID-​19 and have now supplemented it with current statements from the two researchers. Because we wanted to know what had changed for them.

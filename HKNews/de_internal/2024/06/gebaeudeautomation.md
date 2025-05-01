@@ -1,5 +1,7 @@
 # gebaeudeautomation
 
+**Source:** de_internal/2024/06/gebaeudeautomation.html
+
 ## Feldebene: Steuerbare Geräte und Sensoren
 
 Die Gebäudeautomation steuert wesentliche Aspekte der Haustechnik wie Heizung, Lüftung oder Beleuchtung mit dem Ziel, den energieeffizienten und sicheren Betrieb von Geräten und Systemen sicherzustellen und gleichzeitig das Raumklima zu optimieren. Da viele Steuerungsbefehle automatisiert ablaufen bzw. in Regelkreisen programmiert sind, spricht man von Gebäudeautomation.

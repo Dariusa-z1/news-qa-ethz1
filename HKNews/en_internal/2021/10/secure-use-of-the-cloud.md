@@ -1,5 +1,7 @@
 # secure-use-of-the-cloud
 
+**Source:** en_internal/2021/10/secure-use-of-the-cloud.html
+
 ## Am I generally allowed to use cloud services at ETH for internal and confidential data?
 
 - polybox: Storage space available to all ETH members. polybox also enables collaborative work on documents. Confidential data may be stored in polybox.
@@ -67,8 +69,6 @@ The regulations on cloud usage as set out in the IT Guidelines and IT Baseline P
 For this reason, it makes sense for service mediators to start reviewing the external cloud services they provide now to determine whether and to what extent they meet the requirements of the IT Guidelines and IT Baseline Protection Rules of ETH Zurich.
 
 ## Staffnet
-
-Meanwhile, if an information owner wishes to outsource confidential data to an existing external cloud service, they must contact the service provider to clarify whether this is possible and whether the external cloud service already meets the requirements of the IT Guidelines and IT Baseline Protection Rules of ETH Zurich. Outsourcing is then possible only once the information owner has carried out the above-mentioned assessment.
 
 For new external cloud services, the regulations in the IT Guidelines and IT Baseline Protection Rules of ETH Zurich apply with immediate effect.
 

@@ -1,5 +1,7 @@
 # ein-team-in-zuerich-fuer-das-lehr-und-forschungszentrum-in-heilbronn
 
+**Source:** de_internal/2024/07/ein-team-in-zuerich-fuer-das-lehr-und-forschungszentrum-in-heilbronn.html
+
 ## Aufgabe des Teams in Zürich
 
 Die Büros der Anlaufstelle für alle Fragen zum ETH Zürich Campus Heilbronn befinden sich im Hauptgebäude im D 59: Mit Agatha Keller, Romana Mayer und Silvio Bonaccio sorgen drei erfahrene ETH-Angehörige dafür, dass die Arbeiten zum Aufbau des neuen Lehr- und Forschungszentrums in Deutschland vorangetrieben werden.

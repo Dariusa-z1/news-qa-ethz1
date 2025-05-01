@@ -1,5 +1,7 @@
 # foerderung-des-wissenschaftlichen-nachwuchses
 
+**Source:** de_news_events/2014/05/foerderung-des-wissenschaftlichen-nachwuchses.html
+
 ## «ETH hat Vorreiterrolle»
 
 - sie talentierte junge Forschende aufgrund ihres akademischen Leistungsausweises und ihres wissenschaftlichen Potentials sowie unabhängig von Geschlecht, Nationalität und Herkunft gewinnt und fördert;

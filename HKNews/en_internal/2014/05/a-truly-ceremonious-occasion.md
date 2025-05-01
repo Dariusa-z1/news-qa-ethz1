@@ -1,5 +1,7 @@
 # a-truly-ceremonious-occasion
 
+**Source:** en_internal/2014/05/a-truly-ceremonious-occasion.html
+
 ## A day to remember
 
 For many students, the end of the spring semester also means the end of their time at ETH Zurich. Most of them will probably only set foot on campus one more time: for the Master's ceremony, which, depending on their department, may take place a good year after they finish studying.

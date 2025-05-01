@@ -1,8 +1,8 @@
 # nasa-insight-lander-has-retired
 
-## "A lifetime adventure"
+**Source:** en_news_events/2022/12/nasa-insight-lander-has-retired.html
 
-NASA’s InSight mission has ended after four years of collecting unique science on Mars. Mission controllers at the agency’s Jet Propulsion Laboratory in Southern California were unable to contact the lander after two consecutive attempts, leading them to conclude that the spacecraft’s solar-powered batteries have run out of energy – a state engineers refer to as “dead bus.”
+## "A lifetime adventure"
 
 NASA had previously decided to declare the mission over if the lander misses two communication attempts. The agency will continue to listen for a signal from the lander, just in case, but hearing from it at this point is considered unlikely. The last time InSight communicated with Earth was December 15.
 
@@ -12,9 +12,9 @@ Short for Interior Exploration using Seismic Investigations, Geodesy and Heat Tr
 
 “It has been a lifetime adventure for our Swiss team, initiated already in 1997,” says Prof. Domenico Giardini, head of the Mars team at ETH Zurich. “We contributed to InSight the seismometer electronics, project management, the design and daily operation of the Marsquake Service and we finally had the chance for amazing research, we have been very lucky in our life as scientific researchers to be able to participate in a successful planetary exploration mission.”
 
-## Insight-Mission
-
 The highly sensitive seismometer detected 1,318 marsquakes, including quakes caused by meteoroid impacts; the largest unearthed boulder-size chunks of ice late last year.
+
+## Insight-Mission
 
 Such impacts help scientists determine the age of the planet’s surface, and data from the seismometer provides scientists a way to study the planet’s crust, mantle, and core.
 

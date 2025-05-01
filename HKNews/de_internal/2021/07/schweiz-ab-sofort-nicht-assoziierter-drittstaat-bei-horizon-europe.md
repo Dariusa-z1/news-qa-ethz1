@@ -1,5 +1,7 @@
 # schweiz-ab-sofort-nicht-assoziierter-drittstaat-bei-horizon-europe
 
+**Source:** de_internal/2021/07/schweiz-ab-sofort-nicht-assoziierter-drittstaat-bei-horizon-europe.html
+
 ## Teilnahme an Verbundprojekten weiterhin möglich
 
 Wichtig für alle ETH-Forschenden: Als Teilnehmer aus einem nicht-assoziierten Drittstaat können sich Forschende und Innovatoren in der Schweiz weiterhin auf Ausschreibungen für Verbundprojekte bewerben, bei denen Drittstaaten teilnahmeberechtigt sind. Finanziert werden diese dann nicht durch die Europäische Kommission, sondern die Fördermittel für die Schweizer Beteiligung werden direkt vom Staatssekretariat für Bildung, Forschung und Innovation (SBFI) an die Schweizer Teilnehmenden vergeben. Voraussetzung ist, dass deren Projektanträge von der Europäischen Kommission oder der von ihr beauftragten Agentur als förderungswürdig beurteilt werden. Allerdings können Teilnehmende aus nicht-assoziierten Drittstaaten keine Koordinationsaufgaben in Verbundprojekten übernehmen.

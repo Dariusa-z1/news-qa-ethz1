@@ -1,5 +1,7 @@
 # thomas-meierhans-wins-the-alea-award
 
+**Source:** en_internal/2023/03/thomas-meierhans-wins-the-alea-award.html
+
 ## Videos of the ALEA Awards
 
 The winner of the 2023 ALEA Award is Thomas Meierhans. As manager of the metal workshop in the Department of Civil, Environmental and Geomatic Engineering, he is in charge of around seven technical staff and responsible for processing customer orders from research. Julia Dannath, Vice President for Personnel Development and Leadership presented the award to the beaming winner.

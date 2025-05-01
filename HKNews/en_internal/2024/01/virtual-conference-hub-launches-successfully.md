@@ -1,5 +1,7 @@
 # virtual-conference-hub-launches-successfully
 
+**Source:** en_internal/2024/01/virtual-conference-hub-launches-successfully.html
+
 ## Conference atmosphere in a familiar environment
 
 The Annual Meeting of the American Geophysical Union (AGU) is one of the world's largest conferences for earth and space sciences with over 25’000 participants. For the researchers at the Institute for Atmospheric and Climate Science (IAC), this event is one of the most important weeks of the year. Luna Bloin-Wibe is a PhD student in the Climate Physics research group at the IAC and would certainly not have been out of place at the last AGU meeting in San Francisco. Despite the opportunities to expand her network and advance her research, she and other members of the institute deliberately decided not to fly to America. Not an easy decision. AGU does offer live broadcasts of the lecture sessions and researchers can even present their own contributions virtually. However, this participation format lacks the usual supporting programme with panel discussions and workshops as well as the encounters with peers from all over the world. To compensate for this disadvantage, Bloin-Wibe and other IAC members decided to put together an alternative programme for the remote participants at the institute.

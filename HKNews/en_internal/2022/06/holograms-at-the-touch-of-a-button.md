@@ -1,5 +1,7 @@
 # holograms-at-the-touch-of-a-button
 
+**Source:** en_internal/2022/06/holograms-at-the-touch-of-a-button.html
+
 ## Main article
 
 Computer models of moving bodies form the basis of numerous areas of research: for automatic analysis and recognition of human activity (computer vision), work on animated avatars , research on soft robots or movement analysis.

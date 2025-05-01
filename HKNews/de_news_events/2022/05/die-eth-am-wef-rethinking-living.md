@@ -1,5 +1,7 @@
 # die-eth-am-wef-rethinking-living
 
+**Source:** de_news_events/2022/05/die-eth-am-wef-rethinking-living.html
+
 ## Zukunft gestalten – oder einfach mit ihr leben?
 
 Mit einem Zitat Albert Einsteins, «The important thing is not to stop questioning», leitet der ETH-Pavillon die Besucher:innen der Ausstellung in einen Raum, der Einsteins Worten Folge leistet. Auf den Bänken entlang den Wänden, auf Stühlen, Sesseln und Sofas liegen Kissen bedruckt mit Fragen zum und an das Leben. Der ETH-Pavillon gründet damit seine eigene Form des Pillow-Talks und lädt dazu ein, mitzudenken, mitzufragen und Antworten zu suchen.

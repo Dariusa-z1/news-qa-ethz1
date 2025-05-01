@@ -1,5 +1,7 @@
 # paul-bernays-lectures-2022-on-artificial-intelligence-and-mathematics
 
+**Source:** en_internal/2022/08/paul-bernays-lectures-2022-on-artificial-intelligence-and-mathematics.html
+
 ## Main article
 
 - Lecture 1, Wednesday, 31 August 2022, 5 pm: “Tour d’Horizon of Artificial Intelligence and Machine Learning today"

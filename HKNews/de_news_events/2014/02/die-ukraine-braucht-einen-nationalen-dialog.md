@@ -1,5 +1,7 @@
 # die-ukraine-braucht-einen-nationalen-dialog
 
+**Source:** de_news_events/2014/02/die-ukraine-braucht-einen-nationalen-dialog.html
+
 ## Main article
 
 ETH-News: Herr Grätz, ist mit der Flucht des Präsidenten Janukowitsch vom Sonntag der wichtigste Schritt für den Frieden in der Ukraine gemacht? Jonas Grätz: Sehr viele Menschen in der Ukraine sehen die Geschehnisse nach wie vor als Putsch. Im russischen Fernsehen, das besonders im Südosten des Landes geschaut wird, werden die neuen Autoritäten als Faschisten und Neonazis dargestellt. Eine neugewählte Regierung wird es sehr schwer haben, im gesamten Land Anerkennung zu finden.

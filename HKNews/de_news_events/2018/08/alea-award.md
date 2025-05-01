@@ -1,5 +1,7 @@
 # alea-award
 
+**Source:** de_news_events/2018/08/alea-award.html
+
 ## Die zwei weiteren Finalisten
 
 Laura Nyström mit dem Alea-Würfel. (Bild: Gianmarco Castelberg)

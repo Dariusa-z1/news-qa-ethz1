@@ -1,5 +1,7 @@
 # start-der-antarktisumrundung
 
+**Source:** de_news_events/2016/11/start-der-antarktisumrundung.html
+
 ## Wasserkreislauf im Fokus der ETH
 
 Jetzt geht’s los: Am 19. November sticht der russische Eisbrecher «Akademik Treshnikov» ab Bremerhaven in See. Ziel: Kapstadt. Zweck: Menschen und Geräte für die internationale Antarctic Circumpolar Expedition (ACE) des Swiss Polar Institute nach Südafrika zu schaffen. Von dort startet kurz vor Weihnachten die Expedition zu einer dreimonatigen vollständigen Umrundung des Südpols.

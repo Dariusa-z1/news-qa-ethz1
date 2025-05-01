@@ -1,5 +1,7 @@
 # in-der-werkstatt-des-riesen
 
+**Source:** de_news_events/2021/03/in-der-werkstatt-des-riesen.html
+
 ## Die Ingenieure und das Kreuz
 
 Auf den ersten Blick wähnt man sich in einer Schiffswerft irgendwo im Hafenareal Hamburgs: Eine weite Halle, Neonlicht und an der Decke ein Hängekran auf Schienen, der tonnenschwere Stahlelemente, Betonstützen und Holzbalken durch den Raum hievt. Dazu Schrauben, so lang und dick wie die Unterarme eines Erwachsenen, und Muttern mit dem Radius von Tellern – als wäre das hier die Werkstatt eines Riesen.
@@ -41,6 +43,8 @@ Mit Smartphones und Spiegelreflexkameras dokumentieren die Ingenieure das zerst�
 «Solche Daten zum Verhalten von Beton, Stahl und Holz in Extremsituationen können wir sonst nur in Regionen sammeln, in denen kürzlich ein Erdbeben oder ein Taifun getobt hat», sagt Galmarini. Er war selbst schon für das Schweizer Korps für Humanitäre Hilfe (SKH) in Erdbebengebieten. Doch selbst dort lasse sich die Dynamik der Materialien und der Konstruktion nicht in Slow Motion verfolgen, wie hier in der Bauhalle. «Das ist für uns wertvoll wie Gold!», sagt der Ingenieur euphorisch und wendet sich wieder der Inspektion der klaffenden Wunde im Beton zu.
 
 ## Keine Ausgabe verpassen
+
+Aktuelle Ausgabe als PDF lesen (PDF, 8.2 MB)
 
 Aktuelle Ausgabe online lesen
 

@@ -1,5 +1,7 @@
 # Public%20engagement%20of%20science
 
+**Source:** en_internal/2022/02/Public%20engagement%20of%20science.html
+
 ## Main article
 
 Since 2021, the University Library of Southern Denmark (SDU Library) has hosted the university's Citizen Science Knowledge Center. The mission of the Knowledge Center is to achieve sustainable change towards open science and to initiate projects aimed at breaking down traditional barriers between research professionals, faculty, and other educational sectors. By initiating projects in collaboration with the public, including new and established media, the goal is to help researchers manage projects and enable them to collect data and conduct high-quality, ethical, community-based research.

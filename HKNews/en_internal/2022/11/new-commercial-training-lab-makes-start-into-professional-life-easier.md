@@ -1,5 +1,7 @@
 # new-commercial-training-lab-makes-start-into-professional-life-easier
 
+**Source:** en_internal/2022/11/new-commercial-training-lab-makes-start-into-professional-life-easier.html
+
 ## Aiming for independence
 
 What do I need to consider when writing a business e-mail? What’s the best way to answer the phone? What tools can help me to organise my tasks and ongoing topics?

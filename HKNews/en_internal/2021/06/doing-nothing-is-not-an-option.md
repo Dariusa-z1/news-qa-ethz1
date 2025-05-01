@@ -1,5 +1,7 @@
 # doing-nothing-is-not-an-option
 
+**Source:** en_internal/2021/06/doing-nothing-is-not-an-option.html
+
 ## Main article
 
 Jan and Zeljko, did you volunteer for the rETHink project, or were you approached first? Zeljko: First I received an enquiry, and then I volunteered – so “yes” on both counts!
@@ -9,8 +11,6 @@ Jan: It was the same with me. I was asked nicely, and who can say no to that?
 Zeljko: But joking aside – we were delighted to be asked to participate.
 
 Did you also have a few reservations? Jan: I had to think it over initially. When I received the enquiry I was still head of department. My workload, combined with the onset of coronavirus, was pretty demanding and I was already looking forward to getting back to a more normal work schedule. Although I was well aware that my involvement in rETHink would be equally time consuming, I still felt I should answer the call of duty.
-
-Zeljko: I was actually on holiday when Ueli Weidmann contacted me. So I was a bit more relaxed about the consequences for my workload, and quickly agreed to sign up. But I was certainly aware of the potential time pressures and discussed this with the head of department. He supported my decision in the full knowledge that it could potentially leave me with less time to devote to other tasks.
 
 What’s your motivation for becoming involved in rETHink? Jan: In my capacity as department head, I was very conscious of the pressures of this role. I talked a lot with colleagues about ways of making this position more efficient. Around this time, our president, Joël Mesot, launched the initiative and Ueli approached me. ETH is such a unique and wonderful place. Improving it even further and preserving all its positive aspects is my main motivation for working on the project.
 

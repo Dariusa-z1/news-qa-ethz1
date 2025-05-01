@@ -1,5 +1,7 @@
 # cultural-site-and-pionieering-construction-from-a-3d-printer
 
+**Source:** en_news_events/2021/06/cultural-site-and-pionieering-construction-from-a-3d-printer.html
+
 ## Digital building technology in a mountain village
 
 The village of Mulegns is located on the Julier Pass road, and has just 16 inhabitants. The aim of the project is to bring in culture and revitalise the area. This plan is the brainchild of Giovanni Netzer, theatre director and founder of the Origen cultural festival. To this end, his foundation had an old villa relocated, reopened a hotel and is now having a tower printed using white concrete.

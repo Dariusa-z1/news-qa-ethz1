@@ -1,5 +1,7 @@
 # at-the-interface-of-physics-and-mathematics
 
+**Source:** en_news_events/2022/01/at-the-interface-of-physics-and-mathematics.html
+
 ## Symmetry is the key
 
 “I got hooked on the interplay of physics and mathematics while I was still at high school,” says 30-year-old Sylvain Lacroix, who was born and grew up near Paris. “It was fascinating to learn abstract mathematical concepts and see them neatly applied in the realm of physics.” During his studies at the École Normale Supérieure de Lyon, he devoted much of his energy and enthusiasm to physics problems that had highly complex underlying mathematical structures. So when it came to selecting a topic for his doctoral thesis, this area of research seemed like the obvious choice. He decided to explore the theory of what are known as integrable models – a subject he has continued to pursue up to the present day.

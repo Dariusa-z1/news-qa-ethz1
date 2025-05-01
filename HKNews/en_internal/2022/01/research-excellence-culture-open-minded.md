@@ -1,5 +1,7 @@
 # research-excellence-culture-open-minded
 
+**Source:** en_internal/2022/01/research-excellence-culture-open-minded.html
+
 ## Main article
 
 Discussions about values often remain vague. To stimulate the discussion about the five cultural values of ETH – diversity, openness, responsibility, team spirit, and excellence – members of AVETH have designed an exercise that describes each value as a fictional character. Ms. Offenheit for example keeps an open detailed Outlook calendar for everyone in her group and shares her thoughts, including criticism.

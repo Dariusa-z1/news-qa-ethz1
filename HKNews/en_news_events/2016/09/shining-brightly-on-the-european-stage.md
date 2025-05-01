@@ -1,5 +1,7 @@
 # shining-brightly-on-the-european-stage
 
+**Source:** en_news_events/2016/09/shining-brightly-on-the-european-stage.html
+
 ## Leading the way in a range of disciplines
 
 Six scientists from ETH Zurich have triumphed at the prestigious competition for Starting Grants from the European Research Council (ERC). Each will now receive around CHF 1.6 million in funding to advance their research projects. In total, more than CHF 9.3 million will go to researchers who designed their projects at ETH Zurich. The six talented young researchers come from research fields as diverse as visual computing, health science, and quantum optics, but all have one thing in common: scientific excellence.
@@ -29,6 +31,4 @@ Antti Knowles is interested in the theory of random matrices. These are mathemat
 The European Union wants to reduce CO 2 emissions in the electricity sector by 93–99% by 2050. Johan Lilliestam , Senior Assistant and Lecturer at the Institute for Environmental Decisions, is researching how the energy sector can make the transition to a fully renewable electricity system. In his ERC project, he plans to investigate to what extent this aim and other energy policy objectives – such as lower demand or increased competition in the electricity market – influence each other. To this end, he is analysing where these goals conflict and how other objectives impact the cost of a renewable electricity system and the behaviour of key market participants. The results should help shape conflict-free energy policies to enable a successful European transition to renewables.
 
 The European Research Council (ERC) awards these grants to promote independent young scientists of any nationality, with two to seven years of experience following completion of their doctorate and who have highly promising scientific careers. The decisive criterion for awarding the grant is the submission of an outstanding research project undertaken at a public or private research organisation in an EU member state or an associated country. Up to CHF 1.5 million in funding is awarded over five years.
-
-ETH Zurich Media relations Phone +41 44 632 41 41
 

@@ -1,5 +1,7 @@
 # horizon-2020-open-research-data-ab-2017
 
+**Source:** de_internal/2016/08/horizon-2020-open-research-data-ab-2017.html
+
 ## Main article
 
 Geförderte Forschende müssen den offenen Zugang zu den Daten sicherstellen, die ihren Publikationen zugrunde liegen. Zusätzlich müssen sie für Open Access zu weiteren Forschungsdaten ihrer Wahl sorgen. Ein 'Opt out' bleibt möglich.

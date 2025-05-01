@@ -1,5 +1,7 @@
 # wie-stationaere-batterien-am-besten-foerdern
 
+**Source:** de_news_events/2016/06/wie-stationaere-batterien-am-besten-foerdern.html
+
 ## Eine Batterie und viele Anwendungen
 
 Batterien können helfen, grosse Mengen an Wind- und Solarenergie ins Stromnetz zu integrieren. Trotzdem setzen die meisten Länder solche Batterien heute nur selten ein. Ein Grund dafür sind die noch hohen Technologiekosten, die Batterien für Investoren wenig attraktiv erscheinen lassen. Zwar könnten Subventionen wie bei Photovoltaik und Windenergie durchaus Investitionsanreize schaffen und Batterien mittelfristig vergünstigen, allerdings werden solche Politikmassnahmen oft teuer – Deutschland hat alleine in 2013 rund 19 Milliarden Euro in für erneuerbare Energien ausgegeben. Wir zeigen, dass solch hohe Subventionen bei Batterien nicht unbedingt notwendig sind. Denn Batterien haben einen entscheidenden Vorteil.

@@ -1,5 +1,7 @@
 # 21-bis-27-oktober-open-access-week-2013-an-der-eth-zuerich
 
+**Source:** de_internal/2013/10/21-bis-27-oktober-open-access-week-2013-an-der-eth-zuerich.html
+
 ## Main article
 
 Besuchen Sie uns an unseren Ständen und informieren Sie sich über die Open-Access-Policy der ETH Zürich sowie die Open-Access-Strategien wichtiger Forschungsförderer:

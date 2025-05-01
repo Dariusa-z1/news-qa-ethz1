@@ -1,5 +1,7 @@
 # zurueck-in-den-neuen-normalbetrieb
 
+**Source:** de_internal/2022/03/zurueck-in-den-neuen-normalbetrieb.html
+
 ## Maskenempfehlung bis Ostern
 
 Nachdem der Bundesrat die besondere Lage auf Ende Monat aufgehoben hat, kehrt die ETH Zürich zu einem neuen Normalbetrieb zurück. Die Schulleitung hebt sämtliche Pandemie-Regelungen, die im aktuellen Masterplan aufgeführt sind, per 1. April auf. Damit gelten auf dem Campus der Hochschule wieder die gleichen Regeln wie ausserhalb.

@@ -1,5 +1,7 @@
 # School-children-benefit-from-preventive-malaria-treatment
 
+**Source:** en_news_events/2020/10/School-children-benefit-from-preventive-malaria-treatment.html
+
 ## Main article
 
 In several regions affected by the tropical disease malaria there are programmes in schools to preventively treat children with antimalarial drugs. An international consortium of researchers, including Michael Zimmermann, Professor of Human Nutrition at ETH Zurich, has now for the first time analysed the effectiveness of such programmes in a meta-analysis using individual data. The scientists evaluated data from 11 clinical trials, involving more than 15,000 children in seven countries in sub-Saharan Africa.

@@ -1,18 +1,16 @@
 # its-wonderful-to-be-able-to-have-a-positive-impact
 
-## Ombuds Office
+**Source:** en_internal/2023/09/its-wonderful-to-be-able-to-have-a-positive-impact.html
 
-Ms Leuthold, you’ve been an ombudswoman at ETH since 2018. What was your original motivation for taking on the job? Margrit Leuthold: I was interested in the position because you come into contact with the whole spectrum of ETH members, from students to professors. It was also a way I could give something back to ETH. I’ve worked at this institution for a total of 16 years in three different roles and I’ve always seen that as a huge privilege. I was also close to retirement when I was asked, and I thought a gentle transition would do me good.
+## Ombuds Office
 
 You were familiar with an ombudswoman’s responsibilities. But did anything still surprise you when you took office? The issues that came up were much more diverse than I’d expected. I was surprised that in many cases it wasn’t even about finding a solution. Often people seeking advice are just happy to have someone to open up to in confidentiality and to help them reflect on their situation. I had been prepared for many more complex and difficult situations because the role was always being mentioned in media reports back then. That has calmed down a bit in recent years. The extra internal sources of support seem to be slowly having an effect.
 
 If there’s a need for more listening, does that mean we at ETH don’t talk to each other enough? People at ETH talk a lot [laughs]. It’s more about situations where you feel emotionally stuck or don’t know how to come up with a solution on your own. You might not want to talk about it with your work colleagues. But you might still want someone to talk to who knows the institution and can help contextualise the situation. These are also often people from different cultures, who have different values and whose family and friends are not in Zurich.
 
-Ombudspersons offer a sympathetic ear to ETH Zurich members in difficult situations. They are a general contact if you’re having a conflict or problem that you can’t resolve yourself, or if you think you’ve observed legally improper behaviour, whether you’re the affected person or a witness. Ombudspersons are independent and treat all information as strictly confidential.
+Ombudspersons are selected by the Executive Board on nomination by the University Assembly in accordance with the ETH Zurich Organisation Ordinance.
 
 ## Margrit Leuthold
-
-Ombudspersons are selected by the Executive Board on nomination by the University Assembly in accordance with the ETH Zurich Organisation Ordinance.
 
 The current ombudspersons aside from Margrit Leuthold are emeritus ETH professor of architecture Annette Spiro, mediator Jonas Nakonz, and solicitor Kathrin Teuscher.
 

@@ -1,5 +1,7 @@
 # fellows-des-collegium-helveticum-gewaehlt
 
+**Source:** de_internal/2016/08/fellows-des-collegium-helveticum-gewaehlt.html
+
 ## Main article
 
 An seiner Sitzung vom 12. Juli 2016 hat das Kuratorium des Collegium Helveticum die Fellows für die nächste Fellowperiode bestimmt, die vom 1. Oktober 2016 bis Ende 2020 dauert und dem Schwerpunktthema Digital Societies gewidmet ist. Gewählt wurden aus 26 hochkarätigen Bewerbungen sieben Professorinnen und Professoren der ETH Zürich, der Universität Zürich sowie der Zürcher Hochschule der Künste.

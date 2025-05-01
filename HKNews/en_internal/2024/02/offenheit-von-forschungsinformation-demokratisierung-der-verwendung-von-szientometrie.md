@@ -1,5 +1,7 @@
 # offenheit-von-forschungsinformation-demokratisierung-der-verwendung-von-szientometrie
 
+**Source:** en_internal/2024/02/offenheit-von-forschungsinformation-demokratisierung-der-verwendung-von-szientometrie.html
+
 ## Main article
 
 - Greeting by Prof. Dr Ulrich Weidmann, Vice President for Infrastructure ETH Zurich

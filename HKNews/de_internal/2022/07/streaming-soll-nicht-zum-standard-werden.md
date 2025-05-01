@@ -1,5 +1,7 @@
 # streaming-soll-nicht-zum-standard-werden
 
+**Source:** de_internal/2022/07/streaming-soll-nicht-zum-standard-werden.html
+
 ## Main article
 
 Günther Dissertori, weshalb sollen ETH-Dozierende wieder vor allem in Präsenz zu unterrichten?

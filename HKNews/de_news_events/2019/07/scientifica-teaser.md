@@ -1,5 +1,7 @@
 # scientifica-teaser
 
+**Source:** de_news_events/2019/07/scientifica-teaser.html
+
 ## Main article
 
 Vieles, womit sich Wissenschaftlerinnen und Wissenschaftler an der ETH und der Universität Zürich tagtäglich befassen, tönt nach Science Fiction. Manches könnte aber in Zukunft als selbstverständlich gelten. An der Scientifica präsentieren Ihnen Forschende an Ausstellungsständen, in Workshops, Kurzvorlesungen und vielen weiteren Veranstaltungen ihre Projekte und Konzepte. Und diskutieren mit Ihnen die Konsequenzen für die Gesellschaft.

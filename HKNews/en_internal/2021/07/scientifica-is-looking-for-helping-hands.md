@@ -1,5 +1,7 @@
 # scientifica-is-looking-for-helping-hands
 
+**Source:** en_internal/2021/07/scientifica-is-looking-for-helping-hands.html
+
 ## New locations, wider range
 
 Scientifica celebrates its tenth anniversary this year. In 2011, ETH Zurich and the University of Zurich invited the public for the first time to exchange ideas with researchers in the two main buildings. Whether at exhibition stands, in short lectures, science cafés or workshops: The enthusiasm of the scientists was transferred to the public. The university science festival grew over the years, attracting over 20,000 visitors each time. The exhibition became correspondingly crowded at times.
@@ -19,8 +21,6 @@ In order for Scientifica to take place, the project team has to overcome a new h
 ## Staffnet
 
 For these and many other tasks, the project team is looking for volunteers to help out on Saturday, 4 September and/or Sunday, 5 September. Whether you are an employee or a student, if you would like to experience Scientifica from a different perspective and get involved in this great event, you have the opportunity to do so this year.
-
-ETH employees who would like to volunteer should contact directly. She is responsible for planning the volunteers and will be happy to answer any questions you may have. As a thank-you, all volunteers are invited to a thank-you dinner with all participants.
 
 Students receive CHF 25 per hour for their help. You can register in the helper pool: Instructions for registering in the helper pool . They will also be invited to the thank-you dinner.
 

@@ -1,5 +1,7 @@
 # viele-studierende-brauchen-fuehrung
 
+**Source:** de_internal/2020/07/viele-studierende-brauchen-fuehrung.html
+
 ## Weitere Informationen
 
 Herr Wüest, Ihre Abteilung organisiert den Lehrbetrieb. Die Corona-Krise hat diesen auf den Kopf gestellt. Den Abschluss Ihrer Amtszeit haben Sie sich wohl anders vorgestellt… Wüest: Ja, Anfang März kam ein Punkt, an dem ich merkte, dass ich dieses letzte Halbjahr ganz anders erleben werde, als ich dachte. Dass alles noch einmal neu wird. Im April hätte ich aus- serdem an der Curling-Senioren-WM in Kanada mitgespielt, das wäre ein Highlight gewesen. Auch das ging bachab. Das alles war eine mentale Umstellung, die ziemlich tief gegangen ist.
@@ -8,29 +10,27 @@ Wie hat sich Ihre Arbeit verändert? Wüest: Seit März beschäftige ich mich pr
 
 Und mittendrin hören Sie als Leiter der Akademischen Dienste auf – das klingt, als würde man aus dem fahrenden Zug springen… Wüest: Das ist schon speziell. Es ist auf der einen Seite ein ungutes Gefühl, jetzt einfach mitten in der Krise auszusteigen und die anderen machen zu lassen. Auf der anderen aber auch eine Erleichterung, dass diese zehrende Situation für mich ein Ende hat.
 
-Herr Lehner, wie ist es für Sie, in voller Fahrt einzusteigen? Lehner: Es ist recht anspruchsvoll. Den grössten Teil lerne ich jetzt halt gleich «on the job», in der Krise. Der Vorteil: Man lernt die Leute fast besser kennen, weil man sehr schnell Lösungen finden und dadurch sehr intensiv zusammenarbeiten muss.
-
 ## Magazin «life»
 
-Sie erfahren es an der Front: Wie verändert Corona die Lehre? Wüest: Was jetzt geschehen ist, entspricht nicht unserer Vorstellung der idealen Lehre. Wir sind eine überzeugte Präsenz- universität. Dass die digitale Welt hilft, die Lehre zu verbessern, steht ausser Frage. Aber die Krise hat uns über Nacht zu Umstellungen gezwungen. Lehner: Wir mussten und konnten wegen der Krise sehr viele Konzepte ausprobieren. Wenn wir Glück haben, beschleunigt das die Digitalisierung der Lehre. Nicht indem das eine das andere ersetzt, sondern indem die digitalen Formen den Präsenzunterricht ergänzen, sodass die Vorteile von beiden Welten zum Tragen kommen. Etwa indem der Stoff online jederzeit verfügbar ist und die Dozierenden den persönlichen Kontakt für Vertiefungen, Fragen und Diskussionen nutzen können. Wüest: Trotz allem habe ich den Eindruck, dass klassische Formen noch lange Bestand haben werden. Wir haben sehr unterschiedliche Studierende – auch solche, die viel Unterstützung und Führung benötigen. Formen, die viel Selbstständigkeit erfordern, sind auch sehr anspruchsvoll. Ein erstes Semester, das nur noch aus Lehrformen bestehen würde, bei welchen man die Lerninhalte selber erarbeiten muss und in sogenannten Flipped Classrooms in der Vorlesung übt, das kann ich mir nicht vorstellen. Ein grosser Teil der Studierenden würde dabei scheitern.
+Herr Lehner, wie ist es für Sie, in voller Fahrt einzusteigen? Lehner: Es ist recht anspruchsvoll. Den grössten Teil lerne ich jetzt halt gleich «on the job», in der Krise. Der Vorteil: Man lernt die Leute fast besser kennen, weil man sehr schnell Lösungen finden und dadurch sehr intensiv zusammenarbeiten muss.
 
 Wohin soll sich die Lehre entwickeln? Lehner: Ich stimme Dieter Wüest zu, der digitale Unterricht kann den Hörsaal nicht ersetzen, aber ergänzen. Digitale Mittel können darüber hinaus dazu beitragen, dass die Lehre der ETH Zürich für möglichst viele zugänglich ist. Ich würde mir wünschen, dass der digitale Teil des Unterrichts möglichst offen gestaltet ist, sodass grundsätzlich jede und jeder Zugang haben kann. In meinen Augen ist das ein Auftrag der ETH.
 
 Welche Projekte stehen zuoberst auf Ihrer Liste? Lehner: Die Lehrbetriebs-Applikationen. Sie sollen künftig nicht mehr nur auf den operativen Betrieb fokussieren, wie das Erfassen von Noten oder die Belegung von Kursen, sondern Studierenden, Dozierenden und der Administration im Alltag auch Analysen und Auswertungen ermöglichen. Ein weiterer Punkt ist die Skalierbarkeit des Lehrbetriebs. Dieser muss für immer mehr Studierende funktionieren. Dazu gehören nicht nur Applikationen, sondern auch Unterrichtsräume oder Stundenraster. Wüest: Früher waren Applikationen wichtige Werkzeuge. Heute sind Informatiksysteme Umgebungen, in denen sich die ganze Lehre abspielt, wie in einem Campus. In der momentanen Corona-Situation umso mehr. Kurse finden dort statt, alle Daten sind dort, und alle Prozesse laufen darin ab. Der Schritt von einer Sammlung von Tools hin zu einem integrierten digitalen Campus, der steht aber noch an.
 
-Herr Wüest, welche Momente bleiben Ihnen nach 16 Jahren am stärksten in Erinnerung? Wüest: Das eine Highlight aus den letzten 16 Jahren gibt es nicht. Fast die grösste Befriedigung ist eigentlich, dass uns über die ganze Zeit immer gelungen ist, von grossen Pannen verschont zu bleiben. Wir waren immer bereit, und es hat funk- tioniert, wenn wir grosse Neuerungen durchgeführt haben.
-
 ## Staffnet
+
+Herr Wüest, welche Momente bleiben Ihnen nach 16 Jahren am stärksten in Erinnerung? Wüest: Das eine Highlight aus den letzten 16 Jahren gibt es nicht. Fast die grösste Befriedigung ist eigentlich, dass uns über die ganze Zeit immer gelungen ist, von grossen Pannen verschont zu bleiben. Wir waren immer bereit, und es hat funk- tioniert, wenn wir grosse Neuerungen durchgeführt haben.
 
 Was waren schwierige Momente in Ihrer Arbeit? Wüest: Immer wenn es um Personelles ging. Wir mussten zum Beispiel Teams auflösen, und es gab Mitarbeitende, für die wir neue Lösungen suchen mussten. Das bleibt einem leider fast am stärksten in Erinnerung.
 
 Sie haben beide selber an der ETH studiert. Wie war das Studium damals im Vergleich zu heute? Lehner: Die Orientierung im Studium war viel einfacher. Es war relativ klar, wie man ein Studium beginnt, wie es verläuft und wie man es abschliesst. Heute gibt es sehr viel mehr Möglichkeiten und Optionen, die das Studium komplex machen. Wüest: Ja, das stimmt. Der Übergang zu Bologna – zum Bachelor- und zum Masterstudiengang – hat das Studium sehr viel dichter gemacht. Davor gab es auch einmal ein Semester- ende ohne Prüfungen. Das gibt es heute nicht mehr. Und wenn man einmal nicht besteht, kann man das zeitlich fast nicht mehr aufholen. Deshalb gibt es heute auch mehr Studierende, die nicht in der Regelstudienzeit abschliessen. Selbst Studierende mit guten Noten brauchen heute oft länger. Allein schon deshalb, weil es so viele unterschiedliche Fächer zu belegen gibt. Ich weiss nicht, ob das Studium schwieriger geworden ist, aber es ist ganz sicher dichter geworden.
 
+## Newsletter abonnieren
+
 Und wie hat sich die ETH verändert? Wüest: Ich habe den Eindruck, es ist alles vielschichtiger geworden. Wir haben eine unglaubliche Kadenz von Initiativen, Projekten und Weiterentwicklungen, die von allen Seiten lanciert werden. Ich spüre an der ETH auch eine Erwartungshaltung, dass man möglichst viele Ideen weiterverfolgt. Ich begrüsse dieses «Machertum». Und wir waren selber auch bei vielen Projekten beteiligt. Als umsetzende Abteilung ist das aber nicht immer einfach zu stemmen.
 
 Herr Lehner, worauf wollen Sie Ihre Arbeit konzentrieren, was ist Ihnen wichtig? Lehner: Unsere Aufgabe ist es, für Studierende, Dozierende und die Administration einen möglichst effizienten Alltag zu ermöglichen und einen guten Service zu bieten. Wir brauchen eine Digitalisierung des Lehrbetriebs, die unsere Studierenden und Mitarbeitenden unterstützt und die Komplexität reduziert – durch Automatisierung, dort wo es sinnvoll ist. Sodass jeder sich auf das konzentrieren kann, was wichtig ist.
-
-## Newsletter abonnieren
 
 Was motiviert Sie für die Stelle, die Sie antreten? Lehner: Mich treibt die Passion für die Lehre an, das tut sie schon lange. Ich komme aus der Informatik – sehe diese aber immer als Wegbereiter und Werkzeug an. Wir arbeiten mit Menschen für Menschen, darum geht es.
 

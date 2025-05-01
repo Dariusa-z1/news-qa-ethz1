@@ -1,5 +1,7 @@
 # business-in-the-hww-open-their-doors
 
+**Source:** en_internal/2017/05/business-in-the-hww-open-their-doors.html
+
 ## For mind, body...
 
 Living on campus as well as studying there dramatically reduces your commute, yet mobility remains a key issue for campus residents. That's why Zurich startup Ego Movement has set up shop in the HWW, offering E-Bikes and a variety of other bike-related services. Visitors will get the chance to test the E-Bikes at the open day, which the HWW service providers are organising together on 17 May. ETH members can also bring along their own bikes for an affordable spring overhaul.

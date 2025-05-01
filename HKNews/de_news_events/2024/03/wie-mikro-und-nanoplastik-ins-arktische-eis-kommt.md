@@ -1,5 +1,7 @@
 # wie-mikro-und-nanoplastik-ins-arktische-eis-kommt
 
+**Source:** de_news_events/2024/03/wie-mikro-und-nanoplastik-ins-arktische-eis-kommt.html
+
 ## Neue Eigenschaften durch Zerkleinerung
 
 «Beat the Micro Bead» heisst eine 2012 initiierte Kampagne, mit dem Ziel, den Einsatz von Mikroplastik in Kosmetikprodukten zu reduzieren, um negative Auswirkungen auf Umwelt und Menschen einzudämmen. Für Alice Pradel war die Kampagne ein Weckruf. «Als junge Umweltwissenschaftlerin war ich schockiert, dass wir all diese Chemikalien in die Umwelt bringen, ohne uns dafür zu interessieren, was damit passiert», erinnert sie sich. Etwa zur gleichen Zeit machten Bilder vom «Great Pacific garbage patch» die Runde, vom riesigen Müllteppich inmitten des Pazifiks, der zu grossen Teilen aus Plastikabfällen besteht und zum Sinnbild für den anthropogenen Plastikexzess wurde. Im Jahr 2020 wurden weltweit rund 400 Millionen Tonnen Plastik produziert; neun Prozent davon wurden rezykliert, 12 Prozent verbrannt – und der gesamte Rest landet auf Mülldeponien, in der Umwelt oder im Meer.

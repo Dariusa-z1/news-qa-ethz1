@@ -1,5 +1,7 @@
 # engagiert-bis-zum-letzten-tag-dieter-schorno-geht-in-pension
 
+**Source:** de_internal/2016/06/engagiert-bis-zum-letzten-tag-dieter-schorno-geht-in-pension.html
+
 ## Anerkennung und Beachtung
 
 «Man braucht Überzeugungen, wenn man etwas erreichen will, denn allein schafft es keiner», sagt Dieter Schorno. «Die Freiheit, die mir die ETH in meiner Arbeit gewährt hat, war die eine Motivation, um die ETH-Berufsbildung weiterzuentwickeln», sagt Schorno, «zum anderen ist es eine grossartige und wertvolle Aufgabe, wenn man jungen Menschen eine Plattform für ihr Leben geben kann.»

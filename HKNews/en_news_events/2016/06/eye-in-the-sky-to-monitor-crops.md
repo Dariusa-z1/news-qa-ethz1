@@ -1,5 +1,7 @@
 # eye-in-the-sky-to-monitor-crops
 
+**Source:** en_news_events/2016/06/eye-in-the-sky-to-monitor-crops.html
+
 ## Inspired by televised football matches
 
 Driving towards the ETH Institute of Agricultural Sciences’ Research Station in Lindau-Eschikon, near Zurich, a series of tall masts immediately catches the eye and raises the question: what purpose could they possibly serve? Researchers from the Crop Science Group at ETH Zurich have now revealed their secret. On Friday 10 th June, they held a small ceremony to launch a global first: an innovative crop phenotyping system that transfers sophisticated research capabilities from the lab to the field.

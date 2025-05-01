@@ -1,5 +1,7 @@
 # tair-die-datenbank-zur-pflanze-arabidopsis-thaliana
 
+**Source:** de_internal/2021/09/tair-die-datenbank-zur-pflanze-arabidopsis-thaliana.html
+
 ## Main article
 
 Die Arabidopsis thaliana, auch als Ackerschmalwand bekannt, ist eine kleine einjährige Pflanze aus der Familie der Kreuzblütler. Sie gilt in der Pflanzenforschung als die wichtigste Modellpflanze, obwohl sie recht unscheinbar ist. Ihr Genom wurde vollständig sequenziert und ist mittlerweile das am besten annotierte Pflanzengenom.

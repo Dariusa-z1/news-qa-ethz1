@@ -1,5 +1,7 @@
 # agil-in-die-zukunft-mit-den-neuen-id-product-centern
 
+**Source:** de_internal/2024/03/agil-in-die-zukunft-mit-den-neuen-id-product-centern.html
+
 ## Die Lösung: agil aufgestellte Product Center
 
 - zentrale Koordinations- und Wissenspunkte schaffen.
@@ -33,6 +35,4 @@ Das wichtigste Element bei der neuen Zusammenarbeit ist, dass agile Teams mit Mi
 In unserer agilen Arbeitsweise ist die aktive Mitarbeit unserer Kund:innen ein zentraler Bestandteil. Diese Involvierung kann in unterschiedlichen Ausprägungen stattfinden. So können Kund:innen ihre Bedürfnisse über geeignete Kanäle einbringen oder sich auch direkt an der Produktentwicklung beteiligen. Je nach Art der Involvierung können die entsprechenden Bedürfnisse schneller und umfassender umgesetzt werden.
 
 Wir freuen uns darauf, diese gemeinsame Reise mit unseren Mitarbeitenden und Kund:innen anzutreten und zusammen zu innovativen, massgeschneiderten, aber auch effizienten Lösungen zu gelangen.
-
-Weitere Informationen und Kontakte finden Sie in unserem .
 

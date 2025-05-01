@@ -1,5 +1,7 @@
 # six-professors-at-eth-zurich-appointed
 
+**Source:** en_news_events/2015/07/six-professors-at-eth-zurich-appointed.html
+
 ## Appointments at ETH Zurich
 
 Upon application of the President of ETH Zurich, Professor Lino Guzzella, the ETH Board appointed a total of six individuals as professors, took note of the resignation of one professor and thanked her for her services, and awarded the title of professor to one individual.
@@ -35,8 +37,6 @@ Ankit Singla. (Photo: Ankit Singla)
 Ankit Singla (*1986) , currently a doctoral student at the University of Illinois, Urbana-Champaign, USA, as Tenure Track Assistant Professor of Computer Science. Presently in the process of completing his doctorate, Ankit Singla is regarded as a promising talent. His research interests are in the areas of networked connectivity, computer networks and data centres. Ankit Singla's applications focus on internet architecture and network topologies, with particular regard to the efficiency of infrastructures and the speed of protocols. He links the classic areas of high-performance computing with new methods of protocol design and networks.
 
 John C. Reed. (Photo: Roche)
-
-Dr John C. Reed (*1958) , Member of the Enlarged Corporate Executive Committee of Roche, as Adjunct Professor at ETH Zurich. John C. Reed is a renowned cell biologist and cancer specialist with an outstanding network of contacts. Ideally embodying the strategic goals of the Department of Biology in the area of personalised medicine, he will be instrumental in entrenching this promising field at ETH Zurich.
 
 Professor Stefanie Bailer (*1973) , currently Assistant Professor of Global Governance, is leaving ETH Zurich with effect from 31 October 2015. Stefanie Bailer was appointed to ETH Zurich in 2009. Her research interests include decision-making processes at the European and international level. Stefanie Bailer has been appointed Professor of Political Science at the University of Basel.
 

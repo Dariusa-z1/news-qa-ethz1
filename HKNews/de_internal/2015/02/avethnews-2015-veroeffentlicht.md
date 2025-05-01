@@ -1,5 +1,7 @@
 # avethnews-2015-veroeffentlicht
 
+**Source:** de_internal/2015/02/avethnews-2015-veroeffentlicht.html
+
 ## Main article
 
 Zu Beginn jedes Jahres gibt die AVETH (Akademische Vereinigung des Mittelbaus der ETH Zürich) die AVETHnews heraus, den Jahresbericht der AVETH. Hierin informiert die AVETH über die Aktivitäten und Veranstaltungen des vergangenen Jahres und gibt einen Ausblick auf das kommende Jahr.

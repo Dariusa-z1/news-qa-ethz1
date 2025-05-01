@@ -1,5 +1,7 @@
 # challenging-times-session-exams-in-the-coronavirus-era
 
+**Source:** en_internal/2020/07/challenging-times-session-exams-in-the-coronavirus-era.html
+
 ## Reducing infection risk
 
 More than 600 written exams with up to 900 candidates and around 400 oral exams with up to 130 candidates comprise the session examinations, which will be held at ETH Zurich from 3–28 August. A tremendous challenge in pandemic times: The exams need to be organised so that participants can adhere to safety measures and the health of students is not jeopardised at any time.

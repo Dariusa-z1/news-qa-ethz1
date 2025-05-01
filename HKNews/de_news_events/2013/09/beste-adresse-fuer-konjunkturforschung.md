@@ -1,5 +1,7 @@
 # beste-adresse-fuer-konjunkturforschung
 
+**Source:** de_news_events/2013/09/beste-adresse-fuer-konjunkturforschung.html
+
 ## Main article
 
 Gleich zu Beginn seines Gastreferates erwähnte Bundesrat Johann Schneider-Ammann das Bonmot «Glaube keiner Statistik, die du nicht selbst gefälscht hast!». Dass dies nicht stimme, beweise die Konjunkturforschungsstelle der ETH (KOF), denn Statistiken seien besser als ihr Ruf, und ihre Notwendigkeit sei unbestritten. Der Vorsteher des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung betonte, dass die KOF in ihrer 75-jährigen Geschichte eine herausragende Rolle gespielt habe: «Mit ihren Prognosen und Analysen hat sie die Konjunkturpolitik der Schweiz beeinflusst und so eine wichtige Rolle bei der wirtschaftspolitischen Entwicklung des Landes gespielt.» Die Relevanz der KOF sehe man auch darin, dass sie von ursprünglich 5 auf derzeit rund 70 Mitarbeitende gewachsen sei.

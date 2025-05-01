@@ -1,5 +1,7 @@
 # spark-award-2018
 
+**Source:** en_news_events/2018/03/spark-award-2018.html
+
 ## Multidisciplinary team
 
 How can inventions from such different areas as medicine, biology and computer science be compared with each other? After intensive discussion, the Spark Award jury chose the standardised bacterial mix developed by Tomas de Wouters and a group of fellow researchers to stabilise the intestinal ecosystem. “This discovery shows the success of multidisciplinary collaboration,” said Detlef Günther, ETH Vice President Research and Corporate Relations, yesterday during his speech in front of some 200 guests in the Audimax. “Their application has great market potential and can be further developed in the near future.”

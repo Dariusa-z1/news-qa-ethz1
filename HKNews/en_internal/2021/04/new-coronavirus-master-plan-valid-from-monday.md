@@ -1,5 +1,7 @@
 # new-coronavirus-master-plan-valid-from-monday
 
+**Source:** en_internal/2021/04/new-coronavirus-master-plan-valid-from-monday.html
+
 ## More face-to-face options for students
 
 As already announced in the Internal News and at last week’s town hall meeting, the ETH Executive Board has updated the university’s coronavirus master plan. This is in response to the Federal Council relaxing certain rules last week. The new plan comes into effect this Monday 26 April and only contains minimal changes compared with the existing document. The rules have been relaxed mainly with students in mind.

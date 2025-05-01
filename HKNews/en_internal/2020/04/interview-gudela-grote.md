@@ -1,5 +1,7 @@
 # interview-gudela-grote
 
+**Source:** en_internal/2020/04/interview-gudela-grote.html
+
 ## Take part in the study
 
 ETH has been in emergency mode for several weeks now, and for most of us, this means working from home. How are we coping with the situation? Are we still managing to work efficiently? Can we still stay connected with our colleagues despite the distance?

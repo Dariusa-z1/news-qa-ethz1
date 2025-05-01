@@ -1,5 +1,7 @@
 # talent-und-teamgeist-als-herz-der-kuenstlichen-intelligenz
 
+**Source:** de_news_events/2021/10/talent-und-teamgeist-als-herz-der-kuenstlichen-intelligenz.html
+
 ## ETH AI Center neu mit über hundert Forschenden
 
 - Benjamin Dillenburger (D-ARCH)

@@ -1,5 +1,7 @@
 # hirnstimulation
 
+**Source:** de_news_events/2019/06/hirnstimulation.html
+
 ## Mit Viren ins Hirn
 
 Auf dem Netz finden sich Videos, deren Inhalte sich im Gedächtnis festsetzen. Ein Mann sitzt mit einer Fernsteuerung in der Hand auf dem Sofa. Offensichtlich ist er an Parkinson erkrankt: Seine Hände und Arme zittern und beben. Dann hebt er die Fernsteuerung an seine Brust, drückt einen grauen Knopf – und das Zittern lässt fast augenblicklich nach.

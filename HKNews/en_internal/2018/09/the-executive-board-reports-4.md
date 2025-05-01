@@ -1,5 +1,7 @@
 # the-executive-board-reports-4
 
+**Source:** en_internal/2018/09/the-executive-board-reports-4.html
+
 ## Developing online communication
 
 - The “Young Talent” category will recognise the best projects from apprentices and secondary school students up to the age of 20. Nominations for this category are carried out in cooperation with “Schweizer Jugend forscht” and “Young Enterprise Switzerland”, which promotes potential entrepreneurs in secondary schools.

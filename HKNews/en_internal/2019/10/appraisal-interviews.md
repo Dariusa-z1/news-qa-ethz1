@@ -1,5 +1,7 @@
 # appraisal-interviews
 
+**Source:** en_internal/2019/10/appraisal-interviews.html
+
 ## Main article
 
 Many complain that annual appraisal interviews are tedious, meaningless and do nothing to help organisations. Are they even fit for purpose any more? People are often critical of them, but I think we should actually use that feedback as an opportunity to improve them. Appraisal interviews should be tailored to each individual, and carried out thoughtfully and with respect – otherwise, they will end up being perceived as superfluous or just another routine task. But a valuable discussion is always worthwhile.
@@ -7,8 +9,6 @@ Many complain that annual appraisal interviews are tedious, meaningless and do n
 Wouldn’t it be better for people to receive feedback from their manager or managers throughout the year, rather than just once towards the end of the year? I think we need to have both real-time, concrete feedback and an annual appraisal interview, as the appraisal contains elements that are often lacking in the other discussions. It allows you to reflect on your working behaviour over a longer period of time – and if you’re a manager, it lets you gain feedback from your staff and the chance to discuss development opportunities together.
 
 Does ETH have any guidelines on whether and how to conduct appraisal interviews? Yes – the ETH Personnel Ordinance (PersO-ETH) stipulates that managers must carry out an appraisal interview at least once a year. It also stipulates that the interview should take stock of how things stand, include support measures and assess performance. Moreover, the interview is intended to give staff an opportunity to provide feedback on leadership behaviour. This applies to all those who have a contract subject to the PersO-ETH; in other words, both administrative staff and most academic staff, including doctoral students.
-
-What should I do if my manager fails to schedule an interview? You should ask them to organise one and, if necessary, remind them that it is part of their responsibility as a manager to do so. If that still doesn’t work, you can also contact the HR department. Is it useful to grade staff performance? The most important part is the discussion itself and the thoughtful feedback tailored to each individual. As a manager, you should focus on developing your staff rather than adopting a primarily critical stance. You should also think about how your employee’s strengths can be put to even better use and how you can make progress together. A single grade is not a thorough assessment.
 
 But at the end of the day, everything still revolves around the final grade that is sent to the HR department, doesn’t it? No. The interview is the real priority – that grade merely provides a classification and should not be the main focus of the appraisal. That’s not to say that we shouldn’t look at whether the evaluation form is still up to date and fit for purpose – and in fact, this is something we’re doing already.
 

@@ -1,5 +1,7 @@
 # der-fingerabdruck-des-musizierens
 
+**Source:** en_news_events/2014/02/der-fingerabdruck-des-musizierens.html
+
 ## More effective practice thanks to software feedback
 
 Professional musicians, particularly soloists, are top athletes. They coax wonderful sounds out of their instrument with apparent ease, but this ease is hard fought for – with hours of practice until even the most masterly of pieces sounds error free at breath-taking speed. In the process, musicians often complain of pain in their fingers, shoulders, joints and back, and try to cope with these typical pains using acupuncture, medication, massages or physiotherapy. It often proves difficult to find and solve the causes, as they are hardly noticeable from the outside and are often even difficult for musicians themselves to define. For example, the pressure of a finger on a violin’s string could be unnecessarily heavy or the violin awkwardly clamped and held tensely under the chin.
@@ -39,6 +41,4 @@ Grosshauser T, Candia V, Hindebrand H, Tröster G: Sensor Based Measurements of 
 Grosshauser T, Tröster G: Further Finger Position and Pressure Sensing Techniques for Stringed and Keyboard Instruments. New Interfaces for Musical Expression, NIME13, 2013 ( pdf )
 
 Grosshauser T, Großekathöfer U, Tröster G: Fatigue Detection in Music Making Using Wearable Sensors, SMAC - Stockholm Music Acoustics Conference, 2013 ( pdf )
-
-Musicians interested in the sensor technology can contact Tobias Grosshauser by email:
 

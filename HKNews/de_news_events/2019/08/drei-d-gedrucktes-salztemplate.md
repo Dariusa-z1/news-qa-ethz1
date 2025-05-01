@@ -1,5 +1,7 @@
 # drei-d-gedrucktes-salztemplate
 
+**Source:** de_news_events/2019/08/drei-d-gedrucktes-salztemplate.html
+
 ## Magnesium mit strukturierter Porosität
 
 Bei komplizierten Knochenbrüchen oder gar fehlenden Knochenteilen setzen Chirurgen in der Regel Metallimplantate ein. Als Materialien der Wahl bieten sich nebst Titan, das mit dem Gewebe weder chemisch noch biologisch wechselwirkt, auch Magnesium und seine Legierungen an. Implantate aus diesem Leichtmetall haben den Vorteil, dass der Körper sie abbauen und das Magnesium als Mineralstoff aufnehmen kann. So ist keine weitere OP notwendig, um das Implantat zu entfernen. Für eine schnelle Heilung sollte es oder dessen Oberflächen so beschaffen sein, dass sich knochenbildende Zellen gut darauf ansiedeln oder gar in das Implantat einwachsen können.

@@ -1,5 +1,7 @@
 # interview-wallraff-wood
 
+**Source:** en_news_events/2021/09/interview-wallraff-wood.html
+
 ## About the persons
 
 ETH spin-off Zurich Instruments was recently acquired by German technology group Rohde & Schwarz. What was so significant about this deal? Vanessa Wood : Zurich Instruments has gone from being a niche manufacturer to attracting the interest of a major electronics company. That’s fantastic news! It shows that demand for quantum technology devices has now reached a broader market, and it confirms the more general trend we’re seeing in investments in this area. Andreas Wallraff : Rohde & Schwarz is a big corporate group. Their decision to snap up Zurich Instruments will certainly have been motivated by that company’s success in carving out a position for itself in the market for quantum technology instruments over recent years. Although Rohde & Schwarz has some products that can be used in related fields of application, they had never really targeted this particular area before. So buying an ETH spin-off was a good opportunity for the company to get into this market. We’ve been collaborating with Zurich Instruments on joint projects for the past eight years, so it’s also an exciting development for us as a lab.
@@ -27,6 +29,8 @@ Andreas Wallraff is Professor of Solid State Physics and head of the Quantum Dev
 Vanessa Wood has been Vice President for Knowledge Transfer and Corporate Relations at ETH Zurich since 2021. She is also full professor and chair at the Institute for Electronics (IfE) at ETH Zurich.
 
 To reinforce its leading position in quantum research and help translate theory into practice, ETH Zurich teamed up with the Paul Scherrer Institute (PSI) to establish the new Quantum Center . Donor funding supports the ongoing development of a technological base to enable the manufacture of quantum computers as well as a doctoral programme and new professorships.
+
+Read the issue as a PDF (PDF, 6.9 MB)
 
 Read the issue online
 

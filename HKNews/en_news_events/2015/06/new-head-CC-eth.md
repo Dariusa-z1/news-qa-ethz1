@@ -1,5 +1,7 @@
 # new-head-CC-eth
 
+**Source:** en_news_events/2015/06/new-head-CC-eth.html
+
 ## Developing Strategic Communication for FINMA
 
 The Executive Board of ETH Zurich has selected Rainer Borer as the new head of ETH’s Corporate Communication. Rainer Borer obtained a degree in History and German from the University of Basel (lic. phil. I, 1990) and a degree in business administration from the University of St. Gallen (Executive MBA, 2008). He will start his new position at ETH on October 1, 2015.
@@ -23,6 +25,4 @@ After being chosen Rainer Borer expressed his feelings as follows: “It is a gr
 ## Contact
 
 The president of ETH Lino Guzzella is extremely happy to have Rainer Borer as the new head of Corporate Communication: “Rainer Borer is a very experienced journalist with a broad background in corporate communication and public affairs. I’m convinced that he and his team will strengthen ETH’s image in the public perception as one of the best technical universities.”
-
-ETH Zurich Media relations Phone: +41 44 632 41 41
 

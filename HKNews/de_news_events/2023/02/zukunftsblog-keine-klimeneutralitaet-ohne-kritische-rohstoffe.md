@@ -1,5 +1,7 @@
 # zukunftsblog-keine-klimeneutralitaet-ohne-kritische-rohstoffe
 
+**Source:** de_news_events/2023/02/zukunftsblog-keine-klimeneutralitaet-ohne-kritische-rohstoffe.html
+
 ## Mit schmutzigen Rohstoffen in die Klimaneutralität?
 
 Seit dem russischen Angriffskrieg in der Ukraine und dem Gas-Erpressungsversuch treibt Europa die Energiewende auch unter dem Aspekt der Versorgungssicherheit voran. 1 Klimaneutralität hat Konjunktur, verspricht das Fernziel doch implizit, uns aus den Fesseln fossiler Energieträger zu befreien. Dabei übersehen wir, dass mit erneuerbaren Energien neue Abhängigkeiten drohen.

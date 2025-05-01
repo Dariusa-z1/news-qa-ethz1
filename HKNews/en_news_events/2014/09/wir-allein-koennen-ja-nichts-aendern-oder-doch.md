@@ -1,5 +1,7 @@
 # wir-allein-koennen-ja-nichts-aendern-oder-doch
 
+**Source:** en_news_events/2014/09/wir-allein-koennen-ja-nichts-aendern-oder-doch.html
+
 ## Der Fluch des «Trittbrettfahrens»
 
 Mittlerweile sind die Zusammenfassungen für Entscheidungsträger aus allen drei Arbeitsgruppen des Weltklimarats IPCC zum fünften Sachstandsbericht veröffentlicht. Mit mehr Sicherheit als je zuvor lassen sich nun die unangenehmen Folgen eines globalen Temperaturanstiegs von über zwei Grad Celsius abschätzen. Mit mehr Sicherheit als zuvor kann man heute aber auch sagen, dass wir es schaffen könnten, die globale Temperatur nicht wesentlich über zwei Grad hinaus steigen zu lassen, und dass die Kosten dafür nicht sehr dramatisch ausfielen, wenn wir unsere Treibhausgasemissionen umgehend deutlich reduzieren würden. Wer aber ist eigentlich gemeint mit dem «wir»? «Wir» alle auf dem Planeten? «Wir» alle in der Schweiz? Oder auch jeder und jede Einzelne von uns?

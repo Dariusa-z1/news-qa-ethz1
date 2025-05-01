@@ -1,5 +1,7 @@
 # eth-spirit-tragfaehig-und-anziehend
 
+**Source:** de_internal/2018/09/eth-spirit-tragfaehig-und-anziehend.html
+
 ## Hilfen im Campusalltag
 
 «Unsere Produkte sollen alle ansprechen, die sich auf dem ETH-Campus bewegen; seien das Studierende, das ETH-Personal, Alumni oder Gäste», betont Katrin Schley, die Geschäftsführerin des ETH Store. An der ETH und der Zürcher Hochschule der Künste im Toni-Areal ist die ETH Store AG heute mit insgesamt fünf Verkaufsstellen vertreten, in denen Campusangehörige von einem breiten Angebot im Bereich Papeteriewaren und Büchern sowie Merchandising zu vergleichsweise tiefen Preisen profitieren können.

@@ -1,5 +1,7 @@
 # starch-from-yeast
 
+**Source:** en_news_events/2016/11/starch-from-yeast.html
+
 ## Transferring plant enzymes
 
 Starch is only produced by plants and algae. Now, it can also be produced by yeast – or, at any rate, by the yeasts in the labs of the group led by Samuel Zeeman, Professor of Plant Biochemistry at ETH Zurich’s Institute of Agricultural Sciences. The researchers have succeeded in implanting yeast with the machinery that plants use to create this stored form of glucose. “It’s an unprecedented innovation,” says Zeeman.

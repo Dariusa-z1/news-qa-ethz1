@@ -1,5 +1,7 @@
 # townhall-zu-return-to-the-office-future-of-work
 
+**Source:** de_internal/2022/03/townhall-zu-return-to-the-office-future-of-work.html
+
 ## Phasen zur Gestaltung der (Zusammen-) Arbeit
 
 - geschützte Seite«Return to the Office» Workshop Vorlagelock
@@ -33,6 +35,4 @@ In der ersten Übergangsphase – «Return to the Office (stellvertretend für a
 Die ETH Zürich empfiehlt den vorgesetzten Personen, die während der Corona-Pandemie gemachten Erfahrungen im Team zu diskutieren und gemeinsam festzulegen, wie die zukünftige (Zusammen-) Arbeitsform gestaltet werden soll. Es gilt, die unterschiedlichen Erwartungen und Möglichkeiten kennen zu lernen und dann eine Arbeitsform zu finden, die den Wünschen und den Aufgaben des Teams bestmöglich gerecht wird. Einige vorgesetzte Personen haben diese Gespräche bereits geführt, andere beginnen nun damit.
 
 Um sicherzustellen, dass diese Gespräche effektiv und fruchtbar verlaufen, lohnt es sich für vorgesetzte Personen darüber nachzudenken, wie sie diesen Austausch mit ihrem Team führen wollen. Als Hilfestellung bietet das Vizepräsidium für Personalentwicklung und Leadership den vorgesetzten Personen eine geschützte Seite Vorlage für einen Workshop lock zum Thema an.
-
-Kontaktieren Sie bei Verständnisfragen zum Workshop-Konzept die Abteilung Leadership & Development. Bei Fragen zu Regelungen und Rahmenbedingungen stehen Ihnen die HR Partner (Abteilung HR Beratung) gerne zur Verfügung.
 

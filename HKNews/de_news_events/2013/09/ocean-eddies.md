@@ -1,5 +1,7 @@
 # ocean-eddies
 
+**Source:** de_news_events/2013/09/ocean-eddies.html
+
 ## Kein Entkommen aus dem Sog
 
 Die milden Winter Nordeuropas verdanken wir dem Golfstrom. Er ist Teil der weltumspannenden Meeresströmungen, die unser Klima prägen. Zusätzlich wird unser Klima aber auch durch riesige Meereswirbel mit mehr als 150 Kilometern Durchmesser beeinflusst. Die Zahl solcher Wirbel in südlichen Ozeanen nimmt laut Forschungsberichten zu, was den Transport von warmem und salzigem Wasser nach Norden erhöht. Dies könnte den negativen Einfluss schmelzenden Polareises ausgleichen.

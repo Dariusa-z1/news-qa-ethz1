@@ -1,5 +1,7 @@
 # recognising-and-overcoming-internal-stressors-in-everyday-work
 
+**Source:** en_internal/2023/04/recognising-and-overcoming-internal-stressors-in-everyday-work.html
+
 ## “Health” lunchtime event
 
 Stresses in everyday work can have various causes. In addition to objective stresses and excessive demands, there are also internal stressors that can lead to such situations.

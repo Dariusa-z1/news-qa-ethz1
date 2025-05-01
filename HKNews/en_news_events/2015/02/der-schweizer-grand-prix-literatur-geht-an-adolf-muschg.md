@@ -1,5 +1,7 @@
 # der-schweizer-grand-prix-literatur-geht-an-adolf-muschg
 
+**Source:** en_news_events/2015/02/der-schweizer-grand-prix-literatur-geht-an-adolf-muschg.html
+
 ## Main article
 
 Adolf Muschg was honoured with the Swiss Grand Prix Literatur 2015 award for his complete literary works on Thursday. Federal Councillor Alain Berset presented the prize to the writer during the ceremony of the Swiss literary awards held at the Swiss National Library. The jury emphasised the humanism and commitment that characterise his creative work. The award is endowed with prize money of CHF 40,000.

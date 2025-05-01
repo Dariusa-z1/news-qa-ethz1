@@ -1,5 +1,7 @@
 # giftiges-chlor-und-brom-ersetzen
 
+**Source:** de_news_events/2021/01/giftiges-chlor-und-brom-ersetzen.html
+
 ## Shuttlesystem mit Elektrizität
 
 Chlor und Brom in ihrer molekularen Form (als Cl 2 - und Br 2 -Moleküle) sind giftig und ätzend. Auf tragische Weise veranschaulicht wurde das beispielsweise bei der Verwendung von Chlor als chemische Waffe, vom Ersten Weltkrieg bis hin zu jüngsten Einsätzen im Irak und in Syrien. Auch sind instabile chlor- und bromhaltige Chemikalien in Tausende von gemeldeten Chemieunfällen verwickelt gewesen. Und trotzdem gehören sie immer noch zu den am häufigsten verwendeten Industriechemikalien, aus denen wertvolle Flammschutzmittel, Schädlingsbekämpfungsmittel, Polymere und Pharmazeutika hergestellt werden.

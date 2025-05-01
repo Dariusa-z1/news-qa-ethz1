@@ -1,5 +1,7 @@
 # menschgemachtes-erdbeben-in-suedkorea
 
+**Source:** de_news_events/2018/04/menschgemachtes-erdbeben-in-suedkorea.html
+
 ## Beben nahe beim Geothermieprojekt
 
 Der Bohrturm des Tiefengeothermie-Projekts nahe Pohang, Südkorea. (Bild: Robert Westaway, University of Glasgow)

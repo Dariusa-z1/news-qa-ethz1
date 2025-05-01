@@ -1,5 +1,7 @@
 # eth-tag-2014-fuer-eth-angehoerige
 
+**Source:** de_internal/2014/10/eth-tag-2014-fuer-eth-angehoerige.html
+
 ## Anmeldung
 
 Herausragende Leistungen wollen gewürdigt werden. Am ETH-Tag verleiht die ETH Zürich die Ehrendoktorwürde an Personen, die im internationalen Wissenschaftsbetrieb Ausserordentliches geleistet haben. Die Hochschule nimmt dabei die Gelegenheit wahr, allen zu danken, die sich um unsere Hochschule besonders verdient gemacht haben. Auch zeichnet die ETH Zürich am ETH-Tag Studierende, Doktorierende und Dozierende unserer Hochschule für herausragende Leistungen aus.

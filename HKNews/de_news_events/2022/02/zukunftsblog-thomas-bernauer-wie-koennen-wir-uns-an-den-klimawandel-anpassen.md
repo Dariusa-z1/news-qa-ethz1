@@ -1,5 +1,7 @@
 # zukunftsblog-thomas-bernauer-wie-koennen-wir-uns-an-den-klimawandel-anpassen
 
+**Source:** de_news_events/2022/02/zukunftsblog-thomas-bernauer-wie-koennen-wir-uns-an-den-klimawandel-anpassen.html
+
 ## Klimafolgen sind allgegenwärtig
 
 - Die Natur ist eine unserer wichtigsten Verbündeten. Stärkerer Naturschutz kann bei der Anpassung an den unvermeidbaren Teil des Klimawandels enorm helfen. Ein gesunder Planet ist essenziell: Er stellt uns Nahrung und Wasser bereit, sichert den Lebensunterhalt vieler Menschen, und hilft, das Katastrophenrisiko zu verringern.

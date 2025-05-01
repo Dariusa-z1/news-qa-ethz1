@@ -1,5 +1,7 @@
 # robot-team-on-lunar-exploration-tour
 
+**Source:** en_news_events/2023/07/robot-team-on-lunar-exploration-tour.html
+
 ## In brief
 
 - Researchers equipped a trio of legged robots with measuring instruments for finding minerals on the Moon.

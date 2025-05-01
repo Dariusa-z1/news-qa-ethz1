@@ -1,5 +1,7 @@
 # information-events-on-open-access-on-30-january-2017
 
+**Source:** en_internal/2017/01/information-events-on-open-access-on-30-january-2017.html
+
 ## Main article
 
 ETH-Bibliothek will be conducting a survey on open access in February 2017. On 1 February, all academic staff members at ETH Zurich will receive a personal link to the online questionnaire via email.

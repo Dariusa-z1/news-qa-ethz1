@@ -1,5 +1,7 @@
 # kohlenstoffbilanz-in-duerresommer-positiv
 
+**Source:** de_news_events/2016/04/kohlenstoffbilanz-in-duerresommer-positiv.html
+
 ## Ökosystem nehmen CO2 auf
 
 Das Frühjahr 2012 war in den USA das wärmste seit Beginn der Messaufzeichnungen. Nahtlos schloss ein Sommer an, der trockener und heisser war als alle anderen Sommer seit den 1930er Jahren, einer Zeit, die als «Dust Bowl» in die Geschichtsbücher einging. Unter Dürre und Hitze litt 2012 nahezu das ganze Festland der USA.

@@ -1,5 +1,7 @@
 # administrativuntersuchung-eingeleitet
 
+**Source:** de_news_events/2017/10/administrativuntersuchung-eingeleitet.html
+
 ## Oberstes Ziel: Schutz der Doktorierenden
 
 Die Schulleitung der ETH Zürich hat beschlossen, eine unabhängige Administrativuntersuchung aufgrund der Vorwürfe im früheren Institut für Astronomie zu eröffnen. Ziel der Untersuchung ist es, die Verhältnisse und Abläufe innerhalb der betroffenen Bereiche sowie das Verhalten der beteiligten Personen zu überprüfen. ETH-Präsident Lino Guzzella zum Entscheid: «Die formelle Administrativuntersuchung erlaubt uns, noch genauer hinzuschauen und zu entscheiden, ob noch weitere Massnahmen getroffen werden sollen». Die ETH-Schulleitung beauftragt in den nächsten Tagen eine externe Fachperson mit der Durchführung der Administrativuntersuchung.
@@ -19,6 +21,4 @@ Die personelle Konstellation am Institut für Astronomie war rückblickend betra
 Der ETH-Rat, das Aufsichtsgremium der ETH Zürich, hat sich mit der Situation rund um das Institut für Astronomie befasst. Der ETH-Rat würdigte im September das korrekte und zeitnahe Vorgehen der ETH Zürich sowie die getroffenen Massnahmen. Gleichzeitig war er der Meinung, dass die ETH Zürich in einem nächsten Schritt eine zusätzliche Administrativuntersuchung durchführen solle.
 
 Nachdem die Situation im Departement mit den Sofortmassnahmen entschärft worden ist, folgt die ETH Zürich nun ihrem Aufsichtsgremium. Es geht um eine vertiefte Analyse der Vorkommnisse. Ein Fokus liegt auf der Frage, wie noch besser sichergestellt werden kann, dass Meldungen über ein angeblich mangelhaftes Führungsverhalten rasch innerhalb der Organisation nach oben eskalieren können und in gravierenden Fällen auch rechtzeitig zur Schulleitung gelangen. Bis zum Abschluss der laufenden Untersuchung und der Kenntnisnahme durch den ETH-Rat kann die ETH Zürich in dieser Angelegenheit keine weiteren Auskünfte geben.
-
-ETH Zürich Medienstelle Telefon: +41 44 632 41 41
 

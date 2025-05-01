@@ -1,5 +1,7 @@
 # surgent-hochschulmedizin-zuerich
 
+**Source:** de_news_events/2018/11/surgent-hochschulmedizin-zuerich.html
+
 ## Chirurgische Landschaften
 
 In der Chirurgie zählen bildgebende Verfahren schon lange zum Standard. Das Ergebnis ist jedoch meist ein Bild auf einem Display, das von den Medizinerinnen und Medizinern interpretiert und auf den Patienten übertragen werden muss. Neue virtuelle Verfahren in der Chirurgie jedoch können Daten aus bildgebenden Verfahren in eine dreidimensionale Darstellung umwandeln, um Diagnosen zu erstellen und Operationen zu planen und durchzuführen.

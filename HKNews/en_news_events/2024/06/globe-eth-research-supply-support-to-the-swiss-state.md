@@ -1,5 +1,7 @@
 # globe-eth-research-supply-support-to-the-swiss-state
 
+**Source:** en_news_events/2024/06/globe-eth-research-supply-support-to-the-swiss-state.html
+
 ## New trends in civil protection
 
 Researchers from ETH Zurich routinely supply Switzerland’s government and public administration with expert input. Their know-how helps the public sector to craft new responses to the challenges facing society. In regular contributions to commissioned studies, hearings and consultations, ETH researchers present data, outline new trends, model scenarios, explain correlations and warn of emerging threats to the social fabric. And since the government generally lacks the time to get up to speed with new methodologies and the latest technology, ETH's contribution also helps drive innov­ation in the public sector.
@@ -35,4 +37,6 @@ The Federal Administration is a regular target of cyber­attacks. In January of 
 To counter this threat, Céline Herren from the Federal Department of Defence, Civil Protection and Sport (DDPS) is helping raise staff awareness of common cybersecurity risks. She holds lectures and workshops, designs e-learning modules and works on the department’s information campaigns. A psychologist by training, with no background in IT, she enrolled for the ETH Certificate of Advanced Studies in Cyber Security in autumn 2023. The course gave her a technical grounding in cyber­security and thereby sharpened her ability to assess new threats in this arena.
 
 “It gave me deeper understanding of the latest issues and trends in cybersecurity, and that means I can now provide our staff with more detailed information and develop better teaching materials,” she explains. “Some of the modules were technically demanding. But if the knowledge I’ve gained can help the DDPS improve the way it deals with cyberattacks, then it will have been worth the effort!”
+
+Read whole issue (PDF, 7.7 MB)
 

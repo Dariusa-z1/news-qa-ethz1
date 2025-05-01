@@ -1,5 +1,7 @@
 # news-from-the-executive-board-2022-7
 
+**Source:** en_internal/2022/07/news-from-the-executive-board-2022-7.html
+
 ## Course regulations issued for the Master’s degree programme in Biochemistry – Chemical Biology
 
 The Executive Board has approved the new 2023 course regulations for the D-CHAB Master’s degree programme in Biochemistry – Chemical Biology; these regulations will come into force at the start of the 2023 Autumn Semester. The background to this is the new course introduced in the 2020 Autumn Semester, the Bachelor’s degree programme in Biochemistry – Chemical Biology , from which the first students are now transferring to the Master’s programme.

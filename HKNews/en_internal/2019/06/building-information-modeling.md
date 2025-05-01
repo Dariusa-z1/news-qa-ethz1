@@ -1,5 +1,7 @@
 # building-information-modeling
 
+**Source:** en_internal/2019/06/building-information-modeling.html
+
 ## Video
 
 Construction of the HI distribution centre is currently underway with a view to bringing about significant reductions in CO2 emissions from heating and cooling on the Hönggerberg campus. As part of the Anergy grid on the Hönggerberg, it is one of a total of five distribution centres and will in future heat and cool the HI buildings, and ensure that waste heat from individual buildings is redistributed directly to other buildings.

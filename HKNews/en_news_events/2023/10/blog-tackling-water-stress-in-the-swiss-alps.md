@@ -1,5 +1,7 @@
 # blog-tackling-water-stress-in-the-swiss-alps
 
+**Source:** en_news_events/2023/10/blog-tackling-water-stress-in-the-swiss-alps.html
+
 ## Winters with little snow favor dry summers
 
 Switzerland is known as Europe’s water reservoir – a reliable supplier of fresh water that flows steadily from Alpine sources, even when it is scarce elsewhere. This image is now being severely threatened by climate change. Extreme events such as floods and droughts are becoming more frequent, thereby exacerbating water stress.

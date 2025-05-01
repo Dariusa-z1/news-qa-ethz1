@@ -1,5 +1,7 @@
 # unser-green-guide-for-universities-ist-publiziert
 
+**Source:** de_news_events/2014/10/unser-green-guide-for-universities-ist-publiziert.html
+
 ## Verschiedene Wege – ein gemeinsames Ziel
 
 Technische Hochschulen sind komplexe Organisationen mit einer Vielzahl an Gebäuden, spezifischer Infrastruktur für Laboratorien und Hörsäle sowie unterschiedlichen Dienstleistungen, die von der Lehre über die Forschung bis hin zur Verpflegung reichen. Diese enorme Vielfalt nachhaltig zu organisieren und betreiben ist eine grosse Herausforderung. Es lohnt sich daher, mit anderen Institutionen Wissen und Erfahrungen auszutauschen. So entstand der nun im Netzwerk der International Alliance of Research Universities (IARU) erschienene Ratgeber «Green Guide for Universities». Er enthält praktische Massnahmen und Strategien, um unsere Hochschulstandorte nachhaltiger und insbesondere ökologischer zu gestalten.

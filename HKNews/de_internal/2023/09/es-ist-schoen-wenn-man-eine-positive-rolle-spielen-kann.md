@@ -1,5 +1,7 @@
 # es-ist-schoen-wenn-man-eine-positive-rolle-spielen-kann
 
+**Source:** de_internal/2023/09/es-ist-schoen-wenn-man-eine-positive-rolle-spielen-kann.html
+
 ## Ombudsstelle
 
 Frau Leuthold, Sie sind seit 2018 Ombudsfrau an der ETH. Was war damals Ihre Motivation für das Amt? Margrit Leuthold: Die Stelle reizte mich, weil man mit der ganzen Bandbreite von ETH-Angehörigen in Berührung kommt, von Studierenden bis zu Professor:innen. Gleichzeitig konnte ich der ETH etwas zurückgeben. Ich habe insgesamt 16 Jahre in drei verschiedenen Positionen in dieser Institution gearbeitet und das immer als grosses Privileg empfunden. Zudem stand ich vor der Pensionierung, als ich angefragt wurde, und ich habe mir überlegt, dass mir ein sanfter Übergang guttut.

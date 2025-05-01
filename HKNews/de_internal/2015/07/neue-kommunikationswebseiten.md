@@ -1,8 +1,8 @@
 # neue-kommunikationswebseiten
 
-## Main article
+**Source:** de_internal/2015/07/neue-kommunikationswebseiten.html
 
-Suchen Sie Vorlagen für einen Bericht im Corporate Design, Angaben für die Verwendung des Logos, Hilfestellung im Umgang mit Social Media, den Kontakt zur Medienstelle oder brauchen Sie eine persönliche Kommunikationsberatung? Auf www.ethz.ch/kommunikation sind alle Informationen und Kontakte zusammengestellt, die Sie für Ihre tägliche Kommunikationsarbeit brauchen.
+## Main article
 
 Welche Inhalte bieten die neuen Webseiten?
 

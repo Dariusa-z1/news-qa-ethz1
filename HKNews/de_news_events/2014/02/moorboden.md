@@ -1,5 +1,7 @@
 # moorboden
 
+**Source:** de_news_events/2014/02/moorboden.html
+
 ## Elektronen wechseln auf Sauerstoff
 
 Das stäbchenförmige Bodenbakterium Shewanella oneidensis kann Elektronen aus seinem Stoffwechsel auf Huminstoffe übertragen. (Bild: Andreas Kappler, Universität Tübingen)

@@ -1,5 +1,7 @@
 # saatgut-beize-mit-cyanidsystem
 
+**Source:** de_news_events/2016/05/saatgut-beize-mit-cyanidsystem.html
+
 ## Beim Knabbern entsteht Blausäure
 
 Den Kern nicht essen, der ist giftig: Das sagen Eltern ihren Kindern, ehe diese ihren ersten Pfirsich essen. Tatsächlich enthalten Pfirsichkerne, die sich in der nussartigen Schale verstecken, Amygdalin, eine Substanz, die im Magen in giftige Blausäure zerfällt.
@@ -20,13 +22,11 @@ Die Forschenden haben in Zusammenarbeit mit dem Julius Kühn Institut in Berlin 
 
 Auf gebeiztem Saatgut schlüpften deutlich weniger erwachsene Käfer und Motten als auf unbehandeltem. Sie vermehrten sich weniger stark, auch wuchsen die Larven langsamer, weil sie weniger frassen.
 
-Die Beschichtung hielt jedoch nicht alle Schadinsekten davon ab, an den Weizenkörnern zu knabbern: Gegen den Getreiderüssler ( Sitophilus granarius ) wirkte diese Beizung nicht. Diese Art von Käfer legt seine Eier nicht auf die Körner, sondern bohrt sie in diese hinein und verschliesst das Bohrloch. Die Larven fressen das Weizenkorn dann von innen her auf. Dadurch kommen sie nicht mit der Beizung in Kontakt.
-
 Die Forscher konnten überdies mit Labor- und Feldversuchen zeigen, dass die Beize die Keimung der Weizenkörner nicht störte. Im Labor keimten 98 Prozent der behandelten Körner. Auf dem Acker keimten diese zwar etwas später als unbehandelte, und die Keimlinge entwickelten sich zu Beginn des Wachstums langsamer. Dieses anfängliche Defizit konnten die Weizenpflänzchen später jedoch aufholen.
 
-## Literaturhinweise
-
 «Wir haben aufgezeigt, dass diese neuartige Beizmethode funktioniert: Sie schützt die Körner vor Insektenfrass, und die Körner sind auf dem Acker brauchbar», sagen die Autoren der Studie, Carlos Mora und Jonas Halter. Die Beizung mit dieser Methode sei vom Verfahren her so einfach wie die mit Spritzmitteln. Auch überstiegen die Kosten der neuen Methode die von Insektiziden nicht wesentlich.
+
+## Literaturhinweise
 
 Die ETH-Forscher sind davon überzeugt, dass diese Art des Beizens auf das Saatgut anderer Nutzpflanzen übertragen werden kann. «Die Methode hat das Potenzial dazu, gewisse synthetische Pestizide zu ersetzen», meint Carlos Mora. «Die Beize ist nicht nur komplett biologisch abbaubar, sie sichert auch die Qualität des Saatguts bei der Lagerung.»
 

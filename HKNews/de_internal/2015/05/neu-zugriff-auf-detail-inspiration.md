@@ -1,5 +1,7 @@
 # neu-zugriff-auf-detail-inspiration
 
+**Source:** de_internal/2015/05/neu-zugriff-auf-detail-inspiration.html
+
 ## Main article
 
 Zu jedem Projekt werden fotografische Abbildungen und beschreibende Texte zu den Gebäuden und ihren Planern sowie ausgewählte Planzeichnungen dargestellt. Das PDF des jeweiligen Artikels lässt sich öffnen bzw. herunterladen.

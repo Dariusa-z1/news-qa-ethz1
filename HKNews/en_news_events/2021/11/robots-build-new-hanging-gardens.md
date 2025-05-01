@@ -1,5 +1,7 @@
 # robots-build-new-hanging-gardens
 
+**Source:** en_news_events/2021/11/robots-build-new-hanging-gardens.html
+
 ## AI proposes a clever design
 
 Working with Müller Illien Landscape Architects, Timbatec and other partners from industry and research, researchers from the group led by ETH architecture professors Fabio Gramazio and Matthias Kohler are creating a green architectural sculpture for the Tech Cluster Zug. Soaring to a height of 22.5 metres, the structure will consist of five geometrically complex wooden pods that are slightly offset from each other and supported by eight thin steel pillars. The sculpture, named after the Babylonian queen to whom the ancient Hanging Gardens of Babylon have been attributed, is being designed and built using innovative digital methods that were developed as part of the project.

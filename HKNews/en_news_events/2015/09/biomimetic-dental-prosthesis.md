@@ -1,5 +1,7 @@
 # biomimetic-dental-prosthesis
 
+**Source:** en_news_events/2015/09/biomimetic-dental-prosthesis.html
+
 ## Revival of a 100-year-old technique
 
 There are few tougher, more durable structures in nature than teeth or seashells. The secret of these materials lies in their unique fine structure: they are composed of different layers in which numerous micro-platelets are joined together, aligned in identical orientation in each layer.

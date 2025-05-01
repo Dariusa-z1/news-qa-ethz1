@@ -1,5 +1,7 @@
 # dont-rely-on-holidays-to-make-you-happy
 
+**Source:** en_news_events/2017/07/dont-rely-on-holidays-to-make-you-happy.html
+
 ## About
 
 Mr Hampe, travel has never been more popular – millions of Europeans will travel abroad again this summer to lie on the beach, climb breathtaking mountains, or explore cathedrals and museums in foreign cities. How has the art of travel and what people hope to get out of it changed over time? People travel for many different reasons. Educational travel, as was popular in the early modern period, is still prevalent today – an entire industry has been built on natural historical and cultural travel. The industrialisation of holidays has increasingly turned travel to remote, exotic locations into a mark of social prestige. People talk about where they've been on holiday, and this leads to competition – for example, who's been to Fiji and how many times.

@@ -1,5 +1,7 @@
 # knitted-concrete
 
+**Source:** en_news_events/2018/10/knitted-concrete.html
+
 ## A 55-kilogram formwork for 5 tonnes of concrete
 
 The heart of the four metre tall curved concrete shell is knitted. The structure’s formwork is a textile supported by a steel cable-net. The prototype KnitCandela marks the first application that this technology is being used on an architectural scale. The structure is an homage to Spanish-Mexican architect Felix Candela (1910–1997) and a collaboration with Zaha Hadid Architects Computation and Design Group (ZHCODE), and Architecture Extrapolated (R-Ex).

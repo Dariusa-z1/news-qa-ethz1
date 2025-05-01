@@ -1,5 +1,7 @@
 # sich-hilfe-bei-psychischen-problemen-zu-holen-ist-eine-kompetenz
 
+**Source:** de_internal/2022/09/sich-hilfe-bei-psychischen-problemen-zu-holen-ist-eine-kompetenz.html
+
 ## Das ist die Beratungsstelle
 
 Cornelia Beck, Psychologin und Psychotherapeutin, leitet seit 2016 die Psychologische Beratungsstelle UZH/ETH.
@@ -41,4 +43,6 @@ Es braucht also ein gewisses Umdenken an den Hochschulen? Ich wünschte mir wied
 Und es sollte das Bewusstsein vorhanden sein, dass es allen Studierenden passieren kann, dass sie in eine schwierige Phase geraten. Und dass dies nichts über die Eignung als Akademiker:in aussagt.
 
 Anlässlich des diesjährigen Jubiläums finden Anfang Oktober eine Podiumsdiskussion für alle Interessierten sowie Workshops für Studierende und Doktorierende statt. Eine Installation im Lichthof UZH sowie in der ETH Galerie (HG F) stimmen zudem auf das Jubiläum ein.
+
+Weitere Informationen gibt es auf der externe Seite Jubiläums-Webseite und in diesem Flyer (PDF, 751 KB) .
 

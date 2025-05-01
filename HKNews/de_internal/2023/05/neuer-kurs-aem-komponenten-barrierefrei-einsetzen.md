@@ -1,5 +1,7 @@
 # neuer-kurs-aem-komponenten-barrierefrei-einsetzen
 
+**Source:** de_internal/2023/05/neuer-kurs-aem-komponenten-barrierefrei-einsetzen.html
+
 ## Main article
 
 Digitale Barrierefreiheit ist wichtig und unumgänglich. Sie ist ein entscheidendes Kriterium bei Qualitätsüberprüfungen der ETHZ-Webseiten und hat den gleichen Stellenwert wie das Beachten von Bildrechten und webgerechtes Schreiben.

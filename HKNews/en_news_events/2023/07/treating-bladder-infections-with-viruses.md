@@ -1,5 +1,7 @@
 # treating-bladder-infections-with-viruses
 
+**Source:** en_news_events/2023/07/treating-bladder-infections-with-viruses.html
+
 ## In brief
 
 - ETH Zurich researchers have developed a new rapid test that uses bacteriophages – viruses that infect bacteria – to quickly and accurately identify the pathogens that cause urinary tract infections.

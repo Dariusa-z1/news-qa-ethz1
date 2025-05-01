@@ -1,5 +1,7 @@
 # stipendienwesen-eth-rat-unterstuetzt-harmonisierungsbestrebungen
 
+**Source:** de_internal/2015/05/stipendienwesen-eth-rat-unterstuetzt-harmonisierungsbestrebungen.html
+
 ## Main article
 
 An seiner Sitzung vom vom 20. und 21. Mai 2015 hat sich der ETH-Rat des Weiteren mit Forschungsinfrastruktur-Projekten von nationaler Bedeutung befasst und die Nachfolgeplanung für die Präsidentschaft der EPFL weiter konkretisiert. Die öffentliche Ausschreibung der Stelle erfolgt Anfang Juni. Angestrebt wird einStellenantritt per 1. Januar 2017. Christian Zurbrügg wurde als neues Direktionsmitglied der Eawag ernannt.

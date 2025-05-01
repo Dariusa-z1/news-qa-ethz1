@@ -1,5 +1,7 @@
 # der-lange-weg-von-lima-nach-paris
 
+**Source:** de_news_events/2014/12/der-lange-weg-von-lima-nach-paris.html
+
 ## Mageres Resultat, aber positive Anzeichen
 
 Die USA und China gaben im Vorfeld unerwartet früh und konkret ihre Vorschläge für die nationalen CO 2 -Reduktionen bekannt, und viele Beobachter hatten grosse Hoffnungen für die Klimakonferenz in Lima (siehe externe Seite Artikel im Guardian ). Am Sonntag ist die Konferenz zu Ende gegangen. Nachdem es lange nach gar keiner Einigung ausgesehen hatte, verabschiedeten die Parteien am Schluss doch ein Dokument. Dass alle an einem Tisch sitzen und sich einig sind, dass der Klimawandel real und menschgemacht ist, und begrenzt werden sollte, muss man als positiv werten. Aber weil alle UNO-Beschlüsse einstimmig sein müssen, bleibt oft nur die Einigung auf den kleinsten gemeinsamen Nenner. Das Dokument bleibt damit vage. Der vorgeschlagene Verhandlungstext kommt in den wichtigen Passagen nicht mir klaren Eckpunkten für die Verhandlungen in Paris, sondern mit einer Auswahl an Formulierungen und unverbindlichen Optionen daher.

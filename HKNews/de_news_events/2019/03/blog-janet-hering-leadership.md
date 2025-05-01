@@ -1,5 +1,7 @@
 # blog-janet-hering-leadership
 
+**Source:** de_news_events/2019/03/blog-janet-hering-leadership.html
+
 ## Doppelkarrieren besser betreuen
 
 1985 ernannte die ETH Zürich ihre erste Professorin – 130 Jahre nach der Gründung der Hochschule. Ende 2017 belief sich der Anteil von Frauen in der Professorenschaft auf 14 Prozent. Vielleicht ist es nur ein Zufall, dass das erste formelle Verfahren zur Entlassung eines Mitglieds der Professorenschaft eine Frau betrifft. Aber vielleicht sagt uns dieser Fall etwas über die Herausforderungen, mit denen weibliche Hochschulangehörige als isolierte Minderheit an der ETH Zürich konfrontiert sind.

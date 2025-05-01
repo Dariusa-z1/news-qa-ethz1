@@ -1,5 +1,7 @@
 # warnung-vor-cyberattacken
 
+**Source:** de_internal/2021/03/warnung-vor-cyberattacken.html
+
 ## Das ist CEO-Fraud
 
 - “Hello are you free at the moment? I need your assistance urgently.”
@@ -61,8 +63,6 @@ Mitarbeitender X, etwas später: “I’ve got the cards. And here are the photo
 Mitarbeitender X: “….?”
 
 Gerade jetzt, da vielen im Homeoffice der direkte Austausch fehlt und bei einem Verdacht nicht einfach schnell nachgefragt werden kann, ist besondere Vorsicht geboten.
-
-Die Betrüger im Netz sind hinterhältig und stellen es psychologisch geschickt an, Kontakt aufzubauen. Deshalb ist es so wichtig, immer aufmerksam zu bleiben, vor allem auch im Homeoffice. Wenn wir offen mit der Thematik umgehen und andere warnen, haben es die Betrüger schon um Einiges schwerer.
 
 Mehr Informationen zu CEO-Fraud, Phishing und Internetbetrug finden Sie auf der ID-Website für Awareness IT Security .
 

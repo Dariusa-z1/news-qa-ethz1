@@ -1,5 +1,7 @@
 # neue-professorinnen-und-professoren-ernannt
 
+**Source:** de_news_events/2020/09/neue-professorinnen-und-professoren-ernannt.html
+
 ## Verleihung des Titels «Professor»
 
 Die neuen Professorinnen und Professoren im Kurzporträt:

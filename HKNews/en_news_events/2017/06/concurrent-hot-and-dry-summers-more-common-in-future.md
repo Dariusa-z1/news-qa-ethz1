@@ -1,5 +1,7 @@
 # concurrent-hot-and-dry-summers-more-common-in-future
 
+**Source:** en_news_events/2017/06/concurrent-hot-and-dry-summers-more-common-in-future.html
+
 ## Concurrent extremes more frequent
 
 A combination of severe drought and a heatwave caused problems for Russia in the summer of 2010: fires tore through forests and peat bogs. Moscow was shrouded in thick smog, causing many deaths in the local population. At the same time, Pakistan was engulfed in heavy rain, as the high-pressure area over Russia blocked a low-pressure zone over Pakistan. This led to the country’s worst flooding for centuries.

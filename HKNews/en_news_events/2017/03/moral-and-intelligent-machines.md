@@ -1,5 +1,7 @@
 # moral-and-intelligent-machines
 
+**Source:** en_news_events/2017/03/moral-and-intelligent-machines.html
+
 ## How well can a machine make decisions?
 
 It's clear that robots are machines and not people. For one thing, they're built to relieve people from purely mechanical or repetitive work. Their intelligence is not natural, but is controlled by computer programs.

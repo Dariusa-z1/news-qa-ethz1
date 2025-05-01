@@ -1,5 +1,7 @@
 # kunstliebhaberinnen-aufgepasst-die-werke-von-harald-naegeli-sind-bald-wieder-zugaenglich
 
+**Source:** en_internal/2022/10/kunstliebhaberinnen-aufgepasst-die-werke-von-harald-naegeli-sind-bald-wieder-zugaenglich.html
+
 ## Main article
 
 The Department of Real Estate Management recently announced the planned reopening of the parking garage on 7 November 2022.

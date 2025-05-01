@@ -1,5 +1,7 @@
 # start-des-data-stewardship-netzwerks-an-der-eth-zuerich
 
+**Source:** de_internal/2023/01/start-des-data-stewardship-netzwerks-an-der-eth-zuerich.html
+
 ## Main article
 
 Sowohl der ETH-Rat als auch externe Seite swissuniversities haben für die kommenden Jahre umfangreiche externe Seite Förderprogramme im Bereich Open Research Data (ORD) auf den Weg gebracht. Ein wesentlicher Baustein dieser Programme ist auch die Etablierung und Professionalisierung von Data Stewards (m/w/d), also von Personen, die das Management von Forschungsdaten und reproduzierbaren Datenworkflows in Forschungsgruppen unterstützen. In vielen Forschungsgruppen an der ETH Zürich übernehmen bereits heute Mitarbeitende Verantwortung für einheitliches Forschungsdatenmanagement, reproduzierbare Datenanalyse oder die Entwicklung von Code-Skripten.

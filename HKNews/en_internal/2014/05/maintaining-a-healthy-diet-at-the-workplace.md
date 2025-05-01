@@ -1,5 +1,7 @@
 # maintaining-a-healthy-diet-at-the-workplace
 
+**Source:** en_internal/2014/05/maintaining-a-healthy-diet-at-the-workplace.html
+
 ## Quellen:
 
 The alarm goes off at six in the morning, there's barely enough time for a coffee and already the train is heading towards the university. At the station you can quickly grab a croissants to bridge the hunger until the second breakfast in the form of a salami sandwich at nine in the cafeteria. For lunch, there's Spaghetti Carbonara at the cafeteria and for dinner Pizza Quattro Formaggio with friends. Sound familiar?
@@ -8,17 +10,21 @@ Without even consciously realising it, you consume a myriad of (empty) calories 
 
 ## About the author
 
-Snack bars, restaurants and cafeterias have long recognised the trend towards sustainable food. Vegetarian dishes or even organic menus with regional produce are now no longer a rarity. National and international labels as well as the Bio label help consumers to find the most environmentally friendly food in supermarkets.
+“I don-t have time to cook" or "It's simply not possible to maintain a healthy diet at work," are common excuses. Anyone thinking they're off the hook, should visit the Swiss Society for Nutrition (sge) website. Their online platform provides the Quick meals as part of a healthy diet fact sheet as a free download as well as an i nteractive test on the food pyramid (in German, French, and Italian), which allows users to analyse their personal eating habits.
 
-A healthy breakfast to-go can easily be prepared in the evening. All you need is a Tupperware container and a little imagination. How about, for example, a fresh muesli with natural yogurt, fresh fruit, oatmeal and a few nuts? This provides the body with everything it needs in the morning, keeps your hunger in check and lays the foundation for a balanced calorie count. Having had this breakfast, a fresh salad with a slice of wholemeal bread will be enough for lunch, and for dinner a couple of clicks on the internet to get inspired for a delicious, healthy and easy-to cook dish.
+Snack bars, restaurants and cafeterias have long recognised the trend towards sustainable food. Vegetarian dishes or even organic menus with regional produce are now no longer a rarity. National and international labels as well as the Bio label help consumers to find the most environmentally friendly food in supermarkets.
 
 ## Subscribe to Newsletter
 
+A healthy breakfast to-go can easily be prepared in the evening. All you need is a Tupperware container and a little imagination. How about, for example, a fresh muesli with natural yogurt, fresh fruit, oatmeal and a few nuts? This provides the body with everything it needs in the morning, keeps your hunger in check and lays the foundation for a balanced calorie count. Having had this breakfast, a fresh salad with a slice of wholemeal bread will be enough for lunch, and for dinner a couple of clicks on the internet to get inspired for a delicious, healthy and easy-to cook dish.
+
 Why not make a trip to a regional market in your vicinity and delight your team with a home-cooked vegetarian dinner during the Energy Efficiency Challenge .
+
+## Staffnet
 
 ETH Seed Sustainability. Nachhaltige Gastronomie an der ETH Zürich. (Sustainable gastronomy at ETH Zurich)
 
-## Staffnet
+sge Schweizerische Gesellschaft für Ernährung. Schnellgerichte als Teil einer gesunden Ernährung. (Quick meals as part of a healthy diet)
 
 weAct. www.weact.ch .
 

@@ -1,5 +1,7 @@
 # georeferenzierung-von-karten
 
+**Source:** en_internal/2019/11/georeferenzierung-von-karten.html
+
 ## Main article
 
 But the geo-referencing of historical, digitised maps is arduous and can often only be done by hand. So we’re counting on your support!

@@ -1,5 +1,7 @@
 # besuchen-sie-die-welt-der-gesundheit-von-morgen-im-gloriarank
 
+**Source:** de_internal/2024/05/besuchen-sie-die-welt-der-gesundheit-von-morgen-im-gloriarank.html
+
 ## Lernen, spielen und ausprobieren für Alt und Jung
 
 Wissen Sie, wie Schaukelbetten die Schlafqualität verbessern können? Möchten Sie selbst sehen, wie moderne Bildgebung Einblicke in Herz und Gehirn ermöglicht? Sind Sie neugierig, wie Mikroroboter Medikamente verabreichen? Oder wollen Sie erfahren, wie sich mit der sogenannten Biofabrikation medizinisch relevante Gewebe herstellen lassen?

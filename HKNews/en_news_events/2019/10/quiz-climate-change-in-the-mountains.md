@@ -1,5 +1,7 @@
 # quiz-climate-change-in-the-mountains
 
+**Source:** en_news_events/2019/10/quiz-climate-change-in-the-mountains.html
+
 ## Main article
 
 In the quiz series, we take you on a tour of discovery through remarkable, peculiar and fun facts from ETH Zurich’s research and teaching. This edition is dedicated to the topic of climate change and the mountains.

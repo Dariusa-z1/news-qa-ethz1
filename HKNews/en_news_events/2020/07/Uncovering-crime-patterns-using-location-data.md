@@ -1,5 +1,7 @@
 # Uncovering-crime-patterns-using-location-data
 
+**Source:** en_news_events/2020/07/Uncovering-crime-patterns-using-location-data.html
+
 ## Analysis of mobility flows
 
 When and where does crime arise in cities? To answer this question, criminologists have previously relied on rather static models. Crime has been linked, for example, to the structure of the resident population or to the use of land in a neighbourhood. The influence that mobility has on the incidence of crime was previously an unknown quantity.

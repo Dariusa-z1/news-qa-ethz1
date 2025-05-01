@@ -1,5 +1,7 @@
 # what-stress-does-to-the-brain
 
+**Source:** en_news_events/2019/07/what-stress-does-to-the-brain.html
+
 ## Astonishing results
 
 In moments of acute stress – for example, a life-threatening situation in road traffic – our brain has just a split second to react. It focuses attention on the most important environmental cues in order to make life-or-death decisions in fractions of a second. To accomplish this, efficient communication needs to be quickly established between various areas of the brain by forming so-called functional networks.

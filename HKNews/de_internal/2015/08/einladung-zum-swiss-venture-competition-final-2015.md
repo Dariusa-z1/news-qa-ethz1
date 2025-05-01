@@ -1,5 +1,7 @@
 # einladung-zum-swiss-venture-competition-final-2015
 
+**Source:** de_internal/2015/08/einladung-zum-swiss-venture-competition-final-2015.html
+
 ## Swiss Venture Competition Final 2015
 
 Lasst Euch inspirieren von einigen der beeindruckendsten Start-ups im externe Seite Climate-KIC Accelerator und vom Keynote Speaker Andreas Fischlin, Titularprofessor und Leiter der Gruppe Terrestrische Systemökologie an der ETH Zürich sowie Koautor mehrerer IPCC Reports (Intergovernmental Panel on Climate Change).

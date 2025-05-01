@@ -1,5 +1,7 @@
 # erc-advanced-grants
 
+**Source:** de_news_events/2016/04/erc-advanced-grants.html
+
 ## Die ETH muss attraktiv bleiben
 
 Die ERC Advanced Grants gehören zu den begehrtesten Auszeichnungen im europäischen Forschungsraum. Mit ihnen fördert der Europäische Forschungsrat (ERC) ausschliesslich Projekte von etablierten Spitzenforschenden. Wer sich erfolgreich um diese Fördermittel bewirbt, erhält neben viel Renommee auch namhafte finanzielle Unterstützung. Die angenommenen Projekte werden während fünf Jahren mit rund 2,2 bis 3,8 Millionen Franken unterstützt.
@@ -23,6 +25,4 @@ Manfred Fiebig, Professor am Departement Materialwissenschaft, ist spezialisiert
 Andreas Hierlemann ist Professor am Departement Biosysteme der ETH Zürich in Basel. Sein Forschungsschwerpunkt ist die Entwicklung von mikroelektronischen Systemen, um damit biomedizinische Fragestellungen experimentell zu beantworten. In seinem ERC-Projekt wird es darum gehen, Netzwerke von Nervenzellen in Zellkultur mit leistungsfähigen Mikroelektronik-Chips umfassend elektrophysiologisch zu untersuchen, und zwar in bisher unerreichtem räumlichem und zeitlichem Umfang: Auf der räumlichen Skala werden gleichzeitig Informationen sowohl von kleinsten Zelluntereinheiten als auch von aus vielen Zellen bestehenden Netzwerken erfasst. Die zeitliche Skala soll vom Millisekundenbereich kurzer Nervenimpulse bis zu Wochen und Monaten für langandauernde Entwicklungsprozesse reichen. Das Projekt will wichtige Grundlagen liefern für die Erforschung neurologischer Erkrankungen sowie für die Entwicklung neuronal organisierter Datenverarbeitungssysteme.
 
 Johan Robertsson ist Professor am Departement Erdwissenschaften. Er erforscht, wie sich seismische Wellen ausbreiten und wie sich diese nutzen lassen, um daraus Informationen zur Struktur und Zusammensetzung des Erdinneren zu erhalten. Im Rahmen seines ERC-Projekts möchte er einen komplett neuen Ansatz entwickeln, um im Labor zu untersuchen, wie sich seismische Wellen in verschiedenen Gesteinen ausbreiten. Der ETH-Professor wird ein Versuchssystem aufbauen, das aus einem experimentellen Teil und einer Computersimulation besteht. Diese beiden Komponenten sind über Sensoren und Antriebsmechanismen so eng miteinander verwoben, dass sich seismische Wellenfelder vom Experiment in die Simulation ausbreiten können und umgekehrt. Es soll damit sogar erstmals möglich werden, die Wellenausbreitung dreidimensional in Zeitumkehr zu veranschaulichen. Die gewonnenen Erkenntnisse könnten unter anderem bei der Suche nach Geothermiequellen und fossilen Brennstoffen angewandt werden sowie in der Medizin zum Zertrümmern von Nieren- und Gallensteinen.
-
-ETH Zürich Franziska Schmid Medienstelle Telefon: +41 44 632 41 41
 

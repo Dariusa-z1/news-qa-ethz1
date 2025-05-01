@@ -1,5 +1,7 @@
 # schliifschueenle-auf-der-polyterrasse
 
+**Source:** de_internal/2015/11/schliifschueenle-auf-der-polyterrasse.html
+
 ## Main article
 
 Zürich’s schönst gelegenes Eisfeld mit Aussicht auf die Innenstadt wird ab Samstag vier Wochen lang auf Hochglanz poliert: Die ETH Zürich lädt Studierende, Mitarbeitende sowie die ganze Stadtbevölkerung vom 21. November bis 18. Dezember 2015 zum Schlittschuhlaufen, Essen und Trinken auf das Eisfeld auf der Polyterrasse ein. Schlittschuhe können für sechs Franken gemietet werden.

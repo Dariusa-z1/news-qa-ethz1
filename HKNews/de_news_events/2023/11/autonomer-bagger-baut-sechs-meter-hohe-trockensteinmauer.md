@@ -1,5 +1,7 @@
 # autonomer-bagger-baut-sechs-meter-hohe-trockensteinmauer
 
+**Source:** de_news_events/2023/11/autonomer-bagger-baut-sechs-meter-hohe-trockensteinmauer.html
+
 ## In Kürze
 
 - Weil Trockenmauern viel Handarbeit erfordern, bleiben ihre Anwendungen bislang limitiert.

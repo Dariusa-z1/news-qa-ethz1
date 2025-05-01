@@ -1,5 +1,7 @@
 # thunfischen-auf-die-flosse-geschaut
 
+**Source:** de_news_events/2014/04/thunfischen-auf-die-flosse-geschaut.html
+
 ## «Vater der modernen Biomimetik»
 
 Thunfische sind die Sportwagen unter den Fischen: Wissenschaftlern zufolge können sie dank ihres stromlinienförmigen Körpers und des starken Schlags ihrer Schwanzflosse in gut zehn Sekunden auf bis zu 50 Kilometer pro Stunde beschleunigen. Ähnlich kräftig ist Robotuna, ein Unterwasserroboter, den Forschende am MIT in den 1990er-Jahren nach dem Vorbild von lebenden Thunfischen entwickelten. Robotuna setzte damals Massstäbe für Unterwasserroboter in Sachen Wendigkeit und Energieeffizienz. Der Thunfischroboter wurde 1995 von der Zeitschrift «Scientific American» als wissenschaftlicher Höhepunkt des Jahres ausgezeichnet, heute ist er im Londoner Science Museum ausgestellt.

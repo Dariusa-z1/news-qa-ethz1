@@ -1,5 +1,7 @@
 # zurueck-ins-homeoffice-und-nur-noch-akademische-veranstaltungen
 
+**Source:** de_internal/2021/12/zurueck-ins-homeoffice-und-nur-noch-akademische-veranstaltungen.html
+
 ## Homeoffice wieder Pflicht
 
 Nach den jüngsten Beschlüssen des Bundesrates passt die ETH Zürich ihre Corona-Regeln an. Die Massnahmen treten ab Montag, 20. Dezember in Kraft. Der Masterplan wird im Laufe der Woche aktualisiert und auf der Corona-Website aufgeschaltet.
@@ -37,8 +39,6 @@ Die Einführung der Homeoffice-Pflicht stellt die Gastrobetriebe vor grosse Hera
 Der ASVZ kann aufgrund der aktuellen Regelungen seinen Betrieb aufrechterhalten. Allerdings werden neu nur Mitglieder zugelassen, die geimpft oder genesen sind (2G). Zudem gilt überall eine Maskentragpflicht, auch während des Trainings. Möglicherweise müssen deshalb einzelne Angebote abgesagt werden. Aktuelle Informationen finden sich auf der externe Seite ASVZ-Website .
 
 Ab 20. Dezember sind drinnen und draussen nur noch akademische Veranstaltungen ohne Vorort-Catering und nach den neuen Vorgaben des Bundes (2G) erlaubt. Verpflegung ist in diesen Fällen nur in den Gastrobereichen und sitzend zulässig. «Damit reagieren wir auf die kritische Pandemie-Situation», erklärt Ulrich Weidmann diese Massnahme. Auch geplante Weihnachtsanlässe in den Gebäuden der ETH Zürich dürfen aufgrund der verschärften Situation nicht mehr stattfinden. Die Schulleitung fordert die Vorgesetzten auf, bei extern geplanten Weihnachtsanlässen in der letzten Woche vor Weihnachten grösste Zurückhaltung walten zu lassen.
-
-Im Einklang mit den Beschlüssen des Bundesrats gelten diese Massnahmen vorerst bis zum 24. Januar 2022. «Wir bedauern ausserordentlich, dass diese Verschärfungen notwendig wurden, denn wir wissen, dass die Pandemie inzwischen vielen ETH-Angehörigen an den Nerven zehrt», kommentiert Weidmann. Er ruft insbesondere Führungspersonen auf, den Kontakt mit ihren Mitarbeitenden aufrecht zu erhalten. «Zumindest digital, aber auch mal in Präsenz bei einem gemeinsamen Spaziergang oder Kaffee, wenn das die räumlichen Distanzen zulassen», führt er aus.
 
 Wir freuen uns, wenn Sie an dieser Stelle Artikel kommentieren, Fragen stellen oder auch auf Kommentare anderer Leserinnen und Leser antworten.
 

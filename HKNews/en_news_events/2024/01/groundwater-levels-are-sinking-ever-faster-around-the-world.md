@@ -1,5 +1,7 @@
 # groundwater-levels-are-sinking-ever-faster-around-the-world
 
+**Source:** en_news_events/2024/01/groundwater-levels-are-sinking-ever-faster-around-the-world.html
+
 ## In brief
 
 - Using measurement data from over 170,000 groundwater monitoring wells and 1,700 groundwater systems over the last 40 years, researchers have shown that global groundwater reserves are dwindling at an increasing rate.

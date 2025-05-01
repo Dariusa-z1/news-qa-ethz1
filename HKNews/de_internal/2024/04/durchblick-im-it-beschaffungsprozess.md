@@ -1,5 +1,7 @@
 # durchblick-im-it-beschaffungsprozess
 
+**Source:** de_internal/2024/04/durchblick-im-it-beschaffungsprozess.html
+
 ## Unterstützung bei Beschaffungen
 
 - Beschaffung von Informatikleistungen (Dienstag, 14.05.2024; 09:00 - 09:30 Uhr)

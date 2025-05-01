@@ -1,5 +1,7 @@
 # determining-why-the-arctic-is-turning-ever-greener
 
+**Source:** en_news_events/2022/08/determining-why-the-arctic-is-turning-ever-greener.html
+
 ## One of the biggest and toughest endeavours
 
 “We saw landscapes where permafrost has largely collapsed over large areas,” says Sebastian Doetterl, Professor of Soil Resources, with great concern. He has just returned from a field campaign on Svalbard, an archipelago lying at about 78 degrees north latitude, where the thermometer usually climbs to an average of 9 degrees Celsius in summer.

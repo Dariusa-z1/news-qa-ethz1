@@ -1,5 +1,7 @@
 # eth-spin-off-hemotune
 
+**Source:** de_news_events/2016/12/eth-spin-off-hemotune.html
+
 ## Fokus liegt auf akuten Blutvergiftungen
 
 Lukas Langenegger nimmt eine kleine, gläserne Ampulle mit einer dunklen rot-braunen Flüssigkeit in die Hand. Dann hält er einen Magneten an den Behälter – und zack: Am Glasrand konzentrieren sich Eisenpartikel, zurück bleibt eine glasklare Flüssigkeit. Was der ETH-Doktorand hier präsentiert, ist der Kern einer neuen Methode zur Blutreinigung.

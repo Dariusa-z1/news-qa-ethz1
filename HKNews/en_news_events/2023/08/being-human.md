@@ -1,5 +1,7 @@
 # being-human
 
+**Source:** en_news_events/2023/08/being-human.html
+
 ## Question of accountability
 
 - Das Spital der Zukunft: Künstliche Intelligenz statt menschlicher Pflege? external pagePanel discussion (in DE).call\_made
@@ -39,4 +41,6 @@ It makes a big difference whether a text has been written by AI or by a human, a
 Gudela Grote is Professor of Work and Organizational Psychology in the Department of Management, Technology and Economics at ETH Zurich.
 
 Thomas Hofmann is Professor of Data Analytics in the Department of Computer Science at ETH Zurich.
+
+This text appeared in the 23/03 issue of the ETH magazine Globe . Read whole issue (PDF, 4.6 MB)
 

@@ -1,5 +1,7 @@
 # auf-dem-weg-zum-staedtischen-campus-hoenggerberg-2040
 
+**Source:** de_news_events/2018/05/auf-dem-weg-zum-staedtischen-campus-hoenggerberg-2040.html
+
 ## Vision Campus Hönggerberg 2040
 
 Seit 1961, als die ETH Zürich mit dem Bau der ersten drei Gebäude auf der damaligen Aussenstation Hönggerberg begann, hat sich der Standort zu einem vielfältigen, städtischen Campus entwickelt: Allein im vergangenen Jahrzehnt sind mehrere neue Einrichtungen für Lehre, Forschung und Wissenstransfer entstanden – darunter zum Beispiel eine neuartige Forschungshalle für roboterbasierte Fabrikation in der Architektur, das Pilotprojekt «Student Project House», in dem Studierende erste eigene Projektideen testen können, und das «Innovation & Entrepreneurship Lab», in dem junge Talente mit Unternehmergeist an ihren Geschäftsideen arbeiten. Hinzugekommen sind auch Freizeit-Nutzungen wie ein Sportcenter, zwei Wohnhäuser für Studierende mit Coiffeur-Salon und Veloatelier sowie neue Gastronomie-Angebote.

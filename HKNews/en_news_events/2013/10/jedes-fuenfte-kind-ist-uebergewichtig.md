@@ -1,5 +1,7 @@
 # jedes-fuenfte-kind-ist-uebergewichtig
 
+**Source:** en_news_events/2013/10/jedes-fuenfte-kind-ist-uebergewichtig.html
+
 ## Main article
 
 Stefanie Murer investigated body weight of Swiss children. (Photo: ETH Zürich)

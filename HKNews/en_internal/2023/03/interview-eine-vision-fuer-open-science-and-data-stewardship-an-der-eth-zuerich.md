@@ -1,5 +1,7 @@
 # interview-eine-vision-fuer-open-science-and-data-stewardship-an-der-eth-zuerich
 
+**Source:** en_internal/2023/03/interview-eine-vision-fuer-open-science-and-data-stewardship-an-der-eth-zuerich.html
+
 ## Interview on integrating Open Science thinking into a work and team setting at ETH Zurich
 
 Open science and open research data (ORD) are two keywords that are very prominent in the Swiss and European research communities at the moment. swissuniversities and ETH Domain are also advancing these topics with their own programmes to promote open research data. But how do you integrate Open Science approaches into your day-to-day work and into the team in a research group? A discussion with Professor Elizabeth Tilley (D-MAVT, Global Health Engineering ) and Lars Schöbitz, an Open Science specialist who works in the research group, offers practical insights into these questions.

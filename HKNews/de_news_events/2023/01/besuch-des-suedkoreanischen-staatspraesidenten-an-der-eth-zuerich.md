@@ -1,5 +1,7 @@
 # besuch-des-suedkoreanischen-staatspraesidenten-an-der-eth-zuerich
 
+**Source:** de_news_events/2023/01/besuch-des-suedkoreanischen-staatspraesidenten-an-der-eth-zuerich.html
+
 ## Quantenwissenschaften an der ETH Zürich
 
 Der südkoreanische Staatspräsident Yoon Suk Yeol nutzte seinen Besuch am WEF in Davos für einen Abstecher an die ETH Zürich, um sich mit Quantenwissenschaftlern der Hochschule auszutauschen. Der Besuchsdelegation gehörten auch sieben Minister der Republik an.

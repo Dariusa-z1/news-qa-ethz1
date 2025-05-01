@@ -1,5 +1,7 @@
 # neues-food-konzept-in-der-mensa-polyterrasse
 
+**Source:** de_news_events/2014/12/neues-food-konzept-in-der-mensa-polyterrasse.html
+
 ## Ab dem 19. Dezember geschlossen
 
 Mehr Platz, ein frischeres Auftreten und ein neues Angebot: Das erwartet die Gäste der Mensa Polyterrasse ab dem 19. Januar 2015. Zur Auswahl stehen Gerichte an sechs neuen Theken: Der Counter «Home» ersetzt das ehemalige «Menü 1». Dort gibt es beliebte Klassiker mit Fleisch oder Fisch, es kann aber auch mal vegetarisch sein. Damit es schneller geht, können hier neu zwei Personen gleichzeitig bedient werden. Beim Counter mit dem Namen «Street» werden international beliebte Gerichte wie Kebab, Hot Dogs, Fajitas, Burger oder Indian Curries serviert.

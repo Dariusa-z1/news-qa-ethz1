@@ -1,5 +1,7 @@
 # neue-naturstoffe-aus-dem-ozean-mikrobiom
 
+**Source:** de_news_events/2022/06/neue-naturstoffe-aus-dem-ozean-mikrobiom.html
+
 ## Neue Arten und Moleküle entdeckt
 
 Im Meerwasser tummeln sich unzählige Lebewesen, vom grössten Tier der Erde, dem Blauwal, bis hin zu winzigen Mikroorganismen. Diese sind nicht nur sehr zahlreich, sondern auch wichtig für das Funktionieren des gesamten Öko- und Klimasystems. So produzieren photosynthetisch aktive Mikroorganismen wie Cyanobakterien rund 50 Prozent des in der Atmosphäre vorhandenen Sauerstoffs. Auch entziehen solche Kleinstlebewesen der Atmosphäre Kohlendioxid und wirken damit der Klimaerwärmung entgegen.

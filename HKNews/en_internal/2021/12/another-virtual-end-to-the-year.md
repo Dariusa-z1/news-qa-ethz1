@@ -1,5 +1,7 @@
 # another-virtual-end-to-the-year
 
+**Source:** en_internal/2021/12/another-virtual-end-to-the-year.html
+
 ## President says thank you to all ETH members
 
 The first award came even before the virtual Christmas event began – namely, the presentation of the ALEA Award. The ALEA award, which was launched in 2017, honours leaders who enable advanced and innovative working conditions and who promote and support actively the reconciliation of work, family and avocational engagement. The price is awarded by AVETH with support of ETH Diversity and HR.

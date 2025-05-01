@@ -1,5 +1,7 @@
 # zukunftsblog-nicole-wenderoth-putting-the-users-centre-stage
 
+**Source:** en_news_events/2020/08/zukunftsblog-nicole-wenderoth-putting-the-users-centre-stage.html
+
 ## Of sensors, data and robots
 
 (Photograph: ETH Zurich)
@@ -17,8 +19,6 @@ These systems will never replace the interaction with physicians and therapists,
 In developing such technologies, it is crucial that the health technology delivers the relevant health service to patients, but also is well accepted by the patients and their families. In practice, the effectiveness of such technologies hinges on whether they meet the needs of users and earn their trust. This can only be achieved by considering the culture and social norms of the users and by involving them early on in the process.
 
 ## About the author
-
-The challenges for digital health technologies are in line with those of smart technologies in other areas and smart cities. What they all have in common is that they analyse huge quantities of personal data. And as we’ve seen for the COVID apps that track the contacts of infected persons, privacy and data security are critical issues that need to be carefully considered and properly addressed.
 
 It’s important to bear in mind the trade-off between maximum privacy and maximum medical benefit for patients and society. Drawing on different data from the same patient might potentially enable more personalised healthcare delivery to that individual and, in the long run, help to fine tune health technologies to benefit the wider public. However, given that health data is sensitive, it is crucial that each individual can decide which of the data from medical records, wearable devices, fitness apps, social media and other sources may be collected and used for medical diagnosis and treatment.
 

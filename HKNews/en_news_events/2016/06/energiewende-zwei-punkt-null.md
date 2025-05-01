@@ -1,5 +1,7 @@
 # energiewende-zwei-punkt-null
 
+**Source:** en_news_events/2016/06/energiewende-zwei-punkt-null.html
+
 ## Phase II
 
 23 Milliarden Euro. Soviel sollen die deutschen Betreiber von Atomkraftwerken in einen Fonds einbezahlen, der die Kosten für die Zwischen- und Endlagerung des Atommülls dauerhaft tragen soll [1]. Alle womöglich darüber hinaus gehenden Kosten müsste der deutsche Staat tragen. Wenn dieser Deal zustande kommt, werden die langfristigen Entsorgungsrisiken, die auch nach dem Atomausstieg bestehen bleiben, sozialisiert, also von privaten oder halb-öffentlichen Unternehmen auf die Allgemeinheit übertragen. Das Beispiel zeigt, dass die Energiewende in eine neue Phase kommt: Den grossen Energieversorgern geht es inzwischen so schlecht, dass ihr Nachlass dringend geregelt werden muss.

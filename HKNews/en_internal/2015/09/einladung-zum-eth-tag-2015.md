@@ -1,5 +1,7 @@
 # einladung-zum-eth-tag-2015
 
+**Source:** en_internal/2015/09/einladung-zum-eth-tag-2015.html
+
 ## Registration
 
 Outstanding accomplishment deserve recognition. ETH Zurich will continue its tradition of awarding honorary doctorates to people whose academic achievements have been particularly remarkable on an international level. The Federal Institute of Technology will also take the opportunity to thank everyone who served our university so well this year. In addition, we will recognize selected students and faculty members of ETH Zurich for their outstanding achievements.

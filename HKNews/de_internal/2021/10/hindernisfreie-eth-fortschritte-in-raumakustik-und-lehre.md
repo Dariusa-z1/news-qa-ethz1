@@ -1,5 +1,7 @@
 # hindernisfreie-eth-fortschritte-in-raumakustik-und-lehre
 
+**Source:** de_internal/2021/10/hindernisfreie-eth-fortschritte-in-raumakustik-und-lehre.html
+
 ## Infoportal barrierefreie digitale Lehrmittel
 
 - Die Seite e-Accessibility Basics gibt eine umfassende, leicht verständliche Einführung ins Thema digitale Barrierefreiheit.
@@ -22,11 +24,9 @@ Nicht nur akustisch, auch inhaltlich sollen Lehrveranstaltungen zunehmend barrie
 
 ## Staffnet
 
-Welchen Hindernissen oder Barrieren begegnen Personen mit einer Behinderung oder Beeinträchtigung – generell im Alltag und insbesondere an einer Hochschule? Drei Referentinnen und Referenten mit einer Behinderung oder Beeinträchtigung berichten von ihren Erfahrungen mit verschiedensten Hindernissen und Barrieren –, sei es im digitalen Raum, im Hörsaal oder bei sozialen Kontakten.
+Das Online-Webinar «Barrieren abbauen – auch in den Köpfen» findet am 24. November 2021 von 13-14 Uhr im Rahmen der «Respekt Events 2021» statt. Bitte melden Sie sich hier an.
 
 ## Newsletter abonnieren
-
-Das Online-Webinar «Barrieren abbauen – auch in den Köpfen» findet am 24. November 2021 von 13-14 Uhr im Rahmen der «Respekt Events 2021» statt. Bitte melden Sie sich hier an.
 
 Die Schulleitung hat im Herbst 2020 den Startschuss gegeben für die Umsetzung von Hindernisfreiheit: Menschen mit Behinderungen oder Menschen mit besonderen Bedürfnissen – seien es Studierende, Lehrende, Forschende, Mitarbeitende oder Besucherinnen und Besucher – sollen im Verlauf der nächsten Jahre weitgehend uneingeschränkten Zugang zu den Gebäuden und Dienstleistungen der ETH erhalten.
 

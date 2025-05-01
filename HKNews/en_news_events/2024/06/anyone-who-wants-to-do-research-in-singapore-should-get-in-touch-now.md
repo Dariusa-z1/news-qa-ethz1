@@ -1,5 +1,7 @@
 # anyone-who-wants-to-do-research-in-singapore-should-get-in-touch-now
 
+**Source:** en_news_events/2024/06/anyone-who-wants-to-do-research-in-singapore-should-get-in-touch-now.html
+
 ## Singapore-ETH Centre (SEC)
 
 Manu Kapur, you started your academic career in Singapore. Now you have returned there after eight years in Switzerland. What was the biggest change for you? Sure, it's a different Singapore to the one where I started my career. But my experiences in Switzerland have changed my view of science. In Switzerland, and especially at ETH Zurich, we are in a very privileged position, as we not only have access to a lot of talent, but also enjoy a great deal of trust and autonomy, which allows us to innovate from the bottom-up, and do so quickly. Singapore, on the other hand, tends to take a more curatorial approach, emphasizing certain priority areas while leaving enough white space for bottom-up ideas. Both approaches work, and ultimately, I see it as a privilege to be able to work and live in and bridge two amazing cities - Zurich and Singapore.

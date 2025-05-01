@@ -1,5 +1,7 @@
 # vier-eth-professoren-zu-max-planck-fellows-ernannt
 
+**Source:** de_news_events/2021/09/vier-eth-professoren-zu-max-planck-fellows-ernannt.html
+
 ## Main article
 
 Die Max-Planck-Gesellschaft hat vier ETH-Professoren zu Max-Planck-Fellows ernannt: Die Experten für maschinelles Lernen Otmar Hilliges, Thomas Hofmann, Andreas Krause und der Experte für biomedizinische Technik, Klaas P. Prüssmann, werden während der nächsten fünf Jahre am Max-Planck-Institut für Intelligente Systeme in Tübingen je zusätzlich eine Forschungsgruppe leiten und Doktorierende ausbilden.

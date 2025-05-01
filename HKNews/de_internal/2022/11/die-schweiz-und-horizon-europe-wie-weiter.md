@@ -1,5 +1,7 @@
 # die-schweiz-und-horizon-europe-wie-weiter
 
+**Source:** de_internal/2022/11/die-schweiz-und-horizon-europe-wie-weiter.html
+
 ## Das Problem der Übergangslösungen
 
 - Übergangsmassnahmen:  Für die Horizon Europe-Programme, zu denen die Forschende in der Schweiz nicht zugelassen sind, hat die Schweiz für 2021 und 2022 insgesamt 1226 Mio. Schweizer Franken bereitgestellt.

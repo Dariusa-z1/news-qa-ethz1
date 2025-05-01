@@ -1,5 +1,7 @@
 # arming-ourselves-against-cyber-risks
 
+**Source:** en_news_events/2017/10/arming-ourselves-against-cyber-risks.html
+
 ## More powers for cyber defence
 
 “The university and the Federal Department of Defence (DDPS) have enjoyed a close relationship for decades,” said Lino Guzzella in his address to welcome the Federal Councillor to the Audimax. The university primarily works with the DDPS via two competence centres: the ETH Center for Security Studies, which supports Switzerland’s security policy with its socio-economic and political expertise, and the technically focussed Zurich Information Security & Privacy Center (ZISC), in which ETH works with industry and the government to develop solutions to the growing challenges in the field of information security. “And last but not least,” added Guzzella, “ETH Zurich’s military academy (MILAK) has forged a strong link between ETH and the Federal Department of Security.”

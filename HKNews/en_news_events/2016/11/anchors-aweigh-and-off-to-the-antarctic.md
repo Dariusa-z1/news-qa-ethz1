@@ -1,5 +1,7 @@
 # anchors-aweigh-and-off-to-the-antarctic
 
+**Source:** en_news_events/2016/11/anchors-aweigh-and-off-to-the-antarctic.html
+
 ## The water cycle in focus at ETH
 
 Time to set sail: on 19 November, the Russian icebreaker Akademik Treshnikov will cast off from Bremerhaven. Its destination: Cape Town. Its aim: to transport people and equipment from the Swiss Polar Institute's international Antarctic Circumpolar Expedition (ACE) to South Africa. From here, the crew will set sail just before Christmas on a three-month expedition around the South Pole.

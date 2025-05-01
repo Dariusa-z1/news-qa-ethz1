@@ -1,5 +1,7 @@
 # hindernisfreie-eth-perspektivenwechsel-und-podiumsdiskussion
 
+**Source:** de_internal/2023/03/hindernisfreie-eth-perspektivenwechsel-und-podiumsdiskussion.html
+
 ## Erklärung zur Barrierefreiheit
 
 Wie finde ich den Seminarraum, wenn ich kaum etwas sehen kann? Wie komme ich im Rollstuhl über Rampen und Kopfsteinpflaster zum HPH? Und wie fühlt es sich generell an, sich mit einer Behinderung an der ETH fortzubewegen?

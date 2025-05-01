@@ -1,5 +1,7 @@
 # gruene-technik-fuers-hpz
 
+**Source:** de_news_events/2013/11/gruene-technik-fuers-hpz.html
+
 ## Probelauf für neue Gebäudetechniken
 
 Es ist beschlossene Sache: Das Schweizer Energiesystem wird bis zum Jahr 2050 konsequent umgebaut. Weg von atomarer Kernenergie, hin zu erneuerbaren Energiequellen. Schneller soll es noch mit der Reduktion von CO₂-Emissionen und fossiler Energien gehen – die Wunschmarke liegt hier bei mindestens 20 Prozent Rückgang bis 2020 gegenüber dem Stand von 1990.Um die Ziele einer nachhaltigen Gesellschaft zu erreichen, muss an allen Ecken Energie gespart werden: im Mobilitätssektor, in Industrie und Dienstleistungsbetrieben, Gemeinden und Städten – und vor allem im Baubereich.

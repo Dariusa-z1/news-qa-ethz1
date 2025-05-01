@@ -1,5 +1,7 @@
 # Public%20engagement%20of%20science
 
+**Source:** de_internal/2022/02/Public%20engagement%20of%20science.html
+
 ## Main article
 
 Seit 2021 beherbergt die Universitätsbibliothek von Süddänemark (SDU-Bibliothek) das Wissenszentrum für Citizen Science der Universität. Das Wissenszentrum hat es sich zur Aufgabe gemacht, nachhaltige Veränderungen im Hinblick auf eine offene Wissenschaft zu erreichen und Projekte zu initiieren, die darauf abzielen, traditionelle Barrieren zwischen Forschungsfachleuten, Fakultäten und anderen Bildungsbereichen zu beseitigen. Indem Projekte in Zusammenarbeit mit der Öffentlichkeit, einschliesslich neuer und etablierter Medien, initiiert werden, sollen Forschende bei der Verwaltung von Projekten unterstützt und in die Lage versetzt werden, Daten sammeln und qualitativ hochwertige, ethisch vertretbare, gemeinschaftsbasierte Forschung betreiben zu können.

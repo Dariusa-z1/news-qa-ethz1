@@ -1,5 +1,7 @@
 # mitsprache-ja-veto-nein
 
+**Source:** de_news_events/2014/05/mitsprache-ja-veto-nein.html
+
 ## Main article
 
 Der ETH-Rat hat in seiner Sitzung von gestern und heute unter anderem über die Mitsprache von Donatoren bei der Besetzung von Stiftungsprofessuren beraten. In den vergangenen Wochen war diese Thema in den externe Seite Medien . Anlass war die Frage, ob vor acht Jahren einem Donator – der Firma Nestlé – bei der Besetzung einer Professur an der EPFL vertraglich ein Vetorecht zugesichert wurde.

@@ -1,5 +1,7 @@
 # globe-kalkulieren-oder-co-kreieren
 
+**Source:** de_news_events/2022/06/globe-kalkulieren-oder-co-kreieren.html
+
 ## Zu den Personen
 
 Zu unseren Füssen spannt sich eine riesige Karte auf. Bunte Fäden und Pfeile verbinden die Papierkreationen darauf zu einer neuen Welt – einer neuen Lesart von Altstetten. Im sogenannten Design in Dialogue Lab am NEWROPE-Lehrstuhl für Architektur und Urbane Transformation versucht Professor Freek Persyn gemeinsam mit Studierenden Altstetten und dessen künftige Verdichtung besser zu verstehen und neu zu denken. «Im Lab diskutieren wir mit Akteuren, die in die Transformation des Quartiers eingebunden sind: Quartiervereine, Bewohnerinnen, Developer, Bewirtschafterinnen von Familiengärten oder Architekten mit alternativen Vorschlägen. So können wir Altstetten aus neuen Perspektiven kennenlernen», erzählt Kursleiter Lukas Fink. Denn Altstetten hat gemäss dem Richtplan der Stadt Zürich grosses Potenzial zur inneren Verdichtung. Das sieht auch Freek Persyn so: «Altstetten ist noch nicht metropolitan, könnte es aber werden.» In seinem Studio möchte er nicht nur ein gemeinsames Verständnis des Ortes erarbeiten, sondern auch diskutieren, welche Entwicklung in diesem Kontext sinnvoll ist. «Bei der Verdichtung geht es nicht nur um Zahlen, sondern auch darum, wie wir neue Verbindungen schaffen und an Bestehendes anknüpfen», erklärt Persyn.
@@ -36,9 +38,9 @@ Wälty : Wenn wir unternutzte Standorte mit gutem ÖV-Anschluss wie die Grünau 
 
 Persyn : Auf mich wirkt die Rechnung, als ob alles klar wäre, aber die Frage ist doch: Welche Qualitäten wollen wir erhalten und stärken? Wir haben mit den Bewohnern von der Siedlung Grünau gesprochen: Sie schätzen den Inselcharakter der Siedlung, das Gemeinschaftsgefühl.
 
-## «Globe» Schönheit &amp; Wissenschaft
-
 Wälty : Bei der Raumplanung geht es nicht nur um die Bewohnerinnen und Bewohner einer Siedlung, sondern auch um die Gesellschaft, die Wirtschaft und die Umwelt. Dass die Transformation einer Nachbarschaft deren Qualität verschlechtert, ist eine falsche Annahme.
+
+## «Globe» Schönheit &amp; Wissenschaft
 
 Verdichtungsprojekte haben grosse Auswirkungen auf das Leben der Anwohner, dennoch findet meist kein Dialog zwischen Entwicklern und der Bevölkerung statt. Wir wandern weiter zum Lindenplatz, wo mehrere soziale Untergruppen aufeinandertreffen. Diese laufen Gefahr, durch die umliegenden Entwicklungsprojekte verdrängt zu werden.
 
@@ -73,4 +75,6 @@ Freek Persyn ist Professor für Architektur und Urbane Transformation und Leiter
 Sibylle Wälty forscht und lehrt am ETH Wohnforum – ETH CASE. Im Rahmen des MAS / CAS ETH in Mobilität der Zukunft fokussiert sie ihre Lehre auf Zehn-Minuten-Nachbarschaften.
 
 Beide sind Teil des FCL-Global-Projekts «Dense and Green Cities» unter der Leitung von Sacha Menz, wo sie die Transformations- und Verdichtungsdynamik von Altstetten erforschen.
+
+Ganze Ausgabe lesen (PDF, 6.7 MB)
 

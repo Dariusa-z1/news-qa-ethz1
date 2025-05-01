@@ -1,5 +1,7 @@
 # employees-and-supervisors-have-a-shared-responsibility
 
+**Source:** en_internal/2021/07/employees-and-supervisors-have-a-shared-responsibility.html
+
 ## Main article
 
 Lukas Vonesch, Leiter Abteilung Personal (Bild: ETH Zürich / Gian Marco Castelberg)
@@ -11,8 +13,6 @@ There's actually no new rule involved. Personnel policies have basically always 
 We have been trying to raise awareness of this issue among employees since 2017. Until now, this took place mostly on an individual basis, but now we are requiring people to create a binding plan for reducing time balances. There is also increasing pressure from the federal government to deal with this topic appropriately, and ETH Zurich has to adhere to this requirement.
 
 Which employees will be affected by the requirement to reduce time balances?
-
-The majority of employees, around 75 percent, have a good handle on their time balances and correctly take their free time and holidays. Twenty percent of employees have slightly too high time credits that they can further reduce by taking a bit more ownership and doing a bit more planning. Only five percent – so around 350 people – have extremely high time balances. For these employees, we need a mandatory, systematic approach for reducing their excess hours. These employees and their supervisors will be contacted by Human Resources and asked to create a binding plan for reducing their excess time. HR Personnel Consulting will gladly provide support to employees who are affected if they have any questions or concerns.
 
 What's the procedure for reducing excess hours? What responsibilities do professors, supervisors and employees have in this regard?
 

@@ -1,5 +1,7 @@
 # ausstellung-die-eiswelt-der-schweizer-gletscher
 
+**Source:** de_internal/2022/03/ausstellung-die-eiswelt-der-schweizer-gletscher.html
+
 ## Beeindruckende Werke
 
 - Ausstellungsdauer: 04. April bis 06. Mai 2022

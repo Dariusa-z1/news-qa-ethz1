@@ -1,12 +1,12 @@
 # jam-packed-full-of-ambition-and-intelligence%20
 
+**Source:** en_news_events/2015/04/jam-packed-full-of-ambition-and-intelligence%20.html
+
 ## Main article
 
 “It’s your task to realise your full potential. Be the very best you can be. And then you’ll take off.” These were the words spoken on Tuesday night by ETH Rector Sarah Springman to the scholarship holders of the “Excellence Scholarship & Opportunity Programme” (ESOP). The 50 or so young women and men who were in attendance had gathered for the annual “Meet the Talent” event at ETH Zurich where they were to present themselves and their projects to their patrons. Because these scholarships are financed in part by donations to the ETH Zurich Foundation given by alumni, friends and supporters.
 
 There is a familiar face among the Excellence Scholars: Bettina Heim, the former Swiss figure-skating champion. She is now 25 and a physics student at ETH Zurich. Recently, she was even able to publish the results of her Bachelor’s thesis in the renowned specialist journal Science. “For me, the ESOP scholarship means that I was also able to give up my second job as a figure-skating trainer in order to concentrate fully on my studies,” she said. But ESOP isn’t just about the money – the opportunities it offers are also important. For the students also receive special supervision for the duration of their studies.
-
-This opportunity was also raised in conversation by Daniel Graf, a 24-year-old computer science student. “The scholarship lets you make so many exciting contacts,” he said. As part of his Master’s thesis, he is developing a system that will allow you to park bicycles efficiently using a robot. The principle could also be applied in automated warehouses or libraries.
 
 Another scholarship holder who presented her project at “Meet the Talent” was Andrea Irniger, an up-and-coming, 25-year-old environmental engineer. She is investigating flood scenarios and the debris in the River Sihl near the Zurich main station. A model of this area stands in the Laboratory of Hydraulics, Hydrology and Glaciology (VAW), and Irniger has recreated it in her computer. “I did a lot of other jobs while studying for my Bachelor’s degree,” she says. “But thanks to the scholarship I can now concentrate on my studies.”
 

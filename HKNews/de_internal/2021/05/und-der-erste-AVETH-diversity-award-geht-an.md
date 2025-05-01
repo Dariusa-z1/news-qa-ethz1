@@ -1,5 +1,7 @@
 # und-der-erste-AVETH-diversity-award-geht-an
 
+**Source:** de_internal/2021/05/und-der-erste-AVETH-diversity-award-geht-an.html
+
 ## Die Kategorien
 
 - Personen, die Aspekte der Vielfalt und der Inklusion in ihre Arbeit an der ETH miteinbeziehen.

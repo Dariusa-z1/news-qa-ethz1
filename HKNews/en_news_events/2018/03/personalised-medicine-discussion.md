@@ -1,5 +1,7 @@
 # personalised-medicine-discussion
 
+**Source:** en_news_events/2018/03/personalised-medicine-discussion.html
+
 ## Initiatives
 
 ETH News: Personalised medicine has become a hot topic for researchers, holding out the hope of new drugs and treatment strategies that are tailored more closely to an individual’s genetic make-up. Why does the topic of data come up so frequently in discussions about personalised medicine? Markus Stoffel: The progress we’ve seen in personalised medicine is, in part, due to advances in data-driven technologies and analysis methods. Doctors have always wanted to offer their patients the best treatment to suit their specific case. These kinds of methods enable them to do that with much greater precision than they could before.

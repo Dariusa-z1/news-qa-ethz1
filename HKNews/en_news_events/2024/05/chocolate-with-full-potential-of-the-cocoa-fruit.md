@@ -1,5 +1,7 @@
 # chocolate-with-full-potential-of-the-cocoa-fruit
 
+**Source:** en_news_events/2024/05/chocolate-with-full-potential-of-the-cocoa-fruit.html
+
 ## In brief
 
 - ETH researchers have developed a type of chocolate that is more sustainable and nutritious than conventional varieties.

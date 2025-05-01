@@ -1,5 +1,7 @@
 # qled-plaettchen-statt-kuegelchen-machen-bildschirme-sparsam
 
+**Source:** de_news_events/2020/01/qled-plaettchen-statt-kuegelchen-machen-bildschirme-sparsam.html
+
 ## Gestapelt und voneinander isoliert
 
 Seit wenigen Jahren gibt es QLED-Bildschirme zu kaufen. Sie sind bekannt für ihre hellen, intensiven Farben, welche mit der sogenannten Quantenpunkt-Technologie erzeugt werden. QLED steht für Quantenpunkt-Leuchtdiode. Forschende der ETH Zürich haben nun eine Technologie entwickelt, welche die Energieeffizienz der QLEDs erhöht. Die Wissenschaftler erreichten dies, indem sie die Streuverluste des Lichts im Innern der Dioden minimierten. Damit tritt ein grösserer Anteil des erzeugten Lichts nach aussen.

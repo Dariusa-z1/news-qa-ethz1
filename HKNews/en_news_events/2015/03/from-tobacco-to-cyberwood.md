@@ -1,5 +1,7 @@
 # from-tobacco-to-cyberwood
 
+**Source:** en_news_events/2015/03/from-tobacco-to-cyberwood.html
+
 ## Water is replaced by nanotubes
 
 Humans have been inspired by nature since the beginning of time. We mimic nature to develop new technologies, with examples ranging from machinery to pharmaceuticals to new materials. Planes are modelled on birds and many drugs have their origins in plants. Researchers at the Department of Mechanical and Process Engineering have taken it a step further: in order to develop an extremely sensitive temperature sensor they took a close look at temperature-sensitive plants. However, they did not mimic the properties of the plants; instead, they developed a hybrid material that contains, in addition to synthetic components, the plant cells themselves. “We let nature do the job for us,” explains Chiara Daraio, Professor of Mechanics and Materials.

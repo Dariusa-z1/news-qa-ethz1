@@ -1,5 +1,7 @@
 # persistent-identifiers-in-research
 
+**Source:** de_internal/2019/07/persistent-identifiers-in-research.html
+
 ## Main article
 
 Persistent Identifiers (PID) leisten einen zentralen Beitrag dazu, die Auffindbarkeit von digitalen Objekten aus Wissenschaft und Forschung im Internet sicherzustellen.

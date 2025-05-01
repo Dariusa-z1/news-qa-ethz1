@@ -1,5 +1,7 @@
 # kuenstliche-intelligenz-versteht-den-klang-gesunder-maschinen
 
+**Source:** de_news_events/2022/02/kuenstliche-intelligenz-versteht-den-klang-gesunder-maschinen.html
+
 ## Defekte frühzeitig erkennen
 
 Ob Eisenbahnräder oder Generatoren in einem Kraftwerk, ob Pumpen oder Ventile – sie alle machen Geräusche. Für geübte Ohren haben diese Geräusche sogar eine Bedeutung: Bauteile, Maschinen, Anlagen oder Rollmaterial klingen nämlich anders, wenn sie einwandfrei funktionieren, als wenn sie einen Mangel oder Fehler haben.

@@ -1,5 +1,7 @@
 # noch-attraktivere-gastro-seiten
 
+**Source:** de_internal/2016/05/noch-attraktivere-gastro-seiten.html
+
 ## Neue Funktionen in der ETH-App
 
 Tausende ETH-Mitarbeitende klicken sich täglich durch die Webseiten der ETH-Gastronomie – um herauszufinden, was es wo zu essen gibt und ob etwas neues im Angebot ist. Nun sind die Webseiten ins aktuelle Design migriert.

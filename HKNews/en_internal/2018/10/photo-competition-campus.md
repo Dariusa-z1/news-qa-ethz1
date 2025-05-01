@@ -1,5 +1,7 @@
 # photo-competition-campus
 
+**Source:** en_internal/2018/10/photo-competition-campus.html
+
 ## Photo competition
 
 - Depiction of the unique atmosphere and the particular features of the Hönggerberg campus

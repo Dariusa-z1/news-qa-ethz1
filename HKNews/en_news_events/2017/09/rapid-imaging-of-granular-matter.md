@@ -1,5 +1,7 @@
 # rapid-imaging-of-granular-matter
 
+**Source:** en_news_events/2017/09/rapid-imaging-of-granular-matter.html
+
 ## Powders and grains in the chemical industry
 
 Even in our modern world full of highly technological machines and devices it is still impossible to predict when rockslides, such as the recent one in Graubünden, or earthquakes will occur and how exactly they evolve. This is partly due to the fact that despite many years of research, scientists have only just begun to understand the behaviour of gravel and sand, particularly when mixed with water or gases.

@@ -1,5 +1,7 @@
 # wyss-zurich-foundation-neues-fundament-fuer-translationale-forschung-und-technologietransfer
 
+**Source:** de_internal/2022/02/wyss-zurich-foundation-neues-fundament-fuer-translationale-forschung-und-technologietransfer.html
+
 ## Vielversprechende Projekte und Start-ups
 
 Seit 2015 existiert das externe Seite Forschungszentrum «Wyss Zurich Translational Center» von UZH und ETH Zürich. Ermöglicht wurde seine Gründung dank einer grosszügigen Donation von 120 Millionen US-Dollar durch den Mäzen Hansjörg Wyss. Basierend auf dem Know-how und der erstklassigen Infrastruktur der beiden Hochschulen bringt das Zentrum wissenschaftliche Ideen in die Anwendung. Der Fokus liegt dabei auf klinischen Therapien, neuartigen Technologien und intelligenten Systemen in der regenerativen Medizin und der Robotik.

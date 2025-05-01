@@ -1,5 +1,7 @@
 # diskutieren-sie-am-naechsten-1715-kolloquium-mit
 
+**Source:** de_internal/2019/10/diskutieren-sie-am-naechsten-1715-kolloquium-mit.html
+
 ## Main article
 
 Im Juli 2019 veröffentlichte die Deutsche Forschungsgemeinschaft (DFG) den neuen Kodex «Leitlinien zur Sicherung guter wissenschaftlicher Praxis». Der Kodex rekurriert auf die mit dem digitalen Wandel einhergehenden Veränderungen im wissenschaftlichen Forschungs- und Publikationsprozess sowie auf neue Strukturen in der Wissenschaft und neue Kooperationsformen. Vom Berufsethos der Wissenschaftlerinnen und Wissenschaftler gedacht, soll eine verbindliche Kultur wissenschaftlicher Integrität forciert werden.

@@ -1,5 +1,7 @@
 # responsive-ergebnisanzeige-im-wissensportal
 
+**Source:** de_internal/2015/05/responsive-ergebnisanzeige-im-wissensportal.html
+
 ## Main article
 
 Somit ist nun das gesamte Wissensportal für mobile Geräte optimiert.

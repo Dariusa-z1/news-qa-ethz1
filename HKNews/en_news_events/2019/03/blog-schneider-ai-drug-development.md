@@ -1,5 +1,7 @@
 # blog-schneider-ai-drug-development
 
+**Source:** en_news_events/2019/03/blog-schneider-ai-drug-development.html
+
 ## The perfect partner?
 
 (Photograph: ETH Zurich)

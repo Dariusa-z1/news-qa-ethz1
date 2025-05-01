@@ -1,5 +1,7 @@
 # federal-council-approves-the-horizon-2020-package
 
+**Source:** en_news_events/2014/10/federal-council-approves-the-horizon-2020-package.html
+
 ## Period of association
 
 It allows researchers from Switzerland to take full part in selected parts of Horizon 2020 and to apply for the sought-after grants provided by the European Research Council. The agreement provides for Switzerland’s full association to Horizon 2020 between 2017 and 2020, provided a solution can be found to the issue of the free movement of persons.

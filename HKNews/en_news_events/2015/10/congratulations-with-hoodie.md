@@ -1,5 +1,7 @@
 # congratulations-with-hoodie
 
+**Source:** en_news_events/2015/10/congratulations-with-hoodie.html
+
 ## Run on hoodies
 
 Tuesday afternoon in the main building at ETH Zurich, a crowd of students gathers, almost like a rugby match. They cluster around a row of tables, present the assistants with a voucher and receive a hoodie wrapped in plastic with the embroidered logo 'ETH Zürich – best. 2015.' Most of them pulled on the hoodie straight away, posing like models and taking photos with their phones. Everyone was clearly excited about the unexpected addition to their wardrobes.

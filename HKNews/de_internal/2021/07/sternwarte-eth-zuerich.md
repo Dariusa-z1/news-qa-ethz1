@@ -1,5 +1,7 @@
 # sternwarte-eth-zuerich
 
+**Source:** de_internal/2021/07/sternwarte-eth-zuerich.html
+
 ## Mehr Frei- und Grünraum statt Parkplätze
 
 Den Freiräumen im Hochschulgebiet wird eine besondere Bedeutung zugeschrieben. Sie dienen Hochschul- und Spitalangehörigen sowie Anwohnenden sowohl als Begegnungs- und Rückzugsort und fördern die Durchwegung zwischen den umliegenden Gebäuden und dem Quartier. Durch ihre Begrünung und Beschattung tragen sie zudem zu einem positiven Lokalklima der Stadt Zürich bei.

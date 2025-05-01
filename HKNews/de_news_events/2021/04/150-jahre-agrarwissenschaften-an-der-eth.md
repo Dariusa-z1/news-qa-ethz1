@@ -1,5 +1,7 @@
 # 150-jahre-agrarwissenschaften-an-der-eth
 
+**Source:** de_news_events/2021/04/150-jahre-agrarwissenschaften-an-der-eth.html
+
 ## Hervorragendes Betreuungsverhältnis und knappe Finanzen
 
 Bis weit ins 19. Jahrhundert war die Schweiz ein Agrarstaat. Die Landwirtschaft war aufgrund ihres Anteils am Bruttosozialprodukt der mit Abstand wichtigste wirtschaftliche Sektor. Über 80 Prozent der Bevölkerung waren in der Landwirtschaft tätig. Doch mit der zunehmenden Industrialisierung und dem Wandel zu einer Dienstleistungsgesellschaft musste sich auch die Landwirtschaft weiterentwickeln. Während im Ausland, besonders in Deutschland, die Agrarwissenschaften schon ihren festen Platz an den Universitäten hatten, wurde in der Schweiz vor allem Erfahrungswissen vermittelt – systematische Forschung im Agrarbereich fehlte. Das änderte sich, als das Parlament sprachlich leicht holprig das «Bundesgesez betreffend Erweiterung der Forstschule des eidgenössischen Polytechnikums zu einer land- und forstwirthschaftlichen Schule» beschliesst und 1871 – also vor 150 Jahren – die Abteilung Landwirtschaft an der ETH Zürich gegründet wurde.

@@ -1,5 +1,7 @@
 # a-new-direction-for-cancer-research
 
+**Source:** en_news_events/2024/03/a-new-direction-for-cancer-research.html
+
 ## Tumour type is key
 
 Dagmar Iber is Professor of Computational Biology at ETH’s Department of Biosystems Science and Engineering in Basel. Her research group uses a combination of lab experiments and computer modelling to investigate how cells organise themselves into organs and other complex, three-dimensional tissue structures based on the genetic information they contain. Until recently, their work did not touch on cancer research. But that all changed when the ETH Board issued a call for research proposals combining basic and medical research on new topics in health-related fields.
@@ -35,4 +37,6 @@ Based on computer models, biopsies from tumour patients and tissue samples harve
 These findings may well take cancer research in a new direction. At present, much of this work focuses on inhibiting the growth of cancer cells or killing them. “But our research shows once again that tissue mechanics is important, too,” Iber notes. Cells secrete protein fibres and enzymes that influence and modify the extracellular matrix that surrounds them. “Cancer research needs to focus more closely on biomechanics and the chemical signalling pathways that affect it,” Iber says. “But this line of investigation is still very much in its infancy.”
 
 Besides the enjoyment of constructive collaboration with clinicians from University Hospital Basel, this cancer research project has brought Iber new insights. These may well prove invaluable back on her home territory of developmental biology, where tissue mechanics also play a role.
+
+This text appeared in the 24/01 issue of the ETH magazine Globe . Read whole issue (PDF, 3.5 MB)
 

@@ -1,5 +1,7 @@
 # schweizer-bevoelkerung-bevorzugt-strenge-food-waste-regeln
 
+**Source:** de_news_events/2022/02/schweizer-bevoelkerung-bevorzugt-strenge-food-waste-regeln.html
+
 ## Präferenz für strenge und transparente Regeln
 
 300 Kilogramm einwandfreie Lebensmittel landen in der Schweiz jedes Jahr pro Kopf im Abfall. Weltweit ereilt dieses Schicksal etwa ein Drittel aller Lebensmittel – Tendenz steigend. Verschwendete Lebensmittel – kurz Food Waste – sind zudem für mindestens acht Prozent der weltweiten menschlichen Treibhausgasemissionen verantwortlich.

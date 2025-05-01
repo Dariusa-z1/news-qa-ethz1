@@ -1,5 +1,7 @@
 # bakterien-fuer-klimaneutrale-chemikalien-der-zukunft
 
+**Source:** de_news_events/2024/04/bakterien-fuer-klimaneutrale-chemikalien-der-zukunft.html
+
 ## In Kürze
 
 - Methanol kann mit erneuerbarer Energie aus Kohlendioxid und Wasser synthetisiert werden.

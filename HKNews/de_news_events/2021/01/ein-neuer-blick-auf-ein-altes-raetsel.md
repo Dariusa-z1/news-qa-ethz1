@@ -1,5 +1,7 @@
 # ein-neuer-blick-auf-ein-altes-raetsel
 
+**Source:** de_news_events/2021/01/ein-neuer-blick-auf-ein-altes-raetsel.html
+
 ## Ein Abenteuer mit tragischem Ende
 
 Als EPFL-Professor Johan Gaume Anfang Oktober 2019 einen Anruf mit unbekannter Nummer erhielt, ahnte er wohl kaum, dass er bald tief in eines der grössten Rätsel in der Geschichte der Sowjetunion eintauchen würde. Die Anruferin, eine Journalistin der New York Times, bat ihn um seine fachliche Meinung zu einer Tragödie, die sich 60 Jahren zuvor im nördlichen Ural in Russland ereignet hatte und heute als das Unglück am Djatlow-Pass bekannt ist. Die russische Generalstaatsanwaltschaft hatte den Fall kurz zuvor aus den Tiefen der sowjetischen Archive hervorgeholt – Gaume, Leiter des Labors für Schnee- und Lawinensimulation (Snow and Avalanche Simulation Laboratory, SLAB) der EPFL und Gastwissenschafter am WSL-Institut für Schnee- und Lawinenforschung SLF, war er jedoch unbekannt. «Ich bat die Journalistin, mich am nächsten Tag nochmals anzurufen, damit ich mich informieren konnte. Was ich dabei erfuhr, fand ich äusserst spannend.»
@@ -14,19 +16,17 @@ Die sowjetischen Behörden untersuchten die Unglücksursache, stellten die Ermit
 
 ## Neues Wissen schliesst Ermittlungslücken
 
-Eine höchst mysteriöse Geschichte, die sich Gaume da auftat. «Gleich nach dem Anruf der New York Times kritzelte ich eine Reihe Gleichungen und Zahlen an die Tafel, um aus rein mechanischer Sicht den möglichen Ablauf der Ereignisse zu skizzieren», berichtet Gaume. «Bei unserem nächsten Telefonat sagte ich der Journalistin, dass wahrscheinlich eine Lawine die Schlafenden im Zelt überrascht hat.» Diese von allen am plausibelsten erscheinende Theorie vertritt auch die russische Generalstaatsanwaltschaft, die auf Bitte der Hinterbliebenen im Jahr 2019 die Ermittlungen wieder aufgenommen hatte. Angesichts der dürftigen Beweislage sowie einiger seltsamer Gegebenheiten bleiben viele Russen allerdings skeptisch. «Die Geschichte interessierte mich ungemein. Ich beschäftigte mich eingehender mit dieser Theorie und kontaktierte schliesslich Alexander Puzrin, Professor und stellvertretender Leiter des Instituts für Geotechnik der ETH Zürich, den ich einen Monat zuvor bei einer Konferenz in Frankreich kennengelernt hatte.»
-
 Gedenkstein für die Djatlow-Gruppe aus dem Jahr 1962 am Friedhof Mihaylovskoe in Swerdlowsk (Bildquelle: Djatlow-Gedächtnisstiftung)
-
-## Literaturhinweis
 
 Gemeinsam durchkämmten der gebürtige Franzose Gaume und der russischstämmige Puzrin die Archive, die der Öffentlichkeit nach dem Zusammenbruch der Sowjetunion zugänglich gemacht worden waren. Daneben sprachen sie mit anderen Wissenschaftlern und Experten des Falls und entwickelten ein analytisches sowie ein numerisches Modell zur Rekonstruktion der Lawine, der die Expeditionsteilnehmer zum Opfer gefallen sein könnten. «Das Rätsel vom Djatlow-Pass gehört heute zur russischen Folklore. Als ich meiner Frau erzählte, woran ich arbeite, war sie zutiefst beeindruckt», sagt Puzrin. «Das Projekt hat mich sehr gereizt, da ich zwei Jahre zuvor mit der Arbeit an Schneebrettlawinen begonnen hatte. Mein Hauptforschungsgebiet sind Erdrutsche. Ich untersuche, was genau passiert, wenn es zu Zeitverzögerungen zwischen dem Auslöser und dem tatsächlichen Abgang eines Erdrutsches kommt.» Gaume und Puzrin sind der Meinung, dass die Gruppe für ihr Zelt in der Schneedecke des Hangs eine Grube aushob. Die Lawine selbst ging aber erst viele Stunden später ab.
 
+## Literaturhinweis
+
 «Einer der Hauptgründe, warum die Lawinentheorie immer noch keine breite Anerkennung findet, ist, dass die Behörden den genauen Ablauf nicht erklären konnten», sagt Gaume. Tatsächlich spricht auch einiges gegen diese Theorie. So fand der Suchtrupp weder eindeutige Beweise für eine Lawine noch deren Ablagerung, und mit weniger als 30 Grad ist die durchschnittliche Hangneigung oberhalb des Lagers nicht steil genug für eine Lawine. Wenn es eine Lawine gegeben hat, dann ging diese ausserdem mindestens neun Stunden nach dem Anlegen des Zeltplatzes ab. Und schliesslich sind die an einigen Leichen gefundenen Brust- und Schädelverletzungen nicht typisch für eine Lawine. In ihrer Studie, die am 28. Januar in der Fachzeitschrift Communications Earth & Environment von Nature Research veröffentlicht wurde, greifen Gaume und Puzrin diese Punkte auf.
 
-## Kontakt
-
 Darstellung des in den Hang unterhalb einer kleinen Bergschulter geschnittenen ebenen Zeltplatzes mit der vom Wind verfrachteten Schneeablagerung oberhalb des Zelts (Bild: Gaume/Puzrin)
+
+## Kontakt
 
 «Mithilfe von Daten zur Reibung zwischen Schneeschichten und der lokalen Topografie wollen wir beweisen, dass eine kleine Schneebrettlawine auf einem flacheren Hang abgehen könnte, ohne grosse Spuren zu hinterlassen. Anhand von Computersimulationen zeigen wir, dass eine Schneebrettlawine ähnliche Verletzungen wie die hervorrufen kann, die an einigen der Toten gefunden wurden. Dann gibt es natürlich noch die Zeitdifferenz zwischen dem Anschnitt des Hangs und dem Abgang der Lawine. Das ist das Hauptaugenmerk unseres Artikels. Die früheren Ermittlungen konnten nicht erklären, wie mitten in der Nacht eine Lawine ausgelöst werden kann, wenn es am Abend davor nicht geschneit hat. Wir brauchten eine neue Theorie, die genau das erklärt», berichtet Gaume.
 
@@ -35,6 +35,4 @@ Einer der wichtigsten Faktoren in der Nacht der Tragödie waren katabatische Win
 Beide Forscher sind aber vorsichtig mit ihren Erkenntnissen und betonen, dass dieses Unglück in weiten Teilen ein Rätsel bleibt. «Tatsache ist, dass niemand wirklich weiss, was in dieser Nacht geschah. Aber wir haben starke quantitative Beweise, die die Lawinentheorie untermauern», fährt Puzrin fort. Für die Studie wurden zwei Modelle entwickelt: ein numerisches Modell der ETH Zürich, mit dem die zum Auslösen einer Lawine nötige Zeit kalkuliert wurde, und ein Modell des SLAB, das die Auswirkungen von Lawinen auf den menschlichen Körper untersuchte. Beide werden nun dafür eingesetzt, mehr über Lawinen und die damit verbundenen Risiken zu erfahren. Mit ihrer Arbeit zollen Gaume und Puzrin der Gruppe vom Djatlow-Pass Tribut, die einer «massiven Naturgewalt» ausgesetzt war und, obwohl sie ihre gefährliche Expedition nicht beenden konnte, Generationen von Wissenschaftlern ein höchst mysteriöses Rätsel aufgegeben hat.
 
 Gaume J, Puzrin A. Mechanisms of slab avalanche release and impact in the Dyatlov Pass incident in 1959. Communications Earth and Environment. 28. Januar 2021. DOI: externe Seite 10.1038/s43247-020-00081-8
-
-ETH Zürich Hochschulkommunikation Medienstelle Telefon: +41 44 632 41 41
 

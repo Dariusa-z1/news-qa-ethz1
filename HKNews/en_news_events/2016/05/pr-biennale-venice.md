@@ -1,5 +1,7 @@
 # pr-biennale-venice
 
+**Source:** en_news_events/2016/05/pr-biennale-venice.html
+
 ## Architecture for the people
 
 Confronted with rapid population growth, urban regions face an influx of migrants and the challenges of climate change. For this reason, ETH Zurich is focusing its research on the development of sustainable cities. It is hardly surprising, then, that ETH Zurich is represented so prominently at this year’s Architecture Exhibition in Venice, that addresses how architecture can improve people’s living situations.
@@ -18,9 +20,9 @@ See the separate Factsheet for more information and Photos .
 
 The Block Research Group and ODB Engineering join the team of Norman Foster and supported by the Lafarge Holcim Foundation to present an earthen tile shell, which serves as a prototype for a terminal for drones, the “droneport”, in Rwanda. In the future, this is intended to form part of an infrastructural network to supply blood, medication and other important goods to remote regions of Africa.
 
-More Information and Photos .
-
 ## Overview of projects related to ETH
+
+More Information and Photos .
 
 “Mud WORKS!” Main exhibition, Giardini – Anna Heringer, Martin Rauch and Andres Lepik
 
@@ -36,11 +38,11 @@ See the separate Factsheet for more information.
 
 The ‘Incidental Space’ project from architect Christian Kerez takes the form of fundamental research and re-examines the possibilities of architecture. Although today’s technology creates more possibilities than ever before, architects’ creative scope seems instead to be narrowing. In this project, Kerez demonstrates how the interpretation of architecture can change not only the possibilities of architecture but also the architecture itself.
 
+## Contact
+
 See the press release from Pro Helvetia for more information and Photos .
 
 “Informal Settlements in Cairo” Egyptian Pavilion – The MAS Urban Design, Prof. Marc Angélil
-
-## Contact
 
 Since 2014, the research group led by Marc Angélil has been studying the emergence of informal settlements in Cairo. The group is calling on domestic and international architects to play a more active role in these informal city districts. As part of its exhibition in the Egyptian Pavilion, the group is presenting selected research and design results from the past few years.
 
@@ -57,6 +59,4 @@ See the separate Factsheet for more information.
 To this day, the war-torn city of Sarajevo is still marred by destruction and political deadlock. Like no other building in Sarajevo, the historic Museum of Bosnia and Herzegovina symbolises resistance; with no funding whatsoever, locals have begun restoring the museum into a forum for cultural encounters. Inspired by these efforts, architects from the Urban Think Tank and Baier Bischofberger Architekten have designed a series of temporary measures to improve the situation without altering the building’s character.
 
 See Project page for more information.
-
-ETH Zurich Vanessa Bleich Media Relations Phone: +41 44 632 41 41
 

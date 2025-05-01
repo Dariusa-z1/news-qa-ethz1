@@ -1,5 +1,7 @@
 # brandschutzkurs-fuer-eth-angehoerige
 
+**Source:** de_internal/2014/09/brandschutzkurs-fuer-eth-angehoerige.html
+
 ## Main article
 
 Jeder Kursteilnehmer hat Gelegenheit, unter fachkundiger Anleitung ein Feuer mit einem Handfeuerlöscher zu bekämpfen.

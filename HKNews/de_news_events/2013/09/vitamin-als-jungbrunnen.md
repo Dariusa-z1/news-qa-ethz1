@@ -1,5 +1,7 @@
 # vitamin-als-jungbrunnen
 
+**Source:** de_news_events/2013/09/vitamin-als-jungbrunnen.html
+
 ## «Keine Evidenz für Wirkung von Antioxidantien»
 
 Die winzigen Fadenwürmer leben länger mit Niacin. (Bild: Michael Ristow / ETH Zürich)
@@ -33,8 +35,4 @@ Hintergrund der jüngsten Studie zu den Wirkungen von Niacin und Nikotinamid ist
 Die Arbeit von Ristow und seinen Kollegen legt nun nahe, dass die Aktivität von Sirtuinen bei Fadenwürmern tatsächlich das Leben verlängert. Allerdings ist die lebensverlängernde Wirkung laut der Studie nicht auf die Genregulation zurückzuführen, wie es in der Vergangenheit oft vermutet wurde. Vielmehr hat die Wirkung mit der Umwandlung von Niacin in Nikotinamid zu tun. Bei gentechnisch veränderten Fadenwürmern, die nicht fähig waren, Nikotinamid in bestimmte weitere Stoffwechselprodukte umzuwandeln, beobachteten die Wissenschaftler kein verlängertes Leben, auch nicht nach Aktivierung von Sirtuinen, die ansonsten zu einer gesteigerten Lebenserwartung führt.
 
 Schmeisser K et al.: Role of Sirtuins in Lifespan Regulation is Linked to Methylation of Nicotinamide. Nature Chemical Biology, 2013, Online-Vorabveröffentlichung, doi: externe Seite 10.1038/nchembio.1352
-
-ETH Zürich Prof. Michael Ristow Professur für Energiestoffwechsel Tel. +41 44 655 74 46
-
-ETH Zürich Media Relations Tel. +41 44 632 41 41
 

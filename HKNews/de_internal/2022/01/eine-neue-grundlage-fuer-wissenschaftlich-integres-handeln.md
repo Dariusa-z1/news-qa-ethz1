@@ -1,5 +1,7 @@
 # eine-neue-grundlage-fuer-wissenschaftlich-integres-handeln
 
+**Source:** de_internal/2022/01/eine-neue-grundlage-fuer-wissenschaftlich-integres-handeln.html
+
 ## Klar in der Erwartung, sparsam in der Regulierung
 
 Wissenschaftliche Integrität und gute wissenschaftliche Praxis stehen für eine Haltung und ein Handeln, die den Umgang der Forschenden untereinander betrifft und sich in ihrer täglichen Arbeit äussert: Schliesslich müssen sich Wissenschaftlerinnen und Wissenschaftler – ebenso wie Wirtschaft und Gesellschaft – darauf verlassen können, dass wissenschaftliche Ergebnisse redlich, offen, nachvollziehbar und wiederholbar entstehen.

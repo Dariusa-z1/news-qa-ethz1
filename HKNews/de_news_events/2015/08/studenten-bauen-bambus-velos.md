@@ -1,5 +1,7 @@
 # studenten-bauen-bambus-velos
 
+**Source:** de_news_events/2015/08/studenten-bauen-bambus-velos.html
+
 ## Erster Preis für Prototyp
 
 Stabiler, leichter, nachhaltiger und schöner: So preist Kevin Klein, Informatikstudent der ETH Zürich, Fahrräder an, die einen Rahmen aus Bambus haben. Stahl oder Aluminium, aus welchem normale Alltagsräder gemacht seien, seien mit viel grauer Energie belastet. «Bambus aber wächst drei Zentimeter pro Stunde, einfach so, ohne dass man einen Finger rühren muss», sagt Klein.
@@ -27,6 +29,4 @@ Von der Vorverkaufsaktion erhoffen sich die Studenten Rückmeldungen von ihren e
 Um die Kickstarter-Modelle zu bewerben, planen die Drei ab Mitte September eine Präsentationstour, die sie in mehrere europäische Städte führen soll, unter anderem in die Velostädte Amsterdam und Kopenhagen. Von Mitte bis Ende November soll dann die Montage und Auslieferung der bestellten Fahrräder erfolgen, allerdings werden dann die angehenden Informatiker nicht selbst Hand anlegen. «Die Fahrräder werden für uns in spezialisierten Werkstätten gebaut.» Am besten in einer, die direkt an einem der grossen Häfen Rotterdam oder Hamburg liegt. Das wäre vom ökologischen Aspekt her sinnvoller, da nur ein statt zwei Transporte nötig wäre, und die Kosten für die Auslieferung lägen tiefer.
 
 Von ihrem neuen Geschäft können die Studenten (noch) nicht leben. «Wir möchten nicht unser Hobby zum Beruf machen, sondern wir versuchen, das Velobusiness parallel zu unserem Studium aufzuziehen», erklärt Klein. Aber: «Wir wollen mit Bambusvelos nicht einfach eine Nische bedienen, sondern massentauglich sein.»
-
-Noch ist «Koala Bicycles» kein offizieller ETH Spin-off, weil «unsere Geschäftsidee nichts mit Ausbildung oder Forschung der ETH zu tun hat», so Klein. Die drei Firmengründer haben jedoch das Future Cities Laboratory der ETH Zürich in Singapur kontaktiert. Dort beschäftigt sich Dirk Hebel, Professor für Architektur und Konstruktion, mit Bambus als Baumaterial. Klein möchte mit den Fachleuten Knowhow austauschen und dieses für die Fahrradproduktion nutzen. Und dann einen Plan entwickeln, wie «Koala Bicycles» nach der Auslieferung der Kickstarter-Modelle in die Zukunft rollt.
 

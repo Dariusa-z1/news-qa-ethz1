@@ -1,5 +1,7 @@
 # creation-of-shangri-la
 
+**Source:** en_news_events/2015/04/creation-of-shangri-la.html
+
 ## Elevation of the lowlands in dispute
 
 Located in Tibet and the Chinese province of Yunnan, the southeast Tibetan plateau is an extraordinary mountainous region. The high peaks are rugged and steep, reaching more than 7,000 meters in height. Major rivers, including the Yangtze, Mekong and Salween, have significantly eroded the bedrock. Nestled amongst the mountain ridges, however, are beautiful high valleys with gentle hills, large lakes and meandering rivers. This landscape inspired James Hilton's mystical Shangri-La, a heavenly, peaceful spot that became firmly entrenched in the minds of Westerners through his book, Lost Horizons .

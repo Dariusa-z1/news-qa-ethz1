@@ -1,5 +1,7 @@
 # wie-gelingt-inenentwicklung
 
+**Source:** de_news_events/2017/08/wie-gelingt-inenentwicklung.html
+
 ## Die Reserven identifizieren
 
 - eine klare Vorstellung über die gewünschte, aber auch die nicht gewünschte zukünftige Entwicklung haben.

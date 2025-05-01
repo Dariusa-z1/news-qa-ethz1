@@ -1,5 +1,7 @@
 # how-to-make-bright-quantum-dots-even-brighter
 
+**Source:** en_news_events/2024/01/how-to-make-bright-quantum-dots-even-brighter.html
+
 ## Unhappy atoms reduce brightness
 
 Quantum dots are a kind of artificial atom: just a few nanometres in size and made of semiconductor materials, they can emit light of a specific colour or even single photons, which is important for quantum technologies. The discoverers and pioneers of the commercial production of quantum dots were awarded the Nobel Prize in Chemistry in 2023. In recent years, quantum dots made of perovskites have attracted particular attention. Perovskites belong to a class of materials that have a similar structure to the mineral perovskite (calcium titanate). Quantum dots made of such materials were produced for the first time by ETH Zurich in 2014. These quantum dots made of perovskite nanocrystals can be mixed with liquids to form a dispersion, making them easy to further process. Moreover, their special optical properties make them shine brighter than many other quantum dots. They can also be produced less expensively, which makes them interesting for applications in displays, for instance.

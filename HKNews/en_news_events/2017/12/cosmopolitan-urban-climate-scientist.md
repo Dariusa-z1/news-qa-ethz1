@@ -1,5 +1,7 @@
 # cosmopolitan-urban-climate-scientist
 
+**Source:** en_news_events/2017/12/cosmopolitan-urban-climate-scientist.html
+
 ## Change of career path
 
 Estefania Tapias is a leading expert in outdoor thermal comfort. Her research focuses on how temperature, humidity and wind speed affect people’s outdoor thermal comfort in urban environments. To do so, the 29-year-old regularly shuttles between the ETH Future Cities Laboratory in Singapore and the Department of Architecture in Zurich. Additionally and since 2014 she has built up a series of Massive Open Online Courses (MOOC) on planning the cities of the future, which have already attracted over 116,600 students worldwide. As postdoctoral assistant in the research group headed by Gerhard Schmitt, Professor for Information Architecture at ETH Zurich, she is also involved in the interdisciplinary research project “Cooler Calmer Singapore”, where one of the goals is to enhance outdoor thermal comfort for city dwellers by reducing the amount of anthropogenic heat.

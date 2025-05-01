@@ -1,5 +1,7 @@
 # update-lesen-und-publizieren-neu-geregelt
 
+**Source:** de_internal/2020/12/update-lesen-und-publizieren-neu-geregelt.html
+
 ## Main article
 
 In den diesjährigen Verhandlungen von swissuniversities mit dem Wissenschaftsverlag Wiley konnte trotz gegenseitigem Bemühen noch keine Einigung über einen Read & Publish-Vertrag erzielt werden. Ende November haben die Verhandlungsparteien entschieden, die Verhandlungen Anfang 2021 weiterzuführen. Der Zugang zu allen Wiley-Zeitschriften sowie der Cochrane Library ist bis zum Abschluss der Verhandlungen sichergestellt.

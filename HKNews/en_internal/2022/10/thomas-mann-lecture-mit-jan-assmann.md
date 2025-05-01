@@ -1,5 +1,7 @@
 # thomas-mann-lecture-mit-jan-assmann
 
+**Source:** en_internal/2022/10/thomas-mann-lecture-mit-jan-assmann.html
+
 ## Internationally renowned cultural scientist
 
 - What: “Thomas Mann’s ‘Journey To The East’ – The Joseph Novels” (the sixth Thomas Mann Lecture)

@@ -1,5 +1,7 @@
 # we-have-to-do-something
 
+**Source:** en_internal/2020/04/we-have-to-do-something.html
+
 ## A second platform for medical professionals
 
 When the coronavirus began to spread in Switzerland, Nicola Rüegsegger and Pascal Wacker quickly realised: we have to do something! The two computer science students had almost completed their Bachelor’s degree, with hardly any lectures left. So they not only had the will to help, but also the time – and the know-how, since the two had founded a start-up company in 2018 that specialises in HR tech in the healthcare sector.
@@ -10,17 +12,15 @@ Both Rüegsegger and Wacker have followed an unusual path for computer science s
 
 Professor Jörg Goldhahn of ETH Zurich introduced Rüegsegger and Wacker to the Students4Hospitals initiative, which was launched by ETH students to place students from all disciplines in temporary jobs in the healthcare system. Students4Hospitals needed help with the technical implementation of the platform. With the support of two of their fellow students, Raphael Koch and Florian Moser, Wacker and Rüegsegger designed the website in a very short time. They worked from home, since the Rocket Hub of the ETH Entrepreneur Club, where they normally conduct business, is closed like all ETH buildings.
 
-“On Wednesday we contacted Jörg Goldhahn, on Thursday we had the first Zoom meeting with the Students4Hospitals team and on Monday the platform went live,” Rüegsegger recalls. “You never have enough time in web development as a rule, but I have never experienced such a mad sprint,” adds Wacker. The two consider it unlikely, however, that their studies will suffer as a result. Wacker just needs to complete a few subjects, while Rüegsegger only has his thesis to finish, which he paused at the beginning of the coronavirus crisis. “I expected that I would soon be needed in a hospital,” he explains.
+The work of the two computer science students wasn’t complete with Students4Hospitals, however. Their start-up company, Medison GmbH, operates a career platform for doctors, which means Rüegsegger and Wacker are well connected in the healthcare job market. The need for a central platform to facilitate the placement of medical professionals in hospitals quickly became apparent to them. Under the leadership of Jörg Goldhahn and in cooperation with various professional associations (including the Swiss Medical Association FMH), Medison developed the platform Care Now in a second sprint. “We were working continuously for about ten days,” Rüegsegger recalls. “I slept six hours a night and worked the rest of the time,” adds Wacker.
 
 ## Subscribe to Newsletter
 
-The work of the two computer science students wasn’t complete with Students4Hospitals, however. Their start-up company, Medison GmbH, operates a career platform for doctors, which means Rüegsegger and Wacker are well connected in the healthcare job market. The need for a central platform to facilitate the placement of medical professionals in hospitals quickly became apparent to them. Under the leadership of Jörg Goldhahn and in cooperation with various professional associations (including the Swiss Medical Association FMH), Medison developed the platform Care Now in a second sprint. “We were working continuously for about ten days,” Rüegsegger recalls. “I slept six hours a night and worked the rest of the time,” adds Wacker.
-
 In record time, Care Now was up and running. Where Students4Hospitals places students as temporary help, Care Now meets the need for medical professionals, be they doctors, nurses or other healthcare providers such as physical therapists. Like with Students4Hospitals, hospitals and other healthcare facilities declare their needs on Care Now. Healthcare professionals also register on the platform. A team of ETH Zurich teaching assistants then allocates the helpers to the hospitals.
 
-## Staffnet
-
 Within a very short time, around 1,000 healthcare professionals registered with Care Now, and a similar number of students registered with Students4Hospitals. So far, about 50 people from each platform have been deployed to healthcare facilities.
+
+## Staffnet
 
 Rüegsegger himself has not had to return to his work as a doctor yet. “The current situation in Switzerland is very fortunate considering the circumstances,” he says, “and if the conditions should deteriorate, the two pools of helpers are ready to be deployed.”
 

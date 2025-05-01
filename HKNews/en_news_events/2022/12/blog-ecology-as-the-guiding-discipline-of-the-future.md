@@ -1,5 +1,7 @@
 # blog-ecology-as-the-guiding-discipline-of-the-future
 
+**Source:** en_news_events/2022/12/blog-ecology-as-the-guiding-discipline-of-the-future.html
+
 ## Working with nature instead of against it
 
 Species extinction has become one of the greatest global risks. International politics and business have recognised this. At the Biodiversity Conference in Montreal, countries today agreed on a global treaty and urgently needed new targets for biodiversity, including the protection of at least 30 percent of the world's land and marine areas by 2030. 1 This is an important milestone for species protection and a significant signal to the people. But that will not be enough.

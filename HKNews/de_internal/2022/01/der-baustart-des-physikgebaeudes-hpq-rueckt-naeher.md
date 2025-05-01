@@ -1,5 +1,7 @@
 # der-baustart-des-physikgebaeudes-hpq-rueckt-naeher
 
+**Source:** de_internal/2022/01/der-baustart-des-physikgebaeudes-hpq-rueckt-naeher.html
+
 ## Vorbereitungsmassnahmen beginnen jetzt
 
 - Bauprojektwebseite HPQ: www.ethz.ch/hpq
@@ -30,13 +32,15 @@ Während neue Bauprojekte starten werden andere schrittweise fertiggestellt. So 
 
 ## Planungsrechtliche Grundlage des Campus Hönggerberg ist gelegt
 
-Für die zukünftige Entwicklung der ETH Zürich ist der Campus Hönggerberg von besonderer Bedeutung. Angesichts der historischen Quartier- und Stadtstrukturen im Zentrum der Stadt, plant die ETH Zürich den Hauptanteil ihrer benötigten Flächenentwicklung für die Lehre und Forschung auf dem Hönggerberg.
+Bauprojekte bedingen stets zeitlich beschränkte Einschränkungen und Immissionen. Mit einer vorausschauenden Planung versucht die ETH diese zu minimieren – vermieden werden können sie jedoch leider nie. Um Nutzende der umliegenden Gebäude direkt über die baulichen Vorhaben rund um das HPQ und das HPT zu informieren und Fragen zu beantworten, informierte die Abteilung Immobilien diese am 25. Januar 2022 in Form einer Informationsveranstaltung. Die Aufzeichnung der Veranstaltung finden Sie hier ; die Präsentation zum Herunterladen hier (PDF, 194.9 MB) .
 
 ## Weitere Informationen
 
-Um diesen auch zukünftig baulich weiterentwickeln zu können, arbeitete die ETH Zürich zusammen mit der Stadt und dem Kanton Zürich an der Revision der planungsrechtlichen Grundlagen. Die überarbeiteten städtischen Sonderbauvorschriften werden per 31.Januar 2022 in Kraft gesetzt. Damit ist die Grundlage für die Weiterentwicklung des Campus gelegt. Mehr zur langfristigen Vision des Campus hier .
+Für die zukünftige Entwicklung der ETH Zürich ist der Campus Hönggerberg von besonderer Bedeutung. Angesichts der historischen Quartier- und Stadtstrukturen im Zentrum der Stadt, plant die ETH Zürich den Hauptanteil ihrer benötigten Flächenentwicklung für die Lehre und Forschung auf dem Hönggerberg.
 
 ## Staffnet
+
+Um diesen auch zukünftig baulich weiterentwickeln zu können, arbeitete die ETH Zürich zusammen mit der Stadt und dem Kanton Zürich an der Revision der planungsrechtlichen Grundlagen. Die überarbeiteten städtischen Sonderbauvorschriften werden per 31.Januar 2022 in Kraft gesetzt. Damit ist die Grundlage für die Weiterentwicklung des Campus gelegt. Mehr zur langfristigen Vision des Campus hier .
 
 ## Newsletter abonnieren
 

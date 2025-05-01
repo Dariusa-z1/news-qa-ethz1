@@ -1,5 +1,7 @@
 # wie-satellitenbilder-zum-schutz-der-waelder-beitragen
 
+**Source:** de_news_events/2024/07/wie-satellitenbilder-zum-schutz-der-waelder-beitragen.html
+
 ## EU-Verordnung über entwaldungsfreie Lieferketten (EUDR)
 
 Täglich kreisen Hunderte von Satelliten um die Erde und nehmen Tausende von Bildern unseres Planeten auf. Diese riesigen Datenmengen dienen als Basis für unterschiedliche Zwecke wie Wetterprognosen, Verschmutzung der Ozeane oder die Ausdehnung von Siedlungsgebieten. Doch dazu müssen die Daten analysiert und interpretiert werden. Hier setzt das ETH-Spin-off askEarth an: Das Unternehmen vereinfacht den Zugang zu Satellitenbildern und macht sie leicht lesbar. Der Fokus liegt dabei auf der Umwelt- und Klimaüberwachung.

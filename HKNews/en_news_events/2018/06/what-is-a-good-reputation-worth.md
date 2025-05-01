@@ -1,5 +1,7 @@
 # what-is-a-good-reputation-worth
 
+**Source:** en_news_events/2018/06/what-is-a-good-reputation-worth.html
+
 ## The significance of reputation
 
 - Master Management, Technology and Economics

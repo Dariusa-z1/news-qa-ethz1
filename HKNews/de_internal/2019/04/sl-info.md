@@ -1,5 +1,7 @@
 # sl-info
 
+**Source:** de_internal/2019/04/sl-info.html
+
 ## Zehn neue Professorinnen dank Hanna-Böhi-Fonds
 
 Die Schulleitung überführt Critical Thinking (CTETH) vom Projektstatus in eine feste Struktur. Nach der Aufbauphase seit 2013 unter ETH-Professor Gerd Folkers wird eine oder ein Delegierte(r) der Schulleitung die Leitung übernehmen. Er oder sie führt ein fest angestelltes CTETH-Team, das organisatorisch dem Stab der Rektorin zugeordnet wird und baut ein Netzwerk von Ansprechpersonen in den Departementen, Stäben und Abteilungen auf. Unterstützt wird es von einem Sounding Board, in welchem die Departemente, Hochschulgruppen und Zentralen Organe vertreten sind. Lehrveranstaltungen, Projektförderungen sowie ein regelmässig erscheinender Reader regen Studierende und Mitarbeitende zum kritischen Hinterfragen an, einem Wesensmerkmal der akademischen Kultur.

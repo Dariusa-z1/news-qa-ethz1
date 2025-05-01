@@ -1,5 +1,7 @@
 # prozessinnovationen-in-schweizer-firmen
 
+**Source:** de_news_events/2016/11/prozessinnovationen-in-schweizer-firmen.html
+
 ## Main article
 
 Die Konjunkturforschungsstelle (KOF) der ETH Zürich führt seit den 1990er-Jahren bei rund 6000 Schweizer Unternehmen regelmässig Innovationsumfragen durch. Im Zentrum dieser Studie steht, wie Firmen den Zugang zu externem Wissen und moderne Informations- und Kommunikationstechnologien (IKT) nutzen – denn diese Faktoren unterstützen die Innovation von Prozessen, um Produktionskosten zu senken. Im Interview mit ETH-News erklären Georg von Krogh, Professor für Strategisches Management und Innovation und Autor der Studie, sowie Co-Autor Martin Wörter, Leiter der Sektion Innovationsökonomik der KOF, wie gut Schweizer Firmen bei den Prozessinnovationen wirklich sind.
@@ -17,8 +19,6 @@ Ein Thema Ihrer Studie ist der Wert moderner Informations- und Kommunikationstec
 Von Krogh: Wenn Firmen Netzwerktechnologien vermehrt nutzen, können sie damit die Verbreitung von Wissen innerhalb des Unternehmens beschleunigen. Als Konsequenz wird neues Wissen von Unternehmen schneller absorbiert, und genau diese Absorptionsfähigkeit ist essentiell für Prozessinnovationen. Kurz: Die Integration von externem Wissen ist der Schlüssel zur Senkung der Produktionskosten.
 
 Was verstehen Sie konkret unter externem Wissen? Von Krogh: Wir unterscheiden zwischen implizitem und explizitem Wissen. Für Herstellungsprozesse genutzte Routinen basieren auf implizitem Wissen und sind deshalb schwer zu fassen. Um diese Wissensquellen verstehen und nutzen zu können, ist ein hoher Aufwand nötig.
-
-Wörter: Das Wissen, welches in Prozessen steckt, ist nicht so offensichtlich wie bei einem Produkt. Bei diesem kann man nachverfolgen, wie und wo es hergestellt wurde, aber um Prozesse aufzudecken, ist ein intensiver Kontakt zur Wissensquelle essentiell. Je stärker ein Unternehmen solche Quellen erschliesst, umso grösser ist der daraus resultierende Effekt.
 
 Wie können sich Unternehmen Zugang zu diesem Wissen verschaffen, wenn es doch implizit ist? Von Krogh: Eine Möglichkeit sind «Open Innovation»-Plattformen, auf denen Firmen mit Leuten verbunden werden, die über Spezialkompetenz verfügen und damit dringende Probleme von Firmen lösen können. Man kann auch langjährige Forschungsbeziehungen aufbauen. Das machen viele Unternehmen zum Beispiel mit der ETH Zürich, wodurch ein effizienter Technologietransfer entsteht. Man kann Wissen zudem in Teilbereichen der eigenen Versorgungskette ausfindig machen oder die Kunden miteinbeziehen.
 

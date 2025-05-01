@@ -1,5 +1,7 @@
 # globe-mini-organs-with-big-potential
 
+**Source:** en_news_events/2024/03/globe-mini-organs-with-big-potential.html
+
 ## About
 
 The clumps of cells are modest in size, ranging from just a few millimetres to a couple of centimetres – yet their impact on medical research could be huge. Known as organoids, they are the focus of much of the research carried out by Barbara Treutlein, Professor of Quantitative Developmental Biology at ETH. These organ-like systems are made up of different cell types arranged in complex tissue structures, essentially making them the 3D extension of 2D cell cultures. All the specimens in Treutlein’s lab are grown from human tissue. “Organoids help us tackle questions in various fields of medicine,” says Treutlein.
@@ -30,5 +32,5 @@ ETH Zurich has partnered with Roche to launch two new research and training prog
 
 “This project highlights why our partnership with the IHB at Roche is so beneficial,” says Treutlein. This sentiment is echoed by Matthias Lütolf, head of the IHB and Professor of Bioengineering at EPFL: “ETH Zurich is one of the world’s leading universities, which makes them the perfect partner for the IHB. They have outstanding doctoral students and researchers – and that’s a big reason why our joint research activities are doing so well.” Treutlein believes this success primarily comes down to the difference in focus between academia and the pharma industry: “As a university, it’s easier for us to take on longer-term projects, which are, of course, more risky. At the same time, we benefit from the private sector's practical focus, which is required to advance real-world applications.”
 
-ETH Zurich and Roche have also launched a joint programme for doctoral students, and Treutlein’s laboratory will soon be welcoming a doctoral student from the IHB. Both she and Lütolf see major benefits in the decision to locate ETH Zurich’s Department of Biosystems Science and Engineering in Basel. “Our joint students need easy access to both partners’ labs and the ability to move quickly from one institute to the next,” he explains. “It’s this kind of personal contact that I believe is the key to successful research.”
+This text appeared in the 24/01 issue of the ETH magazine Globe . Read whole issue (PDF, 3.5 MB)
 

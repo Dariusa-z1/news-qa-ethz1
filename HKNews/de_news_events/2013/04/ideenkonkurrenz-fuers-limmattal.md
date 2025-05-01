@@ -1,5 +1,7 @@
 # ideenkonkurrenz-fuers-limmattal
 
+**Source:** de_news_events/2013/04/ideenkonkurrenz-fuers-limmattal.html
+
 ## PeRL — vier Teams am Start
 
 Das Limmattal gehört als Lebensraum für mehr als 200'000 Menschen zu den am dichtesten besiedelten Gebieten der Schweiz. Die Limmat verbindet in den Kantonen Aargau und Zürich einen über 30 km langen Raum, der sich vom Zürcher Bellevue bis zum Wasserschloss der Schweiz erstreckt. Doch wie soll diese Region zukunftsfähig genutzt und gestaltet werden? Zahlreiche Vorhaben sind im Limmattal bereits geplant, aber bis jetzt fehlt eine langfristige, gesamträumliche Vorstellung. Deshalb haben sich die betroffenen Städte und Gemeinden des Limmattals, die Regionen Baden Regio und die Zürcher Planungsgruppe Limmattal sowie die Kantone Aargau und Zürich zu einer Kooperation zu-sammengeschlossen. Gemeinsam mit dem Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) sowie der Professur für Raumentwicklung der ETH Zürich führen sie ein neuartiges Planungsverfahren durch.
@@ -17,6 +19,4 @@ Im Rahmen des Projekts PeRL erarbeiten vier Entwurfsteams eine räumliche Gesamt
 Unterstützt werden die Entwurfsteams von externen und von lokalen Fachexpertinnen und -experten, die das Begleitgremium bilden und die Ideenkonkurrenz leiten. Dieses Gremium sorgt dafür, dass die Diskussion vorurteilslos und frei von Tabus geführt werden kann und die eingebrachten Vorschläge technisch machbar und auch vor Ort umsetzbar sind. Es ist zudem darauf bedacht, dass PeRL nicht nur ein Gedankenaustausch bleibt oder die Ideen in der Schublade landen. Die besten Lösungen gehen als konkrete Handlungsempfehlungen am 19. November 2013 an die politischen Entscheidungsträger aller Ebenen. Der Öffentlichkeit werden diese Empfehlungen Ende 2013 präsentiert. Finanziert wird PeRL durch die beteiligten Gemeinden, die Kantone Aargau und Zürich, die beteiligten Bundesämter sowie die ETH Zürich.
 
 http://www.irl.ethz.ch/re/cooperation/perl
-
-ETH Zürich Prof. Bernd Scholl Institut für Raum- und Landschaftsentwicklung Tel. +41 44 633 45 43 ETH Zürich Medienstelle Tel. +41 44 632 41 41
 

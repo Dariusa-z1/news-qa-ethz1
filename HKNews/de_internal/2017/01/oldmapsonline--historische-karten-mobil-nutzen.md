@@ -1,5 +1,7 @@
 # oldmapsonline--historische-karten-mobil-nutzen
 
+**Source:** de_internal/2017/01/oldmapsonline--historische-karten-mobil-nutzen.html
+
 ## Main article
 
 externe Seite OldMapsOnline enthält nun auch über 1100 Digitalisate der ETH-Bibliothek, die meisten dieser Kartenblätter decken Städte und Regionen in der Schweiz im Zeitraum zwischen 1750 bis 1900 ab. Mittels der thematischen und topografischen Karten lassen sich Entwicklungen, Ereignisse und Gegebenheiten vergangener Jahrhunderte nachvollziehen.

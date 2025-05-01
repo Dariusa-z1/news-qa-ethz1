@@ -1,5 +1,7 @@
 # spitaelern-gezielt-helfen
 
+**Source:** de_news_events/2020/03/spitaelern-gezielt-helfen.html
+
 ## Nachfrage mit Angebot verknüpfen
 
 Aufgrund der rasanten Ausbreitung des Corona-Virus erwarten Expertinnen und Experten in den nächsten Wochen eine sprunghafte Zunahme von Patienten, die hospitalisiert werden müssen. Dadurch dürften die Kapazitäten der Schweizer Spitäler bis ans Limit strapaziert werden.

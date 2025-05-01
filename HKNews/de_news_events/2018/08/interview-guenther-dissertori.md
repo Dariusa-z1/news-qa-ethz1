@@ -1,12 +1,12 @@
 # interview-guenther-dissertori
 
+**Source:** de_news_events/2018/08/interview-guenther-dissertori.html
+
 ## Main article
 
 Das Cern hat soeben neue Resultate zum Higgs-Boson präsentiert. Fast gleichzeitig hat die Schweizerische Nationalbank (SNB) die neue 200er-Note in Umlauf gebracht, an der Sie massgeblich mitgearbeitet haben. Was ist für Sie wichtiger? Günther Dissertori: Die Mitwirkung an der Gestaltung einer Banknote ist für mich sicher ein sehr ungewöhnliches, einmaliges Projekt. Es ist eine grosse Ehre, dass ich mit der SNB zusammenarbeiten durfte. Und es entwickelte sich eine tolle Zusammenarbeit mit dem Grafikteam, das sich sehr für die auf der Note dargestellte Wissenschaft interessierte.
 
 Wie reagierten Ihre Kollegen am Cern und an der ETH auf Ihr Engagement? Sehr positiv. Als die Banknote erstmals im Cern gezeigt wurde, waren viele Kolleginnen und Kollegen freudig überrascht.
-
-Wie kamen Sie zum Privileg, an der Gestaltung der Note mitwirken zu dürfen? Die SNB hat für die neuen Noten die grossen Themen vorgegeben, unter anderem das Thema «Wissenschaft». Irgendwann kontaktierte mich die federführende Grafikerin Manuela Pfrunder mit dem Vorschlag, auf der neuen 200er Banknote eine Teilchenkollision und die Geschichte des Universums abzubilden. Bereits auf den ersten Entwürfen war die Hand mit den drei ausgestreckten Fingern zu sehen, die das Koordinatensystem abbilden. Das war das Erste, was ich von der Banknote wahrgenommen habe.
 
 Was ist Ihr Beitrag? Ich konnte die Vorstellungen des Grafikteams konkretisieren; etwa wie man eine Teilchenkollision oder einen Teilchendetektor am besten darstellt. Um die Entwicklung des Universums auf der Vorderseite der Note abzubilden, beteiligte ich mich an Diskussionen, wie man die wichtigsten Epochen oder Momente in der Geschichte des Universums zusammenfassen kann. Ich habe auch vorgeschlagen, welche Epochen und welche Zahlen auf dem Sicherheitsstreifen enthalten sein sollten.
 

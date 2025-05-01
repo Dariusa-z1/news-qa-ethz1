@@ -1,5 +1,7 @@
 # catering-facilities-plan-to-improve-offerings
 
+**Source:** en_internal/2015/09/catering-facilities-plan-to-improve-offerings.html
+
 ## Greater variety requested
 
 The respondents rated the staff and the environment (furnishings and crockery) particularly highly. The drinks, especially the quality of the coffee and tea, were also well received. Compared to the 2012 survey, respondents saw room for improvement in the salad offerings, hot meals, snacks and sandwiches, and value for money. The Clausiusbar, bQm and Dozentenfoyer had the most satisfied customers.

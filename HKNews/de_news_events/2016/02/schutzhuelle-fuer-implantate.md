@@ -1,5 +1,7 @@
 # schutzhuelle-fuer-implantate
 
+**Source:** de_news_events/2016/02/schutzhuelle-fuer-implantate.html
+
 ## Membran mit Mikrovertiefungen
 
 Es ist eine der grossen Hürden der Implantationsmedizin: Der Körper erkennt Implantate wie zum Beispiel einen Herzschrittmacher als fremdes Gewebe und kapselt es in einer Abwehrreaktion mit Bindegewebe ein. Unter Umständen kann solches wucherndes Gewebe die Funktion des Implantats behindern. Ärzte sehen sich daher manchmal nach Monaten oder Jahren zu einer Revisionsoperation gezwungen, in der sie das Bindegewebe entfernen oder gar das Implantat auswechseln.

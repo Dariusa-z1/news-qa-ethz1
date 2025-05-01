@@ -1,5 +1,7 @@
 # hg-vorplatz-und-garage-werden-offener-und-hindernisfrei
 
+**Source:** de_internal/2021/05/hg-vorplatz-und-garage-werden-offener-und-hindernisfrei.html
+
 ## Anpassungen während Umbauzeit
 
 Wer kürzlich vor Ort war hat es bereits bemerkt, dass sich vor dem Hauptgebäude etwas getan hat und beim genauen Hinschauen bemerkt, dass die Pflanzen rund um den Vorplatz weg sind. Das ist eine der Vorbereitungsmassnahmen für die im Juni anstehenden Bauarbeiten am Vorplatz. Die Hecken wurden zu deren Schutz und Erhaltung in die Umgebung der Villa-Hatt verpflanzt. Nach den Sanierungsarbeiten werden neue Hecken eingesetzt.
@@ -37,8 +39,4 @@ In der Tiefgarage befinden sich 37 Werke von Harald Naegeli. Dabei handelt es si
 Bauprojekt ETH-Hauptgebäude: www.ethz.ch/hg
 
 ETH Zürich verzichtet auf Neugestaltung der Polyterrasse (Intern aktuell, 26.01.2021)
-
-Fragen zum Bauprojekt Abteilung Immobilien OCT Binzmühlestrasse 130 8092 Zürich +41 44 632 78 30
-
-Verkehrsmanagement / Beratung und Verkauf von Park- berechtigungen Campus Info Zentrum HG D 34.1 Rämistrasse 101 8092 Zürich +41 44 632 21 18
 

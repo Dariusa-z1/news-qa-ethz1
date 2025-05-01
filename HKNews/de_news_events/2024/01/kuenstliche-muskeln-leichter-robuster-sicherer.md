@@ -1,5 +1,7 @@
 # kuenstliche-muskeln-leichter-robuster-sicherer
 
+**Source:** de_news_events/2024/01/kuenstliche-muskeln-leichter-robuster-sicherer.html
+
 ## In Kürze
 
 - Forschende der ETH Zürich haben künstliche Muskeln entwickelt, die leichter, robuster und sicherer sind als ihre Vorgängermodelle.

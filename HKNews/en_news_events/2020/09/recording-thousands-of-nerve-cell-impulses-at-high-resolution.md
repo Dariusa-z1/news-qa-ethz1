@@ -1,5 +1,7 @@
 # recording-thousands-of-nerve-cell-impulses-at-high-resolution
 
+**Source:** en_news_events/2020/09/recording-thousands-of-nerve-cell-impulses-at-high-resolution.html
+
 ## Stronger signal required
 
 For over 15 years, ETH Professor Andreas Hierlemann and his group have been developing microelectrode-array chips that can be used to precisely excite nerve cells in cell cultures and to measure electrical cell activity. These developments make it possible to grow nerve cells in cell-culture dishes and use chips located at the bottom of the dish to examine each individual cell in a connected nerve tissue in detail. Alternative methods for conducting such measurements have some clear limitations. They are either very time-consuming - because contact to each cell has to be individually established - or they require the use of fluorescent dyes, which influence the behaviour of the cells and hence the outcome of the experiments.

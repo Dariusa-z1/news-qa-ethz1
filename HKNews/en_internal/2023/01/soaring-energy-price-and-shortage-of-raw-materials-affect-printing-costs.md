@@ -1,5 +1,7 @@
 # soaring-energy-price-and-shortage-of-raw-materials-affect-printing-costs
 
+**Source:** en_internal/2023/01/soaring-energy-price-and-shortage-of-raw-materials-affect-printing-costs.html
+
 ## Low prices no longer viable
 
 - Cost of paper, films and packaging material up to 70% higher

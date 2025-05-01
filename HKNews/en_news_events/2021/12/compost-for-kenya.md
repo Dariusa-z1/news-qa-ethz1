@@ -1,5 +1,7 @@
 # compost-for-kenya
 
+**Source:** en_news_events/2021/12/compost-for-kenya.html
+
 ## A chaotic start
 
 Manuel Mathis still remembers the human geog­raphy class that made such a lasting impression on him at secondary school. His teacher explained that millions of people go to bed hungry each night, in part due to the erosion and diminishing fertility of the soil they use to grow their crops. There and then, Mathis resolved to pursue a course of study that would help to alleviate hunger and poverty. In 2015, he enrolled at ETH and embarked on a degree programme in agricultural sciences. He was bombarded with huge amounts of theory about soil-plant systems, yet he yearned to spend more time digging in the soil to get hands-on experience. This led him to take a job, alongside his studies, at a composting plant in Fehraltdorf in October 2020. “The practical experience I gained there has served me well,” says the 25-year-old student on a Zoom call in late September. He is sitting in the living room of his apartment in the centre of Nairobi, looking rather under the weather. It turns out he is fighting off another in a series of nasty stomach bugs. “It’s a natural consequence of working here,” he explains. “I get pretty close to all sorts of unfamiliar viruses and bacteria!”
@@ -27,6 +29,8 @@ After five months of hard work, the once-neglected plant has returned to profita
 ## Don't miss a Globe
 
 In July, the founder and CEO of TakaTaka Solutions asked him to extend his internship by three months. Mathis will now spend the rest of the year training Fidelis Mutie Muendo, an agricultural scientist from Kenya, who will then take over the management of the composting plant. At the same time, he will be helping TakaTaka Solutions push ahead with plans for a second composting plant in Mombasa, the country’s second-largest city, on the Indian Ocean. With 400 employees already on its payroll, the company is growing fast and soon hopes to expand its services to other East African countries. “Actually, there’s enough work for me to stay another year here!” says Mathis wryly. But his time is nearly at an end, and in late December he will be heading to Bukavu – a city in the easternmost part of the Democratic Republic of the Congo – to work on his Master’s project. His research work will form part of the RUNRES project, which is led by Johan Six, ETH Professor of Sustainable Agroecosystems. Mathis’s goal will be to find ways of making Congolese consumers more aware of the need to sort their waste at source – and to motivate them to play their part. Because – as Mathis now knows from first-hand experience – the more carefully waste is sorted, the higher the quality of the humus at the other end of the recycling process.
+
+Read the issue as a PDF (PDF, 16.2 MB)
 
 Read the issue online
 

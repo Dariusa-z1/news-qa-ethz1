@@ -1,5 +1,7 @@
 # herzklappen-aus-silikon
 
+**Source:** de_news_events/2019/07/herzklappen-aus-silikon.html
+
 ## Digital geplant und fabriziert
 
 Unser Herz besteht aus mehreren Kammern und Vorhöfen, und jede davon ist mit einer Herzklappe ausgestattet. Diese wirken wie Ventile und sorgen dafür, dass Blut nur in eine Richtung fliesst. Sind Herzklappen undicht, verengt oder erweitert oder gar eingerissen, läuft das Blut aber in die Kammern oder die Vorhöfe des Herzens zurück. Dies belastet dieses Organ stark. Im schlimmsten Fall kommt es zu Herzrhythmusstörungen oder Herzversagen.

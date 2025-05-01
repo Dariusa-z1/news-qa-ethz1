@@ -1,5 +1,7 @@
 # nanomagnets-for-future-data-storage
 
+**Source:** en_news_events/2017/03/nanomagnets-for-future-data-storage.html
+
 ## Fusing atoms to the surface
 
 The idea is intriguing: if only a single atom or small molecule was needed for a single unit of data (a zero or a one in the case of binary digital technology), massive volumes of data could be stored in the tiniest amount of space. This is theoretically possible, because certain atoms can be magnetised in only one of two possible directions: “spin up” or “spin down”. Information could then be stored and read by the sequence of the molecules’ magnetisation directions.

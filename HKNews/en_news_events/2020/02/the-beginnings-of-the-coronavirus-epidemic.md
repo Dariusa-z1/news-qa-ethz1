@@ -1,5 +1,7 @@
 # the-beginnings-of-the-coronavirus-epidemic
 
+**Source:** en_news_events/2020/02/the-beginnings-of-the-coronavirus-epidemic.html
+
 ## Rapid pre-quarantine spread
 
 Since the current coronavirus epidemic started, scientists and authorities have determined the genetic fingerprint of virus samples from numerous affected countries. More than 100 of these gene sequences, which are present in coronaviruses in the form of RNA, are available in public databases. Tanja Stadler, Professor of Computational Biology at the Department of Biosystems Science and Engineering at ETH Zurich in Basel and an expert in questions of molecular epidemiology, has now studied this data. Using a statistical model her group developed to analyse the genetic genealogy of pathogens, she gained new insights into the beginnings of the epidemic in China.

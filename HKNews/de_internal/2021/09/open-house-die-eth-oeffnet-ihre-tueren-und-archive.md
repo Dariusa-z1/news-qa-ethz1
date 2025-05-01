@@ -1,5 +1,7 @@
 # open-house-die-eth-oeffnet-ihre-tueren-und-archive
 
+**Source:** de_internal/2021/09/open-house-die-eth-oeffnet-ihre-tueren-und-archive.html
+
 ## Einblicke in die Sternwarte und Entwicklung des Campus Zentrum
 
 - externe SeiteArchitektur auf dem Campus Zentrumcall\_made kennenlernen

@@ -1,5 +1,7 @@
 # mechanism-of-lipid-flipping
 
+**Source:** en_news_events/2015/08/mechanism-of-lipid-flipping.html
+
 ## Flippase structure revealed for the first time
 
 Biological membranes have a fundamental role in separating the interior of cells from the extracellular space and in helping determine cellular shape and size. They consist of a double layer ("bilayer") of lipids that contain a hydrophilic head group and generally two long, hydrophobic tails. Whereas the head groups face outwards, the hydrophobic tail face each other. Numerous other components are embedded in membranes, including pore-forming proteins and transport proteins.

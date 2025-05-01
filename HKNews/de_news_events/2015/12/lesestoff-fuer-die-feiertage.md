@@ -1,5 +1,7 @@
 # lesestoff-fuer-die-feiertage
 
+**Source:** de_news_events/2015/12/lesestoff-fuer-die-feiertage.html
+
 ## Klimawandel
 
 Hier finden Sie eine Auswahl deutschsprachiger Blogbeiträge – ausgewählte englische Beiträge haben wir hier zusammengestellt.

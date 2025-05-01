@@ -1,5 +1,7 @@
 # migration-model-for-the-UK
 
+**Source:** en_news_events/2017/11/migration-model-for-the-UK.html
+
 ## Migration compliance with free movement
 
 British Prime Minister Theresa May has no easy task ahead of her as she negotiates her country’s future relationship with the EU. The first part of the Brexit negotiations will be comparably manageable; the withdrawal agreement – the actual “divorce” from the EU - only requires approval from the European Parliament and 20 member states. However, the negotiations for a framework agreement regulating future mutual relations will be more complex, if only for the reason that it may require the unanimous support of more than 30 national and regional parliaments across Europe.

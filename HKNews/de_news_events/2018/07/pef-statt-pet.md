@@ -1,5 +1,7 @@
 # pef-statt-pet
 
+**Source:** de_news_events/2018/07/pef-statt-pet.html
+
 ## Bessere Materialeigenschaften
 
 Die Problematik durch Plastik ist in aller Munde. Jedes Jahr werden allein rund 50 Millionen Tonnen des Kunststoffs Polyethylenterephthalat (PET) hergestellt, Tendenz steigend. Da das Recycling meist kostenintensiv und technologisch schwer umsetzbar ist, landen sehr viele Plastikabfälle in den Meeren oder werden verbrannt, wodurch massive CO 2 -Emissionen verursacht werden. Und auch die Verwendung von Erdöl bei der Herstellung ist problematisch. Komplett auf Plastik verzichten, kann aber niemand von uns. «Polymere und Plastik sind sehr nützliche Materialien, die eine breite Palette alltäglicher Anwendungen überhaupt erst ermöglichen. Leichtere Autos, Smartphones, moderne Kleidung und viele medizinische Geräte würde es beispielsweise nicht geben, wenn wir keine Polymere erfunden hätten», sagt Jan-Georg Rosenboom, frisch graduierter Doktorand in der Forschungsgruppe von ETH-Professor Massimo Morbidelli am Department Chemiewissenschaften und Angewandte Biowissenschaften. «Die Frage ist, wie wir die negativen ökologischen Auswirkungen von Plastik reduzieren und gleichzeitig seine Vorteile für unsere Gesellschaft erhalten können.»

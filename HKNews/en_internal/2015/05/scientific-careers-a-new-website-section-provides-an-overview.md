@@ -1,5 +1,7 @@
 # scientific-careers-a-new-website-section-provides-an-overview
 
+**Source:** en_internal/2015/05/scientific-careers-a-new-website-section-provides-an-overview.html
+
 ## The SNSF sees a need for action
 
 The university supports students and researchers with a broad spectrum of services to assist them during their time at ETH Zurich. The various offerings are tailored to the needs of the different study and career stages. The support services range from individual advice (such as career counselling, support for company founders and help with finding housing or childcare) to legal assistance with patenting issues.

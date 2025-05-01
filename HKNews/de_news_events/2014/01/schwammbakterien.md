@@ -1,5 +1,7 @@
 # schwammbakterien
 
+**Source:** de_news_events/2014/01/schwammbakterien.html
+
 ## Schwamm zentrifugieren
 
 Schwämme sind eigenartige Lebewesen: Sie sind wirbellose Tiere, die in Symbiose mit bisweilen hunderten von verschiedenen Bakterienarten leben; ähnlich wie Flechten, die eine Lebensgemeinschaft aus Algen und Pilzen sind. «Einfach gesagt sind viele Schwämme Bakterienklumpen, in denen einige Schwammzellen vorkommen», sagt Jörn Piel, Professor für Mikrobiologie an der ETH Zürich.

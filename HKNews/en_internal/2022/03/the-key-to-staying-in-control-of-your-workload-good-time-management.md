@@ -1,5 +1,7 @@
 # the-key-to-staying-in-control-of-your-workload-good-time-management
 
+**Source:** en_internal/2022/03/the-key-to-staying-in-control-of-your-workload-good-time-management.html
+
 ## Three principles
 
 - Prioritise your tasks so as to work on those that are genuinely important and that will further you as an employee

@@ -1,5 +1,7 @@
 # the-executive-board-reports-2019-5
 
+**Source:** en_internal/2019/09/the-executive-board-reports-2019-5.html
+
 ## New goals for admission to the master’s programme
 
 - Quality and excellence: ETH should aim to attract outstanding students with potential as future leaders in science, business and society. This will heighten the quality of education.

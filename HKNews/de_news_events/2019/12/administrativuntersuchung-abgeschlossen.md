@@ -1,5 +1,7 @@
 # administrativuntersuchung-abgeschlossen
 
+**Source:** de_news_events/2019/12/administrativuntersuchung-abgeschlossen.html
+
 ## Professor bedauert und leitet Massnahmen zur Verbesserung ein
 
 Die Administrativuntersuchung , die am 17. Juli 2018 am Departement für Biosysteme (D-BSSE) eingeleitet wurde, ist abgeschlossen. Hintergrund waren eine Umfrage der Mittelbauvereinigung sowie Meldungen von Dok­to­rierenden über mögliche mangelhafte Führung und Betreuung. Die ex­ter­nen Untersuchungsführer kommen zum Schluss, dass keine gesetzlichen Bestimmungen verletzt worden sind, aber dass in einigen Fällen Arbeits­ver­träge als Druckmittel eingesetzt wurden.
@@ -19,6 +21,4 @@ Die Administrativuntersuchung hat auch gezeigt, dass die Kontrollen sei­tens de
 ## Kontakt
 
 Im März 2019 hat die Schulleitung ausserdem ein umfassendes Mass­nah­menpaket zur Verbesserung der Führungs- und Betreuungssituation an der Hochschule beschlossen. Ab 2020 wird die Mehrfachbetreuung von Doktorierenden ETH-weit eingeführt. Das Departement Biosysteme hat diesen Schritt bereits im Sommer 2018 gemacht. Momentan wird zudem die Doktoratsverordnung überarbeitet, um die Rahmenbedingungen des Doktorats weiter zu verbessern. Ausserdem wird die ETH der Füh­rungs­kul­tur und Personalentwicklung in Zukunft noch mehr Gewicht beimessen. Deshalb hat die Schulleitung im Juni entschieden, ein neues zusätzliches Schulleitungsressort zu schaffen, das integral für das Personalwesen zuständig sein wird.
-
-ETH Zürich Medienstelle Telefon: +41 44 632 41 41
 

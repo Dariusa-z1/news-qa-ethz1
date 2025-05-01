@@ -1,5 +1,7 @@
 # practising-in-the-virtual-factory
 
+**Source:** en_internal/2022/04/practising-in-the-virtual-factory.html
+
 ## Video lecture replaces online lectures
 
 During the coronavirus pandemic, one online lecture followed another and students often spent the entire day on video calls. Their own rooms became lecture theatres, blurring the boundary between study and free time. Many students complained of physical exhaustion, emotional emptiness and monotony.

@@ -1,5 +1,7 @@
 # informationen-ueber-die-eth-bibliothek-zielgerichtet-finden
 
+**Source:** de_internal/2019/03/informationen-ueber-die-eth-bibliothek-zielgerichtet-finden.html
+
 ## Main article
 
 Im Suchportal finden Sie ab sofort nicht nur Dokumente, sondern auch ausgewählte Informationen über die ETH-Bibliothek und ihre Dienstleistungen.

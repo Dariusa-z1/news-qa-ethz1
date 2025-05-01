@@ -1,5 +1,7 @@
 # temple-to-science
 
+**Source:** en_news_events/2014/06/temple-to-science.html
+
 ## Controversial star architect
 
 “The Federal Polytechnic School is the pride of Zurich …” reads an illustrated chronicle of the city of Zurich from 1896. However, such an enthusiastic assessment could not have been easily foreseen from the outset, as the story of ETH Zurich’s main building reveals. Such a monumental structure was alien to the building style to which Zurich had previously been accustomed, for its urban planners had hitherto tended rather towards a spirit of “republican simplicity.”

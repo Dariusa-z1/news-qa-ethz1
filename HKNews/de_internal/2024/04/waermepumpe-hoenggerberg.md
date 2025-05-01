@@ -1,5 +1,7 @@
 # waermepumpe-hoenggerberg
 
+**Source:** de_internal/2024/04/waermepumpe-hoenggerberg.html
+
 ## Wärmepumpe einfach erklärt
 
 Im Herbst 2023 haben die Abteilungen Immobilien, Facility Services und Engineering & Systeme im Untergeschoss des HEZ-Gebäudes auf dem Campus Hönggerberg eine grosse Kältemaschine/Wärmepumpe in Betrieb genommen. Der thermodynamische Kreislaufprozess funktioniert dabei prinzipiell gleich, unabhängig davon, ob Kälte und/oder Wärme produziert wird (siehe Kasten "Wärmepumpe einfach erklärt").
@@ -8,19 +10,21 @@ Die HEI 15 (siehe Bild oben) ist eine beeindruckende Anlage mit einer Wärmeleis
 
 Eine zweite vergleichbare Anlage ist bereits geplant. Für mehr Flexibilität werden zudem zwei reine Kältemaschinen dereinst das Netz ergänzen. Die neuen Anlagen ersetzen sowohl alte, wenig effiziente Kältemaschinen als auch bestehende, mit fossiler Energie betriebene Heizkessel.
 
-## Das Anergienetz auf dem Campus Hönggerberg
-
 Wärmepumpen nutzen Umweltwärme zur Verdampfung eines Kältemittels (zum Beispiel Ammoniak). Dies funktioniert je nach Kältemittel auch bei kalten, ja sogar bei Minustemperaturen. In einem zweiten Schritt wird das gasförmige Kältemittel verdichtet. Hierfür wird Strom benötigt. Bei der Kompression erhitzt sich das Gas. Ein Wärmetauscher übernimmt die Wärmeenergie und leitet sie in den Heizkreislauf weiter. Dadurch kühlt das Kältemittel ab, es verflüssigt sich, wird anschliessend vom Druck befreit (entspannt) und erneut dem Kreislauf zugeführt. Der Prozess zur Kühlung funktioniert gleich, wobei die überschüssige Wärme auf einem höheren Temperaturniveau an die Umgebung abgeführt wird.
+
+## Das Anergienetz auf dem Campus Hönggerberg
 
 Wärmepumpen gelten als besonders effizient, weil sie ein Vielfaches der via Strom aufgenommenen Antriebsleistung als Wärmeleistung abgeben. Sie gelten zudem als umweltfreundlich, weil keine Verbrennung stattfindet und damit kein direktes CO 2 oder Feinstaub produziert wird.
 
 Alle Kältemaschinen/Wärmepumpen sind in das Anergienetz (1) auf dem Campus Hönggerberg integriert (siehe Grafik unten). Das Anergienetz umfasst einerseits ein dynamisches Erdspeichersystem (2), verbindet aber mit einer Ringleitung (5) auch sämtliche Energiezentralen (3) der verschiedenen Gebäudebereiche (4) und erlaubt so die intelligente Vernetzung der Wärmequellen und -senken.
 
-## Immer aktuell informiert
-
 Auch die neue Kältemaschine/Wärmepumpe HEI 15 nutzt diese Vorteile und wählt je nach Kühl- oder Heizbedarf den Kalt- oder den Warmleiter (5) des Netzes. Dies senkt den Stromverbrauch bzw. steigert den Wirkungsgrad. Die Temperatur in den beiden Leitern unterscheidet sich stets um rund 4° Celsius und schwankt zudem saisonal, um dem erhöhten Kältebedarf im Sommer bzw. dem erhöhten Wärmebedarf im Winter Rechnung zu tragen.
 
 Stefan Kollischan von der Zentralen Versorgung Hönggerberg erklärt: «Als Gesamtsystem ermöglicht das Anergienetz mit den neuen Kältemaschinen/Wärmepumpen eine hocheffiziente und umweltfreundliche Wärme- und Kälteversorgung.» Gleichzeitig steigt auch die Komplexität. Derzeit wird die Steuerungssoftware der HEI 15 für den Einsatz auf dem Hönggerberg optimiert, da die vielen Parameter eine umfassende Einregulierung voraussetzen.
+
+## Immer aktuell informiert
+
+Das Anergienetz (PDF, 2.7 MB) – ein dynamisches Erdspeichersystem und Niedertemperaturverteilnetz – ist ein Leuchtturmprojekt der ETH Zürich und wurde im Jahr 2020 mit dem Schweizer Energiepreis Watt d’Or ausgezeichnet. Die Planung begann 2006. 2013 wurde es in Betrieb genommen und seither laufend erweitert. Heute umfasst es fünf Energiezentralen, sogenannte Cluster. Der Endausbau wird 2040 erreicht.
 
 Ziel der neuen Kältemaschinen/Wärmepumpen ist es, die Abhängigkeit von fossilen Energieträgern und den CO 2 -Ausstoss zu verringern. Bei hohen Öl- und Gaspreisen sind auch Kostenvorteile möglich. In der Zukunft soll der Wärmebedarf für Heizzwecke auf dem Campus Hönggerberg ganz ohne Gas und Heizöl abgedeckt werden.
 

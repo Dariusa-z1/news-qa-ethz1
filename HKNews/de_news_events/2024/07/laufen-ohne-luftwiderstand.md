@@ -1,5 +1,7 @@
 # laufen-ohne-luftwiderstand
 
+**Source:** de_news_events/2024/07/laufen-ohne-luftwiderstand.html
+
 ## Main article
 
 - Institut für Dynamische Systeme und Regelungstechnik:

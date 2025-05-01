@@ -1,5 +1,7 @@
 # innovating-peace-mediation
 
+**Source:** en_internal/2022/05/innovating-peace-mediation.html
+
 ## Event invitation
 
 - Michael Keating, Executive Director of the European Institute of Peace (EIP) and Former Special Representative of the Secretary-General and Head of the United Nations Assistance Mission in Somalia
@@ -22,9 +24,11 @@ Join us for the “Innovating Peace Mediation: New Approaches and Strategies” 
 
 ## Subscribe to Newsletter
 
-The panelists will include the following international mediation practitioners, experts, and officials:
+Register here.
 
 ## Staffnet
+
+The panelists will include the following international mediation practitioners, experts, and officials:
 
 The panel will be moderated by Itonde Kakoma, Head of Delegation and Permanent Representative to the African Union, International Federation of the Red Cross and Red Crescent Societies (IFRC). Please note that the Master of Advanced Studies ETH Mediation in Peace Processes reserves the right to make changes in the composition of the panel.
 

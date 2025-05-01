@@ -1,5 +1,7 @@
 # marsdichotomie
 
+**Source:** de_news_events/2015/01/marsdichotomie.html
+
 ## Vulkanismus stoppte vor 3,5 Milliarden Jahren
 
 Kein anderer Planet unseres Sonnensystems weist zwei so verschiedene Hälften auf wie der Mars. Vulkanarme flache Tiefländer prägen die Nordhemisphäre, ausgedehnte, von unzähligen Vulkanen durchsetzte Hochländer die Südhemisphäre. Über die Entstehung dieser sogenannten und viel diskutierten Mars-Dichotomie bestehen zwar Theorien und Vermutungen, aber kaum definitive Antworten. Nun liefern Geophysiker der ETH Zürich mit Giovanni Leone einen neuen Erklärungsansatz. Leone ist der Erstautor eines Papers, das eben in der Fachzeitschrift «Geophysical Research Letters» erschienen ist.

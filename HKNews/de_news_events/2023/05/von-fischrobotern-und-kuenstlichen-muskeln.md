@@ -1,5 +1,7 @@
 # von-fischrobotern-und-kuenstlichen-muskeln
 
+**Source:** de_news_events/2023/05/von-fischrobotern-und-kuenstlichen-muskeln.html
+
 ## Die weiteren Fokusprojekte 2022/23
 
 - externe SeiteaCentauricall\_made baut einen Solarrennwagen, der im Oktober 2023 die 3000 Kilometer lange Strecke der World Solar Challenge in Australien absolvieren soll. Der Wagen ist nicht nur aerodynamisch, sondern auch stabil genug, um starken Seitenwinden standzuhalten.

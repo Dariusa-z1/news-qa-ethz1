@@ -1,5 +1,7 @@
 # quantum-computers-and-the-future-of-computation
 
+**Source:** en_news_events/2019/08/quantum-computers-and-the-future-of-computation.html
+
 ## A quantum pioneer and zookeeper of complexities
 
 In 2007, an ad spot ran on Australian TV that involved two models in a dressing room discussing quantum mechanics. The two of them discuss how quantum mechanics is not physics in the usual sense; it’s not about matter, energy or waves, but about information, probabilities and observables.

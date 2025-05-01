@@ -1,5 +1,7 @@
 # weitere-einheiten-ziehen-ins-octavo
 
+**Source:** de_internal/2023/05/weitere-einheiten-ziehen-ins-octavo.html
+
 ## Optimale Austauschmöglichkeiten
 
 Die ETH-Angehörigen, die bereits im Gebäude Octavo in Zürich-Oerlikon arbeiten, dürfen sich auf neue Kolleg:innen freuen: Die ETH Zürich bündelt hier zukünftig ihre Schulleitungsbereiche für Infrastruktur (VPIN), für Personalentwicklung und Leadership (VPPL) und für Finanzen und Controlling (VPFC). Voraussichtlich im ersten Quartal 2024 ziehen – zusätzlich zu den dort bereits ansässigen Abteilungen von VPIN und VPPL – folgende Einheiten neu ins Octavo:

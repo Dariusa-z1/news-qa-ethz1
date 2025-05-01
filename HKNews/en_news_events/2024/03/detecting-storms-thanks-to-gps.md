@@ -1,5 +1,7 @@
 # detecting-storms-thanks-to-gps
 
+**Source:** en_news_events/2024/03/detecting-storms-thanks-to-gps.html
+
 ## In brief
 
 - A new study by researchers at ETH Zurich has shown that GPS data can be used to detect severe storm events.

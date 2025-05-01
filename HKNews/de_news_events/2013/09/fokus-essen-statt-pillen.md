@@ -1,5 +1,7 @@
 # fokus-essen-statt-pillen
 
+**Source:** de_news_events/2013/09/fokus-essen-statt-pillen.html
+
 ## Hafer als Superfood
 
 Zu viel Fett, zu viel Zucker bei zu wenig Bewegung: Essen heute – so scheint es zumindest in den entwickelten Ländern – macht krank. Übergewicht, Diabetes, Herz-Kreislauf-Erkrankungen und Krebsleiden nehmen zu und verursachen Gesundheitskosten in Milliardenhöhe. Demgegenüber steht ein Traum: Lebensmittel, die nicht nur gut schmecken und gut bekommen, sondern die sogar Krankheiten verhindern oder heilen helfen können. Essen als Medizin: Glaubt man den Versprechungen der Werbung und den Produktdeklarationen auf Joghurts, Margarinen und Co., so ist dieser Traum bereits wahr geworden. In den Regalen der Supermärkte stehen mehr und mehr Lebensmittel, denen gesundheitsfördernde Substanzen zugesetzt wurden. Functional Food verspricht auch ein Milliardengeschäft zu werden.
@@ -31,8 +33,6 @@ Doch was unterscheidet die Produkte eigentlich von einem normalen Joghurt, der s
 Lacroix sieht seinen Arbeitsschwerpunkt nicht in erster Linie in der Herstellung von Functional Food. «Ein Teil unserer Arbeit besteht darin, funktionelle Mikroorganismen, welche die Qualität, Sicherheit und Gesundheit hochwertiger Nahrungsmittel verbessern, zu finden und zu charakterisieren.» Viele seiner Mikroorganismen helfen primär, Lebensmittel haltbarer und sicherer zu machen. Zum Beispiel werden Kulturen von Laktobazillen und Propionibakterien dazu verwendet, um die Schimmelbildung in Fruchtjoghurts oder die Ausbreitung von anderen qualitäts- und gesundheitsschädlichen Mikroorganismen in Käse oder Wurst zu vermindern. Das freut nicht nur Ladenbesitzer und Konsumenten hier bei uns. Lacroix und seine Mitarbeiter untersuchen auch die mikrobielle Zusammensetzung von traditionellen fermentierten afrikanischen Lebensmitteln, um sie haltbarer und sicherer zu machen. Denn auch in Afrika ist der Weg vom Acker auf den Herd länger geworden.
 
 ## Functional Food
-
-Probiotische Bakterienkulturen können auch, davon ist Lacroix überzeugt, einen direkten Beitrag zur Gesundheit leisten. Das aber nur, wenn sie sehr gezielt eingesetzt werden, erläutert der Forscher. Und das sei ziemlich kompliziert. Schliesslich ist der Darm ein Universum mit Billionen von Mikroorganismen, die in engem Kontakt mit den Zellen des Darmepithels stehen und perfekt zusammenarbeiten müssen, wenn der Mensch gesund sein soll. «Diesem Universum neue Elemente hinzuzufügen, kann ungeahnte Folgen haben.»
 
 Lacroix hat beispielsweise gemeinsam mit der ETH-Forschungsgruppe Human Nutrition von Michael Zimmermann nach Wegen gesucht, die Eisenversorgung von Frauen und Kindern in Afrika, die häufig unter Eisenmangel leiden, sicherer zu machen. Denn Studien zeigten, dass sich für Menschen in Gegenden, in denen Durchfallerreger häufig vorkommen, das Risiko an Durchfall zu erkranken noch erhöhte, wenn ihnen Eisensupplemente verabreicht wurden. Lacroix und die Human-Nutrition-Gruppe waren die ersten, die sich genauer anschauten, wie sich Eisen auf die Mikroorganismen im Darm von Kindern in Afrika in Regionen mit unterschiedlichen Hygienestandards auswirkt.
 

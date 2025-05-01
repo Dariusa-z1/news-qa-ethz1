@@ -1,5 +1,7 @@
 # advancing-to-the-core-thanks-to-marsquakes
 
+**Source:** en_news_events/2021/07/advancing-to-the-core-thanks-to-marsquakes.html
+
 ## Core is liquid and larger than expected
 
 We know that Earth is made up of layers: a thin crust of light, solid rock surrounds a thick mantle of heavy, viscous rock, which in turn envelopes a core consisting mainly of iron and nickel. Mars has been assumed to have a similar structure. “Now seismic data has confirmed our view that Mars is a differentiated planet that presumably was once completely molten before differentiating into crust, mantle and core – that are compositionally distinct like in the Earth,” says Amir Khan, a scientist at the Institute of Geophysics at ETH Zurich and at the Physics Institute at the University of Zurich. Together with his ETH colleague Simon Stähler and an international team, he analysed data from NASA’s InSight mission, in which ETH Zurich is participating under the leadership of Professor Domenico Giardini.

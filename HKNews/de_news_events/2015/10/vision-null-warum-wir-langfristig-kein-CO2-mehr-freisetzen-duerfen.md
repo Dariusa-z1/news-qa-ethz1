@@ -1,5 +1,7 @@
 # vision-null-warum-wir-langfristig-kein-CO2-mehr-freisetzen-duerfen
 
+**Source:** de_news_events/2015/10/vision-null-warum-wir-langfristig-kein-CO2-mehr-freisetzen-duerfen.html
+
 ## Ein Etat an globalen CO2-Emissionen
 
 Nächsten Mittwoch findet an der ETH Zürich die dritte « Klimarunde » statt. Sie dreht sich um das Thema «Vision Null» und fragt nach möglichen Wegen zu einer CO 2 -neutralen Gesellschaft. In diesem Beitrag möchte ich den wissenschaftlichen Hintergrund dieser Vision diskutieren.

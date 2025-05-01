@@ -1,5 +1,7 @@
 # Grote-Fortschritt-Digitalisierung
 
+**Source:** de_news_events/2018/06/Grote-Fortschritt-Digitalisierung.html
+
 ## Wer beeinflusst wen?
 
 Wir stehen vor einigen grundlegenden technologischen Durchbrüchen. Autonomes Fahren, vollautomatische Fertigung und häusliche Pflege durch Roboter sind nicht mehr der Stoff für Science-Fiction-Filme. Die auffälligsten und umstrittensten Innovationen betreffen die Robotik, die künstliche Intelligenz und das maschinelle Lernen: In diesen Bereichen müssen wir mit technischen Systemen interagieren, die wirklich ein Eigenleben führen.
@@ -14,13 +16,11 @@ Alle, die an der aktuellen Debatte über die zukünftige Produktion und Arbeit b
 
 ## …aber leider nicht alle tun
 
-Und es benötigt mehr direkten Kontakt: Ingenieurinnen und Wissenschaftler sollten mit den Konsumentinnen und Anwendern ihrer Produkte in einen Dialog treten. Dies könnte bedeuten, dass Mitarbeitende mit Expertinnen und Experten gemeinsam darüber nachdenken, wie eine Technologie Produktionsprozesse verbessern und ein verträgliches Wachstum fördern kann. Auch in den Unternehmen selber sollte es mehr Dialog geben, im Rahmen der Sozialpartnerschaft sollten beispielsweise die Mitarbeitenden in wichtige Entscheidungsprozesse persönlich einbezogen werden.
-
 Wir glauben, dass in der Vergangenheit produzierende Unternehmen zu viel in die Automatisierung investiert haben, ohne sich ausreichend um soziale Belange zu kümmern. Sie haben oft versucht, ihren Produktivitäts- und Arbeitsproblemen durchs Automatisieren aus dem Weg zu gehen. In den 1980er Jahren gab General Motors beispielsweise über 50 Milliarden Dollar für Robotik aus, um zu effizienteren japanischen Herstellern aufzuschliessen. Dennoch beendete die Firma das Jahrzehnt als der kostenintensivere Produzent, weil sie es versäumt hat, auch in ihre Belegschaft zu investieren und ihre Arbeitspraktiken so zu ändern, dass sich die neuen Technologien auszahlen. In der Zwischenzeit hat Toyota durch die schrittweise Einführung neuer Technologien und die gleichzeitige Investition in teambasierte Arbeitssysteme und ein hohes Mass an Mitarbeiterschulung ein Produktivitätsniveau von Weltklasse erreicht.
 
-## Zur Autorin
-
 Man könnte annehmen, dass Konzernverantwortliche dieses Beispiel verinnerlicht hätten. Elon Musk von Tesla anscheinend noch nicht. Ironischerweise erreicht Tesla in einem ehemaligen Toyota-Werk in Fremont, Kalifornien, seine Produktionsziele nicht. Zuvor erreichte dort Toyota mit der schrittweisen Einführung von Technologie und in enger Zusammenarbeit mit den Arbeitnehmenden und ihrer Gewerkschaft eine hohe Produktivität. Warum strauchelt Tesla? Weil die Firma eine vollständige Automatisierungsstrategie verfolgt. Und so überrascht es nicht, dass die Arbeiter in der Fabrik versuchen, eine Gewerkschaft zu gründen, um gegen anhaltende Sicherheitsprobleme, Überlastung und niedrige Löhne zu protestieren. Investoren sind unterdessen besorgt, dass die Bargeldreserven des Unternehmens knapp werden könnten. Das Resultat kennen wir: Elon Musk hat angekündigt, rund 3'500 Stellen zu streichen.
+
+## Zur Autorin
 
 Ebenso wurde Kritik laut an den fünfzehn Forschungsinstituten im Bereich Fertigungstechnologie, welche die US-Regierung derzeit nach dem Vorbild der deutschen Fraunhofer-Gesellschaft gründet. Obschon in Aussicht gestellt wurde, mit den staatlichen Programmen auch die Berufsbildung und die Weiterbildung zu fördern, zeigen erste Auswertungen dieser Programme, dass vor allem in die Technologieentwicklung investiert wurde. Die Ausbildung musste hintenanstehen. Nur beim Programm zum Thema Leichtbauweise ist es anders: Hier gehen die Unternehmen und Berufsschulen die Technologieentwicklung und Ausbildung zusammen an und kombinieren beides.
 

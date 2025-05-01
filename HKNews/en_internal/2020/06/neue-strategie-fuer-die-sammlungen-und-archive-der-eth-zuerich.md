@@ -1,5 +1,7 @@
 # neue-strategie-fuer-die-sammlungen-und-archive-der-eth-zuerich
 
+**Source:** en_internal/2020/06/neue-strategie-fuer-die-sammlungen-und-archive-der-eth-zuerich.html
+
 ## Main article
 
 In March 2020, the Executive Board agreed on the “ Strategy Collections and Archives 2021 to 2024 ”. This document lays out the strategic principles in the following seven areas:

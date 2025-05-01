@@ -1,5 +1,7 @@
 # interview-detlef-guenther
 
+**Source:** en_news_events/2019/10/interview-detlef-guenther.html
+
 ## Main article
 
 ETH-News: Professor Günther, ETH Zurich researchers working with Professor Tom Crowther’s group published a study this summer setting out a quantitative assessment of the carbon-cutting potential offered by reforestation.Today, numerous international scientists expressed criticism on the study in the journal Science. Isn’t that quite unusual? Detlef Günther: It’s certainly not unusual for researchers to take a different approach to testing a hypothesis. The scientific process is a continuous discourse that casts a critical light on new hypotheses.

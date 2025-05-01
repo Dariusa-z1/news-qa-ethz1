@@ -1,5 +1,7 @@
 # zukunftsblog-reloaded
 
+**Source:** en_internal/2018/01/zukunftsblog-reloaded.html
+
 ## Three posts at relaunch
 
 - emailing the editors and letting them know about topics you think would make for an interesting blog post:

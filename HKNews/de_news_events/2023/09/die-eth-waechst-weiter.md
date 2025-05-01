@@ -1,5 +1,7 @@
 # die-eth-waechst-weiter
 
+**Source:** de_news_events/2023/09/die-eth-waechst-weiter.html
+
 ## Die beliebtesten Studiengänge
 
 Insgesamt starten rund 25'000 Studierende und Doktorierende am kommenden Montag in das Herbstsemester an der ETH Zürich. Rund 3250 Bachelorstudierende nehmen gemäss derzeitigem Anmeldungsstand ihr Studium auf. Damit steigt die Anzahl Neueintritte auf Bachelorstufe im Vergleich zum Vorjahr wieder an (2022: rund 3100). «Wir freuen uns, die kommende Generation von Wissenschaftler:innen, Ingenieur:innen, Architekt:innen und sonstigen Fachkräften an unserer Hochschule begrüssen zu dürfen und wünschen allen einen erfolgreichen Start», sagt ETH-Rektor Günther Dissertori.

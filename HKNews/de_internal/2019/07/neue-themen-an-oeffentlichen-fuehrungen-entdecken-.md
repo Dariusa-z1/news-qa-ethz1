@@ -1,5 +1,7 @@
 # neue-themen-an-oeffentlichen-fuehrungen-entdecken-
 
+**Source:** de_internal/2019/07/neue-themen-an-oeffentlichen-fuehrungen-entdecken-.html
+
 ## Main article
 
 Auch in der zweiten Jahreshälfte beantworten Ihnen unsere Führungen Fragen, die Sie sich vielleicht noch gar nicht gestellt haben:

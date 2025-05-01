@@ -1,5 +1,7 @@
 # der-klimagipfel-live-aus-paris-an-der-eth-zuerich
 
+**Source:** de_internal/2015/12/der-klimagipfel-live-aus-paris-an-der-eth-zuerich.html
+
 ## Main article
 
 Seit dem Montag, 30. November 2015, und noch bis zum 11. Dezember 2015 findet die 21. UN-Klimakonferenz COP21 in Paris statt. Vertreterinnen und Vertreter der Regierungen und zivilgesellschaftliche Organisationen aus knapp 200 Ländern diskutieren über ein Nachfolgeabkommen des Kyoto-Protokolls.

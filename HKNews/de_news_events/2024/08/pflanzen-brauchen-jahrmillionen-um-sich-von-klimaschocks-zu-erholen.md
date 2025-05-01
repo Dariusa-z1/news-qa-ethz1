@@ -1,5 +1,7 @@
 # pflanzen-brauchen-jahrmillionen-um-sich-von-klimaschocks-zu-erholen
 
+**Source:** de_news_events/2024/08/pflanzen-brauchen-jahrmillionen-um-sich-von-klimaschocks-zu-erholen.html
+
 ## In Kürze
 
 - Nach geologischen Ereignissen wie Perioden von besonders ausgeprägtem Vulkanismus, die eine starke Klimaerwärmung zur Folge haben, erholt sich die Vegetation der Erde nur sehr langsam. Dies zeigten Forschende anhand eines Modells, das es ihnen erlaubte, weit zurück in die Erdgeschichte zu schauen.

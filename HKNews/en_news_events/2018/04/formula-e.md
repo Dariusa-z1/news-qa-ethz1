@@ -1,5 +1,7 @@
 # formula-e
 
+**Source:** en_news_events/2018/04/formula-e.html
+
 ## Main article
 
 The Julius Baer Zurich E-Prix 2018 – the first race in Switzerland for electric-powered cars – will take place on 10 June. Today at ETH Zurich the organisers presented members of the media with more details about the event, with Zurich Mayor Corine Mauch and ETH President Lino Guzzella in attendance. The ETH main building also served as the finish line for a demonstration run, as Swiss Formula E driver Sébastien Buemi drove a Formula E racing car through Zurich with a police escort.

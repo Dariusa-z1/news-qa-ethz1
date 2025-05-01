@@ -1,5 +1,7 @@
 # jahreswechsel-2019-2020
 
+**Source:** de_internal/2019/12/jahreswechsel-2019-2020.html
+
 ## Reduziertes Dienstleistungsangebot
 
 - von internen Anschlüssen: 888
@@ -8,13 +10,15 @@
 
 Zwischen Dienstag, 24. Dezember 2019, bis und mit Sonntag, 5. Januar 2020 , gelten an der ETH Zürich spezielle Betriebs- und Öffnungszeiten. Der Zutritt zu den Gebäuden bleibt mit Schlüssel oder ETH-Karte gewährleistet. Sämtliche Kundenschalter sind über den Jahreswechsel geschlossen – ohne telefonische oder elektronische Erreichbarkeit.
 
+Informationen zu Öffnungs- und Betriebszeiten (PDF, 643 KB)
+
 Für Vorkommnisse im Personen-, Gebäude- und Anlagenschutz steht Ihnen die Alarmzentrale der ETH Zürich zur Verfügung.
 
 Sie erreichen die Alarmzentrale
 
-Schalter: Kanzlei, Zulassungsstelle, Doktoratsadministration, Mobilitätsstelle, Prüfungsplanstelle, School for Continuing Education
-
 ## Was tun bei besonderen Vorkommnissen oder Notfällen?
+
+Schalter: Kanzlei, Zulassungsstelle, Doktoratsadministration, Mobilitätsstelle, Prüfungsplanstelle, School for Continuing Education
 
 Die Bereiche der Akademischen Dienste sind vom 21.12.2019 bis und mit 05.01.2020 ganz geschlossen.
 
@@ -22,9 +26,9 @@ Schalter: Zimmer- und Wohnungsvermittlung, Studien­finanzie­rung, Internationa
 
 Die Bereiche der Studentischen Dienste sind vom 21.12.2019 bis und mit 05.01.2020 ganz geschlossen.
 
-Die Sport Center Irchel und Hönggerberg zu reduzierten Öffnungs­zeiten für das individuelle Training offen. Die übrigen ASVZ Sport Center sowie Sportanlagen bleiben spätestens vom 25.12.2019 bis 05.01.2020 geschlossen.
-
 ## Verfügbarkeit von Dienstleistungen
+
+Die Sport Center Irchel und Hönggerberg zu reduzierten Öffnungs­zeiten für das individuelle Training offen. Die übrigen ASVZ Sport Center sowie Sportanlagen bleiben spätestens vom 25.12.2019 bis 05.01.2020 geschlossen.
 
 Das Sport Center Irchel bietet ein attraktives externe Seite Weihnachtsspecial .
 
@@ -32,9 +36,9 @@ Die ETH-Bibliothek inklusive ihrer Spezialbibliotheken sowie Sammlungen und Arch
 
 Die Dienstleistungen des Service Desk der Informatikdienste stehen vom 21.12.2019 bis 05.01.2020 nicht zur Verfügung. Bei schwerwiegenden technischen Problemen mit der IT Infrastruktur wenden Sie sich bitte an die Alarmzentrale .
 
-Zentrale Anlaufstellen für Information und Services sowie für alle Fragen rund um die ETH.
-
 ## Unterhalt von Gebäuden, Anlagen und Aussen­flächen
+
+Zentrale Anlaufstellen für Information und Services sowie für alle Fragen rund um die ETH.
 
 Die Campus Info im Zentrum und am Standort Hönggerberg sowie die Telefonzentrale stehen mit all ihren Dienstleistungen bis 24.12.2019, 13.00 Uhr, zur Verfügung. Anschliessend bleibt die Campus Info bis und mit 05.01.2020, geschlossen.
 
@@ -42,9 +46,9 @@ Für die Beratung von Print and Publish innerhalb der Campus Info gelten die im 
 
 Post, die bis am 24.12.2019 vormittags ETH-intern von der Logistik zugestellt werden muss, ist am Vortag entsprechend der normalen Zeiten abzugeben. Zwischen 25.12.2019 bis und mit 05.01.2020 erfolgt keine Postabholung oder -zustellung. Am 06.01.2020 startet die Post im Normalbetrieb.
 
-Sie finden die Öffnungszeiten der Gastronomiebetriebe der ETH Zürich auf der Website.
-
 ## Staffnet
+
+Sie finden die Öffnungszeiten der Gastronomiebetriebe der ETH Zürich auf der Website.
 
 Die Verkaufsstellen des ETH Store sind vom 21.12.2019 bis 05.01.2020 geschlossen. Ab dem 06.01.2020 gelten die Öffnungszeiten des Zwischensemesters .
 
@@ -52,9 +56,9 @@ Spezielle Öffnungszeiten weiterer Angebote, wie z. B. dem Coop am Standort Hön
 
 Anlaufstellen der Abteilung Betrieb / Allgemeine Auskünfte, Fundbüro, Schlüsselverwaltung
 
-Alle Info + Service Centers (ISC) stehen bis 24.12.2019, 13.00 Uhr, zur Verfügung. Anschliessend bleiben die ISCs bis und mit 05.01.2020 geschlossen.
-
 ## Newsletter abonnieren
+
+Alle Info + Service Centers (ISC) stehen bis 24.12.2019, 13.00 Uhr, zur Verfügung. Anschliessend bleiben die ISCs bis und mit 05.01.2020 geschlossen.
 
 Der Link – Shuttlebus der ETH fährt bis am 24.12.2019, nach dem Mittag, im Normalbetrieb. Letzter Kurs: 13.54 Uhr. Über den Jahreswechsel gibt es kein Link-Angebot. Ab dem 06.01.2020 gilt der Fahrplan nach ETH-Web-Angaben.
 

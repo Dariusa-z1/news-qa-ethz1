@@ -1,5 +1,7 @@
 # addressing-plastic-pollution
 
+**Source:** en_news_events/2021/03/addressing-plastic-pollution.html
+
 ## Contaminants of emerging concern
 
 (Photograph: ETH Zurich)

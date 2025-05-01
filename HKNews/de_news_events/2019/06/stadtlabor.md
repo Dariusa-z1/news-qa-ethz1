@@ -1,5 +1,7 @@
 # stadtlabor
 
+**Source:** de_news_events/2019/06/stadtlabor.html
+
 ## Prototypen für das urbane Miteinander
 
 Einen interdisziplinären Rahmen, um komplexe Herausforderungen der urbanen Gesellschaft zu analysieren und Lösungsansätze zu entwickeln – das bietet die neuartige Lehrveranstaltung «ETH Singapur Monat» Masterstudierenden der ETH und ihrer Partneruniversitäten in Singapur. Teilnehmende der ersten Ausgabe waren eine Gruppe von 48 Studierenden von sieben Universitäten, darunter neben der ETH das Massachusetts Institute of Technology (MIT), die Uni Cambridge und die Singapurer Hochschulen Nanyang Technological University und National University. Im Vordergrund standen vielschichtige Probleme, die sich aus globalen Urbanisierungsprozessen ergeben. Die UN-Ziele für nachhaltige Entwicklung dienten als Richtschnur, um Lösungsansätze zu finden.

@@ -1,5 +1,7 @@
 # leuchtende-liposomen-ersetzen-tierversuche
 
+**Source:** de_news_events/2013/01/leuchtende-liposomen-ersetzen-tierversuche.html
+
 ## Stärker leuchten, bedeutet höhere Konzentration
 
 Das Botulinum-Neurotoxin (BoNT) ist eines der stärksten bekannten Gifte. Produziert wird es vom Bakterium Clostridium botulinum. BoNT hemmt die Signalübertragung von Nervenenden zu den Muskeln, was zu Lähmungen bis hin zum Atemstillstand führt. Ein Mikrogramm pro Kilogramm Körpergewicht reicht, um einen Erwachsenen zu töten. BoNT ist berüchtigt als Lebensmittelgift, zum Beispiel bei ungenügend sterilisiertem, eingemachtem Gemüse. Botulinum-Neurotoxin hat aber auch Vorzüge. So werden damit Dutzende von chronischen Leiden und Gebrechen behandelt, darunter nervlich bedingte Fehlhaltungen wie der Schiefhals, Schielen, Migräne oder der Tennisarm. Seit den 1990er Jahren braucht auch die Kosmetikindustrie das Gift im grossen Stil unter dem Namen Botox, um Falten im Gesicht zu glätten.
@@ -19,6 +21,4 @@ Das Verfahren hat handfeste Vorteile. «Die Liposomen lassen sich günstig produ
 An den Forschungsarbeiten beteiligt sind eine deutsche Forschungsgruppe an der Medizinischen Hochschule Hannover, die Firma miprolab GmbH in Göttingen sowie das Labor Spiez, wo Weingart dieses Projekt als ETH-Doktorand begonnen hatte. Die Forscher haben nun zusammen mit dem Bundesamt für Bevölkerungsschutz, dem das Labor Spiez angegliedert ist, ihr neues Testsystem weltweit zum Patent angemeldet. Das Projekt wird momentan weitgehend über ein Stipendium der «Stiftung Forschung 3R» an Weingart finanziert. Die Stiftung hat sich die Verminderung, Vermeidung und Verbesserung von Tierversuchen auf die Fahne geschrieben und wird unterhalten vom Tierschutz und der Pharmaindustrie.
 
 Bis anhin haben sich die Forscher auf die Bedürfnisse der Pharmaindustrie konzentriert. Martin Loessner und Oliver Weingart können sich aber auch vorstellen, das Testsystem für andere Anwendungen auszubauen. Es wäre denkbar, eine vergleichbare Testanordnung für Trinkwasser oder Lebensmittel zu entwickeln, um Neurotoxine aufzuspüren.
-
-ETH Zürich Dr. Oliver Gerhard Weingart Labor für Lebensmittelmikrobiologie Tel. +41 44 632 33 63 ETH Zürich Medienstelle Tel. +41 44 632 41 41
 

@@ -1,5 +1,7 @@
 # nccr-qsit-schweiz-kann-schluesselrolle-spielen
 
+**Source:** de_news_events/2022/12/nccr-qsit-schweiz-kann-schluesselrolle-spielen.html
+
 ## NCCR QSIT
 
 Herr Ensslin, Ende Jahr endet der Nationale Forschungsschwerpunkt «Quantum Science and Technology» (NCCR QSIT). Er fiel in eine Zeit, die von der «zweiten Quantenrevolution» geprägt ist. Was versteht man unter diesem Begriff? Der Begriff «zweite Quantenrevolution» bezieht sich auf die Verschränkung von Quantenobjekten, das heisst, dass man in der Lage ist, mehrere Quantenobjekte zu kontrollieren. Diese Entwicklung begann in den 1980er-Jahren. In den letzten Jahren ist der Aspekt des Engineering dazugekommen. Man kontrolliert also nicht nur mehrere Quantenobjekte, sondern baut mit ihnen völlig neue Systeme.

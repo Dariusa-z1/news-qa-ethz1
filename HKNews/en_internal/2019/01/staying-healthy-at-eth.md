@@ -1,5 +1,7 @@
 # staying-healthy-at-eth
 
+**Source:** en_internal/2019/01/staying-healthy-at-eth.html
+
 ## Just one hour of exercise per week will help
 
 Wendy Altherr works in the Rector’s Staff team. Her work schedule is extremely busy, especially during the semester. On some days, meetings follow one after the other. Between work and her family life, often the only time she has left for exercise is when she is commuting. “I cycle to ETH every day,” says Altherr, who sometimes uses the bike sharing services provided by the ETH Mobility Platform. Despite her hectic work and family life, the 44-year-old feels fit and well balanced.

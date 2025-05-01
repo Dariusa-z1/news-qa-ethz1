@@ -1,5 +1,7 @@
 # im-dienste-von-forschung-und-lehre-e-rara-jubilaeum-zum-nachverfolgen
 
+**Source:** de_internal/2021/04/im-dienste-von-forschung-und-lehre-e-rara-jubilaeum-zum-nachverfolgen.html
+
 ## e-rara.ch – eine Erfolgsgeschichte?
 
 - die Rolle digitaler Plattformen im Bibliothekswesen beleuchtet,
@@ -31,8 +33,6 @@ Die im Rahmen des Projekts «e-lib.ch: Elektronische Bibliothek Schweiz» entwic
 Zahlreiche weitere Bibliotheken beteiligen sich mit ihren Beständen am Ausbau des Angebots. Mittlerweile sind auf e-rara über 84 000 Titel verfügbar.
 
 ## Newsletter abonnieren
-
-Sie wünschen weitere Informationen zur Podiumsdiskussion oder haben Fragen zu e-rara und möchten mit den Verantwortlichen in Kontakt treten? Dr. Meda Hotea, Gesamtkoordination e-rara, erreichen Sie via E-Mail an
 
 Mehr als nur Daten – Vom Know-how profitieren
 

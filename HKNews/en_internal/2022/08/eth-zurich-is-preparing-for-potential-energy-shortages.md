@@ -1,5 +1,7 @@
 # eth-zurich-is-preparing-for-potential-energy-shortages
 
+**Source:** en_internal/2022/08/eth-zurich-is-preparing-for-potential-energy-shortages.html
+
 ## Focus on risks to teaching and research
 
 - Prolonged power outages or an unstable power supply pose the greatest risk for ETH Zurich. A continuous power supply directly influences how well University infrastructure – and thus its research – functions. In the event of extended blackouts, sensitive research equipment would be particularly at risk, leading to serious problems, especially in the case of long-term research and data collection. Were this to happen, emergency power systems on the Hönggerberg and Zentrum campuses would be brought online. However, these can only cover a fraction of demand.

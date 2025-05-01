@@ -1,5 +1,7 @@
 # peko-jubilee-the-staff-commission-turns-fifty
 
+**Source:** en_internal/2021/03/peko-jubilee-the-staff-commission-turns-fifty.html
+
 ## A wide-ranging remit
 
 - 8 April, 4-5 p.m.: Panel discussion (in German) on the history, significance and future of PeKo at ETH Zurich. The event can be followed live on the PeKo website.

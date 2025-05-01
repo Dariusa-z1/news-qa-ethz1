@@ -1,5 +1,7 @@
 # der-schulleitungsbereich-forschung-hat-sich-neu-aufgestellt
 
+**Source:** de_internal/2024/07/der-schulleitungsbereich-forschung-hat-sich-neu-aufgestellt.html
+
 ## Main article
 
 Der Bereich Forschung besteht nun aus drei Abteilungen und einem Stab. Mit dieser einfachen Struktur sind die Zuständigkeiten für die Forschenden der ETH Zürich klar und eine effiziente Unterstützung ist gesichert. Zudem ist der Schulleitungsbereich Forschung mit der neuen Organisationsstruktur gut aufgestellt, um die aktuellen und kommenden Herausforderungen im Forschungsbereich zu bewältigen und zur Umsetzung der Strategie der ETH Zürich optimal beitragen zu können.

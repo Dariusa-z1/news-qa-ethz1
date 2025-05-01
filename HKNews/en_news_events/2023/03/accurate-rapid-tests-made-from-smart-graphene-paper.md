@@ -1,5 +1,7 @@
 # accurate-rapid-tests-made-from-smart-graphene-paper
 
+**Source:** en_news_events/2023/03/accurate-rapid-tests-made-from-smart-graphene-paper.html
+
 ## Abstract
 
 - ​Rapid tests have a great advantage over other medical analyses. They are so simple that anyone can perform these tests themselves, virtually anywhere..

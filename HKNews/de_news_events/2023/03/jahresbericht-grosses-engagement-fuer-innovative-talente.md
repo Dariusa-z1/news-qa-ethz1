@@ -1,5 +1,7 @@
 # jahresbericht-grosses-engagement-fuer-innovative-talente
 
+**Source:** de_news_events/2023/03/jahresbericht-grosses-engagement-fuer-innovative-talente.html
+
 ## Innovation vorantreiben und Talente beflügeln
 
 Über 2900 Privatpersonen, Stiftungen und Unternehmen förderten die ETH Zürich 2022 mit mehr als 3600 Donationen, Erbschaften und Legaten in der Höhe von insgesamt 111 Millionen Schweizer Franken.

@@ -1,5 +1,7 @@
 # der-reiz-verborgener-orte-auf-dem-campus-hoenggerberg
 
+**Source:** de_internal/2018/11/der-reiz-verborgener-orte-auf-dem-campus-hoenggerberg.html
+
 ## Main article
 
 Philip Verwege (Rang 2), Nicolas Ochsner (Rang 1), Kim Gloor und Riccardo Montecchi (Rang 3). (Bild: ETH Zürich)

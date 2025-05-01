@@ -1,5 +1,7 @@
 # wastewater-provides-representative-data-on-viral-strains
 
+**Source:** en_news_events/2021/06/wastewater-provides-representative-data-on-viral-strains.html
+
 ## Main article
 
 ETH News: Professor Beerenwinkel, what is the status of the coronavirus Delta variant in Switzerland? Niko Beerenwinkel: Fortunately, fewer and fewer people in Switzerland have become infected with the coronavirus in recent weeks. However, the Delta variant makes up an increasing proportion of the viruses in circulation. This is shown by data from colleagues here at the Department of Biosystems Science and Engineering, who have sequenced the viral genome in some of the PCR tests done in Switzerland to determine the viral strain. Wastewater measurements in which we are involved also clearly show this increase. We weren’t able to detect the Delta variant in any samples from Swiss wastewater treatment plants taken before 20 May. At that time, their frequency was below the detection limit. But now in the most recent samples, analysed up until 15 June, we find the Delta variant present in five of six wastewater treatment plants tested. According to our estimates, the variant accounted for 33 percent of all detected coronavirus RNA molecules in Zurich on 15 June, and 48 percent of those in the Bern region (Sensetal). In the other wastewater treatment plants studied, the proportion of the Delta strain was lower.

@@ -1,5 +1,7 @@
 # individuelle-krebstherapie
 
+**Source:** de_news_events/2019/03/individuelle-krebstherapie.html
+
 ## Übereinstimmung von Immunzellen und Tumor
 
 Zellen des körpereigenen Immunsystems können helfen, Tumore zu bekämpfen. So können Onkologen seit einigen Jahren T-Zellen mit Medikamenten – sogenannten Checkpoint-Inhibitoren –dazu anzuregen, Tumorzellen zu eliminieren. Letztes Jahr wurden die beiden Entdecker dieses Therapieansatzes mit dem Medizin-Nobelpreis geehrt.
@@ -16,17 +18,15 @@ Als Impfstoff kommen Bestandteile von Proteinen infrage, sogenannte Peptide, die
 
 Die Methode der ETH-Forscher ermöglicht es, im Labor zu bestimmen, welche T-Zelle welches Peptid erkennt. Bisher war das äusserst schwierig. Dass der Ansatz funktioniert, zeigten die Wissenschaftlern anhand von Tumoren in Mäusen. Als nächstes möchten die Forschenden die Wirksamkeit auch bei menschlichen Tumoren aufzeigen.
 
-Kern der neuen Methode ist eine Sammlung von vielen Millionen Reporterzellen, von denen jede einzelne ein anderes Tumorpeptid an der Zelloberfläche zur Schau stellt. Die Reporterzellen sind so gestaltet, dass sie sich grün verfärben, sobald sie in Kontakt mit einer T-Zelle kommen, die das Tumorpeptid erkennt. Dies ermöglicht den Wissenschaftlern, Peptide zu finden, die von einer T-Zelle erkannt werden. Die Forscher mischen dazu die Reporterzellen-Sammlung mit T-Zellen aus dem Tumor des Patienten, isolieren die grün verfärbten Reporterzellen und identifizieren, was für ein Peptid sie tragen.
+Weil jeder Mensch (und jedes Wirbeltier generell) ein individuelles Immunsystem hat und auch Tumore ein individuelles Muster von Mutationen tragen, müssen die Wissenschaftler für jeden Patienten einen Satz Reporterzellen herstellen. «Eine Möglichkeit ist, die genetische Sequenz des Tumors zu bestimmen und mit der Gensequenz gesunder Körperzellen des Patienten zu vergleichen», sagt Kopf. So können die Forscher bestimmen, inwiefern sich der Tumor von gesundem Körpergewebe unterscheidet und dann die genetische Information mit genau diesen tumorspezifischen Unterschieden in die Reporterzellen bringen.
 
 ## Für Autoimmunkrankheiten ebenso interessant
 
-Weil jeder Mensch (und jedes Wirbeltier generell) ein individuelles Immunsystem hat und auch Tumore ein individuelles Muster von Mutationen tragen, müssen die Wissenschaftler für jeden Patienten einen Satz Reporterzellen herstellen. «Eine Möglichkeit ist, die genetische Sequenz des Tumors zu bestimmen und mit der Gensequenz gesunder Körperzellen des Patienten zu vergleichen», sagt Kopf. So können die Forscher bestimmen, inwiefern sich der Tumor von gesundem Körpergewebe unterscheidet und dann die genetische Information mit genau diesen tumorspezifischen Unterschieden in die Reporterzellen bringen.
-
 «Andere Wissenschaftler versuchen mithilfe von Computervorhersagen herauszufinden, welche Tumorpeptide sich für eine solche Impfung eignen. Dieser Ansatz ist aber nur so gut wie die verwendeten Algorithmen und diese sind momentan nicht sehr zuverlässig», erklärt Kopf. «Wir haben hingegen einen experimentellen Test, bei dem wir sicher sind, dass die T-Zellen die Peptide eines Patienten erkennen.»
 
-## Literaturhinweis
-
 Erste Tests in einem Brustkrebsmodell bei Mäusen zeigten Kopf und seinen Kollegen, dass die Methode funktioniert. In geimpften Mäusen wurde der Tumor tatsächlich vom Immunsystem bekämpft, nicht jedoch in ungeimpften Mäusen, welche die Wissenschaftler zur Kontrolle verwendeten.
+
+## Literaturhinweis
 
 Die Wissenschaftler meldeten diese Methode bereits vor fünf Jahren zum Patent an. 2015 gewannen sie damit den Spark-Award der ETH Zürich für die vielversprechendste Erfindung. Die Veröffentlichung der Arbeit im Fachmagazin externe Seite Nature Immunology erfolgte dieser Tage.
 

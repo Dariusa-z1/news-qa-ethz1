@@ -1,5 +1,7 @@
 # verschwendung-bei-kartoffeln
 
+**Source:** de_news_events/2015/10/verschwendung-bei-kartoffeln.html
+
 ## Jede zweite Knolle geht verloren
 
 Das Thema Nahrungsmittelverschwendung (neudeutsch «Food Waste») ist derzeit in aller Munde. So sollen gemäss wissenschaftlichen Erhebungen in der Schweiz pro Kopf und Jahr 300 Kilogramm einwandfreie Lebensmittel im Abfall landen. Diese Zahl umfasst allerdings den gesamten Warenkorb, vom Jogurt über den trinkbaren Rest eines Weines bis hin zum zwei Tage alten Brot.

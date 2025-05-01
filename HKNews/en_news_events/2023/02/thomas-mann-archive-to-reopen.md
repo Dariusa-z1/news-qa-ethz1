@@ -1,5 +1,7 @@
 # thomas-mann-archive-to-reopen
 
+**Source:** en_news_events/2023/02/thomas-mann-archive-to-reopen.html
+
 ## Zurich, June 1955
 
 The Thomas Mann Archive is set to reopen this evening, with two exhibitions that raise awareness of history and promote sensitivity towards the present. The permanent exhibition “The Furnishings of a Writer. Thomas Mann and his study” has been fully redesigned, and the temporary exhibition “Thomas Mann. Europe beware!” is timely and highly topical.
@@ -29,8 +31,6 @@ It was during this time that Thomas Mann acquired his famous desk that later acc
 Opening times Monday to Sunday, 10 a.m. to 5 p.m.
 
 Location: ETH Main Building, Exhibitions Rooms E43-45, Rämistrasse 101, 8092 Zurich
-
-Contact: , 044 632 40 45
 
 Website: tma.ethz.ch
 

@@ -1,5 +1,7 @@
 # einsparungen-durch-fokussierung-auf-das-kerngeschaeft
 
+**Source:** de_internal/2023/05/einsparungen-durch-fokussierung-auf-das-kerngeschaeft.html
+
 ## Townhall vom 11. Mai 20223
 
 Joël Mesot, der Bund muss sparen. Dem ETH-Bereich droht daher für 2024 eine Kürzung des Bundesbeitrages um zwei Prozent. Was bedeutet das für die ETH Zürich? Es war absehbar, dass der Bund in der heutigen Wirtschaftslage nach mehreren heftigen Krisen und aufgrund der Schuldenbremse verpflichtet ist, die Ausgaben zu reduzieren. In Frage kommen dafür nur die so genannten «nicht gebundenen Ausgaben», die lediglich einen Drittel aller Bundesausgaben ausmachen. Zu diesen ungebundenen Ausgaben gehören auch die Gelder für den ETH-Bereich. Es versteht sich daher von selbst, dass auch die ETH Zürich ihre Verantwortung wahrnehmen und einen Beitrag zur Sanierung des Bundeshaushalts leisten muss. Doch damit sind wir finanziell gleich mehrfach vor grosse Herausforderungen gestellt.

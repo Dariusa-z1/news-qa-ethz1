@@ -1,5 +1,7 @@
 # die-erde-als-versuchsobjekt
 
+**Source:** de_news_events/2024/02/die-erde-als-versuchsobjekt.html
+
 ## In Kürze
 
 - Die für die künftige Weltraummission LIFE geplante Technik ist in der Lage, bewohnbare Exoplaneten zu erkennen. Das zeigt eine Studie von Forschenden der ETH Zürich und der Universität Zürich.

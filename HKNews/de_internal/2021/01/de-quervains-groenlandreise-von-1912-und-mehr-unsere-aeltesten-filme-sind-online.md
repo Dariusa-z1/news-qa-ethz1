@@ -1,5 +1,7 @@
 # de-quervains-groenlandreise-von-1912-und-mehr-unsere-aeltesten-filme-sind-online
 
+**Source:** de_internal/2021/01/de-quervains-groenlandreise-von-1912-und-mehr-unsere-aeltesten-filme-sind-online.html
+
 ## Highlights aus dem Bestand
 
 Endlich können Sie auch online über das Videoportal der ETH Zürich auf die 86 Filmschätze im Bildarchiv der ETH-Bibliothek zugreifen. Zu entdecken gibt es historische 35-mm- oder 16-mm-Filme sowie Tonaufzeichnungen aus den Jahren 1912 bis 1980.

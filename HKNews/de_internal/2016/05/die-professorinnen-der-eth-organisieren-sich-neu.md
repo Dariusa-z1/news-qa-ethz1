@@ -1,5 +1,7 @@
 # die-professorinnen-der-eth-organisieren-sich-neu
 
+**Source:** de_internal/2016/05/die-professorinnen-der-eth-organisieren-sich-neu.html
+
 ## Kooperation mit Professorinnen der EPFL
 
 Laut dem Gender-Monitoring 2014/2015 der Stelle für Chancengleichheit der ETH Zürich liegt der Frauenanteil bei den Professuren an der ETH im Durchschnitt bei 12,8 Prozent. «Erstrebenswert wären mindestens 33 Prozent», sagt Ursula Keller, Professorin für Experimentalphysik am Departement Physik (D-PHYS). «Zahlreiche Studien zeigen, dass Betriebe besser funktionieren, wenn in den Führungspositionen auch Frauen gut vertreten sind. Das gilt auch für Forschungsinstitutionen.» Um den Frauenanteil in Führungspositionen an der ETH zu erhöhen, hat Ursula Keller 2011 mit anderen Professorinnen das Women Professors Forum der ETH Zürich (WPF) ins Leben gerufen. In sehr kurzer Zeit sind mehr als 80 Prozent der ETH-Professorinnen dem gleichnamigen Verein beigetreten.

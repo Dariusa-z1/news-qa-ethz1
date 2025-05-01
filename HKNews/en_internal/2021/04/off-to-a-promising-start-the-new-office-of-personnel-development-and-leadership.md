@@ -1,5 +1,7 @@
 # off-to-a-promising-start-the-new-office-of-personnel-development-and-leadership
 
+**Source:** en_internal/2021/04/off-to-a-promising-start-the-new-office-of-personnel-development-and-leadership.html
+
 ## Roles and duties at VPPL
 
 - Designing, setting up and holding workshops like the VPPL's internal strategy meeting to discuss the Executive Board domain’s focal point themes.
@@ -47,4 +49,6 @@ Much of the work of the Faculty Services team revolves around how to further imp
 But what exactly are the objectives of the Office of Personnel Development and Leadership? One of VPPL’s overarching goals is to ensure that ETH’s excellence in research, teaching and central administration is matched by excellence in people management, staff development and leadership. Providing high-quality advisory and support services is also part of this mission.
 
 Or in the words of Chief of Staff Maximilian Buyken: “In general, we would like to help ETH continue doing what it does on a very high level and to help the university be prepared for things that you can't actually prepare for.” Buyken explains further: “Corona is a good example. No one saw it coming. No one was really prepared. In situations like these, issues like ownership, leadership and culture become especially important. They serve as guidepoints that everyone can turn to in situations where there aren't yet any clear rules, agreements or insights regarding how to act. Building up this kind of culture and helping ETH become fit for the future is our big-picture vision.”
+
+Organisation chart VPPL (PDF, 109 KB)
 

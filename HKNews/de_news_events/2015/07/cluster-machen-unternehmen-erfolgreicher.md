@@ -1,5 +1,7 @@
 # cluster-machen-unternehmen-erfolgreicher
 
+**Source:** de_news_events/2015/07/cluster-machen-unternehmen-erfolgreicher.html
+
 ## Main article
 
 Warum sind Firmen in einem Cluster innovativer? Und was macht einen Cluster besonders erfolgreich? Diesen Fragen sind Professor Georg von Krogh, Professor für Strategisches Management und Innovation der ETH Zürich, und Nina Geilinger, Doktorandin an derselben Professur, in Zusammenarbeit mit dem Amt für Wirtschaft und Arbeit des Kantons Zürich, Bereich Standortförderung, nachgegangen. Dazu haben sie Cluster in den Bereichen Biotech, Cleantech und ICT (Informations- und Kommunikationstechnologie) im Kanton Zürich untersucht.

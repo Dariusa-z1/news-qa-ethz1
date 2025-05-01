@@ -1,5 +1,7 @@
 # acoustic-imaging-with-outline-detection
 
+**Source:** en_news_events/2015/09/acoustic-imaging-with-outline-detection.html
+
 ## Resonance structure from a 3D printer
 
 Reverberated sound can make objects visible. The sonar is used in the shipping industry to acquire information about the seabed or shoals of fish, while gynaecologists use ultrasound images to study foetuses in the womb. Material testing procedures that regularly check for fissures in rail tracks or aircraft support structures are also based on ultrasound.

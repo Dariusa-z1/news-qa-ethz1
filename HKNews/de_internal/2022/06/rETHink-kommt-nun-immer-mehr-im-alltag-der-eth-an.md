@@ -1,5 +1,7 @@
 # rETHink-kommt-nun-immer-mehr-im-alltag-der-eth-an
 
+**Source:** de_internal/2022/06/rETHink-kommt-nun-immer-mehr-im-alltag-der-eth-an.html
+
 ## Fragen zu rETHink?
 
 Herr Mesot, Sie haben nach Ihrem Amtsantritt als ETH-Präsident das Projekt rETHink gestartet mit dem Ziel, der Hochschule und ihren Angehörigen die Handlungs- und Gestaltungsfreiheit zu erhalten. Dabei ging es Ihnen unter anderem um Aspekte wie Eigenverantwortung, Führung, aber auch die Zugehörigkeit zur Institution. Nach einer breiten Wertediskussion und der Präsentation der Handlungsfelder ist es ruhig geworden um rETHink. Stockt das Projekt? Joël Mesot: Es ist tatsächlich so, dass in der ETH-weiten Öffentlichkeit schon länger nichts mehr von rETHink zu lesen oder hören war. Das hängt paradoxerweise gerade damit zusammen, dass das Projekt Gestalt annimmt und nun ganz konkrete Lösungsvorschläge entwickelt werden. Bevor wir mit den neuen Ideen an die ganze ETH treten, möchten wir sie mit den betroffenen Personengruppen und in den Mitwirkungsgremien spiegeln.

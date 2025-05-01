@@ -1,5 +1,7 @@
 # optimierte-prozesse-fuer-die-eth-finanzplanung
 
+**Source:** de_internal/2024/02/optimierte-prozesse-fuer-die-eth-finanzplanung.html
+
 ## Finanzplanung, die auf Veränderungen reagieren kann
 
 Neu sollen ein Szenario- und Simulationsmodell die bisherige Mittelfristplanung (MFP) in der strategischen Finanzplanung ersetzen sowie ein dynamischeres Rolling Forecast die heutige Budgetierung im Bereich der kurzfristigen, operativen Finanzsteuerung ablösen. Die entsprechenden Prozesse und Softwarelösungen werden nun entwickelt und in den nächsten Monaten eingeführt.

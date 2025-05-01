@@ -1,5 +1,7 @@
 # individual-funding-is-history
 
+**Source:** en_news_events/2022/03/individual-funding-is-history.html
+
 ## No longer possible in the future
 
 If excellent researchers want to advance, it is crucial that they are able to consolidate their research group and thus strengthen their position in basic research. This is precisely where the Consolidator Grant comes in: around two million Swiss francs are available to all those researchers who are awarded such a coveted grant. Only, the four researchers from ETH Zurich who succeeded in the last call for proposals will not be able to take up the grants – as was the case previously with the Starting Grants ( media release of 10.01.22 ), they would have to leave Switzerland to do so.

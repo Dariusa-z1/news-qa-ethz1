@@ -1,5 +1,7 @@
 # mit-strom-gene-regulieren
 
+**Source:** de_news_events/2020/05/mit-strom-gene-regulieren.html
+
 ## So sieht es aus: Eine Platine und ein Zellbehälter
 
 Ein Diabetiker trägt in seinem Körper ein Implantat, das insulinproduzierende Zellen enthält, und eine elektronische Steuereinheit. Sobald der Patient etwas isst und der Blutzucker steigt, kann er über sein Smartphone mittels App ein elektrisches Signal absetzen oder die App übernimmt dies automatisch, wenn der Speiseplan einprogrammiert ist. Wenig später schütten die Zellen die notwendige Menge des hergestellten Insulins aus, welches den Blutzuckerspiegel reguliert.

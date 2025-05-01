@@ -1,5 +1,7 @@
 # when-stress-makes-you-sick
 
+**Source:** en_news_events/2021/11/when-stress-makes-you-sick.html
+
 ## One in four children affected
 
 It’s no secret that stress can make you sick. And yet, people are less aware that ongoing negative stress not only impairs your mental health, but can also affect your body. “Chronic stress, especially when experienced during childhood, is a risk factor for the development of common neuropsychiatric disorders later in life,” says Isabelle Mansuy. The professor of neuroepigenetics at ETH Zurich and the University of Zurich heads the new “Hochschulmedizin Zürich” (HMZ) flagship project together with Birgit Kleim, professor of psychology at the University of Zurich.

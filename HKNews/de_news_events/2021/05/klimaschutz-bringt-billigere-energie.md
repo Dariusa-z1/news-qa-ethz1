@@ -1,5 +1,7 @@
 # klimaschutz-bringt-billigere-energie
 
+**Source:** de_news_events/2021/05/klimaschutz-bringt-billigere-energie.html
+
 ## Erneuerbar wird günstig
 
 Als die Benzinpreise in den frühen 1980er Jahren in die Höhe schnellten, fragte ich meinen Vater, wie viel das Benzin gekostet hatte, als er Autofahren lernte, damals in New York in den 1930er Jahren. 20 Cent pro Gallone, sagte er, also lediglich 5 Rappen pro Liter. Doch das war nur scheinbar günstig: Gemessen an den Löhnen und Lebenshaltungskosten war Autofahren in den 1930er Jahren sogar teurer als in den 1980ern. Und in den 1980ern teurer als heute.

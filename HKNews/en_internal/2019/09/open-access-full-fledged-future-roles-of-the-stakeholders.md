@@ -1,5 +1,7 @@
 # open-access-full-fledged-future-roles-of-the-stakeholders
 
+**Source:** en_internal/2019/09/open-access-full-fledged-future-roles-of-the-stakeholders.html
+
 ## Main article
 
 On 24 October 2019, stakeholders of the scientific community will discuss their roles after the open access transformation.

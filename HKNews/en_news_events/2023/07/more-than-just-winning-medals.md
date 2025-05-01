@@ -1,5 +1,7 @@
 # more-than-just-winning-medals
 
+**Source:** en_news_events/2023/07/more-than-just-winning-medals.html
+
 ## Swiss team with a solid result, Chinese students won
 
 It was a celebration of the natural sciences – or more precisely, chemistry – held last week on ETH Zurich’s Hönggerberg campus. A total of 348 students from 89 countries met for a peaceful competition. They tested their chemistry knowledge in five-hour-long practical and theoretical examinations. The tasks developed by the scientific committee under the direction of ETH professor, Wendelin Stark were quite challenging. "Five hours of practical chemistry in the lab and 5 hours of theory in a row – at a university level – where even the world's best face a big challenge," explains Stark. "I am, therefore, very impressed by the dedication and expertise that the students have shown over the past week." Wendelin Stark, who represented Switzerland at the Chemistry Olympiad in Italy, Norway, and China in 1993, 1994, and 1995 respectively, discovered his love of chemistry through the competition and made contacts that have lasted to throughout his career. Now he hopes that the participants at the IChO 2023 in Switzerland were also able to gain experience that will accompany them throughout their lives.

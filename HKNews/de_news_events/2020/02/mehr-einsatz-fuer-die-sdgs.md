@@ -1,5 +1,7 @@
 # mehr-einsatz-fuer-die-sdgs
 
+**Source:** de_news_events/2020/02/mehr-einsatz-fuer-die-sdgs.html
+
 ## Wir Hochschulen stehen in der Pflicht
 
 In Australien toben verheerende Buschbrände. Die Menschen in Äthiopien, Kenia und Somalia leiden unter einer beispiellosen Heuschreckenplage. Und in der Schweiz sind Gemeinden verunsichert, weil ihr Trinkwasser an manchen Orten so stark durch Pestizide verunreinigt ist, dass Brunnen geschlossen werden.

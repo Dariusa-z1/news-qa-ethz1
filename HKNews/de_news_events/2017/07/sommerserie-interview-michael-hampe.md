@@ -1,5 +1,7 @@
 # sommerserie-interview-michael-hampe
 
+**Source:** de_news_events/2017/07/sommerserie-interview-michael-hampe.html
+
 ## Zur Person
 
 Herr Hampe, noch nie war Reisen populärer: Auch diesen Sommer fahren wieder Millionen Europäer ins Ausland, legen sich an den Strand, erklimmen atemberaubende Berge oder erkunden Kathedralen und Museen in fremden Städten. Wie hat sich die Art des Reisens und was sich die Menschen davon erhoffen über die Zeit verändert? Es gibt ganz unterschiedliche Antriebe, um zu Verreisen. Bildungsreisen, wie sie zum Beispiel in der Neuzeit populär waren, gibt es noch immer – eine ganze Industrie hat sich auf naturkundliche und kulturelle Reisen spezialisiert. Mit der Industrialisierung des Urlaubs wurde das Reisen an einen fernen, aussergewöhnlichen Ort zunehmend zu einem sozialen Prestigeobjekt. Die Leute unterhalten sich darüber, wo sie in den Ferien waren. Es entstehen Konkurrenzverhältnisse, die sich zum Beispiel in Diskussionen darüber äussern, wer schon wie oft auf den Fidschi-Inseln war.

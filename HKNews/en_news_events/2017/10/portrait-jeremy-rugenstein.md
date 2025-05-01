@@ -1,5 +1,7 @@
 # portrait-jeremy-rugenstein
 
+**Source:** en_news_events/2017/10/portrait-jeremy-rugenstein.html
+
 ## Fossil soils hold climate data
 
 Jeremy Rugenstein, a postdoc at ETH Zurich’s Geological Institute, is posing some pressing questions: What will happen to the earth if humans continue releasing carbon dioxide into the atmosphere? How will temperature, precipitation and vegetation change? Will our climate become dryer or more humid?

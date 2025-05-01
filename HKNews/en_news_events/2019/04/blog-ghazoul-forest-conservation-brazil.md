@@ -1,5 +1,7 @@
 # blog-ghazoul-forest-conservation-brazil
 
+**Source:** en_news_events/2019/04/blog-ghazoul-forest-conservation-brazil.html
+
 ## New era of normalised violence
 
 In his speech at the World Economic Forum (22 January 2019) Jair Bolsonaro stated “It is now our mission to make progress in harmonising environmental preservation and biodiversity, with much-needed economic development. One should not, of course, emphasize one more than the other.”

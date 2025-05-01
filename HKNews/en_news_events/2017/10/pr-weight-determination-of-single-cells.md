@@ -1,5 +1,7 @@
 # pr-weight-determination-of-single-cells
 
+**Source:** en_news_events/2017/10/pr-weight-determination-of-single-cells.html
+
 ## New cell scale with high resolution
 
 From earthworms and sunflowers to human beings, we are all made up of cells, so it’s no surprise that researchers are hard at work investigating these building blocks of life. They have already discovered many of their secrets, but until now, it has not been possible to measure the weight of living cells and how it changes in real time, as no suitable method of measurement has existed.

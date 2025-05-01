@@ -1,5 +1,7 @@
 # pr-the-anatomy-of-a-planet
 
+**Source:** en_news_events/2021/07/pr-the-anatomy-of-a-planet.html
+
 ## Mars once completely molten
 
 Since early 2019, researchers have been recording and analysing marsquakes as part of the InSight mission. This relies on a seismometer whose data acquisition and control electronics were developed at ETH Zurich. Using this data, the researchers have now measured the red planet’s crust, mantle and core – data that will help determine the formation and evolution of Mars and, by extension, the entire solar system.

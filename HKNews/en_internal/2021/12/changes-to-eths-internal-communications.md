@@ -1,5 +1,7 @@
 # changes-to-eths-internal-communications
 
+**Source:** en_internal/2021/12/changes-to-eths-internal-communications.html
+
 ## Survey on internal communications
 
 But what do the staff actually expect from ETH’s internal communications? To answer this question, Corporate Communications invited all ETH employees to participate in an anonymous online survey in March 2021. The survey was conducted by an external opinion research institute, with 10,500 employees asked to give their views on ETH’s internal communications. Almost 4,000 people took part, representing a high response rate of 37.4 percent.

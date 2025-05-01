@@ -1,5 +1,7 @@
 # how-zurich-has-to-change-its-roads-to-have-more-e-bikes-than-cars
 
+**Source:** en_news_events/2023/11/how-zurich-has-to-change-its-roads-to-have-more-e-bikes-than-cars.html
+
 ## In brief
 
 - The E-Bike City is a vision of what cities could look like if they took half their street space and gave it back to pedestrians, cyclists and e-bikers.

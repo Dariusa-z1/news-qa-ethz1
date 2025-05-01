@@ -1,5 +1,7 @@
 # coffee-lectures-in-10-minuten-zu-neuem-knowhow
 
+**Source:** de_internal/2021/05/coffee-lectures-in-10-minuten-zu-neuem-knowhow.html
+
 ## So funktionieren die Coffee Lectures
 
 - Statista: Statistikrecherche einfach gemacht! – 2. Juni (auf Deutsch)

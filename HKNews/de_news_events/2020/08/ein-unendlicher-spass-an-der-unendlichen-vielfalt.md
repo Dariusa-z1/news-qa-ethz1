@@ -1,5 +1,7 @@
 # ein-unendlicher-spass-an-der-unendlichen-vielfalt
 
+**Source:** de_news_events/2020/08/ein-unendlicher-spass-an-der-unendlichen-vielfalt.html
+
 ## Aus der Vielfalt heraus das Unendliche eingrenzen
 
 Zu den erstaunlichsten Erkenntnissen der Mathematik gehört die Entdeckung, dass es verschiedene Arten von Unendlichkeiten gibt – und es war lange ein offenes Problem, ob gewisse dieser Unendlichkeiten widerspruchsfrei verschieden gross sein können.

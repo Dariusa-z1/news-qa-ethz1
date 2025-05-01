@@ -1,5 +1,7 @@
 # jetziger-corona-masterplan-nur-noch-bis-zum-5-september-in-kraft
 
+**Source:** de_internal/2021/08/jetziger-corona-masterplan-nur-noch-bis-zum-5-september-in-kraft.html
+
 ## Main article
 
 Ueli Weidmann, Vizepräsident für Infrastruktur und Leiter der ETH-​​Covid-​Taskforce. (Bild: Markus Bertschi / ETH Zürich)

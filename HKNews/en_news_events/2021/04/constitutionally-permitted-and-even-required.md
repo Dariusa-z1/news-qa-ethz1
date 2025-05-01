@@ -1,5 +1,7 @@
 # constitutionally-permitted-and-even-required
 
+**Source:** en_news_events/2021/04/constitutionally-permitted-and-even-required.html
+
 ## Unequal treatment is justified
 
 We are witnessing a fierce political and social debate about whether those who have had their Covid vaccine shots should be allowed to move more freely than unvaccinated people. Opponents of a vaccine passport or “green pass” system, which would ease restrictions on those vaccinated, for example, by allowing them to travel more freely, make two main arguments: First, for legal and ethical reasons, vaccinated people should not be given preferential treatment as this would violate principles of equality and be unethical; it would drive a wedge through society. Second, it’s not yet scientifically proven that vaccinated people are less infectious, and so the “precautionary principle” prohibits any preferential treatment.

@@ -1,5 +1,7 @@
 # digitalisieren-teilen-vernetzen--daten-naturhistorischer-sammlungen-werden-mobil
 
+**Source:** de_internal/2018/03/digitalisieren-teilen-vernetzen--daten-naturhistorischer-sammlungen-werden-mobil.html
+
 ## Main article
 
 Die Digitalisierung naturhistorischer Sammlungen ist zwar zeitaufwändig und teuer, doch eröffnet sie der Wissenschaft vielfältige Möglichkeiten: Durch die Zusammenführung in globalen Datenbanken und den freien Zugang für alle, können Forschende neue Erkenntnisse gewinnen.

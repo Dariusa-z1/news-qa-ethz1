@@ -1,5 +1,7 @@
 # zukunftsblog-uhler-shivashankar-why-does-covid-19-affect-old-people-more-than-young-people
 
+**Source:** en_news_events/2020/04/zukunftsblog-uhler-shivashankar-why-does-covid-19-affect-old-people-more-than-young-people.html
+
 ## Stiffening of the lung tissue with age
 
 The new coronavirus strikes both young and old. But the more severe cases and the higher rates of death are among the elderly. The reason for this is as yet unknown. Some scientists suspect that this may be related to the weakening of the immune system in the elderly – indeed, senior citizens are known to be more susceptible to many infectious diseases.

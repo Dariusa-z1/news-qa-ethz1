@@ -1,5 +1,7 @@
 # eth-store-geht-kooperation-mit-orell-fuessli-ein
 
+**Source:** de_internal/2022/11/eth-store-geht-kooperation-mit-orell-fuessli-ein.html
+
 ## Zwei von drei Stores neu bei Orell Füssli
 
 Die externe Seite ETH Store AG betreibt neben einem eigenen Webshop auf dem ETH-Campus drei Verkaufsfilialen, in denen Studierende wie Mitarbeitende ein breites Angebot an Büchern, Schreibwaren und ETH-Merchandising finden. Nun geht der ETH Store eine Kooperation mit dem grössten Schweizer Buchhandelsunternehmen externe Seite Orell Füssli Thalia AG ein.

@@ -1,5 +1,7 @@
 # earthquake-in-turkey-was-an-earthquake-doublet
 
+**Source:** en_news_events/2023/03/earthquake-in-turkey-was-an-earthquake-doublet.html
+
 ## Abstract
 
 - Researchers confirm that an earthquake doublet occurred in Turkey and Syria.

@@ -1,5 +1,7 @@
 # die-rdm-guidelines-fuer-eth-forschende-kurz-und-verstaendlich-erklaert
 
+**Source:** de_internal/2024/06/die-rdm-guidelines-fuer-eth-forschende-kurz-und-verstaendlich-erklaert.html
+
 ## Main article
 
 - externe SeiteDatenmanagementplanungcall\_made

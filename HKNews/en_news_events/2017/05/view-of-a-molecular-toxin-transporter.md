@@ -1,5 +1,7 @@
 # view-of-a-molecular-toxin-transporter
 
+**Source:** en_news_events/2017/05/view-of-a-molecular-toxin-transporter.html
+
 ## Double-edged sword
 
 Almost all living creatures have evolved mechanisms to remove toxins that have entered their cells: molecular pumps located in the cell membrane recognise harmful substances in the cell interior and transport them outside. Researchers from ETH Zurich and the Biozentrum of the University of Basel have now defined the three-dimensional structure of such a transport protein in humans (the protein ABCG2) at the atomic level. This is the first time such a structure has been defined for a human multi-drug transporter. The scientists published their work in the latest issue of the scientific journal Nature.

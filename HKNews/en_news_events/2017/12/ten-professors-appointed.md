@@ -1,5 +1,7 @@
 # ten-professors-appointed
 
+**Source:** en_news_events/2017/12/ten-professors-appointed.html
+
 ## Appointments at ETH Zurich
 
 In response to the proposals received from the President of ETH Zurich, Professor Lino Guzzella, the ETH Board resolved at its meeting of 13/14 December 2017 to appoint a total of 10 professors and award the title of professor to four individuals.

@@ -1,5 +1,7 @@
 # real-time-observation-of-collective-quantum-modes
 
+**Source:** en_news_events/2017/12/real-time-observation-of-collective-quantum-modes.html
+
 ## Phase transitions caused by symmetry breaking
 
 A cylindrical rod is rotationally symmetric – after any arbitrary rotation around its axis it always looks the same. If an increasingly large force is applied to it in the longitudinal direction, however, it will eventually buckle and lose its rotational symmetry. Such processes, known as “spontaneous symmetry breaking”, also occur in subtle ways in the microscopic quantum world, where they are responsible for a number of fundamental phenomena such as magnetism and superconductivity. A team of researchers led by ETH professor Tilman Esslinger and Senior Scientist Tobias Donner at the Institute for Quantum Electronics has now studied the consequences of spontaneous symmetry breaking in detail using a quantum simulator. The results of their research have recently been published in the scientific journal Science.

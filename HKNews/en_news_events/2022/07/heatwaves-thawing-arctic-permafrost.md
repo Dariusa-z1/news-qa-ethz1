@@ -1,5 +1,7 @@
 # heatwaves-thawing-arctic-permafrost
 
+**Source:** en_news_events/2022/07/heatwaves-thawing-arctic-permafrost.html
+
 ## Risk for release of organic carbon
 
 In the northernmost region of the earth the arctic permafrost is melting at an accelerated rate. For more than a decade, an international team of researchers from ETH Zurich, the University of Alaska Fairbanks, and the German Aerospace Center have observed topographical pock marks – large depressions referred to as, “retrogressive thaw slumps”. The slumps occur when permanently frozen layers of soil (ice-rich permafrost) melt leaving arctic hillslopes vulnerable to landslides. The landslides signal a risk for the potential release of carbon that has been stored in the permafrost for tens of thousands of years.

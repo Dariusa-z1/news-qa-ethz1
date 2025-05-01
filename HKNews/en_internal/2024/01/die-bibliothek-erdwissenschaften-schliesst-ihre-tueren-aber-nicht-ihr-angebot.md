@@ -1,5 +1,7 @@
 # die-bibliothek-erdwissenschaften-schliesst-ihre-tueren-aber-nicht-ihr-angebot
 
+**Source:** en_internal/2024/01/die-bibliothek-erdwissenschaften-schliesst-ihre-tueren-aber-nicht-ihr-angebot.html
+
 ## Main article
 
 First of all, we are still here for you. Our physical location may be closing, but you can still access our extensive media collection, take our courses and use our consultancy services.

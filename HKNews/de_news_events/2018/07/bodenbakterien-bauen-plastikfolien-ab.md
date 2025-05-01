@@ -1,5 +1,7 @@
 # bodenbakterien-bauen-plastikfolien-ab
 
+**Source:** de_news_events/2018/07/bodenbakterien-bauen-plastikfolien-ab.html
+
 ## Bakterien mineralisieren alternatives Polymer
 
 Unsere Welt ertrinkt in einer Plastikflut. Acht Millionen Tonnen Plastik landen jedes Jahr in den Weltmeeren. Auch landwirtschaftlich genutzte Böden bleiben nicht verschont. Im grossen Stil decken Bauern weltweit Böden mit Mulch-Folien aus Polyethylen (PE) ab, um Unkräuter einzudämmen, die Bodentemperatur zu erhöhen und den Boden feucht zu halten. Auf diese Weise können sie den Ertrag von Nutzpflanzen steigern.

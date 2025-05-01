@@ -1,5 +1,7 @@
 # equal-opportunities
 
+**Source:** en_news_events/2013/10/equal-opportunities.html
+
 ## Main article
 
 Renate Schubert is a Professor for Economics at ETH Zurich and has been the Delegate for Equal Opportunities since 2008. This evening, she will be moderating the panel discussion to mark the opening of the Check your stereotypes exhibition. In this interview, she reflects on the past and looks to the future.
@@ -13,8 +15,6 @@ People have known about stereotypes for a long time. Why do we need an exhibitio
 For the opening ceremony of the exhibition, you have invited representatives from the universities of Yale, Berkeley and Tokyo to join the panel and to discuss stereotypes in the global higher education landscape. What do you hope to achieve from this discussion? The professors are supposed to tell us about the situation at their respective universities and about their own best practice experiences in matters relating to gender. When speaking to representatives from other universities, I often realise how many good ideas are out there, ideas that could also be introduced in some shape or form at ETH.
 
 Your panellists are representatives of the International Alliance of Research Universities (IARU). Why did you select these people for the panel? As ETH’s President Ralph Eichler is also the current IARU President, this year’s meeting of IARU’s gender delegates is taking place at ETH. Having so many experts on gender issues here in Zurich at the same time was an opportunity too good to pass up. This is why we decided to combine the IARU meeting with the celebration of Equal’s landmark anniversary. In return, our president will have the pleasure of being the only male panellist.
-
-Have you had any previous contact with IARU’s gender delegates? We met back in 2012 in Tokyo and were surprised at some of the things we discovered: the scope of gender monitoring, for example, and the methods used to apply it differ greatly between the different universities in the alliance. This means that we have limited scope to compare the proportion of women occupying various rungs of the academic career ladder at the different institutions.
 
 The release of ETH’s Gender Monitoring Report 2012/13 will coincide with the event. How will it contribute to the discussion? In the report we show how the ratio of men to women has changed over time at ETH as a whole and in each individual department. This allows us to quickly establish whether we have succeeded in achieving the targets agreed with the ETH Council. Our monitoring system has received a lot of praise within the IARU, not least because we provide well organised, comprehensible information rather than just a sea of numbers.
 

@@ -1,5 +1,7 @@
 # climate-change-altering-terrestrial-water
 
+**Source:** en_news_events/2020/06/climate-change-altering-terrestrial-water.html
+
 ## World water dynamics over 112 years
 
 Water is the lifeblood of ecosystems and one of the most important natural resources for human beings. But available terrestrial water – that is, the amount of water left from precipitation after evaporation – is not just distributed unevenly across the planet, it is also changing over time. Observations show that the available volume of water has been falling in some regions of the world for a few decades. One example is southern Europe, where aridity is increasing. But in other areas water supplies are trending upwards.

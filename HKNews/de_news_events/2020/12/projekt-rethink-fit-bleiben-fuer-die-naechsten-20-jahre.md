@@ -1,5 +1,7 @@
 # projekt-rethink-fit-bleiben-fuer-die-naechsten-20-jahre
 
+**Source:** de_news_events/2020/12/projekt-rethink-fit-bleiben-fuer-die-naechsten-20-jahre.html
+
 ## Spitzenstellung halten
 
 Die ETH Zürich ist eine Erfolgsgeschichte. Die Hochschule bewegt sich auf internationalem Spitzenniveau, in der Lehre wie in der Forschung und im Wissenstransfer. «Doch der Druck auf die ETH steigt», stellte ETH-Präsident Joël Mesot fest, als er 2019 sein Amt antrat.
@@ -31,6 +33,8 @@ Vanessa Wood ist Vizepräsidentin für Wissenstransfer und Wirtschaftsbeziehunge
 Joël Mesot ist Präsident der ETH Zürich
 
 Julia Dannath-Schuh ist Vizepräsidentin für Personalentwicklung und Leadership
+
+Ausgabe als PDF lesen (PDF, 7.5 MB)
 
 Ausgabe online lesen
 

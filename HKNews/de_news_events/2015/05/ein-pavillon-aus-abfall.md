@@ -1,5 +1,7 @@
 # ein-pavillon-aus-abfall
 
+**Source:** de_news_events/2015/05/ein-pavillon-aus-abfall.html
+
 ## Weggeworfene Getränkekartons verwendet
 
 «Wo gehobelt wird, da fallen auch Späne», besagt ein altes Sprichwort. Zwar bezieht es sich nicht auf die Müllproduktion unserer Welt, jedoch beschreibt es dieses Phänomen erstaunlich gut: Müll ist ein Ergebnis beinahe jeglicher menschlicher Aktivität, bei der Rohmaterialien mit Hilfe von Energie und Wissen von einem Zustand in einen anderen verwandelt werden. [1] Dieser Definition folgend galt Abfall Jahrhunderte lang als etwas Fremdes, das weder der Familie der Rohstoffe noch jener der Endprodukte angehörte. Müll war schlicht ein Nebenprodukt, das sich in unserer dialektischen Anschauung von «roh» und «verarbeitet» nicht zuordnen liess.

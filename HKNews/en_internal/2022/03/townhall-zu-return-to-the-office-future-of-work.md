@@ -1,5 +1,7 @@
 # townhall-zu-return-to-the-office-future-of-work
 
+**Source:** en_internal/2022/03/townhall-zu-return-to-the-office-future-of-work.html
+
 ## Two-phase plan for organising future work and collaboration
 
 - protected pageWorkshop template "Return to the office"lock

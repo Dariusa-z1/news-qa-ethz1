@@ -1,5 +1,7 @@
 # spatenstich-hif-sanierung-und-erweiterung
 
+**Source:** de_internal/2019/07/spatenstich-hif-sanierung-und-erweiterung.html
+
 ## Hinweis zur Umleitung für Fussgänger während den Bauarbeiten
 
 Laut Prof. Thomas Vogel, Vorsteher des Departementes Bau, Umwelt und Geomatik, bedeutet diese Campus-Erweiterung ein Näherrücken verschiedener Disziplinen sowie eine allgemeine Entwicklungsmöglichkeit für das Departement und seine Institute.
@@ -14,15 +16,15 @@ Da die Bauarbeiten einen intensiven Lastwagenverkehr auslösen, wird aus Sicherh
 
 ## Kontakt
 
-Der Campus Hönggerberg ist einer der beiden Hauptstandorte der ETH Zürich und verfügt über ein Vollangebot an Lehre, Forschung und Dienstleistungen. Er bietet 7 Departementen ein Zuhause und hat einen ausgesprochen blühenden Campus-Charakter.
+Plan Umleitung (PDF, 255 KB)
 
 ## Staffnet
 
-In Bezug auf die infrastrukturelle Weiterentwicklung der ETH Zürich nimmt der Campus Hönggerberg aufgrund des Platzpotentials eine ganz besondere Rolle ein. Dies im Vergleich zum Zentrum, wo die Entwicklungsmöglichkeiten aufgrund der historischen Quartier- und Stadtstrukturen sehr begrenzt sind. Als Grundlage der infrastrukturellen Weiterentwicklung des Campus Hönggerberg dient der Masterplan «Campus Hönggerberg 2040» .
+Der Campus Hönggerberg ist einer der beiden Hauptstandorte der ETH Zürich und verfügt über ein Vollangebot an Lehre, Forschung und Dienstleistungen. Er bietet 7 Departementen ein Zuhause und hat einen ausgesprochen blühenden Campus-Charakter.
 
 ## Newsletter abonnieren
 
-Impressionen des Spatenstich-Festes. Der Star des Abends war der semiautonome Bagger Menzi Muck, vorgestellt und bedient von Professor Hutter und seinem Team. (Bilder: Nicola Pitaro)
+In Bezug auf die infrastrukturelle Weiterentwicklung der ETH Zürich nimmt der Campus Hönggerberg aufgrund des Platzpotentials eine ganz besondere Rolle ein. Dies im Vergleich zum Zentrum, wo die Entwicklungsmöglichkeiten aufgrund der historischen Quartier- und Stadtstrukturen sehr begrenzt sind. Als Grundlage der infrastrukturellen Weiterentwicklung des Campus Hönggerberg dient der Masterplan «Campus Hönggerberg 2040» .
 
-ETH Zürich Abteilung Immobilien
+Impressionen des Spatenstich-Festes. Der Star des Abends war der semiautonome Bagger Menzi Muck, vorgestellt und bedient von Professor Hutter und seinem Team. (Bilder: Nicola Pitaro)
 

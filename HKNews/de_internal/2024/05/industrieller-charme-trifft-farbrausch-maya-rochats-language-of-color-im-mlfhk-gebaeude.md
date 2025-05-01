@@ -1,5 +1,7 @@
 # industrieller-charme-trifft-farbrausch-maya-rochats-language-of-color-im-mlfhk-gebaeude
 
+**Source:** de_internal/2024/05/industrieller-charme-trifft-farbrausch-maya-rochats-language-of-color-im-mlfhk-gebaeude.html
+
 ## Räume des Student Project House und D-MAVT noch lebendiger
 
 Zur Sanierung des Gebäudekomplexes Maschinenlaboratorium und Fernheizkraftwerk (ML/FHK) der ETH Zürich gehörte auch die Vergabe von Kunst am Bau. Die Künstlerin Maya Rochat, 1985 in Morges geboren und heute in Lausanne lebend, überzeugte die Jury mit ihrer Idee zur Werksequenz «Language of Color». Die mehrteilige Installation wurde am 29. Mai 2024 im Beisein der Künstlerin im ML/FHK-Gebäudekomplex eingeweiht.

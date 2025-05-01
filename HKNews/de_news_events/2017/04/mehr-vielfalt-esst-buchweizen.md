@@ -1,5 +1,7 @@
 # mehr-vielfalt-esst-buchweizen
 
+**Source:** de_news_events/2017/04/mehr-vielfalt-esst-buchweizen.html
+
 ## Obst und Gemüse allein machen nicht satt
 
 - Buchweizen: Neues Leben für ein altes Korn (externe SeiteCoop-Zeitungcall\_made, 20.02.2017)

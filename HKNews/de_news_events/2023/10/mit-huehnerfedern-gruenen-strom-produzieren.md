@@ -1,5 +1,7 @@
 # mit-huehnerfedern-gruenen-strom-produzieren
 
+**Source:** de_news_events/2023/10/mit-huehnerfedern-gruenen-strom-produzieren.html
+
 ## In Kürze
 
 - Jedes Jahr werden 40 Millionen Tonnen Hühnerfedern verbrannt, was sich negativ auf die Umwelt auswirkt.

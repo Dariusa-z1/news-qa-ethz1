@@ -1,5 +1,7 @@
 # neustart-fuer-den-hochschulraum-schweiz-
 
+**Source:** en_news_events/2015/01/neustart-fuer-den-hochschulraum-schweiz-.html
+
 ## Main article
 
 The New Year brought with it a fundamental change in the Swiss higher education landscape: as of 1 January 2015, the rectors and presidents of ETH Zurich, EPF Lausanne and the cantonal universities, along with their colleagues from Switzerland’s universities of applied sciences and universities of teacher education, have been united under the swissuniversities umbrella.

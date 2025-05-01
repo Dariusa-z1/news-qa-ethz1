@@ -1,5 +1,7 @@
 # implantat-gibt-gegensteuer
 
+**Source:** de_news_events/2015/12/implantat-gibt-gegensteuer.html
+
 ## Prothese unterstützt das Immunsystem
 
 ETH-Professor Martin Fussenegger nennt sie molekulare Prothesen: biologische Zellen mit speziell entwickelten Gen-Schaltkreisen, die sich in einen Organismus implantieren lassen und dort Stoffwechselfunktionen übernehmen, die der Organismus selbst nicht leisten kann. Fussenegger und seinen Mitarbeitenden am Departement Biosysteme der ETH Zürich in Basel ist es nun gelungen, eine solche molekulare Prothese zu entwickeln, die in ihrer Funktion weit komplexer ist als bisherige. Sie ist darauf zugeschnitten, die Schuppenflechte (Psoriasis), eine komplexe und chronische Entzündungskrankheit der Haut, zu therapieren.
@@ -35,8 +37,4 @@ Bei den erfolgreichen Experimenten in Mäusen handle es sich um eine Machbarkeit
 Auch für andere Krankheiten könnten sich solche biologischen Schaltkreise mit Und-Gatter eignen. Fussenegger: «Chronische Entzündungskrankheiten sind ein gutes Beispiel für Krankheiten, die sich nicht mit der Messung eines einzigen Moleküls diagnostizieren lassen.» Mit einer Designer-Zelle, die das Profil mehrerer Botenstoffe im Blut messe, liessen sich solche Krankheiten jedoch in der Regel diagnostizieren. Und wenn diese Designer-Zelle gleich noch therapeutische Moleküle produziere, dann täten sich künftig vielsprechende Behandlungsmöglichkeiten für eine ganze Reihe von Krankheiten auf.
 
 Schukur L, Geering B, Charpin-El Hamri G, Fussenegger M: Implantable synthetic cytokine converter cells with AND-gate logic treat experimental psoriasis. Science Translational Medicine 2015, 7: 318ra201, doi: externe Seite 10.1126/scitranslmed.aac4964
-
-ETH Zürich Medienstelle Telefon: +41 44 632 41 41
-
-ETH Zürich Prof. Martin Fussenegger Telefon: +41 61 387 31 60
 

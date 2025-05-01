@@ -1,5 +1,7 @@
 # new-appointments-at-eth-zurich
 
+**Source:** en_news_events/2024/05/new-appointments-at-eth-zurich.html
+
 ## New appointments at ETH Zurich
 
 (Photograph: WSS, Oliver Lang Fotografie)

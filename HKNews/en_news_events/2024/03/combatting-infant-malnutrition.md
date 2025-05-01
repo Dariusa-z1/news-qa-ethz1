@@ -1,5 +1,7 @@
 # combatting-infant-malnutrition
 
+**Source:** en_news_events/2024/03/combatting-infant-malnutrition.html
+
 ## The role of gut flora
 
 According to the World Health Organisation (WHO), 148 million children under five suffer from developmental delay due to malnutrition and are therefore unlikely to reach their full potential as adults. Malnutrition is caused by an insufficient intake of food or an inadequate absorption of nutrients such as proteins, vitamins and minerals. This, in turn, stunts growth and weakens the immune system. Infant malnutrition is a problem chiefly in Africa and Asia.
@@ -37,4 +39,6 @@ The research team now aims to test the diagnostic potential of the bacteria in h
 Kerina Duri, his colleague in Zimbabwe, hopes to continue working with Swiss partners after the BRCCH project finishes at the end of this year. “Our goal is to create a centre of excellence for gut flora research in Zimbabwe,” she says. Such a centre would benefit mothers and children nationwide, and the African region at large. “But we can only build the necessary capacity through third-party funding and joint projects such as the one with ETH Zurich,” says Duri.
 
 Last year, Fondation Botnar donated an additional 50 million Swiss francs to the University of Basel and ETH Zurich to expand the activities of the Basel Research Centre for Child Health (BRCCH). This funding will support the establishment of six new professorships in the field of paediatric digital health. Founded in 2019 as a joint venture between the University of Basel and ETH Zurich, the BRCCH works to improve the health of young people. To achieve the centre’s goals, the two co-founders work closely with the University Children’s Hospital Basel and the Swiss Tropical and Public Health Institute.
+
+This text appeared in the 24/01 issue of the ETH magazine Globe . Read whole issue (PDF, 3.5 MB)
 

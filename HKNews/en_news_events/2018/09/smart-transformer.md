@@ -1,5 +1,7 @@
 # smart-transformer
 
+**Source:** en_news_events/2018/09/smart-transformer.html
+
 ## Switching at extremely high frequencies
 
 ETH Zurich electrical engineers have developed a smart electronic transformer that works extremely efficiently to transform medium-voltage into low-voltage. Smart transformers of this kind are also much smaller than standard transformers. This makes them particularly suitable for use wherever space is limited or weight must be kept to a minimum, as is the case for instance in rail locomotives.

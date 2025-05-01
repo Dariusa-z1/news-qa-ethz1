@@ -1,5 +1,7 @@
 # congressi-stefano-franscini-opens-call-for-proposals-for-conferences-for-2017
 
+**Source:** en_internal/2015/08/congressi-stefano-franscini-opens-call-for-proposals-for-conferences-for-2017.html
+
 ## New: ETH Summer Schools @ Monte Verità
 
 Researchers and university professors working in Switzerland who would like to organise an international academic conference at Congressi Stefano Franscini at Monte Verità are invited to submit their proposal to CSF by 15 January 2016. Conferences should be three to five days in length.

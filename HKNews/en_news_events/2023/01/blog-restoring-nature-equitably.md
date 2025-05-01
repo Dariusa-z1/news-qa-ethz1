@@ -1,5 +1,7 @@
 # blog-restoring-nature-equitably
 
+**Source:** en_news_events/2023/01/blog-restoring-nature-equitably.html
+
 ## How social processes affect restoration outcomes
 
 The United Nations Biodiversity Conference in Montreal closed this past December with an unprecedented agreement to place 30 percent of global degraded landscapes under protection by 2030, especially emphasizing the need to respect indigenous and local communities rights in the process.

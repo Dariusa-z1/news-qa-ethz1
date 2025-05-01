@@ -1,5 +1,7 @@
 # ides-stud-ides-software-licencing-updates
 
+**Source:** en_internal/2013/10/ides-stud-ides-software-licencing-updates.html
+
 ## New from IDES June to September 2013:
 
 - Corel PaintShop ProX6 for Windows in several languages, free of charge

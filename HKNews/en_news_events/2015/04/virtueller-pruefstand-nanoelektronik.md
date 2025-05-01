@@ -1,5 +1,7 @@
 # virtueller-pruefstand-nanoelektronik
 
+**Source:** en_news_events/2015/04/virtueller-pruefstand-nanoelektronik.html
+
 ## Computer predictions
 
 Electronic components are often only a few nanometres (billionths of a metre) in size. According to Moore’s Law, a transistor halves in size every two years, for example, which is the only possibility to place two billion transistors in a nanoformat on a Smartphone chip. The tiny devices ensure that the Smartphone can keep up with the constantly changing demands – to be a telephone and camera, as well as a quality video camera, search engine, personal health monitor and entertainer. And in doing so, the components need to work energy-efficiently and be producible at low costs.

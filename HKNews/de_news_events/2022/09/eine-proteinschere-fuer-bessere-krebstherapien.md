@@ -1,5 +1,7 @@
 # eine-proteinschere-fuer-bessere-krebstherapien
 
+**Source:** de_news_events/2022/09/eine-proteinschere-fuer-bessere-krebstherapien.html
+
 ## Bessere Medikamente gegen Krebs
 
 Weisse Oberflächen, bunte Flüssigkeiten in Glasbehältern und Geräte, die wie Küchenmaschinen aussehen. An den Wänden hängen Pipettiergeräte und Sicherheitsanweisungen für deren Verwendung. In einem grossen transparenten Kasten schwenkt ein Schüttelgerät mit einer grünen Flüssigkeit gefüllte Glaskolben im immer gleichen Rhythmus.

@@ -1,5 +1,7 @@
 # how-robots-learn-to-hike
 
+**Source:** en_news_events/2022/01/how-robots-learn-to-hike.html
+
 ## Perceiving the environment accurately
 
 Steep sections on slippery ground, high steps, scree and forest trails full of roots: the path up the 1,098-metre-high Mount Etzel at the southern end of Lake Zurich is peppered with numerous obstacles. But ANYmal, the quadrupedal robot from the Robotic Systems Lab at ETH Zurich, overcomes the 120 vertical metres effortlessly in a 31-minute hike. That’s 4 minutes faster than the estimated duration for human hikers – and with no falls or missteps.

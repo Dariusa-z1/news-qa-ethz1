@@ -1,5 +1,7 @@
 # masterarbeit-enthaelt-plagiate
 
+**Source:** de_news_events/2013/07/masterarbeit-enthaelt-plagiate.html
+
 ## Fahrlässig gehandelt
 
 - Plagiatsrichtlinien der ETH Zürich: www.plagiate.ethz.ch
@@ -23,6 +25,4 @@ Die ETH verfügt heute über gute Regeln für die wissenschaftliche Praxis. Eine
 Eine weitere Konsequenz ist, dass die bereits in einzelnen Departementen angebotenen, stufengerechten Basiskurse zum wissenschaftlichen Arbeiten in Zukunft allen ETH-Studierenden angeboten werden — auch jenen Personen, die an der ETH Zürich im Rahmen eines Weiterbildungsprogramms studieren.
 
 Eine generelle Prüfung von schriftlichen Arbeiten an der ETH soll es auch in Zukunft nicht geben, wie der Rektor hinzufügt: «An der ETH werden jedes Jahr mehrere Tausend schriftliche Arbeiten verfasst. Plagiatsfälle sind dabei eine höchst seltene Ausnahme. Darum wollen wir unsere Studierenden nicht unter einen Generalverdacht stellen.»
-
-ETH Zürich Medienstelle Tel. +41 44 632 41 41
 

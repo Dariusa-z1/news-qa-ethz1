@@ -1,5 +1,7 @@
 # garn-aus-gelatine
 
+**Source:** de_news_events/2015/07/garn-aus-gelatine.html
+
 ## Neuer Verwendungszweck für Abfallprodukt
 
 Rund 70 Millionen Tonnen Fasern werden heute jährlich rund um den Globus gehandelt. Fast zwei Drittel davon entfallen auf Kunstfasern auf Erdölbasis. Die häufigsten verwendeten Naturfasern sind Wolle und Baumwolle, doch haben sie gegenüber synthetischen Fasern an Boden verloren.

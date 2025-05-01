@@ -1,5 +1,7 @@
 # not-without-us
 
+**Source:** en_internal/2014/03/not-without-us.html
+
 ## Main article
 
 “Life is what happens while you're busy making other plans” – the quote on the door to my office could hardly be a more precise description of how the weeks after 9 February passed for VSETH. The meticulously planned projects for February and March, which included installing an ice rink on Hönggerberg, issuing a statement on the election of the Rector and conducting targeted lobbying in the National Council in relation to tuition fees, among other things, were suddenly dwarfed by a new topic: the mass immigration initiative and its effects on the European education and research programmes of Erasmus+ and Horizon 2020.

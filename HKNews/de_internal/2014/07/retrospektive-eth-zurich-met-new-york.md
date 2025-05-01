@@ -1,5 +1,7 @@
 # retrospektive-eth-zurich-met-new-york
 
+**Source:** de_internal/2014/07/retrospektive-eth-zurich-met-new-york.html
+
 ## Main article
 
 Zürich spielt eine bedeutende Rolle als Wissenshub des 21. Jahrhunderts für wissenschaftliche und technologische Innovationen. Vor diesem Hintergrund präsentierte die Limmatstadt vom 16. bis zum 23. Mai am Festival «Zürich Meets New York: A Festival of Swiss Ingenuity» den typischen Schweizer Erfindungsreichtum in New York.

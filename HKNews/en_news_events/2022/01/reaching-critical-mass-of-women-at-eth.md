@@ -1,5 +1,7 @@
 # reaching-critical-mass-of-women-at-eth
 
+**Source:** en_news_events/2022/01/reaching-critical-mass-of-women-at-eth.html
+
 ## Reaching critical mass
 
 This month marks the end of my time as Rector at ETH Zurich. Numerous people have asked me whether I’ve been successful in this role in promoting women. In fact, it’s been a key goal throughout the past 25 years. Let’s see…. as I focus on areas that I impacted on directly.

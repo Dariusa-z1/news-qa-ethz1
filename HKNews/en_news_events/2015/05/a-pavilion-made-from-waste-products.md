@@ -1,5 +1,7 @@
 # a-pavilion-made-from-waste-products
 
+**Source:** en_news_events/2015/05/a-pavilion-made-from-waste-products.html
+
 ## Using discarded beverage cartons
 
 You can't make an omelette without breaking eggs – this saying does not refer to the world's waste production, but it describes the phenomena surprisingly well: almost every human activity in which raw materials are transformed from one state to another with knowledge and generated energy produces waste. [1] For centuries, waste was considered a by-product that could be categorised neither as a raw material nor an end product, with no place in our dialectical understanding of "raw" and "processed".

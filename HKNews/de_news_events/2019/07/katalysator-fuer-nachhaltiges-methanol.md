@@ -1,5 +1,7 @@
 # katalysator-fuer-nachhaltiges-methanol
 
+**Source:** de_news_events/2019/07/katalysator-fuer-nachhaltiges-methanol.html
+
 ## Nanotechnologie
 
 Die Weltwirtschaft fusst immer noch auf den fossilen Kohlenstoffquellen Erdöl, Erdgas und Kohle. Dies nicht nur für die Produktion von Treib- und Brennstoffen, sondern auch als Rohstoff für die chemische Industrie zur Herstellung von Kunstoffen und zahlreichen weiteren chemischen Verbindungen. Seit Längerem werden zwar Wege gesucht, Flüssigtreibstoffe und chemische Produkte aus alternativen, nachhaltigen Rohstoffen herzustellen, diese sind jedoch bis jetzt nicht über Nischenanwendungen hinausgekommen.

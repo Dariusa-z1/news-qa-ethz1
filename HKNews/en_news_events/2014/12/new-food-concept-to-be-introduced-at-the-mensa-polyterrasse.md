@@ -1,5 +1,7 @@
 # new-food-concept-to-be-introduced-at-the-mensa-polyterrasse
 
+**Source:** en_news_events/2014/12/new-food-concept-to-be-introduced-at-the-mensa-polyterrasse.html
+
 ## Closed from 19 December
 
 More space, a fresher look and a new range of food on offer – that is what visitors to the Mensa Polyterrasse cafeteria can look forward to from 19 January 2015 onwards. There will be a selection of dishes to choose from at six new counters: the “Home” counter will replace the current “Menu 1”, offering popular meat- or fish-based classics, but vegetarian meals may also be served here from time to time. To ensure a quicker service, it will now be possible to serve two people at this counter at once. Meanwhile, the “Street” counter will feature international favourites such as kebabs, hot dogs, fajitas, burgers or Indian curries.

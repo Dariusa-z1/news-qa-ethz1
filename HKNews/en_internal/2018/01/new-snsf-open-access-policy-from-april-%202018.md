@@ -1,5 +1,7 @@
 # new-snsf-open-access-policy-from-april-%202018
 
+**Source:** en_internal/2018/01/new-snsf-open-access-policy-from-april-%202018.html
+
 ## Main article
 
 Against the backdrop of the National Open Access Strategy agreed in early 2017, the Swiss National Science Foundation aims to render all academic publications resulting from SNSF projects open access by 2020.

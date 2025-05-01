@@ -1,5 +1,7 @@
 # weitere-gastrobetriebe-offen
 
+**Source:** de_internal/2022/01/weitere-gastrobetriebe-offen.html
+
 ## Hönggerberg
 
 - food market (Betriebskantine: ETH-Karte notwendig), mit Take-away

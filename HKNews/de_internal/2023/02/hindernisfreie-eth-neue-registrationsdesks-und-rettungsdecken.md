@@ -1,5 +1,7 @@
 # hindernisfreie-eth-neue-registrationsdesks-und-rettungsdecken
 
+**Source:** de_internal/2023/02/hindernisfreie-eth-neue-registrationsdesks-und-rettungsdecken.html
+
 ## Apéro auf Augenhöhe
 
 Ihr Departement veranstaltet eine spannende Podiumsdiskussion, aber Sie sind gehörlos? Die Schulleitung bietet einen feinen Apéro an Stehtischen an, Sie sitzen jedoch im Rollstuhl? An der ETH Zürich finden jedes Jahr sehr viele Veranstaltungen statt. Damit alle Personen vollumfänglich daran teilnehmen können, sollen möglichst barrierefreie Lösungen gewählt werden: beispielsweise Räumlichkeiten, die auch im Rollstuhl erreicht werden können, Akustikanlagen, oder das Angebot für gehörlose Personen in Gebärdensprache zu übersetzen.

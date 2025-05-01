@@ -1,5 +1,7 @@
 # querschnittlaehmung-veraendert-koerperrepraesentation
 
+**Source:** de_news_events/2016/03/querschnittlaehmung-veraendert-koerperrepraesentation.html
+
 ## Bleibendes Gefühl der Entfremdung
 
 Wer schon einmal lokal betäubt wurde und zusehen durfte, wie an seinem Bein oder Arm operiert wurde, kennt diese seltsame Wahrnehmung. Der eigene Körperteil kommt einem in diesem Moment fremd vor, als gehöre er nicht zum eigenen Körper. Dies liegt unter anderem daran, dass das Gehirn noch immer die Position gespeichert hat, welche die Gliedmasse vor der örtlichen Betäubung innehatte. Sobald die Wirkung der Anästhesie abklingt, ist der Spuk vorbei.

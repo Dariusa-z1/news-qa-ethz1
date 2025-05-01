@@ -1,5 +1,7 @@
 # more-eateries-open
 
+**Source:** en_internal/2022/01/more-eateries-open.html
+
 ## Hönggerberg
 
 - Food market (internal canteen: ETH card required), with take-away

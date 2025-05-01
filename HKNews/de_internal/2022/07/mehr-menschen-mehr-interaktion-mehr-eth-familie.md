@@ -1,5 +1,7 @@
 # mehr-menschen-mehr-interaktion-mehr-eth-familie
 
+**Source:** de_internal/2022/07/mehr-menschen-mehr-interaktion-mehr-eth-familie.html
+
 ## Die Neuerungen im Überblick
 
 «Mehr Menschen, mehr Interaktion und das Zusammengehörigkeitsgefühl innerhalb unserer ʹETH-Familieʹ stärken.» So beschreibt Anna Maltsev, Chefredaktorin des « life », die Neuausrichtung des ETH-Mitarbeitendenmagazins. Dass sich die Leserinnen und Leser gerade dies von ihrem Magazin wünschen, zeigten eine im letzten Jahr durchgeführte Online-Umfrage zur internen Kommunikation an der ETH sowie anschliessende vertiefende Workshops mit technisch-administrativen und wissenschaftlichen Mitarbeitenden. «Diesem Wunsch, die ETH-Angehörigen noch mehr ins Zentrum des ʹlifeʹ zu stellen, kommen wir natürlich gerne nach», resümiert Maltsev.
@@ -17,8 +19,6 @@ Eine erste, augenfällige Veränderung betrifft den Umfang des Magazins: Neu bet
 Die Analyse der Lesebedürfnisse hat aber auch gezeigt, was die ETH-Angehörigen nicht mehr wollen: «Dass viele ʹlifeʹ-Artikel auch online erschienen sind, wurde in der Umfrage und den Workshops kritisiert. Deshalb publizieren wir ab jetzt nur noch ʹlifeʹ-Artikel auf der ETH-Website, wenn sie explizit einen Diskurs anregen sollen, wie etwa die ʹPro und Kontraʹ-Rubrik, oder von öffentlichem Interesse sind», sagt Maltsev.
 
 ## Immer aktuell informiert
-
-Nebst diesen inhaltlichen Anpassungen dürfte eine weitere Änderung bereits beim ersten Kontakt mit dem neuen «life» ins Auge fallen: Ab sofort wird das Magazin nicht mehr gefaltet und in Folie eingeschweisst verschickt, sondern mit aufgedruckter Adresse auf der Rückseite – wodurch unnötiges Verpackungsmaterial eingespart wird.
 
 Verschickt wird das Magazin wie gewohnt standardmässig an die Privatadresse der ETH-Mitarbeitenden, damit auch deren Familie und Freunde einen Einblick in den ETH-Kosmos erhalten können. Wer lieber online liest statt auf Papier, hat ab der kommenden Oktober-Ausgabe die Möglichkeit, das Magazin als – neuerdings barrierefreies – PDF zu abonnieren. Sobald eine neue Ausgabe erscheint, landet ein Hinweis darauf im persönlichen E-Mail-Postfach.
 

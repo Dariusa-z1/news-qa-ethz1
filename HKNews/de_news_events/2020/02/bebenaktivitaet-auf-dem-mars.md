@@ -1,5 +1,7 @@
 # bebenaktivitaet-auf-dem-mars
 
+**Source:** de_news_events/2020/02/bebenaktivitaet-auf-dem-mars.html
+
 ## Marsbebendaten interpretieren ist nicht einfach
 
 Am 26. November 2018 setzte der Insight-Lander der Nasa in der Region Elysium Planitia erfolgreich auf dem Mars auf. Siebzig Marstage später begann das Seismometer «SEIS» der Mission, Erschütterungen des Planeten aufzuzeichnen. Ein Team von Forschenden und Ingenieuren der ETH Zürich unter der Leitung von ETH-Professor Domenico Giardini hat die Steuerelektronik für SEIS entwickelt und ist für den Marsbebendienst verantwortlich. Letzterer ist in Zusammenarbeit mit dem Schweizerischen Erdbebendienst an der ETH Zürich für die tägliche Interpretation der vom Mars gesendeten Daten zuständig.

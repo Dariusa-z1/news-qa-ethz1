@@ -1,5 +1,7 @@
 # the-quest-for-infinite-paths
 
+**Source:** en_news_events/2022/11/the-quest-for-infinite-paths.html
+
 ## Making coffee or placing antennas
 
 Barbara Dembin is standing in front of the blackboard in her office in the ETH Main Building, drawing a circle with bumps and dents with chalk – the outline of a rock. “How does water permeate the rock from the outside?” she asks while sketching a few thin lines that lead into the circle in different ways. To answer this question, she explains, one has to introduce a parameter. Dembin draws a “p” on the board. The p parameter indicates the density of the holes in the rock, i.e. the average number of holes in a small piece of rock. If p reaches a certain threshold, the rock is porous and thus permeable to water.

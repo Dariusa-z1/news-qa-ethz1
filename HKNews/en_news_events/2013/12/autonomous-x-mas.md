@@ -1,5 +1,7 @@
 # autonomous-x-mas
 
+**Source:** en_news_events/2013/12/autonomous-x-mas.html
+
 ## Main article
 
 Once Robo-Rudolf and Robo-St. Nick and their team of robo-elves have delivered gifts and the quadrocopter-fairy has decorated the autonomously delivered Christmas tree from the forest, the cute creatures of ETH Zurich’s Autonomous Systems Lab can finally celebrate Christmas. And they’re sharing their joy with the world in their latest video . It wouldn’t be a surprise if they’d posted the video on YouTube autonomously, either. But what’s certain is that many researchers filled – sorry, programmed – their creatures with the spirit of Christmas.

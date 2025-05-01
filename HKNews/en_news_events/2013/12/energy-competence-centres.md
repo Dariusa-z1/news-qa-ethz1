@@ -1,5 +1,7 @@
 # energy-competence-centres
 
+**Source:** en_news_events/2013/12/energy-competence-centres.html
+
 ## Electrification and efficiency
 
 Switzerland is aiming to cover its energy requirements in the long term with energy from renewable sources. The federal government has not only decided to phase out nuclear energy, but, in the form of Energy Strategy 2050, has initiated a shift towards climate-friendly CO2-neutral energy sources. To ensure that the industry is technically equipped to meet this challenge, the government is funding energy research. To this end, it is establishing seven energy competence centres – Swiss Competence Centres for Energy Research (SCCER) – in the ETH domain, which will be operated over the next three years, with the possibility to continue for four additional years. During the first three years, a total of CHF 72 million of federal funds will go into these centres.

@@ -1,5 +1,7 @@
 # neue-professoren-ernannt
 
+**Source:** de_news_events/2019/09/neue-professoren-ernannt.html
+
 ## Verleihung des Titels «Professor»
 
 Alle vom ETH-Rat auf Antrag von ETH-Präsident Joël Mesot ernannten, respektive beförderten Persönlichkeiten haben sich auf ihrem Gebiet bereits einen Namen gemacht.

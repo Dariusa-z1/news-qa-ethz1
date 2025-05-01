@@ -1,5 +1,7 @@
 # brot-und-spiele-agrarwissenschaften-als-attraktives-eth-studium
 
+**Source:** de_news_events/2015/12/brot-und-spiele-agrarwissenschaften-als-attraktives-eth-studium.html
+
 ## Die scheinbare Trivialität des Alltäglichen
 
 Es gibt Bereiche des Lebens, die man nicht mit einem Hochschulstudium assoziiert. Essen und Trinken gehören sicher dazu. Fussballspielen vermutlich auch. Wir halten es für selbstverständlich, dass Ackerbau betrieben und Nahrung produziert wird. Natürlich wissen wir, wie das am besten geht. Jeder, der sich ein bisschen mit der Materie beschäftigt, weiss ja auch, wie die Nationalmannschaft am besten aufgestellt und vorbereitet wird.

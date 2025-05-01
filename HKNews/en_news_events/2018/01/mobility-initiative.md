@@ -1,5 +1,7 @@
 # mobility-initiative
 
+**Source:** en_news_events/2018/01/mobility-initiative.html
+
 ## Two to four new professorships
 
 Congested roads, packed trains and additional buses at rush hour: existing transport systems are being stretched to their limits. Technological progress is enabling new solutions, from self-driving vehicles and more efficient use of road and rail infrastructure to door-to-door mobility. Meeting the numerous challenges and creating marketable innovations requires the cooperation of the scientific, economic and public transport sectors. That’s why ETH Zurich is launching the ETH Mobility Initiative together with SBB.

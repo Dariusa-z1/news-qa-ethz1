@@ -1,5 +1,7 @@
 # kapsidoeffnung-grippevirus
 
+**Source:** de_news_events/2014/10/kapsidoeffnung-grippevirus.html
+
 ## Kapsid als Knacknuss
 
 Die Infektion mit einem Virus läuft stets nach einem ähnlichen Schema ab. Der Erreger muss versuchen, in die Wirtszellen hineinzukommen, um deren Replikations- und Proteinbildungsmaschinerie für die eigene Vervielfältigung zu nutzen. Die erste Grenze, die ein Virus überwinden muss, ist die Zellmembran.

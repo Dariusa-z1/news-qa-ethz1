@@ -1,5 +1,7 @@
 # anspruch-und-wirklichkeit
 
+**Source:** en_internal/2021/03/anspruch-und-wirklichkeit.html
+
 ## An outlier in the value assessment
 
 Responsibility, openness, diversity, team spirit and excellence: how important do ETH members consider these values from the new ETH Charter? How are they experienced in everyday life? And are there any other values that are important to good and successful collaboration? The issue was addressed by those responsible for rETHink Workstream 6 (cultural development) in an internal news article, with readers asked to take part in a survey. About 300 ETH members responded.
@@ -29,6 +31,8 @@ The additional value stated most frequently across ETH was respect, followed by 
 The responses have been summarised in a report, which will be used as input for the broad-based culture discussion. What lies behind the difference between expectation and reality? How can we close the gap? Which values are actually important to us in the way we work together? And do we all agree on what is important?
 
 On behalf of the workstream, Gudela Grote would like to thank all survey respondents for their valuable contribution to the culture and values discussion. As already announced, ETH President Joël Mesot and Rector Sarah Springman will invite all ETH members to take part in the discussion. “We hope as many people as possible take up this invitation and actively engage others in a discussion of how we want to shape our future together,” says Grote.
+
+The detailed results are summarised in the “Taking our pulse" survey report (PDF, 1 MB) .
 
 The five values discussed are taken from the ETH Charter, which forms part of the Strategy and Development Plan 2021-2024 .
 

@@ -1,5 +1,7 @@
 # open-access-die-neue-story-auf-explora
 
+**Source:** de_internal/2018/10/open-access-die-neue-story-auf-explora.html
+
 ## Main article
 
 So können sie neue Wege für die Energieversorgung ihrer Gemeinde entwickeln, sich auf Arztbesuche vorbereiten oder die neuesten Forschungsergebnisse zu Getreidesorten und Saatgut verfolgen.

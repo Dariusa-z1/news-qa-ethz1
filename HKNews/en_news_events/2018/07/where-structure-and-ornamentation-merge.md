@@ -1,5 +1,7 @@
 # where-structure-and-ornamentation-merge
 
+**Source:** en_news_events/2018/07/where-structure-and-ornamentation-merge.html
+
 ## Only as much concrete as needed
 
 Just 20 mm thick at its thinnest point, decoratively ribbed and not even half as heavy as a conventional concrete ceiling: with “Smart Slab”, the name says it all. The slab combines the structural strength of concrete with the design freedom of 3D printing. Developed by the research group of Benjamin Dillenburger, Assistant Professor for Digital Building Technologies at ETH Zurich, Smart Slab is one of the core elements of the residential unit DFAB House (see box) at Empa’s and Eawag’s research and innovation platform NEST in Dübendorf. The 80 m 2 , 15 tonne ceiling consists of eleven concrete segments and connects the lower floor with the two-storey timber volume above.

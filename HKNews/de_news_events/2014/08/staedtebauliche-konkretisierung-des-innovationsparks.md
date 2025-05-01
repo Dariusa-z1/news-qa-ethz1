@@ -1,5 +1,7 @@
 # staedtebauliche-konkretisierung-des-innovationsparks
 
+**Source:** de_news_events/2014/08/staedtebauliche-konkretisierung-des-innovationsparks.html
+
 ## Ein neuer Stadtteil entsteht
 
 Ab 2016 soll in Dübendorf ein Biotop entstehen, an dem Forschungsresultate aus Hochschulen gemeinsam mit internationalen Unternehmen möglichst rasch in marktfähige Produkte umgesetzt werden. Die ETH Zürich unterstützt diese Idee bereits seit 2004 mit Planungen, Vergleichs- und Machbarkeitsstudien. Der Campus in Dübendorf soll einer von zwei Knotenpunkten in einem schweizerischen Innovations-Netzwerk werden. Der zweite Knotenpunkt ist in Lausanne neben der EPFL geplant. Die ETH Zürich und die EPFL arbeiten eng mit dem Verein «Swiss Innovation Park» und den Kantonen an der Konkretisierung des Projekts.

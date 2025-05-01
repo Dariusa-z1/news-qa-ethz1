@@ -1,5 +1,7 @@
 # radioaktive-abwaesser-filtern
 
+**Source:** de_news_events/2020/09/radioaktive-abwaesser-filtern.html
+
 ## Auch radioaktive Isotope werden gefiltert
 
 Der GAU von Fukushima ist im kollektiven Gedächtnis haften geblieben. Bei dieser Katastrophe traten grosse Mengen radioaktiv verseuchten Wassers aus, das die AKW-Betreiber reinigen mussten. Sie nutzten dazu unter anderem die Methode der Umkehrosmose. Allerdings ist diese Methode wenig effektiv. Zwar lässt sich damit bis zu 70 Prozent des radioaktiv verseuchten Wassers reinigen, in den restlichen 30 Prozent reichern sich jedoch die teilweise stark und über Jahrtausende strahlenden radioaktiven Elementen an. Dieses Wasser – insgesamt über eine Million Liter – will die japanische Regierung 2022 im Pazifik entsorgen.

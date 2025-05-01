@@ -1,5 +1,7 @@
 # risiko-fuer-vertreibungen-steigt
 
+**Source:** de_news_events/2021/03/risiko-fuer-vertreibungen-steigt.html
+
 ## Bevölkerungswachstum lässt Risiko stark steigen
 
 Jedes Jahr müssen Millionen von Menschen rund um den Globus aufgrund klimabedingter Unwetter aus ihren Häusern flüchten. Allein in den letzten sechs Monaten zählte die Internationale Rotkreuz- und Rothalbmondbewegung 10,3 Millionen Vertriebene – viermal mehr als im gleichen Zeitraum durch Kriege und Konflikte vertrieben wurden. Eine der hauptsächlichen Ursachen für Vertreibungen sind Überschwemmungen. Jüngstes Beispiel: Ostaustralien. Zehntausende von Menschen müssen ihr Zuhause verlassen, um sich vor der Jahrhundertflut in Sicherheit zu bringen.

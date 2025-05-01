@@ -1,5 +1,7 @@
 # the-use-of-surgical-masks-at-eth-zurich
 
+**Source:** en_internal/2020/05/the-use-of-surgical-masks-at-eth-zurich.html
+
 ## Weitere Informationen
 
 Dr Sigel, must I wear a surgical mask when I return to work on campus? We only recommend wearing a surgical mask if it is impossible to maintain the minimum distance of two metres when working in the laboratory or workshop.
@@ -27,8 +29,6 @@ There are now many different types of mask, including those made of fabric, whic
 What about respirator masks containing an exhalation valve? This type of mask is not a suitable means for protecting other people from infection. It actually has the opposite effect: the valve in the mask creates a jet effect that can propel exhaled droplets into the surrounding air.
 
 Some members of the ETH community belong to what is classed as a high-risk group because of pre-existing medical conditions. What advice would you give them? Vulnerable persons belonging to a risk group should basically continue working from home. If this is not possible – for example because someone manages a critical infrastructure at the university – they must strictly observe physical distancing and good hygiene rules in the workplace. In addition, they must avoid travelling by public transport wherever possible.
-
-But what if the space in the workshop or laboratory is too restricted? In that case, they should contact us directly [ ].
 
 More information: SSHR information sheet on how to use surgical masks and where to obtain them.
 

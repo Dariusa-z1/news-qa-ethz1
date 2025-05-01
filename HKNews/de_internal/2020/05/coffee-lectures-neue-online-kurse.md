@@ -1,5 +1,7 @@
 # coffee-lectures-neue-online-kurse
 
+**Source:** de_internal/2020/05/coffee-lectures-neue-online-kurse.html
+
 ## Main article
 
 Die Coffee Lectures geben Input zu konkreten Fragestellungen rund um die Informationsrecherche, dem Open-Access-Publizieren, oder dem Forschungsdatenmanagement. Gleichzeitig lernen Sie Ansprechpartner und Fachpersonen der ETH-Bibliothek kennen.

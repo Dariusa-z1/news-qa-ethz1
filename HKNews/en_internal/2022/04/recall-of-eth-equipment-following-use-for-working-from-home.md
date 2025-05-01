@@ -1,5 +1,7 @@
 # recall-of-eth-equipment-following-use-for-working-from-home
 
+**Source:** en_internal/2022/04/recall-of-eth-equipment-following-use-for-working-from-home.html
+
 ## Equipment to be returned to ETH by the end of May
 
 When the requirement to work from home was announced at ETH Zurich, IT Services responded rapidly in consultation with the Vice President for Infrastructure, Ulrich Weidmann. On the basis of the special pandemic guideline on the use of ICT resources for working from home, employees were allowed to take IT resources, such as monitors and docking stations, from their offices to use at home in consultation with their supervisors.

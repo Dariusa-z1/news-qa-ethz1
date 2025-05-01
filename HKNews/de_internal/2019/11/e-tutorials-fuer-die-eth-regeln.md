@@ -1,5 +1,7 @@
 # e-tutorials-fuer-die-eth-regeln
 
+**Source:** de_internal/2019/11/e-tutorials-fuer-die-eth-regeln.html
+
 ## Lernen am konkreten Fall
 
 Was ist zu beachten, wenn man an der ETH Zürich etwas beschaffen will? Ab welchem Beschaffungswert braucht es eine Ausschreibung? Und was heisst in diesem Zusammenhang «besondere Beziehungsnähe»? Oder: Was bedeutet es für mich, wenn ein zu beschaffendes Produkt der Exportkontrolle unterliegt? Wie viel darf ich für ein Weihnachtsessen mit meinem Team ausgeben?
@@ -17,8 +19,6 @@ Wer das E-Learningangebot aufruft, kann wählen, ob sie oder er ein spezifisches
 Das Tutorial soll die wichtigsten reglementierten Bereiche der ETH Zürich abdecken. Neben dem erwähnten Thema Beschaffungen sind auch die Module «Berufliche Auslagen, Exportkontrolle und Integrität in der Forschung» abrufbar. Das Angebot wird laufend aktualisiert und erweitert.
 
 ## Newsletter abonnieren
-
-Als weitere Hilfestellung beschreiben Professorinnen, -Professoren und Mitarbeitende der ETH in kurzen Filmsequenzen wie etwa bei der Kontrolle von Exportkontrollklauseln in Verträgen mit ausländischen Partnern vorzugehen ist oder welche Schritte bei der Abrechnung von Kreditkarten-Transaktionen notwendig sind. Ein Info-Tool rundet das Lernangebot ab; es enthält weiterführende Informationen, rechtliche Grundlagen, Tipps und Kontakte zu den Fachstellen. Das E-Learning kann auch via Smartphone abgerufen werden. Die Bearbeitung eines Moduls nimmt zwischen 15 und 20 Minuten in Anspruch.
 
 «Eigenverantwortliches Handeln ist ein Trumpf der ETH Zürich. Es ermöglicht Flexibilität und schlanke, effektive Abläufe. Und das wiederum kommt unserem wissenschaftlichen Kernauftrag enorm zugute», sagt Robert Perich, Vizepräsident für Finanzen und Controlling und in der Schulleitung zuständig für das Thema Compliance.
 

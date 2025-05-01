@@ -1,5 +1,7 @@
 # start-of-the-new-respect-campaign
 
+**Source:** en_internal/2021/10/start-of-the-new-respect-campaign.html
+
 ## Tips for “upstanders”
 
 -         In the external pagevideocall\_made, Executive Board members Joël Mesot, Sarah Springman and Julia Dannath speak about their personal experiences of respect.
@@ -33,6 +35,4 @@ As well as these tips, there are various opportunities to engage with the topic 
 All the information on the campaign can be found at: www.ethz.ch/respekt/en
 
 Register for the events you are interested in and find out more about different aspects of respect. The full programme and registration details can be found here .
-
-ETH Zurich offers various contact and advice service centres that provide employees and students with professional and confidential counselling services. If you have the feeling that someone has not really got the point, please get in touch with one of our contact and advice services .
 

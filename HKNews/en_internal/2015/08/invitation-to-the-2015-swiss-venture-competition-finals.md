@@ -1,5 +1,7 @@
 # invitation-to-the-2015-swiss-venture-competition-finals
 
+**Source:** en_internal/2015/08/invitation-to-the-2015-swiss-venture-competition-finals.html
+
 ## Swiss Venture Competition Finals 2015
 
 Some of the most dynamic start-ups in the Climate-KIC Accelerator will take to the stage followed by an inspiring keynote by Professor Andreas Fischlin, head of the Terrestrial Systems Ecology Group and co-author of several IPCC Reports (Intergovernmental Panel on Climate Change).

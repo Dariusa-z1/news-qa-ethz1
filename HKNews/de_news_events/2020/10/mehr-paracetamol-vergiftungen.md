@@ -1,5 +1,7 @@
 # mehr-paracetamol-vergiftungen
 
+**Source:** de_news_events/2020/10/mehr-paracetamol-vergiftungen.html
+
 ## Rücksprache mit Fachperson ist wichtig
 
 Das bekannte Schmerzmittel Paracetamol ist in der Schweiz nicht nur rezeptfrei in Tabletten zu 500 Milligramm erhältlich, sondern nach Verschreibung durch einen Arzt oder eine Ärztin auch in doppelt so hoch dosierten Tabletten zu 1000 Milligramm (1 Gramm). Forschende der ETH Zürich haben nun untersucht, ob die Verfügbarkeit der höher dosierten Tabletten mit häufigeren Paracetamol-Vergiftungen im Zusammenhang stehen könnte. Sie schliessen aus ihrer Untersuchung, dass dem so ist.

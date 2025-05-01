@@ -1,5 +1,7 @@
 # interview-vayena
 
+**Source:** en_news_events/2018/03/interview-vayena.html
+
 ## Globe: Tailor-made medicine
 
 ETH News: Switzerland is hoping to set up a national database infrastructure for personalised medicine over the next four years. Are we ready to take that step? Effy Vayena: I would say we’re getting ready. This is the phase where we need to set up systems for handling data from patients and healthy individuals responsibly. Generating and processing this kind of data raises technological, scientific and societal questions that we must address.

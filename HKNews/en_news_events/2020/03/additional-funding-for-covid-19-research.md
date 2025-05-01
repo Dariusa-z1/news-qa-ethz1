@@ -1,5 +1,7 @@
 # additional-funding-for-covid-19-research
 
+**Source:** en_news_events/2020/03/additional-funding-for-covid-19-research.html
+
 ## Main article
 
 The Botnar Research Center for Child Health (BRCCH), which was founded jointly by ETH Zurich and the University of Basel in 2019, develops new pediatric approaches to promote the health of children and adolescents worldwide. Researchers from the University Children's Hospital Basel and the Swiss Tropical and Public Health Institute are also involved in the Center.

@@ -1,5 +1,7 @@
 # die-schulleitungiinformiert-2022-10
 
+**Source:** de_internal/2022/12/die-schulleitungiinformiert-2022-10.html
+
 ## Sonia Seneviratne ist neue Delegierte für Nachhaltigkeit
 
 - Julia Dannath (Vizepräsidentin für Personalentwicklung und Leadership)

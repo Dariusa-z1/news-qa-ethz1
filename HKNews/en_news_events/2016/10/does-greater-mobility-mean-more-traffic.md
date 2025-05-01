@@ -1,5 +1,7 @@
 # does-greater-mobility-mean-more-traffic
 
+**Source:** en_news_events/2016/10/does-greater-mobility-mean-more-traffic.html
+
 ## Distance as humanity’s early enemy
 
 There is a saying in German: a mistake is not the end of the world, as long as you don’t repeat it. Of course, what exactly constitutes a mistake is often a question of interpretation – especially in transport planning, which has seen years of ideological and emotionally driven debate about how to tackle the steadily rising volumes of traffic. In my thesis, I examine the development of the transport network and travel in Europe from the Middle Ages to the present day. And with some of the issues currently preoccupying politicians, citizens and the media, I get an inevitable sense of déjà vu. So, let’s have a look at the history of mobility.

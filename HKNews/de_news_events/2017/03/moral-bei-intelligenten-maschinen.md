@@ -1,5 +1,7 @@
 # moral-bei-intelligenten-maschinen
 
+**Source:** de_news_events/2017/03/moral-bei-intelligenten-maschinen.html
+
 ## Wie gut entscheidet eine Maschine?
 
 - Rolf Sonderegger, CEO Kistler Gruppe, Weltmarktführer in dynamischer Messtechnik

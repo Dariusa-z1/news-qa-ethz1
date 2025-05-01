@@ -1,5 +1,7 @@
 # frueh-uebt-sich
 
+**Source:** de_internal/2014/03/frueh-uebt-sich.html
+
 ## Lernort Museum
 
 Konzentriert beugt sich Tabea Schneider über das Solarpanel. Ist alles an der richtigen Position installiert? Wird es halten? Stimmt die Gesamtsymmetrie des Satelliten? Ein letzter kritischer Blick, doch, ja, es sieht gut aus. Zufrieden und mit strahlenden Augen lehnt sie sich zurück und schaut auf. Um sie herum sitzen zahlreiche kleine Ingenieurinnen und Ingenieure, die gerade ihr eigenes Satellitenmodell entwickelt haben. Der Tisch ist übersäht mir Arbeitsutensilien: Alufolie, Klebstoff, farbiges Papier, Stifte, Schnüre, Klebefolien, Schere, Korkenzapfen, Karton und Stöckchen.

@@ -1,5 +1,7 @@
 # was-tun-bei-sommerhitze-am-arbeitsplatz
 
+**Source:** de_internal/2022/06/was-tun-bei-sommerhitze-am-arbeitsplatz.html
+
 ## Das können Sie tun
 
 - Nachtabkühlung nutzen: Räume in den frühen Morgenstunden gut durchlüften

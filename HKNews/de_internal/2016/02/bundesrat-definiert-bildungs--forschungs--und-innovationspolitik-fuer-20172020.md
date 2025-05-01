@@ -1,5 +1,7 @@
 # bundesrat-definiert-bildungs--forschungs--und-innovationspolitik-fuer-20172020
 
+**Source:** de_internal/2016/02/bundesrat-definiert-bildungs--forschungs--und-innovationspolitik-fuer-20172020.html
+
 ## Hochschulen wegen Diskrepanz besorgt
 
 Die mit der BFI-Botschaft 2017–2020 beantragten Mittel für die Förderung von Bildung, Forschung und Innovation in der Höhe von rund 26 Milliarden Franken dienen der Finanzierung der bundesseitigen Massnahmen zur Förderung der Berufsbildung, der Hochschulen (ETH-Bereich, kantonale Universitäten, Fachhochschulen) und der Weiterbildung sowie von Forschung und Innovation.

@@ -1,5 +1,7 @@
 # mm-erc-advanced-grants-2015
 
+**Source:** de_news_events/2015/05/mm-erc-advanced-grants-2015.html
+
 ## An Erfolge anknüpfen
 
 Die sogenannten ERC Advanced Grants sind bei den Forschenden in ganz Europa äusserst beliebt: Mit ihnen fördert der Europäische Forschungsrat (ERC) ausschliesslich Projekte von etablierten Spitzenforschenden. Sie gelten deshalb auch als besondere Auszeichnung. Zudem dürfen sich Forschenden über einen beachtlichen Geldsegen freuen: Die angenommenen Projekte werden während fünf Jahren mit rund 2,5 bis 3,5 Millionen Franken unterstützt.
@@ -10,9 +12,9 @@ Bereits in der Vergangenheit gehörte die ETH Zürich zu den erfolgreichsten eur
 
 «Selbstverständlich sind diese Grants für uns Forscher eine grossartige Sache, aber sie sind zunehmend auch zu einem guten Indikator für die Leistungsfähigkeit einer Universität geworden – dabei hat die ETH Zürich bisher sehr gute Arbeit geleistet», betont auch Systembiologie-Professor Ruedi Aebersold.
 
-Nach der Annahme der Masseneinwanderungs-Initiative des Schweizer Stimmvolkes im Februar 2014 legte die EU die Beteiligung der in der Schweiz forschenden Wissenschaftler vorerst auf Eis. Erst das Abkommen über eine Teilassoziierung der Schweiz am EU-Forschungsrahmenprogramm Horizon 2020, das der Bundesrat im vergangenen Herbst unterschieb, öffnete hiesigen Forschenden wieder die Türen zur EU-Forschungsförderung und den Fördermitteln des europäischen Forschungsrates ERC.
-
 ## Vollassoziierung bleibt das Ziel
+
+Nach der Annahme der Masseneinwanderungs-Initiative des Schweizer Stimmvolkes im Februar 2014 legte die EU die Beteiligung der in der Schweiz forschenden Wissenschaftler vorerst auf Eis. Erst das Abkommen über eine Teilassoziierung der Schweiz am EU-Forschungsrahmenprogramm Horizon 2020, das der Bundesrat im vergangenen Herbst unterschieb, öffnete hiesigen Forschenden wieder die Türen zur EU-Forschungsförderung und den Fördermitteln des europäischen Forschungsrates ERC.
 
 Noch ist allerdings nicht klar, ob sich in der Schweiz tätige Forscherinnen und Forscher nach Ende 2016 weiterhin an Horizon 2020 beteiligen können. Die EU macht dies davon abhängig, ob eine Lösung bei der Personenfreizügigkeit gefunden werden kann. Detlef Günther erklärt: «Für die Schweizer Hochschullandschaft wird es auch in Zukunft von zentraler Bedeutung sein, dass ihre Forschenden sich um die renommierten ERC Grants bewerben können. Das wird aber nur möglich sein, wenn die Schweiz langfristig als voll assoziierter Staat am Forschungsprogramm Horizon 2020 teilnehmen kann.»
 
@@ -20,11 +22,11 @@ Die ERC Advanced Grants gehen an folgende Professoren der ETH Zürich (alphabeti
 
 Ruedi Aebersold ist Professor für Molekulare Systembiologie und setzt sich in seiner Forschung vor allem mit der Frage auseinander, wie Proteine die komplexen biochemischen Prozesse einer lebenden Zelle kontrollieren und katalysieren. Mit dem ERC-Projekt setzt er sich zum Ziel, Proteinnetzwerke zu erfassen und die Beziehung zwischen der Struktur solcher Netzwerke und erkennbaren Erscheinungsbilder (Phänotypen), wie zum Beispiel bestimmte Krankheiten, zu bestimmen. Das Projekt ist deshalb bedeutend, weil es erlauben wird, die grundlegenden Mechanismen zu bestimmen, wie Unterschiede in der Erbsubstanz über die Veränderung der Proteinnetzwerke in Phänotypen umgesetzt werden. Für Aebersold ist dies nach 2008 der zweite ERC Advanced Grant.
 
+## Kontakt
+
 Atac Imamoglu , Professor für Quantenelektronik, erforscht Halbleiter-Nanomaterialen, in denen Elektronen mit Photonen (Lichtteilchen) wechselwirken. In seinem vom ERC geförderten Projekt möchte er solche Systeme mithilfe von kohärenter Laserstrahlung umkehrbar von einem halbleitenden in einen supraleitenden Zustand überführen. Ausserdem möchte er die Kopplung von Elektronen und Licht in diesen Systemen nutzen, um eine Wechselwirkung mehrerer Photonen herbeizuführen. Im Gegensatz dazu beeinflussen sich Lichtstrahlen im freien Raum nicht. Wissenschaftler schreiben diesen Forschungsanstrengungen ein grosses Potenzial zu für eine ganze Reihe von künftigen Anwendungen. Imamoglu erhielt bereits 2008 einen ERC Advanced Grant.
 
 Jürg Leuthold ist Professor am Institut für elektromagnetische Felder. Er forscht an neuen Hochgeschwindigkeitskommunikations-Systemen. Dazu entwickelt er mit seinem Team neue integrierte Chips, welche Signale bei höchsten Datenraten verarbeiten können. Der ERC Advanced Grant dient ihm dazu, Computerchips für die nächste Mobilkommunikationsgeneration zu entwickeln. Diese sollen Übertragungsraten von 10 bis 100 Gigabit pro Sekunde ermöglichen. Dieses Projekt ist deshalb wichtig, weil es neue Ansätze zur Verbesserung der mobilen Daten­kommunikations­raten untersucht.
-
-## Kontakt
 
 Dario Neri ist Professor für Biomakromoleküle am Departement Chemie und angewandte Biowissenschaften. Seine Gruppe erforscht zur Hauptsache neue Therapeutika zur gezielten Behandlung von Krebs und chronischen Entzündungen. Das ERC Projekt soll dazu dienen, eine neue Klasse von Wirkstoffen zu entwickeln, die ihre Wirkung nach Bedarf entfalten (z.B. eine selektive Aktivierung des Stoffs am Ort der Krankheit, um die toxische Wirkung auf gesundes Gewebe zu begrenzen). Das Projekt ist auf die Bekämpfung bestimmter aggressiver Krebstypen und von chronischen Entzündungen wie Rheumatoide Arthritis ausgerichtet.
 
@@ -33,6 +35,4 @@ Thermodynamik-Professor Dimos Poulikakos möchte mit den EU-Fördergeldern seine
 Das Nachahmen von Knorpel ist die zentrale Herausforderung des ERC-Projekts von Nicholas D. Spencer , Professor für Oberflächentechnik am Departement Materialwissenschaft der ETH. Er will bekannte Polymer-Syntheseverfahren neu kombinieren, um so Strukturen aufzubauen, die denen von natürlichem Knorpel ähneln. Von der detaillierten Analyse dieser Strukturen verspricht sich Spencer einerseits ein besseres Verständnis von Knorpelfunktionen, andererseits die Entwicklung von knorpelinspirierten Schmiersystemen für (energie)effiziente Anwendungen in der Industrie. Die im Rahmen des ERC-Projekts entwickelten Knorpelimitate könnten den Weg ebnen für künftige biokompatible, abriebfestere Gleitflächen, die als Knorpelreparaturen oder -ersatz im menschlichen Körper dienen.
 
 Julia Vorholt ist Professorin für Mikrobiologie am Institut für Mikrobiologie der ETH Zürich. Sie hat neue Wege beschritten, um die Anpassung von Bakterien an Pflanzen und ihre Stoffwechselleistung zu verstehen. Mit dem ERC-Projekt strebt sie an, ursächliche Zusammenhänge zwischen den mit Pflanzen vergesellschafteten Bakterien (der sogenannte Pflanzen-Mikrobiota) untereinander und von bakteriellen Gemeinschaften und Pflanzen zu erkennen. Die daraus gewonnenen Erkenntnisse können dazu dienen, Pflanzenwachstum nachhaltig zu fördern und Pflanzenkrankheiten zu minimieren.
-
-ETH Zürich Medienstelle Telefon: +41 44 632 41 41
 

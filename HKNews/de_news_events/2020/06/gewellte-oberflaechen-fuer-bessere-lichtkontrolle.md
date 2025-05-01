@@ -1,5 +1,7 @@
 # gewellte-oberflaechen-fuer-bessere-lichtkontrolle
 
+**Source:** de_news_events/2020/06/gewellte-oberflaechen-fuer-bessere-lichtkontrolle.html
+
 ## Interferenz durch Rillen
 
 Wie wichtig auf Licht basierende Technologien für unsere Gesellschaft sind, wurde in den letzten Wochen wieder deutlich. Dank des Internets können Millionen Menschen im Homeoffice arbeiten, in virtuelle Klassenräume eintreten oder mit Verwandten und Freunden sprechen. Das Internet wiederum verdankt seine Leistungsfähigkeit unzähligen Lichtpulsen, mit denen über Glasfasern enorme Datenmengen rund um den Globus verschickt werden.

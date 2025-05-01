@@ -1,5 +1,7 @@
 # earwigs-and-the-art-of-origami
 
+**Source:** en_news_events/2018/03/earwigs-and-the-art-of-origami.html
+
 ## Simulation brings a breakthrough
 
 Every child knows about origami. The skill of this oriental art lies in folding a flat sheet of paper into different – and in some cases highly complex – structures. Examples of origami also exist in the natural world. The wing of an earwig is a perfect illustration: its elaborate design is far more ingenious than any manmade structure.

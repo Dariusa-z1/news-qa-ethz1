@@ -1,5 +1,7 @@
 # weihnachtsapero
 
+**Source:** de_internal/2018/12/weihnachtsapero.html
+
 ## Main article
 
 Die rund 1000 Stühle in der Turnhalle waren besetzt, als die ETH-Mitarbeiterin und Zürcher Sängerin Alina Amuri mit ihrem Song «Pioneers» die Gäste auch auf der Tribüne und in den zusätzlichen Hörsälen begrüsste.

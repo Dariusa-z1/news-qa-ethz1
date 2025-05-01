@@ -1,5 +1,7 @@
 # attosekunden-messung-an-elektronen-in-wasser-clustern
 
+**Source:** de_news_events/2022/07/attosekunden-messung-an-elektronen-in-wasser-clustern.html
+
 ## Zeitverzögerung bei der Ionisierung
 
 Nahezu alle lebenswichtigen chemischen Prozesse spielen sich in wässrigen Lösungen ab. Eine entscheidende Rolle bei diesen Prozessen spielen Elektronen, die zwischen verschiedenen Atomen und Molekülen ausgetauscht werden und so beispielsweise für die Bildung oder Auflösung von chemischen Bindungen sorgen. Wie das im Detail vor sich geht, ist allerdings nur schwer zu untersuchen, da sich die Elektronen dabei sehr schnell bewegen. Forschenden der ETH Zürich unter Leitung von Hans Jakob Wörner, Professor für physikalische Chemie, ist es nun in Zusammenarbeit mit Kollegen des Lawrence Berkeley National Laboratory (USA) gelungen, die Dynamik von Elektronen in Clustern aus Wassermolekülen mit einer zeitlichen Auflösung von wenigen Attosekunden zu studieren. Ihre Ergebnisse wurden kürzlich vorab im Fachjournal Nature veröffentlicht.

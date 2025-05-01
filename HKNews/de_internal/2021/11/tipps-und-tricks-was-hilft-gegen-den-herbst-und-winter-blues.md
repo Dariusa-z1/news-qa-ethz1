@@ -1,5 +1,7 @@
 # tipps-und-tricks-was-hilft-gegen-den-herbst-und-winter-blues
 
+**Source:** de_internal/2021/11/tipps-und-tricks-was-hilft-gegen-den-herbst-und-winter-blues.html
+
 ## Erholungsoasen an der ETH
 
 - Der Campus Hönggerberg als Naturparadies

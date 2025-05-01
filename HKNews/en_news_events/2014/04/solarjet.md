@@ -1,5 +1,7 @@
 # solarjet
 
+**Source:** en_news_events/2014/04/solarjet.html
+
 ## Main article
 
 Several notable research organizations from academia through to industry (ETH Zürich, Bauhaus Luftfahrt, Deutsches Zentrum für Luft- und Raumfahrt (DLR), ARTTIC and Shell Global Solutions) have explored a thermochemical pathway driven by concentrated solar energy. A new solar reactor technology has been pioneered to produce liquid hydrocarbon fuels suitable for more sustainable transportation.
@@ -15,8 +17,4 @@ Although the solar-driven redox cycle for syngas production is still at an early
 “This is potentially a very interesting novel pathway to liquid hydrocarbon fuels using focussed solar power”, said Professor Hans Geerlings at Shell. “Although the individual steps of the process have previously been demonstrated at various scales, no attempt had been made previously to integrate the end-to-end system. We look forward to working with the project partners to drive forward research and development in the next phase of the project on such an ambitious emerging technology.”
 
 SOLAR-JET (Solar chemical reactor demonstration and Optimization for Long-term Availability of Renewable JET fuel) was launched in June 2011 and is receiving financial support from the European Union within the 7th Framework Programme for a duration of four years. In a first step, the technical feasibility of producing solar kerosene was proven. &nbsp;In the next phase of the project, the partners will optimise the solar reactor and assess the techno-economic potential of industrial scale implementation. The outcomes of SOLAR-JET will put Europe to the forefront of research, innovation and production of sustainable fuels directly from concentrated solar energy.
-
-ETH Zurich Prof. Aldo Steinfeld Professorship of Renewable Energy Carriers Tel. +41 44 632 7929
-
-ETH Zurich Media relations Tel. +41 44 632 41 41
 

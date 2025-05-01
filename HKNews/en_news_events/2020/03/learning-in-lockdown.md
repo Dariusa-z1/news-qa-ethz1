@@ -1,5 +1,7 @@
 # learning-in-lockdown
 
+**Source:** en_news_events/2020/03/learning-in-lockdown.html
+
 ## A challenge for the institution
 
 ETH has entered lockdown mode. The once bustling buildings are now filled with the sounds of silence. Teaching has continued, however – just in a different way. All lecturers at ETH have now switched over to conducting online courses. In pre-corona times, online learning was tried out occasionally or used for specific purposes, but suddenly it has become the only way of doing things. This seismic switch has been a great feat not only for lecturers and students, but also for the staff providing technical and didactic support. One such unit working behind the scenes is the Educational Development and Technology Department (LET).
@@ -28,15 +30,17 @@ The Department of Materials was also concerned about how students would be able 
 
 The first obstacles have already been overcome – perhaps not perfectly, but with a great deal of intensity. However, some of the next challenges will only become apparent with time. As the events of the corona crisis rapidly unfolded, everyone was scrambling: to set up their home offices, to learn how to use new technologies, to switch their courses to new formats. “We were very, very busy. I think reality will only start to set in over the next few weeks, and the psychological strain of it all will start to surface,” says Kortemeyer. One worry is that students sitting alone at home in front of their laptops may simply give up in the absence of a supportive campus environment, not finishing the semester or even dropping out altogether. To combat this, Kortemeyer would like to ramp up efforts to strengthen online assessment tools.
 
-“We need to be having in-depth conversations on these topics,” says Andreas Reinhardt, learning innovation specialist at LET. According to Reinhard, we need to be increasingly active in asking students about their needs. It could very well be that learning patterns that functioned in the past no longer apply to our new reality. Perhaps a two-hour livestreamed lecture does not work that well in practice, and more thought will have to be given to how to plan in breaks. Or maybe students want the chance to do more assignments so that they can achieve their learning goals. What’s more, it is important for students to receive regular feedback for them to make progress.
+“Generally speaking, our lecturers do really great work. It’s impressive how quickly they’ve adapted to the new situation, even if for some of them it’s their first experience with holding online lectures,” says Thomas Piendl. However, he encourages people not to forget the perspective of the students amid this flurry of activity. Can everyone really take part in the live sessions? What about students in different time zones? Do they have enough bandwidth to join an online video meeting? Are they being offered the possibility to download recorded lectures? These are the kinds of issues that must be considered.
 
 ## Thinking about the future, too
 
+“We need to be having in-depth conversations on these topics,” says Andreas Reinhardt, learning innovation specialist at LET. According to Reinhard, we need to be increasingly active in asking students about their needs. It could very well be that learning patterns that functioned in the past no longer apply to our new reality. Perhaps a two-hour livestreamed lecture does not work that well in practice, and more thought will have to be given to how to plan in breaks. Or maybe students want the chance to do more assignments so that they can achieve their learning goals. What’s more, it is important for students to receive regular feedback for them to make progress.
+
 Fortunately, some groundwork had already been laid for ETH’s unprecedented switch to virtual instruction. ETH has had an online learning infrastructure in place for some time now, for instance for receiving feedback on assignments, discussing possible exam questions, taking quizzes, participating in online question-and-answer sessions and holding discussions on forums. “There are many lecturers who, in a variety of ways, started investing in interactive digital learning environments earlier on,” says Reinhardt. Even before the corona crisis, some classes at ETH took a blended learning approach by offering online videos, interactive scripts and simulations. These blending learning tools can now be integrated into the new online teaching environment. And not to be forgotten is the support from LET, which has now adapted its services to the current situation (see info box below).
 
-Kortemeyer is already looking ahead to the future. He says that ETH does not yet have enough of an infrastructure for managing online course content. Options for archiving content, holding discussions and mixing and remixing recordings could lighten the load for many. “We don't have to reinvent the wheel here,” he explains. The incredible amount of new teaching content that is now being generated should also not get lost going forward. No matter what happens, Kortemeyer believes that ETH will be a different institution once the corona crisis ends. He could imagine an increasing organic shift to blended learning, where some lecture elements are stored online, which would enable classroom teaching to be used in different – and perhaps more efficient – ways.
-
 ## LET services
+
+Kortemeyer is already looking ahead to the future. He says that ETH does not yet have enough of an infrastructure for managing online course content. Options for archiving content, holding discussions and mixing and remixing recordings could lighten the load for many. “We don't have to reinvent the wheel here,” he explains. The incredible amount of new teaching content that is now being generated should also not get lost going forward. No matter what happens, Kortemeyer believes that ETH will be a different institution once the corona crisis ends. He could imagine an increasing organic shift to blended learning, where some lecture elements are stored online, which would enable classroom teaching to be used in different – and perhaps more efficient – ways.
 
 Website – Options for remote teaching : Guidance and tips for lecturers, updated on an ongoing basis.
 
@@ -47,6 +51,4 @@ Refresh Teaching programme : Inspiring workshops offered over lunchtime – now 
 Virtual Coffee Breaks : Launched on 26 March for casual discussions.
 
 Lecturers can also share good ideas on Twitter using the hashtag #ETHZonline.
-
-Departmental educational developers, LET support services and the LET advisory team are all good points of contact. More about LET
 

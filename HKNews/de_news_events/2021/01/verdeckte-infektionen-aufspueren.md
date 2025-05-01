@@ -1,5 +1,7 @@
 # verdeckte-infektionen-aufspueren
 
+**Source:** de_news_events/2021/01/verdeckte-infektionen-aufspueren.html
+
 ## Zwei Stufen
 
 Der Kanton Graubünden führte seit Dezember mehrmals regional begrenzte Sars-CoV-2-Massentests durch. Dabei konnte sich jeweils die ganze Bevölkerung kostenlos auf das Pandemievirus testen lassen, und zwar ungeachtet, ob jemand typische Covid-Symptome zeigte oder nicht.
@@ -22,19 +24,17 @@ Kritiker mögen einwenden, dass das massenweise Testen sehr teuer ist. Es lohnt 
 
 Dennoch gilt: Eine testbasierte Bekämpfungsstrategie ist erfolgreicher, je mehr Personen teilnehmen. Wir haben in einem kleinen Team von Wissenschaftlern der ETH Zürich, der Empa und weiteren Mitstreitern einen Simulationsalgorithmus entwickelt 2 , der auch als interaktive Onlineanwendung verfügbar ist. 3 Entscheidungsträger können damit für eine beliebige Anzahl von Teilnehmern die Wirkung auf die Virusverbreitung abschätzen. So können sie die Kosten fürs Testen gegen die Kosten alternativer Massnahmen abwägen, wie zum Beispiel Unterstützungszahlungen für die Wirtschaft.
 
-Unsere Simulationen zeigen: Lässt sich ein Viertel der Bevölkerung in einem Gebiet jede Woche einmal testen, kann damit die Reproduktionszahl (der R-Wert) um etwa 40 Prozent verringert werden. Lässt sich gar die Hälfte der Bevölkerung einmal pro Woche testen, liesse sich der R-Wert halbieren. Testet man nicht die ganze Bevölkerung, sondern spezifisch Bevölkerungsgruppen, die besonders anfällig sind auf eine Ansteckung, müsste man weniger Personen testen, um dieselbe Wirkung zu erzielen 4 . Solche Bevölkerungsgruppen sind beispielsweise Personen, die täglich beim Pendeln, am Arbeitsplatz, in Gemeinschaftseinrichtungen oder in der Schule viele Kontakte haben.
+Damit können Tests – wenn man auch die symptomlosen Menschen testet – sogar so wirksam sein, dass man andere Bekämpfungsmassnahmen, wie zum Beispiel die Schliessung von Läden oder Restaurants, früher lockern könnte. Und sie wären ein wichtiger und flexibel einsetzbarer Hebel, den wir in der Hand haben, um gegen neue ansteckendere Virusvarianten anzutreten. Mit einer ausreichend hohen Zahl von Teilnehmenden liessen sich die neuen Virusvarianten vielleicht sogar ohne Lockdown in Schach halten.
 
 ## Referenzen
-
-Damit können Tests – wenn man auch die symptomlosen Menschen testet – sogar so wirksam sein, dass man andere Bekämpfungsmassnahmen, wie zum Beispiel die Schliessung von Läden oder Restaurants, früher lockern könnte. Und sie wären ein wichtiger und flexibel einsetzbarer Hebel, den wir in der Hand haben, um gegen neue ansteckendere Virusvarianten anzutreten. Mit einer ausreichend hohen Zahl von Teilnehmenden liessen sich die neuen Virusvarianten vielleicht sogar ohne Lockdown in Schach halten.
 
 Um den langfristigen Erfolg der Strategie zu garantieren, müsste auch nach einem anfänglichen Erfolg und bei sinkenden Fallzahlen gleich intensiv weitergetestet werden bis genügend Personen geimpft sind.
 
 Die Teilnahme an Massentests muss freiwillig bleiben. Die bisherigen Erfahrungen in Graubünden zeigen jedoch, dass ausreichend viele Menschen bereit sind, sich testen zu lassen. Wichtig ist, dass die Bevölkerung einen Anreiz hat mitzumachen. Anfahrtszeit und Wartezeit müssen klein, und der Test darf nicht zu unangenehm sein. Deshalb werden in Graubünden unter anderem auch Speicheltests statt solche mit Nasenabstrich durchgeführt, was auch den logistischen und personellen Aufwand reduziert.
 
-## Zu den Autoren
-
 In Graubünden werden wir nun auch sehen, ob eine auf das Testen von symptomlosen Personen fokussierte Strategie funktioniert. Wir werden aus den dortigen praktischen Erfahrungen lernen können, wie solche Tests am besten organisiert werden. Aus mathematisch-theoretischer Warte gibt es keinen Grund zur Annahme, dass die Strategie nicht aufgehen würde. Und wir sehen auch keinen Grund, der einer Ausweitung dieser Teststrategie auf die ganze Schweiz im Weg stehen könnte.
+
+## Zu den Autoren
 
 Dieser Text erschien auch als Gastkommentar externe Seite im Tages-Anzeiger .
 

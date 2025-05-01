@@ -1,5 +1,7 @@
 # globe-der-digitale-schatten-unserer-gefuehle
 
+**Source:** de_news_events/2023/03/globe-der-digitale-schatten-unserer-gefuehle.html
+
 ## Zu den Personen
 
 Herr Buhmann, werden Computer bald Emotionen haben?
@@ -34,9 +36,9 @@ Buhmann: Im Gebiet der Mensch-Computer-Interaktion ist es natürlich hilfreich, 
 
 Zimmermann: In meinem Forschungsgebiet sind Emotionen und Haltungen, die wir gegenüber Maschinen haben, sehr relevant. Ich forsche unter anderem dazu, welche Rolle das menschliche Verhalten und damit auch Emotionen in der Cybersicherheit spielen. Eine meiner Doktorandinnen untersucht, welchen Einfluss Emotionen auf die Wahrnehmung des Themas Cybersicherheit und auf das Sicherheitsverhalten haben. Ein einfaches Beispiel: Wer beim Thema Cybersicherheit Angst verspürt, zeigt vielleicht ein Vermeidungsverhalten und beschäftigt sich erst gar nicht damit. Das kann dazu führen, dass man nichts lernt und sich darum auch nicht sicher verhalten kann.
 
-## «Globe» Emotional!
-
 Wie bringt man Menschen dazu, gerne mit Maschinen zu interagieren?
+
+## «Globe» Emotional!
 
 Zimmermann: Es kommt darauf an, was man mit den Technologien erreichen will. Ist das Ziel, dass Menschen über virtuelle Realitäten Emotionen erleben können? Oder ist das Ziel, eine möglichst menschenähnliche soziale Interaktion zu ermöglichen, in einem Anwendungsfeld wie der Pflege, wo menschlicher Bezug aufgrund der Alterung der Gesellschaft knapp werden könnte? Es gibt Studien, die zeigen, dass ein Roboter, je nachdem, wie er gestaltet ist, bestimmte Emotionen bei Menschen erzeugen und so auch eine emotionale Verbindung zwischen Mensch und Technologie entstehen kann.
 
@@ -69,4 +71,6 @@ Joachim M. Buhmann ist Professor für Informatik am Departement Informatik.
 Elgar Fleisch ist Professor für Informationsmanagement am Departement Management, Technologie und Ökonomie.
 
 Verena Zimmermann ist Professorin für Sicherheit, Privatsphäre und Gesellschaft am Departement Geistes-, Sozial- und Staatswissenschaften.
+
+Ganze Ausgabe lesen (PDF, 5.4 MB)
 

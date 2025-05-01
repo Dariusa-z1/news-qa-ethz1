@@ -1,5 +1,7 @@
 # sieben-millionen-buecher-auf-einen-klick
 
+**Source:** de_news_events/2013/04/sieben-millionen-buecher-auf-einen-klick.html
+
 ## Vielfältige Bestände — eine Suche
 
 Was kann man tun, um den Wissenschaftsstandort Zürich nachhaltig zu stärken? Seit langem arbeiten Forschende aus verschiedenen Institutionen an gemeinsamen Projekten oder benützen die gleiche Infrastruktur. Jetzt macht der Wissenschaftsstandort aber noch einen weiteren, wichtigen Schritt, um möglichst viel Wissen möglichst vielen Benutzern effizient zugänglich zu machen: Ab heute sind die Kataloge der Bibliotheken der Universität Zürich und der Pädagogischen Hochschule Zürich in den NEBIS-Verbundkatalog integriert. Möglich wurde dies durch das Projekt INUIT (Integration Bibliothekssystem Universität Zürich) der Hauptbibliothek Universität Zürich, der Zentralbibliothek Zürich und der ETH-Bibliothek, die das Projekt koordiniert hat. Roman Boutellier, ETH-Vizepräsident für Personal und Ressourcen, fasst die Vorteile des neuen Angebots zusammen: «Mit dem gemeinsamen Katalog zeigen die Hochschulen den Willen, auf dem Platz Zürich noch enger zusammenzuwachsen. Zudem erhöhen wir die Qualität für alle Benutzer und sind erst noch kosteneffizienter.» Mit Abschluss des Projekts konnten nun die technische Infrastruktur gestrafft und Doppelspurigkeiten abgebaut werden.
@@ -15,6 +17,4 @@ Mit dem gemeinsamen Katalog, der heute online geht, ist nun ein erster grosser S
 ## Kontakte
 
 Im Netzwerk von Bibliotheken und Informationsstellen in der Schweiz (NEBIS) haben sich rund 140 Bibliotheken von Hochschulen, Fachhochschulen und Forschungsanstal-ten aus allen Sprachregionen zusammengeschlossen. Der NEBIS-Katalog verzeichnet insgesamt ca. 7 Mio. Titel. Der NEBIS-Katalog umfasst Bücher, Serien, Zeitschriften und Non-Book-Materialien. Die meisten Dokumente können online bestellt werden. Voraussetzung für die Ausleihe ist die Einschreibung als Benutzerin bzw. Benutzer in einer NEBIS-Bibliothek. Es ist bereits absehbar, dass dem NEBIS-Verbund noch weitere Bibliotheken beitreten werden.
-
-ETH Zürich Andreas Kirstein ETH-Bibilothek Tel. +41 44 632 26 74 ETH Zürich Medienstelle Tel. +41 44 632 41 41
 

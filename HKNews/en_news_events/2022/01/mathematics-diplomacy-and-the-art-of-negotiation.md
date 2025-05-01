@@ -1,5 +1,7 @@
 # mathematics-diplomacy-and-the-art-of-negotiation
 
+**Source:** en_news_events/2022/01/mathematics-diplomacy-and-the-art-of-negotiation.html
+
 ## Secret weapon
 
 The contours of Michael Ambühl’s life have been shaped by two institutions: ETH Zurich and the Swiss Federal Department of Foreign Affairs (FDFA). His 14 years at ETH have encompassed a Bachelor’s degree, a doctorate in applied mathematics and, more recently, his position as Professor of Negotiation and Conflict Management. His diplomatic career in the Swiss Foreign Service extended over an impressive 31 years, including 9 years as State Secretary, the highest-ranking position in the Swiss Federal Administration.

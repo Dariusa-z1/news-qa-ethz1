@@ -1,5 +1,7 @@
 # ein-dorf-mit-co2-neutralen-gebaeuden-ist-moeglich
 
+**Source:** de_news_events/2014/07/ein-dorf-mit-co2-neutralen-gebaeuden-ist-moeglich.html
+
 ## Lokale Stromproduktion
 
 Zernez im Engadin hat sich zum Ziel gesetzt, den Energiebedarf für die Gebäude auf dem Gemeindegebiet ausschliesslich aus erneuerbaren Quellen zu decken und die CO 2 -Bilanz auf null zu senken (siehe Beitrag von ETH-Professor Arno Schlüter im Zukunftsblog ). Das entsprechende Projekt «Zernez Energia 2020» wird vom Bund unterstützt. Ein interdisziplinäres Team der ETH Zürich aus den Bereichen Städtebau, Gebäudesysteme, Bauphysik, Energieforschung und ökologisches Systemdesign betreut es eng. Die beteiligten Forscherinnen und Forscher haben die Machbarkeit des Projekts analysiert und präsentieren nun erste Zwischenergebnisse in einer Ausstellung (siehe Kasten). Das Fazit: Das ambitionierte Ziel ist grundsätzlich erreichbar, ohne das Ortsbild zu beeinträchtigen, wenn auch vielleicht nicht bis 2020.

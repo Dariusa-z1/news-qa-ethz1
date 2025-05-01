@@ -1,5 +1,7 @@
 # why-the-covid-certificate-requirement-is-not-discriminatory
 
+**Source:** en_news_events/2021/09/why-the-covid-certificate-requirement-is-not-discriminatory.html
+
 ## Everyone has a choice
 
 (Photograph: ETH Zurich)

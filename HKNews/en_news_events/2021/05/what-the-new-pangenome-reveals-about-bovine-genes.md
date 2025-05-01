@@ -1,5 +1,7 @@
 # what-the-new-pangenome-reveals-about-bovine-genes
 
+**Source:** en_news_events/2021/05/what-the-new-pangenome-reveals-about-bovine-genes.html
+
 ## Gap filled
 
 Modern genetic research often works with what are known as reference genomes. Such a genome comprises data from DNA sequences that scientists have assembled as a representative example of the genetic makeup of a species.

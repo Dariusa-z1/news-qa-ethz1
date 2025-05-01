@@ -1,5 +1,7 @@
 # vocational-education-and-training-at-eth
 
+**Source:** de_news_events/2019/04/vocational-education-and-training-at-eth.html
+
 ## 15 verschiedene Lehrberufe
 
 «Jetzt spanne ich das Aluminiumteil in die Maschine.» Maximilian Bott steht an der computergesteuerten Fräsmaschine, schliesst die Schutztüren und startet den Fertigungsprozess. Die Maschine beginnt zu surren, Metallspäne fliegen. Wir befinden uns in der Zentralwerkstatt des Departements Physik auf dem Campus Hönggerberg.
@@ -28,17 +30,15 @@ Indem sie Menschen ausbilden, übernehmen die Berufsbildnerinnen und -bildner gr
 
 Für Berufsbildner Marcel Wachter sind genau diese menschlichen Aspekte Teil seiner Motivation, sich mit Herzblut für die Berufsbildung einzusetzen. «Es ist spannend, einen jungen Menschen zu begleiten und zu sehen, wie er sich verändert und mit der Zeit Vertrauen in sich und seine Fähigkeiten entwickelt.» Oft komme es auch vor, dass einem die Jugendlichen durch ihre Fragen oder durch andere Lösungsansätze neue Blickwinkel eröffnen.
 
-Neben einem guten Verhältnis zu ihren Ausbildnern sind für die Jugendlichen auch der Austausch und der Zusammenhalt untereinander wichtig. Zu Beginn ihrer Lehre nehmen alle Lernenden an einer gemeinsamen Einführungswoche teil und können so erste Kontakte knüpfen. Während der ganzen Lehrzeit gibt es zudem immer wieder Arbeiten, die von Lernenden unterschiedlicher Berufe ausgeführt werden, manchmal finden auch berufsübergreifende Projektwochen ausserhalb der ETH statt. Fachübergreifende Schulungen wie etwa Bewerbungskurse oder Workshops zum Thema Lernen runden das Angebot ab. Polymechaniker Maximilian Bott setzte sich sogar ehrenamtlich für die Vernetzung der Jugendlichen ein – im zweiten Lehrjahr präsidierte er die Lernendenvereinigung an der ETH Zürich, die unter anderem soziale Anlässe organisiert.
+Ausbildner Marcel Wachter mit einem Lernenden in der mechanischen Lehrwerkstatt.
 
 ## Und nach der Lehre?
 
-Ausbildner Marcel Wachter mit einem Lernenden in der mechanischen Lehrwerkstatt.
-
 Die Berufsbildung hat an unserer Hochschule eine lange Tradition – sie ist im Grundauftrag der ETH verankert und Teil der strategischen Zielsetzung. «Wir haben in der Schweiz ein einzigartiges duales Bildungssystem. Die ETH will dazu einen Beitrag leisten und jungen Erwachsenen den Zugang zum Arbeitsmarkt ermöglichen – nicht nur mit einer Hochschulbildung, sondern auch mit einer starken Berufsbildung. Die ETH braucht das Zusammenspiel zwischen Wissenschaft und Fachkräften», betont HR-Leiter Lukas Vonesch. Seit über 20 Jahren bildet die ETH Berufsleute aus. Seither haben sich die Anzahl und die Ausrichtung der verschiedenen Berufe stark verändert. Die Anzahl der Lehrstellen hat sich in den letzten 15 Jahren fast verdoppelt und liegt heute bei rund 170. «In den kommenden Jahren steht aber nicht ein quantitatives, sondern ein qualitatives Wachstum im Fokus», sagt Fabienne Jaquet, Leiterin der Berufsbildung an der ETH. «Die Vielfalt der Berufe soll beibehalten und die Ausbildungsqualität weiter gesteigert werden. Daneben wollen wir die Rahmenbedingungen für die Berufsbildenden verbessern, die Berufslehren der ETH bekannter machen und mehr Frauen für die technischen Berufe begeistern.»
 
-## Die aktuelle Ausgabe des ETH-Magazins «life»
-
 Die ETH bildet die Berufsleute nicht für ihren Eigenbedarf aus. Es sei wichtig, dass die Absolventinnen und Absolventen ausserhalb der Hochschule in anderen Branchen Erfahrungen sammeln und ihr Fachwissen erweitern könnten, sagt HR-Leiter Vonesch. Oftmals dient die Lehre dabei als Sprungbrett, und die jungen Berufsleute entscheiden sich für eine tertiäre Ausbildung, etwa an einer Fachhochschule. Dass sie zu einem späteren Zeitpunkt eine Anstellung an der ETH fänden, sei aber durchaus möglich, so Vonesch.
+
+## Die aktuelle Ausgabe des ETH-Magazins «life»
 
 Zukunftspläne haben auch die beiden Lernenden Sarah Eichenberger und Maximilian Bott. Nach drei Jahren wird Sarah im Sommer ihren Lehrabschluss machen. Da sie neben der Lehre die vierjährige Berufsmaturitätsschule besucht, wird sie die Berufsmatura erst in einem Jahr erlangen und bis dahin vielleicht befristet für die ETH arbeiten. Über die Passerelle möchte sie später studieren – ob das Chemie sein wird, weiss sie allerdings noch nicht mit Sicherheit.
 

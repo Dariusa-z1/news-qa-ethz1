@@ -1,5 +1,7 @@
 # lehr-reform-paketh-geht-in-vernehmlassung
 
+**Source:** de_internal/2024/04/lehr-reform-paketh-geht-in-vernehmlassung.html
+
 ## Vernehmlassung bis zum 14. Juni
 
 - Hönggerberg: 23. April 2024, 11.45-12.45 Uhr (HCI J3)

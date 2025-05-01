@@ -1,5 +1,7 @@
 # eth-umweltwissenschaften-sind-weltweit-top
 
+**Source:** de_news_events/2014/02/eth-umweltwissenschaften-sind-weltweit-top.html
+
 ## Main article
 
 Die Forschung und Lehre der ETH Zürich im Bereich Umweltwissenschaften ist im weltweiten Vergleich hervorragend aufgestellt. In einem heute veröffentlichten Ranking, dem «QS World University Ranking by Subject», rangiert die ETH als weltweit drittbeste Hochschule, gleich nach den Universitäten von Berkeley und Harvard und punktgleich mit der Universität Cambridge. Die ETH Zürich liegt vor ebenso renommierten Hochschulen wie der Universität Stanford, dem MIT und der Universität Oxford. Die ETH-Umweltwissenschaften haben in diesem Ranking in den letzten Jahren mehrere Ränge gut gemacht. 2011 waren sie noch auf Platz 13, im vergangenen Jahr auf Platz 5.

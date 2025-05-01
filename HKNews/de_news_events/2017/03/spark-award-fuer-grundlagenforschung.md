@@ -1,5 +1,7 @@
 # spark-award-fuer-grundlagenforschung
 
+**Source:** de_news_events/2017/03/spark-award-fuer-grundlagenforschung.html
+
 ## Wissenschaft zum Nutzen der Gesellschaft
 
 Der «Spark Award 2017» ging an die Forschergruppe, die mit dieser Auszeichnung wohl am wenigsten gerechnet hatte: Sabine Werner, Professorin für Zellbiologie an der ETH Zürich, und ihre Kollegen Luigi Maddaluno und Michael Meyer konnten es denn selbst nach Ende der Preisverleihung kaum fassen, dass ihre neuartige Behandlungsmethode gegen Viren den prestigeträchtigen Preis der ETH Zürich erhalten hat. Als Wissenschaftler in der Grundlagenforschung bleibt ihnen breite öffentliche Anerkennung oft verwehrt. So sorgte denn auch die Formulierung von Michael Meyer für viel Erheiterung unter den rund 200 Gästen im Audimax der ETH Zürich, als er das lange wissenschaftliche Ringen um Erkenntnisse mit den Worten «useless discoveries» beschrieb und damit ausdrücken wollte, dass man bei Grundlagenforschung oft nicht gleich an eine mögliche Anwendung denkt, sondern der Erkenntnisgewinn im Vordergrund steht.

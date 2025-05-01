@@ -1,5 +1,7 @@
 # organisieren-sie-ihr-archiv-digital-continuity-bei-forschenden-und-ihren-persoenlichen-archiven
 
+**Source:** en_internal/2019/04/organisieren-sie-ihr-archiv-digital-continuity-bei-forschenden-und-ihren-persoenlichen-archiven.html
+
 ## Main article
 
 The digitisation of society and science has many advantages, but also its fair share of risks. Preserving documents in the analogue world is relatively straightforward in comparison to the digital world. Data needs to be actively curated so it can endure for decades or even centuries. Paper is patient, data is not.
@@ -11,6 +13,8 @@ The latest story on Explora focuses on digital continuity in the context of scie
 Read the story “Organise your files! Digital continuity in the personal archives of scientists”
 
 New: ”marble architecture power” goes audio
+
+The popular story " marble architecture power. A construction material with a history " is now also available as an audio file for streaming or download. This story is all about marble and how it has been used in architecture over time. Listen right in!
 
 Explora is ETH Library’s multimedia storytelling platform.
 

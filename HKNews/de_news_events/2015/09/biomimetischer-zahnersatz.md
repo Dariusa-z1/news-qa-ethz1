@@ -1,5 +1,7 @@
 # biomimetischer-zahnersatz
 
+**Source:** de_news_events/2015/09/biomimetischer-zahnersatz.html
+
 ## 100 Jahre alte Technik neu genutzt
 
 In der Natur gibt es kaum langlebigere und zähere Strukturen als Zähne oder Muschelschalen. Das Geheimnis dieser Materialien ist ihre besondere Feinstruktur: Sie sind aus verschiedenen Lagen aufgebaut, in denen unzählige Mikroplättchen in jeweils identischer Ausrichtung aneinander gefügt sind.

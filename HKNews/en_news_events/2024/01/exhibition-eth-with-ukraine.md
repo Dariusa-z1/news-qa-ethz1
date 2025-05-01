@@ -1,5 +1,7 @@
 # exhibition-eth-with-ukraine
 
+**Source:** en_news_events/2024/01/exhibition-eth-with-ukraine.html
+
 ## In brief
 
 - The exhibition "ETH with Ukraine - Exchanging Knowledge for a Sustainable and Resilient Future" is located in the ETH main building until February 5, 2024.

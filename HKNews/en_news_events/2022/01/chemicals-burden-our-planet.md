@@ -1,5 +1,7 @@
 # chemicals-burden-our-planet
 
+**Source:** en_news_events/2022/01/chemicals-burden-our-planet.html
+
 ## “Green” Chemicals are not always sustainable
 
 More than 99 percent of the most widely produced chemicals aren’t sustainable; their production is based on fossil raw materials and consumes more natural resources than the Earth can provide in the long term. This is the conclusion of a sustainability analysis developed at ETH Zurich, which for the first time provides absolute figures on the global environmental impact of the chemical industry.

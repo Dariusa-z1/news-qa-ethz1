@@ -1,5 +1,7 @@
 # the-love-of-problem-solving
 
+**Source:** en_news_events/2017/08/the-love-of-problem-solving.html
+
 ## A new “research culture”
 
 What is needed for machine-learning computers to be able to understand words with two or more meanings? How can very complex statements be broken down into simple statements, so that they can be encoded better and exchanged securely using computers?

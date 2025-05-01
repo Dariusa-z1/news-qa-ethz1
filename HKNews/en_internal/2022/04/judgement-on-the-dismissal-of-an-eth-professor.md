@@ -1,5 +1,7 @@
 # judgement-on-the-dismissal-of-an-eth-professor
 
+**Source:** en_internal/2022/04/judgement-on-the-dismissal-of-an-eth-professor.html
+
 ## Main article
 
 ETH Zurich has taken note of the ruling of the Federal Administrative Court, which can still be appealed to the Federal Supreme Court.

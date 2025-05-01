@@ -1,5 +1,7 @@
 # 3d-visualisierung-von-wolken-und-winden
 
+**Source:** de_news_events/2018/04/3d-visualisierung-von-wolken-und-winden.html
+
 ## Wolken dreidimensional visualisieren
 
 Visualisierungen spielen bei Untersuchungen von Wetterdaten wie Temperatur, Luftdruck oder dem Wassergehalt der Atmosphäre eine sehr grosse Rolle. Solche Daten grafisch darzustellen ist auch relativ einfach, da sie einen klaren räumlichen Bezug haben und sich daher gut auf Landkarten eintragen lassen.

@@ -1,5 +1,7 @@
 # tracking-the-eye-of-the-pilot
 
+**Source:** en_news_events/2019/11/tracking-the-eye-of-the-pilot.html
+
 ## Seeing what the pilot sees
 
 Anyone who has ever sat in a cockpit will know how mentally challenging it is to pilot an aircraft. During a flight, pilots and copilots have to process an enormous quantity of visual, acoustic and spatial information. Keeping a constant eye on the numerous instruments in the cockpit is a strenuous task, as pilots must check the correct indicators during a manoeuvre – often in a specific order.

@@ -1,5 +1,7 @@
 # wissenschaft-muss-einordnen
 
+**Source:** de_news_events/2021/04/wissenschaft-muss-einordnen.html
+
 ## Nackte Zahlen sind inhaltsleer
 
 In einer Stellungnahme unterstützen über Hundert Wissenschaftlerinnen und Wissenschaftler von Schweizer Hochschulen und Forschungsanstalten klar das CO 2 -Gesetz. 1 Gehen sie damit über ihre traditionelle Rolle hinaus? Ja. Und sie nehmen dabei ihre Verantwortung wahr.

@@ -1,5 +1,7 @@
 # bauen-mit-robotern
 
+**Source:** de_news_events/2017/06/bauen-mit-robotern.html
+
 ## Digital entworfen, geplant und gebaut
 
 - Prof. Matthias Kohler, Professur für Architektur und Digitale Fabrikation
@@ -47,8 +49,4 @@ Sämtliche Bauverfahren, die im DFAB HOUSE zum Einsatz kommen, haben die Forsche
 Digitale Technologien werden auch zum Einsatz kommen, wenn das DFAB HOUSE ab Sommer 2018 bewohnt sein wird. Unter der Federführung der digitalSTROM AG und in Kooperation mit mehreren anderen Schweizer Unternehmen werden neue Smart-Home-Lösungen und Internet-of-Things-Technologien getestet. Dazu gehören Geräte und Systeme, die intelligent miteinander kommunizieren, lernfähig sind und das Gebäude so steuern, dass sowohl die Energieeffizienz wie auch der Wohnkomfort verbessert werden.
 
 Die ETH Zürich ist nebst dem DFAB HOUSE noch bei einer weiteren Unit von NEST federführend: Die Gruppen von Prof. Philippe Block und Prof. Arno Schlüter vom Institut für Technologie in der Architektur entwickeln derzeit die Unit « HiLo », die Ultraleichtbauweise in Boden und Dach mit einer adaptiven Solar-Fassade kombiniert. HiLo ist als Plus-Energie-Gebäude ausgelegt und soll 50 Prozent mehr Strom produzieren, als es selber verbraucht. Der Baustart ist für Anfang 2018 geplant. Auch die Unit « externe Seite Vision Wood », die zukunftsweisende Anwendungen der Ressource Holz im Bauwesen erforscht, entstand mit Beteiligung von ETH-Forschenden.
-
-ETH Zürich Claudia Naegeli Medienbeauftragte Telefon: +41 44 632 41 41
-
-Empa Stephan Kaelin Kommunikationsbeauftragter NEST Telefon: +41 58 765 49 93
 

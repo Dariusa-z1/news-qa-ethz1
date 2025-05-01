@@ -1,5 +1,7 @@
 # profil-julia-wysling
 
+**Source:** de_news_events/2019/09/profil-julia-wysling.html
+
 ## Keine Langeweile
 
 Schon als Kleinkind hat Julia Wysling vom Kinderwagen aus Strassenlaternen gezählt. Das erzählt zumindest ihr Vater gerne, ein Journalist, der das Zahlenflair seiner Tochter bis heute nicht ganz verstehen kann. Doch Wysling konnte schon immer besser mit Zahlen als mit Buchstaben. «Ich ging nach der sechsten statt nach der achten Klasse ins Gymi, so musste ich keine Französischprüfung ablegen.» Es ist das Logische, das Rationale, das Julia Wysling fasziniert. «Es gibt da eher richtig und falsch und weniger Diskussionen.»

@@ -1,5 +1,7 @@
 # joint-master-geoscience
 
+**Source:** en_news_events/2015/08/joint-master-geoscience.html
+
 ## Main article
 
 ETH News: Prof. Maurer, what vision led to the establishment, 10 years ago, of a Master programme spread across three universities in three countries? Hansruedi Maurer: Sixteen years ago, ETH Zurich joined TU Delft of the Netherlands, RWTH Aachen and Imperial College London in a strategic partnership known as the IDEA League . The idea of the then rector of ETH Zurich, Konrad Osterwalder, ETH-Geophysics Professor Alan Green, and Jacob Fokkema, former Rector of TU Delft, was to set up an exchange of geophysic’s master’s degree students between the two universities. The concept of a joint master’s was developed later. The vision was to pool expertise from three leading technological institutes of in this field and therefore to offer students an excellent study programme.
@@ -13,6 +15,8 @@ What were the biggest initial challenges you faced in establishing this new type
 And, what did you decide? Well, as you know, the students spend one semester each at Zurich, Aachen and Delft. Each of these semesters is now governed by the regulations of the relevant university.
 
 What else did you learn in the initial stages? At the beginning, we organised the entire programme in block courses alongside the normal course of study. This turned out to be highly inefficient. Today, the courses are completely integrated into normal study programme and are also open to other students.
+
+Students from across the globe sign up to the Joint Master. Is it a problem that students begin the programme with different levels of knowledge? Of course, since our students come not only from different universities but also from different technical backgrounds. We have therefore recently started offering online courses that allow students to prepare themselves for the course of study and to close specific gaps in their technical knowledge.
 
 What is the ratio of theory to practice during the programme? Although we teach “applied” geophysics, a great deal of time is dedicated to theory, especially at the start of the course. We want our students to have a solid technical basis. It is not until the end of the second semester in Zurich that students spend a month undertaking field research. This year, for example, a group measured the safe descent slope near a quarry on Lake Zurich. At the same time, another group dealt with the archaeological prospection of ruins of old Roman villas.
 

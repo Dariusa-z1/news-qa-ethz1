@@ -1,5 +1,7 @@
 # the-protein-with-the-starting-gun
 
+**Source:** en_news_events/2018/11/the-protein-with-the-starting-gun.html
+
 ## Rapid activation of metabolism
 
 Bacteria are capable of extremely rapid growth, but only when the conditions are right. If they lack nutrients, or if it is too cold or dry, they will enter a dormant state to wait it out. Until now, the question of how individual bacterial cells decide whether to divide has generally been studied using populations that are happily growing. But to date nobody has been able to say what it is that prompts a dormant bacterium to wake up and start dividing.

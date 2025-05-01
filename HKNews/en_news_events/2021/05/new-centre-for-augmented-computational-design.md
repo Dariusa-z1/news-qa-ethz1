@@ -1,5 +1,7 @@
 # new-centre-for-augmented-computational-design
 
+**Source:** en_news_events/2021/05/new-centre-for-augmented-computational-design.html
+
 ## AI streamlines bridge design
 
 When architects and engineers develop buildings, there is often a long interval between the initial draft and the start of construction. During this time, they weigh up the pros and cons of different designs, with numerous discussions about materials, costs, deadlines, and structural and dynamic analysis. These deliberations tend to take place one after another, step by step.

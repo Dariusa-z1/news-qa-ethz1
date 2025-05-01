@@ -1,5 +1,7 @@
 # open-space-for-university-district
 
+**Source:** en_news_events/2017/10/open-space-for-university-district.html
+
 ## Enhancing the spaces between the new buildings
 
 The Building Department has set out the three cantonal design plans: USZ Core Area East, USZ/ETH Schmelzberg site and UZH Wässerwies. They stipulate the maximum scope in terms of number, location, external dimensions, use and purpose of the planned buildings. The planning stage for Zurich’s central university district (HGZZ) is thus complete, although the outcome of the three submissions remains to be seen.
@@ -25,4 +27,8 @@ The project partners have now opened an information booth in the former anatomy 
 It presents the planning stages since the master plan was first adopted in 2005, and shows how the university district will develop in the future. Visitors can also learn about the role that site-related design plans and the urban space concept play in the further development of the university district area.
 
 Examples of the collaboration between University Hospital Zurich, the University of Zurich and ETH Zurich in teaching, research and public relations are presented, with structural infrastructure explained as a key success factor. Two touchscreens show videos from the research collaboration and invite visitors to take a drone flight over the university district.
+
+Info booth about Zurich’s central university district in the former anatomy building, opening hours: weekdays from 8 a.m. to 6 p.m.
+
+The cantonal design plans, documents on the HGZZ urban space concept and other basic information are available on the website www.hgzz.zh.ch
 

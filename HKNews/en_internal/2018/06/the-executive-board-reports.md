@@ -1,5 +1,7 @@
 # the-executive-board-reports
 
+**Source:** en_internal/2018/06/the-executive-board-reports.html
+
 ## Building on the SEC's success
 
 The development of ETH Zurich’s Student Project Houses has been proceeding well since 2016, when the pilot station was opened on the Hönggerberg campus (HPZ building). With the launch of the SPH in 2015, financing was scheduled to run for three years. The Executive Board approved a corresponding proposal for an annual operational budget in the amount of CHF 605,000 for 2019. Moreover, 2020 will see the Student Project House launching on ETH Zurich’s central campus, occupying the district heating power plant, which is currently being comprehensively refurbished.

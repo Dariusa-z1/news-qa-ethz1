@@ -1,5 +1,7 @@
 # biodegradable-microsensors-for-food-monitoring
 
+**Source:** en_news_events/2017/09/biodegradable-microsensors-for-food-monitoring.html
+
 ## Magnesium wire and compostable polymer
 
 Nowadays microsensors are already used in many different applications, such as the detection of poisonous gases. They are also integrated into miniaturised transmitter/receiver systems, such as the ubiquitous RFID chips. However, as the sensors often contain precious metals that are harmful to both the environment and human health, they are not suitable for medical applications involving direct contact with the human body or for inclusion in food products. There is therefore a high level of interest, both in research and industry, in developing microsensors made from non-toxic materials that are also biodegradable.

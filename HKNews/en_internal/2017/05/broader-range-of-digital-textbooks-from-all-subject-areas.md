@@ -1,5 +1,7 @@
 # broader-range-of-digital-textbooks-from-all-subject-areas
 
+**Source:** en_internal/2017/05/broader-range-of-digital-textbooks-from-all-subject-areas.html
+
 ## Main article
 
 Including the following titles:

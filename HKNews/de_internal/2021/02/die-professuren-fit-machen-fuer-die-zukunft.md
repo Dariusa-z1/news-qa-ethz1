@@ -1,5 +1,7 @@
 # die-professuren-fit-machen-fuer-die-zukunft
 
+**Source:** de_internal/2021/02/die-professuren-fit-machen-fuer-die-zukunft.html
+
 ## Umfangreiche und breit abgestützte Analyse der aktuellen Situation
 
 - Markus Aebi

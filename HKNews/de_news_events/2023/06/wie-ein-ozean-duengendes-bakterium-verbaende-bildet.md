@@ -1,5 +1,7 @@
 # wie-ein-ozean-duengendes-bakterium-verbaende-bildet
 
+**Source:** de_news_events/2023/06/wie-ein-ozean-duengendes-bakterium-verbaende-bildet.html
+
 ## In Kürze
 
 - Trichodesmium ist ein Stickstoff-fixierendes Bakterium im Meer, das bei Bedarf Aggregate aus hunderten Individuen bilden kann.

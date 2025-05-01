@@ -1,5 +1,7 @@
 # gratis-covid-tests-fuer-eth-angehoerige
 
+**Source:** de_internal/2021/10/gratis-covid-tests-fuer-eth-angehoerige.html
+
 ## Gratistests bis Ende Oktober
 
 - Für den Montag werden die beiden von einem externen Anbieter betriebenen Testzentren im Zentrum (Hauptgebäude) und auf dem Hönggerberg (HPI-Gebäude) aufrechterhalten. Das Resultat des Antigen-Schnelltests ist sofort als offizielles Zertifikat verfügbar. Geöffnet sind die beiden Testzentren jeden Montag von 7.00 Uhr bis 13.30 Uhr.
@@ -37,6 +39,8 @@ Die wichtigsten Fragen zum Testen an der ETH sind hier beantwortet.
 Hier erfahren Sie alles zum ETH-eigenen Testprogramm CoV-Mass .
 
 Und hier können Sie sich für den PCR-Speicheltest anmelden .
+
+Mit diesem Formular (PDF, 2.1 MB) können Studierende allfällige externe Testkosten geltend machen. Sie benötigen dazu eine Bestätigung ihrer Dozierenden.
 
 Wir freuen uns, wenn Sie an dieser Stelle Artikel kommentieren, Fragen stellen oder auch auf Kommentare anderer Leserinnen und Leser antworten.
 

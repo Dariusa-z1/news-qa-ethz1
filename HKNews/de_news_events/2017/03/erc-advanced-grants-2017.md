@@ -1,5 +1,7 @@
 # erc-advanced-grants-2017
 
+**Source:** de_news_events/2017/03/erc-advanced-grants-2017.html
+
 ## Die Exzellenz-Strategie greift
 
 Die acht Forscher sind allesamt ordentliche oder ausserordentliche Professoren, zum Teil seit vielen Jahren. Das Themenspektrum ist breit und reicht von der Mikro- über die Systembiologie und die organische Chemie bis zur Quantenphysik. Die eingeworbenen Mittel sind je zwischen zwei und drei Millionen Euro hoch, und die Gesamtsumme beläuft sich auf rund 20,2 Millionen Euro. Drei der Geförderten haben es bereits zum zweiten Mal geschafft, diese wohl derzeit höchste Auszeichnung für Pionierforschung zu erhalten. Zusätzlich bekamen weitere sieben Forscherinnen und Forscher ein A-Rating („ausgezeichnet“), die damit die Kriterien für einen Grant eigentlich erfüllen.
@@ -31,6 +33,4 @@ Bradley Nelson ist Professor für Robotik und intelligente Systeme und ein Exper
 Jörn Piel ist Professor am Institut für Mikrobiologie und erforscht mit seiner Gruppe die grundlegenden Prozesse, mit denen Bakterien Naturstoffe erzeugen. Solche Substanzen sind Basis vieler Medikamente, oftmals werden sie aber in der Natur nur in geringen Mengen produziert und sind zu komplex für chemische Synthesen im grossen Massstab. Piels ERC-Projekt möchte verstehen, wie solche komplexen biosynthetischen Prozesse während der Evolution entstehen. Die Einsichten aus der Natur werden dann im Labor angewendet, um durch synthetische Biologie massgeschneiderte bakterielle Produktionssysteme zu erzeugen. Das Projekt könnte dadurch seltene bioaktive Substanzen sowie neue, nicht-natürliche Varianten für die Arzneistoffentwicklung zugänglich machen.
 
 Renato Zenobi ist Professor für Analytische Chemie. In seiner Forschung entwickelt und nutzt er Verfahren der Massenspektrometrie sowie der Nano-Analytik. Eines dieser Verfahren ist die sogenannte spitzenverstärkte Raman-Spektroskopie, die in seinem Labor erfunden wurde. In seinem ERC-Projekt will Zenobi diese bildgebende Spektroskopie-Methode weiterentwickeln, um damit die Nanostruktur empfindlicher zweidimensionaler molekularer Materialien zu untersuchen wie etwa biologische Membranen oder künstlich hergestellte, flächige Polymere, ohne dass diese bei der Messung Schaden nehmen.
-
-ETH Zürich Medienstelle Telefon: +41 44 632 41 41
 

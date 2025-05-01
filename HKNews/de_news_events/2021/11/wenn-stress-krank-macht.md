@@ -1,5 +1,7 @@
 # wenn-stress-krank-macht
 
+**Source:** de_news_events/2021/11/wenn-stress-krank-macht.html
+
 ## Eines von vier Kindern betroffen
 
 Dass Stress krank machen kann, ist längst bekannt. Weniger bekannt ist, dass nicht nur die Psyche unter negativem Dauerstress leidet, sondern auch der Körper. «Chronischer Stress, insbesondere wenn er in der Kindheit erlebt wird, ist ein Risikofaktor für die Entwicklung häufiger neuropsychiatrischer oder Herz-Kreislauf-Erkrankungen im späteren Leben», sagt Isabelle Mansuy, Professorin für Neuroepigenetik an der ETH Zürich und der Universität Zürich.

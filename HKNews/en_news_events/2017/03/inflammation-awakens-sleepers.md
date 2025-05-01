@@ -1,5 +1,7 @@
 # inflammation-awakens-sleepers
 
+**Source:** en_news_events/2017/03/inflammation-awakens-sleepers.html
+
 ## Highly efficient gene transfer
 
 Bacteriophages (short form: phages) are viruses that infect bacteria. The "good" lytic phages kill off bacteria that are harmful to humans and are sometimes used in medicine; the "bad guys", the temperate phages, on the other hand, transfer their genes to microorganisms, thus giving them new properties, such as the ability to produce a toxin. The transfer of temperate phages is therefore regarded as an important driving force behind the development of bacteria into potent pathogens (see box).

@@ -1,5 +1,7 @@
 # profil-julia-wysling
 
+**Source:** en_news_events/2019/09/profil-julia-wysling.html
+
 ## Never a dull moment
 
 Even as an infant, Julia Wysling counted streetlights from her pram. At least that’s the story her father – a journalist who still can’t quite understand his daughter’s flair for numbers – likes to tell. Wysling was always better with numbers than words. “I began attending high school after year six rather than year eight; that way I didn’t have to pass a French exam.” The logical and rational are what have always truly fascinated her. “It’s more about right and wrong,” she says, “with less scope for discussion.”

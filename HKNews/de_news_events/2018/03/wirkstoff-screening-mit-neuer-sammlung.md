@@ -1,5 +1,7 @@
 # wirkstoff-screening-mit-neuer-sammlung
 
+**Source:** de_news_events/2018/03/wirkstoff-screening-mit-neuer-sammlung.html
+
 ## 35 Millionen Angelhaken aufs Mal testen
 
 Das Suchen nach neuen Wirkstoffen ist oft wie das Fischen im Trüben: Die Aussichten auf einen Fang sind sehr ungewiss, es braucht Geduld, Geschick und nicht zuletzt auch Geld. ETH-Forscher um Dario Neri haben eine neue Screening-Methode entwickelt, die das Suchen nach Wirkstoffen beschleunigt, günstiger und effizienter macht. Dies berichten die Chemiker in der Fachzeitschrift externe Seite Nature Chemistry.

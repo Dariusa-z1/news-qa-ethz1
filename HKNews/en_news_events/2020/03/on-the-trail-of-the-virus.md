@@ -1,5 +1,7 @@
 # on-the-trail-of-the-virus
 
+**Source:** en_news_events/2020/03/on-the-trail-of-the-virus.html
+
 ## Understanding how the virus spreads
 
 So far, more than 3,500 respondents have taken part. (Image: BMI)

@@ -1,5 +1,7 @@
 # global-university-leaders-forum
 
+**Source:** de_news_events/2018/01/global-university-leaders-forum.html
+
 ## Top-Universitäten mit Top-Publikationsleistung
 
 Oxford, Cambridge, Imperial, Harvard, Stanford, MIT, Columbia, Princeton, Harvard, Yale oder die chinesische Tsinghua-Universität: Sie alle sind – ebenso wie die ETH Zürich und die EPFL als einzige Schweizer Hochschulen – Mitglied des «Global University Leaders Forum (GULF)» des WEF. Die Mitglieder des GULF treffen sich jährlich in Davos, um sich über hochschulpolitische Themen auszutauschen. Wie jetzt die neue Studie von THE/Elsevier zeigt, sind wissenschaftliche Leistung, wirtschaftlicher Impakt und gesellschaftliche Einbindung dieser Vereinigung von gut zwei Dutzend Hochschulen bemerkenswert.

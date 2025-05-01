@@ -1,5 +1,7 @@
 # project-pathos
 
+**Source:** en_news_events/2018/03/project-pathos.html
+
 ## Making technology disappear
 
 They peep and sneak, startle and tremble: the animatronics-based artworks devised by the artist duo Pors & Rao are far removed from reality. They usually entice the observer with a spontaneous smile. It’s not just the calm, smooth gestures that are astonishing – there is also an interplay between work and observer: when it’s quiet, little creatures called pygmies carefully creep out from behind a screen and then hide again when they hear noises. In the artwork Exploding View, a collection of different figures scatters, while in Turning Panel, pictures hung at an angle align themselves horizontally when someone approaches.

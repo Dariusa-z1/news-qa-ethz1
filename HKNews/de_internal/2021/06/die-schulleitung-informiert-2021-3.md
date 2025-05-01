@@ -1,5 +1,7 @@
 # die-schulleitung-informiert-2021-3
 
+**Source:** de_internal/2021/06/die-schulleitung-informiert-2021-3.html
+
 ## Vertiefte Diskussion um Arbeitsformen der Zukunft
 
 - Kurzfristig: Bereits vor der Pandemie wurde Home-Office an der ETH ermöglicht und in vielen Teams gelebt. Diese Praxis soll nach den Sommerferien wieder etabliert oder kann je nach Bedürfnis situativ erweitert werden.

@@ -1,5 +1,7 @@
 # lessons-of-remote-teaching-in-mathematics
 
+**Source:** en_internal/2020/06/lessons-of-remote-teaching-in-mathematics.html
+
 ## Main article
 
 Due to the spread of the coronavirus, ETH Zurich suspended all classroom teaching in March and expanded its offering of online study alternatives. In four interviews, which the Department of Mathematics has published on its website today, Max Reinhardt, Valentin Bosshard, Andreas Steiger and Afonso Bandeira tell how they experienced the switch to remote teaching and what conclusions they have drawn from it.

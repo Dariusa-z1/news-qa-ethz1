@@ -1,5 +1,7 @@
 # forschungsdatenmanagement-und-verwandte-themen-know-how-fuer-ihr-forschungsprojekt
 
+**Source:** en_internal/2023/01/forschungsdatenmanagement-und-verwandte-themen-know-how-fuer-ihr-forschungsprojekt.html
+
 ## Registration and further information
 
 There are seven workshops in the series that will be held in March, April and May 2023, the first six of which build on each other.

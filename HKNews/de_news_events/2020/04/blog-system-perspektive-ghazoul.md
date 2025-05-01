@@ -1,5 +1,7 @@
 # blog-system-perspektive-ghazoul
 
+**Source:** de_news_events/2020/04/blog-system-perspektive-ghazoul.html
+
 ## Wir leben in einer komplexen Welt
 
 Die Art und Weise, wie wir die Welt betrachten, beeinflusst auch unseren Umgang mit den Problemen, vor die sie uns stellt. Die Biologie ist seit jeher von konkurrierenden Sichtweisen geprägt. Das wohl bedeutendste Beispiel ist die Rivalität zwischen Naturalismus und Reduktionismus. 1

@@ -1,5 +1,7 @@
 # laufen-lernen
 
+**Source:** de_news_events/2016/09/laufen-lernen.html
+
 ## Gehen ist für Gelähmte sehr anstrengend
 
 Hinter dem Exoskelett «VariLeg» steht ein interdisziplinäres Team von elf ETH-Studierenden und Doktoranden. Entwickelt wurde der erste Prototyp ursprünglich von neun Bachelor-Studierenden des Departements Maschinenbau und Verfahrenstechnik im Zuge eines Fokusprojekts von Herbst 2014 bis Frühjahr 2015. Das Exoskelett, das nun beim Cybathlon zum Einsatz kommt, ist eine Weiterentwicklung dieses Prototyps und entstand in einem darauffolgenden Fokusprojekt. «Wir hatten von Anfang an den Cybathlon als Ziel», erzählt Patrick Pfreundschuh, Bachelorstudent Maschinenbau. «Wir waren überzeugt, dass wir den ursprünglichen Prototypen noch ein deutliches Stück verbessern und fit für diesen einzigartigen Wettbewerb machen können.» Gemeinsam mit einigen Beteiligten aus dem Ursprungsteam machte sich das neue Team daher im Herbst 2015 an die Arbeit.

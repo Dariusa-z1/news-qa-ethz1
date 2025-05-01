@@ -1,5 +1,7 @@
 # swissloop-in-top-3
 
+**Source:** en_news_events/2019/07/swissloop-in-top-3.html
+
 ## Innovation Award for self-developed linear motor
 
 This is the fourth year that Elon Musk has challenged student teams from all over the world to build transport pods for the Hyperloop competition. The speed trial organised by the SpaceX founder is designed to refine the Hyperloop technology to the point where it will be possible one day to transport people and goods in pods through vacuum tubes at speeds of up to 1,200 kilometres per hour.

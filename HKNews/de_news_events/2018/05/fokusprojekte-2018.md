@@ -1,5 +1,7 @@
 # fokusprojekte-2018
 
+**Source:** de_news_events/2018/05/fokusprojekte-2018.html
+
 ## Ein selbst entwickelter Elektrotöff
 
 Fokusprojekte von ETH-Studierenden stehen für zwei Semester Praxiserfahrung in allen Bereichen des Maschinenbaus – vom klassischen Fahrzeug- und Motorenbau über die Medizintechnik bis hin zur Robotik. «Wir können hier unsere Ideen umsetzen und unser Wissen aus den Vorlesungen anwenden», sagt Marco Job, einer von rund 100 Bachelorstudierenden, die in den vergangenen neun Monaten an insgesamt zwölf unterschiedlichen Projekten arbeiteten. Angeboten werden die Fokusprojekte vom Departement Maschinenbau und Verfahrenstechnik für Studierende im fünften und sechsten Semester. Betreut von Professoren sowie Doktoranden und Postdocs müssen sie ihre Ideen zu einem Produkt entwickeln – Projekt- und Zeitmanagement, Marketing und Sponsorensuche inklusive.

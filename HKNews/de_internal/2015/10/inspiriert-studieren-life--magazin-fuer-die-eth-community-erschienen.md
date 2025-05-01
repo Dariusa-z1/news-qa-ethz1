@@ -1,5 +1,7 @@
 # inspiriert-studieren-life--magazin-fuer-die-eth-community-erschienen
 
+**Source:** de_internal/2015/10/inspiriert-studieren-life--magazin-fuer-die-eth-community-erschienen.html
+
 ## Main article
 
 Die Oktober-Ausgabe von «life – Magazin für die ETH-Community» gibt einen Einblick in die Ergebnisse der Studierendenbefragung 2015 und zeigt auf, weshalb für Rektorin Sarah Springman das selbstständige Lernen und das Zugehörigkeitsgefühl zu der Hochschule als einer Gemeinschaft so wichtig sind.

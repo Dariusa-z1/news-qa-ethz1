@@ -1,5 +1,7 @@
 # gaensehaut-am-teilchenbeschleuniger
 
+**Source:** de_internal/2023/09/gaensehaut-am-teilchenbeschleuniger.html
+
 ## Rekordhohe künstlich erzeugte Energie
 
 Mehr als 25 Jahre hat ETH-Rektor Günther Dissertori am CERN geforscht. «Noch immer bekomme ich Gänsehaut, wenn ich vor unseren grossen Experimenten stehe», sagte er vor drei Jahren in einem Interview. «Mit unseren Experimenten haben wir 2012 das Higgs-Teilchen entdeckt und sehr viele hochpräzise Messungen durchgeführt. Anhand der daraus gewonnenen Erkenntnisse können wir unter anderem besser verstehen, wie sich unser Universum wenige Augenblicke nach dem Urknall verhalten hat, also welche Teilchen und Kräfte es zirka einen Zehntel einer Milliardstelsekunde nach dem Big Bang gab.»

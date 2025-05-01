@@ -1,5 +1,7 @@
 # vollstaendige-umstellung-auf-swisscovery-zum-1-april-2021
 
+**Source:** en_internal/2021/03/vollstaendige-umstellung-auf-swisscovery-zum-1-april-2021.html
+
 ## Main article
 
 At the end of March, the transition period for the migration to the new swisscovery research platform that was launched last December will come to an end.

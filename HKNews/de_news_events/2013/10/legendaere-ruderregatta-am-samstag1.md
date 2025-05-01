@@ -1,5 +1,7 @@
 # legendaere-ruderregatta-am-samstag1
 
+**Source:** de_news_events/2013/10/legendaere-ruderregatta-am-samstag1.html
+
 ## Main article
 
 Am Samstag heisst es wieder Daumen drücken für die Rudersportler der ETH. Dann startet um 15 Uhr die UNI-POLY Ruderregatta . Zwischen Quaibrücke und Rathaus treten die jeweiligen Hochschulteams in vier Kategorien gegeneinander an. Start ist im unteren Seebecken. Die Ziellinie befindet sich zwischen Münster- und Rathausbrücke. Neben den Achtern der Studentinnen und Studenten kämpfen die Professoren sowie erstmals die Alumni von Universität und ETH Zürich in best-of-three-Serien um Sieg und Ehre ihrer Hochschule.

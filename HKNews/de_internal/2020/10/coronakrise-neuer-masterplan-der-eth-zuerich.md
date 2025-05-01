@@ -1,5 +1,7 @@
 # coronakrise-neuer-masterplan-der-eth-zuerich
 
+**Source:** de_internal/2020/10/coronakrise-neuer-masterplan-der-eth-zuerich.html
+
 ## Ausgewählte Lehrveranstaltungen in Präsenz
 
 Der Unterricht findet ab sofort online statt, ausser Lehrveranstaltungen, die auf Infrastruktur vor Ort angewiesen sind. Die Maskenpflicht wird auf dem ganzen Campus ausgedehnt. Und die Zahl der Teilnehmenden an Veranstaltungen wird auf 50 Personen limitiert: Das sind die wichtigsten neuen Massnahmen, die der von der Schulleitung verabschiedete Masterplan vorsieht, der am 2. November in Kraft tritt. Die Verschärfungen basieren auf dem Entscheid des Bundesrats von letztem Mittwoch.
@@ -42,7 +44,7 @@ Grosse Auswirkungen hat der Bundesratsentscheid auch auf das Sportangebot des AS
 
 Die Bibliotheken und Ausstellungen sind vom Bundesratsentscheid nicht betroffen, die entsprechenden Angebote an der ETH bleiben bestehen.
 
-«Mit dem neuen Masterplan haben wir die Möglichkeiten ausgereizt, unseren Betrieb mit minimalen Freiheitsgraden aufrechtzuerhalten», sagt Ueli Weidmann, «aber wir sind uns bewusst, dass er grosse Einschränkungen für alle ETH-​Angehörigen mit sich bringt.» Denn die effektivste Massnahme gegen die Ausbreitung des Virus sei nach wie vor, die Kontakte auf das absolute Minimum zu reduzieren, auch im Leben ausserhalb der ETH. Angesichts der schwierigen Wochen, wenn nicht Monate, die auf uns alle zukommen, lädt die Schulleitung alle Mitarbeitenden und Studierenden zu einer Townhall am kommenden Donnerstag, 5. November um 11 Uhr ein. Eine entsprechende Einladungsmail wird am Montag verschickt.
+Masterplan Phase 3.3.3. (ab 2.11.2020)
 
 Corona-Pandemie: ETH Zürich stellt Präsenzlehre weitgehend ein (ETH-News, 23.10.2020)
 

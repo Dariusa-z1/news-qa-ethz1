@@ -1,5 +1,7 @@
 # app-learns-swiss-dialects
 
+**Source:** en_news_events/2014/08/app-learns-swiss-dialects.html
+
 ## Intelligent application
 
 "Hoi shaz i chume grad!" ("Hi darling, I'll be right there!"). Writing text messages in dialect is a phenomenon of our time. Until now, however, the assistance of a dictionary for faster typing was only available in High German. The Kännsch (Swiss German for D’you know?) app is about to remedy this situation. Kännsch has been developed over the course of the last five months by Laura Peer, an electrical engineer in the Distributed Computing Group (Disco), as part of her Master's thesis.
@@ -16,9 +18,11 @@ When typing a message, the app suggests words in all desired languages, includin
 
 Einfach mit Swipe über die Tasten fahren und das Dialektwort erscheint. (Laura Peer / ETH Zürich)
 
-Kännsch can be installed on any Android-compatible device in just a few simple steps and used almost immediately. Thanks to the swipe function and other features, entering text is surprisingly easy. Users can swipe their finger or stylus across the keyboard in order to move between letters without having to place the curser each time. Kännsch’s word identification system recognises the desired word, saving the user tiresome typing.
+Kännsch is to be made available to all interested Android users in the near future. The app can be downloaded free of charge now from the Play Store. The project website also lists provides further information about the entire project.
 
 ## What the future might look like
+
+Kännsch can be installed on any Android-compatible device in just a few simple steps and used almost immediately. Thanks to the swipe function and other features, entering text is surprisingly easy. Users can swipe their finger or stylus across the keyboard in order to move between letters without having to place the curser each time. Kännsch’s word identification system recognises the desired word, saving the user tiresome typing.
 
 The app is not only user-friendly, it is also set to serve academic purposes. One day, it may be possible to evaluate regional differences in languages more closely and perhaps even perform dialect analyses. With this objective in mind, the app regularly transmits data for statistical evaluation to the server of the research team at ETH Zurich. Users are informed of this prior to definitively installing the app on their smartphone or tablet and must agree to the transmission of data on the characters and words they type and their location.
 

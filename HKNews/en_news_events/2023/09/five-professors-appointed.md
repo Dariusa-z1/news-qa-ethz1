@@ -1,5 +1,7 @@
 # five-professors-appointed
 
+**Source:** en_news_events/2023/09/five-professors-appointed.html
+
 ## New appointments at ETH Zurich
 
 (Photograph: Dora Gaviria)

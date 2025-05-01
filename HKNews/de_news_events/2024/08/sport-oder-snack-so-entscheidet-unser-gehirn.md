@@ -1,5 +1,7 @@
 # sport-oder-snack-so-entscheidet-unser-gehirn
 
+**Source:** de_news_events/2024/08/sport-oder-snack-so-entscheidet-unser-gehirn.html
+
 ## In Kürze
 
 - Der Hirnbotenstoff Orexin und die Orexin-Nervenzellen vermitteln im Gehirn die Entscheidung zwischen Sport und Naschen. Das haben Forschende der ETH Zürich bei Mäusen herausgefunden. Bei Menschen dürfte es ähnlich ablaufen.

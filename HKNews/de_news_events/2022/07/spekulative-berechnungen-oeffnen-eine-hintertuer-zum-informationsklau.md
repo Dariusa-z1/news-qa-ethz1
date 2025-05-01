@@ -1,5 +1,7 @@
 # spekulative-berechnungen-oeffnen-eine-hintertuer-zum-informationsklau
 
+**Source:** de_news_events/2022/07/spekulative-berechnungen-oeffnen-eine-hintertuer-zum-informationsklau.html
+
 ## Spekulatives Rechnen macht Computer schneller
 
 Manchmal blutet ein Computer aus seinem Herzen und gibt tröpfchenweise private Informationen preis. Das trifft auf die heute öffentlich gemachte Hardware-Sicherheitslücke «Retbleed» zu: Diese Sicherheitslücke entsteht in den Mikroprozessoren, welche die Anweisungen eines Computerprogramms ausführen und die entsprechenden Berechnungen durchführen.
@@ -39,4 +41,6 @@ Weitere Informationen finden Sie in dem Bericht auf der NSCS-​Website unter de
 Wikner, J; Razavi, K. RETBLEED: Arbitrary Speculative Code Execution with Return Instructions. Paper accepted at the 31st USENIX Security Symposium, August 10–12, 2022, at the Boston Marriott Copley Place in Boston, MA, USA.
 
 Wikner und Razavi werden ihre Ergebnisse auf der externe Seite USENIX Security '22 am 12. August 2022, 13.30-2.30 Uhr, vorstellen.
+
+Die wissenschaftliche Publikation steht auf der Retbleed-Projektwebseite der ETH Zurich Computer Security Group zum bereit. Für Spezialist:innen gibt es auch ein externe Seite Video zu Retbleed.
 

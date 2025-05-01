@@ -1,5 +1,7 @@
 # erlebniswelt-forschung-auf-explora-werden-geschichten-ueber-bestaende-der-eth-bibliothek-erzaehlt
 
+**Source:** de_internal/2020/06/erlebniswelt-forschung-auf-explora-werden-geschichten-ueber-bestaende-der-eth-bibliothek-erzaehlt.html
+
 ## Main article
 
 Die Bilder stammen aus den E-Pics-Bildkatalogen:

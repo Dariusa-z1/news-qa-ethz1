@@ -1,5 +1,7 @@
 # globe-die-staerke-der-schwaechsten-naturkraft
 
+**Source:** de_news_events/2023/08/globe-die-staerke-der-schwaechsten-naturkraft.html
+
 ## Den Klimawandel verfolgen
 
 - Erforschung der Schwerkraft. externe SeiteAusstellungsstand. Institut für Geodäsie und Photogrammetrie, ETHcall\_made.
@@ -37,4 +39,6 @@ Noch ist die Methode weniger präzis als herkömmliche Experimente, doch nach er
 Benedikt Soja ist Professor für Weltraumgeodäsie am Departement Bau, Umwelt und Geomatik der ETH Zürich.
 
 Jürg Dual ist emeritierter Professor für Mechanik und Experimentelle Dynamik der ETH Zürich.
+
+Ganze Ausgabe lesen (PDF, 4.8 MB)
 

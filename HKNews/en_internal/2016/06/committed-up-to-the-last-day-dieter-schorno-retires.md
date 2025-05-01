@@ -1,5 +1,7 @@
 # committed-up-to-the-last-day-dieter-schorno-retires
 
+**Source:** en_internal/2016/06/committed-up-to-the-last-day-dieter-schorno-retires.html
+
 ## Recognition and attention
 
 “You need a great deal of conviction if you’re going to achieve something, and no one can do it alone,” says Schorno. “The freedom that ETH allowed me in my work was one of the things that motivated me to keep on developing the vocational education and training department,” he explains. “Another is that providing people with a platform on which to build the rest of their lives is a tremendous and valuable responsibility.”

@@ -1,5 +1,7 @@
 # globe-macht-ist-nicht-per-se-gut-oder-schlecht
 
+**Source:** de_news_events/2023/08/globe-macht-ist-nicht-per-se-gut-oder-schlecht.html
+
 ## Zur Person
 
 Sie untersuchen die Wirkung sozialer Macht auf unser Verhalten. Was verstehen Sie darunter? Bei der sozialen Macht geht es um die Kontrolle begehrter Ressourcen wie Geld oder Essen, aber auch Zuneigung oder Wissen. Es reicht nicht, dass jemand Kontrolle über die Ressourcen hat – eine Person ist nur dann sozial mächtig, wenn auch eine andere Person diese Ressourcen begehrt.
@@ -8,13 +10,15 @@ Was war Ihre bisher überraschendste Erkenntnis? Macht wurde lange als etwas Bef
 
 In welchen Situationen fühlen Sie sich ohnmächtig? Wenn ich ein Review von «Reviewer 2» bekomme! «Reviewer 2» ist ein Insiderbegriff für herablassende, überkritische und unflexible Gutachter, die wissenschaftliche Arbeiten voreingenommen und destruktiv beurteilen.
 
-## «Globe» Was die Welt zusammenhält
-
 Kann man die eigene soziale Macht beeinflussen? Man kann soziale Macht erlangen, indem man die Leiter einer Hierarchie emporklettert. Macht ist aber auch ein psychologischer Zustand, das heisst, Menschen zeigen unabhängig von ihrer Position unterschiedliche Machtgefühle. Diese werden von der Charaktereigenschaft oder der Stimmung der Person bestimmt, aber auch von aussen – je nach Situation oder Interaktionspartner.
+
+## «Globe» Was die Welt zusammenhält
 
 Sind Menschen, die sich machtvoll fühlen, die besseren Arbeitskräfte? Macht ist nicht per se gut oder schlecht. Leute, die sich mächtig fühlen, lassen sich weniger ablenken oder setzen leichter Prioritäten, was im Arbeitsumfeld sicher ein Vorteil sein kann. Meine Forschung zeigt aber auch, dass Leute, die sich mächtig fühlen, eher Stereotype und Vorurteile gegenüber anderen Gruppen haben.
 
 Was ist das Wichtigste, um Mitarbeitende zu motivieren? Anerkennung zeigen. Mitarbeiterinnen und Mitarbeiter wollen, dass ihre Arbeit wahrgenommen und geschätzt wird.
 
 Petra Schmid ist Professorin für Organizational Behavior am Departement Management, Technologie und Ökologie der ETH Zürich.
+
+Ganze Ausgabe lesen (PDF, 4.8 MB)
 

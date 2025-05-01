@@ -1,5 +1,7 @@
 # globe-mensch-sein
 
+**Source:** de_news_events/2023/08/globe-mensch-sein.html
+
 ## Frage der Verantwortung
 
 - Das Spital der Zukunft: künstliche Intelligenz statt menschlicher Pflege? externe SeitePodiumsdiskussioncall\_made
@@ -39,4 +41,6 @@ Ob ein Text von einer KI oder von einem Menschen geschrieben ist, macht für Tho
 Gudela Grote ist Professorin für Arbeits- und Organisationspsychologie am Departement Management, Technologie und Ökonomie der ETH Zürich.
 
 Thomas Hofmann ist Professor für Datenanalytik am Departement Informatik der ETH Zürich.
+
+Ganze Ausgabe lesen (PDF, 4.8 MB)
 

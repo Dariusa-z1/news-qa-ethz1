@@ -1,5 +1,7 @@
 # gastronomy-at-eth-during-the-corona-crisis
 
+**Source:** en_internal/2021/05/gastronomy-at-eth-during-the-corona-crisis.html
+
 ## Remote working and short-time work
 
 The lockdown announcement last March hit us like a shock. All restaurants were forced to cease operations overnight, including the 20 restaurants on the ETH Zurich campus. “It was a challenging and unparalleled situation,” says Pia Fach, who oversees canteen operations for Switzerland at the SV Group . Along with Compass Group, the SV Group is the biggest restaurant operator on campus. Its locations include the Mensa Polyterrasse, Polysnack and the foodmarket on Hönggerberg campus. “Our employees strongly identify with ETH,” says Fach. “Having to suddenly send everyone home for an indefinite period of time was very difficult for them.”

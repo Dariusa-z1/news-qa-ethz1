@@ -1,5 +1,7 @@
 # research-results-from-singapore-on-show
 
+**Source:** en_internal/2014/09/research-results-from-singapore-on-show.html
+
 ## Main article
 
 Cities are cultural centres and drivers of local and global economies. However, in their present form they are not sustainable in either ecological or social and economic terms. Rapid population growth, increased mobility and climate change has led to urban sprawl, air and water pollution and even social conflict.
@@ -17,4 +19,6 @@ Wednesday, 24 September 2014, 6 pm – 8 pm ETH Zurich, main hall, Rämistrasse 
 At the opening, ETH President Professor Ralph Eicher, Singapore-ETH Centre Director Professor Peter Edwards and other SEC professors will share their experiences of the four-year collaboration between Singapore and Switzerland.
 
 The exhibition is open from 24 September to 9 November 2014. More information is available at www.futurecities.ethz.ch . The organisers would be delighted if you are able to attend the event.
+
+FCL’s research activities will also be presented in short form at a symposium on 25 and 26 September. The aim of this event is to bring the findings and results from Singapore and the rest of Asia to ETH Zurich, the ‘home’ of SEC, and make them available to a Swiss and European audience. The detailed programme of the symposium can be downloaded here .
 

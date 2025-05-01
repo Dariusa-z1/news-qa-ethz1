@@ -1,5 +1,7 @@
 # eth-forschende-entwickeln-den-schnellstmoeglichen-fluss-algorithmus
 
+**Source:** de_news_events/2024/06/eth-forschende-entwickeln-den-schnellstmoeglichen-fluss-algorithmus.html
+
 ## In Kürze
 
 - Informatiker der ETH Zürich haben einen Netzwerkfluss-Algorithmus geschrieben, der fast so schnell rechnet wie das mathematisch überhaupt möglich ist.

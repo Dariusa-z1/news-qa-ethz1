@@ -1,5 +1,7 @@
 # eth-zurich-most-sustainable-swiss-university
 
+**Source:** en_news_events/2021/08/eth-zurich-most-sustainable-swiss-university.html
+
 ## Established in all areas
 
 Universities, universities of applied sciences and universities of teacher education play a pivotal role in the sustainable development of the economy and society. WWF Switzerland has conducted its third comparative study to assess just how sustainable the Swiss university landscape is. Ten criteria were examined in terms of strategy, processes, organisation and stakeholders, all of which play a key role in the extent to which sustainability is embedded in higher education in Switzerland.

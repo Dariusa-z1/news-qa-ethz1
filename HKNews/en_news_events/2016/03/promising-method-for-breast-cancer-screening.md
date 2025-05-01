@@ -1,5 +1,7 @@
 # promising-method-for-breast-cancer-screening
 
+**Source:** en_news_events/2016/03/promising-method-for-breast-cancer-screening.html
+
 ## Detecting tumours with ultrasound
 
 The jury had a challenging task ahead of them: in 2015 alone, ETH Zurich researchers produced 195 inventions, 98 of which have been registered for patent approval. Out of all these innovative ideas, they had to select the most economically promising one for the Spark Award, which has been awarded at ETH for the past five years. Specialists from ETH transfer, ETH Zurich's technology transfer unit, as well as external jurors from research and industry spent the past few weeks evaluating the originality and potential of all these inventions.

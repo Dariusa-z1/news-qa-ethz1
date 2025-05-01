@@ -1,5 +1,7 @@
 # herausforderung-sessionspruefungen-in-pandemiezeiten
 
+**Source:** de_internal/2020/07/herausforderung-sessionspruefungen-in-pandemiezeiten.html
+
 ## Ansteckungsgefahr verhindern
 
 Über 600 schriftliche Prüfungen mit bis zu 900 Kandidatinnen und Kandidaten und rund 400 mündliche Prüfungen mit bis zu 130 Kandidatinnen und Kandidaten umfassen die Sessionsprüfungen, die vom 3. bis 28. August an der ETH Zürich stattfinden. Eine gewaltige Herausforderung zu Pandemiezeiten: Denn die Prüfungen wollen so organisiert sein, dass die Schutzmassnahmen eingehalten werden können und die Studierenden zu keiner Zeit gefährdet sind.

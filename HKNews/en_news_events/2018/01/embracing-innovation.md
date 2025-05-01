@@ -1,5 +1,7 @@
 # embracing-innovation
 
+**Source:** en_news_events/2018/01/embracing-innovation.html
+
 ## Opportunity for a new approach
 
 Friday 12 January 2018. Two students in their first semester of medicine at ETH Zurich stand in front of 21 senior physicians, who are completing a CAS continuing education programme at the University of Zurich. The students present the established doctors with a summary of the book The Patient Will See You Now . Written by US cardiologist Eric Topol, it deals with future scenarios of a digitalised and “democratised” medicine in which patients make use of smartphones with expanded diagnosis functions to take on a much more active role than they do currently.

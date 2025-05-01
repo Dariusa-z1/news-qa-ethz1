@@ -1,5 +1,7 @@
 # young-researchers-show-entrepreneurial-spirit%20
 
+**Source:** en_news_events/2013/01/young-researchers-show-entrepreneurial-spirit%20.html
+
 ## Eight spin-offs from the ICT sector
 
 As concrete figures reflect, researchers are taking the plunge and striking out on their own more and more frequently. For many talented young scientists, found-ing their own firm constitutes an attractive alternative to a scientific career or working in the private sector. Members of ETH Zurich founded twenty-two spin-offs last year. The number of company foundations has thus remained constantly high in the last five years. "We can now reap the fruits of all the development work we have put in recent years," says Roland Siegwart, Vice-President of Research and Corporate Relations. The "ETH Zurich spin-off" label is well established — due in no small part to many successful young companies that have emerged from the university in recent years.
@@ -19,6 +21,4 @@ However, it was not just high-tech that proved popular among the young company f
 The ETH Zurich spin-offs got numerous entrepreneurial awards, receiving a total of over 900,000 Swiss Francs in prize money. Last year's ZKB Pionierpreis, which carries nearly 100,000 Swiss Francs in prize money, went to Cytosurge. GetYourGuide and U-Blox won a Swiss ICT Award. ProteoMedix, Uepaa and Climeworks were each given an advancement award of 100,000 Swiss Francs for innovative business ideas by the W.A. De Vigier Foundation. Six ETH-Zurich spin-offs made it into the top ten of the "Top 100 Swiss Start-Ups" ranking published by the Institut für Jungunternehmen and Handelszeitung. And in the economy it is also apparent that many believe in the sustainable success of the young companies. Last year, over ten million Swiss Francs were invested into ETH Zurich spin-off companies.
 
 In 2010 ETH Zurich launched the Pioneer Fellowships development programme, which awards grants to students looking to transform their research results into products ready for the market. Every project receives a maximum of 150,000 Swiss Francs over a period of eighteen months. Meanwhile, four spin-offs have resulted from the programme, three of which were founded last year.
-
-ETH Zurich Dr. Silvio Bonaccio Head of ETH transfer Tel. +41 44 632 77 42 ETH Zurich Media Relations Tel. +41 44 632 41 41
 

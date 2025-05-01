@@ -1,5 +1,7 @@
 # zehn-neue-professorinnen-und-professoren-ernannt
 
+**Source:** de_news_events/2023/07/zehn-neue-professorinnen-und-professoren-ernannt.html
+
 ## Neuernennungen
 
 (Bild: Marlene Gawrisch)

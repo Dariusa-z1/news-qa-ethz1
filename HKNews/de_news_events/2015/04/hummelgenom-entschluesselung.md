@@ -1,5 +1,7 @@
 # hummelgenom-entschluesselung
 
+**Source:** de_news_events/2015/04/hummelgenom-entschluesselung.html
+
 ## Immungene analysiert
 
 Hummeln gelten als friedfertig und fleissig. Nicht zuletzt seit es weltweit mit der Honigbiene bergab geht, ist der kommerzielle Wert dieser Insekten gestiegen. So werden sie heute im grossen Stil gezüchtet und als Bestäuberinnen von Nutz- und Kulturpflanzen eingesetzt. Doch auch um die putzigen Brummer, von denen es weltweit 250 verschiedene Arten gibt, steht es mancherorts schlecht. Der grosse Schatten, den das Bienensterben warf, verdeckte die Tatsache, dass in den USA und auch anderswo einige häufige Hummelarten in den vergangenen Jahren ebenfalls selten geworden sind oder aus ganzen Landstrichen komplett verschwanden.

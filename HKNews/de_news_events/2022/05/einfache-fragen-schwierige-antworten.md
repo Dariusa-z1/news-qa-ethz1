@@ -1,5 +1,7 @@
 # einfache-fragen-schwierige-antworten
 
+**Source:** de_news_events/2022/05/einfache-fragen-schwierige-antworten.html
+
 ## Von Budapest nach Cambridge
 
 Man stelle sich eine Gruppe von Leuten vor. Einige kennen sich, andere haben noch nie miteinander kommuniziert. Man verbindet je zwei Personen, die sich kennen, macht aber keine Verbindungen zwischen Fremden. So entsteht ein Netzwerk, von den Mathematikern «Graph» genannt. Soziale Netzwerke wie Facebook können als Graph betrachtet werden. Die mathematische Theorie der Graphen ist ein Teilbereich der Kombinatorik und das Spezialgebiet von Oliver Janzer. Der 27-jährige Wissenschaftler arbeitet seit Herbst 2020 als ETH Fellow in der Gruppe von Mathematikprofessor Benny Sudakov .

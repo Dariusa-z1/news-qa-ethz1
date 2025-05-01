@@ -1,5 +1,7 @@
 # neuer-praesident-der-aveth-gewaehlt
 
+**Source:** de_internal/2015/02/neuer-praesident-der-aveth-gewaehlt.html
+
 ## Main article
 
 Lars Büthe, Doktorand am D-ITET, ist nach eineinhalb Jahren als Präsident der Akademischen Vereinigung des Mittelbaus an der ETH Zürich (AVETH) zurückgetreten. Zu seinem Nachfolger haben die AVETH-Mitglieder am Dienstagabend auf dem Hönggerberg Florian Thöle gewählt und Lars Büthes Leistungen verdankt. Der Doktorand aus dem D-MATL war schon bisher im Vorstand der AVETH und engagierte sich als Leiter der Politikgruppe PoWoG.

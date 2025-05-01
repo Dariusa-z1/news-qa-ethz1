@@ -1,5 +1,7 @@
 # ki-in-der-schweizer-tech-branche-realitaet-hinkt-hype-hinterher
 
+**Source:** de_news_events/2024/06/ki-in-der-schweizer-tech-branche-realitaet-hinkt-hype-hinterher.html
+
 ## In Kürze
 
 - Die ETH Zürich hat in Zusammenarbeit mit Swissmem und Next Industries eine Umfrage zum Einsatz von KI in der Schweizer Tech-Industrie durchgeführt, an der über 200 Unternehmen teilnahmen.

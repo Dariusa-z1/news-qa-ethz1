@@ -1,5 +1,7 @@
 # resistente-bakterien-mit-nanopartikeln-aufloesen
 
+**Source:** de_news_events/2021/04/resistente-bakterien-mit-nanopartikeln-aufloesen.html
+
 ## Bioglas und Metall
 
 Beim Wettrüsten «Menschheit gegen Bakterien» haben die Bakterien momentan die Nase vorn. Unsere einstigen Wunderwaffen, die Antibiotika, versagen immer häufiger bei Keimen, die trickreiche Manöver einsetzen, um sich vor der Wirkung der Medikamente zu schützen. Einige Arten ziehen sich sogar ins Innere menschlicher Körperzellen zurück, wo sie dann vom Immunsystem unbehelligt bleiben. Zu diesen besonders gefürchteten Erregern gehören auch multiresistente Staphylokokken (MRSA), die lebensgefährliche Krankheiten wie Blutvergiftungen oder Lungenentzündungen hervorrufen können.

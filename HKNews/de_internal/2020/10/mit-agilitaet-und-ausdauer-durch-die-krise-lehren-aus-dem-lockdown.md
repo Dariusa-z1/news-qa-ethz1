@@ -1,5 +1,7 @@
 # mit-agilitaet-und-ausdauer-durch-die-krise-lehren-aus-dem-lockdown
 
+**Source:** de_internal/2020/10/mit-agilitaet-und-ausdauer-durch-die-krise-lehren-aus-dem-lockdown.html
+
 ## Zum Autor
 
 Die Schulleitung hat rETHink vor etwa einem Jahr gestartet. Die Idee: Unsere Schule auf die mittel- bis langfristige Zukunft vorbereiten – und zwar in einem partizipativen Prozess. Unser Ziel: Voraussetzungen schaffen, damit Lehre und Forschung weiterhin auf Top-Niveau stattfinden können. Beweggründe für rETHink gab und gibt es in unserer sich rasch wandelnden Welt mehrere. Was wir damals nicht ahnen konnten war, wie der Begriff des Wandels neue Bedeutung erlangen würde.

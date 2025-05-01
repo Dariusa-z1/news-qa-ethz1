@@ -1,5 +1,7 @@
 # sag-niemals-nie-in-der-nanowelt
 
+**Source:** de_news_events/2014/03/sag-niemals-nie-in-der-nanowelt.html
+
 ## Wahrscheinlichkeit für Regelverletzung bestimmt
 
 Wenn wir einen rückwärts abgespielten Film ansehen, bringen uns unerwartete und scheinbar mysteriöse Vorgänge zum Lachen: So kann sich etwa Schnee aus einer Wasserpfütze in der Sonne bilden und solange stetig wachsen, bis ein kompletter Schneemann erscheint. So wie das Schmelzen eines Schneemanns gibt es in der Natur viele Prozesse, die man nicht umkehren kann. Dieses irreversible Verhalten wird im berühmten zweiten Hauptsatz der Thermodynamik beschrieben. Er besagt, dass sich die Entropie eines Systems – ein Mass für dessen Unordnung – niemals spontan verringern kann und daher die Unordnung (hohe Entropie) gegenüber der Ordnung (niedrige Entropie) bevorzugt wird.

@@ -1,5 +1,7 @@
 # studierende-nutzen-sprachmodelle-vor-allem-zum-programmieren
 
+**Source:** de_internal/2024/01/studierende-nutzen-sprachmodelle-vor-allem-zum-programmieren.html
+
 ## Nur selten in Kursen, aber oft zum Lernen verwendet
 
 Neue KI-Tools, insbesondere Sprachmodelle wie ChatGPT, werden von ETH-Studierenden rege genutzt. Am liebsten als Unterstützung bei Programmieraufgaben. Dies zeigt eine Umfrage, welche die Abteilung Lehrentwicklung und –technologie (LET) zusammen mit dem Seminar für Statistik des Departements Mathematik durchgeführt hat. Rund 4800 oder rund ein Drittel aller Studierenden antworteten auf die Fragen, die ihnen im September 2023 gestellt wurden.

@@ -1,5 +1,7 @@
 # ETH-on-the-right-track
 
+**Source:** en_internal/2014/12/ETH-on-the-right-track.html
+
 ## Increased international visibility
 
 The university rankings season has become a fixture in all of our calendars: the Shanghai Ranking appears with the latest figures at the end of August, followed by the QS Rankings in mid-September and the THE Rankings rounding things off at the beginning of October. And we know what that means for ETH: our position has not changed much over the past few years. In all of these rankings, ETH Zurich is regarded as the best university in continental Europe.

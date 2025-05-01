@@ -1,5 +1,7 @@
 # der-campus-als-labor
 
+**Source:** de_internal/2015/06/der-campus-als-labor.html
+
 ## Main article
 
 Die Juni-Ausgabe von «life – Das Magazin für die ETH-Community» handelt davon, wie Wissenschaftlerinnen und Wissenschaftler der ETH Zürich aus dem Alltag an der Hochschule Rückschlüsse auf die Forschung ziehen können. Sowohl der ETH-Campus Hönggerberg als auch der Standort im Zentrum sind interessante Testfelder der Nachhaltigkeit. Zum Beispiel wird auf den zahlreichen Grünflächen nachhaltig gegärtnert.

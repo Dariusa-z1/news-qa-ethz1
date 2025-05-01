@@ -1,5 +1,7 @@
 # big-data-study-on-spread-of-flu-launched
 
+**Source:** en_internal/2016/11/big-data-study-on-spread-of-flu-launched.html
+
 ## Main article
 
 How does flu spread and to what extent can individual behaviour stop it in its tracks?

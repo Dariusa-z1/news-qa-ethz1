@@ -1,5 +1,7 @@
 # hindernisfreie-eth-es-geht-voran
 
+**Source:** de_internal/2021/02/hindernisfreie-eth-es-geht-voran.html
+
 ## Start der Steuerung und Teilprojekte
 
 Das Ziel für die Umsetzung von « Hindernisfreiheit an der ETH Zürich » ist klar: Die ETH Zürich verfolgt im Laufe der nächsten Jahre weiterhin den Plan, mehr und mehr zu einer für alle offenen Institution zu werden, an der Studieren und Arbeiten ohne Hindernisse und Barrieren möglich ist. Der Weg dahin wird viel Zeit und Engagement erfordern, vor allem von den beteiligten Organisationseinheiten. Aber auch die Unterstützung aller ETH-Angehörigen wird für den verstärkten Ausbau einer inklusiven Kultur nötig sein. Denn physische und technologische Hindernisse sollen ebenso in Angriff genommen werden wie mögliche «Barrieren im Kopf», die aus Unsicherheit oder Unkenntnis hinsichtlich des Umgangs mit Behinderungen, Einschränkungen oder speziellen Bedürfnissen bestehen können.

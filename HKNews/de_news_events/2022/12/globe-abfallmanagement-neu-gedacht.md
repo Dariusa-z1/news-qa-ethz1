@@ -1,36 +1,40 @@
 # globe-abfallmanagement-neu-gedacht
 
+**Source:** de_news_events/2022/12/globe-abfallmanagement-neu-gedacht.html
+
 ## Steile Lernkurven
 
 Um 10 Uhr morgens ist der Kaffee im Samowar bereits halb leer. Im Kirchengemeindezentrum Richterswil läuft afrikanische Popmusik. Studierende aus 17 Nationen befinden sich im Endspurt der Fertigung ihrer Prototypen: Zwischen den Stellwänden mit Ideenskizzen und Post-its wird diskutiert, entworfen und gebaut. Draussen üben die Teams ihre Präsentationen und manche lüften ihre Köpfe bei einem «Energizer»: einer Übung, die Körper und Geist aktiviert. «Die Studierenden durchlaufen den Design Thinking Prozess – eine Methode, um innovative Lösungen für komplexe Probleme zu finden», erklärt Marriette Mertens, Programmmanagerin bei ETH for Development (ETH4D) und Leiterin der Summer School «Rethinking Waste». Der 16-tägige Intensivkurs ist eine Zusammenarbeit der ETH Zürich mit der Kwame Nkrumah University of Science and Technology (KNUST) in Ghana. 21 Studierende der KNUST haben dazu die Schweiz besucht und mit 20 ETH-Studierenden in der Jugendherberge Richterswil zusammengelebt. Die gemeinsamen Erfahrungen haben die jungen Leute zusammengeschweisst und den Perspektivenwechsel gefördert. Die Kollaboration von Menschen unterschiedlicher Herkunft und Disziplinen sei eine gute Art, globale Probleme wie das Abfallmanagement anzugehen, sagt die gebürtige Ghanaerin.
 
-## Das Endprodukt? Völlig offen!
-
 Die Summer School widmet sich der Frage, wie Bio-, Plastik- und Elektronikmüll effizient verarbeitet und als Ressource genutzt werden können. In Ghana werden Abfälle bisher kaum getrennt, sondern auf Deponien abgeladen und teilweise verbrannt. Der hohe Anteil an organischem Abfall lockt Nagetiere und Insekten an, die wiederum Krankheiten verbreiten. Durch die Müllhalden gelangen gefährliche Stoffe in Wasser und Böden, die fehlende Trennung der Abfallströme verunmöglicht das Recycling. In der Schweiz hingegen gehört das Trennen von Müll zum Nationalsport, doch das Land braucht neue Lösungen, um die schnell wachsende Menge an Plastik- und Elektronikmüll zu verarbeiten.
 
-## Interkultureller Austausch
+## Das Endprodukt? Völlig offen!
 
 «Die Studierenden haben die Problemstellung, an der sie arbeiten möchten, selbst definiert», erklärt Mertens. Johan Nöthiger, Maschinenbaustudent der ETH, hat sich im Team mit drei ETH- und drei KNUST-Studierenden dem Potenzial von organischen Abfällen in Accra angenommen. Sie haben das Konzept für die App Wastech erarbeitet, in der Haushalte mitteilen können, dass ihr Biomüll zur Abholung bereitsteht. Innert 24 Stunden werden die Abfälle entsorgt. Sind sie jedoch verunreinigt und können nicht zur Erzeugung von Kompost verwendet werden, zahlt der Haushalt einen kleinen Betrag. «Wastech finanziert sich selbst», erklärt Nöthiger.
 
-## Fesselnder Abschluss
-
 Im Laufe der Projektentwicklung hatten die Studierenden immer wieder die Chance, ihre Ideen zu hinterfragen. Sie besuchten Müllverarbeitungsstandorte und hörten Vorlesungen. «An der sogenannten Knowledge Fair konnten sich die Studierenden mit Experten austauschen, um ihre Projekte zu verfeinern», so Mertens. In Strasseninterviews testeten sie schliesslich, wie ihre Lösungen aufgenommen werden.
 
-## Beständiges Netzwerk
+## Interkultureller Austausch
 
 Besonders für die afrikanischen Teilnehmenden war die Auseinandersetzung mit der Schweizer Abfallwirtschaft interessant: «Meine Lernkurve war extrem steil», lacht Carine dit Sienyta Tiaho, Doktorandin der KNUST, die ebenfalls an Wastech mitgearbeitet hat. «Es macht mich glücklich, all die Projekte zu sehen. Ich bin mir sicher, dass wir in Zukunft viele davon umsetzen werden.» Auf ihrem Handy zeigt sie ein Foto aus ihrem Heimatland Burkina Faso: eine ältere Frau mit einem müllbeladenen Holzwagen. «Aufgrund der Sicherheitsprobleme im Land ist das System noch nicht so weit entwickelt wie in Ghana, wo private Unternehmen den Abfall mit Lkw abholen», erzählt sie. Dank der intensiven Auseinandersetzung mit Entsorgungssystemen hat sie ein Thema für ihre Doktorarbeit gefunden. «Zudem weiss ich nun, wie wichtig es ist, eine Idee nicht nur schriftlich, sondern auch mit Zeichnungen und Prototypen zu kommunizieren», sagt sie.
 
-## «Globe» Dem Leben auf der Spur
-
 Die Studierenden haben viel Zeit damit verbracht, zu verstehen, wie sich Verhaltensänderungen anregen lassen. «Ich habe gelernt, dass die Beweggründe, Müll zu trennen, ganz unterschiedlich sind», erzählt Nöthiger. «Das müssen wir berücksichtigen.» Robin Rengglis Gruppe hat gar einen Song komponiert: «Separate your Biowaste». Er soll die Teilnehmenden der erdachten Green Gold Challenge dazu motivieren, reinen Biomüll für Kompost einzureichen und dabei Punkte zu sammeln. Renggli ist Masterstudentin für Umweltsysteme und Politikanalyse an der ETH und hat die Gruppe als Coach begleitet. «Ich habe die Diskussionen moderiert, Missverständnisse aufgeklärt und darauf geachtet, dass sich das Team nicht in Details verliert», erklärt sie ihre Aufgabe. «Für mich war es eine Herausforderung, die richtige Strategie und das richtige Timing für Interventionen zu finden», meint Sampson Renner, Doktorand der KNUST, der bereits das zweite Mal als Coach dabei ist. Sein Spruch «Trust the process» ist bis zum Ende der Summer School zu einem Mantra für die Teilnehmenden geworden. «Im Ingenieurwesen sind wir es gewohnt, dass wir schon eine Idee haben, wie die Lösung aussieht. Beim Design Thinking ist das Endprodukt völlig offen – das braucht manchmal viel Geduld», klärt er auf.
+
+## Fesselnder Abschluss
 
 Neben dem Austausch von Fachwissen und Methoden standen auch soziale und sportliche Aktivitäten auf dem Programm. «Die Studierenden erkennen dadurch die kulturellen Unterschiede und verstehen, wie diese Teamprozesse und die entwickelten Lösungen beeinflussen», erklärt Mertens. «Ich habe einiges über mich und meine Weltanschauung gelernt», bestätigt Renggli. Auch Wilfred Elegba, Senior Researcher in Ghana sowie Dozent und Coach-Trainer an der Summer School, ist aufgefallen, wie sich die Teilnehmenden entwickelt haben: «Für manche ETH-Studierenden war es das erste Mal, dass sie so intensiv mit Angehörigen einer afrikanischen Universität zusammengearbeitet haben. Anfangs waren sie zurückhaltend, doch dann sind sie aufgeblüht.» Elegba, der für sein Doktorat von Ghana an die ETH gekommen war, ist der eifrige, doch sehr bescheidene Initiant der Summer School. Bereits zu seiner Zeit an der ETH sowie später, als die damalige ETH-Rektorin Sarah Springman die KNUST besuchte, hat er auf das grosse Potenzial einer Zusammenarbeit der beiden Schulen hingewiesen, die mit der Summer School Wirklichkeit wurde.
 
 Gegen Abend richten sich die Studierenden für ihre Abschlusspräsentationen im Student Project House der ETH Zürich ein. Manche bereits voll konzentriert, manche nervös am Scherzen stehen sie mit ihren aus Karton gebauten Prototypen hinter dem Vorhang bereit. «Die Studierenden sollten lernen, möglichst viel aus wenig Ressourcen herauszuholen», klärt Mertens auf. Die eingeschränkten Mittel haben die Kreativität und die schauspielerischen Talente der Studierenden befeuert: In fünfminütigen Sketches bringen sie ihre gründlich durchdachten Strategien auf die Bühne und das Publikum zum Lachen. «Ich wünschte, alle meine Meetings wären in diesem Format», schmunzelt ETH-Rektor Günther Dissertori, der im Publikum sitzt.
 
+## Beständiges Netzwerk
+
 Die sechs Abschlussprojekte zeigen auf, wie vielfältig Abfallmanagement angegangen werden kann: Von einem intelligenten Biomülleimer, der mithilfe von Infrarotsensoren und Metalldetektoren Verunreinigungen erkennt und beseitigt, bis zur Open-Data-Plattform, auf der Bürger:innen PET-Ansammlungen in der Umgebung melden können und dabei wertvolle Daten für die Verbesserung des Entsorgungssystems generieren. Ein weiteres Team erarbeitete einen Ansatz, um informellen E-Schrott-Verarbeiter:innen eine sichere Arbeitsumgebung zu ermöglichen.
 
 Spätestens bei der Award-Vergabe bestand kein Zweifel mehr, dass die Studierenden mit Leib und Seele dabei waren: Die Teams stürmten mit Freudenschreien von der Tribüne und fielen sich in die Arme. «Ich bin begeistert von der positiven Energie, dem Team-Spirit und überzeugt, dass die Summer School einen bleibenden Eindruck hinterlassen hat», sagt Dissertori. Neben den Gruppen von Wastech und der Green Gold Challenge durfte auch WeCycle – ein Programm, das Kinder und Jugendliche durch das Betreiben eines eigenen Komposts in Schulen sensibilisiert – einen Award mit nach Hause nehmen. Darauf prangt Ananse Ntentan, ein blumenförmiges Symbol der ghanaischen Symbolsprache Adinkra, das ein Spinnennetz darstellt. «Es steht für die zentralen Themen der Summer School: komplexe Herausforderungen und kreative Lösungen», erklärt Renner. Als Zeichen der Verbundenheit liess sich das Symbol in sieben Stücke brechen und unter den Teammitgliedern aufteilen.
 
+## «Globe» Dem Leben auf der Spur
+
 Dass sich die neu gewonnenen Freund:innen bald wiedersehen, steht für Tiaho fest: «Ich habe sie in meine Heimat eingeladen.» Auch ETH-Studierende haben die Möglichkeit, nächstes Jahr nach Ghana zu reisen: Dann wird die Summer School an der KNUST stattfinden.
+
+Ganze Ausgabe lesen (PDF, 4.5 MB)
 

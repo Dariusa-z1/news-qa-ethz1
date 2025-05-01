@@ -1,5 +1,7 @@
 # neu-chicago-manual-of-style-online
 
+**Source:** de_internal/2015/03/neu-chicago-manual-of-style-online.html
+
 ## Main article
 
 Der Chicago Manual of Style ist ein sprachliches Referenzwerk und publikationstechnisches Nachschlagewerk. Es enthält folgende Tipps:

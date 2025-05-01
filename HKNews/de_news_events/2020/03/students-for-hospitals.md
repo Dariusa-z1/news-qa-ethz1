@@ -1,5 +1,7 @@
 # students-for-hospitals
 
+**Source:** de_news_events/2020/03/students-for-hospitals.html
+
 ## Der Funke springt
 
 Die Corona-Pandemie bringt Spitäler und Pflegeeinrichtungen weltweit in eine aussergewöhnliche Notlage. Auch in der Schweiz droht ein Notstand, vor allem bei der Intensivpflege. Experten rechnen damit, dass sich in den kommenden Tagen die Situation in der Schweiz massiv verschärfen wird. Die Spitäler bereiten sich auf einen Ansturm von Covid-19-Erkrankten vor. In dieser angespannten Situation ist jeder Helfer, jede Helferin gefragt.

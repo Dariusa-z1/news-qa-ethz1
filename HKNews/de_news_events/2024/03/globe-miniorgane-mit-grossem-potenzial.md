@@ -1,5 +1,7 @@
 # globe-miniorgane-mit-grossem-potenzial
 
+**Source:** de_news_events/2024/03/globe-miniorgane-mit-grossem-potenzial.html
+
 ## Zu der Person
 
 Die Zellklümpchen sind einige Millimeter bis wenige Zentimeter klein. Doch in der Medizinforschung können sie Grosses bewegen. Die ETH-Professorin Barbara Treutlein arbeitet mit solchen Organoiden. Diese organähnlichen Systeme sind die dreidimensionale Weiterentwicklung von Zellkulturen und bestehen aus unterschiedlichen Zelltypen in komplexen Gewebestrukturen. In Treutleins Labor stammen alle Organoide von menschlichem Gewebe ab. «Mit diesen Organoiden arbeiten wir an verschiedenen medizinischen Fragestellungen», sagt Barbara Treutlein, Professorin für Quantitative Entwicklungsbiologie. Zum Beispiel an möglichen Ursachen einer Autismus-Spektrum-Störung.
@@ -35,4 +37,6 @@ Treutleins Forschungsgruppe hat die einzelnen Zellen der Tumoroide analysiert. I
 «Dieses Projekt zeigt exemplarisch, wie wertvoll die Zusammenarbeit mit dem IHB von Roche für uns ist», sagt Treutlein. Dem stimmt auch Matthias Lütolf, Direktor des IHB und Professor für Bioengineering an der ETH Lausanne, zu: «Als eine der weltweit führenden Hochschulen ist die ETH Zürich eine ideale Partnerin für das IHB. Die Qualität der Doktorierenden und Forschenden an der ETH spricht für sich und ist für den Erfolg der gemeinsamen Forschungsaktivitäten entscheidend.» Für Barbara Treutlein macht vor allem die unterschiedliche Ausrichtung von Hochschule und Pharmaindustrie den Erfolg aus. «Wir als Universität können eher langfristige und damit auch risikoreiche Projekte eingehen. An der Industrie schätzen wir den Praxisbezug mit seinen möglichen Anwendungen.»
 
 In der Lehre haben die ETH Zürich und Roche ein gemeinsames Doktorandenprogramm lanciert. In Treutleins Labor wird bald ein Doktorand vom IHB arbeiten. Dass die ETH Zürich mit ihrem Departement Biosysteme in Basel vor Ort zu Hause ist, schätzen beide Forschenden als grossen Vorteil ein. «Unsere gemeinsamen Studierenden sollten freien Zugang zu den Labors beider Partner haben und in der Lage sein, in kürzester Zeit von einer Einrichtung zur anderen zu wechseln», sagt Lütolf. «Ich bin überzeugt, dass erfolgreiche Forschung einen persönlichen Austausch erfordert.»
+
+Ganze Ausgabe lesen (PDF, 3.5 MB)
 

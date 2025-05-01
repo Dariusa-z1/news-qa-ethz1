@@ -1,5 +1,7 @@
 # rector-sarah-springman-visits-the-personnel-commission
 
+**Source:** en_internal/2015/06/rector-sarah-springman-visits-the-personnel-commission.html
+
 ## Main article
 
 The ETH Zurich Staff Commission (PeKo) meets once a month to discuss human resources issues, such as references, overtime pay, management of experienced employees, job suitability or communication with employees regarding laboratory closures.

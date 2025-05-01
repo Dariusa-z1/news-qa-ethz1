@@ -1,5 +1,7 @@
 # mehr-ertrag-in-mischkulturen
 
+**Source:** de_news_events/2021/06/mehr-ertrag-in-mischkulturen.html
+
 ## Ökologisches Prinzip angewendet
 
 Heutzutage dominieren grossflächige Monokulturen das Ackerland. Angebaut werden (hoch)gezüchtete Sorten, die einen hohen Ertrag versprechen. Doch solche einheitlich bepflanzten Ackerflächen haben Nachteile: Pilze oder Insekten haben leichtes Spiel und bedrohen Ernten; um die Schädlinge in Schach zu halten, setzen Landwirte resistente Sorten und verschiedene Pestizide ein.

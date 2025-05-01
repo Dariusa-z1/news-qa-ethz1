@@ -1,5 +1,7 @@
 # new-at-eth-zurich-walter-kaufmann
 
+**Source:** en_internal/2015/05/new-at-eth-zurich-walter-kaufmann.html
+
 ## Profile
 
 What motivated you to come back to ETH Zurich last year? The job of a structural engineer is very varied and diverse and presents new challenges every day. I had also done my fair share to contribute to the successful development of the company I led. So the move back to ETH Zurich, after 15 years in professional practice, was by no means a foregone conclusion. For me, one of the deciding factors was the unique opportunity to carry out research at one of the world's leading universities.

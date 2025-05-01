@@ -1,5 +1,7 @@
 # producing-fertiliser-without-carbon-emissions
 
+**Source:** en_news_events/2022/12/producing-fertiliser-without-carbon-emissions.html
+
 ## India and China at risk
 
 Intensive agriculture is possible only if the soil is fertilised with nitrogen, phosphorus and potassium. While phosphorus and potassium can be mined as salts, nitrogen fertiliser has to be produced laboriously from nitrogen in the air and from hydrogen. And, the production of hydrogen is extremely energy-intensive, currently requiring large quantities of natural gas or – as in China – coal. Besides having a correspondingly large carbon footprint, nitrogen fertilizer production is vulnerable to price shocks on the fossil fuels markets.

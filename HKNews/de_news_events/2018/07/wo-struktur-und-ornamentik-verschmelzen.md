@@ -1,5 +1,7 @@
 # wo-struktur-und-ornamentik-verschmelzen
 
+**Source:** de_news_events/2018/07/wo-struktur-und-ornamentik-verschmelzen.html
+
 ## Nur so viel Beton wie nötig
 
 An den dünnsten Stellen gerade einmal 20 Millimeter dick, dekorativ gerippt und nicht halb so schwer wie eine konventionelle Betondecke: Bei «Smart Slab», zu Deutsch «intelligente Decke», ist der Name Programm. Die Decke kombiniert die bautechnischen Stärken von Beton mit den flexiblen Gestaltungsmöglichkeiten des 3D-Drucks. Entwickelt wurde Smart Slab von der Gruppe von Benjamin Dillenburger, Assistenzprofessor für Digitale Bautechnologien an der ETH Zürich. Smart Slab ist eines der Kernelemente der Wohneinheit DFAB House (siehe Box) und wurde vor kurzem im Forschungs- und Innovationsgebäude NEST der Empa und Eawag in Dübendorf montiert. Die 80 m 2 -grosse und 15 Tonnen schwere Decke setzt sich aus insgesamt elf Betonsegmenten zusammen und verbindet das Untergeschoss mit dem darüber liegenden zweistöckigen Holzbau.

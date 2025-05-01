@@ -1,5 +1,7 @@
 # how-an-iconic-photograph-of-an-apple-was-the-inspiration-for-improved-cellular-analysis
 
+**Source:** en_news_events/2017/11/how-an-iconic-photograph-of-an-apple-was-the-inspiration-for-improved-cellular-analysis.html
+
 ## A good combination
 
 All life processes in humans, animals and plants depend on cellular activity. The human body alone contains more than 210 cell types with specific properties and functions that influence development and health. A detailed understanding of these cells and their properties is crucial for biology and medicine. However, filtering out the sought-after cell information is sometimes an immense challenge – particularly if, out of a million cells, fewer than a dozen have the property that triggers a disease.

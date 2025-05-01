@@ -1,5 +1,7 @@
 # russias-new-power
 
+**Source:** en_news_events/2014/03/russias-new-power.html
+
 ## Russia’s imperialist behaviour
 
 Civil war in Syria, new governments in North Africa, Russia’s incursion into Ukraine, the surging fortunes of the Afghan Taliban and war-weariness in the US – what is the meaning of these developments? That is the question examined by the Center for Security Studies (CSS) in its Strategic Trends report. In the fifth annual report, the CSS analyses the significance of recent events for the immediate future.
@@ -25,6 +27,8 @@ The trend is being driven by the “Talibanisation of uprisings”, as Prem Maha
 According to the CSS report, not only the US but also the European Union has lost its geopolitical clout. Lisa Watanabe diagnoses a cooling in relations between the EU and its southern neighbours, including Algeria, Egypt, Libya, Morocco and Tunisia; she points to the lack of a coherent strategic orientation in the EU’s foreign policy towards the North African states in spite of their vital importance to the EU, in particular in terms of energy supplies, security and immigration. The vacuum, says Watanabe, is being filled by those powers with cultural and religious similarities to the region, primarily the Gulf states and Turkey.
 
 After reading the five chapters of the report, there can be little doubt that the West will continue to see its geopolitical influence diminish, while the ascendant East will act with ever-greater political confidence on the world stage. Just how pronounced these trends prove to be will depend not least on the outcome of the current crisis in Crimea.
+
+Strategic Trends 2014 can be downloaded free of charge.
 
 The Strategic Trends series provides an annual analysis of important global political developments around issues of international security. In addition to the publication, a symposium this Friday entitled ‘Switzerland and its Neighbours’ will focus on Swiss relations with the EU and Russia. Speakers will include National Councillor Andreas Gross, Falk Bomsdorf, former director of the Moscow office of the Friedrich Naumann Foundation, and Bruno Rösli, Deputy Director of Security Policy in the Federal Department of Defence, Civil Protection and Sport.
 

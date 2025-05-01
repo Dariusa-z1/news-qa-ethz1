@@ -1,5 +1,7 @@
 # spezialdrohne-sammelt-auf-baeumen-umwelt-dna
 
+**Source:** de_news_events/2023/01/spezialdrohne-sammelt-auf-baeumen-umwelt-dna.html
+
 ## Drohne sammelt Material
 
 Ökologinnen und Ökologen nutzen für die Überwachung und Inventarisierung der biologischen Vielfalt immer öfter Spuren des Erbguts, welche Lebewesen in der Umwelt hinterlassen, sogenannte Umwelt-DNA. Anhand dieser DNA-Spuren können Forschende Arten bestimmen, die in einem gewissen Gebiet vorkommen.

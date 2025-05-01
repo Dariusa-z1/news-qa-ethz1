@@ -1,5 +1,7 @@
 # mein-chauffeur-der-algorithmus
 
+**Source:** de_news_events/2018/12/mein-chauffeur-der-algorithmus.html
+
 ## Stadtmobilität neu denken
 
 Die Zukunft der Mobilität kündigt sich in Meilensteinen an: Die ­Google-Tochter «Waymo» verlautbarte diesen Februar, dass ihre Flotte an selbstfahrenden Autos über acht Millionen Kilometer auf öffentlichen Strassen zurückgelegt hat. Kurz zuvor hatte der Fahrdienst Uber drei Millionen Kilometer verkündet. Geht es nach der Industrie, werden wir uns die Strassen bald flächendeckend mit Fahrzeugen teilen, die nicht mehr von Lenkern, sondern von Algorithmen gesteuert werden. Übertriebener Techoptimismus oder realistisches Szenario?

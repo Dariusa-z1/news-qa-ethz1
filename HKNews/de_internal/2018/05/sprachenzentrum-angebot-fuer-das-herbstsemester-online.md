@@ -1,5 +1,7 @@
 # sprachenzentrum-angebot-fuer-das-herbstsemester-online
 
+**Source:** de_internal/2018/05/sprachenzentrum-angebot-fuer-das-herbstsemester-online.html
+
 ## Main article
 
 Ob Deutsch als Fremdsprache, Italienisch, Arabisch, Chinesisch, Russisch – oder eine andere der 15 Sprachen im Angebot: Die Kurse des Sprachenzentrums erfreuen sich grosser Beliebtheit. So sind manche der Kurse innert weniger Tage nach der Ausschreibung ausgebucht. Allerdings brechen einige Studierende den Kurs nach einer gewissen Zeit ab. Die so im Laufe des Semesters frei werdenden Plätze können nicht weiter vergeben werden und bleiben unbesetzt.

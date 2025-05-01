@@ -1,5 +1,7 @@
 # angehoerigenbetreuung-und-arbeitsalltag-besser-vereinbaren
 
+**Source:** de_internal/2024/04/angehoerigenbetreuung-und-arbeitsalltag-besser-vereinbaren.html
+
 ## Neue Angebote an der ETH
 
 In unserer heutigen Gesellschaft stehen viele Menschen vor der Herausforderung, ihre beruflichen Verpflichtungen oder ihre Ausbildung mit der Unterstützung und Betreuung ihrer Angehörigen in Einklang zu bringen. Sei es die Betreuung von betagten oder kranken Verwandten oder die Unterstützung von Familienmitgliedern mit Behinderung – die Anforderungen an diejenigen, die sich um ihre Liebsten kümmern, sind vielfältig und oft anspruchsvoll.

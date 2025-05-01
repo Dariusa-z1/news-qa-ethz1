@@ -1,5 +1,7 @@
 # bilden-sie-sich-auch-im-homeoffice-weiter
 
+**Source:** de_internal/2020/03/bilden-sie-sich-auch-im-homeoffice-weiter.html
+
 ## Main article
 
 Für einige ETH-Angehörige ist die Zeit im Homeoffice eine günstige Gelegenheit für Weiterbildungen. Zu diesem Zweck haben unsere Fachreferentinnen und Fachreferenten eine breite Auswahl an Angeboten für Sie getroffen:

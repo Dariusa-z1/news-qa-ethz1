@@ -1,5 +1,7 @@
 # vaccination-personal-values-and-group-dynamics-are-decisive
 
+**Source:** en_news_events/2021/04/vaccination-personal-values-and-group-dynamics-are-decisive.html
+
 ## The impact of psychological safety
 
 (Photograph: ETH Zurich)

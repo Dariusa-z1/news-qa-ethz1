@@ -1,5 +1,7 @@
 # eth-zuerich-heisst-die-industrie-willkommen
 
+**Source:** de_news_events/2023/08/eth-zuerich-heisst-die-industrie-willkommen.html
+
 ## Digitalisierung und Sicherheit
 
 - Prof. Verena Zimmermann: Die menschlichen Faktoren in der Cybersecurity im Fokus

@@ -1,5 +1,7 @@
 # alt-eth-praesident-hans-hauri-verstorben
 
+**Source:** de_internal/2018/10/alt-eth-praesident-hans-hauri-verstorben.html
+
 ## Begeisterter Lehrer
 
 Hans Hauri präsidierte die ETH Zürich in einer bewegten Zeit: 1968, als der Bundesrat ihm die Leitung der ETH übertrug, ging als Jahr der Jugendunruhen und Studierendenproteste in die Annalen ein. Aber auch die Bildungslandschaft befand sich im Umbruch. Während Hauris Amtszeit vergrösserte sich der Lehrkörper an der ETH stark. Damit verbunden waren Bauaufgaben, sowohl im Zentrum als auch auf dem Hönggerberg. Und die Studierenden forderten mehr Mitsprache.

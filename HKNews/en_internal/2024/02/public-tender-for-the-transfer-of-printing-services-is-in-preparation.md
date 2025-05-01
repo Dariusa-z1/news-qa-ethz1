@@ -1,5 +1,7 @@
 # public-tender-for-the-transfer-of-printing-services-is-in-preparation
 
+**Source:** en_internal/2024/02/public-tender-for-the-transfer-of-printing-services-is-in-preparation.html
+
 ## Reasons for tender procedure
 
 As announced at the beginning of January, declining demand means that the ETH's own print centre will only be operational until the end of 2024 . The objective of the public call for tenders is to find suitable partners who can offer a stable solution from 2025. The call for tenders will include the current range of standard services as well as the special services plot on demand, security printing (e. g. exams, diplomas) and lettershop. In order to improve the chances of success of the call for tenders, there will not be any requirement for a mandatory takeover of the current print centre.

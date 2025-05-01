@@ -1,5 +1,7 @@
 # schmitt-responsive-city
 
+**Source:** de_news_events/2019/02/schmitt-responsive-city.html
+
 ## Responsive Citys setzen Technologie anders ein
 
 Diskussionen zum Thema Stadtentwicklung werden seit einiger Zeit vom Begriff der «Smart City» dominiert. Stadtplaner und Behörden rund um die Welt sind auf den Zug gesprungen. Die indische Regierung startete 2015 gar eine «Smart Cities Mission», mit der 100 indische Städte zu Smart Citys gemacht werden sollen. Mithilfe moderner Technologien wie Sensoren, künstlicher Intelligenz und Virtual Reality soll die Stadtverwaltung effizienter gestaltet werden. Die Einführung von Chatbots und Sprachdialogsystemen in staatlichen Callcentern ist nur ein Beispiel dafür.

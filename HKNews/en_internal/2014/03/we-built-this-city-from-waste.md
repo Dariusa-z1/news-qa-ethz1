@@ -1,5 +1,7 @@
 # we-built-this-city-from-waste
 
+**Source:** en_internal/2014/03/we-built-this-city-from-waste.html
+
 ## Main article
 
 “Eventually, the future city would make no distinction between waste and supply (…)” - Mitchell Joachim

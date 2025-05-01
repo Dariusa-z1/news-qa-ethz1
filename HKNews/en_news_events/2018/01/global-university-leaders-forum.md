@@ -1,5 +1,7 @@
 # global-university-leaders-forum
 
+**Source:** en_news_events/2018/01/global-university-leaders-forum.html
+
 ## Top universities with top publication performance
 
 Oxford, Cambridge, Imperial, Harvard, Stanford, MIT, Columbia, Princeton, Harvard, Yale and China’s Tsinghua University: they are all members of the WEF's Global University Leaders Forum (GULF), as are ETH Zurich and EPFL, the group’s only Swiss members. GULF meets annually in Davos during the World Economic Forum to exchange views on higher education policy issues. A new study by THE/Elsevier shows the remarkable scientific achievement, economic impact and social involvement of this association of the two dozen best universities in the world.

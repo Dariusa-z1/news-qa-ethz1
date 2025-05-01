@@ -1,5 +1,7 @@
 # postponement-together-party
 
+**Source:** en_internal/2021/02/postponement-together-party.html
+
 ## Plans not made in vain
 
 The “together” party is typically a permanent fixture in ETH Zurich's event calendar. Between 3,000 and 4,000 staff members and their families attend the event, which is held every two years. However, the corona crisis changed many things in 2020, and the “together” event scheduled for the summer of 2020 was postponed to 2021. The effects of the pandemic are unfortunately making themselves felt this year, too. Because of the ongoing uncertainty surrounding the situation – especially regarding mutations of the virus – it is currently unclear if a large event can be held this summer.

@@ -1,5 +1,7 @@
 # the-app-of-the-day-keeps-the-sunburn-away
 
+**Source:** en_news_events/2014/01/the-app-of-the-day-keeps-the-sunburn-away.html
+
 ## Preventive measures
 
 We’ve all experienced it before: that rush and excitement to board the plane or pack the car and quickly escape the heavy load of grey skies, long office hours and household chores that never seem to end. Destination – paradise! Which nine times out of ten means a place sous le soleil. Whether you end up on the white sandy beaches of the Maldives or on the white powdery slopes of Zermatt, bathing in the sun with shades on and a cocktail in your hand is most likely part of the holiday plan.

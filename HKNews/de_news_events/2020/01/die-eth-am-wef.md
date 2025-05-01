@@ -1,5 +1,7 @@
 # die-eth-am-wef
 
+**Source:** de_news_events/2020/01/die-eth-am-wef.html
+
 ## Das Mysterium der Quanten
 
 Am Himmel dröhnt das Helikoptergeschwader des amerikanischen Präsidenten, auf der Strasse stehen schwarze Limousinen Stossstange an Stossstange und auf dem Trottoir protestiert eine junge Frau nach dem Vorbild Gretas gegen den aktuellen Stand der Klimapolitik. Die Jahrestagung des WEF in Davos vereint Gegensätze auf engstem Raum und sorgt für ein wuseliges Durcheinander in der höchstgelegenen Stadt Europas.

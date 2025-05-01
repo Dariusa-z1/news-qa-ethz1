@@ -1,5 +1,7 @@
 # explaining-differences-in-rates-of-evolution
 
+**Source:** en_news_events/2018/12/explaining-differences-in-rates-of-evolution.html
+
 ## Mysterious discrepancy
 
 The rate at which evolution produces new species of plants and animals, or at which existing species die out, is a subject of much interest – and not only to scientists. That’s because the rates of speciation and extinction can tell us much about the history of our planet. If lots of new species emerge during an interval, this would indicate favourable conditions for life on earth. In contrast, extraordinary events can trigger mass extinctions, the most famous example of which was the event that wiped out the dinosaurs 66 million years ago, probably caused by a meteorite impact.

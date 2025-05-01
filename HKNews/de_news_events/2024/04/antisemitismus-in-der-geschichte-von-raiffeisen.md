@@ -1,5 +1,7 @@
 # antisemitismus-in-der-geschichte-von-raiffeisen
 
+**Source:** de_news_events/2024/04/antisemitismus-in-der-geschichte-von-raiffeisen.html
+
 ## In Kürze
 
 - Der Raiffeisengründer in Deutschland F.W. Raiffeisen (1818-1888) hatte antisemitische Vorurteile und prangerte insbesondere den angeblichen «jüdischen Wucher» an. Gleichzeitig distanzierte er sich aber um 1880 deutlich von der damals weit verbreiteten «Judenhetze».

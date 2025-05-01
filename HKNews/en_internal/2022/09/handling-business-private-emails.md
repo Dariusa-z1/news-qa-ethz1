@@ -1,5 +1,7 @@
 # handling-business-private-emails
 
+**Source:** en_internal/2022/09/handling-business-private-emails.html
+
 ## Changes to email archiving
 
 - find the right records in the file system quickly and reliably

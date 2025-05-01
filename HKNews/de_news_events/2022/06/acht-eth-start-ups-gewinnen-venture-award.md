@@ -1,5 +1,7 @@
 # acht-eth-start-ups-gewinnen-venture-award
 
+**Source:** de_news_events/2022/06/acht-eth-start-ups-gewinnen-venture-award.html
+
 ## Künstliche Intelligenz für Jurist:innen
 
 Der Venture-Award, einer der führenden Wettbewerbe für Schweizer Jungunternehmen, feiert dieses Jahr sein 25-jähriges Jubiläum. Seit seiner Gründung unterstützte der von der ETH Zürich mitgetragene Wettbewerb mehr als 1500 Start-ups, die über 15’000 Arbeitsplätze schufen. Die 262 Gewinner allein mobilisierten 2,3 Milliarden Franken an Risikokapital und veröffentlichten fast 900 Patente.

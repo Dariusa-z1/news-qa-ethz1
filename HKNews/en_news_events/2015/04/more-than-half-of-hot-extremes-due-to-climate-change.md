@@ -1,5 +1,7 @@
 # more-than-half-of-hot-extremes-due-to-climate-change
 
+**Source:** en_news_events/2015/04/more-than-half-of-hot-extremes-due-to-climate-change.html
+
 ## Loaded dice
 
 Extreme weather is part of the chaotic nature of weather and emerges through a complex interplay of many factors. Will the weather become more extreme as climate change progresses? Yes and no. It would be wrong to conclude that climate change has no effect on the frequency of such events based simply on the fact that weather extremes existed in the past. However, it is also clear that what is often referred to as ‘global weirding’, or the idea that all weather phenomena are becoming increasingly extreme, falls short. After all, it is not scientifically proven that all weather extremes, such as hail storms and tornadoes, are becoming more frequent.

@@ -1,5 +1,7 @@
 # schmitt-responsive-city
 
+**Source:** en_news_events/2019/02/schmitt-responsive-city.html
+
 ## Changing the way technology is used
 
 The term “smart cities” has dominated conversations about cities for some while, with urban planners and authorities in many parts of the world jumping on the bandwagon. In 2015, India launched the Smart Cities Mission and announced that it would transform 100 Indian cities into smart cities. New technologies such as sensors, artificial intelligence and virtual reality can now be harnessed to make city administration more efficient. The introduction of interactive voice response and chatbots to government call centres is just one example here.

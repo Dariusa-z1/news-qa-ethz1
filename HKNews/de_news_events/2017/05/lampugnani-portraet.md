@@ -1,5 +1,7 @@
 # lampugnani-portraet
 
+**Source:** de_news_events/2017/05/lampugnani-portraet.html
+
 ## Ein Lehrer, der lernt
 
 Sein Lieblingsbuch ist der «Mann ohne Eigenschaften» von Robert Musil. Doch im Gegensatz zur Titelfigur, die sich nie festlegen möchte, bezieht Vittorio Magnago Lampugnani gerne Position. Seit fast 40 Jahren beschäftigt sich der ETH-Architekt mit Städtebau, äussert sich zu aktuellen Themen, beurteilt die Qualität von Plätzen und Quartieren und macht eigene Vorschläge. Er ist sich bewusst, dass er damit in einen wichtigen öffentlichen Diskurs eingreift. Sein Credo: «Massstab im Städtebau sollte immer der Mensch sein. Gute Architektur bietet die grösstmögliche Lebensqualität.»

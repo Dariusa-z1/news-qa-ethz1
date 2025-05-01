@@ -1,5 +1,7 @@
 # die-schulleitung-informiert-2020-3
 
+**Source:** de_internal/2020/06/die-schulleitung-informiert-2020-3.html
+
 ## Neue externe Ombudsperson
 
 Medizin gehört zu den thematischen Schwerpunkten der ETH Zürich. Um dieses Gebiet weiter zu stärken und die verschiedenen Gesundheitsinitiativen weiter zu fördern und zu bündeln, hat die Schulleitung Christian Wolfrum (D-HEST) zum neuen Delegierten für Medizin ernannt. Der Professor für translationale Ernährungsforschung ist dem Vizepräsidenten für Forschung zugeordnet und nimmt diese neue Funktion seit dem 1. Juni 2020 wahr. In seiner Funktion als Studiendirektor für den Medizinbachelor der ETH Zürich wird er weiterhin eng mit der Rektorin zusammenarbeiten. Ein ausführliches Interview mit Christian Wolfrum wird demnächst folgen.
@@ -22,13 +24,15 @@ Alle ETH-Ombudspersonen nehmen Fragen entgegen und beraten ETH-Angehörige. Sie 
 
 ## Regelmässige Informationen aus der Schulleitung
 
-Seit 2016 läuft im Rahmen der «Hochschulmedizin Zürich das Flaggschiffprojekt «Skintegrity». Hier forschen 26 Gruppen der Universität Zürich, der universitären Zürcher Spitäler und der ETH Zürich an neuartigen Diagnosemethoden und Therapien zur Behandlung von schweren Hautdefekten, Hautkrankheiten und Wundheilungsstörungen. Um die Zukunft des erfolgreichen Projekts zu sichern, hat die Schulleitung entschieden, Skintegrity für die nächsten vier Jahre mit 6 Millionen Franken zu unterstützen. Skintegrity wird im Rahmen von Open-ETH (ehemals ETH+) geführt.
+Mit dieser Wahl folgt die ETH den Anliegen der internen Vernehmlassung und der Empfehlung der Eidgenössischen Finanzkontrolle nach einer externen Anlaufstelle. Seit November 2019 besteht auch eine externe Beratungsstelle Respekt bei Themen um Mobbing, Belästigung und Diskriminierung . Den aktuellen Jahresbericht der ETH-Ombudsstelle finden sie hier (PDF, 94 KB) .
 
 ## Staffnet
 
-Seit 2015 führen die Max-Planck-Gesellschaft (MPG) und die ETH Zürich das Zentrum für lernende Systeme (Center for Learning Systems, CLS). Zum Abschluss der ersten Finanzierungsperiode wurde das CLS erfolgreich evaluiert. Das Zentrum umfasst 32 Professorinnen und Professoren aus fünf Departementen der ETH (INFK, ITET, MATH, MAVT und HEST) sowie 16 Direktorinnen und Direktoren der MPG.
+Seit 2016 läuft im Rahmen der «Hochschulmedizin Zürich das Flaggschiffprojekt «Skintegrity». Hier forschen 26 Gruppen der Universität Zürich, der universitären Zürcher Spitäler und der ETH Zürich an neuartigen Diagnosemethoden und Therapien zur Behandlung von schweren Hautdefekten, Hautkrankheiten und Wundheilungsstörungen. Um die Zukunft des erfolgreichen Projekts zu sichern, hat die Schulleitung entschieden, Skintegrity für die nächsten vier Jahre mit 6 Millionen Franken zu unterstützen. Skintegrity wird im Rahmen von Open-ETH (ehemals ETH+) geführt.
 
 ## Newsletter abonnieren
+
+Seit 2015 führen die Max-Planck-Gesellschaft (MPG) und die ETH Zürich das Zentrum für lernende Systeme (Center for Learning Systems, CLS). Zum Abschluss der ersten Finanzierungsperiode wurde das CLS erfolgreich evaluiert. Das Zentrum umfasst 32 Professorinnen und Professoren aus fünf Departementen der ETH (INFK, ITET, MATH, MAVT und HEST) sowie 16 Direktorinnen und Direktoren der MPG.
 
 Unter der Co-Leitung von Thomas Hofmann (ETH, D-INFK) und Bernhard Schölkopf (MPG) wird Spitzenforschung im Bereich der Künstlichen Intelligenz (KI) gemacht. Die Schulleitung der ETH hat nun entschieden, dieses erfolgreiche Programm bis 2025 weiterzuführen, dessen Fellowship-Programm zu erweitern und die Zusammenarbeit in Europa zu vertiefen.
 

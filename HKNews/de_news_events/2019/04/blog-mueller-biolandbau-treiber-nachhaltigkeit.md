@@ -1,5 +1,7 @@
 # blog-mueller-biolandbau-treiber-nachhaltigkeit
 
+**Source:** de_news_events/2019/04/blog-mueller-biolandbau-treiber-nachhaltigkeit.html
+
 ## Vier Empfehlungen zuhanden der Politik
 
 - Erstens kann die Politik alternative (ökologische) Produktionsmethoden fördern. Dies kann über Direktzahlungen, Beratung und Wissensvermittlung oder über Forschungsförderung erfolgen. Ziel ist nicht, eine bestimmte Methode zu bevorzugen und überall umzusetzen. Es geht vielmehr darum, das Potential aller ökologischer Methoden bestmöglich zu nutzen und diese als beispielhaft nachhaltige Methoden weiterzuentwickeln.

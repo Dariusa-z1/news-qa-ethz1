@@ -1,5 +1,7 @@
 # die-neuen-vizepraesidentinnen-der-eth
 
+**Source:** de_internal/2020/12/die-neuen-vizepraesidentinnen-der-eth.html
+
 ## «Vertrauen ist für jede Zusammenarbeit zentral»
 
 «Ihr bringt Kompetenzen in die Schulleitung, die wir noch nicht haben. Und diese 360-Grad-Diversität ist mir extrem wichtig», sagte ETH-Präsident Joël Mesot anlässlich der Medienkonferenz zur Erweiterung der Schulleitung. Seit dem 1. November verstärkt Julia Dannath die Schulleitung der ETH als neue Vizepräsidentin Leadership und Personalentwicklung, am 1. Januar beginnt Vanessa Wood ihr Amt als Vizepräsidentin Wissenstransfer und Wirtschaftsbeziehungen. Doch wer sind die beiden neuen Mitglieder in der Leitung der ETH? Was treibt sie an und was zeichnet sie als Menschen und Führungskräfte aus?
@@ -10,11 +12,9 @@ Julia Dannath (Bild: Markus Bertschi)
 
 Daneben hat sie den Auftrag, Wege zu finden, um die Vorteile der bestehenden Diversität an der ETH noch besser zu nutzen, sowie die Entwicklungsmöglichkeiten für alle Berufsgruppen auszubauen. Im Rahmen des rETHink-Projekts wird sie sich vor allem um die Themen «Begleitung und Unterstützung der Professorenschaft» sowie «Organisation der Zentralen Organe» kümmern.
 
-«Vertrauen ist für jede Zusammenarbeit zentral», ist Julia Dannath überzeugt, und das habe «nichts mit physischem Kontakt zu tun. Sie selbst hat als Führungskraft und zuletzt CEO einer Beratungsagentur Teams in Zürich, Hamburg und Köln miteinander koordiniert und über zwölf Jahre lang Organisationen auf der ganzen Welt im Bereich Personalentwicklung und Führungskultur unterstützt. Die virtuelle Zusammenarbeit war für die promovierte Psychologin deshalb schon lange vor der Corona-Pandemie Alltag.
+«Julia kann sehr gut zuhören und sie versteht es extrem gut, Menschen nach ihren Stärken einzusetzen», sagt Maximilian Buyken, der zehn Jahre lang in ihrem Beraterteam tätig war und seit 1. Dezember ihren Schulleitungsstab leitet. Dass Dannath ihren Mitarbeitenden viele Freiheiten und Verantwortung überlässt, sie mit ihrem Enthusiasmus ansteckt und einen offenen Umgang mit Fehlern und neuen Ideen pflegt, schätzt er an ihrem Führungsstil besonders.
 
 ## Vorbild und Mentorin
-
-«Julia kann sehr gut zuhören und sie versteht es extrem gut, Menschen nach ihren Stärken einzusetzen», sagt Maximilian Buyken, der zehn Jahre lang in ihrem Beraterteam tätig war und seit 1. Dezember ihren Schulleitungsstab leitet. Dass Dannath ihren Mitarbeitenden viele Freiheiten und Verantwortung überlässt, sie mit ihrem Enthusiasmus ansteckt und einen offenen Umgang mit Fehlern und neuen Ideen pflegt, schätzt er an ihrem Führungsstil besonders.
 
 Bevor Julia Dannath ihre Karriere in der Beratung begann, doktorierte sie in Tübingen zu «agilem Wissenserwerb» und arbeitete als wissenschaftliche Assistentin am Institut für Verhaltenspsychologie an der ETH Zürich. Aus familiären Gründen zog sie danach wieder nach Deutschland, doch die Begeisterung für die ETH blieb: «Diese Mischung aus Tradition und Innovation und die Leidenschaft, mit der hier alle arbeiten, faszinieren mich sehr».
 
@@ -24,9 +24,9 @@ Neben ihrem Beruf ist Familie und die Beziehung zu ihrem Mann das Wichtigste fü
 
 Sowohl beruflich als auch privat legt die Vizepräsidentin viel Wert auf einen vertrauensvollen und ehrlichen Umgang. «Viel miteinander zu sprechen, eine intensive Feedbackkultur, zunächst immer davon auszugehen, dass das Gegenüber aus einer guten Intention heraus handelt und einander auch in schwierigen persönlichen Zeiten zu unterstützen – das schafft Vertrauen und Loyalität», ist sie überzeugt.
 
-## Staffnet
-
 Vanessa Wood (Bild: Markus Bertschi)
+
+## Staffnet
 
 Vanessa Wood wuchs als Einzelkind in Sarasota in Florida auf. Die Wochenenden verbrachte sie oft in der Werkstatt ihres Grossvaters, wo sie mit ihm zusammen ihr eigenes kleines Segelboot und elektrische Autos für ihre Barbie-Puppen baute. Ihr Interesse an der Beschaffenheit der Dinge erkannte schnell auch ihr Physiklehrer, der sie ins Robotik-Team der Schule rekrutierte und ihr Einzelunterricht in Quantenmechanik gab. «Ich glaube, diese starke Förderung gab mir das Selbstvertrauen, mich in meiner Karriere trotz des sehr kompetitiven Umfelds den Naturwissenschaften zu widmen», sagt die 37-jährige Professorin.
 
@@ -36,9 +36,9 @@ Vanessa Wood ist überzeugt, dass sie ihren Erfolg auch vielen Menschen zu verda
 
 Neben Cellospielen, Schwimmen und Rennvelofahren ist Laufen Woods grösstes Hobby, um abzuschalten. Am liebsten fährt sie dafür mit dem Zug in die Natur, schliesst ihren Laptop in ein Schliessfach am Bahnhof ein und rennt los. Seit sie im Juli Mutter geworden ist, bringt sie ihre kleine Tochter im Baby-Jogger auf die Wanderwege des Zürcher Oberlands, wo sie sich mit ihrem Mann niedergelassen hat und sich gerade auf ihre Einbürgerungsprüfung vorbereitet.
 
-## Newsletter abonnieren
-
 Mit der Wirtschaft kam Vanessa Wood zum ersten Mal in Berührung, als ihre Doktorarbeit in Elektrotechnik am MIT in ein Spin-off mündete, das mittlerweile von Samsung übernommen wurde. Kurz nach ihrem Doktorat wurde sie mit erst 27 Jahren als erste Assistenzprofessorin ans Departement Informationstechnologie und Elektrotechnik der ETH Zürich berufen. «Als ich zum Bewerbungsgespräch kam, war ich begeistert», erinnert sie sich. «Die Möglichkeiten, hier eine Forschungsgruppe aufzubauen, und die Nähe zu den grossen Forschungsanlagen am PSI sind weltweit einzigartig.»
+
+## Newsletter abonnieren
 
 Nach ihrem Mutterschaftsurlaub wird Vanessa Wood neben ihrer Funktion in der Schulleitung weiterhin in der Forschung tätig sein. Dass sie alles unter einen Hut bekommt, zweifelt in ihrer Forschungsgruppe niemand an. «Vanessa war die letzten zwei Jahre neben ihrer Aufgabe als Gruppenleiterin noch Departementsvorsteherin, und das mit vollem Einsatz», sagt Jens Poulsen. Dass sie vieles gleichzeitig so gut hinbekomme, habe sie ihrer Gelassenheit und ihrem Priorisierungstalent zu verdanken. Mikromanagement liege ihr fern.
 

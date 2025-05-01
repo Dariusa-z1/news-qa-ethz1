@@ -1,5 +1,7 @@
 # human-impact-on-solar-radiation-levels-for-decades
 
+**Source:** en_news_events/2021/02/human-impact-on-solar-radiation-levels-for-decades.html
+
 ## Natural variations or air pollution?
 
 In the late 1980s and 1990s, researchers at ETH Zurich discovered the first indications that the amount of sunlight reaching the Earth’s surface had been steadily declining since the 1950s. The phenomenon was known as “global dimming”. However, a reversal in this trend became discernible in the late 1980s. The atmosphere brightened again at many locations and surface solar radiation increased.

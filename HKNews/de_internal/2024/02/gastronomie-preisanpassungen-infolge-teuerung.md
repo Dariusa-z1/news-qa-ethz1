@@ -1,5 +1,7 @@
 # gastronomie-preisanpassungen-infolge-teuerung
 
+**Source:** de_internal/2024/02/gastronomie-preisanpassungen-infolge-teuerung.html
+
 ## Neue Preise ab 19. Februar
 
 Die Schweizer Gemeinschaftsgastronomie steht infolge der steigenden Einkaufskosten weiterhin stark unter Druck. Diverse Institutionen und Hochschulen in der Schweiz haben die Preise in ihren Mensen nach einer ersten Anpassung vor zwei Jahren im Verlauf 2023 erneut erhöht, so auch die benachbarte Universität Zürich. Auch die Caterer an der ETH Zürich leiden unter dem Kostendruck, der dazu führt, dass sie auf den Semesterstart die Verkaufspreise der Menüs in den drei grossen Gastrobetrieben Polyterrasse, FUSION meal und food market anpassen.

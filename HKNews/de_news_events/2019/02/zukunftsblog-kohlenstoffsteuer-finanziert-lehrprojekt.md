@@ -1,5 +1,7 @@
 # zukunftsblog-kohlenstoffsteuer-finanziert-lehrprojekt
 
+**Source:** de_news_events/2019/02/zukunftsblog-kohlenstoffsteuer-finanziert-lehrprojekt.html
+
 ## Bewusster Fliegen
 
 - Compensation: Seit Anfang 2019 erhebt das D-MAVT eine interne Kohlenstoffsteuer für Flugreisen als eigene Form der Kompensation. Jede Forschungsgruppe bezahlt zusätzlich zum Flugticket einen substantiellen Betrag pro emittierte Tonne CO2. Davon gehen rund 15 Prozent ans BAFU für den Kauf von Emissionszertifikaten. Die restlichen 85 Prozent fliessen in einen internen Fonds. Ein Retourflug Zürich-Boston wird so rund CHF 150 teurer.

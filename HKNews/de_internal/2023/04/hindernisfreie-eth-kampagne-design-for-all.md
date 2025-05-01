@@ -1,5 +1,7 @@
 # hindernisfreie-eth-kampagne-design-for-all
 
+**Source:** de_internal/2023/04/hindernisfreie-eth-kampagne-design-for-all.html
+
 ## Barrierefreie Lehre und Lehrmittel
 
 Bereits 2014 hat die Schweiz die externe Seite UNO-​Behindertenrechtskonvention (UNO-​BRK) in Kraft gesetzt. Nichtsdestotrotz sind Menschen mit Behinderungen weiterhin täglich mit Hindernissen konfrontiert: Sei es beim Zugang zu Gebäuden, zu Informationen oder zu Veranstaltungen.

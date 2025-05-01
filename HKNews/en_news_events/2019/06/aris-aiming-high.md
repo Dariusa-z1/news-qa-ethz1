@@ -1,5 +1,7 @@
 # aris-aiming-high
 
+**Source:** en_news_events/2019/06/aris-aiming-high.html
+
 ## Special air brakes
 
 They’re aiming high: a team of 30 students from ETH Zurich, the Lucerne University of Applied Sciences and Arts and the Zurich University of Applied Sciences (ZHAW) are hoping that the rocket they have developed will win them a top spot among the 50 or so teams competing in the Spaceport America Cup 2019. For that, their rocket has to reach an altitude of 10,000 feet (3,048 metres) as precisely as possible and then use a parachute to loft gently back to the ground. Only then do they have a shot at winning the world’s largest student competition in rocketry.

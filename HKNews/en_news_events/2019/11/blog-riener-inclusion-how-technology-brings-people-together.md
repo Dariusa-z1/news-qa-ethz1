@@ -1,5 +1,7 @@
 # blog-riener-inclusion-how-technology-brings-people-together
 
+**Source:** en_news_events/2019/11/blog-riener-inclusion-how-technology-brings-people-together.html
+
 ## Visiting school classes
 
 Children often behave in a carefree way, with honesty and enthusiasm. This is apparent, for example, when they meet people with a hearing aid or a prosthetic arm, or someone in a wheelchair. Children are often curious or intrigued, they are interested in wearable technologies and the physical disability and they’re not in the least bit shy about talking to the person.

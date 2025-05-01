@@ -1,5 +1,7 @@
 # neue-delegierte-fuer-nachhaltigkeit
 
+**Source:** de_internal/2022/12/neue-delegierte-fuer-nachhaltigkeit.html
+
 ## Die passende Kandidatin
 
 Die Schulleitung hat Sonia Seneviratne zur neuen Delegierten für Nachhaltigkeit ernannt (siehe Die Schulleitung informiert, 21.12.2022 ). Die Besetzung unterstreicht den hohen Stellenwert des Amts: Nachhaltigkeit ist an der ETH Zürich ein strategisches Handlungsfeld, das sich über die vier Kernbereiche Forschung, Lehre, Campusleben und Austausch mit der Gesellschaft erstreckt– und mit Seneviratne gewinnt die Hochschule erneut eine international renommierte Klimaforscherin, die sich in den kommenden vier Jahren um dieses Kernanliegen kümmern wird.

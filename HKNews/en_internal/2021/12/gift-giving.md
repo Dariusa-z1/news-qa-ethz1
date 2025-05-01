@@ -1,5 +1,7 @@
 # gift-giving
 
+**Source:** en_internal/2021/12/gift-giving.html
+
 ## For
 
 Dr Andreas Steingötter, Managing Director of the EXCITE Zurich Center
@@ -33,4 +35,6 @@ The best gifts are those with the most reflection behind them and those we make 
 Some see gift-giving as consumerism. I see it as offering the chance to engage in mindfulness, consumerism’s opposite. We are mindful of our relationships to others, not of our own desires. Gift-giving at the winter solstice is one of those human traditions that enriches our lives. We would be fools to give it up.
 
 This article appeared in the current ETH magazine "life" .
+
+the latest issue of "life" (PDF, 4.3 MB)
 

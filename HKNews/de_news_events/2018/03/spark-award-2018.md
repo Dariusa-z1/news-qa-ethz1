@@ -1,5 +1,7 @@
 # spark-award-2018
 
+**Source:** de_news_events/2018/03/spark-award-2018.html
+
 ## Multidisziplinäres Team
 
 Wie lassen sich Erfindungen aus so unterschiedlichen Bereichen wie Medizin, Biologie oder Informatik gegeneinander abwägen? Nach intensiven Diskussionen entschied sich die Spark-Award-Jury für den standardisierten Bakterienmix, den Tomas de Wouters zusammen mit einem Team von Forscherinnen und Forschern zur Stabilisierung des Darmökosystems entwickelt haben. «Diese Erfindung zeigt den Erfolg multidisziplinärer Zusammenarbeit», betonte Detlef Günther, ETH-Vizepräsident für Forschung und Wirtschaftsbeziehungen, gestern in seiner Laudatio vor rund 200 Gästen im Audimax. «Ihr Ansatz hat hohes Marktpotenzial und kann in absehbarer Zeit weiterentwickelt werden».

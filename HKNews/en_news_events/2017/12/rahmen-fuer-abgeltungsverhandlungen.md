@@ -1,5 +1,7 @@
 # rahmen-fuer-abgeltungsverhandlungen
 
+**Source:** en_news_events/2017/12/rahmen-fuer-abgeltungsverhandlungen.html
+
 ## Repositories are unpopular – you have to negotiate
 
 Where should radioactive waste be safely disposed of? This problem is not finally solved anywhere in the world. We also produce waste that emits radiation for a very long time. According to the Swiss Nuclear Energy Act, this waste must be disposed of in Switzerland. The long-term protection of people and the environment must be safeguarded.
@@ -26,25 +28,23 @@ As the negotiations are voluntary, the negotiating framework put forward will on
 
 ## Further information
 
-This process corresponded to what we call a multilateral negotiation – with all its challenges and difficulties. It was important to maintain close contact with all involved parties throughout the entire process, to communicate from a neutral position and to always be ready with new ideas. Often a new good idea can resolve a seemingly deadlocked situation.
-
 An example of this is the role of the German regions in the negotiation process; their participation was at first controversial. We proposed the inclusion of the neighbouring German municipalities through an additional seat in the delegation of the Swiss municipalities. As this did not reduce the number of seats of the Swiss municipalities, the proposal was ultimately accepted by all those involved.
-
-## About the authors
 
 In the end, a negotiating framework was adopted by all parties involved; 20 people signed the document on 22 September, which means that the negotiations can be started in due course. The process has also contributed to the creation of a basis for dialogue and trust between the parties concerned – an essential prerequisite for the solution of such a task of national importance.
 
-Michael Ambühl wrote this post with Tobias Langenegger .
+## About the authors
 
-## Zukunftsblog reloaded
+Michael Ambühl wrote this post with Tobias Langenegger .
 
 Professor of Negotiation and Conflict Management,
 
+## Zukunftsblog reloaded
+
 Further information on the author
 
-## Vote for the
-
 Doctoral candidate at the Chair of Negotiation and Conflict Management,
+
+## Vote for the
 
 Further information on the author
 

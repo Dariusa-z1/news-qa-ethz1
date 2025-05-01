@@ -1,5 +1,7 @@
 # movetia-information-event-funding-for-international-cooperation-in-education
 
+**Source:** de_internal/2022/06/movetia-information-event-funding-for-international-cooperation-in-education.html
+
 ## Main article
 
 - das Projektformat «Internationale Zusammenarbeit» von Movetia anhand von Projektbeispielen;

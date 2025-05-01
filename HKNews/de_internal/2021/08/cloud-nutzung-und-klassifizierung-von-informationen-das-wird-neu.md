@@ -1,5 +1,7 @@
 # cloud-nutzung-und-klassifizierung-von-informationen-das-wird-neu
 
+**Source:** de_internal/2021/08/cloud-nutzung-und-klassifizierung-von-informationen-das-wird-neu.html
+
 ## Neue Rahmenbedingungen für Cloud-Dienste
 
 - Öffentliche Informationen sind – wie’s der Name schon sagt – prinzipiell für alle zugänglich. Also auch für Personen, die nicht der ETH Zürich angehören.

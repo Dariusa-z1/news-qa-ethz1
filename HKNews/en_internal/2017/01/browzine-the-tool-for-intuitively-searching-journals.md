@@ -1,5 +1,7 @@
 # browzine-the-tool-for-intuitively-searching-journals
 
+**Source:** en_internal/2017/01/browzine-the-tool-for-intuitively-searching-journals.html
+
 ## Main article
 
 This tool can be used both via the web or an app:

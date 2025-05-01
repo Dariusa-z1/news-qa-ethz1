@@ -1,5 +1,7 @@
 # unterstuetzung-fuer-diagnostik-forscher
 
+**Source:** de_news_events/2016/03/unterstuetzung-fuer-diagnostik-forscher.html
+
 ## Konkurrenzfähig auch im Preis
 
 Das Wunderding ist ein simpler Kasten von rund 18 Quadratzentimetern Grundfläche und ein paar Zentimetern Höhe. Kernstück im Innern sind kleine quadratische Membranen mit 25 Testfeldern, sogenannten Spots. «Um Proteine zu bestimmen, werden auf den einzelnen Spots Antikörper aufgetragen, die ein spezifisches Protein binden», erklärt Marco Habegger. Auf einer Membrane können 25 verschiedene Proben analysiert werden. Die zu testende biologische Flüssigkeit – beispielsweise Blut – gelangt durch winzige Öffnungen auf der Kastenoberfläche ins Innere. Im Kasten können bis zu zehn Membranen aufeinander gestapelt werden, womit die Proben auf bis zu zehn unterschiedliche Proteine untersucht werden können.

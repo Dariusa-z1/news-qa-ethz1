@@ -1,5 +1,7 @@
 # research-priorities-for-a-sustainable-food-system
 
+**Source:** en_news_events/2015/06/research-priorities-for-a-sustainable-food-system.html
+
 ## Main article
 
 ETH News: The World Food System Center at ETH Zurich has addressed the need for research for a sustainable Swiss food system on behalf of the Confederation. What exactly is a food system? Nina Buchmann: A food system encompasses all the food – and feed – produced and consumed in a country, as well as all the national actors and the national boundary conditions. In other words, it is a system that takes into account the production of food up to the consumption and health-related issues, but also all the resources, wastes and losses. In addition, a food system is influenced by various boundary conditions, created by economy, policy, society and environment.

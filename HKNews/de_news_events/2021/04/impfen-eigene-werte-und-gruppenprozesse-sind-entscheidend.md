@@ -1,5 +1,7 @@
 # impfen-eigene-werte-und-gruppenprozesse-sind-entscheidend
 
+**Source:** de_news_events/2021/04/impfen-eigene-werte-und-gruppenprozesse-sind-entscheidend.html
+
 ## Wie sich psychologische Sicherheit auswirkt
 
 (Bild: ETH Zürich)

@@ -1,5 +1,7 @@
 # a-new-take-on-an-old-mystery
 
+**Source:** en_news_events/2021/01/a-new-take-on-an-old-mystery.html
+
 ## A sporting challenge that ended in tragedy
 
 In early October 2019, when an unknown caller rang EPFL professor Johan Gaume’s cell phone, he could hardly have imagined that he was about to confront one of the greatest mysteries in Soviet history. At the other end of the line, a journalist from The New York Times asked for his expert insight into a tragedy that had occurred 60 years earlier in Russia’s northern Ural Mountains – one that has since come to be known as the Dyatlov Pass Incident. Gaume, head of EPFL’s Snow and Avalanche Simulation Laboratory (SLAB) and visiting fellow at the WSL Institute for Snow and Avalanche Research SLF, had never heard of the case, which the Russian Public Prosecutor’s Office had recently resurrected from Sovieteran archives. "I asked the journalist to call me back the following day so that I could gather more information. What I learned intrigued me."
@@ -14,19 +16,17 @@ The Soviet authorities investigated to determine the causes of this strange dram
 
 ## Bridging the gaps in the investigation
 
-This is the mystery that Gaume was confronted with. “After the call from the New York Times reporter, I began writing equations and figures on my blackboard, trying to understand what might have happened in purely mechanical terms,” he says. “When the reporter rang back, I told her it was likely that an avalanche had taken the group by surprise as they lay sleeping in the tent.” This theory, which is the most plausible, was also put forward by the Russian Public Prosecutor’s Office after the investigation was reopened in 2019 at the request of the victims’ relatives. But the lack of evidence and the existence of odd elements has failed to convince a large portion of Russian society. “I was so intrigued that I began researching this theory more deeply. I then contacted Professor Alexander Puzrin, Deputy head of the Institute for Geotechnical Engineering at ETH Zurich, whom I had met a month earlier at a conference in France.”
-
 Dyatlov group monument erected in 1962 in Mihaylovskoe cemetery, Sverdlovsk. (Image: Dyatlov Memorial Foundation)
-
-## Reference
 
 Gaume, originally from France, and Russian-born Puzrin worked together to comb through the archives, which had been opened to the public after the fall of the Soviet Union. They also spoke with other scientists and experts in the incident, and developed analytical and numerical models to reconstruct the avalanche that may have caught the nine victims unaware. “The Dyatlov Pass mystery has become part of Russia's national folklore. When I told my wife that I was going to work on it, she looked at me with deep respect!” says Puzrin. “I was quite keen to do it, especially because I had started working on slab avalanches two years earlier. My primary research is in the field of landslides; I study what happens when a certain amount of time elapses between when a landslide is triggered and when it actually occurs.” According to Gaume and Puzrin, this is what happened in 1959: the hikers had made a cut in the mountain’s snow-covered slope to set up their tent, but the avalanche didn't occur until several hours later.
 
+## Reference
+
 “One of the main reasons why the avalanche theory is still not fully accepted is that the authorities have not provided an explanation of how it happened,” says Gaume. In fact, there are a number of points that contradict that theory: first, the rescue team did not find any obvious evidence of an ava-lanche or its deposition. Then the average angle of the slope above the tent site – less than 30° – was not steep enough for an avalanche. Also, if an avalanche occurred, it was triggered at least nine hours after the cut was made in the slope. And finally, the chest and skull injuries observed on some victims were not typical of avalanche victims. In their investigation, published in Communications Earth & Environment – a journal by Nature Research – on January 28, Gaume and Puzrin attempt to address these points.
 
-## Contact
-
 Configuration of the Dyatlov group’s tent installed on a flat surface after making a cut in the slope below a small shoulder. Snow deposition above the tent is due to wind transport of snow. (Image: Gaume/Puzrin)
+
+## Contact
 
 “We use data on snow friction and local topography to prove that a small slab avalanche could occur on a gentle slope, leaving few traces behind. With the help of computer simulations, we show that the impact of a snow slab can lead to injuries similar to those observed. And then, of course, there’s the time lag between the team cutting into the slope and the triggering of the event. That’s the main focus of our article. Previous investigators have been unable to explain how, in the absence of any snowfall that evening, an avalanche could have been triggered in the middle of the night. We had to come up with a new theory to explain it,” says Gaume.
 
@@ -35,6 +35,4 @@ On the night of the tragedy, one of the most important contributing factors was 
 Both scientists are nevertheless cautious about their findings, and make it clear that much about the incident remains a mystery. “The truth, of course, is that no one really knows what happened that night. But we do provide strong quantitative evidence that the avalanche theory is plausible,” Puzrin continues. The two models developed for this study – an analytical one for estimating the time required to trigger an avalanche, created by ETH Zurich, and SLAB’s numerical one for estimating the effect of avalanches on the human body – will be used to better understand natural avalanches and the associated risks. Gaume and Puzrin’s work stands as a tribute to Dyatlov's team, who were confronted with a “compelling force” of nature. And, although they were unable to complete their treacherous expedition, they have given generations of scientists a perplexing enigma to solve.
 
 Gaume J, Puzrin A. Mechanisms of slab avalanche release and impact in the Dyatlov Pass incident in 1959. Communications Earth and Environment. 28. Januar 2021. DOI: 10.1038/s43247-020-00081-8
-
-ETH Zürich Hochschulkommunikation Media Relations Phone: +41 44 632 41 41
 

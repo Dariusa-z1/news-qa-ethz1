@@ -1,5 +1,7 @@
 # die-schulleitung-informiert-2022-1
 
+**Source:** de_internal/2022/01/die-schulleitung-informiert-2022-1.html
+
 ## Neues Mitglied der ETH-Ombudsstelle
 
 Die Ombudsstelle der ETH Zürich berät ETH-Angehörige bei Schwierigkeiten und Konflikten am Arbeitsplatz oder im Studium sowie bei Verdacht auf rechtlich unkorrektes Verhalten. Mindestens drei Ombudspersonen müssen diese Stelle besetzen. Sie werden in der Regel für eine Amtsdauer von vier Jahren gewählt.

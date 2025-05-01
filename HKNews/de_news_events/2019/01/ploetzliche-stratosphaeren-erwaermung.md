@@ -1,5 +1,7 @@
 # ploetzliche-stratosphaeren-erwaermung
 
+**Source:** de_news_events/2019/01/ploetzliche-stratosphaeren-erwaermung.html
+
 ## Main article
 
 Endlich wieder mal ein Winter, der den Namen verdient. Hat dies mit dem Phänomen einer plötzlichen Stratosphärenerwärmung (sudden stratosphere warming, SSW) zu tun, die anfangs Januar aufgetreten ist? Daniela Domeisen: Das derzeitige kalte Winterwetter in Europa hat möglicherweise noch nicht viel mit der SSW zu tun. Es ist einfach Winter und deshalb ist es kalt und es schneit. Aber: Es könnte aufgrund der beobachteten plötzlichen Stratosphärenerwärmung noch länger kalt bleiben.

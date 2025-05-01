@@ -1,5 +1,7 @@
 # eth-juniors-jfund--heute-ueben-morgen-umsetzen
 
+**Source:** de_internal/2015/08/eth-juniors-jfund--heute-ueben-morgen-umsetzen.html
+
 ## Main article
 
 Die ETH juniors sind ein 1997 an der ETH Zürich gegründetes, studentisches Unternehmen, dessen Kerngeschäft die Akquise und Umsetzung von Projektaufträgen aus der Industrie ist. Der Verein ist heute etabliert und gut mit der ETH Zürich und der Wirtschaft vernetzt. Auch der ETH Seniors Club, der die ehemaligen Juniors verbindet, ist in den vergangenen Jahren stetig gewachsen.

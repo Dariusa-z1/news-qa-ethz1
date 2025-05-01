@@ -1,5 +1,7 @@
 # studierendenumfrage
 
+**Source:** de_news_events/2019/05/studierendenumfrage.html
+
 ## Hohe Rücklaufquote
 
 Unter dem Titel #wiegETHs? hat der Verband der Studierenden an der ETH (VSETH) vermutlich die grösste Befragung seiner Geschichte durchgeführt. Sämtliche 16’000 Bachelor- und Masterstudierende waren aufgerufen, rund 30 bis 50 Fragen zu beantworten: zu ihrer Studiensituation und ihrer psychischen Verfassung im Allgemeinen, im Speziellen aber auch zu Erfahrungen mit Diskriminierung oder Ungleichbehandlung an der ETH. Die Anzahl Fragen fiel unterschiedlich aus, weil nachgehakt wurde, wenn die Teilnehmenden beispielsweise angaben, Benachteiligungen erfahren zu haben oder wenn sie sich eingangs der Befragung als nicht heterosexuell oder als trans*gender bezeichnet hatten.
@@ -14,27 +16,25 @@ Kritischer wird von den Studierenden der Leistungsdruck beurteilt. Nur die Hälf
 
 «Die Umfrage zeigt, dass die Belastungen der Studierenden gründlich überdacht werden müssen» stellt VSETH-Präsident Lewin Könemann fest. «Die Ergebnisse weisen stark darauf hin, dass sie ihr Leben an der ETH als nicht besonders anregend wahrnehmen», lautet seine erste Einschätzung. So stimmt nur ein Drittel aller Studierenden der Aussage zu, dass neben dem Studium genügend Zeit für anderes bleibt, was im Leben wichtig ist.
 
-Zu kurz kommen demnach Hobbies, soziale Kontakte, aber auch gesundheitsfördernde Tätigkeiten. «Wenn die ETH Absolventinnen und Absolventen will, die nicht nur fachlich gut gebildet sind, sondern auch kritisch denken und mit sich selbst im Reinen sind, werden die Ursprünge des Leistungsdrucks in den kommenden Diskussionen bestimmt ein Thema sein, einige sind vermutlich der Qualität des Studiums nicht zuträglich», meint Könemann.
+Ein weiteres Thema, das der Studierendenverband genauer anzuschauen will, ist die psychische Belastung von Studierenden. «Einiges deutet darauf hin, dass die psychische Gesundheit ein verbreitetes Problem darstellen könnte», sagt Joy Stekhoven. So schätzen 10 Prozent der Studierenden den eigenen psychischen Zustand als «sehr schlecht bis eher schlecht» und 13 Prozent als schwankend ein. Nur die Hälfte der Studierenden beurteilt ihre psychische Verfassung im Generellen als gut oder sehr gut, ein Viertel als «eher gut».
 
 ## Belästigungen kein strukturelles Problem
-
-Ein weiteres Thema, das der Studierendenverband genauer anzuschauen will, ist die psychische Belastung von Studierenden. «Einiges deutet darauf hin, dass die psychische Gesundheit ein verbreitetes Problem darstellen könnte», sagt Joy Stekhoven. So schätzen 10 Prozent der Studierenden den eigenen psychischen Zustand als «sehr schlecht bis eher schlecht» und 13 Prozent als schwankend ein. Nur die Hälfte der Studierenden beurteilt ihre psychische Verfassung im Generellen als gut oder sehr gut, ein Viertel als «eher gut».
 
 Von Benachteiligungen in Form von abwertenden Bemerkungen, Ausgrenzung, Informationsverweigerung oder ungerechtfertigter Kritik waren rund 12 Prozent der Befragten bereits einmal betroffen. Frauen waren mehr betroffen als Männer, hauptsächlich in Lehrveranstaltungen, und in erster Linie waren Studierende die Urheber*innen. Von den nicht-deutschsprachigen Studierenden gaben 21 Prozent an, aufgrund von Ethnie, Herkunft oder Sprache schon Benachteiligungen erfahren zu haben. «Aus den Antworten rund um Benachteiligungen werden wir noch genauere Auswertungen machen», verspricht Micha Bigler. So will der VSETH beispielsweise noch genauer anschauen, wie die Resultate in den einzelnen Departementen aussehen. Auch die Eingaben in den Freitextfeldern brauchen mehr Zeit für eine Auswertung.
 
 Sexuelle Belästigungen kommen an der ETH nur vereinzelt vor. Drei Prozent der Studierenden haben angegeben, aufdringliches Verhalten, anzügliche Bemerkungen, bedrängende Blicke oder ein In-Aussicht-stellen von Vorteilen bei sexuellem Entgegenkommen erlebt zu haben. Zwei Prozent gaben an, einmal unerwünscht berührt, «begrabscht» oder gegen den Willen geküsst worden zu sein, Frauen mehr als Männer.
 
-## Keine grossen Überraschungen
-
 «Jeder dieser Fälle ist einer zu viel, und man muss bei solchen Befragungen auch immer mit einer Dunkelziffer rechnen», gibt Joy Stekhoven zu bedenken, um aber festzustellen, dass es keine Zahlen sind, bei denen man von einem ETH-weiten Problem sprechen kann. Die Zahlen seien ausserdem sehr ähnlich wie jene in vergleichbaren Studien an anderen Schweizer Universitäten. Aber auch hier seien weitere Auswertungen nötig, um mögliche Häufungen bei einzelnen Studiengängen auszuschliessen.
+
+## Keine grossen Überraschungen
 
 Und wie beurteilen die ETH-Verantwortlichen die Umfrageergebnisse? «Mit Blick auf die öffentliche Diskussion in den vergangenen Monaten sind wir zunächst erleichtert, dass die Umfrage unsere Feststellung bestätigt, dass die ETH kein systemisches Problem mit sexuellen Belästigungen oder Mobbing hat», sagt ETH-Rektorin Sarah Springman. «Diese Aussage soll aber keinesfalls die einzelnen Fälle relativieren – im Gegenteil: Jede Person, die an der ETH eine Benachteiligung erfährt, ist eine Person zu viel», betont auch die Rektorin. Die Resultate zeigten einfach, dass die ETH Teil der Gesellschaft sei, wozu auch die unschönen Seiten des Lebens gehörten.
 
 «Wichtig ist, dass unsere Anlaufstellen allen, die Benachteiligungen erfahren, bekannt sind» ruft Springman in Erinnerung. Um sicherzustellen, dass die Hilfsangebote über genügend Kapazitäten verfügen, wird sie noch in diesem Jahr die Psychologische Beratungsstelle substantiell ausbauen.
 
-## «Der psychische Allgemeinzustand entspricht dem Schweizerischen Mittel»
-
 Angesprochen auf die grosse Belastung der Studierenden meint Springman, dass das Rektorat sich dessen bewusst sei: «Wir führen bereits seit längerer Zeit mit allen für die Lehre Verantwortlichen intensive Diskussionen, wie wir den Studierenden in den Curricula mehr Freiraum bieten können.» Bei der Überarbeitung von Studiengängen spiele diese Frage eine zentrale Rolle. Allerdings gibt die Rektorin zu bedenken, dass hier keine raschen Lösungen erwartet werden dürfen. Ein gewisser Druck wird bestehen bleiben, denn an den fachlichen Anforderungen will die ETH nicht rütteln.
+
+## «Der psychische Allgemeinzustand entspricht dem Schweizerischen Mittel»
 
 Um über konkrete Verbesserungsmassnahmen zu diskutieren, sei es generell noch zu früh, lassen sowohl VSETH wie auch die Rektorin verlauten. Gemeinsam wollen sie im Sommer die Resultate noch detaillierter analysieren. Einig sind sie sich in der Zielsetzung: Der Anspruch der ETH auf Exzellenz soll auch für die Diskriminierungsfreiheit gelten.
 

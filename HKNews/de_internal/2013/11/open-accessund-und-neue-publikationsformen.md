@@ -1,5 +1,7 @@
 # open-accessund-und-neue-publikationsformen
 
+**Source:** de_internal/2013/11/open-accessund-und-neue-publikationsformen.html
+
 ## Main article
 
 Am 25. November 2013 laden die Mittelbauvereine der Departemente MTEC (ScSt@MTEC) und GESS (ASST) gemeinsam mit der ETH-Bibliothek zu einer Informations- und Diskussionsveranstaltung zu den Themen Open Access und wissenschaftliches Publizieren ein.

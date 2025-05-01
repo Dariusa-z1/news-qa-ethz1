@@ -1,5 +1,7 @@
 # oil-palm-beyond-controversy
 
+**Source:** en_news_events/2015/12/oil-palm-beyond-controversy.html
+
 ## OPAL brings together stakeholders
 
 You will, no doubt, have heard that oil palm is driving rainforest destruction. We are told that this is so by media, social feeds, pressure groups, etc. We think we know what’s going on, we form opinions, and we might even take action, by boycotting products containing oil palm, for example.

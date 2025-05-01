@@ -1,5 +1,7 @@
 # six-professors-appointed
 
+**Source:** en_news_events/2024/07/six-professors-appointed.html
+
 ## New appointments
 
 (Photograph: © Moritz Drupp)

@@ -1,5 +1,7 @@
 # blog-the-seas-are-in-extremis
 
+**Source:** en_news_events/2023/09/blog-the-seas-are-in-extremis.html
+
 ## In uncharted territory
 
 Record temperatures in the Mediterranean. 1 Huge heat wave in the North Atlantic. 2 The temperature of the oceans at an all-time high. 3 The ocean’s fever chart has been covered in the media since early summer. While this was probably the first time many people in Switzerland had heard of marine heat waves, these reports came as little surprise to me.

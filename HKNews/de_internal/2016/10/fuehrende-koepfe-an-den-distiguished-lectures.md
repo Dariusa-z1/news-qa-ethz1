@@ -1,8 +1,8 @@
 # fuehrende-koepfe-an-den-distiguished-lectures
 
-## Main article
+**Source:** de_internal/2016/10/fuehrende-koepfe-an-den-distiguished-lectures.html
 
-Die D-MAVT Distinguished Lecture Series bringt weltweit führende Wissenschaftler und Ingenieure an die ETH Zürich, um ihre Arbeit im Rahmen eines Kolloquiums vorzustellen und um Kontakte mit dem Fachbereich und Studierenden zu knüpfen und zu pflegen. Das Kolloquium zieht regelmässig eine breite Hörerschaft aus Lehrenden, Mitarbeitenden sowie Master- und Doktoratsstudierenden aus allen Departementen der ETH Zürich an.
+## Main article
 
 Die diesjährigen Redner sind:
 

@@ -1,5 +1,7 @@
 # time-resolved-measurement-in-memory-device
 
+**Source:** en_news_events/2020/02/time-resolved-measurement-in-memory-device.html
+
 ## Magnetising with single spins
 
 At the Department for Materials of the ETH in Zurich, Pietro Gambardella and his collaborators investigate tomorrow’s memory devices. They should be fast, retain data reliably for a long time and also be cheap. So-called magnetic “random access memories” (MRAM) achieve this quadrature of the circle by combining fast switching via electric currents with durable data storage in magnetic materials. A few years ago researchers could already show that a certain physical effect – the spin-orbit torque – makes particularly fast data storage possible. Now Gambardella’s group, together with the R&D-centre IMEC in Belgium, managed to temporally resolve the exact dynamics of a single such storage event – and to use a few tricks to make it even faster.

@@ -1,5 +1,7 @@
 # eine-wirtschaftliche-herstellung-von-klimaneutralem-kunststoff-ist-moeglich
 
+**Source:** de_news_events/2021/09/eine-wirtschaftliche-herstellung-von-klimaneutralem-kunststoff-ist-moeglich.html
+
 ## Vermehrtes Kunststoffrecyling
 
 Seit den frühen 1950er Jahren haben Kunststoffe in fast allen Bereichen des modernen Lebens Einzug gehalten. Infolgedessen hat sich der Kunststoffverbrauch zwischen 1964 und 2014 verzwanzigfacht, von 15 auf 311 Millionen Tonnen pro Jahr. Nicht nur die Umweltverschmutzung mit Kunststoffmüll hat während dieser Zeit zugenommen, auch der Erdölverbrauch der Herstellung ist gross sowie die damit verbundenen Treibhausgasemissionen.

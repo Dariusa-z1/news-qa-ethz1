@@ -1,5 +1,7 @@
 # suche-nach-artikeln-im-wissensportal-erneuert
 
+**Source:** de_internal/2014/10/suche-nach-artikeln-im-wissensportal-erneuert.html
+
 ## Main article
 
 Hierbei werden die Metadaten wissenschaftlicher Informationsressourcen in einer einzigen Suche integriert.

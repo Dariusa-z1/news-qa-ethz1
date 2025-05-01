@@ -1,5 +1,7 @@
 # das-luxusgut-energie
 
+**Source:** de_internal/2014/05/das-luxusgut-energie.html
+
 ## Es gehört dazu
 
 - Bundesamt für Energie (2013). externe SeiteAnalyse des schweizerischen Energieverbrauchscall\_made 2000 - 2012 nach Verwendungszwecken.

@@ -1,5 +1,7 @@
 # graph-analyse-von-textwiederverwendung-in-alten-und-seltenen-buechern
 
+**Source:** en_internal/2022/08/graph-analyse-von-textwiederverwendung-in-alten-und-seltenen-buechern.html
+
 ## Pinpoint the origin of certain text passages with Graph
 
 - Find correlations between books in the graphical visualisation, which can be arranged chronologically and makes it possible to quickly identify works containing many passages that have been reused.

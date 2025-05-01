@@ -1,5 +1,7 @@
 # energie-sparen-mit-der-energy-efficiency-challenge
 
+**Source:** de_news_events/2014/03/energie-sparen-mit-der-energy-efficiency-challenge.html
+
 ## Mehr Gemüse und weniger PET
 
 Der Begriff Nachhaltigkeit erlebt seit einigen Jahren Hochkonjunktur. Kein Unternehmen mehr ohne Nachhaltigkeitsstrategie oder «Corporate Social Responsibility»-Konzept. Doch oft verkommen die anfänglich guten Ideen für mehr Energieeffizienz und weniger Ressourcenverbrauch zu Papiertigern ohne breite Ausstrahlung. Das muss nicht sein, ist der ETH Umweltbeauftragte Dominik Brem überzeugt: «Kleine Verhaltensänderungen im Arbeitsalltag sind der Schlüssel, um die Nachhaltigkeit von Organisationen zu fördern. Wir wollen die ETH-Angehörigen dazu animieren, und zwar indem wir ihren Ehrgeiz wecken und sie dazu ermuntern, ihre Umweltbilanz im Team zu verbessern.»

@@ -1,5 +1,7 @@
 # tarnkappe-fuer-immunzellen
 
+**Source:** de_news_events/2014/06/tarnkappe-fuer-immunzellen.html
+
 ## Interferon als Tarnkappe
 
 Das Immunsystem des Menschen ist sehr komplex. Eine Vielzahl verschiedener Zellen mit unterschiedlichen Funktionen sorgt dafür, dass eindringende Keime wie Viren oder Bakterien rasch unschädlich gemacht werden und der Gesamtorganismus gesund bleibt.
@@ -15,8 +17,6 @@ Was diese davon abhält, die «Kollegen aus der anderen Abteilung» des Immunsys
 ## Literaturhinweis
 
 Aufgezeigt haben die Forscher dies an Mäusen und zwei Modellviren, mit denen sie die Tiere infizierten. Fehlten den CD8+-T-Zellen in Tieren diese Interferon-Rezeptoren, so eliminierten die NK-Zellen nicht nur die virusinfizierten Zellen, sondern auch die Immunzellen, die dagegen vorgehen sollten. Damit schwächt sich das Immunsystem selbst.
-
-Wie genau der Mechanismus funktioniert, untersuchten die Forschenden anhand von Mäusen, deren CD8+-T-Zellen keine Interferon-Rezeptoren haben und bei denen sie zusätzlich die NK-Zellen aus dem Verkehr zogen. Sind keine natürlichen Killer da, teilen, reifen und entfalten sich die T-Zellen trotz ihrer fehlenden Interferon-Wahrnehmung. Die ETH-Immunbiologen entdeckten überdies, dass diese sensorlosen T-Zellen auf ihrer Oberfläche verstärkt eine «Erkennungsmarke» bilden. Diese löst die tödliche Wirkung der NK-Zelle aus, sobald sie in Kontakt damit kommt. Grund für die Überproduktion ist, dass normalerweise das an den Rezeptor angelagerte Interferon die Herstellung der Erkennungsmarke unterdrückt. Fällt diese Kontrolle weg, weil der Rezeptor fehlt, produziert die Zelle grössere Mengen dieses Moleküls.
 
 Bis anhin ist es unklar, ob der gleiche Mechanismus auch beim Menschen existiert. Jedoch dürften die grundlegenden Vorgänge, mit denen das menschliche Immunsystem seine T-Zellen vor dem Zugriff durch Natürliche Killerzellen schützt, vergleichbar sein. Die Forscherinnen und Forscher verstehen nun einerseits, welche Mechanismen die gestressten T-Zellen brauchen, um sich vor NK-Zellen zu schützen. Andererseits erlaubt diese Erkenntnis, neue Hypothesen zu formulieren. So könnte es durchaus möglich sein, dass T-Zellen, die in Abwesenheit von Typ-1-Interferon aktiviert werden, sich als «gestresst» zu erkennen geben und somit abgetötet werden. Solche Situationen könnten beispielsweise bei der Aktivierung von autoimmun-reaktiven T-Zellen entstehen oder während chronischer mikrobieller Infektionen. In beiden Fällen werden T-Zellen aktiviert, obwohl keine hohen Konzentrationen an Typ-1-Interferon vorliegen. «Diese spannenden Hypothesen werden wir mit grossem Interesse in den kommenden Jahren testen», betont die ETH-Professorin.
 

@@ -1,5 +1,7 @@
 # nachhaltigkeit-naeherbringen-und-weitergeben
 
+**Source:** de_internal/2023/02/nachhaltigkeit-naeherbringen-und-weitergeben.html
+
 ## Engagiert für die Zukunft
 
 Beim Studienantritt weiss man nicht, was die Zukunft bringt. Und auch danach werden Vorhersagen nicht einfacher. Wer hat schon die COVID-19-Pandemie oder den aktuellen Krieg in Europa vorausgesehen? Wer hat die Auswirkungen solcher Vorkommnisse auf das Studium und die Arbeitswelt geahnt? Immerhin, was wir sicher wissen: Unser Klima verändert sich. Es stellt sich die Frage: Wie können Studierende diese Krise angehen?

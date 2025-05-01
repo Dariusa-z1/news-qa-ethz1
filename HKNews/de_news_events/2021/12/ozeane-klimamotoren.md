@@ -1,5 +1,7 @@
 # ozeane-klimamotoren
 
+**Source:** de_news_events/2021/12/ozeane-klimamotoren.html
+
 ## Zur Person
 
 Was hat Sie als Ozeanographin nach Zürich gezogen, so weit weg vom Meer? Die ETH Zürich verfügt über eine der wenigen Maschinen weltweit, die in der Lage sind, Umweltradioaktivität zu messen. Diese Beschleuniger-Massenspektrometer können Radioisotope im Meerwasser bereits zählen, wenn darin nur einige wenige Atome enthalten sind. Wir setzen sie ein, um sehr langlebige Radionuklide zu messen, die entweder auf natürlichem Weg oder durch menschliches Zutun ins Meer gelangt sind.
@@ -15,6 +17,8 @@ Der Europäische Forschungsrat (ERC) finanziert Ihr aktuelles Projekt Titanica. 
 Welche persönlichen Eigenschaften sind für die Arbeit in der Arktis wichtig? Motivation und Begeisterung. Zwei bis drei Monate im Arktischen Ozean, oft ohne Internetzugang und in einer der abgelegensten Gegenden der Erde, sind sicherlich ein einzigartiges Abenteuer, erfordern aber auch enorme mentale und körperliche Stärke. Wenn wir zurückkommen, fühlen wir uns alle wie andere Menschen.
 
 Núria Casacuberta Arola ist Assistenzprofessorin für Physikalische Ozeanographie am Departement für Umweltsystemwissenschaften.
+
+Ausgabe als PDF lesen (PDF, 16.3 MB)
 
 Ausgabe online lesen
 

@@ -1,5 +1,7 @@
 # 3d-fuer-alle
 
+**Source:** de_news_events/2015/06/3d-fuer-alle.html
+
 ## Community für den Erfahrungsaustausch
 
 «Das Potenzial des 3D-Drucks ist noch lange nicht ausgeschöpft, die richtige Nutzung der Technologie steht noch ganz am Anfang», davon ist Mirko Meboldt, Professor für Produktentwicklung und Konstruktion am Institut für Design, Materialien und Fabrikation, überzeugt. Woran es vor allem fehlt, sind Anwendungsfelder für den 3D-Druck. Denn obwohl die Technologie seit 30 Jahren bekannt ist, führte sie lange ein Nischendasein. Erst als die Medien die Technik des «Additive Manufacturing» unter dem Begriff «3D-Druck» einer breiteren Öffentlichkeit vorstellten, nahm ihre Verbreitung zu. Mittlerweile gibt es solche Drucker selbst im Elektromarkt für den Privatgebrauch zu kaufen.
@@ -23,6 +25,4 @@ Die neue Plattform funktioniert so: Die 3D-Drucker der ETH sowie 300 externe Lie
 Am 23. September 2015 findet der Kick-off-Event für die ETH Additive Manufacturing Community im ETH Hauptgebäude statt. Die Veranstaltung bietet einen ersten Überblick über die Aktivitäten rund um den 3D-Druck an der ETH. Beginn ist um 15 Uhr; ab 17 Uhr Apéro und Gelegenheit zum Networking und Erfahrungsaustausch.
 
 Sie interessieren sich für Additive Manufacturing / 3D-Druck? Melden Sie sich jetzt via Mail an:
-
-Sie möchten zum Kick-off Event beitragen? Kontaktieren Sie uns und stellen Sie Ihr 3D-Druck-Projekt kurz vor:
 

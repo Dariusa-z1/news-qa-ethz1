@@ -1,5 +1,7 @@
 # neues-restaurant-auf-dem-hoenggerberg
 
+**Source:** de_internal/2016/10/neues-restaurant-auf-dem-hoenggerberg.html
+
 ## Main article
 
 Das Restaurant im freistehenden Neubau-Pavillon HGP auf dem Campus Hönggerberg bietet eine Aussicht über das Gebiet rund um Zürich-Affoltern und eine gehobene À-la-carte-Küche. Am Mittag stehen unter anderem verschiedene 3-Gang-Menüs zur Auswahl. Neben dem klassischen Gastraum gibt es einen Bereich mit Hochtischen sowie eine Lounge mit Fauteuils und tieferen Tischen. Bei trockenem Wetter werden die Gäste auch auf der Terrasse bewirtet. Abgerundet wird das Angebot durch eine von 9 bis 21 Uhr geöffnete Bar, welche warme und kalte Getränke sowie Snacks anbietet. Caterer ist der ZFV, der auch den Uniturm der Universität Zürich führt.

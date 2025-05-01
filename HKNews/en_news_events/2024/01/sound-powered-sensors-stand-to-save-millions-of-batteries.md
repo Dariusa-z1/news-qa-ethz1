@@ -1,5 +1,7 @@
 # sound-powered-sensors-stand-to-save-millions-of-batteries
 
+**Source:** en_news_events/2024/01/sound-powered-sensors-stand-to-save-millions-of-batteries.html
+
 ## In brief
 
 - Researchers are developing a new type of sensor that reacts to certain sound waves, causing it to vibrate.

@@ -1,5 +1,7 @@
 # referenzwerk-fuer-forschung-und-innovation-in-der-schweiz
 
+**Source:** de_internal/2016/04/referenzwerk-fuer-forschung-und-innovation-in-der-schweiz.html
+
 ## Main article
 
 Bundespräsident Johann N. Schneider-Ammann. (Bild: ETH Zürich / Alessandro Della Bella)

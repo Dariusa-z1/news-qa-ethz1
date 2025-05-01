@@ -1,5 +1,7 @@
 # forschungsfoerderung-zur-bewaeltigung-globaler-herausforderungen
 
+**Source:** de_internal/2024/03/forschungsfoerderung-zur-bewaeltigung-globaler-herausforderungen.html
+
 ## 25 Kollaborative Forschungsprojekte gegen Armut
 
 Trotz beispielloser Fortschritte bei der Armutsbekämpfung in den letzten 25 Jahren lebt immer noch über die Hälfte der Weltbevölkerung von weniger als 10 Dollar pro Tag – ohne angemessenen Zugang zu Nahrung, Trinkwasser, Strom, Mobilität und anderen grundlegenden Dienstleistungen. Dabei bleibt ein Grossteil des Potenzials technologischer Innovation für die Bewältigung globaler Armut bislang ungenutzt.

@@ -1,5 +1,7 @@
 # special-e-bike-rates-for-members-of-the-eth-community
 
+**Source:** en_internal/2022/05/special-e-bike-rates-for-members-of-the-eth-community.html
+
 ## Book through the app
 
 The provider Urban Connect has installed a fleet of 25 high-quality e-bikes as well as an e-cargo bike in stations at four ETH Zurich buildings. The hirable electric bikes and their charging stations are located on the Hönggerberg campus near the HCI office and lab building (“ Fünffinger dock ”), on the Zentrum campus near the CHN building (Universitätstrasse 8- 22, easily accessible from the ETH/Universitätsspital and Haldenbach tram stops), and near ETH’s ONA and Octavo buildings in Zurich-Oerlikon.

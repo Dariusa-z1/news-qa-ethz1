@@ -1,5 +1,7 @@
 # informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-1-oktober-2020
 
+**Source:** de_internal/2020/09/informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-1-oktober-2020.html
+
 ## Maskenpflicht
 
 - ETH-Bibliothek Hauptgebäude (InfoCenter): Mo–Fr 8.00–22.00, Sa und So 9.00–17.00
@@ -42,13 +44,9 @@ Im Herbst finden zahlreiche Veranstaltungen statt, aufgrund der Schutzmassnahmen
 
 ## Staffnet
 
-Nutzen Sie gerne auch weiterhin unsere digitalen Angebote und Kontaktmöglichkeiten . Verzichten Sie bitte auf einen Besuch, falls Sie zu einer Risikogruppe gehören oder Krankheitssymptome aufweisen.
-
-## Newsletter abonnieren
-
 Fragen? Die ETH-Bibliothek hilft gerne.
 
-E-Mail: Sie können uns auch über externe Seite WhatsApp und unseren Chat kontaktieren.
+## Newsletter abonnieren
 
 #MehrWissen – Die aufbereiteten Inhalte der ETH-Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter.
 

@@ -1,5 +1,7 @@
 # die-schulleitung-informiert-2022-5
 
+**Source:** de_internal/2022/06/die-schulleitung-informiert-2022-5.html
+
 ## Sozial- und Leadershipkompetenzen für ETH-Mitarbeitende
 
 - Verantwortungsbewusst handeln

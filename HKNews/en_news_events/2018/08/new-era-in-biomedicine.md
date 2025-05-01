@@ -1,5 +1,7 @@
 # new-era-in-biomedicine
 
+**Source:** en_news_events/2018/08/new-era-in-biomedicine.html
+
 ## Significant breakthrough
 
 Proteins play a central role in almost all biological processes. However, if you want to more accurately understand how these generally very complex molecules interact with other compounds, you have to know how they are constructed, what structure they have – and above all, what state they are in when they react with other molecules. But these key questions previously proved to be almost unanswerable, as these often very sensitive compounds, which continually change their form in cells, cannot be examined using a conventional electron microscope without causing changes in the structure that affect the validity of the measurements.

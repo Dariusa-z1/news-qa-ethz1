@@ -1,5 +1,7 @@
 # we-have-grown-more-realistic
 
+**Source:** en_news_events/2021/09/we-have-grown-more-realistic.html
+
 ## Main article
 
 Ms Günther, Mr Brugger, the NADEL Center for Development and Cooperation is celebrating its 50th anniversary. How has the general understanding of development aid changed since the centre was founded?
@@ -39,8 +41,6 @@ Günther: We conduct empirical research on technologies and policies that fight 
 What’s your personal relationship with NADEL?
 
 Brugger: It’s very exciting to be working at the intersection between research and the real world, particularly in an era when international cooperation is undergoing a transformation and bringing in new actors. I’ve also benefitted from working in this field myself for so long and for so many different players.
-
-Günther: It’s unbelievably fulfilling to be able to shape a curriculum that graduates can then go on to use to promote sustainability and justice around the world. We are also in contact with many of our alumni and learn a lot from them.
 
 If NADEL didn’t exist, would it make sense to found it at ETH today?
 

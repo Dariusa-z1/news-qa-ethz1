@@ -1,5 +1,7 @@
 # sollte-man-die-geschenketradition-zu-weihnachten-abschaffen
 
+**Source:** de_internal/2021/10/sollte-man-die-geschenketradition-zu-weihnachten-abschaffen.html
+
 ## Main article
 
 In ein paar Wochen geht es wieder los: Glühweinstände, Lichterketten und Menschen im Kaufrausch, wohin das Auge reicht. Denn die Adventszeit geht in vielen Familien nach wie vor mit den Fragen einher «Was schenke ich meinen Liebsten? Und was wünsche ich mir selbst?»

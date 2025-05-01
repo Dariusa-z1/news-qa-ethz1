@@ -1,5 +1,7 @@
 # focus-what-ends-up-on-our-shelves
 
+**Source:** en_news_events/2013/09/focus-what-ends-up-on-our-shelves.html
+
 ## Main article
 
 Dr Sibyl Anwander, Head of Public Affairs and Sustainability at Coop, Michael Siegrist, Professor of Consumer Behaviour and Achim Walter, Professor of Crop Science at ETH Zurich offer us answers.
@@ -85,6 +87,8 @@ Walter: Distinctions have to be made between different world regions when it com
 Anwander: For me, what’s far more worrying is that today we only use a small part of an animal. In the past, everything was eaten – from the calf’s head to the pig’s tail – or turned into specialties. Today, we only use the hindquarters or fillet from a cow. This is a luxury that is scarcely mentioned at all. From the ecological angle this is even more worrying, because the conversion of plant into animal protein already entails a major loss of efficiency.
 
 What impact does globalisation have on meat consumption?
+
+Siegrist: Meat consumption is bound to increase across the globe. In countries that are undergoing economic development, consumption is rising even if it’s still on a low level. But given the large number of people who can now afford to buy meat, this has a major impact on demand. Nor is there any reason to believe that this is going to change. People rarely forego meat willingly.
 
 Genetically modified products are another topic that is the subject of controversy. Will the Swiss population accept them in future?
 

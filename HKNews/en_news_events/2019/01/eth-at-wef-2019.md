@@ -1,5 +1,7 @@
 # eth-at-wef-2019
 
+**Source:** en_news_events/2019/01/eth-at-wef-2019.html
+
 ## Design – from a scientific viewpoint
 
 “That’s just how I started!” says one of the first eyewitnesses of what may be the world’s first ice-skating robot. ETH’s four-legged Skaterbot, which is about the size of a cat, taught itself to move on skates and thus has a very unique style. It meanders slowly but not inelegantly over the ice in front of ETH’s pavilion in Davos. The Skaterbot is definitely the star of ETH’s third visit to the World Economic Forum’s annual meeting. However, there are plenty of other highlights too.

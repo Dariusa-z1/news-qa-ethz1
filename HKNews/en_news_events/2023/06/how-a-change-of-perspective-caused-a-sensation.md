@@ -1,5 +1,7 @@
 # how-a-change-of-perspective-caused-a-sensation
 
+**Source:** en_news_events/2023/06/how-a-change-of-perspective-caused-a-sensation.html
+
 ## Minimising costs
 
 Inverse problems are Yunan Yang’s specialty. “Our everyday life is full of them,” she explains. “Ultrasound, for example, is an inverse problem.” Medical ultrasound devices emit sound waves outside our range of hearing that travel through the body and then record the reflected waves. A software program processes the wave signals and shows what’s going on in the body. “Deriving the image of a baby from the waves is an inverse problem,” says the 32-year-old mathematician, who has been an Advanced Fellow at the ETH Institute for Theoretical Studies (ETH-ITS) since January 2022. “I grew up in China and then lived in the US for eight years, but I’d never lived in Europe,” Yang says. “That’s why I wanted to come to Zurich and collaborate with researchers across the Continent.”

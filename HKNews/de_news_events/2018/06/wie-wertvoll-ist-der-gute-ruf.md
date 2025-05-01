@@ -1,5 +1,7 @@
 # wie-wertvoll-ist-der-gute-ruf
 
+**Source:** de_news_events/2018/06/wie-wertvoll-ist-der-gute-ruf.html
+
 ## Die Bedeutung des guten Rufs
 
 - Master Management, Technologie und Ökonomie

@@ -1,5 +1,7 @@
 # hindernisfreiheit-ist-eine-daueraufgabe
 
+**Source:** de_internal/2024/05/hindernisfreiheit-ist-eine-daueraufgabe.html
+
 ## Hindernisfreiheit: Darum geht’s
 
 - Kursangebot und Sensibilisierungsworkshops

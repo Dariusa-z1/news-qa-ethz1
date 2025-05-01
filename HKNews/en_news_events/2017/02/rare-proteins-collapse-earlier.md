@@ -1,5 +1,7 @@
 # rare-proteins-collapse-earlier
 
+**Source:** en_news_events/2017/02/rare-proteins-collapse-earlier.html
+
 ## Denaturation in one fell swoop?
 
 Crack open an egg, let it slide into a hot frying pan and almost immediately the transparent and slippery egg white becomes white and firm. What you casually observe when frying an egg is an important biochemical phenomenon called protein denaturation.

@@ -1,5 +1,7 @@
 # holiday-reading
 
+**Source:** en_internal/2021/06/holiday-reading.html
+
 ## Further recommendations by ETH members
 
 - A Brief History of Time by Stephen Hawking – Christian Thurn, doctoral student from D-GESS
@@ -65,6 +67,8 @@
 This article is a continuation of an article in the current "life" magazine
 
 ## Subscribe to Newsletter
+
+the latest issue of "life" (PDF, 5.2 MB)
 
 ## Staffnet
 

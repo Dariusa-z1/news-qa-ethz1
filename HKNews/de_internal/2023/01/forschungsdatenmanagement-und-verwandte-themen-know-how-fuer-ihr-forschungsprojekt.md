@@ -1,5 +1,7 @@
 # forschungsdatenmanagement-und-verwandte-themen-know-how-fuer-ihr-forschungsprojekt
 
+**Source:** de_internal/2023/01/forschungsdatenmanagement-und-verwandte-themen-know-how-fuer-ihr-forschungsprojekt.html
+
 ## Anmeldung und weitere Informationen
 
 Die Workshop-​Reihe im März, April und Mai 2023 ist in sieben individuelle Workshops unterteilt. Die ersten sechs bauen aufeinander auf.

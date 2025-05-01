@@ -1,5 +1,7 @@
 # ruecktritt-nach-acht-jahren-einsatz-fuer-die-forschung
 
+**Source:** de_internal/2022/04/ruecktritt-nach-acht-jahren-einsatz-fuer-die-forschung.html
+
 ## Leidenschaft für die Forschung an der ETH
 
 Nach zwei Amtsperioden hat sich Detlef Günther entschieden, per 31.12.2022 seine Funktion als Vizepräsident für Forschung niederzulegen, in seine noch aktive Forschungsgruppe am Departement für Chemie und angewandte Biowissenschaften (D-CHAB) zurückzukehren und sich damit wieder voll der Lehre und der eigenen Forschung zu widmen. «Es ist jetzt der richtige Zeitpunkt, um noch einmal spannende Entwicklungen in der Forschung der analytischen Chemie mitzugestalten», sagt Detlef Günther. «Ich möchte mit meinen Doktorierenden noch ein paar neue Forschungsideen umsetzen.»

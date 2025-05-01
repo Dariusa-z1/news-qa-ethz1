@@ -1,5 +1,7 @@
 # duenger-klimafreundlicher-produzieren
 
+**Source:** de_news_events/2022/12/duenger-klimafreundlicher-produzieren.html
+
 ## Indien und China gefährdet
 
 Eine intensive Landwirtschaft ist nur möglich, wenn die Böden mit Stickstoff, Phosphor und Kalium gedüngt werden. Während Phosphor und Kalium als Salze abgebaut werden können, muss Stickstoffdünger aufwändig aus Stickstoff aus der Luft und aus Wasserstoff hergestellt werden, wobei die Produktion von Wasserstoff äusserst energieintensiv ist. Es werden dazu grosse Mengen an Erdgas oder – vor allem in China – Kohle benötigt. Entsprechend gross ist der CO 2 -Fussabdruck, die Abhängigkeit von fossiler Energie und somit auch die Anfälligkeit auf Preisschocks auf den Energiemärkten.

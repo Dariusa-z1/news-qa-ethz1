@@ -1,5 +1,7 @@
 # ernaehrungssicherheit-dank-faekalien-und-abfall
 
+**Source:** de_news_events/2022/11/ernaehrungssicherheit-dank-faekalien-und-abfall.html
+
 ## Kompost aus Fäkalien und Gartenabfällen
 
 Rund 250 Millionen Afrikaner:innen, jeder fünfte Mensch auf dem zweitgrössten Kontinent, leidet an Hunger oder Unterernährung. Ein Grund dafür ist, dass den landwirtschaftlich genutzten Böden nicht genug Nährstoffe zugeführt werden und dadurch die Erträge sinken. Gleichzeitig haben viele Städte in Subsahara-Afrika ein Problem mit der Abwasser- und Abfallentsorgung. Die sanitäre Infrastruktur ist der rasanten Verstädterung oft nicht gewachsen.

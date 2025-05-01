@@ -1,5 +1,7 @@
 # gesucht-namen-fuer-exoplaneten
 
+**Source:** de_news_events/2014/07/gesucht-namen-fuer-exoplaneten.html
+
 ## Main article
 
 ETH-News fragte Kevin Schawinski, Professor für Astrophysik und Mitinitiant der Citizen Science-Plattform, und Sascha Patrick Quanz, der als Senior Scientist selber Exoplaneten erforscht, was sie von der Idee halten.

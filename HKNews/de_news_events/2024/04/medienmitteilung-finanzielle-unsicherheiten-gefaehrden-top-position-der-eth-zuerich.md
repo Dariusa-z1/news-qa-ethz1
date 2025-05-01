@@ -1,5 +1,7 @@
 # medienmitteilung-finanzielle-unsicherheiten-gefaehrden-top-position-der-eth-zuerich
 
+**Source:** de_news_events/2024/04/medienmitteilung-finanzielle-unsicherheiten-gefaehrden-top-position-der-eth-zuerich.html
+
 ## Ende 2025 gehen die freien Reserven aus
 
 - Beschränkung des Studierendenwachstums z.B. über die Einführung einer Studienplatzbeschränkung

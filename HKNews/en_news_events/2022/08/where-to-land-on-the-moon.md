@@ -1,5 +1,7 @@
 # where-to-land-on-the-moon
 
+**Source:** en_news_events/2022/08/where-to-land-on-the-moon.html
+
 ## The fascinating potential of ice
 
 It was 1972 when the last humans landed on the Moon. The Apollo programme was discontinued thereafter. But interest in the Moon has been rekindled. With China having landed a robot – and raised its flag – on the far side of the Moon in 2020, NASA is planning for its Artemis programme to land in the lunar south pole region, probably between 2025 and 2028. Astronauts will then concentrate their exploration in this area.

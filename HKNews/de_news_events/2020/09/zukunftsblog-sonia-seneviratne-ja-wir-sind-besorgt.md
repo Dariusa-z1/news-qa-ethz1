@@ -1,5 +1,7 @@
 # zukunftsblog-sonia-seneviratne-ja-wir-sind-besorgt
 
+**Source:** de_news_events/2020/09/zukunftsblog-sonia-seneviratne-ja-wir-sind-besorgt.html
+
 ## Grössere Tragweite des Prozesses
 
 Im Januar sorgte ein Urteil des Bezirksgerichts in Renens bei Lausanne weltweit für Aufsehen: Es sprach 12 Klimaaktivisten frei, die im November 2018 in einer Filiale der Credit Suisse Tennis gespielt hatten. Ihr illegales, aber gewaltfreies Vorgehen nahm Bezug auf den Tennisprofi Roger Federer, der von der Grossbank gesponsert wird. Die Aktivisten wollten darauf aufmerksam machen, dass die Credit Suisse seit der Verabschiedung des Pariser Klimaabkommens im Dezember 2015 weiterhin erhebliche Investitionen in fossile Brennstoffe getätigt und damit zur Verschärfung der Klimakrise beigetragen hat 1 . Die erste Instanz folgte den 13 Anwälten, welche die Aktivisten pro bono verteidigten und argumentierten, dass diese aus einem Notstand («état de nécessité») heraus gehandelt hätten, in dem eine Person gezwungen ist, das Gesetz zu brechen, um ein höheres Gut zu schützen.
@@ -29,6 +31,10 @@ Viele Menschen, vor allem junge, sind der Meinung, dass die Wissenschaft derzeit
 1 externe Seite Swissinfo: 1900 Mrd. Fr. – so viel haben Banken in "dreckige Energie" investiert
 
 2 Sonia Seneviratne im Zukunftsblog: Klimakurs auf 1,5 Grad setzten
+
+3 Öffentlicher Brief von Klimaforschenden
+
+Öffentlicher Brief von Klimaforschenden (französisch)
 
 4 externe Seite Erster Sachstandsbericht des IPCC 1990
 

@@ -1,5 +1,7 @@
 # new-search-portal-for-library-resources
 
+**Source:** en_internal/2018/05/new-search-portal-for-library-resources.html
+
 ## Main article
 
 The following functionalities organise your searches and access to the library’s resources more efficiently:

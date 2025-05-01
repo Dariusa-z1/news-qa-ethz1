@@ -1,5 +1,7 @@
 # gendergerechte-sprache
 
+**Source:** de_internal/2020/12/gendergerechte-sprache.html
+
 ## Pro
 
 Franziska Schmid, Leiterin Medienstelle (Illustration: Kornel Stadler)

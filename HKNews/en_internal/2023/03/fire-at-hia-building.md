@@ -1,5 +1,7 @@
 # fire-at-hia-building
 
+**Source:** en_internal/2023/03/fire-at-hia-building.html
+
 ## Main article
 
 A fire broke out in a van in the delivery area of the HIA building (hydraulic engineering research/laboratory building) on the Hönggerberg campus today afternoon. The fire brigade was able to extinguish the fire quickly and assumes that it was caused by an engine fire.

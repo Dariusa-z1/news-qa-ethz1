@@ -1,5 +1,7 @@
 # strong-performance-high-expectations
 
+**Source:** en_news_events/2013/12/strong-performance-high-expectations.html
+
 ## Large sum of research funds
 
 University rankings are often a subject for debate, but they are nevertheless used internationally as indicators for universities’ success. “A university is more than just a number”, said Ralph Eichler in his presentation. This year, ETH Zurich is again among the leading universities and remains the best in continental Europe according to various rankings.
@@ -43,4 +45,6 @@ The Executive board also initiated a compliance guide. “We want this to streng
 For 2014, the Executive Board plans to further expand the great reputation of ETH Zurich in order to continue to attract excellent students and highly qualified experts from teaching and research. The Board also plans to strengthen ETH’s current research in order to develop “proposals to answer the pressing questions of our time”, said the President. After 2014, which will be his last year in office, he wants to hand over a prospering university to his successor, Lino Guzzella.
 
 This year, Ulrike Lohmann, Professor at the Institute for Atmospheric and Climate Science, was awarded the Golden Tricycle . Every year since 2007, this award is given by the Academic Association of Scientific Staff (AVETH) and the office for equal opportunities (Equal!) to leaders who create working conditions that help employees find a good balance between work and family. Martin Sack, the representative of the AVETH, emphasised in his laudatory speech that Ulrike Lohmann finds individual solutions together with her employees. Some of her alumni have started great careers at MIT and Yale, which shows that Lohmann’s family-friendly leadership style is by no means to the detriment of the staff’s research activities.
+
+An article introducing the winner of the Golden Tricycle, Ulrike Lohmann, can be found in the latest edition of “life” magazine, which appears this week. You can also read it here (PDF, 1.1 MB) .
 

@@ -1,5 +1,7 @@
 # globe-ein-grosser-schritt-in-der-gelenkforschung
 
+**Source:** de_news_events/2023/12/globe-ein-grosser-schritt-in-der-gelenkforschung.html
+
 ## Einzigartige Messeinheit
 
 «Das Knie ist das spannendste und gleichzeitig komplexeste Gelenk des menschlichen Körpers», sagt Bill Taylor, Professor für Bewegungsbiomechanik am Departement für Gesundheitswissenschaften und Technologie. «Es gibt enorme Beschleunigungen, komplexe Bewegungsmuster und hohe Belastungen.» Seine Leidenschaft für dieses Gelenk hat er bereits vor 20 Jahren entdeckt. Und er hat sich zum ambitionierten Ziel gesetzt, die Funktionsweise des Knies vollumfänglich zu verstehen: «Nur wenn wir wissen, wie das Gelenk belastet wird und welche Bewegungsmuster existieren, können wir verstehen, warum ein Gelenk steif, Knorpel abgebaut wird oder Schmerzen entstehen.»
@@ -25,4 +27,6 @@ Die Nähe zu Kliniken und anderen Forschungseinrichtungen bringt Bill Taylor vie
 Bill Taylor denkt aber bereits viel weiter: Er möchte die heute schon niedrigen Strahlungswerte der bildgebenden Geräte noch weiter reduzieren. So liesse sich die Technologie nicht nur auf periphere Gelenke wie das Knie anwenden, sondern auch auf sensiblere Körperteile wie die Schulter oder die Wirbelsäule. Erste Kliniken melden bereits Interesse.
 
 Bill Taylor ist Professor für Bewegungsbiomechanik am Departement für Gesundheitswissenschaften und Technologie der ETH Zürich.
+
+Ganze Ausgabe lesen (PDF, 3.7 MB)
 

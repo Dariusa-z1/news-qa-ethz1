@@ -1,5 +1,7 @@
 # entdecken-sie-die-welt-von-thomas-mann-in-kommenden-ausstellungen
 
+**Source:** en_internal/2023/01/entdecken-sie-die-welt-von-thomas-mann-in-kommenden-ausstellungen.html
+
 ## Main article
 
 In the permanent exhibition, “The Furnishings of a Writer. Thomas Mann and his study”, you can learn more about the creative environment and other aspects that influenced Mann’s writing. Highlights include his famous desk, which accompanied him into exile, his private library and various objects from different cultures.

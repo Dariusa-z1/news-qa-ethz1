@@ -1,5 +1,7 @@
 # new-physics-lessons-help-girls-catch-up
 
+**Source:** en_news_events/2018/03/new-physics-lessons-help-girls-catch-up.html
+
 ## Targeted failure
 
 What is the difference between mass and weight? How is force defined in physics? Very few school pupils can properly explain fundamental physics concepts, not even the most intelligent. The problem is not with the pupils, says Elsbeth Stern, Professor of Empirical Learning and Instruction Research at ETH Zurich: “Our research shows that when good students don’t understand physics, it’s mostly due to the teaching methods.”

@@ -1,5 +1,7 @@
 # messen-wohin-piloten-blicken
 
+**Source:** de_news_events/2019/11/messen-wohin-piloten-blicken.html
+
 ## Sehen, was die Pilotin sieht
 
 Wer schon einmal in einem Cockpit sass, weiss: Ein Flugzeug steuern ist geistig anspruchsvoll. Denn beim Fliegen müssen Pilotinnen und Co-Piloten eine enorme Menge an visuellen, akustischen und räumlichen Informationen verarbeiten. Fordernd ist, laufend die zahlreichen Instrumente im Cockpit zu überwachen. Bei einem Manöver gilt es, rasch die richtigen Anzeigen und das oft in einer bestimmten Reihenfolge zu beachten.

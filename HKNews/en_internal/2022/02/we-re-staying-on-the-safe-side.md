@@ -1,5 +1,7 @@
 # we-re-staying-on-the-safe-side
 
+**Source:** en_internal/2022/02/we-re-staying-on-the-safe-side.html
+
 ## Continuing caution
 
 With the Federal Council now lifting all coronavirus measures (with the exception of self-quarantine and the requirement to continue to wear masks on public transport and in healthcare settings), ETH Zurich is returning to largely unrestricted operations effective immediately. “We are staying on the safe side for the first few weeks, however,” says Vice President Ueli Weidmann, head of the Crisis Management team, in reference to the new measures that go into effect at the beginning of the semester.
@@ -46,9 +48,5 @@ The new rules are in place until further notice, which is likely until the Feder
 
 “I hope that by the end of March at the latest, we will be able to transition to normal operations that are no longer permanently defined by the pandemic,” says Weidmann.
 
-* Anyone with symptoms should not come to work and should take a COVID test.
-
-* Anyone who has tested positive should self-quarantine according to federal government guidelines.
-
-* Anyone who has been in close contact with someone who has tested positive should work from home for 10 days if possible and should get tested between the third and fifth day after the contact occurred. Otherwise, always wear a mask and avoid coming into close contact with others.
+You can find the detailed coronavirus rules for working and studying in the latest version of the master plan (PDF, 766 KB) .
 

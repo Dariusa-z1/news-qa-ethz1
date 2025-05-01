@@ -1,5 +1,7 @@
 # executive-board-reports-2019-7
 
+**Source:** en_internal/2019/12/executive-board-reports-2019-7.html
+
 ## New competence centre for rehabilitation
 
 From 1 January 2020, ETH will operate a new competence centre: research and teaching in the Rehabilitation Engineering and Science Center (RESC) will aim to improve health rehabilitation and quality of life for people with physical disabilities. To this end, a new Master’s programme will be established, eight additional professorships in the field of rehabilitation sciences created and public relations work further intensified with the Cybathlon 2020 as the next milestone. “The networking of research, education and public relations work in the field of rehabilitation is a task that is becoming increasingly relevant to society. That is why we are investing in this field.” Detlef Günther, ETH Vice President Research and Corporate Relations The RESC will be responsible for coordinating these efforts in research, teaching and outreach. The centre, located in the Department of Health Sciences, will link 28 ETH professors from nine departments and eight associated RESC members from University Hospital Zurich, Balgrist University Hospital, University Children’s Hospital Zurich and the Schulthess Clinic. Robert Riener is the designated head of the RESC.

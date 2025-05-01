@@ -1,5 +1,7 @@
 # nanokristall-solarzellen-besser-verstehen
 
+**Source:** de_news_events/2015/01/nanokristall-solarzellen-besser-verstehen.html
+
 ## Vielversprechend wegen Quanteneffekten
 
 Für die nächste Generation von Solarzellen stehen bei Wissenschaftlern wenige Nanometer kleine Kristalle hoch im Kurs. Aus solchen Nanokristallen aufgebaute Halbleiter haben vorzügliche optische Eigenschaften; sie nutzen im Vergleich zu heutigen Solarzellen aus Silizium einen viel grösseren Anteil des Sonnenlicht-Spektrums. Allerdings gibt es Hürden bei ihrer Entwicklung: «Nanokristall-Solarzellen bestehen aus einer Vielzahl unabhängiger Kristalle verbunden mit einem molekularen Bindemittel. Und innerhalb dieses Kompositmaterials fliessen die Elektronen noch nicht so gut, wie das für eine kommerzielle Anwendung nötig wäre», sagt Vanessa Wood, Professorin für Materialien und Komponenten an der ETH Zürich. Bis jetzt sei die Physik des Ladungstransportes in Nanokristall-Kompositen noch nicht komplett verstanden, weshalb die systematische Weiterentwicklung von Nanokristall-Kompositen schwierig war.

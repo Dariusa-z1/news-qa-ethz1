@@ -1,5 +1,7 @@
 # informationen-zu-corona-regelungen-an-der-eth-bibliothek-ab-dem-21-februar-2022
 
+**Source:** de_internal/2022/02/informationen-zu-corona-regelungen-an-der-eth-bibliothek-ab-dem-21-februar-2022.html
+
 ## Services
 
 - Der Lesesaal Sammlungen und Archive sowie die Ausstellung des Max Frisch-Archivs sind regulär Mo–Fr von 10.00–17.00 Uhr offen, für den Lesesaal wird um Voranmeldung gebeten.
@@ -22,13 +24,9 @@ In allen ETH-Gebäuden gilt die Pflicht zum Tragen einer Maske . Dies gilt auch 
 
 ## Fragen? Die ETH-Bibliothek hilft gerne.
 
-Nutzen Sie gerne auch weiterhin unsere digitalen Angebote und Kontaktmöglichkeiten . Verzichten Sie bitte auf einen Besuch, falls Sie Krankheitssymptome aufweisen.
+#MehrWissen – Die aufbereiteten Inhalte der ETH-​Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter.
 
 ## Staffnet
 
-E-Mail: Sie können uns auch über externe Seite WhatsApp und unseren Chat kontaktieren.
-
 ## Newsletter abonnieren
-
-#MehrWissen – Die aufbereiteten Inhalte der ETH-​Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter.
 

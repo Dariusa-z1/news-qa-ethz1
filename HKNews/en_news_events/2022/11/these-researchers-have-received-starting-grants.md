@@ -1,5 +1,7 @@
 # these-researchers-have-received-starting-grants
 
+**Source:** en_news_events/2022/11/these-researchers-have-received-starting-grants.html
+
 ## Main article
 
 The Swiss National Science Foundation (SNSF) has awarded nine SNSF Starting Grants to researchers who plan to carry out their projects at ETH Zurich starting next year. A total of 15.8 million Swiss francs is expected to flow to ETH Zurich.

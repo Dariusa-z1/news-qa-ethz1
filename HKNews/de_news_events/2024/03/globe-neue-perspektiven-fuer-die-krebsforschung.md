@@ -1,5 +1,7 @@
 # globe-neue-perspektiven-fuer-die-krebsforschung
 
+**Source:** de_news_events/2024/03/globe-neue-perspektiven-fuer-die-krebsforschung.html
+
 ## Tumorform ist entscheidend
 
 Eigentlich erforscht Dagmar Iber mit ihrer Gruppe im Labor und mit Computermodellen, wie sich aus Zellen und ihrer Erbinformation komplexe dreidimensionale Gewebe und Organe bilden. Krebsforschung hat die ETH-Professorin für rechnergestützte Biologie am Departement Biosysteme in Basel bis vor Kurzem nicht betrieben. Das änderte sich mit einem Aufruf des ETH-Rats, Forschungsgesuche einzureichen, in denen Grundlagenforschende zusammen mit Medizinerinnen und Medizinern neue Forschungsfragen zu Gesundheitsthemen bearbeiten.
@@ -39,4 +41,6 @@ Bei stärkeren Veränderungen der relativen Steifigkeit hingegen bleibt die Ober
 Diese Hinweise könnten der Krebsforschung neue Perspektiven eröffnen und sie in eine neue Richtung lenken. Denn ein Grossteil der Krebsforschung konzentriert sich darauf, das Wachstum von Krebszellen zu hemmen oder abzutöten. «Unsere Forschung zeigt einmal mehr, dass nicht nur das Zellwachstum relevant ist, sondern auch die Mechanik des Gewebes», sagt Iber. Zellen scheiden Proteinfasern und Enzyme aus, mit denen sie ihre unmittelbare Umgebung, die extrazelluläre Matrix, beeinflussen und verändern. «Wir sollten die Biomechanik und die Signalwege, welche sie beeinflussen, in der Krebsforschung stärker berücksichtigen. Derzeit steckt dieses Forschungsgebiet noch in den Kinderschuhen», stellt Iber fest.
 
 Von diesem Krebsforschungsprojekt bleiben für Iber nicht nur die neuen Erkenntnisse und die angenehme und offene Zusammenarbeit mit den Klinikern des Universitätsspitals, sondern sie kann die Erfahrungen auch in ihrem angestammten Feld der Entwicklungsbiologie einsetzen. Denn auch dort könnten Steifigkeitsveränderungen eine Rolle spielen.
+
+Ganze Ausgabe lesen (PDF, 3.5 MB)
 

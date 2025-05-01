@@ -1,5 +1,7 @@
 # nitrogen-build-up-in-the-oceans
 
+**Source:** en_news_events/2014/11/nitrogen-build-up-in-the-oceans.html
+
 ## Transported thousands of kilometres
 
 When fossil fuels are burned at high temperatures, such as in coal and gas-fired power stations, nitrogen oxide and other reactive nitrogen compounds are formed and released into the atmosphere. Agricultural activities also have the same effect, when a part of the nitrogen found in fertiliser is lost into the atmosphere in the form of nitrogen oxide or ammonia. These emissions have risen dramatically in the past decades, particularly in East Asia where they have grown by 40 per cent in the past 10 years.
