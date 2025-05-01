@@ -1,0 +1,24 @@
+# historic-rupture-interview-zogg-ukraine
+
+**Source:** en_news_events/2022/02/historic-rupture-interview-zogg-ukraine.html
+
+## Main article
+
+Benno Zogg is a senior researcher at the Center for Security Studies (CSS) at ETH Zurich. (Photograph: ETH Zürich)
+
+ETH News: Mr Zogg, what is President Putin trying to achieve with his invasion of Ukraine? Benno Zogg: We don’t yet know whether Putin is pursuing limited or maximalist goals. What is clear, however, is that he wants to turn Ukraine into a compliant state that is dependent on Russia and remains permanently outside NATO and the European Union. That is, if Ukraine is to continue to exist. Everything is conceivable – from its partial occupation to full annexation.
+
+What is driving him? Putin looks down on Ukraine with disdain. For him, it is neither a sovereign state nor an independent people. It is part of Russian culture and history. In his world view, any Western orientation can only be the result of Western interference. When he speaks of Russian troops being welcomed as liberators, this is to be taken very seriously. Putin wants to demonstrate that Russia is still a superpower. And in his interpretation, one that is feared, not necessarily admired.
+
+What does this escalation mean for Russia’s European neighbours? They will now feel all the more threatened by Russia and look west and towards their NATO partners for military assistance. NATO member states such as Poland, Estonia or Latvia, which share a direct border with Russia, will increasingly insist on the presence of U.S. troops on their soil. NATO’s relevance will increase, even among neutral non-members like Finland and Sweden. I also fear that there will be an increasing militarisation of Eastern Europe. The potential for further escalation – intentional or unintentional – is increasing.
+
+The West is now discussing new sanctions against Russia. What sanctions need to be imposed to force Russia to change its military course? Research shows that sanctions only bring about a change in policy if they have an impact on coalitions and power relations in the sanctioned country. It can thus be assumed that Putin will only change his course if sanctions split the ruling elite in the Kremlin. This is highly unlikely, as the inner circle around Putin is already likely to be resistant to sanctions and may even benefit from them. In the short term, sanctions should be seen as an important political signal. In the medium to long term, however, economic, financial and technological sanctions could very well weaken the Russian economy, its national budget, its defence industry and thus also its army. However, I very much doubt that Putin will be deterred by them.
+
+Will the war spill over to other countries? Accidental incidents on the border with neighbouring states could also draw other countries into the conflict. However, I think it is more likely that the fighting will remain confined to Ukraine. But the impact of the conflict obviously goes far beyond Ukraine and affects us all.
+
+What diplomatic options do you see at the moment? Diplomacy is currently limited to unilateral statements, press conferences – and sanctions. Although direct high-level meetings between Russia, Ukraine and the West are unthinkable in the current situation, communication channels should remain open to ensure a minimum of predictability. Excluding Russia from the UN or the OSCE would not serve any purpose.
+
+What are the implications of the invasion for European security? It is a historic rupture: moving national borders unilaterally and by military means and annexing territory is a fundamental contradiction of the European postwar order. Russia is violating this principle once again – after its annexation of Crimea in 2014. While the legitimacy of Western intervention in Kosovo or Iraq, for example, has also been controversial, it is by no means as flawed as Putin’s attack. It remains to be seen whether conflicts in Europe will again be increasingly resolved by power politics and military means in the future. What is certain, however, is that Europe will upgrade its military capabilities. It will in future be able to rely even less on the United States, which will be focusing its long-term security policy on China. The pressure on Europe to strengthen its own defence capabilities will therefore continue to grow.
+
+Benno Zogg is a senior researcher at the Center for Security Studies ( CSS ) at ETH Zurich, where he heads the Swiss and Euro-Atlantic Security team.
+

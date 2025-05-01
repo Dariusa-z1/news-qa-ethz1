@@ -1,0 +1,36 @@
+# people-animals-and-plants-everyone-and-everything-should-feel-at-home
+
+**Source:** en_internal/2015/07/people-animals-and-plants-everyone-and-everything-should-feel-at-home.html
+
+## Main article
+
+When you mention the word “lawn mower” around to Jörg Brenn, his eyes light up. Switching on the motor, engaging the right gear and then simply mowing away – “that’s the part I enjoy most about my work”. Twice a year, Brenn pushes his electric mower over the extensive meadows and green spaces on the Hönggerberg campus. Funnily enough, he does not have a speedy, racing-car-like machine you can sit in, similar to what many a green-fingered hobbyist may like to own.
+
+The truth is he does not want to race across the green, but would rather take his time to quietly study the meadows. With an almost pious dedication, he regales us with stories of all the hedgehogs, mice, small birds, lizards and frogs he has encountered on his journeys mowing the grass. Wildflowers, grasses and fungi have also been spreading in recent years, thanks to a move away from weeding, fertilisers and spraying in favour of a more natural approach to gardening.
+
+ETH Zurich is keen to encourage natural biodiversity. On the Hönggerberg campus, this can be seen in the flowery meadows, various bushes, native wild shrubs, natural hedges and planted trees. For example, part of the hay meadows is now set aside as a safe space for insects and small creatures to retreat to.
+
+Jörg Brenn is fond of sustainable gardening: “People, animals and plants – everyone and everything should feel at home.” Indeed, the assistant gardener is himself an excellent witness, able to testify that there has been an audible increase in the volume of buzzing, humming, croaking and whistling in the campus’s green spaces: he has been there, busily working away, caring for the university’s gardens since 1980.
+
+Brenn has a wry smile: “I’ve been outside nine hours every day in summer, and eight in winter, ever since.” The current heat wave does not bother him, and he also loves the snow. He cleans the garden tools or helps out with maintenance when it rains. “There is always something to do,” he says. The question of what he does not like about his work seems to baffle him.
+
+It seems he has never actually pondered the thought that cutting hedges and buds, watering flowerbeds, sprinkling water on the grass, harvesting hay, sweeping up branches and raking leaves could not be fun. The green-fingered fellow puts has head back and squints as he looks into the sunlight dappling through the leaves above. Jörg Brenn gives the impression of a man who has found his place in nature.
+
+## Anniversaries Second quarter 2015
+
+35 years Jörg Brenn, Facility Management Infrastructure Division Marcel Herzog, Services Dr Pascal Leuchtmann, Institute of Electromagnetic Fields Bruno Jörg, Laboratory of Crystallography Doris Sutter, Institute of Chemical and Bioengineering David Schmid, Facility Management Infrastructure Division
+
+30 years Michael Leopold, Institute for Solid State Physics Rolf Willy Liebermann, Real Estate Infrastructure Division Cornelius Senn, Department of Civil, Environmental and Geomatic Engineering Albert Weber, Institute of Machine Tools and Manufacturing Hans Wunderli, Institute of Terrestrial Ecosystems
+
+25 years Piero Arizzoli, ETH-Bibliothek Dr Stefan Blunier, Institute of Mechanical Systems Etienne Chevalley, RAPLAB D-ARCH Jules Fenner, Institute of Geodesy and Photogrammetry Stefan Gribi, Laboratory of Hydraulics, Hydrology and Glaciology Marie-Laure Müller, Professor of Development Economics Renate Pfister,Facility Management Infrastructure Division Aldo-Ricardo Rossi, Institute of Electromagnetic Fields Zsuzsanna Sebestyén, Institute of Cartography and Geoinformation
+
+20 years Doris Amstad, Study Administration Department of Physics Luca Bacchetta, CSCS – Swiss National Supercomputing Centre Dr Hans-Rudolf Bär, Institute of Cartography and Geoinformation Aida Madalena Huber-Morence da Costa, Institute of Food, Nutrition and Health Dr Jean Favre, CSCS – Swiss National Supercomputing Centre Patrick Flütsch, Institute of Agricultural Sciences Ewa Grob, Institute of Machine Tools and Manufacturing Dr Peter Koschitz, Department of Computer Science Markus Naef, ITS Multimedia Services Selwyn Edouard Rochard, ETH-Bibliothek Beat Scherer, Services Department Dr Michael Armand Sprenger, Institute for Atmospheric and Climate Science
+
+15 years Roger Aebli, ETH-Bibliothek Christoph Bless, Safety, Security, Health, Environment Dr Hansjörg Dietz, Institute of Integrative Biology Hans Hiltbrunner, ITS System Services Daniel Sandro Ménard, Institute of Technology in Architecture Dr Eva Ruiz Muller, Institute of Pervasive Computing Dr Christoph Küffer Schumacher, Environmental Systems Science Dominic Dähler, Department of Biology
+
+10 years Dr Isabelle Herter-Aeberli, Institute of Food, Nutrition and Health Gianni Antonitti, ITS Service Delivery Michael Ehrismann, ETH-Bibliothek Dr Erich Markus Fischer, Institute for Atmospheric and Climate Science Stefan Haldemann, ITS ICT Networks André Hunziker, ITS User Services Brigitta Herzog, Institute of Agricultural Sciences Dr Andreas Dominik Müller, ETH-Bibliothek Dr Arnold Milenko Müller, Laboratory of Ion Beam Physics Dr Dario Martin Nordio, Professor of Software Engineering Christian Rossi, Psychology in Work and Society Daniel Schneider, Educational Development and Technology Dr Laurie Paule Schönholzer, Institute of Agricultural Sciences Beatrice Yvonne Spörri-Kunz, Institute of Construction and Infrastructure Management (IBI) Dr Miluse Trtikova, Institute of Integrative Biology Barbara Schuhbeck Wagner, Institute of Biochemistry Dr Alessandro Vindigni, Institute for Solid State Physics
+
+Retirements Dr Hans Gerber, Institute of Biomechanics Fritz Grunder, ETH research station Chamau Gerda Bärtschi, Professor of Animal Physiology Dr Beat Walter Müller, Rector’s Domain Manuel Nieves, Services Department Prof Andreas Fischlin, Department of Environmental Systems Science Dr Milena Pika-Biolzi, Collections and Archives Werner Portmann, SGU Emergency Operations Centre Dr Abdul Khadar Jeelani Shaik, Institute of Food, Nutrition and Health
+
+Deaths Prof Jiri Matousek, Institute of Theoretical Computer Science
+

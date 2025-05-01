@@ -1,0 +1,46 @@
+# news-from-the-executive-board-2022-5
+
+**Source:** en_internal/2022/06/news-from-the-executive-board-2022-5.html
+
+## Social and leadership skills for ETH employees
+
+In its last meeting, the Executive Board endorsed six social and leadership skills, developed and formulated by the Vice Presidency for Personnel Development and Leadership with the help of the ETH community and in coordination with several rETHink workstreams:
+
+• Acting responsibly
+• Driving innovation
+• Building bridges
+• Nurturing well-being
+• Living inclusivity
+• Enabling people
+The key to ETH’s success is its employees. This statement is enshrined in ETH Zurich's 2021–2024 Strategy and Development Plan. One thing the strategy emphasises in this context is the development of social and leadership skills. The goal is to foster a shared understanding within ETH as to what kind of interpersonal behaviour we expect from each other, what good leadership means and what abilities are essential for achieving good leadership. These skills complement ETH community members’ professional expertise and thus convey a more thorough idea of what to concentrate on and how to develop.
+
+In future, these skills will be incorporated into various personnel-related processes, measures and products. Further information will follow in the second half of 2022, when specific measures are implemented. Read the rETHink interview with Joël Mesot to find out about the interplay between social and leadership skills and the vision, the mission and the new ETH values.
+
+ETH provides teaching applications (LBA) for all user groups (students of all levels, lecturers, administrative staff, the interested public). These applications were for the most part developed between 1998 and 2005; since then, they have undergone regular further development as part of the WELBA project. In the medium term, however, the technology they are built on will no longer be able to effectively and efficiently meet economic, security and expandability requirements. At the same time, users’ expectations of these systems when it comes to teaching and learning have changed drastically.
+
+That is why the Executive Board is planning a multi-year “digital campus” programme. This will overhaul the technology behind the teaching applications while ensuring that the landscape meets new requirements. A transparent portfolio will ensure that the full breadth of teaching projects is prioritised correctly.
+
+The Executive Board has now approved a preliminary project in advance of the “digital campus” programme as an ideal way to prepare for an undertaking of this magnitude and complexity. It will look at a possible governance setup for “digital campus”, the programme’s structure and projects, the target architecture and, finally, the roadmap for the work packages.
+
+Both the preliminary project and the “digital campus” programme will be carried out in close cooperation with the Academic Services, Educational Development and Technology, IT Services, and Controlling departments.
+
+This coming autumn, works on the garage adjacent to the ETH Main Building will be completed. Members of the ETH community will most likely be able to start using it again in November 2022 (more detailed information will follow). Then the renovation of the Main Building itself will commence. The Real Estate Management department has examined the Main Building’s structure and surroundings as part of a long-term overall strategy for the building. Fourteen action areas and two building restoration phases have been determined with a view to enhancing the prestigious Main Building and strengthening its role as a place for learning, teaching, working and meeting.
+
+The Executive Board has now signed off on the proof of need presented for the initial “overhaul and structural preservation” phase. As a next step, it will be submitted to the ETH Board, which in its role as federal construction and property body is responsible for strategic real estate management in the ETH Domain. The costs for the action areas of phase 1 are estimated to amount to some 64 million Swiss francs – with an accuracy of +/− 30 percent. The action areas of phase 2 (“use-oriented development”) will be submitted in due course in a second proof of need.
+
+The next visible steps in the renovation of the main building will be the restoration of the Semper Aula starting this year and the first round of window renovations on the west façade starting in 2025.
+
+Rahul Pandharipande, ETH Professor of Mathematics and an expert in algebraic geometry and its connections to string theory, will lead the Institute for Theoretical Studies (ETH-ITS) for another three years. In consultation with the head of the Department of Mathematics, the head of the Institute for Theoretical Physics, and the head of the Institute for Theoretical Computer Science, the Vice President for Research, Detlef Günther, has appointed Pandharipande as ETH-ITS Director effective 1 June 2022, for a second term until 2025. The ETH Executive Board has approved his reappointment. Pandharipande has led ETH-ITS as its second director since 2019. His predecessor was Giovanni Felder, an expert in mathematical physics.
+
+Founded in 2013, the institute is dedicated to basic research in mathematics, theoretical physics, theoretical computer science, and related fields. It fosters both established researchers and young researchers.
+
+At its meeting at the end of May, the ETH Executive Board took note of the resignation of Professor Paolo Ermanni as Vice Rector for Continuing Education. Paolo Ermanni, Professor of Structural Technology (D-MAVT), has been Vice Rector for Continuing Education since 1 May 2015 and was re-elected for a second four-year term of office on 31 October 2018. He will leave this position at his own request on 31 July 2022. The Executive Board has expressed its gratitude to Paolo Ermanni for his great services in the context of continuing education.
+
+His successor will be Professor Stefano Brusoni, Professor of Technology and Innovation Management (D-MTEC). He will assume the office of Vice Rector for Continuing Education as of 1 August 2022. The ETH Executive Board has elected him for a four-year term of office until 31 December 2026.
+
+The Vice Rector for Continuing Education assists the Rector in the area of continuing education for those with an academic background at ETH Zurich. In cooperation with the School for Continuing Education , the Rector is responsible for the promotion, organisation and quality assurance of continuing education.
+
+## Regular updates from the Executive Board
+
+The Executive Board of ETH Zurich holds regular meetings every two weeks. This section provides information on the most important decisions taken at these meetings.
+

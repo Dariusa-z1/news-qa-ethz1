@@ -1,0 +1,32 @@
+# its-wonderful-to-be-able-to-have-a-positive-impact
+
+**Source:** en_internal/2023/09/its-wonderful-to-be-able-to-have-a-positive-impact.html
+
+## Main article
+
+You were familiar with an ombudswoman’s responsibilities. But did anything still surprise you when you took office? The issues that came up were much more diverse than I’d expected. I was surprised that in many cases it wasn’t even about finding a solution. Often people seeking advice are just happy to have someone to open up to in confidentiality and to help them reflect on their situation. I had been prepared for many more complex and difficult situations because the role was always being mentioned in media reports back then. That has calmed down a bit in recent years. The extra internal sources of support seem to be slowly having an effect.
+
+If there’s a need for more listening, does that mean we at ETH don’t talk to each other enough? People at ETH talk a lot [laughs]. It’s more about situations where you feel emotionally stuck or don’t know how to come up with a solution on your own. You might not want to talk about it with your work colleagues. But you might still want someone to talk to who knows the institution and can help contextualise the situation. These are also often people from different cultures, who have different values and whose family and friends are not in Zurich.
+
+## Ombuds Office
+
+Ombudspersons are selected by the Executive Board on nomination by the University Assembly in accordance with the ETH Zurich Organisation Ordinance.
+
+The current ombudspersons aside from Margrit Leuthold are emeritus ETH professor of architecture Annette Spiro, mediator Jonas Nakonz, and solicitor Kathrin Teuscher.
+
+What do you do about tricky cases? Do ombudspersons confer with each other in these situations? As ombudspersons, we are bound to strict confidentiality. That means we don’t talk even to each other about specific cases or names. Whoever is seeking assistance chooses one ombudsperson. But now and then I do ask my colleagues for advice about how they would act, especially in questions involving the law. We also have regular meetings every two months where we talk about current cases in anonymised form. We have a trustful and friendly work-relationship.
+
+The position is 20 percent of full-time. What does everyday life look like for an ombudsperson? My rule of thumb is that I respond to emails within 24 hours and also try to meet with people as quickly as possible. Most people seeking advice are under a huge amount of pressure. The crux of the job is really: always be as present as you can. Of course, I sometimes turn on my out-of-office message and refer people to the other ombudspersons. On top of that, the actual work load is irregular. Two years ago, I had a case that that put a maximum strain on me. For weeks I worked more than 50 per cent just for this one case.
+
+How many requests do you get per year? We publish statistics every year. On average, we get one request every two weeks per ombudsperson, so a total of about 30 in a year. If one person ends up with all the requests, we can relieve them of some of their case load and transfer cases to another ombudsperson with the consent of the individuals seeking advice.
+
+If you were to summarise the work as you head into your final year, what would you say? The work isn’t always easy, but it’s very rewarding. It’s wonderful to help someone in a critical stage by lending them your support. Of course, there are always cases where you can’t find a great, constructive solution. But there were also some beautiful moments.
+
+Can you tell us about one of these beautiful moments? A doctoral candidate from a different culture was having a lot of difficulty with her supervisor. In the end, her colleagues from the department helped her find a new supervisor. About a year later, she sent us a copy of the invitation to her doctoral defence and a thank you letter. That kind of thing is pleasing and moving. But sometimes the consultation also leads someone to choose a path away from ETH. Hearing from someone that talking to us helped them achieve clarity is just as important to me.
+
+The University Assembly is looking for a successor for your position. What does this person absolutely need to bring to the job? They have to be very familiar with ETH, and perhaps to have worked in different positions. At any rate, they need to understand the culture of ETH, and know how the institution works. This is important because two of the other three ombudspersons are professionals without a history at ETH. Continuing education courses can help, and if a candidate has experience in coaching, conflict resolution or mediation, she or he will certainly be able to put these skills to good use. Besides that, it’s human qualities that matter. You have to like people and be able to listen to them, sometimes for hours. You have to be able to put yourself into the situations and perspectives of other people; experience with other cultures is useful for that. You also have to treat ETH members of all levels of the hierarchy the same, regardless of their status. One very important thing is a service-oriented attitude: as ombudspersons, it’s never about us. We serve the people of ETH.
+
+## Margrit Leuthold
+
+Margrit Leuthold received her doctorate in biology from the University of Zurich in 1986. After postdoc positions in Zurich and the USA, she became a scientific assistant at the Swiss National Science Foundation. In 1992, she joined the Office of the President at ETH, where she developed the Alliance for Global Sustainability. After six years, she moved to the Swiss Academy of Medical Sciences as Secretary General. In 2006, Leuthold returned to ETH, where she initially headed Strategic Planning, and then the International Institutional Affairs team. In 2012, she became Executive Director of swissnex India in Bangalore. From 2016 on, Leuthold worked for ETH again, first as the representative of Medical Research and the Singapore ETH Centre (SEC). Towards the end of her career, she was deputy programme director of the Future Health Technologies programme at the SEC.
+

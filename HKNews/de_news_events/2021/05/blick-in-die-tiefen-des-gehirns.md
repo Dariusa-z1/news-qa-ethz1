@@ -1,0 +1,32 @@
+# blick-in-die-tiefen-des-gehirns
+
+**Source:** de_news_events/2021/05/blick-in-die-tiefen-des-gehirns.html
+
+## Verbesserte Fluoreszenzmikroskopie
+
+Die Funktionsweise unseres Gehirns gibt uns nach wie vor Rätsel auf. Ein Grund dafür ist, dass neuronale Prozesse auf der Ebene einzelner Zellen und Kapillaren im gesamten Gehirn bis anhin nur mit hoch-invasiven, operativen Methoden beobachtet werden können. Dies soll sich nun ändern.
+
+Forschende unter der Leitung von Daniel Razansky, Professor für biomedizinische Bildgebung an der Universität Zürich und der ETH Zürich, haben ein fluoreszenzmikroskopisches Verfahren entwickelt, das hochauflösende Bilder der Durchblutung der kleinsten Blutgefässe im Gehirn ermöglicht, ohne dass dabei die Schädeldecke oder Kopfhaut geöffnet werden muss. Der Name der Technik: Diffuse Optical Localization Imaging, oder kurz DOLI.
+
+Razansky zufolge kommen wir damit einem lang gehegten Ziel in den Neurowissenschaften einen grossen Schritt näher: «Die Visualisierung biologischer Prozesse tief im lebenden und unversehrten Gehirn ist sowohl für das Verständnis kognitiver Funktionen als auch neurodegenerativer Krankheiten wie Alzheimer und Parkinson von entscheidender Bedeutung», sagt er.
+
+Wenn fluoreszierende Kontrastmittel, die sich im Blutkreislauf befinden, mit Licht einer bestimmten Wellenlänge bestrahlt werden, beginnen sie zu leuchten. Diesen Effekt macht sich die Fluoreszenzmikroskopie zu Nutze, um biologische Prozesse auf zellulärer und molekularer Ebene sichtbar zu machen. Bis anhin stiessen Forschende bei der Verwendung dieser Methode bei Menschen oder Tieren auf das Problem, dass lebendes Gewebe selbst stark Licht absorbiert und streut. Dies liess die gewonnenen Bilder nicht nur unscharf erscheinen, sondern verunmöglichte auch die Lokalisierung des Kontrastmittels im Gehirn.
+
+Durch die Einführung neuer Techniken gelang es Razansky und seinem Team nun, diese Methode stark zu verbessern. «Wir haben uns entschieden, für die Bildgebung einen bestimmten Spektralbereich zu nutzen, das sogenannte zweite Nahinfrarotfenster. Dadurch konnten wir sowohl die Hintergrundstreuung als auch die Absorption und intrinsische Fluoreszenz des Gewebes stark reduzieren», erklärt der Professor. Darüber hinaus verwendete das Forschungsteam eine erst kürzlich entwickelte, hocheffiziente Infrarotkamera sowie ein neues, aus Quantenpunkten bestehendes Kontrastmittel, das im gewählten Infrarotbereich stark fluoresziert.
+
+## Hochauflösende Bilder des Gehirns
+
+Die Forschenden testeten die neue Technik zunächst anhand von synthetischen Gewebemodellen, welche die Eigenschaften von Gehirngewebe simulieren. Das Resultat: Die Eindringtiefe der Bilder war vier Mal so hoch wie bei konventionellen fluoreszenzmikroskopischen Ansätzen. Anschliessend injizierten Razansky und sein Team lebenden Mäusen Mikrotröpfchen, welche fluoreszierende Quantenpunkte enthielten. Diese Tröpfchen konnten dann einzeln unter dem Mikroskop lokalisiert werden.
+
+«Wir waren damit erstmals in der Lage, die kleinsten Gefässstrukturen und die Durchblutung tief im Gehirn der Maus scharf und nichtinvasiv sichtbar zu machen», sagt Razansky. Zudem beobachteten die Forschenden der ETH und der Universität Zürich, dass die Grösse der abgebildeten Mikrotröpfchen davon abhängig ist, wie tief sie sich im Gehirn befinden. Dieser Effekt erzeugt die dreidimensionalen Bilder der DOLI-Technik.
+
+Im Vergleich zu anderen biologischen Bildgebungsverfahren wie zum Beispiel der von Razansky ebenfalls entwickelten Optoakustik macht sich die DOLI-Technik die Vielseitigkeit und Einfachheit der fluoreszenzmikroskopischen Bildgebung zu nutze. «Wir benötigen lediglich ein relativ kostengünstiges Kamera-Setup ohne Laser oder ausgefeilte Optik. Dies erleichtert die flächendeckende Anwendung in Labors erheblich», erklärt Professor Razansky.
+
+Neurologische Störungen, die von Epilepsie über Schlaganfälle bis hin zu verschiedenen Arten von Demenz reichen, betreffen weltweit bis zu eine Milliarde Menschen. Dementsprechend besteht ein grosser Bedarf, die biologischen Ursachen neurodegenerativer und anderer Gehirnerkrankungen besser zu verstehen und bereits in einem frühen Stadium zu erkennen.
+
+Razansky zufolge bildet die auf Basis der DOLI-Methode verbesserte Fluoreszenzmikroskopie dafür eine gute Grundlage: «Wir gehen davon aus, dass diese Technik auch zu neuen Einblicken in die Funktion des Gehirns und längerfristig auch zu neuen Therapiemöglichkeiten führt.» Bis es aber soweit ist, müssen er und sein Team wohl noch eine Weile Mäusen beim Denken zusehen.
+
+## Literaturhinweis
+
+Zhou Q, Chen Z, Robin J, Deán-Ben XL, Razansky D: Diffuse optical localization imaging (DOLI) enables noninvasive deep brain microangiography in NIR-II window, Optica, Vol. 8, Issue 6, March 27 (2021). DOI: externe Seite 10.1364/OPTICA.420378
+

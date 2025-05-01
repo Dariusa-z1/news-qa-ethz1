@@ -1,0 +1,34 @@
+# dieser-roboter-sticht-ins-auge
+
+**Source:** de_news_events/2017/06/dieser-roboter-sticht-ins-auge.html
+
+## Main article
+
+In der Schweiz ist die häufigste Ursache für eine schwere Sehbehinderung bei älteren Menschen die sogenannte Makuladegeneration. Bei den über 80-Jährigen ist jeder Fünfte betroffen. Die Krankheit führt zwar selten zur vollständigen Erblindung, beeinträchtigt das Sehvermögen aber stark. Betroffene sehen häufig nur noch verschwommen, können nicht mehr lesen oder Auto fahren. In schweren Fällen nehmen sie nur noch hell und dunkel wahr.
+
+Die Krankheit lässt sich nicht heilen, aber im fortgeschrittenen Stadium mit Medikamenten behandeln. Diese halten den Krankheitsverlauf auf und können manchmal sogar die Sehkraft wieder verbessern. Dazu muss Patienten in Abständen von vier bis sechs Wochen ein Medikament gespritzt werden, und zwar direkt ins Auge. «Die Prozedur ist unangenehm, aber in der Regel nicht schmerzhaft», sagt Professor Stephan Michels, Stellvertretender Chefarzt der Augenklinik des Zürcher Stadtspitals Triemli. Allein am Triemli werden 7500 Augeninjektionen pro Jahr durchgeführt, schweizweit sind es etwa 100'000. «Manchmal behandle ich bis zu 60 Patienten an einem Tag», sagt Michels.
+
+## Injektionen per Knopfdruck
+
+Mit Hilfe von Sensoren kann der Augenroboter schneller als jeder Arzt reagieren, falls der Patient das Auge bewegt. (Bild: Ophthorobotics)
+
+Unterstützen könnte ihn und seine Kollegen dabei künftig ein Roboter, den der ETH-Start-up Ophthorobotics derzeit entwickelt. Die Firma haben Forschende des Multiscale Robotic Lab der ETH zusammen mit Ärzten des Triemlispitals gegründet. «Unser Roboter wird der erste sein, der für Augeninjektionen eingesetzt werden kann», sagt Franziska Ullrich, Maschinenbauingenieurin an der ETH und CEO von Ophthorobotics.
+
+Dank dem Roboter braucht der Arzt die Spritze nicht mehr selbst zu verabreichen. Stattdessen wird das mobile Gerät über dem Kopf des liegenden Patienten platziert. Es erstellt mit Hilfe von zwei Kameras ein 3D-Bild des Auges, in das die Injektion erfolgen soll. Dann berechnet es die Einstichstelle und positioniert selbstständig die Injektionsnadel. Der Arzt kann alles in Echtzeit auf einem Bildschirm überwachen. Er muss nur noch kurz die Einstellungen prüfen und dann die Injektion per Knopfdruck starten. «Mit dem Roboter wird der Eingriff präziser und sicherer », sagt ETH-Forscherin Ullrich. Sie arbeitet an der Weiterentwicklung des Geräts, das vorerst nur als Prototyp im Labor existiert.
+
+## Ärzte können Zeit sinnvoller nutzen
+
+Bis jetzt führen Ärzte die Augeninjektionen manuell durch. Diese finden im Operationssaal statt. Dort bereitet zunächst das Pflegepersonal den Patienten vor. Dessen Auge wird mit einem Lokalanästhetikum unempfindlich gemacht und desinfiziert. Dann wird das Lid mit einer Klammer vorsichtig offen gehalten. Anschliessend setzt der Arzt die Spritze mit einer sehr feinen Nadel. Der Bereich, in den er injizieren kann, ist ein sehr schmaler Streifen zwischen Iris und äusserem Augenwinkel. Während des Einstichs darf der Patient das Auge nicht bewegen, weil es sonst verletzt werden könnte. «Das kommt extrem selten vor», sagt Augenarzt Michels.
+
+Trotzdem würde der Roboter eine noch grössere Sicherheit bieten. Denn er misst mit Hilfe von Sensoren, ob der Patient das Auge unmittelbar vor dem Einstich bewegt. In dem Fall bricht das Gerät die Injektion sofort ab. «Es kann schneller reagieren als wir Ärzte», sagt Michels. Ein weiterer Vorteil wird sein, dass der Roboter jeden Patienten mittels Iris-Scan eindeutig identifiziert. So gibt es keine Verwechslungen von Patienten.
+
+Gleichzeitig ist vorgesehen, dass das System automatisch die entsprechende Krankenakte aufruft, in der sämtliche vorherigen Behandlungen gespeichert sind – beispielsweise auch, in welches von beiden Augen injiziert werden soll und mit welcher Medikamentendosis. Sogar die exakte Stelle des Einstichs merkt sich das System bei jeder Behandlung und berechnet dann für das nächste Mal eine etwas andere Position. Das ist deshalb wichtig, weil zu häufiges Spritzen an derselben Stelle das Auge schädigen könnte.
+
+Den grössten Vorteil des Roboters sieht Michels jedoch darin, dass er den Ärztinnen und Ärzten Zeit sparen und grössere Flexibilität ermöglichen würde. Denn diese müssen bisher im Operationssaal warten, bis der nächste Patient vorbereitet ist und sie die Spritze setzen können – ungenutzte Zeit, die sich über den Tag auf mehrere Stunden summiert. Eine Injektion an sich dauert hingegen nur etwa 30 Sekunden. «Dank dem Roboter muss der Arzt künftig nicht mehr selbst im Operationssaal anwesend sein», sagt Ullrich. Er kann das Gerät von einem anderen Raum aus steuern, etwa seinem Sprechzimmer. «Dadurch kann er die Zeit zwischen den Injektionen für andere Aufgaben nutzen», sagt Ullrich.
+
+Damit die Kommunikation mit dem Patienten trotzdem sichergestellt ist, werden im Gerät ein Bildschirm sowie Mikrofon und Lautsprecher integriert sein. So können Arzt und Patient sich während der Behandlung sehen und miteinander sprechen, ähnlich wie beim Skypen. Der Bildschirm dient ausserdem dazu, dass der Patient seinen Blick im Moment des Einstichs auf etwas fixieren und so die Augen besser still halten kann. Welche Bilder man ihm dazu am besten zeigt, testet man derzeit in Zusammenarbeit mit der Hochschule für Technik und Wirtschaft HTW Chur.
+
+Dass sich Patienten dem Roboter auch tatsächlich anvertrauen würden, darauf deutet eine erste Umfrage hin, die Ophthorobotics mit 15 Personen mit Makuladegeneration durchgeführt hat. «Wir waren überrascht davon, wie positiv die Befragten reagiert haben», sagt Ullrich. Alle gaben an, dass sie sich vom Roboter behandeln lassen würden – auch dann, wenn der Arzt oder die Ärztin nicht im Raum ist, sie aber mit ihm oder ihr kommunizieren können.
+
+Bei Spitälern findet der Injektionsroboter ebenfalls Anklang: Bereits fünf Augenkliniken haben Interesse geäussert, ein solches Gerät zu kaufen. Doch zunächst müssen die Forschenden aus dem bestehenden Prototyp ein klinisch einsetzbares Gerät entwickeln, dieses testen und schliesslich zertifizieren lassen. Dazu suchen sie zurzeit die nötige Finanzierung. Einen ersten Erfolg können sie verzeichnen: Der Start-Up erhält vom Schweizerischen Nationalfonds und von der Kommission für Technologie und Innovation einen Förderpreis in Höhe von 130'000 Franken, der den Transfer von Forschungserkenntnissen in die Wirtschaft beschleunigen soll.
+

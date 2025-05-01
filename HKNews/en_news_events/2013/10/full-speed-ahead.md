@@ -1,0 +1,28 @@
+# full-speed-ahead
+
+**Source:** en_news_events/2013/10/full-speed-ahead.html
+
+## Main article
+
+ETH Professorin Annette Oxenius presented the Node Infection & Immunity network. (Photo: Marita Fuchs / UZH News)
+
+## Developing new artificial hearts
+
+Zurich’s brightest and best in the field of medical research congregated yesterday in the Great Hall (“Aula”) of the University of Zurich. They came to look back over the first year of the umbrella organisation Hochschulmedizin Zürich (HMZ), which unites the medical research capabilities of ETH Zurich, the University of Zurich and the university hospitals.
+
+Although the institutions have been collaborating successfully for years in many areas, until a year ago there was no organisation that brought together all activities in biomedical and medical technology research, said Daniel Wyler, vice rector of Medicine and Natural Sciences, University of Zurich, in his opening address. HMZ, he noted, promotes ideas and projects that are in line with the strategic objectives of the institutions and have an interdisciplinary, translational character.
+
+Markus Rudin, professor at the Institute for Biomedical Engineering, gave a brief overview of the current networks and projects in the various fields: cancer research, research on lifestyle-related diseases such as diabetes, infectious diseases, personalised and regenerative medicine, medical imaging, neuroscience and heart diseases.
+
+Guests learned more about two selected projects. First, heart surgeon Volkmar Falk from University Hospital Zurich introduced the Zurich Heart project and emphasised the need to make progress in the development of artificial hearts. The figures he cited spoke for themselves: heart failure is a global problem affecting 2 per cent of the population, with a particularly high mortality rate among the elderly. The best therapy is a heart transplant, but there are not enough hearts. The resulting long waiting periods mean that patients opt increasingly for an artificial heart. “But these artificial hearts are based on 1960s technology,” said Falk. A problem with the current technology is infection due to cables leading from the body to the batteries that power the artificial pump – an unacceptable situation in the long term.
+
+The Zurich Heart project is now funded by three foundations and takes a dual approach: to improve existing artificial hearts and at the same time work on new concepts with innovative technologies and materials.
+
+Annette Oxenius, professor at the Institute of Microbiology, followed up Falk’s talk with a presentation of the Node Infection & Immunity network. This network is a platform for basic research in the fields of immunology, microbiology, virology, parasitology, cell biology, biochemistry and chemistry, as well as clinical and translational research in immunology and infectiology. The aim of the networking between these specialisations is to develop a better understanding of the interactions between host and pathogens, and develop new diagnostic and therapeutic capabilities for infectious diseases. The network currently comprises 65 research groups at ETH, the University of Zurich, University Hospital Zurich and University Children’s Hospital. One of the goals is to discover new viruses and explore how antibodies change.
+
+The meeting concluded with an address by Lino Guzzella, rector of ETH Zurich, on the importance of medical technology for Switzerland. He noted that Swiss researchers are leaders in this area and, at 2 per cent of GNP, medical technology forms an important part of the Swiss economy. The potential for making money in the field, then, is considerable.
+
+Switzerland needs highly qualified people at the junction between these fields, said Guzzella, and ETH and the University of Zurich have proven ideal partners. He added that it was possible that in future medical students with a bachelor’s degree might switch to ETH to supplement their medical knowledge with technological expertise.
+
+This text from UZH News editor Marita Fuchs first appeared in UZH News (in German).
+

@@ -1,0 +1,60 @@
+# we-have-got-a-lot-on-our-plate
+
+**Source:** en_news_events/2020/12/we-have-got-a-lot-on-our-plate.html
+
+## Main article
+
+(Photograph: ETH Zurich)
+
+Christmas is just around the corner, along with a string of festive meals – though probably on a smaller scale this year. I promise, I don’t want to deny you your Christmas roast! However, the end of the year is a good opportunity to reflect on some fundamental questions and to become aware of one’s own attitudes. With this in mind, we should not let the festive season hide the fact that we need to change both our eating habits and the food system.
+
+There are few areas of consumption that do as much damage to the environment as what we eat. The way we produce food destroys habitats worldwide and contributes to climate change, species extinction and the emergence of pandemics. 1, 2 Our diets play an important part in this – especially our appetite for meat.
+
+The facts are rather sobering, but there is little to suggest that it will be easy to reduce global meat consumption. Eating habits, pleasure, cultural status symbols and personal freedom are just a few of the reasons. Even though consumption in some industrial countries is stagnating at a high level or falling slightly, as in Switzerland, demand in developing and emerging countries is growing sharply.
+
+Nevertheless, I am confident that changing our food system is possible.
+
+## Vote for the Zukunftsblog
+
+The Zukunftsblog is nominated for the "Science Blog of the year 2020":
+
+To go to the election, click here
+
+## Increasing dietary awareness
+
+One reason is that many people do not have a clear enough understanding of the consequences of their eating habits. When it comes to their carbon footprint, people tend to focus more on flying than on the meat on their plates. As a result, people do not realise that their daily food choices are one of the most effective ways to protect the climate, biodiversity and livelihoods. 3
+
+## Attractive alternatives and food culture
+
+But this is starting to change. People are becoming more aware of their own footprint – and not just in Europe. Since the coronavirus pandemic began, there have been growing public calls to fundamentally rethink the food system and animal farming. This helps raise consumers’ awareness of the importance of environmental concerns when it comes to food.
+
+We are at the beginning of one of the most important technological revolutions in the modern food industry: plant-based meat substitutes offer a serious alternative to animal-based products. 4 Meat substitutes are deceptively close to the real thing and can sustainably satisfy protein cravings.
+
+Considerable investment in this burgeoning industry has raised quality and lowered prices. This is making plant-based meat increasingly acceptable – even when it is associated with profound dietary changes. It is also transforming food culture. Nowadays, influencers and celebrities are promoting vegan and vegetarian diets as new status symbols – as opposed to Angus steaks.
+
+This trend is increasing the prospects for change in the food system. In a study in Nature Food , we were able to show that in China, Germany and the USA, a majority of the citizens surveyed support measures to reduce meat consumption – even if this means higher prices and interventions in private life. 5 There is a particularly high level of acceptance for policy packages that simultaneously include measures for production and consumption – for example, improving animal welfare, increasing taxes on meat and supporting low-income households when they buy environmentally friendly products.
+
+We also know from the energy sector that new interest groups form around new technologies. It is to be expected that the green meat industry will also gain political influence. Coupled with pressure from investors on politicians and producers, this can lead to more eco-friendly regulatory frameworks. Meanwhile, smart agricultural technology and monitoring systems make it possible to keep track of ecological standards within complex value chains.
+
+Imminent change is typically met with resistance. Compensating the losers is often critical in winning majority support. In this regard, the food sector can draw on the experience of energy and climate politics. A transformation fund for the food and meat industry, which could be financed through CO 2 levies and government green bonds, for instance, could significantly increase political feasibility.
+
+Despite all the challenges, this gives me hope that a transformation of the food system is possible. Europe and Switzerland could play a pioneering role here. The instruments and ingredients for this are on the table.
+
+## References
+
+1 UN report on preventing zoonotic diseases (06.07.2020): Preventing the next pandemic
+
+2 The food system causes more than 26 percent of global greenhouse gases ( Poore and Nemecek, 2018 in Science) – this means that without changes to our eating habits, the Paris climate targets are not achievable, even if all other sectors of the economy were to reduce emissions completely ( Clark et al, 2020 in Science ).
+
+3 Plant-based diets could significantly reduce global land use and deforestation and save a good 547 gigatonnes of CO 2 from the atmosphere by 2050. This would significantly increase the odds of achieving the Paris climate targets ( Hayek et al, (2020) Nature Sustainability ).
+
+4 For instance, the ETH spin-off Planted
+
+5 Fesenfeld LP, Wicki M, Sun Y, and Bernauer T. (2020). Policy packaging can make food system transformation feasible. Nature Food, 1, 173-​182. DOI: 10.1038/s43016-​020-0047-4
+
+Lukas Fesenfeld summarises the findings of this article in this video .
+
+## About the author
+
+Lukas Fesenfeld Postdoc and lecturer in food and climate policy, ETH Zurich and University of Bern
+

@@ -1,0 +1,24 @@
+# sustainable-ceramics-without-a-kiln
+
+**Source:** en_news_events/2017/02/sustainable-ceramics-without-a-kiln.html
+
+## Stronger than concrete
+
+The manufacture of cement, bricks, bathroom tiles and porcelain crockery normally requires a great deal of heat: a kiln is used to fire the ceramic materials at temperatures well in excess of 1,000°C. Now, material scientists from ETH Zurich have developed what seems at first glance to be an astonishingly simple method of manufacture that works at room temperature. The scientists used a calcium carbonate nanopowder as the starting material and instead of firing it, they added a small amount of water and then compacted it.
+
+“The manufacturing process is based on the geological process of rock formation,” explains Florian Bouville, a postdoc in the group of André Studart, Professor of Complex Materials. Sedimentary rock is formed from sediment that is compressed over millions of years through the pressure exerted by overlying deposits. This process turns calcium carbonate sediment into limestone with the help of the surrounding water. As the ETH researchers used calcium carbonate with an extremely fine particle size (nanoparticles) as the starting material, their compacting process took only an hour. “Our work is the first evidence that a piece of ceramic material can be manufactured at room temperature in such a short amount of time and with relatively low pressures,” says ETH professor Studart.
+
+As tests have shown, the new material can withstand about ten times as much force as concrete before it breaks, and is as stiff as stone or concrete. In other words, it is just as hard to deform.
+
+So far, the scientists have produced material samples of about the size of a one-franc piece using a conventional hydraulic press such as those normally used in industry. “The challenge is to generate a sufficiently high pressure for the compacting process. Larger workpieces require a correspondingly greater force,” says Bouville. According to the scientists, ceramic pieces the size of small bathroom tiles should theoretically be feasible.
+
+“For a long time, material scientists have been searching for a way to produce ceramic materials under mild conditions, as the firing process requires a large amount of energy,” says Studart. The new room-temperature method – which experts refer to as cold sintering – is much more energy-efficient and also enables the production of composite materials containing, for example, plastic.
+
+The technique is also of interest with a view to a future CO 2 -neutral society. Specifically, the carbonate nanoparticles could conceivably be produced using CO 2 captured from the atmosphere or from waste gases from thermal power stations. In this scenario, the captured CO 2 is allowed to react with a suitable rock in powder form to produce carbonate, which could then be used to manufacture ceramics at room temperature. The climate-damaging CO 2 would thus be stored in ceramic products in the long term. These would constitute a CO 2 sink and could help thermal power stations to operate on a carbon-neutral basis.
+
+According to the scientists, in the long term, the new approach of cold sintering even has the potential to lead to more environmentally friendly substitutes for cement-based materials. However, great research efforts are needed to reach this goal. Cement production is not only energy-intensive, but it also generates large amounts of CO 2 – unlike potential cold-sintered replacement materials.
+
+## Reference
+
+Bouville F, Studart AR: Geologically-inspired strong bulk ceramics made with water at room temperature. Nature Communications, 28 February 2017, doi: 10.1038/ncomms14655
+

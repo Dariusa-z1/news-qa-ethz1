@@ -1,0 +1,38 @@
+# masters-degree-quantum-engineering
+
+**Source:** en_news_events/2021/09/masters-degree-quantum-engineering.html
+
+## Wearing two hats
+
+Companies and research centres around the world are ramping up to explore the potential applications of quantum mechanics. To train the required experts in this field, ETH Zurich launched a Master’s degree programme that has won worldwide recognition for its interdisciplinary approach.
+
+The Master of Science in Quantum Engineering (MQE) is a joint programme offered by the Department of Information Technology and Electrical Engineering and the Department of Physics. Its goal is to fuse quantum physics with engineering disciplines. “We might not have been the only ones to come up with this idea, but we were definitely one of the first to do a credible job of bringing these two fields together,” says MQE Programme Director Lukas Novotny. “Now our Master’s course is seen as a model for others to follow.”
+
+Novotny is Professor of Photonics at the Department of Information Technology and Electrical Engineering. As Programme Director, he is responsible for ensuring that the Master’s course lives up to its promises. These are nothing if not ambitious: quantum engineering is a new field at the interface of quantum physics, electrical engineering and IT. It exploits the laws of quantum physics to develop technologies that outperform classical engineering approaches. Quantum technologies will fundamentally change the classical engineering paradigms of computing, information processing and measurement techniques – and future quantum engineers will need the skills to develop these new technologies and put them into practice.
+
+One of these budding quantum engineers is Anja Ulrich. She is part of the first cohort of students who embarked on the new Master’s programme two years ago – in her case, on the heels of a Bachelor’s degree in electrical engineering. She is currently on an internship at imec in Belgium, after which she intends to start her Master’s project. Imec is a research centre that specialises in nanoelectronics and digital technology and also conducts research into quantum technologies. “The group I’m working with here is made up mostly of physicists,” she says. Right now, the big challenges of quantum technologies lie in the field of engineering rather than physics, so her internship has required her to step up a gear. “It’s been a steep learning curve for me,” she admits frankly. “But that’s probably true for everyone who makes the transition from academia into the real world.”
+
+The Master of Science in Quantum Engineering gives engineers like her the tools they need to understand the language physicists use. “It teaches us to wear two hats.” She admits that she sometimes wishes the degree programme had taken a more hands-on approach to the physics components, but overall she’s pleased with the course: “It has definitely met my expectations. Obviously I come from an electrical engineering background, but I’ve always had a huge interest in physics. So my goal was to learn more about physics without losing that connection to engineering.” The programme content is carefully tailored to reflect what students have studied in the past.
+
+“Students from an engineering background get a slightly bigger dose of quantum physics in their first year, while students coming from the physics side start off with more of an electrical engineering focus,” says Novotny. The goal by the end of the Master’s course is that students not only understand the principles and language of the other subject area but are also able to transform them into something new with real-world applications.
+
+When it came to designing the course, there was broad agreement that they couldn’t simply create a double degree with double the workload. “We chose to focus on areas that are genuinely relevant to quantum engineering, on both the physics and the engineering side,” says Novotny. But that doesn’t mean the Master’s isn’t challenging. “Obviously this degree programme is a big step out of our comfort zone,” says Ulrich.
+
+## Pioneers on the right path
+
+The first cohort of quantum engineers is approaching the end of their Master’s degree, while the third will be starting the programme this autumn. The number of students opting for the Master of Science in Quantum Engineering has almost doubled since it was first introduced – a clear indication that the course has struck a chord. “It shows we’re on the right track,” says Novotny. It’s also a challenge, especially on the organisational and administrative side. Careful consideration must now go into transitioning the programme from the start-up phase to a steady state, Novotny argues, and that includes enlisting the support of a network of industry partners. “I want quantum engineering to lay down some roots,” he says.
+
+Graduates from the course can certainly look forward to good job prospects, he adds, though he cautions that the success of the programme will only become clear once the first graduates have spent some time in the working world. Anja Ulrich is optimistic: “I think it will give me all sorts of opportunities, especially since the number of people with proper qualifications in this field is still fairly low.” She also sees significant potential for making a difference, making exciting discoveries, and paving the way for change: “We might actually get the chance to make something new happen rather than just tinkering away in the background.” And what could be more motivating than that?
+
+## About the persons
+
+Anja Ulrich is one of the first cohort of students to take the ETH Master of Science in Quantum Engineering.
+
+Lukas Novotny is Programme Director of the Master of Science in Quantum Engineering and a professor in the Department of Information Technology and Electrical Engineering.
+
+More information about Master’s programme in Quantum Engineering
+
+Read the issue as a PDF (PDF, 6.9 MB)
+
+Read the issue online
+

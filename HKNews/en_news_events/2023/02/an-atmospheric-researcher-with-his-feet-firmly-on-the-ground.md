@@ -1,0 +1,74 @@
+# an-atmospheric-researcher-with-his-feet-firmly-on-the-ground
+
+**Source:** en_news_events/2023/02/an-atmospheric-researcher-with-his-feet-firmly-on-the-ground.html
+
+## Influenced by a left-wing university town
+
+Thomas Peter’s office has a stunning view that stretches from the city of Zurich to the lake, to the Uetliberg and the Albis hills and far into the Alps. But in addition to offering this breathtaking panorama, this room at the top of the CHN building tower at ETH Zurich is also rather emblematic of the research area Peter has pursued over the past 24 years at the university: atmospheric and climate science.
+
+Despite spending a lot of time with his head high up in the clouds, the 65-year-old ETH Professor of Atmospheric Chemistry has always remained down to earth. Known to all as Tom, he is approachable, affable and possesses a mischievous sense of humour. He is also a born storyteller and now, following his retirement on 31 January, he’s going to tell another as he looks back at his life in academia.
+
+Peter began his scientific career in his hometown of Marburg, Germany, where he studied physics. After a year of study in the US, he returned to Germany and completed his doctorate in plasma and atomic physics at the Technical University of Munich in 1988.
+
+Peter’s hometown of Marburg had a profound effect on his outlook. With a university, he says, the city has always been radically left-wing, and that as a student he was not immune to this progressive spirit. “I was definitely a radical environmentalist and pacifist,” he says. This, of course, leads to some anecdotes. Back in the early 1980s, he says, during the “Waldsterben” or forest dieback, he was among those who took to the streets, explaining to people what stress growth on sick trees looks like.
+
+In the mid-1980s, when he was working with high-power lasers while writing his doctoral thesis, he co-initiated an open letter to German Chancellor Helmut Kohl. The signatories spoke out against their involvement in US President Ronald Reagan’s Strategic Defense Initiative (SDI), which the letter called the “illusion of a shield” against nuclear missiles.
+
+“We felt that such a drastic situation called for a strong response,” Peter says. Signed by 350 scientists, this open letter kicked up quite a fuss. “It caused such a media frenzy that it was two weeks before we could work normally again,” he recalls with a grin.
+
+A short time later, Peter decided to entirely change tack in his research as well. He had been working on inertial fusion, which it was hoped would one day solve the world’s energy problems. He had already published a dozen highly respected articles on fusion plasmas when he realised that this form of energy had a lot of obstacles to overcome before it could be tapped. There were no guarantees this was even possible, and if so, only wealthy, highly developed countries would have the technology and resources to use it. “So I decided to pursue an entirely different field, one that matched my lifelong interest in environmental issues: atmospheric research,” Peter says.
+
+## Decoding aerosol and cloud droplet processes
+
+In 1990, Peter joined the Max Planck Institute for Chemistry in Mainz, Germany, working under future Nobel Prize winner Paul Crutzen. There he started researching stratospheric ozone and the processes that destroy the ozone layer, which protects us from UV rays. He was particularly interested in aerosols and cloud particles, as well as the conditions under which these would aid the human-made chlorine that depletes ozone in the stratosphere.
+
+Typically, the stratosphere is so dry that remains free of clouds. Only when the stratosphere gets extremely cold over the poles in winter is it possible for clouds to form there.
+
+Peter and his colleagues discovered that most stratospheric clouds are in fact not made from ice particles, but rather from highly concentrated droplets of nitric acid. No one had expected to find liquid droplets in the atmosphere at temperatures of –85°C, and at first no one believed this discovery was indeed genuine.
+
+It turned out that it is precisely these nitric acid droplets that host the chemical processes which “prime” the human-made chlorine compounds – in other words, turn them into active compounds that will quickly destroy ozone. The result is the “ozone hole” over Antarctica.
+
+“However,” Peter says, “it’s not the clouds of nitric acid droplets themselves that ruin the ozone layer, but rather the chlorine that comes from the long-lasting chlorofluorocarbons (CFCs) we emitted into the atmosphere. The clouds are merely unwitting accomplices.”
+
+Peter quickly built up a wealth of expertise in his new field, which led him to serve for many years as coauthor of the Ozone Assessment Report required by the Montreal Protocol , sometimes working on several chapters simultaneously. “Hard work,” he says, “but utterly fascinating. ”
+
+For Peter and his working group, the stratosphere offered up endless topics worthy of investigation. However, they also started exploring tropospheric aerosol: How can simplicity emerge from the complex composition of organic aerosols? What fundamental physical and chemical properties do they have?
+
+Peter’s group demonstrated that organic aerosol particles can take on a glass-like structure under dry tropospheric conditions. “Imagine you have a tiny miniature hammer. You could use it to smash a glass-like, micrometre-sized particle into lots of little shards,” Peter says. The vitrification of the aerosols slows down the physical and chemical processes that take place within the particles.
+
+Neither organic molecules nor water can escape from these glass-like aerosols. Only when the conditions at another point in the atmosphere become more humid does the aerosol shell become liquid and permeable again. “From this we conclude that certain organic aerosols are ideal vessels for transporting volatile organic compounds, including environmental toxins such as carcinogenic polyaromatics and DDT. The glass-like shell can shield these substances from atmospheric decomposition processes and thus help distribute them across the world,” Peter says.
+
+Peter vividly recalls another topic that, while not earning him “any great publicity”, was extremely relevant for the public. When the Icelandic volcano Eyjafjallajökull erupted in 2010, Peter and his team immediately took measurements using balloon-carried optical instruments developed by their group. “We identified thin layers of volcanic ash particles with glass-like shells at between two and six kilometres above Zurich. These are capable of knocking out a plane’s engines.”
+
+## Can aerosols save the climate?
+
+This measurement was unprecedented. First published in ETH News, “it caused quite a stir at the Swiss Federal Office of Civil Aviation, or FOCA,” Peter says. “They called me up at the crack of dawn on a Sunday, wanting to know if this aerosol layer posed a threat to air traffic.” Subsequently, FOCA extended the ban on flying over Switzerland by another week.
+
+The balloon instruments his team built have become a global success: over the past 15 years, they have been deployed more than 600 times in 15 countries and regions from Spitzbergen to the tropics to New Zealand.
+
+Using global chemistry-climate models, Peter and his team were also not afraid of tackling the ethically tricky topic of whether targeted injections of aerosols into the stratosphere could be used to cool the climate. “Unfortunately, year after year, we fail to initiate the desperately needed reductions in CO 2 emissions,” Peter says.
+
+This is why he favours the approach of researching and understanding artificial methods of climate cooling, if only to then be in a position to argue against using them based on the potentially disastrous side effects. “It’s hard to assess the risks of applying geoengineering methods versus those of deciding not to. The only way to do this properly is to understand the effects – at least within a model,” Peter says.
+
+Shortly before retiring, a study was published that Peter describes as yet another highlight of his career. A Swiss research consortium began this study in 2017 and the project is still going strong. The consortium is exploring how long viruses in exhaled aerosol particles remain infectious and what inactivates them (see ETH News , 21 December 2022). The study concluded that exhaled particles rapidly absorb acid molecules from the air, which can render the viruses thoroughly inactive. This study has direct practical applications, namely frequently letting in fresh air – and thus invite acid molecules from outside air to mix with room air – and even to otherwise enrich room air with small amounts of acid molecules to quickly neutralise the viruses.
+
+Tom Peter didn’t spend all his time on research, however. In 1999, he joined ETH as Full Professor of Atmospheric Chemistry in what was then the Department of Environmental Sciences (D-UMNW). He was a member of departmental management for a total of 12 years: from 2004 to 2012 as Deputy Head of Department, and thus responsible for departmental strategy, and from 2013 to 2017 as Head of Department.
+
+On the roof of the CHN building, Tom Peter has a clear view of his long-standing research topic, the atmosphere and climate. (Photograph: Gian Marco Castelberg / ETH Zurich)
+
+## Taking time for the next generation
+
+He witnessed two departmental mergers: first with the forestry sciences, when D-UMNW became D-UWIS, and then with the agricultural sciences to form D-USYS.
+
+Peter describes these mergers as tricky due to the confluence of different cultures: the “environmentalists”, who have had their own department only since 1990, and the “agriculturists”, who have been around since 1871, when ETH was known as the Polytechnic Institute. “We were basically told to ‘sort it out amongst yourselves’,” he says, which everyone found challenging. “But we managed it. Even better, the two groups are now true colleagues, whether they hail from agricultural and forestry process efficiency or from the ivory tower of the environmental sciences.”
+
+Peter’s efforts on the institutional front meant that he had to put his research on the back burner. “Looking back, I allowed myself to get a little too caught up in departmental business,” he says, adding that “self-government” also has its drawbacks. “But thanks to outstanding cooperation and an excellent Departmental Services team, I really enjoyed the administrative side of things.”
+
+“I’m just sad that my time at ETH seemed to fly by,” Peter says. “But I don’t regret any of the choices I’ve made. We always got to pursue what we were interested in – and that’s testament to the outstanding opportunities available at this university. It’s also thanks to my fantastic working group,” he adds.
+
+But Peter won’t be leaving ETH entirely for a while yet. He’ll continue to lecture in the Spring and Autumn Semesters of 2023, partly because his successor has yet to be appointed. Due to ETH’s current austerity policy, the university is staggering the appointment of new professors once their predecessors have left. “I understand the situation we’re in, but I do feel that it’s less than ideal,” says the former Head of Department.
+
+However, he’s not exactly heartbroken at the notion of tacking on another two semesters: “I really enjoy teaching,” he says. This is also bound to benefit ETH students, who value him as a lecturer. Indeed, in 2010 Tom Peter was awarded a “Golden Owl” for outstanding teaching.
+
+He’ll now be giving up his office with its clear view of the clouds, the weather, the mountains and the lake, and moving two doors down the corridor to a smaller room he will share with two colleagues. “It’s no bad thing to be ‘just’ a scientist again, sharing a desk with another scientist,” he says. But for now, he’s excited about taking on a new role: he recently became a grandfather. “I retired on 31 January and two days later Hannah was born – a joyous event and perfect timing,” he smiles.
+

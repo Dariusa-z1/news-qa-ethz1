@@ -1,0 +1,76 @@
+# tracing-a-digital-shadow
+
+**Source:** en_news_events/2023/03/tracing-a-digital-shadow.html
+
+## Main article
+
+Mr Buhmann, will computers soon have their own emotions?
+
+Joachim Buhmann: Emotions drive human behaviour. If algorithms learn to behave like humans, then they can also imitate the emotional component of that behaviour. But whether a computer could then be said to have emotions is arguably more of a philosophical question!
+
+Ms Zimmerman, how exactly do psychologists define emotions?
+
+Verena Zimmermann: Emotions are so complex that not even psychology can come up with a clear definition. But there are certain aspects that many of the definitions agree on, namely that emotions are triggered by a particular situation and are experienced intensely, that they are relatively short-lived, and that they always involve a physiological reaction such as rapid breathing or a quickened heartbeat. Basic emotions such as anger, happiness or sadness are easy to distinguish from one another, and many people exhibit them in similar ways. But feelings such as resignation or unease can be much harder to identify and consequently are harder to measure accurately.
+
+Buhmann: That’s a crucial distinction. Categories such as frustration, annoyance, pleasure and enthusiasm certainly help us package up the processes that lie behind emotions in ways that make communication with others easier. But we need to explore what we’re actually trying to describe with these terms. They are descriptions of highly complex mental states that I believe are sub-rational. The terms encapsulate an incredibly complex dynamic – something our language is too narrow to capture in its entirety.
+
+Does that mean machines can learn things that humans don’t understand?
+
+Buhmann: Yes, and that’s the central premise of machine learning: instead of giving a computer a concept of reality, we let it learn directly from the data. When algorithms are learning to behave like humans – say, writing an article – they take us as examples even though we are not actually capable of rationalising our own behaviour. Algorithms have become incredibly good at imitating things that we can barely grasp on an intellectual level.
+
+Mr Fleisch, your field of research has a strongly applied focus. What project are you working on at the moment?
+
+Elgar Fleisch: My research group recently launched a number of clinical studies to measure the effect of emotions. For example, we’re currently exploring whether certain physiological signs correlate with inflammation markers in the blood of test subjects; we hope this will tell us whether individuals are on a path towards illness even when they’re still healthy. This method could eventually offer a simple and affordable early-warning system to help us prevent chronic illnesses before they occur.
+
+Buhmann: It’s true that many diseases manifest themselves in mechanical ways. For example, it’s possible to detect early-stage Parkinson’s disease solely from the way someone types on a keyboard – even before a diagnosis has been made. Scientists discovered this from the keystroke patterns of people worried about having Parkinson’s who entered questions about the disease into search engines.
+
+How accurately can emotions be measured?
+
+Fleisch: Emotions trigger an amazing number of responses in the body. They affect how we speak – the pace, volume and tone of our voice – as well as our eye movements and movements in general, our pulse rate, our breathing...
+
+Zimmermann: We all respond in different ways and are capable of registering, manipulating or even suppressing our emotions. That poses a real challenge for the technology. If I limit myself to just one measurement technique, I might end up misinterpreting the data. As researchers, we therefore need to combine multiple methods by, for example, using voice and facial recognition together with other physiological factors.
+
+Are there any other areas where machines are used to detect emotions?
+
+Buhmann: Human-computer interaction is obviously one area where it’s helpful for the algorithm to know something about the emotional state of the person it’s interacting with. It’s easy enough to phrase questions slightly differently depending on whether the person responds positively or negatively. That can be a useful way of influencing the emotional impact of an interaction.
+
+Zimmermann: Emotions and our attitudes towards machines are highly relevant to my area of research. Part of my job is to study the role of human behaviour, including our emotions, in cybersecurity. One of my doctoral students is currently investigating how emotions affect our perception of cybersecurity and our attitude towards it. For example, someone who feels anxious about cybersecurity issues may exhibit avoidance behaviour and choose not to engage with the topic at all. As a result, they may fail to learn anything, which leaves them unable to behave safely.
+
+How can we encourage people to feel positive about interacting with machines?
+
+Zimmermann: It depends on what you hope to achieve with the technology in question. For instance, do you want to help people experience emotions via virtual reality? Or are you aiming to create genuinely humanlike social interaction in environments such as the care sector, where human connection might be increasingly harder to come by as society ages? Some studies have shown that, depending on how they’re designed, robots can trigger certain emotions in people, thereby creating an emotional bond between humans and technology.
+
+In other words, the more humanlike a robot is, the more affinity we feel for it?
+
+Zimmermann: Yes, but only up to a point. As robots become more humanlike, our affinity for them increases. But then comes a dip in the graph of our emotional response, which is called the “uncanny valley”. That’s the eerie, uneasy feeling we get when we interact with something that is close to appearing human yet is somehow imperfect and out of the norm.
+
+So it’s better for machines not to bear too much similarity to us?
+
+Fleisch: Our experiments with chatbots certainly suggest that machines don’t need to be perfect to create a bond with users. One of our chatbots was used in therapy for obese children as a kind of intermediary between doctors and patients. The goal was to improve the children’s adherence – in other words, to encourage them to comply with their treatment plan. The chatbot was available from morning to night. It learned from the children’s reactions, and they could even give it a name. Whenever they had a question, they could choose whether to ask the doctors or the chatbot. In 99 percent of cases, the kids chose the chatbot!
+
+Computers are making inroads into areas that, until recently, were the domain of humans. What will the task division between humans and machines look like in the future?
+
+Fleisch: In the example I gave of the chatbot for obese children, you always need doctors behind the scenes to support the technology. I don’t see a danger of humans being sidelined, but rather an opportunity to enhance our capabilities. Smart assistants don’t replace doctors, but they can assist and support a patient through a lengthy illness. According to our analyses, chatbots are rarely on par with, or better than, the best doctors, but they are better than the average. And that means digital coaches have the potential to boost treatment quality across the board.
+
+Buhmann: As humans, our capacity to think and perceive things is clearly limited. Evolution gifted us with powers of abstraction and creativity but went easy on the storage capacity – otherwise we would have become databases. When you look at all the scientific knowledge we’ve managed to piece together so far, it has actually required very little descriptional complexity. In fact, all the scientific theories that are accepted today would fit on the back of an envelope. But obviously that’s not reality; it’s simply a selective slice of what our brain is capable of processing. That means we have no way of dealing with higher levels of complexity or building predictive models. What we need is a kind of “thinking co-processor” that can help us adopt a broader view.
+
+Are there any functions that machines shouldn’t take on?
+
+Buhmann: That’s not the question we should be asking. We need to be harnessing these technologies to redefine what our world will become, not hobbling them so as to ensure our old powers of organisation keep working in the future! These new tools will also give rise to a new ethics. Things that may have previously been unethical will suddenly become acceptable.
+
+In the future, what role will emotions play in the technical sciences?
+
+Fleisch: What we measure is not the emotions themselves, but rather the digital shadow of our feelings registered by the measuring device. As we move forward, our technical understanding of this useful shadow will get better and better. We have an obligation to use those insights to benefit society while leaving the emotions themselves safely separated from the computer.
+
+Zimmermann: As a researcher working at the interface between the social and technical sciences, I think it's important not to look at humans and technology in isolation, but rather to consider the interaction between them. Because that’s where emotions play a crucial role.
+
+## About
+
+Joachim M. Buhmann is Professor of Computer Science in the Department of Computer Science.
+
+Elgar Fleisch is Professor of Information and Technology Management in the Department of Management, Technology and Economics.
+
+Verena Zimmermann is Professor of Security, Privacy and Society in the Department of Humanities, Social and Political Sciences.
+
+This text appeared in the 23/01 issue of the ETH magazine Globe . Read whole issue (PDF, 5.4 MB)
+

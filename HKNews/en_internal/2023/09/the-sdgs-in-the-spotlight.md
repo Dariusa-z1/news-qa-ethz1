@@ -1,0 +1,22 @@
+# the-sdgs-in-the-spotlight
+
+**Source:** en_internal/2023/09/the-sdgs-in-the-spotlight.html
+
+## Main article
+
+The open your eyes photo festival aims to emotionally touch its visitors through art, beauty, and the expressive power of photographs. Hence, the festival's slogan is "Stop. Think. Feel. Act." The framework for this is the 2030 Agenda for global sustainable development with its 17 Sustainable Development Goals (SDGs). Each SDG has a thematic island featuring impactful photographs, explanations of the development goal, and information about several ETH projects working toward that goal. The aim of the exhibition is to simultaneously raise awareness of the complex challenges of our time and also to highlight potential solutions.
+
+The photo festival has been developed and curated over the past three years by an interdisciplinary team. ETH Sustainability joined in March 2023 and ensured together with ETH Community & Outreach that over 50 contributions from the ETH universe were integrated into the exhibition. This provides a platform for research groups, young entrepreneurs, and teaching and learning initiatives from ETH Zurich that operate daily in the context of the SDGs. They aim to show viewers that there are options for action and inspire them to become active themselves. The photo festival transforms the Zurich Old Town and the left lakeside promenade into an open-air museum. In the first week of the festival, more than 70,000 visitors were registered who spent about 20 minutes on at least two exhibition islands. Throughout the festival route, people are captivated by the images and texts.
+
+It's truly worth taking a walk from the polyterrace to the lakeshore.
+
+## Autumn 2023: SDGs in the Global Spotlight
+
+Simultaneously with this article, the 2023 SDG Summit is taking place in New York, a gathering of UN member states halfway through the period in which the SDGs are supposed to be achieved (from 2015 to 2030). After July 2023, the hottest month ever recorded, and the increasing frequency of natural disasters coupled with human-induced inadequacies, member states face the challenging task of seriously adjusting their actions to continue working toward achieving the SDGs. Here at ETH, the public lecture series "SDGs in Context" starts on September 27th, which students and external guests can attend. The lectures will take place on Wednesdays from 18:00 to 19:30, twice in the ETH main building and then via Zoom. It's worth registering to receive current information on individual events and the link to each event. As part of the lecture series, ETH Sustainability will offer guided tours of the Open Your Eyes exhibition on Wednesday afternoon, October 4th, 2023.
+
+You can register here: Form .
+
+Thur, 21 Sep 2023 ETH Global Lecture Series: GO BELOW: On National Geographic Assignment with David Doubilet and Jennifer Hayes (English) Wed, 20 Sep 2023, Thur, 28 Sep 2023, 3 Oct 2023, 11 Oct 2023 «Das Universum verstehen» - Vortragsreihe zu den Experimenten am grössten Teilchenbeschleuniger der Welt (German)
+
+Wed, 4 Oct 2023 Guided tours in the Open Your Eyes photo festival by ETH Sustainability, hourly from 13h to 18h. Registration required.
+

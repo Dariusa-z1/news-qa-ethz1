@@ -1,0 +1,36 @@
+# was-heisst-wissenschaftliche-integritaet-fuer-die-eth-forschenden
+
+**Source:** de_internal/2021/07/was-heisst-wissenschaftliche-integritaet-fuer-die-eth-forschenden.html
+
+## Diskussion um neue ETH-Integritätsrichtlinien eröffnet
+
+• Verlässlichkeit gewährleistet Qualität in Lehre und Forschung und bildet die Grundlage der Glaubwürdigkeit sowie des Vertrauens in die Wissenschaft. Verlässlichkeit bezieht sich dabei auf alle Phasen der wissenschaftlichen Arbeit, von der Konzeption (inkl. Auswahl des Projektes und der Projektpartner) bis zur Publikation und der Datenpflege. Sie beinhaltet Transparenz und Nachvollziehbarkeit.
+• Redlichkeit bei der Entwicklung, Ausgestaltung und Durchführung, Überprüfung und Beurteilung, Berichterstattung und Kommunikation von Lehre und Forschung bedeutet, dass diese Schritte in transparenter Weise und im Bestreben nach grösstmöglicher Unvoreingenommenheit erfolgen.
+• Respekt gilt sowohl den Kolleginnen und Kollegen in der Wissenschaft als auch Mitarbeitenden, Personen in Ausbildung, Studien- und Forschungsteilnehmenden, der Gesellschaft, dem kulturellen Erbe sowie der Umwelt gegenüber.
+• Verantwortung tragen die Wissenschaftlerinnen und Wissenschaftler für die Folgen des eigenen Tuns in Lehre, Forschung und allen damit verbundenen Bereichen, besonders für die Sicherheit der Mitarbeitenden und für einen sorgfältigen Umgang mit Ressourcen.
+Integrität in der Wissenschaft ist eine Haltung, die sich in der täglichen Arbeit einer Forschungsgruppe zeigt und im Umgang der Forschenden untereinander spiegelt. Selbstkritik, Transparenz und Fairness sind wesentliche Elemente dieser Haltung. Eine gelebte Integrität und eine «gute wissenschaftliche Praxis» tragen zum Vertrauen in die Wissenschaft bei, da sich andere Forschende, Wirtschaft und Gesellschaft darauf verlassen können, dass die wissenschaftlichen Erkenntnisse nach anerkannten Standards, redlich, transparent und wiederholbar erzeugt werden.
+
+In diesem Sinn sind integres Verhalten und eine gute wissenschaftliche Praxis sowohl ein Merkmal als auch eine Voraussetzung exzellenter Wissenschaft. Wissenschaftliche Integrität ist ein zentraler Wert der ETH Zürich, dessen Anwendung in den «Richtlinien für Integrität in der Forschung und gute wissenschaftliche Praxis an der ETH Zürich (Integritäts-Richtlinien, RSETHZ 414)» dargelegt ist.
+
+Diese Integritäts-Richtlinien wurden 2008 in Kraft gesetzt und seither zweimal (2009, 2011) teilergänzt. Verschiedene Entwicklungen der letzten zehn Jahre (u.a. Open Science, Open Research Data, Interessenskonflikte) sowie die praktischen Erfahrungen der Forschenden, Fach- und Vertrauenspersonen der ETH haben nun eine umfassende Überarbeitung der Richtlinien ausgelöst. Weiter gibt es neue, für die ETH relevante Regelwerke, so etwa der im Mai 2021 veröffentlichte externe Seite «Kodex zur wissenschaftlichen Integrität» der Akademien der Wissenschaften Schweiz . Dieser diente als Grundlage, um die Integritäts-Richtlinien der ETH Zürich entlang des Kodex zu prüfen, weiter zu präzisieren und zu ergänzen.
+
+Im Auftrag der Schulleitung hat die 2018 etablierte Kommission für gute wissenschaftliche Praxis (GWP-Kommission) einen Entwurf der totalrevidierten Integritäts-Richtlinien erarbeitet. Diesen hat die Schulleitung Ende Juni für eine breite interne Diskussion an der ETH freigegeben. Entsprechend wurde unter der Federführung des Vizepräsidenten für Forschung, Detlef Günther, die Vernehmlassung lanciert. Bis zum 20. Oktober 2021 sind die Departemente, die Hochschulgruppen sowie die Stäbe aufgerufen, eine Rückmeldung zum Detaillierungsgrad der Ausführungen einzureichen sowie zum Inhalt, das heisst zur Frage, welche Aspekte thematisch zur wissenschaftlichen Integrität gehören und in den Richtlinien adressiert werden sollen.
+
+«Ein breites Feedback ist uns wichtig», sagt Nicolas Gruber, Präsident der GWP-Kommission, «denn was die Integritätsrichtlinien beschreiben, muss auch gelebt werden. Es geht um die Kultur unserer Forschung und um diejenigen Werte und Prinzipien, die das Vertrauen unter den Forschenden und in die Wissenschaft ermöglichen.»
+
+Neu bilden vier konkrete, am Kodex der Akademien angelehnte Grundprinzipien der wissenschaftlichen Integrität (Art. 3) die Grundlage der Integritätsrichtlinien.
+
+Diese Grundprinzipien sind sowohl auf die Lehr- als auch auf die Forschungstätigkeit anwendbar. Insgesamt regeln die Richtlinien sowohl die Integrität bei Forschungsarbeiten als auch bei der Veröffentlichung und Verwertung von Forschungsergebnissen und bei der Beurteilung und Evaluation von Forschung (Stichwort: Interessenkonflikte). Eine zentrale Neuerung ist die Verpflichtung auf allgemeine Prinzipien und Standards: Alle Forschenden der ETH Zürich sollen die Verantwortung tragen, dass ihr Verhalten den Prinzipien und den Standards einer guten wissenschaftlichen Praxis entspricht.
+
+Rein praktisch funktionieren sie als guter Leitfaden: «Die überarbeiteten Integritätsrichtlinien sollen kein isolierter Rechtstext sein, sondern den Forschenden Orientierung bieten, was Integrität für ihre wissenschaftliche Arbeit bedeutet – darum möchten wir ihre Erfahrungen und ihr Wissen abholen sowie die Werte und Prinzipien guter wissenschaftlicher Praxis intern breit mit ihnen diskutieren», sagt ETH-Vizepräsident Detlef Günther.
+
+Aufgrund der inhaltlichen Überlappungen werden die Vernehmlassungen der Integritäts-Richtlinien und jene zum Entwurf der Research Data Management Guidelines gekoppelt. Letztere regeln zentrale Aspekte des Forschungsdatenmanagements (Sammlung, Verarbeitung, Publikation und Erhalt von sowie Zugang zu Forschungsdaten) und der Verantwortlichkeiten in der ETH. Basierend auf den Ergebnissen der Vernehmlassung wird die GWP-Kommission den Entwurf der Integritäts-Richtlinien überarbeiten und der Schulleitung unterbreiten.
+
+In einem nächsten Schritt wird auch die Verfahrensordnung bei Verdacht auf Fehlverhalten in der Forschung (RSETHZ 415) einer Totalrevision unterzogen.
+
+## Weitere Informationen
+
+Alles über wissenschaftliche Integrität an der ETH
+
+externe Seite E-Learning «Integrität in der Forschung»
+

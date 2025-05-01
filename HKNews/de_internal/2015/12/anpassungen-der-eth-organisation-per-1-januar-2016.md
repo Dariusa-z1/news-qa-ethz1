@@ -1,0 +1,18 @@
+# anpassungen-der-eth-organisation-per-1-januar-2016
+
+**Source:** de_internal/2015/12/anpassungen-der-eth-organisation-per-1-januar-2016.html
+
+## Main article
+
+Weitere Änderungen der Organisationsverordnung:
+
+• Nachführung der Zuständigkeiten des Präsidenten: die Themen Chancengleichheit und Nachhaltigkeit werden ergänzt.
+• Aus dem Rektorat wird die Abteilung Akademische Dienste. Damit kann der Begriff Rektorat für den gesamten Zuständigkeitsbereich der Rektorin verwendet werden.
+• Formelle Nachführung der Zuordnung des ETH-Tierschutzbeauftragten: Er oder sie ist administrativ dem ETH Phenomics Center zugeordnet und berichtet direkt dem/der Vizepräsidenten/in für Forschung und Wirtschaftsbeziehungen.
+• Welchen Rechtscharakter ausserdepartementale Einrichtungen der ETH Zürich haben können, wird nun explizit aufgeführt. Ausserdem wird die Auflistung um die Einrichtungen neueren Datums ergänzt: das Singapore-ETH Centre, Hochschulmedizin Zürich und Institute of Science, Technology, and Policy.
+Die Bezeichnung «Infrastrukturbereich» für die Linieneinheiten überzeugte seit ihrer Einführung nur bedingt, weil sie die entsprechenden Tätigkeiten – siehe zum Beispiel die Hochschulkommunikation – nicht oder nur teilweise abbildete. Neu sollen alle zentralen Verwaltungseinheiten mit abschliessender Prozessverantwortung und substanziellen Finanzkompetenzen zu Abteilungen werden.
+
+Diese Voraussetzung und erweiterte Zuständigkeiten führen nun dazu, dass auch mehrere Stabsstellen den Status einer Abteilung erhalten. So laufen künftig die Fäden der Beratung und Betreuung der Studierenden bei der bisherigen Stabsstelle Studienorientierung und Coaching zusammen; neu wird daraus die Abteilung Studentische Dienste. Abteilungen werden auch die bisherigen Stabsstellen Lehrentwicklung und -technologie sowie Sicherheit, Gesundheit und Umwelt. Aus dem Stab Veranstaltungen und der vormaligen Abteilung Dienste wird die Abteilung Services.
+
+Im Bereich Finanzen und Controlling entstehen aus den bisherigen Untereinheiten die drei selbständigen Abteilungen Controlling, Rechnungswesen und Finanzdienstleistungen.
+

@@ -1,0 +1,20 @@
+# flugzeugtreibstoff-aus-sonnenenergie
+
+**Source:** de_news_events/2014/04/flugzeugtreibstoff-aus-sonnenenergie.html
+
+## Synthesegas für die Kerosinherstellung
+
+Ein europäisches Konsortium unter Beteiligung der ETH Zürich hat den experimentellen Machbarkeitsnachweis erbracht für die Herstellung von flüssigem Treibstoff in einem thermochemischen Prozess mit Hilfe von konzentrierter Sonnenenergie. Am von der EU geförderten Projekt Solarjet waren neben der ETH Zürich das Deutsche Zentrum für Luft- und Raumfahrt, das Treibstoffunternehmen Shell, der Think Tank Bauhaus Luftfahrt und die Consultingfirma Arttic beteiligt.
+
+Kernstück des Herstellungsprozesses von nachhaltigem «solarem Kerosin» ist ein Hochtemperatur-Solarreaktor, der in der Gruppe von Aldo Steinfeld, Professor für Erneuerbare Energieträger an der ETH Zürich und Leiter des Labors für Solartechnik am Paul Scherrer Institut, entwickelt wurde. Der Reaktor beinhaltet einen porösen, keramischen Solarabsorber aus dem Metalloxid Cerdioxid. Damit wird in einem zyklischen, zweistufigen sogenannten Redox-Prozess Wasser und CO 2 gespalten.
+
+Die erste, energieintensive Stufe läuft bei 1500 Grad Celsius ab, wobei die benötigte Energie aus konzentrierter Solarstrahlung stammt. Das Metalloxid gibt in diesem ersten Schritt Sauerstoff ab und liegt anschliessend in sogenannt reduzierter Form vor. Im zweiten Schritt reagiert das reduzierte Metalloxid bei 700 Grad Celsius mit Wasserdampf und CO 2 , die dem Metalloxid Sauerstoff-Atome übertragen. Das Metalloxid hat damit wieder seine Ausgangsform erreicht, und der Kreisprozess kann erneut gestartet werden. Entstanden sind ein Gasgemisch aus Wasserstoff (H 2 )und Kohlenmonoxid (CO), das als Synthesegas – oder Syngas – bezeichnet wird. Es kann anschliessend zur Synthese von flüssigem Treibstoff verwendet werden.
+
+«Es gelang uns, mit dem Reaktor 240 Zyklen zu durchlaufen», sagt Daniel Marxer, Doktorand in der Gruppe von Steinfeld. So gewannen die ETH-Forscher 750 Liter Syngas, welches sie in einem Druckbehälter nach Amsterdam schickten. Dort wurde daraus in einem Forschungszentrum von Shell mit einer etablierten Methode (Fischer-Tropsch-Verfahren) Kerosin hergestellt.
+
+Darstellung des Funktionsprinzips. (Illustration: Solarjet)
+
+In einer nächsten Phase des Projekts möchten die beteiligten Partner die Solarreaktor-Technologie weiter optimieren. «Dazu gehört es auch, die Effizienz der Energieumwandlung von Sonnenenergie in Treibstoff zu maximieren», sagt Steinfeld. «Was den Solarreaktor angeht, ist dafür eine bestmögliche Wärmeübertragung und die Reaktionsgeschwindigkeit zentral.» Auch möchten die Projektpartner das Potential der Technik für eine industrielle Anwendung ausloten, beispielsweise in einer Solarturmanlage, wie es sie bereits zur Stromerzeugung gibt.
+
+Denkbar wäre ausserdem, das für den Prozess notwendige CO 2 über Abscheidungstechnologien beispielsweise aus der Atmosphäre oder aus Abgasen zu gewinnen. So würde der ganze Prozess CO 2 -neutral werden. Die Wissenschaftler sind sich allerdings bewusst: Um dereinst ganze Flugzeuge mit so hergestelltem Treibstoff zu versorgen, wären sehr grosse Flächen nötig. «Das Ziel ist, mit unserem solarbetriebenen, zyklischen Prozess langfristig einen Wirkungsgrad von 15 Prozent zu erreichen», sagt Steinfeld. Damit könne eine Solaranlage von einem Quadratkilometer Fläche pro Tag 20‘000 Liter Kerosin produzieren.
+

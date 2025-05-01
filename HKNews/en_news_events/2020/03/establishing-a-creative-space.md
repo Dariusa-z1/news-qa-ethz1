@@ -1,0 +1,54 @@
+# establishing-a-creative-space
+
+**Source:** en_news_events/2020/03/establishing-a-creative-space.html
+
+## Main article
+
+The massive growth in scientific knowledge thanks to research and technology over the last 30 years means that even acknowledged experts find it harder and harder to keep up. Against this background, doggedly stringing facts together and systematically turning students into walking encyclopaedias makes less and less sense.
+
+“Of course it is painful to leave some things out, but teaching at ETH Zurich can no longer be an attempt to cover everything,” says Andreas Vaterlaus, Professor of Physics and Vice Rector for Curriculum Development. “Treating a subject superficially without the students having the opportunity to apply their knowledge isn’t much use.” Vaterlaus surveys how teaching at the university is constantly changing so that it remains adapted to the current state of knowledge.
+
+Important signals are provided by the teaching evaluation process, he says. When a lot of students complain that the material is too dense and they don’t have time to process the study content, this is often a sign that it’s time to declutter. ETH Zurich’s teaching policy is designed to offer students a wide range of opportunities and freedom to achieve top performance – even outside of the scope of performance assessments and curricula. “Many things happen at the level of individual courses that we don’t notice at the central level,” says Vaterlaus. But if major changes are planned or even entire degree programmes are redesigned, the Educational Development and Technology administrative department, the Education Legislation team and the Vice Rector for Curriculum Development are involved in the process from the very beginning.
+
+## Stronger weighting of engineering components
+
+The degree programme initiative provides departments with a tool which they can use to gain more financial leeway and time in which to develop new course content and ways of teaching. When an entire degree programme has to be restructured and rebuilt so that “no stone is left unturned”, this creates potential for something new. This is true, for example, of the two currently ongoing degree programme initiatives in materials science and biology.
+
+Materials sciences have made great strides since the turn of the millennium. The traditional separation of materials into different classes – metals, ceramics or polymers, for example – has become less important; now the focus is on global properties. For example, there is one professorship for complex materials and another for multifunctional materials. “We would like our Bachelor’s programmes to reflect this new interpretation of the subject area more clearly,” says Sara Morgenthaler, Head of Study and Doctoral Administration in the ­Department of Materials.
+
+## Taking evolution as the central theme
+
+Discussions took place with lecturers and students, but also with alumni, other universities and companies, to identify what graduates should be able to do after completing their education. One aim of the Materials Redesigned initiative is to prepare students for the professional challenges of the future. This is to be achieved through a stronger weighting of the engineering and design components, whilst maintaining scientific rigour.
+
+It helps to ask fundamental questions when reorienting a degree programme and to start by defining goals with a “qualification profile”, according to Vaterlaus. This goal orientation enables lecturers to avoid focusing too narrowly on their own subject area. “If, instead of asking whether I get two or three hours for my lecture, the focus is on the entire degree programme, this usually leads to a very constructive process of curriculum development.”
+
+The department is now mid-way through the preparatory work. As early as Autumn Semester 2020, the materials scientists of the future will begin a revised degree programme with an entirely new structure. This not only combines skill sets from different courses, but also allows students working on engineering projects to find solutions to problems independently. “We want students to identify and address materials science questions starting with the product,” explains Morgenthaler. Since this is closely connected with the teaching of characterisation and processing methods, laboratories are currently being redesigned and adapted for teaching. This will give students early access to equipment used in research.
+
+Autumn Semester 2020 will also see the launch of the newly designed Bachelor’s degree programme in biology. “We want to move away from our traditional focus on multicellular organisms such as plants and animals and re- orient the degree programme towards the development of life,” said Julia Vorholt, Professor at the Institute of Microbiology and coordinator of the degree programme initiative “Biology according to first principles”. Taking evolution as the central theme allows us to base the teaching material on the historical development of organisms, and arrange it so as to enable students to focus more on the general principles and interconnections, whilst teaching less isolated, fact-based knowledge.
+
+Up to now, the first year of the Bachelor’s programme has served mainly to refresh and standardise students’ varying knowledge acquired at school, so that central biological topics such as metabolism or heredity can be studied in greater depth in the second year. But today’s textbooks are written with too narrow a perspective. “Biochemistry mainly describes biochemical processes in a liver cell. This is only a small part of the life processes,” explains Vorholt. This focus on multicellular organisms makes it difficult to develop an understanding of evolutionary relationships.
+
+Under the new programme, biology students now try to understand how life has developed from the beginning – about four billion years ago – and the wide variety of solutions that life forms have developed in order to survive under the prevailing conditions.
+
+Vorholt and her colleagues aim to base their teaching on the fundamental findings of the last 20 years, which shed new light on key biological questions. What is life, and what are the conditions and laws that govern it? “We hope to stimulate our students’ curiosity and critical faculties by raising unanswered questions from the outset, to demonstrate the limits of our knowledge,” she says.
+
+## Ground-breaking courses
+
+The new degree programme will contain more interdisciplinary elements and will establish closer links with chemistry, physics, mathematics and computer science than has been the case up to now. It is planned to coordinate the study content for biology with that of the other subjects. “In raising these concerns we found we were pushing at an open door,” says Vorholt. This reciprocal, networked approach should make the other disciplines more relevant and exciting for future biologists.
+
+“So, for example, a colleague from earth sciences will use their expertise to show what the earth would have looked like without life, and what dramatic changes to the earth have been triggered by biological processes,” explains Vorholt. “This should open students’ eyes to the major connections from the very start of the programme, before getting into the molecular basis of life processes.”
+
+In contrast to the two degree programme initiatives mentioned above, which are reorganising existing course content in order to incorporate current knowledge of the subject into teaching, the growth of knowledge in other areas is leading to the development of completely new courses. In Autumn Semester 2019, for example, the two federal institutes of technology ETH and EPFL launched the Cyber Security ­Master’s programme. “This joint degree programme combines the strengths of our two universities in a field that is of vital interest to our country,” says ETH Zurich President Joël Mesot.
+
+In this Master’s programme, computer science students follow up their undergraduate studies by delving into aspects of cryptography and the security of hardware, software and networks. They also examine ways of ensuring user confidence. As well-trained specialists, they will one day help our increasingly connected society to guard against threats such as data theft or attacks on vital infrastructure.
+
+The Master’s programme in quantum engineering, also launched in Autumn Semester 2019, is similarly forward-looking. This course is open to students with Bachelor’s degrees in physics or computer science and electrical ­engineering.
+
+In a project-based learning environment in which mixed teams of engineers and physicists work together, they are taught both the basic laws of quantum theory and the engineering skills necessary to implement, measure and control quantum processes.
+
+Vaterlaus sees these new opportunities at Master’s level as enriching for students. The fact that teaching at ETH Zurich is constantly being reviewed through an ongoing process naturally involves a considerable amount of work for all concerned, and it also means that lecturers must always be prepared to take new ideas on board. But this is the only way to ensure that ETH students keep getting the right “toolkit” from their studies – in other words, that they learn all the skills they need to help shape the future.
+
+This text has been published in the annual report 2019 .
+
+Go to the annual report 2019
+

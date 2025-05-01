@@ -1,0 +1,32 @@
+# attosecond-measurement-on-electrons-in-water-clusters
+
+**Source:** en_news_events/2022/07/attosecond-measurement-on-electrons-in-water-clusters.html
+
+## Main article
+
+Virtually all vital chemical processes take place in aqueous solutions. In such processes, a decisive role is played by electrons that are exchanged between different atoms and molecules and thus, for instance, create or break chemical bonds. The details of how that happens, however, are difficult to investigate as those electrons move very fast. Researchers at ETH Zurich led by Hans Jakob Wörner, professor of physical chemistry, in collaboration with colleagues at Lawrence Berkeley National Laboratory (USA) have now succeeded in studying the dynamics of electrons in clusters made of water molecules with a time resolution of just a few attoseconds. Their results recently appeared as an advance publication in the scientific journal Nature.
+
+## Time delay in ionisation
+
+In their experiments, the scientists studied how water clusters are ionised by a short laser pulse in the extreme ultraviolet. To that end, clusters are first created by squeezing water vapour through a tiny nozzle under high pressure. The energy of the extreme ultraviolet photons of the laser pulse then cause one electron of the cluster to be released. This leads to a vacancy also known as a “hole”.
+
+The release of the electron, however, does not occur immediately after the arrival of the pulse, but rather after a short delay. That delay depends on how the electron hole is distributed across the molecules of the cluster. “Up to now, the distribution of the hole could only be calculated theoretically, as the delay is far too short to be measured with traditional methods”, explains Xiaochun Gong, the post-doc who was in charge of the project.
+
+## Attosecond resolution with two laser pulses
+
+The delay actually only lasts a few attoseconds, or a few billionths of a billionth of a second. To appreciate how short an attosecond is, one can make the following comparison: the number of attoseconds in a single second is roughly the number of seconds in 32 billion years.
+
+To be able to measure the extremely short periods of a few attoseconds, Wörner and his collaborators split up a very intense infrared laser pulse into two parts, one of which was converted to the extreme ultraviolet by frequency multiplication in a noble gas. They overlapped the two pulses and aimed both at the water clusters.
+
+The infrared pulse modified the energy of the electrons ejected by the ultraviolet laser pulse. The oscillatory phase of the infrared laser pulse could be tuned very precisely using an interferometer. The number of ionisation events, measured with the help of detectors, varied depending on the oscillatory phase. From those measurements, in turn, the researchers could then directly read off the ionisation delay.
+
+“Since we were able to determine the size of the original water cluster for each ionisation event using a mass spectrometer, we could show that the delay depends on the size of the cluster”, says Saijoscha Heck, a PhD student in Wörner’s group. Up to a cluster size of four water molecules the delay increases steadily to around one hundred attoseconds. For five or more water molecules, however, it stays practically constant. This is related to the high degree of symmetry exhibited by small clusters, which allows the electron hole to spread out across the entire cluster according to the rules of quantum mechanics. By contrast, lager clusters are rather asymmetric and disordered and hence the hole localises on a few water molecules.
+
+## Applications also in semiconductor technology
+
+“With these attosecond measurements we’ve opened up completely new research opportunities”, says Wörner. He is already planning follow-up experiments in which he wants to resolve the dynamics of the electron hole both spatially and temporally using additional laser pulses. Amongst other things, Wörner hopes that this will lead to a better understanding of how radiation damage develops in biological tissue, given that the ionisation of water plays a dominant role in that process. But Wörner also sees various possible applications beyond research on electron dynamics in water. For instance, to realise faster electronic components a profound understanding of the spatial extension of electron and hole states and their evolution in time is indispensable. Here, the new technique developed by the ETH researchers could be extremely useful.
+
+## Reference
+
+Gong X, Heck S, Jelovina D. et al. Attosecond spectroscopy of size-resolved water clusters. Nature, 12. Juli 2022. DOI: 10.1038/s41586-022-05039-8
+

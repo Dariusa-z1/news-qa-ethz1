@@ -1,0 +1,32 @@
+# new-regulator-for-liver-regeneration
+
+**Source:** en_news_events/2017/09/new-regulator-for-liver-regeneration.html
+
+## Advances with proteomics
+
+The liver is a wonderful thing: it’s the only organ able to fully regenerate with no scar tissue formation, even after major injury. In the case of organ donation, it is therefore generally possible to remove part of the donor’s liver and implant it into another patient. Within the space of just a few weeks, the liver grows back to its original size, unless more than two thirds of it is removed. But whenever a donor gives part of the liver to someone else, the sizes of the liver mass are on the threshold of the liver’s regenerative capacity, both for the donor and the recipient. Researchers and medical professionals are therefore keen to discover how to optimise the liver’s unique ability to regenerate. The key to the achievement of this goal is a mechanistic understanding of the repair process, and the identification and functional characterization of the genes involved in the regenerative process.
+
+ETH researchers in the group led by Sabine Werner, Professor of Cell Biology, have joined forces with the proteomics expert Ulrich auf dem Keller to explore a new approach to identifying previously unknown molecular regulators and signalling pathways in liver regeneration. The researchers were particularly interested in proteins that trigger the regeneration during the first 24 hours after an injury – before the liver cells start to multiply, in other words.
+
+By performing a large-scale proteomics analysis, scientists were able to identify over 2,500 proteins in the cytoplasm and the nuclei of mouse liver cells. This was the case both with intact livers and those from which two thirds had previously been surgically removed. This partial hepatectomy resembles the procedure for removing a liver tumour in human patients, for example.
+
+Researchers narrowed down the selection of proteins found with the help of statistical methods and existing biological knowledge. Nedd4-1 stood out from the other proteins. Subsequent analysis eventually confirmed that Nedd4-1 plays a key role in liver regeneration.
+
+Sabine Werner and her colleagues were already familiar with Nedd4-1, an enzyme that ubiquitinates other proteins, in other words modifies them by attaching the small protein ubiquitin. “What surprises us, however, was that very little was known to date about the ubiquination process during liver regeneration, and nothing at all about the role of Nedd4-1 in this process,” the ETH professor explains.
+
+The scientists used knock-down experiments to show that this enzyme does indeed play a pivotal role. Using special forms of ribonucleic acid known as small interfering RNA (siRNA), they were able to silence Nedd4-1 in the livers of mice. The hepatocytes affected were no longer able to divide efficiently, so that the livers from which the tissue had been removed were slow to regenerate, if at all. After a few days, this led to liver failure in the laboratory mice, which had to be euthanised. The knock-down of Nedd4-1 had no effect on the cells of an intact liver.
+
+ETH scientists were also able to demonstrate how Nedd4-1 functions. The enzyme has an indirect action, through activating the downstream signalling by growth factor receptors located in the hepatocyte membrane.
+
+When there is an injury – irrespective of the tissue – large quantities of growth factors enter the circulation. To stimulate cell proliferation, these growth factors need to attach to specific receptors on the cell’s surface. This triggers a signalling cascade, at the end of which the cell receives the command to divide. Here Nedd4-1 activates an adapter molecule that is attached to such a receptor. Only if Nedd4-1 has provided this adapter with an ubiquitin molecule will the signal be given for cell division and liver regeneration.
+
+Without Nedd4-1, the adapter is not activated efficiently – if at all – and the signalling chain is severely impaired. “We have now been able to observe this process in vivo for the first time,” Ulrich auf dem Keller is pleased to report.
+
+Nedd4-1 could possibly be of interest for pharmaceutical treatments, for example as a suitable target for the development of a medication to promote liver regeneration. On the other hand, Nedd4-1 could be inhibited in the case of tumours. “This protein is a key regulator of growth factor function,” auf dem Keller confirms. Although the study was performed with mice, the findings are transferable to humans. The hepatocytes of human livers contain more or less the same proteins as mice. The regeneration process is comparable in both.
+
+“The results to date are still only fundamental research,” Werner emphasises. Whether the latest knowledge can now be put to practical use is therefore not entirely certain, partly because of the rather delicate situation: excessive cell growth can trigger tumor formation - in the liver and in other organs. “There are a number of parallels between regeneration and cancer,” the ETH professor cautions. There is evidence to suggest that increased amounts of Nedd4-1 are produced in liver cancer. “Too much is therefore not good, nor is too little. We need to establish the right balance. To do so, we need to acquire a better understanding of the interplay between the different factors before we can think about influencing specific proteins in order to make a direct impact on liver regeneration,” Werner explains.
+
+## Reference
+
+Bachofner M, Speicher T, et al.: Large-scale quantitative proteomics identifies the ubiquitin ligase Nedd4-1 as an essential regulator of liver regeneration. Developmental Cell, 7 September 2017, doi: 10.1016/j.devcel.2017.07.025
+

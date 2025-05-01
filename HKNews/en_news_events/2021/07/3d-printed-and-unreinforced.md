@@ -1,0 +1,18 @@
+# 3d-printed-and-unreinforced
+
+**Source:** en_news_events/2021/07/3d-printed-and-unreinforced.html
+
+## Printed in specific angles
+
+Millions of new buildings all over the world are being constructed with reinforced concrete, even though this type of construction generates large amounts of CO 2 emissions. The steel used for the reinforcement and the cement for the concrete are especially problematic in this regard. ETH researchers have now presented a way to reduce both, in a real project.
+
+The Block Research Group teamed up with the Computation and Design Group at Zaha Hadid Architects to build a 12-by-16-metre arched footbridge in a park in Venice – entirely without reinforcement.
+
+Using an additive process, the construction dubbed “Striatus” was built with concrete blocks that form an arch much like traditional masonry bridges. This compression-only structure allows the forces to travel to the footings, which are tied together on the ground. The dry-assembled construction is stable due to its geometry only.
+
+What is completely new is the type of 3D-printed concrete, which the researchers developed together with the company Incremental3D. The concrete is not applied horizontally in the usual way but instead at specific angles such that they are orthogonal to the flow of compressive forces. This keeps the printed layers in the blocks nicely pressed together, without the need for reinforcement or post-tensioning. The special concrete ink for the 3D printer was developed by the company Holcim precisely for this purpose.
+
+ETH professor Philippe Block said: “This precise method of 3D concrete printing allows us to combine the principles of traditional vaulted construction with digital concrete fabrication to use material only where it is structurally necessary without producing waste.”
+
+Because the construction does not need mortar, the blocks can be dismantled, and the bridge reassembled again at a different location. If the construction is no longer needed, the materials can simply be separated and recycled.
+

@@ -1,0 +1,43 @@
+# global-warming-accelerates-co2-emissions-from-soil-microbes
+
+**Source:** en_news_events/2023/06/global-warming-accelerates-co2-emissions-from-soil-microbes.html
+
+## In brief
+
+• It is projected that by the end of the century, CO 2 emissions from soil microbes will escalate.
+• Recent model estimates further show that microbial CO 2 emissions in the polar regions will increase twice as much as in the rest of the world.
+• In cold regions, the primary driver behind the higher CO 2 emissions by microbes is soil moisture, whereas in other geographical zones it is the rise in temperatures.
+## Soil moisture and temperature as key factors
+
+The rise in atmospheric carbon dioxide (CO 2 ) concentration is a primary catalyst for global warming, and an estimated one fifth of atmospheric CO 2 originates from soil sources. This is partially attributable to the activity of microorganisms, such as bacteria, fungi and other microorganisms, which utilise oxygen to break down organic matter such as dead plant materials in the soil. During this process, CO 2 is released into the atmosphere. Scientists refer to this as heterotrophic soil respiration.
+
+Based on a recent study published in the scientific journal Nature Communications , a team of researchers from ETH Zurich, the Swiss Federal Institute for Forest, Snow and Landscape Research WSL, the Swiss Federal Institute of Aquatic Science and Technology Eawag, and the University of Lausanne has come to a far-reaching conclusion. Their study indicates that emissions of CO 2 by soil microbes into the Earth's atmosphere are not only expected to increase but also accelerate on a global scale by the end of this century.
+
+Using a projection, they found that by 2100, CO 2 emissions from soil microbes will escalate, potentially reaching an increase of up to about forty percent globally, compared to current levels, in a worst-case climate scenario. “Thus, the projected rise in microbial CO 2 emissions will further contribute to the aggravation of global warming, emphasising how urgently we need more accurate estimates of heterotrophic respiration rates,” says Alon Nissan, the main author of the study and an ETH Postdoctoral Fellow at the ETH Zurich Institute of Environmental Engineering.
+
+These findings not only confirm earlier studies but also provide more precise insights into the mechanisms and magnitude of heterotrophic soil respiration across different climatic zones. In contrast to other models that rely on numerous parameters, the novel mathematical model developed by Alon Nissan simplifies the estimation process by utilising only two crucial environmental factors: soil moisture and soil temperature.
+
+The model represents a significant advancement as it encompasses all biophysically relevant levels, ranging from the micro-scale of soil structure and soil water distribution to plant communities like forests, entire ecosystems and climatic zones, and even to on a global scale. Peter Molnar, a professor at the ETH Institute of Environmental Engineering, highlights the significance of this theoretical model that complements large Earth system models, stating, "The model allows a more straightforward estimation of microbial respiration rates based on soil moisture and soil temperature. Moreover, it enhances our understanding of how heterotrophic respiration in diverse climate regions contributes to global warming."
+
+A key finding of the research collaboration led by Peter Molnar and Alon Nissan is that the increase in microbial CO 2 emissions varies across climate zones. In cold polar regions, the foremost contributor to the increase is the decline in soil moisture rather than a significant rise in temperature, as in hot and temperate zones. Alon Nissan highlights the sensitivity of cold zones, stating, "Even a slight change in water content can lead to a substantial alteration in the respiration rate in the polar regions."
+
+## How much CO2emissions will increase by each climate zone
+
+Based on their calculations, in a worst-case climate scenario, microbial CO 2 emissions in polar regions are projected to rise by ten percent per decade by 2100 – twice the rate anticipated for the rest of the world. This disparity can be attributed to the optimal conditions for heterotrophic respiration, which occurs when soils are in a semi-saturated state, i.e. neither too dry nor too wet. These conditions prevail during soil thawing in polar regions.
+
+On the other hand, soils in other climate zones that are already relatively drier and prone to further desiccation exhibit a comparatively smaller increase in microbial CO 2 emissions. However, irrespective of the climate zone, the influence of temperature remains consistent: as soil temperature rises, so does the emission of microbial CO 2 .
+
+Since 2021, most CO 2 emissions from soil microbes have originated primarily from the Earth's warm regions. Specifically, 67 percent of these emissions come from the tropics, 23 percent from the subtropics, 10 percent from temperate zones and a mere 0.1 percent from the arctic or polar regions.
+
+The researchers anticipate substantial growth in microbial CO 2 emissions across all these regions compared to the levels observed in 2021. By the year 2100, their projections indicate an increase of 119 percent in the polar regions, 38 percent in the tropics, 40 percent in the subtropics and 48 percent in the temperate zones.
+
+The carbon balance in soils, which determines whether soils act as a carbon source or sink, hinges on the interplay between two crucial processes: photosynthesis, during which plants assimilate CO 2 , and respiration, during which soils releases CO 2 . Therefore, studying microbial CO 2 emissions is essential for comprehending whether soils will store or release CO 2 in the future.
+
+"Due to climate change, the magnitude of these carbon fluxes—both the inflow through photosynthesis and the outflow through respiration—remains uncertain. However, this magnitude will impact the current role of soils as carbon sinks," explains Alon Nissan.
+
+In their ongoing study, the researchers have primarily focused on heterotrophic respiration. However, they have not yet investigated the CO 2 emissions that plants release through autotrophic respiration. Further exploration of these factors will provide a more comprehensive understanding of the carbon dynamics within soil ecosystems.
+
+## Reference
+
+Nissan, A., Alcolombri, U., Peleg, N. et al. Global warming accelerates soil heterotrophic respiration. Nature Communications 14, 3452 (2023). DOI: 10.1038/s41467-023-38981-w .
+

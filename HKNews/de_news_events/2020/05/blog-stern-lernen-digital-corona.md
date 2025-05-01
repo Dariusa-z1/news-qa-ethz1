@@ -1,0 +1,26 @@
+# blog-stern-lernen-digital-corona
+
+**Source:** de_news_events/2020/05/blog-stern-lernen-digital-corona.html
+
+## Main article
+
+Weltweit wurden seit Mitte März Schulen und Universitäten fast buchstäblich über Nacht vor die Herausforderung gestellt, ihre Lernangebote auf ICT umzustellen. Lehrende, die bisher bestenfalls Moodle als Ablage für Folien und Texte nutzen, kommunizieren jetzt mit den Lernenden über Zoom, WhatsApp usw.. An vielen Institutionen – darunter auch an unserer ETH – klappt das erstaunlich gut. Für die meisten Lehrerinnen und Lehrer – egal ob an der Hochschule oder an allgemeinbildenden Schulen – dürfte feststehen, dass ein Teil der eingesetzten digitalen Methoden auf Dauer übernommen wird. Ich werde auf jeden Fall – nach meinen hoffentlich in naher Zukunft wieder vor realen Menschen stattfindenden Vorlesungen – zu Randzeiten und am Wochenende kurze Zoom-Kleingruppen anbieten, in denen offene Fragen geklärt werden können.
+
+## Faire Prüfungen kaum machbar
+
+Nach der in den letzten beiden Monaten erzwungenen Erfahrung wissen wir aber auch, wo persönliche Anwesenheit nicht zu ersetzen ist. Dazu zählen gerechte und juristisch tragfähige Prüfungen. Wer in diesem Frühjahr eine für den weiteren Lebens- und Bildungsweg entscheidende Prüfung ablegen muss, hatte oft unverdientes Glück. Da unter den neuen Bedingungen jedes Nicht-Bestehen keinem Rekurs standhalten würde und juristisch anfechtbar wäre, gab es grosszügige Regeln. So verzichtete die Bildungsdirektion Zürich auf die mündliche Prüfung für die Aufnahme in das Kurzzeitgymnasium. Maturaprüfungen fallen an vielen Gymnasien aus, und an Universitäten kann niemand aufgrund einer nicht bestandenen Prüfung aus einem Studiengang ausgeschlossen werden.
+
+## Jetzige Situation führt zu Fehlern
+
+Bei bestandenen von zu Hause aus durchgeführten Online-Prüfungen bleibt ein ungutes Gefühl: Wie sicher kann man sein, dass nicht gemogelt wurde? Auf bewährte Prüfungsformate für grosse Gruppen, wie Multiple Choice Aufgaben, musste man verzichten. Für eine dauerhafte Qualitätssicherung unserer Bildungsinstitutionen sind zuverlässige Prüfungen unabdingbar.
+
+Entscheidungen, die auf nicht belastbaren Prüfungssituationen beruhen, führen zu zwei möglichen Fehlern in unserm Bildungssystem: Man wählt entweder ungeeignete Personen aus oder man weist eigentlich geeignete Personen zurück. Durch die in diesem Frühjahr und Sommer erzwungenen Prüfungsmodalitäten fällt die zweite Möglichkeit weg. Sehr viel wahrscheinlicher wird allerdings der erste Fall: Schülerinnen und Schüler oder Studierende erhalten die Bescheinigung, dass sie ein Lernziel erreicht haben, obwohl sie eigentlich nicht die nötige Qualifikation mitbringen. Die hierdurch entstehenden Probleme sollten uns bewusst sein. Ich hoffe, dass computerbasierte Prüfungen in Zukunft öfters an Schulen und Universitäten durchgeführt werden – aber sie müssen unter kontrollierten Aufsichtsbedingungen geschrieben werden und nicht auf der Bettkante oder am Esszimmertisch.
+
+Auch wenn sich alle Lehrenden grösstmögliche Mühe gegeben haben, gerechte und zuverlässige Prüfungen abzuhalten, wissen wir, dass die im Frühsommer 2020 entstandenen Resultate anders zu bewerten sind als sonst. Wie sieht es mit den Lernergebnissen bei der Fernlehre aus? Noch haben wir keine belastbaren Daten, aber die Erfahrungen sind sehr unterschiedlich. An der Universität ist der Eindruck weitgehend positiv und erste Zwischenberichte sprechen dafür, dass die im Fernunterricht angebotenen Lerngelegenheiten mindestens so gut aufgenommen wurden wie die im früheren Präsenzunterricht.
+
+Dabei müssen wir uns aber natürlich vor voreiligen Schlussfolgerungen hüten. Im Leben der Studierenden hat sich ja viel mehr geändert als die Umstellung von Präsenz- auf Fernunterricht: Durch den Shutdown des öffentlichen Lebens sind sehr viele Alternativen zur Beschäftigung mit den Studieninhalten weggefallen, weshalb die meisten jungen Leute mehr Zeit in das Studium investiert haben dürften als sonst. Am Gymnasium und in den allgemeinbildenden Schulen erwarten wir sehr grosse Unterschiede in den Auswirkungen: Wer zu normalen Zeiten keine Probleme mit dem schulischen Lernen hatte, wird auch mit dem Fernunterricht zurechtkommen. Stärker betreuungsintensive Schülerinnen und Schüler werden in einen Rückstand geraten, und wie stark dieser sein wird, hängt vom Engagement der Lehrpersonen und der Eltern ab. Uns steht eine neue Normalität bevor, aber schulisches Lernen kommt nicht ohne persönliche Interaktion aus.
+
+## Zur Autorin
+
+Elsbeth Stern Professorin für empirische Lehr- und Lernforschung und Vorsteherin des Instituts für Verhaltensforschung an der ETH Zürich.
+

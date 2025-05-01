@@ -1,0 +1,30 @@
+# laufen-lernen
+
+**Source:** de_news_events/2016/09/laufen-lernen.html
+
+## Main article
+
+Hinter dem Exoskelett «VariLeg» steht ein interdisziplinäres Team von elf ETH-Studierenden und Doktoranden. Entwickelt wurde der erste Prototyp ursprünglich von neun Bachelor-Studierenden des Departements Maschinenbau und Verfahrenstechnik im Zuge eines Fokusprojekts von Herbst 2014 bis Frühjahr 2015. Das Exoskelett, das nun beim Cybathlon zum Einsatz kommt, ist eine Weiterentwicklung dieses Prototyps und entstand in einem darauffolgenden Fokusprojekt. «Wir hatten von Anfang an den Cybathlon als Ziel», erzählt Patrick Pfreundschuh, Bachelorstudent Maschinenbau. «Wir waren überzeugt, dass wir den ursprünglichen Prototypen noch ein deutliches Stück verbessern und fit für diesen einzigartigen Wettbewerb machen können.» Gemeinsam mit einigen Beteiligten aus dem Ursprungsteam machte sich das neue Team daher im Herbst 2015 an die Arbeit.
+
+Mit ihrem Prototyp wollen die Studierenden ein wesentliches Problem vieler Exoskelette lösen: die fehlende Flexibilität. Auf unebenen Böden ist diese erforderlich, sodass die Beine kleine Hindernisse ausgleichen können. Die Software bestehender Exoskelette trägt diesem Problem zu wenig Rechnung. Die Beine fahren stets die von der Software vorgegebene Position an und können so leicht umkippen. Das «VariLeg» hingegen ist dank eines Federmechanismus im Knie flexibler. Anstatt das Bein voll durchzustrecken, kann es so zum Beispiel leicht gebeugt bleiben.
+
+Was das VariLeg-Team bei der Fortführung des Projektes zunächst unterschätzt hatte, war wie unterschiedlich Paraplegiker im Vergleich zu körperlich nicht eingeschränkten Menschen ein Exoskelett handhaben. Beim ersten Fokusprojekt war der Prototyp aus Sicherheitsgründen stets von körperlich gesunden Menschen getestet worden. Erst die zweite Truppe konnte sich mit Hilfe des Schweizer Paraplegiker Zentrums (SPZ) Philipp Wipfli und Werner Witschi als zwei querschnittgelähmte Piloten, sprich Träger des Exoskeletts, in ihr Team holen. Die beiden stehen den jungen Entwicklern mit Rat und Tat zur Seite, wobei sie auch ihre Berufserfahrung – Philipp Wipfli war Physiotherapeut und Werner Witschi ist Elektroingenieur – mit einbringen können. «Ihr Feedback half uns vor allem dabei die Bewegungen des Exoskeletts sowie die Befestigungen ergonomischer und intuitiver zu gestalten», erläutert Patrick Pfreundschuh.
+
+## Gehen ist für Gelähmte sehr anstrengend
+
+«Ein Mensch ohne Behinderung macht unbewusst kleine Ausgleichsbewegungen mit den Muskeln in den Beinen oder der Hüfte», erklärt Stefan Schrade, der seine Doktorarbeit über das Exoskelett am ETH Labor für Rehabilitation Engineering schreibt und zum VariLeg-Team gehört. Dadurch hält ein nicht gelähmter Mensch viel besser das Gleichgewicht. Trägt ein Mensch mit Lähmung in den Beinen das Exoskelett muss das technische Gerät das gesamte Gewicht tragen, zumal auch noch die Muskelspannung wegfällt. «Damit Menschen mit Lähmung VariLeg tragen können, mussten wir den Prototyp stabiler machen und zum Beispiel das Kniegelenk verstärken», berichtet Fabian Walter. Als Bachelorstudent Elektrotechnik ist er unter anderem für die Steuerung der Motoren zuständig.
+
+Auch die aufrechte Haltung ist für einen Paraplegiker sehr anstrengend. Nur nach einem gewissen Training konnten die Piloten die gesamte Wettbewerbsstrecke zurücklegen. Daher trainieren sie jede Woche zwei bis drei Mal für jeweils ein bis zwei Stunden. Wer von beiden beim Wettkampf antritt, wird kurzfristig entschieden werden.
+
+Auch mit viel Übung bleibt der Gang mit einem Exoskelett langsamer als ein Spaziergang mit zwei gesunden Beinen. Das liegt vor allem daran, das Exoskelette allgemein noch am Anfang der Entwicklung stehen. Bislang werden sie vor allem in der Rehabilitation eingesetzt.
+
+Ob sie beim Cybathlon Chancen auf den Sieg haben, lassen die ETH-Studierenden offen. «Hauptsache unsere Technik funktioniert fehlerfrei,» sagt Patrick Pfreundschuh. Wie es nach dem Wettkampf weitergeht, ist noch offen. Stefan Schrade wird seine Forschungen mit dem Prototyp in jedem Fall fortsetzen, andere Teammitglieder wie Fabian Walter wollen ihr Masterstudium beginnen und Patrick Pfreundschuh hat ein Praktikum bei einer Roboterfirma geplant. Gelohnt hat sich der Einsatz für «VariLeg» in jedem Fall für alle. «Wir entwickeln etwas, was Menschen zugutekommt, und haben gleichzeitig viel über Teamarbeit und andere Fachrichtungen gelernt», sagen alle übereinstimmend.
+
+## Jetzt Plätze sichern
+
+Seien Sie dabei, wenn sich am 8. Oktober entscheidet, welche Teams mit den ausgeklügeltsten Technologien und geschicktesten Testpiloten den Wettkampf für sich entscheiden.
+
+Tickets sind hier erhältlich: externe Seite www.ticketcorner.ch
+
+Für ETH-Mitarbeitende gibt es reduzierte Tickets, die an den Logen bezogen werden können. Mehr Informationen
+

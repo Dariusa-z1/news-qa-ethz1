@@ -1,0 +1,38 @@
+# bauen-mit-robotern
+
+**Source:** de_news_events/2017/06/bauen-mit-robotern.html
+
+## Digital entworfen, geplant und gebaut
+
+Roboter, die Mauern bauen und 3D-Drucker, die ganze Schalungen für Geschossdecken drucken – die digitale Fabrikation in der Architektur hat sich in den letzten Jahren rasant entwickelt. Im Rahmen des Nationalen Forschungsschwerpunktes (NFS) Digitale Fabrikation haben sich Architektinnen, Robotiker, Materialwissenschafterinnen, Statiker und Nachhaltigkeitsexpertinnen der ETH Zürich mit Wirtschaftspartnern zusammengetan, um gleich mehrere neuartige, digitale Bautechnologien vom Labor in die Praxis zu überführen. Gebaut wird auf NEST, dem modularen Forschungs- und Innovationsgebäude, welches die Empa und Eawag auf ihrem Campus in Dübendorf errichtet haben. Hier können Forschende neue Bau- und Energietechnologien unter realen Bedingungen testen. NEST bietet eine zentrale Support-Struktur mit drei offenen Plattformen, an die einzelne Bauprojekte – sogenannte Innovationsunits – andocken können. Vor Kurzem ist der Startschuss für die Bauarbeiten des DFAB HOUSE erfolgt.
+
+Das DFAB HOUSE ist insofern speziell, als es nicht nur digital entworfen und geplant, sondern auch weitgehend mit digitalen Prozessen gebaut wird. Mit diesem Pilotprojekt wollen die ETH-Professoren herausfinden, inwiefern digitale Technologien das Bauen nachhaltiger und effizienter machen und das gestalterische Potential erhöhen können. Die einzelnen Bauteile wurden auf Basis des Entwurfes digital aufeinander abgestimmt und werden nun direkt ab diesen Daten fabriziert. Eine konventionelle Ausführungsplanung entfällt. Ab Sommer 2018 soll das dreistöckige Gebäude mit einer Nutzfläche von 200 Quadratmetern Gastforschenden der Empa und Eawag sowie Partnern von NEST als Wohn- und Arbeitsort dienen.
+
+Gleich vier verschiedene Bauverfahren werden im Rahmen des DFAB HOUSE erstmals von der Forschung in die gebaute architektonische Anwendung überführt. Die Bauarbeiten starteten mit der so genannten «Mesh Mould»-Technologie, die Ende 2016 mit dem Swiss Technology Award ausgezeichnet wurde. Die von einem interdisziplinären Team entwickelte Bauweise könnte das Bauen mit Beton künftig grundlegend verändern. Eine zentrale Rolle kommt dabei dem zwei Meter grossen Bauroboter «In situ Fabricator» zu, der sich auf Raupen selbst in einer ständig ändernden Umgebung autonom bewegen kann. Ein von ihm fabriziertes Stahldrahtgitter dient sowohl als Schalung als auch als Bewehrung für den Beton. Dank der engmaschigen Struktur des Stahldrahtgitters und der speziellen Betonmischung bleibt der Beton innerhalb des Gitters und fliesst nicht heraus.
+
+So resultiert am Ende eine doppeltgekrümmte, tragende Wand, welche die Architektur des offenen Wohn- und Arbeitsbereiches im Basisgeschoss prägen wird. Auf ihr wird ein sogenannter «Smart Slab» zu liegen kommen – eine statisch optimierte und funktional integrierte Geschossdecke, für deren Schalung Forschende grossformatigen 3D-Sanddruck nutzen.
+
+Für die Fassade des Basisgeschosses kommt die Technologie «Smart Dynamic Casting» zum Einsatz. Das automatisierte, robotische Gleitschalungsverfahren kann massgeschneiderte Fassadenpfosten aus Beton fabrizieren. Die beiden oberen Stockwerke mit Einzelzimmern werden mittels «Spatial Timber Assemblies» als räumlich von kooperierenden Robotern zusammengefügter Holzbau im Robotic Fabrication Laboratory der ETH Zürich vorfabriziert.
+
+## Zusammenarbeit als Schlüssel zum Erfolg
+
+Für ETH-Professor Matthias Kohler, Gründungsdirektor des NFS Digitale Fabrikation und Initiator des DFAB HOUSE, ist es denn auch die Vielfalt an neuartigen Bautechnologien, die das DFAB HOUSE zu einem Leuchtturmprojekt des digitalen Bauens machen. «Im Gegensatz zu Bauprojekten, die nur eine digitale Bautechnologie nutzen, wie zum Beispiel dreidimensional gedruckte Häuser, bringt das DFAB HOUSE verschiedene neuartige, digitale Bautechnologien zusammen. So können wir sowohl die Vorteile jeder einzelnen Methode als auch deren Synergien nutzen und architektonisch zum Ausdruck bringen», so Kohler
+
+Sämtliche Bauverfahren, die im DFAB HOUSE zum Einsatz kommen, haben die Forschenden der beteiligten ETH-Professuren in den vergangenen Jahren im Rahmen des NFS Digitale Fabrikation erforscht und entwickelt. Dass die Technologien nach so kurzer Zeit bereits den Weg auf die Baustelle finden, ist einerseits möglich, weil die verschiedenen wissenschaftlichen Disziplinen Hand in Hand gearbeitet haben und andererseits aufgrund der erfolgreichen Kooperation von Forschung und Industrie. «Wir sind überzeugt, dass sich die Zusammenarbeit für beide Seiten lohnt. Immer mehr Schweizer Unternehmen wie die Erne AG Holzbau, die als Generalplaner des DFAB HOUSE fungiert und bereits in den Bau des Arch_Tec_Lab an der ETH Zürich involviert war, wollen die Chancen der Digitalisierung proaktiv nutzen. Wir beobachten dies mit grosser Freude», sagt Kohler.
+
+Digitale Technologien werden auch zum Einsatz kommen, wenn das DFAB HOUSE ab Sommer 2018 bewohnt sein wird. Unter der Federführung der digitalSTROM AG und in Kooperation mit mehreren anderen Schweizer Unternehmen werden neue Smart-Home-Lösungen und Internet-of-Things-Technologien getestet. Dazu gehören Geräte und Systeme, die intelligent miteinander kommunizieren, lernfähig sind und das Gebäude so steuern, dass sowohl die Energieeffizienz wie auch der Wohnkomfort verbessert werden.
+
+## Beteiligte ETH-Professuren am DFAB HOUSE
+
+• Prof. Matthias Kohler, Professur für Architektur und Digitale Fabrikation
+• Prof. Fabio Gramazio, Professur für Architektur und Digitale Fabrikation
+• Prof. Dr. Benjamin Dillenburger, Professur für Digitale Bautechnologien
+• Prof. Dr. Joseph Schwartz, Professur für Tragwerksentwurf
+• Prof. Dr. Robert Flatt, Institut für Baustoffe
+• Prof. Dr. Walter Kaufmann, Institut für Baustatik und Konstruktion
+• Prof. Dr. Guillaume Habert, Institut für Bau- und Infrastrukturmanagement
+• Prof. Dr. Jonas Buchli, Institut für Robotik und Intelligente Systeme
+## Die ETH Zürich im NEST
+
+Die ETH Zürich ist nebst dem DFAB HOUSE noch bei einer weiteren Unit von NEST federführend: Die Gruppen von Prof. Philippe Block und Prof. Arno Schlüter vom Institut für Technologie in der Architektur entwickeln derzeit die Unit « HiLo », die Ultraleichtbauweise in Boden und Dach mit einer adaptiven Solar-Fassade kombiniert. HiLo ist als Plus-Energie-Gebäude ausgelegt und soll 50 Prozent mehr Strom produzieren, als es selber verbraucht. Der Baustart ist für Anfang 2018 geplant. Auch die Unit « externe Seite Vision Wood », die zukunftsweisende Anwendungen der Ressource Holz im Bauwesen erforscht, entstand mit Beteiligung von ETH-Forschenden.
+

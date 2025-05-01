@@ -1,0 +1,8 @@
+# the-smart-cane-for-the-visually-impaired
+
+**Source:** en_news_events/2023/05/the-smart-cane-for-the-visually-impaired.html
+
+## Main article
+
+ETH student Alexander Bayer was inspired to upgrade the traditional white cane by a blind classmate in high school. Together with three other ETH students, he is working in the Student Project House on the “NextGuide” project, a smart cane for the blind and visually impaired equipped with an integrated camera and the ability to provide haptic feedback. The cane not only indicates the direction in which an individual should walk to avoid obstacles but also communicates via vibrations whether they are standing in front of a door, pedestrian crossing or staircase.
+

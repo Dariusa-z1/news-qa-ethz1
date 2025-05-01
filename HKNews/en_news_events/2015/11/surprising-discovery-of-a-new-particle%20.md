@@ -1,0 +1,26 @@
+# surprising-discovery-of-a-new-particle%20
+
+**Source:** en_news_events/2015/11/surprising-discovery-of-a-new-particle%20.html
+
+## Search for new material properties
+
+When ETH professor Hermann Weyl arrived for his one-year tenure as guest professor at Princeton in the autumn of 1928, the quantum physicist Paul Dirac had just published his celebrated formula for the electron. That formula described the properties of so-called fermions, or quantum particles with half-integer spin, and its predictions - among them the existence of anti-matter – ushered in the era of modern particle physics. Weyl realized that, in principle, Dirac’s equation also allowed solutions for particles without mass. In 1929 he published a paper in which he described those massless particles with half-integer spin. They would later be called “Weyl fermions”.
+
+Physicists at the ETH, together with researchers at Princeton University and at the Chinese Academy of Sciences, have now found a thus far unknown particle that their illustrious forebear had overlooked in his calculations and that had remained undetected for almost ninety years thereafter. They named it “type-2 Weyl fermion”.
+
+The researchers hit upon the new kind of particle when trying to understand strange physical properties of the metal tungsten ditelluride (WTe 2 ). “We were hoping to find especially so-called ‘topological’ properties that make certain quantum states more resistant to perturbations in this metal material”, explains Alexey Soluyanov, a researcher in the Computational Physics group at ETH Zurich.
+
+In order to simulate the physical properties of the metal crystals the researchers ran calculations for 200,000 hours on supercomputers at the Swiss National Supercomputing Centre CSCS and at the Chinese Academy of Sciences. It required weeks of detailed derivations and calculations before the researchers came to the conclusion that they must have discovered something totally new: inside the tungsten ditelluride crystal there had to exist a thus far unknown type of fermion, the type-2 Weyl fermion.
+
+Initially, the „ordinary“ Weyl fermion also existed only in theory. For a long time it was assumed that neutrinos might be Weyl fermions, but then researchers found out that they have an, albeit tiny, mass (this year’s Nobel prize in Physics was awarded for its discovery). Still, physicists continued to believe that Weyl fermions could occur as quasiparticles (i.e., as collective states of many electrons interacting with the atomic nuclei in a crystal) in so-called semimetals.
+
+Finally, in July of this year the massless fermions were actually detected experimentally in Princeton, where Hermann Weyl had once theoretically predicted them, and simultaneously in Beijing. In a tantalum arsenide crystal the researchers found quasiparticles that had exactly the properties expected for Weyl fermions. Their lack of a mass means, among other things, that they can move extremely fast and without being disturbed by obstacles in the crystal. Scientists are already speculating that this could open up entirely new possibilities for electronic devices.
+
+The type-2 Weyl fermions now found theoretically differ from those conventional Weyl fermions in one crucial aspect: they shouldn’t really exist at all. At least not if, as did Hermann Weyl, one assumes that fermions have to obey the rules of Albert Einstein’s special theory of relativity and, hence, that they have to conserve the so-called Lorentz symmetry. “In the wild”, particles do, indeed, have to abide by those rules. In the artificial universe of a crystal, however, the Lorentz symmetry can be broken, which causes the possible energy states of electrons to differ distinctly from those that lead to the formation of ordinary Weyl fermions.
+
+These peculiar energy states, in turn, could endow materials containing type-2 Weyl fermions with strange and possibly useful properties – for instance the ability to conduct electric current only in certain directions under the influence of a magnetic field. Whether those properties prove to be viable in practice remains to be seen. “For now, the new Weyl fermion is a physical oddity”, Soluyanov concedes, “but a very exciting one – and there is certainly potential for applications”. In any case, the scientists have now, after decades, finally completed Hermann Weyl’s research.
+
+## Reference
+
+Soluyanov AA, Gresch D, Wang Z, Wu QS, Troyer M, Dai X, Bernevig BA: Type II Weyl Semimetals. Nature, 25. November 2015, doi: 10.1038/nature15768
+

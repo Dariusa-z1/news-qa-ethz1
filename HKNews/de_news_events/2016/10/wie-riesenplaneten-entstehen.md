@@ -1,0 +1,34 @@
+# wie-riesenplaneten-entstehen
+
+**Source:** de_news_events/2016/10/wie-riesenplaneten-entstehen.html
+
+## Simulation mit Supercomputer
+
+Astronomen haben zwei Theorien aufgestellt, welche die Geburt von Riesenplaneten wie Jupiter oder Saturn erklären. Beim ersten Mechanismus findet der Aufbau von unten nach oben statt, indem sich zuerst ein fester Kern bildet, der etwa zehnmal so gross ist wie die Erde. «Dann hat dieser Kern genügend Masse, um eine beträchtliche Menge Gas anzuziehen und zurückzuhalten», erklärt Judit Szulágyi, Astrophysikerin an der ETH Zürich und Mitglied des Nationalen Forschungsschwerpunkts PlanetS.
+
+Die zweite Theorie ist ein Szenario, das von oben nach unten führt: Dabei ist die Materiescheibe um den jungen Stern so dicht, dass Gas und Staub aufgrund ihrer Schwerkraft Spiralarme bilden, die Klumpen enthalten. Schliesslich lässt die Gravitation diese Klumpen direkt in sich zusammenstürzen und formt so einen Gasplaneten, ähnlich wie Sterne gebildet werden. Der erste Mechanismus heisst «Kern-Akkretion», der zweite «Scheiben-Instabilität». In beiden Fällen bildet sich um die Gasriesen eine so genannte zirkumplanetare Scheibe – den Geburtsort von Monden.
+
+Um herauszufinden, welcher Mechanismus im Universum tatsächlich stattfindet, simulierten Judit Szulágyi und Lucio Mayer, Professor an der Universität Zürich, die beiden Szenarien auf dem Supercomputer Piz Daint am Schweizer Supercomputerzentrum (CSCS) in Lugano. «Wir gingen mit unseren Simulationen bis an die Grenze, was die Komplexität der Physik anbelangt, die wir für unsere Modelle verwendeten», erklärt Judit Szulágyi: «Und wir erzielten eine höhere Auflösung als irgendwer zuvor.»
+
+In ihren Studien, die in der Zeitschrift «Monthly Notices of the Royal Astronomical Society» veröffentlicht wurden, fanden die Forschenden einen grossen Unterschied zwischen den beiden Entstehungsmechanismen: Beim Szenario zur Scheiben-Instabilität blieb das Gas in Planetennähe sehr kalt, um 50 Kelvin, während im Fall der Kern-Akkretion die zirkumplanetare Scheibe auf mehrere hundert Kelvin aufgeheizt wurde. «Die Simulationen zur Scheiben-Instabilität sind die ersten, welche die zirkumplanetare Scheibe um mehrfache Protoplaneten auflösen können», erklärt Mayer.
+
+Dieser riesige Temperaturunterschied lässt sich leicht beobachten. «Wenn Astronomen neu entstehende Planetensysteme anschauen, genügt es, die Temperatur in Planetennähe zu messen, um herauszufinden, welcher Mechanismus den Planeten geformt hat», erklärt Szulágyi. Ein erster Vergleich der berechneten und beobachteten Daten scheint eher für die Kern-Akkretions-Theorie zu sprechen.
+
+Ein anderer, vorhergesagter Unterschied zeigte sich hingegen nicht in den Computersimulationen. Zuvor hatten die Astrophysiker angenommen, dass sich die Masse der zirkumplanetaren Scheibe in den beiden Szenarios deutlich unterscheidet. «Wir zeigten, dass dies nicht stimmt», sagt die Forscherin.
+
+Was die Grösse der neugeborenen Planeten angeht, können Beobachtungen irreführend sein. Dies entdeckte die ETH-Astrophysikerin in einer zweiten Studie zusammen mit Christoph Mordasini, Professor an der Universität Bern. Beim Kern-Akkretions-Modell konzentrierten sich die Forschenden auf die Scheibe um Planeten mit der drei- bis zehnfachen Masse von Jupiter. Die Computersimulationen zeigten, dass das Gas, das von aussen auf die Scheibe fällt, aufgeheizt wird, und auf der oberen Scheibenschicht eine hell leuchtende Schockfront bildet. Das verändert das Erscheinungsbild junger Planeten entscheidend.
+
+«Wenn wir einen hellen Punkt innerhalb einer zirkumplanetaren Scheibe beobachten, wissen wir nicht, ob wir nur den Planeten leuchten sehen, oder auch die ihn umgebende Scheibe», erklärt Szulágyi. So kann die Masse des Planeten bis zum Vierfachen überschätzt werden. «Vielleicht hat also ein beobachteter Planet nur so viel Masse wie Saturn, anstatt ein paar Jupitermassen», folgert die Wissenschaftlerin.
+
+In ihren Simulationen ahmten die Astrophysiker den Entstehungsprozess nach, indem sie die grundlegenden physikalischen Gesetze von Gravitation oder Hydrodynamik und Gastheorie anwandten. Weil die physikalischen Modelle so komplex waren, benötigten die Simulationen sogar auf Europas schnellstem Supercomputer am CSCS viel Rechenzeit. «Das entspräche einer Laufzeit von etwa neun Monaten auf Hunderten bis einigen Tausenden Computerkernen», schätzt Szulágyi: «Das heisst, dass es mit einem Computerkern länger gedauert hätte als mein ganzes Leben.»
+
+Doch es warten weitere Herausforderungen. Die Simulationen zur Scheiben-Instabilität umfassen noch keine lange Zeitspanne. Nachdem der Protoplanet bis zu Jupiterdichte kollabiert ist, könnte seine Scheibe wie bei der Kern-Akkretion aufgeheizt werden. Zudem wäre das heissere Gas im Fall der Kern-Akkretion teilweise ionisiert, was ein günstiges Umfeld für Magnetfeldeffekte böte, die bisher vernachlässigt wurden. Nächste Schritte werden deshalb noch aufwändigere Simulationen mit einer detaillierteren Beschreibung der Physik sein.
+
+Die Autorin dieses Textes, Barbara Vonarburg, ist verantwortlich für die Öffentlichkeitsarbeit des Nationalen Forschungsschwerpunkts externe Seite PlanetS .
+
+## Literaturhinweise
+
+Szulagyi J, Mayer L, Quinn T. Circumplanetary disks around young giant planets: a comparison between core-accretion and disk instability, Monthly Notices of the Royal Astronomical Society 2016; doi: externe Seite 10.1093/mnras/stw2617
+
+Szulagyi J, Mordasini C: Thermodynamics of Giant Planet Formation: Shocking Hot Surfaces on Circumplanetary Disks, Monthly Notices of the Royal Astronomical Society: Letters 2016; doi: externe Seite 10.1093/mnrasl/slw212
+

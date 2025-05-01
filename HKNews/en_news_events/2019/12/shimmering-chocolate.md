@@ -1,0 +1,22 @@
+# shimmering-chocolate
+
+**Source:** en_news_events/2019/12/shimmering-chocolate.html
+
+## Experiments in the kitchen
+
+The chocolate shimmers in dynamically changing rainbow colours. It seems to glow in the light. A group of scientists from ETH Zurich and FHNW University of Applied Sciences and Arts Northwestern Switzerland have recently filed a patent for this process.
+
+Traditional methods for colouring chocolate have been around for a long time. But the ETH researchers are able to create the rainbow effect without artificial colourants. The effect is achieved simply through a surface imprint that produces what the scientists refer to as a structural colour. The process is similar to a chameleon, whose skin surface modulates and disperses light to display specific colours.
+
+The story begins in the shared corridor of a university building. The food scientist Patrick Rühs, the materials scientist Etienne Jeoffroy and the physicist Henning Galinski chat about chocolate during their coffee break. Although they work in different research groups, their offices are next to each other. They wonder how – and whether – it might be possible to make coloured chocolate. Rühs is studying the material properties of foodstuffs, Jeoffroy specialises in complex materials and Galinski has already done in-depth research into optical materials.
+
+The first experiments start in the kitchen where they take their coffee, often on a Friday afternoon. The chocolate project is driven by sheer curiosity. The trio of researchers start to document the properties of chocolate, to understand what is special about the material and why it is brown. The possible solutions they come up with are almost playful, but the practical implementation remains challenging.
+
+First, the three scientists experiment with structural colours based on edible coatings of gold and titanium oxide. Depending on the thickness of the titanium coating, golden yellow or deep blue colours appear on the dark chocolate. Even so, the researchers reject that method, as the production process would be too complex and coating the chocolate, whose melting point is 31°C, would be tricky and time consuming. They reach the conclusion that it must also be possible to find a solution without additives.
+
+The researchers decide to change course: now they want to make an impression on the surface, rather than use a coating. The breakthrough comes with the help of the materials science student Anita Zingg, who is testing the new technique as part of her master’s project. After a few attempts, it works: an initial colourful shimmer appears on the chocolate. The scientists refine the method, and the shimmer becomes a glow.
+
+Now the group can also draw on the support of two experts in surface coatings at the FHNW University of Applied Sciences and Arts Northwestern Switzerland. Per Magnus Kristiansen and Jerome Werder are developing a mould that makes it possible to imprint more than one chocolate at a time with a structural colour. The discovery is ready to be scaled up for industry. The scientists are in discussions with major chocolate producers and plan to establish a spin-off company soon.
+
+But there’s another important lesson for the three scientists: the project was only successful because different disciplines worked together. Fresh ideas prevented the project from stalling at crucial moments.
+

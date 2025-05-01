@@ -1,0 +1,38 @@
+# kite-award-2016
+
+**Source:** de_news_events/2016/04/kite-award-2016.html
+
+## Zwei Dutzend Nominationen
+
+«Lehre und Forschung bilden an der ETH Zürich eine Einheit. Deshalb sind innovative Lehrkonzepte von ebenso grosser Bedeutung wie die wissenschaftliche Forschung», betonte Felicitas Pauss, Präsidentin der Konferenz des ETH-Lehrkörpers (KdL), zur Eröffnung der Preisverleihung. Die KdL hat den KITE Award für «Key Innovation in Teaching at ETH» ins Leben gerufen, um die Entwicklung herausragender Lehrkonzepte zu fördern. Diese sollen Studierende motivieren, sich vertieft mit Sachverhalten zu beschäftigen und sie auf das Arbeitsleben vorzubereiten.
+
+«Mit dem KITE Award wollen wir Kollegen ehren, welche die Lehre erneuern und neue Konzepte für die Forschergeneration der Zukunft entwickeln», ergänzte ETH-Präsident Lino Guzzella.
+
+«Der KITE Award 2016 geht an Mirko Meboldt und sein Team für das Konzept zur projektorientierten Lehrveranstaltung 'Innovationsprojekt' und den dazugehörigen Kurs zu Coaching und Teamleitung», verkündete Rektorin Sarah Springman gestern Abend vor rund 200 Gästen im Auditorium Maximum der ETH Zürich.
+
+Sie betonte, dass alle drei Finalisten Herausragendes geleistet und den Preis verdient hätten. Den Konzepten der Finalisten sei gemein, dass sie auf Kleingruppen und Projektarbeit setzen statt auf Frontalunterricht. Die Finalisten erklärten denn auch, dass sie künftig ihre Ideen verstärkt miteinander teilen wollen.
+
+Für die erstmalige Vergabe des KITE Awards wurden zwei Dutzend Projekte aus zwölf Departementen nominiert. Ein achtköpfiges Auswahlkomitee aus Mitgliedern der KdL, Studierenden, dem Mittelbau und einem externen Experten prüfte die Projekte auf Wirksamkeit, Innovation und Nachhaltigkeit und wählte drei davon aus. Aus diesen Finalisten wählte die KdL das Siegerkonzept.
+
+«Unser Lehrkonzept ist das Ergebnis dreijähriger Entwicklungsarbeit, und wir entwickeln es auch stetig weiter», sagte der erste KITE Award-Gewinner Mirko Meboldt. «Durch den regen Austausch mit den Studierenden ist kein Studienjahr wie das vorherige, und auch mein Team und ich lernen ständig Neues und wie wir das Lehrkonzept verbessern können.»
+
+Den Grundstein für dieses Lehrformat legte vor über 20 Jahren Professor Markus Meier, sein Nachfolger Roland Siegwart führte es weiter. Darauf aufbauend setzte Meboldt sein Konzept für die Erstsemester-Studierenden am Departement Maschinenbau und Verfahrenstechnik im Jahr 2013 erstmals im Unterricht um.
+
+Das Format zeichnet sich durch problemorientiertes, kritisch reflektierendes und erfahrungsbasiertes Lernen aus: Anstatt das Wissen über mechatronische Zusammenhänge nur passiv zu erlernen, erleben es die Studierenden in eigener Verantwortung in kleinen Projektteams. In diesen entwickeln sie ein mechatronisches System von der Idee bis zum produzierten erprobten System. Unterstützt werden die Teams von Coaches aus höheren Semestern, die ihre Fähigkeiten und Erfahrungen in einem begleitenden Coachingkurs erwerben.
+
+## Das gewisse Extra an Kreativität
+
+In seiner Rede betonte Professor Chorh Chuan Tan, Präsident der National University of Singapore (NUS), dass die Lehre das sich verändernde Arbeitsumfeld berücksichtigen müsse. Wissen sei durch das Internet frei verfügbar, Roboter und Computer könnten künftig viele Arbeitsschritte übernehmen und vor allem Arbeitsplätze der mittleren Führungsebene würden zunehmend verschwinden.
+
+Hoch qualifizierte Führungskräfte und Dienstleister seien gefragt. Wer auf dem Arbeitsmarkt der Zukunft bestehen wolle, müsse über das gewisse Extra an Kreativität und Innovation verfügen, das Maschinen nicht hätten. Zudem geht er davon aus, dass Arbeitnehmende künftig lebenslang Lernen und verschiedene berufliche Karrieren haben werden. Unternehmerisches Denken, Sozialkompetenz und die Fähigkeit, in internationalen, interdisziplinären Teams zu arbeiten, würden immer wichtiger.
+
+«Hochschulen müssen die Grundlagen dafür legen, dass Studierende Neues schaffen können», ergänzte Professor Heribert Nacken, Rektoratsbeauftragter für das Blended Learning an der RWTH Aachen, in der anschliessenden von Gerd Folkers engagiert geleiteten Podiumsdiskussion. An der Diskussion nahmen auch Hauptreferent Chorh Chuan Tan und Sarah Springman teil. Die Podiumsteilnehmer waren sich einig, dass es wichtig sei, Studierende einzubinden und zu prüfen, welches Wissen wirklich essenziell sei.
+
+## Die Lehrkonzepte der drei Finalisten
+
+Entwicklung mechatronischer Systeme: Mirko Meboldt hat für die bis zu 500 Erstsemester-Studierenden am Departement Maschinenbau und Verfahrenstechnik (D-MAVT) die projektbasierte Lehrveranstaltung «Innovationsprojekt» entwickelt. Aufgeteilt in 90 Teams von fünf bis sechs Studierenden entwickeln sie eigenverantwortlich ein Produkt von der Idee bis zum erprobten mechatronischen System. Die Teams werden durch 30 Hilfsassistenten, den Coaches, aus dem höheren Semester begleitet. Die Coaches lernen zeitgleich im Kurs «Leading Engineering Projects and Coaching Design Teams» die Grundlagen von Führung und Coaching.
+
+Transdisziplinäre Zusammenarbeit: Gisbert Schneider bietet am Institut für Pharmazeutische Wissenschaften eine aufeinander aufbauende Reihe von transdisziplinären Lehrveranstaltungen zum Thema «Computer-Assisted Drug Design» an. Sie richtet sich an Studierende aus den Natur- und Lebenswissenschaften und vermittelt Fähigkeiten wie mathematische Modellierung, chemische Synthese und biochemische Analyse von Wirksubstanzen. In einem zweiwöchigen Blockpraktikum bilden die Studierenden in Kleingruppen virtuelle Firmen, um ein Molekül mit einer bestimmten pharmakologischen Funktion zu entwickeln und zu präsentieren.
+
+Alternative für Grossgruppen: Renate Schubert hat den Kurs «Ökonomie» mit bis zu 500 Studierenden am Departement Geistes-, Sozial- und Staatswissenschaften(D-GESS) komplett umgestaltet. Für das vorbereitende Selbststudium werden Skripte, Videos, interaktive Übungsaufgaben und aktuelle Medienberichte elektronisch bereitgestellt. In Kleingruppen erarbeiten die Kursteilnehmerinnen und -teilnehmer ökonomische Argumentationen mit Anwendungsbeispielen. Studierende mit grossem Vorwissen oder Präferenzen für klassischen Unterricht finden separate Gruppen. Die Studierenden wählen aus einer Vielzahl an Lernelementen die für sie am besten geeigneten aus. So übernehmen sie Verantwortung für ihr eigenes Lernen.
+

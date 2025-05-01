@@ -1,0 +1,30 @@
+# research-with-a-social-relevance
+
+**Source:** en_news_events/2015/02/research-with-a-social-relevance.html
+
+## Main article
+
+ETH News: Professor Ambühl, you have proposed that Switzerland may be able to negotiate a safeguard clause with the EU in order to avoid breaching the free movement agreement. Are you intervening in the current political debate? Should an ETH professor intervene in politics? Michael Ambühl: We as researchers would like to play a role in solving problems by contributing to the discussion. In our department, we would like to further develop the research approach that we call ‘negotiation engineering’, which ultimately represents the conceptualisation of my experiences as a negotiator. We have therefore sought to apply our methods to the current example of the implementation of the mass immigration initiative. This attracted a certain amount of attention because the social relevance is directly visible in this study.
+
+Does research influence policy? ETH climate researchers want to better understand climate change in order to establish a basis for future climate policies. Our engineers develop energy-efficient systems in order to contribute to the energy transition. Researchers at ETH – each in their particular field – are searching for solutions and ideas that have long-term direct or indirect social benefits. However, one must differentiate between the various roles: research provides the basis for decision making and possible solutions. Decision making, implementation and negotiation are a matter of policy.
+
+What was your motivation in tackling the implementation of the mass immigration initiative? It’s a very interesting and relevant issue, with two apparently irreconcilable principles. On one hand, Switzerland’s government has the constitutional mandate to negotiate the introduction of quotas with the EU, on the other, the EU wants to retain the principle of free movement of persons. How much room for negotiation is there with such difficult starting positions? How do you tackle such a problem? It’s exactly this kind of question that we would like to explore at our Chair of Negotiation and Conflict Management.
+
+How do you proceed in a scientific manner in such cases? Migration is an emotional topic everywhere and this hampers level-headed negotiations. The first step, therefore, must be to find a description of the problem that is rational and objectively understandable to both sides. From experience, a good starting point is to break down complex problems into sub-problems. As a rule, they then tend to be easier to solve and can also be potentially addressed with quantitative methods; for example, with the help of mathematical formulas. If the negotiating partners agree in principle to such a process, then “only” these particular parameters need to be negotiated.
+
+But it's hard to avoid the impression that your proposal is the only one that currently exists. It certainly is not, but we are pleased that our proposal is being discussed. Nevertheless, it may well be that our proposal is modified or is merely a catalyst that leads to new and different ideas. This brings us to the heart of our studies in the Department of Management, Technology and Economics: We educate talented young people who are capable of thinking in all directions and who accept that unlike exact disciplines, there isn’t always a ‘right’ or a ‘wrong’. Fostering their critical thinking and creativity is therefore crucial.
+
+Do you like teaching? It’s a relatively new field of activity for you. Yes, very much. Students at ETH are very motivated and achievement-orientated; it’s easy to teach them. Together with the University of Zurich, we simulated EU negotiations in a seminar last autumn and I was delighted how engaged the students were in the project. The university students, who were mostly lawyers, and our students from ETH got to know their respective approaches, which really inspired them. The fact that our Rector took part in the closing discussion was a token of appreciation for all involved.
+
+What are your forthcoming research projects? We are trying to apply our negotiation engineering approach to various different areas: at the moment, my Chair is working on disarmament among other things, a cost/benefit analysis of nuclear weapons and an analysis of the effectiveness of sanctions.
+
+## Safeguard clause proposal
+
+The core idea is that the principle of free movement should not be called into question. Within the EU/EFTA area, Switzerland would still participate in the free movement according to the rights and duties set out in the free movement agreement. But in the case of excessive migration, Switzerland would have the option of invoking the (newly negotiated) safeguard clause. A formula may be used to calculate the level of immigration from EU/EFTA countries that would trigger the safeguard clause. No fixed quotas would be stipulated in advance, but migration in Switzerland would be defined in relation to migration in the EU.
+
+More precisely, the threshold would be calculated from the average migration rates of all EU/EFTA countries, plus a multiple of the standard deviation, while factoring in the population of EU/EFTA foreigners and the labour market situation. Ideally, parallel to the negotiations for a safeguard clause, measures to make better use of domestic labour resources would ensure that fewer foreign workers are needed in Switzerland. As a result, the safeguard clause would be rarely, if at all used.
+
+## Literature reference
+
+Ambühl M, Zürcher S: Immigration and Swiss-EU Free Movement of Persons: Question of a Safeguard Clause, Swiss Political Science Review, 18 February 2015, doi: 10.1111/spsr.12143
+

@@ -1,0 +1,48 @@
+# cutting-down-swiss-potato-wastage
+
+**Source:** en_news_events/2017/01/cutting-down-swiss-potato-wastage.html
+
+## Where and why do potatoes get lost?
+
+Food production puts a significant strain on the environment. Firstly, it demands many resources, such as water, soil, agrochemicals and energy. Secondly, processes like dunging or spraying release many harmful emissions. What’s more, it costs a lot of money to prepare food for consumption, and to store, transport and pack them.
+
+When these valuable foodstuffs don’t make it onto our plate, this is ultimately an economic and ecological waste. In this country, one food that very frequently gets lost on its way down the value chain is the humble potato. We’ve investigated some measures that could reduce potato loss, and analysed their ecological and economic effects [1], [2].
+
+Many potatoes are lost in households, at the last stage of the value chain. (Photo: Christian Willersinn / ETH Zurich)
+
+In Switzerland, there are two main reasons why potatoes fall by the wayside. Firstly, some potatoes may not satisfy the quality specifications, so farmers and packing companies must sort out the sub-standard ones. In this country, at least, producers can completely recover this loss – by using discarded potatoes for animal feed, or passing them on to a biogas plant.
+
+Secondly, consumers throw away potatoes – for example, because they’ve bought more than they need. The losses in households are particularly significant, as the potatoes have already gone through the entire production and supply chain. The majority end up in an incineration plant – not an efficient re-use of food. In retail outlets, the amount of potatoes lost is comparatively small, but here too they usually land in the garbage.
+
+## How can we avoid wastage?
+
+One way would be for producers to improve the quality of potatoes – for example, by selecting new and more appropriate varieties, or improving crop protection. This is something that has been researched intensively and with some success for many years. However, other changeable factors, such as the weather or new pests and diseases affect potato quality.
+
+For households on the other hand, a couple of promising measures could mean fewer potatoes in the bin. For one, if retailers were to sell only loose potatoes, consumers could select the exact quantity they need for a given time. Alternatively, retailers could sell only unwashed potatoes in lightproof cardboard packaging; this would significantly extend their shelf life. These two measures would reduce the annual loss in Switzerland by 5,000 and 12,000 tons respectively.
+
+Our sustainability analysis shows that reducing a loss (particularly at the production and trade phase) mainly produces economic benefits. In fact, just shifting a loss to an earlier stage in the production or supply chain saves money. So it’s worth motivating producers to sort their potatoes as vigorously as possible.
+
+## Raising consumer awareness
+
+We were a little surprised that, from an ecological perspective, the potato loss in Switzerland is not too bad. Reducing wastage in the local potato market has limited ecological impact; in this country, potatoes lost for consumption go to feed animals or produce energy. This leads to an ecological credit, so to speak, which is relatively high when the discarded potatoes replace another source of feed or energy. The significant negative impact is from potato loss in private households. A small credit from a garbage incinerator cannot compensate for the adverse environmental effects already accumulated at this stage.
+
+Potato wastage in households has greatest economic and ecological impact. (Photo: Christian Willersinn / ETH Zurich)
+
+I think that any measures to reduce wastage should also take into account what consumers want. According to a survey, they prefer measures that endanger the environment and their health as little as possible, and entail no great inconvenience. Particularly in Switzerland, where an increasing number of people opt for organically grown produce, it’s hard to justify the use of synthetic pesticides by farmers to reduce crop losses. Instead, the consumer and the retailer must take more responsibility.
+
+We can achieve this by raising consumer awareness. A large-scale awareness programme in the United Kingdom has reduced food loss in households by around a quarter. That type of result is most encouraging!
+
+## Further information
+
+[1] Christian Willersinn, Patrik Mouron, Gabriele Mack, Michael Siegrist: Food loss reduction from an environmental, socio-economic and consumer perspective – The case of the Swiss potato market. Waste Management Volume 59, January 2017 http://dx.doi.org/10.1016/j.wasman.2016.10.007
+
+[2] This study forms part of the National Research Programme “Healthy Nutrition and Sustainable Food Production”: NFP69
+
+See also “Potato harvest reduced by half” in the ETH News .
+
+## About the author
+
+Former doctoral student in the Consumer Behaviour Group, ETH Zurich
+
+Former scientific staff member, Agroscope
+

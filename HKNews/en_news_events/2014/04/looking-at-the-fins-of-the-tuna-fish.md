@@ -1,0 +1,26 @@
+# looking-at-the-fins-of-the-tuna-fish
+
+**Source:** en_news_events/2014/04/looking-at-the-fins-of-the-tuna-fish.html
+
+## “The father of modern biomimetics”
+
+The tuna fish is the sports car of the marine world: according to scientists, it can accelerate to a speed of 50 km an hour in about 10 seconds thanks to its streamlined body and strong thrust of its tail fin. The Robotuna, an underwater robot developed by MIT researchers in the 1990s and modelled on the living tuna, possesses similar power. At the time, Robotuna set the standard for underwater robots in terms of manoeuvrability and energy efficiency. In 1995, the tuna robot received the award of scientific achievement of the year by the Scientific American magazine. Today, it is on display in the Science Museum in London.
+
+This year, Michael Triantafyllou, the developer of Robotuna and Professor of Marine Technology at MIT, will be awarded the Aurel Stodola Medal by the Department of Mechanical and Process Engineering (D-MAVT). In honour of the occasion, the Greek-born scientist will give the Aurel Stodola Lecture at ETH Zurich this coming Monday (see box).
+
+“Michael Triantafyllou is the father of modern biomimetics and a pioneer in the development of engineering applications inspired by marine life,” says Jürg Dual, Professor of Mechanics and Experimental Dynamics and director of D-MAVT. Triantafyllou’s work is distinguished by its extraordinary originality and creativity and as a bridge builder between basic research and engineering applications he is a kindred spirit with Aurel Stodola, the former ETH professor and namesake of the lecture.
+
+Robotuna. (Photo: Michael Triantafyllou / MIT)
+
+## Robot with bio-inspired sensor technology
+
+In the case of Robotuna and his later Robopike – an artificial pike – Triantafyllou’s objective was to find out how marine life harnesses energy from currents, waves and eddies in the water and how it uses it for movement. It is known that the tuna and the pike, as well as their robotic counterparts, can accelerate with such great power because they make use of the eddies they create with each movement to propel themselves: Their body creates and guides eddies to the tail that pushes them into the fluid. In turn the fluid pushes the body forward.
+
+As a scientist working at the interface between fluid dynamics and robotics, Triantafyllou wants to not only understand how marine life and water currents affect each other but to make use of this knowledge for humans. For example, his work has influenced Australian engineers who developed a power generator for marine power plants inspired by the tail fin of a shark. In his most recent research, he explored how marine organisms feel and react to currents. Using bio-inspired sensor technology, the goal is to make underwater robots and ship propulsion systems more energy-efficient. In his lecture at ETH Zurich, Triantafyllou will focus on this latest research.
+
+## 2014 Aurel Stodola Lecture
+
+The annual Aurel Stodola Lecture commemorates the life and work of ETH professor Aurel Stodola, whose early 20th century work in the field of technical thermodynamics influenced a generation of engineers. In addition to the ground-breaking work in energy-producing machines, Stodola will also go down in history as the inventor of the first mechanical prosthesis, or what is known as the ‘Stodola Arm’. For the lecture, the Department of Mechanical and Process Engineering invites prominent figures with an international reputation for their achievements in the fields of mechanical engineering and process engineering.
+
+Michael S. Triantafyllou: Biomimetic “survival” hydrodynamics and flow sensing Monday, 5 May 2014, 2.00 pm-3.15 pm ETH Zurich, main building, Semper-Aula (G 60), Rämistrasse 101, Zurich The lecture is open to the public and admission is free.
+

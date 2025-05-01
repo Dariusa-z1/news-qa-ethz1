@@ -1,0 +1,32 @@
+# data-science-interview-lothar-thiele
+
+**Source:** en_news_events/2017/12/data-science-interview-lothar-thiele.html
+
+## Main article
+
+Mr Thiele, you were recently appointed representative for digital transformation by the Executive Board. What are your responsibilities in this role? Thiele: Digitalisation is not just a major topic in the media; the economy and politics are feeling its effects too. This has repercussion for ETH, in that we are having to face many demands and requirements. As a leading institution, ETH wants to have an active say in the discussion surrounding digitalisation. This calls for a strategy on how to tackle the topic. We also need to set priorities. My task is to support the Executive Board, the professors and the departments in this area.
+
+Isn’t “digitalisation” just a trendy label that people are throwing around at the moment? It is true that, strictly speaking, digitalisation is not a new phenomenon by any means. Der Spiegel , for example, published a cover story all the way back in 1978 in which it questioned whether automation – which, as we know, is closely related to digitalisation – will destroy jobs. Those same arguments are now being dusted off again: replacing workers with machines versus liberation of the workforce from routine tasks. Later, the discussion turned to the concept of the information society. The primary focus was on how we obtain information and communicate with one another over the internet. This is something we have been looking at for quite a while.
+
+So why does the issue carry such a threat now? We have entered a new phase of digitalisation. We can now record, store, process and send information on an unprecedented scale. At the same time, we are gaining a better understanding of how to glean information and knowledge from raw data and ultimately reach a better understanding of the underlying observed and controlled processes.
+
+What does this mean for society? Digitalisation is fundamentally changing many processes that are relevant to everyday situations across all areas of life. More and more tasks are being taken over by computers that work autonomously, and this is having an impact on the labour market.
+
+Public debate is centred on opportunities and risks. Which side has a stronger influence over the debate? Both sides are being presented in a quite balanced way in the media. In my opinion, digitalisation is primarily an opportunity for Switzerland, and we have to seize it.
+
+Why? Switzerland is not an island – it has strong links all over the world. Many countries are investing heavily in digitalisation, and we cannot afford to simply ignore this development, especially if we want to safeguard the social gains we have made. That said, it is correct that we need to consider its risks too. If the risks are not adequately discussed, this will lead to serious social problems. ETH is taking the potential effects of digitalisation very seriously, with its professors grappling with its political, ethical, legal, and social effects.
+
+What foundations need to be in place to ensure Switzerland is able to benefit from the opportunities presented by digitalisation? Education is a key aspect, without a doubt. We need to improve computer science education in schools – this should start in primary school, before pupils enter secondary school. We need to equip children and teenagers with the skills to use devices and software and – more than that – to create something new that will benefit society. This is the only way to prevent us from becoming a “digital colony”. Ongoing training for employees is becoming increasingly important too. With digitalisation changing the labour market, new jobs will be created and areas of growth will be stimulated. Still, without continuing professional development, we will not be able to take advantage of the opportunities that arise.
+
+ETH wants to position itself as a leading centre of excellence for digitalisation. How far has it come with this plan? ETH has an exceptional reputation in industry and politics. This is thanks to the fact that we have long been investing in fields that are relevant today. Long-term funded basic research was and continues to be the key to success. As well as expanding computer science and electrical engineering, this investment has led to improvements in robotics, the founding of the Department of Health Sciences and Technology, and the appointment of new professors in the humanities and social sciences. These are all reasons why corporate heavyweights such as Google, Disney and Oracle are conducting research in Zurich today.
+
+How should ETH position itself publicly? ETH definitely should not be striving to attract as much media attention as possible. The aim is not to just chase after trends; we want to launch flagship projects that are of scientific interest and scholarly value.
+
+What topics do you personally consider to be of interest? There are various facets I find extremely exciting. One relates to privacy: the issue is not just about who is accessing my data; it is about what happens to the data that I disclose. Where does it go? Who is allowed to use it? What information can be gained from it? What mechanisms are there to limit this? Technically speaking, this is the domain of information theory. But there are legal and ethical issues involved too.
+
+Another aspect of digitalisation is machine learning: adaptive algorithms are not designed simply to perform sets of commands, such as sorting through a sequence of numbers. These algorithms learn through trial and error. This is a huge difference. Adaptive machines are already outperforming human beings in many areas. The problem is that we do not yet know exactly how they are learning. We have effectively created something we do not adequately understand yet. In the same vein, we do not yet know how people learn and in what respects human and machine learning differentiate.
+
+## About Lothar Thiele
+
+Lothar Thiele is a Professor of Technical Computer Science in the Department of Information Technology and Electrical Engineering at ETH Zurich. His research focuses on cyber-physical systems, the Internet of Things, embedded systems and evolutionary algorithms. He was appointed representative for digital transformation by the Executive Board at the beginning of November.
+

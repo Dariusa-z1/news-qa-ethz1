@@ -1,0 +1,24 @@
+# strickwerk-traegt-beton
+
+**Source:** de_news_events/2018/10/strickwerk-traegt-beton.html
+
+## 55 Kilogramm Schalung für fünf Tonnen Beton
+
+Das Herz der vier Meter hohen, geschwungenen Betonkonstruktion ist gestrickt. Als Schalung dient dem Bauwerk einzig ein mit Stahlseilen gespanntes Textil. Am Prototypen mit dem Namen KnitCandela kommt die Technologie erstmals in architektonischem Masstab zum Einsatz. Der Bau ist eine Hommage an den spanisch-mexikanischen Architekten Felix Candela (1910-1997) und ein Gemeinschaftswerk mit Zaha Hadid Architects Computation and Design Group (ZHACODE) und Architecture Extrapolated (R-Ex).
+
+Die Technologie entstand an der ETH Zürich. Eine industrielle Strickmaschine produzierte die Schalung ab einem digital generierten Strickmuster: In vier Bahnen strickte sie in 36 Stunden ein fertig geformtes 3D-Textil mit zwei Lagen. Die untere Lage bildet die sichtbare Decke – eine gestaltete Oberfläche mit farbigem Strickmuster. Die obere Lage enthält Tunnel für die Kabel des Schalungssystems und Taschen für herkömmliche Luftballone, welche nach dem Betonieren zu Hohlräumen werden. So wird die Konstruktion leicht und materialsparend. Schalungen für solch komplexe Formen auf konventionelle Weise herzustellen, würde wesentlich mehr Zeit und Material kosten.
+
+## Stricken ist das neue 3D-Drucken
+
+Im Innenhof des Museums wurde die gestrickte Schalung in einen temporären Rahmen gespannt und darauf eine speziell entwickelte Zementmischung gespritzt. Diese erste Schicht ist nur wenige Millimeter dünn, aber ausreichend, um eine starre Form zu erzeugen. Danach wurde konventioneller, faserverstärkter Beton aufgebracht.
+
+Die fertig gestrickten Stoffbahnen wurden in zwei Reisetaschen nach Mexiko-Stadt transportiert – als normales Aufgabegepäck. Die Strickware ist nur 25 Kilogramm schwer, die Stahlseile etwa 30 Kilogramm. Eingespannt in den Holzrahmen stützen sie über fünf Tonnen Beton.
+
+Die Technologie wurde von Mariana Popescu und Lex Reiter im Rahmen des Forschungsprojekts NFS Digitale Fabrikation entwickelt. Popescu ist Doktorandin bei Philippe Block, Professor für Architektur und Tragwerk an der ETH Zürich, Reiter Doktorand bei Robert Flatt, Professor für Physikalische Chemie von Baustoffen.
+
+Die Forschung von Popescu zeigt, dass mit gestrickten Textilien für architektonische Anwendungen sowohl Material wie Arbeitszeit gespart werden kann und der Bauprozess für komplexe Formen einfacher wird. Matthias Rippmann, Projektleiter für KnitCandela und Senior Researcher in der Block Research Group, sagt: «Von den ersten Arbeiten bis zur Fertigstellung vergingen nur fünf Wochen – das ist bedeutend weniger Zeit als wir mit konventioneller Technologie benötigt hätten.»
+
+KnitCandela ist auch eine Weiterentwicklung des Form-Systems für das HiLo-Dach - dem geschwungenen, ultraleichten Betondach, welches die Block Research Group für das Forschungs- und Innovationsgebäude NEST im Jahr 2017 entwickelt hat.
+
+Für KnitCandela produzierten die ETH-Forscher die gestrickte Schalung in einem Arbeitsschritt, während bei HiLo die Schalung aus einem Netz aus Stahlseilen und einer genähten und geklebten Plane produziert wurde. Mariana Popescu sagt: «Stricken bietet den Vorteil, dass 3D-Formen nicht aus mehreren Teilen zusammengesetzt werden müssen. Mit dem richtigen Strickmuster können wir sämtliche Wölbungen, Taschen und Kanäle per Knopfdruck produzieren.» Für die Bauindustrie ist 3D-Druck ein grosses Thema. Philippe Block sagt, die neue Methode sei gewissermassen eine neue Form des 3D-Drucks, «nur dass wir dazu keine neuartige Maschine benötigen. Eine herkömmliche Strickmaschine reicht.»
+

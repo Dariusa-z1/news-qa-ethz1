@@ -1,0 +1,30 @@
+# die-schulleitung-informiert
+
+**Source:** de_internal/2018/06/die-schulleitung-informiert.html
+
+## Erfolgreiches SEC weiter ausbauen
+
+Die Entwicklung des Student Project Houses der ETH Zürich schreitet seit Herbst 2016, als die Pilotstation auf dem Hönggerberg (Gebäude HPZ) eröffnet wurde, gut voran. Die Finanzierung wurde beim Start des SPH im Jahr 2015 auf drei Jahre befristet. Ein entsprechender Antrag für ein jährliches Betriebsbudget in der Höhe von 605'000 Franken für 2019 wurde von der Schulleitung bewilligt. Im Jahr 2020 soll zudem das Student Project House im Fernheizkraftwerk im Zentrum eröffnet werden, das zurzeit umfassend renoviert wird.
+
+Das Singapore-ETH Centre SEC hat sich seit seiner Gründung im Jahr 2010 zu einem wichtigen Forschungsstandort der ETH Zürich in Asien entwickelt. Die beiden dort laufenden Programme, Future Cities Laboratory (FLC) und Future Resilient Systems (FRS) haben sich bestens etabliert und profitieren von der Unterstützung durch die Forschungsförderung in Singapur. Jeder in Singapur investierte Franken generiert mindestens acht Franken für die Schweiz. Attraktiv für Forschende wie Studierende ist die Zusammenarbeit mit vielen anderen Top-Universitäten auf dem gemeinsamen CREATE-Campus.
+
+## Verstärkung des Tierschutzes
+
+Die Schulleitung hat nun Detlef Günther als verantwortlichen Vizepräsidenten beauftragt, eine langfristige Strategie für das SEC mit einem Zeithorizont von fünf bis zehn Jahren zu entwickeln. Thematisch verhandelt die ETH im Moment mit dem nationalen Forschungsfonds von Singapur um die Erweiterung des SEC um ein drittes Programm: «Future Health Systems» soll neuartige Lösungen im Gesundheitsbereich entwickeln. Die Schulleitung hat dem VPFW den dafür nötigen finanziellen Spielraum zugesichert.
+
+Die gesetzlichen Anforderungen im Bereich des Tierschutzes steigen stetig. Die neue, seit März 2018 geltende Tierschutzverordnung des Bundes macht es nötig, dass die ETH ihre Organisation verstärkt. Jede Hochschule, die Tierversuche durchführt, muss Tierschutzbeauftragte anstellen. Grosse Institutionen wie die ETH müssen deshalb auch entsprechende Teams aufbauen, um den Anforderungen gerecht zu werden. Dazu werden die bereits im Bereich Tierschutz tätigen Personen der ETH in der neuen «Gruppe Tierschutz» beim Vizepräsidenten für Forschung und Wirtschaftsbeziehungen, Detlef Günther, gebündelt und um eine stellvertretende Tierschutzbeauftrage und einen 3R-Beauftragten aufgestockt.
+
+## Neue Institutsstruktur am D-INFK
+
+Im Rahmen des nationalen 3R-Kompetenzzentrums, an dem auch die ETH Zürich beteiligt ist, wird versucht, die Tierversuche in der Forschung möglichst zu ersetzen, zu reduzieren oder zu verfeinern (replace, reduce, refine). Zurzeit arbeiten Forschende mehrerer Departemente in den neun Versuchstierhaltungen an der ETH Zürich mit Versuchstieren, zum allergrössten Teil mit Mäusen.
+
+Die Schulleitung hat der Gründung eines neuen Instituts für Programmiersprachen und –systeme (Institute for Programming Languages and Systems) zugestimmt. Dieses umfasst ab 1. August 2018 die drei Professoren Peter Müller, Zhendong Su und Martin Vechev.
+
+Von den Malerarbeiten über den Einkauf von Toilettenpapier bis zur Energieversorgung kauft die Abteilung Betrieb der ETH Zürich laufend Güter und Dienstleistungen auf dem Markt ein. Um durch eine koordinierte und gebündelte Beschaffung Kosten zu sparen und um die Beschaffungsprozesse zu rationalisieren hat die Schulleitung die neue Beschaffungsstrategie der Abteilung Betrieb gutgeheissen. Künftig werden zum Beispiel die vielen Providerverträge in den Bereichen Wartung und Reinigung je für den Campus im Zentrum und den Hönggerberg gebündelt und ausgeschrieben.
+
+Für Beschaffungen, die den Schwellenwert des Bundesgesetzes über das öffentliche Beschaffungswesen überschreiten, werden Rahmenverträge mit Lieferanten abgeschlossen, bei welchen diese Arbeiten abgerufen werden können. Durch diese Strategie verringert sich die Zahl der Verträge und damit der administrative Aufwand beim Betrieb, gleichzeitig vergrössern sich die einzelnen Beschaffungslose, was vorteilhaftere Konditionen für die ETH Zürich verspricht.
+
+## Regelmässige Informationen aus der Schulleitung
+
+Die Schulleitung der ETH Zürich trifft sich alle zwei Wochen zur ordentlichen Schulleitungssitzung. Künftig werden die wichtigsten Entscheide aus diesen Sitzungen in dieser Rubrik kurz erläutert. Vorgesehen ist ein Erscheinungszyklus alle vier bis sechs Wochen, der jeweils die Resultate von mindestens zwei Schulleitungssitzungen beinhaltet.
+

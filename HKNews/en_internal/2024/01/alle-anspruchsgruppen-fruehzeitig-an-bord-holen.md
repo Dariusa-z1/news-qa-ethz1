@@ -1,0 +1,36 @@
+# alle-anspruchsgruppen-fruehzeitig-an-bord-holen
+
+**Source:** en_internal/2024/01/alle-anspruchsgruppen-fruehzeitig-an-bord-holen.html
+
+## Main article
+
+Do you already feel at home at ETH? I’ve settled in very well at ETH Zurich and was warmly welcomed by everyone. That made it a lot easier for me to get started. Since then I have been able to visit many divisions and departments and have had many interesting conversations with people from teaching, research and administration.
+
+You’re a product of ETH yourself; you studied mechanical engineering and process engineering here. So how did you become Director of Real Estate Management? My studies were a very good basis for my professional career. My career in cement plant engineering at Holcim had a strong connection to mechanical engineering and process engineering through technology. On the other hand, a new cement plant is nothing more than a very large construction project. As a property manager at ETH Domain research institutes such as Empa, I was able to combine this knowledge of construction and technology quite well. From my point of view, many ETH buildings with their sophisticated building services are almost like machines. It’s obvious that we think buildings through from the inside out and take this sophisticated technology into account when planning. At the same time, it is important – as I have learned in my career – to find solutions that are appealing in terms of urban planning and architecture.
+
+Can all these requirements be reconciled? Yes, for me, building is the best possible compromise between these different requirements. It’s important for me to get the various stakeholders on board at an early stage. That’s the key to success.
+
+What is your opinion of your time at ETH Zurich so far? I find the discourse fact-oriented and pragmatic, which suits me very well. What is gratifying is the openness and willingness to change, which we’ve used in the Real Estate Management Department to launch many new topics in my first year.
+
+What have the challenges been? Over the past decade, our surface area has grown less quickly than the number of students and staff. So we’ve already densified. Further growth in the number of students will further widen the gap in the coming years. Here, too, we are challenged to think the buildings through from the inside out – that is, from the point of view of their use – and to enable further densification with good concepts.
+
+Do ETH’s savings measures have an impact on Real Estate Management and thus on the university? Yes, the biggest challenge will be to use existing resources to ensure the long-term value of the buildings. Every new piece of infrastructure – such as the GLC and BSS – has not only immediate follow-up costs during operation, but also longer-term costs in the form of repairs. Nevertheless, I am pleased that we will be able to realise groundbreaking new buildings in the future, such as the HPQ physics building and the planned HWS office building.
+
+One innovation under your leadership is cost optimisation through new management processes. What does that mean? For selected new large-scale projects – such as the HWS on Hönggerberg – we rely on integrated project management. Compared to conventional project management, many processes run in parallel from the outset and with early involvement of the main stakeholders. This shortens planning processes, creates incentives for all parties involved and encourages cooperation.
+
+What other innovations are you working on? The existing prioritisation procedure for space and retrofitting applications will be changed from 2024. It will again be possible to submit space and retrofitting applications at any time and not just for a particular cut-off date once a year. This will allow for faster, ongoing processing of applications, with several budget committee meetings being held each year to prioritise them. We expect a number of benefits, including the more equal use of our resources and even closer cooperation with our applicants.
+
+Sustainability and digitalisation/BIM are becoming increasingly important. Where does ETH stand with its real estate on these issues? The megatrends of digitalisation and the circular economy are having a major impact on the real estate sector. Together with our colleagues in the office of the Vice President for Infrastructure, we are working on these issues. Our vision is a “digital campus”, i.e. a digital twin of our infrastructure as a central platform for building information. The resulting data would serve as the basis for all processes – from ordering new infrastructure to demolishing existing pieces. Digital knowledge of the structure of our buildings enables efficient solutions, be it simulating the best possible energy supply or reusing existing components in the spirit of the circular economy.
+
+Sharing office workstations, laboratories and workshops is also sustainable: will this be pushed by the Real Estate Management Department in the future? Yes, as part of the ongoing Future of Work @ OCT project, we are introducing a flexible office concept in the Octavo building in Zurich-Oerlikon. Most of the entities of VPIN, VPFC and VPPL – encompassing around 800 employees – will be housed in the building in 2024. The project is of a pilot nature, and we want to learn from it for future projects in other ETH entities.
+
+The requirements of the Real Estate Management Department are manifold: what questions/requests do you hear most often from other departments? Our employees are highly valued by the departments – that is my impression from various bits of feedback. Wanting to work even more closely with them is the most common desire I’ve heard in my first year. Of course, we would like to see even closer exchange, which we are promoting, among other things, through the new prioritisation process.
+
+How do you unwind after all these challenges? My two little daughters provide enough variety and make sure that I stay active in my private life. I also like to ride my motorcycle and ski.
+
+## About Hannes Pichler
+
+Hannes Pichler has a degree in engineering (Dipl. Masch.-Ing.) from ETH, an MBA from HSG and completed an MAS in Real Estate Management in autumn 2023. He has been Director of the Real Estate Management Department at ETH Zurich since February 2023. Prior to that, he was Head of Real Estate Services at Empa from 2012, responsible for the portfolio of the ETH Domain’s research institutes. From 2006 to 2012 he worked for Holcim in industrial and plant engineering.
+
+He is active on the board of the association The Branch and on the CRB ’s Innovation Commission for a sustainable construction and real estate industry in Switzerland. He lives with his wife and two daughters in Gockhausen (ZH).
+

@@ -1,0 +1,32 @@
+# fast-wie-auf-der-venus
+
+**Source:** de_news_events/2020/11/fast-wie-auf-der-venus.html
+
+## Experimente mit Magma aus dem Labor
+
+Sähe die Welt heute so aus wie vor viereinhalb Milliarden Jahren, wäre sie kaum wiederzuerkennen. Anstelle von Wäldern, Bergen und Ozeanen war die Oberfläche unseres Planeten damals vollständig von Magma bedeckt, dem geschmolzenen Gesteinsmaterial, das beim Ausbruch von Vulkanen an die Oberfläche kommt. In diesem Punkt sind sich Wissenschaftlerinnen und Wissenschaftler heute einig.
+
+Unklar ist hingegen, wie die Atmosphäre zu jener Zeit aussah. Neue Untersuchungen unter der Leitung von Paolo Sossi, wissenschaftlicher Mitarbeiter an der ETH Zürich und Mitglied beim Nationalen Forschungsschwerpunkt PlanetS, bringen nun einige der Geheimnisse der Uratmosphäre ans Licht. Die Ergebnisse wurden heute in der Zeitschrift Science Advances veröffentlicht.
+
+«Vor 4,5 Milliarden Jahren tauschte das Magma ständig Gase mit der Atmosphäre aus», erklärt Paolo Sossi. «Die Luft und das Magma beeinflussten sich dabei gegenseitig. Untersucht man das eine, lernt man auch etwas über das andere.»
+
+Um die Uratmosphäre der Erde besser kennenzulernen, stellten die Forschenden im Labor ihr eigenes Magma her. Dazu mischten sie ein Pulver, das der Zusammensetzung des geschmolzenen Erdmantels entspricht, und erhitzten es. Das war weniger einfach als es klingt, wie Sossi betont: «Die Zusammensetzung unseres mantelähnlichen Pulvers erschwerte das Schmelzen. Wir benötigten sehr hohe Temperaturen von etwa 2000 °C, damit es flüssig wird.»
+
+Der Laser-beheizte aerodynamische Schwebeofen, mit dem die Gruppe um Sossi ihre Experimente durchführte. (Bild: IPGP)
+
+Dazu war ein spezieller Ofen nötig, in dem die Proben mit einem Laser erhitzt werden konnten. Ausserdem konnten die Forscher das Magma schweben lassen, indem sie verschiedene Gasgemische darum herum strömen liessen. Bei diesen Gasgemischen handelte es sich um verschiedene plausible Kandidaten für die Uratmosphäre. So wie damals vor 4,5 Milliarden Jahren beeinflussten auch die Gase im Ofen das flüssige Magma. Je nach Gasgemisch änderte sich die Zusammensetzung des Magmas.
+
+«Uns interessierte vor allem das Eisen im Magma», erklärt Sossi. «Wenn Eisen auf Sauerstoff trifft, oxidiert es und verwandelt sich in das, was wir gemeinhin als Rost bezeichnen.» Enthielt das Gasgemisch im Ofen also viel Sauerstoff, wurde das Eisen im Magma stärker oxidiert. Nachdem die Proben abgekühlt waren, konnte das Team um Sossi messen, wie stark das Eisen oxidierte. Anschliessend verglichen die Forschenden die Messdaten mit sogenannten Peridotiten. Diese Gesteine bilden den heutigen Erdmantel und tragen noch den Einfluss der Uratmosphäre in sich.
+
+## Eine neue Sicht auf die Entstehung des Lebens
+
+«Wir stellten fest, dass die junge Erde nach dem Abkühlen aus dem anfänglichen Magma-Zustand eine leicht oxidierende Atmosphäre mit Kohlendioxid als Hauptbestandteil sowie Stickstoff und etwas Wasser aufwies», berichtet Sossi. Auch der Oberflächendruck war viel höher als heute, fast hundertmal höher, und die Atmosphäre war aufgrund der heissen Oberfläche wesentlich höher. Die Uratmosphäre war also jener der heutigen Venus ähnlicher als der heutigen Erdatmosphäre.
+
+Aus den neuen Erkenntnissen ziehen Sossi und seinen Kollegen zwei Hauptschlussfolgerungen: Die erste ist, dass die Erde und die Venus in ihren Anfangsphasen recht ähnliche Atmosphären besassen, dass die Venus aber aufgrund ihrer Nähe zur Sonne und der damit verbundenen höheren Temperaturen in der Folge ihr Wasser verlor. Die Erde jedoch behielt ihr Wasser. Dieses bedeckt heute als Ozeane den grössten Teil der Erdoberfläche. Die Ozeane nahmen einen grossen Teil des Kohlendioxids aus der Erdatmosphäre auf und reduzierten dadurch dessen Gehalt in der Luft erheblich.
+
+Die zweite Schlussfolgerung ist, dass eine populäre Theorie über das Entstehen des Lebens auf der Erde nun viel unwahrscheinlicher ist. Basierend auf dem sogenannten «Miller-Urey-Experiment» geht diese Theorie davon aus, dass Blitzeinschläge in Kombination mit bestimmten Gasen (vor allem Ammoniak und Methan) zur Bildung von Aminosäuren führten, den Bausteinen des Lebens. Gemäss Sossi wäre das schwierig zu realisieren gewesen. Die notwendigen Gase waren schlicht nicht in ausreichender Menge vorhanden.
+
+## Literaturhinweis
+
+Sossi, PA, Burnham, AD, Badro, J, Lanzirotti, A, Newville, M & O’Neill, HSC: Redox state of Earth’s magma ocean and its Venus-like early atmosphere. Science Advances, 25. November 2020. doi: externe Seite 10.1126/sciadv.abd1387
+

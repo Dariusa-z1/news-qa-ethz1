@@ -1,0 +1,14 @@
+# eth-and-kantonsspital-baden-expand-collaboration
+
+**Source:** en_news_events/2020/09/eth-and-kantonsspital-baden-expand-collaboration.html
+
+## Main article
+
+ETH Zurich and Kantonsspital Baden (KSB) have already been working closely together since 2017. The Bachelor’s programme in human medicine launched that year at ETH begins with an introductory week at KSB, where the students can get a taste of life in a hospital. This practice-oriented training in the hospital serves as an example of what students can expect in future.
+
+The two institutions also collaborate in research. ETH occupies several rooms in the KSB Partnerhaus building, which opened in 2018, providing space for ETH scientists to conduct their research on site. Joint projects are also promoted in the KSB Health Innovation Hub. “The collaboration in the KSB Health Innovation Hub provides us with enormous added value in clinical research,” says Christian Wolfrum, Delegate for Medical Research at ETH Zurich.
+
+ETH is now aiming to expand this proven partnership with Kantonsspital Baden. The goal of the “Clinical Research ETH@KSB” collaboration is to accelerate and support joint initiatives and research projects. The focus is on clinical trials and the shared use of biological material and health-related data, with the aim of providing significant impetus to medical research.
+
+In the coming year, KSB will start work on a second Partnerhaus. The building, which will cost CHF 20 million, is scheduled to begin operations in parallel with the opening of the new KSB building in 2023. ETH will be the main tenant and occupy a total of 1,600 square metres over two floors. Detlef Günther, Vice President of Research, says: “ETH Zurich is making important contributions in fundamental medical research and is already working together with university hospitals. Our presence on the KSB healthcare campus opens up entirely new possibilities for collaboration.”
+

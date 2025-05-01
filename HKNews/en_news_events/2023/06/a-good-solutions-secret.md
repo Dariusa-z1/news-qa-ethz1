@@ -1,0 +1,54 @@
+# a-good-solutions-secret
+
+**Source:** en_news_events/2023/06/a-good-solutions-secret.html
+
+## Main article
+
+Initially, Siddhartha Mishra intended to study physics. In his childhood in Bhubaneswar, the capital of the Indian state of Odisha, he dreamed of finding out “what makes the stars shine”. In his studies, he realised that the mathematical approach to the world appealed more to him than the experimental one, and so he graduated in mathematics. The turn to the real world and to physical phenomena has remained with him to this day. The topics he studies as a mathematician typically include dynamic flows, liquids or gases (fluids), which play a role in weather, climate or avalanches, for example, as well as wave-like phenomena such as those that occur in tsunamis or exploding supernovas.
+
+## Building bridges for chaotic fluid flows
+
+When a mathematician like Mishra investigates a phenomenon of nature or tackles a technical question, he first considers it as a system. All these systems, their behaviour, their evolution, and their changes can be described mathematically in the form of certain equations. Since their invention by Isaac Newton (1642-1726) and Gottfried Wilhelm Leibniz (1646-1716), the equations that are particularly applicable to processes coupled to movement and change have been called differential equations. They are central to Siddhartha Mishra's research.
+
+Mishra made two of his most extraordinary breakthroughs with the so-called Euler equations: these equations are named after the Swiss mathematician Leonhard Euler (1707-1783). He designed an important class of partial differential equations that describes fluid flows, such as those that occur around an aerofoil. Mishra solved a question of the Euler equations that had been open for 30 years by proposing a new algorithm for an approximation method. He also developed a solution approach for certain Euler equations, which allows the dynamics of unstable, chaotic and turbulent flows to be determined more precisely.
+
+## Abstract equations for real-world problems
+
+For his research in the field of nonlinear partial differential equations, Siddhartha Mishra has received the 2023 Rössler Prize . In addition, ETH Zurich's most highly endowed research prize recognises that Mishra bridges the gap between mathematical fundamentals and their application in research and industry. For example, he has designed robust, efficient algorithms that enable faster and more accurate simulations of nonlinear partial differential equations on supercomputers . These simulations pave new ways to solve real-world problems in research areas such as astrophysics, solar physics, geophysics, climate dynamics, and biology.
+
+Real-world problems are the be-all and end-all of Siddhartha Mishra's research: “The phenomena I deal with have a real-world impact,” says Mishra, “and understanding the effects of changes is key to understanding physical and engineering processes in the real world.” Typical questions for his research include, “How much does drag decrease when the shape of the wing on an aircraft is changed in a certain way? And how much carbon emissions can be saved by designing the shape to be more aerodynamic?” Characteristic of Mishra is his orientation towards applications . He regularly collaborates with engineering researchers and industry. For example, together with researchers at Empa, he has developed fast algorithms to simulate an additive, industrial manufacturing process for 3D printing. This involves using Mishra's algorithms to position a laser beam in real time so that it mills the desired shape out of a metal block.
+
+“The amazing thing about mathematics is how its abstract equations keep enabling new solutions and highly relevant applications for the economy and society,” says Max Rössler, the donor of the Rössler Prize, who himself studied mathematics at ETH Zurich, did his doctorate on orbit calculations in space travel and taught at the Institute for Operations Research. “Siddhartha Mishra's research impressively demonstrates the incredible applicability of mathematics, as his equations support predictions of weather, earthquakes or tsunamis, for example, or also enable productive applications such as 3D printing with metals in industrial manufacturing.”
+
+As a rule, the nonlinear partial differential equations that Mishra studies relate to real phenomena that – like clouds, tornadoes or solar storms – are very complex and multidimensional and contain many dependencies, interactions, and uncertainties. These problems are often so complex that simple formulas cannot fully describe them. A solution satisfies an equation if, by inserting concrete values, it produces a true statement consistent with the measured facts.
+
+## Machine learning for speed and accuracy
+
+Mishra already has a few examples to show of speeding up computational time using machine learning:
+
+• In the case of the 3D printing process for metals, his approach reduced the computational time of the simulation from around four hours to one tenth of a second (0.1 s).
+• In the case of a tsunami early warning system, the computational time with Mishra's learning approach is around one hundredth of a second (10 -2 s). Previously, it took about an hour to predict from the earthquake event how a tsunami would evolve and spread.
+In the case of highly complex, multidimensional natural phenomena, a mathematician like Mishra works with approximations to the solutions of the equations. Real-world problems typically cannot be solved at all without approximations. “Nature itself and the equations we use to model nature are very often too complex to ultimately allow anything other than approximations,” says Mishra, “in a way, all mathematics is an approximation, as the ancient Greeks and the Indian mathematicians in the first century already said.”
+
+Today, mathematicians like Mishra have high-performance computers at their side. “Supercomputers can solve the differential equations for complex systems approximately,” says Mishra. Mishra also receives the Rössler Prize for very carefully formulating the “weaker” approximate solutions and converting them into algorithms. The quality of his algorithms is that they preserve the structure of a mathematical equation particularly well and in this way increase the accuracy of the simulations. However, not only do numerical approximation methods have a practical use for Mishra, but they also play a fundamental role in proving the validity, scope, and impact of an equation.
+
+Recently, Siddhartha Mishra, who is a member of the ETH AI Center , has started designing very powerful machine learning algorithms. Initially, he was concerned with shortening the computational time of the simulations. Now, questions are increasingly coming up about how machine learning could increase the accuracy of a simulation and solve previously unsolvable problems.
+
+“Machine learning simulations are supposed to be not just ten times faster, but ten thousand to a hundred thousand times faster,” says Mishra. One example of how learning algorithms increase the accuracy of a simulation comes from Geophysics research. Together with Yunan Yang, who most recently was a researcher at the Institute for Theoretical Studies , and other collaborators, he proposed a new machine learning algorithm to identify sub-surface geophysical properties by seismic imaging, i.e., by sending in seismic waves into the ground and recording their reflections at measuring stations on the surface. Mishra and Yang's algorithms are four to five times faster than previous algorithms, and they are also two to four times more accurate.
+
+Mishra also uses physics as inspiration for his machine learning algorithms: on the one hand, he uses machine learning for physics problems. On the other, he uses physics principles and concepts to develop more powerful, robust and reliable machine learning systems - for example, to refine imaging in neurology.
+
+## Rössler Prize
+
+Max Rössler gifted 10 million Swiss francs to the ETH Zurich Foundation in 2008. He donates the interest from this estate in the form of an annual award for ETH professors in the expansion phase of their research careers. The Rössler Prize is worth 200,000 Swiss francs, making it the most highly endowed research award at ETH Zurich. It is conferred annually at the ETH Zurich Foundation ’s “thanksgiving” event. Rössler studied mathematics at ETH Zurich and wrote his doctoral dissertation on orbit calculations in space travel. After a spell as guest researcher at Harvard University, he returned to ETH, where he was a senior scientist and lecturer at the Institute of Operations Research from 1967 to 1978. He later worked in wealth management before retiring from business life. In 2013, he was awarded the title of Honorary Councillor by ETH Zurich.
+
+More information about the Rössler Prize
+
+## References
+
+Bartolucci, F, de Bézenac, E, Raonić, B, Molinaro, R, Mishra, S, Alaifari, R. Are Neural Operators Really Neural Operators? Frame Theory Meets Operator Learning. arXiv:2305.19913v1 [cs.LG]. (2023). 10.48550/arXiv.2305.19913
+
+Molinaro R, Yang Y, Engquist, Mishra, S. Neural Inverse Operators for Solving PDE Inverse Problems. ETH Zurich Research Collection (2023). https://www.research-​collection.ethz.ch/handle/20.500.11850/596104
+
+Hosseini, E, Ghanbari, PG, Müller, O, Molinaro, R, Mishra, S., Physics Informed Neural Networks for Thermal Analysis of Laser Powder Bed Fusion Process. 2022. Available at SSRN: https://ssrn.com/abstract=4189609 or doi: 10.2139/ssrn.4189609
+

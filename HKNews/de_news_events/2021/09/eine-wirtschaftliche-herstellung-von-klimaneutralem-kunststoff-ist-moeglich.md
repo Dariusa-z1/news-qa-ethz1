@@ -1,0 +1,24 @@
+# eine-wirtschaftliche-herstellung-von-klimaneutralem-kunststoff-ist-moeglich
+
+**Source:** de_news_events/2021/09/eine-wirtschaftliche-herstellung-von-klimaneutralem-kunststoff-ist-moeglich.html
+
+## Vermehrtes Kunststoffrecyling
+
+Seit den frühen 1950er Jahren haben Kunststoffe in fast allen Bereichen des modernen Lebens Einzug gehalten. Infolgedessen hat sich der Kunststoffverbrauch zwischen 1964 und 2014 verzwanzigfacht, von 15 auf 311 Millionen Tonnen pro Jahr. Nicht nur die Umweltverschmutzung mit Kunststoffmüll hat während dieser Zeit zugenommen, auch der Erdölverbrauch der Herstellung ist gross sowie die damit verbundenen Treibhausgasemissionen.
+
+Forschende der RWTH Aachen, der ETH Zürich und der University of California Santa Barbara erstellten ein neues Berechnungsmodell der globalen Plastikproduktion und -entsorgung. Geleitet wurde das Team von André Bardow, ehemals an der RWTH Aachen und heute Professor für Energie- und Prozesssystemtechnik an der ETH Zürich. Mit ihrem Modell zeigen die Wissenschaftler auf, dass die wirtschaftliche Herstellung von Kunststoffen, die über ihren gesamten Lebenszyklus eine Nettobilanz der Treibhausgas-Emissionen von null aufweisen, erreicht werden kann.
+
+Möglich ist dies durch eine geschickte Kombination von drei bereits entwickelten Technologien: Kunststoffrecycling und Kunststoffherstellung aus Biomasse sowie aus CO 2 durch Kohlenstoffabscheidung und ‑nutzung (engl. carbon capture and utilisation, CCU). Die Forschenden veröffentlichten ihre Studie in der jüngsten Ausgabe der Fachzeitschrift externe Seite Science .
+
+Wie die Berechnungen zeigten, liegt der Schlüssel in einem möglichst hohen Anteil von rezyklierten Kunststoff – ergänzt durch die beiden anderen erwähnten Herstellungspfade. Diese drei Herstellungswege entsprechen dem Prinzip der Kreislaufwirtschaft. Durch optimale Kombination der drei Herstellungswege kann der Energiebedarf gegenüber einem alternativen Herstellungsweg um 34 bis 53 Prozent gesenkt werden. Bei diesem alternativen Herstellungsweg handelt es sich um die heutige Herstellungspraxis aus fossilen Rohstoffen, ergänzt mit umfangreicher Kohlenstoffabscheidung und -speicherung (engl. carbon capture and storage, CCS) insbesondere in den Müllverbrennungsanlagen, wo die Kunststoffprodukte am Ende ihres Lebenszyklus verbrannt werden.
+
+Die Kosten des neu vorgeschlagenen Herstellungswegs liegen in der gleichen Grössenordnung wie bei diesem alternativen fossilen Herstellungsszenario. Unter vorteilhaften Bedingungen können im Jahr 2050 die Kosten der weltweiten Kunststoffproduktion gegenüber dem alternativen Szenario sogar um 288 Milliarden US-Dollar pro Jahr reduziert werden. Hierzu müssen Biomasse, CO 2 und erneuerbarer Strom kostengünstig zur Verfügung stehen, sich die Förderung und Bereitstellung von Erdöl verteuern sowie Investitionsanreize für das Recycling gesetzt werden. «Der geringere Energiebedarf mag kontraintuitiv erscheinen, ergibt sich aber durch die Energieeinsparung über den gesamten Lebenszyklus durch das Recycling», sagt ETH-Professor Bardow.
+
+Der Weg zu klimaneutralen Kunststoffen kann politisch gefördert werden durch Anreize für mehr Kunststoffrecycling und eine erhöhte Nutzung von Biomasse und CCU, folgern die Autoren in der Studie. «Wir sollten die verschiedenen Herstellungspfade von Kunststoff nicht einzeln denken, denn in ihrer geschickten Kombination liegt ein grosses Potenzial», sagt Bardow.
+
+Bei diesem Text handelt es sich um eine überarbeitete Fassung einer Medienmitteilung der RWTH Aachen.
+
+## Literaturhinweis
+
+Meys R, Kätelhön A, Bachmann M, Winter B, Zibunas C, Suh S, Bardow A: Achieving net-zero greenhouse gas emission plastics by a circular carbon economy, Science, 30. September 2021, doi: externe Seite 10.1126/science.abg9853
+

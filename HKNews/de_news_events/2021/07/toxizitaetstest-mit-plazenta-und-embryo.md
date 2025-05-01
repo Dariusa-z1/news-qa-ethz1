@@ -1,0 +1,22 @@
+# toxizitaetstest-mit-plazenta-und-embryo
+
+**Source:** de_news_events/2021/07/toxizitaetstest-mit-plazenta-und-embryo.html
+
+## Chip mit unterschiedlichen Zellen
+
+Medikamente sollen nicht nur sicher sein für die Patientinnen und Patienten, sondern im Falle einer Schwangerschaft auch für das ungeborene Kind im Mutterleib. Bereits in einem frühen Stadium der Entwicklung neuer Medikamente werden Wirkstoffe daher in der Petrischale mit embryonalen Stammzellen aus Zelllinien von Mäusen getestet. Damit will man vermeiden, dass eine embryoschädigende Wirkung erst zu einem späteren Zeitpunkt bei Tierversuchen an trächtigen Mäusen bemerkt würde.
+
+Allerdings sind diese bisherigen Zellkulturtests eine starke Vereinfachung dessen, was sich im Mutterleib abspielt: Forschende geben die Testsubstanz dazu einfach in der Petrischale in eine Kultur von embryonalen Stammzellen. Dadurch entdecken sie Stoffe, welche embryonale Zellen direkt schädigen. Im Körper einer schwangeren Frau hingegen werden Arzneistoffe unter Umständen auch von deren Stoffwechsel verändert, und sie gelangen über das Blut und die Plazenta in den Blutkreislauf des Embryos. Stoffe, welche dem Embryo indirekt schaden, zum Beispiel weil sie die Funktion der Plazenta beeinträchtigen oder in dieser Stressreaktionen auslösen, werden jedoch in bisherigen Zellkultur-Standardtests nicht entdeckt.
+
+Forschende am Departement für Biosysteme der ETH Zürich in Basel haben nun einen Labortest entwickelt, welcher die Rolle der Plazenta bei der Einschätzung der Embryotoxizität miteinbezieht. Julia Boos, Doktorandin in der Gruppe von ETH-Professor Andreas Hierlemann, und ihre Kollegen nutzten dazu einen von ihnen entwickelten Chip mit mehreren Kompartimenten, die durch winzige Kanäle miteinander verbunden sind. Darauf kombinierten die Wissenschaftlerinnen und Wissenschaftler jeweils aus Zelllinien gewonnene menschliche Plazentazellen mit kleinen Gewebekügelchen aus embryonalen Stammzellen von Mäusen (Embryoid Bodies), welche die frühe Embryonalentwicklung widerspiegeln. Zu testende Substanzen erreichen darauf zunächst eine Schicht Plazentazellen, müssen diese durchdringen und gelangen erst anschliessend zu den Embryonalzellen – ähnlich wie dies auch im Mutterleib der Fall ist.
+
+Lebensfähige Embryonen entstehen bei all diesen Versuchen übrigens nicht. Die Embryonalzellen aus Zelllinien machen lediglich während zehn Tagen die allerersten Schritte der Embryonalentwicklung durch.
+
+Als nächstes möchten die Forschenden ihr System im Hinblick auf besser geeignete Plastikmaterialien weiterentwickeln. Denkbar ist ausserdem, für die Embryoid Bodies in Zukunft menschliche Stammzelllinien zu verwenden statt solche von der Maus. «Insbesondere in der Embryonalentwicklung und den Vorgängen in der Plazenta gibt es wesentliche Unterschiede zwischen Versuchstieren und dem Menschen», erklärt Boos. «Die Plazenta ist das Organ, bei dem Spezies-Unterschiede am stärksten ausgeprägt sind.»
+
+Ziel ist, einen neuen Test zu entwickeln, den auch die Pharmaindustrie einfach anwenden kann. Indem embryoschädigende Stoffe bei der Entwicklung von Medikamenten frühzeitig erkannt und ausgeschlossen werden können, müssen anschliessend weniger Stoffe in Tierversuchen getestet werden. Dies hilft, die Zahl an Tierversuchen zu reduzieren.
+
+## Literaturhinweis
+
+Boos JA, Misun PM, Brunoldi G, Furer LA, Aengenheister L, Modena M, Rousset M, Buerki-Thurnherr T, Hierlemann A: Microfluidic co-culture platform to recapitulate the maternal-placental-embryonic axis. Advanced Biology, 19. Juni 2021, doi: externe Seite 10.1002/adbi.202100609
+

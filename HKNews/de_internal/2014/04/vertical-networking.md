@@ -1,0 +1,18 @@
+# vertical-networking
+
+**Source:** de_internal/2014/04/vertical-networking.html
+
+## Main article
+
+Als die National Research Foundation (NRF) in Singapur im Jahr 2009 den Grundstein für die Planung einer gemeinsamen Forschungsstätte legte, unter deren Dach Forschungsgruppen verschiedenster Universitäten angesiedelt sein würden, lag das Augenmerk ganz besonders auf der Einzigartigkeit der angestrebten akademischen Community und auf ihren zukünftigen Interaktionsmöglichkeiten und -chancen.
+
+Auf dem CREATE Campus (CREATE ist die Abkürzung von «Campus for Research Excellence and Technological Enterprise»/«Campus für Forschungsexzellenz und technologischen Unternehmergeist» – die Menschen in Singapur haben ein Flair für Abkürzungen!) haben sich interdisziplinäre Forschungsinstitute von renommierten Universitäten zum ersten Mal gemeinsam angesiedelt. Der CREATE Tower vereint die ETH Zürich (mit dem Singapore-ETH Centre), das Massachusetts Institute of Technology, die Technische Universität München, die University of California Berkeley, die Peking University, die Shanghai Jiao Tong University, die National University of Singapore sowie die Nanyang Technological University unter einem gemeinsamen Dach.
+
+Inzwischen haben sich verschiedene gesellschaftliche Events am CREATE etabliert, und jedes Forschungsinstitut organisiert eine eigene Veranstaltung. Nur um ein paar Beispiele zu nennen: Das MIT veranstaltet ein Thanksgiving mit traditionellem Truthahn und anderen amerikanischen Spezialitäten. Die TU München organisiert ein kleines Oktoberfest mit typischer Wies’n-Musik, deutschem Bier und Trachten ̶ die Bierzelt-Atmosphäre ist verblüffend echt. Als Dankeschön revanchieren wir uns mit einer Weihnachtsparty samt Glühwein und anderen internationalen Spezialitäten – der Glühwein schmeckt in einer tropischen Klimazone übrigens völlig anders... Diese Veranstaltungen finden normalerweise auf einer der Dachterrassen des Towers statt, zwischen Bambuspflanzen, bei herrlicher Sicht auf den Campus und seine Umgebung. Diese «vertikalen Interaktionen» machen Mut und Lust auf mehr: Es besteht durchaus noch Potential für weitere Initiativen dieser Art, damit die neuen Kontakte und Bande nachhaltig gestärkt werden.
+
+Ich glaube, wir sollten schnellstmöglich wieder ein Tischfussballturnier organisieren, damit der Pokal an seinen angestammten Platz nach Singapur zurückkehrt. Bei so einem Turnier erfahren wir nicht nur Näheres über die Forschungsprojekte unserer Kolleginnen und Kollegen, sondern können auch Kontakte und Verbindungen knüpfen, die sowohl gegenwärtig, am Singapore-ETH Centre, als auch zukünftig, während unserer beruflichen Laufbahn, wichtig und nützlich sind. Für die Singapore-ETH Community ist die vertikale Kommunikation innerhalb des CREATE Towers ein Schlüsselfaktor und eine wertvolle, unverzichtbare Ressource.
+
+## Zur Person
+
+Marta Heisel-Wisniewska ist derzeit als Forscherin am Future Cities Laboratory (FCL) in Singapur im Auftrag der Professur für Architektur und Konstruktion tätig. Von 2004 bis 2011 studierte sie am Departement Architektur und Städteplanung der Westpommerschen Technischen Universität Stettin (ZUT) in Polen sowie am Departement Architektur der Hochschule für Künste in Berlin. Bevor sie zum FCL nach Singapur berufen wurde, war sie Dozentin und Koordinatorin des Architekturprogramms am Äthiopischen Institut für Architektur, Bauwesen und Städteentwicklung in Addis Ababa, wo sie Mitglied einer Forschungsgruppe war, die sich mit dem Design von Flüchtlingsauffangeinrichtungen befasste. Für ihr Engagement wurde sie von EiABC-Studentenrat im Jahr 2011 mit dem «Best Teaching Award» ausgezeichnet.
+
