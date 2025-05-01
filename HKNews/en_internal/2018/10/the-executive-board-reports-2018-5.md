@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/10/the-executive-board-reports-2018-5.html
 
-**Date processed:** 2025-05-01
-
 ## ETH launches rehabilitation initiative
 
 With the launch of a large-scale rehabilitation initiative, ETH Zurich is seeking to establish itself as a centre of excellence for comprehensive and innovative research in the field of rehabilitation. Eight new professorships are planned across four departments.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/09/globe-strom-und-waerme-haltbar-machen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Schweiz will ihre Energieversorgung bis 2050 klimaneutral gestalten. Dazu muss sie fossile Brenn- und Treibstoffe durch erneuerbare Energien ersetzen. Zudem will die Schweiz aus der Kernenergie aussteigen. Das Energiesystem von morgen muss also nicht nur die Sektoren Transport und Heizen mittels Elektromobilität beziehungsweise Wärmepumpen elektrifizieren, sondern gleichzeitig die wegfallende Elektrizität aus Kernkraftwerken kompensieren. Den erhöhten Strombedarf decken sollen neben der Wasserkraft vor allem Fotovoltaik und begrenzt Windkraft.

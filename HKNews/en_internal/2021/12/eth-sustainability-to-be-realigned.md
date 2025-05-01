@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/12/eth-sustainability-to-be-realigned.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Sustainability is perhaps the field of action that is the most challenging for ETH Zurich, both scientifically and institutionally. After all, as a publicly financed, top-ranking global university, ETH has a responsibility to society – for example, when it comes to using resources responsibly or reducing greenhouse gas emissions, the university must not only work towards solutions through its teaching, research and innovation, but also take concrete actions of its own. It follows that not only are the ETH departments and a growing number of competence centres now working on solutions to enable sustainable development, but the university also has sustainability goals for campus and infrastructure development (including mobility, catering and procurement): “Sustainability is part of the culture at ETH,” the 2021–2024 Strategy and Development Plan states in this regard: “Furthermore, we live up to sustainable values on our own campus and promote the idea of using ETH as a living lab.”

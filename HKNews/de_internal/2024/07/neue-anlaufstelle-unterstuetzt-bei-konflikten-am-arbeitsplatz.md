@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/07/neue-anlaufstelle-unterstuetzt-bei-konflikten-am-arbeitsplatz.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Frau Dörflinger-Khashman, vermutlich alle haben schon einmal Auseinandersetzungen im Team, unter Kolleg:innen oder mit Vorgesetzten erlebt. Warum ist es so wichtig, Konflikte anzusprechen und zu klären? Nadia Dörflinger-Khashman : Konstruktive Kontroversen sind wichtig für Innovation und Weiterentwicklung. Werden Meinungsverschiedenheiten jedoch unfair ausgetragen, Personen abgewertet oder unter Druck gesetzt, hat das nicht nur negative Auswirkungen auf die einzelne Person, sondern oft auch auf das ganze Team oder die Forschungsgruppe. Wichtig ist deshalb, bei anhaltenden Reibungen so früh wie möglich hinzuschauen und zu versuchen, die Situation zu klären. So können gebundene Ressourcen wie Kraft und Aufmerksamkeit wieder für die tatsächlichen Aufgaben und Ziele freigesetzt werden.

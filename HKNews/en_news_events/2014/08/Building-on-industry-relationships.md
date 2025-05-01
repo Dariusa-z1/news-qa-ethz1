@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/08/Building-on-industry-relationships.html
 
-**Date processed:** 2025-05-01
-
 ## Business relies on university research
 
 For Roland Siegwart, Vice President Research and Corporate Relations at ETH Zurich, Industry Day 2014 was a very special day: as one of the founders of the event – “a bridge between the university and industry and small and medium-sized enterprises” – it was Siegwart’s last Industry Day in his current role. He will step down as vice president at the end of the year and return to research work.

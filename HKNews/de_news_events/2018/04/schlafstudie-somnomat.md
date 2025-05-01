@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/04/schlafstudie-somnomat.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Bis auf das kleine rote Licht der 3D-Kamera ist es stockdunkel im Schlaflabor. Basil hat damit kein Problem, er mag es sogar. Der 14-jährige aus Somerset ist tagsüber oft müde. Er ist sogar schon im Unterricht eingeschlafen. Grund dafür ist seine Schlafbezogene Rhythmische Bewegungsstörung. Mit 18 Monaten fing es bei ihm an. Seitdem wiegt er phasenweise seinen Körper auf allen Vieren stehend in der Nacht heftig hin und her. Seine Mutter Denise erzählt, dass es Jahre gedauert habe, bis die Störung diagnostiziert und er an eine Spezialistin an das Universitätsspital nach Southampton verwiesen wurde. Dank der externe Seite Ärztin Cathy Hill liegt Basil nun als Teilnehmer einer Studie in einem automatisch angetriebenen Bett des Sensory-Motor Systems Lab, dem Somnomat , in Zürich.

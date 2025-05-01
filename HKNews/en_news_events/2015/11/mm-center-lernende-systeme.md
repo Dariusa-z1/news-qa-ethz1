@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/11/mm-center-lernende-systeme.html
 
-**Date processed:** 2025-05-01
-
 ## What determines intelligence?
 
 Cars that can park themselves, or robots that can move along uneven terrain, must be able to learn from their experiences and adapt to new situations and environments. Although these abilities are a given for humans, they present major challenges for machines. However, research in this field is progressing at a rapid pace. In order to educate the next generation of scientists in this area, intensify collaborative research and benefit from a shared infrastructure, ETH Zurich and the Max Planck Society have joined forces to establish a centre for learning systems. The centre will receive a total of five million euros in funding in the first five years, with the Max Planck Society and ETH Zurich each providing half.

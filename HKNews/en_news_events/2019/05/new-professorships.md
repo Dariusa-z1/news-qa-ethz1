@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/05/new-professorships.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 A mathematician who combines optimisation, information theory and data science; an expert in NMR spectroscopy whose work extends into various ETH departments and faculties; an immunology researcher who develops cellular analysis for personalised medicine; a geobiologist who traces environmental changes in microorganisms using methods from genomics and phylogenetics: the newly appointed professors cover a wide range of subjects. “I am delighted with the appointments and look forward to seeing the fresh momentum that our new colleagues will provide,” says ETH President Joël Mesot. “Today, the most significant developments and breakthroughs happen at the interface between disciplines. We are responding to this with the ETH+ initiative, among other approaches. Our new colleagues will help us to consistently pursue this path even further.”

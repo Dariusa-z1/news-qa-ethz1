@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/06/basispruefung-flexibel-gestalten.html
 
-**Date processed:** 2025-05-01
-
 ## Den Lernstoff aufteilen
 
 Wer an der ETH Zürich ein Bachelorstudium beginnt, kann frühestens nach zwei Semestern die sogenannte Basisprüfung ablegen: Das ist die erste umfangreiche Leistungskontrolle über den gesamten Lernstoff des ersten Studienjahres – und für viele Studierende ein prägender Moment in ihrer akademischen Ausbildung.

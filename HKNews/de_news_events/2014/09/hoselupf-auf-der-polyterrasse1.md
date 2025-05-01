@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/09/hoselupf-auf-der-polyterrasse1.html
 
-**Date processed:** 2025-05-01
-
 ## «Der Geruch meiner Kindheit»
 
 Das Sägemehl ist überall: In den Haaren, den Ohren, den Kleidern. Nach jedem Gang wischen sich die Schwinger die braunen Späne vom Leib, einige waschen sich im bereitgestellten schwarzen Zuber das Gesicht. Hie und da kommt eine Gelenksalbe zum Einsatz. Rund 20 Studenten, darunter eine einzige Frau, haben sich für das Studi-Schwingen auf der Polyterrasse eingeschrieben.

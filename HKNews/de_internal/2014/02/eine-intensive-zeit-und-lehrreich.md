@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/02/eine-intensive-zeit-und-lehrreich.html
 
-**Date processed:** 2025-05-01
-
 ## Mehr Verantwortung
 
 Agnes Rupacher arbeitet seit zehn Jahren Assistentin am Institut für Verfahrenstechnik. Damit hat sie mit 28 Jahren immerhin ein Drittel ihres Lebens an der ETH verbracht. In ihrem Büro empfängt einen die Halb-Zypriotin mit einem Lächeln. Neben ihr hängen zahlreiche Ansichtskarten und Mitbringsel von Gästen an der Wand. Dazu hängt ein Diplom –von einem SAP-Kurs, den sie 2006 an der ETH besuchte.

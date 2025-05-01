@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/10/thomas-mann-lecture-mit-jan-assmann.html
 
-**Date processed:** 2025-05-01
-
 ## International renommierter Kulturwissenschaftler
 
 Thomas Mann und Hermann Hesse pflegten einen jahrzehntelangen Austausch: Mann schätzte Hesses «Der Steppenwolf» und sah «Das Glasperlenspiel» in Verbindung mit seinem eigenen Roman «Doktor Faustus». Jan Assmann geht in seinem Vortrag auf die weniger etablierten Bezüge zwischen den Werken beider Autoren ein und zeigt die Zusammenhänge zwischen Hesses «Glasperlenspiel» und Manns Josephsromanen auf.

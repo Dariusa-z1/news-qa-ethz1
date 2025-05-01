@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/02/neue-ideen-aus-usa.html
 
-**Date processed:** 2025-05-01
-
 ## Neue Lernmethoden
 
 Wie lernen Studierende an anderen Hochschulen? Wie evaluieren ausländische Universitäten ihre Lehre? Welche Infrastruktur ist für eine innovative Lehre notwendig? Antworten auf diese und andere Lehr-Fragen zu finden, ist das Ziel des Projektes «Raus aus den vier Wänden», kurz «Rad4W». Das Projekt ging als Sieger aus einem Innovedum-Wettbewerb hervor. Innovedum ist der Fonds des Rektors zur Finanzierung von Initiativen. Damit werden innovative Ideen gefördert, welche das Lernen und Lehren an der ETH Zürich nachhaltig verbessern.

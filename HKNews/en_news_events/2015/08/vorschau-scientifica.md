@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/08/vorschau-scientifica.html
 
-**Date processed:** 2025-05-01
-
 ## Light wizardry and animation effects
 
 Astrophysicist Kevin Schawinski looks intently at his screen. He is examining data from a space telescope in order to try to learn more about the formation and effects of black holes. For Schawinski, light is the sole source of information for his research on the history of the universe since the Big Bang. But today his work will have to wait. The young ETH professor rushes off to a meeting with his research group, where the agenda centres not on technical discussion but rather on the astrophysicists’ appearance at Scientifica 2015 . The researchers want to carry out another test of the infrared camera that visitors will be able to experiment with at Zurich Science Days.

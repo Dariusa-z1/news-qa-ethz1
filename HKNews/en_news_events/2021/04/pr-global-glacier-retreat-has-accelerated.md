@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/04/pr-global-glacier-retreat-has-accelerated.html
 
-**Date processed:** 2025-05-01
-
 ## Rising sea levels and water scarcity
 
 Glaciers are a sensitive indicator of climate change – and one that can be easily observed. Regardless of altitude or latitude, glaciers have been melting at a high rate since the mid-20th century. Until now, however, the full extent of ice loss has only been partially measured and understood. Now an international research team led by ETH Zurich and the University of Toulouse has authored a comprehensive study on global glacier retreat, which was published online in Nature on 28 April. This is the first study to include all the world’s glaciers – around 220,000 in total – excluding the Greenland and Antarctic ice sheets. The study’s spatial and temporal resolution is unprecedented – and shows how rapidly glaciers have lost thickness and mass over the past two decades.

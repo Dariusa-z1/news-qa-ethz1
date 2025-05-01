@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/12/shaping-the-future-together-globe.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 What are your personal goals for rETHink? Julia Dannath: I’ve been at ETH for a year now, and I’m delighted that Joël Mesot chose to embark on this project. My personal goal is to foster a community spirit throughout ETH, something that will encourage us all to work together on shaping this university’s future!

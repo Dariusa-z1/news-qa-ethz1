@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/10/blog-habert-carbon-neutral-construction.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Buildings and infrastructure account for 40 percent of greenhouse gases (GHG) emitted and as man-made objects with extremely long service lives and slow modernization cycles, the buildings we’re building now will be almost unchanged by 2050. We should therefore already build using post-2050 energy regulation – but we do not.

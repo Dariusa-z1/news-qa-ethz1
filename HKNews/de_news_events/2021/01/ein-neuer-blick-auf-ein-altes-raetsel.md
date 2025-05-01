@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/01/ein-neuer-blick-auf-ein-altes-raetsel.html
 
-**Date processed:** 2025-05-01
-
 ## Ein Abenteuer mit tragischem Ende
 
 Als EPFL-Professor Johan Gaume Anfang Oktober 2019 einen Anruf mit unbekannter Nummer erhielt, ahnte er wohl kaum, dass er bald tief in eines der grössten Rätsel in der Geschichte der Sowjetunion eintauchen würde. Die Anruferin, eine Journalistin der New York Times, bat ihn um seine fachliche Meinung zu einer Tragödie, die sich 60 Jahren zuvor im nördlichen Ural in Russland ereignet hatte und heute als das Unglück am Djatlow-Pass bekannt ist. Die russische Generalstaatsanwaltschaft hatte den Fall kurz zuvor aus den Tiefen der sowjetischen Archive hervorgeholt – Gaume, Leiter des Labors für Schnee- und Lawinensimulation (Snow and Avalanche Simulation Laboratory, SLAB) der EPFL und Gastwissenschafter am WSL-Institut für Schnee- und Lawinenforschung SLF, war er jedoch unbekannt. «Ich bat die Journalistin, mich am nächsten Tag nochmals anzurufen, damit ich mich informieren konnte. Was ich dabei erfuhr, fand ich äusserst spannend.»

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2023/04/online-information-fair-eth-library-your-partner-for-managing-the-research-life-cycle.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Did you know that the ETH Library supports you at all stages of the research life cycle? Whether it is research data management, open-access publishing or bibliometric analyses, we will explain the most important services for your research, writing and publication process. At this information event, you will also learn plenty of useful things about information research and reference management, image rights and the ETH Library’s range of courses and advisory services.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/07/bauplan-fuer-ideale-corona-app.html
 
-**Date processed:** 2025-05-01
-
 ## Es gibt keine Wunderlösung
 
 Händewaschen, Abstandhalten, Maskentragen: All diese Massnahmen haben sich in der gegenwärtigen Covid-19-Pandemie als wirksame Massnahmen erwiesen – so wie vor 100 Jahren, als die Spanische Grippe wütete. Doch im Gegensatz zu damals stehen uns heute weitere Instrumente zur Verfügung. Zahlreiche Länder setzen inzwischen digitale Werkzeuge wie Tracing-Apps ein, welche die altbewährten Mittel ergänzen sollen.

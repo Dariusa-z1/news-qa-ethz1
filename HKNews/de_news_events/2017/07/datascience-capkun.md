@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/07/datascience-capkun.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Herr Capkun, Sie sagten kürzlich in einem Interview: «Ein bisschen Paranoia schadet bei der IT-Sicherheit nicht.» Wie paranoid sollte man idealerweise sein? Bei der IT-Sicherheit ist es tatsächlich gut, etwas paranoid zu sein und die Technik immer wieder zu hinterfragen. Aber dann stellt sich sofort die Frage: Was macht man damit? Vollständige Sicherheit gibt es nur, wenn man auf viele Vorteile verzichtet. Es geht also um die richtige Balance zwischen Funktionalität und Sicherheit.

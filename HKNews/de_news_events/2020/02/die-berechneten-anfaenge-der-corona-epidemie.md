@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/02/die-berechneten-anfaenge-der-corona-epidemie.html
 
-**Date processed:** 2025-05-01
-
 ## Schnelle Ausbreitung vor der Quarantäne
 
 Seit Beginn der aktuellen Corona-Epidemie haben Wissenschaftler und Behörden den genetischen Fingerabdruck von Virusproben aus zahlreichen betroffenen Ländern bestimmt. Über 100 dieser Erbgutsequenzen, die in Coronaviren in der Form von RNA vorliegen, sind in öffentlichen Datenbanken verfügbar. Tanja Stadler, Professorin für Computational Biology am Departement für Biosysteme der ETH Zürich in Basel und Expertin für Fragen der molekularen Epidemiologie, hat diese Daten nun ausgewertet. Sie nutzte dazu ein in ihrer Gruppe entwickeltes statistisches Modell zur genetischen Stammbaumanalyse von Krankheitserregern und gewann damit neue Erkenntnisse zu den Anfängen der Epidemie in China.

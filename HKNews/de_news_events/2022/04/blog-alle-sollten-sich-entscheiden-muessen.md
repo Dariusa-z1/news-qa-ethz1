@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/04/blog-alle-sollten-sich-entscheiden-muessen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In der Schweiz gilt für die Organspende derzeit die Zustimmungslösung («Opt-in-System»). Verstorbenen dürfen Organe derzeit nur dann zur Transplantation entnommen werden, wenn diese Personen zu Lebzeiten der Organspende zugestimmt haben oder, falls keine ausdrückliche Einwilligung vorliegt, wenn nahe Angehörige erklären, dass die Organspende dem mutmasslichen Willen der verstorbenen Person entspricht. Obwohl laut jüngsten Umfragen die grosse Mehrheit (fast 80 Prozent) der Schweizer Bevölkerung die Organspende befürwortet, werden in der Realität bei weitem nicht so viele Organe und Gewebe gespendet, wie es dem Bedarf von Organempfänger und -empfängerinnen entsprechen würde 1 .

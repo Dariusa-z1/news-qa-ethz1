@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/08/coffee-lectures-in-10-minuten-zu-neuem-knowhow.html
 
-**Date processed:** 2025-05-01
-
 ## How the Coffee Lectures work
 
 In our Coffee Lectures , you can find out about new tools to assist you in your academic work and learn important tips and tricks on topics including open access and the creation of a data management plan for your project application with the Swiss National Science Foundation (SNSF).

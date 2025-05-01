@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/04/sind-ihre-elektrischen-geraete-sicher.html
 
-**Date processed:** 2025-05-01
-
 ## Mitarbeit ist gefragt
 
 Lötkolben, Magnetrührer oder Zentrifugen: Insbesondere in Laboren und Werkstätten stehen viele elektrischen Geräte, darunter manche Eigenbauten von Forschungsgruppen. Hinzu kommen Geräte in den Büros, die am Stromnetz hängen. Auch wenn diese Geräte im Alltag tadellos funktionieren, kann von ihnen eine potenzielle Gefahr ausgehen. Deshalb sind alle Arbeitgeber verpflichtet, die elektrischen Geräte sporadisch zu überprüfen.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/05/nouveau-directeur-du-service-sismologique-suisse.html
 
-**Date processed:** 2025-05-01
-
 ## Domaine de spécialité: les aléas sismiques
 
 Stefan Wiemer poursuivra les activités et mandats variés du SED en tant que service compétent de la Confédération en matière de tremblements de terre. Les tâches principales du SED sont l'observation sismique et l'estimation des aléas sismiques en Suisse. Stefan Wiemer accorde une importance particulière à la transmission vers l'extérieur des connaissances relatives aux processus sismologiques. Cela signifie notamment informer de manière exhaustive et appropriée les autorités, les médias ainsi que la population et de former les étudiants. En outre, Stefan Wiemer souhaite consacrer une partie des activités à l'étude de nouvelles évolutions. «L'utilisation croissante de la géothermie entraîne des défis pour le SED. Je serai très heureux de les relever», explique Stefan Wiemer.

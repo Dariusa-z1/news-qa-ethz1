@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/03/das-djatlow-pass-mysterium-und-was-ein-forschungsartikel-ausloesen-kann.html
 
-**Date processed:** 2025-05-01
-
 ## Annahmen und Modell bekräftigt
 
 Es gibt wissenschaftliche Artikel, deren Ergebnisse nicht nur unter Forschenden zu diskutieren geben, sondern ebenso in Medien und Gesellschaft: Genau das haben ETH-Professor Alexander Puzrin, Leiter des Instituts für Geotechnik, und EPFL-​Professor Johan Gaume, Leiter des Labors für Schnee-​ und Lawinensimulation sowie Gastwissenschaftler am ​Institut für Schnee-​ und Lawinenforschung SLF, im vergangenen Jahr erlebt.

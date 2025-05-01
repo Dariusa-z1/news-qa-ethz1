@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/02/wiedereroeffnung-des-thomas-mann-archivs.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Dauerausstellung «Im Schreiben eingerichtet. Thomas Mann und sein Arbeitszimmer» ist vollständig neu konzipiert, die temporäre Ausstellung «Thomas Mann. Achtung Europa!» hochaktuell: Das Thomas-Mann-Archiv vermittelt bei seiner Wiedereröffnung Bewusstsein für die Geschichte und Sensibilität für die Gegenwart.

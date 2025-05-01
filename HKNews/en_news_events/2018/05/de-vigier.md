@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/05/de-vigier.html
 
-**Date processed:** 2025-05-01
-
 ## Wearable muscles for people with limited mobility
 
 More than 220 projects were submitted for the W.A. de Vigier Award 2018. A jury evaluated the entries and chose 16 companies for the next round. These were then assessed and presented their ideas to the Foundation Board, who chose the ten finalists from which the five winners were selected. The assessment of the projects placed emphasis on entrepreneurial personality, innovative character, macrosocial relevance, technical and financial feasibility, market opportunities and level of job creation.

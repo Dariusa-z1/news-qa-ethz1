@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/03/anspruch-und-wirklichkeit.html
 
-**Date processed:** 2025-05-01
-
 ## An outlier in the value assessment
 
 Responsibility, openness, diversity, team spirit and excellence: how important do ETH members consider these values from the new ETH Charter? How are they experienced in everyday life? And are there any other values that are important to good and successful collaboration? The issue was addressed by those responsible for rETHink Workstream 6 (cultural development) in an internal news article, with readers asked to take part in a survey. About 300 ETH members responded.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/03/the-west-should-quickly-tighten-the-sanctions.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH News: Professor Ambühl, the war in Ukraine has been raging for more than three weeks now. What is your assessment of this situation? Michael Ambühl: The resistance of the Ukrainian people is impressive and deserves the utmost respect. The president, the people and the army have managed to achieve the unimaginable: stymieing Putin’s military machinery and thwarting his visions of a blitzkrieg.

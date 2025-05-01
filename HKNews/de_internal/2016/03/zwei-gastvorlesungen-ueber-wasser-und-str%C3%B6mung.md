@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/03/zwei-gastvorlesungen-ueber-wasser-und-str%C3%B6mung.html
 
-**Date processed:** 2025-05-01
-
 ## Wasser modellieren
 
 Am 7. März 2016 präsentiert Wolfgang Schröder, Professor an der RWTH Aachen University, eine kartesische Cut-Cell-Methode für interagierende viskose Strömungen mit freischwebenden Begrenzungen. Die Methode ermöglicht eine präzise Auflösung der eingebetteten Begrenzungen, wobei Masse, Momentum und Energie strikte beibehalten werden.

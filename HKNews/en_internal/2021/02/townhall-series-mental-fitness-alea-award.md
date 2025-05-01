@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/02/townhall-series-mental-fitness-alea-award.html
 
-**Date processed:** 2025-05-01
-
 ## Excellent leadership
 
 Alongside social and physical fitness, mental fitness is essential for well-being. But what does being “mentally fit” actually mean? And what can I do to improve my self-management? What does the ETH offer with a view to activating resources for mental fitness? These are questions that Julia Dannath, Vice President for Personnel Development and Leadership, would like to answer in this edition of the townhall series on well-being in challenging times. Now more than ever, where most of what we do takes place in the virtual realm and physical contact is rare, it’s important to take care of our mental fitness.

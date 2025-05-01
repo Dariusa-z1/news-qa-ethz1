@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/04/wo-kunst-und-wissenschaft-zueinander-finden.html
 
-**Date processed:** 2025-05-01
-
 ## Mit Kunst den «offenen Geist» fördern
 
 Hoch über der Stadt Zürich, in einem Seitenflügel des ETH-Hauptgebäudes, lagern ganz besondere Schätze: Rund 160'000 Blätter mit Druckgraphiken, Zeichnungen und Fotografien werden hier in einer Vielzahl unscheinbarer, schwarzer Archivschubladen aufbewahrt, gut geschützt vor Licht und anderen Umwelteinflüssen. «Manche mögen erstaunt sein, dass die ETH Zürich eine solch grosse Kunstsammlung besitzt», sagt Linda Schädler, Leiterin der Graphischen Sammlung ETH Zürich. Doch dies hat durchaus seinen Sinn – und eine lange Geschichte.

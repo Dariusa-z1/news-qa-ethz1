@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/08/die-ungleiche-verteilung-von-laerm.html
 
-**Date processed:** 2025-05-01
-
 ## Nur an der Aussenwand sind alle gleich
 
 Zu viel Lärm schadet der Gesundheit: Er führt zu Schlafstörungen, erhöhtem Blutdruck und Herz-Kreislauferkrankungen. Wer dauerhaft und ungeschützt einer erhöhten Lärmbelastung ausgesetzt ist, muss gar mit einer geringeren Lebenserwartung rechnen.

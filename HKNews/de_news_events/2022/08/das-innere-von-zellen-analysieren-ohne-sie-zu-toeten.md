@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/08/das-innere-von-zellen-analysieren-ohne-sie-zu-toeten.html
 
-**Date processed:** 2025-05-01
-
 ## Zellen biopsieren statt zerstören
 
 Die moderne Biologie will zunehmend verstehen, warum sich individuelle Zellen unterschiedlich verhalten. In der Grundlagenforschung stehen dazu seit wenigen Jahren verschiedene hochempfindliche Messmethoden bereit, um gezielt einzelne Zellen zu analysieren. Solche Einzel-Zell-Analysen erlauben es, Unterschiede zwischen Zellen eines Verbands zu erkennen, seltene Zelltypen zu finden oder kranke Zellen zu identifizieren – was mit Proben gemischter Zellpopulationen nicht möglich ist.

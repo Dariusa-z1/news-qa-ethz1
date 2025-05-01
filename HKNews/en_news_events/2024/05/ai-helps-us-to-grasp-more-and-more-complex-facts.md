@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/05/ai-helps-us-to-grasp-more-and-more-complex-facts.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Joachim Buhmann, why did you become a scientist? Buhmann: There is a great answer from Luc Ferry, a French philosopher and former Minister of Education. It's about the question of why people want to leave something behind after they die. This can be achieved by producing and raising offspring or educating and inspiring others as teachers. According to Ferry, however, the greatest legacy is left by scientists, as they make a lasting contribution to humanity as a whole through the knowledge they gain. Whether I was successful or not is for others to judge, and that may only become clear later. However, I believe that as a scientist I have at least tried to answer important questions and gain new insights, and some of my doctoral students have certainly taken away new knowledge that they have then developed further.

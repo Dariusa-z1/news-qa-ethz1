@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/04/surprising-reversal-in-quantum-systems.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • Researchers have studied topological pumping in an artificial solid made of cold atoms. The atoms were trapped using laser beams.

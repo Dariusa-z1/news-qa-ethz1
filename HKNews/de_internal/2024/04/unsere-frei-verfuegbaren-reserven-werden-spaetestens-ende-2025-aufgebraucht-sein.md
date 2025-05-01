@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/04/unsere-frei-verfuegbaren-reserven-werden-spaetestens-ende-2025-aufgebraucht-sein.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Im heute publizierten Geschäftsbericht ist zu lesen, dass die ETH Zürich im letzten Jahr 50 Millionen Franken Überschuss gemacht hat. Hat es die ETH Zürich beim Sparen übertrieben? Stefan Spiegel: Nach einem Verlust von rund 70 Millionen Franken 2022 bin ich froh, dass wir kein weiteres Defizit ausweisen müssen. Dies haben wir dank interner Kostendisziplin, der erfreulichen Entwicklung bei Donationen und einem positiven Finanzergebnis erreicht. Und nein, wir haben nicht zu viel gespart. Denn trotz dieses positiven Ergebnisses nimmt die Liquidität der ETH Zürich seit 2020 kontinuierlich ab. Die ETH Zürich kann ihren Liquiditätsbedarf für Investitionen und Betrieb schon seit Jahren nicht vollständig aus Bundesbeiträgen und Drittmitteleinnahmen decken. Wir leben im Moment von den frei verfügbaren Reserven, die aber Ende 2025 vollständig aufgebraucht sein werden.

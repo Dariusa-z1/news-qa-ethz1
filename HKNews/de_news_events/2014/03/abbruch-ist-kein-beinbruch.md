@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/03/abbruch-ist-kein-beinbruch.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Ein Studienabbruch als schlimmster aller tragischen Fälle? (Illustration: aus Globe 1/14, ETH Zürich)

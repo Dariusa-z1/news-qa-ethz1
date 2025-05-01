@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/04/vocational-education-and-training-at-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 «Jetzt spanne ich das Aluminiumteil in die Maschine.» Maximilian Bott steht an der computergesteuerten Fräsmaschine, schliesst die Schutztüren und startet den Fertigungsprozess. Die Maschine beginnt zu surren, Metallspäne fliegen. Wir befinden uns in der Zentralwerkstatt des Departements Physik auf dem Campus Hönggerberg.

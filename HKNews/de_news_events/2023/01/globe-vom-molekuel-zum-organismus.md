@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/01/globe-vom-molekuel-zum-organismus.html
 
-**Date processed:** 2025-05-01
-
 ## Die Chemie musste stimmen
 
 Seit jeher suchen Menschen nach Antworten auf die Frage, wie das Leben auf der Erde entstanden ist. Frühere Kulturen erklärten sich die Entstehung der Erde und den Ursprung des Lebens durch das Wirken von Göttern und Gottheiten. Die Wissenschaft geht anders an diese Frage heran. Generationen von Forschenden haben basierend auf den Grundgesetzen von Physik, Chemie und Biologie Theorien und Hypothesen über den Ursprung des Lebens aufgestellt – und mittlerweile auch viel Wissen angesammelt.

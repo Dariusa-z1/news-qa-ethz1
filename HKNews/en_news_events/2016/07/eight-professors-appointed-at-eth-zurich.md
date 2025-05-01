@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/07/eight-professors-appointed-at-eth-zurich.html
 
-**Date processed:** 2025-05-01
-
 ## Appointments at ETH Zurich
 
 Upon application of the President of ETH Zurich, Professor Lino Guzzella, at its meeting of 13/14 July 2016 the ETH Board appointed a total of eight professors and awarded the title of professor to one individual.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/01/alle-anspruchsgruppen-fruehzeitig-an-bord-holen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Fühlst du dich an der ETH schon zu Hause? Ich bin sehr gut an der ETH angekommen und wurde von allen Seiten herzlich aufgenommen. Das hat mir den Einstieg sehr erleichtert. Inzwischen konnte ich viele Bereiche und Departemente besuchen und viele interessante Gespräche mit Personen aus Lehre, Forschung und Verwaltung führen.

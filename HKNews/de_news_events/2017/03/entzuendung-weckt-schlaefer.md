@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/03/entzuendung-weckt-schlaefer.html
 
-**Date processed:** 2025-05-01
-
 ## Höchst effizienter Gen-Transfer
 
 Bakteriophagen (Kurzform: Phagen) sind Viren, welche Bakterien befallen. Die «Guten», die sogenannten lytischen Phagen, töten für den Menschen schädliche Bakterien ab und finden teilweise in der Medizin Verwendung; die «bad guys», die temperenten Phagen, hingegen übertragen ihre Gene in Mikroorganismen und verleihen ihnen dadurch neue Eigenschaften, wie etwa die Fähigkeit, ein Toxin herzustellen. Die Übertragung von temperenten Phagen gilt daher als treibende Kraft hinter der Entwicklung von Bakterien zu potenten Krankheitskeimen (siehe Box).

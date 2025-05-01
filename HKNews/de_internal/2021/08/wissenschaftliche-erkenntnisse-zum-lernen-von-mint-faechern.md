@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/08/wissenschaftliche-erkenntnisse-zum-lernen-von-mint-faechern.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Vom 6. bis zum 8. September 2021 findet an der ETH Zürich das Latsis Symposium zum Thema «Lehren und Lernen von mathematischen und naturwissenschaftlichen Inhalten» statt. Wissenschaftlerinnen und Wissenschaftler aus der Lernforschung und aus den MINT-Disziplinen (Mathematik, Informatik, Naturwissenschaften und Ingenieurswissenschaften) stellen aktuelle Forschungsergebnisse vor und diskutieren deren Konsequenzen für den Unterricht auf allen Bildungsstufen.

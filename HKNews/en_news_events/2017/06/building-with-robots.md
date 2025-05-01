@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/06/building-with-robots.html
 
-**Date processed:** 2025-05-01
-
 ## Digitally designed, planned and built
 
 Robots that build walls, and 3D printers that print entire formworks for ceiling slabs – digital fabrication in architecture has developed rapidly in recent years. As part of the National Centre of Competence in Research (NCCR) Digital Fab-rication, architects, robotics specialists, materials scientists, structural engineers and sustainability experts from ETH Zurich have teamed up with business partners to bring several new digital building technologies from the laboratory into practice. Construction is taking place at NEST, the modular research and innovation building that Empa and Ea-wag built on their campus in Dübendorf to test new building and energy technologies under real-life conditions. NEST offers a central support structure with three open platforms, where individual construction projects – known as innova-tion units – can be installed. Construction recently began on the DFAB HOUSE.

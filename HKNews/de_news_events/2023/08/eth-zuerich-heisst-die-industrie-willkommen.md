@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/08/eth-zuerich-heisst-die-industrie-willkommen.html
 
-**Date processed:** 2025-05-01
-
 ## Digitalisierung und Sicherheit
 
 Der ETH Industry Day – der grösste jährliche Networking-Anlass für Industrie und ETH-Forschende – ist die perfekte Gelegenheit, um Einblick in die ETH-Forschung und deren Anwendung in der Industrie zu erhalten. Ausgewählte Professor:innen und Jungunternehmer:innen präsentieren Projekte aus den Bereichen:

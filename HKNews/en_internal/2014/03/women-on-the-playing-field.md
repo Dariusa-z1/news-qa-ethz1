@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/03/women-on-the-playing-field.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In my first column, I wrote about my personal experience as a female professor at ETH Zurich. Today, with the help of my colleague Prof. Janet Hering (WPF Vice President), I would like to comment on a topic that is particularly timely, namely the election of the next ETH Rector.

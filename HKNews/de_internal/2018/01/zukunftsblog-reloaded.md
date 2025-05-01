@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/01/zukunftsblog-reloaded.html
 
-**Date processed:** 2025-05-01
-
 ## Auftakt mit drei Blogbeiträgen
 
 ETH-Angehörige können den Zukunftsblog unterstützen und sich aktiv einbringen, indem sie:

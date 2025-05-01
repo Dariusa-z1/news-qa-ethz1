@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/01/eth-hsg-joint-executive-education-programme.html
 
-**Date processed:** 2025-05-01
-
 ## Executive education with a lasting impact
 
 The new emba X programme, which will start in February 2022, combines the strengths of the University of St.Gallen in leadership education, corporate management, sustainability, strategy and business transformation with the knowledge of ETH Zurich in the field of technology management. The programme was created in collaboration between the Executive School of Management, Technology, and Law (ES-HSG) at the University of St.Gallen and the Department of Management, Technology and Economics at ETH Zurich.

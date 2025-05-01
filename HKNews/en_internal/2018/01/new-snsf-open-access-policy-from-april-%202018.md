@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/01/new-snsf-open-access-policy-from-april-%202018.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In order to achieve this goal, the following changes will come into effect for publications resulting from SNSF-funded projects from April 2018:

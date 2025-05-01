@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/09/remaining-among-the-best.html
 
-**Date processed:** 2025-05-01
-
 ## Also outstanding in the other rankings
 
 The third major university ranking this year, the World University Ranking from Times Higher Education (THE), has once again ranked ETH Zurich among the best universities in the world. At 11th place, it has fallen by one position relative to last year but is still the best university in continental Europe by far, with the higher positions occupied entirely by top universities in England and the United States. Oxford once again tops the THE rankings in 2018.

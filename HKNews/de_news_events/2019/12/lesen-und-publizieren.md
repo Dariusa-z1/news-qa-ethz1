@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/12/lesen-und-publizieren.html
 
-**Date processed:** 2025-05-01
-
 ## ETH-Bibliothek informiert über Alternativzugänge
 
 Ziel der Verhandlungen, welche die Rektorenkonferenz Swissuniversities im Auftrag der Schweizer Hochschulen führte, war einerseits, Forschenden der Schweiz das Leserecht für das gesamte E-Journal-Portfolio der drei Marktführer zu geben. Andererseits sollen ihre Beiträge in den Zeitschriften dieser Verlage ohne zusätzliche Kosten open access publiziert werden, also uneingeschränkt weltweit zur Verfügung stehen (sogenannte «Read & Publish»-Verträge).

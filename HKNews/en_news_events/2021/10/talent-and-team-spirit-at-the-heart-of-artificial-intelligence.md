@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/10/talent-and-team-spirit-at-the-heart-of-artificial-intelligence.html
 
-**Date processed:** 2025-05-01
-
 ## More than 100 researchers at the ETH AI Center
 
 Artificial intelligence (AI) will transform the way people and computers share their work. In the case of very large, complex or heterogeneous datasets, machine learning techniques help to facilitate solutions to previously unsolvable challenges. This transformation opens up huge potential in research, development and start-ups. In principle, AI methods can be applied to all research disciplines and sectors.

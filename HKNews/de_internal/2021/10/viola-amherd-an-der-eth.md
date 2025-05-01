@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/10/viola-amherd-an-der-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Welt ist in den letzten Jahren unsicherer geworden. Kriegerische Auseinandersetzungen zwischen Staaten, Terroranschläge und Cyberattacken sind eine Realität. Was heisst das für die Schweiz? Was ist zu tun, damit die Sicherheit jederzeit gewährleistet ist, auch dann, wenn sie die Bedrohungsformen verändern?

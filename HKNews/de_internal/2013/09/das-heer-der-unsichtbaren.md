@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2013/09/das-heer-der-unsichtbaren.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Margrit Leuchthold

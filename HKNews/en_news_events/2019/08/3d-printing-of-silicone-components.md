@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/08/3d-printing-of-silicone-components.html
 
-**Date processed:** 2025-05-01
-
 ## Customised parts at the push of a button
 
 Their ultimate goal is to save lives: the founders of the ETH spin-off Spectroplast, Manuel Schaffner and Petar Stefanov, have developed a novel 3D printing process capable of making biocompatible silicone parts. “In the long term we hope to use the technology to offer medical implants,” says Schaffner, the young company’s CEO. “And not in standard sizes, as is the case with conventional off-the-shelf products, but customised to fit the individual patient perfectly.”

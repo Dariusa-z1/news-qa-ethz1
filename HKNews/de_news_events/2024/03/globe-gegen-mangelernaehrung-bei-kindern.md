@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/03/globe-gegen-mangelernaehrung-bei-kindern.html
 
-**Date processed:** 2025-05-01
-
 ## Rolle der Darmflora
 
 Laut der Weltgesundheitsorganisation WHO sind 148 Millionen Kinder unter fünf Jahren von verzögerter Entwicklung aufgrund von Mangelernährung betroffen und werden deshalb voraussichtlich nie ihr vollständiges Entwicklungspotenzial erreichen. Gründe für Mangelernährung sind eine unzureichende Nahrungsversorgung oder eine mangelhafte Verwertung von Nährstoffen wie Proteinen, Vitaminen und Mineralstoffen. Dadurch wird das Wachstum verlangsamt und das Immunsystem geschwächt. Betroffen sind vor allem Kinder in Asien und Afrika.

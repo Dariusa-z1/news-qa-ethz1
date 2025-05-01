@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/04/of-batteries-and-fuel-cells.html
 
-**Date processed:** 2025-05-01
-
 ## Improvements are underway
 
 To protect the climate, we need to eliminate CO 2 emissions. The second-largest source of these emissions is the transportation sector — primarily road transportation — which runs almost entirely on oil. We probably cannot replace more than a small fraction of that oil with sustainably produced biofuels. Hence, to the extent that people drive cars in the future, those cars will need to run on electricity produced from the sun, wind, and falling water. The cars will need to store the electricity either electrochemically in the form of batteries, or chemically in the form of a hydrogen fuel cell. So which should it be?

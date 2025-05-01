@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/02/repulsive-photons.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Two light beams crossing each other do not deflect one another. That is because, according to the laws of quantum physics, there is no interaction between light particles or photons. Therefore, in a collision two photons simply pass through each other instead of bouncing off one another – unless one helps them along in some way. In fact, researchers have tried for quite some time now to find techniques for making photons “feel” each other. The hope is that this will result in many new possibilities for research as well as for practical applications. Ataç Imamoğlu, professor at the Institute for Quantum Electronics at ETH in Zurich, and his collaborators have now taken a further important step towards the realization of strongly interacting photons. Their research results were recently published in the scientific journal Nature Materials .

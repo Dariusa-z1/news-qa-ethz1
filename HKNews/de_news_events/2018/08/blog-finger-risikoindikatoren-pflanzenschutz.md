@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/08/blog-finger-risikoindikatoren-pflanzenschutz.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Risiken aus dem Einsatz von Pflanzenschutzmitteln für Mensch und Umwelt zu senken ist weltweit von grosser agrar- und umweltpolitischer Relevanz. In der Schweiz streben zwei Volksinitiativen drastische Einschränkungen des Pflanzenschutzmittel-Einsatzes an, und der Bundesrat hat im Jahr 2017 einen nationalen Aktionsplan zur Reduktion von Risiken verabschiedet. Politische Massnahmen sind jedoch nur zielführend, wenn sie auf messbaren und sinnvollen Indikatoren beruhen.

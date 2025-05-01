@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/09/mehr-speicherplatz-fuer-zotero.html
 
-**Date processed:** 2025-05-01
-
 ## Neu im Angebot: «Zotero Institution»
 
 Chaos in den PDFs, die irgendwo irgendwie abspeichert sind? Vergessen, wie das rote Buch hiess, dass kürzlich ausgeliehen wurde? Die Lösung zu diesen Herausforderungen bieten Literaturverwaltungsprogramme. Sie erleichtern das Sammeln und Organisieren von PDFs und Literaturhinweisen. Die ETH bietet Zugriff auf verschiedene Literaturverwaltungsprogramme, und die ETH-Bibliothek unterstützt Sie mit Beratung und Schulungen bei der Auswahl und der Verwendung dieser Programme.

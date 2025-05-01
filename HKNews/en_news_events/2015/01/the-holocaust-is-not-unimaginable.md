@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/01/the-holocaust-is-not-unimaginable.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Gregor Spuhler.

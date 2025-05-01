@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/05/ein-quantensimulator-fuer-magnetische-materialien.html
 
-**Date processed:** 2025-05-01
-
 ## Das Konzert der winzigen Magneten
 
 Weshalb ein Kühlschrankmagnet an bestimmten metallischen Oberflächen haften bleibt, das verstehen Physiker in jedem Detail. Magnetische Materialien existieren jedoch auch in exotischen Varianten, deren Eigenschaften trotz jahrzehntelanger Forschung noch weitgehend unverstanden sind. Tilman Esslinger und seine Gruppe am Institut für Quantenoptik und -elektronik haben nun einen wesentlichen Schritt unternommen, diese Lücken zu schliessen. Das Team kombiniert Laserstrahlen und Atome so miteinander, dass Strukturen entstehen, die sich exakt wie magnetische Materialien verhalten. Diese Methode verspricht grundlegende Erkenntnisse zu magnetischen Materialien zu liefern, die über das hinausgehen, was heutzutage mit theoretischen und computergestützten Methoden möglich ist. Die Arbeit könnte Forschern auch helfen, neue Materialien zu finden, die interessante Eigenschaften hinsichtlich zukünftiger Technolo-gien und Anwendungen besitzen.

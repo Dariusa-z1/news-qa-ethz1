@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/07/peakboil.html
 
-**Date processed:** 2025-05-01
-
 ## Praxistest auf dem Gipfel
 
 Sommerzeit ist auch Campingzeit. Da lässt sich wunderschön auch einmal auf gewohnten Luxus verzichten und stattdessen ein einfaches Abendessen auf einem Camping-Gaskocher zubereiten. Wenn nur dieser Wind nicht wäre, der so stark weht, dass er andauernd die Flamme des Gasbrenners auspustet.

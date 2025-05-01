@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/09/fulbright-grant-webinar.html
 
-**Date processed:** 2025-05-01
-
 ## Fulbright Webinar,Montag, 30. October 2023, 16.00–17.00 Uhr.
 
 externe Seite https://fulbrightspecialist.worldlearning.org call_made

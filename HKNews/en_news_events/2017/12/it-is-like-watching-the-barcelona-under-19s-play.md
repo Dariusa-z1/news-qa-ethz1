@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/12/it-is-like-watching-the-barcelona-under-19s-play.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 What type of research does ETH Zurich’s Research Commission fund? Uwe Sauer: We offer funds for fundamental research in all ETH Zurich’s disciplines, and in particular for collaboration within and between disciplines. Our funding considers natural sciences alongside engineering and social sciences, and it encompasses application as much as methodological development and basic research. Our aim is to open doors for original research ideas that may become new research fields in the long term.

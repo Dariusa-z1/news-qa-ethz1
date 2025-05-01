@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/08/news-from-the-executive-board-2022-8.html
 
-**Date processed:** 2025-05-01
-
 ## New continuing education programme: CAS ETH in Climate Innovation
 
 With the terms of the current ombudspersons ending this year, the Executive Board conducted the following elections and re-elections at its latest meeting:

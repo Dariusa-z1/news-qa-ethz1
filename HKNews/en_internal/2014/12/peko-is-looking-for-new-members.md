@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/12/peko-is-looking-for-new-members.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Would you like to play an active role in promoting staff interests?

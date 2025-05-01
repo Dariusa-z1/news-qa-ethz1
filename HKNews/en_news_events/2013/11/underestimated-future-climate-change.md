@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/11/underestimated-future-climate-change.html
 
-**Date processed:** 2025-05-01
-
 ## A more realistic model
 
 Many scientists believe that global warming will come to an end if, some day, human succeeds in stopping the release of greenhouse gas emissions into the atmosphere. It would, indeed, be hotter on Earth than before industrialisation, but nonetheless it would not get even hotter. Climate physicist Thomas Frölicher questions this notion by using model calculations and creates a more pessimistic picture in a study published in the scientific journal Nature Climate Change. According to his model calculations, it is very possible that the Earth’s atmosphere could continue to warm for hundreds of years even after a complete stop of CO 2 emissions, and that temperature levels stabilise at an even higher level at a later stage. “In the long term, the temperature increase could be 25 per cent greater than assumed today,” says the scientist, who carries out research as an Ambizione Fellow of the Swiss National Science Foundation in ETH professor Nicolas Gruber’s group.

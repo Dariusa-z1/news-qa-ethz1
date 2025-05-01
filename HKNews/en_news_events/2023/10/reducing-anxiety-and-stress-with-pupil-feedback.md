@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/10/reducing-anxiety-and-stress-with-pupil-feedback.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • Researchers at ETH Zurich demonstrate that the arousal centres in the brainstem can be influenced when we receive feedback about pupil size.

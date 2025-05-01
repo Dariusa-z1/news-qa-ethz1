@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/11/putting-a-face-on-a-cell-surface.html
 
-**Date processed:** 2025-05-01
-
 ## Revamping the paradigm
 
 On the cell surface, anchored in the cell membrane, a wide array of proteins perform functions, which are vital for the cell. These proteins, collectively known as the surfaceome, are a cell’s antennae to the outside world, sending and receiving signals that enable it to communicate with other cells. They also serve as gate keepers for molecules, transporting materials into and out of the cell, and enable cells to attach themselves to other cells or structures.

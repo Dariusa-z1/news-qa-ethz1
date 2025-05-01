@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/01/keine-stressreaktion-dank-neuem-wirkstoff.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Gesundheitsschädliche Stressreaktionen lassen sich bisher nur mit einem Medikament blockieren, das zahlreiche unerwünschte Nebenwirkungen hat.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/01/detailliertes-profil-von-tumoren.html
 
-**Date processed:** 2025-05-01
-
 ## Untersuchungen auf Einzelzell-Ebene
 
 Forschende der Universitätsspitäler Zürich und Basel sowie der ETH Zürich, der Universität Zürich und der Pharmafirma Roche setzten sich zum Ziel, die Diagnose von Krebsleiden mit einer Vielzahl modernster molekularbiologischer Methoden zu verbessern. Im «Tumor Profiler»-Projekt bestimmen sie bei Krebspatienten das molekulare Profil des Tumors, von dem die Wirksamkeit vieler neuer Krebsmedikamente abhängt. Dieses Profil ermöglicht es, behandelnden Ärzten personalisierte und verbesserte Therapieempfehlungen geben zu können.

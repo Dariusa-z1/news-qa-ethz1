@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/12/handing-over-the-baton.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The drinks reception held on Monday evening was an impressive occasion, with guests filling the entire ASVZ Polyterrasse sports hall. Several cameras were filming throughout the evening, so anyone who couldn’t secure a spot on the front row could watch events unfold on the two large screens provided. The ETH Big Band stirred up a great atmosphere, while Professor Gerd Folkers introduced the speeches with aplomb as MC for the night.

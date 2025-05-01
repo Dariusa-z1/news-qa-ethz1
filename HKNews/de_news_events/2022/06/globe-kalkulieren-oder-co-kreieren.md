@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/06/globe-kalkulieren-oder-co-kreieren.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Zu unseren Füssen spannt sich eine riesige Karte auf. Bunte Fäden und Pfeile verbinden die Papierkreationen darauf zu einer neuen Welt – einer neuen Lesart von Altstetten. Im sogenannten Design in Dialogue Lab am NEWROPE-Lehrstuhl für Architektur und Urbane Transformation versucht Professor Freek Persyn gemeinsam mit Studierenden Altstetten und dessen künftige Verdichtung besser zu verstehen und neu zu denken. «Im Lab diskutieren wir mit Akteuren, die in die Transformation des Quartiers eingebunden sind: Quartiervereine, Bewohnerinnen, Developer, Bewirtschafterinnen von Familiengärten oder Architekten mit alternativen Vorschlägen. So können wir Altstetten aus neuen Perspektiven kennenlernen», erzählt Kursleiter Lukas Fink. Denn Altstetten hat gemäss dem Richtplan der Stadt Zürich grosses Potenzial zur inneren Verdichtung. Das sieht auch Freek Persyn so: «Altstetten ist noch nicht metropolitan, könnte es aber werden.» In seinem Studio möchte er nicht nur ein gemeinsames Verständnis des Ortes erarbeiten, sondern auch diskutieren, welche Entwicklung in diesem Kontext sinnvoll ist. «Bei der Verdichtung geht es nicht nur um Zahlen, sondern auch darum, wie wir neue Verbindungen schaffen und an Bestehendes anknüpfen», erklärt Persyn.

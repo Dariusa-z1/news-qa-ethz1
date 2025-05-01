@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/05/blog-kueffer-biodiversity.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Biodiversity is dwindling. Thanks to an alarming report by the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) 1 and clear findings on insect decline 2 , public awareness of the acute threat facing our natural world is growing. Spring is becoming an increasingly silent affair 3 , and in Switzerland especially a multitude of animal and plant species are under enormous pressure. 4 As if climate change was not already a big enough challenge, we now find ourselves in the midst of a biodiversity crisis. The good news is that we can take action right on our own doorstep, and turn this crisis into something positive for ourselves.

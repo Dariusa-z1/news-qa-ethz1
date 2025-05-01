@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/08/how-switzerland-invented-rankings-and-became-a-nation-of-science.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH News: In your book «Die Naturforschenden» [The Natural Scientists], you write that Switzerland has been regarded as one of the most successful science nations since the 18th century. What are the historical bases of that success? Schär: That's a difficult question for historians to answer, because it depends on how "success" is defined. These definitions are subject to the vicissitudes of historical change. As historians we can say this: the history of scientific definitions of success and scientific rankings is, to an astonishing degree, associated with the history of Swiss science.

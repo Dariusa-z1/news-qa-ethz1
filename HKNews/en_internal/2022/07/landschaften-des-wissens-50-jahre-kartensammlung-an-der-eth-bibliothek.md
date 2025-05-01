@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/07/landschaften-des-wissens-50-jahre-kartensammlung-an-der-eth-bibliothek.html
 
-**Date processed:** 2025-05-01
-
 ## Book launch on Tuesday, 30 August 2022
 
 For decades, the ETH Library has collected maps. Based on this long and rich tradition, it has actively participated in the digitisation of maps and geographical data for use by researchers and the general public. In 2022, we take advantage of this opportunity to look back on 50 years of Switzerland’s largest map collection.

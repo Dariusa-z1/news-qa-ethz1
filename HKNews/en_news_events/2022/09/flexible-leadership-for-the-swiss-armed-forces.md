@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/09/flexible-leadership-for-the-swiss-armed-forces.html
 
-**Date processed:** 2025-05-01
-
 ## Between implementation and creative questioning
 
 For over six months, Ukrainian forces have successfully defended their country against a superior enemy. In addition to Western weaponry, one reason for this, according to military experts, is that the Ukrainian army is more flexible. Again and again, it has managed to catch the comparatively slow and inflexible Russian troops off guard by quickly and creatively responding to new situations.

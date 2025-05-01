@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/01/neues-normenportal.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The following standards are available on the new portal eresearchcenter :

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/05/ehemaliger-nasa-forschungschef-kommt-an-die-eth-zuerich.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Er gilt als einer der einflussreichsten Forscher der Welt und hat die Weltraumwissenschaft entscheidend mitgeprägt. Nach über 20 Jahren in den USA kehrt Thomas Zurbuchen zurück in sein Heimatland. Ab August wird er als ETH-Professor für Weltraumwissenschaft und -technologie die Initiative ETH Zürich Space leiten.

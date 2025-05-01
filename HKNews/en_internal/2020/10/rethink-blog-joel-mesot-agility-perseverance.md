@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/10/rethink-blog-joel-mesot-agility-perseverance.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 About a year ago, the Executive Board launched rETHink. The idea: to prepare our university for the medium- to long-term future – in a participatory process. Our goal: to create the conditions necessary to keep teaching and research at the highest level. Several factors motivated rETHink in our rapidly changing world. What we could not foresee at the time was how the concept of change itself would take on new meaning.

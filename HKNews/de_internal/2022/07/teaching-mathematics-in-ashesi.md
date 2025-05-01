@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/07/teaching-mathematics-in-ashesi.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Im Herbst 2020 lancierte die ETH Zürich einen gemeinsamen Masterstudiengang mit der Ashesi-​Universität, die in der Nähe von Accra, der Hauptstadt Ghanas liegt. Zu Beginn dieses Jahres hat der Studiengang für Mechatronik den Unterricht aufgenommen. Über zwanzig Studierende aus sieben afrikanischen Ländern nehmen teil. Das Ziel ist es, mit dem Know-how der ETH in Afrika selbst Ingenieur:innen auszubilden, die die industrielle Entwicklung in Afrika vorantreiben können. Zu den Partnern gehören Schweizer Industrieunternehmen. An dem Unterricht beteiligen sich Dozierende der ETH Zürich. Entsprechend haben die ersten von ihnen nun Erfahrungen gesammelt.

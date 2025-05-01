@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/06/neue-strategie-fuer-die-sammlungen-und-archive-der-eth-zuerich.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Schulleitung hat im März 2020 die « Strategie Sammlungen und Archive 2021 bis 2024 » beschlossen. Diese formuliert strategische Grundsätze zu sieben Themenfeldern:

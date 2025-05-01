@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/12/reading-and-publishing.html
 
-**Date processed:** 2025-05-01
-
 ## ETH Library to provide alternatives
 
 The Rectors’ Conference of the Swiss Universities (Swissuniversities) has been in negotiations with the top three academic publishers with two goals in mind. The first goal: to allow researchers in Switzerland access to all papers in the publishers’ online journal portfolios. The second goal: to reach “read & publish” agreements, which would allow researchers to publish open access articles in the publishers’ journals – meaning they would be available worldwide without any restrictions – without additional article processing charges.

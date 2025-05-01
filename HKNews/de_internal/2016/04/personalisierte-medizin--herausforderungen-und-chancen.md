@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/04/personalisierte-medizin--herausforderungen-und-chancen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Das Kompetenzzentrum Personalisierte Medizin UZH/ETH und die IT’IS Stiftung organisieren mit der Unterstützung der internationalen Latsis Stiftung das Latsis Symposium ETH Zurich «Personalized medicine – challenges and opportunities» vom 27. bis 29. Juni 2016.

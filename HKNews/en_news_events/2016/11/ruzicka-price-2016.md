@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/11/ruzicka-price-2016.html
 
-**Date processed:** 2025-05-01
-
 ## A new concept for improved safety
 
 Catalysts play a vital role in the initiation and speed of chemical reactions. Morandi, the winner of this year’s Ruzicka Prize, works on developing new and sustainable concepts in the field of catalysis. Together with his research group, he develops new methods that are used in the pharmaceutical industry to, inter alia, improve efficiency and safety in the production of new medicines. The young Swiss researcher has headed up the Homogeneous Catalysis and Reaction Design group at the Max-Planck-Institut für Kohlenforschung since 2014.

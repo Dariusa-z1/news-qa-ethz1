@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/05/vier-neue-moeglichkeiten-die-eth-zu-entdecken.html
 
-**Date processed:** 2025-05-01
-
 ## Auf dem Weg in eine CO2-​neutrale Zukunft
 
 Der berufliche Alltag ist oft von wiederkehrenden Abläufen, festen Mustern und persönlichen Routinen geprägt. Das bietet Sicherheit, schränkt aber manchmal auch den Blick ein auf Neues. Die insgesamt acht Thementouren der Gruppe Campus Experience schaffen Abhilfe: Pünktlich zum Frühling können Sie unter der professionellen Führung von Studierenden und Mitarbeitenden der ETH die Hochschule endlich wieder live und vor Ort erkunden – und Neues entdecken.

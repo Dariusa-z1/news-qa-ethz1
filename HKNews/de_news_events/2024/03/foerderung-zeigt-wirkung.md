@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/03/foerderung-zeigt-wirkung.html
 
-**Date processed:** 2025-05-01
-
 ## Breite Unterstützung für Forschung und Nachwuchs
 
 Auch im vergangenen Jahr unterstützten zahlreiche Privatpersonen, Stiftungen und Unternehmen die ETH mit über 3500 Spenden, Erbschaften und Legaten in der Höhe von über 130 Millionen Franken.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/09/kuenstliche-intelligenz-verbessert-bildgebung.html
 
-**Date processed:** 2025-05-01
-
 ## Bildverzerrungen korrigiert
 
 Wissenschaftler der ETH Zürich und der Universität Zürich haben Methoden des maschinellen Lernens eingesetzt, um die optoakustische Bildgebung zu verbessern. Mit diesem relativ jungen Verfahren der medizinischen Bildgebung können zum Beispiel Blutgefässe im Körperinnern sichtbar gemacht, die Gehirnaktivität untersucht oder Brustkrebs und Hautkrankheiten diagnostiziert werden. Die Bildqualität, die ein Gerät liefert, hängt allerdings stark von seiner Anzahl Sensoren und ihrer Verteilung ab: Je mehr davon, desto besser die Bildqualität. Der neue Ansatz der ETH-Forschenden ermöglicht, die Zahl der Sensoren bei gleichbleibender Bildqualität deutlich zu reduzieren. Dadurch können die Gerätekosten reduziert, die Bildgebungsgeschwindigkeit erhöht oder die Diagnose verbessert werden.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/05/eth-studierende-entwickeln-drohnen-roboter-und-fahrzeuge.html
 
-**Date processed:** 2025-05-01
-
 ## Avero – die sichere Inspektionsdrohne
 
 Während eines Jahres haben zehn Teams Prototypen entwickelt, die den aktuellen Stand der Technik in den Bereichen additive Fertigung, Robotik sowie Antriebs- und Transporttechnologien demonstrieren. Die Fokus-Projekte sind fester Bestandteil eines Bachelorstudiums in Maschinenbau und Verfahrenstechnik, von der Projektidee über Designstudien bis hin zur Sponsorensuche und Produktion haben die Studierenden den gesamten Prozess selbstständig durchlaufen. Diese Projekte haben sie in diesem Jahr umgesetzt:

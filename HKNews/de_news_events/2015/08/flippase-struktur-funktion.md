@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/08/flippase-struktur-funktion.html
 
-**Date processed:** 2025-05-01
-
 ## Lipid-Transport essenziell
 
 Membranen spielen in der Biologie eine überaus wichtige Rolle: Sie trennen das Zellinnere vom extrazellulären Aussenraum ab, sie geben Zellen Form und Grösse. Und nicht zuletzt laufen an Oberflächen von Membranen unzählige lebenswichtige Prozesse und der Stoffaustausch ab.

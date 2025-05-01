@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/10/vorkaempfer-vordenker-und-vorbilder-fuer-die-raumplanung-schweiz.html
 
-**Date processed:** 2025-05-01
-
 ## Harziger Start für die Schweizer Raumplanung
 
 Die Raumplanung Schweiz steht zur Zeit vor einer ganzen Reihe von Herausforderungen: Siedlungsentwicklung nach innen, Schutz des Kulturlandes, Umsetzung der Zweitwohnungsinitiative, zweite Etappe der Revision des Raumplanungsgesetzes. Hinzu kommt das Ziel, Agglomerationen, ländliche Räume und Berggebiete kohärent zu entwickeln. Wenn man vor neuen Aufgaben steht, lohnt sich oft ein Blick zurück – um die wesentlichen bisherigen Trends und Treiber zu erkennen und Rückschlüsse auf die zukünftige Entwicklung machen zu können.

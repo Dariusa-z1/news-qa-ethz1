@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/01/antimikrobielle-community-masken-im-eth-store.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Das im Jahr 2005 gegründete ETH-Spin-off HeiQ entwickelt chemische Formulierungen, die Textilien zum Beispiel antistatisch, wasserabweisend und geruchsneutral machen. Aktuell ist HeiQ sehr erfolgreich mit einer antimikrobiellen Behandlung für Textilien, die gegen SARS-CoV-2* als wirksam getestet wurde. Gemäss eigenen Angaben hat die Einführung des Produkts den Umsatz von HeiQ im ersten Halbjahr 2020 mehr als verdoppelt. Die Aktien der Firma werden seit Dezember 2020 an der Londoner Börse gehandelt.

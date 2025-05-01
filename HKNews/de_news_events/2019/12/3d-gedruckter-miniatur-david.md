@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/12/3d-gedruckter-miniatur-david.html
 
-**Date processed:** 2025-05-01
-
 ## Komplizierte Geometrien druckbar
 
 Da steht er auf seinem Sockel: David von Michelangelo. Weltberühmt ist die Skulptur, fast jedes Kind kennt sie. Doch dieser David ist samt Sockel nur ein Millimeter gross und besteht nicht aus Marmor wie das über fünf Meter grosse Original, sondern aus reinem Kupfer.

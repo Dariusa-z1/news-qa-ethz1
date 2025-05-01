@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/09/vegi-woche-an-der-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Nachhaltigkeit grossgeschrieben
 
 Am kommenden Samstag, 1. Oktober ist offizieller World Vegetarian Day . In der Schweiz findet zu diesem Anlass der externe Seite Swisstainable Veggie Day statt. 1000 Restaurants in der ganzen Schweiz schreiben an diesem Tag vegetarische Gerichte ganz oben auf ihre Menukarte, und möchten damit einen Meilenstein für eine nachhaltige Gastronomie setzen.

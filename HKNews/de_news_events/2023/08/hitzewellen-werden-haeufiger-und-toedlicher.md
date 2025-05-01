@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/08/hitzewellen-werden-haeufiger-und-toedlicher.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Hitzewellen mit vermehrten Todesfällen aufgrund von Dehydrierung, Hitzeschlag oder Herz-Kreislaufkollaps nehmen zu.

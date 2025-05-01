@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/06/employee-survey-2021.html
 
-**Date processed:** 2025-05-01
-
 ## Strengths and points for improvement
 
 To start with, the Board would like to maintain or further improve on the overall positive results. The positive results in the following areas in particular can be regarded as the outcome of numerous improvement measures taken over the past years:

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/05/research-in-teaching.html
 
-**Date processed:** 2025-05-01
-
 ## Hands-on
 
 Time flies. This cliché phrase perfectly describes the current state in our Chair at the Future Cities Laboratory. It is hard to believe that I have been living and working in Singapore for two and a half years already. This does not only mean that our time here will soon draw to an end, it also represents the start of a new chapter. The Chair of Architecture and Construction is moving back to Zurich to continue researching there and to start teaching a design course in the master’s programs – an exciting new task that we are all very much looking forward to.

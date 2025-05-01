@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/02/portrait-tom-crowther.html
 
-**Date processed:** 2025-05-01
-
 ## From postdoc to head of research
 
 Tom Crowther stands at a desk in a small office in the university’s CHN building and looks at a computer screen. “Actually, this is not my office,” he says, almost apologising for the fact that his is unable to offer his guest a more convivial welcome.

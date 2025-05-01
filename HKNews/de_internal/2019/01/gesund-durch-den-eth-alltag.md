@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/01/gesund-durch-den-eth-alltag.html
 
-**Date processed:** 2025-05-01
-
 ## Schon eine Stunde Sport pro Woche hilft
 
 Wendy Altherr arbeitet im Stab der Rektorin. Ihr Arbeitsalltag ist dicht getaktet, vor allem während des Semesters. An manchen Tagen reiht sich eine Sitzung an die nächste. Zwischen Beruf und Familie bleibt häufig nur der Arbeitsweg für Sport. «Ich komme jeden Tag mit dem Fahrrad zur ETH», sagt Altherr. Manchmal nutzt sie dafür auch die Bike-Sharing-Angebote der ETH-Mobilitätsstelle. Trotz des hektischen Büro- und Familienalltags fühlt sich die 44-Jährige fit und ausgeglichen.

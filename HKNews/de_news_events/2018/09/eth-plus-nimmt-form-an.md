@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/09/eth-plus-nimmt-form-an.html
 
-**Date processed:** 2025-05-01
-
 ## Bottom-up Dynamik
 
 • Security and Privacy in the Digital Society , Lead: Prof. David Basin, D-INFK

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/03/der-cybathlon-macht-den-anfang-im-jubilaeumsjahr.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der Akademische Sportverband Zürich (ASVZ) wird in diesem Jahr 75. Er feiert sein Jubiläum mit verschiedenen Anlässen und Angeboten für alle Hochschulangehörigen und Alumni.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/10/efficient-production-of-solar-fuels.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • Researchers have developed a 3D-printing methodology to manufacture ceramic structures of hierarchically ordered geometries for the solar reactor

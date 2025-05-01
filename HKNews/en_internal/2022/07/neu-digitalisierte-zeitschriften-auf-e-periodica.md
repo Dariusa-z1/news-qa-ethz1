@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/07/neu-digitalisierte-zeitschriften-auf-e-periodica.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The ZS was founded in 1923 under the title Zürcher Student . Switzerland’s oldest student newspaper looks back on an eventful past: it was initially intended as a nationalist publication. In the 1960s, the paper took a sharp left turn and changed its name to Zürcher Studentin , linguistically transitioning from a male student to a female one. At some point, it lost all interest in politics and developed financial troubles. The end seemed nigh but did not come. In 2006, the newspaper decided to go by “ZS”, which remains its name to the present day. To the issues 1923–ff.

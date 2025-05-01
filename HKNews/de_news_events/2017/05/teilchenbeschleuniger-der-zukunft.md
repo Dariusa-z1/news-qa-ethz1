@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/05/teilchenbeschleuniger-der-zukunft.html
 
-**Date processed:** 2025-05-01
-
 ## Mehrere Hundert Beschleunigungsstufen
 
 Die bekannteste Anwendung von Hochspannungspulsen ist wohl die in elektrischen Weidezäunen. Doch auch Teilchenbeschleuniger an Grossforschungsanlagen wie dem Cern in Genf sind auf Hochspannungspuls-Generatoren angewiesen – solche, die im Unterschied zu Weidezaungeräten Pulse mit sehr viel höherer Energie und höherer Spannung erzeugen. Am Cern laufen derzeit die Vorarbeiten für das nächste Grossforschungsprojekt ab 2025. Einer von zwei Projektkandidaten ist der Bau eines 50 Kilometer langen Linearbeschleunigers in einem Tunnel, der von Nyon bis zum Rhone-Durchbruch bei Bellegarde in Frankreich reichen soll (Projekt Clic, siehe Kasten). Im Rahmen einer Zusammenarbeit mit dem Cern entwickelten Forschende der ETH Zürich einen für diesen Beschleuniger benötigten Pulsgenerator. Vor wenigen Tagen lieferten sie ihren Prototypen ans Cern. Dort wird er nun auf Herz und Nieren geprüft.

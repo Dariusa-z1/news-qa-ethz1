@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/03/tag-der-offenen-tuer-in-den-campus-infos.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Ob Orientierung, Ticketverkauf oder Autovermietung: Die beiden Campus Infos der ETH Zürich sind die neuen zentralen Anlaufstellen für Information und Services für Besucher und ETH-Angehörige. Im Hauptgebäude besteht die Campus Info aus dem Empfang in der Haupthalle und dem Servicebereich im D-Stock (HG D 34), auf dem Campus Hönggerberg finden sich alle Angebote im Gebäude HIL im Raum D 25.9.

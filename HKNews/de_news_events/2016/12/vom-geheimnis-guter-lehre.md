@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/12/vom-geheimnis-guter-lehre.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Was ist das Geheimnis guter Lehre? Einer müsste es wissen: John Lygeros, Professor für Control and Computation und Leiter des Departements Informationstechnologie und Elektrotechnik. Er gewann schon dreimal den ETH-Lehrpreis die Goldene Eule und dieses Jahr durfte er am ETH Tag den CS Award for Best Teaching entgegennehmen.

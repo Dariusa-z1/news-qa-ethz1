@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/01/weitere-gastrobetriebe-offen.html
 
-**Date processed:** 2025-05-01
-
 ## Hönggerberg
 
 Die Pandemie stellt die Gastrobetriebe an der ETH vor grosse Herausforderungen. Infolge der wieder eingeführten Home-Office Plicht und der vorlesungsfreien Zeit haben sich die Gäste markant reduziert, was eine Reduktion des Angebots an Verpflegungsmöglichkeiten zur Folge hatte.

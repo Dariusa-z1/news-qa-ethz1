@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/03/oil-energy-realities-for-western-europe-part-1.html
 
-**Date processed:** 2025-05-01
-
 ## Importance to get prepared
 
 Oil is by far the dominant energy source for Switzerland and its neighboring countries, corresponding to about 53% of the Swiss energy mix [1]. The burning of oil satisfies almost 100% of our transport needs and more than 50% of our heating requirements. Despite the importance of oil in our daily energy consumption pattern, discussions about the energy problem tend to concentrate on the future supply of electric energy. Because of its physical properties oil is the ideal energy source for the transport of people and consumer goods. As a result of these essentially unique properties, the finding, extraction and distribution of oil became extremely profitable and allowed those who have influence in the global oil market to gain considerable economic and political power.

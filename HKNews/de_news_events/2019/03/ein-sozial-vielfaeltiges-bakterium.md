@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/03/ein-sozial-vielfaeltiges-bakterium.html
 
-**Date processed:** 2025-05-01
-
 ## Nah verwandt – und doch verschieden
 
 Eine grundlegende Eigenschaft lebender Systeme ist die Fähigkeit zur Zusammenarbeit. So bestehen Pflanzen und Tiere aus Milliarden von Zellen, die miteinander kommunizieren, spezifische Aufgaben erledigen und sich Ressourcen teilen. Auch viele einzellige Mikroorganismen kooperieren auf vielfältige Weise, indem sie Gemeinschaften bilden und nützliche Gene oder Güter untereinander austauschen.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/05/practical-tool-for-citizen-science-and-coronavirus-research.html
 
-**Date processed:** 2025-05-01
-
 ## Combining human and artificial intelligence
 
 Many scientific studies are currently underway to find ways of containing the spread of the coronavirus and COVID-19, the disease it causes. To read all of them and then quickly provide policy-makers with a comprehensive summary of all the useful information would be impossible.

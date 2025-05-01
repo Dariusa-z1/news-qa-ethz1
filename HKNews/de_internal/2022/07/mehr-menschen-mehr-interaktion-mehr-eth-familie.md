@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/07/mehr-menschen-mehr-interaktion-mehr-eth-familie.html
 
-**Date processed:** 2025-05-01
-
 ## Die Neuerungen im Überblick
 
 «Mehr Menschen, mehr Interaktion und das Zusammengehörigkeitsgefühl innerhalb unserer ʹETH-Familieʹ stärken.» So beschreibt Anna Maltsev, Chefredaktorin des « life », die Neuausrichtung des ETH-Mitarbeitendenmagazins. Dass sich die Leserinnen und Leser gerade dies von ihrem Magazin wünschen, zeigten eine im letzten Jahr durchgeführte Online-Umfrage zur internen Kommunikation an der ETH sowie anschliessende vertiefende Workshops mit technisch-administrativen und wissenschaftlichen Mitarbeitenden. «Diesem Wunsch, die ETH-Angehörigen noch mehr ins Zentrum des ʹlifeʹ zu stellen, kommen wir natürlich gerne nach», resümiert Maltsev.

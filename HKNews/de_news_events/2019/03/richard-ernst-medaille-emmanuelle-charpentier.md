@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/03/richard-ernst-medaille-emmanuelle-charpentier.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Crispr/Cas ist in aller Munde. Mit diesem molekularen Werkzeug können Biologen Gensequenzen von Lebewesen auf verhältnismässig einfache Art verändern. Die Methode hat die Gentechnik revolutioniert. Sie wird seit einigen Jahren rege eingesetzt, zum Beispiel bei der Züchtung von Nutzpflanzen. Es besteht zudem die Hoffnung, mithilfe von Crispr/Cas künftig Erbkrankheiten oder Aids heilen zu können.

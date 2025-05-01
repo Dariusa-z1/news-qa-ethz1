@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/08/people-and-technology-at-Zurichs-main-station.html
 
-**Date processed:** 2025-05-01
-
 ## Races in four disciplines
 
 For Weltklasse Zürich, the events at the main station, which are held before the track and field meeting at the Letzigrund stadium takes place, already have a long tradition. They have now presented several demonstration contests together with Cybathlon.

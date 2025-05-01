@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/02/die-professuren-fit-machen-fuer-die-zukunft.html
 
-**Date processed:** 2025-05-01
-
 ## Umfangreiche und breit abgestützte Analyse der aktuellen Situation
 
 Steigende Studierendenzahlen erfordern mehr Einsatz in der Lehre, globale Herausforderungen noch mehr Vernetzung unter den verschiedenen Disziplinen. Der Wunsch nach partizipativen Führungsmodellen und mehr Diversität gewinnt an Bedeutung. Und die neue Medienrealität bietet Professuren zwar mehr eigene Möglichkeiten für Outreach, damit einhergehend aber auch mehr Gefahren für die Reputation. Die Herausforderungen an die Professuren von innen und aussen sind in den letzten Jahren stetig gewachsen. Aber der Tag hat weiterhin nur 24 Stunden. Daher braucht es ein zukunftsfähiges, gemeinsames Selbstverständnis und optimale Rahmenbedingungen, um eine gute Balance zwischen diesen vielfältigen und zeitintensiven Aufgaben einer Professur an der ETH zu entwickeln. Klar definierte Leitplanken sollen helfen, damit die verschiedenen Mitarbeitenden einer Professur sich auf ihre Kernaufgaben konzentrieren können, gleichzeitig aber auch den sich wandelnden Anforderungen Rechnung getragen wird. Der Workstream «Professuren» (WS2) des rETHink-Projektes erarbeitet Modelle zur Umsetzung dieser Ziele.

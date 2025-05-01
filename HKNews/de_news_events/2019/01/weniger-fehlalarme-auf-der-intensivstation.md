@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/01/weniger-fehlalarme-auf-der-intensivstation.html
 
-**Date processed:** 2025-05-01
-
 ## Kombination von Daten
 
 Piiiep, piiiep, piiiep. Dauernd schlägt auf der Intensivstation irgendein Messgerät Alarm. Sei es, weil das Blut eines Patienten zu wenig Sauerstoff enthält, bei der Patientin nebenan der Druck im Schädel gestiegen oder bei jemandem der Blutdruck abgesackt ist. Oder aber einfach nur deshalb, weil sich ein Patient im Bett bewegt hat.

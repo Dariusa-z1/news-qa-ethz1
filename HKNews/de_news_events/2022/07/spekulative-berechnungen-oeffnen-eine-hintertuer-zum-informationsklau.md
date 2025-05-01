@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/07/spekulative-berechnungen-oeffnen-eine-hintertuer-zum-informationsklau.html
 
-**Date processed:** 2025-05-01
-
 ## Spekulatives Rechnen macht Computer schneller
 
 Manchmal blutet ein Computer aus seinem Herzen und gibt tröpfchenweise private Informationen preis. Das trifft auf die heute öffentlich gemachte Hardware-Sicherheitslücke «Retbleed» zu: Diese Sicherheitslücke entsteht in den Mikroprozessoren, welche die Anweisungen eines Computerprogramms ausführen und die entsprechenden Berechnungen durchführen.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/10/chancen-und-risiken-im-energiesektor.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Nächste Woche findet an der ETH Zürich die zweite « Klimarunde » statt. Sie dreht sich um das Thema «Innovationen fürs Klima» und fragt: Was braucht es, damit wir handeln können? Expertinnen und Experten verschiedener Fachgebiete diskutieren gemeinsam mit Besucherinnen und Besuchern, welche Beiträge die Schweiz als globale Innovatorin zur Lösung der Klima-Probleme leisten kann.

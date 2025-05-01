@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/01/mehr-orientierung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Right now, student life at ETH is revolving around one thing: the upcoming exams. While others are enjoying themselves on the ski slopes, the ETH libraries are full to bursting until late in the evenings, nervous students arriving for exams can be found on the Hönggerberg piazza at hourly intervals, and coffee consumption on the ETH campuses probably reaches record level towards the end of January.

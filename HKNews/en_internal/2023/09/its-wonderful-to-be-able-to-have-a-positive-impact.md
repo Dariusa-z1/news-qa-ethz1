@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2023/09/its-wonderful-to-be-able-to-have-a-positive-impact.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 You were familiar with an ombudswoman’s responsibilities. But did anything still surprise you when you took office? The issues that came up were much more diverse than I’d expected. I was surprised that in many cases it wasn’t even about finding a solution. Often people seeking advice are just happy to have someone to open up to in confidentiality and to help them reflect on their situation. I had been prepared for many more complex and difficult situations because the role was always being mentioned in media reports back then. That has calmed down a bit in recent years. The extra internal sources of support seem to be slowly having an effect.

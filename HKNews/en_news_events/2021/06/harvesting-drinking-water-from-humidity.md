@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/06/harvesting-drinking-water-from-humidity.html
 
-**Date processed:** 2025-05-01
-
 ## Self-cooling and protection from radiation
 
 Fresh water is scarce in many parts of the world and must be obtained at great expense. Communities near the ocean can desalinate sea water for this purpose, but doing so requires a large amount of energy. Further away from the coast, practically often the only remaining option is to condense atmospheric humidity through cooling, either through processes that similarly require high energy input or by using “passive” technologies that exploit the temperature swing between day and night. However, with current passive technologies, such as dew-collecting foils, water can be extracted only at night. This is because the sun heats the foils during the day, which makes condensation impossible.

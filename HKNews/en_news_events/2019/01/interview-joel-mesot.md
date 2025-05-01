@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/01/interview-joel-mesot.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH News: Joël Mesot, there has been very little communication about the conclusion of the disciplinary investigation. Why is that? Joël Mesot: I appreciate that the public would like to know more details, but that’s not possible for legal reasons. The investigation is part of internal disciplinary proceedings against an individual, and the final report is not made public. It is our duty of care to protect everyone involved: those reporting the allegations and the person being accused.

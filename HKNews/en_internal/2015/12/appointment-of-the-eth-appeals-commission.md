@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/12/appointment-of-the-eth-appeals-commission.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Members of the ETH Appeals Commission (as from 1 January 2016)

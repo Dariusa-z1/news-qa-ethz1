@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/09/data-science-series-interview-roger-wattenhofer.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH News: You expressed reservations when blockchain was mentioned as the topic for this interview. Why is that? Roger Wattenhofer: The topic is exciting, but there is a bit too much hype surrounding the term “blockchain”. I get questions about it every day, from all directions – from the media, private individuals, and companies. I’ve never been a more popular professor (smiling).

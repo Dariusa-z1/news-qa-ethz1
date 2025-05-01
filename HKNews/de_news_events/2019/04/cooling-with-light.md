@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/04/cooling-with-light.html
 
-**Date processed:** 2025-05-01
-
 ## Ein schmaler Grat
 
 Auf so tiefe Temperaturen hat noch nie jemand zuvor ein Nanopartikel in einem Photonenkäfig hinuntergekühlt: Dominik Windey und René Reimann, Doktorand und Postdoc in der Gruppe von Lukas Novotny, Professor für Photonik, gelang es, ein 140 Nanometer grosses Glaskügelchen auf wenige Tausendstel-Grad über dem absoluten Nullpunkt abzukühlen.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/11/die-auswirkungen-des-coronavirus-auf-das-bildungswesen-in-der-schweiz.html
 
-**Date processed:** 2025-05-01
-
 ## Neue Studien liefern wertvolle Erkenntnisse
 
 Das Coronavirus und die eingeleiteten Massnahmen, um dessen Verbreitung zu verlangsamen, hatten grosse Auswirkungen auf das Bildungswesen in der Schweiz und der ganzen Welt. Die Auswirkungen rühren nicht nur von den verfügten Schulschliessungen während des Lockdowns zu Beginn der Pandemie – auch nachdem die Schulen wieder öffneten, mussten die Pädagogen aufgrund strikter Hygiene- und Verhaltensregeln die Führung ihrer Institution und das Abhalten von Lektionen völlig neu organisieren. Es sind neue Methoden entstanden, welche laufend weiterentwickelt und an die sich ständig ändernde Situation angepasst werden.

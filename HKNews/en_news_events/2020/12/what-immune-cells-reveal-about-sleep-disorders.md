@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/12/what-immune-cells-reveal-about-sleep-disorders.html
 
-**Date processed:** 2025-05-01
-
 ## Is narcolepsy an autoimmune disease?
 
 “This is my very first interview,” Daniela Latorre explains with a smile at the start of the conversation. It probably will not be her last: the young researcher from Italy has made a name for herself in recent years with her studies on narcolepsy. As an SNSF PRIMA group leader at the Institute of Microbiology at ETH Zurich, she investigates the autoimmune basis of neurological disorders.

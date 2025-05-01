@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/03/endometriose-mit-ki-scheller-diagnostizieren.html
 
-**Date processed:** 2025-05-01
-
 ## Unternehmer per Zufall
 
 Endometriose ist weit verbreitet. Weltweit leiden etwa zehn Prozent aller Frauen im gebärfähigen Alter daran. Wobei «leiden» wörtlich zu nehmen ist. Dauert es doch im Schnitt acht bis zwölf Jahre bis diese gutartigen Wucherungen der Gebärmutterschleimhaut (Endometrium) im Bauchraum diagnostiziert werden. Jahre, in denen die Frauen meist schon vor und bei jeder Monatsblutung starke Schmerzen ertragen müssen.

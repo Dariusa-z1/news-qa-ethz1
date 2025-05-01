@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/04/spark-award-fuer-neues-biochemisches-verfahren.html
 
-**Date processed:** 2025-05-01
-
 ## Erfolgreiche Schweizer Erfindungen
 
 Die Überraschung hätte nicht grösser sein können. «Wir haben überhaupt nicht mit dem Sieg gerechnet, da unsere Technologie so schwierig zu erklären ist», sagt Jörn Piel. Gemeinsam mit Daniel Richter und Edgars Lakis hat der ETH-Professor für Mikrobiologische Interaktionen ein neuartiges biochemisches Verfahren entwickelt. Damit können Proteine zum Beispiel mit einem Wirkstoff beladen werden, den sie anschliessend an die richtige Stelle im Körper transportieren. Gestern Abend wurden sie dafür vor rund 150 Gästen im Audi Max der ETH Zürich mit dem Spark Award 2022 ausgezeichnet. ETH transfer, die Technologietransferstelle der ETH Zürich, richtete in diesem Jahr bereits zum elften Mal die Preisverleihung für die vielversprechendste Innovation der Hochschule aus.

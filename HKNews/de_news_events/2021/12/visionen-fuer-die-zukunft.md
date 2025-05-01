@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/12/visionen-fuer-die-zukunft.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Chris Luebkeman ist Leiter des Strategic Foresight Hub der ETH Zürich. Gemeinsam mit Interessengruppen ermittelt dieser zukunftsorientierte Treiber des Wandels. (Bild: Daniel Winkler)

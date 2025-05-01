@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/05/neun-professorinnen-und-professoren-ernannt.html
 
-**Date processed:** 2025-05-01
-
 ## Neuernennungen
 
 (Bild: ETH Zürich / Kilian J. Kessler)

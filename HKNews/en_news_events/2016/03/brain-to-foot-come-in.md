@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/03/brain-to-foot-come-in.html
 
-**Date processed:** 2025-05-01
-
 ## Persistent sense of estrangement
 
 A strange sensation, but familiar to anyone who has ever been given local anaesthesia and watched while a doctor operated on their leg or arm: in that moment, your own body part seems foreign, as if it doesn’t belong to your body. One reason for this is that the brain still knows which position the limb occupied before the local anaesthetic took effect. As soon as it wears off, the spooky sensation disappears.

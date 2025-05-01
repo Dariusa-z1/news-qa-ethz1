@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/06/blog-roads-rainforest-congo-kleinschroth.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The diversity of butterflies sticking to the radiator grille of the logging truck symbolises the complex conflict between economic development and nature conservation in the Congolese rainforest. Here, in the north of the Republic of Congo, existing logging roads are being upgraded to form a section of the “Trans-African Highway network”. The new road will be the first north-south link cutting directly through the original rainforest. The driver of the logging truck, whom I met on a field trip in 2017, was most enthusiastic about the quality of the highway, which enables him to tear through the tropical forest at 120 km/h.

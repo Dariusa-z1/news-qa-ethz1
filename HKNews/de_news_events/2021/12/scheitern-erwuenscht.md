@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/12/scheitern-erwuenscht.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Jenny Held entwickelt mit Alexander Smirnow kleine automatisierte Gärten für den Küchentisch oder das Regal. Zusammen gründeten sie das Start-up «Pleasant Plants». In den hölzernen «Guckkästen» voller Technik wachsen Cherrytomaten oder Kräuter – auch bei Leuten ohne grünen Daumen. 299 Franken kostet der Automat, inklusive Wurzelmedium, Samen und Nährstoffen, Bedienungsanleitung, Netzkabel. Einmal installiert, sorgt er für die richtige Bewässerung, Beleuchtung und Nährstoffzufuhr. Vor Kurzem hat das Start-up die erste Charge ausgeliefert, als Nächstes will es die Kosten minimieren.

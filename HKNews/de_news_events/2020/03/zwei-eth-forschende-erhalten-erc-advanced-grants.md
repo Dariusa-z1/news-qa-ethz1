@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/03/zwei-eth-forschende-erhalten-erc-advanced-grants.html
 
-**Date processed:** 2025-05-01
-
 ## Europäische Forschung wichtiger denn je
 
 Auch wenn in Europa zurzeit Vieles stillsteht, hat der Europäische Forschungsrat (ERC) bekannt gegeben, welche Forschenden dieses Jahr einen ERC Advanced Grant erhalten. Darunter auch zwei ETH-Forschende: Die Mikrobiologin Julia Vorholt und der Pharmakologe Jean-Christophe Leroux erhalten für ihre Projekte je rund 2,58 Millionen Schweizer Franken.

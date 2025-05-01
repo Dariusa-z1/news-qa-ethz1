@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/09/zukunftsblog-sonia-seneviratne-ja-wir-sind-besorgt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Im Januar sorgte ein Urteil des Bezirksgerichts in Renens bei Lausanne weltweit für Aufsehen: Es sprach 12 Klimaaktivisten frei, die im November 2018 in einer Filiale der Credit Suisse Tennis gespielt hatten. Ihr illegales, aber gewaltfreies Vorgehen nahm Bezug auf den Tennisprofi Roger Federer, der von der Grossbank gesponsert wird. Die Aktivisten wollten darauf aufmerksam machen, dass die Credit Suisse seit der Verabschiedung des Pariser Klimaabkommens im Dezember 2015 weiterhin erhebliche Investitionen in fossile Brennstoffe getätigt und damit zur Verschärfung der Klimakrise beigetragen hat 1 . Die erste Instanz folgte den 13 Anwälten, welche die Aktivisten pro bono verteidigten und argumentierten, dass diese aus einem Notstand («état de nécessité») heraus gehandelt hätten, in dem eine Person gezwungen ist, das Gesetz zu brechen, um ein höheres Gut zu schützen.

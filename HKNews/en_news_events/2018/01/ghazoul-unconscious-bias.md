@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/01/ghazoul-unconscious-bias.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 “One long gigantic blunder”: that’s how Charles Darwin described his 1839 paper on the parallel “roads” of Glen Roy. Three perfectly horizontal terraces run along the slopes of Glen Roy, a valley in northwest Scotland. Explaining how they got there was a puzzle that perplexed geologists of the day. Darwin, recently returned from his round-the-world voyage on the HMS Beagle , was captivated by Charles Lyell’s “actual causes” theory of geology, whereby landforms such as mountains arise from small successive episodes of uplift.

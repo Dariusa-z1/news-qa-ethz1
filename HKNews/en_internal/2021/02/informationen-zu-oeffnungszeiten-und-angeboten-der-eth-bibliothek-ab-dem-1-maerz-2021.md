@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/02/informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-1-maerz-2021.html
 
-**Date processed:** 2025-05-01
-
 ## Locations and opening hours
 
 • In the main building and Architecture and Civil Engineering Library, it is possible to borrow and return documents from all locations. Short searches and consultations can also take place in compliance with distance and hygiene regulations.

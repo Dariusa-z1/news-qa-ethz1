@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/12/administrative-investigation-concluded.html
 
-**Date processed:** 2025-05-01
-
 ## Professor expresses regret and takes measures to improve the situation
 
 The administrative investigation opened on 17 July 2018 in the Department of Biosystems Science and Engineering (D-BSSE) is now concluded. The investigation was launched in response to a poll by the Academic Association of Scientific Staff at ETH Zurich (AVETH), and allegations made by doctoral students of poor management and support. The independent external investigators concluded that no legal provisions have been violated, but that employment contracts have in some cases been used as a means of exerting pressure.

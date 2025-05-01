@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/11/fit-for-the-it-future-with-a-new-computer-centre.html
 
-**Date processed:** 2025-05-01
-
 ## Meeting computing capacity demand
 
 Stakes marking out the height and extent of the new data centre have just been erected, and are visible from far and wide. This is a customary step in Swiss construction projects, indicating the space the future structure will occupy. Construction will start in autumn 2023. The new building will form the western end of the Hönggerberg campus, and it will be integrated into the energy centre (HEZ) group, which serves as the heating and cooling centre for the campus. The new building was designed by the Zurich architectural firm Penzel Valier AG. The design, coordinated with the existing buildings, pays particular attention to the exposed location in the transitional space between the campus and the neighbouring residential area.

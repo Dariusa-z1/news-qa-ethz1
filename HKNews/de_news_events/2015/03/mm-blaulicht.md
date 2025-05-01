@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/03/mm-blaulicht.html
 
-**Date processed:** 2025-05-01
-
 ## Erektion ohne sexuelle Stimulation
 
 Unter Männern sind Erektionsstörungen ein Tabuthema. Keiner spricht gerne darüber. Fakt ist: Mit zunehmenden Alter leiden immer mehr Männer unter der sogenannten erektilen Dysfunktion. Ab dem 30. Lebensjahr nimmt die Zahl derer, die keine oder unvollständige Erektionen haben, stetig zu. Bei den über 60-jährigen sind bereits über die Hälfte aller Männer von Erektionsstörungen betroffen.

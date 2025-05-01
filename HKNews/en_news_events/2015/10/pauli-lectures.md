@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/10/pauli-lectures.html
 
-**Date processed:** 2025-05-01
-
 ## Co-inventor of JPEG 2000
 
 As a child, Ingrid Daubechies actually wanted to follow in her father’s footsteps and become an engineer. But her affinity for mathematics and solving complex mathematical problems led her down a different path. Before long, she was studying physics at the Vrije Universiteit in Brussels, where she also completed a doctorate in theoretical physics. After that, she embarked on a remarkable career that would see her take positions at, among others, AT&T Bell Laboratories, New York University, and Princeton University, where she was the first ever female mathematics professor. Today she is engaged in research and teaching at Duke University in Durham, USA, and from 2011 to 2015 she served as President of the International Mathematical Union – again as the first woman to ever hold the position.

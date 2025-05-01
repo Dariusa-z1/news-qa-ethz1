@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/03/blog-grote-arbeit-von-zuhause.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Arbeit von zu Hause aus ist seit langem ein Wunsch vieler, aber keine weit verbreitete Praxis in Unternehmen. In unserer Umfrage im Jahr 2016 antwortete mehr als die Hälfte der 1200 teilnehmenden Schweizer Unternehmen, dass sie ihren Mitarbeitenden keine Möglichkeit zur Arbeit von zuhause bieten .1 Mit COVID-19 sehen wir uns mit neuen Extremen konfrontiert: Einige von uns müssen jetzt immer von zu Hause aus arbeiten, während für andere mehr denn je die Arbeit vor Ort erforderlich ist. Und vergessen wir nicht die Menschen, die gar keine Arbeit mehr haben.

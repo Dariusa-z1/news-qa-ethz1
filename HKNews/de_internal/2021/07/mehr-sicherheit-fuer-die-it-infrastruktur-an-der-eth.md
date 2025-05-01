@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/07/mehr-sicherheit-fuer-die-it-infrastruktur-an-der-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Wenn der eigene Computer zum Risiko wird
 
 Es ist schnell passiert, eine auf den ersten Blick harmlos aussehende Mail, man drückt auf den Link darin, und schon installiert sich im Hintergrund eine Ransomware auf dem Computer, die die Daten des Computers oder im schlimmsten Fall grosser Teile der IT-Geräte und Speichersysteme verschlüsselt. Dahinter stehen Cyberkriminelle, die damit die Einzelperson oder die entsprechende Organisation zu erpressen versuchen, und gegen hohe Geldsummen die angeblich passende Entschlüsselungssoftware anbieten. Im Normalfall können über Back-Ups und Sicherungstools die Daten wieder gerettet werden, aber dafür müssen sie zuvor entsprechend gesichert worden sein.

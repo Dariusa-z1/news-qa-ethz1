@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/04/blog-ghazoul-waldschutz-brasilien.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In seiner Rede am Weltwirtschaftsforum Ende Januar erklärte Jair Bolsonaro: «Es ist nun unsere Aufgabe, Fortschritte bei der Harmonisierung von Umweltschutz und Biodiversität mit der dringend benötigten wirtschaftlichen Entwicklung zu erzielen».

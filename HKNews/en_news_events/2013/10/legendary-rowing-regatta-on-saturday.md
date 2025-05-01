@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/10/legendary-rowing-regatta-on-saturday.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Keep your fingers crossed for the ETH rowing teams on Saturday when the UNI-POLY rowing regatta starts at 3 p.m.! Four categories of teams from the two universities will race each other between the Quai bridge and the Rathaus (town hall). The start is at the lower end of the lake and the finish line is between the Münster bridge and the Rathaus bridge. Eights with men’s and women’s student teams as well as teams of professors and alumni from ETH and the University of Zurich will contend for the victory and honour of their universities in best-of-three series.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/08/chemische-synthese-per-knopfdruck.html
 
-**Date processed:** 2025-05-01
-
 ## Muss Chemie so kompliziert sein?
 
 Es ist schon eine Weile her, seit in Kemptthal bei Winterthur Suppenwürfel hergestellt wurden. Auf dem weitläufigen Gelände der ehemaligen Maggi-Fabrik haben sich inzwischen zahlreiche Jungunternehmen eingenistet, die – ähnlich wie damals Julius Maggi – mit ihren Produkten die Welt erobern wollen.

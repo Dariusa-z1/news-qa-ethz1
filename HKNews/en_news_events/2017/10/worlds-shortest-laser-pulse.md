@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/10/worlds-shortest-laser-pulse.html
 
-**Date processed:** 2025-05-01
-
 ## Breaking down transition states
 
 In order to fully understand the dynamics during a chemical reaction, scientists must be able to study all movements of atoms and molecules on their basic time scale.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/01/blockgletscher-in-bewegung.html
 
-**Date processed:** 2025-05-01
-
 ## Wissenslücken füllen
 
 Auch Blockgletscher bestehend aus gefrorenem Lockergestein verändern sich im Zuge des Klimawandels rasch und tiefgreifend. Sie kriechen hangabwärts, sacken ein, verbreitern sich und können mitunter kollabieren. Für die Regionen, in denen sie liegen, stellt sich deshalb die Frage, ob von Blockgletschern eine Gefahr für den Menschen und seine Infrastruktur ausgehen könnte.

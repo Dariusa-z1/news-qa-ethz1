@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/01/is-vesuvius-taking-an-extended-siesta.html
 
-**Date processed:** 2025-05-01
-
 ## Garnets allow precise dating
 
 Vesuvius is one of Europe’s most dangerous volcanoes. More than three million people live in its immediate vicinity, and in historical and prehistoric times, there were explosive eruptions that destroyed entire settlements and towns in the area.

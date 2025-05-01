@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2023/01/stromausfall-auf-dem-hoenggerberg.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 A fault in a medium-voltage installation triggered a power outage on the Hönggerberg campus on Wednesday. (Photo: ETH Zurich/Facility Services)

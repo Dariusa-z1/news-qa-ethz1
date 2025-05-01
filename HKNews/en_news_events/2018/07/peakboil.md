@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/07/peakboil.html
 
-**Date processed:** 2025-05-01
-
 ## Practical tests on the mountaintop
 
 Summertime is camping time – a perfect opportunity to give up our everyday luxuries for a while and instead cook a simple dinner on a gas camping stove. If only the gusts of wind would go away instead of constantly blowing out the flame on the stove. Now an ETH doctoral candidate and students from the ETH Zurich Design and Technology Lab and from the Zurich University of the Arts (ZHdK) have developed a novel stove that can cope even in strong winds: a kettle shaped like a Bundt cake tin encloses a gas burner, protecting it from the wind.

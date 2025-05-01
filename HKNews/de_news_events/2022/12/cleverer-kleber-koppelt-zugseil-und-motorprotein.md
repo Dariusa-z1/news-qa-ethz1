@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/12/cleverer-kleber-koppelt-zugseil-und-motorprotein.html
 
-**Date processed:** 2025-05-01
-
 ## Verbindung zwischen Zugseil und Motor
 
 Für Maschinen mit beweglichen Teilen sind Kopplungen entscheidend. Ob starr oder flexibel, ob Verbindung zwischen den Wellen in einem Motor oder den Gelenken in unserem Körper: Damit Kopplungen mechanische Kräfte wunschgemäss übertragen, müssen die verwendeten Materialien passen.

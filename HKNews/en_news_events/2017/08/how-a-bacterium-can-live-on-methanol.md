@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/08/how-a-bacterium-can-live-on-methanol.html
 
-**Date processed:** 2025-05-01
-
 ## Bacteria utilize a plant waste product
 
 Many chemists are currently researching how small carbon molecules, such as methane and methanol, can be used to generate larger molecules. The earth is naturally rich in methane, and artificial processes like the fermentation of biomass in biogas plants also produce it in abundance. Methanol can be generated from methane. Both are simple molecules containing only a single carbon atom. However, using them to produce larger molecules with several carbon atoms is complex.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/04/erc-advanced-grants.html
 
-**Date processed:** 2025-05-01
-
 ## ETH must remain attractive
 
 The ERC Advanced Grants are among the most coveted awards in the European Research Area, as only projects from established researchers are supported by the European Research Council (ERC). Successful applicants receive significant financial support in addition to reputational honour. The approved projects will receive somewhere between CHF 2.2 million and CHF 3.8 million over a period of five years.

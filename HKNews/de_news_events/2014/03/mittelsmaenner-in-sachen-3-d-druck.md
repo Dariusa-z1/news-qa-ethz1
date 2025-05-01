@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/03/mittelsmaenner-in-sachen-3-d-druck.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Matthias Baldinger (l.) und Fabian Rahm möchten mit ihrem Spin-off abheben. (Bild: Peter Rüegg / ETH Zürich)

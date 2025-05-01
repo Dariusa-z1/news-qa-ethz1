@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/10/start-of-the-new-respect-campaign.html
 
-**Date processed:** 2025-05-01
-
 ## Tips for “upstanders”
 
 The Respect campaign focuses on each one of us: every member of the ETH community has the chance to make a point and step in as an upstander if they witness disrespectful or inappropriate behaviour. Whether in a meeting, research group or informal lunch: “Behaviour such as bullying, sexual harassment, discrimination and threats or even violence have no place in our university,” says Joël Mesot, ETH President. “Our community is built on mutual respect for one another. I therefore call on all ETH members to stand up for these values. Look out for each other – and don’t be afraid to step forward if you personally witness disrespectful behaviour – in a respectful manner, of course.

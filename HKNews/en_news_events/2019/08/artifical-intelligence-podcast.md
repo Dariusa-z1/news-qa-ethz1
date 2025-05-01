@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/08/artifical-intelligence-podcast.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Artificial Intelligence and Machine Learning make us look at human intelligence in a new light. In the podcast, we talk to the ETH professors Ben­jamin Grewe, Simone Schürle, and Thomas Hofmann about the advantages and the dangers of Artificial Intelligence. We also take a glimpse into the future and talk about new technologies such as little implants to enhance human brains. How much has fiction already become a reality?

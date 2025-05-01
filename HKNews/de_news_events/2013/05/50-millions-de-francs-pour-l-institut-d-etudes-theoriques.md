@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/05/50-millions-de-francs-pour-l-institut-d-etudes-theoriques.html
 
-**Date processed:** 2025-05-01
-
 ## Une sorte de réunion de classe mondiale permanente
 
 Depuis ses débuts, l'ETH Zurich compte parmi ses rangs des théoriciens de premier plan. Des scientifiques tels qu'Albert Einstein, Wolfgang Pauli, Hermann Weyl, Niklaus Wirth et beaucoup d'autres ont enseigné et effectué des recherches à Zurich, enrichissant ainsi les bases théoriques en physique, en chimie, en mathématiques et en informatique et contribuant à des innovations majeures. Dans notre monde empreint de technique et de technologies numériques, l'importance des mathématiques n'a cessé d'augmenter. Sans même que nous nous en rendions compte, de nombreux éléments de notre quotidien reposent sur des principes mathématiques. Sans la théorie de la relativité générale d'Albert Einstein, la technologie GPS intégrée dans tous les smartphones serait aussi impensable que la technologie de l'information moderne sans la mécanique quantique ou encore les supports de données tels que les DVD sans les codes correcteurs d'erreurs, qui sont basés sur la théorie des nombres.

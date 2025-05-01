@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/09/fokus-essen-statt-pillen.html
 
-**Date processed:** 2025-05-01
-
 ## Hafer als Superfood
 
 Zu viel Fett, zu viel Zucker bei zu wenig Bewegung: Essen heute – so scheint es zumindest in den entwickelten Ländern – macht krank. Übergewicht, Diabetes, Herz-Kreislauf-Erkrankungen und Krebsleiden nehmen zu und verursachen Gesundheitskosten in Milliardenhöhe. Demgegenüber steht ein Traum: Lebensmittel, die nicht nur gut schmecken und gut bekommen, sondern die sogar Krankheiten verhindern oder heilen helfen können. Essen als Medizin: Glaubt man den Versprechungen der Werbung und den Produktdeklarationen auf Joghurts, Margarinen und Co., so ist dieser Traum bereits wahr geworden. In den Regalen der Supermärkte stehen mehr und mehr Lebensmittel, denen gesundheitsfördernde Substanzen zugesetzt wurden. Functional Food verspricht auch ein Milliardengeschäft zu werden.

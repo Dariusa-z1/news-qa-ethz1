@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/02/den-gesamten-alterungsprozess-im-blick.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wir Menschen werden immer älter. Interessanterweise sagen Statistiker jedoch nur eine Zunahme der Lebensjahre voraus, nicht jedoch der Jahre, während der Frauen und Männer gesund bleiben. Diese «gesunden Jahre» bleiben mehr oder weniger konstant 1 . Das heisst, Menschen leben länger und sind dafür einfach länger krank – mit absehbar negativen Folgen für die Finanzierung unseres Gesundheitssystems.

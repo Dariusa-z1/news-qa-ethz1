@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/06/an-ai-future-worthy-of-humanity.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Artificial intelligence would be more accurately described as data-​based systems (DS) because their performance is due to their ability to analyse vast amounts of data, and some areas of intelligence are beyond the reach of DS: social and emotional intelligence remain inaccessible to them because they are unable to experience real feelings. Moreover, they lack the freedom required to possess moral capability.

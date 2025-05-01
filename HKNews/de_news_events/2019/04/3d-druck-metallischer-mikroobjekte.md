@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/04/3d-druck-metallischer-mikroobjekte.html
 
-**Date processed:** 2025-05-01
-
 ## Alternativen zur Tinte
 
 3D-Drucker können heute vom Prototypen in der Fertigung über künstliche Organe bis hin zu kompletten Häusern fast alles drucken. Besonders im mikroskopischen Bereich macht die additive Fertigung, wie der 3D-Druck auch genannt wird, dabei die Herstellung von Strukturen möglich, die sich mit anderen Verfahren wie etwa der Lithographie nicht realisieren liessen. Eine Schwachstelle der additiven Fertigung waren bisher allerdings metallische Strukturen auf der Mikrometerskala.

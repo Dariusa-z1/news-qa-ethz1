@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/09/grippeschutzimpfungen-fuer-eth-mitarbeitende.html
 
-**Date processed:** 2025-05-01
-
 ## Wer sollte sich impfen lassen?
 
 Gemäss der Impfstrategie des Bundes ist nicht eine hundertprozentige Impfabdeckung das Ziel. Vielmehr sollen sich bestimmte Gruppen schützen:

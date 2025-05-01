@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/11/eth-tag-2020.html
 
-**Date processed:** 2025-05-01
-
 ## Das Wohl der Studierenden im Auge
 
 «Krisen sind Bewährungsproben – und unsere Hochschule hat sich in dieser Krise von der besten Seite gezeigt», sagte ETH-Rektorin Sarah Springman am diesjährigen ETH-Tag, der grösstenteils virtuell stattfand. Die Umstellung auf Notbetrieb wegen der Corona-Pandemie Mitte März 2020 sei ein Stresstest gewesen – gerade auch für die Lehre. Es habe sich aber rasch gezeigt, dass die ETH dank einem grossartigen Teamgeist und dem grossen Einsatz aller ETH-Angehörigen der Herausforderung gewachsen sei. So sei die Umstellung auf Fernunterricht weitgehend problemlos verlaufen und mit den Bubbles – Kleingruppen, in denen Erstsemestrige alle Übungen zusammen bestritten – habe man sogar ein Format entwickelt, das man allenfalls über die Krise hinaus beibehalte.

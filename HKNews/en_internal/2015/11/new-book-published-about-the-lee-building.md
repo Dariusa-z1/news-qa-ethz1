@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/11/new-book-published-about-the-lee-building.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The new LEE Building at ETH Zurich is situated very close to the main building, forming part of the Zurich skyline and making it a prominent example of urban design. The exceptional plans by architect Fawad Kazi broke new ground from a design perspective. The newly published book, ‘ETH Zürich Building LEE’, focuses on three main aspects: urban integration, construction and fabrication of the concrete elements, and comprehensive documentation of the construction process through plans and images.

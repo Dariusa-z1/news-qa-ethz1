@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/04/eth-fundbuero-jetzt-auch-online.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Ärgerlich, wenn man etwas verloren hat. Glücklicherweise wird auf dem ETH-Gelände Gefundenes in der Regel in unsere Fundbüros gebracht. Zuständig dafür sind die Info + Service Centers (ISC) .

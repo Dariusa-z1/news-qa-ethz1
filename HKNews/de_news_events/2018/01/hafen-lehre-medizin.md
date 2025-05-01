@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/01/hafen-lehre-medizin.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Freitag, 12. Januar 2018. Zwei Studenten, die an der ETH Zürich im ersten Semester Medizin studieren, stehen vor 21 Oberärzten und leitenden Ärzten, die an der Universität Zürich ein CAS-Weiterbildungsstudium absolvieren. Die Studenten präsentieren den gestandenen Ärzten eine Zusammenfassung des Buchs «The Patient Will See You Now». Der US-Kardiologe Eric Topol beschäftigt sich darin mit Zukunftsszenarien einer digitalisierten und «demokratisierten» Medizin, in der Patienten dank Smartphones mit erweiterten Diagnosefunktionen eine viel aktivere Rolle einnehmen als heute.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/04/sunlight-to-jet-fuel.html
 
-**Date processed:** 2025-05-01
-
 ## Syngas for kerosene synthesis
 
 A European consortium with the participation of ETH Zurich has experimentally demonstrated the first ever production of jet fuel via a thermochemical process using concentrated solar energy. Researchers from ETH Zurich conducted the EU funded project Solarjet together with the German Aerospace Center (DLR), the fuel company Shell, the think-tank Bauhaus Luftfahrt, and the consulting firm Arttic.

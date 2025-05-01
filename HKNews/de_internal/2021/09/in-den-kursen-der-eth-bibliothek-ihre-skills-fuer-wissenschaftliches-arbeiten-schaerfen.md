@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/09/in-den-kursen-der-eth-bibliothek-ihre-skills-fuer-wissenschaftliches-arbeiten-schaerfen.html
 
-**Date processed:** 2025-05-01
-
 ## Neu für Studierende: Moodle-Kurs «Ready for Take-off»
 
 Unsere Kurse und Workshops decken verschiedene Themenbereiche ab wie zum Beispiel:

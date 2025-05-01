@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/04/neuer-corona-masterplan-eth-informiert-kommende-woche.html
 
-**Date processed:** 2025-05-01
-
 ## Getting more students on campus
 
 The relaxed restrictions announced by the government provide further opportunities for in-person teaching events, but subject to certain very tight limitations. They do not affect the working situation of ETH employees. Cultural events are possible again on a small scale. There will be a town hall meeting next week to give employees more details of the new arrangements starting on 26 April. Lecturers and students will receive the information in an email from the Rector. From Monday onwards, the ASVZ will be allowed to resume sports activities on site.

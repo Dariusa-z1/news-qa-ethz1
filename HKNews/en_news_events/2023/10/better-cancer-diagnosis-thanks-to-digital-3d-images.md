@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/10/better-cancer-diagnosis-thanks-to-digital-3d-images.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 It all started with an innocuous question at the start of Francesca Catto’s doctoral thesis: wouldn’t it be nice if tissue samples could be coloured and digitally displayed as a 3D image? For over 100 years, histology, a branch of pathology that deals with tissue changes, has been using an analogue method that involves cutting tissue samples into micrometre-thin slices (about seven times thinner than a human hair) and examining them for pathological mutations under the microscope. This technique results in one in six people being misdiagnosed and cancer cells going undetected.

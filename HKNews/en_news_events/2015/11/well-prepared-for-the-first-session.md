@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/11/well-prepared-for-the-first-session.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In March of this year, Swiss parliamentarians approached ETH Zurich with the idea of organising an introductory meeting for newly elected members of parliament. Experts from different fields gave lectures at the two-day event, while former MPs also shared their knowledge and experience. In an interview, Michael Ambühl offers an initial assessment.

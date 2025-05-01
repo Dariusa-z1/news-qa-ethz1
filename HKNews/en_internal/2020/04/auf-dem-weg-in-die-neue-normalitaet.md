@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/04/auf-dem-weg-in-die-neue-normalitaet.html
 
-**Date processed:** 2025-05-01
-
 ## Crisis not over yet
 
 At the townhall meeting held online on 28 April, the members of the Executive Board started by outlining the priorities in their areas of responsibility over the past weeks, and explained how they plan to restore normal operations for the university. As expected, the meeting attracted a lot of interest: 2,400 members joined the event. The large number of questions – over a hundred – reflected the general atmosphere of uncertainty. Some people think the return to normality is too quick, while others think it’s too slow. And obviously concerns about protecting health was one of the biggest issues for members of the ETH community. The head of the HR Department Lukas Vonesch and Dr Leonhard Sigel, head of Occupational Medicine at ETH, helped the Executive Board to answer questions. The questions raised in the townhall meeting – along with the answers – will be integrated in the FAQs published on the coronavirus webpage . Given the large number of questions, they will be grouped together by topic rather than answered individually.

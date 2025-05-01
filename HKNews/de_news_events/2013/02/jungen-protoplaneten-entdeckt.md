@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/02/jungen-protoplaneten-entdeckt.html
 
-**Date processed:** 2025-05-01
-
 ## Berechnete Masse ist zu gross
 
 Er ist so etwas wie ein Star bei den Astronomen: der Stern HD 100546. Er ist rund 337 Lichtjahre von der Erde entfernt, sichtbar am Südhimmel im Sternbild der Fliege und erst wenige Millionen Jahre alt. Was ihn aber so besonders macht, ist seine zirkumstellare Scheibe. In solchen Scheiben, die sich um alle jungen Sternen bilden, sammeln sich Gas und Staub. So viel man weiss, sind sie der Geburtsort von Planeten. Typischerweise haben zirkumstellare Scheiben einen Durchmesser von 200 AU (1 AU entspricht etwa dem mittleren Abstand zwischen Erde und Sonne — also rund 150 Mio. km). Die Scheibe von HD 100546 ist mit etwa 700 AU riesig und deshalb sehr gut mit Teleskopen zu beobachten. In dieser Scheibe haben nun Forschende vom Institut für Astronomie der ETH Zürich vermutlich erstmals einen sogenannten Protoplaneten entdeckt, also einen Planeten, der im Entstehen ist. Für ihre Beobachtungen haben sie das Very Large Telescope der Europäischen Südsternwarte (ESO) verwendet und publizieren diese jetzt im Fachmagazin The Astrophysical Journal Letters.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/01/eth-pionier-mit-biographie-geehrt.html
 
-**Date processed:** 2025-05-01
-
 ## Verwaltungsrat bei Ciba
 
 Er wurde bereits mit 24 Jahren zum ETH-Professor ernannt, war entscheidend mitverantwortlich für die Modernisierung und den Ausbau der ETH, vermittelte zwischen Hochschule und Industrie und berief Albert Einstein an unsere Hochschule: Die Rede ist von Robert Gnehm (1852-1926).

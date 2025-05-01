@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/12/producing-fertiliser-without-carbon-emissions.html
 
-**Date processed:** 2025-05-01
-
 ## India and China at risk
 
 Paolo Gabrielli, Senior Scientist at the Laboratory of Reliability and Risk Engineering at ETH Zurich, has collaborated with Lorenzo Rosa, Principal Investigator at Carnegie Institution for Science in Stanford, US, to investigate various carbon-neutral production methods for nitrogen fertiliser. In a external page study call_made published in the journal Environmental Research Letters, the two researchers conclude that a transition in nitrogen production is possible and that such a transition may also increase food security. However, alternative production methods have advantages and disadvantages. Specifically, the two researchers examined three alternatives:

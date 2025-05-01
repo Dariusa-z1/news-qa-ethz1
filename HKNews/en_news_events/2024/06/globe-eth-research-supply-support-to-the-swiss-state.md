@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/06/globe-eth-research-supply-support-to-the-swiss-state.html
 
-**Date processed:** 2025-05-01
-
 ## New trends in civil protection
 
 Researchers from ETH Zurich routinely supply Switzerland’s government and public administration with expert input. Their know-how helps the public sector to craft new responses to the challenges facing society. In regular contributions to commissioned studies, hearings and consultations, ETH researchers present data, outline new trends, model scenarios, explain correlations and warn of emerging threats to the social fabric. And since the government generally lacks the time to get up to speed with new methodologies and the latest technology, ETH's contribution also helps drive innov­ation in the public sector.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/01/die-eth-zuerich-am-wef-2017.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH-Präsident Lino Guzzella begrüsste heute Vormittag Persönlichkeiten aus dem ganzen Kanton Graubünden zu einem Frühstück der wissenschaftlichen Art. Er hob dabei die vielen Verbindungen zwischen der ETH und dem Kanton Graubünden hervor, unter anderem zahlreiche imposante Bauwerke wie die Sunnibergbrücke bei Klosters von ETH-Ingenieur Christian Menn. Angesprochen wurden auch die Forschungen auf der Alp Weissenstein, die Villa Garbald in Castasegna im Bergell oder die erst kürzlich lancierte externe Seite Idee einer transalpinen Eisenbahn zwischen Scuol (CH), Mals (IT) und Landeck (A). ETH-Architekturstudent Ursin Huonder skizzierte zudem Pläne und ein Modell zur Aufwertung des Unterengadiner 300-Seelen-Dorfes Tschlin. Lino Guzzella: «Wir sind hier in Davos, unter anderem weil wir die Möglichkeiten der Zusammenarbeit mit dem Kanton Graubünden ausloten und vertiefen möchten.»

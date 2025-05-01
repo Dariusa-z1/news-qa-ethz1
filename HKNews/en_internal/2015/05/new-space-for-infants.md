@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/05/new-space-for-infants.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The expansion is part of the Download Gender Action Plan vertical_align_bottom at ETH Zurich and follows a resolution made by the Executive Board last year to:

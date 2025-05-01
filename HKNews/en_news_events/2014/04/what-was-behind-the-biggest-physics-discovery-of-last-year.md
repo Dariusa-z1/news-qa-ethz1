@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/04/what-was-behind-the-biggest-physics-discovery-of-last-year.html
 
-**Date processed:** 2025-05-01
-
 ## Giudice, Jenni and Evans
 
 The discovery of the Higgs particle last year at the CERN Large Hadron Collider (LHC) particle accelerator in Geneva caused quite a stir and may well be considered the physics discovery of 2013 – reason enough for ETH Zurich to make it the topic of this year’s Wolfgang Pauli Lectures. Next week, three CERN scientists who were instrumental in the discovery will be talking about their backgrounds in a series of lectures intended for researchers, students and the public.

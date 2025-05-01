@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/07/wanted-names-for-exoplanets.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH News asked Kevin Schawinski, professor of astrophysics and co-founder of the citizen science platform, and Sascha Patrick Quanz, who as a senior scientist conducts research into exoplanets, what they think of the idea.

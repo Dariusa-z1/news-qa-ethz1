@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/01/career-seed-grant-ein-schritt-in-die-wissenschaftliche-unabhaengigkeit.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wer sich für einen Career Seed Grant bewerben will, muss folgendes beachten:

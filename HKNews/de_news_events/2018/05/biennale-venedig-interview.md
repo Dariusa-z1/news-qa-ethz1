@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/05/biennale-venedig-interview.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Kurz nach der Veröffentlichung dieses Artikels erhielt der Schweizer Pavillon zum ersten Mal den Goldenen Löwen. Weitere Informationen finden Sie im Artikel « Biennale 2018: Beitrag der ETH gewinnt goldenen Löwen ».

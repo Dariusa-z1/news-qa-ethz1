@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/12/recording-of-working-time-and-absences.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Since the beginning of 2015, a new accounting standard based on the International Public Sector Accounting Standards IPSAS has been applied at ETH Zurich. In line with this changeover, there are new rules for time recording by ETH staff from 2017 onwards.

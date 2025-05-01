@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/03/on-the-trail-of-the-virus.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 So far, more than 3,500 respondents have taken part. (Image: BMI)

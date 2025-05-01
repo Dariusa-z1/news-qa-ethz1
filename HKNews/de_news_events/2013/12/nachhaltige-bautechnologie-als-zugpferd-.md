@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/12/nachhaltige-bautechnologie-als-zugpferd-.html
 
-**Date processed:** 2025-05-01
-
 ## Molekulare Grundlagen der Gesundheit
 
 Mit dem Schwerpunkt «Digitale Fabrikation und hoch entwickelte Bauprozesse in der Architektur» will das ETH-Institut für Technologie in der Architektur neue Ansätze für die Forschungs- und Baupraxis entwickeln. Mit seiner Ausrichtung auf innovative Planungs- und Bauprozesse sowie auf nachhaltige Bautechnologien setzt die «Digitale Fabrikation» die strategischen Themen des Departements Architektur (D-ARCH) fort, also Urbanisierung, Klimawandel und Ressourcenknappheit im Zeitalter der Informationsgesellschaft. Das Programm ergänzt zudem die Aktivitäten des «Future Cities Laboratory» in Singapur.

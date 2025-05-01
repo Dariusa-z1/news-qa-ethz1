@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/07/the-executive-board-reports-2019-4.html
 
-**Date processed:** 2025-05-01
-
 ## Ombudspersons: new external body and more specialist support
 
 ETH Zurich fosters a culture of mutual respect. Our university does not tolerate any form of harassment, discrimination, bullying, threats or violence. Experiences over the past few years have shown that the support offered by existing internal units and their procedures for dealing with inappropriate behaviour need to be improved. To address this, the Executive Board announced a comprehensive package of measures on 14 March 2019. Following extensive analysis, these measures have now been formalised.

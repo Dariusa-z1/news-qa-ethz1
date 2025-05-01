@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/06/paving-the-way-for-the-treatments-of-the-future.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Experts say that patient data should be pooled in large databases in an anonymous and standardised form, which they believe would be a promising potential development in the world of medicine. Interested researchers and treating doctors could then access and analyse the data. This would represent a big step forwards for basic medical research and the quality of treatment provided to individual patients in hospitals.

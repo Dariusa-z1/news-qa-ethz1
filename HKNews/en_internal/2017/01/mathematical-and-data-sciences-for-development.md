@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2017/01/mathematical-and-data-sciences-for-development.html
 
-**Date processed:** 2025-05-01
-
 ## Mathematical and Data Sciences for Development
 
 Mathematical sciences are an indispensable discipline for basic and applied sciences, which are preconditions for fostering development. Sound statistics play a crucial role in assessing the state of a nation and devising appropriate policy measures.

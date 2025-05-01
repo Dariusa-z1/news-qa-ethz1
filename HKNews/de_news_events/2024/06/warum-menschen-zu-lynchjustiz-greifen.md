@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/06/warum-menschen-zu-lynchjustiz-greifen.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Anhand eines neuen Datensatzes, der 2818 Lynchfälle in 18 Ländern Lateinamerikas umfasst, untersucht ETH-Forscher Nussio unter welchen Bedingungen es vermehrt zu Lynchjustiz kommt.

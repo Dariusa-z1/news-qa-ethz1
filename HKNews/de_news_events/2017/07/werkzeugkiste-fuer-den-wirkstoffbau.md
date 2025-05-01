@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/07/werkzeugkiste-fuer-den-wirkstoffbau.html
 
-**Date processed:** 2025-05-01
-
 ## Schwer veränderbare Fertigungsstrasse
 
 Pilze scheinen ein schier unerschöpfliches Reservoir für neue Wirkstoffe zu sein. Ein solcher Fundus ist auch der Dunkle Ölbaumtrichterling (Omphalotus olearius) , ein im Mittelmeergebiet häufig vorkommender Pilz, dessen Fruchtkörper in der Nacht fluoresziert.

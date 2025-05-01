@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/07/first-time-in-switzerland-the-55th-chemistry-olympiad.html
 
-**Date processed:** 2025-05-01
-
 ## Five-hour tests and a visit to the Rigi massif
 
 On 16 July, around 350 talented young chemists from some 90 countries will gather on ETH Zurich’s Hönggerberg campus. Having made it through national qualifying heats, they will now compete in the International Chemistry Olympiad (IChO) . The competition is bound to be a once-in-a-lifetime experience for all participants – for many, it will be their first time abroad. For the Swiss candidate, Sabine Isabelle Neuhaus, tensions are mounting, but so is the anticipation. “I’m looking forward to being able to exchange ideas with kindred spirits from other cultures and show them something of Switzerland,” Neuhaus says. She is one of a total of 64 women taking part in the Olympiad, and one of the four talented young chemists representing Switzerland in the competition. Her teammates are: Vivian Michael Huber from Basel, Alex Martinetti from Lugano and Andrin Hauenstein from Uster. Each national delegation is made up of a maximum of four young people under the age of 20.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/03/official-comment.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH Zurich is unable to respond in detail to the allegations made because dismissal proceedings are still ongoing. Nevertheless, it is vital that fundamentally incorrect claims are refuted:

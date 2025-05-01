@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/04/elektronische-karten-inklusive-geodaten-in-der-vorschau-und-zum-download.html
 
-**Date processed:** 2025-05-01
-
 ## Benefit from modern and historical maps
 
 Are you looking for maps for your research, teaching or private holiday travel? Do you need high-resolution and georeferenced data, preferably in open-data form for further use in GIS software? Then browse the new offering of electronic maps . The growing range of digital maps relating to bodies of water, coastlines and more includes, for example, the Geologische Küstenkarte von Niedersachsen: Relief der Holozänbasis (2006) [Geological map of the coast of Lower Saxony: relief of the Holocene base (2006) and the Häfen des Schwarzen Meeres an der asiatischen Küste (nach 1855) [Black Sea ports on the Asian coast (after 1855)] .

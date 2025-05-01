@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/09/neue-professorinnen-und-professoren.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Alle vom ETH-Rat auf Antrag von ETH-Präsident Lino Guzzella ernannten, respektive beförderten Persönlichkeiten haben sich auf ihrem Gebiet bereits einen Namen gemacht. Die neuen Professorinnen und Professoren im Kurzporträt:

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/05/gotthard--felsen-und-tunnel.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Auch in den Beständen der ETH-Bibliothek hat der Gotthard seine Spuren hinterlassen mit:

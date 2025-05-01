@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/06/the-eth-spirit.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 A certain sense of togetherness and pride can be found at ETH Zurich, which motivates people to give their best. But what is behind this ETH spirit and what does it add to the institution, and Switzerland as a whole? We interviewed a number of senior ETH Zurich representatives on this topic for the June edition. We also spent a day on campus listening to the voices of ETH Zurich’s staff and students.

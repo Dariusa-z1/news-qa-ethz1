@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/04/cooling-with-light.html
 
-**Date processed:** 2025-05-01
-
 ## A fine line
 
 Until now, no one has ever cooled a nanoparticle to such low temperatures in a photon cage: Dominik Windey and René Reimann – a doctoral student and postdoc in the group led by Lukas Novotny, Professor of Photonics – have succeeded in cooling a 140 nanometre glass bead down to a few thousandths of a degree above absolute zero.

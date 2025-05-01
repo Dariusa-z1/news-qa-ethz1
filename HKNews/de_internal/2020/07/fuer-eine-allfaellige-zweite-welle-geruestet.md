@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/07/fuer-eine-allfaellige-zweite-welle-geruestet.html
 
-**Date processed:** 2025-05-01
-
 ## Zweiten Lockdown verhindern
 
 In der Schweiz sind mit den Lockerungsmassnahmen seit dem Lockdown die Infektionszahlen wieder angestiegen. Bis jetzt ist aber glücklicherweise die befürchtete zweite Welle ausgeblieben. Um für alle Fälle gerüstet zu sein, hat die Schulleitung in Ergänzung zum Masterplan «Rückkehr zum neuen Normalbetrieb» einen Plan B verabschiedet. Der Masterplan behält seine Gültigkeit, Plan B ergänzt ihn. Er beschreibt verschiedene Szenarien, und wie die ETH darauf reagiert. Die Szenarien wurden bereits im Mai in enger Zusammenarbeit mit den ETH-Professorinnen und -Professoren entwickelt, die in der nationalen Covid-19 Science Task Force mitarbeiten. Daraufhin wurden die Massnahmen mit den Departementen und Zentralen Organen abgestimmt.

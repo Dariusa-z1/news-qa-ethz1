@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/04/impfen-eigene-werte-und-gruppenprozesse-sind-entscheidend.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 (Bild: ETH Zürich)

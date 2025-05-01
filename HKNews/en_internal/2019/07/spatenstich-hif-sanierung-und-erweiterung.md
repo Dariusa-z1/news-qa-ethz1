@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/07/spatenstich-hif-sanierung-und-erweiterung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 According to Professor Thomas Vogel, Head of the Civil, Environmental and Geomatic Engineering department, this campus expansion will bring several disciplines closer together and in general facilitate the further development of the department and its institutes.

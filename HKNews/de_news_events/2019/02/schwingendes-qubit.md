@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/02/schwingendes-qubit.html
 
-**Date processed:** 2025-05-01
-
 ## Periodische Schwingungszustände
 
 Wer einen Quantencomputer bauen will, muss – im doppelten Wortsinn – mit Fehlern rechnen. Die Quanten-Bits oder Qubits nämlich, die gleichzeitig die logischen Zustände 0 und 1 annehmen können und dadurch für schnellere Rechnungen sorgen, sind äusserst störanfällig. Abhilfe kann die Quanten-Fehlerkorrektur schaffen, bei der jedes Qubit in mehrfacher Ausführung, also «redundant» vorhanden ist und Fehler so nachgewiesen und später berichtigt werden können, ohne den fragilen Qubit-Quantenzustand selbst zu stören. Das ist technisch sehr aufwendig.

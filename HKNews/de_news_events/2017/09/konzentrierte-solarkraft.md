@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/09/konzentrierte-solarkraft.html
 
-**Date processed:** 2025-05-01
-
 ## Eine kontrollierbare Erneuerbare
 
 In Sachen Sonnenenergie gibt es zwei Technologien: die konzentrierte Solarkraft (concentrating solar power, CSP) und die Photovoltaik (PV). Noch vor zehn Jahren lagen CSP und PV bezüglich Kosten und installierter Leistung gleichauf. Doch nach dem Hype um das Desertec-Projekt [1] vor etwa fünf Jahren entwickelten sich die beiden Technologien unterschiedlich. Während die Kosten für PV förmlich in den Keller rutschten, sanken die Preise für solarthermische Kraftwerke nur langsam. Heute leistet PV über 300’000 Megawatt (MW); CSP-Systeme liefern lediglich 5000 MW. Während die Photovoltaik also die Welt erobert, fristet die konzentrierte Solarkraft ein eher trauriges Dasein.

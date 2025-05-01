@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/11/e-tutorials-fuer-die-eth-regeln.html
 
-**Date processed:** 2025-05-01
-
 ## Lernen am konkreten Fall
 
 Was ist zu beachten, wenn man an der ETH Zürich etwas beschaffen will? Ab welchem Beschaffungswert braucht es eine Ausschreibung? Und was heisst in diesem Zusammenhang «besondere Beziehungsnähe»? Oder: Was bedeutet es für mich, wenn ein zu beschaffendes Produkt der Exportkontrolle unterliegt? Wie viel darf ich für ein Weihnachtsessen mit meinem Team ausgeben?

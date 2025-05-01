@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/04/neue-methode-der-eisenverabreichung.html
 
-**Date processed:** 2025-05-01
-
 ## Hybrid aus Proteinfasern und Eisen-Nanopartikeln
 
 Weltweit leiden rund 1,2 Milliarden Menschen an Eisenmangel. Betroffen sind in erster Linie Frauen. Jede fünfte europäische Frau um die 20 hat Eisenmangel. Die Folgen: verminderte Leistungsfähigkeit, Müdigkeit, Blutarmut oder Kopfschmerzen.

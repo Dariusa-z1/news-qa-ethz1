@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/01/damage-resilient-nacre-like-composites.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 This resulted in supremely stiff and strong composites, which are now extremely damage resilient as well.

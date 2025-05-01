@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/04/alfred-escher-preis-2020.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Jedes Jahr landet in der Schweiz rund eine Million Tonnen Lebensmittel aus privaten Haushalten im Abfall. Zwar ist das Bewusstsein für Foodwaste in der Gesellschaft in den letzten Jahren gestiegen. Doch mehr als Aufklärung und Aufrufe, das persönliche Verhalten zu ändern, kann dieser enormen Verschwendung bisher kaum entgegengesetzt werden. Der 20-jährigen Solothurnerin Julia Gschwind liess das keine Ruhe. Im Rahmen ihrer Maturaarbeit suchte sie eine Lösung, um dem Missstand an der Quelle Paroli zu bieten – direkt in der Küche der Konsumentinnen und Konsumenten.

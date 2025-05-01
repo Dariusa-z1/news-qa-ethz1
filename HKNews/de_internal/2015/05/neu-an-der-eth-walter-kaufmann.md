@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/05/neu-an-der-eth-walter-kaufmann.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Was hat Sie motiviert, letztes Jahr zurück an die ETH zu kommen? Der Bauingenieurberuf ist sehr vielseitig und abwechslungsreich und bietet täglich neue Herausforderungen. Zudem hatte ich meinen Teil zur erfolgreichen Entwicklung der von mir geleiteten Firma beigetragen. Der Schritt zurück an die ETH Zürich, nach 15 Jahren in der Berufspraxis, war daher keineswegs naheliegend. Ausschlaggebend war für mich einerseits die einmalige Chance, an einer weltweit führenden Hochschule Forschung betreiben zu können.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/09/biologisch-abbaubarer-sensor.html
 
-**Date processed:** 2025-05-01
-
 ## Magnesiumdraht in kompostierbarem Polymer
 
 Ein Team von Forschern um Giovanni Salvatore, Postdoktorand an der Professur für Elektronik, entwickelte nun gemeinsam mit Wissenschaftlern weiterer ETH-Institute einen solchen Bio-Mikrosensor für die Temperaturmessung. Sie berichten davon im Fachmagazin «Advanced Functional Materials». Für den Bio-Mikrosensore schweissten sie einen superfeinen, eng gewundenen Elektrodraht aus Magnesium, Siliziumdioxid und -nitrit in ein kompostierbares Polymer ein. Magnesium ist ein wichtiger Bestandteil unserer Ernährung; Siliziumdioxid und -nitrit sind biokompatibel und wasserlöslich. Das verwendete Polymer wird aus Mais- und Kartoffelstärke produziert und entspricht den EU- und US-Richtlinien für den Einsatz im Lebensmittelbereich.

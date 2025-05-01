@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/01/eth-software-to-become-standard-for-drones.html
 
-**Date processed:** 2025-05-01
-
 ## Gold standard within a few years
 
 The Consumer Electronics Show, the world’s biggest trade fair for consumer electronics and home automation, recently drew to a close in Las Vegas. Cutting-edge model drones aroused particular interest at this year’s show. The latest control platform from Qualcomm Technologies, the market leader in drone processors, is integrated almost invisibly on-board many new devices.

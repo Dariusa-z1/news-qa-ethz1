@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/07/further-delay-in-moving-into-the-new-GLC-building.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The repeated postponement of the handover of the building has become a great burden for teaching, research and cooperation at ETH Zurich in many respects. The Real Estate department is in constant contact with the affected departments and their research groups to keep the negative impact of the delays on teaching and research to a minimum. The main reason for the further delay is the slow progress of construction work. It will therefore not be possible to open the doors of this new building this year as planned. From the perspective of ETH Zurich as the client, this is the fault of the general contractor.

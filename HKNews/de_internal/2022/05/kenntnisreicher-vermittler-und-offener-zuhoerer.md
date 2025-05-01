@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/05/kenntnisreicher-vermittler-und-offener-zuhoerer.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Herr Tröster, kurz zusammengefasst: Was sind die Aufgaben einer Ombudsperson, und welche Fähigkeiten sollte man für dieses Amt mitbringen?

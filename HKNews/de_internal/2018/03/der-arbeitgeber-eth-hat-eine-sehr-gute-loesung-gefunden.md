@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/03/der-arbeitgeber-eth-hat-eine-sehr-gute-loesung-gefunden.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Intern aktuell: Herr Stohler, PUBLICA hat beschlossen, per 1. Januar 2019 die technischen Parameter – den technischen Zins und den Umwandlungssatz – zu senken. Können Sie die Gründe erläutern? Dieter Stohler: Es gibt zwei Aspekte: Einerseits erwarten wir wegen des gesunkenen Zinsniveaus tiefere Anlageerträge. Der zweite Aspekt ist die in der Schweiz weiter steigende Lebenserwartung; eine Rente wird immer länger ausbezahlt. Diese beiden Faktoren führen dazu, dass wir den Umwandlungssatz senken müssen. Für ein gegebenes Alterskapital fällt die Rente tiefer aus.

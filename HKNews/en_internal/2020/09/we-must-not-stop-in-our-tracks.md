@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/09/we-must-not-stop-in-our-tracks.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Julia Dannath-Schuh has been appointed Vice President for Personnel Development and Leadership, Vanessa Wood Vice President for Knowledge Transfer and Corporate Relations (read the press release ). ETH President Joël Mesot comments on this change.

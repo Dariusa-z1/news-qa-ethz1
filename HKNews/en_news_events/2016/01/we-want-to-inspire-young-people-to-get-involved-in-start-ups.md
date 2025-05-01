@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/01/we-want-to-inspire-young-people-to-get-involved-in-start-ups.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH News: Why did the Department of Computer Science hold this World Web Forum Next Generation event? Markus Püschel: With this event, organised together with the canton, eZürich, and the ETH Entrepreneur Club, we wanted to make it possible for attendees to hear prominent speakers and leaders from the digital arena. The active participation of four Swiss start-ups and an interested young audience also provided a fascinating opportunity to share knowledge and expertise. The idea to put on this event came as a result of our involvement in eZürich – a platform for people who want to promote Zurich as a centre for the ICT industry.

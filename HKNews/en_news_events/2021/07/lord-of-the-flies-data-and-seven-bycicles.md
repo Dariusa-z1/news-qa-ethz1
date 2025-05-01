@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/07/lord-of-the-flies-data-and-seven-bycicles.html
 
-**Date processed:** 2025-05-01
-
 ## Trying to outshine his father
 
 The end is in sight. The end of his ETH professorship, research projects and teaching. Ernst Hafen has come to terms with the realisation that he is reaching the end of his time as an active professor. “There are no more loose ends,” he says, seated at the table in his office.

@@ -392,7 +392,6 @@ def process_html_file(html_file, dry_run=False):
     
     # Add metadata section
     markdown_content += f"**Source:** {html_file.relative_to(html_file.parents[3])}\n\n"
-    markdown_content += f"**Date processed:** {pd.Timestamp.now().strftime('%Y-%m-%d')}\n\n"
     
     # Use the structured content if available
     if 'structured_content' in result and result['structured_content']:

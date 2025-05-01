@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/12/zusammenbau-von-proteinkomplexen.html
 
-**Date processed:** 2025-05-01
-
 ## Von Stoffwechselanalysen inspiriert
 
 Zellen stellen eine grosse Anzahl verschiedener Proteinkomplexe her, die ihrerseits aus einer Vielzahl von Einzelproteinen zusammengesetzt sind. Solche Proteinkomplexe wie etwa Ribosomen regulieren fast alle lebenswichtigen biologischen Funktionen einer Zelle.

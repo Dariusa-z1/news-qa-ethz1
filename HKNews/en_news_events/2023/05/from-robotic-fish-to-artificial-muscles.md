@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/05/from-robotic-fish-to-artificial-muscles.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 A robot that moves like a fish, a suit with artificial muscles, a heart-lung machine for babies, and a technique for spinning yarn out of used clothing – these are just four of the ideas that ETH Zurich Bachelor’s students of Mechanical Engineering have pursued as part of focus projects over the past year. On 30 May, the teams will present their products to the public.

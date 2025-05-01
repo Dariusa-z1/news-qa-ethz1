@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/04/flexible-arbeitsplaetze-an-der-eth-pro-oder-contra.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 For many of us, working from home will remain part of our day-to-day lives even after the coronavirus crisis ends. This is leading to changes in the requirements that our work infrastructure has to meet. Flexible workstations could resolve the issue of empty desks in the office. Some major corporations had already introduced desk-sharing to their workplaces prior to the pandemic – and ETH is now planning to trial this concept among various teams in the new Octavo building.

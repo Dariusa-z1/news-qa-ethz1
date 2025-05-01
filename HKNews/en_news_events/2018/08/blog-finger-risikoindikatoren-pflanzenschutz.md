@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/08/blog-finger-risikoindikatoren-pflanzenschutz.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Reducing the risks to humans and the environment from pesticide use is crucial to agricultural and environmental policy worldwide. In Switzerland, two popular initiatives are currently seeking drastic restrictions on the use of pesticides, and in 2017 the Federal Council adopted a national action plan to reduce risks. However, policy measures are only effective if based on measurable and meaningful indicators.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/11/das-gedaechtnis-der-eth-zuerich.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Are you interested in exploring the history of ETH Zurich, or the life and works of prominent scientists such as Nobel Prize winners Albert Einstein or Vladimir Prelog? Then, the ETH Zurich University Archives are exactly the right place for you.

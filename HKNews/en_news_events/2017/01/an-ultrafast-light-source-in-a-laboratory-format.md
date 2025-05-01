@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/01/an-ultrafast-light-source-in-a-laboratory-format.html
 
-**Date processed:** 2025-05-01
-
 ## The mystery of ultrafast reactions
 
 In nature, some processes occur so quickly that even the blink of an eye is very slow in comparison. Many basic physical, chemical and biological reactions take place on the ultrafast time scale of a few femtoseconds (10 −15 s) or even attoseconds (10 −18 s). In molecules, elementary particles, such as electrons or photons, move in a mere 100 attoseconds (10 −16 s).

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/03/globe-der-digitale-schatten-unserer-gefuehle.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Herr Buhmann, werden Computer bald Emotionen haben?

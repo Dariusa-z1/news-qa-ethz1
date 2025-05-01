@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/06/robots-for-comfort-and-counsel.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Alexis Block hugs "Huggiebot". (Photograph: Alexis Block)

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/01/oscar-wuerdige-rauchzeichen.html
 
-**Date processed:** 2025-05-01
-
 ## Enorme praktische Bedeutung
 
 2008 entwickelten die Forscher der ETH Zürich und der Cornell University eine Software, die Rauch und Explosionen in Filmen rasch berechnen und detailreich darstellen kann. Das Ziel der vier Wissenschaftler war primär, ihre Arbeit zu publizieren und an der ACM SIGGRAPH, der wichtigsten Konferenz für Computergrafik, zu präsentieren. Daraus wurde nun weit mehr: An der kommenden Verleihung der «Tech-Oscars», die der Vergabe der Film-Oscars vorausgeht, erhalten Markus Gross, Professor für Computergrafik und Direktor von Disney Research Zurich, sein ehemaliger Postdoktorand Nils Thuerey, Cornell-Professor Doug James und dessen ehemaliger Mitarbeiter Theodore Kim von der «Academy» (AMPAS) für ihre Wavelet Turbulence-Software den «Technical Achievement Award».

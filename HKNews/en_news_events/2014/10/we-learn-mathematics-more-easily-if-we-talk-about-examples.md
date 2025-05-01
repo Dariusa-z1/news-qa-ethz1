@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/10/we-learn-mathematics-more-easily-if-we-talk-about-examples.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 It’s a typical situation at middle school, grammar school or university: you are preparing for a maths exam. Is it worth studying for it in a group, if afterwards it is your own performance that will be judged? And how should group learning work so that each individual subsequently performs better?

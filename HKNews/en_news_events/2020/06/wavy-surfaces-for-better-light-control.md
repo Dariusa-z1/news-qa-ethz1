@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/06/wavy-surfaces-for-better-light-control.html
 
-**Date processed:** 2025-05-01
-
 ## Interference through grooves
 
 To steer and control these light pulses, various technologies are employed. One of the oldest and most important is the diffraction grating, which deflects light of different colours in precisely determined directions. For decades, scientists have been trying to improve the design and production of diffraction gratings to make them suitable for today’s demanding applications. At ETH Zurich, a group of researchers led by David Norris, professor at the Department of Mechanical and Process Engineering, have developed a completely new method by which more efficient and more precise diffraction gratings can be produced. They did this together with colleagues now at the University of Utrecht and the company Heidelberg Instruments Nano, which was founded as ETH spin-off SwissLitho. The researchers published the results in the scientific journal Nature .

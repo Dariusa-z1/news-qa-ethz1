@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/11/switzerland-and-horizon-europe-what-happens-next.html
 
-**Date processed:** 2025-05-01
-
 ## The problem with the transitional solutions
 
 As ETH President Joël Mesot recently warned in the Neue Zürcher Zeitung newspaper , Switzerland risks losing its scientific strength if it does not become an associated country in the Horizon Europe research and innovation funding programme. Detlef Günther, Vice President for Research, reiterated this at an EU GrantsAccess event on the subject: “The longer Switzerland is excluded from Horizon Europe, the more severe the consequences for research and innovation in Switzerland will be.” The exclusion affects not only leading researchers, but especially also the talented individuals who are thinking about whether to come to Zurich or to continue their career in a country that is fully associated in Horizon Europe and where they can apply for European-evaluated ERC Grants.

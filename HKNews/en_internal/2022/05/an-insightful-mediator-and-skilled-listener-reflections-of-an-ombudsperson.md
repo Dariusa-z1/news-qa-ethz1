@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/05/an-insightful-mediator-and-skilled-listener-reflections-of-an-ombudsperson.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Mr Tröster, can you briefly summarise what the duties of an ombudsperson are and what kind of skills should they have?

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/12/new-maps-for-eth-zurich.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 With the launch of the new Public Real Estate Management (PREM) division website, new maps of ETH Zurich were made available at the beginning of the week. A total of four maps are on offer in colour or black and white: Zentrum campus, Hönggerberg campus, locations in the Zurich region, and the more distant university locations.

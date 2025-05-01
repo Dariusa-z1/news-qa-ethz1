@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/11/blog-riener-inklusion-wie-technik-menschen-zusammenbringt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Kinder verhalten sich oft unbeschwert, sind ehrlich und begeisterungsfähig. Dies zeigt sich beispielsweise, wenn sie Menschen mit einem Hörgerät, einer Armprothese oder einer Person im Rollstuhl begegnen. Häufig reagieren Kinder neugierig oder überrascht, sie interessieren sich für die getragene Technik und das körperliche Defizit und sprechen die Personen ganz unverblümt an.

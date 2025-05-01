@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/11/jodversorgung-ueber-muttermilch-der-indirekte-weg-zum-ziel.html
 
-**Date processed:** 2025-05-01
-
 ## Alle Reserven in die Muttermilch
 
 Jod ist für den menschlichen Körper unentbehrlich. Insbesondere bei Säuglingen ist dieses Spurenelement kritisch für eine gesunde Entwicklung. Wachstumsstörungen und Schäden am Nervensystem können die Folge eines Mangels sein. In Jod-Mangel-Gebieten, wie auch der Schweiz mit ihren Jod-armen Böden, wird jodiertes Salz zum Kochen und auch in der Lebensmittelindustrie empfohlen. Über die Muttermilch und Babynahrung mit Jod-Zusatz sind Neugeborene so in der Regel ausreichend mit dem Spurenelement versorgt. Jedoch sind gerade in entlegenen Gebieten in Entwicklungsländern Jod-Salz oder jodierte Babynahrung nicht flächendeckend vorhanden und erreichen die gefährdeten Bevölkerungsgruppen unvollständig.

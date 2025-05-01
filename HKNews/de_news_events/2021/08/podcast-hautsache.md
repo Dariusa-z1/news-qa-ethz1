@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/08/podcast-hautsache.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Was bei einem Mittagessen zwischen ETH-Professorin Sabine Werner und ETH-Professor Edoardo Mazza begann, entwickelte sich zu einem landesweiten, interdisziplinären Konsortium von Forschenden aus verschiedenen Universitäten und Spitälern. Ziel von Skintegrity.CH ist es, Hautkrankheiten und Störungen der Wundheilung zu verstehen und zu behandeln. Sabine und Edoardo sowie Lukas Sommer von der Universität Zürich sprechen über unser grösstes Organ, die Haut - von den kleinsten Bausteinen bis zu ihrer Züchtung. Sie verraten uns auch, wie die Zusammenarbeit in einer so grossen Gruppe funktioniert und warum sie die nächste Generation von Forschenden stärkt.

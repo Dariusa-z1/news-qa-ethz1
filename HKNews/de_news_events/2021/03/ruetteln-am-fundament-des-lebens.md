@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/03/ruetteln-am-fundament-des-lebens.html
 
-**Date processed:** 2025-05-01
-
 ## Kooperation als Erfolgsmodell
 
 Das Leben hat einen langen Weg hinter sich. Vor rund vier Milliarden Jahren bildeten sich Zellvorläufer, sogenannte Protozellen. Daraus entwickelten sich Bakterien und Archaeen, vor zwei Milliarden Jahren entstanden die ersten Eukaryoten, welche die Grundlage für vielzellige, komplexere Organismen waren. Dabei ist nichts geblieben, wie es war. Immer wieder traten Störungen auf: Meteoriten, Vulkanausbrüche, Heiss- und Eiszeiten. Mindestens fünfmal in der Erdgeschichte ereigneten sich Massenaussterben; doch verdrängen liess sich das Leben nicht.

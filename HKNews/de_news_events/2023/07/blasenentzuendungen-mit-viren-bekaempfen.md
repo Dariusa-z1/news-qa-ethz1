@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/07/blasenentzuendungen-mit-viren-bekaempfen.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Basierend auf Bakteriophagen – Viren, welche Bakterien befallen - entwickeln ETH-Forschende einen neuen Schnelltest, um die Erreger von Harnwegsinfektionen schnell und präzise zu identifizieren.

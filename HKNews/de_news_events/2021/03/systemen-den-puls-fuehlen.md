@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/03/systemen-den-puls-fuehlen.html
 
-**Date processed:** 2025-05-01
-
 ## Urbane Systeme: Resilienz erhöhen
 
 Von Haus aus ist Božidar Stojadinović Spezialist für erdbebensicheres Bauen. Heute befasst er sich mit urbanen Systemen und wie man sie resilienter gegen Störungen machen kann. «Systemisches Engineering wurde für die Resilienzforschung immer wichtiger», erklärt der Professor für Strukturdynamik und Erdbebeningenieurwesen. So ist es kein Wunder, dass er nun im Future Resilient Systems Programme in Singapur ein Forschungscluster leitet, bei dem es um alles andere, nur nicht um Erdbeben geht.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/10/zugriff-auf-ueber-2-millionen-zusaetzliche-zeitschriftenartikel.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die folgenden kompletten Archive mit Zeitschriftenartikeln folgender Jahrgänge sind ab sofort neu verfügbar:

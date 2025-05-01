@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/07/improved-security-for-eth-it-infrastructure.html
 
-**Date processed:** 2025-05-01
-
 ## When your computer becomes a threat
 
 It can happen quickly: you click on a link in an email that appears harmless at first glance, and suddenly ransomware is installing in the background. Ransomware is malicious software that encrypts data on vulnerable computers or even extensive parts of an IT network. Cybercriminals then hold the data for ransom, trying to extort individuals or organizations by claiming that they will decrypt the data in exchange for large sums of money. Normally back-ups and security tools are sufficient for restoring the lost data, but this requires that the data had already been properly secured beforehand.

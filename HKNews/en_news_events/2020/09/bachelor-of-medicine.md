@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/09/bachelor-of-medicine.html
 
-**Date processed:** 2025-05-01
-
 ## A plus in the sciences and technology
 
 ETH Zurich has been offering 100 places to study human medicine, each year, since autumn 2017. The Bachelor’s degree course, made possible by the federal government’s special programme for human medicine, was developed from scratch in close collaboration with university and clinical partners. It was initially launched as a pilot project for the five annual cohorts from 2017 to 2021. The first medical students graduated with a Bachelor’s degree this summer.

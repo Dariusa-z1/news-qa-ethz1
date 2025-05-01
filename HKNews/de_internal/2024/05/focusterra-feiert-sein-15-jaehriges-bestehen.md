@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/05/focusterra-feiert-sein-15-jaehriges-bestehen.html
 
-**Date processed:** 2025-05-01
-
 ## Für die Freude an den Wissenschaften und gegen den Genderbias
 
 Seit 2009 bietet focus Terra eine Plattform, um über Wissenschaft an der ETH Zürich zu kommunizieren. In seinen Sonderausstellungen und Aktivitäten, die in Kooperation mit Forschenden entwickelt werden, thematisiert focus Terra Erd-​, Planeten-​ und Naturwissenschaften sowie Technologien und deren Bedeutung für die Gesellschaft. focus Terra setzt sich damit für einen Dialog mit der Öffentlichkeit ein, auch über herausfordernde Themen unserer Zeit.

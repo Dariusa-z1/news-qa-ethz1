@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/08/investing-in-the-future-of-d-bsse.html
 
-**Date processed:** 2025-05-01
-
 ## A boost for personalised medicine
 
 The governments of Basel-Stadt and Basel-Land are looking to assure the continued success of the Department of Biosystems Science and Engineering and to further strengthen collaboration between the University of Basel and ETH Zurich. It is for this reason that, as announced last Tuesday, the cantons have asked their respective parliaments for CHF 5 million. They have set aside CHF 6 million of the total for infrastructure projects, while the remaining CHF 4 million will be allocated to measures aimed at extending research collaboration.

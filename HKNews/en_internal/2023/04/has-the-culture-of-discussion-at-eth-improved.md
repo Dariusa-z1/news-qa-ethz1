@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2023/04/has-the-culture-of-discussion-at-eth-improved.html
 
-**Date processed:** 2025-05-01
-
 ## For
 
 Pius Krütli, Co-director of TdLab at D-USYS

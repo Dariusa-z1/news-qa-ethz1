@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/11/neues-kv-lehrlabor-erleichtert-berufsstart.html
 
-**Date processed:** 2025-05-01
-
 ## Selbstständigkeit als Ziel
 
 Worauf muss ich beim Schreiben einer geschäftlichen E-Mail achten? Wie melde ich mich am besten am Telefon? Und mit welchen Hilfsmitteln kann ich meine Aufgaben planen und Pendenzen im Griff haben?

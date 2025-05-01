@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/10/persistent-identifiers-in-research-highlights.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Vortragsfolien der Veranstaltung sind über die ETH Research Collection verfügbar:

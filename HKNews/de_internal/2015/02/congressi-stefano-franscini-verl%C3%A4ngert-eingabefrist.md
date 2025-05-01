@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/02/congressi-stefano-franscini-verl%C3%A4ngert-eingabefrist.html
 
-**Date processed:** 2025-05-01
-
 ## Konferenzen 2016 im Congressi Stefano Franscini
 
 Congressi Stefano Franscini (CSF), die Kongress-Platform der ETH Zürich seit 1989, hat die Deadline für die Ausschreibung von Konferenzen im Jahr 2016 und für Winterschulen 2015/2016 vom 15. Januar 2015 auf den 8. Februar 2015 verlängert.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/03/bilden-sie-sich-auch-im-homeoffice-weiter.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 For some ETH members, spending time in their home office is a good opportunity for further training. For this purpose, our subject specialists have made a wide selection of options for you:

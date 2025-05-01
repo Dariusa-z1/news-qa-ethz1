@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/02/fostering-scientific-cooperation-with-asia.html
 
-**Date processed:** 2025-05-01
-
 ## Opportunites, Grants and Exchanges
 
 One of the strong features of Swiss science policy is its strategy for bilateral cooperation. While the early focus was on European and North American scientific cooperation, the bilateral programmes have broadened in scope. The State Secretary for Education, Research, and Innovation (SERI) engages ETH Zurich and other Swiss universities and institutes in Leading House mandates to support scientific cooperation and exchange programmes with focus regions in China, South and Southeast Asia, Sub-Saharan Africa, the Middle East, Latin America, and Iran.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/02/carbon-tax-to-finance-teaching-project.html
 
-**Date processed:** 2025-05-01
-
 ## More responsible air travel
 
 Air travel accounts for more than half of ETH Zurich’s CO 2 emissions, but is still considered to be (almost) unavoidable in the globally networked world of science. This dilemma is not only relevant to climate scientists. As part of the ETH-wide initiative to reduce air travel (see box for further information 1 ) we at the Department of Mechanical and Process Engineering (D-MAVT) are also asking ourselves: how can we reduce our flight-related CO 2 emissions without sacrificing scientific quality or reducing the career prospects of researchers? This should be achieved considering that personal interactions between researchers at international conferences are not only very helpful, but also part of the culture.

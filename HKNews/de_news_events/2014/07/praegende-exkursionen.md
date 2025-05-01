@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/07/praegende-exkursionen.html
 
-**Date processed:** 2025-05-01
-
 ## Lernen mit allen fünf Sinnen
 
 Nass, kalt und ungemütlich ist es in Davos Mitte Juli. Auf 2000 Meter über Meer liegt neuer Schnee. Nichtsdestotrotz gehen ein Dutzend Studierende, Assistenten und drei Professoren des Departements Umweltsystemwissenschaften (D-USYS) auf Exkursion. «Böden und Vegetation der Alpen» ist das Thema, wobei sie das Programm dem Wetter anpassen mussten: Statt mit Pflanzen oberhalb der Waldgrenze befassen sich die Studierenden mit Bodentypen und der Vegetation unterhalb davon: Fichtenwald auf saurem, nährstoffarmem, sogenanntem Podsol-Boden, Bergföhrenwald auf Serpentinitgestein.

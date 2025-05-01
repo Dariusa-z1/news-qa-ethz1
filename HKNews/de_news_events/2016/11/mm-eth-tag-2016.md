@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/11/mm-eth-tag-2016.html
 
-**Date processed:** 2025-05-01
-
 ## Ideale der Aufklärung in Gefahr
 
 Was soll die Generation, welche 2030 die ETH mit einem Masterdiplom verlässt, an Wissen und Können mitnehmen? Diese Frage beschäftigt ETH-Rektorin Sarah Springman intensiv. In der neueingeführten Lehr-Policy von 2016 heisst es klar: «Die ETH bereitet ihre Studierenden darauf vor, als eigenständig denkende und verantwortlich handelnde Mitglieder der Gesellschaft die Zukunft zu gestalten.» In ihrer Rede führte Sarah Springman Beispiele wie den Manifesta-Pavillon und die Critical Thinking Initiative an, die zeigen, dass dieser Grundsatz nicht nur ein Papiertiger bleibe.

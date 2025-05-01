@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/10/neu-an-der-eth-jan-vermant.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wie würden Sie Ihre Forschung einem Kind erklären? Kleine Kinder sind in der Regel Experten im Umgang mit weichen Materialien: Sie kennen Eiscreme, aber auch zähflüssige Materialien wie Schleim und Schlamm sehr gut, oder spielen mit Schaum und Seifenblasen. Mit meiner Forschungsgruppe versuche ich zu verstehen, wieso sich weiche, klebrige Materialien so merkwürdig verhalten. Mit diesem Wissen versuchen wir, ihre Eigenschaften zu verbessern, also wie sie zum Beispiel fliessen oder sich verformen. Dieselben Überlegungen, aus denen Spielknete entwickelt wurde, sind erforderlich, um ultra-feste, leichte Polymer-Teile herzustellen. Es ist ein bisschen wie Lego im Kleinformat: Indem wir Bausteine austauschen oder verschieden zusammenstellen, entsteht eine Vielzahl von Strukturen und Funktionen. Und natürlich brauchen wir coole Instrumente mit Laser und Hochgeschwindigkeitskameras.

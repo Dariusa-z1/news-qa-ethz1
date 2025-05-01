@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/08/der-schwierige-balanceakt-der-forschungsfinanzierung.html
 
-**Date processed:** 2025-05-01
-
 ## Das Primat der freien Forschungsförderung
 
 • Transparenz : Auftraggeber, Finanzierungsquellen und Verträge sind jederzeit öffentlich zugänglich und werden auf den Publikationen und in der Kommunikation genannt.

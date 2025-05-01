@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/09/clotta-jubilee-prize-awarded-to-two-eth-professors-in-basel.html
 
-**Date processed:** 2025-05-01
-
 ## Pathogen forecast, like checking the weather
 
 In honour of its 50 th anniversary, the Max Cloëtta Foundation awarded its Jubilee Prize to two ETH Zurich professors, Tanja Stadler and Barbara Treutlein for their outstanding achievements and active research in the field of biomedicine. Both working in ETH Zurich’s Department of Biosystems Science and Engineering in Basel, Switzerland, Stadler and Treutlein will share the award’s endowment valued at 250,000 Swiss francs to fund their future research.

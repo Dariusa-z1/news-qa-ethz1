@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/02/a-highly-accurate-digital-twin-of-our-planet.html
 
-**Date processed:** 2025-05-01
-
 ## Information system for decision-making
 
 To become climate neutral by 2050, the European Union launched two ambitious programmes: " Green Deal " and " DigitalStrategy ". As a key component of their successful implementation, climate scientists and computer scientists launched the " Destination Earth " initiative, which will start in mid-2021 and is expected to run for up to ten years. During this period, a highly accurate digital model of the Earth is to be created, a digital twin of the Earth, to map climate development and extreme events as accurately as possible in space and time.

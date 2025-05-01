@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/01/ertraege-schonend-steigern-aber-wie.html
 
-**Date processed:** 2025-05-01
-
 ## Erträge steigern – Ressourcen und Umwelt schonen
 
 In seinem Beitrag vom letzten Dezember ( Who will be the future farmers? ) beleuchtete Jaboury Ghazoul den global beschleunigten Strukturwandel und die damit verbundene Landflucht. Diese ist eine der Folgen der wirtschaftlichen Entwicklung und wird verstärkt durch die zunehmende Verknappung der Landflächen weltweit. Als Antwort auf die steigende Nachfrage nach Nahrungsmitteln bei gleichzeitigem Rückgang der Landressourcen taucht immer wieder der Begriff der «nachhaltigen Intensivierung» der Landwirtschaft auf. Was bedeutet nachhaltige Intensivierung, und wie kann sie einen Beitrag zur Ernährungssicherheit leisten? (Siehe dazu auch den Blogbeitrag Ernährungssicherheit als System verstehen ).

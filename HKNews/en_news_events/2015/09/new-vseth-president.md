@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/09/new-vseth-president.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Kay Schaller. (Photo: courtesy of K.S.)

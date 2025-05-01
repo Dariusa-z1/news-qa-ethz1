@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/01/detailed-tumour-profiling.html
 
-**Date processed:** 2025-05-01
-
 ## Investigating at the single-cell level
 
 Researchers from the University Hospitals in Zurich and Basel, ETH Zurich, University of Zurich and the pharmaceutical company Roche have set out to improve cancer diagnostics by developing a platform of state-of-the-art molecular biology methods. The “Tumor Profiler” project aims to derive the comprehensive molecular profile of tumours in cancer patients, which has the potential to predict the efficacy of a host of new cancer medications. It will therefore make it possible to offer treating physicians personalised and improved therapy recommendations.

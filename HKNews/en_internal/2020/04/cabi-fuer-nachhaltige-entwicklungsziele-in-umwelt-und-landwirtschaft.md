@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/04/cabi-fuer-nachhaltige-entwicklungsziele-in-umwelt-und-landwirtschaft.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Do you work and conduct research in the area of applied biosciences? Would you like to have instant access to information on all the aspects of a particular subject area? The six CABI Compendia cover animal health and production , aquaculture , crop protection , forestry , horticulture and invasive species . They offer an encyclopaedic resource which brings together a wide range of materials, including thematic journal articles from various publishers, book chapters, reports, case studies, fact sheets, images and (distribution) maps, which now feature a zoom function.

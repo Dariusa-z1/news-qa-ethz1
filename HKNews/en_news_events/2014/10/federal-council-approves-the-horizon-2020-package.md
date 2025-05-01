@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/10/federal-council-approves-the-horizon-2020-package.html
 
-**Date processed:** 2025-05-01
-
 ## Period of association
 
 Partial association, which is in effect until 2016, allows researchers from Switzerland to take part in the different instruments of Horizon 2020 in a variety of ways. Switzerland can be fully involved as an associated country in the following parts of the programme:

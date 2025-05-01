@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/09/video-pixeln-lebendigkeit-einhauchen.html
 
-**Date processed:** 2025-05-01
-
 ## Gemeinsam mit Koryphäen aus anderen Bereichen
 
 Wenn Siyu Tang mit den ETH-Architekturprofessoren Fabio Gramazio und Matthias Kohler im «Flight Assembled Architecture (FAA) Revisited»-Projekt für das Guggenheim Museum Bilbao zusammenarbeitet, vereint die Leiterin der Computer Vision and Learning Group des ETH-Instituts für Visual Computing zwei grosse Faszinationen aus ihrer Jugend: «Bei der Studienwahl stand ich vor der Entscheidung zwischen Architektur und Computer Science. An der ETH kann ich jetzt als Informatikerin mit Weltklasse-Architekten interdisziplinär zusammenarbeiten. Das ist für mich eine perfekte Kombination.»

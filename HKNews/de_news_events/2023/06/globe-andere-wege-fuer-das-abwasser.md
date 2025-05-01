@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/06/globe-andere-wege-fuer-das-abwasser.html
 
-**Date processed:** 2025-05-01
-
 ## Vom Abfall zum Wertstoff
 
 Aus den Augen, aus dem Sinn – und so rasch wie möglich aus den Siedlungen heraus. Seit es Kanalisationen gibt, schwemmen wir unsere Ausscheidungen mit viel frischem Wasser aus Häusern und Städten. Die moderne Wasserwirtschaft zählt zu den grossen Errungenschaften des vergangenen Jahrhunderts. Sie versorgt uns mit sauberem Trinkwasser, entsorgt und reinigt das Abwasser und leitet das Regenwasser aus den Siedlungen ab. «So verschafft sie uns trockene Füsse und hygienische Verhältnisse – zwei Pfeiler der öffentlichen Gesundheit in dicht besiedelten Städten», sagt Max Maurer, Professor für Systeme in der Siedlungswasserwirtschaft an der ETH Zürich und der Eawag, dem Wasserforschungsinstitut des ETH-Bereichs.

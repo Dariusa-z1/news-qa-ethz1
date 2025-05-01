@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/09/new-regulator-for-liver-regeneration.html
 
-**Date processed:** 2025-05-01
-
 ## Advances with proteomics
 
 The liver is a wonderful thing: it’s the only organ able to fully regenerate with no scar tissue formation, even after major injury. In the case of organ donation, it is therefore generally possible to remove part of the donor’s liver and implant it into another patient. Within the space of just a few weeks, the liver grows back to its original size, unless more than two thirds of it is removed. But whenever a donor gives part of the liver to someone else, the sizes of the liver mass are on the threshold of the liver’s regenerative capacity, both for the donor and the recipient. Researchers and medical professionals are therefore keen to discover how to optimise the liver’s unique ability to regenerate. The key to the achievement of this goal is a mechanistic understanding of the repair process, and the identification and functional characterization of the genes involved in the regenerative process.

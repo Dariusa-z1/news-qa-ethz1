@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/11/lightweight-insulating-building-elements-from-a-3d-printer.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • ETH researchers working on the Airlements project are using 3D printing to produce sustainable insulation elements for buildings.

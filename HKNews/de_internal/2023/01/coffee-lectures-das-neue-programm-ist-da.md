@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/01/coffee-lectures-das-neue-programm-ist-da.html
 
-**Date processed:** 2025-05-01
-
 ## Und so funktioniert es
 
 • Neue Open-Access-Publikationsmöglichkeiten 2023 – 08. Februar 2023

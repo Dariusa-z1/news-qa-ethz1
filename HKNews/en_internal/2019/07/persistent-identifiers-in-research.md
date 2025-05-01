@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/07/persistent-identifiers-in-research.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Persistent identifiers (PID) play an instrumental role in ensuring the traceability of digital objects from academia and research on the internet.

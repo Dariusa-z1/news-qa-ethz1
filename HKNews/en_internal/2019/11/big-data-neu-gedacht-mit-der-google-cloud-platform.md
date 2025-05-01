@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/11/big-data-neu-gedacht-mit-der-google-cloud-platform.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Therefore, operationalizing Big Data Analytics is key for companies to go to market faster and gain competitive advantage. Even in the field of machine learning and Artificial Intelligence (AI), data preparation plays a key role.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/07/die-schulleitung-informiert-2022-7.html
 
-**Date processed:** 2025-05-01
-
 ## Studienreglement für den Master-Studiengang Biochemie–Chemische Biologie erlassen
 
 Für den Master-Studiengang Biochemie – Chemische Biologie des D-CHAB hat die Schulleitung das neue Studienreglement 2023 verabschiedet und setzt es auf Beginn des Herbstsemesters 2023 in Kraft. Hintergrund ist der per Herbstsemester 2020 neu eingeführte Bachelor-Studiengang Biochemie – Chemische Biologie , aus dem die ersten Studierenden nun in den Master übertreten.

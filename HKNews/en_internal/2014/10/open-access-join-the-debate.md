@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/10/open-access-join-the-debate.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 • Wednesday, 15 October, 18.15 to 20.00: Open Access: external page Buzzword or Magic Formula? call_made Panel Discussion on the Swiss National Science Foundation's new publication funding. Organised by the UZH Graduate Campus in conjunction with the Zentralbibliothek Zürich.

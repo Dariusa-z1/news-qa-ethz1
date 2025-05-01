@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/08/eth-zuerich-ist-nachhaltigste-hochschule-der-schweiz.html
 
-**Date processed:** 2025-05-01
-
 ## In allen Bereichen etabliert
 
 Universitäten, Fachhochschulen und Pädagogische Hochschulen sind wichtige Akteure für die nachhaltige Entwicklung von Wirtschaft und Gesellschaft. Zum dritten Mal bewertete der WWF Schweiz in einer Vergleichsstudie, wie nachhaltig die Schweizer Hochschullandschaft unterwegs ist. Untersucht wurden zehn Kriterien in den Dimensionen Strategie, Prozesse, Organisation und Stakeholder, die für eine institutionell verankerte Nachhaltigkeit bedeutend sind.

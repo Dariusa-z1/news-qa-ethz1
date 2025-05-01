@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/06/discussion-about-personalised-medicine.html
 
-**Date processed:** 2025-05-01
-
 ## The organisation of data
 
 Personalised medicine explores the fundamentals in order to develop more precise diagnoses and individual therapies for the treatment of diseases. Personalised medicine is based on new findings in biomedicine and advances in information technology, and is an interdisciplinary partnership between medicine, science and engineering. Switzerland and ETH Zurich are well positioned internationally in this field of research.

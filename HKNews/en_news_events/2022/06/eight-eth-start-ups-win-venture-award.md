@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/06/eight-eth-start-ups-win-venture-award.html
 
-**Date processed:** 2025-05-01
-
 ## Artificial intelligence for lawyers
 
 The Venture Awards, one of the leading competitions for Swiss start-ups, celebrates its 25th anniversary this year. Since its inception, the competition, which is partly sponsored by ETH, has supported more than 1,500 start-ups that have led to the creation of over 15,000 jobs. The 262 winners alone have mobilised CHF 2.3 billion in venture capital and published nearly 900 patents.

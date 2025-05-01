@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/02/wer-reflektiert-und-gut-argumentiert-kommt-eher-ans-ziel-.html
 
-**Date processed:** 2025-05-01
-
 ## Echte Probleme statt Übungsbeispiele
 
 Die Studierenden staunten. Erwartet hatten sie einfach ein Feedback auf ihre Arbeit. Im Leadership-Kurs hatten sie ein Monitoring entworfen, mit dem ein Unternehmen ihr Veränderungsmanagement bei Mitarbeitergruppen überprüfen konnte. Nun kam der Konzernchef persönlich an die ETH, und die für das Veränderungsmanagement Zuständigen waren über den Video-Gesprächsdienst Skype zugeschaltet. Dann teilte der CEO den überraschten Studierenden mit, dass ihr Monitoring-Konzept so gut sei, dass die Firma es weiterentwickelt und bereits weltweit in allen Betrieben umgesetzt habe.

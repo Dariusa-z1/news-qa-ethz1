@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/06/oase-fuer-die-familie.html
 
-**Date processed:** 2025-05-01
-
 ## Support fürs Multitasking
 
 Der Alltag zwingt einem manchmal seine eigene Agenda auf. Wenn die vorgesehene Betreuungsperson ausfällt, zum Beispiel krankheitsbedingt, stehen berufstätige Eltern mit Kindern vor einem Problem. Der neue Family Room im Gebäude NO des Departements Erdwissenschaften will Departementsangehörige in dieser Lage unterstützen. «Bei einem Betreuungsengpass können Mitarbeitende trotzdem an die ETH kommen, das eigene Kind mitnehmen und es im Family Room betreuen. Das Bedürfnis wurde im Departement schon länger artikuliert, mit dem Family Room können wir konkret darauf eingehen», freut sich Departementskoordinator Ernst Kreuzer.

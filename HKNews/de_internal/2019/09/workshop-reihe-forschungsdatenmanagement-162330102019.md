@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/09/workshop-reihe-forschungsdatenmanagement-162330102019.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der erste Workshop am 16. Oktober 2019 bietet eine Einführung in die Grundlagen des Forschungsdatenmanagements (FDM) entlang des Datenlebenszyklus und diskutiert die Rolle von Open Science im FDM. Der Workshop beinhaltet

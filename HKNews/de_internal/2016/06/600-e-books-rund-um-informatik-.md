@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/06/600-e-books-rund-um-informatik-.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Das Angebot von Herdt Campus All-you-can-read bietet Angehörigen der ETH Zürich kostenfreien Zugang zu aktuellen Software-Handbüchern.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/02/open-access-weitere-publikationsmoeglichkeiten-fuer-eth-angehoerige.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 To make use of the free open access publishing option with IGI Global and the Journal of Experimental Botany, the corresponding author has to be a member of ETH Zurich.

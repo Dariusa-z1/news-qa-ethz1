@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/04/safety-signage-for-emergency-operation.html
 
-**Date processed:** 2025-05-01
-
 ## Our range of safety signage will comprise
 
 In the new webshop category “Emergency operation – Communication equipment”, you’ll find finished communication materials as well as templates for filling out. These can be used, for example, to create door signs for meeting rooms giving the maximum number of persons or hygiene instructions. Simply place your production order and have the material delivered to an ETH office or directly to your home address, free of charge. It’s as easy as that!

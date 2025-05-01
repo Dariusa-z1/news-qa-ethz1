@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/12/an-institute-with-a-character-all-of-its-own.html
 
-**Date processed:** 2025-05-01
-
 ## Mathematics as the language of dialogue
 
 The Clausiusstrasse leads from the ETH Main Building into the Oberstrass district. As you walk along it, after about four minutes you see two buildings on the left-hand side with red façades and white corner-stones all around. They were built in 1882 and used to be the homes of middle- to upper-class families.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/05/zurich-has-met-ny.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Eine Werbesäule in der Grand Central Station, NY, macht auf das Festival aufmerksam. (Bild: Simone Bucher van Ligten / ETH Zurich)

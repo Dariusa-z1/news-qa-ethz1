@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/04/ernst-hafen-midata.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 As digitalisation continues to progress, personal data is becoming a precious resource. The consolidation of this data and the analysis of data pools promise to open up new opportunities for medical research. Smartphones and sensors (e.g. measuring blood sugar or blood pressure), for instance, can provide real-life data for preventative health, therapy and research.

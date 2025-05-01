@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/11/big-data-study-on-spread-of-flu-launched.html
 
-**Date processed:** 2025-05-01
-
 ## How do people react to information about flu?
 
 How does flu spread and to what extent can individual behaviour stop it in its tracks?

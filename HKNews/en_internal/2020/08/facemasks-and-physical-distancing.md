@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/08/facemasks-and-physical-distancing.html
 
-**Date processed:** 2025-05-01
-
 ## Minimising risk by wearing facemasks
 
 When the new semester kicks off in September, more of us – and many different groups of people – will come together on ETH campuses. Our students will return, and more staff will be back in their offices. In addition, ETH buildings will be fully open to the public again.

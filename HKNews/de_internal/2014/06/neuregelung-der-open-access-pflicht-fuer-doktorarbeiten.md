@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/06/neuregelung-der-open-access-pflicht-fuer-doktorarbeiten.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Im November 2013 hat die ETH Zürich die Doktoratsverordnung revidiert. Die neue Fassung sieht keine Möglichkeit mehr vor, auf die Veröffentlichung der Doktorarbeit über den Dokumentenserver ETH E-Collection generell zu verzichten. Hingegen kann auf Gesuch hin die Veröffentlichung mit einer Sperrfrist von einem oder drei Jahren erfolgen.

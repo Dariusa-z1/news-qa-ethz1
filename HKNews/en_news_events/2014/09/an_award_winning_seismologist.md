@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/09/an_award_winning_seismologist.html
 
-**Date processed:** 2025-05-01
-
 ## Interdisciplinary research into earthquakes
 
 On Friday, 26 September 2014, the cogito Foundation awarded the 2014 cogito Prize to Donat Fäh, a seismologist for the Swiss Seismological Service and a professor at ETH Zurich, at its annual awards ceremony. Professor Fäh had been working on a fresh analysis of the earthquake that hit Basel in 1356. The ceremony was held at the University of Zurich and the award comes with CHF 50,000 in prize money.

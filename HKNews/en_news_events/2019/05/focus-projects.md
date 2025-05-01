@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/05/focus-projects.html
 
-**Date processed:** 2025-05-01
-
 ## Helping others
 
 “As soon as the project was presented, I knew it was the one for me,” says Shuaixin Qi. Since September 2018, the sixth-semester mechanical engineering student has been working alongside 14 other students to build a motorised exoskeleton that enables paraplegics walk. Qi is particularly thrilled to use his expertise to help people.

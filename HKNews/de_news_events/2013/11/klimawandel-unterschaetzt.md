@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/11/klimawandel-unterschaetzt.html
 
-**Date processed:** 2025-05-01
-
 ## Realistischeres Modell
 
 Gelingt es der Menschheit dereinst, den Ausstoss von Treibhausgasen in die Atmosphäre zu stoppen, wird die Klimaerwärmung nach der Ansicht vieler Wissenschaftler zu einem Ende kommen. Es wäre dann auf der Erde zwar wärmer als vor der Industrialisierung, doch immerhin würde es nicht noch wärmer werden. Der Klimaphysiker Thomas Frölicher stellt diese Auffassung nun mit Modellrechnungen infrage und zeichnet in einer in der Fachzeitschrift «Nature Climate Change» veröffentlichten Studie ein pessimistischeres Bild: Laut seinen Modellrechnungen ist es gut möglich, dass die Erwärmung auch nach einem kompletten CO 2 -Emissionsstopp noch während Jahrhunderten weitergeht und sich die Temperatur erst später auf einem noch höheren Niveau einpendelt. «Die Temperaturerhöhung könnte langfristig um ein Viertel stärker ausfallen als bisher angenommen», sagt der Wissenschaftler, der als sogenannter Ambizione-Fellow des Schweizerischen Nationalfonds in der Gruppe von ETH-Professor Nicolas Gruber forscht.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/01/Barrier-free-eth.html
 
-**Date processed:** 2025-05-01
-
 ## New public tours
 
 From now on, it will be much easier for members of the ETH community to create accessible digital content. People often unwittingly build barriers into websites, PDF files, presentations, images or videos: for example, if photos have no alt text (i.e. a short description of the image), videos no subtitles and PDF files no navigation aids, their content isn’t accessible to people with visual or hearing impairments. To ensure everyone is reached in future, both Corporate Communications (through subproject 11 “Accessible communication”) and the Educational Development and Technology department (through subproject 13 “Accessible teaching materials”) have recently started offering regular courses on topics such as “Digital accessibility” and “Accessible pdfs made easy”. The current course overview is available at Internal IT courses.

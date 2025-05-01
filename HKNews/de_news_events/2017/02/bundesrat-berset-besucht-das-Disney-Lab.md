@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/02/bundesrat-berset-besucht-das-Disney-Lab.html
 
-**Date processed:** 2025-05-01
-
 ## Wissenschaft befruchtet Kultur
 
 Der Besuch des Vorstehers des Eidgenössischen Departements des Innern stand ganz im Zeichen der vielfältigen Beziehungen zwischen Wissenschaft, Technologie und Kultur. ETH-Präsident Lino Guzzella empfing zusammen mit Sarah Springman, Ulrich Weidmann und Robert Perich die Gäste aus Bern im Forschungslabor Disney Research Zürich (DRZ), das als Schnittstelle dieser drei Bereiche eine passende Kulisse bot.

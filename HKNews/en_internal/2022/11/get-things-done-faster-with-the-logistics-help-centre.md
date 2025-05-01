@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/11/get-things-done-faster-with-the-logistics-help-centre.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Our online portal gives speedy help and guidance on:

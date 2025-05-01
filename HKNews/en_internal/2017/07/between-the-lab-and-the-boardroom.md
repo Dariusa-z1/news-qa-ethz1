@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2017/07/between-the-lab-and-the-boardroom.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 “I ended up here completely by chance – but it's my dream job,” says Silvio Bonaccio, his eyes lighting up and showing the passion that the 52-year-old has put into managing the ETH transfer staff unit for over 11 years. After a number of intense years training and travelling with Nestlé, Bonaccio – who is from St. Gallen and has a PhD in chemistry – came back to Switzerland for a brief stay. Just as he was planning to head back into the world of international business, a former fellow student told him about a vacancy in “technology transfer” at their old university. The combination of business and natural sciences and the opportunity to share the latest research findings with society were what won over Bonaccio at the time – and he has been fascinated by the same subjects ever since. “I see my work as a great privilege. And I love the variety: every day is different and you can never get bored,” explains Bonaccio.

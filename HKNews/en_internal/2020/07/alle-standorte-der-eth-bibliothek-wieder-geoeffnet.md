@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/07/alle-standorte-der-eth-bibliothek-wieder-geoeffnet.html
 
-**Date processed:** 2025-05-01
-
 ## Locations and opening hours
 
 In addition to the ETH Library in the main building (InfoCenter) and the Architecture and Civil Engineering Library, all other locations are also reopening. The following opening hours apply until further notice:

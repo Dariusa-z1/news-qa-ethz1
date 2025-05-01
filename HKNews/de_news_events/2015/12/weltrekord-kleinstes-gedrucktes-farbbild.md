@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/12/weltrekord-kleinstes-gedrucktes-farbbild.html
 
-**Date processed:** 2025-05-01
-
 ## Bild auf Querschnitt eines Haars
 
 Das ausgedruckte Bild misst gerade mal 0,0092 Quadratmillimeter und hat Seitenlängen von 80 respektive 115 Mikrometern. Dies entspricht der Schnittfläche eines menschlichen Haares oder der Grösse eines einzelnen Pixels eines Retina-Bildschirms von Apple. «Dieses Bild ist so winzig, dass es von blossem Auge nicht mehr sichtbar ist», sagt der ehemalige ETH-Forscher und Scrona-Mitgründer Patrick Galliker, der bei Professor Dimos Poulikakos doktorierte und noch immer mit dessen Institut assoziiert ist. Damit unabhängige, von externe Seite Guinness World Records Limited verifizierte Experten das Mikrobild sehen konnten, mussten sie ein spezielles Mikroskop verwenden.

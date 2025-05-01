@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/08/software-that-helps-us-increase-our-mental-strength.html
 
-**Date processed:** 2025-05-01
-
 ## Mental training for athletes
 
 In her spare time, Meissner enjoys playing table tennis. Between points in the game, she makes a conscious effort to pause for a moment and briefly focus her concentration on one specific part of her body, such as her fingertips. She also plays close attention to her breathing. It’s mental strategies like these that help her stay focused. “There are always moments when I notice a drop in my concentration,” she says. That’s usually when her performance suffers, and she loses a point.

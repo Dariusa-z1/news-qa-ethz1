@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/06/koerpergeruch-verraet-malariainfektion.html
 
-**Date processed:** 2025-05-01
-
 ## Pathogen elicits the strongest odour during reproduction phase
 
 Malaria is and remains a formidable disease that is transmitted to humans by the anopheles mosquito. The pathogen is a protozoan of the genus Plasmodium. If left untreated, malaria can be deadly. However, the plasmodium parasite has a problem: to complete its lifecycle, it must eventually be acquired by another mosquito, which occurs when the insect bites an infected person.

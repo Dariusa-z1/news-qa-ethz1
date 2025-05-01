@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/04/neue-materialien-fuer-nachhaltige-billigbatterien.html
 
-**Date processed:** 2025-05-01
-
 ## Aggressive Elektrolytflüssigkeit
 
 Für die Energiewende braucht es Technologien, um Strom aus erneuerbaren Energiequellen kostengünstig zwischenzuspeichern. Eine vielversprechende neue Möglichkeit sind Aluminiumbatterien. Sie bestehen aus billigen und in grossen Mengen vorkommenden Rohstoffen (siehe Kasten).

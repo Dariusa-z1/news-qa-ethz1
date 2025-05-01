@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/07/people-animals-and-plants-everyone-and-everything-should-feel-at-home.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 When you mention the word “lawn mower” around to Jörg Brenn, his eyes light up. Switching on the motor, engaging the right gear and then simply mowing away – “that’s the part I enjoy most about my work”. Twice a year, Brenn pushes his electric mower over the extensive meadows and green spaces on the Hönggerberg campus. Funnily enough, he does not have a speedy, racing-car-like machine you can sit in, similar to what many a green-fingered hobbyist may like to own.

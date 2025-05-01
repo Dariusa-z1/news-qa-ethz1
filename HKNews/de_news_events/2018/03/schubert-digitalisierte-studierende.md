@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/03/schubert-digitalisierte-studierende.html
 
-**Date processed:** 2025-05-01
-
 ## Und wenn Daten manipuliert werden?
 
 Neuerdings werden in der Lehre an Hochschulen riesige Datenberge erzeugt. Immer mehr Lehrveranstaltungen arbeiten mit elektronischen Plattformen, wie etwa Moodle oder OLAT. Diese Plattformen ermöglichen es aufzuzeichnen, welche Studierende sich wie oft einloggen, um sich mit dem Stoff einer Veranstaltung auseinanderzusetzen, wie lange sich die Studierenden mit bestimmten Übungsaufgaben beschäftigen, wie viele Versuche sie benötigen, um bestimmte Aufgaben richtig zu lösen, usw. Diese Daten erlauben viele spannende Aussagen und können helfen, das Lernen effizienter und erfolgreicher zu gestalten. So weit, so gut…doch einige Fragen tauchen auf, wenn man näher hinschaut.

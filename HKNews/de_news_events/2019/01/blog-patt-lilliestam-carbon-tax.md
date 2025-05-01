@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/01/blog-patt-lilliestam-carbon-tax.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Vor zwanzig Jahren waren sich Wissenschaftler einig, dass die CO 2 -Emissionen im Energiesektor gesenkt werden sollten. Heute besteht ein klarer Konsens darüber, dass die Menschheit ihre CO 2 -Emissionen vollständig eliminieren muss. Die Besteuerung von CO 2 entstand als politisches Instrument, um das erste Ziel zu erreichen – effektiv und effizient. CO 2 -Steuern nützen jedoch relativ wenig für das zweite Ziel. 1

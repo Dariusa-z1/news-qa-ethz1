@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/05/zugriff-auf-erweiterte-inhalte-in-elsevier-zeitschriften.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH members now have access to all journal titles on ScienceDirect . This involves a total of 16 million publications from 2,570 journals.

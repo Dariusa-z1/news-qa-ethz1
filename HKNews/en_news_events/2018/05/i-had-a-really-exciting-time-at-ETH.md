@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/05/i-had-a-really-exciting-time-at-ETH.html
 
-**Date processed:** 2025-05-01
-
 ## Interlinking academia and practice
 
 In his office, one thing stands out above all else: the huge number of books. “I love to read,” says Paul Embrechts, who has written several books of his own – which are now considered standard works in the field. Embrechts is also proud of the fact that the Federal Reserve Bank of Boston (the Fed) invited him to teach 15 of its decision-makers with the aid of his book Quantitative Risk Management . An approachable and down-to-earth individual, Embrechts relished this opportunity to put his expertise into practice.

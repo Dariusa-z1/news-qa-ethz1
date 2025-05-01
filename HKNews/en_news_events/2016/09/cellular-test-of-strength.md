@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/09/cellular-test-of-strength.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Microscopy image of a red fluorescent grid and a cell (upper left), whose interaction with the substrate is visible at its edges in green. The same image is shown on the right and below in different colours. (Photograph: ETH Zurich / Martin Bergert)

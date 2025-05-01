@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/09/kollaborative-lernumgebung-fuer-alle-mitarbeitenden.html
 
-**Date processed:** 2025-05-01
-
 ## Aktive Einbindung in Lernprozess
 
 In einer Welt, die sich rasant verändert und neue Herausforderungen mit sich bringt, braucht es stetigen Wissenserwerb und persönliche Weiterentwicklung, um für die zukünftigen Anforderungen gewappnet zu sein. Genau hier setzt der Lifelong Lerning Hub an, der bis Ende Jahr allen Mitarbeiter:innen via Microsoft Teams zur Verfügung stehen wird: Die Plattform schafft einen Raum, in dem Nutzer:innen die Möglichkeit haben, selbstgesteuert und flexibel auf eine Vielzahl von Lerninhalten zuzugreifen – abgestimmt auf ihre individuellen Bedürfnisse. Die Formatvielfalt reicht von Workshops vor Ort über Podcasts bis hin zu Onlinekursen.

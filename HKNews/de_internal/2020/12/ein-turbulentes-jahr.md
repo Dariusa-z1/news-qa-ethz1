@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/12/ein-turbulentes-jahr.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Fotos entstanden vor der generellen Maskenpflicht auf den Arealen der ETH Zürich.

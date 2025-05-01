@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/12/navigationsgeraet-der-zelle.html
 
-**Date processed:** 2025-05-01
-
 ## Sensor, Prozessor und Motor in einem
 
 Zellen sind oft vor das Problem gestellt, dass sie von einer verheissungsvollen Duftwolke umgeben sind und in die Richtung der Duftquelle wachsen sollten. Nervenzellen beispielsweise bilden lange Fortsätze aus, die von Signalen anderer Zellen angezogen werden, so dass das Netzwerk des Nervensystems entsteht; Fresszellen erkennen die Duftstoffe von Krankheitskeimen, um sie zielgerichtet zu verfolgen und zu vernichten.

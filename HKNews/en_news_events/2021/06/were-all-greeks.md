@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/06/were-all-greeks.html
 
-**Date processed:** 2025-05-01
-
 ## What influences thinking
 
 Should he study history or physics? As a teenager in Athens in the 1970s, Konstantinos Boulouchos was interested in so many things. But while the humanities seemed a bit of a dead end, he was told a physics degree was only good for becoming a teacher, an idea he didn’t quite like either. “And today I find nothing more important than educating young people,” laughs Boulouchos.

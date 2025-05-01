@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/03/peko-jubilee-the-staff-commission-turns-fifty.html
 
-**Date processed:** 2025-05-01
-
 ## A wide-ranging remit
 
 On 1 January 1971, the first ETH Zurich Staff Commission (PeKo) officially started work. Getting to that point wasn’t easy, as initially the Commission encountered strong headwinds. Not everyone was enthusiastic about employees wanting to have a say in the direction and everyday life at ETH. However, PeKo received support from the students, among others, who stood up for the university staff in the course of the movement of 68.

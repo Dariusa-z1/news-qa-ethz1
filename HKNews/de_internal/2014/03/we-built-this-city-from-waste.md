@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/03/we-built-this-city-from-waste.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 «Möglicherweise wird die Stadt der Zukunft gar nicht mehr zwischen Versorgung und Entsorgung unterscheiden (…)» - Mitchell Joachim

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/11/der-velolenker-fuer-die-weltmeisterin.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Flurina Rigling ist eine Überfliegerin im Paracycling: 2023 gewinnt sie in Glasgow den Weltmeistertitel auf der Bahn und der Strasse und drei weitere Medaillen. Dabei fährt die 27-jährige erst seit gut drei Jahren regelmässig Rennvelo.

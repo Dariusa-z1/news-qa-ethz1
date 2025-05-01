@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/10/verhalten-bei-gewalttaten.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 26‘500 Personen haben im Jahr 2015 an der ETH studiert, geforscht, gelehrt und gearbeitet. Somit hat die ETH heute die Grösse einer mittleren Stadt. Dies, ihre Vielfalt und ihre Offenheit bringen es mit sich, dass auf dem Hochschulcampus auch mit dem Auftreten negativer Aspekte unserer Gesellschaft gerechnet werden muss, etwa mit Gewalt. Zwar war dies an der ETH in der Vergangenheit zum Glück nicht der Fall, doch das aktuelle Weltgeschehen zeigt, dass sich auch Hochschulen mit dem Thema Amok befassen müssen. Dies wirft Fragen auf: Wie sollte ich mich in einem solchen Fall verhalten? Wie geht die Polizei vor und welche Vorkehrungen hat die ETH Zürich getroffen?

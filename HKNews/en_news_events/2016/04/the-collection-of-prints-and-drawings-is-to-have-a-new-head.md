@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/04/the-collection-of-prints-and-drawings-is-to-have-a-new-head.html
 
-**Date processed:** 2025-05-01
-
 ## Closer links with research and teaching
 
 Paul Tanner has been Chief Curator of the Collection of Prints and Drawings at ETH Zurich for nearly a quarter of a century. Now the 65-year-old art historian has decided it’s time to retire. “I have always been guided by the four pillars of art collection,” he says as he looks back over his career: “Collect, preserve, research and communicate.” It was important for him to focus on specific areas: “We don’t take one piece from here and another from there – we collect whole groups of works by particular artists.”

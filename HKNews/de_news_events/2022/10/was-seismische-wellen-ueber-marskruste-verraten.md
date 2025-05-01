@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/10/was-seismische-wellen-ueber-marskruste-verraten.html
 
-**Date processed:** 2025-05-01
-
 ## Überraschendes Resultat
 
 Der Marsbebendienst an der ETH Zürich analysiert die Messungen, die das Seismometer der InSight-Mission auf unserem Nachbarplaneten durchführt. Fast drei Jahre lang wurden nur Bebenwellen entdeckt, die sich vom jeweiligen Bebenherd durch den tiefen Mars hindurch ausbreiteten. Die Forschenden hofften jedoch auf ein Ereignis, das auch Wellen erzeugt, die entlang der Planetenoberfläche reisen. Am 24. Dezember 2021 war es soweit: Ein Meteoriteneinschlag auf dem Mars bescherte ihnen die ersehnten Oberflächenwellen.

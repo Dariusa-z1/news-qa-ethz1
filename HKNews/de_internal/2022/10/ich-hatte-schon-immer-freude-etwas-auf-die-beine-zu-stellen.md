@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/10/ich-hatte-schon-immer-freude-etwas-auf-die-beine-zu-stellen.html
 
-**Date processed:** 2025-05-01
-
 ## Die Mitglieder des neuen VSETH-Vorstands
 
 • Emir İşman (Präsident)

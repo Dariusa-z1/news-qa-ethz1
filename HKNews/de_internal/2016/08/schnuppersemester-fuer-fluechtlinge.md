@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/08/schnuppersemester-fuer-fluechtlinge.html
 
-**Date processed:** 2025-05-01
-
 ## Als Hörerin an die ETH
 
 Das «Schnuppersemester für Flüchtlinge» richtet sich an Asylsuchende und Flüchtlinge aus Krisenregionen wie Syrien, Afghanistan oder Eritrea (vgl. aktuelle externe Seite Asylstatistik des Staatssekretariats für Migration), die in Ihrer Heimat ein technisch-naturwissenschaftliches Studium angefangen oder abgeschlossen haben.

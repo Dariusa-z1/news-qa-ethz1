@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/07/blog-freiwillige-klimakompensationen-werden-ihren-versprechen-haeufig-nicht-gerecht.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Innerhalb weniger Jahre ist die freiwillige Klimakompensation zu einem Multimilliarden-Geschäft gewachsen. Firmen und Privatpersonen können damit ihre Treibhausgasemissionen durch Investitionen in Klimaschutzprojekte ausgleichen – über das hinaus, wozu Firmen beispielsweise durch das EU-Emissionshandelssystem gesetzlich verpflichtet sind. Viele von ihnen nutzen diese freiwilligen Kompensationsmöglichkeiten, und nicht wenige behaupten danach, klimaneutral zu sein. Die öffentliche Kritik an diesem Vorgehen wird jedoch schärfer, nachdem immer mehr Studien zeigen, dass beunruhigend viele Kompensationsprojekte wirkungslos sind. So schätzen wir und die Universität Cambridge in einer neuen Studie, dass nur bescheidene 12 Prozent der verkauften Kompensationszertifikate zu tatsächlichen Emissionsreduktionen führen. 1

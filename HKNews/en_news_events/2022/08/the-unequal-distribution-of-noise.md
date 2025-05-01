@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/08/the-unequal-distribution-of-noise.html
 
-**Date processed:** 2025-05-01
-
 ## The similarity ends at the exterior wall
 
 Too much noise is detrimental to health: it leads to sleep disorders, increased blood pressure and cardiovascular disease. Those who are constantly exposed to increased noise levels without protection must even contend with a shorter life expectancy.

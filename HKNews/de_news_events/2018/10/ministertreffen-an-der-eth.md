@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/10/ministertreffen-an-der-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Gründergeist fördern
 
 Im Zuge der Digitalisierung ziehen grosse Firmen Forscher, Erfindungen und Arbeitsplätze aus Europa ab. Was tun die Schweiz und ihre Nachbarn dagegen? Unter anderem darüber unterhielten sich am Dienstag die deutschsprachigen Wirtschaftsminister Europas an der ETH Zürich. Bundesrat und Bildungsminister Johann Schneider-Ammann hatte seine Amtskollegin aus Österreichs und die Amtskollegen Deutschlands Liechtensteins zum traditionellen Vierertreffen in die Schweiz eingeladen.

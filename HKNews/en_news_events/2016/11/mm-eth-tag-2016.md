@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/11/mm-eth-tag-2016.html
 
-**Date processed:** 2025-05-01
-
 ## Enlightenment ideals in danger
 
 What skills and knowledge should the generation leaving ETH with their Master’s degrees in 2030 take with them? ETH Rector Sarah Springman is deeply concerned with this question. The new educational policy, introduced in 2016, clearly states that, “ETH prepares its students to shape the future as independent thinkers and as responsible members of society.” Springman’s speech cited examples such as the Manifesta pavilion and the Critical Thinking Initiative to prove that this policy is not simply a paper tiger.

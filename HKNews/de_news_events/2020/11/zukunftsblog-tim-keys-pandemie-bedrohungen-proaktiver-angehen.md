@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/11/zukunftsblog-tim-keys-pandemie-bedrohungen-proaktiver-angehen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 (Bild: ETH Zürich)

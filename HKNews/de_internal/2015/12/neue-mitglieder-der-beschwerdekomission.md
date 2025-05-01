@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/12/neue-mitglieder-der-beschwerdekomission.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Zusammensetzung ETH-Beschwerdekommission (ab 1. Januar 2016)

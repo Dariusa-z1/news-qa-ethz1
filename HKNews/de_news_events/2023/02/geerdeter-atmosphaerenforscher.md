@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/02/geerdeter-atmosphaerenforscher.html
 
-**Date processed:** 2025-05-01
-
 ## Durch linke Universitätsstadt geprägt
 
 Von Thomas (Tom) Peters Büro hat man eine atemberaubende Sicht auf die Stadt Zürich, den See, den Üetliberg und die Albiskette bis weit in die Alpen. Der Raum zuoberst im Turm des CHN-​Gebäudes der ETH Zürich bietet jedoch nicht nur ein bombastisches Panorama, sondern ist geradezu sinnbildlich für das Forschungsgebiet, welches Peter in den vergangenen 24 Jahren an der ETH verfolgt hat: Atmosphäre und Klima.

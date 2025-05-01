@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/12/we-have-got-a-lot-on-our-plate.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 (Photograph: ETH Zurich)

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/10/ombudspersonen-das-trio-ist-komplett.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Herr Wegscheider, die neuen Ombudsleute Margrit Leuthold und Peter Frischknecht wurden jetzt erstmals von der Hochschulversammlung nominiert. Sind Sie als HV-Präsident zufrieden mit dem Ergebnis? Werner Wegscheider: Ja, sehr. Mich freut einerseits, dass die Schulleitung die Kandidatin und den Kandidaten der HV begrüsst und gewählt hat. Sehr zufrieden bin ich auch, wie wir die Nominierung gestaltet haben. Ausgehend von einer konstruktiven Profildefinition zusammen mit der Schulleitung haben wir in kurzer Zeit ein eigenständiges Verfahren etabliert, das hat sich als tragfähig und wirksam erwiesen hat.

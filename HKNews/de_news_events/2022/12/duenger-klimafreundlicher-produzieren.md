@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/12/duenger-klimafreundlicher-produzieren.html
 
-**Date processed:** 2025-05-01
-
 ## Indien und China gefährdet
 
 Paolo Gabrielli, Senior Scientist am Labor für «Reliability and Risk Engineering» der ETH Zürich hat zusammen mit Lorenzo Rosa, Forschungsgruppenleiter an der Carnegie Institution for Science in Stanford, USA, verschiedene CO 2 -neutrale Herstellungswege von Stickstoffdünger untersucht. In einer in der Fachzeitschrift «Environmental Research Letters» veröffentlichten externe Seite Studie call_made kommen die beiden Forscher zum Schluss, dass ein Wandel bei der Stickstoffproduktion möglich ist und ein solcher unter Umständen auch die Ernährungssicherheit erhöht. Die alternativen Herstellungswege haben aber Vor- und Nachteile. Konkret haben die beiden Forscher drei Alternativen untersucht:

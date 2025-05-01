@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/02/innovation-cannot-be-taught-it-must-be-learned.html
 
-**Date processed:** 2025-05-01
-
 ## Global knowledge for Switzerland
 
 How can research lead to innovation? The Austrian President arrived at ETH Zurich on Friday with a delegation of diplomats and media representatives to find out the answers to this question. The exchange with students and researchers was part of his official visit to Switzerland. In keeping with the theme, ETH President Lino Guzzella greeted Van der Bellen in the LEO building's multifunctional loft, which is used for innovation projects.

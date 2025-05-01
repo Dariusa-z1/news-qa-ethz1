@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/01/special-drone-collects-environmental-dna-from-trees.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Ecologists are increasingly using traces of genetic material left behind by living organisms left behind in the environment, called environmental DNA (eDNA), to catalogue and monitor biodiversity. Based on these DNA traces, researchers can determine which species are present in a certain area.

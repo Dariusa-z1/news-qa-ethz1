@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/11/fast-wie-auf-der-venus.html
 
-**Date processed:** 2025-05-01
-
 ## Experimente mit Magma aus dem Labor
 
 Sähe die Welt heute so aus wie vor viereinhalb Milliarden Jahren, wäre sie kaum wiederzuerkennen. Anstelle von Wäldern, Bergen und Ozeanen war die Oberfläche unseres Planeten damals vollständig von Magma bedeckt, dem geschmolzenen Gesteinsmaterial, das beim Ausbruch von Vulkanen an die Oberfläche kommt. In diesem Punkt sind sich Wissenschaftlerinnen und Wissenschaftler heute einig.

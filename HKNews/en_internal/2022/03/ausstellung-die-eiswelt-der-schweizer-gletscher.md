@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/03/ausstellung-die-eiswelt-der-schweizer-gletscher.html
 
-**Date processed:** 2025-05-01
-
 ## Impressive works
 
 • Exhibition period: 4 April to 6 May 2022

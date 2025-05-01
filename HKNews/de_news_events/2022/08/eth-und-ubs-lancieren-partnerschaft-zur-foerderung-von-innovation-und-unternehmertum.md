@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/08/eth-und-ubs-lancieren-partnerschaft-zur-foerderung-von-innovation-und-unternehmertum.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Innovation ist für den Wohlstand der Schweiz entscheidend. Dabei spielen Wissenschaftsbegeisterung und Unternehmertum eine zentrale Rolle. Erst wenn Forschungsresultate oder gute Ideen in den Markt fliessen, entstehen neue Arbeitsplätze und Lösungsansätze für den gesellschaftlichen und technologischen Fortschritt. Deshalb wollen die ETH Zürich und UBS das Unternehmertum in der Schweiz weiter stärken und Schülerinnen und Schüler für MINT-Fächer begeistern (MINT = Mathematik, Informatik, Naturwissenschaften und Technik).

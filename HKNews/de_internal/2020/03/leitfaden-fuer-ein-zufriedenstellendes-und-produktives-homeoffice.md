@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/03/leitfaden-fuer-ein-zufriedenstellendes-und-produktives-homeoffice.html
 
-**Date processed:** 2025-05-01
-
 ## #Produktivität
 
 • Lassen Sie sich einen bestimmten Arbeitsbereich einrichten und gestalten Sie ihn nach Ihren Bedürfnissen.

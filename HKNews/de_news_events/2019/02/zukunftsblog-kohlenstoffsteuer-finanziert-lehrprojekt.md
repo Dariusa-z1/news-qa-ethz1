@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/02/zukunftsblog-kohlenstoffsteuer-finanziert-lehrprojekt.html
 
-**Date processed:** 2025-05-01
-
 ## Bewusster Fliegen
 
 Flugreisen verursachen mehr als die Hälfte der CO 2 -Emissionen der ETH Zürich, gelten aber in der global vernetzten Wissenschaft zurzeit noch als (fast) unverzichtbar. Dieses Dilemma ist nicht nur für Klimawissenschaftler relevant. Im Rahmen der ETH-weiten Initiative zur Reduktion von Flugreisen 1 stellen wir uns auch am Departement Maschinenbau und Verfahrenstechnik (D-MAVT) die Frage: Wie können wir unsere flugbedingten CO 2 -Emissionen senken, ohne wissenschaftliche Qualität einzubüssen oder die Karrierechancen der Forscherinnen und Forscher zu mindern? Und das in einem Metier, in dem der persönliche Austausch zwischen Forschenden an internationalen Konferenzen nicht nur sehr hilfreich ist, sondern auch zur Kultur gehört.

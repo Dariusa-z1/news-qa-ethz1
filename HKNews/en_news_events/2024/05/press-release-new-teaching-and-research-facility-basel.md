@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/05/press-release-new-teaching-and-research-facility-basel.html
 
-**Date processed:** 2025-05-01
-
 ## In the heart of Basel
 
 When ETH Zurich established a new department in 2007 – in Basel, no less – with the aim of bringing together researchers from three disciplines, the idea was considered daring. “Basel is the life science capital of Europe, and for us this represented an unbelievable opportunity to build something new,” says Sven Panke, head of the Department of Biosystems Science and Engineering. “Health, medicine and data science are among ETH Zurich’s strategic priorities. The Department of Biosystems Science and Engineering brings all of these fields together,” adds Ulrich Weidmann, Vice President for Infrastructure at ETH. “Now with the new facility in Basel, our department can develop its collaboration with local industry and academia so that we can advance medical research together.”

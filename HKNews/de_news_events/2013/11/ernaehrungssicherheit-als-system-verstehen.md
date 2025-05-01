@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/11/ernaehrungssicherheit-als-system-verstehen.html
 
-**Date processed:** 2025-05-01
-
 ## Die Hungerproblematik besteht
 
 Die globale Nahrungsmittelproduktion wächst seit Jahren. Die Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD) und die Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen (FAO) [1] gehen für die nächsten zehn Jahre von einem jährlichen Wachstum von rund 1.5 Prozent aus. Demgegenüber rechnet die UNO mit einer Bevölkerungszunahme bis 2020 von rund 1 Prozent jährlich. Ob die erwartete Produktionssteigerung mit der künftigen Nahrungsmittelnachfrage schritthalten kann, hängt auch davon ab, wie sich die Einkommen und damit verbunden die Konsumpräferenzen verändern werden.

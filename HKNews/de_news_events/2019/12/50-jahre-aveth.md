@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/12/50-jahre-aveth.html
 
-**Date processed:** 2025-05-01
-
 ## Betreuung als zentrales Thema
 
 Was einst als vage Idee begann, ist in 50 Jahren zu einem tragenden Pfeiler der Hochschule herangewachsen: Die «Akademische Vereinigung des Mittelbaus der ETH Zürich» (AVETH) vereint heute Vertreter und Vertreterinnen aus allen Departementen sowie des Singapore-ETH Centre. Sie vertritt die Interessen von Doktorierenden, Postdoktorierenden und wissenschaftlichen Mitarbeitenden in der Hochschulversammlung und in einer Reihe von hochschulinternen Kommissionen. Heute zählt die Organisation 2300 Mitglieder. Das entspricht einem Drittel des rund 6000 Mitarbeitende umfassenden Mittelbaus, wovon der grösste Anteil (rund 4000 Personen) Doktorierende sind. «Die Mitgliederzahl ist im Vergleich zu anderen Hochschulen sehr hoch», freut sich Martin Roszkowski, seit 2017 Präsident der AVETH.

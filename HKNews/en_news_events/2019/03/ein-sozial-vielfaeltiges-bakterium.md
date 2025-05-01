@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/03/ein-sozial-vielfaeltiges-bakterium.html
 
-**Date processed:** 2025-05-01
-
 ## Closely related, yet very different
 
 Many living systems share a fundamental capacity for cooperation. Plants and animals are made up of billions of cells that communicate with one another, carry out specific tasks and share their resources. Many single-celled microorganisms cooperate in similarly versatile ways: they form communities and exchange useful genes and resources among one other.

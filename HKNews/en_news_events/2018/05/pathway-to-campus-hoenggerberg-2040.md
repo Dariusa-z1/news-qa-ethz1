@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/05/pathway-to-campus-hoenggerberg-2040.html
 
-**Date processed:** 2025-05-01
-
 ## Campus Hönggerberg 2040 vision
 
 Over the years since 1961, when ETH Zurich began construction of the first three buildings on the Hönggerberg site, the location has grown to become a diverse urban campus. Several new facilities for teaching, research, and knowledge transfer have been created in the past decade alone. These include a unique digital construction environment that allows research in the field of robotic fabrication in architecture; the Student Project House pilot project space, where students can test their first project ideas; and the Innovation & Entrepreneurship Lab, where young talents can develop their business ideas with entrepreneurial spirit. There are also leisure facilities, such as a sports centre, two student residences with hairdressing salons and bicycle shops, and new catering facilities.

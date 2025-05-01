@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/08/grafikvorlagen-fuer-die-maskenpflicht.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Bereits ab Montag, 24. August, heisst es «Maske auf!» für alle, die sich in den Gebäuden der ETH Zürich bewegen. Dies, um das Risiko einer Ansteckung auf dem Campus angesichts der anhaltend hohen Fallzahlen möglichst gering zu halten.

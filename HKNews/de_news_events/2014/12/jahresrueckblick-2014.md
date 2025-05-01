@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/12/jahresrueckblick-2014.html
 
-**Date processed:** 2025-05-01
-
 ## Januar
 
 Mit einer hauchdünnen Mikroelektronik machten ETH-Elektroingenieure von sich reden. (Bild: P. Rüegg/ETH Zürich)

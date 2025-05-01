@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/08/drought-increases-CO2-concentration.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Land ecosystems absorb on average 30% of anthropogenic CO 2 emissions, thereby tempering the increase of CO 2 concentration in the atmosphere. But plants need water to grow. When a drought occurs and soils dry out, plants reduce photosynthesis and breathe less in order to save water and preserve their tissues. As a consequence, they are no longer able to capture carbon dioxide from the surrounding air and more CO 2 remains in the air. While this effect can be easily observed in the lab, measuring its impact on the whole planet has proved quite difficult. One of the greatest challenges has been to measure where and how often droughts occur globally. In a new study, Vincent Humphrey, climate researcher in the lab of Sonia Seneviratne, Professor for Land-Climate Dynamics at ETH Zurich, used innovative satellite technology to measure the global sensitivity of ecosystems to water stress. The study was carried out in collaboration with the Laboratoire des Sciences du Climat et de l'Environnement (France) and the University of Exeter (United Kingdom).

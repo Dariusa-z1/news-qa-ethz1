@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/09/eine-bauwelt-ohne-zement.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Idee war ausgeklügelt: Die gotische Kathedrale Notre-Dame im Zentrum von Lausanne sollte mit Steinen renoviert werden, die nach dem Abriss einer Überbauung in der Stadt freigelegt würden. Denn die Kirche wurde aus lokalen Steinen gebaut, die heute unter der Stadt liegen. «Dank der Baustelle waren die Ressourcen für eine kurze Zeit wieder zugänglich», sagt Guillaume Habert, ETH-Professor für Nachhaltiges Bauen. Das Projekt wird von einem Doktoranden untersucht, der von Habert und dem Initiator der Idee, einem Architektur-Professor der Genfer Fachhochschule Hepia, betreut wird. Eines steht jedoch jetzt schon fest: «Aus zeitlichen Gründen konnte das Vorhaben nicht umgesetzt werden», bedauert Habert. Bis alles geklärt war, waren die Steine auf der Baustelle bereits zerstört und zu klein für die Renovation. «Doch das Bewusstsein wurde geweckt – ein erster Schritt», freut er sich. «Vielleicht klappt es ein anderes Mal, vielleicht auch in einer anderen Stadt.»

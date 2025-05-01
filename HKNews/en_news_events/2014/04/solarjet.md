@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/04/solarjet.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Several notable research organizations from academia through to industry (ETH Zürich, Bauhaus Luftfahrt, Deutsches Zentrum für Luft- und Raumfahrt (DLR), ARTTIC and Shell Global Solutions) have explored a thermochemical pathway driven by concentrated solar energy. A new solar reactor technology has been pioneered to produce liquid hydrocarbon fuels suitable for more sustainable transportation.

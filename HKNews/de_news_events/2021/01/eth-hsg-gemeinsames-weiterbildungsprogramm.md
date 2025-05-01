@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/01/eth-hsg-gemeinsames-weiterbildungsprogramm.html
 
-**Date processed:** 2025-05-01
-
 ## Weiterbildung mit nachhaltiger Wirkung
 
 Der neue Nachdiplom-Studiengang emba X, der im Februar 2022 startet, vereint die Stärken der Universität St.Gallen in der Weiterbildung für Unternehmensführung, Nachhaltigkeit, Strategie und Firmentransformation mit dem Wissen der ETH Zürich im Bereich Technologiemanagement. Der Studiengang entstand in Zusammenarbeit der Executive School of Management, Technology and Law (ES-HSG) der Universität St.Gallen und des Departements für Management, Technologie und Ökonomie der ETH Zürich.

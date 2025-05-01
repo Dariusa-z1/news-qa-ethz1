@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/05/neue-professoren-und-professorinnen.html
 
-**Date processed:** 2025-05-01
-
 ## Neuernennungen
 
 Dr. Pedro Beltrao (*1979), zurzeit Gruppenleiter am European Bioinformatics Institute des European Molecular Biology Laboratory in Hinxton, Grossbritannien, zum ausserordentlichen Professor für Rechnergestützte Systembiologie am Departement Biologie. Pedro Beltraos Forschung befasst sich mit zellulären Konsequenzen genetischer Variation und deren Einfluss auf Gesundheit und Krankheit. Er erhielt 2015 einen ERC Starting Grant und gilt als einer der führenden Forscher in seinem Gebiet. Mit seiner Berufung ergeben sich wichtige Synergien mit diversen Departementen sowie mit dem Universitätsspital Zürich, insbesondere in Bezug auf den Strategischen Fokusbereich Personalized Health and Related Technologies.

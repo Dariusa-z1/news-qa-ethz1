@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/04/vertical-networking.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Als die National Research Foundation (NRF) in Singapur im Jahr 2009 den Grundstein für die Planung einer gemeinsamen Forschungsstätte legte, unter deren Dach Forschungsgruppen verschiedenster Universitäten angesiedelt sein würden, lag das Augenmerk ganz besonders auf der Einzigartigkeit der angestrebten akademischen Community und auf ihren zukünftigen Interaktionsmöglichkeiten und -chancen.

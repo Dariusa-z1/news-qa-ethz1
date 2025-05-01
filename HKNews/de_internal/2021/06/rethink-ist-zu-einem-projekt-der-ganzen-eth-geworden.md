@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/06/rethink-ist-zu-einem-projekt-der-ganzen-eth-geworden.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Herr Mesot, das Projekt rETHink hat mit dem Abschluss der Analysephase einen ersten Meilenstein erreicht. Was geht in Ihnen vor? Als uns vor gut einem Monat an einer Schulleitungsklausur die Resultate der Analyse präsentiert wurden, war ich überwältigt. Zunächst einmal einfach von der enormen Arbeit, die hier geleistet wurde, und für die ich mich bedanken möchte. Über 600 ETH-Angehörige haben sich in den vergangenen Monaten intensiv mit der Art und Weise beschäftigt, wie wir zusammenarbeiten und organisiert sind. Sie haben dabei ohne Scheuklappen analysiert, welche Stärken wir weiter bewahren wollen und wo wir uns verbessern müssen.

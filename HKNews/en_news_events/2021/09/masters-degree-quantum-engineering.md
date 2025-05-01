@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/09/masters-degree-quantum-engineering.html
 
-**Date processed:** 2025-05-01
-
 ## Wearing two hats
 
 Companies and research centres around the world are ramping up to explore the potential applications of quantum mechanics. To train the required experts in this field, ETH Zurich launched a Master’s degree programme that has won worldwide recognition for its interdisciplinary approach.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/08/eth-library-2017-annual-report.html
 
-**Date processed:** 2025-05-01
-
 ## Quiz on the Annual Report
 
 • In the chapter Services , we present our current service spectrum and the innovative ranges launched in 2017.

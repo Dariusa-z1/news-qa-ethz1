@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/10/a-major-excavation-for-research-into-miniscule-matters.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Work is due to get under way in just a few days: between the HIL and HIT buildings, diggers will begin the pre-excavation for what is currently ETH Zurich’s largest and most complex construction project. Known by the initials HPQ, the new physics building will host ultrasensitive physics experiments that ideally must be shielded from any environmental influences. That’s why the labs that will house the most sensitive experiments will be located six floors underground.

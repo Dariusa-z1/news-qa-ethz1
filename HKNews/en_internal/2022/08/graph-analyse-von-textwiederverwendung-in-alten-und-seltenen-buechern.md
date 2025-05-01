@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/08/graph-analyse-von-textwiederverwendung-in-alten-und-seltenen-buechern.html
 
-**Date processed:** 2025-05-01
-
 ## Pinpoint the origin of certain text passages with Graph
 
 The Plattform Graph , a collaboration between the ETH Library and the Chair of the History and Theory of Architecture at the Institute for the History and Theory of Architecture, visualises patterns of text reuse across a corpus of works to create a map outlining their various connections.

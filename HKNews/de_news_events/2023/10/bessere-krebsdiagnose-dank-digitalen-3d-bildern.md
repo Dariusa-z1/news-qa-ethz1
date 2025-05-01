@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/10/bessere-krebsdiagnose-dank-digitalen-3d-bildern.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Es begann alles mit einer harmlosen Frage zu Beginn der Doktorarbeit von Francesca Catto: Wäre es nicht schön, wenn man Gewebeproben einfärben und als 3D-Bild digital darstellen könnte? Denn in der Histologie, einem Teilgebiet der Pathologie, das sich mit Gewebeveränderungen beschäftigt, wird seit über 100 Jahren analog gearbeitet: Gewebeproben schneidet man in mikrometerdünne Scheiben (etwa siebenmal dünner als ein menschliches Haar) und untersucht sie unter dem Mikroskop auf krankhafte Veränderungen. Diese Technik führt dazu, dass jeder sechste Mensch eine Fehldiagnose erhält und Krebszellen unentdeckt bleiben.

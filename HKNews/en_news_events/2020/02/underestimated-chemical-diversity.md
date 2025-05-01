@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/02/underestimated-chemical-diversity.html
 
-**Date processed:** 2025-05-01
-
 ## Global market
 
 The last time a list was compiled of all the chemicals available on the market and in circulation worldwide, it ran to 100,000 entries. Drawn up shortly after the turn of the millennium, the list focused on markets in the US, Canada and western Europe, which made sense because 20 years ago, these countries accounted for more than two thirds of worldwide chemical sales.

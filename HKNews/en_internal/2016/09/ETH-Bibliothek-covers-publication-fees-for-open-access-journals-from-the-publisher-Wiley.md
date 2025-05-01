@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/09/ETH-Bibliothek-covers-publication-fees-for-open-access-journals-from-the-publisher-Wiley.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The condition is that the corresponding author of the article concerned is employed by ETH Zurich. Only charges for pure open-access journals will be covered.

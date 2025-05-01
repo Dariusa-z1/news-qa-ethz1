@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/12/forschungsdatenmanagement-von-der-theorie-zur-praxis.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der erste Workshop am 30. Januar 2019 bietet eine Einführung in die Grundlagen des Forschungsdatenmanagements (FDM) entlang des Datenlebenszyklus und diskutiert die Rolle von Open Science im FDM. Der Workshop beinhaltet

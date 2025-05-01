@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/02/hirnschlag.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der Hirnstamm (violett) wird nach einem Schlaganfall zu einer wichtigen Schaltstelle. (Graphik: istockphoto.com)

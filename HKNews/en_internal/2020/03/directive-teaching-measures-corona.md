@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/03/directive-teaching-measures-corona.html
 
-**Date processed:** 2025-05-01
-
 ## Scope of teaching content
 
 The changes made relate in particular to detailed provisions on how to handle modifications to the scope of teaching content, failed assessments and the extension of academic deadlines.

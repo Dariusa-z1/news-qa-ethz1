@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/08/design-thinking.html
 
-**Date processed:** 2025-05-01
-
 ## Der Mensch im Mittelpunkt
 
 Fachliche Kompetenzen allein reichen oft nicht aus, um sich im globalen Wettbewerb zu bewähren. Immer häufiger ist der berühmte Blick über den Tellerrand gefragt. Denn die Entwicklung neuer Produktideen erfordert zunehmend interdisziplinäres Denken und Arbeiten. Der neu entwickelte Masterkurs «Design Thinking: Human-Centred Solutions to Real World Challenges» soll Studierenden an der ETH Zürich genau diese Fähigkeiten vermitteln.

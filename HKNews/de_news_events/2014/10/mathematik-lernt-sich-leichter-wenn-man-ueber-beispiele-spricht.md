@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/10/mathematik-lernt-sich-leichter-wenn-man-ueber-beispiele-spricht.html
 
-**Date processed:** 2025-05-01
-
 ## Individuelle Leistung im Vordergrund
 
 Eine typische Schulsituation, Gymnasium oder Universität: Man bereitet ein Mathematikexamen vor. Lohnt es sich, dafür in einer Gruppe zu lernen, wenn nachher die individuelle Leistung benotet wird? Und wie muss man in der Gruppe lernen, damit hinterher jeder Einzelne eine bessere Leistung erbringt?

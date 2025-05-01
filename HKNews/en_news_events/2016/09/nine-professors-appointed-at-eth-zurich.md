@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/09/nine-professors-appointed-at-eth-zurich.html
 
-**Date processed:** 2025-05-01
-
 ## Appointments
 
 Rima Alaifari.

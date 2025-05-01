@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/06/die-schulleitung-informiert.html
 
-**Date processed:** 2025-05-01
-
 ## Erfolgreiches SEC weiter ausbauen
 
 Die Entwicklung des Student Project Houses der ETH Zürich schreitet seit Herbst 2016, als die Pilotstation auf dem Hönggerberg (Gebäude HPZ) eröffnet wurde, gut voran. Die Finanzierung wurde beim Start des SPH im Jahr 2015 auf drei Jahre befristet. Ein entsprechender Antrag für ein jährliches Betriebsbudget in der Höhe von 605'000 Franken für 2019 wurde von der Schulleitung bewilligt. Im Jahr 2020 soll zudem das Student Project House im Fernheizkraftwerk im Zentrum eröffnet werden, das zurzeit umfassend renoviert wird.

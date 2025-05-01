@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/04/mehr-busse-fuer-den-campus-hoenggerberg.html
 
-**Date processed:** 2025-05-01
-
 ## Anliegen aus Quartieren und ETH ernst genommen
 
 Mit Beginn des Herbstsemesters am 17. September 2018 fahren die VBZ mit zusätzlichen 80er-Bussen auf den Campus Hönggerberg. Die vereinbarte Fahrplanänderung gilt jeweils während des Studien- und Prüfungsbetriebs der ETH.

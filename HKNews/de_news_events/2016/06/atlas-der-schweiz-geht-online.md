@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/06/atlas-der-schweiz-geht-online.html
 
-**Date processed:** 2025-05-01
-
 ## Sich frei in 3D-Karten bewegen
 
 Seit der «Atlas der Schweiz» im Jahr 1965 erstmals in gedruckter Form erschienen ist, hat sich viel getan. Die Forschung hat Wissen kräftig vermehrt, die Statistik hat Datenberge angehäuft, der Mensch hat die Technik in allen Belangen vorwärtsgetrieben. Das merkt man auch dem «Atlas der Schweiz» an: Ab Frühsommer 2016 wird diese umfangreiche und mehrfach preisgekrönte Sammlung spezieller Themenkarten über die Schweiz erstmals kostenlos im Internet veröffentlicht. Die Zeit des Papiers oder der Silberscheiben ist damit auch für dieses Atlaswerk vorbei. Die Daten müssen dabei nicht auf dem eignen PC installiert werden, sondern können mit Hilfe einer App – einem Miniprogramm, das beim Anzeigen der Daten hilft – bequem abgerufen werden.

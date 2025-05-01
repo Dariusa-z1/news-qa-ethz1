@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/11/aufgeschoben-statt-aufgehoben.html
 
-**Date processed:** 2025-05-01
-
 ## Super-Taifun prägt Konferenz
 
 Ich bin diesen Sommer von den Industrieländern als sogenannter Co-Facilitator des Structured Expert Dialog [1] für die UN-Klimakonferenz in Warschau gewählt worden. Meine Aufgabe war und ist es, neueste wissenschaftliche Erkenntnisse, wie sie etwa im fünften IPCC-Bericht dargestellt sind, in die Verhandlungen einzubringen. Dabei wird das 2010 beschlossene Schutzziel überprüft [2], nämlich die globale mittlere Erwärmung unter zwei Grad Celsius gegenüber vorindustriellem Klima zu halten. Mehrere Länder, insbesondere die Inselstaaten, fordern, diese Erwärmungsgrenze auf 1.5 Grad zu senken.

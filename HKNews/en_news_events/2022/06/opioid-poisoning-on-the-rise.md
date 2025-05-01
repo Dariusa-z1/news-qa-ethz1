@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/06/opioid-poisoning-on-the-rise.html
 
-**Date processed:** 2025-05-01
-
 ## Sales doubled
 
 Since the early 2000’s the US has been in the grip of an opioid crisis that has been exacerbated by the Covid pandemic – in 2021, more than 100,000 people died of an opioid overdose in the country. There are increasing signs that the same crisis is taking hold in Europe. Initial studies from the Netherlands and Denmark have drawn attention to the rise in the use of the strong opioid oxycodone. This substance, originally sold under the name OxyContin, was the major driver of the opioid crisis in the USA.

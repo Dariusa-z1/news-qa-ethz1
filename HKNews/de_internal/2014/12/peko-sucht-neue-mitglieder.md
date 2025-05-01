@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/12/peko-sucht-neue-mitglieder.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wollen Sie sich aktiv für die Anliegen des Personals einsetzen?

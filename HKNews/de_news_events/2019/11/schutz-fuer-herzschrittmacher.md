@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/11/schutz-fuer-herzschrittmacher.html
 
-**Date processed:** 2025-05-01
-
 ## Weniger Bindegewebe dank Mikrostruktur
 
 Eine von ETH-Wissenschaftlern entwickelte spezielle Zellulose-Schutzhülle verringert die Bildung von Bindegewebe rund um einen implantierten Herzschrittmacher deutlich, wie Wissenschaftler in der aktuellen Ausgabe des Fachmagazins externe Seite Biomaterials berichten. Operationen bei Patienten mit Herzschrittmacher dürften sich dadurch wesentlich vereinfachen.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/07/der-schulleitungsbereich-forschung-hat-sich-neu-aufgestellt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Abteilung Wissenschaftliche Integrität und Forschungsethik (Leitung Gérald Achermann) unterstützt die Forschenden bei der Anwendung der Grundprinzipien der wissenschaftlichen Integrität sowie der Einhaltung der forschungsspezifischen ethischen und gesetzlichen Standards. Sie sorgt in ihrem Zuständigkeitsbereich für die Erarbeitung von Richtlinien sowie für die Etablierung und Weiterentwicklung geeigneter Strukturen und Prozesse. Die Abteilung unterteilt sich in drei themenbezogene Fachstellen:

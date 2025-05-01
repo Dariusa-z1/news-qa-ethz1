@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/10/blog-siegwart-mooresches-gesetz.html
 
-**Date processed:** 2025-05-01
-
 ## Different laws for the real world
 
 I was recently at Swiss Startup Day where I attended a video presentation given by Peter Diamandis. This charismatic American is founder and CEO of the XPRIZE Foundation, which runs competitions to award technical and scientific breakthroughs. Diamandis gave a flowery explanation of the “disruptive innovation" made possible by the exponential increase in computing power and volume of available data. He referred to Moore’s Law, which shows how processing power per microchip has doubled roughly every 18 months since 1971.

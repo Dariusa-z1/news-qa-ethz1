@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/03/germaine-de-stael-zusammenarbeit-mit-frankreich.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Das «Germaine de Staël»-Programm des Bundes fördert die bilaterale Forschungszusammenarbeit zwischen der Schweiz und Frankreich. Es steht allen Forschungsdisziplinen offen.

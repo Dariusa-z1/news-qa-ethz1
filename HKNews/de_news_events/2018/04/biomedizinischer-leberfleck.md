@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/04/biomedizinischer-leberfleck.html
 
-**Date processed:** 2025-05-01
-
 ## Kalziumüberschuss stösst Melaninproduktion an
 
 Krebs ist in den Industrieländern heutzutage nebst Herzkreislauferkrankungen Todesursache Nummer eins. Viele Betroffene erhalten die Diagnose erst dann, wenn ein Tumor bereits weit fortgeschritten ist. Dies schmälert die Aussichten auf Heilung oft massiv: Bei Prostatakrebs liegt die Heilungsrate bei 32 Prozent, bei Dickdarmkrebs bei nur gerade 11 Prozent. Könnte man solche Tumore zuverlässig und frühzeitig entdecken, würde das nicht nur Leben retten, sondern auch die Zahl von teuren und belastenden Therapien verringern.

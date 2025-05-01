@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/05/sechs-eth-spin-offs-erhalten-wa-de-vigier-preis.html
 
-**Date processed:** 2025-05-01
-
 ## Jury lud 60 Startups zum Wettbewerb ein
 
 Als der W.A. de Vigier Preis vor 30 Jahren zum ersten Mal verliehen wurde, lernten viele der diesjährigen Preisträger gerade erst laufen. Niemand redete damals über die Startup-Förderung. Stiftungsgründer Bill de Vigier wusste aus eigener Erfahrung, wie wichtig Startkapital ist und setzte sich zum Ziel, vielversprechenden Startups den Weg zu ebnen. Er war einer der Ersten überhaupt, der sich in der Schweiz institutionell um die Startup-Förderung kümmerte. Seit drei Jahrzehnten verleiht die W.A. de Vigier Stiftung diesen höchstdotierten Förderpreis der Schweiz unabhängig und ohne jegliche an den Gewinn geknüpfte Bedingungen.

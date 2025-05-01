@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/02/wir-bleiben-auf-der-vorsichtigen-seite.html
 
-**Date processed:** 2025-05-01
-
 ## Weiterhin Vorsicht walten lassen
 
 Nachdem der Bundesrat sämtliche Corona-Einschränkungen aufgehoben hat (mit Ausnahme der Isolation und der Maskenpflicht im Öffentlichen Verkehr und in Gesundheitseinrichtungen), kehrt die ETH Zürich ab sofort zu einem weitgehend uneingeschränkten Betrieb zurück. «Wir bleiben aber noch für ein paar Wochen auf der vorsichtigen Seite», sagt Vizepräsident Ueli Weidmann als Leiter des Krisenstabs zum Massnahmenbündel, das ab Semesterbeginn gilt.

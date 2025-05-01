@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/10/open-space-for-university-district.html
 
-**Date processed:** 2025-05-01
-
 ## Enhancing the spaces between the new buildings
 
 The Building Department has set out the three cantonal design plans: USZ Core Area East, USZ/ETH Schmelzberg site and UZH Wässerwies. They stipulate the maximum scope in terms of number, location, external dimensions, use and purpose of the planned buildings. The planning stage for Zurich’s central university district (HGZZ) is thus complete, although the outcome of the three submissions remains to be seen.

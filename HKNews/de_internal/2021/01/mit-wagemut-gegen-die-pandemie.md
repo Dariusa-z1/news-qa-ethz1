@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/01/mit-wagemut-gegen-die-pandemie.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Angefangen hat alles im April, als die erste Pandemiewelle ihren Höhepunkt fand: Hygienemasken waren dank Corona plötzlich sehr gefragt. Alarmiert von den Engpässen in der Schweiz, nahmen sich die Brüder Gabriel und Rafael Sonderegger vor, die Sache in die eigene Hand zu nehmen. Zuerst hatten sie die Idee, Masken aus dem Ausland zu importieren. Doch als dann zahlreiche Länder ein Exportverbot verhängten, mussten sie umdenken: Sie beschlossen, eigene Masken mit dem Schweizer Gütesiegel zu produzieren und abzusetzen.

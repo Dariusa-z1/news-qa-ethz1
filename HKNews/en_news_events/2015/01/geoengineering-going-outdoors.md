@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/01/geoengineering-going-outdoors.html
 
-**Date processed:** 2025-05-01
-
 ## Field experiments
 
 Climate science is giving a clear signal that action has to be taken to halt global warming. Rising greenhouse gas emissions are driving us towards a climate with negative consequences for society in most parts of the world, for instance through an increase in weather extremes. The fact that we still do not have any binding agreements on reducing greenhouse gases is pushing part of the scientific community towards researching technological fixes for the climate problem – geoengineering.

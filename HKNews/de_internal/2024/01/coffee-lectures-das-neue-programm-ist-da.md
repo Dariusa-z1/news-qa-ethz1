@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/01/coffee-lectures-das-neue-programm-ist-da.html
 
-**Date processed:** 2025-05-01
-
 ## Und so funktioniert es
 
 Sie erhalten in 15 Minuten kurz und kompakt Input zu einem spezifischen Thema und haben anschliessend Zeit für Fragen. Genau die richtige Dauer, um dabei einen Kaffee zu geniessen und die Menschen hinter der ETH-​Bibliothek kennenzulernen.

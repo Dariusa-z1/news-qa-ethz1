@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/11/wirkungsweise-wichtiger-katalysatoren-entschluesselt.html
 
-**Date processed:** 2025-05-01
-
 ## Surface chemistry plays a decisive role
 
 Hydrogen is a key element for achieving sustainable mobility in the future, especially “green” hydrogen produced by splitting water using renewable power. In fuel cells, hydrogen can be used in chemical reactions to generate electrical energy, which in turn can power electric motors. It is also used in the production of synthetic liquid fuels.

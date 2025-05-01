@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/03/Kooperieren-fuer-bessere-Nahrungsmittel.html
 
-**Date processed:** 2025-05-01
-
 ## Inspiration from practical experience
 
 Shelves filled every day with high-quality and sustainably produced food – this is not simply a matter of course. Coop has not only positioned itself as a supplier of sustainably produced food, it is also committed to finding new solutions in the field of resource-efficient food production through the Coop Sustainability Fund. By making a financial contribution to the ETH Zurich Foundation, Coop supports ETH Zurich and the members of the World Food System Center (WFSC). “Coop takes great interest in supporting research that benefits customers directly,” says Sibyl Anwander, Head of Sustainability & Economic Policy at Coop.

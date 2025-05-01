@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/05/die-eth-gastronomie-in-corona-zeiten.html
 
-**Date processed:** 2025-05-01
-
 ## Homeoffice und Kurzarbeit
 
 Es kam wie ein Schock. Von einem Tag auf den anderen hiess es im März letzten Jahres: Lockdown. Über Nacht wurden sämtliche Restaurants mit sofortiger Wirkung geschlossen, auch die 20 Restaurants an der ETH. «Es war eine einmalige, bewegende Situation», fasst Pia Fach, Geschäftsführerin Gemeinschaftsgastronomie Schweiz bei der externe Seite SV Group , diesen Tag zusammen. Die SV Group ist, nebst der Compass Group, die grösste Betreiberin von Restaurants an der ETH. Zu ihr gehört u.a. die Mensa Polyterrasse, der Polysnack und der foodmarket auf dem Hönggerberg. «Unsere Mitarbeitenden identifizieren sich stark mit der ETH. Dass wir sie an diesem Tag alle auf unbestimmte Zeit nachhause schicken mussten, war sehr schwierig für sie.»

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/02/neu-an-der-eth-walter-karlen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wie würden Sie einem Kind Ihr Forschungsgebiet erklären? Wir entwickeln Computerprogramme, die helfen zu beurteilen, ob du krank bist oder nicht. Das coole dabei ist, das wir diese Programme auf dem Handy installieren und dessen Sensoren nutzen können. Wenn du beispielsweise Husten hast und dich krank fühlst, könnte deine Mutter mit Hilfe ihres Handy entscheiden, ob du im Bett bleiben oder besser zum Arzt gehen sollst. Unsere Systeme funktioneren ähnlich wie der Tricorder des Schiffsarztes Dr. McCoy auf dem Raumschiff Enterprise.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/08/forschungsdatenmanagement-und-verwandte-themen-know-how-fuer-ihr-forschungsprojekt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 • The first course teaches the basics of research data management and how to apply them. This will constitute the foundation of your own research project.

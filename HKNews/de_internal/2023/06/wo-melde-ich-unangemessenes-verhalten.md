@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/06/wo-melde-ich-unangemessenes-verhalten.html
 
-**Date processed:** 2025-05-01
-
 ## Anonymes Meldeformular hilft bei Prävention
 
 Es ist wichtig, dass Fälle von Diskriminierung, Belästigung oder anderes Verhalten, das gegen den Verhaltenskodex Respekt verstösst, der Institution gemeldet werden. Denn nur, wenn die ETH weiss, wo Missstände auftreten, kann sie sich kontinuierlich verbessern.

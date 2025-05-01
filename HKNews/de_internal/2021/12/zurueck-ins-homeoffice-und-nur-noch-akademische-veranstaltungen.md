@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/12/zurueck-ins-homeoffice-und-nur-noch-akademische-veranstaltungen.html
 
-**Date processed:** 2025-05-01
-
 ## Homeoffice wieder Pflicht
 
 Nach den jüngsten Beschlüssen des Bundesrates passt die ETH Zürich ihre Corona-Regeln an. Die Massnahmen treten ab Montag, 20. Dezember in Kraft. Der Masterplan wird im Laufe der Woche aktualisiert und auf der Corona-Website aufgeschaltet.

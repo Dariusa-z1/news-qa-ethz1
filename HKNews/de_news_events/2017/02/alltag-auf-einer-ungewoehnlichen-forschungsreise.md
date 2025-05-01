@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/02/alltag-auf-einer-ungewoehnlichen-forschungsreise.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Nach 14 Wochen auf der Akademik Treshnikov könnte man meinen, unsere Forschungsfahrt rund um den kalten Kontinent sei genauso monoton wie die ewig eisige Landschaft und das raue Meer, das uns umgibt. Tatsächlich ist vieles alltäglich geworden: Jeden Morgen rufe ich den neusten Wetterbericht von unseren Kolleginnen an der ETH ab, täglich kontrolliere ich die Geräte für unsere Messungen, nachmittags gibt es ein Work-out auf dem Helideck, regelmässig starten wir die Wetterballone, und abends überprüfe ich, ob im Labor alles gut befestigt ist.

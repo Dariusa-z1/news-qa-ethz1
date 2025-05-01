@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/04/hindernisfreie-eth-kampagne-design-for-all.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Bereits 2014 hat die Schweiz die externe Seite UNO-​Behindertenrechtskonvention (UNO-​BRK) in Kraft gesetzt. Nichtsdestotrotz sind Menschen mit Behinderungen weiterhin täglich mit Hindernissen konfrontiert: Sei es beim Zugang zu Gebäuden, zu Informationen oder zu Veranstaltungen.

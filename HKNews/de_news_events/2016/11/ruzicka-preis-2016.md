@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/11/ruzicka-preis-2016.html
 
-**Date processed:** 2025-05-01
-
 ## Neues Konzept für mehr Sicherheit
 
 Katalysatoren sind für die Auslösung und die Ablaufgeschwindigkeit chemischer Reaktionen von grosser Bedeutung. Mit der Entwicklung neuer und nachhaltiger Konzepte in der Katalyse befasst sich der diesjährige Ruzicka-Preisträger Bill Morandi. Gemeinsam mit seiner Forschungsgruppe arbeitet er neue Methoden aus, die unter anderem in der Pharmaindustrie die Herstellung neuer Medikamente effizienter und sicherer gestalten. Seit 2014 leitet der junge Schweizer Forscher die Gruppe «Homogene Katalyse und Reaktionsdesign» am Max-Planck-Institut für Kohlenforschung.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/06/sechs-eth-forschende-mit-advanced-grants-ausgezeichnet.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der Schweizerische Nationalfonds (SNF) hat im vergangenen Jahr Advanced Grants ausgeschrieben, zu denen sich etablierte Forschende von Schweizer Hochschulen für die Finanzierung eines zukunftsweisenden, originellen, bedeutenden oder zuweilen auch risikoreichen Projekts bewerben konnten. Von den 232 eingereichten Projekten hat der SNF deren 24 zur Finanzierung ausgewählt. Sechs davon sind Projekte von Professorinnen und Professoren der ETH Zürich.

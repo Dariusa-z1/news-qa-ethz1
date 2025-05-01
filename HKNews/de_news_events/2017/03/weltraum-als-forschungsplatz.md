@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/03/weltraum-als-forschungsplatz.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Ausgelassene Freude herrscht im Büro des Spin-offs «IRsweep» am Institut für Quanten Elektronik auf dem ETH Campus Hönggerberg. Deren Gründer Andreas Hugi, Markus Geiser und Markus Mangold sowie ihre drei Mitarbeitenden hatten allen Grund zum Feiern: Zusammen mit sechs anderen Start-ups – darunter vier weiteren Firmen der ETH Zürich – im Bereich Raumfahrttechnologien und –anwendungen wurde IRsweep für das ESA BIC Switzerland Förderprogramm ausgewählt. Die Unternehmen profitieren in einer ersten Phase von einem Unterstützungsbeitrag in Höhe von 50‘000 Euro. Zusätzlich erhalten die Start-ups technologische und betriebswirtschaftliche Förderung vom breiten Partnernetzwerk von ESA BIC Switzerland. Die in der zweiten Förderrunde ausgewählten Spin-offs sind externe Seite Pristem von der EPFL und externe Seite Skypull aus dem Tessin sowie die fünf ETH Zürich Firmen externe Seite IRsweep , externe Seite Anybotics , externe Seite Diramics , externe Seite Embotech und externe Seite Fixposition . Die Start-ups überzeugten sowohl mit bahnbrechenden Technologien als auch mit Businessplänen und Geschäftspotential.

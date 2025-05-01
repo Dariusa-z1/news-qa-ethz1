@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/09/how-a-suction-cup-delivers-medications-to-the-bloodstream.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • The suction cup developed by ETH researchers allows for the painless administration of medications that previously could only be injected.

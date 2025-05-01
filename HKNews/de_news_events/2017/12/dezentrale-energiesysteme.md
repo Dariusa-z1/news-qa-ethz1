@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/12/dezentrale-energiesysteme.html
 
-**Date processed:** 2025-05-01
-
 ## H2 und Batterien speichern Sonnenenergie
 
 Thermale Solaranlagen wärmen das Duschwasser und den Fussboden, der Aufzug fährt mit Sonnen- und Windenergie, und was heute an Strom nicht verbraucht wird, ist für morgen in Batterien gespeichert oder für nächsten Monat in Form von Gas verfügbar. Und wenn die eigenen Energiereserven einmal nicht reichen, hilft die Batterie von Nachbars Elektroauto aus.

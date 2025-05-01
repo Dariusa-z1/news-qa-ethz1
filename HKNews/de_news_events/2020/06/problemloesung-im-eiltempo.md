@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/06/problemloesung-im-eiltempo.html
 
-**Date processed:** 2025-05-01
-
 ## Kampf gegen Engpässe
 
 Ab Ende März wurden im Rahmen der Initiative helpfulETH in einer Studierendenwerkstatt auf dem Campus Hönggerberg Gesichtsschutzmasken für Spitäler produziert (siehe ETH-News vom 7.4.2020). Mittlerweile wurde das Projekt ausgeweitet und in die industrielle Produktion überführt. ETH-Angehörige haben zusammen mit der HSR Rapperswil, Geberit und Swiss Prime Pack eine Produktionskette geschaffen, die so organisiert ist, dass sie bei Bedarf mindestens 1000 dieser Faceshields pro Tag herstellen kann. Das Projekt konnte seit März bereits rund 20 Spitäler und Pflegeeinrichtungen unterstützen. Es fusst auf einem Bedürfnis, das in der Corona-Krise von Ärzten gemeldet worden ist.

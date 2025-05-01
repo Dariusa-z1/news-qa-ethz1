@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/06/vier-neue-peko-mitglieder-gewaehlt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Vier neue Gesichter für die Personalkommission (PeKo): Madalina Jaggi (D-ERDW), Sabine Hoffmann (ID), Christian Mimjähner (Campus Services) und Daniel Firsching (FC) heissen die neuen Mitglieder in der PeKo. Ihre Wahl ist im Mai erfolgt. Alle vier neu Gewählten kennen die ETH und ihre Kultur seit Jahren und vervollständigen das Know-how der PeKo mit ihren Kompetenzen. Die neuen Mitglieder treten ihr Amt im Juni an. Gewählt sind sie für die neue Amtsperiode von 2022-2026. Ebenfalls für diese Amtsperiode – einstimmig – wiedergewählt wurde Christopher Sauder Engeler als PeKo-Präsident.

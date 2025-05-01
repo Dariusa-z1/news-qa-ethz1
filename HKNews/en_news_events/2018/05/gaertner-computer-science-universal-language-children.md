@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/05/gaertner-computer-science-universal-language-children.html
 
-**Date processed:** 2025-05-01
-
 ## Much more than a computer and a screen
 
 Computer science is a part of general education. If we are to take this seriously, there are far-reaching implications – it means, for instance, we should teach it to our children in the same way as the other basic school subjects. One of which is, of course, mathematics – for who wouldn't want their child to be able to add two and two? I consider it just as important that our children don’t grow up illiterate in computer science.

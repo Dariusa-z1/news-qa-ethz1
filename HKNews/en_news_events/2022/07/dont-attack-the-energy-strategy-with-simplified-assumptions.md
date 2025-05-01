@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/07/dont-attack-the-energy-strategy-with-simplified-assumptions.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Earlier this month, the Neue Zürcher Zeitung newspaper reported that huge dependence on electricity imports in winter was imminent if the Swiss federal government went through with the Energy Strategy including nuclear phase-out. A non-peer-reviewed working paper by ETH risk researcher Didier Sornette served as a reference for these statements. That paper forecasts an extremely high electricity import ratio of 69 percent for January 2050. There is nothing new about Switzerland importing electricity in winter. The research community has looked extensively into the power generation gap in winter and reaches different conclusions. Our reply aims to explain why the assumptions in that paper 1 are not correct and lead to estimates of future Swiss import demand that are much higher than the modelling performed in our competence centre shows. We have outlined our three main points below.

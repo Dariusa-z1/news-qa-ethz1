@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/03/on-proposalism-the-new-modus-operandi-in-climate-finance.html
 
-**Date processed:** 2025-05-01
-
 ## The magic of proposals
 
 Now that the dust has settled and the time of “Paris is good, but not ambitious enough” statements is over, I’d like to take a step back and highlight one major shift in global climate finance. Over the last few years, I have frequently written articles about “carbon credits”. I admit, the rules for making and paying for them were a nightmare of complexity, but there was one thing I really liked about them: We used to pay for climate change mitigation in developing countries only after we had seen results. All the risks of project failure were carried by local actors. We did not need to understand the details of how the electricity market in Burkina Faso works to support renewable energy there. This mechanism has, for now, been fully replaced by the “Green Climate Fund” (GCF, [1]).

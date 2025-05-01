@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/01/de-quervains-groenlandreise-von-1912-und-mehr-unsere-aeltesten-filme-sind-online.html
 
-**Date processed:** 2025-05-01
-
 ## Highlights from the holdings
 
 At last, you can access 86 film treasures in the Image Archive of the ETH Library also online by visiting ETH Zurich’s Video Portal . There are historical 35 and 16 mm films to be discovered, as well as audio recordings dating from 1912 to 1980.

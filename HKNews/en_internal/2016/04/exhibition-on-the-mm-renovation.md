@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/04/exhibition-on-the-mm-renovation.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The task behind this public and anonymous competition was far from simple: the MM under the Polyterrasse needed to become a recognisable address in its own right, while still not influencing the character of the neighbouring Main Building. The winning proposal also had to offer more space and better sports and gastronomy facilities. Another intention was to make it easier for people to find their way around the building and a more enjoyable place to spend time, and not just on the observation terrace. The main motivation for holding this competition was the urgent need to renovate the building, particularly the building’s technical facilities along with other shortcomings.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/11/was-gewebe-nachgiebig-und-doch-so-zaeh-macht.html
 
-**Date processed:** 2025-05-01
-
 ## Gedehntes Gewebe verliert Volumen
 
 Im Mutterleib schwimmt das Ungeborene in einer mit Fruchtwasser prall gefüllten Fruchtblase. Dass diese intakt bleibt, ist für eine reibungslose Entwicklung des Babys sehr wichtig. Doch es kann geschehen, dass die schützende Hülle nach Eingriffen wie Fruchtwasserpunktionen und Operationen oder auch ganz spontan reisst.

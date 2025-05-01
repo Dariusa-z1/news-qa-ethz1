@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/11/etutorials-for-eth-regulations.html
 
-**Date processed:** 2025-05-01
-
 ## Learning based on practical cases
 
 What must you consider if you want to procure something at ETH Zurich? What is the minimum procurement value above which it must be put out to tender? And what does “special relationship” mean in this context? Or: what does it mean for me if a product to be procured is subject to export control? How much am I allowed to spend on a Christmas dinner with my team?

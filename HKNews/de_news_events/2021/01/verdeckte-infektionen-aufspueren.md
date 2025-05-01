@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/01/verdeckte-infektionen-aufspueren.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der Kanton Graubünden führte seit Dezember mehrmals regional begrenzte Sars-CoV-2-Massentests durch. Dabei konnte sich jeweils die ganze Bevölkerung kostenlos auf das Pandemievirus testen lassen, und zwar ungeachtet, ob jemand typische Covid-Symptome zeigte oder nicht.

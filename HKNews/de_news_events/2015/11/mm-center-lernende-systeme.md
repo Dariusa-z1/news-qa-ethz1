@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/11/mm-center-lernende-systeme.html
 
-**Date processed:** 2025-05-01
-
 ## Verstehen, was die Intelligenz ausmacht
 
 Autos, die selber einen Parkplatz ansteuern oder Roboter, die sich auf unebenem Gelände fortbewegen, müssen über die Fähigkeit verfügen, aus Erfahrungen zu lernen und sich an neue Begebenheiten anzupassen. Was für Menschen eine Selbstverständlichkeit ist, stellt Maschinen vor grosse Herausforderungen. Doch die Forschung in diesem Bereich entwickelt sich rasant. Um die nächste Generation von Wissenschaftlerinnen und Wissenschaftler auf diesem Gebiet auszubilden, die Forschungszusammenarbeit zu intensivieren und Infrastruktur gemeinsam zu nutzen, haben die ETH Zürich und die Max-Planck-Gesellschaft ein gemeinsames Center für Lernende Systeme gegründet. Das Center wird mit insgesamt fünf Millionen Euro in den ersten fünf Jahren gefördert, die hälftig durch die Max-Planck-Gesellschaft und die ETH Zürich getragen werden.

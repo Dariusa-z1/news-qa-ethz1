@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/08/uncovering-atomic-movements-in-crystal.html
 
-**Date processed:** 2025-05-01
-
 ## Mars rover moves using lead telluride
 
 To outsiders, scientific questions can sometimes look like hair-splitting. These questions, however, are often crucial, as in materials science: the commercial use of a material stands or falls on its properties. One question that very much depends on such hair-splitting is the one that Boris Sangiorgio pursued in his doctoral thesis. In ETH Professor Nicola Spaldin’s research group at the Institute of Materials Theory , Sangiorgio used the supercomputer “Piz Daint” to examine how lead telluride (PbTe) behaves when it warms up. Lead telluride appears in nature as altaite, a sulfosalt mineral. Altaite can convert heat energy into electrical energy, meaning it has thermoelectric properties.

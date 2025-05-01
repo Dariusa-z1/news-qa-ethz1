@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/08/studenten-bauen-bambus-velos.html
 
-**Date processed:** 2025-05-01
-
 ## First prize for the prototype
 
 Ask Kevin Klein, a computer science student at ETH Zurich, what he thinks of bicycles with a bamboo frame, and he’ll tell you they’re more stable, more lightweight, more sustainable – and more beautiful. Standard bikes for everyday use are made of steel or aluminium, but Klein knows these carry a heavy burden of embodied energy. “Bamboo, though, grows three centimetres every hour – just like that, without your having to lift a finger,” he says.

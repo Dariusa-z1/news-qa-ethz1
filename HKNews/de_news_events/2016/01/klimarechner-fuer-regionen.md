@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/01/klimarechner-fuer-regionen.html
 
-**Date processed:** 2025-05-01
-
 ## Erste quantitative Darstellungen
 
 An der vergangenen Klimakonferenz COP21 in Paris hat die Versammlung ein Abkommen beschlossen, das die Begrenzung der globalen Erwärmung auf deutlich unter zwei Grad Celsius vorsieht. Denn mittlerweile sind sich Wissenschaft und Politik einig: Um zwei Grad darf sich die globale Durchschnittstemperatur maximal erhöhen, damit Mensch und Umwelt keine gravierenden und nicht umkehrbaren Schäden erleiden.

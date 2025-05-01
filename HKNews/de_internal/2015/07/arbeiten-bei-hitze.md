@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/07/arbeiten-bei-hitze.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Neben ausreichendem Trinken, ist es ratsam,

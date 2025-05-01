@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/03/pr-bluelight.html
 
-**Date processed:** 2025-05-01
-
 ## Erection without sexual stimulation
 
 Erectile dysfunction is a taboo subject among men. No one likes to talk about it. But the fact is that as men age, an increasing number will suffer from erectile dysfunction. From the age of 30, the number of men who have unsatisfactory erections or none at all increases. In the over-60 age group, more than half of all men have been affected by erectile dysfunction.

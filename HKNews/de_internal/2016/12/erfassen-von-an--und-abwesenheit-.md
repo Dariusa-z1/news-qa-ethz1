@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/12/erfassen-von-an--und-abwesenheit-.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Seit dem Jahresbeginn 2015 gilt an der ETH Zürich ein neuer Rechnungslegungsstandard. Dieser orientiert sich an IPSAS, dem internationalen Rechnungslegungsstandards für den öffentlichen Sektor. Im Zuge dieser Umstellung wird ab 2017 die Zeiterfassung der ETH-Angestellten neu geregelt.

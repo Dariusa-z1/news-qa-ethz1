@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/09/die-schulleitung-informiert-2023-7.html
 
-**Date processed:** 2025-05-01
-
 ## Wiederwahl des Delegierten für Digitale Transformation
 
 Die Schulleitung hat Lothar Thiele als Delegierten für Digitale Transformation wiedergewählt. Ursprünglich war Thiele am 10. November 2020 bis zum Zeitpunkt seiner Emeritierung als Professor für Technische Informatik am 31. Juli 2022 gewählt worden. Danach hat die Schulleitung seine Funktion als Delegierter auf Mandatsbasis bis 31. Juli 2023 verlängert. Nun hat sie sein Mandat erneut bis zum 31. Juli 2024 verlängert. Neben seinem Engagement für einen zukunftsgerichteten Umgang mit der Digitalen Transformation unterstützt Lothar Thiele den Präsidenten bei der Auswahl einer Nachfolger:in.

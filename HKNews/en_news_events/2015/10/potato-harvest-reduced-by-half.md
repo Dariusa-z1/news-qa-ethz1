@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/10/potato-harvest-reduced-by-half.html
 
-**Date processed:** 2025-05-01
-
 ## One in two potatoes thrown out
 
 Food waste is today’s hot topic. In fact, according to scientific surveys in Switzerland, 300 kg of perfectly good food ends up in the bin per person each year. However, this number encompasses the entire shopping basket, from yoghurt to drinkable leftover wine and two-day-old bread.

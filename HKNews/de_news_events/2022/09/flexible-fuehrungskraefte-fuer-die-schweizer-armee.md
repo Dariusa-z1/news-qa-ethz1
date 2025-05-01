@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/09/flexible-fuehrungskraefte-fuer-die-schweizer-armee.html
 
-**Date processed:** 2025-05-01
-
 ## Zwischen Umsetzung und kreativem Hinterfragen
 
 Seit sieben Monaten verteidigen sich die ukrainischen Streitkräfte erfolgreich gegen einen übermächtigen Gegner. Neben westlichen Waffen sehen Militärexperten dafür unter anderem einen Grund: Die Flexibilität der ukrainischen Armee. Sie schafft es immer wieder, schnell und kreativ auf neue Situationen zu reagieren und so die behäbig wirkenden Truppen Russlands zu überraschen.

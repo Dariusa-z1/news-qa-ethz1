@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/05/coffee-lectures-neue-online-kurse.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Our Coffee Lectures take place at 15.15 on Wednesday afternoon. The topics for this spring semester are:

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/05/weltpremiere-erstmals-spenderleber-in-einer-maschine-behandelt-und-danach-erfolgreich-transplantiert.html
 
-**Date processed:** 2025-05-01
-
 ## Von mangelhaft zu gut in drei Tagen
 
 Dass es möglich wurde, ein Spenderorgan nach einer Aufbewahrungszeit von drei Tagen ausserhalb eines Körpers einem Patienten einzusetzen, verdankt das Forschungsteam Liver4Life einer selbst entwickelten Perfusionsmaschine. Die Maschine imitiert den menschlichen Körper möglichst genau, um den Spenderlebern ideale Bedingungen zu bieten. Eine Pumpe dient als Herzersatz, ein Oxygenator ersetzt die Lungen und eine Dialyseeinheit die Nieren. Daneben übernehmen zahlreiche Hormon- und Nährstoffinfusionen die Funktionen des Darms und der Bauchspeicheldrüse. Wie das Zwerchfell im menschlichen Körper bewegt die Maschine zudem die Leber im Takt der menschlichen Atmung. Im Januar 2020 zeigte das multidisziplinäre Zürcher Forschungsteam – eine Zusammenarbeit von Universitätsspital Zürich (USZ), ETH Zürich und Universität Zürich (UZH) – erstmals, dass es dank der Perfusionstechnologie möglich ist, eine Leber mehrere Tage ausserhalb des Körpers aufzubewahren (vgl. externe Seite Medienmitteilung USZ vom 13.01.2020 ).

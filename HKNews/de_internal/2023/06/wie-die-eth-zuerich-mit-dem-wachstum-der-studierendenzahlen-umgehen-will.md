@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/06/wie-die-eth-zuerich-mit-dem-wachstum-der-studierendenzahlen-umgehen-will.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Günther Dissertori, es fehlen Fachkräfte und an der ETH bewerben sich immer mehr Studierende. Warum also ist das Wachstum ein Problem? Günther Dissertori: Die Zahl der Studierenden wächst seit Jahren, und es ist keine Trendwende in Sicht. Gleichzeitig werden die zur Verfügung stehenden Mittel – vor allem für Personal und Infrastruktur – in den künftigen Jahren mindestens stagnieren. Das wirkt sich unter anderem auf das Betreuungsverhältnis aus und gefährdet die Qualität der Lehre.

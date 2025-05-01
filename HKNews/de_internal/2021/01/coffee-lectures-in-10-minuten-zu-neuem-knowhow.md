@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/01/coffee-lectures-in-10-minuten-zu-neuem-knowhow.html
 
-**Date processed:** 2025-05-01
-
 ## So funktionieren die Coffee Lectures
 
 • Open Access: neue Fördermöglichkeiten 2021 – 3. Februar

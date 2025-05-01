@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/07/memorable-field-trips.html
 
-**Date processed:** 2025-05-01
-
 ## Learning with all five senses
 
 In mid-July, Davos is wet, cold and uncomfortable. At 2,000 metres above sea level, there’s nothing but snow. But that doesn’t stop a dozen students, assistants and three professors from the Department of Environmental Systems Science (D-USYS) from embarking on a field trip. ‘Soils and Vegetation of the Alps’ is the subject – but the weather forces them to change the programme. Instead of plants beyond the treeline, the students will study the soil profiles and vegetation below it: a spruce forest on acidic, nutrient-poor ‘podzol’ and a pine forest on serpentinite rock.

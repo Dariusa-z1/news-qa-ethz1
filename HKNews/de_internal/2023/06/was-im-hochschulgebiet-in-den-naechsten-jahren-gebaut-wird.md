@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/06/was-im-hochschulgebiet-in-den-naechsten-jahren-gebaut-wird.html
 
-**Date processed:** 2025-05-01
-
 ## Café im ehemaligen Trinkwasserreservoir
 
 Das Hochschulgebiet Zürich Zentrum HGZZ entwickelt sich. Einige zentrale Gebäude- und Strassenprojekte haben in den vergangenen Wochen einen weiteren Meilenstein erreicht. Hier eine Übersicht, was derzeit im HGZZ geplant und gebaut wird.

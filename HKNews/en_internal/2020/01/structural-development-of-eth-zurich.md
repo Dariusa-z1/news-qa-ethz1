@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/01/structural-development-of-eth-zurich.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 At two events with campus-specific focal points, the existing shortage of space at ETH Zurich and its causes and possible solutions were discussed, as well as the current status of the higher-level area planning and the current and upcoming construction projects.

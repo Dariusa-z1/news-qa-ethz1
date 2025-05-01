@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/05/reorganisation-of-women-professors-group-at-eth-zurich.html
 
-**Date processed:** 2025-05-01
-
 ## Cooperation with counterparts at EPFL
 
 According to the Gender Monitoring Report 2014/2015 produced by the ETH Zurich Office of Equal Opportunities , the percentage of women in professorships at ETH Zurich averaged 12.8 per cent. “At least 33 per cent would be desirable,” says Ursula Keller, Professor of Experimental Physics at the Department of Physics (D-PHYS). “Numerous studies show that organisations work better when women are well represented in leadership positions. This also applies to research institutions.” To increase the proportion of women in leadership positions at ETH Zurich, Ursula Keller worked with other women professors to found the ETH Zurich Women Professors Forum in 2011. More than 80 per cent of ETH Zurich’s female professors joined the association within a very short time.

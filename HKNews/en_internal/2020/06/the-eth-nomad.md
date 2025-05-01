@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/06/the-eth-nomad.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Marianna Berger

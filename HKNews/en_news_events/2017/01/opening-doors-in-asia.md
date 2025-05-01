@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/01/opening-doors-in-asia.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH News: Mr Burkhard, how did the Singapore-ETH Centre (SEC) come to work with small and medium-sized Swiss companies? Remo Burkhard: Over the last three years or so, more and more Swiss companies have been contacting us at SEC with matters that are not directly research-related. For example, we were asked to share our experience and opinions regarding market entry in Asia. If these companies’ solutions and products align with one of our two research focuses, namely “future cities” or “future resilience systems”, the Centre can provide specific knowledge and key contacts. We saw an increase in demand and began with an information session in Switzerland for interested companies. The positive feedback and the growing number of people involved with Swiss exports and startup support and financing showed us that many companies wanted a glimpse of the local situation – but there was one thing that surprised me.

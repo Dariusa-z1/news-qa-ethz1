@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/04/asvz-cards-werden-teurer.html
 
-**Date processed:** 2025-05-01
-
 ## Neue Beitragsgebühren ab Herbst respektive Neujahr
 
 • Für Studierende: ab Herbstsemester 2022 neu CHF 35.− pro Semester (bisher: CHF 30.−)

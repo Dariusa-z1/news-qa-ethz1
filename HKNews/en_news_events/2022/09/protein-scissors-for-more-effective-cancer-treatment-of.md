@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/09/protein-scissors-for-more-effective-cancer-treatment-of.html
 
-**Date processed:** 2025-05-01
-
 ## Drugs that target cancer more effectively
 
 White surfaces, brightly coloured liquids in glass containers and appliances that wouldn’t look out of place in the average kitchen. Pipetting devices hang on the walls alongside safety instructions for their use. Inside a large transparent box, a shaker holding glass flasks filled with green liquid oscillates over and over to the same rhythm.

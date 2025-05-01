@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/09/breathing-life-into-video-pixels.html
 
-**Date processed:** 2025-05-01
-
 ## Together with luminaries from other fields
 
 When she is collaborating with ETH Zurich architecture professors Fabio Gramazio and Matthias Kohler on the F light Assembled Architecture (FAA) Revisited project at the Guggenheim Museum Bilbao , Siyu Tang – who leads the Computer Vision and Learning Group at the ETH Institute for Visual Computing – is able to reunite two great fascinations from her youth: “When deciding on a course of study, I had to choose between architecture and computer science. Being a computer scientist at ETH Zurich means I can enjoy interdisciplinary collaboration with world-class architects. That’s a perfect combination for me.”

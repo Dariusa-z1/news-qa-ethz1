@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/09/rekrutierung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Auf dem Stellenportal der ETH Zürich werden jährlich rund 1000 Stellen veröffentlicht. Diese werden neu über die Rekrutierungssoftware softfactors erfasst, die Rekrutierenden eine einfache Handhabung des Ausschreibungsprozesses, Unterstützung in der Vorselektion und ein effizientes Bewerbermanagement bietet.

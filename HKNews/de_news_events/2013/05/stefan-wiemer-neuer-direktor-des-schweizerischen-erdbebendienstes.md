@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/05/stefan-wiemer-neuer-direktor-des-schweizerischen-erdbebendienstes.html
 
-**Date processed:** 2025-05-01
-
 ## Erdbebengefährdung als Spezialgebiet
 
 Stefan Wiemer wird die vielfältigen Aktivitäten und Mandate des SED als Fachstelle des Bundes für Erdbeben weiterführen. Kernaufgaben sind die seismische Überwachung und die Gefährdungsabschätzung in der Schweiz. Besonders wichtig für Stefan Wiemer ist es, das Wissen über seismologische Vorgänge nach aussen zu tragen. Dazu gehört es, Behörden, Medien und Bevölkerung umfassend und angemessen zu informieren und Studierende auszubilden. Daneben möchte Stefan Wiemer Freiräume schaffen, um neuen Entwicklungen nachzugehen. «Die vermehrte Nutzung von Geoenergien bringt auch für den SED Herausforderungen mit sich. Ich freue mich sehr darauf, diese anzugehen», sagt Stefan Wiemer.

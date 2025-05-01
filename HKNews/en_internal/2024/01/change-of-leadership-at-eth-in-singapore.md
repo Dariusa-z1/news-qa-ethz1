@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2024/01/change-of-leadership-at-eth-in-singapore.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Gisbert Schneider joined ETH Zurich in 2010 as a Full Professor for Computer-​Assisted Drug Design. It was in the same year that the university opened its branch in Singapore, which Schneider has managed as Director for the last three years. The start of his term of office was shaped by the coronavirus pandemic. It has nevertheless been possible in recent years to enhance the profile of the ETH location in Singapore and position it as a hub of Swiss science diplomacy.

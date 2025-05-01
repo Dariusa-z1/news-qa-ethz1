@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2013/12/25-years-in-the-service-of-jewish-contemporary-history.html
 
-**Date processed:** 2025-05-01
-
 ## Much more than just a job
 
 Actually, it is no coincidence that Uriel Gast started working at the Archives of Contemporary History at ETH Zurich ( AfZ ) 25 years ago as a fresh graduate from the University of Zurich. He says he "slipped" into the job of archivist rather unintentionally, but the fate of the Jewish refugees had accompanied him for many years. In his younger years, he completed a commercial apprenticeship at the Europa Verlag Zürich, whose owners had supported political emigrants and Jewish refugees during the Second World War. "The stories about that time pervaded the building," he remembers. Later, he studied general history and wrote his final thesis on the history of the Swiss immigration police since the First World War. After graduating, he expanded it into a dissertation. This work attracted the attention of the then-head of the archives, who offered him a job, says Gast. "It was my luck that he was interested in the same topics."

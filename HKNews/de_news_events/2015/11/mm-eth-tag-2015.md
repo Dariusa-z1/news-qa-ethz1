@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/11/mm-eth-tag-2015.html
 
-**Date processed:** 2025-05-01
-
 ## Lehrziele an rasante Entwicklungen anpassen
 
 «Wir müssen die Dinge richtig machen, vor allem aber die richtigen Dinge machen – nur so können wir den Erfolg unserer Hochschule in einer sich rasant wandelnden Gesellschaft sichern.» Das sagte ETH-Rektorin Sarah Springman in ihrer Rede zum diesjährigen ETH-Tag. Die Rektorin zog Bilanz ihres erstes Amtsjahres und zeigte auf, wie sie die Studierenden ausbilden will, damit sie später als hochqualifizierte Fachkräfte in Wirtschaft und Gesellschaft wirken können.

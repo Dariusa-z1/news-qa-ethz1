@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/02/teufelskreis-der-herzinsuffizienz-durchbrochen.html
 
-**Date processed:** 2025-05-01
-
 ## Enzym gehemmt
 
 Vermeintlich alltägliche körperliche Tätigkeiten werden zur Tortur, Treppensteigen ist nur noch mit grosser Mühe möglich, oft sind Patienten gar ans Bett gefesselt und ständig müde. «Herzinsuffizienz ist eine tragische und derzeit leider auch unheilbare Krankheit. Diese Diagnose bedeutet in der Regel ein Todesurteil», sagt Ursula Quitterer, Professorin für Molekulare Pharmakologie an der ETH Zürich und der Universität Zürich.

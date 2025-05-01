@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/01/neue-kolumnistinnen.html
 
-**Date processed:** 2025-05-01
-
 ## Neue VSETH-Präsidentin
 
 Den Auftakt in der kommenden Woche macht Ulrike Kastrup. Sie leitet seit fünf Jahren focusTerra, das erdwissenschaftliche Forschungs- und Informationszentrum der ETH Zürich. Sie studierte an den Universitäten Bonn und Zürich Geologie und promovierte beim Schweizerischen Erdbebendienst am Institut für Geophysik an der ETH Zürich. Anschliessend forschte und arbeitete sie im Bereich des Risikomanagements und der Risikokommunikation bei Naturgefahren an der United Nations University in Bonn, am Royal Melbourne Institute of Technology in Australien und als Corporate Risk Managerin bei der SBB. Mit den zahlreichen Ausstellungen und Aktivitäten in focusTerra möchten Ulrike Kastrup und ihr Team einem breiten Publikum die Faszination und Schönheit der Erdwissenschaften vermitteln und über deren Rolle in unserem Alltag informieren.

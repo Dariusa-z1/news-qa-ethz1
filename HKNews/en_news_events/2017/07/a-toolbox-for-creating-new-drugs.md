@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/07/a-toolbox-for-creating-new-drugs.html
 
-**Date processed:** 2025-05-01
-
 ## A production line that’s difficult to manipulate
 
 This fungus is full of surprises: the jack-o’-lantern mushroom glows in the dark and produces peptides that could be useful for humans. (Image: Noah Siegel, wikicommons, CC BY-SA 3.0)

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/10/welcome-to-the-world-4-0.html
 
-**Date processed:** 2025-05-01
-
 ## Digital assistance in everyday life
 
 Life without the internet, mobile phones and constant connectivity? Almost unthinkable for many of us. The digital revolution is having a growing influence on our everyday lives and opening up a whole host of new possibilities, but we've only scratched the surface of what digitalisation can offer. That’s why ETH Zurich scientists are carrying out research into technological developments in various areas every day.

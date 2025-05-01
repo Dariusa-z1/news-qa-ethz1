@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/11/in-7-tagen-ist-es-soweit-swisscovery-startet.html
 
-**Date processed:** 2025-05-01
-
 ## Was ist swisscovery?
 
 Ab 7. Dezember 2020 haben Sie als Bibliothekskundin/als Bibliothekskunde neu über ein einziges Rechercheportal namens swisscovery Zugriff auf den gesamten wissenschaftlichen Medienbestand der Schweiz. swisscovery löst das Suchportal der ETH-Bibliothek und NEBIS recherche ab. swisscovery verzeichnet insgesamt mehr als 30 Millionen Bücher, Serien, Zeitschriften und Non-Book-Materialien sowie mehr als 3 Milliarden elektronische Artikel. Einfacher wird für Sie ab dem 7. Dezember auch die Bestellung von Medien ausserhalb des bisherigen NEBIS-Verbundes. Betrieben wird swisscovery von der Swiss Library Service Platform, kurz SLSP. Die SLSP wurde von 15 Hochschulen ins Leben gerufen. Bis heute haben sich schweizweit 475 Bibliotheken angeschlossen.

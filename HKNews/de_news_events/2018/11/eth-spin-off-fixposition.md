@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/11/eth-spin-off-fixposition.html
 
-**Date processed:** 2025-05-01
-
 ## Milliardenmarkt Drohnen
 
 Shanghai, Peking, Shenzhen, Hong Kong und schliesslich Tianjin, wo der asiatische Bruder des World Economic Forum stattfand: Lukas Meier und Zhenzhong Su haben im September eine zweiwöchige Ochsentour durch China hinter sich gebracht. Das Spin-off Fixposition der beiden ETH-Abgänger wurde für das zehn Startups umfassende Schweizer Startup-Nationalteam ausgewählt und durfte die von der Jungunternehmen-Förderorganisation Venture Lab organisierte Reise nach China antreten.

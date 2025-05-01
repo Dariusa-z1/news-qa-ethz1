@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/05/climate-protection-provides-cheaper-energy.html
 
-**Date processed:** 2025-05-01
-
 ## Renewable is affordable
 
 When petrol prices skyrocketed in the early 1980s, I asked my father how much petrol had cost when he learned to drive as a young man in New York in the 1930s. His answer: 20 US cents per gallon, or 5 Swiss cents per litre. However, this seeming affordability was a façade: when measured against wages and living costs, driving a car in the 1930s was actually more expensive than in the 1980s. The same is the case when we compare the 1980s to today.

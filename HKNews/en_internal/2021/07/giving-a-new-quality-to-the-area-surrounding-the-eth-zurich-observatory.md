@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/07/giving-a-new-quality-to-the-area-surrounding-the-eth-zurich-observatory.html
 
-**Date processed:** 2025-05-01
-
 ## More open and green spaces, less parking
 
 Open spaces play an important role in the university district. They are a place for university members and hospital staff as well as residents to socialise and relax. They also create the paths connecting the buildings in the area and the district as a whole, while the greenery and shade help to improve the city of Zurich’s local climate.

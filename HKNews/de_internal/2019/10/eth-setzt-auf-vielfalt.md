@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/10/eth-setzt-auf-vielfalt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der wichtigste Punkt zur Begriffsklärung gleich zuerst: Wer von Diversität spricht, hat einen positiven Blick auf die Vielfalt in einer Gruppe. Konkret bedeutet dies, dass Unterschiede zwischen den Menschen anerkannt und geschätzt – ja sogar als Chance für die ganze Gruppe gesehen werden. Doch jedes Individuum unterscheidet sich vom anderen, die Möglichkeiten von Diversität sind deshalb theoretisch so gross wie die Anzahl der Mitglieder. Da dies wenig praktikabel ist, unterscheidet man heute meistens sechs Faktoren, die für Institutionen wie die ETH entscheidend sind: Ethnische Herkunft, Geschlecht, Alter, sexuelle Identität und Orientierung, Religion und physische oder psychische Einschränkungen.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/04/praegend-fuer-eine-ganze-generation-von-forstfachleuten.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Franz Schmithüsen. (Bild: D-USYS)

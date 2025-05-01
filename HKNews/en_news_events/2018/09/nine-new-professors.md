@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/09/nine-new-professors.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 All of the professors had established themselves as experts in their fields before the ETH Board appointed or promoted them. The new professors in brief:

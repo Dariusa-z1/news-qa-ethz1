@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/11/miniscule-robots-of-metal-and-plastic.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Robots so tiny that they can manoeuvre through our blood vessels and deliver medications to certain points in the body – researchers have been pursuing this goal for years. Now, scientists at ETH Zurich have succeeded for the first time in building such “micromachines” out of metal and plastic, in which these two materials are interlocked as closely as links in a chain. This is possible thanks to a new manufacturing technique they have devised.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/10/phytoplankton-schwerelos-erforscht.html
 
-**Date processed:** 2025-05-01
-
 ## Wandernde Mikroalgen im Visier
 
 Es war ein hochfliegendes und nicht alltägliches Experiment: «Wir konnten eine wichtige Hypothese testen: Änderungen in der relativen Schwerkraft, wie sie in der Umwelt ständig durch Turbulenzen im Wasser vorkommen, beeinflussen das Verhalten aquatischer Mikroorganismen», freut sich Roman Stocker nach dem bisweilen zweiten Schweizer Forschungsflug in die Schwerelosigkeit.

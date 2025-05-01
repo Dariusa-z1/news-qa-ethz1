@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/06/rector-sarah-springman-visits-the-personnel-commission.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Zu den Herausforderungen für die Lehre an der ETH Zürich zählt sie

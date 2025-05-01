@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/02/updated-catering-offer-launched-at-the-start-of-the-semester.html
 
-**Date processed:** 2025-05-01
-
 ## Reopened businesses
 
 It looks as if the pandemic will not be over for the catering companies at ETH for quite some time. The losses incurred over the last two years will be on the books for a long time, despite the fact that an end to the pandemic is in sight. The frequent and rapid reorganisation of their businesses, such as being forced to put staff on reduced hours or even make painful redundancies, is going to stick with them for a long time to come. It was also not always easy to experience the daily rollercoaster of emotions between guests who felt under threat and expressed resentment and those who showed great appreciation.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/03/annual-report-2021.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Despite these challenges – and several others besides – ETH Zurich performed well during the year under review. Teaching has seen some important innovations, including a Competence Framework designed to promote a more holistic skills set, the launch of a project to strengthen computational competencies in all degree programmes and new rules for the doctorate that include allocating two advisors to doctoral students. A new joint doctoral programme in Learning Sciences offered by ETH Zurich and EPFL is also expected to generate fresh impetus.

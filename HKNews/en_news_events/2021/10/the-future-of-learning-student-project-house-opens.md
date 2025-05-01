@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/10/the-future-of-learning-student-project-house-opens.html
 
-**Date processed:** 2025-05-01
-
 ## Skills beyond a degree
 
 A smart white cane, replacing an instruction booklet with augmented reality (AR) glasses and a self-sustaining house run via blockchain: this and many other ideas have already been realised by students in the recently opened Student Project House next to the ETH main building. “We want to encourage students to try new things, to initiate and engage in projects that explicitly don’t form part of their studies, and, if they fail, to learn from their experiences” explains ETH Rector and patron of the initiative Professor Sarah Springman. Over 2500 students have been supported and challenged since the launch of the pilot project at the Hönggerberg campus in 2016.

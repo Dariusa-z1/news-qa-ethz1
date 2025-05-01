@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2017/01/new-journals-online.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Among these are e.g. biology, medicine, agricultural and food sciences:

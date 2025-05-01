@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/12/energiesparen-eth-senkt-gasverbrauch-im-november.html
 
-**Date processed:** 2025-05-01
-
 ## Einer der wärmsten November-Monate
 
 Die Energiesparmassnahmen der ETH Zürich wie die Senkung von Raum- und Wassertemperatur sowie die Reduktion der Beleuchtung zeigen Wirkung: Im November 2022 wurde an der ETH deutlich weniger Gas verbraucht als im selben Monat der fünf Vorjahre. Das hat neben den ergriffenen Massnahmen auch mit dem Wetter und dem Klima zu tun: Der November 2022 zeichnete sich in der Schweiz durch vergleichsweise milde Verhältnisse aus.

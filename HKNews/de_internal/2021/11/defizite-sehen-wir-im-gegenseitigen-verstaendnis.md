@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/11/defizite-sehen-wir-im-gegenseitigen-verstaendnis.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Dieter Wüest, Sie haben nach vielen Jahren als Leiter der Akademischen Dienste das Amt im letzten Jahr abgegeben und die Leitung des Workstreams 5 «Zentrale Organe» übernommen. Warum diese neue Aufgabe? Mein Rücktritt als Leiter der Akademischen Dienste war für mich schon vorher beschlossene Sache. Ich wusste damals noch nicht, wie meine Zukunft aussehen wird und war offen für neue Aufgaben. Als sich dann die Möglichkeit auftat, innerhalb von rETHink einen Beitrag zur Weiterentwicklung der Zentralen Organe zu leisten, dachte ich mir, dass ich in dieser Funktion meine Erfahrungen nützlich einbringen könnte.

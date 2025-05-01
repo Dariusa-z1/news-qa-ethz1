@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/08/volcanoes-and-climate-lecture-series.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The eruption of the Indonesian volcano Tambora in 1815 resulted in a ‘year without summer’ the following year in Europe and North America, and a severe famine in Switzerland. The relationship between the 1815 eruption and the climatic conditions of 1816 was only recognised later, just over 100 years ago.

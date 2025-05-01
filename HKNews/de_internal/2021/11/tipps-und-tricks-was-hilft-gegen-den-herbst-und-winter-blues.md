@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/11/tipps-und-tricks-was-hilft-gegen-den-herbst-und-winter-blues.html
 
-**Date processed:** 2025-05-01
-
 ## Erholungsoasen an der ETH
 
 Mehr Informationen:

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/11/elektroautos.html
 
-**Date processed:** 2025-05-01
-
 ## Sind Elektroautos umweltfreundlicher?
 
 Das letzte Jahr war ein gutes für die Elektromobilität. Dank neuen, erschwinglichen Modellen mit grösserer Reichweite haben Elektroautos Marktanteile gewonnen. Verschiedene Länder wie China, Indien, Frankreich und Grossbritannien haben zudem angekündigt, den Wechsel von Benzin- zu Elektroautos politisch zu forcieren.

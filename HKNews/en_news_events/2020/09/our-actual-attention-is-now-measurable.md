@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/09/our-actual-attention-is-now-measurable.html
 
-**Date processed:** 2025-05-01
-
 ## The key to attentive user interfaces
 
 How many times a day do you turn on your smartphone? How long is the screen on and how long are the various apps in use? Every modern smartphone collects this data automatically and makes it available to the user under headings like “Digital wellbeing”. But not all screen time and app use is equal. Sometimes we concentrate fully on something for a long time, while at other times we only look briefly at the screen or are distracted multiple times by things going on around us. And sometimes we don’t look at our smartphone at all, because we’ve activated it by accident.

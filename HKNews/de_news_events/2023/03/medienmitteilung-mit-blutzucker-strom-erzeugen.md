@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/03/medienmitteilung-mit-blutzucker-strom-erzeugen.html
 
-**Date processed:** 2025-05-01
-
 ## Das Wichtigste in Kürze
 
 • ETH-Forschende haben eine implantierbare Brennstoffzelle entwickelt, die aus überschüssiger Glukose im Blut Strom erzeugt.

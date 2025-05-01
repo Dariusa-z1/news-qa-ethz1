@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/09/wie-ich-mir-die-eth-in-10-jahren-vorstelle.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Während eines Jahres durfte ich die ETH so kennenlernen, wie sie der Durchschnittsstudent nie sieht. Ich ärgerte mich über kompliziert verteilte Zuständigkeiten, freute mich darüber, wie kompetent einige Stellen besetzt sind, sass im Büro des ETH-Präsidenten auf dem Sofa und entwirrte Probleme von Studierenden, die ich mir auch in den wildesten Träumen nicht hätte ausdenken können.

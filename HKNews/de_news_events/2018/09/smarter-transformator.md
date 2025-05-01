@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/09/smarter-transformator.html
 
-**Date processed:** 2025-05-01
-
 ## Schalten mit extrem hoher Frequenz
 
 ETH-Elektrotechniker entwickelten einen «smarten» elektronischen Transformator, der Mittelspannung äusserst effizient in Niederspannung wandelt. Solche smarten Transformatoren sind ausserdem deutlich kleiner als herkömmliche Transformatoren. Sie sind unter anderem dort im Vorteil, wo der Raum begrenzt ist oder es auf ein geringes Gewicht ankommt, wie beispielsweise in Eisenbahn-Triebfahrzeugen.

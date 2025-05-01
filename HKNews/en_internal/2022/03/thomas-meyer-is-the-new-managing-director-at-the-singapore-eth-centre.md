@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/03/thomas-meyer-is-the-new-managing-director-at-the-singapore-eth-centre.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Prior to joining the SEC, Thomas Meyer has been working in various countries and domains in Europe and Asia, covering research, start-ups, IT consulting and foreign affairs. Thomas Meyer’s previous roles and job disciplines ranged from software engineering, project management and delivery, sales, business and process consulting up to the level of managing director.

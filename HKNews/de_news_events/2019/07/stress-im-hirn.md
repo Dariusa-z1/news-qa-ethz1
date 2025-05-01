@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/07/stress-im-hirn.html
 
-**Date processed:** 2025-05-01
-
 ## Locus coeruleus anregen
 
 In akuten Stressmomenten – zum Beispiel in einer lebensgefährlichen Situation im Strassenverkehr - muss unser Gehirn blitzschnell reagieren. Es richtet die Aufmerksamkeit auf die wichtigsten Umgebungsreize, um in Sekundenbruchteilen lebenswichtige Entscheidungen zu treffen. Um dies zu bewerkstelligen, müssen verschiedene Hirnareale optimal miteinander kommunizieren und sogenannte funktionelle Netzwerke bilden.

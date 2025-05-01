@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/09/bei-tieren-einzelne-zellen-genetisch-veraendern.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Forschende kombinierten in lebenden Tieren die Veränderung von vielen Genen mittels der Genschere Crispr/Cas und die nachfolgende Analyse einzelner Zellen.

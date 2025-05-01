@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/02/bernhard-plattner-neue-eth-vertrauensperson-.html
 
-**Date processed:** 2025-05-01
-
 ## Sources of assistance for ETH members
 
 Bernhard Plattner was elected in autumn 2015 at the Lecturers’ Conference (KdL). The Executive Board of ETH Zurich approved the choice in January 2016. The KdL advises the Executive Board in matters that relate to development and the teaching faculty as a whole.

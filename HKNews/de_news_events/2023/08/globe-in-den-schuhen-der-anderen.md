@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/08/globe-in-den-schuhen-der-anderen.html
 
-**Date processed:** 2025-05-01
-
 ## Verluste und deren Konsequenzen
 
 Das Gebäude CHN auf dem ETH-Campus Zentrum ist Dreh- und Angelpunkt für eine Vielzahl von Forschenden und Studierenden, die im Innenhof lernen und Arbeiten schreiben. Im Keller des Departements für Umweltsystemwissenschaften geht es jedoch nicht weniger geschäftig zu und her: In einer Klimakammer bauen rund 50 Jungköniginnen neue Hummelvölker auf. Aufgezogen werden sie von der Ökologin Sarah Richman aus der Plant Ecology Group von Janneke Hille Ris Lambers.

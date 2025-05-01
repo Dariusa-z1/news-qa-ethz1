@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/06/neue-videos-rund-ums-thema-barrierefreiheit.html
 
-**Date processed:** 2025-05-01
-
 ## Portraits und Videos
 
 Wie erlebt eine Studentin mit ADHS eine Vorlesung? Welche Strategien helfen ihr dabei, sich auf die relevanten Studieninhalte zu konzentrieren? Was fällt ihr schwer, und was fällt ihr besonders leicht?

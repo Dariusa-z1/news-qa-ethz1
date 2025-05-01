@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/11/hydrogen-for-ground-transportation-and-heating-is-a-bad-idea.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 (Photograph: ETH Zurich)

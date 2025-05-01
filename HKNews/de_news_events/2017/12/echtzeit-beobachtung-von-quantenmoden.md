@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/12/echtzeit-beobachtung-von-quantenmoden.html
 
-**Date processed:** 2025-05-01
-
 ## Phasenübergänge durch Symmetriebrechung
 
 Ein zylinderförmiger Stab ist drehsymmetrisch – rotiert man ihn beliebig um seine Achse, so sieht er immer gleich aus. Übt man allerdings eine zunehmend grosse Kraft in der Längsrichtung auf ihn aus, so wird er irgendwann einknicken und seine Drehsymmetrie verlieren. Solche als «spontane Symmetriebrechung» bezeichneten Vorgänge spielen sich auf subtile Weise auch in der mikroskopischen Welt der Quanten ab und sind dort für eine Reihe fundamentaler Phänomene wie Magnetismus und Supraleitung verantwortlich. Ein Forscherteam um ETH-Professor Tilman Esslinger und Senior Scientist Tobias Donner vom Institut für Quantenelektronik hat nun die Folgen einer spontanen Symmetriebrechung mit Hilfe eines Quantensimulators im Detail studiert. Die Forschungsergebnisse erschienen kürzlich im Fachblatt externe Seite Science .

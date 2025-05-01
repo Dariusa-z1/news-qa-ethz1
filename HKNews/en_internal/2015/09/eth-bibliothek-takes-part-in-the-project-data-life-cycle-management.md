@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/09/eth-bibliothek-takes-part-in-the-project-data-life-cycle-management.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 This involves the following aspects:

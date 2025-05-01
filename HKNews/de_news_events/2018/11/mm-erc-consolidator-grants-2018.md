@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/11/mm-erc-consolidator-grants-2018.html
 
-**Date processed:** 2025-05-01
-
 ## Unterstützung wirkt
 
 Noch nie haben Forschende der ETH Zürich in einer Vergaberunde so viele ERC Consolidator Grants einwerben können wie dieses Mal. Bemerkenswert ist zudem die hohe Erfolgsquote: Von insgesamt 18 Eingaben kamen zwei Drittel in die zweite Runde. Davon wiederum erhielten 11 die höchste Bewertung, ein A-Score (61,1 %), und zehn wurden schliesslich bewilligt. Dies entspricht einer Erfolgsquote von 55,5 Prozent. Bislang lag die durchschnittliche Erfolgsquote bei den Consolidator Grants bei knapp 38 Prozent.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/08/industry-meets-science.html
 
-**Date processed:** 2025-05-01
-
 ## Robotics and machine learning
 
 ETH Zurich is holding this year’s Industry Day on 7 September 2022. It casts a spotlight on successful industry partnerships, applied research and ETH Zurich spin-offs, and offers industry representatives a unique opportunity to engage with ETH researchers and young entrepreneurs.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/12/nasa-insight-lander-has-retired.html
 
-**Date processed:** 2025-05-01
-
 ## "A lifetime adventure"
 
 NASA had previously decided to declare the mission over if the lander misses two communication attempts. The agency will continue to listen for a signal from the lander, just in case, but hearing from it at this point is considered unlikely. The last time InSight communicated with Earth was December 15.

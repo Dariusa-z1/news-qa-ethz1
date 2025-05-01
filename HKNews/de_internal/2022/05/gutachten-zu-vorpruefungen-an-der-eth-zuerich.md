@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/05/gutachten-zu-vorpruefungen-an-der-eth-zuerich.html
 
-**Date processed:** 2025-05-01
-
 ## Keine Anzeichen für Pflichtverletzungen oderGeschlechterdiskriminierung
 
 Ende 2020 beantragte ETH-Präsident Joël Mesot den ETH-Rat, mit einem externen Gutachten zu klären, ob sich die ETH Zürich in den letzten Jahren bei den Vorprüfungen an ihre geltende Verfahrensordnung bei Verdacht auf Fehlverhalten in der Forschung gehalten habe. «Auslöser waren Stimmen, die uns in einzelnen Fällen für den Umgang mit Meldungen zu vermeintlichem Fehlverhalten in der Forschung kritisiert hatten. Mit dem Gutachten wollte die Schulleitung erfahren, ob wir korrekt gehandelt haben und wo wir uns verbessern müssen», erklärt Joël Mesot die Beweggründe für den Antrag.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/05/intensive-course-in-german-as-a-foreign-language.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Teaching is one of the key responsibilities of doctoral students and research staff at ETH Zurich. Working in cooperation with the joint Language Center of ETH Zurich and the University of Zurich, ETH Zurich offers an intensive course in German as a foreign language to help ensure that a lack of German language skills do not form a barrier in everyday life at the university.

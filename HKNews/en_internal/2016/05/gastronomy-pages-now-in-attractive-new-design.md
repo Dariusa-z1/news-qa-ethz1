@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/05/gastronomy-pages-now-in-attractive-new-design.html
 
-**Date processed:** 2025-05-01
-
 ## New functions in the ETH Zurich app
 
 Thousands of students and staff at ETH Zurich check the gastronomy pages on the ETH Zurich website every day to find out what is available where, and whether anything new has been added to the selection. The gastronomy pages have now been migrated to ETH Zurich’s new design.

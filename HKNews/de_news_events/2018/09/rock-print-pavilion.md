@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/09/rock-print-pavilion.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 30 Tonnen Schotter, 120 Kilometer Schnur – und ein Bauroboter: Aus diesen drei Kernelementen entsteht der «Rock Print Pavilion». Die temporäre Installation auf dem Kirchplatz vor dem Gewerbemuseum Winterthur ist ein Forschungsprojekt von Gramazio Kohler Research, der ETH-Professur für Architektur und Digitale Fabrikation, und Teil der Ausstellung «Hello, Robot. Design zwischen Mensch und Maschine».

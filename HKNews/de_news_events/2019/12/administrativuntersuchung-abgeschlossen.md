@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/12/administrativuntersuchung-abgeschlossen.html
 
-**Date processed:** 2025-05-01
-
 ## Professor bedauert und leitet Massnahmen zur Verbesserung ein
 
 Die Administrativuntersuchung , die am 17. Juli 2018 am Departement für Biosysteme (D-BSSE) eingeleitet wurde, ist abgeschlossen. Hintergrund waren eine Umfrage der Mittelbauvereinigung sowie Meldungen von Dok­to­rierenden über mögliche mangelhafte Führung und Betreuung. Die ex­ter­nen Untersuchungsführer kommen zum Schluss, dass keine gesetzlichen Bestimmungen verletzt worden sind, aber dass in einigen Fällen Arbeits­ver­träge als Druckmittel eingesetzt wurden.

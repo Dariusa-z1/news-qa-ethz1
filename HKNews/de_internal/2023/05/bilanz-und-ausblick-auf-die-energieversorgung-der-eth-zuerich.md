@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/05/bilanz-und-ausblick-auf-die-energieversorgung-der-eth-zuerich.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 (Bild: Adobe Stock; Bearbeitung: ETH Zürich)

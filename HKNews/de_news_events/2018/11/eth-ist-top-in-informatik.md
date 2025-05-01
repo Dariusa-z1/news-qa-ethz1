@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/11/eth-ist-top-in-informatik.html
 
-**Date processed:** 2025-05-01
-
 ## Weltklasse auch im Ingenieursbereich
 
 Damit bestätigten die ETH-Computerwissenschaftler ihre weltweite Spitzenposition. Vor Jahresfrist lagen sie auf Platz vier, vor zwei Jahren auf Platz eins. Damals erfasste das THE-Fächerranking jedoch nicht alle Top-Universitäten, sodass das Resultat nicht mit dem jetzigen vergleichbar ist.

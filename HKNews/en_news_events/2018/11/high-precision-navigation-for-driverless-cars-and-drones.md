@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/11/high-precision-navigation-for-driverless-cars-and-drones.html
 
-**Date processed:** 2025-05-01
-
 ## Drones – a billion-dollar market
 
 Visits to Shanghai, Beijing, Shenzhen, Hong Kong and to the recent World Economic Forum conference in Tianjin: Lukas Meier and Zhenzhong Su completed a strenuous two-week tour of China in September. The ETH spin-off was chosen as one of ten companies making up the Swiss national start-up team and took part in the trip to China organised by Venturelab, a funding body that supports young entrepreneurs.

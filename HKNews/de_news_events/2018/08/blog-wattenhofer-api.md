@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/08/blog-wattenhofer-api.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wenn mein Smartphone morgens eine bestimmte Melodie spielt, dann weiss ich, dass es Zeit ist für meinen Fussweg zur Bushaltestelle. Falls ich unterwegs trödle, vibriert das Smartphone, und ich beschleunige meinen Schritt etwas. Ich bin wie immer exakt gleichzeitig mit dem Bus an der Haltestelle und steige einfach ein. Das funktioniert auch problemlos, wenn der Bus Verspätung hat.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/09/12-professors-appointed.html
 
-**Date processed:** 2025-05-01
-
 ## Appointments
 
 Ioannis Anastasopoulos. (Photo: courtesy of I.A.)

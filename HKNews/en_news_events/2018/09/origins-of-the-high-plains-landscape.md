@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/09/origins-of-the-high-plains-landscape.html
 
-**Date processed:** 2025-05-01
-
 ## By no means a geological bore
 
 Starting at the eastern foot of the Rocky Mountains in the midwest United States, the dramatic landscape of the High Plains stretches across several US states. Dropping just a few hundred meters over a length of more than 500 kilometres, these plains have only a very gentle gradient and the nearly flat surfaces exhibit unique ecosystems, making them a geological and ecological anomaly.

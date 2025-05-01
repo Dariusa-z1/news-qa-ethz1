@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/09/real-time-analysis-of-metabolic-products.html
 
-**Date processed:** 2025-05-01
-
 ## High-throughput metabolomics
 
 Genomics, proteomics, metabolomics. Scientists who work in a field that ends with the suffix -omics analyse the totality of something. In the case of metabolomics, it is the totality of all metabolites of a cell or organism. The research groups of Uwe Sauer, professor of Systems Biology at ETH Zurich, and Nicola Zamboni, group leader at the Institute of Molecular Systems Biology, are among the leaders in this field. They have now developed a method by which they can identify the concentration of hundreds of metabolites simultaneously and almost in real time.

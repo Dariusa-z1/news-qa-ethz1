@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/10/ultrakurzzeit-weltrekord.html
 
-**Date processed:** 2025-05-01
-
 ## Übergangszustände schrittweise aufschlüsseln
 
 Um die Dynamik während einer chemischen Reaktion vollständig zu verstehen, müssen Wissenschaftler in der Lage sein, sämtliche Bewegungen von Atomen und Molekülen auf ihren grundlegenden Zeitskalen zu untersuchen. Moleküle rotieren im Pikosekundenbereich (10 -12 s), ihre Atome vibrieren im Femtosekundenbereich (10 -15 s) und die Elektronen bewegen sich im Bereich von Attosekunden (10 -18 s).

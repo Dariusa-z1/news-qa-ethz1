@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/08/dem-arktischen-ergruenen-auf-der-spur.html
 
-**Date processed:** 2025-05-01
-
 ## Grösstes und schwierigstes Unterfangen
 
 «Wir haben Landschaften gesehen, in denen Permafrost grossflächig kollabiert ist», sagt Sebastian Dötterl besorgt. Der Professor für Bodenressourcen ist soeben von einer Feldkampagne von Spitzbergen zurückgekehrt. Die Inselgruppe liegt auf rund 78 Grad nördlicher Breite, das Thermometer klettert hier im Sommer im Durchschnitt auf neun Grad Celsius.

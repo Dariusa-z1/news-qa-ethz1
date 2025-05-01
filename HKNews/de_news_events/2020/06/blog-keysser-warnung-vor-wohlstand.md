@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/06/blog-keysser-warnung-vor-wohlstand.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 (Bild: ETH Zürich)

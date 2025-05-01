@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/04/neues-design-fuer-die-eth-app.html
 
-**Date processed:** 2025-05-01
-
 ## Design-Änderungen im Detail
 
 Die Gestaltung orientiert sich neu am aktuellen Corporate Design der ETH Zürich. Ein weiterer Fortschritt ist die verbesserte digitale Barrierefreiheit. Die umgesetzten Optimierungen ermöglichen es allen Nutzer:innen, die App möglichst barrierefrei zu verwenden. Zusätzlich wurde ein Darkmode («Nachtmodus», bei dem heller Text und Bedienelemente auf dunklem Hintergrund verwendet wird) eingeführt, der den visuellen Komfort bei der Nutzung der App z.B. in dunkler Umgebung erhöht. Beim Gastronomieangebot sind nun auch Bilder zu den einzelnen Menüs verfügbar (sofern erfasst) und die Filtermöglichkeiten wurden vereinfacht.

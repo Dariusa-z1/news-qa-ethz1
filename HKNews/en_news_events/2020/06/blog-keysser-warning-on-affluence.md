@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/06/blog-keysser-warning-on-affluence.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 (Photograph: ETH Zurich)

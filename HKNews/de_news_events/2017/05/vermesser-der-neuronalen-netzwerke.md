@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/05/vermesser-der-neuronalen-netzwerke.html
 
-**Date processed:** 2025-05-01
-
 ## Know-How aus Gruppe Hierlemann
 
 Der Geschäftssitz von Maxwell Biosystems liegt gut versteckt in einem ehemals von Syngenta genutzten Laborgebäude in Basel, nur einen Steinwurf vom Departement Biosysteme der ETH Zürich (D-BSSE) entfernt. Noch sind die meisten Räume leer. Doch im dritten Stock, am Ende eines langen Ganges, weht in einem grosszügigen Labor schon heute ein Hauch von Gründerstimmung. Das Jungunternehmen zog erst im Februar hier ein, nachdem Urs Frey und Jan Müller, zwei ehemaligen Elektrotechnik-Doktoranden der ETH Zürich, Michele Fiscella, ein Biotechnologe vom D-BSSE und Marie Obien, eine Neurowissenschaftlerin, Maxwell Biosystems im September 2016 gegründet hatten.

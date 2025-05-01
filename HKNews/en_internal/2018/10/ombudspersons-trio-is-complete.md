@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/10/ombudspersons-trio-is-complete.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Mr Wegscheider, the new ombudspersons Margrit Leuthold and Peter Frischknecht were, for the first time, nominated by the University Assembly. As the University Assembly President, are you satisfied with the result? Werner Wegscheider: Yes, very much. I am pleased that the Executive Board welcomed and voted for the candidates nominated by the University Assembly. I am also delighted by how we made the nomination. Using a detailed profile definition and working together with the Executive Board, we quickly established an independent process that has proved to be consistent and effective.

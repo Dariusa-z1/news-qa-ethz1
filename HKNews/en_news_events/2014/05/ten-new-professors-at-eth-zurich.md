@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/05/ten-new-professors-at-eth-zurich.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Dr Orçun Göksel (*1979), currently a post-doctoral student at ETH Zurich, as Assistant Professor of Computer-assisted Applications in Medicine. Orçun Göksel is a promising young researcher in the fields of radiological imaging, the application of statistical shape models for the patient-specific planning of surgical interventions, and the use of ultrasound for diagnostic and therapeutic purposes. By developing new procedures and working out new approaches to the quantitative in vivo characterisation of mechanical tissue properties, Orçun Göksel will contribute to extending ETH Zurich's leading global position in this strategically important area.

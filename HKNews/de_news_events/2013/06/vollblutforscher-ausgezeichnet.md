@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/06/vollblutforscher-ausgezeichnet.html
 
-**Date processed:** 2025-05-01
-
 ## Hohe Aufmerksamkeit für junges Forschungsfeld
 
 Um die Blütenfarbe von Petunien zu verstärken, schleusten Wissenschaftler 1990 ein Gen in die Blumen, von dem man wusste, dass es die Produktion von Blütenfarbstoffen anregte. Doch die genveränderten Pflanzen wurden beinahe weiss. Offenbar konnten die Petunien die neu eingeschleusten Gene nicht ablesen und in Farbstoffe übersetzen. Darüber hinaus unterdrückten die fremden Gene das natürlich vorhandene.

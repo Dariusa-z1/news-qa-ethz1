@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/03/aveth-elects-a-new-president.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 AVETH members also elected the following board positions:

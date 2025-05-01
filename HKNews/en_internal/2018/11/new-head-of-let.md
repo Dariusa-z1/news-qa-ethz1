@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/11/new-head-of-let.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Gerd Kortemeyer.

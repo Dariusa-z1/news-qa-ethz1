@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/08/goldenes-dreirad-an-lorenz-hurni.html
 
-**Date processed:** 2025-05-01
-
 ## Erfolg braucht Verantwortung
 
 Unter dem Motto «One ETH» trafen sich am Freitag, 26. August bei heissem Sommerwetter rund 4‘000 ETH-Mitarbeitende aus Technik und Administration, Forschung und Lehre, deren Angehörige sowie Ehemalige zum Personalfest « togETHer » auf dem Campus Hönggerberg. Geboten wurde Kulinarisches und Unterhaltung aus diversen Weltgegenden.

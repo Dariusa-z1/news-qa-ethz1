@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/04/gezieltere-therapien-mithilfe-der-biomedizininformatik.html
 
-**Date processed:** 2025-05-01
-
 ## Biomedizinischer Datenpool
 
 Jeder Patient und jede Patientin ist anders. Je präziser die Diagnose und je gezielter die Therapie, umso besser kann auf die individuellen Patientenbedürfnisse eingegangen werden. Dieses Ziel verfolgt das neue translationale Forschungszentrum « The LOOP Zurich – Medical Research Center». Das Zentrum will das grundlegende Verständnis von Krankheiten verbessern, um individuelle Therapien zu entwickeln. Dazu vereint es die biomedizinische Grundlagenforschung und Bioinformatik der Universität Zürich (UZH) und ETH Zürich mit der klinischen Forschung der vier universitären Spitäler – dem Universitätsspital Zürich (USZ), dem Universitäts-Kinderspital Zürich (KiSpi), der Universitätsklinik Balgrist und der Psychiatrischen Universitätsklinik Zürich (PUK).

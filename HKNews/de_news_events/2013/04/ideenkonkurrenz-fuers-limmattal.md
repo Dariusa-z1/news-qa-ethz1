@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/04/ideenkonkurrenz-fuers-limmattal.html
 
-**Date processed:** 2025-05-01
-
 ## PeRL — vier Teams am Start
 
 Das Limmattal gehört als Lebensraum für mehr als 200'000 Menschen zu den am dichtesten besiedelten Gebieten der Schweiz. Die Limmat verbindet in den Kantonen Aargau und Zürich einen über 30 km langen Raum, der sich vom Zürcher Bellevue bis zum Wasserschloss der Schweiz erstreckt. Doch wie soll diese Region zukunftsfähig genutzt und gestaltet werden? Zahlreiche Vorhaben sind im Limmattal bereits geplant, aber bis jetzt fehlt eine langfristige, gesamträumliche Vorstellung. Deshalb haben sich die betroffenen Städte und Gemeinden des Limmattals, die Regionen Baden Regio und die Zürcher Planungsgruppe Limmattal sowie die Kantone Aargau und Zürich zu einer Kooperation zu-sammengeschlossen. Gemeinsam mit dem Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) sowie der Professur für Raumentwicklung der ETH Zürich führen sie ein neuartiges Planungsverfahren durch.

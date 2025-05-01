@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/02/swiss-population-in-favour-of-strict-food-waste-rules.html
 
-**Date processed:** 2025-05-01
-
 ## Preference for strict and transparent rules
 
 For every person in Switzerland, 300 kilogrammes of perfectly good food is thrown away every year. About one-third of all food worldwide suffers this fate – and the figures are rising. Moreover, food waste is responsible for at least 8 percent of global greenhouse gas emissions.

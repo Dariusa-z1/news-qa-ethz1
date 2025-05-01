@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/07/research-with-embryo-models-needs-legal-clarity.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 As publicly announced in June, three research teams from the UK, the US and Israel have independently succeeded in developing cell aggregates from human stem cells that very closely resemble the early human embryo.

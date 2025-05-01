@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/02/jubilaeum-graphische-sammlung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Nicht ein, nicht fünf – ganze 110 Werke von Pablo Picasso (1881-1973) befinden sich im Besitz der Graphischen Sammlung. Es handelt sich um teils grossformatige Blätter die einzeln, auf säurefreien Kartons und in Passepartouts gelagert werden. Und dies ist nur ein kleiner Teil des Bestandes – im Laufe ihrer 150-jährigen Geschichte kamen rund 160‘000 Werke zusammen. Neben Pablo Picasso finden sich auch unzählige Werke anderer bekannter Künstler wie Rembrandt, Goya, aber auch Warhol oder Fischli/Weiss.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/03/consistently-among-the-best.html
 
-**Date processed:** 2025-05-01
-
 ## Excellence strategy takes effect
 
 The eight researchers are all full or associate professors, and some of them have been for many years. The spectrum of topics covered is broad, ranging from microbiology to systems biology and from organic chemistry to quantum physics. The amounts awarded are between EUR 2 million and EUR 3 million, with the total sum amounting to EUR 20.2 million. Three of the recipients have succeeded in making it into the Champions League of research for a second time. In addition to the grant winners, almost as many researchers – seven – received an A rating (“excellent”) and for all intents and purposes meet the criteria for a grant.

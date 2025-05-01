@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/03/start-of-special-podcast-series-covid-19.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Are there health tips for boosting the immune system? How can genetic data support the real-time analysis of the COVID-19 pandemic? What does the overnight switch to online teaching involve – and how can we avoid going stir-crazy in the coming weeks while working at home? We discuss all these issues, and many more besides, with the help of our researchers in the new ETH Podcast #COVID-19 series.

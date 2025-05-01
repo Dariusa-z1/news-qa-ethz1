@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/02/haben-wir-das-leben-auf-der-erde-kosmischem-staub-zu-verdanken.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • Researchers believe it is likely that biologically relevant elements such as sulphur, phosphorus, carbon and nitrogen mostly arrived on Earth in the form of cosmic dust.

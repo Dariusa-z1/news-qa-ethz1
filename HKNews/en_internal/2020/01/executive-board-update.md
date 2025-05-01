@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/01/executive-board-update.html
 
-**Date processed:** 2025-05-01
-
 ## Greater participation
 
 A consultation was held in Autumn Semester 2019 about the proposed changes to the ETH Organisation Ordinance. This revision is the first concrete step towards implementing the rETHink development project . The centrepiece is the expansion of the ETH Executive Board to include two new vice presidents: one for Leadership & Personnel Development and one for Knowledge Transfer & Corporate Relations. The academic departments, university groups, administrative departments and staff units provided some constructive criticism regarding the plan to increase the composition of the Executive Board from four to six vice presidents. Many respondents share the Executive Board’s view that the university must ensure an appropriate response to the changing environment in terms of its organisational structure as well.

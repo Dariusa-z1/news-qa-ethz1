@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/03/aurel-stodola-lecture-2015.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Prof. Mauro Ferrari wird mit der Aurel Stodola Medaille geehrt.

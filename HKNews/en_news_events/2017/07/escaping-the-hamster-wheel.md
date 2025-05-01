@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/07/escaping-the-hamster-wheel.html
 
-**Date processed:** 2025-05-01
-
 ## Humans in the hamster wheel
 
 The invention of the wheel was one of humanity’s earliest cultural achievements. Another was the domestication of animals. The synthesis of the two – the hamster wheel – can therefore serve as the ideotype of a variety of complex cultural developments. Technology enables humanity to subjugate an animal, appeal to its instincts and give it a new occupation. Once it’s underway, the idea of stopping becomes unthinkable. The creature would stumble and fall victim to the uncontrollable effects of centrifugal force.

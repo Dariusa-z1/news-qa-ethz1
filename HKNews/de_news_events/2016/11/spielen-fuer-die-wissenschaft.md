@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/11/spielen-fuer-die-wissenschaft.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH-News: Herr Wallraff, Sie beteiligen sich mit Ihrem Labor am Big Bell Test? Worum geht es bei diesem Test? Andreas Wallraff: Der Big Bell Test ist ein gross angelegtes Experiment, an dem sich elf wissenschaftliche Institutionen weltweit und mindestens 30‘000 Mitspieler auf der ganzen Welt beteiligen. Es soll eine weitere Bestätigung für die Quantenmechanik liefern.

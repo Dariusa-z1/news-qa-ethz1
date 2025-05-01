@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/05/50-millionen-spende-fuer-institut-fuer-theoretische-studien.html
 
-**Date processed:** 2025-05-01
-
 ## Eine Art permanentes Weltklasse-Meeting
 
 Die ETH Zürich hat seit ihren Anfängen grosse Theoretiker in den eigenen Reihen. Wissenschaftler wie Albert Einstein, Wolfgang Pauli, Hermann Weyl, Niklaus Wirth und viele mehr haben in Zürich gelehrt, geforscht und die theoretischen Grundlagen in Physik, Chemie, Mathematik und Informatik erweitert und damit schliesslich zu bedeutenden Innovationen beigetragen. Die Bedeutung der Mathematik hat in der technisierten und digitalisierten Welt weiter zugenommen. Vieles in unserem Alltag basiert auf mathematischen Prinzipien, ohne dass wir uns dessen bewusst wären. Die GPS-Technologie, die in jedem Smartphone steckt, wäre ohne Albert Einsteins allgemeine Relativitätstheorie ebenso undenkbar wie die moderne Informationstechnologie ohne die Quantenmechanik oder Speichermedien wie DVDs ohne die fehlerkorrigierenden Codes, die auf der Zahlentheorie basieren.

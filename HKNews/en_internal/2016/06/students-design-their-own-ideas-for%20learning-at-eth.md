@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/06/students-design-their-own-ideas-for%20learning-at-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The Innovedum Fund, an initiative spearheaded by the ETH Rector, has been advancing faculty teaching innovation at ETH for many years. Now a new “Student Innovedum” project will provide focused support for students who wish to collaboratively develop, test and implement student ideas for enhancing the teaching and learning environment.

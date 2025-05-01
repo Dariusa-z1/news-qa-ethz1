@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/09/globe-was-pflanzen-in-den-bergen-blueht.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der Blick aus dem Autofenster gleicht für kurze Zeit dem Blick aus einem Flugzeug: Tief unten liegt Chur, die Häuser wirken wie Miniaturspielzeug und Autos wie Ameisen, die um dieses Spielzeug herumkurven. Der Hang fällt steil ab. Jake Alexander hält das Steuer fest umklammert, die Strasse ist schmal und holprig, kreuzen wäre an gewissen Stellen unmöglich.

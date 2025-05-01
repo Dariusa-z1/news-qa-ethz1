@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/08/hohe-auszeichnung-fuer-eth-klimaforscher.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der mit 200'000 Franken dotierte Preis zählt zu den höchsten Stiftungspreisen in der Schweiz. Dabei werden Persönlichkeiten ausgezeichnet, die sich der Verbesserung der Lebensbedingungen von Menschen verschrieben und sich dabei besondere Verdienste erworben haben. «Das trifft auf Reto Knutti in hohem Masse zu,» sagt Stiftungsratspräsident Carlo Schmid-Sutter, «unser Bewusstsein für den Klimawandel ist nicht erst nach diesem Hitzesommer gestiegen, dank den neuen Wegen in der Wissensvermittlung ist es Reto Knutti gelungen, neue Interessierte zu erreichen, die Ergebnisse seiner Forschung weit über die akademische Welt hinaus bekannt zu machen und für die Thematik politische Entscheidungsträger und das breite Publikum zu sensibilisieren.»

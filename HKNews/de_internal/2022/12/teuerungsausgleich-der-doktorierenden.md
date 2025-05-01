@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/12/teuerungsausgleich-der-doktorierenden.html
 
-**Date processed:** 2025-05-01
-
 ## ETH-Lohnansätze an SNF gekoppelt
 
 Für die Doktorierenden der ETH Zürich war das keine gute Nachricht, als der ETH-Rat, das strategische Führungsorgan im ETH-Bereich (ETH, EPFL, PSI, WSL, Empa, Eawag) am 8. Dezember mitteilte, dass die ETH-Angestellten für 2023 einen Teuerungsausgleich von 2,5 Prozent erhalten. Für die Doktorierenden gilt dieser Beschluss nämlich nicht.

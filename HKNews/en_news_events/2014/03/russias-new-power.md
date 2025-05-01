@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/03/russias-new-power.html
 
-**Date processed:** 2025-05-01
-
 ## Russia’s imperialist behaviour
 
 Civil war in Syria, new governments in North Africa, Russia’s incursion into Ukraine, the surging fortunes of the Afghan Taliban and war-weariness in the US – what is the meaning of these developments? That is the question examined by the Center for Security Studies (CSS) in its Strategic Trends report. In the fifth annual report, the CSS analyses the significance of recent events for the immediate future.

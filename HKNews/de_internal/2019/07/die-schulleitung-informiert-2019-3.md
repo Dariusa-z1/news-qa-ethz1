@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/07/die-schulleitung-informiert-2019-3.html
 
-**Date processed:** 2025-05-01
-
 ## Gute Noten für Führung und Verwaltung der ETH
 
 Die Schulleitung hat auf Antrag der Forschungskommission grünes Licht zur ersten Vergabe eines ETH+-Grants gegeben. In der ersten Vergaberunde dieses neuen internen Forschungsförderungsinstruments erhält ein Konsortium von elf Forschenden rund um den Erdwissenschaftler Domenico Giardini 1,8 Millionen Schweizer Franken für ihr disziplinenübergreifendes Projekt «Planet MARS». Damit wird sichergestellt, dass über die nächsten Jahre alle Informationen der ETH-Beteiligung an der Insight-Mars-Mission ausgewertet werden können. Das Projekt zielt darauf ab, mit den aus der Mission gewonnenen Daten und einem interdisziplinären Ansatz die innere Struktur und Dynamik des roten Planeten zu erforschen. Insgesamt sechs Eingaben hat die interne Forschungskommission in dieser Vergaberunde beurteilt.

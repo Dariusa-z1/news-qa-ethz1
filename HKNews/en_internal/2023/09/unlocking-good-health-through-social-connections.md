@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2023/09/unlocking-good-health-through-social-connections.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Recent research shows that we are healthier when we feel like we belong to a group. Harnessing the power of team spirit and a sense of belonging can significantly reduce burnout and enhance overall well-being.

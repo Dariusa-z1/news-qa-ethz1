@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/05/kanzlei-im-notbetrieb.html
 
-**Date processed:** 2025-05-01
-
 ## Der Papierflut Herr werden
 
 Während für viele ETH-​Angehörige die Arbeit in den Hochschulgebäuden vorerst der Vergangenheit angehört, haben einige Mitarbeitende ihren angestammten Arbeitsplatz auch nach dem Lockdown nicht verlassen. So sind Giuliana Torre und Edith Niederhäuser von der Kanzlei weiterhin im Hauptgebäude tätig. Die beiden bearbeiten zusammen mit Kollege Guido Lussy dieser Tage die Bachelor-​Studienbewerbungen fürs Herbstsemester 2020. Die schiere Anzahl der Bewerbungen , gekoppelt mit einer strengen Sorgfaltspflicht im Umgang mit den geforderten Originaldokumenten, lässt für sie kein Homeoffice zu.

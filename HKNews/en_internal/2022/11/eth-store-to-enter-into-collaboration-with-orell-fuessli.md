@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/11/eth-store-to-enter-into-collaboration-with-orell-fuessli.html
 
-**Date processed:** 2025-05-01
-
 ## Two out of three stores to be operated by Orell Füssli
 
 In addition to its own online shop, ETH Store AG operates three branches on the ETH Campus in which students and staff can find a wide range of books, stationery and ETH merchandise. ETH Store is now entering into collaboration with Switzerland’s biggest bookseller, Orell Füssli Thalia AG .

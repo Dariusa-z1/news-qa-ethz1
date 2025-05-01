@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/04/why-we-are-taking-a-stand-on-the-swiss-climate-protection-law.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Over 200 scientists at Swiss universities and research institutes support the country’s Climate Protection Law. All are experts in climate, energy, environmental and sustainability research or in climate-related areas of political science, the social sciences, humanities, economics and law. Together, they have now published a statement outlining their position. 1

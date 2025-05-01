@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/04/fortschritte-bei-alternativer-batterietechnik.html
 
-**Date processed:** 2025-05-01
-
 ## Das Wichtigste in Kürze
 
 • In heutigen Zink-Batterien kommen oft toxische Salze zum Einsatz.

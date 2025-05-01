@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/09/fehlt-ein-glied-dann-bricht-die-kette1.html
 
-**Date processed:** 2025-05-01
-
 ## Auftrag der ETH Zürich gefährdet
 
 Bis Ende dieses Jahres will der Bundesrat ein Mandat verabschieden für Verhandlungen über das Freizügigkeitsabkommen mit der EU. Zugleich will er einen Gesetzesentwurf vorlegen, wie die Schweiz die Zuwanderung eigenständig steuern kann. Seit der Volksabstimmung vom 9. Februar 2014 besteht der Verfassungsauftrag, dass die Schweiz ab 2017 die Zahl der Bewilligungen für den Aufenthalt von Ausländerinnen und Ausländern durch jährliche Höchstzahlen und Kontingente begrenzen soll.

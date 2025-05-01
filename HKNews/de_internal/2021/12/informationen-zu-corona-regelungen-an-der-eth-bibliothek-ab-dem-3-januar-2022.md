@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/12/informationen-zu-corona-regelungen-an-der-eth-bibliothek-ab-dem-3-januar-2022.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Zu einzelnen Standorten haben ab 3. Januar 2022 nur ETH-Angehörige Zugang (mit ETH-Karte und Zutrittsberechtigung für das Gebäude). Externen Kundinnen und Kunden stehen die Baubibliothek (HIL) und das InfoCenter (HG) offen.

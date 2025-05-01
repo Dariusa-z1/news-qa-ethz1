@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/09/chemistry-for-the-methanol-economy.html
 
-**Date processed:** 2025-05-01
-
 ## Where does the carbenium ion come from?
 
 Ethylene is produced in greater amounts than any other basic chemical in the world. The small molecule consisting of two carbon atoms and four hydrogen atoms, it is a basic building block in the manufacture of a wide range of basic chemicals, polymers and plasticisers. The packaging material polyethylene (PE) is just one popular application among many. Today ethylene is primarily manufactured from crude oil in a process known as cracking, but the ongoing price volatility and the finite availability of crude oil have caused a surge for an alternative manufacturing approach: its synthesis from methanol in the so-called methanol-to-olefins (MTO) process. Now a team of scientists at ETH Zurich and ENS Lyon has worked out in detail how the reaction begins.

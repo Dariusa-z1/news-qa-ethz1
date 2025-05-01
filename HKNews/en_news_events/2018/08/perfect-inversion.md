@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/08/perfect-inversion.html
 
-**Date processed:** 2025-05-01
-
 ## Magnetic and electric at once
 
 Whenever it gets unpleasantly loud, active noise reduction has been used in earphones or luxury cars in recent years. A microphone picks up the disturbing noise, from which a computer chip calculates the appropriate countermeasures: sound waves whose phases are exactly opposite to those of the ambient sound. The interference between those waves effectively erases the noise. Physicists and engineers would be all too happy to apply this principle of perfect inversion to other technologies, too, for instance to the magnetic structure of a material. ETH professor Manfred Fiebig and his collaborators at the Department of Materials in Zurich have now succeeded in doing just that, with support from scientists in Europe, Japan and Russia. Their results are published this week in the scientific journal Nature.

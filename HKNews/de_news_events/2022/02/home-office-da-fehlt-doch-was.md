@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/02/home-office-da-fehlt-doch-was.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Dabei sind die Möglichkeiten des digital unterstützten ortsunabhängigen Arbeitens ein Segen. In der Pandemie konnte vielerorts die Arbeit nahtlos von zuhause weitergeführt werden: Trotz räumlicher Distanz arbeiten wir mit Arbeitskolleginnen parallel an Dokumenten oder in virtuellen Workshops gemeinsam an digitalen Whiteboards. Gleichzeitig hat die Pandemie auch klar die Grenzen des Home-Office als Dauerzustand aufgezeigt. Neben physischer Erschöpfung und emotionaler Leere erlebten viele einen Verlust des Raum- und Zeitgefühls: Die Küche wird zur Cafeteria, die Wohnzimmercouch zum Arbeits- und Freizeitort und die Grenzen zwischen gestern, heute und morgen lösen sich zunehmend auf. Aus wissenschaftlicher Sicht gibt es dafür verschiedene Erklärungsansätze.

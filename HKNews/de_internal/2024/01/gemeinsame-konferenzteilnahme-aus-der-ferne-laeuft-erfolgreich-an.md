@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/01/gemeinsame-konferenzteilnahme-aus-der-ferne-laeuft-erfolgreich-an.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Jahresversammlung der American Geophysical Union (AGU) ist eine der weltweit grössten Konferenzen für Erd- und Weltraumwissenschaften mit über 25'000 Teilnehmenden. Auch für die Forschenden am Institut für Atmosphäre und Klima (IAC) ist dieser Event ein Höhepunkt im akademischen Kalender. Luna Bloin-Wibe ist Doktorandin in der Forschungsgruppe Klimaphysik des IAC. Sie wäre am letzten AGU-Meeting in San Francisco sicher nicht fehl am Platz gewesen. Trotz der Möglichkeit ihr Netzwerk zu erweitern und ihre Forschung voranzubringen hatte sie mit anderen Mitgliedern des Instituts bewusst auf die Flugreise nach Amerika verzichtet. Keine leichte Entscheidung. Zwar werden die Vorträge des AGU-Meetings live übertragen und eigene Beiträge können dort problemlos virtuell präsentiert werden. Doch das übliche Rahmenprogramm mit Podiumsdiskussionen und Workshops sowie die Begegnungen mit anderen Wissenschaftler:innen aus aller Welt kommen dabei schlicht zu kurz. Um diesen Nachteil auszugleichen, entschied sich Bloin-Wibe mit anderen IAC-Mitgliedern dazu, am Institut ein alternatives Rahmenprogramm für die Fernteilnehmenden auf die Beine zu stellen.

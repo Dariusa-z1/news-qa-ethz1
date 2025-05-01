@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/11/buch-ueber-lee-gebaeude-erschienen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Das neue Gebäude LEE der ETH Zürich in unmittelbarer Nähe des Hauptgebäudes ist Teil der Zürcher Skyline und somit ein städtebaulich herausragendes Projekt. Sein Architekt Fawad Kazi hat einen aussergewöhnlichen Entwurf geschaffen, der auch konstruktiv Neuland betritt. Drei Hauptaspekte bilden die inhaltlichen Schwerpunkte des neu erschienenen Buchs «ETH Zürich Gebäude Lee»: Die städtebauliche Einbindung, die Konstruktion und Materialisierung des Betonelementbaus sowie eine umfassende Dokumentation des Baus in Plan und Bild.

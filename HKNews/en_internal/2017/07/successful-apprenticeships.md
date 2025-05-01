@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2017/07/successful-apprenticeships.html
 
-**Date processed:** 2025-05-01
-
 ## The toolkit will come in handy
 
 ETH Zurich is well known as a prominent university. But for a lucky few, it also offers the opportunity of an apprenticeship or traineeship. Vocational training takes the form of technical and commercial apprenticeships, with 165 apprentices and trainees currently registered. Recently the successful apprentices and trainees celebrated their success with a presentation in the Audi Max, followed by a drinks reception in the Dozentenfoyer.

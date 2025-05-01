@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/08/banknote-to-illustrate-basic-research.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Professor Dissertori, CERN has just presented new findings on the Higgs boson – just as the Swiss National Bank (SNB) releases its new 200 franc note, an initiative in which you played a key role. Which is the bigger achievement in your opinion? Günther Dissertori: Having the chance to contribute to the design of a banknote has been an incredible and one-of-a-kind undertaking. It’s a great honour to have been asked to work with the SNB. I’ve very much enjoyed working with the graphic design team, who throughout the process showed a keen interest in the science behind the art on the new note.

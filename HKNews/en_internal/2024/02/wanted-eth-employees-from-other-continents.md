@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2024/02/wanted-eth-employees-from-other-continents.html
 
-**Date processed:** 2025-05-01
-
 ## Promoting an open organizational culture
 
 Whether it's how openly and directly you communicate or when unpunctuality begins - our cultural background shapes our behavior and how we perceive the behavior of others.

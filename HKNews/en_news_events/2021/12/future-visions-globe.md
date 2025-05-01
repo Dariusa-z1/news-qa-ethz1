@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/12/future-visions-globe.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Chris Luebkeman is head of the Strategic Foresight Hub at ETH Zurich. His group has joined forces with interest groups to identify future-focused drivers of change. (Image: Daniel Winkler)

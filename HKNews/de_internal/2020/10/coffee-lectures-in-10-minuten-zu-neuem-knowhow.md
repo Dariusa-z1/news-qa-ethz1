@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/10/coffee-lectures-in-10-minuten-zu-neuem-knowhow.html
 
-**Date processed:** 2025-05-01
-
 ## So funktionieren die Coffee Lectures
 
 • Der Forschungsdatenlebenszyklus: Der Umgang mit Daten während aller Schritte Ihres Projekts – 4. November

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/05/students-showing-their-practical-skills.html
 
-**Date processed:** 2025-05-01
-
 ## Students take responsibility
 
 ETH Zentrum, CLA Building, Room J31: Back in early September, it was just an empty room; today, computers and desks are jammed in side by side. "We had to build our project from scratch," says Lorenz Affentranger, a mechanical engineering student in his sixth semester, referring to the start of the Ftero focus project. The project aims to develop an innovative system to generate power from wind energy.

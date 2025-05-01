@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/05/licht-ins-leben-von-mikroben.html
 
-**Date processed:** 2025-05-01
-
 ## Wie spielen Mikroorganismen zusammen?
 
 Ohne sie gäbe es keinen Sauerstoff, Mensch und Tier könnten nicht verdauen, und die Stoffkreisläufe auf der Erde gerieten ins Stocken: Mikroorganismen. Ein interdisziplinäres Team von Wissenschaftlern will nun Licht in die mikrobiellen Lebensgemeinschaften bringen. Unter der Leitung der ETH Zürich und des Massachusetts Institute of Technology (MIT) untersuchen drei Forschungsgruppen der ETH mit verschiedenen US-amerikanischen Universitäten mikrobielle Ökosysteme mit einem speziellen Fokus auf die Ozeane. Das Forschungsprojekt mit dem Namen Theory of Microbial Ecosystems (THE-ME) wird von der Simons Foundation mit 15 Millionen US-Dollar über eine Laufzeit von mindestens fünf Jahren gefördert. Hinter der Stiftung stehen James Simons und seine Frau Marilyn. Simons, ein hoch angesehener Mathematiker und Pionier des sekundenschnellen quantitativen Tradings, unterstützt mit der Stiftung seit 1994 Grundlagenforschung und Mathematik.

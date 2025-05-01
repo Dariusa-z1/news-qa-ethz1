@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/06/nanokugel-sensor.html
 
-**Date processed:** 2025-05-01
-
 ## Nanokügelchen im Laserstrahl
 
 Ein winziges Kügelchen und ein Laserstrahl, in dem es wie von Zauberhand gehalten schwebt – mit diesen einfachen Mitteln haben Martin Frimmer und seine Mitarbeitenden am Photonics Laboratory der ETH Zürich einen hochempfindlichen Sensor entwickelt. Das Gerät soll in Zukunft unter anderem extrem schwache Kräfte oder kleinste elektrische Felder präzise messen. Auf dem Weg dorthin sind die Forscher nun einen grossen Schritt weitergekommen, wie sie in einem kürzlich erschienenen Fachartikel schreiben.

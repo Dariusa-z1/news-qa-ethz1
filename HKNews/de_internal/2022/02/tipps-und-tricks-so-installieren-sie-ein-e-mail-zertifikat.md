@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/02/tipps-und-tricks-so-installieren-sie-ein-e-mail-zertifikat.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Vielleicht ist es Ihnen bei E-Mails anderer ETH-Angehöriger schon einmal aufgefallen: das kleine Siegel neben dem Namen des Absenders/der Absenderin:

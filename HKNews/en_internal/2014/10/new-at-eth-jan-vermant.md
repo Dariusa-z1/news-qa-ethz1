@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/10/new-at-eth-jan-vermant.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 What was your main motivation to come to ETH Zurich? I believe that ETH Zurich provides a unique environment that can foster innovative research. The best part of being a professor is working closely with students and young researchers, and I hope that here at ETH Zurich I can focus on research and teaching. I was impressed by the quality of staff and students.

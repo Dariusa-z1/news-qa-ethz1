@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/11/eth-zuerich-tritt-allianz-europaeischer-universitaeten-bei.html
 
-**Date processed:** 2025-05-01
-
 ## Beitrag zum europäischem Bildungsraum
 
 Die ETH Zürich ist Teil der europäischen Universitäts-Allianz Enhance. ETH-Rektor Günther Dissertori hat heute in Aachen bei einem Treffen der Rektor:innen ein entsprechendes Memorandum of Understanding unterschrieben.

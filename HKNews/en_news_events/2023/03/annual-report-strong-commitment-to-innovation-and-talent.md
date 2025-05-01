@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/03/annual-report-strong-commitment-to-innovation-and-talent.html
 
-**Date processed:** 2025-05-01
-
 ## Driving innovation forward and spurring on talent
 
 In 2022, over 2,900 individuals, foundations and companies supported ETH Zurich with more than 3,600 donations, bequests and legacies totalling CHF 111 million.

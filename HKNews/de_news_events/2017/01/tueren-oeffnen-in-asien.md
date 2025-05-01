@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/01/tueren-oeffnen-in-asien.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Nämlich? Dass mehr als die Hälfte der Interessierten neben Singapur mehr zu Indonesien erfahren wollen. Deshalb führen wir nun Anfang März mit rund einem Dutzend Firmenvertretern eine Studienreise nach Singapur und Jakarta durch.

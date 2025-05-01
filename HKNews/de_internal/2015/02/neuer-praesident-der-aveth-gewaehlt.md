@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/02/neuer-praesident-der-aveth-gewaehlt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Mit Florian Thöle ebenfalls in den Vorstand gewählt wurden:

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/07/twelve-professors-appointed.html
 
-**Date processed:** 2025-05-01
-
 ## New appointments
 
 Dr Manuela Irene Brunner (*1989), currently Lecturer at the University of Freiburg in Breisgau, Germany, as Tenure Track Assistant Professor of Hydrology and Climate Impact in the Department of Environmental Systems Science. Manuela Irene Brunner’s research focuses on hydrological processes and climate impact, with particular reference to hydrological extremes such as droughts and floods. She works at the interface of several disciplines – including climate science, hydrology and statistics – and combines data science with statistical and hydrological modelling. Her appointment is made jointly with the Swiss Federal Institute for Forest, Snow and Landscape Research (WSL) in connection with the new CERC research centre at the WSL Institute for Snow and Avalanche Research (SLF) in Davos.

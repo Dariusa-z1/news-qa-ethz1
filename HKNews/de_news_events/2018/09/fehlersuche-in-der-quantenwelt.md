@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/09/fehlersuche-in-der-quantenwelt.html
 
-**Date processed:** 2025-05-01
-
 ## Hin zu grösseren Objekten
 
 Es gibt wohl keine andere wissenschaftliche Theorie, die derart gut abgestützt ist wie die Quantenmechanik. Seit fast 100 Jahren wird sie immer und immer wieder mit hoher Präzision experimentell bestätigt. Und doch sind die Physiker nicht restlos glücklich. Denn die Quantenmechanik beschreibt zwar sehr genau das Geschehen auf der mikroskopischen Ebene. Doch bei grösseren Objekten stösst sie an ihre Grenzen – insbesondere wenn es sich um Objekte handelt, bei denen die Gravitationskraft eine Rolle spielt. So lässt sich etwa das Verhalten von Planeten mit der Quantenmechanik nicht beschreiben. Das ist nach wie vor die Domäne der allgemeinen Relativitätstheorie, die wiederum die Vorgänge im Kleinen nicht richtig zu beschreiben vermag. Viele Physiker träumen denn auch davon, die Quantenmechanik mit der Relativitätstheorie zu einem schlüssigen Bild unserer Welt zu verknüpfen.

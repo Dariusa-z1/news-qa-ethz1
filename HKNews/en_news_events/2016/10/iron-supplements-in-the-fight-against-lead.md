@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/10/iron-supplements-in-the-fight-against-lead.html
 
-**Date processed:** 2025-05-01
-
 ## 450 Moroccan schoolchildren examined
 
 Lead is a toxic heavy metal that was added to petrol for use in cars until as recently as 25 years ago, including in Switzerland. It is particularly harmful to the developing brains of infants, children and teenagers, and the damage it does is irreversible.

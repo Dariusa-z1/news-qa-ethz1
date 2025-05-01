@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/01/bauliche-entwicklung-der-eth-zuerich.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 An zwei Veranstaltungen mit campusspezifischen Schwerpunkten wurde unter anderem die bestehende Flächenknappheit der ETH Zürich sowie ihre Ursachen und Lösungsansätze thematisiert wie auch der aktuelle Stand der übergeordneten Gebietsplanungen sowie der laufenden und anstehenden Bauprojekte vorgestellt und auf die konkreten laufenden und anstehenden Bauprojekte eingegangen.

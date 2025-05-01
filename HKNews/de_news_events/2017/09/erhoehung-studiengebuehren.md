@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/09/erhoehung-studiengebuehren.html
 
-**Date processed:** 2025-05-01
-
 ## Top-Ausbildung zu weiterhin günstigem Preis
 
 Zurzeit gehört die ETH Zürich zu den Schweizer Hochschulen mit den tiefsten Studiengebühren. Mit 1160 Schweizer Franken pro Jahr liegt die ETH im Drittel mit den niedrigsten Gebühren. Der ETH-Rat hat nun entschieden, die Gebühren um 500 Franken pro Jahr anzuheben. Eingeführt werden soll die Neuerung in zwei Stufen. Auf das Herbstsemester 2019/2020 beträgt die Erhöhung 250 Franken, auf das Herbstsemester 2020/2021 nochmals 250 Franken. Betroffen sind nicht nur die Bachelor- und Masterstudierenden, sondern auch Doktorierende, die Teilnehmenden an Weiterbildungsprogrammen sowie die Hörerinnen und Hörer.

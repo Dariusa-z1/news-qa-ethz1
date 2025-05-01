@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/05/european-football-championship-eth-betting-game.html
 
-**Date processed:** 2025-05-01
-
 ## Place your bets in ETH’s football challenge
 
 The European Football Championship should have actually taken place last year, but the coronavirus pandemic forced it to reschedule to this summer. The games will finally begin on 11 June, kicking off in 11 different cities simultaneously.

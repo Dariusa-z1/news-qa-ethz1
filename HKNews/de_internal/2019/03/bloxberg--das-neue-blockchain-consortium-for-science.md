@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/03/bloxberg--das-neue-blockchain-consortium-for-science.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die ETH-Bibliothek unterstützt dieses Forschungsexperiment, um Erfahrungen darin zu sammeln, wie sie Forschende mit Blockchain-Technologien unterstützen kann. Zudem möchte sie lernen, wie diese Technologien den Umgang mit Forschungsdaten und -ergebnissen verändern beziehungsweise die Zusammenarbeit von Wissenschaftlern beeinflussen.

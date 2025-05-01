@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/12/globe-abfallmanagement-neu-gedacht.html
 
-**Date processed:** 2025-05-01
-
 ## Steile Lernkurven
 
 Um 10 Uhr morgens ist der Kaffee im Samowar bereits halb leer. Im Kirchengemeindezentrum Richterswil läuft afrikanische Popmusik. Studierende aus 17 Nationen befinden sich im Endspurt der Fertigung ihrer Prototypen: Zwischen den Stellwänden mit Ideenskizzen und Post-its wird diskutiert, entworfen und gebaut. Draussen üben die Teams ihre Präsentationen und manche lüften ihre Köpfe bei einem «Energizer»: einer Übung, die Körper und Geist aktiviert. «Die Studierenden durchlaufen den Design Thinking Prozess – eine Methode, um innovative Lösungen für komplexe Probleme zu finden», erklärt Marriette Mertens, Programmmanagerin bei ETH for Development (ETH4D) und Leiterin der Summer School «Rethinking Waste». Der 16-tägige Intensivkurs ist eine Zusammenarbeit der ETH Zürich mit der Kwame Nkrumah University of Science and Technology (KNUST) in Ghana. 21 Studierende der KNUST haben dazu die Schweiz besucht und mit 20 ETH-Studierenden in der Jugendherberge Richterswil zusammengelebt. Die gemeinsamen Erfahrungen haben die jungen Leute zusammengeschweisst und den Perspektivenwechsel gefördert. Die Kollaboration von Menschen unterschiedlicher Herkunft und Disziplinen sei eine gute Art, globale Probleme wie das Abfallmanagement anzugehen, sagt die gebürtige Ghanaerin.

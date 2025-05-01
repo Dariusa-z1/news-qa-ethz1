@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/04/was-uns-fruehere-vogelgrippe-ausbrueche-lehren.html
 
-**Date processed:** 2025-05-01
-
 ## Das Wichtigste in Kürze
 
 • An der Vogelgrippe-Epidemie 2013 bis 2017 in China zeigt sich: In Geflügelhaltungen können Erreger schon mehrere Monate, bevor sie entdeckt werden, zirkulieren.

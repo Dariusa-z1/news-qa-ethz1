@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/04/neues-e-learning-unconscious-bias.html
 
-**Date processed:** 2025-05-01
-
 ## Schubladendenken mit Folgen
 
 Diese oder ähnliche Situationen kennen wohl die meisten von uns: Ganz automatisch sprechen wir eine Person of Colour (PoC) auf Hochdeutsch oder Englisch an – und sind ziemlich überrascht, wenn sie in breitestem Schweizerdeutsch antwortet. Völlig unbeabsichtigt haben wir so möglicherweise die Gefühle unseres Gegenübers verletzt. Es ist ein klassisches Beispiel für einen «Unconscious Bias», eine unbewusste Vorannahme. Solche Verzerrungen entstehen dadurch, dass unser Gehirn darauf trainiert und angewiesen ist, unglaublich schnell Einschätzungen vorzunehmen. Mehrere tausend Entscheide treffen Menschen pro Tag. Darunter sind gerne auch einmal Fehlentscheide.

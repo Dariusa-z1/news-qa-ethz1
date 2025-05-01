@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/07/63-people-successfully-complete-their-apprenticeships.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 A total of 26 women and 37 men completed their apprenticeship at ETH Zurich. Grouped by apprenticeship type, in 2015 there were:

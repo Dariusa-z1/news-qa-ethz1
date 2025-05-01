@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/10/precise-and-programmable-biological-circuits.html
 
-**Date processed:** 2025-05-01
-
 ## A biosensor that does not ‘leak’
 
 Bio-engineers are working on the development of biological computers with the aim of designing small circuits made from biological material that can be integrated into cells to change their functions. In the future, such developments could enable cancer cells to be reprogrammed, thereby preventing them from dividing at an uncontrollable rate. Stem cells could likewise be reprogrammed into differentiated organ cells.

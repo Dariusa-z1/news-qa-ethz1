@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/12/good-reads-for-the-holidays.html
 
-**Date processed:** 2025-05-01
-
 ## Climate change
 
 This is a small selection of English blog posts, for a nice German selection, see here .

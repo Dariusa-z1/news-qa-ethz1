@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/04/sleepstudy-somnomat.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Except for the small red light of the 3D camera, it is pitch-black in the sleep laboratory. Basil has no problem with that; in fact, he likes it. The 14-year-old from Somerset is often tired during the day. He has even fallen asleep in class. The reason for this is his sleep-related rhythmic movement disorder (RMD). It started when he was 18 months old. Since then, he has been rocking his body back and forth forcefully on all fours at periods during the night. His mother Denise says that it took years for him to be diagnosed and referred to a specialist at the University Hospital in Southampton. Thanks to Dr Cathy Hill , Basil is now in Zurich lying in an automated bed – the Somnomat – as a participant in a study by the ETH Sensory-Motor Systems Lab.

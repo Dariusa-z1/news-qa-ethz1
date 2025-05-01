@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/07/scientifica-is-looking-for-helping-hands.html
 
-**Date processed:** 2025-05-01
-
 ## New locations, wider range
 
 Scientifica celebrates its tenth anniversary this year. In 2011, ETH Zurich and the University of Zurich invited the public for the first time to exchange ideas with researchers in the two main buildings. Whether at exhibition stands, in short lectures, science cafés or workshops: The enthusiasm of the scientists was transferred to the public. The university science festival grew over the years, attracting over 20,000 visitors each time. The exhibition became correspondingly crowded at times.

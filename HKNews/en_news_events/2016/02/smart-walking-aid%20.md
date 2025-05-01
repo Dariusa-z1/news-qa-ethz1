@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/02/smart-walking-aid%20.html
 
-**Date processed:** 2025-05-01
-
 ## Underdeveloped technology
 
 When walking becomes increasingly difficult and arduous, many elderly people use walkers. These walking aids are frames mounted on four wheels that senior citizens can lean on and push along in front of them. The front wheels are steerable, while the rear wheels are fixed in position. Add a basket for groceries and brakes so that the walker does not roll off down a hill and presto! There is not really much more to conventional walkers.

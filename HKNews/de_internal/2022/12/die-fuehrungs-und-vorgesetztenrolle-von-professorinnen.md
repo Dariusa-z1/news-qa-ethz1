@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/12/die-fuehrungs-und-vorgesetztenrolle-von-professorinnen.html
 
-**Date processed:** 2025-05-01
-
 ## Professor:innen werden laufend beurteilt
 
 Traditionell finden im Herbst Personalgespräche statt. Auch an der ETH werden die administrativ-technischen Mitarbeitenden jährlich von ihren Vorgesetzten beurteilt, erhalten Feedback zu ihrer Arbeit und sind aufgefordert, ihrerseits eine Rückmeldung zu den Vorgesetzten zu geben. Gemeinsam werden die neuen Ziele für das kommende Jahr festgelegt. Dieser Prozess gilt für Mitarbeitende aller Stufen. Für die Professorenschaft besteht hingegen ein anderer Evaluationsprozess.

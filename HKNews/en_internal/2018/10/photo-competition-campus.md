@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/10/photo-competition-campus.html
 
-**Date processed:** 2025-05-01
-
 ## Photo competition
 
 What makes the Hönggerberg campus unique? Where are your favourite places? How do you spend your time on the Hönggerberg campus?

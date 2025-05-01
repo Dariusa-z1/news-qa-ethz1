@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/01/mitoribosom.html
 
-**Date processed:** 2025-05-01
-
 ## Structure determination with obstacles
 
 The ribosome can be thought of as a decryption device housed within the cell. It is able to decipher the genetic code, which is delivered in the form of messenger ribonucleic acid (mRNA), and translate it into a specific sequence of amino acids. The final assembly of amino acids into long protein chains also takes place in these enzyme complexes. Without ribosomes, a cell would be unable to produce any proteins. Due to their central function, these enzyme complexes have long been the focus of attention of biologists.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/06/robotx-innovation-day-2024.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Beim RobotX Inovation Day am 14. Juni 2024 hatten Partner aus Forschung und Industrie die Gelegenheit, Einblick in aktuelle Forschungsgebiete der ETH Zürich zu erhalten und die nächste Generation von Robotern zu erleben. Forschungsgruppen und Start-ups präsentierten sich in der neu renovierten historischen Maschinenhalle auf dem ETH Campus Zentrum. Die Besucherinnen und Besucher konnten Robotik-Anwendungen aus den Bereichen Assistenz, Mobilität, Logistik, Konstruktion und Inspektion besichtigen. Zu sehen waren schlangenförmige, ein- und vierbeinige Roboter, Luft- und Unterwasserdrohnen, autonome Fussball spielende Roboter und selbstfahrende Matchbox-Autos.

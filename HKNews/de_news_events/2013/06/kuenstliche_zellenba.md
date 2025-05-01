@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/06/kuenstliche_zellenba.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Daniel Müller ist von Haus aus Physiker und baut Maschinen. Das Besondere daran: Seine Maschinen sind so winzig, dass sie in eine Zelle passen. Genauer gesagt: in eine künstliche Zelle. Die Bestandteile der Maschinen sind Moleküle, beispielsweise Proteine. «Unser Vorbild ist die Natur», erläutert Müller, Professor für Bionanotechnologie am Departement Biosysteme (D-BSSE) der ETH Zürich in Basel. «Wir wollen die Vorgänge in Zellen genau verstehen, ahmen die Vorgänge nach und bauen sie schliesslich nach unseren Bedürfnissen neu.»

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/11/a-biochemical-random-number.html
 
-**Date processed:** 2025-05-01
-
 ## DNA synthesis with random building blocks
 
 True random numbers are required in fields as diverse as slot machines and data encryption. These numbers need to be truly random, such that they cannot even be predicted by people with detailed knowledge of the method used to generate them.

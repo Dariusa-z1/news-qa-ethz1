@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/09/sustainable-spirit.html
 
-**Date processed:** 2025-05-01
-
 ## Help with everyday campus life
 
 "Our products are designed to appeal to everyone on the ETH campus – students, ETH staff, alumni and visitors," says Katrin Schley, managing director of ETH Store AG. The retailer currently has five sales outlets at ETH and on the Toni campus of the Zurich University of the Arts (ZHdK), all offering a wide range of stationery goods and books as well as merchandising at comparatively low prices.

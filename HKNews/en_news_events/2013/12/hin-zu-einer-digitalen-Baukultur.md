@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/12/hin-zu-einer-digitalen-Baukultur.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Matthias Kohler will be leading the new NCCR «Digital Fabrication». (Photo: Matthias Kohler)

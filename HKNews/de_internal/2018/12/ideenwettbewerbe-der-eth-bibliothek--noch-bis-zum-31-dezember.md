@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/12/ideenwettbewerbe-der-eth-bibliothek--noch-bis-zum-31-dezember.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der Ausbau der Research Collection zum «Information Hub» für Forschende, erweiterte Funktionen im Suchportal und vieles mehr: Lassen Sie sich von den bereits externe Seite eingereichten Ideen call_made inspirieren und machen Sie selbst zu folgenden Fragestellungen mit:

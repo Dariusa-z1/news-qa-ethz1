@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/05/campus-services-hochschulalltag-erleichtern.html
 
-**Date processed:** 2025-05-01
-
 ## Neuer Name und angepasste Ausrichtung
 
 Campus Channels , Mobilität und Signaletik sind nur drei von aktuell 16 verschiedenen Dienstleistungen, die die Abteilung Campus Services ETH-weit anbietet. Exzellente Lehre und Spitzenforschung brauchen zunächst bedarfsgerechte Infrastrukturen. Das knappste Gut der Akademie ist aber stets die Zeit: «Unsere professionellen Dienstleistungen ermöglichen die Fokussierung der Lehrenden und Forschenden auf ihre Kernaufgaben. Den Rest erledigen wir» erklärt Prof. Ulrich Weidmann, Vizepräsident für Infrastruktur.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/12/anleitung-fuer-einen-datenmanagementplan-spezifischer-support-fuer-eth-forschende.html
 
-**Date processed:** 2025-05-01
-
 ## What is a data management plan good for?
 
 A data management plan (DMP) details every stage along the entire data life cycle that research data pass through during your research project. This means a DMP documents the handling of your research data from generation and collection of the data until final storage in a repository or archive for the purpose of long-term reuse. A DMP not only advances the management of your research project, but also enhances the transparency and reusability of your own scientific work. These are convincing arguments for establishing a DMP, even if it is not explicitly required for your project.

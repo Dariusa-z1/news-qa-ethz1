@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/02/personalfest-together-verschoben.html
 
-**Date processed:** 2025-05-01
-
 ## Vorarbeiten waren nicht umsonst
 
 Das «togETHer» ist eigentlich ein fixer Bestandteil im Veranstaltungskalender der ETH Zürich. Alle zwei Jahre nehmen 3000 bis 4000 Mitarbeitende und ihre Angehörigen daran teil. Doch wie schon im ersten «Corona-Jahr» 2020 ist auch in diesem Jahr vieles etwas anders. Wegen der unsicheren Lage rund um die Pandemie – insbesondere aufgrund der Virus-Mutationen – ist es zum jetzigen Zeitpunkt ungewiss, ob eine solche Grossveranstaltung im Sommer stattfinden kann.

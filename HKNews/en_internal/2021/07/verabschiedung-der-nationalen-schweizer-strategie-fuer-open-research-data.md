@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/07/verabschiedung-der-nationalen-schweizer-strategie-fuer-open-research-data.html
 
-**Date processed:** 2025-05-01
-
 ## Strategy to support researchers
 
 The State Secretariat for Education, Research and Innovation (SERI) commissioned swissuniversities to devise a Swiss National Open Research Data Strategy, which was adopted at the beginning of July 2021. This strategy was drawn up together with the ERI partner organisations (ETH Board, SNSF and Swiss Academies of Arts and Sciences) and complements Switzerland’s existing national open-access strategy.

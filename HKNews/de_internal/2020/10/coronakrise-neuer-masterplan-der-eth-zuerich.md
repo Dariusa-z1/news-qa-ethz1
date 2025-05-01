@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/10/coronakrise-neuer-masterplan-der-eth-zuerich.html
 
-**Date processed:** 2025-05-01
-
 ## Ausgewählte Lehrveranstaltungen in Präsenz
 
 Der Unterricht findet ab sofort online statt, ausser Lehrveranstaltungen, die auf Infrastruktur vor Ort angewiesen sind. Die Maskenpflicht wird auf dem ganzen Campus ausgedehnt. Und die Zahl der Teilnehmenden an Veranstaltungen wird auf 50 Personen limitiert: Das sind die wichtigsten neuen Massnahmen, die der von der Schulleitung verabschiedete Masterplan vorsieht, der am 2. November in Kraft tritt. Die Verschärfungen basieren auf dem Entscheid des Bundesrats von letztem Mittwoch.

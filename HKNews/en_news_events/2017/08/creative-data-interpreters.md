@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/08/creative-data-interpreters.html
 
-**Date processed:** 2025-05-01
-
 ## Analysing and classifying articles
 
 It all began a few years ago: Mark Cieliebak, Martin Jaggi and Fatih Uzdilli were computer science researchers at ETH and Zurich University of Applied Sciences (ZHAW), and published their technologies in scientific papers. However, they did not gain much publicity. In order to change that, they founded the ETH spin-off SpinningBytes in 2015 and made their programs freely available on their homepage.

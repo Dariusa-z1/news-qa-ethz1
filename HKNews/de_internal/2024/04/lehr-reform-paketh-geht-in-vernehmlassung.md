@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/04/lehr-reform-paketh-geht-in-vernehmlassung.html
 
-**Date processed:** 2025-05-01
-
 ## Vernehmlassung bis zum 14. Juni
 
 Jetzt liegt das Konzept für die Reform vor. Es konkretisiert die Ideen, die am Lehrretreat im Sommer 2023 erstmals besprochen wurden:

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/11/sergio-mattarella-al-politecnico.html
 
-**Date processed:** 2025-05-01
-
 ## Schweizer Hochschulen und Europa
 
 Mesot verwies auf die verschiedenen historischen Verbindungen des Poly zu Italien. Wie schon bei ihrer Gründung, sei der Auftrag der ETH auch heute noch, im Dienst der Gesellschaft zu stehen. Die Welt sei indes eine andere mit zahlreichen Krisen und Herausforderungen, die sich der Schweiz und der Welt stellten. Für deren Lösung brauche es nicht nur den politischen Willen zur grenzüberschreitenden Zusammenarbeit, sondern auch den Beitrag der Wissenschaft sowie innovative Technologien. Dann dankte er dem italienischen Staatspräsidenten für seinen Besuch: «Wir schätzen es ausserordentlich, dass Sie uns heute die Möglichkeit geben für einen kulturellen Brückenschlag und Gedankenaustausch mit unseren Forschenden und Studierenden.»

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/03/start-einer-podcast-reihe-zu-covid-19.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Welche Gesundheitstipps helfen bei der Stärkung des Immunsystems, wie könnten Gendaten bei der Echtzeitanalyse der COVID-19 Pandemie helfen, was bedeutet es, Vorlesungen über Nacht auf Online-Unterricht umzustellen, und wie werden wir in den nächsten Wochen im Homeoffice nicht die Wände hochgehen? Diesen und vielen weiteren Fragen gehen wir mit unseren Forschenden im ETH Podcast #COVID-19 nach.

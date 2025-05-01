@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/08/switzerland-from-the-air.html
 
-**Date processed:** 2025-05-01
-
 ## Attraction of aerial photographs
 
 In 1973 FC Zurich won the Swiss Cup Final against FC Basel 2:0 after extra time at Bern’s Wankdorf Stadium. But the game wasn’t interesting just from a sports history point of view – an aerial photograph of the match not only shows the sold-out stadium but also the car park, with its many colourful vehicles from the 1970s. Alongside this unusual historical photograph, the new illustrated book Swissair Aerial Photographs contains 36 colour and 112 black-and-white pictures from the collections of ETH-Bibliothek. The oldest photo dates back to 1918 and the most recent was taken in 1999.

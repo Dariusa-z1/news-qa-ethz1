@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/04/zurueck-zum-eth-normalbetrieb-in-drei-etappen.html
 
-**Date processed:** 2025-05-01
-
 ## Rahmenbedingungen
 
 Nachdem die Schulleitung angesichts der Coronakrise ab Februar erste Sofortmassnahmen beschlossen und am 16. März den Notbetrieb erklärt hat, zeigt sie mit dem Masterplan «Rückkehr zum neuen Normalbetrieb» auf, wie an der ETH Zürich bis Ende Jahr geforscht, gelehrt und gearbeitet wird. Diese Phase gliedert sich in drei Abschnitte, für die unterschiedliche Regeln gelten.

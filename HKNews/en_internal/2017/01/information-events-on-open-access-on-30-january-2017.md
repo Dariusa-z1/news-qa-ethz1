@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2017/01/information-events-on-open-access-on-30-january-2017.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Programme

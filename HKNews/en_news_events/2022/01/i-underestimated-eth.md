@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/01/i-underestimated-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In the second episode, Master’s student Sarper Melik Ertekin tells us why he has learned not to compare himself to others.

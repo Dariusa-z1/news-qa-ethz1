@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/02/smart-walker.html
 
-**Date processed:** 2025-05-01
-
 ## Wenig entwickeltes Gerät
 
 Wenn das Gehen immer schwieriger und beschwerlicher wird, verwenden etliche alte Menschen einen Rollator, eine Gehhilfe auf vier Rädern, auf die sie sich abstützen und die sie beim Gehen vor sich herschieben können. Die vorderen Räder sind lenkbar, die hinteren starr. Ein Körbchen für Einkäufe; Bremsen, damit das Gefährt bergab nicht davonrollt – so einfach ist ein Rollator ausgestattet.

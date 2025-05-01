@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/07/buildings-to-reopen-starting-3-august.html
 
-**Date processed:** 2025-05-01
-
 ## Student workplaces are back
 
 The next stage of ETH Zurich's coronavirus master plan (3–30 August) reflects a cautious approach, relaxing restrictions where possible but maintaining a hard line where necessary. A key element of this stage is the reopening of university buildings to members of the ETH community (including handymen and guests) as well as to visitors of libraries, exhibitions and collections. The same opening hours as before the lockdown will be in place. The general public will continue to be denied access for the time being. Buildings not hosting any exams may remain closed if requested by an academic or administrative department.

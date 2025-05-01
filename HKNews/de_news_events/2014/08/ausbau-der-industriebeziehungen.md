@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/08/ausbau-der-industriebeziehungen.html
 
-**Date processed:** 2025-05-01
-
 ## Wirtschaft setzt auf Hochschulforschung
 
 Für Roland Siegwart, Vizepräsident Forschung und Wirtschaftsbeziehungen der ETH Zürich, war der Industry Day 2014 etwas Spezielles: Für ihn, der diesen Anlass als «Brücke zwischen Hochschule und Industrie, namentlich für die Kleinen und mittleren Unternehmen KMU», mitbegründet hat, war es der letzte in seiner aktuellen Funktion. Siegwart wird Ende Jahr als Vizepräsident zurücktreten und sich wieder der Forschung widmen.

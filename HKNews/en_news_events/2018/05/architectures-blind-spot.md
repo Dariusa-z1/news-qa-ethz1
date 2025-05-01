@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/05/architectures-blind-spot.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Shortly after the publication of this article, the Swiss Pavilion received the Golden Lion for the first time. Further information can be found in the article " Biennale 2018: ETH contribution wins Golden Lion ".

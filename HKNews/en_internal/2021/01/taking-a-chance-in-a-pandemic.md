@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/01/taking-a-chance-in-a-pandemic.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 It all started in April, as the first wave of the pandemic reached its peak and resulted in huge demand for face masks. Alarmed by the supply issues in Switzerland, brothers Gabriel and Rafael Sonderegger decided to take things into their own hands. They first thought of importing masks from abroad, but were forced to reconsider as export bans were imposed by one country after another, and ultimately decided to produce and distribute their own Swiss-made masks.

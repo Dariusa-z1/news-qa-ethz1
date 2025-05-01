@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/01/doktorat-auf-neue-stufe-heben.html
 
-**Date processed:** 2025-05-01
-
 ## Doktorat im Wandel
 
 200 ETH-Dozierende, davon knapp die Hälfte Professorinnen und Professoren aller Stufen, gut 80 Doktorierende und 60 Administrationsmitarbeitende sowie 40 Gäste von Universitäten im In- und Ausland haben die Einladung zum Symposium «Doctoral Supervision» angenommen. Das Thema bewegt. Und dies zurecht, ist doch das Doktorat eine zentrale Institution einer Forschungsuniversität.

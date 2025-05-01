@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/07/masterarbeit-enthaelt-plagiate.html
 
-**Date processed:** 2025-05-01
-
 ## Fahrlässig gehandelt
 
 Der Verdacht, dass Doris Fiala in ihrer Masterarbeit im Rahmen des ETH-Weiterbildungsprogramms «Master of Advanced Studies in Security Policy and Crisis Management» (MAS ETH SPCM) wissenschaftlich unkorrekt gearbeitet hat, hat sich erhärtet. Ein externes Expertengutachten weist zweifelsfrei nach, dass die Autorin in ihrer Arbeit «Die schweizerische Migrationspolitik im Kontext der nationalen Sicherheit und globaler Zusammenhänge» zahlreiche Inhalte ohne korrekten Nachweis aus fremden Quellen übernommen hat.

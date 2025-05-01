@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/03/warnung-vor-cyberattacken.html
 
-**Date processed:** 2025-05-01
-
 ## Das ist CEO-Fraud
 
 Der ETH-Mitarbeitende X erhält folgende E-Mail-Anfrage, die anscheinend von seinem Vorgesetzten versendet wurde:

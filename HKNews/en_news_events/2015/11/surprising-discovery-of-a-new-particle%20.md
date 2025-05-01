@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/11/surprising-discovery-of-a-new-particle%20.html
 
-**Date processed:** 2025-05-01
-
 ## Search for new material properties
 
 When ETH professor Hermann Weyl arrived for his one-year tenure as guest professor at Princeton in the autumn of 1928, the quantum physicist Paul Dirac had just published his celebrated formula for the electron. That formula described the properties of so-called fermions, or quantum particles with half-integer spin, and its predictions - among them the existence of anti-matter – ushered in the era of modern particle physics. Weyl realized that, in principle, Dirac’s equation also allowed solutions for particles without mass. In 1929 he published a paper in which he described those massless particles with half-integer spin. They would later be called “Weyl fermions”.

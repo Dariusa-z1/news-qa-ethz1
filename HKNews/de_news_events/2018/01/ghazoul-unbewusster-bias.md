@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/01/ghazoul-unbewusster-bias.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 «Ein einziger gigantischer Irrtum»: So beurteilte Charles Darwin seine Publikation zu den «Parallel-Strassen» von Glen Roy aus dem Jahr 1839. Drei perfekt horizontal ausgerichtete Terrassen erstrecken sich über die Abhänge des Glen Roy-Tals im Nordwesten Schottlands. Für die Geologen der damaligen Zeit war die Deutung dieses Phänomens eine knifflige Aufgabe. Charles Darwin, soeben zurück von seiner Weltreise auf der HMS Beagle , war fasziniert von Charles Lyells Aktualismus-Theorie der Geologie, wonach Landformen wie etwa Berge aus sukzessiver Anhebung entstehen.

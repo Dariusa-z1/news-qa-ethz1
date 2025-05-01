@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/05/blog-an-ecological-turnaround-can-be-achieved.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The scale of the biodiversity crisis is such that it can no longer be tackled by a handful of nature protection areas and a couple of volunteers. Nature conservation has gone from a mere hobby to a global issue demanding commitment and concerted action. And this is what the International Day for Biological Diversity calls to our attention 1 .

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/12/anymal.html
 
-**Date processed:** 2025-05-01
-
 ## Erster Testlauf
 
 Zwei Männer heben die 30 Kilogramm schwere Hightechmaschine an und lassen sie an einem Seil hinunter in die Dunkelheit des Schachts. Wir ziehen reflektierende Ganzkörperanzüge über, tauschen unsere Schuhe gegen ein Paar oberschenkellange Gummistiefel, knoten diese an den Ösen des Anzugs fest, dazu kommen noch Helm, Taschenlampe und Einweghandschuhe, dann steigen wir hinterher – entlang der Stufen in der Wand, eine nach der anderen, vier Meter tief in die Kanalisa­tion Zürichs.

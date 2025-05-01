@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2017/01/browzine-das-tool-zur-intuitiven-zeitschriftenrecherche.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Dieses ist sowohl als Web-Anwendung als auch über eine App nutzbar:

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/11/die-schulleitung-informiert-2019-6.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Since 2004, the proportion of female students has been constant at around 30 percent; in 2018, it rose to 32 percent for the first time. According to the latest issue of the Gender Monitoring Report by Equal!, the ETH Office of Equal Opportunities and Diversity, the proportion of women holding a full professorship rose from 12.1 percent in 2017 to 13.3 percent in 2018. However, the proportion of female assistant professors fell slightly to 21.9 percent. The proportion of women among all professors amounted to almost 15 percent. This year, the focus section of the Gender Monitoring Report is dedicated to the role of women and men in ETH spin-offs. Over the past 28 years, the proportion of female founders has on average been just under 8 percent. Even in the last ten years, this proportion has hardly exceeded the 10 percent mark. The reasons for this include the fact that women perceive a low level of knowledge in business management as more of a deterrent than is the case with men. In addition, the proportion of women in research teams is already low, and this is reflected in the founding teams.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/07/spatenstich-hif-sanierung-und-erweiterung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Laut Prof. Thomas Vogel, Vorsteher des Departementes Bau, Umwelt und Geomatik, bedeutet diese Campus-Erweiterung ein Näherrücken verschiedener Disziplinen sowie eine allgemeine Entwicklungsmöglichkeit für das Departement und seine Institute.

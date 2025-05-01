@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/06/heimat-der-drohnen.html
 
-**Date processed:** 2025-05-01
-
 ## Das Drohnen-Ökosystem in der Schweiz
 
 In dieser Woche setzt das externe Seite Weltwirtschaftsforum Drohnen ganz oben auf seine Agenda – mit dem Treffen des Drone Innovators Network an der ETH Zürich. Die geplanten Diskussionen decken das gesamte Spektrum der Drohnennutzung in der Gesellschaft ab, von der Luftverkehrspolitik bis hin zu Paketlieferungen in städtischen Gebieten. Dabei wird auf den Nutzen von Drohnen aber auch auf ihre potenziellen Risiken eingegangen.

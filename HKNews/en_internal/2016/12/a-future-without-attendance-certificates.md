@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/12/a-future-without-attendance-certificates.html
 
-**Date processed:** 2025-05-01
-
 ## Evaluation of the trial phase
 
 For decades, attendance certificates have been an everyday part of student life. In consultation with the Executive Board, ETH Rector Sarah Springman yesterday officially decided that ETH Zurich’s teaching will no longer use attendance certificates in future. This decision sees Springman complete a process initiated by her pre-predecessor Heidi Wunderli-Allenspach.

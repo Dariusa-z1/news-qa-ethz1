@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/04/web-center.html
 
-**Date processed:** 2025-05-01
-
 ## Identity und Access Management (IAM)
 
 ETH members log into the application via www.password.ethz.ch (German: www.passwort.ethz.ch ) with their ETH user name and ETH password for web applications, AAI (LDAP). The explanation video "Change your password" shows in detail how to set or change your passwords in the Web Center. The function "Forgot password?" is currently switched off and will follow.

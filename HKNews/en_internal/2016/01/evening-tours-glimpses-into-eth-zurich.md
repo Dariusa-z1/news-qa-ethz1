@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/01/evening-tours-glimpses-into-eth-zurich.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 • How was Thomas Mann portrayed in photographs?

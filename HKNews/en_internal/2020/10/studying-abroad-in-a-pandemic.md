@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/10/studying-abroad-in-a-pandemic.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Mrs Rothenbühler, is studying abroad still an issue despite the difficult pandemic situation? Is the demand still there?

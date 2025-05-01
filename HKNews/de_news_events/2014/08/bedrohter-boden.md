@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/08/bedrohter-boden.html
 
-**Date processed:** 2025-05-01
-
 ## Boden in Gefahr
 
 Boden ist eine Grundlage für Leben. Das leuchtet ein, weil Boden uns Nahrung liefert. Doch Boden erfüllt viele weitere, wichtige Funktionen, die für den Erhalt unserer Gesellschaft von grosser Bedeutung sind: Er filtert Wasser von Verunreinigungen, bildet das Habitat für unzählige Lebewesen und ist einer der wichtigsten Kohlenstoffspeicher – rund ein Fünftel der vom Menschen verursachten CO 2 -Emissionen werden direkt im Boden gebunden.

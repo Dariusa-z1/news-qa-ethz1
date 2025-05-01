@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/06/tanja-stadler-epidemien-im-keim-ersticken.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Nicht nur wir Menschen haben einen genetischen Code, den man entschlüsseln und analysieren kann, auch Krankheitserreger wie Viren und Bakterien haben einen solchen. Seit der Ausbreitung der HIV-Pandemie in den 1990er Jahren beschäftigt sich die Wissenschaft mit der Entschlüsselung des Bauplans von Pathogenen, und von Anfang an waren mathematische Analysen der genetischen Sequenzen zentral.

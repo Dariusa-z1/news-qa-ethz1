@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/11/luftig-und-effizient.html
 
-**Date processed:** 2025-05-01
-
 ## Spektrum mit Stickstoffdotierung erweitern
 
 Aerogele sind aussergewöhnliche Materialien, die es mit über einem Dutzend Einträgen ins Guinnessbuch der Rekorde geschafft haben, unter anderem als leichteste Feststoffe der Welt.

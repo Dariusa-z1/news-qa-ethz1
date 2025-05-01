@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/09/sechs-professorinnen-und-professoren-ernannt.html
 
-**Date processed:** 2025-05-01
-
 ## Neuernennungen
 
 Prof. Dr. Lint Barrage (*1985), zurzeit Assistenzprofessorin an der University of California, USA, zur ausserordentlichen Professorin für Energie- und Klimawirtschaft am Departement Management, Technologie und Ökonomie. Lint Barrages Forschung konzentriert sich auf die makroökonomischen und gesellschaftlichen Konsequenzen von ökologischen Entwicklungen und umweltpolitischen Entscheidungen. Ihr besonderes Interesse gilt dabei den energie- und klimapolitischen Auswirkungen auf die wirtschaftliche Entwicklung. Mit ihrer Berufung verstärkt das Departement die die Kompetenzen und Forschungsaktivitäten in Energieökonomie und -politik. Zudem ergeben sich wichtige Synergien mit den Kolleginnen und Kollegen des Center for Energy Policy and Economics und des Energy Science Center.

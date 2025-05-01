@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/06/die-schulleitung-informiert-2023-5.html
 
-**Date processed:** 2025-05-01
-
 ## Neue Prorektoren Studium und Curriculumsentwicklung gewählt
 
 Die Schulleitung hat zwei Prorektorenstellen neu besetzt: Markus Bambach (Professor für neue Fertigungstechnologien, D-MAVT) übernimmt am 1. Juli 2023 das Amt des Prorektors Studium. Er tritt die Nachfolge von Lorenz Hurni (Professor für Kartografie, D-BAUG) an, der das Amt fünfeinhalb Jahre innehatte und dieses per 30. Juni 2023 abgibt.

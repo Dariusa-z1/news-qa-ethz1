@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/04/more-variety-eat-buckwheat.html
 
-**Date processed:** 2025-05-01
-
 ## Fruit and veg alone won't fill us up
 
 About 50% of the earth's usable land surface is currently dedicated to the production of food; increasing this percentage would cause major problems for the environment and the world's climate. The world's population is also growing and becoming more demanding, as the consumption of meat and other animal products in previously vegetarian cultures becomes more fashionable and is viewed as a status symbol. But for every trend there is a counter-movement – in our culture, more and more people are turning vegetarian, or even vegan. As a rational plant scientist and self-professed currywurst lover, I can see both sides of the argument.

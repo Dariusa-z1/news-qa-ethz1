@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/01/five-ways-creativity-inspires-the-fifth-industrial-revolution.html
 
-**Date processed:** 2025-05-01
-
 ## Creativity inspires infinite quantum possibilities
 
 “What if…?” This simple, yet powerful question evokes the kind of imagination and creativity that inspires ideas, instils courage, and transforms economies. As we transition through the Fourth Industrial Revolution in which interconnectivity has enabled a global economy, ETH Zurich researchers are already anticipating the human aspects that will define the Fifth Industrial Revolution.

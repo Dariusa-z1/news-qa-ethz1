@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/07/eth-zurich-met-new-york.html
 
-**Date processed:** 2025-05-01
-
 ## A stage for showcasing ETH Zurich
 
 “The ETH community should be aware of how we present ourselves outside Switzerland,” says Jürg Brunnschweiler, Head of ETH Global. What visionary movements and ideas were born in Zurich? And what impact have they had on modern America? Questions like these were put up for discussion at “Zürich meets New York: A Festival of Swiss Ingenuity”, which was held in New York from 16 to 23 May.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/07/robot-team-on-lunar-exploration-tour.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • Researchers equipped a trio of legged robots with measuring instruments for finding minerals on the Moon.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/05/pauli-lectures-im-zeichen-der-zell-logistik.html
 
-**Date processed:** 2025-05-01
-
 ## Paketdienst nach Schlüssel-Schloss-Prinzip
 
 Ähnlich einer chemischen Fabrik stellen Zellen unablässig verschiedenste Proteine her, die sie nach der Synthese rasch an ihren Bestimmungsort transportieren müssen. Einige dieser Moleküle sind zum Export an die Zelloberfläche bestimmt, andere nehmen Funktionen im Zellinnern wahr. Um Stoffe zu transportieren, verwenden Zellen ein raffiniertes Distributionssystem: Sie verpacken die frisch hergestellten Proteine in winzige bläschenförmige Fähren, genannt Vesikel. Diese bringen die spezielle Fracht zur richtigen Zeit an den richtigen Ort, ohne sich in der Lieferadresse zu täuschen. Wie Zellen diese logistische Meisterleistung genau vollbringen, war lange ein Mysterium. Eine Koryphäe auf dem Gebiet des zellulären Transportsystems ist James E. Rothman, Professor für Biochemie und Zellbiologie an der Yale University. Er trug massgeblich dazu bei, das Rätsel der Zell-Logistik zu lösen.

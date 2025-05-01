@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/06/dem-mond-so-nah--im-bann-der-anziehungskraft-unseres-erdtrabanten.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 This was also a major step for research: thanks to the Apollo mission, but also transported via meteorites, moon rock samples could be analysed at ETH Zurich to shed light on the origins and surface of the moon.

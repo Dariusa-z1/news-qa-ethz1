@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/09/toedliche-stuerme-ueber-dem-victoriasee.html
 
-**Date processed:** 2025-05-01
-
 ## Landwinde brauen stürmischen Cocktail
 
 Der Victoriasee, zwischen Uganda, Kenia und Tansania gelegen, ist Nahrungsquelle für rund 30 Millionen Menschen, die entlang seiner Ufer leben. Mit einer Fläche von rund 70 000 km 2 ist er zudem der zweitgrösste See der Welt – und darüber hinaus der wohl gefährlichste. Dies insbesondere für die 200 000 Menschen, die in der Nacht auf dem See auf Fischfang gehen. Das Internationale Rote Kreuz schätzt, dass jedes Jahr zwischen 3000 und 5000 Fischer in den heftigen Stürmen den Tod finden [1]. Doch trotz des anhaltend schlechten Rufs des Victoriasees wusste man bis vor Kurzem kaum, wie sich der Klimawandel auf dieses riesige Gewässer auswirken wird.

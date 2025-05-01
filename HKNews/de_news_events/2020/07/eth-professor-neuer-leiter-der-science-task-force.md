@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/07/eth-professor-neuer-leiter-der-science-task-force.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH-News: Herr Ackermann, Sie werden der neue Präsident der Nationalen Science Task Force – wie kam es dazu? Martin Ackermann: Als ich als Vizepräsident angefragt wurde, ob ich neu das Präsidium übernehmen möchte, habe ich gerne zugesagt, weil ich davon überzeugt bin, dass die Task Force eine wichtige und sinnvolle Aufgabe erfüllt. Die Task Force, das sind rund 70 Forschende – darunter 12 Kolleginnen und Kollegen aus der ETH Zürich – die sich alle freiwillig und unentgeltlich engagieren, um die Schweiz möglichst gut durch diese Krise zu bringen. Es ist ein Privileg, ein solch ausserordentliches Netzwerk zu präsidieren, aber gerade, weil die Situation so einmalig ist, habe ich natürlich auch grossen Respekt vor der Aufgabe. Ich bin zudem froh, dass wir in den letzten Monaten unglaublich viel gelernt haben, zum Beispiel wie wir am besten mit den Behörden zusammenarbeiten. Darauf können wir aufbauen.

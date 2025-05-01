@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/03/gemeinsam-fuer-die-medizin-der-zukunft.html
 
-**Date processed:** 2025-05-01
-
 ## Ein Drittel ETH-Professuren beteiligt
 
 Die Menschen werden nicht nur älter, sie verbringen ihren Lebensabend auch öfter als frühere Generationen bei guter Lebensqualität. Mit neuen Therapien rückt man Krebs zu Leibe und besiegt chronische Krankheiten. Die Medizin dominiert und durchdringt unsere Gesellschaft, sie schafft neue Möglichkeiten, aber auch Probleme und Abhängigkeiten.

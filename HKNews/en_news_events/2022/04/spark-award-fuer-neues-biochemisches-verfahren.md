@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/04/spark-award-fuer-neues-biochemisches-verfahren.html
 
-**Date processed:** 2025-05-01
-
 ## Successful Swiss inventions
 
 It turned out to be one of the biggest surprises of the researchers’ lives. “We honestly didn’t think we had a chance of winning because our technology is so hard to explain!” says Jörn Piel, ETH Professor of Microbial Interactions. Together with Daniel Richter and Edgars Lakis, he developed an innovative biochemical method that allows proteins to be loaded with a drug molecule, which the protein then carries to the right place in the body. The culmination of the researchers’ efforts came yesterday evening when they received the Spark Award 2022 at the Audi Max at ETH Zurich in front of an audience of some 150 guests. This is the eleventh time that the award ceremony to honour the university’s most promising innovation has been hosted by ETH transfer, the technology transfer office at ETH Zurich.

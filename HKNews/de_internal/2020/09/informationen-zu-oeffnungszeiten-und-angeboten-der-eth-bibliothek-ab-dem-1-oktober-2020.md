@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/09/informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-1-oktober-2020.html
 
-**Date processed:** 2025-05-01
-
 ## Maskenpflicht
 
 • ETH-Bibliothek Hauptgebäude ( InfoCenter ): Mo–Fr 8.00–22.00, Sa und So 9.00–17.00

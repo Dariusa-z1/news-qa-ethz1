@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/01/weniger-kartoffeln-im-kuebel.html
 
-**Date processed:** 2025-05-01
-
 ## Wo und warum gehen Kartoffeln verloren?
 
 Die Produktion von Nahrungsmitteln belastet die Umwelt in hohem Masse: Zum einen beansprucht sie viele Ressourcen wie Wasser, Boden, Agrochemikalien und Energie. Zum anderen setzt sie zahlreiche Emissionen frei, etwa beim Düngen oder Pflanzenschutz. Zudem kostet es viel Geld, Lebensmittel bereit zu stellen, sie zu lagern, zu transportieren und zu verpacken.

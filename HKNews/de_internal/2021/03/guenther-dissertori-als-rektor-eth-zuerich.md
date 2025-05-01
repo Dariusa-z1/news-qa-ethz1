@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/03/guenther-dissertori-als-rektor-eth-zuerich.html
 
-**Date processed:** 2025-05-01
-
 ## Ausgezeichneter Dozent
 
 Gestern Dienstag hat die Gesamtprofessorenkonferenz der ETH Zürich Günther Dissertori, Professor für Teilchenphysik, als Nachfolger von Rektorin Sarah Springman nominiert. ETH-Präsident Joël Mesot wird nun dem ETH-Rat den Antrag stellen, Günther Dissertori zum neuen Rektor der ETH Zürich zu wählen.

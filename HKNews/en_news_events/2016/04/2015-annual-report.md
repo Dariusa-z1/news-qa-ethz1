@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/04/2015-annual-report.html
 
-**Date processed:** 2025-05-01
-
 ## Continuing growth
 
 Each year, ETH Zurich publicly discloses details of its performance and services rendered. This year, the annual report comes in a new format for the first time: a status report, which summarises the key events and developments at the university, and a detailed annual financial statement in line with the International Public Sector Accounting Standards (IPSAS). The annual report is also now available in three languages: German, English and French.

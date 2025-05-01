@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/07/wie-es-ki-modelle-schaffen-sich-selbst-neue-dinge-beizubringen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Trotz ihres enormen Erfolges bleibt das Innenleben grosser Sprachmodelle wie der GPT-Modellfamilie von OpenAI und Google Bard ein Geheimnis, selbst für ihre Entwickler. Forscher der ETH und von Google haben nun einen möglichen Schlüsselmechanismus aufgedeckt, der sie befähigt, im laufenden Betrieb zu lernen und ihre Antworten auf der Grundlage von Interaktionen mit ihren Nutzern zu verfeinern. Johannes von Oswald ist Doktorand in der Gruppe von Angelika Steger, ETH-Professorin für Theoretische Informatik, und untersucht Lernalgorithmen für neuronale Netze. Sein neues externe Seite Paper wird Ende Juli an der International Conference on Machine Learning (ICML) vorgestellt.

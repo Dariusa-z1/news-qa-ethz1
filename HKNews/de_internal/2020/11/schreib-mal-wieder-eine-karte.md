@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/11/schreib-mal-wieder-eine-karte.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Machen Sie Ihren Liebsten und Freunden eine Freude mit einer Karte aus der neuen Kollektion von Print and Publish. Die Klappkarten mit verschiedenen Weihnachtsmotiven im Format A5 sind ab sofort im Print and Publish Webshop verfügbar.

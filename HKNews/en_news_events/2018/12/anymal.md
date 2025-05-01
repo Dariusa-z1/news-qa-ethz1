@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/12/anymal.html
 
-**Date processed:** 2025-05-01
-
 ## Initial test run
 
 Two men lift the 30-kilogram high-tech machine and lower it into the dark shaft using a rope. We put on reflective overalls, trade our shoes for thigh-high rubber boots and attach them firmly to our outfits. Then comes a helmet, a flashlight and disposable gloves for each of us. Fully kitted out, we begin our descent, following the steps down the wall of the shaft one by one until we reach Zurich’s sewerage system, four metres below the surface.

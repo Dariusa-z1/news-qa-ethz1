@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/06/open-access-tage-2015-in-zuerich.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die ETH-Bibliothek ist mit folgenden Vorträgen bei den Open-Access-Tagen vertreten:

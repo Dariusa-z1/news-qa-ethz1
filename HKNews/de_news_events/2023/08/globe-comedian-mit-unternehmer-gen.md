@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/08/globe-comedian-mit-unternehmer-gen.html
 
-**Date processed:** 2025-05-01
-
 ## Von der ETH zum Marketing
 
 «Ich esse unglaublich gerne Kuchen. Als Lebensmittelwissenschaftler muss ich schliesslich regelmässig Desserts testen, um zu schauen, ob sie immer noch gut sind», sagt Fabian Unteregger mit einem Augenzwinkern, als er sich zum Gespräch im Zürcher Traditionscafé Sprüngli einfindet. Für den erfolgreichen Comedian, ETH-Alumnus und Doktor der Medizin ist regelmässige Bewegung wichtiger, als sich konsequent gesund zu ernähren.

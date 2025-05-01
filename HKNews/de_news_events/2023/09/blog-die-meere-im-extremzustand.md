@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/09/blog-die-meere-im-extremzustand.html
 
-**Date processed:** 2025-05-01
-
 ## Auf unbekanntem Terrain
 
 Rekordtemperaturen im Mittelmeer. 1 Riesige Hitzewelle im Nordatlantik. 2 Die Temperatur der Meere auf Höchststand 3 – Seit dem Frühsommer ist die Fieberkurve der Ozeane ein mediales Thema. Während das für viele Menschen in der Schweiz wahrscheinlich das erste Mal war, dass sie von Hitzewellen im Meer hörten, kamen diese Meldungen für mich wenig überraschend.

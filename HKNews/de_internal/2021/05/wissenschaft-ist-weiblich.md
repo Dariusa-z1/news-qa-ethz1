@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/05/wissenschaft-ist-weiblich.html
 
-**Date processed:** 2025-05-01
-
 ## Die Pionierinnen
 
 Bis Frauen begannen, sich an der ETH Zürich durchzusetzen, dauerte es eine kleine Ewigkeit. Erstmals tauchen sie bereits im 19. Jahrhundert auf, damals noch als «wissenschaftliche Flüchtlinge». Von der grundsätzlichen Frage, wieso es die damaligen Frauen besonders schwer hatten, bis zu Alltagsproblemen – die Tour deckt kurzweilig diverse Aspekte des Themas «Frauen in der Wissenschaft» ab. Und sie vermittelt gleichzeitig, was hinter den Fassaden der in den 1960er-Jahren entstandenen Campusanlage auf dem Hönggerberg steckt: zum Beispiel ein Ort für Kinderbetreuung, der eine signifikante Unterstützung im Alltag vieler Frauen bietet.

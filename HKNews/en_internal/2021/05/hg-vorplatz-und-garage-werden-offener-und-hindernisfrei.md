@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/05/hg-vorplatz-und-garage-werden-offener-und-hindernisfrei.html
 
-**Date processed:** 2025-05-01
-
 ## Adjustments during the renovation period
 
 Those who have recently been at the site will have already noticed some changes in front of the main building and, upon closer inspection, seen that the greenery around the forecourt is gone. This is part of the preparations for the forecourt construction project that will begin in June. To protect and preserve the hedges, they have been replanted near Villa-Hatt. New hedges will be planted once the renovation project is complete.

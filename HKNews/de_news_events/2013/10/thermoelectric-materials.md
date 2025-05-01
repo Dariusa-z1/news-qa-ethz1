@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/10/thermoelectric-materials.html
 
-**Date processed:** 2025-05-01
-
 ## Von der Wärme zur Elektrizität
 
 Die im 19. Jahrhundert entdeckten thermoelektrischen Materialien verfügen über die bemerkenswerte Eigenschaft, dass sie bei Erwärmung einen schwachen elektrischen Strom erzeugen. Diesen Strom auf ein Mass zu verstärken, das für moderne Technologien benötigt wird, stellte die Wissenschaftler in den vergangenen Jahrzehnten trotz grosser theoretischer und experimenteller Bemühungen vor eine beachtliche Herausforderung. Nun könnte ein neuartiger Ansatz für einen wesentlichen Fortschritt sorgen. An der ETH Zürich hat das Quantenoptik-Team um Tilman Esslinger ein Modell geschaffen, das für das bessere Verständnis der grundlegenden Phänomene entscheidend ist – den thermoelektrischen Material-Simulator.

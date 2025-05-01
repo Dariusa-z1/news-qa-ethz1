@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/02/an_oscilloscope_for_mri_scanners.html
 
-**Date processed:** 2025-05-01
-
 ## From students to entrepreneurs
 
 “Actually, I really wanted to work in the insurance industry,” explains Christoph Barmet with a sheepish smile. Ten years, an ETH Silver Medal and a spin-off later, however, the 37-year old is now confident that his decision to focus on MRI technology instead of the insurance industry was the right one.

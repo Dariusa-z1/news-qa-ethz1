@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/06/der-macht-des-mikrobioms-auf-der-spur.html
 
-**Date processed:** 2025-05-01
-
 ## Lautstärkeregler der Pflanzenantwort
 
 In und auf den Blättern und Wurzeln von Pflanzen leben Hunderte von verschiedenen Bakterienarten, die das Forschungsteam um Julia Vorholt vom Institut für Mikrobiologie der ETH Zürich in Zusammenarbeit mit Kolleginnen und Kollegen aus Deutschland vor sechs Jahren erstmals inventarisiert und katalogisiert hat. Damals isolierten sie auch 224 Stämme aus den unterschiedlichen Bakteriengruppen, die die Gemeinschaften auf den Blättern der Ackerschmalwand (Arabidopsis thaliana) bilden. Diese lassen sich zu vereinfachten, so genannten synthetischen Pflanzen-Mikrobiomen zusammensetzen. Damit legten die Forscherinnen und Forscher auch den Grundstein für die beiden neuen Studien, die sie soeben in den Fachzeitschriften «Nature Plants» und «Nature Microbiology» veröffentlicht haben.

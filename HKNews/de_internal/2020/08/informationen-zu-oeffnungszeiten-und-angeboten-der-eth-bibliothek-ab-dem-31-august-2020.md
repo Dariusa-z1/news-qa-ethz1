@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/08/informationen-zu-oeffnungszeiten-und-angeboten-der-eth-bibliothek-ab-dem-31-august-2020.html
 
-**Date processed:** 2025-05-01
-
 ## Maskenpflicht ab dem 24. August 2020
 
 Alle Standorte der ETH-Bibliothek sind geöffnet. Im September sind die Öffnungszeiten teilweise noch reduziert:

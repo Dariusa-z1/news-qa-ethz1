@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/05/lampugnani-portrait.html
 
-**Date processed:** 2025-05-01
-
 ## A teacher who learns
 
 His favourite book is Robert Musil’s The Man Without Qualities , but Vittorio Magnago Lampugnani has little in common with the title character, who refrains from committing himself to anything. The ETH professor has been active in the field of urban planning for almost 40 years, commenting on current issues, evaluating the quality of public squares and districts, and making his own architectural recommendations. He is well aware that this means getting involved in an important public discourse. His motto: “People should always be the point of reference for urban planning. Good architecture offers the best possible quality of life.”

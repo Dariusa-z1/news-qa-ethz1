@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/10/die-schulleitung-informiert-2018-5.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die ETH hat wieder drei Ombudspersonen. Die Schulleitung hat Margrit Leuthold und Peter Frischknecht auf den 1. Oktober 2018 in diese wichtige Funktion gewählt. Sie werden zusammen mit dem bisherigen Ombudsmann, Prof. Gerhard Tröster, die Arbeit von Maryvonne Landolt weiterführen, die altershalber aufhört. Die Ombudspersonen fungieren als Anlaufstelle für alle ETH-Angehörigen, die ein Problem haben, das sie nicht über die Linie (ihre Vorgesetzten) lösen können. Die beiden neuen Ombudspersonen wurden erstmals auf Vorschlag der Hochschulversammlung gewählt. HV-Präsident Werner Wegscheider gibt in einem Interview auf Intern Aktuell Auskunft über die Gründe für das neue Verfahren, den Prozess der Kandidatensuche und die Anforderungen an ETH-Ombudspersonen.

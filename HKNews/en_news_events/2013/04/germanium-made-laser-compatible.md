@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/04/germanium-made-laser-compatible.html
 
-**Date processed:** 2025-05-01
-
 ## High tension through microbridges
 
 Researchers from ETH Zurich, the Paul Scherrer Institute (PSI) and the Politecnico di Milano have jointly developed a manufacturing technique to render the semiconductor germanium laser-compatible through high tensile strain. In their article recently published in "Nature Photonics", they reveal how they can generate the necessary tensile strain efficiently. The scientists demonstrate how to use their method to effectively alter the optical properties of germanium, which is naturally unsuitable for lasing: "With a strain of three per cent, the material emits around twenty-five times more photons than in a relaxed state," explains Martin Süess, a doctoral student at the Laboratory for Nanometallurgy headed by Ralph Spolenak and the EMEZ at ETH Zurich. "That's enough to build lasers", adds his colleague Richard Geiger, a doctoral student at the Laboratory for Micro- and Nanotechnology at the PSI and the Institute for Quantum Electronics at ETH Zurich under Jérôme Faist.

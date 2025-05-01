@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/11/chemist-and-her-children.html
 
-**Date processed:** 2025-05-01
-
 ## The best compounds out of 1063alternatives
 
 Renana Gershoni-Poranne’s office is very spacious and tidy, but also quite personal. Hanging on the wall near her desk are drawings made for her by her boys, aged five and nine. One of them is in the style of Picasso, while the other is a charming copy of van Gogh’s sunflowers. Next to them is a brightly coloured footprint from her youngest son. “I love my office,” says the 35-year-old chemist. She sits behind her large corner desk and carries on chatting about the many birthday and holiday cards from colleagues that are displayed on a shelf on the other side of the room. Gershoni-Poranne talks so quickly, it’s difficult to get a word in.

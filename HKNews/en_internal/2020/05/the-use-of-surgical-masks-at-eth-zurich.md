@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/05/the-use-of-surgical-masks-at-eth-zurich.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Dr Sigel, must I wear a surgical mask when I return to work on campus? We only recommend wearing a surgical mask if it is impossible to maintain the minimum distance of two metres when working in the laboratory or workshop.

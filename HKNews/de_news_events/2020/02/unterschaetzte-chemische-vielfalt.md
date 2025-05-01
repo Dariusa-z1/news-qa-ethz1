@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/02/unterschaetzte-chemische-vielfalt.html
 
-**Date processed:** 2025-05-01
-
 ## Globaler Markt
 
 Die letzte Liste aller Chemikalien, die weltweit auf dem Markt erhältlich und in Umlauf sind, umfasste 100'000 Einträge. Erstellt wurde sie kurz nach der Jahrtausendwende. Der Fokus lag auf den Märkten in den USA, Kanada und Westeuropa. Das ergab damals noch Sinn, weil diese Länder vor 20 Jahren für mehr als zwei Drittel des weltweiten Umsatzes von chemischen Substanzen aufkamen.

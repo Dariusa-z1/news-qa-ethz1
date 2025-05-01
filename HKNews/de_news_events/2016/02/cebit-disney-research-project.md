@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/02/cebit-disney-research-project.html
 
-**Date processed:** 2025-05-01
-
 ## Echtzeit-Animation von Kinderzeichnungen
 
 Die Forschenden des Game Technology Center und Kollegen und Kolleginnen von Disney Research Zürich haben mehrere neue Apps entwickelt und dafür gleich einen neuen Begriff kreiert: «Augmented Creativity». Darunter verstehen sie die Verschmelzung von animierten, virtuellen Elementen mit der realen Umgebung, um die Fantasie und Kreativität bei Kindern zu beflügeln. «Wir nutzen mit unseren Apps die Begeisterung der Kinder für digitale Geräte und regen sie gleichzeitig dazu an, stärker mit der Umwelt zu interagieren», sagt Bob Sumner, Leiter des Game Technolgy Center. Im Fall des erwähnten Malbuchs funktioniert das wie folgt: Kinder malen im Buch zum Beispiel Tintenfische, Bären und Elefanten in den gewünschten Farben aus. Wer nun die Kamera eines Smartphones oder Tablets mit darauf installierter «Augmented Creativity»-App auf die Zeichnungen hält, sieht auf dem Bildschirm einen animierten Avatar der Figur.

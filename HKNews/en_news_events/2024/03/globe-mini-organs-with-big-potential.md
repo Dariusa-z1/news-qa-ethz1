@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/03/globe-mini-organs-with-big-potential.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The clumps of cells are modest in size, ranging from just a few millimetres to a couple of centimetres – yet their impact on medical research could be huge. Known as organoids, they are the focus of much of the research carried out by Barbara Treutlein, Professor of Quantitative Developmental Biology at ETH. These organ-like systems are made up of different cell types arranged in complex tissue structures, essentially making them the 3D extension of 2D cell cultures. All the specimens in Treutlein’s lab are grown from human tissue. “Organoids help us tackle questions in various fields of medicine,” says Treutlein.

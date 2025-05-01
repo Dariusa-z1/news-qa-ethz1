@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/03/automatically-filter-and-block-cookies.html
 
-**Date processed:** 2025-05-01
-
 ## The illusion of control through cookie consent banners
 
 As soon as we visit a website, much of the content is obscured by a large banner asking us to consent to the use of cookies. Cookies are small blocks of data that a browser stores to enable a website to identify a particular user without having to rely on personal data like an e-mail address. This enables browsers to, say, store personal settings or login information, or provide data on when and for how long someone visited a site.

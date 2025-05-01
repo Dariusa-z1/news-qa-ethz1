@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/05/was-denkt-die-bevoelkerung-ueber-die-verantwortung-der-konzerne.html
 
-**Date processed:** 2025-05-01
-
 ## Approving strict laws
 
 In just over two weeks, the National Council and the Council of States will jointly discuss the Responsible Business Initiative. The issue at stake is whether companies with headquarters, head offices or main branches in Switzerland should be legally required to comply with human rights and environmental standards in their business activities at home and abroad; and whether they should be held accountable in Swiss courts for any future damage abroad they might cause. This latter point will be a key issue when the Federal Assembly decides on a counter-proposal to the initiative.

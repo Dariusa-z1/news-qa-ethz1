@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/01/altehrwuerdige-schulratsprotokolle-im-modernen-gewand.html
 
-**Date processed:** 2025-05-01
-
 ## Wichtige Quelle zur Geschichte der ETH Zürich
 
 Wie diskutierte der Schulrat den Antrag auf Anstellung der ersten Assistentin? Wann wurde im Hauptgebäude eine elektrische Beleuchtung eingerichtet? Welche Argumente überzeugen den Schulrat von der Errichtung eines neuen Instituts? Solchen Fragen gehen Sie mit der Plattform Schulratsprotokolle online auf die Spur.

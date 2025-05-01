@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/09/wie-sich-europas-waelder-verjuengen-wenn-der-mensch-nicht-eingreift.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Konkurrenz zwischen Bäumen ist eine der treibenden Kräfte der natürlichen Waldverjüngung.

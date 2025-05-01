@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/12/rethink-project-next-20-years.html
 
-**Date processed:** 2025-05-01
-
 ## Staying in the top tier
 
 ETH Zurich is a success story. The university enjoys a top international ranking in the fields of teaching, research and knowledge transfer. “But the pressure on ETH is growing,” said ETH President Joël Mesot when he took the helm in 2019.

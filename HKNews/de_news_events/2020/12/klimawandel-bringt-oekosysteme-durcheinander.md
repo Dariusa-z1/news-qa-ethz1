@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/12/klimawandel-bringt-oekosysteme-durcheinander.html
 
-**Date processed:** 2025-05-01
-
 ## Heuschrecken in höhere Lagen gezügelt
 
 Auf der Welt wird es wärmer und wärmer – und viele Organismen, die heute in tieferen Lagen oder geografischen Breiten heimisch sind, müssen in höhere Lagen und Breiten ausweichen.

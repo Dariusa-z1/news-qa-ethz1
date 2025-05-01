@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/01/witnesses-to-earths-early-history.html
 
-**Date processed:** 2025-05-01
-
 ## More help from a combination of data
 
 What exactly are the deepest parts of the Earth made of? Geoscientists apply highly sophisticated techniques in pursuit of this question. Seismic waves, for example, help them map the structures in the Earth’s interior. The scientists can then draw conclusions regarding the composition of these structures and then make hypotheses about their formation.

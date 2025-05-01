@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/08/super-stair-climbers.html
 
-**Date processed:** 2025-05-01
-
 ## Revised technology, new name
 
 The Balgrist campus is bustling with activity. After ten months and countless technical changes, the revised wheelchair from the Scewo team is ready for its first test drive. With one eye on the regulations and another on the wheelchair, Pascal Buholzer accompanies Scewo driver Josep Ballester through the obstacle course. While the wheelchair effortlessly tackles the stairs, its manoeuvrability when opening doors and its stability on uneven ground leave something to be desired.

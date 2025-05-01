@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/03/projekt-pathos.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Sie spähen und schleichen, erschrecken und zittern: Die Kunstwerke des Künstlerduos Pors & Rao bewegen sich fernab der Normalität. Meist entlocken sie dem Betrachter ein spontanes Lächeln. Nicht nur die stillen, feinen Bewegungen erstaunen, es entsteht auch eine Wechselwirkung zwischen Werk und Betrachter: Kleine Kreaturen namens Pygmies kriechen bei Stille vorsichtig hinter einer Bildfläche hervor und verstecken sich ruckartig bei plötzlichen Geräuschen. Im Werk Exploding View stiebt eine Ansammlung verschiedener Figuren auseinander, während sich in Turning Panel schräg hängende Bilder horizontal ausrichten, wenn sich jemand nähert.

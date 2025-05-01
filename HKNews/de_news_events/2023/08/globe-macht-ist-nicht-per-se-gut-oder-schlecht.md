@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/08/globe-macht-ist-nicht-per-se-gut-oder-schlecht.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Sie untersuchen die Wirkung sozialer Macht auf unser Verhalten. Was verstehen Sie darunter? Bei der sozialen Macht geht es um die Kontrolle begehrter Ressourcen wie Geld oder Essen, aber auch Zuneigung oder Wissen. Es reicht nicht, dass jemand Kontrolle über die Ressourcen hat – eine Person ist nur dann sozial mächtig, wenn auch eine andere Person diese Ressourcen begehrt.

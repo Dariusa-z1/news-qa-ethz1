@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/10/willkommen-in-der-zukunft.html
 
-**Date processed:** 2025-05-01
-
 ## Mixed Reality auf dem Vormarsch
 
 Eine der grossen Innovationen heisst Mixed Reality. Damit können Studierende mithilfe von 3-D-Brillen virtuelle Objekte erforschen. Schon Anfang Jahr kam die HoloLens von Microsoft an der ETH zum Einsatz. Die Teilnehmer der Lehrveranstaltung «Computer-Assisted Drug Design» am Departement Chemie und Angewandte Wissenschaften erforschten damit Proteine. Wer durch die HoloLens blickt, sieht den echten Raum, in dem er sich befindet, sowie ein Hologramm – in diesem Fall ein Protein –, das man umrunden, erkunden und sogar durchschreiten kann.

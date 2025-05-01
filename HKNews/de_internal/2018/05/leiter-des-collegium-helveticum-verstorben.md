@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/05/leiter-des-collegium-helveticum-verstorben.html
 
-**Date processed:** 2025-05-01
-
 ## Gelebte Transdisziplinarität
 
 Thomas Hengartner studierte Volkskunde und Dialektologie, Neuere Deutsche Literatur und Schweizer Geschichte und wurde 1989 an der Universität Bern promoviert. Nach der Habilitation wurde er 1996 als Professor an das Institut für Volkskunde der Universität Hamburg berufen, das er während mehr als zehn Jahren bis 2010 leitete. Er stand unter anderem dem 2002 von ihm gegründeten Forschungskolleg «Kulturwissenschaftliche Technikforschung» vor. Von 2003 bis 2007 amtete Hengartner als erster Vorsitzender der Deutschen Gesellschaft für Volkskunde.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/03/relief-supplies-for-ukraine-eth-collection-campaign.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Update from 5 May 2022: The collection campaign will continue at least until the end of May. However, the drop-off location has changed and is now located in building HPT C 117 . Please also note that the items that are most needed are constantly changing. Therefore, check the corresponding list regularly.

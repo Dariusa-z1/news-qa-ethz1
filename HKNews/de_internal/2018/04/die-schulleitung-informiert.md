@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/04/die-schulleitung-informiert.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Eine positive Bilanz des vergangenen Jahres zog der Delegierte für Nachhaltigkeit , Reto Knutti. Höhepunkt war im vergangenen September die ETH-Woche zum Thema «Manufacturing the future» mit rund 200 teilnehmenden Studierenden und gegen 100 Expertinnen und Experten aus Industrie, Forschung, Verwaltung und von Nichtregierungsorganisationen. 2018 wird sich die ETH-Woche unter dem Titel «Energy matters» mit Fragen der Energieversorgung befassen. Weiteres wichtiges Thema im Bereich Nachhaltigkeit und Mobilität ist die Reduktion der CO2-Emissionen auf Flugreisen von ETH-Angehörigen. In diesem Zusammenhang wurde erstmals gemeinsam mit anderen Hochschulen eine rein virtuelle wissenschaftliche Konferenz organisiert. Sogar für die Small-Talk-Situationen beim Apéro gibt es heute erste Lösungen.

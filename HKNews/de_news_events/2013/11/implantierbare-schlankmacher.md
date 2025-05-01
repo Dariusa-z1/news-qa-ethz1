@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/11/implantierbare-schlankmacher.html
 
-**Date processed:** 2025-05-01
-
 ## Genetischer Regelkreis überwacht Blutfett
 
 Die Menschheit hat ein Gewichtsproblem, nicht nur in den Industrienationen: Mit dem wachsenden Wohlstand in vielen asiatischen oder lateinamerikanischen Ländern geht ein Lebenswandel einher, der im wahrsten Sinn des Wortes schwerwiegende Folgen hat. In vielen Industrieländern ist laut WHO über die Hälfte der Menschen übergewichtig, jeder Dritte stark. Übergewichtige Menschen haben ein erhöhtes Risiko, Diabetes Typ 2 oder Herz-Kreislauf-Erkrankungen zu erleiden. Letztere sind die häufigste Todesursache in westlichen Industrienationen. Die Spuren kalorien- und fettreicher Nahrung lassen sich nicht nur an Hüften, Po und Bauch ablesen, sondern auch im Blut, wo verschiedene Fette, die über die Nahrung aufgenommen werden, zirkulieren. Erhöhte Blutfettwerte wiederum gelten als Risikofaktor für Herzinfarkt und Schlaganfall.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/03/dialogue-remains-key.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Copyright: GM CASTELBERG

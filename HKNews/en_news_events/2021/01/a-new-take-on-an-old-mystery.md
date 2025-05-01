@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/01/a-new-take-on-an-old-mystery.html
 
-**Date processed:** 2025-05-01
-
 ## A sporting challenge that ended in tragedy
 
 In early October 2019, when an unknown caller rang EPFL professor Johan Gaume’s cell phone, he could hardly have imagined that he was about to confront one of the greatest mysteries in Soviet history. At the other end of the line, a journalist from The New York Times asked for his expert insight into a tragedy that had occurred 60 years earlier in Russia’s northern Ural Mountains – one that has since come to be known as the Dyatlov Pass Incident. Gaume, head of EPFL’s Snow and Avalanche Simulation Laboratory (SLAB) and visiting fellow at the WSL Institute for Snow and Avalanche Research SLF, had never heard of the case, which the Russian Public Prosecutor’s Office had recently resurrected from Sovieteran archives. "I asked the journalist to call me back the following day so that I could gather more information. What I learned intrigued me."

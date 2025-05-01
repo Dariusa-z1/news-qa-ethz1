@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/09/if-one-link-fails-the-entire-chain-breaks.html
 
-**Date processed:** 2025-05-01
-
 ## ETH Zurich mandate at risk
 
 Before the year is out, the Swiss Federal Council plans to adopt a mandate for renegotiation Switzerland’s agreement with the EU on the free movement of persons. At the same time, it intends to submit a draft act on how Switzerland can control its own immigration policy.

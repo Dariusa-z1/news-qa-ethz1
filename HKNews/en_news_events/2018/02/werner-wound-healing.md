@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/02/werner-wound-healing.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Time heals all wounds – or so the saying goes. But our ability to heal damaged organs or tissues, such as the skin, is by no means perfect and results in formation of a scar. Scars are more fragile and less elastic than undamaged skin, and they lack hair follicles, sebaceous glands and sweat glands as these do not regenerate. In particular, large wounds like those caused by burns can lead to serious functional and cosmetic impairments.

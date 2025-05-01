@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/06/from-ski-racer-to-bone-specialist.html
 
-**Date processed:** 2025-05-01
-
 ## From the ski slope to the lecture hall
 
 Thomas Zumbrunn’s childhood in Meiringen, in the Bernese Oberland, was the perfect setting for someone destined to become a ski racer: born in a mountainous region, virtually with a pair of skis on his feet. As soon as he could walk, he immediately took to the slopes under the expert guidance of his parents, both ski instructors.

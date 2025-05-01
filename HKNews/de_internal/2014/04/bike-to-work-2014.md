@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/04/bike-to-work-2014.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Alle Velofahrer/innen sind herzlich eingeladen, auch 2014 mitzumachen. Zur besseren Motivation bilden jeweils vier Mitarbeitende ein Team; jeweils ein Teammitglied kann anstatt mit dem Velo z.B. zu Fuss oder dem Skateboard teilnehmen.

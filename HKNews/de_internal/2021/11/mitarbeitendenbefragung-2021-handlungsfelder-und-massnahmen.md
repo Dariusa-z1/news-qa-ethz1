@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/11/mitarbeitendenbefragung-2021-handlungsfelder-und-massnahmen.html
 
-**Date processed:** 2025-05-01
-
 ## Handlungsfelder und Massnahmen
 
 • Leadership- und Entwicklungsangebote («Academy»): VPPL baut in Zusammenarbeit mit allen relevanten Stakeholdern weitere Leadership- und Entwicklungsangebote nach dem Lifelong-Learning-Ansatz auf.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/08/electrons-at-the-speed-limit.html
 
-**Date processed:** 2025-05-01
-
 ## Groundwork from the 1990’s
 
 Speed may not be witchcraft, but it is the basis for technologies that often seem like magic. Modern computers, for instance, are as powerful as they are because tiny switches inside them steer electric currents in fractions of a billionth of a second. The incredible data flows of the internet, on the other hand, are only possible because extremely fast electro-optic modulators can send information through fibre-optic cables in the shape of very short light pulses. Today’s electronic circuits already routinely work at frequencies of several gigahertz (a billion oscillations per second) up to terahertz (a thousand billion oscillations). The next generation of electronics will therefore, sooner or later have to reach the realm of petahertz, which is a thousand times faster still. If and how electrons can be controlled that fast, however, is still largely unknown. In a groundbreaking experiment, a team led by ETH professor Ursula Keller has now investigated how electrons react to petahertz fields.

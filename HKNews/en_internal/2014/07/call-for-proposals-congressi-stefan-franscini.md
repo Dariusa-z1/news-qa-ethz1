@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/07/call-for-proposals-congressi-stefan-franscini.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The Congressi Stefano Franscini offers:

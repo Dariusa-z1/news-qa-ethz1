@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/10/ceramics-3d-printed-from-foams.html
 
-**Date processed:** 2025-05-01
-
 ## Using oil and a kitchen blender
 
 Doctoral student Carla Minas, from the Complex Materials group led by ETH Professor André Studart, has succeeded in creating a highly porous and yet extremely robust ceramic material, which she “printed” using an additive manufacturing process. The trick here was to use an “ink” consisting of a stable ceramic emulsion that did not collapse during or after printing. Using this technique, it is possible to manufacture complex porous structures like those found in nature in the form of bones or diatoms.

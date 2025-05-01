@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/07/einzelne-lebende-zellen-anzapfen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Forschende der ETH Zürich haben eine Methode entwickelt, um einzelne lebende Zellen mit einer Mikro-Injektionsnadel anzupiksen und deren Inhalt auszusaugen. Angewandt werden kann die Technik etwa bei Zellkulturen, um das Innere der Zellen zu untersuchen. Sie ermöglicht, auf molekularer Ebene Unterschiede zwischen einzelnen Zellen zu erkennen und damit auch seltene Zelltypen zu finden und zu analysieren. «Unsere Methode erweitert das Repertoire der biologischen Forschung enorm. Wir öffnen quasi ein neues Kapitel», sagt Julia Vorholt, Professorin am Departement Biologie.

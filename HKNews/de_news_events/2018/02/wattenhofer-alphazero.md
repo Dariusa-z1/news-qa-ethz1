@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/02/wattenhofer-alphazero.html
 
-**Date processed:** 2025-05-01
-
 ## Ein Auf und Ab in der Geschichte
 
 In den vergangenen 60 Jahren haben die Forschenden der Künstlichen Intelligenz immer wieder futuristische Prognosen gewagt. Zum Beispiel wurde angekündigt, dass ein Computer Schachweltmeister wird. Erwartet wurde das bis ins Jahr 1968, eingetreten ist es etwa 30 Jahre später. Noch optimistischer war die Vorhersage, dass Computer bis 1985 gar beliebige menschliche Arbeiten erledigen können; davon sind wir heute noch ziemlich weit entfernt.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/06/ein-zeichen-an-die-forschenden-der-schweiz.html
 
-**Date processed:** 2025-05-01
-
 ## 500 Millionen Franken für 2014
 
 Der Bundesrat hat ein Zeichen gesetzt: Forschende in der Schweiz, die sich an Projekten des europäischen Forschungs- und Innovationsprogramms Horizon 2020 beteiligen wollen, werden direkt von der Schweiz finanziert. Dies hat die Landesregierung am Mittwoch beschlossen: «Wir haben eine Lösung für 2014 gefunden», sagte Bundesrat Johann Schneider-Ammann vor den Medien, «diese Lösung schafft Sicherheit und Klarheit für unsere Forschergemeinde, denn wir stellen die Mittel, die zur Beteiligung an Horizon 2020 berechtigen, zur Verfügung.»

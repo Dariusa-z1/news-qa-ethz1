@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2017/05/broader-range-of-digital-textbooks-from-all-subject-areas.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 For mathematics students:

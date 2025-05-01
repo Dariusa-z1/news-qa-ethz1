@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/02/neue-townhall-serie-zur-mentalen-fitness-und-verleihung-der-alea-awards.html
 
-**Date processed:** 2025-05-01
-
 ## Ausgezeichneter Führungsstil
 
 Das nahm die Vizepräsidentin zum Anlass, die Nominierten für ausgezeichnete Führung mit dem ALEA (Art of Leadership) Award zu ehren. Julia Dannath zur Beziehung zwischen dem ALEA Award und der mentalen Fitness: «Bleiben Sie im Sinne des Wohlbefindens mit sich selber, aber auch immer wieder mit Ihren Leuten verbunden. Hören Sie weiterhin hin, schauen Sie, was Sie dazu beitragen können, damit wir gemeinsam gut durch diese Zeit kommen.»

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/10/eth-zurich-opens-dismissal-proceedings.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Based on the findings of the administrative investigation opened on 25 October 2017 and concluded in October 2018, the President of ETH Zurich is now launching dismissal proceedings. The administrative investigation performed by an independent external expert has highlighted serious professional misconduct over an extended period. The investigator is recommending the termination of the employment relationship. To this end, a special committee is being set up to review whether dismissal is appropriate, as prescribed by Art. 13 para. 2 of the Professors’ Ordinance.

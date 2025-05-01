@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/01/erfolg-im-dutzend.html
 
-**Date processed:** 2025-05-01
-
 ## Aussergewöhnliche Erfolgsrate
 
 Eine Simulation, die zeigen soll, wie soziale Verhaltensmuster entstehen, neue Proteinkapseln, die einfach Medikamente transportieren können, Elektronen-Transferprozesse in neuen Dimensionen oder die Erforschung der mikrobiellen Vielfalt im Boden — die Liste der ETH-Projekte, die vom Europäischen Forschungsrat (ERC) gefördert werden, ist lang und abwechslungsreich. Gleich zwölf ETH-Forscherinnen und -Forscher erhalten einen ERC Advanced Grant und damit in den nächsten fünf Jahren bis zu 2,5 Mio. Euro für ihre Projekte. Noch nie waren so viele Professorinnen und Professoren der ETH Zürich beim Einwerben von Advanced Grants so erfolgreich wie 2012. Mit dem Advanced Grant unterstützt der ERC ausschliesslich Projekte von etablierten Spitzenforschenden, er gilt deshalb auch als besondere Auszeichnung. Bei der Ausschreibung von 2012 verteilt der ERC insgesamt 680 Mio. Euro an 302 Wissenschaftler in 24 verschiedenen Ländern.

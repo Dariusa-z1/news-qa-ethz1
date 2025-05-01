@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2023/04/are-your-electrical-devices-safe.html
 
-**Date processed:** 2025-05-01
-
 ## The need for cooperation
 
 Soldering irons, magnetic stirrers and centrifuges: laboratories and workshops in particular have a lot of electrical devices, some of which are made by the research groups themselves. And of course there are also devices in the offices that are connected to the power grid. Even if all these devices are working flawlessly in the course of normal work, they can still pose a danger, which is why all employers are required to occasionally check their electrical devices for safety.

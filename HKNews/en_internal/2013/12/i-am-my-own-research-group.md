@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2013/12/i-am-my-own-research-group.html
 
-**Date processed:** 2025-05-01
-
 ## Promoting traditional and molecular plant pathology
 
 22 scientific articles, 20 publications, 25 lectures and numerous workshops – a glance at Ueli Merz’ website shows that the plant pathologist is one of world's leading experts in the area of powdery scab. He has been conducting research into the fungus-caused disease since he started at ETH. After completing his doctorate, he continued his research as a senior scientist in the plant pathology group at the Department of Agricultural and Food Sciences, which recently became the Department of Environmental Systems Science.

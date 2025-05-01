@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/10/coffee-lectures-in-10-minuten-zu-neuem-knowhow.html
 
-**Date processed:** 2025-05-01
-
 ## How the Coffee Lectures work
 
 • The research data life cycle: How to handle data during all steps of your project – 4 November

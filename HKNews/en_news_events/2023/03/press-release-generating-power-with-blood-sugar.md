@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/03/press-release-generating-power-with-blood-sugar.html
 
-**Date processed:** 2025-05-01
-
 ## Abstract
 
 • ETH researchers have developed an implantable fuel cell that generates electricity from excess glucose in the blood.

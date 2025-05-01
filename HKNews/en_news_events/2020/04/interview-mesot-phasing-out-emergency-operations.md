@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/04/interview-mesot-phasing-out-emergency-operations.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Mr Mesot, how do you judge the mood of ETH members after five weeks of lockdown? Obviously, I have felt the uncertainty and also frustration caused initially by the emergency operations. But at the same time I have been enormously impressed and delighted at how much creativity, spontaneous commitment and team spirit the members of our ETH community have shown in tackling the challenges presented by the coronavirus. For example, teaching was transferred online virtually overnight and a host of new projects were produced from scratch to help find a solution to the crisis. Despite everything, all our administrative processes are also functioning extremely well.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/05/blick-auf-molekularen-gifttransporter.html
 
-**Date processed:** 2025-05-01
-
 ## Zweischneidiges Schwert
 
 Fast alle Lebewesen haben im Lauf der Evolution Mechanismen entwickelt, um Giftstoffe, die ins Innere ihrer Zellen gelangt sind, wieder loszuwerden: In der Zellmembran sitzen molekulare Pumpen, die schädliche Stoffe im Zellinnern erkennen und nach aussen spedieren. Forschende der ETH Zürich und vom Biozentrum der Universität Basel haben nun die dreidimensionale Struktur eines solchen Transportproteins beim Menschen – des Proteins ABCG2 – auf atomarer Ebene aufgeklärt. Es ist dies die erste solche Struktur für einen menschlichen multispezifischen Arzneistofftransporter (engl. multi-drug transporter), die nun bekannt ist. Die Wissenschaftler veröffentlichten ihre Arbeit in der jüngsten Ausgabe des Fachmagazins Nature.

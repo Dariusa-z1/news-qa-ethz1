@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/09/forschungsergebnisse-aus-singapur-ausgestellt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Städte sind kulturelle Zentren und Triebfedern der lokalen und globalen Ökonomie. In ihrer heutigen Form sind sie nicht nachhaltig, weder in ökologischer noch in sozialer oder wirtschaftlicher Hinsicht. Rasantes Bevölkerungswachstum, zunehmende Mobilität und klimatische Veränderungen gehen einher mit der Zersiedelung der Landschaft, Luft- und Wasserverschmutzung, aber auch mit sozialen Konflikten.

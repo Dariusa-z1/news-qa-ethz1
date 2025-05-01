@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/10/perfect-outfit-one-click-away.html
 
-**Date processed:** 2025-05-01
-
 ## Every outfit on Instagram can now be bought
 
 Anyone who thinks fashion and computer science are two irreconcilable concepts and that fashion is inherently out of place in a technical course would quickly change their opinion with a single visit to the ETH spin-off Fashwell . Three graduates, two from computer science and one from electrical engineering, share a spacious office on Sternwartestrasse. All three are dressed in shirts and skinny jeans and have stylish haircuts. You can’t miss the fact that the young founders place a high priority on fashion and appearance – but you wouldn’t suspect that they also develop complex algorithms that could soon set every fashion lover’s heart racing.

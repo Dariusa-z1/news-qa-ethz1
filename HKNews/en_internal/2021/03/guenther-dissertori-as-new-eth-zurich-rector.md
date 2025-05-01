@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/03/guenther-dissertori-as-new-eth-zurich-rector.html
 
-**Date processed:** 2025-05-01
-
 ## Award-winning lecturer
 
 Last Tuesday, the Professors’ Conference of ETH Zurich nominated Günther Dissertori, Professor for Particle Physics, to succeed Sarah Springman as Rector. ETH President Joël Mesot will now submit an official request to the ETH Board to appoint Günther Dissertori as new Rector of ETH Zurich.

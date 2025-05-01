@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/02/moorboden.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The soil bacterium Shewanella oneidensis can respire electrons to humic substances. (Photo: Andreas Kappler, University of Tubingen)

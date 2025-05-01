@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/01/ethics-guidelines-galore-for-ai.html
 
-**Date processed:** 2025-05-01
-
 ## No single common ethical principle
 
 Artificial intelligence, or AI for short, has been receiving heightened public attention for only a few years, yet the issue has already been overtaken by a new topic: today everything revolves around “ethical AI”. Numerous, very diverse organisations have issued ethics guidelines for AI or statements on the subject. Amid such a plethora of publications, it’s not easy to get a clear picture. What are these documents actually saying? Is the wheel being reinvented every time? What understanding of ethics prompts these recommendations on ethical AI? And who determines this? With new guidelines being issued each month, an inventory of sorts seems indispensable.

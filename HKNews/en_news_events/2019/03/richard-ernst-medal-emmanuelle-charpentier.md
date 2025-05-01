@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/03/richard-ernst-medal-emmanuelle-charpentier.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Everyone’s talking about Crispr-Cas9, a molecular tool that allows biologists to make changes to organisms’ gene sequences relatively easily. This method has revolutionised genetic engineering. It has been actively applied for several years now, for example in crop cultivation. In the future, scientists hope to use Crispr to cure genetic diseases or AIDS.

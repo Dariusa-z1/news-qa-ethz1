@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/04/sieben-millionen-buecher-auf-einen-klick.html
 
-**Date processed:** 2025-05-01
-
 ## Vielfältige Bestände — eine Suche
 
 Was kann man tun, um den Wissenschaftsstandort Zürich nachhaltig zu stärken? Seit langem arbeiten Forschende aus verschiedenen Institutionen an gemeinsamen Projekten oder benützen die gleiche Infrastruktur. Jetzt macht der Wissenschaftsstandort aber noch einen weiteren, wichtigen Schritt, um möglichst viel Wissen möglichst vielen Benutzern effizient zugänglich zu machen: Ab heute sind die Kataloge der Bibliotheken der Universität Zürich und der Pädagogischen Hochschule Zürich in den NEBIS-Verbundkatalog integriert. Möglich wurde dies durch das Projekt INUIT (Integration Bibliothekssystem Universität Zürich) der Hauptbibliothek Universität Zürich, der Zentralbibliothek Zürich und der ETH-Bibliothek, die das Projekt koordiniert hat. Roman Boutellier, ETH-Vizepräsident für Personal und Ressourcen, fasst die Vorteile des neuen Angebots zusammen: «Mit dem gemeinsamen Katalog zeigen die Hochschulen den Willen, auf dem Platz Zürich noch enger zusammenzuwachsen. Zudem erhöhen wir die Qualität für alle Benutzer und sind erst noch kosteneffizienter.» Mit Abschluss des Projekts konnten nun die technische Infrastruktur gestrafft und Doppelspurigkeiten abgebaut werden.

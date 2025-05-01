@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/02/research-with-a-social-relevance.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH News: Professor Ambühl, you have proposed that Switzerland may be able to negotiate a safeguard clause with the EU in order to avoid breaching the free movement agreement. Are you intervening in the current political debate? Should an ETH professor intervene in politics? Michael Ambühl: We as researchers would like to play a role in solving problems by contributing to the discussion. In our department, we would like to further develop the research approach that we call ‘negotiation engineering’, which ultimately represents the conceptualisation of my experiences as a negotiator. We have therefore sought to apply our methods to the current example of the implementation of the mass immigration initiative. This attracted a certain amount of attention because the social relevance is directly visible in this study.

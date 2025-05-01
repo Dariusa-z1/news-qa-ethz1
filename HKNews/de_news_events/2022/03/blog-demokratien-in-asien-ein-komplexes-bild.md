@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/03/blog-demokratien-in-asien-ein-komplexes-bild.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Asiens geopolitisches Gewicht wächst rasant, was Europa zu einer verstärkten Auseinandersetzung mit der Region zwingt. Asien beherbergt nicht nur die schnellst wachsenden Märkte der Welt, sondern auch sicherheitspolitische Brennpunkte von globaler Bedeutung, wie zum Beispiel das Südchinesische Meer. Letztere gewinnen durch den amerikanisch-chinesischen Weltkonflikt, der Asien zum Hauptschauplatz hat, an neuer Brisanz. Welche Trends gilt es für europäische Länder also zu beachten in ihrem zukünftigen Engagement mit Asien?

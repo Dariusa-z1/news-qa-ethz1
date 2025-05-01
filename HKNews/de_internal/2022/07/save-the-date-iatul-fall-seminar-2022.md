@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/07/save-the-date-iatul-fall-seminar-2022.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die ETH-Bibliothek ist Gastgeberin und Organisatorin des diesjährigen Fall Seminar der externe Seite International Association of University Libraries (IATUL). Für einmal ist die Veranstaltung auch für Nicht-Mitglieder der IATUL offen! Bitte merken Sie sich den Termin schon jetzt vor: 13.–15. Dezember 2022.

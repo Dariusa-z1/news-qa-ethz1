@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/04/progress-in-alternative-battery-technology.html
 
-**Date processed:** 2025-05-01
-
 ## Abstract
 
 • Zinc batteries are considered a possible future alternative to the lithium-ion batteries now widely in use. Currently, however, their use often requires toxic salts.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/01/ultrakurzeit-lichtquelle-im-laborformat.html
 
-**Date processed:** 2025-05-01
-
 ## Das Geheimnis ultrakurzer Reaktionen
 
 In der Natur ereignen sich manche Vorgänge so schnell, dass selbst ein Wimpernschlag (10 0 s) im Vergleich dazu sehr langsam ist. Viele grundlegende physikalische, chemische und biologische Reaktionen vollziehen sich im ultrakurzen Zeitbereich von wenigen Femtosekunden (10 −15 s) oder gar Attosekunden (10 −18 s). Elementarteilchen wie Elektronen oder Photonen beispielsweise bewegen sich in Molekülen innerhalb von bloss 100 Attosekunden (10 −16 s).

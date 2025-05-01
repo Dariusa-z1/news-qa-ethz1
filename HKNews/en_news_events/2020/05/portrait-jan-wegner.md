@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/05/portrait-jan-wegner.html
 
-**Date processed:** 2025-05-01
-
 ## Fighting famine with software
 
 “I want my research to move things in the right direction and help our planet take a step forward,” says Wegner. However, he and his team realise that this is hardly possible to achieve from their lab in Zurich. For that reason, they have made EcoVision Lab's software, with all of its functionalities and algorithms, freely available for download and use by public platforms anywhere in the world. “These programmes are highly automated. The results are therefore objective and comparable,” explains Wegner. This means that scientists can obtain meaningful insights on a global level regarding critical issues such as biodiversity.

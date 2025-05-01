@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/05/a-state-of-the-art-solution-for-hydrocephalus.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Hydrocephalus is a disease in which cerebrospinal fluid collects in the cavities of the brain. One treatment option is to drain this fluid into the abdominal cavity via a surgically inserted device called a shunt. However, such purely mechanical shunts often lead to complications. The seven-member VIEshunt team therefore want to improve the treatment method by developing a mechatronic smart shunt. They are developing an intelligent system that automatically regulates the intracranial pressure to a healthy level.

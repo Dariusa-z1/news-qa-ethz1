@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/03/blog-brandes-social-media.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Soziale Medien sind innert weniger Jahre von einer Randerscheinung zu einem zentralen Bestandteil unseres Alltags aufgestiegen. Anders als etwa nach der Massenverfügbarkeit des Autos, des Fernsehers oder des Internets, ist dieser Aufstieg von einer starken Tendenz zur Monopolbildung begleitet. Blendet man chinesische Dienste wie WeChat, QQ oder Tik Tok einmal aus, dann haben Facebook (einschliesslich Instagram und WhatsApp), YouTube, LinkedIn und Twitter in ihren jeweiligen Angebotsnischen dominante Vorrangstellungen erreicht.

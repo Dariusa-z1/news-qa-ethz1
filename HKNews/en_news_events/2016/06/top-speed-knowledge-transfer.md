@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/06/top-speed-knowledge-transfer.html
 
-**Date processed:** 2025-05-01
-
 ## Putting it into practice – and fast
 
 ETH Zurich is known for top-level research and teaching, but the university’s continuing education programme is one of its most important endeavours. Switzerland has entire professional fields, such as spatial planning and development, that would be hard-pressed to find well-trained, local specialists without ETH’s continuing education courses. The long-standing post-graduate studies at ETH Zurich are still Switzerland’s only suitable educational opportunity in certain subjects. In total, ETH Zurich offers 16 MAS programmes, 25 shorter CAS and DAS courses, roughly one hundred continuing education courses and 25 e-learning programmes.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/02/tips-and-tricks-how-to-install-an-e-mail-certificate.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 It’s something you might have already noticed in e-mails from other members of the ETH community – a small seal next to the sender’s name:

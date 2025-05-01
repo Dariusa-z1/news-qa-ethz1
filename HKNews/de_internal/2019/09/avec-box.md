@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/09/avec-box.html
 
-**Date processed:** 2025-05-01
-
 ## Ein lang verfolgtes Ziel erreicht
 
 Die neue Einkaufsmöglichkeit der Firma Valora ist ein Containergebäude und wurde im Frühling 2019 lanciert. Sie steht nun allen ETH-Angehörigen sowie Besucherinnen und Besuchern des Campus vom 17. September bis zum 10. November zur Verfügung. Voraussetzung ist eine persönliche Identifizierung via App und die Hinterlegung eines Zahlungsmittels. Tagsüber ist Personal vor Ort, das die Kundinnen und Kunden beim Einkaufsprozess unterstützt. In der Nacht und am Wochenende kommt der Betrieb ohne Personal aus.

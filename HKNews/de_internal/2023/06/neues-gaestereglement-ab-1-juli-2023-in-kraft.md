@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/06/neues-gaestereglement-ab-1-juli-2023-in-kraft.html
 
-**Date processed:** 2025-05-01
-
 ## Einheitlicher Registrierungsprozess über ETHIS
 
 Rund 4000 Gäste kommen jedes Jahr für Zusammenarbeit und Austausch an die ETH Zürich. Als «Gast» gilt dabei jede Person, die nicht an der ETH arbeitet oder studiert, aber dennoch Zugriff oder Zutritt zur ETH-Infrastruktur – zu Gebäuden, Systemen oder Daten – benötigt. Hierfür müssen diese Personen an der ETH registriert sein.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/09/i-look-forward-to-my-regained-academic-freedom.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 What do you find most fascinating about your research field? We live in a world where more and more data is produced and then used to extract valuable information. Machine learning is concerned with deriving explanatory or predictive models from data. Research in this area presents incredible intellectual challenges that require broad knowledge in computer science, mathematics, and statistics. At the same time, these are questions of great social relevance. It was always important to me to work in an area of research that shapes the future of our world and raises fundamental questions.

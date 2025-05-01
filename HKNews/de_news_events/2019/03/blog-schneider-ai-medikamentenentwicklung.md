@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/03/blog-schneider-ai-medikamentenentwicklung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 (Bild: ETH Zürich)

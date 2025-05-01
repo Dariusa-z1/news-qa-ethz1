@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/08/paul-bernays-lectures-2022-ueber-kuenstliche-intelligenz-und-mathematik.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Vorträge finden im Raum HG E 7 im Hauptgebäude der ETH Zürich, Rämistr. 101, Zürich, statt:

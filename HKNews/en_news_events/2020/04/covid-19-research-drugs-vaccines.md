@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/04/covid-19-research-drugs-vaccines.html
 
-**Date processed:** 2025-05-01
-
 ## Inhibiting virus entry into cells
 
 As yet, there is still no reliable treatment for SARS-CoV-2. However, scientists across Switzerland and worldwide are engaged in an intensive search for an effective agent against the pathogen responsible for the COVID-19 pandemic. Selected research groups at ETH Zurich are also joining in these efforts. Despite the lockdown, the Executive Board gave them special permission to use the laboratories and infrastructure to fight the coronavirus.

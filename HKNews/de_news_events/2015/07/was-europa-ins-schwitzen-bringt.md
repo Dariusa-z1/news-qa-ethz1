@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/07/was-europa-ins-schwitzen-bringt.html
 
-**Date processed:** 2025-05-01
-
 ## Umgekehrtes Schwitzen
 
 Im Jahr 2003 erlebte Europa einen Jahrhundertsommer, und viele Menschen fühlen sich dieses Jahr daran erinnert. Mitten in dieser Hitzewelle publiziert nun das Fachmagazin «Nature Geoscience» eine Studie, die zur Erklärung solcher Extremwetterlagen beitragen kann. Seit rund zwei Jahren hat ein ETH-Forschungsteam Klimadaten aus aller Welt ausgewertet, um der Entstehung stabiler Hochdruckgebiete auf den Grund zu gehen. Schon länger ist bekannt, dass sehr stabile Hochdruckgebiete in der oberen Troposphäre, also auf einer Höhe von 5 bis 10 Kilometern, im Sommer Hitzewellen auslösen können. Die Forschung nennt diese speziellen Hochdrucklagen «Blocking», weil sie Tiefdruckgebiete links und rechts von sich ablenken und damit im Sommer zu «Schönwetterinseln» führen können. Diese Inseln mit einem Durchmesser von rund 2000 Kilometern können sich über grosse Teile Europas erstrecken. Sie unterbrechen die typische Westströmung vom Nordatlantik, die sonst wetterbestimmend für unsere Regionen ist.

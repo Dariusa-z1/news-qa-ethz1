@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/03/townhall-zu-return-to-the-office-future-of-work.html
 
-**Date processed:** 2025-05-01
-
 ## Two-phase plan for organising future work and collaboration
 
 Many of us are now increasingly returning to our workplaces at ETH Zurich. However, the way we work has also changed as a result of the pandemic. This town hall meeting provided insight into the next phases of how ETH intends to deal with current and future modes of working and collaborating. What are the key questions surrounding the transition back to the office and the future of work at ETH? What parameters and guidelines are in place? How can teams and supervisors establish new ways of working and collaborating post-pandemic? These issues and more were covered in the meeting.

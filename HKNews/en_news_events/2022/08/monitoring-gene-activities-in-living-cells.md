@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/08/monitoring-gene-activities-in-living-cells.html
 
-**Date processed:** 2025-05-01
-
 ## Cell Biopsy instead of cell lysis
 
 Modern biology is increasingly seeking to understand why individual cells behave differently. Various highly sensitive measurement methods have been available in basic research for a few years that allow specific analysis of single cells. This single-cell analysis enables researchers to detect differences between cells in a group, find rare cell types and identify diseased cells – which is not possible with samples from mixed cell populations.

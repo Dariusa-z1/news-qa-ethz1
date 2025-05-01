@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/07/hitzewelle-in-der-stadt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH-News: Herr Carmeliet, warum ist es im Sommer in Städten so viel heisser als auf dem Land? Jan Carmeliet: In den Städten gibt es viel Beton und Asphalt. Diese Materialien sind verhältnismässig dunkel und absorbieren daher Sonneneinstrahlung besonders stark. Am Tag erwärmen sie sich und speichern die Wärme. Nachts wirken Gebäude und Strassen dann wie Heizkörper: Sie geben die tagsüber gespeicherte Wärme ab und heizen die Umgebung auf. Ausserdem halten in Städten Gebäude den Wind ab, und es hat weniger Vegetation als auf dem Land. Wind und Pflanzen, die Wasser verdunsten, haben einen kühlenden Effekt.

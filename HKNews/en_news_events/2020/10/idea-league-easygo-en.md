@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/10/idea-league-easygo-en.html
 
-**Date processed:** 2025-05-01
-
 ## Combined strength for innovation
 
 As geothermal energy will play a key role in the fight against climate change, engineers with geothermal expertise are very much in demand. In spring 2020, Dr. Maren Brehme of TU Delft acquired 3.4 million euros in EU funding on behalf of the IDEA League to implement the EASYGO project. This project, which starts in November 2020, will enable 13 doctoral students from the four partner universities - TU Delft, ETH Zurich, RWTH Aachen and Politecnico di Milano - to investigate research questions throughout the entire chain of geothermal energy production. "To master the energy transition, we need bundled European know-how from our top technical universities. This project is an important step in this direction", said Sarah Springman, Rector of ETH Zurich and President of the IDEA League.

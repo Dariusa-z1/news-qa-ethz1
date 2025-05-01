@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/02/information-zum-coronavirus.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Bei Krankheitssymptomen (Husten, Fieber, Atembeschwerden) nach einem Aufenthalt in einem betroffenen Gebiet soll telefonisch der Hausarzt, die Hausärztin oder das kantonalen Ärztetelefon kontaktiert werden (Telefon 0800 33 66 55). Grundsätzlich werden ETH-Angehörigen folgende Vorsichtsmassnahmen empfohlen, auch im Hinblick auf die aktuelle Grippewelle:

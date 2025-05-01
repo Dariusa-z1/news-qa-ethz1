@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/05/das-luxusgut-energie.html
 
-**Date processed:** 2025-05-01
-
 ## Es gehört dazu
 
 Die dritte und letzte Woche des Energy-Efficiency Challenge Team-Wettbewerbs steht unter dem Titel «Energie und Büro». Die themenspezifischen Aktionen sollen aufzeigen, wie wir durch eine achtsame Nutzung unserer Ressourcen den Energiebedarf senken können, ohne dass unser Wohlbefinden dadurch eingeschränkt wird.

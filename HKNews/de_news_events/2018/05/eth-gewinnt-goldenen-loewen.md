@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/05/eth-gewinnt-goldenen-loewen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Zum ersten Mal überhaupt wurde ein Schweizer Pavillon an der 16. Ausgabe der Architekturausstellung Biennale in Venedig mit dem Goldenen Löwen ausgezeichnet. Verantwortlich für den «besten nationalen Beitrag» ist ein junges Architektenteam der ETH Zürich bestehend aus. Alessandro Bosshard, Li Tavor, Matthew van der Ploeg und Ani Vihervaara. Unterstützt wurden sie in ihrer Arbeit von Alexander Lehnerer, Professor für Architektur und Städtebau, der 2014 bereits für den Deutschen Pavillon verantwortlich war. Gleichzeitig wurde auch die Schweizer Kulturstiftung Pro Helvetia als Kommissärin, also als zuständige Institution für Auswahl und Organisation des Schweizer Auftritts, ausgezeichnet.

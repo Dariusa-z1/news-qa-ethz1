@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/06/interview-wirh-lino-guzzella.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH News: Professor Guzzella, everyone is talking about digitalisation at the moment. The topic appears in countless media reports, events and initiatives. Are we really facing a radical upheaval – or is this just a fashionable trend? Lino Guzzella: It’s true that many people are talking about this subject. That’s understandable, as we are experiencing a development that will change our lives profoundly.

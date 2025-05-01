@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/07/swissloop-in-top-3.html
 
-**Date processed:** 2025-05-01
-
 ## Innovation Award für selbst entwickelten Linearmotor
 
 Seit vier Jahren ruft Elon Musk Studierendenteams aus aller Welt dazu auf, Transportkapseln für den Hyperloop zu bauen. Mit diesem Geschwindigkeitswettbewerb möchte der SpaceX-Gründer die Hyperloop-Technologie fördern. Damit sollen dereinst mit Gütern oder Personen beladene Kapseln, sogenannte Pods, mit bis zu 1200 km/h durch Vakuumröhren fahren.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/03/einzelfoerderung-ist-geschichte.html
 
-**Date processed:** 2025-05-01
-
 ## In Zukunft nicht mehr möglich
 
 Wenn exzellente Forschende weiterkommen möchten, ist es entscheidend, dass sie ihre Forschungsgruppe konsolidieren und damit ihre Stellung in der Grundlagenforschung festigen können. Genau hier setzt der Consolidator Grant an: Rund zwei Millionen Schweizer Franken stehen all jenen Forschenden zur Verfügung, die einen solchen begehrten Grant zugesprochen bekommen. Nur, die vier Forschenden der ETH Zürich, denen dies bei der letzten Ausschreibung gelungen ist, werden die Grants nicht antreten können – wie bereits zuvor bei den Starting Grants ( Medienmitteilung vom 10.01.22 ) müssten sie dafür die Schweiz verlassen.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/09/neuer-standort-im-eth-hauptgebaeude.html
 
-**Date processed:** 2025-05-01
-
 ## Exhibition due to open in the coming year
 
 As of now, the Thomas Mann Archives are housed in the ETH main building. Readers can now enjoy easier access and the professionally equipped infrastructure of the Reading Room Collections and Archives in the ETH Library.

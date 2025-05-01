@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/04/blog-mueller-organic-farming.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The future of farming has to look different from farming today. Tremendously different. Otherwise, we will risk losing even more biodiversity, continue with polluting water bodies, driving erosion and running down soil fertility. And we will never reach the UN’s Sustainable Development Goals (SDGs), many of which directly relate to agriculture 1 .

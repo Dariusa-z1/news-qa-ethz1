@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/08/ground-breaking-ceremony-for-the-agriculture-of-the-future.html
 
-**Date processed:** 2025-05-01
-
 ## Combining theory with practice
 
 With a dairy cattle shed for 120 cows, a barn for rearing and fattening calves and beef cattle, a metabolic centre with stables and respiration chambers, a forum for events, and an office and laboratory building – the Real Estate infrastructure division at ETH Zurich and the Cantonal Building Department are planning great things in Eschikon Lindau. The new and replacement buildings will form the basis of a state-of-the-art teaching and research centre. The Vetsuisse Faculty at the University of Zurich will contribute its expertise in veterinary medicine to the project.

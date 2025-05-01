@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/08/vorschau-scientifica.html
 
-**Date processed:** 2025-05-01
-
 ## Lichtzaubereien und Animationseffekte
 
 Der Astrophysiker Kevin Schawinski schaut konzentriert auf seinen Bildschirm. Er sichtet Daten, die ein Teleskop aus dem All geschickt hat und versucht so mehr über die Entstehung und die Auswirkungen von Schwarzen Löchern herauszufinden. Für ihn ist Licht die einzige Informationsquelle, um die Geschichte des Universums seit dem Urknall zu erforschen. Doch diese Arbeit muss heute warten. Der junge ETH-Professor eilt zu einer Besprechung mit seiner Forschungsgruppe. Auf der Traktandenliste steht heute keine Fachdiskussion, sondern der Auftritt der Astrophysiker an der externe Seite Scientifica 2015 . Die Forschenden wollen nochmals die Infrarotkamera testen, mit denen die Besucherinnen und Besucher der Zürcher Wissenschaftstage experimentieren können.

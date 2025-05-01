@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/09/mistgabel-und-drohne.html
 
-**Date processed:** 2025-05-01
-
 ## Vierte Revolution im Agrarbereich
 
 Auf der Forschungsstation für Pflanzenwissenschaften in Lindau steuert Helge Aasen eine grosse, schwarze Drohne mit sechs Rotoren. Der Postdoc nutzt sie zur «Phänotypisierung», also zur Quantifizierung der Eigenschaften von rund 350 Weizensorten auf dem Versuchsfeld vor ihm. Dies in einer Geschwindigkeit und Genauigkeit, wie sie bis vor kurzem noch undenkbar gewesen wäre. Dafür trägt die Drohne einen sechs Kilogramm schweren Unterbau, der mit allerlei Technologie bestückt ist: Eine Thermokamera misst während des Flugs die Temperatur des Weizens. Darüber lässt sich die Wasserverdunstung der Pflanzen berechnen. Die beiden Spektralkameras dienen der Berechnung des Chlorophyllgehalts und damit der Produktivität der Pflanzen. Die RGB-Kamera wiederum erstellt ein zentimetergenaues 3D-Modell der Landschaft, womit die Halmhöhe und die Blattfläche berechnet wird. Letzteres ist entscheidend für die natürliche Schädlingsresistenz einer Weizensorte. Was Aasen hier vorführt, ist ein Blick in die Zukunft der Landwirtschaft. Die Drohne und die Hightechkameras, sie könnten einst zur Grundausstattung von Bauern und Bäuerinnen gehören.

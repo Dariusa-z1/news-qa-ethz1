@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/05/droughts-increasingly-reducing-co2-uptake-in-the-tropics.html
 
-**Date processed:** 2025-05-01
-
 ## Abstract
 
 • Droughts and fluctuating water availability have had an increasing impact on the carbon cycle in the tropics over the last 60 years.

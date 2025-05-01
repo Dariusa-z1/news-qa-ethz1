@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/03/prospecting-for-sustainable-proteins.html
 
-**Date processed:** 2025-05-01
-
 ## Improve what we have
 
 One doesn’t have to be a clairvoyant to see that the world population won’t be able to sustain its current feeding pattern in the long run. One billion people worldwide suffer from inadequate protein intake, some of them in western countries. Globally, roughly two-thirds of the proteins in human diets are plant-based, and one third is from animal-based sources; in North America this ratio is reversed [1]. Although animal source foods provide high-quality protein, many production systems are associated with social, ethical and environmental concerns, such as working conditions, animal welfare, or a substantial ecological footprint and greenhouse gas emissions. It’s clear that we need to develop ecologically and socially sound alternatives that provide a nutritious, healthy and affordable protein diet. But how?

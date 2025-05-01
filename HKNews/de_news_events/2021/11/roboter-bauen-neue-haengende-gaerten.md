@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/11/roboter-bauen-neue-haengende-gaerten.html
 
-**Date processed:** 2025-05-01
-
 ## KI schlägt intelligentes Design vor
 
 Für den Tech Cluster Zug entwerfen und erstellen Forschende aus der Gruppe der ETH-Architekturprofessoren Fabio Gramazio und Matthias Kohler zusammen mit Müller Illien Landschaftsarchitekten, Timbatec und weiteren Partnern aus Industrie und Forschung eine bepflanzte architektonische Skulptur. Die 22,5 Meter hohe Struktur besteht aus fünf geometrisch komplexen Holzschalen, die – leicht zueinander versetzt – von acht schlanken Stahlstützen getragen werden. Designt und gefertigt wird die Skulptur, die nach den hängenden Gärten der Semiramis aus der Antike benannt ist, mit neuartigen digitalen Methoden. Diese wurden im Rahmen des Projektes entwickelt.

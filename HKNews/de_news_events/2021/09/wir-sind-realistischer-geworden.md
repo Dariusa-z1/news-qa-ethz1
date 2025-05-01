@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/09/wir-sind-realistischer-geworden.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Frau Günther, Herr Brugger, das «NADEL – Center for Development and Cooperation» feiert sein 50-jähriges Bestehen. Wie hat sich das Verständnis von Entwicklungshilfe seit seiner Gründung gewandelt?

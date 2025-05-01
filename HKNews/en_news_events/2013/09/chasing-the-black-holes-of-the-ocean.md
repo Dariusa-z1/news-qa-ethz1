@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/09/chasing-the-black-holes-of-the-ocean.html
 
-**Date processed:** 2025-05-01
-
 ## No escape from the vortex
 
 However, scientists have been unable to quantify this impact so far, because the exact boundaries of these swirling water bodies have remained undetectable. George Haller, Professor of Nonlinear Dynamics at ETH Zurich, and Francisco Beron-Vera, Research Professor of Oceanography at the University of Miami, have now come up with a solution to this problem. In a paper just published in the Journal of Fluid Mechanics, they develop a new mathematical technique to find water-transporting eddies with coherent boundaries.

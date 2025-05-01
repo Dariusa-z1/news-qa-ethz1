@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/01/peko-sucht-neue-mitglieder.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wollen Sie sich tatkräftig für die Anliegen des Personals einsetzen? Die Personalkommission (PeKo) der ETH Zürich bietet Ihnen die Möglichkeit dazu. Für die kommende Amtsperiode werden engagierte und innovative ETH-Angehörige aus dem administrativen und technischen Bereich gesucht, die bereit sind, die Interessen und Anliegen der Mitarbeitenden zu vertreten. Eine Wiederwahl der bisherigen Mitglieder für die neue Amtsperiode ist möglich.

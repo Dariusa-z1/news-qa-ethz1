@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/09/blog-wehrli-pestizidinitiativen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Mehr als 300 verschiedene Pestizide schützen in der Schweiz Getreide, Obst und Gemüse vor Unkräutern, Insekten und Pilzbefall. Das verhindert Ernteausfälle, wurmstichiges Obst und angefaultes Gemüse auf dem Markt. Idealerweise wirken solche Pflanzenschutzmittel nur kurz und werden danach durch Bakterien abgebaut. Zwei hängige Volksinitiativen wollen den Einsatz von künstlichen Pestiziden in der Schweizer Landwirtschaft reduzieren oder sogar verbieten. Ganz auf Agrochemie bei Anbau und Import von Nahrungsmitteln zu verzichten, wie dies die Pestizidinitiative verlangt 1 , halte ich für unrealistisch, wenn wir eine global wachsende Bevölkerung bei sich schnell verändernden Umweltbedingungen sicher ernähren wollen.

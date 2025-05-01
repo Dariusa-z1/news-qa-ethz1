@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/03/townhall-zu-return-to-the-office-future-of-work.html
 
-**Date processed:** 2025-05-01
-
 ## Phasen zur Gestaltung der (Zusammen-) Arbeit
 
 Viele von uns kehren vermehrt zurück an den Arbeitsplatz an der ETH Zürich. Die Art und Weise, wie wir arbeiten, hat sich allerdings durch die Pandemie verändert. In dieser Townhall erhielten Sie einen Einblick in die nächsten Phasen zur Gestaltung der Situation, der aktuellen/künftigen Arbeitsformen und Zusammenarbeit. Welche Fragen stellen sich, welche Rahmenbedingungen gibt es und wie können Teams und vorgesetzte Personen ihre Zusammenarbeit nach Corona festlegen? Dies und mehr wurde in der Townhall besprochen.

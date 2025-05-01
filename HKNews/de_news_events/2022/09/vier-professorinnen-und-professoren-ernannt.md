@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/09/vier-professorinnen-und-professoren-ernannt.html
 
-**Date processed:** 2025-05-01
-
 ## Neuernennungen
 
 Dr. Jordan Aaron (*1990), zurzeit wissenschaftlicher Mitarbeiter an der WSL, zum Tenure-Track-Assistenzprofessor für Ingenieurgeologie am Departement Erdwissenschaften. Jordan Aaron befasst sich mit grundlegenden Mechanismen, die die Verformung von Geomaterialien steuern. Sein Schwerpunkt sind grössere Untergrundexkavationen und Erdrutsche. Für seine Forschung und Lehre wurde Jordan Aaron mit mehreren Preisen ausgezeichnet, unter anderem mit der Goldenen Eule 2019 der ETH Zürich. Seine Berufung trägt zur Stärkung des Departements sowie zur Entwicklung eines starken Forschungs- und Lehrprogramms bei. Der Lehrstuhl für Ingenieurgeologie ist schweizweit der einzige seiner Art und dient als wichtige Anlauf- und Schnittstelle für geologische Ämter und Behörden.

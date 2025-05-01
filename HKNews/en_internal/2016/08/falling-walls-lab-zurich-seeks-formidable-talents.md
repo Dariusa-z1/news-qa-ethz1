@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/08/falling-walls-lab-zurich-seeks-formidable-talents.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Three minutes to convince the audience and jury of your innovative idea – that’s the challenge set by the Falling Walls Lab , which will take place for the third time in Zurich on 21 September 2016. The venue: the bQm Kulturcafé on ETH’s Polyterrasse, starting at 6.00 pm.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/03/was-laeuft-im-hochschulgebiet-zuerich-zentrum.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Das Generationenprojekt externe Seite Hochschulgebiet Zürich Zentrum ist ein gemeinsames Vorhaben von Kanton und Stadt Zürich, dem Universitätsspital (USZ), der Universität (UZH) und der ETH Zürich. In den nächsten rund 30 Jahren entstehen im Herzen von Zürich neue Bauten, welche die Weiterentwicklung der drei Institutionen von Weltrang sichern.

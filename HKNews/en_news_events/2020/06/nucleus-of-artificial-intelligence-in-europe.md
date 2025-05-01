@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/06/nucleus-of-artificial-intelligence-in-europe.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Thomas Hofmann.

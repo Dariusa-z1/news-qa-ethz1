@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/09/the-executive-board-reports-4.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Each department has appointed a delegate for good scientific practice (GSP), each of whom also becomes a member of ETH Zurich’s new university-wide GSP Commission established in March 2018 (see The Executive Board reports 2018/1 ). With the inclusion of the two trusted intermediaries for integrity in research and the GSP Commission, the Executive Board has now determined the competencies of the GSP delegates.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/02/zukunftsblog-thomas-bernauer-wie-koennen-wir-uns-an-den-klimawandel-anpassen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Heute stellte der Weltklimarat (IPCC) den zweiten Teil des sechsten Sachstandsberichts (kurz: AR6) zum Stand der Klimaforschung vor. 1 Während der erste Teil vom letzten August die physikalischen Grundlagen, Ursachen und das Ausmass des Klimawandels beschreibt (siehe Blogbeitrag von Sonja Seneviratne), befasst sich der zweite Teil mit den Konsequenzen der Klimaerwärmung für die Umwelt und die Menschheit.

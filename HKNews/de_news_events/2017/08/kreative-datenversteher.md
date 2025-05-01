@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/08/kreative-datenversteher.html
 
-**Date processed:** 2025-05-01
-
 ## Artikel analysieren und klassifizieren
 
 Begonnen hat alles vor ein paar Jahren: Mark Cieliebak, Martin Jaggi und Fatih Uzdilli forschten an der ETH und ZHAW im Bereich Computer Science und publizierten ihre Technologien in wissenschaftlichen Papern. Dadurch erlangten diese aber keine grosse Bekanntheit. Das wollten die drei Informatiker ändern: So gründeten sie 2015 das ETH Spin-off SpinningBytes und stellten die Programme gratis auf ihrer Homepage zur Verfügung.

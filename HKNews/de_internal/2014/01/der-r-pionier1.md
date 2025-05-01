@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/01/der-r-pionier1.html
 
-**Date processed:** 2025-05-01
-
 ## Etwas Sinnvolles für die Menschen schaffen
 
 Während andere in den Sechziger-Jahren Lokführer werden wollten, war für Martin Mächler schon immer klar: er würde Forscher werden. Das änderte sich auch auf dem Gymnasium nicht. Wenn er sich nicht gerade mit Mathematik beschäftigte, tüftelte er an Computerprogrammen. Dies in einer Zeit, als noch kaum jemand einen Computer hatte.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/06/movetia-information-event-funding-for-international-cooperation-in-education.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Um eine qualitativ hochstehende und zukunftssichere Bildung in der Schweiz zu unterstützen, fördert der Bund die internationale Zusammenarbeit im Bildungsbereich in verschiedenen Formen. Diese Online-Veranstaltung von Movetia informiert Dozierende, administrative und Supportmitarbeitende über

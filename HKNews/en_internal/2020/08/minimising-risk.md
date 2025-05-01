@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/08/minimising-risk.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Leonhard Sigel,  head of the Occupational Medicine and Health Protection section of SSHE (Photograph: ETH Zurich/Gian Marco Castelberg)

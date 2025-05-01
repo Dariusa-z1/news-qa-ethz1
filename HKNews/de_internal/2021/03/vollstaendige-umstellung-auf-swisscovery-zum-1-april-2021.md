@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/03/vollstaendige-umstellung-auf-swisscovery-zum-1-april-2021.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Bitte beachten Sie, dass das alte Bibliothekssystem ab April nicht mehr zur Verfügung steht:

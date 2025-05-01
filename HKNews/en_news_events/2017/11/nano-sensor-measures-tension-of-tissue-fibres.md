@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/11/nano-sensor-measures-tension-of-tissue-fibres.html
 
-**Date processed:** 2025-05-01
-
 ## Bacterium senses tensional state of tissue fibres
 
 Bacteria are able to attach themselves to tissue fibres with the aid of a ‘nano-adhesive’. Just how they achieve this was investigated a few years ago by Viola Vogel, Professor of Applied Mechanobiology, using computer simulations at CSCS . The researchers simulated how the bacterial nano-adhesive – a peptide thread with several binding sites strung together like pearls – adheres to what are called fibronectin fibres. These form part of the fibrous network in which cells are embedded. Where there is a lesion, the fibronectin fibres become severed.

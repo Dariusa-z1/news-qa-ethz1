@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/05/neue-erkenntnisse-zum-campus-der-zukunft.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Anforderungen an den Campus der Zukunft sind hoch. Um auch künftig beste Bedingungen für Lehre, Forschung und Transfer zu schaffen, bedarf es einer ständigen und innovativen Entwicklung der Campus-Infrastruktur. Diese muss der wachsenden interdisziplinären und technologischen Komplexität sowie der Geschwindigkeit der Veränderungen gerecht werden.

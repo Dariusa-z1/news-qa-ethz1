@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/04/ai-designs-new-drugs-based-on-protein-structures.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • Researchers at ETH Zurich have created a generative artificial intelligence (AI) for developing drug molecules based on the three-dimensional surface of proteins with which the molecules are to interact.

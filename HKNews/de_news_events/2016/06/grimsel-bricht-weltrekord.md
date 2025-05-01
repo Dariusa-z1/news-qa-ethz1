@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/06/grimsel-bricht-weltrekord.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Das Formula Student Team des Akademischen Motorsportvereins Zürich (AMZ) hat es heute geschafft: Ihr Elektrorennwagen «grimsel» beschleunigte in nur 1,513 Sekunden von 0 auf 100 km/h und stellte damit einen neuen Weltrekord auf. Die Geschwindigkeit von 100 Stundenkilometern erreichte das Fahrzeug innerhalb von weniger als 30 Metern auf dem Militärflugplatz Dübendorf bei Zürich. Der bisherige Weltrekord betrug 1,779 Sekunden und wurde im vergangenen Jahr von einem Team der Universität Stuttgart aufgestellt.

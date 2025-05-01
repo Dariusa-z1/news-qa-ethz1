@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/01/new-databases-web-of-science-core-collection.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 From 2015 on, the following additional databases are available:

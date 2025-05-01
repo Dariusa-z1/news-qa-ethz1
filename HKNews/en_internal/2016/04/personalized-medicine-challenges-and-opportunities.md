@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/04/personalized-medicine-challenges-and-opportunities.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The Competence Center Personalized Medicine UZH/ETZ and the IT'IS Foundation with support from the International Latsis Foundation join forces to organize the Latsis Symposium ETH Zurich “Personalized medicine – challenges and opportunities”, to be held at the ETH Zurich, 27. – 29. June 2016.

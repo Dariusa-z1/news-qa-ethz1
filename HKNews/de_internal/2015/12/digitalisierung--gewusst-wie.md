@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/12/digitalisierung--gewusst-wie.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der Leitfaden " Best Practices Digitalisierung " des DigiCenters der ETH-Bibliothek gibt hierfür praxisnahe Tipps und fundierte Empfehlungen. Er umfasst den ganzen Prozess von der Planung und Durchführung eines Digitalisierungsprojekts, über Aspekte der Speicherung bis hin zum Umgang mit Metadaten.

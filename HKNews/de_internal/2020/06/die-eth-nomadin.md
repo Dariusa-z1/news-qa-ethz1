@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/06/die-eth-nomadin.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Marianna Berger

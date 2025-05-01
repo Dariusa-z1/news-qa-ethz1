@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/05/bumblebees-speed-up-flowering.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Spring has sprung earlier than ever before this year, accompanied by temperatures more typical of early summertime. Many plants were already in full bloom by mid-April, about three to four weeks earlier than normal. These types of seasonal anomalies are becoming increasingly frequent due to climate change, and the resulting uncertainty threatens to disrupt the timing of mutualistic relationships between plants and their insect pollinators.

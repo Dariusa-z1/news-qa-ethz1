@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/06/traumata-rueckgaengig-gemacht.html
 
-**Date processed:** 2025-05-01
-
 ## A positive environment reverses symptoms
 
 Traumatic experiences in childhood increase the risk of developing behavioral and psychiatric disorders later in life. It is also known that the consequences of a trauma can likewise be observed in the children of people affected even if those children have themselves not experienced any trauma. However, childhood trauma in some conditions can also help individuals deal better with difficult situations later in life. This ability, too, is passed onto following generations. These findings have recently been uncovered by Isabelle Mansuy, Professor of Neuroepigenetics at the University of Zurich and ETH Zurich, during investigations carried out in mice.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/04/ein-eu-beitritt-der-ukraine-waere-keine-alternative-zur-nato.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Am Sonntag wurde Emmanuel Macron für eine zweite Amtszeit als französischer Präsident gewählt. Welche Bedeutung hat das in der aktuellen Situation für die Europäische Union?

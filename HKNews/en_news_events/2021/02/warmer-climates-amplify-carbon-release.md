@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/02/warmer-climates-amplify-carbon-release.html
 
-**Date processed:** 2025-05-01
-
 ## Concerns justified
 
 Without land ecosystems, our climate would probably be under even greater threat than it already is. Plants and soil currently consume about a third of anthropogenic carbon emitted to the atmosphere, which makes them a key mitigator of global climate change. Soil plays a prominent role here because it stores a large portion of the organic carbon, delaying the latter’s return to the atmosphere when plants die.

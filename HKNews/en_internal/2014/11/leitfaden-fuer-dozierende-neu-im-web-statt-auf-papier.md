@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/11/leitfaden-fuer-dozierende-neu-im-web-statt-auf-papier.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Anyone who lectures at ETH Zurich will be familiar with the orange-coloured Guidelines for Lecturers document. Until now, the Rectorate has sent copies of these guidelines to every new lecturer by mail.

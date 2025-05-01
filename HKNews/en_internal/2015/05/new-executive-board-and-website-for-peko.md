@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/05/new-executive-board-and-website-for-peko.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In late April 2015, the Staff Commission (PeKo) of ETH Zurich elected and set up a new Executive Board, comprising the following members

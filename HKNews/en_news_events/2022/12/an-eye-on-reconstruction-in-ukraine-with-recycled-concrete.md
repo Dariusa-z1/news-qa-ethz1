@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/12/an-eye-on-reconstruction-in-ukraine-with-recycled-concrete.html
 
-**Date processed:** 2025-05-01
-
 ## Circular economy
 
 After experiencing the tragic first days of the war in the suburbs of Kyiv, Viacheslav Troian, a professor at the Kyiv National University of Construction and Architecture, left with his family to Western Europe. As a father of four children, he was allowed to leave Ukraine. Coincidence played no small role in how he ultimately ended up in Switzerland and then at ETH Zurich. “We were standing at the train station in Budapest, and my wife and I were trying to decide where we should go,” Troian says. At that time, Ukrainian refugees didn’t have to pay for train travel. The only cost was 3 euros for the seat reservation, regardless of destination. One train for which Troian was able to reserve seats had Zurich as its terminus. And so it happened that he and his family went to Switzerland. “At that time, we were hoping the war would end soon and we would return home.” But things turned out differently.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/04/im-dienste-von-forschung-und-lehre-e-rara-jubilaeum-zum-nachverfolgen.html
 
-**Date processed:** 2025-05-01
-
 ## e-rara.ch – eine Erfolgsgeschichte?
 
 Weiter auf dem Podium diskutierten ausgewiesene Fachexperten. Lebendig und kenntnisreich erläuterten sie das grosse Potenzial der Plattform, teilten individuelle Erfahrungen und konkretisierten Insights zum Thema Retrodigitalisierung. So wird unter anderem

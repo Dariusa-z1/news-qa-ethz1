@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/04/fat-quantum-cats.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • Researchers at ETH Zurich have created the heaviest Schrödinger cat to date.

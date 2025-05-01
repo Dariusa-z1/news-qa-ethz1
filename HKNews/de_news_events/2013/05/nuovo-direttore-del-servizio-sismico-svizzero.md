@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/05/nuovo-direttore-del-servizio-sismico-svizzero.html
 
-**Date processed:** 2025-05-01
-
 ## Una specializzazione in rischio sismico
 
 Stefan Wiemer continuerà a svolgere le varie attività e i vari mandati del SED, l'istituto della Confederazione competente per i terremoti. Le sue mansioni principali sono il monitoraggio e lo studio del rischio sismico in Svizzera. In particolare, Stefan Wiemer rappresenterà all'esterno le informazioni e i dati relativi ai processi sismologici come ad esempio la comunicazione ponderata ed esauriente di informazioni alle autorità, ai media e alla popolazione o la formazione di studenti. Stefan Wiemer si riserverà inoltre del tempo per dedicarsi all'approfondimento di nuovi progetti. «L'impiego sempre maggiore di energie geotermiche rappresenta una sfida anche per il SED. Sono molto contento di poterla affrontare in prima persona», afferma Stefan Wiemer.

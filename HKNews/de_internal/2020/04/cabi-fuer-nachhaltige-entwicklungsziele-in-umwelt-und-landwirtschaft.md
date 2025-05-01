@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/04/cabi-fuer-nachhaltige-entwicklungsziele-in-umwelt-und-landwirtschaft.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Sie forschen und arbeiten im Bereich der angewandten Biowissenschaften? Sie möchten dabei schnell auf Informationen zu allen Aspekten eines Themenbereichs zugreifen können? Die sechs Kompendien von CABI zu externe Seite Tierproduktion , externe Seite Aquakultur , externe Seite Pflanzenschutz , externe Seite Forstwissenschaften , externe Seite Gartenbau und externe Seite Invasiven Arten bieten Ihnen eine enzyklopädische Ressource, die alles an einem Ort konzentriert und zusammenführt: thematisch aufgearbeitete Zeitschriftenartikel von verschiedenen Verlagen, aber auch Buchkapitel, Berichte, Fallstudien, Datenblätter, Bilder und (Verbreitungs-)Karten, neu mit Zoomfunktionen.

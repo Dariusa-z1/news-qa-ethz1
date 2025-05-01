@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/12/blog-beretta-foodwaste-schweiz.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Es weihnachtet sehr. Das Christkind und die festliche Schlemmerei stehen vor der Tür. Für mich eine Zeit, in der ich mir gern Gedanken mache über unseren Umgang mit Esswaren. Noch vor zehn Jahren war die Verschwendung von Lebensmitteln kaum einer Schlagzeile wert. Die Nahrungsmittelindustrie kehrte dieses Schattenseitenthema unter den Teppich, und wer die wissenschaftliche Literatur nach Foodwaste durchforstete, fand nicht gerade viel. Organisationen für Lebensmittelspenden waren die einzigen auf weiter Flur, die Essbares vor dem Abfall bewahrten.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/09/in-memory-of-sasa-milanovic.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Saša Milanović

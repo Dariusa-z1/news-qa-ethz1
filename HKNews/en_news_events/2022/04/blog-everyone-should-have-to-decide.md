@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/04/blog-everyone-should-have-to-decide.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In Switzerland, organ donation is currently performed on an opt-in basis. Organs from deceased persons may currently only be removed for transplantation if they have consented to organ donation during their lifetime or if, in the absence of explicit consent, close relatives declare that organ donation corresponds to the presumed will of the deceased. Although recent surveys show that almost 80 percent of the Swiss population are in favor of post-mortem organ donation, in reality nowhere near the number of organs and tissues are donated as would correspond to the needs of organ recipients 1 .

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/06/geometrie-von-mars-flusstaelern.html
 
-**Date processed:** 2025-05-01
-
 ## Täler nur durch Regenwasser erodiert
 
 Auf der Oberfläche des Mars gibt es Strukturen, die Gewässernetzen auf der Erde ähneln. Wissenschaftler gehen deshalb davon aus, dass es auf dem roten Planeten einst genügend Wasser gegeben haben muss, um Fliessgewässer zu speisen, die ihren Lauf in den Untergrund einfrassen.

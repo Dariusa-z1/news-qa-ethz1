@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/03/weisung-zu-den-massnahmen-in-der-lehre-ergaenzt.html
 
-**Date processed:** 2025-05-01
-
 ## Stoffumfang
 
 Die Änderungen in der zweiten Ausgabe betreffen insbesondere Detailbestimmungen zum Umgang mit Änderungen des Stoffumfangs, zu nicht bestandenen Leistungskontrollen und zur Verlängerung von Studienfristen.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/07/eth-is-dancing-with-google-tango.html
 
-**Date processed:** 2025-05-01
-
 ## Virtual and real world combined
 
 A smartphone that can navigate you through a shopping centre and straight to the cereal aisle. A device that shows us how a sofa we have not yet purchased will actually look in our living room. Technology that can lead the blind much in the way that guide dogs do today. All of this could soon be a reality. A project group at internet giant Google is working with hardware manufacturers, public research institutions and others to develop this type of mobile device along with the necessary software. ETH professors Marc Pollefeys and Roland Siegwart and their staff are playing a major role in this initiative, codenamed Project Tango.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/12/georeferenzierung-wissen-neu-in-3-d-erlebbar-machen.html
 
-**Date processed:** 2025-05-01
-
 ## Aber was ist eigentlich Georeferenzierung?
 
 Mit dem Smartphone alte Karten durchwandern? Die Geschichte des eigenen Wohnorts aus einer neuen Perspektive erleben? Wissenswertes zu geografischen Punkten entdecken? Das und noch viel mehr bietet Georeferenzierung, die Anreicherung digitalisierter Medien mit räumlicher Information. Wie Sie selbst sicherlich schon festgestellt haben: In den letzten Jahren wurden Geoinformationen immer zugänglicher. Auch Google Maps öffnete immer breiteren Teilen der Öffentlichkeit das Tor zu webbasierten Karten und Geodaten.

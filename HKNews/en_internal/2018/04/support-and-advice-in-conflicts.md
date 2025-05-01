@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/04/support-and-advice-in-conflicts.html
 
-**Date processed:** 2025-05-01
-
 ## Thanks to Wilfred van Gunsteren for his dedication
 
 Conflicts are inevitable in the world of work, whether in businesses or universities. This is why ETH employs ombudspersons: to offer support in crisis situations, to advise and to manage conflicts. This year marks the 20th anniversary of the Ombudspersons’ Office.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/04/tablets-for-study-and-work-operating-systems-in-comparison.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Subjects covered:

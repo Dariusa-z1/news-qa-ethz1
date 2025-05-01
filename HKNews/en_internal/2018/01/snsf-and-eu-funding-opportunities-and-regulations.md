@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/01/snsf-and-eu-funding-opportunities-and-regulations.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Representatives of Swiss National Science Foundation (SNSF) and EU GrantsAccess will be presenting funding opportunities, and representatives from ETH Library will talk about how to comply with the new open access and data management plan regulations from SNSF.

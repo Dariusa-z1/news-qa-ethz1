@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/10/how-to-react-in-case-of-campus-violence.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In 2015, ETH Zurich was home to 26,500 students, researchers, lecturers and employees, making the University almost a city unto itself. But far from being an ivory tower, the University’s size, diversity and openness give rise to the same challenges faced by any city, among them the issue of violence. Fortunately we have not experienced any incidents at ETH Zurich, but events around the world show that universities must be prepared for the possibility of campus violence. This raises the question of what you should do in case of an attack. It can also be helpful to know something about police procedures and the provisions that ETH Zurich has made for such incidents.

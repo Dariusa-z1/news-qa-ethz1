@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/08/die-schulleitung-informiert-2020-5.html
 
-**Date processed:** 2025-05-01
-
 ## Procedure in cases of inappropriate behaviour
 
 ETH Zurich is committed to a culture of mutual respect. Bullying, discrimination, threats, harassment or physical violence will not be tolerated. With a view to anchoring this culture of respect more firmly in the ETH community and to clearly define the associated processes, the Executive Board has enacted a regulation governing the procedure for cases of inappropriate behaviour, to take effect on 1 September 2020. To draw up and formulate the regulation, the Executive Board launched a broad consultation process that included multiple workshops and worked closely with the University Assembly, all university groups (Lecturers’ Conference [KdL], the association of non-faculty scientific staff [AVETH], the association of students at ETH [VSETH] and Staff Commission [PeKo]), and the ombudspersons. Various issues were clarified and misunderstandings rectified. The following points are key:

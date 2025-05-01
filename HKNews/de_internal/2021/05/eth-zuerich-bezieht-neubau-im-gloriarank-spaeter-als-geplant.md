@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/05/eth-zuerich-bezieht-neubau-im-gloriarank-spaeter-als-geplant.html
 
-**Date processed:** 2025-05-01
-
 ## Betriebsaufnahme
 
 Das neue Gebäude GLC ist für die ETH Zürich und den Standort Zürich von besonderer Bedeutung. Zusammen mit Partnern möchte die ETH anhand der neuen Infrastruktur einen Meilenstein in der medizintechnischen Forschung und Anwendung setzen. «Die Professuren, ihre Labs und eine Technologieplattform für klinische Studien sollen die bestehenden Aktivitäten der ETH in der medizinischen Forschung und die führende Rolle in innovativer Medizintechnik weiter ausbauen», sagt Detlef Günther, Vizepräsident für Forschung.

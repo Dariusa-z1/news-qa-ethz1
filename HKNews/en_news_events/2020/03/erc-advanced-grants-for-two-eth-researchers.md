@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/03/erc-advanced-grants-for-two-eth-researchers.html
 
-**Date processed:** 2025-05-01
-
 ## European research is more important than ever
 
 Although much of Europe is currently at a standstill, the European Research Council (ERC) has announced the names of the researchers who will receive an ERC Advanced Grant this year. These include two researchers from ETH: microbiologist Julia Vorholt and pharmacologist Jean-Christophe Leroux will each receive some 2.58 million Swiss francs in funding for their projects.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/08/eine-quelle-der-inspiration.html
 
-**Date processed:** 2025-05-01
-
 ## Den Austausch weiter vereinfachen
 
 Schnarchen kann zum Gesundheitsproblem werden. Nun entwickelt ein Schweizer Unternehmen mit ETH-Forschenden ein Bett, welches das Schnarchen reduzieren kann. Dank neuster Technologie kann das Bett die Körperhaltung der Schlafenden durch leichte Bewegungen verändern und Schnarchen vorbeugen. Erforscht wird diese Technologie an der ETH-Professur für sensomotorische Systeme. Das Bett ist ein Beispiel, wie die ETH Zürich auch mit kleinen und mittleren Unternehmen (KMU) zusammenarbeitet.

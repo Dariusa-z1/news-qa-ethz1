@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/01/die-bibliothek-erdwissenschaften-schliesst-ihre-tueren-aber-nicht-ihr-angebot.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Das Wichtigste zuerst: Wir sind für Sie da. Obwohl der Standort schliesst, können Sie weiterhin auf unsere umfangreiche Mediensammlung zugreifen, an Kursen teilnehmen und unsere Beratungsangebote in Anspruch nehmen.

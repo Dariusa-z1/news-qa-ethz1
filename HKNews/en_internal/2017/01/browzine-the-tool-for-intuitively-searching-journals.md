@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2017/01/browzine-the-tool-for-intuitively-searching-journals.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 This tool can be used both via the web or an app:

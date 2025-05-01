@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/09/der-asket-unter-den-verbrennungsmotoren.html
 
-**Date processed:** 2025-05-01
-
 ## Dieseleinspritzung statt Zündkerze
 
 Im Jahr 2012 betrug der durchschnittliche CO 2 -Ausstoss aller verkauften neuen Personenwagen in der Schweiz 151 Gramm pro Kilometer. Mit Emissionsvorschriften plant der Bund diesen Wert bis 2025 sukzessive auf rund 70 Gramm zu senken. Wissenschaftler am Institut für Dynamische Systeme und Regelungstechnik der ETH Zürich haben nun einen Erdgas-Diesel-Hybridmotor entwickelt, der pro Kilometer in einem Fahrzeug der Golf-Klasse nur noch 56 Gramm CO 2 an die Umwelt abgibt und somit die jetzigen Emissionswerte um das Zwei- bis Dreifache unterschreitet. Dies gelingt, weil Erdgas vergleichsweise emissionsarm ist. Es wird in vielen Ländern, wie beispielsweise den USA, im grossen Stil gefördert und gilt für die nächsten Jahrzehnte als wichtigste Alternative für Erdöl.

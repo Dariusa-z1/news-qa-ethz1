@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/09/doi-registration-for-the-swiss-research-and-university-sector.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Digital Object Identifiers:

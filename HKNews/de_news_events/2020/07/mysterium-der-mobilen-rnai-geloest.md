@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/07/mysterium-der-mobilen-rnai-geloest.html
 
-**Date processed:** 2025-05-01
-
 ## Proteine und DNA sind ausgeschlossen
 
 Kleine RNA-Stücke spielen in den meisten Lebewesen eine wichtige Rolle bei der Regulierung von Genen, indem sie diese stummschalten. Sie tun dies, indem sie hochspezifisch an gewisse Sequenzen von Gen-Transkripten, also ebenfalls RNA-Moleküle, andocken. Damit verhindern sie, dass die Zellmaschinerie anhand dieser RNA-Moleküle Proteine herstellt. RNA-Interferenz (RNAi) wird dieser Mechanismus genannt, und er ist in der Biologie überaus wichtig.

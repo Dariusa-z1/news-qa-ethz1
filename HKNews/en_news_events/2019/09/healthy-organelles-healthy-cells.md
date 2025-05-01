@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/09/healthy-organelles-healthy-cells.html
 
-**Date processed:** 2025-05-01
-
 ## Proteins that stick together
 
 For a long time, the contents of cells were thought to be fairly unstructured and chaotic: a mixture of proteins, DNA and a multitude of small metabolic molecules. Although important cellular processes in plants and animals were known to take place in organelles (larger structures enclosed by a membrane, such as the nucleus or mitochondria), it is only in the past few years that scientists have discovered that there is another type of structure playing a critical role in the organisation of cellular processes: membraneless organelles. These tiny droplets are formed in a self-organised process that resembles the separation of oil droplets in water.

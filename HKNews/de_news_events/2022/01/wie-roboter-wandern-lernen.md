@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/01/wie-roboter-wandern-lernen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Steile Passagen auf rutschigem Untergrund, hohe Stufen, Geröll und Waldwege mit Wurzeln: Der Weg auf den 1098 Meter hohen Berg Etzel am südlichen Ende des Zürichsees ist gepflastert mit zahlreichen Hindernissen. Doch ANYmal, der vierbeinige Laufroboter des Robotic Systems Lab der ETH Zürich, überwindet die 120 Höhenmeter mühelos und steht nach 31-minütigem Aufstieg auf dem Gipfel. Vier Minuten schneller, als für menschliche Wanderer vorgesehen. Und das ohne Sturz oder Fehler.

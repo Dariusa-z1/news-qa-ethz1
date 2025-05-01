@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/07/high-speed-motor-for-satellites.html
 
-**Date processed:** 2025-05-01
-
 ## Existing systems have numerous disadvantages
 
 “Actually, there is nothing particularly new about it,” is the modest line taken by Arda Tüysüz, a postdoc at ETH Zurich’s Power Electronic Systems Laboratory (PES). “The electronics, the magnetic bearings, understanding of the basic physical principle – it was all there already.” However, the engineering skill of the PES researchers is evident in their ability to combine these fundamentals into high-speed motor, which can run 20 times faster than the state of the art, and which is vastly smaller and more energy-efficient. In collaboration with the ETH spin-off Celeroton, Tüysüz and colleagues have developed a new kind of magnetically levitated reaction wheel motor that reaches speeds of more than 150,000 revolutions per minute.

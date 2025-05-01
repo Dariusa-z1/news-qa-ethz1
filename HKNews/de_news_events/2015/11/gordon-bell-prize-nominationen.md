@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/11/gordon-bell-prize-nominationen.html
 
-**Date processed:** 2025-05-01
-
 ## Fünfzig Mal schneller und grösser
 
 Simulationen auf Supercomputern unterstützen in vielen wissenschaftlichen Bereichen die experimentelle Forschung. Solche Berechnungen sind auch für die leistungsstärksten Supercomputer enorm aufwendig und komplex.

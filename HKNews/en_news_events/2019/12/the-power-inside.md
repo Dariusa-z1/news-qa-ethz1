@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/12/the-power-inside.html
 
-**Date processed:** 2025-05-01
-
 ## Soft and conductive
 
 The ceramic cube under the microscope is gifted with superpowers. Compressed to nearly a third of its height, it refuses to crumble, break or tear. When the pressure releases, the cube returns to its original state with the resilience of a sponge. The press comes down again, but the cube remains intact. The remarkable elasticity of this tiny ceramic cube – just 0.1 millimetres tall – stems from the curving grooves and cavities that traverse its internal structure. Their layout is such that tensile forces cannot concentrate within any one area of the cube when pressure is applied. It’s this concentration of forces near defects, notches or sharp corners that makes ceramic materials so brittle. The twisted architecture of the cube prevents this, hence the ceramic’s unexpected elasticity. ETH Professor Dennis Kochmann and his colleagues from the California Institute of Technology in Pasadena developed this ceramic. It is a metamaterial, engineered to possess properties not found in nature. Its internal microstructure lends it these artificial properties.

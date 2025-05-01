@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/06/ueber-fluesse-und-schluchten-die-schweiz-und-ihre-brueckenbauer0.html
 
-**Date processed:** 2025-05-01
-
 ## From a craft to the art of engineering
 
 Modern bridge-building began more than 150 years ago. Since then it has undergone great changes, which continue up to the present day. Engineers from ETH Zurich played an important role in this regard. Not only did they develop technical fundamentals, but they also created true works of art both in Switzerland and abroad. After all, ETH was founded in 1855 expressly with the aim of also training “technicians for roadway, railway, hydraulic and bridge engineering”.

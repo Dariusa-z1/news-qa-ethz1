@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/03/interview-vayena.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH-News: Die Schweiz möchte in den nächsten vier Jahren eine nationale Dateninfrastruktur für die personalisierte Medizin aufbauen. Sind wir dafür bereit? Effy Vayena: Ich würde sagen, wir bereiten uns darauf vor. In dieser Phase müssen wir Systeme aufbauen, die einen verantwortungsvollen Umgang mit Daten von Patienten und Gesunden ermöglichen. Dabei müssen technologische, wissenschaftliche und gesellschaftliche Fragen diskutiert werden.

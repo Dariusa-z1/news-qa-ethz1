@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/08/freshening-of-southern-ocean.html
 
-**Date processed:** 2025-05-01
-
 ## The drifting Antarctic sea ice
 
 Long-term measurements of the salinity in the Southern Ocean have revealed a strong freshening signal over the past decades. In fact, these salinity changes are among the most pronounced in the global ocean. To date, the source of these changes has remained a conundrum.

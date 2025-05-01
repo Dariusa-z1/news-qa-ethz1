@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/07/neue-kommunikationswebseiten.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Welche Inhalte bieten die neuen Webseiten?

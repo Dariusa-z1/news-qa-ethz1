@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/03/open-source-microprocessor.html
 
-**Date processed:** 2025-05-01
-
 ## Processor for wearable microsystems
 
 Software source codes and hardware designs tend to be closely guarded trade secrets. Not so with open-source products. For instance, the code of open-source software is freely available to all: the best known example is the Linux operating system. Not only are interested developers able to use the software, they can also further develop it and adapt it to their own needs.

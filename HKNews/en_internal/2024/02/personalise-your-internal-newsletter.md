@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2024/02/personalise-your-internal-newsletter.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 By the way: As a current subscriber to the newsletter, you are now automatically registered for all topics. And if you have not yet subscribed to the Internal news newsletter, you can do so here .

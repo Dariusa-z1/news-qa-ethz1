@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/04/zwei-advanced-grants-fuer-die-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Ungewisse Zukunft
 
 Mit der Atmosphärenphysikerin Ulrike Lohmann und dem Politikwissenschaftler Frank Schimmelfennig haben zwei Forschende der ETH Zürich je einen Advanced Grant des Europäischen Forschungsrats (ERC) zugesprochen bekommen. Ihre Projekte werden mit 3,8 respektive 2,8 Millionen Franken unterstützt.

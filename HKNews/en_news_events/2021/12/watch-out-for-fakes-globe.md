@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/12/watch-out-for-fakes-globe.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Leonie Flückiger gets the day off to an energetic start with a morning run. The young company founder is training for her first marathon, and the music in her ears keeps her moving through the streets at a steady pace. Glancing down at the smartwatch on her wrist, she assures us with a smile that it is only for sport. Any other occasion would demand a Swiss-made mechanical timepiece, the kind with a precision-crafted movement that Flückiger can truly appreciate, thanks to her degree in micro and nanosystems. She has always had a penchant for wristwatches – even before she launched a start-up in the industry – so it was only natural she should treat herself to a watch as a graduation present. For this particular ETH alumna, a watch is more than just a fashion accessory; it also symbolises her feeling of success and sense of pride in having completed a highly technical study programme.

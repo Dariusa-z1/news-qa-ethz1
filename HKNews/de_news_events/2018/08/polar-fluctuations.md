@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/08/polar-fluctuations.html
 
-**Date processed:** 2025-05-01
-
 ## Mars-Rover fährt mit Bleitellurid
 
 Manchmal erscheinen wissenschaftliche Fragestellungen für Aussenstehende als Haarspalterei. Doch oft sind sie entscheidend, so etwa in den Materialwissenschaften: Der kommerzielle Einsatz eines Materials fällt oder steht mit seinen Eigenschaften. Ein Beispiel einer nach Haarspalterei anmutenden Fragestellung mit Folgen ist jene, der Boris Sangiorgio in seiner Doktorarbeit nachging. In der Forschungsgruppe der ETH-Professorin Nicola Spaldin am Institut für Materialtheorie untersuchte der Tessiner mit Hilfe des Supercomputers „Piz Daint“, wie sich Bleitellurid (PbTe) verhält, wenn es sich erwärmt. Bleitellurid kommt in der Natur als Altait vor, ein Mineral der Sulfosalze. Dieses Mineral kann Wärmeenergie in elektrische Energie umwandeln, hat also thermoelektrische Eigenschaften.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/03/bis-ans-unerklaerliche-vordringen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Frédéric Merkt, Professor für Physikalische Chemie. (Bild: ETH Zürich)

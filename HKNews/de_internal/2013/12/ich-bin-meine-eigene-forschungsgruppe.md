@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2013/12/ich-bin-meine-eigene-forschungsgruppe.html
 
-**Date processed:** 2025-05-01
-
 ## Traditionelle und molekulare Pflanzenpathologie fördern
 
 22 wissenschaftliche Artikel, 20 Publikationen, 25 Vorträge und zahlreiche Workshops – ein Blick auf Ueli Merz’ Webseite zeigt: der Pflanzenpathologe gehört weltweit zu den führenden Experten auf dem Gebiet des Pulverschorfs. Die durch einen Pilz hervorgerufene Erkrankung der Kartoffel beschäftigt ihn seit seinen Anfängen an der ETH. Nachdem er sein Doktorat abschloss, forschte er als Senior Scientist in der Pflanzenpathologie-Gruppe am Departement für Agrar- und Lebensmittelwissenschaften – seit kurzem Umweltsystemwissenschaften – weiter.

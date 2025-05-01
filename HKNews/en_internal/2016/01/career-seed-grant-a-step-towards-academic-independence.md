@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/01/career-seed-grant-a-step-towards-academic-independence.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Those interested in applying for a Career Seed Grant should note the following:

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/04/europa-muss-sich-unabhaengiger-von-china-machen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Herr Thränert, welches Thema bereitet ihnen am meisten Sorgen? Oliver Thränert: Der Krieg in der Ukraine überschattet weiterhin die internationale Politik. Wir befinden uns in einer geopolitischen Konfrontation zwischen der Atommacht Russland und den westlichen und anderen Staaten, welche die Ukraine unterstützen. Die Regierung der Vereinigten Staaten sieht darin sogar eine globale Konfrontation zwischen Demokratien und Autokratien, da China sich hinter Russland gestellt hat.

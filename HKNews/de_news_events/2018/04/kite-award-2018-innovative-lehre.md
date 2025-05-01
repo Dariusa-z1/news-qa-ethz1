@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/04/kite-award-2018-innovative-lehre.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Ehre für die Lehre: Zum zweiten Mal würdigte die Konferenz des Lehrkörpers der ETH Zürich (KdL) anlässlich der Verleihung des KITE Awards innovative Lehrformen und mithin den aussergewöhnlichen Einsatz der Lehrenden. «Mit dem Preis wollen wir fortschrittliche Lehrkonzepte auszeichnen und Impulse für weitere Ideen geben», sagte Edoardo Mazza, Professor für Mechanik und Präsident der KdL zum Auftakt der Veranstaltung vor rund 300 Gästen im Audimax. So steht «KITE» für «Key Innovation in Teaching at ETH». «Heutzutage reicht es nicht mehr aus, Wissen zu vermitteln», führte Mazza weiter aus. Vielmehr gehe es darum, die Studierenden zu lehren, selbständig und kritisch zu denken und effizient in interdisziplinären Teams zusammenzuarbeiten.

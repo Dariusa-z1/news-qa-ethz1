@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/09/bundesrat-will-eth-gesetz-revidieren.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der Bundesrat hat am 11. September 2015 die Vernehmlassung zu einer Teilrevision des Bundesgesetzes über die Eidgenössischen Technischen Hochschulen eröffnet. Die Gesetzesanpassungen betreffen insbesondere die Themen Corporate-Governance, Studiengebühren sowie potenzielle Zulassungsbeschränkungen und die wissenschaftliche Integrität.

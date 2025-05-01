@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/03/informationsveranstaltung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Über 600 Mitarbeitende sind der Einladung der Schulleitung gefolgt und konnten persönlich an der Informationsveranstaltung auf dem Hönggerberg oder in einem der Übertragungshörsäle teilnehmen. Diejenigen, die leider so kurzfristig nicht dabei sein konnten, haben nun die Möglichkeit sich eine geschützte Seite Videoaufzeichnung der Veranstaltung lock (passwortgeschützt) anzuschauen.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/07/menschen-tiere-und-pflanzen--alle-sollen-sich-wohl-fuehlen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wenn man Jörg Brenn gegenüber das Wort «Rasenmäher» erwähnt, leuchten seine Augen auf. Den Motor anschmeissen, den richtigen Gang einlegen und dann einfach losmähen – «das ist das Schönste an meiner Arbeit». Zweimal im Jahr schiebt Brenn seinen Elektromäher über die ausgedehnten Wiesen und Grünflächen auf dem Campus Hönggerberg.

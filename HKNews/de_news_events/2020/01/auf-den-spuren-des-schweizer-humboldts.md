@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/01/auf-den-spuren-des-schweizer-humboldts.html
 
-**Date processed:** 2025-05-01
-
 ## Deutsch pauken in Buenos Aires
 
 Am Arbeitsplatz von Tomás Bartoletti wird offensichtlich, dass man es weder mit einem Ingenieur noch einem klassischen Geisteswissenschaftler zu tun hat: Gegenüber seines Arbeitstisches mit Laptop und zwei grossen Flachbildschirmen steht ein Regal mit Büchern zur Geschichte der Indigenen in Lateinamerika, zur Kolonialisierung Afrikas, zu Museen und ihren Sammlungen und Schweizer Jägern in Graubünden. Schriften in Englisch, Französisch, Spanisch, Portugiesisch und Deutsch.

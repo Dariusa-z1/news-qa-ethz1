@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/09/blog-wir-muessen-uns-den-ethischen-herausforderungen-des-bioengineering-stellen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Endlich ist die Gentherapie bereit für die Behandlung menschlicher Krankheiten: Für so unterschiedliche Krankheiten wie erbliche Erblindung, spinale Muskelatrophie bei Kindern und einige Arten von Blutkrebs gibt es inzwischen zugelassene gentherapeutische Behandlungen. In der Regel kompensieren diese Therapien Defekte in einem einzelnen Gen, indem sie den Patienten das richtig funktionierende Gen mit Hilfe von Viren oder Zellen, die als Vehikel dienen, zuführen.

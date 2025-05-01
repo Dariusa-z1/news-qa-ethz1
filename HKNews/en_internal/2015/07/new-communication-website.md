@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/07/new-communication-website.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 What can you find on the new website?

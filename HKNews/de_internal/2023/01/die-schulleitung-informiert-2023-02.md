@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/01/die-schulleitung-informiert-2023-02.html
 
-**Date processed:** 2025-05-01
-
 ## E-Mail-Services zukünftig in der Cloud
 
 Die Schulleitung hat daher entschieden, zukünftig «Exchange Online» von Microsoft zu nutzen. Daten aus E-Mails, Kalendern, Kontaktlisten etc. werden somit zukünftig auf der Microsoft Cloud-Infrastruktur in der Schweiz gespeichert und verarbeitet. Diese Migration bringt einige Vorteile:

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/05/ki-hilft-uns-mehr-und-komplexere-fakten-zu-erfassen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Joachim Buhmann, warum sind Sie Wissenschaftler geworden? Buhmann: Es gibt eine grossartige Antwort von Luc Ferry, einem französischen Philosophen und ehemaligen Bildungsminister. Es geht dabei um die Frage, warum Menschen nach ihrem Tod etwas hinterlassen wollen. Dies kann dadurch erreicht werden, dass wir Nachkommen zeugen und grossziehen oder als Lehrpersonen andere ausbilden und inspirieren. Das grösste Vermächtnis hinterlassen laut Ferry jedoch die Wissenschaftlerinnen und Wissenschaftler, da sie durch ihren Erkenntnisgewinn einen dauerhaften Beitrag für die Menschheit als Ganzes leisten. Ob ich damit erfolgreich war oder nicht, das sollen andere beurteilen. Ich glaube aber, dass ich als Wissenschaftler zumindest versucht habe, wichtige Fragen zu beantworten und neue Erkenntnisse zu gewinnen, und einige meiner Doktorierenden haben sicherlich neues Wissen mitgenommen, das sie dann weiterentwickelt haben.

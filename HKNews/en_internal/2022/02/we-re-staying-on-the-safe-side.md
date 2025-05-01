@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/02/we-re-staying-on-the-safe-side.html
 
-**Date processed:** 2025-05-01
-
 ## Continuing caution
 
 With the Federal Council now lifting all coronavirus measures (with the exception of self-quarantine and the requirement to continue to wear masks on public transport and in healthcare settings), ETH Zurich is returning to largely unrestricted operations effective immediately. “We are staying on the safe side for the first few weeks, however,” says Vice President Ueli Weidmann, head of the Crisis Management team, in reference to the new measures that go into effect at the beginning of the semester.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/12/mit-schallwellen-durchs-gehirn.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Eine in den vergangenen Jahren an der ETH Zürich entwickelte Technologie zur Steuerung von Mikrovehikeln mit Ultraschall funktioniert auch im Gehirn, wie Forschende nun zeigen konnten.

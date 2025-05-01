@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/06/new-class-of-mars-quakes-reveals-daily-meteorite-strikes.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • For the first time, researchers use seismic data to estimate a global meteorite impact rate showing meteoroids the size of a basketball impact Mars on a near daily basis.

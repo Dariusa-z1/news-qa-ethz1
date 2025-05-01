@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/08/eth-zurich-is-preparing-for-potential-energy-shortages.html
 
-**Date processed:** 2025-05-01
-
 ## Focus on risks to teaching and research
 
 The measures address possible gas shortages as well as various scenarios involving electricity shortages:

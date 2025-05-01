@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/09/eth-link-with-additional-departure-times.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 This is the shuttle bus that links ETH’s two main sites in Zurich.

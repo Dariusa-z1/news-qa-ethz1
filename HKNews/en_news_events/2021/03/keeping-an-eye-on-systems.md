@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/03/keeping-an-eye-on-systems.html
 
-**Date processed:** 2025-05-01
-
 ## Urban systems: increase resilience
 
 By trade, Božidar Stojadinović is an expert in earthquake-proof construction. Now a Professor of Structural Dynamics and Earthquake Engineering, he specialises in urban systems and how to make them more resilient to earthquakes. “Systems engineering has become increasingly important in resilience research,” he says. His combination of skills made him an obvious choice to head up a research cluster in the Future Resilient Systems programme in Singapore – even though earthquakes are one of the few topics not on the agenda. Instead, the goal is to understand the resilience of high-density urban systems – of which Singapore is a good example – and to strengthen them in preparation for future challenges. The key challenges confronting Singapore are climate change and land scarcity. Responding to this will require long-term planning and timely changes to urban infrastructure.

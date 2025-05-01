@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/11/schlaue-koepfe-findige-ideen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 • Jakob Ackeret, the man who gave the Mach number a name

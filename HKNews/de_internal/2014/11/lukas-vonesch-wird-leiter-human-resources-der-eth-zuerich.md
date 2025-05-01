@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/11/lukas-vonesch-wird-leiter-human-resources-der-eth-zuerich.html
 
-**Date processed:** 2025-05-01
-
 ## Vorfreude auf offenen Austausch
 
 Lukas Vonesch (51) schloss an der Universität Bern in Psychologie mit Vertiefung Arbeits- & Organisationspsychologie ab. Während mehrerer Jahre war er in Forschungs- und Praxisprojekten tätig. Er bringt Erfahrungen aus der internationalen HR-Beratung mit und war bei der Schweizerischen Post in der konzernweiten Personalentwicklung tätig. Seit 2001 hatte er im Bereich Human Resources der Credit Suisse verschiedene Leitungsfunktionen mit schweizweiter Verantwortung inne. Unter anderem als Verantwortlicher Nachwuchsrekrutierung und -entwicklung, wo er zuständig war für die Zusammenarbeit mit Hochschulen in der Schweiz und international, die Entwicklungsprogramme für Berufseinsteiger sowie die Berufsbildung im kaufmännischen Bereich und in der IT. Zuletzt war Lukas Vonesch unter anderem verantwortlich für die Beratung von Führungskräften und Mitarbeitenden in sensitiven und komplexen Personalthemen, die Begleitung von Restrukturierungsprojekten und davon betroffenen Mitarbeitenden sowie das betriebliche Gesundheitsmanagement.

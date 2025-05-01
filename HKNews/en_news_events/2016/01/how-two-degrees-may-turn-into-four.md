@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/01/how-two-degrees-may-turn-into-four.html
 
-**Date processed:** 2025-05-01
-
 ## First quantitative treatment
 
 At the recent COP21 climate conference in Paris, delegates reached an agreement that plans to limit global warming to “well below” two degrees Celsius. This stems from the fact that scientists and politicians now agree: the global average temperature must rise by no more than two degrees if we are to prevent serious, irreversible damage to humans and the environment.

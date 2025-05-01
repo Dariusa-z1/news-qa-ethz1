@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/05/die-eth-am-nationalen-klimatag.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Am 27. Mai findet der erste Nationale Klimatag statt. Die ETH Zürich ist mit spannenden Beiträgen dabei. So treten diverse Forschende in verschiedenen Themenblöcken zu Klimafakten, Ernährung und nachhaltigem Bauen und Wohnen auf – live vom Bundesplatz in Bern.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/06/rethinking-wastewater-management.html
 
-**Date processed:** 2025-05-01
-
 ## From waste to resource
 
 Out of sight, out of mind: we’ve been flushing away human waste ever since sewers were invented, using copious amounts of fresh water to expel it from our homes and cities as fast as the pipes can carry it. Modern urban water systems are widely regarded as one of the greatest achievements of the past century. They provide us with clean drinking water, channel our wastewater to treatment plants and divert rainwater away from built-up areas. “As a result, we enjoy dry and hygienic living conditions, two of the mainstays of public health in densely populated urban areas,” says Max Maurer, Professor of Urban Water Systems at ETH Zurich and Eawag, the Swiss Federal Institute of Aquatic Science and Technology, which is part of the ETH Domain.

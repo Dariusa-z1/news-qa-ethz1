@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/10/finding-your-way.html
 
-**Date processed:** 2025-05-01
-
 ## New signage
 
 The Hönggerberg campus is not only a centre for research and education, but various talks and guided tours that take place here also attract thousands of visitors every year. With the construction of new office and research buildings and two new student residences, it is becoming increasingly important that employees, students and visitors can find their way around quickly and easily. While members of ETH know the building codes such as HIT, HXE and HIL within a short period of time, guests who are just visiting for an event have a hard time finding their way around.

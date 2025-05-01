@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2023/04/eth-fundbuero-jetzt-auch-online.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 It’s annoying to lose something. Luckily, items found on ETH premises are usually handed in to the Lost and Found run by the Info + Service Centers (ISC) .

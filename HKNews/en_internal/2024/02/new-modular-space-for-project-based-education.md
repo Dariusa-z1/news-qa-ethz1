@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2024/02/new-modular-space-for-project-based-education.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 PBLabs is a strategic initiative of the Rectorate that supports lecturers who want to offer project-based education (PB stands for "Project Based"). The team has now developed a purpose-built teaching space in the RZ building at Clausiusstrasse 59, which serves as an experimental area for the design of future teaching spaces.

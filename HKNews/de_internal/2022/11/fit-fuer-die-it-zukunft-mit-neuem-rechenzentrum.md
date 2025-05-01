@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/11/fit-fuer-die-it-zukunft-mit-neuem-rechenzentrum.html
 
-**Date processed:** 2025-05-01
-
 ## Genügend Rechenkapazität bereitstellen
 
 Die Bauprofile für das neue Rechenzentrum sind gerade weithin sichtbar aufgestellt worden. Diese zeigen, wie bei Bauprojekten in der Schweiz üblich, Ort und Umfang des neuen Gebäudes an. Der Baustart erfolgt dann im Herbst 2023. Der Neubau wird sich als westlicher Abschluss des Campus Hönggerberg in die Gebäudegruppe der Energiezentrale (HEZ) einordnen, die als Heiz- und Kältezentrale für den Campus dient. Entworfen hat das neue Gebäude das Zürcher Architekturbüro Penzel Valier AG. Deren Gestaltung ist auf die bestehenden Gebäude abgestimmt und beachtet besonders die exponierte Lage im Übergang des Campus zum benachbarten Wohngebiet.

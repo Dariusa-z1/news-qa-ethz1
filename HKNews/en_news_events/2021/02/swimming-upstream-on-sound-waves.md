@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/02/swimming-upstream-on-sound-waves.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 At some point, microvehicles that are small enough to navigate our blood vessels will enable physicians to take biopsies, insert stents and deliver drugs with precision to sites that are difficult to reach, all from inside the body. Scientists around the world are currently researching and developing suitable microvehicles. In most cases, they are powered and controlled by acoustic and magnetic fields or using light. However, until now, propelling microvehicles against a fluid flow had proved to be a major challenge. This would be necessary for the micromachines to be able to navigate in blood vessels against the direction of blood flow. Researchers at ETH Zurich have now developed microvehicles that are manipulated by an external field and can swim against the flow.

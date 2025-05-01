@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/09/the-inspiring-view-from-the-car.html
 
-**Date processed:** 2025-05-01
-
 ## Combining theory and practice
 
 Architecture is often referred to as a mirror image of societal changes made tangible in steel and concrete. The cities and towns in which we live, the buildings and streets that surround us embody the social, cultural and political characteristics of the era in which they were built.

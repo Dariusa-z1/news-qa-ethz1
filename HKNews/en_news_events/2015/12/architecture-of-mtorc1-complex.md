@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/12/architecture-of-mtorc1-complex.html
 
-**Date processed:** 2025-05-01
-
 ## Organisation of mTORC1 elucidated
 
 About 25 years ago, Michael Hall discovered the protein “Target of Rapamycin” (TOR) in yeast. It is one of the most studied members of the protein kinase family, an important family of regulatory proteins that control many cellular processes. Later, a TOR kinase was also found in mammalian cells, where it is known as mTOR – the mammalian Target of Rapamycin.

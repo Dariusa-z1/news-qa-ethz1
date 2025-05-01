@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/05/zurich-has-met-ny.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Advertising pillar at the Grand Central Station, NY. (Photo: Simone Bucher van Ligten / ETH Zurich)

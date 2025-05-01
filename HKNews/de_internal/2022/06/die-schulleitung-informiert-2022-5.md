@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/06/die-schulleitung-informiert-2022-5.html
 
-**Date processed:** 2025-05-01
-
 ## Sozial- und Leadershipkompetenzen für ETH-Mitarbeitende
 
 Die Schulleitung hat an ihrer letzten Sitzung folgende sechs Sozial- und Leadershipkompetenzen, die vom Vizepräsidium für Personalentwicklung und Leadership mithilfe eines breiten Einbezugs der ETH-Community und in Abstimmung mit mehreren rETHink-Workstreams erarbeitet und formuliert worden waren, gutgeheissen:

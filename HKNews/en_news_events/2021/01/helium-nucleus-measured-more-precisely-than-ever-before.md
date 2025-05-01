@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/01/helium-nucleus-measured-more-precisely-than-ever-before.html
 
-**Date processed:** 2025-05-01
-
 ## Slow muons, complicated laser system
 
 After hydrogen, helium is the second most abundant element in the universe. Around one-fourth of the atomic nuclei that formed in the first few minutes after the Big Bang were helium nuclei. These consist of four building blocks: two protons and two neutrons. For fundamental physics, it is crucial to know the properties of the helium nucleus, among other things to understand the processes in other atomic nuclei that are heavier than helium. "The helium nucleus is a very fundamental nucleus", says Aldo Antognini, a physicist at PSI and ETH Zurich.

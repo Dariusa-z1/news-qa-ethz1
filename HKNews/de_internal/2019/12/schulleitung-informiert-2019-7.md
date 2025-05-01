@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/12/schulleitung-informiert-2019-7.html
 
-**Date processed:** 2025-05-01
-
 ## Neues Kompetenzzentrum für Rehabilitation
 
 Ab 1. Januar 2020 verfügt die ETH über ein neues Kompetenzzentrum: Forschung und Lehre im «Rehabilitation Engineering and Science Center» (RESC) haben zum Ziel, die gesundheitliche Rehabilitation und die Lebensqualität von Menschen mit körperlichen Einschränkungen zu verbessern. Dazu wird ein neues Lehrangebot mit einem Master-Studiengang aufgebaut, acht zusätzliche Professuren im Bereich der Rehabilitationswissenschaften geschaffen und die Öffentlichkeitsarbeit mit dem Cybathlon 2020 als nächstem Höhepunkt weiter intensiviert.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/06/mitarbeitendenbefragung-2021.html
 
-**Date processed:** 2025-05-01
-
 ## Stärken und Verbesserungspotentiale
 
 Die insgesamt positiven Ergebnisse sollten zunächst auf dem hohen Niveau gehalten oder weiter optimiert werden. Insbesondere die positiven Resultate in den folgenden Bereichen dürfen als Ergebnis vieler Verbesserungsmassnahmen der letzten Jahre gewertet werden:

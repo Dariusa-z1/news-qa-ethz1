@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/10/praesident-der-slowakei-besucht-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Cybathlon beeindruckt Kiska
 
 Hoher Gast an der ETH Zürich: Der slowakische Präsident Andrej Kiska besuchte gemeinsam mit seinem Gastgeber, dem Bundespräsidenten Johann N. Schneider-Ammann, den Campus Hönggerberg der ETH Zürich. Begleitet wurde der Präsident der Slowakei von Vertretern verschiedener Ministerien sowie einer rund 15-köpfigen Wissenschafts- und Wirtschaftsdelegation.

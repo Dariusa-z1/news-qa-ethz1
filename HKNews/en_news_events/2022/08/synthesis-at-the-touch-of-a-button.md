@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/08/synthesis-at-the-touch-of-a-button.html
 
-**Date processed:** 2025-05-01
-
 ## Does chemistry really have to be so complicated?
 
 It’s been a while since bouillon cubes were made in Kemptthal near Winterthur. The sprawling site of the former Maggi factory is now home to numerous start-up companies that – like Julius Maggi back then – want to conquer the world with their products.

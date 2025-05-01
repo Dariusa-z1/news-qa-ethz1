@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/05/schweizer-pavillon-in-venedig-oeffnet-mauer-zum-nachbarn.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH News: Was ist die Idee hinter «Neighbours»? Karin Sander : Mir ist aufgefallen, dass die beiden Pavillons, der Schweizer und der Venezolanische nicht nur Nachbarn sind, sondern auch ein Ensemble bilden. Bruno Giacometti, der Architekt des Schweizer Pavillons, setzte seinen Entwurf zuerst um, und Carlo Scarpa, der Architekt des venezolanischen Pavillons, reagierte wenige Jahre später darauf. Wir rücken diese unmittelbare Nachbarschaft in den Fokus und machen sie zum Exponat.

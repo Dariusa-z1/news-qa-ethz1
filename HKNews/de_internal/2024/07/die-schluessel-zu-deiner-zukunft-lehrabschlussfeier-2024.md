@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/07/die-schluessel-zu-deiner-zukunft-lehrabschlussfeier-2024.html
 
-**Date processed:** 2025-05-01
-
 ## Fachausbildung und Persönlichkeitsschulung zugleich
 
 «Mit eurem erfolgreichen Lehrabschluss haltet ihr einen Schlüssel in der Hand, der euch auf eurem Lebensweg ermöglicht, euer Potenzial zu entfalten.» Damit begrüsste Lukas Vonesch, Leiter HR Beratung, die 51 Lehrabsolvent:innen der ETH Zürich an der Lehrabschlussfeier 2024 im HCI-Gebäude auf dem ETH Campus Hönggerberg. Denn junge Menschen für die Arbeitswelt der Zukunft zu befähigen, sei der Leitgedanke und Anspruch der Berufsbildung der ETH.

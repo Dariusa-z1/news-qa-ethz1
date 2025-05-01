@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/03/asiatischer-genuss-nach-persoenlichem-geschmack.html
 
-**Date processed:** 2025-05-01
-
 ## Geachtet wird auf Ausgewogenheit
 
 Liebhaber der asiatischen Küche kommen auf dem Hönggerberg wieder auf ihre Kosten. In den neu gestalteten Räumlichkeiten von «Rice Up!» wird jeder Gast von einer oder einem Mitarbeitenden durch die Foodstation begleitet. Dabei wählt der Gast, was in seiner Bowl landet: Als Basis dient, gemäss dem Namen des Lokals, Reis in verschiedenen Varianten, ergänzt durch frischen Blattsalat. Nach Belieben kommen Fleisch oder Tofu, Gemüse, Sauce und Toppings dazu. Wer nicht lange überlegen möchte, entscheidet sich für eine der vier «Signature Bowls»: Rice Up!, Tofu Cashew, Beef oder Chicken Satay.

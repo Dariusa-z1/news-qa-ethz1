@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2017/05/intensive-german-for-doctoral-students.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The course will include the following two parts:

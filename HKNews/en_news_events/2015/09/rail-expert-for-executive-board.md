@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/09/rail-expert-for-executive-board.html
 
-**Date processed:** 2025-05-01
-
 ## Career continuity
 
 The first thing you see when you enter Ulrich Weidmann’s office on the Hönggerberg are the train models typical of a professor who deals with public transport. If you keep looking around, you will notice that most folders and document cases are green. “Green relaxes me and gives me a sense of serenity and well-being at work,” he explains to justify his colour choice.

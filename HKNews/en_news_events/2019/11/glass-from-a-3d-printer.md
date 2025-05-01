@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/11/glass-from-a-3d-printer.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Producing glass objects using 3D printing is not easy. Only a few groups of researchers around the world have attempted to produce glass using additive methods. Some have made objects by printing molten glass, but the disadvantage is that this requires extremely high temperatures and heat-resistant equipment. Others have used powdered ceramic particles that can be printed at room temperature and then sintered later to create glass; however, objects produced in this way are not very complex.

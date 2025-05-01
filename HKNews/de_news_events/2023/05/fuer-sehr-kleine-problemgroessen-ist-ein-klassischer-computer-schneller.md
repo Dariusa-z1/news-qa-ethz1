@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/05/fuer-sehr-kleine-problemgroessen-ist-ein-klassischer-computer-schneller.html
 
-**Date processed:** 2025-05-01
-
 ## Das Wichtigste in Kürze
 
 • Das grosse Versprechen von Quantencomputern ist, dass sie auf der Grundlage quantenmechanischer Prinzipien bestimmte Rechenprobleme wesentlich schneller lösen können als klassische Computer.

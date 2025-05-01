@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/03/tracing-a-digital-shadow.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Mr Buhmann, will computers soon have their own emotions?

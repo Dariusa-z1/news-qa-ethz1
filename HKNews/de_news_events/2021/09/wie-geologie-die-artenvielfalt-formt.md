@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/09/wie-geologie-die-artenvielfalt-formt.html
 
-**Date processed:** 2025-05-01
-
 ## Palmenvielfalt in Afrika viel kleiner
 
 Tropische Regenwälder sind die artenreichsten Lebensräume der Erde. Sie beherbergen eine riesige Zahl von verschiedenen Pflanzen, Tieren, Pilzen und weiterer Organismen. Diese Wälder liegen mehrheitlich auf drei Kontinenten, darunter das Amazonasbecken in Südamerika, das Kongo-Becken in Zentralafrika und das riesige Inselarchipel Südostasiens.

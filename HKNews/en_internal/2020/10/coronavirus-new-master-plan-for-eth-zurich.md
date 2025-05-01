@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/10/coronavirus-new-master-plan-for-eth-zurich.html
 
-**Date processed:** 2025-05-01
-
 ## Some teaching activity can be on site
 
 Most teaching will be online, except for courses which require the use of infrastructure on site. Wearing face masks will now be compulsory across the entire campus. The number of participants in events is also limited to 50 people. These are the most important new measures contained in the master plan approved by the Executive Board, which comes into force on Monday 2 November. The tighter restrictions are in response to the new measures introduced by the Federal Council last Wednesday.

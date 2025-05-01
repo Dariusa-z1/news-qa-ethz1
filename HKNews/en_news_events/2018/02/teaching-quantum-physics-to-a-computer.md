@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/02/teaching-quantum-physics-to-a-computer.html
 
-**Date processed:** 2025-05-01
-
 ## Quantum physics and handwriting
 
 Physics students spend many years learning to master the often counterintuitive laws and effects of quantum mechanics. For instance, the quantum state of a physical system may be undetermined until a measurement is made, and a measurement on one part of the system can influence the state of a distant part without any exchange of information. It is enough to make the mind boggle. Once the students graduate and start doing research, the problems continue: to exactly determine the state of some quantum system in an experiment, one has to carefully prepare it and make lots of measurements, over and over again.

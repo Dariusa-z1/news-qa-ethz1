@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/01/beim-sport-fuers-leben-lernen.html
 
-**Date processed:** 2025-05-01
-
 ## Sport – die beste Schule des Lebens
 
 «Bewegung ist nicht nur für den Körper, sondern auch für den Geist und die Seele wichtig», sagt Dominique Gisin, ehemalige Skirennfahrerin und Olympiasiegerin in der Abfahrt. Gisin studiert heute Physik an der ETH Zürich und nahm Anfang dieser Woche an einer Podiumsdiskussion im Rahmen der ETH-Veranstaltung «Sports for Development» teil. Sie diskutierte darüber, wie Sport die individuelle Entwicklung eines Menschen prägt und dabei hilft, die Gesellschaft als Ganzes weiterzubringen. Ebenfalls auf dem Podium war Adolf Ogi, Alt-Bundesrat und ehemaliger Berater des UNO-Generalsekretärs für Sport im Dienst von Entwicklung und Frieden. Für ihn ist klar, dass der Sport eine der besten Lebensschulen ist: «Im Sport lernt man zu gewinnen, ohne zu denken, dass man der Beste ist, und im Sport lernt man zu verlieren, ohne zu denken, dass dies das Ende ist.»

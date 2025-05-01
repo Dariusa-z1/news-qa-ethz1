@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/06/news-from-the-executive-board-2022-5.html
 
-**Date processed:** 2025-05-01
-
 ## Social and leadership skills for ETH employees
 
 In its last meeting, the Executive Board endorsed six social and leadership skills, developed and formulated by the Vice Presidency for Personnel Development and Leadership with the help of the ETH community and in coordination with several rETHink workstreams:

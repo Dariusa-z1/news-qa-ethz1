@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/01/eth-forum-wohnungsbau-2015-dichte-die-stadt-als-lebensraum.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Referentinnen und Referenten 2015

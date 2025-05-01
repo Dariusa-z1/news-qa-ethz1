@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/01/eth-at-the-wef.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 As the squadron of helicopters accompanying the US president roars across the sky, black limousines stand bumper to bumper in the street below and, in the style of Greta Thunberg, a young woman protests against current climate policy on the pavement nearby. The Annual Meeting of the World Economic Forum (WEF) in Davos brings together a series of contrasts within a confined space and creates a bustling confusion in the highest town in Europe.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/08/more-respect-for-people-who-think-differently.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Open a newspaper, visit a website or switch on the TV, and it’s easy to feel that society is more polarised than ever. Is that true? Nadia Mazouz: To start with, I think we need to distinguish between two types of polarisation. Affective polarisation is where individuals or groups show a high level of antipathy towards the members of opposing groups, even to the extent of revelling in their misfortune. Social media has made this form of polarisation not only more visible, but also more common – that’s the prevailing view among sociologists as I understand it.

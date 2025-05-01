@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/10/blog-siegwart-mooresches-gesetz.html
 
-**Date processed:** 2025-05-01
-
 ## Reale Welt hat andere Gesetzmässigkeiten
 
 Kürzlich war ich am Swiss Startup Day und sah dort einen Videovortrag von Peter Diamandis. Der charismatische Amerikaner begründete die X-Prize-Stiftung, welche Preise für radikale technische und wissenschaftliche Entwicklungen ausschreibt. Mit blumigen Worten erklärte uns Diamandis im Vortrag die «Disruptivität der Innovation», die dadurch ermöglicht wird, dass sich die Rechenleistung von Computern und die Menge der verfügbaren Daten exponentiell entwickeln. Diamandis erklärte das schon hinreichend bekannte mooresche Gesetz, das aufzeigt, dass sich die Rechenleistung pro Mikrochip-Fläche seit 1971 etwa alle 18 Monate verdoppelt.

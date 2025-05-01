@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/11/ausgezeichnete-krebsforscherin.html
 
-**Date processed:** 2025-05-01
-
 ## Wertschätzung für Person und Fachgebiet
 
 Der Ruzicka-Preis geht 2014 an Cristina Müller. Sie ist Forschungsgruppenleiterin am Zentrum für Radiopharmazeutische Wissenschaften von ETH Zürich, Paul-Scherrer-Institut (PSI) und Universitätsspital Zürich. Seitdem sie vor bald 15 Jahren als ETH-Pharmaziestudentin während ihrer Diplomarbeit erstmals mit der radiopharmazeutischen Diagnostik und Therapie von Krebs in Verbindung gekommen ist, forscht sie auf diesem Gebiet.

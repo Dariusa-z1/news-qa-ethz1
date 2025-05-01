@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/12/eth-podcast-reihe-zum-thema-unsicherheit.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Das vergangene Jahr war seltsam und anstrengend. Geduld und Ausdauer brauchen wir alle auf vielen Ebenen. Die Corona-Virus-Pandemie hat nicht nur die Art und Weise verändert, wie wir miteinander umgehen, arbeiten und studieren, sie hat auch in vielerlei Hinsicht Unsicherheit hervorgebracht.

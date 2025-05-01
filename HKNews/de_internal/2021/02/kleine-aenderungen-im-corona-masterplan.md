@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/02/kleine-aenderungen-im-corona-masterplan.html
 
-**Date processed:** 2025-05-01
-
 ## Neuer Masterplan mit kleinen Änderungen
 
 Das Frühlingssemester ist am Montag gestartet – im Online-Modus. Die ETH-Mitarbeitenden sind in der grossen Mehrheit im Homeoffice, praktisch alle Gebäude sind geschlossen. Nicht wenige ETH-Angehörige kämpfen mit der Motivation. «Leider haben wir noch ein paar Wochen vor uns, in denen unser Durchhaltewillen gefordert ist», kommentiert Ueli Weidmann, Leiter der ETH-Covid-Taskforce, die aktuelle Situation.

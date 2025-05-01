@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/10/this-bottle-makes-sparkling-water-on-the-go.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Like many other people, former ETH students Christian Käser and Linus Lingg love to drink sparkling water. There are dozens of convenient and well-designed reusable bottles for transporting tap water. But when it comes to sparkling water, there are only the conventional systems for home use. Both inventors agreed that it ought to be feasible to design a portable system. They quickly found their first investors after appearing on the German version of the TV show Die Höhle der Löwen Schweiz . This is no wonder, as their product has obvious benefits: it’s sustainable, practical and fills a gap in the market. But it’s a long way from idea to market, as they explain in this interview.

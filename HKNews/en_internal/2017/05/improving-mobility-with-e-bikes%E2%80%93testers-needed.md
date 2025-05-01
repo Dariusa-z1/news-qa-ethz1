@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2017/05/improving-mobility-with-e-bikes%E2%80%93testers-needed.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 To reduce its carbon footprint and energy consumption, ETH Zurich promotes sustainable mobility for its employees. This involves both ETH-internal measures as well as partner projects. The Mobility Platform is the hub for mobility-related questions at ETH Zurich.

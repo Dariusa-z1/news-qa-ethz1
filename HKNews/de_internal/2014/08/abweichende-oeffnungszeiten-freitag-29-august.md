@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/08/abweichende-oeffnungszeiten-freitag-29-august.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Geschlossen sind:

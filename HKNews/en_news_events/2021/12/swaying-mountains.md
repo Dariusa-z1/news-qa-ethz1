@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/12/swaying-mountains.html
 
-**Date processed:** 2025-05-01
-
 ## High alpine measuring devices
 
 The Matterhorn appears as an immovable, massive mountain that has towered over the landscape near Zermatt for thousands of years. A study just published in the journal “Earth and Planetary Science Letters” (https://doi.org/10.1016/j.epsl.2021.117295) now shows that this impression is wrong. An international research team has proven that the Matterhorn is instead constantly in motion, swaying gently back and forth about once every two seconds. This subtle vibration with normally imperceptible amplitudes is stimulated by seismic energy in the Earth originating from the world’s oceans, earthquakes, as well as human activity.

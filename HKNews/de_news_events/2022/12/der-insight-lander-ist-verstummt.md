@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/12/der-insight-lander-ist-verstummt.html
 
-**Date processed:** 2025-05-01
-
 ## «Grosses Abenteuer für uns»
 
 Ganz gibt die amerikanische Raumfahrtbehörde noch nicht auf: Sie wird weiterhin auf ein Signal der Sonde warten. Allerdings ist es unwahrscheinlich, dass sie sich noch einmal melden wird. Das letzte Mal, dass der Insight-Lander mit der Erde kommuniziert hat, war am 15. Dezember 2022.

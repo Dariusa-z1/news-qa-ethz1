@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/11/eth-zuerich-offiziell-akkreditiert.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Joël Mesot sagt: «Der Bericht der Gutachtergruppe bietet eine sehr scharfe Analyse. Sie zeigt, dass die Qualitätssicherung an der ETH ein gelebtes Gut ist, das wir erhalten, festigen und verfeinern wollen». Ausgehend von ihrem Bericht haben die Gutachter auch Empfehlungen an die ETH formuliert. Sie betreffen zusammengefasst die folgenden Anliegen:

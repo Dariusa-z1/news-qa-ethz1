@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/03/science-responds-to-industry.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH News: What’s the reasoning behind the particular format that the Energy Science Center has chosen for the symposium? Christian Schaffner: We want to offer industry representatives an opportunity to present their perspectives on the energy sector. We are convinced that industry will play a key role when it comes to managing global energy supply challenges. Industry is the third main actor in the segment, along with research and the government. ETH hosts a lot of events by and for scientists. Our symposium is intended as a supplement to that programme; an event where companies provide the content, establishing a dialogue with science.

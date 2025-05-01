@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/02/warum-china-die-usa-militaertechnisch-nicht-allzu-bald-einholen-wird.html
 
-**Date processed:** 2025-05-01
-
 ## Komplexe Produktion erschwert Cyberspionage
 
 Könnten Konkurrenten der Vereinigten Staaten deren hoch entwickelte Waffensysteme leicht nachahmen und damit ihre militärisch-technologische Überlegenheit untergraben? Diese Frage haben Andrea Gilli vom Nato Defense College und Mauro Gilli vom Center for Security Studies der ETH Zürich untersucht und kürzlich im Wissenschaftsjournal International Security veröffentlicht.

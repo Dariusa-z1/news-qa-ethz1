@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/05/trust-in-a-digitalized-world.html
 
-**Date processed:** 2025-05-01
-
 ## Building trust on the Blockchain
 
 Just two decades ago, carrying a mini-computer around in our pockets would have seemed like a thing of science fiction. Today, the term “smartphone” is part of our vernacular and each time we ask a search engine a question, we are engaging artificial intelligence. It is inevitable that technology will continue to change our way of life, but what will it mean for industry, for academia, and, more importantly, how will the digital transformation continue to affect humanity? ETH Zurich researchers and alumni now working in high-tech industries or running their own companies met with other experts in New York City this week to talk about the disruptive technology of Blockchain and how machine learning brings both collaboration and consequences. Bringing together diverse perspectives, the ETH Meets New York symposia revealed the fascinating potential of these technologies as well as the ethical questions society faces as it adopts new tech into everyday use. Universities play a key role, not only in advancing technology, but also in educating future practitioners to consider the human element and impact.

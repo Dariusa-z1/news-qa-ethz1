@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/01/eth-zuerich-staerkt-forschung-in-den-datenwissenschaften.html
 
-**Date processed:** 2025-05-01
-
 ## Wie Daten zu Erkenntnis werden
 
 Wer heute mit dem Smartphone fotografiert, erhält automatisch ganze Fotoalben mit Titel, Datum, Reisekarte und Standortbezeichnungen digital zusammengestellt. Ohne eigenes Zutun. Die Resultate sind erstaunlich gut, jedenfalls so, dass ein Betrachter nicht einfach beurteilen kann, wer das Album erstellt hat: ein Mensch oder eine Maschine?

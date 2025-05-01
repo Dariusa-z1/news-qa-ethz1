@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/10/neuer-eth-praesident.html
 
-**Date processed:** 2025-05-01
-
 ## Profunde Erfahrung als Wissenschaftler und Institutsdirektor
 
 Mit Joël Mesot ist ein angesehener Wissenschaftler für dieses wichtige Amt gewonnen worden, der zudem «seine Fähigkeiten in der Führung von Wissenschafts- und Forschungsinstitutionen modernster Prägung eindrücklich unter Beweis gestellt» habe, schreibt der Bundesrat in seiner Medieninformation.

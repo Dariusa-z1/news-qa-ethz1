@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/07/mischkulturen-gegen-monotonie.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Schweiz hat 1994 die Biodiversitätskonvention von Rio ratifiziert und sich damit zum Schutz der Artenvielfalt verpflichtet 1 . Aber nicht nur deshalb befürworte ich, dass unsere Landwirtschaft vielfältiger werden muss. Seit Inkrafttreten der Konvention 1995 hat die Forschung der biologischen Vielfalt einen erstaunlich vielfältigen Nutzen nachgewiesen 2,3 . Gerade in Pflanzengemeinschaften produzieren Mischungen von Sorten oder Arten in der Regel mehr Biomasse als Monokulturen, und die Biomasseerträge schwanken auch weniger über die Zeit.

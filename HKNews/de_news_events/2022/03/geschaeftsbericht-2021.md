@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/03/geschaeftsbericht-2021.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die ETH Zürich hat sich vor dem Hintergrund der erwähnten – sowie weiterer – Herausforderungen im Berichtsjahr gut entwickelt. Die Lehre hat wichtige Neuerungen erfahren mit einem Raster zur ganzheitlichen Kompetenzvermittlung, dem Projektstart zur Stärkung der Computational Competencies in allen Studiengängen sowie einer Regelung, die u.a. eine Zweifachbetreuung von Doktorierenden sicherstellt. Neue Impulse sind zudem von einem neuen Doktoratsprogramm in «Learning Sciences» zu erwarten, das die ETH und die EPFL gemeinsam betreiben.

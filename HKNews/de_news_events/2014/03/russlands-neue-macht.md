@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/03/russlands-neue-macht.html
 
-**Date processed:** 2025-05-01
-
 ## Russlands imperiales Gebaren
 
 Bürgerkrieg in Syrien, neue Regierungen in Nordafrika, Russlands Einmarsch in die Ukraine, das Erstarken der afghanischen Taliban und die amerikanische Kriegsmüdigkeit – was hat das alles zu bedeuten? Genau dieser Frage gehen die Forscher des «Center for Security Studies» (CSS) in ihrem Bericht «Strategic Trends» nach. Zum fünften Mal analysieren sie darin, was die politischen Ereignisse der jüngsten Vergangenheit für die nahe Zukunft bedeuten könnten.

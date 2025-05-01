@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/01/continents-set-the-pace.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The seafloor opens up on the mid-ocean ridges (MOR), which stretch through the world’s oceans for 10,000 kilometres. Here, hot magma material transported by the convection of the earth’s mantle reaches the surface and creates new oceanic crust. How these processes were triggered in Earth’s early history, however, is the subject of ongoing debate. Researchers from ETH Zurich and the University of Lyon have now reignited the discussion with new computer simulations.

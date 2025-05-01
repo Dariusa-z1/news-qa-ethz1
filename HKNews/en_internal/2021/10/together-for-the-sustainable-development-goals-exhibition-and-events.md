@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/10/together-for-the-sustainable-development-goals-exhibition-and-events.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 How can we fight global poverty and inequality, protect the planet and ensure that by 2030 all people enjoy peace and prosperity? What contribution can science and technology make?

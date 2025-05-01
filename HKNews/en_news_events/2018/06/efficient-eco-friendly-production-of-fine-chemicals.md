@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/06/efficient-eco-friendly-production-of-fine-chemicals.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 “What makes the catalyst so efficient is that the palladium atom can move within the cavity to adapt to the process requirements while remaining trapped inside,” explains ETH Professor Javier Pérez-Ramírez. The palladium atom is shown in green. (Visualisations: ETH Zurich / Edvin Fako)

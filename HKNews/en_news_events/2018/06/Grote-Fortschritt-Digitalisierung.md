@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/06/Grote-Fortschritt-Digitalisierung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 We’re on the brink of several fundamental technological breakthroughs. Autonomous driving, fully automated manufacturing, and home care delivered by robots are no longer the stuff of sci-fi movies. The most striking and controversial innovations concern robotics, artificial intelligence, and machine learning: these areas will require us to interact with technical systems that truly live a life of their own.

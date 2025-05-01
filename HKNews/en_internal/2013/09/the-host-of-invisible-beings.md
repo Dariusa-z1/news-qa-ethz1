@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2013/09/the-host-of-invisible-beings.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Margrit Leuthold

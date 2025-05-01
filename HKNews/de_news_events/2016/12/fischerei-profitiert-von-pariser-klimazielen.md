@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/12/fischerei-profitiert-von-pariser-klimazielen.html
 
-**Date processed:** 2025-05-01
-
 ## Unter zwei Grad hilft der Fischerei
 
 Vor einem Jahr hat sich die Staatengemeinschaft in Paris darauf geeignet, ihr Möglichstes zu unternehmen, um die globale Erwärmung auf deutlich unter zwei Grad Celsius gegenüber der vorindustriellen Zeit zu begrenzen. Im Idealfall soll die Durchschnittstemperatur weltweit nicht mehr als um 1,5 Grad steigen. Es ist jedoch schwierig, sich den Nutzen vor Augen zu führen, den die Menschheit davon hätte, wenn sie dieses Ziel erreichen oder gar unterschreiten würde.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/10/ein-kleines-haus-wirft-grosse-fragen-auf.html
 
-**Date processed:** 2025-05-01
-
 ## Eine Infrastruktur wie ein natürliches Ökosystem
 
 Bereits die äussere Erscheinung der kleinen, prismaförmigen Hütte im neu eröffneten Student Project House auf dem ETH-Campus Zentrum vermag Betracherinnen und Betrachter neugierig zu machen. Sie ist mit LED-Lichtern geschmückt, mit einem Solarpanel verbunden und hat im Inneren bequeme Sitze zum Meditieren. Die visionäre Idee, die der Holzkonstruktion zugrundeliegt, lässt sich auf den ersten Blick jedoch kaum erahnen. «Die Vision ist mächtig», ist Hongyang Wang überzeugt. «Sie berührt alle Bereiche der Gesellschaft und stellt viele unserer grundlegenden Vorstellungen auf den Kopf» sagt Wang, die schon als Masterstudentin an diesem Projekt arbeitete. Aktuell ist sie Doktorandin an der Professur für innovatives und industrielles Bauen, die sich unter anderem mit neuen Technologien, Governance-Strategien und Organisationsmodellen für Bauprozesse befasst.

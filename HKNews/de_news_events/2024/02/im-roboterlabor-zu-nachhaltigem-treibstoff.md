@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/02/im-roboterlabor-zu-nachhaltigem-treibstoff.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Dank einer neuen automatisierten Forschungsinfrastruktur können Chemiker:innen an der ETH Zürich Katalysatoren schneller entwickeln. Künstliche Intelligenz hilft ihnen dabei.

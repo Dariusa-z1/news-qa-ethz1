@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/08/binding-sites-for-protein-making-machinery.html
 
-**Date processed:** 2025-05-01
-
 ## Precise control over protein production
 
 Genome sequencing of bacteria, plants and even humans has become a routine process, yet the genome still poses many unanswered questions. One of these concerns the sites on messenger RNAs (mRNAs) that ribosomes – the cellular structures responsible for protein synthesis – bind to in order to translate genetic information. Currently, the function of these ribosome binding sites is only partly understood.

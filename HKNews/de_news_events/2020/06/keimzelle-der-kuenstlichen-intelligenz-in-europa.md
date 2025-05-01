@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/06/keimzelle-der-kuenstlichen-intelligenz-in-europa.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Thmoas Hofmann.

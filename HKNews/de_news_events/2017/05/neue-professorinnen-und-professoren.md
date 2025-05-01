@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/05/neue-professorinnen-und-professoren.html
 
-**Date processed:** 2025-05-01
-
 ## Ernennungen
 
 An seiner Sitzung vom 17. Mai. 2017 hat der ETH-Rat auf Antrag des Präsidenten der ETH Zürich, Lino Guzzella, 15 Personen zur Professorin, respektive zum Professor ernannt und den Rücktritt von einem Professor mit Verdankung zur Kenntnis genommen.

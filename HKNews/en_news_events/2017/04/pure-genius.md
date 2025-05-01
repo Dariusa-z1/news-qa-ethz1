@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/04/pure-genius.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 “This mechanism is so clever it should be patented,” Cornelius Senn thought to himself on numerous occasions. The measurement and electrical engineer in the Department of Civil, Environmental and Geomatic Engineering (D-BAUG) is a frequent inventor and builder of devices that make life easier for researchers in the department. And this time it’s probably not just idle chatter.

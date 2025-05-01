@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/09/eth-zuerich-belegt-auf-der-neuesten-weltrangliste-wieder-platz-elf.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Sie zählt zu den besten Hochschulen der Welt: Im Times Higher Education World University Ranking für 2024 erreicht die ETH Zürich mit Platz elf erneut eine Spitzenposition unter den 1'904 bewerteten Universitäten. Dabei konnte sie nicht nur ihre Position das zweite Jahr in Folge behaupten, sondern auch ihre Gesamtpunktzahl um fast vier Punkte auf 93,1 steigern. Im Einzelnen hat sich die Punktzahl in den Kategorien Lehre, Forschung, Zitationen und Industrie erhöht und bei der Internationalität nur leicht verringert. Bei der neu aufgenommenen Bewertung des Forschungsumfelds gehört die ETH Zürich zu den weltbesten zehn Hochschulen.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/11/prozessinnovationen-in-schweizer-firmen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Konjunkturforschungsstelle (KOF) der ETH Zürich führt seit den 1990er-Jahren bei rund 6000 Schweizer Unternehmen regelmässig Innovationsumfragen durch. Im Zentrum dieser Studie steht, wie Firmen den Zugang zu externem Wissen und moderne Informations- und Kommunikationstechnologien (IKT) nutzen – denn diese Faktoren unterstützen die Innovation von Prozessen, um Produktionskosten zu senken. Im Interview mit ETH-News erklären Georg von Krogh, Professor für Strategisches Management und Innovation und Autor der Studie, sowie Co-Autor Martin Wörter, Leiter der Sektion Innovationsökonomik der KOF, wie gut Schweizer Firmen bei den Prozessinnovationen wirklich sind.

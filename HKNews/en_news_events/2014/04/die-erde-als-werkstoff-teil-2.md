@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/04/die-erde-als-werkstoff-teil-2.html
 
-**Date processed:** 2025-05-01
-
 ## SRDU – Sustainable Rural Dwelling Unit
 
 In meinem letzten Beitrag ( Teil 1 ) berichtete ich von der Lehmhaus-Konstruktion SUDU sowie von den (gesetzlichen) Hürden, die derzeit eine Verbreitung in der Stadt noch verhindern. Weitaus einfacher war der Transfer der Techniken aufs Land.

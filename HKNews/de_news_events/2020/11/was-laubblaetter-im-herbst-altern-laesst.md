@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/11/was-laubblaetter-im-herbst-altern-laesst.html
 
-**Date processed:** 2025-05-01
-
 ## Limitierte Senken als Seneszenztreiber
 
 An seinem Lebensende leuchtet das Laub in prächtigen gelb-roten Farben: Es ist Herbst. Laubbäume in den gemässigten Zonen bereiten sich auf den nahenden Winter vor. Sie stellen das Wachstum ein und entziehen dem Laub die Nährstoffe. Die Blätter fallen allmählich ab und sterben. Dieser Alterungsprozess der Blätter wird Seneszenz genannt. Er markiert im phänologischen Zyklus der Bäume das Ende der Vegetationsperiode, in der sie CO 2 aufnehmen und Photosynthese betreiben.

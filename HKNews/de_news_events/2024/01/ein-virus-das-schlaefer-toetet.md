@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/01/ein-virus-das-schlaefer-toetet.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Aus verrottendem Pflanzenmaterial haben Forschende erstmals einen Bakteriophagen isoliert, der Bakterien im Ruhezustand angreifen und abtöten kann.

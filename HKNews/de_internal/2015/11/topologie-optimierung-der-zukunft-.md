@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/11/topologie-optimierung-der-zukunft-.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Topologie-Optimierung ist ein Rechenverfahren zur Bestimmung von optimalen Materialverteilungen, das in mechanischen Strukturen, in Flüssigkeiten, im Bereich Nano-Optik sowie in zahlreichen weiteren ingenieurwissenschaftlichen Disziplinen zum Einsatz kommt.

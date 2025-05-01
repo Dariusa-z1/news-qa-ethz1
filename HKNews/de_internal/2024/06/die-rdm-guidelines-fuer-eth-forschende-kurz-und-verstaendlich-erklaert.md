@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/06/die-rdm-guidelines-fuer-eth-forschende-kurz-und-verstaendlich-erklaert.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Kurzvideos fürs einfache Verständnis Damit Sie sich schnell einen Überblick über die Richtlinien verschaffen können, hat die ETH-Bibliothek mehrere einminütige Videos erstellt. Sie fassen die wichtigsten Aspekte der Richtlinien kurz und knapp zusammen. Im externe Seite ersten Video call_made erhalten Sie einen Überblick über die Richtlinien. In fünf weiteren Kurzvideos stellen wir Ihnen die folgenden Themen vor, die für die «RDM Guidelines» zentral sind:

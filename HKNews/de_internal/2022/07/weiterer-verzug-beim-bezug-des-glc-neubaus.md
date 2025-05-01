@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/07/weiterer-verzug-beim-bezug-des-glc-neubaus.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Ein zentraler Bestandteil der ausstehenden Arbeiten betrifft das Überprüfen des komplexen Zusammenspiels von Gebäude- und Labortechnik auf den rund 12'000 Quadratmetern grossen Labor-, Büro- und Seminarflächen. «Um einen reibungslosen Betrieb in dem Neubau zu gewährleisten, ist es enorm wichtig, die Technik vor dem Einzug der Forschungsgruppen sorgfältig zu prüfen sowie das Zusammenspiel auf Herz und Nieren zu testen», sagt Daniel Bucheli, Direktor der Abteilung Immobilien, «dennoch sind wir bestrebt, das Gebäude schnellstmöglich für Lehre und Forschung zur Verfügung zu stellen. Die durch den Verzug entstandenen Unannehmlichkeiten bedauern wir sehr.»

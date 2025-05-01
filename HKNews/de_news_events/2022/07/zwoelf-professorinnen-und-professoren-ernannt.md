@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/07/zwoelf-professorinnen-und-professoren-ernannt.html
 
-**Date processed:** 2025-05-01
-
 ## Neuernennungen
 
 Dr. Manuela Irene Brunner (*1989), zurzeit Dozentin an der Universität Freiburg im Breisgau, Deutschland, zur Tenure-Track-Assistenzprofessorin für Hydrologie und Klimafolgen am Departement Umweltsystemwissenschaften. Manuela Irene Brunners Forschung konzentriert sich auf hydrologische Prozesse und Klimafolgen, insbesondere bei hydrologischen Extremen wie Dürren und Überschwemmungen. Sie arbeitet an der Schnittstelle verschiedener Disziplinen wie Klimawissenschaften, Hydrologie sowie Statistik und kombiniert Datenwissenschaft mit statistischer und hydrologischer Modellierung. Ihre Berufung erfolgt gemeinsam mit der Eidgenössischen Forschungsanstalt für Wald, Schnee und Landschaft (WSL) im Rahmen des neuen Forschungszentrums CERC am WSL-Institut für Schnee- und Lawinenforschung SLF in Davos.

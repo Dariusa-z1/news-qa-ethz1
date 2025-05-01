@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/06/erste-erkenntnisse-aus-der-befragung-zu-future-of-work.html
 
-**Date processed:** 2025-05-01
-
 ## Zentrale Ergebnisse aus der Befragung
 
 Immer wieder liest und hört man, dass die Pandemie die Art, wie wir zusammenarbeiten, nachhaltig verändert hat. Flexible Arbeitsformen wie mobiles Arbeiten und Homeoffice würden vermehrt genutzt und ständen gleichberechtigt neben der physischen Präsenz am Arbeitsort. Doch trifft dies tatsächlich zu – und wie sind Ihre Erfahrungen als ETH-Mitarbeitende bisher mit dieser «neuen Art» des flexiblen, mobilen Arbeitens?

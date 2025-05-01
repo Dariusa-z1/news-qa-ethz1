@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/04/mm-weltweiter-gletscherschwund-hat-sich-beschleunigt.html
 
-**Date processed:** 2025-05-01
-
 ## Ansteigender Meeresspiegel und Wasserknappheit
 
 Gletscher sind ein sensibler und augenfälliger Indikator für den Klimawandel. Ungeachtet der Höhenlage oder der geografischen Breite schmilzt das Gletschereis seit Mitte des 20. Jahrhunderts rasant. Doch das Ausmass des Eisschwundes wurde bislang nur lückenhaft erfasst und war unvollständig bekannt. Nun legt ein internationales Forschungsteam unter der Federführung der ETH Zürich und der Université de Toulouse eine umfassende Studie zum weltweiten Gletscherschwund vor, die am 28. April online in der Fachzeitschrift «Nature» veröffentlicht wurde. Diese Untersuchung ist die erste, die alle Gletscher der Welt – rund 220'000 – mit Ausnahme der Eisschilde Grönlands und der Antarktis umfasst. Sie ist von noch nie dagewesener räumlicher und zeitlicher Auflösung – und sie zeigt, wie schnell die Gletscher in den vergangenen zwei Jahrzehnten an Dicke und an Masse verloren haben.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/06/oestradiol-veraendert-epigenetik.html
 
-**Date processed:** 2025-05-01
-
 ## Zeitfenster erhöhter Empfindlichkeit
 
 In der öffentlichen Debatte sind hormonaktive Substanzen, also exogene, von aussen zugeführte Stoffe, die gleich oder ähnlich wirken wie körpereigene Hormone, seit längerem ein Thema. Chemikalien wie Bisphenol A oder Phtalate, die als Weichmacher in Kunststoffen eingesetzt werden, stehen möglicherweise in Zusammenhang mit der zunehmenden Unfruchtbarkeit von Männern und Frauen.

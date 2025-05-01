@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/06/die-schulleitung-informiert-2021-3.html
 
-**Date processed:** 2025-05-01
-
 ## Vertiefte Diskussion um Arbeitsformen der Zukunft
 
 Nach der sich abzeichnenden, zunehmenden Normalisierung nach der Pandemie-bedingten langen Phase des Home-Office hat sich die Schulleitung in ihrer letzten Sitzung ein erstes Mal mit der Rückkehr der ETH-Mitarbeitenden an ihren Arbeitsplatz beschäftigt.

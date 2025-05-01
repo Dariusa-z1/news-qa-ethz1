@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/09/workshop-reihe-forschungsdatenmanagement-162330102019.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The first workshop on 16 October 2019 offers an introduction to the basics of research data management (RDM) along the data life cycle, and discusses the role of Open Science in RDM. The workshop includes

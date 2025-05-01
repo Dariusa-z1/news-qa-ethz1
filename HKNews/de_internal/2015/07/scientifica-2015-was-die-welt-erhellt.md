@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/07/scientifica-2015-was-die-welt-erhellt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Vom 5. bis 6. September steht die Scientifica 2015 im internationalen Jahr des Lichts ganz im Zeichen von Licht und Erleuchtung.

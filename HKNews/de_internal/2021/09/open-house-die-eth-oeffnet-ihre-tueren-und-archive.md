@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/09/open-house-die-eth-oeffnet-ihre-tueren-und-archive.html
 
-**Date processed:** 2025-05-01
-
 ## Einblicke in die Sternwarte und Entwicklung des Campus Zentrum
 
 Die ETH Zürich ist auch dieses Jahr wieder Teil der Open House-Veranstaltung, an welcher Interessierte am Wochenende vom 2. und 3. Oktober Einblicke in eine Vielzahl öffentlicher und privater Gebäude im Raum Zürich erhalten. Spannende Angebote in Aussen- und Innenräumen der ETH Zürich warten auf die Besucherinnen und Besucher.

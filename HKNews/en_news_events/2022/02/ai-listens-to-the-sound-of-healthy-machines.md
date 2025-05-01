@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/02/ai-listens-to-the-sound-of-healthy-machines.html
 
-**Date processed:** 2025-05-01
-
 ## Detecting defects at an early stage
 
 Whether railway wheels or generators in a power plant, whether pumps or valves - they all make sounds. For trained ears, these noises even have a meaning: devices, machines, equipment or rolling stock sound differently when they are functioning properly compared to when they have a defect or fault.

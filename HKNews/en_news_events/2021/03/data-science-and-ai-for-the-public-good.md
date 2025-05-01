@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/03/data-science-and-ai-for-the-public-good.html
 
-**Date processed:** 2025-05-01
-
 ## Three strands of cooperation
 
 As society becomes more digitalised, institutions need more and more data science skills. This includes the integration of tools arising from artificial intelligence in a way that is safe and beneficial to society as a whole. To this end, as a pioneer within the federal administration, the FSO is teaming up with the Swiss Data Science Center (SDSC), a joint venture between the two federal institutes of technology.

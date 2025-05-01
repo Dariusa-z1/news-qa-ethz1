@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/07/running-without-air-resistance.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Researchers at ETH Zurich have developed an airshield within the space of a few months that facilitates a new type of high-speed training – running without air resistance. The Airshield is a U-shaped Plexiglas windscreen with wheels that is driven in front of the runner in a go-kart. Sensors regulate the speed, the driver in the go-kart only has to steer. This enables athletes to reach competition speeds during training that are otherwise only possible with an increased adrenaline level.

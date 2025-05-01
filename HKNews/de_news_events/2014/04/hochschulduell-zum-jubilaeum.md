@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/04/hochschulduell-zum-jubilaeum.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Der Akademische Sportverband Zürich ASVZ wird 75 Jahre alt. Das Gründungsjahr ist 1939. Ein Zufall, dass die Gründung im selben Jahr geschah, in dem der 2. Weltkrieg ausbrach? Meines Erachtens ist das ein Zufall. Die Geschichte des Hochschulsports begann schon viel früher: Die ersten Akademischen Turnvereine wurden im frühen 19. Jahrhundert gegründet. Ein Meilenstein war 1919 die Gründung der Akademischen Sportkommission, einer Initiative von Studierenden der ETH und der Universität Zürich. Ihr Hauptproblem war, dass sie keine eigene Sportanlage hatte. Trainiert wurde unter anderem auf der Wässerwiese an der Rämistrasse. Mit dem Ziel, eine Sportanlage zu erhalten, schlossen sich 1939 die Sportkommission und die Sportplatzkommission zusammen und gründeten den ASVZ. Es dauerte aber 35 Jahre, bis der ASVZ dieses Ziel erreichte. Erst 1974 durfte der Verband die Sportanlage Fluntern einweihen.

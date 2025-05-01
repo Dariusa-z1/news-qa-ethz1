@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/05/checking-in-on-our-professors.html
 
-**Date processed:** 2025-05-01
-
 ## Onboarding process seen in positive light
 
 All full professors, associate professors and assistant professors at ETH have the same boss: ETH President Joël Mesot. When Mesot took office, it was already one of his priorities to gauge professors' satisfaction levels and find out which areas might require attention. Important answers to these questions are now available. In 2019 the Equal Opportunities Office, the Office for Faculty Affairs and the General Secretariat invited all professors to participate in a survey – the first at ETH to focus solely on their work situation. "The participation rate was very high at over 60 percent," says Renate Schubert, Associate Vice President for Equal Opportunities and ETH Professor of Economics.

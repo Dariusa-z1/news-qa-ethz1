@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/10/ensuring-digital-information-does-not-get-lost.html
 
-**Date processed:** 2025-05-01
-
 ## Ongoing campaign
 
 Imagine the situation: you are sitting in the office, trying to open a file on the server – a file you have put a lot of work into. But nothing is working. It turns out that almost all the files are encrypted. In a new file, you find a ransom note demanding that you pay nearly 500 francs in Bitcoins if you ever want to regain access to your files. After two weeks, the ransom will double.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/07/viele-studierende-brauchen-fuehrung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Herr Wüest, Ihre Abteilung organisiert den Lehrbetrieb. Die Corona-Krise hat diesen auf den Kopf gestellt. Den Abschluss Ihrer Amtszeit haben Sie sich wohl anders vorgestellt… Wüest: Ja, Anfang März kam ein Punkt, an dem ich merkte, dass ich dieses letzte Halbjahr ganz anders erleben werde, als ich dachte. Dass alles noch einmal neu wird. Im April hätte ich aus- serdem an der Curling-Senioren-WM in Kanada mitgespielt, das wäre ein Highlight gewesen. Auch das ging bachab. Das alles war eine mentale Umstellung, die ziemlich tief gegangen ist.

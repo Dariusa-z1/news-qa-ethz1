@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/03/students-for-hospitals.html
 
-**Date processed:** 2025-05-01
-
 ## Lighting a spark
 
 The coronavirus pandemic is putting hospitals and nursing homes around the world in an exceptional emergency situation. Switzerland is no exception: an emergency looms, especially in intensive care. Experts predict that the situation in the country is about to drastically worsen in the coming days. Hospitals are preparing for an onslaught of COVID-19 patients. In this tense situation, every helper is needed.

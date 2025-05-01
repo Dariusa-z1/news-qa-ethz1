@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/08/innovative-itsolution-to-tackle-cyber-crime.html
 
-**Date processed:** 2025-05-01
-
 ## Acute sensitivity to normal activity
 
 As a young company with just five employees, a strong sense of conviction is essential in order to challenge the technological dominance of the big players in the field of IT security such as IBM, Intel Security and Cisco. And that’s exactly what Antonio Barresi (CEO), Matthias Ganz (CTO) and Marco Nembrini (COO) from xorlab plan to do. Founded in July 2015, the ETH spin-off has developed a system that aspires to be far more reliable and cheaper than conventional solutions in protecting companies and governments from hacker attacks.

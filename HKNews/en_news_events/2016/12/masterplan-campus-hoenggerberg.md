@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/12/masterplan-campus-hoenggerberg.html
 
-**Date processed:** 2025-05-01
-
 ## Preserving the surrounding landscape
 
 Optimal spatial development is vital if ETH Zurich is to provide the space required for students and researchers in the long term. Additional space is planned at the Hönggerberg location as there is limited scope for expanding the university in the city centre.

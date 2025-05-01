@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/08/weben-mit-nanofaeden.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Forscher aus der Gruppe von Helma Wennemers, Professorin am Laboratorium für Organische Chemie, haben ihre chemischen Webstühle in Gang gesetzt und ein einzigartiges molekulares Nano-Gewebe kreiert. Dieses Gewebe besteht aus verflochtenen organischen Molekülfäden mit ganz besonderen Eigenschaften.

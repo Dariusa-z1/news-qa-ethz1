@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/10/green-tea-catechines-promote-oxidative-stress.html
 
-**Date processed:** 2025-05-01
-
 ## Temporary increase in oxidative stress
 
 Green tea has long been known to have health benefits. In particular, it contains catechins called ECG and EGCG that are said to prolong life. These two substances belong to the group of polyphenols. They are considered antioxidants, which means they counteract or prevent oxidative stress in the body caused by aggressive free radicals of oxygen.

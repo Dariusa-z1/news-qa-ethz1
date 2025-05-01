@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/12/review-2017.html
 
-**Date processed:** 2025-05-01
-
 ## February
 
 At the start of the year, geologists were able to use a unique dataset to document the dramatic changes affecting the Aletsch glacier , where the ice has retreated at such a pace that an adjoining slope has also started to move rapidly. The researchers demonstrated a direct connection beteween the ice loss of the Aletsch glacier and the slippage of the Moosfluh slope.

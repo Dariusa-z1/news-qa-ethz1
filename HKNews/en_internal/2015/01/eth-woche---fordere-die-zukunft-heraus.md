@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2015/01/eth-woche---fordere-die-zukunft-heraus.html
 
-**Date processed:** 2025-05-01
-
 ## Food: Healthy. Fair. Enough for All.
 
 The purpose of the ETH Week is to foster critical thinking skills and to motivate students of all departments for sustainable action through an innovative learning experience.

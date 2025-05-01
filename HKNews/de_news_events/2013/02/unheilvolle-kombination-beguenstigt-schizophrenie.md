@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/02/unheilvolle-kombination-beguenstigt-schizophrenie.html
 
-**Date processed:** 2025-05-01
-
 ## Zusammenspiel von Infektion und Stress
 
 Rund ein Prozent der Bevölkerung leidet an Schizophrenie, einer schwerwiegenden psychischen Erkrankung, die meist erst im Erwachsenenalter auftritt und nicht heilbar ist. In der Psychiatrie vermutet man schon länger, welche Umwelteinflüsse das Auftreten der Schizophrenie fördern. Man sprach von vorgeburtlichen Infektionen wie Toxoplasmose oder Grippe. Auch psychischer Stress oder familiäre Vorbelastungen kamen als Auslöser in Frage. Dennoch ist es den Forschern bis heute nicht gelungen, das Zusammenspiel der einzelnen Faktoren in Bezug auf diese ernsthafte psychische Krankheit zu identifizieren.

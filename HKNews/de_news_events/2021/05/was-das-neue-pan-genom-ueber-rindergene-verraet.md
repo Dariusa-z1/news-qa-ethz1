@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/05/was-das-neue-pan-genom-ueber-rindergene-verraet.html
 
-**Date processed:** 2025-05-01
-
 ## Lücke gefüllt
 
 Die heutige genetische Forschung arbeitet oft mit sogenannten Referenzgenomen. Dabei handelt es sich um Daten von DNA-Sequenzen, die Wissenschaftlerinnen und Wissenschaftler als repräsentatives Beispiel für die genetische Ausstattung einer Art zusammengestellt haben.

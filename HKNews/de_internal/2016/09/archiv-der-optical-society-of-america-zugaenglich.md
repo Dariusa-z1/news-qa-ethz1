@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/09/archiv-der-optical-society-of-america-zugaenglich.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Das Archiv umfasst sämtliche Publikationen seit der Gründung der Society 1916 bis zum Jahr 2015:

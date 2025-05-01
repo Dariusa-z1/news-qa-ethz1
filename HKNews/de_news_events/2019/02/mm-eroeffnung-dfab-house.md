@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/02/mm-eroeffnung-dfab-house.html
 
-**Date processed:** 2025-05-01
-
 ## Vom Labor zur architektonischen Anwendung
 
 Eine feingliedrige Betondecke – gegossen in 3D-gedruckten Schalungen – und eine geschwungene, von einem Bauroboter erstellte Betonwand prägen die Architektur des Wohnzimmers, das in seiner Ästhetik entfernt an die Filmsets des Schweizer Künstlers HR Giger erinnert. Auf Zuruf öffnen sich die Storen wie von Geisterhand und der Wasserkocher bereitet das Teewasser vor. Was wie ein Science-Fiction-Film klingt, ist in Dübendorf Realität: Heute öffnet das smarte und gleichzeitig weitgehend digital geplante und gebaute DFAB HOUSE erstmals seine Türen.

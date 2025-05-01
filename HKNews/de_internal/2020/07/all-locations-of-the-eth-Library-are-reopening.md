@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/07/all-locations-of-the-eth-Library-are-reopening.html
 
-**Date processed:** 2025-05-01
-
 ## Standorte und Öffnungszeiten
 
 Neben der ETH-Bibliothek im Hauptgebäude (InfoCenter) und der Baubibliothek sind alle weiteren Standorte ebenfalls wieder offen. Bis auf weiteres gelten folgende Öffnungszeiten:

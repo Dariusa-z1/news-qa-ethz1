@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/02/game-apps-for-creative-kids.html
 
-**Date processed:** 2025-05-01
-
 ## Real-time animation from children’s drawings
 
 With games on their smartphones and YouTube movies on their tablets, children learn about the possibilities of mobile devices early on. In this environment, traditional toys, colouring books and crayons may seem out dated. That’s why the nursery is opening up to the digital world, too, and finding a new lease of life through apps. ETH Zurich’s Game Technology Center will present examples of this kind of augmented reality at CeBIT , the world’s largest computer expo, which runs from 14 to 18 March in Hanover.

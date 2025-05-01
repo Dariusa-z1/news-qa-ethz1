@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/06/3d-fuer-alle.html
 
-**Date processed:** 2025-05-01
-
 ## Community für den Erfahrungsaustausch
 
 «Das Potenzial des 3D-Drucks ist noch lange nicht ausgeschöpft, die richtige Nutzung der Technologie steht noch ganz am Anfang», davon ist Mirko Meboldt, Professor für Produktentwicklung und Konstruktion am Institut für Design, Materialien und Fabrikation, überzeugt. Woran es vor allem fehlt, sind Anwendungsfelder für den 3D-Druck. Denn obwohl die Technologie seit 30 Jahren bekannt ist, führte sie lange ein Nischendasein. Erst als die Medien die Technik des «Additive Manufacturing» unter dem Begriff «3D-Druck» einer breiteren Öffentlichkeit vorstellten, nahm ihre Verbreitung zu. Mittlerweile gibt es solche Drucker selbst im Elektromarkt für den Privatgebrauch zu kaufen.

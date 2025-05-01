@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/06/wer-in-singapur-forschen-will-soll-sich-jetzt-melden.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Manu Kapur, Sie haben Ihre akademische Laufbahn in Singapur gestartet. Jetzt sind Sie nach acht Jahren in der Schweiz dorthin zurückgekehrt. Was war die grösste Veränderung für Sie? Klar, es ist ein anderes Singapur als jenes, in dem ich meine Karriere begonnen habe. Doch die Erfahrungen in der Schweiz haben vor allem meinen Blick auf die Wissenschaft verändert. In der Schweiz und speziell an der ETH Zürich sind wir in einer sehr privilegierten Position. Wir haben nicht nur Zugang zu vielen Talenten, sondern geniessen auch viel Vertrauen und Autonomie. Das erlaubt uns, neue Ideen bottom-up zu entwickeln, und zwar schnell. Singapur neigt zu einem kuratorischen Ansatz, der Schwerpunktbereiche definiert, aber genügend Raum für Bottom-up-Ideen zulässt. Beide Ansätze funktionieren, und letztlich empfinde ich es als Privileg, in zwei wunderbaren Städten arbeiten und leben zu können und eine Brücke zwischen Zürich und Singapur zu schlagen.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/12/ein-jahr-lang-nicht-fliegen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Vor einem Jahr habe ich mir vorgenommen, nicht mehr zu fliegen (siehe diesen Blogbeitrag ). Aus guten Gründen: Sollen die in Paris formulierten und seither von genügend Staaten ratifizierten Klimaziele erreicht werden, dann muss die Gesellschaft den CO 2 -Ausstoss in den nächsten Jahrzehnten auf null reduzieren. Die Wissenschaften können hier mit gutem Beispiel vorangehen und an sich selbst testen, wie ein Umbau unserer Institutionen hin zu einer klimafreundlichen Gesellschaft funktionieren kann.

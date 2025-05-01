@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/10/monitoring-the-corrosion-of-bioresorbable-magnesium.html
 
-**Date processed:** 2025-05-01
-
 ## Implementing a new family of alloys
 
 Magnesium and its alloys are increasingly being deployed in bone surgery, in particular as osteosynthesis implants such as screws or plates, and as cardiovascular stents to expand narrowed coronary blood vessels.

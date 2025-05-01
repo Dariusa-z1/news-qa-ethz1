@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/04/solidaritaetseinsatz-ist-fuer-mich-auch-ein-privileg.html
 
-**Date processed:** 2025-05-01
-
 ## Im Labor und auf dem Velo
 
 Er arbeitet unentgeltlich: «Wenn man in einer solchen Zeit einer Beschäftigung nachgehen darf und damit auch noch helfen kann, sehe ich das als Privileg.» Erst später erfährt er, dass der Einsatz auch seinem Studium zugutekommt. Die ETH Zürich rechnet Studierenden Corona-Hilfstätigkeiten, die mit dem Studium zusammenhängen, als Studienleistung an. Für Scapozza bedeutet dies, dass er einen Teil seiner praktischen Masterarbeit, der im Notbetrieb gar nicht durchführbar wäre, nun mit seinem Solidaritätseinsatz ersetzen kann. Das verhindert, dass sein Abschluss sich verzögert. Die eine reguläre Lehrveranstaltung, an der Scapozza momentan teilnimmt, findet jede zweite Woche statt, was sich gut mit der Arbeit in der Apotheke vereinbaren lässt.

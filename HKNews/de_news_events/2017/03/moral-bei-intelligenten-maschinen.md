@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/03/moral-bei-intelligenten-maschinen.html
 
-**Date processed:** 2025-05-01
-
 ## Wie gut entscheidet eine Maschine?
 
 Eigentlich ist klar: Roboter sind Maschinen und keine Menschen. Gebaut werden sie unter anderem, um den Menschen von rein mechanischer oder repetitiver Arbeit zu entlasten. Ihre Intelligenz ist nicht natürlich, sondern von Computerprogrammen gesteuert.

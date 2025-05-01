@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/06/dancing-droplets.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Laboratory experiments today tend to be wasteful. For example, in order to conduct diagnostic tests, liquids are mixed together in reaction vessels when all this task requires is a few nanolitres of liquids. With miniaturisation, it would be possible to have a higher throughput with less consumption of materials. When attempting to compress an entire experiment into the size of a chip, known as 'Lab on a Chip', there is one key question: how can minuscule amounts of liquid or individual cells be moved, merged and assessed in a controlled way?

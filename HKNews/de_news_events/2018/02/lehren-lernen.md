@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/02/lehren-lernen.html
 
-**Date processed:** 2025-05-01
-
 ## Lehren lernen
 
 Die Prüfungen sind vorbei, vielleicht lagen ein paar Tage Ferien drin, und schon geht es wieder los für die Studierenden – das Frühlingssemester startet. Auch für die Dozierenden beginnt wieder die Zeit, in der Vorlesungen und Übungen die Agenda bestimmen. Eine ganz besondere Zeit beginnt für all jene, die zum ersten Mal vor einer Klasse stehen.

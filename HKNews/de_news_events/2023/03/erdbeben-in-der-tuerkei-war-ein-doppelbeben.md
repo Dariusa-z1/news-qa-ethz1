@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/03/erdbeben-in-der-tuerkei-war-ein-doppelbeben.html
 
-**Date processed:** 2025-05-01
-
 ## Das Wichtigste in Kürze
 
 • Forscher bestätigen, dass sich in der Türkei und Syrien eine Erdbeben-Doublette ereignet hat.

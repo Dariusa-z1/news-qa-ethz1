@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/06/goldmembran-entlockt-oberflaechen-ihre-geheimnisse.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Oberflächen lassen sich mit herkömmlichen Methoden wie der Raman-Laserspektroskopie nur schwer untersuchen, da die Signale sehr schwach sind.

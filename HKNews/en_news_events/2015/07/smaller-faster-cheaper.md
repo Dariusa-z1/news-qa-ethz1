@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/07/smaller-faster-cheaper.html
 
-**Date processed:** 2025-05-01
-
 ## The plasmon-trick
 
 In February 1880 in his laboratory in Washington the American inventor Alexander Graham Bell developed a device which he himself called his greatest achievement, greater even than the telephone: the “photophone”. Bell’s idea to transmit spoken words over large distances using light was the forerunner of a technology without which the modern internet would be unthinkable. Today, huge amounts of data are sent incredibly fast through fibre-optic cables as light pulses. For that purpose they first have to be converted from electrical signals, which are used by computers and telephones, into optical signals. In Bell’s days it was a simple, very thin mirror that turned sound waves into modulated light. Today’s electro-optic modulators are more complicated, but they do have one thing in common with their distant ancestor: at several centimeters they are still rather large, especially when compared with electronic devices that can be as small as a few micrometers.

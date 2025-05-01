@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/04/wie-funktioniert-die-eth-foundation.html
 
-**Date processed:** 2025-05-01
-
 ## Ermöglichen, innovieren, verbinden: Aufgaben und Ziele
 
 Seit ihrer Gründung am 18. August 2003 im Vorfeld des 150-Jahr-Jubiläums der Hochschule hat sich die ETH Foundation als gemeinnützige Stiftung einem zentralen Anliegen verschrieben: der Förderung von Forschung und Lehre an der ETH Zürich. Gemeinsam mit Donatorinnen und Donatoren ermöglicht sie Forschungsprojekte, Lehrinitiativen und Talentförderung, die sonst nicht zustande kämen. Diese Unterstützung beschleunigt wissenschaftliche Innovationen und stärkt die Position der ETH als eine weltweit führende Hochschule.

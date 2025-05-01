@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/09/zwei-neue-vizepraesidentinnen-verstaerken-die-eth-zuerich.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Seit 2008 besteht die Schulleitung der ETH Zürich aus fünf Mitgliedern. Seither hat sich der Wettbewerb nochmals verschärft und die Erwartungen von Gesellschaft und Politik an die ETH sind gestiegen. Die ETH Zürich blickt zudem auf Jahre des Wachstums zurück: So hat sich die Anzahl der Studierenden seit 2000 mehr als verdoppelt, die Anzahl der Mitarbeitenden hat sich um 60 Prozent erhöht und die Hochschule ist kulturell und fachlich vielfältiger geworden. Gleichzeitig stieg die Anzahl der ETH-Spin-offs in den letzten Jahren kontinuierlich an und die ETH hat die Zusammenarbeit mit grossen Unternehmen ebenso wie mit KMU bewusst intensiviert.

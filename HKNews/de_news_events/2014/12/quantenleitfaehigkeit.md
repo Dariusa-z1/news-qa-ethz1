@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/12/quantenleitfaehigkeit.html
 
-**Date processed:** 2025-05-01
-
 ## Kühlen bis fast zum Nullpunkt
 
 Zwei Gefässe mit Gas, die durch eine Röhre miteinander verbunden sind, bilden den Ausgangspunkt für die Überlegungen der Physiker am ETH-Institut für Quantenelektronik. Weil sich in einem Behälter etwas mehr Gas befindet als im anderen, fliessen Teilchen durch die Leitung von einem Ort zum anderen. «Nun fragen wir uns, wie sich die Leitfähigkeit ändert, wenn wir die Verbindung immer kleiner machen», erklärt Physikprofessor Tilman Esslinger. Zuerst werde die Leitfähigkeit einfach immer geringer, doch dann komme man an einen Punkt, an dem Erstaunliches passiere: Die Leitfähigkeit ändert sich ab diesem Punkt nur noch in Stufen, wobei die Stufenhöhe durch die sogenannte Planck-Konstante gegeben ist - «ein direkter Quanteneffekt», sagt Esslinger.

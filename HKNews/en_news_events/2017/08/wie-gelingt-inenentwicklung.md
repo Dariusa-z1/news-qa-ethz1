@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/08/wie-gelingt-inenentwicklung.html
 
-**Date processed:** 2025-05-01
-
 ## Identifying the reserves
 
 According to the revised spatial planning law, urban areas must densify – by increasing the number of inhabitants and workers in existing built-up areas. At the same time, urban sprawl should be curbed. So how are municipalities to come up with effective urban development solutions that meet these demands?

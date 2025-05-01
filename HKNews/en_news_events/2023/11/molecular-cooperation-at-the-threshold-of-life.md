@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/11/molecular-cooperation-at-the-threshold-of-life.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • Amyloids may be among the first larger precursor molecules of life.

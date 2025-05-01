@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/06/Grote-Fortschritt-Digitalisierung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Wir stehen vor einigen grundlegenden technologischen Durchbrüchen. Autonomes Fahren, vollautomatische Fertigung und häusliche Pflege durch Roboter sind nicht mehr der Stoff für Science-Fiction-Filme. Die auffälligsten und umstrittensten Innovationen betreffen die Robotik, die künstliche Intelligenz und das maschinelle Lernen: In diesen Bereichen müssen wir mit technischen Systemen interagieren, die wirklich ein Eigenleben führen.

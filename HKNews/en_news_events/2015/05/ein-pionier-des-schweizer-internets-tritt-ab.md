@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/05/ein-pionier-des-schweizer-internets-tritt-ab.html
 
-**Date processed:** 2025-05-01
-
 ## Plattner registered the first Swiss internet domain
 
 Professor Bernhard Plattner is a picture of calm. He is obviously at peace with all that he has accomplished and the fact that he is now starting a new chapter in his life. He has devoted 30 years of his life to researching computer networks and the internet at ETH Zurich, working as a full professor since 1994. He will officially enter retirement on 1 August.

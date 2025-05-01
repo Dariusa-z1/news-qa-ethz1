@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/06/researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • Computer scientists at ETH Zurich have written a network flow algorithm that computes almost as fast as is mathematically possible.

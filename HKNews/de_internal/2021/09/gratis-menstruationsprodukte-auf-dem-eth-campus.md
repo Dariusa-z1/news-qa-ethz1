@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/09/gratis-menstruationsprodukte-auf-dem-eth-campus.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Auf dem Campus Hönggerberg und auf dem Campus Zentrum, aber auch auf dem Standort Basel und im Octavo-Gebäude in Oerlikon wurden im Rahmen eines Pilotprojekts 22 Automaten in Frauen-​ und in genderneutralen Toiletten installiert, welche GRATIS Tampons und Binden ausgeben.

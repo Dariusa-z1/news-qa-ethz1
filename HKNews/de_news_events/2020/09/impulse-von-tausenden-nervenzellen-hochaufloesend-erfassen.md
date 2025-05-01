@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/09/impulse-von-tausenden-nervenzellen-hochaufloesend-erfassen.html
 
-**Date processed:** 2025-05-01
-
 ## Verstärkung nötig
 
 Seit mehr als fünfzehn Jahren entwickelt die Gruppe von ETH-Professor Andreas Hierlemann Mikroelektrodenchips, mit denen man Nervenzellen in Zellkultur präzise elektrisch anregen sowie die Aktivität der Zellen messen kann. Die Entwicklungen ermöglichen es, Nervenzellen in Zellkulturschalen wachsen zu lassen und mit dem am Kulturschalenboden liegenden Chip jede einzelne Zelle eines zusammenhängenden Neuronengewebes genau zu untersuchen. Alternative Messmethoden haben demgegenüber deutliche Einschränkungen: Sie sind entweder sehr aufwendig, weil zu jeder Zelle einzeln ein Kontakt hergestellt werden muss, oder man muss dazu Fluoreszenzfarbstoffe verwenden, welche das Verhalten der Zellen und somit die Experimente beeinflussen.

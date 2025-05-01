@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/01/fuehrungswechsel-an-der-eth-in-singapur.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Gisbert Schneider kam 2010 als ordentlicher Professor für Computer-Assisted Drug Design an die ETH Zürich. Im gleichen Jahr eröffnete die Hochschule ihre Aussenstelle in Singapur, die Schneider während der letzten drei Jahre als Direktor leitete. Der Beginn seiner Amtszeit war geprägt von der Corona-Pandemie. Dennoch gelang es in den letzten Jahren, den ETH-Standort in Singapur weiter zu profilieren und als Hub der Schweizerischen Wissenschaftsdiplomatie zu positionieren.

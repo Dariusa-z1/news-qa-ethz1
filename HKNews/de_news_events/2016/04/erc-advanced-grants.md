@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/04/erc-advanced-grants.html
 
-**Date processed:** 2025-05-01
-
 ## Die ETH muss attraktiv bleiben
 
 Die ERC Advanced Grants gehören zu den begehrtesten Auszeichnungen im europäischen Forschungsraum. Mit ihnen fördert der Europäische Forschungsrat (ERC) ausschliesslich Projekte von etablierten Spitzenforschenden. Wer sich erfolgreich um diese Fördermittel bewirbt, erhält neben viel Renommee auch namhafte finanzielle Unterstützung. Die angenommenen Projekte werden während fünf Jahren mit rund 2,2 bis 3,8 Millionen Franken unterstützt.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/05/better-catalysts-for-the-petrochemical-industry.html
 
-**Date processed:** 2025-05-01
-
 ## It all depends on the inner structure
 
 Zeolites are among the substances which can accelerate chemical reactions – they are known as catalysts. Usually applied in pellet form, the industrial production of gasoline from crude oil without zeolites is today inconceivable. The chemical reactions occur on their surface. Fortunately, these are very large for zeolites: the catalysts are interspersed with nano-sized pores and microscopic channels through which gaseous or liquid reactants penetrate and the products later can leave.

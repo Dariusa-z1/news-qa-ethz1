@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/08/entsorgungswoche-betrieb.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Das Info-Portal für Mitarbeitende mit den wichtigsten Informationen rund um das Geschehen an der ETH Zürich.

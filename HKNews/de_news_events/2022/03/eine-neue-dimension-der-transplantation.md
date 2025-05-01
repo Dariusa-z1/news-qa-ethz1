@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/03/eine-neue-dimension-der-transplantation.html
 
-**Date processed:** 2025-05-01
-
 ## Mithilfe einer Nanospritze
 
 So wie sich der menschliche Körper in verschiedene Organe – etwa Herz, Lungen, Nieren, Darm oder Leber – unterteilen lässt, bestehen auch unsere Zellen aus mehreren, sich ergänzenden und voneinander abhängigen Systemen, die in der Fachsprache als Organellen (also kleinen Organen) bezeichnet werden. Und so wie das Leben eines nierenkranken Menschen mit der Transplantation einer gesunden Niere mitunter um mehrere Jahrzehnte verlängert werden kann, könnten dereinst vielleicht einzelne Zellen mit der Transplantation von Zellbestandteilen aufgefrischt werden.

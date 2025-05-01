@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/06/wandelbarer-joystick-fuer-animationskuenstler.html
 
-**Date processed:** 2025-05-01
-
 ## Baukastenprinzip
 
 Im Chemieunterricht setzen Schüler Kügelchen und Stäbchen zu komplexen Molekülen zusammen, um chemische Verbindungen zu veranschaulichen. Etwas Ähnliches hat im Interactive Geometry Lab der ETH Zürich Gestalt angenommen. Aber ETH-Professorin Olga Sorkine-Hornung und ihr Team erforschen keine Moleküle, sondern Methoden, um virtuelle Figuren am Computer möglichst naturgetreu zu animieren. Dazu haben sie nun einen neuartigen «Joystick» entwickelt: Dieser besteht aus Bausteinen, die der Nutzer wie die Kugeln und Stäbchen des Chemiebaukastens zu einer der animierten Figur ähnlichen Form zusammensetzen kann, sei es ein Mensch, ein Hund, ein Elefant oder auch nur einzelne Körperteile.

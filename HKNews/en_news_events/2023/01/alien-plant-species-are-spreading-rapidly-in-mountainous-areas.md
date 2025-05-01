@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/01/alien-plant-species-are-spreading-rapidly-in-mountainous-areas.html
 
-**Date processed:** 2025-05-01
-
 ## Invasive plants fill their niche
 
 Many mountain ranges contain semi-natural habitats experiencing little human interference. They are home to many animal and plant species, some of them endemic and highly specialized. Mountains have also been largely spared by invasions of alien plant species or neophytes.

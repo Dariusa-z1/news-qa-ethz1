@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/07/from-the-university-assembly.html
 
-**Date processed:** 2025-05-01
-
 ## Ensuring the well-being of doctoral students
 
 Under the direction of Antonio Togni, Vice Rector for Doctoral Studies, a working group has drafted measures relating to doctoral studies. These are compiled in the “Development of doctoral studies”, and set out in particular the rights and duties of doctoral students and their supervisors. The catalogue of measures asserts that concrete and binding rules regarding scientific development and a code for interpersonal cooperation are necessary. Addressing this, the University Assembly has now drawn up a number of questions and comments, such as “Are specific checks and measures planned in order to effectively implement the existing and new rules?” In general, the UA welcomes the strengthening of support for doctoral candidates through the introduction of a secondary supervisor. It considers however that this person should be an expert in the candidate’s field of research, although not necessarily a professor. The Assembly also advocates the possibility of changing the second supervisor if the field of research develops in a new and unplanned direction; cutting-edge research must have the opportunity to make specialist adjustments at short notice. The UA also proposes a mentoring or buddy scheme. The persons taking on this trust-based support function would complement the specialist supervision; mentors should have no influence on the research, but deal primarily with interpersonal matters.

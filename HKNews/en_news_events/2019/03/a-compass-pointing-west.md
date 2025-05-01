@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/03/a-compass-pointing-west.html
 
-**Date processed:** 2025-05-01
-
 ## North-West and South-East coupling of atoms
 
 Magnets are characterized by the fact that they have a North pole and a South pole. If two common magnets are held close to each other, opposite poles attract and the like poles repel each other. This is why magnetic needles, such as those found in a compass, align themselves in the Earth's magnetic field so that we can use them to determine the cardinal directions North and South and, derived from this, East and West. In the world that we experience every day with our senses, this rule is correct. If you leave the macroscopic world and dive into depths of much smaller dimensions, this changes. Researchers at the Paul Scherrer Institute PSI and the ETH Zurich have now discovered a very special magnetic interaction at the level of nanoscopic structures made of magnetic layers only a few atoms thick.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/02/neue-leiterin-der-mobilitaetsstelle.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Mobilitätsstelle ist zuständig für die Verträge mit Partneruniversitäten rund um die Studierendenmobilität. Sie kümmert sich um alle Anliegen von ETH-Studierenden, die an einem der internationalen Austauschprogrammen teilnehmen wollen. Gleichzeitig betreuen die Mitarbeitenden die ausländischen Mobilitätsstudierenden, die Gaststudierenden und die Bundesstipendiaten/innen, die an die ETH Zürich kommen.

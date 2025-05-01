@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/10/idea-league-easygo.html
 
-**Date processed:** 2025-05-01
-
 ## Vereinte Kräfte für Innovationen
 
 Die Nutzung von Erdwärme wird beim Kampf gegen den Klimawandel eine Schlüsselrolle spielen – entsprechend gefragt sind Expertinnen und Experten mit geothermischem Fachwissen. Im Frühjahr 2020 erwarb Dr. Maren Brehme im Auftrag der IDEA League EU-Fördermittel in Höhe von 3,4 Millionen Euro zur Realisierung des EASYGO-Projekts. Mit diesem Projekt, das im November 2020 beginnt, können 13 Doktorierende der vier Partnerhochschulen – TU Delft, ETH Zürich, RWTH Aachen und Politecnico di Milano – Forschungsfragen aus der gesamten Kette der geothermischen Energieerzeugung untersuchen. «Um die Energiewende zu bewältigen, brauchen wir gebündeltes europäisches Know-how von unseren führenden technischen Universitäten. Dieses Projekt ist ein wichtiger Schritt in diese Richtung», sagt Sarah Springman, Rektorin der ETH Zürich und Präsidentin der IDEA League.

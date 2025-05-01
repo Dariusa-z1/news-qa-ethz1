@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/09/neuer_vseth_praesident.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Kay Schaller. (Bild: zvg)

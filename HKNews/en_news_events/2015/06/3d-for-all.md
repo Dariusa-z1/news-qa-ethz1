@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/06/3d-for-all.html
 
-**Date processed:** 2025-05-01
-
 ## Community for exchanging experiences
 
 “The potential of 3D printing is far from being exhausted; the proper use of this technology is still only in its infancy.” That is the firm belief of Mirko Meboldt, professor of product design and construction at the Institute of Design, Materials and Fabrication. What is lacking is applications for 3D printing. Despite the technology being known for 30 years, for a long time it only had a niche following. Only once the media presented additive manufacturing technology under the name ‘3D printing’ to a broader audience did its use start to spread. Today it is even possible to buy 3D printers for personal use in electronics stores.

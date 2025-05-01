@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/09/future-cities-lab-singapore.html
 
-**Date processed:** 2025-05-01
-
 ## Huge living lab
 
 The scale is vast. A modern, multi-ethnic city state, still underdeveloped just 50 years ago, formed and grown rapidly since independence, now with 6 million inhabitants and double the population density of Zurich – and all this in a tropical climate in which physical limits are quickly reached: "Urgent questions are being asked in Singapore that are also relevant to central Europe," says Peter Edwards, ETH Professor of Ecology, who has been Director of the Singapore-ETH Centre (SEC) since 2013. After all, challenges such as climate change, ageing populations and energy and water supply are common to all growing urban systems.

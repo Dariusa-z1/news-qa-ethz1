@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/03/food-4-thought-erfahren-sie-mehr-ueber-nachhaltige-ernaehrung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Vom 3. bis 5. April findet auf dem Campus Hönggerberg die Messe «Food4Thought» statt. Im Zentrum der Veranstaltung steht die klimafreundliche Ernährung: An 17 Ständen können Sie sich als Besucher:in der Messe u.a. von ETH-Spin-Offs, -Start-ups und Studierenden inspirieren lassen, wie Sie sich anhand praktischer Konzepte und konkreter Produkte noch klimafreundlicher und umweltschonender ernähren können.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/01/warming-in-the-stratosphere-leads-to-cold-winters.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Finally, another winter that truly deserves its name. Is the current cold weather related to the phenomenon of the sudden stratospheric warming (SSW) that occurred in early January? Daniela Domeisen: The cold and snow are simply due to the fact that it is winter. But while the current cold winter weather in Europe may not yet be related to the SSW, this event may be responsible for the cold to persist for several weeks to come.

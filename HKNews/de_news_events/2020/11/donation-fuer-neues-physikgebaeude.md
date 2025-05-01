@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/11/donation-fuer-neues-physikgebaeude.html
 
-**Date processed:** 2025-05-01
-
 ## Ein Beitrag für den Forschungsplatz Schweiz
 
 Die Quantenforschung hat sich in den letzten Jahren rasant entwickelt. Es ist absehbar, dass Quantenphänomene in den Bereichen Computing, Sensorik und Kryptografie bald technisch neue Anwendungen ermöglichen werden. Die Forschung in diesem Bereich erfordert allerdings eine hochkomplexe Infrastruktur, denn die fragilen Effekte auf atomarer Ebene lassen sich nur mit sehr aufwändigen Experimenten erfassen.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/12/ein-insitut-mit-eigenem-charakter.html
 
-**Date processed:** 2025-05-01
-
 ## Die Mathematik als Sprache des Dialogs
 
 Die Clausiusstrasse führt vom ETH-Hauptgebäude in das Quartier Oberstrass. Wer sie beschreitet, erkennt nach gut vier Minuten zur linken Hand zwei Gebäude mit rundherum roten Fassaden und weissen Kanten. 1882 gebaut, wohnten dort einst Familien der Mittel- bis Oberschicht. Heute sind sie Orte der grundlagentheoretischen Reflexion. Im grösseren der beiden Häuser ist seit Herbst 2013 das ETH-Institut für theoretische Studien (ETH-ITS) zuhause. Eingerichtet hat die ETH dieses Institut mit privaten Spenden. «Wir möchten Forschende ans ITS einladen», sagt Giovanni Felder, Mathematik-Professor und Direktor des Instituts, «die sich durch innovative Theorien in Mathematik, Informatik oder Naturwissenschaften auszeichnen. Wir geben ihnen alle Freiheit, damit sie sich ein Jahr lang der theoretischen Grundlagenforschung widmen können.»

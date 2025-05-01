@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/10/erc-synergy-grants.html
 
-**Date processed:** 2025-05-01
-
 ## Gemeinsame Spitzenforschung mit Europa
 
 Zusammenhänge und Fragestellungen werden immer komplexer, was die Zusammenarbeit von Forschenden aus verschiedenen Gebieten notwendig macht. Seit 2012 fördert der Europäische Forschungsrat (ERC) deshalb mit ihren Synergy Grants Forschungsprojekte, an denen zwei bis vier Forschende aus verschiedenen Fachgebieten beteiligt sind und die einen hohen Synergieeffekt aufweisen. Dieses Jahr wurden 37 Konsortien mit einem hochdotierten Grant von 10 bis 14 Millionen Euro ausgezeichnet. Bei zwei Projekten ist die ETH Zürich im Lead, an einem weiteren ist die Hochschule beteiligt. Mit den Forschungsprojekten von Domenico Giardini zur Vorhersage von Erdbeben, von Jacob Corn im Bereich Genom-Editierung, sowie von Jeffrey W. Bode zur Entwicklung von Breitband-Antiviren­the­ra­pien ist die Unterstützung des Europäischen Forschungsrats durch die Synergy Grants thematisch breit gefächert.

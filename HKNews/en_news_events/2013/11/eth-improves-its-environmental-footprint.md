@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/11/eth-improves-its-environmental-footprint.html
 
-**Date processed:** 2025-05-01
-
 ## A trial run for new building systems
 
 The decision has been made: the Swiss energy system will undergo a thorough renovation by 2050, with a shift away from nuclear energy towards the use of renewable energy sources. The timescale for reducing CO2 emissions and the use of fossil fuels is shorter still, with the target being set at a decrease of at least 20 percent by 2020 compared to the levels recorded in 1990. To create a sustainable society, energy needs to be saved anywhere it can – including in the mobility sector, in industrial and service enterprises, in towns and cities and, above all, in the building sector.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/07/name-adresse-oder-magazin-abos-aendern-leicht-gemacht.html
 
-**Date processed:** 2025-05-01
-
 ## Magazin-Abos anpassen
 
 Möchten Sie nun beispielsweise neu das «life» als englisches PDF per E-Mail erhalten anstatt gedruckt und auf Deutsch in Ihrem Briefkasten zu finden, stellen Sie die Versendungsart wie unten dargestellt ein:

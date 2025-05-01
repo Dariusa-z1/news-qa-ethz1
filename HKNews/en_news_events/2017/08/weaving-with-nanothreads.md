@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/08/weaving-with-nanothreads.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Researchers in the group led by Professor Helma Wennemers in the Laboratory for Organic Chemistry, have used their chemical looms to produce a unique molecular nanoweave made from an intertwining organic molecule that threads thanks to its special properties.

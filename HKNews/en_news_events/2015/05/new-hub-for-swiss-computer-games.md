@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/05/new-hub-for-swiss-computer-games.html
 
-**Date processed:** 2025-05-01
-
 ## World-class game developers from Switzerland
 
 Last Wednesday ETH Zurich announced its intention to further expand its commitment to the development of computer games. The Department of Computer Sciences is establishing a Game Technology Center where scientists will be able to devise new technologies for computer game development in a cross-disciplinary manner and in collaboration with industry. ETH president Lino Guzzella explains the decision: “Game technology is not only interesting for start-ups and the creative industries, but also for science and teaching. In future, we want to pool ETH’s strengths and pay increased attention to this technology.”

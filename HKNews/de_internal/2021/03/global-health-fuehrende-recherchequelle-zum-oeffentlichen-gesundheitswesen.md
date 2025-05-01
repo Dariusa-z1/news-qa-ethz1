@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/03/global-health-fuehrende-recherchequelle-zum-oeffentlichen-gesundheitswesen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 • Globale Reichweite : Erfasst internationale Literatur, die von anderen Datenbanken nicht abgedeckt wird, und bietet den Nutzern eine wirklich globale Perspektive.

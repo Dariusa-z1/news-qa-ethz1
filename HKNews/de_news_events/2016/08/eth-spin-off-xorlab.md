@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/08/eth-spin-off-xorlab.html
 
-**Date processed:** 2025-05-01
-
 ## Hohe Sensibilität für gutartiges Verhalten
 
 Es braucht eine Menge Selbstvertrauen, wenn man als fünfköpfiges Jungunternehmen antritt, um den grossen Entwicklern von IT-Sicherheitslösungen, wie IBM, Intel Security oder Cisco die Innovationsführerschaft streitig zu machen. Antonio Barresi (CEO), Matthias Ganz (CTO) und Marco Nembrini (COO) von Xorlab haben genau das vor. Der im Juli 2015 gegründete ETH-Spin-off hat ein System entwickelt, das Hackerangriffe auf Unternehmen und Regierungen verlässlicher und günstiger abwehren soll, als herkömmliche Lösungen.

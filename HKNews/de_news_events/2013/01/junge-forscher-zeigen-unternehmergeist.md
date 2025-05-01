@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/01/junge-forscher-zeigen-unternehmergeist.html
 
-**Date processed:** 2025-05-01
-
 ## Acht Spin-offs aus dem Bereich ICT
 
 Forscherinnen und Forscher wagen immer häufiger den Schritt in die Selbständigkeit. Die Gründung einer eigenen Unternehmung ist für viele junge Talente eine attraktive Alternative zu einer wissenschaftlichen Laufbahn oder einer Karriere als Angestellte in der Privatwirtschaft geworden. Das schlägt sich in konkreten Zahlen nieder. 22 Spin-off-Firmen haben ETH-Angehörige im vergangen Jahr gegründet. Die Zahl der Firmengründungen ist damit in den letzten fünf Jahren auf hohem Niveau konstant geblieben. «Wir können nun die Früchte unserer Aufbauarbeit ernten, die wir in den letzten Jahren geleistet haben», sagt Roland Siegwart, Vizepräsident Forschung und Wirtschaftsbeziehungen. Die Marke «Spin-off der ETH Zürich» sei etabliert — nicht zuletzt dank vielen erfolgreichen Jungfirmen, die in den letzten Jahren aus der Hochschule entstanden sind.

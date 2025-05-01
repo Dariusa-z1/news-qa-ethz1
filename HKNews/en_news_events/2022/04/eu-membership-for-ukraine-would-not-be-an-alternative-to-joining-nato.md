@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/04/eu-membership-for-ukraine-would-not-be-an-alternative-to-joining-nato.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Last Sunday, Emmanuel Macron was elected to a second term as President of France. How important is this for the European Union in the current climate?

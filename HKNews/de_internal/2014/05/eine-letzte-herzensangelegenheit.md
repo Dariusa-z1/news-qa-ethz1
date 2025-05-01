@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/05/eine-letzte-herzensangelegenheit.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In meiner zweiten Kolumne ging es um ein aktuelles Thema: die Wahl des neuen ETH-Rektors. Die für das Amt nominierte Kandidatin, Professorin Springman, ist Mitbegründerin und Vorstandsmitglied des ETH WPF. Wir gratulieren der designierten Rektorin Sarah Springman zu ihrem Erfolg.In meinen letzten Kolumnen habe ich primär meine persönlichen Erfahrungen als ETH Professorin geschildert. In dieser letzten Kolumne möchte ich aus der Weitwinkelperspektive aufzeigen, was im operativen Bereich und auf Führungsebene in den Departementen geschieht. Dabei stellt sich folgende Frage: Wie können die einzelnen Departemente und die ETH als Institution die Exzellenz in Forschung und Lehre sowie eine ausgewogenere Balance der Geschlechter fördern?

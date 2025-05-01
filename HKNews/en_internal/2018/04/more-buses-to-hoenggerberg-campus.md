@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/04/more-buses-to-hoenggerberg-campus.html
 
-**Date processed:** 2025-05-01
-
 ## Concerns from locals and ETH taken seriously
 
 From the start of the 2018 autumn semester on 17 September 2018, there will be more buses on the VBZ route no. 80 serving the Hönggerberg campus. The agreed timetable changes will apply during ETH Zurich’s term time and examination periods. At peak times on working days, buses will now run every 6 minutes instead of the current 6.7 to 7.5-minute frequency.

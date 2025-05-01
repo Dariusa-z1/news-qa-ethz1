@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/01/sl-info.html
 
-**Date processed:** 2025-05-01
-
 ## Mitwirkungsrechte einhalten
 
 Im Herbstsemester 2019 fand eine Vernehmlassung über Änderungen an der Organisationsverordnung (OV) der ETH Zürich statt. Diese Revision gilt als erster konkreter Umsetzungsschritt des Reorganisationsprojekts rETHink . Kernstück ist die Erweiterung der Schulleitung um zwei neue Vizepräsidien, je eines für Wissenstransfer und Wirtschaftsbeziehungen sowie für Personalentwicklung und Leadership. Departemente, Hochschulgruppen, Abteilungen und Stabsstellen nahmen kritisch, aber konstruktiv Stellung zur geplanten Zusammensetzung der Schulleitung mit neu sechs anstatt vier Vizepräsidien. Viele Teilnehmende der Vernehmlassung teilen die Einschätzung der Schulleitung, dass die Hochschule auch strukturell auf veränderte Rahmenbedingungen angemessen reagieren muss.

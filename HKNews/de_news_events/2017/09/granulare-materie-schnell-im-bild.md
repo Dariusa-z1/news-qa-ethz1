@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/09/granulare-materie-schnell-im-bild.html
 
-**Date processed:** 2025-05-01
-
 ## Pulver und Körner in der chemischen Industrie
 
 Auch in unserer hochtechnologisierten, modernen Welt ist es nicht möglich vorherzusehen, wann etwa Felsstürze, wie sie sich vor Kurzem in Graubünden ereignet haben, oder Erdbeben eintreten und wie sie im Detail ablaufen. Das liegt unter anderem daran, dass Wissenschaftler das Verhalten von Geröll und Sand, noch dazu im Zusammenspiel mit Wasser oder Gasen, trotz langjähriger Forschung noch immer nur ansatzweise verstanden haben.

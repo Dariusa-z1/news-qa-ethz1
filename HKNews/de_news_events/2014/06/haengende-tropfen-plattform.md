@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/06/haengende-tropfen-plattform.html
 
-**Date processed:** 2025-05-01
-
 ## Tropfen verknüpft
 
 Wissenschaftler verwenden standardmässig Zellkulturen, um Wirksubstanzen oder Gifte zu testen. Bis anhin dominieren zweidimensionale Zellkulturen auf flachen Substraten, was gewichtige Nachteile hat: Zellschichten auf Oberflächen sind sowohl in ihrer Morphologie als auch in ihrem Stoffwechsel anders als Zellen im lebenden Organismus, wo dreidimensionale Strukturen vorherrschen.

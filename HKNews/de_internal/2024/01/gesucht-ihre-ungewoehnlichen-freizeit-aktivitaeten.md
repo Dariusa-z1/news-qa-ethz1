@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/01/gesucht-ihre-ungewoehnlichen-freizeit-aktivitaeten.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Für die Frühlingsausgabe des life-Magazins suchen wir solche und auch weniger ausgefallene Aktivitäten, die ETH-Angehörige gemeinsam unternehmen. Wir möchten Gruppen und Netzwerke portraitieren, die sich auch ausserhalb der Arbeit regelmässig für bestimmte Aktivitäten treffen.

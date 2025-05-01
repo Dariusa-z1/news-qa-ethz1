@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/11/machen-sie-ihre-geraete-nicht-zur-beute.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Es ist ganz einfach: Lassen Sie Ihre Geräte nicht aus den Augen. Wenn Sie beispielsweise in der Bibliothek sind oder in der Mensa und ihren Arbeitsplatz kurz verlassen, nehmen Sie Ihre Geräte mit. Die Geräte stören beim Sport oder bleiben über Nacht im Büro? Schliessen Sie sie ein. Hat Ihr Hotelzimmer einen Safe? Nutzen Sie ihn.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/04/the-social-impact-of-disasters.html
 
-**Date processed:** 2025-05-01
-
 ## The risk of wildland-urban interfaces
 
 Christine Eriksen spent 13 years living and working in Australia before taking up her post at ETH Zurich in August 2020. “One of the reasons I decided to move to Switzerland was to escape the growing number of catastrophic bushfires,” she says. The “Black Summer” fires blazed across Australia between June 2019 and May 2020, burning more than 18 million hectares of land and causing damage estimated at CHF 70 billion.

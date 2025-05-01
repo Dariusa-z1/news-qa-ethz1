@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/06/how-ai-technology-from-eth-animates-the-fire-creatures-in-the-latest-pixar-cinema-movie.html
 
-**Date processed:** 2025-05-01
-
 ## Image transfer to support the story
 
 The movie’s main character Ember is a fiery elemental creature whose head consists of flames that are constantly moving. Realistically drawing these flames and heat currents posed a great challenge to animators, as recently reported by tech magazine Wired . Starting with ETH technology, they finally came up with a solution that makes the flame structure in Ember's face appear more pronounced than what was possible with previous simulation technologies.

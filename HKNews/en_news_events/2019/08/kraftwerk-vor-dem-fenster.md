@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/08/kraftwerk-vor-dem-fenster.html
 
-**Date processed:** 2025-05-01
-
 ## Positive energy balance
 
 Heating or cooling internal spaces requires energy. More intelligent building façades could save much of that energy. A system developed at ETH Zurich uses movable solar panels to generate electricity while at the same time allowing the right amount of sunshine or shade to suit weather conditions and internal use.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/06/swiss-population-wants-to-expand-development-cooperation.html
 
-**Date processed:** 2025-05-01
-
 ## Support for greater Swiss engagement
 
 ETH researchers conducted the first survey on the Swiss population’s attitude towards development cooperation at the end of 2021. Around 2,800 people took part. The results were published today. “With this survey, we want to make a contribution to public discussion and opinion-forming,” explains the co-director of the NADEL- Center for Development and Cooperation, Prof. Isabel Günther.

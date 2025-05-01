@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/12/cybathlon-experience-hsr-exoskeleton.html
 
-**Date processed:** 2025-05-01
-
 ## Same goal, different starting points
 
 Tension is mounting in the atrium of the research centre at HSR University of Applied Sciences Rapperswil. The viewers in the galleries are holding their breath, and you can almost hear a pin drop. The throaty sound of a motor breaks the silence, followed by applause. Rolf Schoch, a 30-year-old man with paraplegia, gets up from a wooden bench and begins to walk. His body is encased in a compact, 35-kilogramme exoskeleton – a wearable, powered support system that enables paraplegics to stand up, walk and climb stairs.

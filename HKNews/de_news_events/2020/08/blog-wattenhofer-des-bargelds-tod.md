@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/08/blog-wattenhofer-des-bargelds-tod.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 (Bild: ETH Zürich)

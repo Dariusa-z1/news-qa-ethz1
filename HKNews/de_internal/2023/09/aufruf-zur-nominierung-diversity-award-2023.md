@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/09/aufruf-zur-nominierung-diversity-award-2023.html
 
-**Date processed:** 2025-05-01
-
 ## Integration auf allen Ebenen fördern
 
 «Grossartige Ideen kommen nicht von Teams, die gleich aussehen oder gleich denken. Innovation entsteht, wenn unterschiedliche Perspektiven, Talente und Weltanschauungen vermischt und durcheinandergebracht werden», sagt Elizabeth Tilley, Professorin für Global Health Engineering am D-MAVT. Sie gewann 2022 den Diversity Award in der Kategorie Einzelpersonen.

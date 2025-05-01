@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/08/das-raetselhafte-unsichtbare-objekt-das-unsere-milchstrasse-bewegt.html
 
-**Date processed:** 2025-05-01
-
 ## Von der Möglichkeit zur Gewissheit
 
 Das Weltall ist auch ein Raum, der Fragen auslöst: Was genau geschieht zum Beispiel im Zentrum einer Galaxie? Dieser Frage hat sich Andrea Ghez, Physik-Nobelpreisträgerin von 2020, in ihrer Laufbahn als Astronomin und Astrophysikerin mit Hingabe gewidmet. Könnte es sogar sein, dass sich im Kern jeder Galaxie ein supermassives schwarzes Loch befindet, das umso massiver ist, je massiver eine Galaxie ist? Das sind Fragen, die in der Astronomie diskutiert und erforscht werden.

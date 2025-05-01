@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/06/wie-wir-uebeltaeter-zum-kooperieren-bringen.html
 
-**Date processed:** 2025-05-01
-
 ## Jeder denkt, der andere macht‘s
 
 An einem See sind einige Fabriken angesiedelt. Heimlich entsorgt eine der Firmen in der Nähe Giftmüll, der ins Gewässer fliesst und somit den anderen Schaden zufügt. Die geschädigten Betriebe können nun das umweltkriminelle Unternehmen verklagen, was aber mit Kosten verbunden ist. Doch welche der Firmen wird dies an die Hand nehmen? Fragen wie dieser ist Andreas Diekmann, Professor für Soziologie an der ETH Zürich gemeinsam mit Wojtek Przepiorka von der Universität Utrecht in einer Studie über soziale Kooperation nachgegangen.

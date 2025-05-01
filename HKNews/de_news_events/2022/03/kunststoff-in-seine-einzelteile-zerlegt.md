@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/03/kunststoff-in-seine-einzelteile-zerlegt.html
 
-**Date processed:** 2025-05-01
-
 ## Ziel ist, Polymere zu zerlegen
 
 Seit langem stellt die Chemie Polymere her. Dabei werden aus kleinen Molekül-Bausteinen lange Molekülketten hergestellt werden, die sich miteinander verbinden. Polymere sind die Grundlage von allen möglichen alltäglichen Kunststoffen wie PET oder Polyurethan.

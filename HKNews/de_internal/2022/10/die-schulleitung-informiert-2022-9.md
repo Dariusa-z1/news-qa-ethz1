@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/10/die-schulleitung-informiert-2022-9.html
 
-**Date processed:** 2025-05-01
-
 ## Neue Leitung bei der SGU
 
 Dieses GSV-System hat sich bereits während einer vierjährigen Pilotphase im D-ITET und D-MAVT bewährt. Nun soll es auf alle Departemente der ETH Zürich ausgeweitet werden, die experimentelle Forschung betreiben. Es sind dies, gestaffelt über die nächsten Jahre:

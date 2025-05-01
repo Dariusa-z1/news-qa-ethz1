@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/02/zwei-digitalisierungsprojekte-lanciert.html
 
-**Date processed:** 2025-05-01
-
 ## Zukunftsfähiges «Records Management»
 
 Mit dem Ziel, digitale Technologien für die Bewältigung des Wachstums der ETH zu nutzen, wurde im Projekt rETHink eine Digitalisierungsstrategie für die Verwaltung erarbeitet und letztes Jahr verabschiedet. Ein wichtiges Element dieser Strategie ist die Einführung des so genannten «Digital Transformation Steering Committees» (DTC). Dieses Steuerungsgremium hat den Auftrag, die Schulleitung bei der Digitalisierung der Verwaltungsprozesse, der Umsetzung der Digitalisierungsstrategie und deren Weiterentwicklung zu beraten und zu unterstützen.

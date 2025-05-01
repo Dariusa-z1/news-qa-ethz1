@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/04/globe-eine-holzkuppel-nur-aus-abfall.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Auf den ersten Blick könnte man meinen, hier finde ein Einführungskurs für Holzarbeit statt: In der Schreinerei auf dem Campus Hönggerberg hat sich an diesem Januarmorgen eine sechsköpfige Truppe um die Bandsägemaschine versammelt. Es gilt, massive Holzbalken in dünnere Leisten zu schneiden. Nach kurzer Instruktion legen die einen gleich los. Mit geübten Griffen schieben sie die Balken vors Sägeblatt. Andere zögern noch und fragen nach, ob sie die Hände am richtigen Ort halten.

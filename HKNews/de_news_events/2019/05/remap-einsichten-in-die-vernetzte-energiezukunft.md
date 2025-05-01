@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/05/remap-einsichten-in-die-vernetzte-energiezukunft.html
 
-**Date processed:** 2025-05-01
-
 ## Flexibler Konsument und lokale Intelligenz
 
 Was wird in Zukunft wichtiger: Privatsphäre oder Kosteneffizienz? Diese Frage hat Gabriela Hug, ETH-Professorin für elektrische Energiesysteme, im Hinblick auf langfristige Veränderungen in der Energieversorgung untersucht. Ihr Lösungsansatz zeigt auf, wie Stromverbraucher in Zukunft einen lokalen Speicher nutzen könnten, um sowohl die Belastung des Stromnetzes insgesamt zu optimieren als auch um ihre eigenen Energiekosten zu senken und ihre Privatsphäre zu schützen.

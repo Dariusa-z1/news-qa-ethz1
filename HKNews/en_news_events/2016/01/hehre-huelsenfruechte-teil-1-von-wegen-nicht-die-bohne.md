@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/01/hehre-huelsenfruechte-teil-1-von-wegen-nicht-die-bohne.html
 
-**Date processed:** 2025-05-01
-
 ## Das Erfolgsgeheimnis der Hülsenfrüchtler
 
 Hülsenfrüchte sind die Früchte der Pflanzen der botanischen Familie der Fabaceen, auch Leguminosen genannt. Sie sind die drittgrösste Pflanzenfamilie der Welt – nach den Orchideen und den Korbblütlern – und enorm vielfältig: Manche ihrer Arten sind wunderschön und empfindsam wie etwa die Mimosen. Andere sind wichtige Protagonisten unserer Agrarwirtschaft, wie Soja, Erbse, Linse und eben die diversen Bohnen. Dennoch interessieren wir uns wenig für sie – zu wenig aus Sicht der FAO, die daher 2016 zum Jahr der Hülsenfrüchte ausgerufen hat. [1] Die wahre Stärke der Hülsenfrüchte ist für uns nicht einfach zu erfassen. Nicht ihr Ertrag, ihre Schönheit oder ihre Macht, sondern ihre verborgenen inneren Werte machen sie aus. Die Hülsenfrüchte sind nicht die Kennedys, Windsors oder Kardashians der Pflanzenszene, sondern eher die Gandhis. Sie sollten uns deswegen interessieren, weil sie uns eine nachhaltigere Landwirtschaft mit schonender Intensivierung versprechen.

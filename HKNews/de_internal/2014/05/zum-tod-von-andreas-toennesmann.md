@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/05/zum-tod-von-andreas-toennesmann.html
 
-**Date processed:** 2025-05-01
-
 ## Unbestechlicher Spürsinn, grenzenlose Neugierde
 
 Die eigene Begeisterung für die Architektur anschaulich zum Ausdruck zu bringen und seine Mitmenschen daran teilhaben zu lassen, war eine besondere Gabe, über die Andreas Tönnesmann verfügte. Er war nicht nur einer der renommiertesten Kunst- und Architekturhistoriker der Gegenwart, sondern auch ein Lehrer mit Leib und Seele.

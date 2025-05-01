@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/03/globe-neue-perspektiven-fuer-die-krebsforschung.html
 
-**Date processed:** 2025-05-01
-
 ## Tumorform ist entscheidend
 
 Eigentlich erforscht Dagmar Iber mit ihrer Gruppe im Labor und mit Computermodellen, wie sich aus Zellen und ihrer Erbinformation komplexe dreidimensionale Gewebe und Organe bilden. Krebsforschung hat die ETH-Professorin für rechnergestützte Biologie am Departement Biosysteme in Basel bis vor Kurzem nicht betrieben. Das änderte sich mit einem Aufruf des ETH-Rats, Forschungsgesuche einzureichen, in denen Grundlagenforschende zusammen mit Medizinerinnen und Medizinern neue Forschungsfragen zu Gesundheitsthemen bearbeiten.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/05/und-der-erste-AVETH-diversity-award-geht-an.html
 
-**Date processed:** 2025-05-01
-
 ## Die Kategorien
 
 Die Jury, bestehend aus drei Mitgliedern der AVETH-Diversity-Gruppe und einer Vertreterin von Equal!, teilte die Nominierungen in vier Hauptkategorien ein:

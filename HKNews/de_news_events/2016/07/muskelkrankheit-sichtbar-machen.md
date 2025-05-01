@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/07/muskelkrankheit-sichtbar-machen.html
 
-**Date processed:** 2025-05-01
-
 ## Spezifisch für einen Cannabis-Rezeptor
 
 Viele dürften sich noch an die «Ice Bucket Challenge» von vorletztem Sommer erinnern. Patientenorganisationen rückten mit dieser Kampagne die seltene, aber heimtückische und unheilbare Muskelkrankheit Amyotrophe Lateralsklerose (ALS) ins Bewusstsein der Bevölkerung. In der Ice Bucket Challenge wurden Personen nach dem Schneeballsystem über soziale Medien dazu aufgefordert, ALS-Patientenorganisationen finanziell zu unterstützen oder aber sich einen Eimer Eiswasser über den Kopf zu giessen. Letzteres sollte die Teilnehmenden für kurze Zeit in die Lage eines Patienten versetzen, dessen Muskeln versagen.

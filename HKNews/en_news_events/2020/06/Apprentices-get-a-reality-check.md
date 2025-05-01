@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/06/Apprentices-get-a-reality-check.html
 
-**Date processed:** 2025-05-01
-
 ## Experimenting across disciplines
 
 Established in August 2019, Young’n’Rising is the name of ETH’s new interdisciplinary team of apprentices. Consisting of one coach and eight trainees, the group provides IT, design and communication services to internal customers at ETH and ETH-affiliated institutions, even developing their own brand identity in the process. As part of the apprentices’ multi-year vocational training, Young’n’Rising aims to teach skills such as how to work independently, cope with time pressure, manage expectations and deal with limited resources. This functions as a kind of "reality check”, giving young trainees insight into how the working world actually works and how quickly things can change when working on a project. The team’s biggest project to date – a job for Cybathlon 2020 – showed them just how thin the line between success and frustration can be.

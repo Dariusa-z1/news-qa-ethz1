@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/07/many-students-need-guidance.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Dr Wüest, your department is responsible for organising academic operations. The coronavirus crisis has turned all of that on its head. You probably didn’t imagine your term of office ending like this… Wüest: That’s true. There was a point at the start of March when I realised that this last semester was going to be very different to what I originally had planned. Everything suddenly changed. For one thing, I was supposed to be competing at the World Senior Curling Championships in Canada in April – that would have been a real personal highlight, but obviously it had to be cancelled too. It was quite a challenge to mentally readjust to the new situation.

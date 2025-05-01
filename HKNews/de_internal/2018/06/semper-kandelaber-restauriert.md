@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2018/06/semper-kandelaber-restauriert.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die historischen Kandelaber, die den Polyterrassen-Eingang des ETH-Hauptgebäudes viele Jahrzehnte lang flankierten, haben einiges erlebt. Sie wurden umgestaltet, neu gestrichen, versetzt und zuletzt vom Rost zerfressen. 2013 mussten sie aus Sicherheitsgründen abmontiert werden.

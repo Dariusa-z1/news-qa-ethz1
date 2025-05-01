@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/04/should-the-application-process-be-anonymised.html
 
-**Date processed:** 2025-05-01
-
 ## For
 
 Furkan Sami Oguz, employee of the Chair of Applied Macroeconomics (Illustration: Kornel Stadler)

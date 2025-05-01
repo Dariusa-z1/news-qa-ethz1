@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/05/mm-erc-advanced-grants-2015.html
 
-**Date processed:** 2025-05-01
-
 ## An Erfolge anknüpfen
 
 Die sogenannten ERC Advanced Grants sind bei den Forschenden in ganz Europa äusserst beliebt: Mit ihnen fördert der Europäische Forschungsrat (ERC) ausschliesslich Projekte von etablierten Spitzenforschenden. Sie gelten deshalb auch als besondere Auszeichnung. Zudem dürfen sich Forschenden über einen beachtlichen Geldsegen freuen: Die angenommenen Projekte werden während fünf Jahren mit rund 2,5 bis 3,5 Millionen Franken unterstützt.

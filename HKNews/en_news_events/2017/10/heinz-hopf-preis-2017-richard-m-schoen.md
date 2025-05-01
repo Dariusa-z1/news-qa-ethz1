@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/10/heinz-hopf-preis-2017-richard-m-schoen.html
 
-**Date processed:** 2025-05-01
-
 ## The mystery of the curvature of space
 
 Some geometric spaces are beyond our direct powers of imagination, and describing them requires more than just everyday language. One person with a splendid command of the language of geometry is the American mathematician Richard M. Schoen, professor at Stanford University and the University of California, Irvine. ETH Zurich has awarded him the Heinz Hopf Prize 2017 for his “outstanding and fundamental contributions to differential geometry and geometric analysis”.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/02/erste-sitzung-der-schweizerischen-hochschulkonferenz.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Johann Schneider-Ammann. (Bild: SNF / Mauro Mellone)

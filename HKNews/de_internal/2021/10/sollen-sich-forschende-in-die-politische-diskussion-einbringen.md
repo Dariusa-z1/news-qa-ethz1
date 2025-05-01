@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/10/sollen-sich-forschende-in-die-politische-diskussion-einbringen.html
 
-**Date processed:** 2025-05-01
-
 ## Pro
 
 Nicola Nuti, Doktorand am Departement Biosysteme (Illustration: Kornel Stadler)

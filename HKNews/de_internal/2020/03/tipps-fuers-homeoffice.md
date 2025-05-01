@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/03/tipps-fuers-homeoffice.html
 
-**Date processed:** 2025-05-01
-
 ## Wie schaffe ich mir eine gute Tagesstruktur?
 
 • Starten Sie den Arbeitstag bewusst und möglichst immer gleich. Kleiden Sie sich auch im Homeoffice so, wie Sie das für’s Büro tun würden.

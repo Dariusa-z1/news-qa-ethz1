@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/03/spitaelern-gezielt-helfen.html
 
-**Date processed:** 2025-05-01
-
 ## Matching demand and supply
 
 As the coronavirus continues to spread rapidly, experts expect a sharp rise over the coming weeks in the number of patients who need to be hospitalised. Swiss hospital capacity is therefore likely to be stretched to the limit.

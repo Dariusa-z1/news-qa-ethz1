@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/05/der-zeitpunkt-ist-ideal.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 1995 sorgte Didier Queloz zusammen mit seinem Doktorvater Michel Mayor international für Aufsehen: Die beiden Schweizer Astronomen entdeckten an der Universität Genf den ersten extrasolaren Planeten, der um einen sonnenähnlichen Stern kreist. Für diese bahnbrechende Entdeckung wurden die beiden 2019 mit dem Nobelpreis für Physik ausgezeichnet.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/03/umgang-mit-der-zeit-schluessel-zum-selbstbestimmten-arbeiten.html
 
-**Date processed:** 2025-05-01
-
 ## Die Grundsätze
 
 Im Kern geht ein Zeitmanagement von drei praktischen Grundsätzen aus:

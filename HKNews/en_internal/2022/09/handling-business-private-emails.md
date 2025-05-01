@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/09/handling-business-private-emails.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 This year brings important changes to the way emails are archived at ETH: for example, new emails that have been in the mail archive ( https://mailarchive.ethz.ch ) for more than ten years will be automatically deleted – unless you explicitly opt out of this deletion process ( find out more ).

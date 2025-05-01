@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/12/jahresrueckblick-2019.html
 
-**Date processed:** 2025-05-01
-
 ## Januar
 
 Mit dem neuen Jahr beginnt an der ETH auch eine neue Ära: Der bisherige PSI-Direktor Joël Mesot übernimmt als neuer ETH-Präsident das Ruder in der Schulleitung – «mit viel Freude, Elan und Begeisterung für diese grossartige Institution». Als langjähriger ETH-Physikprofessor ist er mit den Gegebenheiten an der ETH Zürich bereits bestens vertraut. Im Bereich Spin-off-Gründungen beginnt das Jahr mit einer erfreulichen Meldung: 27 neue Unternehmen wurden im Vorjahr gegründet – so viele wie noch nie. Neue Pfade will die ETH Zürich beim Doktorat beschreiten: Am Symposium « Doctoral Supervision » diskutieren 200 ETH-Dozierende zusammen mit Gästen aus dem In- und Ausland, wie die 4000 Doktorierenden an der ETH Zürich besser betreut werden könnten.

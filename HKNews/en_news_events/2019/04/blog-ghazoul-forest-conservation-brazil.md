@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2019/04/blog-ghazoul-forest-conservation-brazil.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In his speech at the World Economic Forum (22 January 2019) Jair Bolsonaro stated “It is now our mission to make progress in harmonising environmental preservation and biodiversity, with much-needed economic development. One should not, of course, emphasize one more than the other.”

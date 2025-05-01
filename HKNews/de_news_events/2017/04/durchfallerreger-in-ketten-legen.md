@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/04/durchfallerreger-in-ketten-legen.html
 
-**Date processed:** 2025-05-01
-
 ## Agglutination nur im Reagenzglas
 
 Impfungen haben sich im Kampf gegen Krankheitserreger wie Bakterien oder Viren bewährt. Sie regen den Körper zur Bildung von schützenden Antikörpern (IgA) an. Auch gegen Darminfekte wurden Impfungen bereits eingesetzt.

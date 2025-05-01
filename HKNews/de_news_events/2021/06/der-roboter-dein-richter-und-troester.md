@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/06/der-roboter-dein-richter-und-troester.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Alexis Block mit «Huggiebot». (Bild: Alexis Block)

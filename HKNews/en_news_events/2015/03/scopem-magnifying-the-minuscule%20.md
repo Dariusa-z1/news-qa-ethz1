@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/03/scopem-magnifying-the-minuscule%20.html
 
-**Date processed:** 2025-05-01
-
 ## The microscopy platform for ETH
 
 It's a long way down. Metal-plated passages wind their way further and further underneath the lawn between the HPM and HPF buildings at ETH's Hönggerberg site before reaching a set of heavy steel doors. Behind these doors are some of ETH's most valuable electron microscopes. The custom-built, reinforced concrete structure nine metres below ground is the only environment in which they are able to perform at their best, free from vibrations and electromagnetic interference fields.

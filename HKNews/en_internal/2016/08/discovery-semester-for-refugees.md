@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/08/discovery-semester-for-refugees.html
 
-**Date processed:** 2025-05-01
-
 ## Attending lectures at ETH
 
 The ‘Discovery semester for refugees’ is aimed at asylum seekers and refugees from crisis regions such as Eritrea, Somalia, Afghanistan and Syria, who have started or completed a degree in a technical or scientific field in their home country.

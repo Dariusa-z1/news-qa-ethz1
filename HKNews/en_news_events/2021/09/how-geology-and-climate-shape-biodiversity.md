@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/09/how-geology-and-climate-shape-biodiversity.html
 
-**Date processed:** 2025-05-01
-
 ## Palms with few species
 
 Tropical rainforests are the most biodiverse habitats on Earth. They are home to a huge number of different plants, animals, fungi and other organisms. These forests are primarily spread over three continents, concentrated in the Amazon Basin in South America, the Congo Basin in Central Africa, and the vast archipelago of Southeast Asia.

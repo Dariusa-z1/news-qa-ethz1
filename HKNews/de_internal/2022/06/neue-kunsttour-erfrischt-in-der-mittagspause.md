@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/06/neue-kunsttour-erfrischt-in-der-mittagspause.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In den Gebäuden der ETH Zürich finden sich neben Reagenzgläsern, Messgeräten und Fachbüchern auch 300 sehenswerte Kunstwerke. Einen Teil dieses ETH-Kunstinventars können Sie ab sofort auf dem geführten Rundgang «Kunst zum Zmittag» im angenehm kühlen Hauptgebäude entdecken. Erkunden Sie in nur 60 Minuten das faszinierende Spannungsfeld zwischen exakten Wissenschaften und vieldeutiger Kunst.

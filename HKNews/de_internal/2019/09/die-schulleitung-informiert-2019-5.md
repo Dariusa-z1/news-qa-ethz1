@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/09/die-schulleitung-informiert-2019-5.html
 
-**Date processed:** 2025-05-01
-
 ## Neue Ziele für die Zulassung zum Masterstudium
 
 Die Zulassung zum Masterstudium wird neu organisiert. Die Rektorin hat dazu das Projekt «Redefine Masteradmission» initiiert. In einem der Teil­projekte unter Leitung des Prorektors Studium, Lorenz Hurni, wurden die Ziele neu formuliert, welche die ETH Zürich bei der Zulassung von Stu­die­renden zum Masterstudium verfolgt. Die Verantwortlichen für die Studien­gänge haben im Frühjahr dazu Stellung genommen. Nun hat die Schul­leitung die finale Version genehmigt. Die Zulassung zum Masterstudium soll sich künftig an fünf übergeordneten Zielen orientieren:

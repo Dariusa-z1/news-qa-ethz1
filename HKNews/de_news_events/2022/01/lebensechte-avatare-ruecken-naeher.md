@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/01/lebensechte-avatare-ruecken-naeher.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Spätestens seit der Corona-Pandemie starren wir noch häufiger in den Bildschirm. Sitzungen, Gespräche mit Arbeitskolleg:innen oder Konferenzen finden per Videotelefonie statt. Geht es nach den grossen Tech-Unternehmen, sollen wir uns dagegen schon ab nächstem Jahr in einer virtuellen Erlebniswelt, dem sogenannten Metaversum, treffen können – mittels 3D-Brillen und spezialisierten Computerprogrammen.

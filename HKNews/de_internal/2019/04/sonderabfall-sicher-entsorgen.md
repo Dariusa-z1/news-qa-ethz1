@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2019/04/sonderabfall-sicher-entsorgen.html
 
-**Date processed:** 2025-05-01
-
 ## Auch kleinste Mengen von Antibiotika sind Sonderabfall
 
 Die ETH Zürich wächst. Bezogen auf Studierende und Mitarbeitende betrug das Wachstum zwischen 2015 und 2018 insgesamt über 3'000 Personen. Entsprechend kommt es in den Laboren auch zur Verwendung von mehr Chemikalien, Forschungsmaterialien – und zu mehr Abfallprodukten, die daraus entstehen. Das Plus von entsorgten Lösemitteln, Säuren, Laugen oder Akkus beträgt 2018 gegenüber 2015 rund 30 Prozent.

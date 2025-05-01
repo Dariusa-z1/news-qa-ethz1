@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/11/artificial-intelligence-finds-ways-to-develop-new-drugs.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • To date, identifying and producing new active pharmaceutical ingredients has been a complex process of trial and error. Researchers at ETH Zurich have developed an AI model that helps to identify suitable molecular sites for the development of new active ingredients.

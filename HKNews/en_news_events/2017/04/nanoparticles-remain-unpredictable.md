@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/04/nanoparticles-remain-unpredictable.html
 
-**Date processed:** 2025-05-01
-
 ## Particles attach themselves to everything
 
 The nanotech industry is booming. Every year, several thousands of tonnes of man-made nanoparticles are produced worldwide; sooner or later, a certain part of them will end up in bodies of water or soil. But even experts find it difficult to say exactly what happens to them there. It is a complex question, not only because there are many different types of man-made (engineered) nanoparticles, but also because the particles behave differently in the environment depending on the prevailing conditions.

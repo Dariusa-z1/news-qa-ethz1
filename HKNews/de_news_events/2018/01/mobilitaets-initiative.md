@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/01/mobilitaets-initiative.html
 
-**Date processed:** 2025-05-01
-
 ## Zwei bis vier neue Professuren
 
 Stau auf den Strassen, überfüllte Züge und zusätzliche Busse im Pendlerverkehr: Die bestehenden Verkehrssysteme stossen an ihre Grenzen. Der technologische Fortschritt ermöglicht neue Lösungen – vom autonomen Fahren über die bessere Ausnutzung von Infrastrukturen auf Schiene und Strasse bis hin zur Tür-zu-Tür-Mobilität. Um den zahlreichen Herausforderungen gerecht zu werden und marktfähige Innovationen zu schaffen, braucht es die Zusammenarbeit von Wissenschaft, Wirtschaft und öffentlichen Verkehrsanbietern. Die ETH Zürich und die SBB lancieren deshalb die «ETH Mobilitäts-Initiative».

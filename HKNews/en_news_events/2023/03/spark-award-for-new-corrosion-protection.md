@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2023/03/spark-award-for-new-corrosion-protection.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 This year, the expert jury immediately reached a unanimous decision: from among the five inventions nominated for the Spark Award 2023, the whole panel chose the novel corrosion protection developed by researchers from the Laboratory for Multifunctional Materials.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/07/workshop-platform-design-and-development.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Since April this year, customers can call on the Workshop Platform for assistance with their design and development projects. In a short period of time, the ETH technology platform has developed into a full-service provider (FSP). Its extensive offering is primarily for all ETH researchers, who now have low-threshold, uncomplicated access to the new specialist area of design and development. The design unit works with the SolidWorks 2020 CAD system but can read and process various CAD data.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/12/a-world-record-and-a-world-premiere.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 With 12 select highlights, the editorial team at ETH News looks back on an eventful year and bids its readers farewell for the Christmas break. We look forward to bringing you more daily news from ETH as of 2 January 2017. Merry Christmas and a Happy New Year!

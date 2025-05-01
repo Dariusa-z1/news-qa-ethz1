@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2023/02/gess-bibliothek-erweitert-ihre-oeffnungszeiten-und-geht-in-richtung-open-library.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Seit Mitte Februar ist der Zugang zur GESS-Bibliothek auch in den frühen Abendstunden möglich. Der Eintritt erfolgt dann mit der ETH-Karte rechts neben der Eingangstür. Bitte beachten Sie dabei folgendes:

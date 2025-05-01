@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/07/the-new-york-times-online-verfuegbar-mehr-wissen-mehr-welt.html
 
-**Date processed:** 2025-05-01
-
 ## … expand your world knowledge and …
 
 • Go to external page nytimes.com/passes call_made

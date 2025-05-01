@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/09/der-eth-medizinbachelor-geht-in-den-regulaeren-betrieb.html
 
-**Date processed:** 2025-05-01
-
 ## Ein Plus an Naturwissenschaften und Technologie
 
 Seit Herbst 2017 bietet die ETH Zürich jedes Jahr 100 Studienplätze in Humanmedizin an. Der Bachelorstudiengang – ermöglicht durch das Sonderprogramm Humanmedizin des Bundes – wurde in enger Zusammenarbeit mit universitären und klinischen Partnern von Grund auf neu konzipiert und zunächst als Pilotprojekt über die fünf Eintrittsjahrgänge 2017 bis 2021 lanciert. Diesen Sommer haben die ersten Medizinstudierenden ihren Bachelor absolviert.

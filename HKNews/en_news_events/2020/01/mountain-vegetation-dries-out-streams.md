@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/01/mountain-vegetation-dries-out-streams.html
 
-**Date processed:** 2025-05-01
-
 ## Green water predominates in dry and warm summers
 
 Until now, scientists assumed that most plants suffer from water stress during droughts: they close their stomata to retain water, stop growing and, in the worst case, wither. As a result, there is a decrease in evaporation and transpiration of water from vegetation, soil and water surfaces – a process that experts call evapotranspiration. “But despite dry and warm conditions, droughts are not occurring at higher altitudes in, say, forested mountain areas,” says Simone Fatichi, senior assistant at the ETH Zurich Institute of Environmental Engineering.

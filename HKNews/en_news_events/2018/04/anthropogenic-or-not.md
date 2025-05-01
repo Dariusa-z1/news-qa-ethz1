@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/04/anthropogenic-or-not.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The drilling rig of the deep geothermal project near Pohang, South Korea. (Photograph: Robert Westaway, University of Glasgow)

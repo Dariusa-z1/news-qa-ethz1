@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/11/latsis-preis-der-eth-an-randall-platt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Man könnte ihn als Werkzeugmacher der modernen Biologie bezeichnen. Randall Platt, Professor für Bioengineering am Departement für Biosysteme der ETH Zürich in Basel, hat in seiner noch jungen, aber ausgesprochen erfolgreichen Karriere schon viele Methoden und Technologien entwickelt, mit denen Forschende der Life Sciences in Labors weltweit arbeiten.

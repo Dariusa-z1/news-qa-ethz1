@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/09/shining-brightly-on-the-european-stage.html
 
-**Date processed:** 2025-05-01
-
 ## Leading the way in a range of disciplines
 
 Six scientists from ETH Zurich have triumphed at the prestigious competition for Starting Grants from the European Research Council (ERC). Each will now receive around CHF 1.6 million in funding to advance their research projects. In total, more than CHF 9.3 million will go to researchers who designed their projects at ETH Zurich. The six talented young researchers come from research fields as diverse as visual computing, health science, and quantum optics, but all have one thing in common: scientific excellence.

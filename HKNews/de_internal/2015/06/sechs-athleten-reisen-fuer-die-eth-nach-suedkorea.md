@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2015/06/sechs-athleten-reisen-fuer-die-eth-nach-suedkorea.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Sechs Sportler sind Studierende der ETH Zürich:

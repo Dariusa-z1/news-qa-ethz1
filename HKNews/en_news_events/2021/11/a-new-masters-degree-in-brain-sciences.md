@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/11/a-new-masters-degree-in-brain-sciences.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Psychological and neurological disorders such as depression and dementia are among the most common illnesses worldwide and represent a severe burden on society. Understanding these illnesses and developing more effective treatments requires specialists who understand the relationships between biology, technology and clinical neurology. Training such experts is the goal of a new Master's Degree in Interdisciplinary Brain Sciences (MSc IDB) offered by the Neuroscience Center Zurich , jointly run by ETH Zurich and the University of Zurich from September 2022.

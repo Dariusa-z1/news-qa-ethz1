@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/06/ausbildung-mit-realitaets-check.html
 
-**Date processed:** 2025-05-01
-
 ## Fachübergreifend ausprobieren
 
 «Young’n’Rising – jung und aufstrebend» nennen die acht Lernenden ihr neugegründetes, interdisziplinäres Team. Als Teil der Ausbildung wickeln sie, begleitet von einem Coach seit August 2019 selbständig Aufträge im Bereich Informatik, Design und Kommunikation von internen und ETH-nahen Kunden ab und entwickelten dafür ihren eigenen Markenauftritt. Ziel der Ausbildungseinheit sind das Erlernen von eigenverantwortlichem Arbeiten sowie der Umgang mit Zeitdruck, Erwartungshaltung und einschränkenden Rahmenbedingungen. Dadurch erfahren sie schon während der Ausbildung, wie die reale Arbeitswelt funktioniert und wie schnell sich die Arbeitsbedingungen in einem laufenden Projekt verändern können. So erlebten sie gleich bei ihrem bisher grössten Auftrag, wie nahe Erfolg und Frust sein können.

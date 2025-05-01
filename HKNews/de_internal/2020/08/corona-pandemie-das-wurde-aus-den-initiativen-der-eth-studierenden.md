@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/08/corona-pandemie-das-wurde-aus-den-initiativen-der-eth-studierenden.html
 
-**Date processed:** 2025-05-01
-
 ## Frühling 2020: Als die Welt eine andere wurde
 
 Rahel Schmidt und Nicola Rüegsegger verbindet einiges. Nicht nur ein Studium an der ETH Zürich – sie in Humanmedizin, er in Informatik – sondern auch ein Gedanke, den beide unabhängig voneinander zu Beginn der Corona-Pandemie hegten: «Da muss ich etwas tun!» Darauf folgte die Gründung zweier Plattformen – externe Seite Students4Hospitals und externe Seite Care Now – die sie beide mit beachtlichem Tempo, pragmatisch und mit viel Teamarbeit umsetzten.

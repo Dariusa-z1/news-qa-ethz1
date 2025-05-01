@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/06/cyber-risks-summit.html
 
-**Date processed:** 2025-05-01
-
 ## Technologie im Kampf gegen Cyber-Attacken
 
 Die Wannacry-Schadsoftware, russische Hacker, Wahlmanipulation: Cyber-Attacken auf Computernetze machen in letzter Zeit immer wieder Schlagzeilen und zeigen auf, wie entscheidend Daten- und Informationssicherheit für unsere Gesellschaft sind. Die ETH Zürich hat schon früh die Wichtigkeit der Informationssicherheit erkannt und deshalb vor rund 15 Jahren das Zurich Information Security & Privacy Center (ZISC) gegründet, das den Cyber Risks Summit organisiert hat. Die branchenübergreifende Arbeit des ZISC ist aktueller denn je, wie ETH-Präsident Lino Guzzella auch in seiner Eröffnungsrede betonte: «Es ist Zeit, dass wir die Kräfte aus Wissenschaft, Wirtschaft und Staat bündeln für einen wirksamen Schutz gegen die Gefahren aus dem Cyberspace.» Nebst der Zusammenarbeit mit der Industrie hob Lino Guzzella auch die Wichtigkeit der Grundlagenforschung hervor und plädierte für grössere Investitionen in diesem Bereich.

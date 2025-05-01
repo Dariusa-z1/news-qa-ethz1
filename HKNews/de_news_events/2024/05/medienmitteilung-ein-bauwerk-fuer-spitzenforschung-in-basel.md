@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/05/medienmitteilung-ein-bauwerk-fuer-spitzenforschung-in-basel.html
 
-**Date processed:** 2025-05-01
-
 ## Im Herzen der Basler Akademien
 
 Es war eine kühne Idee, als die ETH Zürich 2007 ein neues Departement gründete, das Forschende aus drei verschiedenen Disziplinen zusammenführen sollte – und das auch noch in Basel. «Basel ist die Life-Science-Hauptstadt Europas, und für uns war und ist es eine unglaubliche Chance, hier etwas Neues aufzubauen», sagt Sven Panke, Leiter des Departements für Biosysteme. «Gesundheit und Medizin sowie Datenwissenschaften zählen zu den strategischen Schwerpunkten der ETH Zürich. Im Departement für Biosysteme kommen diese Bereiche zusammen», ergänzt Ulrich Weidmann, Vizepräsident für Infrastruktur an der ETH. «Mit unserem Departement und nun auch dem neuen Gebäude in Basel können wir den Austausch mit der hiesigen Industrie und Akademie weiterentwickeln und gemeinsam die medizinische Forschung vorantreiben».

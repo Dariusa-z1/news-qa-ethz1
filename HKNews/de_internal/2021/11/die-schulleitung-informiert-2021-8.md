@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/11/die-schulleitung-informiert-2021-8.html
 
-**Date processed:** 2025-05-01
-
 ## Mitarbeitendenbefragung 2021: Handlungsfelder und Massnahmen
 
 Im Frühling 2021 wurde an der ETH Zürich eine Mitarbeitendenbefragung durchgeführt. Die Kommunikation der Ergebnisse erfolgte im Sommer dieses Jahres. Nun hat die Schulleitung, gemeinsam mit dem Vizepräsidium für Personalentwicklung und Leadership (VPPL), folgende vier Handlungsfelder festgelegt:

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/03/of-pastures-and-oil-palm.html
 
-**Date processed:** 2025-05-01
-
 ## Reducing environmental impacts
 
 Oil palm production is becoming an important economic activity in Africa, Central- and South-America. Many individuals and international organizations have voiced their concerns that the increasing interest in oil palm cultivation may pose a threat to biodiversity and ecosystems. The large-scale deforestation that has occurred in South East Asia to accommodate this crop serves as a sad example that such concerns are not unfounded. In a previous entry in this blog [1] I argued that oil palm expansion in the African context could take advantage of the relatively large, but underproductive, areas already planted with this crop. Improving yields in these areas can increase overall production, and reduce pressures for forest conversion to accommodate plantations in the region. In this entry I would like to shift my focus to the South American case and explore a development pathway that could give the region competitive advantages when expanding its oil palm sector sustainably.

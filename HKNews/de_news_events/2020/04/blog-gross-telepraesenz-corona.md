@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/04/blog-gross-telepraesenz-corona.html
 
-**Date processed:** 2025-05-01
-
 ## Ein Holodeck – so ähnlich wie bei Star Trek
 
 Stellen sie sich vor, sie sagen dem System einfach «Ruf meine Eltern an» – die physisch weit entfernt sind oder die sie nicht besuchen dürfen, weil sie zu einer Risikogruppe gehören – und die fotorealistischen Avatare ihrer Eltern erscheinen bei ihnen zu Hause und setzen sich auf das Sofa neben sie, um ein Gespräch zu führen. Alles Science-Fiction? Nein, wir sind nicht allzu weit von einer solchen Realität entfernt, denn die Technologie ist fast da.

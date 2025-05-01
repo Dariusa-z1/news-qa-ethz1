@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/02/letting-knowledge-flow-freely.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Its core statements are:

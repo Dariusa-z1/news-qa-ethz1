@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/07/bundesrat-waehlt-drei-neue-mitglieder-in-den-eth-rat.html
 
-**Date processed:** 2025-05-01
-
 ## Nachfolgerin für Markus Stauffacher
 
 Auf Antrag des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung (WBF) wählte der Bundesrat die Diplom-Volkswirtin Christiane Leister (*1955), Inhaberin und Verwaltungsratspräsidentin der Leister-Gruppe in Kägiswil (OW) und Marc Bürki (*1961), dipl. Elektroingenieur der EPFL sowie Gründer und CEO von Swissquote, als neue Mitglieder des ETH-Rats.

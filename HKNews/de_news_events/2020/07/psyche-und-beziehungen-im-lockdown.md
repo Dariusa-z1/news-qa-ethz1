@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/07/psyche-und-beziehungen-im-lockdown.html
 
-**Date processed:** 2025-05-01
-
 ## Einsamkeit und Ängste
 
 Um den Einfluss des Lockdowns zu ermitteln, verglichen die Forschenden Antworten aus zwei Befragungswellen mit derselben Untersuchungsgruppe: Eine im September 2019 und eine im April 2020, rund zwei Wochen nach Inkrafttreten der «ausserordentlichen Lage» und des Versammlungsverbots sowie der Schliessung der Universitäten. Zusätzlich verglichen sie mit einer anderen Kohorte von Studierenden, die ein Jahr vor der Corona-Krise eine ähnliche Umfrage beantwortet hatte.

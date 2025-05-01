@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/03/sparen-computer-energie.html
 
-**Date processed:** 2025-05-01
-
 ## Online-Optimierung
 
 Was ist die günstigste Route für die Lieferwagen des Fuhrparks? Welche Variante eines virtuellen Auto- oder Flugzeugprototyps schneidet im digitalen Windkanal am besten ab? Welche Form der Brennkammer garantiert den höchsten Wirkungsgrad? Für solche klassischen Optimierungsaufgaben werden Computer gerne eingesetzt, sie lösen sie besser und schneller als Menschen. Motiv ist meistens die Minimierung von Kosten, doch ist die Energieeffizienz dabei oft ein wichtiger Faktor.

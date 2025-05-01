@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/01/neustart-fuer-den-hochschulraum-schweiz-.html
 
-**Date processed:** 2025-05-01
-
 ## Lino Guzzella: «Plattform für den Dialog»
 
 Neu zu Mitgliedern des Vorstandes wählte die Plenarversammlung auch:

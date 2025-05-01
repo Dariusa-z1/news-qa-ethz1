@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/12/highlights-guzzella.html
 
-**Date processed:** 2025-05-01
-
 ## Corine Mauch, Mayor of Zurich
 
 During his tenure, he dedicated himself to ETH Zurich and to promoting Switzerland as a research powerhouse. He has driven forward important initiatives and launched new projects such as the Bachelor's in medicine, the project ETH+ and the Critical Thinking initiative. At the end of his presidential term, we are giving the floor to some of Lino Guzzella's companions.

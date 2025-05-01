@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/06/wie-die-hellsten-leuchten-im-all-flimmern.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 «Hanny's Voorwerp» (grün, unten) ist ein astronomisches Objekt, das sich vor rund 200‘000 Jahren ausgeschaltet hat. Oben ist die Spiralgalaxie IC 2497 sichtbar. (Bild: NASA, ESA, W. Keel, Galaxy Zoo Team)

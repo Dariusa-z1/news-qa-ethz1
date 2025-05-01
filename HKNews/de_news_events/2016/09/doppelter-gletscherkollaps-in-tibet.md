@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/09/doppelter-gletscherkollaps-in-tibet.html
 
-**Date processed:** 2025-05-01
-
 ## Mit vereinten Kräften den Ursachen auf der Spur
 
 Um die Ursache der ersten Eislawine vom 17. Juli zu verstehen, haben wir – ein internationales Team von Forschenden der ETH, der WSL (SLF) [3] sowie der GAPHAZ-Kommission (Glacier And Permafrost Hazards In Mountains) [4] – begonnen, die dem Kollaps vorrangehende Entwicklung des Gletschers zu untersuchen und die verursachte Eislawine zu charakterisieren. Dazu analysierten wir zahlreiche Satellitenbilder und versuchten, die Lawine mit der am SLF entwickelten Simulationssoftware RAMMS (Rapid Mass Movements) [5] zu reproduzieren.

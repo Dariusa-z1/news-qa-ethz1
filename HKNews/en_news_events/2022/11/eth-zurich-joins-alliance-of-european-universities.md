@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/11/eth-zurich-joins-alliance-of-european-universities.html
 
-**Date processed:** 2025-05-01
-
 ## Contribution to European educational area
 
 As of today, ETH is part of the Enhance Alliance. ETH Rector Günther Dissertori signed a memorandum of understanding to that effect today in Aachen at a meeting of the rectors.

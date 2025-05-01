@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/04/novel-form-of-iron-for-fortification-of-foods.html
 
-**Date processed:** 2025-05-01
-
 ## Combining protein fibres and iron nanoparticles
 
 Around 1.2 billion people worldwide suffer from iron deficiency, with women worse affected than men. In Europe, one in five women around the age of 20 suffers from iron deficiency. Typical symptoms include diminished work performance, fatigue, anaemia and headaches.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/02/mehr-einsatz-fuer-die-sdgs.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In Australien toben verheerende Buschbrände. Die Menschen in Äthiopien, Kenia und Somalia leiden unter einer beispiellosen Heuschreckenplage. Und in der Schweiz sind Gemeinden verunsichert, weil ihr Trinkwasser an manchen Orten so stark durch Pestizide verunreinigt ist, dass Brunnen geschlossen werden.

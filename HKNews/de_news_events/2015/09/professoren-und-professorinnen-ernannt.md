@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/09/professoren-und-professorinnen-ernannt.html
 
-**Date processed:** 2025-05-01
-
 ## Ernennungen
 
 Wie der ETH-Rat mitteilt, hat er an seiner Sitzung vom 23. und 24. September 2015 auf Antrag des Präsidenten der ETH Zürich, Lino Guzzella, neun Personen zum Professor an der ETH Zürich ernannt, den Rücktritt von acht Professoren und Professorinnen mit Verdankung zur Kenntnis genommen und drei Professorentitel verliehen.

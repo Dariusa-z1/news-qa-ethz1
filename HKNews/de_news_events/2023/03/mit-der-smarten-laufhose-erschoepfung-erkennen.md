@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/03/mit-der-smarten-laufhose-erschoepfung-erkennen.html
 
-**Date processed:** 2025-05-01
-
 ## Das Wichtigste in Kürze
 
 • Ein neuer Textilsensor misst Körperbewegungen sehr präzise, ohne dass es dafür elektronische Bauteile wie Batterien oder Chips braucht.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/09/we-have-grown-more-realistic.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Ms Günther, Mr Brugger, the NADEL Center for Development and Cooperation is celebrating its 50th anniversary. How has the general understanding of development aid changed since the centre was founded?

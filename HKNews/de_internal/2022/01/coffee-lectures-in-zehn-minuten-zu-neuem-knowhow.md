@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/01/coffee-lectures-in-zehn-minuten-zu-neuem-knowhow.html
 
-**Date processed:** 2025-05-01
-
 ## So funktionieren die Coffee Lectures
 
 • Recherchieren in der neuen Web of Science-Oberfläche – 2. Februar

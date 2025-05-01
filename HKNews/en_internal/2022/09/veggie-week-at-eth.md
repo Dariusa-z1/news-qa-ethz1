@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/09/veggie-week-at-eth.html
 
-**Date processed:** 2025-05-01
-
 ## Spotlight on sustainability
 
 This Saturday, 1 October, is the official World Vegetarian Day. Switzerland marks this occasion with Swisstainable Veggie Day : 1,000 restaurants throughout the country highlight vegetarian dishes on their menus, aiming to set a milestone for sustainable gastronomy.

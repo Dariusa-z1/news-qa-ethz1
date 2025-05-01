@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/10/research-collection-lesen-was-interessiert.html
 
-**Date processed:** 2025-05-01
-
 ## Pandemie first
 
 Vom Klimawandel, genauer gesagt den möglicherweise dadurch verursachten Extremereignissen, handelt nicht nur der am meisten heruntergeladene Datensatz, sondern auch der Artikel mit dem höchsten Altmetric Score:

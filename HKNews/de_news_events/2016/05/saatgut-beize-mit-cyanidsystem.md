@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/05/saatgut-beize-mit-cyanidsystem.html
 
-**Date processed:** 2025-05-01
-
 ## Beim Knabbern entsteht Blausäure
 
 Den Kern nicht essen, der ist giftig: Das sagen Eltern ihren Kindern, ehe diese ihren ersten Pfirsich essen. Tatsächlich enthalten Pfirsichkerne, die sich in der nussartigen Schale verstecken, Amygdalin, eine Substanz, die im Magen in giftige Blausäure zerfällt.

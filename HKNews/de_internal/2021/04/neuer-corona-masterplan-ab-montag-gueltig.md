@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/04/neuer-corona-masterplan-ab-montag-gueltig.html
 
-**Date processed:** 2025-05-01
-
 ## Mehr Präsenzoptionen für Studierende
 
 Wie bereits in Intern aktuell und der Townhall angekündigt, hat die Schulleitung den Corona-Masterplan für die ETH Zürich überarbeitet. Damit reagiert sie auf die Lockerungen, die der Bundesrat letzte Woche kommuniziert hat. Der neue Plan tritt am kommenden Montag, 26. April in Kraft und sieht gegenüber dem aktuellen Dokument nur geringfügige Änderungen vor. Der Lockerungsschritt richtet sich vor allem auch an Studierende.

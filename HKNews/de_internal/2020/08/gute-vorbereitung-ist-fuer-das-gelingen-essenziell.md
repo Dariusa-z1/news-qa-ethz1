@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/08/gute-vorbereitung-ist-fuer-das-gelingen-essenziell.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Seit März sind an der ETH sämtliche Veranstaltungen abgesagt. Wie arbeiten Sie zurzeit? Da bis August keine Veranstaltungen stattfinden, kümmern wir uns zurzeit darum, wie es ab September weitergeht. Denn es gibt Veranstaltungen – speziell wenn es um die Vermittlung von Wissen geht, wie zum Beispiel an wissenschaftlichen Konferenzen – die nicht um ein Jahr verschoben werden können. Oder denken Sie an Diplom- oder Promotionsfeiern. Dieses Jahr wird nichts so stattfinden, wie wir es uns vorgestellt haben. Dafür müssen wir nun Lösungen finden. Es ist für uns eine grosse Herausforderung, Veranstaltungen mit allen Sicherheitsmassnahmen durchzuführen und dabei die gleichen Emotionen zu erzeugen.

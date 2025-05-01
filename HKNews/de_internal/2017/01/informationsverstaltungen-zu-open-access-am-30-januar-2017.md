@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2017/01/informationsverstaltungen-zu-open-access-am-30-januar-2017.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Inhalt

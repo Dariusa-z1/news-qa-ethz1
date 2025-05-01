@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/06/schluesseluebergabe-auf-dem-frueebueel.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Erholungssuchende auf dem Zugerberg haben es schon gemerkt: Auf dem ehemaligen Gutsbetrieb Früebüel hat sich einiges getan. Die landwirtschaftliche Bildungs- und Forschungsplattform AgroVet-Strickhof hat in Zusammenarbeit mit der ETH Zürich in den vergangenen zwei Jahren Stallungen, Betriebsgebäude und Gehege umgebaut und erweitert. Nun sind die Bauarbeiten, fast drei Jahre nach Erteilung der Baubewilligung durch den Kanton Zug, abgeschlossen.

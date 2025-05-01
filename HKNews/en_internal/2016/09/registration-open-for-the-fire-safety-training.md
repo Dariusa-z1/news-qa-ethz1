@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2016/09/registration-open-for-the-fire-safety-training.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The safety, security, health and environment (SSHE) administrative department offers fire safety training this year again. In the theoretical part, participants will be taught how to prevent fires from breaking out. In the practical part, the participants will learn how to behave in case of a fire. Each student will have the opportunity to fight a fire with a portable fire extinguisher and a fire blanket under expert guidance.

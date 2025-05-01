@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/01/young-researchers-show-entrepreneurial-spirit%20.html
 
-**Date processed:** 2025-05-01
-
 ## Eight spin-offs from the ICT sector
 
 As concrete figures reflect, researchers are taking the plunge and striking out on their own more and more frequently. For many talented young scientists, found-ing their own firm constitutes an attractive alternative to a scientific career or working in the private sector. Members of ETH Zurich founded twenty-two spin-offs last year. The number of company foundations has thus remained constantly high in the last five years. "We can now reap the fruits of all the development work we have put in recent years," says Roland Siegwart, Vice-President of Research and Corporate Relations. The "ETH Zurich spin-off" label is well established — due in no small part to many successful young companies that have emerged from the university in recent years.

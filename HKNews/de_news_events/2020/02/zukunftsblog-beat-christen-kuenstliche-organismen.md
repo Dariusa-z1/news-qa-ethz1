@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/02/zukunftsblog-beat-christen-kuenstliche-organismen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Jedes Lebewesen auf der Erde hat Eltern, Grosseltern und Urgrosseltern und steht in einer ununterbrochenen Abstammungslinie zu den allerersten Organismen, die vor Milliarden von Jahren hier gelebt haben. Bald werden wir jedoch Lebewesen kennen, die keine solche direkte Abstammung haben. Die ersten dieser Lebewesen werden Bakterien sein. Bioingenieure werden solche Bakterien am Computer entwickeln, speziell zugeschnitten auf Anwendungen in der Medizin, Industrie oder Landwirtschaft. Mithilfe von DNA-Synthesegeräten werden sie deren Genom von Grund auf neu herstellen und damit künstliche Organismen entwickeln.

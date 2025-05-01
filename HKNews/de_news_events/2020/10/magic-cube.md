@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/10/magic-cube.html
 
-**Date processed:** 2025-05-01
-
 ## Nichts geht mehr
 
 «Bevor ich ‹Magic Cube› kennengelernt habe, konnte ich mir eigentlich nicht viel unter Elektrotechnik vorstellen. Dabei begegnet man ihr eigentlich überall im täglichen Leben», sagt eine Schülerin des Mathematisch-Naturwissenschaftlichen Gymnasiums Rämibühl (MNG Rämibühl), an dem das neue Lehrmittel Mitte Oktober diesen Jahres zum ersten Mal in einer Schulklasse getestet wurde. Entwickelt wurde das Magic Cube von der ETH Zürich zusammen mit dem Technologieunternehmen ABB und mint & pepper, dem Nachwuchsförderungsprojekt des Wyss Zurich, der ETH und Universität Zürich.

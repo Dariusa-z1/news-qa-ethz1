@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/08/klimarisiko-schadinsekten.html
 
-**Date processed:** 2025-05-01
-
 ## Vorsorgen mit Modellen
 
 Der Klimawandel lässt nicht nur Gletscher schmelzen, das Laub früher im Jahr austreiben und Bergblumen höher steigen, er verändert auch die klimatischen Bedingungen für das Vorkommen von landwirtschaftlichen Schädlingen wie Bakterien, Viren, Pilze und Insekten.

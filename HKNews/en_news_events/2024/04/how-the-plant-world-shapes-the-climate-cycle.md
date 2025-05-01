@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/04/how-the-plant-world-shapes-the-climate-cycle.html
 
-**Date processed:** 2025-05-01
-
 ## In brief
 
 • Researchers are using new computer models to simulate how climate change, continental drift and plant life have interacted over 390 million years of the Earth's history.

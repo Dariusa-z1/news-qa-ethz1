@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2015/01/lokales-kuestenmanagement-in-madagaskar.html
 
-**Date processed:** 2025-05-01
-
 ## Madagaskars Südwesten
 
 Madagaskars Artenvielfalt ist einzigartig. 10'000 der weltweiten Pflanzen- und knapp 800 der Wirbeltierspezies existieren nur auf dieser Insel im Indischen Ozean [1]. Doch auch die Gewässer um die Insel sind bemerkenswert: Im Südwesten erstreckt sich auf über 300 Kilometer das drittgrösste Korallenriff der Erde, das Toliara Reef, das den lange als ausgestorben geltenden Quastenflosser beheimatet und Buckelwalen als Aufzuchtsgebiet für ihre Jungen dient.

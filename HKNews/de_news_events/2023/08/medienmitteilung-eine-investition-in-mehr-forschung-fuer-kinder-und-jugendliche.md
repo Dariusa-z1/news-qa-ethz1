@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/08/medienmitteilung-eine-investition-in-mehr-forschung-fuer-kinder-und-jugendliche.html
 
-**Date processed:** 2025-05-01
-
 ## Neue Professuren für neues Know-how
 
 Das 2019 ins Leben gerufene Botnar Research Centre for Child Health (BRCCH) hat es sich zum Ziel gesetzt, an Themen zu forschen, die Kindern und Jugendlichen auf der ganzen Welt zugutekommen, insbesondere denen, die in Ländern mit niedrigem und mittlerem Einkommen leben. Im Zentrum arbeiten die Universität Basel und die ETH Zürich eng mit dem Universitäts-Kinderspital beider Basel (UKBB) sowie dem Schweizerischen Tropen- und Public Health-Institut (Swiss TPH) zusammen.

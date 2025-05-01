@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/10/back-to-the-future-of-climate.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Between 57 and 55 million years ago, the geological epoch known as the Paleocene ended and gave way to the Eocene. At that time, the atmosphere was essentially flooded by the greenhouse gas carbon dioxide, with concentration levels reaching 1,400 ppm to 4,000 ppm. So it’s not hard to imagine that temperatures on Earth must have resembled those of a sauna. It was hot and humid, and the ice on the polar caps had completely disappeared.

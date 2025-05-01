@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/04/globe-a-wooden-dome-made-solely-from-waste.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Strolling into the carpentry shop on the Hönggerberg campus on this January morning, you could be forgiven for thinking you’ve stumbled into a beginners’ woodworking course. Huddled around a bandsaw, six people are getting a quick tutorial on how to cut timber beams into rectangular struts. Once they’ve received their instructions, some get straight down to work, deftly guiding the timber past the saw blade. Others – clearly less confident – call on the instructor’s help to make sure they’re putting their hands in the right place.

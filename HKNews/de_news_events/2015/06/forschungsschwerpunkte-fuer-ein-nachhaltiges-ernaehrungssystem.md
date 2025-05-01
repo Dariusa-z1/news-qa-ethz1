@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/06/forschungsschwerpunkte-fuer-ein-nachhaltiges-ernaehrungssystem.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH-News: Das World Food System Center der ETH Zürich befasste sich im Auftrag des Bundes mit dem Forschungsbedarf für ein nachhaltiges Schweizer Ernährungssystem. Was genau versteht man unter einem Ernährungssystem? Nina Buchmann: Ein Ernährungssystem umfasst alle im Land produzierten, aber auch konsumierten Lebensmittel – sowie Futtermittel –, alle nationalen Akteure und die nationalen Rahmenbedingungen. Das heisst, es ist ein System, das von der Produktion von Lebensmitteln bis hin zum Konsum und der Gesundheit reicht, alle Ressourcen, aber auch Abfälle und Verluste berücksichtigt, und obendrein noch von verschiedenen Rahmenbedingungen beeinflusst ist, sei es von der Ökonomie, der Politik, der Gesellschaft oder der Umwelt.

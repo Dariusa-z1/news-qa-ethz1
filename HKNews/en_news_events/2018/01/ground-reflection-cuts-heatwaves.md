@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2018/01/ground-reflection-cuts-heatwaves.html
 
-**Date processed:** 2025-05-01
-
 ## Greater reflection breaks up temperature peaks
 
 Climate change will make heatwaves more common, and continental areas and urban regions that become significantly warmer in summer will be particularly affected. Together with colleagues from Australia and the US, ETH researchers have now detailed a practical approach that combines clever land use and urban radiation management to help cool extreme summer temperatures locally. Their study has just been published in the journal Nature Geoscience .

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/08/die-eth-zuerich-bereitet-sich-auf-einen-potenziellen-energiemangel-vor.html
 
-**Date processed:** 2025-05-01
-
 ## Risiken für Lehre und Forschung im Fokus
 
 Die Massnahmen adressieren  nicht nur eine mögliche Gasmangellage, sondern auch mehrere Szenarien einer Strommangellage:

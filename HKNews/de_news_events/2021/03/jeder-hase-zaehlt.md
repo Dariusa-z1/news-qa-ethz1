@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/03/jeder-hase-zaehlt.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 (Bild: ETH Zürich)

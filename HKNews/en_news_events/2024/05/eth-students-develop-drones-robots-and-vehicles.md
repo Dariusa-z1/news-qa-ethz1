@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/05/eth-students-develop-drones-robots-and-vehicles.html
 
-**Date processed:** 2025-05-01
-
 ## AVERO – the safe inspection drone
 
 Ten teams have spent a year developing prototypes that demonstrate the current state of the art in the areas of additive manufacturing, robotics, and drive and transport technologies. The Focus projects are an integral part of a Bachelor’s degree in mechanical and process engineering. The students complete the entire process independently – from the project idea and design studies through to the search for sponsors and production. These are the projects they have realised this year:

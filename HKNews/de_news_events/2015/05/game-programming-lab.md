@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/05/game-programming-lab.html
 
-**Date processed:** 2025-05-01
-
 ## Weltklasse Spielentwickler aus der Schweiz
 
 Vergangenen Mittwoch bekundete die ETH Zürich ihren Willen, ihr Engagement bei der Entwicklung von Computerspielen weiter auszubauen. Dafür richtet das Departement Informatik ein permanentes «Game Technology Center» ein, an dem Wissenschaftler disziplinübergreifend und in Zusammenarbeit mit der Industrie an neuen Technologien für die Computerspielentwicklung tüfteln. ETH-Präsident Lino Guzzella begründete den Entscheid wie folgt: «Die Game-Technologie ist nicht nur interessant für junge Firmen und die Kreativwirtschaft, sie ist es auch für die Wissenschaft und Lehre. Wir wollen in Zukunft die Kräfte an der ETH bündeln und dieser Technologie erhöhte Aufmerksamkeit schenken.»

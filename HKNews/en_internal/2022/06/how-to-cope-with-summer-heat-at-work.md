@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/06/how-to-cope-with-summer-heat-at-work.html
 
-**Date processed:** 2025-05-01
-
 ## What you can do
 
 Precautionary measures

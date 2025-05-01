@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/12/jahresrueckblick-2013.html
 
-**Date processed:** 2025-05-01
-
 ## Januar
 
 Tech-Oscar für Markus Gross, dessen Software Rauch und Explosionen realitätsnah abbildet. (Bild: zVg M. Gross / ETH Zürich)

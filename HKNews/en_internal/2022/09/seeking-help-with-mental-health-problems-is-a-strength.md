@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/09/seeking-help-with-mental-health-problems-is-a-strength.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Cornelia Beck, psychologist and psychotherapist, has been Head of UZH/ETH Psychological Counseling Services since 2016.

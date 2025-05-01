@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/07/iron-deficiency-during-infancy-reduces-vaccine-efficacy.html
 
-**Date processed:** 2025-05-01
-
 ## Babies have smaller iron reserves
 
 Despite the fact that global immunisation programmes are now reaching more people than ever, about 1.5 million children still die every year from diseases that vaccination could have prevented. Vaccination is also less effective in low-income countries than in high-income countries, although it is not yet clear why.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/03/pekolaeum-die-peko-wird-fuenfzig-jahre-alt.html
 
-**Date processed:** 2025-05-01
-
 ## Vielseitige Aufgaben
 
 1. Januar 1971: An diesem Datum nahm der erste Personalausschuss der ETH Zürich – wie die Personalkommission (PeKo) früher hiess – offiziell seine Arbeit auf. Der Weg dahin war nicht einfach, denn der Personalausschuss stiess zu Beginn auf allerlei Gegenwind. So zeigten sich nicht alle Stellen begeistert, dass die Mitarbeitenden fortan die Geschicke und den Alltag an der ETH mitbestimmen wollten. Unterstützung erhielt die PeKo jedoch u.a. von den Studierenden, die sich im Zuge der 68er-Bewegung für das Hochschulpersonal stark machten.

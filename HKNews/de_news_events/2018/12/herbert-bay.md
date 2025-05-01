@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2018/12/herbert-bay.html
 
-**Date processed:** 2025-05-01
-
 ## Schicksalhafte Begegnung
 
 Herbert Bay steht mit beiden Beinen fest im Leben. Doch bei der Arbeit vermischen sich für ihn reale und virtuelle Welt. Der 44-Jährige ist leitender Softwareentwickler im Bereich Digital Health und User Perception beim US-Unternehmen Magic Leap in Zürich. Die Firma ist auf Anwendungen im Bereich «mixed reality» spezialisiert, wobei 3D-Bilder dem realen Raum überlagert werden. Sie hat kürzlich zusammen mit dem Krankenversicherer CSS den Prototyp einer virtuellen Physiotherapeutin entwickelt. Diese wird über eine 3D-Brille ins Wohnzimmer des Nutzers projiziert und leitet ihn bei seinen Therapieübungen an. Weitere Anwendungen sind in der Entwicklung. «Mich hat die Idee schon immer fasziniert, eine Person virtuell an einen anderen Ort zu teleportieren», sagt Bay. Spätestens seit er mit 12 Jahren «Star Wars» im Kino sah.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/09/focus-what-ends-up-on-our-shelves.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Dr Sibyl Anwander, Head of Public Affairs and Sustainability at Coop, Michael Siegrist, Professor of Consumer Behaviour and Achim Walter, Professor of Crop Science at ETH Zurich offer us answers.

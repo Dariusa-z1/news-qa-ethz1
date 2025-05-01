@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/10/fuehrende-koepfe-an-den-distiguished-lectures.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die diesjährigen Redner sind:

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/09/new-online-courses.html
 
-**Date processed:** 2025-05-01
-
 ## Benefitting ETH students first and foremost
 
 The future is online. Does this also apply to education? “Yes” is the response from a number of universities around the world that are currently investing considerable resources in the development of new online courses. Everyone is talking about MOOCs, massive open online courses, a type of online distance learning which is intended to address the needs of a large number of students. The students complete the courses remotely, anywhere in the world in front of a computer screen, and when they pass an online examination they receive a corresponding certificate.

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2018/10/welcome-to-the-future.html
 
-**Date processed:** 2025-05-01
-
 ## Mixed reality on the rise
 
 One of the biggest innovations is “mixed reality”, which enables students to study virtual objects using 3D glasses. The HoloLens from Microsoft was used for the first time at ETH at the start of the year – students on the Computer-Assisted Drug Design course in the Department of Chemistry and Applied Biosciences used it to study proteins. When you look through the HoloLens you can see the actual room you are standing in as well as a hologram – in this case, a protein – which you can walk round, explore and even step right through.

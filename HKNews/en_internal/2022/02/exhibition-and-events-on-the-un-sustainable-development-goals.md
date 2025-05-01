@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/02/exhibition-and-events-on-the-un-sustainable-development-goals.html
 
-**Date processed:** 2025-05-01
-
 ## Exhibition and events
 
 What contribution can science and technology make to fighting global poverty, protecting the planet, and ensuring that by 2030 all people enjoy peace and prosperity?

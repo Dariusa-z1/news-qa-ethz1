@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/04/sollen-die-bewerbungsverfahren-anonymisiert-werden.html
 
-**Date processed:** 2025-05-01
-
 ## Pro
 
 Furkan Sami Oguz, Mitarbeiter bei der Professur für Wirtschaftsforschung (Illu: Kornel Stadler)

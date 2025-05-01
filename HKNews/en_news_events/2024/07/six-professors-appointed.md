@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/07/six-professors-appointed.html
 
-**Date processed:** 2025-05-01
-
 ## New appointments
 
 (Photograph: © Moritz Drupp)

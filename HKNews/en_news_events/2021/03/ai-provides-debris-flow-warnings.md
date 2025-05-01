@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/03/ai-provides-debris-flow-warnings.html
 
-**Date processed:** 2025-05-01
-
 ## Measurements at the Illgraben test site
 
 Debris flows are a mixture of boulders, sediments and water. They often occur during heavy precipitation events in steep alpine terrain and plow through gorges and mountain streams towards the valley in an uncontrolled fashion. In Switzerland alone, there are several hundred occurrences every year. Climate change facilitates this natural phenomenon as permafrost is becoming increasingly unstable and extreme weather events are on the rise. If debris flows are particularly large or if they occur in unexpected areas, they develop a considerable destructive potential that threatens human lives, infrastructure and the environment.

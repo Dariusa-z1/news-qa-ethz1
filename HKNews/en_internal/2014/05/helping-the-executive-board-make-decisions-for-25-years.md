@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/05/helping-the-executive-board-make-decisions-for-25-years.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 When Urs Hugentobler first entered professional life, he did not envisage getting involved in the management of ETH Zurich: he actually had quite a different career in mind. The young man had studied biology at the University of Zurich, obtained a doctorate from ETH Zurich’s Institute of Plant Sciences and just completed a postdoctoral residency at the Boyce Thompson Institute for Plant Research at America’s prestigious Cornell University. (Virtually) everything pointed towards a career in science. Yet things turned out differently. Changes of personnel at professorial level led to a shift in key areas of research. «Suddenly my specialist area was no longer a research topic here,» says Hugentobler, who is now 59 years old. «I had a decision to make: either go and do research somewhere else or head in a different direction.» He chose the second option.

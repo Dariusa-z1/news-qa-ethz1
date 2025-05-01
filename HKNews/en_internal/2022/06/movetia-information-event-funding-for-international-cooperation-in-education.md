@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/06/movetia-information-event-funding-for-international-cooperation-in-education.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In order to support high quality, future-proof education in Switzerland, the Swiss federal government encourages international cooperation in education in various forms. This online event by Movetia will provide a platform for lecturers, administrators and support officers to get to know

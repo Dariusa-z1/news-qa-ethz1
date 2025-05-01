@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/06/a-new-theory-for-semiconductors-made-of-nanocrystals.html
 
-**Date processed:** 2025-05-01
-
 ## Spring mattress vs table top
 
 A few years ago, we were introduced to TV screens featuring QLED technology that produces brilliant colours. The “Q” here stands for “quantum dot”. Quantum dots are crystals of a semiconductor material only a few nanometres in size that consist of a couple of thousand atoms. Those nanocrystals are so tiny that the electrons in them can only take on certain well-defined quantum mechanical energy levels. As a consequence, when quantum dots are illuminated by the backlight of a TV, light of a particular colour is emitted by quantum jumps between those levels.

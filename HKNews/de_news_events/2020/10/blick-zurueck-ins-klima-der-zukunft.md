@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/10/blick-zurueck-ins-klima-der-zukunft.html
 
-**Date processed:** 2025-05-01
-
 ## Was Mineralien übers Klima aussagen
 
 Vor 57 bis 55 Millionen Jahren ging das Paläozän zu Ende, und das Eozän begann. Damals war die Atmosphäre mit dem Treibhausgas Kohlendioxid geradezu überflutet: Dessen Konzentration betrug 1400 ppm bis 4000 ppm. Unschwer vorzustellen, dass auf der Erde Temperaturen wie in einer Bio-Sauna geherrscht haben müssen. Es war heiss und schwül, und das Eis an den Polkappen war komplett verschwunden.

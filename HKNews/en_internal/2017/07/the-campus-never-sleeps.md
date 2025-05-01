@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2017/07/the-campus-never-sleeps.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 “Which 95-year-old announced his retirement from public life today?” asks Brett Stirling. He is in the middle of running a pub quiz in the Alumni Lounge. It is 8 p.m. Many ETH members are rounding off their day with a quiz here on the Hönggerberg campus. While the teams put their heads together to discuss the answer – wasn't it Prince Philip? – restaurant manager Nurcan Inak explains her concept for the Alumni Lounge: “We hope our events will encourage people to spend more time on the campus.” From the autumn semester onwards, there will be a daily programme of events including live music, games evenings, karaoke and exhibitions. The lounge already hosts events several times a month and it is busy on evenings when there is nothing planned as well. “People come here to chat, work and switch off,” says Inak, placing the caipirinha she has just prepared on the bar. “Many of them come after a sports match or training session and stay for a beer.”

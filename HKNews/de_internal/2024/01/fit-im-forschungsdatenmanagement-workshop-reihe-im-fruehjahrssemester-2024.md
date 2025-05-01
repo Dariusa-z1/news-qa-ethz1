@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2024/01/fit-im-forschungsdatenmanagement-workshop-reihe-im-fruehjahrssemester-2024.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In sieben individuellen Online-Workshops thematisiert die ETH-Bibliothek zusammen mit Scientific IT Services die verschiedenen Elemente des Forschungsdatenmanagements (FDM) entlang des Forschungsdaten-Lebenszyklus. Ob Sie an einzelnen oder an allen Workshops teilnehmen, können Sie frei entscheiden.

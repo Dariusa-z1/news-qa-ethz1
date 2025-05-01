@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/12/implantat-gibt-gegensteuer.html
 
-**Date processed:** 2025-05-01
-
 ## Prothese unterstützt das Immunsystem
 
 ETH-Professor Martin Fussenegger nennt sie molekulare Prothesen: biologische Zellen mit speziell entwickelten Gen-Schaltkreisen, die sich in einen Organismus implantieren lassen und dort Stoffwechselfunktionen übernehmen, die der Organismus selbst nicht leisten kann. Fussenegger und seinen Mitarbeitenden am Departement Biosysteme der ETH Zürich in Basel ist es nun gelungen, eine solche molekulare Prothese zu entwickeln, die in ihrer Funktion weit komplexer ist als bisherige. Sie ist darauf zugeschnitten, die Schuppenflechte (Psoriasis), eine komplexe und chronische Entzündungskrankheit der Haut, zu therapieren.

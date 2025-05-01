@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/03/mittelsmaenner-in-sachen-3-d-druck.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Matthias Baldinger (l.) and Fabian Rahm are ready for take off with their start up Additively.com. (Photo: Peter Rüegg / ETH Zurich)

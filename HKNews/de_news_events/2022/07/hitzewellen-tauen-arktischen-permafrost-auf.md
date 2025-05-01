@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/07/hitzewellen-tauen-arktischen-permafrost-auf.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 In der nördlichsten Region der Erde schmilzt der arktische Permafrost immer schneller. Seit mehr als einem Jahrzehnt beobachtet ein internationales Team von Forschenden der ETH Zürich, der University of Alaska Fairbanks und des Deutschen Zentrums für Luft- und Raumfahrt topografische Vertiefungen – hufeisenförmige Erosionsstellen, die als Taurutschungen (englisch: Retrogressive Thaw Slumps, RTS) bezeichnet werden. Sie entstehen, wenn dauerhaft gefrorene Bodenschichten im Permafrost schmelzen und arktische Hänge anfällig für Erdrutsche werden. Solche Erdrutsche können Kohlenstoff freisetzen, der seit Zehntausenden von Jahren im Permafrostboden gespeichert ist.

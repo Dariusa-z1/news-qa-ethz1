@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2015/11/mm-ruzicka-preis-2015.html
 
-**Date processed:** 2025-05-01
-
 ## Ansätze klug kombinieren
 
 Botenstoffe sorgen dafür, dass die Zellen von Organismen miteinander kommunizieren können und stellen dadurch sicher, dass das Zusammenspiel dieser Zellen richtig funktioniert. Henning Jessen, Professor für Bioorganische Chemie an der Universität Freiburg im Breisgau, befasst sich mit der chemischen Biologie von Sekundärbotenstoffen, jenen Botenstoffen also, die Signale von ausserhalb der Zelle, welche die Membran nicht passieren können, innerhalb der Zelle weiterleiten und verarbeiten. Die chemische Biologie dieser Sekundärbotenstoffe ist noch wenig erforscht und doch erhoffen sich die Wissenschaftler von diesem Forschungsgebiet Antworten auf grundlegende Fragen der Biologie.

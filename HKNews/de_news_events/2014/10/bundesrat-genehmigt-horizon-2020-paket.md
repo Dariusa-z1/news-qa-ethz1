@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/10/bundesrat-genehmigt-horizon-2020-paket.html
 
-**Date processed:** 2025-05-01
-
 ## Dauer der Assoziierung
 
 An folgenden Programmteilen darf die Schweiz vollumfänglich als assoziiertes Land teilnehmen:

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2014/09/doi-registrierung-fuer-den-schweizer-forschungs--und-hochschulbereich.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Digital Object Identifier

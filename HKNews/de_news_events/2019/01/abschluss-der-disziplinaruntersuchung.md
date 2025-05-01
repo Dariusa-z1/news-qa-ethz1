@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/01/abschluss-der-disziplinaruntersuchung.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Im September 2018 leitete die ETH Zürich eine Disziplinaruntersuchung gegen einen Professor des Departements Architektur ein. Die durch einen externen unabhängigen Untersuchungsführer durchgeführte und nun abgeschlossene Untersuchung entlastet den Professor vom Vorwurf sexueller Belästigung. Der Untersuchungsführer kommt zum Schluss, dass der Professor es versäumt hat, seine persönlichen und beruflichen Beziehungen adäquat zu trennen, weshalb sein Verhalten nicht im Einklang mit dem Compliance Guide der ETH Zürich sei.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2021/09/die-eth-regeln-zur-zertifikatspflicht.html
 
-**Date processed:** 2025-05-01
-
 ## Mehrere Impfstoffe anerkannt
 
 Die ETH Zürich führt auf das neue Semester hin, das am Montag beginnt, eine Zertifikatspflicht für alle Lehrveranstaltungen auf Bachelor- und Masterstufe ein. Wer genesen, geimpft oder getestet ist und über ein entsprechendes Zertifikat verfügt, hat also Zugang zu allen im Vorlesungsverzeichnis aufgeführten Präsenzveranstaltungen. Dadurch wird es möglich, dass die Räume der ETH voll belegt werden können. Als zusätzliche Sicherheitsmassnahme gelten in allen Lehrveranstaltungen wie generell in Innenräumen eine Maskenpflicht sowie die Aufforderung, die Distanzen zwischen den Teilnehmenden möglichst gross zu halten.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/09/globe-alpine-plants-respond-to-climate-change.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 A glance down the vertiginous slope is enough to create a dizzying sensation of being airborne. Far below is the city of Chur, with tiny cars beetling among toy houses. Keeping a firm grip on the wheel, Jake Alexander ascends the potholed road, which in many places is too narrow for two vehicles to pass.

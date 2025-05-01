@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2014/06/koerpergeruch-verraet-malariainfektion.html
 
-**Date processed:** 2025-05-01
-
 ## Erreger in Fortpflanzungsphase lässt Opfer am stärksten duften
 
 Malaria ist und bleibt eine gefürchtete Krankheit, welche durch Anopheles-Mücken auf den Menschen übertragen wird. Der Erreger ist ein tierischer Einzeller der Gattung Plasmodium. Unbehandelt kann Malaria tödlich enden. Die Krankheitserreger haben allerdings ein Problem: Um ihren Lebenszyklus zu vervollständigen, müssen sie zurück in eine Mücke gelangen. Indem das Insekt ein bereits infiziertes Opfer sticht, nimmt es den Erreger in sich auf.

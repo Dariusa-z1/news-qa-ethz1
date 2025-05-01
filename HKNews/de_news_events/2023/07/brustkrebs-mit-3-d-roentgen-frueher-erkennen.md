@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2023/07/brustkrebs-mit-3-d-roentgen-frueher-erkennen.html
 
-**Date processed:** 2025-05-01
-
 ## In Kürze
 
 • Forschende der ETH Zürich, des Paul Scherrer Instituts PSI, des Kantonsspitals Baden und des Universitätsspitals Zürich haben einen Meilenstein auf dem Weg zu einer verbesserten Brustkrebsvorsorge erreicht.

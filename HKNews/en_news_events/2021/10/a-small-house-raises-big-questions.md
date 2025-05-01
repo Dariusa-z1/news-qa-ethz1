@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/10/a-small-house-raises-big-questions.html
 
-**Date processed:** 2025-05-01
-
 ## Infrastructure with a natural ecosystem
 
 The outward appearance of the small, prism-shaped hut in the recently opened Student Project House on ETH's Zentrum campus is enough to arouse the curiosity of anyone looking at it. It is decorated with LED lights, connected to a solar panel and has comfortable seats for meditation inside. However, the visionary idea on which the wooden construction is based cannot be seen at first glance. “It’s a powerful vision,” believes Hongyang Wang, who began working on the project when she was a Master’s student. “It touches all parts of society and turns many of our basic assumptions upside down.” Now Wang is a doctoral student with the Chair of Innovative and Industrial Construction, which deals with topics such as new technologies, governance strategies and organisational models for construction processes.

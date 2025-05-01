@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2022/10/thomas-mann-lecture-mit-jan-assmann.html
 
-**Date processed:** 2025-05-01
-
 ## Internationally renowned cultural scientist
 
 Thomas Mann and Hermann Hesse corresponded with each other for decades: Mann appreciated Hesse’s Steppenwolf and regarded The Glass Bead Game as being related to his own novel Doctor Faustus. In his lecture, Jan Assmann addresses the less established references between the works of both authors and shows the connections between Hesse’s The Glass Bead Game and Mann’s Joseph novels.

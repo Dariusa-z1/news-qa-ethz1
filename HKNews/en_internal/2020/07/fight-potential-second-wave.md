@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2020/07/fight-potential-second-wave.html
 
-**Date processed:** 2025-05-01
-
 ## Preventing a second lockdown
 
 Following the loosening of coronavirus restrictions, there has been a rise in the number of infections in Switzerland – although the much feared "second wave" has fortunately not materialised. In order to be prepared for whatever comes next, the Executive Board has passed a plan B to supplement the master plan for returning to “new normal” operations. The master plan will remain in place, while plan B describes various scenarios and how ETH would react to them. These scenarios were developed back in May in close cooperation with the ETH professors who serve on the National COVID-19 Science Task Force. The measures were then coordinated with ETH's various departments and central administrative units.

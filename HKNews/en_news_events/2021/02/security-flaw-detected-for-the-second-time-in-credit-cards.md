@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2021/02/security-flaw-detected-for-the-second-time-in-credit-cards.html
 
-**Date processed:** 2025-05-01
-
 ## Security measures outsmarted in two ways
 
 The methods used by the researchers are based on the “man-in-the-middle” principle, where attackers exploit the data exchanged between two communication partners (in this case the card and the card terminal). To replicate this effect, the researchers used an Android app they had created and two NFC-enabled mobile phones. The app falsely signalled to the card terminal that no PIN was required to authorise the payment and that the card owner’s identity had been verified. Initially, the method worked only on VISA cards, as other providers use a different protocol (a protocol governs data transmission).

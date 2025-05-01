@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2024/03/globe-miniorgane-mit-grossem-potenzial.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Die Zellklümpchen sind einige Millimeter bis wenige Zentimeter klein. Doch in der Medizinforschung können sie Grosses bewegen. Die ETH-Professorin Barbara Treutlein arbeitet mit solchen Organoiden. Diese organähnlichen Systeme sind die dreidimensionale Weiterentwicklung von Zellkulturen und bestehen aus unterschiedlichen Zelltypen in komplexen Gewebestrukturen. In Treutleins Labor stammen alle Organoide von menschlichem Gewebe ab. «Mit diesen Organoiden arbeiten wir an verschiedenen medizinischen Fragestellungen», sagt Barbara Treutlein, Professorin für Quantitative Entwicklungsbiologie. Zum Beispiel an möglichen Ursachen einer Autismus-Spektrum-Störung.

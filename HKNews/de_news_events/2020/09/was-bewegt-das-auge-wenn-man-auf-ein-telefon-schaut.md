@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/09/was-bewegt-das-auge-wenn-man-auf-ein-telefon-schaut.html
 
-**Date processed:** 2025-05-01
-
 ## Verständnis der Anwenderaufmerksamkeit
 
 Wie viele Male schalten Sie Ihr Smartphone am Tag ein? Wie lange ist der Bildschirm eingeschaltet und wie viel Zeit ist welche App in Betrieb? Diese Daten sammelt jedes moderne Smartphone automatisch und stellt sie dem Nutzer unter Bezeichnungen wie «Digitales Wohlbefinden» zur Verfügung. Aber Bildschirmzeit ist nicht gleich Bildschirmzeit und App-Nutzung ist nicht gleich App-Nutzung.

@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2019/08/eth-plus-initiativen.html
 
-**Date processed:** 2025-05-01
-
 ## Materialien zum Leben erwecken
 
 Das Interesse an ETH+, in dessen Rahmen bereits letztes Jahr neun Initiativen an den Start gingen, ist nach wie vor gross: 241 ETH-Ange­hörige haben sich an der zweiten Runde beteiligt, und sie stammen aus allen Departementen und Bereichen der ETH. 25 Ideenskizzen wurden bei der zweiten Ausschreibung eingereicht. Davon werden nun vier im Rah­men von ETH+ umgesetzt, eine weitere aus dem Bereich der Lehre wird ETH-Rektorin Sarah Springman als Pilotprojekt unterstellt. Gesamthaft werden an der ETH Zürich vor allem aus den Reserven 41,8 Millionen Schweizer Franken bereitgestellt.

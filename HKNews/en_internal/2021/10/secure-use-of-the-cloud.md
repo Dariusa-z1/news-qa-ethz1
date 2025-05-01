@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2021/10/secure-use-of-the-cloud.html
 
-**Date processed:** 2025-05-01
-
 ## Am I generally allowed to use cloud services at ETH for internal and confidential data?
 
 The following in-house cloud services are available:

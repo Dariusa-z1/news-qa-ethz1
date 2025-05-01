@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/12/in-der-kampfzone-der-geschlechter.html
 
-**Date processed:** 2025-05-01
-
 ## Vergleich der Genaktivitätsmuster
 
 Seit Darwins Zeiten treibt Evolutionsforschende eine grundsätzliche Frage um: Wie entstehen unterschiedliche Geschlechter, wenn die Gene von Männchen und Weibchen weitgehend dieselben sind?

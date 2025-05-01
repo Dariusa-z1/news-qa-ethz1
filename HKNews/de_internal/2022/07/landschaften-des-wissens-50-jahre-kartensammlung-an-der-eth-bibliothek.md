@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2022/07/landschaften-des-wissens-50-jahre-kartensammlung-an-der-eth-bibliothek.html
 
-**Date processed:** 2025-05-01
-
 ## Buchvernissage am Dienstag, 30. August 2022
 
 Seit Jahrzehnten sammelt die ETH-​Bibliothek Karten und gestaltet auf Basis dieser reichhaltigen Tradition den Übergang in die digitale Bereitstellung und Nutzung von Kartenwerken und Geodaten für Wissenschaft und Öffentlichkeit aktiv mit. Im Jahr 2022 blicken wir zurück auf das 50-​jährige Bestehen der grössten Kartensammlung der Schweiz und nutzen die Gelegenheit, eine Zwischenbilanz zu ziehen.

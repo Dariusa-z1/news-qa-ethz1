@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/11/die-saat-ist-aufgegangen.html
 
-**Date processed:** 2025-05-01
-
 ## Vitamin-A-Mangel bedroht Millionen Kinder
 
 Dieser Herbst geht wahrscheinlich in die Agrargeschichte ein: Bauern in der Provinz Antique, Philippinen, haben im Oktober erstmals eine grössere Menge des mit Beta-Karotin angereicherten Golden Rice geernet, und zwar insgesamt über 67 Tonnen von 17 Standorten.

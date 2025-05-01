@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/04/auf-dem-weg-in-die-neue-normalitaet.html
 
-**Date processed:** 2025-05-01
-
 ## Die Krise ist noch nicht vorbei
 
 An der Townhall vom 28.4. gingen die Schulleitungsmitglieder zuerst darauf ein, was sie in ihren Bereichen die letzten Wochen besonders beschäftigt hat, um dann zu erklären wie sie die Wiederaufnahme des Betriebs planen. Wie erwartet war das Interesse an der Townhall gross, 2400 ETH-Angehörige verfolgten die virtuelle Veranstaltung. Die zahlreichen Fragen, insgesamt wurden über Hundert gestellt, spiegelten die allgemeine Unsicherheit wider, die gerade herrscht. Manchen geht die Wiederaufnahme des Betriebs zu schnell, anderen zu langsam. Und natürlich spielte die Gesundheitsvorsorge für die ETH-Angehörigen eine grosse Rolle. Der Leiter der Personalabteilung Lukas Vonesch und ETH-​Arbeitsmediziner Leonhard Sigel unterstützten die Schulleitung bei der Beantwortung der Fragen. Die Fragen aus der Townhall – und die Antworten darauf – werden in den kommenden zwei Wochen in die FAQs auf der Coronawebseite integriert. Angesichts der Menge werden die Fragen sinnvoll zusammengefasst und nicht individuell beantwortet.

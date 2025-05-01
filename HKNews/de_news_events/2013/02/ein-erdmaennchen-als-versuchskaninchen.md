@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2013/02/ein-erdmaennchen-als-versuchskaninchen.html
 
-**Date processed:** 2025-05-01
-
 ## Leittier lässt anderen den Vortritt
 
 Wildtiere sind in ihrer natürlichen Umgebung zahlreichen Risiken und Gefahren wie Fressfeinden, Krankheitserregern oder Hindernissen wie Schluchten oder Wasseradern ausgesetzt. Im Laufe der Entwicklungsgeschichte haben sich deshalb spezifische Verhaltensweisen ausgebildet, mit denen Tiere die natürlichen Risiken minimieren. Nun hat der Mensch in der jüngsten Geschichte zahllose neue Gefahren und Risiken wie befahrene Strassen geschaffen. Aus evolutiver Sicht ist es ausgeschlossen, dass die Tiere diese Gefahren als potenziell tödliches Risiko kennen. Verhaltensbiologe Simon Townsend von der Universität Zürich und sein Kollege, der Systemforscher Nicolas Perony von der ETH Zürich haben bei wildlebenden Erdmännchen erforscht, wie sich diese gegenüber menschgemachten Risiken verhalten.

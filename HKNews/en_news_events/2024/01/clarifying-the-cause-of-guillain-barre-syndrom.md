@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2024/01/clarifying-the-cause-of-guillain-barre-syndrom.html
 
-**Date processed:** 2025-05-01
-
 ## Autoreactive T cells target peripheral nerves
 
 Patients with Guillain-Barré syndrome (GBS) face a rare and heterogeneous disorder of the peripheral nervous system that is often triggered by preceding infections and causes severe muscle weakness. In Europe and the USA, around 1 to 2 cases per 100,000 people occur every year.

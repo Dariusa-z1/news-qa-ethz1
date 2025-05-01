@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2016/08/was-die-eth-zuerich-im-zentrum-von-zuerich-plant-und-baut.html
 
-**Date processed:** 2025-05-01
-
 ## Schwerpunkt auf medizinbezogene Bauten
 
 Mit dem Universitätsspital Zürich, der Universität Zürich sowie Kanton und Stadt Zürich arbeitet die ETH Zürich derzeit an der Weiterentwicklung des Hochschulgebiets Zürich Zentrum.

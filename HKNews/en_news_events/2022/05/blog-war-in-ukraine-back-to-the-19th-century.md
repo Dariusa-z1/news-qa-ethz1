@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2022/05/blog-war-in-ukraine-back-to-the-19th-century.html
 
-**Date processed:** 2025-05-01
-
 ## The cosy relationship of power politics and nationalism
 
 For numerous observers in the West, Putin’s invasion of Ukraine came out of the blue. Hopes of a cooperative, economically interwoven, and practically borderless world have been dealt a serious blow. In many ways, Russia’s annexation of Crimea in 2014 heralds the “return of geopolitics.” 1 A large number of analysts, especially those of a realist persuasion, expect the Russian aggression to result in a return to the old-fashioned, multipolar great-power politics of the 19th century. 2

@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2014/05/maintaining-a-healthy-diet-at-the-workplace.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The alarm goes off at six in the morning, there's barely enough time for a coffee and already the train is heading towards the university. At the station you can quickly grab a croissants to bridge the hunger until the second breakfast in the form of a salami sandwich at nine in the cafeteria. For lunch, there's Spaghetti Carbonara at the cafeteria and for dinner Pizza Quattro Formaggio with friends. Sound familiar?

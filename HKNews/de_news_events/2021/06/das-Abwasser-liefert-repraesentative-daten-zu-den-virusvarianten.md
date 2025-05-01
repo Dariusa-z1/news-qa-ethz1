@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2021/06/das-Abwasser-liefert-repraesentative-daten-zu-den-virusvarianten.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 ETH-News: Herr Beerenwinkel, wie steht es um die Delta-Variante des Coronavirus in der Schweiz? Niko Beerenwinkel: Erfreulicherweise steckten sich in der Schweiz in den letzten Wochen immer weniger Menschen mit dem Coronavirus an. Unter den zirkulierenden Viren nimmt die Delta-Variante aber zu. Das zeigen Daten von Kollegen hier am Departement für Biosysteme, welche bei einem Teil der in der Schweiz gemachten PCR-Tests das Virusgenom sequenziert und somit die Virusvariante bestimmt haben. Auch Abwassermessungen, an denen wir beteiligt sind, zeigen diese Zunahme deutlich. Bei Proben aus Schweizer Kläranlagen bis zum 20. Mai konnten wir die Delta-Variante noch nicht nachweisen. Deren Häufigkeit lag damals unter der Nachweisgrenze. In den jüngsten analysierten Proben bis zum 15. Juni finden wir die Delta-Variante aber bereits in fünf von sechs untersuchten Kläranlagen. Nach unseren Schätzungen machte die Variante am 15. Juni in Zürich 33 Prozent und in der Region Bern (Sensetal) 48 Prozent aller nachgewiesenen Corona-RNA-Moleküle aus. In den anderen untersuchten Kläranlagen war der Delta-Anteil geringer.

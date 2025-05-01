@@ -2,8 +2,6 @@
 
 **Source:** en_internal/2019/07/the-future-is-already-here.html
 
-**Date processed:** 2025-05-01
-
 ## The art of asking questions
 
 When apprentices begin their training at ETH, many things seem strange to them at first, from everyday working life through to the highly technical, diverse and international environment at ETH Zurich. They generally get used to it all very quickly, learning the working methods they need, how to work in a team and how to interact with customers.

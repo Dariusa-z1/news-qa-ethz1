@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2022/08/starke-haftung-dank-kavitationsblasen.html
 
-**Date processed:** 2025-05-01
-
 ## Kavitation lässt Pflaster besser kleben
 
 Für die Wundpflege oder das Anbringen von tragbarer Elektronik auf der Haut werden heutzutage oft Hydrogelpflaster verwendet. Allerdings haften diese Pflaster nicht besonders stark auf der Haut, insbesondere nicht auf nasser.

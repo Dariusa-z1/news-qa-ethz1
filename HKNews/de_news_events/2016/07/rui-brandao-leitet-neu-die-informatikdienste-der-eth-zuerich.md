@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2016/07/rui-brandao-leitet-neu-die-informatikdienste-der-eth-zuerich.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 «Dass ich für eine Hochschule arbeiten darf, die zu den zehn besten der Welt gehört, erfüllt mich mit Stolz», sagt der neue Direktor der ETH-Informatikdienste. Vor seiner Ernennung durch die ETH-Schulleitung hat Rui Brandao während dreizehn Jahren mehrere IT-Einheiten und globale Projekte der Credit Suisse geführt. Zuletzt leitete er die Konsolidierung und die Transformation der globalen Testing, Support und IT-Infrastruktur-Organisation.

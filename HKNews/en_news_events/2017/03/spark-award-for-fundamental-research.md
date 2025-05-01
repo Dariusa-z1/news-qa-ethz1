@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2017/03/spark-award-for-fundamental-research.html
 
-**Date processed:** 2025-05-01
-
 ## Science that helps society
 
 The Spark Award 2017 may well have been awarded to the research group who were least expecting it: even after the ceremony, Sabine Werner, Professor of Cell Biology at ETH Zurich, and her colleagues Luigi Maddaluno and Michael Meyer could hardly believe that their novel method of treating viruses had won ETH Zurich's prestigious award. As scientists engaged in fundamental research, they’re not used to widespread public recognition. Michael Meyer’s description of their long struggle for results as “useless discoveries” amused the audience of 200 in ETH Zurich’s Audimax. His comment intended to reflect that, when undertaking fundamental research, researchers rarely think of their results in terms of possible applications – it's the gain in understanding that’s significant for them.

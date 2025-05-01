@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2016/11/fifty-years-of-the-AfZ.html
 
-**Date processed:** 2025-05-01
-
 ## A commitment to critical thinking
 
 Birthdays – particularly big ones – are the perfect time to take a look both back and ahead. At the ETH Zurich Archives of Contemporary History (AfZ), which is celebrating its 50th anniversary this year, surprises are in store right from the start as we discover that it was founded as the result of a student initiative. Driven by his own research interest in Switzerland’s history during the Second World War, and dismayed by the lack of access to government records, the then 24-year-old Klaus Urner founded the “Arbeitsgruppe für Zeitgeschichte” (Working group for contemporary history) with fellow student Hans Rudolf Humm. Shortly after the company’s foundation, the students rented two attic rooms in an ETH building on Weinbergstrasse. The rooms quickly filled with their collection of documents: newspaper clippings, brochures and microfilm.

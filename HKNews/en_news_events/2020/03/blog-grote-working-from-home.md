@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2020/03/blog-grote-working-from-home.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Working from home has long been a wish for many, but not a widespread practice in companies. In a survey we carried out in 2016, over half of the 1,200 Swiss companies that took part said they didn’t offer employees the option of working remotely. 1 COVID-19 has pushed us into extremes: some of us have to work from home the whole time, while others are needed more than ever before at their place of work. Not to forget those who have no work at all any more.

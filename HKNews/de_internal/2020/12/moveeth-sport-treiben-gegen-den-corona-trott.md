@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/12/moveeth-sport-treiben-gegen-den-corona-trott.html
 
-**Date processed:** 2025-05-01
-
 ## Mit #moveETH etwas bewegen
 
 Wir befinden uns mitten in der Corona-Krise, zudem sind die Tage kurz und das Wetter grau. Wir verbringen viel Zeit im Home-Office und sehen Kolleginnen und Kollegen nur virtuell. Kein Wunder, dass diese Situation vielen auf die Stimmung schlägt und das Wohlbefinden beeinträchtigt. Doch wir alle können etwas dagegen tun.

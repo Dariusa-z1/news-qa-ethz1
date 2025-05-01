@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2020/12/laender-profitieren-wenn-sie-voneinander-lernen.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Sars-​CoV-2 hat sich auf der ganzen Welt verbreitet. Doch von Land zu Land unterscheiden sich der genaue Verlauf der Pandemie und der Umgang mit ihr. Man könnte diese Pandemie daher als ein riesiges (wenn auch bedauerliches) wissenschaftliches Experiment betrachten, das weltweit dutzende Male mit einigen Variationen wiederholt wird. Aus diesen Wiederholungen lässt sich eine Fülle an Information gewinnen. Die einzelnen Länder sollten diese nutzen, indem sie Informationen mit anderen Ländern austauschen und voneinander lernen.

@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2013/10/kuenstliches-enzym-schafft-700-reaktionen-pro-sekunde.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 The artificial enzyme (green structure) converts highly efficient substrate molecules ( structure in the middle of the picture). (Picture: Laboratory for Organic Chemistry/ETH Zurich)

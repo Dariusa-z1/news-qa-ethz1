@@ -2,8 +2,6 @@
 
 **Source:** de_news_events/2017/07/der-gebirgswald-im-wandel.html
 
-**Date processed:** 2025-05-01
-
 ## Was Gebirgswälder leisten
 
 Sollen wir beispielsweise genetisch modifizierte Baumarten anpflanzen, die besonders trockenheitstolerant sind, damit es dem Gebirgswald auch in Zukunft gut geht? Diese Frage ist kein Witz. Sondern eine von mehreren heiss diskutierten Ideen zur künftigen Bewirtschaftung unserer Bergwälder, um die sich die jüngste Sommerschule von ETH Sustainability drehte (siehe Kasten). 32 Studierende aus 17 Ländern und 14 Disziplinen schauten hinter die Kulissen solcher Vorschläge, die auf den ersten Blick absurd erscheinen mögen.

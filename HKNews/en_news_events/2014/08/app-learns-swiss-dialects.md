@@ -2,8 +2,6 @@
 
 **Source:** en_news_events/2014/08/app-learns-swiss-dialects.html
 
-**Date processed:** 2025-05-01
-
 ## Intelligent application
 
 "Hoi shaz i chume grad!" ("Hi darling, I'll be right there!"). Writing text messages in dialect is a phenomenon of our time. Until now, however, the assistance of a dictionary for faster typing was only available in High German. The Kännsch (Swiss German for D’you know?) app is about to remedy this situation. Kännsch has been developed over the course of the last five months by Laura Peer, an electrical engineer in the Distributed Computing Group (Disco), as part of her Master's thesis.

@@ -2,8 +2,6 @@
 
 **Source:** de_internal/2020/10/studieren-im-ausland-zu-pandemiezeiten.html
 
-**Date processed:** 2025-05-01
-
 ## Main article
 
 Frau Rothenbühler, ist das Studieren im Ausland trotz schwieriger Pandemiesituation ein Thema, besteht eine Nachfrage?
