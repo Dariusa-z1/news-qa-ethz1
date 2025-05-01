@@ -1,0 +1,57 @@
+{
+  "language": "en",
+  "title": "Network Assembly Through Cell Division",
+  "date": "",
+  "source": "Kerstjens S et.al. Constructive Connectomics: how neuronal axons get from here to there using gene-expression maps derived from their family trees. PLoS Computational Biology, 25. August 2022. DOI: 10.1371/journal.pcbi.1010382",
+  "main_content": "No definite blueprint: Over the past few years, vast sums of research funding have been poured into precisely surveying the structure of the fully formed brain. The scientific community is hoping that comprehensively mapping neurons and their connections – known collectively as the connectome – will provide a better understanding of how the brain works.\n\nHowever, the complementary fundamental question of how the brain forms from limited genetic information remains unanswered. To describe the connectome, genes would have to contain a billion times more information than they actually do. So how is it that humans and animals are born with a complex, largely pre-structured brain that enables them to make swift learning progress almost as soon as they are born?\n\nThe answer to this puzzle is surprisingly simple, says Stan Kerstjens, a doctoral student at the Institute of Neuroinformatics of ETH Zurich and the University of Zurich, and his two advisors Richard Hahnloser, Professor of Systems Neurosciences, and Rodney Douglas, Professor Emeritus of Neuroinformatics.\n\nSpatial and genetic structure: This novel mechanism is described in a paper published recently in the journal PLOS Computational Biology. The researchers have developed a model that allows them to simulate the development of a mouse’s brain at embryonic and adult stages. In human terms, this corresponds to the stage of maturity of a six-year-old child.\n\n“Essentially, it’s a growth model for tissue,” Kerstjens explains. The model starts with a single cell. As new neurons emerge, each cell division leads to structured changes in gene expression. This mechanism ensures that each daughter cell has a similar, but not identical, gene expression to its parent, and that cells with similar gene expression are grouped near one another. The developmentally mandated organisation of the cells causes them to be marked like points on a map, which the brain’s biology can use for axon navigation.\n\nDuring embryonic development, this process establishes a hierarchy of genetic markers in different regions of the brain, each of which is characterised by the genetic pattern of its shared forebears. Navigating the space described by this map-like hierarchy involves following a systematic sequence of genetic profiles that have developed with each new generation of cells.\n\nSearching for related cells: Here, the researchers analysed gene expression data on the brains of mice that was published by the Allen Institute for Brain Science in Seattle. “We compared the lab data with our simulations and saw that they largely matched up. So, we see that the expression of the genes actually divides the brain into distinct yet related regions,” Kerstjens explains.\n\nIn the model’s second stage, the cells connect with other cells. “Here we give them only basic instructions as to which molecular signals the axons should use to guide them on their way,” Kerstjens continues. “Essentially, we told each one to trace the genetic patterns that determined its own individual development. It was then up to the axons themselves to follow the molecular directions to their relations’ addresses.”\n\nThe researchers have been able to show that this relatively simple mechanism can lead axons to certain cells over great distances, producing a connectome very similar to that of a real mouse brain. “Most of the cells connect to others that are located close by, while a few make it all the way to very distant regions. This gives rise to distinct areas of the brain, each containing close-knit networks while also being connected to other areas.\n\nThis simple model doesn’t fully explain the mapping of a real human brain. “But that wasn’t the goal of our work,” Kerstjens says. “We want to understand the principle of how an organ that is capable of learning is created. And the work we’ve done to date shows us the direction future research can take.”",
+  "named_entities": [
+    "Stan Kerstjens",
+    "Richard Hahnloser",
+    "Systems Neurosciences",
+    "Rodney Douglas",
+    "Professor Emeritus",
+    "Computational Biology",
+    "Allen Institute",
+    "Brain Science",
+    "Over",
+    "Neuroinformatics"
+  ],
+  "topics": [
+    "Weather & Environment",
+    "Research",
+    "Communication",
+    "Technology & Innovation",
+    "Staff",
+    "Campus Life"
+  ],
+  "keywords": [
+    "ETH Zurich",
+    "University of Zurich",
+    "That",
+    "Brain",
+    "This",
+    "Cells",
+    "Genetic"
+  ],
+  "summary": "No definite blueprint: Over the past few years, vast sums of research funding have been poured into precisely surveying the structure of the fully formed brain....",
+  "rich_metadata": {
+    "document_length_words": 634,
+    "readability_score": "moderately complex",
+    "sentiment": "positive",
+    "contains_compound_words": true,
+    "contains_umlauts": false,
+    "embedding_vector": "[...]",
+    "audience_type": [
+      "Students",
+      "Faculty",
+      "Researchers",
+      "General Public"
+    ],
+    "context_tags": [
+      "Catering",
+      "Infrastructure",
+      "Research",
+      "ETH Internal"
+    ]
+  }
+}

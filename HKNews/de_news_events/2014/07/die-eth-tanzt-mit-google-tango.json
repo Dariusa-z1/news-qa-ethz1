@@ -1,0 +1,56 @@
+{
+  "language": "de",
+  "title": "Die Eth Tanzt Mit Google Tango",
+  "date": "",
+  "source": "ETH Zürich, Hochschulkommunikation",
+  "main_content": "Virtuelle und reale Welt vereinen: Ein Smartphone mit Navigationsfunktion, die uns in einem Einkaufszentrum den Weg zu den Cornflakes weist. Eines, das uns realistisch zeigt, wie ein noch nicht gekauftes Sofa in den eigenen vier Wänden aussieht. Oder eines, das Blinde führen kann, wie es derzeit Hunde tun. Dies könnte bald schon Realität sein. Eine Projektgruppe des Internetgiganten Google ist unter anderem zusammen mit Hardwareproduzenten und öffentlichen Forschungsinstitutionen daran, ein solches Mobilgerät und die entsprechende Software zu entwickeln. Die ETH-Professoren Marc Pollefeys und Roland Siegwart und ihre Mitarbeiter sind wesentlich an dieser Entwicklung, dem «Project Tango» beteiligt.\n\nDie Schlüsselfunktion des neuen Geräts ist seine Fähigkeit, die Umgebung detailliert und in Echtzeit dreidimensional zu erfassen. Dazu besitzt es nicht nur eine Kamera sowie einen Beschleunigungs- und Drehratensensor, wie bereits heute jedes Smartphone. Vielmehr sind darin zusätzlich eine zweite Kamera und eine Infrarotlichtquelle eingebaut. Letztere projiziert ein für das menschliche Auge unsichtbares Muster auf die Umgebung. Dieses wird von einer der beiden Kameras erfasst. Daraus sowie aus den Daten des Beschleunigungs- und Drehratensensors kann das Gerät detaillierte Rauminformationen errechnen.\n\nBereits existieren von Google gefertigte Prototypen. Mehrere Wissenschaftler der ETH Zürich nutzen diese für ihre Forschung und sind daran, deren Algorithmen zu verbessern. Auf dem Markt erhältlich soll das erste Gerät im kommenden Jahr sein, wie Google ankündigte. Es soll ein Tablet mit Android-Betriebssystem sein.\n\n«Den Möglichkeiten, dieses Gerät und dessen 3D-Informationen zu nutzen, sind keine Grenzen gesetzt», sagt Roland Siegwart, Professor für Autonome Systeme und Vizepräsident für Forschung und Wirtschaftsbeziehungen der ETH Zürich. «Darauf basierend lassen sich unglaublich viele Apps entwickeln. Welche das sein werden, wird die Zukunft zeigen.» Das Gerät könnte etwa für Computerspiele ganz neue Möglichkeiten eröffnen: Der virtuelle Inhalt von Spielen könnte auf dem Bildschirm in die von der Kamera erfasste reale Umgebung eingefügt werden. Gamer könnten sich mit einem Mobiltelefon durch virtuell angereicherte reale Umgebungen bewegen, die virtuellen Figuren und Objekte bewegten sich auf dem Bildschirm mit ihnen mit. Diese Kombination von virtueller und realer Welt wäre auch für Innenarchitektur-Visualisierungen interessant.\n\nAusserdem kann der Benutzer damit eigene 3D-Karten erstellen oder von anderen erstellte Karten herunterladen und auf dem Gerät verwenden. Indem das Gerät die Umgebung mit gespeicherten Kartendaten vergleicht, kann es sich lokalisieren, und es ermöglicht so eine GPS-ähnliche Navigation, auch in Innenräumen. Im Gegensatz dazu funktioniert das echte GPS in Räumen nicht, weil die dafür genutzten Satellitendaten dort nicht empfangen werden können.\n\nETH-Doktorand Simon Lynen kartiert mit einem auf einem Helm montierten Geräte-Prototyp Zürichs Strassen. (Screenshot: Google ATAP Project Tango)\n\nAbweichungen korrigieren: Simon Lynen, Doktorand in der Gruppe von Siegwart, entwickelte die Kartenfunktion für das Tango-Gerät mit. Er kartierte damit die Strassen von Zürich mit einem auf einem Velohelm montierten Geräte-Prototyp. Damit zeigte er, dass man mit der Technik auch draussen über kilometerweite Strecken navigieren kann. «Auch in Aussenräumen hat unsere Technik gegenüber dem heute genutzten GPS einen Vorteil: GPS liefert nur den Standort, unsere Technik erfasst ausserdem noch die Blickrichtung der Kameras», sagt Lynen. Das ermögliche beispielsweise das Einblenden von Informationen in Abhängigkeit von der Blickrichtung. Des Weiteren ermögliche die neue Technik zumindest im begrenzten Rahmen von existierenden, lokalen Karten eine rund zehnmal genauere Lokalisierung als GPS.\n\nETH-Know-how steckt zudem in der Fähigkeit des Geräts, sich nach dem Start oder wenn immer nötig in Bruchteilen einer Sekunde durch den Vergleich mit gespeicherten Karten zu lokalisieren. Und ETH-Doktoranden arbeiten derzeit an einer Lösung, welche es dem Gerät ermöglicht, 3D-Informationen der Umgebung zu erfassen, wenn es das projizierte Infrarotmuster beispielsweise wegen starkem Sonnenschein nicht auswerten kann. «Das Gerät nutzt dazu eine Abfolge von ‹normalen› Bildern der Kamera und erfasst daraus die Tiefeninformation, ähnlich wie wir Menschen das machen, indem wir unseren Kopf bewegen», erklärt Marc Pollefeys, Professor für Informatik.\n\nDie Aufmerksamkeit der ETH-Forscher gilt ausserdem dem Korrigieren von Lokalisierungsfehlern. Wegen Messungenauigkeiten können nämlich geringe Fehler entstehen. Diese addieren sich, wenn sich ein Benutzer längere Zeit durch Gänge oder Strassen bewegt. So kann es zu einer Abweichung kommen zwischen dem errechneten Ort und jenem, wo sich das Mobilgerät tatsächlich befindet. Die ETH-Wissenschaftler arbeiten nun daran, solche Abweichungen zu korrigieren, indem sie die im Mobilgerät gespeicherten Bilddaten nutzen: Kehrt der Benutzer an einen Ort zurück, an dem er schon einmal war, erkennt dies das Gerät und kann eine allfällige Abweichung auf null zurücksetzen.\n\nDie Gruppen von Pollefeys und Siegwart haben sich bereits in der Vergangenheit ein grosses Know-how erworben, aus visueller Information geometrische Raumdaten zu gewinnen, etwa in den Projekten sFly zur autonomen Navigation von Flugrobotern und V-Charge zum führerlosen Parkieren von Autos. Marc Pollefeys und seine Gruppe entwickelten ausserdem eine App, die ein Smartphone zum 3D-Scanner macht. «Unsere ausgewiesene Expertise auf diesem Gebiet dürfte auch der Grund sein, warum uns Google für die Mitarbeit beim Project Tango angefragt hat», sagt Siegwart. Pollefeys ergänzt: «Alle diese Projekte haben verwandte Grundlagen. Ins Project Tango können unsere Mitarbeiter somit Know-how einbringen, das sie in bisherigen Projekten erworben haben.»",
+  "named_entities": [
+    "Ein Smartphone",
+    "Eine Projektgruppe",
+    "Internetgiganten Google",
+    "Professoren Marc Pollefeys",
+    "Roland Siegwart",
+    "Project Tango",
+    "Die Schlüsselfunktion",
+    "Mehrere Wissenschaftler",
+    "Android-Betriebssystem",
+    "Den Möglichkeiten"
+  ],
+  "topics": [
+    "Research",
+    "Infrastructure",
+    "Staff",
+    "Communication",
+    "Technology & Innovation",
+    "Catering & Food"
+  ],
+  "keywords": [
+    "ETH Zurich",
+    "University",
+    "Research",
+    "Science",
+    "Campus",
+    "Education"
+  ],
+  "summary": "Virtuelle und reale Welt vereinen: Ein Smartphone mit Navigationsfunktion, die uns in einem Einkaufszentrum den Weg zu den Cornflakes weist....",
+  "rich_metadata": {
+    "document_length_words": 826,
+    "readability_score": "complex",
+    "sentiment": "positive",
+    "contains_compound_words": true,
+    "contains_umlauts": true,
+    "embedding_vector": "[...]",
+    "audience_type": [
+      "Staff",
+      "Faculty",
+      "Researchers",
+      "General Public"
+    ],
+    "context_tags": [
+      "Infrastructure",
+      "Technology",
+      "Research",
+      "ETH Internal"
+    ]
+  }
+}
