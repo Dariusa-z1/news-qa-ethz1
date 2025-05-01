@@ -1,0 +1,60 @@
+# globe-vom-molekuel-zum-organismus
+
+## Die Chemie musste stimmen
+
+Seit jeher suchen Menschen nach Antworten auf die Frage, wie das Leben auf der Erde entstanden ist. Frühere Kulturen erklärten sich die Entstehung der Erde und den Ursprung des Lebens durch das Wirken von Göttern und Gottheiten. Die Wissenschaft geht anders an diese Frage heran. Generationen von Forschenden haben basierend auf den Grundgesetzen von Physik, Chemie und Biologie Theorien und Hypothesen über den Ursprung des Lebens aufgestellt – und mittlerweile auch viel Wissen angesammelt.
+
+«Dass wir solchen Fragen nachgehen, ist in unserer westlichen Welt tief verankert. Es ist eine wissenschaftlich gestellte Glaubensfrage», sagt Roland Riek, Professor für Physikalische Chemie der ETH Zürich. Er setzt sich in seiner Forschung unter anderem mit der Frage auseinander, welche chemischen Bausteine, die es für die Entstehung von Leben braucht, zuerst vorhanden waren.
+
+Für Riek sprechen viele Indizien dafür, dass die erste chemische Welt, ein paar hundert Millionen Jahre nach der Geburt der Erde, aus Aminosäuren und daraus mittels Vulkangas entstandenen Peptiden bestanden haben muss. Sie seien stabil und hielten ziemlich hohe Temperaturen aus. Zudem sind Aminosäuren relativ einfach zu erschaffen, was andere Forscher mit «Ursuppen-Experimenten» zeigten. Aminosäuren findet man auch auf Meteoriten, im Verhältnis dazu jedoch kaum Bausteine von Ribonukleinsäuren (RNA), welche die meisten Wissenschaftler:innen als die ersten chemischen Verbindungen betrachten, die die Grundlage des Lebens auf der Erde bildeten.
+
+## Weg zur ersten Zelle
+
+«Peptide haben die gleichen Fähigkeiten wie Ribonukleinsäuren: Sie können sich selbst vervielfältigen, ohne dass dafür allerdings die hohe Präzision der RNA-Vervielfältigung erforderlich ist. Wie RNA haben sie sowohl die Fähigkeit zur Speicherung und Weitergabe von Informationen als auch dazu, katalytisch aktiv zu sein», betont Riek, der in seinem Labor unter anderem erforscht, wie aus einfach aufgebauten Peptiden Amyloide werden. Amyloide sind sehr zähe, kaum mehr auflösbare Molekülkomplexe, die sich aus den immer gleichen Peptiden zusammensetzen – und solche Peptidkomplexe können Informationen speichern, weitergeben und wie Kristalle wachsen.
+
+Amyloide können zudem leicht an RNA-Moleküle binden. «Daher ist für mich klar, was am Anfang gewesen sein könnte: Aminosäuren, Peptide und schliesslich Amyloide, die irgendwann auf RNA getroffen sind und sich mit ihnen verbunden haben», erklärt Riek. «Aus dieser Verbindung entwickelte sich im Lauf der Zeit die Erbinformation».
+
+Ein solches Treffen der chemischen Grundbausteine könnte in hydrothermalen Schloten in der Tiefsee oder in einem urzeitlichen Gezeitentümpel, in dem sich durch Verdunstung Moleküle aufkonzentrieren konnten, stattgefunden haben. Die hohen Konzentrationen führten zur spontanen Synthese komplexerer Moleküle. «Im offenen Ozean wird das nicht passieren, weil die Verdünnung viel zu gross ist», gibt der Forscher zu bedenken.
+
+## Von primitiv zu komplex
+
+Wie es jedoch zur Bildung einer ersten Zelle kam, wissen Forschende nur ansatzweise. «Darüber haben wir nur sehr wenige Informationen», sagt Riek, der auch Physik und Biologie als fachlichen Hintergrund hat.
+
+Zentral scheint jedoch zu sein, dass sich in der molekülreichen Ursuppe geschlossene Kompartimente formieren konnten, und dafür brauchte es Fettsäuren. Solche Vorgänger von Lipiden können sich spontan zu Membranen zusammenlagern und kleine Bläschen bilden – von der Ursuppe abgetrennte Reaktionsgefässe also, in denen Substanzen und Moleküle noch stärker aufkonzentriert werden. Ein solches Vesikel begünstigt und beschleunigt chemische Reaktionen um ein Vielfaches.
+
+«Die Vesikelbildung war wohl auch der Schlüssel für die Entstehung von Einzellern, in denen sich komplexere Moleküle wie RNA weiter vervielfältigen konnten und in denen sich ein Stoffwechsel entwickelte, der genügend Energie erzeugt, um die Vervielfältigungsprozesse zu beschleunigen, und die Weitergabe genetischer Information verbesserte», ergänzt Martin Pilhofer, Professor am Institut für Molekularbiologie und Biophysik der ETH Zürich.
+
+## Urahn aus der Tiefsee
+
+«Wie lange diese Phase dauerte, ist unklar. Je weiter wir in der Erdgeschichte zurückgehen, desto unsicherer werden unsere Hypothesen und Erkenntnisse», sagt Pilhofer. Auch das Auftreten der ersten Einzeller lässt sich nicht genau festmachen. Geschätzt wird, dass sie vor rund 3,5 bis 4 Milliarden Jahren in Erscheinung traten, wie fossile Bakterien belegen. Mit Sicherheit war die Erde vor 3 Milliarden Jahren belebt.
+
+Wahrscheinlich ist, dass die ersten Einzeller an Orten mit externer Energieversorgung entstanden – also im Umfeld von hydrothermalen Schloten in der Tiefsee oder von heissen Quellen, wie es sie beispielsweise im Yellowstone-Nationalpark gibt. Erst durch die Entwicklung eines eigenen Stoffwechsels gelang es den Einzellern, sich von der externen Energiequelle unabhängig zu machen und neue Lebensräume zu erobern.
+
+Im Umfeld von solchen Unterseeschloten könnten sich einzellige Lebewesen früh in unterschiedliche Richtungen entwickelt haben: «Wir vermuten, dass sich an solchen extremen Orten ursprüngliche Einzeller bald nach ihrer Entstehung in Bakterien und Archaeen aufspalteten», sagt Mikrobiologe Pilhofer.
+
+## Zu den Personen
+
+Bakterien und Archaeen, früher auch als Archaebakterien oder Urbakterien bezeichnet, sind meist einzellige Organismen ohne Zellkern. Sie bilden im phylogenetischen Stammbaum zwei grosse Domänen. Eine dritte Domäne stellen die Eukaryonten dar. Eukaryonten haben im Gegensatz zu Bakterien und Archaeen einen Zellkern, in welchem die Erbsubstanz DNA gehortet wird. Eine weitere Eigenheit von Eukaryonten sind zudem die durch Membranen abgetrennten Zellkompartimente wie Mitochondrien oder Chloroplasten.
+
+Forschende suchen schon lange nach Erklärungen dafür, wie aus bakteriellen oder archaeellen Mikroben Eukaryonten hervorgehen konnten. Viele Wissenschaftler:innen halten es für möglich, dass eine Wirtszelle ein Bakterium «geschluckt» hat. Dieses hat sich im Laufe der Zeit zum Mitochondrium, dem Kraftwerk von Eukaryonten, weiterentwickelt. «Dass es ein solches Ereignis gegeben hat, ist unumstritten», sagt Pilhofer. Ein weiteres solches Ereignis dürfte auch dazu geführt haben, dass ein photosynthetisch aktives Cyanobakterium in eine Zelle aufgenommen wurde und zum Chloroplasten wurde, der in grünen Pflanzen und Algen Photosynthese betreibt.
+
+Welches diese Wirtszelle – der Urahn der Eukaryonten - gewesen sein könnte, ist hingegen nicht klar. Nun aber lüftet sich der Schleier: Vor wenigen Jahren publizierten Wissenschaftler:innen neue Erkenntnisse über eine ursprüngliche Gruppe von Archaeen, die erst kürzlich entdeckt wurde.
+
+## «Globe» Dem Leben auf der Spur
+
+Sie stammen von einem thermalen Tiefseeschlot namens Loki’s Castle. Das Hydrothermalfeld, wo 300 Grad Celsius heisses Wasser aus den Gesteinskaminen strömt, wurde erst 2008 im Nordatlantik in 2300 Metern Tiefe gefunden. Schwedische Forschende nahmen Sedimentproben und analysierten das darin enthaltene genetische Material. Damit konnten sie die Genome von unbekannten Organismen rekonstruieren. «Diese Erkenntnisse haben die Sichtweise auf den Stammbaum des Lebens revolutioniert», betont Pilhofer.
+
+Denn die Genome deuteten auf eine neue Gruppe von Archaeen hin, die in Anlehnung an den Fundort Loki’s Castle zuerst als Loki-Archaeen bezeichnet wurden, später aufgrund weiterführender genomischer und morphologischer Untersuchungen als Klasse der Asgard-Archaeen eingeteilt wurden.
+
+Diese neu beschriebenen Mikroorganismen liessen den Schluss zu, dass Eukaryonten nicht eine eigene Domäne sind, sondern eine Unterdomäne der Asgard-Archaeen. Den Grund dafür erklärt Martin Pilhofer so: «Das Genom der Asgard-Archaeen enthält einige Gene, die wir typischerweise nur aus Eukaryonten kennen. Ein prominentes Beispiel ist das Gen, welches die Erbinformation für das Zytoskelettprotein Aktin trägt. Das heisst, die Archaeen verfügen über Proteine, die wir bisher nur in Eukaryonten gefunden haben.»
+
+Der Mikrobiologe mit Spezialgebiet Zytoskelette hat denn auch eine mögliche Erklärung, wie die ursprüngliche Asgard-Archaee sich das Bakterium schnappen konnte: dank Tentakeln, die durch Aktin gestützt werden. Damit erkunden sie ihre Umgebung und treten mit anderen Organismen in Austausch.
+
+Da Archaeen und Bakterien an solch extremen Orten oft in dicht gepackten, artenreichen biologischen Rasen (engl. biological mats) wachsen, finden unzählige Interaktionen zwischen Individuen und unterschiedlichen Arten statt. Mit den Tentakeln könnte ein Asgard-Archaeum schliesslich das fragliche Bakterium umschlossen und sich einverleibt haben. «Es dürfte also eine urzeitliche Asgard-Archaee gewesen sein, die ein Bakterium aufgenommen hat und den Grundstein legte für die Entwicklung eukaryontischer Zellen», erklärt Pilhofer.
+
+Mit seiner Gruppe ist er daran, hochaufgelöste Elektronenmikroskopiebilder von den Asgard-Archaeen zu machen. Auf den bisherigen Bildern kann er nicht gut genug beurteilen, ob diese Organismen ein Zytoskelett haben. Auch wollen die ETH-Forschenden klären, wie die Zellmembran der Asgard-Archaeen aussieht und ob es in diesen Zellen ein spezielles inneres Membransystem gibt. «Diese Forschung hilft uns, besser zu verstehen, wie sich eine Wirtszelle, die einst mit einem Bakterium verschmolzen ist, zu einer komplexen eukaryontischen Zelle weiterentwickelt hat», sagt Pilhofer.
+
+Roland Riek ist Professor für Physikalische Chemie am Departement Chemie und Angewandte Biowissenschaften und Co-Direktor des Centre for Origin and Prevalence of Life ( COPL ) der ETH Zürich.
+
+Martin Pilhofer ist Professor für Kryo-Elektronenmikroskopie am Departement Biologie der ETH Zürich.
+

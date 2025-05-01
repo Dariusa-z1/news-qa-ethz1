@@ -1,0 +1,28 @@
+# home-made-skis-on-the-slopes
+
+## Main article
+
+A noticeable synthetic smell wafts out of the laboratory in the ETH Zentrum building. Several long tables with metallic basins fill the small room. Part of the Bachelor's in Mechanical Engineering, the Integrative Ski Design and Fabrication Workshop is a hive of activity. Students buzz around the tables, go on the hunt for their materials and prepare for the task at hand: to make skis layer by layer according to a sandwich construction.
+
+Tobias Luthe, a professor at Chur University of Applied Sciences and founder of eco-friendly ski production company Grown, runs the workshop. One of his company's core areas is sustainable design in ski production. The course is organised by Kristina Shea , ETH Professor of Engineering, Design and Computing. She is assisted by staff members Thomas Lumpe and Jonas Schwarz. Every Wednesday afternoon in the workshop, Shea, Lumpe, Schwarz and the students explore how sustainability in engineering and design can be realised through skis.
+
+Carved images, which are later re-inserted on the ski. (Image: Tobias Luthe)
+
+To start with, the undergraduate students design their skis on computers, thus enabling them to cut out the ski cores and covering materials (often a wood veneer). The dimensions are essential in terms of how the skis are intended to be used: wide skis are better suited for deep snow, while narrower ones are ideal on groomed slopes. Along with the practical considerations, aesthetics are taken into account by the students. They use laser cutters to cut engraved images and artistically styled names into the wood.
+
+The students brush the bottoms of the skis with the most environmentally friendly two-component resin on the market, followed by several layers of natural and synthetic fibres. The students can choose between four materials: flax, basalt, glass and carbon fibres. The choice of material affects the technical characteristics, such as the ski's vibration damping ability and weight reduction, as well as its ecological footprint.
+
+The series of lectures organised in parallel to the workshop proved to be highly beneficial. “Virtually all of the students chose to refrain from using the non-environmentally-friendly carbon fibres, opting instead for natural flax and basalt fibres,” reveals Tobias Luthe.
+
+Three to four layers later, the students get to work on the ski's core. This is made of light balsa wood reinforced with flat inserts. Correct positioning is essential to the ski's balance and stiffness-to-mass distribution. To obtain the desired prestressing of the ski later on, they work using a curved metal tray that resembles a half-pipe.
+
+After applying another three to four material layers, the students cover the skis with foil, making sure it is airtight in order to create a vacuum. This exerts enough pressure on the ski to establish an airless connection between the individual layers and displacing it with the excessive resin mass. To accelerate the curing process, the skis are placed in an autoclave and subjected to a temperature of around 70 degrees Celsius for 45 minutes.
+
+The students then carve the top layers, mill and grind the sides and top, and apply the finishing touch by oiling the wood areas with natural linseed oil. At the end, the students can check the flexibility of their skis via a stress test.
+
+After six days of courses and many more hours in the workshop, it is finally time to hit the slopes in St. Anton, Austria. Under sunny skies, the students test the stability of the skis through acrobatic jumps and high speeds. As anticipated, all of the skis survived the action-packed descent without a scratch.
+
+The course's organisers came along to watch the tests. They were extremely pleased with the outcome of the workshop. “We received positive feedback from everyone. We would be happy to hold the workshop again in the future,” states Thomas Lumpe.
+
+All videos are available in full length on our ETH-YouTube-channel .
+

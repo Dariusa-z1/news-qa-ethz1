@@ -1,0 +1,22 @@
+# townhall-zur-covid-19-situation-an-der-eth-zuerich
+
+## Angeregte Frage- und Antwortrunde
+
+1200 ETH-Angehörige haben sich am Mittwoch in die Townhall zu den aktuellen Covid-Massnahmen der ETH Zürich zugeschaltet. Fokus der Veranstaltung waren der Ausblick auf den kommenden Masterplan sowie die neue Testmöglichkeit auf dem Campus. Rektorin Sarah Springman begrüsste die Teilnehmenden im Namen der ganzen Schulleitung und ging in ihren Ausführungen auf die freiwilligen Präsenzangebote für Studierende ein. ETH-Taskforce-Leiter Ulrich Weidmann gab einen Ausblick auf die Massnahmen des neuen Masterplans, der kommenden Montag, 26. April in Kraft treten wird. Der Plan wird diesen Freitag publiziert und ändert für die meisten Mitarbeitenden wenig: Die Home-Office-Pflicht gilt bis auf Weiteres. Diese Tatsache macht vielen von uns auch in den nächsten Wochen zu schaffen. Der angespannten Situation ist sich auch Julia Dannath, Vizepräsidentin für Personalentwicklung und Leadership, bewusst. Sie betonte, wie wichtig die gegenseitige Unterstützung im Moment sei und zeigte Möglichkeiten auf, wie wir die Motivation weiter hochhalten können.
+
+## Aufzeichnung verfügbar
+
+Ein Novum ist die Covid-Teststation an der ETH Zürich, die am Dienstag ihren Betrieb aufnahm. Jörg Goldhahn, Leiter des Instituts für Translationale Medizin, stellte das PCR-Testprogramm der ETH vor. Die Testkits aus den umgebauten Selecta-Automaten sind für ETH-Angehörige gedacht, die an der ETH präsent sein müssen und sollen so einen wichtigen Beitrag zur Eindämmung des Virus leisten. Dass das Testprogramm auf grosses Interesse stiess, zeigten die zahlreichen Fragen in der anschliessenden Fragerunde. Doch nicht nur die Tests, sondern auch Präsenzveranstaltungen, Impfmöglichkeiten, Gastro-Angebote und andere Covid-Themen sorgten für eine angeregte Fragerunde.
+
+## Aufzeichnung der Townhall vom 21. April 2021
+
+Sollten Sie die Townhall verpasst haben, steht Ihnen unten die Aufzeichnung sowohl in deutscher als auch in englischer Sprache zur Verfügung. Leider hat bei der Live-Veranstaltung die Funktion der Simultanübersetzung bei jenen Teilnehmenden nicht funktioniert, die sich nach Veranstaltungsbeginn bei Zoom eingewählt haben. Das Problem ist bei Zoom gemeldet und sollte bei den nächsten Townhalls nicht mehr auftreten. Die Aufzeichnung ist davon nicht betroffen.
+
+## Weitere Informationen
+
+Alle Informationen zu den Massnahmen der ETH Zürich in Zusammenhang mit dem Coronavirus finden sich auf der Corona-​Website . Dort wird am Freitag auch der neue Masterplan verfügbar sein.
+
+## Staffnet
+
+## Newsletter abonnieren
+

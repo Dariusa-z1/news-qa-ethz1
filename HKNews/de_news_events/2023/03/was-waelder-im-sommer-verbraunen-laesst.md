@@ -1,0 +1,52 @@
+# was-waelder-im-sommer-verbraunen-laesst
+
+## Das Wichtigste in Kürze
+
+- Europäische Wälder verbraunten in den letzten fünf Jahren weiträumig.
+
+- Im Hitze-Sommer 2022 kam es in Europa zur bislang grössten Verbraunung: Sie erfasste 37 Prozent der gemässigten und mediterranen Waldregionen.
+
+- In der dreijährigen meteorologischen Vorgeschichte einer Verbraunung finden sich charakteristische Wettersignale als Vorläufer der Ereignisse.
+
+Als wäre es bereits im Juli Herbst. Wer im Sommer 2018 durch Schweizer oder deutsche Wälder wanderte, konnte förmlich sehen, wie das heisse und trockene Wetter in Zentraleuropa den Bäumen zu schaffen machte. Vor allem Fichten und Buchen welkten vorzeitig, Blätter und Nadeln verfärbten sich braun, ganze Bestände waren unter Dauerstress. Seither folgten weitere Sommer, in denen Wälder europaweit verbraunten.
+
+Forschende der ETH Zürich haben nun sämtliche Ereignisse solch vorzeitiger Verbraunung in den gemässigten und mediterranen Wäldern Europas während der letzten 21 Jahre (2002 bis 2022) systematisch untersucht. Ihre Studie, die sie gemeinsam mit Kollegen der Forschungsanstalt für Wald, Schnee und Landschaft WSL verfassten, ist soeben in der Fachzeitschrift externe Seite Biogeosciences erschienen.
+
+## Verbraunungsrekord im letzten Sommer
+
+Um die Waldverbraunung europaweit zu studieren, ermittelten die Forschenden anhand von hochaufgelösten Satellitendaten Ereignisse von weiträumig reduziertem Waldgrün im Sommer. Reduziertes Grün ist ein Zeichen für verminderte Vitalität und Stress von Wäldern und wird auch als Indikator für Waldsterben verwendet.
+
+Die Resultate bestätigen bisherige Beobachtungen: Die sommerliche Verbraunung hat sich europaweit ausgebreitet. Besonders die zentraleuropäischen (gemässigten) Wälder sind in den letzten fünf Jahren stark und weiträumig verbraunt. Im Mittelmeerraum ereigneten sich solche grossflächigen Phänomene bereits seit 2003 mehrmals.
+
+## Gesucht: Gemeinsame Vorgeschichte
+
+In ihrer Analyse quantifizierten die Forschenden auch erstmals den Rekord-Sommer 2022 und dessen Folgen für europäische Wälder. Jetzt zeigt sich: Im bislang heissesten Sommer seit Messbeginn kam es in Europa auch zur ausgedehntesten Verbraunung, die 37 Prozent der gemässigten und mediterranen Waldregionen erfasste – «weit mehr als jedes andere Ereignis in den vergangenen zwei Jahrzehnten», sagt Mauro Hermann, Doktorand in Atmosphärendynamik bei ETH-Professor Heini Wernli und Erstautor der Studie.
+
+Eigentlich verfolgte das ETH-WSL-Team jedoch ein anderes Ziel. «Wir wollten verstehen, wie das Wetter über mehrere Saisons die Wälder grossflächig beeinflusst», erklärt ETH-Professor Heini Wernli, der die Studie geleitet hat. Dass Trockenheit dabei eine zentrale Rolle spielt, liegt auf der Hand. «Allerdings ist der Zusammenhang zwischen Wald und Wetter weit komplexer, als es auf den ersten Blick erscheinen mag», verrät der Professor für Atmosphärendynamik.
+
+## Spezifische Vorläufer identifiziert
+
+«Nicht jede Trockenperiode – auch wenn sie intensiv und anhaltend ist – lässt Wälder sogleich verbraunen», ergänzt Hermann und verweist auf den sogenannten Legacy-Effekt (deutsch: «Erbe»), der seit wenigen Jahren in unseren Wäldern beobachtbar ist. Wie gut Bäume Hitze und Dürre überstehen, hängt demnach nicht nur von den aktuellen Wetterbedingungen ab, sondern auch von jenen in den Monaten oder Jahren davor.
+
+Auch deshalb analysierten die Forschenden insbesondere auch die meteorologische Vorgeschichte der Verbraunungsereignisse. Das Ziel: Charakteristische Wetterverläufe finden, die vielen Ereignissen mit vorzeitiger Verbraunung vorangegangen sind.
+
+## Bürde der Vorjahre bestätigt
+
+Tatsächlich fanden die Forschenden charakteristische Wettersignale lange vor den Ereignissen – eine Art Vorläufer der Verbraunung mit teils spezifischen Merkmalen für Zentraleuropa und den Mittelmeerraum. «Generell sehen wir, dass Perioden mit wenig Niederschlag über zwei bis drei Jahre vor den Ereignissen ungewöhnlich häufig auftreten», erklärt Hermann.
+
+Vermehrte Trockenperioden mit einem deutlichen Niederschlagsdefizit über mindestens zwei vorangehende Jahre bilden denn auch den auffälligsten meteorologischen Vorläufer in beiden Zonen – im Mittelmeerraum reichen gehäufte Trockenperioden sogar bis drei Jahre zurück. Weitere Signale sind erhöhte Temperaturen während mindestens zwei Jahren in der gemässigten Zone. «Bei einer Waldverbraunung in Zentraleuropa beobachteten wir also in der Regel mindestens zwei ungewöhnlich trockene und heisse Sommer in Folge», hält Hermann fest.
+
+## Keine Vorhersagen, aber Hinweise
+
+Beispiele aus den 21 untersuchten Jahren verdeutlichen dies: Der in weiten Teilen Europas sehr heisse und trockene Sommer 2003 hinterliess kaum grossflächige Spuren in der Farbe der Wälder. Seit 2018 sind grossräumige Trockenheit und Hitze aber wiederholt aufgetreten, so dass sich ausgedehnte Verbraunung sogar mehrfach ereignete.
+
+«Eine besondere Erkenntnis der Studie ist, dass die identifizierten Wettersignale auf die Folgen vorjähriger Trockenheit hindeuten und so den Legacy-Effekt untermauern», stellt Hermann fest. Das heisst, dass ein einziger heisser und trockener Sommer meist nicht unmittelbar zu einer Verbraunung führt, aber verzögert zu einer künftigen Verbraunung beitragen kann.
+
+## Literaturhinweis
+
+Erlauben die Vorläufersignale es, Dürrestress und Verbraunung in Wäldern vorherzusagen? Hier sind die Forschenden zurückhaltend: «Wir haben Ereignisse rückblickend analysiert – die Vorhersagbarkeit haben wir aber nicht untersucht», so Hermann. Der Umstand, dass Trockenstress das sommerliche Verbraunen von Bäumen auch indirekt begünstigt, indem sie Borkenkäfer- und Pilzbefall sowie Waldbrände fördert, macht Prognosen generell schwierig.
+
+Auch Thomas Wohlgemuth, Leiter der Forschungseinheit Walddynamik an der WSL und Co-Autor der Studie, hält eine Vorhersage allein aus Wetterdaten für unrealistisch. Der Waldökologe denkt jedoch, dass das gewonnene Prozessverständnis zu besseren Waldmodellen führen und so der «Vorbeugung durch Waldbaumassnahmen» dienlich ist. «Ein gezieltes Monitoring des Wetterverlaufs über mehrere Saisons könnte wertvolle Hinweise darüber geben, ob im Folgesommer vorzeitig verfärbte Wälder wahrscheinlich sind», so der Waldökologe.
+
+Hermann M, Röthlisberger M, Gessler A, Rigling A, Senf C, Wohlgemuth T, and Wernli H. Meteorological history of low forest greenness events in Europe in 2002−2022. Biogeosciences (2023), doi: externe Seite 10.5194/bg-20-1155-2023
+

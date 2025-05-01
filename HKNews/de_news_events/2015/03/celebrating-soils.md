@@ -1,0 +1,26 @@
+# celebrating-soils
+
+## More than just “dirt”
+
+Centuries after Leonardo Da Vinci’s quote “We know more about the movement of celestial bodies than the soil underfoot” the gap in knowledge is shrinking and the vast complexity of soils is being more appreciated. However, as we farm, log and build more intensively on the fragile resource of soil, our soils are degrading while their importance for the future of humanity is becoming more apparent. This sparked 2015 as the International Year of Soils. We can’t eat, breathe, drink, or be healthy without sustainably managing soils (see externe Seite infograph ). Hence, we need to enact the significant advances in science and practice that can help us maintain and manage our soils into the future; our challenge is to take global action for our living soils that we depend on.
+
+Most of the time, we think about soils as being “dirt” and hence being an inert material on which we can build houses, roads, etc. Soils are, however, alive with an immense diversity of creatures that supports human and other life. Exploration of soil’s unique habitats reveals numerous microbes and fauna whose activities contribute to life-sustaining services such as cleansing water, regulating pests, and cycling of nutrients, which support the production of food, feed and fiber. An important aspect of healthy living soils is how different groups of soil creatures are connected with each other. However, this connectedness has been reduced by mismanagement of soils, such as overuse of tillage, agrochemicals, etc. Hence, we need to be aware that this interconnectedness expands to a connection between us and these creatures: we have to ensure a balanced community of soil creatures to improve their functioning in service of our long-term commitment to a sustainable future.
+
+## A matter of human health
+
+The importance of soil for feeding people is obvious, but will soils support the growing demand for food in the future? Human activities have already transformed soils, lands, and economies, with long-lasting effects such as erosion, desertification, decreased soil organic matter, altered biodiversity, reduced crop nutrition, and changed nitrogen, phosphorous and hydrological cycles; thereby decreasing the area of land available to produce food, feed, and fiber. The conversion of cropland to urban centers and the mismanagement of soils reduce the availability of fertile soils for production. Understanding and using sustainable agricultural tools and practices, including management of soil organic matter and soil biodiversity, will be key for long-term small and large-scale food, feed and fiber production.
+
+A holistic approach (see externe Seite infograph ) to managing soils serves many purposes because human health does not only depend on non-degraded soils for food, but also for clean air and water. Air pollutants derived from disturbed soils include volatile organic compounds, greenhouse gases, dust and soil organisms. These pollutants are transported by wind hundreds to thousands of miles away. Soil organisms transported by dust are potential pathogens to plants, animals and humans, for instance parasitic helminthes (worms). Current dust storms are reminiscent of the Dust Bowl in the USA in the 1930’s.
+
+## Further information
+
+Soils are also one of the largest stores of carbon that is in direct exchange with the atmosphere, indirectly affecting human health through feedbacks on climate change. Furthermore, the water we drink is dependent on maintaining soils that store, filter, and cleanse water. This understanding of the soil – clean air – clean water - human health linkage has led to air and water regulations but addressing the cause - the mismanagement of soil - is also a challenge and an opportunity for improved public health.
+
+The International Year of Soils is a time for all to celebrate soils and its functions for humanity. Still, we continuously pave fertile soils for cities and expand agriculture into marginal lands such as polar regions and deserts, while facing the climate change impacts of droughts and floods. All things considered, we should pay much more attention to the multiple benefits that managing soils provides to multiple global environmental issues and humanity in general. Franklin D. Roosevelt said in 1937 “A nation that destroys its soils, destroys itself”. We can't live without healthy soils. Thus, we need to take this opportunity provided by the International Year of Soils to bring attention to the need for action to preserve, restore and sustainably manage our living soil. And to the challenge to effectively do so.
+
+## Zum Autor
+
+externe Seite International Year of Soils (Website by the Food and Agriculture Organization of the United Nations)
+
+"Give soils their due", Editorial by Diana Wall and Johan Six, Science Magazine, 13 February 2015. DOI: externe Seite 10.1126/science.aaa8493
+

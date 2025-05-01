@@ -1,0 +1,62 @@
+# executive-board-update
+
+## Greater participation
+
+- WS 1: New Executive Board domains
+
+- WS 2: Professorships
+
+- WS 3: Support of professors
+
+- WS 4: Organisation of academic departments
+
+- WS 5: Organisation of central administrative units and boards
+
+- WS 6: Culture development
+
+A consultation was held in Autumn Semester 2019 about the proposed changes to the ETH Organisation Ordinance. This revision is the first concrete step towards implementing the rETHink development project . The centrepiece is the expansion of the ETH Executive Board to include two new vice presidents: one for Leadership & Personnel Development and one for Knowledge Transfer & Corporate Relations. The academic departments, university groups, administrative departments and staff units provided some constructive criticism regarding the plan to increase the composition of the Executive Board from four to six vice presidents. Many respondents share the Executive Board’s view that the university must ensure an appropriate response to the changing environment in terms of its organisational structure as well.
+
+## Fitness programme for the coming decades
+
+One clear criticism was the failure to consider the right of ETH members to participate in the development process. This viewpoint is understandable, given the Executive Board’s decision to announce the creation of two new vice presidents at the start of June 2019 and then to begin the recruitment process while the consultation was still ongoing. The Executive Board will bear this in mind as the rETHink project continues and give priority to the involvement of ETH members. All university groups – students, scientific staff, technical & administrative personnel and lecturers – will be included in the workstreams and their input taken on board as part of a broad participative process.
+
+## Four of the six vice presidents must be professors
+
+The right to establish its own statutes leaves ETH Zurich free to decide how it organises itself. Given the university’s extension of study programmes and physical growth, a leadership team of just five members is very small, especially compared with the executive bodies of other universities such as EPFL and the University of Zurich (seven members each) or the Technical University of Munich (eight members). Several research institutes within the ETH Domain even have bigger executive bodies.
+
+## Strong commitment to rETHink
+
+The President, Rector and the three vice presidents are confident that the new structure will strengthen the dialogue with the professorships and academic departments and will help to jointly develop new strategic research and teaching priorities, as well as intensify the dialogue with industry and society. This should avoid interference from hierarchies or bureaucracy. All adjustments should only lead to additional regulations if they cannot be achieved by improving existing processes or specifications.
+
+## Support for the project structure
+
+One of the concerns raised in the consultation was that professorial members and academic issues might in future be marginalised in the new Executive Board format. The revised ETH Organisation Ordinance caters for this: a new article ensures that the majority of vice presidents must be professors from within ETH or from outside. Obviously, they must also have all the necessary specialist qualifications and leadership skills.
+
+## Further simplification of the ETH Organisation Ordinance
+
+The revised ETH Organisation Ordinance now stipulates the President’s authority to delegate, which the President has already made use of in the past. It also clarifies and complements the responsibilities of the Rector and the vice presidents and harmonises the authority to issue directives. The titles of the vice presidents were also agreed: in addition to the President and Rector, the ETH Executive Board will in future comprise Vice Presidents for Research, for Finance & Controlling, for Knowledge Transfer & Corporate Relations, for Infrastructure, and for Leadership & Personnel Development.
+
+## Regular updates from the Executive Board
+
+The consultation confirmed general agreement with the underlying goals of the rETHink project, especially the optimisation of processes, services and structures. One aspect that also became clear, however, was the need to refine the relationship between this reorganisation process and future demands. In the forthcoming project work it is important to uphold the deep-rooted principle of subsidiarity and the bottom-up approach that sets a university apart from mainstream industry. “This is a matter of course for us,” says Rector Sarah Springman, “as these qualities lay the foundation for our university’s future success. We will be giving this due consideration as the rETHink project moves along.” Much of the feedback provided by the consultation will be incorporated into the various workstreams.
+
+## Subscribe to Newsletter
+
+Part of the rETHink project involves developing the new requirements for the ETH organisation and governance based on the tasks, responsibilities and needs of its key service providers, the professorships. From this basis, the support that the academic departments need to provide to the professorships is determined, as well as how to improve the central services delivered to the academic departments and professorships by the Executive Board and the central administrative units.
+
+## Staffnet
+
+In the consultation process, no questions were raised about the project structure with its six workstreams (WS):
+
+Workstreams 2 “Professorships” and 6 “Culture development” will start work first. The core team of the “Professorships” workstream, headed by Vice President Detlef Günther, comprises not just professors but also representatives from the scientific, technical and administrative staff, students and HR. Additional ETH members will also be involved in the work in the form of several focus groups. On the operational side, the workstream will be led by Nina Buchmann and Markus Aebi, who have plenty of experience in their roles as heads of department. The composition of the other workstreams will be just as broadly supported. In addition, the Executive Board is in constant dialogue with the department heads about the rETHink project.
+
+ETH members who would like to take part in the rETHink project should contact their relevant university group. More detailed information will be provided at the Executive Board townhall meeting on 4 February, which will focus on the rETHink project.
+
+Independently of the rETHink project, the entire third paragraph of § 3 of the ETH Organisation Ordinance dealing with the tasks and authorities of the academic departments has been removed. This is because it contains provisions about the study programmes, diplomas and academic titles that are mostly already covered by other regulations. Where this is not the case, individual provisions were integrated into other articles.
+
+The revised ETH Organisation Ordinance also provides for a new, standardised organisation of the staff units. The tasks within the nine staff units are basically the same, as is the organisation of their teams. The new heads of staff units are responsible for overall coordination. The new ETH Organisation Ordinance takes effect retroactively from 1 January 2020.
+
+The Executive Board will report on the current status of the rETHink project at a townhall meeting held in the AudiMax at 10 a.m. on Tuesday, 4 February. The event will be streamed live on the website, with an English translation provided. There will also be an opportunity to ask questions and make comments.
+
+The ETH Zurich Executive Board has scheduled meetings every two weeks. This particular issue reports exclusively on a key topic discussed at the first meeting of 2020: the decisions taken following the consultation about the revision of the ETH Organisation Ordinance with reference to the rETHink project.
+

@@ -1,0 +1,44 @@
+# taking-a-chance-in-a-pandemic
+
+## Overland from China to Schaffhausen
+
+It all started in April, as the first wave of the pandemic reached its peak and resulted in huge demand for face masks. Alarmed by the supply issues in Switzerland, brothers Gabriel and Rafael Sonderegger decided to take things into their own hands. They first thought of importing masks from abroad, but were forced to reconsider as export bans were imposed by one country after another, and ultimately decided to produce and distribute their own Swiss-made masks.
+
+The name of their start-up is based on the nickname “the Sondis” used by their friends. They modified this slightly and the Swiss mask production company Sondia was born. “We wanted to try out something new and made a conscious decision to take this risk. Our instincts told us the pandemic wouldn’t be such a short-term affair,” explains Rafael.
+
+## Between books, formulae and print heads
+
+The process took the brothers (virtually) to China, where they purchased a mask production machine for CHF 100,000 by means of financial support from their family and a bank loan. The transaction was Zoom-based, as air travel was of course impossible at the time. The machine had the impressive dimensions of a wagon container and was transported by train via Russia to Schaffhausen – a real adventure given the various bureaucratic hurdles.
+
+Initially, the machine often malfunctioned and had to be repaired, and here the students were able to put their mechanical engineering studies to good use. As their intention was to manufacture certified masks, they also needed to learn about micro- and nanotechnology and materials science. Their father is an experienced engineer and was able to lend a hand with the more complex issues. The brothers now have one of the few machines of this kind in Switzerland.
+
+## Exploiting local synergies
+
+The brothers share the family business and do a large part of the work themselves: from maintaining the machine to setting up the production line to communication.
+
+Gabriel more or less put his studies on hold to work full time for the new company: “I wanted to put all my energy into efficient mask production. It’s all or nothing for me.” He has taken just individual elective modules during this interim year.
+
+## From small practices to large chains
+
+Running a start-up and studying at the same time is a challenge, as Gabriel’s older brother Rafael has also found out. Despite having to write his Bachelor’s thesis last spring, he was on hand to help and support his brother. “The odd night shift was needed and sometimes our friends were roped in when a big delivery was due,” says Rafael.
+
+As the requests rolled in, the brothers needed more staff in production and had the idea of working with an industry partner. The two chose Altra, a large Neuhausen-based organisation for people with impairments. Gabriel and Rafael currently employ five people, who manufacture up to 20,000 masks per day.
+
+## To be continued
+
+This enables them to concentrate on expanding the production line and administrative tasks, such as customer relationship management. Ninety percent of customers come to them by word of mouth. The mask business is booming – just eight months after production launch, the production facility has already paid for itself. “Even though in the beginning I thought it would be a little less complicated, it’s been a really rewarding time. The experience has been invaluable,” says Gabriel.
+
+The word spread quickly that a Swiss company was producing masks in Switzerland, for Switzerland, bringing them enquiries from small and medium-sized doctors’ surgeries and retail chains, such as Jumbo, with requests for up to 50,000 masks.
+
+## Subscribe to Newsletter
+
+The brothers were motivated to expand their product range in response to the high demand and in order to meet customer needs. “We can now print our masks with company logos,” adds Rafael. To do this, the brothers integrated an inkjet print head in the machine. Sondia now also offers a customised service – from the colour to a choice of material for both the masks and the packaging.
+
+Forecasting the future is currently a challenging task, but the unpredictable development of the pandemic and the vaccination campaign will also create new opportunities. In recent weeks, an increasing number of enquiries have come in from companies wishing to try out new mask materials and hire the brothers’ facility for use in testing. And then there are the ETH studies they plan to complete – which is why they are taking a relatively short-term approach to the ongoing development of the company.
+
+## Staffnet
+
+Sondia has evolved from a production company into a logistics company – particularly since the brothers further differentiated the product range. To do this, they had to expand their resources significantly in order to simply keep up with the delivery of masks.
+
+Rafael’s gives this advice to future start-up founders: “It’s worth approaching things with a positive attitude. A little courage and some luck will do you no end of good.” And Gabriel adds: “You also have to accept the things that go wrong – you can’t control everything.” And both agree: “It’s definitely a great adventure and unbeatable life experience.”
+

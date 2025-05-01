@@ -1,0 +1,40 @@
+# vitamin-als-jungbrunnen
+
+## «Keine Evidenz für Wirkung von Antioxidantien»
+
+Die winzigen Fadenwürmer leben länger mit Niacin. (Bild: Michael Ristow / ETH Zürich)
+
+Wer möchte das nicht: lange und gesund leben? Eine bekannte Substanz könnte dabei helfen, wie ETH-Wissenschaftler bei Fadenwürmern gezeigt haben. Vitamin B3 – auch bekannt als Niacin – sowie sein Stoffwechselprodukt Nikotinamid in der Nahrung führte dazu, dass die Würmer um rund ein Zehntel länger lebten.
+
+## Substanz imitiert Ausdauersport
+
+Wie ein internationales Forscherteam unter der Leitung von Michael Ristow, Professor für Energiestoffwechsel, in verschiedenen anderen Experimenten zeigen konnten, wirkten Niacin und sein Stoffwechselprodukt Nikotinamid über eine Reihe weiterer Stoffwechselprodukte: Wird Nikotinamid vom Stoffwechsel umgebaut, entstehen über mehrere Schritte sogenannte freie Radikale. «Diese freien Radikale führen bei den Fadenwürmern zur Lebensverlängerung», sagt Ristow.
+
+Dies mag erstaunen, denn freie Radikale gelten landläufig als ungesund. Mit seiner Ansicht widerspricht Ristow denn auch der Lehrbuchmeinung, wie sie viele andere Wissenschaftler vertreten. Es ist bekannt, dass freie Radikale Körperzellen schädigen können, ein Zustand, der als oxidativer Stress bezeichnet wird. Bestimmte Substanzen, sogenannte Antioxidantien, die auch in Früchten, Gemüse und gewissen Pflanzenölen enthalten sind, können diese freien Radikale neutralisieren. Nach Ansicht vieler Wissenschaftler sind Antioxidantien gesundheitsfördernd.
+
+## Relevant auch für den Menschen
+
+«Dafür, dass die Einnahme von Antioxidantien insbesondere in Tablettenform gesund wäre, gibt es allerdings keinerlei überzeugende wissenschaftliche Evidenz», sagt Ristow. Es stehe ausser Frage, dass Früchte und Gemüse gesund seien. Das liege aber an anderen Pflanzeninhaltsstoffen wie den Polyphenolen. «Obst und Gemüse sind gesund, obwohl sie Antioxidantien enthalten», sagt der ETH-Professor. Er ist vielmehr davon überzeugt, dass geringe Mengen an freien Radikalen und der durch sie ausgelöste oxidative Stress gesundheitsfördernd wirken. «Körperzellen können gut mit oxidativem Stress umgehen und ihn wieder abbauen», sagt Ristow.
+
+In früheren Studien bei Menschen zeigte Ristow, dass die gesundheitsfördernde Wirkung von Ausdauersport über eine gesteigerte Bildung von freien Radikalen vermittelt wird – und dass Antioxidantien diesen Effekt aufheben. Aus der jetzigen Studie schliesst er, dass Niacin einen ähnlichen Stoffwechselzustand wie bei Sport herbeiführt. «Niacin lässt den Körper glauben, er würde Sport betreiben – ohne dass dies wirklich der Fall ist», sagt Ristow. Die Wirkung von Sport imitierende Substanzen werden auf Englisch als «exercise mimetics» bezeichnet.
+
+## Umstrittene Wirkung von Enzymen
+
+Die Forschenden machten ihre Experimente im Modellorganismus Caenorhabditis elegans. Dieser nur ein Millimeter kleine Fadenwurm ist einfach zu züchten und hat eine Lebensdauer von nur einem Monat, weshalb er in der biomedizinischen Forschung für Alterungsexperimente sehr beliebt ist.
+
+Die Ergebnisse der Studie könnten auch für den Menschen relevant sein, sagt Ristow. Denn der Stoffwechselweg um Niacin ist bei Fadenwürmern und höheren Lebewesen sehr ähnlich. Ob Niacin ähnliche Wirkungen auf die Lebenserwartung von Mäusen hat, ist Gegenstand von Ristows derzeitiger Forschung. Frühere Studien legen einen gesundheitsfördernden Effekt von Niacin auch bei Menschen nahe: Die Substanz senkt erhöhte Blutfettspiegel.
+
+## Kontakt
+
+Niacin und Nikotinamid sind seit vielen Jahren als Nahrungsergänzungsmittel zugelassen. Ristow könnte sich gut vorstellen, dass die Substanzen in Zukunft breit zum therapeutischen Einsatz kommen. Eine ganze Reihe an Nahrungsmitteln enthalten natürlicherweise Niacin: Es ist unter anderem in Fleisch, Leber, Fisch, Erdnüssen, Pilzen, Reis und Weizenkleie enthalten. Ob die Menge, die man über die Nahrung aufnehmen kann, allerdings für einen gesundheitsfördernden oder lebensverlängernden Effekt ausreicht, ist laut Ristow noch zu beweisen.
+
+Hintergrund der jüngsten Studie zu den Wirkungen von Niacin und Nikotinamid ist eine bestimmte Klasse von Enzymen, die Sirtuine. Diese Enzyme wandeln Niacin in Nikotinamid um. Ausserdem sind sie in der Regulation von Genen beteiligt: Sie tragen dazu bei, die Aktivität bestimmter Gene zu drosseln. Unter Wissenschaftlern war bisher umstritten, ob Sirtuine lebensverlängernd wirken.
+
+Die Arbeit von Ristow und seinen Kollegen legt nun nahe, dass die Aktivität von Sirtuinen bei Fadenwürmern tatsächlich das Leben verlängert. Allerdings ist die lebensverlängernde Wirkung laut der Studie nicht auf die Genregulation zurückzuführen, wie es in der Vergangenheit oft vermutet wurde. Vielmehr hat die Wirkung mit der Umwandlung von Niacin in Nikotinamid zu tun. Bei gentechnisch veränderten Fadenwürmern, die nicht fähig waren, Nikotinamid in bestimmte weitere Stoffwechselprodukte umzuwandeln, beobachteten die Wissenschaftler kein verlängertes Leben, auch nicht nach Aktivierung von Sirtuinen, die ansonsten zu einer gesteigerten Lebenserwartung führt.
+
+Schmeisser K et al.: Role of Sirtuins in Lifespan Regulation is Linked to Methylation of Nicotinamide. Nature Chemical Biology, 2013, Online-Vorabveröffentlichung, doi: externe Seite 10.1038/nchembio.1352
+
+ETH Zürich Prof. Michael Ristow Professur für Energiestoffwechsel Tel. +41 44 655 74 46
+
+ETH Zürich Media Relations Tel. +41 44 632 41 41
+

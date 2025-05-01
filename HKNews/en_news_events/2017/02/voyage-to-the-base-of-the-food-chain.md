@@ -1,0 +1,46 @@
+# voyage-to-the-base-of-the-food-chain
+
+## Golden sediment in the filter
+
+The captain sets course directly south out of Hobart, taking us across the Antarctic Circumpolar Current in just five days. This strongest of ocean currents flows eastward around Antarctica, transporting nutrient-rich water from the dark depths to the sunlit surface layer. Thriving in these icy, wind-whipped waters are diatoms – photosynthetic, single-celled organisms that encase themselves in opal shells as protection from their tiny, toothy predators.
+
+Phytoplankton from the Southern Ocean. (Image: ACE Expedition)
+
+## Where the food chain begins
+
+I spend the first few days filtering water samples taken from the upper kilometre of the ocean. Only later, back at the lab, can we analyse the filter membrane to find out exactly how much silica – the opal of the diatom shells – the samples contain. But even with the naked eye I can tell a difference as we move from the subantarctic waters around Tasmania into the polar ocean. The colouration of the filter changes from green, indicating ‘normal’ algae, to yellow-brown – diatoms! The colour reminds me that a German term for these phytoplankton is Goldalgen – golden algae.
+
+You might expect algae in the Southern Ocean to thrive on all the nutrients provided by the deep water. However, as we travel south the sea remains a deep blue. If there were strong algal blooms, their chlorophyll would colour the sea slightly green. Here, as elsewhere in the open Antarctic Ocean, algae are short of the micronutrients that they, like we humans, need in order to grow. Trace metals such as iron and zinc are essential for photosynthesis; but, far away from the iron-rich dust of the continents, the seawater in this region is severely depleted in iron.
+
+## Bright blooms around the Balleny Islands
+
+Fertilises the ocean: the Mertz Glacier. (Image: Gregory De Souza / ACE Expedition)
+
+As we approach the Antarctic continent, this changes. We now face the steep ice walls of Mertz Glacier, extending as a tongue into the ocean. Mertz Glacier (named after the Swiss scientist Xavier Mertz, who lost his life while researching here) and other Antarctic ice sheets abrade the rock of Antarctica as they advance, delivering nutritious, iron-rich glacial melt water to the coastal water.
+
+## A formative process
+
+This elixir gives rise to strong algal blooms, which in turn support a magnificent ecosystem. Using sunlight, the algae convert the dissolved vital substances – nitrogen, phosphorus and carbon – into edible biomass that forms the base of the marine food web. This food web includes the whales that, during the southern summer, eat their fill of krill here.
+
+Our colleagues on board haul up a fine-meshed net they have towed through the green-tinged waters around Mertz Glacier. It may look empty, but appearances are deceptive: in addition to a couple of small Antarctic silverfish, the net teems with all kinds of transparent, salmon-coloured and jelly-like creatures – fish larvae, krill and other small animals – that are all either directly or indirectly dependent on diatoms and related species. And diatoms are not just important as a foodstuff; these tiny creatures have a significant influence on the chemistry of the global ocean, as our ETH Zurich group led by Derek Vance has recently shown ( ETH News, 07.02.2017 ).
+
+## A series on the Antarctic expedition
+
+There are also small oases far from the mainland. A few days after we leave Mertz, we reach the Balleny Islands at 67°S, a small ice-covered archipelago with sheer basalt walls rising unexpectedly from the sea.
+
+Data from research satellites paint an impressive picture of this region: in the southern summer, massive algal blooms glow all around the islands. As our group of researchers from the ETH as well as Geneva and Bern University sights the reddish cliffs and black-flecked ice of the Ballenys, our first thought is ‘Iron’! Although ‘island effects’ induced by natural iron fertilisation have been recorded for other southerly islands, there are as yet no iron measurements for the seawater surrounding the remote Balleny Islands. Enthralled, we sample the ocean, carefully filter the water in clean-laboratory conditions, and store it in acid-cleaned bottles. Now we must wait, impatiently, for a couple of months until the samples can be analysed back on land.
+
+## About the author
+
+Will the influence of these islands on the chemistry of the ocean be visible? Will we see some reaction to this in the biological data our fellow researchers on board are collecting – a change in algal abundance or species composition, perhaps? It’s still too early to tell.
+
+For me, this expedition has already proved hugely worthwhile. Being out here in this wild ocean, watching the water constantly changing colour, feeling the surge and well of the waves, marvelling at how this inhospitable region bristles with life, is an amazing experience. My insight into the world of diatoms, previously limited to research in the lab, is now immeasurably deeper.
+
+Plan of the route. (Diagram: ACE Expedition)
+
+The researchers of the Swiss Polar Institute’s Antarctic Circumpolar Expedition (ACE) are currently on the second leg of their round journey on the Russian icebreaker Akademik Treshnikov, sailing from Tasmania to Chile. ETH researchers on board are recording their experiences in the Zukunftsblog.
+
+Further information: Swiss Polar Institute , ACE Facebook , ACE Twitter , Ship-Tracker .
+
+Marie Skłodowska-Curie Research Fellow at the Institute of Geochemistry and Petrology, ETH Zurich
+

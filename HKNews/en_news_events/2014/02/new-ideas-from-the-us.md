@@ -1,0 +1,44 @@
+# new-ideas-from-the-us
+
+## New methods of learning
+
+How do students learn at other universities? How do foreign universities evaluate their teaching? What infrastructure is required for innovative teaching? The aim of the “Raus aus den vier Wänden” (“Leaving our comfort zone”) project, in short “Rad4W”, is to find answers to these and other questions regarding teaching.
+
+The project emerged as the winner of an Innovedum competition. Innovedum is the Rector’s fund for financing initiatives. It promotes innovative ideas that improve learning and teaching at ETH Zurich in the long term.
+
+## Workshops for preparation
+
+Mechanical engineering student Benedikt Ummen, who also won “ Ideenwettbewerb13 ” in February 2014, came up with the idea for Rad4W when he visited Delft University of Technology: “I was particularly enthusiastic about the infrastructure of the large university library in Delft. Every student can find a quiet place to revise there around the clock during the exams period. I would have liked to take the blueprints back home with me to ETH.”
+
+According to his idea, ETH delegations consisting of professors and students, scientific staff and staff unit employees should regularly visit outstanding universities and study the teaching methods and infrastructures there, while examining whether they can also be applied at ETH.
+
+## First results
+
+The first delegation headed up by Rector Lino Guzzella visited California’s Stanford University. It is located about 60 kilometres from San Francisco. Doctoral student Andreas Steiger was also on the first trip: “Stanford lends itself for comparison, because with about 15,000 students it is of a similar size as ETH, and the ratio of undergraduate students to graduate students is also comparable.”
+
+Contrary to the federal university of ETH Zurich, Stanford is a privately funded institution and a comprehensive university. Only about seven per cent of applicants are admitted.
+
+## Flexible workrooms
+
+The ETH representation prepared for its visit in four workshops and thereby determined the focal topics of its visit, such as new teaching concepts, student accommodation on the campus and the teaching infrastructure. Via a blog, anyone interested could table their questions and accompany the trip. In its report, which is now available, the experiences of the trip are presented in detail and examined for potential implementation.
+
+Stanford relies on Massive Open Online Courses (MOOCs) and Small Private Online Courses (SPOCs). They are integrated in a so-called flipped classroom. This integrated teaching method no longer relies on ex-cathedra teaching with subsequent tutorials. The concept envisages students being sent the theoretical material before the lecture (video, script, interactive SPOC contents, etc.).
+
+## An atmosphere of prototyping
+
+The ETH delegation believes ETH has taken the right approach with its TORQUEs concept (Tiny, Open-with-Restrictions courses focused on QUality and Effectiveness). The focus is therefore on the quality of teaching provided to ETH students, while MOOCs are predominantly designed for a large number of attendees outside of the university. The delegation recommends actively advertising the TORQUEs initiative and convincing the departments to use interactive teaching formats instead of traditional lectures.
+
+Contrary to ETH, there is an abundance of learning areas at Stanford. Some of the rooms are furnished as flexible auditoria, which allows converting a lecture room into a room for tutorials, group work or presentations within a matter of minutes. The delegation suggests creating flexible workrooms at ETH, too. Furthermore, students should be able to find information on free rooms quickly so that the existing rooms can be used efficiently.
+
+## ETH as a model for sustainability
+
+Contrary to ETH, student life takes place solely on the campus. Students live, learn and spend their free time on site. They have two buildings with six conference and meeting rooms as well as additional office and communal rooms at their disposal. By comparison, the HXE building on Hönggerberg no longer meets the needs of the approximately 6,000 students and nine specialist associations. For that reason, ETH should expand its rooms for specialist associations and places for students to revise.
+
+The delegation was impressed by Stanford’s approach to projects. They are initially classified as prototypes. The delegation writes in its report: “Failure is not judged, but is part of the nature of prototyping and developing.” The university provides a special infrastructure for this approach. ETH would also benefit from an “open atmosphere of prototyping”.
+
+Special rooms could encourage students and researchers to try out and develop something early on. The delegation also suggests developing teaching programmes that support this approach.
+
+When it comes to sustainability, Stanford University supports the expansion of the bicycle infrastructure with bike stands and a bike shop. An especially established office aims to raise awareness for energy and environmental issues among students and employees. From the perspective of the delegation, ETH has stolen a march on Stanford with its sustainability initiatives. It suggests expanding the existing e-Velolink further and fitting bike racks on the Science City Link buses so that cyclists are also encouraged who previously shied away from the Hönggerberg ascent.
+
+Rector Lino Guzzella rates the trip as a success: “We have received some new ideas. The Executive Board will now discuss them and decide which ones will be implemented at ETH.”
+

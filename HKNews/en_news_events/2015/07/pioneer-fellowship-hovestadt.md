@@ -1,0 +1,34 @@
+# pioneer-fellowship-hovestadt
+
+## Massive reduction in error rates
+
+- Nescher Thomas: “Real Walking in Virtual Environments”
+
+- Claudia Kuster: “Gaze Correction for Mainstream Video Conferencing”
+
+- Franz-Josef Obermair: “Taking the MCR technology from bench to bedside”
+
+- Tomas de Wouters: “Re-assembled functional intestinal microbiota for safe and effective treatment of Clostridium difficile infections”
+
+- Tina Hovestadt: “SwissBlot – the smart way to analyze proteins”
+
+Western blotting is a molecular biological technique used to detect proteins and is a common procedure in the field of biochemistry. This test is carried out more than 6,000 times every day in Europe alone. Its applications include everything from the development of new medication to diagnosing infections and inspecting foodstuffs. That said, the method currently used is still very time-consuming and prone to errors. Each individual experiment takes approximately six hours, and one in four is unsuccessful and has to be repeated. This is what Tina Hovestadt wants to change. The 25-year-old woman, who submitted her Master’s thesis in Mechanical Engineering this June, is currently developing a device that may revolutionise protein analysis.
+
+‘Swissblot’ is the name of this technology, and Hovestadt has now received a Pioneer Fellowship from ETH Zurich to support its development. These fellowships are designed to support young researchers in the development of innovative products or services. The result of the research should either benefit society or have a commercial application.
+
+## Great potential
+
+The market is there: according to Hovestadt, the European market is worth 50 million Swiss francs. Swissblot is expected to vastly simplify the methods used to analyse proteins by combining the two critical stages of protein separation (called running) and protein transfer into a single, automated step. “This will massively reduce the time required while also significantly reducing the error rate,” says Hovestadt.
+
+Hovestadt is part of the Product Development Group in the Department of Mechanical Engineering and Process Engineering and is concentrating on the mechanical engineering aspects of the project. Her two colleagues, Raymond Buser, a biochemist from the Department of Biology, and Florian Rosenthal, a cell biologist from the University of Zurich, complement the interdisciplinary team with their biological expertise. However, they are also working on the entire business plan, from idea through to market launch. Hovestadt added: “There are many different aspects to developing Swissblot. I’m also enjoying looking into potential partnerships, marketing, and pricing strategy.”
+
+## Pioneer Fellowships 2015
+
+Detlef Günther, Vice President of Research and Corporate Relations at ETH Zurich, is hopeful about the project: “The Swissblot team have set themselves the goal of improving a technique that is frequently used in the field of biology; one that has always had to be carried out individually and by hand for many years,” says Günther. “This is very time-consuming, and yet it appears that no researcher to date has thought about automating this technique.”
+
+According to Günther, the idea that you could significantly increase the reproducibility of blots could have a broad range of applications and great potential. However, the team must be able to convincingly establish that the new technique will not lead to any loss of information. “I wish Tina Hovestadt and the rest of the team every success and hope that they will be able to quickly and convincingly demonstrate the viability of their technique.”
+
+But how do you cope with the pressure to succeed when you have developed a technology with such great potential while still quite young? “I see the project as a learning process,” says Hovestadt. “It’s not a good idea to set your sights too high. In my opinion, it is up to us engineers to develop solutions to problems – and everyone complains about western blot.”
+
+Five projects have been selected to receive support from ETH Zurich this year in the form of a fellowship grant worth 150,000 Swiss francs. This year’s five projects are:
+

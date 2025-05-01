@@ -1,0 +1,22 @@
+# basispruefung-flexibel-gestalten
+
+## Den Lernstoff aufteilen
+
+Wer an der ETH Zürich ein Bachelorstudium beginnt, kann frühestens nach zwei Semestern die sogenannte Basisprüfung ablegen: Das ist die erste umfangreiche Leistungskontrolle über den gesamten Lernstoff des ersten Studienjahres – und für viele Studierende ein prägender Moment in ihrer akademischen Ausbildung.
+
+## Weniger Studienabbrüche
+
+Im Rahmen eines Pilotversuchs bieten nun die vier Departemente Informatik, Informationstechnologie und Elektrotechnik, Mathematik sowie Physik ab dem Studienjahr 2016/17 erstmals an, die Basisprüfung in zwei unabhängige Prüfungsblöcke zu unterteilen. Damit können in der Wintersession 2017 gut 800 Studierende oder rund 30 Prozent des gesamten Eintrittsjahrgangs Prüfungen bereits nach dem ersten Bachelor-Semester ablegen.
+
+## Evaluation des Pilotversuchs
+
+Der Versuch umfasst die fünf Studiengänge Informatik, Elektrotechnik und Informationstechnologie, Mathematik, Physik und Rechnergestützte Wissenschaften. Er dauert vier Jahre und schliesst die Eintrittsjahrgänge 2016 bis und mit 2019 ein. Bachelorstudierende erhalten damit die Möglichkeit, den Lernstoff des Basisjahrs besser zu proportionieren: Sie können den ersten Prüfungsblock bereits nach dem ersten Semester, den zweiten Block frühestens nach dem zweiten Semester absolvieren. Es besteht jedoch keine Pflicht dazu, denn es ist weiterhin möglich, beide Teilprüfungen zusammen nach dem zweiten Semester anzupacken. Die Basisprüfung besteht, wer beide Blöcke einzeln bestanden hat. Die Frist dafür beträgt wie bis anhin vier Semester.
+
+## Informationen zum Prüfungsmodus
+
+Mit der aufgeteilten Basisprüfung werden die Examen nicht einfacher – sie rücken lediglich näher an die Lehrveranstaltungen heran und lassen sich zeitlich flexibler gestalten. Zudem erfolgt die Leistungskontrolle ähnlich häufig wie im weiteren Studium. «Ein wichtiger Aspekt ist, dass die Studentinnen und Studenten ein früheres Feedback erhalten zu ihrem Wissensstand und ihrer Eignung für den gewählten Studiengang», erklärt Andreas Vaterlaus, Professor für Physik und Prorektor Curriculumsentwicklung an der ETH Zürich. Auswertungen vergangener Basisjahrgänge haben gezeigt, dass im Schnitt rund 15 Prozent der Bachelorstudierenden ihr Studium abbrechen und gar nie zu einer Basisprüfung antreten, obwohl sie teils mehrere Semester studieren. Mit der flexiblen Prüfungsgestaltung möchte die ETH mehr Studierende dazu motivieren, zum Examen anzutreten. «Indem Studentinnen und Studenten früher erfahren, wo sie stehen, hoffen wir auch, die Zahl der Studienabbrüche zu reduzieren», sagt Vaterlaus.
+
+Die ETH Zürich wird die Testphase wissenschaftlich begleiten und insbesondere untersuchen, wie sich der Wechsel im Prüfungsmodus auf die Studierenden auswirkt und ob die Anzahl Studienabbrüche tatsächlich sinken. 2019 will das Rektorat entscheiden, ob die Hochschule das Projekt ab Eintrittsjahrgang 2020 fortführen und auf weitere Studiengänge ausdehnen wird.
+
+Die am Pilotversuch beteiligten Departemente haben ihre Bachelor-Studienreglemente angepasst ( Informatik , Elektrotechnik und Informationstechnologie , Mathematik , Physik und Rechnergestützte Wissenschaften ). Studierende finden darin nähere Angaben zum neuen Prüfungsmodus. Auskünfte erteilen auch Ansprechpersonen in den jeweiligen Departementen und die Studienberatung der ETH Zürich.
+

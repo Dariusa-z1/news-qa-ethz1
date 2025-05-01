@@ -1,0 +1,56 @@
+# die-eth-gastronomie-in-corona-zeiten
+
+## Homeoffice und Kurzarbeit
+
+Es kam wie ein Schock. Von einem Tag auf den anderen hiess es im März letzten Jahres: Lockdown. Über Nacht wurden sämtliche Restaurants mit sofortiger Wirkung geschlossen, auch die 20 Restaurants an der ETH. «Es war eine einmalige, bewegende Situation», fasst Pia Fach, Geschäftsführerin Gemeinschaftsgastronomie Schweiz bei der externe Seite SV Group , diesen Tag zusammen. Die SV Group ist, nebst der Compass Group, die grösste Betreiberin von Restaurants an der ETH. Zu ihr gehört u.a. die Mensa Polyterrasse, der Polysnack und der foodmarket auf dem Hönggerberg. «Unsere Mitarbeitenden identifizieren sich stark mit der ETH. Dass wir sie an diesem Tag alle auf unbestimmte Zeit nachhause schicken mussten, war sehr schwierig für sie.»
+
+## Schwierige Zeit für Mitarbeitende
+
+Auch Thomas Truttmann, Managing Director bei der externe Seite Compass Group (Schweiz) , die auf dem Hönggerberg das Fusion meal und coffee betreibt, spricht von einer herausfordernden Zeit. In Windeseile mussten Massnahmenpläne erstellt werden, der Organisationsaufwand war hoch – und so auch das Tempo. «Es war – und ist – eine Zeit der schnellen Entscheide. Man kann gar nicht mehr lange zuwarten, die Überlegungszeit ist viel kürzer geworden. Und man muss immer wieder die Hypothesen, die die Zukunft betreffen, überprüfen», schildert Thomas Truttmann die Entwicklung seit März 2020.
+
+## Sozialer Austausch fehlt
+
+Die unbekannte Situation bringt bis heute für die Restaurant-Betreiber noch weitere Herausforderungen mit sich: Schutzkonzepte müssen umgesetzt, stetig den Vorgaben des BAG angepasst und Mitarbeitenden wie Gästen nähergebracht werden. Kommt hinzu, dass die meisten ETH-Mitarbeitenden und -Studierenden von zuhause aus tätig sind. Dies macht es für die Gastro-Unternehmen schwierig, die tägliche Gästezahl in den Restaurants vorab abzuschätzen. Die möglichen Folgen davon: Die Gastro-Betreiber kaufen zu viel Ware ein, was zu einem erhöhten Warenaufwand und Food Waste führen kann, oder bieten zu viele Mitarbeitende auf.
+
+## Schwierige Finanzlage
+
+Sowohl der SV als auch die Compass Group meldeten Kurzarbeit an – ein System, das zwar gut funktioniert, aber auch eine besonders sorgfältige Planung der Mitarbeitenden-Einsätze notwendig macht. Und wie sollten jene Mitarbeitenden beschäftigt werden, die in keinem der bald wieder geöffneten Betriebe eingesetzt werden konnten und für die Homeoffice nicht möglich war? Denn, wie es Pia Fach von der SV Group auf den Punkt bringt: «Dem Restaurant-Mitarbeitenden konnten wir nicht sagen: Nimm die Teller mit und spül sie zuhause!»
+
+## Enge Zusammenarbeit mit der ETH
+
+Für viele Mitarbeitende war – und ist – diese Situation sehr belastend. Nebst der generellen Unsicherheit, wie lange die Pandemie andauern und welche finanziellen Konsequenzen sie haben wird, kam ein Mangel an Beschäftigung hinzu. «Nicht arbeiten zu können, ist nur zu Beginn lustig», beschreibt Thomas Truttmann die Situation. «Unsere Mitarbeitenden sind Gastgeber. Sie brennen darauf, wieder in ihre Betriebe zurückzukehren und Gäste zu bewirten. Für sie ist diese Situation sehr schwierig. Wir führen vereinzelt Restaurants in der Schweiz, in denen unsere Mitarbeitenden seit über einem Jahr keinen Fuss in einen Betrieb gesetzt haben und seit dann voll auf Kurzarbeit sind. Zum Glück ist dies an der ETH nicht der Fall.»
+
+## Krise bot auch Chancen
+
+Um hier etwas Abhilfe zu schaffen, setzten die SV Group und die Compass Group ihre Mitarbeitenden wenn möglich rotierend in den geöffneten Betrieben ein. Zudem gab’s digitale Weiterbildungsangebote und regelmässige Online-Meetings, an denen über die weiteren Schritte informiert wurde.
+
+## Was bleibt?
+
+Aber dennoch – was fehlt, ist der soziale Austausch. «Da geht’s unseren Mitarbeitenden so, wie dem Rest der Bevölkerung. Viele sind müde, ihnen fällt zuhause die Decke auf den Kopf, und sie möchten endlich in ihre Betriebe zurück», fasst Pia Fach zusammen.
+
+## Die aktuelle Gastro-Situation an der ETH
+
+Ebenfalls schwierig ist für die Gastro-Betriebe die finanzielle Situation. Der SV Schweiz beziffert fürs Jahr 2020 ein gesamthaftes Umsatzminus von rund 43% im Vergleich zum Vorjahr. Für 2021 rechnet das Unternehmen von Januar bis Juni sogar mit einem Umsatzrückgang um 49%. An der ETH beträgt die finanzielle Einbusse ganze 64% fürs vergangene Jahr. Mitentscheidend ist hier, dass seit Frühling 2020 an der ETH keine Veranstaltungen und daher auch keine Caterings mehr möglich sind, welche die Verluste aus dem Tagesgeschäft kompensieren könnten.
+
+## Staffnet
+
+Die global tätige Compass Group weist für die Schweiz keine separaten Zahlen aus. Dennoch dürften die finanziellen Einbussen auch hier substanziell sein.
+
+## Newsletter abonnieren
+
+Auch Personalabbau wurde zum Thema. Zwar konnten dank Kurzarbeit und natürlicher Fluktuation manche Kündigungen verhindert werden – aber längst nicht alle. Beide Betriebe rechnen zudem damit, dass es noch eine Weile dauern wird, bis sie den Stand von vor der Pandemie wieder erreicht haben.
+
+Wichtig ist für beide Unternehmen in dieser Krisenzeit die gute Zusammenarbeit mit der ETH. Marcel Zurbuchen und sein Team, an der ETH zuständig für die Gastronomie, legten von Beginn an grossen Wert auf einen engen Austausch und ein partnerschaftliches Verhältnis mit den Gastro-Unternehmen. So erliess die ETH z.B. allen Gastro-Betreibern fürs Jahr 2020 die Miete und die Nebenkostenzahlungen. Auch die Kosten für gewisse Schutzmassnahmen wie Türsteher, die die Gästezahlen in den Restaurants überwachen, trägt die ETH bis heute. «Die Gastro-Unternehmen sind langjährige Partner unserer Hochschule. Uns war es daher wichtig, ihnen in dieser besonderen Zeit wo möglich finanziell entgegenzukommen und sie fair zu behandeln», so Marcel Zurbuchen.
+
+Bei all den Schwierigkeiten, mit denen sich die Gastro-Betreiber im letzten Jahr konfrontiert sahen, gab’s aber auch positive Entwicklungen. So nutzten beide Unternehmen die Chance, bereits gestartete Projekte voranzutreiben und Neues auszuprobieren. Vom Ausbau des Take-away-Angebots über die Einführung von «Order and Collect»-Angeboten, bei denen ein Menu online vorbestellt und dann vor Ort abgeholt werden kann, die beschleunigte Markteinführung eines «smarten Kühlschranks», der mit Menus und Snacks bestückt ist, bis hin zur Essens-Heimlieferungen probierten die beiden Gastro-Unternehmen Diverses aus.
+
+Welche dieser Produkte und Dienstleistungen auch nach der Corona-Zeit im Angebot bleiben, wird sich zeigen. Und auch beim Verhalten der Gäste sehen die beiden Gastro-Profis durchaus eine Veränderung. «Wir stellen fest, dass bewusster konsumiert und noch mehr auf Qualität geachtet wird als vor der Corona-Krise», sagt Pia Fach von der SV Group. «Wenn man auswärts isst, gönnt man sich eher mal etwas – z.B. zusätzlich zum Mittagessen noch ein Dessert.»
+
+Einen ähnlichen Trend stellt Thomas Truttmann von der Compass Group fest. «Ein Restaurant ist ein Ort, an dem Menschen zusammenkommen, sich austauschen. In Zeiten von Homeoffice sind solche Begegnungs-Räume besonders wichtig geworden. Wenn der persönliche, soziale Austausch so oft fehlt, freut man sich umso mehr, Kolleginnen und Kollegen wieder zum Mittagessen oder auf einen Kaffee zu treffen. Das Bewusstsein fürs Soziale wird zunehmen», ist Truttmann überzeugt.
+
+Langsam kehrt wieder Leben zurück an die ETH – und damit auch in die Gastro-Betriebe auf dem Campus. Einen stets aktuellen Überblick, welche Verpflegungs-Angebote geöffnet sind, findet sich hier .
+
+Nach wie vor gelten die gängigen Schutzmassnahmen. Dazu gehört, dass alle Gäste gebeten sind, sich beim Eintreffen im Restaurant mittels «ETH Code Scanner» zu registrieren, beim Verlassen wieder auszuchecken und Masken zu tragen.
+
+Und noch ein Tipp: Wer das Restaurant schon vor 12 Uhr oder erst nach 13 Uhr zum Mittagessen besucht, umgeht lange Wartezeiten sowie das Anstehen vor den Essens-Ausgaben und Kassen.
+

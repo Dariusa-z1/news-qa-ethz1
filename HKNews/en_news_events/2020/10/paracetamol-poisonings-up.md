@@ -1,0 +1,28 @@
+# paracetamol-poisonings-up
+
+## It’s important to consult a professional
+
+Paracetamol (acetaminophen) is a popular source of pain relief. In Switzerland, it is available over the counter in 500 milligram tablets, but also in double the dose, in 1,000 milligram (1 gram) tablets when prescribed by a physician. Researchers at ETH Zurich have now investigated whether the availability of the higher-dose tablets could be linked to the increased incidence of paracetamol poisoning, concluding that it is.
+
+Paracetamol is the most widely used painkiller in the world. “It is a very safe drug, but only for short-term pain relief and as long as the daily dosage does not go above the recommended range,” says Andrea Burden, Professor of Pharmacoepidemiology at ETH Zurich. For adults, the recommended maximum daily dosage is 4,000 milligrams (4 grams), which equates to a maximum of four of the high-dose tablets or eight of the lower-dose tablets. When overdosed, paracetamol can cause severe poisoning, even resulting in liver failure with fatal outcomes or the need for liver transplantation.
+
+## Higher-dose tablets sell much better
+
+“One problem with paracetamol is that it is not effective for all patients or against all forms of pain,” Burden explains. “If the drug doesn’t help to ease someone’s symptoms, they may be tempted to increase the dosage without consulting a medical professional. That’s the real problem,” she says. This is also where the size of the tablets comes into play. It’s very easy to exceed the maximum daily dosage by taking just a few extra of the 1,000 milligram tablets, whereas, with the lower-dose 500 milligram tablets, the risk of accidental overdose isn’t as great, Burden explains.
+
+Her recommendation is as follows: “We recognize that pain management is challenging, and other medications may have severe adverse effects. But, if paracetamol doesn’t have the desired effect, it’s important not to simply take more tablets. Instead, people should seek professional medical advice in order to find the best therapeutic option.”
+
+## Poisonings could be avoided
+
+People in Switzerland have had access to the 1,000 milligram paracetamol tablets since October 2003. Prior to that, the highest available dose was the 500 milligram tablets. Burden and her team analysed sales figures from the Swiss pharmacists’ association Pharmasuisse and data from the Tox Info Suisse poison control centre on poisoning cases for the period before and after the higher-dose tablets were launched.
+
+From the sales data, the scientists observed that the 1,000 milligram tablets had rapidly grown in popularity since their introduction. In 2005, the 1,000 milligram tablets outsold the 500 milligram tablets for the first time. Today, sales of the 1,000 milligram tablets are ten times those of the 500 milligram ones.
+
+## Reference
+
+ETH professor Andrea Burden advocates for a critical review of how the 1,000 milligram tablets are prescribed and dispensed. “At the very least, packs of the 1,000 milligram tablets should contain a smaller number of tablets”, she says. As evidence grows that paracetamol is not suitable for chronic pain management, there is little need to have pack-sizes of 40 or 100 tablets. She also says that physicians should prescribe the lower 500 milligram dose, which can be dose adjusted to reach the 1,000 milligrams by taking two tablets when necessary. This could minimize the risk of accidentally exceeding the daily limit.
+
+By reducing the availability of the high-dose formulation, Burden believes that some of the poisoning cases could be avoided. In the meantime, she says pharmacists can help draw attention to the dangers of exceeding the daily maximum when providing these the high-dose tablets to patients.
+
+Martinez-De la Torre A, Weiler S, Bräm DS, Allemann SS, Kupferschmidt H, Burden AM: National poison center calls before vs. after availability of high dose acetaminophen (paracetamol) tablets in Switzerland: an interrupted time series analysis. JAMA Network Open, 28 October 2020, doi: 10.1001/jamanetworkopen.2020.22897
+

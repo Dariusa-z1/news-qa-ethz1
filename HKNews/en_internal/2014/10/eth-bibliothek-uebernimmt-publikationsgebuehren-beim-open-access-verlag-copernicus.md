@@ -1,0 +1,12 @@
+# eth-bibliothek-uebernimmt-publikationsgebuehren-beim-open-access-verlag-copernicus
+
+## Main article
+
+The condition is that the corresponding author of the article concerned is employed by ETH Zurich.
+
+When submitting the manuscript via the online form for the specific Copernicus journal, in the section 'Manuscript Registration' choose ETH Zurich from the drop-down menu.
+
+For any questions about the new arrangement please contact the E-Publishing Office at ETH-Bibliothek: .
+
+More information on funding Open-access publisher Copernicus
+

@@ -1,0 +1,26 @@
+# geraeusche-machen-login-sicherer1
+
+## App und Browser vergleichen Geräusche
+
+Sichere Passwörter und mehrstufige Authentifizierungssysteme sind heute wichtiger denn je: Im Internet bezahlen wir unsere Rechnungen, kommunizieren über Geschäftliches und geben allerlei Privates preis. Und doch benutzen viele Menschen das immergleiche Passwort für all ihre Konten. Dabei nehmen Identitätsdiebstahl und Internetspionage weltweit besorgniserregend zu, wie die Swisscom vergangene Woche in ihrem Security Report 2017 berichtete.
+
+Ein von ETH-Angehörigen gegründetes Start-up hat nun eine Methode entwickelt, um die Sicherheit im Netz zu verstärken – und das ohne Mehraufwand für den Nutzer. Futurae Technologies liess mit «#SoundProof» ein Produkt patentieren, das ein schnelles und sicheres Authentifizierungs-Verfahren ermöglicht. Alles was es dafür braucht, ist eine App auf dem Smartphone oder Tablet sowie ein weiteres Gerät wie Laptop oder Desktop-Computer, mit dem sich der Nutzer beim gewünschten Dienst anmeldet.
+
+Hinter der Idee stecken Claudio Marforio und Nikos Karapanos von der System Security Group des Departements Informatik. «Wir haben die Technologie 2015 an der ETH Zürich entwickelt», sagt Marforio. Seit der Firmengründung Ende 2016 sind Sandra Tobler und Samuel Berger zum Futurae-Management hinzugestossen.
+
+Sound-Proof funktioniert über Umgebungsgeräusche. Meldet sich der Nutzer auf einem Gerät bei einem Dienst an, der mit Sound-Proof arbeitet, nehmen dieses sowie ein zweites Gerät, auf dem die App installiert ist, während drei Sekunden die Geräusche rund um die beiden Geräte auf. Ein Artificial-Intelligence-Algorithmus vergleicht sie dann miteinander. Stimmen sie überein, etwa das Stimmengewirr in einem Café, der laufende Fernseher oder auch der bellende Nachbarshund, wird der Nutzer automatisch eingeloggt.
+
+Im Gegensatz zu anderen Lösungen benötigt dieses Authentifizierungs-Verfahren keine Interaktion vom Endnutzer mit seinem mobilen Gerät: das Handy kann in der Hosen- oder Handtasche bleiben. Die Technologie funktioniert sogar, wenn das Smartphone in einem Nebenraum ist – vorausgesetzt, die Tür ist offen. Wer nun eine Verletzung seiner Privatsphäre befürchtet, sei beruhigt: Die aufgenommenen Geräusche verlassen das Gerät nicht. «Wir können die Nutzer damit nicht ausspionieren», betont Marforio.
+
+## Pilotprojekte mit Banken
+
+Diese sogenannte Zwei-Faktor-Authentifizierung gibt es schon länger. So schicken etwa einige Banken ihren Kunden nach der Eingabe des Passworts auf der Webseite eine SMS mit einer Zahl. Erst nachdem man diese auf der Webseite eingegeben hat, ist man angemeldet. Das ist den meisten Nutzern aber zu mühsam, zudem wird aus Sicherheitsgründen inzwischen von SMS-Login-Authentifizierungen abgeraten. «Unser System nimmt diese Prüfung dagegen unauffällig im Hintergrund vor», sagt Tobler.
+
+Doch was, wenn ein Hacker das Passwort kennt und sich im selben Raum wie der Nutzer aufhält oder zufälligerweise gerade das gleiche im Radio hört? Auch für diesen Fall hat das Team von Futurae vorgesorgt. Loggt man sich zum ersten Mal in einem neuen Browser oder auf einem neuen Gerät ein, verlangt die App eine manuelle Bestätigung.
+
+Dieses Authentifizierungs-Verfahren ist einfach zu implementieren und kostet Unternehmen im Schnitt 60 Prozent weniger als herkömmliche Verfahren und ist besonders für den Finanzsektor, E-Commerce, E-Health und Versicherungen attraktiv. Schon heute führt Futurae Pilotprojekte mit Schweizer Banken und Finanzorganisationen durch.
+
+Während die Sound-Proof-Technologie das Herz der Produktpalette ist, bietet Futurae ein ganzes Set an Authentifizierungsmethoden an, etwa über QR-Codes oder Ultraschall. Letzterer kommt zur Anwendung, wenn die Umgebung absolut still ist. Ultraschall überträgt eine verschlüsselte Botschaft vom Browser zum Handy. Dieses empfängt und entschlüsselt das Signal und authentifiziert dadurch den Nutzer.
+
+Ende März hat das Team einen entscheidenden finanziellen Zustupf erhalten: Als einer der beiden Sieger des Venture-Kick-Wettbewerbs hat es 130’000 Franken Startkapital gewonnen. «Dank der Teilnahme im Venture-Kick-Programm können wir uns voll und ganz auf die Veröffentlichung und Vermarktung unserer Produkte fokussieren», sagt Tobler. Zuerst will das Start-up die Schweizer Märkte erobern. Danach steht die Expansion in Europa und den USA an.
+

@@ -1,0 +1,10 @@
+# neu-zugriff-auf-proquest-materials-science-collection
+
+## Main article
+
+Sie umfasst mehrere Teildatenbanken, hierbei vor allem die Gebiete
+
+Zudem verzeichnet die ProQuest Materials Science Collection
+
+Die externe Seite ProQuest Materials Science Collection enthält Quellen, die in interdisziplinären Datenbanken wie z. B. Web of Science nicht nachgewiesen werden.
+

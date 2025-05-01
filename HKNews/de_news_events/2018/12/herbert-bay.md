@@ -1,0 +1,38 @@
+# herbert-bay
+
+## Schicksalhafte Begegnung
+
+Herbert Bay steht mit beiden Beinen fest im Leben. Doch bei der Arbeit vermischen sich für ihn reale und virtuelle Welt. Der 44-Jährige ist leitender Softwareentwickler im Bereich Digital Health und User Perception beim US-Unternehmen Magic Leap in Zürich. Die Firma ist auf Anwendungen im Bereich «mixed reality» spezialisiert, wobei 3D-Bilder dem realen Raum überlagert werden. Sie hat kürzlich zusammen mit dem Krankenversicherer CSS den Prototyp einer virtuellen Physiotherapeutin entwickelt. Diese wird über eine 3D-Brille ins Wohnzimmer des Nutzers projiziert und leitet ihn bei seinen Therapieübungen an. Weitere Anwendungen sind in der Entwicklung. «Mich hat die Idee schon immer fasziniert, eine Person virtuell an einen anderen Ort zu teleportieren», sagt Bay. Spätestens seit er mit 12 Jahren «Star Wars» im Kino sah.
+
+Die Stelle bei Magic Leap hat er erst vor wenigen Monaten angetreten. Zuvor lebte er eine andere Leidenschaft: Vier Jahre lang reiste er auf einer 12-Meter-Segelyacht über die Weltmeere, zusammen mit seiner Frau und den heute sechs und acht Jahre alten Söhnen. Die Reise führte sie übers Mittelmeer, den Atlantik und den Pazifik bis ins ferne Neuseeland. Immer wieder blieben sie für Wochen oder gar Monate an einem Ort.
+
+Fernweh und Abenteuerlust liegen Herbert Bay im Blut. Sein Grossvater ging als Maschinenmechaniker im Ausland auf Montage, Bays Mutter verbrachte einige Jahre ihrer Kindheit auf der Karibikinsel Curaçao. Schon als Junge schaute er sich stundenlang alte Seekarten an und träumte vom Reisen. Da die Familie in Kreuzlingen lebte, lernte er Segeln und Windsurfen auf dem Bodensee.
+
+## Auf dem Tiefpunkt
+
+Nach der Sekundarschule trat Bay in die Fussstapfen seines Grossvaters und machte eine Lehre als Maschinenmechaniker. «Ich wollte so wie er die Welt erkunden.» Nach dem Militärdienst war es so weit: Bay packte sein Surfbrett und machte sich auf in die USA. Dort zog er von Ort zu Ort, jobbte nachts als Türsteher und ging tagsüber windsurfen – ein Leben, das er in vollen Zügen genoss.
+
+Doch bald verspürte er den Wunsch, mehr zu lernen. Nach sieben Monaten kehrte er zurück in die Schweiz und legte die Fachhochschulreife ab, um an der FH in Konstanz Maschinenbau zu studieren. Doch dann kam ihm eine neue Idee: Warum nicht Diplomat werden? Mit diesem Beruf würde er viel Neues lernen und in der Welt herumkommen. «Mich hatte schon wieder das Reisefieber gepackt», lacht Bay. Der schnellste Weg zum Ziel war über ein Hochschulstudium. Um sich dafür zu qualifizieren und um sein Französisch zu verbessern, ging der damals 21-Jährige an die ETH Lausanne. Dort absolvierte er den einjährigen Vorbereitungskurs für die Aufnahmeprüfung, der auch für Ausländer ohne in der Schweiz anerkannte Matura gedacht ist. Eine Entscheidung, die sein Leben verändern sollte: Im Kurs lernte er seine spätere Frau Asma kennen, die aus ­Tunesien stammt.
+
+Die beiden wurden unzertrennlich. Sie begannen Mikrotechnik an der ETH Lau­sanne zu studieren und gingen später gemeinsam für ein Austauschsemester nach Montreal in Kanada. Nachdem beide das Studium mit Auszeichnung abgeschlossen hatten, fand seine Frau eine Doktorandenstelle bei IBM Research in Rüschlikon. Bay suchte ebenfalls einen Job in der Gegend und wurde zufällig auch bei IBM fündig, jedoch in der Business-Sparte im E-Learning-Bereich. Die Tätigkeit dort wurde ihm jedoch schnell zu langweilig. Schon längst war in seinem Kopf wieder die Idee aus der Kindheit aufgetaucht, eines Tages Personen virtuell an einen anderen Ort teleportieren zu können. Um seinem Ziel wieder näher zu kommen, begann er eine Dissertation im Computer Vision Lab der ETH Zürich.
+
+## Wie im Paradies
+
+In seiner Arbeit entwickelte er ein neues, schnelleres Verfahren, um aus zwei Bildern einer Szene eine 3D-Rekonstruktion zu erstellen. Der von ihm entwickelte Algorithmus dient auch der Bilderkennung und Videostabilisierung und wird heute vielfach angewendet, unter anderem in Smartphones. Damals – im Jahr 2006 – waren Mobiltele­fone noch relativ neu, ebenso wie Virtuelle ­Rea­lität. «Der Algorithmus kam genau zur richtigen Zeit», sagt Bay.
+
+Gemeinsam mit seinem Mitdoktoranden Till Quack und dem ETH-Professor Luc van Gool gründete er den Spin-off «kooaba», um Anwendungen für die Bilderkennung auf Mobiltelefonen zu entwickeln. Sie führten die Firma zum Erfolg: 2014 wurde Kooaba vom Chiphersteller Qualcomm übernommen und in dessen Tochterfirma Vuforia integriert, die auf Mixed-Reality-Anwendungen für Mobil­geräte spezialisiert ist.
+
+Als sich der Verkauf abzeichnete, sah Bay endlich den Zeitpunkt gekommen, zur lang­ersehnten Segelreise aufzubrechen. Seine Frau und er hatten sich schon nach einem Schiff umgesehen und waren in Südfrankreich fündig geworden. Auch die nötigen ­Segelscheine hatten sie absolviert. Und von Ferientörns wussten sie, dass das Segeln mit zwei kleinen Kindern an Bord machbar sein würde. Doch dann kam der Schock: Im August 2013, einen Tag, nachdem der Kaufvertrag für das Boot abgeschlossen war, erlitt Asma einen Hirnschlag. Sie erholte sich zwar relativ rasch, doch von der Reise wollte sie nichts mehr wissen. «An Weihnachten waren wir an einem Tiefpunkt angelangt», sagt Bay.
+
+## Magazin Globe
+
+Der Verkauf seines Start-ups Kooaba war nah, aber noch nicht in trockenen Tüchern. «Mein gesamtes Geld steckte in der Firma.» Auf seinem Konto waren nur noch 50 Franken, das monatliche Einkommen der Familie ging jeweils sofort für Miete, Essen und Kinderkrippe drauf. Da fasste Asma einen Entschluss: Sie würden fahren. Wenn ihr der Hirnschlag im sicheren Zuhause passiert war, was sollte dann draussen auf den Meeren Schlimmeres geschehen können?
+
+Und so ging es im Juni 2014 los. In der Karibik und später in Französisch-Polynesien folgten paradiesische Zeiten: Baden, Tauchen, mit dem Beiboot zwischen Korallenriffen hindurch an Land manövrieren, neue Freunde kennenlernen und immer wieder unbekannte Inseln und Küsten entdecken. Besonders die Jungs genossen das Leben auf dem Wasser: «Sie waren kaum vom Boot runterzubekommen». Um weiterhin kreativ zu sein und technologisch auf dem neuesten Stand zu bleiben, entwickelte Bay unterwegs Apps und lenkte vom Schiff aus seine zweite Firma «Shortcut Media», die er noch vor dem Verkauf von Kooaba gegründet hatte.
+
+Hin und wieder gab es auf der Reise auch kritische Momente: Einmal ankerten sie in einer Bucht, in der sie sich vor einem heranziehenden Sturm geschützt glaubten. Doch der Wind drehte und traf sie mit voller Wucht. Zum Glück hielt der Anker.
+
+Nach vier Jahren – die Bays waren mittlerweile in Neuseeland angelangt – stand die Entscheidung an: weiterfahren oder die Reise beenden? Das Leben an Bord hatte auf Dauer auch seine anstrengenden Seiten und Neuseeland war weit weg von Familie und Freunden. Ausserdem bot es wenig berufliche Möglichkeiten: «Ich wollte wieder eine neue Herausforderung im Tech-Bereich annehmen und etwas bewirken.» So beschloss die Familie schweren Herzens, das Schiff zu verkaufen und in die Schweiz zurückzukehren.
+
+Obwohl es eine grosse Umstellung ist, geniesst es Bay, nun wieder sesshaft zu sein. «Vielleicht ist der Rebell in mir etwas zahmer geworden», sagt er. Und nach dem einfachen Leben auf dem Schiff weiss er den Luxus zu schätzen, einfach in den Supermarkt gehen und alles kaufen zu können. Für den Moment sei es gut, wie es ist. Aber was ist, wenn das Reisefieber irgendwann doch wieder ausbricht? Bei der Frage lächelt Bay nur verschmitzt und sagt: «Wir werden sehen.»
+

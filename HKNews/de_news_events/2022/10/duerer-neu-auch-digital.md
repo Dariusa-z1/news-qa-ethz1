@@ -1,0 +1,8 @@
+# duerer-neu-auch-digital
+
+## Main article
+
+Der Sammlungskatalog Online mit den über 50'000 digitalisierten Werken der Graphischen Sammlung ist frei zugänglich .
+
+Inzwischen sind fast alle Werke etwa von Albrecht Dürer, Rembrandt oder Pablo Picasso online verfügbar. Ebenso können sich Interessierte Neuzugänge, beispielsweise die umfangreiche Schenkung von Zeichnungen des Luzerner Künstlers Max von Moos (1903-1979), online ansehen. Das Projekt läuft weiter, und es werden stetig weitere Kunstwerke digitalisiert.
+

@@ -1,0 +1,30 @@
+# antisemitismus-in-der-geschichte-von-raiffeisen
+
+## In Kürze
+
+- Der Raiffeisengründer in Deutschland F.W. Raiffeisen (1818-1888) hatte antisemitische Vorurteile und prangerte insbesondere den angeblichen «jüdischen Wucher» an. Gleichzeitig distanzierte er sich aber um 1880 deutlich von der damals weit verbreiteten «Judenhetze».
+
+- Auch einzelne Schweizer Raiffeisenvertreter äusserten sich antisemitisch und übernahmen die Erzählung, F. W. Raiffeisen habe die deutschen Bauern von der Ausbeutung durch «die Juden» befreit.
+
+- Es fanden sich keine Hinweise auf antisemitische Praktiken im Bankgeschäft der Schweizer Raiffeisenorganisationen und diese waren auch nicht in die nationalsozialistische Raubwirtschaft verstrickt.
+
+Die Raiffeisen Gruppe in der Schweiz, zu der heute 219 genossenschaftlich organisierte Raiffeisenbanken gehören, basiert auf der um 1860 durch F.W. Raiffeisen ins Leben gerufenen genossenschaftlichen Bewegung in Deutschland. Seine Idee von genossenschaftlich organisierten Kreditinstituten, mit welcher er die wirtschaftliche Lage der Landbevölkerung verbessern wollte, wurde bald schon in weiteren Ländern Europas übernommen. Auf Initiative des Pfarrers Johann Traber entstand so denn auch um 1900 in Bichelsee TG die erste Raiffeisenkasse der Schweiz. 1902 gründeten zehn Institute den Schweizerischen Raiffeisenverband.
+
+## Die Positionen des Gründers F.W. Raiffeisen
+
+In der Vergangenheit gab es Hinweise auf antisemitische Positionen von F.W. Raiffeisen. Um zu klären, welche Rolle der Antisemitismus in der Geschichte der schweizerischen Raiffeisenbewegung spielte, hat Raiffeisen Schweiz einen Forschungsbericht beim Archiv für Zeitgeschichte der ETH Zürich in Auftrag gegeben. Dafür werteten die Forschenden unter anderem unveröffentlichte Dokumente aus den Quellenbeständen des historischen Archivs der Raiffeisen Schweiz Genossenschaft in St. Gallen aus, sowie Dokumente aus den Archiven von neun regionalen Raiffeisenbanken und die Nachlässe und Publikationen wichtiger Raiffeisenakteure. Ausserdem analysierten sie die damaligen Zeitschriften des Schweizerischen Raiffeisenverbands und recherchierten in zahlreichen weiteren Archiven in der Schweiz und in Deutschland.
+
+## Die Raiffeisenbewegung in der Schweiz
+
+Unter der Leitung von Gregor Spuhler, Leiter des Archivs für Zeitgeschichte der ETH Zürich, schauten sich die Forschenden zunächst an, wie sich der deutsche Raiffeisengründer F.W. Raiffeisen zu Juden äusserte. Die insgesamt dünne Quellenlage offenbart ein widersprüchliches Bild: F.W. Raiffeisen bediente sich antisemitischer Ausdrücke und sagte, er habe die Darlehenskassen gegründet, um arme Bauern vom «jüdischen Wucher» zu befreien. In einem verwaltungsinternen Bericht gab F.W. Raiffeisen zudem zahlreiche antisemitische Stereotype in einer pathologisierenden Sprache wieder – so bezeichnete er Jüdinnen und Juden beispielsweise als potenzielle «Krebsgeschwüre». F.W. Raiffeisens öffentliche Aussagen stehen allerdings in einem deutlichen Widerspruch dazu. Er sprach sich öffentlich explizit gegen die «Judenhetze» aus, wies darauf hin, dass es auch vorbildhafte Juden gebe, an denen sich die Christen ein Beispiel nehmen sollten, engagierte sich nicht in der antisemitischen Bewegung und forderte keine Einschränkung der Rechte der Jüdinnen und Juden.
+
+## Kontakt
+
+Die Forschenden kommen zum Schluss: F.W. Raiffeisens Aussagen über die Jüdinnen und Juden enthalten zwar viele antisemitische Vorurteile, offenbaren aber keine konsistente antisemitische Ideologie. Sie widerspiegeln eher die Virulenz und Widersprüchlichkeit der damaligen Diskurse.
+
+Ab 1902 entstanden in der Schweiz hauptsächlich in ländlichen katholischen Gebieten zahlreiche Raiffeisenkassen. Zentrale Akteure waren dabei die katholischen Männer- und Arbeitervereine. In diesem konfessionellen und sozialpolitischen Milieu waren judenfeindliche Vorurteile weit verbreitet. So äusserten sich gemäss dem Forschungsbericht Raiffeisenvertreter punktuell antisemitisch und reproduzierten die Erzählung, F. W. Raiffeisen habe die deutschen Bauern von der Ausbeutung durch «die Juden» befreit.
+
+In der Zwischenkriegszeit rückte die ursprünglich katholisch geprägte schweizerische Raiffeisenbewegung näher zum Schweizerischen Bauernverband. Die autoritären Machtübernahmen in Italien und Deutschland Anfang der 1930er Jahren wurden von Exponenten der Raiffeisenbewegung zunächst verhalten wohlwollend kommentiert. Besonders gegenüber dem nationalsozialistischen Regime, das die deutsche Raiffeisenbewegung «gleichschaltete», ging man aber schnell auf Distanz. Das NS-Regime und auch seine Judenpolitik wurde in der französischsprachigen Verbandszeitschrift bereits 1938 explizit verurteilt, in der deutschsprachigen erst nach Kriegsende. Ein kohärentes ideologisches Profil oder eine bestimmte politische Programmatik des Schweizerischen Raiffeisenverbands lässt sich aufgrund der geringen Zahl von politischen Artikeln in den beiden Verbandszeitschriften jedoch nicht herleiten.
+
+Die Forschenden fanden keine Hinweise darauf, dass Antisemitismus in der Geschäftstätigkeit des Schweizerischen Raiffeisenverbandes oder einzelner Kassen eine Rolle gespielt hätte. Es gab auch keine Anzeichen dafür, dass sich die regionalen Kassen gegen jüdische Viehhändler oder Geldverleiher gerichtet hätten. Die Statuten der Darlehenskassen schlossen Jüdinnen und Juden nicht von den Genossenschaften aus. Im Gegensatz zu vielen anderen Schweizer Banken waren die Raiffeisenkassen und der Verband mit ihrer Beschränkung aufs Inlandgeschäft auch nicht in die nationalsozialistische Raubwirtschaft involviert.
+

@@ -1,0 +1,36 @@
+# pavillon-of-reflections-verankert
+
+## Einmaliges Grossprojekt
+
+Der «Pavillon of Reflections» hat heute um halb sieben Uhr am Bellevue festgemacht. Für 100 Tage wird der Pavillon Dreh- und Angelpunkt für tausende Besucher der europäischen Kunstbiennale Manifesta 11 in Zürich sein. Zuvor zogen drei motorisierte Weidlinge unter den interessierten Blicken von Ruderern und Medienvertretern den Pavillon aus 150 Tonnen Holz und Stahl vom Mythenquai über den See zum Bellevue. Fast eine Stunde dauerte die Überfahrt, bei welcher der Bau wie ein überdimensioniertes Floss über den Zürichsee glitt. Damit findet ein einmaliges Grossprojekt mit 30 Studierenden des Departements Architektur der ETH Zürich seinen erfolgreichen Abschluss.
+
+Im Sommer 2015 haben Architektur-Professor Tom Emerson und seine Assistenten Boris Gusic und Adrian Heusser das komplexe Projekt in Angriff genommen. «Ein vergleichbares Grossprojekt haben wir noch nie mit Studierenden umgesetzt», sagt Gusic. Das Studio baue zwar mit den Studierenden häufig Pavillons, doch handele es sich um kleinere Bauten, die in kurzer Zeit errichtet werden könnten – bis auf einen wurde alle innerhalb von zwei Wochen entworfen und gebaut.
+
+Ganz andere Ausmasse hat der Manifesta-Pavillon – und das sowohl in Bezug auf die Grösse von 600 Quadratmetern Grundfläche, den Planungszeitraum als auch mit Blick auf die Vorgaben: Der Pavillon ist ein öffentliches Gebäude, das bis zu 300 Besucher fassen soll und damit auch alle Brandschutzauflagen erfüllen muss. Zudem machten die Manifesta-Organisatoren anspruchsvolle Vorgaben: Es sollte sich um eine schwimmende Konstruktion handeln, die eine Badi inklusive Toilettenanlage, eine Tribüne, eine Bar sowie einen grossen Screen für Filme umfasst.
+
+## Der Entwurf war erst der Anfang
+
+«Am 4. August 2015, also lange vor Semesterbeginn, haben wir mit den Planungen begonnen», erinnert sich Kathrin Füglister, Masterstudentin Architektur im 7. Semester. Um dem Pavillon ein unverwechselbares Gesicht zu geben, traten die 30 Studierenden in einem kursinternen Wettbewerb gegeneinander an.
+
+«Es gab mehrere vielversprechende Entwürfe, die wir kombiniert und weiterentwickelt haben», sagt Anna Maria Stallmann, Masterstudentin Architektur im 8. Semester. Während einige Studierende in Kleingruppen am Entwurf feilten, bauten andere Pavillon-Prototypen auf dem Dach des HIL-Gebäudes auf dem ETH-Campus Hönggerberg. Entstanden ist eine schwimmende Begegnungsplattform, die zu grossen Teilen aus dem nachwachsenden Rohstoff Holz gebaut wurde. Tom Emerson, Projektleiter und ETH-Professor für Architektur ist stolz auf das Ergebnis: «Die Phantasie der Studierenden bei der Kreation des Pavillons wird nur von ihrem unablässigen Engagement bei der Umsetzung übertroffen – sie haben eine grossartige Leistung erbracht».
+
+«Zu Projektbeginn haben wir vieles falsch eingeschätzt», gibt Jonatan Egli, Masterstudent Architektur im 9. Semester, zu. Denn nachdem der Entwurf stand, stellten die Studierenden fest, dass die eigentliche Arbeit erst anfing. Sie mussten die Statik prüfen und mit den Behörden verschiedene Auflagen abklären. Ausserdem mussten die Studierenden die benötigte Materialmenge berechnen und bestellen. Allein für die Holzkonstruktion wurden in den Wintermonaten aus 350 Kubikmetern (m 3 ) Schweizer Rundholz 140 m 3 Holzbretter und Balken geschnitten.
+
+## Ein Projekt bis zum Abschluss begleiten
+
+Auch galt es, die zahlreichen externen am Bau beteiligten Experten zu koordinieren. So entstand die Stahlkonstruktion in Zusammenarbeit mit der Willy Stäubli AG im Hafen Bäch (SZ), und in der ersten Woche des Pavillonbaus am Ufer des Mythenquais in Wollishofen packten die Lehrlinge der Gewerblichen Berufsschule Wetzikon mit an.
+
+Damit der Pavillon am Mythenquai innerhalb von vier Wochen zusammengebaut werden konnte, verbrachten die 30 ETH-Studierenden zudem ihre Wintersemesterferien in einer Montagehalle in Winterthur Grüze, um dort Bauteile für den Pavillon zusammenzuschrauben.
+
+«Es ging bei dem Projekt um viel mehr als Fachwissen», erzählt Kathrin Füglister. «Bevor wir loslegen konnten, mussten wir lernen, wie wir am effizientesten zusammenarbeiten und wer was macht», erzählt sie von den Tücken des Pavillonbauens. So hat sich Füglister unter anderem um das Sonnendeck gekümmert. Anna Maria Stallmann übernahm im Verlauf des Projekts die Konstruktion der Tribüne, auf der sich die Besucher zum Ausruhen niederlassen oder einen Film schauen werden. Jonatan Egli wurde zum «Herr der Schrauben». Als Schnittstelle zu den beteiligten Ingenieuren und Technikern plante er die statische Verbindung der einzelnen Bauteile. «Insgesamt habe ich über 150'000 Schrauben bestellt und dafür gesorgt, dass sie am richtigen Ort verbaut werden», sagt er.
+
+## Manifesta 11 und die ETH
+
+Trotz der Herausforderungen des Projekts sind die Studierenden begeistert. «Es ist eine tolle Abwechslung vom Studienalltag, und wir konnten erstmals ein Projekt von Anfang bis Ende begleiten», sagt Stallmann. Egli ergänzt, dass er durch das Projekt erstmals erlebt habe, wie es sich anfühle, als Architekt zu arbeiten.
+
+Bald ist es auch für die Besucherinnen und Besucher soweit: Ab 11. Juni können sie über den 50 Meter langen Steg zum Manifesta-Pavillon gehen, Filme zu den gezeigten Kunstwerken der Biennale betrachten, Getränke und Knabberzeug an der Bar bestellen oder sich in der Badi abkühlen.
+
+Vom 11. Juni bis zum 18. September findet in Zürich die Manifesta 11 statt, die europäische Biennale für zeitgenössische Kunst. Neben der Professur Tom Emerson, welche den Pavillon of Reflections auf dem Zürichsee gestaltet hat, beteiligen sich mit der Professur Alex Lehnerer sowie dem Doktorand Mathias Bürki weitere ETH-Angehörige. Alex Lehnerers Gruppe verwandelt das Cabaret Voltaire in ein externe Seite «Zunfthaus der Künste» . Dieses «Zunfthaus Voltaire» ist das 27. Zunfthaus Zürichs, mit entsprechenden Konventionen und Ambitionen: Es ist dem Berufsstand des Künstlers vorbehalten. Mitglied wird man nur, wenn man aktiv eine künstlerische Tätigkeit in Form einer «Joint Venture-Performance» ausübt. Während des Sommers wird das Zunfthaus zum zentralen, performativen Ort an der Manifesta 11. Bürki arbeitet mit der französischen Künstlerin Marguerite Humeau zusammen. Sie erforschen den Ursprung der Liebe und stellen die ersten Liebesgefühle in der Evolutionsgeschichte der Säugetiere nach. Dazu programmieren sie zwei sich autonom bewegende, künstliche Wesen. Dieses Projekt ist eines von 30 Joint Ventures zwischen Künstlerinnen und Künstlern aus aller Welt und Menschen aus verschiedenen Berufen. Jedes dieser Projekte hat drei Präsentationsformen: Eine in einem «Satelliten», eine in einer Kunstinstitution und eine als Film auf dem Pavillon of Reflections.
+
+Manifesta 11, Die Europäische Biennale für zeitgenössische Kunst, 11.6.-18.9.2016, Zürich. Vollständiges Programm und weitere Informationen unter: externe Seite http://m11.manifesta.org
+

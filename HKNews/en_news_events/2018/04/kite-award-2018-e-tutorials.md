@@ -1,0 +1,28 @@
+# kite-award-2018-e-tutorials
+
+## Teachers can shape our lives
+
+Honouring teaching: ETH Zurich’s Lecturers’ Conference (KdL) has honoured innovative teaching formats and exceptional commitment by teaching staff with the presentation of the KITE Award for the second time. “The prize aims to reward pioneering teaching concepts and inspire further ideas,” Edoardo Mazza, Professor of Mechanics and KdL President, told approximately 300 guests at the beginning of the event in the Audimax. “KITE” stands for “Key Innovation in Teaching at ETH”. “Today, simply conveying information is no longer enough,” continued Mazza. Instead, teaching is about training students to think independently and critically, and to work efficiently in interdisciplinary teams.
+
+In total, 27 teaching concepts from every department of the University were submitted; four were shortlisted. Nicolas Gruber, Professor of Environmental Physics and President of the KITE Award jury, was impressed – not only by the number of projects submitted, but also by their diversity. “The various ideas cover every area of teaching, from individual events to entire degree programmes, and are an inspiration to us all.” In the end, the award was won by the group that had least expected it. Lukas Fässler, Markus Dahinden and David Sichau received the KITE Award for their e-tutorials. “This is an outstanding example of student-centred teaching,” said jury member Professor Heribert Nacken, Rector’s Delegate for Blended Learning at RWTH Aachen.
+
+The three lecturers from the Department of Computer Science (D-INFK) developed IT tutorials which allow students to select a level of detail that matches their needs and to practice programming using example cases. “We didn’t think we had a chance; after all, we’re the only team without professors,” said a stunned Fässler of their victory as he and his teammates received the award from ETH Rector Sarah Springman. The basic idea for the tutorials arose 18 years ago and has been developed ever since.
+
+Former US Ambassador Suzan LeVine delivered the honorary speech.
+
+Suzan LeVine illustrated the importance of forward-looking teaching and committed teachers in her keynote speech. The former US ambassador to Switzerland described a teacher who made a decisive impact on her life. This teacher’s interactive lessons, she said, inspired a love of science that later led her to study mechanical engineering.
+
+## The nominated teaching concepts
+
+LeVine emphasised that the focus of today's teaching should be on equipping students with the necessary skills for the 21st century. “In future, we’ll need to think more and know less.” Knowledge is available online, she said, but we have to learn how to find the information we need. LeVine, who previously worked for Microsoft, considers core competences to include communication, collaboration, cultural awareness, critical thinking and digital skills.
+
+Mirko Meboldt, Professor of Product Development and Construction at ETH, who won the inaugural KITE Award in 2016, also stressed the importance of teaching. At the request of the KdL, he produced a gift for all four of the shortlisted teams at the event: each member received a Möbius strip. “For me, it symbolises Humboldt’s model of higher education and demonstrates that research and teaching are inextricably linked,” explained Meboldt.
+
+A virtual programming laboratory: With their e-tutorial teaching project, Lukas Fässler, Markus Dahinden and David Sichau communicate the basics of IT to more than 800 first-semester students from five departments. The lecturers from the Department of Computer Science (D-INFK) send their students to a virtual programming laboratory where they solve practical problems from their area of study using real data: for example, containing the spread of a disease, calculating an ocean current or monitoring the effects of a medication in a patient’s blood. The students are guided by an e-tutorial tailored to their abilities, which also allows them to test their knowledge themselves.
+
+Developing new teaching methods with students: Katja Köhler and Ernst Hafen founded the Centre for Active Learning at the Department of Biology (D-BIOL) in 2016. Twenty-two lecturers have since become affiliated with it. Students and doctoral candidates support lecturers in developing new teaching materials and interactive teaching methods, such as the ‘flipped classroom’, where students familiarise themselves with the material before the class via videos and documents, and then use class time to discuss it. Another method involves the analysis of quantitative data regarding the students’ learning behaviours.
+
+Sustainable learning: Volker Hoffmann doesn't just teach theoretical concepts surrounding sustainability in his Corporate Sustainability course: using interactive videos and e-modules, along with the six-sentence argument (6SA) method, he encourages students to reflect critically and put what they’ve learned into practice. In the second half of the semester, the students work in small, coached groups to draft consulting strategies, prepare debates and develop economic models based on example companies.
+
+Creative ideas with design thinking: At ETH Week, students connect with experts to identify problems and solve them using new, creative approaches. The 180 participants are supported in this task by tutors. Stefano Brusoni, Alan Cabello and Linda Armbruster anchored design thinking firmly in ETH Week in 2017. The multi-step, process-oriented method teaches students to solve problems quickly and develop new ideas.
+

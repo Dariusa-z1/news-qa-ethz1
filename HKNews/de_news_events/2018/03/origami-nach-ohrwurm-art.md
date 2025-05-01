@@ -1,0 +1,36 @@
+# origami-nach-ohrwurm-art
+
+## Simulation bringt es an den Tag
+
+Jedes Kind kennt Origami. Die fernöstliche Faltkunst ermöglicht es, aus einem flachen Blatt Papier teilweise sehr komplexe Formen zu falten. Origami kommt aber auch in der Natur vor. Eines der aussergewöhnlichsten Beispiele dafür ist der Flügel des Ohrwurms. Er übertrifft menschgemachte Faltkunstwerke bei weitem.
+
+Der offene Flügel des Ohrwurms ist mehr als zehnmal grösser als der geschlossene – ein Weltrekord im Tierreich. Die grosse Tragfläche erlaubt es dem Insekt zu fliegen. Und dank der kompakten Packung kann es auch in unterirdischen Tunneln herumwuseln, ohne die Flügel zu beschädigen. Speziell ist am Flügel allerdings noch etwas Weiteres: Im offenen Zustand ist er stabil, ohne dass der Ohrwurm dafür Muskelkraft zur Stabilisierung einsetzen muss, und mit nur einem «Klick» faltet sich der Flügel von selbst komplett ein, ebenfalls ohne Einsatz von Muskelarbeit.
+
+Forscher der ETH Zürich und der Purdue University sind nun dem Geheimnis des Ohrwurm-Origamis auf die Spur gekommen. Sie haben eine künstliche Struktur geschaffen, die nach dem gleichen Prinzip funktioniert. Die Arbeit erschien soeben in der Fachzeitschrift «Science».
+
+## 4D-Druckerzeugnis
+
+Um Aufbau und Funktionsweise des Flügels zu analysieren, nutzte der Erstautor der Studie, Jakob Faber aus der Gruppe von ETH-Professor André Studart in Zusammenarbeit mit Andres Arrieta, Professor an der Purdue University, eine Computersimulation des Flügels.
+
+Sie zeigt: Würde der Flügel nach dem klassischen Origami-Prinzip mit starren und geraden Falten mit einer Winkelsumme von 360 Grad in deren Schnittpunkten funktionieren, könnte ihn das Insekt auf nur einen Drittel seiner Grösse zusammenfalten. Vielmehr ist es für den Ohrwurmflügel zentral, dass seine Falten elastisch sind und entweder als Zug- oder Drehfeder wirken können.
+
+Tatsächlich sind die Falten des Ohrwurmflügels mit einem besonderen fädigen Protein ausgestattet, dem sogenannten Resilin. Je nach Anordnung und Dicke der Resilin-Lagen fungiert eine Falte als Zug- oder als Drehfeder. Manchmal liegen beide Funktionen kombiniert vor.
+
+## Platzsparende Solarsegel
+
+Zudem untersuchten Faber und seine Kollegen den Punkt im Ohrwurmflügel, der sowohl für die Stabilität des offenen als auch des geschlossenen Zustands verantwortlich ist: das Flügelmittelgelenk. Dort kreuzen sich Faltlinien in Winkeln, die zum klassischen Origami eigentlich nicht kompatibel sind. «Diese Stelle arretiert den Flügel im offenen wie im geschlossenen Zustand», betont Faber.
+
+Die Erkenntnisse aus den Computerexperimenten übertrugen die Forscher auf einen Multimaterial-Drucker. Damit stellten sie in einem Durchgang ein sogenanntes 4D-Element aus vier harten Kunststoffplatten her, miteinander verbunden über einen weichen elastischen Kunststoff. Die Federfunktionen der Verbindungsfalten wurde dem Material einprogrammiert, sodass diese dem natürlichen Vorbild entsprechend für Zug- oder Drehbewegungen verantwortlich sind.
+
+In seiner geöffneten Form ist das Element wie der Insektenflügel stabil. Tippt man es leicht an, faltet es sich von selbst zusammen.
+
+## Literaturhinweis
+
+Die Forscher haben das Prinzip in einem nächsten Schritt auf grössere Elemente übertragen und eine Origami-Greifzange gedruckt. Diese schliesst sich von selbst, arretiert und kann dann Gegenstände halten, ohne dass sich die Zange öffnet.
+
+Noch sind Fabers 3D-gedruckte selbstschliessende Origami-Elemente Prototypen. Als Anwendung kommt zum einen faltbare Elektronik in Frage. Aber auch die Raumfahrt ist interessiert an Solarsegeln für Satelliten oder Raumsonden, die sich auf kleinstem Raum transportieren und sich am Einsatzort grossflächig aufspannen lassen. Sich selbst arretierende Origami-Strukturen nach Ohrwurmflügelvorbild würden Platz, Gewicht und Energie sparen, da sie keinen Antrieb und keine zusätzlichen Stabilisatoren benötigen.
+
+Der ETH-Forscher kann sich aber auch profanere Dinge vorstellen wie selbst faltbare Wurfzelte, Landkarten oder Packungsbeilagen. «Faltet man eine solche auf, bringt man sie ja oft nicht mehr in ihre ursprüngliche Faltung zurück. Würde sie sich hingegen jedes Mal von selbst korrekt falten, würde das doch einige Mühe sparen», erklärt Faber mit einem Augenzwinkern.
+
+Faber JA, Arrieta AF, Studart AR. Bioinspired spring origami. Science, published online, 22nd March 2018. DOI externe Seite 10.1126/science.aap7753
+

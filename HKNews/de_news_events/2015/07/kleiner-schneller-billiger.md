@@ -1,0 +1,28 @@
+# kleiner-schneller-billiger
+
+## Der Trick mit den Plasmonen
+
+Im Februar 1880 erprobte der amerikanische Erfinder Alexander Graham Bell in seinem Labor in Washington ein Gerät, das er selbst als seine grösste Errungenschaft, noch vor dem Telefon, bezeichnete: das «Photophon». Bells Idee, mit Hilfe von Licht gesprochene Worte über grosse Entfernungen zu übermitteln, war der Vorläufer einer Technik, ohne die das moderne Internet undenkbar wäre. Riesige Datenmengen werden heute rasend schnell in Form von Lichtpulsen durch Glasfaserkabel geschickt, wozu sie allerdings zunächst von elektrischen Signalen, mit denen Computer und Telefone arbeiten, in optische umgewandelt werden müssen. Bei Bell war es noch ein simpler hauchdünner Spiegel, der Schallwellen in moduliertes Licht umwandelte. Heutige elektro-optische Modulatoren sind komplizierter, doch eines haben sie mit ihrem Urahn gemein: Sie sind mit einigen Zentimetern noch immer ziemlich gross, vor allem im Vergleich mit elektronischen Bauteilen, die nur einige Mikrometer messen.
+
+In einem wegweisenden Artikel in der Fachzeitschrift «Nature Photonics» haben Juerg Leuthold, Professor für Photonik und Kommunikation, und seine Mitarbeiter nun einen neuartigen Modulator vorgestellt, der hundertmal kleiner ist und daher leicht in elektronische Schaltkreise integriert werden kann. Zudem ist er auch deutlich billiger und schneller als herkömmliche Modelle und verbraucht massiv weniger Energie.
+
+## Brechzahl von aussen verändern
+
+Für dieses Kunststück bedienen sich die Forscher um Leuthold und seinen Doktoranden Christian Haffner, der den Modulator in wesentlichen Teilen mitentwickelt hat, eines technischen Tricks. Um einen möglichst kleinen Modulator bauen zu können, müssen sie einen Lichtstrahl, dessen Stärke elektrisch moduliert werden soll, zunächst auf ein sehr kleines Volumen konzentrieren. Nach den Gesetzen der Optik kann ein solches Volumen aber nicht kleiner sein als die Wellenlänge des Lichts selbst. Für die Telekommunikation benutzt man heute Laserlicht mit einer Wellenlänge von eineinhalb Mikrometern, die somit eine Untergrenze für die Dimensionen des Modulators darstellt.
+
+Um diese Grenze dennoch zu unterschreiten, wird das Licht zunächst in sogenannte Oberflächen-Plasmon-Polaritonen umgewandelt. Diese Zwitterwesen aus elektromagnetischen Feldern und Elektronen bewegen sich nahe der Oberfläche eines Metallstreifens fort. Am Ende des Metallstreifens wird aus ihnen wieder ein Lichtstrahl. Der Vorteil: Plasmon-Polaritonen lassen sich auf viel kleinerem Raum konzentrieren als das Licht, aus dem sie entstanden sind.
+
+## Weniger Energieverbrauch
+
+Um schliesslich die Stärke des austretenden Lichts elektrisch zu steuern und so die zur Datenübertragung nötigen Pulse zu erzeugen, nutzen die Forscher das Prinzip des Interferometers. Dabei teilt man zum Beispiel einen Laserstrahl mit Hilfe eines halbdurchlässigen Spiegels in zwei Strahlen und fügt diese mit einem anderen Spiegel wieder zusammen. Die Lichtwellen überlagern sich (sie «interferieren») und verstärken oder schwächen einander dadurch – je nachdem, wie sich ihr relativer Schwingungszustand (Phase) in den beiden Armen des Interferometers geändert hat. Eine Änderung der Phase entsteht zum Beispiel durch eine unterschiedliche Brechzahl, welche die Geschwindigkeit der Wellen bestimmt. Enthält ein Arm ein Material, dessen Brechzahl sich von aussen verändern lässt, so kann die relative Phase der beiden Wellen gesteuert und das Interferometer so als Lichtmodulator verwendet werden.
+
+Im Modulator der ETH-Forscher sind es allerdings nicht Lichtstrahlen, sondern die Plasmon-Polaritonen, die durch einen weniger als einen Mikrometer breiten Interferometer geschickt werden. Durch Anlegen einer Spannung kann wiederum die Brechzahl und damit die Geschwindigkeit der Plasmonen in einem Arm des Interferometers verändert und so ihre Schwingungsweite (Amplitude) am Ausgang moduliert werden. Danach werden die Plasmonen wieder in Licht umgewandelt, das zur weiteren Übertragung in eine Glasfaser eingespeist wird.
+
+## Literaturhinweis
+
+Der Modulator von Leuthold und Kollegen hat gleich mehrere Vorteile. «Er ist unglaublich klein und einfach, und zudem ist er der billigste Modulator, der je gebaut wurde», erklärt Leuthold. Tatsächlich besteht er aus einer nur 150 Nanometer dicken Goldschicht auf Glas und einem organischen Material, dessen Brechzahl sich beim Anlagen einer elektrischen Spannung ändert und damit die Plasmonen im Interferometer moduliert. Damit ist er viel kleiner als herkömmliche Lichtmodulatoren und benötigt dementsprechend sehr wenig Energie – bei einer Datenübertragungsrate von 70 Gigabit pro Sekunde nur wenige Tausendstel Watt. Dies entspricht einem Hundertstel des Verbauchs handelsüblicher Modelle.
+
+Dadurch trägt er auch zum Umweltschutz bei, denn die Energie, die weltweit für die Datenübertragung aufgewendet wird, ist beträchtlich – Modulatoren stecken in jeder Glasfaser-Datenleitung. Jahr für Jahr müssen wachsende Datenmengen immer schneller übertragen werden, womit auch der Energieverbrauch ansteigt. Eine hundertfache Ersparnis wäre da mehr als willkommen. «Unser Modulator schafft mehr Kommunikation mit weniger Energie», bringt es der ETH-Professor auf den Punkt. Derzeit wird die Zuverlässigkeit des Modulators in Langzeittests überprüft, ein wichtiger Schritt auf dem Weg zur Anwendungsreife.
+
+Haffner C et al.: All-plasmonic Mach-Zehnder modulator enabling optical high-speed communication at the microscale. Nature Photonics, 27. Juli 2015, doi: externe Seite 10.1038/nphoton.2015.127
+

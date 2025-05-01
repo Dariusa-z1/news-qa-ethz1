@@ -1,0 +1,24 @@
+# beim-sport-fuers-leben-lernen
+
+## Sport – die beste Schule des Lebens
+
+«Bewegung ist nicht nur für den Körper, sondern auch für den Geist und die Seele wichtig», sagt Dominique Gisin, ehemalige Skirennfahrerin und Olympiasiegerin in der Abfahrt. Gisin studiert heute Physik an der ETH Zürich und nahm Anfang dieser Woche an einer Podiumsdiskussion im Rahmen der ETH-Veranstaltung «Sports for Development» teil. Sie diskutierte darüber, wie Sport die individuelle Entwicklung eines Menschen prägt und dabei hilft, die Gesellschaft als Ganzes weiterzubringen. Ebenfalls auf dem Podium war Adolf Ogi, Alt-Bundesrat und ehemaliger Berater des UNO-Generalsekretärs für Sport im Dienst von Entwicklung und Frieden. Für ihn ist klar, dass der Sport eine der besten Lebensschulen ist: «Im Sport lernt man zu gewinnen, ohne zu denken, dass man der Beste ist, und im Sport lernt man zu verlieren, ohne zu denken, dass dies das Ende ist.»
+
+Ogis Aussage trifft auch auf Gisin zu. Sie verliebte sich in den alpinen Skirennsport, nachdem sie in ihrer Kindheit verschiedene Sportarten – vom Ballett bis zum Karate – ausprobiert hatte. Zum ersten Mal auf den Skiern stand sie, als sie noch kaum Laufen konnte. Mit 14 Jahren erlitt sie die erste von einer Serie gravierender Verletzungen. Unsicher, ob sie je wieder Skifahren kann, verbrachte sie Monate damit, über das Leben nach einem möglichen Ende ihrer Profikarriere nachzudenken.
+
+## Sport verbindet
+
+Als klar war, dass sie sich erholen würde, wollte Gisin nicht nur im Sport hoch hinaus und bewarb sich als Kampfjetpilotin bei der Schweizer Luftwaffe. Die Ausbildung zur Militärpilotin brachte sie ähnlich wie der Sport an den Rand ihrer mentalen Grenzen. Als sie den Flugschein für Privatflüge bereits in der Tasche hatte und auf dem Weg zur Lizenz für kommerzielle Flüge war, stoppte eine weitere Verletzung ihre Militärlaufbahn. Nach diesem Rückschlag kämpfte sich Gisin in den Sport zurück und setzte ihre Karriere als Skirennfahrerin fort. Mit Erfolg: Bei den Olympischen Winterspielen 2014 in Sotschi gewann sie die Goldmedaille in der Abfahrt.
+
+Fiebert jetzt mit ihrer Schwester mit: Dominique und Michelle nach einem Rennen in Val d'Isère. (Bild: zVg Dominique Gisin)
+
+## Werte der Olympischen Spiele pflegen
+
+Gisin ist sich sicher, dass die Verletzungen und Niederlagen, mit denen sie in ihrer Sportkarriere konfrontiert war, die wichtigsten Lehrstunden für sie waren: «Der Sport hat mir Geduld und Ausdauer gelehrt und mir gezeigt, was zu tun ist, wenn man einen Tiefpunkt erreicht hat. Ich gebe nicht so schnell auf. Das hilft mir nun auch bei meinem Physikstudium», sagt Gisin. Denn obwohl sie in ihrem Sport zu den Besten gehörte, musste sie sich an der ETH wie alle anderen Studierenden durch die Bachelor-Prüfungen kämpfen. Um diesen Übergang zu schaffen, nahm sie sich die Einstellung ihres Ski-Idols Vreni Schneider zu Herzen: Demut und harte Arbeit. «Was auch immer deine Leidenschaft ist, du musst dich mit Herzblut dafür einsetzen», rät Gisin.
+
+Neben dem Physikstudium engagiert sich Dominque Gisin als Botschafterin des Schweizerischen Roten Kreuzes, um auf die Not von Menschen in Ländern wie Bolivien, Nepal und Kirgisistan aufmerksam zu machen. Sie unterstützt zudem das Projekt «fit4future», bei dem sie Kinder über Ernährung und Bewegung unterrichtet.
+
+«Sport verbindet uns mehr als alles andere», sagt Gisin. Er helfe, kulturelle, geopolitische und sogar geschlechtsspezifische Grenzen zu überwinden. Die Engelbergerin hatte das Glück, in ihrer Karriere nie mit geschlechtsspezifischen Hindernissen konfrontiert zu werden: «Ich hatte nie das Gefühl, dass ich anders bin als die Jungs. Ich liebe Fliegen, Sport, Mathematik und Physik. Ich musste zwar kulturelle Gräben überwinden und akademische Herausforderungen meistern. Benachteiligungen aufgrund meines Geschlechts spürte ich weder bei Wettkämpfen noch im naturwissenschaftlichen Umfeld. Ich bin daher der Generation meiner Grossmutter äusserst dankbar, dass sie sich genau für diese Freiheiten eingesetzt haben», sagt Gisin.
+
+Auch Olympische Spiele sind für die ehemalige Skirennfahrerin wertvoll: «Für Athletinnen und Athleten ist eine Olympiade noch immer etwas ganz Besonderes. Zudem stehen die Olympischen Spiele ursprünglich auch für Frieden.» Sie hoffe, dass die olympischen Werte auch in der Zukunft Bestand haben werden. Sport bringe Menschen zusammen und lasse kulturelle und politische Barrieren für wenige Augenblicke in den Hintergrund treten. Die Olympischen Spiele sind ein Beispiel, Roger Federers Sieg bei den Australian Open ist ein anderes. «Athleten wie Roger zu beobachten, berührt mich tief, auch weil ich weiss, was für solche Erfolge nötig ist», betont Gisin.
+

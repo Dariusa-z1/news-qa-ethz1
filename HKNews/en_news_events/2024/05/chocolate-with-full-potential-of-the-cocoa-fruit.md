@@ -1,0 +1,32 @@
+# chocolate-with-full-potential-of-the-cocoa-fruit
+
+## In brief
+
+- ETH researchers have developed a type of chocolate that is more sustainable and nutritious than conventional varieties.
+
+- Cocoa-fruit chocolate uses cocoa fruit jelly as a replacement for powdered sugar, reducing the sugar content and increasing the product’s nutritional value.
+
+- This new chocolate recipe also has the potential to diversify the income sources of small farmers.
+
+For many people, chocolate is a sweet delight: its main components are cocoa mass and cocoa butter, which are extracted from the cocoa fruit. What is less known, however, is that the cocoa fruit contains additional valuable ingredients that have been underutilised until now. Researchers at ETH Zurich have joined forces with the chocolate industry to investigate the potential for making maximum use of the cocoa fruit, which would increase the profitability of cocoa cultivation while making chocolate a healthier indulgence. As part of an Innosuisse project, a research team led by emeritus ETH professor Erich Windhab worked together with start-up Koa, which is dedicated to sustainable cocoa fruit cultivation, and Swiss chocolate manufacturer Felchlin to develop a recipe for cocoa-fruit chocolate.
+
+Kim Mishra, main author of the Nature Food study, says that the cocoa fruit is similar to the honeydew melon: “These fruits have similar structures. Both have a hard outer shell that reveals the flesh of the fruit when cut open, as well as the cocoa beans or melon seeds and pulp in the interior.” Conventional chocolate only makes use of the beans, but the researchers were able to use the flesh and parts of the fruit shell – or the endocarp, to use the field-specific term – for their cocoa-fruit chocolate recipe. They process it into powder and mix it with part of the pulp to form cocoa gel. This gel substance is extremely sweet and can replace the added powdered sugar that is normally part of the chocolate experience.
+
+## Finding the perfect recipe
+
+However, it was not easy for the scientists to find the perfect recipe for cocoa-fruit chocolate. They systematically tested the texture of various compositions in the lab. Too much fruit juice extracted from the pulp made for a clumpy chocolate, but too little resulted in an insufficiently sweet product. The research team therefore endeavoured to find the perfect balance between sweetness and texture. The issue with clumping does not arise when using powdered sugar. The experiments showed that chocolate may contain up to 20 percent of gel, which equivalates to the sweetness of chocolate with 5 to 10 percent powdered sugar. In comparison, conventional dark chocolate can easily contain between 30 and 40 percent powdered sugar.
+
+To test the sensory experience of the new recipes, trained panellists from the Bern University of Applied Sciences taste-tested pieces of chocolate weighing 5 grams each, with some containing various amounts of powdered sugar and others containing the new variety sweetened with cocoa gel. “This allowed us to empirically determine the sweetness of our recipe as expressed in the equivalent amount of powdered sugar,” says Mishra.
+
+## Healthy, sustainable and good for farmers
+
+By using cocoa gel as a sweetener, cocoa-fruit chocolate boasts a higher fibre content than your average European dark chocolate (15 grams versus 12 grams per 100 grams). It also contains only 23 grams of saturated fat as opposed to the usual 33 grams. This means that ETH researchers were able to increase the fibre content by around 20 percent while reducing the saturated fat percentage by around 30 percent. “Fibre is valuable from a physiological perspective because it naturally regulates intestinal activity and prevents blood sugar levels from rising too rapidly when consuming chocolate. Saturated fat can also pose a health risk when too much is consumed. There’s a relationship between increased consumption of saturated fats and increased risk of cardiovascular diseases,” explains Mishra.
+
+Small-scale farmers can diversify their product offerings and increase their income if other components of the cocoa fruit can be marketed for chocolate production instead of just the beans. And if most of the fruit can be used to produce cocoa-fruit chocolate, only the shell remains, which is traditionally used as fuel or composting material. “This means that farmers can not only sell the beans, but also dry out the juice from the pulp and the endocarp, grind it into powder and sell that as well,” explains Mishra. “This would allow them to generate income from three value-creation streams. And more value creation for the cocoa fruit makes it more sustainable.”
+
+## References
+
+This doesn’t mean that cocoa-fruit chocolate will be hitting grocery store shelves anytime soon, however. “Although we've shown that our chocolate is attractive and has a comparable sensory experience to normal chocolate, the entire value creation chain will need to be adapted, starting with the cocoa farmers, who will require drying facilities,” says Mishra. “Cocoa-fruit chocolate can only be produced and sold on a large scale by chocolate producers once enough powder is produced by food processing companies.” The first step has been taken: ETH has filed a patent for its cocoa-fruit chocolate recipe. The development of cocoa-fruit chocolate is a promising example of how technology, nutrition, eco-compatibility and income diversification for small farmers can all work in tandem to improve the entire value-creation chain of the cocoa plant.
+
+Mishra K, Green A, Burkard J, Windhab E, et. al.: Valorisation of cocoa pod side streams improve nutritional and sustainability aspects of chocolate. Nature Food, 21. Mai 2024, doi: 10.1038/s43016-024-00967-2
+

@@ -1,0 +1,32 @@
+# cyborg-bacteria
+
+## Äusserst präzise Steuerung
+
+Forschende des Departements Biosysteme (D-BSSE) der ETH Zürich in Basel haben einen Cyborg erschaffen – ein Mischwesen aus lebendem Organismus und Maschine. Beim beteiligten Lebewesen handelt sich um das Kolibakterium (Escherichia coli) , das in der biologischen Forschung häufig verwendet wird, bei der Maschine um einen Computer mit modernster Steuerungstechnik, die das Wachstum der Bakterien regelt. Verbunden sind Organismen und Maschine über zwei Schnittstellen: Der Computer kommuniziert mit rotem und grünem Licht, welches die biotechnologisch veränderten Bakterien wahrnehmen können. In der Gegenrichtung funktioniert die Kommunikation über eine optische Messung der Wachstumsrate der Bakterienkultur. Deren Ergebnis wird in Echtzeit in den Computer eingespeist.
+
+Bereits vor fünf Jahren präsentierten die Forschenden gemeinsam mit Kollegen einen einfachen Machbarkeitsnachweis für eine auf Licht basierende Schnittstelle zwischen einem Computer und einer Hefezelle. Diese Schnittstelle funktionierte damals aber im Gegensatz zum jetzigen System noch nicht vollautomatisch. «Ausserdem regulieren wir jetzt erstmals das Wachstum von Mikroorganismen, und zwar auf sehr präzise und feinabstimmbare Weise», sagt Mustafa Khammash, Professor für Steuerungstheorie und Systembiologie. Mithilfe der Computersteuerung können die Wissenschaftler die Bakterienkultur so beeinflussen, dass sie genau nach einer vorgegebenen Kurve wächst.
+
+## «Augen» für die Bakterien
+
+Das neue System ist zudem extrem zuverlässig und widerstandsfähig. Die Wissenschaftler testeten, wie die Cyborg-Bakterien auf plötzliche Störungen von aussen reagierten. Dazu veränderten sie im Experiment beispielsweise die Nährstoffzusammensetzung der Bakterienkultur oder die Temperatur. Auf solche Störungen konnte sich das System ausserordentlich gut einstellen. «Dies alles ist nur möglich, weil wir für die Steuerung modernste, feedback-gesteuerte Regelungsalgorithmen benutzen, wie sie auch in Linienflugzeugen zum Einsatz kommen, etwa um die Flughöhe stabil zu halten», erklärt Khammash.
+
+Damit sich die Kolibakterien überhaupt über Licht steuern lassen, mussten die Forschenden die Mikroorganismen biotechnologisch verändern. Sie verwendeten einen Bakterienstamm, dessen Bauplan unter anderem Gene von Cyanobakterien enthält. Cyanobakterien können ihren Stoffwechsel an Licht anpassen und – wie die Pflanzen – die Energie des Lichts nutzen. In den Kolibakterien koppelten die Basler Bioingenieure die genetischen Lichtmesssysteme der Cyanobakterien mit der zellulären Regulation für ein Enzym, das die für das Bakterienwachstum unerlässliche Aminosäure Methionin herstellt.
+
+## Biologische Systeme regeln
+
+Lässt der Steuerungscomputer die Kolibakterienkultur mit rotem Licht beleuchten, führt das dazu, dass die Bakterien die Methionin-Produktion stoppen und dadurch weniger schnell wachsen. Beleuchtung mit grünem Licht hingegen regt die Methionin-Produktion und damit das Wachstum an.
+
+ETH-Professor Khammashs ursprüngliches Fachgebiet ist die Regelungstechnik. Jetzt arbeitet er im Bereich der Systembiologie und der synthetischen Biologie. Seine wichtigste Forschungsfrage ist im Schnittbereich dieser Fachgebiete angesiedelt: Ist es möglich, Regelungstechnik für biologische Systeme von Grund auf zu konzipieren? Cybergenetics nennt er dieses Forschungsfeld.
+
+## Zusätzliche Farbkanäle
+
+«Es gibt zwei Ansätze hierfür», sagt Khammash, «und beide haben Vor- und Nachteile, die je nach Anwendung zum Tragen kommen.» Zum einen könne man – wie in dieser Studie – Mikroorganismen mit einem Computer von aussen steuern. Dies bedinge eine Schnittstelle zwischen Computer und biologischem Organismus. Auch wenn die Kommunikationsmöglichkeiten über eine solche Schnittstelle derzeit noch einigermassen bescheiden sind, hat dieser Ansatz einen grossen Vorteil: Dank einem externen Computerprogramm können leistungsfähige Regelungsalgorithmen zum Einsatz kommen. Ausserdem kann das Programm den Bedarf sehr schnell anpassen.
+
+In einem zweiten Ansatz versuchen Wissenschaftler – auch solche am D-BSSE – im Innern von Zellen künstliche Kontrollsysteme zu platzieren, solche mit molekularen, biochemischen Komponenten. «Meiner Meinung nach ist für therapeutische Anwendungen, beispielsweise in der Zelltherapie, die interne Zellsteuerung langfristig besser geeignet. Denn sie funktioniert ohne zusätzliche Hardware autonom», sagt Khammash. «Für die biotechnologische Herstellung von Molekülen in einem Bioreaktor hingegen dürfte die externe Steuerung über eine Schnittstelle, wie wir sie hier entwickelt haben, besser umsetzbar sein.»
+
+## Literaturhinweis
+
+Bislang benutzen die Basler Forscher für ihre Licht-Schnittstelle die zwei Farben Grün und Rot. Damit steuern sie die Aktivität eines einzigen Enzyms. «In einer Weiterentwicklung könnte man sich aber auch komplexere Steuerungen mit zusätzlichen Lichtkanälen vorstellen», sagt Khammash. So wäre es denkbar, gleichzeitig mehrere Enzyme zu regulieren. In der biotechnologischen Produktion von Molekülen könnte man damit die Wachstumsrate der herstellenden Bakterien und die Produktionsrate des gewünschten Moleküls optimal aufeinander abzustimmen. Dies mit dem Ziel, möglichst viel des gewünschten Produkts und möglichst wenige giftige Nebenprodukte zu erhalten.
+
+Milias-Argeitis A, Rullan M, Aoki SK, Buchmann P, Khammash M: Automated optogenetic feedback control for precise and robust regulation of gene expression. Nature Communications 2016, 7: 12546, doi: externe Seite 10.1038/ncomms12546
+

@@ -1,0 +1,44 @@
+# das-elektromobil-vor-der-haustuere-laden
+
+## Kein Recht auf Laden
+
+(Bild: ETH Zürich)
+
+Die Schweiz muss den Strassenverkehr elektrifizieren, um ihre Klimaziele zu erreichen. Das bedeutet, dass neue Verbrennungsmotoren bis 2030 oder kurz danach von unseren Strassen verschwinden müssten. Studien zeigen, dass in dieser kurzen Frist batterieelektrische Fahrzeuge die einzige praktikable Alternative sind und die Umwelt am wenigsten belasten. Was wäre also nötig, damit sich alle Käuferinnen für ein Elektroauto entschieden?
+
+E-Fahrzeuge werden zusehends attraktiver – in Bezug auf Preis, Leistung, Reichweite und die wachsende Zahl öffentlicher Ladestationen, die inzwischen die Anzahl Benzintankstellen übersteigt. Dennoch könnte man erwarten, dass insbesondere Bedenken punkto Reichweite und Ladezeit Kaufwillige vor E-Mobilen zurückschrecken lassen.
+
+## Warten auf die öffentliche Hand
+
+Ich bin zu anderer Einsicht gelangt. Ausschlaggebend, ob man sich beim Kauf eines Neuwagens für oder gegen ein E-Fahrzeug entscheidet, ist die Möglichkeit, die Batterie zu Hause aufzuladen, idealerweise über Nacht. Wenn jede Fahrt mit einer vollen Batterie beginnt, lassen sich fast 99 Prozent aller Fahrtne ohne einen längeren Ladestopp durchführen. 1
+
+Das Problem: Um ein E-Mobil über Nacht aufzuladen, muss man hierzulande in der Regel einen Parkplatz besitzen, den man mit einer Steckdose umrüsten kann. In der Schweiz trifft das auf etwa 25 Prozent aller Fahrzeughalterinnen zu.
+
+Meine Gruppe hat bei Schweizer Fahrzeughaltern nachgefragt. Ob sie sich beim nächsten Autokauf für ein E-Mobil entscheiden? Von denjenigen, die einen eigenen Parkplatz besitzen, bejahten dies fast 50 Prozent mit (sehr) wahrscheinlich. Unter jenen, die ihr Auto auf einem Gemeinschaftsparkplatz abstellen, der ihnen nicht gehört, zeigten sich rund 30 Prozent dazu bereit. Und bei denjenigen, welche öffentliche Parkplätze wie die blaue Zone nutzen, sprachen sich weniger als 25 Prozent für ein E-Mobil aus. 2
+
+## Ladesäulen lohnen sich
+
+Weiter wollten wir wissen, ob am Arbeits- oder Einkaufsort verfügbare Ladestationen fehlende Steckdosen am Wohnort kompensieren würden. Das ist nicht der Fall. In einer Stichprobe fragten wir Wohnungseigentümerinnen und Liegenschaftsverwalter, ob sie planen, ihre Parkplätze mit Ladestationen auszustatten. Tun sie nicht. Vielmehr warten Sie darauf, dass Politik den Lead übernimmt.
+
+Andere Länder sind weiter. In Norwegen, das bei der Förderung der Elektromobilität führen ist, haben Städte Ladestationen auf Parkplätzen und an Strassen eingerichtet. Deutschland kennt seit Kurzem ein Gesetz, das Mieterinnen das Recht einräumt, eine Ladestation für ihr E-Mobil zu installieren, und Hauseigentümer verpflichtet, die notwendigen Anschlüsse im Gebäude bereitzustellen. In der Schweiz gibt es sowas nicht.
+
+Der schnellste Weg, dies zu ändern, ist meiner Ansicht nach, wenn der Staat für die Installation aufkommen würde, insbesondere bei Ladestationen an der Strasse. Wir haben die Kosten und den Nutzen exemplarisch für die Stadt Zürich analysiert. Dabei nahmen wir an, dass jede Ladestation an einem Strassenparkplatz mindestens eine Autobesitzerin zum Wechsel auf ein Elektrofahrzeug bewegt.
+
+## Referenzen
+
+Das Resultat: Allein die lokalen Kosteneinsparungen für die Gesellschaft durch sauberere Luft würden die Installationskosten der Ladestationen übersteigen. 3 Das bedeutet, dass nicht nur Besitzende von E-Mobilen, sondern wir alle profitieren könnten.
+
+Und was ist mit den Schweizer Wählern? Wir fanden Hinweise, dass eine Mehrheit über das gesamte politische Spektrum hinweg die Idee staatlich geförderter Ladestationen in Wohngebieten unterstützen würden, wenn dies mit lokalen ökologischen und wirtschaftlichen Vorteilen begründet wird.
+
+Dass weniger Menschen mit kleineren Autos weniger Kilometer fahren, ist ein löbliches politisches Ziel. Entscheidend ist jedoch, dass bald jedes neue Auto auf der Strasse elektrisch fährt. Damit der Umstieg auf Elektrofahrzeuge schnell vonstattengeht, muss die Politik für die Ladeinfrastruktur vor der Haustüre sorgen. Die Investition würde sich allein schon wegen der besseren Luftqualität lohnen.
+
+## Zum Autor
+
+1 Melliger, M., O. van Vliet, and H. Liimatainen (2018). externe Seite Anxiety vs reality – Sufficiency of battery electric vehicle range in Switzerland and Finland . Transportation Research Part D: Transport and Environment , 65: 101-115
+
+2 Patt, A., D. Aplyn, P. Weyrich, and O. van Vliet (2019). externe Seite Availability of private charging infrastructure influences readiness to buy electric cars . Transportation Research Part A: Policy and Practice 125: 1 – 7.
+
+3 Schmutz, M., O. van Vliet, and A. Patt, Local benefits exceed costs for widespread charging infrastructure for on-street urban parking . Unpublished bachelor thesis. In review at Transportation Research Part D: Transport and Environment . Information auf Anfrage.
+
+Anthony Patt Professor für Klimaschutz und -​anpassung an der ETH Zürich
+

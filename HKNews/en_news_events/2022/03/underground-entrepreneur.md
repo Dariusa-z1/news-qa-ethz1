@@ -1,0 +1,52 @@
+# underground-entrepreneur
+
+## On the path to self-employment
+
+The Rhine Falls roar and thunder this morning, the spray looking like fog against the light. A small boat makes its way from the observation rock in the middle of the foaming water masses to Wörth Castle.
+
+Two men disembark. One of them is Mauro Häusler, a geophysicist and Pioneer Fellow at ETH Zurich, the other Lorenz Grämiger from the geology consultancy Dr. von Moos AG. They have just set up seismometers on the rock and at its base.
+
+Now they take a white ETH minivan to another location on the edge of the Rhine Falls. A concrete visitor platform seems the right choice to Häusler. In just ten minutes, he sets up another measuring station and the experiment can begin. The goal is to use seismic surveys to investigate how stable the observation rock in the Rhine Falls is.
+
+For Häusler, the measurements at the Rhine Falls and its rock are something of a test run. Having defended his doctoral thesis in September, he is now about to start his own business. His business idea is to prepare seismic surveys on the stability of rocks and slopes.
+
+To do this, Häusler uses a series of seismometers that sense and record vibrations or shockwaves that propagate underground. In this way, the young entrepreneur takes advantage of the fact that earthquakes, wind, rivers and road traffic all generate vibrations that race through the subsoil as waves.
+
+## Proven technology
+
+On their journey, the waves encounter obstacles or disturbances of various kinds. For example, they are deflected at fractures or fissures in the rock. Meanwhile, any unstable, loosened material amplifies the amplitudes of the waves. That means the wave patterns the seismometer is recording provide information on the nature of the subsurface.
+
+In addition, these vibrations stimulate the rocks, mountains or buildings they encounter to vibrate themselves, like a guitar string being plucked. The seismometer also records the objects’ natural vibration frequencies, which gives an indication of how solid they are and which areas of a slope or rock are structurally connected.
+
+If the rock vibrates at the same time and at the same frequency at two measurement points, it is highly probable that they belong to the same structural volume. In general, large volumes oscillate more slowly, i.e. at a lower frequency, than small volumes.
+
+For example, the period of oscillation of most rock instabilities is between 0.1 and 0.3 seconds, while for mountains like the Matterhorn they last more than two seconds, as Häusler discovered; he co-authored a study (see ETH News ) on the famous peak’s resonant frequencies.
+
+The technology itself is nothing new. Civil engineers use it to monitor structures such as bridges, high-rise buildings, dams or wind turbines. However, Häusler refined the method in his doctoral thesis so that it could be used for investigations in landslide zones and of rock instabilities.
+
+## Two strings to his bow
+
+In Preonzo in the canton of Ticino, where a rockfall thundered into the valley in 2012, Häusler used his method to discover that the instability comprised larger sections of the crack zone than had been assumed. On the Walkerschmatt, above the Matter Valley in Valais, the geophysicist used his method to map fractures that other geologists were unable to detect with field surveys. It was also used in the village of Brienz/Brinzauls in Graubünden, which not only stands on an unstable slope that is slipping downhill, but is also threatened by unstable rocks further uphill.
+
+“Scientists have successfully developed and tested the technology for over ten years, and now the time is ripe to bring it into commercial use,” Häusler says. He wants to start his own company later this year, and his ETH Foundation Pioneer Fellowship means he can start preparing for that now.
+
+Thanks to the Fellowship, he can now tackle further developments, build up his business and accept orders that will allow him to test and refine the method in practice and make it marketable. One such order is the Rhine Falls Rock. As yet, this isn’t earning Häusler any money. But he’s also not under much financial pressure at the moment.
+
+Mauro Häusler has set up a monitoring device on the visitor platform of the Rhine Falls Rock. (Photograph: Peter Rüegg / ETH Zurich)
+
+His company’s services will include short-term seismic measurements, which the young entrepreneur conducts on a daily basis on-site. “My method lets me ‘look’ underground quickly and precisely,” Häusler says. Often all he needs to do is place the seismometers in the field in the morning, let them take measurements for a few hours, then collect the devices in the afternoon and evaluate the data.
+
+## No shortage of work
+
+But Häusler is also considering branching out into longer-term monitoring of vulnerable areas. This would involve having seismometers in operation for several months or even years at a time. Such long-term monitoring would reveal things like a sudden drop in the frequencies of the monitored zone. “That would be a good indication of decreasing stability of the rock or slope in question. So I can also employ seismic surveys as an early warning system,” Häusler says.
+
+The niche he wants to work in is concerned primarily with rock instabilities – an area in which there is currently almost no competition from other suppliers. The technique could also be applied to free-standing rock structures, such as rock bridges like those seen in some US national parks.
+
+Other potential applications include monitoring and success control for protective measures against natural hazards, such as retaining walls. As a newcomer, he currently sees less potential for himself in the monitoring of bridges or other buildings, as he is not yet familiar with the (construction) industry.
+
+Häusler’s first customers are likely to be mainly geotechnical engineering offices. These receive orders for geological surveys from government agencies, municipalities or cantons, but also from transport and energy companies. If the need arises, they can include Häusler’s services and offer them as well. That’s why the young entrepreneur is focusing on promoting his company to players in this industry. He sees orders like the one at the Rhine Falls as a promotional measure to make a name for himself in the industry.
+
+At present, he has no need to turn to investors. The seismometers belong to ETH, and during his Fellowship Häusler can use them until he acquires his own equipment. That will cost him a few tens of thousands of francs. He can also analyse all the data on his laptop; he doesn’t need a high performance computer. What’s more, he uses software that he wrote during his doctorate or that is freely available in the scientific community.
+
+Häusler is optimistic that he can establish himself with his business idea; rock instabilities will always be a feature of an Alpine country like Switzerland – and even more so in the wake of climate change. That means there is likely to be more work in future, not less. A good outlook for someone who spends his time looking underground.
+

@@ -1,0 +1,32 @@
+# ocean-eddies
+
+## Kein Entkommen aus dem Sog
+
+Die milden Winter Nordeuropas verdanken wir dem Golfstrom. Er ist Teil der weltumspannenden Meeresströmungen, die unser Klima prägen. Zusätzlich wird unser Klima aber auch durch riesige Meereswirbel mit mehr als 150 Kilometern Durchmesser beeinflusst. Die Zahl solcher Wirbel in südlichen Ozeanen nimmt laut Forschungsberichten zu, was den Transport von warmem und salzigem Wasser nach Norden erhöht. Dies könnte den negativen Einfluss schmelzenden Polareises ausgleichen.
+
+Bisher konnten Wissenschaftler diese Wirkung der Wirbel jedoch nicht genau messen, da sie die Grenzen der rotierenden Wassermassen nicht bestimmen konnten. George Haller, Professor für Nichtlineare Dynamiken an der ETH Zürich, und Francisco Beron-Vera, Forschungsprofessor für Ozeanographie an der Universität von Miami, haben nun eine Lösung für dieses Problem gefunden. In einer Publikation im Fachmagazin Journal of Fluid Mechanics stellen sie eine neue mathematische Methode vor, wassertransportierende Meereswirbel mit klarer Umgrenzung zu erkennen.
+
+## Wirbel als Wassertaxi
+
+Die Schwierigkeit, solche Wirbel zu finden, liegt darin, zusammenhängende Wasserinseln in einem turbulenten Ozean ausfindig zu machen. Die gleichzeitig rotierende und gesamthaft driftende Bewegung erscheint für einen Beobachter ausserhalb und innerhalb eines Wirbels als chaotisch. Haller und Beron-Vera konnten Ordnung in dieses Chaos bringen, indem sie zusammenhängende Wasserinseln in einer Sequenz von Satellitendaten identifizierten. Zu ihrem Erstaunen erkannten sie dabei, dass solche fest zusammenhängenden Wirbel mathematisch Schwarzen Löchern ähneln.
+
+Schwarze Löcher sind Objekte im Weltall mit einer so grossen Masse, dass sie alles, was sich ihnen auf eine bestimmte Distanz nähert, anziehen. Nichts, was in ihren Wirkungsbereich gerät, kann ihnen entkommen, nicht einmal Licht. Aber wenn ein Lichtstrahl ein Schwarzes Loch in einem bestimmten Abstand streift, wird er durch dessen Schwerkraft so stark gebogen, dass er sich zu einem kreisförmigen Orbit schliesst. Eine Barriereoberfläche, zusammengesetzt aus solch geschlossenen Lichtringen, wird in Einsteins Relativitätstheorie als Photonsphäre bezeichnet.
+
+## Schwarzes Loch im Golf von Mexiko
+
+Haller und Beron-Vera entdeckten ähnliche geschlossene Barrierelinien um bestimmte Meereswirbel. Auf diesen Linien bewegen sich Flüssigkeitspartikel wie auf einem geschlossenen Orbit – ähnlich der Bewegung von Licht in einer Photonsphäre. Und wie bei Schwarzen Löchern kann nichts aus dem Inneren dieser geschlossenen Barrierelinien entkommen, nicht einmal Wasser.
+
+Genau diese Barrieren sind es, die dabei helfen, fest zusammenhängende Meereswirbel in der grossen Menge vorhandener Satellitendaten zu erkennen. Laut Haller ist es sehr erstaunlich, dass es solche kohärenten «Wassersphären» tatsächlich gibt.
+
+## Literaturhinweis
+
+Weil die Wirbel so stabil zusammenhalten, funktionieren sie wie ein Transportvehikel - nicht nur für Kleinstlebewesen wie Plankton oder Fremdkörper wie Plastikmüll oder Öl, sondern auch für Wasser mit einer Temperatur und einem Salzgehalt, die vom umliegenden Wasser abweichen können. Haller und Beron-Vera haben diese Beobachtung bei den so genannten Agulhas Ringen überprüft, eine Gruppe von Meereswirbeln, die regelmässig im südlichen Ozean an der Südspitze Afrikas entstehen und warmes, salziges Wasser nordwärts transportieren. Die Forscher verfolgten sieben Agulhas-Ringe des Schwarzen-Loch-Typs, die das Wasser, das sie umfassten, fast ein Jahr ohne Durchmischung mit dem umliegenden Wasser beförderten.
+
+Solch kohärente Wirbel kommen laut Haller noch in anderen komplexen Strömungen ausserhalb des Meeres vor. In diesem Sinne sind viele Wirbelstürme wahrscheinlich auch Schwarzen Löchern ähnlich. Das wohl spektakulärste Beispiel für einen Wirbel des Schwarzen-Loch-Typs könnte der grosse rote Fleck – ein stationärer Megasturm – des Planeten Jupiter sein. «Mathematiker versuchen schon lange, solche kohärenten Wirbel in komplexen Strömungen zu verstehen», erklärt Haller.
+
+Erstaunlicherweise war vermutlich der erste, der Meereswirbel als solche scharf abgegrenzten Wirbelströme erkannt hat, der amerikanische Autor Edgar Allan Poe. In seiner Geschichte «A Descent into the Maelstrom» beschreibt er einen stabilen Gürtel aus Schaum um einen Meeresstrudel. Dies diente Haller und Beron-Vera als Inspiration, um nach diesen stabilen Gürteln – dem Meeres-Äquivalent von Photonsphären – mit ausgeklügelten mathematischen Formeln zu suchen. Ihre Resultate könnten dabei helfen, einige der grossen Fragestellungen der Ozeanforschung zu beantworten, von Klima-bezogenen Fragen bis zu Ausbreitungsmustern von Müll und Öl.
+
+Kurz nach der Publikation von Hallers und Beron-Veras Resultaten, testete Josefina Olascoaga, Professorin für Ozeanographie in Miami, die neue mathematische Methode. Völlig unerwartet entdeckte sie dabei einen Wirbel des Schwarzen-Loch-Typs im Golf von Mexiko. Olascoaga nutzt diese Entdeckung nun, um die kohärente Ausbreitung einer möglichen zukünftigen Ölpest zu berechnen.
+
+Haller G, Beron-Vera F: Coherent Lagrangian Vortices: The Black Holes of Turbulence. Journal of Fluid Mechanics, vol. 731 (2013) R4: doi: externe Seite 10.1017/jfm.2013.391
+

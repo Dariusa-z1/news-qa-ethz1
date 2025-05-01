@@ -1,0 +1,28 @@
+# pharmabiome
+
+## Transplantation mit Risiken
+
+Um die 500 verschiedene Bakterienarten leben in unseren Gedärmen. Sie helfen unser Essen zu verdauen, indem sie grosse Moleküle wie Nahrungsfasern in kleinere zerlegen, die ins Blut gelangen und so dem Körper als Nährstoffe und Energiequelle dienen. Zusammen bilden die Mikroorganismen ein komplexes und fein austariertes Ökosystem, in dem jede Bakterienart eine spezielle Teilaufgabe übernimmt.
+
+Forschende des ETH-Spin-offs Pharmabiome haben sich zum Ziel gesetzt, ein «Grundgerüst» dieses Ökosystems mit einem standardisierten Mix aus einem knappen Dutzend Bakterienarten nachzubilden. Der Mix könnte dereinst Menschen helfen, deren Darmökosystem aus den Fugen geraten ist.
+
+Das ist zum Beispiel bei einer Infektion mit Clostridium difficile der Fall. Das ist eine Baketerienart, die einen Giftstoff herstellt und so die Darmwand schädigt. Patienten leiden an Durchfall und Gewichtsverslust und können im Extremfall innerlich verbluten. Antibiotika lindern die Symptome, schaffen es aber nicht immer, den Krankheitserreger komplett auszumerzen. Ein wiederholtes Wiederaufflammen der Krankheit ist eine häufige Folge, und dann hilft oft nur noch eine Fäkaltransplantation: Den Patienten wird der gesunde Stuhl eines in der Regel verwandten Freiwilligen in den Darm gebracht, in der Hoffnung, dass sich aus dieser «Starterkultur» wieder eine intakte Darmflora (ein intaktes Mikrobiom) bildet, die den Erreger in Schach halten kann.
+
+## Kultur ohne Sauerstoff
+
+«Solche Fäkaltransplantationen werden allerdings nur zurückhaltend durchgeführt, weil sie risikoreich sind», sagt Tomas de Wouters, Mikrobiologe und CEO von Pharmabiome. Das Hauptproblem ist, dass niemand voraussehen kann, wie sich die Darmflora eines Spenders im Empfängerdarm entwickelt. «Auch bei gesunden Spendern befinden sich nicht nur nützliche Bakterien im Darm, sondern auch potenzielle Krankheitserreger», erklärt de Wouters. «Während die potenziell schädlichen Bakterien in einem gesunden Darmökosystem in Schach gehalten werden, können sie in einem geschädigten Darm Überhand nehmen. Das hätte gravierende Folgen.»
+
+De Wouters und seine Kollegen von Pharmabiome möchten daher ein standardisiertes und kontrolliertes – und dadurch sicheres – Produkt schaffen, das man Patienten ohne Risiko verabreichen kann. Dies ist allerdings einfacher gedacht als umgesetzt, denn die Darmflora lässt sich nur schwer als Ganzes im Labor vermehren. Das Isolieren und Erforschen einzelner Bakterienarten ist schwierig, vor allem, weil sich die allermeisten Darmbakterien an das Leben ohne Sauerstoff angepasst haben und an der Luft nicht überleben. «In unserem Labor arbeiten wir in einer sauerstoffreien Kammer», sagt de Wouters. «Das ist aufwendig, und dies erklärt auch, warum Mikrobiologen bisher nur einen Bruchteil aller Darmbakterienarten isoliert und studiert haben.»
+
+Der Ansatz von Pharmabiome: Die Wissenschaftler suchten nach Schlüsselarten, welche das komplexe Darmökosystem «zusammenhalten». Aus Stuhlproben von gesunden Freiwilligen isolierten sie Bakterien und untersuchten, unter welchen Bedingungen sie sich kultivieren lassen und welche biochemischen Aufgaben die Bakterien übernehmen. So ist es ihnen auch gelungen, Arten zu kultivieren, die bisher nicht kultiviert werden konnten.
+
+## Klinische Versuche als Ziel
+
+Ausserdem stellten die Forschenden eine Mischung aus knapp einem Dutzend Arten zusammen, welche die Grundaufgaben des Darmökosystems abdecken, eine Art minimale Darmflora. Und sie entwickelten eine Methode, wie sich diese einfach und kostengünstig in grösseren Mengen vermehren lässt. Diese minimale Darmflora liessen die Wissenschaftler patentieren.
+
+Derzeit sind die Wissenschaftler daran, die Zuchtbakterien im Labor zu testen. Versuche bei Mäusen mit gestörter Darmflora zeigten, dass sich dank der Mischung das Gleichgewicht wieder einstellte, und zwar besser als mit einer Fäkaltransplantation. «Nun möchten wir die Sicherheit und die Verträglichkeit unseres Mix möglichst schnell bei Patienten testen. Derzeit suchen wir eine Partnerfirma, welche solche klinischen Versuche mit uns durchführen möchte», so de Wouters.
+
+Mögliche Anwendungsgebiete für die künstliche Darmflora aus den Pharmabiome-Labors beschränkten sich nicht auf Clostridium-difficile -Infektionen, wie de Wouters betont. Auch bei chronischen Entzündungserkrankungen des Darms wie Morbus Crohn und Colitis Ulcerosa sowie bei Darmkrebs gelte es, ein aus dem Gleichgewicht gebrachtes Darmökosystem wieder ins Lot zu bringen. Ausserdem seien Anwendungen bei chronischen Stoffwechselerkrankungen wie Übergewicht, Fettleber und Diabetes denkbar. Es gebe Studien, welche einen Einfluss der Darmflora auf diese Krankheiten aufzeigten.
+
+Bei der Produktentwicklung und dem Ermitteln von Anwendungen hilft dem jungen Spin-off die Expertise von ETH-Biotechnologen, welche Methoden zur Kultivierung von komplexen Darmfloren entwickelt haben, sowie von Magen-Darm-Spezialisten des Universitätsspitals Zürich. «Wir haben einen sehr engen Kontakt zur Gastroenterologischen Klinik. Der Klinikdirektor ist Mitgründer unserer Firma», sagt de Wouters. «Unsere Entwicklung ist dadurch nahe bei den Patienten.»
+

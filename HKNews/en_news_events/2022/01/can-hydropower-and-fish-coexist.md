@@ -1,0 +1,50 @@
+# can-hydropower-and-fish-coexist
+
+## Death by Turbine
+
+Hydropower is on the rise worldwide. This renewable energy source delivers up to 16% of the world’s electricity and is expected to roughly double by 2050, with over 3,700 new dams under construction or planned 1 , mostly in South America, Southeast Asia, and Africa. In Switzerland, where more than 670 hydropower plants provide about 57% of the domestic electricity, the Government’s Energy Strategy 2050 also seeks further expansion of the sector to meet climate targets. 2 However, hydropower development does not come without environmental costs.
+
+Globally, one third of all freshwater fish species are threatened with extinction. Among the main causes are hydropower plants and dams. They modify river habitats, block fish migratory routes, kill and injury fish. I have recently investigated large fish mortality events due to hydropower operations in Brazil. Hundreds of tonnes of fish were killed in the last decade. 3 In Switzerland and Europe, fish mortality events due to hydropower operations are also common. Such events not only threaten fish populations, they also cause revenue losses for the industry (e.g., due to fines) 3 and reduce environmental quality for the society.
+
+The scenario of worldwide hydropower growth is clearly conflicting with global and national conservation targets, which can hinder expansion of the sector. 4 This antagonistic context creates the hydropower and fish dilemma. It often comes with hardened fronts between stakeholders and political blockades. Can’t we do better?
+
+## Uniting interests, not opposing them
+
+I consider it possible to expand hydropower whilst preserving fish populations. To achieve this, societies need to recognise that we depend on renewable energy as much as on healthy freshwater ecosystems, regardless of their conflicting nature. It is not a question of either or, but of how balancing both. Instead of playing renewable energies and nature conservation off against each other, we neeed to unite different interests. This means we have to find true compromises.
+
+Compromises imply mutual concessions. Of course this can be tricky, since sites that are suitable for hydropower development (e.g., free-flowing rivers) are also hotspots for freshwater conservation, and even with ecological measures in place, dams never are truly fish-friendly. A pragmatic mindset can help open up room for manoeuvre: Rivers have been modified for centuries so not all mountain streams have the same ecological value, some might be expendable. In turn, hydropower doesn’t need to flood each valley and might select sites for new dams more carefully to minimise ecological damage.
+
+To resolve the hydropower and fish dilemma, engaging stakeholders to co-create acceptable solutions is decisive. I found the following bottom-up framework useful:
+
+## Finding the fair middle way
+
+1. Integrative planning and decision-making processes are the first and foremost needs. This requires multiskilled authorities capable of guiding different political and societal demands regarding hydropower development and conservation. Good planning should include stakeholders and encompass holistic assessments of sites considering both biodiversity and energy criteria. Science-based cost-benefit analyses of alternative sites allow all parties to explore trade-offs between energy production and nature protection. Prioritising projects sufficiently suited for hydropower and with relatively low impact on biodiversity can support decision-making. 5
+
+2. Adaptive policies and guidelines are fundamental to drive good governance of hydropower development. As advancements in science and technology occur in fast pace, both energy and conservation policies should allow flexible solutions and foresee regular revision. Overly rigid regulations can lead into deadlocks.
+
+3. Data sharing and transparency are key to address the hydropower and fish dilemma. In my view, a global platform for data and knowledge exchange could help to spread best practices and to accelerate policy development. Stakeholders should be encouraged to share information with society openly to allow for participation.
+
+## A round table for hydropower
+
+Here is a promising example of multi-lateral decision-making: After years of blocking new hydroelectric power plants in Switzerland, electricity companies, environmental protection agencies and cantonal authorities met for a round table since summer 2020. The stakeholders have since agreed on a common assessment method as well as on a list of fifteen potential projects for the expansion of hydropower. The agreement was made possible because each project includes compensatory measures to protect biodiversity and the landscape at a different location – in addition to mandatory ecological measures to make hydropower less harmful to fish. 6
+
+This is aligned with my experience from Brazil: Stakeholders are often willing to accept compromises, if they find the opportunity to sit together and co-create them. We must act now if we ought to meet electricity demand and preserve fish populations globally. In large river systems such as the Amazon, Mekong and Congo, not only electricity demand and fish diversity are at stake, but also food security. The more inclusive planning and decision-making are, the more balanced trade-offs will be to ease the conflict.
+
+1 Zarfl et al. 2015. A global boom in hydropower dam construction . Aquatic Sciences 77(1):161-170 doi:10.1007/s00027-014-0377-0.
+
+## References
+
+2 Swiss Federal Office of Energy: Hydropower and Energy Strategy 2050
+
+3 See our Report: Fish mortality at Hydropower Plants – Identifying Problems and Co-Creating Solutions with examples of Brazilian fines that exceed the equivalent of 100 million Swiss Francs in 10 years.
+
+4 For example, the Swiss Water Protection Act and the Swiss Water Protection Ordinance , as well as the European Water Framework Directive , form a legal basis to protect freshwater ecosystems, including suitable habitats for fish.
+
+## About the author
+
+5 An example of a planning tool we developed for site selection of small hydropower plants in Brazil: Romanelli et al, 2018. Site Selection for Hydropower Development: A GIS-Based Framework to Improve Planning in Brazil . Journal of Environmental Engineering 144(7) doi:10.1061/(asce)ee.1943-7870.0001381.
+
+6 SRF: Runder Tisch Wassserkraft – 15 neue Wasserkraftwerke sollen realisiert werden
+
+Luiz Silva Senior Scientist at the Chair of Groundwater and Hydromechanics (Stocker Lab), ETH Zurich
+

@@ -1,0 +1,22 @@
+# energy-competence-centres
+
+## Electrification and efficiency
+
+Switzerland is aiming to cover its energy requirements in the long term with energy from renewable sources. The federal government has not only decided to phase out nuclear energy, but, in the form of Energy Strategy 2050, has initiated a shift towards climate-friendly CO2-neutral energy sources. To ensure that the industry is technically equipped to meet this challenge, the government is funding energy research. To this end, it is establishing seven energy competence centres – Swiss Competence Centres for Energy Research (SCCER) – in the ETH domain, which will be operated over the next three years, with the possibility to continue for four additional years. During the first three years, a total of CHF 72 million of federal funds will go into these centres.
+
+This week, the Commission for Technology and Innovation (CTI) released information about four of the seven centres. One will deal with the issue of mobility and the Leading House is ETH Zurich, headed by Konstantinos Boulouchos, a professor at the Institute of Energy Technology. “SCCER Efficient Concepts, Processes and Components in Mobility” will receive CHF 10 million. “The main aim of this centre is to create a long-term platform on which different institutions from the ETH domain can develop new technology and systems for passenger and freight traffic together with universities of applied sciences and the industry”, explains Boulouchos.
+
+The primary objective is to increase the energy efficiency of mobility and, in particular, to significantly reduce CO2 emissions. The partial electrification of transport will be one of the measures used to achieve this. Components for e-mobility will therefore be developed within the context of the SCCER; for example, batteries that are more powerful, have longer lifespan and are cheaper to manufacture will be developed on a battery technology platform.
+
+SCCER Mobility also includes efforts to increase the efficiency of drive systems powered by fossil fuels, and develop them further so that they can be powered optimally with fuel from renewable sources as combustion engines or fuel cells. It is about developing new materials to build lighter vehicles and developing new solutions to reduce the energy needed for things other than propulsion, such as air conditioning or heating.
+
+## Promotion of deep geothermal energy
+
+This SCCER also focuses on a holistic view of mobility; for instance, both the economical and environmental effects of technological development are researched, including the issues of spatial planning and the infrastructure needed for e-mobility. “SCCER Mobility is an acknowledgement by Swiss policy-makers that traffic will play a dominant role in the energy revolution”, says Boulouchos. “And an acknowledgement that in addition to political will, technological breakthroughs will also be essential to the energy revolution. And these can be achieved only through research.”
+
+The contracts for the first two of the seven energy competence centres were awarded last October. These include one on the subject of electricity supply, for which ETH Zurich is also the Leading House. The head of this SCCER is Domenico Giardini, a professor at the Institute of Geophysics and the ETH executive board’s delegate for deep geothermal energy. He will focuson better exploitation of hydropower and carbon capture and storage (CSS).
+
+Geothermal energy will also play an important role: an objective is to supply a million Swiss households with electricity from geothermal energy by 2050. Together with the electricity industry, the aim is to develop and implement a master plan for using deep geothermal energy to generate electricity. &nbsp;This energy competence centre will receive a budget of CHF 12 million.
+
+Four other competence centres will focus on “Biomass”, “Grids and Energy Systems”, “Storage”, and “Economy, Environment, Law, Behaviour”. According to the announcement by CTI, the tendering process for the seventh energy competence centre, on the subject of Efficiency, is not yet complete.
+

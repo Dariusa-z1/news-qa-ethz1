@@ -1,0 +1,36 @@
+# eth-zurich-receives-official-accreditation
+
+## Main article
+
+- ETH’s strategy and development plan should more clearly define which offices/bodies are responsible for the various quality assurance processes. The analysis notes that informal practices carry a lot of weight and suggests making some of them official. In addition, the processes are to be better communicated internally and externally.
+
+- According to the external experts, the participation processes could be more uniformly regulated in the individual departments. In addition, they recommend reviewing how the committees should be composed so as to ensure that students and scientific staff have a say in the long term.
+
+- The expert group encourages ETH to go beyond splitting the first-year examinations into two blocks and institute further measures to ensure that fewer students drop out in the first year without taking the exam.
+
+- Furthermore, ETH should support doctoral students with courses on personal skills and see that they receive their own evaluation for their role in teaching.
+
+Since the Swiss Higher Education Act entered into force in 2015, all public and private institutions of higher education that wish to use the designation of “university”, “university of applied sciences” or “university of teacher education” must be accredited every seven years.
+
+In October, ETH Zurich was one of the first universities to receive this accreditation.
+
+It is awarded by the Swiss Accreditation Council, which is made up of twenty independent members, including representatives from the world of work, various higher education institutions, students, non-professional teaching staff and academic staff. The accreditation certifies that ETH meets the specified standards with regard to quality strategy, governance, teaching, research, services, resources, and internal and external communication.
+
+External and self-assessment
+
+ETH Zurich chose the Swiss Agency for Accreditation and Quality Assurance (AAQ) to carry out the audit. The basis of the procedure is a self-assessment report. More than sixty people from across ETH collaborated on the 275-page document . All university groups, departments and Executive Board staff units were involved. Workshops were held in which the participants contributed their assessment of the total of eighteen quality standards specified in the accreditation process.
+
+In parallel, the university developed and published “Guidelines for the internal quality assurance system” in 2020. They describe the QA system in place at ETH Zurich and outline the qualitative goals of the university’s strategy and development plan for teaching, research, knowledge and technology transfer as well as resources. In addition, the guidelines identify the key processes and organisational structures that will ensure these goals are achieved. Joël Mesot, President of ETH Zurich, says: “The people involved have done incredibly important work. Accreditation is also a learning process for our organisation. I wish to thank everyone – especially Rector Sarah Springman and Secretary General Katharina Poiger – for their tireless commitment.”
+
+Crucial consultations
+
+In this way, ETH was able to demonstrate that quality assurance is broadly supported in its culture and organisation. This includes the Executive Board strategy process, the tenure track for professors, evaluations of departments and study programmes, teaching evaluations, and the firmly embedded culture of participation through the university groups: the University Assembly, the Lecturers’ Conference (KdL), the Academic Association of Scientific Staff at ETH Zurich (AVETH), the Association of Students at ETH Zurich (VSETH) and the Staff Commission. Many processes follow the principle of subsidiarity and are organised in a decentralised way.
+
+Joël Mesot says: “The report by the AAQ expert group offers an incisive analysis, which reveals that quality assurance is a part of daily life at ETH that we want to maintain, deepen and refine.” Based on its report, the agency also formulated recommendations for ETH. In summary, they address the following concerns:
+
+These recommendations found willing listeners at ETH: “In connection with the organisational development project rETHink , we have put our processes through a fundamental analysis, and ETH members from all areas are currently working on proposed solutions aimed precisely in this direction,” Mesot says. ETH is also on course with regard to teaching, as Rector Sarah Springman explains: “Strengthening interdisciplinary skills, not only among doctoral students but across all levels, is the goal of ETH Talent, a large-scale project that is currently gaining momentum.” She added that an increasing number of departments are introducing a split in the first-year examinations and that avoiding dropouts who fail to make any examination attempts has been on the Rectorate’s agenda for some time.
+
+ETH has updated its “Guidelines for the internal quality assurance system” and supplemented them with the list of functions responsible for the various aspects.
+
+The accreditation is valid for a period of seven years and must be renewed in 2028.
+

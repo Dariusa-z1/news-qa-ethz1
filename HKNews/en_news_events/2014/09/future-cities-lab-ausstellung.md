@@ -1,0 +1,26 @@
+# future-cities-lab-ausstellung
+
+## Tropical city and tiles made from coffee grounds
+
+At around 20 tables in the ETH main building, researchers are offering an insight into their work in Singapore. The white tables show projects developed by individual research groups in a specific discipline, such as the “3For2” project. In Singapore, up to one-third of the enclosed volume of a building is typically occupied by technical systems and structural elements. By integrating systems in the core of the building, it is now possible to fit three floors into the space previously needed for two, hence the name 3For2. At the same time, the new system results in a pleasant indoor climate and increases energy efficiency by a factor of two.
+
+What a residential unit in Tropical Town might look like. (Image: F. Schmid / ETH Zurich)
+
+## Singapore initiative worthwhile
+
+The black tables show synergy projects covering various disciplines. The Tropical Town project is particularly impressive. Three models in different scales demonstrate the concept of an extendible house made of local materials, planned residential units with bamboo gardens, shared septic tanks and rainwater storage tanks, and a map of a tropical town that could accommodate up to 9000 people over 16 hectares. The project combines ETH expertise from many areas, such as architecture, urban planning, material sciences and structural engineering. Developed at the request of the urban planning department of Batam and Jakarta, Tropical Town is not just an ambitious idea – it could actually be built one day.
+
+When asked what he likes most about the exhibition, Dirk Hebel, curator and Professor of Architecture and Design at ETH Zurich, said: “I am impressed by the scale models of the many different objects, from the construction robot to the new building materials made from our city’s biggest resource, i.e. waste.” The waste exhibition table is particularly colourful. Old cut-up jeans act as insulating material, while plastic bottles serve as robust construction elements for the researchers. There are even some tiles made from old coffee grounds on display.
+
+## Envisioning and presenting alternatives
+
+A quick look back reveals how the ETH initiative in Singapore arose: in 2010, ETH Zurich signed an agreement with the Singapore National Research Foundation (NRF) to develop a new platform for sustainable urban development in Singapore. The Future Cities Laboratory was established as an interdisciplinary research programme in September of the same year, becoming the first programme of the Singapore ETH-Centre for Global Environmental Sustainability (SEC). The SEC moved to CREATE (Campus for Research and Technological Enterprise) and was subsequently inaugurated in 2012.
+
+In Zukunftsblog, Professor Peter Edwards, Director of the Singapore-ETH Centre, explains in detail why establishing a site in Singapore has been worthwhile. In addition to the many valuable scientific findings that have been made, Singapore is an ideal place to study the challenges of a rapidly growing city. Furthermore, the SEC and the efforts of the FCL help to boost awareness of ETH Zurich enormously in the region and offer students a unique opportunity to work in a global environment.
+
+## Future Cities Laboratory exhibition
+
+After five years, the FCL is now presenting a kind of progress exhibition in Zurich to offer an interested public insights into the research conducted in distant Singapore. Dirk Hebel admits: “We all agree that this wave of future urban development cannot take the same course as in Europe and North America. We simply lack the resources.” With the FCL, ETH Zurich is looking into which alternatives are feasible and which issues must be addressed as a priority. What non-fossil fuels are used and how can existing systems be made more efficient? How can urban systems with a population of more than ten million people be organised? What do the mobility concepts of the future look like? “Anyone with an interest in these questions – whether on a professional level or because they feel the time has come to start thinking about them – should take a look at this exhibition,” says the curator.
+
+The exhibition will run from 24 September to 9 November 2014 during the opening hours of ETH Zurich’s main hall at Rämistrasse 101 (Mon–Fri: 6 a.m. to 10 p.m., Sat–Sun: 8 a.m. to 5 p.m.). Entry is free.
+

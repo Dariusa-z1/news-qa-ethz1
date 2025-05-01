@@ -1,0 +1,28 @@
+# data-science-and-ai-for-the-public-good
+
+## Three strands of cooperation
+
+As society becomes more digitalised, institutions need more and more data science skills. This includes the integration of tools arising from artificial intelligence in a way that is safe and beneficial to society as a whole. To this end, as a pioneer within the federal administration, the FSO is teaming up with the Swiss Data Science Center (SDSC), a joint venture between the two federal institutes of technology.
+
+“I am extremely enthusiastic about this strategic partnership in a joint flagship project between our two institutes and the FSO”, said Martin Vetterli, President of the EPFL. “It reminds me of the partnership between the Alan Turing Institute in London and the British Office for National Statistics, committed to a joint vision of research and innovation in regard to data science.”
+
+## Digitalisation and public administration
+
+The first strand of cooperation is to strengthen the FSO's Data Science Competence Center (DSCC), of which the SDSC will become a strategic partner. The EPFL and the ETH Zurich will support the FSO in identifying the necessary profiles and in recruiting the specialists that will form the DSCC. The two institutes also undertake to receive these associates ‘in residence’ at the SDSC laboratories with a view to developing their skills and helping with networking in this field in Switzerland. Lastly, the partners will together identify the DSCC’s priority projects and cooperate in their execution.
+
+The second strand concerns cooperation in regard to infrastructure. The open-source technological platform RENKU, developed by the SDSC will be used by the DSCC. On the academic network SWITCH, RENKU enables the practice of data science and artificial intelligence in a collaborative and reproducible way, criteria essential to the FSO. A dedicated instance was specifically created for the FSO so that the principles of data protection provided for in law can be systematically applied. At no time do the data leave the Swiss national territory.
+
+## About the Swiss Data Science Center (SDSC)
+
+The third strand aims to promote understanding and the sharing of data science and artificial intelligence knowledge and practices within the federal administration.
+
+“With this partnership, the FSO is enabling itself to fulfil the fundamental mission assigned to it by the Federal Council in May 2020. Following the launch of its DSCC on 1 January 2021, it will also be able to meet the challenges brought about by the profound changes in the data ecosystem and by the increased use of algorithms in the public sector”, enthused Georges-Simon Ulrich, Director General of the FSO.
+
+## Download
+
+In concrete terms, the DSCC will function as a service provider in the field of data science for the whole of the federal administration. It seeks and encourages cooperation with other levels of government (cantons and communes). The DSCC's mission is to work at the crossroads between data science and artificial intelligence. Its mission is to build skills allowing the use of methods, techniques and practices arising from data science and artificial intelligence to obtain a new understanding of fields related to public policy and thus to help with decision-making for the public good, in accordance with ethical principles.
+
+The President of the ETH Zurich, Joël Mesot, pointed out the relevance of this partnership. “Putting data science and artificial intelligence at the service of the public good is one of today’s major challenges. The Federal Institutes of Technology are proud to be able to bring their skills into this field and to support the Confederation in this transition so that it will benefit all sectors of society.”
+
+In 2017, the ETH Board launched a national initiative in regard to data science that resulted in the creation of a unique joint venture between the EPFL and the ETH Zurich: the Swiss Data Science Center (SDSC), aimed at promoting innovation in data science, multi-disciplinary research and open science. The SDSC’s mission is to accelerate the use of data science and machine learning techniques within academic disciplines and industry.
+

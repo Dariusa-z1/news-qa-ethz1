@@ -1,0 +1,26 @@
+# eth-spin-off-dicronis-en
+
+## Main article
+
+When someone develops cancer, single or multiple lymph nodes are often colonised by cancer cells that form metastases. Part of the treatment involves the removal of the affected nodes, but this carries the risk of the lymphatic system collapsing.
+
+The lymphatic system is responsible for the transport of proteins, nutrients, waste products and immune cells through a fluid called the lymph. If the lymphatic system no longer functions properly, this fluid accumulates in the affected body regions, causing swelling of the arms and legs, or lymphoedema. This condition is not life-threatening but strongly affects the quality of life of the patients and can be at least partially treated with compression stockings, lymph drainage, physiotherapy and appropriate diet. But chronic lymphoedema can lead to tissue changes and eventually skin damage. In addition, the patients affected may suffer psychologically because the oedema is clearly visible and can change their physical appearance.
+
+Around ten percent of all cancer patients experience lymphoedema, especially those suffering from breast, prostate, genital and skin cancer. “The current diagnosis of lymphoedema concentrates on the symptoms, in other words the build-up of fluid,” says Patrizia Marschalkova. The ETH graduate is the founder and CEO of Dicronis, an ETH spin-off that has developed the “Lymphit”, an instrument for simple and early diagnosis of lymphoedema.
+
+This device is a tiny transdermal patch of dissolving microneedles. Patients stick this “micro patch” onto their wrist for one minute. The microneedles are long enough to penetrate the skin, but short enough not to come into contact with dermal nerves.
+
+“On contact with the aqueous environment of the skin, the microneedles dissolve and release a fluorescent dye,” Marschalkova explains. The needles are removed after a minute, and then an intelligent armband – similar to a smartwatch – is applied. The patient has to wear this for six hours.
+
+“A fluorescent detector in the intelligent armband monitors the uptake of the dye in the lymph vessels,” Marschalkova says. This enables a malfunction of the lymphatic system to be detected before any swelling develops. The device transmits the data straight to the physician overseeing medical treatment. The detector can also be useful for patients already undergoing treatment, as it makes it easy for doctors to check whether treatment is appropriate and successful or needs to be adjusted.
+
+While studying for her Master’s in pharmaceutical sciences, Marschalkova already had a keen interest in microneedle technology and started to look into possible applications. In doing so, she encountered the problem of lymphoedema and quickly realised the potential. “I didn’t realise how many people were affected,” says the 28-year-old scientist. Her fellow student Jovan Jancev was also inspired by her idea and encouraged her to work on the development of a diagnostic instrument. In May 2018 the pair linked up with Fabrizio Esposito to form “Dicronis”, a shortened version of “diagnostic microneedles”.
+
+Marschalkova is mainly responsible for raising funding, project management and strategic aspects, while Jancev looks after research and development. Esposito concentrates on business development and in future will also be in charge of developing the software and accompanying app. The other member of the team is Laura Jabinet, whose job is to evaluate potential risks associated with the product and ensure that regulatory guidelines are complied with in their development and manufacture. She is also in charge of designing clinical trials.
+
+The young entrepreneurs, who were able to start their project thanks to an ETH Pioneer Fellowship and are currently housed in the Innovation & Entrepreneurships Lab (ieLab), have already won various awards for start-ups with their concept, and have just been nominated for the Pioneer Prize awarded by Zürcher Kantonalbank (ZKB).
+
+The top prize of almost 100,000 Swiss francs would be very welcome, as it would really move the company forward. On the one hand, the necessary patents are in place, the microneedles have been tested and a partner has also been found to develop the smartwatch. “However, we still need to raise the funding for the clinical trials that we want to start this autumn,” Marschalkova says.
+
+On top of that, the young entrepreneurs want to refine their project so as to attract potential investors. If everything goes to plan, “Lymphit” should be on the market in three years’ time. But that would just be the start: “We’ve got some ideas for other products,” Marschalkova hints, but does not elaborate – after all, the young researchers want to patent their ideas and eventually be able to make a living from them. At the moment they are still getting by “living like students”, as Marschalkova puts it. That’s actually a fair comment: CEO Marschalkova is currently studying for a Master’s in business administration, acquiring more valuable expertise that will ultimately be very useful for Dicronis.
+

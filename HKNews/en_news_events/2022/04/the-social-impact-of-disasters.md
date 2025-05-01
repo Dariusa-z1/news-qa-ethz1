@@ -1,0 +1,50 @@
+# the-social-impact-of-disasters
+
+## The risk of wildland-urban interfaces
+
+Christine Eriksen spent 13 years living and working in Australia before taking up her post at ETH Zurich in August 2020. “One of the reasons I decided to move to Switzerland was to escape the growing number of catastrophic bushfires,” she says. The “Black Summer” fires blazed across Australia between June 2019 and May 2020, burning more than 18 million hectares of land and causing damage estimated at CHF 70 billion.
+
+Eriksen was living in Wollongong at the time, 90 kilometres south of Sydney. Fires raged in the hinterland for months, eventually reaching the coast. Smoke drifted into lower-lying urban areas. “I would wake at night in a panic, gasping for breath because the room was full of smoke,” says Eriksen. “Yet my home was a good 60 kilometres from the nearest fire!”
+
+Millions of people were exposed to persistent smoke, and it exacerbated Eriksen’s struggle to separate her personal life from her research work on the social dimensions of disasters.
+
+## Modelling helps decision-makers
+
+As a human geographer, Eriksen has been fascinated by forest fires ever since her time as a doctoral student. Her research explores the challenges of rebuilding after forest fires, the role played by social and cultural norms in disaster resilience, and the way in which policy decisions can increase risk in certain contexts.
+
+As part of her field research, Eriksen spent several years in fire-prone areas of south-eastern Australia and California, interviewing residents, public officials and firefighters, and observing changes in socio-economic factors. Her findings showed that people were increasingly moving away from cities in search of nature, affordable housing and a better work-life balance. “This steady expansion of the wildland-urban interface has greatly increased the risk of forest fires turning into social disasters,” says Eriksen. “And that’s something we’re seeing in many parts of the world, including California and the Mediterranean.”
+
+Climate change has increased the frequency and intensity of major forest fires along with heatwaves and dry summers. “When I began my research in the 2000s, Australia could typically expect a major fire once every 5 to 10 years. Now they’re happening once every 2 to 3 years,” says Eriksen. Yet she still shudders every time she hears the term “natural disaster”. “Disasters are not ‘natural’," she says. "The biggest risks are primarily a result of social and cultural processes.”
+
+## Building trust
+
+“Indigenous people in Australia and North America saw periodic fires as a necessary part of natural regeneration,” she says by way of example. “It was only the settlers from Europe who tried to prevent fires at any cost.” Over time, this has resulted in the accumulation of many cubic tonnes of combustible material in forests, which burn more intensely and uncontrollably due to global warming.
+
+Disasters also cast a spotlight on social power relations and inequalities. Eriksen has studied reports on the social impact of Hurricane Katrina, which struck New Orleans in 2005. An estimated 80 percent of the city was flooded, with some areas submerged in up to 4 metres of water. More than a million people were forced to leave their homes and some 1,500 lost their lives.
+
+Those who stayed in the city despite the warnings – and even after the flooding started – were far more likely to be from poorer households. With less access to private or public transport, it was more difficult for them to evacuate. Of the approximately 30 percent of households who did not own a vehicle, most were African-American families in low-income brackets. These families were also more likely to live in low-lying areas that are particularly exposed to hurricanes – precisely the areas that suffered the most devastating consequences when the flood defences failed. “Class, ethnicity, gender, sexual orientation, disabilities, education and religion were all key factors in determining how vulnerable people were to Katrina’s effects,” says Eriksen.
+
+## A transdisciplinary approach to hail
+
+David Bresch also conducts research into disasters. Unlike Eriksen, however, he deliberately reduces social complexity and assesses risk on the basis of mathematical models. His Weather and Climate Risks Group seeks to apply the principles of mathematics to the practical needs of companies, public bodies and local councils and co-develops tools with stakeholders to help them better prepare for increasing weather and climate risks. Aside from talking to stakeholders, the most important instrument in Bresch’s research is CLIMADA, an event-based modelling platform designed to calculate the socio-economic impact of weather and climate events. Decision-makers can use this tool to weigh up the different options and perform a multi-criteria analysis of risk-reduction measures.
+
+With the support of the Asian Development Bank and Germany’s international development agency GIZ, Bresch is currently providing expert advice to the Vietnamese city of Hue, which lies on the coast of the South China Sea and is highly exposed to tropical cyclones. After countless Zoom calls with stakeholders and two years of building trust, Bresch’s group was able to model and evaluate the city’s future climate risks, draw up a series of scenarios and outline possible courses of action. Instead of meteorological parameters such as high wind speeds, the team of researchers provided the authorities with a warning of their impact along with concrete actions to take in response to specific questions: for example, how many people should we evacuate over the coming days, and when and where should the evacuations take place?
+
+The CLIMADA software is open-source and free to use; that means local authorities anywhere in the world can run the weather risk model for their region whenever they wish and tailor it to their needs. “All you need is a laptop and some basic knowledge of the Python programming language,” says Bresch. Tutorials are available on his group’s website, but they are not used as much as he would like: “It’s not an issue of technical impediments. Most of the obstacles are simply in people’s minds.”
+
+## About
+
+To help researchers from different parts of the world share their local experiences of climate risk adaptation, Bresch co-founded the Economics of Climate Adaptation (ECA) Working Group in 2009. The ECA website offers examples of how public authorities can use CLIMADA to develop strategies for dealing with weather and climate risks. These include insights gained by the City of New York in the devastating aftermath of Hurricane Sandy.
+
+Having examined more than 30 case studies, Bresch has concluded that the biggest risk factor for disasters is social development. To illustrate his point, he explains how an increase in construction activities in a particular area is much more likely to raise the risk of catastrophic flooding than an increase in extreme weather itself.
+
+The socio-economic dimensions of disasters are so important that Bresch often chooses to work with experts from other disciplines. When it came to modelling the risks Switzerland faces from hail under changing climate conditions, for example, he called on the assistance of computer scientists, climate physicists, agricultural scientists, meteorologists and economists.
+
+## «Globe» (Un)known threats
+
+Hail is responsible for around 50 percent of damage to buildings in Switzerland, and it also poses serious risks to agriculture. It was therefore important to get stakeholders involved right from the start, including building insurers, Agroscope and the Federal Office for Civil Protection.
+
+Christine Eriksen has been Senior Researcher in the Risk and Resilience team at the ETH Zurich Center for Security Studies (CSS) since 2020. Before joining ETH, she worked as a social scientist at University of Wollongong, Australia. She has published numerous case studies on the social dimensions of disasters in Australia, the USA, Europe and Africa.
+
+David Bresch has been Professor of Weather and Climate Risks at the Department of Environmental Systems Science and at MeteoSwiss since 2016. He previously held various positions at reinsurer Swiss Re, including chief modeller for natural catastrophe risk assessment.
+

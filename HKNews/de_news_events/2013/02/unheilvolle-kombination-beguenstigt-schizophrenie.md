@@ -1,0 +1,38 @@
+# unheilvolle-kombination-beguenstigt-schizophrenie
+
+## Zusammenspiel von Infektion und Stress
+
+Rund ein Prozent der Bevölkerung leidet an Schizophrenie, einer schwerwiegenden psychischen Erkrankung, die meist erst im Erwachsenenalter auftritt und nicht heilbar ist. In der Psychiatrie vermutet man schon länger, welche Umwelteinflüsse das Auftreten der Schizophrenie fördern. Man sprach von vorgeburtlichen Infektionen wie Toxoplasmose oder Grippe. Auch psychischer Stress oder familiäre Vorbelastungen kamen als Auslöser in Frage. Dennoch ist es den Forschern bis heute nicht gelungen, das Zusammenspiel der einzelnen Faktoren in Bezug auf diese ernsthafte psychische Krankheit zu identifizieren.
+
+Nun hat eine Forschungsgruppe unter der Leitung von Urs Meyer, Senior Scientist am Labor für Physiologie und Verhalten der ETH Zürich, einen Durchbruch erzielt. Die Wissenschaftler konnten zum ersten Mal eindeutig belegen, dass die Kombination zweier Umweltfaktoren massgeblich zur Entwicklung von Schizophrenie-relevanten Hirnveränderungen beitragen und zu welchen Zeitpunkten sie auf das Leben eines Menschen einwirken müssen, damit die Erkrankung ausbrechen kann. Die Forschenden entwickelten dazu ein spezielles Mausmodell, mit dem sie quasi im Zeitraffer die Vorgänge im Menschen nachbilden konnten. Die Studie ist soeben in der Fachzeitschrift Science veröffentlicht worden.
+
+## Mausmodell gibt entscheidenden Hinweis
+
+Der erste negative Umwelteinfluss, der Schizophrenie begünstigt, ist eine virale Infektion der Mutter in der ersten Hälfte der Schwangerschaft. Ist das derart vorbelastete Kind zusätzlich dazu während der Pubertät starkem Stress ausgesetzt, so vervielfacht sich die Wahrscheinlichkeit, dass es später an Schizophrenie erkrankt. Aber: Es braucht die Kombination dieser zwei negativen Umwelteinflüsse, damit sich die psychische Erkrankung entwickelt. «Jeweils nur ein Faktor — also nur Infektion oder nur Stress — reicht nicht, um Schizophrenie zu entwickeln», betont Urs Meyer.
+
+Die Infektion während der Schwangerschaft schafft die Voraussetzung dafür, dass Stress während der Pubertät "greifen" kann. Denn die Infektion der Mutter aktiviert im Gehirn des Fötus bestimmte Immunzellen des Zentralnervensystems, die Mikrogliazellen. Sie produzieren Zytokine, die die Hirnentwicklung des ungeborenen Kindes verändern.
+
+## Verminderte Filterfunktion
+
+Die Mikrogliazellen gehen nach Abklingen der mütterlichen Infektion in einen Ruhezustand, haben aber ein "Gedächtnis" entwickelt. Kommt der Heranwachsende in die Pubertät und erleidet in der Zeit massiven, chronischen Stress — etwa sexuellen Missbrauch oder körperliche Gewalt — erwachen die Mikrogliazellen und führen durch ihre neuerliche Aktivität Veränderungen in bestimmten Hirnregionen herbei. Diese entfalten schliesslich erst im Erwachsenenalter ihre verheerende Wirkung. Das Gehirn scheint in der Pubertät besonders empfindlich auf negative Einflüsse zu reagieren, da es in der Zeit heranreift. «Offenbar geht an der 'Hardware' etwas kaputt, das nicht mehr reparierbar ist», sagt Sandra Giovanoli, die als Doktorandin bei Urs Meyer die Hauptarbeit an dieser Studie leistete.
+
+Für die Studie erstellten die Wissenschaftler ein ausgeklügeltes Mausmodell. Die Wissenschaftler lösten bei werdenden Mausmüttern während der Tragzeit mit einer speziellen Substanz eine Infektion aus, um eine Immunantwort hervorzurufen. 30 bis 40 Tage nach Geburt — in diesem Alter werden die Tiere geschlechtsreif, was der Pubertät entspricht — wurden die Jungtiere fünf verschiedenen Stressfaktoren ausgesetzt, die für die Mäuse unerwartet kamen. Dieser Stress entspricht einem chronischen, psychologischen Stress beim Menschen.
+
+## Nicht alles Genetik
+
+Danach testeten die Forschenden das Verhalten der Tiere unmittelbar nach der Pubertät und im Erwachsenenalter, das eine Maus mit ungefähr drei Monaten erreicht. Zur Kontrolle prüften die Wissenschaftler auch Mäuse, die nur mit einem Infekt oder nur mit Stress belastet wurden. Weiter untersuchten sie Tiere, die keinem der beiden Risikofaktoren ausgesetzt wurden.
+
+Untersuchten die Forscher das Verhalten der Tiere unmittelbar nach der Pubertät, konnten sie keine Auffälligkeiten feststellen. Im Erwachsenenalter aber verhielten sich die Mäuse, die Infekt und Stress durchgemacht hatten, auffällig. Die an den Tieren beobachteten Verhaltensweisen waren mit denjenigen von schizophrenen Menschen vergleichbar. So zeigten die Nager beispielsweise verminderte Aufmerksamkeit gegenüber auditorischen Reizen, was mit einer ver-minderten Filterfunktion im Hirn einherging. Die Mäuse reagierten auch massiv stärker auf psychoaktive Substanzen wie Amphetamin.
+
+## Publikation
+
+«Unser Befund ist für die menschliche Epidemiologie höchst relevant», sagt Meyer. Umwelteinflüsse würden in der Betrachtung menschlicher Erkrankungen, insbesondere in der Neuropsychologie, wieder eine grössere Bedeutung beigemessen als auch schon. «Es ist eben doch nicht alles Genetik», sagt er. Gewisse Symptome der Schizophrenie lassen sich mit Medikamenten behandeln, heilbar ist die Krankheit jedoch nicht. Die Studie lässt aber die Hoffnung keimen, bei Risikopersonen allenfalls präventiv gegen die Erkrankung vorgehen zu können. Die Studie ist eine wichtige Grundlage, auf der andere Forschungszweige aufbauen können.
+
+Die ETH-Forschenden betonen aber auch, dass die Resultate ihrer Arbeit für Schwangere kein Grund zur Panik sind. Viele der werdenden Mütter haben Infektionen wie Herpes, Schnupfen oder Grippe. Und auch jedes Kind hat Stress während der Pubertät, sei es durch Mobbing in der Schule oder Streit im Elternhaus. «Es muss schon sehr viel zusammenkommen, damit die Wahrscheinlichkeit, an Schizophrenie zu erkranken, gross wird», sagt Giovanoli. Schliesslich spielen auch noch weitere Faktoren in den Krankheitsverlauf hinein. Auch die Genetik, welche in der Studie nicht betrachtet wurde, kann eine Rolle spielen. «Aber anders als Gene lassen sich gewisse Umwelteinflüsse verändern», ergänzt die Doktorandin. Wie man auf Stress reagiere und damit umgehe, sei erlernbar.
+
+## Kontakte
+
+Giovanoli S, Engler H, Engler A, Richetto J, Voget M, Willi R, Winter C, Riva MA, Mortensen PB, Schedlowski M, Meyer U. Stress in Puberty Unmasks Latent Neuropathological Consequences of Prenatal Immune Activation in Mice. Science, advanced online publication 28th February 2013.
+
+ETH Zürich Dr. Urs Meyer Labor für Physiologie und Verhalten Tel. +41 44 655 74 03 ETH Zürich Medienstelle Tel. +41 44 632 41 41
+

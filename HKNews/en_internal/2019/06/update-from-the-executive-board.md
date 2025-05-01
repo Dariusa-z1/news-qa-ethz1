@@ -1,0 +1,34 @@
+# update-from-the-executive-board
+
+## Strengthening the Executive Board
+
+At its last retreat, the Executive Board reached some initial decisions on the future development of the university. The discussion centred on the organisation of the Executive Board itself, the collaboration between the academic departments and the Executive Board, the university’s core values and the further development of leadership and management in the academic domain.
+
+## Bolstering the academic departments and their management teams
+
+The global transformation in research and teaching, along with the dynamic pace of ETH’s growth in recent years , has magnified the challenges facing university management. To ensure ETH is well prepared for the years ahead, the Executive Board is setting additional strategic focuses for ETH leadership. In particular, the two areas of knowledge transfer and corporate relations on the one hand, and staff development on the other hand, will be strengthened by the creation of separate Executive Board domains. These two areas have experienced massive development over the past years. By upgrading them to separate divisions, this trend will now be replicated in the organisational structure. Consequently, the ETH Executive Board will be expanded from five to seven members.
+
+## Quality: the touchstone of all the university’s core values
+
+The two new areas, whose names will soon be finalised, are to be formed from the existing administrative departments and staff units. The division focused on staff development concentrates all the areas devoted to the recruitment, development and leadership of academic, administrative and technical staff, and thus involves the entire HR department as well. In addition, special attention should be paid to encouraging women to take on leadership roles. The second new Executive Board area, knowledge transfer and corporate relations, will concentrate on support for ETH spin-offs and alliances with companies – both large corporations and small & medium-sized enterprises (SMEs) – so that ETH can continue to perform its pivotal role in future as a major driver of innovation for Switzerland.
+
+## Development of leadership skills
+
+Vice presidents will be appointed to head up both new Executive Board domains. This will allow the bundling and strengthening of responsibility, an integrated approach to overarching themes and the optimisation of processes. The major changes that will be noticeable for ETH Zurich in these two areas especially should be anticipated and managed effectively. The allocation of responsibilities and personnel resources will be finalised in the coming months, after analysing the relevant processes and consulting the organisational units affected. The academic departments and university groups need to be involved in this process as well.
+
+## Regular updates from the Executive Board
+
+Efficiently run departments and proactive department managements are essential for the university’s success. The Executive Board wants to leverage the advantages of the departmental structure, extend the departments’ authority and areas of responsibility, and give the heads of department the responsibilities they need to perform their duties. Above all comes the fundamental concept of subsidiarity: in other words, that challenges are best resolved on the same level where they arise on a daily basis.
+
+## Subscribe to Newsletter
+
+A process will now begin to decide how the President and the Executive Board will expand the authority of the academic departments and their heads, and this will then be finalised in collaboration with the department managements.
+
+## Staffnet
+
+Which values does ETH Zurich currently embody, and which does it want to live out in future? Answering these questions is vital, especially given the rapid changes in social values. At its last retreat the Executive Board therefore had an in-depth discussion about the university’s future values. Quality – in all its aspects – is of paramount importance to the Executive Board. It is intent on continuing to develop the university’s implicitly and explicitly lived values in conjunction with ETH’s internal stakeholders, especially the University Assembly, the Conference of the Heads of Department and the Strategy Commission. The aim is to provide a solid framework for all members of the ETH community over the next five to ten years that helps to channel their actions and guide their decisions.
+
+Finally, the Executive Board discussed and approved the concept for Leadership Development produced by Human Resources and the Office for Faculty Affairs. The goal is to support our managers in their professional development, thereby training staff for positions of responsibility. This scheme, which will be continuously assessed and developed further, will include modular programmes for newly appointed professors, a leadership series for the entire faculty, and the expansion of the coaching and support offerings for all management staff.
+
+The ETH Zurich Executive Board has scheduled meetings every two weeks, and also meets several times a year on longer retreats. This special update focuses on the two-day retreat held on the weekend of 11-12 May.
+

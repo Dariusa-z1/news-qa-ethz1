@@ -1,0 +1,58 @@
+# detecting-storms-thanks-to-gps
+
+## In brief
+
+- A new study by researchers at ETH Zurich has shown that GPS data can be used to detect severe storm events.
+
+- They discovered that heavy rainfall and thunderstorms impact the signal-to-noise ratio.
+
+- These findings could one day not only make weather forecasts more accurate, but also support the early detection of extreme weather events.
+
+An exceptionally severe storm swept over Zurich on 13 July 2021 shortly before 2 a.m.: howling squalls, constant lightning and torrential rain woke people up with a start. Benedikt Soja, Professor of Space Geodesy, also got little sleep that night. “It was one of the most severe storms I’ve ever witnessed. I woke up in the middle of the night and could see the storm raging through the window,” he remembers.
+
+The scale of the storm was evident the next morning - fallen trees on streets and in parks, damaged rooftops and overhead tram lines pulled down in various parts of Zurich. The ground in the vicinity of the Hönggerberg campus was also strewn with branches and even entire trees. “The storm must have passed right over ETH,” says Soja.
+
+## GPS data outages
+
+A GPS station on the roof of the Institute of Geodesy and Photogrammetry on the Hönggerberg campus records the signals of various satellite systems around the clock. When examining the data of the night of the storm in more detail, Soja and his colleagues at the Institute couldn’t believe their eyes. “There were outages in the GPS data processing. We couldn’t understand at first what had caused them,” says Matthias Aichinger-Rosenberger, a former postdoc in Soja’s group and now a lecturer at ETH Zurich. When other stations also reported outages in the measurement of data from GPS and other satellite navigation systems for that night, the researchers started to analyse the raw data of the antenna on the Hönggerberg campus.
+
+They were able to show in the study, which was published in the specialist journal Geophysical Research Letters , that extreme weather events influence the quality of GPS signals and that these signals are therefore also suitable for detecting storms. It could one day even be possible to use them for the early detection and forecasting of thunderstorms.
+
+## The signal-to-noise ratio dropped
+
+The scientists drew their conclusions from the analysis of the data of the storm of 13 July and of another storm in the summer of 2021. It became evident that the extreme weather events had an impact on the signal-to-noise ratio, which indicates how strong the satellite signals are that reach us on the earth. The higher the ratio, the better the quality of the signal.
+
+“The signal strength that we measure with our antenna on the roof normally only changes minimally,” says Aichinger-Rosenberger. However, this was not the case on the two storm days: “The signal-to-noise ratio in the GPS data dropped considerably at the time of the storm. We saw that once the storm had moved on it was back in its normal range.”
+
+## Was it heavy rain or hail?
+
+In order to determine the precise time of the storm’s arrival and to check whether this matched the time when the signal-to-noise ratio dropped, the researchers compared their data with radar data of the University of Berne. “This confirmed our suspicion that there was a direct connection,” said Aichinger-Rosenberger.
+
+The researchers are certain that heavy precipitation is responsible for the sudden drop in the signal-to-noise ratio. What is not clear is which type of precipitation – rain or hail – has a greater impact and why. This is something the scientists wish to find out in the future.
+
+## Forecasting precipitation more reliably
+
+As simple as the result of the study may sound, it is a breakthrough for space geodesy research. “It has never been proven yet that severe thunderstorms and other weather events with heavy precipitation significantly influence the signal-to-noise ratio,” says Aichinger-Rosenberger. It has been assumed until now that GPS is a weather-independent system. Now it appears that GPS data are sensitive enough to capture such atmospheric disturbances.
+
+These findings could open up new prospects for the use of satellite navigation data in meteorology. “We now wish to collect more measurements in order to improve the forecasting of precipitation in weather models,” says Soja. Reliable precipitation forecasting still remains a major challenge. “Many other meteorological parameters such as the temperature can now be predetermined quite well with numerical weather models. Unfortunately, however, such models are often not good enough in the case of precipitation.”
+
+## More receivers needed for early detection
+
+In order one day to make use of the ETH researchers’ findings for forecasting, they need to be brought into relation to a weather model. “In order to transfer our observations to specific parameters such as the water and ice content in the air or the storm’s direction of movement, we need to collect and analyse further data. These findings could then be incorporated into a computer-based weather model in order to improve the forecasting of precipitation,” says Aichinger-Rosenberger.
+
+Storms still need to pass directly over the measuring station for GPS signals in order to be detected. Because the network of measuring stations is not sufficiently close-knit, the method is not yet suitable for the early detection of storms. “If, for example, we had thirty to forty stationary receivers around Zurich, we would be able to capture extreme weather events across the city accurately and also very cost-effectively,” explains Soja. “A dense network of stations could also be used to determine where storms are moving to and how fast.”
+
+## Space geodesy
+
+Such an early detection system could in future be used, for instance, to ensure safe air traffic, says Soja. “A dense network of GPS stations around the airport would enable a storm to be localised in real time and warnings to be issued to this effect.”
+
+As well as refining the method, the scientists are also planning to expand their research work across Switzerland and at the European level, to enlarge their network accordingly. Although the severe storm in July 2021 caused a lot of local damage, it also enabled knowledge to be gained that could one day be applied globally.
+
+## Reference
+
+Space geodesy is a field of geodesy that addresses the measurement and mapping of large areas, particularly of the earth, using space technology. The main goal of space geodesy is to gain precise information about the shape, size and movement of the earth.
+
+GPS is a decisive component of space geodesy. GPS satellites can be used to determine user positions on the earth with a high level of precision. This is used in many applications such as navigation, surveying and geographic information systems.
+
+Aichinger-Rosenberger M, Aregger M, Kopp J, Soja B: Detecting Signatures of Convective Storm Events in GNSS-SNR: Two Case Studies from Summer 2021 in Switzerland. Geophysical Research Letters 2023, 50. doi: 10.1029/2023GL104916
+

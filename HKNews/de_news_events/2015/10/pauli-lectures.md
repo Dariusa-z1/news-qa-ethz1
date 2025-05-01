@@ -1,0 +1,32 @@
+# pauli-lectures
+
+## Miterfinderin von JPEG 2000
+
+Eigentlich wollte Ingrid Daubechies als Kind ihrem Vater nacheifern und Ingenieurin werden. Doch ihre Affinität zu Mathematik und zur Lösung komplexer mathematischer Fragestellungen kam ihr dabei in die Quere. Bald studierte sie an der Vrije Universiteit in Brüssel Physik und absolvierte ihr Doktorat ebendort in theoretischer Physik. Danach startete sie eine steile Karriere, die sie unter anderem an die AT&T Bell Laboratories führte, an die New York University und als erste Professorin für Mathematik an die Princeton University. Heute forscht und lehrt sie an der Duke University in Durham, USA, und war von 2011 bis 2015 Präsidentin der Internationalen Mathematischen Union – wiederum als erste Frau überhaupt.
+
+Daubechies hat sich vor allem mit ihrer Arbeit im Bereich der Wavelets und deren Einsatz für die digitale Bildverarbeitung weltweit einen Namen gemacht. Das Bildformat JPEG 2000 – eine vielschichtigere und komplexere Version des geläufigen JPEG-Formats – geht grösstenteils auf Daubechies Forschungserfolge zurück. Ein Standard, der heute sogar vom FBI für die Aufnahme von Fingerabdrücken genutzt wird.
+
+## Virtuelle Kunstrestauration
+
+Wavelets sind elementare Funktionen. Werden sie kombiniert, können damit allgemeine Funktionen, sprich Signale, effizient repräsentiert werden – insbesondere deren lokale Eigenschaften. Bilder sind für Daubechies nichts anderes als Funktionen zweier Variablen. Denn jedes hochaufgelöste digitale Bild ist zusammengesetzt aus tausenden von Pixeln, der kleinsten Einheit eines Bildes. Jeder dieser Pixel ist mathematisch beschrieben: Bei Schwarzweiss-Bildern ist es die Graustufe, bei farbigen Bildern die exakte Farbe des Pixels. Aus diesen Zahlenreihen können Computer oder Smartphones das tatsächliche Bild berechnen, das bei uns auf dem Bildschirm angezeigt wird.
+
+Daubechies nutzt in ihrer Forschung oft ein Verfahren, das sich «wavelet decomposition» nennt. Sie «zersetzt» dabei ein Bild in kleinste Bausteine, welche gemeinsam beschreiben, was auf einem Bild zu sehen ist. Sie konzentriert sich dabei vor allem auf die Bildbereiche, in welchen die Pixel stark voneinander abweichen. Denn genau daran lässt sich die Einzigartigkeit eines Bildes ablesen. Die praktische Anwendung solcher Methoden hat Daubechies kürzlich in Ghent vorgeführt. Der Ghenter Altar in der St.-Bavo-Kathedrale ist ein Flügelaltar des Künstlers Jan van Eyck aus dem 15. Jahrhundert. Das Werk besteht aus zwölf Einzelbildern und gilt als ein Meister- und Schlüsselwerk für die Kunstgeschichte Westeuropas. Wie die meisten Werke aus dieser Zeit sind die Bilder aufgrund von dauernden Temperatur- und Feuchtigkeitsschwankungen mit kleinsten Rissen und Brüchen übersät.
+
+## Den echten Van Gogh «berechnen»
+
+Auf Anfrage erstellte Daubechies Forschungsgruppe eine virtuelle Restauration des Werkes. Dafür entwickelte sie einen Bildverarbeitungs-Algorithmus, mit dem die Brüche in einer hochauflösenden Fotografie des Originalbildes automatisch detektiert und entfernt wurden. Das Ergebnis war ein restauriertes, digitales Abbild des Ghenter Altars. Kunsthistoriker konnten das Bild dank der virtuellen Restauration besser deuten. Zum Beispiel konnten sie auf einem mittelalterlichen Buch, das auf dem Originalbild vom Künstler dargestellt worden war, mehr Wörter entschlüsseln, was neue Erkenntnisse zu Referenzen erlaubte.
+
+In Zusammenarbeit mit dem Van-Gogh-Museum in Amsterdam und einem interdisziplinären Forschungsteam hat Daubechies zudem bewiesen, dass die Signalanalyse von kleinsten Bildausschnitten auch dazu dient, Fälschungen zu identifizieren. Experten haben nämlich bemerkt, dass sich der Strich selbst bei den besten Fälschern gering von demjenigen des Meisters unterscheidet. Die Farben sind etwas zögerlicher und langsamer aufgetragen. Daubechies und ihre Kollegen und Kolleginnen entwickelten deshalb einen Bildverarbeitungs-Algorithmus, der genau nach dieser Information sucht. Eine Fernsehstation beauftragte die Gruppe daraufhin mithilfe ihrer Bildanalyse aus sechs Van-Gogh-Bildern die eine Fälschung rauszusuchen. Es gelang auf Anhieb.
+
+## Pauli Lectures 2015
+
+«Ingrid Daubechies hat fundamentale Beiträge zur digitalen Signalverarbeitung mit praktischen Anwendungen geliefert», sagt Marc Burger, Professor am Departement Mathematik und Organisator der diesjährigen Pauli Lectures. «Speziell angetan hat uns ausserdem die Mischung von Kunst, experimenteller Wissenschaft und Mathematik, die einige ihrer Forschungsbeiträge prägt. Wir sind daher ausserordentlich froh, dass sie die diesjährigen Pauli-Vorlesungen halten wird.» In der ersten der drei Vorlesungen an der ETH vom 26. Oktober wird sich Daubechies der Forschung in Zusammenarbeit mit Kunsthistorikern und Konservatorinnen widmen und die Mathematik dahinter ergründen. In zwei weiteren Präsentationen wird die Professorin einerseits auf neue Anwendungen der Signalverarbeitung in der Biologie eingehen und andererseits auf neue Kompressionstechnologien für Fotos, um die Speicherung und Verbreitung von Bildern über das Internet einfacher und effizienter zu gestalten.
+
+Die Wolfgang-Pauli-Vorlesungen sind eine seit 1962 jährlich stattfindende, dreiteilige Vorlesungsreihe. Sie sind abwechslungsweise der Physik, Mathematik und Biologie gewidmet. Im Rahmen der Pauli-Vorlesungen präsentieren hervorragende Referenten ihre wegweisende Forschung. Benannt sind sie nach dem theoretischen Physiker und Nobelpreisträger Wolfgang Pauli, der von 1928 bis zu seinem Tod 1958 als Professor an der ETH Zürich wirkte.
+
+Die Pauli-Vorlesungen 2015 finden am 26., 27. und 29. Oktober jeweils um 20.15 Uhr im Auditorium Maximum (F 30) im Hauptgebäude an der Rämistrasse 101 in Zürich statt. Die Vorlesungen sind öffentlich und richten sich an ein breites Publikum mit Interesse an Naturwissenschaften. Sie werden auf Englisch gehalten. Der Eintritt ist kostenlos und eine Anmeldung ist nicht nötig.
+
+Montag, 26. Oktober: Mathematicians helping Art Historians and Art Conservators Dienstag, 27. Oktober: Lovely Bones: a Meeting of Mathematical and Biological Minds Donnerstag, 29. Oktober: Surfing with Wavelets
+
+Weitere Informationen: www.pauli-lectures.ethz.ch
+

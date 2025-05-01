@@ -1,0 +1,28 @@
+# how-we-get-defectors-to-cooperate
+
+## Everyone thinks someone else will do it
+
+Picture a lake with several factories located on or close to its shores. One of the companies secretly disposes of its hazardous waste nearby, from where it leaches into the lake and causes damage to the other companies’ operations. As the injured parties, the other companies could file a suit against the company that has committed the environmental violation, but doing so is associated with certain costs. Which of the companies will take it upon itself to act? It’s questions such as this that Andreas Diekmann, professor of sociology at ETH Zurich, has addressed in a social cooperation study conducted together with Wojtek Przepiorka from Utrecht University.
+
+“The odds of someone taking action that will benefit everyone are greatest when the group of those affected is heterogeneous and one of its members is clearly the ‘strongest’, so to speak,” summarises Diekmann. Group members’ strength is measured by how much it costs them to punish a rules violation as well as by how much they stand to benefit once social cooperation has been restored. The strongest member is the one for whom either the cost of taking action is the lowest or the payoff is the highest, compared to the others in the group. In the end, however, the strong player who takes action on behalf of all the others always gains the least – after all, they assume the cost of taking the punitive action, while the other members of the group benefit as free riders. In a non-recurring interaction the strong are paradoxically exploited by the weak.
+
+## Playing the public goods game
+
+What’s remarkable is that the strong player in a heterogeneous group does in fact tend to carry out the punishment. As the researchers’ game theory experiments show, the strong people in asymmetric groups will punish a renegade in four out of five cases, and succeed in recouping the loss for the injured parties by doing so.
+
+Groups in which all members have to pay an equally high price for taking punitive action – in other words, groups in which all are equally strong – behave more cautiously. With this group composition, someone takes punitive action only in about two out of every five cases. According to Diekmann, the reason for this is “diffusion of responsibility”. If all group members face equal, symmetrical conditions, then without communication it is almost impossible to coordinate an intervention – everyone assumes someone else will do it.
+
+## Rallying around a strong centre
+
+Using a variation on the public goods game, the two scientists investigated the interplay between the level at which punishment costs are set and the asymmetry of the group. The game allowed players, who were always anonymous, to increase their capital by cooperating or stealing. In a group of four players with equal amounts of capital, one person would be given the opportunity to steal half the money belonging to the others. If they did that, the other three players could choose to spend a certain amount to retrieve the stolen money and – in a further step – punish the thief. It would take just one player to pay up for all those who suffered a loss to recover their money.
+
+What was special about this version of the game was that the amount a player needed to pay varied. Sometimes the cost was below the amount that had been stolen, sometimes above; sometimes it was the same for everyone, and sometimes asymmetric, such that a strong player paid less. In full knowledge of how much the others would have to pay up, the players each had to decide for themselves whether or not to pay to punish the thief and recover the money for the injured parties.
+
+## Literature reference
+
+The results were clear: the thief is punished most frequently when all who had money stolen are promised compensation and the group’s strong player (the one who has to pay the least) chooses to take punitive action. Asymmetry, where a group has a strong player, also acts as a deterrent – potential defectors are less likely to break the rules.
+
+“Having differences in the punishment costs or rewards effectively maintains social cooperation,” states Diekmann – but an even more significant factor is asymmetric group composition. Surprisingly, in two out of three cases the strong player will opt to take punitive action despite the fact that they themselves gain nothing by doing so or even end up worse off. It appears that their central role leads them to selflessly step into the breach to help the others. According to Diekmann, “This mechanism might also explain how it is that anarchical groups have developed into societies with centralised authority, where the power to take punitive action is accorded to specialised groups such as the police or the legal system.”
+
+Diekmann A, Przepiorka W: Punitive preferences, monetary incentives and tacit coordination in the punishment of defectors promote cooperation in humans. Scientific Reports, 19 May 2015. doi: 10.1038/srep10321
+

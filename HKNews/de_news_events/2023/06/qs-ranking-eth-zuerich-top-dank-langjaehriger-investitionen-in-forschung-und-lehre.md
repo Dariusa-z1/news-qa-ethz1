@@ -1,0 +1,20 @@
+# qs-ranking-eth-zuerich-top-dank-langjaehriger-investitionen-in-forschung-und-lehre
+
+## Verbesserung auch dank neuer Methodologie
+
+Man könnte sich beinahe daran gewöhnen: Die ETH Zürich gehört in den zahlreichen Hochschulrankings Jahr für Jahr zu den besten Universitäten der Welt. So auch in der Rangliste von Quacquarelli Symonds (QS), deren neueste Ausgabe soeben erschienen ist. Dabei kann sich die ETH Zürich im Vergleich zum Vorjahr um zwei Ränge verbessern und klassiert sich an siebter Stelle. Das University College London (UCL) und das California Institute of Technology (Caltech) liegen neu hinter der Schweizer Hochschule. Angeführt wird das Ranking wie schon seit mehreren Jahren vom Massachusetts Institute of Technology (MIT). An zweiter Stelle klassiert sich die Universität Cambridge, neu gefolgt von der Universität Oxford.
+
+«Es erfüllt mich jedes Jahr mit Stolz, dass sich die ETH Zürich inmitten dieser prestigeträchtigen Institutionen klassieren kann», freut sich ETH-Präsident Joël Mesot. Und weiter: «Die Platzierung unter den Besten hat für mich zwei Bedeutungen: Zum einen zeigt sie, dass sich die langjährigen Investitionen in Forschung und Lehre auszahlen, zum anderen, welch grossartige Leistungen die Kolleginnen und Kollegen täglich erbringen». Auch wenn Rankings nie die ganze Wahrheit abbildeten und mit Vorsicht zu geniessen seien, so müsse man sie als Hochschule ernst nehmen, so Mesot.
+
+## Betreuungsverhältnis weniger stark gewichtet
+
+Die ETH Zürich profitiert in diesem Jahr auch von einer Veränderung der Methodologie. Das QS-Ranking bewertet mehrere Bereiche, die für das Gesamtergebnis unterschiedlich gewichtet werden. Wie schon in den vergangenen Jahren erzielt die ETH Zürich bei der Publikationstätigkeit mit 98.9 und beim Ruf in der Wissenschaft mit 98,8 von je 100 möglichen Punkten Spitzenwerte. Beide dieser Messgrössen fallen mit 20 bzw. 30 Prozent beim Gesamtranking besonders stark ins Gewicht.
+
+In diesem Jahr sind neue Kriterien wie Nachhaltigkeit, Arbeitsmarktfähigkeit der Abgänger:innen und internationale Forschungsnetzwerke hinzugekommen. Die ETH Zürich konnte insbesondere bei der Arbeitsmarktfähigkeit und der internationalen Vernetzung überdurchschnittlich punkten. Durch die Einführung der neuen Kriterien erhielten zudem einige bestehende Faktoren eine tiefere Gewichtung. So wird das Betreuungsverhältnis, bei dem die ETH Zürich wie schon in der Vergangenheit im Konkurrenzvergleich schlechter abschneidet, nur noch mit 10 statt wie früher mit 20 Prozent gewichtet. Der 177. Rang der ETH Zürich beim Betreuungsverhältnis hat damit weniger Auswirkungen auf das Gesamtresultat.
+
+## Starke Schweizer Hochschulen
+
+«Auch wenn dieser Aspekt im Ranking jetzt weniger zählt, so bereitet mir das Betreuungsverhältnis mit Blick in die Zukunft Sorgen», sagt Joël Mesot. «Das Wachstum unserer Studierendenzahl ist seit Jahren höher als unser Mittelzuwachs. Mit den angekündigten Sparvorgaben wird es noch anspruchsvoller, unsere hohe Lehrqualität aufrechtzuerhalten und beim Betreuungsverhältnis im internationalen Vergleich nicht noch stärker ins Hintertreffen zu geraten.» Die Schweiz tue daher gut daran, ihrer wichtigsten Ressource Sorge zu tragen und auch in wirtschaftlich angespannten Zeiten in Bildung und Forschung zu investieren.
+
+Dass sich diese Investitionen für die Schweiz lohnen, zeigt auch ein Blick auf die Rangierungen der anderen Schweizer Hochschulen. So klassieren sich zwei weitere Institutionen aus der Schweiz in den Top 100 von insgesamt über 1500 klassierten Institutionen: Die EPFL belegt neu Rang 36 (letztes Jahr 16) und die Universität Zürich Rang 91 (letztes Jahr 83). Von den besten 500 Hochschulen kommen gleich neun aus der Schweiz – im Verhältnis zur Einwohnerzahl ein absoluter Spitzenwert.
+

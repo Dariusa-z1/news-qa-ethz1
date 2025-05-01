@@ -15,6 +15,16 @@ import os
 import matplotlib.pyplot as plt
 from docling.document_converter import DocumentConverter
 import re
+import argparse
+from pathlib import Path
+import logging
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
 
 # Create a Docling converter
 docling_converter = DocumentConverter()
@@ -122,7 +132,7 @@ def inject_docling_bullets(bs4_body, docling_markdown):
         if line.strip().startswith(('•', '- '))
     ]
 
-    print(" Bullet lines extracted from Docling:", bullet_lines)  # DEBUG
+    logger.debug(f"Bullet lines extracted from Docling: {bullet_lines}")
 
     # Keep only bullets not already in bs4_body
     unique_bullets = [
@@ -137,30 +147,34 @@ def inject_docling_bullets(bs4_body, docling_markdown):
     bullet_block = '<br><br>' + '<br><br>'.join(unique_bullets) + '<br><br>'
     return bullet_block + bs4_body
 
-def hybrid_parser_from_content(filename, html_content):
+def hybrid_parser_from_file(filepath):
     """
-    Hybrid parser that works with in-memory HTML content
+    Hybrid parser that works directly with the file
     
     Args:
-        filename (str): Filename for the HTML content
-        html_content (str): HTML content as string
+        filepath (Path): Path object to the HTML file
         
     Returns:
         dict: Dictionary containing parsed data from both parsers
     """
+    # Read the HTML file
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            html_content = f.read()
+    except UnicodeDecodeError:
+        # Try with a different encoding if UTF-8 fails
+        with open(filepath, 'r', encoding='latin-1') as f:
+            html_content = f.read()
+    
     # Use BeautifulSoup to extract clean body and titles
     bs4_data = parse_with_bs4(html_content)
-
-    # Save HTML to a temporary file to pass to Docling
-    temp_path = f"/tmp/{filename}"
-    with open(temp_path, 'w', encoding='utf-8') as f:
-        f.write(html_content)
-
+    
     # Use Docling to extract structured markdown
-    docling_data = parse_with_docling(temp_path)
+    docling_data = parse_with_docling(str(filepath))
 
     return {
-        'filename': filename,
+        'filepath': filepath,
+        'filename': filepath.name,
         'bs4_body': bs4_data['body'],
         'bs4_titles': bs4_data['titles'],
         'bs4_paragraphs': bs4_data['paragraphs'],
@@ -221,84 +235,114 @@ def distribute_bs4_text(paragraphs, docling_chunks):
     
     return docling_chunks
 
+def find_html_files(root_dir):
+    """
+    Find all HTML files in the directory structure
+    
+    Args:
+        root_dir (Path): Root directory to start the search
+        
+    Returns:
+        list: List of Path objects for HTML files
+    """
+    html_files = []
+    for path in root_dir.glob('**/*.html'):
+        html_files.append(path)
+    return html_files
+
+def process_html_file(html_file, dry_run=False):
+    """
+    Process a single HTML file and save its markdown version
+    
+    Args:
+        html_file (Path): Path to the HTML file
+        dry_run (bool): If True, don't save files but just log actions
+        
+    Returns:
+        dict: Dictionary containing processing results
+    """
+    logger.info(f"Processing: {html_file}")
+    
+    # Parse the file
+    result = hybrid_parser_from_file(html_file)
+    
+    # Create chunks
+    docling_chunks = chunk_docling_markdown(result['docling_markdown'])
+    content_chunks = distribute_bs4_text(result['bs4_paragraphs'], docling_chunks)
+    
+    # Inject bullet points into the first chunk's body (only if needed)
+    if content_chunks:
+        content_chunks[0]["body"] = inject_docling_bullets(
+            bs4_body=content_chunks[0]["body"],
+            docling_markdown=result['docling_markdown']
+        )
+    
+    # Create markdown content
+    markdown_content = f"# {html_file.stem}\n\n"
+    for chunk in content_chunks:
+        markdown_content += f"## {chunk['title']}\n\n"
+        paragraphs = chunk['body'].split('<br><br>')
+        for p in paragraphs:
+            clean = p.strip()
+            if clean:
+                markdown_content += clean + "\n\n"
+    
+    # Define the output file path
+    markdown_file = html_file.with_suffix('.md')
+    
+    if not dry_run:
+        # Create parent directories if they don't exist
+        markdown_file.parent.mkdir(parents=True, exist_ok=True)
+        
+        # Save the markdown file
+        with open(markdown_file, 'w', encoding='utf-8') as f:
+            f.write(markdown_content)
+        logger.info(f"Saved: {markdown_file}")
+    else:
+        logger.info(f"Would save to: {markdown_file}")
+    
+    return {
+        'html_file': html_file,
+        'markdown_file': markdown_file,
+        'chunks': content_chunks
+    }
+
 def main():
     """
-    Main function to process example HTML files
+    Main function to process HTML files
     """
-    # Read example files
-    example_files = [
-        'HKNews/de_internal/2015/05/die-eth-karte-erhaelt-ein-neues-design.html',
-        'HKNews/de_news_events/2016/04/erc-advanced-grants.html',
-        'HKNews/en_internal/2020/08/in-memory-of-konrad-steffen.html',
-        'HKNews/en_news_events/2024/03/detecting-storms-thanks-to-gps.html'
-    ]
-
-    examples = {}
-    for filepath in example_files:
+    parser = argparse.ArgumentParser(description='Hybrid HTML Parser using BeautifulSoup + Docling')
+    parser.add_argument('--root', type=str, default='HKNews', help='Root directory to search for HTML files')
+    parser.add_argument('--dry-run', action='store_true', help='Don\'t save files, just simulate')
+    parser.add_argument('--verbose', action='store_true', help='Enable verbose logging')
+    args = parser.parse_args()
+    
+    # Set log level
+    if args.verbose:
+        logger.setLevel(logging.DEBUG)
+    
+    # Convert root to Path object
+    root_dir = Path(args.root)
+    
+    # Find all HTML files
+    html_files = find_html_files(root_dir)
+    logger.info(f"Found {len(html_files)} HTML files to process")
+    
+    # Process each file
+    processed_files = []
+    for html_file in html_files:
         try:
-            with open(filepath, 'r', encoding='utf-8') as f:
-                examples[os.path.basename(filepath)] = f.read()
-        except FileNotFoundError:
-            print(f"Warning: File not found: {filepath}")
-            
-    if not examples:
-        print("No example files found. Please update the file paths.")
-        return
-
-    # Display example names
-    print("Processing files:", list(examples.keys()))
-
-    # Apply hybrid parser to examples
-    hybrid_results = []
-    for filename, html_content in examples.items():
-        result = hybrid_parser_from_content(filename, html_content)
-        hybrid_results.append(result)
-
-    # Create final chunks
-    final_chunks_per_file = []
-    for document in hybrid_results:
-        # Step 1: Create structural chunks from the markdown document
-        docling_chunks = chunk_docling_markdown(document['docling_markdown'])
-        
-        # Step 2: Distribute the BS4 text content into the markdown structure
-        content_chunks = distribute_bs4_text(document['bs4_paragraphs'], docling_chunks)
-
-        # Step 3: Inject bullet points into the first chunk's body (only if needed)
-        if content_chunks:
-            content_chunks[0]["body"] = inject_docling_bullets(
-                bs4_body=content_chunks[0]["body"],
-                docling_markdown=document['docling_markdown']
-            )
-        
-        # Add the processed document to results
-        final_chunks_per_file.append({
-            'filename': document['filename'],
-            'chunks': content_chunks
-        })
-
-    # Preview results
-    for f in final_chunks_per_file:
-        print(f"\n=== {f['filename']} ===")
-        for c in f['chunks']:
-            print(f"\n## {c['title']}\n{c['body']}")
-
-    # Write results to files
-    output_dir = "parsed_markdown"
-    os.makedirs(output_dir, exist_ok=True)
-
-    for f in final_chunks_per_file:
-        filename = f"{f['filename'].replace('.html', '')}.md"
-        filepath = os.path.join(output_dir, filename)
-
-        with open(filepath, "w", encoding="utf-8") as out:
-            out.write(f"# {f['filename']}\n\n")
-            for c in f['chunks']:
-                out.write(f"## {c['title']}\n\n")
-                paragraphs = c['body'].split('<br><br>')  
-                for p in paragraphs:
-                    clean = p.strip()
-                    if clean:
-                        out.write(clean + "\n\n")  # Force paragraph block
+            result = process_html_file(html_file, dry_run=args.dry_run)
+            processed_files.append(result)
+        except Exception as e:
+            logger.error(f"Error processing {html_file}: {e}")
+    
+    logger.info(f"Successfully processed {len(processed_files)} files")
+    
+    # Optional: Generate a summary report
+    if processed_files:
+        logger.info("Processing complete")
 
 if __name__ == "__main__":
     main()
+    

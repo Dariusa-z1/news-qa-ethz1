@@ -1,0 +1,38 @@
+# the-climate-risk-of-insect-pests
+
+## Pre-emptive models
+
+Climate change isn’t just about glaciers melting, trees coming into leaf earlier and alpine flowers heading for higher ground. It also alters the conditions for the incidence of agricultural pests like bacteria, viruses, fungi and insects.
+
+Cultivated plants are already under tremendous pressure from pest organisms, and this pressure can only rise if warming continues as predicted. Take insects for example: already, new species are steadily settling in across Switzerland and Europe, sometimes arriving from other parts of the world as stowaways.
+
+The latest example is the spotted wing drosophila (Drosophila suzukii) . In Europe, this fly, which is native of south-eastern Asia, was first found in Spain and Italy in 2008, and was first recorded in Switzerland in 2011. It has now pressed on to southern Sweden and is taking the Balkans by storm, wreaking havoc on berries, cherries and other soft fruit.
+
+## Fruit flies at the Arctic circle?
+
+To be forearmed against such unpleasant surprises, the National Centre for Climate Services (NCCS) provided funding to examine the future distribution of insect pests. Loïc Pellissier, Professor for Landscape Ecology, and his group are using computer simulations to help put together scenarios for the development and spread of selected potential insect pests and of plants important for agriculture and forestry. The scenarios are intended to provide the basis for planning protective measures for crops and forests.
+
+Using existing climate scenarios, Pellissier’s doctoral student Marc Grünig is currently exploring the potential future distribution of 90 species of insect pests that, though most of them not yet found in Europe, could very well make their way to the continent. His selection is based on a list compiled by the European and Mediterranean Plant Protection Organization (EPPO). Border controls at European airports and harbors already intercept many of these quarantine pests today, showing that there is a real threat of invasion. Grünig is also modelling where 110 crops and 25 types of tree could emerge.
+
+Although Grünig is just getting started with his doctoral project, he already has data to present, such as on the apple maggot fly (Rhagoletis pomonella) . It is currently found in apple-growing regions of North America and Mexico, but hasn’t yet been detected in Europe. Grünig modelled where in Europe this species would find a suitable habitat in the year 2020. The map of the potential distribution shows that southern and central Europe in particular would offer adequate living conditions, whereas northern Europe and the British Isles would be barely habitable at best.
+
+## Foundation for practical application
+
+Assuming global warming continues to advance, however, by the year 2060 conditions in northern Europe would also be such that the insect could thrive. More southern climes around the Mediterranean may by then have become too hot and dry for the apple maggot fly, with climate conditions there also no longer suitable for the insect’s host, the apple tree.
+
+The hypothetical current and future distribution of the apple fruit fly at rising average temperatures. (Graphic: ETH Zurich)
+
+Grünig’s models are based on data drawn from different climate scenarios and on the current incidence of the insect pests and their host plants respectively. These data areused to model the climate conditions in the current distribution area and then projected according to various climate scenarios. Temperature and rainfall have a massive effect on the spread of a particular insect. “Cumulated warmth is one of the most important factors that determines where a given type of insect will or will not prosper,” Grünig says. And the same goes for minimum temperatures.
+
+## Summer series
+
+These distribution scenarios are also intended to inform practical applications. The researchers are working closely with agricultural research institutions such as Agroscope as well as with agricultural advisory servicesand the authorities. The scenarios can help agricultural research institutions to develop protective measures against newly occurring pest insects, for instance based on information from countries where a pest insect is already “on record”. “It’s possible that we’ll eventually produce an app that provides a pest prognosis, like a weather forecast, to help farmers protect themselves in good time against incoming insects. Up to now, we’ve not been well prepared to deal with what might hit us,” Pellissier says.
+
+He argues that since agricultural crops and forest treesare particularly vulnerable, the agriculture and forestry sector must arm itself against climate risks such as higher pest pressure. “We already have effective means of dealing with native pests such as the bark beetle. But how to cope with the spotted wing drosophila is something we still have to learn,” he says.
+
+Finally holiday time: ETH News will present a special summer series during the break, with a new focus periodically. Already published in this series: 11.07. Sweating for a cooler Singapore 18.07. Learning to work scientifically 30.07. Cooking even when the wind blows 08.08. Programming for perfect shade 17.08. From pine cones to an adaptive shading system
+
+20.08. Observing glaciers in “real time”
+
+Today's article concludes the series.
+

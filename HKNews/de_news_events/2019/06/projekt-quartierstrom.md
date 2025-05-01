@@ -1,0 +1,28 @@
+# projekt-quartierstrom
+
+## Anreiz für private Erzeuger
+
+Im Dezember 2018 fiel der Startschuss zu einem schweizweit einzigartigen Experiment: Im Quartier Schwemmiweg in Walenstadt haben sich 37 Haushalte zu einem lokalen Strommarkt zusammengeschlossen. Besitzerinnen und Besitzer von Photovoltaikanlagen können ihren selbst erzeugten Strom an die eigenen Nachbarn verkaufen, ohne Umweg über den Energieversorger. Haushalte ohne Solaranlage können sauberen Strom aus nächster Nähe beziehen. Den Preis bestimmen die Teilnehmenden selbst, über Angebot und Nachfrage.
+
+Wenn Strom innerhalb des Quartiers erzeugt und verteilt wird, muss weniger von aussen bezogen werden. Und der Stromhandel zwischen Haushalten bietet weitere Vorteile: «Zum Beispiel können Produzenten Preise erzielen, die klar über dem Netzeinspeisetarif liegen, und so ihre Anlagen schneller amortisieren», sagt Sandro Schopfer vom Bits to Energy Lab der ETH. Er leitet das Projekt « externe Seite Quartierstrom », an dem neben der Universität St. Gallen und weiteren Partnern auch der lokale Energieversorger, das Wasser- und Elektrizitätswerk Walenstadt beteiligt ist, das sein Verteilnetz für den lokalen Handel während des Pilotversuchs zur Verfügung stellt. Das Bundesamt für Energie unterstützt «Quartierstrom» im Rahmen eines Pilot-, Demonstrations- und Leuchtturmprogramms.
+
+## Lukrativ für beide Seiten
+
+Im Projekt wird erprobt, wie der Strommarkt der Zukunft aussehen könnte. Denn die Energiewende bringt eine zunehmende Dezentralisierung der Stromproduktion mit sich – weg von zentralen Grosskraftwerken, hin zu vielen kleinen, oftmals privaten Erzeugern. «Diese haben heute kaum Möglichkeiten, ihren Strom frei zu vermarkten», sagt Schopfer. Überschüsse müssen sie in der Regel zum Einspeisetarif an den Energieversorger verkaufen, der Strom fliesst ins öffentliche Netz. Das Paradoxe: Physikalisch gesehen landet dieser Strom bereits heute beim Nachbarn, da die Elektronen sich immer den kürzesten Weg suchen. «Der Markt bildet das aber nicht ab», sagt Schopfer. Eine Beteiligung privater Produzenten am Handel könnte finanzielle Anreize setzen und den Absatz von lokal erzeugter, sauberer Energie fördern.
+
+Ob das tatsächlich der Fall ist, soll das Quartierstrom-Projekt zeigen. Von den Teilnehmenden haben 28 eine eigene Solarstromanlage, neun sind reine Konsumenten, darunter ein Altersheim. Die Anlagen liefern jährlich rund 300'000 kWh Strom, der tatsächliche Bedarf der Gemeinschaft liegt bei etwa 250'000 kWh. Mehrere Batteriespeicher dienen als Puffer. Speziell verbaute Smartmeter – eine Variante des Low-Budget-Computers Rasp­berry Pi – messen kontinuierlich Produktion und Verbrauch der einzelnen Haushalte. Eine eigens entwickelte Software, die auf den Geräten installiert ist, wickelt den Handel direkt vor Ort ab. Dieser basiert auf der Blockchain-Technologie, die für fälschungssichere Transaktionen innerhalb von Netzwerken genutzt wird.
+
+## Energieversorger als Versicherer
+
+In einer App legen die Teilnehmenden Preislimits fest: Produzenten ihren Angebotspreis, Konsumenten ihren Kaufpreis. Ein Algorithmus ermittelt alle 15 Minuten, wer von wem kaufen darf. Dabei paart er jeweils den günstigsten Anbieter mit dem meistbietenden Käufer. Wer keinen Handelspartner findet, kauft Strom vom Energieversorger zum ortsüblichen Tarif.
+
+Die Preise des Quartierstrom-Markts fluktuieren mit Angebot und Nachfrage. Die bisherigen Erfahrungen zeigen, dass sie sich zwischen dem Einspeisetarif von 4 Rappen und dem Strompreis des Energieversorgers von 20,75 Rappen pro kWh einpendeln. «Das ist lukrativ, sowohl für Produzenten als auch Konsumenten», sagt ETH-Doktorandin Liliane Ableitner, die im Projekt Nutzerverhalten und Akzeptanz untersucht. Sie ist mit der Beteiligung der Nutzer am Handel sehr zufrieden. «Viele loggen sich öfter als erwartet in die App ein.»
+
+## Magazin Globe
+
+Auch wenn detaillierte Ergebnisse erst nach Abschluss des Projekts im Januar 2020 vorliegen werden, zeigt sich bereits: Durch den Handel steigt der Eigenverbrauch innerhalb der Gemeinschaft. So wurden beispielsweise in den ersten beiden Februarwochen 2019 über 80 Prozent des produzierten Solarstroms im Quartier selbst verbraucht. Zum Vergleich: Ohne Zusammenschluss kann ein einzelner Haushalt nur etwa 30 Prozent seines erzeugten Stroms selbst nutzen.
+
+Doch trotz höherem Eigenversorgungsgrad ist das Quartier nach wie vor auf den Energieversorger vor Ort angewiesen. Dieser nimmt nicht nur überschüssigen Strom ab, er liefert auch welchen, wenn die Sonne nicht scheint und der Bedarf hoch ist. «In diesem Szenario wird der Energieversorger zukünftig die Rolle eines Versicherers übernehmen», sagt Ableitner. Sie ist davon überzeugt, dass der Wandel im Strommarkt nicht aufzuhalten ist. Ebenso sehen es die Verantwort­lichen des Wasser- und Elektrizitätswerks Walenstadt, die für das Projekt gewonnen werden konnten. Sie hoffen, Einblicke in neue Geschäftsmodelle zu erhalten und von Anfang an bei deren Entwicklung mit dabei zu sein.
+
+In einem nächsten Schritt werden die Forschenden untersuchen, wie Batteriespeicher und flexibel einsetzbare Lasten wie Wärmepumpen oder Elektroautos dazu genutzt werden können, Produktionsschwankungen auszugleichen. «Das ist innerhalb einer Gemeinschaft viel besser möglich als im einzelnen Haushalt», sagt Schopfer. Indem man überschüssigen Strom vor Ort speichert und später wieder nutzt, lässt sich zudem der Eigenversorgungsgrad weiter steigern. «Unser Ziel ist, dass so wenig Strom wie möglich aus dem Quartier fliesst.»
+

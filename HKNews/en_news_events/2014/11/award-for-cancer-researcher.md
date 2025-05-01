@@ -1,0 +1,28 @@
+# award-for-cancer-researcher
+
+## Appreciation for researcher and field of expertise
+
+The 2014 Ruzicka Prize has been awarded to Cristina Müller, Research Group Leader at the Center for Radiopharmaceutical Sciences at ETH Zurich, the Paul Scherrer Institute (PSI) and University Hospital Zurich. Müller has been conducting research in this field since first encountering radiopharmaceutical diagnosis and treatment of cancer while writing her diploma thesis as an ETH pharmacy student almost 15 years ago.
+
+Her work focuses on the development and use of radioactively- labelled molecules that bind specifically to cancer cells. These substances are developed for medical imaging, which enables doctors to determine the location of a tumour within the body by means of positron emission tomography (PET) and allows them to check whether the cancer has already spread (metastases). The aim is also to use these molecules for treatment purposes; i.e. to irradiate tumours inside the body with pinpoint precision.
+
+## Similar molecule for diagnosis and treatment
+
+The 39-year-old pharmacist conducts research primarily at the PSI in Villigen, but she is also a lecturer at ETH. She is delighted with her latest award: “The Ruzicka Prize shows appreciation for my work over the years. I am also pleased that the award has raised awareness in our field of research,” she says. Although it is commonly known that cancer can be treated from outside the body using radiation, people are, perhaps, less aware that some very promising methods exist for irradiating cancer from within the body.
+
+The scientist has received the award in recognition of her work for the development of a molecule complex designed according to the ‘matched-pair’ principle, which will be used to diagnose and treat certain types of cancer in future. The complex, developed by Müller and her colleagues, consists of several connected parts, one of which is folic acid and another a radioactive metal atom (i.e. a radionuclide). The molecule complex binds to cancer cells that produce large amounts of the folate receptor, which relates primarily to gynaecological types of cancer and lung cancer.
+
+## Future use in medicine
+
+The special feature of the matched-pair principle is that the two molecule complexes used for diagnosis and therapy are chemically identical. Müller and her colleagues used the element scandium as the radiometal for both molecule complexes, which differ only in the mass of the scandium nuclide used.
+
+The Scandium-44 nuclide is used for PET diagnosis: during radioactive decay, it emits positron radiation, which penetrates tissue without damaging it and can, therefore, be used for imaging. For the treatment, however, Müller used Scandium-47, which emits beta radiation. Although it has a short tissue range,it emits a large amount of energy and, therefore, damages the tissue in its immediate vicinity. “An important advantage of the matched-pair principle is that doctors can use a chemically identical compound before treatment to test how the molecules will be distributed within the body and whether it will accumulate in the tumour as desired,” says Müller. The researcher and her colleagues are currently testing both diagnosis and treatment on tumour-bearing mice. The substances still need to be further optimised before they can be used in humans, however.
+
+## Ruzicka Prize
+
+Tests conducted on mice with derivatives of the folic acid molecule have shown that it not only accumulates in tumours, but also in the kidneys. Müller, therefore, optimised the complex and added a third component that binds reversibly to the blood protein albumin. As a result, the complex remains in the bloodstream for longer after injection and passes through the tumour more often. It, thus, accumulates more in the tumour tissue of the mice than in the kidneys.
+
+Müller particularly likes the interdisciplinary aspect of her field of research. Chemists, radiochemists, pharmacists, biologists and biochemists all work together very closely at the Center for Radiopharmaceutical Sciences, and in this particular project physicists also participated. Müller and her colleagues are currently working on further optimisation of radiopharmaceutical folic acid molecules for future use in medicine. They are also developing a substance for diagnosis and treatment of prostate cancer, based on the same principle.
+
+Since 1957, the Ruzicka Prize, named after the Nobel Prize winner Leopold Ruzicka, has been awarded annually to young researchers who publish outstanding work in the field of chemistry. The award is funded by the Swiss chemical industry. Along with the Werner Prize, it is Switzerland’s most important award for the promotion of young talent in the field of chemistry. The boards of trustees have discovered a wealth of talent since the prize was first awarded in 1957: the list of winners includes names such as Richard Ernst (magnetic resonance, Nobel Prize 1991) and Charles Weissmann (prion research, Robert Koch Medal 1995).
+

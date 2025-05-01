@@ -1,0 +1,6 @@
+# faire-algorithmen
+
+## Main article
+
+“Alles, was ich auf dem Computer oder Smartphone tue, ist quasi öffentlich”, sagt die Informatikerin Hoda Heidari. Zusammen mit Elliott Ash, Professor für Recht, Ökonomie und Datenwissenschaften, erzählt sie im Podcast von den gigantischen Mengen an digitalen Spuren, die wir täglich mit Computern und Smartphones hinterlassen. Auch sprechen die beiden Wissenschaftler darüber, wie Big Data die Welt und unsere Wahrnehmung verändert, weshalb die Politik diesem Wandel noch hinterherhinkt und wie Algorithmen lernen und dadurch fairer werden können.
+

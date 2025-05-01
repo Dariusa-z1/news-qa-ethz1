@@ -1,0 +1,28 @@
+# neues-food-konzept-in-der-mensa-polyterrasse
+
+## Ab dem 19. Dezember geschlossen
+
+Mehr Platz, ein frischeres Auftreten und ein neues Angebot: Das erwartet die Gäste der Mensa Polyterrasse ab dem 19. Januar 2015. Zur Auswahl stehen Gerichte an sechs neuen Theken: Der Counter «Home» ersetzt das ehemalige «Menü 1». Dort gibt es beliebte Klassiker mit Fleisch oder Fisch, es kann aber auch mal vegetarisch sein. Damit es schneller geht, können hier neu zwei Personen gleichzeitig bedient werden. Beim Counter mit dem Namen «Street» werden international beliebte Gerichte wie Kebab, Hot Dogs, Fajitas, Burger oder Indian Curries serviert.
+
+Eine Theke weiter, bei «Local» werden die Gerichte direkt vor den Gästen zubereitet. Verwendet werden ausschliesslich Fleisch und Poulet mit Schweizer Herkunft. Auch auf Fairtrade und Bio-Labels wird Wert gelegt. Vegetarische und teilweise auch vegane Gerichte finden die Gäste unter dem Namen «Garden». Da auch der Counter «Home» ab und an vegetarische Gerichte servieren wird, ist die Auswahl derer mit dem neuen Food-Konzept grösser als vorher.
+
+## Massnahme aus der Gästebefragung
+
+Eine weitere Alternative zum herkömmlichen Menü bietet die SV Group im «Market»-Bereich an: Neben einer Auswahl an Broten wird es dort auch saisonale Suppen mit Toppings geben. Wer lieber Salat möchte, findet am reichhaltigen «Hot & Cold»-Buffet in der Mitte des Raumes vegetarische Salat- und Gemüsevarianten mit einer grossen Auswahl an Toppings sowie Fleischiges.
+
+Jeweils zwei Menüs werden für Studierende zu einem Preis von 6.20 Franken erhältlich sein, dies aber nicht immer an den gleichen Ausgabestationen. Am «Hot & Cold»-Buffet können sich Studierende zu 1.80 Franken pro100g und Mitarbeitende zu 2 Franken pro100g bedienen. Die Gerichte bei «Local» kosten ab 8.50 Franken, können aber direkt bei der Ausgabe bezahlt werden. Damit wird künftig eine Kasse mehr zur Verfügung stehen, insgesamt sind es neu sechs.
+
+## Verwandte Artikel
+
+Die Mensa schliesst für die Sanierung ausnahmsweise bereits ein paar Tage vor Weihnachten - nämlich am 19. Dezember nach dem Mittagessen. Ersatzweise bietet die Cafeteria Einstein & Zweistein am 22., 23. und 24. Dezember ein warmes Menü an. Nach den Weihnachtsferien serviert die SV Group vom 5. bis zum 16. Januar ein reduziertes Angebot im Gastraum der Mensa Polyterrasse. Wiedereröffnung der modernisierten Mensa ist am 19. Januar 2015.
+
+Mit der Sanierung soll nebst dem Menü Angebot der Bereich der Essensausgabe verbessert werden, so dass Studierende und Mitarbeitende künftig auch zu Spitzenzeiten weniger lang anstehen müssen. Die langen Wartezeiten waren in der Gästebefragung 2012 bemängelt worden. Verbesserungen, die aus dieser Umfrage bereits früher resultiert sind, waren die Einführung des Salatbuffets sowie Neuheiten wie beispielsweise der «Best of Burger»-Tag oder die Info-Bildschirme beim Eingang zur Mensa.
+
+## Keine News verpassen
+
+Der Esssaal ist von den Veränderungen im Übrigen nicht betroffen, mittelfristig ist aber eine Gesamtsanierung geplant.
+
+Neue Gastro-Angebote auf dem Campus Hönggerberg (Intranet-News, 8.10.14)
+
+«Wir sind mit dem Start sehr zufrieden» (Intranet-News, 20.6.14)
+
