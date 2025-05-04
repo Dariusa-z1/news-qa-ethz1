@@ -6,15 +6,14 @@
   "main_content": "Seit Mitte Februar ist der Zugang zur GESS-Bibliothek auch in den frühen Abendstunden möglich. Der Eintritt erfolgt dann mit der ETH-Karte rechts neben der Eingangstür. Bitte beachten Sie dabei folgendes:\n\n• Ab 17.00 Uhr ist kein Bibliothekspersonal vor Ort (Open Library). Sie können sich mit Fragen telefonisch an das Infocenter im Hauptgebäude wenden (ETH-intern: 22135, extern: +41 44 632 21 35).\n• Bücher aus dem Freihandbereich können auch in der unbetreuten Zeit mit dem Selbstausleihgerät ausgeliehen werden. Das Abholen vorbestellter Medien ist wie bisher nur während der bedienten Zeiten von 09.00 Uhr bis 17.00 Uhr möglich.\n• Bitte verlassen Sie spätestens um 20.30 Uhr die Bibliothek, da das Gebäude schliesst. Das Licht wird automatisch in beiden Stockwerken ausgeschaltet.\n• Lassen Sie bitte keine weiteren Personen rein, wenn Sie mit Ihrer ETH-Karte in die GESS-Bibliothek gehen.\nZurzeit werden die Räumlichkeiten der GESS-Bibliothek umgestaltet. Zwei Sofas laden im unteren Stockwerk zum Erholen ein. Es sind zusätzliche Lernarbeitsplätze entstanden und für das konzentrierte Arbeiten mit Trennwänden ausgestattet worden. Die Umgestaltung ist noch nicht finalisiert, beispielsweise werden noch ein Akustikpanel bei der Sofaecke und neue Leselampen bei den Lernarbeitsplätzen dazukommen. Es lohnt sich, die GESS-Bibliothek zu besuchen. Weitere Informationen finden Sie in der Nutzungsordnung der ETH-Bibliothek und in der allgemeinen Hausordnung der ETH Zürich. (PDF, 102 KB)\n\nRaum für mehr – Vielfalt und Austausch erleben\n\n#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel.\n\n#ETHLibrary4Students – Praktische Unterstützung im Studium",
   "named_entities": [
     "Seit Mitte Februar",
-    "Der Eintritt",
     "Open Library",
-    "Das Abholen",
-    "Das Licht",
     "Lassen Sie",
     "Zwei Sofas",
-    "Die Umgestaltung",
     "Weitere Informationen",
-    "Die Infrastruktur"
+    "Ihrem Ziel",
+    "Praktische Unterstützung",
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Infrastructure",
@@ -33,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Seit Mitte Februar ist der Zugang zur GESS-Bibliothek auch in den frühen Abendstunden möglich. Der Eintritt erfolgt dann mit der ETH-Karte rechts neben der Eingangstür....",
+  "summary": "Seit Mitte Februar ist der Zugang zur GESS-Bibliothek auch in den frühen Abendstunden möglich. Der Eintritt erfolgt dann mit der ETH-Karte rechts neben der Eingangstür. Bitte beachten Sie dabei folgendes:\n\n• Ab 17.00 Uhr ist kein Bibliothekspersonal vor Ort (Open Library)....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 4,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 247,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "General Public"
@@ -49,6 +58,26 @@
       "Infrastructure",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 11.76,
+      "avg_word_length": 5.64,
+      "long_word_percentage": 29.96
+    },
+    "semantic_entities": {
+      "locations": [
+        "Akustikpanel",
+        "Bibliothekspersonal"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "22135",
+          "+41 44 632 21 35"
+        ]
+      }
+    }
   }
 }

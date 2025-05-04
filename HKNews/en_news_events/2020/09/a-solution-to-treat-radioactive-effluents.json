@@ -13,8 +13,8 @@
     "Water Research",
     "Inselspital Berne",
     "Professor Mezzenga",
-    "Filter",
-    "Fukushima"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "Radioactive",
-    "That",
     "Membrane",
     "Filter",
     "Water",
-    "Elements"
+    "Elements",
+    "Their"
   ],
-  "summary": "Filter also suitable for radioactive isotopes: The nuclear accident in Fukushima remains etched into people’s memories....",
+  "summary": "Filter also suitable for radioactive isotopes: The nuclear accident in Fukushima remains etched into people’s memories. It was a catastrophe that caused huge amounts of radioactively contaminated water to be released, which the operators of the nuclear power plant subsequently had to clean up....",
+  "content_structure": {
+    "paragraph_count": 15,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 864,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -51,6 +61,34 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.0,
+      "avg_word_length": 5.12,
+      "long_word_percentage": 31.13
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the journal Environmental Science",
+      "authors": [
+        "Filter",
+        "Fukushima"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Japan",
+        "Fukushima"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2022",
+          "2017"
+        ]
+      }
+    }
   }
 }

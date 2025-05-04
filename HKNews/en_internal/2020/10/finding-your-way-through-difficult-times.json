@@ -9,12 +9,8 @@
     "Human Resources",
     "Lukas Vonesch",
     "Conflict Management Reporting Office",
-    "The University Assembly",
-    "Markus",
-    "Respect",
-    "Anyone",
-    "Zurich",
-    "Head"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -26,21 +22,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
-    "With",
     "Person",
     "Advice",
     "Markus",
-    "Their"
+    "Their",
+    "Problem",
+    "They"
   ],
   "summary": "Ask for advice early on: Markus T.* doesn't know what to do. The young scientist is using a laboratory at ETH for his doctoral work. He has been going there almost every day for over a year now....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 1,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 818,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -53,6 +59,32 @@
       "Technology",
       "Research",
       "Administrative"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.78,
+      "avg_word_length": 4.81,
+      "long_word_percentage": 25.79
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Markus"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Human Resources",
+        "Markus"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020"
+        ]
+      }
+    }
   }
 }

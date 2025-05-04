@@ -11,10 +11,10 @@
     "Professor Hans Hauri",
     "Schweizerischen Ingenieur",
     "Internationalen Vereinigung",
-    "Gunten",
-    "Diplom",
-    "Assistent",
-    "Semester"
+    "ETH Zürich",
+    "ETH",
+    "Pierre Lardy",
+    "Henry Favre"
   ],
   "topics": [
     "University Administration",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Hans von Gunten studierte an der ETH Zürich Bauingenieurwesen und schloss 1955 mit dem Diplom ab....",
+  "summary": "Hans von Gunten studierte an der ETH Zürich Bauingenieurwesen und schloss 1955 mit dem Diplom ab. Anschliessend war er Assistent bei Professor Pierre Lardy und übernahm nach dessen überraschendem Tod für vier Semester einen Teil der Lehre. Parallel dazu konnte er bei Professor Henry Favre doktorieren, bevor er in ein Ingenieurbüro in Bern einstieg und dort 1963 Partner wurde....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 257,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -49,6 +59,41 @@
       "Education",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 25.7,
+      "avg_word_length": 5.68,
+      "long_word_percentage": 29.96
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Gunten",
+        "Zürich Bauingenieurwesen",
+        "Diplom",
+        "Anschliessend"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Bern",
+        "Ingenieurbüro",
+        "Zürich"
+      ],
+      "departments": [
+        "Vorsteher des",
+        "Architektur berufen und",
+        "Architektur und"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1955",
+          "1963"
+        ]
+      }
+    }
   }
 }

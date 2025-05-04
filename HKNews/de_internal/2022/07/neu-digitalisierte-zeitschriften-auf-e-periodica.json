@@ -9,12 +9,12 @@
     "Stück Geschichte",
     "Zürcher Studentin",
     "Seite Zu",
-    "Das Konzept",
     "Filmzeitschriften Filmberater",
-    "Der Filmberater",
     "Schweizerischen Katholischen Volksvereins",
     "Zeitschrift Zoom",
-    "Seite Zoom-Filmberater"
+    "Seite Zoom-Filmberater",
+    "Seite Zoom",
+    "Solothurner Wochenblatts"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Die ZS wurde unter dem Namen Zürcher Student 1923 gegründet. Hinter der ältesten Studierendenzeitung der Schweiz steckt ein bewegtes Stück Geschichte....",
+  "summary": "Main article: Die ZS wurde unter dem Namen Zürcher Student 1923 gegründet. Hinter der ältesten Studierendenzeitung der Schweiz steckt ein bewegtes Stück Geschichte. Erst wollte das Blatt nationalistisch sein....",
+  "content_structure": {
+    "paragraph_count": 49,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1531,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Researchers",
@@ -51,6 +61,33 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.12,
+      "avg_word_length": 6.36,
+      "long_word_percentage": 40.17
+    },
+    "semantic_entities": {
+      "locations": [
+        "Solothurns",
+        "Verbindung",
+        "Bild",
+        "Schweizerdeutsch",
+        "Musikschulen"
+      ],
+      "departments": [
+        "hat das Zürcher",
+        "Interreligiösen Dialog die Produktion der",
+        "verstärkte Zusammenarbeit mit dem Geographischen"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1923",
+          "2006"
+        ]
+      }
+    }
   }
 }

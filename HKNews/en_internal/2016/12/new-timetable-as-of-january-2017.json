@@ -6,15 +6,9 @@
   "main_content": "The trial operation for the autumn semester (as reported in Service info, 15.09.2016 ) ends on 23 December. New travel times will apply from Tuesday, 3 January 2017 .\n\nThe current departure times, every 20 minutes at x.14, x.34 and x.54 past the hour, will be supplemented by an extra round during term time . The shuttlebus will now in addition leave “ETH Hönggerberg” for Zentrum at x.44 and, in the opposite direction, depart from the “Unterführung Polyterrasse” at x.04 minutes past the hour.\n\nThe above travel times will apply for the whole day, apart from the early morning. As of January 2017, the first three trips of the morning from “Bahnhofplatz/HB” (in front of the Schweizerhof hotel) will start slightly earlier: at 7.06 and 7.36 a.m . The shuttlebus will also set off earlier on its first round from “ETH Hönggerberg” to Zentrum, at 7.06 a.m .\n\nWe have made these changes in the light of the trial operation, in order to fully meet customer needs while ensuring reliability. We are happy that we can now offer an extended service, and thank you for your flexibility regarding the slightly modified early morning timetable.\n\nYou will find more information on the ETH Link webpage.",
   "named_entities": [
     "Unterführung Polyterrasse",
-    "Service",
-    "December",
-    "Tuesday",
-    "January",
+    "ETH",
     "Hönggerberg",
-    "Zentrum",
-    "Bahnhofplatz",
-    "Schweizerhof",
-    "Link"
+    "Polyterrasse"
   ],
   "topics": [
     "Infrastructure",
@@ -23,21 +17,31 @@
   ],
   "keywords": [
     "Will",
-    "From",
     "Times",
     "Morning",
     "Trial",
     "Operation",
-    "Service"
+    "Service",
+    "Travel"
   ],
-  "summary": "The trial operation for the autumn semester (as reported in Service info, 15.09.2016 ) ends on 23 December. New travel times will apply from Tuesday, 3 January 2017 ....",
+  "summary": "The trial operation for the autumn semester (as reported in Service info, 15.09.2016 ) ends on 23 December. New travel times will apply from Tuesday, 3 January 2017 . The current departure times, every 20 minutes at x.14, x.34 and x.54 past the hour, will be supplemented by an extra round during term time ....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 212,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -45,6 +49,27 @@
     "context_tags": [
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 9.64,
+      "avg_word_length": 4.43,
+      "long_word_percentage": 21.7
+    },
+    "semantic_entities": {
+      "locations": [
+        "Service",
+        "Tuesday",
+        "Zentrum"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016",
+          "2017"
+        ]
+      }
+    }
   }
 }

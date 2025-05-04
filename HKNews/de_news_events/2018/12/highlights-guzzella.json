@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Corine Mauch, Stadtpräsidentin: Mit grossem Engagement hat sich Lino Guzzella für die ETH Zürich und für den Forschungsstandort Schweiz eingesetzt....",
+  "summary": "Corine Mauch, Stadtpräsidentin: Mit grossem Engagement hat sich Lino Guzzella für die ETH Zürich und für den Forschungsstandort Schweiz eingesetzt. Während seiner Amtszeit hat er einerseites wichtige Initiativen weiter vorangetrieben, andererseits hat er neue Projekte lanciert, wie beispielsweise den Medizin-Bachelor, das Projekt ETH+ oder die «Critical Thinking» Initiative....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 639,
     "readability_score": "complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -54,6 +64,38 @@
       "Research",
       "Education",
       "Administrative"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.75,
+      "avg_word_length": 5.96,
+      "long_word_percentage": 33.96
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Corine Mauch",
+        "Stadtpräsidentin",
+        "Engagement",
+        "Lino Guzzella"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Reden",
+        "Umfeld",
+        "Privileg",
+        "Zürich",
+        "Bachelor"
+      ],
+      "departments": [
+        "Departementsvorsteherin des"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

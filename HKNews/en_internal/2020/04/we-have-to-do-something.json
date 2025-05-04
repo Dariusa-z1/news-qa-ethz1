@@ -28,19 +28,29 @@
     "ETH Zurich",
     "Rüegsegger",
     "Wacker",
-    "With",
     "Healthcare",
     "Students",
-    "Have"
+    "Have",
+    "Their"
   ],
-  "summary": "Main article: When the coronavirus began to spread in Switzerland, Nicola Rüegsegger and Pascal Wacker quickly realised: we have to do something!...",
+  "summary": "Main article: When the coronavirus began to spread in Switzerland, Nicola Rüegsegger and Pascal Wacker quickly realised: we have to do something! The two computer science students had almost completed their Bachelor’s degree, with hardly any lectures left....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 870,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,38 @@
       "COVID-19",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.51,
+      "avg_word_length": 5.07,
+      "long_word_percentage": 28.16
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the Spotlight Stories of the Department of Computer Science at ETH Zurich",
+      "authors": [
+        "Switzerland",
+        "Nicola Rüegsegger",
+        "Pascal Wacker"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland",
+        "Wacker"
+      ],
+      "departments": [
+        "Computer Science at",
+        "the Spotlight Stories of the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2018",
+          "2020"
+        ]
+      }
+    }
   }
 }

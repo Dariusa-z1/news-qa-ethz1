@@ -10,11 +10,9 @@
     "Urs Kolly",
     "Family Sunday",
     "Family Sundays",
-    "The Cybathlon",
     "Swiss Arena",
-    "Robotic",
-    "Health",
-    "March"
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Technology & Innovation",
@@ -29,18 +27,28 @@
     "Will",
     "People",
     "March",
-    "With",
-    "That",
-    "Cybathlon"
+    "Cybathlon",
+    "Science",
+    "Disabilities"
   ],
-  "summary": "Robotic assistance and the power of thought: Health is a priceless asset, and one that needs to be looked after. But what exactly can we do to improve our well-being?...",
+  "summary": "Robotic assistance and the power of thought: Health is a priceless asset, and one that needs to be looked after. But what exactly can we do to improve our well-being? If someone falls ill or has an accident, how can modern medicine cure them, or at least make their daily lives more bearable?...",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 520,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Staff",
       "Faculty",
@@ -52,6 +60,45 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.67,
+      "avg_word_length": 4.99,
+      "long_word_percentage": 27.31
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Robotic",
+        "Health"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "13 March",
+        "22 March",
+        "8 October 2016"
+      ],
+      "time_references": [
+        "11am",
+        "4pm",
+        "6 to 22"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Kloten"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016"
+        ]
+      }
+    }
   }
 }

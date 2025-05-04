@@ -6,15 +6,8 @@
   "main_content": "Die ETH Zürich hat im Frühjahr 2015 erstmals Bachelor- und Master-Studierende nach ihrer Zufriedenheit mit dem Studium an der Hochschule befragt. Wie die Auswertung der Studierendenbefragung 2015 ergeben hat, sind 82 Prozent der ETH-Studierenden mit ihrer Studiensituation zufrieden oder sehr zufrieden.\n\nDie Schulleitung der ETH Zürich hat die Studierendenbefragung 2015 an ihrer Sitzung vom 3. Juli 2015 zur Kenntnis genommen. Wie die begleitende Arbeitsgruppe stuft sie die Ergebnisse der Befragung grundsätzlich als gut ein. Sie hat festgestellt, dass die aufgezeigten Vernbesserungspotenziale durch verschiedene, bereits lancierte Initiativen sehr gut abgedeckt sind.",
   "named_entities": [
     "Master-Studierende",
-    "Die Schulleitung",
-    "Zürich",
-    "Frühjahr",
-    "Bachelor",
-    "Zufriedenheit",
-    "Studium",
-    "Hochschule",
-    "Auswertung",
-    "Studierendenbefragung"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -30,14 +23,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Die ETH Zürich hat im Frühjahr 2015 erstmals Bachelor- und Master-Studierende nach ihrer Zufriedenheit mit dem Studium an der Hochschule befragt....",
+  "summary": "Die ETH Zürich hat im Frühjahr 2015 erstmals Bachelor- und Master-Studierende nach ihrer Zufriedenheit mit dem Studium an der Hochschule befragt. Wie die Auswertung der Studierendenbefragung 2015 ergeben hat, sind 82 Prozent der ETH-Studierenden mit ihrer Studiensituation zufrieden oder sehr zufrieden....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 92,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students"
     ],
@@ -45,6 +48,33 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.33,
+      "avg_word_length": 6.2,
+      "long_word_percentage": 36.96
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zürich",
+        "Frühjahr",
+        "Bachelor",
+        "Master"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "2015"
+        ]
+      }
+    }
   }
 }

@@ -8,13 +8,9 @@
     "Open-Access-Zeitschriften",
     "Book-Kapitel",
     "Mehr Einschränkungsmöglichkeiten",
-    "Die Datenbanken Web",
     "Benutzen Sie",
-    "Der Zugriff",
-    "Suchreiter",
-    "Artikel",
-    "Wissensportal",
-    "Neuerungen"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Communication",
@@ -30,14 +26,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Im zweiten Suchreiter \"Artikel und mehr\" im Wissensportal ergeben sich dadurch folgende Neuerungen:\n\n• Suche in noch umfangreicherem Informationsangebot von Verlagen, Datenbanken und Aggregatoren\n• Suche in Open-Access-Zeitschriften und -Repositorien\n• Zusätzliche integrierte Dokumenttypen wie E-Book-Kapitel, Konferenzberichte, Reviews usw....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 6,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 119,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Researchers"
     ],
@@ -45,6 +51,32 @@
       "Research",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.0,
+      "avg_word_length": 6.49,
+      "long_word_percentage": 42.86
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Suchreiter",
+        "Artikel",
+        "Wissensportal",
+        "Neuerungen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Open-Access-Zeitschriften"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

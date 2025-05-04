@@ -8,13 +8,13 @@
     "Michael Hall",
     "Beim Menschen",
     "Wirkstoff Rapamycin",
-    "In Säugetierzellen",
     "Beide Komplexe",
     "Frühere Versuche",
     "Timm Maier",
     "Universität Basel",
     "Professor Nenad Ban",
-    "Zürich Früchte"
+    "Zürich Früchte",
+    "Fachzeitschrift Science"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Organisation von mTORC1 aufgeklärt: Vor rund 25 Jahren entdeckte Michael Hall in Hefezellen das Protein «Target of Rapamycin» (TOR), ein Mitglied aus der Familie der Proteinkinasen, welches mittlerweile zu den meistuntersuchten Proteinen gehört. Später fand man auch ein TOR-Protein in S äugetierzellen, wo es als mTOR - mammalian Target of Rapamycin – bekannt ist....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 592,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -47,6 +57,36 @@
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.41,
+      "avg_word_length": 6.18,
+      "long_word_percentage": 36.66
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "der Fachzeitschrift Science erschienen sind",
+      "authors": [
+        "Organisation",
+        "Jahren",
+        "Michael Hall",
+        "Hefezellen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Mitglied",
+        "Hefezellen"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "1126"
+        ]
+      }
+    }
   }
 }

@@ -7,14 +7,10 @@
   "named_entities": [
     "Executive Board",
     "Central Administrative Units",
-    "The Central Administrative Units",
     "Stefan Spiegel",
     "Vice President",
-    "Main",
-    "Zurich",
-    "Finance",
-    "Controlling",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Finance",
@@ -33,14 +29,24 @@
     "More",
     "Rolling"
   ],
-  "summary": "",
+  "summary": "Main article: A scenario and simulation model will replace current medium-term planning (MFP) in strategic financial planning, and a more dynamic rolling forecast will replace budgeting in the area of short-term, operational financial management. The corresponding processes and software solutions are being developed and will be introduced over the course of the next few months....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 460,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Administration"
     ],
@@ -49,6 +55,20 @@
       "Sustainability",
       "Technology",
       "Administrative"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 25.56,
+      "avg_word_length": 5.42,
+      "long_word_percentage": 38.26
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -7,14 +7,8 @@
   "named_entities": [
     "Shawn Divitt",
     "Lukas Novotny",
-    "Correlations",
-    "Zurich",
-    "Photographs",
-    "What",
-    "Remote",
-    "Moreover",
-    "Washington",
-    "When"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -26,21 +20,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
     "Light",
     "Correlations",
     "Divitt",
     "Waves",
-    "Experiment"
+    "Experiment",
+    "Interference"
   ],
-  "summary": "",
+  "summary": "Correlations in the double slit: To send as much information as possible from A to B at the same time, scientists and engineers have developed increasingly sophisticated techniques over the past decades. Those techniques, generally known as multiplexing, allow one to transmit more signals than the number of available transmission channels....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 867,
     "readability_score": "moderately complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +56,32 @@
       "Research",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.67,
+      "avg_word_length": 4.87,
+      "long_word_percentage": 25.61
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Correlations",
+        "Scientists",
+        "Zurich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zurich",
+        "Novotny"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

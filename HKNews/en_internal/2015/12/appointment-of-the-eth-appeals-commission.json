@@ -28,17 +28,27 @@
     "Incumbent",
     "Appeals",
     "Commission",
-    "From",
-    "January"
+    "January",
+    "Prof"
   ],
-  "summary": "Members of the ETH Appeals Commission (as from 1 January 2016)\n\n• Prof....",
+  "summary": "Members of the ETH Appeals Commission (as from 1 January 2016)\n\n• Prof. Hansjörg Peter, Chair (incumbent)\n• Beatrice Susanne Vogt, Vice-Chair (incumbent)\n• Consuelo Antille (incumbent)\n• Jonas Philippe (new), student, ETH Zurich\n• Dr sc. nat....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 7,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 143,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Faculty"
@@ -46,6 +56,23 @@
     "context_tags": [
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.0,
+      "avg_word_length": 5.4,
+      "long_word_percentage": 41.26
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016",
+          "2016"
+        ]
+      }
+    }
   }
 }

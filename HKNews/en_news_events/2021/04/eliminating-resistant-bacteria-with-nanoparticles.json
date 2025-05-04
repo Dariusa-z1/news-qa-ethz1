@@ -7,12 +7,8 @@
   "named_entities": [
     "Inge Herrmann",
     "Nanoparticulate Systems",
-    "Bioglass",
-    "MRSA",
-    "Zurich",
-    "Empa",
-    "While",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -23,19 +19,29 @@
     "ETH Zurich",
     "Cells",
     "Bacteria",
-    "That",
     "Nanoparticles",
     "Human",
-    "Researchers"
+    "Researchers",
+    "Antibiotics"
   ],
-  "summary": "Bioglass and metal: In the arms race \"mankind against bacteria\", bacteria are currently ahead of us....",
+  "summary": "Bioglass and metal: In the arms race \"mankind against bacteria\", bacteria are currently ahead of us. Our former miracle weapons, antibiotics, are failing more and more frequently when germs use tricky maneuvers to protect themselves from the effects of these drugs....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 415,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -43,6 +49,29 @@
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.76,
+      "avg_word_length": 5.42,
+      "long_word_percentage": 31.81
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Bioglass"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Empa"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -9,12 +9,12 @@
     "Swiss Ingenuity",
     "Schweizer Erfindungsreichtum",
     "New York",
-    "Das Festival",
-    "Die Retrospektive",
     "Zurich Met New York",
     "Big Apple",
     "Haupthalle Hauptgebäude",
-    "Zürich Rämistrasse"
+    "Zürich Rämistrasse",
+    "Zürich Weitere Informationen",
+    "ETH Zürich"
   ],
   "topics": [
     "Communication",
@@ -31,14 +31,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Zürich spielt eine bedeutende Rolle als Wissenshub des 21. Jahrhunderts für wissenschaftliche und technologische Innovationen. Vor diesem Hintergrund präsentierte die Limmatstadt vom 16. bis zum 23....",
+  "summary": "Zürich spielt eine bedeutende Rolle als Wissenshub des 21. Jahrhunderts für wissenschaftliche und technologische Innovationen. Vor diesem Hintergrund präsentierte die Limmatstadt vom 16....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 181,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Researchers"
     ],
@@ -47,6 +57,35 @@
       "Research",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.92,
+      "avg_word_length": 5.57,
+      "long_word_percentage": 28.73
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zürich",
+        "Wissenshub",
+        "Jahrhunderts",
+        "Innovationen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "New York"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2014",
+          "101 8092"
+        ]
+      }
+    }
   }
 }

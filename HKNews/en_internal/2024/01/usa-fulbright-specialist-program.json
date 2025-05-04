@@ -7,14 +7,14 @@
   "named_entities": [
     "Fulbright Specialist Roster",
     "Fulbright Specialist",
-    "The Fulbright Specialist Program",
     "Specialist Program",
     "Download Fulbright Specialist Host",
     "Institution Application Instructions",
     "Download Fulbright Specialist",
     "Host Institution Project Proposal",
     "Ms Gaby Bloem Senior",
-    "Public Affairs Specialist"
+    "Public Affairs Specialist",
+    "United States Embassy Bern"
   ],
   "topics": [
     "Technology & Innovation",
@@ -33,14 +33,24 @@
     "Will",
     "Already"
   ],
-  "summary": "",
+  "summary": "Main article: How to find a specialist:\n\n• You already know the specialist, who is on the Fulbright Specialist Roster\n• You already know the specialist, who is not yet on the Fulbright Specialist Roster. No problem, the expert will receive guidance on how to be added to the Roster\n• You do not know a specialist: by describing who you need, the Fulbright Specialist program will propose several experts who you can choose from....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 4,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 227,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Faculty",
       "General Public"
@@ -50,6 +60,35 @@
       "Technology",
       "Events",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.7,
+      "avg_word_length": 5.11,
+      "long_word_percentage": 31.72
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "2 to 6"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Bern"
+      ],
+      "departments": [
+        "Host",
+        "Download Fulbright Specialist Host"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2024",
+          "2024"
+        ]
+      }
+    }
   }
 }

@@ -9,12 +9,12 @@
     "European Food Safety Authority",
     "Karin Kiefer",
     "Federal Council",
-    "The Council",
     "Economic Commission",
     "Entwicklung Grundwasser Schweiz",
     "Keine Subventionen",
     "Antibiotika-Einsatz",
-    "Water Research"
+    "Water Research",
+    "Neue Zürcher Zeitung"
   ],
   "topics": [
     "Education",
@@ -31,16 +31,26 @@
     "Water",
     "Initiative",
     "Drinking",
-    "That"
+    "Groundwater"
   ],
-  "summary": "Main article: Here in Switzerland, over 300 different pesticides are applied to protect cereals, fruit and vegetables from weeds, insects and fungal attack....",
+  "summary": "Main article: Here in Switzerland, over 300 different pesticides are applied to protect cereals, fruit and vegetables from weeds, insects and fungal attack. This prevents crop failures, and stops worm-eaten fruit and rotten vegetables finding their way to the market....",
+  "content_structure": {
+    "paragraph_count": 15,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 845,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,36 @@
       "Catering",
       "Sustainability",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.12,
+      "avg_word_length": 5.36,
+      "long_word_percentage": 34.44
+    },
+    "citation_info": {
+      "doi": "10.2903/j.efsa.5126",
+      "journal": "",
+      "authors": [
+        "Switzerland",
+        "Ideally"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland",
+        "Eawag",
+        "Swiss",
+        "Kiefer"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017",
+          "2022"
+        ]
+      }
+    }
   }
 }

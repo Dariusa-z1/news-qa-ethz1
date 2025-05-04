@@ -7,14 +7,8 @@
   "named_entities": [
     "Zurich Herbaria",
     "Zurich Herbaria The Search",
-    "Pics",
-    "Scientific",
-    "Xylotheque",
-    "Rust",
-    "Solanaceae",
-    "Portal",
-    "Library",
-    "KnowMore"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -27,18 +21,28 @@
     "Rust",
     "Fungi",
     "Images",
-    "From",
     "Various",
-    "Zurich"
+    "Zurich",
+    "Herbaria"
   ],
-  "summary": "",
+  "summary": "The images come from the E-Pics image catalogues:\n\n• Scientific instruments : images of scientific instruments, models and other teaching aids from various ETH Zurich institutes and departments\n• Xylotheque : microscopic specimens of different wood species with various levels of magnification\n• Rust fungi on Solanaceae : macroscopic and microscopic images of rust fungi on plants of the nightshade family\n• Rust fungi of the Zurich Herbaria : digitized herbaria labels for rust fungi from the Zurich Herbaria\nThe Search Portal is the central point of access when running searches on and using ETH Library resources....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 4,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 145,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff"
@@ -48,6 +52,29 @@
       "Technology",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 36.25,
+      "avg_word_length": 5.58,
+      "long_word_percentage": 33.79
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Scientific",
+        "Zurich",
+        "Xylotheque"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

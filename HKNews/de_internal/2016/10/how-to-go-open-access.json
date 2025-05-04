@@ -1,11 +1,10 @@
 {
   "language": "de",
   "title": "Das Webinar findet am Mittwoch, 25. Oktober, von 11 bis 12 Uhr in englischer Sprache statt. Themen sind die rechtlichen, finanziellen und politischen Rahmenbedingungen des Open-Access-Publizierens.",
-  "date": "2016-10-01",
+  "date": "2020-10-01",
   "source": "Unbekannte Quelle",
   "main_content": "Das Webinar findet am Mittwoch, 25. Oktober, von 11 bis 12 Uhr in englischer Sprache statt. Themen sind die rechtlichen, finanziellen und politischen Rahmenbedingungen des Open-Access-Publizierens.\n\nWeitere Informationen und Anmeldung zum Webinar\n\nDie Veranstaltung findet im Rahmen der externe Seite Open Access Week vom 24. bis 27. Oktober statt.\n\nAuch die Initiative OpenAIRE bietet während der Open Access Week jeden Tag um 12 Uhr ein Webinar zu Themen rund um Open Science und das EU-Förderprogramm Horizon 2020 an.\n\nexterne Seite Weitere Informationen und Anmeldung Webinare",
   "named_entities": [
-    "Das Webinar",
     "Open-Access-Publizierens",
     "Weitere Informationen",
     "Webinar Die Veranstaltung",
@@ -30,13 +29,23 @@
     "Education"
   ],
   "summary": "Das Webinar findet am Mittwoch, 25. Oktober, von 11 bis 12 Uhr in englischer Sprache statt. Themen sind die rechtlichen, finanziellen und politischen Rahmenbedingungen des Open-Access-Publizierens....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 88,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Researchers"
     ],
@@ -44,6 +53,41 @@
       "Financial",
       "Research",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 11.0,
+      "avg_word_length": 5.44,
+      "long_word_percentage": 32.95
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "Webinar zu Themen rund um Open Science und das EU-Förderprogramm Horizon 2020 an",
+      "authors": [
+        "Das Webinar",
+        "Mittwoch",
+        "Oktober",
+        "Sprache"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "11 bis"
+      ],
+      "time_references": [],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Webinar"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020"
+        ]
+      }
+    }
   }
 }

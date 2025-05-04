@@ -9,12 +9,8 @@
     "Assistant Professor",
     "Plant Ecology",
     "Arctic Greening",
-    "Main",
-    "Chur",
-    "Chrüzboden",
-    "Haldenstein",
-    "Calanda",
-    "Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -26,21 +22,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
     "Species",
-    "From",
-    "This",
     "Will",
-    "Alpine"
+    "Alpine",
+    "Plant",
+    "Metres",
+    "Plants"
   ],
-  "summary": "Main article: A glance down the vertiginous slope is enough to create a dizzying sensation of being airborne. Far below is the city of Chur, with tiny cars beetling among toy houses....",
+  "summary": "Main article: A glance down the vertiginous slope is enough to create a dizzying sensation of being airborne. Far below is the city of Chur, with tiny cars beetling among toy houses. Keeping a firm grip on the wheel, Jake Alexander ascends the potholed road, which in many places is too narrow for two vehicles to pass....",
+  "content_structure": {
+    "paragraph_count": 20,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1469,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +58,31 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.12,
+      "avg_word_length": 4.9,
+      "long_word_percentage": 26.82
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Keeping",
+        "Jake Alexander"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Chur",
+        "Haldenstein"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

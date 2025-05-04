@@ -7,14 +7,14 @@
   "named_entities": [
     "Reste-Rezepten",
     "Klimaphänomene El",
-    "Das Montrealer Protokoll",
-    "Die Strompreise",
     "Subsahara Afrika",
     "Christophe Girot",
     "Beach Bank Basel",
     "Basel Nord",
     "Computer-Chips",
-    "Food Waste"
+    "Food Waste",
+    "Natürliche Ressourcen",
+    "Schweizer Landwirtschaft"
   ],
   "topics": [
     "Sustainability",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Klimawandel: Besonders empfehlen möchten wir Ihnen aus gegebenem Anlass unsere Sammlung an Reste-Rezepten für die Festtage , die wir letztes Jahr zusammengetragen haben....",
+  "summary": "Klimawandel: Besonders empfehlen möchten wir Ihnen aus gegebenem Anlass unsere Sammlung an Reste-Rezepten für die Festtage , die wir letztes Jahr zusammengetragen haben. Hier finden Sie eine Auswahl deutschsprachiger Blogbeiträge, die englischen Beiträge haben wir hier zusammengestellt....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 509,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -49,6 +59,36 @@
       "Sustainability",
       "Research",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.42,
+      "avg_word_length": 6.28,
+      "long_word_percentage": 36.94
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Klimawandel",
+        "Besonders",
+        "Anlass",
+        "Sammlung"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zukunft",
+        "Subsahara Afrika",
+        "Problem",
+        "Bestäubungsservice",
+        "Singapur"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

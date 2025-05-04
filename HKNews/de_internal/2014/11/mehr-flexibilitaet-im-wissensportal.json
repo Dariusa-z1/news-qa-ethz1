@@ -8,7 +8,6 @@
     "Ob Desktop",
     "Grösse Ihres Endgerätes",
     "Website-Inhalte",
-    "Die Navigation",
     "Website-Navigation",
     "Alle Seiteninhalte",
     "Screenreader-Anwendungen",
@@ -30,20 +29,44 @@
     "Campus",
     "Education"
   ],
-  "summary": "Ob Desktop-PC oder Tablet – die Unterseiten des Wissensportals passen sich flexibel der Grösse Ihres Endgerätes an....",
+  "summary": "Ob Desktop-PC oder Tablet – die Unterseiten des Wissensportals passen sich flexibel der Grösse Ihres Endgerätes an. Website-Inhalte, Formulare, Links und Buttons sind entsprechend ebenfalls mobil nutzbar. Nutzerinnen und Nutzern von Smartphones empfehlen wir aktuell noch unsere mobile Website ....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 158,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.17,
+      "avg_word_length": 6.49,
+      "long_word_percentage": 43.67
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

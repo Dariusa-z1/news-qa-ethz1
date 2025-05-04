@@ -8,13 +8,11 @@
     "Wolfgang Schröder",
     "Aachen University",
     "Cut-Cell-Methode",
-    "Die Methode",
-    "Die Effizienz",
     "Thema Wasser",
-    "Die Kombination",
     "Strömungen Prof",
     "Aerodynamisches Institut Montag",
-    "Polytechnique Paris Montag"
+    "Polytechnique Paris Montag",
+    "David Qu"
   ],
   "topics": [
     "Education",
@@ -29,14 +27,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Am 7. März 2016 präsentiert Wolfgang Schröder, Professor an der RWTH Aachen University, eine kartesische Cut-Cell-Methode für interagierende viskose Strömungen mit freischwebenden Begrenzungen....",
+  "summary": "Am 7. März 2016 präsentiert Wolfgang Schröder, Professor an der RWTH Aachen University, eine kartesische Cut-Cell-Methode für interagierende viskose Strömungen mit freischwebenden Begrenzungen. Die Methode ermöglicht eine präzise Auflösung der eingebetteten Begrenzungen, wobei Masse, Momentum und Energie strikte beibehalten werden....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 244,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Faculty",
@@ -44,6 +52,25 @@
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.25,
+      "avg_word_length": 6.39,
+      "long_word_percentage": 39.75
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "Aerodynamisches"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016",
+          "2016"
+        ]
+      }
+    }
   }
 }

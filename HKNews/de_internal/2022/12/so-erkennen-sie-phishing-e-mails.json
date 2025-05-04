@@ -6,7 +6,6 @@
   "main_content": "Phishing-E-Mails sicher erkennen: Damit Sie nicht in die Falle tappen und Cyberkriminelle keine Chance haben, achten Sie bei E-Mails auf folgende Anzeichen:\n\n• Unter Druck setzen: Viele Phishing-E-Mails spielen auf Emotionen. Formulierungen wie «Sie müssen innert 24 Stunden auf diesen Link klicken, um Ihren Account zu reaktivieren.» oder «Ihr Account wird blockiert.» werden verwendet, um Angst zu erzeugen, Druck auszuüben und Sie zu einem bestimmten Verhalten zu drängen (z.B. Angabe von Konto-Details, Verifizierungs-Links, kaufen von Wertkarten etc.). Werden Sie in diesen Fällen misstrauisch – womöglich werden Sie gerade «gephisht».\n• Persönliche Angaben: Seriöse Dienstleister verlangen von ihren Kunden nie die Angabe von Passwörtern oder Kreditkartendaten per E-Mail oder Telefon. Keine der ETH-Services wird nach Ihrem Passwort fragen.\n• Rechtschreibe- und Grammatikfehler: Oft enthalten Phishing-E-Mails unvollständige Sätze oder grammatikalische Fehler. Allerdings: Auch bei korrekt formulierten Texten kann es sich um eine Phishing-E-Mail handeln.\n• Versandzeit: Phishing-E-Mails werden öfters zu einer unüblichen Zeit verschickt.\n• Anrede: Sie werden in der E-Mail nicht mit Ihrem Namen angesprochen.\n• Absender : Absender können gefälscht sein, und sich z.B. als seriöse Bank oder vorgesetzte Stelle ausgeben. Prüfen Sie die Absenderadresse, z.B. indem Sie mit der Maus darüberfahren oder indem Sie ​im Zweifelsfall telefonisch beim Absender zurückfragen. Verwenden Sie bei Rückfragen jedoch immer die Ihnen bekannte, offizielle Telefonnummer des Absenders, nie die in der E-Mail angegebene Nummer.\n• Es gilt: Klicken Sie niemals auf Links oder Attachments in fragwürdigen E-​Mails.\nStimmt die URL der Webseite?\n\n• Phishing-Links werden «verschleiert», um auszusehen wie ein Link zu einer Login-Seite: Bsp. «https://password.ethz.ch»\n• Oft ist der Text in der URL leicht verändert oder enthält Buchstabendreher: Bsp. «https://password.e h tz.ch»\n• Die URL zeigt woanders hin: Bsp. https://password.ethz.ch.free.fr\n• Wenn Sie mit der Maus über den Link fahren ohne zu klicken und ein anderer, langer Domain-Name erscheint, handelt es sich möglicherweise um einen Phishing-Versuch .\nGerade in den Wochen vor Weihnachten ist die Wahrscheinlichkeit hoch, eine Phishing-E-Mail in der Mailbox zu finden. Denn mit der Vielzahl an Weihnachtsgeschenken, die im Online-Handel gekauft werden, steigen auch die Sicherheitsrisiken. Bekannt sind z.B. Spam-Mails, die sich auf ein fiktives Paket beziehen, das wegen nicht bezahlter Zoll- oder Versandgebühren nicht geliefert werden kann.\n\nSolche Phishing-E-Mails landen besonders häufig in der privaten Mailbox. Aber auch in den ETH-Mailboxen finden sich hin und wieder Nachrichten, bei denen man skeptisch werden kann und sollte. Beispielsweise, wenn’s um eine Mahnung für eine nicht beglichene Rechnung geht – womöglich für eine Dienstleistung, die man nie bezogen hat.\n\nWenn eine E-Mail Sie zum Besuch einer Webseite veranlasst, dann vergewissern Sie sich, dass Sie auf der rechtmässigen Webseite gelandet sind, bevor Sie darauf irgendwelche Eingaben tätigen. Achten Sie auf folgende Details:\n\nStimmt die URL der Webseite?\n\nHandelt es sich um eine verschlüsselte Verbindung (https)? Ist das SSL-Zertifikat dieser Webseite ein gültiges Zertifikat?\n\nUnsicher? Im Zweifelsfall lieber nachfragen: Senden Sie verdächtige E-Mails als Anhang an und löschen Sie sie danach aus Ihrer Mailbox. Im Zweifelsfall wenden Sie sich an den ID Service Desk .",
   "named_entities": [
     "Damit Sie",
-    "Unter Druck",
     "Viele Phishing",
     "Ihren Account",
     "Ihr Account",
@@ -14,7 +13,8 @@
     "Verifizierungs-Links",
     "Werden Sie",
     "Persönliche Angaben",
-    "Seriöse Dienstleister"
+    "Seriöse Dienstleister",
+    "Ihrem Passwort"
   ],
   "topics": [
     "Infrastructure",
@@ -29,14 +29,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Phishing-E-Mails sicher erkennen: Damit Sie nicht in die Falle tappen und Cyberkriminelle keine Chance haben, achten Sie bei E-Mails auf folgende Anzeichen:\n\n• Unter Druck setzen: Viele Phishing-E-Mails spielen auf Emotionen. Formulierungen wie «Sie müssen innert 24 Stunden auf diesen Link klicken, um Ihren Account zu reaktivieren.» oder «Ihr Account wird blockiert.» werden verwendet, um Angst zu erzeugen, Druck auszuüben und Sie zu einem bestimmten Verhalten zu drängen (z.B....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 11,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 524,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -44,6 +54,25 @@
     "context_tags": [
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 10.48,
+      "avg_word_length": 5.41,
+      "long_word_percentage": 28.63
+    },
+    "semantic_entities": {
+      "locations": [
+        "Link"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "password.ethz.ch",
+          "password.ethz.ch.free.fr"
+        ],
+        "phones": []
+      }
+    }
   }
 }

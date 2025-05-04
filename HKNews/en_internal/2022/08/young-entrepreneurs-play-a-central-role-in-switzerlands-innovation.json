@@ -5,10 +5,8 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Would you like to always receive the most important internal information and news from ETH Zurich? Then subscribe to the \"internal news\" newsletter and visit Staffnet , the information portal for ETH employees.",
   "named_entities": [
-    "Would",
-    "Zurich",
-    "Staffnet",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Communication",
@@ -23,19 +21,43 @@
     "Like",
     "Always"
   ],
-  "summary": "Would you like to always receive the most important internal information and news from ETH Zurich?...",
+  "summary": "Would you like to always receive the most important internal information and news from ETH Zurich? Then subscribe to the \"internal news\" newsletter and visit Staffnet , the information portal for ETH employees.",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 32,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.0,
+      "avg_word_length": 5.41,
+      "long_word_percentage": 31.25
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

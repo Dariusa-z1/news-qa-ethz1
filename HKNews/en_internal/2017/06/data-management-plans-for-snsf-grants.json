@@ -5,16 +5,12 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "The Swiss National Science Foundation SNSF has published guidelines for Data Management Plans. As of October 2017 researchers are requested to submit a Data Management Plan as an integral part of their research application.\n\nWhat does this mean for researchers at ETH Zurich? What kind of requirements do they have to comply with in the future?\n\nThursday 6 July 2017\n\nZentrum, Room HG E 1.1: 13.00 to 14.00 Hönggerberg, Room HPV G 5: 17.00 to 18.00\n\nRegistration is not necessary. The event will be held in English.\n\nMore information on the topic of Data Management Plans can be found on the Digital Curation website .",
   "named_entities": [
-    "The Swiss National Science",
     "Data Management Plans",
     "Data Management Plan",
     "Digital Curation",
-    "Foundation",
-    "SNSF",
-    "October",
-    "Zurich",
-    "July",
-    "Zentrum"
+    "ETH Zurich",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Research",
@@ -29,18 +25,28 @@
     "Data",
     "Management",
     "Plans",
-    "2017",
     "Researchers",
-    "What"
+    "What",
+    "Room"
   ],
-  "summary": "The Swiss National Science Foundation SNSF has published guidelines for Data Management Plans....",
+  "summary": "The Swiss National Science Foundation SNSF has published guidelines for Data Management Plans. As of October 2017 researchers are requested to submit a Data Management Plan as an integral part of their research application. What does this mean for researchers at ETH Zurich?...",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 109,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "Administration"
@@ -50,6 +56,43 @@
       "Research",
       "Administrative",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 9.08,
+      "avg_word_length": 4.52,
+      "long_word_percentage": 23.85
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "The Swiss National Science Foundation",
+        "Data Management Plans",
+        "October",
+        "Data Management Plan"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "00 to 14",
+        "00 to 18"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "English"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017",
+          "2017"
+        ]
+      }
+    }
   }
 }

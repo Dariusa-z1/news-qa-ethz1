@@ -10,11 +10,11 @@
     "Astronom Johann Gabriel Doppelmayr",
     "Atlas Novus Coelestis",
     "Offizin Peter Apians",
-    "Der Mathematiker",
     "Halleyscher Komet",
     "Web-App",
     "Erkunden Sie",
-    "Touch-Bedienung"
+    "Touch-Bedienung",
+    "Desktop-Computer"
   ],
   "topics": [
     "Technology & Innovation",
@@ -29,14 +29,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Erfahren Sie auf AstroRara Spannendes zu folgenden Themen:\n\n• Finsternisse : In seiner «Theoricae novae planetarum» (1472) formulierte Georg von Peuerbach (1423–1461) entscheidende Erkenntnisse zur Planetenbewegung. Stellen Sie interaktiv Mond- und Sonnenfinsternisse mit dem Schieberegler ein und vergleichen Sie die erscheinenden Positionen von Erde, Mond und Sonne mit den Illustrationen aus der Inkunabel....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 3,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 256,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -45,6 +55,26 @@
       "Technology",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.69,
+      "avg_word_length": 6.24,
+      "long_word_percentage": 39.45
+    },
+    "semantic_entities": {
+      "locations": [
+        "Peter Apians",
+        "Angebot"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1472",
+          "1423"
+        ]
+      }
+    }
   }
 }

@@ -5,16 +5,16 @@
   "source": "Roger Wattenhofer Professor für Verteilte Systeme an der ETH Zürich",
   "main_content": "Ein Auf und Ab in der Geschichte: In den vergangenen 60 Jahren haben die Forschenden der Künstlichen Intelligenz immer wieder futuristische Prognosen gewagt. Zum Beispiel wurde angekündigt, dass ein Computer Schachweltmeister wird. Erwartet wurde das bis ins Jahr 1968, eingetreten ist es etwa 30 Jahre später. Noch optimistischer war die Vorhersage, dass Computer bis 1985 gar beliebige menschliche Arbeiten erledigen können; davon sind wir heute noch ziemlich weit entfernt.\n\nDie Ernüchterung folgte oft auf dem Fuss, die gross angelegten Forschungsprogramme wurden eingestampft, es folgte der « externe Seite Winter der Künstlichen Intelligenz ». Zwischenzeitlich mochten die Forscher nicht einmal mehr von Künstlicher Intelligenz sprechen, man wurde bescheidener und studierte stattdessen Maschinelles Lernen (Machine Learning).\n\nUm die Jahrtausendwende gab es dann einige Erfolge: IBM’s Deep Blue bezwang Garry Kasparov im Schach. Kritiker monierten, dass Schach sowieso kein richtiger Intelligenztest sei, und wiederholten das sogenannte externe Seite Chinesische Zimmer -Argument von John Searle: Deep Blue verstehe das Spiel nicht wirklich, er rechne nur sehr schnell. Ein paar Jahre später schaffte es ein Auto von Stanford autonom zu navigieren. Aber auch das gelang nur in der Wüste. Und schliesslich gewann IBM’s Watson in der Quizshow Jeopardy! – doch war das wirklich intelligent, oder einfach nur googeln für Fortgeschrittene?\n\nZu oft «Wolf!» gebrüllt?: Ich vermute mal, dass die KI-Forschung und ihre Exponenten zu oft «Wolf!» gebrüllt haben. Mit dem Resultat, dass jetzt Erfolge und echte Durchbrüche nicht mehr wirklich ernst genommen werden. Doch der Wolf ist hier, und er hat einen Namen: externe Seite AlphaZero .\n\nAlphaZero, ein Computerprogramm von DeepMind, kann autodidaktisch lernen, zum Beispiel auch Schach. Seit Deep Blue haben sich die Schachprogramme stetig weiterentwickelt. Die besten Programme wie Stockfish haben seit vielen Jahren ein so hohes Niveau, dass Menschen gegen sie chancenlos sind.\n\nStockfish hat viel Schachtheorie intus, kennt jede jemals gespielte Partie. AlphaZero kannte nur die Schachregeln, es lernte das Spiel, indem es einige Stunden gegen sich selbst spielte. Zuerst wird es dabei sehr viele Anfängerfehler gemacht haben, aber nach vier Stunden autodidaktischem Training bezwang AlphaZero Stockfish. (Es gibt allerdings einige externe Seite berechtigte Einwände bezüglich Hardwareeinsatz und unfairen Wettkampfregeln.)\n\nDas Spiel der Profis wird sich verändern: Allen, die etwas von Schach verstehen, empfehle ich, sich die externe Seite zehnte Partie gegen Stockfish anschauen. AlphaZero spielt sehr ungewöhnlich, nicht wie ein Mensch, aber auch nicht wie ein typischer Computer, sondern mit «echter künstlicher» Intelligenz. Da AlphaZero zu Beginn keine Schachtheorie kannte, musste es seine eigene Theorie entwickeln. Grossmeister Daniel King behauptet, dass AlphaZero die Schachtheorie und das Spiel der Profis ändern werde, sobald es öffentlich zugänglich ist.\n\nAlphaZero ist gewissermassen «menschlicher» als normale Computer. Die Deep Network Struktur erinnert an das menschliche Gehirn, und es rechnet langsamer. Es wertet pro Partie tausendmal weniger Stellungen aus als Stockfish. Es wäre interessant zu sehen, wie eine Partie Mensch gegen AlphaZero ausgeht, wenn AlphaZero auf «Menschen-Geschwindigkeit» gebremst würde. Und AlphaZero kann nicht nur Schach. Es kann auch andere Spiele, die es sich selber beigebracht hat.\n\nIch jedenfalls bin beeindruckt. AlphaZero's Leistung zeigt, dass wir die Künstliche Intelligenz ernst nehmen müssen. Sie beweist, dass wir Zeitzeugen eines gewaltigen Wandels sind. Ich bin überzeugt: AlphaZero & Co. werden die Gesellschaft nachhaltig verändern.\n\nZum Autor: Roger Wattenhofer Professor für Verteilte Systeme an der ETH Zürich",
   "named_entities": [
-    "Ein Auf",
     "Künstlichen Intelligenz",
     "Zum Beispiel",
     "Computer Schachweltmeister",
-    "Die Ernüchterung",
     "Seite Winter",
     "Künstlicher Intelligenz",
     "Maschinelles Lernen",
     "Machine Learning",
-    "Deep Blue"
+    "Deep Blue",
+    "Garry Kasparov",
+    "Seite Chinesische Zimmer"
   ],
   "topics": [
     "Technology & Innovation",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Ein Auf und Ab in der Geschichte: In den vergangenen 60 Jahren haben die Forschenden der Künstlichen Intelligenz immer wieder futuristische Prognosen gewagt....",
+  "summary": "Ein Auf und Ab in der Geschichte: In den vergangenen 60 Jahren haben die Forschenden der Künstlichen Intelligenz immer wieder futuristische Prognosen gewagt. Zum Beispiel wurde angekündigt, dass ein Computer Schachweltmeister wird. Erwartet wurde das bis ins Jahr 1968, eingetreten ist es etwa 30 Jahre später....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 539,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -49,6 +59,37 @@
       "Sustainability",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.15,
+      "avg_word_length": 5.89,
+      "long_word_percentage": 33.77
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Ein Auf",
+        "Geschichte",
+        "Jahren"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Computer Schachweltmeister",
+        "Mensch",
+        "Computerprogramm",
+        "Auto"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1968",
+          "1985"
+        ]
+      }
+    }
   }
 }

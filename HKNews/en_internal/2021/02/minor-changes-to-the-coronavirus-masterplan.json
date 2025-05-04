@@ -7,14 +7,14 @@
   "named_entities": [
     "Spring Semester",
     "Ueli Weidmann",
-    "The Executive Board",
     "Federal Council",
     "Graphische Sammlung",
     "Main Building",
     "Architecture Library",
     "Executive Board",
-    "The Federal Council",
-    "Monday"
+    "ETH Zurich",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Campus Life",
@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "Hönggerberg Campus",
-    "That",
     "Will",
-    "With",
     "Weidmann",
-    "From"
+    "Still",
+    "Events",
+    "Staff"
   ],
-  "summary": "The new Spring Semester started on Monday – but in online mode. Most ETH staff are working from home and virtually all university buildings are closed....",
+  "summary": "The new Spring Semester started on Monday – but in online mode. Most ETH staff are working from home and virtually all university buildings are closed. More than a few ETH members are struggling with motivation....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 629,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff"
@@ -50,6 +60,29 @@
       "Infrastructure",
       "Technology",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.3,
+      "avg_word_length": 4.75,
+      "long_word_percentage": 24.01
+    },
+    "semantic_entities": {
+      "locations": [
+        "Monday",
+        "Easter",
+        "Friday",
+        "Services",
+        "Building"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2021",
+          "2021"
+        ]
+      }
+    }
   }
 }

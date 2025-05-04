@@ -12,9 +12,9 @@
     "Bereich Studienorientierung",
     "Sandra Bajus",
     "Stefano Brusoni",
-    "Der Professor",
     "Goldenen Dreirad",
-    "Roman Boutellier"
+    "Roman Boutellier",
+    "Andreas Flury"
   ],
   "topics": [
     "Staff",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Sportstudent Max Schläpfer will in Studium und Sport zu den Besten gehören. Wenn er nicht lernt, trainiert er....",
+  "summary": "Sportstudent Max Schläpfer will in Studium und Sport zu den Besten gehören. Wenn er nicht lernt, trainiert er. Damit eifert er seinem Vater Ernst Schläpfer nach: Dieser ist nicht nur zweifacher Schwingerkönig, sondern hat auch an der ETH Zürich doktoriert....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 230,
     "readability_score": "complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +62,33 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.43,
+      "avg_word_length": 5.95,
+      "long_word_percentage": 36.09
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Sportstudent Max Schläpfer",
+        "Studium",
+        "Besten"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Terminplan",
+        "Studium",
+        "Dübendorf"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

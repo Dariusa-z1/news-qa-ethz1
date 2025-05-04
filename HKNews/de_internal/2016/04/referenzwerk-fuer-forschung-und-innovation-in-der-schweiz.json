@@ -10,11 +10,11 @@
     "Alessandro Della Bella",
     "Schweizer Forschungs",
     "Seite Medienmitteilung",
-    "Die Ergebnisse",
-    "Das Umfeld",
     "Innovationsplatz Schweiz",
     "Als Beispiele",
-    "Bericht Google"
+    "Bericht Google",
+    "Disney Research Zürich",
+    "ETH Zürich"
   ],
   "topics": [
     "Research",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Bundespräsident Johann N. Schneider-Ammann....",
+  "summary": "Bundespräsident Johann N. Schneider-Ammann. (Bild: ETH Zürich / Alessandro Della Bella)\n\nDer rund 230 Seiten umfassende Bericht «Forschung und Innovation in der Schweiz 2016» des Staatssekretariats für Bildung, Forschung und Innovation (SBFI) versteht sich als Referenzwerk für die Diskussion über Forschung und Innovation in der Schweiz....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 224,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -49,6 +59,32 @@
       "Research",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.67,
+      "avg_word_length": 6.3,
+      "long_word_percentage": 40.18
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Bundespräsident Johann",
+        "Schneider",
+        "Ammann",
+        "Zürich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016"
+        ]
+      }
+    }
   }
 }

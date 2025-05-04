@@ -7,14 +7,8 @@
   "named_entities": [
     "Im Hintergrund",
     "Per Mail",
-    "Der Status",
-    "Zürich",
-    "Grösse",
-    "Stadt",
-    "Gebäude",
-    "Grünflächen",
-    "Strassen",
-    "Plätze"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Infrastructure",
@@ -30,14 +24,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Die ETH Zürich hat die Grösse einer kleinen Stadt....",
+  "summary": "Die ETH Zürich hat die Grösse einer kleinen Stadt. Sie umfasst rund zweihundert Gebäude, Grünflächen, Strassen und Plätze, Erschliessungsflächen und Tausende von Räumen für die rund 30'000 ETH-Angehörigen. Im Hintergrund wird für den Betrieb dieses Angebots eine aufwendige technische Infrastruktur unterhalten....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 135,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "General Public"
     ],
@@ -45,6 +49,22 @@
       "Infrastructure",
       "Communications",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.0,
+      "avg_word_length": 6.27,
+      "long_word_percentage": 38.52
+    },
+    "semantic_entities": {
+      "locations": [
+        "Meldeformular"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

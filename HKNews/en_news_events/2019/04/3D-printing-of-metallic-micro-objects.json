@@ -12,9 +12,8 @@
     "Applied Biosciences",
     "Alain Reiser",
     "Nature Communications",
-    "Alternatives",
-    "Zurich",
-    "Laboratory"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -27,20 +26,30 @@
   "keywords": [
     "ETH Zurich",
     "Printing",
-    "With",
-    "That",
     "Metals",
     "Metal",
-    "Which"
+    "Which",
+    "Print",
+    "Possible"
   ],
-  "summary": "Alternatives to ink: 3D printers can print almost anything these days, from production prototypes to artificial organs all the way to entire houses....",
+  "summary": "Alternatives to ink: 3D printers can print almost anything these days, from production prototypes to artificial organs all the way to entire houses. Particularly on a microscopic scale, additive manufacturing, as 3D printing is also known, makes it possible to produce structures which cannot be realized using other techniques such as lithography....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 680,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +60,39 @@
       "Research",
       "Communications",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 26.15,
+      "avg_word_length": 5.28,
+      "long_word_percentage": 31.47
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "Spolenak’s group and first author of the study recently published in Nature Communications",
+      "authors": [
+        "Alternatives",
+        "Particularly",
+        "Zurich",
+        "Ralph Spolenak"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Nature Communications",
+        "Zenobi",
+        "Spolenak",
+        "Reiser"
+      ],
+      "departments": [
+        "with Dimos Poulikakos of the",
+        "Mechanical and Process Engineering as",
+        "Materials"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

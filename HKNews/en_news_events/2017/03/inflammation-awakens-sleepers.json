@@ -7,14 +7,7 @@
   "named_entities": [
     "Using Salmonella",
     "Professor Wolf-Dietrich Hardt",
-    "Highly",
-    "Bacteriophages",
-    "Science",
-    "Diard",
-    "Phages",
-    "Cholera",
-    "Vibrio",
-    "Bangladesh"
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -28,19 +21,29 @@
     "Salmonella",
     "Phages",
     "Phage",
-    "This",
-    "That",
     "Transfer",
-    "Bacteria"
+    "Bacteria",
+    "Genes",
+    "Gene"
   ],
-  "summary": "Highly efficient gene transfer: Bacteriophages (short form: phages) are viruses that infect bacteria....",
+  "summary": "Highly efficient gene transfer: Bacteriophages (short form: phages) are viruses that infect bacteria. The \"good\" lytic phages kill off bacteria that are harmful to humans and are sometimes used in medicine; the \"bad guys\", the temperate phages, on the other hand, transfer their genes to microorganisms, thus giving them new properties, such as the ability to produce a toxin....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 649,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +53,31 @@
       "Research",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.03,
+      "avg_word_length": 5.38,
+      "long_word_percentage": 33.13
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the specialist journal Science",
+      "authors": [
+        "Highly",
+        "Bacteriophages",
+        "Using Salmonella"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Hardt"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

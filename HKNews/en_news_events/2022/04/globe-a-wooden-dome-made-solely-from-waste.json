@@ -7,14 +7,14 @@
   "named_entities": [
     "Catherine De Wolf",
     "Geomatic Engineering",
-    "The Circular Engineering",
     "Deepika Raghu",
     "De Wolf",
     "Assistant Professor De Wolf",
     "Matthew Gordon",
     "Brandon Byers",
     "Greta Thunberg",
-    "Elon Musk"
+    "Elon Musk",
+    "ETH Zurich"
   ],
   "topics": [
     "Education",
@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "Hönggerberg Campus",
-    "That",
-    "This",
     "Says",
     "Wolf",
-    "Construction"
+    "Construction",
+    "Materials",
+    "Their"
   ],
-  "summary": "Main article: Strolling into the carpentry shop on the Hönggerberg campus on this January morning, you could be forgiven for thinking you’ve stumbled into a beginners’ woodworking course....",
+  "summary": "Main article: Strolling into the carpentry shop on the Hönggerberg campus on this January morning, you could be forgiven for thinking you’ve stumbled into a beginners’ woodworking course. Huddled around a bandsaw, six people are getting a quick tutorial on how to cut timber beams into rectangular struts....",
+  "content_structure": {
+    "paragraph_count": 20,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1708,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,36 @@
       "Catering",
       "COVID-19",
       "Sustainability"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.18,
+      "avg_word_length": 4.8,
+      "long_word_percentage": 25.35
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Strolling",
+        "Hönggerberg",
+        "January",
+        "Huddled"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Geneva",
+        "Zurich"
+      ],
+      "departments": [
+        "assistant professor in the",
+        "Civil"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

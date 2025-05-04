@@ -7,12 +7,6 @@
   "named_entities": [
     "Sabine Werner",
     "Cell Biology",
-    "Advances",
-    "Professor",
-    "Ulrich",
-    "Keller",
-    "What",
-    "There",
     "ETH"
   ],
   "topics": [
@@ -25,21 +19,31 @@
   ],
   "keywords": [
     "Liver",
-    "Nedd41",
-    "This",
-    "With",
     "Regeneration",
-    "That",
-    "Were"
+    "Were",
+    "Proteins",
+    "Able",
+    "Other",
+    "Process"
   ],
-  "summary": "Advances with proteomics: The liver is a wonderful thing: it’s the only organ able to fully regenerate with no scar tissue formation, even after major injury....",
+  "summary": "Advances with proteomics: The liver is a wonderful thing: it’s the only organ able to fully regenerate with no scar tissue formation, even after major injury. In the case of organ donation, it is therefore generally possible to remove part of the donor’s liver and implant it into another patient....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 881,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -50,6 +54,39 @@
       "Technology",
       "Research",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.49,
+      "avg_word_length": 4.96,
+      "long_word_percentage": 27.01
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Advances",
+        "Within"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "4-1",
+        "4-1",
+        "4-1"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Nedd"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

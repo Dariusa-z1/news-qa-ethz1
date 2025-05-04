@@ -10,11 +10,8 @@
     "Thomas Blattmann",
     "Tim Eglinton",
     "Geological Institute",
-    "Rivers",
-    "Earth",
-    "Science",
-    "Zurich",
-    "Shanghai"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -28,19 +25,29 @@
     "ETH Zurich",
     "Organic",
     "Carbon",
-    "From",
     "Clay",
     "Minerals",
-    "That"
+    "Matter",
+    "They"
   ],
-  "summary": "It all depends on the variety: Rivers discharge a constant supply of sediment into the world’s oceans....",
+  "summary": "It all depends on the variety: Rivers discharge a constant supply of sediment into the world’s oceans. This sediment is largely composed of various clay minerals – the products of rock weathering – and organic compounds of plant origin that have decomposed in soils....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 719,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +58,33 @@
       "Weather",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.19,
+      "avg_word_length": 5.16,
+      "long_word_percentage": 30.46
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "a recent article in the journal Science",
+      "authors": [
+        "Rivers"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Taiwan",
+        "Luzon",
+        "Shanghai"
+      ],
+      "departments": [
+        "professor at the Geological"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

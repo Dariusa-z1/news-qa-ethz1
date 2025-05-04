@@ -1,7 +1,7 @@
 {
   "language": "de",
   "title": "Johann Schneider-Ammann. (Bild: SNF / Mauro Mellone)",
-  "date": "2015-02-01",
+  "date": "2017-02-01",
   "source": "Unbekannte Quelle",
   "main_content": "Johann Schneider-Ammann. (Bild: SNF / Mauro Mellone)\n\nDas oberste hochschulpolitische Organ der Schweiz, die Schweizerische Hochschulkonferenz (SHK), hat heute zum ersten Mal getagt. Die SHK setzt den Auftrag um, wonach Bund und Kantone gemeinsam für die Koordination und die Gewährleistung der Qualitätssicherung im Hochschulbereich sorgen.\n\nDabei haben Bundesrat Johann Schneider-Ammann und Regierungsrat Christoph Eymann als Präsident der Konferenz der Vereinbarungskantone des Hochschulkonkordats die ZSAV-HS unterzeichnet. Diese verankert die Ziele von Bund und Kantonen für die gemeinsame Koordination, schafft die gemeinsamen Organe und überträgt ihnen die jeweiligen Kompetenzen.\n\nDie SHK hat heute als Plenarversammlung (Bund und alle Hochschulkonkordatskantone) und als Hochschulrat (Bund und Hochschulträgerkantone) getagt. Im Hochschulrat fand eine erste Lesung der Akkreditierungsrichtlinien sowie eine Diskussion der strategischen Planungen der Hochschulen im Hinblick auf die BFI-Botschaft 2017-2020 statt.",
   "named_entities": [
@@ -10,11 +10,7 @@
     "Schweizerische Hochschulkonferenz",
     "Bundesrat Johann Schneider-Ammann",
     "Regierungsrat Christoph Eymann",
-    "Im Hochschulrat",
-    "Bild",
-    "Organ",
-    "Auftrag",
-    "Kantone"
+    "Im Hochschulrat"
   ],
   "topics": [
     "University Administration"
@@ -27,20 +23,56 @@
     "Campus",
     "Education"
   ],
-  "summary": "Johann Schneider-Ammann. (Bild: SNF / Mauro Mellone)\n\nDas oberste hochschulpolitische Organ der Schweiz, die Schweizerische Hochschulkonferenz (SHK), hat heute zum ersten Mal getagt....",
+  "summary": "Johann Schneider-Ammann. (Bild: SNF / Mauro Mellone)\n\nDas oberste hochschulpolitische Organ der Schweiz, die Schweizerische Hochschulkonferenz (SHK), hat heute zum ersten Mal getagt. Die SHK setzt den Auftrag um, wonach Bund und Kantone gemeinsam für die Koordination und die Gewährleistung der Qualitätssicherung im Hochschulbereich sorgen....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 131,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.71,
+      "avg_word_length": 6.61,
+      "long_word_percentage": 33.59
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "17-20"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Christoph Eymann",
+        "Johann Schneider-Ammann"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017-2020"
+        ]
+      }
+    }
   }
 }

@@ -12,9 +12,9 @@
     "Vice President Ulrich Weidmann",
     "Main Building",
     "Civil Engineering Library",
-    "From Monday",
     "Ulrich Weidmann",
-    "Working"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -30,17 +30,27 @@
     "Hönggerberg Campus",
     "Will",
     "Teaching",
-    "From",
-    "With"
+    "Their",
+    "Events"
   ],
-  "summary": "Working from home is mandatory again: ETH Zurich is updating its coronavirus rules to bring them in line with the latest regulations announced by the Federal Council....",
+  "summary": "Working from home is mandatory again: ETH Zurich is updating its coronavirus rules to bring them in line with the latest regulations announced by the Federal Council. These measures come into force on Monday 20th December. The master plan will be updated over the course of the week and published on the Coronavirus website ....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 941,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Students",
       "Staff",
@@ -54,6 +64,26 @@
       "COVID-19",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.39,
+      "avg_word_length": 5.16,
+      "long_word_percentage": 31.77
+    },
+    "semantic_entities": {
+      "locations": [
+        "Covid",
+        "Building"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2021",
+          "2021"
+        ]
+      }
+    }
   }
 }

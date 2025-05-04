@@ -11,10 +11,10 @@
     "Dessen Konzentration",
     "Erde Temperaturen",
     "Bio-Sauna",
-    "Eine Gruppe",
     "Pennsylvania State University",
-    "Die Studie",
-    "Nature Geoscience"
+    "Nature Geoscience",
+    "Siderit-Kugeln",
+    "Washington State Univ"
   ],
   "topics": [
     "Weather & Environment",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Was Mineralien übers Klima aussagen: Vor 57 bis 55 Millionen Jahren ging das Paläozän zu Ende, und das Eozän begann....",
+  "summary": "Was Mineralien übers Klima aussagen: Vor 57 bis 55 Millionen Jahren ging das Paläozän zu Ende, und das Eozän begann. Damals war die Atmosphäre mit dem Treibhausgas Kohlendioxid geradezu überflutet: Dessen Konzentration betrug 1400 ppm bis 4000 ppm. Unschwer vorzustellen, dass auf der Erde Temperaturen wie in einer Bio-Sauna geherrscht haben müssen....",
+  "content_structure": {
+    "paragraph_count": 18,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 880,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,38 @@
       "Research",
       "Weather",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.3,
+      "avg_word_length": 5.76,
+      "long_word_percentage": 33.52
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "der Fachzeitschrift «Nature Geoscience»",
+      "authors": [
+        "Was Mineralien",
+        "Millionen Jahren",
+        "Paläozän"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Eisenkarbonat",
+        "Sümpfen",
+        "Cambridge"
+      ],
+      "departments": [
+        "Professor Stefano Bernasconi am Geologischen"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1400",
+          "4000"
+        ]
+      }
+    }
   }
 }

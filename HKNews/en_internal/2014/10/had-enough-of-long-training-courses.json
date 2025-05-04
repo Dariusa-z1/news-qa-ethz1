@@ -1,14 +1,11 @@
 {
   "language": "en",
   "title": "The events take place from 12.15 to 12.30:",
-  "date": "2014-10-01",
+  "date": "2015-12-01",
   "source": "Unknown source",
   "main_content": "The events take place from 12.15 to 12.30:\n\n• in the Grüne Bibliothek on 28 October until 6 November\n• in the Baubibliothek on 11 until 20 November",
   "named_entities": [
-    "Grüne Bibliothek",
-    "October",
-    "November",
-    "Baubibliothek"
+    "Grüne Bibliothek"
   ],
   "topics": [
     "Campus Life",
@@ -20,23 +17,57 @@
     "Events",
     "Take",
     "Place",
-    "From",
-    "1215"
+    "Grüne",
+    "Bibliothek"
   ],
   "summary": "The events take place from 12.15 to 12.30:\n\n• in the Grüne Bibliothek on 28 October until 6 November\n• in the Baubibliothek on 11 until 20 November",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 2,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 28,
     "readability_score": "easy to read",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 9.33,
+      "avg_word_length": 4.07,
+      "long_word_percentage": 17.86
+    },
+    "temporal_info": {
+      "event_dates": [
+        "28 October",
+        "11 until"
+      ],
+      "time_references": [
+        "15 to 12"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

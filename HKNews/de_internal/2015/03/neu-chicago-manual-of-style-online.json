@@ -5,16 +5,11 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Der Chicago Manual of Style ist ein sprachliches Referenzwerk und publikationstechnisches Nachschlagewerk. Es enthält folgende Tipps:\n\n• richtiger Schreibstil\n• Gestaltungsrichtlinien\n• verschiedene Zitierregeln\nIn der aktuellen Auflage werden die neusten Entwicklungen im Bereich Computertechnologie berücksichtigt wie etwa:\n\n• Publizieren im Internet\n• Schreiben von E-Books\n• richtiges Zitieren elektronischer Dokumente\nexterne Seite Chicago Manual of Style (Zugriff nur für Angehörige der ETH Zürich)",
   "named_entities": [
-    "Der Chicago Manual",
     "Zitierregeln In",
     "Bereich Computertechnologie",
     "Seite Chicago Manual",
-    "Style",
-    "Referenzwerk",
-    "Nachschlagewerk",
-    "Tipps",
-    "Schreibstil",
-    "Gestaltungsrichtlinien"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -28,20 +23,44 @@
     "Campus",
     "Education"
   ],
-  "summary": "Der Chicago Manual of Style ist ein sprachliches Referenzwerk und publikationstechnisches Nachschlagewerk....",
+  "summary": "Der Chicago Manual of Style ist ein sprachliches Referenzwerk und publikationstechnisches Nachschlagewerk. Es enthält folgende Tipps:\n\n• richtiger Schreibstil\n• Gestaltungsrichtlinien\n• verschiedene Zitierregeln\nIn der aktuellen Auflage werden die neusten Entwicklungen im Bereich Computertechnologie berücksichtigt wie etwa:\n\n• Publizieren im Internet\n• Schreiben von E-Books\n• richtiges Zitieren elektronischer Dokumente\nexterne Seite Chicago Manual of Style (Zugriff nur für Angehörige der ETH Zürich)",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 6,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 59,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 29.5,
+      "avg_word_length": 7.24,
+      "long_word_percentage": 50.85
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

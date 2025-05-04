@@ -6,10 +6,8 @@
   "main_content": "ETH Library has increased the maximum file size from 2 GB to 10 GB. With this change, we can now meet the need many of our users have voiced regarding the deposit of larger files. Additionally, we are working on a solution for the deposit of files larger than 10 GB. Read more on how to prepare your files for uploading them into the Research Collection. The Research Collection is ETH Zurich's publication platform and contains the research output from its chairs, research groups and institutes.",
   "named_entities": [
     "Research Collection",
-    "The Research Collection",
-    "Library",
-    "Zurich",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -20,19 +18,29 @@
     "ETH Zurich",
     "Research",
     "Files",
-    "From",
     "Deposit",
     "Larger",
-    "Collection"
+    "Collection",
+    "Library"
   ],
-  "summary": "ETH Library has increased the maximum file size from 2 GB to 10 GB. With this change, we can now meet the need many of our users have voiced regarding the deposit of larger files....",
+  "summary": "ETH Library has increased the maximum file size from 2 GB to 10 GB. With this change, we can now meet the need many of our users have voiced regarding the deposit of larger files. Additionally, we are working on a solution for the deposit of files larger than 10 GB....",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 87,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -40,6 +48,29 @@
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.4,
+      "avg_word_length": 4.63,
+      "long_word_percentage": 24.14
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Library",
+        "Additionally",
+        "Research Collection"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

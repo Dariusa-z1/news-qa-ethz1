@@ -8,13 +8,13 @@
     "Akademik Treshnikov",
     "Indischen Ozean",
     "Pascal Graf",
-    "Die Helikopter",
     "Viele Teams",
     "Kaffee-Ecke",
-    "Die Inselverwaltung",
-    "Eine Viertelstunde",
     "Stunden Warten",
-    "Widrige Bedingungen"
+    "Widrige Bedingungen",
+    "Kälte-Verbrennungen",
+    "Stunden Verspätung",
+    "Ladung Forschender"
   ],
   "topics": [
     "Weather & Environment",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Übers Wasser statt durch die Luft: Heute ist ein besonderer Tag. Es ist der 31.12.2016, der letzte Tag des Jahres....",
+  "summary": "Übers Wasser statt durch die Luft: Heute ist ein besonderer Tag. Es ist der 31.12.2016, der letzte Tag des Jahres. Wir warten ungeduldig – im Gegensatz zur Besatzung des russischen Forschungsschiffs «Akademik Treshnikov» aber nicht auf die bevorstehende Silvesterparty, sondern auf unseren Helikopterflug zur subantarktischen Île de la Possession....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 766,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -48,6 +58,37 @@
       "Research",
       "Weather",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.93,
+      "avg_word_length": 5.59,
+      "long_word_percentage": 27.42
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Wasser"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Spaziergang",
+        "Wissenschaftler",
+        "Ausnahmefällen",
+        "Foto"
+      ],
+      "departments": [
+        "des Swiss Polar",
+        "unter externe Seite Swiss Polar"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016"
+        ]
+      }
+    }
   }
 }

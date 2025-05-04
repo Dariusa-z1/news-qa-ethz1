@@ -7,10 +7,8 @@
   "named_entities": [
     "Compliance Guide",
     "Executive Board",
-    "News",
-    "Mesot",
-    "Zurich",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Communication",
@@ -22,21 +20,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
     "Have",
     "Investigation",
     "It’s",
     "Need",
-    "About"
+    "Would",
+    "Professional"
   ],
-  "summary": "ETH News: Joël Mesot, there has been very little communication about the conclusion of the disciplinary investigation. Why is that?...",
+  "summary": "ETH News: Joël Mesot, there has been very little communication about the conclusion of the disciplinary investigation. Why is that? Joël Mesot: I appreciate that the public would like to know more details, but that’s not possible for legal reasons....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 1,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 614,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Students",
       "Staff",
@@ -48,6 +56,22 @@
       "Technology",
       "Communications",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.06,
+      "avg_word_length": 4.87,
+      "long_word_percentage": 27.2
+    },
+    "semantic_entities": {
+      "locations": [
+        "Executive Board"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

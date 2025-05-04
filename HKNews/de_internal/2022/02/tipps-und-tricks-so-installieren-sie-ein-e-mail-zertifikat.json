@@ -7,14 +7,14 @@
   "named_entities": [
     "Mail-Zertifikat",
     "Als Empfänger",
-    "Der Austausch",
     "Mail-Verkehr",
     "Zertifikatsmanagement Portal",
     "Sollten Sie",
     "Support-Gruppe Ihrer Organisation",
     "Ihres Departements",
-    "Eine Anleitung",
-    "Das Aufrufen"
+    "Im Selbstversuch",
+    "Gruppen-Mailboxen",
+    "Service Desk"
   ],
   "topics": [
     "Staff",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Main article: Vielleicht ist es Ihnen bei E-Mails anderer ETH-Angehöriger schon einmal aufgefallen: das kleine Siegel neben dem Namen des Absenders/der Absenderin:\n\nWas ist ein E-Mail-Zertifikat?: Dabei handelt es sich um ein E-Mail-Zertifikat. Aber: Braucht man so etwas überhaupt?...",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 480,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff",
       "General Public"
@@ -48,6 +58,25 @@
       "Financial",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.48,
+      "avg_word_length": 5.67,
+      "long_word_percentage": 32.29
+    },
+    "semantic_entities": {
+      "locations": [
+        "Ticket",
+        "Zertifikat"
+      ],
+      "departments": [
+        "Ihres"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

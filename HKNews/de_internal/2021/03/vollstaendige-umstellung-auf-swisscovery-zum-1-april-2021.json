@@ -7,14 +7,14 @@
   "named_entities": [
     "Alle Medien",
     "Ende März",
-    "Die Verwaltung",
     "Sie Ihre",
     "Ihre Ausleihhistorie",
     "Möchten Sie",
-    "Bei Fragen",
     "Falls Sie",
     "Millionen Bücher",
-    "Non-Book-Materialien"
+    "Non-Book-Materialien",
+    "Swiss Library Service Platform",
+    "Ihrem Ziel"
   ],
   "topics": [
     "University Administration",
@@ -30,14 +30,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Bitte beachten Sie, dass das alte Bibliothekssystem ab April nicht mehr zur Verfügung steht:\n\n• Alle Medien, die Sie vor dem 7. Dezember ausgeliehen haben, müssen bis Ende März zurückgegeben werden....",
+  "summary": "Bitte beachten Sie, dass das alte Bibliothekssystem ab April nicht mehr zur Verfügung steht:\n\n• Alle Medien, die Sie vor dem 7. Dezember ausgeliehen haben, müssen bis Ende März zurückgegeben werden. Die Verwaltung der offenen Ausleihen kann nicht in das neue System übertragen werden....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 4,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 227,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Administration"
     ],
@@ -46,6 +56,20 @@
       "Infrastructure",
       "Technology",
       "Administrative"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.35,
+      "avg_word_length": 5.86,
+      "long_word_percentage": 30.4
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

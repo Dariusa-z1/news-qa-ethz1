@@ -5,16 +5,13 @@
   "source": "Unbekannte Quelle",
   "main_content": "Wörtlich genommen wird bei einer Analyse der untersuchte Gegenstand erfasst, indem man ihn in seine Bestandteile zerlegt. Danach werden seine Elemente nach Kriterien und Beziehungen geordnet und wieder zu einem Ganzen zusammengesetzt (Synthese).\n\nEin Auto im wahrsten Sinne des Wortes analysiert haben am Dienstag und Mittwoch (23. / 24. Februar 2016) die Studierenden von Dirk Hebel, Assistenzprofessor für Architektur und Konstruktion (D-ARCH).\n\nZwei Tage lang haben die Studierenden in der Autowerkstatt HEZ der Abteilung Services auf dem Hönggerberg ein Auto auseinandergenommen, in seine Elemente zerlegt und diese systematisch gruppiert.\n\nAuf diese Weise erfahren sie, wie die Einzelteile miteinander verbunden sind. Die Übung findet im Rahmen des Entwurfssemesters «Ressource Stadt – Building for Disassembly» statt. In einem weiteren Schritt werden die Erkenntnisse aus der Analyse auf die Architektur übertragen.\n\nUnterstützung erhalten die Studierenden von Walter Haase vom Institut für Leichtbau, Entwerfen und Konstruieren der Universität Stuttgart.",
   "named_entities": [
-    "Ein Auto",
     "Dirk Hebel",
     "Zwei Tage",
     "Abteilung Services",
     "Ressource Stadt",
     "Walter Haase",
     "Universität Stuttgart",
-    "Wörtlich",
-    "Analyse",
-    "Gegenstand"
+    "Hönggerberg"
   ],
   "topics": [
     "Education",
@@ -30,20 +27,62 @@
     "Campus",
     "Education"
   ],
-  "summary": "Wörtlich genommen wird bei einer Analyse der untersuchte Gegenstand erfasst, indem man ihn in seine Bestandteile zerlegt....",
+  "summary": "Wörtlich genommen wird bei einer Analyse der untersuchte Gegenstand erfasst, indem man ihn in seine Bestandteile zerlegt. Danach werden seine Elemente nach Kriterien und Beziehungen geordnet und wieder zu einem Ganzen zusammengesetzt (Synthese). Ein Auto im wahrsten Sinne des Wortes analysiert haben am Dienstag und Mittwoch (23....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 144,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students"
     ],
     "context_tags": [
       "Infrastructure",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.4,
+      "avg_word_length": 6.16,
+      "long_word_percentage": 38.89
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Wörtlich",
+        "Analyse",
+        "Gegenstand",
+        "Bestandteile",
+        "Danach"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Auto"
+      ],
+      "departments": [
+        "Leichtbau",
+        "Studierenden von Walter Haase vom"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016"
+        ]
+      }
+    }
   }
 }

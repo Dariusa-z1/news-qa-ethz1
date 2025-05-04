@@ -7,14 +7,14 @@
   "named_entities": [
     "Graz Declaration",
     "Watt Society",
-    "The Graz Declaration",
     "Climate Protection",
     "Construction Sector",
     "Sustainable Built Environment",
     "Graz University",
     "Graz Declaration Opening",
     "Zurich References",
-    "Global Warming"
+    "Global Warming",
+    "Special Report"
   ],
   "topics": [
     "Infrastructure",
@@ -30,17 +30,27 @@
     "Construction",
     "Emissions",
     "Buildings",
-    "That",
-    "Need"
+    "Need",
+    "Materials"
   ],
-  "summary": "",
+  "summary": "Main article: Buildings and infrastructure account for 40 percent of greenhouse gases (GHG) emitted and as man-made objects with extremely long service lives and slow modernization cycles, the buildings we’re building now will be almost unchanged by 2050....",
+  "content_structure": {
+    "paragraph_count": 16,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 733,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,34 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.29,
+      "avg_word_length": 5.1,
+      "long_word_percentage": 30.29
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Buildings",
+        "Concrete"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland",
+        "Graz University"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2050",
+          "2050"
+        ]
+      }
+    }
   }
 }

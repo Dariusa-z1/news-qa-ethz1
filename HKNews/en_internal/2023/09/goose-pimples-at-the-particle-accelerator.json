@@ -33,14 +33,24 @@
     "Experiments",
     "Universe"
   ],
-  "summary": "Record amount of artificially generated energy: ETH Rector Günther Dissertori has conducted research at CERN for more than 25 years....",
+  "summary": "Record amount of artificially generated energy: ETH Rector Günther Dissertori has conducted research at CERN for more than 25 years. “Our major experiments still give me goose pimples,” he said three years ago in an interview. “Our experiments have enabled us to discover the Higgs particle in 2012 and carry out a large number of high-precision measurements....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 686,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,47 @@
       "Technology",
       "Research",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.24,
+      "avg_word_length": 4.97,
+      "long_word_percentage": 30.9
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Record",
+        "Rector Günther Dissertori"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "20 September",
+        "20 September",
+        "around 50"
+      ],
+      "time_references": [],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland",
+        "Zurich",
+        "Building"
+      ],
+      "departments": [
+        "Head of the",
+        "Group at the Paul Scherrer"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2012",
+          "2023"
+        ]
+      }
+    }
   }
 }

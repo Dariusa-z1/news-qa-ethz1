@@ -5,13 +5,8 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Main article: Anyone who lectures at ETH Zurich will be familiar with the orange-coloured Guidelines for Lecturers document. Until now, the Rectorate has sent copies of these guidelines to every new lecturer by mail.\n\nThe Rectorate has now made them available online. There are clear benefits to this: not only are the guidelines now accessible from anywhere, but they can be amended quickly too.\n\nThese guidelines, which are geared towards the procedures members of our faculty follow to help them plan and teach their courses, arrange topics according to various process steps.\n\nGuidelines for Lecturers: The Guidelines can be found here:\n\nwww.ethz.ch/guidelines-lecturers",
   "named_entities": [
-    "The Rectorate",
-    "The Guidelines",
-    "Main",
-    "Anyone",
-    "Zurich",
-    "Lecturers",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -22,23 +17,49 @@
     "Guidelines",
     "Lecturers",
     "Rectorate",
-    "These",
     "Them",
-    "Main"
+    "Main",
+    "Article"
   ],
-  "summary": "Main article: Anyone who lectures at ETH Zurich will be familiar with the orange-coloured Guidelines for Lecturers document....",
+  "summary": "Main article: Anyone who lectures at ETH Zurich will be familiar with the orange-coloured Guidelines for Lecturers document. Until now, the Rectorate has sent copies of these guidelines to every new lecturer by mail. The Rectorate has now made them available online....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 107,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Faculty"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.38,
+      "avg_word_length": 5.15,
+      "long_word_percentage": 30.84
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "www.ethz.ch"
+        ],
+        "phones": []
+      }
+    }
   }
 }

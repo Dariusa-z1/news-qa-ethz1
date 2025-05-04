@@ -12,9 +12,7 @@
     "Roger Schibli",
     "Einstein Professorship",
     "Simone Ulmer",
-    "Bacterium",
-    "Bacteria",
-    "CSCS"
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -27,20 +25,30 @@
   "keywords": [
     "Fibres",
     "Peptide",
-    "That",
     "Fibronectin",
     "Tumour",
     "Tissue",
-    "Vogel"
+    "Vogel",
+    "Simulations"
   ],
-  "summary": "Bacterium senses tensional state of tissue fibres: Bacteria are able to attach themselves to tissue fibres with the aid of a ‘nano-adhesive’....",
+  "summary": "Bacterium senses tensional state of tissue fibres: Bacteria are able to attach themselves to tissue fibres with the aid of a ‘nano-adhesive’. Just how they achieve this was investigated a few years ago by Viola Vogel, Professor of Applied Mechanobiology, using computer simulations at CSCS ....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 894,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +59,35 @@
       "Research",
       "Communications",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.92,
+      "avg_word_length": 5.24,
+      "long_word_percentage": 30.98
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the scientific journal Nature Communications",
+      "authors": [
+        "Bacterium",
+        "Bacteria",
+        "Viola Vogel",
+        "Professor"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Berlin",
+        "Professorship"
+      ],
+      "departments": [
+        "researchers at the Paul Scherrer"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

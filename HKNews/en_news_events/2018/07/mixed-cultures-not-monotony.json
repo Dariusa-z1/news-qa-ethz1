@@ -7,14 +7,14 @@
   "named_entities": [
     "Biological Diversity",
     "South America",
-    "In Switzerland",
     "Jena Experiment",
     "Cedar Creek Ecosystem Science",
     "Federal Office",
     "Zuppinger-Dingley",
     "Nature Ecology",
     "Designing Innovative",
-    "Ecosystem Resilience"
+    "Ecosystem Resilience",
+    "Christian Schöb Professor"
   ],
   "topics": [
     "Research",
@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "University of Zurich",
-    "That",
     "Species",
-    "This",
     "Plant",
-    "Monocultures"
+    "Monocultures",
+    "Polycultures",
+    "Diversity"
   ],
-  "summary": "Main article: In 1994, Switzerland ratified the Convention on Biological Diversity in Rio, committing itself to the protection of biodiversity 1 ....",
+  "summary": "Main article: In 1994, Switzerland ratified the Convention on Biological Diversity in Rio, committing itself to the protection of biodiversity 1 . However, that’s not the only reason that I recommend diversifying our agriculture. Since the convention came into force in 1995, research has proven that biodiversity has an incredibly wide array of benefits 2,3 ....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 722,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,36 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.41,
+      "avg_word_length": 5.22,
+      "long_word_percentage": 31.16
+    },
+    "citation_info": {
+      "doi": "10.1038/s41559-018-0623-2",
+      "journal": "",
+      "authors": [
+        "Switzerland",
+        "Convention",
+        "Biological Diversity"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "South America",
+        "Ireland",
+        "Swiss"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1994",
+          "1995"
+        ]
+      }
+    }
   }
 }

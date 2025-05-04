@@ -6,11 +6,6 @@
   "main_content": "The building of 1862 was totally refurbished in 1977 and has now been completely renovated and rebuilt during the last twelve months.\n\nAfter the successful project completion the ETH community is given the opportunity to get a picture of the result. All those who are interested in the work of the Archives and all those who have been involved in the reconstruction project are invited cordially.\n\nOver coffee and croissants, sausage and bread, water and wine get in touch with the team of the Archives and its guests, visit the building and inspect the storage rooms.\n\nWelcome on Sunday, 27 September 2015 from 11 am to 5 pm at the House of Contemporary History at Hirschengraben 62!",
   "named_entities": [
     "Contemporary History",
-    "Archives",
-    "Sunday",
-    "September",
-    "House",
-    "Hirschengraben",
     "ETH"
   ],
   "topics": [
@@ -22,25 +17,54 @@
     "Building",
     "Been",
     "Project",
-    "Those",
     "Archives",
-    "1862",
-    "Totally"
+    "Totally",
+    "Refurbished",
+    "Completely"
   ],
-  "summary": "The building of 1862 was totally refurbished in 1977 and has now been completely renovated and rebuilt during the last twelve months....",
+  "summary": "The building of 1862 was totally refurbished in 1977 and has now been completely renovated and rebuilt during the last twelve months. After the successful project completion the ETH community is given the opportunity to get a picture of the result. All those who are interested in the work of the Archives and all those who have been involved in the reconstruction project are invited cordially....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 117,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "General Public"
     ],
     "context_tags": [
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.4,
+      "avg_word_length": 4.75,
+      "long_word_percentage": 25.64
+    },
+    "semantic_entities": {
+      "locations": [
+        "Hirschengraben"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1862",
+          "1977"
+        ]
+      }
+    }
   }
 }

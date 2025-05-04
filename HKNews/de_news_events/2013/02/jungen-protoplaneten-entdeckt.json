@@ -7,14 +7,14 @@
   "named_entities": [
     "Berechnete Masse",
     "Millionen Jahre",
-    "Die Scheibe",
     "Very Large Telescope",
     "Europäischen Südsternwarte",
     "Fachmagazin The Astrophysical Journal",
     "Apodizing Phase Plate",
-    "Mit Modellen",
     "Sascha Quanz",
-    "Das Problem"
+    "Diese Lücken",
+    "Unsere Beobachtungen",
+    "Michael Meyer"
   ],
   "topics": [
     "Research",
@@ -30,14 +30,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Berechnete Masse ist zu gross: Er ist so etwas wie ein Star bei den Astronomen: der Stern HD 100546....",
+  "summary": "Berechnete Masse ist zu gross: Er ist so etwas wie ein Star bei den Astronomen: der Stern HD 100546. Er ist rund 337 Lichtjahre von der Erde entfernt, sichtbar am Südhimmel im Sternbild der Fliege und erst wenige Millionen Jahre alt. Was ihn aber so besonders macht, ist seine zirkumstellare Scheibe....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 912,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -47,6 +57,41 @@
       "Research",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.54,
+      "avg_word_length": 5.48,
+      "long_word_percentage": 30.04
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "The Astrophysical Journal Letters",
+      "authors": [
+        "Berechnete Masse",
+        "Astronomen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Planet",
+        "Beweis",
+        "The Astrophysical Journal",
+        "Star",
+        "Grad Abweichung"
+      ],
+      "departments": [
+        "Zusammen mit seinen",
+        "Scheibe haben nun Forschende vom",
+        "Astronomie und Erstautor des Papers"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "100546",
+          "100546"
+        ]
+      }
+    }
   }
 }

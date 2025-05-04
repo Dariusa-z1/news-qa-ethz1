@@ -7,14 +7,14 @@
   "named_entities": [
     "Greifensee Castle",
     "Environmental Sciences",
-    "Between February",
     "Environmental Systems Science",
     "Angelika Hilbeck",
     "Integrative Biology",
     "Bernadette Oehen",
     "Research Institute",
     "Organic Agriculture",
-    "Christoph Küffer"
+    "Christoph Küffer",
+    "Educational Development"
   ],
   "topics": [
     "Education",
@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "Students",
-    "That",
-    "With",
     "Practicals",
     "They",
-    "Hilbeck"
+    "Hilbeck",
+    "Have",
+    "More"
   ],
-  "summary": "",
+  "summary": "Established teaching tool: Who could want more beautiful or inspiring surroundings: here we are in the historic Greifensee Castle, by the captivating blue waters of the eponymous lake, with shimmering white Alps on the horizon. This is where 90 students on the Bachelor of Environmental Sciences course are seeing out the end of their fourth semester with a bang....",
+  "content_structure": {
+    "paragraph_count": 18,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1144,
     "readability_score": "moderately complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,37 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.58,
+      "avg_word_length": 4.98,
+      "long_word_percentage": 28.15
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Established",
+        "Greifensee Castle"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland",
+        "Agroscope"
+      ],
+      "departments": [
+        "Bernadette Oehen of the Research",
+        "Environmental Systems Science was founded",
+        "Environmental Systems Science speciality"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1987"
+        ]
+      }
+    }
   }
 }

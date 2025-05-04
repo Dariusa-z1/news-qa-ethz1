@@ -6,11 +6,6 @@
   "main_content": "Ever since time immemorial, humans have been trying to simplify the calculation process. The development of calculation aids over centuries has left numerous traces on ETH Library’s holdings: take the Collection of Astronomical Instruments, for instance, which also contains various historical calculating devices and machines. The latest story on Explora traces the path that inventors and scientists took for centuries to simplify calculation, avoid mistakes and accomplish ever larger calculation quantities. Delve into the story “Calculating without electricity – calculating machines as forerunners of the computer”\n\nExplora is ETH Library’s storytelling platform.",
   "named_entities": [
     "Astronomical Instruments",
-    "Ever",
-    "Library",
-    "Collection",
-    "Explora",
-    "Calculating",
     "ETH"
   ],
   "topics": [
@@ -25,20 +20,44 @@
     "Library’s",
     "Calculating"
   ],
-  "summary": "Ever since time immemorial, humans have been trying to simplify the calculation process....",
+  "summary": "Ever since time immemorial, humans have been trying to simplify the calculation process. The development of calculation aids over centuries has left numerous traces on ETH Library’s holdings: take the Collection of Astronomical Instruments, for instance, which also contains various historical calculating devices and machines....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 93,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.25,
+      "avg_word_length": 6.05,
+      "long_word_percentage": 44.09
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

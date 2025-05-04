@@ -28,19 +28,29 @@
     "ETH Zurich",
     "University of Zurich",
     "Hafen",
-    "This",
-    "That",
     "Data",
-    "With"
+    "Research",
+    "Biology",
+    "Health"
   ],
-  "summary": "Trying to outshine his father: The end is in sight. The end of his ETH professorship, research projects and teaching....",
+  "summary": "Trying to outshine his father: The end is in sight. The end of his ETH professorship, research projects and teaching. Ernst Hafen has come to terms with the realisation that he is reaching the end of his time as an active professor....",
+  "content_structure": {
+    "paragraph_count": 25,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 2049,
     "readability_score": "moderately complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +62,41 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.51,
+      "avg_word_length": 4.74,
+      "long_word_percentage": 24.35
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the ‘Swiss Youth in Science’ programme",
+      "authors": [
+        "Trying",
+        "Ernst Hafen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Gehring",
+        "Covid",
+        "Basel",
+        "Divide Trail",
+        "America"
+      ],
+      "departments": [
+        "to improve teaching in the",
+        "charge of the newly founded",
+        "at the University of Zurich"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1983",
+          "1984"
+        ]
+      }
+    }
   }
 }

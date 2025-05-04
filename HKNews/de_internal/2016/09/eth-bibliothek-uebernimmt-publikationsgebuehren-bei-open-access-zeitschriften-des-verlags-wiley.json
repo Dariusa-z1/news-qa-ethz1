@@ -9,12 +9,8 @@
     "Online-Formular",
     "Seite Wiley-Open-Access",
     "Drop-Down-Menü",
-    "Mit Fragen",
-    "Voraussetzung",
-    "Erstautor",
-    "Artikels",
-    "Zürich",
-    "Kosten"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Finance",
@@ -22,20 +18,31 @@
   ],
   "keywords": [
     "ETH Zurich",
+    "Costs",
     "University",
     "Research",
     "Science",
     "Campus",
     "Education"
   ],
-  "summary": "Voraussetzung ist, dass der Erstautor des eingereichten Artikels an der ETH Zürich beschäftigt ist....",
+  "summary": "Voraussetzung ist, dass der Erstautor des eingereichten Artikels an der ETH Zürich beschäftigt ist. Die Übernahme gilt ausschliesslich für die externe Seite reinen Open-Access-Zeitschriften von Wiley . Damit die Kosten übernommen werden, muss bei der Übermittlung des Manuskripts über das Online-Formular der jeweiligen externe Seite Wiley-Open-Access-Zeitschrift bei der Angabe der Institution im Drop-Down-Menü die ETH Zürich ausgewählt werden....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 76,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -43,6 +50,22 @@
     "context_tags": [
       "Financial",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.0,
+      "avg_word_length": 5.58,
+      "long_word_percentage": 25.0
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "Zeitschrift bei der Angabe der"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

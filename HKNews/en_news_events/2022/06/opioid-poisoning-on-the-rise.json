@@ -8,13 +8,8 @@
     "Andrea Burden",
     "Tox Info Suisse",
     "North America",
-    "In Switzerland",
-    "Sales",
-    "Since",
-    "Covid",
-    "Europe",
-    "Netherlands",
-    "Denmark"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -27,20 +22,30 @@
   "keywords": [
     "ETH Zurich",
     "Opioid",
-    "That",
     "Sales",
     "Switzerland",
     "Fentanyl",
-    "Figures"
+    "Figures",
+    "Opioids"
   ],
-  "summary": "",
+  "summary": "Sales doubled: Since the early 2000’s the US has been in the grip of an opioid crisis that has been exacerbated by the Covid pandemic – in 2021, more than 100,000 people died of an opioid overdose in the country. There are increasing signs that the same crisis is taking hold in Europe....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 935,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +57,36 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.38,
+      "avg_word_length": 4.78,
+      "long_word_percentage": 24.28
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Europe"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Swiss",
+        "Canada",
+        "Switzerland",
+        "Tox Info Suisse",
+        "Europe"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2000",
+          "2021"
+        ]
+      }
+    }
   }
 }

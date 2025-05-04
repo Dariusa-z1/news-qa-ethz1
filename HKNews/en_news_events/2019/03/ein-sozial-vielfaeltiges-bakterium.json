@@ -7,14 +7,9 @@
   "named_entities": [
     "Professor Gregory Velicer",
     "Integrative Biology",
-    "Closely",
-    "Many",
-    "Myxococcus",
-    "Wielgoss",
-    "Institute",
-    "Zurich",
-    "Science",
-    "Cell"
+    "ETH Zurich",
+    "ETH",
+    "Gregory Velicer"
   ],
   "topics": [
     "Research",
@@ -26,21 +21,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
     "Groups",
     "Cells",
     "They",
     "Cooperative",
-    "Group"
+    "Group",
+    "Other"
   ],
-  "summary": "Closely related, yet very different: Many living systems share a fundamental capacity for cooperation....",
+  "summary": "Closely related, yet very different: Many living systems share a fundamental capacity for cooperation. Plants and animals are made up of billions of cells that communicate with one another, carry out specific tasks and share their resources. Many single-celled microorganisms cooperate in similarly versatile ways: they form communities and exchange useful genes and resources among one other....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 715,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +57,30 @@
       "Sustainability",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.03,
+      "avg_word_length": 5.64,
+      "long_word_percentage": 36.5
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "a study recently published in Science",
+      "authors": [
+        "Closely",
+        "Plants"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Science"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

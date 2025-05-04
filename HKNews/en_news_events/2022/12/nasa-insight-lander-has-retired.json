@@ -26,21 +26,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "This",
     "Mission",
-    "From",
     "Mars",
     "Insight",
-    "Data"
+    "Data",
+    "Interior",
+    "Seismometer"
   ],
-  "summary": "NASA had previously decided to declare the mission over if the lander misses two communication attempts....",
+  "summary": "NASA had previously decided to declare the mission over if the lander misses two communication attempts. The agency will continue to listen for a signal from the lander, just in case, but hearing from it at this point is considered unlikely. The last time InSight communicated with Earth was December 15....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 496,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "Administration"
@@ -50,6 +60,34 @@
       "Research",
       "Administrative",
       "Communications"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 27.56,
+      "avg_word_length": 5.03,
+      "long_word_percentage": 30.65
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Mars",
+        "Transport",
+        "Washington"
+      ],
+      "departments": [
+        "by Domenico Giardini at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1997",
+          "2022"
+        ]
+      }
+    }
   }
 }

@@ -1,20 +1,20 @@
 {
   "language": "de",
   "title": "Eth Umweltwissenschaften Sind Weltweit Top",
-  "date": "2014-02-01",
+  "date": "2011-02-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Die Forschung und Lehre der ETH Zürich im Bereich Umweltwissenschaften ist im weltweiten Vergleich hervorragend aufgestellt. In einem heute veröffentlichten Ranking, dem «QS World University Ranking by Subject», rangiert die ETH als weltweit drittbeste Hochschule, gleich nach den Universitäten von Berkeley und Harvard und punktgleich mit der Universität Cambridge. Die ETH Zürich liegt vor ebenso renommierten Hochschulen wie der Universität Stanford, dem MIT und der Universität Oxford. Die ETH-Umweltwissenschaften haben in diesem Ranking in den letzten Jahren mehrere Ränge gut gemacht. 2011 waren sie noch auf Platz 13, im vergangenen Jahr auf Platz 5.\n\nEbenfalls zu den weltweit zehn besten Hochschulen gehört die ETH Zürich in den Bereichen Elektroingenieurwesen (5. Rang), Chemie (7.), Computerwissenschaften (8.), Geo- und Meereswissenschaften (9.), Mathematik (9.) und Biowissenschaften (10.).\n\nDas «QS World University Ranking» ist eines von mehreren Instrumenten, um die Leistungen von Hochschulen weltweit zu vergleichen. Die ETH Zürich schneidet bei solchen Ranglisten regelmässig hervorragend ab, meist als beste kontinentaleuropäische Universität. So rangierte sie als gesamte Hochschule in der letztmals im vergangenen September veröffentlichten QS-Rangliste an 12. Stelle (ETH Life berichtete ). Das QS-Ranking basiert einerseits auf der Häufigkeit, wie oft veröffentlichte Forschungsarbeiten in anderen Forschungspublikationen zitiert werden, und andererseits auf einer Reputationsbefragung unter 90‘000 Akademikern und Arbeitgebern weltweit.\n\n«Die Schweizer Universitäten haben das Potenzial, in vielen Bereichen gegen die weltweit besten Schulen anzutreten. Besonders die ETH Zürich und die EPFL bewegen sich in einer Gruppe von globalen Eliteuniversitäten», lässt sich QS-Forschungsleiter Ben Sowter in verschiedenen Online-Medien zitieren. Und weiter: «Die ETH schneidet in den MINT-Fächern hervorragend ab. Dies ist besonders bemerkenswert, weil sich speziell in diesen Fächern die Konkurrenz weltweit verdichtet hat.»\n\nIn den MINT-Fächern (Mathematik, Informatik, Naturwissenschaft und Technik) schneiden ausser den Topuniversitäten im angelsächsischen Raum und der ETH Zürich speziell solche in Singapur und Japan gut ab. Dies sind namentlich die National University of Singapore, auf deren Campus die ETH ein Forschungszentrum unterhält, die Nanyang Technological University, ebenfalls in Singapur, und die Universität Tokyo.",
   "named_entities": [
-    "Die Forschung",
     "Bereich Umweltwissenschaften",
     "World University Ranking",
     "Universität Cambridge",
     "Universität Stanford",
     "Universität Oxford",
     "Bereichen Elektroingenieurwesen",
-    "Die Schweizer Universitäten",
     "Forschungsleiter Ben Sowter",
-    "Online-Medien"
+    "Online-Medien",
+    "National University",
+    "Nanyang Technological University"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Die Forschung und Lehre der ETH Zürich im Bereich Umweltwissenschaften ist im weltweiten Vergleich hervorragend aufgestellt....",
+  "summary": "Die Forschung und Lehre der ETH Zürich im Bereich Umweltwissenschaften ist im weltweiten Vergleich hervorragend aufgestellt. In einem heute veröffentlichten Ranking, dem «QS World University Ranking by Subject», rangiert die ETH als weltweit drittbeste Hochschule, gleich nach den Universitäten von Berkeley und Harvard und punktgleich mit der Universität Cambridge....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 330,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -49,6 +59,35 @@
       "Infrastructure",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.35,
+      "avg_word_length": 6.21,
+      "long_word_percentage": 38.18
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Die Forschung",
+        "Zürich",
+        "Bereich Umweltwissenschaften",
+        "Vergleich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Forschungszentrum",
+        "Singapur"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2011"
+        ]
+      }
+    }
   }
 }

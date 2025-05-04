@@ -7,14 +7,11 @@
   "named_entities": [
     "Millionen Personen",
     "Station Central",
-    "Die Wartungsarbeiten",
     "Seite Medienberichten",
     "Millionen Franken",
-    "Jährlich",
-    "Polybahn",
-    "Polyterrasse",
-    "Angehörige",
-    "Zürich"
+    "ETH Zürich",
+    "ETH",
+    "Polyterrasse"
   ],
   "topics": [
     "Communication",
@@ -30,14 +27,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Jährlich befördert die Polybahn gegen zwei Millionen Personen zwischen der Station Central und der Polyterrasse. Unter ihnen zahlreiche Angehörige der ETH Zürich....",
+  "summary": "Jährlich befördert die Polybahn gegen zwei Millionen Personen zwischen der Station Central und der Polyterrasse. Unter ihnen zahlreiche Angehörige der ETH Zürich. Auch ihren Namen erhielt sie Anlehnung an das Polytechnikum, wie die ETH in den Jahren nach ihrer Gründung hiess....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 140,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -45,6 +52,23 @@
     "context_tags": [
       "Financial",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 11.67,
+      "avg_word_length": 5.64,
+      "long_word_percentage": 34.29
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1996",
+          "2021"
+        ]
+      }
+    }
   }
 }

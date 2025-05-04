@@ -8,13 +8,13 @@
     "Pro Jahr",
     "Millionen Personen",
     "Solche Metastasen",
-    "Die Frage",
     "Universitätsspitals Basel",
     "Universität Basel",
-    "Die Ergebnisse",
     "Fachzeitschrift Nature",
     "Studienleiter Nicola Aceto",
-    "Molekulare Onkologie"
+    "Molekulare Onkologie",
+    "Unsere Forschung",
+    "Zoi Diamantopoulou"
   ],
   "topics": [
     "Research",
@@ -29,14 +29,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Brustkrebs ist gemäss der Weltgesundheitsorganisation WHO eine der häufigsten Krebsformen: Pro Jahr erkranken weltweit rund 2,3 Millionen Personen daran....",
+  "summary": "Brustkrebs ist gemäss der Weltgesundheitsorganisation WHO eine der häufigsten Krebsformen: Pro Jahr erkranken weltweit rund 2,3 Millionen Personen daran. Erkennen Ärztinnen und Ärzte Brustkrebs früh genug, können sie ihn meist gut behandeln. Schwieriger wird es hingegen, wenn der Tumor bereits Ableger gebildet hat....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 469,
     "readability_score": "complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -45,6 +55,33 @@
       "Research",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.33,
+      "avg_word_length": 6.29,
+      "long_word_percentage": 37.1
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "der Fachzeitschrift Nature publiziert",
+      "authors": [
+        "Brustkrebs",
+        "Weltgesundheitsorganisation",
+        "Krebsformen",
+        "Pro Jahr",
+        "Millionen Personen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Proben"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

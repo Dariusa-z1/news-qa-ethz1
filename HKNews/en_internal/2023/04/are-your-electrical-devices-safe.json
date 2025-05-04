@@ -8,13 +8,7 @@
     "Bruno Meni",
     "Project Director",
     "Electrical Department",
-    "The Electrical Department",
-    "Soldering",
-    "Safety",
-    "Security",
-    "Health",
-    "Environment",
-    "SSHE"
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -27,20 +21,30 @@
   "keywords": [
     "Devices",
     "Electrical",
-    "That",
     "Research",
     "They",
     "Check",
-    "With"
+    "Checks",
+    "Meni"
   ],
-  "summary": "",
+  "summary": "The need for cooperation: Soldering irons, magnetic stirrers and centrifuges: laboratories and workshops in particular have a lot of electrical devices, some of which are made by the research groups themselves. And of course there are also devices in the offices that are connected to the power grid....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 395,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Researchers",
@@ -51,6 +55,30 @@
       "Infrastructure",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.24,
+      "avg_word_length": 4.86,
+      "long_word_percentage": 27.34
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Soldering"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "The Electrical",
+        "Project Director in the Electrical"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

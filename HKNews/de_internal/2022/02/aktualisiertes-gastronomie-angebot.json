@@ -6,15 +6,15 @@
   "main_content": "Wiedereröffnete Gastrobetriebe: Die Pandemie dürfte für die Gastronomieunternehmen an der ETH noch länger nicht ausgestanden sein. Die Verluste der letzten beiden Jahre werden noch lange in den Geschäftsbüchern stehen, auch wenn ein Ende der Pandemie in Sichtweite ist. Das häufige und schnelle Umorganisieren ihrer Betriebe, wie z.B. Personal in die Kurzarbeit schicken oder sogar schmerzliche Entlassungen vornehmen zu müssen, wird noch lange haften bleiben. Auch das tägliche Wechselbad der Gefühle zu erleben zwischen Gästen, die sich bedroht fühlten und Unmut entgegenbrachten und solchen, die hohe Wertschätzung zeigten, war nicht immer einfach.\n\nWichtig ist nun eine möglichst schnelle Rückkehr zur Normalität. Entsprechend hoffen die Gastrobetreiber, dass die meisten ETH-Angehörigen sich darauf freuen, wieder an der ETH präsent sein und somit auch die Gastro-Einrichtungen wieder besuchen zu dürfen. Hier herrscht bei den Betreibern noch eine gewisse Skepsis; gleichwohl hoffen sie, infolge zu niedriger Frequenzen Betriebe nicht wieder schliessen zu müssen.\n\nHier können sich ETH-Angehörige – zusätzlich zu den bereits geöffneten Restaurants – nun wieder verpflegen:\n\nSeit Montag, 21. Februar empfangen am Hönggerberg die Betriebe «Bellavista» und «coop to go» wieder Gäste, und auch die Street-Food-Stände kehren zurück. Take Away kann in allen Verpflegungsbetrieben bezogen werden.\n\nIm Zentrum haben pünktlich zum Semesterstart die beliebten Betriebe «Dozentenfoyer», «bQm» und die «Tannenbar» sowie das «Zwei Grad Bistro» im Gebäude CHN wieder ihre Türen geöffnet.\n\nAuch Begegnungen in lockerer Atmosphäre, z.B. bei einem Apéro oder einem Bankett, sind nun wieder möglich. Das Angebot finden Sie hier: Catering | ETH Zürich\n\nDie Übersicht aller aktuell geöffneten Gastrobetriebe finden Sie stets auf der Gastro-Webseite .\n\nGeöffnete Gastro-Betriebe im Überblick: ETH Zürich, Zentrum\n\n• bQm 14:00 - 22:30 Uhr\n• CafeBar 7:00 - 17:00 Uhr\n• Clausiusbar 11:00 - 14:00 Uhr\n• Dozentenfoyer 09:00 - 14:30 Uhr\n• Einstein & Zweistein 7:00 - 18:00 Uhr\n• Foodtrailer 11:30 - 13:30 Uhr\n• Kiosk CLA 8:00 - 16:00 Uhr\n• Kiosk ETZ 8:30 - 14:00 Uhr\n• Mensa Polyterrasse 11:15 - 13:30 Uhr / 17:30 - 19:30 Uhr\n• Polysnack 11:15 - 13:30 Uhr\n• Tannenbar 07:00 - 17:00 Uhr\n• Street Food\nETH Zürich, Hönggerberg\n\n• Alumni quattro Lounge 08:00 - 20:00 Uhr (Mi-​Fr 22:00 Uhr)\n• Bellavista 11:15 - 14:00 Uhr\n• food market 11:15 - 13:30 Uhr\n• FUSION coffee 7:00 - 14:00 Uhr\n• FUSION meal 11:00 - 14:00 Uhr\n• Rice Up! 10:30 - 14:30 Uhr\n• externe Seite Coop call_made HPI\n• Street Food\nETH Zürich, Oerlikon\n\n• Octavo 11:30 - 14:00 Uhr\nETH Zürich, Hönggerberg\n\nETH Zürich, Oerlikon",
   "named_entities": [
     "Wiedereröffnete Gastrobetriebe",
-    "Die Pandemie",
-    "Die Verluste",
     "Gastro-Einrichtungen",
     "Frequenzen Betriebe",
     "Seit Montag",
     "Street-Food-Stände",
     "Take Away",
     "Im Zentrum",
-    "Zwei Grad Bistro"
+    "Zwei Grad Bistro",
+    "Auch Begegnungen",
+    "Zürich Die"
   ],
   "topics": [
     "Catering & Food",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Wiedereröffnete Gastrobetriebe: Die Pandemie dürfte für die Gastronomieunternehmen an der ETH noch länger nicht ausgestanden sein....",
+  "summary": "Wiedereröffnete Gastrobetriebe: Die Pandemie dürfte für die Gastronomieunternehmen an der ETH noch länger nicht ausgestanden sein. Die Verluste der letzten beiden Jahre werden noch lange in den Geschäftsbüchern stehen, auch wenn ein Ende der Pandemie in Sichtweite ist....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 21,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 418,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff",
       "Faculty"
@@ -49,6 +59,23 @@
       "COVID-19",
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.0,
+      "avg_word_length": 5.0,
+      "long_word_percentage": 26.32
+    },
+    "semantic_entities": {
+      "locations": [
+        "Ende",
+        "Sichtweite"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

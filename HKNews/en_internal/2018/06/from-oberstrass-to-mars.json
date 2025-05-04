@@ -6,10 +6,8 @@
   "main_content": "This year’s visitors experienced another close-up of ETH Zurich. Entertaining comics from the Expedition Solar System special exhibition at focusTerra attracted many space enthusiasts to the stand by Rigiplatz in Zurich. The comics tell the story of how and why space research is particularly relevant to ETH.\n\nVisitors saw a virtual Mars rover in an interactive app, they curved space time in an experiment (small picture) and started solar systems. A screen in the background showed the successful launch of the Mars mission at the start of May.",
   "named_entities": [
     "Expedition Solar System",
-    "Zurich",
-    "Rigiplatz",
-    "Mars",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -24,14 +22,24 @@
     "Solar",
     "Mars"
   ],
-  "summary": "This year’s visitors experienced another close-up of ETH Zurich....",
+  "summary": "This year’s visitors experienced another close-up of ETH Zurich. Entertaining comics from the Expedition Solar System special exhibition at focusTerra attracted many space enthusiasts to the stand by Rigiplatz in Zurich. The comics tell the story of how and why space research is particularly relevant to ETH....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 90,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -40,6 +48,31 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.0,
+      "avg_word_length": 4.99,
+      "long_word_percentage": 26.67
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zurich",
+        "Entertaining",
+        "Expedition Solar System"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zurich"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

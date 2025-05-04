@@ -9,12 +9,8 @@
     "Ivory Coast",
     "Alexandra Barcal",
     "Michael Imhof Verlag",
-    "Prompted",
-    "Mysterious",
-    "Collection",
-    "Prints",
-    "Drawings",
-    "Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -30,17 +26,27 @@
     "Gros",
     "Plants",
     "Exhibition",
-    "With",
-    "Drawings"
+    "Drawings",
+    "Works"
   ],
-  "summary": "",
+  "summary": "Prompted by a visit to the rainforest: Mysterious shadowy plants, velvety ferns and delicate tendrils: the Collection of Prints and Drawings at ETH Zurich contains more than one hundred works of art by Mireille Gros (born in 1954). The exhibition, entitled «Ouvrir les archives» («Opening up the archives»), presents an overview of pieces by the artist which have been collected over the past twenty years....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 416,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "General Public"
     ],
@@ -49,6 +55,37 @@
       "Technology",
       "Weather",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.81,
+      "avg_word_length": 5.04,
+      "long_word_percentage": 28.37
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Prompted",
+        "Mysterious",
+        "Collection",
+        "Prints",
+        "Drawings"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Moutier",
+        "Mali"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1954",
+          "1980"
+        ]
+      }
+    }
   }
 }

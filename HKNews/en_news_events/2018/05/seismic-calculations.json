@@ -5,16 +5,8 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "The Atlas V rocket with the NASA InSight spacecraft left California on Saturday, May 5th, heading for Mars. ( ETH News has reported ). A new article on the website of CSCS, a service and research unit of ETH Zurich basid in Lugano, now shows which preparations have been made to calculate the data analysis of the motion of seismic waves on the surface of Mars.\n\nThe complete article is available on the website of CSCS.",
   "named_entities": [
-    "The Atlas",
-    "NASA",
-    "InSight",
-    "California",
-    "Saturday",
-    "Mars",
-    "News",
-    "CSCS",
-    "Zurich",
-    "Lugano"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Communication",
@@ -29,14 +21,24 @@
     "Atlas",
     "Rocket"
   ],
-  "summary": "The Atlas V rocket with the NASA InSight spacecraft left California on Saturday, May 5th, heading for Mars. ( ETH News has reported )....",
+  "summary": "The Atlas V rocket with the NASA InSight spacecraft left California on Saturday, May 5th, heading for Mars. ( ETH News has reported ). A new article on the website of CSCS, a service and research unit of ETH Zurich basid in Lugano, now shows which preparations have been made to calculate the data analysis of the motion of seismic waves on the surface of Mars....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 74,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Researchers"
     ],
@@ -44,6 +46,31 @@
       "Infrastructure",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.5,
+      "avg_word_length": 4.51,
+      "long_word_percentage": 25.68
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "The Atlas",
+        "California",
+        "Saturday"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Lugano"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

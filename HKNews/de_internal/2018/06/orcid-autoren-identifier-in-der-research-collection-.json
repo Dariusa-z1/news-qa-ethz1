@@ -1,7 +1,7 @@
 {
   "language": "de",
   "title": "Bereits seit Mitte 2017 können Sie als Angehörige der ETH Zürich, wenn Sie über ein ORCID-Profil verfügen, Ihre ORCID iD über www.adressen.ethz.ch mit Ihrem ETH-Profil verknüpfen. Neu haben Sie nun auch die Möglichkeit, Ihren Publikationen in der Research Collection Ihre ORCID iD zuzuweisen. Darüber hinaus können Sie Publikationen aus Ihrem ORCID-Profil in die Research Collection importieren. ORCID ist ein persistenter, eindeutiger und international anerkannter Identifikator für wissenschaftliche Autorinnen und Autoren. Durch die Nutzung von ORCID unterstützen Sie die korrekte und vollständige Zuordnung Ihrer Publikationen zu Ihrem Namen und erleichtern den Datenfluss zwischen der Research Collection und den Websites der ETH Zürich. Weitere Informationen zu ORCID an der ETH Zürich und die Zuweisung finden Sie auf der Website der ETH-Bibliothek sowie im Research Collection Manual . Die Research Collection ist die Publikationsplattform der ETH Zürich. Angehörige der Hochschule können darin wissenschaftliche Volltexte Open Access publizieren sowie Forschungsdaten archivieren oder öffentlich zugänglich machen.",
-  "date": "2018-06-01",
+  "date": "2017-06-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Bereits seit Mitte 2017 können Sie als Angehörige der ETH Zürich, wenn Sie über ein ORCID-Profil verfügen, Ihre ORCID iD über www.adressen.ethz.ch mit Ihrem ETH-Profil verknüpfen. Neu haben Sie nun auch die Möglichkeit, Ihren Publikationen in der Research Collection Ihre ORCID iD zuzuweisen. Darüber hinaus können Sie Publikationen aus Ihrem ORCID-Profil in die Research Collection importieren. ORCID ist ein persistenter, eindeutiger und international anerkannter Identifikator für wissenschaftliche Autorinnen und Autoren. Durch die Nutzung von ORCID unterstützen Sie die korrekte und vollständige Zuordnung Ihrer Publikationen zu Ihrem Namen und erleichtern den Datenfluss zwischen der Research Collection und den Websites der ETH Zürich. Weitere Informationen zu ORCID an der ETH Zürich und die Zuweisung finden Sie auf der Website der ETH-Bibliothek sowie im Research Collection Manual . Die Research Collection ist die Publikationsplattform der ETH Zürich. Angehörige der Hochschule können darin wissenschaftliche Volltexte Open Access publizieren sowie Forschungsdaten archivieren oder öffentlich zugänglich machen.",
   "named_entities": [
@@ -13,8 +13,8 @@
     "Ihrem Namen",
     "Weitere Informationen",
     "Research Collection Manual",
-    "Die Research Collection",
-    "Volltexte Open Access"
+    "Volltexte Open Access",
+    "ETH Zürich"
   ],
   "topics": [
     "Research",
@@ -31,14 +31,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Bereits seit Mitte 2017 können Sie als Angehörige der ETH Zürich, wenn Sie über ein ORCID-Profil verfügen, Ihre ORCID iD über www.adressen.ethz.ch mit Ihrem ETH-Profil verknüpfen....",
+  "summary": "Bereits seit Mitte 2017 können Sie als Angehörige der ETH Zürich, wenn Sie über ein ORCID-Profil verfügen, Ihre ORCID iD über www.adressen.ethz.ch mit Ihrem ETH-Profil verknüpfen. Neu haben Sie nun auch die Möglichkeit, Ihren Publikationen in der Research Collection Ihre ORCID iD zuzuweisen....",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 157,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -47,6 +57,33 @@
       "Research",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.27,
+      "avg_word_length": 6.08,
+      "long_word_percentage": 34.39
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Bereits",
+        "Angehörige",
+        "Zürich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "adressen.ethz.ch"
+        ],
+        "phones": [
+          "2017"
+        ]
+      }
+    }
   }
 }

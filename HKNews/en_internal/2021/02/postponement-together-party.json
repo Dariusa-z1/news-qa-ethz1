@@ -7,14 +7,8 @@
   "named_entities": [
     "Executive Board",
     "Thomas Meissner",
-    "The Staff Commission",
-    "Zurich",
-    "Friday",
-    "August",
-    "Scientifica",
-    "September",
-    "Especially",
-    "PeKo"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -28,19 +22,29 @@
     "ETH Zurich",
     "“together”",
     "Event",
-    "This",
     "Staff",
     "Their",
-    "With"
+    "Party",
+    "Which"
   ],
-  "summary": "The “together” party is typically a permanent fixture in ETH Zurich's event calendar. Between 3,000 and 4,000 staff members and their families attend the event, which is held every two years....",
+  "summary": "The “together” party is typically a permanent fixture in ETH Zurich's event calendar. Between 3,000 and 4,000 staff members and their families attend the event, which is held every two years. However, the corona crisis changed many things in 2020, and the “together” event scheduled for the summer of 2020 was postponed to 2021....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 329,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Staff",
       "General Public"
@@ -50,6 +54,32 @@
       "Technology",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.93,
+      "avg_word_length": 4.62,
+      "long_word_percentage": 21.58
+    },
+    "temporal_info": {
+      "event_dates": [
+        "26 August 2022"
+      ],
+      "time_references": [
+        "3–5"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020",
+          "2020"
+        ]
+      }
+    }
   }
 }

@@ -9,12 +9,12 @@
     "Herausragende Beispiele",
     "Robinson-Spielplätze",
     "Zürcher Gartenarchitektur",
-    "Die Ausstellung",
     "Zürichs Spielplätze",
     "Zürcher Spielplätze",
-    "In Filmen",
     "Campus Hönggerberg",
-    "Zürcher Spielplätzen"
+    "Zürcher Spielplätzen",
+    "Stefano-Franscini-Platz",
+    "Zürich Weitere Informationen"
   ],
   "topics": [
     "Infrastructure",
@@ -30,20 +30,47 @@
     "Campus",
     "Education"
   ],
-  "summary": "Bis zum Zweiten Weltkrieg bestanden Spielplätze meist aus isolierten Spielgeräten wie Schaukeln, Rutschen und Wippen....",
+  "summary": "Bis zum Zweiten Weltkrieg bestanden Spielplätze meist aus isolierten Spielgeräten wie Schaukeln, Rutschen und Wippen. Ab den 1930er Jahren wurden jedoch neue Ideen gesucht, um kindergerechtes Spiel und Kreativität aktiv zu fördern. In der Spielplatzbewegung der 1950er Jahren förderte Zürich unkonventionelle Lösungen und übernahm damit eine Vorreiterrolle....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 207,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "General Public"
     ],
     "context_tags": [
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.94,
+      "avg_word_length": 5.86,
+      "long_word_percentage": 36.71
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1930",
+          "1950"
+        ]
+      }
+    }
   }
 }

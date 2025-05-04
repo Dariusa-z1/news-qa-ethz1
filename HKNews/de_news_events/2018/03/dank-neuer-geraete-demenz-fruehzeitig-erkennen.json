@@ -10,11 +10,11 @@
     "Wirtschaftsmagazin Forbes",
     "Kategorie Wissenschaft",
     "Nächstes Jahr",
-    "Die Positronen-Emissions-Tomographie",
-    "Die Art",
     "Dieses Bild",
-    "Das Problem",
-    "Heutige Geräte"
+    "Heutige Geräte",
+    "Quadratmeter Platz",
+    "Millionen Franken",
+    "Den Anstoss"
   ],
   "topics": [
     "Staff",
@@ -33,14 +33,24 @@
     "Science",
     "Campus"
   ],
-  "summary": "Günstiger, kleiner, mobiler: Sie sind knapp dreissig und dabei, die Diagnose von Alzheimer zu verbessern....",
+  "summary": "Günstiger, kleiner, mobiler: Sie sind knapp dreissig und dabei, die Diagnose von Alzheimer zu verbessern. Max Ahnen (29) und Jannis Fischer (30) entwickeln derzeit einen PET-Gehirnscanner: Er soll weniger kosten und kleiner sein als jene, die heute in den Spitälern stehen....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 684,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -50,6 +60,42 @@
       "Infrastructure",
       "Research",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.25,
+      "avg_word_length": 5.68,
+      "long_word_percentage": 32.16
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Günstiger",
+        "Diagnose",
+        "Alzheimer",
+        "Max Ahnen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zehntel",
+        "Forbes",
+        "Südamerika",
+        "Pioneer Fellowship",
+        "Arzt"
+      ],
+      "departments": [
+        "Ahnen und Fischer arbeiten am",
+        "Teilchen"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2018",
+          "2018"
+        ]
+      }
+    }
   }
 }

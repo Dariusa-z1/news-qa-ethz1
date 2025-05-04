@@ -7,14 +7,8 @@
   "named_entities": [
     "Mario Schubert",
     "Ecole Normale",
-    "Stable",
-    "Oligosaccharides",
-    "Zurich",
-    "University",
-    "Salzburg",
-    "Basel",
-    "Paris",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Infrastructure",
@@ -30,17 +24,27 @@
     "Building",
     "Blocks",
     "Molecules",
-    "That",
-    "Structure"
+    "Structure",
+    "Structures"
   ],
-  "summary": "Stable arrangement: Oligosaccharides – chains of sugar building blocks – are some of the most important molecules in living creatures....",
+  "summary": "Stable arrangement: Oligosaccharides – chains of sugar building blocks – are some of the most important molecules in living creatures. They make up a large part of the surface of cells and contribute to the immune system’s ability to distinguish the body's own cells from pathogens or other foreign cells....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 515,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -50,6 +54,32 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.46,
+      "avg_word_length": 5.59,
+      "long_word_percentage": 34.56
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Stable",
+        "Oligosaccharides",
+        "Oligosaccharides",
+        "Scientists"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Paris"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

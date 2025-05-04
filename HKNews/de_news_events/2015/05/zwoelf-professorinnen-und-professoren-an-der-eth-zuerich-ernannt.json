@@ -33,13 +33,23 @@
     "Education"
   ],
   "summary": "Ernennungen ETH Zürich: Der ETH-Rat hat auf Antrag des Präsidenten der ETH Zürich, Prof. Dr. Lino Guzzella, an seiner Sitzung vom 20./21....",
+  "content_structure": {
+    "paragraph_count": 30,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 7,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1514,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -53,6 +63,42 @@
       "Sustainability",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.52,
+      "avg_word_length": 6.68,
+      "long_word_percentage": 41.68
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Ernennungen",
+        "Zürich",
+        "Antrag"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Wirken",
+        "Forschung",
+        "Renner",
+        "Boston",
+        "Wissenschaft"
+      ],
+      "departments": [
+        "Intelligente Systeme in Tübingen",
+        "zum ausserordentlichen Professor erweitert das",
+        "Wissenschaftlicher Mitarbeiter und Lehrbeauftragter am"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1971",
+          "1977"
+        ]
+      }
+    }
   }
 }

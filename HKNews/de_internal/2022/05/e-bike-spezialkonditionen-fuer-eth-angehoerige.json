@@ -10,11 +10,11 @@
     "Fünffinger Dock",
     "Campus Zentrum",
     "Zürich-Oerlikon",
-    "Die Preise",
-    "Die Elektroantriebe",
     "Schnitt Geschwindigkeiten",
     "Mofa-Führer",
-    "Die Ausleihe"
+    "Jede Buchung",
+    "Connect-Ladestation",
+    "Ende Juli"
   ],
   "topics": [
     "Infrastructure",
@@ -33,14 +33,24 @@
     "Science",
     "Education"
   ],
-  "summary": "Buchung über App: An vier Gebäuden der ETH Zürich wurden Stationen errichtet, und es stehen insgesamt 25 hochwertige E-Bikes plus ein E-Cargobike des Anbieters «Urban Connect» zur Verwendung bereit....",
+  "summary": "Buchung über App: An vier Gebäuden der ETH Zürich wurden Stationen errichtet, und es stehen insgesamt 25 hochwertige E-Bikes plus ein E-Cargobike des Anbieters «Urban Connect» zur Verwendung bereit. Die ausleihbaren Elektrofahrräder und die zugehörigen Ladestationen befinden sich auf dem Campus Hönggerberg beim Büro-​ und Laborgebäude HCI (« Fünffinger Dock »), auf dem Campus Zentrum beim Gebäude CHN (Universitätstrasse 8-​22, über die Tramhaltestellen «ETH/Universitätsspital» und «Haldenbach» erreichbar) sowie bei den ETH-Gebäuden ONA und Octavo in Zürich-Oerlikon....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 491,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Researchers"
     ],
@@ -49,6 +59,23 @@
       "Infrastructure",
       "Technology",
       "Weather"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.46,
+      "avg_word_length": 5.37,
+      "long_word_percentage": 27.7
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zürich-Oerlikon",
+        "Bike"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

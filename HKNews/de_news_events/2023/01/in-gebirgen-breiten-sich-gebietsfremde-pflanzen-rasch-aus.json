@@ -7,14 +7,14 @@
   "named_entities": [
     "Invasive Pflanzen",
     "Viele Gebirge",
-    "Die Invasion",
-    "Die Studie",
     "Fachzeitschrift Nature Ecology",
-    "Die Forscher",
     "Untersuchungsgebieten Neophyten",
     "Erstautorin Evelin Iseli",
     "Integrative Biologie",
-    "Dem Klimawandel"
+    "Dem Klimawandel",
+    "Gebietsfremde Pflanzen",
+    "Steigende Temperaturen",
+    "Mittel-Chile"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Invasive Pflanzen füllen ihre Nische: Viele Gebirge sind naturnahe und durch den Menschen wenig beeinträchtigte Lebensräume....",
+  "summary": "Invasive Pflanzen füllen ihre Nische: Viele Gebirge sind naturnahe und durch den Menschen wenig beeinträchtigte Lebensräume. Sie beherbergen viele, teilweise hoch spezialisierte und endemische Tier- und Pflanzenarten. Auch von Invasionen durch gebietsfremde Pflanzenarten (Neophyten) sind Gebirge bisher weitgehend verschont geblieben....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 713,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -48,6 +58,43 @@
       "Sustainability",
       "Research",
       "Weather"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.82,
+      "avg_word_length": 6.07,
+      "long_word_percentage": 35.62
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "der Fachzeitschrift Nature Ecology & Evolution erschienen",
+      "authors": [
+        "Invasive Pflanzen",
+        "Nische",
+        "Viele Gebirge",
+        "Menschen",
+        "Lebensräume"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Kaschmir",
+        "Invasion Research Network",
+        "Berggebieten",
+        "Norwegen",
+        "Erstautorin Evelin Iseli"
+      ],
+      "departments": [
+        "hat Erstautorin Evelin Iseli vom",
+        "Integrative Biologie der"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2007",
+          "2017"
+        ]
+      }
+    }
   }
 }

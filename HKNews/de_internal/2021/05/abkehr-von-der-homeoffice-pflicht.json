@@ -14,7 +14,7 @@
     "Diese Regelung",
     "Covid-Erkrankung Genesene",
     "Diese Gebäude",
-    "Die Maskentragpflicht"
+    "Aktuelle Informationen"
   ],
   "topics": [
     "COVID-19",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Homeoffice empfohlen: «Aufgrund der vom Bundesrat beschlossenen Lockerungen können wir unseren Mitarbeitenden ein wenig mehr Flexibilität bieten, und wir öffnen die Gebäude», fasst ETH-Vizepräsident Ulrich Weidmann die wichtigsten Aussagen des neuen Masterplans zusammen, den die Schulleitung verabschiedet hat....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 784,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Students",
       "Staff",
@@ -51,6 +61,43 @@
       "COVID-19",
       "Infrastructure",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.68,
+      "avg_word_length": 5.89,
+      "long_word_percentage": 33.29
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Homeoffice",
+        "Aufgrund",
+        "Bundesrat",
+        "Lockerungen",
+        "Mitarbeitenden"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Präsenz",
+        "Innenräumen",
+        "Richtung",
+        "Sportangebot",
+        "Innen"
+      ],
+      "departments": [
+        "die in vielen",
+        "wenn sie für die ganze"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020",
+          "2021"
+        ]
+      }
+    }
   }
 }

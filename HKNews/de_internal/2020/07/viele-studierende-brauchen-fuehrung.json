@@ -7,14 +7,14 @@
   "named_entities": [
     "Herr Wüest",
     "Ihre Abteilung",
-    "Die Corona-Krise",
     "Den Abschluss Ihrer Amtszeit",
     "Anfang März",
-    "Im April",
     "Curling-Senioren",
     "Ihre Arbeit",
     "Seit März",
-    "Hermann Lehner"
+    "Hermann Lehner",
+    "Akademischen Dienste",
+    "Herr Lehner"
   ],
   "topics": [
     "Education",
@@ -26,20 +26,31 @@
   ],
   "keywords": [
     "ETH Zurich",
+    "Teaching",
+    "Students",
     "University",
     "Research",
     "Science",
-    "Campus",
-    "Education"
+    "Campus"
   ],
   "summary": "Main article: Herr Wüest, Ihre Abteilung organisiert den Lehrbetrieb. Die Corona-Krise hat diesen auf den Kopf gestellt. Den Abschluss Ihrer Amtszeit haben Sie sich wohl anders vorgestellt......",
+  "content_structure": {
+    "paragraph_count": 15,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1038,
     "readability_score": "moderately complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -50,6 +61,43 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.66,
+      "avg_word_length": 5.42,
+      "long_word_percentage": 27.55
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Herr Wüest",
+        "Ihre Abteilung",
+        "Lehrbetrieb",
+        "Die Corona"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Studium",
+        "Ende",
+        "Auftrag",
+        "Kanada",
+        "Semester"
+      ],
+      "departments": [
+        "die von Studierenden fast aller",
+        "war er Studienkoordinator des",
+        "entwickelte neben seiner Lehrtätigkeit am"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1985",
+          "2004"
+        ]
+      }
+    }
   }
 }

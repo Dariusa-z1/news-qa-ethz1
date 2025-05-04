@@ -7,14 +7,14 @@
   "named_entities": [
     "Johannes Kepler",
     "Domenico Giardini",
-    "The Martian",
     "Matt Damon",
     "Grace Crain",
     "European Space Agency",
     "Middle Ages",
-    "The American",
     "Swiss Federal Institute",
-    "Aquatic Science"
+    "Aquatic Science",
+    "Swiss Space Center",
+    "Glacier Palace"
   ],
   "topics": [
     "Research",
@@ -26,21 +26,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
     "Mars",
     "Moon",
-    "From",
-    "With",
-    "First"
+    "First",
+    "Space",
+    "Crain",
+    "Which"
   ],
-  "summary": "Measurements on Mars: In 1608, the astronomer and mathematician Johannes Kepler wrote his novel Somnium , in which he describes a dream of travelling to the moon....",
+  "summary": "Measurements on Mars: In 1608, the astronomer and mathematician Johannes Kepler wrote his novel Somnium , in which he describes a dream of travelling to the moon. In the book, lunar dwellers known as daemons describe in great detail how they can transport people to the moon in just four hours....",
+  "content_structure": {
+    "paragraph_count": 20,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1590,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,40 @@
       "Catering",
       "Sustainability",
       "Infrastructure"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.71,
+      "avg_word_length": 4.88,
+      "long_word_percentage": 25.79
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Measurements",
+        "Johannes Kepler",
+        "Somnium"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "The Martian",
+        "Mars",
+        "Eawag",
+        "Somnium",
+        "Giardini"
+      ],
+      "departments": [
+        "the Swiss Federal"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1608",
+          "2018"
+        ]
+      }
+    }
   }
 }

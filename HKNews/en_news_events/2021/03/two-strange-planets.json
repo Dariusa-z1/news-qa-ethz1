@@ -8,13 +8,8 @@
     "Tomoaki Kimura",
     "Motohiko Murakami",
     "Earth Sciences",
-    "Main",
-    "Uranus",
-    "Neptune",
-    "Computer",
-    "Recent",
-    "Department",
-    "Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -26,21 +21,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
-    "This",
     "Ammonia",
     "Superionic",
     "Elasticity",
-    "Uranus"
+    "Uranus",
+    "Neptune",
+    "Layer"
   ],
-  "summary": "Main article: The two large gas planets Uranus and Neptune have strange magnetic fields....",
+  "summary": "Main article: The two large gas planets Uranus and Neptune have strange magnetic fields. These are each strongly tilted relative to the planet's rotation axes and are significantly offset from the physical centre of the planet. The reason for this has been a longstanding mystery in planetary sciences....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 591,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -50,6 +55,31 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.11,
+      "avg_word_length": 5.13,
+      "long_word_percentage": 30.46
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Uranus",
+        "Neptune"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "Earth Sciences at",
+        "and Motohiko Murakami from the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -9,12 +9,12 @@
     "United Nations",
     "Climate Summit",
     "United States",
-    "The Results",
     "Monkey Cage",
     "Washington Post",
     "Robert Gampfer",
     "Aya Kachi",
-    "Insight"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Sustainability",
@@ -31,16 +31,26 @@
     "Climate",
     "Public",
     "Support",
-    "That"
+    "Recipient"
   ],
-  "summary": "",
+  "summary": "Insight into public support for North-South climate funding: Many policymakers and scientists argue that North-South financial transfers in the order of $100 billion per year will be required to obtain commitments for greenhouse-gas reductions from developing countries and emerging economies, and to help protect poor countries from climate-related risks....",
+  "content_structure": {
+    "paragraph_count": 19,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 947,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -50,6 +60,23 @@
       "Catering",
       "Sustainability",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.59,
+      "avg_word_length": 5.54,
+      "long_word_percentage": 37.7
+    },
+    "semantic_entities": {
+      "locations": [
+        "North-South",
+        "Monkey Cage"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -8,13 +8,7 @@
     "Ronken You",
     "Häfeli Beef",
     "Krawczyk Slice",
-    "Anja Stadelmann",
-    "Starters",
-    "Carrot",
-    "Celery",
-    "Onions",
-    "Tomato",
-    "Leek"
+    "Anja Stadelmann"
   ],
   "topics": [
     "Technology & Innovation",
@@ -24,22 +18,32 @@
     "Staff"
   ],
   "keywords": [
-    "Into",
     "Sent",
     "Together",
     "Cream",
     "Leftover",
     "Cheese",
-    "Vegetables"
+    "Vegetables",
+    "Salt"
   ],
-  "summary": "Starters: The recipes submitted ranged from quick and easy ideas to elaborate three-course meals. Congratulations to the two winners of our raffle....",
+  "summary": "Starters: The recipes submitted ranged from quick and easy ideas to elaborate three-course meals. Congratulations to the two winners of our raffle. Here is a small selection of the recipes we received, separated into starters, main dishes and desserts....",
+  "content_structure": {
+    "paragraph_count": 37,
+    "bullet_points": 4,
+    "numbered_items": 3,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 829,
     "readability_score": "easy to read",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -47,6 +51,20 @@
     "context_tags": [
       "Catering",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.8,
+      "avg_word_length": 4.34,
+      "long_word_percentage": 16.65
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

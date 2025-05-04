@@ -10,11 +10,7 @@
     "Im Video",
     "Studienalltag Erholung",
     "Ihnen Beratungsstellen",
-    "Main",
-    "Softwareentwickler",
-    "Studierende",
-    "Situationen",
-    "Studium"
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -23,6 +19,7 @@
     "Staff"
   ],
   "keywords": [
+    "Students",
     "ETH Zurich",
     "University",
     "Research",
@@ -30,14 +27,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Eren Akbiyik war als Softwareentwickler bei IBM tätig und strebt nun einen Master-Abschluss an der ETH an. Im Video erzählt er, wie er im vollgepackten Studienalltag Erholung findet....",
+  "summary": "Main article: Eren Akbiyik war als Softwareentwickler bei IBM tätig und strebt nun einen Master-Abschluss an der ETH an. Im Video erzählt er, wie er im vollgepackten Studienalltag Erholung findet. Beratung für Studierende: Es stehen Ihnen Beratungsstellen für alle Situationen im Studium zur Verfügung....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 45,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students"
     ],
@@ -46,6 +53,30 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.0,
+      "avg_word_length": 5.6,
+      "long_word_percentage": 31.11
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Eren Akbiyik",
+        "Softwareentwickler",
+        "Master",
+        "Abschluss"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

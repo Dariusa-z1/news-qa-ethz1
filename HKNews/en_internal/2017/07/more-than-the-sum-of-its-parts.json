@@ -7,13 +7,8 @@
   "named_entities": [
     "Agrovet-Strickhof",
     "Italian Aosta Valley",
-    "Several",
-    "Lindau",
-    "September",
-    "Ducati",
-    "Zurich",
-    "French",
     "ETH Zurich",
+    "ETH",
     "UZH"
   ],
   "topics": [
@@ -24,21 +19,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "From",
     "Research",
     "Bérard",
     "Agrovetstrickhof",
     "Platform",
-    "Will"
+    "Will",
+    "September"
   ],
-  "summary": "Several times a week, the avid motorbike enthusiast roars along the motorway from ETH to his future workplace in Lindau....",
+  "summary": "Several times a week, the avid motorbike enthusiast roars along the motorway from ETH to his future workplace in Lindau. Agrovet-Strickhof, the new platform for livestock research, will open in September. Joël Bérard, the head of research, enjoys doing things at full throttle – whether it's on his Ducati or in his work....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 216,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -48,6 +53,38 @@
       "Research",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.43,
+      "avg_word_length": 5.0,
+      "long_word_percentage": 31.02
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Several",
+        "Lindau",
+        "Agrovet",
+        "Strickhof",
+        "September"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Lindau",
+        "September"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "agrovet-strickhof.ethz.ch"
+        ],
+        "phones": [
+          "2017"
+        ]
+      }
+    }
   }
 }

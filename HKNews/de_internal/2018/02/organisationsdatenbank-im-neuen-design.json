@@ -7,14 +7,12 @@
   "named_entities": [
     "Seit Februar",
     "Corporate Web Design",
-    "Die Menüführung",
     "Abteilung Controlling",
     "Im Zuge",
-    "Eine Kostenstelle",
     "Andreas Jost",
     "Abteilung Informatikdienste",
-    "Webauftritt",
-    "Organisationsdatenbank"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Finance",
@@ -33,13 +31,23 @@
     "Education"
   ],
   "summary": "Seit Februar 2018 erscheint der Webauftritt der Organisationsdatenbank im neuen Corporate Web Design. Die Menüführung wurde verbessert, die bisherigen Funktionen bleiben unverändert. Sie umfassen z.B....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 206,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Administration"
@@ -49,6 +57,36 @@
       "Research",
       "Administrative",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 11.44,
+      "avg_word_length": 6.91,
+      "long_word_percentage": 41.26
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Seit Februar",
+        "Webauftritt",
+        "Organisationsdatenbank",
+        "Corporate Web Design",
+        "Die Menüführung"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "Controlling und den Controllern von"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2018",
+          "2019"
+        ]
+      }
+    }
   }
 }

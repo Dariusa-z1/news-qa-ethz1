@@ -7,14 +7,14 @@
   "named_entities": [
     "Pius Krütli",
     "Co-Leiter",
-    "Der Beginn",
-    "Ein Top",
-    "Die Arbeitsgruppen",
     "Wissen-Schaffenden",
-    "Der Rahmen",
     "Christian Mimjähner",
     "Business Developer",
-    "Campus Services In"
+    "Campus Services In",
+    "Abteilung Campus Services",
+    "Dieser Artikel",
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Pro: Pius Krütli, Co-Leiter TdLab am D-USYS\n\nVöllig objektiv ist die Frage wohl nicht beantwortbar, aber basierend auf meinen Beobachtungen und Erfahrungen in rETHink würde ich sagen: Ja....",
+  "summary": "Pro: Pius Krütli, Co-Leiter TdLab am D-USYS\n\nVöllig objektiv ist die Frage wohl nicht beantwortbar, aber basierend auf meinen Beobachtungen und Erfahrungen in rETHink würde ich sagen: Ja. Der Beginn des Projekts war schon anders als zuvor. Es kam ein neuer Präsident, der sich mit alten Problemen beschäftigen musste....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 721,
     "readability_score": "complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Interview",
     "audience_type": [
       "Students",
       "Staff"
@@ -49,6 +59,24 @@
       "Infrastructure",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 11.63,
+      "avg_word_length": 5.86,
+      "long_word_percentage": 31.35
+    },
+    "semantic_entities": {
+      "locations": [
+        "Wettkampf",
+        "Zweifel",
+        "Gefahr"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -10,11 +10,7 @@
     "Weitere Termine",
     "Melden Sie",
     "Sie Ihre Webseiten",
-    "Kriterium",
-    "Qualitätsüberprüfungen",
-    "ETHZ",
-    "Stellenwert",
-    "Beachten"
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -29,14 +25,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Digitale Barrierefreiheit ist wichtig und unumgänglich....",
+  "summary": "Digitale Barrierefreiheit ist wichtig und unumgänglich. Sie ist ein entscheidendes Kriterium bei Qualitätsüberprüfungen der ETHZ-Webseiten und hat den gleichen Stellenwert wie das Beachten von Bildrechten und webgerechtes Schreiben. Im praxisorientierten Kurs zeigen wir auf, wie barrierefreie Inhalte erstellt werden und gehen dabei auf spezifische AEM-Komponenten ein....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 116,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -45,6 +51,23 @@
       "Technology",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.5,
+      "avg_word_length": 6.04,
+      "long_word_percentage": 33.62
+    },
+    "semantic_entities": {
+      "locations": [
+        "Muss",
+        "Nice"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

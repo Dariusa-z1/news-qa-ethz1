@@ -10,11 +10,8 @@
     "Career Speed Dating",
     "Weitere Informationen",
     "Seite Facebook",
-    "Hast",
-    "Gipfeli",
-    "Morgen",
-    "Grosskonzerns",
-    "Firmenvertreter"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Campus Life",
@@ -30,14 +27,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Hast du schon mal mit einem Manager Minigolf gespielt oder dein Gipfeli am Morgen mit dem CEO eines Grosskonzerns gegessen?...",
+  "summary": "Hast du schon mal mit einem Manager Minigolf gespielt oder dein Gipfeli am Morgen mit dem CEO eines Grosskonzerns gegessen? Hast du schon mal versucht, einen Firmenvertreter innerhalb von 3 Minuten von dir zu überzeugen oder weisst du wie du dich kleidest, wenn «business casual» gefragt ist?...",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 1,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 110,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff"
@@ -47,6 +54,31 @@
       "Events",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 10.0,
+      "avg_word_length": 5.05,
+      "long_word_percentage": 24.55
+    },
+    "temporal_info": {
+      "event_dates": [
+        "3 Minuten"
+      ],
+      "time_references": [],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Gipfeli"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2014"
+        ]
+      }
+    }
   }
 }

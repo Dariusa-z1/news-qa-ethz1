@@ -11,10 +11,9 @@
     "Osaka University",
     "Alexander Penn",
     "Science Advances",
-    "Powders",
-    "Even",
-    "Graubünden",
-    "Department"
+    "ETH Zurich",
+    "ETH",
+    "University of Zurich"
   ],
   "topics": [
     "Research",
@@ -29,18 +28,28 @@
     "University of Zurich",
     "Granular",
     "Systems",
-    "That",
     "Such",
-    "Used"
+    "Used",
+    "Particles"
   ],
-  "summary": "",
+  "summary": "Powders and grains in the chemical industry: Even in our modern world full of highly technological machines and devices it is still impossible to predict when rockslides, such as the recent one in Graubünden, or earthquakes will occur and how exactly they evolve....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 780,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -50,6 +59,37 @@
       "Technology",
       "Research",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 27.86,
+      "avg_word_length": 5.22,
+      "long_word_percentage": 33.46
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the scientific journal Science Advances",
+      "authors": [
+        "Powders",
+        "Graubünden",
+        "Christoph Müller"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Graubünden",
+        "Japan",
+        "Osaka University"
+      ],
+      "departments": [
+        "Mechanical and Process engineering of",
+        "and Klaas Prüssmann at the",
+        "by Christoph Müller at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

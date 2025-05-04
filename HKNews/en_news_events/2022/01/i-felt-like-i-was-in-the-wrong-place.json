@@ -6,10 +6,8 @@
   "main_content": "Main article: In the first episode, computer science student Selin Baris talks about how she moved from Turkey to Zurich, how she got over her homesickness and how she learned to strike a balance between her studies and free time.\n\nAdvice for students: The ETH Zurich offers advice centres for (virtually) any situation that may arise during your studies.",
   "named_entities": [
     "Selin Baris",
-    "Main",
-    "Turkey",
-    "Zurich",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -26,14 +24,24 @@
     "Article",
     "First"
   ],
-  "summary": "",
+  "summary": "Main article: In the first episode, computer science student Selin Baris talks about how she moved from Turkey to Zurich, how she got over her homesickness and how she learned to strike a balance between her studies and free time. Advice for students: The ETH Zurich offers advice centres for (virtually) any situation that may arise during your studies....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 59,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -42,6 +50,33 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 29.5,
+      "avg_word_length": 4.88,
+      "long_word_percentage": 25.42
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Selin Baris",
+        "Turkey",
+        "Zurich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Baris",
+        "Zurich",
+        "Turkey"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -1,20 +1,16 @@
 {
   "language": "de",
   "title": "Mit dem Start der neuen Webseiten des Infrastrukturbereichs Immobilien stehen seit Anfang der Woche auch die neuen Arealpläne der ETH Zürich zur Verfügung. Insgesamt sind vier Karten jeweils farbig und schwarz-weiss im Angebot: Das Areal Zentrum, das Areal Hönggerberg, die Standorte in der Region Zürich sowie die Aussenstandorte der Hochschule.",
-  "date": "2015-12-01",
+  "date": "2016-12-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Main article: Mit dem Start der neuen Webseiten des Infrastrukturbereichs Immobilien stehen seit Anfang der Woche auch die neuen Arealpläne der ETH Zürich zur Verfügung. Insgesamt sind vier Karten jeweils farbig und schwarz-weiss im Angebot: Das Areal Zentrum, das Areal Hönggerberg, die Standorte in der Region Zürich sowie die Aussenstandorte der Hochschule.\n\nIn den Karten im PDF-Format können zukünftig selbst einfache Markierungen zum Beispiel von Gebäuden vorgenommen werden. Der IB Immobilien aktualisiert die Arealpläne regelmässig und sorgt so für die Sicherung der Qualität. Es wird empfohlen, immer die aktuelle Originalversion von den Seiten des IBI zu verwenden.\n\nHinweis: Ab 1. Januar 2016 werden die bisherigen Infrastrukturbereiche als Abteilungen geführt.",
   "named_entities": [
     "Infrastrukturbereichs Immobilien",
-    "Das Areal Zentrum",
     "Areal Hönggerberg",
     "Region Zürich",
-    "Main",
-    "Start",
-    "Webseiten",
-    "Anfang",
-    "Woche",
-    "Arealpläne"
+    "ETH Zürich",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Infrastructure"
@@ -27,14 +23,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Mit dem Start der neuen Webseiten des Infrastrukturbereichs Immobilien stehen seit Anfang der Woche auch die neuen Arealpläne der ETH Zürich zur Verfügung....",
+  "summary": "Main article: Mit dem Start der neuen Webseiten des Infrastrukturbereichs Immobilien stehen seit Anfang der Woche auch die neuen Arealpläne der ETH Zürich zur Verfügung. Insgesamt sind vier Karten jeweils farbig und schwarz-weiss im Angebot: Das Areal Zentrum, das Areal Hönggerberg, die Standorte in der Region Zürich sowie die Aussenstandorte der Hochschule....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 111,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Students",
       "Staff"
@@ -42,6 +48,22 @@
     "context_tags": [
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.86,
+      "avg_word_length": 5.83,
+      "long_word_percentage": 32.43
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016"
+        ]
+      }
+    }
   }
 }

@@ -7,14 +7,9 @@
   "named_entities": [
     "Martin Fussenegger",
     "Biosystems Science",
-    "The Basel",
     "Krzysztof Krawczyk",
-    "Professor",
-    "Biotechnology",
-    "Bioengineering",
-    "Department",
-    "Engineering",
-    "Swiss"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -26,21 +21,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
     "Cells",
     "Their",
     "Implant",
-    "This",
-    "They"
+    "They",
+    "Electrical",
+    "Insulin"
   ],
-  "summary": "A circuit board and cell container hold the key: This is how it works. A device containing insulin-producing cells and an electronic control unit is implanted in the body of a diabetic....",
+  "summary": "A circuit board and cell container hold the key: This is how it works. A device containing insulin-producing cells and an electronic control unit is implanted in the body of a diabetic. As soon as the patient eats something and their blood sugar rises, they can use an app on their smartphone to trigger an electrical signal, or they can preconfigure the app do this automatically if the meal has been entered in advance....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 699,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +55,34 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.55,
+      "avg_word_length": 5.0,
+      "long_word_percentage": 29.47
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "a new paper in the journal Science",
+      "authors": [
+        "Martin Fussenegger",
+        "Professor"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Basel",
+        "Fussenegger"
+      ],
+      "departments": [
+        "Biotechnology and Bioengineering at the",
+        "Biosystems Science and Engineering in"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

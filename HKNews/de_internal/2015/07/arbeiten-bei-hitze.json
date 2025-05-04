@@ -11,10 +11,7 @@
     "Seite Websites",
     "Interessieren Sie",
     "Stabs Sicherheit",
-    "Neben",
-    "Trinken",
-    "Arbeit",
-    "Sonneneinstrahlung"
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -32,14 +29,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Neben ausreichendem Trinken, ist es ratsam,\n\n• sich bei der Arbeit nicht direkter Sonneneinstrahlung auszusetzen,\n• Fenster, wenn möglich während der Nacht, spätestens aber am frühen Morgen zu öffnen und tagsüber zu schliessen und zu beschatten,\n• allenfalls Ventilatoren zu nutzen,\n• angepasste Kleidung zu tragen,\n• das Arbeitstempo anzupassen,\n• öfters Pausen einzulegen,\n• und die körpereigenen Warnsignale ernst zu nehmen....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 7,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 148,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -47,6 +54,20 @@
     "context_tags": [
       "Sustainability",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 24.67,
+      "avg_word_length": 5.93,
+      "long_word_percentage": 33.78
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

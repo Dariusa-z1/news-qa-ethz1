@@ -8,13 +8,10 @@
     "Greenioty At",
     "Treffpunkt Science City",
     "Exemplary Energy",
-    "The Exemplary Energy",
     "Energy Strategy",
-    "Main",
-    "April",
-    "Hönggerberg",
-    "Meet",
-    "Scientist"
+    "ETH Zurich",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Sustainability",
@@ -28,19 +25,29 @@
     "ETH Zurich",
     "Hönggerberg Campus",
     "Will",
-    "That",
     "Climate",
     "Energy",
-    "Food4thought"
+    "Event",
+    "Workshops"
   ],
-  "summary": "Main article: The Food4Thought trade fair will be held from 3 to 5 April on Hönggerberg campus....",
+  "summary": "Main article: The Food4Thought trade fair will be held from 3 to 5 April on Hönggerberg campus. The event focuses on climate-friendly nutrition: visitors can get inspired by ETH spin-offs, start-ups and student projects and learn about practical concepts and real-life products that can help them eat in a more climate- and environmentally-friendly way....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 433,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Researchers",
@@ -51,6 +58,36 @@
       "COVID-19",
       "Sustainability",
       "Infrastructure"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.65,
+      "avg_word_length": 5.03,
+      "long_word_percentage": 30.25
+    },
+    "temporal_info": {
+      "event_dates": [
+        "3 April",
+        "4 and",
+        "17 stands"
+      ],
+      "time_references": [
+        "3 to 5"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Food"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2021",
+          "2030"
+        ]
+      }
+    }
   }
 }

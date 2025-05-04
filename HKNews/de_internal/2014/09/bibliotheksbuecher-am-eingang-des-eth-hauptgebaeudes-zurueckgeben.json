@@ -6,10 +6,6 @@
   "main_content": "Ausgenommen sind Dokumente von IDS- und Universitäts-Bibliotheken. Die Rückbuchung erfolgt zweimal pro Tag in der ETH-Bibliothek.\n\nDer Pilotversuch läuft vom 1. September 2014 bis 28. Februar 2015.",
   "named_entities": [
     "Universitäts-Bibliotheken",
-    "Die Rückbuchung",
-    "Der Pilotversuch",
-    "Ausgenommen",
-    "Dokumente",
     "ETH"
   ],
   "topics": [
@@ -23,20 +19,47 @@
     "Campus",
     "Education"
   ],
-  "summary": "Ausgenommen sind Dokumente von IDS- und Universitäts-Bibliotheken. Die Rückbuchung erfolgt zweimal pro Tag in der ETH-Bibliothek. Der Pilotversuch läuft vom 1. September 2014 bis 28. Februar 2015....",
+  "summary": "Ausgenommen sind Dokumente von IDS- und Universitäts-Bibliotheken. Die Rückbuchung erfolgt zweimal pro Tag in der ETH-Bibliothek. Der Pilotversuch läuft vom 1....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 29,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 5.8,
+      "avg_word_length": 5.59,
+      "long_word_percentage": 37.93
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2014",
+          "2015"
+        ]
+      }
+    }
   }
 }

@@ -8,13 +8,12 @@
     "Zahlreiche Hörsäle",
     "Hörgeräte Audiosignale",
     "Abteilung Lehrentwicklung",
-    "Das Portal",
-    "Die Seite",
     "Accessibility Basics",
     "Barrierefreie Lehrmittel",
-    "Auf Support Services",
-    "Das Online-Webinar",
-    "Respekt Events"
+    "Respekt Events",
+    "Weitere Informationen",
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -33,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Main article: Eine ungenügende Raumakustik bei einem leise gesprochenen Vortrag, undeutliche Fragen von den Zuhörenden, oder aber das eigene eingeschränkte Gehör – all dies kann dazu führen, dass wir von den vielen Lehrveranstaltungen und Vorträgen, die jeden Tag an der ETH gehalten werden, nur einen Teil verstehen....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 4,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 377,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff",
@@ -51,6 +60,42 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.18,
+      "avg_word_length": 6.48,
+      "long_word_percentage": 39.52
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Raumakustik",
+        "Vortrag",
+        "Fragen"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "13-14"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Lehrräumen",
+        "Räumen"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2021",
+          "13-14"
+        ]
+      }
+    }
   }
 }

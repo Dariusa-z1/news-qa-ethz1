@@ -7,14 +7,11 @@
   "named_entities": [
     "Educational Development",
     "Accessibility Basics",
-    "The Support Services",
     "And Resources",
     "Respect Events",
     "Executive Board",
-    "Main",
-    "When",
-    "Clausiusstrasse",
-    "Courses"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -28,19 +25,29 @@
     "ETH Zurich",
     "Teaching",
     "Accessible",
-    "When",
     "Lecture",
     "Hearing",
-    "Part"
+    "Part",
+    "Lectures"
   ],
-  "summary": "",
+  "summary": "Main article: When a lecture hall’s acoustics are subpar for a soft-spoken delivery, when audience members ask a muffled question, or when our own hearing is limited: all of these can mean that we understand only part of the many courses and lectures held every day at ETH....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 4,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 436,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff",
@@ -53,6 +60,43 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.82,
+      "avg_word_length": 5.27,
+      "long_word_percentage": 34.63
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Services"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "24 November 2021",
+        "24 November 2021"
+      ],
+      "time_references": [],
+      "event_names": [
+        "“Breaking down barriers – physical and mental”: The online webinar “Breaking down barriers – physical and mental” will take place on 24 November 2021 from 1 p"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "German",
+        "Teaching"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2021",
+          "2021"
+        ]
+      }
+    }
   }
 }

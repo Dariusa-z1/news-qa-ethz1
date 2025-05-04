@@ -7,14 +7,14 @@
   "named_entities": [
     "Open-Access-Zeitschriftenartikeln",
     "Article Processing Charges",
-    "Für Buchpublikationen",
     "Book Processing Charges",
     "Open-Access-Buchpublikationen",
     "Open-Access-Buchkapiteln",
     "Beim Grünen Weg",
-    "Der Schweizerische Nationalfonds",
     "Open-Access-Strategie",
-    "Open Access"
+    "Open Access",
+    "Weitere Informationen",
+    "Open-Access-Policy"
   ],
   "topics": [
     "Research",
@@ -31,14 +31,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Um dieses Ziel zu erreichen, werden ab April 2018 unter anderem folgende Änderungen bei Publikationen aus SNF-geförderten Projekten zum Tragen kommen:\n\n• Bei der Finanzierung von Open-Access-Zeitschriftenartikeln wird die bisherige Obergrenze für Article Processing Charges (APCs) von CHF 3000 bis auf weiteres aufgehoben\n• Für Buchpublikationen vergütet der SNF neu Book Processing Charges (BPCs)....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 5,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 229,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -47,6 +57,31 @@
       "Research",
       "Administrative",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.08,
+      "avg_word_length": 5.76,
+      "long_word_percentage": 29.69
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Publikationen",
+        "Projekten"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2018",
+          "3000"
+        ]
+      }
+    }
   }
 }

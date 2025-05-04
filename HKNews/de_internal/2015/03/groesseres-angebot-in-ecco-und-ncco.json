@@ -6,15 +6,9 @@
   "main_content": "ECCO (Eighteenth Century Collections Online) gibt Einblick in das Wissen der englischsprachigen Welt im 18. Jahrhundert. Die ETH-Bibliothek hat hiervon die SammlungScience, Technology and Medicine erworben, die rund 60 000 Titel umfasst.\n\nDie Datenbank externe Seite NCCO (Nineteenth Century Collections Online) beinhaltet Werke aus dem 19. Jahrhundert. Die ETH-Bibliothek hat darin die Teilgebiete Mapping the World (Karten und Reiseliteratur), Fotografie, Wissenschaft, Technologie und Medizin lizenziert. Die Sammlungen enthalten Titel aus den Jahren 1780 bis 1925.",
   "named_entities": [
     "Eighteenth Century Collections Online",
-    "Die Datenbank",
     "Nineteenth Century Collections Online",
     "Teilgebiete Mapping",
-    "Die Sammlungen",
-    "ECCO",
-    "Einblick",
-    "Wissen",
-    "Welt",
-    "Bibliothek"
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -29,14 +23,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "ECCO (Eighteenth Century Collections Online) gibt Einblick in das Wissen der englischsprachigen Welt im 18. Jahrhundert....",
+  "summary": "ECCO (Eighteenth Century Collections Online) gibt Einblick in das Wissen der englischsprachigen Welt im 18. Jahrhundert. Die ETH-Bibliothek hat hiervon die SammlungScience, Technology and Medicine erworben, die rund 60 000 Titel umfasst....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 77,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Researchers"
     ],
@@ -44,6 +48,33 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 11.0,
+      "avg_word_length": 6.14,
+      "long_word_percentage": 40.26
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Eighteenth Century Collections Online",
+        "Einblick",
+        "Wissen",
+        "Jahrhundert"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "60 000",
+          "1780"
+        ]
+      }
+    }
   }
 }

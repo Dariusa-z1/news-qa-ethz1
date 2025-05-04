@@ -10,11 +10,11 @@
     "Seite Plattform",
     "Armee Zugriff",
     "Modelle Mühe",
-    "Mitte September",
     "Epidemie-Modelle",
     "Schweizerischen Tropen",
     "Public Health-Instituts",
-    "Welche Daten"
+    "Welche Daten",
+    "Seit März"
   ],
   "topics": [
     "Staff",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Thomas Van Boeckel, Sie haben eine Webseite mit Prognosen über die Belegung von Betten auf Intensivstationen in Schweizer Spitälern lanciert. Es stösst zurzeit auf grosses Interesse....",
+  "summary": "Main article: Thomas Van Boeckel, Sie haben eine Webseite mit Prognosen über die Belegung von Betten auf Intensivstationen in Schweizer Spitälern lanciert. Es stösst zurzeit auf grosses Interesse. Was zeigt die Webseite?...",
+  "content_structure": {
+    "paragraph_count": 18,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1600,
     "readability_score": "moderately complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +62,38 @@
       "COVID-19",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.9,
+      "avg_word_length": 5.61,
+      "long_word_percentage": 29.62
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Thomas Van Boeckel",
+        "Webseite",
+        "Prognosen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Tanja Stadler",
+        "Betrieb",
+        "Italien",
+        "Epidemiezeiten",
+        "Schweizer Spitälern"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1400",
+          "2020"
+        ]
+      }
+    }
   }
 }

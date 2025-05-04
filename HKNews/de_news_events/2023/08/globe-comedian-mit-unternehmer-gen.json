@@ -8,13 +8,13 @@
     "Als Lebensmittelwissenschaftler",
     "Fabian Unteregger",
     "Stadt Basel",
-    "Ein Talent",
     "Schweizer Persönlichkeiten",
     "Ob Zürichdeutsch",
     "Nationalrat Christoph Mörgeli",
     "Tennisstar Roger Federer",
     "Bundesrätin Viola Amherd",
-    "Der Komiker"
+    "Doch Comedy",
+    "Als Kantonsschüler"
   ],
   "topics": [
     "Education",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Von der ETH zum Marketing: «Ich esse unglaublich gerne Kuchen....",
+  "summary": "Von der ETH zum Marketing: «Ich esse unglaublich gerne Kuchen. Als Lebensmittelwissenschaftler muss ich schliesslich regelmässig Desserts testen, um zu schauen, ob sie immer noch gut sind», sagt Fabian Unteregger mit einem Augenzwinkern, als er sich zum Gespräch im Zürcher Traditionscafé Sprüngli einfindet....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1172,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,37 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.24,
+      "avg_word_length": 5.75,
+      "long_word_percentage": 31.4
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Marketing",
+        "Kuchen",
+        "Als Lebensmittelwissenschaftler"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Studium",
+        "Christoph Mörgeli",
+        "Mensch",
+        "Lehrer",
+        "Engagement"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1997"
+        ]
+      }
+    }
   }
 }

@@ -7,14 +7,14 @@
   "named_entities": [
     "Beim Urknall",
     "Einen Hinweis",
-    "Die Vermutung",
-    "Die Suche",
     "Paul Scherrer Instituts",
     "Universität Bern",
     "Sekunden Bündel",
-    "Die Messungen",
     "Klaus Kirch",
-    "Experimentelle Teilchenphysik"
+    "Experimentelle Teilchenphysik",
+    "Dieser Text",
+    "Seite Paul Scherrer Instituts",
+    "Physical Review Letters"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "50'000 Messungen: Beim Urknall entstand sowohl die Materie des Universums als auch die sogenannte Antimaterie – so zumindest die gängige Theorie....",
+  "summary": "50'000 Messungen: Beim Urknall entstand sowohl die Materie des Universums als auch die sogenannte Antimaterie – so zumindest die gängige Theorie. Da sich die beiden allerdings gegenseitig auslöschen, muss ein Überschuss an Materie entstanden sein, der bis heute übrigblieb....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 515,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -47,6 +57,43 @@
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.17,
+      "avg_word_length": 5.9,
+      "long_word_percentage": 38.06
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Messungen",
+        "Beim Urknall",
+        "Materie",
+        "Universums",
+        "Antimaterie"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Villigen",
+        "Magnetfeld",
+        "Europa",
+        "Zusammenarbeit"
+      ],
+      "departments": [
+        "des externe Seite Paul Scherrer",
+        "des Paul Scherrer",
+        "weiteren"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2005",
+          "2018"
+        ]
+      }
+    }
   }
 }

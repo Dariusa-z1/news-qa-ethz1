@@ -14,7 +14,7 @@
     "Zurich Building Culture",
     "Construction Project",
     "Main Buidling",
-    "Adjustments"
+    "ETH Zurich"
   ],
   "topics": [
     "Staff",
@@ -33,14 +33,24 @@
     "Project",
     "Garage"
   ],
-  "summary": "",
+  "summary": "Adjustments during the renovation period: Those who have recently been at the site will have already noticed some changes in front of the main building and, upon closer inspection, seen that the greenery around the forecourt is gone. This is part of the preparations for the forecourt construction project that will begin in June....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 618,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Administration",
       "General Public"
@@ -50,6 +60,39 @@
       "Technology",
       "Administrative",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.66,
+      "avg_word_length": 5.02,
+      "long_word_percentage": 28.64
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "23–20",
+        "22–20"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "August",
+        "Buidling",
+        "June",
+        "Rämistrasse",
+        "Construction Commission"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "www.ethz.ch"
+        ],
+        "phones": [
+          "2021",
+          "2021"
+        ]
+      }
+    }
   }
 }

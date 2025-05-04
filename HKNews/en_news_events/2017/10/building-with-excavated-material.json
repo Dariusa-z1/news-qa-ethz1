@@ -7,14 +7,14 @@
   "named_entities": [
     "Sustainable Construction",
     "Triemli Hospital",
-    "In France",
     "Think Earth",
     "Guillaume Habert",
     "Sasha Cisar",
     "Semper Aula",
     "Guillaume Habert Doktorand",
     "Nachhaltiges Bauen",
-    "Weitere Informationen"
+    "Weitere Informationen",
+    "ETH Zurich"
   ],
   "topics": [
     "Sustainability",
@@ -29,18 +29,28 @@
     "Earth",
     "Building",
     "Construction",
-    "With",
-    "This",
-    "Material"
+    "Material",
+    "Concrete",
+    "Climate"
   ],
-  "summary": "",
+  "summary": "Earthy architecture: When modern humans build a structure, it usually works like this: they dig a pit, transport the excavated material away in a lorry and deliver tonnes of sand, gravel and cement in its place. This is mixed with water to create concrete, which is used to build the foundations and the house....",
+  "content_structure": {
+    "paragraph_count": 20,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 855,
     "readability_score": "moderately complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +60,34 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.81,
+      "avg_word_length": 5.18,
+      "long_word_percentage": 29.94
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Earthy"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland",
+        "German",
+        "Zurich",
+        "English"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017"
+        ]
+      }
+    }
   }
 }

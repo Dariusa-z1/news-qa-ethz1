@@ -30,17 +30,27 @@
     "Professor",
     "Zurich",
     "Research",
-    "With",
-    "Currently"
+    "Currently",
+    "Full"
   ],
-  "summary": "Main article: All of the professors had already established themselves as experts in their fields before the ETH Board appointed or promoted them....",
+  "summary": "Main article: All of the professors had already established themselves as experts in their fields before the ETH Board appointed or promoted them. The new professors in brief:\n\nProfessor André Bardow (*1974), currently Professor at RWTH Aachen University, Germany, as Full Professor of Energy and Process Systems Engineering....",
+  "content_structure": {
+    "paragraph_count": 15,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 6,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1394,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -53,6 +63,40 @@
       "COVID-19",
       "Sustainability",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.5,
+      "avg_word_length": 5.57,
+      "long_word_percentage": 37.8
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Professor Andr"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Davos",
+        "Karlsruhe Institute",
+        "Los Angeles",
+        "Würtz",
+        "Switzerland"
+      ],
+      "departments": [
+        "currently Full Professor at Karlsruhe",
+        "currently Professor at the",
+        "Biosystems at"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1974",
+          "1974"
+        ]
+      }
+    }
   }
 }

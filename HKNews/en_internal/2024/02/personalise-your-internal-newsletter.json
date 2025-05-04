@@ -4,11 +4,7 @@
   "date": "2024-02-01",
   "source": "Unknown source",
   "main_content": "Main article: By the way: As a current subscriber to the newsletter, you are now automatically registered for all topics. And if you have not yet subscribed to the Internal news newsletter, you can do so here .\n\nNote on the translation: This text has been translated for your convenience using a machine translation tool. Although reasonable efforts have been made to provide an accurate translation, it may not be perfect. If in doubt, please refer to the German version.\n\nShould you come upon significant translation mistakes, please send a short message to so that we can correct them. Thank you very much.",
-  "named_entities": [
-    "Main",
-    "Internal",
-    "German"
-  ],
+  "named_entities": [],
   "topics": [
     "Communication"
   ],
@@ -21,20 +17,44 @@
     "Main",
     "Article"
   ],
-  "summary": "Main article: By the way: As a current subscriber to the newsletter, you are now automatically registered for all topics....",
+  "summary": "Main article: By the way: As a current subscriber to the newsletter, you are now automatically registered for all topics. And if you have not yet subscribed to the Internal news newsletter, you can do so here . Note on the translation: This text has been translated for your convenience using a machine translation tool....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 102,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "University News"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.57,
+      "avg_word_length": 4.8,
+      "long_word_percentage": 26.47
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -11,10 +11,8 @@
     "Zurich University",
     "Applied Sciences",
     "Swiss Economic Archive",
-    "At Scientifica",
     "Natürliche Sprache",
-    "Analysing",
-    "ZHAW"
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -29,17 +27,27 @@
     "Cieliebak",
     "Spinningbytes",
     "Programs",
-    "That",
-    "Which"
+    "Which",
+    "Text"
   ],
-  "summary": "",
+  "summary": "Analysing and classifying articles: It all began a few years ago: Mark Cieliebak, Martin Jaggi and Fatih Uzdilli were computer science researchers at ETH and Zurich University of Applied Sciences (ZHAW), and published their technologies in scientific papers....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 3,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 546,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -49,6 +57,37 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.75,
+      "avg_word_length": 5.17,
+      "long_word_percentage": 32.23
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "Jaggi and Fatih Uzdilli were computer science researchers at ETH and Zurich University of Applied Sciences (ZHAW)",
+      "authors": [
+        "Analysing",
+        "Mark Cieliebak",
+        "Martin Jaggi",
+        "Fatih Uzdilli"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Jaggi",
+        "Spinning",
+        "Scientifica"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "1890"
+        ]
+      }
+    }
   }
 }

@@ -1,20 +1,20 @@
 {
   "language": "de",
   "title": "Zehn Gruende Ins Gruene Zu Gehen",
-  "date": "2018-07-01",
+  "date": "2040-07-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "ETH Zentrum: In luftigen Höhen: Auf der Gartenterrasse des LEE-Gebäudes geniesst man ein kleines bisschen Feriengefühl. Liegen und Stühle laden zu einer Pause ein, die reichhaltige Pflanzenkultur sorgt für eine entspannte Atmosphäre. Die Terrasse ist montags bis freitags von 7 bis 19 Uhr zugänglich.\n\nZentral gelegenes Zauberwäldchen: Im Garten des Hauses «aki» finden sich auf kleinem Raum verschlungene Wege, Sitzgelegenheiten und eine Terrasse mit Blick über die Stadt – all dies unter dichtem Blätterdach. Zugang zur gemütlichen Waldatmosphäre erhält man montags bis freitags von 8 bis 18 Uhr.\n\nWeitsicht unter Kastanienbäumen: Wer sich Zeit nimmt für einen kurzen Aufstieg am Zürichberg, wird mit einem einzigartigen Panorama belohnt. Am Aussichtspunkt der reformierten Kirche Fluntern liegen den Besuchenden Stadt und See zu Füssen.\n\nEntspannung auf mehreren Ebenen: Im terrassenartig abgestuften Barockgarten Rechberg geniesst man die Atmosphäre eines kleinen Schlossparks. Gerade bei Sonnenuntergang lohnt sich eine Ruhepause auf einem der grossflächigen Bänke, um die letzten Strahlen des endenden Tages einzufangen. Aussicht, Atmosphäre und Sonne gibt es hier täglich von 6 bis 21 Uhr.\n\nHier oben grüsst der grüne Daumen: Die Dachterrasse des CHN-Gebäudes lockt mit einem Platz an der frischen Luft. Eine Baumkronenwand sorgt für Schatten, über die gesamte Fläche verteilte Pflanzenkisten verstärken das Gesamtbild mit zusätzlichem Grün und Gartengefühl. Für eine Pause ist die Terrasse montags bis freitags von 6.30 bis 21 Uhr zugänglich.\n\nETH Campus Hönggerberg: Unverhoffte Oase: Mitten im Herzen des Campus Hönggerberg liegt der Flora-Ruchat-Roncati Garten , eine naturbelassene Wiese, die einen kleinen Weiher umgibt. Bäume und umliegende Gebäude bieten Schutz vor dem fleissigen Treiben rundherum.\n\nAuch seichte Gewässer können still sein: Angrenzend an das Student Project House finden Ruhesuchende ein weitläufiges Wasserbecken , bei welchem man nicht nur die Beine im erfrischenden Nass, sondern auch die Seele baumeln lassen kann.\n\nWo sich Fuchs und Studierende Gutenacht sagen: Nur wenige Schritte vom Campus, eingebettet in den angrenzenden Waldrand am Käferberg , laden Feuerstellen zum Bräteln ein. Naturliebende und Grillbegeisterte kommen auf ihre Kosten, denn ein bisschen Landleben gibt’s hier gratis, mitten in Zürich.\n\nGeschützter Raum der Ruhe: Im Innenhof des HPF-Gebäudes lässt sich ein rauchender Kopf wunderbar auslüften. Das schlichte Plätzchen in zentraler Lage eignet sich gut für eine spontane Ruhepause und das Aufladen der inneren Solarbatterie. Zugänglich ist es montags bis freitags von 7 bis 18 Uhr.\n\nZwischen Wiese, Baum und Fels : Obschon nur unweit der Strasse, ist dieses lauschige Plätzchen gut eingepackt ins natürliche Grün. Wer sich hier für einige Momente niederlässt, wird vielleicht gar etwas Wanderlust auf den weiteren Weg mitnehmen.\n\nIn Zukunft erhalten Frei- und Grünräume noch mehr Bedeutung. Im Masterplan « ETH-Campus Hönggerberg 2040 » bleiben die heutigen, teils geschützten Gartenanlagen (Albert-Steiner-Garten und Flora-Ruchat-Roncati-Garten) erhalten und werden um einen neuen Garten ergänzt.",
   "named_entities": [
-    "Die Terrasse",
     "Im Garten",
     "Am Aussichtspunkt",
     "Kirche Fluntern",
     "Besuchenden Stadt",
     "Barockgarten Rechberg",
-    "Die Dachterrasse",
-    "Eine Baumkronenwand",
     "Campus Hönggerberg",
-    "Unverhoffte Oase"
+    "Unverhoffte Oase",
+    "Flora-Ruchat-Roncati Garten",
+    "Student Project House",
+    "Studierende Gutenacht"
   ],
   "topics": [
     "Infrastructure",
@@ -33,14 +33,24 @@
     "Science",
     "Education"
   ],
-  "summary": "ETH Zentrum: In luftigen Höhen: Auf der Gartenterrasse des LEE-Gebäudes geniesst man ein kleines bisschen Feriengefühl....",
+  "summary": "ETH Zentrum: In luftigen Höhen: Auf der Gartenterrasse des LEE-Gebäudes geniesst man ein kleines bisschen Feriengefühl. Liegen und Stühle laden zu einer Pause ein, die reichhaltige Pflanzenkultur sorgt für eine entspannte Atmosphäre. Die Terrasse ist montags bis freitags von 7 bis 19 Uhr zugänglich....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 455,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students"
     ],
@@ -49,6 +59,32 @@
       "Infrastructure",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.5,
+      "avg_word_length": 5.77,
+      "long_word_percentage": 34.29
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zentrum",
+        "Gartenterrasse"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zürich"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2040"
+        ]
+      }
+    }
   }
 }

@@ -26,21 +26,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "This",
-    "That",
     "Arctic",
     "Researchers",
     "Project",
-    "Doetterl"
+    "Doetterl",
+    "Soils",
+    "Says"
   ],
-  "summary": "One of the biggest and toughest endeavours: “We saw landscapes where permafrost has largely collapsed over large areas,” says Sebastian Doetterl, Professor of Soil Resources, with great concern....",
+  "summary": "One of the biggest and toughest endeavours: “We saw landscapes where permafrost has largely collapsed over large areas,” says Sebastian Doetterl, Professor of Soil Resources, with great concern. He has just returned from a field campaign on Svalbard, an archipelago lying at about 78 degrees north latitude, where the thermometer usually climbs to an average of 9 degrees Celsius in summer....",
+  "content_structure": {
+    "paragraph_count": 17,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1246,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,40 @@
       "Technology",
       "Research",
       "Weather"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.96,
+      "avg_word_length": 4.84,
+      "long_word_percentage": 26.16
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Sebastian Doetterl",
+        "Professor",
+        "Soil Resources"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Troms",
+        "Spitsbergen",
+        "Doetterl",
+        "Svalbard",
+        "Zurich"
+      ],
+      "departments": [
+        "the Swiss Federal"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1984",
+          "2012"
+        ]
+      }
+    }
   }
 }

@@ -7,14 +7,8 @@
   "named_entities": [
     "Paolo Sossi",
     "Science Advances",
-    "Making",
-    "Four",
-    "Earth",
-    "Zurich",
-    "NCCR",
-    "PlanetS",
-    "Celsius",
-    "Image"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -26,21 +20,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
     "Magma",
     "Atmosphere",
     "Sossi",
     "Earth",
-    "Which"
+    "Which",
+    "Today"
   ],
-  "summary": "Making magma in the laboratory: Four-and-a-half billion years ago, Earth would have been hard to recognise....",
+  "summary": "Making magma in the laboratory: Four-and-a-half billion years ago, Earth would have been hard to recognise. Instead of the forests, mountains and oceans that we know today, the surface of our planet was covered entirely by magma – the molten rocky material that emerges when volcanoes erupt....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 676,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -50,6 +54,31 @@
       "Research",
       "Weather",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.48,
+      "avg_word_length": 4.86,
+      "long_word_percentage": 23.08
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the journal Science Advances",
+      "authors": [
+        "Making",
+        "Instead"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Earth",
+        "Sossi"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

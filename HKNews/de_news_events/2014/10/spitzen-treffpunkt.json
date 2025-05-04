@@ -8,13 +8,13 @@
     "Inge Keller-Hoehl",
     "Formula Student",
     "Führt Leistungsdruck",
-    "Das Thema",
     "Spitzenleister Mensch",
     "Am Sonntag",
     "Student Power Day",
-    "Der Elektro-Bolide",
     "Formula-Student-Wettbewerb",
-    "Am Treffpunkt"
+    "Am Treffpunkt",
+    "Ohne Zweifel",
+    "Mediziner Oskar Jenni"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Bahn frei für die Leistung von Studierenden: In internationalen Rankings belegt die ETH Zürich regelmässig Topplätze....",
+  "summary": "Bahn frei für die Leistung von Studierenden: In internationalen Rankings belegt die ETH Zürich regelmässig Topplätze. Spitzenleistungen zu erbringen, ist denn auch eines der erklärten Ziele der Hochschule. Doch was ist eine Spitzenleistung überhaupt und wie entsteht sie?...",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 488,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -51,6 +61,37 @@
       "Research",
       "Events",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.2,
+      "avg_word_length": 6.01,
+      "long_word_percentage": 33.81
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Leistung",
+        "Studierenden",
+        "Rankings"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Formel",
+        "Sonntag",
+        "Sarah Springman",
+        "Vorlesungen"
+      ],
+      "departments": [
+        "Leiterin des",
+        "Leiterin des Marie Meierhofer"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -7,10 +7,8 @@
   "named_entities": [
     "Does Switzerland",
     "But Switzerland",
-    "Swiss",
-    "Germany",
-    "Zurich",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Sustainability",
@@ -22,21 +20,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
     "Energy",
     "Switzerland",
     "Will",
     "Make",
-    "People"
+    "People",
+    "World"
   ],
-  "summary": "Does Switzerland matter?...",
+  "summary": "Does Switzerland matter? When it comes to climate and energy, a lot of people say no: Switzerland’s CO 2 emissions are tiny compared to those of the rest of the world, and so no amount of emissions reduction here will make any difference of global significance....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 561,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -46,6 +54,23 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 24.39,
+      "avg_word_length": 4.8,
+      "long_word_percentage": 23.89
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland",
+        "Germany"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

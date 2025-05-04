@@ -28,19 +28,29 @@
     "Institute",
     "Years",
     "Work",
-    "With",
     "Facility",
     "Susanne",
-    "Management"
+    "Management",
+    "Peter"
   ],
-  "summary": "Eight years at EducETH: “In my job in Corporate Communications, I was in my element,” Susanne says....",
+  "summary": "Eight years at EducETH: “In my job in Corporate Communications, I was in my element,” Susanne says. She would arrive at the office in the morning, deal with enquiries and gather information from the professors and departments – “I really enjoyed the variety this offered and the chance to briefly delve into all kinds of subject areas at ETH.” Then she became pregnant....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 549,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,37 @@
       "Administrative",
       "Communications",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.88,
+      "avg_word_length": 5.14,
+      "long_word_percentage": 31.69
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Corporate Communications",
+        "Susanne"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Educ",
+        "Corporate Communications"
+      ],
+      "departments": [
+        "for in the Teacher Training",
+        "of the",
+        "the Institute for Research on"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2014"
+        ]
+      }
+    }
   }
 }

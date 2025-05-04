@@ -11,10 +11,10 @@
     "West African",
     "West Africa",
     "Nature Communications",
-    "In Africa",
     "Donald Danforth Plant Science",
     "California Los Angeles",
-    "National Crops Resources Research"
+    "National Crops Resources Research",
+    "Melinda Gates Foundation"
   ],
   "topics": [
     "Research",
@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "Cassava",
-    "That",
     "Resistance",
     "Gene",
     "Research",
-    "Plants"
+    "Plants",
+    "Polymerase"
   ],
-  "summary": "Research consortium tracks down resistance gene: Cassava, also known as manioc, is a staple food for nearly one billion people and an important source of raw materials....",
+  "summary": "Research consortium tracks down resistance gene: Cassava, also known as manioc, is a staple food for nearly one billion people and an important source of raw materials. It secures an income for smallholder farmers, especially in Africa. Cassava is an undemanding crop; it does not need fertiliser and grows even in dry areas....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 769,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,38 @@
       "COVID-19",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.72,
+      "avg_word_length": 5.0,
+      "long_word_percentage": 29.26
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Research",
+        "Cassava",
+        "Africa",
+        "Cassava"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Africa",
+        "Taiwan",
+        "Southeast Asia",
+        "Nature Communications",
+        "West Africa"
+      ],
+      "departments": [
+        "the National Crops Resources Research"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -8,10 +8,8 @@
     "Jingle Bells",
     "Music Star Casting",
     "Merry Autonomous Christmas",
-    "Zurich",
-    "Monday",
-    "Leutschenbach",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Campus Life",
@@ -28,14 +26,24 @@
     "Over",
     "Control"
   ],
-  "summary": "For two years now, there's been a reason to be on your guard at ETH during the festive period: robots are on the loose!...",
+  "summary": "For two years now, there's been a reason to be on your guard at ETH during the festive period: robots are on the loose! They go on the rampage at ETH Zurich and the surrounding area, knocking over Christmas trees, dragging presents around campus and throwing them here and there – always autonomously and seemingly free of human control....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 178,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff",
       "Administration"
@@ -44,6 +52,22 @@
       "Infrastructure",
       "Administrative",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.25,
+      "avg_word_length": 4.76,
+      "long_word_percentage": 23.6
+    },
+    "semantic_entities": {
+      "locations": [
+        "Leutschenbach"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

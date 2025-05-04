@@ -10,11 +10,8 @@
     "Kenneth Atz",
     "Hospital Zurich",
     "Artificial Intelligence",
-    "Researchers",
-    "Professor",
-    "Department",
-    "Chemistry",
-    "Roche"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -27,20 +24,30 @@
   "keywords": [
     "ETH Zurich",
     "Molecules",
-    "That",
-    "With",
     "Researchers",
-    "From",
-    "Algorithm"
+    "Algorithm",
+    "Drug",
+    "Proteins",
+    "Process"
   ],
-  "summary": "",
+  "summary": "In brief: • Researchers at ETH Zurich have created a generative artificial intelligence (AI) for developing drug molecules based on the three-dimensional surface of proteins with which the molecules are to interact. • The new computer process ensures right from the start that the molecules can also be chemically synthesised....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 2,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 788,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +58,32 @@
       "Research",
       "Education",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.74,
+      "avg_word_length": 5.24,
+      "long_word_percentage": 34.01
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Researchers",
+        "Zurich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Roche"
+      ],
+      "departments": [
+        "Chemistry and Applied Biosciences"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

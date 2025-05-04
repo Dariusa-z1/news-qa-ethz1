@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Unsere Kurse und Workshops decken verschiedene Themenbereiche ab wie zum Beispiel:\n\n• Informationsrecherche\n• Wissenschaftliches Schreiben\n• Literaturverwaltung\n• Open-Access-Publizieren\n• Forschungsdatenmanagement\nSchärfen Sie Ihre Skills, wenn es darum geht, Informationen zu sammeln, zu bewerten und aufzubereiten, Forschungsdaten zu managen oder Ihre Arbeit Open Access zu publizieren....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 5,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 231,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -49,6 +59,31 @@
       "Infrastructure",
       "Research",
       "Communications"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.0,
+      "avg_word_length": 6.16,
+      "long_word_percentage": 34.2
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Unsere Kurse",
+        "Workshops",
+        "Themenbereiche",
+        "Beispiel",
+        "Informationsrecherche"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

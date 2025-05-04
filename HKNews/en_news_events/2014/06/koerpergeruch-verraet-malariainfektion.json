@@ -8,13 +8,8 @@
     "Consuelo De Moraes",
     "Mark Mescher",
     "De Moraes",
-    "Pathogen",
-    "Malaria",
-    "Plasmodium",
-    "PNAS",
-    "There",
-    "Professor",
-    "Biocommunication"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -25,21 +20,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
     "Malaria",
     "Infected",
     "Pathogen",
     "Odour",
-    "Researchers"
+    "Researchers",
+    "Disease"
   ],
-  "summary": "Pathogen elicits the strongest odour during reproduction phase: Malaria is and remains a formidable disease that is transmitted to humans by the anopheles mosquito....",
+  "summary": "Pathogen elicits the strongest odour during reproduction phase: Malaria is and remains a formidable disease that is transmitted to humans by the anopheles mosquito. The pathogen is a protozoan of the genus Plasmodium. If left untreated, malaria can be deadly....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 518,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -49,6 +54,34 @@
       "Research",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.92,
+      "avg_word_length": 5.35,
+      "long_word_percentage": 36.29
+    },
+    "citation_info": {
+      "doi": "10.1073/pnas.1405617111",
+      "journal": "",
+      "authors": [
+        "Pathogen",
+        "Malaria",
+        "Plasmodium"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Africa"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2014",
+          "1073"
+        ]
+      }
+    }
   }
 }

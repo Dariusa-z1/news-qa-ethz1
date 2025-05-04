@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: ETH-Präsident Lino Guzzella begrüsste heute Vormittag Persönlichkeiten aus dem ganzen Kanton Graubünden zu einem Frühstück der wissenschaftlichen Art....",
+  "summary": "Main article: ETH-Präsident Lino Guzzella begrüsste heute Vormittag Persönlichkeiten aus dem ganzen Kanton Graubünden zu einem Frühstück der wissenschaftlichen Art. Er hob dabei die vielen Verbindungen zwischen der ETH und dem Kanton Graubünden hervor, unter anderem zahlreiche imposante Bauwerke wie die Sunnibergbrücke bei Klosters von ETH-Ingenieur Christian Menn....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 508,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -50,6 +60,45 @@
       "Research",
       "Events",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.09,
+      "avg_word_length": 6.08,
+      "long_word_percentage": 37.2
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Präsident Lino Guzzella",
+        "Vormittag Persönlichkeiten",
+        "Kanton Graubünden",
+        "Frühstück"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "10 bis"
+      ],
+      "time_references": [],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Roboter",
+        "Davos",
+        "Tablet",
+        "Modell",
+        "Susanne Tobler"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017"
+        ]
+      }
+    }
   }
 }

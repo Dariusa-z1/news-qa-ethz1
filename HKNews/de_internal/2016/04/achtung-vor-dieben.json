@@ -1,20 +1,20 @@
 {
   "language": "de",
   "title": "2015 wurden an der ETH Zürich 69 Diebstähle von Eigentum der ETH und Privateigentum verzeichnet. Aus diesem Anlass ruft die Abteilung Sicherheit, Gesundheit und Umwelt (SGU) in Erinnerung, wie wichtig es ist, Wertgegenstände vor dem Zugriff Dritter zu schützen, ein Portemonnaie nicht offen auf dem Bürotisch oder dem Mensa-Tablett liegen zu lassen. Auch verschlossene Türen und Fenster erschweren Dieben ihr Handwerk. Ein Diebstahl verursacht immer Aufwand, der sich in manchem Fall durch Prävention vermeiden lässt.",
-  "date": "2016-04-01",
+  "date": "2015-04-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Main article: 2015 wurden an der ETH Zürich 69 Diebstähle von Eigentum der ETH und Privateigentum verzeichnet. Aus diesem Anlass ruft die Abteilung Sicherheit, Gesundheit und Umwelt (SGU) in Erinnerung, wie wichtig es ist, Wertgegenstände vor dem Zugriff Dritter zu schützen, ein Portemonnaie nicht offen auf dem Bürotisch oder dem Mensa-Tablett liegen zu lassen. Auch verschlossene Türen und Fenster erschweren Dieben ihr Handwerk. Ein Diebstahl verursacht immer Aufwand, der sich in manchem Fall durch Prävention vermeiden lässt.\n\nSollten ETH-Angehörige trotz aller Vorsichtsmassnahmen Opfer eines Diebstahls werden, sollen sie ein Delikt so rasch wie möglich der Abteilung SGU melden . Damit können rechtzeitig entsprechende Massnahmen in die Wege geleitet werden – zum Beispiel, wenn sich Diebstähle innerhalb eines Gebäudebereichs häufen.\n\nSehr gerne ist SGU auch bereit, Sensibilisierungen und Sicherheitsbeurteilungen für ETH-Angehörige vor Ort durchzuführen.\n\nSGU-Jahresbericht 2015 erschienen: Der Jahresbericht 2015 der Abteilung Gesundheit, Sicherheit und Umwelt ist erschienen und online zum Herunterladen bereitgestellt (Link). Er informiert über die Schwerpunkte der Abteilung und die wichtigsten Entwicklungen in den Themenbereichen Aus- und Weiterbildung, Chemie-Erstintervention, Arbeits-, Biosicherheit und Sonderabfallentsorgung (CABS), Gebäudeschadstoffe, Risikomanagement und Kommissionen, Brand- und Explosionsschutz, Security, Ausbildung Labortierkunde und SGU-Projekte sowie Alarmorganisation (Alarmzentrale und Sicherheitsdienst).",
   "named_entities": [
     "Abteilung Sicherheit",
     "Zugriff Dritter",
     "Mensa-Tablett",
-    "Ein Diebstahl",
     "Vorsichtsmassnahmen Opfer",
-    "Der Jahresbericht",
     "Abteilung Gesundheit",
     "Themenbereichen Aus",
     "Chemie-Erstintervention",
-    "Ausbildung Labortierkunde"
+    "Ausbildung Labortierkunde",
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Sustainability",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: 2015 wurden an der ETH Zürich 69 Diebstähle von Eigentum der ETH und Privateigentum verzeichnet....",
+  "summary": "Main article: 2015 wurden an der ETH Zürich 69 Diebstähle von Eigentum der ETH und Privateigentum verzeichnet. Aus diesem Anlass ruft die Abteilung Sicherheit, Gesundheit und Umwelt (SGU) in Erinnerung, wie wichtig es ist, Wertgegenstände vor dem Zugriff Dritter zu schützen, ein Portemonnaie nicht offen auf dem Bürotisch oder dem Mensa-Tablett liegen zu lassen....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 197,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Researchers"
     ],
@@ -49,6 +59,28 @@
       "Sustainability",
       "Infrastructure",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.89,
+      "avg_word_length": 6.67,
+      "long_word_percentage": 38.58
+    },
+    "semantic_entities": {
+      "locations": [
+        "Delikt",
+        "Diebstahl",
+        "Portemonnaie",
+        "Erinnerung"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "2015"
+        ]
+      }
+    }
   }
 }

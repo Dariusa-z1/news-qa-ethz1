@@ -31,16 +31,26 @@
     "Gunten",
     "Structural",
     "Engineering",
-    "From"
+    "Zurich"
   ],
-  "summary": "Hans von Gunten studied structural engineering at ETH Zurich and earned his diploma in 1955....",
+  "summary": "Hans von Gunten studied structural engineering at ETH Zurich and earned his diploma in 1955. He subsequently worked as assistant to Professor Pierre Lardy and, following his sudden death, assumed part of his teaching assignments for four terms. In parallel, he earned his doctorate under Professor Henry Favre before joining an engineering company in Bern, where he became a partner in 1963....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 293,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty"
     ],
@@ -49,6 +59,40 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 26.64,
+      "avg_word_length": 5.0,
+      "long_word_percentage": 26.62
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Gunten",
+        "Zurich",
+        "Professor Pierre Lardy"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Bern",
+        "Zurich",
+        "Professor Pierre Lardy"
+      ],
+      "departments": [
+        "was the Head of the",
+        "and Construction in the then",
+        "he headed up the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1955",
+          "1963"
+        ]
+      }
+    }
   }
 }

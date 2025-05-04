@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Es gehört dazu: Die dritte und letzte Woche des Energy-Efficiency Challenge Team-Wettbewerbs steht unter dem Titel «Energie und Büro»....",
+  "summary": "Es gehört dazu: Die dritte und letzte Woche des Energy-Efficiency Challenge Team-Wettbewerbs steht unter dem Titel «Energie und Büro». Die themenspezifischen Aktionen sollen aufzeigen, wie wir durch eine achtsame Nutzung unserer Ressourcen den Energiebedarf senken können, ohne dass unser Wohlbefinden dadurch eingeschränkt wird....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 2,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 454,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students"
     ],
@@ -49,6 +59,37 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.97,
+      "avg_word_length": 5.76,
+      "long_word_percentage": 34.14
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Energy",
+        "Efficiency Challenge Team"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Fenster",
+        "Ihrem Team",
+        "Gesundheitswissenschaften"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "www.weact.ch"
+        ],
+        "phones": [
+          "2013",
+          "2000"
+        ]
+      }
+    }
   }
 }

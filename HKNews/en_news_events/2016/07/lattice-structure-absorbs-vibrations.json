@@ -7,13 +7,6 @@
   "named_entities": [
     "Chiara Daraio",
     "Kathryn Matlack",
-    "Also",
-    "Vibrations",
-    "Professor",
-    "Mechanics",
-    "Materials",
-    "Instead",
-    "Hertz",
     "ETH"
   ],
   "topics": [
@@ -28,19 +21,29 @@
     "Vibrations",
     "Structure",
     "Lattice",
-    "Also",
     "Aircraft",
     "Materials",
-    "They"
+    "They",
+    "Would"
   ],
-  "summary": "Also a stabilising component: Vibrations from a bus engine can sometimes be felt uncomfortably strongly through the seats....",
+  "summary": "Also a stabilising component: Vibrations from a bus engine can sometimes be felt uncomfortably strongly through the seats. Similarly, vibrations from the propellers or rotors in propeller aircraft and helicopters can make the flight bumpy and loud, and also lead to increased fatigue damage of the aircraft and its components....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 483,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +53,31 @@
       "Sustainability",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.95,
+      "avg_word_length": 5.4,
+      "long_word_percentage": 36.65
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Vibrations",
+        "Similarly",
+        "Engineers"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Daraio"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

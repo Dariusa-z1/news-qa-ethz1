@@ -5,14 +5,9 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "The Polybahn transports around two million people between the Central public transport stop and the Polyterrasse each year, including many members of ETH Zurich. It was also named after the “Polytechnic”, as the ETH was known in the years following its foundation. Together with the VBZ and ZVV, UBS is responsible for its operation and timetable.\n\nThe Polybahn, which has been running unstaffed since 1996, is now about to undergo a complete renovation and servicing. The work will last from 30 May to 17 September 2021, and the Polybahn will be closed during this time. For ETH members, tram lines 6 and 10 from Central to ETH/Universitätsspital will remain available during the closure.\n\nAccording to media reports, the renovation work will cost CHF 3 million, and the nostalgic appearance of the Polybahn will be preserved. The elements to be replaced include the floors and seats of the two carriages, as well as the motor.",
   "named_entities": [
-    "The Polybahn",
-    "Central",
-    "Polyterrasse",
-    "Zurich",
-    "Polytechnic",
-    "September",
-    "Universitätsspital",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH",
+    "Polyterrasse"
   ],
   "topics": [
     "Staff",
@@ -29,14 +24,24 @@
     "Members",
     "Renovation"
   ],
-  "summary": "The Polybahn transports around two million people between the Central public transport stop and the Polyterrasse each year, including many members of ETH Zurich....",
+  "summary": "The Polybahn transports around two million people between the Central public transport stop and the Polyterrasse each year, including many members of ETH Zurich. It was also named after the “Polytechnic”, as the ETH was known in the years following its foundation....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 155,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "General Public"
     ],
@@ -44,6 +49,25 @@
       "Financial",
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.38,
+      "avg_word_length": 4.85,
+      "long_word_percentage": 27.1
+    },
+    "semantic_entities": {
+      "locations": [
+        "Central"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1996",
+          "2021"
+        ]
+      }
+    }
   }
 }

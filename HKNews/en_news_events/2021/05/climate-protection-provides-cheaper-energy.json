@@ -11,10 +11,8 @@
     "Sixth Assessment Report",
     "Intergovernmental Panel",
     "Climate Change",
-    "Renewable",
-    "When",
-    "Swiss",
-    "Africa"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Sustainability",
@@ -27,20 +25,30 @@
   "keywords": [
     "ETH Zurich",
     "Energy",
-    "This",
     "Renewable",
-    "When",
     "More",
-    "Have"
+    "Have",
+    "Years",
+    "Fuels"
   ],
-  "summary": "Renewable is affordable: When petrol prices skyrocketed in the early 1980s, I asked my father how much petrol had cost when he learned to drive as a young man in New York in the 1930s....",
+  "summary": "Renewable is affordable: When petrol prices skyrocketed in the early 1980s, I asked my father how much petrol had cost when he learned to drive as a young man in New York in the 1930s. His answer: 20 US cents per gallon, or 5 Swiss cents per litre. However, this seeming affordability was a façade: when measured against wages and living costs, driving a car in the 1930s was actually more expensive than in the 1980s....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 889,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Faculty"
     ],
@@ -49,6 +57,26 @@
       "Catering",
       "Sustainability",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.2,
+      "avg_word_length": 4.67,
+      "long_word_percentage": 21.37
+    },
+    "semantic_entities": {
+      "locations": [
+        "New York",
+        "Africa"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1980",
+          "1930"
+        ]
+      }
+    }
   }
 }

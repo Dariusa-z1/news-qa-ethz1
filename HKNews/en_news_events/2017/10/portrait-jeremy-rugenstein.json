@@ -11,10 +11,8 @@
     "New Mexico",
     "Cibola National Forest",
     "Earth Surface Dynamics",
-    "Fossil",
-    "Zurich",
-    "What",
-    "American"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Weather & Environment",
@@ -29,18 +27,28 @@
     "Rugenstein",
     "Climate",
     "Carbon",
-    "With",
     "Rock",
-    "This"
+    "Research",
+    "Which"
   ],
-  "summary": "",
+  "summary": "Fossil soils hold climate data: Jeremy Rugenstein, a postdoc at ETH Zurich’s Geological Institute, is posing some pressing questions: What will happen to the earth if humans continue releasing carbon dioxide into the atmosphere? How will temperature, precipitation and vegetation change?...",
+  "content_structure": {
+    "paragraph_count": 16,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1043,
     "readability_score": "moderately complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +60,40 @@
       "Research",
       "Education",
       "Weather"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.45,
+      "avg_word_length": 4.95,
+      "long_word_percentage": 26.46
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Fossil",
+        "Jeremy Rugenstein",
+        "Zurich",
+        "Geological Institute"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Mongolia",
+        "Switzerland",
+        "Central Asia",
+        "China",
+        "Antarctica"
+      ],
+      "departments": [
+        "Geological"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017"
+        ]
+      }
+    }
   }
 }

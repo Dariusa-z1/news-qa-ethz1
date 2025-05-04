@@ -6,15 +6,9 @@
   "main_content": "Main article: With the launch of the new Public Real Estate Management (PREM) division website, new maps of ETH Zurich were made available at the beginning of the week. A total of four maps are on offer in colour or black and white: Zentrum campus, Hönggerberg campus, locations in the Zurich region, and the more distant university locations.\n\nYou can add simple annotations to the maps in PDF format, such as building locations. The PREM Division updates the maps regularly, ensuring consistently high quality. It is recommended to always use the latest version of the maps on the PREM website.\n\nPlease note:: As of 1 January 2016, the former infrastructure division will be named administrative departments.",
   "named_entities": [
     "Public Real Estate Management",
-    "Main",
-    "With",
-    "PREM",
-    "Zurich",
-    "Zentrum",
-    "Hönggerberg",
-    "Division",
-    "January",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Infrastructure",
@@ -30,14 +24,24 @@
     "Locations",
     "Website"
   ],
-  "summary": "Main article: With the launch of the new Public Real Estate Management (PREM) division website, new maps of ETH Zurich were made available at the beginning of the week....",
+  "summary": "Main article: With the launch of the new Public Real Estate Management (PREM) division website, new maps of ETH Zurich were made available at the beginning of the week. A total of four maps are on offer in colour or black and white: Zentrum campus, Hönggerberg campus, locations in the Zurich region, and the more distant university locations....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 116,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Administration",
@@ -47,6 +51,22 @@
       "Infrastructure",
       "Administrative",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.33,
+      "avg_word_length": 4.95,
+      "long_word_percentage": 25.0
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016"
+        ]
+      }
+    }
   }
 }

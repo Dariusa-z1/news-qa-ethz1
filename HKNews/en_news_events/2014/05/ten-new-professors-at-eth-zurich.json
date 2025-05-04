@@ -30,17 +30,27 @@
     "Zurich",
     "Currently",
     "Research",
-    "With",
-    "Assistant"
+    "Assistant",
+    "Department"
   ],
-  "summary": "Main article: Dr Orçun Göksel (*1979), currently a post-doctoral student at ETH Zurich, as Assistant Professor of Computer-assisted Applications in Medicine....",
+  "summary": "Main article: Dr Orçun Göksel (*1979), currently a post-doctoral student at ETH Zurich, as Assistant Professor of Computer-assisted Applications in Medicine. Orçun Göksel is a promising young researcher in the fields of radiological imaging, the application of statistical shape models for the patient-specific planning of surgical interventions, and the use of ultrasound for diagnostic and therapeutic purposes....",
+  "content_structure": {
+    "paragraph_count": 23,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 8,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1769,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -53,6 +63,42 @@
       "Catering",
       "Sustainability",
       "Infrastructure"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.06,
+      "avg_word_length": 5.64,
+      "long_word_percentage": 38.33
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "Villigen (Aargau) and Lecturer at the Department of Environmental Systems Science at ETH Zurich",
+      "authors": [
+        "Göksel",
+        "Zurich",
+        "Assistant Professor"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Swiss",
+        "Pittsburgh",
+        "Carnegie Mellon University",
+        "Friedrich Schiller University",
+        "Medicine"
+      ],
+      "departments": [
+        "Associate at the Paul Scherrer",
+        "Biology expects the appointment of",
+        "Scientist and Lecturer at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1979",
+          "1976"
+        ]
+      }
+    }
   }
 }

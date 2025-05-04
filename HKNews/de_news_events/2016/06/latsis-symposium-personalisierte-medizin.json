@@ -12,9 +12,9 @@
     "Personalisierte Medizin",
     "Roger Stupp",
     "Universitätsspital Zürich",
-    "Der Bioinformatiker Thomas Lengauer",
     "Max-Planck-Institut",
-    "Aids-Medikamente"
+    "Aids-Medikamente",
+    "Aids-Patienten"
   ],
   "topics": [
     "Staff",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Fachleute sehen es als vielversprechende Weiterentwicklung der Medizin: Patientendaten sollen anonymisiert und standardisiert in grossen Datenbanken gruppiert werden....",
+  "summary": "Main article: Fachleute sehen es als vielversprechende Weiterentwicklung der Medizin: Patientendaten sollen anonymisiert und standardisiert in grossen Datenbanken gruppiert werden. Interessierte Forscher und behandelnde Ärzte hätten darauf Zugriff und könnten die Daten auswerten....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 701,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +62,40 @@
       "Research",
       "Events",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.91,
+      "avg_word_length": 6.4,
+      "long_word_percentage": 40.51
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Fachleute",
+        "Weiterentwicklung",
+        "Medizin",
+        "Patientendaten"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Mensch",
+        "Zukunft",
+        "Grossprojekt",
+        "Saarbrücken",
+        "Spitälern"
+      ],
+      "departments": [
+        "Informatik in Saarbrücken",
+        "Precision Medicine",
+        "Rubin leitet dort das"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

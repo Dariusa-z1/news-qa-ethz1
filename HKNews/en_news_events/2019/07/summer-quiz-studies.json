@@ -5,9 +5,8 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Would you have believed it? In the summer quiz series, we take you on a tour of discovery through remarkable, peculiar and fun facts from ETH Zurich’s research and teaching. This edition addresses studying and students at ETH.",
   "named_entities": [
-    "Would",
-    "Zurich",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -23,14 +22,24 @@
     "Quiz",
     "Series"
   ],
-  "summary": "Would you have believed it? In the summer quiz series, we take you on a tour of discovery through remarkable, peculiar and fun facts from ETH Zurich’s research and teaching....",
+  "summary": "Would you have believed it? In the summer quiz series, we take you on a tour of discovery through remarkable, peculiar and fun facts from ETH Zurich’s research and teaching. This edition addresses studying and students at ETH.",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 39,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -39,6 +48,27 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.0,
+      "avg_word_length": 4.69,
+      "long_word_percentage": 28.21
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zurich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

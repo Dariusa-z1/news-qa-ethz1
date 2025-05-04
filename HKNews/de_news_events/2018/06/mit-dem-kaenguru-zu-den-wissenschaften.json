@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Viele Kinder sammeln die Bildchen der Fussball-WM in Russland. Auch die Söhne von Marloes Maathuis. Kaufen kann man die Bildchen in Päckchen mit fünf Karten. Getauscht werden die doppelten....",
+  "summary": "Viele Kinder sammeln die Bildchen der Fussball-WM in Russland. Auch die Söhne von Marloes Maathuis. Kaufen kann man die Bildchen in Päckchen mit fünf Karten....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 454,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -50,6 +60,38 @@
       "Research",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.13,
+      "avg_word_length": 5.67,
+      "long_word_percentage": 33.7
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Viele Kinder",
+        "Bildchen",
+        "Fussball",
+        "Russland"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Russland",
+        "Sarah Springman",
+        "Marloes Maathuis",
+        "Päckchen",
+        "Bauingenieurin"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "35000"
+        ]
+      }
+    }
   }
 }

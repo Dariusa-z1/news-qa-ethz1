@@ -6,8 +6,8 @@
   "main_content": "The condition is that the corresponding author of the article concerned is employed by ETH Zurich. Only charges for pure open-access journals will be covered.\n\nWhen submitting the manuscript via the online form for the specific Wiley Open Access Journal choose ETH Zurich as institution from the drop-down menu.",
   "named_entities": [
     "Wiley Open Access Journal",
-    "Zurich",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Catering & Food"
@@ -16,25 +16,57 @@
     "ETH Zurich",
     "Zurich",
     "Condition",
-    "That",
     "Corresponding",
     "Author",
-    "Article"
+    "Article",
+    "Concerned"
   ],
-  "summary": "The condition is that the corresponding author of the article concerned is employed by ETH Zurich. Only charges for pure open-access journals will be covered....",
+  "summary": "The condition is that the corresponding author of the article concerned is employed by ETH Zurich. Only charges for pure open-access journals will be covered. When submitting the manuscript via the online form for the specific Wiley Open Access Journal choose ETH Zurich as institution from the drop-down menu....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 51,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.0,
+      "avg_word_length": 5.04,
+      "long_word_percentage": 25.49
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zurich",
+        "Wiley Open Access Journal"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

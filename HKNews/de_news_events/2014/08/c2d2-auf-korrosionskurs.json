@@ -1,20 +1,20 @@
 {
   "language": "de",
   "title": "C2d2 Auf Korrosionskurs",
-  "date": "2014-08-01",
+  "date": "2015-08-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Korrosion gefährdet die Schweizer Infrastruktur: Über 3500 Autobahnbrücken in der Schweiz bringen uns jederzeit sicher und schnell über Taleinschnitte, Bäche, Flüsse oder Verkehrswege. Hinzu kommen Tausende von Brücken von Kantonsstrassen. Zwei Eigenschaften haben die meisten von ihnen gemeinsam: Sie sind unabdingbar für die Schweizer Verkehrsinfrastruktur und sie bestehen aus Stahlbeton. Dadurch sind sie sicher und langlebig – zumindest solange, bis die Korrosion einsetzt.\n\nEin Roboter soll Korrosion aufspüren: Unter Korrosion wird die Zerstörung des Bewehrungsstahls im Beton aufgrund von eindringendem Chlorid aus dem Tausalz oder die Neutralisation des Betons durch CO 2 aus der Atmosphäre verstanden. Die Zerstörung schreitet mit der Zeit immer stärker voran und ist meist erst dann sichtbar, wenn sie schon sehr fortgeschritten ist. Dies kann auf Dauer die Gebrauchstauglichkeit und die Sicherheit der Brücken und anderer Stahlbetontragwerke gefährden. Ausserdem verschlingt die Sanierung dieser Brücken grosse Summen, denn je grösser die Schäden aufgrund der Korrosion, desto teurer ist die Reparatur. «Hinzu kommt, dass viele Brücken in der Schweiz mittlerweile über 50 Jahre alt sind, wodurch die Korrosion zu einem immer grösseren Problem für die Schweizer Infrastruktur wird», erklärt Bernhard Elsener, Professor am Institut für Baustoffe der ETH Zürich.\n\nZusammen mit einem Forscherteam entwickelte er deshalb schon vor 25 Jahren eine Technologie, um die Korrosion frühzeitig zu erkennen: Sie befestigten eine Elektrode auf einem Rad und fuhren damit über die Oberfläche des Stahlbetons. Dabei misst der Sensor das unterschiedliche elektrische Potenzial des geprüften Stahlbetons. Grössere Differenzen des Potenzials bedeuten, dass die Bewehrung des Betons in diesen Bereichen bereits begonnen hat zu korrodieren. Die Messdaten werden an einen Rechner übertragen und ausgewertet.\n\nDiese Technologie, die Potenzialfeldmessung, werde schon seit Längerem erfolgreich bei der Inspektion von Brücken angewandt, sagt Elsener. Ein Problem besteht jedoch weiterhin: «Die Radelektrode ist an einem Stock befestigt und muss mit der Hand geführt werden. Dadurch können viele Bereiche wie beispielsweise Stützen und Unterseiten von hohen Brücken nicht erfasst werden», erklärt Elsener.\n\nOliver Glauser, Prof. Bernhard Elsener und Prof. Robert Flatt mit C2D2 (v.l.n.r.).\n\nAus Paraswift wird C2D2: Um dieses Problem zu lösen, schloss sich das Institut für Baustoffe mit dem Institut für Robotik und Intelligente Systeme zusammen und bildete ein Projektteam bestehend aus Bernhard Elsener, Alexis Leibbrandt, Oliver Glauser, Ueli Angst und Robert Flatt vom Institut für Baustoffe, sowie Gilles Caprari vom Autonomous Systems Lab der ETH Zürich. Das Ziel war es, einen Roboter zu entwickeln, der in der Lage ist, Korrosion im frühsten Stadium und auch an für Menschen unzugänglichen Stellen aufzuspüren. Die Forscher mussten indes nicht lange nach einer Lösung suchen: «In einem unserer Fokusprojekte haben Studierende vor vier Jahren einen Roboter entwickelt, der in der Lage ist, sich sowohl am Boden als auch an Wänden und Decken fortzubewegen. Für das geplante Projekt war er deshalb ideal», erzählt Roland Siegwart, Professor am Institut für Robotik und Intelligente Systeme und Vizepräsident Forschung und Wirtschaftsbeziehungen der ETH Zürich.\n\nDie Fortbewegung dieses Roboters basiert auf der sogenannten Vortex-Technologie: Auf der Unterseite des Roboters befindet sich eine Art Propeller, der sich so schnell dreht, dass der Roboter durch den entstehenden Unterdruck an Wänden und Decken angesaugt wird und sich mit Hilfe seiner Räder fortbewegen kann. Gesteuert wird er mittels Fern- oder Computersteuerung.\n\nErste Tests waren erfolgreich: «Ursprünglich hiess der Roboter Paraswift und wurde mit Hinblick auf die Nutzung durch Disney entwickelt. Wenn an dem Roboter eine Kamera angeschraubt wird, kann ein Raum problemlos aus allen Perspektiven gefilmt werden», erklärt Siegwart. Für das neue Projekt der beiden Institute wurde Paraswift in C2D2 («Climbing Corrosion Detecting Device») umgetauft und an die neue Nutzung als Korrosions-Entdecker angepasst: «Wir haben das Gehäuse und die Räder robuster gestaltet und die Technologie zur Erkennung von Korrosion eingebaut», so Elsener, der das Projekt leitet.\n\nDie Elektrode befindet sich auf der Unterseite des Roboters und misst die Potenzialdifferenz des Stahlbetons während sich der Roboter auf dem Bauwerk fortbewegt. Diese Daten muss ein Spezialist anschliessend auswerten. Zudem montierten die Ingenieure eine rosa Kugel auf der Oberseite des Roboters, damit ihn Kameras leicht erkennen und die Forscher ihn somit orten und besser steuern können. In dieser Kugel befindet sich eine weitere Kamera, welche die Umgebung aufnimmt. Dadurch können mögliche Hindernisse erkannt und umfahren werden.\n\nC2D2 wird an der Einsteinbrücke am ETH Standort Hönggerberg getestet.\n\nBis zum Ende des Projekts Mitte 2015 soll der Roboter solche Hindernisse selbst erkennen und umfahren können. Ausserdem wollen die Forscher die manuelle Steuerung des Roboters durch ein Navigationssystem ersetzen, welches den Roboter autonom werden lässt. Und sie sind daran, eine Software zu entwickeln, welche die vielen Messdaten zum grossen Teil selbst auswertet.\n\nBereits im Jahr 2012 meldete das Projektteam den Roboter zum Patent an. Firmen, die sich für eine externe Seite Lizenz interessieren, können sich bei ETH transfer, der Technologietransferstelle der ETH, melden. Bislang wurde C2D2 schon an verschiedenen Brücken in der Schweiz getestet, und er hat sich weitgehend bewährt. Einzig das Fahren auf vertikalen Ebenen müssen die Ingenieure noch optimieren. Bis zum Ende des Projekts werden weitere Tests folgen. Auf Grundlage der Ergebnisse wird das Bundesamt für Strassen (Astra), das das Projekt finanziert, entscheiden, ob C2D2 künftig für die regelmässigen Inspektionen der Brücken eingesetzt werden soll. Dazu würde Professor Elsener in jedem Fall raten: «C2D2 kann mit relativ geringen Kosten zu einer sicheren und nachhaltigen Infrastruktur verhelfen – und das war auch die Motivation für das Projekt.»\n\nAm 13. Juni 2014 wurde C2D2 in einem internationalen Wettbewerb auf der externe Seite Concrete Innovation Conference (COIN) mit einem Award in der Kategorie «Prolongation of service life» ausgezeichnet. Dieser Wettbewerb fand dieses Jahr zum ersten Mal statt.",
   "named_entities": [
     "Schweizer Infrastruktur",
     "Zwei Eigenschaften",
     "Schweizer Verkehrsinfrastruktur",
-    "Ein Roboter",
-    "Unter Korrosion",
-    "Die Zerstörung",
     "Bernhard Elsener",
     "Grössere Differenzen",
-    "Die Messdaten",
-    "Diese Technologie"
+    "Diese Technologie",
+    "Oliver Glauser",
+    "Robert Flatt",
+    "Aus Paraswift",
+    "Intelligente Systeme"
   ],
   "topics": [
     "Technology & Innovation",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Korrosion gefährdet die Schweizer Infrastruktur: Über 3500 Autobahnbrücken in der Schweiz bringen uns jederzeit sicher und schnell über Taleinschnitte, Bäche, Flüsse oder Verkehrswege....",
+  "summary": "Korrosion gefährdet die Schweizer Infrastruktur: Über 3500 Autobahnbrücken in der Schweiz bringen uns jederzeit sicher und schnell über Taleinschnitte, Bäche, Flüsse oder Verkehrswege. Hinzu kommen Tausende von Brücken von Kantonsstrassen. Zwei Eigenschaften haben die meisten von ihnen gemeinsam: Sie sind unabdingbar für die Schweizer Verkehrsinfrastruktur und sie bestehen aus Stahlbeton....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 917,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -50,6 +60,44 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.98,
+      "avg_word_length": 5.84,
+      "long_word_percentage": 37.4
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Korrosion",
+        "Schweizer Infrastruktur",
+        "Autobahnbrücken",
+        "Schweiz",
+        "Taleinschnitte"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Roboter",
+        "Spezialist",
+        "Raum",
+        "Problem",
+        "Navigationssystem"
+      ],
+      "departments": [
+        "Angst und Robert Flatt vom",
+        "für Baustoffe mit dem",
+        "Professor am"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "3500",
+          "2015"
+        ]
+      }
+    }
   }
 }

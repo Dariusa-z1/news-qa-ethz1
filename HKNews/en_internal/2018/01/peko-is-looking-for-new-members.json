@@ -6,15 +6,15 @@
   "main_content": "Main article: Do you want to play an active role in representing the interests of the ETH staff? As a member of the ETH Zurich Staff Commission, you can do just that. For the upcoming term of office, the Commission is looking for committed, innovative ETH employees from the administrative and technical areas who are prepared to play an active role in representing the interests and concerns of the staff. Existing members may be re-elected for the new term.\n\nMembers must play an ongoing, active role in the Commission and be willing to invest time in the position. Anyone who has been working at ETH Zurich in an ongoing, permanent position for at least six months and with an employment level of at least 50% is eligible to apply. The Commission language is German. The next term of office will run from August 2018 to 2021.\n\nAre you interested? If so, please send your application to the election office by 2 May 2018 and include the heading “Staff Commission reelections”. Please include your personal details, a photo, a short CV, your place of work and your position, together with a brief cover letter.\n\nETH Zurich Election office “Staff Commission reelections ” Lukas Vonesch Head of Human Resources HR department Turnerstrasse 1 8092 Zurich\n\nFurther Information: The Staff Commission represents the interests of the administrative and technical staff to the Executive Board. It acts as a link and promotes collaboration between the Executive Board and ETH employees. More information can be found at: www.peko.ethz.ch\n\nAbout the elections: www.peko.ethz.ch/infos/reglement\n\nAndré Blanchard, President of PeKo Tel.: +41 44 633 26 03 E-Mail:\n\nFurther information: ETH Zurich Staff Commission\n\nHR: Employment and Work News",
   "named_entities": [
     "Zurich Staff Commission",
-    "The Commission",
     "Staff Commission",
     "Zurich Election",
     "Lukas Vonesch Head",
     "Human Resources",
     "Zurich Further Information",
-    "The Staff Commission",
     "Executive Board",
-    "Work News"
+    "Work News",
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -32,14 +32,24 @@
     "Your",
     "Play"
   ],
-  "summary": "Main article: Do you want to play an active role in representing the interests of the ETH staff? As a member of the ETH Zurich Staff Commission, you can do just that....",
+  "summary": "Main article: Do you want to play an active role in representing the interests of the ETH staff? As a member of the ETH Zurich Staff Commission, you can do just that. For the upcoming term of office, the Commission is looking for committed, innovative ETH employees from the administrative and technical areas who are prepared to play an active role in representing the interests and concerns of the staff....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 289,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff"
     ],
@@ -47,6 +57,28 @@
       "Technology",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.76,
+      "avg_word_length": 4.82,
+      "long_word_percentage": 25.26
+    },
+    "semantic_entities": {
+      "locations": [
+        "August"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "peko.ethz.ch",
+          "peko.ethz.ch"
+        ],
+        "phones": [
+          "2018",
+          "2021"
+        ]
+      }
+    }
   }
 }

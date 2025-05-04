@@ -1,20 +1,15 @@
 {
   "language": "en",
   "title": "Staff and students at ETH Zurich will receive a new ETH card this summer. This card will have a new design: the green look that was introduced back in 2008 will be replaced with a blue of the ETH Zurich corporate design.",
-  "date": "2015-05-01",
+  "date": "2008-05-01",
   "source": "ETH Zurich, University Communications",
   "main_content": "Staff and students at ETH Zurich will receive a new ETH card this summer. This card will have a new design: the green look that was introduced back in 2008 will be replaced with a blue of the ETH Zurich corporate design.\n\nThe new card is fitted with an updated version of the RFID chip already in use. The electronic functions of the ETH card and the card management system are the same as before, and the information included on the card will also remain the same. The card will still feature the ETH logo, employee information, name, date of birth, validity period, professional role, organisational responsibilities, identification number and, if applicable, access to ASVZ facilities and services.\n\nThe old ETH card will be replaced by the new one from July for students and new employees. ETH Zurich employees who already have an ETH card will receive a new card by post from mid-August. They must then validate the card at one of the existing terminals. The old ETH cards will no longer be accepted from around October 2015.\n\nStarting now, employees who have not updated their photograph for more than three years will be asked to replace it. To do this, they can upload a new passport-sized photograph that is suitable for identification purposes at www.adresses.ethz.ch .\n\nLike ETH Zurich, the University of Zurich will also be launching a new UZH card for their staff and students this year, which will be similar in form and function to the new ETH card. Having the two universities use a similar card has proven effective since 2008.",
   "named_entities": [
-    "Staff",
-    "Zurich",
-    "RFID",
-    "ASVZ",
-    "July",
-    "August",
-    "October",
-    "University",
     "ETH Zurich",
-    "University of Zurich"
+    "ETH",
+    "University of Zurich",
+    "UZH",
+    "ASVZ"
   ],
   "topics": [
     "Infrastructure",
@@ -33,14 +28,24 @@
     "Card",
     "Will"
   ],
-  "summary": "Staff and students at ETH Zurich will receive a new ETH card this summer....",
+  "summary": "Staff and students at ETH Zurich will receive a new ETH card this summer. This card will have a new design: the green look that was introduced back in 2008 will be replaced with a blue of the ETH Zurich corporate design. The new card is fitted with an updated version of the RFID chip already in use....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 270,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff",
@@ -50,6 +55,27 @@
       "Technology",
       "Administrative",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.88,
+      "avg_word_length": 4.6,
+      "long_word_percentage": 20.0
+    },
+    "semantic_entities": {
+      "locations": [
+        "July"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "adresses.ethz.ch"
+        ],
+        "phones": [
+          "2008",
+          "2015"
+        ]
+      }
+    }
   }
 }

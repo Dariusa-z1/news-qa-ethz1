@@ -11,10 +11,10 @@
     "Zeit Rituale",
     "Am Morgen",
     "Gudela Grote",
-    "Die Grenze",
     "Ihren Alltag",
     "Arbeit Kinder",
-    "Arbeitszeit Grenzen"
+    "Arbeitszeit Grenzen",
+    "Gegen Ende"
   ],
   "topics": [
     "Staff",
@@ -33,13 +33,23 @@
     "Education"
   ],
   "summary": "Eigentlich geht es mir gut: Aufstehen. Kaffeemaschine anstellen. Computer starten. Duschen. Trainer-hose und T-Shirt anziehen. Mails checken. Und ab ins erste Zoom-Meeting....",
+  "content_structure": {
+    "paragraph_count": 15,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1262,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff",
       "Faculty",
@@ -51,6 +61,41 @@
       "Research",
       "Communications",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.97,
+      "avg_word_length": 5.69,
+      "long_word_percentage": 30.98
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Eigentlich",
+        "Aufstehen",
+        "Kaffeemaschine",
+        "Computer",
+        "Duschen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Nacken",
+        "Thema",
+        "Rundgang",
+        "Gudela Grote",
+        "Spaziergang"
+      ],
+      "departments": [
+        "zeigt sich auch in einer"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2100"
+        ]
+      }
+    }
   }
 }

@@ -9,12 +9,8 @@
     "Universitätsspitals Zürich",
     "Unser Gerät",
     "Mitgründer Philippe Ganz",
-    "Das Besondere",
-    "Eine",
-    "Intubation",
-    "Luftröhre",
-    "Leben",
-    "Komplikationen"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -32,14 +28,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Eine erfolgreiche Intubation der Luftröhre kann Leben retten. Doch immer wieder kommt es dabei zu Komplikationen, denn der Eingriff ist anspruchsvoll und erfordert viel Erfahrung....",
+  "summary": "Eine erfolgreiche Intubation der Luftröhre kann Leben retten. Doch immer wieder kommt es dabei zu Komplikationen, denn der Eingriff ist anspruchsvoll und erfordert viel Erfahrung. aiEndoscopic, ein Spin-off der ETH Zürich, der Universität Zürich und des Universitätsspitals Zürich, hat nun ein Gerät entwickelt, das Intubieren in Zukunft einfacher und sicherer machen soll....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 145,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -49,6 +55,27 @@
       "Technology",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.12,
+      "avg_word_length": 5.86,
+      "long_word_percentage": 35.17
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zukunft",
+        "Spin",
+        "Gerät",
+        "Echtzeit"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "500 000"
+        ]
+      }
+    }
   }
 }

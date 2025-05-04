@@ -8,13 +8,13 @@
     "Audi Max",
     "Professor Leonardo Degiorgi",
     "Physics Department",
-    "The University",
     "Professor Degiorgi",
     "Lukas Vonesch",
     "Human Resources",
     "Executive Board",
     "Fabienne Jaquet",
-    "Vocational Education"
+    "Vocational Education",
+    "But Patricia Gsell"
   ],
   "topics": [
     "Technology & Innovation",
@@ -29,18 +29,28 @@
     "Their",
     "Apprentices",
     "Apprenticeship",
-    "With",
     "They",
-    "Them"
+    "Them",
+    "Vocational"
   ],
-  "summary": "The toolkit will come in handy: ETH Zurich is well known as a prominent university. But for a lucky few, it also offers the opportunity of an apprenticeship or traineeship....",
+  "summary": "The toolkit will come in handy: ETH Zurich is well known as a prominent university. But for a lucky few, it also offers the opportunity of an apprenticeship or traineeship. Vocational training takes the form of technical and commercial apprenticeships, with 165 apprentices and trainees currently registered....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 10,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 679,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff",
@@ -53,6 +63,27 @@
       "Technology",
       "Education",
       "Administrative"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.86,
+      "avg_word_length": 5.49,
+      "long_word_percentage": 33.73
+    },
+    "semantic_entities": {
+      "locations": [
+        "Vocational Education"
+      ],
+      "departments": [
+        "administrative director of the Physics",
+        "four years in the Physics"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "rolls.....and"
+        ],
+        "phones": []
+      }
+    }
   }
 }

@@ -13,8 +13,8 @@
     "Information Technology",
     "Electrical Engineering",
     "Swiss Data Science Center",
-    "Zurich",
-    "School"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -29,18 +29,28 @@
     "Programme",
     "Science",
     "Data",
-    "From",
     "Continuing",
-    "Education"
+    "Education",
+    "Course"
   ],
-  "summary": "ETH Zurich’s continuing education offensive is gathering pace....",
+  "summary": "ETH Zurich’s continuing education offensive is gathering pace. After launching the School for Continuing Education with Einstein in April and presenting new programmes in cybersecurity and materials and manufacturing technology, the university is already presenting another new course: the Diploma of Advanced Studies ETH in Data Science....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 297,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -51,6 +61,39 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.85,
+      "avg_word_length": 5.36,
+      "long_word_percentage": 34.68
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "Data Science",
+      "authors": [
+        "Zurich",
+        "School",
+        "Continuing Education",
+        "Einstein"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "April",
+        "Autumn Semester",
+        "Data Science"
+      ],
+      "departments": [
+        "continuing education programme are the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017",
+          "2017"
+        ]
+      }
+    }
   }
 }

@@ -7,10 +7,8 @@
   "named_entities": [
     "Academic Association",
     "Scientific Staff",
-    "AVETH",
-    "Zurich",
-    "AVETHnews",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -27,20 +25,44 @@
     "Department",
     "Apart"
   ],
-  "summary": "At the beginning of each year, AVETH (Academic Association of Scientific Staff at ETH Zurich) issues the AVETH, the annual report of AVETH....",
+  "summary": "At the beginning of each year, AVETH (Academic Association of Scientific Staff at ETH Zurich) issues the AVETH, the annual report of AVETH. Here, AVETH informs on the activities and events of the past year and provides and outlook for the new year. Apart from the introduction of the various working group of AVETH, also the department associations are presented....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 121,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff"
     ],
     "context_tags": [
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 24.2,
+      "avg_word_length": 5.21,
+      "long_word_percentage": 29.75
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

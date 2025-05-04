@@ -7,14 +7,14 @@
   "named_entities": [
     "Reto Knutti",
     "Stiftungsratspräsident Carlo Schmid-Sutter",
-    "Die Auszeichnung",
     "Brandenberger-Stiftung",
     "Präsident Lino Guzzella",
-    "Der Preis",
     "Stiftung Dr",
-    "Die Stiftung Dr",
     "Einstellung Frauen",
-    "Irma Marthe Brandenberger"
+    "Irma Marthe Brandenberger",
+    "Cellophan-Erfinders Dr",
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Sustainability",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Der mit 200'000 Franken dotierte Preis zählt zu den höchsten Stiftungspreisen in der Schweiz....",
+  "summary": "Main article: Der mit 200'000 Franken dotierte Preis zählt zu den höchsten Stiftungspreisen in der Schweiz. Dabei werden Persönlichkeiten ausgezeichnet, die sich der Verbesserung der Lebensbedingungen von Menschen verschrieben und sich dabei besondere Verdienste erworben haben....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 371,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -49,6 +59,38 @@
       "Sustainability",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.27,
+      "avg_word_length": 6.05,
+      "long_word_percentage": 34.23
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Franken",
+        "Stiftungspreisen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Knutti",
+        "Zukunft",
+        "Zürich"
+      ],
+      "departments": [
+        "die Gruppe für Klimaphysik am",
+        "Atmosphäre und Klima des Departements",
+        "für Atmosphäre und Klima des"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2018"
+        ]
+      }
+    }
   }
 }

@@ -13,8 +13,8 @@
     "Infrastrukturbereich Immobilien",
     "Im Inneren",
     "Drei Terrassen",
-    "Angehörige",
-    "Mittwoch"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "ETH-Angehörige haben am Mittwoch, 16. September von 11 bis 13 Uhr die Möglichkeit, das neue Gebäude zu besichtigen und anhand einer vorbereiteten Führung Näheres zu erfahren....",
+  "summary": "ETH-Angehörige haben am Mittwoch, 16. September von 11 bis 13 Uhr die Möglichkeit, das neue Gebäude zu besichtigen und anhand einer vorbereiteten Führung Näheres zu erfahren. Danach findet ein Anlass für geladene Gäste statt....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 126,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students"
     ],
@@ -49,6 +59,33 @@
       "Technology",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.75,
+      "avg_word_length": 6.33,
+      "long_word_percentage": 37.3
+    },
+    "temporal_info": {
+      "event_dates": [
+        "11 bis"
+      ],
+      "time_references": [],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Anlass"
+      ],
+      "departments": [
+        "für Mikrobiologie des",
+        "sowie dem",
+        "Mikrobiologie des Departementes Biologie"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

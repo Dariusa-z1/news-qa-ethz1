@@ -1,7 +1,7 @@
 {
   "language": "en",
   "title": "Where Structure And Ornamentation Merge",
-  "date": "2018-07-01",
+  "date": "2017-07-01",
   "source": "ETH Zurich, University Communications",
   "main_content": "Only as much concrete as needed: Just 20 mm thick at its thinnest point, decoratively ribbed and not even half as heavy as a conventional concrete ceiling: with “Smart Slab”, the name says it all. The slab combines the structural strength of concrete with the design freedom of 3D printing. Developed by the research group of Benjamin Dillenburger, Assistant Professor for Digital Building Technologies at ETH Zurich, Smart Slab is one of the core elements of the residential unit DFAB House (see box) at Empa’s and Eawag’s research and innovation platform NEST in Dübendorf. The 80 m 2 , 15 tonne ceiling consists of eleven concrete segments and connects the lower floor with the two-storey timber volume above.\n\n3D concrete printing is currently experiencing a boom in architecture, and entire houses have already been printed layer by layer. However, for the Smart Slab project, the researchers did not produce the building components themselves with 3D printing but rather the formwork – i.e. the mould. To achieve this, they used a large-scale 3D sand printer, which means the resulting moulds consist of a kind of artificial sandstone. One of the advantages over the layered concrete printing process is that high performant fibre-reinforced concrete can be used and the structure can be fabricated in the precision of millimetres.\n\nThe structural principle of the Smart Slab is a hierarchical grid of post-tensioned ribs cantilevering from the Mesh Mould Wall. (Photograph: ETH Zurich / Andrei Jipa)\n\nComputational design coordinates parameters: Formwork production is the most labour-intensive step in concrete construction, particularly for non-standardised components. Since concrete is relatively cheap and readily abundant, the temptation is for the construction industry to produce the same solid ceilings over and over again, but the disadvantage is excessive material consumption and implicitly, a big carbon footprint. Digital fabrication methods can make a key contribution here: components can be optimised, enabling the necessary stability with far less material. The geometric complexity of a component does not matter in 3D printing, nor does it cause any additional costs – the printer simply prints what it is told to.\n\nDillenburger’s research group developed a new software to fabricate the formwork elements, which is able to record and coordinate all parameters relevant to production. In addition to basic data such as room dimensions, the researchers also entered a scan of the curved wall, accurate down to the last millimetre, which acts as the main support for the concrete ceiling. With the software, one could adapt the geometry of the slab so that at each point it was applied only as thick as structurally necessary to support the force flow. “We didn’t draw the slab; we programmed it,” says Mania Aghaei Meibodi, Smart Slab project lead and senior researcher in Dillenburger’s group. “It would not have been possible to coordinate all these aspects with analogue planning, particularly with such precision.”\n\nIf you look at the ceiling from below, you see an organic ornamental structure with different hierarchies. The main ribs carry the loads, while the smaller filigree ribs are mainly used for architectural expression and acoustics. Statics and ornamentation go hand-in-hand.The lighting and sprinkler systems are also integrated into the slab structure. Their size and position were similarly coordinated with the planning software. In this way, the building technology disappears elegantly into the slab to occupy very little space. This saves only a few centimetres in the DFAB House project, but in high-rises this may mean a few extra floors could be fitted into the same height.\n\nAfter planning on the computer is completed, the fabrication data can then be exported to the machines at the push of a button. This is where several industry partners came into play for Smart Slab: one produced the high-resolution, 3D-printed sand formworks, which were divided into pallet-sized sections for printing and transport reasons, while another fabricated the timber formwork by means of CNC laser cutting. The latter gives shape to the upper part of the Smart Slab and leaves hollow areas that reduce material and weight and at the same time create space for electrical cables.\n\nStrong thanks to prestressing: The two types of formwork for the concreting were then brought together by a third company, which first sprayed the fibre-reinforced concrete onto the sand formwork to produce the finely ribbed surface of the lower concrete shell and then casted the remaining concrete into the timber formwork.\n\nAfter a two-week hardening process, the 11 individual concrete segments were ready for transport to the NEST. Thanks to the precise planning and prefabrication, the installation time at the construction site was reduced to a minimum: a crane hoisted the concrete elements onto the load-bearing wall, where the prestressing took place. Workers pulled steel cables lengthwise and crosswise through the concrete support and into the channels already inserted in the formwork. Tensioning the cables massively increases the system’s load capacity.\n\n“It was spectacular to see on the construction site how seamlessly our elements fitted with each other and with the existing components of the DFAB House,” says Dillenburger. “We owe this in part to the outstanding interdisciplinary collaboration with our partners. The meticulous work that we had invested into planning completely paid off.”\n\nDigitally designed, planned and built: Eight professors from ETH Zurich have come together as part of the National Centre of Competence in Research (NCCR) Digital Fabrication to build the DFAB House together with industry partners. The three-storey residential unit is located in NEST, Empa’s and Eawag’s research and innovation platform in Dübendorf. The fabrication of the Mesh Mould wall in May 2017 was the starting point for the world’s first building to combine several innovative digital construction processes under one roof. Completion is scheduled for early 2019, after which the DFAB House will serve as temporary accommodation for visiting researchers.\n\nSmart Slab partners: ETH Zurich research groups: Chair for Digital Building Technologies, Benjamin Dillenburger (lead); Chair for Building Materials, Robert Flatt; Chair of Structural Design, Joseph Schwartz\n\nIndustry partners: Bürgin Creations; Frutiger AG; voxeljet AG; Georg Ackermann GmbH; Stahlton AG; Christenguss AG; Fischer Rista AG; Rudolf Glauser AG; Gom International AG",
   "named_entities": [
@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "Concrete",
-    "With",
     "Slab",
     "Formwork",
-    "Into",
-    "Smart"
+    "Smart",
+    "Printing",
+    "Research"
   ],
-  "summary": "Only as much concrete as needed: Just 20 mm thick at its thinnest point, decoratively ribbed and not even half as heavy as a conventional concrete ceiling: with “Smart Slab”, the name says it all....",
+  "summary": "Only as much concrete as needed: Just 20 mm thick at its thinnest point, decoratively ribbed and not even half as heavy as a conventional concrete ceiling: with “Smart Slab”, the name says it all. The slab combines the structural strength of concrete with the design freedom of 3D printing....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1038,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +60,37 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 24.14,
+      "avg_word_length": 5.2,
+      "long_word_percentage": 31.21
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Smart Slab",
+        "Developed"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Research",
+        "Empa",
+        "Dübendorf",
+        "Dillenburger",
+        "Creations"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017",
+          "2019"
+        ]
+      }
+    }
   }
 }

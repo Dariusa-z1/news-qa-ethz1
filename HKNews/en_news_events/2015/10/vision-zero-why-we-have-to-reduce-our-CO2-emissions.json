@@ -7,14 +7,10 @@
   "named_entities": [
     "Next Wednesday",
     "Tony Patt",
-    "For Switzerland",
     "Professor Reto Knutti",
     "Policy Maker",
     "Capture Plant",
-    "Main",
-    "Klimarunde",
-    "Vision",
-    "Research"
+    "Reto Knutti"
   ],
   "topics": [
     "Sustainability",
@@ -26,21 +22,31 @@
   ],
   "keywords": [
     "Emissions",
-    "This",
-    "That",
     "Climate",
     "Have",
     "Budget",
-    "From"
+    "Past",
+    "Sensitivity",
+    "Atmosphere"
   ],
-  "summary": "Main article: Next Wednesday the third \" Klimarunde \" will take place. We titled the event “Vision zero”, as we will discuss the possible ways that could lead us to a CO 2 -neutral society....",
+  "summary": "Main article: Next Wednesday the third \" Klimarunde \" will take place. We titled the event “Vision zero”, as we will discuss the possible ways that could lead us to a CO 2 -neutral society. In this blog post, I would like to discuss the scientific background of this vision....",
+  "content_structure": {
+    "paragraph_count": 27,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1350,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +56,34 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.45,
+      "avg_word_length": 4.52,
+      "long_word_percentage": 23.11
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Next Wednesday",
+        "Klimarunde",
+        "Vision"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Knutti"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2030",
+          "1750"
+        ]
+      }
+    }
   }
 }

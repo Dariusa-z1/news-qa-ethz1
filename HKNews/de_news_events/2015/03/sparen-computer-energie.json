@@ -8,13 +8,13 @@
     "Online-Optimierung",
     "Welche Variante",
     "Welche Form",
-    "Die Position",
     "Smartphone-Apps",
     "Digitale Stromzähler",
     "Zwei Projekte",
     "Standby-Verbrauch",
-    "Die Daten",
-    "Prozent Heizungsenergie"
+    "Prozent Heizungsenergie",
+    "Rebound-Effekt",
+    "Zum Beispiel"
   ],
   "topics": [
     "Sustainability",
@@ -26,20 +26,31 @@
   ],
   "keywords": [
     "ETH Zurich",
+    "Costs",
     "University",
     "Research",
     "Science",
     "Campus",
     "Education"
   ],
-  "summary": "Online-Optimierung: Was ist die günstigste Route für die Lieferwagen des Fuhrparks? Welche Variante eines virtuellen Auto- oder Flugzeugprototyps schneidet im digitalen Windkanal am besten ab?...",
+  "summary": "Online-Optimierung: Was ist die günstigste Route für die Lieferwagen des Fuhrparks? Welche Variante eines virtuellen Auto- oder Flugzeugprototyps schneidet im digitalen Windkanal am besten ab? Welche Form der Brennkammer garantiert den höchsten Wirkungsgrad?...",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 676,
     "readability_score": "complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff"
@@ -49,6 +60,24 @@
       "Infrastructure",
       "Technology",
       "Weather"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.31,
+      "avg_word_length": 6.27,
+      "long_word_percentage": 37.57
+    },
+    "semantic_entities": {
+      "locations": [
+        "Smartphone",
+        "Auto",
+        "Sharing-Dienst"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

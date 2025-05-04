@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Übersetzung von digital zu DNA: Die britische Band Massive Attack gilt als Pionier des Trip-Hop, eines atmosphärisch klingenden elektronischen Musikstils mit eher langsamen Beats....",
+  "summary": "Übersetzung von digital zu DNA: Die britische Band Massive Attack gilt als Pionier des Trip-Hop, eines atmosphärisch klingenden elektronischen Musikstils mit eher langsamen Beats. Vor genau 20 Jahren ist ihr Album «Mezzanine» erschienen, mit dem ihr auch international der Durchbruch gelang und das ihr erfolgreichstes Album blieb....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 535,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,35 @@
       "Technology",
       "Research",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.58,
+      "avg_word_length": 5.68,
+      "long_word_percentage": 32.34
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Band Massive Attack",
+        "Pionier"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Wasser",
+        "Kompressionsverfahren",
+        "Kollege Reinhard Heckel"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "5000",
+          "5000"
+        ]
+      }
+    }
   }
 }

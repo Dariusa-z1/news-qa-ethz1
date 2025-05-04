@@ -10,11 +10,11 @@
     "Cas-System",
     "Latsis-Preis",
     "Lesen Sie",
-    "Die Latsis-Stiftung",
     "Reeders Giannis Latsis",
     "Schweizer Wissenschaftspreise",
-    "Die Preisträger",
-    "Wissenschaftsbetrieb Ausserordentliches"
+    "Wissenschaftsbetrieb Ausserordentliches",
+    "Auch Studierende",
+    "ETH Zürich"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Man könnte ihn als Werkzeugmacher der modernen Biologie bezeichnen....",
+  "summary": "Main article: Man könnte ihn als Werkzeugmacher der modernen Biologie bezeichnen. Randall Platt, Professor für Bioengineering am Departement für Biosysteme der ETH Zürich in Basel, hat in seiner noch jungen, aber ausgesprochen erfolgreichen Karriere schon viele Methoden und Technologien entwickelt, mit denen Forschende der Life Sciences in Labors weltweit arbeiten....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 302,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -50,6 +60,41 @@
       "Technology",
       "Research",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.89,
+      "avg_word_length": 5.89,
+      "long_word_percentage": 34.11
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Werkzeugmacher",
+        "Biologie",
+        "Randall Platt"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Labors",
+        "Basel",
+        "Porträt"
+      ],
+      "departments": [
+        "Professor für Bioengineering am",
+        "Biosysteme der"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "www.fondationlatsis.org"
+        ],
+        "phones": [
+          "2016",
+          "2017"
+        ]
+      }
+    }
   }
 }

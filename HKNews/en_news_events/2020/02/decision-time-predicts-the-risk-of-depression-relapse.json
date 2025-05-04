@@ -12,9 +12,9 @@
     "University Hospital Berlin",
     "Quentin Huys",
     "University College London",
-    "Stay",
-    "Depressive",
-    "JAMA"
+    "ETH Zurich",
+    "ETH",
+    "University of Zurich"
   ],
   "topics": [
     "Research",
@@ -26,20 +26,30 @@
   "keywords": [
     "ETH Zurich",
     "University of Zurich",
-    "That",
     "Have",
     "Relapse",
-    "This",
-    "Zurich"
+    "Zurich",
+    "University",
+    "People"
   ],
-  "summary": "Stay in bed or get up?: Depressive disorder is a major public health problem with an unpredictable course. It often recurs, with episodes of depression interspersed with periods of remission....",
+  "summary": "Stay in bed or get up?: Depressive disorder is a major public health problem with an unpredictable course. It often recurs, with episodes of depression interspersed with periods of remission. Many studies have shown that in order to reduce the risk of relapse, treatment should continue even after symptoms have disappeared....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 466,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -50,6 +60,30 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.64,
+      "avg_word_length": 4.87,
+      "long_word_percentage": 26.82
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Depressive"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Huys",
+        "University College London"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Lernfähige Applikation: «Hoi shaz i chume grad!» Kurznachrichten in Mundart zu schreiben, ist ein Phänomen unserer Zeit....",
+  "summary": "Lernfähige Applikation: «Hoi shaz i chume grad!» Kurznachrichten in Mundart zu schreiben, ist ein Phänomen unserer Zeit. Wer zum schnelleren Tippen gerne die Unterstützung eines Wörterbuchs nutzt, musste bisher allerdings mit Hochdeutsch Vorlieb nehmen....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 580,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -48,6 +58,38 @@
       "Technology",
       "Research",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.11,
+      "avg_word_length": 6.08,
+      "long_word_percentage": 36.38
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Lernfähige Applikation",
+        "Kurznachrichten",
+        "Mundart",
+        "Phänomen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Laura Peer",
+        "Schweizerdeutsch",
+        "Mundart",
+        "Schweizerdeutsches Wörterbuch",
+        "Phänomen"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2014"
+        ]
+      }
+    }
   }
 }

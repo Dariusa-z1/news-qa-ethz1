@@ -7,14 +7,14 @@
   "named_entities": [
     "Executive Board",
     "Christian Wolfrum",
-    "The Professor",
     "Translational Nutritional Biology",
     "Vice President",
     "Health Sciences",
     "Kathrin Teuscher",
     "Gerhard Tröster",
     "Peter Frischknecht",
-    "Margrith Leuthold"
+    "Margrith Leuthold",
+    "Swiss Federal Audit Office"
   ],
   "topics": [
     "Education",
@@ -30,17 +30,27 @@
     "Zurich",
     "External",
     "University",
-    "This",
-    "Executive"
+    "Executive",
+    "Board"
   ],
-  "summary": "New external ombudsperson: Medicine is one of the main focus areas of ETH Zurich....",
+  "summary": "New external ombudsperson: Medicine is one of the main focus areas of ETH Zurich. To further strengthen this area, as well as to promote and coordinate the various health initiatives, the Executive Board has appointed Christian Wolfrum (D-HEST) as the new Delegate for Medicine....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 824,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +62,36 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.62,
+      "avg_word_length": 5.02,
+      "long_word_percentage": 29.13
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "his function as Director of Studies for BSc Health Sciences at ETH Zurich he will continue to work closely with the Rector",
+      "authors": [
+        "Medicine",
+        "Zurich",
+        "Executive Board"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Basel",
+        "Zurich",
+        "Teuscher"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020",
+          "2020"
+        ]
+      }
+    }
   }
 }

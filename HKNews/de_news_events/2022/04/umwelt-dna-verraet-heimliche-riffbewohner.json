@@ -9,12 +9,12 @@
     "Solche Arten",
     "Um Fische",
     "Methode Einzug",
-    "Die Idee",
-    "Die Forschenden",
     "Universität Montpellier",
-    "The Proceedings",
     "Royal Society",
-    "Die Sichtbeobachtungen"
+    "Jahre Bestandserhebungen",
+    "Ohne Sichtbeobachtungen",
+    "Familie Scombridae",
+    "Schwarzspitzen-Riffhai"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Umwelt-DNA hilft Arten aufzuspüren: Tropische Korallenriffe sind bunt, schön – und artenreich. Besonders gross ist die Fischvielfalt....",
+  "summary": "Umwelt-DNA hilft Arten aufzuspüren: Tropische Korallenriffe sind bunt, schön – und artenreich. Besonders gross ist die Fischvielfalt. Forschende schätzen, dass weltweit bis zu 8000 Fischarten in Korallenriffen vorkommen....",
+  "content_structure": {
+    "paragraph_count": 21,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 934,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -49,6 +59,38 @@
       "COVID-19",
       "Sustainability",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.39,
+      "avg_word_length": 6.19,
+      "long_word_percentage": 36.51
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "der Fachzeitschrift «The Proceedings of the Royal Society» veröffentlicht",
+      "authors": [
+        "Umwelt",
+        "Tropische Korallenriffe",
+        "Besonders",
+        "Fischvielfalt"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Frankreich",
+        "Korallenriffen",
+        "Tauchgänge",
+        "Forschungsschiff"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "8000",
+          "2017"
+        ]
+      }
+    }
   }
 }

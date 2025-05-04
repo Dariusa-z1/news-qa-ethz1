@@ -7,14 +7,14 @@
   "named_entities": [
     "Rector Sarah Springman",
     "Executive Board",
-    "The Executive Board",
-    "The Association",
     "Golden Owl",
     "Credit Suisse Award",
     "Best Teaching",
     "Professor Laurent Vanbever",
     "Information Technology",
-    "Electrical Engineering"
+    "Electrical Engineering",
+    "President Luca Dahle",
+    "Federal Council"
   ],
   "topics": [
     "Education",
@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "Students",
-    "That",
     "University",
-    "This",
     "Teaching",
-    "Development"
+    "Development",
+    "Honorary",
+    "Which"
   ],
-  "summary": "",
+  "summary": "Focus on student wellbeing: “A crisis shows what we are made of – and our university has passed this test with flying colours,” said ETH Rector Sarah Springman at this year's ETH Day, much of which was held online. Springman pointed out how the transition to emergency operations following the outbreak of the pandemic in mid-March 2020 served as a stress test – not least in terms of teaching arrangements....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 754,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -53,6 +63,37 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 26.0,
+      "avg_word_length": 5.21,
+      "long_word_percentage": 31.83
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Rector Sarah Springman",
+        "Springman"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Professor Laurent Vanbever",
+        "Grieder"
+      ],
+      "departments": [
+        "Information Technology and Electrical Engineering",
+        "Professor Laurent Vanbever from the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020",
+          "2021"
+        ]
+      }
+    }
   }
 }

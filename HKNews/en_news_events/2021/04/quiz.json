@@ -6,15 +6,11 @@
   "main_content": "Main article: In our quiz series, we take you on journeys of discovery through research and teaching at ETH Zurich. This edition is dedicated to agricultural sciences, which are celebrating their 150th anniversary this year.\n\nThe anniversary of the Agricultural Sciences: The Department of Environmental Systems Science (D-​USYS) starts their anniversary year with an online event on 4 May 2021, kicked off by a video featuring Guy Parmelin, President of the Swiss Confederation, together with ETH President Joël Mesot and representatives of the Department.\n\nFollowing the premiere of this anniversary film, various webinars on the important topics in agricultural sciences will be held in different languages on the virtual stages. Afterwards, the Institute of Agricultural Sciences invites you to a very special virtual aperitif. Participation in the conference is free of charge, no registration needed.\n\nOn the anniversary website you can already find a timeline with historical facts and selected stories from the past 150 years.",
   "named_entities": [
     "Agricultural Sciences",
-    "The Department",
     "Environmental Systems Science",
     "Guy Parmelin",
     "Swiss Confederation",
-    "Main",
-    "Zurich",
-    "USYS",
-    "President",
-    "Mesot"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -29,18 +25,28 @@
     "Anniversary",
     "Agricultural",
     "Sciences",
-    "This",
-    "With",
-    "Their"
+    "Their",
+    "Year",
+    "Department"
   ],
-  "summary": "Main article: In our quiz series, we take you on journeys of discovery through research and teaching at ETH Zurich....",
+  "summary": "Main article: In our quiz series, we take you on journeys of discovery through research and teaching at ETH Zurich. This edition is dedicated to agricultural sciences, which are celebrating their 150th anniversary this year. The anniversary of the Agricultural Sciences: The Department of Environmental Systems Science (D-​USYS) starts their anniversary year with an online event on 4 May 2021, kicked off by a video featuring Guy Parmelin, President of the Swiss Confederation, together with ETH President Joël Mesot and representatives of the Department....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 157,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Researchers"
     ],
@@ -49,6 +55,39 @@
       "Research",
       "Education",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.43,
+      "avg_word_length": 5.45,
+      "long_word_percentage": 36.31
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zurich"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "4 May 2021"
+      ],
+      "time_references": [],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "Environmental Systems Science",
+        "Mesot and representatives of the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2021"
+        ]
+      }
+    }
   }
 }

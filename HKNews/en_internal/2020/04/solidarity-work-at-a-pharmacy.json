@@ -8,13 +8,8 @@
     "Ilario Scapozza",
     "Rigi Apotheke",
     "Nicola Pitaro",
-    "Master",
-    "Pharmacy",
-    "Zurich",
-    "Shortly",
-    "Only",
-    "Image",
-    "Zürich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -29,18 +24,28 @@
     "Scapozza",
     "Pharmacy",
     "Products",
-    "With",
     "Work",
-    "That"
+    "Been",
+    "Crisis"
   ],
-  "summary": "In the lab and out on the bike: Ilario Scapozza is studying for a Master’s degree in Pharmacy at ETH Zurich. The 22-year-old has been working in the Rigi Apotheke in Zurich for a good four weeks now....",
+  "summary": "In the lab and out on the bike: Ilario Scapozza is studying for a Master’s degree in Pharmacy at ETH Zurich. The 22-year-old has been working in the Rigi Apotheke in Zurich for a good four weeks now. He’s on duty five days a week helping the pharmacy cope with its heavy workload during the crisis....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 696,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +56,34 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.89,
+      "avg_word_length": 4.62,
+      "long_word_percentage": 25.72
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Ilario Scapozza",
+        "Master",
+        "Pharmacy",
+        "Zurich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Pharmacy",
+        "Scapozza",
+        "Zurich"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

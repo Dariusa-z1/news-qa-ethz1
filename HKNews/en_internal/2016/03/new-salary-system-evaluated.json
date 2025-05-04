@@ -6,14 +6,6 @@
   "main_content": "Since 1 January 2006, the salaries of non-academic staff and senior scientists in permanent employment within the ETH Domain have been based on the New Salary System (NSS). Employees are assigned to function levels in the NSS. Within the confines of available resources, individual salary increments take into account both the employee’s experience and the supervisor’s assessment of the employee’s performance.\n\nAccording to the external evaluation, the NSS is a serviceable instrument for defining salaries appropriate to roles and managing them based on performance and experience. The New Salary System should be retained. The ETH Board has come to this conclusion despite considerable criticism of the evaluation coming from the university assemblies, staff commissions and staff associations (link to \" Stellungnahme der Hochschulversammlung der ETH Zürich \").\n\nThe absence of wage differentials between men and women in the ETH Domain was worthy of special mention. The NSS should be retained. The institutions will now work to refine the system to meet their specific circumstances and needs.",
   "named_entities": [
     "New Salary System",
-    "The New Salary System",
-    "Since",
-    "January",
-    "Domain",
-    "Board",
-    "Stellungnahme",
-    "Hochschulversammlung",
-    "Zürich",
     "ETH"
   ],
   "topics": [
@@ -30,14 +22,24 @@
     "Domain",
     "Based"
   ],
-  "summary": "Since 1 January 2006, the salaries of non-academic staff and senior scientists in permanent employment within the ETH Domain have been based on the New Salary System (NSS)....",
+  "summary": "Since 1 January 2006, the salaries of non-academic staff and senior scientists in permanent employment within the ETH Domain have been based on the New Salary System (NSS). Employees are assigned to function levels in the NSS. Within the confines of available resources, individual salary increments take into account both the employee’s experience and the supervisor’s assessment of the employee’s performance....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 168,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -45,6 +47,22 @@
     "context_tags": [
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.67,
+      "avg_word_length": 5.42,
+      "long_word_percentage": 31.55
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2006"
+        ]
+      }
+    }
   }
 }

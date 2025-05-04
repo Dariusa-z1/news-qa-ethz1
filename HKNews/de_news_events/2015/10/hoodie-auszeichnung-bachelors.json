@@ -10,11 +10,11 @@
     "Dieser Hoodie",
     "Bachelor-Studierende",
     "Rektorin Sarah Springman",
-    "Die Studierenden",
-    "Die Rücklaufquote",
-    "Die Basisprüfung",
     "Bachelor-Studium",
-    "Dieses Jahr"
+    "Dieses Jahr",
+    "Huber-Kudlich-Stiftung",
+    "Campus Hönggerberg",
+    "ETH Zürich"
   ],
   "topics": [
     "Education",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Dienstagnachmittag im Hauptgebäude der ETH Zürich, ein Gewühl aus Studierenden, fast wie beim Rugby....",
+  "summary": "Dienstagnachmittag im Hauptgebäude der ETH Zürich, ein Gewühl aus Studierenden, fast wie beim Rugby. Sie drängen sich an eine Reihe von Tischen, reichen den Helferinnen und Helfern dahinter einen Gutschein und erhalten einen in Plastikfolie eingepackten Hoodie mit der Logo-Stickerei «ETH Zürich – best....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 363,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "General Public"
@@ -49,6 +59,40 @@
       "Infrastructure",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.29,
+      "avg_word_length": 5.78,
+      "long_word_percentage": 30.58
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Dienstagnachmittag",
+        "Hauptgebäude",
+        "Zürich",
+        "Gewühl",
+        "Studierenden"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Gewühl",
+        "Stück",
+        "Plastikfolie",
+        "Sarah Springman",
+        "Geschenk"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "1690"
+        ]
+      }
+    }
   }
 }

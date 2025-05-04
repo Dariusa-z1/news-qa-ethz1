@@ -9,12 +9,12 @@
     "Ab Montag",
     "Entsprechende Informationen",
     "Am Donnerstag",
-    "Der Zutritt",
-    "Für Vorkommnisse",
     "Alarmzentrale Verfügbarkeit",
     "Continuing Education Alle Schalter",
     "Akademischen Dienste",
-    "International Student Support Alle"
+    "International Student Support Alle",
+    "Studentischen Dienste",
+    "Sport Center Irchel"
   ],
   "topics": [
     "Infrastructure",
@@ -29,18 +29,28 @@
     "ETH Card",
     "Hönggerberg",
     "Building",
+    "Campus",
     "University",
-    "Research",
-    "Science"
+    "Research"
   ],
   "summary": "Reduziertes Dienstleistungsangebot: Ab Montag, 7. Dezember 2020 sind diverse Gebäude nur noch von 7 bis 18 Uhr offen. Entsprechende Informationen sind vor Ort bei den Haupteingängen ausgeschildert....",
+  "content_structure": {
+    "paragraph_count": 37,
+    "bullet_points": 7,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 915,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -51,6 +61,36 @@
       "Infrastructure",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 6.27,
+      "avg_word_length": 5.36,
+      "long_word_percentage": 29.84
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Reduziertes Dienstleistungsangebot",
+        "Ab Montag",
+        "Dezember",
+        "Gebäude"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Systeme",
+        "Weihnachtsspecial"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020",
+          "2020"
+        ]
+      }
+    }
   }
 }

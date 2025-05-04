@@ -9,12 +9,8 @@
     "Research Collection",
     "Digital Object Identifier",
     "Research Collection Manual",
-    "The Research Collection",
-    "FAIR",
-    "Guidelines",
-    "RSETHZ",
-    "Services",
-    "Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -30,14 +26,24 @@
     "Your",
     "Publication"
   ],
-  "summary": "",
+  "summary": "Do you want to publish your research data and program code in a FAIR repository in accordance with the Guidelines for Research Data Management (RDM Guidelines, RSETHZ 414.2), (PDF, 229 KB) but your data packages are larger than 50 GB? The libdrive service enables the open-access publication of large amounts of data via the Research Collection repository....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 285,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -49,6 +55,29 @@
       "Research",
       "Administrative",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.81,
+      "avg_word_length": 4.77,
+      "long_word_percentage": 26.32
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Guidelines",
+        "Research Data Management",
+        "Guidelines"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

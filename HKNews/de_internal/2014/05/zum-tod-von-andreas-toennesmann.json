@@ -10,11 +10,11 @@
     "Goldenen Eule",
     "Seine Analyse",
     "Seine Neugierde",
-    "Die Freiheit",
-    "Die Berufung Andreas Tönnesmanns",
     "Bibliotheca Hertziana",
     "Max-Planck-Institut",
-    "Universitäten Bonn"
+    "Universitäten Bonn",
+    "Andreas Tönnesmann Vorsteher",
+    "Departements Architektur"
   ],
   "topics": [
     "Research",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Die eigene Begeisterung für die Architektur anschaulich zum Ausdruck zu bringen und seine Mitmenschen daran teilhaben zu lassen, war eine besondere Gabe, über die Andreas Tönnesmann verfügte....",
+  "summary": "Die eigene Begeisterung für die Architektur anschaulich zum Ausdruck zu bringen und seine Mitmenschen daran teilhaben zu lassen, war eine besondere Gabe, über die Andreas Tönnesmann verfügte. Er war nicht nur einer der renommiertesten Kunst- und Architekturhistoriker der Gegenwart, sondern auch ein Lehrer mit Leib und Seele....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 493,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,43 @@
       "Research",
       "Education",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.96,
+      "avg_word_length": 6.21,
+      "long_word_percentage": 39.15
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Begeisterung",
+        "Architektur",
+        "Ausdruck",
+        "Mitmenschen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Svizzero",
+        "Lehrer",
+        "Verbindung",
+        "Florenz",
+        "Deutschland"
+      ],
+      "departments": [
+        "war Andreas Tönnesmann Vorsteher des",
+        "Kunstgeschichte in Rom",
+        "in Wolfenbüttel und des Kunsthistorischen"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2001",
+          "1991"
+        ]
+      }
+    }
   }
 }

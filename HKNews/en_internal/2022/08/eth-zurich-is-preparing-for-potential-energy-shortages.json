@@ -7,14 +7,14 @@
   "named_entities": [
     "Uninterruptible Power Supply",
     "Western Europe",
-    "The Federal Council",
     "Federal Council",
     "Vice President",
     "Infrastructure Ulrich Weidmann",
     "Building Technology",
     "Executive Board",
-    "The Swiss",
-    "Dominik Brem"
+    "Dominik Brem",
+    "Ulrich Weidmann",
+    "ETH Zurich"
   ],
   "topics": [
     "Sustainability",
@@ -31,16 +31,26 @@
     "Zurich",
     "Measures",
     "Research",
-    "That"
+    "Power"
   ],
-  "summary": "The measures address possible gas shortages as well as various scenarios involving electricity shortages:\n\n• Prolonged power outages or an unstable power supply pose the greatest risk for ETH Zurich....",
+  "summary": "The measures address possible gas shortages as well as various scenarios involving electricity shortages:\n\n• Prolonged power outages or an unstable power supply pose the greatest risk for ETH Zurich. A continuous power supply directly influences how well University infrastructure – and thus its research – functions....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 3,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 784,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,38 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 24.5,
+      "avg_word_length": 5.29,
+      "long_word_percentage": 33.04
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Prolonged",
+        "Zurich",
+        "University"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Western Europe",
+        "Schwerzenbach",
+        "Russia",
+        "Ukraine",
+        "Switzerland"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2022",
+          "2022"
+        ]
+      }
+    }
   }
 }

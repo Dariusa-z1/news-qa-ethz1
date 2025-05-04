@@ -8,10 +8,8 @@
     "Zurich Institute",
     "Theoretical Physics",
     "Professor Gian Michele Graf",
-    "Defenu",
-    "Ludo",
-    "What",
     "ETH Zurich",
+    "ETH",
     "Gian Michele Graf"
   ],
   "topics": [
@@ -24,21 +22,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
     "There",
     "Systems",
-    "This",
     "Will",
-    "With"
+    "Number",
+    "Point",
+    "Quantum"
   ],
-  "summary": "A more distant influence: If you put a bottle of beer in a big bathtub full of ice-cold water, it won’t be long before you can enjoy a cold beer....",
+  "summary": "A more distant influence: If you put a bottle of beer in a big bathtub full of ice-cold water, it won’t be long before you can enjoy a cold beer. Physicists discovered how this works more than a hundred years ago. Heat exchange takes place through the glass bottle until equilibrium is reached....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 877,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -48,6 +56,30 @@
       "Technology",
       "Research",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.88,
+      "avg_word_length": 4.73,
+      "long_word_percentage": 23.38
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Physicists",
+        "However"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "Zurich"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

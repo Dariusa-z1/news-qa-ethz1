@@ -11,10 +11,7 @@
     "Terrestrial Ecosystems",
     "Edwin Kite",
     "Science Adv",
-    "Valleys",
-    "Mars",
-    "Earth",
-    "Institute"
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -25,22 +22,32 @@
     "Campus Life"
   ],
   "keywords": [
-    "That",
     "Mars",
     "Have",
     "River",
     "Been",
     "Water",
-    "This"
+    "Arid",
+    "Valleys"
   ],
-  "summary": "Valleys eroded mainly by rainwater: The surface of Mars bears structures that resemble river networks on Earth....",
+  "summary": "Valleys eroded mainly by rainwater: The surface of Mars bears structures that resemble river networks on Earth. Scientists therefore assume that there must once have been enough water on the red planet to feed streams that incised channels into the subsoil....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 564,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -50,6 +57,43 @@
       "Research",
       "Events",
       "Weather"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.8,
+      "avg_word_length": 4.88,
+      "long_word_percentage": 26.77
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "a recent paper published in Science Advances by physicists Hansjörg Seybold and James Kirchner from ETH's Institute for Terrestrial Ecosystems",
+      "authors": [
+        "Valleys",
+        "Scientists"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "6 to 3"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Florida",
+        "Science Advances",
+        "Arizona",
+        "Kite",
+        "Seybold"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2018"
+        ]
+      }
+    }
   }
 }

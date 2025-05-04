@@ -13,7 +13,6 @@
     "Remo Burkhard",
     "Campus Schällemätteli",
     "Universitäts-Kinderspital",
-    "Die Auszeichnung",
     "Campus-Areal"
   ],
   "topics": [
@@ -33,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Gute Nachrichten zum BSS in Basel gibt es erfreulicherweise mehrere in letzter Zeit: So konnte letzte Woche auch hier der Schulbetrieb vom Departement BSSE starten, der Umzug läuft wie geplant parallel weiter und jetzt wurde das neue Forschungsgebäude auch noch mit einem Architekturpreis ausgezeichnet....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 239,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "Administration",
@@ -51,6 +60,35 @@
       "Infrastructure",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 29.88,
+      "avg_word_length": 6.7,
+      "long_word_percentage": 43.93
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Gute Nachrichten"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Basel",
+        "Form"
+      ],
+      "departments": [
+        "auch hier der Schulbetrieb vom"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2023",
+          "2013"
+        ]
+      }
+    }
   }
 }

@@ -7,14 +7,8 @@
   "named_entities": [
     "Dirk Helbing",
     "Computational Social Science",
-    "Zurich",
-    "Switzerland",
-    "German",
-    "French",
-    "European",
-    "GESS",
-    "Professor",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -33,14 +27,24 @@
     "Data",
     "Questions"
   ],
-  "summary": "How do people react to information about flu?: How does flu spread and to what extent can individual behaviour stop it in its tracks?...",
+  "summary": "How do people react to information about flu?: How does flu spread and to what extent can individual behaviour stop it in its tracks? Big data researchers at ETH Zurich want to investigate these questions in a study of flu throughout Switzerland. Unlike traditional flu activity analysis, they are not relying on data passed on to them by doctors and hospitals....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 281,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -51,6 +55,33 @@
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.53,
+      "avg_word_length": 5.1,
+      "long_word_percentage": 29.18
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zurich",
+        "Switzerland"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland",
+        "German"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "+41 44 632 88 80"
+        ]
+      }
+    }
   }
 }

@@ -33,14 +33,24 @@
     "Advanced",
     "Grants"
   ],
-  "summary": "",
+  "summary": "Last year, the Swiss National Science Foundation (SNSF) announced Advanced Grants to which established researchers from Swiss universities could apply for funding for a forward-looking, original, significant or even risky project. Of the 232 projects submitted, the SNSF selected 24 for funding....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 623,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Faculty",
@@ -51,6 +61,30 @@
       "Research",
       "Communications",
       "Weather"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.47,
+      "avg_word_length": 5.49,
+      "long_word_percentage": 37.88
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Swiss National Science Foundation",
+        "Advanced Grants"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Swiss"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -7,14 +7,7 @@
   "named_entities": [
     "De Wouters",
     "University Hospital Zurich",
-    "Transplants",
-    "Around",
-    "PharmaBiome",
-    "Clostridium",
-    "Such",
-    "Tomas",
-    "Even",
-    "While"
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -27,20 +20,30 @@
   "keywords": [
     "Intestinal",
     "Bacteria",
-    "That",
-    "From",
-    "With",
     "They",
-    "Ecosystem"
+    "Ecosystem",
+    "Flora",
+    "Wouters",
+    "Have"
   ],
-  "summary": "Transplants come with risks: Around 500 different types of bacteria live in our intestines....",
+  "summary": "Transplants come with risks: Around 500 different types of bacteria live in our intestines. They help us to digest food by breaking down large molecules such as dietary fibres into smaller units that enter the bloodstream and provide our body with nutrients and energy....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 783,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -50,6 +53,37 @@
       "Sustainability",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.75,
+      "avg_word_length": 5.33,
+      "long_word_percentage": 35.76
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Transplants",
+        "Around",
+        "Together",
+        "Researchers"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "University Hospital Zurich",
+        "Clostridium",
+        "Pharma"
+      ],
+      "departments": [
+        "Gastroenterology",
+        "work very closely with the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

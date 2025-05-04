@@ -8,13 +8,13 @@
     "Anfang Mai",
     "Im Eingangsbereich",
     "Selecta-Automat",
-    "Die Ramp",
     "Anzahl Tests",
-    "Die Station",
     "Beide Stationen",
     "Diese Kapazitäten",
     "Homeoffice-Regelungen",
-    "Departement Biosysteme"
+    "Departement Biosysteme",
+    "Weitere Informationen",
+    "Corona-Website"
   ],
   "topics": [
     "Infrastructure",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Wie bei Lancierung der PCR-Speicheltests an der ETH angekündigt, nahm Anfang Mai auf dem Hönggerberg eine zweite Teststation den Betrieb auf....",
+  "summary": "Wie bei Lancierung der PCR-Speicheltests an der ETH angekündigt, nahm Anfang Mai auf dem Hönggerberg eine zweite Teststation den Betrieb auf. Im Eingangsbereich des HIL-Gebäudes steht nun auch ein Selecta-Automat, an dem Testkits bezogen werden können, sowie ein weiterer Apparat, der anderntags die Proben entgegennimmt....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 420,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -51,6 +61,41 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.26,
+      "avg_word_length": 5.82,
+      "long_word_percentage": 33.1
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Lancierung",
+        "Speicheltests",
+        "Anfang Mai",
+        "Hönggerberg"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Basel",
+        "Schwerzenbach",
+        "Betrieb",
+        "Lugano",
+        "Testkit"
+      ],
+      "departments": [
+        "vor allem am"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1700",
+          "3000"
+        ]
+      }
+    }
   }
 }

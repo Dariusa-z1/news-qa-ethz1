@@ -7,14 +7,8 @@
   "named_entities": [
     "Web Content Management System",
     "Spezialkomponente Stellenportal",
-    "Die Filterung",
-    "Zürich",
-    "Rekrutierungssoftware",
-    "Rekrutierenden",
-    "Handhabung",
-    "Ausschreibungsprozesses",
-    "Unterstützung",
-    "Vorselektion"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -29,14 +23,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Auf dem Stellenportal der ETH Zürich werden jährlich rund 1000 Stellen veröffentlicht....",
+  "summary": "Auf dem Stellenportal der ETH Zürich werden jährlich rund 1000 Stellen veröffentlicht. Diese werden neu über die Rekrutierungssoftware softfactors erfasst, die Rekrutierenden eine einfache Handhabung des Ausschreibungsprozesses, Unterstützung in der Vorselektion und ein effizientes Bewerbermanagement bietet....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 198,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff",
       "Administration"
@@ -45,6 +49,24 @@
       "Administrative",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.0,
+      "avg_word_length": 6.47,
+      "long_word_percentage": 38.89
+    },
+    "semantic_entities": {
+      "locations": [
+        "Freitextfeld"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1000"
+        ]
+      }
+    }
   }
 }

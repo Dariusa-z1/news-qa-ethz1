@@ -7,14 +7,10 @@
   "named_entities": [
     "Alexander Tanno",
     "Pioneer Fellowship",
-    "The Pioneer Fellowship",
     "What Tanno",
     "Yves Blickenstorfer",
-    "Today",
-    "Zurich",
-    "Crohn",
-    "Master",
-    "There"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -27,20 +23,30 @@
   "keywords": [
     "ETH Zurich",
     "Blood",
-    "That",
     "Tests",
     "Tanno",
     "Test",
-    "This"
+    "They",
+    "Will"
   ],
-  "summary": "The prototype that Alexander Tanno is holding between his thumb and forefinger doesn’t look particularly impressive....",
+  "summary": "The prototype that Alexander Tanno is holding between his thumb and forefinger doesn’t look particularly impressive. Measuring two centimetres by two centimetres, the clear plastic block is equipped with three electrodes and encloses a sample on a paper strip....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1223,
     "readability_score": "moderately complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -49,6 +55,31 @@
       "Research",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.46,
+      "avg_word_length": 4.77,
+      "long_word_percentage": 24.86
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Alexander Tanno",
+        "Measuring"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Tanno",
+        "Alexander Tanno"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

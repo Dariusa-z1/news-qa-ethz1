@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "Weather",
-    "From",
     "Blocking",
     "Which",
-    "This",
-    "Research"
+    "Research",
+    "Masses",
+    "Latent"
   ],
-  "summary": "The opposite of sweating: In 2003, Europe experienced a record-breaking summer, and many people feel that this summer is headed the same way....",
+  "summary": "The opposite of sweating: In 2003, Europe experienced a record-breaking summer, and many people feel that this summer is headed the same way. In the midst of this heatwave, the scientific journal Nature Geoscience has published a study that can help us to understand such extreme weather conditions....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 809,
     "readability_score": "moderately complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +60,35 @@
       "Sustainability",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.11,
+      "avg_word_length": 4.89,
+      "long_word_percentage": 26.58
+    },
+    "citation_info": {
+      "doi": "10.1038/ngeo2487",
+      "journal": "",
+      "authors": [
+        "Europe",
+        "Nature Geoscience"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Reading",
+        "Italy",
+        "Wernli"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2003",
+          "2015"
+        ]
+      }
+    }
   }
 }

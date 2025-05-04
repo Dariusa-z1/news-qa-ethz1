@@ -10,11 +10,10 @@
     "Kein Wunder",
     "Corona-Trott",
     "Instagram-Story",
-    "Der Akademische Sportverband Zürich",
     "Weitere Schweizer Hochschulen",
-    "Tage",
-    "Wetter",
-    "Zeit"
+    "ETH Zürich",
+    "ETH",
+    "ASVZ"
   ],
   "topics": [
     "COVID-19",
@@ -32,14 +31,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Wir befinden uns mitten in der Corona-Krise, zudem sind die Tage kurz und das Wetter grau. Wir verbringen viel Zeit im Home-Office und sehen Kolleginnen und Kollegen nur virtuell....",
+  "summary": "Wir befinden uns mitten in der Corona-Krise, zudem sind die Tage kurz und das Wetter grau. Wir verbringen viel Zeit im Home-Office und sehen Kolleginnen und Kollegen nur virtuell. Kein Wunder, dass diese Situation vielen auf die Stimmung schlägt und das Wohlbefinden beeinträchtigt....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 248,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff"
@@ -49,6 +58,32 @@
       "Research",
       "Weather",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.59,
+      "avg_word_length": 5.66,
+      "long_word_percentage": 29.44
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Corona",
+        "Wetter"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Wunder",
+        "Video",
+        "Foto"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

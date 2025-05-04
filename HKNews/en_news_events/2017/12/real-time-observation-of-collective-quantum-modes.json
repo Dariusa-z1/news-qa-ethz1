@@ -10,11 +10,7 @@
     "Quantum Electronics",
     "Harvard University",
     "Andrea Morales",
-    "For Tilman Esslinger",
-    "Phase",
-    "Institute",
-    "Science",
-    "Higgs"
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -25,22 +21,32 @@
     "Education"
   ],
   "keywords": [
-    "That",
     "Quantum",
     "Energy",
     "Symmetry",
     "Which",
     "Modes",
-    "Atoms"
+    "Atoms",
+    "Such"
   ],
-  "summary": "Phase transitions caused by symmetry breaking: A cylindrical rod is rotationally symmetric – after any arbitrary rotation around its axis it always looks the same....",
+  "summary": "Phase transitions caused by symmetry breaking: A cylindrical rod is rotationally symmetric – after any arbitrary rotation around its axis it always looks the same. If an increasingly large force is applied to it in the longitudinal direction, however, it will eventually buckle and lose its rotational symmetry....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 754,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +57,33 @@
       "Technology",
       "Research",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 29.0,
+      "avg_word_length": 5.03,
+      "long_word_percentage": 29.18
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the scientific journal Science",
+      "authors": [
+        "Tilman Esslinger",
+        "Senior Scientist Tobias Donner"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Harvard University",
+        "Esslinger"
+      ],
+      "departments": [
+        "Scientist Tobias Donner at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

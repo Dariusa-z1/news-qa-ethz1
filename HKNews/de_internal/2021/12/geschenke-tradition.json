@@ -8,13 +8,13 @@
     "Andreas Steingötter",
     "Zurich Weihnachten",
     "Keine Weihnachtsgeschenke",
-    "In Online-Shops",
-    "Der Sinn",
     "Dem Geschenkewahnsinn",
     "Jahr Weihnachtsgeschenke",
     "Anthony Patt",
     "Ordentlicher Professor",
-    "Departement Umweltsystemwissenschaften Die"
+    "Departement Umweltsystemwissenschaften Die",
+    "Geburt Christi",
+    "Entwicklung Erwachsener"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Pro: Dr....",
+  "summary": "Pro: Dr. Andreas Steingötter, Geschäftsführer des Centers EXCITE Zurich\n\nWeihnachten steht vor der Tür, und ich freue mich darauf, die erweiterte Familie mal wiederzusehen und das gemeinsame Kochen und Essen zu zelebrieren. Bei uns ist die Weihnachtzeit eine schöne Familientradition....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 672,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "General Public"
@@ -49,6 +59,39 @@
       "Catering",
       "Sustainability",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.8,
+      "avg_word_length": 5.55,
+      "long_word_percentage": 29.32
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Andreas Steingötter",
+        "Geschäftsführer",
+        "Centers"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Ende",
+        "Zukunft",
+        "Erinnerung",
+        "Leben",
+        "Europa"
+      ],
+      "departments": [
+        "Ordentlicher Professor am"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1938"
+        ]
+      }
+    }
   }
 }

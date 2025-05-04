@@ -10,11 +10,11 @@
     "Automatic Control Labs",
     "Heinz Köppel",
     "Dieses Tool",
-    "Der Komplex",
-    "Die Forschenden",
     "Polarity Site",
-    "Mit Hilfe",
-    "Dieses Modell"
+    "Dieses Modell",
+    "Björn Hegemann",
+    "Fachzeitschrift Development Cell",
+    "Diese Hypothese"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Sensor, Prozessor und Motor in einem: Zellen sind oft vor das Problem gestellt, dass sie von einer verheissungsvollen Duftwolke umgeben sind und in die Richtung der Duftquelle wachsen sollten....",
+  "summary": "Sensor, Prozessor und Motor in einem: Zellen sind oft vor das Problem gestellt, dass sie von einer verheissungsvollen Duftwolke umgeben sind und in die Richtung der Duftquelle wachsen sollten. Nervenzellen beispielsweise bilden lange Fortsätze aus, die von Signalen anderer Zellen angezogen werden, so dass das Netzwerk des Nervensystems entsteht; Fresszellen erkennen die Duftstoffe von Krankheitskeimen, um sie zielgerichtet zu verfolgen und zu vernichten....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 806,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -50,6 +60,42 @@
       "Research",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.45,
+      "avg_word_length": 5.9,
+      "long_word_percentage": 34.62
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Sensor",
+        "Prozessor",
+        "Zellen",
+        "Problem"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Chemical Gradients",
+        "Hefezellen",
+        "Richtung",
+        "Rezeptor",
+        "Computermodell"
+      ],
+      "departments": [
+        "Professor Matthias Peter vom",
+        "Biochemie eine mögliche Lösung"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "1016"
+        ]
+      }
+    }
   }
 }

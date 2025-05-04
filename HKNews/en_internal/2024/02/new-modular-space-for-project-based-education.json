@@ -7,14 +7,9 @@
   "named_entities": [
     "Project Based",
     "Rector Günther Dissertori",
-    "The Rector",
     "Competence Framework",
-    "Main",
-    "PBLabs",
-    "Rectorate",
-    "Clausiusstrasse",
-    "February",
-    "Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -28,19 +23,29 @@
     "ETH Zurich",
     "Pblabs",
     "Room",
-    "With",
     "Projectbased",
     "Education",
-    "Teaching"
+    "Teaching",
+    "Project"
   ],
-  "summary": "Main article: PBLabs is a strategic initiative of the Rectorate that supports lecturers who want to offer project-based education (PB stands for \"Project Based\")....",
+  "summary": "Main article: PBLabs is a strategic initiative of the Rectorate that supports lecturers who want to offer project-based education (PB stands for \"Project Based\"). The team has now developed a purpose-built teaching space in the RZ building at Clausiusstrasse 59, which serves as an experimental area for the design of future teaching spaces....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 463,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff",
@@ -51,6 +56,32 @@
       "Technology",
       "Education",
       "Communications"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.43,
+      "avg_word_length": 5.33,
+      "long_word_percentage": 34.99
+    },
+    "temporal_info": {
+      "event_dates": [
+        "7 February 2024"
+      ],
+      "time_references": [],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Clausiusstrasse"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2024",
+          "8006"
+        ]
+      }
+    }
   }
 }

@@ -7,14 +7,13 @@
   "named_entities": [
     "Dalai Lama",
     "Leibniz University Hannover",
-    "The Dalai Lama",
     "South America",
     "Konrad Schindler",
     "Remote Sensing",
     "Barry Callebaut",
     "World Economic Forum",
     "Young Scientists",
-    "Fighting"
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -26,21 +25,31 @@
   ],
   "keywords": [
     "Wegner",
-    "With",
-    "That",
-    "This",
     "Research",
-    "From",
-    "Says"
+    "Says",
+    "Software",
+    "Have",
+    "Data",
+    "Ecovision"
   ],
-  "summary": "Fighting famine with software: “I want my research to move things in the right direction and help our planet take a step forward,” says Wegner....",
+  "summary": "Fighting famine with software: “I want my research to move things in the right direction and help our planet take a step forward,” says Wegner. However, he and his team realise that this is hardly possible to achieve from their lab in Zurich. For that reason, they have made EcoVision Lab's software, with all of its functionalities and algorithms, freely available for download and use by public platforms anywhere in the world....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 799,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -51,6 +60,38 @@
       "Sustainability",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.19,
+      "avg_word_length": 5.03,
+      "long_word_percentage": 27.41
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Fighting",
+        "Wegner",
+        "However",
+        "Zurich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Wegner",
+        "Ghana",
+        "Leibniz University Hannover",
+        "Zurich"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1998",
+          "2020"
+        ]
+      }
+    }
   }
 }

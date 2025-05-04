@@ -7,14 +7,13 @@
   "named_entities": [
     "Kurs Ready",
     "Sie Ihre Bachelor",
-    "Der Kurs",
     "Hören Sie",
     "Lernplattform Moodle",
     "Den Selbstlernkurs",
     "Mehr Informationen",
     "Praktische Unterstützung",
-    "Masterarbeit",
-    "Take"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -31,14 +30,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Wie soll man die Bachelor- und Masterarbeit am besten anpacken?...",
+  "summary": "Wie soll man die Bachelor- und Masterarbeit am besten anpacken? Der brandneue Kurs Ready for Take-off: So starten Sie Ihre Bachelor- und Masterarbeit vermittelt die wichtigsten Voraussetzungen zu Beginn einer Forschungs- bzw. Schreibaufgabe: nämlich Fragestellung und Proposal schreiben sowie eine erste Gliederung erstellen....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 189,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -49,6 +58,31 @@
       "Education",
       "Communications",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.5,
+      "avg_word_length": 6.11,
+      "long_word_percentage": 35.98
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Bachelor",
+        "Masterarbeit",
+        "Kurs Ready"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "library.ethz.ch"
+        ],
+        "phones": []
+      }
+    }
   }
 }

@@ -7,14 +7,14 @@
   "named_entities": [
     "Furkan Sami Oguz",
     "Kornel Stadler",
-    "Die Herkunft",
-    "Der Prozess",
     "Schweizer Arbeitsmarkt",
     "Diskriminierung Stück",
     "Lukas Vonesch",
     "Gian Marco Castelberg",
     "Anonymisierte Bewerbungsverfahren",
-    "Die Vorselektion"
+    "Anonyme Bewerbungen",
+    "Beziehen Sie",
+    "Recruiting-Team"
   ],
   "topics": [
     "Staff",
@@ -31,14 +31,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Pro: Furkan Sami Oguz, Mitarbeiter bei der Professur für Wirtschaftsforschung (Illu: Kornel Stadler)\n\nMan geht davon aus, dass es sich meistens um eine unbewusste Diskriminierung handelt....",
+  "summary": "Pro: Furkan Sami Oguz, Mitarbeiter bei der Professur für Wirtschaftsforschung (Illu: Kornel Stadler)\n\nMan geht davon aus, dass es sich meistens um eine unbewusste Diskriminierung handelt. Die Herkunft oder das Geschlecht werden mit bestimmten Attributen verknüpft und für die gesamte Personengruppe verallgemeinert....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 529,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff"
     ],
@@ -47,6 +57,34 @@
       "Research",
       "Education",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.03,
+      "avg_word_length": 5.79,
+      "long_word_percentage": 31.38
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Furkan Sami Oguz",
+        "Mitarbeiter",
+        "Professur",
+        "Wirtschaftsforschung"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Appell",
+        "Europa",
+        "Allheilmittel"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -8,13 +8,8 @@
     "Georg Thiem",
     "Zurich Commercial Court",
     "Swiss Federal Supreme Court",
-    "The Swiss Federal Supreme",
-    "Elsevier",
-    "Springer",
-    "Bibliothek",
-    "Switzerland",
-    "April",
-    "Lausanne"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -26,21 +21,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "This",
     "Delivery",
     "Zurich",
     "Judgment",
     "Publishers",
-    "Ethbibliothek"
+    "Ethbibliothek",
+    "Court"
   ],
-  "summary": "The core responsibilities of every academic library typically include procuring and preparing a wide array of information, as well as making it accessible to users in an appropriate form....",
+  "summary": "The core responsibilities of every academic library typically include procuring and preparing a wide array of information, as well as making it accessible to users in an appropriate form. This includes the delivery of copies and scans of scientific publications....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 357,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -50,6 +55,36 @@
       "Research",
       "Education",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 25.5,
+      "avg_word_length": 5.28,
+      "long_word_percentage": 33.89
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Elsevier",
+        "Springer"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland",
+        "Lausanne",
+        "April",
+        "Zurich Commercial Court"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2011",
+          "2014"
+        ]
+      }
+    }
   }
 }

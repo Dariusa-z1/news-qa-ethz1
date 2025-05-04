@@ -6,15 +6,11 @@
   "main_content": "Angehörige der ETH Zürich haben neu Zugriff auf interdisziplinäre Originalmaterialien der externe Seite New York Academy of Science zurück bis zu ihrer Gründung im Jahr 1817. Der Zugriff erfolgt über die Wiley Digital Archives und ermöglicht neben forschungsbezogenen Quellen auch einen Einblick in die verwaltungsinternen Vorgänge der Akademie und ihrer Mitglieder. Verschiedene Analyse- und Visualisierungs-Tools ergänzen die Ressourcen und machen dieses Kapitel amerikanischer Wissenschaftsgeschichte vielfältig nutz- und sichtbar.\n\nDer Zugriff ist im Netzwerk der ETH Zürich oder in den Räumen der ETH-Bibliothek möglich.",
   "named_entities": [
     "Seite New York Academy",
-    "Der Zugriff",
     "Wiley Digital Archives",
     "Verschiedene Analyse",
     "Visualisierungs-Tools",
-    "Angehörige",
-    "Zürich",
-    "Originalmaterialien",
-    "Science",
-    "Gründung"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -24,20 +20,31 @@
   ],
   "keywords": [
     "ETH Zurich",
+    "Digital",
     "University",
     "Research",
     "Science",
     "Campus",
     "Education"
   ],
-  "summary": "Angehörige der ETH Zürich haben neu Zugriff auf interdisziplinäre Originalmaterialien der externe Seite New York Academy of Science zurück bis zu ihrer Gründung im Jahr 1817....",
+  "summary": "Angehörige der ETH Zürich haben neu Zugriff auf interdisziplinäre Originalmaterialien der externe Seite New York Academy of Science zurück bis zu ihrer Gründung im Jahr 1817. Der Zugriff erfolgt über die Wiley Digital Archives und ermöglicht neben forschungsbezogenen Quellen auch einen Einblick in die verwaltungsinternen Vorgänge der Akademie und ihrer Mitglieder....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 85,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "Administration"
@@ -47,6 +54,33 @@
       "Research",
       "Administrative",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.25,
+      "avg_word_length": 6.28,
+      "long_word_percentage": 40.0
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Angehörige",
+        "Zürich",
+        "Zugriff",
+        "Originalmaterialien",
+        "Seite New York Academy"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1817"
+        ]
+      }
+    }
   }
 }

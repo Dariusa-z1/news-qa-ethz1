@@ -7,14 +7,8 @@
   "named_entities": [
     "Elliott Ash",
     "Data Science",
-    "Abstract",
-    "People",
-    "Researchers",
-    "Meditation",
-    "Smart",
-    "Professor",
-    "Economics",
-    "Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -31,16 +25,26 @@
     "Meditation",
     "Emotions",
     "People",
-    "That"
+    "They"
   ],
-  "summary": "Abstract: • People who practiced mindfulness meditation every day for two weeks as part of a study were less likely to avoid negative information....",
+  "summary": "Abstract: • People who practiced mindfulness meditation every day for two weeks as part of a study were less likely to avoid negative information. • Researchers suspect this is due to the ability to process negative emotions calmly, an ability strengthened through the practice of mindfulness meditation....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 2,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 499,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +56,31 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.96,
+      "avg_word_length": 5.47,
+      "long_word_percentage": 33.47
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Abstract",
+        "People",
+        "Researchers",
+        "Meditation",
+        "Coping"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

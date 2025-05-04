@@ -11,10 +11,10 @@
     "Professor Dimos Poulikakos",
     "Seite Guinness World Records",
     "Millionen Farben",
-    "Der Grund",
     "Quanten-Punkte",
     "Quantum Dots",
-    "Die Farben"
+    "Quanten-Punkten",
+    "Halbleiter-Technik"
   ],
   "topics": [
     "Technology & Innovation",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Das ausgedruckte Bild misst gerade mal 0,0092 Quadratmillimeter und hat Seitenlängen von 80 respektive 115 Mikrometern....",
+  "summary": "Das ausgedruckte Bild misst gerade mal 0,0092 Quadratmillimeter und hat Seitenlängen von 80 respektive 115 Mikrometern. Dies entspricht der Schnittfläche eines menschlichen Haares oder der Grösse eines einzelnen Pixels eines Retina-Bildschirms von Apple....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 520,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -48,6 +58,27 @@
       "Financial",
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.57,
+      "avg_word_length": 5.84,
+      "long_word_percentage": 34.42
+    },
+    "semantic_entities": {
+      "locations": [
+        "Seitenlängen"
+      ],
+      "departments": [
+        "und noch immer mit dessen"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "0092",
+          "3333"
+        ]
+      }
+    }
   }
 }

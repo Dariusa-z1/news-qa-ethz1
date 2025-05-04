@@ -7,14 +7,11 @@
   "named_entities": [
     "Jonathan Home",
     "Quantum Electronics",
-    "In Home",
     "Christa Flühmann",
     "Werner Heisenberg",
     "Erwin Schrödinger",
-    "Periodic",
-    "When",
-    "Institute",
-    "Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -27,20 +24,30 @@
   "keywords": [
     "ETH Zurich",
     "Quantum",
-    "That",
     "Which",
     "Oscillatory",
     "States",
-    "This"
+    "Such",
+    "Very"
   ],
-  "summary": "Periodic oscillatory states: When building a quantum computer, one needs to reckon with errors – in both senses of the word....",
+  "summary": "Periodic oscillatory states: When building a quantum computer, one needs to reckon with errors – in both senses of the word. Quantum bits or “qubits”, which can take on the logical values 0 and 1 at the same time and thus carry out calculations faster, are extremely susceptible to perturbations....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 636,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +58,42 @@
       "Technology",
       "Research",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 25.44,
+      "avg_word_length": 5.12,
+      "long_word_percentage": 30.82
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the scientific journal Nature",
+      "authors": [
+        "Periodic",
+        "Quantum",
+        "Technically",
+        "However"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "and 1"
+      ],
+      "time_references": [],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Schrödinger",
+        "Werner Heisenberg"
+      ],
+      "departments": [
+        "professor at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

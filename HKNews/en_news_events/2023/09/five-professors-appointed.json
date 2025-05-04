@@ -33,14 +33,24 @@
     "Photograph",
     "Currently"
   ],
-  "summary": "",
+  "summary": "New appointments at ETH Zurich: (Photograph: Dora Gaviria)\n\nProfessor Juan Felipe Carrasquilla Alvarez (*1980), currently Assisstant Professor at the University of Toronto, Canada, as Associate Professor of Computational Physics in the Department of Physics....",
+  "content_structure": {
+    "paragraph_count": 16,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 4,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 794,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,39 @@
       "Sustainability",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.06,
+      "avg_word_length": 5.83,
+      "long_word_percentage": 40.93
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the Department of Computer Science",
+      "authors": [
+        "Zurich",
+        "Photograph",
+        "Dora Gaviria",
+        "Professor Juan Felipe Carrasquilla Alvarez"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Empa"
+      ],
+      "departments": [
+        "Biology",
+        "Environmental Systems Science at",
+        "and Behavioural Neuroscience in the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1980",
+          "1991"
+        ]
+      }
+    }
   }
 }

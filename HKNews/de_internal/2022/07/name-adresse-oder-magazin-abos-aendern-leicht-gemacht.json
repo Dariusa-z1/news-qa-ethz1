@@ -9,12 +9,12 @@
     "Möchten Sie",
     "Ihrem Briefkasten",
     "Beim Reiter",
-    "Die Zustellung",
     "Ihre Adresse",
     "Ihrer Wohn",
     "Ihrer Büroadresse",
     "Ihr Lebenslauf",
-    "Ihrem Forschungsgebiet"
+    "Ihrem Forschungsgebiet",
+    "Ihre Mitgliedschaften"
   ],
   "topics": [
     "Catering & Food",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Magazin-Abos anpassen: Möchten Sie nun beispielsweise neu das «life» als englisches PDF per E-Mail erhalten anstatt gedruckt und auf Deutsch in Ihrem Briefkasten zu finden, stellen Sie die Versendungsart wie unten dargestellt ein:\n\n• Sprache: Englisch\n• Häkchen setzen bei «E-Mail»\n• «keine Zustellung per Post» auswählen\n• Speichern nicht vergessen!...",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 4,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 274,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -49,6 +59,34 @@
       "Research",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.22,
+      "avg_word_length": 5.69,
+      "long_word_percentage": 32.48
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Magazin",
+        "Möchten Sie",
+        "Deutsch"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Ihrem Briefkasten",
+        "Kinderspiel"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "adressen.ethz.ch"
+        ],
+        "phones": []
+      }
+    }
   }
 }

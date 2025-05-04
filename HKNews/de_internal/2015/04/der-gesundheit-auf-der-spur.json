@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Das Institut für Epidemiologie, Biostatistik und Prävention der Universität Zürich erforscht die Gesundheit. Seine Erkenntnisse setzt das Institut für das Wohlergehen der Zürcherinnen und Zürcher ein: Auch Angehörige der ETH Zürich können das Institut am 6. Juni auf einem abwechslungsreichen Erlebnisparcours kennenlernen.\n\nDer Anlass mit Zürcher Regierungsrat Thomas Heiniger und anderen Persönlichkeiten aus Politik, Sport und Gesellschaft, sowie unseren Wissenschaftlerinnen und Wissenschaftlern, wird vom Kabarettisten und Arzt Fabian Unteregger moderiert. Es gibt auch ein Kinderprogramm.\n\nFühlen Sie unseren Puls – kommen Sie vorbei und geniessen Sie Wissen, Spass und Verpflegung für die ganze Familie.\n\nDer Gesundheit auf der Spur\n\nTag der offenen Tür\n\nSamstag, 6. Juni 2015, 11 – 16 Uhr\n\nInstitut für Epidemiologie, Biostatistik und Prävention\n\nHirschengraben 84, 8001 Zürich, Nähe Central",
   "named_entities": [
-    "Das Institut",
     "Universität Zürich",
     "Seine Erkenntnisse",
     "Auch Angehörige",
-    "Der Anlass",
     "Zürcher Regierungsrat Thomas Heiniger",
     "Arzt Fabian Unteregger",
     "Fühlen Sie",
     "Sie Wissen",
-    "Der Gesundheit"
+    "Spur Tag",
+    "Tür Samstag",
+    "Uhr Institut"
   ],
   "topics": [
     "Research",
@@ -30,14 +30,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Das Institut für Epidemiologie, Biostatistik und Prävention der Universität Zürich erforscht die Gesundheit....",
+  "summary": "Das Institut für Epidemiologie, Biostatistik und Prävention der Universität Zürich erforscht die Gesundheit. Seine Erkenntnisse setzt das Institut für das Wohlergehen der Zürcherinnen und Zürcher ein: Auch Angehörige der ETH Zürich können das Institut am 6....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 121,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -46,6 +56,41 @@
       "Catering",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.12,
+      "avg_word_length": 6.2,
+      "long_word_percentage": 36.36
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Das Institut",
+        "Epidemiologie",
+        "Biostatistik",
+        "Prävention",
+        "Universität Zürich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Thomas Heiniger",
+        "Kinderprogramm"
+      ],
+      "departments": [
+        "Zürich können das",
+        "das Wohlergehen der Zürcherinnen und",
+        "Seine Erkenntnisse setzt das"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "8001"
+        ]
+      }
+    }
   }
 }

@@ -6,15 +6,8 @@
   "main_content": "• Global coverage : It encompasses international literature not covered by other databases and offers users a truly global perspective.\n• Unique: 54% of the journals in Global Health are not in PubMed; around 70% are not listed in Medline or Embase.\n• Selected: The literature is chosen by subject specialists and only relevant works are included.\n• Comprehensive : The interdisciplinary database covers all aspects of public health at an international and local level and includes a wealth of material from other areas of biomedicine and life sciences.\n• Full text: Global Health provides selected full text content from journals, proceedings and conferences from sources that are difficult to access.\nWith more than 3.1 million records and over 160,000 records added every year, Global Health is the only database dedicated to public health. It adds to the picture of international medical and health research by providing unrivalled access to all relevant research and practices in global health around the world.\n\nGlobal Health can be accessed via the Web of Science platform and is integrated in the Web of Science citation network. The database can be accessed via the ETH Zurich network or at the ETH Library.\n\nMore than just data – Benefit from know-how\n\n# KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start.",
   "named_entities": [
     "Global Health",
-    "Unique",
-    "PubMed",
-    "Medline",
-    "Embase",
-    "Selected",
-    "Comprehensive",
-    "Full",
-    "Science",
-    "Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "International",
@@ -25,19 +18,29 @@
     "ETH Zurich",
     "Health",
     "Global",
-    "From",
     "International",
     "Database",
-    "Literature"
+    "Literature",
+    "Other"
   ],
-  "summary": "• Global coverage : It encompasses international literature not covered by other databases and offers users a truly global perspective....",
+  "summary": "• Global coverage : It encompasses international literature not covered by other databases and offers users a truly global perspective. • Unique: 54% of the journals in Global Health are not in PubMed; around 70% are not listed in Medline or Embase. • Selected: The literature is chosen by subject specialists and only relevant works are included....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 5,
+    "numbered_items": 0,
+    "headings": 1,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 220,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -47,6 +50,32 @@
       "Events",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.0,
+      "avg_word_length": 5.07,
+      "long_word_percentage": 28.64
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the Web of Science citation network",
+      "authors": [
+        "Global",
+        "Unique",
+        "Global Health"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Global Health",
+        "Medline"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

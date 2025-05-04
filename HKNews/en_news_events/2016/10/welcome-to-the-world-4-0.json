@@ -7,14 +7,10 @@
   "named_entities": [
     "Treffpunkt Science City",
     "Experience Sunday",
-    "The Sunday Special",
     "Robotic Fabrication Laboratory",
-    "The Experience Sundays",
-    "Die Roboter",
-    "Digital",
-    "Life",
-    "Zurich",
-    "World"
+    "ETH Zurich",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Technology & Innovation",
@@ -29,18 +25,28 @@
     "Hönggerberg Campus",
     "Will",
     "November",
-    "Also",
     "Digital",
-    "From"
+    "Sunday",
+    "Life"
   ],
-  "summary": "Digital assistance in everyday life: Life without the internet, mobile phones and constant connectivity? Almost unthinkable for many of us....",
+  "summary": "Digital assistance in everyday life: Life without the internet, mobile phones and constant connectivity? Almost unthinkable for many of us. The digital revolution is having a growing influence on our everyday lives and opening up a whole host of new possibilities, but we've only scratched the surface of what digitalisation can offer....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 635,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +57,40 @@
       "Technology",
       "Research",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.16,
+      "avg_word_length": 4.95,
+      "long_word_percentage": 28.5
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Digital",
+        "Almost"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "30 October",
+        "6 November",
+        "20 November"
+      ],
+      "time_references": [],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "German",
+        "Zurich"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -29,18 +29,28 @@
     "Hönggerberg Campus",
     "Robot",
     "Corrosion",
-    "That",
-    "This",
-    "Bridges"
+    "Bridges",
+    "Concrete",
+    "Elsener"
   ],
-  "summary": "",
+  "summary": "Corrosion jeopardises Swiss infrastructure: We rely on Switzerland’s 3,500 motorway bridges – plus thousands more on cantonal roads – to carry us safely across valleys, streams, rivers and other roads. Most of these bridges have two factors in common: they are essential to Switzerland’s transport infrastructure and they are made of reinforced concrete....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 949,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,38 @@
       "Catering",
       "Sustainability",
       "Infrastructure"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.07,
+      "avg_word_length": 5.02,
+      "long_word_percentage": 29.82
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Corrosion",
+        "Switzerland"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland",
+        "Elsener"
+      ],
+      "departments": [
+        "and Robert Flatt from the",
+        "professor at the",
+        "Materials joined forces with the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "2012"
+        ]
+      }
+    }
   }
 }

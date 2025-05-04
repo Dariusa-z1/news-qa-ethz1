@@ -8,13 +8,13 @@
     "Sekunden Zeit",
     "Polybahn-Pitch",
     "Vizepräsident Detlef Günther",
-    "Die Autonomie",
     "Seite Video",
     "Seit Anfang Jahr",
     "Folge Polybahn-Pitches",
     "Seite Lino Guzzella",
     "Seite Sarah Springman",
-    "Seite Roman Boutellier"
+    "Seite Roman Boutellier",
+    "Vize-Präsident"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Wissenschaft kurz und knapp: Während einer Polybahnfahrt vom Central hoch zur ETH haben ETH-Angehörige rund 100 Sekunden Zeit, die Zuhörer für ihre Tätigkeit zu begeistern....",
+  "summary": "Wissenschaft kurz und knapp: Während einer Polybahnfahrt vom Central hoch zur ETH haben ETH-Angehörige rund 100 Sekunden Zeit, die Zuhörer für ihre Tätigkeit zu begeistern. Im neuesten Polybahn-Pitch spricht Vizepräsident Detlef Günther über die Unabhängigkeit der Forschung....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 155,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Researchers",
@@ -48,6 +58,31 @@
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.22,
+      "avg_word_length": 6.19,
+      "long_word_percentage": 40.65
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Wissenschaft",
+        "Während",
+        "Polybahnfahrt",
+        "Central",
+        "Angehörige"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

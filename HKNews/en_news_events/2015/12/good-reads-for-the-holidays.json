@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "More",
-    "That",
     "Read",
-    "This",
     "Climate",
-    "Energy"
+    "Energy",
+    "Switzerland",
+    "Environmental"
   ],
-  "summary": "Climate change: This is a small selection of English blog posts, for a nice German selection, see here . The desire to foresee the weather and climate probably goes back to early mankind....",
+  "summary": "Climate change: This is a small selection of English blog posts, for a nice German selection, see here . The desire to foresee the weather and climate probably goes back to early mankind. Whereas experience in reading the signs of weather changes has long helped for short-term predictions of a few hours, it is only for a few decades that we have been able to forecast weather over several days – and simulate the future climate....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 579,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Faculty"
@@ -50,6 +60,27 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.3,
+      "avg_word_length": 5.09,
+      "long_word_percentage": 27.81
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland",
+        "Franklin University Switzerland",
+        "New York",
+        "Lugano"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015"
+        ]
+      }
+    }
   }
 }

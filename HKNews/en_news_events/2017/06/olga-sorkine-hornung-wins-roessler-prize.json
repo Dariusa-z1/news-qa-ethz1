@@ -28,19 +28,29 @@
     "ETH Zurich",
     "Computer",
     "Sorkine",
-    "With",
     "Rössler",
     "Prize",
-    "Zurich"
+    "Zurich",
+    "Award"
   ],
-  "summary": "A creative computer scientist: Since 2009, the Rössler Prize has been awarded annually to young professors at ETH Zurich who are building their careers....",
+  "summary": "A creative computer scientist: Since 2009, the Rössler Prize has been awarded annually to young professors at ETH Zurich who are building their careers. The award is sponsored by ETH alumnus and mathematician Max Rössler. Olga Sorkine is only the second female winner of the prize....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 848,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -53,6 +63,40 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.19,
+      "avg_word_length": 5.04,
+      "long_word_percentage": 29.01
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Rössler Prize",
+        "Zurich",
+        "Max Rössler"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "University College London",
+        "Russia",
+        "Israel",
+        "Parchment Book",
+        "Berlin"
+      ],
+      "departments": [
+        "scientist and lecturer at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2009",
+          "2012"
+        ]
+      }
+    }
   }
 }

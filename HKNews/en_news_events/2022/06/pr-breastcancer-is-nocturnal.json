@@ -11,10 +11,8 @@
     "Molecular Oncology",
     "Zoi Diamantopoulou",
     "Professor Nicola Aceto",
-    "Breast",
-    "Zurich",
-    "Nature",
-    "When"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -26,19 +24,29 @@
     "ETH Zurich",
     "Cancer",
     "Cells",
-    "That",
     "Tumour",
     "Circulating",
-    "Study"
+    "Study",
+    "Which"
   ],
-  "summary": "Breast cancer is one of the most common forms of cancer, according to the World Health Organization (WHO). Each year, around 2.3 million people worldwide contract the disease....",
+  "summary": "Breast cancer is one of the most common forms of cancer, according to the World Health Organization (WHO). Each year, around 2.3 million people worldwide contract the disease. If doctors detect breast cancer early enough, patients usually respond well to treatment....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 513,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -49,6 +57,29 @@
       "Education",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.3,
+      "avg_word_length": 5.15,
+      "long_word_percentage": 26.32
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the journal Nature",
+      "authors": [
+        "Breast",
+        "World Health Organization",
+        "However"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

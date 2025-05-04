@@ -8,9 +8,8 @@
     "Bella Vista",
     "Wolfgang-Pauli-Strasse",
     "Zurich-Affoltern",
-    "Staff",
-    "Group",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Catering & Food",
@@ -23,20 +22,30 @@
   "keywords": [
     "ETH Zurich",
     "Will",
-    "This",
-    "With",
     "Staff",
     "Students",
-    "Facilities"
+    "Facilities",
+    "Market",
+    "Opening"
   ],
-  "summary": "Staff and students of ETH Zurich will be able to visit two new dining facilities this year: a food market with three different counters is opening on 9 May 2016 in the converted HPR building....",
+  "summary": "Staff and students of ETH Zurich will be able to visit two new dining facilities this year: a food market with three different counters is opening on 9 May 2016 in the converted HPR building. The market will offer a selection of vegetarian dishes, a pizza and pasta counter, and options from the grill....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 167,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Students",
       "Staff",
@@ -47,6 +56,22 @@
       "Infrastructure",
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.56,
+      "avg_word_length": 5.02,
+      "long_word_percentage": 29.94
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016"
+        ]
+      }
+    }
   }
 }

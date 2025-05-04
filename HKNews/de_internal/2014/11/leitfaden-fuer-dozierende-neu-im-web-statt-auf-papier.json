@@ -5,16 +5,7 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Main article: Wer an der ETH doziert, kennt ihn: den orangefarbenen «Leitfaden für Dozierende». Das Rektorat hat den Leitfaden bisher jeweils neuen Dozierenden per Post geschickt.\n\nNun hat das Rektorat den Leitfaden im Web umgesetzt. Die Vorteile liegen auf der Hand: Die Informationen sind von überall zugänglich und Anpassungen sind rasch möglich.\n\nDer Leitfaden orientiert sich am Prozess, den Dozierende bei der Planung und Durchführung ihrer Lehrveranstaltung durchlaufen und ordnet die Themen den Prozessschritten entlang.\n\nLeitfaden für Dozierende: Den «Leitfaden für Dozierende» finden Sie hier:\n\nwww.ethz.ch/leitfaden-dozierende\n\nRückmeldungen nimmt gerne entgegen:",
   "named_entities": [
-    "Das Rektorat",
-    "Die Vorteile",
-    "Die Informationen",
-    "Der Leitfaden",
-    "Main",
-    "Dozierende",
-    "Dozierenden",
-    "Post",
-    "Hand",
-    "Anpassungen"
+    "ETH"
   ],
   "topics": [
     "University Administration",
@@ -29,20 +20,46 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Wer an der ETH doziert, kennt ihn: den orangefarbenen «Leitfaden für Dozierende». Das Rektorat hat den Leitfaden bisher jeweils neuen Dozierenden per Post geschickt....",
+  "summary": "Main article: Wer an der ETH doziert, kennt ihn: den orangefarbenen «Leitfaden für Dozierende». Das Rektorat hat den Leitfaden bisher jeweils neuen Dozierenden per Post geschickt. Nun hat das Rektorat den Leitfaden im Web umgesetzt....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 94,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 11.75,
+      "avg_word_length": 5.95,
+      "long_word_percentage": 39.36
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "www.ethz.ch"
+        ],
+        "phones": []
+      }
+    }
   }
 }

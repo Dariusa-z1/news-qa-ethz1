@@ -11,10 +11,9 @@
     "Paradiso Synth",
     "Campus Hönggerberg",
     "World Economic Forum",
-    "Professor",
-    "Sciences",
-    "Zurich",
-    "Podcast"
+    "ETH Zurich",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Research",
@@ -28,19 +27,29 @@
     "ETH Zurich",
     "Paradiso",
     "Media",
-    "Also",
     "Started",
     "Zurich",
-    "Sounds"
+    "Sounds",
+    "Synthesizer"
   ],
-  "summary": "Joe Paradiso is Professor at the MIT Media Lab in Media Arts and Sciences, and he also plays an important role in the international scene of electronic music....",
+  "summary": "Joe Paradiso is Professor at the MIT Media Lab in Media Arts and Sciences, and he also plays an important role in the international scene of electronic music. Much of what Joe does today started in the 1980ies as a postdoc in the department of physics at ETH Zurich....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 159,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +59,38 @@
       "Infrastructure",
       "Research",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.88,
+      "avg_word_length": 4.59,
+      "long_word_percentage": 23.9
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "Media Arts and Sciences",
+      "authors": [
+        "Joe Paradiso",
+        "Professor",
+        "Media Lab",
+        "Media Arts",
+        "Sciences"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Davos",
+        "Massachusetts",
+        "Zurich",
+        "Media Arts"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1980"
+        ]
+      }
+    }
   }
 }

@@ -11,10 +11,8 @@
     "Probieren Sie",
     "Recherche-Möglichkeit",
     "Ihre Meinung",
-    "Laptop",
-    "Mobilgeräte",
-    "BrowZine",
-    "Netzwerk"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation"
@@ -27,14 +25,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Dieses ist sowohl als Web-Anwendung als auch über eine App nutzbar:\n\n• externe Seite Webanwendung für Laptop/PC call_made\n• externe Seite App für Mobilgeräte call_made\nUm auf BrowZine zugreifen zu können, müssen Sie sich im Netzwerk der ETH Zürich befinden....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 2,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 68,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -42,6 +50,20 @@
     "context_tags": [
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.67,
+      "avg_word_length": 5.35,
+      "long_word_percentage": 30.88
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

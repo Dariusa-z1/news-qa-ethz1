@@ -11,10 +11,8 @@
     "Zentrale Diskussionspunkte",
     "Grünen Boden",
     "Martha Vogel",
-    "Seit",
-    "Montag",
-    "Klimakonferenz",
-    "Paris"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Sustainability",
@@ -33,13 +31,23 @@
     "Education"
   ],
   "summary": "Seit dem Montag, 30. November 2015, und noch bis zum 11. Dezember 2015 findet die 21. UN-Klimakonferenz COP21 in Paris statt....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 157,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "General Public"
     ],
@@ -48,6 +56,36 @@
       "Infrastructure",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.7,
+      "avg_word_length": 6.04,
+      "long_word_percentage": 31.21
+    },
+    "temporal_info": {
+      "event_dates": [
+        "10 bis"
+      ],
+      "time_references": [],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Nachfolgeabkommen",
+        "Paris"
+      ],
+      "departments": [
+        "Martha Vogel ist Doktorandin am",
+        "Atmosphäre und Kima der"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "2015"
+        ]
+      }
+    }
   }
 }

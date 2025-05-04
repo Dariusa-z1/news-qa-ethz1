@@ -6,11 +6,7 @@
   "main_content": "ETH had two stands at the festival this year, showing visitors a number of different projects. There was a lot going on at Rigiplatz with the famous Swiss comic-book hero Globi – souvenir photos, autographs and painting activities offered fun for people of all ages. An app from the Game Technology Center even brought Globi and other cartoon characters to life in 3D.\n\nThe market stall almost at the other end of the street festival provided space for hobby gardeners. The Zurich–Basel Plant Science Center’s citizen science initiative deals with the question of whether Zurich's wild plant population is viable in the long term, and whether gene flow occurs between the different populations. The goal of the project is to show that the city air is filled with plant seeds that very quickly repopulate every available piece of ground. At the community festival, volunteers were given boxes to fill with sterilised soil and place somewhere in the city – in their garden or front yard, at a school, on a balcony – so that they can observe which plant seeds will populate the open space.",
   "named_entities": [
     "Game Technology Center",
-    "The Zurich",
     "Basel Plant Science Center",
-    "Rigiplatz",
-    "Swiss",
-    "Globi",
     "ETH"
   ],
   "topics": [
@@ -19,22 +15,32 @@
     "Infrastructure"
   ],
   "keywords": [
-    "With",
     "Plant",
     "Festival",
-    "That",
     "Different",
     "Globi",
-    "Other"
+    "Other",
+    "Space",
+    "Science"
   ],
-  "summary": "ETH had two stands at the festival this year, showing visitors a number of different projects....",
+  "summary": "ETH had two stands at the festival this year, showing visitors a number of different projects. There was a lot going on at Rigiplatz with the famous Swiss comic-book hero Globi – souvenir photos, autographs and painting activities offered fun for people of all ages....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 186,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -44,6 +50,29 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 26.57,
+      "avg_word_length": 4.74,
+      "long_word_percentage": 22.04
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Rigiplatz"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Rigiplatz"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

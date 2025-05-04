@@ -10,11 +10,8 @@
     "Environment Commission",
     "National Council",
     "Renate Schube",
-    "Main",
-    "What",
-    "London",
-    "Christmas",
-    "Switzerland"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Finance",
@@ -28,19 +25,29 @@
     "ETH Zurich",
     "Francs",
     "Price",
-    "That",
-    "From",
     "Travel",
-    "Train"
+    "Train",
+    "Would",
+    "Ticket"
   ],
-  "summary": "Main article: What about nipping to London at the weekend? Or a quick trip to New York for some Christmas shopping?...",
+  "summary": "Main article: What about nipping to London at the weekend? Or a quick trip to New York for some Christmas shopping? We’re all too familiar with the temptation of cheap flights, but the truth is that flying endangers the global climate....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 694,
     "readability_score": "easy to read",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Faculty"
     ],
@@ -49,6 +56,33 @@
       "Sustainability",
       "Technology",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.46,
+      "avg_word_length": 4.34,
+      "long_word_percentage": 19.02
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "2 to 7"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "New York",
+        "Basel",
+        "German",
+        "Berlin",
+        "London"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

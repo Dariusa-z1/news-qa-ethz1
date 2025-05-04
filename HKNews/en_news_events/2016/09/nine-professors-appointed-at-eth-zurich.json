@@ -31,16 +31,26 @@
     "Zurich",
     "Research",
     "Currently",
-    "With"
+    "Full"
   ],
-  "summary": "Appointments: Rima Alaifari. Dr Rima Alaifari (*1987), currently a post-doctoral student at ETH Zurich, as Assistant Professor of Applied Mathematics....",
+  "summary": "Appointments: Rima Alaifari. Dr Rima Alaifari (*1987), currently a post-doctoral student at ETH Zurich, as Assistant Professor of Applied Mathematics. Rima Alaifari’s research investigates the mathematical foundations of signal and image processing (applied and computational harmonic analysis), and mathematical analysis of the solvability of inverse and poorly formulated problems....",
+  "content_structure": {
+    "paragraph_count": 25,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 6,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1263,
     "readability_score": "complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -54,6 +64,44 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.3,
+      "avg_word_length": 5.83,
+      "long_word_percentage": 42.2
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "Mathematical Sciences",
+      "authors": [
+        "Appointments",
+        "Rima Alaifari",
+        "Dr Rima Alaifari",
+        "Zurich",
+        "Assistant Professor"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Dr Federica Sallusto",
+        "Bellinzona",
+        "Biomedicine",
+        "Massachusetts Institute",
+        "Full"
+      ],
+      "departments": [
+        "Health Sciences and Technology to",
+        "of Gerhard Schratt enables the",
+        "mineral physics at the Federal"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1987",
+          "1981"
+        ]
+      }
+    }
   }
 }

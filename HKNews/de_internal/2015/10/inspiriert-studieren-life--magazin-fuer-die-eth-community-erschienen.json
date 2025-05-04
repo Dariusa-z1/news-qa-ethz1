@@ -5,16 +5,14 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Die Oktober-Ausgabe von «life – Magazin für die ETH-Community» gibt einen Einblick in die Ergebnisse der Studierendenbefragung 2015 und zeigt auf, weshalb für Rektorin Sarah Springman das selbstständige Lernen und das Zugehörigkeitsgefühl zu der Hochschule als einer Gemeinschaft so wichtig sind.\n\nAusserdem spricht Lukas Vonesch, der neue Leiter von Human Resources , über die Autonomie der ETH-Angehörigen, ihre Wettbewerbsfähigkeit und die Schwerpunkte, die er in seiner Arbeit setzen möchte.\n\nWeiter gibt «life» einen Einblick in die Arbeit des externe Seite ETH Store , der vier Spezialisten aus dem Team Industry Relations der ETH Zürich und der Pioneer-Fellowship -Stipendiatin Claudia Kuster.",
   "named_entities": [
-    "Die Oktober-Ausgabe",
     "Rektorin Sarah Springman",
     "Lukas Vonesch",
     "Human Resources",
     "Team Industry Relations",
     "Pioneer-Fellowship",
     "Stipendiatin Claudia Kuster",
-    "Magazin",
-    "Community",
-    "Einblick"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -31,14 +29,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Die Oktober-Ausgabe von «life – Magazin für die ETH-Community» gibt einen Einblick in die Ergebnisse der Studierendenbefragung 2015 und zeigt auf, weshalb für Rektorin Sarah Springman das selbstständige Lernen und das Zugehörigkeitsgefühl zu der Hochschule als einer Gemeinschaft so wichtig sind....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 101,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "General Public"
@@ -46,6 +54,36 @@
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 33.67,
+      "avg_word_length": 5.74,
+      "long_word_percentage": 31.68
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Die Oktober",
+        "Ausgabe",
+        "Magazin",
+        "Community",
+        "Einblick"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Sarah Springman",
+        "Claudia Kuster"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015"
+        ]
+      }
+    }
   }
 }

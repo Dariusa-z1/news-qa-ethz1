@@ -13,8 +13,8 @@
     "Memorial University",
     "North American",
     "Luca Di Tizio",
-    "The Swissloop",
-    "Hyperloop Pod Prototype"
+    "Hyperloop Pod Prototype",
+    "Rector Sarah Springman"
   ],
   "topics": [
     "Education",
@@ -28,19 +28,29 @@
     "ETH Zurich",
     "Their",
     "Swissloop",
-    "That",
     "Team",
     "Competition",
-    "From"
+    "Around",
+    "Musk"
   ],
-  "summary": "Out of the original 1,200 applicants from universities around the world, Elon Musk invited a total of 27 teams to the SpaceX headquarters in Hawthorne, Los Angeles....",
+  "summary": "Out of the original 1,200 applicants from universities around the world, Elon Musk invited a total of 27 teams to the SpaceX headquarters in Hawthorne, Los Angeles. Their transport capsules – known as pods – underwent rigorous testing there over the course of six days....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 446,
     "readability_score": "moderately complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students"
     ],
@@ -48,6 +58,27 @@
       "Infrastructure",
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.24,
+      "avg_word_length": 4.93,
+      "long_word_percentage": 24.66
+    },
+    "semantic_entities": {
+      "locations": [
+        "Team",
+        "Hawthorne",
+        "Northeastern University",
+        "Space"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017"
+        ]
+      }
+    }
   }
 }

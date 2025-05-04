@@ -10,11 +10,8 @@
     "Raffaele Di Giacomo",
     "Di Giacomo",
     "Luca Bonanomi",
-    "Discovery",
-    "Rattlesnakes",
-    "Department",
-    "Mechanical",
-    "Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Weather & Environment",
@@ -27,20 +24,30 @@
   "keywords": [
     "ETH Zurich",
     "Film",
-    "That",
     "Temperature",
     "Pectin",
     "Sensitive",
-    "With"
+    "Artificial",
+    "Giacomo"
   ],
-  "summary": "Discovery through “cyberwood”: Rattlesnakes and pit-vipers are famous for being able to safely locate their prey even in absolute darkness....",
+  "summary": "Discovery through “cyberwood”: Rattlesnakes and pit-vipers are famous for being able to safely locate their prey even in absolute darkness. The highly sensitive pit organ between eye and nose allows them to detect the warm body of a mammal even at a meter’s distance....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 605,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +58,36 @@
       "Research",
       "Weather",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 25.21,
+      "avg_word_length": 5.06,
+      "long_word_percentage": 28.93
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Discovery",
+        "Rattlesnakes",
+        "Scientists"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zurich"
+      ],
+      "departments": [
+        "Mechanical and Process Engineering at",
+        "with Chiara Daraio at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015"
+        ]
+      }
+    }
   }
 }

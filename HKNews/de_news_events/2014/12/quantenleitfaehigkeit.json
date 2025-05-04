@@ -7,14 +7,14 @@
   "named_entities": [
     "Zwei Gefässe",
     "Physikprofessor Tilman Esslinger",
-    "Die Leitfähigkeit",
     "Planck-Konstante",
     "Diese Grundlagenforschung",
     "Schweizerischen Nationalfonds",
     "Physiker Effekte",
-    "Die Gruppe",
     "Tilman Esslinger",
-    "Im Experiment"
+    "Im Experiment",
+    "Milliardstel Grad",
+    "Jean-Philippe Brantut"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Kühlen bis fast zum Nullpunkt: Zwei Gefässe mit Gas, die durch eine Röhre miteinander verbunden sind, bilden den Ausgangspunkt für die Überlegungen der Physiker am ETH-Institut für Quantenelektronik....",
+  "summary": "Kühlen bis fast zum Nullpunkt: Zwei Gefässe mit Gas, die durch eine Röhre miteinander verbunden sind, bilden den Ausgangspunkt für die Überlegungen der Physiker am ETH-Institut für Quantenelektronik. Weil sich in einem Behälter etwas mehr Gas befindet als im anderen, fliessen Teilchen durch die Leitung von einem Ort zum anderen....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 500,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "Administration"
@@ -49,6 +59,37 @@
       "Research",
       "Administrative",
       "Weather"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.24,
+      "avg_word_length": 5.88,
+      "long_word_percentage": 34.4
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "der Fachzeitschrift «Nature» berichten",
+      "authors": [
+        "Kühlen",
+        "Nullpunkt",
+        "Zwei Gefässe"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Stufen"
+      ],
+      "departments": [
+        "Quantenelektronik",
+        "Fellow des Schweizerischen Nationalfonds am"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "1038"
+        ]
+      }
+    }
   }
 }

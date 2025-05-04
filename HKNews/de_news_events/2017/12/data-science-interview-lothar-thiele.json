@@ -7,14 +7,14 @@
   "named_entities": [
     "Herr Thiele",
     "Digitale Transformation",
-    "Die Digitalisierung",
     "Meine Aufgabe",
     "Im Grunde",
-    "Die Argumente",
     "Im Vordergrund",
     "Internet Informationen",
-    "Das Thema",
-    "Daten Informationen"
+    "Daten Informationen",
+    "Welche Seite",
+    "Beide Seiten",
+    "Meiner Ansicht"
   ],
   "topics": [
     "Technology & Innovation",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Herr Thiele, Sie wurden von der Schulleitung kürzlich zum Delegierten für Digitale Transformation ernannt. Was ist ihre Aufgabe?...",
+  "summary": "Main article: Herr Thiele, Sie wurden von der Schulleitung kürzlich zum Delegierten für Digitale Transformation ernannt. Was ist ihre Aufgabe? Thiele: Die Digitalisierung ist nicht nur für die Medien ein grosses Thema, sondern auch für die Wirtschaft und die Politik....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 878,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -50,6 +60,38 @@
       "Research",
       "Education",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.91,
+      "avg_word_length": 6.0,
+      "long_word_percentage": 33.71
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Herr Thiele",
+        "Schulleitung",
+        "Delegierten"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zürich Forschung",
+        "Rückwirkungen"
+      ],
+      "departments": [
+        "Professor für Technische Informatik am",
+        "Als führende",
+        "die Professuren und"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1978"
+        ]
+      }
+    }
   }
 }

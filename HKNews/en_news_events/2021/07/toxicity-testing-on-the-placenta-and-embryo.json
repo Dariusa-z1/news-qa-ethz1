@@ -8,13 +8,9 @@
     "Biosystems Science",
     "Julia Boos",
     "Professor Andreas Hierlemann",
-    "Drugs",
-    "Petri",
-    "Department",
-    "Engineering",
-    "Zurich",
-    "Basel",
-    "There"
+    "ETH Zurich",
+    "ETH",
+    "Andreas Hierlemann"
   ],
   "topics": [
     "Research",
@@ -26,19 +22,29 @@
     "ETH Zurich",
     "Cell",
     "Cells",
-    "That",
     "Embryonic",
     "Substances",
-    "With"
+    "Development",
+    "Lines"
   ],
-  "summary": "A chip with different cell types: Drugs must be safe not just for the patients; in the case of pregnant patients, drugs must also be safe for the unborn children still in the womb....",
+  "summary": "A chip with different cell types: Drugs must be safe not just for the patients; in the case of pregnant patients, drugs must also be safe for the unborn children still in the womb. Therefore, at an early stage in the development of new medicines, candidate substances are tested in the Petri dish on embryonic stem cells from mouse cell lines....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 474,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -48,6 +54,33 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 24.95,
+      "avg_word_length": 5.07,
+      "long_word_percentage": 27.64
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the Department of Biosystems Science and Engineering at ETH Zurich in Basel have now devised a laboratory test that incorporates the role of the placenta into embryotoxicity assessments",
+      "authors": [
+        "Therefore",
+        "However"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Basel"
+      ],
+      "departments": [
+        "Biosystems Science and Engineering at",
+        "Researchers in the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

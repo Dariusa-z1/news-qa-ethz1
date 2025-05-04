@@ -4,16 +4,7 @@
   "date": "2019-04-01",
   "source": "Unknown source",
   "main_content": "Since April 2019, a whole series of new functionalities have been available to the academic community of the platform e-rara.ch .\n\ne-rara.ch now supports the IIIF standard, too. The corresponding IIIF manifest can be found for each of the 71,750 titles (as of 1 April 2019) on the platform. This means that texts, prints or maps can be compared with digital copies from numerous prestigious institutions in the IIIF-Community and researched in more detail on the screen.\n\nProcessing, sharing and downloading images\n\nMoreover, users can now process images swiftly and independently, download files in JPEG format and re-use them for research and publication purposes, or share the selected contents on social media via the newly available sharing links.\n\nFull-text download\n\nEver since 2017, the platform has been continuously expanded to incorporate full-text recognition for Antiqua and German type printed from 1801 onwards. Full texts can now also be downloaded directly.",
-  "named_entities": [
-    "Since April",
-    "IIIF",
-    "Community",
-    "Moreover",
-    "JPEG",
-    "Ever",
-    "Antiqua",
-    "German"
-  ],
+  "named_entities": [],
   "topics": [
     "Research",
     "Technology & Innovation",
@@ -23,19 +14,29 @@
     "Platform",
     "Since",
     "April",
-    "2019",
     "Been",
     "Available",
-    "Erarach"
+    "Erarach",
+    "Iiif"
   ],
-  "summary": "Since April 2019, a whole series of new functionalities have been available to the academic community of the platform e-rara.ch . e-rara.ch now supports the IIIF standard, too....",
+  "summary": "Since April 2019, a whole series of new functionalities have been available to the academic community of the platform e-rara.ch . e-rara.ch now supports the IIIF standard, too. The corresponding IIIF manifest can be found for each of the 71,750 titles (as of 1 April 2019) on the platform....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 158,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -43,6 +44,31 @@
     "context_tags": [
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.56,
+      "avg_word_length": 5.03,
+      "long_word_percentage": 27.22
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Since April",
+        "Community"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2019",
+          "2019"
+        ]
+      }
+    }
   }
 }

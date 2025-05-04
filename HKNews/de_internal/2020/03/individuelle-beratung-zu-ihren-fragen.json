@@ -10,11 +10,7 @@
     "Open-Access-Publizieren",
     "Lassen Sie",
     "Sie Neues",
-    "Book",
-    "Librarian",
-    "Skype",
-    "Business",
-    "Termin"
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -30,14 +26,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Ab sofort bieten wir Book a Librarian auch via Skype for Business an....",
+  "summary": "Ab sofort bieten wir Book a Librarian auch via Skype for Business an. Vereinbaren Sie noch heute einen Termin mit uns, falls Sie Fragen zu einer Datenbank, Rechercheunterstützung oder den Dienstleistungen der ETH-Bibliothek, wie z.B. zum Bildarchiv, dem Open-Access-Publizieren oder dem Forschungsdatenmanagement haben....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 85,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -46,6 +52,28 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.14,
+      "avg_word_length": 5.74,
+      "long_word_percentage": 24.71
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Librarian",
+        "Business"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

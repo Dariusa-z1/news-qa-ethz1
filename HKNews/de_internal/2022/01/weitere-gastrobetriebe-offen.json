@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Hönggerberg: Die Pandemie stellt die Gastrobetriebe an der ETH vor grosse Herausforderungen. Infolge der wieder eingeführten Home-Office Plicht und der vorlesungsfreien Zeit haben sich die Gäste markant reduziert, was eine Reduktion des Angebots an Verpflegungsmöglichkeiten zur Folge hatte.\n\nAb heute Montag, 24. Januar starten an der ETH die Sessionsprüfungen. Da die Caterer mit einer zusätzlichen Nachfrage rechnen, öffnet auf dem Hönggerberg der food market wieder als Betriebskantine. Das bedeutet, dass alle ETH-Angehörigen zugelassen sind, nicht jedoch externe Gäste, da für eine Konsumation die ETH-Karte vorgewiesen werden muss. Das Vorweisen eines Zertifikats ist nicht notwendig.\n\nOhne ETH-Karte können sich alle Gäste unter Vorzeigen des 2G-Zertifikats in den übrigen geöffneten Betrieben verpflegen: Fusion meal & coffee, Alumni quattro Lounge und Rice UP! Diese Lokale bieten übrigens alle auch ein Take-away-Angebot. Darüber hinaus macht täglich mindestens ein Foodtruck Halt auf dem Hönggerberg.\n\nIm Zentrum öffnete bereits vor einer Woche der Polysnack als 2G-Betrieb wieder und ergänzte das Angebot von Clausiusbar und Einstein/Zweistein, die ebenfalls als 2G-Betriebe geführt werden. Wer kein entsprechendes Zertifikat mit sich führt, kann das Essen als Take-away mitnehmen. Verpflegungsalternativen bieten auch die CaféBar im Hauptgebäude und täglich mindestens ein Foodtruck. Daneben gibt es weiterhin den Foodtrailer, nun zusätzlich mit Kiosk im Gebäude ETZ im Gloriarank. Am 31. Januar wird die Mensa Polyterrasse, die zurzeit noch saniert wird, ihre Türen als Betriebskantine wieder öffnen.\n\nAuf Beginn des Frühlingssemester stellen die Gastrobetreiber weitere Öffnungen in Aussicht, primär noch abhängig von der Entwicklung der Pandemie. Auch wenn die Homeoffice-Pflicht fallen sollte, können die Gastrobetreiber an beiden Standorten schnell reagieren und weitere Betriebe öffnen. Entsprechende Änderungen werden auf Intern aktuell kommuniziert.\n\nEine ständig aktualisierte Übersicht über alle geöffneten Gastrobetriebe finden Sie auf folgender Webseite Angebot Gastronomie & Detailhandel ab 24. Januar 2022 | ETH Zürich .\n\nAktuell offene Gastrobetriebe: • food market (Betriebskantine: ETH-Karte notwendig), mit Take-away\n• Alumni quattro Lounge (2G), mit Take-away\n• Rice UP! (2G), mit Take-away\n• Fusion meal & coffee (2G), mit Take-away\n• Street Food: täglich ein Food-Truck und ein Kaffeewagen, an zwei Tagen Aess-Bar\n• Polysnack (2G), mit Take-away\n• Clausiusbar/Kiosk CLA (2G), mit Take-away\n• Einstein/Zweistein (2G), mit Take-away\n• CaféBar im HG (Take away)\n• Foodtrailer/Kiosk ETZ, mit Take-away\n• Street Food: täglich ein Food-Truck und ein Kaffeewagen, an zwei Tagen Aess-Bar",
   "named_entities": [
-    "Die Pandemie",
     "Home-Office Plicht",
-    "Das Vorweisen",
     "Diese Lokale",
     "Foodtruck Halt",
     "Im Zentrum",
     "Mensa Polyterrasse",
-    "Auf Beginn",
     "Homeoffice-Pflicht",
-    "Webseite Angebot Gastronomie"
+    "Webseite Angebot Gastronomie",
+    "Street Food",
+    "Food-Truck",
+    "Tagen Aess-Bar"
   ],
   "topics": [
     "Catering & Food",
@@ -33,14 +33,24 @@
     "Science",
     "Campus"
   ],
-  "summary": "Hönggerberg: Die Pandemie stellt die Gastrobetriebe an der ETH vor grosse Herausforderungen....",
+  "summary": "Hönggerberg: Die Pandemie stellt die Gastrobetriebe an der ETH vor grosse Herausforderungen. Infolge der wieder eingeführten Home-Office Plicht und der vorlesungsfreien Zeit haben sich die Gäste markant reduziert, was eine Reduktion des Angebots an Verpflegungsmöglichkeiten zur Folge hatte....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 10,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 389,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -50,6 +60,28 @@
       "COVID-19",
       "Infrastructure",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.91,
+      "avg_word_length": 5.71,
+      "long_word_percentage": 31.11
+    },
+    "semantic_entities": {
+      "locations": [
+        "Kaffeewagen",
+        "Take",
+        "Aussicht",
+        "Food-Truck",
+        "Foodtruck"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2022"
+        ]
+      }
+    }
   }
 }

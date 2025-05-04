@@ -7,14 +7,14 @@
   "named_entities": [
     "Digitale Transformation",
     "Christian Wolfrum",
-    "Die Medizin",
-    "In Zürich",
-    "Der Bezug",
-    "Eine Umfrage",
     "Ihrer Forschung",
     "Medizinische Forschung",
     "Weiterbildung Akzente",
-    "Digital Health"
+    "Digital Health",
+    "Diesen Aspekt",
+    "Translationale Ernährungsbiologie",
+    "Studiengangs Gesundheitswissenschaften",
+    "Jahren Studiendirektor"
   ],
   "topics": [
     "Research",
@@ -33,13 +33,23 @@
     "Education"
   ],
   "summary": "Main article: ETH-News: Die ETH kannte bis jetzt Delegierte für Nachhaltigkeit, Chancengleichheit, Digitale Transformation und für Globales. Neu gibt es auch einen Delegierten für Medizin. Warum?...",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 600,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -49,6 +59,39 @@
       "Technology",
       "Research",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.38,
+      "avg_word_length": 6.24,
+      "long_word_percentage": 37.17
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Delegierte",
+        "Nachhaltigkeit"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Humanmedizin",
+        "Themenschwerpunkt",
+        "Drittel",
+        "Ihrer Forschung"
+      ],
+      "departments": [
+        "ich Ideen aus den einzelnen",
+        "Wir wollen Forschenden aller",
+        "Professor für Translationale Ernährungsbiologie am"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020"
+        ]
+      }
+    }
   }
 }

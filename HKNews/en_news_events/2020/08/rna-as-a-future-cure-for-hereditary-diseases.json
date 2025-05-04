@@ -12,9 +12,8 @@
     "University Hospital Zurich",
     "Triemli Hospital Zurich",
     "National Center",
-    "Fusion",
-    "Short",
-    "Berne"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -26,21 +25,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
     "Molecule",
     "Molecules",
     "They",
     "Hall",
-    "From"
+    "Gene",
+    "Ferrochelatase"
   ],
-  "summary": "Fusion molecule shown to be effective: Short RNA molecules can be used as medication....",
+  "summary": "Fusion molecule shown to be effective: Short RNA molecules can be used as medication. Their effectiveness is based on the genetic information they carry: therapeutic RNA can bind to the body’s own RNA and thus influence how it functions. However, only a handful of such drugs are available so far....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 557,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +60,30 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.28,
+      "avg_word_length": 4.99,
+      "long_word_percentage": 26.75
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Fusion",
+        "However"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Research"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

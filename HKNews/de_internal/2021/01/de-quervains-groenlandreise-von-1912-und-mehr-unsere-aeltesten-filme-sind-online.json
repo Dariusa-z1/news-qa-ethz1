@@ -13,8 +13,8 @@
     "Paul Jaray",
     "Photographischen Instituts",
     "Bau-Film",
-    "Der Eidophor",
-    "Lassen Sie"
+    "Lassen Sie",
+    "Walter Mittelholzer"
   ],
   "topics": [
     "COVID-19",
@@ -29,14 +29,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Highlights aus dem Bestand: Endlich können Sie auch online über das Videoportal der ETH Zürich auf die 86 Filmschätze im Bildarchiv der ETH-Bibliothek zugreifen....",
+  "summary": "Highlights aus dem Bestand: Endlich können Sie auch online über das Videoportal der ETH Zürich auf die 86 Filmschätze im Bildarchiv der ETH-Bibliothek zugreifen. Zu entdecken gibt es historische 35-mm- oder 16-mm-Filme sowie Tonaufzeichnungen aus den Jahren 1912 bis 1980....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 304,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Researchers"
     ],
@@ -44,6 +54,28 @@
       "COVID-19",
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.89,
+      "avg_word_length": 5.83,
+      "long_word_percentage": 30.92
+    },
+    "semantic_entities": {
+      "locations": [
+        "Wasser"
+      ],
+      "departments": [
+        "Experimentelle Filme des",
+        "des Photographischen"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1912",
+          "1980"
+        ]
+      }
+    }
   }
 }

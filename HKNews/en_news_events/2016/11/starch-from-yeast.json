@@ -10,11 +10,8 @@
     "Agricultural Sciences",
     "Barbara Pfister",
     "Paul Scherrer Institute",
-    "Transferring",
-    "Starch",
-    "Professor",
-    "Zurich",
-    "Arabidopsis"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -29,18 +26,28 @@
     "Starch",
     "Yeast",
     "Enzymes",
-    "With",
     "Synthesis",
-    "Produced"
+    "Produced",
+    "Zeeman"
   ],
-  "summary": "Transferring plant enzymes: Starch is only produced by plants and algae....",
+  "summary": "Transferring plant enzymes: Starch is only produced by plants and algae. Now, it can also be produced by yeast – or, at any rate, by the yeasts in the labs of the group led by Samuel Zeeman, Professor of Plant Biochemistry at ETH Zurich’s Institute of Agricultural Sciences....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 635,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +58,34 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.48,
+      "avg_word_length": 5.14,
+      "long_word_percentage": 29.76
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Transferring",
+        "Starch",
+        "Samuel Zeeman",
+        "Professor"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Arabidopsis"
+      ],
+      "departments": [
+        "developed at the Paul Scherrer"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

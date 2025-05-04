@@ -7,14 +7,14 @@
   "named_entities": [
     "Energy Science Center",
     "Christian Schaffner",
-    "The Global Energy Challenge",
     "Corporate View",
     "Swiss Re",
     "President Lino Guzzella",
     "Corporate View Monday",
     "Auditorium Maximum",
     "Zurich The",
-    "Main"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Sustainability",
@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "Energy",
-    "That",
     "Will",
     "Companies",
-    "This",
-    "With"
+    "Symposium",
+    "Their",
+    "Global"
   ],
-  "summary": "Main article: ETH News: What’s the reasoning behind the particular format that the Energy Science Center has chosen for the symposium?...",
+  "summary": "Main article: ETH News: What’s the reasoning behind the particular format that the Energy Science Center has chosen for the symposium? Christian Schaffner: We want to offer industry representatives an opportunity to present their perspectives on the energy sector....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 532,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -51,6 +61,30 @@
       "Administrative",
       "Events",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.78,
+      "avg_word_length": 5.04,
+      "long_word_percentage": 27.07
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Energy Science Center",
+        "Christian Schaffner"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017"
+        ]
+      }
+    }
   }
 }

@@ -5,16 +5,16 @@
   "source": "Unbekannte Quelle",
   "main_content": "Suche nach alternativer Nutzung: Die St. Galler Stadtwerke berichteten vor wenigen Tagen über die Ergebnisse der Tiefenbohrung. Aus dem Untergrund lässt sich mit ca. fünf Litern hundertgrädigem Wasser pro Sekunde nur gerade ein Zehntel der Wassermenge produzieren, die man sich als Minimalziel gesetzt hatte. Das ursprüngliche Betriebskonzept – heisses Wasser aus dem Untergrund für die Energiegewinnung zu fördern und mittels einer zweiten Bohrung wieder zurückzuführen – muss nun überdacht werden. In Relation zu den Kosten des Projektes von bislang rund 43 Millionen Franken ist das ein enttäuschender Befund.\n\nErbebenkarte (Bild: SED)\n\nLehren für die Zukunft: Derzeit klären die Projektverantwortlichen ab, ob sich aus dem bestehenden Bohrloch geothermische Energie mit einer Tiefen-Erdwärmesonde, der Förderung aus nur einer Bohrung («Singletten-Nutzung») oder mit dem ursprünglichen Konzept einer «Dubletten-Nutzung» gewinnen liesse, wobei die Wirtschaftlichkeit dieser Projekte fraglich ist. Zwar wurde etwas überraschend Methangas entdeckt, doch ob dieses Vorkommen kommerziell genug interessant ist, müsste sich erst zeigen. Ohnehin verfolgt die Stadt St. Gallen die Vision einer erneuerbaren Energiezukunft, in die Erdgas nicht wirklich passt. Zudem hat das durch die Tiefenbohrung ausgelöste Erdbeben der Magnitude 3.5 vom letzten Sommer nicht nur den Untergrund in St. Gallen kräftig erschüttert. Auch das Vertrauen der Projektbetreiber und Aufsichtsbehörden in die Machbarkeit eines hydrothermalen Kraftwerkes inmitten einer wenig berechenbaren geologischen Verwerfungszone hat stark gelitten.\n\nWelche Schlüsse lassen sich aus dem Geothermie-Projekt in St. Gallen ziehen? Persönlich erscheinen mir vier Punkte besonders wichtig:\n\nKünftige hydrothermale Projekte in der Schweiz müssen jetzt im Lichte der St. Galler Erfahrungen erneut über die Bücher. Etwa anders sieht es aus für Projekte des Typus «Basel» im kristallinen Grundgebirge – diese werde ich in einem späteren Blogbeitrag beleuchten.\n\nWeiterführende Informationen: Schweizerischer Erdbebendienst",
   "named_entities": [
-    "Die St",
     "Galler Stadtwerke",
-    "In Relation",
     "Millionen Franken",
     "Tiefen-Erdwärmesonde",
     "Singletten-Nutzung",
     "Dubletten-Nutzung",
     "Stadt St",
     "Welche Schlüsse",
-    "Geothermie-Projekt"
+    "Geothermie-Projekt",
+    "Galler Erfahrungen",
+    "Weiterführende Informationen"
   ],
   "topics": [
     "Research",
@@ -33,13 +33,23 @@
     "Education"
   ],
   "summary": "Suche nach alternativer Nutzung: Die St. Galler Stadtwerke berichteten vor wenigen Tagen über die Ergebnisse der Tiefenbohrung. Aus dem Untergrund lässt sich mit ca....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 278,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -47,6 +57,22 @@
     "context_tags": [
       "Financial",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.9,
+      "avg_word_length": 6.27,
+      "long_word_percentage": 37.77
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zehntel"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

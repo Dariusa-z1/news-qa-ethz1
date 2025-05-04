@@ -1,11 +1,10 @@
 {
   "language": "de",
   "title": "Investitionen In Die Zukunft Des D Bsse",
-  "date": "2015-08-01",
+  "date": "2020-08-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Die Regierungen von Basel-Stadt und Basel-Landschaft möchten die Erfolgsgeschichte der Gründung des Departements für Biosysteme weiterführen und die Zusammenarbeit der Universität Basel mit der ETH Zürich weiter stärken. Dafür haben sie ihren Parlamenten einen Beitrag von je fünf Millionen Franken beantragt, wie sie heute Dienstag mitteilen. Von den insgesamt 10 Mio. Franken sehen sie 6 Mio. Franken für infrastrukturelle Massnahmen und 4 Mio. Franken für die Intensivierung der Forschungszusammenarbeit vor.\n\nDie 6 Mio. Franken würden auf dem Rosental-Areal investiert, wo das Department für Biosysteme heute provisorisch einquartiert ist. Bis 2020 soll das D-BSSE in einen Neubau auf dem Life Science Campus Schällemätteli umziehen und dort in direkter Nachbarschaft mit der Universität Basel und den Universitätskliniken lehren und forschen. Mit den Investitionen könnte das Departement Laborräume auf dem Rosental-Areal mieten und renovieren.\n\nFür den Vorsteher des Departements und Professor für Steuerungstheorie und Systembiologie, Mustafa Khammash, sind die geplanten Investitionen eine notwendige Unterstützung für den geplanten Ausbau des D-BSSE von derzeit 17 Professuren auf 20. Bis zum Umzug in den Neubau wäre der zusätzliche Raumbedarf des D-BSSE damit erfüllt.\n\nWie die beiden Kantone mitteilen, verhindert diese Lösung auch, dass die ETH Zürich langfristige Verpflichtungen vor dem Umzug eingehen muss. Nach dem Umzug des D-BSSE kann die Universität Basel die Laborräume im Rahmen ihres Campus Rosental nutzen oder diese Flächen werden gegebenenfalls zur Erweiterung des D-BSSE weiter zur Verfügung gestellt.\n\nDie 4 Mio. Franken zur Intensivierung der Forschungszusammenarbeit sollen in den Forschungsbereich der personalisierten Medizin investiert werden, der für das D-BSSE und die Universität Basel ein strategischer Schwerpunkt ist. In diesem Kontext wird auch der Aufbau einer gemeinsamen, regionalen Forschungsplattform, der «Personalized Health Platform Basel», gefördert. Damit werde auch der regionale Forschungsstandort in Zusammenarbeit mit dem Hochschulplatz Zürich gestärkt, teilen die beiden Basel mit.\n\nD-BSSE-Vorsteher Mustafa Khammash jedenfalls freut sich schon «auf die verheissungsvollen Forschungsmöglichkeiten, die durch diese Investitionen möglich werden. Im Bereich der personalisierten Medizin nimmt das D-BSSE eine einmalige Brückenstellung ein zwischen den Forschungsaktivitäten in Basel und in Zürich.»",
   "named_entities": [
-    "Die Regierungen",
     "Basel-Stadt",
     "Basel-Landschaft",
     "Universität Basel",
@@ -14,7 +13,8 @@
     "Life Science Campus Schällemätteli",
     "Departement Laborräume",
     "Mustafa Khammash",
-    "Campus Rosental"
+    "Campus Rosental",
+    "Personalized Health Platform Basel"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Die Regierungen von Basel-Stadt und Basel-Landschaft möchten die Erfolgsgeschichte der Gründung des Departements für Biosysteme weiterführen und die Zusammenarbeit der Universität Basel mit der ETH Zürich weiter stärken. Dafür haben sie ihren Parlamenten einen Beitrag von je fünf Millionen Franken beantragt, wie sie heute Dienstag mitteilen....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 341,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Faculty",
@@ -50,6 +60,38 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.24,
+      "avg_word_length": 6.07,
+      "long_word_percentage": 33.43
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "einen Neubau auf dem Life Science Campus Schällemätteli umziehen und dort in direkter Nachbarschaft mit der Universität Basel und den Universitätskliniken lehren und forschen",
+      "authors": [
+        "Die Regierungen",
+        "Landschaft"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Basel",
+        "Zürich",
+        "Zusammenarbeit"
+      ],
+      "departments": [
+        "die Erfolgsgeschichte der Gründung des",
+        "Biosysteme heute provisorisch einquartiert ist",
+        "Für den Vorsteher des"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020"
+        ]
+      }
+    }
   }
 }

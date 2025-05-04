@@ -8,13 +8,13 @@
     "Vor-Corona-Zeiten",
     "Alle Dozierenden",
     "Online Teaching",
-    "Ein Kraftakt",
     "Abteilung Lehrentwicklung",
     "Gerd Kortemeyer",
     "Lernplattform Moodle",
     "Dropbox Polybox",
     "Einrichtung Anfang März",
-    "Online-Unterricht"
+    "Online-Unterricht",
+    "Thomas Piendl"
   ],
   "topics": [
     "Education",
@@ -33,13 +33,23 @@
     "Education"
   ],
   "summary": "Auch für die ETH eine Herausforderung: Es herrscht Lockdown an der ETH. In den Gebäuden ist es ruhig. Doch der Unterricht geht weiter – nur anders als bisher....",
+  "content_structure": {
+    "paragraph_count": 19,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1389,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +62,38 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.58,
+      "avg_word_length": 5.99,
+      "long_word_percentage": 35.13
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Herausforderung",
+        "Lockdown"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Online-Meeting",
+        "Form Feedback",
+        "Verbindung",
+        "Interaktionen",
+        "Vor-Corona-Zeiten"
+      ],
+      "departments": [
+        "Lehrspezialistinnen und Lehrspezialisten an den",
+        "Auch für das",
+        "Physik andere Dozierende am"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

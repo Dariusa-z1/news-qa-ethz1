@@ -32,14 +32,24 @@
     "Since",
     "Zurich"
   ],
-  "summary": "Newly elected prorector:\n\n• Professor Paolo Ermanni has been named as the new Prorector for Continuing Education....",
+  "summary": "Newly elected prorector:\n\n• Professor Paolo Ermanni has been named as the new Prorector for Continuing Education. The 55-year-old from Ticino has been a full Professor of Structure Technologies at ETH Zurich since 1 April 2003. He is also Director of the Congressi Stefano Franscini....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 4,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 159,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -50,6 +60,43 @@
       "Research",
       "Education",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.9,
+      "avg_word_length": 5.35,
+      "long_word_percentage": 37.11
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Professor Paolo Ermanni",
+        "Prorector",
+        "Continuing Education"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "14 April"
+      ],
+      "time_references": [
+        "15 to 31"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Ticino"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2003",
+          "2003"
+        ]
+      }
+    }
   }
 }

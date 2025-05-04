@@ -10,11 +10,8 @@
     "Abteilungen Sicherheit",
     "Kompetenzzentrum Cybercrime",
     "Beim Verdächtigen",
-    "Täter",
-    "Zugang",
-    "Zürich",
-    "Netzwerk",
-    "Daten"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -26,20 +23,31 @@
   ],
   "keywords": [
     "ETH Zurich",
+    "Staff",
     "University",
     "Research",
     "Science",
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Im Januar 2016 hat sich ein unbekannter Täter unerlaubt Zugang zum IT-System der ETH Zürich verschafft, sich so ins Netzwerk der ETH Zürich eingeloggt, über das ETH-System Software bestellt und Daten heruntergeladen. Mitarbeitende der Abteilungen Sicherheit und Informatikdienste der ETH Zürich hatten am 26....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 135,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff"
@@ -48,6 +56,33 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.0,
+      "avg_word_length": 6.12,
+      "long_word_percentage": 34.07
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Im Januar",
+        "Zugang",
+        "System",
+        "Zürich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016",
+          "2016"
+        ]
+      }
+    }
   }
 }

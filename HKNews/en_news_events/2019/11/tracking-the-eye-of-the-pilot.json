@@ -31,16 +31,26 @@
     "Flight",
     "Cockpit",
     "Pilots",
-    "With"
+    "Eyetracking"
   ],
-  "summary": "Seeing what the pilot sees: Anyone who has ever sat in a cockpit will know how mentally challenging it is to pilot an aircraft....",
+  "summary": "Seeing what the pilot sees: Anyone who has ever sat in a cockpit will know how mentally challenging it is to pilot an aircraft. During a flight, pilots and copilots have to process an enormous quantity of visual, acoustic and spatial information. Keeping a constant eye on the numerous instruments in the cockpit is a strenuous task, as pilots must check the correct indicators during a manoeuvre – often in a specific order....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 860,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,37 @@
       "Technology",
       "Research",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.55,
+      "avg_word_length": 5.2,
+      "long_word_percentage": 32.09
+    },
+    "citation_info": {
+      "doi": "10.1080/00140139.2019.1685132",
+      "journal": "",
+      "authors": [
+        "Seeing",
+        "Anyone",
+        "During",
+        "Keeping"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Swiss",
+        "Nasa",
+        "Raubal"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2019",
+          "2019"
+        ]
+      }
+    }
   }
 }

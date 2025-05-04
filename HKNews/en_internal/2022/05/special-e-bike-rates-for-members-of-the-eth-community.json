@@ -7,14 +7,9 @@
   "named_entities": [
     "Urban Connect",
     "Zurich-Oerlikon",
-    "In May",
-    "Book",
-    "Hönggerberg",
-    "Fünffinger",
-    "Zentrum",
-    "Universitätstrasse",
-    "Universitätsspital",
-    "Haldenbach"
+    "ETH Zurich",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Infrastructure",
@@ -29,18 +24,28 @@
     "Hönggerberg Campus",
     "Ebikes",
     "Bikes",
-    "From",
     "Provider",
-    "Urban"
+    "Urban",
+    "Connect"
   ],
-  "summary": "Book through the app: The provider Urban Connect has installed a fleet of 25 high-quality e-bikes as well as an e-cargo bike in stations at four ETH Zurich buildings....",
+  "summary": "Book through the app: The provider Urban Connect has installed a fleet of 25 high-quality e-bikes as well as an e-cargo bike in stations at four ETH Zurich buildings. The hirable electric bikes and their charging stations are located on the Hönggerberg campus near the HCI office and lab building (“ Fünffinger dock ”), on the Zentrum campus near the CHN building (Universitätstrasse 8- 22, easily accessible from the ETH/Universitätsspital and Haldenbach tram stops), and near ETH’s ONA and Octavo buildings in Zurich-Oerlikon....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 518,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -50,6 +55,29 @@
       "Infrastructure",
       "Technology",
       "Weather"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.55,
+      "avg_word_length": 4.62,
+      "long_word_percentage": 22.78
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "8- 22"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zurich-Oerlikon"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

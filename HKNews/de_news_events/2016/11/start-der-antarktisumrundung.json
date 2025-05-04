@@ -33,13 +33,23 @@
     "Education"
   ],
   "summary": "Jetzt geht’s los: Am 19. November sticht der russische Eisbrecher «Akademik Treshnikov» ab Bremerhaven in See. Ziel: Kapstadt....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 499,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -49,6 +59,35 @@
       "Research",
       "Weather",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.68,
+      "avg_word_length": 5.92,
+      "long_word_percentage": 33.87
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "November",
+        "Eisbrecher",
+        "Akademik Treshnikov"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Punta Arenas",
+        "Zürich"
+      ],
+      "departments": [
+        "des Swiss Polar",
+        "mit Kollegen vom Paul Scherrer"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

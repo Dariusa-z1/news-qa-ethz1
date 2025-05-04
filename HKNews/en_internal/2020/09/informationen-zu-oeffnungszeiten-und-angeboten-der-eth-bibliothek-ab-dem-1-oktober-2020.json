@@ -12,9 +12,9 @@
     "Federal Office",
     "Public Health",
     "Thomas Mann Archives",
-    "The Reading Room Collections",
     "Max Frisch Archive",
-    "InfoCenter"
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Infrastructure",
@@ -29,18 +29,28 @@
     "Library",
     "Mon–fri",
     "Will",
-    "900–1700",
     "Available",
-    "Archives"
+    "Archives",
+    "Hönggerberg"
   ],
-  "summary": "",
+  "summary": "• ETH Library in the main building ( InfoCenter ): Mon–Fri 8.00–22.00, Sat–Sun 9.00–17.00\n• Architecture and Civil Engineering Library : Mon–Fri 8.00–21.00\n• Earth Sciences Library : Mon–Fri 8.00–20.00\n• GESS Library : Mon–Fri 9.00–17.00\n• Green Library : Mon–Fri 9.00–17.00\n• Hönggerberg Depot Library : Mon–Fri 9.00–17.00\n• Books can be loaned and returned at all locations....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 9,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 353,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -51,6 +61,30 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 9.54,
+      "avg_word_length": 4.63,
+      "long_word_percentage": 25.78
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Library",
+        "Center"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "September"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

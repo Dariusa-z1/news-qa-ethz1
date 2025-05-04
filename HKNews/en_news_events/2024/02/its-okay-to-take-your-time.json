@@ -7,11 +7,8 @@
   "named_entities": [
     "Damla Ortac",
     "Computer Science",
-    "Main",
-    "Bachelor",
-    "Degree",
-    "Zurich",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -29,14 +26,24 @@
     "Ortac",
     "Already"
   ],
-  "summary": "Main article: Damla Ortac already had a job as a software engineer when she graduated with a Bachelor’s Degree in Computer Science....",
+  "summary": "Main article: Damla Ortac already had a job as a software engineer when she graduated with a Bachelor’s Degree in Computer Science. But she began to have doubts about her chosen career and decided to do something totally different. Advice for students: ETH Zurich offers advice centres for any situation that may arise during your studies....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 57,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -46,6 +53,32 @@
       "Research",
       "Education",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.0,
+      "avg_word_length": 4.88,
+      "long_word_percentage": 28.07
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "Computer Science",
+      "authors": [
+        "Damla Ortac",
+        "Bachelor",
+        "Degree",
+        "Computer Science"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Computer Science"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -6,15 +6,9 @@
   "main_content": "Visit us at our stands and find out about ETH Zurich’s open-access policy and the open-access strategies of key research sponsors:\n\n• ETH Zentrum, Brunnenhalle: Tuesday 22 October 2013, 11 am – 3 pm\n• ETH Hönggerberg, HIL Building: Wednesday 23 October 2013, 11 am – 3 pm\nThe staff from the E-Publishing office will gladly advise you on the legal, financial and organisational parameters of open access on site.\n\nWe will also be drawing three book tokens worth up to 250 Swiss francs from all visitors who enter our open-access quiz.\n\nAll the information you need on the publication possibilities open to members of ETH Zurich is provided on the Open Access at ETH Zurich website .",
   "named_entities": [
     "Open Access",
-    "Visit",
-    "Zurich",
-    "Zentrum",
-    "Brunnenhalle",
-    "Tuesday",
-    "October",
-    "Hönggerberg",
-    "Building",
-    "Wednesday"
+    "ETH Zurich",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Infrastructure",
@@ -28,18 +22,28 @@
     "Openaccess",
     "Open",
     "October",
-    "2013",
-    "From",
-    "Will"
+    "Will",
+    "Access",
+    "Zurich"
   ],
-  "summary": "",
+  "summary": "Visit us at our stands and find out about ETH Zurich’s open-access policy and the open-access strategies of key research sponsors:\n\n• ETH Zentrum, Brunnenhalle: Tuesday 22 October 2013, 11 am – 3 pm\n• ETH Hönggerberg, HIL Building: Wednesday 23 October 2013, 11 am – 3 pm\nThe staff from the E-Publishing office will gladly advise you on the legal, financial and organisational parameters of open access on site....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 2,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 118,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Researchers",
@@ -50,6 +54,33 @@
       "Infrastructure",
       "Research",
       "Administrative"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 39.33,
+      "avg_word_length": 4.58,
+      "long_word_percentage": 19.49
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zurich",
+        "Zentrum",
+        "Brunnenhalle",
+        "Tuesday"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2013",
+          "2013"
+        ]
+      }
+    }
   }
 }

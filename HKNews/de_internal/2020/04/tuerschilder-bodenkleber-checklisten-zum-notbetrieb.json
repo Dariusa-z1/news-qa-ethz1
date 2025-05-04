@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Das wachsende Angebot beinhaltet demnächst: Unter der neuen Webshop-Kategorie «Notbetrieb Kommunikationsmittel» finden Sie neben Vorlagen zum Befüllen bereits erste fertige Kommunikationsmaterialien....",
+  "summary": "Das wachsende Angebot beinhaltet demnächst: Unter der neuen Webshop-Kategorie «Notbetrieb Kommunikationsmittel» finden Sie neben Vorlagen zum Befüllen bereits erste fertige Kommunikationsmaterialien. Mit diesem Angebot erstellen Sie in Kürze beispielsweise Türschilder für Sitzungszimmer mit Angabe der maximalen Personenzahl oder Hinweise zur Hygiene – inklusive Produktionsauftrag....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 11,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 252,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Campus Notice",
     "audience_type": [
       "Staff"
     ],
@@ -48,6 +58,24 @@
       "Infrastructure",
       "Communications",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.75,
+      "avg_word_length": 6.46,
+      "long_word_percentage": 42.46
+    },
+    "semantic_entities": {
+      "locations": [
+        "Kürze"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "+41 44 632 50 13"
+        ]
+      }
+    }
   }
 }

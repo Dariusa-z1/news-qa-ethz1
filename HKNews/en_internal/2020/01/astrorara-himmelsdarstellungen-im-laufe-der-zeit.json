@@ -8,10 +8,6 @@
     "Peter Apian",
     "Christoph Scheiner",
     "Johannes Hevelius",
-    "Have",
-    "Library",
-    "AstroRara",
-    "KnowMore",
     "ETH"
   ],
   "topics": [
@@ -28,16 +24,26 @@
     "Observed",
     "Astrorara",
     "Illustrations",
-    "About"
+    "Collection"
   ],
-  "summary": "Have you ever wondered how scientists of centuries past observed and documented celestial events?...",
+  "summary": "Have you ever wondered how scientists of centuries past observed and documented celestial events? AstroRara , the new app from ETH Library, shows you how the creators of illustrations found in rare and historic documents intended them to be used. Take an interactive journey of discovery through the the works of astronomers Peter Apian (1495–1552), Christoph Scheiner (1575–1650) and Johannes Hevelius (1611–1687)....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 156,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -46,6 +52,32 @@
       "Technology",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.33,
+      "avg_word_length": 5.33,
+      "long_word_percentage": 33.97
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "95–15",
+        "75–16",
+        "11–16"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1495",
+          "1552"
+        ]
+      }
+    }
   }
 }

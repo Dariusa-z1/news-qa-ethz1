@@ -7,14 +7,8 @@
   "named_entities": [
     "University Rankings",
     "Harvard University",
-    "Subject",
-    "Cambridge",
-    "California",
-    "Berkeley",
-    "Academic",
-    "Citations",
-    "Subjects",
-    "Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -32,14 +26,24 @@
     "Ranked",
     "Subjects"
   ],
-  "summary": "University Rankings by Subject. The university is now ranked number one in earth and marine sciences according to the global comparison....",
+  "summary": "University Rankings by Subject. The university is now ranked number one in earth and marine sciences according to the global comparison. These results were recently published by the QS Ranking organisation....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 186,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -50,6 +54,29 @@
       "Technology",
       "Research",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.67,
+      "avg_word_length": 5.42,
+      "long_word_percentage": 37.63
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "University Rankings",
+        "Subject",
+        "Ranking"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

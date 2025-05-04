@@ -9,12 +9,10 @@
     "Zurich At",
     "President Professor Ralph Eicher",
     "Centre Director Professor Peter",
-    "Singapore",
-    "Asia",
-    "Ciliwung",
-    "Jakarta",
-    "Wednesday",
-    "September"
+    "ETH Zurich",
+    "ETH",
+    "Ralph Eicher",
+    "Peter Edwards"
   ],
   "topics": [
     "Research",
@@ -33,14 +31,24 @@
     "Urban",
     "Exhibition"
   ],
-  "summary": "Cities are cultural centres and drivers of local and global economies. However, in their present form they are not sustainable in either ecological or social and economic terms....",
+  "summary": "Cities are cultural centres and drivers of local and global economies. However, in their present form they are not sustainable in either ecological or social and economic terms. Rapid population growth, increased mobility and climate change has led to urban sprawl, air and water pollution and even social conflict....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 338,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -52,6 +60,39 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.79,
+      "avg_word_length": 5.16,
+      "long_word_percentage": 33.14
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Cities",
+        "However",
+        "Against",
+        "Zurich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Jakarta",
+        "Asia",
+        "Singapore"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "futurecities.ethz.ch"
+        ],
+        "phones": [
+          "2010",
+          "2014"
+        ]
+      }
+    }
   }
 }

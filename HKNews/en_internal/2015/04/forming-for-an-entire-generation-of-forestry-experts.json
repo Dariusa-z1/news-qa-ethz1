@@ -28,19 +28,29 @@
     "ETH Zurich",
     "Forest",
     "Forestry",
-    "With",
     "Franz",
     "Schmithüsen",
-    "Research"
+    "Research",
+    "Economics"
   ],
-  "summary": "Franz Schmithüsen....",
+  "summary": "Franz Schmithüsen. (Photo: D-USYS)\n\nFranz Schmithüsen studied forestry and economics at leading universities in Europe and North America and earned his doctorate at ETH in 1969 with a study on the usage rights to forest resources. In 1975 he earned his title as a professor at the University of Freiburg i....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 427,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,39 @@
       "Research",
       "Education",
       "Administrative"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.41,
+      "avg_word_length": 5.06,
+      "long_word_percentage": 30.91
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Franz Schmithüsen",
+        "Franz Schmithüsen",
+        "Europe",
+        "North America"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Europe",
+        "Rome"
+      ],
+      "departments": [
+        "Wood Research or of the",
+        "Zurich as Head of the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1969",
+          "1975"
+        ]
+      }
+    }
   }
 }

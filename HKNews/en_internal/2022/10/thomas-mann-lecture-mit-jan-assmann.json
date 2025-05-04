@@ -7,14 +7,14 @@
   "named_entities": [
     "Thomas Mann",
     "Hermann Hesse",
-    "The Glass Bead Game",
     "Doctor Faustus",
     "Jan Assmann",
     "Thomas Mann Lecture",
     "Journey To The East",
-    "The Joseph Novels",
     "Audi Max",
-    "Aleida Assmann"
+    "Aleida Assmann",
+    "Thomas Mann Archives",
+    "Cultural Studies"
   ],
   "topics": [
     "Education",
@@ -28,19 +28,29 @@
     "ETH Zurich",
     "Thomas",
     "Mann",
-    "With",
     "Lecture",
     "Assmann",
-    "Mann’s"
+    "Mann’s",
+    "Cultural"
   ],
-  "summary": "",
+  "summary": "Internationally renowned cultural scientist: Thomas Mann and Hermann Hesse corresponded with each other for decades: Mann appreciated Hesse’s Steppenwolf and regarded The Glass Bead Game as being related to his own novel Doctor Faustus. In his lecture, Jan Assmann addresses the less established references between the works of both authors and shows the connections between Hesse’s The Glass Bead Game and Mann’s Joseph novels....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 5,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 355,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -53,6 +63,34 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.75,
+      "avg_word_length": 5.02,
+      "long_word_percentage": 28.45
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Internationally",
+        "Thomas Mann",
+        "Hermann Hesse"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Thomas Mann"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2022",
+          "2022"
+        ]
+      }
+    }
   }
 }

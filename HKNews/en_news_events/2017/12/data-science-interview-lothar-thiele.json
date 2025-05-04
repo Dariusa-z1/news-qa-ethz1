@@ -7,14 +7,14 @@
   "named_entities": [
     "Mr Thiele",
     "Executive Board",
-    "Der Spiegel",
     "Health Sciences",
     "About Lothar Thiele",
     "Lothar Thiele",
     "Technical Computer Science",
     "Information Technology",
     "Electrical Engineering",
-    "Main"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -26,21 +26,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "This",
-    "That",
     "Digitalisation",
     "What",
     "Have",
-    "With"
+    "Information",
+    "Will",
+    "Need"
   ],
-  "summary": "Main article: Mr Thiele, you were recently appointed representative for digital transformation by the Executive Board. What are your responsibilities in this role?...",
+  "summary": "Main article: Mr Thiele, you were recently appointed representative for digital transformation by the Executive Board. What are your responsibilities in this role? Thiele: Digitalisation is not just a major topic in the media; the economy and politics are feeling its effects too....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1010,
     "readability_score": "moderately complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Faculty",
@@ -52,6 +62,37 @@
       "Research",
       "Education",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.64,
+      "avg_word_length": 5.02,
+      "long_word_percentage": 28.02
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Mr Thiele",
+        "Executive Board",
+        "Thiele"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zurich"
+      ],
+      "departments": [
+        "the founding of the",
+        "Technical Computer Science in the",
+        "Information Technology and Electrical Engineering"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1978"
+        ]
+      }
+    }
   }
 }

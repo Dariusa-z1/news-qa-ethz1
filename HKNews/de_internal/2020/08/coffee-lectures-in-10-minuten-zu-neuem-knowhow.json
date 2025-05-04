@@ -10,11 +10,11 @@
     "Open Access",
     "Ihren Projektantrag",
     "Schweizerischen Nationalfonds",
-    "Die Online-Veranstaltungen",
-    "Eine Anmeldung",
     "Coffee Lecture",
     "Nexis Uni",
-    "Nützliche Presseartikel"
+    "Nützliche Presseartikel",
+    "Ihrem Ziel",
+    "ETH"
   ],
   "topics": [
     "Campus Life",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "So funktionieren die Coffee Lectures: Lernen Sie in unseren Coffee Lectures ein neues Tool kennen, das Sie bei Ihrer wissenschaftlichen Arbeit unterstützt oder erfahren Sie wichtige Tipps und Tricks zu Themen wie Open Access oder zur Erstellung eines Datenmanagementplans für Ihren Projektantrag beim Schweizerischen Nationalfonds (SNF)....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 4,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 227,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +62,38 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.35,
+      "avg_word_length": 5.74,
+      "long_word_percentage": 31.28
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Coffee Lectures",
+        "Lernen Sie",
+        "Coffee Lectures"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "15.15 Uhr"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020"
+        ]
+      }
+    }
   }
 }

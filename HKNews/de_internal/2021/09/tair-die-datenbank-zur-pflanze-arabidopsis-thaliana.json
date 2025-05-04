@@ -5,16 +5,12 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Die Arabidopsis thaliana, auch als Ackerschmalwand bekannt, ist eine kleine einjährige Pflanze aus der Familie der Kreuzblütler. Sie gilt in der Pflanzenforschung als die wichtigste Modellpflanze, obwohl sie recht unscheinbar ist. Ihr Genom wurde vollständig sequenziert und ist mittlerweile das am besten annotierte Pflanzengenom.\n\nForschende und Interessierte finden in der externe Seite Datenbank TAIR sämtliche genetischen und molekularbiologischen Angaben zur Arabidopsis thaliana. Neben den vollständigen Genomsequenzen stellt Ihnen die Website Informationen zur Genstruktur, zu Genprodukten, Genexpressionen, Saatgutbeständen sowie Genomkarten zur Verfügung. Auf TAIR werden alle Daten aus der Forschungsliteratur zusammengefasst und fortlaufend aktualisiert. Als zusätzlicher Service werden diverse Tools auf TAIR angeboten, mit denen die Daten bearbeitet und visualisiert werden können.\n\nDer Zugriff ist innerhalb des Netzwerks der ETH Zürich wie auch über VPN möglich.\n\nMehr als nur Daten – Vom Know-how profitieren\n\n#MehrWissen – Die aufbereiteten Inhalte der ETH-Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter.",
   "named_entities": [
-    "Die Arabidopsis",
     "Ihr Genom",
     "Seite Datenbank",
     "Website Informationen",
-    "Der Zugriff",
     "Vom Know",
-    "Ackerschmalwand",
-    "Pflanze",
-    "Familie",
-    "Kreuzblütler"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -30,20 +26,55 @@
     "Campus",
     "Education"
   ],
-  "summary": "Die Arabidopsis thaliana, auch als Ackerschmalwand bekannt, ist eine kleine einjährige Pflanze aus der Familie der Kreuzblütler....",
+  "summary": "Die Arabidopsis thaliana, auch als Ackerschmalwand bekannt, ist eine kleine einjährige Pflanze aus der Familie der Kreuzblütler. Sie gilt in der Pflanzenforschung als die wichtigste Modellpflanze, obwohl sie recht unscheinbar ist. Ihr Genom wurde vollständig sequenziert und ist mittlerweile das am besten annotierte Pflanzengenom....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 149,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.56,
+      "avg_word_length": 6.5,
+      "long_word_percentage": 38.93
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Die Arabidopsis",
+        "Ackerschmalwand",
+        "Pflanze",
+        "Familie",
+        "Kreuzblütler"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

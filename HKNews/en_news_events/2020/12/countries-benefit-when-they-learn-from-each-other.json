@@ -12,9 +12,9 @@
     "Northern Italy",
     "South Korea",
     "United Kingdom",
-    "The Zukunftsblog",
     "Science Blog",
-    "Roman Stocker Professor"
+    "Roman Stocker Professor",
+    "Geomatic Engineering"
   ],
   "topics": [
     "COVID-19",
@@ -26,21 +26,31 @@
   ],
   "keywords": [
     "Countries",
-    "From",
     "Other",
-    "With",
     "Testing",
     "Pandemic",
-    "This"
+    "Learning",
+    "Scientific",
+    "Each"
   ],
-  "summary": "Main article: SARS-CoV-2 has spread around the world. However, the course of the pandemic and how individual countries deal with it differ....",
+  "summary": "Main article: SARS-CoV-2 has spread around the world. However, the course of the pandemic and how individual countries deal with it differ. In a sense, the pandemic could thus be seen as a huge (and unfortunate) scientific experiment repeated dozens of times, with variations....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 600,
     "readability_score": "complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,35 @@
       "Sustainability",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.0,
+      "avg_word_length": 5.15,
+      "long_word_percentage": 31.33
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the Swiss National COVID-19 Science Task Force",
+      "authors": [
+        "However",
+        "Individual"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Northern Italy"
+      ],
+      "departments": [
+        "Roman Stocker Professor at the",
+        "Civil"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020"
+        ]
+      }
+    }
   }
 }

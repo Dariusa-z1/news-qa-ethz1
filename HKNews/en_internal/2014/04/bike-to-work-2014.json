@@ -5,14 +5,8 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "You are invited to participate, leave your car at home and get to work by bike on at least half of your working days in June. For even better motivation, you put together a team of four colleagues. One team member can participate by going to work, for instance, on foot or by skateboard.\n\nYou'll find all information concerning this campaign in English here: www.biketowork.ch .\n\nFollow this link to register directly (company name: ETH Zürich / choose a team name). Additional information regarding the application procedure can be found on the SSHE website on the ETH intranet.\n\nWith your help, ETH Zurich can reach a place among the companies with the highest number of participants again ‒ and you can win exciting prices.\n\nRead more about the safety advice of the bfu (Beratungsstelle für Unfallverhütung):\n\nwww.bfu.ch/de/sicherheitstipps/bfu-sicherheitstipp-april-2014 .",
   "named_entities": [
-    "June",
-    "English",
-    "Zürich",
-    "SSHE",
-    "Zurich",
-    "Beratungsstelle",
-    "Unfallverhütung",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -27,16 +21,26 @@
     "Participate",
     "Work",
     "Information",
-    "This"
+    "Name"
   ],
-  "summary": "You are invited to participate, leave your car at home and get to work by bike on at least half of your working days in June. For even better motivation, you put together a team of four colleagues....",
+  "summary": "You are invited to participate, leave your car at home and get to work by bike on at least half of your working days in June. For even better motivation, you put together a team of four colleagues. One team member can participate by going to work, for instance, on foot or by skateboard....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 145,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Students",
       "Staff"
@@ -46,6 +50,28 @@
       "Technology",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.08,
+      "avg_word_length": 4.83,
+      "long_word_percentage": 22.07
+    },
+    "semantic_entities": {
+      "locations": [
+        "June",
+        "English"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "www.biketowork.ch",
+          "www.bfu.ch"
+        ],
+        "phones": [
+          "2014"
+        ]
+      }
+    }
   }
 }

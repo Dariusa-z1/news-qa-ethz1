@@ -13,8 +13,8 @@
     "Swiss Confederation",
     "Human Resources",
     "Cuno Künzler",
-    "Main",
-    "Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -29,18 +29,28 @@
     "Have",
     "Will",
     "Zurich",
-    "That",
-    "This",
-    "Personnel"
+    "Personnel",
+    "Human",
+    "Resources"
   ],
-  "summary": "Main article: Piero Cereghetti, you have spent 15 years working for ETH Zurich. The university has developed substantially during that time....",
+  "summary": "Main article: Piero Cereghetti, you have spent 15 years working for ETH Zurich. The university has developed substantially during that time. What do you think were the greatest milestones during this development?...",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 696,
     "readability_score": "moderately complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +62,28 @@
       "Sustainability",
       "Technology",
       "Administrative"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.57,
+      "avg_word_length": 4.78,
+      "long_word_percentage": 24.57
+    },
+    "semantic_entities": {
+      "locations": [
+        "Bern",
+        "December",
+        "Turnerstrasse",
+        "Swiss"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1999",
+          "2014"
+        ]
+      }
+    }
   }
 }

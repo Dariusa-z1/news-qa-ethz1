@@ -7,14 +7,8 @@
   "named_entities": [
     "President Lino Guzzella",
     "University Assembly",
-    "The Executive Board",
-    "Main",
-    "Based",
-    "October",
-    "Zurich",
-    "Professors",
-    "Ordinance",
-    "Virtually"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -33,14 +27,24 @@
     "Three",
     "Zurich"
   ],
-  "summary": "Main article: Based on the findings of the administrative investigation opened on 25 October 2017 and concluded in October 2018, the President of ETH Zurich is now launching dismissal proceedings....",
+  "summary": "Main article: Based on the findings of the administrative investigation opened on 25 October 2017 and concluded in October 2018, the President of ETH Zurich is now launching dismissal proceedings. The administrative investigation performed by an independent external expert has highlighted serious professional misconduct over an extended period....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 470,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Students",
       "Staff",
@@ -53,6 +57,41 @@
       "Research",
       "Administrative",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.58,
+      "avg_word_length": 5.64,
+      "long_word_percentage": 37.87
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "October",
+        "October",
+        "President"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "25 October 2017"
+      ],
+      "time_references": [],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "October"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017",
+          "2018"
+        ]
+      }
+    }
   }
 }

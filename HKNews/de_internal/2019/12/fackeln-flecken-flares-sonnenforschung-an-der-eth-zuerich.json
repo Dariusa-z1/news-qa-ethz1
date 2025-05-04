@@ -5,7 +5,6 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Die Sonne löst bei uns Menschen positive Gefühle aus. Zuverlässig spendet sie Licht und Wärme, ohne sie wäre kein Leben auf der Erde möglich. Doch die Sonne hat auch ihre launischen und gefährlichen Seiten. Beispielsweise können Sonnenstürme Satelliten beschädigen, Kommunikationssysteme zusammenbrechen lassen und Stromnetze lahmlegen. Auch das Klima steht unter dem Einfluss der Sonnenaktivität. Jahrhundertealte Datenreihen von der Anzahl der Sonnenflecken tragen zu Erkenntnissen hinsichtlich der Klimaentwicklung bei. Möchten Sie wissen wie? Entdecken Sie mehr über die Sonnenforschung an der ETH Zürich in der neuen Explora-Story .\n\nNeu: «Sehnsucht nach Welt» jetzt auch als Audiofile oder zum en\n\nAlle Flüsse fliessen ins Meer, sagt man. Auch wenn die Meere weit von der Schweiz entfernt sind, waren und sind sie immer wieder Inspirationsquelle für Schriftsteller und Forschungsreisende. Sie beflügelten den Tourismus und brachten Ingenieure auf phantastische Ideen. Lassen Sie sich an das Meer entführen und hören Sie gleich rein!\n\nAuf Explora erzählen wir Geschichten, welche die Forschung an der ETH Zürich und die Bestände sowie die Dienstleistungen der ETH-Bibliothek erlebbar machen.\n\n#MehrWissen – Die aufbereiteten Inhalte der ETH-Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter.",
   "named_entities": [
-    "Die Sonne",
     "Sonnenstürme Satelliten",
     "Jahrhundertealte Datenreihen",
     "Möchten Sie",
@@ -13,8 +12,8 @@
     "Explora-Story",
     "Alle Flüsse",
     "Lassen Sie",
-    "Auf Explora",
-    "Menschen"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -32,14 +31,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Die Sonne löst bei uns Menschen positive Gefühle aus. Zuverlässig spendet sie Licht und Wärme, ohne sie wäre kein Leben auf der Erde möglich....",
+  "summary": "Die Sonne löst bei uns Menschen positive Gefühle aus. Zuverlässig spendet sie Licht und Wärme, ohne sie wäre kein Leben auf der Erde möglich. Doch die Sonne hat auch ihre launischen und gefährlichen Seiten....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 187,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -48,6 +57,32 @@
       "Research",
       "Communications",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.36,
+      "avg_word_length": 5.86,
+      "long_word_percentage": 29.95
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Die Sonne",
+        "Menschen",
+        "Gefühle",
+        "Zuverlässig"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Leben"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

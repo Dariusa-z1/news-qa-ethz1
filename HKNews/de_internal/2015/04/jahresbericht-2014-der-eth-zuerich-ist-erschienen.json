@@ -5,16 +5,9 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Das Wachstum der ETH Zürich hat sich im Jahr 2014 weiter fortgesetzt. Insgesamt haben Ende 2014 rund 18 500 Frauen und Männer an der ETH Zürich studiert, so viele wie noch nie zuvor.\n\nDas Wachstum der ETH Zürich widerspiegelt sich auch in den Finanzkennzahlen. Die Gesamtausgaben der Hochschule beliefen sich 2014 auf 1556 Millionen Franken, was einer Zunahme im Vergleich zum Vorjahr um 2,9 Prozent entspricht.\n\nDiese und weitere Fakten rund um die ETH Zürich finden sich in dem von der Schulleitung herausgegebenen und soeben erschienenen Jahresbericht 2014 der ETH Zürich. In kurzen Texten, attraktiven Fotografien und Grafiken stellt der ETH-Jahresbericht die wichtigsten Leistungen, Entwicklungen und Ereignisse des vergangenen Jahres vor.\n\nMitarbeitende der ETH Zürich können den Jahresbericht 2014 im ETH-Web als PDF zum Herunterladen oder als gedruckte Ausgaben bei der Versandzentrale der ETH Zürich bestellen: Die Bestellung kann online erfolgen.",
   "named_entities": [
-    "Das Wachstum",
-    "Die Gesamtausgaben",
     "Millionen Franken",
-    "Die Bestellung",
-    "Zürich",
-    "Jahr",
-    "Ende",
-    "Frauen",
-    "Männer",
-    "Finanzkennzahlen"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Communication",
@@ -31,14 +24,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Das Wachstum der ETH Zürich hat sich im Jahr 2014 weiter fortgesetzt. Insgesamt haben Ende 2014 rund 18 500 Frauen und Männer an der ETH Zürich studiert, so viele wie noch nie zuvor....",
+  "summary": "Das Wachstum der ETH Zürich hat sich im Jahr 2014 weiter fortgesetzt. Insgesamt haben Ende 2014 rund 18 500 Frauen und Männer an der ETH Zürich studiert, so viele wie noch nie zuvor. Das Wachstum der ETH Zürich widerspiegelt sich auch in den Finanzkennzahlen....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 144,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff"
     ],
@@ -46,6 +49,32 @@
       "Financial",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.57,
+      "avg_word_length": 5.54,
+      "long_word_percentage": 27.78
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Das Wachstum",
+        "Zürich",
+        "Insgesamt"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2014",
+          "2014"
+        ]
+      }
+    }
   }
 }

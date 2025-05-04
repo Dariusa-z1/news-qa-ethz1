@@ -10,11 +10,8 @@
     "Heinz Koeppl",
     "Björn Hegemann",
     "Development Cell",
-    "Sensor",
-    "Institute",
-    "Biochemistry",
-    "Darmstadt",
-    "First"
+    "ETH",
+    "Matthias Peter"
   ],
   "topics": [
     "Research",
@@ -25,22 +22,32 @@
     "Campus Life"
   ],
   "keywords": [
-    "That",
     "Signal",
     "Cells",
-    "This",
     "Researchers",
     "Source",
-    "Which"
+    "Which",
+    "They",
+    "Towards"
   ],
-  "summary": "Sensor, processor and motor all in one: A frequent problem faced by cells is that they are surrounded by a promising cloud of scent and must determine the direction of its source....",
+  "summary": "Sensor, processor and motor all in one: A frequent problem faced by cells is that they are surrounded by a promising cloud of scent and must determine the direction of its source. Nerve cells, for example, form long extensions that are attracted to signals from other cells in order to produce the network that forms the nervous system; similarly, scavenger cells recognise the scent of harmful germs in order that they can pursue and destroy them....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 840,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +59,31 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.49,
+      "avg_word_length": 5.04,
+      "long_word_percentage": 30.48
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Sensor"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Hegemann"
+      ],
+      "departments": [
+        "Professor Matthias Peter of the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

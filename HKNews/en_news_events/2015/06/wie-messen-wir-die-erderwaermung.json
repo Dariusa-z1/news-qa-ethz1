@@ -7,14 +7,14 @@
   "named_entities": [
     "Frühere Studien",
     "Meteorologen Temperatur",
-    "Die Krux",
     "Ausgeklügelte Modelle",
-    "Eine Wetterstation",
-    "Bei Temperaturmessungen",
-    "In Stadtnähe",
     "Meteorologen Messstationen",
     "Am Anfang",
-    "Kessel-Methode"
+    "Kessel-Methode",
+    "Meeres-Bojen",
+    "Jedes Schiff",
+    "Faktor Mensch",
+    "Durchschnitts-Temperatur"
   ],
   "topics": [
     "Weather & Environment",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Nicht eine, sondern tausende Temperaturen: Forscher der amerikanischen Wetterbehörde NOAA revidierten unlängst die globalen Temperaturdaten und kamen zum Schluss, dass sich die Erde in den letzten 15 bis 20 Jahren durchaus erwärmt habe (siehe dazu meine letzten Blogbeitrag )....",
+  "content_structure": {
+    "paragraph_count": 16,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1064,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Campus Notice",
     "audience_type": [
       "Researchers"
     ],
@@ -48,6 +58,36 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.03,
+      "avg_word_length": 5.81,
+      "long_word_percentage": 32.05
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Temperaturen",
+        "Forscher",
+        "Wetterbehörde",
+        "Temperaturdaten"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zukunft",
+        "Thermometer",
+        "Städten"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1979"
+        ]
+      }
+    }
   }
 }

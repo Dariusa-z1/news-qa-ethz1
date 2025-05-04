@@ -7,14 +7,12 @@
   "named_entities": [
     "Globale Reichweite",
     "Global Health",
-    "Die Literatur",
     "Millionen Datensätzen",
     "Seite Web",
     "Science-Plattform",
-    "Die Datenbank",
     "Vom Know",
-    "Erfasst",
-    "Datenbanken"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "International",
@@ -30,14 +28,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "• Globale Reichweite : Erfasst internationale Literatur, die von anderen Datenbanken nicht abgedeckt wird, und bietet den Nutzern eine wirklich globale Perspektive....",
+  "summary": "• Globale Reichweite : Erfasst internationale Literatur, die von anderen Datenbanken nicht abgedeckt wird, und bietet den Nutzern eine wirklich globale Perspektive. • Einzigartig : 54 % der in Global Health enthaltenen Zeitschriften sind nicht in PubMed, rund 70 % nicht in Medline oder Embase verzeichnet....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 5,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 213,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -47,6 +55,36 @@
       "Events",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.3,
+      "avg_word_length": 6.38,
+      "long_word_percentage": 39.44
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "das Zitationsnetzwerk von Web of Science eingebunden",
+      "authors": [
+        "Globale Reichweite",
+        "Erfasst",
+        "Literatur",
+        "Datenbanken",
+        "Nutzern"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Global Health",
+        "Medline"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "160 000"
+        ]
+      }
+    }
   }
 }

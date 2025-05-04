@@ -7,14 +7,12 @@
   "named_entities": [
     "Homeoffice-Pflicht",
     "Infrastruktur Ulrich Weidmann",
-    "Auf Grundlage",
     "Corona-Richtlinie",
     "Vorgesetzten Informatikmittel",
     "Docking-Stationen",
     "Ende Mai",
-    "Das Info-Portal",
-    "Zürich",
-    "Informatikdienste"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -32,14 +30,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Als an der ETH Zürich die Homeoffice-Pflicht ausgerufen wurde, haben die Informatikdienste in Absprache mit dem zuständigen Vizepräsidenten für Infrastruktur Ulrich Weidmann schnell reagiert: Auf Grundlage der speziell erlassenen Corona-Richtlinie betreffend IKT-Mittelverwendung für das Homeoffice durften Mitarbeitende in Absprache mit den Vorgesetzten Informatikmittel wie Monitore oder Docking-Stationen aus dem Büro mit nach Hause nehmen....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 274,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Staff"
     ],
@@ -48,6 +56,23 @@
       "Infrastructure",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.83,
+      "avg_word_length": 6.05,
+      "long_word_percentage": 35.4
+    },
+    "semantic_entities": {
+      "locations": [
+        "Absprache",
+        "Zukunft"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -9,12 +9,12 @@
     "Jeder Patient",
     "Dieses Ziel",
     "Medical Research Center",
-    "Das Zentrum",
     "Universität Zürich",
     "Universitätsspital Zürich",
     "Universitäts-Kinderspital Zürich",
     "Universitätsklinik Balgrist",
-    "Psychiatrischen Universitätsklinik Zürich"
+    "Psychiatrischen Universitätsklinik Zürich",
+    "Beatrice Beck-Schimmer"
   ],
   "topics": [
     "Research",
@@ -33,14 +33,24 @@
     "Science",
     "Campus"
   ],
-  "summary": "Biomedizinischer Datenpool: Jeder Patient und jede Patientin ist anders....",
+  "summary": "Biomedizinischer Datenpool: Jeder Patient und jede Patientin ist anders. Je präziser die Diagnose und je gezielter die Therapie, umso besser kann auf die individuellen Patientenbedürfnisse eingegangen werden. Dieses Ziel verfolgt das neue translationale Forschungszentrum « The LOOP Zurich – Medical Research Center»....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 868,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Faculty",
@@ -52,6 +62,33 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.67,
+      "avg_word_length": 6.8,
+      "long_word_percentage": 42.97
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Biomedizinischer Datenpool",
+        "Jeder Patient",
+        "Patientin",
+        "Diagnose"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Universitäre Medizin Zürich",
+        "Zürich"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -8,13 +8,13 @@
     "Real Estate",
     "Cantonal Building Department",
     "Eschikon Lindau",
-    "The Vetsuisse Faculty",
     "Ueli Voegeli",
     "Zurich President Lino Guzzella",
     "Zurich Rector Michael Hengartner",
     "Cantonal Parliament",
     "Cantonal Councillor",
-    "Markus Kägi"
+    "Markus Kägi",
+    "Hans Frei"
   ],
   "topics": [
     "Research",
@@ -28,19 +28,29 @@
     "ETH Zurich",
     "University of Zurich",
     "Zurich",
-    "With",
     "Project",
     "Agriculture",
-    "Cantonal"
+    "Cantonal",
+    "Will"
   ],
-  "summary": "",
+  "summary": "With a dairy cattle shed for 120 cows, a barn for rearing and fattening calves and beef cattle, a metabolic centre with stables and respiration chambers, a forum for events, and an office and laboratory building – the Real Estate infrastructure division at ETH Zurich and the Cantonal Building Department are planning great things in Eschikon Lindau....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 326,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,35 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.29,
+      "avg_word_length": 5.19,
+      "long_word_percentage": 31.29
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Real Estate",
+        "Zurich",
+        "Cantonal Building Department",
+        "Eschikon Lindau"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Eschikon Lindau",
+        "Monday"
+      ],
+      "departments": [
+        "Zurich and the Cantonal Building"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -10,9 +10,8 @@
     "University Hospital Zurich",
     "University Hospitals",
     "But Wolfrum",
-    "Professor",
-    "Basel",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -24,21 +23,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
     "Tissue",
     "Brown",
     "Statins",
     "Adipose",
-    "They"
+    "They",
+    "Wolfrum"
   ],
-  "summary": "Of mice and men: A certain proportion of the adult population has not only white adipose (or fatty) tissue, but also the brown kind. This brown adipose tissue helps to convert sugar and fat into heat....",
+  "summary": "Of mice and men: A certain proportion of the adult population has not only white adipose (or fatty) tissue, but also the brown kind. This brown adipose tissue helps to convert sugar and fat into heat. People with brown adipose tissue are better at regulating their body temperature in the winter, and are less likely to suffer from excess weight or diabetes....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 549,
     "readability_score": "moderately complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -50,6 +59,28 @@
       "Research",
       "Education",
       "Weather"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.12,
+      "avg_word_length": 5.16,
+      "long_word_percentage": 29.33
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "People",
+        "Christian Wolfrum"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

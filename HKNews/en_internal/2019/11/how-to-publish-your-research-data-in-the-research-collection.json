@@ -5,12 +5,9 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "The Research Collection is ETH Zurich’s publication platform, where members of the university can publish academic full texts open access and archive research data or make them publicly accessible.\n\nAnswers to further questions can be found in the Research Collection manual .\n\n#KnowHow – ETH Library’s infrastructure and tools lead you to your goal.",
   "named_entities": [
-    "The Research Collection",
     "Research Collection",
-    "Zurich",
-    "KnowHow",
-    "Library",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research"
@@ -24,14 +21,24 @@
     "Platform",
     "Where"
   ],
-  "summary": "The Research Collection is ETH Zurich’s publication platform, where members of the university can publish academic full texts open access and archive research data or make them publicly accessible....",
+  "summary": "The Research Collection is ETH Zurich’s publication platform, where members of the university can publish academic full texts open access and archive research data or make them publicly accessible. Answers to further questions can be found in the Research Collection manual ....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 54,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -40,6 +47,30 @@
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.0,
+      "avg_word_length": 5.31,
+      "long_word_percentage": 37.04
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "The Research Collection",
+        "Zurich",
+        "Answers",
+        "Research Collection"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

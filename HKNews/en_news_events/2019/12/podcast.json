@@ -7,11 +7,8 @@
   "named_entities": [
     "Roi Poranne",
     "Computer Sciences",
-    "Renana",
-    "Zurich",
-    "Chemistry",
-    "Podcast",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -22,24 +19,62 @@
     "They",
     "Renana",
     "Researchers",
-    "About",
     "Family",
-    "Poranne"
+    "Poranne",
+    "Both"
   ],
-  "summary": "Renana and Roi Poranne are both senior scientists at ETH Zurich: Renana in Chemistry, Roi, in Computer Sciences....",
+  "summary": "Renana and Roi Poranne are both senior scientists at ETH Zurich: Renana in Chemistry, Roi, in Computer Sciences. But they are not only committed researchers, they are also parents to two little children. In the current episode of the ETH Podcast, Roi and Renana talk about how they manage life between research and family....",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 78,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.5,
+      "avg_word_length": 4.82,
+      "long_word_percentage": 24.36
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "Computer Sciences",
+      "authors": [
+        "Renana",
+        "Roi Poranne",
+        "Zurich",
+        "Renana",
+        "Chemistry"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Chemistry",
+        "Computer Sciences"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

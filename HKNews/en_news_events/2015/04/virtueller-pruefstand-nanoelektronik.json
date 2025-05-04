@@ -10,11 +10,7 @@
     "Piz Daint",
     "Schrödinger Equation",
     "Simone Ulmer",
-    "Electronic",
-    "Moore",
-    "Smartphone",
-    "Zurich",
-    "CSCS"
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -25,22 +21,32 @@
     "Campus Life"
   ],
   "keywords": [
-    "That",
-    "With",
     "Luisier",
     "Which",
     "They",
     "Electrons",
-    "Transistor"
+    "Transistor",
+    "Materials",
+    "More"
   ],
-  "summary": "Electronic components are often only a few nanometres (billionths of a metre) in size....",
+  "summary": "Electronic components are often only a few nanometres (billionths of a metre) in size. According to Moore’s Law, a transistor halves in size every two years, for example, which is the only possibility to place two billion transistors in a nanoformat on a Smartphone chip....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 987,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Faculty",
@@ -51,6 +57,31 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.5,
+      "avg_word_length": 5.14,
+      "long_word_percentage": 32.42
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Electronic",
+        "According",
+        "Smartphone"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Moore"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

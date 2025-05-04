@@ -10,11 +10,7 @@
     "Raffaele Di Giacomo",
     "Di Giacomo",
     "When Di Giacomo",
-    "Water",
-    "Humans",
-    "Department",
-    "Mechanical",
-    "Professor"
+    "ETH"
   ],
   "topics": [
     "Weather & Environment",
@@ -28,19 +24,29 @@
     "Temperature",
     "Sensor",
     "Cells",
-    "With",
-    "That",
     "Their",
-    "They"
+    "They",
+    "Giacomo",
+    "Plants"
   ],
-  "summary": "Water is replaced by nanotubes: Humans have been inspired by nature since the beginning of time....",
+  "summary": "Water is replaced by nanotubes: Humans have been inspired by nature since the beginning of time. We mimic nature to develop new technologies, with examples ranging from machinery to pharmaceuticals to new materials. Planes are modelled on birds and many drugs have their origins in plants....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 715,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +57,37 @@
       "Catering",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.32,
+      "avg_word_length": 5.24,
+      "long_word_percentage": 32.17
+    },
+    "citation_info": {
+      "doi": "10.1073/pnas.1421020112",
+      "journal": "",
+      "authors": [
+        "Humans",
+        "Planes",
+        "Researchers"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Daraio"
+      ],
+      "departments": [
+        "Researchers at the",
+        "Mechanical and Process Engineering have"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "2015"
+        ]
+      }
+    }
   }
 }

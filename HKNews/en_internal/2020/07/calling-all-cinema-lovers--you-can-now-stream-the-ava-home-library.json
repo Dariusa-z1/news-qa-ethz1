@@ -10,11 +10,8 @@
     "Short Film",
     "Berlinale Collection",
     "Cannes Collection",
-    "Have",
-    "Zurich",
-    "European",
-    "Documentary",
-    "Focus"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "International",
@@ -31,14 +28,24 @@
     "Cinema",
     "Home"
   ],
-  "summary": "Have you ever dreamed of being programme director, audience member and jury member at the same time?...",
+  "summary": "Have you ever dreamed of being programme director, audience member and jury member at the same time? Film aficionados now have something to look forward to during a time when they have been unable to watch films at the cinema – you can put on your very own film festival and make that dream come true at home!...",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 206,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -47,6 +54,24 @@
       "COVID-19",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.89,
+      "avg_word_length": 4.74,
+      "long_word_percentage": 22.33
+    },
+    "semantic_entities": {
+      "locations": [
+        "European"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020"
+        ]
+      }
+    }
   }
 }

@@ -9,12 +9,12 @@
     "Treffpunkt Science City",
     "Erwachsenen Besucher",
     "Robert Riener",
-    "Die Besucher",
     "Urs Kolly",
     "Gesundheits-Check",
     "Campus Hönggerberg",
-    "Das Podium",
-    "Balgrist Campus"
+    "Balgrist Campus",
+    "Mensch Cybathlon",
+    "Swiss Arena"
   ],
   "topics": [
     "Campus Life",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Robotische Helfer und Kraft der Gedanken: Gesundheit ist ein unschätzbares Gut, das es zu erhalten gilt. Wie aber kann man das eigene Wohlergehen positiv beeinflussen?...",
+  "summary": "Robotische Helfer und Kraft der Gedanken: Gesundheit ist ein unschätzbares Gut, das es zu erhalten gilt. Wie aber kann man das eigene Wohlergehen positiv beeinflussen? Wenn jemand erkrankt oder verunfallt; Wie kann die moderne Medizin heilen oder den Alltag zumindest erträglicher machen?...",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 424,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Staff",
       "Researchers",
@@ -50,6 +60,42 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 11.16,
+      "avg_word_length": 6.27,
+      "long_word_percentage": 38.44
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "heilen oder den Alltag zumindest erträglicher machen?\n\nAntworten auf diese und weitere Fragen liefert die kommende Ausgabe der beliebten Veranstaltungsreihe «Treffpunkt Science City» mit dem Titel «der unperfekte Mensch»",
+      "authors": [
+        "Robotische Helfer",
+        "Gedanken",
+        "Gesundheit"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "11 bis"
+      ],
+      "time_references": [],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Kloten",
+        "Leben",
+        "Unfall"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016"
+        ]
+      }
+    }
   }
 }

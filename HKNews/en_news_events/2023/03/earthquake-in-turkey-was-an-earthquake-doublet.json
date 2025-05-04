@@ -10,11 +10,8 @@
     "Luca Dal Zilio",
     "Swiss Seismological Service",
     "East Anatolian Fault",
-    "The North Anatolian Fault",
-    "Abstract",
-    "Researchers",
-    "Turkey",
-    "Syria"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Campus Life",
@@ -28,19 +25,29 @@
     "ETH Zurich",
     "Fault",
     "Earthquake",
-    "This",
     "Earthquakes",
-    "That",
-    "Have"
+    "Have",
+    "Hazard",
+    "Turkey"
   ],
-  "summary": "Abstract: • Researchers confirm that an earthquake doublet occurred in Turkey and Syria....",
+  "summary": "Abstract: • Researchers confirm that an earthquake doublet occurred in Turkey and Syria. • The first quake tipped the scales, triggering the second powerful earthquake very shortly thereafter on a neighbouring fault. • Experts suspect there is a “seismic gap” along the North Anatolian Fault south of Istanbul and under the Sea of Marmara, given the absence of a powerful earthquake in the past 250 years....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 3,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 824,
     "readability_score": "moderately complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Researchers",
@@ -51,6 +58,45 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.16,
+      "avg_word_length": 4.96,
+      "long_word_percentage": 25.12
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Abstract",
+        "Researchers",
+        "Turkey"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "6 February 2023"
+      ],
+      "time_references": [],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Geoazur",
+        "Europe",
+        "Bath",
+        "Turkey"
+      ],
+      "departments": [
+        "senior scientist at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2023"
+        ]
+      }
+    }
   }
 }

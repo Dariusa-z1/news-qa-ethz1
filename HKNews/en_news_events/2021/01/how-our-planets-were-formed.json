@@ -8,13 +8,9 @@
     "Maria Schönbächler",
     "National Centre",
     "Tim Lichtenberg",
-    "Mercury",
-    "Venus",
-    "Earth",
-    "Mars",
-    "Jupiter",
-    "Saturn",
-    "Uranus"
+    "ETH Zurich",
+    "ETH",
+    "University of Zurich"
   ],
   "topics": [
     "Research",
@@ -33,14 +29,24 @@
     "Inner",
     "System"
   ],
-  "summary": "",
+  "summary": "Two waves of formation at different points in time: Mercury, Venus, Earth and Mars in the inner solar system are relatively small, dry planets, unlike Jupiter, Saturn, Uranus and Neptune in the outer regions, planets that contain much greater quantities of volatile elements....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 889,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +57,31 @@
       "Technology",
       "Research",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.39,
+      "avg_word_length": 4.92,
+      "long_word_percentage": 25.31
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the journal Science",
+      "authors": [
+        "Mercury"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Research"
+      ],
+      "departments": [
+        "Professor at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

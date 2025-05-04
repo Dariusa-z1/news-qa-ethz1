@@ -10,10 +10,6 @@
     "Facility Management Department",
     "Information Technology",
     "Electrical Engineering",
-    "Bild",
-    "Zürich",
-    "Most",
-    "Spooky",
     "ETH"
   ],
   "topics": [
@@ -27,20 +23,30 @@
   "keywords": [
     "Team",
     "Working",
-    "From",
     "Home",
     "Building",
-    "That",
-    "Streuli"
+    "Streuli",
+    "Your",
+    "Cleaning"
   ],
-  "summary": "Rudolf Streuli. (Bild: ETH Zürich)\n\nMost ETH members are currently working from home to slow down the spread of the corona virus....",
+  "summary": "Rudolf Streuli. (Bild: ETH Zürich)\n\nMost ETH members are currently working from home to slow down the spread of the corona virus. Not so Ruedi Streuli, the head of the ET building area in the Facility Management Department....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 265,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Staff",
       "Faculty",
@@ -51,6 +57,24 @@
       "Infrastructure",
       "Technology",
       "Administrative"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.25,
+      "avg_word_length": 4.73,
+      "long_word_percentage": 22.64
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "the institute secretariats of the",
+        "Information Technology and Electrical Engineering",
+        "area in the Facility Management"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

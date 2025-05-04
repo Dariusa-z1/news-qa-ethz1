@@ -5,10 +5,8 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Although we still have a long way to go to achieve gender balance in research and academia, we have made a lot of progress since 1855. Today, over 8,500 female researchers and students contribute every day to making ETH one of the best universities in the world.\n\nETH Diversity has compiled more facts, portraits of female scientists at ETH Zurich as well as additional information on other events to this awareness day on an overview page .",
   "named_entities": [
-    "Although",
-    "Diversity",
-    "Zurich",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -25,14 +23,24 @@
     "Long",
     "Achieve"
   ],
-  "summary": "Although we still have a long way to go to achieve gender balance in research and academia, we have made a lot of progress since 1855....",
+  "summary": "Although we still have a long way to go to achieve gender balance in research and academia, we have made a lot of progress since 1855. Today, over 8,500 female researchers and students contribute every day to making ETH one of the best universities in the world....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 77,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -41,6 +49,31 @@
       "Research",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 25.67,
+      "avg_word_length": 4.64,
+      "long_word_percentage": 23.38
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Although",
+        "Diversity",
+        "Zurich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1855"
+        ]
+      }
+    }
   }
 }

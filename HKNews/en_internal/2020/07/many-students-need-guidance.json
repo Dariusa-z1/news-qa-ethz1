@@ -7,14 +7,14 @@
   "named_entities": [
     "Dr Wüest",
     "World Senior Curling Championships",
-    "Since March",
     "Hermann Lehner",
     "Academic Services",
     "Dr Lehner",
     "Dieter Wüest",
     "Computer Science",
     "Code Expert",
-    "Main"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -26,21 +26,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
     "Teaching",
     "Wüest",
     "What",
     "Lehner",
-    "There"
+    "There",
+    "Have"
   ],
-  "summary": "Main article: Dr Wüest, your department is responsible for organising academic operations. The coronavirus crisis has turned all of that on its head....",
+  "summary": "Main article: Dr Wüest, your department is responsible for organising academic operations. The coronavirus crisis has turned all of that on its head. You probably didn’t imagine your term of office ending like this......",
+  "content_structure": {
+    "paragraph_count": 16,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1521,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +62,40 @@
       "COVID-19",
       "Sustainability",
       "Infrastructure"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.71,
+      "avg_word_length": 4.55,
+      "long_word_percentage": 22.75
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "2016 where – alongside his teaching activities in the Department of Computer Science – he developed the innovative learning platform Code Expert",
+      "authors": [
+        "Dr Wüest"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "December",
+        "August",
+        "Canada",
+        "Burgdorf",
+        "Switzerland"
+      ],
+      "departments": [
+        "his teaching activities in the",
+        "study programme coordinator for the",
+        "Computer Science"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1985",
+          "2004"
+        ]
+      }
+    }
   }
 }

@@ -7,14 +7,8 @@
   "named_entities": [
     "Paola Picotti",
     "Assistant Professor",
-    "Denaturation",
-    "Crack",
-    "Biochemistry",
-    "Zurich",
-    "Science",
-    "Thanks",
-    "About",
-    "Flexibility"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Weather & Environment",
@@ -27,20 +21,30 @@
   "keywords": [
     "ETH Zurich",
     "Proteins",
-    "That",
     "Cells",
     "Cell",
     "Researchers",
-    "These"
+    "Temperature",
+    "Temperatures"
   ],
-  "summary": "Denaturation in one fell swoop?: Crack open an egg, let it slide into a hot frying pan and almost immediately the transparent and slippery egg white becomes white and firm....",
+  "summary": "Denaturation in one fell swoop?: Crack open an egg, let it slide into a hot frying pan and almost immediately the transparent and slippery egg white becomes white and firm. What you casually observe when frying an egg is an important biochemical phenomenon called protein denaturation....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 771,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +54,28 @@
       "Research",
       "Weather",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.36,
+      "avg_word_length": 5.19,
+      "long_word_percentage": 31.65
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "a study that has just been published in the journal Science",
+      "authors": [
+        "Denaturation",
+        "Proteins"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

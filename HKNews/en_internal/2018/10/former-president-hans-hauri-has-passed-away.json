@@ -7,14 +7,14 @@
   "named_entities": [
     "Hans Hauri",
     "Federal Council",
-    "During Hauri",
     "Joint Commission",
     "Reform Commission",
     "University Assembly",
     "Rudolf Fietz",
     "Technikum Winterthur",
     "Zurich University",
-    "Applied Sciences"
+    "Applied Sciences",
+    "Building Technology"
   ],
   "topics": [
     "Education",
@@ -30,17 +30,27 @@
     "Hauri",
     "After",
     "University",
-    "With",
-    "Years"
+    "Years",
+    "Hans"
   ],
-  "summary": "",
+  "summary": "Main article: Hans Hauri presided over ETH Zurich at an eventful time: 1968, when the Federal Council handed over leadership of ETH to him, entered the annals as a year of youth movements and student protests. In addition to this, the educational landscape was also undergoing major changes....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 310,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,37 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.38,
+      "avg_word_length": 5.16,
+      "long_word_percentage": 31.61
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Hans Hauri",
+        "Zurich",
+        "Federal Council"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Seengen",
+        "Paris"
+      ],
+      "departments": [
+        "He founded the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1968",
+          "1924"
+        ]
+      }
+    }
   }
 }

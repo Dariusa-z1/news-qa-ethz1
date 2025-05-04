@@ -5,16 +5,13 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Bei Turnitin Similarity handelt es sich um eine Plagiatsprüfsoftware, die Ähnlichkeiten in Texten, einschliesslich Paraphrasierungen, Zitaten und Verweisen erkennt. Die webbasierte Software greift für den Vergleich von Texten auf eine umfangreiche Datenbank mit akademischen – sowohl publizierten als auch unpublizierten – Arbeiten, Büchern, Journals und anderen Quellen zu.\n\nGemäss Beschluss der Schulleitung wird der Zugang nur denjenigen Personen gewährt, die in der Personensuche der ETH Zürich über die Attribute «Professor / Professorin» oder «Dozent / Dozentin» verfügen. Gleichzeitig vertritt die Schulleitung die Meinung, dass Arbeiten von Studierenden nicht flächendeckend mittels einer Software auf Plagiate geprüft werden sollen.\n\nInformationssicherheit gewährleistet\n\nDer Einführung der Software gingen eine ausführliche Marktanalyse und ein umfangreiches Cloud Assessment voraus. Die Sicherheitsstandards der Software erfüllen die hohen Anforderungen der ETH Zürich im Bereich Informationssicherheit.\n\nUnterstützende Angebote der ETH-Bibliothek\n\nFlankierend bietet die ETH-Bibliothek umfangreiche Informationen und Kurse zur Plagiatsprävention an.",
   "named_entities": [
-    "Bei Turnitin Similarity",
     "Gemäss Beschluss",
-    "Der Einführung",
     "Cloud Assessment",
-    "Die Sicherheitsstandards",
     "Bereich Informationssicherheit",
     "Unterstützende Angebote",
     "Bibliothek Flankierend",
-    "Plagiatsprüfsoftware",
-    "Texten"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -32,14 +29,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Bei Turnitin Similarity handelt es sich um eine Plagiatsprüfsoftware, die Ähnlichkeiten in Texten, einschliesslich Paraphrasierungen, Zitaten und Verweisen erkennt....",
+  "summary": "Bei Turnitin Similarity handelt es sich um eine Plagiatsprüfsoftware, die Ähnlichkeiten in Texten, einschliesslich Paraphrasierungen, Zitaten und Verweisen erkennt. Die webbasierte Software greift für den Vergleich von Texten auf eine umfangreiche Datenbank mit akademischen – sowohl publizierten als auch unpublizierten – Arbeiten, Büchern, Journals und anderen Quellen zu....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 140,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty"
@@ -48,6 +55,34 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.0,
+      "avg_word_length": 7.08,
+      "long_word_percentage": 47.86
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Bei Turnitin Similarity",
+        "Plagiatsprüfsoftware",
+        "Texten",
+        "Paraphrasierungen",
+        "Zitaten"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Texten",
+        "Similarity"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

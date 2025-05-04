@@ -6,15 +6,8 @@
   "main_content": "Mit dem neuen Corporate Design der ETH wurde auch bei der ETH-App ein Redesign fällig, das gleich auch für Neuerungen genutzt wurde. Die Stories zum Campusgeschehen und zu aktuellen Forschungsresultaten warten mit einer verbesserten Detailansicht auf. Neu verfügt die App über Filter zu Events und News und bietet ein komplettes Verzeichnis der ETH-Gebäude. Sie öffnet wie bisher die Speisekarten sämtlicher Restaurants auf dem Campus und liefert die Kontaktinfos aller Mitarbeitenden der ETH Zürich.\n\nDas Info-Portal für Mitarbeitende mit den wichtigsten Informationen rund um das Geschehen an der ETH Zürich.\n\nFür Newsletter «Intern aktuell» anmelden",
   "named_entities": [
     "Corporate Design",
-    "Die Stories",
-    "Das Info-Portal",
-    "Für Newsletter",
-    "Redesign",
-    "Neuerungen",
-    "Campusgeschehen",
-    "Forschungsresultaten",
-    "Detailansicht",
-    "Filter"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Infrastructure",
@@ -33,14 +26,24 @@
     "Science",
     "Campus"
   ],
-  "summary": "Mit dem neuen Corporate Design der ETH wurde auch bei der ETH-App ein Redesign fällig, das gleich auch für Neuerungen genutzt wurde....",
+  "summary": "Mit dem neuen Corporate Design der ETH wurde auch bei der ETH-App ein Redesign fällig, das gleich auch für Neuerungen genutzt wurde. Die Stories zum Campusgeschehen und zu aktuellen Forschungsresultaten warten mit einer verbesserten Detailansicht auf....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 97,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff",
       "Researchers"
@@ -50,6 +53,31 @@
       "Technology",
       "Research",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.17,
+      "avg_word_length": 5.63,
+      "long_word_percentage": 27.84
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Corporate Design",
+        "Redesign",
+        "Neuerungen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Redesign"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

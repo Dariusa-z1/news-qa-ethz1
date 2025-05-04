@@ -9,12 +9,12 @@
     "Dieses Dilemma",
     "Im Rahmen",
     "Departement Maschinenbau",
-    "Das Ziel",
-    "Das Kürzel",
     "Seit Anfang",
     "Jede Forschungsgruppe",
-    "Ein Retourflug Zürich-Boston",
-    "Der Erlös"
+    "Sustainable Development Goals",
+    "Vereinten Nationen",
+    "Thema Nachhaltigkeit",
+    "Weiterführende Informationen"
   ],
   "topics": [
     "Research",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Bewusster Fliegen: Flugreisen verursachen mehr als die Hälfte der CO 2 -Emissionen der ETH Zürich, gelten aber in der global vernetzten Wissenschaft zurzeit noch als (fast) unverzichtbar....",
+  "summary": "Bewusster Fliegen: Flugreisen verursachen mehr als die Hälfte der CO 2 -Emissionen der ETH Zürich, gelten aber in der global vernetzten Wissenschaft zurzeit noch als (fast) unverzichtbar. Dieses Dilemma ist nicht nur für Klimawissenschaftler relevant....",
+  "content_structure": {
+    "paragraph_count": 17,
+    "bullet_points": 4,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 826,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,44 @@
       "Sustainability",
       "Infrastructure",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.36,
+      "avg_word_length": 6.44,
+      "long_word_percentage": 39.1
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Bewusster Fliegen",
+        "Flugreisen",
+        "Hälfte",
+        "Emissionen",
+        "Zürich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Roboter",
+        "Sustainability",
+        "Jahr",
+        "Forschungsprojekte",
+        "Maschinenbau"
+      ],
+      "departments": [
+        "azzotti Professor für Verfahrenstechnik am",
+        "stellen wir uns auch am",
+        "Zürich jedes"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2019",
+          "2025"
+        ]
+      }
+    }
   }
 }

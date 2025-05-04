@@ -7,13 +7,8 @@
   "named_entities": [
     "Morteza Aramesh",
     "Nature Nanotechnology",
-    "Laboratory",
-    "Biosensors",
-    "Bioelectronics",
-    "Zurich",
-    "Vörös",
-    "Head",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -27,19 +22,29 @@
     "ETH Zurich",
     "Cells",
     "Cell",
-    "That",
     "Which",
     "Molecules",
-    "Signalling"
+    "Signalling",
+    "Proteins"
   ],
-  "summary": "An innovative nanosensor: For the cells in our bodies to function as a unit, they must communicate with one another constantly....",
+  "summary": "An innovative nanosensor: For the cells in our bodies to function as a unit, they must communicate with one another constantly. They secrete signalling molecules – ions, proteins and nucleic acids – that are picked up by adjacent cells, which in turn pass on the signal to other cells....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 680,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -49,6 +54,25 @@
       "Communications",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.67,
+      "avg_word_length": 4.93,
+      "long_word_percentage": 28.24
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the scientific journal Nature Nanotechnology",
+      "authors": []
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

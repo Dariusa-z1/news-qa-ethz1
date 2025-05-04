@@ -30,17 +30,27 @@
     "Professor",
     "Zurich",
     "Department",
-    "With",
-    "Photograph"
+    "Photograph",
+    "Currently"
   ],
-  "summary": "",
+  "summary": "New appointments: (Photograph: © Moritz Drupp)\n\nProfessor Moritz Drupp (*1986), currently Professor at the University of Hamburg, Germany, and Visiting Professor at the University of Gothenburg, Sweden, as Associate Professor of Sustainability Economics in the Department of Management, Technology and Economics....",
+  "content_structure": {
+    "paragraph_count": 18,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 4,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1082,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,43 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 25.16,
+      "avg_word_length": 5.81,
+      "long_word_percentage": 41.13
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the Department of Biosystems Science and Engineering",
+      "authors": [
+        "Photograph",
+        "Moritz Drupp",
+        "Professor Moritz Drupp",
+        "Professor"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Basel",
+        "Meteo",
+        "Wang",
+        "Boulder",
+        "Swiss Medical Network"
+      ],
+      "departments": [
+        "and Climate Modelling in the",
+        "Medical Director of Radio-Oncology",
+        "Mechanics and Monitoring in the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1986",
+          "1992"
+        ]
+      }
+    }
   }
 }

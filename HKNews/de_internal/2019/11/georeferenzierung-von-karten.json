@@ -1,20 +1,15 @@
 {
   "language": "de",
   "title": "Die Georeferenzierung von historischen, digitalisierten Karten ist aber aufwendig und kann oft nur von Hand geleistet werden. Deshalb zählen wir auf Ihre Unterstützung!",
-  "date": "2019-11-01",
+  "date": "2017-11-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Die Georeferenzierung von historischen, digitalisierten Karten ist aber aufwendig und kann oft nur von Hand geleistet werden. Deshalb zählen wir auf Ihre Unterstützung!\n\nNach der äusserst erfolgreichen ersten Crowdsourcing-Runde Anfang 2017 stehen nun über 1'700 weitere historische Karten aus dem Bestand der ETH-Bibliothek zur Georeferenzierung bereit. Eine Besonderheit dieser Karten ist, dass sie mehrheitlich aus Atlanten des 19. Jahrhunderts stammen und somit noch nicht über Eckkoordinaten, wie sie die ETH-Bibliothek bei Einzelkarten erfasst, erschlossen sind. Die Herausforderung, diese «versteckten Karten» treffend georeferenzieren zu können, ist also etwas höher.\n\nDer aktuelle Stand der Georeferenzierung und eine Anleitung zum Vorgehen finden Sie auf der Projektseite.\n\nNach Abschluss stehen Ihnen die georeferenzierten Karten auch im Portal externe Seite OldMapsOnline.org zur Verfügung. Sämtliche Karten und Atlanten sind bereits heute im Suchportal der ETH-Bibliothek und auf der Plattform externe Seite e-rara.ch recherchierbar.\n\n#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel.",
   "named_entities": [
-    "Die Georeferenzierung",
     "Ihre Unterstützung",
     "Crowdsourcing-Runde Anfang",
-    "Eine Besonderheit",
-    "Die Herausforderung",
-    "Nach Abschluss",
     "Sämtliche Karten",
-    "Die Infrastruktur",
     "Ihrem Ziel",
-    "Hand"
+    "ETH"
   ],
   "topics": [
     "Infrastructure",
@@ -30,14 +25,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Die Georeferenzierung von historischen, digitalisierten Karten ist aber aufwendig und kann oft nur von Hand geleistet werden. Deshalb zählen wir auf Ihre Unterstützung!...",
+  "summary": "Die Georeferenzierung von historischen, digitalisierten Karten ist aber aufwendig und kann oft nur von Hand geleistet werden. Deshalb zählen wir auf Ihre Unterstützung! Nach der äusserst erfolgreichen ersten Crowdsourcing-Runde Anfang 2017 stehen nun über 1'700 weitere historische Karten aus dem Bestand der ETH-Bibliothek zur Georeferenzierung bereit....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 159,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -46,6 +51,22 @@
       "Infrastructure",
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.25,
+      "avg_word_length": 6.01,
+      "long_word_percentage": 31.45
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017"
+        ]
+      }
+    }
   }
 }

@@ -6,10 +6,8 @@
   "main_content": "BioCyc Database Collection is a comprehensive resource for data records on genes, metabolites, and metabolic pathways of thousands of microbes and other species. BioCyc curators summarize and synthesize information from publications and organize them into tiers according to the amount of manual updating they have received. Additionally, the website contains a variety of software tools for searching, visualizing, comparing, and analyzing these data.\n\nThe database can be accessed online on ETH Zurich's network or on ETH Library premises.",
   "named_entities": [
     "Database Collection",
-    "BioCyc",
-    "Zurich",
-    "Library",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -27,20 +25,52 @@
     "Comprehensive",
     "Resource"
   ],
-  "summary": "BioCyc Database Collection is a comprehensive resource for data records on genes, metabolites, and metabolic pathways of thousands of microbes and other species....",
+  "summary": "BioCyc Database Collection is a comprehensive resource for data records on genes, metabolites, and metabolic pathways of thousands of microbes and other species. BioCyc curators summarize and synthesize information from publications and organize them into tiers according to the amount of manual updating they have received....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 79,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "General Public"
     ],
     "context_tags": [
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.75,
+      "avg_word_length": 5.72,
+      "long_word_percentage": 43.04
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Cyc Database Collection",
+        "Additionally"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

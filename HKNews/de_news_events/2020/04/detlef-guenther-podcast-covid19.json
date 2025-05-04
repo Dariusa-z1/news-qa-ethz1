@@ -7,8 +7,6 @@
   "named_entities": [
     "Abonnieren Sie",
     "Podcast-Webseite",
-    "Podcastplattformen",
-    "Folgen",
     "ETH"
   ],
   "topics": [
@@ -23,19 +21,43 @@
     "Education"
   ],
   "summary": "Abonnieren Sie den ETH Podcast auf allen gängigen Podcastplattformen oder hören Sie ihn im Web auf der Podcast-Webseite. Dort finden Sie auch frühere Folgen des ETH-Podcast.",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 28,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.0,
+      "avg_word_length": 5.14,
+      "long_word_percentage": 28.57
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -7,14 +7,14 @@
   "named_entities": [
     "Welche Infrastruktur",
     "Lehr-Fragen",
-    "Das Projekt",
     "Innovedum-Wettbewerb",
-    "Die Idee",
     "Maschinenbaustudent Benedikt Ummen",
     "Seiner Idee",
     "Rektor Lino Guzzella",
     "Universität Stanford",
-    "San Franzisco"
+    "San Franzisco",
+    "Doktorand Andreas Steiger",
+    "Im Gegensatz"
   ],
   "topics": [
     "Education",
@@ -34,13 +34,23 @@
     "Education"
   ],
   "summary": "Wie lernen Studierende an anderen Hochschulen? Wie evaluieren ausländische Universitäten ihre Lehre? Welche Infrastruktur ist für eine innovative Lehre notwendig?...",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 789,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -53,6 +63,39 @@
       "Sustainability",
       "Infrastructure",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.78,
+      "avg_word_length": 6.05,
+      "long_word_percentage": 35.87
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Studierende",
+        "Hochschulen",
+        "Universitäten"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Erfolg",
+        "Stanford",
+        "Delft",
+        "Teil"
+      ],
+      "departments": [
+        "aktiv zu bewerben und die"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2014",
+          "15000"
+        ]
+      }
+    }
   }
 }
