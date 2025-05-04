@@ -5,10 +5,10 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "The threat of climate change is similar to the corona pandemic. Covid-​19 and climate evoke uncertainty on many levels and are both global problems that affect every single one of us. In the second episode of our uncertainty series, we talk to the renowned ETH professors Reto Knutti and Tony Patt and student and climate activist Annabelle Ehmann. In this episode of the ETH podcast, everyone reveals how he or she deals with uncertainty in climate change.",
   "named_entities": [
+    "ETH",
     "Reto Knutti",
     "Tony Patt",
-    "Annabelle Ehmann",
-    "ETH"
+    "Annabelle Ehmann"
   ],
   "topics": [
     "Sustainability",
@@ -22,19 +22,24 @@
     "Climate",
     "Uncertainty",
     "Change",
+    "Climate change",
     "Episode",
-    "Threat",
-    "Similar",
-    "Corona"
+    "19 climate",
+    "Activist"
   ],
-  "summary": "The threat of climate change is similar to the corona pandemic. Covid-​19 and climate evoke uncertainty on many levels and are both global problems that affect every single one of us....",
+  "summary": "In the second episode of our uncertainty series, we talk to the renowned ETH professors Reto Knutti and Tony Patt and student and climate activist Annabelle Ehmann....",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 78,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Faculty"
@@ -44,6 +49,11 @@
       "Sustainability",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.5,
+      "avg_word_length": 4.78,
+      "long_word_percentage": 25.64
+    }
   }
 }

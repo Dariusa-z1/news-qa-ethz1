@@ -1,20 +1,20 @@
 {
   "language": "de",
   "title": "Informationen Zu Oeffnungszeiten Und Angeboten Der Eth Bibliothek Ab Dem 1 Oktober 2020",
-  "date": "2020-09-01",
+  "date": "2000-10-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "• ETH-Bibliothek Hauptgebäude ( InfoCenter ): Mo–Fr 8.00–22.00, Sa und So 9.00–17.00\n• Baubibliothek : Mo–Fr 8.00–21.00\n• Bibliothek Erdwissenschaften : Mo–Fr 9.00–17.00\n• GESS-Bibliothek : Mo–Fr 9.00–17.00\n• Grüne Bibliothek : Mo–Fr 9.00–20.00\n• ETH-Bibliothek HDB : Mo–Fr 9.00–17.00\n• An allen Standorten sind Ausleihen und Rückgaben möglich. Ebenso können kurze Recherchen und Beratungen unter Einhaltung der Distanz- und Hygienevorschriften stattfinden.\n• Nationale und internationale (Fach-)Zeitschriften sowie Tageszeitungen stehen im Freihandbereich zur Benutzung zur Verfügung.\n• Kopierer und Scanner  können unter Einhaltung der Distanzregeln von allen Besuchenden  benutzt werden.\n• Für Studierende stehen in verschiedenen Gebäuden im Zentrum sowie auf dem Hönggerberg Lernarbeitsplätze in reduzierter Anzahl zur Verfügung.\nIn allen ETH-Gebäuden gilt die Pflicht zum Tragen einer Maske . Es gelten weiterhin die Distanz- und Hygienevorschriften des BAG. Bitte beachten Sie dies bei einem Besuch der ETH-Bibliothek.\n\nAlle Standorte der ETH-Bibliothek sind geöffnet.\n\nDie Recherche vor Ort in den Beständen der Sammlungen und Archive der ETH-Bibliothek inklusive dem Thomas-Mann-Archiv auf dem Hönggerberg ist möglich. Der Lesesaal Sammlungen und Archive im Hauptgebäude ist von Mo–Fr von 10.00–17.00 Uhr geöffnet. Für die Benutzung des Max Frisch- Archivs sowie die Thomas-Mann-Archivs ist eine Voranmeldung erforderlich.\n\nMuseen und Ausstellungen öffnen im September wieder.\n\nIm Herbst finden zahlreiche Veranstaltungen statt, aufgrund der Schutzmassnahmen jedoch zum Teil virtuell. Bitte beachten Sie die Hinweise und Details dazu im Veranstaltungskalender .\n\nFragen? Die ETH-Bibliothek hilft gerne.\n\n#MehrWissen – Die aufbereiteten Inhalte der ETH-Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter.\n\n#ETHBibliothekDigital – Die ETH-Bibliothek ist nicht nur während der COVID-19-Schutzmassnahmen digital mit verschiedenen Angeboten und Dienstleistungen für Sie da.",
   "named_entities": [
+    "ETH",
+    "Hönggerberg Lernarbeitsplätze",
     "Bibliothek Hauptgebäude",
     "Bibliothek Erdwissenschaften",
     "Grüne Bibliothek",
-    "Für Studierende",
-    "Hönggerberg Lernarbeitsplätze",
     "Alle Standorte",
-    "Die Recherche",
-    "Thomas-Mann-Archiv",
-    "Der Lesesaal Sammlungen",
-    "Max Frisch"
+    "Max Frisch",
+    "Im Herbst",
+    "GESS",
+    "HDB"
   ],
   "topics": [
     "Infrastructure",
@@ -25,21 +25,27 @@
     "Education"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Ethbibliothek",
+    "Mo fr",
+    "1700",
+    "900 1700",
+    "Fr 900",
+    "Sowie",
+    "Stehen"
   ],
-  "summary": "",
+  "summary": "• ETH-Bibliothek Hauptgebäude ( InfoCenter ): Mo–Fr 8.00–22.00, Sa und So 9.00–17.00\n• Baubibliothek : Mo–Fr 8.00–21.00\n• Bibliothek Erdwissenschaften : Mo–Fr 9.00–17.00\n• GESS-Bibliothek : Mo–Fr 9.00–17.00\n• Grüne Bibliothek : Mo–Fr 9.00–20.00\n• ETH-Bibliothek HDB : Mo–Fr 9.00–17.00\n• An allen Standorten sind Ausleihen und Rückgaben möglich....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 10,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 291,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students"
     ],
@@ -48,6 +54,11 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 8.31,
+      "avg_word_length": 5.58,
+      "long_word_percentage": 32.3
+    }
   }
 }

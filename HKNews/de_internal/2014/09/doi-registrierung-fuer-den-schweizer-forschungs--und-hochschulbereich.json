@@ -6,15 +6,12 @@
   "main_content": "Digital Object Identifier\n\n• erleichtern die Identifizierung und Adressierung Ihrer digitalen Objekte,\n• tragen zur Vertrauenswürdigkeit Ihres Angebots bei und\n• erhöhen die Sichtbarkeit Ihrer Dokumente im Internet.\nBetreiben Sie einen Dokumentenserver, eine digitale Sammlung, ein Forschungsdatenarchiv oder eine Open-Access-Zeitschrift?\n\nDigital Object Identifier\n\nDOI-Namen bleiben stabil und gewährleisten Zitierfähigkeit, während URL-Adressen sich häufig verändern oder verschwinden.",
   "named_entities": [
     "Digital Object Identifier",
-    "Adressierung Ihrer",
     "Vertrauenswürdigkeit Ihres Angebots",
     "Sichtbarkeit Ihrer Dokumente",
+    "Adressierung Ihrer",
     "Betreiben Sie",
-    "Open-Access-Zeitschrift",
-    "Identifizierung",
-    "Objekte",
-    "Internet",
-    "Dokumentenserver"
+    "DOI",
+    "URL"
   ],
   "topics": [
     "Technology & Innovation",
@@ -25,27 +22,37 @@
   ],
   "keywords": [
     "Digital",
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Digital object",
+    "Identifier",
+    "Object",
+    "Object identifier",
+    "Adressierung",
+    "Adressierung digitalen"
   ],
-  "summary": "",
+  "summary": "Digital Object Identifier\n\n• erleichtern die Identifizierung und Adressierung Ihrer digitalen Objekte,\n• tragen zur Vertrauenswürdigkeit Ihres Angebots bei und\n• erhöhen die Sichtbarkeit Ihrer Dokumente im Internet....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 3,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 57,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
     "context_tags": [
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.0,
+      "avg_word_length": 7.3,
+      "long_word_percentage": 49.12
+    }
   }
 }

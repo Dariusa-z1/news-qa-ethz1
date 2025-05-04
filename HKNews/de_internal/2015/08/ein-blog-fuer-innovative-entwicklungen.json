@@ -5,12 +5,7 @@
   "source": "Unbekannte Quelle",
   "main_content": "Im Deliscope-Blog beschreiben und publizieren die Lehrspezialistinnen und Lehrspezialisten regelmässig «good practice»-Beispiele aus der Lehre und stellen innovative Entwicklungen in der Lehre vor.",
   "named_entities": [
-    "Im Deliscope-Blog",
-    "Lehrspezialistinnen",
-    "Lehrspezialisten",
-    "Beispiele",
-    "Lehre",
-    "Entwicklungen"
+    "Im Deliscope-Blog"
   ],
   "topics": [
     "Education",
@@ -18,22 +13,27 @@
     "Technology & Innovation"
   ],
   "keywords": [
-    "Teaching",
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Lehre",
+    "Beispiele",
+    "Beispiele lehre",
+    "Beschreiben",
+    "Beschreiben publizieren",
+    "Deliscopeblog",
+    "Deliscopeblog beschreiben"
   ],
   "summary": "Im Deliscope-Blog beschreiben und publizieren die Lehrspezialistinnen und Lehrspezialisten regelmässig «good practice»-Beispiele aus der Lehre und stellen innovative Entwicklungen in der Lehre vor.",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 25,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Students",
       "Staff"
@@ -41,6 +41,11 @@
     "context_tags": [
       "Education",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 25.0,
+      "avg_word_length": 6.8,
+      "long_word_percentage": 44.0
+    }
   }
 }

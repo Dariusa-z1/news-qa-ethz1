@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Der Ansturm auf die ASVZ-Schalter ist bei Anmeldebeginnen von Kursen und Lagern jeweils gross: Interessierte warten bereits lange vor Schalteröffnung in den Sport Centern, um einen der beliebten Plätze zu ergattern. In der Polyterrasse wurde in den letzten Jahren deshalb ein Ticket-System à la Post oder SBB eingeführt, damit ein fairer Ablauf gewährleistet werden kann.\n\nAb Mai 2015 bietet der ASVZ mit dem Online-Schalter einen weiteren Kanal, um sich für Kurse und Lager anzumelden. Interessierten wird empfohlen, sich vorzubereiten und sich frühzeitig im Online-Schalter zu registrieren. Registrierungen sind ab dem 30. März 2015 möglich.\n\nAusführliche Informationen zum Online-Schalter finden Sie in der Mitteilung des ASVZ sowie in den FAQs , die die wichtigsten Fragen beantworten. Zur Registrierung im Online-Schalter: externe Seite asvz.ch/schalter .\n\nDer Akademische Sportverband Zürich (ASVZ) ist eine Nonprofit-Organisation, welche im Auftrag der ETH Zürich, der Universität Zürich sowie der Zürcher Fachhochschule (ZFH) allen Studierenden, Angestellten und Alumni der Zürcher Hochschulen ein vielfältiges Sportangebot bietet.",
   "named_entities": [
-    "Der Ansturm",
+    "ASVZ",
+    "Universität Zürich",
+    "ETH Zürich",
+    "Polyterrasse",
     "Sport Centern",
-    "Ticket-System",
-    "Ab Mai",
-    "Online-Schalter",
     "Ausführliche Informationen",
     "Zur Registrierung",
-    "Der Akademische Sportverband Zürich",
-    "Nonprofit-Organisation",
-    "Universität Zürich"
+    "Zürcher Fachhochschule",
+    "Zürcher Hochschulen",
+    "SBB"
   ],
   "topics": [
     "Campus Life",
@@ -27,20 +27,25 @@
   "keywords": [
     "ETH Zurich",
     "University of Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Onlineschalter",
+    "Asvz",
+    "Zürich",
+    "Bietet",
+    "Sowie"
   ],
-  "summary": "",
+  "summary": "Der Akademische Sportverband Zürich (ASVZ) ist eine Nonprofit-Organisation, welche im Auftrag der ETH Zürich, der Universität Zürich sowie der Zürcher Fachhochschule (ZFH) allen Studierenden, Angestellten und Alumni der Zürcher Hochschulen ein vielfältiges Sportangebot bietet....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 164,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -49,6 +54,11 @@
       "Research",
       "Communications",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.4,
+      "avg_word_length": 5.78,
+      "long_word_percentage": 30.49
+    }
   }
 }

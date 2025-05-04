@@ -1,20 +1,11 @@
 {
   "language": "de",
   "title": "Das 1862 erbaute und 1977 total sanierte Gebäude ist in den letzten zwölf Monaten grundlegend renoviert und umgebaut worden.",
-  "date": "2015-09-01",
+  "date": "2000-11-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Das 1862 erbaute und 1977 total sanierte Gebäude ist in den letzten zwölf Monaten grundlegend renoviert und umgebaut worden.\n\nNach dem erfolgreichen Abschluss des Projekts erhält die ETH-Community die Gelegenheit, sich vor Ort ein Bild vom Ergebnis zu machen. Alle, die an der Arbeit des Archivs interessiert sind und alle, die beim Umbau mitgewirkt haben, sind herzlich eingeladen.\n\nBei Kaffee und Gipfeli, Wurst und Brot, Wasser und Wein können Sie mit dem Team des Archivs und seinen Gästen ins Gespräch kommen, das Gebäude besichtigen und sich durch die Magazine führen lassen.\n\nHerzlich willkommen am Sonntag, 27. September 2015, zwischen 11.00 Uhr und 17.00 Uhr am Hirschengraben 62 im Haus der Zeitgeschichte!",
   "named_entities": [
-    "Bei Kaffee",
-    "Gebäude",
-    "Monaten",
-    "Abschluss",
-    "Projekts",
-    "Community",
-    "Gelegenheit",
-    "Bild",
-    "Ergebnis",
-    "Arbeit"
+    "ETH"
   ],
   "topics": [
     "Infrastructure",
@@ -22,28 +13,38 @@
     "Research"
   ],
   "keywords": [
-    "Building",
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Archivs",
+    "Gebäude",
+    "Herzlich",
+    "Abschluss",
+    "Abschluss projekts",
+    "Arbeit",
+    "Arbeit archivs"
   ],
-  "summary": "Das 1862 erbaute und 1977 total sanierte Gebäude ist in den letzten zwölf Monaten grundlegend renoviert und umgebaut worden....",
+  "summary": "Bei Kaffee und Gipfeli, Wurst und Brot, Wasser und Wein können Sie mit dem Team des Archivs und seinen Gästen ins Gespräch kommen, das Gebäude besichtigen und sich durch die Magazine führen lassen....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 114,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Interview",
     "audience_type": [
       "General Public"
     ],
     "context_tags": [
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.25,
+      "avg_word_length": 5.13,
+      "long_word_percentage": 28.07
+    }
   }
 }

@@ -5,16 +5,9 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Neben den Kilometern für den Hochschul-Wettkampf liefert das App-Tracking gleichzeitig wertvolle Erkenntnisse zu den tatsächlich befahrenen Wegstrecken und über die Häufigkeit deren Nutzung. Diese anonymisierten Aufzeichnungen bilden für das Mobilitätsteam der ETH Züich eine hilfreiche und notwendige Datenbasis, um bestehende Velowege zu verbessern und künftige optimal planen zu können. Ein guter Grund, um bis 31. Mai kräftig in die Pedalen zu steigen – oder nicht?\n\nDer Schutz der persönlichen Daten ist bei diesem GPS-Tracking gewährleistet. Einfach die Naviki-​App herunterladen , registrieren und in den kommenden Tagen wertvolle Kilometerdaten für die ETH sammeln.\n\nAlle notwendigen Informationen und die Anleitung zum App- findet ihr auf unserer Webseite zur Academic Bicycle Challenge .",
   "named_entities": [
-    "Hochschul-Wettkampf",
-    "App-Tracking",
-    "Der Schutz",
+    "ETH",
     "Academic Bicycle Challenge",
-    "Neben",
-    "Kilometern",
-    "Erkenntnisse",
-    "Wegstrecken",
-    "Häufigkeit",
-    "Nutzung"
+    "GPS"
   ],
   "topics": [
     "Technology & Innovation",
@@ -22,21 +15,27 @@
     "Communication"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Wertvolle",
+    "Academic",
+    "Academic bicycle",
+    "Anleitung",
+    "Anleitung findet",
+    "Anonymisierten",
+    "Anonymisierten aufzeichnungen"
   ],
   "summary": "Neben den Kilometern für den Hochschul-Wettkampf liefert das App-Tracking gleichzeitig wertvolle Erkenntnisse zu den tatsächlich befahrenen Wegstrecken und über die Häufigkeit deren Nutzung....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 111,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -44,6 +43,11 @@
     "context_tags": [
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.86,
+      "avg_word_length": 6.03,
+      "long_word_percentage": 40.54
+    }
   }
 }

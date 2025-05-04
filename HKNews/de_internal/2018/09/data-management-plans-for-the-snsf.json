@@ -5,36 +5,44 @@
   "source": "Unbekannte Quelle",
   "main_content": "Seit einem Jahr müssen die Gesuche einen Datenmanagementplan (DMP) enthalten. Der DMP wird online in .",
   "named_entities": [
-    "Seit",
-    "Jahr",
-    "Gesuche",
-    "Datenmanagementplan"
+    "DMP"
   ],
   "topics": [
     "University Administration"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Datenmanagementplan",
+    "Datenmanagementplan enthalten",
+    "Enthalten",
+    "Enthalten online",
+    "Gesuche",
+    "Gesuche datenmanagementplan",
+    "Jahr"
   ],
   "summary": "Seit einem Jahr müssen die Gesuche einen Datenmanagementplan (DMP) enthalten. Der DMP wird online in .",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 15,
     "readability_score": "easy to read",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "University News"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 7.5,
+      "avg_word_length": 5.53,
+      "long_word_percentage": 20.0
+    }
   }
 }

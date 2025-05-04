@@ -5,13 +5,8 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Das Studium an der ETH Zürich ist herausfordernd und alle Studierenden haben ihre persönlichen Hürden zu überwinden. Diese Videoserie zeigt persönliche Porträts von ETH-Studierenden.",
   "named_entities": [
-    "Das Studium",
-    "Diese Videoserie",
-    "Zürich",
-    "Studierenden",
-    "Hürden",
-    "Porträts",
-    "ETH Zürich"
+    "ETH Zürich",
+    "Diese Videoserie"
   ],
   "topics": [
     "Education",
@@ -20,20 +15,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Ethstudierenden",
+    "Herausfordernd",
+    "Herausfordernd studierenden",
+    "Hürden",
+    "Hürden überwinden",
+    "Persönliche"
   ],
   "summary": "Das Studium an der ETH Zürich ist herausfordernd und alle Studierenden haben ihre persönlichen Hürden zu überwinden. Diese Videoserie zeigt persönliche Porträts von ETH-Studierenden.",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 25,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students"
     ],
@@ -41,6 +42,11 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.5,
+      "avg_word_length": 6.24,
+      "long_word_percentage": 36.0
+    }
   }
 }

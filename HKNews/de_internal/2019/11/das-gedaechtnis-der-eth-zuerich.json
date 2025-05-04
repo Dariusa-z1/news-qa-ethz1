@@ -5,16 +5,14 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Sie möchten die Geschichte der ETH erforschen oder das Leben und Wirken bedeutender Wissenschaftler wie die Nobelpreisträger Albert Einstein oder Vladimir Prelog? Dann sind Sie im Hochschularchiv der ETH Zürich an der richtigen Stelle.\n\nDas Hochschularchiv ist zuständig für die Sicherung, Erschliessung und Vermittlung wichtiger Unterlagen der ETH Zürich und des ETH-Rates wie auch von Nachlässen bedeutender ehemaliger ETH-Angehöriger.\n\nLernen Sie das Hochschularchiv in einem neuen Video kennen und erfahren Sie, bei welchen Fragen und Anliegen Sie Unterstützung und Beratung erhalten.\n\nMöchten Sie mehr erfahren? Besuchen Sie die informativen Webseiten des Hochschularchivs\n\n#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel.",
   "named_entities": [
+    "ETH Zürich",
     "Nobelpreisträger Albert Einstein",
-    "Vladimir Prelog",
-    "Das Hochschularchiv",
-    "Lernen Sie",
     "Anliegen Sie Unterstützung",
+    "Vladimir Prelog",
+    "Lernen Sie",
     "Möchten Sie",
     "Besuchen Sie",
-    "Die Infrastruktur",
-    "Ihrem Ziel",
-    "Geschichte"
+    "Ihrem Ziel"
   ],
   "topics": [
     "Research",
@@ -23,20 +21,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Hochschularchiv",
+    "Bedeutender",
+    "Erfahren",
+    "Möchten",
+    "Zürich",
+    "Albert"
   ],
-  "summary": "Sie möchten die Geschichte der ETH erforschen oder das Leben und Wirken bedeutender Wissenschaftler wie die Nobelpreisträger Albert Einstein oder Vladimir Prelog?...",
+  "summary": "Lernen Sie das Hochschularchiv in einem neuen Video kennen und erfahren Sie, bei welchen Fragen und Anliegen Sie Unterstützung und Beratung erhalten....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 108,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Researchers"
     ],
@@ -45,6 +49,11 @@
       "Research",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.0,
+      "avg_word_length": 5.99,
+      "long_word_percentage": 34.26
+    }
   }
 }

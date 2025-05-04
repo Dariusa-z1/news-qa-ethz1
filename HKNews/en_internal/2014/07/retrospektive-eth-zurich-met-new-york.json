@@ -6,15 +6,11 @@
   "main_content": "Building on Zurich’s role as a 21st-century hub for scientific and technological innovation, Zürich Meets New York: A Festival of Swiss Ingenuity took place from 16 to 23 May 2014. It highlighted the contemporary relevance of visionary movements and ideas born in Zurich and their impact on American culture. The festival featured more than 25 events, 11 of which were hosted by ETH Zurich and its partners at venues across New York City. The retrospect, ETH Zurich Met New York will look back at ETH Zurich’s public appearance in New York City as part of the Zürich Meets New York festival. A festive setting will feature photographs, poster column designs and videos, showcasing ETH Zurich’s contribution to the Zürich Meets New York festival.\n\nETH Zurich Met New York 22 July – 12 August 2014 Main Hall\n\nETH Zurich Rämistrasse 101 8092 Zurich",
   "named_entities": [
     "Zürich Meets New York",
-    "Swiss Ingenuity",
+    "ETH Zurich",
     "New York City",
     "Zurich Met New York",
-    "Main Hall",
-    "Zurich Rämistrasse",
-    "Building",
-    "Festival",
-    "American",
-    "July"
+    "Swiss Ingenuity",
+    "Zurich Rämistrasse"
   ],
   "topics": [
     "Technology & Innovation",
@@ -23,22 +19,27 @@
     "International"
   ],
   "keywords": [
-    "ETH Zurich",
-    "York",
     "Zurich",
+    "York",
     "Festival",
-    "Zurich’s",
-    "Zürich",
-    "Meets"
+    "Meets",
+    "Meets york",
+    "York festival",
+    "Zürich"
   ],
-  "summary": "Building on Zurich’s role as a 21st-century hub for scientific and technological innovation, Zürich Meets New York: A Festival of Swiss Ingenuity took place from 16 to 23 May 2014....",
+  "summary": "The retrospect, ETH Zurich Met New York will look back at ETH Zurich’s public appearance in New York City as part of the Zürich Meets New York festival....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 145,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "General Public"
     ],
@@ -47,6 +48,11 @@
       "Technology",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 24.17,
+      "avg_word_length": 4.73,
+      "long_word_percentage": 20.0
+    }
   }
 }

@@ -5,43 +5,47 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Die ETH-Bibliothek bietet ab sofort den Zugriff auf externe Seite Nature Plants an. Die neuste Zeitschrift der Nature Publishing Group veröffentlicht Forschungsbeiträge zur Molekularbiologie, Physiologie und Ökologie der Pflanzen sowie der Interaktion zwischen den Menschen und dem Pflanzenreich.\n\nDer Zugriff auf diese Datenbank ist aus lizenzrechtlichen Gründen auf die Domain ethz.ch beschränkt.",
   "named_entities": [
+    "ETH",
     "Seite Nature Plants",
-    "Nature Publishing Group",
-    "Der Zugriff",
-    "Bibliothek",
-    "Zeitschrift",
-    "Forschungsbeiträge",
-    "Molekularbiologie",
-    "Physiologie",
-    "Pflanzen",
-    "Interaktion"
+    "Nature Publishing Group"
   ],
   "topics": [
     "Research",
     "Sustainability"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Nature",
+    "Zugriff",
+    "Beschränkt",
+    "Bietet",
+    "Bietet sofort",
+    "Datenbank",
+    "Datenbank lizenzrechtlichen"
   ],
-  "summary": "Die ETH-Bibliothek bietet ab sofort den Zugriff auf externe Seite Nature Plants an....",
+  "summary": "Die neuste Zeitschrift der Nature Publishing Group veröffentlicht Forschungsbeiträge zur Molekularbiologie, Physiologie und Ökologie der Pflanzen sowie der Interaktion zwischen den Menschen und dem Pflanzenreich....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 54,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.5,
+      "avg_word_length": 6.3,
+      "long_word_percentage": 37.04
+    }
   }
 }

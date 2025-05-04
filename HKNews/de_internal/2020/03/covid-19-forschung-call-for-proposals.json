@@ -5,16 +5,12 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Das Zentrum lädt Forscher aus seinen vier Partnerinstitutionen (ETH Zürich, Universität Basel, Universitätskinderspital Basel und Schweizerisches Tropen- und Gesundheitsinstitut) ein, Projekte einzureichen, die einen Beitrag zur COVID-19-Pandemie leisten können.\n\nDie zu berücksichtigenden Forschungsbereiche sind die Diagnostik von COVID-19, die menschliche Immunantwort auf COVID-19 sowie medizinische Interventionen und das Krankheitsmanagement für COVID-19.\n\nDie Anträge müssen von mindestens einem Hauptforscher, einer Hauptforscherin, aus den Partnerinstitutionen geleitet werden. Die Projekte werden voraussichtlich eine Laufzeit von 2,5 Jahren haben und zwischen 0,5 und 2,5 Mio. CHF liegen. Einreichungsschluss ist Mittwoch, der 8. April.\n\nDetails zur Ausschreibung und zur Bewerbung finden sich unter externe Seite http://brc.ch/ftc .",
   "named_entities": [
-    "Das Zentrum",
+    "COVID",
+    "ETH Zürich",
     "Universität Basel",
     "Universitätskinderspital Basel",
     "Schweizerisches Tropen",
-    "Die Anträge",
-    "Die Projekte",
-    "Forscher",
-    "Partnerinstitutionen",
-    "Zürich",
-    "Gesundheitsinstitut"
+    "CHF"
   ],
   "topics": [
     "COVID-19",
@@ -25,21 +21,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "Campus Center",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Covid19",
+    "Basel",
+    "Partnerinstitutionen",
+    "Projekte",
+    "Anträge",
+    "Anträge müssen"
   ],
-  "summary": "",
+  "summary": "Das Zentrum lädt Forscher aus seinen vier Partnerinstitutionen (ETH Zürich, Universität Basel, Universitätskinderspital Basel und Schweizerisches Tropen- und Gesundheitsinstitut) ein, Projekte einzureichen, die einen Beitrag zur COVID-19-Pandemie leisten können....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 112,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -48,6 +49,11 @@
       "Research",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.44,
+      "avg_word_length": 6.32,
+      "long_word_percentage": 32.14
+    }
   }
 }

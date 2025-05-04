@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Zum Start: Registrieren Sie sich für Microsoft 365 / Teams: Microsoft 365 und Teams stehen allen ETH-Angehörigen als Kommunikations- und Kollaborationsplattform zur Verfügung. Allerdings: Um Teams zu nutzen, müssen Sie zuerst die sogenannte Cloud-Subscription durchgeführt haben.\n\nUm mit anderen ETH-Angehörigen zusammenzuarbeiten – z.B. mit Ihrer Projekt- oder Forschungsgruppe – erstellen Sie am besten ein eigenes Team. Das tun Sie mit der Provisioning App. Wo Sie diese App in Teams finden und wie Sie damit ein Team erstellen, erfahren Sie auf dieser Support Seite .\n\nNachdem Sie das Team erstellt haben, können Sie weitere Anpassungen vornehmen, wie z.B. ein Team-Bild einbinden oder den Namen ändern. Wählen Sie dazu die drei Punkte (weitere Optionen) und klicken Sie auf «Team bearbeiten».\n\nDie Zusammenarbeit und der Austausch mit ETH-Angehörigen auf Teams ist sehr einfach. Aber wie ist das mit Gästen – also Personen, die weder ETH-Mitarbeitende, -Studierende oder sonstige ETH-Angehörige sind?\n\nGäste können z.B. Gast-Dozenten, Studierende anderer Universitäten, Partner, Lieferanten oder Berater sein. In der Regel verfügen sie über kein E-Mail-Konto der ETH Zürich. Dennoch lässt sich mit solchen externen Personen über Teams zusammenarbeiten.\n\nWenn es dann zu einer Zusammenarbeit kommt, beachten Sie bitte noch diesen Sicherheitshinweis: Gäste, die Zugang zu einem Team der ETH bekommen, müssen aus Sicherheitsgründen die externe Seite Multifaktor-Authentifikation einrichten und dieses Element bei der Anmeldung jeweils eingeben. Mehr dazu erfahren Sie hier .\n\nWeitere Informationen und Kursangebot: Auf oder telefonisch unter +41 44 632 77 77.\n\nWer Teams noch besser kennenlernen möchte, hat im Kurs « In Teams noch nicht fit? » die Möglichkeit dazu. Durchführungsdaten: 30. März und 16. Juni 2022.\n\nKommentarregeln Intern aktuell: Wir freuen uns, wenn Sie an dieser Stelle Artikel kommentieren, Fragen stellen oder auch auf Kommentare anderer Leserinnen und Leser antworten.\n\nDie Kommentare werden vor der Veröffentlichung von der Redaktion gelesen und aufgeschaltet, sofern sie den Kommentarregeln entsprechen. Bitte beachten Sie, dass daher u.a. anonym verfasste Kommentare sowie Beiträge, die persönliche Angriffe jeglicher Art, Beleidigungen oder gezielte Provokationen beinhalten, nicht veröffentlicht werden.",
   "named_entities": [
-    "Zum Start",
+    "ETH Zürich",
     "Registrieren Sie",
     "Um Teams",
-    "Cloud-Subscription",
     "Ihrer Projekt",
     "Provisioning App",
     "Wo Sie",
     "Support Seite",
     "Nachdem Sie",
-    "Team-Bild"
+    "Wählen Sie",
+    "Seite Multifaktor-Authentifikation"
   ],
   "topics": [
     "Staff",
@@ -26,20 +26,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Teams",
+    "Team",
+    "Ethangehörigen",
+    "Kommentare",
+    "Weitere",
+    "Beachten"
   ],
-  "summary": "Zum Start: Registrieren Sie sich für Microsoft 365 / Teams: Microsoft 365 und Teams stehen allen ETH-Angehörigen als Kommunikations- und Kollaborationsplattform zur Verfügung....",
+  "summary": "Wenn es dann zu einer Zusammenarbeit kommt, beachten Sie bitte noch diesen Sicherheitshinweis: Gäste, die Zugang zu einem Team der ETH bekommen, müssen aus Sicherheitsgründen die externe Seite Multifaktor-Authentifikation einrichten und dieses Element bei der Anmeldung jeweils eingeben....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 335,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -51,6 +57,11 @@
       "Research",
       "Communications",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 10.81,
+      "avg_word_length": 5.71,
+      "long_word_percentage": 30.75
+    }
   }
 }

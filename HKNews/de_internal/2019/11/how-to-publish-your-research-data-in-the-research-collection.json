@@ -5,32 +5,34 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel.",
   "named_entities": [
-    "Die Infrastruktur",
-    "Ihrem Ziel",
-    "GewusstWie",
-    "Tools",
-    "Bibliothek",
-    "ETH"
+    "ETH",
+    "Ihrem Ziel"
   ],
   "topics": [
     "University News"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Ethbibliothek",
+    "Ethbibliothek führen",
+    "Führen",
+    "Führen ziel",
+    "Gewusstwie",
+    "Gewusstwie infrastruktur",
+    "Infrastruktur"
   ],
   "summary": "#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel.",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 14,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -38,6 +40,11 @@
     "context_tags": [
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.0,
+      "avg_word_length": 5.21,
+      "long_word_percentage": 21.43
+    }
   }
 }

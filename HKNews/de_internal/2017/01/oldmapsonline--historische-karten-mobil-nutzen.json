@@ -1,20 +1,17 @@
 {
   "language": "de",
   "title": "Beispiel für eine erfolgreich georeferenzierte Karte (Plan der Stadt Bern, ca. 1880):",
-  "date": "1900-01-50",
+  "date": "2017-01-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Beispiel für eine erfolgreich georeferenzierte Karte (Plan der Stadt Bern, ca. 1880):\n\n• externe Seite OldMapsOnline call_made\n• externe Seite Georeferencer call_made\nexterne Seite OldMapsOnline enthält nun auch über 1100 Digitalisate der ETH-Bibliothek, die meisten dieser Kartenblätter decken Städte und Regionen in der Schweiz im Zeitraum zwischen 1750 bis 1900 ab. Mittels der thematischen und topografischen Karten lassen sich Entwicklungen, Ereignisse und Gegebenheiten vergangener Jahrhunderte nachvollziehen.\n\nMit der dazu gehörigen App „Old Maps Online“ können die Karten auch auf mobilen Geräten genutzt werden. Darüber hinaus ist es möglich, die Karten über den Georeferencer präzis zu verorten und in GIS-Programmen weiter zu verarbeiten.\n\nWollen Sie bei der Georeferenzierung der Karten mithelfen? Dann klicken Sie bei einer über die Plattform gefundenen Karte der ETH-Bibliothek auf „View as Overlay“ und legen Sie los. Oder Sie beginnen mit einer externe Seite zufälligen Karte . Das Team Karten der ETH-Bibliothek freut sich, wenn Sie bei dieser Crowdsourcing-Aktivität mitmachen.",
   "named_entities": [
+    "ETH",
+    "Old Maps Online",
     "Stadt Bern",
     "Seite Georeferencer",
-    "Old Maps Online",
     "Wollen Sie",
     "Oder Sie",
-    "Das Team Karten",
-    "Crowdsourcing-Aktivität",
-    "Beispiel",
-    "Plan",
-    "OldMapsOnline"
+    "GIS"
   ],
   "topics": [
     "Infrastructure",
@@ -22,22 +19,27 @@
     "Staff"
   ],
   "keywords": [
-    "Card",
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Karten",
+    "Externe",
+    "Externe seite",
+    "Seite",
+    "Ethbibliothek",
+    "Karte",
+    "Callmade"
   ],
-  "summary": "Beispiel für eine erfolgreich georeferenzierte Karte (Plan der Stadt Bern, ca....",
+  "summary": "1880):\n\n• externe Seite OldMapsOnline call_made\n• externe Seite Georeferencer call_made\nexterne Seite OldMapsOnline enthält nun auch über 1100 Digitalisate der ETH-Bibliothek, die meisten dieser Kartenblätter decken Städte und Regionen in der Schweiz im Zeitraum zwischen 1750 bis 1900 ab....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 2,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 155,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -45,6 +47,11 @@
     "context_tags": [
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.22,
+      "avg_word_length": 5.89,
+      "long_word_percentage": 34.19
+    }
   }
 }

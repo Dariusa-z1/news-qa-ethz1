@@ -5,16 +5,12 @@
   "source": "Unbekannte Quelle",
   "main_content": "Auf dem Hönggerberg wird derzeit die «Pilot Station» des Student Project House eingerichtet. Hier wird in den nächsten drei Jahren das künftige Student Project House entwickelt, getestet und optimiert. In zwei Studierendenworkshops wird die Einrichtung der drei sogenannten «Spaces» - dem «Makespace», «Thinkspace» und «Show & Connectspace» - geplant und umgesetzt. Für letzteren sucht das Einrichtungsteam gebrauchte Möbel mit inspirierendem Charakter. Haben Sie unbenutzte Möbel im Keller stehen? Dann könnten Sie mithelfen, eine einmalige Werk- und Denkstätte für Studierende zu entwickeln. Gesucht werden Stühle, Tische, Stehlampen, Tischlampen und Sofas.\n\nSchicken Sie der Jury bis zum 14. August 2016 ein Bild von Ihrem Möbel an: . Die Möbelstücke werden bis Ende August bei Ihnen abgeholt.",
   "named_entities": [
-    "Pilot Station",
+    "Hönggerberg",
     "Student Project House",
+    "Pilot Station",
     "Haben Sie",
     "Schicken Sie",
-    "Ihrem Möbel",
-    "Die Möbelstücke",
-    "Ende August",
-    "Hönggerberg",
-    "Jahren",
-    "Studierendenworkshops"
+    "Ihrem Möbel"
   ],
   "topics": [
     "Education",
@@ -24,28 +20,38 @@
     "Staff"
   ],
   "keywords": [
-    "Student",
-    "Hönggerberg",
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus"
+    "Möbel",
+    "August",
+    "Drei",
+    "House",
+    "Project",
+    "Project house",
+    "Student"
   ],
-  "summary": "Auf dem Hönggerberg wird derzeit die «Pilot Station» des Student Project House eingerichtet....",
+  "summary": "In zwei Studierendenworkshops wird die Einrichtung der drei sogenannten «Spaces» - dem «Makespace», «Thinkspace» und «Show & Connectspace» - geplant und umgesetzt....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 110,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students"
     ],
     "context_tags": [
       "Infrastructure",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 11.0,
+      "avg_word_length": 5.92,
+      "long_word_percentage": 35.45
+    }
   }
 }

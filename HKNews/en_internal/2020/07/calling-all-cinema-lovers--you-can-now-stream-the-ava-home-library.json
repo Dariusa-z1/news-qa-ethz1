@@ -5,16 +5,14 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Have you ever dreamed of being programme director, audience member and jury member at the same time? Film aficionados now have something to look forward to during a time when they have been unable to watch films at the cinema – you can put on your very own film festival and make that dream come true at home! In cooperation with AVA, ETH Zurich is now offering a huge selection of ambitious cinema. The AVA streaming service specialises in European and international art-house films. In order to provide cinema fans with enough material to keep them going during the coronavirus crisis, the AVA Home Library is offering users the chance to stream a selection of around 200 films from the Documentary, Feature Film and Short Film categories until the end of the year. There are also a number of exclusive film collections to discover, including the Berlinale Collection, the Cannes Collection, Focus: LGBTQ and Focus: Africa. A collection of French-language films is also available. The AVA Home Library can be accessed via the ETH Zurich network or at the ETH Library until 28 December 2020.\n\n#KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start.",
   "named_entities": [
+    "AVA",
+    "ETH Zurich",
     "Home Library",
     "Feature Film",
     "Short Film",
     "Berlinale Collection",
     "Cannes Collection",
-    "Have",
-    "Zurich",
-    "European",
-    "Documentary",
-    "Focus"
+    "LGBTQ"
   ],
   "topics": [
     "International",
@@ -23,22 +21,27 @@
     "Staff"
   ],
   "keywords": [
-    "ETH Zurich",
     "Film",
     "Films",
     "Library",
-    "Have",
     "Cinema",
-    "Home"
+    "Collection",
+    "Home",
+    "Focus"
   ],
-  "summary": "Have you ever dreamed of being programme director, audience member and jury member at the same time?...",
+  "summary": "In order to provide cinema fans with enough material to keep them going during the coronavirus crisis, the AVA Home Library is offering users the chance to stream a selection of around 200 films from the Documentary, Feature Film and Short Film categories until the end of the year....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 206,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -47,6 +50,11 @@
       "COVID-19",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.89,
+      "avg_word_length": 4.74,
+      "long_word_percentage": 22.33
+    }
   }
 }

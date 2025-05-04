@@ -7,40 +7,45 @@
   "named_entities": [
     "Recherchieren Sie Bestseller",
     "Fassaden Atlas",
-    "Der Zugriff",
-    "Seite Detail",
-    "Beton",
-    "Wissensportal",
-    "Datenbank",
-    "Gründen",
-    "Domain"
+    "Seite Detail"
   ],
   "topics": [
     "Campus Life",
     "Sustainability"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Atlas",
+    "Atlas wissensportal",
+    "Beschränkt",
+    "Beschränkt externe",
+    "Bestseller",
+    "Bestseller beton",
+    "Beton"
   ],
-  "summary": "Recherchieren Sie Bestseller wie den Beton oder den Fassaden Atlas im Wissensportal. Der Zugriff auf diese Datenbank ist aus lizenzrechtlichen Gründen auf die Domain ethz.ch beschränkt....",
+  "summary": "Recherchieren Sie Bestseller wie den Beton oder den Fassaden Atlas im Wissensportal.\n\nDer Zugriff auf diese Datenbank ist aus lizenzrechtlichen Gründen auf die Domain ethz.ch beschränkt.\n\nexterne Seite Detail",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 30,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 7.5,
+      "avg_word_length": 5.83,
+      "long_word_percentage": 33.33
+    }
   }
 }

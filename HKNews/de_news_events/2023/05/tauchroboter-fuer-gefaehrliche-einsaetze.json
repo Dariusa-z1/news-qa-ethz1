@@ -5,16 +5,9 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Der Tethys-Roboter ist ein autonomes Unterwasserfahrzeug, das für den Einsatz in schwierigen Umgebungen wie trüben Gewässern und Flüssen entwickelt wurde. Er kommt vor allem dann zum Einsatz, wenn herkömmliche Such- und Rettungstechniken zu schwierig oder zu riskant sind. Ausgestattet mit akustischen Sensoren und Kameras kann der Roboter grössere Gebiete unter Wasser autonom absuchen und so ein Objekt oder eine Person schnell lokalisieren. Dadurch können gefährliche Einsätze für Taucher und Rettungskräfte vermieden werden.\n\nSobald der Roboter sein Ziel geortet hat, übernimmt eine Person – ein sogenannter Operator – die Navigation und bringt den künstlichen Taucher an sein Ziel. Tethys kann bis zu 40 kg Gewicht zurück an die Oberfläche tragen. So können sich Einsatzkräfte auf andere wichtige Aufgaben konzentrieren und sicherstellen, dass ein Such- und Rettungseinsatz so effizient und sicher wie möglich verläuft.\n\nDas ETH-Spin-off Tethys wurde von den Pioneer Fellows Jonas Wüst und Pragash Sivananthaguru gegründet. Was ursprünglich als Studierendenprojekt an der ETH Zürich begann, ist heute ein gefragtes Jungunternehmen. So wird der Unterwasserroboter bereits von lokalen Behörden für die Unterwassersuche und -Rettung eingesetzt.",
   "named_entities": [
-    "Der Tethys-Roboter",
+    "ETH Zürich",
     "Pioneer Fellows Jonas Wüst",
-    "Pragash Sivananthaguru",
-    "Unterwasserfahrzeug",
-    "Einsatz",
-    "Umgebungen",
-    "Gewässern",
-    "Flüssen",
-    "Such",
-    "Rettungstechniken"
+    "Pragash Sivananthaguru"
   ],
   "topics": [
     "Research",
@@ -24,26 +17,37 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Einsatz",
+    "Person",
+    "Roboter",
+    "Such",
+    "Taucher",
+    "Tethys"
   ],
-  "summary": "Der Tethys-Roboter ist ein autonomes Unterwasserfahrzeug, das für den Einsatz in schwierigen Umgebungen wie trüben Gewässern und Flüssen entwickelt wurde....",
+  "summary": "Ausgestattet mit akustischen Sensoren und Kameras kann der Roboter grössere Gebiete unter Wasser autonom absuchen und so ein Objekt oder eine Person schnell lokalisieren....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 175,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students"
     ],
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.5,
+      "avg_word_length": 5.99,
+      "long_word_percentage": 37.71
+    }
   }
 }

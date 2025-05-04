@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "... Sie so sofortigen Zugang zur «The New York Times»-Online-Ausgabe erhalten. Das geht ganz einfach:\n\n• Gehen Sie auf externe Seite nytimes.com/passes call_made\n• Klicken Sie auf «Create Account»\n• Geben Sie Ihre ETH E-Mail-Adresse ein\n• Setzen Sie ein Passwort\n• Validieren Sie Ihr Konto über die E-Mail, die Sie erhalten haben\n• Ihr Zugriff auf «The New York Times» steht für Sie bereit\nSie recherchieren für eine Hausarbeit? Erstellen Kursmaterial mit aktuellen Artikeln aus der Tagespresse? Sie sind neugierig und interessiert und möchten die Welt gern aus unterschiedlichen Perspektiven und anhand vielfältiger Standpunkte kennen und verstehen lernen? Dann ...\n\n... lesen und recherchieren Sie online: Mit dem freien Zugang zur elektronischen Ausgabe «The New York Times» stehen Ihnen als Angehörige und Angehöriger der ETH Zürich ab sofort alle tagesaktuellen und archivierten Artikel einer der wichtigsten amerikanischen Tageszeitungen zur Verfügung.\n\nBleiben Sie topinformiert, setzen Sie Ihrem Wissenshorizont keine Grenzen und ...\n\nViel Spass beim Entdecken, Erfahren und Dazulernen.\n\nGut zu wissen: Um auf «The New York Times» zugreifen zu können, müssen Sie nicht im Netzwerk der ETH Zürich eingeloggt sein. #MehrWissen – Die aufbereiteten Inhalte der ETH-Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter.",
   "named_entities": [
-    "The New York Times",
-    "Online-Ausgabe",
+    "ETH Zürich",
+    "Geben Sie Ihre",
+    "Validieren Sie Ihr Konto",
+    "Sie Ihrem Wissenshorizont",
     "Gehen Sie",
     "Klicken Sie",
     "Create Account",
-    "Geben Sie Ihre",
-    "Mail-Adresse",
     "Setzen Sie",
-    "Validieren Sie Ihr Konto",
-    "Ihr Zugriff"
+    "Ihr Zugriff",
+    "Erstellen Kursmaterial"
   ],
   "topics": [
     "Communication",
@@ -24,26 +24,37 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Times",
+    "York",
+    "York times",
+    "Erhalten",
+    "Recherchieren",
+    "Setzen"
   ],
-  "summary": "... Sie so sofortigen Zugang zur «The New York Times»-Online-Ausgabe erhalten....",
+  "summary": "Das geht ganz einfach:\n\n• Gehen Sie auf externe Seite nytimes.com/passes call_made\n• Klicken Sie auf «Create Account»\n• Geben Sie Ihre ETH E-Mail-Adresse ein\n• Setzen Sie ein Passwort\n• Validieren Sie Ihr Konto über die E-Mail, die Sie erhalten haben\n• Ihr Zugriff auf «The New York Times» steht für Sie bereit\nSie recherchieren für eine Hausarbeit?...",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 6,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 194,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.64,
+      "avg_word_length": 5.57,
+      "long_word_percentage": 29.38
+    }
   }
 }

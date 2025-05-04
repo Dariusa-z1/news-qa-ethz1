@@ -5,36 +5,35 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Die Research Collection ist die Publikationsplattform der ETH Zürich. Angehörige der Hochschule können darin wissenschaftliche Volltexte Open Access publizieren sowie Forschungsdaten archivieren oder öffentlich zugänglich machen.\n\nAntworten auf weitere Fragen liefert Ihnen das Manual zur Research Collection .",
   "named_entities": [
-    "Die Research Collection",
+    "ETH Zürich",
     "Volltexte Open Access",
-    "Research Collection",
-    "Publikationsplattform",
-    "Zürich",
-    "Hochschule",
-    "Forschungsdaten",
-    "Fragen",
-    "Ihnen",
-    "Manual"
+    "Research Collection"
   ],
   "topics": [
     "Research"
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
+    "Collection",
     "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Research collection",
+    "Access",
+    "Access publizieren",
+    "Angehörige"
   ],
-  "summary": "Die Research Collection ist die Publikationsplattform der ETH Zürich....",
+  "summary": "Die Research Collection ist die Publikationsplattform der ETH Zürich. Angehörige der Hochschule können darin wissenschaftliche Volltexte Open Access publizieren sowie Forschungsdaten archivieren oder öffentlich zugänglich machen....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 37,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -42,6 +41,11 @@
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.33,
+      "avg_word_length": 7.27,
+      "long_word_percentage": 45.95
+    }
   }
 }

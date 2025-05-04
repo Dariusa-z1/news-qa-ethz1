@@ -5,10 +5,9 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "The ETH-Bibliothek now offers access to Nature Plants . The newest journal of the Nature Publishing Group publishes primary research in the molecular biology, physiology and ecology of plants as well as in the relationship between humanity and the plant kingdom.\n\nAccess to this database is restricted to the ethz.ch domain due to licensing reasons.",
   "named_entities": [
-    "Nature Plants",
+    "ETH",
     "Nature Publishing Group",
-    "Bibliothek",
-    "ETH"
+    "Nature Plants"
   ],
   "topics": [
     "Research"
@@ -17,25 +16,35 @@
     "Access",
     "Nature",
     "Plants",
-    "Ethbibliothek",
-    "Offers",
-    "Newest",
-    "Journal"
+    "Access database",
+    "Access nature",
+    "Biology",
+    "Biology physiology"
   ],
-  "summary": "The ETH-Bibliothek now offers access to Nature Plants ....",
+  "summary": "The newest journal of the Nature Publishing Group publishes primary research in the molecular biology, physiology and ecology of plants as well as in the relationship between humanity and the plant kingdom....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 56,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.0,
+      "avg_word_length": 5.14,
+      "long_word_percentage": 32.14
+    }
   }
 }

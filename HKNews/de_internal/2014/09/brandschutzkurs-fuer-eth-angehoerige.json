@@ -5,16 +5,10 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Jeder Kursteilnehmer hat Gelegenheit, unter fachkundiger Anleitung ein Feuer mit einem Handfeuerlöscher zu bekämpfen.\n\nDer Kurs kann von allen interessierten ETH-Angehörigen kostenlos besucht werden. Für Bachelor-Studierende aus bestimmten Studiengängen ist der Kursbesuch im ersten Semester obligatorisch. Diese werden per E-Mail darüber informiert.\n\nDie etwas mehr als eine Stunde dauernden Kurse beginnen am 22. September und werden bis und mit 17. Oktober 2014 durchgeführt. Die Teilnehmenden können mit den öffentlichen Verkehrsmitteln bis zur Haltestelle «ETH Hönggerberg» fahren. Das Kursgelände ist von dort aus zu Fuss in 10 Minuten erreichbar. Direkt beim Kursgelände sind keine Parkplätze vorhanden.\n\nDer Kurs findet im Freien und bei jeder Witterung statt. Deshalb sind robuste Schuhe und wetterfeste Kleidung unbedingt erforderlich.\n\nInteressierte melden sich bitte elektronisch an.\n\nFür weitere Auskünfte steht Ihnen Frau E. Stamoulopoulos unter der Nummer 044 632 80 02 zur Verfügung.",
   "named_entities": [
+    "ETH",
+    "Hönggerberg",
     "Jeder Kursteilnehmer",
-    "Der Kurs",
-    "Für Bachelor-Studierende",
-    "Die Teilnehmenden",
-    "Das Kursgelände",
-    "Ihnen Frau",
-    "Gelegenheit",
-    "Anleitung",
-    "Feuer",
-    "Handfeuerlöscher"
+    "Ihnen Frau"
   ],
   "topics": [
     "Education",
@@ -25,21 +19,27 @@
     "University Administration"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Kurs",
+    "Kursgelände",
+    "Anleitung",
+    "Anleitung feuer",
+    "Auskünfte",
+    "Auskünfte steht",
+    "Bachelorstudierende"
   ],
-  "summary": "Jeder Kursteilnehmer hat Gelegenheit, unter fachkundiger Anleitung ein Feuer mit einem Handfeuerlöscher zu bekämpfen. Der Kurs kann von allen interessierten ETH-Angehörigen kostenlos besucht werden....",
+  "summary": "Jeder Kursteilnehmer hat Gelegenheit, unter fachkundiger Anleitung ein Feuer mit einem Handfeuerlöscher zu bekämpfen. Für Bachelor-Studierende aus bestimmten Studiengängen ist der Kursbesuch im ersten Semester obligatorisch....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 140,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "General Public"
@@ -49,6 +49,11 @@
       "Research",
       "Weather",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 9.33,
+      "avg_word_length": 5.98,
+      "long_word_percentage": 34.29
+    }
   }
 }

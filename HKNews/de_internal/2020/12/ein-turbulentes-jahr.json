@@ -5,9 +5,9 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Main article: Die Fotos entstanden vor der generellen Maskenpflicht auf den Arealen der ETH Zürich.\n\nElise Nardin, Mitarbeiterin Stab Präsident, International Affairs: «In diesem Jahr kann man nicht wirklich an Ferien denken. Darum ist es mir wichtig, mich über die kleinen Dinge zu freuen: gute Gespräche mit Freunden, die Sonne oder ein tolles Buch. Ich wünsche mir, meine Schwester in Paris bald wieder besuchen zu können, ohne in die Quarantäne gehen zu müssen. Schliesslich möchte ich gesund bleiben.»\n\nJungwon Lim, Masterstudentin Physik: «Ich komme aus Korea und war nicht mehr zu Hause, seit ich vor anderthalb Jahren in die Schweiz kam. Das ist eine ziemlich lange Zeit. Ich freue mich sehr, meine Familie wiederzusehen, und hoffe, sie bald besuchen zu können.»\n\nChristoph Grab, Professor für Teilchen- und Astrophysik, D-PHYS: «Technisch funktionierte die Umstellung auf Fernunterricht problemlos, doch für mich lebt die Ausbildung von der persönlichen Interaktion. Es fehlt mir, die Reaktionen der Studierenden zu sehen, und es ist schwierig, den Enthusiasmus für den Lehrinhalt online zu vermitteln. Deshalb hoffe ich, dass bald wieder mehr Interaktion möglich ist.»\n\nSylvain Petitgirard, Oberassistent D-ERDW: «Ich habe dieses Jahr die Vorteile des Homeoffice schätzen gelernt. Besonders während des Lockdowns konnte ich mich besser auf meine Arbeit konzentrieren und hatte mehr Zeit für Reflexion. Für nächstes Jahr wünsche ich mir, dass die Pandemie vorbei ist. Ich wollte dieses Jahr heiraten, aber das mussten wir absagen. Ich hoffe, es klappt nächsten Sommer.»\n\nMeike Akveld, Dozentin Mathematik, D-MATH: «Es ist schön zu sehen, dass alle besondere Anstrengungen unternehmen, um mit dieser schwierigen Situation umgehen zu können. Die Studierenden bringen mehr Motivation auf und die Hilfsassistentinnen und -assistenten leisten zusätzliche Arbeit. Alle ziehen an einem Strang, trotz der negativen Umstände. Das ist super.»\n\nDieser Beitrag stammt aus der aktuellen Ausgabe des ETH-​​Magazins « life ».",
   "named_entities": [
-    "Die Fotos",
-    "Elise Nardin",
+    "ETH Zürich",
     "Mitarbeiterin Stab Präsident",
+    "Elise Nardin",
     "International Affairs",
     "Jungwon Lim",
     "Masterstudentin Physik",
@@ -26,20 +26,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Jahr",
+    "Mehr",
+    "Bald",
+    "Hoffe",
+    "Arbeit",
+    "Bald besuchen"
   ],
-  "summary": "Main article: Die Fotos entstanden vor der generellen Maskenpflicht auf den Arealen der ETH Zürich....",
+  "summary": "Ich freue mich sehr, meine Familie wiederzusehen, und hoffe, sie bald besuchen zu können.»\n\nChristoph Grab, Professor für Teilchen- und Astrophysik, D-PHYS: «Technisch funktionierte die Umstellung auf Fernunterricht problemlos, doch für mich lebt die Ausbildung von der persönlichen Interaktion....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 299,
     "readability_score": "moderately complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -50,6 +56,11 @@
       "Research",
       "Education",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.24,
+      "avg_word_length": 5.49,
+      "long_word_percentage": 29.77
+    }
   }
 }

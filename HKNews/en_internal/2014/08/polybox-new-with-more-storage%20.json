@@ -5,14 +5,11 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "This service is provided by the ETH Zurich IT Services to all ETH members free of charge. The advantage of polybox over other services like Dropbox or Google Drive: polybox does not outsource any data, rather it stores them on the ETH campus. With this in-house solution, controllability is guaranteed, whereas the IT Services cannot guarantee the security of externally stored data. In addition, mobile clients (iPhone and Android) and sync clients are available.\n\nAccording to regulations, outsourcing sensitive ETH data is not permitted. This refers to research data that are subject to contractual confidentiality with third parties or important business data. By contrast, the use of cloud or social media services in research, whether for collaboration with researchers from other universities or for communicating with students does not pose a problem as long as sensitive data of ETH Zurich is not affected and no rights of third parties have been violated.\n\nMore information about polybox.\n\nMore information on BOT (Acceptable Use Policy for Telematics at the ETH Zurich) and cloud computing.",
   "named_entities": [
-    "Google Drive",
+    "ETH Zurich",
     "Acceptable Use Policy",
-    "Zurich",
-    "Services",
-    "Dropbox",
-    "Android",
-    "Telematics",
-    "ETH Zurich"
+    "IT",
+    "Google Drive",
+    "BOT"
   ],
   "topics": [
     "Research",
@@ -22,22 +19,27 @@
     "Infrastructure"
   ],
   "keywords": [
-    "ETH Zurich",
     "Data",
     "Services",
-    "With",
-    "This",
+    "Polybox",
     "Zurich",
-    "Polybox"
+    "Clients",
+    "Cloud",
+    "Information"
   ],
-  "summary": "This service is provided by the ETH Zurich IT Services to all ETH members free of charge....",
+  "summary": "By contrast, the use of cloud or social media services in research, whether for collaboration with researchers from other universities or for communicating with students does not pose a problem as long as sensitive data of ETH Zurich is not affected and no rights of third parties have been violated....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 173,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -47,6 +49,11 @@
       "Research",
       "Administrative",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.22,
+      "avg_word_length": 5.23,
+      "long_word_percentage": 31.79
+    }
   }
 }

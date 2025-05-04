@@ -5,16 +5,15 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Die neue Einkaufsmöglichkeit der Firma Valora ist ein Containergebäude und wurde im Frühling 2019 lanciert. Sie steht nun allen ETH-Angehörigen sowie Besucherinnen und Besuchern des Campus vom 17. September bis zum 10. November zur Verfügung. Voraussetzung ist eine persönliche Identifizierung via App und die Hinterlegung eines Zahlungsmittels. Tagsüber ist Personal vor Ort, das die Kundinnen und Kunden beim Einkaufsprozess unterstützt. In der Nacht und am Wochenende kommt der Betrieb ohne Personal aus.\n\nDas Sortiment umfasst rund 1’000 Artikel: Lebensmittel, Essen für unterwegs und das Wichtigste für den Haushalt. Angeliefert wird zweimal täglich. «Ich freue mich, dass wir den ETH-Angehörigen probeweise nun durchgehend eine Einkaufsmöglichkeit anbieten können», sagt Marcel Zurbuchen, der Verantwortliche der ETH für die Partnerbetriebe. Schon vor gut zehn Jahren habe man an der ETH das Ziel formuliert, dass man sich auch ausserhalb von normalen Ladenöffnungszeiten auf dem Campus verpflegen kann. «Heute studieren und arbeiten täglich rund 12'000 ETH-Angehörige auf dem Hönggerberg, und 900 Studierende wohnen hier. Insbesondere auch sie dürften an diesem Angebot Interesse zeigen», so Marcel Zurbuchen.\n\nDas aktuelle Projekt profitiert von einer 2016 gestarteten Zusammenarbeit zwischen der ETH-Forschenden und Valora zum Thema kassenloses Einkaufen. Zusammen mit dem Forschungsnetzwerk Auto-ID Labs von ETH und Universität St. Gallen, das sich Lösungen im Bereich Internet of Things widmet, entwickelte Valora eine erste App, mit der Produkte selbständig gescannt und mit einer hinterlegten Kreditkarte bezahlt werden konnten.",
   "named_entities": [
-    "Firma Valora",
-    "Das Sortiment",
+    "ETH",
+    "Hönggerberg",
     "Marcel Zurbuchen",
+    "Firma Valora",
     "Angebot Interesse",
     "Forschungsnetzwerk Auto",
     "Universität St",
     "Bereich Internet",
-    "Einkaufsmöglichkeit",
-    "Containergebäude",
-    "Frühling"
+    "ID"
   ],
   "topics": [
     "Infrastructure",
@@ -25,22 +24,27 @@
     "Education"
   ],
   "keywords": [
+    "Valora",
     "Campus",
-    "Personnel",
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Education"
+    "Einkaufsmöglichkeit",
+    "Ethangehörigen",
+    "Marcel",
+    "Marcel zurbuchen",
+    "Personal"
   ],
-  "summary": "Die neue Einkaufsmöglichkeit der Firma Valora ist ein Containergebäude und wurde im Frühling 2019 lanciert. Sie steht nun allen ETH-Angehörigen sowie Besucherinnen und Besuchern des Campus vom 17....",
+  "summary": "Zusammen mit dem Forschungsnetzwerk Auto-ID Labs von ETH und Universität St. Gallen, das sich Lösungen im Bereich Internet of Things widmet, entwickelte Valora eine erste App, mit der Produkte selbständig gescannt und mit einer hinterlegten Kreditkarte bezahlt werden konnten....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 234,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -51,6 +55,11 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.62,
+      "avg_word_length": 5.87,
+      "long_word_percentage": 34.19
+    }
   }
 }

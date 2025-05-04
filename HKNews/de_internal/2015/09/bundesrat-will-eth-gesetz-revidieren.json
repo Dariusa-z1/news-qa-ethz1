@@ -5,16 +5,9 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Der Bundesrat hat am 11. September 2015 die Vernehmlassung zu einer Teilrevision des Bundesgesetzes über die Eidgenössischen Technischen Hochschulen eröffnet. Die Gesetzesanpassungen betreffen insbesondere die Themen Corporate-Governance, Studiengebühren sowie potenzielle Zulassungsbeschränkungen und die wissenschaftliche Integrität.\n\nMit der vorliegenden Teilrevision sollen die gesetzlichen Grundlagen für die Steuerung des ETH-Bereichs mittels strategischer Ziele geschaffen werden.\n\nAngesichts der markanten Zunahme ausländischer Studierender unter den Studienanfängerinnen und -anfängern soll die bereits bestehende Möglichkeit der Zulassungsbeschränkung neu auf das erste Semester der Bachelorstudiengänge ausgeweitet werden. Zudem soll die Möglichkeit geschaffen werden, die Studiengebühren für ausländische Studierende maximal auf das Dreifache der Gebühren für inländische Studierende zu erhöhen. Die Kompetenz für die Festlegung der Studiengebühren soll innerhalb dieser Grenzen weiterhin beim ETH-Rat liegen.\n\nZudem soll die Grundlage geschaffen werden, um Verstösse gegen die wissenschaftliche Integrität und gute wissenschaftliche Praxis zu verfolgen und zu ahnden. Angepasst werden sollen auch die Regeln für den Datenaustausch mit in- und ausländischen Organen von Hochschulen sowie mit Forschungsförderungs- und Forschungsinstitutionen.\n\nDie Vernehmlassung dauert bis zum 11. November 2015.",
   "named_entities": [
-    "Der Bundesrat",
+    "ETH",
     "Eidgenössischen Technischen Hochschulen",
-    "Die Gesetzesanpassungen",
-    "Themen Corporate-Governance",
-    "Die Kompetenz",
-    "Die Vernehmlassung",
-    "Teilrevision",
-    "Bundesgesetzes",
-    "Studiengebühren",
-    "Zulassungsbeschränkungen"
+    "Themen Corporate-Governance"
   ],
   "topics": [
     "Research",
@@ -22,22 +15,27 @@
     "International"
   ],
   "keywords": [
-    "Students",
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Geschaffen",
+    "Studiengebühren",
+    "Wissenschaftliche",
+    "Hochschulen",
+    "Integrität",
+    "Möglichkeit",
+    "Sollen"
   ],
-  "summary": "Der Bundesrat hat am 11. September 2015 die Vernehmlassung zu einer Teilrevision des Bundesgesetzes über die Eidgenössischen Technischen Hochschulen eröffnet....",
+  "summary": "Zudem soll die Möglichkeit geschaffen werden, die Studiengebühren für ausländische Studierende maximal auf das Dreifache der Gebühren für inländische Studierende zu erhöhen....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 170,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -45,6 +43,11 @@
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.45,
+      "avg_word_length": 7.16,
+      "long_word_percentage": 44.12
+    }
   }
 }

@@ -5,16 +5,16 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Das Archiv umfasst sämtliche Publikationen seit der Gründung der Society 1916 bis zum Jahr 2015:\n\n• externe Seite Advances in Optics and Photonics (2009–2015) call_made\n• externe Seite Applied Optics(1962–2015) call_made\n• externe Seite Journal of the Optical Society of America(1917–1983) call_made\n• externe Seite Journal of the Optical Society of America A(1984–2015) call_made\n• externe Seite Journal of the Optical Society of America B(1984–2015) call_made\n• externe Seite Optics and Photonics News(1990–2015) call_made\n• externe Seite Optics Express(1997–2015) call_made\n• externe Seite Optics Letters(1977–2015) call_made\n• externe Seite Optics News(1975–1989) call_made\n• externe Seite OSA Conference Proceedings(1979–2015) call_made\nUnter den Forschungsartikeln aus den Bereichen Optik und Photonik sind auch historisch interessante Dokumente zu finden, so der Bericht anlässlich des Treffens der Society 1947, an dem der Physiker Edwin Herbert Land als \"most exciting part of the program\" externe Seite die erste Polaroid-Kamera vorstellt .\n\nDer Zugriff ist im Netzwerk der ETH Zürich oder in den Räumen der ETH-Bibliothek möglich.",
   "named_entities": [
-    "Das Archiv",
-    "Seite Advances",
-    "Seite Applied Optics",
+    "ETH",
     "Seite Journal",
     "Optical Society",
-    "Seite Optics",
-    "Photonics News",
+    "Seite Applied Optics",
     "Seite Optics Express",
     "Seite Optics Letters",
-    "Seite Optics News"
+    "Seite Optics News",
+    "Physiker Edwin Herbert Land",
+    "Seite Advances",
+    "Photonics News"
   ],
   "topics": [
     "Communication",
@@ -23,22 +23,27 @@
     "Sustainability"
   ],
   "keywords": [
+    "ETH Zurich",
     "Externe",
+    "Externe seite",
     "Seite",
     "Callmade",
-    "Society",
-    "Optics",
-    "Journal",
-    "Optical"
+    "Callmade externe",
+    "2015"
   ],
-  "summary": "",
+  "summary": "Das Archiv umfasst sämtliche Publikationen seit der Gründung der Society 1916 bis zum Jahr 2015:\n\n• externe Seite Advances in Optics and Photonics (2009–2015) call_made\n• externe Seite Applied Optics(1962–2015) call_made\n• externe Seite Journal of the Optical Society of America(1917–1983) call_made\n• externe Seite Journal of the Optical Society of America A(1984–2015) call_made\n• externe Seite Journal of the Optical Society of America B(1984–2015) call_made\n• externe Seite Optics and Photonics News(1990–2015) call_made\n• externe Seite Optics Express(1997–2015) call_made\n• externe Seite Optics Letters(1977–2015) call_made\n• externe Seite Optics News(1975–1989) call_made\n• externe Seite OSA Conference Proceedings(1979–2015) call_made\nUnter den Forschungsartikeln aus den Bereichen Optik und Photonik sind auch historisch interessante Dokumente zu finden, so der Bericht anlässlich des Treffens der Society 1947, an dem der Physiker Edwin Herbert Land als \"most exciting part of the program\" externe Seite die erste Polaroid-Kamera vorstellt ....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 10,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 170,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -47,6 +52,11 @@
       "Research",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 85.0,
+      "avg_word_length": 5.48,
+      "long_word_percentage": 38.82
+    }
   }
 }

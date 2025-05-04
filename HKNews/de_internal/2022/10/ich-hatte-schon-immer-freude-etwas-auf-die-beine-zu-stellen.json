@@ -5,15 +5,15 @@
   "source": "Unbekannte Quelle",
   "main_content": "• Emir İşman (Präsident)\n• Léa Le Bars (Vize-Präsidentin und Ressort Hochschulpolitik)\n• Sina Keller (Quästorin)\n• Jasper Boultwood (Ressort Hochschulpolitik)\n• Oliver Klaus (Ressort Kommunikation)\n• Jannik Kochert (Ressort Hochschulpolitik und Kommunikation)\n• Tristan Lovšin Barle (Ressort Projekte)\n• Viviana Preianò (Ressort Projekte)\n• Anna-Siri Rietmann (Ressort Internal Affairs)\n• Jakob Storp (Ressort Internal Affairs)\n• Linus Ziegler (Ressort Infrastruktur)\n• Alexander Beck (Geschäftsführender Sekretär)",
   "named_entities": [
-    "Le Bars",
-    "Vize-Präsidentin",
     "Ressort Hochschulpolitik",
+    "Ressort Internal Affairs",
+    "Ressort Projekte",
+    "Le Bars",
     "Sina Keller",
     "Jasper Boultwood",
     "Oliver Klaus",
     "Ressort Kommunikation",
     "Jannik Kochert",
-    "Ressort Projekte",
     "Anna-Siri Rietmann"
   ],
   "topics": [
@@ -22,22 +22,27 @@
     "Research"
   ],
   "keywords": [
-    "Communication",
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Ressort",
+    "Hochschulpolitik",
+    "Ressort hochschulpolitik",
+    "Affairs",
+    "Internal",
+    "Internal affairs",
+    "Kommunikation"
   ],
-  "summary": "",
+  "summary": "• Emir İşman (Präsident)\n• Léa Le Bars (Vize-Präsidentin und Ressort Hochschulpolitik)\n• Sina Keller (Quästorin)\n• Jasper Boultwood (Ressort Hochschulpolitik)\n• Oliver Klaus (Ressort Kommunikation)\n• Jannik Kochert (Ressort Hochschulpolitik und Kommunikation)\n• Tristan Lovšin Barle (Ressort Projekte)\n• Viviana Preianò (Ressort Projekte)\n• Anna-Siri Rietmann (Ressort Internal Affairs)\n• Jakob Storp (Ressort Internal Affairs)\n• Linus Ziegler (Ressort Infrastruktur)\n• Alexander Beck (Geschäftsführender Sekretär)",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 12,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 56,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -45,6 +50,11 @@
     "context_tags": [
       "Infrastructure",
       "Communications"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 56.0,
+      "avg_word_length": 7.34,
+      "long_word_percentage": 60.71
+    }
   }
 }

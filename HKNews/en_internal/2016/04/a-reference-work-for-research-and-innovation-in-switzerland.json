@@ -5,16 +5,12 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Johann N. Schneider-Ammann. (Photo: Alessandro Della Bella)\n\nAt roughly 230 pages, “Research and Innovation in Switzerland 2016” is a comprehensive report published by the State Secretariat for Education, Research and Innovation (SERI), and serves as a reference work in the discussions around research and innovation in Switzerland. However, as SERI explains in its press release , the report is not intended to suggest controls for the Swiss research and innovation system.\n\nThe study reveals the Swiss research and innovation system to be highly competitive, both on a national and international level. The overall quality of working conditions in Switzerland, the excellence of its workforce along the entire supply chain, and the variety of local scientific networks were highlighted as particular assets.\n\nHowever, according to SERI the research and innovation environment is constantly changing, and the preservation of an international outlook is vital for Switzerland's research and innovation sector. Emphasis should also be placed on attracting and retaining skilled workers.\n\nThe report goes on to suggest that the structure and organisation of Swiss research and innovation are both flexible and effective. The high standards at ETH Zurich and ETH Lausanne are mentioned several times as being particularly valuable location factors for research and innovation.\n\nThe report names Google, IBM Research – Zurich and Disney Research Zurich as examples of ETH’s long-standing and successful collaborations in the field of science and technology.",
   "named_entities": [
-    "Schneider-Ammann",
+    "ETH Zurich",
+    "SERI",
     "Alessandro Della Bella",
-    "State Secretariat",
     "Disney Research Zurich",
-    "Johann",
-    "Photo",
-    "Innovation",
-    "Switzerland",
-    "Education",
-    "SERI"
+    "State Secretariat",
+    "IBM"
   ],
   "topics": [
     "Research",
@@ -25,22 +21,27 @@
     "Education"
   ],
   "keywords": [
-    "ETH Zurich",
     "Research",
     "Innovation",
+    "Research innovation",
     "Report",
-    "Switzerland",
     "Seri",
-    "Swiss"
+    "Swiss",
+    "Swiss research"
   ],
-  "summary": "Johann N. Schneider-Ammann....",
+  "summary": "(Photo: Alessandro Della Bella)\n\nAt roughly 230 pages, “Research and Innovation in Switzerland 2016” is a comprehensive report published by the State Secretariat for Education, Research and Innovation (SERI), and serves as a reference work in the discussions around research and innovation in Switzerland....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 232,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -49,6 +50,11 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.09,
+      "avg_word_length": 5.54,
+      "long_word_percentage": 37.07
+    }
   }
 }

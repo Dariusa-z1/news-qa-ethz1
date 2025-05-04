@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "In einem Update wurde e-rara um eine Reihe neuer Funktionalitäten und Navigationsmöglichkeiten erweitert. Dazu zählen die Miniaturansicht, der des Volltextes als Alto XML und die Möglichkeit, bis zu 100 Treffer pro Seite anzeigen zu lassen. Im Jahr 2020 wurde e-rara komplett neu designt. Weitere seitdem gesammelte und umgesetzte Verbesserungsvorschläge sowie neue technische Möglichkeiten: Der Zoom erlaubt jetzt zusätzliche Vergrösserungsstufen. Die Navigationsleiste in der Seitenansicht enthält einen Button, um direkt ans Ende des Drucks zu springen. Eine Bildbearbeitung ist neu auch in der Mobilversion möglich – und das ist noch längst nicht alles. Schauen Sie selbst und erfahren Sie, wie Sie externe Seite e-rara für Ihre Forschung nutzen können:\n\ne-rara ist die Plattform für digitalisierte Drucke aus Schweizer Bibliotheken und verfügt derzeit über 98 815 Titel aus 26 Bibliotheken. Alle Inhalte können als PDF oder JPEG heruntergeladen werden und sind mit dem Public Domain Mark gekennzeichnet.\n\n#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel.\n\nMehr als nur Daten – Vom Know-how profitieren",
   "named_entities": [
-    "Im Jahr",
-    "Der Zoom",
-    "Die Navigationsleiste",
-    "Eine Bildbearbeitung",
+    "ETH",
+    "Public Domain Mark",
     "Schauen Sie",
     "Ihre Forschung",
     "Schweizer Bibliotheken",
     "Alle Inhalte",
-    "Public Domain Mark",
-    "Die Infrastruktur"
+    "Ihrem Ziel",
+    "Vom Know",
+    "XML",
+    "PDF"
   ],
   "topics": [
     "Research",
@@ -22,21 +22,27 @@
     "Staff"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Erara",
+    "Bibliotheken",
+    "Seite",
+    "Wurde",
+    "Wurde erara",
+    "Alto",
+    "Anzeigen"
   ],
-  "summary": "In einem Update wurde e-rara um eine Reihe neuer Funktionalitäten und Navigationsmöglichkeiten erweitert....",
+  "summary": "Schauen Sie selbst und erfahren Sie, wie Sie externe Seite e-rara für Ihre Forschung nutzen können:\n\ne-rara ist die Plattform für digitalisierte Drucke aus Schweizer Bibliotheken und verfügt derzeit über 98 815 Titel aus 26 Bibliotheken....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 170,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -46,6 +52,11 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.0,
+      "avg_word_length": 5.61,
+      "long_word_percentage": 26.47
+    }
   }
 }

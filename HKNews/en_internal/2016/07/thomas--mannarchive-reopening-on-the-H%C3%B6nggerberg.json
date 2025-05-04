@@ -5,14 +5,9 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "The reading room and Thomas Mann's last study can be visited there with extended opening times.\n\nTo coincide with the move, the Thomas Mann Archive has also modernised its website, where the latest news on its activities is presented in a new design.\n\nOnce the building has been fully renovated, the University of Zurich will find a new purpose for the Bodmer-Haus, where the Thomas Mann Archive was housed from 1961. The Thomas Mann Archive is scheduled to move to a new, permanent site in ETH Zurich's main building in the medium term.\n\nFurther information is available on the Thomas Mann Archive website",
   "named_entities": [
-    "Thomas Mann",
+    "University of Zurich",
     "Thomas Mann Archive",
-    "Bodmer-Haus",
-    "The Thomas Mann Archive",
-    "University",
-    "Zurich",
-    "ETH Zurich",
-    "University of Zurich"
+    "ETH Zurich"
   ],
   "topics": [
     "Infrastructure",
@@ -20,22 +15,27 @@
     "Research"
   ],
   "keywords": [
-    "ETH Zurich",
-    "New Design",
-    "University of Zurich",
     "Thomas",
-    "Mann",
     "Archive",
-    "With"
+    "Mann",
+    "Mann archive",
+    "Thomas mann",
+    "Building",
+    "Move"
   ],
-  "summary": "The reading room and Thomas Mann's last study can be visited there with extended opening times....",
+  "summary": "To coincide with the move, the Thomas Mann Archive has also modernised its website, where the latest news on its activities is presented in a new design....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 106,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students"
     ],
@@ -43,6 +43,11 @@
       "Infrastructure",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.2,
+      "avg_word_length": 4.61,
+      "long_word_percentage": 22.64
+    }
   }
 }

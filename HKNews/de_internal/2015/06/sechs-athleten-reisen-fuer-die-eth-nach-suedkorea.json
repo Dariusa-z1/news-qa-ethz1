@@ -5,15 +5,15 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Sechs Sportler sind Studierende der ETH Zürich:\n\n• Fiorino Clerici (Maschineningenieurwissenschaften): Golf\n• Tobias Wetzel (Umweltingenieurwissenschaften): Handball\n• Jürg Ebnöther (Raumentwicklung und Infrastruktursysteme): Shooting\n• Caspar Huber (Bauingenieurwissenschaften): Shooting\n• Roberto May (Maschineningenieurwissenschaften): Shooting\n• Simon Hofstede (Gesundheitswissenschaften und Technologie): Volleyball\nVom 3. bis 12. Juli findet in Gwangju, Südkorea, die 28. Sommeruniversiade statt. An diesen World University Games messen sich studierende Athletinnen und Athleten aus der ganzen Welt. Mit dabei ist auch eine Delegation des Schweizer Hochschulsport-Verbands (SHSV) mit 104 Athletinnen und Athleten, 20 davon Studierende der Zürcher Hochschulen.\n\nDie Universiade wird, ähnlich wie die Olympischen Spiele, im Winter und im Sommer ausgetragen Die erste Sommeruniversiade wurde von der Fédération Internationale du Sport Universitaire (FISU) 1959 veranstaltet. Ein Jahr darauf folgte die erste Winteruniversiade.",
   "named_entities": [
+    "ETH Zürich",
+    "World University Games",
     "Sechs Sportler",
     "Fiorino Clerici",
     "Tobias Wetzel",
     "Jürg Ebnöther",
     "Caspar Huber",
-    "Roberto May",
     "Simon Hofstede",
     "Volleyball Vom",
-    "World University Games",
     "Schweizer Hochschulsport-Verbands"
   ],
   "topics": [
@@ -26,21 +26,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "Students",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Shooting",
+    "Studierende",
+    "Athleten",
+    "Athletinnen",
+    "Athletinnen athleten",
+    "Erste"
   ],
-  "summary": "",
+  "summary": "Sechs Sportler sind Studierende der ETH Zürich:\n\n• Fiorino Clerici (Maschineningenieurwissenschaften): Golf\n• Tobias Wetzel (Umweltingenieurwissenschaften): Handball\n• Jürg Ebnöther (Raumentwicklung und Infrastruktursysteme): Shooting\n• Caspar Huber (Bauingenieurwissenschaften): Shooting\n• Roberto May (Maschineningenieurwissenschaften): Shooting\n• Simon Hofstede (Gesundheitswissenschaften und Technologie): Volleyball\nVom 3. bis 12....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 6,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 120,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students"
     ],
@@ -49,6 +54,11 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.0,
+      "avg_word_length": 7.17,
+      "long_word_percentage": 38.33
+    }
   }
 }

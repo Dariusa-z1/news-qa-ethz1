@@ -7,14 +7,14 @@
   "named_entities": [
     "Edoardo Mazza",
     "Paola Picotti",
-    "Vice President",
-    "Personnel Development",
+    "VPPL",
+    "ETH Zurich",
+    "AVETH",
     "Faculty Affairs",
-    "Julia Dannath",
-    "President Joel Mesot",
     "Executive Board",
-    "Organisational Development",
-    "Annual Academic Achievements"
+    "President Joel Mesot",
+    "Annual Academic Achievements",
+    "Vice President"
   ],
   "topics": [
     "Staff",
@@ -25,22 +25,27 @@
     "Technology & Innovation"
   ],
   "keywords": [
-    "ETH Zurich",
     "Professors",
-    "From",
-    "Also",
-    "That",
-    "This",
-    "Will"
+    "Topics",
+    "Faculty",
+    "Group",
+    "Leadership",
+    "Workstream",
+    "Important"
   ],
-  "summary": "Workstream 3 is about the support for professors. What specific topics are dealt with in the working group?...",
+  "summary": "We also reached the conclusion that in order to support professors in their leadership role it is important to promote the direct exchange of experience among professors, for example through peer-to-peer lunches across departments or virtual forums....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 1759,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -54,6 +59,11 @@
       "Catering",
       "Sustainability",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.91,
+      "avg_word_length": 5.11,
+      "long_word_percentage": 31.32
+    }
   }
 }

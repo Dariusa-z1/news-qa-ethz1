@@ -1,20 +1,16 @@
 {
   "language": "de",
   "title": "In den Gebäuden der ETH Zürich finden sich neben Reagenzgläsern, Messgeräten und Fachbüchern auch 300 sehenswerte Kunstwerke. Einen Teil dieses ETH-Kunstinventars können Sie ab sofort auf dem geführten Rundgang «Kunst zum Zmittag» im angenehm kühlen Hauptgebäude entdecken. Erkunden Sie in nur 60 Minuten das faszinierende Spannungsfeld zwischen exakten Wissenschaften und vieldeutiger Kunst.",
-  "date": "2022-06-01",
+  "date": "2030-12-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Main article: In den Gebäuden der ETH Zürich finden sich neben Reagenzgläsern, Messgeräten und Fachbüchern auch 300 sehenswerte Kunstwerke. Einen Teil dieses ETH-Kunstinventars können Sie ab sofort auf dem geführten Rundgang «Kunst zum Zmittag» im angenehm kühlen Hauptgebäude entdecken. Erkunden Sie in nur 60 Minuten das faszinierende Spannungsfeld zwischen exakten Wissenschaften und vieldeutiger Kunst.\n\nIm Zentrum und noch keine Pläne?: Die Führungen starten jeweils freitags vor dem Plakataufsteller «Kunst zum Zmittag» bei der Polyterrasse (siehe Foto). Nutzen Sie die Chance und kommen Sie spontan vorbei. Ein ETH-Guide wird Sie und alle anderen Kurzentschlossenen dort pünktlich um 12.30 Uhr begrüssen.\n\nUnd wenn es diese Woche nicht passen sollte: Alle Termine für diese und andere Führungen an der ETH finden Sie im offiziellen Veranstaltungskalender .",
   "named_entities": [
-    "Einen Teil",
+    "ETH Zürich",
+    "Polyterrasse",
     "Erkunden Sie",
     "Im Zentrum",
-    "Die Führungen",
     "Nutzen Sie",
-    "Alle Termine",
-    "Main",
-    "Gebäuden",
-    "Zürich",
-    "Reagenzgläsern"
+    "Alle Termine"
   ],
   "topics": [
     "Infrastructure",
@@ -24,20 +20,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Kunst",
+    "Finden",
+    "Führungen",
+    "Kunst zmittag",
+    "Zmittag",
+    "Angenehm"
   ],
-  "summary": "Main article: In den Gebäuden der ETH Zürich finden sich neben Reagenzgläsern, Messgeräten und Fachbüchern auch 300 sehenswerte Kunstwerke....",
+  "summary": "Und wenn es diese Woche nicht passen sollte: Alle Termine für diese und andere Führungen an der ETH finden Sie im offiziellen Veranstaltungskalender ....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 125,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Researchers"
     ],
@@ -46,6 +48,11 @@
       "Research",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.89,
+      "avg_word_length": 5.74,
+      "long_word_percentage": 31.2
+    }
   }
 }

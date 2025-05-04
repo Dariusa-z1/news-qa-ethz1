@@ -5,6 +5,7 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "An der ETH arbeiten und lernen Menschen aus über 120 Nationen. Und so unterschiedlich die Kulturen auch sind, eines verbindet viele: Backrituale rund um den Jahreswechsel haben vielerorts Tradition. Ob Gewürzkekse aus Griechenland, Gingerbread Cookies aus den USA, das Hefegebäck Lussekatter aus Schweden, der jüdische Neujahrskuchen Lekach oder die einheimischen Brunsli – verraten Sie uns Ihr Lieblingsbackrezept aus Ihrer Heimat und teilen Sie es mit der ETH-Community.\n\nSenden Sie das Rezept mit einer kurzen Begründung, was Sie mit dem Gebäck verbindet und warum es Ihnen so gut schmeckt, bis am Freitag, 30. Oktober an . In der Dezember-Ausgabe des ETH-Mitarbeitendenmagazins «life» veröffentlichen wir eine Auswahl davon.",
   "named_entities": [
+    "ETH",
     "Ob Gewürzkekse",
     "Gingerbread Cookies",
     "Hefegebäck Lussekatter",
@@ -12,36 +13,45 @@
     "Ihr Lieblingsbackrezept",
     "Ihrer Heimat",
     "Senden Sie",
-    "Dezember-Ausgabe",
-    "Menschen",
-    "Nationen"
+    "USA"
   ],
   "topics": [
     "Staff",
     "Sustainability"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Verbindet",
+    "Arbeiten",
+    "Arbeiten lernen",
+    "Auswahl",
+    "Auswahl davon",
+    "Backrituale",
+    "Backrituale rund"
   ],
-  "summary": "An der ETH arbeiten und lernen Menschen aus über 120 Nationen. Und so unterschiedlich die Kulturen auch sind, eines verbindet viele: Backrituale rund um den Jahreswechsel haben vielerorts Tradition....",
+  "summary": "Ob Gewürzkekse aus Griechenland, Gingerbread Cookies aus den USA, das Hefegebäck Lussekatter aus Schweden, der jüdische Neujahrskuchen Lekach oder die einheimischen Brunsli – verraten Sie uns Ihr Lieblingsbackrezept aus Ihrer Heimat und teilen Sie es mit der ETH-Community....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 107,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff",
       "General Public"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.83,
+      "avg_word_length": 5.63,
+      "long_word_percentage": 31.78
+    }
   }
 }

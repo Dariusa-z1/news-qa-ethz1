@@ -5,12 +5,11 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Does Switzerland matter? When it comes to climate and energy, a lot of people say no: Switzerland’s CO 2 emissions are tiny compared to those of the rest of the world, and so no amount of emissions reduction here will make any difference of global significance. Likewise, people say, the potential for Swiss policy to make a difference with respect to new technologies is extremely limited.\n\nThe last 15 years have seen a boom in photovoltaic power in Germany, and though it has failed to deliver all the promised benefits, it has nevertheless brought down technologies prices and opened up new opportunities for affordable climate mitigation around the world. But Switzerland is only a tenth of the size, and a similar boom in Switzerland would have had much less of an effect. So some people conclude that Switzerland doesn’t matter, and we might as well adopt an energy policy that focuses on keeping costs down, adopting new technologies only when the actions of larger countries have made them competitive. People also claim that if Switzerland has an important contribution to make, it is only in the area of science and technology development, in the laboratories of research institutions like ETH Zurich.\n\nI disagree, and believe that there is value for the world in Switzerland taking a leading role not only in developing the carbon-free technologies of the future, but also in applying them to transforming its own energy system. That is because some of the greatest challenges associated with the transition to a carbon-free energy system are not financial, but rather institutional. Institutional advances made in a small country can easily transfer to a much larger country.\n\nLet me give two examples. There is good reason to believe that our future energy system will rely on a lot of photovoltaic (PV) power, to the point that a high proportion of the rooftops in the country will sport a few square meters of PV panels. A big unknown is how to balance this prospect with other desires, like having attractive village centers made up of historic buildings. Striking a socially acceptable balance requires developing rules and procedures for deciding where PV panels make sense and where they do not, as well as the systems for financing and ownership. Public acceptance may be influenced by whether the profits from PV stay within the community or flow elsewhere. If we figure these things out here, others can copy us.\n\nAnother example is with respect to electric cars, which will almost certainly feature in our future energy system. There are a lot of ideas about how to locate, finance, and manage a network of charging stations as the share of electric cars rises. Some ideas are no doubt better than others, and we will probably figure out which are best through a process of trial and error. Again, if we figure these things out here, others can copy us.\n\nThe welfare of future generations requires that countries that are able to take the lead on climate and energy do so, and in ways that will make a difference for the rest of the world. Switzerland can indeed make a difference – not merely through its capacity for scientific and technical research, but also through its ability to innovate institutionally. Our national energy policy will make an impact far beyond our own borders.",
   "named_entities": [
+    "PV",
+    "ETH Zurich",
     "Does Switzerland",
     "But Switzerland",
-    "Swiss",
-    "Germany",
-    "Zurich",
-    "ETH Zurich"
+    "CO"
   ],
   "topics": [
     "Sustainability",
@@ -21,22 +20,27 @@
     "Education"
   ],
   "keywords": [
-    "ETH Zurich",
-    "That",
     "Energy",
     "Switzerland",
-    "Will",
-    "Make",
-    "People"
+    "Difference",
+    "Energy system",
+    "Future",
+    "People",
+    "System"
   ],
-  "summary": "Does Switzerland matter?...",
+  "summary": "When it comes to climate and energy, a lot of people say no: Switzerland’s CO 2 emissions are tiny compared to those of the rest of the world, and so no amount of emissions reduction here will make any difference of global significance....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 561,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -46,6 +50,11 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 24.39,
+      "avg_word_length": 4.8,
+      "long_word_percentage": 23.89
+    }
   }
 }

@@ -5,11 +5,7 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "The deployment of online examinations at traditional educational institutions and beyond has been increasing steadily, in tandem with the recent rise of massive open online courses (MOOCs). The Safe Exam Browser ( SEB ) is a secure and reliable lockdown browser which is already the open source product of choice for many educational organisations in this context. SEB is known for its software quality and its engagement with the user, standards and development communities.\n\nHowever, SEB requires ongoing funding for its maintenance, development and support activities. For this reason ETH Zurich and the SWITCH foundation have decided to launch the SEB Consortium. The Consortium invites further bodies, which may range from educational institutions to companies and public authorities, to join it and work together on this impressive open-source tool, with its promising future.",
   "named_entities": [
-    "The Safe Exam Browser",
-    "The Consortium",
-    "MOOCs",
-    "Zurich",
-    "SWITCH",
+    "SEB",
     "ETH Zurich"
   ],
   "topics": [
@@ -20,22 +16,27 @@
     "Staff"
   ],
   "keywords": [
-    "ETH Zurich",
     "Educational",
-    "With",
-    "This",
-    "Online",
+    "Browser",
+    "Consortium",
+    "Development",
+    "Educational institutions",
     "Institutions",
-    "Open"
+    "Online"
   ],
-  "summary": "The deployment of online examinations at traditional educational institutions and beyond has been increasing steadily, in tandem with the recent rise of massive open online courses (MOOCs)....",
+  "summary": "The Safe Exam Browser ( SEB ) is a secure and reliable lockdown browser which is already the open source product of choice for many educational organisations in this context....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 132,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "General Public"
     ],
@@ -44,6 +45,11 @@
       "Technology",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.0,
+      "avg_word_length": 5.54,
+      "long_word_percentage": 34.09
+    }
   }
 }

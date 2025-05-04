@@ -5,16 +5,15 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Das Restaurant im freistehenden Neubau-Pavillon HGP auf dem Campus Hönggerberg bietet eine Aussicht über das Gebiet rund um Zürich-Affoltern und eine gehobene À-la-carte-Küche. Am Mittag stehen unter anderem verschiedene 3-Gang-Menüs zur Auswahl. Neben dem klassischen Gastraum gibt es einen Bereich mit Hochtischen sowie eine Lounge mit Fauteuils und tieferen Tischen. Bei trockenem Wetter werden die Gäste auch auf der Terrasse bewirtet. Abgerundet wird das Angebot durch eine von 9 bis 21 Uhr geöffnete Bar, welche warme und kalte Getränke sowie Snacks anbietet. Caterer ist der ZFV, der auch den Uniturm der Universität Zürich führt.\n\nDas Bellavista ist das erste Restaurant der ETH, das sich explizit auch an externe Gäste richtet und soll zum beliebten Treffpunkt für ETH-Angehörige und deren Gäste werden.\n\nDer Gastro-Pavillon wurde unter der Bauprojektleitung der Abteilung Immobilien erbaut. Im Rahmen eines Gesamtleistungswettbewerbs wurden im November 2013 der Architektur- und Realisationsauftrag vergeben. Die Entscheidung fiel dabei auf Emilio Tuñón Arquitectos aus Madrid und die Priora Generalunternehmung AG aus Kloten.\n\nAm 10. Oktober öffnet das Bellavista für den regulären Betrieb.",
   "named_entities": [
-    "Das Restaurant",
-    "Neubau-Pavillon",
-    "Campus Hönggerberg",
-    "Zürich-Affoltern",
-    "Am Mittag",
-    "Gang-Menüs",
+    "ETH",
     "Universität Zürich",
-    "Das Bellavista",
-    "Der Gastro-Pavillon",
-    "Abteilung Immobilien"
+    "Campus Hönggerberg",
+    "Am Mittag",
+    "Abteilung Immobilien",
+    "Im Rahmen",
+    "Priora Generalunternehmung",
+    "HGP",
+    "ZFV"
   ],
   "topics": [
     "Infrastructure",
@@ -26,21 +25,26 @@
   ],
   "keywords": [
     "University of Zurich",
-    "Campus",
-    "Hönggerberg",
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science"
+    "Gäste",
+    "Bellavista",
+    "Restaurant",
+    "Sowie",
+    "3gangmenüs",
+    "3gangmenüs auswahl"
   ],
-  "summary": "Das Restaurant im freistehenden Neubau-Pavillon HGP auf dem Campus Hönggerberg bietet eine Aussicht über das Gebiet rund um Zürich-Affoltern und eine gehobene À-la-carte-Küche....",
+  "summary": "Das Bellavista ist das erste Restaurant der ETH, das sich explizit auch an externe Gäste richtet und soll zum beliebten Treffpunkt für ETH-Angehörige und deren Gäste werden....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 180,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "General Public"
     ],
@@ -48,6 +52,11 @@
       "Infrastructure",
       "Weather",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.0,
+      "avg_word_length": 5.57,
+      "long_word_percentage": 28.89
+    }
   }
 }

@@ -5,16 +5,10 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "The Department of Real Estate Management recently announced the planned reopening of the parking garage on 7 November 2022.\n\nThis is sure to be welcome news for all art lovers, as the reopening will once again allow access to the spray-painted artworks of Harald Naegeli located in this garage.\n\nMore information about these works and their preservation can be found in this ETHeritage blog article.\n\nJoin our Art Walkabout to discover more public artworks at ETH Zurich.\n\n#KnowMore – The prepared content issued by the ETH Library is at your free disposal and gives you a head start.\n\nRoom for more – Experience variety and exchange",
   "named_entities": [
-    "The Department",
-    "Real Estate Management",
+    "ETH Zurich",
+    "Department of Real Estate Management",
     "Harald Naegeli",
-    "Art Walkabout",
-    "November",
-    "ETHeritage",
-    "Zurich",
-    "KnowMore",
-    "Library",
-    "Experience"
+    "Art Walkabout"
   ],
   "topics": [
     "Staff",
@@ -24,22 +18,27 @@
     "Infrastructure"
   ],
   "keywords": [
-    "ETH Zurich",
-    "This",
-    "More",
-    "Reopening",
-    "Garage",
     "Artworks",
-    "Department"
+    "Garage",
+    "Reopening",
+    "Access",
+    "Access spraypainted",
+    "Allow",
+    "Announced"
   ],
-  "summary": "The Department of Real Estate Management recently announced the planned reopening of the parking garage on 7 November 2022....",
+  "summary": "This is sure to be welcome news for all art lovers, as the reopening will once again allow access to the spray-painted artworks of Harald Naegeli located in this garage....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 105,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Administration",
       "General Public"
@@ -47,6 +46,11 @@
     "context_tags": [
       "Administrative",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.5,
+      "avg_word_length": 4.89,
+      "long_word_percentage": 27.62
+    }
   }
 }

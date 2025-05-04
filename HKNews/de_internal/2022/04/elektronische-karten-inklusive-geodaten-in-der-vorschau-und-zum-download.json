@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Suchen Sie Karten für Ihre Forschung, die Lehre oder die private Urlaubsreise? Benötigen Sie hochaufgelöste und georeferenzierte Daten, möglichst als Open Data zur Weiterverwendung in einer GIS-Software? Dann recherchieren Sie im neuen Angebot elektronischer Karten . Zum wachsenden Angebot digitaler Karten rund um die Themen Gewässer, Küsten und mehr gehören beispielsweise die externe Seite Geologische Küstenkarte von Niedersachsen: Relief der Holozänbasis (2006) und die externe Seite Häfen des Schwarzen Meeres an der asiatischen Küste (nach 1855) .\n\nDas neue und laufend erweiterte Angebot umfasst sowohl Schweizer als auch internationale Neuerwerbungen elektronischer Karten. Daneben finden Sie Hunderte von digitalisierten Karten aus dem historischen Bestand der ETH-Bibliothek, die dank Georeferenzierung eine vielfältige, einfache Verwendung gestatten.\n\nAlle elektronischen Karten sind über eine Recherche in gerne zur Verfügung. Karten – Bestand und Service: Die aktuell rund 400 000 Karten der ETH-Bibliothek bieten ein umfassendes Angebot an historischen sowie modernen wissenschaftlich-thematischen Karten und Geodaten inklusive der dazugehörigen Infrastruktur und Beratungskompetenz.\n\nMehr als nur Daten – Vom Know-how profitieren\n\n#MehrWissen – Die aufbereiteten Inhalte der ETH-Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter.",
   "named_entities": [
+    "ETH",
     "Suchen Sie Karten",
+    "Seite Geologische Küstenkarte",
     "Ihre Forschung",
     "Benötigen Sie",
     "Open Data",
     "Themen Gewässer",
-    "Seite Geologische Küstenkarte",
     "Seite Häfen",
     "Schwarzen Meeres",
-    "Sie Hunderte",
-    "Vom Know"
+    "Sie Hunderte"
   ],
   "topics": [
     "Infrastructure",
@@ -24,21 +24,27 @@
     "International"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Karten",
+    "Angebot",
+    "Ethbibliothek",
+    "Bestand",
+    "Daten",
+    "Elektronischer",
+    "Elektronischer karten"
   ],
-  "summary": "Suchen Sie Karten für Ihre Forschung, die Lehre oder die private Urlaubsreise?...",
+  "summary": "Zum wachsenden Angebot digitaler Karten rund um die Themen Gewässer, Küsten und mehr gehören beispielsweise die externe Seite Geologische Küstenkarte von Niedersachsen: Relief der Holozänbasis (2006) und die externe Seite Häfen des Schwarzen Meeres an der asiatischen Küste (nach 1855) ....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 180,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -47,6 +53,11 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.0,
+      "avg_word_length": 6.39,
+      "long_word_percentage": 38.89
+    }
   }
 }

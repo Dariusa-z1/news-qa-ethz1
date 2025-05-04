@@ -5,36 +5,44 @@
   "source": "Unknown source",
   "main_content": "This article is published in German only.\n\n«Beste Adresse für Konjunkturforschung»",
   "named_entities": [
-    "Beste Adresse",
-    "German",
-    "Konjunkturforschung"
+    "Beste Adresse"
   ],
   "topics": [
     "Research"
   ],
   "keywords": [
-    "This",
+    "Adresse",
+    "Adresse konjunkturforschung",
     "Article",
-    "Published",
-    "German",
-    "Only",
-    "«beste",
-    "Adresse"
+    "Article published",
+    "Beste",
+    "Beste adresse",
+    "German"
   ],
-  "summary": "This article is published in German only. «Beste Adresse für Konjunkturforschung»...",
+  "summary": "This article is published in German only.\n\n«Beste Adresse für Konjunkturforschung»",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 11,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "University News"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 5.5,
+      "avg_word_length": 6.18,
+      "long_word_percentage": 36.36
+    }
   }
 }

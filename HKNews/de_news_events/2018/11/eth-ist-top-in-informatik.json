@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Damit bestätigten die ETH-Computerwissenschaftler ihre weltweite Spitzenposition. Vor Jahresfrist lagen sie auf Platz vier, vor zwei Jahren auf Platz eins. Damals erfasste das THE-Fächerranking jedoch nicht alle Top-Universitäten, sodass das Resultat nicht mit dem jetzigen vergleichbar ist.\n\nDurch die Spitzenklassierung der ETH-Computerwissenschaften sieht sich ETH-Präsident Lino Guzzella im eingeschlagenen Kurs der Hochschule bestätigt: «Die strategische Entscheidung der ETH Zürich, Informatik und Data Science stark zu fördern, trägt Früchte.» In dieses Bild passe auch die Tatsache, dass die Zahl der Studierenden am Departement Informatik in jüngster Zeit zugenommen habe.\n\nAuch viele der grossen IT-Firmen wie Google, Disney oder Apple haben sich unter anderem wegen der ETH entschieden, in Zürich eigene Forschungs- und Entwicklungsaktivtäten aufzubauen. Jüngstes Beispiel ist Microsoft, wo in Zusammenarbeit mit Informatikprofessor Marc Pollefeys ein neues Labor für « externe Seite Mixed Reality und Künstliche Intelligenz » entsteht.\n\nZudem entstehen aus der ETH heraus viele Spin-off-Firmen, deren Geschäftsmodelle auf die digitale Transformation und das Internet der Dinge zugeschnitten sind, wie GetYourGuide, Scandit oder Beekeper. «Zürich ist das digitale Zentrum der Schweiz, und die ETH und die Top-Forschung und Ausbildung in der Informatik treiben diese Entwicklung massgeblich an», betont Lino Guzzella.\n\nAuch im THE-Fachbereich Ingenieur- und Technische Wissenschaften («Engineering and Technical Sciences) schaffte es die ETH unter die besten Zehn. Die Hochschule liegt wie im Vorjahr auf Platz neun. Im jüngsten THE-Gesamtranking 2018/19 belegt die ETH Zürich Rang elf.",
   "named_entities": [
-    "Vor Jahresfrist",
-    "Top-Universitäten",
+    "ETH Zürich",
+    "THE",
     "Präsident Lino Guzzella",
+    "Informatikprofessor Marc Pollefeys",
+    "Seite Mixed Reality",
     "Data Science",
     "Departement Informatik",
     "Jüngstes Beispiel",
-    "Informatikprofessor Marc Pollefeys",
-    "Seite Mixed Reality",
     "Künstliche Intelligenz",
-    "Top-Forschung"
+    "Fachbereich Ingenieur"
   ],
   "topics": [
     "Research",
@@ -26,20 +26,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Zürich",
+    "Informatik",
+    "Platz",
+    "Digitale",
+    "Guzzella",
+    "Hochschule"
   ],
-  "summary": "Damit bestätigten die ETH-Computerwissenschaftler ihre weltweite Spitzenposition. Vor Jahresfrist lagen sie auf Platz vier, vor zwei Jahren auf Platz eins....",
+  "summary": "Durch die Spitzenklassierung der ETH-Computerwissenschaften sieht sich ETH-Präsident Lino Guzzella im eingeschlagenen Kurs der Hochschule bestätigt: «Die strategische Entscheidung der ETH Zürich, Informatik und Data Science stark zu fördern, trägt Früchte.» In dieses Bild passe auch die Tatsache, dass die Zahl der Studierenden am Departement Informatik in jüngster Zeit zugenommen habe....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 238,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -49,6 +55,11 @@
       "Research",
       "Education",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.83,
+      "avg_word_length": 5.95,
+      "long_word_percentage": 32.77
+    }
   }
 }

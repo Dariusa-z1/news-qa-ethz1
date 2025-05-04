@@ -5,16 +5,13 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Im Rahmen eines «Tags der offenen Tür» empfingen ehemalige und aktuelle Excellence Scholars die Gäste, um ihre Forschungsprojekte zu präsentieren und sich über Studium, Motivation und Zukunftspläne auszutauschen. Rektorin und ESOP-Schirmherrin Sarah M. Springman dankte in ihrer Rede allen Förderern und Partnern, die jedes Jahr einen entscheidenden Beitrag zur Unterstützung der besten Talente leisten.\n\nMit dem Excellence Scholarship and Opportunity Programme ermöglicht die ETH Zürich seit 2007 Talenten, ein Masterstudium an der ETH Zürich ohne finanzielle Sorgen und mit spezieller Betreuung durch eine Lehrperson zu absolvieren. Mit dem Stipendium werden nur die besten aller neueintretenden Masterstudierenden gefördert, unabhängig von ihrer Herkunft und ihrer wirtschaftlichen Situation. Die Stipendien werden durch Donationen von Alumni, Freunden und Förderern an die ETH Zürich Foundation finanziert.",
   "named_entities": [
+    "ETH Zürich",
     "Im Rahmen",
-    "Excellence Scholars",
     "Schirmherrin Sarah",
     "Excellence Scholarship",
     "Opportunity Programme",
-    "Die Stipendien",
     "Zürich Foundation",
-    "Tags",
-    "Gäste",
-    "Forschungsprojekte"
+    "ESOP"
   ],
   "topics": [
     "Education",
@@ -24,20 +21,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Zürich",
+    "Besten",
+    "Excellence",
+    "Förderern",
+    "Absolvieren",
+    "Aktuelle"
   ],
-  "summary": "",
+  "summary": "Im Rahmen eines «Tags der offenen Tür» empfingen ehemalige und aktuelle Excellence Scholars die Gäste, um ihre Forschungsprojekte zu präsentieren und sich über Studium, Motivation und Zukunftspläne auszutauschen....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 122,
     "readability_score": "complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -47,6 +50,11 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.33,
+      "avg_word_length": 6.34,
+      "long_word_percentage": 39.34
+    }
   }
 }

@@ -5,16 +5,10 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Finally, an end to the long queues at the cash registers at lunchtime is in sight: in future people will be able to make cashless payments in ETH Zurich’s restaurants. With the Postfinance-powered Twint app, all staff and students at ETH Zurich have to do is pull out their smartphones. Thanks to an interface with ETH Zurich’s systems, the caterer’s cash registers can automatically identify whether a customer is a guest, student, or member of staff – and charge them the right price. This speeds up the entire payment process, and separate cash registers for payment via Twint or NFC-enabled credit cards are also planned for the future. Twint can already be used to pay at 8,000 Coop cash registers across Switzerland, including the branch on the Hönggerberg campus.\n\nThe new payment method will be promoted between 22 and 24 February 2016 at various locations across ETH Zurich. Everyone will also receive an initial 10 francs in free credit. Users can then top up their accounts in various ways once the initial credit is used up. For example, at a Postomat, via payment slip, or by purchasing a credit code at the kiosk in the MM building under the Polyterasse or at the bistro on the Hönggerberg campus.",
   "named_entities": [
-    "Finally",
-    "Zurich",
-    "Postfinance",
-    "Twint",
-    "Coop",
-    "Switzerland",
+    "ETH Zurich",
     "Hönggerberg",
-    "February",
-    "Postomat",
-    "Polyterasse"
+    "NFC",
+    "MM"
   ],
   "topics": [
     "Infrastructure",
@@ -25,22 +19,27 @@
     "Technology & Innovation"
   ],
   "keywords": [
-    "ETH Zurich",
     "Hönggerberg Campus",
     "Cash",
-    "Registers",
-    "Payment",
+    "Cash registers",
     "Credit",
-    "Will"
+    "Payment",
+    "Registers",
+    "Zurich"
   ],
-  "summary": "Finally, an end to the long queues at the cash registers at lunchtime is in sight: in future people will be able to make cashless payments in ETH Zurich’s restaurants....",
+  "summary": "This speeds up the entire payment process, and separate cash registers for payment via Twint or NFC-enabled credit cards are also planned for the future....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 213,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -50,6 +49,11 @@
       "Infrastructure",
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.67,
+      "avg_word_length": 4.58,
+      "long_word_percentage": 23.47
+    }
   }
 }

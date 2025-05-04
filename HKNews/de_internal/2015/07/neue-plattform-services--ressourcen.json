@@ -5,16 +5,11 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Das bisherige Intranet wird Anfang August zur neuen Plattform «Services & Ressourcen» umgestaltet. Diese richtet sich primär an ETH-Mitarbeitende, enthält aber auch Informationen für externe Website-Besucherinnen und -Besucher.\n\nDie gewohnten Meldungen aus der Rubrik «Intern aktuell» wie Service-Infos, Neuigkeiten aus der Schulleitung und aus Gremien oder Berichte über Dienstjubilaren finden Sie künftig auch auf der neuen Plattform. Ebenso finden Sie dort weiterhin die Informationen, welche die Mitarbeitenden bei ihrer Arbeit unterstützen und der Orientierung im vielfältigen Angebot an der ETH Zürich dienen. Darunter sind die Themen Anstellung und Arbeit, Finanzen und Controlling oder IT-Services.\n\nVisuell und strukturell soll die neue Plattform gemeinsam mit der ETH-Hauptsite www.ethz.ch eine Einheit bilden. So wird zum Beispiel der Header einheitlich im Corporate Blau erscheinen, zudem wird die Navigation zwischen beiden Websites durch zusätzliche Links vereinfacht. «Services & Ressourcen» finden Sie neu rechts oben in der Navigation der Hauptsite. Die neue Plattform wird zudem unter der URL www.ethz.ch/services erreichbar sein.",
   "named_entities": [
-    "Anfang August",
-    "Website-Besucherinnen",
-    "Service-Infos",
+    "ETH Zürich",
     "Themen Anstellung",
     "Corporate Blau",
-    "Intranet",
-    "Plattform",
-    "Services",
-    "Ressourcen",
-    "Mitarbeitende"
+    "IT",
+    "URL"
   ],
   "topics": [
     "Staff",
@@ -25,26 +20,37 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Plattform",
+    "Finden",
+    "Arbeit",
+    "Informationen",
+    "Navigation",
+    "Neue"
   ],
-  "summary": "Das bisherige Intranet wird Anfang August zur neuen Plattform «Services & Ressourcen» umgestaltet....",
+  "summary": "Die gewohnten Meldungen aus der Rubrik «Intern aktuell» wie Service-Infos, Neuigkeiten aus der Schulleitung und aus Gremien oder Berichte über Dienstjubilaren finden Sie künftig auch auf der neuen Plattform....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 163,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff"
     ],
     "context_tags": [
       "Financial",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.54,
+      "avg_word_length": 5.88,
+      "long_word_percentage": 36.2
+    }
   }
 }

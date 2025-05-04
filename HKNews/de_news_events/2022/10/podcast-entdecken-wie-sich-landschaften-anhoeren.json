@@ -5,16 +5,9 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Im ETH-Podcast spricht der wissenschaftliche Mitarbeiter Ludwig Berger über die klangliche Annäherung an die Landschaftsarchitektur, das Einfangen von Klängen mit Studierenden und das Einspielen einer Auswahl auf Schallplatten. Ludwig spricht auch über die neue Publikation «Bodies of Water - A Swiss Landscape Trilogy», eine Sammlung aus der kollektiven klanglichen und fotografischen Forschung der Jahre 2015-2021.",
   "named_entities": [
+    "ETH",
     "Mitarbeiter Ludwig Berger",
-    "Swiss Landscape Trilogy",
-    "Podcast",
-    "Annäherung",
-    "Landschaftsarchitektur",
-    "Einfangen",
-    "Klängen",
-    "Studierenden",
-    "Einspielen",
-    "Auswahl"
+    "Swiss Landscape Trilogy"
   ],
   "topics": [
     "Research",
@@ -22,22 +15,27 @@
     "Education"
   ],
   "keywords": [
-    "Staff",
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Ludwig",
+    "Spricht",
+    "Annäherung",
+    "Annäherung landschaftsarchitektur",
+    "Auswahl",
+    "Auswahl schallplatten",
+    "Berger"
   ],
-  "summary": "",
+  "summary": "Im ETH-Podcast spricht der wissenschaftliche Mitarbeiter Ludwig Berger über die klangliche Annäherung an die Landschaftsarchitektur, das Einfangen von Klängen mit Studierenden und das Einspielen einer Auswahl auf Schallplatten....",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 56,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -46,6 +44,11 @@
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 28.0,
+      "avg_word_length": 6.3,
+      "long_word_percentage": 39.29
+    }
   }
 }

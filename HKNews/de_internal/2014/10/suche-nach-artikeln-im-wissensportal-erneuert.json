@@ -5,16 +5,10 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Im zweiten Suchreiter \"Artikel und mehr\" im Wissensportal ergeben sich dadurch folgende Neuerungen:\n\n• Suche in noch umfangreicherem Informationsangebot von Verlagen, Datenbanken und Aggregatoren\n• Suche in Open-Access-Zeitschriften und -Repositorien\n• Zusätzliche integrierte Dokumenttypen wie E-Book-Kapitel, Konferenzberichte, Reviews usw.\n• Mehr Einschränkungsmöglichkeiten in der Trefferliste\n• Anzeige von Empfehlungen und Zitierungen\n• Zugriff auf die Artikelsuche auch für Nicht-ETH-Angehörige. Die Datenbanken Web of Science, Scopus, GeoRef und CiNii Articles sind allerdings nur im Netzwerk der ETH Zürich durchsuchbar.\nHierbei werden die Metadaten wissenschaftlicher Informationsressourcen in einer einzigen Suche integriert.\n\nNicht mehr im Suchreiter \"Artikel und mehr\" integriert ist die Suche nach NTIS-Reports. Benutzen Sie hierfür die NTIS-Datenbank . Der Zugriff ist nur im Netzwerk der ETH Zürich möglich.",
   "named_entities": [
-    "Open-Access-Zeitschriften",
-    "Book-Kapitel",
+    "ETH Zürich",
+    "NTIS",
     "Mehr Einschränkungsmöglichkeiten",
-    "Die Datenbanken Web",
-    "Benutzen Sie",
-    "Der Zugriff",
-    "Suchreiter",
-    "Artikel",
-    "Wissensportal",
-    "Neuerungen"
+    "Benutzen Sie"
   ],
   "topics": [
     "Communication",
@@ -24,20 +18,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Mehr",
+    "Suche",
+    "Artikel",
+    "Artikel mehr",
+    "Datenbanken",
+    "Integriert"
   ],
-  "summary": "",
+  "summary": "Im zweiten Suchreiter \"Artikel und mehr\" im Wissensportal ergeben sich dadurch folgende Neuerungen:\n\n• Suche in noch umfangreicherem Informationsangebot von Verlagen, Datenbanken und Aggregatoren\n• Suche in Open-Access-Zeitschriften und -Repositorien\n• Zusätzliche integrierte Dokumenttypen wie E-Book-Kapitel, Konferenzberichte, Reviews usw....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 6,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 119,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Researchers"
     ],
@@ -45,6 +45,11 @@
       "Research",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.0,
+      "avg_word_length": 6.49,
+      "long_word_percentage": 42.86
+    }
   }
 }

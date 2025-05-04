@@ -5,16 +5,16 @@
   "source": "Cujia KS, Boss JM, Herb K, Zopes J, Degen CL: Tracking the precession of single nuclear spins by weak measurements. Nature, 24 June 2019, doi: 10.1038/s41586-019-1334-9",
   "main_content": "Higher resolution: Nuclear magnetic resonance spectroscopy – NMR spectroscopy for short – is one of the most important methods of physicochemical analysis. It can be used to precisely determine molecular structures and dynamics. The importance of this method is also evidenced by the recognition of ETH Zurich’s two latest Nobel laureates, Richard Ernst and Kurt Wüthrich, for their contributions to refining the method.\n\nThe technique is based on nuclear magnetic resonance, which takes advantage of the fact that certain atomic nuclei interact with a magnetic field. A key factor here is the nuclear spin, which can be compared with the spinning of a child’s top. Similar to a top that begins to wobble – experts call this precession – nuclear spins that are exposed to a magnetic field begin to precess. This generates an electromagnetic signal that can be measured using an induction coil.\n\nA team of researchers led by Christian Degen, Professor of Solid-State Physics at ETH Zurich, has developed a new approach, making it possible to directly track the precession of single nuclear spins. In comparison: conventional NMR measurements usually require at least 10 12 to 10 18 atomic nuclei in order to register a measurement signal.\n\nIn their project, the ETH researchers analysed the behaviour of carbon-13 atoms in diamonds. Rather than using conventional methods to measure the precession of the carbon nucleus, they used the spin of an adjacent electron in an N-V centre – an imperfection in the diamond’s crystal lattice – as a sensor. Kristian Cujia, a doctoral student in Degen’s group, summarises the principle thus: “We use a second quantum system to study the behaviour of the first quantum system. In this way, we created a very sensitive way of measurement.”\n\nQuantum systems are hard to pin down, as any measurement will also influence the system being observed. Therefore, the researchers were unable to track the precession continuously; its movement would have been changed too drastically. To solve this problem, they developed a special measurement method to capture the spin of the carbon atom through a series of weak measurements in quick succession. As a result, they were able to keep the influence of their observation so small as to not influence the system measurably, leaving the original circular motion perceptible.\n\n“Our method paves the way for remarkable advances in NMR technology,” Degen explains. “This potentially enables us to directly record the spectra of individual molecules and analyse structures at the atomic level.” As a first example, the physicists identified the three-dimensional position of the carbon nuclei in the diamond lattice with atomic resolution. The physicists see huge potential in this development. Such detailed NMR measurements could lead to completely new insights in many areas, as has already been the case with conventional NMR spectroscopy in recent decades.”\n\nThis work was carried out in the framework of the National Centre of Competence in Research Quantum Science and Technology ( NCCR QSIT ).",
   "named_entities": [
+    "NMR",
+    "ETH Zurich",
+    "Research Quantum Science",
     "Richard Ernst",
     "Kurt Wüthrich",
     "Christian Degen",
     "Solid-State Physics",
     "Kristian Cujia",
     "National Centre",
-    "Research Quantum Science",
-    "Higher",
-    "Nuclear",
-    "Zurich"
+    "NCCR"
   ],
   "topics": [
     "Research",
@@ -24,22 +24,27 @@
     "Campus Life"
   ],
   "keywords": [
-    "ETH Zurich",
-    "This",
     "Nuclear",
+    "Atomic",
     "Magnetic",
+    "Measurement",
     "Method",
-    "That",
-    "Atomic"
+    "Precession",
+    "Quantum"
   ],
-  "summary": "Higher resolution: Nuclear magnetic resonance spectroscopy – NMR spectroscopy for short – is one of the most important methods of physicochemical analysis....",
+  "summary": "Such detailed NMR measurements could lead to completely new insights in many areas, as has already been the case with conventional NMR spectroscopy in recent decades.”\n\nThis work was carried out in the framework of the National Centre of Competence in Research Quantum Science and Technology ( NCCR QSIT )....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 489,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -50,6 +55,11 @@
       "Research",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.26,
+      "avg_word_length": 5.13,
+      "long_word_percentage": 31.9
+    }
   }
 }

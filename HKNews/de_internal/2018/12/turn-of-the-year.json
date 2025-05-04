@@ -5,16 +5,11 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Informationen zu Öffnungs- und Betriebszeiten (PDF, 993 KB)\n\nAuch wenn ab dem 22. Dezember die diversen Gebäude der ETH geschlossen bleiben, ist der Zutritt mit Schlüssel oder mit der ETH-Karte (Personalausweis/Legi) möglich. Wie Sie eine Zutrittsberechtigung für ein Gebäude bestellen, erfahren Sie unter der Webseite « 24-Stunden-Zugang Studierendenarbeitsplätze » im ETH-Web.\n\nFür Vorkommnisse im Personen-, Gebäude- und Anlagenschutz steht Ihnen die Alarmzentrale der ETH Zürich zur Verfügung. Dasselbe gilt bei schwerwiegenden technischen Problemen mit (Forschungs-)Anlagen oder der IT-Infrastruktur. Sie erreichen die Alarmzentrale unter 888 (von internen Telefonanschlüssen) oder 044 342 11 88 (von externen Telefonanschlüssen oder vom Mobiltelefon).",
   "named_entities": [
+    "ETH Zürich",
     "Wie Sie",
-    "Stunden-Zugang Studierendenarbeitsplätze",
-    "Für Vorkommnisse",
-    "Informationen",
-    "Betriebszeiten",
-    "Auch",
-    "Gebäude",
-    "Zutritt",
-    "Schlüssel",
-    "Karte"
+    "PDF",
+    "KB",
+    "IT"
   ],
   "topics": [
     "Infrastructure",
@@ -26,20 +21,25 @@
   "keywords": [
     "ETH Zurich",
     "ETH Card",
-    "Building",
-    "University",
-    "Research",
-    "Science",
-    "Campus"
+    "Gebäude",
+    "Alarmzentrale",
+    "Telefonanschlüssen",
+    "24stundenzugang",
+    "24stundenzugang studierendenarbeitsplätze"
   ],
-  "summary": "Informationen zu Öffnungs- und Betriebszeiten (PDF, 993 KB)\n\nAuch wenn ab dem 22....",
+  "summary": "Dezember die diversen Gebäude der ETH geschlossen bleiben, ist der Zutritt mit Schlüssel oder mit der ETH-Karte (Personalausweis/Legi) möglich....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 103,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -49,6 +49,11 @@
       "Infrastructure",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.17,
+      "avg_word_length": 6.08,
+      "long_word_percentage": 37.86
+    }
   }
 }

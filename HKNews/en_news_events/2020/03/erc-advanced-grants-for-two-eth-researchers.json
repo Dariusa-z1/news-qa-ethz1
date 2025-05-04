@@ -5,14 +5,14 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "European research is more important than ever: Although much of Europe is currently at a standstill, the European Research Council (ERC) has announced the names of the researchers who will receive an ERC Advanced Grant this year. These include two researchers from ETH: microbiologist Julia Vorholt and pharmacologist Jean-Christophe Leroux will each receive some 2.58 million Swiss francs in funding for their projects.\n\nDetlef Günther, ETH Vice President for Research, emphasises the overarching importance of the ERC: “Now more than ever, we are all keenly aware of how much we need research across national boundaries. The European Research Council has been doing outstanding work in this area for years by determining where exactly in Europe important basic research is being carried out and then providing it with targeted support.” Günther is also delighted for the two ETH researchers set to receive grants: “Although we currently have to reduce our research activities in certain areas, the time will come when ETH’s research can get back to full speed. Projects of this kind will then see faster progress thanks to an ERC Grant.”\n\nIn this round of funding, 16 grants will go to researchers from Swiss research institutions. By comparison, a total of 18 Swiss projects received grants in 2019. This reflects an overall trend towards fewer awards from the ERC in this funding cycle: a total of 185 projects were selected in this round, compared to 222 in 2019.\n\nAdvanced Grants are awarded as part of the Horizon 2020 research and innovation programme. The extent to which Switzerland will be able to participate in the successor programme Horizon Europe, from 2021, is yet to be fully clarified.\n\nThe projects at a glance:\n\nJean-Christophe Leroux is a professor of Drug Formulation and Delivery at the Department of Chemistry and Applied Biosciences. His research group is interested in improving the efficacy of drugs and reducing their side effects. One focus is gene therapy that introduces genetic material into cells to compensate for malfunctioning genes or provide new functions. The approach has the potential to treat and even cure a variety of pathologies such as cancer and some rare diseases. However, it is often inefficient, and only a few gene therapy products have been approved so far. This is partly due to different retention mechanisms, which sequester or degrade intruding genetic material inside the cell. In his ERC project, Leroux aims at finding ways to suppress these cellular defence systems. Circumventing this barrier could make modern gene therapy safer and more effective.\n\nJulia Vorholt , Professor of Microbiology, has been awarded a second ERC Advanced Grant. Her new project focuses on ways to impart specific abilities to cells. Vorholt takes her inspiration from a partnership between single-celled organisms that was rare – but extremely successful – in the evolution of life: cells living symbiotically within other cells in a process known as endosymbiosis. Over the course of evolution, this gave rise to organelles – separate compartments with their own metabolic functions inside higher cells. The relics of this coexistence include mitochondria, which act as the powerhouses of cells, and chloroplasts, which conduct photosynthesis. With her research group, Vorholt now wants to develop artificial compartments in order to introduce new metabolic characteristics into cells on a modular basis. Numerous biotechnology applications could benefit from this.\n\nBenchmark for top researchers: ERC Grants: ETH researchers have been successfully applying for EU funding – ERC Research Grants – since 2007, and more than 80 have now received an ERC Advanced Grant. In addition to the Advanced Grants, the European Research Council also annually awards Starting Grants to young researchers at the beginning of their careers and Consolidator Grants to more established researchers to further develop their own group. Furthermore, the numerous ERC Proof of Concept Grants (funding for the preparation of feasibility studies and business plans) awarded to ETH Zurich show that basic research is often used in market innovations with corresponding economic benefits.",
   "named_entities": [
+    "ERC",
+    "ETH Zurich",
     "European Research Council",
-    "Advanced Grant",
-    "Julia Vorholt",
     "Jean-Christophe Leroux",
+    "Advanced Grants",
+    "Department of Chemistry",
     "Detlef Günther",
     "Vice President",
-    "The European Research Council",
-    "Advanced Grants",
     "Horizon Europe",
     "Drug Formulation"
   ],
@@ -25,22 +25,27 @@
     "Communication"
   ],
   "keywords": [
-    "ETH Zurich",
     "Research",
-    "This",
     "Grants",
     "Researchers",
     "Cells",
-    "Will"
+    "Advanced",
+    "Funding",
+    "Projects"
   ],
-  "summary": "",
+  "summary": "The European Research Council has been doing outstanding work in this area for years by determining where exactly in Europe important basic research is being carried out and then providing it with targeted support.” Günther is also delighted for the two ETH researchers set to receive grants: “Although we currently have to reduce our research activities in certain areas, the time will come when ETH’s research can get back to full speed....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 655,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +56,11 @@
       "Research",
       "Education",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.83,
+      "avg_word_length": 5.29,
+      "long_word_percentage": 33.13
+    }
   }
 }

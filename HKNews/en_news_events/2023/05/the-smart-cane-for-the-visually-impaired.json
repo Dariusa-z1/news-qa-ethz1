@@ -5,10 +5,9 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "ETH student Alexander Bayer was inspired to upgrade the traditional white cane by a blind classmate in high school. Together with three other ETH students, he is working in the Student Project House on the “NextGuide” project, a smart cane for the blind and visually impaired equipped with an integrated camera and the ability to provide haptic feedback. The cane not only indicates the direction in which an individual should walk to avoid obstacles but also communicates via vibrations whether they are standing in front of a door, pedestrian crossing or staircase.",
   "named_entities": [
-    "Alexander Bayer",
+    "ETH",
     "Student Project House",
-    "NextGuide",
-    "ETH"
+    "Alexander Bayer"
   ],
   "topics": [
     "Education",
@@ -18,26 +17,36 @@
   ],
   "keywords": [
     "Cane",
-    "Student",
     "Blind",
-    "With",
+    "Cane blind",
     "Project",
-    "Alexander",
-    "Bayer"
+    "Student",
+    "Ability",
+    "Ability provide"
   ],
-  "summary": "ETH student Alexander Bayer was inspired to upgrade the traditional white cane by a blind classmate in high school....",
+  "summary": "Together with three other ETH students, he is working in the Student Project House on the “NextGuide” project, a smart cane for the blind and visually impaired equipped with an integrated camera and the ability to provide haptic feedback....",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 92,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 30.67,
+      "avg_word_length": 5.09,
+      "long_word_percentage": 33.7
+    }
   }
 }

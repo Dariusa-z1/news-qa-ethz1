@@ -5,43 +5,49 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Im Suchportal finden Sie ab sofort nicht nur Dokumente, sondern auch ausgewählte Informationen über die ETH-Bibliothek und ihre Dienstleistungen.\n\nGeben Sie im Suchschlitz einen Begriff wie \"Öffnungszeiten\", \"Open Access\" oder \"Geowissenschaften\" ein. Danach werden Ihnen in praktischen Info-Boxen Links auf Webseiten der ETH-Bibliothek mit den entsprechenden Informationen angezeigt.",
   "named_entities": [
+    "ETH",
     "Im Suchportal",
     "Geben Sie",
     "Open Access",
-    "Info-Boxen Links",
-    "Dokumente",
-    "Informationen",
-    "Bibliothek",
-    "Dienstleistungen",
-    "Suchschlitz",
-    "Begriff"
+    "Info-Boxen Links"
   ],
   "topics": [
     "Communication",
     "Research"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Ethbibliothek",
+    "Informationen",
+    "Access",
+    "Access geowissenschaften",
+    "Angezeigt",
+    "Ausgewählte",
+    "Ausgewählte informationen"
   ],
   "summary": "Im Suchportal finden Sie ab sofort nicht nur Dokumente, sondern auch ausgewählte Informationen über die ETH-Bibliothek und ihre Dienstleistungen....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 51,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.0,
+      "avg_word_length": 6.31,
+      "long_word_percentage": 33.33
+    }
   }
 }

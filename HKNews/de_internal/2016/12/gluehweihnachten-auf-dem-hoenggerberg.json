@@ -5,39 +5,46 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Die ETH Zürich holt zusammen mit dem VSETH und den Fachvereinen den Nikolaus auf den Hönggerberg.",
   "named_entities": [
-    "Zürich",
     "VSETH",
-    "Fachvereinen",
-    "Nikolaus",
-    "Hönggerberg",
-    "ETH Zürich"
+    "ETH Zürich",
+    "Hönggerberg"
   ],
   "topics": [
     "Infrastructure"
   ],
   "keywords": [
     "ETH Zurich",
+    "Fachvereinen",
+    "Fachvereinen nikolaus",
+    "Holt",
+    "Holt zusammen",
     "Hönggerberg",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Nikolaus"
   ],
   "summary": "Die ETH Zürich holt zusammen mit dem VSETH und den Fachvereinen den Nikolaus auf den Hönggerberg.",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 16,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.0,
+      "avg_word_length": 5.06,
+      "long_word_percentage": 25.0
+    }
   }
 }

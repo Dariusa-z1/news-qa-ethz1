@@ -4,35 +4,43 @@
   "date": "2016-10-01",
   "source": "Unknown source",
   "main_content": "Further details can be found in the flyer for your building area on our website .",
-  "named_entities": [
-    "Further"
-  ],
+  "named_entities": [],
   "topics": [
     "Infrastructure"
   ],
   "keywords": [
-    "Further",
-    "Details",
-    "Found",
-    "Flyer",
-    "Your",
+    "Area",
+    "Area website",
     "Building",
-    "Area"
+    "Building area",
+    "Details",
+    "Details found",
+    "Flyer"
   ],
   "summary": "Further details can be found in the flyer for your building area on our website .",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 15,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "Infrastructure"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.0,
+      "avg_word_length": 4.33,
+      "long_word_percentage": 26.67
+    }
   }
 }

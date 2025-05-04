@@ -5,43 +5,49 @@
   "source": "Unknown source",
   "main_content": "Die diesjährigen Redner sind:\n\nProf. David A. Horsley von der University of California zum Thema „Piezoelectric micromachined ultrasonic transducers in consumer electronics”\n\n17. Oktober 2016 um 17.15 Uhr im HG F30\n\nProf. Sergio Pellegrino vom California Institute of Technology zum Thema “Flying carpets: Ultralight Structures for Space Solar Power“\n\n14. November 2016 um 17.15 Uhr im HG F30",
   "named_entities": [
-    "Sergio Pellegrino",
-    "California Institute",
-    "Ultralight Structures",
     "Space Solar Power",
-    "Redner",
-    "Prof",
-    "University",
-    "Thema",
-    "Piezoelectric",
-    "Technology"
+    "HG",
+    "Prof. Sergio Pellegrino",
+    "Institute of Technology",
+    "California Institute",
+    "Ultralight Structures"
   ],
   "topics": [
     "Technology & Innovation"
   ],
   "keywords": [
-    "Prof",
     "California",
+    "Prof",
     "Thema",
-    "2016",
-    "1715",
-    "Diesjährigen",
-    "Redner"
+    "California institute",
+    "California thema",
+    "Carpets",
+    "Carpets ultralight"
   ],
-  "summary": "Die diesjährigen Redner sind:\n\nProf. David A. Horsley von der University of California zum Thema „Piezoelectric micromachined ultrasonic transducers in consumer electronics”\n\n17....",
+  "summary": "Oktober 2016 um 17.15 Uhr im HG F30\n\nProf. Sergio Pellegrino vom California Institute of Technology zum Thema “Flying carpets: Ultralight Structures for Space Solar Power“\n\n14....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 2,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 60,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students"
     ],
     "context_tags": [
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 7.5,
+      "avg_word_length": 5.3,
+      "long_word_percentage": 31.67
+    }
   }
 }

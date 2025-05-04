@@ -5,16 +5,16 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Rethinking urban mobility: The future of mobility is measured in milestones: this February, Google subsidiary Waymo announced that its fleet of self-driving cars had covered over 8 million kilometres on public roads. This came shortly after Uber’s announcement that it had completed 3 million kilometres of autonomous driving. If industry has its way, then we will soon be sharing all our streets with vehicles controlled by algorithms instead of drivers. But is that a realistic scenario? Or simply a rose-tinted vision of a tech-driven future?\n\nWe asked one of the leading experts in this field, Italian researcher Emilio Frazzoli, Professor of Dynamic Systems and Control at ETH Zurich since October 2016. “It all depends what level of autonomous mobility you have in mind,” he replies. “I would say it will be at least another 15 years before you can buy a self-driving car from a dealer. But if you mean a limit- ed kind of car sharing, then it’s already happening.” In fact, this latter concept is a core part of Frazzoli’s own research. In mid-2018, the ride sharing company Lyft launched a service on the Las Vegas Strip that allows anyone to book one of a fleet of 30 BMWs through its app. The driverless cars are controlled by algorithms developed by vehicle technology company Aptiv, which acquired NuTonomy – the start-up founded by Frazzoli – in October 2017.\n\nBefore joining ETH, Frazzoli spent ten years as a professor at the prestig- ious MIT in Boston. Autonomous systems – initially aircraft and drones – were the focus of his work right from the start. “The technical side of that was generally pretty cool, but it wasn’t really doing much to help solve the challenges society is facing.” In 2009, he found himself pondering a fundamental question: “Back then, the main argument for conducting research into self-driving cars was the idea that they would make road traffic safer.” While acknowledging the truth of that statement, at least in the long term, Frazzoli realised there was potentially a much larger, medium-term benefit to be gained from completely rethinking the issue of individual mobility for city dwellers.\n\n“The goal of my research group is a form of mobility that combines the convenience of a private car with the sustainability of public transport.” In other words, a kind of Uber, but driverless and therefore much more economical and available. Plus – thanks to electrification and better capacity utilisation – a solution that offers significantly lower energy consumption and CO 2 emissions. Right now, people use private cars, on average, just 5 percent of the time, which means the cars spend the remaining 95 percent of the time standing idle in car parks and garages or on the street. This makes no sense in terms of sustainability, urban development or resource efficiency.\n\nFrazzoli’s start-up NuTonomy, which develops control software for autonomous vehicles, began drawing up plans to test self-driving cars in Singapore back in 2014. At around the same time, the professor published an article in which he investigated how replacing all the private vehicles in the 719-square-kilometre city-state with shared, self-driving vehicles would affect traffic volumes. His results showed that the mobility needs of Singapore’s entire population could be met with some 40 percent of the vehicles (350,000 instead of 800,000).\n\nOne year later, Prime Minister Lee Hsien Loong unveiled his vision of a “car-lite future” based on autonomous vehicles, the expansion of public transport and the fostering of slow traffic such as walking and cycling. With 5.5 million inhabitants and a population density of 7,697 people per square kilometre – compared with Switzerland’s figure of 203 – Singapore is more dependent on efficient transport than any other major metropolitan area.\n\nThat is why Singapore has spent years trying to crack down on demand for private cars by imposing high taxes and charging up to 70,000 dollars for the certificates of entitlement required to own a vehicle. More than ten companies are current- ly testing their systems in a 2-hectare test facility at Nanyang Technological University in the western part of Singapore Island. And plans are already in place to operate the first self- driving buses outside rush hours in three of the city’s suburbs starting in 2022.\n\nSimulating transformation: Pieter Fourie’s “laboratory” is located in the western part of Singapore. He works in a sunlit office on the sixth floor of the CREATE Tower, a building encased in vertical foliage at the National University of Singapore (NUS). Here, he conducts research into the cities of the future on behalf of ETH Zurich’s Future Cities Laboratory. Fourie heads up the Engaging Mobility project, which brought together government authorities and universities at a preliminary workshop in July 2017. The goal was to define the basic conditions required to implement city-wide, on-demand mobility using autonomous cars and buses.\n\nThe researchers used the results of the workshop to formulate key research questions such as: What do we do with the current supply of parking spaces if the majority of vehicles are constantly on the road? Do we need to redefine the layout of our roads? And what effect will auto- mated, electrified transport have on existing public transport, energy requirements and safety?\n\nFourie explores these and similar issues using the MATSim simulation platform developed by a group led by Professor Kay Axhausen at ETH Zurich’s Institute for Transport Planning and Systems. MATSim is agent-based, which means the simulation is driven by the behaviour of individual agents rather than by overarching rules. “On the basis of Singapore’s most recent demographics, we are modelling a synthetic population that is as close as possible to the real one,” Fourie says.\n\nWithin this population, each individual agent exhibits a certain mobility behaviour and has a specific destination based on real-life traffic data. Fourie is now at the stage of tinkering with the underlying conditions, including the number of vehicles employed, their size, the maximum permissible waiting times for passengers, the availability of parking spaces and a variety of different traffic flows. He then lets the synthetic population loose on the simulation for 24 hours. The system automatically evaluates how efficiently the individual agents were able to reach their destinations in each scenario.\n\nRight now, Fourie’s team is programming these kinds of simulations for the waterfront area of Tanjong ­Pagar, a district of some 2 square kilometres in the western part of Singapore. This site is currently being converted from a container terminal into a residential and commercial area. Fourie has already simulated more than 200,000 trips involving 60,000 individual agents. This included calculating how big the fleet of autonomous vehicles would need to be and how many kilometres the vehicles would have to cover to achieve an equivalent level of service in three different street typologies.\n\nThe researchers also simulated four different parking strategies for a fleet of 4-, 10- and 20-seater vehicles. Preliminary results suggest that the transport system is at its most efficient if the shared vehicles are allowed to park in the street when they stop receiving requests for pick-ups. That holds true even if it means temporarily reducing the roadway capacity by one lane. The researchers’ findings also suggest that having fewer, but correspondingly larger, pick-up and drop-off stations has a favourable impact on traffic flow by reducing the detours cars have to take to collect passengers. The stations also need to be big enough to accommodate different vehicle sizes. Fourie is hoping to have these kinds of simulations up and running for the entire island as early as next year.\n\nDespite these rapid developments in Singapore and the fledgling services coming online in Las Vegas, Emilio Frazzoli still sees plenty of challenges ahead, especially when it comes to dealing with chaotic environments. “We still don’t know exactly how autonomous vehicles should behave in traffic,” he says, explaining that this involves dozens of decision-making dilemmas that are an integral part of everyday traffic situations. For example, should a self-driving car cross a double line in order to avoid a potential collision? And what if an innocent road user is injured as a result of a manoeuvre designed to save a culpable driver from a fatal crash? These are the kinds of decisions that have to be defined when programming control algorithms. One key focus of Frazzoli’s current research is therefore the “rulebooks” that should be used to prioritise these various decision- making criteria in control algorithms. At the top of the hierarchy are rules designed to ensure road users’ safety. At the bottom are rules designed to enhance passenger comfort.\n\nIn a recent article, Frazzoli and his team estimated that it would take 200 rules in 12 hierarchy groups to prepare vehicles for every possible scenario, including low-priority rules such as not frightening animals on the edge of the road. Frazzoli feels the time has come for a broader public ­debate on autonomous driving: “The coding of safety and liability rules is not something we should simply leave in the hands of engineers working for private companies”. Ultimately, he argues, it is in everyone’s interest to incorporate our new, virtual drivers into urban traffic as smoothly as possible – much like we do with new human drivers, but with the greater levels of safety, predictability and efficiency that autonomous vehicles offer.",
   "named_entities": [
+    "ETH Zurich",
     "Emilio Frazzoli",
-    "Dynamic Systems",
     "Las Vegas Strip",
     "Prime Minister Lee Hsien",
     "Nanyang Technological University",
-    "Singapore Island",
-    "Pieter Fourie",
-    "National University",
     "Future Cities Laboratory",
-    "Engaging Mobility"
+    "Professor Kay Axhausen",
+    "Professor. Kay Axhausen",
+    "Dynamic Systems",
+    "Singapore Island"
   ],
   "topics": [
     "Research",
@@ -25,22 +25,27 @@
     "Communication"
   ],
   "keywords": [
-    "ETH Zurich",
-    "That",
     "Vehicles",
-    "With",
     "Autonomous",
+    "Frazzoli",
+    "Singapore",
+    "Cars",
     "Mobility",
-    "This"
+    "Traffic"
   ],
-  "summary": "",
+  "summary": "“The technical side of that was generally pretty cool, but it wasn’t really doing much to help solve the challenges society is facing.” In 2009, he found himself pondering a fundamental question: “Back then, the main argument for conducting research into self-driving cars was the idea that they would make road traffic safer.” While acknowledging the truth of that statement, at least in the long term, Frazzoli realised there was potentially a much larger, medium-term benefit to be gained from completely rethinking the issue of individual mobility for city dwellers....",
+  "content_structure": {
+    "paragraph_count": 15,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 1586,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +57,11 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.67,
+      "avg_word_length": 4.96,
+      "long_word_percentage": 29.26
+    }
   }
 }

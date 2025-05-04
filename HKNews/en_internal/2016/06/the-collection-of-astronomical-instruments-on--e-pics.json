@@ -5,13 +5,11 @@
   "source": "Unknown source",
   "main_content": "You will find several digital images, 360° views and content-related information on each object. The images can also be downloaded for free.\n\nThe collection is centred on the holdings of Rudolf Wolf, the first professor of astronomy at the Eidgenössisches Polytechnikum in Zurich and founder and first Director of the Eidgenössische Sternwarte Zurich. The instruments from the fields of astronomy, geodesy, chronometry and mathematics stem from the sixteenth to the twentieth centuries.\n\nThe online catalogue also contains instruments that we still do not know much about. We would be delighted if you could provide any feedback via the function \"Do you know more?\" Help us to complete the datasets by dating or describing the objects more accurately.\n\nE-Pics Collection of Astronomical Instruments",
   "named_entities": [
+    "Eidgenössische Sternwarte Zurich",
     "Rudolf Wolf",
     "Eidgenössisches Polytechnikum",
-    "Eidgenössische Sternwarte Zurich",
     "Pics Collection",
-    "Astronomical Instruments",
-    "Director",
-    "Help"
+    "Astronomical Instruments"
   ],
   "topics": [
     "University Administration",
@@ -20,27 +18,37 @@
   ],
   "keywords": [
     "Instruments",
-    "Images",
-    "Also",
+    "Astronomy",
     "Collection",
     "First",
-    "Astronomy",
+    "Images",
+    "Know",
     "Zurich"
   ],
-  "summary": "You will find several digital images, 360° views and content-related information on each object. The images can also be downloaded for free....",
+  "summary": "The collection is centred on the holdings of Rudolf Wolf, the first professor of astronomy at the Eidgenössisches Polytechnikum in Zurich and founder and first Director of the Eidgenössische Sternwarte Zurich....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 124,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Faculty"
     ],
     "context_tags": [
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.5,
+      "avg_word_length": 5.31,
+      "long_word_percentage": 32.26
+    }
   }
 }

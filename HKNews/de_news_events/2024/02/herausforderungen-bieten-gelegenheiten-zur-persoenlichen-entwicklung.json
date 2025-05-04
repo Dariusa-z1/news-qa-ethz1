@@ -5,16 +5,10 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Main article: An Leidenschaft für die Informatik fehlte es Georgette Weingärtner nie. An der ETH erlebt aber auch sie Situationen, in denen sich die Herausforderungen auftürmen. Im Video erzählt sie, wer und was ihr dabei hilft, diese zu meistern.\n\nBeratung für Studierende: Es stehen Ihnen Beratungsstellen für alle Situationen im Studium zur Verfügung.",
   "named_entities": [
-    "An Leidenschaft",
+    "ETH",
     "Georgette Weingärtner",
     "Im Video",
-    "Ihnen Beratungsstellen",
-    "Main",
-    "Informatik",
-    "Situationen",
-    "Herausforderungen",
-    "Studierende",
-    "Studium"
+    "Ihnen Beratungsstellen"
   ],
   "topics": [
     "Education",
@@ -22,21 +16,27 @@
     "Staff"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Situationen",
+    "Article",
+    "Article leidenschaft",
+    "Auftürmen",
+    "Auftürmen video",
+    "Beratung",
+    "Beratung studierende"
   ],
-  "summary": "Main article: An Leidenschaft für die Informatik fehlte es Georgette Weingärtner nie. An der ETH erlebt aber auch sie Situationen, in denen sich die Herausforderungen auftürmen....",
+  "summary": "Main article: An Leidenschaft für die Informatik fehlte es Georgette Weingärtner nie. Beratung für Studierende: Es stehen Ihnen Beratungsstellen für alle Situationen im Studium zur Verfügung....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 53,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students"
     ],
@@ -44,6 +44,11 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.25,
+      "avg_word_length": 5.51,
+      "long_word_percentage": 30.19
+    }
   }
 }

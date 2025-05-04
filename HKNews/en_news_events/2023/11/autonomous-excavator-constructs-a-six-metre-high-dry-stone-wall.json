@@ -5,16 +5,15 @@
   "source": "Johns RL, Wermelinger M, Mascaro R, Jud D, Hurkxkens I, Vasey L, Chli M, Gramazio F, Kohler M, Hutter M: A framework for robotic excavation and dry stone construction using on-site materials, Science Robotics , 22 November 2023, DOI: 10.1126/scirobotics.abp9758",
   "main_content": "In brief: • Until today, dry stone wall construction has involved vast amounts of manual labour.\n• A multidisciplinary team of ETH Zurich researchers developed a method of using an autonomous excavator to construct a dry-stone wall that is six metres high and sixty-five metres long.\n• Dry stone walls are resource efficient as they use locally sourced materials, such as concrete slabs that are low in embodied energy.\nETH Zurich researchers deployed an autonomous excavator, called HEAP, to build a six metre-high and sixty-five-metre-long dry-stone wall. The wall is embedded in a digitally planned and autonomously excavated landscape and park.\n\nThe team of researchers included: Gramazio Kohler Research, the Robotics Systems Lab, Vision for Robotics Lab, and the Chair of Landscape Architecture. They developed this innovative design application as part of the National Centre of Competence in Research for Digital Fabrication (NCCR dfab).\n\nUsing sensors, the excavator can autonomously draw a 3D map of the construction site and localise existing building blocks and stones for the wall’s construction. Specifically designed tools and machine vision approaches enable the excavator to scan and grab large stones in its immediate environment. It can also register their approximate weight as well as their centre of gravity. An algorithm determines the best position for each stone, and the excavator then conducts the task itself by placing the stones in the desired location. The autonomous machine can place 20 to 30 stones in a single consignment – about as many as one delivery could supply.",
   "named_entities": [
+    "ETH Zurich",
     "Gramazio Kohler Research",
     "Robotics Systems Lab",
     "Robotics Lab",
     "Landscape Architecture",
     "National Centre",
     "Digital Fabrication",
-    "Until",
-    "Zurich",
     "HEAP",
-    "Vision"
+    "NCCR"
   ],
   "topics": [
     "Research",
@@ -25,22 +24,27 @@
     "Communication"
   ],
   "keywords": [
-    "ETH Zurich",
     "Excavator",
     "Wall",
     "Stones",
-    "Stone",
+    "Autonomous",
     "Construction",
-    "Researchers"
+    "Researchers",
+    "Stone"
   ],
-  "summary": "In brief: • Until today, dry stone wall construction has involved vast amounts of manual labour....",
+  "summary": "• A multidisciplinary team of ETH Zurich researchers developed a method of using an autonomous excavator to construct a dry-stone wall that is six metres high and sixty-five metres long....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 2,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 254,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -49,6 +53,11 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.17,
+      "avg_word_length": 5.17,
+      "long_word_percentage": 28.74
+    }
   }
 }

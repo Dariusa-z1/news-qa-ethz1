@@ -5,13 +5,8 @@
   "source": "ETH Zurich Corporate Communications are happy to help with any enquiries about the film or its use",
   "main_content": "The aim of the film is to show a wide audience just what constitutes ETH Zurich, who we are, and where our strengths lie. And to avoid two minutes of patting ourselves on the back, it comes with a good measure of gently self-deprecating humour. After all, science, research and teaching should be fun!\n\nThe new film serves chiefly as a tool for ETH members to present the university at public engagements. It can be downloaded from our website in German, English, French and Italian, and in all standard formats.\n\nOf course, we also want the film to make the rounds on social media and spread far beyond Switzerland. So please – post it, share it and like it!\n\nETH Zurich Corporate Communications are happy to help with any enquiries about the film or its use.",
   "named_entities": [
-    "Zurich Corporate Communications",
-    "German",
-    "English",
-    "French",
-    "Italian",
-    "Switzerland",
-    "ETH Zurich"
+    "ETH Zurich",
+    "Zurich Corporate Communications"
   ],
   "topics": [
     "Research",
@@ -20,22 +15,27 @@
     "Technology & Innovation"
   ],
   "keywords": [
-    "ETH Zurich",
     "Film",
     "Zurich",
-    "With",
-    "Show",
-    "Wide",
-    "Audience"
+    "Audience",
+    "Audience constitutes",
+    "Avoid",
+    "Avoid minutes",
+    "Back"
   ],
-  "summary": "The aim of the film is to show a wide audience just what constitutes ETH Zurich, who we are, and where our strengths lie....",
+  "summary": "The aim of the film is to show a wide audience just what constitutes ETH Zurich, who we are, and where our strengths lie. The new film serves chiefly as a tool for ETH members to present the university at public engagements....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 136,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -46,6 +46,11 @@
       "Education",
       "Communications",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.0,
+      "avg_word_length": 4.43,
+      "long_word_percentage": 19.12
+    }
   }
 }

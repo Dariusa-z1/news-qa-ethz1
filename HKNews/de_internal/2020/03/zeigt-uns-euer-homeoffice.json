@@ -5,16 +5,8 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Für die einen ist es der Esstisch, für die anderen der Abstellraum und manche haben das Glück, in den Genuss eines richtigen Büros zu kommen. Eines haben aber fast alle von uns seit zwei Wochen gemeinsam: einen ganz neuen Arbeitsplatz. Wie sieht er bei euch aus? Schickt uns Fotos von euch in eurem Homeoffice an oder teilt sie auf Social Media mit dem Hashtag externe Seite #ETHathome . Die besten und lustigsten Fotos werden wir auf dem nächsten Cover des ETH-Mitarbeitermagazins «life» sowie auf Intern aktuell publizieren und auf den Social-Media-Kanälen der ETH teilen.\n\nÜbrigens: Wenn ihr das «life»-Magazin bisher ins Büro bekommen habt, könnt ihr das auf eure Wohnadresse ändern .",
   "named_entities": [
-    "Social Media",
-    "Social-Media-Kanälen",
-    "Esstisch",
-    "Abstellraum",
-    "Glück",
-    "Genuss",
-    "Büros",
-    "Wochen",
-    "Arbeitsplatz",
-    "Fotos"
+    "ETH",
+    "Social Media"
   ],
   "topics": [
     "Staff",
@@ -22,26 +14,37 @@
     "Infrastructure"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Fotos",
+    "Life",
+    "Abstellraum",
+    "Abstellraum glück",
+    "Aktuell",
+    "Aktuell publizieren",
+    "Arbeitsplatz"
   ],
-  "summary": "Für die einen ist es der Esstisch, für die anderen der Abstellraum und manche haben das Glück, in den Genuss eines richtigen Büros zu kommen....",
+  "summary": "Die besten und lustigsten Fotos werden wir auf dem nächsten Cover des ETH-Mitarbeitermagazins «life» sowie auf Intern aktuell publizieren und auf den Social-Media-Kanälen der ETH teilen....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 114,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.0,
+      "avg_word_length": 4.88,
+      "long_word_percentage": 18.42
+    }
   }
 }

@@ -5,6 +5,7 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Marcel Theodor Böni, Facility Management Jean-Pierre Lederer, ITS IT Procurement & Portfolio Martin Vogt, Services Department Rene Weber, Institute of Environmental Engineering\n\nHeinz Müller, Public Real Estate Management Division Roger Staerkle, Facility Management Marianne Wettstein , Institute of Agricultural Sciences\n\nTobias Bonwetsch, Chair of Architecture and Digital Fabrication Martin Huber , Institute for Transport Planning and Systems Anke-Christiane Kleint, Laboratory of Organic Chemistry Dr Oliver Kötting, Lecturer at the Group of Plant Biochemistry Dr Ping Ma, Institute of Electromagnetic Fields\n\nRolf Epprecht , Lecture Halls Jörg Leuenberger, Department of Environmental Sciences Kurt Mattenberger, Laboratory for Solid State Physics Barbara Schori, Services Departement Professor Paul Smith, Polymer Technology Group Margrit Spühler, Services Department Monika Stehle, ETH-Bibliothek Georg Strimmer, Facility Management Peter Vogel, Facility Management\n\nSacha Krug, Chair of Information Technology and Education",
   "named_entities": [
+    "ETH",
     "Marcel Theodor Böni",
     "Facility Management Jean-Pierre",
     "Portfolio Martin Vogt",
@@ -13,8 +14,7 @@
     "Public Real Estate Management",
     "Division Roger Staerkle",
     "Facility Management Marianne Wettstein",
-    "Agricultural Sciences Tobias Bonwetsch",
-    "Digital Fabrication Martin Huber"
+    "Agricultural Sciences Tobias Bonwetsch"
   ],
   "topics": [
     "University Administration",
@@ -27,20 +27,25 @@
   "keywords": [
     "Management",
     "Facility",
+    "Facility management",
     "Institute",
-    "Services",
     "Department",
-    "Martin",
-    "Environmental"
+    "Services",
+    "Chair"
   ],
-  "summary": "",
+  "summary": "Marcel Theodor Böni, Facility Management Jean-Pierre Lederer, ITS IT Procurement & Portfolio Martin Vogt, Services Department Rene Weber, Institute of Environmental Engineering\n\nHeinz Müller, Public Real Estate Management Division Roger Staerkle, Facility Management Marianne Wettstein , Institute of Agricultural Sciences\n\nTobias Bonwetsch, Chair of Architecture and Digital Fabrication Martin Huber , Institute for Transport Planning and Systems Anke-Christiane Kleint, Laboratory of Organic Chemistry Dr Oliver Kötting, Lecturer at the Group of Plant Biochemistry Dr Ping Ma, Institute of Electromagnetic Fields\n\nRolf Epprecht , Lecture Halls Jörg Leuenberger, Department of Environmental Sciences Kurt Mattenberger, Laboratory for Solid State Physics Barbara Schori, Services Departement Professor Paul Smith, Polymer Technology Group Margrit Spühler, Services Department Monika Stehle, ETH-Bibliothek Georg Strimmer, Facility Management Peter Vogel, Facility Management\n\nSacha Krug, Chair of Information Technology and Education",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 130,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -52,6 +57,11 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 130.0,
+      "avg_word_length": 6.72,
+      "long_word_percentage": 50.77
+    }
   }
 }

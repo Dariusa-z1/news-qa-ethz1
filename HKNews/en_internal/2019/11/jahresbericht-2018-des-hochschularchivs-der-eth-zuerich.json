@@ -5,11 +5,9 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "The amount of genuinely digital documents obtained and catalogued by the archives is constantly growing. Last year they received 3400 GB of archival material. Despite the ongoing digitization of the ETH Zurich administration over the past decades, paper documents still form a major part of the archival material that enters the archives. The number of consultations and inquiries is growing continuously. You will find facts and figures as well as an overview of the work of the archives in the 2018 annual report .\n\nETH Zurich University Archives belongs to ETH Library. It is responsible for preservation, cataloguing and accessibility of important documents of ETH Zurich and the ETH Board as well as personal papers of prominent former members of ETH.\n\n#KnowMore – The prepared content issued by ETH Library is at your free disposal and gives you a head start.",
   "named_entities": [
+    "ETH Zurich",
     "Zurich University Archives",
-    "Library",
-    "Board",
-    "KnowMore",
-    "ETH Zurich"
+    "GB"
   ],
   "topics": [
     "Staff",
@@ -18,22 +16,27 @@
     "Communication"
   ],
   "keywords": [
-    "ETH Zurich",
     "Archives",
     "Documents",
     "Zurich",
-    "Growing",
     "Archival",
-    "Material"
+    "Archival material",
+    "Growing",
+    "Library"
   ],
-  "summary": "The amount of genuinely digital documents obtained and catalogued by the archives is constantly growing. Last year they received 3400 GB of archival material....",
+  "summary": "It is responsible for preservation, cataloguing and accessibility of important documents of ETH Zurich and the ETH Board as well as personal papers of prominent former members of ETH....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 139,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -43,6 +46,11 @@
       "Technology",
       "Administrative",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.38,
+      "avg_word_length": 5.12,
+      "long_word_percentage": 32.37
+    }
   }
 }

@@ -4,38 +4,43 @@
   "date": "2014-10-01",
   "source": "Unbekannte Quelle",
   "main_content": "Grund sind Lieferprobleme eines Lieferanten. Der Online-Zugriff auf sämtliche Titel ist jedoch sichergestellt.",
-  "named_entities": [
-    "Der Online-Zugriff",
-    "Grund",
-    "Lieferprobleme",
-    "Lieferanten",
-    "Titel"
-  ],
+  "named_entities": [],
   "topics": [
     "University News"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Grund",
+    "Grund lieferprobleme",
+    "Jedoch",
+    "Jedoch sichergestellt",
+    "Lieferanten",
+    "Lieferanten onlinezugriff",
+    "Lieferprobleme"
   ],
   "summary": "Grund sind Lieferprobleme eines Lieferanten. Der Online-Zugriff auf sämtliche Titel ist jedoch sichergestellt.",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 14,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "University News"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 7.0,
+      "avg_word_length": 6.79,
+      "long_word_percentage": 35.71
+    }
   }
 }

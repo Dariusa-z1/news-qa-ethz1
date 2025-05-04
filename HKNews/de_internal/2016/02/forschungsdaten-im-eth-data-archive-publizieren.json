@@ -5,16 +5,12 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Das ETH Data Archive bietet Angehörigen der ETH Zürich diese Dienstleistung für Daten, die zugleich langfristig verfügbar bleiben sollen. Zwei Möglichkeiten stehen zur Auswahl:\n\n• Einmalige Uploads starten Sie über ein Web-Interface\n• Für regelmässige und grössere Uploads richten wir Ihnen ein automatisches Verfahren ein\nZudem können Sie Ordnerstrukturen mit dem Tool docuteam packer erstellen und bearbeiten, mit Detailangaben versehen und so Daten strukturiert ins ETH Data Archive hochladen. Gerne beraten wir Sie zum geeigneten Vorgehen.\n\nWeitere Informationen zum digitalen Datenerhalt",
   "named_entities": [
+    "ETH Zürich",
     "Data Archive",
     "Zwei Möglichkeiten",
     "Einmalige Uploads",
-    "Web-Interface",
     "Sie Ordnerstrukturen",
-    "Weitere Informationen",
-    "Angehörigen",
-    "Zürich",
-    "Dienstleistung",
-    "Daten"
+    "Weitere Informationen"
   ],
   "topics": [
     "Staff",
@@ -23,20 +19,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Archive",
+    "Data",
+    "Data archive",
+    "Daten",
+    "Uploads",
+    "Angehörigen"
   ],
-  "summary": "Das ETH Data Archive bietet Angehörigen der ETH Zürich diese Dienstleistung für Daten, die zugleich langfristig verfügbar bleiben sollen....",
+  "summary": "Zwei Möglichkeiten stehen zur Auswahl:\n\n• Einmalige Uploads starten Sie über ein Web-Interface\n• Für regelmässige und grössere Uploads richten wir Ihnen ein automatisches Verfahren ein\nZudem können Sie Ordnerstrukturen mit dem Tool docuteam packer erstellen und bearbeiten, mit Detailangaben versehen und so Daten strukturiert ins ETH Data Archive hochladen....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 2,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 80,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Students",
       "Staff"
@@ -44,6 +46,11 @@
     "context_tags": [
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.0,
+      "avg_word_length": 6.26,
+      "long_word_percentage": 43.75
+    }
   }
 }

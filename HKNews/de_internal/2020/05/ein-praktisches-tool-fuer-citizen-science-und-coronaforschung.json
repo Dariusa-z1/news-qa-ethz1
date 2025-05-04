@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Mit der Intelligenz von Mensch und Maschine: Viele wissenschaftliche Studien untersuchen derzeit, wie man das Coronavirus und die Krankheit COVID-19 eindämmen kann. Sie alle zu lesen und dann den politischen Entscheidungsträgern schnell eine Gesamtzusammenfassung mit allen nützlichen Informationen bereitzustellen, ist unmöglich.\n\nVergleichbares gilt für die unzähligen Beiträge, die auf den sozialen Medien Tipps und Tricks, Tatsachen und Meinungen verbreiten, wie man sich vor COVID-19 wirksam schützen kann. Auch sie kann niemand auf einen einzigen Blick oder Knopfdruck bündeln und gesamthaft auswerten.\n\nTechniken der künstlichen Intelligenz können jedoch helfen, die relevanten Informationen aus grossen Text- und Bildmengen herauszufiltern und zu untersuchen. Ebenso lässt sich die kollektive Intelligenz von Menschen nutzen, um Text-, Ton- und Bildinformationen einzuschätzen.\n\nEinen Ansatz, der Künstliche Intelligenz mit der «Schwarmintelligenz» von Internetnutzerinnen und -nutzern (sog. Crowdsourcing) kombiniert, verfolgen derzeit vier Forschungsprojekte, die auf der Website des externe Seite Citizen Science Center Zürich , einem Kompetenzzentrum von ETH und Universität Zürich, öffentlich zugänglich sind. Alle vier sind Citizen Science-Projekte, die so aufbereitet sind, dass Freiwillige («Bürger» oder «Bürgerinnen») mitmachen können.\n\nKI sucht nach relevanten Tweets, Menschen ordnen sie ein.\n\nEines der Projekte kombiniert zum Beispiel Crowdsourcing und maschinelles Lernen, um Fotos auszuwerten, die auf Twitter veröffentlicht sind, und die Informationen über das Abstandhalten («Social Distancing») und die Verwendung von Schutz- oder Hygienemaske im öffentlichen Raum enthalten.\n\nDabei treffen maschinelle Lernalgorithmen eine erste Auswahl an relevanten Tweets mit Fotos. Die Mitwirkenden bestätigen dann die Relevanz eines Fotos, indem sie Fragen beantworten und über ein Auswahl-Menü die Details hinzufügen, die die KI nicht erfassen kann. Auf diese Weise lassen sich die Algorithmen verbessern und präzisere Informationen gewinnen, die ihrerseits Rückschlüsse auf die Wirksamkeit von Abstandhalten und Maskentragen ermöglichen.\n\nDer Inhalt von wissenschaftlichen Artikeln wird Schlagworten zugeteilt.\n\nDer neue «Citizen Science Project Builder»: In einem anderen Projekt werden wissenschaftliche Artikel ausgewertet, um relevante Informationen über politische Massnahmen gegen COVID-19 zu finden, auszuwerten und an die Politik weiterzugeben. Auch hier geht es darum, dass zum einen KI die Suche nach relevanten Artikeln unterstützt, zum andern Freiwillige die Genauigkeit der Ergebnisse erhöhen können, indem sie Fragen zur inhaltlichen Relevanz beantworten und den Inhalt per Mausklick Schlagworten zuteilen.\n\nMöglich macht diese Projekte der « externe Seite Citizen Science Project Builder »: mit diesem webbasierten Tool können Forschende, Studierende und Interessierte ein Citizen Science-Projekt durchführen.\n\nDie Erstversion unterstützt Projekte, in denen die Mitwirkenden grosse Bild- oder Textmengen wie Satellitenfotos oder Social-Media-Beiträge (z.B. Tweets), PDF-Dateien (z.B. wissenschaftliche Artikel), Videoclips oder Audioaufzeichnungen (z.B. Geräusche) beschreiben und einordnen. Die Benutzeroberfläche erfordert keine speziellen Technik- und Programmierfähigkeiten.\n\nProject Builder für eigene Projekte nutzen: Das Team des Citizen Science Center, das den Project Builder entwickelt hat, freut sich, wenn ETH-Angehörige das Tool nutzen, um ein externe Seite eigenes Projekt zu erstellen .\n\nAuch Feedback ist willkommen, um das Tool weiterzuentwickeln. Das Team bietet auch Einführungs-Workshops zum Builder an und ist jederzeit per Email erreichbar: .\n\nWeitere Informationen finden sich auf der Webseite des Citizen Science Project Builder. Diese enthält aktuell 10 externe Seite Projekte .",
   "named_entities": [
-    "Medien Tipps",
-    "Einen Ansatz",
-    "Künstliche Intelligenz",
-    "Seite Citizen Science Center",
+    "ETH",
     "Universität Zürich",
-    "Citizen Science-Projekte",
-    "Beispiel Crowdsourcing",
-    "Social Distancing",
-    "Die Mitwirkenden",
-    "Auswahl-Menü"
+    "Citizen Science Project Builder",
+    "COVID",
+    "KI",
+    "Seite Citizen Science Center",
+    "Seite Citizen Science Project",
+    "Medien Tipps",
+    "Künstliche Intelligenz",
+    "Citizen Science-Projekte"
   ],
   "topics": [
     "Research",
@@ -26,21 +26,26 @@
   ],
   "keywords": [
     "University of Zurich",
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Citizen",
+    "Builder",
+    "Informationen",
+    "Citizen science",
+    "Project",
+    "Project builder"
   ],
-  "summary": "Mit der Intelligenz von Mensch und Maschine: Viele wissenschaftliche Studien untersuchen derzeit, wie man das Coronavirus und die Krankheit COVID-19 eindämmen kann....",
+  "summary": "Eines der Projekte kombiniert zum Beispiel Crowdsourcing und maschinelles Lernen, um Fotos auszuwerten, die auf Twitter veröffentlicht sind, und die Informationen über das Abstandhalten («Social Distancing») und die Verwendung von Schutz- oder Hygienemaske im öffentlichen Raum enthalten....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 503,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Researchers",
@@ -51,6 +56,11 @@
       "Infrastructure",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.23,
+      "avg_word_length": 6.39,
+      "long_word_percentage": 42.15
+    }
   }
 }

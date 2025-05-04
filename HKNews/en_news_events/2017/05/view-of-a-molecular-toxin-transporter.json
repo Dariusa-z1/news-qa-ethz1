@@ -5,16 +5,12 @@
   "source": "Taylor NMI, Manolaridis I, Jackson SM, Kowal J, Stahlberg H, Locher KP: Structure of the human multidrug transporter ABCG2. Nature, 29. Mai 2017, doi: 10.1038/nature22345",
   "main_content": "Double-edged sword: Almost all living creatures have evolved mechanisms to remove toxins that have entered their cells: molecular pumps located in the cell membrane recognise harmful substances in the cell interior and transport them outside. Researchers from ETH Zurich and the Biozentrum of the University of Basel have now defined the three-dimensional structure of such a transport protein in humans (the protein ABCG2) at the atomic level. This is the first time such a structure has been defined for a human multi-drug transporter. The scientists published their work in the latest issue of the scientific journal Nature.\n\n“The protein ABCG2 recognises and transports at least 200 known substances,” explains Kaspar Locher, Professor of Molecular Membrane Biology at ETH Zurich and head of the study. These substances include alkaloids – plant substances that we ingest with our food – but also substances produced by the body itself, such as uric acid or bilirubin (a metabolite of haemoglobin).\n\nThe protein is active in the intestinal wall, for example, where it prevents harmful substances from entering the blood; it is also found in the cells of the blood-brain barrier, where it keeps toxins away from the brain. Proteins such as ABCG2 also play an important role in mammary glands and in the placenta, where they ensure that toxins do not enter the breast milk or the bloodstream of an unborn child.\n\nThe role of multi-drug transporters does have a downside, however: the proteins also pump some medications out of cells, preventing them from acting in those cells. “This means that when developing medications, it is always important to investigate whether they are recognised by transport proteins such as ABCG2,” says Locher. Medicines administered orally have to penetrate the intestinal wall, and those meant for the brain must pass the blood-brain barrier – which they can only do if ABCG2 doesn’t recognise them.\n\nIt is well known, however, that ABCG2 recognises some cancer drugs (chemotherapeutics). This is particularly serious because certain tumour cells are able to increase the number of ABCG2 proteins in their cell membranes. Such cells efficiently pump the chemotherapeutic substance outwards – meaning they are resistant to the drug.\n\nNow that scientists know the structure of ABCG2, in future they may be able to simulate on a computer whether new drugs will be recognised by the transport protein. Researchers could also use computer modelling to develop better antibodies for the diagnosis of drug-resistant cancer cells, or drugs that inhibit the transport protein. Such substances could help to overcome resistances to particular chemotherapeutics. “The contributions of our research to medicine, particularly cancer medicine, should really be seen in the longer term. We are primarily building the foundations,” emphasises Locher.\n\nABCG2 is a very mobile molecule, which made it difficult to determine its atomic structure. By using stabilising antibodies, however, the scientists succeeded in immobilising the protein. The three-dimensional structure was determined using cryo-electron microscopy by the ETH researchers in collaboration with Henning Stahlberg, a professor at the Biozentrum of the University of Basel, and his group. “We have recently been working intensively on optimising the resolution capacity of our electron microscopes, and substantially automating them at the same time. This has now resulted in an incredibly fast structure determination pipeline,” says Stahlberg.\n\nCryo-electron microscopy is a comparatively new technology for determining atomic molecular structures. “This technology has triggered a revolution in structural biology,” says Locher. In view of its importance, ETH Zurich will continue to invest in the method and will acquire a second high-end cryo-electron microscope for the ScopeM microscopy centre. It will be available to all life sciences researchers to study molecules and structures with atomic resolution.\n\nThe study was financed by the National Centre of Competence in Research (NCCR) TransCure .",
   "named_entities": [
-    "Kaspar Locher",
+    "ETH Zurich",
     "Molecular Membrane Biology",
+    "Kaspar Locher",
     "Henning Stahlberg",
     "National Centre",
-    "Double",
-    "Almost",
-    "Zurich",
-    "Biozentrum",
-    "University",
-    "Basel"
+    "NCCR"
   ],
   "topics": [
     "Research",
@@ -25,22 +21,27 @@
     "Infrastructure"
   ],
   "keywords": [
-    "ETH Zurich",
     "Abcg2",
-    "That",
     "Cells",
-    "Such",
     "Protein",
-    "Have"
+    "Substances",
+    "Structure",
+    "Transport",
+    "Atomic"
   ],
-  "summary": "",
+  "summary": "Researchers from ETH Zurich and the Biozentrum of the University of Basel have now defined the three-dimensional structure of such a transport protein in humans (the protein ABCG2) at the atomic level....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 630,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +52,11 @@
       "Catering",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.72,
+      "avg_word_length": 5.34,
+      "long_word_percentage": 31.11
+    }
   }
 }

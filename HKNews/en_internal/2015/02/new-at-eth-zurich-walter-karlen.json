@@ -5,16 +5,11 @@
   "source": "Unknown source",
   "main_content": "Main article: How would you explain your research to a child? We develop computer programs that help to assess your health. The cool thing is that we can install these programs on a mobile phone and use its sensors. If you have a cough and feel sick, for example, your mother might use her mobile to decide whether you should just stay in bed or should rather go to the doctor. Our systems work much like the tricorder that the ship's doctor, Dr McCoy, uses on the Starship Enterprise.\n\nHow did you end up doing research on mobile health systems? I was always very interested in the miniaturisation and mobilisation of robots. Their measurement systems are highly dependent on environmental conditions. For automated medical applications you have to go a step further, since every patient behaves differently and many unknown parameters can influence diagnosis or treatment. I would like to contribute to individualised medicine by means of intelligent technology.\n\nWhat is your favourite book and why? I am an avid comic book fan and prefer to read them in their original language. My favourite is the classic “A la recherche de Peter Pan” (In Search of Peter Pan) by the artist Cosey from French-speaking Switzerland. His characters are fascinating, and the mountain worlds full of atmosphere in their colouring. That’s why I also have pictures by Cosey hanging on my office walls.\n\nAbout Walter Karlen: Walter Karlen , born in 1979 in Switzerland, has been professor for mobile health systems at the Department for Health Science and Technology (D-HEST) since October 2014. The internationally recognised researcher works on individualised methods and devices for use in healthcare. Specifically, he develops biomedical sensors that can be deployed via wearable systems (e.g. mobile phones) away from clinical centres in order to investigate the health of selected population groups.\n\nWith the appointment of Walter Karlen, the Department of Health Sciences and Technology is strengthening its focus in the area of medical technology, rehabilitation and care.",
   "named_entities": [
-    "Starship Enterprise",
     "Peter Pan",
-    "In Search",
-    "About Walter Karlen",
     "Walter Karlen",
-    "Health Science",
-    "Health Sciences",
-    "Main",
-    "McCoy",
-    "Cosey"
+    "Department of Health Sciences",
+    "Starship Enterprise",
+    "HEST"
   ],
   "topics": [
     "Technology & Innovation",
@@ -28,19 +23,24 @@
     "Health",
     "Mobile",
     "Systems",
-    "Your",
-    "That",
     "Technology",
-    "Have"
+    "Karlen",
+    "Walter",
+    "Walter karlen"
   ],
-  "summary": "Main article: How would you explain your research to a child? We develop computer programs that help to assess your health....",
+  "summary": "About Walter Karlen: Walter Karlen , born in 1979 in Switzerland, has been professor for mobile health systems at the Department for Health Science and Technology (D-HEST) since October 2014....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 335,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +50,11 @@
       "Technology",
       "Research",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.95,
+      "avg_word_length": 5.02,
+      "long_word_percentage": 27.16
+    }
   }
 }

@@ -5,16 +5,11 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Im vergangenen November erschütterten Nachrichten aus China die Forschungsgemeinschaft. Der Wissenschaftler He Jiankui behauptete, er habe die Genome von Zwillingsmädchen mit der CRISPR/Cas-Technologie manipuliert. Effy Vayena, Professorin für Bioethik an der ETH Zürich, und Hantao Zhao, ein chinesischer Doktorand bei Disney Research und am Lehrstuhls für Kognitionswissenschaften an der ETH Zürich, diskutieren die ethischen Auswirkungen dieses Falles. Spielt die Nationalität von Forschenden eine Rolle bei ethischen Ansichten und wie beeinflusst der globale Wettbewerb in der Wissenschaft ethische Entscheidungen?\n\nAktuelle Folge des ETH-Podcasts anhören",
   "named_entities": [
-    "Der Wissenschaftler He Jiankui",
-    "Cas-Technologie",
+    "ETH Zürich",
     "Effy Vayena",
     "Hantao Zhao",
     "Disney Research",
-    "Aktuelle Folge",
-    "November",
-    "Nachrichten",
-    "China",
-    "Forschungsgemeinschaft"
+    "Aktuelle Folge"
   ],
   "topics": [
     "Research",
@@ -23,20 +18,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Ethischen",
+    "Zürich",
+    "Aktuelle",
+    "Aktuelle folge",
+    "Anhören",
+    "Ansichten"
   ],
-  "summary": "Im vergangenen November erschütterten Nachrichten aus China die Forschungsgemeinschaft....",
+  "summary": "Effy Vayena, Professorin für Bioethik an der ETH Zürich, und Hantao Zhao, ein chinesischer Doktorand bei Disney Research und am Lehrstuhls für Kognitionswissenschaften an der ETH Zürich, diskutieren die ethischen Auswirkungen dieses Falles....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 86,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -46,6 +47,11 @@
       "Research",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.2,
+      "avg_word_length": 6.56,
+      "long_word_percentage": 39.53
+    }
   }
 }

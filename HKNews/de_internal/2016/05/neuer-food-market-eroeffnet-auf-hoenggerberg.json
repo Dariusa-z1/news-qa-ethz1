@@ -5,16 +5,10 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Der «food market» ist ein weiterer Meilenstein der Arealstrategie Gastronomie & Detailhandel der ETH Zürich. Nach vier Jahren der Planung und zwei weiteren Jahren der Realisierung besticht der neue Gastronomiebetrieb unter anderem durch seine moderne und hochwertige Gestaltung.\n\nUnter der Projektleitung der ETH-Immobilien wurde die ehemalige Physik-Mensa im Gebäude HPR komplett saniert, umgebaut und teilweise erweitert. Neben der Neugestaltung des Restaurants wurde die gesamte Haustechnik ersetzt und das Gebäude nach den aktuellen energetischen Anforderungen saniert.\n\nKulinarisch überzeugt der neue «food market» mit einem vielseitigen Angebot: Zur Auswahl stehen vegetarische Gerichte, Pizza und Pasta sowie Grill-Spezialitäten. Mit den drei Themen-Countern und der hochwertigen und modernen Gestaltung ist das Restaurant auch konzeptionell ein Novum.\n\nDer Gastraum kann in der essensfreien Zeit auch als Arbeitsraum für Studierende genutzt werden und wird durch das neu gestaltete Atrium weiter aufgewertet. Rund 620 Innenplätze stehen zur Verfügung. Neu erhält der Betrieb zudem eine weitere Sitzterrasse und somit auch einen Zugang von der Ostseite.",
   "named_entities": [
+    "ETH Zürich",
     "Arealstrategie Gastronomie",
-    "Physik-Mensa",
     "Zur Auswahl",
-    "Grill-Spezialitäten",
-    "Themen-Countern",
-    "Der Gastraum",
-    "Meilenstein",
-    "Detailhandel",
-    "Zürich",
-    "Jahren"
+    "HPR"
   ],
   "topics": [
     "Catering & Food",
@@ -26,21 +20,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "Building",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Food",
+    "Food market",
+    "Gebäude",
+    "Gestaltung",
+    "Jahren",
+    "Market"
   ],
-  "summary": "Der «food market» ist ein weiterer Meilenstein der Arealstrategie Gastronomie & Detailhandel der ETH Zürich....",
+  "summary": "Nach vier Jahren der Planung und zwei weiteren Jahren der Realisierung besticht der neue Gastronomiebetrieb unter anderem durch seine moderne und hochwertige Gestaltung....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 160,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students"
     ],
@@ -49,6 +48,11 @@
       "Infrastructure",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.78,
+      "avg_word_length": 6.12,
+      "long_word_percentage": 37.5
+    }
   }
 }

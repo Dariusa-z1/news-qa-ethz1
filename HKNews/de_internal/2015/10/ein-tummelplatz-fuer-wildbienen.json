@@ -5,16 +5,11 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Rund 600 Wildbienenarten gibt es in der Schweiz. Diese unterscheiden sich stark in ihren Blütenpräferenzen und Ansprüchen für Niststrukturen. Nisten die einen etwa in morschem Totholz oder sandigem Boden, hausen andere Bienen wiederum gerne in leeren Schneckenhäusern. Jedoch ist knapp die Hälfte der Wildbienenarten in der Schweiz bedroht. Das ETH-Spin-Off Wildbiene + Partner hat nun an der ETH Zürich zwei Wildbienenparadiese angelegt, welche die Anforderungen der unterschiedlichen Wildbienenarten erfüllen und im kommenden Frühling viele der kleinen Tierchen beherbergen sollen.\n\nDie beiden Areale befinden sich auf dem Campus Hönggerberg am Robert-Gnehm-Weg seitlich des HPV-Gebäudes und im Raum ETH Zürich Zentrum hinter dem Gewächshaus am Häldeliweg. Die Areale sind begehbar und für die Besucher mit Infotafeln ausgeschildert.",
   "named_entities": [
-    "Spin-Off Wildbiene",
     "Campus Hönggerberg",
-    "Robert-Gnehm-Weg",
+    "ETH Zürich",
+    "Spin-Off Wildbiene",
     "Zürich Zentrum",
-    "Die Areale",
-    "Rund",
-    "Wildbienenarten",
-    "Schweiz",
-    "Blütenpräferenzen",
-    "Ansprüchen"
+    "HPV"
   ],
   "topics": [
     "Infrastructure",
@@ -24,20 +19,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Wildbienenarten",
+    "Areale",
+    "Schweiz",
+    "Zürich",
+    "Anforderungen",
+    "Anforderungen unterschiedlichen"
   ],
-  "summary": "Rund 600 Wildbienenarten gibt es in der Schweiz. Diese unterscheiden sich stark in ihren Blütenpräferenzen und Ansprüchen für Niststrukturen....",
+  "summary": "Das ETH-Spin-Off Wildbiene + Partner hat nun an der ETH Zürich zwei Wildbienenparadiese angelegt, welche die Anforderungen der unterschiedlichen Wildbienenarten erfüllen und im kommenden Frühling viele der kleinen Tierchen beherbergen sollen....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 119,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -45,6 +46,11 @@
     "context_tags": [
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.0,
+      "avg_word_length": 5.92,
+      "long_word_percentage": 31.93
+    }
   }
 }

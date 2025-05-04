@@ -5,16 +5,9 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "There are around 600 species of wild bees in Switzerland. These species vary greatly in their preferred flowers and nesting structures. While some like to nest in decaying old wood or in sandy soil, other bees prefer to live in empty snail shells. That said, almost half of all species of wild bees in Switzerland are under threat. The ETH Zurich spin-off “Wildbiene + Partner” has now created two havens for wild bees at ETH Zurich. These safe places are designed to meet the requirements of different species of wild bees and accommodate many of these little creatures over the coming spring.\n\nThe two areas are located on the Hönggerberg campus on Robert-Gnehm-Weg on the HPV side, and at ETH Zurich’s Zentrum campus behind the greenhouse on Häldeliweg. These areas are open to the public and signposted with information panels for visitors.",
   "named_entities": [
-    "Robert-Gnehm-Weg",
-    "There",
-    "Switzerland",
-    "Zurich",
-    "Wildbiene",
-    "Partner",
+    "ETH Zurich",
     "Hönggerberg",
-    "Zentrum",
-    "Häldeliweg",
-    "ETH Zurich"
+    "HPV"
   ],
   "topics": [
     "Infrastructure",
@@ -24,28 +17,38 @@
     "Communication"
   ],
   "keywords": [
-    "ETH Zurich",
     "Hönggerberg Campus",
     "Bees",
     "Species",
     "Wild",
-    "These",
-    "Switzerland"
+    "Wild bees",
+    "Species wild",
+    "Zurich"
   ],
-  "summary": "There are around 600 species of wild bees in Switzerland. These species vary greatly in their preferred flowers and nesting structures....",
+  "summary": "The ETH Zurich spin-off “Wildbiene + Partner” has now created two havens for wild bees at ETH Zurich....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 145,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "General Public"
     ],
     "context_tags": [
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.12,
+      "avg_word_length": 4.72,
+      "long_word_percentage": 19.31
+    }
   }
 }

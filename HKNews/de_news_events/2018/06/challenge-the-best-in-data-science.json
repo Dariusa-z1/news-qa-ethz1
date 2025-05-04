@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Die Weiterbildungsoffensive der ETH Zürich gewinnt an Fahrt. Nachdem die Hochschule im April mit Einstein die School for Continuing Education lanciert und die neuen Programme in Cyber Security und Materialien und Fertigungstechnologie vorgestellt hat, präsentiert sie heute bereits ein weiteres Angebot: Das Diploma of Avanced Studies ETH in Data Science. Das Programm vermittelt die neuesten Kenntnisse, Methoden und Technologien im Bereich Datenwissenschaften. Es baut auf den gleichen Lerneinheiten auf wie der gleichnamige Masterstudiengang, den die ETH im Herbstsemester 2017 startete.\n\nSo macht die ETH aktuelles Wissen aus der Forschung Berufstätigen zugänglich, die im Alltag vertiefte Kenntnisse in Datenwissenschaften benötigen. Zuständig für das Weiterbildungsprogramm sind die drei Departemente Informatik, Informationstechnologie und Elektrotechnik sowie Mathematik. Entsprechend breit sind das Angebot an Kursen und die Wahlmöglichkeiten der Studierenden.\n\nNeben Lerneinheiten aus dem Masterstudium steht ein exklusives sogenanntes Capstone-Projekt auf dem Programm: Ein individuelles Forschungsprojekt, in dem die Studierenden in der Regel von Forschenden aus dem Swiss Data Science Center betreut werden. In diesem Center bündeln die ETH Zürich und die EPFL seit 2017 ihre Kompetenzen im Bereich Datenwissenschaften.\n\nBewerben für das berufsbegleitende Programm können sich Fachleute mit Hintergrund in Informatik, Elektroingenieurswissenschaften, Mathematik oder einem verwandten Gebiet. Für einen erfolgreichen Abschluss sind mindestens 35 Kreditpunkte notwendig, was einem berufsbegleitenden Studium von einem bis zwei Jahren entspricht. Das Programm kostet inklusive Schulgeld CHF 12'000.\n\nWer zum Pionierjahrgang gehören will, muss sich schnell entscheiden: Das Bewerbungsfenster ist bis 31. Juli 2018 offen (spätere Anmeldungen auf Anfrage). Weitere Informationen zum Studiengang",
   "named_entities": [
-    "Die Weiterbildungsoffensive",
+    "ETH Zürich",
+    "Bereich Datenwissenschaften",
+    "Swiss Data Science Center",
     "Continuing Education",
     "Cyber Security",
-    "Das Diploma",
     "Avanced Studies",
-    "Data Science",
-    "Das Programm",
-    "Bereich Datenwissenschaften",
     "Forschung Berufstätigen",
-    "Departemente Informatik"
+    "Departemente Informatik",
+    "Neben Lerneinheiten",
+    "Weitere Informationen"
   ],
   "topics": [
     "Research",
@@ -26,20 +26,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Programm",
+    "Datenwissenschaften",
+    "Angebot",
+    "Bereich",
+    "Bereich datenwissenschaften",
+    "Center"
   ],
-  "summary": "Die Weiterbildungsoffensive der ETH Zürich gewinnt an Fahrt....",
+  "summary": "Nachdem die Hochschule im April mit Einstein die School for Continuing Education lanciert und die neuen Programme in Cyber Security und Materialien und Fertigungstechnologie vorgestellt hat, präsentiert sie heute bereits ein weiteres Angebot: Das Diploma of Avanced Studies ETH in Data Science....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 246,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -49,6 +55,11 @@
       "Research",
       "Education",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.4,
+      "avg_word_length": 6.6,
+      "long_word_percentage": 41.46
+    }
   }
 }

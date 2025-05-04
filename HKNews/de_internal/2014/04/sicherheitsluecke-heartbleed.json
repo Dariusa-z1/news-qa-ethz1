@@ -5,42 +5,47 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Ein grosses Thema der letzten Tage war die Sicherheitslücke namens «Heartbleed». Diese könnte beispielsweise Web Stores, Internetbanking oder generell sämtliche Internetseiten, welche mit «https:» beginnen, betreffen.\n\nDie Informatikdienste empfehlen jedem Benutzenden, alle Passwörter die mit dem ETH Account (nethz) in Verbindung stehen, umgehend hier zu ändern. Sie garantieren ab diesem Zeitpunkt, dass die Systeme sicher sind.\n\nMehr Informationen zur Passwortänderung gibt es im ID-Blog .",
   "named_entities": [
+    "ETH",
     "Web Stores",
-    "Die Informatikdienste",
     "Mehr Informationen",
-    "Thema",
-    "Tage",
-    "Sicherheitslücke",
-    "Heartbleed",
-    "Internetbanking",
-    "Internetseiten",
-    "Benutzenden"
+    "ID"
   ],
   "topics": [
     "Communication"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Account",
+    "Account nethz",
+    "Beginnen",
+    "Beginnen betreffen",
+    "Beispielsweise",
+    "Beispielsweise stores",
+    "Benutzenden"
   ],
-  "summary": "Ein grosses Thema der letzten Tage war die Sicherheitslücke namens «Heartbleed»....",
+  "summary": "Die Informatikdienste empfehlen jedem Benutzenden, alle Passwörter die mit dem ETH Account (nethz) in Verbindung stehen, umgehend hier zu ändern....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 65,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.0,
+      "avg_word_length": 6.28,
+      "long_word_percentage": 35.38
+    }
   }
 }

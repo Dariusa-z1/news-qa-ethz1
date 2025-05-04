@@ -5,8 +5,6 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Of these, 61 % are journal articles and 24 % conference reports.\n\nETH E-Citations provides details on a long-term basis of the academic publications that have originated at ETH Zurich and comprises a total of about 120,000 entries. With this, the platform gives a broad overview over the research activities und results at ETH Zurich.",
   "named_entities": [
-    "Citations",
-    "Zurich",
     "ETH Zurich"
   ],
   "topics": [
@@ -14,22 +12,27 @@
     "Communication"
   ],
   "keywords": [
-    "ETH Zurich",
     "Zurich",
-    "These",
-    "Journal",
+    "Academic",
+    "Academic publications",
+    "Activities",
+    "Activities results",
     "Articles",
-    "Conference",
-    "Reports"
+    "Articles conference"
   ],
-  "summary": "Of these, 61 % are journal articles and 24 % conference reports....",
+  "summary": "ETH E-Citations provides details on a long-term basis of the academic publications that have originated at ETH Zurich and comprises a total of about 120,000 entries....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 56,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -38,6 +41,11 @@
       "Research",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.67,
+      "avg_word_length": 4.8,
+      "long_word_percentage": 30.36
+    }
   }
 }
