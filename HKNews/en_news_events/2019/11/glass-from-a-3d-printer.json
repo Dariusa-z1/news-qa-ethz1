@@ -5,14 +5,14 @@
   "source": "Moore DG, Barbera L, Masania K, Studart AR. Three-dimensional printing of multicomponent glasses using phase-separating resins. Nature Materials. (2019) doi: 10.1038/s41563-019-0525-y",
   "main_content": "Main article: Producing glass objects using 3D printing is not easy. Only a few groups of researchers around the world have attempted to produce glass using additive methods. Some have made objects by printing molten glass, but the disadvantage is that this requires extremely high temperatures and heat-resistant equipment. Others have used powdered ceramic particles that can be printed at room temperature and then sintered later to create glass; however, objects produced in this way are not very complex.\n\nResearchers from ETH Zurich have now used a new technique to produce complex glass objects with 3D printing. The method is based on stereolithography, one of the first 3D printing techniques developed during the 1980s. David Moore, Lorenzo Barbera, and Kunal Masania in the Complex Materials group led by ETH processor André Studart have developed a special resin that contains a plastic, and organic molecules to which glass precursors are bonded. The researchers reported their results in the latest issue of the journal Natural Materials .\n\nLight used to “grow” objects: The resin can be processed using commercially available Digital Light Processing technology. This involves irradiating the resin with UV light patterns. Wherever the light strikes the resin, it hardens because the light sensitive components of the polymer resin cross link at the exposed points. The plastic monomers combine to form a labyrinth-like structure, creating the polymer. The ceramic-bearing molecules fill the interstices of this labyrinth.\n\nAn object can thus be built up layer by layer. The researchers can change various parameters in each layer, including pore size: weak light intensity results in large pores; intense illumination produces small pores. “We discovered that by accident, but we can use this to directly influence the pore size of the printed object,” says Masania.\n\nThe researchers are also able to modify the microstructure, layer by layer, by mixing silica with borate or phosphate and adding it to the resin. Complex objects can be made from different types of glass, or even combined in the same object using the technique.\n\nThe researchers then fire the blank produced in this way at two different temperatures: at 600 ̊C to burn off the polymer framework and then at around 1000 ̊C to densify the ceramic structure into glass. During the firing process, the objects shrink significantly, but become transparent and hard like window glass.\n\nPatent application submitted: These 3D-printed glass objects are still no bigger than a die. Large glass objects, such as bottles, drinking glasses or window panes, cannot be produced in this way – which was not actually the goal of the project, emphasises Masania.\n\nThe aim was rather to prove the feasibility of producing glass objects of complex geometry using a 3D printing process. However, the new technology is not just a gimmick. The researchers applied for a patent and are currently negotiating with a major Swiss glassware dealer who wants to use the technology in his company.",
   "named_entities": [
+    "ETH Zurich",
+    "Digital Light Processing",
     "David Moore",
     "Lorenzo Barbera",
     "Kunal Masania",
     "Complex Materials",
     "Natural Materials",
-    "Digital Light Processing",
-    "ETH Zurich",
-    "ETH"
+    "UV"
   ],
   "topics": [
     "Research",
@@ -23,26 +23,21 @@
     "Infrastructure"
   ],
   "keywords": [
-    "ETH Zurich",
     "Glass",
     "Objects",
     "Researchers",
-    "Resin",
     "Light",
-    "Using"
+    "Resin",
+    "Complex",
+    "Glass objects"
   ],
-  "summary": "Main article: Producing glass objects using 3D printing is not easy. Only a few groups of researchers around the world have attempted to produce glass using additive methods. Some have made objects by printing molten glass, but the disadvantage is that this requires extremely high temperatures and heat-resistant equipment....",
+  "summary": "Researchers from ETH Zurich have now used a new technique to produce complex glass objects with 3D printing....",
   "content_structure": {
     "paragraph_count": 8,
     "bullet_points": 0,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 487,
@@ -62,26 +57,6 @@
       "avg_words_per_sentence": 19.48,
       "avg_word_length": 5.13,
       "long_word_percentage": 31.42
-    },
-    "citation_info": {
-      "doi": "",
-      "journal": "",
-      "authors": [
-        "Producing",
-        "Others"
-      ]
-    },
-    "semantic_entities": {
-      "locations": [],
-      "departments": [],
-      "contact_info": {
-        "emails": [],
-        "websites": [],
-        "phones": [
-          "1980",
-          "1000"
-        ]
-      }
     }
   }
 }

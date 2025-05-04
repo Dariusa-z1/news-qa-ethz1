@@ -5,14 +5,15 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Abstract: • ETH researchers have developed an implantable fuel cell that generates electricity from excess glucose in the blood.\n• This could be used to operate medical devices in the future.\n• When combined with artificial, insulin-releasing beta cells, this gives rise to a system that can autonomously regulate blood sugar levels.\n• This is a prototype, and it is unclear whether it will be brought to market.\n\nFuel cell in tea bag format: In type 1 diabetes, the body does not produce insulin. This means that patients have to obtain the hormone externally to regulate their blood sugar levels. Nowadays, this is mostly done via insulin pumps that are attached directly to the body. These devices, as well as other medical applications such as pacemakers, require a reliable energy supply, which at present is met primarily by power from either single-use or rechargeable batteries.\n\nNow, a team of researchers led by Martin Fussenegger from the Department of Biosystems Science and Engineering at ETH Zurich in Basel have put a seemingly futuristic idea into practice. They have developed an implantable fuel cell that uses excess blood sugar (glucose) from tissue to generate electrical energy. The researchers have combined the fuel cell with artificial beta cells developed by their group several years ago. These produce insulin at the touch of a button and effectively lower blood glucose levels much like their natural role models in the pancreas.\n\n“Many people, especially in the Western industrialised nations, consume more carbohydrates than they need in everyday life,” Fussenegger explains. This, he adds, leads to obesity, diabetes and cardiovascular disease. “This gave us the idea of using this excess metabolic energy to produce electricity to power biomedical devices,” he says.\n\nAt the heart of the fuel cell is an anode (electrode) made of copper-based nanoparticles, which Fussenegger’s team created specifically for this application. It consists of copper-based nanoparticles and splits glucose into gluconic acid and a proton to generate electricity, which sets an electric circuit in motion.\n\nWrapped in a nonwoven fabric and coated with alginate, an algae product approved for medical use, the fuel cell resembles a small tea bag that can be implanted under the skin. The alginate soaks up body fluid and allows glucose to pass from the tissue into the fuel cell within.\n\nA diabetes network with its own power supply: In a second step, the researchers coupled the fuel cell with a capsule containing artificial beta cells. These can be stimulated to produce and secrete insulin using electric current or blue LED light. Fussenegger and his colleagues already tested such designer cells some time ago (see ETH News , 8 December 2016).\n\nThe system combines sustained power generation and controlled insulin delivery. As soon as the fuel cell registers excess glucose, it starts to generate power. This electrical energy is then used to stimulate the cells to produce and release insulin into the blood. As a result, blood sugar dips to a normal level. Once it falls below a certain threshold value, the production of electricity and insulin stops.\n\nThe electrical energy provided by the fuel cell is sufficient not only to stimulate the designer cells but also to enable the implanted system to communicate with external devices such as a smartphone. This allows potential users to adjust the system via a corresponding app. A doctor could also access it remotely and make adjustments. “The new system autonomously regulates insulin and blood glucose levels and could be used to treat diabetes in the future,” Fussenegger says.\n\nThe existing system is only a prototype. Although the researchers have successfully tested it in mice, they are unable to develop it into a marketable product. “Bringing such a device to market is far beyond our financial and human resources,” Fussenegger says. This would call for an industry partner with the appropriate resources and know-how.\n\nReferences: Maity D, Ray PG, Buchmann P, Mansouri M, Fussenegger, M: Blood-Glucose-Powered Metabolic Fuel Cell for Self-Sufficient Bioelectronics. Advanced Materials 2023: 2300890, doi: 10.1002/adma.202300890",
   "named_entities": [
+    "ETH Zurich",
+    "Department of Biosystems Science",
     "Martin Fussenegger",
-    "Biosystems Science",
     "Blood-Glucose-Powered Metabolic",
     "Fuel Cell",
     "Self-Sufficient Bioelectronics",
     "Advanced Materials",
-    "ETH Zurich",
-    "ETH"
+    "LED",
+    "PG"
   ],
   "topics": [
     "Research",
@@ -23,26 +24,21 @@
     "International"
   ],
   "keywords": [
-    "ETH Zurich",
-    "Fuel",
     "Cell",
+    "Fuel",
+    "Fuel cell",
     "Blood",
     "Insulin",
-    "Glucose",
-    "Have"
+    "Fussenegger",
+    "Glucose"
   ],
-  "summary": "Abstract: • ETH researchers have developed an implantable fuel cell that generates electricity from excess glucose in the blood. • This could be used to operate medical devices in the future. • When combined with artificial, insulin-releasing beta cells, this gives rise to a system that can autonomously regulate blood sugar levels....",
+  "summary": "Abstract: • ETH researchers have developed an implantable fuel cell that generates electricity from excess glucose in the blood....",
   "content_structure": {
     "paragraph_count": 11,
     "bullet_points": 3,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 672,
@@ -62,31 +58,6 @@
       "avg_words_per_sentence": 17.23,
       "avg_word_length": 5.1,
       "long_word_percentage": 28.87
-    },
-    "citation_info": {
-      "doi": "10.1002/adma.202300890",
-      "journal": "Fussenegger from the Department of Biosystems Science and Engineering at ETH Zurich in Basel have put a seemingly futuristic idea into practice",
-      "authors": [
-        "Abstract"
-      ]
-    },
-    "semantic_entities": {
-      "locations": [
-        "Basel",
-        "Fussenegger"
-      ],
-      "departments": [
-        "Biosystems Science and Engineering at",
-        "by Martin Fussenegger from the"
-      ],
-      "contact_info": {
-        "emails": [],
-        "websites": [],
-        "phones": [
-          "2016",
-          "2023"
-        ]
-      }
     }
   }
 }

@@ -4,19 +4,21 @@
   "date": "2020-03-01",
   "source": "Unknown source",
   "main_content": "Read the interview on the D-INFK website:\n\nhttps://inf.ethz.ch/news-and-events/spotlights/2020/03/interview-ueli-maurer.html",
-  "named_entities": [],
+  "named_entities": [
+    "INFK"
+  ],
   "topics": [
     "Communication",
     "Campus Life"
   ],
   "keywords": [
-    "Read",
-    "Interview",
     "Dinfk",
-    "Website",
-    "ETH Zurich",
-    "University",
-    "Research"
+    "Dinfk website",
+    "Httpsinfethzchnewsandeventsspotlights202003interviewuelimaurerhtml",
+    "Interview",
+    "Interview dinfk",
+    "Read",
+    "Read interview"
   ],
   "summary": "Read the interview on the D-INFK website:\n\nhttps://inf.ethz.ch/news-and-events/spotlights/2020/03/interview-ueli-maurer.html",
   "content_structure": {
@@ -24,12 +26,7 @@
     "bullet_points": 0,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 22,
@@ -48,19 +45,6 @@
       "avg_words_per_sentence": 5.5,
       "avg_word_length": 4.5,
       "long_word_percentage": 18.18
-    },
-    "semantic_entities": {
-      "locations": [],
-      "departments": [],
-      "contact_info": {
-        "emails": [],
-        "websites": [
-          "inf.ethz.ch"
-        ],
-        "phones": [
-          "2020"
-        ]
-      }
     }
   }
 }

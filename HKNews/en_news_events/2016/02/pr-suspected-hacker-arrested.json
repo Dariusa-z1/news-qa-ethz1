@@ -6,7 +6,8 @@
   "main_content": "In January 2016, an unknown offender gained unauthorised access to the ETH Zurich IT system, logged into the ETH Zurich network, ordered software over the ETH system and downloaded data. Employees in the ETH Zurich security and IT services departments detected unlawful activities on 26 January 2016. ETH Zurich immediately reported the offence.\n\nSecurity measures to protect the ETH network from further attacks were introduced without delay. Thanks to effective cooperation between the cybercrime unit (CYC) and the ETH Zurich IT service, it was possible to apprehend the suspected hacker quickly. The suspect is an ETH student. ETH Zurich is now analysing the situation and enacting a reconstruction of the unauthorised action. They will then use their findings to identify and implement the necessary measures.",
   "named_entities": [
     "ETH Zurich",
-    "ETH"
+    "IT",
+    "CYC"
   ],
   "topics": [
     "Staff",
@@ -17,26 +18,21 @@
     "International"
   ],
   "keywords": [
-    "ETH Zurich",
     "Zurich",
     "January",
-    "Unauthorised",
-    "System",
+    "Measures",
     "Network",
-    "Security"
+    "Security",
+    "System",
+    "Unauthorised"
   ],
-  "summary": "In January 2016, an unknown offender gained unauthorised access to the ETH Zurich IT system, logged into the ETH Zurich network, ordered software over the ETH system and downloaded data. Employees in the ETH Zurich security and IT services departments detected unlawful activities on 26 January 2016....",
+  "summary": "In January 2016, an unknown offender gained unauthorised access to the ETH Zurich IT system, logged into the ETH Zurich network, ordered software over the ETH system and downloaded data....",
   "content_structure": {
     "paragraph_count": 2,
     "bullet_points": 0,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 125,
@@ -55,18 +51,6 @@
       "avg_words_per_sentence": 15.62,
       "avg_word_length": 5.4,
       "long_word_percentage": 38.4
-    },
-    "semantic_entities": {
-      "locations": [],
-      "departments": [],
-      "contact_info": {
-        "emails": [],
-        "websites": [],
-        "phones": [
-          "2016",
-          "2016"
-        ]
-      }
     }
   }
 }

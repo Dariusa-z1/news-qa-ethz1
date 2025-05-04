@@ -1,11 +1,12 @@
 {
   "language": "en",
   "title": "Example of a successfully georeferenced map (map of the city of Bern, c. 1880):",
-  "date": "1900-01-50",
+  "date": "2017-01-01",
   "source": "ETH Zurich, University Communications",
   "main_content": "Example of a successfully georeferenced map (map of the city of Bern, c. 1880):\n\n• external page OldMapsOnline call_made\n• external page Georeferencer call_made\nNow OldMapsOnline also contains more than 1,100 digital reproductions from ETH-Bibliothek, with most of these map sheets covering towns and regions in Switzerland for the period from 1750 to 1900. Developments, events and conditions in past centuries can be understood using thematic and topographical maps.\n\nThese maps can also be used on mobile devices with the OldMapsOnline app. It is also possible to situate maps precisely using the Georeferencer and reprocess them in GIS programs.\n\nWould you like to help with georeferencing the maps? Then, for any ETH-Bibliothek map found via the platform, click on View as Overlay and get going. Or begin with a random map . The ETH-Bibliothek maps team would be delighted if you could take part in this crowdsourcing activity.",
   "named_entities": [
-    "ETH"
+    "ETH",
+    "GIS"
   ],
   "topics": [
     "Technology & Innovation",
@@ -14,11 +15,11 @@
   ],
   "keywords": [
     "Maps",
-    "Oldmapsonline",
     "Ethbibliothek",
-    "External",
-    "Page",
+    "Oldmapsonline",
     "Callmade",
+    "External",
+    "External page",
     "Georeferencer"
   ],
   "summary": "Example of a successfully georeferenced map (map of the city of Bern, c. 1880):\n\n• external page OldMapsOnline call_made\n• external page Georeferencer call_made\nNow OldMapsOnline also contains more than 1,100 digital reproductions from ETH-Bibliothek, with most of these map sheets covering towns and regions in Switzerland for the period from 1750 to 1900....",
@@ -27,12 +28,7 @@
     "bullet_points": 2,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 149,
@@ -52,27 +48,6 @@
       "avg_words_per_sentence": 16.56,
       "avg_word_length": 5.09,
       "long_word_percentage": 26.17
-    },
-    "temporal_info": {
-      "event_dates": [],
-      "time_references": [
-        "50 to 19"
-      ],
-      "event_names": []
-    },
-    "semantic_entities": {
-      "locations": [
-        "Switzerland"
-      ],
-      "departments": [],
-      "contact_info": {
-        "emails": [],
-        "websites": [],
-        "phones": [
-          "1880",
-          "1750"
-        ]
-      }
     }
   }
 }

@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Um die Stromversorgung von Grossabnehmern weiterhin sicherzustellen, erhöht das Elektrizitätswerk der Stadt Zürich (ewz) die Spannung seiner Stromverteilung von 11kV auf 22kV. Davon ist auch die ETH Zürich mit dem Standort Hönggerberg als Grossabnehmerin betroffen. Entsprechend findet im September und Oktober 2018 innerhalb von 45 Tagen eine Spannungsumstellung in allen Gebäuden auf dem Campus Hönggerberg statt. Während dieser Umstellung hat das jeweilige Gebäude für maximal 30 Minuten keinen Strom.\n\nNach Vollendung der Spannungsumstellung wird am 8. Januar 2019 anhand von weiteren geplanten Stromunterbrüchen getestet, ob die Anlagen, welche durch das Netzleitsystem gesteuert werden, richtig funktionieren und mit Ersatzstrom versorgt werden.\n\nUlrich Weidmann, Vizepräsident Personal und Ressourcen, und Christophe Hallier, Projektleiter der Abteilung Immobilen, informieren diesbezüglich am 19. April 2018 um 16.00 Uhr im Siemens Auditorium (HIT E 51) in Form einer Informationsveranstaltung.\n\nWeitere Informationen zur Umstellung sowie zum Test des Netzleitsystems finden Sie auf www.ethz.ch/spannungsumstellung",
   "named_entities": [
-    "Stadt Zürich",
     "Standort Hönggerberg",
     "Campus Hönggerberg",
+    "ETH Zürich",
+    "Stadt Zürich",
     "Ulrich Weidmann",
     "Vizepräsident Personal",
     "Christophe Hallier",
     "Abteilung Immobilen",
     "Siemens Auditorium",
-    "Weitere Informationen",
-    "ETH Zürich"
+    "Weitere Informationen"
   ],
   "topics": [
     "Infrastructure",
@@ -27,24 +27,19 @@
   "keywords": [
     "ETH Zurich",
     "Hönggerberg",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Spannungsumstellung",
+    "Umstellung",
+    "Zürich",
+    "11kv",
+    "11kv 22kv"
   ],
-  "summary": "Um die Stromversorgung von Grossabnehmern weiterhin sicherzustellen, erhöht das Elektrizitätswerk der Stadt Zürich (ewz) die Spannung seiner Stromverteilung von 11kV auf 22kV. Davon ist auch die ETH Zürich mit dem Standort Hönggerberg als Grossabnehmerin betroffen....",
+  "summary": "Um die Stromversorgung von Grossabnehmern weiterhin sicherzustellen, erhöht das Elektrizitätswerk der Stadt Zürich (ewz) die Spannung seiner Stromverteilung von 11kV auf 22kV....",
   "content_structure": {
     "paragraph_count": 4,
     "bullet_points": 0,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 149,
@@ -62,31 +57,6 @@
       "avg_words_per_sentence": 12.42,
       "avg_word_length": 6.38,
       "long_word_percentage": 37.58
-    },
-    "temporal_info": {
-      "event_dates": [
-        "45 Tagen"
-      ],
-      "time_references": [
-        "16.00 Uhr"
-      ],
-      "event_names": []
-    },
-    "semantic_entities": {
-      "locations": [
-        "Form"
-      ],
-      "departments": [],
-      "contact_info": {
-        "emails": [],
-        "websites": [
-          "www.ethz.ch"
-        ],
-        "phones": [
-          "2018",
-          "2019"
-        ]
-      }
     }
   }
 }

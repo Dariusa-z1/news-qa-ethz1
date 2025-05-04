@@ -5,12 +5,11 @@
   "source": "Marks M, Jin Q, Sturman O, von Ziegler L, Kollmorgen S, von der Behrens W, Mante V, Bohacek J, Yanik MF: Deep-learning-based identification, tracking, pose estimation and behaviour classification of interacting primates and mice in complex environments. Nature Machine Intelligence, 21 April 2022, doi: 10.1038/s42256-022-00477-5",
   "main_content": "Suitable for all animal species: Researchers engaged in animal behaviour studies often rely on hours upon hours of video footage which they manually analyse. Usually, this requires researchers to work their way through recordings spanning several weeks or months, laboriously noting down observations on the animals’ behaviour. Now researchers at ETH Zurich and University of Zurich have come up with an automated way to analyse these kinds of recordings. The image-analysis algorithm they have developed makes use of computer vision and machine learning. It can distinguish individual animals and identify specific behaviours, such as those that signal curiosity, fear, or harmonious social interactions with other members of their species.\n\nThe technology essentially offers scientists a one-click solution for automatically analysing video footage, however lengthy or detailed the recordings are. Another advantage of the new method is its reproducibility: if different groups of researchers use the same algorithm to analyse their video data, comparing results is easier because everything is based on the same standards. What’s more, the new algorithm is so sensitive that it can even identify subtle behavioural changes that develop very gradually over long periods of time. “Those are the kinds of changes that are often tricky to spot with the human eye,” says Markus Marks, lead author of the research study and a postdoc in the group headed by Professor of Neurotechnology Mehmet Fatih Yanik.\n\nThe researchers trained the machine-learning algorithm with video footage of mice and macaques in captivity. However, they stress that the method can be applied to all animal species. News of their new method has already spread through the scientific community. The researchers have made the algorithm available to other researchers on a public platform, and many of their colleagues around the world are already using it. “Interest has been particularly high among primate researchers, and our technology is already being used by a group that is researching wild chimpanzees in Uganda,” Marks says.\n\nThis is probably because the method can also be used to analyse complex social interactions in animal communities, such as identifying which animals groom other members of their group and how often this occurs. “Our method offers some major advantages over previous machine-learning-based behavioural analysis algorithms, especially when it comes to analysing social behaviour in complex settings,” Marks says.\n\nThe new method can also be used to improve animal husbandry, enabling round-the-clock monitoring to automatically single-out abnormal behaviours. By detecting adverse social interactions or the onset of disease early on, keepers can swiftly respond to improve conditions for the animals in their care.\n\nThe researchers are also currently collaborating with Zurich Zoo, which wants to further improve its animal husbandry and conduct automated behavioural research. For example, in a recently published study examining patterns of elephant sleep behaviour, zoo researchers had to manually annotate nocturnal video recordings. Their hope is that the new method would enable them to automate and upscale such findings in the future.\n\nFinally, the method is used in fundamental research in the fields of biology, neurobiology and medicine. \"Our method can recognise even subtle or rare behavioural changes in research animals, such as signs of stress, anxiety or discomfort,\" says Yanik. \"Therefore, it can not only help to improve the quality of animal studies but also helps to reduce the number of animals and the strain on them.\" The ETH Zurich professor is planning to use the method himself as part of his neurobiological research in the field of imitation learning.",
   "named_entities": [
-    "Markus Marks",
-    "Neurotechnology Mehmet Fatih Yanik",
-    "Zurich Zoo",
+    "University of Zurich",
     "ETH Zurich",
-    "ETH",
-    "University of Zurich"
+    "Neurotechnology Mehmet Fatih Yanik",
+    "Markus Marks",
+    "Zurich Zoo"
   ],
   "topics": [
     "Research",
@@ -21,26 +20,21 @@
     "Catering & Food"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University of Zurich",
-    "Researchers",
     "Method",
-    "Their",
+    "Researchers",
     "Animal",
+    "Animals",
+    "Algorithm",
+    "Research",
     "Video"
   ],
-  "summary": "Suitable for all animal species: Researchers engaged in animal behaviour studies often rely on hours upon hours of video footage which they manually analyse. Usually, this requires researchers to work their way through recordings spanning several weeks or months, laboriously noting down observations on the animals’ behaviour....",
+  "summary": "Suitable for all animal species: Researchers engaged in animal behaviour studies often rely on hours upon hours of video footage which they manually analyse....",
   "content_structure": {
     "paragraph_count": 7,
     "bullet_points": 0,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 585,
@@ -63,27 +57,6 @@
       "avg_words_per_sentence": 23.4,
       "avg_word_length": 5.35,
       "long_word_percentage": 33.5
-    },
-    "citation_info": {
-      "doi": "",
-      "journal": "",
-      "authors": [
-        "Suitable",
-        "Researchers",
-        "Usually",
-        "Zurich"
-      ]
-    },
-    "semantic_entities": {
-      "locations": [
-        "Uganda"
-      ],
-      "departments": [],
-      "contact_info": {
-        "emails": [],
-        "websites": [],
-        "phones": []
-      }
     }
   }
 }

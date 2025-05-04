@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Magnetisierung mit einzelnen Spins: Am Departement Materialwissenschaft der ETH Zürich erforschen Pietro Gambardella und seine Mitarbeiter die Datenspeicher von morgen. Schnell sollen sie sein, Daten lange und zuverlässig speichern und zudem auch noch wenig kosten. Diese Quadratur des Kreises leisten so genannte magnetische «Random Access Memories» oder Direktzugriffsspeicher (MRAM), die schnelles Schalten über elektrische Ströme mit dauerhafter Speicherung in magnetischen Materialien verbinden. Schon vor einigen Jahren konnten die Forscher zeigen, dass ein bestimmter physikalischer Effekt – das Spin-Bahn-Drehmoment – eine besonders schnelle Datenspeicherung ermöglicht. Nun ist es Gambardellas Arbeitsgruppe in Zusammenarbeit mit dem Forschungs- und Entwicklungszentrum IMEC in Belgien gelungen, den genauen Ablauf eines einzelnen solchen Speichervorgangs zeitlich aufzulösen - und ihn mit einigen Tricks noch schneller zu machen.\n\nUm Daten magnetisch zu speichern, muss man die Magnetisierungsrichtung eines ferromagnetischen (also dauerhaft magnetischen) Materials umkehren, um so die Information als logischen Wert 0 oder 1 darzustellen. In älteren Technologien wie etwa Magnetbändern oder Festplatten geschieht das mittels Magnetfeldern, die in stromdurchflossenen Spulen erzeugt werden.\n\nModerne MRAM-Speicher dagegen nutzen direkt die Spins von Elektronen, die wie kleine Kompassnadeln magnetisch sind und als Strom direkt durch eine magnetische Schicht fliessen. In Gambardellas Experimenten werden dabei durch die Spin-Bahn-Wechselwirkung Elektronen mit entgegengesetzten Spinrichtungen räumlich getrennt. Dadurch wiederum entsteht ein effektives Magnetfeld, durch dessen Einfluss die Magnetisierungsrichtung eines winzigen Metallpunktes umgekehrt werden kann.\n\n«Wir wussten aus früheren Experimenten, in denen wir einen einzigen magnetischen Metallpunkt stroboskopisch mit Röntgenstrahlen abtasteten, dass die Magnetisierungsumkehr sehr schnell erfolgt, in etwa einer Nanosekunde», sagt Eva Grimaldi, Postdoktorandin in Gambardellas Arbeitsgruppe. «Das waren allerdings gemittelte Werte über viele Umkehrvorgänge. Nun wollten wir wissen, wie genau ein einzelner Vorgang abläuft und zeigen, dass er in einem industriekompatiblen Magnetspeicher funktioniert.»\n\nElektronenmikroskop-Aufnahme des magnetischen Tunnelkontakts (MTJ, in der Mitte) und der Elektroden für die Steuerung und Messung des Umkehrvorgangs. (Grafik: P. Gambardella / ETH Zürich)\n\nGeringe Fluktuationen: «Wesentlich für einen schnellen und zuverlässigen Datenspeicher ist, dass die zeitlichen Fluktuationen zwischen den einzelnen Umkehrvorgängen möglichst gering sind», erklärt Gambardellas Doktorandin Viola Krizakova. Aus ihren Daten entwickelten die Forscher daher eine Strategie, um diese Fluktuationen so klein wie möglich zu machen. Dazu änderten sie die Strompulse, mit denen die Magnetisierungsumkehrung gesteuert wurde, dergestalt, dass zwei weitere physikalische Phänomene zum Tragen kamen. Das so genannte Spin-Transfer-Drehmoment sowie ein kurzer Spannungspuls während der Umkehrphase sorgten nun dafür, dass der gesamte Umkehrvorgang weniger als 0,3 Nanosekunden dauerte, wobei die zeitlichen Fluktuationen weniger als 0,2 Nanosekunden betrugen.\n\nLiteraturhinweis: Grimaldi E, et al. Single-shot dynamics of spin–orbit torque and spin transfer torque switching in three-terminal magnetic tunnel junctions. Nature Nanotechnology volume 15, pages 111–117 (2020). doi: externe Seite 10.1038/s41565-019-0607-7",
   "named_entities": [
+    "ETH Zürich",
+    "Gambardellas Arbeitsgruppe",
     "Am Departement Materialwissenschaft",
+    "Random Access Memories",
+    "Gambardellas Doktorandin Viola Krizakova",
+    "MRAM",
     "Pietro Gambardella",
     "Diese Quadratur",
-    "Random Access Memories",
-    "Spin-Bahn-Drehmoment",
-    "Gambardellas Arbeitsgruppe",
     "Um Daten",
-    "Spin-Bahn-Wechselwirkung Elektronen",
-    "Eva Grimaldi",
-    "Elektronenmikroskop-Aufnahme"
+    "Spin-Bahn-Wechselwirkung Elektronen"
   ],
   "topics": [
     "Staff",
@@ -26,24 +26,20 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Fluktuationen",
+    "Gambardellas",
+    "Magnetischen",
+    "Daten",
+    "Einzelnen",
+    "Gambardellas arbeitsgruppe"
   ],
-  "summary": "Magnetisierung mit einzelnen Spins: Am Departement Materialwissenschaft der ETH Zürich erforschen Pietro Gambardella und seine Mitarbeiter die Datenspeicher von morgen. Schnell sollen sie sein, Daten lange und zuverlässig speichern und zudem auch noch wenig kosten....",
+  "summary": "Nun wollten wir wissen, wie genau ein einzelner Vorgang abläuft und zeigen, dass er in einem industriekompatiblen Magnetspeicher funktioniert.»\n\nElektronenmikroskop-Aufnahme des magnetischen Tunnelkontakts (MTJ, in der Mitte) und der Elektroden für die Steuerung und Messung des Umkehrvorgangs....",
   "content_structure": {
     "paragraph_count": 7,
     "bullet_points": 0,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 445,
@@ -64,33 +60,6 @@
       "avg_words_per_sentence": 18.54,
       "avg_word_length": 6.68,
       "long_word_percentage": 42.7
-    },
-    "citation_info": {
-      "doi": "",
-      "journal": "",
-      "authors": [
-        "Magnetisierung",
-        "Am Departement Materialwissenschaft",
-        "Zürich",
-        "Pietro Gambardella"
-      ]
-    },
-    "semantic_entities": {
-      "locations": [
-        "Gambardellas Arbeitsgruppe",
-        "Viola Krizakova",
-        "Belgien",
-        "Zusammenarbeit"
-      ],
-      "departments": [],
-      "contact_info": {
-        "emails": [],
-        "websites": [],
-        "phones": [
-          "2020",
-          "1038"
-        ]
-      }
     }
   }
 }

@@ -5,14 +5,14 @@
   "source": "ETH Zurich physicists are using high-performance graphics processing units that were originally developed for video and gaming applications",
   "main_content": "“It’s an exciting project,” says Alexandre Refregier, Professor of Physics at ETH Zurich, as he considers the futuristic-looking visualisation from South Africa. The image shows a scene in the middle of the Karoo semidesert, far away from larger settlements, with rows upon rows of more than 1,000 parabolic reflectors all directed towards the same point. At first glance, one might assume this is a solar power station, but it’s actually a large radio telescope that over the coming years should provide cosmologists with new insights into the makeup and history of our universe.\n\nHIRAX stands for “Hydrogen Intensity and Real-time Analysis eXperiment” and marks the start of a new chapter in the exploration of the universe. The new large telescope will collect radio signals within a frequency range of 400 to 800 MHz. These signals will make it possible to measure the distribution of hydrogen in the universe on a large scale. “If we can use hydrogen, the most common element in the universe, to discover how matter is distributed in space, we could then draw conclusions about what dark matter and dark energy are made of,” Refregier explains.\n\nDark energy and dark matter are two mysterious components that together make up the vast majority of the universe. They play a major role in the formation of structures and in the universe’s accelerated expansion. But experts remain puzzled about exactly what dark energy and dark matter are made of. HIRAX should help home in on the precise nature of these two components. The researchers also hope that the new system will deliver insights into fast radio bursts and pulsars.\n\nNot only will Refregier and his team be involved in the scientific analysis of the data, the professor is also helping to develop the new system together with his postdoc Devin Crichton and engineer Thierry Viant. “HIRAX is a remarkable undertaking, not just from a scientific point of view, but also because it represents a significant technological challenge,” Refregier says. As part of their subproject in collaboration with scientists from the University of Geneva, the ETH researchers are developing what’s known as a digital correlator, which will combine the signals recorded by each of the approximately six-metre telescopes. “Rather than consisting of a single large telescope, the HIRAX array is made up of numerous smaller radio telescopes that are correlated with each other,” Refregier says. “This enables us to build a telescope with a collection surface and resolution much greater than a measuring device with only one parabolic reflector.”\n\nThe physicists first tested the technology for the digital corrector in Switzerland using a pilot system. To do so, they used the two historic radio telescopes housed at the Bleien facility in the Swiss canton of Aargau. They will now use the results of these tests to develop a digital corrector capable of linking 256 reflectors. “The HIRAX telescope is being set up in stages, which allows us to develop and refine the technology we need as we go along,” Refregier says. The funding required for this subproject was recently secured.\n\nFor their digital correlator, the ETH Zurich physicists are using high-performance graphics processing units that were originally developed for video and gaming applications. The researchers are also breaking new ground when it comes to calibration. To synchronise the measurement signals received by the individual antennas, they use a radio signal transmitted by a drone. It is crucial to pinpoint the position of these signals so that the telescope can then provide the required precision.\n\nIt’s no accident that the HIRAX telescope is being installed in the Karoo semidesert. As a protected area, it is still largely free of disruptive signals from mobile communications antennas. “It’s actually quite ironic,” Refregier says. “On the one hand, mobile communications technology is a massive help in developing telescopes. On the other, that same technology makes life difficult for radio astronomers because mobile communications antennas transmit within similar frequency ranges.\n\nAnother reason why the Karoo region is an ideal location is that this is also where part of the planned Square Kilometre Array will be erected. Once completed, this will be the world’s largest radio telescope, connecting systems in South Africa and Australia and representing yet another giant leap forward in radio astronomy. “Despite its remote position, the Karoo location is well connected by power and data lines,” Refregier says. In this respect, the undertaking presents a challenge because the new telescope will generate 6.5 terabytes of data every second. “This is why we’re going to install the digital corrector directly on site, so that the amount of data can first be reduced before it is sent somewhere else for further processing,” Refregier says.\n\nA collaboration among numerous other universities from different countries, the HIRAX project is also important with respect to research policy. First, it strengthens the collaboration between South Africa and Switzerland, enabling young scientists from the former to conduct research in the latter. Second, Refregier says he is grateful that the work we are doing on the development of HIRAX is opening the door to Switzerland’s participation in the Square Kilometre Array: “This means that we can do our part to ensure that Swiss universities are involved in this pioneering project and can keep pace with the latest developments in radio astronomy.”",
   "named_entities": [
-    "Alexandre Refregier",
+    "HIRAX",
+    "ETH Zurich",
     "South Africa",
+    "Square Kilometre Array",
+    "Alexandre Refregier",
     "Hydrogen Intensity",
     "Devin Crichton",
-    "Thierry Viant",
-    "Square Kilometre Array",
-    "ETH Zurich",
-    "ETH"
+    "Thierry Viant"
   ],
   "topics": [
     "Technology & Innovation",
@@ -23,26 +23,21 @@
     "Staff"
   ],
   "keywords": [
-    "ETH Zurich",
-    "Refregier",
     "Radio",
+    "Refregier",
     "Telescope",
-    "Will",
+    "Hirax",
     "Says",
-    "Hirax"
+    "Refregier says",
+    "Dark"
   ],
-  "summary": "“It’s an exciting project,” says Alexandre Refregier, Professor of Physics at ETH Zurich, as he considers the futuristic-looking visualisation from South Africa. The image shows a scene in the middle of the Karoo semidesert, far away from larger settlements, with rows upon rows of more than 1,000 parabolic reflectors all directed towards the same point....",
+  "summary": "Second, Refregier says he is grateful that the work we are doing on the development of HIRAX is opening the door to Switzerland’s participation in the Square Kilometre Array: “This means that we can do our part to ensure that Swiss universities are involved in this pioneering project and can keep pace with the latest developments in radio astronomy.”...",
   "content_structure": {
     "paragraph_count": 9,
     "bullet_points": 0,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 894,
@@ -64,30 +59,6 @@
       "avg_words_per_sentence": 21.8,
       "avg_word_length": 5.06,
       "long_word_percentage": 29.31
-    },
-    "citation_info": {
-      "doi": "",
-      "journal": "",
-      "authors": [
-        "Alexandre Refregier",
-        "Professor",
-        "Physics",
-        "Zurich"
-      ]
-    },
-    "semantic_entities": {
-      "locations": [
-        "Switzerland",
-        "Swiss",
-        "South Africa",
-        "Crichton"
-      ],
-      "departments": [],
-      "contact_info": {
-        "emails": [],
-        "websites": [],
-        "phones": []
-      }
     }
   }
 }

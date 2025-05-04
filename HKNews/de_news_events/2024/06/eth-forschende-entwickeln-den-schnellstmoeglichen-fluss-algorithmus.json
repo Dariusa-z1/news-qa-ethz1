@@ -1,20 +1,20 @@
 {
   "language": "de",
   "title": "Eth Forschende Entwickeln Den Schnellstmoeglichen Fluss Algorithmus",
-  "date": "1986-01-85",
+  "date": "2011-10-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "In Kürze: • Informatiker der ETH Zürich haben einen Netzwerkfluss-Algorithmus geschrieben, der fast so schnell rechnet wie das mathematisch überhaupt möglich ist.\n• Dieser Algorithmus berechnet den maximalen Verkehrsfluss bei minimalen Transportkosten für jegliche Art von Netzwerk. Damit löst er eine umfassende Schlüsselfrage der Theoretischen Informatik.\n• Der superschnelle Algorithmus legt auch eine Grundlage, um künftig sehr grosse und dynamisch wandelbare Netzwerke effizient zu berechnen.\n\nEr rechnet so schnell wie ein Netz gross ist: Dieser Durchbruch klingt fast nach Lucky Luke, dem Mann, der schneller schiesst als sein Schatten. Rasmus Kyng und sein Team haben einen superschnellen Algorithmus entwickelt, der ein ganzes Forschungsgebiet verändern dürfte. Genau genommen hat Kyngs Team einen so genannten Netzwerkfluss-Algorithmus geschrieben, der die Frage beantwortet: «Wie lässt sich in einem Netzwerk ein maximaler Verkehrsfluss bei zugleich minimalen Transportkosten erreichen?»\n\nStellen Sie sich vor, Sie benutzen das europäische Verkehrsnetz und wollen den schnellsten und billigsten Weg finden, um möglichst viele Güter von Kopenhagen nach Mailand zu transportieren. Für solche Fälle berechnet Kyngs Algorithmus den optimalen und kostengünstigsten Verkehrsfluss, und zwar für jede Art von Netzwerk, egal, ob Schiene, Strasse, Wasser oder Internet. Sein Algorithmus rechnet nun so schnell, dass er bereits im selben Moment, in dem ein Computer überhaupt erst die Daten gelesen hat, die das Netzwerk beschreiben, auch schon die Lösung präsentiert.\n\nDas hat vor Rasmus Kyng noch niemand geschafft. Obwohl seit rund 90 Jahren an diesem Problem geforscht wird. Bislang dauerte die Berechnung des optimalen Verkehrsflusses immer deutlich länger als die Verarbeitung der Netzwerkdaten. Es war sogar so, dass die benötigte Rechenzeit mit zunehmender Grösse und Komplexität eines Netzwerks vergleichsweise noch viel stärker anwuchs als die eigentliche Grösse des jeweiligen Rechenproblems. Deshalb gibt es auch Flussprobleme in Netzwerken, die zu gross sind, als dass sie ein Computer überhaupt berechnen könnte.\n\nBei Rasmus Kyng ist das nicht so: bei seinem Algorithmus wächst die Rechenzeit im selben Mass an, wie die Grösse des Netzwerks zunimmt – das ist etwa so, wie wenn Sie sich auf eine Bergwanderung begeben und ihr Schritttempo lässt keine Minute nach, selbst wenn der Wanderweg immer steiler wird! Diese Leistung spiegelt sich in den nackten Zahlen: Bis zur Jahrtausendwende schaffte es kein Algorithmus schneller zu rechnen als m 1,5 , wobei m für die Anzahl Verbindungen in einem Netz steht, die der Computer berechnen muss – und nur schon die Netzwerkdaten einmal zu lesen, nimmt m Zeit in Anspruch. Ab 2004 gelang es, die zur Problemlösung benötigte Rechenzeit auf m 1,33 zu senken. Mit dem Algorithmus von Kyng ist nun die «zusätzliche» erforderliche Rechenzeit, um nach dem Lesen der Netzdaten eine Lösung zu erhalten, schlicht vernachlässigbar.\n\nDamit haben die ETH-Forschenden den theoretisch schnellstmöglichen Netzwerkfluss-Algorithmus entwickelt. Den mathematischen Beweis dafür haben Rasmus Kyng und sein Team vor zwei Jahren in einem bahnbrechenden Paper erbracht. In der Fachsprache heissen die neuartigen, nahezu optimal schnellen Algorithmen auch «fast-linearzeitliche Algorithmen». Die Gemeinschaft der theoretischen Informatiker:innen jedenfalls hat positiv überrascht und begeistert auf Kyngs Durchbruch reagiert.\n\nKyngs Doktorvater Daniel A. Spielman, Mathematik- und Informatikprofessor in Yale und selbst ein Pionier und Doyen auf diesem Gebiet, verglich den «absurd schnellen» Algorithmus mit einem Porsche, der Pferdekutschen überholt. Ihre Arbeit wurde 2022 am «Annual IEEE Symposium on Foundations of Computer Science» als das beste Paper ausgezeichnet sowie vom Informatik-Journal «Communications of the ACM» als Highlight gewürdigt, und das populärwissenschaftliche «Quanta Magazine» zählte Kyngs Algorithmus zu den externe Seite zehn grössten Entdeckungen des Jahres 2022 in der Informatik .\n\nSeither haben die ETH-Forschenden ihren Ansatz verfeinert und weitere fast-linearzeitliche Algorithmen entwickelt. Zum Beispiel bezog sich der erste Algorithmus noch auf unveränderliche, statische Netze, deren Verbindungen gerichtet sind, also wie Einbahnstrassen in städtischen Strassennetzen funktionieren. Die in diesem Jahr veröffentlichten Algorithmen können nun auch optimale Flüsse für Netzwerke berechnen, die sich schrittweise mit der Zeit verändern. Namentlich für sehr komplexe und sehr datenreiche Netzwerke, die sich – wie in der Biologie etwa Moleküle oder das Hirn oder wie menschliche Freundschaftsbeziehungen – dynamisch und sehr schnell verändern, wird eine blitzschnelle Berechnung ein wichtiger Schritt.\n\nAm Donnerstag nun hat Simon Meierhans aus Kyngs Team in Vancouver am «Annual ACM Symposium on Theory of Computing (STOC)» einen neuen fast-linearzeitlichen Algorithmen vorgestellt. Dieser löst das Minimum-Cost-Maximum-Flow-Problem auch für Netzwerke, die sich schrittweise verändern, indem neue Verbindungen dazukommen. In einem zweiten Paper, das das «IEEE Symposium on Foundations of Computer Science (FOCS)» vom nächsten Oktober angenommen hat, haben die ETH-Forscher zudem einen weiteren Algorithmus entwickelt, der auch das Entfernen von Verbindungen berücksichtigt.\n\nDiese Algorithmen ermitteln die kürzesten Routen namentlich in Netzen, in denen Verbindungen hinzugefügt oder entfernt werden. In realen Verkehrsnetzen treten solche Veränderungen zum Beispiel dann auf, wenn wie seit dem Sommer 2023 der Gotthard-Basistunnel zunächst ganz und dann teilweise gesperrt ist oder wenn aktuell ein Erdrutsch einen Teil der Nationalstrasse A13 zerstört, welche die wichtigste Alternativroute zum Gotthard-Strassentunnel ist.\n\nWie berechnet in solchen Fällen ein Computer, ein Online-Kartendienst oder Verkehrsroutenplaner die schnellste und günstigste Verbindung zwischen Mailand und Kopenhagen? Kyngs neue Algorithmen berechnen die optimale Route für diese schrittweise sich verändernden Netzwerke ebenfalls in fast linearer Zeit, also so schnell, dass die Rechenzeit für jede neu – durch Umleitung oder Neubau – hinzukommende Verbindung wiederum vernachlässigbar ist.\n\nWas berechnen? Das Ganze oder seine Teile?: Was genau macht nun Kyngs Berechnungsmethode so viel schneller als alle anderen Netzwerkfluss-Algorithmen? Im Prinzip kennen alle Berechnungsansätze die Herausforderung, dass sie das Netzwerk in mehreren Iterationen durchrechnen müssen, um den optimalen Fluss und die günstigste Route zu finden. Dabei rechnen sie jeweils die verschiedenen Varianten durch, welche Verbindungen offen, gesperrt oder verstopft sind, wenn sie ihre Kapazitätsgrenze erreicht haben.\n\nVor Rasmus Kyng gab es hauptsächlich zwei Lösungsstrategien: die eine orientierte sich am Eisenbahnnetz und berechnete jeweils pro Iteration eine ganze Teilstrecke mit verändertem Verkehrsfluss. Die andere war vom elektrischen Fluss im Stromnetz inspiriert. Sie berechnete pro Iteration jeweils das gesamte Netzwerk, verwendete jedoch für den veränderten Fluss einer Teilstrecke jeweils statistische Mittelwerte, um schneller zu rechnen.\n\nNicht nur schnell, sondern auch umfassend: Rasmus Kyngs Team berücksichtigt nun die jeweiligen Vorzüge von beiden Vorgehensweisen und verbindet sie zu einem radikal neuen Ansatz. «Unser Ansatz beruht auf sehr vielen kleinen, effizienten und günstigen Rechenschritten, die insgesamt viel schneller sind als wenige grosse», sagt Maximilian Probst Gutenberg, Dozent und Mitarbeiter in Kyngs Gruppe, der massgeblich zur Entwicklung der fast-linearzeitlichen Algorithmen beigetragen hat.\n\nDer Blick in die Fachgeschichte offenbart zusätzliche Dimensionen der Tragweite von Rasmus Kyngs Durchbruch: Immerhin zählten Flussprobleme in Netzwerken zu den ersten, die in den 1950er-Jahren mit Hilfe von Algorithmen systematisch gelöst wurden, und Fluss-Algorithmen spielten eine wichtige Rolle, dass sich die theoretische Informatik als eigenes Forschungsgebiet etablierte. Aus dieser Zeit stammt der bekannte Algorithmus der Mathematiker Lester R. Ford Jr. und Delbert R. Fulkerson, der das Problem des maximalen Flusses effizient löst, d.h. wie sich möglichst viele Güter durch ein Netzwerk transportieren lassen, ohne die Kapazitätsgrenzen der einzelnen Routen zu überschreiten.\n\nSeit damals ist bekannt, dass die wichtigen Netzwerkflussprobleme wie das Maximalfluss-Problem, das Minimalkosten-Problem (sog. Umlade- oder Transportproblem) und weitere im Prinzip Spezialfälle des umfassenden Minimum-cost flow-Problems darstellen. Vor Rasmus Kyng schafften es die meisten Algorithmen nur, eines dieser Teilprobleme effizient zu lösen. Sie waren jedoch weder besonders schnell noch liessen sie sich auf das umfassendere Min-Cost-Flow-Problem ausweiten. Das gilt auch für die wegweisenden Flussalgorithmen der 1970er-Jahre, für die die theoretischen Informatiker John Edward Hopcroft, Richard Manning Karp und Robert Endre Tarjan 1985 und 1986 den Turing-Award gewannen, der als Nobelpreis der Informatik gilt.\n\nErst 2004 gelang es den Mathematikern und Informatikern Daniel Spielman und Shang-Hua Teng sowie später Samuel Daitch solche Algorithmen zu schreiben, die auch das Minimum-Cost Flow Problem schnell und effizient lösten. Sie waren es auch, die sich am elektrischen Fluss im Stromnetz orientierten. Ihr Perspektivenwechsel von der Schiene zum Strom führte mathematisch zu einem erheblichen Unterschied: Wird im Eisenbahnnetz ein Zug umgeleitet, weil eine Strecke ausfällt, kann es vorkommen, dass die nächstbeste Strecke laut Fahrplan bereits von einem anderen Zug belegt ist. Im Stromnetz hingegen ist es möglich, dass die Elektronen, die den Stromfluss bilden, teilweise auf eine Netzverbindung umgeleitet werden, durch die bereits anderer Strom fliesst. Im Unterschied zu den Zügen lässt sich der Strom somit mathematisch «teilweise» auf eine neue Verbindung verlegen.\n\nAm Wendepunkt der theoretischen Grundlagen: Diese partielle Umleitung ermöglichte es Spielman und seinen Kollegen, solche Streckenänderungen viel schneller zu berechnen und zugleich bei jeder Änderung auch das ganze Netzwerk zu rechnen. «Wir verwarfen Spielmans Ansatz, möglichst leistungsstarke Algorithmen für das ganze Netzwerk zu entwerfen», sagt Rasmus Kyng, «vielmehr übertrugen wir seine Idee der teilweisen Streckenberechnung auf die früheren Ansätze von Hopcroft und Karp.» Diese partielle Streckenberechnung pro Iteration trug viel dazu bei, die Gesamtflussberechnung zu beschleunigen.\n\nEntscheidend für den Fortschritt der ETH-Forschenden ist, dass er sich nicht auf die Entwicklung neuer Algorithmen beschränkt. Vielmehr nutzen und entwerfen sie auch neue mathematische Tools, die ihre Algorithmen zusätzlich beschleunigen. Namentlich entwickelten sie eine neue Datenstruktur, die die Netzwerkdaten so organisiert, dass sich jede Änderung einer Verbindung im Netzwerk extrem schnell finden lässt und so zu der superschnellen algorithmischen Lösung beiträgt. Da es für die fast-linearzeitlichen Algorithmen und für Tools wie die neue Datenstruktur viele Anwendungen gibt, dürfte sich die Innovationsspirale auch insgesamt schon bald viel schneller drehen als bisher.\n\nDie deutlich schnelleren Fluss-Algorithmen legen jedenfalls nicht nur den Grund, um auch sehr grosse, bislang oft nicht effizient berechenbare Probleme zu lösen, sondern sie verändern auch die Art und Weise, wie Computer überhaupt komplexe Aufgaben berechnen. «In den letzten zehn Jahren gab es eine Revolution in den theoretischen Grundlagen für erwiesenermassen schnelle Algorithmen für grundlegende Probleme der theoretischen Informatik», externe Seite schreibt dazu eine internationale Gruppe von Forschenden der Berkeley Universität, der auch Rasmus Kyng und Deeksha Adil, Forscherin am Institut für Theoretische Studien der ETH Zürich, angehören.\n\nLiteraturhinweise: van den Brand, J, Chen, L, Kyng, R, Liu, YP, Meierhans, S, Probst Gutenberg, M, Sachdeva, S. Almost-Linear Time Algorithms for Decremental Graphs: Min-Cost Flow and More via Duality. 65th IEEE Symposium on Foundations of Computer Science (FOCS) 2024. externe Seite https://focs.computer.org/2024/accepted-papers-for-focs-2024/\n\nChen, L, Kyng, R, Liu, YP, Meierhans, S, Probst Gutenberg, M. Almost-Linear Time Algorithms for Incremental Graphs: Cycle Detection, SCCs, s-t Shortest Path, and Minimum-Cost Flow. Proceedings of the 56th Annual ACM Symposium on Theory of Computing, June 2024 (STOC 2024). doi: externe Seite https://doi.org/10.1145/3618260.3649745 .\n\nChen, L, Kyng, R, Liu, YP, Peng, R, Probst Gutenberg, M, Sachdeva, S, Kyng, R. Maximum Flow and Minimum-Cost Flow in Almost-Linear Time. 2022 IEEE 63rd Annual Symposium on Foundations of Computer Science (FOCS), Denver, CO, USA, 2022. doi: externe Seite 10.1109/FOCS54457.2022.00064 .",
   "named_entities": [
-    "Netzwerkfluss-Algorithmus",
-    "Dieser Algorithmus",
-    "Theoretischen Informatik",
-    "Dieser Durchbruch",
-    "Lucky Luke",
     "Rasmus Kyng",
-    "Kyngs Team",
-    "Stellen Sie",
-    "Kyngs Algorithmus",
-    "Sein Algorithmus"
+    "Computer Science",
+    "IEEE",
+    "ETH Zürich",
+    "Probst Gutenberg",
+    "Almost-Linear Time Algorithms",
+    "ACM",
+    "FOCS",
+    "YP",
+    "Kyngs Team"
   ],
   "topics": [
     "Technology & Innovation",
@@ -26,24 +26,20 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Algorithmen",
+    "Algorithmus",
+    "Kyng",
+    "Kyngs",
+    "Netzwerk",
+    "Rasmus"
   ],
-  "summary": "In Kürze: • Informatiker der ETH Zürich haben einen Netzwerkfluss-Algorithmus geschrieben, der fast so schnell rechnet wie das mathematisch überhaupt möglich ist. • Dieser Algorithmus berechnet den maximalen Verkehrsfluss bei minimalen Transportkosten für jegliche Art von Netzwerk....",
+  "summary": "Das gilt auch für die wegweisenden Flussalgorithmen der 1970er-Jahre, für die die theoretischen Informatiker John Edward Hopcroft, Richard Manning Karp und Robert Endre Tarjan 1985 und 1986 den Turing-Award gewannen, der als Nobelpreis der Informatik gilt....",
   "content_structure": {
     "paragraph_count": 23,
     "bullet_points": 2,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 1787,
@@ -65,40 +61,6 @@
       "avg_words_per_sentence": 19.42,
       "avg_word_length": 6.01,
       "long_word_percentage": 36.09
-    },
-    "citation_info": {
-      "doi": "",
-      "journal": "",
-      "authors": [
-        "In Kürze",
-        "Informatiker",
-        "Zürich",
-        "Netzwerkfluss",
-        "Algorithmus"
-      ]
-    },
-    "semantic_entities": {
-      "locations": [
-        "Kyngs Team",
-        "Yale",
-        "Algorithmus",
-        "Netzen",
-        "Erdrutsch"
-      ],
-      "departments": [
-        "Forscherin am",
-        "Theoretische Studien der"
-      ],
-      "contact_info": {
-        "emails": [],
-        "websites": [
-          "focs.computer.org"
-        ],
-        "phones": [
-          "2004",
-          "2022"
-        ]
-      }
     }
   }
 }

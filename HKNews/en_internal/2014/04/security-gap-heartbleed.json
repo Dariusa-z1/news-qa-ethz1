@@ -5,7 +5,10 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "A big issue in the last days was the vulnerability called «Heartbleed», which affects, for example, web stores, Internet banking or in general all web services accessed over SLL («https»).\n\nIT Services recommend to all members of ETH to change their passwords affiliated with an ETH account (nethz) using this webtool , if you haven’t changed this week. From that moment on they guarantee that the systems are secure.\n\nMore information on the ID-Blog .",
   "named_entities": [
-    "ETH"
+    "ETH",
+    "SLL",
+    "IT",
+    "ID"
   ],
   "topics": [
     "Education",
@@ -13,25 +16,20 @@
   ],
   "keywords": [
     "Services",
-    "Issue",
-    "Last",
-    "Days",
-    "Vulnerability",
-    "Called",
-    "«heartbleed»"
+    "Accessed",
+    "Accessed https",
+    "Account",
+    "Account nethz",
+    "Affects",
+    "Affects example"
   ],
-  "summary": "A big issue in the last days was the vulnerability called «Heartbleed», which affects, for example, web stores, Internet banking or in general all web services accessed over SLL («https»). IT Services recommend to all members of ETH to change their passwords affiliated with an ETH account (nethz) using this webtool , if you haven’t changed this week....",
+  "summary": "A big issue in the last days was the vulnerability called «Heartbleed», which affects, for example, web stores, Internet banking or in general all web services accessed over SLL («https»)....",
   "content_structure": {
     "paragraph_count": 3,
     "bullet_points": 0,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 75,
@@ -48,15 +46,6 @@
       "avg_words_per_sentence": 18.75,
       "avg_word_length": 4.76,
       "long_word_percentage": 26.67
-    },
-    "semantic_entities": {
-      "locations": [],
-      "departments": [],
-      "contact_info": {
-        "emails": [],
-        "websites": [],
-        "phones": []
-      }
     }
   }
 }

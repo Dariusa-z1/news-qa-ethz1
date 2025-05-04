@@ -1,17 +1,20 @@
 {
-  "language": "en",
+  "language": "unknown",
   "title": "ETH News: Professor Beerenwinkel, what is the status of the coronavirus Delta variant in Switzerland? Niko Beerenwinkel: Fortunately, fewer and fewer people in Switzerland have become infected with the coronavirus in recent weeks. However, the Delta variant makes up an increasing proportion of the viruses in circulation. This is shown by data from colleagues here at the Department of Biosystems Science and Engineering, who have sequenced the viral genome in some of the PCR tests done in Switzerland to determine the viral strain. Wastewater measurements in which we are involved also clearly show this increase. We weren’t able to detect the Delta variant in any samples from Swiss wastewater treatment plants taken before 20 May. At that time, their frequency was below the detection limit. But now in the most recent samples, analysed up until 15 June, we find the Delta variant present in five of six wastewater treatment plants tested. According to our estimates, the variant accounted for 33 percent of all detected coronavirus RNA molecules in Zurich on 15 June, and 48 percent of those in the Bern region (Sensetal). In the other wastewater treatment plants studied, the proportion of the Delta strain was lower.",
   "date": "2021-06-01",
   "source": "ETH Zurich, University Communications",
   "main_content": "Main article: ETH News: Professor Beerenwinkel, what is the status of the coronavirus Delta variant in Switzerland? Niko Beerenwinkel: Fortunately, fewer and fewer people in Switzerland have become infected with the coronavirus in recent weeks. However, the Delta variant makes up an increasing proportion of the viruses in circulation. This is shown by data from colleagues here at the Department of Biosystems Science and Engineering, who have sequenced the viral genome in some of the PCR tests done in Switzerland to determine the viral strain. Wastewater measurements in which we are involved also clearly show this increase. We weren’t able to detect the Delta variant in any samples from Swiss wastewater treatment plants taken before 20 May. At that time, their frequency was below the detection limit. But now in the most recent samples, analysed up until 15 June, we find the Delta variant present in five of six wastewater treatment plants tested. According to our estimates, the variant accounted for 33 percent of all detected coronavirus RNA molecules in Zurich on 15 June, and 48 percent of those in the Bern region (Sensetal). In the other wastewater treatment plants studied, the proportion of the Delta strain was lower.\n\nCan you briefly explain how you determine the virus variants present in the wastewater samples? One of the ways people infected with the coronavirus shed viral RNA is in their stool. In the wastewater samples, we then usually only find RNA fragments that are no longer infectious, and no intact viruses. Colleagues at Eawag and EPFL are currently taking daily wastewater samples at six Swiss wastewater treatment plants and isolating these RNA fragments from them. Colleagues at the Functional Genomics Center Zurich sequence the RNA, which is to say they determine what order the RNA’s building blocks are in. We then use bioinformatics methods to analyse the data, which lets us estimate the frequencies of the different viral strains.\n\nAs you mentioned, in Switzerland, viral variants are also determined in PCR tests. Why do we need the wastewater analyses? Wastewater analyses have two major advantages: First, this data is truly representative of a wastewater treatment plant’s catchment area. In contrast, when examining the viral variants in samples from patients, there is always a risk that the data will be slightly biased, for example because not all individuals are tested. Second, our method is comparatively inexpensive. Sequencing a small number of wastewater samples gives us reliable information on the ratio of the virus’s different variants. To obtain the same accuracy with patient samples, you’d have to sequence a much larger number of samples.\n\nAre there any disadvantages with wastewater measurements? Virus variants are sometimes difficult to distinguish in wastewater, namely when one variant has few characteristic mutations or when several variants share such mutations. It is also difficult to calculate the absolute number of infected individuals from the wastewater measurements because environmental factors such as rainfall affect the concentration of coronavirus RNA molecules in the wastewater. The molecules are highly diluted in the wastewater. If the number of cases now drops even further in summer, then at some point virus detection in wastewater will probably no longer work. However, above a certain level of virus incidence, wastewater measurements are ideal for calculating the ratio of different viral strains at a given point in time and for observing how this ratio changes over time. That’s what we’re most interested in.\n\nWhy is this data interesting? Changes in this ratio let us calculate whether a new variant is more easily transmissible than an older one, and if so, then how much more. Because the wastewater data represents the average over a large number of people, calculations using this data are more accurate and have less uncertainty. That means we can predict at an early stage whether a new variant should be classified as a concern or not.\n\nYou publish your results on your website . The latest available data is from 15 June, which was two weeks ago. Is there some way to do the analysis faster? We and the other scientists involved started this project as a research project. Our aim was to show that these kinds of measurements are possible at all. We’re now aiming to publish the data two weeks after sampling. However, this will work only if all the molecular biological and bioinformatic analyses are error-free and succeed on the first attempt. If, say, the authorities expressed an interest in using these measurements as an early warning system in the future – in other words, to obtain information on emerging variants even more quickly and regularly – then we would have to revisit the infrastructure, which is currently geared to research, and adapt it to this goal. While that’s certainly possible, it’s beyond the scope of our research activities.\n\nAbout: Niko Beerenwinkel is Professor of Computational Biology at the Department of Biosystems Science and Engineering at ETH Zurich in Basel. His research at the interface of computer science, statistics and biology includes developing methods for analysing complex DNA and RNA sequencing data from viruses and tumours.",
   "named_entities": [
-    "Professor Beerenwinkel",
-    "Niko Beerenwinkel",
-    "Biosystems Science",
-    "Functional Genomics Center Zurich",
-    "Computational Biology",
+    "RNA",
     "ETH Zurich",
-    "ETH"
+    "Department of Biosystems Science",
+    "Niko Beerenwinkel",
+    "Functional Genomics Center Zurich",
+    "PCR",
+    "Professor Beerenwinkel",
+    "Computational Biology",
+    "EPFL",
+    "DNA"
   ],
   "topics": [
     "COVID-19",
@@ -22,26 +25,21 @@
     "Staff"
   ],
   "keywords": [
-    "ETH Zurich",
-    "Wastewater",
-    "Data",
-    "Samples",
-    "Variant",
-    "Viral",
-    "Variants"
+    "Coronavirus delta",
+    "Coronavirus rna",
+    "Of coronavirus",
+    "Detected coronavirus",
+    "Coronavirus recent",
+    "Coronavirus",
+    "Infected coronavirus"
   ],
-  "summary": "Main article: ETH News: Professor Beerenwinkel, what is the status of the coronavirus Delta variant in Switzerland? Niko Beerenwinkel: Fortunately, fewer and fewer people in Switzerland have become infected with the coronavirus in recent weeks. However, the Delta variant makes up an increasing proportion of the viruses in circulation....",
+  "summary": "It is also difficult to calculate the absolute number of infected individuals from the wastewater measurements because environmental factors such as rainfall affect the concentration of coronavirus RNA molecules in the wastewater....",
   "content_structure": {
     "paragraph_count": 7,
     "bullet_points": 0,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 854,
@@ -62,33 +60,6 @@
       "avg_words_per_sentence": 18.98,
       "avg_word_length": 5.08,
       "long_word_percentage": 29.86
-    },
-    "citation_info": {
-      "doi": "",
-      "journal": "",
-      "authors": [
-        "Professor Beerenwinkel",
-        "Switzerland"
-      ]
-    },
-    "semantic_entities": {
-      "locations": [
-        "Basel",
-        "Swiss",
-        "Eawag",
-        "Switzerland",
-        "Zurich"
-      ],
-      "departments": [
-        "Biosystems Science and Engineering",
-        "Biosystems Science and Engineering at",
-        "of Computational Biology at the"
-      ],
-      "contact_info": {
-        "emails": [],
-        "websites": [],
-        "phones": []
-      }
     }
   }
 }
