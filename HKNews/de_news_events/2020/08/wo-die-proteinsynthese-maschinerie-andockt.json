@@ -1,20 +1,20 @@
 {
   "language": "de",
   "title": "Wo Die Proteinsynthese Maschinerie Andockt",
-  "date": "2020-08-01",
+  "date": "2010-10-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Feinsteuerung der Proteinherstellung: Das Erbgut von Bakterien, Pflanzen bis hin zum Menschen lässt sich heute sehr einfach entziffern, und dennoch birgt es viele offene Fragen. Da sind zum Beispiel die RNA-Abschriften der Gene und die Stellen darauf, an welche die zelluläre Proteinsynthese-Maschinerie (die Ribosomen) andocken, um die genetische Information abzulesen. Ein umfassendes Verständnis zu diesen Andockstellen fehlte bisher.\n\nEin interdisziplinäres Team von Forschenden des Departements Biosysteme (D-BSSE) der ETH Zürich in Basel hat nun einen Ansatz entwickelt, mit dem es erstmals möglich ist, detaillierte Informationen zu einer unglaublich grossen Zahl solcher Andockungsstellen in Bakterien zu gewinnen. Der Ansatz kombiniert experimentelle Methoden der synthetischen Biologie mit maschinellem Lernen.\n\nBei den Andockungsstellen handelt es sich um kurze Abfolgen von RNA-Bausteinen vor jedem Gen. In der Vergangenheit haben Biotechnologen auch künstliche Andockstellen entwickelt. An einige davon heften sich die Ribosomen äusserst gut, an andere weniger. Je besser Ribosomen an eine bestimmte Variante andocken können, desto eher lesen sie die Information des Gens ab und desto mehr des entsprechenden Proteins stellen sie her.\n\nWenn Biotechnologen Bakterien verwenden, um beispielsweise Medikamente herzustellen, können sie mit der Wahl der Ribosomen-Andockungsstellen die hergestellte Menge beeinflussen. «Besonders interessant und wichtig ist eine solche Steuerung, wenn man komplexe Gen-Netzwerke in Zellen bringt, die mehrere Proteine gleichzeitig herstellen sollen. Dann gilt es, ihre Menge optimal aufeinander abzustimmen», erklärt Markus Jeschek. Er ist Senior Scientist und Gruppenleiter am D-BSSE.\n\nZusammen mit den ETH-Professoren Yaakov Benenson und Karsten Borgwardt sowie Mitgliedern der jeweiligen Gruppen entwickelte er nun eine Methode, um für über 300’000 synthetisch erzeugte RNA-Sequenzen zu bestimmen, wie gut Ribosomen an sie andocken. Bisher war das pro Experiment nur für wenige Hundert Sequenzen möglich.\n\nDer Ansatz der ETH-Forschenden benutzt «Deep Sequencing», die modernste Technik zur Bestimmung von DNA- und RNA-Sequenzen. Im Labor stellten die Wissenschaftler und Wissenschaftlerinnen in einem Schritt mehr als 300'000 verschiedene Ribosomen-Andockungsstellen her und fusionierten diese jeweils mit einem Gen für ein Enzym, das ein Stück DNA verändert. Die entsprechenden Gen-Konstrukte führten sie in Bakterien ein, um im Experiment zu sehen, wie stark sich im Einzelfall die Ribosomen an die RNA heften. Je besser die jeweilige Andockungsstelle funktioniert, desto mehr Enzym wird in der Zelle hergestellt, und umso eher wird das Stück DNA verändert. Diese Veränderung können die Forschenden im Anschluss an das Experiment mittels Sequenzierung zusammen mit der jeweiligen RNA-Sequenz der Andockstelle auslesen.\n\nWeil 300'000 nur ein kleiner Teil von vielen Milliarden theoretisch denkbaren Ribosomen-Bindungsstellen ist, haben die Wissenschaftler ihre Daten mit Algorithmen des maschinellen Lernens untersucht. «Diese Algorithmen erkennen in grossen Datenbeständen komplexe statistische Zusammenhänge. Mit deren Hilfe können wir vorhersagen, wie gut Ribosomen eine bestimmte RNA-Sequenz binden», erklärt Karsten Borgwardt, Professor für Data-Mining. Diese Vorhersagemodelle stellten die ETH-Forschenden als Software frei zur Verfügung, damit auch andere Wissenschaftler sie nutzen können. Bald werden sie auch einen einfach zu nutzenden Onlineservice veröffentlichen.\n\nDer von den Wissenschaftlern gewählte Ansatz ist universell, wie Benenson und Jeschek betonen. Deshalb planen die Forscher, ihn auch in anderen Organismen zu nutzen bis hin zu menschlichen Zellen. «Der Einfluss von genetischer Information auf die Menge eines Proteins, das in einer Zelle hergestellt wird, ist auch beim Menschen interessant», sagt Benenson. «Gerade auch im Zusammenhang mit genetisch bedingten Krankheiten.»\n\nLiteraturhinweis: Höllerer S, Papaxanthos L, Gumpinger AC, Fischer K, Beisel C, Borgwardt K, Benenson Y, Jeschek M: Large-scale DNA-based phenotypic recording and deep learning enable highly accurate sequence-function mapping. Nature Communications 2020, doi: externe Seite 10.1038/s41467-020-17222-4",
   "named_entities": [
-    "Das Erbgut",
-    "Proteinsynthese-Maschinerie",
-    "Departements Biosysteme",
-    "Der Ansatz",
+    "RNA",
+    "DNA",
+    "ETH Zürich",
+    "Karsten Borgwardt",
     "Wenn Biotechnologen Bakterien",
-    "Ribosomen-Andockungsstellen",
-    "Gen-Netzwerke",
+    "Professoren Yaakov Benenson",
+    "BSSE",
+    "Departements Biosysteme",
     "Markus Jeschek",
-    "Senior Scientist",
-    "Professoren Yaakov Benenson"
+    "Senior Scientist"
   ],
   "topics": [
     "Staff",
@@ -24,20 +24,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Ribosomen",
+    "Ansatz",
+    "Bakterien",
+    "Benenson",
+    "Andocken",
+    "Borgwardt"
   ],
-  "summary": "Feinsteuerung der Proteinherstellung: Das Erbgut von Bakterien, Pflanzen bis hin zum Menschen lässt sich heute sehr einfach entziffern, und dennoch birgt es viele offene Fragen....",
+  "summary": "Da sind zum Beispiel die RNA-Abschriften der Gene und die Stellen darauf, an welche die zelluläre Proteinsynthese-Maschinerie (die Ribosomen) andocken, um die genetische Information abzulesen....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 590,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -47,6 +53,11 @@
       "Research",
       "Communications",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.44,
+      "avg_word_length": 6.04,
+      "long_word_percentage": 38.31
+    }
   }
 }

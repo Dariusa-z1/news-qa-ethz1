@@ -1,20 +1,15 @@
 {
   "language": "de",
   "title": "Hätten Sie es geglaubt? In unserer Quiz-Reihe nehmen wir Sie mit auf Erkundungstour durch bemerkenswerte, sonderbare und witzige Fakten aus Forschung und Lehre der ETH Zürich. Diese Folge widmet sich den laufenden Bildern. Übrigens, die ETH Zürich ist Teil des externe Seite ZFF-Rahmenprogramms . Von Montag, 30. September bis Freitag, 4. Oktober, 10.00 bis 15.00 Uhr, kann im Folium, Sihlcity, unter anderem die Digital Platform der ETH ausprobiert werden, Besucherinnen und Besucher begegnen einem hüpfenden Roboter oder können mit einem interaktiven Handschuh in virtuelle Welten eintauchen. Auch aus dem DisneyResearch|Studios gibt es Überraschendes zu bestaunen. Eröffnet wird die Ausstellung am Samstag, 28.9. ab 17 Uhr.",
-  "date": "2019-09-01",
+  "date": "2000-10-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Hätten Sie es geglaubt? In unserer Quiz-Reihe nehmen wir Sie mit auf Erkundungstour durch bemerkenswerte, sonderbare und witzige Fakten aus Forschung und Lehre der ETH Zürich. Diese Folge widmet sich den laufenden Bildern. Übrigens, die ETH Zürich ist Teil des externe Seite ZFF-Rahmenprogramms . Von Montag, 30. September bis Freitag, 4. Oktober, 10.00 bis 15.00 Uhr, kann im Folium, Sihlcity, unter anderem die Digital Platform der ETH ausprobiert werden, Besucherinnen und Besucher begegnen einem hüpfenden Roboter oder können mit einem interaktiven Handschuh in virtuelle Welten eintauchen. Auch aus dem DisneyResearch|Studios gibt es Überraschendes zu bestaunen. Eröffnet wird die Ausstellung am Samstag, 28.9. ab 17 Uhr.",
   "named_entities": [
+    "ETH Zürich",
     "Hätten Sie",
-    "Quiz-Reihe",
     "Diese Folge",
-    "Von Montag",
     "Digital Platform",
-    "Erkundungstour",
-    "Fakten",
-    "Forschung",
-    "Lehre",
-    "Zürich"
+    "ZFF"
   ],
   "topics": [
     "Research",
@@ -23,21 +18,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "Research",
-    "Teaching",
-    "University",
-    "Science",
-    "Campus",
-    "Education"
+    "Zürich",
+    "Ausprobiert",
+    "Ausprobiert besucherinnen",
+    "Ausstellung",
+    "Ausstellung samstag",
+    "Begegnen"
   ],
-  "summary": "Hätten Sie es geglaubt? In unserer Quiz-Reihe nehmen wir Sie mit auf Erkundungstour durch bemerkenswerte, sonderbare und witzige Fakten aus Forschung und Lehre der ETH Zürich....",
+  "summary": "Oktober, 10.00 bis 15.00 Uhr, kann im Folium, Sihlcity, unter anderem die Digital Platform der ETH ausprobiert werden, Besucherinnen und Besucher begegnen einem hüpfenden Roboter oder können mit einem interaktiven Handschuh in virtuelle Welten eintauchen....",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 110,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -46,6 +46,11 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 8.46,
+      "avg_word_length": 5.42,
+      "long_word_percentage": 32.73
+    }
   }
 }

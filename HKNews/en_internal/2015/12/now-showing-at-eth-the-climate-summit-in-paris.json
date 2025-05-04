@@ -5,16 +5,14 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "The 2015 United Nations Climate Change Conference COP 21 has been taking place in Paris since 30 November, and runs until 11 December. Representatives from the governments and civil society of nearly 200 countries are debating how the founding efforts of the Kyoto Protocol should be continued. By the end of this week, they should achieve a new binding international agreement framing a climate policy which aims to limit global warming to under 2°C.\n\nOne important discussion point is the emission reduction objectives from each country. Also being debated are the financial mechanisms to compensate the poorest countries suffering from climate change, and the support for countries that have been asked to combine important economic development with low carbon emissions.\n\nIn order to keep up-to-date with the negotiations, plenary sessions and press conferences from the COP21 are being webcast live on the “Green Floor” in the CHN building (D-floor next to the lift), every day from 10am to 6pm. Daily updates on the status of the negotiations are being shown on-screen and recorded in print, as flyers.\n\nMartha Vogel is a doctoral student at the Institute for Atmospheric and Climate Science at ETH Zurich.",
   "named_entities": [
+    "ETH Zurich",
     "United Nations Climate Change",
     "Kyoto Protocol",
     "Green Floor",
     "Martha Vogel",
     "Climate Science",
-    "Conference",
-    "Paris",
-    "November",
-    "December",
-    "Institute"
+    "COP",
+    "CHN"
   ],
   "topics": [
     "Sustainability",
@@ -25,22 +23,27 @@
     "Infrastructure"
   ],
   "keywords": [
-    "ETH Zurich",
-    "From",
     "Climate",
     "Countries",
-    "Being",
     "Change",
-    "Been"
+    "Climate change",
+    "Important",
+    "Negotiations",
+    "10am"
   ],
-  "summary": "The 2015 United Nations Climate Change Conference COP 21 has been taking place in Paris since 30 November, and runs until 11 December....",
+  "summary": "Also being debated are the financial mechanisms to compensate the poorest countries suffering from climate change, and the support for countries that have been asked to combine important economic development with low carbon emissions....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 199,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Researchers"
@@ -50,6 +53,11 @@
       "Sustainability",
       "Infrastructure",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 24.88,
+      "avg_word_length": 4.99,
+      "long_word_percentage": 28.64
+    }
   }
 }

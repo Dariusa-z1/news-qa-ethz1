@@ -7,14 +7,14 @@
   "named_entities": [
     "Swiss Seismological Service",
     "European Seismic Hazard",
+    "SED",
+    "ETH Zurich",
     "Risk Models",
+    "SIA",
+    "Federal Office",
     "European Seismic Risk Model",
-    "Seismic Risk Model",
     "Seismic Hazard Model",
-    "European Facilities",
-    "Earthquake Hazard",
-    "European-Mediterranean",
-    "European Union"
+    "EFEHR"
   ],
   "topics": [
     "Infrastructure",
@@ -25,22 +25,27 @@
     "Communication"
   ],
   "keywords": [
-    "ETH Zurich",
     "Risk",
     "Hazard",
     "Model",
     "Earthquake",
     "European",
-    "Seismic"
+    "Seismic",
+    "Earthquakes"
   ],
-  "summary": "Improved seismic hazard model: During the 20th century, earthquakes in Europe accounted for more than 200,000 deaths and over 250 billion Euros in losses....",
+  "summary": "As with the seismic hazard model, the national seismic risk model will reflect the specific characteristics of Switzerland more accurately than the European model and will therefore serve as the primary reference for Switzerland-wide risk analyses....",
+  "content_structure": {
+    "paragraph_count": 22,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 1493,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -49,6 +54,11 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 25.31,
+      "avg_word_length": 5.38,
+      "long_word_percentage": 32.35
+    }
   }
 }

@@ -5,16 +5,12 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Geförderte Forschende müssen den offenen Zugang zu den Daten sicherstellen, die ihren Publikationen zugrunde liegen. Zusätzlich müssen sie für Open Access zu weiteren Forschungsdaten ihrer Wahl sorgen. Ein 'Opt out' bleibt möglich.\n\nUm das Datenmanagement und Open Data zu unterstützen, müssen alle Projekte einen Datenmanagementplan (DMP) erstellen und aktuell halten. Wie eine Checkliste dabei helfen kann, zeigt unser Blogbeitrag auf Innovation@ETH-Bibliothek .\n\nexterne Seite Infografik zum Thema (pdf, 205 kB)",
   "named_entities": [
+    "ETH",
     "Geförderte Forschende",
     "Open Access",
     "Open Data",
     "Seite Infografik",
-    "Zugang",
-    "Daten",
-    "Publikationen",
-    "Forschungsdaten",
-    "Wahl",
-    "Datenmanagement"
+    "DMP"
   ],
   "topics": [
     "Research",
@@ -23,27 +19,38 @@
     "Technology & Innovation"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Müssen",
+    "Open",
+    "Access",
+    "Access weiteren",
+    "Aktuell",
+    "Aktuell halten",
+    "Bleibt"
   ],
-  "summary": "Geförderte Forschende müssen den offenen Zugang zu den Daten sicherstellen, die ihren Publikationen zugrunde liegen....",
+  "summary": "Um das Datenmanagement und Open Data zu unterstützen, müssen alle Projekte einen Datenmanagementplan (DMP) erstellen und aktuell halten....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 71,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 11.83,
+      "avg_word_length": 6.0,
+      "long_word_percentage": 30.99
+    }
   }
 }

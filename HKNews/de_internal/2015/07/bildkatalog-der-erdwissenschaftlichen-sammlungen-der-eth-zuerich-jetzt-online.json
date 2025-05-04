@@ -5,16 +5,10 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Die Materialien stammen aus der Sammlung Albert Heim, die in den 1880er bis 1910er Jahren aus der ganzen Welt zusammengetragen wurden.\n\nEs lässt sich nach verschiedenen Fachbegriffen wie Fossilien, Sedimenten, vulkanischen Produkten oder metamorphen Gesteinen recherchieren. Die digitalisierten Objekte können dreidimensional angesehen und kostenlos heruntergeladen werden.\n\nWeitere Informationen finden Sie auf ETH E-Pics Erdwissenschaftliche Sammlungen",
   "named_entities": [
-    "Die Materialien",
+    "ETH",
     "Sammlung Albert Heim",
-    "Weitere Informationen",
     "Pics Erdwissenschaftliche Sammlungen",
-    "Jahren",
-    "Welt",
-    "Fachbegriffen",
-    "Fossilien",
-    "Sedimenten",
-    "Produkten"
+    "Weitere Informationen"
   ],
   "topics": [
     "Research",
@@ -23,21 +17,27 @@
     "Communication"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "1880er",
+    "1880er 1910er",
+    "1910er",
+    "1910er jahren",
+    "Albert",
+    "Albert heim",
+    "Angesehen"
   ],
   "summary": "Die Materialien stammen aus der Sammlung Albert Heim, die in den 1880er bis 1910er Jahren aus der ganzen Welt zusammengetragen wurden....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 56,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -46,6 +46,11 @@
       "Financial",
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.0,
+      "avg_word_length": 6.98,
+      "long_word_percentage": 41.07
+    }
   }
 }

@@ -5,16 +5,9 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Hätten Sie es geglaubt? In der Sommerquiz-Reihe nehmen wir Sie mit auf Erkundungstour durch bemerkenswerte, sonderbare und witzige Fakten aus Forschung und Lehre der ETH Zürich. Diese Folge widmet sich dem Studium und den Studierenden an der ETH.",
   "named_entities": [
+    "ETH Zürich",
     "Hätten Sie",
-    "Sommerquiz-Reihe",
-    "Diese Folge",
-    "Erkundungstour",
-    "Fakten",
-    "Forschung",
-    "Lehre",
-    "Zürich",
-    "Studium",
-    "Studierenden"
+    "Diese Folge"
   ],
   "topics": [
     "Education",
@@ -22,21 +15,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "Research",
-    "Teaching",
-    "University",
-    "Science",
-    "Campus",
-    "Education"
+    "Bemerkenswerte",
+    "Bemerkenswerte sonderbare",
+    "Erkundungstour",
+    "Erkundungstour bemerkenswerte",
+    "Fakten",
+    "Fakten forschung"
   ],
-  "summary": "Hätten Sie es geglaubt? In der Sommerquiz-Reihe nehmen wir Sie mit auf Erkundungstour durch bemerkenswerte, sonderbare und witzige Fakten aus Forschung und Lehre der ETH Zürich....",
+  "summary": "Hätten Sie es geglaubt? In der Sommerquiz-Reihe nehmen wir Sie mit auf Erkundungstour durch bemerkenswerte, sonderbare und witzige Fakten aus Forschung und Lehre der ETH Zürich. Diese Folge widmet sich dem Studium und den Studierenden an der ETH.",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 39,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -45,6 +43,11 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.0,
+      "avg_word_length": 5.23,
+      "long_word_percentage": 23.08
+    }
   }
 }

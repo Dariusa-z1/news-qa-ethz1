@@ -5,15 +5,12 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Online-Prüfungen gewinnen innerhalb der traditionellen Bildungseinrichtungen zunehmend an Bedeutung. Darüber hinaus sind sie essentiell für die neuen, vollständig online angebotenen Lernangebote wie zum Beispiel MOOCs (Massive Open Online Courses).\n\nUm Online-Prüfungen abgesichert durchführen zu können, ist neben geeigneten organisatorischen Vorkehrungen das passende Software-Werkzeug notwendig. Der Safe Exam Browser ( externe Seite SEB ) ist ein solches Produkt. SEB ist eine abgesicherte Browser-Applikation, mit der man Online-Prüfungen auf webbasierten Prüfungssystemen zuverlässig durchführen kann.\n\nNun haben die ETH Zürich und die Stiftung SWITCH, die Technologie- und Dienstleistungsplattform der Schweizer Hochschulen, im Juni ein Konsortium gegründet mit dem Ziel, die Pflege und funktionale Weiterentwicklung des SEB-Browsers nachhaltig zu finanzieren. Das Konsortium steht weiteren Mitgliedern aus dem Bereich der Bildungsinstitutionen, Unternehmen, Behörden sowie Stiftungen offen. Mit der Beteiligung weiterer Konsortiumsmitglieder und der SEB Open Source Community wird die weitere Zukunft dieser Open-Source Software sichergestellt.\n\nDurch den Start der SEB-Applikation wird ein herkömmlicher Desktop-Computer oder ein Tablet in einen sogenannten Kioskmodus versetzt und somit zu einer temporär abgesicherte Prüfungsstation. SEB regelt den Zugriff auf Hilfsmittel wie Systemfunktionen, andere Websites und Programme und unterbindet die Verwendung von unerlaubten Ressourcen während einer Prüfung.\n\nSEB ist ein Open-Source-Produkt, das an der ETH Zürich seit Jahren eingesetzt und weiterentwickelt wird. Heute wird SEB weltweit eingesetzt und setzt Standards hinsichtlich Qualität, Funktionalität und Sicherheit.",
   "named_entities": [
-    "Online-Prüfungen",
+    "SEB",
+    "ETH Zürich",
     "Massive Open Online Courses",
-    "Um Online-Prüfungen",
-    "Software-Werkzeug",
-    "Der Safe Exam Browser",
-    "Browser-Applikation",
-    "Schweizer Hochschulen",
-    "Das Konsortium",
     "Open Source Community",
+    "Um Online-Prüfungen",
+    "Schweizer Hochschulen",
     "Open-Source Software"
   ],
   "topics": [
@@ -26,20 +23,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Onlineprüfungen",
+    "Abgesicherte",
+    "Durchführen",
+    "Eingesetzt",
+    "Konsortium",
+    "Online"
   ],
-  "summary": "Online-Prüfungen gewinnen innerhalb der traditionellen Bildungseinrichtungen zunehmend an Bedeutung....",
+  "summary": "Nun haben die ETH Zürich und die Stiftung SWITCH, die Technologie- und Dienstleistungsplattform der Schweizer Hochschulen, im Juni ein Konsortium gegründet mit dem Ziel, die Pflege und funktionale Weiterentwicklung des SEB-Browsers nachhaltig zu finanzieren....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 223,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "General Public"
     ],
@@ -48,6 +51,11 @@
       "Catering",
       "Sustainability",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.58,
+      "avg_word_length": 6.61,
+      "long_word_percentage": 43.05
+    }
   }
 }

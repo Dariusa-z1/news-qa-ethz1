@@ -5,10 +5,8 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "From now on, not only will you be able to find documents on the Search Portal , but also selected information about ETH Library and its services.\n\nType a term such as “opening times”, “open access” or “geosciences” in the search field. Links to ETH Library’s websites along with the corresponding information will then appear.",
   "named_entities": [
-    "Search Portal",
-    "From",
-    "Library",
-    "ETH"
+    "ETH",
+    "Search Portal"
   ],
   "topics": [
     "Communication",
@@ -16,22 +14,27 @@
     "Technology & Innovation"
   ],
   "keywords": [
-    "Will",
-    "Search",
     "Information",
-    "From",
-    "Only",
+    "Library",
+    "Search",
     "Able",
-    "Find"
+    "Able find",
+    "Access",
+    "Access geosciences"
   ],
-  "summary": "From now on, not only will you be able to find documents on the Search Portal , but also selected information about ETH Library and its services....",
+  "summary": "From now on, not only will you be able to find documents on the Search Portal , but also selected information about ETH Library and its services. Type a term such as “opening times”, “open access” or “geosciences” in the search field....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 55,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -39,6 +42,11 @@
     "context_tags": [
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.33,
+      "avg_word_length": 4.69,
+      "long_word_percentage": 20.0
+    }
   }
 }

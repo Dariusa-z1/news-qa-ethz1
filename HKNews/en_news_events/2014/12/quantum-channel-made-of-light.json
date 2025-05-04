@@ -5,16 +5,14 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Cooling to almost absolute zero: Two vessels filled with gas and connected by a channel – this is the basic setting for the experiments carried out by the physicists at the ETH Institute for Quantum Electronics. As one vessel contains more gas than the other, particles flow through the channel from one side to the other. \"The question now is how the conductivity changes as we gradually make the channel narrower,\" says physics professor Tilman Esslinger. Initially, the conductivity decreases smoothly. However, at some point an amazing phenomenon appears: the conductivity does not change continuously anymore, but in steps, and the size of the steps is determined by a fundamental entity known as the Planck constant. \"This is an immediate consequence of quantum physics,\" explains Esslinger.\n\nThis basic-research project, which is supported by the Swiss National Science Foundation (SNF) and the European Union, might be of relevance for the design and construction of the next generation of electronic devices, as it enables the future study of effects that currently cannot be explored with electronic systems.\n\nThe group led by Tilman Esslinger works with ultracold atoms. In the experiment described by the researchers in the current issue of the journal Nature , they used a gas consisting of lithium atoms at a temperature of merely 35 billionths of a degree above absolute zero. \"Cooling is the main focus of our work in the lab,\" says Dr Jean-Philippe Brantut, SNF Ambizione Fellow at the Institute for Quantum Electronics. \"99 percent of our equipment, which we developed in house, serves that purpose.\" Cooled to such low temperatures, the lithium atoms behave similarly to electrons in a solid-state material, even if – in contrast to electrons – the atoms are not charged.\n\nThe channel structure is sufficiently narrow that the laws of quantum mechanics come into play. This means that for atoms flowing through the channel, the conductivity should change not continuously but in steps, whose size are given by Planck's quantum of action, which is a fundamental constant of nature. This behaviour is precisely what the research group has observed. Ten atoms are in the channel at a time, says Brantut. To make the microscopic flow visible, the channel had to be kept open until 1,000 or so atoms have passed through it. This took some 1.5 seconds, which is a rather long time for an experiment of this type. \"The experiment can only work if the atoms are very stable – that is, extremely cold – and nothing else changes,\" explains the physicist.\n\nThe atoms transverse the experimental setup like small bullets, without being thrown off course by collisions. The physicists therefore refer to this as a ballistic system. The electronics industry is looking to develop in the future ballistic transistors, in which electrical resistance is extremely low. The experiments involving neutral atoms and laser light might contribute to these developments, as they enable scientists to systematically study theoretical models and compare results directly, which often is not possible with electronic systems, due to the current inability to produce suitable samples. \"Until now, we have been carrying out measurements based on predictions from theoretical models,\" says Brantut. \"Now we are venturing into uncharted territory.\"\n\nLiterature reference: Krinner S, Stadler D, Husmann D, Brantut J-P, Esslinger T: Observation of quantized conductance in neutral matter. Nature 517,64–67(01 January 2015). doi: 10.1038/nature14049",
   "named_entities": [
+    "ETH",
     "Quantum Electronics",
     "Tilman Esslinger",
     "Swiss National Science Foundation",
-    "European Union",
     "Dr Jean-Philippe Brantut",
-    "Ambizione Fellow",
-    "Cooling",
-    "Institute",
-    "Planck",
-    "Nature"
+    "SNF",
+    "European Union",
+    "Ambizione Fellow"
   ],
   "topics": [
     "Research",
@@ -26,21 +24,26 @@
   ],
   "keywords": [
     "Atoms",
-    "This",
     "Channel",
-    "Which",
     "Quantum",
-    "That",
-    "With"
+    "Brantut",
+    "Conductivity",
+    "Esslinger",
+    "Says"
   ],
-  "summary": "",
+  "summary": "This means that for atoms flowing through the channel, the conductivity should change not continuously but in steps, whose size are given by Planck's quantum of action, which is a fundamental constant of nature....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 563,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +53,11 @@
       "Research",
       "Weather",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.77,
+      "avg_word_length": 5.1,
+      "long_word_percentage": 32.33
+    }
   }
 }

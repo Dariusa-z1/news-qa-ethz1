@@ -5,15 +5,11 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Last year, numerous private individuals, foundations and companies supported ETH Zurich with more than 3500 donations, bequests and legacies totalling over 130 million Swiss francs.\n\nThe partnership between ETH and the Dieter Schwarz Foundation marked a milestone in 2023. It will make it possible to help shape the digital transformation responsibly over the next 30 years to an extent that could not be achieved with regular ETH funding and structures. Up to 20 professorships are planned, as well as the establishment of a teaching and research centre in Heilbronn with global reach.\n\nDonors and partners have made even more possible in the past year: among other things, research for children and adolescents at the Basel Research Centre for Child Health (BRCCH) can be greatly expanded together with the University of Basel thanks to a further generous donation of 50 million from the Fondation Botnar. The Halter Group supports the field of digital planning and construction. The private sponsorship of a couple contributes to the training of future peace mediators. Finally, more and more private individuals, foundations and companies are committed to the promotion of young talent; last year they supported many students and young entrepreneurs on their path.",
   "named_entities": [
+    "ETH Zurich",
     "Dieter Schwarz Foundation",
     "Basel Research Centre",
     "Child Health",
     "Fondation Botnar",
-    "The Halter Group",
-    "Last",
-    "Zurich",
-    "Swiss",
-    "Heilbronn",
     "BRCCH"
   ],
   "topics": [
@@ -25,22 +21,27 @@
     "Weather & Environment"
   ],
   "keywords": [
-    "ETH Zurich",
-    "With",
-    "More",
-    "Year",
     "Private",
     "Research",
-    "Last"
+    "Year",
+    "Basel",
+    "Centre",
+    "Companies",
+    "Digital"
   ],
-  "summary": "Last year, numerous private individuals, foundations and companies supported ETH Zurich with more than 3500 donations, bequests and legacies totalling over 130 million Swiss francs....",
+  "summary": "Donors and partners have made even more possible in the past year: among other things, research for children and adolescents at the Basel Research Centre for Child Health (BRCCH) can be greatly expanded together with the University of Basel thanks to a further generous donation of 50 million from the Fondation Botnar....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 198,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +52,11 @@
       "Research",
       "Education",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 24.75,
+      "avg_word_length": 5.3,
+      "long_word_percentage": 32.32
+    }
   }
 }

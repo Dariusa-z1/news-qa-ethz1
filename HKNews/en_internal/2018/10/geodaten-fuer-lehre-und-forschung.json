@@ -5,11 +5,8 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "The service geodata4edu.ch offers members of Swiss universities a central access point to federal and cantonal geodata. This also enables members of ETH Zurich to use the data provided fully for teaching and research.\n\nThe metadata catalogue provides an overview of the datasets available and facilitates specific data searches. Handbooks, video tutorials and other information are available on geodata4edu.ch.\n\nYou’ve never worked with geodata? No problem: for more inexperienced users, information on different data types is available and data excerpts in different formats can be downloaded quickly and simply via the browser-based access.\n\nThe web services can be used for direct integration in the GIS program (ArcGIS, soon also QGIS). Data access via web services is ideal for using several datasets at once and conducting dataset analyses in a GIS program.",
   "named_entities": [
-    "Swiss",
-    "Zurich",
-    "ArcGIS",
-    "QGIS",
-    "ETH Zurich"
+    "ETH Zurich",
+    "QGIS"
   ],
   "topics": [
     "Communication",
@@ -18,22 +15,27 @@
     "Staff"
   ],
   "keywords": [
-    "ETH Zurich",
     "Data",
     "Access",
     "Available",
-    "Geodata4educh",
-    "Members",
+    "Access services",
+    "Datasets",
+    "Different",
     "Geodata"
   ],
-  "summary": "The service geodata4edu.ch offers members of Swiss universities a central access point to federal and cantonal geodata....",
+  "summary": "No problem: for more inexperienced users, information on different data types is available and data excerpts in different formats can be downloaded quickly and simply via the browser-based access....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 135,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -41,6 +43,11 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.5,
+      "avg_word_length": 5.27,
+      "long_word_percentage": 36.3
+    }
   }
 }

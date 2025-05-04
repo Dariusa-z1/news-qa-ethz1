@@ -5,16 +5,12 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Der Service externe Seite geodata4edu.ch bietet Angehörigen Schweizer Hochschulen einen zentralen Zugang zu Geodaten von Bund und Kantonen. Somit können auch Angehörige der ETH Zürich die zur Verfügung gestellten Daten voll umfänglich für Lehre und Forschung nutzen. Der Metadatenkatalog gibt eine Übersicht über die vorhandenen Datensätze und ermöglicht gezielt, nach Daten zu suchen. Auch Handbücher, Video Tutorials und weitere Informationen sind auf geodata4edu.ch zu finden.\n\nSie haben noch nie mit Geodaten gearbeitet? Kein Problem: Für eher unerfahrene Nutzende stehen Informationen zu verschiedenen Datentypen zur Verfügung und über den Browser basierten Zugang können Datenausschnitte in verschiedenen Formaten schnell und einfach heruntergeladen werden.\n\nFür die direkte Integration in das eigene GIS Programm (ArcGIS, bald auch QGIS) können die Webservices genutzt werden. Der Datenzugriff über die Webservices bietet sich insbesondere an, um mehrere Datensätze zusammen zu verwenden und mit den Datensätzen-Analysen in einem GIS-Programm durchzuführen.",
   "named_entities": [
-    "Der Service",
+    "ETH Zürich",
     "Angehörigen Schweizer Hochschulen",
-    "Der Metadatenkatalog",
     "Auch Handbücher",
     "Video Tutorials",
     "Kein Problem",
-    "Der Datenzugriff",
-    "Datensätzen-Analysen",
-    "Seite",
-    "Zugang"
+    "QGIS"
   ],
   "topics": [
     "Communication",
@@ -24,20 +20,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Bietet",
+    "Daten",
+    "Datensätze",
+    "Geodata4educh",
+    "Geodaten",
+    "Informationen"
   ],
-  "summary": "Der Service externe Seite geodata4edu.ch bietet Angehörigen Schweizer Hochschulen einen zentralen Zugang zu Geodaten von Bund und Kantonen....",
+  "summary": "Kein Problem: Für eher unerfahrene Nutzende stehen Informationen zu verschiedenen Datentypen zur Verfügung und über den Browser basierten Zugang können Datenausschnitte in verschiedenen Formaten schnell und einfach heruntergeladen werden....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 146,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -45,6 +47,11 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.6,
+      "avg_word_length": 6.18,
+      "long_word_percentage": 39.73
+    }
   }
 }

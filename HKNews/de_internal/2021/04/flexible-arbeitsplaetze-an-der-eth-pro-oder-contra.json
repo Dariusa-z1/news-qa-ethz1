@@ -5,16 +5,12 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Homeoffice wird auch nach der Corona-Krise für viele von uns zum Arbeitsalltag gehören. Damit verändern sich auch die Anforderungen an die Arbeitsinfrastruktur: Ungenutzte Arbeitsplätze im Büro könnten durch flexible Arbeitsplätze vermieden werden. Einige Grosskonzerne haben das sogenannte Desksharing bereits vor der Pandemie eingeführt, und auch an der ETH wird dieses Konzept künftig bei einigen Teams im neuen Gebäude «Octavo» getestet.\n\nWas halten Sie von der Vorstellung, in Zukunft keinen persönlichen Arbeitsplatz mehr zu haben? Können Sie sich vorstellen, dass eine grössere Durchmischung im Büro zu mehr Kreativität und Innovation führen könnte? Oder denken Sie, dass die Suche nach dem besten Arbeitsplatz Stress und Spannungen auslösen wird? Vielleicht haben Sie aber auch bereits Erfahrungen mit solchen Modellen gemacht und möchten darüber berichten?\n\nFür die neue . Redaktionell können wir Sie gerne beim Verfassen des Beitrags unterstützen. Im nächsten «life»-Magazin, das am 24. Juni erscheint, wird je ein Pro- und ein Kontra-Beitrag publiziert.\n\nWir freuen uns auf Ihre Argumente!",
   "named_entities": [
-    "Corona-Krise",
+    "ETH",
     "Ungenutzte Arbeitsplätze",
     "Einige Grosskonzerne",
     "Können Sie",
     "Arbeitsplatz Stress",
-    "Kontra-Beitrag",
-    "Ihre Argumente",
-    "Homeoffice",
-    "Arbeitsalltag",
-    "Anforderungen"
+    "Ihre Argumente"
   ],
   "topics": [
     "Staff",
@@ -24,21 +20,27 @@
     "Communication"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Arbeitsplatz",
+    "Arbeitsplätze",
+    "Bereits",
+    "Büro",
+    "Mehr",
+    "Anforderungen",
+    "Arbeitsalltag"
   ],
-  "summary": "Homeoffice wird auch nach der Corona-Krise für viele von uns zum Arbeitsalltag gehören....",
+  "summary": "Einige Grosskonzerne haben das sogenannte Desksharing bereits vor der Pandemie eingeführt, und auch an der ETH wird dieses Konzept künftig bei einigen Teams im neuen Gebäude «Octavo» getestet....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 159,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -47,6 +49,11 @@
       "COVID-19",
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.25,
+      "avg_word_length": 5.75,
+      "long_word_percentage": 33.96
+    }
   }
 }

@@ -5,35 +5,44 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Do you want to know how the place where you live has changed in the course of time, whether historical or contemporary texts on it are available or which themes it is related with?\n\nETHorama is a new platform where locations are linked with digitized documents: click on the map of Switzerland and browse through images, articles, rare books and maps. These contain links to other platforms, where you can browse through a wealth of further documents.\n\nETHorama is available in a beta version and is being constantly expanded.",
   "named_entities": [
-    "Switzerland",
     "ETH"
   ],
   "topics": [
     "Education"
   ],
   "keywords": [
-    "Where",
     "Available",
-    "With",
-    "Ethorama",
-    "Documents",
     "Browse",
-    "Through"
+    "Documents",
+    "Ethorama",
+    "Articles",
+    "Articles rare",
+    "Available beta"
   ],
-  "summary": "Do you want to know how the place where you live has changed in the course of time, whether historical or contemporary texts on it are available or which themes it is related with?...",
+  "summary": "ETHorama is a new platform where locations are linked with digitized documents: click on the map of Switzerland and browse through images, articles, rare books and maps....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 89,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.25,
+      "avg_word_length": 4.8,
+      "long_word_percentage": 26.97
+    }
   }
 }

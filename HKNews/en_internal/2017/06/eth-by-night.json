@@ -5,16 +5,13 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "After most ETH members have gone home for the night, others are just beginning their late shift. Experiments, quiz nights and evening taekwondo lessons – you can find out everything that goes on at the ETH Zurich campus after dark in the cover story of the latest \"life\" .\n\nThe new edition also includes an interview with Rui Brandao, ETH's Director of IT Services. In the interview, Brandao, who has a PhD in Computer Science, describes the challenges he faces in his new role, and how ETH Zurich ensures IT security for its members.\n\nIn addition, ETH transfer shows how researchers are being supported in bringing their findings out of the lab and into the economy. The Vice President Research and Corporate Relations, Detlef Günther, explains how the principle of \"from I to We\" functions in research, and Joël Bérard provides an insight into his new role as Head of Agrovet Strickhof.",
   "named_entities": [
+    "ETH Zurich",
+    "IT",
     "Rui Brandao",
     "Computer Science",
-    "The Vice President Research",
     "Corporate Relations",
     "Detlef Günther",
-    "Agrovet Strickhof",
-    "After",
-    "Zurich",
-    "Director",
-    "Services"
+    "Agrovet Strickhof"
   ],
   "topics": [
     "Research",
@@ -24,22 +21,27 @@
     "Technology & Innovation"
   ],
   "keywords": [
-    "ETH Zurich",
-    "After",
-    "Members",
-    "Their",
-    "Zurich",
+    "Brandao",
     "Interview",
-    "Brandao"
+    "Interview brandao",
+    "Members",
+    "Research",
+    "Role",
+    "Zurich"
   ],
-  "summary": "After most ETH members have gone home for the night, others are just beginning their late shift....",
+  "summary": "In the interview, Brandao, who has a PhD in Computer Science, describes the challenges he faces in his new role, and how ETH Zurich ensures IT security for its members....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 151,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -47,6 +49,11 @@
       "Infrastructure",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 25.17,
+      "avg_word_length": 4.72,
+      "long_word_percentage": 27.81
+    }
   }
 }

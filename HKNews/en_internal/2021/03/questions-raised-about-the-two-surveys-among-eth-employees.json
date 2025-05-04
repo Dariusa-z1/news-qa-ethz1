@@ -5,15 +5,10 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "ETH President Joël Mesot had announced them in an e-mail: the two surveys that were launched within a week. On 23 March, the consulting firm Empiricon sent an e-mail with a link to the employee survey; yesterday, Tuesday 30 March, the market and social research institute gfs-zürich called on people to take part in a survey on internal communication.\n\nThis second e-mail has triggered some questions and led to enquiries at the IT services as to whether it is a phishing e-mail.\"That is not what it is,\" says Rainer Borer, Head of Corporate Communications, who co-signed the second email. \"In the internal communication survey, we would like to ascertain the needs of the employees a little more precisely than is possible in the questions of the regular employee survey,\" he explains.\n\nThis means that all employees are called upon to participate in both surveys. With their feedback, they help to further develop the work situation in general and internal communication in particular.",
   "named_entities": [
+    "ETH",
     "Rainer Borer",
     "Corporate Communications",
-    "President",
-    "Mesot",
-    "March",
-    "Empiricon",
-    "Tuesday",
-    "Head",
-    "ETH"
+    "IT"
   ],
   "topics": [
     "Staff",
@@ -25,20 +20,25 @@
   "keywords": [
     "Email",
     "Survey",
-    "Internal",
     "Communication",
-    "Surveys",
-    "That",
-    "March"
+    "Internal",
+    "Internal communication",
+    "Called",
+    "Employee"
   ],
-  "summary": "ETH President Joël Mesot had announced them in an e-mail: the two surveys that were launched within a week....",
+  "summary": "On 23 March, the consulting firm Empiricon sent an e-mail with a link to the employee survey; yesterday, Tuesday 30 March, the market and social research institute gfs-zürich called on people to take part in a survey on internal communication....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 169,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Researchers",
@@ -49,6 +49,11 @@
       "Communications",
       "Weather",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 24.14,
+      "avg_word_length": 4.71,
+      "long_word_percentage": 24.85
+    }
   }
 }

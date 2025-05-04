@@ -5,16 +5,10 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Main article: Lina De Windt erlebte eine komplett neue Welt, als sie ihr Studium an der ETH begann. Sie kam von einem Gymnasium, wo der Sport - in ihrem Fall das Ballett - im Vordergrund stand. An der ETH musste sie in vielen Fächern aufholen. Im Video erzählt sie, wie sie diese Umstellung erlebt hat und was sie neuen Studierenden rät.\n\nBeratung für Studierende: Es stehen Ihnen Beratungsstellen für alle Situationen im Studium zur Verfügung.",
   "named_entities": [
+    "ETH",
     "Lina De Windt",
     "Im Video",
-    "Ihnen Beratungsstellen",
-    "Main",
-    "Welt",
-    "Studium",
-    "Gymnasium",
-    "Sport",
-    "Fall",
-    "Ballett"
+    "Ihnen Beratungsstellen"
   ],
   "topics": [
     "Education",
@@ -24,21 +18,27 @@
     "Staff"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Studium",
+    "Article",
+    "Article lina",
+    "Aufholen",
+    "Aufholen video",
+    "Ballett",
+    "Ballett vordergrund"
   ],
-  "summary": "Main article: Lina De Windt erlebte eine komplett neue Welt, als sie ihr Studium an der ETH begann. Sie kam von einem Gymnasium, wo der Sport - in ihrem Fall das Ballett - im Vordergrund stand....",
+  "summary": "Main article: Lina De Windt erlebte eine komplett neue Welt, als sie ihr Studium an der ETH begann. Im Video erzählt sie, wie sie diese Umstellung erlebt hat und was sie neuen Studierenden rät....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 73,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students"
     ],
@@ -46,6 +46,11 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.6,
+      "avg_word_length": 4.89,
+      "long_word_percentage": 24.66
+    }
   }
 }

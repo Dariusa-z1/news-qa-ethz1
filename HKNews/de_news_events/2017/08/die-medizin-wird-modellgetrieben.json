@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Main article: ETH-News: Herr Buhmann, mit der Digitalisierung steht unsere Gesellschaft mitten in einem fundamentalen Transformationsprozess. Inwiefern verändert dieser auch die Medizin? Joachim Buhmann: Die Medizin wird sehr viel stärker als heute von Vorhersagemodellen bestimmt sein. Mithilfe von Computern können wir heute viel komplexere Modelle entwickeln als früher. Und nirgends werden diese Modelle dringender benötigt als in der Medizin. Wir können Daten von vielen medizinischen Fällen sammeln und daraus lernen, was die Mechanismen einer Krankheit sind. Dabei müssen wir allerdings so viele Parameter berücksichtigen, dass wir Maschinen brauchen, die sie verarbeiten. Vor der Digitalisierung konnten wir Menschen keine Modelle studieren, die so komplex waren, dass wir sie uns nicht mehr merken konnten. Heute geht das – indem wir nicht mehr die Modelle selbst entwerfen, sondern uns überlegen, wie Algorithmen aussehen könnten, die dann die Modelle erzeugen. Das ist maschinelles Lernen.\n\nKönnen Sie uns ein Beispiel geben? In einem unserer Projekte beschäftigen wir uns mit der Herzmedizin. Kardiologen und Radiologen betrachten das Herz aus einem unterschiedlichen Blickwinkel, und sie generieren unterschiedliche Daten, EKGs und Ultraschallechos. Bereits heute sind Computer hervorragend darin, unterschiedliche Datensätze zusammenzuführen und zu verwalten. Für die Zukunft besteht die berechtigte Hoffnung, mit solchen Daten und mit Algorithmen des maschinellen Lernens zuverlässige Aussagen und Prognosen machen zu können, wahrscheinlich zuverlässigere als heute, wenn sich zwei überarbeitete Ärzte in einem Meeting zusammensetzen und die Befunde bewerten.\n\nWas sind die Herausforderungen einer solchen modellgetriebenen Medizin? Zunächst müssen wir sehr grosse Anstrengungen machen, die Daten wirklich zu sammeln. Es geht dabei einerseits um Messdaten von Patienten, wir nennen das Primärdaten. Mindestens genauso wichtig sind andererseits annotierte Daten. Das sind die Inhalte der Krankengeschichte eines Patienten, die ein Arzt mithilfe dieser Primärdaten formuliert hat. Die Medizin ist wahrscheinlich eine der fundamentalsten Erfahrungswissenschaften, und solche annotierten Daten stellen einen unschätzbaren Wissensfundus dar. Der Zugriff auf diese Daten und deren Verwendung ist ein wesentliches Element unserer Forschung. Absolut zentral ist natürlich auch, dass wir die Datenakquisition über die verschiedenen medizinischen Disziplinen hinweg standardisieren, und dass die Spitäler ihre Daten zusammenzulegen, um eine kritische Menge an Fällen zu erhalten. Hier laufen im Moment begrüssenswerte Bestrebungen im Rahmen des Swiss Personalized Health Network.\n\nEs geht dabei um das Sammeln von persönlichen und sensiblen Daten über den eigenen Körper, die man vor Missbrauch schützen möchte. Selbstverständlich muss man den Umgang mit den Daten regeln. Auch ich möchte nicht, dass aufgrund einer Genomanalyse meine Lebensversicherungsprämie ansteigt. Daten erfolgreich zu schützen, ist aber möglich. Datenschutzfragen haben heute eine riesige Publizität. Vielleicht auch deshalb, weil man sie medial einfach vermitteln kann. Die weniger gut zu vermittelnde und viel grössere Herausforderung ist es allerdings, die Daten überhaupt erst nutzbar zu machen und zu verstehen. Daran arbeiten wir.\n\nAuch Ärzte melden Vorbehalte an, Krankengeschichten an Forschende weiterzugeben. Die Ärzte würden damit Einblick gewähren in ihre Arbeitsweise und könnten sich angreifbar machen. Natürlich wird ein Arzt nur bereit sein, seine Daten zur Verfügung zu stellen, wenn er die Zusicherung erhält, dass von den Daten keine Rechtsansprüche gegen ihn abgeleitet werden. Dies muss und kann man rechtlich regeln.\n\nInwiefern wird sich der Arztberuf mit der Digitalisierung wandeln? Erlauben Sie mir eine überspitzte und plakative Formulierung: Ein Arzt ist zu einem guten Teil eine mässig gut organisierte Datenbank. Ein Computer wird zwar nie der bessere Arzt sein, denn der Arzt steht auch am Krankenbett, und Empathie kann ein Computer nur ungenügend vermitteln. Aber Informationssysteme sind die zuverlässigeren Wissensspeicher. Jene Fähigkeiten des Arztes, die auf Wissenszugriff und Wissensgenerierung beruhen, werden durch die digitale Transformation massiv verändert. In unserer Gruppe haben wir Systeme gebaut, die Biopsien von Krebspatienten analysieren. Computer sind heute teilweise so gut wie die Pathologen und manchmal sogar besser. Ausserdem arbeiten Computer 24/7, und es gibt keinen Rosenmontagsausfall.\n\nNeben Ihrer Tätigkeit als Professor sind Sie an der ETH auch Prorektor für das Studium. Baucht es Anpassungen in der Medizinausbildung? Ja, absolut. Die mathematische Bildung von Medizinern muss drastisch verbessert werden. Im neuen Medizin-Bachelorstudiengang an der ETH versuchen wir, das Angebot für die Studierenden zu variieren. Wir stärken den technologischen Bereich und bieten das Fach Medizininformatik an, für das ich mich stark gemacht habe.\n\nMüssen Ärzte zu Medizininformatikern werden? Der Arzt muss mit dem Instrumentarium Rechner umgehen können. Er muss nicht notwendigerweise Programme schreiben können, auch wenn es natürlich schön wäre, wenn er das könnte. Aber wenn der Rechner ihm einen Unsinn erzählt, muss er in der Lage sein, diesen zu erkennen.\n\nIn Ihrer Forschung beschäftigen Sie sich mit Datenverarbeitungsketten. Was ist damit gemeint? Nehmen Sie einen Krebspatienten. Von ihm wird zunächst eine Biopsie genommen. Diese wird präpariert, andere Ärzte versehen diese mit Anmerkungen und ziehen ihre Schlussfolgerungen daraus. Später kommen weitere Informationsquellen dazu, diese müssen fusioniert werden. Und überall verwenden Ärzte heute schon Hilfsmittel. In so einer Kette werden verschiedene komplexe Algorithmen eingesetzt. Ganz am Schluss kommt eine Diagnose heraus, eine Prognose zum Krankheitsverlauf und vielleicht ein Therapievorschlag. Das sind alles Vorhersagen. Diese lange Kette startet mit unglaublich vielen Daten, und am Ende haben Sie bloss noch ganz wenige Bits. Heute gibt es keine Theorie, nach der man bei solchen langen Datenverarbeitungsketten überprüfen kann, ob und wo allenfalls essenzielle Bits verloren gegangen sind, um dann die Prozesskette zu verbessern. Eine solche Theorie für robuste Algorithmen zu entwickeln, ist zentraler Teil meiner Forschung.\n\nZur Person: Joachim Buhmann (58) ist Professor für Informatik an der ETH Zürich. Der Süddeutsche leitet die Arbeitsgruppe Mustererkennung und maschinelles Lernen. Seine Forschungsschwerpunkte umfassen die Mustererkennung und die Datenanalyse, wobei methodische Fragen des maschinellen Lernens, der statistischen Lerntheorie und der angewandten Statistik im Vordergrund stehen. Ausserdem ist er Prorektor Studium der ETH Zürich.\n\nSchwerpunktthema Daten: Daten spielen in unserer Gesellschaft eine immer wichtigere Rolle. Die ETH Zürich wird sich deshalb in den kommenden Jahren vertieft mit diesem Themenschwerpunkt befassen. ETH News zeigt in einer Serie von Interviews exemplarisch auf, mit welchen Themen sich Forschende der ETH Zürich konkret befassen und wie sie die gesellschaftliche Entwicklung in ihrem Bereich einschätzen.\n\nBisherige Beiträge in dieser Serie: - Lino Guzzella: «Diese Chance müssen wir packen» (ETH-News 20.06.2017) - Srdjan Capkun: «Es ist immer ein Kompromiss» (ETH-News 19.07.2017)",
   "named_entities": [
-    "Herr Buhmann",
+    "ETH Zürich",
     "Joachim Buhmann",
-    "Die Medizin",
-    "Können Sie",
-    "Der Zugriff",
     "Swiss Personalized Health Network",
+    "Neben Ihrer Tätigkeit",
+    "Herr Buhmann",
+    "Können Sie",
     "Erlauben Sie",
-    "Ein Arzt",
-    "Ein Computer",
-    "Aber Informationssysteme"
+    "Aber Informationssysteme",
+    "Jene Fähigkeiten",
+    "Fach Medizininformatik"
   ],
   "topics": [
     "Staff",
@@ -26,20 +26,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Daten",
+    "Heute",
+    "Arzt",
+    "Ärzte",
+    "Computer",
+    "Medizin"
   ],
-  "summary": "Main article: ETH-News: Herr Buhmann, mit der Digitalisierung steht unsere Gesellschaft mitten in einem fundamentalen Transformationsprozess. Inwiefern verändert dieser auch die Medizin?...",
+  "summary": "Für die Zukunft besteht die berechtigte Hoffnung, mit solchen Daten und mit Algorithmen des maschinellen Lernens zuverlässige Aussagen und Prognosen machen zu können, wahrscheinlich zuverlässigere als heute, wenn sich zwei überarbeitete Ärzte in einem Meeting zusammensetzen und die Befunde bewerten....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 1008,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +58,11 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.76,
+      "avg_word_length": 6.12,
+      "long_word_percentage": 35.42
+    }
   }
 }

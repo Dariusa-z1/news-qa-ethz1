@@ -5,10 +5,8 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "ETH Zurich's scientists are among the top ten users in the world in terms of the number of visits. They also use the opportunity to publish their own research projects on arXiv.org actively.\n\narXiv.org is operated by Cornell University Library and co-funded by nearly 190 institutions worldwide. By offering its support since 2011, ETH-Bibliothek has also been doing its bit to ensure that the full-text database remains at the scientific community’s disposal in the future.\n\nETH-Bibliothek therefore helps boost ETH Zurich's open access strategy , which it is now emphasizing with a \"platinum membership\" of arXiv.org.",
   "named_entities": [
-    "Cornell University Library",
-    "Zurich",
-    "Bibliothek",
-    "ETH Zurich"
+    "ETH Zurich",
+    "Cornell University Library"
   ],
   "topics": [
     "Research",
@@ -16,22 +14,27 @@
     "International"
   ],
   "keywords": [
-    "ETH Zurich",
     "Arxivorg",
-    "Zurichs",
-    "Also",
     "Ethbibliothek",
-    "Scientists",
-    "Among"
+    "Zurichs",
+    "Access",
+    "Access strategy",
+    "Actively",
+    "Actively arxivorg"
   ],
-  "summary": "ETH Zurich's scientists are among the top ten users in the world in terms of the number of visits. They also use the opportunity to publish their own research projects on arXiv.org actively....",
+  "summary": "ETH-Bibliothek therefore helps boost ETH Zurich's open access strategy , which it is now emphasizing with a \"platinum membership\" of arXiv.org....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 105,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -41,6 +44,11 @@
       "Research",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.12,
+      "avg_word_length": 4.79,
+      "long_word_percentage": 24.76
+    }
   }
 }

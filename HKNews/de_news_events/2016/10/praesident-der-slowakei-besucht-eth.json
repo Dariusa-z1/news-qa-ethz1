@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Hoher Gast an der ETH Zürich: Der slowakische Präsident Andrej Kiska besuchte gemeinsam mit seinem Gastgeber, dem Bundespräsidenten Johann N. Schneider-Ammann, den Campus Hönggerberg der ETH Zürich. Begleitet wurde der Präsident der Slowakei von Vertretern verschiedener Ministerien sowie einer rund 15-köpfigen Wissenschafts- und Wirtschaftsdelegation.\n\nETH-Präsident Lino Guzzella empfing seine Gäste im futuristisch anmutenden HIB-Gebäude. Der kürzlich fertiggestellte Neubau war ausgewählt worden, um dem Präsidenten der Slowakei nicht nur in Worten, sondern ganz konkret Einblicke in die innovative Forschungsarbeit an der ETH zu geben. So besichtigte die Delegation auch die grossräumige Robotikhalle des Arch-Tec-Labs. Hier erforschen Wissenschaftler Bauprozesse, digitale Fertigung und Gebäudetechnik.\n\nZuvor hatte Lino Guzzella einen Überblick über die ETH Zürich gegeben. Präsident Andrej Kiska zeigte sich vor allem von dem Bericht über den Cybathlon tief beeindruckt und bedauerte, dass die slowakischen Hochschulen bislang nicht zu den führenden 500 weltweit zählten, obwohl es jedoch einige führende Köpfe besonders in der Technik gebe. So prägte Kiskas Landsmann Aurel Stodola Anfang des 20. Jahrhunderts als ETH-Professor für Maschinenbau die Forschung in diesem Bereich, wie Lino Guzzella in seinem Vortrag berichtete. Kiska, dessen Land seit Juli die EU-Ratspräsidentschaft innehat, plädierte zudem für den Ausbau der europaweiten Zusammenarbeit und traf sich mit der slowakischen Community an der ETH Zürich.\n\nWährend die Delegation aus slowakischen Wissenschaftlern und Unternehmern sich anschliessend mit Detlef Günther, dem ETH-Vizepräsidenten für Forschung und Wirtschaftsbeziehungen, ausführlich austauschte und das Hauptgebäude besuchte, reisten Bundespräsident Schneider-Ammann und sein Gast Präsident Kiska zu weiterführenden Gesprächen nach Bern.",
   "named_entities": [
-    "Hoher Gast",
-    "Präsident Andrej Kiska",
-    "Bundespräsidenten Johann",
-    "Schneider-Ammann",
     "Campus Hönggerberg",
+    "ETH Zürich",
+    "Präsident Andrej Kiska",
     "Präsident Lino Guzzella",
-    "Arch-Tec-Labs",
+    "Kiskas Landsmann Aurel Stodola",
+    "Gast Präsident Kiska",
+    "Hoher Gast",
+    "Bundespräsidenten Johann",
     "Wissenschaftler Bauprozesse",
-    "Lino Guzzella",
-    "Kiskas Landsmann Aurel Stodola"
+    "Detlef Günther"
   ],
   "topics": [
     "University Administration",
@@ -26,20 +26,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Kiska",
+    "Präsident",
+    "Zürich",
+    "Guzzella",
+    "Lino",
+    "Lino guzzella"
   ],
-  "summary": "Hoher Gast an der ETH Zürich: Der slowakische Präsident Andrej Kiska besuchte gemeinsam mit seinem Gastgeber, dem Bundespräsidenten Johann N. Schneider-Ammann, den Campus Hönggerberg der ETH Zürich....",
+  "summary": "Während die Delegation aus slowakischen Wissenschaftlern und Unternehmern sich anschliessend mit Detlef Günther, dem ETH-Vizepräsidenten für Forschung und Wirtschaftsbeziehungen, ausführlich austauschte und das Hauptgebäude besuchte, reisten Bundespräsident Schneider-Ammann und sein Gast Präsident Kiska zu weiterführenden Gesprächen nach Bern....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 253,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -50,6 +56,11 @@
       "Technology",
       "Research",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.46,
+      "avg_word_length": 6.29,
+      "long_word_percentage": 38.34
+    }
   }
 }

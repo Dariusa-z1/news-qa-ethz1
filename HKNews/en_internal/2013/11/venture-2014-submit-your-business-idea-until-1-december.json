@@ -5,16 +5,13 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "The ten best proposals will be awarded CHF 2,500 each. In a second phase, the authors of the best business plans will be invited to present them to the jury. In this phase, the total prize money is at least CHF 125,000.\n\nParticipation is open to individuals who are domiciled in Switzerland or the Principality of Liechtenstein and are at least 18 years of age, and also to teams, so long as at least one member of the team is domiciled in Switzerland or the Principality of Liechtenstein and is at least 18 years of age. Participation is also open to individuals and teams that enter their business idea via a Swiss House (Bangalore, Boston, New York, Rio de Janeiro, San Francisco, Shanghai or Singapore), provided that such teams contain at least one Swiss national resident abroad.\n\n»venture» 2014 is an initiative of the ETH Zurich, Knecht Holding, the innovation promotion agency CTI and McKinsey & Company, Switzerland. The Swiss-wide business plan competition supports young entrepreneurs in founding a company.\n\nMore information on the webpage.",
   "named_entities": [
+    "ETH Zurich",
+    "CHF",
     "Swiss House",
     "New York",
     "San Francisco",
     "Knecht Holding",
-    "The Swiss",
-    "Switzerland",
-    "Principality",
-    "Liechtenstein",
-    "Bangalore",
-    "Boston"
+    "CTI"
   ],
   "topics": [
     "Technology & Innovation",
@@ -22,22 +19,27 @@
     "Communication"
   ],
   "keywords": [
-    "ETH Zurich",
     "Least",
     "Business",
     "Switzerland",
     "Teams",
     "Best",
-    "Will"
+    "Company",
+    "Domiciled"
   ],
-  "summary": "The ten best proposals will be awarded CHF 2,500 each. In a second phase, the authors of the best business plans will be invited to present them to the jury....",
+  "summary": "Participation is open to individuals who are domiciled in Switzerland or the Principality of Liechtenstein and are at least 18 years of age, and also to teams, so long as at least one member of the team is domiciled in Switzerland or the Principality of Liechtenstein and is at least 18 years of age....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 177,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -45,6 +47,11 @@
     "context_tags": [
       "Financial",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.12,
+      "avg_word_length": 4.79,
+      "long_word_percentage": 24.86
+    }
   }
 }

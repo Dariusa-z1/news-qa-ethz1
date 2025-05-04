@@ -5,16 +5,13 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Main article: In unserer Quiz-Reihe nehmen wir Sie mit auf Erkundungstouren durch Forschung und Lehre der ETH Zürich. Diese Folge widmet sich den Agrarwissenschaften, die in diesem Jahr ihr 150-jähriges Bestehen feiern.\n\n150 Jahre Agrarwissenschaften: Das Departement Umweltsystemwissenschaften (D-​USYS) startet das Jubiläumsjahr mit einem Online-​Event am 4. Mai 2021. Zum Auftakt werden Bundespräsident Guy Parmelin zusammen mit ETH-​Präsident Joël Mesot und Vertreterinnen und Vertretern des Instituts in einem Video auftreten.\n\nIm Anschluss an die Premiere dieses Jubiläumsfilms finden auf den virtuellen Bühnen verschiedene kurze Webinare zu den wichtigen Themen in den Agrarwissenschaften in verschiedenen Sprachen statt. Danach lädt das Institut für Agrarwissenschaften zu einem ganz besonderen virtuellen Apéro ein. Die Teilnahme am Event ist kostenlos – eine Registrierung ist nicht notwendig.\n\nAuf der Jubiläumswebseite finden Sie eine Timeline mit historischen Fakten und ausgewählten Artikeln aus den vergangenen 150 Jahren.",
   "named_entities": [
-    "Quiz-Reihe",
-    "Diese Folge",
-    "Jahre Agrarwissenschaften",
-    "Das Departement Umweltsystemwissenschaften",
-    "Zum Auftakt",
+    "ETH Zürich",
     "Bundespräsident Guy Parmelin",
+    "Institut für Agrarwissenschaften",
+    "Diese Folge",
+    "Zum Auftakt",
     "Im Anschluss",
-    "Die Teilnahme",
-    "Main",
-    "Erkundungstouren"
+    "USYS"
   ],
   "topics": [
     "Research",
@@ -26,21 +23,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "Research",
-    "Teaching",
-    "University",
-    "Science",
-    "Campus",
-    "Education"
+    "Agrarwissenschaften",
+    "Event",
+    "Finden",
+    "Virtuellen",
+    "150jähriges",
+    "150jähriges bestehen"
   ],
-  "summary": "Main article: In unserer Quiz-Reihe nehmen wir Sie mit auf Erkundungstouren durch Forschung und Lehre der ETH Zürich....",
+  "summary": "Im Anschluss an die Premiere dieses Jubiläumsfilms finden auf den virtuellen Bühnen verschiedene kurze Webinare zu den wichtigen Themen in den Agrarwissenschaften in verschiedenen Sprachen statt....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 143,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Researchers"
     ],
@@ -49,6 +51,11 @@
       "Sustainability",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.89,
+      "avg_word_length": 6.1,
+      "long_word_percentage": 31.47
+    }
   }
 }

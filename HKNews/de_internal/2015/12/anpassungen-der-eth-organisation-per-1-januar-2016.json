@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Weitere Änderungen der Organisationsverordnung:\n\n• Nachführung der Zuständigkeiten des Präsidenten: die Themen Chancengleichheit und Nachhaltigkeit werden ergänzt.\n• Aus dem Rektorat wird die Abteilung Akademische Dienste. Damit kann der Begriff Rektorat für den gesamten Zuständigkeitsbereich der Rektorin verwendet werden.\n• Formelle Nachführung der Zuordnung des ETH-Tierschutzbeauftragten: Er oder sie ist administrativ dem ETH Phenomics Center zugeordnet und berichtet direkt dem/der Vizepräsidenten/in für Forschung und Wirtschaftsbeziehungen.\n• Welchen Rechtscharakter ausserdepartementale Einrichtungen der ETH Zürich haben können, wird nun explizit aufgeführt. Ausserdem wird die Auflistung um die Einrichtungen neueren Datums ergänzt: das Singapore-ETH Centre, Hochschulmedizin Zürich und Institute of Science, Technology, and Policy.\nDie Bezeichnung «Infrastrukturbereich» für die Linieneinheiten überzeugte seit ihrer Einführung nur bedingt, weil sie die entsprechenden Tätigkeiten – siehe zum Beispiel die Hochschulkommunikation – nicht oder nur teilweise abbildete. Neu sollen alle zentralen Verwaltungseinheiten mit abschliessender Prozessverantwortung und substanziellen Finanzkompetenzen zu Abteilungen werden.\n\nDiese Voraussetzung und erweiterte Zuständigkeiten führen nun dazu, dass auch mehrere Stabsstellen den Status einer Abteilung erhalten. So laufen künftig die Fäden der Beratung und Betreuung der Studierenden bei der bisherigen Stabsstelle Studienorientierung und Coaching zusammen; neu wird daraus die Abteilung Studentische Dienste. Abteilungen werden auch die bisherigen Stabsstellen Lehrentwicklung und -technologie sowie Sicherheit, Gesundheit und Umwelt. Aus dem Stab Veranstaltungen und der vormaligen Abteilung Dienste wird die Abteilung Services.\n\nIm Bereich Finanzen und Controlling entstehen aus den bisherigen Untereinheiten die drei selbständigen Abteilungen Controlling, Rechnungswesen und Finanzdienstleistungen.",
   "named_entities": [
-    "Themen Chancengleichheit",
+    "ETH Zürich",
     "Abteilung Akademische Dienste",
+    "Abteilung Studentische Dienste",
+    "Im Bereich Finanzen",
+    "Institute of Science",
+    "Themen Chancengleichheit",
     "Begriff Rektorat",
     "Formelle Nachführung",
     "Phenomics Center",
-    "Welchen Rechtscharakter",
-    "Hochschulmedizin Zürich",
-    "Die Bezeichnung",
-    "Diese Voraussetzung",
-    "Stabsstelle Studienorientierung"
+    "Welchen Rechtscharakter"
   ],
   "topics": [
     "University Administration",
@@ -26,20 +26,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Abteilung",
+    "Abteilungen",
+    "Bisherigen",
+    "Dienste",
+    "Controlling",
+    "Einrichtungen"
   ],
-  "summary": "Weitere Änderungen der Organisationsverordnung:\n\n• Nachführung der Zuständigkeiten des Präsidenten: die Themen Chancengleichheit und Nachhaltigkeit werden ergänzt....",
+  "summary": "So laufen künftig die Fäden der Beratung und Betreuung der Studierenden bei der bisherigen Stabsstelle Studienorientierung und Coaching zusammen; neu wird daraus die Abteilung Studentische Dienste....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 4,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 230,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -50,6 +56,11 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.69,
+      "avg_word_length": 7.31,
+      "long_word_percentage": 46.96
+    }
   }
 }

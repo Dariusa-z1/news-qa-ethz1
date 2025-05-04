@@ -5,16 +5,14 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Joe Paradiso ist Professor am MIT Media Lab für Medienkunst und -wissenschaften, und spielt eine wichtige Rolle in der internationalen Elektromusikszene. Vieles von dem, was Joe heute macht, begann in den 1980er Jahren als Postdoc im Departement für Physik an der ETH. Während er tagsüber in Zürich forschte, schuf er nachts Klänge und begann zusätzlich, einen Synthesizer (den Paradiso Synth.) zu bauen. Einer seiner Lieblingsorte für die Aufnahme von Audiomaterial war das Parkhaus der ETH am Campus Hönggerberg. Im Podcast erklärt er, wie seine Faszination für diesen obskuren Ort wuchs, und warum es für Wissenschaftler wie ihn wichtig ist, über den Tellerrand hinauszuschauen. Wir hören auch Audiomaterial und streamen Klänge aus Joes riesigem Synthesizer, der heute in seinem Keller in Massachusetts steht.\n\nJoe schaute im Podcast-Studio der ETH vorbei, bevor er ans Weltwirtschaftsforum in Davos weiterreiste.",
   "named_entities": [
+    "ETH",
+    "Campus Hönggerberg",
+    "Departement für Physik",
     "Joe Paradiso",
     "Media Lab",
     "Paradiso Synth",
-    "Campus Hönggerberg",
     "Im Podcast",
-    "Podcast-Studio",
-    "Professor",
-    "Medienkunst",
-    "Rolle",
-    "Elektromusikszene"
+    "MIT"
   ],
   "topics": [
     "Research",
@@ -24,21 +22,27 @@
     "International"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Audiomaterial",
+    "Begann",
+    "Heute",
+    "Klänge",
+    "Paradiso",
+    "Synthesizer",
+    "1980er jahren"
   ],
-  "summary": "Joe Paradiso ist Professor am MIT Media Lab für Medienkunst und -wissenschaften, und spielt eine wichtige Rolle in der internationalen Elektromusikszene....",
+  "summary": "Im Podcast erklärt er, wie seine Faszination für diesen obskuren Ort wuchs, und warum es für Wissenschaftler wie ihn wichtig ist, über den Tellerrand hinauszuschauen....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 137,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -48,6 +52,11 @@
       "Research",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.12,
+      "avg_word_length": 5.53,
+      "long_word_percentage": 27.01
+    }
   }
 }

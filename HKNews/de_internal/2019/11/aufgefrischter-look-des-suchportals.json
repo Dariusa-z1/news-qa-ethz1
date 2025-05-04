@@ -5,16 +5,10 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Das Suchfeld befindet sich in allen Ansichten und unabhängig von der Grösse Ihres Endgerätes im Zentrum der Seite. Gleich geblieben ist die breite Palette an Medien, die Sie mit nur einer Suche durchstöbern. Seien dies Bücher aus dem NEBIS-Bibliothekskatalog, digitalisierte Bilder und Zeitschriften aus den Beständen der ETH-Bibliothek, Karten, Videos oder auch Druckgrafiken und Informationen zu Baumaterialien und Werkstoffen. Entdecken Sie das umfassende Ressourcenangebot der ETH-Bibliothek.\n\n#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel.",
   "named_entities": [
-    "Das Suchfeld",
-    "Grösse Ihres Endgerätes",
+    "ETH",
     "Entdecken Sie",
-    "Die Infrastruktur",
     "Ihrem Ziel",
-    "Ansichten",
-    "Zentrum",
-    "Seite",
-    "Palette",
-    "Medien"
+    "NEBIS"
   ],
   "topics": [
     "Infrastructure",
@@ -23,22 +17,27 @@
     "Sustainability"
   ],
   "keywords": [
-    "Campus Center",
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Ethbibliothek",
+    "Ansichten",
+    "Ansichten unabhängig",
+    "Baumaterialien",
+    "Baumaterialien werkstoffen",
+    "Befindet",
+    "Befindet ansichten"
   ],
-  "summary": "Das Suchfeld befindet sich in allen Ansichten und unabhängig von der Grösse Ihres Endgerätes im Zentrum der Seite....",
+  "summary": "Seien dies Bücher aus dem NEBIS-Bibliothekskatalog, digitalisierte Bilder und Zeitschriften aus den Beständen der ETH-Bibliothek, Karten, Videos oder auch Druckgrafiken und Informationen zu Baumaterialien und Werkstoffen....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 83,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -47,6 +46,11 @@
       "Infrastructure",
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.6,
+      "avg_word_length": 5.94,
+      "long_word_percentage": 30.12
+    }
   }
 }

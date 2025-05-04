@@ -5,16 +5,12 @@
   "source": "Unbekannte Quelle",
   "main_content": "Der Rektor Günther Dissertori lädt Dozierende ein, das Thema KI in der Lehre beim Refresh-Teaching-Anlass vom 28. März um 12:15 zu diskutieren.\n\nEin Online-Anlass mit Inputreferaten von Prof. Dr. Mrinmaya Sachan (D-INFK) und Dr. Manuel Sudau (D-USYS).\n\nAnstatt sich auf die Frage zu konzentrieren, wie man die Einmischung von Künstlicher Intelligenz vermeiden kann, sollten wir uns darüber Gedanken machen, wie und was wir lehren und prüfen können, wenn KI im Studium und im künftigen Berufsleben jedem und jeder zur Verfügung steht. Die Wichtigste Frage lautet: Welches sind die einzigartigen, menschlichen Fähigkeiten und Kompetenzen unserer Studierenden, die wir unter den neuen Gegebenheiten fördern und bewerten sollen?\n\n(die Veranstaltung findet in Englisch statt)",
   "named_entities": [
-    "Der Rektor Günther Dissertori",
-    "Refresh-Teaching-Anlass",
-    "Ein Online-Anlass",
-    "Mrinmaya Sachan",
-    "Manuel Sudau",
+    "KI",
+    "Dr. Mrinmaya Sachan",
+    "Dr. Manuel Sudau",
     "Künstlicher Intelligenz",
-    "Die Wichtigste Frage",
-    "Dozierende",
-    "Thema",
-    "Lehre"
+    "INFK",
+    "USYS"
   ],
   "topics": [
     "Education",
@@ -23,22 +19,27 @@
     "Campus Life"
   ],
   "keywords": [
-    "Teaching",
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Frage",
+    "Anstatt",
+    "Anstatt frage",
+    "Beim",
+    "Beim refreshteachinganlass",
+    "Berufsleben",
+    "Berufsleben verfügung"
   ],
-  "summary": "Der Rektor Günther Dissertori lädt Dozierende ein, das Thema KI in der Lehre beim Refresh-Teaching-Anlass vom 28. März um 12:15 zu diskutieren. Ein Online-Anlass mit Inputreferaten von Prof. Dr....",
+  "summary": "Anstatt sich auf die Frage zu konzentrieren, wie man die Einmischung von Künstlicher Intelligenz vermeiden kann, sollten wir uns darüber Gedanken machen, wie und was wir lehren und prüfen können, wenn KI im Studium und im künftigen Berufsleben jedem und jeder zur Verfügung steht....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 117,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students"
     ],
@@ -46,6 +47,11 @@
       "Research",
       "Education",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.0,
+      "avg_word_length": 5.38,
+      "long_word_percentage": 29.06
+    }
   }
 }

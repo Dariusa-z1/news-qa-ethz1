@@ -5,11 +5,10 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "The ETH Data Archive offers this service to members of ETH Zurich for data that is also intended to remain available in the long term. There are two options to choose from:\n\n• Launch one-off uploads via a web interface\n• For regular and larger uploads, we will set up an automatic process for you\nAre you looking to publish selected research data and render it citable with a DOI (Digital Object Identifier)?\n\nMoreover, you can create and manage file structures with the tool docuteam packer, enter details and thus upload data onto the ETH Data Archive in a structured manner. We will gladly advise you on the right procedure for you.\n\nFurther information to digital curation",
   "named_entities": [
+    "ETH Zurich",
     "Data Archive",
     "Digital Object Identifier",
-    "Zurich",
-    "Launch",
-    "ETH Zurich"
+    "DOI"
   ],
   "topics": [
     "Technology & Innovation",
@@ -17,22 +16,27 @@
     "Communication"
   ],
   "keywords": [
-    "ETH Zurich",
     "Data",
     "Archive",
+    "Data archive",
+    "Digital",
     "Uploads",
-    "Will",
-    "With",
-    "Digital"
+    "Advise",
+    "Advise right"
   ],
-  "summary": "The ETH Data Archive offers this service to members of ETH Zurich for data that is also intended to remain available in the long term....",
+  "summary": "There are two options to choose from:\n\n• Launch one-off uploads via a web interface\n• For regular and larger uploads, we will set up an automatic process for you\nAre you looking to publish selected research data and render it citable with a DOI (Digital Object Identifier)?...",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 2,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 116,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -40,6 +44,11 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.2,
+      "avg_word_length": 4.69,
+      "long_word_percentage": 25.86
+    }
   }
 }

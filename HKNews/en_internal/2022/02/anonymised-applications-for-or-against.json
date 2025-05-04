@@ -5,9 +5,6 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Whether we like it or not, we all have unconscious biases and favour people who seem similar to us. When it comes to application processes, this can sometimes prevent the most suitable candidates from being selected. However, recruiting the best talent is critical to a university’s success.\n\nMight anonymised applications be the solution? Would hiding information about age, gender and cultural background mean that only professional and social competencies would be taken into account? Would it make the application process more equitable? Or are these aspects of the team selection process too important to ignore?\n\nWhat do you think? Should ETH introduce anonymised applications? We are looking for voices supporting and opposing anonymised applications for our by 18 February. We can help you put your piece together for publication. One “for” piece and one “against” piece will be published in the next edition of life magazine on 22 April.",
   "named_entities": [
-    "Whether",
-    "February",
-    "April",
     "ETH"
   ],
   "topics": [
@@ -18,21 +15,26 @@
   ],
   "keywords": [
     "Anonymised",
+    "Anonymised applications",
     "Applications",
-    "Would",
     "Piece",
     "Application",
     "Process",
-    "Whether"
+    "Account"
   ],
-  "summary": "Whether we like it or not, we all have unconscious biases and favour people who seem similar to us....",
+  "summary": "Would hiding information about age, gender and cultural background mean that only professional and social competencies would be taken into account?...",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 150,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "General Public"
@@ -41,6 +43,11 @@
       "Technology",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.5,
+      "avg_word_length": 5.17,
+      "long_word_percentage": 30.67
+    }
   }
 }

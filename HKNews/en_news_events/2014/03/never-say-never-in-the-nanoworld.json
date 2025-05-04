@@ -7,14 +7,7 @@
   "named_entities": [
     "Lukas Novotny",
     "Christoph Dellago",
-    "Nature Nanotechnology",
-    "Determining",
-    "Watching",
-    "Professor",
-    "Photonics",
-    "Barcelona",
-    "Vienna",
-    "University"
+    "Nature Nanotechnology"
   ],
   "topics": [
     "Research",
@@ -25,22 +18,27 @@
     "Education"
   ],
   "keywords": [
-    "From",
     "Second",
-    "That",
-    "They",
-    "This",
     "Thermodynamics",
-    "Will"
+    "Cooling",
+    "Entropy",
+    "Experiment",
+    "Glass",
+    "Glass sphere"
   ],
-  "summary": "",
+  "summary": "“The probability of the glass sphere cooling further immediately after the cooling has been switched off is 50 per cent; a tenth of a second later there is still a 10 per cent chance and, after a second, it is vanishingly small....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 522,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +49,11 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.75,
+      "avg_word_length": 5.18,
+      "long_word_percentage": 30.08
+    }
   }
 }

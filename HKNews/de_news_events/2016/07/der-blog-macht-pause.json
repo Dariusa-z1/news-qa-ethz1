@@ -6,36 +6,44 @@
   "main_content": "... wo auch immer Sie Ihren Urlaub verbringen: Im Blog-Archiv nach Perlen tauchen und Fundstücke kommentieren können Sie auch während der Sommerpause.",
   "named_entities": [
     "Sie Ihren Urlaub",
-    "Im Blog-Archiv",
-    "Perlen",
-    "Fundstücke",
-    "Sommerpause"
+    "Im Blog-Archiv"
   ],
   "topics": [
     "University News"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Blogarchiv",
+    "Blogarchiv perlen",
+    "Fundstücke",
+    "Fundstücke kommentieren",
+    "Immer",
+    "Immer urlaub",
+    "Kommentieren"
   ],
   "summary": "... wo auch immer Sie Ihren Urlaub verbringen: Im Blog-Archiv nach Perlen tauchen und Fundstücke kommentieren können Sie auch während der Sommerpause.",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 22,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "University News"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.0,
+      "avg_word_length": 5.59,
+      "long_word_percentage": 27.27
+    }
   }
 }

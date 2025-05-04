@@ -5,16 +5,14 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Geschlossen sind:\n\n• Baubibliothek\n• Bibliothek Erdwissenschaften\n• GESS-Bibliothek\n• Grüne Bibliothek\n• ETH-Bibliothek HDB\n• Lesesaal Sammlungen und Archive\n• Max Frisch-Archiv\nNormale Öffnungszeiten gelten für:\n\n• InfoCenter\n• Ausleihe und Kundenservice der ETH-Bibliothek\n• focusTerra\n• Thomas-Mann-Archiv\n• Graphische Sammlung\n(Grund: interne Veranstaltung)",
   "named_entities": [
+    "ETH",
+    "Max Frisch-Archiv Normale",
     "Bibliothek Erdwissenschaften",
     "Grüne Bibliothek",
     "Lesesaal Sammlungen",
-    "Max Frisch-Archiv Normale",
-    "Thomas-Mann-Archiv",
     "Graphische Sammlung",
-    "Geschlossen",
-    "Baubibliothek",
     "GESS",
-    "Archive"
+    "HDB"
   ],
   "topics": [
     "Research",
@@ -23,21 +21,27 @@
     "Infrastructure"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Bibliothek",
+    "Ethbibliothek",
+    "Archive",
+    "Archive frischarchiv",
+    "Ausleihe",
+    "Ausleihe kundenservice",
+    "Baubibliothek"
   ],
-  "summary": "",
+  "summary": "Geschlossen sind:\n\n• Baubibliothek\n• Bibliothek Erdwissenschaften\n• GESS-Bibliothek\n• Grüne Bibliothek\n• ETH-Bibliothek HDB\n• Lesesaal Sammlungen und Archive\n• Max Frisch-Archiv\nNormale Öffnungszeiten gelten für:\n\n• InfoCenter\n• Ausleihe und Kundenservice der ETH-Bibliothek\n• focusTerra\n• Thomas-Mann-Archiv\n• Graphische Sammlung\n(Grund: interne Veranstaltung)",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 12,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 39,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff"
@@ -45,6 +49,11 @@
     "context_tags": [
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 39.0,
+      "avg_word_length": 7.49,
+      "long_word_percentage": 53.85
+    }
   }
 }

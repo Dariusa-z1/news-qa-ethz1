@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Seit November 2013 ist der Hochleistungsrechner «Piz Daint» am Nationalen Rechenzentrum (CSCS) in Lugano der leistungsstärkste Supercomputer Europas. Ende 2016 wurde seine Leistung durch ein umfassendes Hardware-Upgrade nochmals mehr als verdreifacht. Heute ist «Piz Daint» mit einer theoretischen Spitzenleistung von 25,3 Petaflops der schnellste Rechner ausserhalb Asiens, wie an der internationalen Fachtagung ISC High Performance in Frankfurt heute bestätigt wurde. Dank innovativer Architektur ist «Piz Daint» zudem auch einer der energieeffizientesten Grossrechner weltweit.\n\nDer aufgerüstete Hochleistungsrechner ist ein energieeffizientes hybrides System, bestehend aus herkömmlichen Prozessoren (CPUs) und Graphikprozessoren (GPUs). Das ausgeklügelte System, das auf einem Cray XC40/XC50 basiert, ist das Ergebnis einer langjährigen Zusammenarbeit zwischen dem CSCS, verschiedenen Hardwareproduzenten sowie Informatikern, Mathematikern und weiteren Forschenden unterschiedlicher Disziplinen. Angestossen wurde diese erfolgreiche Kooperation durch die nationale Hochleistungsrechnen- und Vernetzungsstrategie (HPCN-Strategie), die vom ETH-Rat im Namen des Bundes 2009 lanciert wurde.\n\nHochleistungsrechner sind mittlerweile aus der Forschung nicht mehr wegzudenken: Simulationen, Datenanalysen und Visualisierungen liefern neben Theorie und Experimenten in den meisten Forschungsbereichen zentrale Beiträge. Leistungsstarke Systeme wie «Piz Daint» sind entscheidend für hochaufgelöste rechenintensive Simulationen, wie sie etwa in der Klima- und Materialforschung sowie in den Life Sciences gemacht werden.\n\nIn der Datenwissenschaft, die zunehmend an Bedeutung gewinnt und zu den strategischen Schwerpunkten der ETH Zürich gehört, ermöglichen Supercomputer die Analyse von enormen Datenmengen. Genau in diesem Bereich verfügt «Piz Daint» über eine besondere Stärke: Er ist in der Lage, bereits während den Berechnungen die resultierenden Daten zu analysieren.\n\nSchliesslich ist «Piz Daint» auch ein wichtiges Element in der internationalen Forschungszusammenarbeit: Das CSCS ist seit diesem Frühjahr in der «Partnership for Advanced Computing in Europe» (PRACE) mit «Piz Daint» einer der wichtigsten Anbieter von Rechenleistung. Dieses Engagement wiederum kommt den Schweizer Forschenden zugut: Sie erhalten durch die CSCS-Beteiligung an PRACE Zugang zu verschiedenen anderen europäischen Grossrechnern.",
   "named_entities": [
-    "Seit November",
     "Piz Daint",
+    "CSCS",
+    "ETH Zürich",
+    "PRACE",
     "Nationalen Rechenzentrum",
     "Supercomputer Europas",
-    "Hardware-Upgrade",
     "High Performance",
     "Leistungsstarke Systeme",
     "Life Sciences",
-    "Advanced Computing",
-    "Dieses Engagement"
+    "Advanced Computing"
   ],
   "topics": [
     "Research",
@@ -26,20 +26,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Daint",
+    "Wurde",
+    "Cscs",
+    "Hochleistungsrechner",
+    "Forschenden",
+    "Heute"
   ],
-  "summary": "Seit November 2013 ist der Hochleistungsrechner «Piz Daint» am Nationalen Rechenzentrum (CSCS) in Lugano der leistungsstärkste Supercomputer Europas....",
+  "summary": "Schliesslich ist «Piz Daint» auch ein wichtiges Element in der internationalen Forschungszusammenarbeit: Das CSCS ist seit diesem Frühjahr in der «Partnership for Advanced Computing in Europe» (PRACE) mit «Piz Daint» einer der wichtigsten Anbieter von Rechenleistung....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 301,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -48,6 +54,11 @@
       "Research",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.15,
+      "avg_word_length": 6.81,
+      "long_word_percentage": 40.86
+    }
   }
 }

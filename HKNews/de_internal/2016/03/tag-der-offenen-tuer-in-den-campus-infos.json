@@ -5,16 +5,13 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Ob Orientierung, Ticketverkauf oder Autovermietung: Die beiden Campus Infos der ETH Zürich sind die neuen zentralen Anlaufstellen für Information und Services für Besucher und ETH-Angehörige. Im Hauptgebäude besteht die Campus Info aus dem Empfang in der Haupthalle und dem Servicebereich im D-Stock (HG D 34), auf dem Campus Hönggerberg finden sich alle Angebote im Gebäude HIL im Raum D 25.9.\n\nAm Mittwoch, 23. März, ist Tag der offenen Tür: An sechs Stationen erfahren die Besucher etwa, wie dynamisch die neuen elektronischen Postfachanlagen sind oder was es mit der historischen Gewölbedecke der Campus Info im Zentrum auf sich hat. Die Veranstaltung findet von 8 bis 16 Uhr statt.",
   "named_entities": [
+    "Campus Hönggerberg",
+    "ETH Zürich",
     "Ob Orientierung",
     "Campus Infos",
     "Im Hauptgebäude",
-    "Campus Info",
-    "Campus Hönggerberg",
-    "Am Mittwoch",
-    "Die Veranstaltung",
-    "Ticketverkauf",
-    "Autovermietung",
-    "Zürich"
+    "HG",
+    "HIL"
   ],
   "topics": [
     "Infrastructure",
@@ -26,19 +23,25 @@
   "keywords": [
     "ETH Zurich",
     "Campus",
-    "University",
-    "Research",
-    "Science",
-    "Education"
+    "Besucher",
+    "Campus info",
+    "Info",
+    "Neuen",
+    "Angebote"
   ],
-  "summary": "Ob Orientierung, Ticketverkauf oder Autovermietung: Die beiden Campus Infos der ETH Zürich sind die neuen zentralen Anlaufstellen für Information und Services für Besucher und ETH-Angehörige....",
+  "summary": "Im Hauptgebäude besteht die Campus Info aus dem Empfang in der Haupthalle und dem Servicebereich im D-Stock (HG D 34), auf dem Campus Hönggerberg finden sich alle Angebote im Gebäude HIL im Raum D 25.9....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 110,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff"
@@ -47,6 +50,11 @@
       "Infrastructure",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.33,
+      "avg_word_length": 5.11,
+      "long_word_percentage": 26.36
+    }
   }
 }

@@ -5,16 +5,10 @@
   "source": "Boos JA, Misun PM, Brunoldi G, Furer LA, Aengenheister L, Modena M, Rousset M, Buerki-Thurnherr T, Hierlemann A: Microfluidic co-culture platform to recapitulate the maternal-placental-embryonic axis. Advanced Biology, June 19 2021, doi: 10.1002/adbi.202100609",
   "main_content": "A chip with different cell types: Drugs must be safe not just for the patients; in the case of pregnant patients, drugs must also be safe for the unborn children still in the womb. Therefore, at an early stage in the development of new medicines, candidate substances are tested in the Petri dish on embryonic stem cells from mouse cell lines. This is to avoid that an embryo-damaging effect would only be noticed at a later stage during tests with pregnant mice.\n\nHowever, these cell culture tests are a highly simplified version of what takes place in the uterus. Researchers just add the test material to a culture of embryonic stem cells in a Petri dish, and can identify substances that have a direct adverse effect on embryonic cells. By contrast, in the body of a pregnant woman, active pharmaceutical ingredients may be modified by the mother’s metabolism and enter the embryo’s bloodstream via the placenta. Moreover, standard cell culture tests can’t detect substances that have indirect effects on the embryo, for example, in that they interfere with the functioning of the placenta or generate stress responses.\n\nResearchers in the Department of Biosystems Science and Engineering at ETH Zurich in Basel have now devised a laboratory test that incorporates the role of the placenta into embryotoxicity assessments. To do so, Julia Boos, a doctoral student in the group of ETH Professor Andreas Hierlemann, and her colleagues developed a new chip. This chip contains several compartments, all interconnected by miniature channels. On this chip, the scientists combined human placental cells taken from cell lines with microtissue spheroids derived from mouse embryonic stem cell lines, known as “embryoid bodies”, which reflect the early development of the embryo. Test substances first encounter a layer of placental cells, which they have to pass before reaching the embryonic cells, thereby reproducing the situation in utero.\n\nIncidentally, these experiments do not produce viable embryos. The embryonic cells from cell lines only undergo the very first steps of embryonal development over a period of ten days.\n\nNow the researchers would like to further develop their system with regard to more suitable plastic materials. It is also conceivable to use human stem cell lines, instead of mouse cells, to form embryoid bodies in the future. “There are significant differences between lab animals and humans, particularly in terms of embryonic development and the processes taking place in the placenta,” Boos says, continuing: “Of all the organs, the placenta is where differences between the species are most pronounced.”\n\nThe group aims at creating a new test that is also easy to use for the pharmaceutical industry. Being able to detect – and eliminate – substances that are harmful to the embryo at an early stage of drug development means that fewer substances will subsequently be tested on animals in in-vivo studies.",
   "named_entities": [
-    "Biosystems Science",
-    "Julia Boos",
+    "ETH Zurich",
     "Professor Andreas Hierlemann",
-    "Drugs",
-    "Petri",
-    "Department",
-    "Engineering",
-    "Zurich",
-    "Basel",
-    "There"
+    "Professor. Andreas Hierlemann",
+    "Department of Biosystems Science"
   ],
   "topics": [
     "Research",
@@ -23,22 +17,27 @@
     "Campus Life"
   ],
   "keywords": [
-    "ETH Zurich",
     "Cell",
     "Cells",
-    "That",
     "Embryonic",
     "Substances",
-    "With"
+    "Cell lines",
+    "Development",
+    "Lines"
   ],
-  "summary": "A chip with different cell types: Drugs must be safe not just for the patients; in the case of pregnant patients, drugs must also be safe for the unborn children still in the womb....",
+  "summary": "On this chip, the scientists combined human placental cells taken from cell lines with microtissue spheroids derived from mouse embryonic stem cell lines, known as “embryoid bodies”, which reflect the early development of the embryo....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 474,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -48,6 +47,11 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 24.95,
+      "avg_word_length": 5.07,
+      "long_word_percentage": 27.64
+    }
   }
 }

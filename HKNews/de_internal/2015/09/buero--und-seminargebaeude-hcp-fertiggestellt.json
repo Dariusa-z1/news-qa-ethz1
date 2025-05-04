@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "ETH-Angehörige haben am Mittwoch, 16. September von 11 bis 13 Uhr die Möglichkeit, das neue Gebäude zu besichtigen und anhand einer vorbereiteten Führung Näheres zu erfahren. Danach findet ein Anlass für geladene Gäste statt.\n\nDas HCP am Leopold-Ruzicka-Weg bietet aktuell dem Departement Materialwissenschaften D-MATL, dem Departement Gesundheitswissenschaften und Technologie D-HEST sowie dem Institut für Mikrobiologie des Departementes Biologie D-BIOL Raum für interdisziplinäres Arbeiten.\n\nMit dem Neubau hat der Infrastrukturbereich Immobilien der ETH Zürich einen modernen und architektonisch anspruchsvollen Neubau geschaffen. Im Inneren besticht das Objekt durch helle, arbeitsfreundliche Büroräume, die durch Seminar- und Aufenthaltsflächen sowie Plätze für studentisches Arbeiten ergänzt werden. Drei Terrassen schaffen Raum zur Begegnung und dienen als Ruhezonen. Insgesamt hat das HCP 230 Arbeitsplätze und vier Seminarräume.",
   "named_entities": [
+    "ETH Zürich",
+    "HCP",
+    "Institut für Mikrobiologie",
     "Führung Näheres",
-    "Leopold-Ruzicka-Weg",
     "Departement Materialwissenschaften",
     "Departement Gesundheitswissenschaften",
     "Departementes Biologie",
     "Infrastrukturbereich Immobilien",
     "Im Inneren",
-    "Drei Terrassen",
-    "Angehörige",
-    "Mittwoch"
+    "Drei Terrassen"
   ],
   "topics": [
     "Staff",
@@ -26,21 +26,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "Building",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Arbeiten",
+    "Departement",
+    "Neubau",
+    "Raum",
+    "Sowie",
+    "Aktuell"
   ],
-  "summary": "ETH-Angehörige haben am Mittwoch, 16. September von 11 bis 13 Uhr die Möglichkeit, das neue Gebäude zu besichtigen und anhand einer vorbereiteten Führung Näheres zu erfahren....",
+  "summary": "Das HCP am Leopold-Ruzicka-Weg bietet aktuell dem Departement Materialwissenschaften D-MATL, dem Departement Gesundheitswissenschaften und Technologie D-HEST sowie dem Institut für Mikrobiologie des Departementes Biologie D-BIOL Raum für interdisziplinäres Arbeiten....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 126,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students"
     ],
@@ -49,6 +54,11 @@
       "Technology",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.75,
+      "avg_word_length": 6.33,
+      "long_word_percentage": 37.3
+    }
   }
 }

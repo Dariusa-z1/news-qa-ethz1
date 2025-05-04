@@ -5,12 +5,10 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Equipped with a headset measuring brain activity, up to four participants at a time competed in a virtual race with mind control. Children and young people in particular were brimming with enthusiasm and curiosity – slots for “BrainDriver” were packed throughout the day.\n\nSending the right command at the right moment is key for the Brain Computer Interface (BCI) race. Appropriate brain activity – either concentrating or relaxing – keeps your vehicle moving at speed; the goal, of course, being to steer it first over the finish line.\n\nThis is one of the six disciplines at the Cybathlon in May 2020, a first-of-its-kind championship launched by ETH, where athletes with disabilities compete to perform everyday tasks using the latest assistive technology. The first Cybathlon in 2016 was a huge success, with seats sold out at the Swiss Arena Zurich, and 66 race pilots from 25 nations pitting it out before the delighted spectators.",
   "named_entities": [
+    "ETH",
     "Brain Computer Interface",
     "Swiss Arena Zurich",
-    "Equipped",
-    "BrainDriver",
-    "Cybathlon",
-    "ETH"
+    "BCI"
   ],
   "topics": [
     "Weather & Environment",
@@ -18,22 +16,27 @@
     "Education"
   ],
   "keywords": [
-    "With",
     "Brain",
     "Race",
     "Activity",
-    "Were",
-    "Right",
-    "First"
+    "Brain activity",
+    "Cybathlon",
+    "First",
+    "Right"
   ],
-  "summary": "Equipped with a headset measuring brain activity, up to four participants at a time competed in a virtual race with mind control....",
+  "summary": "Appropriate brain activity – either concentrating or relaxing – keeps your vehicle moving at speed; the goal, of course, being to steer it first over the finish line....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 153,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -41,6 +44,11 @@
     "context_tags": [
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 25.5,
+      "avg_word_length": 4.96,
+      "long_word_percentage": 26.8
+    }
   }
 }

@@ -5,16 +5,14 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "• In der externe Seite Data Challenge call_made haben zwei Ideen gewonnen, die sich mit dem Gamifizieren von Daten und mit Schnittstellen (APIs) zu unseren digitalen Ressourcen befassen.\n• Die im externe Seite Ideenwettbewerb zur Research Collection call_made , der Publikationsplattform der ETH Zürich, prämierten Ideen adressieren die Visualisierung von Forschungsaktivitäten sowie die Möglichkeit der Datenablieferung in Form von statischen Webseiten.\n• In der externe Seite Student Challenge call_made werden gesamthaft fünf Ideen ausgezeichnet, deren Ideengeber eine Auslastungsmessung von Lernplätzen, die Erweiterung des Lernplatzangebots um Stehtische sowie Funktionen zur Literaturbewertung vorschlagen.\n• Im Wettbewerb externe Seite Werbeartikel mit Mehrwert call_made drehen sich die Gewinnerideen thematisch um Schreibgeräte, Taschen, Display-Cleaner für Smartphones und Mouse Pads mit integrierter Lademöglichkeit für Mobilgeräte.\nDie ETH-Bibliothek hat im Rahmen einer Open-Innovation-Kampagne zwischen Oktober 2018 und März 2019 vier verschiedene Ideenwettbewerbe durchgeführt. Für die zahlreichen Eingaben, Kommentare und Likes möchten wir uns ganz herzlich bei allen Teilnehmenden bedanken!\n\nNun stehen die Gewinnerideen fest und können unter www.library.ethz.ch/ideen eingesehen werden.\n\nIn einem nächsten Schritt prüfen wir die Ideen auf ihre Umsetzbarkeit, wobei die Ideengeberinnen und -geber nach Wunsch einbezogen werden.",
   "named_entities": [
+    "ETH Zürich",
     "Seite Data Challenge",
+    "Seite Student Challenge",
     "Seite Ideenwettbewerb",
     "Research Collection",
-    "Seite Student Challenge",
     "Im Wettbewerb",
     "Seite Werbeartikel",
-    "Display-Cleaner",
-    "Mouse Pads",
-    "Open-Innovation-Kampagne",
-    "Gamifizieren"
+    "Mouse Pads"
   ],
   "topics": [
     "Research",
@@ -26,20 +24,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Callmade",
+    "Externe",
+    "Externe seite",
+    "Ideen",
+    "Seite",
+    "Challenge"
   ],
-  "summary": "• In der externe Seite Data Challenge call_made haben zwei Ideen gewonnen, die sich mit dem Gamifizieren von Daten und mit Schnittstellen (APIs) zu unseren digitalen Ressourcen befassen....",
+  "summary": "• Die im externe Seite Ideenwettbewerb zur Research Collection call_made , der Publikationsplattform der ETH Zürich, prämierten Ideen adressieren die Visualisierung von Forschungsaktivitäten sowie die Möglichkeit der Datenablieferung in Form von statischen Webseiten....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 4,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 186,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -48,6 +52,11 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.91,
+      "avg_word_length": 6.6,
+      "long_word_percentage": 41.4
+    }
   }
 }

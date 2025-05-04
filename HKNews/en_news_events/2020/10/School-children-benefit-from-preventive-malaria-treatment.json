@@ -5,15 +5,12 @@
   "source": "Cohee LM et al.: Preventive malaria treatment among school-aged children in sub-Saharan Africa: a systematic review and meta-analyses. Lancet Global Health, 22 October 2020, doi: 10.1016/S2214-109X(20)30325-9",
   "main_content": "Main article: In several regions affected by the tropical disease malaria there are programmes in schools to preventively treat children with antimalarial drugs. An international consortium of researchers, including Michael Zimmermann, Professor of Human Nutrition at ETH Zurich, has now for the first time analysed the effectiveness of such programmes in a meta-analysis using individual data. The scientists evaluated data from 11 clinical trials, involving more than 15,000 children in seven countries in sub-Saharan Africa.\n\nThe results showed that such programmes are effective and reduce subsequent malaria infections in children – on average by half. Cases of malaria-associated anaemia were reduced by 15 percent on average. As the programmes studied differed greatly in terms of the drugs used and the number of administrations (between once a month and once a year), the programmes also differed in their effectiveness. Those programmes that used combination therapy with either the drug arteminisin or an aminoquinoline drug were particularly successful.\n\n\"Such public health campaigns in schools not only improve health, cognition and well-being of children, but can also generally help to curb the disease spread in communities where malaria is endemic,\" says ETH Professor Zimmermann. The scientists published their results in the latest issue of the journal Lancet Global Health .",
   "named_entities": [
+    "ETH Zurich",
+    "Lancet Global Health",
     "Michael Zimmermann",
     "Human Nutrition",
     "Saharan Africa",
-    "Professor Zimmermann",
-    "Lancet Global Health",
-    "Main",
-    "Zurich",
-    "Such",
-    "ETH Zurich"
+    "Professor Zimmermann"
   ],
   "topics": [
     "International",
@@ -22,22 +19,27 @@
     "Campus Life"
   ],
   "keywords": [
-    "ETH Zurich",
     "Programmes",
     "Children",
-    "Malaria",
-    "Such",
     "Health",
-    "Disease"
+    "Malaria",
+    "Average",
+    "Data",
+    "Differed"
   ],
-  "summary": "Main article: In several regions affected by the tropical disease malaria there are programmes in schools to preventively treat children with antimalarial drugs....",
+  "summary": "\"Such public health campaigns in schools not only improve health, cognition and well-being of children, but can also generally help to curb the disease spread in communities where malaria is endemic,\" says ETH Professor Zimmermann....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 210,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -49,6 +51,11 @@
       "Administrative",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.33,
+      "avg_word_length": 5.52,
+      "long_word_percentage": 37.14
+    }
   }
 }

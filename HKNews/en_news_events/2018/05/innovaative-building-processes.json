@@ -5,12 +5,11 @@
   "source": "Unknown source",
   "main_content": "Recently, the NCCR Digital Fabrication invited representatives of the Swiss National Science Foundation (SNSF) and its review committee to its fourth annual revision. During the two-day event, the panel of international experts evaluated the progress of the NCCR and discussed its future research plans. In the coming months, the SNSF Research Council will decide on the future financing of the NCCR. The complete report on the fourth annual revision can be found on the website of the NCCR Digital Fabrication.",
   "named_entities": [
+    "NCCR",
     "Digital Fabrication",
     "Swiss National Science Foundation",
-    "Research Council",
-    "Recently",
-    "NCCR",
-    "SNSF"
+    "SNSF",
+    "Research Council"
   ],
   "topics": [
     "Research",
@@ -21,21 +20,26 @@
   ],
   "keywords": [
     "Nccr",
-    "Digital",
-    "Fabrication",
-    "Snsf",
-    "Fourth",
     "Annual",
-    "Revision"
+    "Annual revision",
+    "Digital",
+    "Digital fabrication",
+    "Fabrication",
+    "Fourth"
   ],
   "summary": "Recently, the NCCR Digital Fabrication invited representatives of the Swiss National Science Foundation (SNSF) and its review committee to its fourth annual revision....",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 81,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -44,6 +48,11 @@
       "Technology",
       "Research",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.25,
+      "avg_word_length": 5.21,
+      "long_word_percentage": 29.63
+    }
   }
 }

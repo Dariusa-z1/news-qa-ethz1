@@ -5,16 +5,16 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Urban systems: increase resilience: By trade, Božidar Stojadinović is an expert in earthquake-proof construction. Now a Professor of Structural Dynamics and Earthquake Engineering, he specialises in urban systems and how to make them more resilient to earthquakes. “Systems engineering has become increasingly important in resilience research,” he says. His combination of skills made him an obvious choice to head up a research cluster in the Future Resilient Systems programme in Singapore – even though earthquakes are one of the few topics not on the agenda. Instead, the goal is to understand the resilience of high-density urban systems – of which Singapore is a good example – and to strengthen them in preparation for future challenges. The key challenges confronting Singapore are climate change and land scarcity. Responding to this will require long-term planning and timely changes to urban infrastructure.\n\nTogether with researchers from Nanyang Technological University Singapore (NTU) and the National University of Singapore (NUS), Stojadinović is developing a comprehensive computer model of the city that can be used to simulate urban systems as well as any challenges and their effects. In addition to incorporating all the buildings and associated infrastructure systems, such as power and water, this digital representation can be used to model user interactions with the systems. The model itself is based on a computer software framework originally developed for military war games and now widely used in gaming. The software lets users run multiple simulations of a variety of systems and exchange information between them. “That’s a crucial feature,” says Stojadinović. This is because of the sheer complexity of urban systems and the way that individual subsystems influence each other. “We’re already pretty good at modelling and optimising individual systems, but often we don’t fully understand how systems influence each other,” he adds. The model that Stojadinović and his fellow researchers are developing aims to solve that problem and encourages experts to look beyond individual infrastructure systems and to perceive urban systems as a whole.\n\n“Nobody could have predicted it” is an oft-heard response to system failure. Giovanni Sansavini, ETH Professor of Reliability and Risk Engineering, works tirelessly to disprove that notion. An engineer by training, he studies risks in complex networks such as interdependent energy networks and large supply chains.\n\nSansavini’s models serve not only to identify risks, but also to quantify them. Thus, the researchers can determine which combinations of failures have the worst consequences for a system and how likely they are to occur. Understanding these scenarios is the basis for providing systems with adequate protection. In the case of energy grids, that might mean making them more flexible and less reliant on individual energy sources. Or setting up early-warning systems, introducing technical improvements to address vulnerabilities, and helping the grid quickly return to normal after disruptions. “Of course, however robust we make the systems, people will still make mistakes, and unexpected things will happen,” Sansavini cautions. The good news is that even these mistakes can be replicated in the virtual model. This means we can predict the system evolution and make it more resilient to disruptions in the future.\n\nETH researchers can predict the remaining life of aircraft engines using machine-learning algorithms. (Photograph: Colourbox)\n\nCritical research facilities: focus on redundancy: Olga Fink and her team conduct research on faults in complex systems, from aircraft and gas turbines to infrastructure systems such as railways. As Professor of Intelligent Maintenance Systems, Fink develops intelligent algorithms that learn from data collected by condition-monitoring devices. These algorithms address various challenges, from detecting system faults and diagnosing different failure types to predicting when the next failure might occur – or even implementing a prescriptive maintenance strategy. “Our goal is to predict the remaining useful life and then control the operation of a system to prolong its service life,” says Fink. The intelligent algorithms learn from both historical and real-time operation and condition-monitoring data.\n\nOne hurdle is that machine-learning algorithms need a lot of data. “Failures are rare in safety-critical systems, so we don’t really have enough data to learn from,” says Fink. Fortunately, the researchers have some tricks up their sleeve: “One approach is to use data that represent the system’s healthy state and train the algorithm to detect deviations.” It can also be helpful to use condition-monitoring data from similar systems and adapt them to a specific system. Yet, in many cases, even these methods may not be sufficient. The researchers must then go a step further, by combining their algorithms with physical models that simulate the system they are monitoring or enriching the AI models with physical domain knowledge. This means the algorithms can work with less data and are easier to interpret by the experts who have to make decisions based on the algorithm’s outputs. In one project with NASA, for example, the researchers were able to predict the remaining useful life of aircraft engines. Olga Fink is particularly proud of this achievement: while early fault detection is now a mature process, predicting the remaining useful life of a system is a lot harder. It has been, she says jokingly, the “holy grail” of her area of research.\n\nManaging disruption is part of everyday life for Walter Iten, Head of Facility Management at ETH Zurich. His department is in charge of technical and infrastructure management for all ETH buildings and facilities. Iten says power failures are the biggest problem: “Nothing works without power!” That’s why ETH relies on redundancy. Facility Management can draw power from two different substations for part of the Zentrum campus. And, in the event of a major power cut, the most important areas also have access to back-up diesel generators. For particularly sensitive research equipment, batteries are used to ensure an uninterrupted power supply.\n\nBut the jewel in the crown is the predictive maintenance strategy for all the facilities and buildings, which aims to prevent disruptions of all types from occurring in the first place. An IT maintenance tool keeps track of each system’s operating hours and maintenance schedule, and triggers maintenance jobs as they become due. An increasingly important role is also played by sensors, which monitor systems to detect sudden failures. The Facility Management team can access these data remotely on a computer and intervene to a certain extent in the operation of the system. Currently, the facility-monitoring system and the maintenance tool are not connected – but, with the latest advances in sensor technology and AI, it is only a matter of time.\n\nCurrent issue: Read the current issue as a PDF (PDF, 7.4 MB)\n\nRead the current issue online\n\nFind earlier issues in the archive",
   "named_entities": [
-    "Structural Dynamics",
-    "Earthquake Engineering",
+    "ETH Zurich",
+    "Olga Fink",
+    "Facility Management",
     "Future Resilient Systems",
     "Nanyang Technological University Singapore",
-    "National University",
-    "Giovanni Sansavini",
-    "Risk Engineering",
-    "Olga Fink",
-    "As Professor",
-    "Intelligent Maintenance Systems"
+    "AI",
+    "PDF",
+    "Structural Dynamics",
+    "Earthquake Engineering",
+    "National University"
   ],
   "topics": [
     "Research",
@@ -25,22 +25,27 @@
     "Education"
   ],
   "keywords": [
-    "ETH Zurich",
     "Systems",
-    "That",
     "System",
-    "With",
-    "From",
-    "Data"
+    "Data",
+    "Algorithms",
+    "Maintenance",
+    "Researchers",
+    "Urban"
   ],
-  "summary": "Urban systems: increase resilience: By trade, Božidar Stojadinović is an expert in earthquake-proof construction....",
+  "summary": "The model that Stojadinović and his fellow researchers are developing aims to solve that problem and encourages experts to look beyond individual infrastructure systems and to perceive urban systems as a whole....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 1118,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +57,11 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.96,
+      "avg_word_length": 5.25,
+      "long_word_percentage": 32.2
+    }
   }
 }

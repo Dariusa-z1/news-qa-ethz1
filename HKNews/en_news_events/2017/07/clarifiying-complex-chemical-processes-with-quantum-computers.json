@@ -5,16 +5,13 @@
   "source": "Reiher M, Wiebe N, Svore KM, Wecker D, Troyer M: Elucidating reaction mechanisms on quantum computers: PNAS 2017, 114: 7555-7560, doi: 10.1073/pnas.1619152114",
   "main_content": "One of the most complex enzymes: Specialists expect nothing less than a technological revolution from quantum computers, which they hope will soon allow them to solve problems that are currently too complex for classical supercomputers. Commonly discussed areas of application include data encryption and decryption, as well as special problems in the fields of physics, quantum chemistry and materials research.\n\nBut when it comes to concrete questions that only quantum computers can answer, experts have remained relatively vague. Researchers from ETH Zurich and Microsoft Research are now presenting a specific application for the first time in the scientific journal PNAS: evaluating a complex chemical reaction. Based on this example, the scientists show that quantum computers can indeed deliver scientifically relevant results.\n\nA team of researchers led by ETH professors Markus Reiher and Matthias Troyer used simulations to demonstrate how a complex chemical reaction could be calculated with the help of a quantum computer. To accomplish this, the quantum computer must be of a “moderate size”, says Matthias Troyer, who is Professor for Computational Physics at ETH Zurich and currently works for Microsoft. The mechanism of this reaction would be nearly impossible to assess with a classical supercomputer alone – especially if the results are to be sufficiently precise.\n\nThe researchers chose a particularly complex biochemical reaction as the example for their study: thanks to a special enzyme known as a nitrogenase, certain microorganisms are able to split atmospheric nitrogen molecules in order to create chemical compounds with single nitrogen atoms. It is still unknown how exactly the nitrogenase reaction works. “This is one of the greatest unsolved mysteries in chemistry,” says Markus Reiher, Professor for Theoretical Chemistry at ETH Zurich.\n\nComputers that are available today are able to calculate the behaviour of simple molecules quite precisely. However, this is nearly impossible for the nitrogenase enzyme and its active centre, which is simply too complex, explains Reiher.\n\nIn this context, complexity is a reflection of how many electrons interact with each other within the molecule over relatively long distances. The more electrons a researcher needs to take into account, the more sophisticated the computations. “Existing methods and classical supercomputers can be used to assess molecules with about 50 strongly interacting electrons at most,” says Reiher. However, there is a significantly greater number of such electrons at the active centre of a nitrogenase enzyme. Because with classical computers the effort required to evaluate a molecule doubles with each additional electron, an unrealistic amount of computational power is needed.\n\nAs demonstrated by the ETH researchers, hypothetical quantum computers with just 100 to 200 quantum bits (qubits) will potentially be able to compute complex subproblems within a few days. The results of these computations could then be used to determine the reaction mechanism of nitrogenase step by step.\n\nThat quantum computers are capable of solving such challenging tasks at all is partially the result of the fact that they are structured differently to classical computers. Rather than requiring twice as many bits to assess each additional electron, quantum computers simply need one more qubit.\n\nHowever, it remains to be seen when such “moderately large” quantum computers will be available. The currently existing experimental quantum computers use on the order of 20 rudimentary qubits respectively. It will take at least another five years, or more likely ten, before we have quantum computers with processors of more than 100 high quality qubits, estimates Reiher.\n\nResearchers emphasise the fact that quantum computers cannot handle all tasks, so they will serve as a supplement to classical computers, rather than replacing them. “The future will be shaped by the interplay between classical computers and quantum computers,” says Troyer.\n\nWith regard to the nitrogenase reaction, quantum computers will be able to calculate how the electrons are distributed within a specific molecular structure. However, classical computers will still need to tell quantum computers which structures are of particular interest and should therefore be calculated. “Quantum computers need to be thought of more like a co-processor capable of taking over particular tasks from classical computers, thus allowing them to become more efficient,” says Reiher.\n\nExplaining the mechanism of the nitrogenase reaction will also require more than just information about the electron distribution in a single molecular structure; indeed, this distribution needs to be determined in thousands of structures. Each computation takes several days. “In order for quantum computers to be of use in solving these kinds of problems, they will first need to be mass produced, thereby allowing computations to take place on multiple computers at the same time,” says Troyer.",
   "named_entities": [
-    "Microsoft Research",
+    "ETH Zurich",
     "Markus Reiher",
     "Matthias Troyer",
+    "Microsoft Research",
     "Computational Physics",
     "Theoretical Chemistry",
-    "Specialists",
-    "Zurich",
-    "PNAS",
-    "Professor",
-    "Existing"
+    "PNAS"
   ],
   "topics": [
     "Technology & Innovation",
@@ -25,22 +22,27 @@
     "COVID-19"
   ],
   "keywords": [
-    "ETH Zurich",
     "Computers",
     "Quantum",
-    "Will",
-    "With",
+    "Quantum computers",
     "Classical",
-    "Reaction"
+    "Reaction",
+    "Complex",
+    "Nitrogenase"
   ],
-  "summary": "",
+  "summary": "“In order for quantum computers to be of use in solving these kinds of problems, they will first need to be mass produced, thereby allowing computations to take place on multiple computers at the same time,” says Troyer....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 759,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +52,11 @@
       "Research",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.0,
+      "avg_word_length": 5.51,
+      "long_word_percentage": 36.63
+    }
   }
 }

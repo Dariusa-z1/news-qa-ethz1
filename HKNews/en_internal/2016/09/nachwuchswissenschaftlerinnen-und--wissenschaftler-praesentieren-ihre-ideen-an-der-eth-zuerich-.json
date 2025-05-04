@@ -7,14 +7,13 @@
   "named_entities": [
     "Falling Walls Lab",
     "Anna Lisa Martin-Niedecken",
+    "Falling Walls Conference",
+    "Falling Walls Foundation",
     "Zurich University",
     "Etienne Jeoffroy",
     "Denis Schapiro",
     "Joshua Urieli",
-    "Falling Walls Conference",
-    "The Falling Walls",
-    "Berlin Wall",
-    "Falling Walls Foundation"
+    "Berlin Wall"
   ],
   "topics": [
     "Research",
@@ -25,21 +24,26 @@
   ],
   "keywords": [
     "Falling",
+    "Falling walls",
     "Walls",
-    "Three",
     "Jury",
-    "With",
+    "Three",
     "Young",
-    "From"
+    "Project"
   ],
-  "summary": "Three minutes, three PowerPoint slides, one goal: impress the jury with your research project....",
+  "summary": "The three young researchers with the best ideas will receive a cash prize and the opportunity to present their project again the next day at the international Falling Walls Conference in front of around 600 guests....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 237,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -49,6 +53,11 @@
       "Research",
       "Events",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 26.33,
+      "avg_word_length": 5.11,
+      "long_word_percentage": 28.27
+    }
   }
 }

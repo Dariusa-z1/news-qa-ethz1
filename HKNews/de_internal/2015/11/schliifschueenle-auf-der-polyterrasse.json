@@ -5,16 +5,12 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Zürich’s schönst gelegenes Eisfeld mit Aussicht auf die Innenstadt wird ab Samstag vier Wochen lang auf Hochglanz poliert: Die ETH Zürich lädt Studierende, Mitarbeitende sowie die ganze Stadtbevölkerung vom 21. November bis 18. Dezember 2015 zum Schlittschuhlaufen, Essen und Trinken auf das Eisfeld auf der Polyterrasse ein. Schlittschuhe können für sechs Franken gemietet werden.\n\nAm Samstag- und Sonntagnachmittag gibt es Märchenstunden für Kinder, der ASVZ bietet Pondhockey-Training-Sessions an. Des Weiteren gibt es eine Headphone-Party, ein Hüttenquiz und verschiedene Eisshows. In der gemütlichen Festhütte wird leckere Hausmannskost serviert. Am Wochenende kann man neben dem Eisfeld brunchen.\n\nDas Eisfeld Polyterrasse ist ein Projekt des Stabs Veranstaltungen. Studierende aus den verschiedenen Fachvereinen sowie Mitglieder des VSETH sind für den Betrieb zuständig.\n\nNähere Informationen zum Programm auf www.ethz.ch/eisfeld .",
   "named_entities": [
-    "Am Samstag",
-    "Pondhockey-Training-Sessions",
-    "Des Weiteren",
-    "Headphone-Party",
-    "Am Wochenende",
-    "Das Eisfeld Polyterrasse",
+    "ASVZ",
+    "VSETH",
+    "ETH Zürich",
+    "Polyterrasse",
     "Stabs Veranstaltungen",
-    "Nähere Informationen",
-    "Zürich",
-    "Aussicht"
+    "Nähere Informationen"
   ],
   "topics": [
     "Campus Life",
@@ -26,21 +22,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "Students",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Eisfeld",
+    "Eisfeld polyterrasse",
+    "Gibt",
+    "Polyterrasse",
+    "Samstag",
+    "Sowie"
   ],
-  "summary": "",
+  "summary": "Zürich’s schönst gelegenes Eisfeld mit Aussicht auf die Innenstadt wird ab Samstag vier Wochen lang auf Hochglanz poliert: Die ETH Zürich lädt Studierende, Mitarbeitende sowie die ganze Stadtbevölkerung vom 21....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 131,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff"
@@ -50,6 +51,11 @@
       "Research",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 10.08,
+      "avg_word_length": 6.01,
+      "long_word_percentage": 39.69
+    }
   }
 }

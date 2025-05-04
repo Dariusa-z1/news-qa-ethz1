@@ -5,16 +5,9 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Die Menschen streben seit jeher danach, das Rechnen zu vereinfachen. Die Entwicklung von Rechenhilfsmitteln während Jahrhunderten hat denn auch in den Beständen der ETH-Bibliothek vielfältige Spuren hinterlassen: So etwa in der Sammlung Sternwarte, die unter anderem verschiedene historische Rechengeräte und Rechenmaschinen umfasst. Die neuste Story auf Explora zeigt den Weg auf, den Tüftler und Wissenschaftler während Jahrhunderten zurückgelegt haben, um das Rechnen zu vereinfachen, Fehler zu vermeiden und immer grössere Rechenmengen zu bewältigen. Tauchen Sie ein in die Story «Rechnen ohne Strom – Rechenmaschinen als Wegbereiter der Computer»\n\nExplora ist die Plattform der ETH-Bibliothek für multimediales Storytelling.",
   "named_entities": [
-    "Die Menschen",
-    "Die Entwicklung",
+    "ETH",
     "Sammlung Sternwarte",
-    "Tauchen Sie",
-    "Rechnen",
-    "Rechenhilfsmitteln",
-    "Jahrhunderten",
-    "Beständen",
-    "Bibliothek",
-    "Spuren"
+    "Tauchen Sie"
   ],
   "topics": [
     "Technology & Innovation",
@@ -22,27 +15,38 @@
     "Communication"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Rechnen",
+    "Ethbibliothek",
+    "Explora",
+    "Jahrhunderten",
+    "Rechenmaschinen",
+    "Rechnen vereinfachen",
+    "Story"
   ],
-  "summary": "Die Menschen streben seit jeher danach, das Rechnen zu vereinfachen....",
+  "summary": "Die neuste Story auf Explora zeigt den Weg auf, den Tüftler und Wissenschaftler während Jahrhunderten zurückgelegt haben, um das Rechnen zu vereinfachen, Fehler zu vermeiden und immer grössere Rechenmengen zu bewältigen....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 98,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Researchers"
     ],
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 24.5,
+      "avg_word_length": 6.3,
+      "long_word_percentage": 42.86
+    }
   }
 }

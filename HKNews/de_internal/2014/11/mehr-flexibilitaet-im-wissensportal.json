@@ -6,15 +6,11 @@
   "main_content": "Ob Desktop-PC oder Tablet – die Unterseiten des Wissensportals passen sich flexibel der Grösse Ihres Endgerätes an. Website-Inhalte, Formulare, Links und Buttons sind entsprechend ebenfalls mobil nutzbar. Nutzerinnen und Nutzern von Smartphones empfehlen wir aktuell noch unsere mobile Website .\n\nDie rechte Seitennavigation ist übersichtlicher. Die Navigation der weiteren Unterseiten kann – je nach Bedarf – durch Klicken angezeigt oder wieder ausgeblendet werden.\n\nNur wenn Sie tatsächlich nach Informationsressourcen suchen möchten, erscheinen – nach einem Klick auf das Suchfeld – die vier Suchreiter für eine gezielte Recherche.\n\nDie gesamte Website-Navigation ist über die Tastatur komfortabel nutzbar. Alle Seiteninhalte, inklusive Formularfelder, Links und Buttons, sind für Screenreader-Anwendungen optimiert und zugänglich. Diese entsprechen somit mehrheitlich den nationalen (Stiftung \" externe Seite Zugang für alle \") und externe Seite internationalen Accessibility-Standards (WCAG) .\n\nUnd es geht weiter. In einem nächsten Schritt wird die Website für die Anwendung auf Smartphones optimiert. Im Anschluss werden wir uns der Verbesserung der Anzeige der Rechercheergebnisse innerhalb des Wissensportals widmen.",
   "named_entities": [
     "Ob Desktop",
-    "Grösse Ihres Endgerätes",
-    "Website-Inhalte",
-    "Die Navigation",
-    "Website-Navigation",
     "Alle Seiteninhalte",
-    "Screenreader-Anwendungen",
     "Seite Zugang",
-    "Accessibility-Standards",
-    "Im Anschluss"
+    "Im Anschluss",
+    "PC",
+    "WCAG"
   ],
   "topics": [
     "Campus Life",
@@ -23,27 +19,38 @@
     "Communication"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Buttons",
+    "Externe",
+    "Externe seite",
+    "Links",
+    "Links buttons",
+    "Nutzbar",
+    "Optimiert"
   ],
-  "summary": "Ob Desktop-PC oder Tablet – die Unterseiten des Wissensportals passen sich flexibel der Grösse Ihres Endgerätes an....",
+  "summary": "Nur wenn Sie tatsächlich nach Informationsressourcen suchen möchten, erscheinen – nach einem Klick auf das Suchfeld – die vier Suchreiter für eine gezielte Recherche....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 158,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.17,
+      "avg_word_length": 6.49,
+      "long_word_percentage": 43.67
+    }
   }
 }

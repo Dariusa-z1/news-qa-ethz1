@@ -1,20 +1,20 @@
 {
   "language": "en",
   "title": "Swaying Mountains",
-  "date": "2021-12-01",
+  "date": "2010-10-01",
   "source": "Weber S, Beutel J, Häusler M, Geimer PR, Fäh D, Moore, JR: Spectral amplification of ground motion linked to resonance of large-scale mountain landforms. Earth and Planetary Science Letters, published online Dec 22 nd 2021. doi: 10.1016/j.epsl.2021.117295",
   "main_content": "High alpine measuring devices: The Matterhorn appears as an immovable, massive mountain that has towered over the landscape near Zermatt for thousands of years. A study just published in the journal “Earth and Planetary Science Letters” (https://doi.org/10.1016/j.epsl.2021.117295) now shows that this impression is wrong. An international research team has proven that the Matterhorn is instead constantly in motion, swaying gently back and forth about once every two seconds. This subtle vibration with normally imperceptible amplitudes is stimulated by seismic energy in the Earth originating from the world’s oceans, earthquakes, as well as human activity.\n\n\"The movements of the underground cause every object to vibrate, which we fortunately cannot feel, but detect with sensitive measuring instruments,\" emphasises Donat Fäh from the Swiss Seismological Service at ETH Zurich. These so-called natural frequencies depend primarily on the geometry of the object and its material properties. The phenomenon is also observed in bridges, high-rise buildings, and now even mountains. \"We wanted to know whether such resonant vibrations can also be detected on a large mountain like the Matterhorn,\" says Samuel Weber, who carried out the study during a postdoctoral period at the Technical University of Munich (TUM) and is now working at the WSL Institute for Snow and Avalanche Research SLF. He emphasizes that the interdisciplinary collaboration between researchers at the Swiss Seismological Service at ETH Zurich, the Institute for Computer Engineering and Communication Networks at ETH Zurich, and the Geohazards Research Group at the University of Utah (USA) was particularly important for success of this project.\n\nFor the study, the scientists installed several seismometers on the Matterhorn, including one directly on the summit at 4,470 meters above sea level and another in the Solvay bivouac, an emergency shelter on the northeast ridge, better known as Hörnligrat. Another measuring station at the foot of the mountain served as a reference. Extensive past experience from Jan Beutel (ETH Zurich / University of Innsbruck) and Samuel Weber installing equipment for measuring rock movements in high mountains made deployment of the measurement network possible. The data are automatically transmitted to the Swiss Seismological Service.\n\nThe seismometers recorded all movements of the mountain at high resolution, from which the team could derive the frequency and direction of resonance. The measurements show that the Matterhorn oscillates roughly in a north-south direction at a frequency of 0.42 Hertz, and in an east-west direction at a second, similar frequency (see animation). In turn, by speeding up these ambient vibration measurements 80 times, the team was able to make the vibration landscape of the Matterhorn audible to the human ear, translating the resonant frequencies into audible tones.\n\nAmplified vibrations at the summit: Compared to the reference station at the foot of the Matterhorn, measured movements on the summit were up to 14 times stronger in the range of the natural frequency. For most of the team’s data these movements were small, typically in the range of nanometers to micrometers. The increase in ground motion with altitude can be explained by the fact that the summit moves freely while the foot of the mountain is fixed, comparable to a tree swaying in the wind. Such amplification of ground motion on the Matterhorn could also be measured during earthquakes, and the team notes this amplification may have important implications for slope stability in the event of strong seismic shaking. Jeff Moore of the University of Utah, who initiated the study on the Matterhorn, explains: \"areas of the mountain experiencing amplified ground motion are likely to be more prone to landslides, rockfall, and rock damage when shaken by a strong earthquake.”\n\nSuch vibrations are not a peculiarity of the Matterhorn, and the team notes that many mountains are expected to vibrate in a similar manner. Researchers from the Swiss Seismological Service carried out a complementary experiment on the Grosse Mythen as part of the study. This peak in Central Switzerland has a similar shape to the Matterhorn, but is significantly smaller. As expected, the Grosse Mythen vibrates at a frequency around 4 times higher than the Matterhorn, because smaller objects generally vibrate at higher frequencies. The scientists from the University of Utah were then able to simulate resonance of the Matterhorn and Grosse Mythen on the computer making these resonant vibrations visible. Previously, the US scientists have mainly examined smaller objects, such as rock arches in Arches National Park, Utah. \"It was exciting to see that our simulation approach also works for a large mountain like the Matterhorn and that the results were confirmed by measurement data,\" says Jeff Moore.\n\nThis text is based on a news item by Martin Heggli, WSL Institute for Snow and Avalanche Research SLF.",
   "named_entities": [
-    "The Matterhorn",
-    "Planetary Science Letters",
-    "Donat Fäh",
     "Swiss Seismological Service",
+    "ETH Zurich",
+    "Grosse Mythen",
     "Samuel Weber",
-    "Technical University",
     "Avalanche Research",
-    "Computer Engineering",
-    "Communication Networks",
-    "Geohazards Research Group"
+    "Jeff Moore",
+    "Planetary Science Letters",
+    "Geohazards Research Group",
+    "Arches National Park",
+    "WSL"
   ],
   "topics": [
     "Research",
@@ -25,22 +25,27 @@
     "Infrastructure"
   ],
   "keywords": [
-    "ETH Zurich",
     "Matterhorn",
-    "That",
     "Mountain",
-    "This",
-    "From",
-    "Study"
+    "Team",
+    "Frequency",
+    "Movements",
+    "Study",
+    "University"
   ],
-  "summary": "High alpine measuring devices: The Matterhorn appears as an immovable, massive mountain that has towered over the landscape near Zermatt for thousands of years....",
+  "summary": "Jeff Moore of the University of Utah, who initiated the study on the Matterhorn, explains: \"areas of the mountain experiencing amplified ground motion are likely to be more prone to landslides, rockfall, and rock damage when shaken by a strong earthquake.”\n\nSuch vibrations are not a peculiarity of the Matterhorn, and the team notes that many mountains are expected to vibrate in a similar manner....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 789,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -51,6 +56,11 @@
       "Technology",
       "Research",
       "Communications"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.54,
+      "avg_word_length": 5.23,
+      "long_word_percentage": 31.43
+    }
   }
 }

@@ -5,14 +5,9 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Since mid-2017, members of ETH Zurich have been able to link their ORCID iD to the ETH Zurich profile at www.adressen.ethz.ch . They just need an ORCID profile. Now you also have the option of assigning your ORCID iD to your publications in the Research Collection. Moreover, you can import publications into the Research Collection from your ORCID profile. ORCID is a persistent, unique and internationally recognised identifier for academic authors. By using ORCID, you are supporting the correct and complete attribution of your publications to your name and facilitating the data flow between the Research Collection and ETH Zurich’s websites. Further information on ORCID at ETH Zurich and attribution is available on the ETH Library website and in the Research Collection Manual . The Research Collection is ETH Zurich’s publication platform, where members of the university can publish academic full texts open access and archive research data or make them publicly accessible.",
   "named_entities": [
-    "Research Collection",
-    "Research Collection Manual",
-    "The Research Collection",
-    "Since",
-    "Zurich",
     "ORCID",
-    "Library",
-    "ETH Zurich"
+    "ETH Zurich",
+    "Research Collection Manual"
   ],
   "topics": [
     "Research",
@@ -22,22 +17,27 @@
     "Communication"
   ],
   "keywords": [
-    "ETH Zurich",
     "Orcid",
     "Research",
-    "Your",
     "Collection",
+    "Research collection",
     "Zurich",
-    "Profile"
+    "Profile",
+    "Publications"
   ],
-  "summary": "Since mid-2017, members of ETH Zurich have been able to link their ORCID iD to the ETH Zurich profile at www.adressen.ethz.ch . They just need an ORCID profile....",
+  "summary": "The Research Collection is ETH Zurich’s publication platform, where members of the university can publish academic full texts open access and archive research data or make them publicly accessible....",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 157,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -47,6 +47,11 @@
       "Research",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.27,
+      "avg_word_length": 5.18,
+      "long_word_percentage": 31.21
+    }
   }
 }

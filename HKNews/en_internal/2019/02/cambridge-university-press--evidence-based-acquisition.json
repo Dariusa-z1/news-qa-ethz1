@@ -5,12 +5,10 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "With the Evidence Based Acquisition model (EBA), users of ETH Library initially enjoy access to all e-books by Cambridge University Press for three years. This means that over 32,000 titles from a wide range of specialist fields in science, technology, medicine and the humanities will be available to interested readers. New publications will constantly be added to the range.\n\nBased on usage statistics and functional criteria, a decision will then be made on the definitive purchase and ongoing access to individual titles after this initial period (in 2021). Thanks to the EBA model, the interests of our users will have a direct influence on ETH Library’s range of e-books.\n\nAccess is possible in ETH Zurich’s network and on ETH Library’s premises.",
   "named_entities": [
+    "ETH Zurich",
     "Evidence Based Acquisition",
     "Cambridge University Press",
-    "With",
-    "Library",
-    "Zurich",
-    "ETH Zurich"
+    "EBA"
   ],
   "topics": [
     "Research",
@@ -19,22 +17,27 @@
     "Staff"
   ],
   "keywords": [
-    "ETH Zurich",
-    "Will",
     "Access",
+    "Library",
     "Range",
     "Based",
+    "Ebooks",
     "Model",
-    "Users"
+    "Titles"
   ],
   "summary": "With the Evidence Based Acquisition model (EBA), users of ETH Library initially enjoy access to all e-books by Cambridge University Press for three years....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 127,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -44,6 +47,11 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.17,
+      "avg_word_length": 4.8,
+      "long_word_percentage": 25.2
+    }
   }
 }

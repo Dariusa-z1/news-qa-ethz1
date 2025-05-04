@@ -5,16 +5,11 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Im Januar 2016 hat sich ein unbekannter Täter unerlaubt Zugang zum IT-System der ETH Zürich verschafft, sich so ins Netzwerk der ETH Zürich eingeloggt, über das ETH-System Software bestellt und Daten heruntergeladen. Mitarbeitende der Abteilungen Sicherheit und Informatikdienste der ETH Zürich hatten am 26. Januar 2016 unrechtmässige Manipulationen festgestellt. Daraufhin hat die ETH Zürich umgehend Anzeige gegen Unbekannt erstattet.\n\nEs wurden unverzüglich Sicherungsmassnahmen in die Wege geleitet, um das ETH-Netzwerk vor weiteren Zugriffen zu schützen. Dank der guten Zusammenarbeit mit dem Kompetenzzentrum Cybercrime sowie der Informatikdienste der ETH Zürich gelang es, den mutmasslichen Hacker nach kurzer Zeit zu fassen. Beim Verdächtigen handelt es sich um einen ETH-Studierenden. Die ETH Zürich analysiert nun die Situation und rekonstruiert das unerlaubte Vorgehen. Aus den Erkenntnissen wird sie anschliessend die nötigen Konsequenzen ableiten und umsetzen.",
   "named_entities": [
-    "Im Januar",
+    "ETH Zürich",
     "System Software",
     "Abteilungen Sicherheit",
     "Kompetenzzentrum Cybercrime",
-    "Beim Verdächtigen",
-    "Täter",
-    "Zugang",
-    "Zürich",
-    "Netzwerk",
-    "Daten"
+    "Beim Verdächtigen"
   ],
   "topics": [
     "Staff",
@@ -26,20 +21,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Zürich",
+    "Informatikdienste",
+    "Informatikdienste zürich",
+    "Januar",
+    "Ableiten",
+    "Ableiten umsetzen"
   ],
-  "summary": "",
+  "summary": "Im Januar 2016 hat sich ein unbekannter Täter unerlaubt Zugang zum IT-System der ETH Zürich verschafft, sich so ins Netzwerk der ETH Zürich eingeloggt, über das ETH-System Software bestellt und Daten heruntergeladen....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 135,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff"
@@ -48,6 +49,11 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.0,
+      "avg_word_length": 6.12,
+      "long_word_percentage": 34.07
+    }
   }
 }

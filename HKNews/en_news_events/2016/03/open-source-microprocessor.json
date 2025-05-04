@@ -5,16 +5,14 @@
   "source": "the scientists made the processor compatible with an open-source instruction set – RISC-V – developed at the University of California in Berkeley",
   "main_content": "Processor for wearable microsystems: Software source codes and hardware designs tend to be closely guarded trade secrets. Not so with open-source products. For instance, the code of open-source software is freely available to all: the best known example is the Linux operating system. Not only are interested developers able to use the software, they can also further develop it and adapt it to their own needs.\n\nOpen-source products also exist on the hardware side. Examples are open micro-controller boards such as Arduino or Raspberry Pi, of which blueprints are publicly available. However, these boards are based on commercial chips, whose internal architecture is not open-source. A few days ago, scientists at ETH Zurich and the University of Bologna, led by ETH Professor Luca Benini, open sourced the full design of one of their microprocessor systems – in a way that maximises the freedom of other developers to use and change the system, says Benini. “It will now be possible to build open source hardware from the ground up.”\n\n“In many recent examples of open-source hardware, usage is restricted by exclusive marketing rights and non-competition clauses,” says Benini. “Our system, however, doesn’t have any strings attached when it comes to licensing.” The arithmetic instructions that the microprocessor can perform are also open source: the scientists made the processor compatible with an open-source instruction set – RISC-V – developed at the University of California in Berkeley.\n\nThe new processor is called PULPino and it is designed for battery-powered devices with extremely low energy consumption (PULP stands for ‘parallel ultra low power’). These could be for chips for small devices, such as smartwatches, sensors for monitoring physiological functions (which can communicate with a heart rate monitor, for instance) or sensors for the Internet of Things.\n\nJoint development: Benini offers an example from the research currently underway in his lab: “Using the PULPino processor, we are developing a smartwatch equipped with electronics and a micro camera. It can analyse visual information and use it to determine the user’s whereabouts. The idea is that such a smartwatch could one day control something like home electronics.” It is quite a challenge to accommodate all this in the smallest of spaces on a microprocessor with a tiny power draw of only a few milliwatts, particularly since the computing capacity for the image analysis must be sufficiently large.\n\nPULPino is also being used in other research projects that Benini is working on with Swiss and European research institutions, including Cambridge University. The fact that the processor is now open source in these projects gives the ETH professor great hope: “Until now, such research projects came about mainly as a result of personal contacts, and the partners had to negotiate a separate license agreement for each project. PULPino is now more easily available. We hope that there will be more collaborations in the future and that these will also be easier.”\n\nThe scientists want to work with other project partners to jointly develop academically interesting extensions to PULPino; these would also be open source, thus allowing the number of the hardware’s functional components to steadily grow.\n\nBut PULPino should also be of benefit to the SME environment typical in Switzerland and Europe. “The production of microchips has become cheap in recent years because semiconductor manufacturers have built up large production capacities that they must use,” explains Benini. More expensive is the design process: “It would be far too expensive in terms of engineering effort to design a complex chip from scratch, especially for SMEs. Instead, developers usually purchase pre-designed functional components that they integrate in the chip design. The licensing fees for such components are often a substantial portion of the overall production costs.”\n\nDevelopment costs are reduced considerably with the open-source royalty-free design, which benefits SMEs as well as ETH, says Benini: “It could result in new research and development partnerships with industry to jointly develop novel chip components on the basis of PULPino.” PULPino's developers are therefore planning to make their microprocessor more widely known to the open-source hardware community this year.",
   "named_entities": [
-    "Raspberry Pi",
+    "ETH Zurich",
     "Professor Luca Benini",
+    "Professor. Luca Benini",
+    "Raspberry Pi",
     "Cambridge University",
-    "Processor",
-    "Software",
-    "Linux",
-    "Arduino",
-    "Zurich",
-    "Bologna",
-    "RISC"
+    "RISC",
+    "PULP",
+    "SME"
   ],
   "topics": [
     "Technology & Innovation",
@@ -25,22 +23,27 @@
     "International"
   ],
   "keywords": [
-    "ETH Zurich",
-    "With",
-    "That",
     "Opensource",
-    "Also",
     "Benini",
-    "Open"
+    "Pulpino",
+    "Hardware",
+    "Open",
+    "Design",
+    "Processor"
   ],
-  "summary": "Processor for wearable microsystems: Software source codes and hardware designs tend to be closely guarded trade secrets. Not so with open-source products....",
+  "summary": "The licensing fees for such components are often a substantial portion of the overall production costs.”\n\nDevelopment costs are reduced considerably with the open-source royalty-free design, which benefits SMEs as well as ETH, says Benini: “It could result in new research and development partnerships with industry to jointly develop novel chip components on the basis of PULPino.” PULPino's developers are therefore planning to make their microprocessor more widely known to the open-source hardware community this year....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 690,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -53,6 +56,11 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.0,
+      "avg_word_length": 5.19,
+      "long_word_percentage": 30.58
+    }
   }
 }

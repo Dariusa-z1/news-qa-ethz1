@@ -5,8 +5,9 @@
   "source": "Unknown source",
   "main_content": "A fire broke out in a van in the delivery area of the HIA building (hydraulic engineering research/laboratory building) on the Hönggerberg campus today afternoon. The fire brigade was able to extinguish the fire quickly and assumes that it was caused by an engine fire.\n\nThe HIA building was evacuated. A good 30 minutes later, the all-clear was given and the evacuation was lifted. There was no personal injury, but the fire caused damage to the façade of the HIF construction hall and the HIA North building as well as to the windows in the HIA.",
   "named_entities": [
+    "HIA",
     "Hönggerberg",
-    "North"
+    "HIF"
   ],
   "topics": [
     "Infrastructure",
@@ -20,18 +21,23 @@
     "Fire",
     "Building",
     "Caused",
-    "Broke",
-    "Delivery",
-    "Area"
+    "Able",
+    "Able extinguish",
+    "Afternoon"
   ],
   "summary": "A fire broke out in a van in the delivery area of the HIA building (hydraulic engineering research/laboratory building) on the Hönggerberg campus today afternoon....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 98,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Researchers"
@@ -39,6 +45,11 @@
     "context_tags": [
       "Infrastructure",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.6,
+      "avg_word_length": 4.49,
+      "long_word_percentage": 21.43
+    }
   }
 }

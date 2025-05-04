@@ -5,16 +5,13 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Sie erhalten in 15 Minuten kurz und kompakt Input zu einem spezifischen Thema und haben anschliessend Zeit für Fragen. Genau die richtige Dauer, um dabei einen Kaffee zu geniessen und die Menschen hinter der ETH-​Bibliothek kennenzulernen.\n\nDie Coffee Lectures finden mittwochnachmittags vom 05. Juni bis zum 03. Juli 2024 jeweils um 15.15 Uhr online externe Seite auf Zoom statt. Wir halten die Veranstaltungen auf Englisch.\n\nSie können ohne Anmeldung teilnehmen. Für die browserbasierte Verwendung von Zoom empfehlen wir Ihnen, Chrome zu verwenden.\n\nGut zu wissen: Wenn Sie eine Veranstaltung verpasst haben, können Sie dennoch darauf zugreifen. Wir zeichnen sie auf und stellen die Präsentationsslides auf unserer Website zur Verfügung.\n\nNeue Themen sind willkommen!\n\nGibt es ein Thema, das Sie interessiert? Dann freuen wir uns über Ihren Vorschlag. Ob Fragen zu einem Tool oder ob Informationen zu einem Thema rund um Informationssuche, wissenschaftliches Schreiben oder Publizieren: Senden Sie uns Ihren Themenvorschlag an , und wir schauen, ob er sich für die Veranstaltung eignet.",
   "named_entities": [
-    "Die Coffee Lectures",
+    "ETH",
     "Wenn Sie",
     "Neue Themen",
     "Ihren Vorschlag",
     "Ob Fragen",
     "Senden Sie",
-    "Ihren Themenvorschlag",
-    "Minuten",
-    "Input",
-    "Thema"
+    "Ihren Themenvorschlag"
   ],
   "topics": [
     "Campus Life",
@@ -25,21 +22,27 @@
     "Staff"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Thema",
+    "Fragen",
+    "Veranstaltung",
+    "Zoom",
+    "Anmeldung",
+    "Anmeldung teilnehmen",
+    "Anschliessend"
   ],
-  "summary": "Sie erhalten in 15 Minuten kurz und kompakt Input zu einem spezifischen Thema und haben anschliessend Zeit für Fragen....",
+  "summary": "Ob Fragen zu einem Tool oder ob Informationen zu einem Thema rund um Informationssuche, wissenschaftliches Schreiben oder Publizieren: Senden Sie uns Ihren Themenvorschlag an , und wir schauen, ob er sich für die Veranstaltung eignet....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 163,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -49,6 +52,11 @@
       "Events",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 10.87,
+      "avg_word_length": 5.5,
+      "long_word_percentage": 26.38
+    }
   }
 }

@@ -5,16 +5,16 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Main article: There is still a cheerful atmosphere at the office of the spin-off \"IRsweep\", at the Institute for Quantum Electronics on the ETH Hönggerberg campus. The start-up founders – Andreas Hugi, Markus Geiser and Markus Mangold – and their three colleagues have every reason to celebrate: together with six other startups in the field of space technologies and applications – including four other ETH companies – IRsweep has been selected for the ESA BIC Switzerland programme. In the first phase, the companies will benefit from funding of EUR 50,000, and will also receive technological and business support from ESA BIC Switzerland’s extensive network of partners. The other start-ups are Pristem from EPFL and Skypull from Ticino as well as the ETH companies IRsweep , Anybotics , Diramics , Embotech und Fixposition . They all convinced the jury with ground-breaking technologies along with good business plans and commercial potential.\n\nEnvironmental analyses from space: The core of IRsweep’s research activities is the “IRspectrometer” – a spectrometer that, in contrast to conventional infra-red spectrometers, uses laser radiation, which would allow it to be used for environmental analyses in space. “Satellite-based environmental analyses help to better understand global air pollution and its movement through the atmosphere,” explains Markus Mangold, Head of Technological Development at IRsweep. In practice, the IRspectrometer would be stationed on satellites and emit laser radiation towards the Earth. The radiation would cause molecules in the atmosphere to vibrate. Using the reflected spectrum, which is unique for each molecule, conclusions could be drawn about the material composition of the atmosphere. “Infra-red laser beams are a particularly intense light source and thus offer enormous precision,” says Mangold about the advantages of the device. However, it is still too big and above all too heavy for use in space. Thanks to the ESA BIC programme, the team now has the financial resources to adapt the device for use in the space industry.\n\nBiological samples are mounted in the IRspectrometer’s chamber and irradiated with infra-red lasers. (Photography: IRsweep)\n\nGaining a better understanding of Alzheimer’s and Parkinson’s: When the team established their start-up in 2014, they were not focused on using their spectroscopy method for research projects in space. It was only after a call for projects that specifically asked for \"infra-red spectroscopy for biological samples in space\" that the team realised \"our products could also be useful in space,\" explains Mangold. The IRspectrometer was previously developed and used for medical and industrial research projects. The process offers one key advantage: speed, which is essential for biospectroscopy. Vital biological processes in the body, such as protein folding, occur so quickly that previous measuring methods could not record them. Infra-red laser beams now allow researchers to measure and observe these processes, which take place over a period of microseconds.\n\nThe use of the IRspectrometer could help to unravel the processes of proteopathies such as Alzheimer’s or Parkinson’s. IRsweep thus plans to develop applications for use in medicine as well as in space. \"In the coming weeks, we will intensify our collaboration with medical researchers and carry out initial test measurements,\" says Mangold.",
   "named_entities": [
+    "ETH",
+    "Hönggerberg",
+    "ESA",
+    "BIC",
+    "Markus Mangold",
     "Quantum Electronics",
     "Andreas Hugi",
     "Markus Geiser",
-    "Markus Mangold",
     "Technological Development",
-    "Main",
-    "There",
-    "IRsweep",
-    "Institute",
-    "Hönggerberg"
+    "EUR"
   ],
   "topics": [
     "Research",
@@ -28,19 +28,24 @@
     "Hönggerberg Campus",
     "Space",
     "Irsweep",
+    "Infrared",
+    "Irspectrometer",
     "Mangold",
-    "With",
-    "From",
-    "That"
+    "Atmosphere"
   ],
-  "summary": "Main article: There is still a cheerful atmosphere at the office of the spin-off \"IRsweep\", at the Institute for Quantum Electronics on the ETH Hönggerberg campus....",
+  "summary": "The start-up founders – Andreas Hugi, Markus Geiser and Markus Mangold – and their three colleagues have every reason to celebrate: together with six other startups in the field of space technologies and applications – including four other ETH companies – IRsweep has been selected for the ESA BIC Switzerland programme....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 526,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -49,6 +54,11 @@
       "Catering",
       "Sustainability",
       "Infrastructure"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.87,
+      "avg_word_length": 5.32,
+      "long_word_percentage": 32.13
+    }
   }
 }

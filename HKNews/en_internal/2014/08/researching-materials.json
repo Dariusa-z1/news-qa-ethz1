@@ -5,13 +5,7 @@
   "source": "Unknown source",
   "main_content": "The Material Archive website offers a wealth of additional information on material description, properties, processing techniques and manufacturing methods. Moreover, photos illustrate traditional and innovative material patterns and application examples.\n\nThe collection is open to students and scientists from all disciplines and anyone else who is generally interested.\n\nWant to find out more about Calanca, Juglans or Raku? Then browse the Material Archive or visit the Baubibliothek. Perhaps you will even discover a new, favourite material.\n\nMaterial Collection Material Archive Baubibliothek",
   "named_entities": [
-    "The Material Archive",
-    "Material Archive",
-    "Material Collection Material Archive",
-    "Calanca",
-    "Juglans",
-    "Raku",
-    "Baubibliothek"
+    "Material Collection Material Archive"
   ],
   "topics": [
     "Education",
@@ -22,20 +16,25 @@
   "keywords": [
     "Material",
     "Archive",
-    "Collection",
+    "Material archive",
     "Baubibliothek",
-    "Website",
-    "Offers",
-    "Wealth"
+    "Collection",
+    "Additional",
+    "Anyone"
   ],
-  "summary": "The Material Archive website offers a wealth of additional information on material description, properties, processing techniques and manufacturing methods....",
+  "summary": "The Material Archive website offers a wealth of additional information on material description, properties, processing techniques and manufacturing methods. Material Collection Material Archive Baubibliothek...",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 81,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "General Public"
@@ -43,6 +42,11 @@
     "context_tags": [
       "Technology",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 11.57,
+      "avg_word_length": 6.22,
+      "long_word_percentage": 49.38
+    }
   }
 }

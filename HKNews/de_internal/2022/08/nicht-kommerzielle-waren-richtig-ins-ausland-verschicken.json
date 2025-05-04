@@ -5,16 +5,14 @@
   "source": "Unbekannte Quelle",
   "main_content": "Main article: Seit Januar 2022 hat die EU die Mehrwertsteuer-Freigrenze aufgehoben. Das hat zur Folge, dass ausländische Empfänger:innen von Sendungen aus der Schweiz zur Kasse gebeten werden. Was können Sie tun, damit Sendungen mit nicht-kommerziellen Waren am Bestimmungsort ankommen und dies möglichst kostengünstig?\n\nPakete und Maxibriefe: Bei Sendungen mit Frachtbrief (Paket) oder mit Zolldokument CN22 (Maxibrief) notieren Sie unter Inhaltsbeschreibung «Value for customs purposes only – Samples free of charge» (zu Deutsch: Wert nur für Zollzwecke – kostenloses Muster) einen plausiblen Warenwert. Ein «Null»-Wert ist nicht zulässig. Erstellen Sie eine Pro-forma-Rechnung für die zu verschickende Ware mit Hilfe unserer Vorlage .\n\nBei den Urgent-Sendungen haben Sie die Möglichkeit, die Einfuhrsteuer für die Empfänger:innen zu übernehmen. Dies ist jedoch nur mit einem Post-Login möglich. Wählen Sie dabei vor dem Auftragsabschluss «DDP» mit oder ohne Mehrwertsteuer aus. DDP steht für «Delivered Duty Paid» und bedeutet frei übersetzt: verzollt geliefert.\n\nAchtung: Manche Länder verlangen zusätzlich eine Servicepauschale, die separat auf die Einfuhrumsatzsteuer draufgerechnet wird. Informieren Sie sich vor dem Versand online über die Landesbestimmungen. Das Campus Info Team berät Sie gerne persönlich oder bietet Ihnen Hilfestellung beim Ausfüllen der Dokumente an.",
   "named_entities": [
-    "Seit Januar",
-    "Mehrwertsteuer-Freigrenze",
-    "Bei Sendungen",
-    "Erstellen Sie",
-    "Urgent-Sendungen",
-    "Post-Login",
-    "Wählen Sie",
     "Delivered Duty Paid",
+    "DDP",
+    "Erstellen Sie",
+    "Wählen Sie",
     "Manche Länder",
-    "Informieren Sie"
+    "Informieren Sie",
+    "Ihnen Hilfestellung",
+    "EU"
   ],
   "topics": [
     "Finance",
@@ -23,21 +21,27 @@
     "Staff"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Sendungen",
+    "Empfängerinnen",
+    "Wert",
+    "Achtung",
+    "Achtung länder",
+    "Ankommen",
+    "Ankommen möglichst"
   ],
-  "summary": "Main article: Seit Januar 2022 hat die EU die Mehrwertsteuer-Freigrenze aufgehoben. Das hat zur Folge, dass ausländische Empfänger:innen von Sendungen aus der Schweiz zur Kasse gebeten werden....",
+  "summary": "Pakete und Maxibriefe: Bei Sendungen mit Frachtbrief (Paket) oder mit Zolldokument CN22 (Maxibrief) notieren Sie unter Inhaltsbeschreibung «Value for customs purposes only – Samples free of charge» (zu Deutsch: Wert nur für Zollzwecke – kostenloses Muster) einen plausiblen Warenwert....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 194,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Campus Notice",
     "audience_type": [
       "Students",
       "Staff"
@@ -45,6 +49,11 @@
     "context_tags": [
       "Financial",
       "Infrastructure"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.92,
+      "avg_word_length": 5.89,
+      "long_word_percentage": 32.47
+    }
   }
 }

@@ -1,20 +1,19 @@
 {
   "language": "en",
   "title": "Since the early 1950s, plastics have found their way into almost every area of modern life. Between 1964 and 2014, plastic consumption increased twentyfold, from 15 to 311 million tonnes per year. Not only has environmental pollution from plastic waste increased during this time, but the amount of petroleum its manufacture consumes is large, as are the associated greenhouse gas emissions.",
-  "date": "2014-01-64",
+  "date": "2021-09-01",
   "source": "Meys R, Kätelhön A, Bachmann M, Winter B, Zibunas C, Suh S, Bardow A: Achieving net-zero greenhouse gas emission plastics by a circular carbon economy, Science, 30 September 2021, doi: 10.1126/science.abg9853",
   "main_content": "Main article: Since the early 1950s, plastics have found their way into almost every area of modern life. Between 1964 and 2014, plastic consumption increased twentyfold, from 15 to 311 million tonnes per year. Not only has environmental pollution from plastic waste increased during this time, but the amount of petroleum its manufacture consumes is large, as are the associated greenhouse gas emissions.\n\nResearchers from ETH Zurich, RWTH Aachen University and the University of California, Santa Barbara have created a new computational model of global plastic production and disposal. The team was led by André Bardow, formerly of RWTH Aachen University and now Professor of Energy and Process Systems Engineering at ETH Zurich. With their model, the scientists demonstrate that it is possible to economically produce plastics that have a net-zero greenhouse gas emissions balance over their entire life cycle.\n\nThis is made possible by a clever combination of three technologies that already exist: plastic recycling and plastic production from biomass and from CO 2 through carbon capture and utilisation (CCU). The researchers published their study in the latest issue of the journal Science .\n\nIncreased plastic recycling\n\nAs the calculations showed, the key is to use as much recycled plastic as possible, supplemented by the other two manufacturing methods. These three types of manufacturing correspond to the principle of the circular economy. By optimally combining the three technologies, the quantity of energy required can be reduced by 34 to 53 percent compared with the current fossil-based manufacturing practice, supplemented with extensive carbon capture and storage (CCS) – particularly in waste incineration plants, where plastic products are burned at the end of their life cycle.\n\nThe cost of the newly proposed manufacturing method is on a par with that of this alternative fossil manufacturing scenario. Under favourable conditions, by 2050 the cost of global plastic production can be reduced by as much as 288 billion dollars per year compared to the alternative scenario. To achieve this, biomass, CO 2 and renewable electricity must be available at low cost, the extraction and supply of petroleum must become more expensive, and incentives must be provided for investment in recycling. “The lower energy demand may seem counterintuitive, but it results from the amount of energy that recycling saves over the entire life cycle,” ETH Professor Bardow says.\n\nPolicymakers can promote the path to climate-neutral plastics by offering incentives for more plastic recycling and increased use of biomass and CCU, the authors conclude in the study. “We shouldn’t think of the different technologies for plastic manufacture individually, because there is great potential in combining them in a clever way,” Bardow says.\n\nThis text is a revised version of a press release from RWTH Aachen University.",
   "named_entities": [
+    "ETH Zurich",
     "Aachen University",
-    "Santa Barbara",
-    "Process Systems Engineering",
-    "Professor Bardow",
-    "Main",
-    "Since",
-    "Zurich",
     "RWTH",
-    "California",
-    "Energy"
+    "Process Systems Engineering",
+    "CO",
+    "CCU",
+    "Santa Barbara",
+    "Professor Bardow",
+    "CCS"
   ],
   "topics": [
     "Sustainability",
@@ -25,22 +24,27 @@
     "Weather & Environment"
   ],
   "keywords": [
-    "ETH Zurich",
     "Plastic",
-    "From",
-    "Their",
-    "This",
-    "That",
-    "Recycling"
+    "Manufacturing",
+    "Recycling",
+    "Energy",
+    "Increased",
+    "Life",
+    "University"
   ],
-  "summary": "Main article: Since the early 1950s, plastics have found their way into almost every area of modern life....",
+  "summary": "By optimally combining the three technologies, the quantity of energy required can be reduced by 34 to 53 percent compared with the current fossil-based manufacturing practice, supplemented with extensive carbon capture and storage (CCS) – particularly in waste incineration plants, where plastic products are burned at the end of their life cycle....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 453,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +55,11 @@
       "Sustainability",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 25.17,
+      "avg_word_length": 5.32,
+      "long_word_percentage": 33.11
+    }
   }
 }

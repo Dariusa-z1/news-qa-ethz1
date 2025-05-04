@@ -5,16 +5,11 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "GIS-Anfängern und -Experten bietet GeoVITe einen browserbasierten, schnellen Zugang zu Geodaten von Bund und Kantonen. Das umfangreiche Datenangebot umfasst daneben auch Siegfried-/ Dufourkarten sowie unterschiedliche Zeitstände der Daten.\n\nBasierend auf ersten Entwicklungen innerhalb von Forschungsprojekten wurde die Plattform seit 2008 vom Institut für Kartografie und Geoinformation der ETH Zürich (IKG) betrieben. Im Rahmen eines nationalen Förderprogramms wurde GeoVITe in den Dienst geodata4edu.ch integriert. Seit dem 1. Juli 2019 wird GeoVITe wieder als unabhängiger Dienst des IKG und der ETH-Bibliothek angeboten.",
   "named_entities": [
+    "ETH Zürich",
+    "IKG",
+    "Institut für Kartografie",
     "Im Rahmen",
-    "Anfängern",
-    "Experten",
-    "GeoVITe",
-    "Zugang",
-    "Geodaten",
-    "Bund",
-    "Kantonen",
-    "Datenangebot",
-    "Siegfried"
+    "GIS"
   ],
   "topics": [
     "Research",
@@ -24,26 +19,37 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Geovite",
+    "Dienst",
+    "Seit",
+    "Wurde",
+    "Angeboten",
+    "Basierend"
   ],
-  "summary": "GIS-Anfängern und -Experten bietet GeoVITe einen browserbasierten, schnellen Zugang zu Geodaten von Bund und Kantonen....",
+  "summary": "Basierend auf ersten Entwicklungen innerhalb von Forschungsprojekten wurde die Plattform seit 2008 vom Institut für Kartografie und Geoinformation der ETH Zürich (IKG) betrieben....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 83,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 11.86,
+      "avg_word_length": 6.39,
+      "long_word_percentage": 39.76
+    }
   }
 }

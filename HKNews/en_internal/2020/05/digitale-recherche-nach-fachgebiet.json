@@ -5,16 +5,8 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Access to electronic journals, textbooks, new publications and links to external databases including Web of Science and Scopus is just a few clicks away. Comprehensive information is provided on the following subjects, which are aligned to the research and teaching performed at ETH Zurich:\n\nAgricultural and food sciences , Architecture and urban planning , Civil engineering , Biology , Chemistry , Electrical engineering and energy technology , Humanities and social sciences , Geosciences , Computer science , Mechanical engineering , Materials science , Mathematics , Medicine and pharmacy , Physics and astronomy , Environment, transport and geography , Business, law and politics and General and interdisciplinary .\n\nETH Library is the largest public natural scientific and technical library in Switzerland.\n\n#KnowHow – ETH Library’s infrastructure and tools lead you to your goal.\n\n#ETHLibraryDigital – ETH Library is there for you digitally with various resources and services , not only during the COVID-19 protective measures.",
   "named_entities": [
-    "Access",
-    "Science",
-    "Scopus",
-    "Zurich",
-    "Agricultural",
-    "Architecture",
-    "Civil",
-    "Biology",
-    "Chemistry",
-    "Electrical"
+    "ETH Zurich",
+    "COVID"
   ],
   "topics": [
     "Research",
@@ -25,22 +17,27 @@
     "Catering & Food"
   ],
   "keywords": [
-    "ETH Zurich",
-    "Science",
-    "Engineering",
     "Library",
+    "Engineering",
+    "Science",
     "Sciences",
     "Access",
-    "Electronic"
+    "Access electronic",
+    "Agricultural"
   ],
-  "summary": "Access to electronic journals, textbooks, new publications and links to external databases including Web of Science and Scopus is just a few clicks away....",
+  "summary": "Comprehensive information is provided on the following subjects, which are aligned to the research and teaching performed at ETH Zurich:\n\nAgricultural and food sciences , Architecture and urban planning , Civil engineering , Biology , Chemistry , Electrical engineering and energy technology , Humanities and social sciences , Geosciences , Computer science , Mechanical engineering , Materials science , Mathematics , Medicine and pharmacy , Physics and astronomy , Environment, transport and geography , Business, law and politics and General and interdisciplinary ....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 137,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -50,6 +47,11 @@
       "COVID-19",
       "Sustainability",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 27.4,
+      "avg_word_length": 6.18,
+      "long_word_percentage": 48.18
+    }
   }
 }

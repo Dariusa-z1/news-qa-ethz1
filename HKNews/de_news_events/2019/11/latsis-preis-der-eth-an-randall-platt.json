@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Main article: Man könnte ihn als Werkzeugmacher der modernen Biologie bezeichnen. Randall Platt, Professor für Bioengineering am Departement für Biosysteme der ETH Zürich in Basel, hat in seiner noch jungen, aber ausgesprochen erfolgreichen Karriere schon viele Methoden und Technologien entwickelt, mit denen Forschende der Life Sciences in Labors weltweit arbeiten.\n\nBesonders bekannt ist die von ihm entwickelte «Cas-9-Maus», ein auf dem Crispr/Cas-System basierendes Tiermodell, mit dem Wissenschaftler sehr einfach Gene in einzelnen Organen oder Geweben verändern können, um so deren Funktion zu studieren. Zu den weiteren wegweisenden Entwicklungen von Platt gehört ein zellinterner Datenlogger, der ebenfalls auf dem Crispr/Cas-System beruht. Zellen können damit Informationen zu ihrer Genaktivität aufzeichnen, indem sie diese auf DNA-Molekülen speichern, die später ausgelesen werden können.\n\nRandall Platt kam 2016 mit 29 Jahren als einer der jüngsten Professoren an die ETH. Nun würdigt die Hochschule seine visionären Ideen und hervorragenden Leistungen, indem sie ihn mit dem diesjährigen Latsis-Preis der ETH Zürich ehrt.\n\nLesen Sie auch ein Porträt von Randall Platt in den ETH-News vom 01.06.2017.\n\nLatsis-Preis der ETH Zürich und ETH-Tag 2019: Die Latsis-Stiftung, 1975 mit dem Vermögen des griechischen Reeders Giannis Latsis gegründet, finanziert mehrere Schweizer Wissenschaftspreise, darunter den «Latsis-Preis der ETH Zürich». Damit zeichnet die ETH jährlich über alle Forschungsdisziplinen hinweg herausragende jüngere Forscherinnen und Forscher aus. Er wird jeweils am ETH-Tag von der Rektorin verliehen und ist mit 25'000 Franken dotiert.\n\nDie Preisträger der letzten Jahre: externe Seite www.fondationlatsis.org\n\nAm ETH-Tag feiert die ETH Zürich gemeinsam mit Gästen aus Forschung, Politik und Wirtschaft den 164. Jahrestag der Hochschule. Traditionsgemäss verleiht die ETH an diesem Tag die Ehrendoktorwürde an Personen, die im internationalen Wissenschaftsbetrieb Ausserordentliches geleistet haben. Auch Studierende, Doktorierende und Dozierende werden für herausragende Leistungen ausgezeichnet.",
   "named_entities": [
+    "ETH Zürich",
     "Randall Platt",
-    "Life Sciences",
-    "Cas-System",
-    "Latsis-Preis",
-    "Lesen Sie",
-    "Die Latsis-Stiftung",
     "Reeders Giannis Latsis",
+    "Departement für Biosysteme",
+    "Life Sciences",
+    "Lesen Sie",
     "Schweizer Wissenschaftspreise",
-    "Die Preisträger",
-    "Wissenschaftsbetrieb Ausserordentliches"
+    "Wissenschaftsbetrieb Ausserordentliches",
+    "Auch Studierende",
+    "DNA"
   ],
   "topics": [
     "Research",
@@ -26,20 +26,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Zürich",
+    "Platt",
+    "Ethtag",
+    "Latsispreis",
+    "Latsispreis zürich",
+    "Randall"
   ],
-  "summary": "Main article: Man könnte ihn als Werkzeugmacher der modernen Biologie bezeichnen....",
+  "summary": "Latsis-Preis der ETH Zürich und ETH-Tag 2019: Die Latsis-Stiftung, 1975 mit dem Vermögen des griechischen Reeders Giannis Latsis gegründet, finanziert mehrere Schweizer Wissenschaftspreise, darunter den «Latsis-Preis der ETH Zürich»....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 302,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -50,6 +56,11 @@
       "Technology",
       "Research",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.89,
+      "avg_word_length": 5.89,
+      "long_word_percentage": 34.11
+    }
   }
 }

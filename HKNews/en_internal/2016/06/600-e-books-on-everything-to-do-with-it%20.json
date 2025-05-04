@@ -5,11 +5,8 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "The Herdt Campus All-you-can-read range offers members of ETH Zurich free access to the latest software handbooks.\n\nAccess requires a one-off registration and is possible online in ETH Zurich's network or on ETH-Bibliothek premises.\n\nAccess via the Knowledge Portal of ETH-Bibliothek",
   "named_entities": [
-    "The Herdt Campus All",
-    "Knowledge Portal",
-    "Zurich",
-    "Bibliothek",
-    "ETH Zurich"
+    "ETH Zurich",
+    "Knowledge Portal"
   ],
   "topics": [
     "Campus Life",
@@ -18,22 +15,27 @@
     "Staff"
   ],
   "keywords": [
-    "ETH Zurich",
     "Access",
     "Ethbibliothek",
-    "Herdt",
-    "Campus",
+    "Access knowledge",
+    "Access latest",
+    "Access requires",
     "Allyoucanread",
-    "Range"
+    "Allyoucanread range"
   ],
-  "summary": "The Herdt Campus All-you-can-read range offers members of ETH Zurich free access to the latest software handbooks....",
+  "summary": "The Herdt Campus All-you-can-read range offers members of ETH Zurich free access to the latest software handbooks. Access requires a one-off registration and is possible online in ETH Zurich's network or on ETH-Bibliothek premises....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 48,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff"
@@ -42,6 +44,11 @@
       "Infrastructure",
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.0,
+      "avg_word_length": 4.83,
+      "long_word_percentage": 22.92
+    }
   }
 }

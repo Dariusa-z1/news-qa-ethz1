@@ -7,14 +7,8 @@
   "named_entities": [
     "Donald Trumpification",
     "North America",
-    "Die Machiavellis",
-    "Das Netzwerk",
-    "Transparency",
-    "Sponsors",
-    "Code",
-    "Professors",
-    "Independent",
-    "Ombudsperson"
+    "CTI",
+    "VCH"
   ],
   "topics": [
     "Research",
@@ -26,21 +20,26 @@
   ],
   "keywords": [
     "Research",
-    "That",
     "Independent",
-    "This",
     "Universities",
-    "With",
-    "Funding"
+    "Funding",
+    "Society",
+    "Private",
+    "Interests"
   ],
-  "summary": "The primacy of free research funding: • Transparency: Sponsors, funding sources and contracts are available to the public at all times, and should be cited in publications and communications....",
+  "summary": "Further information: [1] Many national and European research programmes are geared explicitly towards specific political and economic goals, government authorities finance targeted research, and the Commission for Technology and Innovation (CTI) expects co-financing from business partners for research that in turn will lead to an immediate benefit for industry....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 5,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 1028,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -53,6 +52,11 @@
       "Sustainability",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.77,
+      "avg_word_length": 5.43,
+      "long_word_percentage": 37.45
+    }
   }
 }

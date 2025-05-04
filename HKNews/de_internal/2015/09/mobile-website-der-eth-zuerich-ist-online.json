@@ -5,16 +5,7 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Statt auf dem kleinen Smartphone eine für den grossen Computerbildschirm gemachte Website ansehen zu müssen, werden Besucher der ETH Zürich-Website seit dieser Woche automatisch auf die neue Mobile-Startseite umgeleitet. Auf der übersichtlich und lesefreundlich gestalteten Site finden sich neben den ETH-News unter anderem auch Informationen zu Events, Gastronomie-Angeboten, Gebäuden oder zum Studium.\n\nDie Hauptnavigation wurde gegenüber der Desktopversion der Website vereinfacht, so dass in der mobilen Version nur die wichtigsten Inhalte sowie jene mit hohem praktischem Nutzwert zu finden sind. Natürlich kann der Besucher auf dem Handy auch zur klassischen Desktop-Version zurückwechseln, wenn ihm das lieber ist.",
   "named_entities": [
-    "Zürich-Website",
-    "Mobile-Startseite",
-    "Gastronomie-Angeboten",
-    "Die Hauptnavigation",
-    "Desktop-Version",
-    "Statt",
-    "Smartphone",
-    "Computerbildschirm",
-    "Besucher",
-    "Woche"
+    "ETH Zürich"
   ],
   "topics": [
     "Communication",
@@ -25,20 +16,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Besucher",
+    "Desktopversion",
+    "Finden",
+    "Website",
+    "Ansehen",
+    "Automatisch"
   ],
-  "summary": "",
+  "summary": "Die Hauptnavigation wurde gegenüber der Desktopversion der Website vereinfacht, so dass in der mobilen Version nur die wichtigsten Inhalte sowie jene mit hohem praktischem Nutzwert zu finden sind....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 102,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students"
     ],
@@ -47,6 +44,11 @@
       "Education",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 25.5,
+      "avg_word_length": 5.98,
+      "long_word_percentage": 37.25
+    }
   }
 }

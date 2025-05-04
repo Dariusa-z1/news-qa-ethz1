@@ -5,7 +5,6 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "For many of us, going on holiday means we finally have time to pick up a book again – and thankfully, it’s (almost) as easy to enjoy one on your balcony as on a beach. Have you read a book recently that stuck in your memory? Or is there a classic that you always come back to? Let other ETH members share the enjoyment you got from reading it and send your book recommendation with a brief reason for your choice to by 10 May. Five book recs will be published in the next edition of the ETH employee magazine “life” ; the rest will appear in “Internal news”.",
   "named_entities": [
-    "Internal",
     "ETH"
   ],
   "topics": [
@@ -15,27 +14,37 @@
   ],
   "keywords": [
     "Book",
-    "Your",
-    "Have",
-    "That",
-    "Will",
-    "Many",
-    "Going"
+    "Almost",
+    "Almost easy",
+    "Always",
+    "Always come",
+    "Appear",
+    "Appear internal"
   ],
   "summary": "For many of us, going on holiday means we finally have time to pick up a book again – and thankfully, it’s (almost) as easy to enjoy one on your balcony as on a beach....",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 108,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff"
     ],
     "context_tags": [
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.6,
+      "avg_word_length": 4.02,
+      "long_word_percentage": 13.89
+    }
   }
 }

@@ -9,28 +9,38 @@
     "University News"
   ],
   "keywords": [
-    "Wherever",
-    "Don’t",
-    "Forget",
     "Always",
-    "Comb",
+    "Always comb",
     "Archive",
-    "Lost"
+    "Archive lost",
+    "Back",
+    "Comb",
+    "Comb archive"
   ],
   "summary": "... but wherever you end up, don’t forget – you can always comb the archive for lost treasure and discuss the pearls you discover until we’re back.",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 27,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "University News"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 27.0,
+      "avg_word_length": 4.19,
+      "long_word_percentage": 18.52
+    }
   }
 }

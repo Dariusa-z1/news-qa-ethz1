@@ -5,13 +5,9 @@
   "source": "Unknown source",
   "main_content": "The Collection Catalogue Online with over 50,000 digitised artworks from the Graphische Sammlung is freely accessible .\n\nAlmost all works by Albrecht Dürer, Rembrandt and Pablo Picasso, for example, are now available online. Interested parties can also view new additions online, such as the extensive donation of drawings by Lucerne artist Max von Moos (1903–1979). The project is ongoing, with artworks being digitised on a continuous basis.",
   "named_entities": [
-    "The Collection Catalogue Online",
     "Graphische Sammlung",
     "Albrecht Dürer",
-    "Pablo Picasso",
-    "Rembrandt",
-    "Lucerne",
-    "Moos"
+    "Pablo Picasso"
   ],
   "topics": [
     "Staff",
@@ -20,27 +16,37 @@
   ],
   "keywords": [
     "Online",
-    "With",
-    "Digitised",
     "Artworks",
-    "Collection",
-    "Catalogue",
-    "Over"
+    "Digitised",
+    "1903",
+    "1903 1979",
+    "1979",
+    "Accessible"
   ],
-  "summary": "The Collection Catalogue Online with over 50,000 digitised artworks from the Graphische Sammlung is freely accessible ....",
+  "summary": "Interested parties can also view new additions online, such as the extensive donation of drawings by Lucerne artist Max von Moos (1903–1979)....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 68,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "University News"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.0,
+      "avg_word_length": 5.34,
+      "long_word_percentage": 35.29
+    }
   }
 }

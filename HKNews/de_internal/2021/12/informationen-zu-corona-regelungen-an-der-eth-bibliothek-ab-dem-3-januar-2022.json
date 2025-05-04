@@ -1,10 +1,12 @@
 {
   "language": "de",
   "title": "Zu einzelnen Standorten haben ab 3. Januar 2022 nur ETH-Angehörige Zugang (mit ETH-Karte und Zutrittsberechtigung für das Gebäude). Externen Kundinnen und Kunden stehen die Baubibliothek (HIL) und das InfoCenter (HG) offen.",
-  "date": "2021-12-01",
+  "date": "2000-10-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Main article: Zu einzelnen Standorten haben ab 3. Januar 2022 nur ETH-Angehörige Zugang (mit ETH-Karte und Zutrittsberechtigung für das Gebäude). Externen Kundinnen und Kunden stehen die Baubibliothek (HIL) und das InfoCenter (HG) offen.\n\nBitte beachten Sie, dass seit 20. Dezember 2021 gemäss Bundesratsbeschluss vom 17. Dezember 2021 an allen Standorten der ETH-Bibliothek eine Zertifikatspflicht gemäss der 2G-Regel sowie eine Maskenpflicht gilt, um die unten genannten Services nutzen sowie Veranstaltungen und Ausstellungen besuchen zu können.\n\nGut zu wissen : Bestellte Medien können Sie unter Einhaltung der geltenden Schutzmassnahmen auch ohne Zertifikat abholen (Click & Collect).\n\nStandorte und Zugang: • Baubibliothek inklusive Selbstlernzentrum: regulär geöffnet\n• Bibliothek Erdwissenschaften : für ETH-Angehörige zugänglich\n• ETH-Bibliothek HDB : geschlossen\n• GESS-Bibliothek : für ETH-Angehörige zugänglich\n• Grüne Bibliothek : für ETH-Angehörige zugänglich\n• InfoCenter : regulär geöffnet\n• Lesesaal Sammlungen und Archive : regulär geöffnet\nExterne Besuchende sind gebeten, bei der Bestellung ihrer Medien als Abholorte die Baubibliothek oder das InfoCenter auszuwählen.\n\nServices: • Für alle Standorte gelten die regulären Öffnungszeiten. Lediglich die ETH-Bibliothek HDB ist geschlossen.\n• An allen Standorten können kurze Recherchen und Beratungen unter Einhaltung der Distanz- und Hygienevorschriften stattfinden.\n• Leselounges mit nationalen und internationalen (Fach-)Zeitschriften sowie Tageszeitungen stehen zur Verfügung.\n• Kopierer und Scanner können unter Einhaltung der Distanzregeln benutzt werden.\n• Der Lesesaal Sammlungen und Archive sowie die Ausstellung des Max Frisch-Archivs sind regulär Mo–Fr von 10.00–17.00 Uhr offen, für den Lesesaal wird um Voranmeldung gebeten.\n• Das Thomas-Mann-Archiv ist auf Voranmeldung zugänglich.\n• Die Ausstellung der Graphischen Sammlung kann zu den regulären Öffnungszeiten Mo–So von 10.00–16.45 Uhr besucht werden.\nVeranstaltungen finden teilweise vor Ort statt. Es gilt eine 2G-Zertifikatspflicht. Bitte beachten Sie die Hinweise und Details hierzu im Veranstaltungskalender .\n\nIn allen ETH-Gebäuden gilt die Pflicht zum Tragen einer Maske . Dies gilt auch für die Lernarbeitsplätze. Es gelten weiterhin die Distanz- und Hygienevorschriften des BAG. Bitte beachten Sie dies bei einem Besuch der ETH-Bibliothek.\n\nFragen? Die ETH-Bibliothek hilft gerne.\n\n#MehrWissen – Die aufbereiteten Inhalte der ETH-Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter.",
   "named_entities": [
+    "ETH",
+    "HDB",
     "Angehörige Zugang",
     "Externen Kundinnen",
     "Bestellte Medien",
@@ -12,9 +14,7 @@
     "Grüne Bibliothek",
     "Lesesaal Sammlungen",
     "Externe Besuchende",
-    "Der Lesesaal Sammlungen",
-    "Max Frisch-Archivs",
-    "Das Thomas-Mann-Archiv"
+    "Max Frisch-Archivs"
   ],
   "topics": [
     "Infrastructure",
@@ -26,21 +26,26 @@
   ],
   "keywords": [
     "ETH Card",
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Ethbibliothek",
+    "Ethangehörige",
+    "Gilt",
+    "Regulär",
+    "Sowie",
+    "Zugänglich"
   ],
-  "summary": "Main article: Zu einzelnen Standorten haben ab 3. Januar 2022 nur ETH-Angehörige Zugang (mit ETH-Karte und Zutrittsberechtigung für das Gebäude)....",
+  "summary": "Standorte und Zugang: • Baubibliothek inklusive Selbstlernzentrum: regulär geöffnet\n• Bibliothek Erdwissenschaften : für ETH-Angehörige zugänglich\n• ETH-Bibliothek HDB : geschlossen\n• GESS-Bibliothek : für ETH-Angehörige zugänglich\n• Grüne Bibliothek : für ETH-Angehörige zugänglich\n• InfoCenter : regulär geöffnet\n• Lesesaal Sammlungen und Archive : regulär geöffnet\nExterne Besuchende sind gebeten, bei der Bestellung ihrer Medien als Abholorte die Baubibliothek oder das InfoCenter auszuwählen....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 12,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 341,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff"
@@ -50,6 +55,11 @@
       "Events",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 11.37,
+      "avg_word_length": 6.15,
+      "long_word_percentage": 37.54
+    }
   }
 }

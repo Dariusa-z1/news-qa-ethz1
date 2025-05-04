@@ -7,14 +7,8 @@
   "named_entities": [
     "State Secretariat",
     "Economic Affairs",
-    "Precautionary",
-    "Prevent",
-    "Keep",
-    "Technical",
-    "Shade",
-    "Reduce",
-    "Increase",
-    "Organisational"
+    "SECO",
+    "SSHE"
   ],
   "topics": [
     "Staff",
@@ -25,22 +19,27 @@
     "Catering & Food"
   ],
   "keywords": [
-    "Measures",
     "Heat",
-    "With",
-    "Work",
+    "Measures",
     "Summer",
+    "Work",
     "Well",
-    "From"
+    "Drink",
+    "Long"
   ],
-  "summary": "",
+  "summary": "start work earlier; use flexitime arrangements or work from home; schedule rest breaks in cool places\n• Spend more time in cooler areas\n• Show consideration for vulnerable staff: adolescents, pregnant and breastfeeding women, and employees with health problems\n• Provide employees with information about heat effects such as thirst, dry mouth, weakness, confusion, dizziness, nausea, headache, muscle cramps or vomiting\nSummer is here, and many of us are now enjoying the long days and summer temperatures....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 11,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 450,
     "readability_score": "moderately complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff"
     ],
@@ -48,6 +47,11 @@
       "Catering",
       "Infrastructure",
       "Weather"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.5,
+      "avg_word_length": 4.85,
+      "long_word_percentage": 24.0
+    }
   }
 }

@@ -1,20 +1,18 @@
 {
   "language": "de",
   "title": "Asiatischer Genuss Nach Persoenlichem Geschmack",
-  "date": "2018-03-01",
+  "date": "1990-10-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Liebhaber der asiatischen Küche kommen auf dem Hönggerberg wieder auf ihre Kosten. In den neu gestalteten Räumlichkeiten von «Rice Up!» wird jeder Gast von einer oder einem Mitarbeitenden durch die Foodstation begleitet. Dabei wählt der Gast, was in seiner Bowl landet: Als Basis dient, gemäss dem Namen des Lokals, Reis in verschiedenen Varianten, ergänzt durch frischen Blattsalat. Nach Belieben kommen Fleisch oder Tofu, Gemüse, Sauce und Toppings dazu. Wer nicht lange überlegen möchte, entscheidet sich für eine der vier «Signature Bowls»: Rice Up!, Tofu Cashew, Beef oder Chicken Satay.\n\nBei der Zusammenstellung der Gerichte wird darauf geachtet, dass alle Elemente für eine ausgewogene Ernährung enthalten sind. Ergänzend stehen Getränke wie homemade Lemonades oder Kokoswasser bereit sowie ausgewählte Desserts. Bei einer Preisspanne von 7.90 bis 10.90 für Studierende und von 11.90 bis 14.90 für ETH-Mitarbeitende bildet das neue Angebot nun eine willkommene Abwechslung auf dem Areal Hönggerberg.\n\nDie Schweizer Gastronomiegruppe Two Spice setzt bei «Rice Up!» auf Nachhaltigkeit: Die Bowls bestehen aus Zuckerrohrfasern, ein Abfallprodukt bei der Zuckerherstellung, und sind vollständig biologisch abbaubar. Deckel und Besteck bestehen aus dem ebenfalls biologisch abbaubaren Material PLA (Grundstoff ist Mais- und Zuckerstärke), und die Servietten sind aus Recyclingpapier. Die Rice Up!-Gerichte eignen sich auch ideal zum Mitnehmen – sei es auf die Terrasse, ins Studierzimmer oder für zuhause.",
   "named_entities": [
+    "ETH",
+    "Areal Hönggerberg",
     "Rice Up",
     "Als Basis",
-    "Nach Belieben",
     "Signature Bowls",
     "Tofu Cashew",
     "Chicken Satay",
-    "Areal Hönggerberg",
-    "Die Schweizer Gastronomiegruppe Two",
-    "Die Bowls",
-    "Die Rice Up"
+    "PLA"
   ],
   "topics": [
     "Infrastructure",
@@ -25,22 +23,27 @@
     "Sustainability"
   ],
   "keywords": [
+    "Rice",
+    "Bestehen",
+    "Biologisch",
+    "Bowls",
+    "Gast",
     "Hönggerberg",
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Kommen"
   ],
-  "summary": "Liebhaber der asiatischen Küche kommen auf dem Hönggerberg wieder auf ihre Kosten....",
+  "summary": "Die Schweizer Gastronomiegruppe Two Spice setzt bei «Rice Up!» auf Nachhaltigkeit: Die Bowls bestehen aus Zuckerrohrfasern, ein Abfallprodukt bei der Zuckerherstellung, und sind vollständig biologisch abbaubar....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 219,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff"
@@ -50,6 +53,11 @@
       "Catering",
       "Sustainability",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 11.53,
+      "avg_word_length": 5.68,
+      "long_word_percentage": 30.14
+    }
   }
 }

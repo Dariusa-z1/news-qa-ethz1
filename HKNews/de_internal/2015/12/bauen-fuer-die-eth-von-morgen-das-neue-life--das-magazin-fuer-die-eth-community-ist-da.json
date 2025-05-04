@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Neue Wohnhäuser für Studierende, zwei neue Gastronomiebetriebe und ein neugestalteter Vorplatz für das ETH-Hauptgebäude sind nur ein paar der aktuellen Bauprojekte auf dem Campus Hönggerberg sowie rund um die ETH Zürich im Zentrum. «life» zeigt auf, was wo geplant ist und fasst zudem den Stand der Rückführung von zweckentfremdeten Wohnraum zusammen.\n\nAusserdem sprechen VSETH-Präsident Kay Schaller und AVETH-Präsident Florian Thöle im gemeinsamen Interview über Arbeit, Engagement und Gemeinschaftsgefühl an der ETH Zürich.\n\nIn der Rubrik «Einblick» werden die Ergebnisse des Gendermonitorings vorgestellt. Drei erfolgreiche Frauen erzählen, was aus Ihrer Sicht für Frauen an der ETH Zürich gut läuft und was besser sein könnte.\n\nWeitere Themen sind etwa der Satellit LISA Pathfinder, der vor zwei Wochen ins All geschickt wurde, das 10-Jahr-Jubiläum des «städtebaulichen Porträts» sowie das Budget der ETH Zürich im kommenden Jahr.",
   "named_entities": [
-    "Neue Wohnhäuser",
+    "VSETH",
     "Campus Hönggerberg",
+    "ETH Zürich",
+    "AVETH",
     "Präsident Kay Schaller",
     "Präsident Florian Thöle",
+    "Neue Wohnhäuser",
     "Ihrer Sicht",
     "Weitere Themen",
-    "Jahr-Jubiläum",
-    "Studierende",
-    "Gastronomiebetriebe",
-    "Vorplatz"
+    "LISA"
   ],
   "topics": [
     "Infrastructure",
@@ -26,21 +26,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "Students",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Zürich",
+    "Frauen",
+    "Neue",
+    "Sowie",
+    "Zwei",
+    "10jahrjubiläum"
   ],
-  "summary": "",
+  "summary": "Neue Wohnhäuser für Studierende, zwei neue Gastronomiebetriebe und ein neugestalteter Vorplatz für das ETH-Hauptgebäude sind nur ein paar der aktuellen Bauprojekte auf dem Campus Hönggerberg sowie rund um die ETH Zürich im Zentrum....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 138,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students"
     ],
@@ -49,6 +54,11 @@
       "Infrastructure",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.0,
+      "avg_word_length": 5.63,
+      "long_word_percentage": 28.26
+    }
   }
 }

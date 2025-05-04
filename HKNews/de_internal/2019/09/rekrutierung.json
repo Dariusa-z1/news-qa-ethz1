@@ -5,16 +5,10 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Auf dem Stellenportal der ETH Zürich werden jährlich rund 1000 Stellen veröffentlicht. Diese werden neu über die Rekrutierungssoftware softfactors erfasst, die Rekrutierenden eine einfache Handhabung des Ausschreibungsprozesses, Unterstützung in der Vorselektion und ein effizientes Bewerbermanagement bietet.\n\nUm die publizierten Stellen auf den ETH-Webseiten einzubinden und zu bewerben, konnten ETH-Einheiten im Web Content Management System AEM bisher die Spezialkomponente Stellenportal nutzen. Die Filterung der Stellen geschah über ein Freitextfeld, was bei nicht genauer Wortfolge zu Anzeigeproblemen führen konnte.\n\nNun wurde die AEM-Spezialkomponente verbessert und die Einbindung von Stellen vereinfacht. Bei der Stellenerfassung gibt die oder der Rekrutierende die fünfstellige Leitzahl an, auf der die zukünftige Mitarbeiterin oder der Mitarbeiter angestellt sein wird. Somit können mit der Komponente neu die Stellen gefiltert nach der Leitzahl in der Webseite integriert werden. In der Standardkonfiguration der Komponente werden alle offenen Stellen an der ETH Zürich angezeigt. Die genaue Anleitung finden Sie im geschützte Seite AEM-Manual lock .\n\nMit dieser Verbesserung möchten wir dazu beitragen, dass alle ETH-Einheiten ihre offenen Stellen tagesaktuell und einheitlich auf den ETH-Webseiten publizieren können. Damit wird die Attraktivität der ETH Zürich als Arbeitgeberin sichtbarer und wir erleichtern interessierten Arbeitnehmerinnen und Arbeitnehmern den Bewerbungsprozess.",
   "named_entities": [
+    "ETH Zürich",
+    "AEM",
     "Web Content Management System",
-    "Spezialkomponente Stellenportal",
-    "Die Filterung",
-    "Zürich",
-    "Rekrutierungssoftware",
-    "Rekrutierenden",
-    "Handhabung",
-    "Ausschreibungsprozesses",
-    "Unterstützung",
-    "Vorselektion"
+    "Spezialkomponente Stellenportal"
   ],
   "topics": [
     "Staff",
@@ -23,20 +17,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Stellen",
+    "Zürich",
+    "Etheinheiten",
+    "Ethwebseiten",
+    "Komponente",
+    "Leitzahl"
   ],
-  "summary": "Auf dem Stellenportal der ETH Zürich werden jährlich rund 1000 Stellen veröffentlicht....",
+  "summary": "Bei der Stellenerfassung gibt die oder der Rekrutierende die fünfstellige Leitzahl an, auf der die zukünftige Mitarbeiterin oder der Mitarbeiter angestellt sein wird....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 198,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff",
       "Administration"
@@ -45,6 +45,11 @@
       "Administrative",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.0,
+      "avg_word_length": 6.47,
+      "long_word_percentage": 38.89
+    }
   }
 }

@@ -6,8 +6,6 @@
   "main_content": "Interested in learning more? a free copy of the Green Guide for Universities and benefit from the challenges and opportunities faced by IARU member institutions in making campuses sustainable.",
   "named_entities": [
     "Green Guide",
-    "Interested",
-    "Universities",
     "IARU"
   ],
   "topics": [
@@ -16,22 +14,27 @@
     "Infrastructure"
   ],
   "keywords": [
-    "Interested",
-    "Learning",
-    "More",
-    "Free",
-    "Copy",
-    "Green",
-    "Guide"
+    "Benefit",
+    "Benefit challenges",
+    "Campuses",
+    "Campuses sustainable",
+    "Challenges",
+    "Challenges opportunities",
+    "Copy"
   ],
   "summary": "Interested in learning more? a free copy of the Green Guide for Universities and benefit from the challenges and opportunities faced by IARU member institutions in making campuses sustainable.",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 29,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -39,6 +42,11 @@
     "context_tags": [
       "Sustainability",
       "Infrastructure"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.5,
+      "avg_word_length": 5.59,
+      "long_word_percentage": 31.03
+    }
   }
 }

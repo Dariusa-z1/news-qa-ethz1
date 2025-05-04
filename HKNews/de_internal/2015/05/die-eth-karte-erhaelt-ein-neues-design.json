@@ -5,16 +5,12 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "In diesem Sommer erhalten Angehörige der ETH Zürich eine neue ETH-Karte. Die Karte erscheint dabei im neuen Design: Das 2008 eingeführte, grüne Erscheinungsbild wird ersetzt durch ein Blau aus dem Corporate Design der ETH Zürich.\n\nDie Karte ist mit einer weiterentwickelten Version des bisher verwendeten RFID-Chips ausgestattet. Die elektronischen Funktionen der ETH-Karte und das Kartenmanagementsystem sind dieselben wie bisher. Ebenso bleiben die Informationen auf der ETH-Karte gleich: ETH-Logo, Mitarbeiterfoto, Name, Geburtsdatum, Gültigkeitsdauer, berufliche Rolle, organisationale Zuordnung, Identifikationsnummer und eventuell ASVZ-Berechtigung.\n\nDer Austausch der alten durch die neue ETH-Karte beginnt ab Juli für Studierende und neu eintretende Mitarbeitende. ETH-Mitarbeitende, die bereits im Besitz einer ETH-Karte sind, erhalten die neue Karte per Post ab Mitte August. Sie müssen die neue Karte danach an einem der bestehenden Terminals validieren. Ab voraussichtlich Oktober 2015 werden ETH-Karten im alten Design nicht mehr akzeptiert.\n\nBereits ab jetzt sind Mitarbeitende, die ihr Foto seit mehr als drei Jahren nicht mehr aktualisiert haben, aufgerufen, dieses zu ersetzen und ein neues, ausweistaugliches Passfoto auf www.adressen.ethz.ch heraufzuladen.\n\nWie die ETH Zürich lanciert auch die Universität Zürich in diesem Jahr eine visuell und funktionell gleichartige UZH-Karte für ihre Studierenden und Mitarbeitenden. Dass beide Hochschulen eine gleichartige Karte haben, hat sich seit 2008 bewährt.",
   "named_entities": [
-    "Die Karte",
-    "Corporate Design",
-    "Der Austausch",
-    "Mitte August",
     "Universität Zürich",
-    "Sommer",
-    "Angehörige",
-    "Erscheinungsbild",
-    "Blau",
-    "Version"
+    "ASVZ",
+    "UZH",
+    "ETH Zürich",
+    "Corporate Design",
+    "RFID"
   ],
   "topics": [
     "Infrastructure",
@@ -29,18 +25,23 @@
     "ETH Card",
     "Corporate Design",
     "University of Zurich",
-    "Card",
-    "Design",
-    "University"
+    "Ethkarte",
+    "Karte",
+    "Neue"
   ],
-  "summary": "In diesem Sommer erhalten Angehörige der ETH Zürich eine neue ETH-Karte....",
+  "summary": "Wie die ETH Zürich lanciert auch die Universität Zürich in diesem Jahr eine visuell und funktionell gleichartige UZH-Karte für ihre Studierenden und Mitarbeitenden....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 216,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff"
@@ -50,6 +51,11 @@
       "Research",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.4,
+      "avg_word_length": 5.9,
+      "long_word_percentage": 27.31
+    }
   }
 }

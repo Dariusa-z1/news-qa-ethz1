@@ -7,11 +7,7 @@
   "named_entities": [
     "Mehmet Fatih Yanik",
     "Nature Communications",
-    "Looking",
-    "There",
-    "Dravet",
-    "Parkinson",
-    "Although"
+    "EEG"
   ],
   "topics": [
     "Research",
@@ -23,21 +19,26 @@
   ],
   "keywords": [
     "Brain",
-    "That",
-    "This",
     "Larvae",
-    "From",
-    "With",
-    "Yanik"
+    "Yanik",
+    "Signals",
+    "Effects",
+    "Researchers",
+    "Drugs"
   ],
-  "summary": "Looking into the brain: There are still comparatively few treatments available for brain diseases....",
+  "summary": "Yanik is convinced that if drugs could be used to increase the complexity of brain signals and if this were defined as a therapeutic goal, we would finally have a measurement parameter coming directly from the brain to determine the effects and side-effects of chemical substances....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 865,
     "readability_score": "moderately complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -48,6 +49,11 @@
       "Research",
       "Education",
       "Communications"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.6,
+      "avg_word_length": 5.11,
+      "long_word_percentage": 28.21
+    }
   }
 }

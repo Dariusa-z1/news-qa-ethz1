@@ -5,31 +5,34 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "The Research Collection is ETH Zurich’s publication platform, where members of the university can publish academic full texts open access and archive research data or make them publicly accessible.\n\nAnswers to further questions can be found in the Research Collection manual .",
   "named_entities": [
-    "The Research Collection",
-    "Research Collection",
-    "Zurich",
-    "ETH Zurich"
+    "ETH Zurich",
+    "Research Collection"
   ],
   "topics": [
     "Research"
   ],
   "keywords": [
-    "ETH Zurich",
     "Research",
     "Collection",
-    "Zurich’s",
-    "Publication",
-    "Platform",
-    "Where"
+    "Research collection",
+    "Academic",
+    "Academic full",
+    "Access",
+    "Access archive"
   ],
   "summary": "The Research Collection is ETH Zurich’s publication platform, where members of the university can publish academic full texts open access and archive research data or make them publicly accessible....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 42,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -38,6 +41,11 @@
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.0,
+      "avg_word_length": 5.48,
+      "long_word_percentage": 40.48
+    }
   }
 }

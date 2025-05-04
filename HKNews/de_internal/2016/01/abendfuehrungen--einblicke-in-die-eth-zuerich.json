@@ -5,16 +5,13 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "• Wie wurde Thomas Mann in Fotografien inszeniert?\n• Warum müssen auch Bücher zum Doktor?\n• Wie wandelt sich Schweizer Naturstein im Laufe der Zeit?\nDiese und weitere Fragen stehen im Zentrum bei den Abendführungen der Sammlungen und Archive sowie der Abteilung Services der ETH Zürich. Zudem können Sie den Spuren von Albert Einstein folgen oder auch den ETH-Campus Hönggerberg kennenlernen.\n\nDie kostenlosen Führungen finden jeweils dienstags von 18.15 bis 19.15 Uhr statt.\n\nInformieren Sie sich über die Themen und Termine",
   "named_entities": [
+    "Campus Hönggerberg",
+    "ETH Zürich",
     "Thomas Mann",
     "Schweizer Naturstein",
     "Abteilung Services",
     "Albert Einstein",
-    "Campus Hönggerberg",
-    "Informieren Sie",
-    "Fotografien",
-    "Warum",
-    "Bücher",
-    "Doktor"
+    "Informieren Sie"
   ],
   "topics": [
     "Infrastructure",
@@ -23,20 +20,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Abendführungen",
+    "Abendführungen sammlungen",
+    "Abteilung",
+    "Abteilung services",
+    "Albert",
+    "Albert einstein"
   ],
-  "summary": "• Wie wurde Thomas Mann in Fotografien inszeniert? • Warum müssen auch Bücher zum Doktor? • Wie wandelt sich Schweizer Naturstein im Laufe der Zeit?...",
+  "summary": "Diese und weitere Fragen stehen im Zentrum bei den Abendführungen der Sammlungen und Archive sowie der Abteilung Services der ETH Zürich. Zudem können Sie den Spuren von Albert Einstein folgen oder auch den ETH-Campus Hönggerberg kennenlernen....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 3,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 81,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -45,6 +48,11 @@
       "Financial",
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 9.0,
+      "avg_word_length": 5.32,
+      "long_word_percentage": 25.93
+    }
   }
 }

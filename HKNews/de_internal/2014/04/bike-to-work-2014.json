@@ -5,16 +5,13 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Alle Velofahrer/innen sind herzlich eingeladen, auch 2014 mitzumachen. Zur besseren Motivation bilden jeweils vier Mitarbeitende ein Team; jeweils ein Teammitglied kann anstatt mit dem Velo z.B. zu Fuss oder dem Skateboard teilnehmen.\n\nAlle Informationen zu dieser Aktion finden Sie unter: externe Seite www.biketowork.ch .\n\nUnter diesem Link melden Sie sich auch direkt an (Name Betrieb: ETH Zürich / den Teamnamen wählen Sie selbst). Ergänzende Informationen zum Anmeldungsprozedere finden Sie auch auf der SGU-Website im ETH-Intranet.\n\nLesen Sie den Sicherheitstipp des bfu (Beratungsstelle für Unfallverhütung):\n\nexterne Seite www.bfu.ch/de/sicherheitstipps/bfu-sicherheitstipp-april-2014 .",
   "named_entities": [
+    "ETH Zürich",
     "Alle Velofahrer",
     "Alle Informationen",
     "Name Betrieb",
     "Ergänzende Informationen",
     "Lesen Sie",
-    "Motivation",
-    "Mitarbeitende",
-    "Team",
-    "Teammitglied",
-    "Fuss"
+    "SGU"
   ],
   "topics": [
     "Staff",
@@ -22,25 +19,36 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Externe",
+    "Externe seite",
+    "Finden",
+    "Informationen",
+    "Jeweils",
+    "Seite"
   ],
-  "summary": "Alle Velofahrer/innen sind herzlich eingeladen, auch 2014 mitzumachen. Zur besseren Motivation bilden jeweils vier Mitarbeitende ein Team; jeweils ein Teammitglied kann anstatt mit dem Velo z.B....",
+  "summary": "Zur besseren Motivation bilden jeweils vier Mitarbeitende ein Team; jeweils ein Teammitglied kann anstatt mit dem Velo z.B. Unter diesem Link melden Sie sich auch direkt an (Name Betrieb: ETH Zürich / den Teamnamen wählen Sie selbst)....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 99,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 8.25,
+      "avg_word_length": 5.78,
+      "long_word_percentage": 29.29
+    }
   }
 }

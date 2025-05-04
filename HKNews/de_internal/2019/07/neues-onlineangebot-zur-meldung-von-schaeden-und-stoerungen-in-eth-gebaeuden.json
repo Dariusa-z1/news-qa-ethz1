@@ -5,16 +5,8 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Die ETH Zürich hat die Grösse einer kleinen Stadt. Sie umfasst rund zweihundert Gebäude, Grünflächen, Strassen und Plätze, Erschliessungsflächen und Tausende von Räumen für die rund 30'000 ETH-Angehörigen. Im Hintergrund wird für den Betrieb dieses Angebots eine aufwendige technische Infrastruktur unterhalten. An der ETH legt man Wert darauf, diese Infrastruktur in einem einwandfreien Zustand zu halten und laufend zu modernisieren. Eine wichtige Voraussetzung für eine schnelle Problembehebung in den Gebäuden ist die Kommunikation zwischen Nutzerinnen und Nutzern und Infrastrukturbetreibern.\n\nWir lancieren dieses Angebot mit einer simplen Basisfunktionalität: ein Meldeformular mit der Option, einen Bildanhang mitzusenden. Per Mail wird man informiert, sobald das Problem behoben ist. Der Status der eigenen Meldungen kann via Meldeportal angezeigt werden.\n\nMit diesem Angebot möchten wir der ETH-Community die Gelegenheit geben, aktiv zu einer gut funktionierenden Infrastruktur beizutragen.",
   "named_entities": [
-    "Im Hintergrund",
-    "Per Mail",
-    "Der Status",
-    "Zürich",
-    "Grösse",
-    "Stadt",
-    "Gebäude",
-    "Grünflächen",
-    "Strassen",
-    "Plätze"
+    "ETH Zürich",
+    "Im Hintergrund"
   ],
   "topics": [
     "Infrastructure",
@@ -23,21 +15,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "Building",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Infrastruktur",
+    "Angebot",
+    "Rund",
+    "Aktiv",
+    "Aktiv funktionierenden",
+    "Angebot möchten"
   ],
-  "summary": "Die ETH Zürich hat die Grösse einer kleinen Stadt....",
+  "summary": "Eine wichtige Voraussetzung für eine schnelle Problembehebung in den Gebäuden ist die Kommunikation zwischen Nutzerinnen und Nutzern und Infrastrukturbetreibern....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 135,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "General Public"
     ],
@@ -45,6 +42,11 @@
       "Infrastructure",
       "Communications",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.0,
+      "avg_word_length": 6.27,
+      "long_word_percentage": 38.52
+    }
   }
 }

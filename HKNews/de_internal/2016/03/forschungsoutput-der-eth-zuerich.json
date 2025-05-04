@@ -5,15 +5,6 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Hiervon sind 61 % Zeitschriftenbeiträge und 24 % Tagungsbeiträge.\n\nETH E-Citations weist die wissenschaftlichen Publikationen, die an der ETH Zürich entstanden sind, dauerhaft nach und umfasst total rund 120 000 Einträge. So gibt die Plattform einen breiten Überblick über die Forschungsaktivitäten und -ergebnisse an der ETH Zürich.",
   "named_entities": [
-    "Hiervon",
-    "Zeitschriftenbeiträge",
-    "Tagungsbeiträge",
-    "Citations",
-    "Publikationen",
-    "Zürich",
-    "Einträge",
-    "Plattform",
-    "Forschungsaktivitäten",
     "ETH Zürich"
   ],
   "topics": [
@@ -21,26 +12,37 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Zürich",
+    "Breiten",
+    "Breiten überblick",
+    "Dauerhaft",
+    "Dauerhaft umfasst",
+    "Ecitations"
   ],
-  "summary": "Hiervon sind 61 % Zeitschriftenbeiträge und 24 % Tagungsbeiträge....",
+  "summary": "ETH E-Citations weist die wissenschaftlichen Publikationen, die an der ETH Zürich entstanden sind, dauerhaft nach und umfasst total rund 120 000 Einträge....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 46,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.33,
+      "avg_word_length": 6.02,
+      "long_word_percentage": 32.61
+    }
   }
 }

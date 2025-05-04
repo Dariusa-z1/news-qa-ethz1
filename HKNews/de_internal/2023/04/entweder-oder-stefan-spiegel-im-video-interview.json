@@ -5,16 +5,16 @@
   "source": "Unbekannte Quelle",
   "main_content": "Stefan Spiegel trat die Nachfolge von Robert Perich an. Er studierte theoretische Physik an der Universität Zürich und erwarb ein Executive MBA der Wirtschaftsuniversität Wien und der Carlson School of Management der Universität von Minnesota. Er besitzt langjährige Führungserfahrung als Finanzchef sowie als Leiter Controlling und Projektleiter für Organisationsentwicklungen im Finanzbereich nationaler und internationaler Unternehmen. Zuletzt war Spiegel CFO und Mitglied der Geschäftsleitung der SBB Cargo AG.",
   "named_entities": [
+    "Universität Zürich",
+    "School of Management",
     "Stefan Spiegel",
     "Robert Perich",
-    "Universität Zürich",
     "Wirtschaftsuniversität Wien",
     "Carlson School",
     "Leiter Controlling",
-    "Nachfolge",
-    "Physik",
-    "Executive",
-    "Management"
+    "MBA",
+    "CFO",
+    "SBB"
   ],
   "topics": [
     "University Administration",
@@ -24,21 +24,26 @@
   ],
   "keywords": [
     "University of Zurich",
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Spiegel",
+    "Universität",
+    "Besitzt",
+    "Besitzt langjährige",
+    "Cargo",
+    "Carlson"
   ],
-  "summary": "Stefan Spiegel trat die Nachfolge von Robert Perich an....",
+  "summary": "Er studierte theoretische Physik an der Universität Zürich und erwarb ein Executive MBA der Wirtschaftsuniversität Wien und der Carlson School of Management der Universität von Minnesota....",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 67,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Administration"
     ],
@@ -47,6 +52,11 @@
       "Research",
       "Administrative",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.75,
+      "avg_word_length": 6.63,
+      "long_word_percentage": 38.81
+    }
   }
 }

@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Bitte beachten Sie, dass das alte Bibliothekssystem ab April nicht mehr zur Verfügung steht:\n\n• Alle Medien, die Sie vor dem 7. Dezember ausgeliehen haben, müssen bis Ende März zurückgegeben werden. Die Verwaltung der offenen Ausleihen kann nicht in das neue System übertragen werden.\n• In swisscovery werden Sie Ihre im alten System gespeicherten Favoriten nicht mehr sehen können. Für deren Export steht Ihnen eine Anleitung zur Verfügung.\n• Ihre Ausleihhistorie und aktiven Vormerkungen werden ebenfalls nicht automatisch übertragen. Möchten Sie diese weiterhin nutzen, folgen Sie bitte dieser Anleitung .\n• Bei Fragen zu Gebühren aufgrund früherer Ausleihen wenden Sie sich bitte an .\nEnde März endet die Übergangszeit für die Umstellung auf die neue Rechercheplattform externe Seite swisscovery , die im letzten Dezember eingeführt wurde.\n\nUm swisscovery nutzen zu können, müssen Sie sich neu registrieren. Falls Sie dies noch nicht getan haben, folgen Sie bitte der Anleitung .\n\nswisscovery verzeichnet insgesamt mehr als 30 Millionen Bücher, Serien, Zeitschriften und Non-Book-Materialien sowie mehr als 3 Milliarden elektronische Artikel. Betrieben wird swisscovery von der Swiss Library Service Platform, kurz SLSP. Die SLSP wurde von 15 Hochschulen ins Leben gerufen. Bis heute haben sich schweizweit mehr als 470 Bibliotheken angeschlossen.\n\n#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel.\n\n#ETHBibliothekDigital – Die ETH-Bibliothek ist nicht nur während der COVID-19-Schutzmassnahmen digital mit verschiedenen Angeboten und Dienstleistungen für Sie da.",
   "named_entities": [
+    "ETH",
+    "Swiss Library Service Platform",
+    "SLSP",
     "Alle Medien",
-    "Ende März",
-    "Die Verwaltung",
     "Sie Ihre",
     "Ihre Ausleihhistorie",
     "Möchten Sie",
-    "Bei Fragen",
     "Falls Sie",
     "Millionen Bücher",
-    "Non-Book-Materialien"
+    "Ihrem Ziel"
   ],
   "topics": [
     "University Administration",
@@ -23,21 +23,27 @@
     "Communication"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Mehr",
+    "Swisscovery",
+    "Bitte",
+    "Anleitung",
+    "Ausleihen",
+    "Bitte anleitung",
+    "Dezember"
   ],
-  "summary": "Bitte beachten Sie, dass das alte Bibliothekssystem ab April nicht mehr zur Verfügung steht:\n\n• Alle Medien, die Sie vor dem 7. Dezember ausgeliehen haben, müssen bis Ende März zurückgegeben werden....",
+  "summary": "Bitte beachten Sie, dass das alte Bibliothekssystem ab April nicht mehr zur Verfügung steht:\n\n• Alle Medien, die Sie vor dem 7....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 4,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 227,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Administration"
     ],
@@ -46,6 +52,11 @@
       "Infrastructure",
       "Technology",
       "Administrative"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.35,
+      "avg_word_length": 5.86,
+      "long_word_percentage": 30.4
+    }
   }
 }

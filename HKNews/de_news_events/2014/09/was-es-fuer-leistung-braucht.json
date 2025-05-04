@@ -5,14 +5,14 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Sportstudent Max Schläpfer will in Studium und Sport zu den Besten gehören. Wenn er nicht lernt, trainiert er. Damit eifert er seinem Vater Ernst Schläpfer nach: Dieser ist nicht nur zweifacher Schwingerkönig, sondern hat auch an der ETH Zürich doktoriert. «Ich hätte ein schlechtes Gewissen, wenn mein Terminplan nicht voll wäre», sagt der 27-jährige Max Schläpfer. Er habe früh gelernt, dass er sich seine Zeit gut einteilen muss.\n\nWas nötig ist, um gute Leistung zu erbringen, erklärt Barbara Koch-Kiennast vom Bereich Studienorientierung & Coaching. Tipps zum Zeitmanagement gibt Sandra Bajus von der Personal- und Organisationsentwicklung.\n\nFür eine möglichst flexible Arbeitszeiteinteilung setzt sich Stefano Brusoni ein. Der Professor am D-MTEC ist für seine familienfreundliche Teamführung mit dem Goldenen Dreirad ausgezeichnet worden.\n\nIm geplanten Innovationspark in Dübendorf sollen sich Firmen niederlassen, die zur absoluten Weltspitze in ihrem Gebiet gehören. Roman Boutellier, Vizepräsident für Personal und Ressourcen und Andreas Flury, Geschäftsführer des Vereins «Swiss Innovation Park» erzählen im Interview, was es mit dem ambitionierten Projekt auf sich hat.\n\nAusserdem: Immer mehr einzahlen und trotzdem weniger Rente? Der jüngst ausgetretene Human-Resources-Leiter Piero Cereghetti erklärt die Folgen der Senkung des technischen Zinssatzes bei der Pensionskasse Publica.\n\n«life – Das Magazin für die ETH-Community» orientiert die ETH-Angehörigen über die Entwicklung ihrer Hochschule, stellt ihnen die Menschen hinter den Strategien und ihre konkreten Arbeitswelten vor und führt sie durch das vielfältige Campusleben.",
   "named_entities": [
+    "ETH Zürich",
     "Sportstudent Max Schläpfer",
     "Vater Ernst Schläpfer",
-    "Max Schläpfer",
+    "Swiss Innovation Park",
     "Barbara Koch-Kiennast",
     "Bereich Studienorientierung",
     "Sandra Bajus",
     "Stefano Brusoni",
-    "Der Professor",
     "Goldenen Dreirad",
     "Roman Boutellier"
   ],
@@ -26,21 +26,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "Personnel",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Schläpfer",
+    "Erklärt",
+    "Gehören",
+    "Personal",
+    "27jährige",
+    "27jährige schläpfer"
   ],
-  "summary": "Sportstudent Max Schläpfer will in Studium und Sport zu den Besten gehören. Wenn er nicht lernt, trainiert er....",
+  "summary": "«life – Das Magazin für die ETH-Community» orientiert die ETH-Angehörigen über die Entwicklung ihrer Hochschule, stellt ihnen die Menschen hinter den Strategien und ihre konkreten Arbeitswelten vor und führt sie durch das vielfältige Campusleben....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 230,
     "readability_score": "complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +57,11 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.43,
+      "avg_word_length": 5.95,
+      "long_word_percentage": 36.09
+    }
   }
 }

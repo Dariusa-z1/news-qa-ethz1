@@ -5,16 +5,9 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Die Wissenschaftlerinnen und Wissenschaftler der ETH Zürich gehören hinsichtlich der Anzahl Zugriffe weltweit zu den Top-10-Nutzern. Auch die Möglichkeit, eigene Forschungsarbeiten auf externe Seite arXiv.org zu publizieren, nutzen sie rege.\n\narXiv.org wird von der Cornell University Library betrieben und weltweit von knapp 190 Institutionen finanziell mitgetragen. Mit ihrer Unterstützung trägt auch die ETH-Bibliothek seit dem Jahr 2011 dazu bei, dass die Volltextdatenbank der wissenschaftlichen Community in Zukunft weiterhin zur Verfügung steht.\n\nDie ETH-Bibliothek leistet hiermit einen Beitrag zur Stärkung der Open-Access-Strategie der ETH Zürich . Sie unterstreicht dies nun mit einer \"Platin-Mitgliedschaft\" bei arXiv.org.",
   "named_entities": [
-    "Die Wissenschaftlerinnen",
-    "Anzahl Zugriffe",
+    "ETH Zürich",
     "Cornell University Library",
-    "Open-Access-Strategie",
-    "Platin-Mitgliedschaft",
-    "Zürich",
-    "Nutzern",
-    "Möglichkeit",
-    "Forschungsarbeiten",
-    "Seite"
+    "Anzahl Zugriffe"
   ],
   "topics": [
     "Research",
@@ -25,20 +18,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Arxivorg",
+    "Ethbibliothek",
+    "Weltweit",
+    "Zürich",
+    "Anzahl",
+    "Anzahl zugriffe"
   ],
-  "summary": "Die Wissenschaftlerinnen und Wissenschaftler der ETH Zürich gehören hinsichtlich der Anzahl Zugriffe weltweit zu den Top-10-Nutzern....",
+  "summary": "Mit ihrer Unterstützung trägt auch die ETH-Bibliothek seit dem Jahr 2011 dazu bei, dass die Volltextdatenbank der wissenschaftlichen Community in Zukunft weiterhin zur Verfügung steht....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 103,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -49,6 +48,11 @@
       "Research",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 11.44,
+      "avg_word_length": 6.0,
+      "long_word_percentage": 33.98
+    }
   }
 }

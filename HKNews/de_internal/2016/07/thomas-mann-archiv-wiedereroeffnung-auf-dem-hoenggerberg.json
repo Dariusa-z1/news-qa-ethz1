@@ -5,16 +5,10 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Der Lesesaal und das letzte Arbeitszimmer von Thomas Mann sind dort mit erweiterten Öffnungszeiten zugänglich.\n\nMit dem Umzug hat das Thomas-Mann-Archiv auch seine Website modernisiert, wo es aktuell und in neuem Design über seine Tätigkeiten informiert.\n\nDie Universität Zürich wird das Bodmer-Haus, in dem das Thomas-Mann-Archiv seit 1961 eingemietet war, nach einer umfassenden Sanierung einer neuen Zweckbestimmung zuführen. Es ist geplant, dass das Thomas-Mann-Archiv mittelfristig einen neuen festen Standort im Hauptgebäude der ETH Zürich erhält.\n\nWeitere Informationen finden Sie auf der Website des Thomas-Mann-Archivs",
   "named_entities": [
-    "Der Lesesaal",
+    "ETH Zürich",
+    "Universität Zürich",
     "Thomas Mann",
-    "Thomas-Mann-Archiv",
-    "Die Universität Zürich",
-    "Bodmer-Haus",
-    "Weitere Informationen",
-    "Thomas-Mann-Archivs",
-    "Arbeitszimmer",
-    "Umzug",
-    "Website"
+    "Weitere Informationen"
   ],
   "topics": [
     "Infrastructure",
@@ -24,26 +18,36 @@
   "keywords": [
     "ETH Zurich",
     "University of Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Thomasmannarchiv",
+    "Neuen",
+    "Website",
+    "Zürich",
+    "Aktuell"
   ],
-  "summary": "Der Lesesaal und das letzte Arbeitszimmer von Thomas Mann sind dort mit erweiterten Öffnungszeiten zugänglich....",
+  "summary": "Die Universität Zürich wird das Bodmer-Haus, in dem das Thomas-Mann-Archiv seit 1961 eingemietet war, nach einer umfassenden Sanierung einer neuen Zweckbestimmung zuführen....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 93,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.6,
+      "avg_word_length": 5.63,
+      "long_word_percentage": 25.81
+    }
   }
 }

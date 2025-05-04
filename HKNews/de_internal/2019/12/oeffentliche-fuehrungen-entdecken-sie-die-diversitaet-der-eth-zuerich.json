@@ -5,6 +5,8 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Möchten Sie mehr über historische Ereignisse und Persönlichkeiten wie Albert Einstein, Max Frisch oder Thomas Mann erfahren? Besuchen Sie eine unserer öffentlichen Führungen und bestaunen Sie wertvolle Bestände, Bilder und Objekte. Tauchen Sie in Themen der aktuellen Forschung ein und lernen Sie die beiden Campus Zentrum und Hönggerberg sowie Gebäude und Kunstwerke der ETH Zürich kennen.\n\nDie kostenlosen öffentlichen Führungen finden jeweils dienstags von 18.15 bis 19.15 Uhr statt.\n\nDie Führungen werden durchgeführt von den Sammlungen und Archiven, der ETH-Bibliothek, der Abteilungen Services, Immobilien und Betrieb sowie verschiedenen Instituten der ETH Zürich und geben Ihnen nicht zuletzt Einblicke hinter die Kulissen.\n\nPublic Tours an der ETH Zürich\n\n#MehrWissen – Die aufbereiteten Inhalte der ETH-Bibliothek stehen Ihnen frei zur Verfügung und bringen Sie weiter.",
   "named_entities": [
+    "ETH Zürich",
+    "Hönggerberg",
     "Möchten Sie",
     "Albert Einstein",
     "Max Frisch",
@@ -12,9 +14,7 @@
     "Besuchen Sie",
     "Tauchen Sie",
     "Campus Zentrum",
-    "Die Führungen",
-    "Abteilungen Services",
-    "Public Tours"
+    "Abteilungen Services"
   ],
   "topics": [
     "Infrastructure",
@@ -24,20 +24,26 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Führungen",
+    "Zürich",
+    "Ethbibliothek",
+    "Sowie",
+    "Öffentlichen",
+    "Öffentlichen führungen"
   ],
-  "summary": "Möchten Sie mehr über historische Ereignisse und Persönlichkeiten wie Albert Einstein, Max Frisch oder Thomas Mann erfahren?...",
+  "summary": "Die Führungen werden durchgeführt von den Sammlungen und Archiven, der ETH-Bibliothek, der Abteilungen Services, Immobilien und Betrieb sowie verschiedenen Instituten der ETH Zürich und geben Ihnen nicht zuletzt Einblicke hinter die Kulissen....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 126,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -47,6 +53,11 @@
       "Infrastructure",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.75,
+      "avg_word_length": 5.83,
+      "long_word_percentage": 36.51
+    }
   }
 }

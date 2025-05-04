@@ -5,16 +5,10 @@
   "source": "Unbekannte Quelle",
   "main_content": "Kürzlich hat der NFS Digitale Fabrikation Vertreter des Schweizerischen Nationalfonds (SNF) und seines Überprüfungsausschussses zu seiner vierten Jahresrevision eingeladen. Während der zweitägigen Veranstaltung bewertete das internationale Expertengremium die Fortschritte des NFS und diskutierte seine zukünftigen Forschungspläne. In den kommenden Monaten wird der Forschungsrat des SNF über die künftige Finanzierung des NFS entscheiden.\n\nDer externe Seite gesamte Bericht zur vierten Jahresrevision findet sich auf der Webseite des NFS Digitale Fabrikation. (auf Englisch)",
   "named_entities": [
+    "NFS",
     "Digitale Fabrikation Vertreter",
-    "Schweizerischen Nationalfonds",
-    "Digitale Fabrikation",
-    "Kürzlich",
-    "Jahresrevision",
-    "Veranstaltung",
-    "Expertengremium",
-    "Fortschritte",
-    "Forschungspläne",
-    "Monaten"
+    "SNF",
+    "Schweizerischen Nationalfonds"
   ],
   "topics": [
     "Research",
@@ -25,21 +19,27 @@
     "Communication"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Digitale",
+    "Digitale fabrikation",
+    "Fabrikation",
+    "Jahresrevision",
+    "Vierten",
+    "Vierten jahresrevision",
+    "Bericht"
   ],
   "summary": "Kürzlich hat der NFS Digitale Fabrikation Vertreter des Schweizerischen Nationalfonds (SNF) und seines Überprüfungsausschussses zu seiner vierten Jahresrevision eingeladen....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 71,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -48,6 +48,11 @@
       "Technology",
       "Research",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.2,
+      "avg_word_length": 6.99,
+      "long_word_percentage": 49.3
+    }
   }
 }

@@ -5,16 +5,10 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "And it has also left its mark on ETH-Bibliothek’s holdings:\n\n• Files on the construction of the Gotthard Railway\n• Photo reports on the construction of the road tunnel\n• Depictions of the old Gotthard Pass road\n• Rock samples from tunnel bores\n• Geological profiles of the Gotthard Massif\n• Current specialist information on traffic planning, tunnel construction, geology and measuring technology\nThe Gotthard has inspired people for centuries: tourists, artists, researchers, engineers, workers and geologists have all travelled, explored and drilled through the massif.\n\nGotthard – Rocks and tunnels",
   "named_entities": [
+    "ETH",
     "Gotthard Railway",
     "Gotthard Pass",
-    "Gotthard Massif",
-    "The Gotthard",
-    "Bibliothek",
-    "Files",
-    "Photo",
-    "Depictions",
-    "Rock",
-    "Geological"
+    "Gotthard Massif"
   ],
   "topics": [
     "Communication",
@@ -26,19 +20,24 @@
     "Gotthard",
     "Construction",
     "Tunnel",
-    "Road",
     "Massif",
-    "Also",
-    "Left"
+    "Road",
+    "Artists",
+    "Bores"
   ],
-  "summary": "",
+  "summary": "And it has also left its mark on ETH-Bibliothek’s holdings:\n\n• Files on the construction of the Gotthard Railway\n• Photo reports on the construction of the road tunnel\n• Depictions of the old Gotthard Pass road\n• Rock samples from tunnel bores\n• Geological profiles of the Gotthard Massif\n• Current specialist information on traffic planning, tunnel construction, geology and measuring technology\nThe Gotthard has inspired people for centuries: tourists, artists, researchers, engineers, workers and geologists have all travelled, explored and drilled through the massif....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 6,
+    "numbered_items": 0,
+    "headings": 0,
+    "links": 0
+  },
   "rich_metadata": {
     "document_length_words": 86,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -46,6 +45,11 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 43.0,
+      "avg_word_length": 5.7,
+      "long_word_percentage": 43.02
+    }
   }
 }
