@@ -5,14 +5,12 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Wer bisher nach einem Gebäude oder einem Arealplan gesucht hat, musste das bis dato auf verschiedenen Online-Plattformen der ETH Zürich tun. Seit gestern ist nun die neue Gebäudeorientierung der Abteilung Immobilien im ETH-Netz verfügbar, die das Gebäudeverzeichnis, die Plandatenbank und die Situationspläne in einem Angebot vereint.\n\nEin zentraler und nutzerfreundlicher Service war die Zielsetzung der Applikation, die neben der gewohnten Suche via Gebäudekürzel und Adressdaten neu eine intuitive Suchfunktion über einen Standortplan anbietet. Für die Areale Zentrum und Hönggerberg kann man jedes Gebäude mit Hilfe eines interaktiven Pins auswählen, dessen Klick direkt zu den Detailangaben des gewünschten Gebäudes führt.\n\nZur besseren Orientierung werden die jeweiligen Gebäudeinformationen wie Kürzel, Standort oder Leitzahl, mit einem Foto sowie einer optionalen Map-Search-Angabe ergänzt. Zu jedem Gebäude stehen die jeweiligen Stockwerk- und Fluchtwegpläne auf der gleichen Seite zur Verfügung.\n\nDas Angebot der neuen Gebäudeorientierung umfasst ausserdem die offiziellen Situationspläne der jeweiligen ETH-Standorte sowie für die Areale Zentrum und Hönggerberg die dazugehörigen Sonderkarten wie Anlieferung, Parkieren oder Gastronomie.\n\nDie Gebäudeorientierung ist auf der Seite Services & Ressourcen angesiedelt und via Kurz-URL www.ethz.ch/gebaeude erreichbar.",
   "named_entities": [
-    "Online-Plattformen",
-    "Abteilung Immobilien",
-    "Areale Zentrum",
-    "Map-Search-Angabe",
-    "Seite Services",
     "ETH Zürich",
-    "ETH",
-    "Hönggerberg"
+    "Hönggerberg",
+    "Areale Zentrum",
+    "Abteilung Immobilien",
+    "Seite Services",
+    "URL"
   ],
   "topics": [
     "Infrastructure",
@@ -24,25 +22,20 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "Building",
-    "Campus Center",
-    "Hönggerberg",
-    "University",
-    "Research",
-    "Science"
+    "Gebäude",
+    "Gebäudeorientierung",
+    "Jeweiligen",
+    "Angebot",
+    "Areale",
+    "Areale zentrum"
   ],
-  "summary": "Wer bisher nach einem Gebäude oder einem Arealplan gesucht hat, musste das bis dato auf verschiedenen Online-Plattformen der ETH Zürich tun. Seit gestern ist nun die neue Gebäudeorientierung der Abteilung Immobilien im ETH-Netz verfügbar, die das Gebäudeverzeichnis, die Plandatenbank und die Situationspläne in einem Angebot vereint....",
+  "summary": "Das Angebot der neuen Gebäudeorientierung umfasst ausserdem die offiziellen Situationspläne der jeweiligen ETH-Standorte sowie für die Areale Zentrum und Hönggerberg die dazugehörigen Sonderkarten wie Anlieferung, Parkieren oder Gastronomie....",
   "content_structure": {
     "paragraph_count": 5,
     "bullet_points": 0,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 185,
@@ -62,17 +55,6 @@
       "avg_words_per_sentence": 18.5,
       "avg_word_length": 6.31,
       "long_word_percentage": 37.84
-    },
-    "semantic_entities": {
-      "locations": [],
-      "departments": [],
-      "contact_info": {
-        "emails": [],
-        "websites": [
-          "www.ethz.ch"
-        ],
-        "phones": []
-      }
     }
   }
 }

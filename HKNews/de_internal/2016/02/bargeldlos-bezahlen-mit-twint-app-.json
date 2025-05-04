@@ -5,13 +5,11 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Das lange Anstehen an den Kassen beim Mittagessen hat ein Ende: In den Gastronomiebetrieben der ETH kann künftig bargeldlos bezahlt werden. Mit der Twint-App von Postfinance müssen ETH-Angehörige nur noch das Smartphone zücken. Dank einer ETH-Schnittstelle können die Kassen der Caterer sogar automatisch erkennen, ob es sich beim Gast um einen Studierenden oder um einen Mitarbeitenden handelt – und so den korrekten Preis berechnen. So wird der Bezahlvorgang beschleunigt, zudem sind künftig separate Kassen für das Bezahlen mit Twint oder NFC-fähigen Kreditkarten vorgesehen. Schweizweit kann mit Twint auch bereits an 8000 Coop-Kassen bezahlt werden, auch in der Filiale auf dem Campus Hönggerberg.\n\nDie Neuerung wird vom 22. bis 24. Februar 2016 an verschiedenen Standorten der ETH beworben. Zum Start wird jedem ein Guthaben von 10 Franken geschenkt. Danach kann das Konto auf verschiedenen Wegen aufgeladen werden: Unter anderem am Postomat, per Einzahlungsschein oder mit dem Kauf eines Guthabencodes am Kiosk im MM-Gebäude unter der Polyterrasse sowie im Bistro auf dem Campus Hönggerberg.",
   "named_entities": [
-    "Twint-App",
-    "Coop-Kassen",
-    "Campus Hönggerberg",
-    "Zum Start",
     "ETH",
-    "Hönggerberg",
-    "Polyterrasse"
+    "Campus Hönggerberg",
+    "Polyterrasse",
+    "NFC",
+    "MM"
   ],
   "topics": [
     "Infrastructure",
@@ -22,26 +20,21 @@
     "Catering & Food"
   ],
   "keywords": [
+    "Kassen",
+    "Beim",
+    "Bezahlt",
     "Campus",
+    "Campus hönggerberg",
     "Hönggerberg",
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Education"
+    "Künftig"
   ],
-  "summary": "Das lange Anstehen an den Kassen beim Mittagessen hat ein Ende: In den Gastronomiebetrieben der ETH kann künftig bargeldlos bezahlt werden. Mit der Twint-App von Postfinance müssen ETH-Angehörige nur noch das Smartphone zücken. Dank einer ETH-Schnittstelle können die Kassen der Caterer sogar automatisch erkennen, ob es sich beim Gast um einen Studierenden oder um einen Mitarbeitenden handelt – und so den korrekten Preis berechnen....",
+  "summary": "Danach kann das Konto auf verschiedenen Wegen aufgeladen werden: Unter anderem am Postomat, per Einzahlungsschein oder mit dem Kauf eines Guthabencodes am Kiosk im MM-Gebäude unter der Polyterrasse sowie im Bistro auf dem Campus Hönggerberg....",
   "content_structure": {
     "paragraph_count": 2,
     "bullet_points": 0,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 167,
@@ -62,30 +55,6 @@
       "avg_words_per_sentence": 16.7,
       "avg_word_length": 5.47,
       "long_word_percentage": 28.74
-    },
-    "citation_info": {
-      "doi": "",
-      "journal": "",
-      "authors": [
-        "Anstehen",
-        "Kassen",
-        "Mittagessen"
-      ]
-    },
-    "semantic_entities": {
-      "locations": [
-        "Guthaben",
-        "Ende"
-      ],
-      "departments": [],
-      "contact_info": {
-        "emails": [],
-        "websites": [],
-        "phones": [
-          "8000",
-          "2016"
-        ]
-      }
     }
   }
 }

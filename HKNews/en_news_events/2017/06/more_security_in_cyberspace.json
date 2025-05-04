@@ -5,16 +5,16 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Technology in the fight against cyberattacks: The WannaCry ransomware, Russian hackers, vote rigging – recently, cyberattacks on computer networks have made headlines, illustrating just how critical data and information security are for our society. ETH Zurich identified the importance of information security early and, around 15 years ago, it founded the Zurich Information Security & Privacy Center (ZISC), which organised the Cyber Risks Summit. The cross-industry work of the ZISC is more relevant than ever, as ETH President Lino Guzzella emphasised in his opening address: \"It's time for science, business and government to join forces in developing effective protection against the dangers of cyberspace.\" In addition to collaboration with industry, Lino Guzzella also highlighted the importance of fundamental research and appealed for greater investment in this area.\n\n\"Cars, phones and pacemakers: cyberattacks don't just target data, but everyday objects too,\" explained Srdjan Capkun, ETH Professor and Deputy Head of the Institute of Information Security, drawing attention to a lack of awareness about security. However, while the linking of objects presents a danger, it could also offer solutions for increased information security. By way of example, Capkun cited the Sound-Proof system, enables faster, more secure authentication through a check on the ambient sounds of two linked devices.\n\nSecurity and, above all, transparency are also at the centre of the new digital transmission technology blockchain. In his speech, Ari Juels, Professor at Cornell University in New York, compared communication via blockchain with a pinboard. Everything can be seen by everybody at all times, so it can also no longer be changed. This makes blockchain a highly versatile technology for transactions in the financial sector and for the drafting of smart contracts. However, Juels was also careful to highlight that blockchain technology is still in its infancy.\n\nÚlfar Erlingsson, Tech Lead Manager at Google Brain, discussed how Big Data can increase information security. He explained how the ability to collect large quantities of data – without infringing on privacy rights – could also open up new possibilities in the field of information security, allowing us to uncover as yet unknown dangers in cyberspace and to develop new solutions.\n\nJoint efforts for more cybersecurity: As a bridge to the panel discussion 'Switzerland – the world's first internet-secure country?', Adrian Perrig, Head of the Institute of Information Security at ETH, presented his new internet architecture, Scion. Among other applications, Scion prevents undesirable data redirection and is a good example of the collaboration between research and industry at ZISC . Perrig discussed the practical relevance of the research project with Andréa M. Maechler, Member of the Governing Board at the Swiss National Bank (SNB), Andreas Häberli, CTO of the dorma+kaba Group, and IT entrepreneur Franz Grüter.\n\nAt the beginning of the discussion, Maechler, who is currently running a pilot project with Scion at the SNB, emphasised: \"Information security is no luxury for the SNB – it is our top priority.\" This was echoed by Andreas Häberli: \"Our brand promise is trust. A cyberattack would be a nightmare for us.\" So it's no surprise that both the SNB and the dorma+kaba Group are following Perrig's research with interest. Currently there is no other internet architecture that focusses as strongly on security as Scion, explained Perrig. He believes that the implementation of Scion in Switzerland would require astonishingly few adjustments to the existing internet – and little cost: \"I estimate that around 1,000 routers would be required for a nationwide implementation of Scion at a cost of some 25 million francs,\" said the ETH researcher. National Councillor and IT entrepreneur Franz Grüter was similarly impressed by Scion: \"Scion is a real innovation that we need to pioneer on an international level.\"\n\nAll the panellists agreed that joint efforts from the government, business and science were necessary to combat cyber risks. Häberli also emphasised that the divide between industry and research had to be bridged, and that the economic viability of new technologies needed to be examined. This also applies to Scion. With Perrig and the ZISC, he was preaching to the converted: \"The exchange with industry and government is essential. Scion can only be successful as a new internet architecture if it is effective in practice.\"",
   "named_entities": [
+    "ZISC",
+    "SNB",
+    "ETH Zurich",
+    "Institute of Information Security",
+    "Andreas Häberli",
+    "Franz Grüter",
     "Zurich Information Security",
-    "Privacy Center",
     "Cyber Risks Summit",
     "President Lino Guzzella",
-    "Lino Guzzella",
-    "Srdjan Capkun",
-    "Deputy Head",
-    "Information Security",
-    "Sound-Proof",
-    "Ari Juels"
+    "Tech Lead Manager"
   ],
   "topics": [
     "Technology & Innovation",
@@ -25,26 +25,21 @@
     "Finance"
   ],
   "keywords": [
-    "ETH Zurich",
     "Security",
     "Scion",
     "Information",
+    "Information security",
     "Data",
     "Research",
-    "Technology"
+    "Blockchain"
   ],
-  "summary": "Technology in the fight against cyberattacks: The WannaCry ransomware, Russian hackers, vote rigging – recently, cyberattacks on computer networks have made headlines, illustrating just how critical data and information security are for our society. ETH Zurich identified the importance of information security early and, around 15 years ago, it founded the Zurich Information Security & Privacy Center (ZISC), which organised the Cyber Risks Summit....",
+  "summary": "He explained how the ability to collect large quantities of data – without infringing on privacy rights – could also open up new possibilities in the field of information security, allowing us to uncover as yet unknown dangers in cyberspace and to develop new solutions....",
   "content_structure": {
     "paragraph_count": 7,
     "bullet_points": 0,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 701,
@@ -66,34 +61,6 @@
       "avg_words_per_sentence": 21.91,
       "avg_word_length": 5.28,
       "long_word_percentage": 34.52
-    },
-    "citation_info": {
-      "doi": "",
-      "journal": "",
-      "authors": [
-        "Technology",
-        "The Wanna",
-        "Russian",
-        "Zurich"
-      ]
-    },
-    "semantic_entities": {
-      "locations": [
-        "New York",
-        "Google Brain",
-        "Scion",
-        "Cornell University",
-        "Switzerland"
-      ],
-      "departments": [
-        "Head of the",
-        "and Deputy Head of the"
-      ],
-      "contact_info": {
-        "emails": [],
-        "websites": [],
-        "phones": []
-      }
     }
   }
 }

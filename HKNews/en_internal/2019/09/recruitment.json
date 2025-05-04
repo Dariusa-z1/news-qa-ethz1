@@ -6,7 +6,7 @@
   "main_content": "Every year, around 1,000 positions are published on ETH Zurich’s job portal. These are now being created using the recruitment software softfactors, which offers recruiters a convenient way to create and publish job ads, and provides support with pre-selection and efficient applicant management.\n\nTo integrate and advertise published positions on ETH webpages, ETH departments have previously been able to use the job portal components in the web content management system AEM. Positions were filtered using a free text field, which occasionally led to problems displaying positions if the exact phrase was not used.\n\nThe AEM components have now been upgraded and the integration of positions simplified. When creating a position, the recruiter enters the five-digit identification number (Leitzahl) under which the future staff member will be employed. This means that when using the components, the positions can now be filtered by identification number when integrated into the website. In the standard component configuration, all open positions at ETH Zurich will be displayed. You can find detailed guidelines in the protected page AEM manual lock .\n\nWith this improvement, we would like to help ensure that all ETH departments can quickly and consistently publish their open positions on ETH webpages. This makes the appeal of ETH Zurich as an employer more visible and makes the application process easier for potential employees.",
   "named_entities": [
     "ETH Zurich",
-    "ETH"
+    "AEM"
   ],
   "topics": [
     "Staff",
@@ -15,26 +15,21 @@
     "University Administration"
   ],
   "keywords": [
-    "ETH Zurich",
     "Positions",
-    "Using",
-    "Which",
     "Components",
-    "Published",
-    "Portal"
+    "Using",
+    "Zurich",
+    "Departments",
+    "Filtered",
+    "Identification"
   ],
-  "summary": "Every year, around 1,000 positions are published on ETH Zurich’s job portal. These are now being created using the recruitment software softfactors, which offers recruiters a convenient way to create and publish job ads, and provides support with pre-selection and efficient applicant management....",
+  "summary": "To integrate and advertise published positions on ETH webpages, ETH departments have previously been able to use the job portal components in the web content management system AEM....",
   "content_structure": {
     "paragraph_count": 4,
     "bullet_points": 0,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 223,
@@ -55,15 +50,6 @@
       "avg_words_per_sentence": 20.27,
       "avg_word_length": 5.34,
       "long_word_percentage": 30.94
-    },
-    "semantic_entities": {
-      "locations": [],
-      "departments": [],
-      "contact_info": {
-        "emails": [],
-        "websites": [],
-        "phones": []
-      }
     }
   }
 }

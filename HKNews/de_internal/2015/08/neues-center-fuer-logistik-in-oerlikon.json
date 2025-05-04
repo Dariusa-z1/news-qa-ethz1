@@ -5,13 +5,12 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Der Umzug von 16 Mitarbeitenden in das Gebäude ONA in Oerlikon hat am 3. August 2015 begonnen. Bereits zwei Wochen später läuft die Verarbeitung und Lagerung sämtlicher Post- und Büromaterial-Sendungen der ETH-Standorte Zentrum und Hönggerberg über das neue Kompetenzzentrum für Logistikdienstleistungen.\n\nIn der Anfangsphase startet der Betrieb mit den Post- und Büromaterialdienstleistungen. Später soll ein Teil des Lagerraums inklusive Transportmöglichkeiten auch den Organisationseinheiten und Departementen zur Verfügung stehen. Ein solches Angebot fehlt der ETH bis heute.\n\nWährend der Umstellung werden die Post-Dienstleistungen im gewohnten Umfang weitergeführt. Für diverse ETH-Gebäude bringt die neue Postlogistik optimierte Liefer- und Abholzeiten. Auch das Büromaterialangebot bleibt im gleichen Umfang erhalten. Einzig beim Bezug gibt es Veränderungen. Mit der Inbetriebnahme des Logistikzentrums schliessen die zwei Schalter im Hauptgebäude (HG D 33) und auf dem Hönggerberg (HIL C 36) am 12. August 2015. Ab diesem Datum werden sämtliche Büromaterialbestellungen über den Web-Shop mit der internen Post geliefert. Die persönliche Bezugsmöglichkeit wird mit der Eröffnung der neuen Post-Standorte Anfang 2016 wieder möglich sein.",
   "named_entities": [
-    "Büromaterial-Sendungen",
-    "Standorte Zentrum",
-    "Post-Dienstleistungen",
-    "Web-Shop",
-    "Post-Standorte Anfang",
     "ETH",
-    "Hönggerberg"
+    "Hönggerberg",
+    "Standorte Zentrum",
+    "ONA",
+    "HG",
+    "HIL"
   ],
   "topics": [
     "Infrastructure",
@@ -20,26 +19,21 @@
     "Catering & Food"
   ],
   "keywords": [
+    "Post",
+    "August",
     "Hönggerberg",
-    "Building",
-    "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus"
+    "Neue",
+    "Später",
+    "Umfang",
+    "Zwei"
   ],
-  "summary": "Der Umzug von 16 Mitarbeitenden in das Gebäude ONA in Oerlikon hat am 3. August 2015 begonnen. Bereits zwei Wochen später läuft die Verarbeitung und Lagerung sämtlicher Post- und Büromaterial-Sendungen der ETH-Standorte Zentrum und Hönggerberg über das neue Kompetenzzentrum für Logistikdienstleistungen....",
+  "summary": "Bereits zwei Wochen später läuft die Verarbeitung und Lagerung sämtlicher Post- und Büromaterial-Sendungen der ETH-Standorte Zentrum und Hönggerberg über das neue Kompetenzzentrum für Logistikdienstleistungen....",
   "content_structure": {
     "paragraph_count": 3,
     "bullet_points": 0,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 171,
@@ -57,23 +51,6 @@
       "avg_words_per_sentence": 12.21,
       "avg_word_length": 6.15,
       "long_word_percentage": 32.75
-    },
-    "semantic_entities": {
-      "locations": [
-        "Oerlikon",
-        "Teil"
-      ],
-      "departments": [
-        "Transportmöglichkeiten auch den Organisationseinheiten und"
-      ],
-      "contact_info": {
-        "emails": [],
-        "websites": [],
-        "phones": [
-          "2015",
-          "2015"
-        ]
-      }
     }
   }
 }

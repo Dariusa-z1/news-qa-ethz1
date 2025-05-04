@@ -5,12 +5,13 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Combining human and artificial intelligence: Many scientific studies are currently underway to find ways of containing the spread of the coronavirus and COVID-19, the disease it causes. To read all of them and then quickly provide policy-makers with a comprehensive summary of all the useful information would be impossible.\n\nThe same applies to the myriad social media posts offering tips, tricks, facts and opinions on protection against COVID-19: nobody can collect and evaluate them in their entirety at a glance or the touch of a button. Artificial intelligence, however, may help to filter and examine the relevant information from large volumes of text and images. Similarly, the collective intelligence of people can assess text, audio and images quite effectively.\n\nFour research projects are currently pursuing a crowdsourcing approach that combines artificial intelligence with the “swarm intelligence” of internet users. The projects are publicly accessible on the website of the Citizen Science Center Zurich , a competence centre run jointly by ETH Zurich and the University of Zurich. All four are citizen science projects structured in a way that allows volunteers (citizens) to contribute.\n\nAI searches for relevant tweets, volunteers classify them.\n\nOne of the projects, for instance, combines crowdsourcing with machine learning to evaluate images published on Twitter that contain information on social distancing and the use of face masks in public. Machine learning algorithms first select the relevant tweets with photos.\n\nThe human contributors then confirm the relevance of each image by answering questions and using a selection menu to add the details that AI cannot capture. This process improves the algorithms and generates more precise information that provides insights into the effectiveness of social distancing and face masks.\n\nThe content of scientific articles is assigned to keywords.\n\nThe new Citizen Science Project Builder: Another project focuses on evaluating scientific articles to find and assess relevant information about political measures to contain COVID-19 and pass that information on to policy-makers. Again, artificial intelligence is used to support the search for relevant articles, while volunteers can improve the accuracy of the results by answering questions about their relevance and assigning keywords.\n\nThese projects are powered by the Citizen Science Project Builder , a web-based tool that allows researchers, students and interested members of the public to carry out a citizen science project.\n\nThe first version of the tool supports projects in which the contributors describe and classify large volumes of image and text data, such as satellite images and social media posts (e.g. tweets), PDF files (e.g. scientific articles), video clips and audio files (e.g. recorded sound). Its user interface is easy to use without any particular technological or programming skills.\n\nUse the Project Builder for your own projects: The Citizen Science Center team, which developed the Project Builder, encourages ETH members to use the tool to create their own projects . They also welcome feedback that helps them improve the tool. The team runs introductory workshops for anyone wishing to use the Project Builder.\n\nFor further information, see the Citizen Science Project Builder website. It currently contains 10 projects .",
   "named_entities": [
-    "Citizen Science Center Zurich",
+    "University of Zurich",
     "Citizen Science Project Builder",
-    "Project Builder",
     "ETH Zurich",
-    "ETH",
-    "University of Zurich"
+    "COVID",
+    "Citizen Science Center Zurich",
+    "AI",
+    "PDF"
   ],
   "topics": [
     "Research",
@@ -21,26 +22,21 @@
     "Infrastructure"
   ],
   "keywords": [
-    "ETH Zurich",
-    "University of Zurich",
     "Projects",
     "Project",
-    "Information",
     "Citizen",
-    "Science"
+    "Citizen science",
+    "Information",
+    "Science",
+    "Builder"
   ],
-  "summary": "Combining human and artificial intelligence: Many scientific studies are currently underway to find ways of containing the spread of the coronavirus and COVID-19, the disease it causes. To read all of them and then quickly provide policy-makers with a comprehensive summary of all the useful information would be impossible....",
+  "summary": "Use the Project Builder for your own projects: The Citizen Science Center team, which developed the Project Builder, encourages ETH members to use the tool to create their own projects ....",
   "content_structure": {
     "paragraph_count": 12,
     "bullet_points": 0,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 516,
@@ -62,23 +58,6 @@
       "avg_words_per_sentence": 17.2,
       "avg_word_length": 5.41,
       "long_word_percentage": 37.4
-    },
-    "citation_info": {
-      "doi": "",
-      "journal": "",
-      "authors": [
-        "Combining",
-        "Artificial"
-      ]
-    },
-    "semantic_entities": {
-      "locations": [],
-      "departments": [],
-      "contact_info": {
-        "emails": [],
-        "websites": [],
-        "phones": []
-      }
     }
   }
 }

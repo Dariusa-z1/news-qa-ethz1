@@ -1,20 +1,20 @@
 {
   "language": "en",
   "title": "Pulses For Particle Accelerators",
-  "date": "2040-01-35",
+  "date": "2017-05-01",
   "source": "ETH Zurich, University Communications",
   "main_content": "Several hundred acceleration stages: The most well-known use of high voltage pulses is in electric fences on farms. However, particle accelerators in large-scale research facilities such as CERN in Geneva also rely on high voltage pulse generators – but these produce pulses with much higher energies and voltages than those used in agricultural fences. Preparatory work is currently underway at CERN for the next large-scale research project from 2025. One of two potential projects is the construction of a 50-kilometre-long linear accelerator in a tunnel running from Nyon to the Rhone valley gorge near Bellegarde in France (CLIC project, see box). Researchers at ETH Zurich have developed a pulse generator required for this accelerator in the framework of a collaboration agreement with CERN. A few days ago, prototypes were delivered to CERN, where they will now be put through their paces.\n\nThe pulse generator, which occupies approximately three cubic metres, produces pulses of 180,000 volts from the 400-volt public power supply, which last exactly 140 millionths of a second. To ensure the public power supply is evenly loaded and is not disrupted by peak pulses, 8 large and nearly 200 small capacitors (temporary energy storage devices) within the pulse generator are continuously charged and discharged 50 times per second. A specially developed transformer ensures that the required output voltage is achieved as quickly and efficiently as possible.\n\nThe pulse generator in the ETH laboratory shortly before being transported to Geneva. (Photograph: ETH Zurich / Peter Rüegg)\n\nReal-time measurement for maximum efficiency: The potential future large-scale research project at CERN will include the acceleration of electrons and positrons (electron antiparticles). \"This acceleration will take place in a klystron, which relies on the high-voltage pulses supplied by the pulse generator,\" explains Jürgen Biela, Professor of High Power Electronic Systems at ETH Zurich. The 140 microsecond long pulses are used in the klystron to produce a very high frequency alternating field. Electrons or positrons are accelerated in this alternating field.\n\nIf the CLIC accelerator is built, over a thousand klystrons will be required to accelerate electrons and positrons in stages until they approach the speed of light. Each klystron would be powered by its own pulse generator.\n\nOne of the greatest challengers for the ETH researchers was to build the pulse generator in such a way that the pulses produced are all of equal length and equal magnitude with a relative tolerance of no more than one hundred thousandth. In addition to this, CERN specified that the voltage for each pulse should jump from 0 volts to 180,000 volts and back again extremely quickly. To achieve this, the device measures the current flow one hundred thousand times per second and controls it in real time.\n\n\"If the pulse jump were any slower, more unused power would be transmitted to the klystron, which would reduce the energy efficiency of the pulse generator,\" explains Sebastian Blume. During his doctoral research in Biela’s laboratory, he played a key role in the development of the pulse generator. The efficiency is therefore a central factor, as the equipment uses relatively high quantities of energy: the power of one pulse generator is more than one hundred times that of a washing machine or large vacuum cleaner.\n\nETH's Professor Biela has already played a key role in the development of pulse generators for SwissFEL, the synchrotron radiation source that began operations a few months ago at the Paul Scherrer Institute, as part of a joint project with the Swiss electrical engineering company Ampegon.\n\nLinear accelerator or larger ring accelerator?: It is anticipated that the LHC (Large Hadron Collider) particle accelerator at CERN will run until 2035 or 2040. Beyond this, discussions are currently focused on two possible large-scale research programmes that are in competition with one another. CERN is set to decide which to install within the next three years.\n\nThe CLIC (Compact Linear Collider) project uses a 50-kilometre-long tunnel to accelerate electrons from one end and positrons from the other to the middle of the tunnel where they collide with each other. Using this type of linear accelerator allows elementary particles such as the Higgs boson to be measured much more accurately than is currently possible with the LHC, or would be possible with the other future project under discussion, the FCC (Future Circular Collider).\n\nAn acceleration ring with a circumference of 80 to 100 kilometres is currently under discussion for the FCC project. By comparison, the LHC has a circumference of 27 kilometres. The collision energy in the FCC would be seven times greater than that achieved in the LHC. Compared to the CLIC project, this has the advantage that it would provide a better platform for the discovery of new fundamental effects and particles.",
   "named_entities": [
-    "Peter Rüegg",
-    "Jürgen Biela",
+    "CERN",
+    "CLIC",
+    "LHC",
+    "ETH Zurich",
+    "FCC",
     "High Power Electronic Systems",
-    "Sebastian Blume",
-    "Professor Biela",
     "Paul Scherrer Institute",
     "Large Hadron Collider",
     "Compact Linear Collider",
-    "Future Circular Collider",
-    "ETH Zurich"
+    "Future Circular Collider"
   ],
   "topics": [
     "Research",
@@ -24,26 +24,21 @@
     "Campus Life"
   ],
   "keywords": [
-    "ETH Zurich",
     "Pulse",
     "Generator",
+    "Pulse generator",
     "Cern",
     "Project",
-    "Pulses",
-    "Accelerator"
+    "Accelerator",
+    "Pulses"
   ],
-  "summary": "Several hundred acceleration stages: The most well-known use of high voltage pulses is in electric fences on farms. However, particle accelerators in large-scale research facilities such as CERN in Geneva also rely on high voltage pulse generators – but these produce pulses with much higher energies and voltages than those used in agricultural fences....",
+  "summary": "The efficiency is therefore a central factor, as the equipment uses relatively high quantities of energy: the power of one pulse generator is more than one hundred times that of a washing machine or large vacuum cleaner....",
   "content_structure": {
     "paragraph_count": 11,
     "bullet_points": 0,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 801,
@@ -64,35 +59,6 @@
       "avg_words_per_sentence": 24.27,
       "avg_word_length": 5.09,
       "long_word_percentage": 28.09
-    },
-    "citation_info": {
-      "doi": "",
-      "journal": "",
-      "authors": [
-        "Several",
-        "However",
-        "Geneva",
-        "Preparatory"
-      ]
-    },
-    "semantic_entities": {
-      "locations": [
-        "Biela",
-        "France",
-        "Geneva",
-        "Nyon"
-      ],
-      "departments": [
-        "ago at the Paul Scherrer"
-      ],
-      "contact_info": {
-        "emails": [],
-        "websites": [],
-        "phones": [
-          "2025",
-          "2035"
-        ]
-      }
     }
   }
 }

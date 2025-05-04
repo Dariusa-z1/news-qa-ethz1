@@ -5,10 +5,11 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "The Campus Info points at ETH Zurich are a central resource for visitors, staff and students of ETH Zurich, providing information and services such as giving directions, selling tickets and even arranging car rental. The Campus Info points in the main building can be found at reception in the main hall and in the service area on D floor (HG D 34). The Campus Info point on the Hönggerberg campus is in the HIL building in room D 25.9.\n\nAn open day will be held on Wednesday, 23 March, with six locations where visitors can learn about the Campus Info service, including the dynamic, new electronic mailbox systems and the historic vaulted roof above the Campus Info point on the Zentrum campus. The event will run from 8 a.m. to 4 p.m.",
   "named_entities": [
-    "Campus Info",
     "ETH Zurich",
-    "ETH",
-    "Hönggerberg"
+    "Hönggerberg",
+    "Campus Info",
+    "HG",
+    "HIL"
   ],
   "topics": [
     "Campus Life",
@@ -19,26 +20,21 @@
     "Communication"
   ],
   "keywords": [
-    "ETH Zurich",
     "Hönggerberg Campus",
     "Campus",
+    "Campus info",
     "Info",
-    "Points",
-    "Zurich",
-    "Visitors"
+    "Building",
+    "Info point",
+    "Info points"
   ],
-  "summary": "The Campus Info points at ETH Zurich are a central resource for visitors, staff and students of ETH Zurich, providing information and services such as giving directions, selling tickets and even arranging car rental. The Campus Info points in the main building can be found at reception in the main hall and in the service area on D floor (HG D 34)....",
+  "summary": "An open day will be held on Wednesday, 23 March, with six locations where visitors can learn about the Campus Info service, including the dynamic, new electronic mailbox systems and the historic vaulted roof above the Campus Info point on the Zentrum campus....",
   "content_structure": {
     "paragraph_count": 2,
     "bullet_points": 0,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 135,
@@ -58,15 +54,6 @@
       "avg_words_per_sentence": 15.0,
       "avg_word_length": 4.35,
       "long_word_percentage": 20.74
-    },
-    "semantic_entities": {
-      "locations": [],
-      "departments": [],
-      "contact_info": {
-        "emails": [],
-        "websites": [],
-        "phones": []
-      }
     }
   }
 }

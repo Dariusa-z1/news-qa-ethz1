@@ -1,20 +1,20 @@
 {
   "language": "en",
   "title": "Both ultrasound for medical imaging and seismology for imaging the Earth's interior measure the propagation of waves through matter. For example, when seismic waves encounter material differences in the Earth's interior, such as between different rock formations, they are reflected and refracted at their interfaces. As a result, the speed of the waves changes. If researchers measure these waves at the surface, they can draw conclusions about the structure of the Earth's interior, as well as the composition of the rocks and their material properties such as density, pressure or temperature.",
-  "date": "1000-01-00",
+  "date": "2022-07-01",
   "source": "ETH Zurich, University Communications",
   "main_content": "Main article: Both ultrasound for medical imaging and seismology for imaging the Earth's interior measure the propagation of waves through matter. For example, when seismic waves encounter material differences in the Earth's interior, such as between different rock formations, they are reflected and refracted at their interfaces. As a result, the speed of the waves changes. If researchers measure these waves at the surface, they can draw conclusions about the structure of the Earth's interior, as well as the composition of the rocks and their material properties such as density, pressure or temperature.\n\nWith the help of sophisticated algorithms and high-performance computers such as \"Piz Daint\" at CSCS, researchers like ETH Zurich’s Andreas Fichtner, professor at the Institute of Geophysics and head of the Seismology and Wave Physics Group, can use this wave data to characterise the three-dimensional structure of the Earth. The parallels to propagation between ultrasound and earthquake waves, as well as the team's know-how in the field of wave physics—how the information that waves carry can be used and converted into images—led the ETH professor and his group to also study wave propagation for medical ultrasound.\n\nThus, about 6 years ago, the research group worked with physicians to successfully develop ultrasound methods for the early detection of breast cancer. The team is now investigating how the brain can be examined with ultrasound. With this method, the researchers and doctors could one day monitor stroke patients or identify brain tumors, for example.\n\nNon-invasive and cost-effective examination: Compared to computed tomography (CT) or X-rays, ultrasound has a decisive advantage: the procedure is almost entirely harmless to the body. Moreover, it is much more cost-effective than magnetic resonance imaging (MRI), for example, and the ultrasound devices are transportable for use in remote regions. The problem, however, is that ultrasound has so far only worked well for soft tissues—it is very difficult to get ultrasound waves through hard structures such as the skull, because bone strongly reflects and dampens the waves.\n\nPatrick Marty, PhD student in Fichtner’s group, is now developing in his doctoral thesis a method to overcome this challenge with the support of Christian Böhm, senior scientist in the Seismology and Wave Physics Group. This method should provide the basis for imaging the brain with ultrasound in high resolution, according to the scientists.\n\nTo simulate the propagation of waves through the brain, the researchers are developing algorithms which perform many calculations over a special grid known as a “mesh”. At the heart of this is a software package called Salvus. Developed at ETH Zurich with the support of CSCS, Salvus models the propagation of the complete wave field (full-waveform) over spatial scales ranging from a few millimeters to thousands of kilometers. ETH seismologists use this software to simulate seismic waves, for example to explore the interior of the Earth or Mars, and now also for medical imaging. The software package uses the spectral element method (SEM), which is particularly well suited for simulating wave propagation in media with high-contrast material transitions—like soft brain tissue and bone.\n\n\"Unlike conventional ultrasound, which only uses the arrival time of the waves, we use the entire wave information in our simulations,\" says Marty. This means that the shape, frequency, velocity, and amplitude of the wave at every point of its propagation flow into the calculations.\n\nLearning on a magnetic resonance imaging scanner: For their model, the researchers first use a MRI of the brain as a reference. Then, on the \"Piz Daint\" supercomputer, they perform calculations with different parameters until the simulated image matches that of the MRI.\n\nWith this method, they obtain a quantitative image instead of the less informative greyscale image common to conventional ultrasound. By using all the information from the complete wave field, the researchers can correctly map the physical properties of the medium—the speed at which ultrasound waves propagate through the tissue, their damping properties, and the density of the tissue—at every point in the brain. This ultimately makes it possible to determine the tissue type and distinguish whether it is a brain mass or tumor tissue, for example, since the density, attenuation, or speed of sound associated with the different types of tissues are known from laboratory experiments.\n\nThe researchers are convinced that this method can be used to distinguish healthy tissue from diseased tissue while being both non-invasive and cost-effectively. Specifically, this method could be fed into a computer that is integrated into an ultrasound device specially developed for this purpose. The computer would perform a series of calculations using the ultrasound signals recorded by sensors, and the result would be a 3D image of the brain being examined. However, the researchers emphasise that there is still a long way to go until this can enter clinical practice.\n\nA particular remaining challenge is the complex geometry of the skull, due to eye, nose and jaw cavities etc., which must be modelled precisely in the simulation without dramatically increasing the computation time. To solve this problem, Marty is developing methods that create individual numerical meshes for arbitrary skull shapes out of hexahedra (small elements that have six faces). \"With these deformed little cubes, we are 100 to 1000 times faster than if we were working with tetrahedra,\" says Böhm. \"In addition, the project benefits greatly from new developments in graphics cards, like the ones we have in 'Piz Daint' and, in the future, in 'Alps'. They are ideal for this method.\"\n\nThe researchers are continuing to work together with physicians at the university hospital of the University Zürich to further develop these techniques. If Marty succeeds during the next three years of his doctoral thesis in further developing the procedures for meshing and imaging the brain, these same methods may be transferable to other parts of the body, such as knees or elbows. This would serve as a promising basis for developing a corresponding ultrasound device.\n\nThis text by Simone Ulmer first appeared in English on the CSCS website .\n\nReferences: Marty P, Boehm C, Paverd C, Rominger M, & Fichtner A (2022). Full-waveform ultrasound modeling of soft tissue-bone interactions using conforming hexahedral meshes. Medical Imaging 2022: Physics of Medical Imaging, 12031, 877–891.\n\nMarty P, Boehm C, & Fichtner A (2021, December 13). Full-Waveform Inversion of Geological Structures in the Human Brain . AGU Fall Meeting, New Orleans, LA.",
   "named_entities": [
+    "ETH Zurich",
     "Piz Daint",
-    "Andreas Fichtner",
     "Wave Physics Group",
-    "Patrick Marty",
-    "Christian Böhm",
-    "University Zürich",
-    "If Marty",
-    "Simone Ulmer",
+    "CSCS",
+    "MRI",
     "Medical Imaging",
-    "Full-Waveform Inversion"
+    "Institute of Geophysics",
+    "Andreas Fichtner",
+    "Patrick Marty",
+    "Christian Böhm"
   ],
   "topics": [
     "Research",
@@ -25,26 +25,21 @@
     "Staff"
   ],
   "keywords": [
-    "ETH Zurich",
     "Ultrasound",
     "Waves",
     "Brain",
     "Wave",
     "Imaging",
-    "Researchers"
+    "Researchers",
+    "Method"
   ],
-  "summary": "Main article: Both ultrasound for medical imaging and seismology for imaging the Earth's interior measure the propagation of waves through matter. For example, when seismic waves encounter material differences in the Earth's interior, such as between different rock formations, they are reflected and refracted at their interfaces....",
+  "summary": "The parallels to propagation between ultrasound and earthquake waves, as well as the team's know-how in the field of wave physics—how the information that waves carry can be used and converted into images—led the ETH professor and his group to also study wave propagation for medical ultrasound....",
   "content_structure": {
     "paragraph_count": 15,
     "bullet_points": 0,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 1075,
@@ -66,36 +61,6 @@
       "avg_words_per_sentence": 23.37,
       "avg_word_length": 5.14,
       "long_word_percentage": 30.7
-    },
-    "citation_info": {
-      "doi": "",
-      "journal": "",
-      "authors": []
-    },
-    "temporal_info": {
-      "event_dates": [],
-      "time_references": [
-        "00 to 10",
-        "77–89"
-      ],
-      "event_names": []
-    },
-    "semantic_entities": {
-      "locations": [
-        "English",
-        "Fichtner"
-      ],
-      "departments": [
-        "professor at the"
-      ],
-      "contact_info": {
-        "emails": [],
-        "websites": [],
-        "phones": [
-          "1000",
-          "2022"
-        ]
-      }
     }
   }
 }

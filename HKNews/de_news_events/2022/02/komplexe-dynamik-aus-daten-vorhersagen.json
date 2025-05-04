@@ -5,6 +5,8 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Die Grenzen des statischen Maschinenlernens: Physikalische Systeme zu modellieren, die sich dynamisch entwickeln, ist ein zentraler Bestandteil von Wissenschaft und Technik. Ingenieur:innen müssen wissen, wie die Flügel eines neuen Flugzeugmodells unter bestimmten Flugbedingungen vibrieren, und Klimaforschende versuchen vorherzusagen, wie sich globale Temperaturen und Wettermuster in der Zukunft entwickeln. Das sind schwierige Aufgaben, denn die zugrundeliegenden Systeme verhalten sich ihrer Natur nach nicht linear. Das bedeutet beispielsweise, dass ein Flugzeugflügel sich nicht doppelt so weit biegt, wenn man eine doppelt so grosse Kraft auf ihn ausübt (er könnte sich entweder stärker oder auch weniger stark biegen).\n\nWissenschaftler:innen sind in der Lage, solche nichtlinearen dynamischen Systeme zu modellieren, indem sie entweder lineare Näherungen machen oder aber bestimmte nichtlineare Gleichungen annehmen und dann das Modell den beobachteten Daten anpassen. Beide Ansätze führen allerdings zu Modellen, die oftmals nur über einen begrenzten Bereich der Bewegungen des Systems gültig sind. Eine Gruppe von Wissenschaftler:innen unter der Leitung von George Haller, Professor für nichtlineare Dynamik an der ETH Zürich hat nun gemeinsam mit Forschenden der Universität Bremen einen neuen Weg gefunden, um Computer dazu zu bringen, direkt aus experimentellen Daten nichtlineare dynamische Modelle herzuleiten, die deutlich genauere Vorhersagen machen können also frühere Algorithmen.\n\nIn den letzten Jahren haben Forschende enorme Fortschritte dabei gemacht, Computern beizubringen, wie man Muster, Gesichter und sogar menschliche Sprache erkennt. «Das sind unglaubliche Errungenschaften», sagt Haller, «aber solche Ansätze des maschinellen Lernens wurden für Probleme erdacht, die im Wesentlichen statisch sind. Im Gegensatz dazu ist es deutlich schwieriger, Computer dazu zu bringen, das Verhalten dynamischer Systeme zu lernen, selbst wenn sie so augenscheinlich simpel sind wie Wasser, das in einem Becken schwappt.» Ein vollständiges physikalisches Modell für schwappendes Waser müsste nicht nur den gesamten Flüssigkeitsfluss beinhalten, sondern auch andere Phänomene wie das Brechen von Wellen auf der Oberfläche. Herkömmliche Simulationen, die all dies berücksichtigen, sind selbst auf modernen Supercomputern äusserst zeitaufwendig.\n\n«Unser neuer Ansatz beruht auf der Einsicht, dass man nicht alle Details der Dynamik wiedergeben muss, sondern nur ihre Schlüsselelemente», sagt Mattia Cenedese, Postdoktorand in Hallers Gruppe und Erstautor der soeben im Fachjournal externe Seite Nature Communications veröffentlichten Studie.\n\nUm beim Vergleich mit der Gesichtserkennung zu bleiben: Anstatt sich die Details eines menschlichen Gesichts bis hin zu kleinen Fältchen oder gar einzelnen Poren in der Haut anzusehen, betrachtet der Computeralgorithmus der ETH-Forschenden das grosse Ganze – etwa die allgemeine Form der Augen und der Nase. Auf dynamische Systeme angewandt entspricht dies zum Beispiel der Suche nach Kombinationen aus Position und Geschwindigkeit eines Teils des Systems und nicht etwa bestimmten Verläufen unter speziellen Umständen. Dies hat zur Folge, dass die Rechenzeit von mehreren Stunden oder gar Tagen auf wenige Minuten verkürzt werden kann.\n\nUm die Stärke ihres Algorithmus zu demonstrieren, benutzten Haller und seine Mitarbeitenden die Ergebnisse eines Wasserbecken-Experiments, das ihre deutschen Kollegen durchgeführt hatten. In diesem Experiment wurde ein mit Wasser gefülltes Becken zunächst hin und her geschüttelt, bis das Wasser begann, periodisch zu schwappen. Das Schütteln des Beckens wurde plötzlich gestoppt und das Wasser gefilmt, während das Schwappen langsam nachliess. Aus diesen Aufnahmen wurde die Bewegung des Massenzentrums des Wassers errechnet und in einen Computer gespeist. Der Algorithmus stellte dann ein einfaches, aber dennoch nichtlineares, mathematisches Modell auf, welches das beobachtete Schwappen genau erfasste.\n\nWackelnde Flügel und Kipppunkte: «Von einem guten Modell erwarten wir, dass es die Dynamik nicht nur unter den während des experimentellen Trainings vorherrschenden Bedingungen vorhersagen kann, sondern auch unter völlig anderen Bedingungen», erklärt Haller. Und genau das schaffte das Modell. In einer zweiten Reihe von Experimenten dauerte das rhythmische Schütteln des Beckens an, während das Wasser gefilmt wurde, was zu einer wesentlich anderen Dynamik des Schwappens führte. Das mathematische Modell sagte die daraus resultierende Bewegung des Wassers für verschiedene Schüttelfrequenzen präzise vorher, obwohl es ein solches Experiment nie zuvor gesehen hatte.\n\nHaller und seine Gruppe haben ihren Ansatz auch auf andere Systeme angewandt, wie zum Beispiel die simulierten Schwingungen eines Flugzeugflügels und das Fliessen einer zähen Flüssigkeit zwischen zwei sich bewegenden Oberflächen. Ihr Computerprogramm ist offen verfügbar. «Wir möchten, dass die Forschungsgemeinde unseren Ansatz auf ihre eigenen Probleme anwenden kann, und wollen damit zu einem besseren Verständnis von dynamischen Systemen beitragen, die in der Praxis vorkommen», sagt Haller und fügt hinzu: «Viele ungelöste physikalische Probleme, die für die Menschheit von Interesse sind, beinhalten nichtlineare Dynamik, und auf blossem Maschinenlernen beruhende Black-Box-Methoden funktionieren bei denen einfach nicht gut».\n\nUm solche Probleme anzugehen, so betont er, braucht es mathematisches Verständnis wie jenes, das in dem neuen Algorithmus benutzt wird und nur von Menschen geschaffen werden kann. Er hofft, dass dieser Ansatz es Forschenden in Zukunft erlaubt, dynamische Probleme zu lösen, bei denen so genannte Kipppunkte eine Rolle spielen, die dazu führen, dass ein dynamisches System sein Verhalten plötzlich und drastisch ändert. Beispiele für solche Probleme sind das Entstehen von Turbulenz, die beim Entwerfen von Flugzeugen und in vielen anderen Anwendungen eine Rolle spielt, sowie Entwicklungspunkte im Erdklima, bei denen es kein Zurück mehr gibt.\n\nLiteraturhinweis: Cenedese M, Axås J, Bäuerlein, Avila K, Haller G: Data-driven modeling and prediction of non-linearizable dynamics via spectral submanifolds, Nature Communication, 15. Februar 2022, doi: externe Seite 10.1038/s41467-022-28518-y",
   "named_entities": [
+    "ETH Zürich",
+    "Seite Nature Communications",
     "Physikalische Systeme",
     "Beide Ansätze",
     "George Haller",
@@ -12,9 +14,7 @@
     "Im Gegensatz",
     "Herkömmliche Simulationen",
     "Mattia Cenedese",
-    "Hallers Gruppe",
-    "Seite Nature Communications",
-    "Wasserbecken-Experiments"
+    "Hallers Gruppe"
   ],
   "topics": [
     "Technology & Innovation",
@@ -26,24 +26,20 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
-    "Research",
-    "Science",
-    "Campus",
-    "Education"
+    "Haller",
+    "Modell",
+    "Probleme",
+    "Systeme",
+    "Dynamik",
+    "Wasser"
   ],
-  "summary": "Die Grenzen des statischen Maschinenlernens: Physikalische Systeme zu modellieren, die sich dynamisch entwickeln, ist ein zentraler Bestandteil von Wissenschaft und Technik. Ingenieur:innen müssen wissen, wie die Flügel eines neuen Flugzeugmodells unter bestimmten Flugbedingungen vibrieren, und Klimaforschende versuchen vorherzusagen, wie sich globale Temperaturen und Wettermuster in der Zukunft entwickeln....",
+  "summary": "«Wir möchten, dass die Forschungsgemeinde unseren Ansatz auf ihre eigenen Probleme anwenden kann, und wollen damit zu einem besseren Verständnis von dynamischen Systemen beitragen, die in der Praxis vorkommen», sagt Haller und fügt hinzu: «Viele ungelöste physikalische Probleme, die für die Menschheit von Interesse sind, beinhalten nichtlineare Dynamik, und auf blossem Maschinenlernen beruhende Black-Box-Methoden funktionieren bei denen einfach nicht gut»....",
   "content_structure": {
     "paragraph_count": 10,
     "bullet_points": 0,
     "numbered_items": 0,
     "headings": 0,
-    "quotes": 0,
-    "formatting": {
-      "bold_text": 0,
-      "italic_text": 0,
-      "links": 0
-    }
+    "links": 0
   },
   "rich_metadata": {
     "document_length_words": 858,
@@ -67,35 +63,6 @@
       "avg_words_per_sentence": 25.24,
       "avg_word_length": 6.18,
       "long_word_percentage": 39.04
-    },
-    "citation_info": {
-      "doi": "",
-      "journal": "Hallers Gruppe und Erstautor der soeben im Fachjournal externe Seite Nature Communications veröffentlichten Studie",
-      "authors": [
-        "Die Grenzen",
-        "Maschinenlernens",
-        "Physikalische Systeme",
-        "Bestandteil",
-        "Wissenschaft"
-      ]
-    },
-    "semantic_entities": {
-      "locations": [
-        "Zurück",
-        "Flugzeugflügel",
-        "Zukunft",
-        "Hallers Gruppe",
-        "Verhalten"
-      ],
-      "departments": [],
-      "contact_info": {
-        "emails": [],
-        "websites": [],
-        "phones": [
-          "2022",
-          "1038"
-        ]
-      }
     }
   }
 }
