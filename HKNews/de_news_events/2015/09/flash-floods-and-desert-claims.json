@@ -30,17 +30,27 @@
     "Studio",
     "Desert",
     "Students",
-    "With",
-    "Design"
+    "Design",
+    "Floods"
   ],
-  "summary": "",
+  "summary": "Studio problem set: The recent Landscape Architecture Design Studio led by Professor Christophe Girot was proposed as an introduction to “desert design”, an emerging specialist area in architecture and related fields where the architecture of the landscape will come to play a vital role in its evolution....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 534,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,34 @@
       "Technology",
       "Research",
       "Weather"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 28.11,
+      "avg_word_length": 5.66,
+      "long_word_percentage": 37.08
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Studio",
+        "Landscape Architecture Design Studio",
+        "Professor Christophe Girot"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "October",
+        "Delft",
+        "September",
+        "Arizona"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -7,14 +7,14 @@
   "named_entities": [
     "Autumn Semester",
     "Vice President Ulrich Weidmann",
-    "The Master Plan",
     "Master Plan",
     "Coronavirus Directive",
     "Spring Semester",
     "Ulrich Weidmann",
     "Main Building",
     "Student Exchange Office",
-    "The Autumn Semester"
+    "Vice President",
+    "Rector Sarah Springman"
   ],
   "topics": [
     "Education",
@@ -30,17 +30,27 @@
     "Will",
     "Must",
     "Semester",
-    "With",
-    "When"
+    "Possible",
+    "Risk"
   ],
-  "summary": "Minimising risk by wearing facemasks: When the new semester kicks off in September, more of us – and many different groups of people – will come together on ETH campuses....",
+  "summary": "Minimising risk by wearing facemasks: When the new semester kicks off in September, more of us – and many different groups of people – will come together on ETH campuses. Our students will return, and more staff will be back in their offices. In addition, ETH buildings will be fully open to the public again....",
+  "content_structure": {
+    "paragraph_count": 20,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1527,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff",
@@ -53,6 +63,36 @@
       "COVID-19",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.58,
+      "avg_word_length": 5.04,
+      "long_word_percentage": 29.01
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "5 to 10"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "German",
+        "Switzerland",
+        "Building",
+        "Europe",
+        "September"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020",
+          "2020"
+        ]
+      }
+    }
   }
 }

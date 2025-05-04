@@ -7,9 +7,6 @@
   "named_entities": [
     "Open Data",
     "Data Management Plan",
-    "Grantees",
-    "Innovation",
-    "Bibliothek",
     "ETH"
   ],
   "topics": [
@@ -26,14 +23,24 @@
     "Provide",
     "Management"
   ],
-  "summary": "Grantees will be required to ensure open access to the data underlying their scientific publications. Furthermore, they need to provide open access to any research data of their choice....",
+  "summary": "Grantees will be required to ensure open access to the data underlying their scientific publications. Furthermore, they need to provide open access to any research data of their choice. Opting out of open data will remain possible....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 86,
     "readability_score": "easy to read",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "Administration",
@@ -43,6 +50,30 @@
       "Research",
       "Administrative",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.33,
+      "avg_word_length": 4.58,
+      "long_word_percentage": 19.77
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Grantees",
+        "Furthermore",
+        "Opting",
+        "Open Data"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -8,13 +8,8 @@
     "Effy Vayena",
     "National Health Service",
     "Translational Medicine",
-    "News",
-    "Switzerland",
-    "January",
-    "Norway",
-    "Google",
-    "DeepMind",
-    "Firstly"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -26,21 +21,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
     "Data",
     "Health",
     "Need",
     "Trust",
-    "Have"
+    "Have",
+    "Medicine"
   ],
-  "summary": "ETH News: Switzerland is hoping to set up a national database infrastructure for personalised medicine over the next four years. Are we ready to take that step?...",
+  "summary": "ETH News: Switzerland is hoping to set up a national database infrastructure for personalised medicine over the next four years. Are we ready to take that step? Effy Vayena: I would say we’re getting ready....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1230,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -53,6 +58,33 @@
       "Catering",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.62,
+      "avg_word_length": 4.74,
+      "long_word_percentage": 23.09
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Switzerland",
+        "Effy Vayena"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland",
+        "January"
+      ],
+      "departments": [
+        "Professor of Bioethics at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

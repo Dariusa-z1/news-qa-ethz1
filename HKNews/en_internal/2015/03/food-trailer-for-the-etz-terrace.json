@@ -1,17 +1,12 @@
 {
   "language": "en",
   "title": "Starting in May 2015, an extensive programme of demolition, construction and renovation work will be taking place on the VAW building and parts of the ETZ building on Gloriastrasse on ETH Zurich’s Zentrum campus. Because of this, the Gloriabar will be closing on 2 April. The work is scheduled to last until around 2020.",
-  "date": "2015-03-01",
+  "date": "2000-11-01",
   "source": "ETH Zurich, University Communications",
   "main_content": "Starting in May 2015, an extensive programme of demolition, construction and renovation work will be taking place on the VAW building and parts of the ETZ building on Gloriastrasse on ETH Zurich’s Zentrum campus. Because of this, the Gloriabar will be closing on 2 April. The work is scheduled to last until around 2020.\n\nAs a temporary alternative to the Gloriabar, the SV catering team will be offering a range of refreshments from a new, silver-coloured food trailer on the ETZ terrace. From 20 April, a selection of warm dishes, grilled sausages, take-away salads, snacks and drinks will be served on weekdays between 11.00 a.m. and 2.00 p.m. Indoor and outdoor seating will also be available.\n\nThe ETZ kiosk will also continue to sell speciality coffees, tea, cold drinks and sweet and savoury snacks on weekdays from 7.30 a.m. to 4.00 p.m.",
   "named_entities": [
-    "Starting",
-    "Gloriastrasse",
-    "Zurich",
-    "Zentrum",
-    "Gloriabar",
-    "April",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Infrastructure",
@@ -22,20 +17,30 @@
   "keywords": [
     "ETH Zurich",
     "Will",
-    "From",
     "Work",
     "Building",
     "Gloriabar",
-    "April"
+    "April",
+    "Snacks"
   ],
-  "summary": "",
+  "summary": "Starting in May 2015, an extensive programme of demolition, construction and renovation work will be taking place on the VAW building and parts of the ETZ building on Gloriastrasse on ETH Zurich’s Zentrum campus. Because of this, the Gloriabar will be closing on 2 April....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 153,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -44,6 +49,23 @@
       "Catering",
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 9.0,
+      "avg_word_length": 4.39,
+      "long_word_percentage": 23.53
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "2020"
+        ]
+      }
+    }
   }
 }

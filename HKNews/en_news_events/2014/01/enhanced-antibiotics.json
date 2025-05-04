@@ -14,7 +14,7 @@
     "Molecular Biology",
     "United Kingdom",
     "Noble Prize",
-    "The World Health Organization"
+    "Thomas Müller"
   ],
   "topics": [
     "Research",
@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "University of Zurich",
-    "That",
     "Antibiotics",
     "Group",
-    "This",
-    "Aminoglycosides"
+    "Aminoglycosides",
+    "More",
+    "Research"
   ],
-  "summary": "Antibiotic is more selective: More and more bacteria prove to be resistant to antibiotics....",
+  "summary": "Antibiotic is more selective: More and more bacteria prove to be resistant to antibiotics. The search for new active substances proves to be difficult and resorting to earlier generations of antibiotics that are now hardly used is often not an option due to their often serious side effects....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 653,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -53,6 +63,36 @@
       "Technology",
       "Research",
       "Administrative"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.77,
+      "avg_word_length": 5.33,
+      "long_word_percentage": 32.77
+    },
+    "citation_info": {
+      "doi": "10.1038/ncomms4112",
+      "journal": "",
+      "authors": [
+        "Antibiotic",
+        "Andrea Vasella",
+        "Professor Emeritus"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Cambridge"
+      ],
+      "departments": [
+        "Professor at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2009",
+          "1940"
+        ]
+      }
+    }
   }
 }

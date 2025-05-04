@@ -1,20 +1,14 @@
 {
   "language": "de",
   "title": "Alle Angehörigen der ETH Zürich können sich impfen lassen. Für die ETH-Mitarbeitenden und Studierenden ist die Impfung gratis. Die Impfung ist freiwillig.",
-  "date": "2016-09-01",
+  "date": "2030-08-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Alle Angehörigen der ETH Zürich können sich impfen lassen. Für die ETH-Mitarbeitenden und Studierenden ist die Impfung gratis. Die Impfung ist freiwillig.\n\nAnmeldung erforderlich Die Anmeldung zur Grippeimpfung ist unbedingt erforderlich. Das Anmeldeportal steht online zur Verfügung (Log-in nur für ETH-Angehörige möglich) und ist ab sofort auf der .\n\nETH Zürich, Zentrum, GEP Pavillon 20. Oktober 2016, 08.30–11.30 Uhr 15. November 2016, 08.30–11.30 Uhr ETH Zürich, Hönggerberg, Gebäude HIT, E 51 25. Oktober 2016, 13.30–16.30 Uhr 24. November 2016, 08.30–11.30 Uhr\n\nETH Zürich, D-BSSE, Basel 17. Oktober 2016, 15.00–17.00 Uhr",
   "named_entities": [
     "Alle Angehörigen",
-    "Die Impfung",
-    "Die Anmeldung",
-    "Das Anmeldeportal",
-    "Zürich",
-    "Mitarbeitenden",
-    "Studierenden",
-    "Grippeimpfung",
-    "Verfügung",
-    "Zentrum"
+    "ETH Zürich",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Infrastructure",
@@ -32,13 +26,23 @@
     "Education"
   ],
   "summary": "Alle Angehörigen der ETH Zürich können sich impfen lassen. Für die ETH-Mitarbeitenden und Studierenden ist die Impfung gratis. Die Impfung ist freiwillig....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 108,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff"
@@ -47,6 +51,33 @@
       "Infrastructure",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 5.14,
+      "avg_word_length": 4.56,
+      "long_word_percentage": 23.15
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Alle Angehörigen",
+        "Zürich",
+        "Mitarbeitenden",
+        "Studierenden"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016",
+          "2016"
+        ]
+      }
+    }
   }
 }

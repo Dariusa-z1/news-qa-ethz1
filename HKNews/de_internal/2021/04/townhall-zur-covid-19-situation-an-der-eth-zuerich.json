@@ -9,12 +9,12 @@
     "Covid-Massnahmen",
     "Rektorin Sarah Springman",
     "Taskforce-Leiter Ulrich Weidmann",
-    "Der Plan",
-    "Die Home-Office-Pflicht",
     "Diese Tatsache",
     "Julia Dannath",
-    "Ein Novum",
-    "Covid-Teststation"
+    "Covid-Teststation",
+    "Jörg Goldhahn",
+    "Translationale Medizin",
+    "Selecta-Automaten"
   ],
   "topics": [
     "COVID-19",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Angeregte Frage- und Antwortrunde: 1200 ETH-Angehörige haben sich am Mittwoch in die Townhall zu den aktuellen Covid-Massnahmen der ETH Zürich zugeschaltet....",
+  "summary": "Angeregte Frage- und Antwortrunde: 1200 ETH-Angehörige haben sich am Mittwoch in die Townhall zu den aktuellen Covid-Massnahmen der ETH Zürich zugeschaltet. Fokus der Veranstaltung waren der Ausblick auf den kommenden Masterplan sowie die neue Testmöglichkeit auf dem Campus....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 347,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff"
@@ -49,6 +59,40 @@
       "Infrastructure",
       "Research",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.35,
+      "avg_word_length": 5.87,
+      "long_word_percentage": 34.01
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Angeregte Frage",
+        "Antwortrunde",
+        "Angehörige",
+        "Mittwoch",
+        "Townhall"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Novum",
+        "Sarah Springman",
+        "Kraft",
+        "Zusammenhang"
+      ],
+      "departments": [
+        "Leiter des"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1200"
+        ]
+      }
+    }
   }
 }

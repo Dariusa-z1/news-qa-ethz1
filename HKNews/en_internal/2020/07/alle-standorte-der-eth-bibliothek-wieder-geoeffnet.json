@@ -10,11 +10,9 @@
     "Green Library",
     "Hönggerberg Depot Library",
     "Thomas Mann Archives",
-    "InfoCenter",
-    "Architecture",
-    "GESS",
-    "August",
-    "Books"
+    "ETH Zurich",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Infrastructure",
@@ -28,19 +26,29 @@
     "ETH Zurich",
     "Hönggerberg Campus",
     "Library",
-    "Also",
     "Mon–fri",
     "Until",
-    "900–1700"
+    "Main",
+    "Building"
   ],
-  "summary": "In addition to the ETH Library in the main building (InfoCenter) and the Architecture and Civil Engineering Library, all other locations are also reopening....",
+  "summary": "In addition to the ETH Library in the main building (InfoCenter) and the Architecture and Civil Engineering Library, all other locations are also reopening. The following opening hours apply until further notice:\n\n• The ETH Library in the main building (InfoCenter): Mon–Fri 8.00–20.00, Sat+Sun 9.00–17.00\n• Architecture and Civil Engineering Library: Mon–Fri 8.00–20.00\n• Earth Sciences Library: Mon–Fri 9.00–17.00\n• GESS Library: Mon–Fri 9.00–17.00\n• Green Library: Mon–Fri 9.00–20.00, until the end of August also Sat 9.00–17.00\n• Hönggerberg Depot Library: Mon–Fri 9.00–17.00\nIn addition to the ETH Library in the main building (InfoCenter) and the Architecture and Civil Engineering Library, all other locations are also reopening....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 11,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 361,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Campus Notice",
     "audience_type": [
       "Students",
       "Researchers"
@@ -50,6 +58,33 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 11.28,
+      "avg_word_length": 4.83,
+      "long_word_percentage": 29.36
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Library",
+        "Center",
+        "Architecture"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "September"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020"
+        ]
+      }
+    }
   }
 }

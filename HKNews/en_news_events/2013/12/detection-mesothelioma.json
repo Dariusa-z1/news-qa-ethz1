@@ -10,11 +10,11 @@
     "Clinical Proteomics",
     "Ferdinando Cerciello",
     "Ruedi Aebersold",
-    "For Wollscheid",
     "Zurich University Medicine",
     "Zurich University Hospital",
     "Purdue University",
-    "Main"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "Cancer",
-    "This",
     "Mesothelioma",
-    "That",
     "Protein",
-    "Research"
+    "Research",
+    "Proteins",
+    "Blood"
   ],
-  "summary": "Main article: Asbestos fibers cause lung cancer. Researchers discovered a protein signature by which the disease may be detected earlier....",
+  "summary": "Main article: Asbestos fibers cause lung cancer. Researchers discovered a protein signature by which the disease may be detected earlier. (Photo: wikipedia)\n\nA set of biomarkers: Asbestos is a ticking time bomb....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 834,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,35 @@
       "Technology",
       "Research",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.54,
+      "avg_word_length": 5.26,
+      "long_word_percentage": 33.33
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Asbestos",
+        "Researchers",
+        "Asbestos"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Purdue University",
+        "Zurich",
+        "Zurich University Hospital"
+      ],
+      "departments": [
+        "group leader at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

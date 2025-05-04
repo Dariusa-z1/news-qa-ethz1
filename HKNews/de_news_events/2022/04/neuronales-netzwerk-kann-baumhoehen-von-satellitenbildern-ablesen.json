@@ -1,20 +1,20 @@
 {
   "language": "de",
   "title": "Neuronales Netzwerk Kann Baumhoehen Von Satellitenbildern Ablesen",
-  "date": "2022-04-01",
+  "date": "2010-10-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Trainiert mit Laserscanning-Daten aus dem Weltraum: Seit letztem Jahr befinden wir uns in der UN-Dekade für die Wiederherstellung von Ökosystemen (engl. «UN Decade on Ecosystem Restoration»). Die Initiative hat sich zum Ziel gesetzt, bis 2030 die Degradation der Ökosysteme aufzuhalten, ihr vorzubeugen und bereits entstandene Schäden, wenn möglich zu beheben. Für solche Vorhaben benötigen die Akteure präzise Grundlagen wie zum Beispiel Vermessungen und Karten des Bestands. Ralph Dubayah, Leiter der «Global Ecosystem Dynamics Investigation (GEDI)»-Mission der NASA erklärt in einem Interview: «Wir wissen schlicht nicht, wie hoch die Bäume weltweit sind. [...] Wir brauchen globale Karten davon, denn wenn wir Bäume fällen, setzen wir CO 2 in die Atmosphäre frei, und wir wissen nicht, um wie viel es sich handelt.»\n\nAuf die Analyse und Aufbereitung ebensolcher Umweltdaten spezialisiert ist das EcoVision Lab am ETH-Departement für Bau, Umwelt und Geomatik, das 2017 von ETH-Professor Konrad Schindler und UZH-Professor Jan Dirk Wegner gegründet wurde. Im Lab entwickeln die Forscher Machine-Learning-Algorithmen, die es ermöglichen, grossflächige Umweltdaten automatisch zu analysieren. Einer dieser Forscher ist Nico Lang. In seiner Doktorarbeit hat er einen Ansatz – basierend auf neuronalen Netzwerken – entwickelt, um aus optischen Satellitenbildern die Vegetationshöhe ableiten zu können. Daraus konnte er die erste Vegetationshöhen-Karte erstellen, welche die gesamte Erde abdeckt (engl. « externe Seite Global Canopy Height Map »).\n\nEin Novum ist zudem die hohe Auflösung der Karte: Dank Langs Arbeit können Nutzer:innen bis zu 10x10 Meter an jedes Waldstück der Erde heranzoomen, um die Baumhöhe abzulesen. Eine solche Vermessung der Wälder könnte in Zukunft insbesondere im Umgang mit dem CO 2 -Ausstoss wegweisend sein, denn die Baumhöhe ist ein wichtiger Indikator für die Biomasse und die Menge an gespeichertem Kohlenstoff. «Etwa 95 Prozent der Biomasse im Wald sind im Holz und nicht in den Blättern. Daher hängt die Biomasse stark mit der Höhe zusammen», klärt Konrad Schindler, Professor für Photogrammetrie und Fernerkundung, auf.\n\nDoch wie liest ein Computer die Baumhöhe von einem Satellitenbild ab? «Da wir nicht wissen, nach welchen Mustern der Computer Ausschau halten muss, um die Höhe zu schätzen, lassen wir ihn die optimalen Bildfilter selbst lernen», sagt Nico Lang. Daher zeigt er seinem neuronalen Netzwerk Millionen von Beispielen: Als Input dienen die Bilder der zwei Copernicus Sentinel-2-Satelliten der Europäischen Weltraumorganisation (ESA). Diese Satelliten nehmen alle fünf Tage jeden Ort der Erde mit einer Auflösung von 10x10 Metern pro Pixel auf. Es sind die qualitativ besten Bilder, die zurzeit öffentlich zugänglich sind.\n\nTransparenz durch Abschätzung der Unsicherheiten: Daneben muss dem Algorithmus die korrekte Antwort – das heisst die Baumhöhe aus Space-Lasermessungen der externe Seite NASA GEDI-Mission – zur Verfügung gestellt werden. «Die GEDI-Mission liefert global verteilte, punktuelle Daten der Vegetationshöhe zwischen dem 51. nördlichen und südlichen Breitengrad, sodass der Computer im Trainingsprozess viele verschiedene Vegetationstypen sieht», erklärt Nico Lang. Mit Input und Antwort kann sich der Algorithmus die Filter für Textur- und Spektralmuster selbst aneignen. Ist das neuronale Netzwerk erst einmal trainiert, kann es die Baumhöhen aus den mehr als 250'000 Bildern (etwa 160 Terabyte Daten), die für die globale Karte notwendig sind, automatisch schätzen.\n\nIn der Fachterminologie nennt sich Langs neuronales Netzwerk Convolutional Neural Network (CNN). Die «Convolution» – zu Deutsch Faltung– ist eine mathematische Operation, bei welcher der Algorithmus die 3x3 Pixel grossen Bildfilter über das Satellitenbild gleiten lässt und dadurch Informationen über Helligkeitsmuster im Bild erhält. «Der Trick dabei ist, dass wir die Bildfilter stapeln und der Algorithmus dadurch Kontextinformationen erhält, da er von jedem Pixel bereits Informationen über die Nachbarpixel hat», erläutert Konrad Schindler. Dadurch ist es dem EcoVision Lab erstmalig gelungen mit einer Satellitenkarte auch Baumhöhen von bis zu 55 Meter zuverlässig einzuschätzen.\n\nWeil diese neuronalen Netzwerke mit ihren vielen Schichten «tief» sind, spricht man auch von «Deep Learning». Diese Methode läutete vor rund 10 Jahren eine grosse Revolution in der Bildverarbeitung ein. Der Umgang mit der schieren Menge an Daten, die dazu nötig ist, ist jedoch nach wie vor eine grosse Herausforderung: Um die globale Vegetationshöhen-Karte zu berechnen, bräuchte ein leistungsstarker Rechner allein drei Jahre. «Zum Glück haben wir Zugriff auf den ETH-Hochleistungsrechencluster, sodass wir nicht drei Jahre auf die Berechnung der Karte warten mussten», lacht Nico Lang.\n\nNico Lang bereitete denn nicht nur ein CNN auf diese Aufgabe vor, sondern gleich mehrere – ein sogenanntes Ensemble – davon. «Ein wichtiger Aspekt für uns war, den Nutzer:innen auch die Unsicherheit der Schätzung mitzuliefern», sagt er. Die insgesamt fünf neuronalen Netzwerke wurden unabhängig voneinander trainiert, wobei jedes seine eigene Schätzung der Baumhöhen angibt.\n\n«Sind alle Modelle einer Meinung, ist die Antwort auf Basis der Trainingsdaten eindeutig. Kommen die Modelle zu unterschiedlichen Antworten, bedeutet dies, dass es eine höhere Unsicherheit in der Schätzung gibt», erklärt Nico Lang. In die Modellierung fliessen auch Unsicherheiten in den Daten selbst mit ein: Ist ein Satellitenbild beispielsweise dunstig, ist die Unsicherheit grösser, als wenn die atmosphärischen Verhältnisse gut sind.\n\nDank ihrer hohen Auflösung bietet Langs globale Karte Einblick in interessante Details: «Wir konnten bereits spannende Muster entdecken», erzählt Konrad Schindler. «In den Rocky Mountains beispielsweise wird die Forstwirtschaft in fixen Quadraten betrieben und auch der Regenwald formt interessante Strukturen, die nicht zufällig sein können.» Nun sei es Ökolog:innen möglich, die aufgenommenen Muster und Daten weltumfassend zu interpretieren.\n\nDamit die Forschung weitergeführt werden kann, werden die Karte sowie der Source Code öffentlich zugänglich sein. Erste Interessenten haben sich bereits gemeldet: Walter Jetz, Professor an der Yale Universität, möchte die Global Canopy Height Map zur Biodiversitätsmodellierung nutzen. Doch auch für Regierungen, Verwaltungen und NGOs könnte die Karte interessant sein. «Dank Sentinel-2 könnte man alle fünf Tage die Vegetationshöhen neu berechnen und hätte so ein Monitoring, um die Regenwaldabholzung zu beobachten», meint Nico Lang.\n\nDarüber hinaus sei es nun auch möglich, regionale Erkenntnisse wie die Eigenschaft von tropischen Blätterdächern als klimatischer Puffer zu wirken, global zu validieren. Gekoppelt mit dem externe Seite High Carbon Stock Approach , der wertvolle Wälder für Kohlenstoffspeicherung und Biodiversität klassifiziert, ist die Vegetationshöhen-Karte eine wichtige Grundlage für die Erhaltung und Stärkung der Ökosysteme. Gemäss Langs Berechnungen befindet sich bloss auf 5 Prozent der Landmasse Vegetation von mehr als 30 Metern Höhe und nur 34 Prozent davon stehen in geschützten Gebieten.\n\nDa die GEDI-Mission im Jahr 2023 beendet werden soll, bietet Langs neu entwickelter Ansatz die Möglichkeit auch zukünftig Vegetationshöhen zu kartieren. Allerdings wäre eine Verlängerung der GEDI-Mission, über die zurzeit auch international in Medien diskutiert wird, wichtig, um die Daten mit zukünftigen Satellitenmissionen wie der externe Seite ESA Biomass Mission abzugleichen und das Modell auf Veränderungen zu kalibrieren.\n\nLiteraturhinweis: Lang, N, Jetz, W, Schindler, K, Wegner, JD. A high-resolution canopy height model of the Earth. Nature Ecology & Evolution, 28. September 2023, doi: externe Seite 10.1038/s41559-023-02206-6",
   "named_entities": [
     "Laserscanning-Daten",
     "Ecosystem Restoration",
-    "Die Initiative",
     "Beispiel Vermessungen",
     "Ralph Dubayah",
     "Global Ecosystem Dynamics Investigation",
     "Professor Konrad Schindler",
     "Professor Jan Dirk Wegner",
     "Im Lab",
-    "Forscher Machine-Learning-Algorithmen"
+    "Forscher Machine-Learning-Algorithmen",
+    "Nico Lang"
   ],
   "topics": [
     "Infrastructure",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Trainiert mit Laserscanning-Daten aus dem Weltraum: Seit letztem Jahr befinden wir uns in der UN-Dekade für die Wiederherstellung von Ökosystemen (engl. «UN Decade on Ecosystem Restoration»)....",
+  "summary": "Trainiert mit Laserscanning-Daten aus dem Weltraum: Seit letztem Jahr befinden wir uns in der UN-Dekade für die Wiederherstellung von Ökosystemen (engl. «UN Decade on Ecosystem Restoration»). Die Initiative hat sich zum Ziel gesetzt, bis 2030 die Degradation der Ökosysteme aufzuhalten, ihr vorzubeugen und bereits entstandene Schäden, wenn möglich zu beheben....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1116,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -52,6 +62,38 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.24,
+      "avg_word_length": 5.81,
+      "long_word_percentage": 33.06
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Trainiert",
+        "Laserscanning",
+        "Weltraum"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Novum",
+        "Monitoring",
+        "Zukunft",
+        "Satellitenbild",
+        "Computer"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2030",
+          "2017"
+        ]
+      }
+    }
   }
 }

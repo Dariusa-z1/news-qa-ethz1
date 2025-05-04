@@ -9,12 +9,12 @@
     "Ihre Projektarbeit",
     "Laser-Wasserwaage",
     "Schauen Sie",
-    "Die Ausleihe",
-    "Die Werkzeuge",
     "Weitere Informationen",
-    "Bei Fragen",
     "Team Information",
-    "Vom Know"
+    "Vom Know",
+    "Ihrem Ziel",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Infrastructure",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Einer Idee noch den letzten Schliff verleihen und gerade kein passendes Werkzeug zur Hand?...",
+  "summary": "Main article: Einer Idee noch den letzten Schliff verleihen und gerade kein passendes Werkzeug zur Hand? Die ETH-Bibliothek leiht Ihnen für Ihre Projektarbeit tragbare Elektrowerkzeuge samt Zubehör aus. Darunter befinden sich Schwingschleifer, Schlagbohrschrauber und Bohrhammer und einiges mehr....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 171,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -48,6 +58,22 @@
       "Financial",
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.21,
+      "avg_word_length": 5.8,
+      "long_word_percentage": 33.33
+    },
+    "semantic_entities": {
+      "locations": [
+        "Bibliothekskonto"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

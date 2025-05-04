@@ -11,10 +11,10 @@
     "Andreas Gursky",
     "Thomas Demand",
     "Arbeitgeber Google",
-    "Bei Google",
     "Zur Person",
     "Thomas Hofmann",
-    "Bereiche Machine Learning"
+    "Bereiche Machine Learning",
+    "Information Retrieval"
   ],
   "topics": [
     "Staff",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Was fasziniert Sie an Ihrem Forschungsgebiet? In unserer Welt werden immer mehr Daten produziert und in steigendem Umfang erfolgt eine Wertschöpfung aus diesen Daten....",
+  "summary": "Main article: Was fasziniert Sie an Ihrem Forschungsgebiet? In unserer Welt werden immer mehr Daten produziert und in steigendem Umfang erfolgt eine Wertschöpfung aus diesen Daten. Maschinelles Lernen beschäftigt sich damit, erklärende oder vorhersagende Modelle aus Daten abzuleiten....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 304,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Faculty",
@@ -51,6 +61,32 @@
       "Research",
       "International",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.22,
+      "avg_word_length": 6.19,
+      "long_word_percentage": 33.88
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Ihrem Forschungsgebiet"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Informatik"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2014",
+          "2014"
+        ]
+      }
+    }
   }
 }

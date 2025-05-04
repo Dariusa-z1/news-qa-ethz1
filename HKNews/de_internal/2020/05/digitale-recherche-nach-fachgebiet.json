@@ -8,13 +8,9 @@
     "Wussten Sie",
     "Sie Zugriff",
     "Wirtschaft Recht",
-    "Die Infrastruktur",
     "Ihrem Ziel",
-    "Bibliothek",
-    "Fachgebieten",
-    "Zugang",
-    "Ressourcen",
-    "Klicks"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -32,14 +28,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Wussten Sie, dass die ETH-Bibliothek einen nach Fachgebieten geordneten Zugang zu elektronischen Ressourcen anbietet?...",
+  "summary": "Wussten Sie, dass die ETH-Bibliothek einen nach Fachgebieten geordneten Zugang zu elektronischen Ressourcen anbietet? Mit wenigen Klicks erhalten Sie Zugriff auf elektronische Zeitschriften, Lehrbücher, Neuerscheinungen sowie Verknüpfungen zu externen Datenbanken wie Web of Science und Scopus....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 141,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -49,6 +55,31 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.5,
+      "avg_word_length": 7.29,
+      "long_word_percentage": 46.81
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Wussten Sie",
+        "Bibliothek",
+        "Fachgebieten",
+        "Zugang",
+        "Ressourcen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

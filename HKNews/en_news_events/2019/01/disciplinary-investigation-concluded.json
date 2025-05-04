@@ -5,15 +5,9 @@
   "source": "ETH Zurich launched a disciplinary investigation into a professor in the Department of Architecture",
   "main_content": "In September 2018 ETH Zurich launched a disciplinary investigation into a professor in the Department of Architecture. This investigation, conducted and since completed by an external independent investigator, concluded that the professor did not effectively separate his personal and professional relationships. As a result, his conduct was in breach of ETH Zurich’s Compliance Guide .\n\nIn view of the protracted proceedings and the associated personal and professional pressure, the professor in question has decided to leave ETH Zurich on 31 July 2019 and seek a new challenge. At his request, the university has released him from his teaching duties up to the end of the semester to allow him to devote his full attention to winding up his research projects.\n\nThe President of ETH Zurich has acknowledged the professor’s decision and forwarded it to the ETH Board, which is in charge of employment relationships for professors. This concludes the disciplinary investigation.",
   "named_entities": [
-    "In September",
     "Compliance Guide",
-    "The President",
-    "Zurich",
-    "Department",
-    "Architecture",
-    "July",
-    "Board",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -29,17 +23,27 @@
     "Investigation",
     "Professor",
     "Disciplinary",
-    "This",
-    "Personal"
+    "Personal",
+    "Professional"
   ],
-  "summary": "In September 2018 ETH Zurich launched a disciplinary investigation into a professor in the Department of Architecture....",
+  "summary": "In September 2018 ETH Zurich launched a disciplinary investigation into a professor in the Department of Architecture. This investigation, conducted and since completed by an external independent investigator, concluded that the professor did not effectively separate his personal and professional relationships....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 152,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -50,6 +54,36 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.71,
+      "avg_word_length": 5.34,
+      "long_word_percentage": 34.21
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "In September",
+        "Zurich",
+        "Department",
+        "Architecture"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "Architecture",
+        "professor in the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2018",
+          "2019"
+        ]
+      }
+    }
   }
 }

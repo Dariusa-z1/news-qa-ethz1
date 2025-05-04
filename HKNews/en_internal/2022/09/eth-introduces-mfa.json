@@ -12,9 +12,7 @@
     "Executive Board",
     "Microsoft Authenticator",
     "Service Desk",
-    "Internal",
-    "More",
-    "Zoom"
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -25,22 +23,32 @@
     "Campus Life"
   ],
   "keywords": [
-    "This",
     "Your",
     "Will",
-    "That",
     "Authenticator",
     "Have",
-    "Register"
+    "Register",
+    "Security",
+    "Date"
   ],
-  "summary": "How to register for MFA at ETH: IT security is a subject that affects all companies and institutions....",
+  "summary": "How to register for MFA at ETH: IT security is a subject that affects all companies and institutions. It is also an issue to which ETH pays considerable attention – hence the decision to introduce multi-factor authentication (MFA). Entering a second login confirmation is intended to increase the security of our user accounts and data and reduce the risk of cyberattacks....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 419,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -49,6 +57,24 @@
       "Technology",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.22,
+      "avg_word_length": 4.67,
+      "long_word_percentage": 23.39
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zoom"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "its.ethz.ch"
+        ],
+        "phones": []
+      }
+    }
   }
 }

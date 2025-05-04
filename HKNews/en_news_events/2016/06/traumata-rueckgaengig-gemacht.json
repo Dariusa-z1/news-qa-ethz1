@@ -7,14 +7,9 @@
   "named_entities": [
     "Isabelle Mansuy",
     "Katharina Gapp",
-    "Traumatic",
-    "Professor",
-    "Neuroepigenetics",
-    "University",
-    "Zurich",
-    "Long",
-    "Until",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH",
+    "University of Zurich"
   ],
   "topics": [
     "Infrastructure",
@@ -27,20 +22,30 @@
   "keywords": [
     "ETH Zurich",
     "University of Zurich",
-    "That",
     "Their",
     "Mice",
-    "Also",
-    "Trauma"
+    "Trauma",
+    "Alterations",
+    "Offspring"
   ],
-  "summary": "A positive environment reverses symptoms: Traumatic experiences in childhood increase the risk of developing behavioral and psychiatric disorders later in life....",
+  "summary": "A positive environment reverses symptoms: Traumatic experiences in childhood increase the risk of developing behavioral and psychiatric disorders later in life. It is also known that the consequences of a trauma can likewise be observed in the children of people affected even if those children have themselves not experienced any trauma....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 528,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +56,28 @@
       "Sustainability",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 24.0,
+      "avg_word_length": 5.64,
+      "long_word_percentage": 37.12
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Traumatic",
+        "However"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

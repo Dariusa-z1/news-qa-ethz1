@@ -7,14 +7,10 @@
   "named_entities": [
     "Executive Board",
     "President Lino Guzzella",
-    "In February",
     "Lino Guzzella",
     "Particle Physics",
-    "In September",
-    "Zurich",
-    "Institute",
-    "Astronomy",
-    "March"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -33,14 +29,24 @@
     "Students",
     "Professor"
   ],
-  "summary": "ETH Zurich’s Executive Board has decided to open an independent administrative enquiry in response to allegations made in the former Institute for Astronomy....",
+  "summary": "ETH Zurich’s Executive Board has decided to open an independent administrative enquiry in response to allegations made in the former Institute for Astronomy. The purpose of the investigation is to examine the circumstances and procedures in the areas concerned, and to review the conduct of the people involved....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 533,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +58,30 @@
       "Administrative",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.21,
+      "avg_word_length": 5.17,
+      "long_word_percentage": 32.83
+    },
+    "semantic_entities": {
+      "locations": [
+        "March",
+        "August"
+      ],
+      "departments": [
+        "personnel set-up at the",
+        "into what happened with the",
+        "allegations made in the former"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017",
+          "2002"
+        ]
+      }
+    }
   }
 }

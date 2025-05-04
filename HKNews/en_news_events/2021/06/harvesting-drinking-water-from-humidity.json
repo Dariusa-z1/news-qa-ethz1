@@ -7,13 +7,8 @@
   "named_entities": [
     "Iwan Hächler",
     "Dimos Poulikakos",
-    "Self",
-    "Fresh",
-    "Zurich",
-    "Celsius",
-    "Professor",
-    "Thermodynamics",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -26,20 +21,30 @@
   "keywords": [
     "ETH Zurich",
     "Water",
-    "With",
     "Pane",
-    "This",
-    "From",
-    "Radiation"
+    "Radiation",
+    "Energy",
+    "Technologies",
+    "Which"
   ],
-  "summary": "Self-cooling and protection from radiation: Fresh water is scarce in many parts of the world and must be obtained at great expense....",
+  "summary": "Self-cooling and protection from radiation: Fresh water is scarce in many parts of the world and must be obtained at great expense. Communities near the ocean can desalinate sea water for this purpose, but doing so requires a large amount of energy. Further away from the coast, practically often the only remaining option is to condense atmospheric humidity through cooling, either through processes that similarly require high energy input or by using “passive” technologies that exploit the temperature swing between day and night....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 666,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -50,6 +55,31 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.48,
+      "avg_word_length": 5.03,
+      "long_word_percentage": 27.48
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Communities",
+        "Further",
+        "However"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zurich"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

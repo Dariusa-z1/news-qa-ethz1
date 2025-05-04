@@ -13,8 +13,8 @@
     "Uster Castle",
     "Luzern Culture",
     "Congress Centre",
-    "The Swissair Aerial Photography",
-    "Walter Mittelholzer"
+    "Walter Mittelholzer",
+    "Ruedi Weidmann"
   ],
   "topics": [
     "Technology & Innovation",
@@ -26,21 +26,31 @@
   ],
   "keywords": [
     "Aerial",
-    "From",
     "Photographs",
     "Swissair",
     "Archive",
     "Book",
-    "With"
+    "Images",
+    "Image"
   ],
-  "summary": "Attraction of aerial photographs: In 1973 FC Zurich won the Swiss Cup Final against FC Basel 2:0 after extra time at Bern’s Wankdorf Stadium....",
+  "summary": "Attraction of aerial photographs: In 1973 FC Zurich won the Swiss Cup Final against FC Basel 2:0 after extra time at Bern’s Wankdorf Stadium. But the game wasn’t interesting just from a sports history point of view – an aerial photograph of the match not only shows the sold-out stadium but also the car park, with its many colourful vehicles from the 1970s....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 757,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -50,6 +60,40 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.94,
+      "avg_word_length": 5.07,
+      "long_word_percentage": 26.02
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "Pocket-Size Format und Science in Sight",
+      "authors": [
+        "Attraction",
+        "Zurich",
+        "Swiss Cup Final"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Porträt",
+        "Bern",
+        "Sight",
+        "Pocket-Size Format",
+        "Windisch"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "de-de.facebook.com"
+        ],
+        "phones": [
+          "1973",
+          "1970"
+        ]
+      }
+    }
   }
 }

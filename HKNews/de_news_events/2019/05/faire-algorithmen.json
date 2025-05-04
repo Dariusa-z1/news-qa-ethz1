@@ -7,14 +7,7 @@
   "named_entities": [
     "Informatikerin Hoda Heidari",
     "Elliott Ash",
-    "Big Data",
-    "Alles",
-    "Computer",
-    "Smartphone",
-    "Professor",
-    "Recht",
-    "Datenwissenschaften",
-    "Podcast"
+    "Big Data"
   ],
   "topics": [
     "Technology & Innovation",
@@ -28,14 +21,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "“Alles, was ich auf dem Computer oder Smartphone tue, ist quasi öffentlich”, sagt die Informatikerin Hoda Heidari....",
+  "summary": "“Alles, was ich auf dem Computer oder Smartphone tue, ist quasi öffentlich”, sagt die Informatikerin Hoda Heidari. Zusammen mit Elliott Ash, Professor für Recht, Ökonomie und Datenwissenschaften, erzählt sie im Podcast von den gigantischen Mengen an digitalen Spuren, die wir täglich mit Computern und Smartphones hinterlassen....",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 77,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -44,6 +47,32 @@
     "context_tags": [
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 25.67,
+      "avg_word_length": 5.95,
+      "long_word_percentage": 36.36
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Computer",
+        "Smartphone",
+        "Informatikerin Hoda Heidari",
+        "Zusammen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Hoda Heidari"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

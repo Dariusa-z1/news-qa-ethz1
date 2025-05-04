@@ -11,10 +11,10 @@
     "Dieses Förderstipendium",
     "Biotop Zürich",
     "Huber-Kudlich-Stiftung",
-    "Die Interessen",
     "Berkeley Computerwissenschaften",
-    "In Zürich",
-    "Kryptografie-Experten Ueli Maurer"
+    "Kryptografie-Experten Ueli Maurer",
+    "Computer Engineering",
+    "Universität Toronto"
   ],
   "topics": [
     "Research",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Eine neue «Forschungskultur» kennenlernen: Was braucht es, damit maschinell lernende Computer auch mehr- oder vieldeutige Wörter verstehen können?...",
+  "summary": "Eine neue «Forschungskultur» kennenlernen: Was braucht es, damit maschinell lernende Computer auch mehr- oder vieldeutige Wörter verstehen können? Wie lassen sich sehr komplexe Aussagen in einfache zerlegen, so dass man sie besser verschlüsseln und am Computer sicher austauschen kann?...",
+  "content_structure": {
+    "paragraph_count": 20,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 886,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -51,6 +61,37 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.15,
+      "avg_word_length": 6.34,
+      "long_word_percentage": 38.15
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Forschungskultur",
+        "Computer",
+        "Wörter"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Berkeley Computerwissenschaften",
+        "Zukunft",
+        "Problem",
+        "Wahrscheinlichkeitstheorie",
+        "Zürich"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1200"
+        ]
+      }
+    }
   }
 }

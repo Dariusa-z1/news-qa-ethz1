@@ -10,11 +10,9 @@
     "Thomas Mann",
     "Facility Management",
     "Real Estate Management",
-    "Would",
-    "Zentrum",
-    "Hönggerberg",
-    "Zurich",
-    "Tuesdays"
+    "ETH Zurich",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Infrastructure",
@@ -32,14 +30,24 @@
     "Yourself",
     "Free"
   ],
-  "summary": "Would you like to learn more about historical events and personalities including Albert Einstein, Max Frisch and Thomas Mann?...",
+  "summary": "Would you like to learn more about historical events and personalities including Albert Einstein, Max Frisch and Thomas Mann? Participate in one of our public tours and admire our valuable collections, pictures and artefacts. Immerse yourself in current research topics and familiarise yourself with the two campus centres Zentrum and Hönggerberg, as well as buildings and works of art at ETH Zurich....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 133,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Researchers",
@@ -51,6 +59,37 @@
       "Research",
       "Administrative",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.17,
+      "avg_word_length": 5.16,
+      "long_word_percentage": 29.32
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Albert Einstein",
+        "Max Frisch",
+        "Thomas Mann",
+        "Participate"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "18:15 to 19:15"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

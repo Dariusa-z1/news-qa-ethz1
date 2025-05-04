@@ -12,9 +12,9 @@
     "Seite Scientific Reports",
     "Forschenden Milliarden",
     "Los Angeles",
-    "Die Forschenden",
     "Fahrspur-Kilometer",
-    "Tram-Linien"
+    "Tram-Linien",
+    "Lukas Ambühl"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Verkehrsdaten aus 41 Städten analysiert: Autopendler haben erfahrungsbedingt eine Vorstellung davon, was der Begriff Verkehrskapazität bedeutet: Wenn frühmorgens Auto um Auto in eine Stadt hineinfährt, nimmt der Verkehrsfluss zunächst zu. Solange, bis sich eine kritische Anzahl von Fahrzeugen im Strassennetz befindet....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 656,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -50,6 +60,40 @@
       "Research",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.74,
+      "avg_word_length": 6.59,
+      "long_word_percentage": 40.7
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Verkehrsdaten",
+        "Städten",
+        "Autopendler",
+        "Vorstellung",
+        "Begriff Verkehrskapazität"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Monica Menendez",
+        "Fahrspur-Kilometer",
+        "Strassennetz",
+        "Ziel",
+        "Zürich"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2019",
+          "2019"
+        ]
+      }
+    }
   }
 }

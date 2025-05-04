@@ -11,10 +11,8 @@
     "Yohei Yamauchi",
     "Ari Helenius",
     "Indranil Banerjee",
-    "Capsid",
-    "Viral",
-    "Zurich",
-    "Basel"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -29,18 +27,28 @@
     "Virus",
     "Cell",
     "Capsid",
-    "This",
-    "That",
-    "Waste"
+    "Waste",
+    "Nucleus",
+    "Viruses"
   ],
-  "summary": "Capsid cracked open like a nut: Viral infections always follow a similar course. The pathogen infiltrates the host cells and uses their replication and protein production machinery to multiply....",
+  "summary": "Capsid cracked open like a nut: Viral infections always follow a similar course. The pathogen infiltrates the host cells and uses their replication and protein production machinery to multiply. The virus has to overcome the initial barrier by docking on the surface of the cell membrane....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 999,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +58,36 @@
       "COVID-19",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.84,
+      "avg_word_length": 4.97,
+      "long_word_percentage": 28.03
+    },
+    "citation_info": {
+      "doi": "10.1126/science.1257037",
+      "journal": "the journal Science",
+      "authors": [
+        "Capsid"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Banerjee",
+        "Basel",
+        "Szeged"
+      ],
+      "departments": [
+        "the Friedrich Miescher"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2014",
+          "20-30"
+        ]
+      }
+    }
   }
 }

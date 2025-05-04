@@ -9,12 +9,8 @@
     "Third Iron",
     "Select Organization",
     "Get It",
-    "Library",
-    "Wikipedia",
-    "Scopus",
-    "Science",
-    "LibKey",
-    "Nomad"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -26,25 +22,61 @@
     "ETH Zurich",
     "Libkey",
     "Nomad",
-    "With",
     "Library",
     "Access",
-    "Will"
+    "Will",
+    "“eth"
   ],
-  "summary": "",
+  "summary": "“ETH Get it”, the link resolver of the ETH Library, takes you from Google Scholar, Wikipedia or any other database, such as Scopus or Web of Science, to the electronic full text in just two or three clicks. Use LibKey Nomad to gain access to the PDF of journal articles with one click only....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 321,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.88,
+      "avg_word_length": 4.35,
+      "long_word_percentage": 17.45
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Library",
+        "Google Scholar",
+        "Wikipedia",
+        "Scopus"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Google Scholar"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

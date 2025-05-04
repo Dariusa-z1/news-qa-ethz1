@@ -5,16 +5,12 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Eine Liste mit allen Geräten finden Sie im Suchportal . Die kostenlose Ausleihe während maximal drei Tagen ist nur für Angehörige der ETH Zürich möglich und erfolgt wie gewohnt mit der ETH-Karte über das Benutzungskonto. Es gelten die normalen Benutzungsbestimmungen und Gebühren der ETH-Bibliothek. Die Werkzeuge können Sie sowohl im Zentrum als auch auf dem Hönggerberg abholen bzw. zurückbringen. Weitere Informationen befinden sich auf unserer Website. Es handelt sich hierbei um eine Kooperation mit dem Student Project House und der Robert Bosch AG.",
   "named_entities": [
-    "Eine Liste",
-    "Die Werkzeuge",
     "Weitere Informationen",
     "Student Project House",
     "Robert Bosch",
-    "Geräten",
-    "Suchportal",
-    "Ausleihe",
-    "Tagen",
-    "Angehörige"
+    "ETH Zürich",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Infrastructure",
@@ -33,20 +29,44 @@
     "Campus",
     "Education"
   ],
-  "summary": "Eine Liste mit allen Geräten finden Sie im Suchportal ....",
+  "summary": "Eine Liste mit allen Geräten finden Sie im Suchportal . Die kostenlose Ausleihe während maximal drei Tagen ist nur für Angehörige der ETH Zürich möglich und erfolgt wie gewohnt mit der ETH-Karte über das Benutzungskonto. Es gelten die normalen Benutzungsbestimmungen und Gebühren der ETH-Bibliothek....",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 84,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students"
     ],
     "context_tags": [
       "Financial",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.0,
+      "avg_word_length": 5.52,
+      "long_word_percentage": 35.71
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

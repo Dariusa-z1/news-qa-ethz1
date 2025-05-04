@@ -7,14 +7,13 @@
   "named_entities": [
     "Professor Rudolf Mumenthaler",
     "Zurich University Library",
-    "The Swiss",
     "They In",
     "Christoph Froschauer",
     "University Library Basel",
     "University Library Bern",
     "Zurich Central Library",
-    "Qualified",
-    "April"
+    "ETH",
+    "Rudolf Mumenthaler"
   ],
   "topics": [
     "Communication",
@@ -30,16 +29,26 @@
     "Platform",
     "Panel",
     "Discussion",
-    "About"
+    "They"
   ],
-  "summary": "e-rara.ch – a success story?: Qualified experts engaged in interesting conversations at the panel discussion....",
+  "summary": "e-rara.ch – a success story?: Qualified experts engaged in interesting conversations at the panel discussion. In their animated and knowledgeable speeches, they explained the great potential of the platform, shared their own experiences and fleshed out their thoughts about the topic of retrospective digitisation....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 3,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 398,
     "readability_score": "complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Interview",
     "audience_type": [
       "Students",
       "Faculty",
@@ -50,6 +59,32 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.09,
+      "avg_word_length": 5.2,
+      "long_word_percentage": 32.41
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Qualified"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Swiss"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2021",
+          "2010"
+        ]
+      }
+    }
   }
 }

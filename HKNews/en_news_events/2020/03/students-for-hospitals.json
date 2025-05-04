@@ -10,11 +10,9 @@
     "Professor Jörg Goldhahn",
     "Luca Schaufelberger",
     "Rector Sarah Springman",
-    "COVID",
-    "Bachelor",
-    "Medicine",
-    "Zurich",
-    "Sunday"
+    "ETH Zurich",
+    "ETH",
+    "Jörg Goldhahn"
   ],
   "topics": [
     "Education",
@@ -27,20 +25,30 @@
   "keywords": [
     "ETH Zurich",
     "Students",
-    "That",
     "Schmidt",
     "Says",
     "Hospitals",
-    "Situation"
+    "Situation",
+    "Platform"
   ],
-  "summary": "The coronavirus pandemic is putting hospitals and nursing homes around the world in an exceptional emergency situation. Switzerland is no exception: an emergency looms, especially in intensive care....",
+  "summary": "The coronavirus pandemic is putting hospitals and nursing homes around the world in an exceptional emergency situation. Switzerland is no exception: an emergency looms, especially in intensive care. Experts predict that the situation in the country is about to drastically worsen in the coming days....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 737,
     "readability_score": "moderately complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -54,6 +62,29 @@
       "COVID-19",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.14,
+      "avg_word_length": 5.04,
+      "long_word_percentage": 29.85
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Switzerland",
+        "Experts",
+        "Hospitals"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

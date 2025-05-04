@@ -7,14 +7,14 @@
   "named_entities": [
     "Lukas Langenegger",
     "Am Glasrand",
-    "Die Idee",
     "Carlos Mora",
     "Corinne Hofer",
     "Spezialgebiet Immunologie",
     "Corinne Hofer Chemikerin",
     "Professor Wendelin Stark",
     "Unser Fokus",
-    "Millionen Menschen"
+    "Millionen Menschen",
+    "Neue Technologie"
   ],
   "topics": [
     "Technology & Innovation",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Fokus liegt auf akuten Blutvergiftungen: Lukas Langenegger nimmt eine kleine, gläserne Ampulle mit einer dunklen rot-braunen Flüssigkeit in die Hand....",
+  "summary": "Fokus liegt auf akuten Blutvergiftungen: Lukas Langenegger nimmt eine kleine, gläserne Ampulle mit einer dunklen rot-braunen Flüssigkeit in die Hand. Dann hält er einen Magneten an den Behälter – und zack: Am Glasrand konzentrieren sich Eisenpartikel, zurück bleibt eine glasklare Flüssigkeit....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 597,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +60,36 @@
       "Technology",
       "Research",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.88,
+      "avg_word_length": 6.3,
+      "long_word_percentage": 37.86
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Blutvergiftungen",
+        "Lukas Langenegger",
+        "Ampulle",
+        "Flüssigkeit"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Folge",
+        "Projekt",
+        "Stark"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "www.hemotune.ch"
+        ],
+        "phones": []
+      }
+    }
   }
 }

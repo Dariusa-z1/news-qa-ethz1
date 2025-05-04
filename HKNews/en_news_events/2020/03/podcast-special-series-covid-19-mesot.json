@@ -8,13 +8,8 @@
     "President Mesot",
     "Executive Board",
     "Podcast-Website",
-    "Main",
-    "Zurich",
-    "Singapore",
-    "Basel",
-    "Lugano",
-    "COVID",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "COVID-19",
@@ -28,18 +23,28 @@
     "Podcast",
     "Main",
     "Mesot",
-    "From",
-    "This",
-    "Through"
+    "Article",
+    "President",
+    "Working"
   ],
-  "summary": "Main article: President Mesot is working from home – like nearly all ETH members at the moment....",
+  "summary": "Main article: President Mesot is working from home – like nearly all ETH members at the moment. ETH Zurich was one of the first universities to close all facilities and switch to online teaching in response to the coronavirus pandemic, including those in Singapore, Basel and Lugano....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 143,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students"
     ],
@@ -47,6 +52,22 @@
       "COVID-19",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.43,
+      "avg_word_length": 4.72,
+      "long_word_percentage": 25.17
+    },
+    "semantic_entities": {
+      "locations": [
+        "Singapore"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

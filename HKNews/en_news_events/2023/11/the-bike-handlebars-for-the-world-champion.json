@@ -7,8 +7,6 @@
   "named_entities": [
     "Flurina Rigling",
     "Luca Hasler",
-    "Glasgow",
-    "Master",
     "ETH"
   ],
   "topics": [
@@ -25,19 +23,48 @@
     "Hasler",
     "Part"
   ],
-  "summary": "Flurina Rigling is a high-flyer in the world of paracycling: in 2023 she took gold in the world track championships and the road race championships in Glasgow....",
+  "summary": "Flurina Rigling is a high-flyer in the world of paracycling: in 2023 she took gold in the world track championships and the road race championships in Glasgow. The 27-year-old accomplished these feats after just over three years of being regularly in the saddle of her racing bike....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 119,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.83,
+      "avg_word_length": 4.82,
+      "long_word_percentage": 22.69
+    },
+    "semantic_entities": {
+      "locations": [
+        "Rigling",
+        "Glasgow"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2023"
+        ]
+      }
+    }
   }
 }

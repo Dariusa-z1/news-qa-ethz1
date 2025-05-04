@@ -7,14 +7,14 @@
   "named_entities": [
     "Weltwirtschaftsforum Ende Januar",
     "Jair Bolsonaro",
-    "Die Situation",
     "National Institute",
     "Space Research",
     "Bolsonaros Politik",
     "Diese Menschen",
     "Brasiliens Verfassung",
     "Völkern Schutz",
-    "Bolsonaros Ambitionen"
+    "Bolsonaros Ambitionen",
+    "Doch Bolsonaro"
   ],
   "topics": [
     "Sustainability",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Main article: In seiner Rede am Weltwirtschaftsforum Ende Januar erklärte Jair Bolsonaro: «Es ist nun unsere Aufgabe, Fortschritte bei der Harmonisierung von Umweltschutz und Biodiversität mit der dringend benötigten wirtschaftlichen Entwicklung zu erzielen»....",
+  "content_structure": {
+    "paragraph_count": 23,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 857,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -50,6 +60,39 @@
       "Infrastructure",
       "Research",
       "Administrative"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.49,
+      "avg_word_length": 6.25,
+      "long_word_percentage": 39.67
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "heute in Science publizierter Brief",
+      "authors": [
+        "Weltwirtschaftsforum Ende Januar",
+        "Jair Bolsonaro"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Ende",
+        "Science",
+        "Brasilien",
+        "Erwartung",
+        "Form"
+      ],
+      "departments": [
+        "Das brasilianische National"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2018",
+          "2020"
+        ]
+      }
+    }
   }
 }

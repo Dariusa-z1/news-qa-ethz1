@@ -8,13 +8,8 @@
     "Swiss Open Cultural Data",
     "National Museum Zurich",
     "Pre-Event",
-    "The Pre-Event",
-    "Hackathon",
-    "October",
-    "Tuesday",
-    "September",
-    "Tannenstrasse",
-    "GLAM"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Campus Life",
@@ -31,14 +26,24 @@
     "Will",
     "Take"
   ],
-  "summary": "At the annual Swiss Open Cultural Data Hackathon, you have the opportunity to get together with other like-minded people and let your programming skills play....",
+  "summary": "At the annual Swiss Open Cultural Data Hackathon, you have the opportunity to get together with other like-minded people and let your programming skills play. This year’s Hackathon will take place from 26-28 October 2018 at the National Museum Zurich....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 129,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff"
@@ -47,6 +52,34 @@
       "Infrastructure",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.9,
+      "avg_word_length": 4.81,
+      "long_word_percentage": 25.58
+    },
+    "temporal_info": {
+      "event_dates": [
+        "28 October 2018",
+        "11 September 2018"
+      ],
+      "time_references": [
+        "26-28",
+        "00 -16"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "26-28",
+          "2018"
+        ]
+      }
+    }
   }
 }

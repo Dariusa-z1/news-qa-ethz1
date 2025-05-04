@@ -10,11 +10,7 @@
     "Reading Room Collections",
     "Max Frisch Archive Normal",
     "Thomas Mann Archive",
-    "Closed",
-    "Baubibliothek",
-    "GESS",
-    "Archives",
-    "InfoCenter"
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -32,14 +28,24 @@
     "Baubibliothek",
     "Erdwissenschaften"
   ],
-  "summary": "",
+  "summary": "Closed will be:\n\n• Baubibliothek\n• Bibliothek Erdwissenschaften\n• GESS-Bibliothek\n• Grüne Bibliothek\n• ETH-Bibliothek HDB\n• Reading Room Collections and Archives\n• Max Frisch Archive\nNormal opening hours will apply to:\n\n• InfoCenter\n• Circulation desk and customer service of the ETH-Bibliothek\n• focusTerra\n• Thomas Mann Archive\n• Collection of Prints and Drawings\n(Reason: internal event)",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 12,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 49,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff"
@@ -48,6 +54,20 @@
       "Technology",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 49.0,
+      "avg_word_length": 6.35,
+      "long_word_percentage": 42.86
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

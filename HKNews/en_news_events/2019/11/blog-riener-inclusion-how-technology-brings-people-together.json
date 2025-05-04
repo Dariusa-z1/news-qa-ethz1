@@ -9,12 +9,8 @@
     "Swiss Handicap",
     "Robert Riener Professor",
     "Motor Systems",
-    "Main",
-    "Children",
-    "CYBATHLON",
-    "Zurich",
-    "November",
-    "Experience"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -26,21 +22,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "With",
     "People",
     "They",
-    "That",
     "Disability",
-    "About"
+    "Disabilities",
+    "Children",
+    "Cybathlon"
   ],
-  "summary": "Main article: Children often behave in a carefree way, with honesty and enthusiasm....",
+  "summary": "Main article: Children often behave in a carefree way, with honesty and enthusiasm. This is apparent, for example, when they meet people with a hearing aid or a prosthetic arm, or someone in a wheelchair. Children are often curious or intrigued, they are interested in wearable technologies and the physical disability and they’re not in the least bit shy about talking to the person....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 754,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Faculty"
     ],
@@ -48,6 +54,28 @@
       "Technology",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.85,
+      "avg_word_length": 4.93,
+      "long_word_percentage": 26.92
+    },
+    "semantic_entities": {
+      "locations": [
+        "Lucerne",
+        "Zurich"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "cybathlon.ethz.ch"
+        ],
+        "phones": [
+          "2020",
+          "2016"
+        ]
+      }
+    }
   }
 }

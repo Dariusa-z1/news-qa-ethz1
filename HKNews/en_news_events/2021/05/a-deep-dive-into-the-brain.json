@@ -7,14 +7,9 @@
   "named_entities": [
     "Daniel Razansky",
     "Biomedical Imaging",
-    "For Razansky",
-    "Enhanced",
-    "Professor",
-    "Zurich",
-    "University",
-    "DOLI",
-    "Visualising",
-    "Alzheimer"
+    "ETH Zurich",
+    "ETH",
+    "University of Zurich"
   ],
   "topics": [
     "Weather & Environment",
@@ -27,19 +22,29 @@
     "ETH Zurich",
     "University of Zurich",
     "Brain",
-    "This",
     "Razansky",
     "Fluorescence",
-    "Technique"
+    "Technique",
+    "Living"
   ],
-  "summary": "Enhanced fluorescence microscopy: The way the human brain works remains, to a great extent, a topic of controversy....",
+  "summary": "Enhanced fluorescence microscopy: The way the human brain works remains, to a great extent, a topic of controversy. One reason is our limited ability to study neuronal processes at the level of single cells and capillaries across the entire living brain without employing highly invasive surgical methods....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 619,
     "readability_score": "complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -50,6 +55,30 @@
       "Research",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.81,
+      "avg_word_length": 5.56,
+      "long_word_percentage": 33.44
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Enhanced",
+        "Researchers"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Razansky"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

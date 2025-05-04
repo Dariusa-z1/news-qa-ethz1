@@ -6,15 +6,8 @@
   "main_content": "Unfortunately there was an alarm in the buildings CHN , CAB and CNB of ETH Zurich, Zentrum. The plan was to test the new system in the background (various testings have been ongoing for a couple of days) without involving the users. Unfortunately, the test included a message in German via the loud speakers, which people believed to be real. In a real emergency situation, the alarm message will be given in both English and German. In the meantime the all-clear has been given. There was no danger to ETH members at any time.\n\nThe ETH Zurich Safety, Security, Health and Environment staff unit apologizes in the name of the Project team for the inconvenience.",
   "named_entities": [
     "Zurich Safety",
-    "Unfortunately",
-    "Zentrum",
-    "German",
-    "English",
-    "Security",
-    "Health",
-    "Environment",
-    "Project",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Infrastructure",
@@ -32,14 +25,24 @@
     "Test",
     "Been"
   ],
-  "summary": "Unfortunately there was an alarm in the buildings CHN , CAB and CNB of ETH Zurich, Zentrum....",
+  "summary": "Unfortunately there was an alarm in the buildings CHN , CAB and CNB of ETH Zurich, Zentrum. The plan was to test the new system in the background (various testings have been ongoing for a couple of days) without involving the users. Unfortunately, the test included a message in German via the loud speakers, which people believed to be real....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 115,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff"
     ],
@@ -47,6 +50,22 @@
       "Sustainability",
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.43,
+      "avg_word_length": 4.6,
+      "long_word_percentage": 21.74
+    },
+    "semantic_entities": {
+      "locations": [
+        "German"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

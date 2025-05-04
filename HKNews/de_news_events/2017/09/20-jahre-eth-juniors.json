@@ -11,10 +11,10 @@
     "Junior Enterprise",
     "Schweizer Unternehmen",
     "Win-Win-Situation",
-    "Die Studierenden",
-    "Die Unternehmen",
     "Diese Dienstleistungen",
-    "Denn Unternehmen"
+    "Denn Unternehmen",
+    "Big Data",
+    "Robin Bloch"
   ],
   "topics": [
     "Education",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Ein kleines Häuschen, idyllisch gelegen oberhalb des ETH-Hauptgebäudes am Zürichberg, ist die Heimat der «ETH juniors»....",
+  "summary": "Ein kleines Häuschen, idyllisch gelegen oberhalb des ETH-Hauptgebäudes am Zürichberg, ist die Heimat der «ETH juniors». Sie haben sich sprichwörtlich hochgearbeitet, haben sie doch zwanzig Jahre zuvor an jede Türe der ETH Zürich geklopft auf der Suche nach Räumlichkeiten, bis sie diese gefunden haben: Im Stock G des Hauptgebäudes beginnt 1997 mit fünf Gründungsmitgliedern die Erfolgsgeschichte des studentischen Vereins....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 693,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff"
@@ -49,6 +59,37 @@
       "Technology",
       "Research",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.73,
+      "avg_word_length": 6.14,
+      "long_word_percentage": 35.79
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Häuschen",
+        "Hauptgebäudes",
+        "Zürichberg",
+        "Heimat"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Wunder",
+        "Bloch",
+        "Start",
+        "Teil"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1997"
+        ]
+      }
+    }
   }
 }

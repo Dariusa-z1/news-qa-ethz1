@@ -8,13 +8,8 @@
     "Markus Stoffel",
     "Molecular Health Sciences",
     "Nature Communications",
-    "From",
-    "Anyone",
-    "Munich",
-    "Oktoberfest",
-    "VLDL",
-    "Professor",
-    "Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -29,18 +24,28 @@
     "Liver",
     "Vigilin",
     "Fatty",
-    "From",
-    "This",
-    "That"
+    "Protein",
+    "Which",
+    "Messenger"
   ],
-  "summary": "From fatty liver to heart attack: Anyone attending Munich’s famous Oktoberfest will know it can leave physical traces; fatty foods and plenty of alcohol cause the liver to work overtime....",
+  "summary": "From fatty liver to heart attack: Anyone attending Munich’s famous Oktoberfest will know it can leave physical traces; fatty foods and plenty of alcohol cause the liver to work overtime. This organ stores a portion of any fat consumed (and also converts alcohol to fat), but releases it again once the revelry is over....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 827,
     "readability_score": "complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +56,31 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.68,
+      "avg_word_length": 5.13,
+      "long_word_percentage": 31.32
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "a study that has just appeared in the journal Nature Communications",
+      "authors": [
+        "Anyone",
+        "Munich",
+        "Oktoberfest"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -33,14 +33,24 @@
     "Building",
     "Hönggerberg"
   ],
-  "summary": "Over the years since 1961, when ETH Zurich began construction of the first three buildings on the Hönggerberg site, the location has grown to become a diverse urban campus....",
+  "summary": "Over the years since 1961, when ETH Zurich began construction of the first three buildings on the Hönggerberg site, the location has grown to become a diverse urban campus. Several new facilities for teaching, research, and knowledge transfer have been created in the past decade alone....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1050,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,34 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.33,
+      "avg_word_length": 5.14,
+      "long_word_percentage": 28.67
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zurich",
+        "Hönggerberg",
+        "Several"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Amtshaus"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1961",
+          "2040"
+        ]
+      }
+    }
   }
 }

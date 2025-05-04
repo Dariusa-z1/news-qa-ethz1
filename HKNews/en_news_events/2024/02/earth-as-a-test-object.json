@@ -9,12 +9,12 @@
     "Large Interferometer",
     "James Webb Space Telescope",
     "Sascha Quanz",
-    "The Astrophysical Journal",
     "Ravit Helled",
     "Aqua Earth",
     "If Earth",
     "Gaia Donati",
-    "LIFE"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -29,18 +29,28 @@
     "University of Zurich",
     "Life",
     "Earth",
-    "That",
     "Space",
-    "Exoplanets"
+    "Exoplanets",
+    "Were"
   ],
-  "summary": "In brief: • The technology planned for the future LIFE space mission is capable of recognising habitable exoplanets....",
+  "summary": "In brief: • The technology planned for the future LIFE space mission is capable of recognising habitable exoplanets. This has been demonstrated in a study conducted by researchers at ETH Zurich and the University of Zurich. • They used the measurement procedure intended for LIFE to analyse the Earth as if it were an exoplanet....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 2,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 749,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -50,6 +60,34 @@
       "Technology",
       "Research",
       "Weather"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.03,
+      "avg_word_length": 5.09,
+      "long_word_percentage": 28.7
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "The Astrophysical Journal",
+      "authors": [
+        "Zurich",
+        "University"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Earth",
+        "January",
+        "The Astrophysical Journal"
+      ],
+      "departments": [
+        "study conducted by the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

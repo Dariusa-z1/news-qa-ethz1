@@ -8,13 +8,9 @@
     "Orell Füssli Thalia",
     "Orell Füssli",
     "Delivros Orell Füssli",
-    "Store",
-    "Campus",
-    "Switzerland",
-    "January",
+    "ETH",
     "Hönggerberg",
-    "Polyterrasse",
-    "Centre"
+    "Polyterrasse"
   ],
   "topics": [
     "Campus Life",
@@ -33,14 +29,24 @@
     "Füssli",
     "Shop"
   ],
-  "summary": "In addition to its own online shop, ETH Store AG operates three branches on the ETH Campus in which students and staff can find a wide range of books, stationery and ETH merchandise....",
+  "summary": "In addition to its own online shop, ETH Store AG operates three branches on the ETH Campus in which students and staff can find a wide range of books, stationery and ETH merchandise. ETH Store is now entering into collaboration with Switzerland’s biggest bookseller, Orell Füssli Thalia AG ....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 244,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff"
@@ -50,6 +56,34 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.77,
+      "avg_word_length": 5.0,
+      "long_word_percentage": 25.82
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Campus",
+        "Switzerland"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Sonneggstrasse",
+        "February"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2023",
+          "2023"
+        ]
+      }
+    }
   }
 }

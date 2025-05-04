@@ -1,20 +1,17 @@
 {
   "language": "de",
   "title": "Der Bundesrat hat heute auf Empfehlung des ETH-Rats Professor Dr. Martin Vetterli zum neuen Präsidenten der Ecole Polytechnique Fédérale de Lausanne (EPFL) gewählt. Martin Vetterli ist ordentlicher Professor an der EPFL und aktuell Forschungsratspräsident des Schweizerischen Nationalfonds (SNF). Sein neues Amt wird er am 1. Januar 2017 antreten. Martin Vetterli folgt auf Patrick Aebischer, welcher die EPFL seit 1. März 2000 während 16 Jahren erfolgreich geführt hat, würdigt der Bundesrat. In Aebischers Amtszeit habe sich die EPFL zu einer weltweit führenden naturwissenschaftlich-technischen Hochschule entwickelt, deren Ansehen und Bedeutung weit über die Region und die Landesgrenzen hinausstrahle.",
-  "date": "2016-02-01",
+  "date": "2017-02-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Der Bundesrat hat heute auf Empfehlung des ETH-Rats Professor Dr. Martin Vetterli zum neuen Präsidenten der Ecole Polytechnique Fédérale de Lausanne (EPFL) gewählt. Martin Vetterli ist ordentlicher Professor an der EPFL und aktuell Forschungsratspräsident des Schweizerischen Nationalfonds (SNF). Sein neues Amt wird er am 1. Januar 2017 antreten. Martin Vetterli folgt auf Patrick Aebischer, welcher die EPFL seit 1. März 2000 während 16 Jahren erfolgreich geführt hat, würdigt der Bundesrat. In Aebischers Amtszeit habe sich die EPFL zu einer weltweit führenden naturwissenschaftlich-technischen Hochschule entwickelt, deren Ansehen und Bedeutung weit über die Region und die Landesgrenzen hinausstrahle.\n\nIn seiner beruflichen Laufbahn, namentlich in der Leitung der EPFL und als Forschungsratspräsident SNF, habe Martin Vetterli seine Eignung als Führungsperson einer global ausgerichteten Hochschule unter Beweis gestellt, teilt der Bundesrat weiter mit. Martin Vetterli bringe damit beste Voraussetzungen mit, die erfolgreiche Entwicklung der EPFL fortzuführen und ihre Stellung als international ausgerichtete, innovative und äusserst dynamische Ausbildungs- und Forschungsstätte weiter zu stärken.\n\nWie der Schweizerische Nationalfonds ergänzend dazu mitteilt, wird Martin Vetterli sein Amt als Forschungsratspräsident des Schweizerischen Nationalfonds auf Ende 2016 niederlegen, überzeugt, «dass die Rolle des SNF zur Unterstützung einer freien und qualitativ hochstehenden Grundlagenforschung mehr denn je unverzichtbar ist.»",
   "named_entities": [
-    "Der Bundesrat",
     "Rats Professor Dr",
     "Martin Vetterli",
     "Ecole Polytechnique",
     "Schweizerischen Nationalfonds",
     "Patrick Aebischer",
-    "In Aebischers Amtszeit",
     "Schweizerische Nationalfonds",
-    "Empfehlung",
-    "Präsidenten"
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -31,14 +28,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Der Bundesrat hat heute auf Empfehlung des ETH-Rats Professor Dr. Martin Vetterli zum neuen Präsidenten der Ecole Polytechnique Fédérale de Lausanne (EPFL) gewählt....",
+  "summary": "Der Bundesrat hat heute auf Empfehlung des ETH-Rats Professor Dr. Martin Vetterli zum neuen Präsidenten der Ecole Polytechnique Fédérale de Lausanne (EPFL) gewählt. Martin Vetterli ist ordentlicher Professor an der EPFL und aktuell Forschungsratspräsident des Schweizerischen Nationalfonds (SNF)....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 200,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -49,6 +56,36 @@
       "Education",
       "Administrative",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.67,
+      "avg_word_length": 6.53,
+      "long_word_percentage": 39.5
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Der Bundesrat",
+        "Empfehlung",
+        "Rats Professor Dr",
+        "Martin Vetterli",
+        "Präsidenten"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Vetterli"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017",
+          "2000"
+        ]
+      }
+    }
   }
 }

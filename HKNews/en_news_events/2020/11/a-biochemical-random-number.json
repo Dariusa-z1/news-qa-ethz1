@@ -7,11 +7,6 @@
   "named_entities": [
     "Robert Grass",
     "Professor Grass",
-    "True",
-    "Institute",
-    "Chemical",
-    "Bioengineering",
-    "Compared",
     "ETH"
   ],
   "topics": [
@@ -24,20 +19,30 @@
   "keywords": [
     "Random",
     "Numbers",
-    "This",
-    "With",
-    "That",
     "Synthesis",
-    "Method"
+    "Method",
+    "Molecules",
+    "Building",
+    "Used"
   ],
-  "summary": "DNA synthesis with random building blocks: True random numbers are required in fields as diverse as slot machines and data encryption....",
+  "summary": "DNA synthesis with random building blocks: True random numbers are required in fields as diverse as slot machines and data encryption. These numbers need to be truly random, such that they cannot even be predicted by people with detailed knowledge of the method used to generate them....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 467,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -47,6 +52,27 @@
       "Technology",
       "Research",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.3,
+      "avg_word_length": 5.0,
+      "long_word_percentage": 30.41
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": []
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "Professor at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Marcel Theodor Böni, Abteilung Betrieb Jean-Pierre Lederer, ID IT Procurement & Portfolio Martin Vogt, Abteilung Dienste Rene Weber, Institut für Umweltingenieurwissenschaften\n\nHeinz Müller, Abteilung Immobilien Roger Staerkle, Abteilung Betrieb Marianne Wettstein , Institut für Agrarwissenschaften\n\nTobias Bonwetsch, Professur für Architektur und digitale Fabrikation Martin Huber , Institut für Verkehrsplanung und Transportsysteme Anke-Christiane Kleint, Laboratorium für Organische Chemie\n\nDr....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 115,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Researchers"
     ],
@@ -48,6 +58,27 @@
       "Technology",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.0,
+      "avg_word_length": 7.51,
+      "long_word_percentage": 53.04
+    },
+    "semantic_entities": {
+      "locations": [
+        "Vogt",
+        "Huber"
+      ],
+      "departments": [
+        "Elektromagnetische Felder",
+        "Polymere Margrit Spühler",
+        "Agrarwissenschaften"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

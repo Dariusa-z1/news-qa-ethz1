@@ -7,9 +7,7 @@
   "named_entities": [
     "Gebert Rüf Stiftung",
     "Rare Diseases",
-    "New Approaches",
-    "Swiss",
-    "August"
+    "New Approaches"
   ],
   "topics": [
     "Technology & Innovation",
@@ -21,18 +19,28 @@
     "Universities",
     "Programme",
     "Diseases",
-    "2014",
-    "With",
-    "Applied"
+    "Applied",
+    "Swiss",
+    "Gebert"
   ],
-  "summary": "The research programme of the Gebert Rüf Stiftung «Rare Diseases – New Approaches», started in 2009, will be continued in 2014....",
+  "summary": "The research programme of the Gebert Rüf Stiftung «Rare Diseases – New Approaches», started in 2009, will be continued in 2014. With CHF 2 million p.a., the programme promotes applied research aimed at developing and implementing innovative approaches or technologies....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 86,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -41,6 +49,36 @@
       "Technology",
       "Research",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 8.6,
+      "avg_word_length": 5.95,
+      "long_word_percentage": 46.51
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Gebert Rüf Stiftung",
+        "Rare Diseases",
+        "New Approaches"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Swiss"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "www.grstiftung.ch"
+        ],
+        "phones": [
+          "2009",
+          "2014"
+        ]
+      }
+    }
   }
 }

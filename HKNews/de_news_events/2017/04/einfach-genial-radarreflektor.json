@@ -7,14 +7,14 @@
   "named_entities": [
     "Dieser Mechanismus",
     "Cornelius Senn",
-    "Der Mess",
     "Departement Bau",
     "Art Verzahnung",
     "Was Worte",
-    "Das Nein",
     "Solche Reflektoren",
-    "An Orten",
-    "Bis Silvan Leinss"
+    "Bis Silvan Leinss",
+    "Irena Hajnsek",
+    "Unser Radar",
+    "Einfache Lösung"
   ],
   "topics": [
     "Weather & Environment",
@@ -31,14 +31,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: «Dieser Mechanismus ist so genial, den müsste man patentieren lassen», dachte sich Cornelius Senn, und dies nicht zum ersten Mal....",
+  "summary": "Main article: «Dieser Mechanismus ist so genial, den müsste man patentieren lassen», dachte sich Cornelius Senn, und dies nicht zum ersten Mal. Der Mess- und Elektrotechniker am Departement Bau, Umwelt und Geomatik machte schon oft Erfindungen und stellte Geräte her, die den Forschenden im Departement das Leben erleichterten....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 738,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Campus Notice",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -47,6 +57,26 @@
       "Sustainability",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.76,
+      "avg_word_length": 5.68,
+      "long_word_percentage": 29.54
+    },
+    "semantic_entities": {
+      "locations": [
+        "Schnee",
+        "Metallband"
+      ],
+      "departments": [
+        "und Elektrotechniker am",
+        "die den Forschenden im"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -11,10 +11,8 @@
     "Atlantic Ocean",
     "Simon Yang",
     "North Pacific Ocean",
-    "Transported",
-    "When",
-    "Zurich",
-    "Science"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -28,19 +26,29 @@
     "ETH Zurich",
     "Nitrogen",
     "Ocean",
-    "That",
-    "From",
     "Increase",
-    "Nitrate"
+    "Nitrate",
+    "Have",
+    "Gruber"
   ],
-  "summary": "",
+  "summary": "Transported thousands of kilometres: When fossil fuels are burned at high temperatures, such as in coal and gas-fired power stations, nitrogen oxide and other reactive nitrogen compounds are formed and released into the atmosphere. Agricultural activities also have the same effect, when a part of the nitrogen found in fertiliser is lost into the atmosphere in the form of nitrogen oxide or ammonia....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 711,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +60,34 @@
       "Research",
       "Weather",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.94,
+      "avg_word_length": 5.13,
+      "long_word_percentage": 30.1
+    },
+    "citation_info": {
+      "doi": "10.1126/science.1258396",
+      "journal": "a recently published study in the journal Science",
+      "authors": [
+        "Transported",
+        "Agricultural",
+        "East Asia"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "East Asia"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2014",
+          "1126"
+        ]
+      }
+    }
   }
 }

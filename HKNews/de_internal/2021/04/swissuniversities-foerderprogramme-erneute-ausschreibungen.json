@@ -5,14 +5,8 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Das Info-Portal für Mitarbeitende mit den wichtigsten Informationen rund um das Geschehen an der ETH Zürich.\n\nFür Newsletter «Intern aktuell» anmelden",
   "named_entities": [
-    "Das Info-Portal",
-    "Für Newsletter",
-    "Mitarbeitende",
-    "Informationen",
-    "Geschehen",
-    "Zürich",
-    "Intern",
-    "ETH Zürich"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Communication",
@@ -28,18 +22,42 @@
     "Education"
   ],
   "summary": "Das Info-Portal für Mitarbeitende mit den wichtigsten Informationen rund um das Geschehen an der ETH Zürich. Für Newsletter «Intern aktuell» anmelden...",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 22,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 11.0,
+      "avg_word_length": 5.68,
+      "long_word_percentage": 31.82
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

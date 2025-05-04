@@ -7,14 +7,14 @@
   "named_entities": [
     "Julian Ferchow",
     "Proning Taco",
-    "The Proning Taco",
     "University Hospital Zurich",
     "Hanspeter Keel",
     "Frederick Waldern",
     "Lorenzo Scazziga",
     "Gokula Englberger",
     "Susanne Kohler",
-    "Philipp Bühler"
+    "Philipp Bühler",
+    "Professor Mirko Meboldt"
   ],
   "topics": [
     "COVID-19",
@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "Ferchow",
-    "With",
     "Proning",
     "System",
-    "This",
-    "Team"
+    "Team",
+    "They",
+    "Taco"
   ],
-  "summary": "Main article: When the first wave of coronavirus ran its course in spring, Julian Ferchow was shocked to begin with....",
+  "summary": "Main article: When the first wave of coronavirus ran its course in spring, Julian Ferchow was shocked to begin with. “We saw the pictures coming in from Italy, with exhausted doctors and distraught nursing staff.” He knew right away: “We have to help out.” Ferchow put his doctoral project aside for a while and assembled a 20-strong team....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 600,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +62,33 @@
       "Technology",
       "Research",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.14,
+      "avg_word_length": 4.99,
+      "long_word_percentage": 29.17
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Julian Ferchow"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "University Hospital Zurich",
+        "Basel",
+        "Italy",
+        "Asia",
+        "Ferchow"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -11,10 +11,10 @@
     "Covid-Taskforce",
     "Frau Timmel",
     "Ihre Arbeit",
-    "Die Teilnehmenden",
-    "Das Schutzkonzept",
     "Welche Empfehlungen",
-    "Akademischen Dienste"
+    "Akademischen Dienste",
+    "Neben Reto Suter",
+    "Maike Heimann"
   ],
   "topics": [
     "COVID-19",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Die ETH Zürich unternimmt grosse Anstrengungen, damit ihre Angehörigen möglichst gesund durch die Coronapandemie kommen. Dennoch lassen sich Ansteckungen nicht komplett vermeiden....",
+  "summary": "Die ETH Zürich unternimmt grosse Anstrengungen, damit ihre Angehörigen möglichst gesund durch die Coronapandemie kommen. Dennoch lassen sich Ansteckungen nicht komplett vermeiden. Katherine Timmel, Leiterin der Abteilung Sicherheit, Gesundheit und Umwelt (SGU) und ihr Stellvertreter Reto Suter sind in der ETH-Covid-Taskforce....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 793,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +62,38 @@
       "COVID-19",
       "Sustainability",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.42,
+      "avg_word_length": 5.93,
+      "long_word_percentage": 32.16
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zürich",
+        "Anstrengungen",
+        "Angehörigen",
+        "Coronapandemie"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Einzelzimmern",
+        "Restaurants",
+        "Schach",
+        "Suter"
+      ],
+      "departments": [
+        "sondern aller Abteilungen und",
+        "den verantwortlichen Personen in den"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

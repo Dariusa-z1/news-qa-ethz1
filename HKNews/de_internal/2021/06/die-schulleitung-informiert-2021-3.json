@@ -7,14 +7,14 @@
   "named_entities": [
     "Vertiefte Diskussion",
     "Home-Office",
-    "Die Lehren",
     "Covid-Pandemie",
     "Home-Office-Phase",
     "Neues Studienreglement",
     "Diese Praxis",
-    "Die Schulleitung",
     "Bachelor-Studiengang",
-    "Der Mathematik-Bachelor"
+    "Den Studierenden",
+    "Bedretto Underground Laboratory",
+    "Departements Erdwissenschaften"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Vertiefte Diskussion um Arbeitsformen der Zukunft: Nach der sich abzeichnenden, zunehmenden Normalisierung nach der Pandemie-bedingten langen Phase des Home-Office hat sich die Schulleitung in ihrer letzten Sitzung ein erstes Mal mit der Rückkehr der ETH-Mitarbeitenden an ihren Arbeitsplatz beschäftigt....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 1,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 656,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -53,6 +63,39 @@
       "COVID-19",
       "Sustainability",
       "Infrastructure"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.74,
+      "avg_word_length": 6.58,
+      "long_word_percentage": 39.18
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Vertiefte Diskussion",
+        "Arbeitsformen",
+        "Zukunft",
+        "Normalisierung"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Mathematik",
+        "Studienreglement",
+        "Kraft",
+        "Underground Laboratory",
+        "Teilprojekt"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2021",
+          "2010"
+        ]
+      }
+    }
   }
 }

@@ -7,14 +7,9 @@
   "named_entities": [
     "Dr Marc Roschlin",
     "Patrick Leu",
-    "People",
-    "Switzerland",
-    "COVID",
-    "Swiss",
-    "Zurich",
-    "Lausanne",
-    "There",
-    "Android"
+    "ETH Zurich",
+    "ETH",
+    "Marc Roschlin"
   ],
   "topics": [
     "Technology & Innovation",
@@ -26,21 +21,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
-    "With",
     "Will",
     "Their",
     "Have",
-    "Also"
+    "Tracing",
+    "People",
+    "Infection"
   ],
-  "summary": "People in Switzerland are gradually returning to their everyday routines and their work now that the peak of the coronavirus crisis seems to have passed....",
+  "summary": "People in Switzerland are gradually returning to their everyday routines and their work now that the peak of the coronavirus crisis seems to have passed. But the easing of the lockdown also fuels fears about a second wave of infection. Strict adherence to health and safety rules is the best strategy for protecting ourselves against COVID-19 infection....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 896,
     "readability_score": "moderately complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Faculty",
@@ -52,6 +57,33 @@
       "Technology",
       "Research",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.33,
+      "avg_word_length": 4.81,
+      "long_word_percentage": 24.22
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "People",
+        "Switzerland",
+        "Strict"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland",
+        "Google",
+        "June"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

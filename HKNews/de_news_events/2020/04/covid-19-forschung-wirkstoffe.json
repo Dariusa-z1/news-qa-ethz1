@@ -8,13 +8,13 @@
     "Den Eintritt",
     "Notbetrieb Labore",
     "Neue Wirkstoffe",
-    "Das Coronavirus",
     "Dieser Schlüssel",
     "Spike-Protein",
     "Roland Riek",
     "Kernspinresonanz-Spektroskopie",
     "Dario Neri",
-    "Pharmazeutische Wissenschaften"
+    "Pharmazeutische Wissenschaften",
+    "Solche Moleküle"
   ],
   "topics": [
     "COVID-19",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Den Eintritt der Viren in Zellen unterbinden: Noch gibt es keine zuverlässige Therapie gegen Sars-CoV-2....",
+  "summary": "Den Eintritt der Viren in Zellen unterbinden: Noch gibt es keine zuverlässige Therapie gegen Sars-CoV-2. Schweiz- und weltweit suchen Wissenschaftler jedoch unter Hochdruck nach Mitteln gegen den Erreger der Covid-19-Pandemie. Auch an der ETH Zürich arbeiten ausgewählte Forschungsgruppen daran....",
+  "content_structure": {
+    "paragraph_count": 16,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 949,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -49,6 +59,41 @@
       "COVID-19",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.91,
+      "avg_word_length": 6.25,
+      "long_word_percentage": 37.93
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Den Eintritt",
+        "Zellen",
+        "Therapie"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Vakzin",
+        "Shana Sturla",
+        "Zellen",
+        "Zellversuchen",
+        "Fussenegger"
+      ],
+      "departments": [
+        "mit Partnern des Friedrich Miescher",
+        "Pharmazeutische Wissenschaften nach neuen Hemmstoffen",
+        "Derweil sucht Dario Neri am"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "5000"
+        ]
+      }
+    }
   }
 }

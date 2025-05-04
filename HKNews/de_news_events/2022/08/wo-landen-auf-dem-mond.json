@@ -9,12 +9,12 @@
     "Nachdem China",
     "Artemis-Programm",
     "Mond-Südpolregion",
-    "Die Südpolregion",
     "Dieses Potenzial",
-    "Das Eis",
     "Erde-Mond-System",
     "Ihre Arbeit",
-    "Geophysical Research Letters"
+    "Geophysical Research Letters",
+    "Valentin Bickel",
+    "Lunar Reconnaissance Orbiter Camera"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Eis als faszinierendes Potenzial: 1972 sind die letzten Menschen auf dem Mond gelandet – danach wurde das Apollo-Programm eingestellt. Doch das Interesse am Mond ist wieder neu erwacht....",
+  "summary": "Eis als faszinierendes Potenzial: 1972 sind die letzten Menschen auf dem Mond gelandet – danach wurde das Apollo-Programm eingestellt. Doch das Interesse am Mond ist wieder neu erwacht. Nachdem China bereits 2020 mit einem Roboter auf der Rückseite des Mondes gelandet ist und dabei auch gleich eine Nationalflagge gehisst hat, plant die NASA voraussichtlich zwischen 2025 und 2028 mit dem Artemis-Programm in der Mond-Südpolregion zu landen....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 656,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -48,6 +58,39 @@
       "Weather",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.62,
+      "avg_word_length": 5.84,
+      "long_word_percentage": 35.21
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Potenzial",
+        "Menschen",
+        "Apollo"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Houston",
+        "Wassereis",
+        "Bickel"
+      ],
+      "departments": [
+        "die vom Lunar and Planetary",
+        "Medienmitteilung des Lunar and Planetary"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1972",
+          "2020"
+        ]
+      }
+    }
   }
 }

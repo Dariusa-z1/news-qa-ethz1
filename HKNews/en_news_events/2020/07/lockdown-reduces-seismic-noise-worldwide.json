@@ -9,12 +9,9 @@
     "Royal Observatory",
     "Swiss Seismological Service",
     "Saharan Africa",
-    "In Switzerland",
     "Swiss Strong Motion Network",
-    "Noise",
-    "Belgium",
-    "Zurich",
-    "COVID"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -28,19 +25,29 @@
     "ETH Zurich",
     "Seismic",
     "Noise",
-    "From",
     "Lockdown",
     "Study",
-    "Reduction"
+    "Reduction",
+    "Areas"
   ],
-  "summary": "",
+  "summary": "Noise reduction in urban areas: By analysing month-to-years long datasets from over 300 seismic stations around the world, the study, led by Thomas Lecocq from the Royal Observatory of Belgium, was able to show how the seismic noise decreased in many countries and regions since the start of the lockdown measures....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 443,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -49,6 +56,35 @@
       "Research",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 24.61,
+      "avg_word_length": 5.32,
+      "long_word_percentage": 31.83
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Thomas Lecocq",
+        "Royal Observatory",
+        "Belgium"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland",
+        "Lugano",
+        "Italy"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020"
+        ]
+      }
+    }
   }
 }

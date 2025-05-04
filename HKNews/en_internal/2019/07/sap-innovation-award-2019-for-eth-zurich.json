@@ -7,14 +7,10 @@
   "named_entities": [
     "Innovation Award",
     "Markus Knaus",
-    "The Innovation Award",
     "Best Modernisation Project",
     "Business Suite",
-    "Zurich",
-    "June",
-    "Bern",
-    "Controlling",
-    "Germany"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -30,17 +26,27 @@
     "Project",
     "“refine”",
     "Award",
-    "2019",
-    "Resource"
+    "Resource",
+    "Finance"
   ],
-  "summary": "The technology company SAP awarded the SAP Innovation Award 2018 to ETH Zurich on 27 June 2019 in Bern....",
+  "summary": "The technology company SAP awarded the SAP Innovation Award 2018 to ETH Zurich on 27 June 2019 in Bern. The university was recognised for its “refine” project (next-generation resource and finance platform for ETH Zurich). The award was accepted on behalf of ETH Zurich by project leader Markus Knaus, head of the Controlling department....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 337,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Students",
       "Staff",
@@ -51,6 +57,26 @@
       "Technology",
       "Administrative",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.06,
+      "avg_word_length": 5.01,
+      "long_word_percentage": 28.19
+    },
+    "semantic_entities": {
+      "locations": [
+        "Bern",
+        "Germany"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2018",
+          "2019"
+        ]
+      }
+    }
   }
 }

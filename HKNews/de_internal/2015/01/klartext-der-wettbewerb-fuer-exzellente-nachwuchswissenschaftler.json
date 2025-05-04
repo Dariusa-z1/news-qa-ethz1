@@ -7,14 +7,8 @@
   "named_entities": [
     "Klaus Tschira Stiftung",
     "Klaus Tschira Preis",
-    "Der Einsendeschluss",
     "Fächer Biologie",
-    "Die Preise",
-    "Der Klaus Tschira Preis",
-    "Alle Informationen",
-    "Nachwuchswissenschaftler",
-    "Forschungsergebnisse",
-    "KlarText"
+    "Alle Informationen"
   ],
   "topics": [
     "Research",
@@ -30,14 +24,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Für exzellente Nachwuchswissenschaftler, die ihre Forschungsergebnisse der Öffentlichkeit allgemein verständlich darstellen wollen, schreibt die Klaus Tschira Stiftung jährlich «KlarText!, den Klaus Tschira Preis für verständliche Wissenschaft», aus. Der Einsendeschluss 2015 ist am 28....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 136,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -46,6 +50,34 @@
       "Financial",
       "Research",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 10.46,
+      "avg_word_length": 6.7,
+      "long_word_percentage": 41.18
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Nachwuchswissenschaftler",
+        "Forschungsergebnisse",
+        "Klaus Tschira Stiftung"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "www.klaus-tschira-preis.info"
+        ],
+        "phones": [
+          "2015",
+          "2014"
+        ]
+      }
+    }
   }
 }

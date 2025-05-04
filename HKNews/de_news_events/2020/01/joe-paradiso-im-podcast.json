@@ -11,10 +11,8 @@
     "Campus Hönggerberg",
     "Im Podcast",
     "Podcast-Studio",
-    "Professor",
-    "Medienkunst",
-    "Rolle",
-    "Elektromusikszene"
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Research",
@@ -31,14 +29,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Joe Paradiso ist Professor am MIT Media Lab für Medienkunst und -wissenschaften, und spielt eine wichtige Rolle in der internationalen Elektromusikszene....",
+  "summary": "Joe Paradiso ist Professor am MIT Media Lab für Medienkunst und -wissenschaften, und spielt eine wichtige Rolle in der internationalen Elektromusikszene. Vieles von dem, was Joe heute macht, begann in den 1980er Jahren als Postdoc im Departement für Physik an der ETH....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 137,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -48,6 +56,39 @@
       "Research",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.12,
+      "avg_word_length": 5.53,
+      "long_word_percentage": 27.01
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Joe Paradiso",
+        "Professor",
+        "Media Lab",
+        "Medienkunst"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Davos",
+        "Massachusetts",
+        "Zürich"
+      ],
+      "departments": [
+        "Physik an der",
+        "er Jahren als Postdoc im"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1980"
+        ]
+      }
+    }
   }
 }

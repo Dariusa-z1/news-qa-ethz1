@@ -8,13 +8,13 @@
     "Aerospace Electronic",
     "Instrument Laboratory",
     "Domenico Giardini",
-    "The Professor",
     "Marsquake Service",
     "Simon Stähler",
     "Geodynamics Group",
     "Swiss Seismological Service",
     "Interior Exploration",
-    "Seismic Investigations"
+    "Seismic Investigations",
+    "Heat Transport"
   ],
   "topics": [
     "Research",
@@ -26,20 +26,30 @@
   "keywords": [
     "ETH Zurich",
     "Mars",
-    "That",
     "Crust",
     "Insight",
-    "From",
-    "Signals"
+    "Signals",
+    "Planet",
+    "Inner"
   ],
-  "summary": "Main article: The InSight probe (see box) has already transmitted a range of signals from Mars to Earth. This is good news for ETH Zurich....",
+  "summary": "Main article: The InSight probe (see box) has already transmitted a range of signals from Mars to Earth. This is good news for ETH Zurich. The detection of these signals is due, at least in part, to the highly sensitive electronics of the seismometer developed at the university's Aerospace Electronic and Instrument Laboratory....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 530,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -50,6 +60,42 @@
       "Research",
       "Events",
       "Weather"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.1,
+      "avg_word_length": 5.0,
+      "long_word_percentage": 28.87
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "The In"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "6 April 2019"
+      ],
+      "time_references": [],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Earth",
+        "Transport",
+        "Mars"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "insight.ethz.ch"
+        ],
+        "phones": [
+          "2019"
+        ]
+      }
+    }
   }
 }

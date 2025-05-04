@@ -7,14 +7,13 @@
   "named_entities": [
     "Petra Dittrich",
     "Starting Grants",
-    "In December",
     "Starting Grant",
     "Martin Vechev",
     "Assistant Professor",
     "Computer Science",
     "Big Code",
-    "Main",
-    "News"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -32,14 +31,24 @@
     "Project",
     "Starting"
   ],
-  "summary": "Main article: ETH professor Petra Dittrich uses lab-on-a-chip technology to develop miniaturized analysis systems for application in biology and chemistry....",
+  "summary": "Main article: ETH professor Petra Dittrich uses lab-on-a-chip technology to develop miniaturized analysis systems for application in biology and chemistry. She would like to develop this technology further in her ERC project, utilising it as a basis for the production of simple artificial cells with similar functionalities to living cells....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 283,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -49,6 +58,32 @@
       "Research",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.58,
+      "avg_word_length": 5.34,
+      "long_word_percentage": 36.4
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the Department of Computer Science",
+      "authors": [
+        "Petra Dittrich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Vechev"
+      ],
+      "departments": [
+        "Assistant Professor in the",
+        "Computer Science"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

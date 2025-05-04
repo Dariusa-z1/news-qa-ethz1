@@ -7,14 +7,14 @@
   "named_entities": [
     "Executive Board",
     "Swiss Government",
-    "The Executive Board",
     "Autumn Semester",
     "Bedretto Underground Laboratory",
     "Earth Sciences",
     "Bedretto Tunnel",
     "Swiss Energy Strategy",
     "Bedretto Lab",
-    "Swiss Roadmap"
+    "Swiss Roadmap",
+    "Research Infrastructures"
   ],
   "topics": [
     "Research",
@@ -26,21 +26,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "From",
-    "This",
     "Board",
     "Research",
     "Executive",
-    "With"
+    "Mathematics",
+    "Home",
+    "Will"
   ],
-  "summary": "",
+  "summary": "In-depth discussion on the future of work: In its last meeting, the Executive Board focused for the first time on ETH staff going back to the office after the long phase of working from home due to the pandemic; it now seems increasingly likely that life is returning to normal....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 1,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 771,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -54,6 +64,38 @@
       "COVID-19",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.36,
+      "avg_word_length": 5.28,
+      "long_word_percentage": 31.91
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Executive Board",
+        "Overall",
+        "Zurich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Tunnel",
+        "Research",
+        "Underground Laboratory"
+      ],
+      "departments": [
+        "Earth Sciences"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2021",
+          "2010"
+        ]
+      }
+    }
   }
 }

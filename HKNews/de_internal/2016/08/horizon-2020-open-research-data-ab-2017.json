@@ -9,12 +9,7 @@
     "Open Access",
     "Open Data",
     "Seite Infografik",
-    "Zugang",
-    "Daten",
-    "Publikationen",
-    "Forschungsdaten",
-    "Wahl",
-    "Datenmanagement"
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -30,20 +25,54 @@
     "Campus",
     "Education"
   ],
-  "summary": "Geförderte Forschende müssen den offenen Zugang zu den Daten sicherstellen, die ihren Publikationen zugrunde liegen....",
+  "summary": "Geförderte Forschende müssen den offenen Zugang zu den Daten sicherstellen, die ihren Publikationen zugrunde liegen. Zusätzlich müssen sie für Open Access zu weiteren Forschungsdaten ihrer Wahl sorgen. Ein 'Opt out' bleibt möglich....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 71,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 11.83,
+      "avg_word_length": 6.0,
+      "long_word_percentage": 30.99
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Geförderte Forschende",
+        "Zugang",
+        "Publikationen",
+        "Zusätzlich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

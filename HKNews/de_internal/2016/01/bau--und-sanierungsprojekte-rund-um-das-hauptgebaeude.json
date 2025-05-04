@@ -6,15 +6,11 @@
   "main_content": "Im Hauptgebäude stehen in den kommenden Monaten und Jahren vielfältige Bau- und Sanierungsmassnahmen an. Die Abteilung Immobilien wird an einer Informationsveranstaltung über zukünftige Projekte im Hauptgebäude näher informieren und das weitere Vorgehen aufzeigen. Die Veranstaltung findet am 11. Januar 2016 von 16 Uhr bis 16:45 Uhr im Audi Max (HG F 30) statt.\n\nThematisiert werden unter anderem die Sanierung des Vorplatzes Rämihof und des MM unter der Polyterrasse sowie die Verlegung des Thomas-Mann- und des Max-Frisch-Archivs.\n\nZudem findet vom 14. bis 27. Januar in der Haupthalle des Hauptgebäudes eine Ausstellung statt, bei der der Sieger des Architekturwettbewerbs für die Sanierung des Rämihofs sowie seine Mitstreiter vorgestellt werden.",
   "named_entities": [
     "Im Hauptgebäude",
-    "Die Abteilung Immobilien",
-    "Die Veranstaltung",
     "Audi Max",
     "Vorplatzes Rämihof",
     "Thomas-Mann",
     "Max-Frisch-Archivs",
-    "Monaten",
-    "Jahren",
-    "Sanierungsmassnahmen"
+    "Polyterrasse"
   ],
   "topics": [
     "Infrastructure",
@@ -30,14 +26,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Im Hauptgebäude stehen in den kommenden Monaten und Jahren vielfältige Bau- und Sanierungsmassnahmen an....",
+  "summary": "Im Hauptgebäude stehen in den kommenden Monaten und Jahren vielfältige Bau- und Sanierungsmassnahmen an. Die Abteilung Immobilien wird an einer Informationsveranstaltung über zukünftige Projekte im Hauptgebäude näher informieren und das weitere Vorgehen aufzeigen....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 111,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff"
@@ -45,6 +51,31 @@
     "context_tags": [
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.88,
+      "avg_word_length": 5.64,
+      "long_word_percentage": 28.83
+    },
+    "temporal_info": {
+      "event_dates": [
+        "16 Uhr"
+      ],
+      "time_references": [
+        "16:45 Uhr"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016"
+        ]
+      }
+    }
   }
 }

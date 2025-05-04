@@ -7,14 +7,14 @@
   "named_entities": [
     "Den Austausch",
     "Schweizer Unternehmen",
-    "Das Bett",
     "Detlef Günther",
     "Industry Day",
-    "Der Industry Day",
     "Andreas Bong",
     "Leiter Unternehmensforschung",
     "Werkzeugherstellers Hilti",
-    "Das Unternehmen"
+    "Im Themenbereich",
+    "Martin Saar",
+    "Gabriela Hug"
   ],
   "topics": [
     "Research",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Den Austausch weiter vereinfachen: Schnarchen kann zum Gesundheitsproblem werden. Nun entwickelt ein Schweizer Unternehmen mit ETH-Forschenden ein Bett, welches das Schnarchen reduzieren kann....",
+  "summary": "Den Austausch weiter vereinfachen: Schnarchen kann zum Gesundheitsproblem werden. Nun entwickelt ein Schweizer Unternehmen mit ETH-Forschenden ein Bett, welches das Schnarchen reduzieren kann. Dank neuster Technologie kann das Bett die Körperhaltung der Schlafenden durch leichte Bewegungen verändern und Schnarchen vorbeugen....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 605,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -51,6 +61,39 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.33,
+      "avg_word_length": 6.24,
+      "long_word_percentage": 37.52
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Den Austausch",
+        "Schnarchen",
+        "Gesundheitsproblem",
+        "Schweizer Unternehmen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Saar",
+        "Trend",
+        "Richtung",
+        "Umfeld",
+        "Bett"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017",
+          "2018"
+        ]
+      }
+    }
   }
 }

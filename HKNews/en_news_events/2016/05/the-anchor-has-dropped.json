@@ -10,11 +10,11 @@
     "Professor Tom Emerson",
     "Boris Gusic",
     "Adrian Heusser",
-    "The Manifesta",
     "Kathrin Füglister",
     "Anna Maria Stallmann",
     "Jonatan Egli",
-    "Willy Stäubli"
+    "Willy Stäubli",
+    "Gewerbliche Berufsschule Wetzikon"
   ],
   "topics": [
     "Education",
@@ -30,17 +30,27 @@
     "Pavilion",
     "Project",
     "Students",
-    "With",
-    "Will"
+    "Will",
+    "Manifesta"
   ],
-  "summary": "Main article: Finished at last: At 6.30 am. yesterday, the Pavilion of Reflections was moored at Bellevue, Zurich....",
+  "summary": "Main article: Finished at last: At 6.30 am. yesterday, the Pavilion of Reflections was moored at Bellevue, Zurich. For 100 days, the pavilion will act as a nucleus and focal point for the thousands of visitors to the Manifesta 11 European Biennial of Contemporary Art in Zurich....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1123,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,52 @@
       "Technology",
       "Research",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.19,
+      "avg_word_length": 4.81,
+      "long_word_percentage": 26.71
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Finished",
+        "Pavilion",
+        "Reflections"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "4 August 2015",
+        "30 students"
+      ],
+      "time_references": [
+        "30 am"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Winterthur Grüze",
+        "Bellevue",
+        "Füglister",
+        "Zurich",
+        "Architecture"
+      ],
+      "departments": [
+        "Architecture"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "m11.manifesta.org"
+        ],
+        "phones": [
+          "2015",
+          "2015"
+        ]
+      }
+    }
   }
 }

@@ -4,36 +4,61 @@
   "date": "2015-06-01",
   "source": "Unknown source",
   "main_content": "Since it was launched in 1963, it has featured a large number of pivotal texts on modern and post-modern architecture. Meanwhile, with 150 volumes, it is the most extensive book series in German on these topics.\n\nFor licensing reasons, access to this database is restricted to the domain ethz.ch.",
-  "named_entities": [
-    "Since",
-    "German"
-  ],
+  "named_entities": [],
   "topics": [
     "University News"
   ],
   "keywords": [
     "Since",
     "Launched",
-    "1963",
     "Featured",
     "Large",
     "Number",
-    "Pivotal"
+    "Pivotal",
+    "Texts"
   ],
-  "summary": "Since it was launched in 1963, it has featured a large number of pivotal texts on modern and post-modern architecture....",
+  "summary": "Since it was launched in 1963, it has featured a large number of pivotal texts on modern and post-modern architecture. Meanwhile, with 150 volumes, it is the most extensive book series in German on these topics. For licensing reasons, access to this database is restricted to the domain ethz.ch....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 51,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.75,
+      "avg_word_length": 4.67,
+      "long_word_percentage": 21.57
+    },
+    "semantic_entities": {
+      "locations": [
+        "German"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1963"
+        ]
+      }
+    }
   }
 }

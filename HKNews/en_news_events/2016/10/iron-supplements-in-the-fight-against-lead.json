@@ -9,12 +9,8 @@
     "Raschida Bouhouch",
     "North-South",
     "University Hospital",
-    "In Europe",
-    "Moroccan",
-    "Lead",
-    "Switzerland",
-    "Michael",
-    "Laboratory"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -28,19 +24,29 @@
     "ETH Zurich",
     "Iron",
     "Lead",
-    "With",
     "Blood",
-    "That",
-    "Biscuits"
+    "Biscuits",
+    "Edta",
+    "Children"
   ],
-  "summary": "450 Moroccan schoolchildren examined: Lead is a toxic heavy metal that was added to petrol for use in cars until as recently as 25 years ago, including in Switzerland....",
+  "summary": "450 Moroccan schoolchildren examined: Lead is a toxic heavy metal that was added to petrol for use in cars until as recently as 25 years ago, including in Switzerland. It is particularly harmful to the developing brains of infants, children and teenagers, and the damage it does is irreversible....",
+  "content_structure": {
+    "paragraph_count": 16,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 896,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +58,32 @@
       "Technology",
       "Research",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.4,
+      "avg_word_length": 5.14,
+      "long_word_percentage": 28.12
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Moroccan",
+        "Switzerland"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland",
+        "Africa",
+        "Flint"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -5,16 +5,12 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Die Teilnehmerinnen verbringen drei Tage an der ETH Zürich. In dieser Zeit lernen sie, wie man Android Apps programmiert, erhalten Einblicke in verschiedene Gebiete der Informatik, besuchen Vorlesungen von ETH-Professoren und treffen auf Informatik-Studenten und Studentinnen der ETH Zürich. Zudem erfahren sie bei einer Exkursion in die Industrie mehr über die Karrieremöglichkeiten nach einem erfolgreichen Abschluss des Informatikstudiums.\n\nDas nächste Schnupperstudium findet vom 13. bis 15. Februar 2017 im ETH Zentrum statt. Die Teilnahme ist kostenlos.\n\nAnmeldung unter: http://www.frauen.inf.ethz.ch/fuer-schuelerinnen/schnupperstudium.html . Die Anzahl der Teilnehmerinnen ist beschränkt.\n\nDas Schnupperstudium wird von CSNOW organisiert, dem Netzwerk für Informatik Studentinnen der ETH Zürich. Es findet zweimal pro Jahr statt, im Februar und im September. Weitere Informationen unter: http://www.frauen.inf.ethz.ch .",
   "named_entities": [
-    "Die Teilnehmerinnen",
     "Android Apps",
     "Informatik-Studenten",
-    "Die Teilnahme",
-    "Die Anzahl",
-    "Das Schnupperstudium",
     "Informatik Studentinnen",
     "Weitere Informationen",
-    "Tage",
-    "Zürich"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -32,14 +28,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Die Teilnehmerinnen verbringen drei Tage an der ETH Zürich....",
+  "summary": "Die Teilnehmerinnen verbringen drei Tage an der ETH Zürich. In dieser Zeit lernen sie, wie man Android Apps programmiert, erhalten Einblicke in verschiedene Gebiete der Informatik, besuchen Vorlesungen von ETH-Professoren und treffen auf Informatik-Studenten und Studentinnen der ETH Zürich....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 130,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Faculty"
@@ -49,6 +55,25 @@
       "Technology",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 6.19,
+      "avg_word_length": 5.93,
+      "long_word_percentage": 33.85
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "frauen.inf.ethz.ch",
+          "frauen.inf.ethz.ch"
+        ],
+        "phones": [
+          "2017"
+        ]
+      }
+    }
   }
 }

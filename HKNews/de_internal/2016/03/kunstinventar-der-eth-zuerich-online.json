@@ -7,14 +7,11 @@
   "named_entities": [
     "Schweizer Künstlern",
     "Gottfried Honegger",
-    "Augusto Giacometti",
     "Wilhelm Ludwig Lehmann",
     "Stefan Gritsch",
     "Roman Signer",
     "Pics Kunstinventar",
-    "Plastiken",
-    "Gemälde",
-    "Porträts"
+    "ETH"
   ],
   "topics": [
     "University News"
@@ -27,20 +24,46 @@
     "Campus",
     "Education"
   ],
-  "summary": "Es handelt sich um Plastiken, Gemälde, Porträts bekannter Persönlichkeiten, Büsten, Kunst am Bau oder Abgüsse....",
+  "summary": "Es handelt sich um Plastiken, Gemälde, Porträts bekannter Persönlichkeiten, Büsten, Kunst am Bau oder Abgüsse. Hierunter befinden sich vor allem Werke von Schweizer Künstlern wie Gottfried Honegger, Augusto Giacometti, Wilhelm Ludwig Lehmann, Stefan Gritsch und Roman Signer....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 41,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.67,
+      "avg_word_length": 6.12,
+      "long_word_percentage": 46.34
+    },
+    "semantic_entities": {
+      "locations": [
+        "Giacometti"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

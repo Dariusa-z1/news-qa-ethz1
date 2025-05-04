@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Entdeckung durch «Cyber-Holz»: Klapperschlangen und Grubenottern sind bekannt dafür, dass sie ihre Beute auch in völliger Dunkelheit sicher orten können....",
+  "summary": "Entdeckung durch «Cyber-Holz»: Klapperschlangen und Grubenottern sind bekannt dafür, dass sie ihre Beute auch in völliger Dunkelheit sicher orten können. Das hochsensible Grubenorgan zwischen Auge und Nase erlaubt es ihnen, den warmen Körper eines Säugetiers noch aus einem Meter Entfernung wahrzunehmen....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 565,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -49,6 +59,37 @@
       "Research",
       "Weather",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.48,
+      "avg_word_length": 6.12,
+      "long_word_percentage": 36.99
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Entdeckung",
+        "Klapperschlangen",
+        "Grubenottern"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Daraio",
+        "Prothesen"
+      ],
+      "departments": [
+        "Wissenschaftlern um Chiara Daraio vom"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "2017"
+        ]
+      }
+    }
   }
 }

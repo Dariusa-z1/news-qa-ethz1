@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "Quantum",
-    "From",
     "Professor",
     "Physics",
     "Research",
-    "Zurich"
+    "Zurich",
+    "Projects"
   ],
-  "summary": "The EU is planning to invest around EUR 1 billion over the next ten years to secure Europe a leading position in the field of quantum technologies....",
+  "summary": "The EU is planning to invest around EUR 1 billion over the next ten years to secure Europe a leading position in the field of quantum technologies. The ambitious initiative aims to contribute towards eventually turning the findings of quantum physics into marketable products....",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 379,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +60,35 @@
       "Research",
       "Events",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.69,
+      "avg_word_length": 5.45,
+      "long_word_percentage": 37.99
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Europe"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "October"
+      ],
+      "departments": [
+        "Professor Sebastian Kozerke from the",
+        "Professor Jonathan Home from the",
+        "Professor Matthias Troyer from the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2018"
+        ]
+      }
+    }
   }
 }

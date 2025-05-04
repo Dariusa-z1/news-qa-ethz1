@@ -7,14 +7,8 @@
   "named_entities": [
     "Dove Press",
     "Open Access",
-    "Following",
-    "Taylor",
-    "Francis",
-    "Read",
-    "Publish",
-    "January",
-    "Zurich",
-    "Faculty"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Communication",
@@ -28,21 +22,50 @@
     "Will",
     "Access",
     "Negotiations",
-    "With"
+    "Taylor"
   ],
-  "summary": "Following intense negotiations with Taylor & Francis, an agreement has been reached by now....",
+  "summary": "Following intense negotiations with Taylor & Francis, an agreement has been reached by now. The new Read & Publish agreement 2024-​2027 will start retroactively from 1 January 2024 and allows members of ETH Zurich to publish free of charge in all Taylor & Francis gold and hybrid journals as well as the Dove Press and Faculty of 1000 portfolios....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 139,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Faculty"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.38,
+      "avg_word_length": 5.06,
+      "long_word_percentage": 30.94
+    },
+    "semantic_entities": {
+      "locations": [
+        "January"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2024",
+          "2027"
+        ]
+      }
+    }
   }
 }

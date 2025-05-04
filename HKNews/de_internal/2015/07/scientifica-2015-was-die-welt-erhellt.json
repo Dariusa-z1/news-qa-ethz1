@@ -10,11 +10,11 @@
     "Chemie-Show",
     "Flugroboter-Show",
     "Science Slams",
-    "Die Ausstellung",
     "Zur Vernissage",
     "Lassen Sie",
-    "Das Programm",
-    "Zürich Lichthof"
+    "Zürich Lichthof",
+    "Universität Zürich Zentrum",
+    "ETH Zürich"
   ],
   "topics": [
     "Research",
@@ -33,13 +33,23 @@
     "Education"
   ],
   "summary": "Main article: Vom 5. bis 6. September steht die Scientifica 2015 im internationalen Jahr des Lichts ganz im Zeichen von Licht und Erleuchtung....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 172,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Researchers"
     ],
@@ -48,6 +58,46 @@
       "Events",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 10.75,
+      "avg_word_length": 5.72,
+      "long_word_percentage": 31.98
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "September",
+        "Scientifica"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "18 Uhr"
+      ],
+      "time_references": [
+        "15 am",
+        "13:00–19:00",
+        "11:00–17:00"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Leben"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "www.scientifica.ch"
+        ],
+        "phones": [
+          "2015",
+          "2015"
+        ]
+      }
+    }
   }
 }

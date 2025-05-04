@@ -7,14 +7,14 @@
   "named_entities": [
     "Diese Löhne",
     "Seite Schweizerischen Nationalfonds",
-    "Die Schulleitung",
     "Wissenschaftlichen Assistierenden",
-    "Die Erhöhung",
     "Im Januar",
     "Julia Dannath",
     "Diese Gruppe",
     "Weitere Informationen",
-    "Alle Angaben"
+    "Alle Angaben",
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Gespräche gehen weiter: Ende des letzten Jahres war unklar, ob die Doktorierenden der ETH Zürich, wie die anderen ETH-Mitarbeitenden, im neuen Jahr einen Teuerungsausgleich erhalten werden....",
+  "summary": "Gespräche gehen weiter: Ende des letzten Jahres war unklar, ob die Doktorierenden der ETH Zürich, wie die anderen ETH-Mitarbeitenden, im neuen Jahr einen Teuerungsausgleich erhalten werden. Hintergrund: Diese Löhne orientieren sich am externe Seite Schweizerischen Nationalfonds SNF – doch der SNF hatte sich zu diesem Zeitpunkt noch nicht zu einer möglichen Lohnanpassung geäussert ( vgl....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 287,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Researchers"
@@ -48,6 +58,37 @@
       "Financial",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 11.04,
+      "avg_word_length": 5.81,
+      "long_word_percentage": 29.97
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Gespräche",
+        "Jahres",
+        "Doktorierenden",
+        "Zürich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zukunft"
+      ],
+      "departments": [
+        "der Mittelbau als auch die"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2022",
+          "2023"
+        ]
+      }
+    }
   }
 }

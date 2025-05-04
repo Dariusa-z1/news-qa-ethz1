@@ -8,12 +8,8 @@
     "Royal Society",
     "Publishing Office",
     "Electrochemical Society",
-    "Chemistry",
-    "Research",
-    "Bibliothek",
-    "Zurich",
-    "Funding",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -28,14 +24,24 @@
     "Apply",
     "Vouchers"
   ],
-  "summary": "You can apply for vouchers for the journals of the Royal Society of Chemistry as well as for F1000 Research at the E-Publishing Office of ETH-Bibliothek....",
+  "summary": "You can apply for vouchers for the journals of the Royal Society of Chemistry as well as for F1000 Research at the E-Publishing Office of ETH-Bibliothek. For the journals of the Electrochemical Society , a free \"article credit\" will be activated, as soon as you choose the open-access option and give your affiliation to ETH Zurich when submitting your manuscript....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 68,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -43,6 +49,32 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.67,
+      "avg_word_length": 4.9,
+      "long_word_percentage": 26.47
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Royal Society",
+        "Chemistry",
+        "Research",
+        "Publishing Office"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1000"
+        ]
+      }
+    }
   }
 }

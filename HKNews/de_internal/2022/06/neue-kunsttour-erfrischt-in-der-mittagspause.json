@@ -1,20 +1,18 @@
 {
   "language": "de",
   "title": "In den Gebäuden der ETH Zürich finden sich neben Reagenzgläsern, Messgeräten und Fachbüchern auch 300 sehenswerte Kunstwerke. Einen Teil dieses ETH-Kunstinventars können Sie ab sofort auf dem geführten Rundgang «Kunst zum Zmittag» im angenehm kühlen Hauptgebäude entdecken. Erkunden Sie in nur 60 Minuten das faszinierende Spannungsfeld zwischen exakten Wissenschaften und vieldeutiger Kunst.",
-  "date": "2022-06-01",
+  "date": "2030-12-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Main article: In den Gebäuden der ETH Zürich finden sich neben Reagenzgläsern, Messgeräten und Fachbüchern auch 300 sehenswerte Kunstwerke. Einen Teil dieses ETH-Kunstinventars können Sie ab sofort auf dem geführten Rundgang «Kunst zum Zmittag» im angenehm kühlen Hauptgebäude entdecken. Erkunden Sie in nur 60 Minuten das faszinierende Spannungsfeld zwischen exakten Wissenschaften und vieldeutiger Kunst.\n\nIm Zentrum und noch keine Pläne?: Die Führungen starten jeweils freitags vor dem Plakataufsteller «Kunst zum Zmittag» bei der Polyterrasse (siehe Foto). Nutzen Sie die Chance und kommen Sie spontan vorbei. Ein ETH-Guide wird Sie und alle anderen Kurzentschlossenen dort pünktlich um 12.30 Uhr begrüssen.\n\nUnd wenn es diese Woche nicht passen sollte: Alle Termine für diese und andere Führungen an der ETH finden Sie im offiziellen Veranstaltungskalender .",
   "named_entities": [
     "Einen Teil",
     "Erkunden Sie",
     "Im Zentrum",
-    "Die Führungen",
     "Nutzen Sie",
     "Alle Termine",
-    "Main",
-    "Gebäuden",
-    "Zürich",
-    "Reagenzgläsern"
+    "ETH Zürich",
+    "ETH",
+    "Polyterrasse"
   ],
   "topics": [
     "Infrastructure",
@@ -30,14 +28,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: In den Gebäuden der ETH Zürich finden sich neben Reagenzgläsern, Messgeräten und Fachbüchern auch 300 sehenswerte Kunstwerke....",
+  "summary": "Main article: In den Gebäuden der ETH Zürich finden sich neben Reagenzgläsern, Messgeräten und Fachbüchern auch 300 sehenswerte Kunstwerke. Einen Teil dieses ETH-Kunstinventars können Sie ab sofort auf dem geführten Rundgang «Kunst zum Zmittag» im angenehm kühlen Hauptgebäude entdecken....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 125,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Researchers"
     ],
@@ -46,6 +54,36 @@
       "Research",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.89,
+      "avg_word_length": 5.74,
+      "long_word_percentage": 31.2
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Gebäuden",
+        "Zürich",
+        "Reagenzgläsern"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "12.30 Uhr"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

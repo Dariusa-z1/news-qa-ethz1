@@ -1,20 +1,13 @@
 {
   "language": "de",
   "title": "An der offenen Informationsveranstaltung «Wir bauen für Sie» stellt der Infrastrukturbereich Immobilien (IBI) die aktuellen Bau- und Sanierungsprojekte auf dem Campus Hönggerberg vor. Am 6. Oktober 2015 von 11.30 bis 12.30 Uhr werden acht laufende Projekte am Standort von den jeweils verantwortlichen Bauprojektleitenden präsentiert, wobei die Bauspezialisten neben dem aktuellen Stand auch auf architektonische und nutzungsbedingte Besonderheiten der Projekte eingehen. Bei einem gemeinsamen Mittagssnack können Sie mit den Mitarbeitenden des IBI anschliessend ins Gespräch kommen.",
-  "date": "2015-09-01",
+  "date": "2030-11-01",
   "source": "Unbekannte Quelle",
   "main_content": "An der offenen Informationsveranstaltung «Wir bauen für Sie» stellt der Infrastrukturbereich Immobilien (IBI) die aktuellen Bau- und Sanierungsprojekte auf dem Campus Hönggerberg vor. Am 6. Oktober 2015 von 11.30 bis 12.30 Uhr werden acht laufende Projekte am Standort von den jeweils verantwortlichen Bauprojektleitenden präsentiert, wobei die Bauspezialisten neben dem aktuellen Stand auch auf architektonische und nutzungsbedingte Besonderheiten der Projekte eingehen. Bei einem gemeinsamen Mittagssnack können Sie mit den Mitarbeitenden des IBI anschliessend ins Gespräch kommen.\n\nEingeladen sind alle, die mehr über die Bauaktivitäten auf dem Areal erfahren möchten. Die Veranstaltung findet im HIT-Gebäude auf dem Campus Hönggerberg im Raum E51 statt.",
   "named_entities": [
     "Infrastrukturbereich Immobilien",
     "Campus Hönggerberg",
-    "Die Veranstaltung",
-    "Informationsveranstaltung",
-    "Sanierungsprojekte",
-    "Projekte",
-    "Standort",
-    "Bauprojektleitenden",
-    "Bauspezialisten",
-    "Besonderheiten"
+    "Hönggerberg"
   ],
   "topics": [
     "Infrastructure",
@@ -33,20 +26,53 @@
     "Science",
     "Education"
   ],
-  "summary": "An der offenen Informationsveranstaltung «Wir bauen für Sie» stellt der Infrastrukturbereich Immobilien (IBI) die aktuellen Bau- und Sanierungsprojekte auf dem Campus Hönggerberg vor. Am 6....",
+  "summary": "An der offenen Informationsveranstaltung «Wir bauen für Sie» stellt der Infrastrukturbereich Immobilien (IBI) die aktuellen Bau- und Sanierungsprojekte auf dem Campus Hönggerberg vor. Am 6. Oktober 2015 von 11.30 bis 12.30 Uhr werden acht laufende Projekte am Standort von den jeweils verantwortlichen Bauprojektleitenden präsentiert, wobei die Bauspezialisten neben dem aktuellen Stand auch auf architektonische und nutzungsbedingte Besonderheiten der Projekte eingehen....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 104,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Staff"
     ],
     "context_tags": [
       "Infrastructure",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.0,
+      "avg_word_length": 6.15,
+      "long_word_percentage": 32.69
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "12.30 Uhr"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015"
+        ]
+      }
+    }
   }
 }

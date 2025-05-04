@@ -11,10 +11,9 @@
     "Zürich Auf",
     "Mensa-Menus",
     "Agentur Ubique",
-    "Version",
-    "Nutzer",
-    "Bevorzugte",
-    "Newsquellen"
+    "ETH Zürich",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Communication",
@@ -32,14 +31,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Mit der Version 3.0 können Nutzer neu:\n\n• Bevorzugte ETH-Newsquellen auswählen (News aus einzelnen Departementen, Centers aber auch vom Blog «ETHeritage» stehen für eine eigene Auswahl zur Verfügung)\n• News kommentieren oder auf Kommentare antworten\n• News und Events auf Facebook, Twitter oder per E-Mail teilen\n• Events in den eigenen Kalender eintragen\nDiese Aktualisierungen ergänzen die bisherigen Funktionen:\n\n• News: Aktuelle Nachrichten über Forschungserfolge und das Campusleben\n• Veranstaltungskalender: Alle öffentlichen Veranstaltungen, die an der ETH Zürich stattfinden oder von der ETH Zürich organisiert werden\n• Lagepläne: Pläne mit den Gebäuden des Standorts Zürich Zentrum und des Campus auf dem Hönggerberg\n• Verpflegungsmöglichkeiten: Täglich aktuelle Menus der Mensen in den ETH-Gebäuden\n• Personensuche: Findet die Kontaktinformationen aller Mitarbeitenden der ETH Zürich\nAuf dem Handy die ETH-News lesen, Gebäude finden oder die Mensa-Menus vergleichen: Das geht mit der offiziellen ETH-App....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 9,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 174,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff",
       "Researchers",
@@ -50,6 +59,32 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 43.5,
+      "avg_word_length": 6.15,
+      "long_word_percentage": 34.48
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Version",
+        "Nutzer",
+        "Bevorzugte",
+        "Newsquellen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "News aus einzelnen"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

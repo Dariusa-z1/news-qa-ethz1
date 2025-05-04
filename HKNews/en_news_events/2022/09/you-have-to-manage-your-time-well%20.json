@@ -6,10 +6,8 @@
   "main_content": "Main article: In the fifth episode, Carla Ferradini, who is doing her Master’s in physics at ETH, talks about the importance of prioritising your time to avoid burnout.\n\nAdvice for students: ETH Zurich offers advice centres for (virtually) any situation that may arise during your studies.",
   "named_entities": [
     "Carla Ferradini",
-    "Main",
-    "Master",
-    "Zurich",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -25,14 +23,24 @@
     "Fifth",
     "Episode"
   ],
-  "summary": "Main article: In the fifth episode, Carla Ferradini, who is doing her Master’s in physics at ETH, talks about the importance of prioritising your time to avoid burnout....",
+  "summary": "Main article: In the fifth episode, Carla Ferradini, who is doing her Master’s in physics at ETH, talks about the importance of prioritising your time to avoid burnout. Advice for students: ETH Zurich offers advice centres for (virtually) any situation that may arise during your studies....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 47,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students"
     ],
@@ -40,6 +48,29 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.5,
+      "avg_word_length": 4.96,
+      "long_word_percentage": 25.53
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Carla Ferradini",
+        "Master",
+        "Advice"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

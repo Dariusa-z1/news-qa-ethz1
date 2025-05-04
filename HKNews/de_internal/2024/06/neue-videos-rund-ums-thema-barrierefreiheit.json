@@ -11,10 +11,9 @@
     "Max Frisch",
     "Thema Biodiversität",
     "Public Tours",
-    "Eine Webseite",
     "Weitere Informationen",
-    "Portraits",
-    "Videos"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -32,14 +31,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Portraits und Videos: Wie erlebt eine Studentin mit ADHS eine Vorlesung? Welche Strategien helfen ihr dabei, sich auf die relevanten Studieninhalte zu konzentrieren?...",
+  "summary": "Portraits und Videos: Wie erlebt eine Studentin mit ADHS eine Vorlesung? Welche Strategien helfen ihr dabei, sich auf die relevanten Studieninhalte zu konzentrieren? Was fällt ihr schwer, und was fällt ihr besonders leicht?...",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 275,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -51,6 +60,33 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.19,
+      "avg_word_length": 6.41,
+      "long_word_percentage": 36.36
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Portraits",
+        "Videos",
+        "Studentin",
+        "Vorlesung"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Hörsälen",
+        "Gebärdensprache"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

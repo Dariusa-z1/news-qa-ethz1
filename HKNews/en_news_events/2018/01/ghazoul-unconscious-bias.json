@@ -8,13 +8,13 @@
     "Charles Darwin",
     "Glen Roy",
     "Charles Lyell",
-    "In Chile",
     "Louis Agassiz",
     "Parallel Roads",
     "Stephen Jay Gould",
     "Karl Popper",
     "Royal Society",
-    "Jaboury Ghazoul Full Professor"
+    "Jaboury Ghazoul Full Professor",
+    "Ecosystem Management"
   ],
   "topics": [
     "Research",
@@ -26,21 +26,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
-    "This",
     "Darwin",
     "Theory",
     "Glen",
-    "Conservation"
+    "Conservation",
+    "Studies",
+    "Evidence"
   ],
-  "summary": "Main article: “One long gigantic blunder”: that’s how Charles Darwin described his 1839 paper on the parallel “roads” of Glen Roy....",
+  "summary": "Main article: “One long gigantic blunder”: that’s how Charles Darwin described his 1839 paper on the parallel “roads” of Glen Roy. Three perfectly horizontal terraces run along the slopes of Glen Roy, a valley in northwest Scotland. Explaining how they got there was a puzzle that perplexed geologists of the day....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 987,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -53,6 +63,35 @@
       "Sustainability",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.32,
+      "avg_word_length": 5.2,
+      "long_word_percentage": 30.7
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Charles Darwin",
+        "Glen Roy"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Glen Roy",
+        "Lyell",
+        "Scotland"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1839",
+          "1838"
+        ]
+      }
+    }
   }
 }

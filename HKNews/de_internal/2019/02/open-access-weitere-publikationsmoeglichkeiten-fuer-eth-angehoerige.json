@@ -11,10 +11,8 @@
     "Open Access",
     "Weitere Informationen",
     "Open-Access-Publikationen Bei",
-    "Autor",
-    "Angehöriger",
-    "Zürich",
-    "Global"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -30,14 +28,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Der korrespondierende Autor einer Publikation muss Angehöriger der ETH Zürich sein, damit die gratis Open-Access-Option bei IGI Global oder beim Journal of Experimental Botany gültig ist....",
+  "summary": "Der korrespondierende Autor einer Publikation muss Angehöriger der ETH Zürich sein, damit die gratis Open-Access-Option bei IGI Global oder beim Journal of Experimental Botany gültig ist. Bei , falls Sie an dieser Option interessiert sind. Autorinnen und Autoren von subskribierenden Institutionen sind berechtigt, im externe Seite Journal of Experimental Botany gratis Open Access zu publizieren....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 90,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff"
@@ -46,6 +54,31 @@
       "Financial",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.0,
+      "avg_word_length": 5.92,
+      "long_word_percentage": 28.89
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Publikation",
+        "Angehöriger",
+        "Zürich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "Autorinnen und Autoren von subskribierenden"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

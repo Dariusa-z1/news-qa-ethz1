@@ -6,8 +6,7 @@
   "main_content": "If you're a pilot user of the SwissCovid app and want to carry on using it, you need to install the official version from the App Store or Google Play Store. This will automatically update the pilot version. The data already captured will be copied over to the new app version so that proximity tracing is uninterrupted.\n\nIf you no longer want to use the SwissCovid app, simply delete the pilot version from your mobile phone. All the data captured up to that point will be deleted as well.",
   "named_entities": [
     "App Store",
-    "Google Play Store",
-    "SwissCovid"
+    "Google Play Store"
   ],
   "topics": [
     "Technology & Innovation",
@@ -19,23 +18,47 @@
     "Will",
     "Swisscovid",
     "Want",
-    "From",
-    "Store"
+    "Store",
+    "Data"
   ],
-  "summary": "If you're a pilot user of the SwissCovid app and want to carry on using it, you need to install the official version from the App Store or Google Play Store....",
+  "summary": "If you're a pilot user of the SwissCovid app and want to carry on using it, you need to install the official version from the App Store or Google Play Store. This will automatically update the pilot version. The data already captured will be copied over to the new app version so that proximity tracing is uninterrupted....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 90,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.0,
+      "avg_word_length": 4.37,
+      "long_word_percentage": 17.78
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -5,14 +5,7 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "In Episode 29 des ETH-Podcasts sprechen die beiden Forscher über ihre Arbeit und machen sich Gedanken über die Zeitdimension des Universums auf dem Planeten Erde.",
   "named_entities": [
-    "In Episode",
     "Planeten Erde",
-    "Podcasts",
-    "Forscher",
-    "Arbeit",
-    "Gedanken",
-    "Zeitdimension",
-    "Universums",
     "ETH"
   ],
   "topics": [
@@ -27,18 +20,42 @@
     "Education"
   ],
   "summary": "In Episode 29 des ETH-Podcasts sprechen die beiden Forscher über ihre Arbeit und machen sich Gedanken über die Zeitdimension des Universums auf dem Planeten Erde.",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 26,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Researchers"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 26.0,
+      "avg_word_length": 5.23,
+      "long_word_percentage": 30.77
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

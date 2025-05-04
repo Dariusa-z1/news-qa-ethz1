@@ -10,11 +10,11 @@
     "Oktober Einblicke",
     "Raum Zürich",
     "Spannende Angebote",
-    "In Form",
     "Semper-Sternwarte",
     "Kuppel Sempers",
     "Rudolf Wolf Sonnenflecken",
-    "Max Waldmeier"
+    "Max Waldmeier",
+    "Als Teil"
   ],
   "topics": [
     "Infrastructure",
@@ -29,18 +29,28 @@
     "Campus",
     "Campus Center",
     "Hönggerberg",
+    "Building",
     "University",
-    "Research",
-    "Science"
+    "Research"
   ],
-  "summary": "Einblicke in die Sternwarte und Entwicklung des Campus Zentrum: Die ETH Zürich ist auch dieses Jahr wieder Teil der Open House-Veranstaltung, an welcher Interessierte am Wochenende vom 2. und 3....",
+  "summary": "Einblicke in die Sternwarte und Entwicklung des Campus Zentrum: Die ETH Zürich ist auch dieses Jahr wieder Teil der Open House-Veranstaltung, an welcher Interessierte am Wochenende vom 2. und 3. Oktober Einblicke in eine Vielzahl öffentlicher und privater Gebäude im Raum Zürich erhalten....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 4,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 470,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Researchers",
@@ -51,6 +61,36 @@
       "Infrastructure",
       "Research",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.8,
+      "avg_word_length": 6.24,
+      "long_word_percentage": 38.09
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Einblicke",
+        "Sternwarte",
+        "Entwicklung",
+        "Campus Zentrum"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Aussen",
+        "Oerlikon"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1860",
+          "1951"
+        ]
+      }
+    }
   }
 }

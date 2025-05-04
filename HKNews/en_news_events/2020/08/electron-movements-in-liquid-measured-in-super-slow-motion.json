@@ -7,14 +7,8 @@
   "named_entities": [
     "Hans Jakob Wörner",
     "Physical Chemistry",
-    "Delayed",
-    "Professor",
-    "Laboratory",
-    "Zurich",
-    "Later",
-    "Five",
-    "Electron",
-    "Among"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -27,18 +21,28 @@
     "Molecules",
     "Water",
     "Measurements",
-    "That",
     "Chemical",
-    "Wörner"
+    "Wörner",
+    "Electrons"
   ],
-  "summary": "",
+  "summary": "Delayed transport of electrons from the liquid: To understand how chemical reactions begin, chemists have been using super-slow motion experiments for years to study the very first moments of a reaction. These days, measurements with a resolution of a few dozen attoseconds are possible....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 445,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -48,6 +52,35 @@
       "Research",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.23,
+      "avg_word_length": 5.05,
+      "long_word_percentage": 28.54
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Delayed"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "10 -18",
+        "50–70"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

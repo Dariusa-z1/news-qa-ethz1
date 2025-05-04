@@ -7,14 +7,14 @@
   "named_entities": [
     "Beantragte Schweizer Internetdomain",
     "Professor Bernhard Plattner",
-    "Der Professor",
     "Technische Informatik",
     "Seine Lieblingsspeise",
     "Bernhard Plattner",
     "Jahr Bund",
     "Schweizer Hochschulen",
     "Domain-Namen",
-    "Bis Ende"
+    "Bis Ende",
+    "Im Gespräch"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Beantragte Schweizer Internetdomain: Professor Bernhard Plattner strahlt Ruhe aus....",
+  "summary": "Beantragte Schweizer Internetdomain: Professor Bernhard Plattner strahlt Ruhe aus. Er ist offensichtlich im Reinen mit dem, was er geleistet hat und auch damit, dass nun ein neuer Abschnitt in seinem Leben beginnt. 30 Jahre seines Lebens hat er an der ETH Zürich der Erforschung von Computernetzen und des Internets gewidmet, seit 1994 als ordentlicher Professor....",
+  "content_structure": {
+    "paragraph_count": 16,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 917,
     "readability_score": "complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -51,6 +61,44 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.11,
+      "avg_word_length": 5.65,
+      "long_word_percentage": 32.39
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Beantragte Schweizer Internetdomain",
+        "Professor Bernhard Plattner",
+        "Reinen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Auto",
+        "Bern",
+        "Plattner",
+        "Engagement",
+        "Smartphone"
+      ],
+      "departments": [
+        "Informationstechnologie und Elektrotechnik gehört",
+        "Entsprechend forschen die Wissenschaftler am",
+        "Angehörigen und der Alumni des"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "tikanniversary.ethz.ch"
+        ],
+        "phones": [
+          "1994",
+          "1950"
+        ]
+      }
+    }
   }
 }

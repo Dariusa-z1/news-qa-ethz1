@@ -12,9 +12,9 @@
     "Ende Jahr",
     "Conferencing Tool",
     "Ende Juni",
-    "Die Befristung",
-    "Die Datenschützerin",
-    "Kantons Zürichs"
+    "Kantons Zürichs",
+    "Stiftung Switch",
+    "Schweizer Bildungsbereich"
   ],
   "topics": [
     "Education",
@@ -25,6 +25,7 @@
     "Staff"
   ],
   "keywords": [
+    "Teaching",
     "ETH Zurich",
     "University",
     "Research",
@@ -32,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Zoom hat sich an der ETH in Windeseile etabliert – nicht nur in der Lehre, sondern auch im Arbeitsalltag....",
+  "summary": "Zoom hat sich an der ETH in Windeseile etabliert – nicht nur in der Lehre, sondern auch im Arbeitsalltag. Zurzeit sind an unserer Hochschule rund 9500 Pro-Lizenzen im Einsatz, die sämtliche Funktionen des Conferencing Tools umfassen. Hinzu kommen rund 17'500 freie Lizenzen mit einem eingeschränkten Funktionsumfang, die aber eine unkomplizierte Teilnahme an Zoom-Meetings erlauben....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 202,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -49,6 +60,26 @@
       "Education",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.83,
+      "avg_word_length": 5.85,
+      "long_word_percentage": 33.17
+    },
+    "semantic_entities": {
+      "locations": [
+        "Durchgriff",
+        "Windeseile"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "9500",
+          "2020"
+        ]
+      }
+    }
   }
 }

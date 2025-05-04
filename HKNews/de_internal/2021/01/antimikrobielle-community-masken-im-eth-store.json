@@ -1,20 +1,20 @@
 {
   "language": "de",
   "title": "Das im Jahr 2005 gegründete ETH-Spin-off HeiQ entwickelt chemische Formulierungen, die Textilien zum Beispiel antistatisch, wasserabweisend und geruchsneutral machen. Aktuell ist HeiQ sehr erfolgreich mit einer antimikrobiellen Behandlung für Textilien, die gegen SARS-CoV-2* als wirksam getestet wurde. Gemäss eigenen Angaben hat die Einführung des Produkts den Umsatz von HeiQ im ersten Halbjahr 2020 mehr als verdoppelt. Die Aktien der Firma werden seit Dezember 2020 an der Londoner Börse gehandelt.",
-  "date": "2021-01-01",
+  "date": "2005-01-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Das im Jahr 2005 gegründete ETH-Spin-off HeiQ entwickelt chemische Formulierungen, die Textilien zum Beispiel antistatisch, wasserabweisend und geruchsneutral machen. Aktuell ist HeiQ sehr erfolgreich mit einer antimikrobiellen Behandlung für Textilien, die gegen SARS-CoV-2* als wirksam getestet wurde. Gemäss eigenen Angaben hat die Einführung des Produkts den Umsatz von HeiQ im ersten Halbjahr 2020 mehr als verdoppelt. Die Aktien der Firma werden seit Dezember 2020 an der Londoner Börse gehandelt.\n\nNeben den neuen ETH-Community-Masken mit Anti-Viren-Technologie können auch Schlauchschals und Handschuhe von HeiQ über den ETH Store bezogen werden. Die Produkte sind sowohl im ETH-Design als auch ohne ETH-Branding erhältlich. Für die ETH-Angehörigen gelten Vorzugspreise.\n\nFür die ersten zehn externe Seite Online-Bestellungen von ETH-Zürich Masken vergibt der ETH Store je eine Maske gratis.\n\n* M.J. (2020) Report on \"Viral Stability and Persistence of SARS-CoV-2 on Treated Material\". Doherty Institute for Infection and Immunity, Australien",
   "named_entities": [
-    "Die Aktien",
     "Londoner Börse",
     "Community-Masken",
     "Anti-Viren-Technologie",
-    "Die Produkte",
     "Seite Online-Bestellungen",
     "Zürich Masken",
     "Viral Stability",
     "Treated Material",
-    "Doherty Institute"
+    "Doherty Institute",
+    "ETH-Zürich",
+    "ETH"
   ],
   "topics": [
     "COVID-19",
@@ -31,20 +31,49 @@
     "Campus",
     "Education"
   ],
-  "summary": "Das im Jahr 2005 gegründete ETH-Spin-off HeiQ entwickelt chemische Formulierungen, die Textilien zum Beispiel antistatisch, wasserabweisend und geruchsneutral machen....",
+  "summary": "Das im Jahr 2005 gegründete ETH-Spin-off HeiQ entwickelt chemische Formulierungen, die Textilien zum Beispiel antistatisch, wasserabweisend und geruchsneutral machen. Aktuell ist HeiQ sehr erfolgreich mit einer antimikrobiellen Behandlung für Textilien, die gegen SARS-CoV-2* als wirksam getestet wurde....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 1,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 1,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 158,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "General Public"
     ],
     "context_tags": [
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.17,
+      "avg_word_length": 5.5,
+      "long_word_percentage": 29.75
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "Doherty"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2005",
+          "2020"
+        ]
+      }
+    }
   }
 }

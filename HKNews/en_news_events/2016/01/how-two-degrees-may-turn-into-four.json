@@ -10,11 +10,9 @@
     "Consolidator Grant",
     "Dr Markus Donat",
     "Climate System Science",
-    "First",
-    "Paris",
-    "Celsius",
-    "Professor",
-    "Zurich"
+    "ETH Zurich",
+    "ETH",
+    "Markus Donat"
   ],
   "topics": [
     "Weather & Environment",
@@ -29,18 +27,28 @@
     "Global",
     "Warming",
     "Climate",
-    "This",
     "Average",
-    "Will"
+    "Will",
+    "Seneviratne"
   ],
-  "summary": "First quantitative treatment: At the recent COP21 climate conference in Paris, delegates reached an agreement that plans to limit global warming to “well below” two degrees Celsius....",
+  "summary": "First quantitative treatment: At the recent COP21 climate conference in Paris, delegates reached an agreement that plans to limit global warming to “well below” two degrees Celsius. This stems from the fact that scientists and politicians now agree: the global average temperature must rise by no more than two degrees if we are to prevent serious, irreversible damage to humans and the environment....",
+  "content_structure": {
+    "paragraph_count": 15,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 821,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +58,35 @@
       "Technology",
       "Research",
       "Communications"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.52,
+      "avg_word_length": 5.04,
+      "long_word_percentage": 30.45
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Celsius"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Seneviratne",
+        "Australia",
+        "Switzerland",
+        "Paris",
+        "Nature"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016"
+        ]
+      }
+    }
   }
 }

@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Buchvernissage am Dienstag, 30....",
+  "summary": "Buchvernissage am Dienstag, 30. August 2022: Seit Jahrzehnten sammelt die ETH-​Bibliothek Karten und gestaltet auf Basis dieser reichhaltigen Tradition den Übergang in die digitale Bereitstellung und Nutzung von Kartenwerken und Geodaten für Wissenschaft und Öffentlichkeit aktiv mit....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 295,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -50,6 +60,34 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.75,
+      "avg_word_length": 5.99,
+      "long_word_percentage": 34.92
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Buchvernissage",
+        "Dienstag",
+        "August",
+        "Seit Jahrzehnten",
+        "Bibliothek Karten"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2022",
+          "2022"
+        ]
+      }
+    }
   }
 }

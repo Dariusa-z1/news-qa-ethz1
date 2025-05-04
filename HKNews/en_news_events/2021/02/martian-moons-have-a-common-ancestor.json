@@ -12,9 +12,9 @@
     "Nature Astronomy",
     "Red Planet",
     "Naval Observatory",
-    "Calculating",
-    "Mars",
-    "Phobos"
+    "ETH Zurich",
+    "ETH",
+    "University of Zurich"
   ],
   "topics": [
     "Research",
@@ -30,17 +30,27 @@
     "Phobos",
     "Deimos",
     "Mars",
-    "That",
-    "Their"
+    "Their",
+    "Moons"
   ],
-  "summary": "Calculating the past: Mars’s two moons, Phobos and Deimos, have puzzled researchers since their discovery in 1877....",
+  "summary": "Calculating the past: Mars’s two moons, Phobos and Deimos, have puzzled researchers since their discovery in 1877. They are very small: Phobos’s diameter of 22 kilometres is 160 times smaller than that of our Moon, and Deimos is even smaller, with a diameter of only 12 kilometres....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 799,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -50,6 +60,41 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.98,
+      "avg_word_length": 4.79,
+      "long_word_percentage": 22.15
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the journal Nature Astronomy",
+      "authors": [
+        "Calculating",
+        "Phobos",
+        "Deimos"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Earth",
+        "Phobos",
+        "Mars",
+        "Bagheri"
+      ],
+      "departments": [
+        "doctoral student at the",
+        "Senior Scientist at the Physics",
+        "University of Zurich and the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1877",
+          "2024"
+        ]
+      }
+    }
   }
 }

@@ -12,9 +12,9 @@
     "Im Zentrum",
     "Diese Kleinbetriebe",
     "Street-Food-Stände",
-    "Die Strategie",
     "Im Herbst",
-    "Diese Differenzierung"
+    "Diese Differenzierung",
+    "Valora-Shop"
   ],
   "topics": [
     "Catering & Food",
@@ -33,14 +33,24 @@
     "Science",
     "Campus"
   ],
-  "summary": "Manche Gastrobetriebe an der ETH sind geschlossen, obwohl sie vor der Pandemie brummten, wie etwa der Polysnack im Hauptgebäude. Herr Perich, ist das immer noch ein Nachwehen der Pandemie?...",
+  "summary": "Manche Gastrobetriebe an der ETH sind geschlossen, obwohl sie vor der Pandemie brummten, wie etwa der Polysnack im Hauptgebäude. Herr Perich, ist das immer noch ein Nachwehen der Pandemie? Robert Perich: Leider ist es so, dass die Gastrobetriebe an der ETH immer noch weit weniger Umsatz machen als vor Corona....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 698,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -51,6 +61,38 @@
       "Catering",
       "COVID-19",
       "Sustainability"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.54,
+      "avg_word_length": 5.62,
+      "long_word_percentage": 30.09
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Manche Gastrobetriebe",
+        "Pandemie",
+        "Polysnack",
+        "Hauptgebäude",
+        "Herr Perich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Nachwehen",
+        "Umsatz",
+        "Pilot"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2019",
+          "2021"
+        ]
+      }
+    }
   }
 }

@@ -13,8 +13,8 @@
     "Lukas Bubendorf",
     "University Assembly",
     "Franziska Lampart",
-    "The Basel",
-    "Daniel Müller"
+    "Daniel Müller",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -26,21 +26,31 @@
   ],
   "keywords": [
     "Bladder",
-    "That",
     "Cancer",
-    "This",
     "Wall",
     "Research",
-    "Tissue"
+    "Tissue",
+    "Layers",
+    "Iber"
   ],
-  "summary": "Tumour type is key: Dagmar Iber is Professor of Computational Biology at ETH’s Department of Biosystems Science and Engineering in Basel....",
+  "summary": "Tumour type is key: Dagmar Iber is Professor of Computational Biology at ETH’s Department of Biosystems Science and Engineering in Basel. Her research group uses a combination of lab experiments and computer modelling to investigate how cells organise themselves into organs and other complex, three-dimensional tissue structures based on the genetic information they contain....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1032,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,39 @@
       "Research",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.85,
+      "avg_word_length": 5.11,
+      "long_word_percentage": 29.26
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Tumour",
+        "Dagmar Iber",
+        "Professor",
+        "Computational Biology",
+        "Department"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Basel",
+        "University Hospital Basel",
+        "Iber"
+      ],
+      "departments": [
+        "Biosystems Science and Engineering",
+        "Biosystems Science and Engineering and",
+        "of Computational Biology at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

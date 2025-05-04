@@ -9,12 +9,10 @@
     "Abteilung Immobilien",
     "Areale Zentrum",
     "Map-Search-Angabe",
-    "Das Angebot",
-    "Die Gebäudeorientierung",
     "Seite Services",
-    "Arealplan",
-    "Zürich",
-    "Netz"
+    "ETH Zürich",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Infrastructure",
@@ -33,14 +31,24 @@
     "Research",
     "Science"
   ],
-  "summary": "Wer bisher nach einem Gebäude oder einem Arealplan gesucht hat, musste das bis dato auf verschiedenen Online-Plattformen der ETH Zürich tun....",
+  "summary": "Wer bisher nach einem Gebäude oder einem Arealplan gesucht hat, musste das bis dato auf verschiedenen Online-Plattformen der ETH Zürich tun. Seit gestern ist nun die neue Gebäudeorientierung der Abteilung Immobilien im ETH-Netz verfügbar, die das Gebäudeverzeichnis, die Plandatenbank und die Situationspläne in einem Angebot vereint....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 185,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -49,6 +57,22 @@
       "Infrastructure",
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.5,
+      "avg_word_length": 6.31,
+      "long_word_percentage": 37.84
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "www.ethz.ch"
+        ],
+        "phones": []
+      }
+    }
   }
 }

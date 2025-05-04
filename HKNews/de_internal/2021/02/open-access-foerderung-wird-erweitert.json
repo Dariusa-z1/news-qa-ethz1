@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Diese neue Regelung gilt für alle Artikel, die ab dem 01.01.2021 bei einem Verlag zur Publikation in einer wissenschaftlichen Zeitschrift eingereicht wurden. Die Finanzierung können Sie über ein geschützte Seite Webformular lock beantragen, das mit Ihrem ETH-Login zugänglich ist. Einen Antrag stellen Sie nach erfolgtem Rechnungseingang durch den jeweiligen Verlag, indem Sie die Rechnung über das Webformular an die ETH-Bibliothek übermitteln. Nach Prüfung des Antrags wird die Rechnung direkt durch die ETH-Bibliothek bezahlt.\n\nBei einer Förderung durch die ETH-Bibliothek sind die Kriterien für die Finanzierung von Open-Access-Artikeln zu beachten. Eine rückwirkende Änderung von Subskriptions-Artikeln zu Open Access ist ab 2021 möglich, sie muss bis spätestens sechs Monate nach der Erstveröffentlichung eines Artikels erfolgen. Die Höchstsumme mit der die ETH-Bibliothek einzelne Artikel fördert beträgt USD 5000. Eine Aufteilung der Kosten, für Artikel bei denen die Gebühren höher sind, ist nicht möglich.\n\nBitte beachten Sie zudem: Die ETH-Bibliothek übernimmt die Open-Access-Gebühren nur in Fällen, in denen keine anderen Fördermittel (z.B. SNF, EU Grants) zur Verfügung stehen. Diese Information wird im Antrag abgefragt. Gold Open-Access-Artikel werden ausschliesslich in Zeitschriften gefördert, die im externe Seite DOAJ verzeichnet sind.\n\nMehr als nur Daten – Vom Know-how profitieren\n\n#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel.",
   "named_entities": [
-    "Die Finanzierung",
     "Seite Webformular",
     "Einen Antrag",
-    "Nach Prüfung",
     "Open-Access-Artikeln",
     "Subskriptions-Artikeln",
     "Open Access",
-    "Die Höchstsumme",
-    "Eine Aufteilung",
-    "Open-Access-Gebühren"
+    "Open-Access-Gebühren",
+    "Diese Information",
+    "Gold Open-Access-Artikel",
+    "Vom Know",
+    "Ihrem Ziel"
   ],
   "topics": [
     "Research",
@@ -31,14 +31,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Diese neue Regelung gilt für alle Artikel, die ab dem 01.01.2021 bei einem Verlag zur Publikation in einer wissenschaftlichen Zeitschrift eingereicht wurden....",
+  "summary": "Diese neue Regelung gilt für alle Artikel, die ab dem 01.01.2021 bei einem Verlag zur Publikation in einer wissenschaftlichen Zeitschrift eingereicht wurden. Die Finanzierung können Sie über ein geschützte Seite Webformular lock beantragen, das mit Ihrem ETH-Login zugänglich ist....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 222,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Researchers"
     ],
@@ -47,6 +57,36 @@
       "Infrastructure",
       "Research",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.88,
+      "avg_word_length": 5.58,
+      "long_word_percentage": 30.63
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Regelung",
+        "Artikel",
+        "Verlag",
+        "Publikation"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Fällen",
+        "Zeitschriften"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2021",
+          "2021"
+        ]
+      }
+    }
   }
 }

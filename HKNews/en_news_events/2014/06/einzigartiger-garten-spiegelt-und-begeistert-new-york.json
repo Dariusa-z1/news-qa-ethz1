@@ -12,9 +12,9 @@
     "New York City",
     "Central Park",
     "Metropolitan Museum",
-    "The Hedge Two-Way",
     "Mirror Walkabout",
-    "New York Times"
+    "New York Times",
+    "Dan Graham"
   ],
   "topics": [
     "Communication",
@@ -33,14 +33,24 @@
     "Pavilion",
     "York"
   ],
-  "summary": "Garden pavilion reflects the museum, New York and New Yorkers: There’s a new luscious green lawn in the middle of New York....",
+  "summary": "Garden pavilion reflects the museum, New York and New Yorkers: There’s a new luscious green lawn in the middle of New York. Its garden chairs, hedges and gazebo-like structure are reminiscent of a suburban American garden. Which is precisely what the latest project by Günther Vogt , Professor of Landscape Architecture at ETH Zürich, is meant to be: a suburban garden on the roof of a building in New York City....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 682,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Faculty"
     ],
@@ -49,6 +59,29 @@
       "Infrastructure",
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.52,
+      "avg_word_length": 4.73,
+      "long_word_percentage": 23.31
+    },
+    "semantic_entities": {
+      "locations": [
+        "New York",
+        "Basel",
+        "La Rochelle",
+        "Switzerland",
+        "Novartis Campus Park"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2014",
+          "2014"
+        ]
+      }
+    }
   }
 }

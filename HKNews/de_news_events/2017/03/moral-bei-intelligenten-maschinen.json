@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Wie gut entscheidet eine Maschine?: Eigentlich ist klar: Roboter sind Maschinen und keine Menschen....",
+  "summary": "Wie gut entscheidet eine Maschine?: Eigentlich ist klar: Roboter sind Maschinen und keine Menschen. Gebaut werden sie unter anderem, um den Menschen von rein mechanischer oder repetitiver Arbeit zu entlasten. Ihre Intelligenz ist nicht natürlich, sondern von Computerprogrammen gesteuert....",
+  "content_structure": {
+    "paragraph_count": 15,
+    "bullet_points": 4,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 928,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -50,6 +60,41 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.51,
+      "avg_word_length": 6.36,
+      "long_word_percentage": 40.41
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Maschine",
+        "Eigentlich",
+        "Roboter",
+        "Maschinen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Doktorstudium",
+        "Mensch",
+        "Vanessa Rampton",
+        "Realitäts-Check",
+        "Waffensystem"
+      ],
+      "departments": [
+        "Verschiedene"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017",
+          "2017"
+        ]
+      }
+    }
   }
 }

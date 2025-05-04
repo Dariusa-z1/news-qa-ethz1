@@ -11,10 +11,9 @@
     "Catering Commission",
     "Alumni Lounge",
     "Gastro Commission",
-    "Some",
-    "Polysnack",
-    "COVID",
-    "Across"
+    "ETH",
+    "Hönggerberg",
+    "Polyterrasse"
   ],
   "topics": [
     "Catering & Food",
@@ -25,22 +24,32 @@
     "Staff"
   ],
   "keywords": [
-    "With",
     "Catering",
-    "That",
     "Facilities",
-    "This",
     "Hönggerberg",
-    "Food"
+    "Food",
+    "Were",
+    "Pandemic",
+    "Zentrum"
   ],
-  "summary": "Some of the catering facilities at ETH are closed, although they were buzzing before the pandemic, such as Polysnack in the main building. Mr Perich, is this still due to the impact of the pandemic?...",
+  "summary": "Some of the catering facilities at ETH are closed, although they were buzzing before the pandemic, such as Polysnack in the main building. Mr Perich, is this still due to the impact of the pandemic? Robert Perich: It is unfortunately the case that the catering facilities at ETH are still making far less turnover than before the COVID-19 pandemic....",
+  "content_structure": {
+    "paragraph_count": 15,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 785,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +61,33 @@
       "Catering",
       "COVID-19",
       "Sustainability"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.69,
+      "avg_word_length": 4.71,
+      "long_word_percentage": 22.55
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "19 to 20"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Basel",
+        "Polysnack"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2019",
+          "2021"
+        ]
+      }
+    }
   }
 }

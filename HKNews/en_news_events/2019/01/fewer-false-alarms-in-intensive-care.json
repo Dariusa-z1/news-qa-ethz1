@@ -9,12 +9,8 @@
     "Neurocritical Care Unit",
     "Walter Karlen",
     "Mobile Health Systems",
-    "Combining",
-    "Beep",
-    "Cockpit",
-    "ICUs",
-    "Usually",
-    "Professor"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -27,20 +23,30 @@
   "keywords": [
     "ETH Zurich",
     "Alarms",
-    "That",
     "Data",
     "Have",
     "Care",
-    "False"
+    "False",
+    "Number"
   ],
-  "summary": "Combining data: Beep, beep, beep. In intensive care units (ICU), some monitoring device or other is always sounding the alarm....",
+  "summary": "Combining data: Beep, beep, beep. In intensive care units (ICU), some monitoring device or other is always sounding the alarm. Whether it’s a patient whose blood oxygen level is too low, someone in the next bed whose intracranial pressure is rising, or someone else whose blood pressure has taken a nosedive....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 608,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +58,30 @@
       "Research",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.52,
+      "avg_word_length": 5.05,
+      "long_word_percentage": 26.97
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Combining",
+        "Whether"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Karlen"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

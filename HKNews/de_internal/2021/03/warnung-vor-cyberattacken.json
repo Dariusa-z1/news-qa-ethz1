@@ -10,11 +10,11 @@
     "Mail-Adresse",
     "Fahren Sie",
     "Typisches Erkennungszeichen",
-    "Die Anfrage",
     "Ihre Hilfsbereitschaft",
     "Achten Sie",
     "Digitale Signaturen",
-    "Klicken Sie"
+    "Klicken Sie",
+    "Geben Sie"
   ],
   "topics": [
     "Staff",
@@ -25,22 +25,32 @@
     "Education"
   ],
   "keywords": [
-    "Oder",
     "Mitarbeitender",
     "Cards",
     "Eine",
     "Vorgesetzten",
-    "Wenn",
-    "Opfer"
+    "Opfer",
+    "“yes",
+    "Werden"
   ],
-  "summary": "Der ETH-Mitarbeitende X erhält folgende E-Mail-Anfrage, die anscheinend von seinem Vorgesetzten versendet wurde:\n\n• “Hello are you free at the moment?...",
+  "summary": "Der ETH-Mitarbeitende X erhält folgende E-Mail-Anfrage, die anscheinend von seinem Vorgesetzten versendet wurde:\n\n• “Hello are you free at the moment? I need your assistance urgently.”\nMitarbeitender X: “Yes, I’m free now. What can I do to help you?...",
+  "content_structure": {
+    "paragraph_count": 16,
+    "bullet_points": 13,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 713,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff"
     ],
@@ -49,6 +59,25 @@
       "Technology",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.73,
+      "avg_word_length": 5.26,
+      "long_word_percentage": 27.77
+    },
+    "semantic_entities": {
+      "locations": [
+        "Ihr Vorgesetzter",
+        "Englisch"
+      ],
+      "departments": [
+        "oder an die Informatiksupportgruppe Ihres"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

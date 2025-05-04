@@ -9,12 +9,12 @@
     "Szenario-Planung",
     "Input-Grössen",
     "Zürich-Gesamtsicht",
-    "Das Szenario",
-    "Das Ziel",
     "Zentralen Organe",
     "Forecast-Runden",
     "Forecast-Runde",
-    "Ist-Werte"
+    "Ist-Werte",
+    "Forecast-Werte",
+    "Predictive Forecasting"
   ],
   "topics": [
     "Finance",
@@ -30,14 +30,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Main article: Neu sollen ein Szenario- und Simulationsmodell die bisherige Mittelfristplanung (MFP) in der strategischen Finanzplanung ersetzen sowie ein dynamischeres Rolling Forecast die heutige Budgetierung im Bereich der kurzfristigen, operativen Finanzsteuerung ablösen....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 412,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -46,6 +56,23 @@
       "Financial",
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.89,
+      "avg_word_length": 6.61,
+      "long_word_percentage": 44.66
+    },
+    "semantic_entities": {
+      "locations": [
+        "Bewegung",
+        "Szenario"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

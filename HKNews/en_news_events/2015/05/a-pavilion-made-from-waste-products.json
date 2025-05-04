@@ -29,18 +29,28 @@
     "Waste",
     "Material",
     "Materials",
-    "From",
     "Cartons",
-    "Will"
+    "Will",
+    "Construction"
   ],
-  "summary": "",
+  "summary": "Using discarded beverage cartons: You can't make an omelette without breaking eggs – this saying does not refer to the world's waste production, but it describes the phenomena surprisingly well: almost every human activity in which raw materials are transformed from one state to another with knowledge and generated energy produces waste....",
+  "content_structure": {
+    "paragraph_count": 18,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 895,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Faculty",
@@ -51,6 +61,34 @@
       "Catering",
       "Infrastructure",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.7,
+      "avg_word_length": 5.06,
+      "long_word_percentage": 29.61
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "New York",
+        "Waste",
+        "New York City",
+        "Design",
+        "Architecture"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "28-30"
+        ]
+      }
+    }
   }
 }

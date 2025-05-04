@@ -1,20 +1,12 @@
 {
   "language": "en",
   "title": "Students Use Language Models Primarily For Programming",
-  "date": "2024-01-01",
+  "date": "2023-01-01",
   "source": "ETH Zurich, University Communications",
   "main_content": "Rarely used in courses, but often for learning: New AI tools, in particular language models such as ChatGPT, are actively used by ETH students. Preferably as support for programming tasks. This is shown by a survey conducted by the Teaching Development and Technology department (LET) together with the Department of Mathematics' Seminar for Statistics. Around 4800 or around a third of all students responded to the questions they were asked in September 2023.\n\nIn contrast, the tools are used extensively for independent learning. Most students stated that they use language models when programming, for example to write or explain programmes in the Python and R languages. Many also use the tools to help with text formatting in the word processing programme LaTeX. The second most frequently mentioned use of language models by students was to enhance, translate, or correct texts.\n\nMany students also use language models to prepare for exams, although they are well aware of the limitations of the systems. Particularly in mathematics, but also in specialised technical and scientific subjects, the systems often tend to hallucinate, i.e. they invent certain things.\n\nStudents report that they are often in dialogue with the language models in order to find entrances to topics or to be challenged, for example by looking for the errors in convincing-sounding answers. Some students also stated that they use ChatGPT to create exercises or flashcards based on lecture scripts.\n\nIn the many free text responses, there was also a call for ETH to provide its students with a more reliable tool based on ETH materials and learning content. The Rectorate and the AI Centre are currently examining whether and how a user-defined language model could be trained with teaching materials.\n\nIn addition, a survey is currently being conducted among lecturers on how they use and benefit from AI tools in teaching.\n\nNote on the translation: This text has been translated for your convenience using a machine translation tool. Although reasonable efforts have been made to provide an accurate translation, it may not be perfect. If in doubt, please refer to the German version.\n\nShould you come upon significant translation mistakes, please send a short message to so that we can correct them. Thank you very much.",
   "named_entities": [
     "Teaching Development",
-    "The Rectorate",
-    "Rarely",
-    "ChatGPT",
-    "Technology",
-    "Department",
-    "Mathematics",
-    "Seminar",
-    "Statistics",
-    "September"
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -29,18 +21,28 @@
     "They",
     "Language",
     "Models",
-    "With",
-    "Also",
-    "Tools"
+    "Tools",
+    "Translation",
+    "Used"
   ],
-  "summary": "Rarely used in courses, but often for learning: New AI tools, in particular language models such as ChatGPT, are actively used by ETH students. Preferably as support for programming tasks....",
+  "summary": "Rarely used in courses, but often for learning: New AI tools, in particular language models such as ChatGPT, are actively used by ETH students. Preferably as support for programming tasks. This is shown by a survey conducted by the Teaching Development and Technology department (LET) together with the Department of Mathematics' Seminar for Statistics....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 373,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Faculty"
@@ -50,6 +52,28 @@
       "Education",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.95,
+      "avg_word_length": 5.05,
+      "long_word_percentage": 31.1
+    },
+    "semantic_entities": {
+      "locations": [
+        "September"
+      ],
+      "departments": [
+        "Mathematics",
+        "together with the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "4800",
+          "2023"
+        ]
+      }
+    }
   }
 }

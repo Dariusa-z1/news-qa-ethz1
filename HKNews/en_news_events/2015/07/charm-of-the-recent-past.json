@@ -12,9 +12,9 @@
     "Ronald Reagan",
     "David Gugerli",
     "Professor Gugerli",
-    "The Good Years",
-    "An International Conference",
-    "Recent History"
+    "Recent History",
+    "Bretton Woods",
+    "English Punks"
   ],
   "topics": [
     "Technology & Innovation",
@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "University of Zurich",
-    "This",
-    "That",
-    "With",
     "Conference",
-    "What"
+    "What",
+    "History",
+    "Time",
+    "Change"
   ],
-  "summary": "Main article: Looking back from a historical point of view, 1979 turned out to be a watershed year....",
+  "summary": "Main article: Looking back from a historical point of view, 1979 turned out to be a watershed year. Margaret Thatcher became Prime Minister, while the Iranian Revolution occurred and led to far-reaching consequences. Soviet troops invaded Afghanistan, and NATO embarked on disarmament talks at the same time as it positioned mid-range missiles in Europe....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1272,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,47 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.19,
+      "avg_word_length": 5.04,
+      "long_word_percentage": 28.62
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Looking",
+        "Margaret Thatcher",
+        "Prime Minister",
+        "Iranian Revolution"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "80 and 2010"
+      ],
+      "time_references": [
+        "80-20",
+        "80-20"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Monte Verit",
+        "Europe",
+        "Ascona"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1979",
+          "1979"
+        ]
+      }
+    }
   }
 }

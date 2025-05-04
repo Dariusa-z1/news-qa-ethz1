@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Gender-Rap: Konstante 30 Prozent: So hoch ist der Studentinnenanteil an der ETH Zürich und bei den Berufungen für eine Professur bekommt noch weit häufiger ein Mann die Stelle....",
+  "summary": "Gender-Rap: Konstante 30 Prozent: So hoch ist der Studentinnenanteil an der ETH Zürich und bei den Berufungen für eine Professur bekommt noch weit häufiger ein Mann die Stelle. Frauen und Männer arbeiten anders, verhandeln anders und lachen auch anders....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 243,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -49,6 +59,40 @@
       "Research",
       "Education",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 10.57,
+      "avg_word_length": 5.5,
+      "long_word_percentage": 27.98
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Gender",
+        "Konstante",
+        "Prozent"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "12:00 Uhr",
+        "12:00 Uhr"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Mann",
+        "Hoffmann"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -7,13 +7,7 @@
   "named_entities": [
     "Den Prozess",
     "Human Resources",
-    "Grundlegende Informationen",
-    "Verteilung",
-    "Departemente",
-    "Infrastrukturbereiche",
-    "Absprache",
-    "Leistungsprämie",
-    "Wegleitung"
+    "Grundlegende Informationen"
   ],
   "topics": [
     "University Administration",
@@ -28,20 +22,46 @@
     "Campus",
     "Education"
   ],
-  "summary": "Den Prozess für die Verteilung legen die einzelnen Departemente oder Infrastrukturbereiche unter Absprache mit Human Resources fest....",
+  "summary": "Den Prozess für die Verteilung legen die einzelnen Departemente oder Infrastrukturbereiche unter Absprache mit Human Resources fest. Grundlegende Informationen zur Leistungsprämie finden Sie in der Wegleitung (PDF, 34 KB) .",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 29,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "Infrastructure"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.5,
+      "avg_word_length": 6.52,
+      "long_word_percentage": 37.93
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "die Verteilung legen die einzelnen"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

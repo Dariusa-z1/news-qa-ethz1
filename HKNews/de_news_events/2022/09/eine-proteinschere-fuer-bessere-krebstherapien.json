@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Bessere Medikamente gegen Krebs: Weisse Oberflächen, bunte Flüssigkeiten in Glasbehältern und Geräte, die wie Küchenmaschinen aussehen....",
+  "summary": "Bessere Medikamente gegen Krebs: Weisse Oberflächen, bunte Flüssigkeiten in Glasbehältern und Geräte, die wie Küchenmaschinen aussehen. An den Wänden hängen Pipettiergeräte und Sicherheitsanweisungen für deren Verwendung. In einem grossen transparenten Kasten schwenkt ein Schüttelgerät mit einer grünen Flüssigkeit gefüllte Glaskolben im immer gleichen Rhythmus....",
+  "content_structure": {
+    "paragraph_count": 17,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 861,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -49,6 +59,39 @@
       "Infrastructure",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.5,
+      "avg_word_length": 5.83,
+      "long_word_percentage": 34.15
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Bessere Medikamente",
+        "Weisse Oberflächen",
+        "Flüssigkeiten",
+        "Glasbehältern"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zukunft",
+        "Piels Gruppe",
+        "Medikament",
+        "Team",
+        "Glasbehältern"
+      ],
+      "departments": [
+        "Professor Jörn Piel vom",
+        "Mikrobiologie"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

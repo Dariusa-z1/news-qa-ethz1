@@ -5,7 +5,6 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "ETH staff are insured by the federal pension provider Publica through the ETH pension plan. Elections to Publica’s Assembly of Delegates for the four-year term 2017 to 2020 will take place on 27 November 2016. This year, the election will be carried out entirely via e-voting for the first time.\n\nETH staff who are interested in this position are invited to run for election. One of the delegates’ key tasks is to elect representatives to the Board of Directors. They are also members of the Assembly of Delegates , which is made up of 80 employees (16 from the constituency for which ETH Zurich is responsible) and can propose motions to the Board of Directors on all matters relating to Publica.\n\nThe Board of Directors has 16 members (eight representatives of the employees insured by Publica, and eight representatives of the employers) and is Publica’s highest governing body. It is responsible for the management, oversight and monitoring of Publica’s business administration.\n\nEveryone covered by a Publica plan is able to vote and stand for election. ETH Zurich staff can find key information about the elections ( explanations and list of candidates ) on Publica’s website (in German). You can also contact ETH Zurich’s Staff Commission PeKo (before 21 September 2016, and preferably as early as possible), a staff organisation (Personalverband des Bundes PVB (Federal Staff Organisation)), Vereinigung der Kader des Bundes VKB (Association of Federal Unions) or Schweizerischer Verband des Personals öffentlicher Dienste VPOD (Swiss Union of Public Service Personnel). These will provide you with information and documents for your candidacy.\n\nAn overview of the ETH pension plan ( Parity Commission , savings contributions , interest ) can be found on the relevant section of Publica’s website , along with a summary of pension regulations for ETH staff and professors.",
   "named_entities": [
-    "The Board",
     "Staff Commission",
     "Federal Staff Organisation",
     "Federal Unions",
@@ -13,8 +12,8 @@
     "Swiss Union",
     "Public Service Personnel",
     "Parity Commission",
-    "Publica",
-    "Assembly"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -30,14 +29,24 @@
     "Federal",
     "Plan"
   ],
-  "summary": "ETH staff are insured by the federal pension provider Publica through the ETH pension plan....",
+  "summary": "ETH staff are insured by the federal pension provider Publica through the ETH pension plan. Elections to Publica’s Assembly of Delegates for the four-year term 2017 to 2020 will take place on 27 November 2016. This year, the election will be carried out entirely via e-voting for the first time....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 300,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Staff",
       "Faculty",
@@ -48,6 +57,26 @@
       "Administrative",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.08,
+      "avg_word_length": 5.08,
+      "long_word_percentage": 33.0
+    },
+    "semantic_entities": {
+      "locations": [
+        "German",
+        "Publica"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017",
+          "2020"
+        ]
+      }
+    }
   }
 }

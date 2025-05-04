@@ -1,11 +1,10 @@
 {
   "language": "de",
   "title": "Das Botnar Research Center for Child Health (BRCCH), das 2019 gemeinsam von der ETH Zürich und der Universität Basel gegründet wurde, entwickelt neue pädiatrische Ansätze, um weltweit die Gesundheit von Kindern und Jugendlichen zu fördern. Am Zentrum engagieren sich auch Forschende des Universitätskinderspitals Basel sowie des Schweizerisches Tropen- und Public Health-Instituts.",
-  "date": "2020-03-01",
+  "date": "2019-03-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Das Botnar Research Center for Child Health (BRCCH), das 2019 gemeinsam von der ETH Zürich und der Universität Basel gegründet wurde, entwickelt neue pädiatrische Ansätze, um weltweit die Gesundheit von Kindern und Jugendlichen zu fördern. Am Zentrum engagieren sich auch Forschende des Universitätskinderspitals Basel sowie des Schweizerisches Tropen- und Public Health-Instituts.\n\nAngesicht der globalen Covid-19-Krise lanciert das BRCCH nun zum erstem Mal eine Notfallinitiative, um möglichst rasch praktikable Ansätze zu entwickeln, wie diese aussergewöhnliche Situation gemeistert werden kann. Dazu hat die Fondation Botnar, welche die Gründung dieses Zentrums mit einer Donation ermöglicht hat, nun zusätzliche Mittel in der Höhe von 15 Millionen Franken gesprochen. Mit den Geldern werden Projekte der vier beteiligten Institutionen über einen Zeitraum von zweieinhalb Jahren unterstützt. Gefördert werden Vorhaben, die sich mit der Diagnose und der menschlichen Immunantwort auf Covid-19 befassen, aber auch Projekte in den Bereichen medizinische Interventionen und Krankheitsmanagement.\n\nZiel dieser kurzfristig lancierten Initiative ist es, mit Hilfe der Kompetenzen der beteiligten Partner dringende Probleme bei der Bekämpfung der Covid-19-Pandemie zu lösen. Gleichzeitig sollen auch längerfristige Ansätze entwickelt werden, damit ähnliche Situationen künftig weltweit besser gemeistert werden können.",
   "named_entities": [
-    "Das Botnar Research Center",
     "Child Health",
     "Universität Basel",
     "Am Zentrum",
@@ -14,7 +13,8 @@
     "Public Health-Instituts",
     "Fondation Botnar",
     "Millionen Franken",
-    "BRCCH"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "COVID-19",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Das Botnar Research Center for Child Health (BRCCH), das 2019 gemeinsam von der ETH Zürich und der Universität Basel gegründet wurde, entwickelt neue pädiatrische Ansätze, um weltweit die Gesundheit von Kindern und Jugendlichen zu fördern. Am Zentrum engagieren sich auch Forschende des Universitätskinderspitals Basel sowie des Schweizerisches Tropen- und Public Health-Instituts....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 190,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -49,6 +59,35 @@
       "COVID-19",
       "Research",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.75,
+      "avg_word_length": 6.32,
+      "long_word_percentage": 39.47
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Das Botnar Research Center",
+        "Child Health",
+        "Zürich",
+        "Universität Basel",
+        "Ansätze"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "werden Projekte der vier beteiligten"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2019"
+        ]
+      }
+    }
   }
 }

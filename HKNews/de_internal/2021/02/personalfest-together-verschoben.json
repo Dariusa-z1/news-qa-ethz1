@@ -13,8 +13,8 @@
     "Thomas Meissner",
     "Abteilung Services",
     "Home Office",
-    "Die Vorarbeiten",
-    "Jahre-Jubiläums"
+    "Jahre-Jubiläums",
+    "ETH Zürich"
   ],
   "topics": [
     "Staff",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Das «togETHer» ist eigentlich ein fixer Bestandteil im Veranstaltungskalender der ETH Zürich. Alle zwei Jahre nehmen 3000 bis 4000 Mitarbeitende und ihre Angehörigen daran teil....",
+  "summary": "Das «togETHer» ist eigentlich ein fixer Bestandteil im Veranstaltungskalender der ETH Zürich. Alle zwei Jahre nehmen 3000 bis 4000 Mitarbeitende und ihre Angehörigen daran teil. Doch wie schon im ersten «Corona-Jahr» 2020 ist auch in diesem Jahr vieles etwas anders....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 288,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Staff"
     ],
@@ -47,6 +57,25 @@
       "COVID-19",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.0,
+      "avg_word_length": 5.62,
+      "long_word_percentage": 29.86
+    },
+    "semantic_entities": {
+      "locations": [
+        "Jahr"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "3000",
+          "4000"
+        ]
+      }
+    }
   }
 }

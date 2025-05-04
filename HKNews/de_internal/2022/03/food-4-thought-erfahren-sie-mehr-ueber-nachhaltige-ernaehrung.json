@@ -8,13 +8,13 @@
     "Campus Hönggerberg",
     "Im Zentrum",
     "Spin-Offs",
-    "An Degustationen",
     "Mittag Einblicke",
     "Greenioty Bauen Sie",
     "Seite Greenioty",
     "Im Workshop",
-    "Die Messe",
-    "Treffpunkt Science City"
+    "Treffpunkt Science City",
+    "Vorbild Energie",
+    "Initiative Vorbild Energie"
   ],
   "topics": [
     "Sustainability",
@@ -26,20 +26,31 @@
   ],
   "keywords": [
     "ETH Zurich",
+    "Campus Center",
     "University",
     "Research",
     "Science",
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Vom 3. bis 5. April findet auf dem Campus Hönggerberg die Messe «Food4Thought» statt....",
+  "summary": "Main article: Vom 3. bis 5. April findet auf dem Campus Hönggerberg die Messe «Food4Thought» statt. Im Zentrum der Veranstaltung steht die klimafreundliche Ernährung: An 17 Ständen können Sie sich als Besucher:in der Messe u.a....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 400,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Researchers",
@@ -50,6 +61,27 @@
       "COVID-19",
       "Sustainability",
       "Infrastructure"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.38,
+      "avg_word_length": 5.89,
+      "long_word_percentage": 35.25
+    },
+    "semantic_entities": {
+      "locations": [
+        "Jahr"
+      ],
+      "departments": [
+        "Zürich als"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2021",
+          "2030"
+        ]
+      }
+    }
   }
 }

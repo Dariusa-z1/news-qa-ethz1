@@ -6,12 +6,6 @@
   "main_content": "For reasons of ongoing improvements, your ordering options will be slightly restricted on Thursday, 24 October 2022, from 17.00 to 19.00. During this time, no other pick-up location can be selected for media at the locations “ETH Library” and “GESS Library”, as they pause participating in courier dispatch. When ordering media from other libraries, the libraries mentioned will not be offered as pick-up locations during this time slot.\n\nOur Recommendation: submit your order before or after this time slot so that all ordering options are available to you.\n\nMore than just data – Benefit from know-how\n\n#KnowHow – The ETH Library’s infrastructure and tools lead you to your goal.",
   "named_entities": [
     "Our Recommendation",
-    "Thursday",
-    "October",
-    "Library",
-    "GESS",
-    "Benefit",
-    "KnowHow",
     "ETH"
   ],
   "topics": [
@@ -20,26 +14,52 @@
   "keywords": [
     "Your",
     "Ordering",
-    "From",
-    "This",
     "Time",
     "Options",
-    "Will"
+    "Will",
+    "Other",
+    "Pickup"
   ],
-  "summary": "For reasons of ongoing improvements, your ordering options will be slightly restricted on Thursday, 24 October 2022, from 17.00 to 19.00....",
+  "summary": "For reasons of ongoing improvements, your ordering options will be slightly restricted on Thursday, 24 October 2022, from 17.00 to 19.00. During this time, no other pick-up location can be selected for media at the locations “ETH Library” and “GESS Library”, as they pause participating in courier dispatch....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 113,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.14,
+      "avg_word_length": 4.82,
+      "long_word_percentage": 27.43
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2022"
+        ]
+      }
+    }
   }
 }

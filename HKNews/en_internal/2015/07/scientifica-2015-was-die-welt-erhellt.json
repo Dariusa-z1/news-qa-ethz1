@@ -8,13 +8,9 @@
     "International Year",
     "Zurich Centre",
     "Dentistry Exhibition",
-    "Main",
-    "Light",
-    "Scientifica",
-    "September",
-    "Friday",
-    "University",
-    "German"
+    "ETH Zurich",
+    "ETH",
+    "University of Zurich"
   ],
   "topics": [
     "Research",
@@ -27,20 +23,30 @@
   "keywords": [
     "ETH Zurich",
     "University of Zurich",
-    "2015",
     "Zurich",
     "Main",
     "Light",
-    "Scientifica"
+    "Scientifica",
+    "September"
   ],
-  "summary": "Main article: 2015 is the International Year of Light. Inspired by this theme, Scientifica 2015 will focus on light and enlightenment from 5 to 6 September....",
+  "summary": "Main article: 2015 is the International Year of Light. Inspired by this theme, Scientifica 2015 will focus on light and enlightenment from 5 to 6 September. Without light there would be no imaging, no high-speed internet, no tattoo removal, no visual recognition – and no life....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 196,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -51,6 +57,47 @@
       "Research",
       "Events",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.33,
+      "avg_word_length": 4.83,
+      "long_word_percentage": 26.53
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "International Year",
+        "Inspired",
+        "Scientifica"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "5 and"
+      ],
+      "time_references": [
+        "9 pm",
+        "7 pm",
+        "11 am"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "German"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "www.scientifica.ch"
+        ],
+        "phones": [
+          "2015",
+          "2015"
+        ]
+      }
+    }
   }
 }

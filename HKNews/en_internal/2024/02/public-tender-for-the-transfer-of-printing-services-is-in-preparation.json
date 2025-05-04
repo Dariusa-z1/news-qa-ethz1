@@ -7,10 +7,8 @@
   "named_entities": [
     "Campus Services",
     "Print Group",
-    "January",
-    "Hönggerberg",
-    "Consulting",
-    "ETH"
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Staff",
@@ -29,14 +27,24 @@
     "Tenders",
     "Demand"
   ],
-  "summary": "As announced at the beginning of January, declining demand means that the ETH's own print centre will only be operational until the end of 2024 ....",
+  "summary": "As announced at the beginning of January, declining demand means that the ETH's own print centre will only be operational until the end of 2024 . The objective of the public call for tenders is to find suitable partners who can offer a stable solution from 2025....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 203,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Researchers",
@@ -47,6 +55,32 @@
       "Research",
       "Education",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.3,
+      "avg_word_length": 4.83,
+      "long_word_percentage": 30.54
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "January"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Campus Services"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2024",
+          "2025"
+        ]
+      }
+    }
   }
 }

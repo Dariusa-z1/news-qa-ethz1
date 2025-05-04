@@ -6,13 +6,7 @@
   "main_content": "Main article: In der zweiten Folge erzählt der Masterstudent Sarper Melik Ertekin, warum er gelernt hat, sich nicht mit anderen zu vergleichen.\n\nBeratung für Studierende: Es stehen Ihnen Beratungsstellen für (fast) alle Situationen im Studium zur Verfügung.",
   "named_entities": [
     "Masterstudent Sarper Melik Ertekin",
-    "Ihnen Beratungsstellen",
-    "Main",
-    "Folge",
-    "Studierende",
-    "Situationen",
-    "Studium",
-    "Verfügung"
+    "Ihnen Beratungsstellen"
   ],
   "topics": [
     "Education",
@@ -21,6 +15,7 @@
     "Staff"
   ],
   "keywords": [
+    "Students",
     "ETH Zurich",
     "University",
     "Research",
@@ -28,20 +23,52 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: In der zweiten Folge erzählt der Masterstudent Sarper Melik Ertekin, warum er gelernt hat, sich nicht mit anderen zu vergleichen....",
+  "summary": "Main article: In der zweiten Folge erzählt der Masterstudent Sarper Melik Ertekin, warum er gelernt hat, sich nicht mit anderen zu vergleichen. Beratung für Studierende: Es stehen Ihnen Beratungsstellen für (fast) alle Situationen im Studium zur Verfügung....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 37,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students"
     ],
     "context_tags": [
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.5,
+      "avg_word_length": 5.73,
+      "long_word_percentage": 37.84
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Masterstudent Sarper Melik Ertekin",
+        "Beratung"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

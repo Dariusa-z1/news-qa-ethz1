@@ -7,14 +7,7 @@
   "named_entities": [
     "Seite Nature Plants",
     "Nature Publishing Group",
-    "Der Zugriff",
-    "Bibliothek",
-    "Zeitschrift",
-    "Forschungsbeiträge",
-    "Molekularbiologie",
-    "Physiologie",
-    "Pflanzen",
-    "Interaktion"
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -28,20 +21,53 @@
     "Campus",
     "Education"
   ],
-  "summary": "Die ETH-Bibliothek bietet ab sofort den Zugriff auf externe Seite Nature Plants an....",
+  "summary": "Die ETH-Bibliothek bietet ab sofort den Zugriff auf externe Seite Nature Plants an. Die neuste Zeitschrift der Nature Publishing Group veröffentlicht Forschungsbeiträge zur Molekularbiologie, Physiologie und Ökologie der Pflanzen sowie der Interaktion zwischen den Menschen und dem Pflanzenreich....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 54,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.5,
+      "avg_word_length": 6.3,
+      "long_word_percentage": 37.04
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Bibliothek",
+        "Zugriff",
+        "Seite Nature Plants"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

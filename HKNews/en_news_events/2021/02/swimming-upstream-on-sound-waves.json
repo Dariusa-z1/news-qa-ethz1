@@ -9,11 +9,8 @@
     "Bradley Nelson",
     "Process Engineering",
     "Professor Ahmed",
-    "Main",
-    "Zurich",
-    "Department",
-    "Mechanical",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -26,17 +23,27 @@
     "Microvehicles",
     "Vessels",
     "Magnetic",
-    "Against",
-    "Flow"
+    "Flow",
+    "Researchers"
   ],
-  "summary": "",
+  "summary": "Main article: At some point, microvehicles that are small enough to navigate our blood vessels will enable physicians to take biopsies, insert stents and deliver drugs with precision to sites that are difficult to reach, all from inside the body. Scientists around the world are currently researching and developing suitable microvehicles....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 416,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -46,6 +53,31 @@
       "Research",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.11,
+      "avg_word_length": 5.02,
+      "long_word_percentage": 27.64
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Scientists",
+        "However"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "professors at the",
+        "Mechanical and Process Engineering of"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

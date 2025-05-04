@@ -13,8 +13,8 @@
     "Thomas Reiter",
     "Thomas Reiter Direktor",
     "Bemannte Raumfahrt",
-    "Der Lift",
-    "Zwei Lichter"
+    "Zwei Lichter",
+    "Zur Sicherheit"
   ],
   "topics": [
     "Research",
@@ -33,13 +33,23 @@
     "Education"
   ],
   "summary": "Main article: Alle schauen gespannt auf die Monitore an der Wand. 10 – 9 – 8 - .... Anderthalbjahre wurde der Start immer wieder verschoben. Erst sollte der Launch am 14....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 790,
     "readability_score": "moderately complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -51,6 +61,47 @@
       "Research",
       "Events",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.15,
+      "avg_word_length": 5.35,
+      "long_word_percentage": 27.72
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Monitore",
+        "Anderthalbjahre"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "10 – 9",
+        "7 – 6",
+        "4 – 3"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Foto",
+        "Russland",
+        "Startturm",
+        "Bonn",
+        "Darmstadt"
+      ],
+      "departments": [
+        "Geophysik an der",
+        "promovierte beim Schweizerischen Erdbebendienst im",
+        "an der auch Forschende des"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

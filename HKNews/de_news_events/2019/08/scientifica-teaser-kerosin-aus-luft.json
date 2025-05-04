@@ -11,10 +11,10 @@
     "Im Zeitalter",
     "Wissenschaftler Fakten",
     "Science Facts",
-    "Die Scientifica",
     "Seite Das",
     "Scientifica-Programm",
-    "Vieles"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Vieles, womit sich Wissenschaftlerinnen und Wissenschaftler an der ETH und der Universität Zürich tagtäglich befassen, tönt nach Science Fiction....",
+  "summary": "Vieles, womit sich Wissenschaftlerinnen und Wissenschaftler an der ETH und der Universität Zürich tagtäglich befassen, tönt nach Science Fiction. Manches könnte aber in Zukunft als selbstverständlich gelten. An der Scientifica präsentieren Ihnen Forschende an Ausstellungsständen, in Workshops, Kurzvorlesungen und vielen weiteren Veranstaltungen ihre Projekte und Konzepte....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 149,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -48,6 +58,34 @@
       "Research",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 10.64,
+      "avg_word_length": 6.3,
+      "long_word_percentage": 36.24
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Vieles",
+        "Wissenschaftlerinnen",
+        "Wissenschaftler",
+        "Universität Zürich",
+        "Science Fiction"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zukunft",
+        "Workshops"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

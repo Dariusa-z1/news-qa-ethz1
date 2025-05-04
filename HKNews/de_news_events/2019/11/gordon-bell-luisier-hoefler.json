@@ -8,13 +8,13 @@
     "Gordon Bell Preis",
     "Chip-Hersteller",
     "Ihr Durchmesser",
-    "Der Bedarf",
     "Professoren Torsten Hoefler",
     "Mathieu Luisier",
     "Gordon Bell Prize",
     "Supercomputing-Tagung",
     "Nano-Transistoren",
-    "Integrierte Systeme"
+    "Integrierte Systeme",
+    "Zürich Transistoren"
   ],
   "topics": [
     "Technology & Innovation",
@@ -26,20 +26,31 @@
   ],
   "keywords": [
     "ETH Zurich",
+    "Communication",
     "University",
     "Research",
     "Science",
     "Campus",
     "Education"
   ],
-  "summary": "ETH-Team erhielt Gordon Bell Preis: Chip-Hersteller verbauen Transistoren, die nur wenige Nanometer klein sind....",
+  "summary": "ETH-Team erhielt Gordon Bell Preis: Chip-Hersteller verbauen Transistoren, die nur wenige Nanometer klein sind. Ihr Durchmesser beträgt nicht einmal ein Tausendstel eines menschlichen Haares, der bei feinem Haar etwa 20'000 Nanometer misst. Der Bedarf an immer leistungsfähigeren Hochleistungsrechnern treibt die Industrie an, noch kleinere und zugleich leistungsstärkere Bauteile zu entwickeln....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 840,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -50,6 +61,39 @@
       "Technology",
       "Research",
       "Administrative"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.7,
+      "avg_word_length": 6.39,
+      "long_word_percentage": 39.05
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Gordon Bell Preis",
+        "Hersteller",
+        "Transistoren"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Extreme-Scale Ab",
+        "Tausendstel",
+        "Englisch"
+      ],
+      "departments": [
+        "die Forschungsgruppe von Luisier vom",
+        "Integrierte Systeme"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1000",
+          "1000"
+        ]
+      }
+    }
   }
 }

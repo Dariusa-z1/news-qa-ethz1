@@ -12,9 +12,9 @@
     "Unser Ziel",
     "Projektleiterin Karin Emmenegger",
     "Weitere Daten",
-    "Verpflegungsständen",
-    "Polyterrasse",
-    "Angehörigen"
+    "ETH",
+    "Hönggerberg",
+    "Polyterrasse"
   ],
   "topics": [
     "Infrastructure",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Von salzig bis süss: Am Mittwoch, 23. September 2015 kann man sich von 11 bis 15 Uhr an diversen mobilen Verpflegungsständen auf der Polyterrasse verköstigen....",
+  "summary": "Von salzig bis süss: Am Mittwoch, 23. September 2015 kann man sich von 11 bis 15 Uhr an diversen mobilen Verpflegungsständen auf der Polyterrasse verköstigen. Nebst den ETH-Angehörigen sind externe Gäste gerne willkommen....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 127,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -48,6 +58,24 @@
       "Catering",
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 9.07,
+      "avg_word_length": 5.34,
+      "long_word_percentage": 25.98
+    },
+    "semantic_entities": {
+      "locations": [
+        "Karin Emmenegger"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015"
+        ]
+      }
+    }
   }
 }

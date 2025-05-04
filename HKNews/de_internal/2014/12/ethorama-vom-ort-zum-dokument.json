@@ -9,12 +9,7 @@
     "Ihr Wohnort",
     "Klicken Sie",
     "Schweizer Karte",
-    "Lauf",
-    "Zeit",
-    "Texte",
-    "Bezügen",
-    "Plattform",
-    "Orte"
+    "ETH"
   ],
   "topics": [
     "Infrastructure",
@@ -28,14 +23,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Wollen Sie wissen, wie sich Ihr Wohnort im Lauf der Zeit verändert hat, ob historische oder zeitgenössische Texte dazu vorhanden sind oder in welchen thematischen Bezügen er steht?...",
+  "summary": "Wollen Sie wissen, wie sich Ihr Wohnort im Lauf der Zeit verändert hat, ob historische oder zeitgenössische Texte dazu vorhanden sind oder in welchen thematischen Bezügen er steht? ETHorama ist eine neue Plattform, auf der Orte mit digitalisierten Dokumenten verbunden sind: Klicken Sie auf die Schweizer Karte und stöbern Sie in Bildern, Artikeln, alten Drucken und Karten....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 81,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -43,6 +48,22 @@
     "context_tags": [
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.25,
+      "avg_word_length": 5.75,
+      "long_word_percentage": 37.04
+    },
+    "semantic_entities": {
+      "locations": [
+        "Bildern"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

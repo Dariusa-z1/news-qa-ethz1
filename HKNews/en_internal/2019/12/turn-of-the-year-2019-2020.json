@@ -14,7 +14,7 @@
     "Housing Office",
     "Financial Aid Office",
     "International Student Support Student",
-    "The Irchel"
+    "Special Libraries"
   ],
   "topics": [
     "Infrastructure",
@@ -28,19 +28,29 @@
     "ETH Zurich",
     "ETH Card",
     "Will",
-    "From",
-    "05012020",
     "Closed",
-    "Including"
+    "Including",
+    "Hours",
+    "Service"
   ],
-  "summary": "Reduced services: For the period from Tuesday, 24 December 2019 up to and including Sunday, 5 January 2020 , special ETH Zurich opening times and operational hours apply....",
+  "summary": "Reduced services: For the period from Tuesday, 24 December 2019 up to and including Sunday, 5 January 2020 , special ETH Zurich opening times and operational hours apply. Buildings may still be accessed with a key or ETH card. All customer desks will be closed at the turn of the year and cannot be reached by telephone or electronic means....",
+  "content_structure": {
+    "paragraph_count": 23,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 669,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Students",
       "Staff",
@@ -51,6 +61,27 @@
       "Infrastructure",
       "Technology",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 6.83,
+      "avg_word_length": 4.51,
+      "long_word_percentage": 23.17
+    },
+    "semantic_entities": {
+      "locations": [
+        "Tuesday",
+        "Hönggerberg",
+        "Zentrum"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2019",
+          "2020"
+        ]
+      }
+    }
   }
 }

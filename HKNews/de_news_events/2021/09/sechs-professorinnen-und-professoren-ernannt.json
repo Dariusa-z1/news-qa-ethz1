@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Neuernennungen: Prof. Dr....",
+  "summary": "Neuernennungen: Prof. Dr. Lint Barrage (*1985), zurzeit Assistenzprofessorin an der University of California, USA, zur ausserordentlichen Professorin für Energie- und Klimawirtschaft am Departement Management, Technologie und Ökonomie....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 6,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1234,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,42 @@
       "COVID-19",
       "Sustainability",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.18,
+      "avg_word_length": 6.65,
+      "long_word_percentage": 43.03
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Neuernennungen",
+        "Lint Barrage",
+        "Assistenzprofessorin"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "New York",
+        "Energieökonomie",
+        "Brüssel",
+        "Michael Ambühl",
+        "Informationssicherheit"
+      ],
+      "departments": [
+        "ordentlichen Professorin für Mathematik am",
+        "für Architektur und Konstruktion am",
+        "Mit seiner Berufung wird am"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1985",
+          "1991"
+        ]
+      }
+    }
   }
 }

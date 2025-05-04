@@ -10,11 +10,9 @@
     "Electrical Engineering",
     "Real Estate",
     "Fredi Thalman",
-    "Zurich",
-    "Gloriastrasse",
-    "Department",
-    "HEST",
-    "ITET"
+    "ETH Zurich",
+    "ETH",
+    "University of Zurich"
   ],
   "topics": [
     "Technology & Innovation",
@@ -32,14 +30,24 @@
     "Construction",
     "Zurich"
   ],
-  "summary": "ETH Zurich is constructing the new GLC building for medical technology research and applications on Gloriastrasse....",
+  "summary": "ETH Zurich is constructing the new GLC building for medical technology research and applications on Gloriastrasse. The building will include spaces for the Department of Health Science and Technology ( D-HEST ) and the Department of Information Technology and Electrical Engineering ( D-ITET ), which can also be used for collaborative projects with industry, hospitals and the University of Zurich....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 261,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -49,6 +57,34 @@
       "Technology",
       "Research",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.73,
+      "avg_word_length": 5.28,
+      "long_word_percentage": 33.72
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zurich",
+        "Gloriastrasse",
+        "Department",
+        "Health Science"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "will include spaces for the",
+        "and the",
+        "Information Technology and Electrical Engineering"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

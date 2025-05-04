@@ -7,14 +7,8 @@
   "named_entities": [
     "Wie Sie",
     "Stunden-Zugang Studierendenarbeitsplätze",
-    "Für Vorkommnisse",
-    "Informationen",
-    "Betriebszeiten",
-    "Auch",
-    "Gebäude",
-    "Zutritt",
-    "Schlüssel",
-    "Karte"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Infrastructure",
@@ -32,14 +26,24 @@
     "Science",
     "Campus"
   ],
-  "summary": "Informationen zu Öffnungs- und Betriebszeiten (PDF, 993 KB)\n\nAuch wenn ab dem 22....",
+  "summary": "Informationen zu Öffnungs- und Betriebszeiten (PDF, 993 KB)\n\nAuch wenn ab dem 22. Dezember die diversen Gebäude der ETH geschlossen bleiben, ist der Zutritt mit Schlüssel oder mit der ETH-Karte (Personalausweis/Legi) möglich. Wie Sie eine Zutrittsberechtigung für ein Gebäude bestellen, erfahren Sie unter der Webseite « 24-Stunden-Zugang Studierendenarbeitsplätze » im ETH-Web....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 103,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -49,6 +53,34 @@
       "Infrastructure",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.17,
+      "avg_word_length": 6.08,
+      "long_word_percentage": 37.86
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Informationen",
+        "Betriebszeiten",
+        "Dezember",
+        "Gebäude"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Gebäude"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "044 342 11 88"
+        ]
+      }
+    }
   }
 }

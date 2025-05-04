@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Main article: Ein Defekt in einer Mittelspannungs-Anlage löste einen Stromausfall auf dem Campus Hönggerberg aus. (Bild: ETH Zürich / Facility Services)\n\nGebäudeevakuation, aber keine Verletzten: Aufgrund der Erfahrungen am Mittwoch und der Fragen, die von ETH-Angehörigen gestellt wurden, empfiehlt die SGU, die folgenden Verhaltensregeln zu beachten:\n\n• Das Wichtigste zuerst: Keine Panik, der Strom kommt wieder.\n• Gefahrenquellen ausschalten und Verletzungsrisiko minimieren: Schalten Sie alle Geräte aus, die sich zu einer Gefahrenquelle entwickeln können, sobald der Strom wieder fliesst (z.B. Heizplatte, Ofen, rotierende Werkzeuge wie z.B. eine Kreissäge, usw.).\n• Stecken Sie Elektrogeräte aus, die Sie nicht unbedingt benötigen. Wenn der Strom wieder fliesst, schont diese Massnahme das Netz, und es kommt nicht zu einer Überlastung.\n• Akkus schonen: Gehen Sie sparsam mit batteriebetriebenen Geräten um.\n• Nicht den Lift benutzen.\n• Zu beachten ist ferner, dass Sie ein Gebäude jederzeit verlassen können – hingegen ist das Eintreten bei elektronischen Schliessungen während eines Stromausfalls nicht möglich.\nAm Mittwoch um 11:20 Uhr ereignete sich ein Defekt in einer Mittelspannungs-Anlage im HPM-Gebäude. Den Defekt verursachte ein Spannungswandler. Dabei kam es zu einem Kurzschluss beim Strom. Dieser Kurzschluss war so stark, dass im EWZ-Unterwerk, das den Hönggerberg mit Strom versorgt, ein Lastschalter ausfiel. «Als Folge davon fiel der Strom während knapp 15 Minuten auf dem ganzen Campus aus», sagt Rainer Schwab, der in der Abteilung Facility Services für das Gebäudemanagement auf dem Campus Hönggerberg zuständig ist.\n\nHinzu kam, dass die beiden Notstromgeneratoren im HEZ-Gebäude, die den Campus Hönggerberg in solchen Fällen mit Notstrom versorgen, nicht starteten und deshalb den Ausfall nicht sofort überbrücken konnten. Die Ursache dieses Fehlers wird nun detailliert mit externen Spezialisten abgeklärt. Sicherheitshalber werden auch vorsorglich die Notstromgeneratoren auf dem Campus Zentrum überprüft.\n\nPersonen wurden aufgrund des Defekts und des Stromausfalls zum Glück keine verletzt. Die Einsatzkräfte von Feuerwehr, Sanität und Polizei waren jedoch vor Ort, und es wurden rund 150 ETH-Angehörige evakuiert, die im HPM-Gebäude arbeiten. «Die Evakuation verlief ruhig und geordnet, ebenso eine Personenbefreiung aus einem Lift», sagt Silke Kiesewetter, Interimsleiterin von Sicherheit, Gesundheit und Umwelt SGU. «Mittlerweile funktioniert die Infrastruktur auf dem Campus Hönggerberg wieder im Normalbetrieb. Wir danken allen Betroffenen für ihre Kooperation und ihr Verständnis.»\n\nEine positive Erkenntnis am Mittwoch war, dass die Alarmzentrale während des Stromausfalls jederzeit funktionierte und immer erreichbar war. Im Zusammenhang mit dem Stromausfall klärt der Infrastrukturbereich der ETH (VPIN) zudem weitere Aspekte ab, etwa die Auslösung einer Brandwarnung im benachbarten HPL-Gebäude oder das Schliessmanagement der Türen. Abgeklärt wird ferner, ob der Stromausfall in bestimmten Forschungslabors zu Schäden führte – Forschungsgruppen, in deren Labors der Stromausfall zu einem Sachschaden am Forschungsequipment geführt hat, füllen bitte das ).",
   "named_entities": [
-    "Ein Defekt",
     "Mittelspannungs-Anlage",
     "Campus Hönggerberg",
     "Facility Services",
-    "Das Wichtigste",
     "Keine Panik",
     "Schalten Sie",
     "Stecken Sie Elektrogeräte",
     "Gehen Sie",
-    "Am Mittwoch"
+    "Am Mittwoch",
+    "Den Defekt",
+    "Dieser Kurzschluss"
   ],
   "topics": [
     "Infrastructure",
@@ -33,14 +33,24 @@
     "Science",
     "Education"
   ],
-  "summary": "Main article: Ein Defekt in einer Mittelspannungs-Anlage löste einen Stromausfall auf dem Campus Hönggerberg aus....",
+  "summary": "Main article: Ein Defekt in einer Mittelspannungs-Anlage löste einen Stromausfall auf dem Campus Hönggerberg aus. (Bild: ETH Zürich / Facility Services)\n\nGebäudeevakuation, aber keine Verletzten: Aufgrund der Erfahrungen am Mittwoch und der Fragen, die von ETH-Angehörigen gestellt wurden, empfiehlt die SGU, die folgenden Verhaltensregeln zu beachten:\n\n• Das Wichtigste zuerst: Keine Panik, der Strom kommt wieder....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 6,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 438,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -49,6 +59,35 @@
       "Infrastructure",
       "Research",
       "Weather"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.1,
+      "avg_word_length": 6.06,
+      "long_word_percentage": 35.16
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Ein Defekt",
+        "Mittelspannungs",
+        "Anlage",
+        "Stromausfall"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Spannungswandler",
+        "Defekt",
+        "Gebäude",
+        "Lastschalter"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

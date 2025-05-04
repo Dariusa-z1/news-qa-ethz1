@@ -7,14 +7,14 @@
   "named_entities": [
     "Herr Capkun",
     "Vollständige Sicherheit",
-    "Das Hinterfragen",
-    "Die Frage",
     "Als Sicherheitsexperte",
-    "Die Möglichkeiten",
     "Nehmen Sie",
-    "Die Chips",
     "Solche Attacken",
-    "Welche Geräte"
+    "Welche Geräte",
+    "Wifi-Kamera",
+    "Solche Fragen",
+    "Beispiel Hard",
+    "Cyber-Attacken"
   ],
   "topics": [
     "Communication",
@@ -26,20 +26,30 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "University",
     "Research",
+    "University",
     "Science",
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Herr Capkun, Sie sagten kürzlich in einem Interview: «Ein bisschen Paranoia schadet bei der IT-Sicherheit nicht.» Wie paranoid sollte man idealerweise sein?...",
+  "summary": "Main article: Herr Capkun, Sie sagten kürzlich in einem Interview: «Ein bisschen Paranoia schadet bei der IT-Sicherheit nicht.» Wie paranoid sollte man idealerweise sein? Bei der IT-Sicherheit ist es tatsächlich gut, etwas paranoid zu sein und die Technik immer wieder zu hinterfragen....",
+  "content_structure": {
+    "paragraph_count": 15,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 969,
     "readability_score": "moderately complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,36 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.11,
+      "avg_word_length": 5.59,
+      "long_word_percentage": 28.28
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Herr Capkun",
+        "Interview"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Auto",
+        "Kernkraftwerk",
+        "Mobiltelefon",
+        "Spital",
+        "England"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017"
+        ]
+      }
+    }
   }
 }

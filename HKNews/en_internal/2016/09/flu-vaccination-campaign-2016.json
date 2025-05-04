@@ -5,15 +5,9 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "All members of ETH Zurich can get a vaccination: For all employees and students the vaccination is free of charge. The vaccination is optional.\n\nRegistration compulsory The vaccination is for ETH-members only. Registration is open now on the .\n\nETH Zurich, Zentrum, GEP Pavillon 20 October 2016, 08.30–11.30 h 15 November 2016, 08.30–11.30 h\n\nETH Zurich, Hönggerberg, HIT-building, E 51 25 October 2016, 13.30–16.30 h 24 November 2016, 08.30–11.30 h\n\nETH Zurich, D-BSSE, Basel 17 October 2016, 15.00–17.00 h",
   "named_entities": [
-    "Zurich",
-    "Zentrum",
-    "Pavillon",
-    "October",
-    "November",
-    "Hönggerberg",
-    "BSSE",
-    "Basel",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "COVID-19",
@@ -24,21 +18,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "2016",
     "Zurich",
     "Vaccination",
     "October",
-    "0830–1130",
-    "Registration"
+    "Registration",
+    "November",
+    "Members"
   ],
-  "summary": "All members of ETH Zurich can get a vaccination: For all employees and students the vaccination is free of charge. The vaccination is optional....",
+  "summary": "All members of ETH Zurich can get a vaccination: For all employees and students the vaccination is free of charge. The vaccination is optional. Registration compulsory The vaccination is for ETH-members only....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 96,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff"
@@ -46,6 +50,34 @@
     "context_tags": [
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 6.4,
+      "avg_word_length": 4.06,
+      "long_word_percentage": 21.88
+    },
+    "temporal_info": {
+      "event_dates": [
+        "20 October 2016"
+      ],
+      "time_references": [
+        "30–11",
+        "30–11",
+        "30–16"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016",
+          "2016"
+        ]
+      }
+    }
   }
 }

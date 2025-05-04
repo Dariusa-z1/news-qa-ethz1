@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Molekulare Wissenschaft, Kunst, Religion und Politik – darüber diskutieren am 22....",
+  "summary": "Molekulare Wissenschaft, Kunst, Religion und Politik – darüber diskutieren am 22. Oktober 2015 am zweiten Basar Molekular – dem Live- Radio-Talk im Unternehmen Mitte in Basel – vier prominente Gäste: Anita Fetz, seit 2003 in Bern als Ständerätin für Basel-Stadt, Felix Gmür, seit 2011 Bischof von Basel und damit Leiter des grössten Schweizer Bistums, Stefan Gubser, TV- und Bühnendarsteller und u.a....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 292,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,49 @@
       "Administrative",
       "Events",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 7.3,
+      "avg_word_length": 5.68,
+      "long_word_percentage": 35.96
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Molekulare Wissenschaft",
+        "Religion",
+        "Politik",
+        "Oktober"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "15 am",
+        "16 am",
+        "19.20 Uhr"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Bern",
+        "Basel",
+        "Anlass"
+      ],
+      "departments": [
+        "Biochemie der Universität Zürich betreibt",
+        "die er am"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "2003"
+        ]
+      }
+    }
   }
 }

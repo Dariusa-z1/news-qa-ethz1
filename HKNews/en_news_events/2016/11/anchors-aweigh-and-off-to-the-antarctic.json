@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "Will",
-    "From",
     "Expedition",
-    "Also",
     "Water",
-    "Cape"
+    "Cape",
+    "Town",
+    "Thurnherr"
   ],
-  "summary": "Time to set sail: on 19 November, the Russian icebreaker Akademik Treshnikov will cast off from Bremerhaven. Its destination: Cape Town....",
+  "summary": "Time to set sail: on 19 November, the Russian icebreaker Akademik Treshnikov will cast off from Bremerhaven. Its destination: Cape Town. Its aim: to transport people and equipment from the Swiss Polar Institute's international Antarctic Circumpolar Expedition (ACE) to South Africa....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 559,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,41 @@
       "Weather",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.63,
+      "avg_word_length": 5.0,
+      "long_word_percentage": 26.3
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "November",
+        "Russian",
+        "Akademik Treshnikov",
+        "Bremerhaven"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Bremerhaven",
+        "Punta Arenas",
+        "Cape Town",
+        "Zurich",
+        "Chile"
+      ],
+      "departments": [
+        "colleagues from the Paul Scherrer",
+        "equipment from the Swiss Polar"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016"
+        ]
+      }
+    }
   }
 }

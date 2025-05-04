@@ -9,12 +9,11 @@
     "Dr Rafael Ball",
     "Professor Lorenz Hurni",
     "Dr Peter Hogenkamp",
-    "Book",
-    "Tuesday",
-    "August",
-    "Switzerland",
-    "Where",
-    "Zurich"
+    "ETH Zurich",
+    "ETH",
+    "Lorenz Hurni",
+    "Rafael Ball",
+    "Peter Hogenkamp"
   ],
   "topics": [
     "Research",
@@ -30,17 +29,27 @@
     "Library",
     "Collection",
     "Will",
-    "2022",
-    "Anniversary"
+    "Anniversary",
+    "August"
   ],
-  "summary": "Book launch on Tuesday, 30 August 2022: For decades, the ETH Library has collected maps....",
+  "summary": "Book launch on Tuesday, 30 August 2022: For decades, the ETH Library has collected maps. Based on this long and rich tradition, it has actively participated in the digitisation of maps and geographical data for use by researchers and the general public....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 326,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -50,6 +59,32 @@
       "Research",
       "Education",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.11,
+      "avg_word_length": 5.08,
+      "long_word_percentage": 30.98
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Tuesday",
+        "August",
+        "Library"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2022",
+          "2022"
+        ]
+      }
+    }
   }
 }

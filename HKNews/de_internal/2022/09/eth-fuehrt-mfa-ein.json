@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "So registrieren Sie sich für MFA an der ETH: IT-Sicherheit ist ein Thema, das alle Unternehmen und Institutionen betrifft....",
+  "summary": "So registrieren Sie sich für MFA an der ETH: IT-Sicherheit ist ein Thema, das alle Unternehmen und Institutionen betrifft. Auch die ETH setzt sich vertieft damit auseinander – und führt deshalb die Multifaktor-Authentisierung (MFA) ein. Mit der Eingabe einer solchen zweiten Anmeldebestätigung soll die Sicherheit unserer Nutzendenkonten und Daten erhöht und das Risiko von Cyberattacken verringert werden....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 403,
     "readability_score": "complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -48,6 +58,35 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.5,
+      "avg_word_length": 5.67,
+      "long_word_percentage": 30.02
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Sicherheit",
+        "Unternehmen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Thema",
+        "Smartphone"
+      ],
+      "departments": [
+        "das alle Unternehmen und"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "id.ethz.ch"
+        ],
+        "phones": []
+      }
+    }
   }
 }

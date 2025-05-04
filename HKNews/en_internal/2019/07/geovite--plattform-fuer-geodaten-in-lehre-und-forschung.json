@@ -5,16 +5,8 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "GeoVITe offers GIS beginners and experts fast, browser-based access to federal and cantonal geodata. The extensive range of data also includes Siegfried/Dufour maps as well as various data time stands.\n\nBased on initial developments within research projects, the platform has been operated by the Institute of Cartography and Geoinformation of ETH Zurich (IKG) since 2008. As part of a national funding programme, GeoVITe was integrated into the service geodata4edu.ch . Since 1 July 2019, GeoVITe has continued as an independent service, operated by IKG and ETH Library.",
   "named_entities": [
-    "GeoVITe",
-    "Siegfried",
-    "Dufour",
-    "Institute",
-    "Cartography",
-    "Geoinformation",
-    "Zurich",
-    "July",
-    "Library",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -30,20 +22,57 @@
     "Service",
     "Offers"
   ],
-  "summary": "GeoVITe offers GIS beginners and experts fast, browser-based access to federal and cantonal geodata....",
+  "summary": "GeoVITe offers GIS beginners and experts fast, browser-based access to federal and cantonal geodata. The extensive range of data also includes Siegfried/Dufour maps as well as various data time stands. Based on initial developments within research projects, the platform has been operated by the Institute of Cartography and Geoinformation of ETH Zurich (IKG) since 2008....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 89,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.83,
+      "avg_word_length": 5.27,
+      "long_word_percentage": 37.08
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Siegfried",
+        "Dufour"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "has been operated by the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2008",
+          "2019"
+        ]
+      }
+    }
   }
 }

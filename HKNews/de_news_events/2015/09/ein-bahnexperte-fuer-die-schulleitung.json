@@ -10,11 +10,11 @@
     "Ulrich Weidmann",
     "Schulleitungsbereich Personal",
     "Roman Boutellier",
-    "Die Anstellung",
     "Departements Bau",
     "Division Personenverkehr",
     "Division Infrastruktur",
-    "Präsident Lino Guzzella"
+    "Präsident Lino Guzzella",
+    "Marktorientierung Einzug"
   ],
   "topics": [
     "University Administration",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "In der Kontinuität der Laufbahn: Wer Ulrich Weidmanns Büro auf dem Hönggerberg betritt, sieht sogleich die Eisenbahnmodelle, die man mit einer Professur verbindet, die sich mit dem öffentlichen Verkehr befasst. Wer sich weiter umsieht, bemerkt, dass die meisten Ordner und Dokumentenmappen grün sind....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 770,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff",
       "Faculty",
@@ -53,6 +63,31 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.74,
+      "avg_word_length": 6.12,
+      "long_word_percentage": 34.55
+    },
+    "semantic_entities": {
+      "locations": [
+        "Büro",
+        "Wissen",
+        "Anlässe"
+      ],
+      "departments": [
+        "auch seine Gruppe und das",
+        "Aktuell ist er Vorsteher des",
+        "heute bewege er sich als"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2008",
+          "1998"
+        ]
+      }
+    }
   }
 }

@@ -7,14 +7,14 @@
   "named_entities": [
     "Toxisches Protein",
     "Pilzen Lebensgemeinschaften",
-    "Der Pilz",
     "Pflanze Spurenelemente",
-    "Die Pflanze",
     "Mikrobiologieprofessor Markus Aebi",
     "Pilz-Pflanze-Gespann",
     "Dieses Gift",
     "Markus Künzler",
-    "Aebis Gruppe"
+    "Aebis Gruppe",
+    "Fadenwürmer Pilzzellen",
+    "Bakterien Klumpen"
   ],
   "topics": [
     "Staff",
@@ -31,14 +31,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Toxisches Protein tötet Darmzellen ab: Die meisten landlebenden Pflanzen gehen mit Pilzen Lebensgemeinschaften ein....",
+  "summary": "Toxisches Protein tötet Darmzellen ab: Die meisten landlebenden Pflanzen gehen mit Pilzen Lebensgemeinschaften ein. Davon profitieren beide: Der Pilz, der Würzelchen der Wirtspflanze mit einem dichten Filz umhüllt, beschafft der Pflanze Spurenelemente und Wasser....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 485,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Researchers"
@@ -46,6 +56,36 @@
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.4,
+      "avg_word_length": 6.12,
+      "long_word_percentage": 36.29
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Toxisches Protein",
+        "Darmzellen",
+        "Pflanzen",
+        "Pilzen Lebensgemeinschaften"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Protein",
+        "Aebis Gruppe"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2014",
+          "1073"
+        ]
+      }
+    }
   }
 }

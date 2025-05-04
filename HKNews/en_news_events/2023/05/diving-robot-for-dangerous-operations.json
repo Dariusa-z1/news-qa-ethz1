@@ -5,11 +5,10 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "The Tethys robot is an autonomous underwater vehicle that has been specially developed for use in challenging and dangerous environments like turbid channels and rivers. It is primarily used in situations when it is too difficult or risky to use conventional search and rescue techniques. Equipped with acoustic sensors and cameras, the robot can search large areas underwater completely autonomously and quickly localise objects or people. This means that divers and rescue teams no longer have to risk working in dangerous situations.\n\nOnce the robot has located its target, an operator takes over the navigation and guides the robot diver to the target. The Tethys robot can carry up to 40 kg back to the surface. This allows the emergency services to focus on other important tasks and ensure that the search and rescue operation runs as efficiently and as safely as possible. The ETH spin-off was founded by Pioneer Fellows Jonas Wüst and Pragash Sivananthaguru. What originally began as a student project at ETH Zurich is now an in-demand start-up. The underwater robot has already been used by several local authorities for underwater search and rescue operations.",
   "named_entities": [
-    "The Tethys",
     "Pioneer Fellows Jonas Wüst",
     "Pragash Sivananthaguru",
-    "Zurich",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -25,23 +24,47 @@
     "Underwater",
     "Search",
     "Rescue",
-    "That",
-    "Tethys"
+    "Tethys",
+    "Been"
   ],
-  "summary": "The Tethys robot is an autonomous underwater vehicle that has been specially developed for use in challenging and dangerous environments like turbid channels and rivers....",
+  "summary": "The Tethys robot is an autonomous underwater vehicle that has been specially developed for use in challenging and dangerous environments like turbid channels and rivers. It is primarily used in situations when it is too difficult or risky to use conventional search and rescue techniques....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 191,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students"
     ],
     "context_tags": [
       "Sustainability",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.1,
+      "avg_word_length": 5.07,
+      "long_word_percentage": 26.7
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

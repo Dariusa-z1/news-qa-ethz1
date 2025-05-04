@@ -5,15 +5,10 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "The Swiss Federal Polytechnic, as ETH was called in its early years, has always acknowledged the crucial role of agricultural sciences. The university saw itself as the thought engine behind an emerging Swiss industry, and a vital research hub for the national agricultural and forestry sector.\n\nETH Zurich’s new app tour carefully traces this story, investigating the roots of agricultural sciences at the university and at the same time offering a close-up look at cutting-edge research. The tour kicks off in the main building and guides you to key sites in the surrounding buildings; you can even watch our researchers at work. Each step brings you nearer to the latest questions and solutions.\n\nPacked with nourishing insights, the journey leads you from “cultivation battle” to plant genetics, from wild bees to phytopathology, through to a start-up for meat substitutes. And in just 60 minutes, you’re back at the starting point. The tour comes in German and English, for travellers on foot or on wheels. You can install the app free of charge on any Apple or Android device ( App-Store or Google Play ) – it’s a great way to explore ETH Zurich on your own.\n\nSo grab the app and join in. You’ve a chance to win a great prize from an ETH spin-off. Good luck!",
   "named_entities": [
-    "The Swiss Federal Polytechnic",
     "App-Store",
     "Google Play",
-    "Zurich",
-    "German",
-    "English",
-    "Apple",
-    "Android",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -25,19 +20,29 @@
     "ETH Zurich",
     "Agricultural",
     "Tour",
-    "From",
     "Swiss",
     "Sciences",
-    "University"
+    "University",
+    "Research"
   ],
-  "summary": "The Swiss Federal Polytechnic, as ETH was called in its early years, has always acknowledged the crucial role of agricultural sciences....",
+  "summary": "The Swiss Federal Polytechnic, as ETH was called in its early years, has always acknowledged the crucial role of agricultural sciences. The university saw itself as the thought engine behind an emerging Swiss industry, and a vital research hub for the national agricultural and forestry sector....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 223,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -47,6 +52,30 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.58,
+      "avg_word_length": 4.52,
+      "long_word_percentage": 19.28
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "The Swiss Federal Polytechnic",
+        "Zurich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "German"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

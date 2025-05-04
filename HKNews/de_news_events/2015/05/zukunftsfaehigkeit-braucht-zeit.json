@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Junge Genies und alte Meister: Vermehrt tauchen an Universitäten Rufe nach einer langsameren Wissenschaft auf....",
+  "summary": "Junge Genies und alte Meister: Vermehrt tauchen an Universitäten Rufe nach einer langsameren Wissenschaft auf. Vor einigen Jahren hat ein Slow Science Manifest zu einem Rascheln in der Wissenschaftspresse geführt [1]. Neuerdings vertritt die Science in Transition Bewegung in Holland ähnliche Anliegen [2]....",
+  "content_structure": {
+    "paragraph_count": 27,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1183,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,31 @@
       "Catering",
       "Sustainability",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.66,
+      "avg_word_length": 6.07,
+      "long_word_percentage": 37.28
+    },
+    "semantic_entities": {
+      "locations": [
+        "Slow Science Manifest",
+        "Bild",
+        "Google",
+        "Klammer",
+        "Tweet"
+      ],
+      "departments": [
+        "Artikel ihrer fachfremden Kolleginnen am",
+        "angepassten"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1988"
+        ]
+      }
+    }
   }
 }

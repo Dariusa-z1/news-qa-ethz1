@@ -6,11 +6,8 @@
   "main_content": "ETH Library will launch the Research Collection in the middle of June 2017, a new platform for academic publications and research data from ETH Zurich.\n\nThe two applications ETH E-Citations and ETH E-Collection will be merged into the new publication platform.\n\nTo ensure that the migration goes smoothly, it will not be possible to enter new publications in ETH E-Citations or publish via ETH E-Collection from 15 May to 12 June. Nonetheless, both platforms will remain fully functional for searches and access to documents already published.\n\nFurther information about the new Research Collection will be sent out by mid-June.",
   "named_entities": [
     "Research Collection",
-    "Library",
-    "June",
-    "Zurich",
-    "Citations",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -26,14 +23,24 @@
     "Platform",
     "Publications"
   ],
-  "summary": "ETH Library will launch the Research Collection in the middle of June 2017, a new platform for academic publications and research data from ETH Zurich....",
+  "summary": "ETH Library will launch the Research Collection in the middle of June 2017, a new platform for academic publications and research data from ETH Zurich. The two applications ETH E-Citations and ETH E-Collection will be merged into the new publication platform....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 104,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -43,6 +50,31 @@
       "Research",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.8,
+      "avg_word_length": 4.94,
+      "long_word_percentage": 28.85
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Library",
+        "Research Collection",
+        "Zurich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017"
+        ]
+      }
+    }
   }
 }

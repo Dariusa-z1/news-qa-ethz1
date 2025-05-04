@@ -9,12 +9,12 @@
     "Koala Bicycles",
     "Tim Taubner",
     "Philip Junker",
-    "In China",
     "Entrepreneur Club",
     "Zurich-Oerlikon",
     "Future Cities Laboratory",
     "Dirk Hebel",
-    "First"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "Bamboo",
-    "That",
     "Bikes",
     "Their",
-    "With",
-    "Bike"
+    "Bike",
+    "Klein",
+    "Bicycles"
   ],
-  "summary": "",
+  "summary": "First prize for the prototype: Ask Kevin Klein, a computer science student at ETH Zurich, what he thinks of bicycles with a bamboo frame, and he’ll tell you they’re more stable, more lightweight, more sustainable – and more beautiful. Standard bikes for everyday use are made of steel or aluminium, but Klein knows these carry a heavy burden of embodied energy....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 935,
     "readability_score": "moderately complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +62,35 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.25,
+      "avg_word_length": 4.59,
+      "long_word_percentage": 20.43
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Ask Kevin Klein",
+        "Zurich",
+        "Standard"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zurich-Oerlikon",
+        "Singapore",
+        "Switzerland",
+        "China",
+        "Europe"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

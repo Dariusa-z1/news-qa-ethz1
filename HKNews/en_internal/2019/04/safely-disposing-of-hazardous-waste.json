@@ -5,9 +5,8 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "ETH Zurich is growing. The number of students and staff increased by more than 3,000 people in total between 2015 and 2018. This also means that more chemicals and research materials are being used in the laboratories – and so more waste is being produced. Compared to 2015, around 30 percent more solvents, acids, alkalis and batteries were disposed of in 2018.\n\nIn addition to the growth of the university, various developments are also contributing to the increase in waste, such as stricter legal requirements. Heat-resistant antibiotics must now also be disposed of as hazardous waste, even in tiny quantities. An additional factor is that the number of materials and technologies that must be specially disposed of is increasing in research. For example, the number of lithium ion accumulators has grown in recent years. Finally, the annual results show that in 2018, there was a focus on the disposal of older chemicals.\n\nThis is the background against which the SSHE’s adjustment of the university’s disposal process should be seen. In future, hazardous waste will be recorded electronically at ETH. The goal is to make things easier for both researchers and the responsible employees in the disposal facilities, and to make disposal safer overall. Electronic recording of hazardous waste enables traceability for chemicals and more accurate data collection, as well as providing information about the flow of materials.\n\nThis procedure is already in place at the hazardous waste disposal facilities on the central campus (CNB building); implementation is ongoing at HCI. More information is available on the SSHE website where you will also find a new explanatory film and the current annual report (PDF, 655 KB) .",
   "named_entities": [
-    "Zurich",
-    "SSHE",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -22,18 +21,28 @@
     "More",
     "Waste",
     "Disposal",
-    "Also",
-    "That",
-    "Hazardous"
+    "Hazardous",
+    "Number",
+    "Chemicals"
   ],
-  "summary": "ETH Zurich is growing. The number of students and staff increased by more than 3,000 people in total between 2015 and 2018....",
+  "summary": "ETH Zurich is growing. The number of students and staff increased by more than 3,000 people in total between 2015 and 2018. This also means that more chemicals and research materials are being used in the laboratories – and so more waste is being produced....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 278,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -44,6 +53,31 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.53,
+      "avg_word_length": 5.06,
+      "long_word_percentage": 29.86
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zurich",
+        "Compared"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "2018"
+        ]
+      }
+    }
   }
 }

@@ -14,7 +14,7 @@
     "Professor Giardini",
     "Cerberus Fossae",
     "Elysium Mons",
-    "Interpreting"
+    "ETH Zurich"
   ],
   "topics": [
     "Campus Life",
@@ -33,14 +33,24 @@
     "Seis",
     "Data"
   ],
-  "summary": "Interpreting marsquake data is challenging: On 26 November 2018, the NASA InSight lander successfully set down on Mars in the Elysium Planitia region....",
+  "summary": "Interpreting marsquake data is challenging: On 26 November 2018, the NASA InSight lander successfully set down on Mars in the Elysium Planitia region. Seventy Martian days later, the mission’s seismometer SEIS began recording the planet’s vibrations. A team of researchers and engineers at ETH Zurich, led by ETH Professor Domenico Giardini, had delivered the SEIS control electronics and is responsible for the Marsquake Service....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 769,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -51,6 +61,42 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.62,
+      "avg_word_length": 5.2,
+      "long_word_percentage": 31.73
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Interpreting",
+        "November"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "10 to 20",
+        "80 to 0"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Earth",
+        "Mars"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2018",
+          "2019"
+        ]
+      }
+    }
   }
 }

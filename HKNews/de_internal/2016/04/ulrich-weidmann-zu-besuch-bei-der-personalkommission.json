@@ -7,14 +7,9 @@
   "named_entities": [
     "Als Vizepräsident",
     "Ulrich Weidmann",
-    "Die Mitarbeitenden",
-    "In Veränderungsprozessen",
     "Zum Thema Führung",
-    "Personal",
-    "Ressourcen",
-    "Personalpolitik",
-    "Personalentwicklung",
-    "Personalmanagement"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -33,20 +28,44 @@
     "Campus",
     "Education"
   ],
-  "summary": "Als Vizepräsident für Personal und Ressourcen ist Ulrich Weidmann zuständig für die Personalpolitik, die Personalentwicklung und das Personalmanagement der ETH Zürich....",
+  "summary": "Als Vizepräsident für Personal und Ressourcen ist Ulrich Weidmann zuständig für die Personalpolitik, die Personalentwicklung und das Personalmanagement der ETH Zürich. Unlängst hat er die Personalkommission (PeKo) besucht, die die Interessen des administrativen und technischen Personals vor der Schulleitung vertritt....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 209,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff"
     ],
     "context_tags": [
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.0,
+      "avg_word_length": 6.53,
+      "long_word_percentage": 37.8
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

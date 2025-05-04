@@ -7,13 +7,8 @@
   "named_entities": [
     "World Wide Web",
     "Research Collection",
-    "Explora",
-    "Library",
-    "Zurich",
-    "APCs",
-    "Open",
-    "Academic",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -29,14 +24,24 @@
     "Explora",
     "Open"
   ],
-  "summary": "A pipe dream or is free access to academic literature not long overdue?...",
+  "summary": "A pipe dream or is free access to academic literature not long overdue? The latest story on Explora recounts the early days of academic journals, the monopolisation of the market and the birth of the open access movement – set in motion by the World Wide Web....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 104,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -44,6 +49,30 @@
       "Financial",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 26.0,
+      "avg_word_length": 4.9,
+      "long_word_percentage": 27.88
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Explora",
+        "World Wide Web",
+        "Library",
+        "Zurich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -7,14 +7,11 @@
   "named_entities": [
     "Social-Media-Kanälen",
     "Rubriken Digitalisierung",
-    "Der Themenschwerpunkt Nachhaltigkeit",
     "Den Anfang",
     "Reto Knutti",
     "Roland Siegwart",
     "Und Martin Fussenegger",
-    "Angehörige",
-    "Zukunftsblog",
-    "Redaktionsteam"
+    "ETH"
   ],
   "topics": [
     "Sustainability",
@@ -31,14 +28,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "ETH-Angehörige können den Zukunftsblog unterstützen und sich aktiv einbringen, indem sie:\n\n• sich beim Redaktionsteam mit Ideen für interessante Blogbeiträge melden:\n• die Beiträge der Kolleginnen und Kollegen kommentieren und so einen lebendigen ETH-Dialog fördern....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 4,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 162,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -48,6 +55,23 @@
       "Technology",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.73,
+      "avg_word_length": 6.22,
+      "long_word_percentage": 37.04
+    },
+    "semantic_entities": {
+      "locations": [
+        "Knutti",
+        "Fussenegger"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

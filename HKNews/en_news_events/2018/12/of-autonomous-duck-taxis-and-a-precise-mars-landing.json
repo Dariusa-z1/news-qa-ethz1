@@ -7,14 +7,14 @@
   "named_entities": [
     "Oded Zilberberg",
     "Professor Martin Fussenegger",
-    "On Saturday",
     "Professor Andreas Wallraff",
     "Alessio Figalli",
     "Fields Medal",
-    "The Fields Medal",
     "Nobel Prize",
     "Mexico City",
-    "Piz Daint"
+    "Piz Daint",
+    "Professor Emilio Frazzoli",
+    "Artificial Intelligence Driving Olympics"
   ],
   "topics": [
     "Research",
@@ -26,21 +26,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
     "Have",
-    "This",
     "Team",
     "Researchers",
-    "Professor"
+    "Professor",
+    "Time",
+    "Developed"
   ],
-  "summary": "January: We learn as children that space has three dimensions. However, for a long time researchers have spoken of a theoretical fourth dimension....",
+  "summary": "January: We learn as children that space has three dimensions. However, for a long time researchers have spoken of a theoretical fourth dimension. Now for the first time, experiments have given us a glimpse into this fourth dimension – and the theoretical basis for them was provided by ETH physics professor Oded Zilberberg....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 814,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +60,34 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.85,
+      "avg_word_length": 5.02,
+      "long_word_percentage": 28.01
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "January",
+        "However",
+        "Oded Zilberberg"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Fussenegger",
+        "Duckietown",
+        "Singapore",
+        "Mexico City"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

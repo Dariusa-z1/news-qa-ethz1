@@ -11,10 +11,7 @@
     "North America",
     "South America",
     "East Africa",
-    "World",
-    "Water",
-    "Europe",
-    "Professor"
+    "ETH"
   ],
   "topics": [
     "Sustainability",
@@ -28,19 +25,29 @@
     "Water",
     "Climate",
     "Change",
-    "That",
-    "This",
     "Global",
-    "With"
+    "Over",
+    "Available",
+    "Availability"
   ],
-  "summary": "World water dynamics over 112 years: Water is the lifeblood of ecosystems and one of the most important natural resources for human beings....",
+  "summary": "World water dynamics over 112 years: Water is the lifeblood of ecosystems and one of the most important natural resources for human beings. But available terrestrial water – that is, the amount of water left from precipitation after evaporation – is not just distributed unevenly across the planet, it is also changing over time....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 609,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -51,6 +58,32 @@
       "Research",
       "Weather",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.56,
+      "avg_word_length": 5.22,
+      "long_word_percentage": 30.21
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the current edition of Nature Geoscience",
+      "authors": [
+        "Observations"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Seneviratne"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1902",
+          "2014"
+        ]
+      }
+    }
   }
 }

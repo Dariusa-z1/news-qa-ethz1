@@ -7,14 +7,8 @@
   "named_entities": [
     "Chiara Daraio",
     "Nature Communications",
-    "Resonance",
-    "Reverberated",
-    "Zurich",
-    "Professor",
-    "Mechanics",
-    "Materials",
-    "Photo",
-    "Miguel"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -30,17 +24,27 @@
     "Waves",
     "Method",
     "Sound",
-    "With",
-    "Molerón"
+    "Molerón",
+    "Acoustic"
   ],
-  "summary": "Resonance structure from a 3D printer: Reverberated sound can make objects visible....",
+  "summary": "Resonance structure from a 3D printer: Reverberated sound can make objects visible. The sonar is used in the shipping industry to acquire information about the seabed or shoals of fish, while gynaecologists use ultrasound images to study foetuses in the womb....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 689,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +54,35 @@
       "Research",
       "Communications",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.14,
+      "avg_word_length": 5.14,
+      "long_word_percentage": 31.79
+    },
+    "citation_info": {
+      "doi": "10.1038/ncomms9037",
+      "journal": "",
+      "authors": [
+        "Resonance",
+        "Reverberated",
+        "Material",
+        "Researchers"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Daraio"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "2015"
+        ]
+      }
+    }
   }
 }

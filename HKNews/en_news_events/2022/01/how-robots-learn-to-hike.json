@@ -12,9 +12,9 @@
     "Science Robotics",
     "Takahiro Miki",
     "Zurich Professor Hutter",
-    "In September",
     "Subterranean Challenge",
-    "Main"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Weather & Environment",
@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "Robot",
-    "This",
-    "With",
     "Zurich",
     "Anymal",
-    "Environment"
+    "Environment",
+    "Obstacles",
+    "Terrain"
   ],
-  "summary": "",
+  "summary": "Main article: Steep sections on slippery ground, high steps, scree and forest trails full of roots: the path up the 1,098-metre-high Mount Etzel at the southern end of Lake Zurich is peppered with numerous obstacles. But ANYmal, the quadrupedal robot from the Robotic Systems Lab at ETH Zurich, overcomes the 120 vertical metres effortlessly in a 31-minute hike....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 659,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,30 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 25.35,
+      "avg_word_length": 4.95,
+      "long_word_percentage": 24.58
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the journal Science Robotics",
+      "authors": [
+        "Mount Etzel",
+        "Lake Zurich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Hutter"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

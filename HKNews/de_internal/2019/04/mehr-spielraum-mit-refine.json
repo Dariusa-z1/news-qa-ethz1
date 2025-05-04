@@ -7,14 +7,13 @@
   "named_entities": [
     "Integrale Sicht",
     "Support-Portal",
-    "Der Start",
-    "Die Benutzeroberfläche",
     "Diese Komplexität",
     "Robert Perich",
     "Einfache Information",
-    "Eine Professur",
-    "Die Liberalisierung",
-    "Gesamtprojektleiter Markus Knaus"
+    "Gesamtprojektleiter Markus Knaus",
+    "Dieser Artikel",
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Finance",
@@ -33,13 +32,23 @@
     "Education"
   ],
   "summary": "Integrale Sicht auf Budgets: Niemand an der ETH Zürich hat den Lohn im Januar doppelt oder gar nicht erhalten. Das hätte auch anders laufen können. Am 9....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 526,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff",
       "Researchers",
@@ -51,6 +60,36 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.53,
+      "avg_word_length": 6.19,
+      "long_word_percentage": 34.03
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Integrale Sicht",
+        "Budgets",
+        "Niemand",
+        "Zürich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Wissenschaft",
+        "Projekt"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2019",
+          "2000"
+        ]
+      }
+    }
   }
 }

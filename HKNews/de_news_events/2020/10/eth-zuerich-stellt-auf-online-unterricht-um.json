@@ -5,16 +5,15 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Die Schulleitung der ETH Zürich hat beschlossen, den Präsenzunterricht per 2. November massiv einzuschränken. Sämtliche Vorlesungen und praktisch alle Übungsgruppen werden online abgehalten. «Obwohl sich das Konzept für das Herbstsemester bisher bestens bewährt hat, sehen wir uns angesichts der rasant steigenden Infektionszahlen in der Schweiz gezwungen, diesen Schritt zu unternehmen», erläutert ETH-Rektorin Sarah Springman den Entscheid. Die ETH Zürich müsse ihren Beitrag leisten, die Dynamik der zweiten Coronawelle zu brechen. Indem sie die meisten Veranstaltungen digital durchführt, wird sich die Anzahl Studierenden auf dem Campus um 90% reduzieren. Zentral ist, dass alle ETH-Angehörigen Eigenverantwortung übernehmen und sich an die geltenden Regeln halten.\n\nEine komplette Umstellung auf Online-Unterricht ist für die ETH aber nicht denkbar. «Um sicherzustellen, dass alle Studierenden die Möglichkeit erhalten, ihr Semester erfolgreich abzuschliessen, müssen bestimmte Lehrveranstaltungen in Präsenz angeboten werden», betont Springman. Die Lehre an der ETH zeichne sich durch ihre Forschungsnähe aus. So seien die Studierenden für Laborpraktika, gewisse Übungen, aber auch für Bachelor-, Master- und Semesterarbeiten oder Arbeiten im Entwurfstudio auf die Infrastruktur vor Ort angewiesen. Schliesslich müssen die Studierenden auch für Prüfungen an die ETH kommen können.\n\nDie Studierendenarbeitsplätze stehen weiterhin zur Verfügung. Hier sind - wie überall auf dem Campus - die geltenden Distanz-, Hygiene- und Maskentrage-Regeln strikte einzuhalten.\n\nDie Umsetzungsbestimmungen werden zurzeit erarbeitet. «Darüber werden wir alle Betroffenen kommende Woche informieren, sobald auch die Entscheidungen des Bundesrates vorliegen», sagt Springman. Vor Inkraftsetzung gelte es abzuwarten, ob der Bundesrat am Mittwoch weitergehende Massnahmen anordnet.\n\nDie experimentelle Forschung läuft uneingeschränkt weiter, einschliesslich der Technologieplattformen und Werkstätten. Auch die Spin-off-Tätigkeiten auf dem Campus werden weitergeführt. «Es ist zentral, dass die ETH trotz Corona alle Kernaufgaben erfolgreich wahrnehmen kann», betont Vizepräsident Ueli Weidmann, Leiter der ETH-Covid-19-Taskforce. «Die überzeugenden und konsequent umgesetzten Schutzkonzepte in den Forschungsgruppen haben gezeigt, dass dies möglich ist». So ist im Unterschied zum letzten Frühjahr weder für die Laborforschung noch für die Spin-offs auf dem Campus eine Bewilligungspflicht vorgesehen.",
   "named_entities": [
-    "Die Schulleitung",
     "Sämtliche Vorlesungen",
     "Rektorin Sarah Springman",
     "Anzahl Studierenden",
     "Angehörigen Eigenverantwortung",
     "Online-Unterricht",
-    "Die Lehre",
-    "Die Studierendenarbeitsplätze",
     "Maskentrage-Regeln",
-    "Die Umsetzungsbestimmungen"
+    "Vizepräsident Ueli Weidmann",
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -33,13 +32,23 @@
     "Education"
   ],
   "summary": "Die Schulleitung der ETH Zürich hat beschlossen, den Präsenzunterricht per 2. November massiv einzuschränken. Sämtliche Vorlesungen und praktisch alle Übungsgruppen werden online abgehalten....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 324,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -49,6 +58,34 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.73,
+      "avg_word_length": 6.47,
+      "long_word_percentage": 39.81
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Die Schulleitung",
+        "Zürich",
+        "Präsenzunterricht",
+        "November",
+        "Sämtliche Vorlesungen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Präsenz",
+        "Sarah Springman"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

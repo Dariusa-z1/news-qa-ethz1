@@ -7,14 +7,8 @@
   "named_entities": [
     "Mr Vonesch",
     "Personnel Ordinance",
-    "Main",
-    "Copyright",
-    "CASTELBERG",
-    "Guidelines",
-    "Zurich",
-    "Domain",
-    "ETHIS",
-    "Outside"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -28,17 +22,27 @@
     "Activities",
     "Conflicts",
     "Employees",
-    "That",
-    "Their"
+    "Their",
+    "Have"
   ],
-  "summary": "",
+  "summary": "Main article: Copyright: GM CASTELBERG\n\nMr Vonesch, at the beginning of the year a new set of guidelines was introduced, specifically the ‘Guidelines concerning conflicts of interest and conflicts of commitment in connection with the outside activities of professors and other employees of ETH Zurich’....",
+  "content_structure": {
+    "paragraph_count": 19,
+    "bullet_points": 5,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1071,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Students",
       "Staff",
@@ -49,6 +53,20 @@
       "Technology",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.12,
+      "avg_word_length": 5.21,
+      "long_word_percentage": 36.32
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

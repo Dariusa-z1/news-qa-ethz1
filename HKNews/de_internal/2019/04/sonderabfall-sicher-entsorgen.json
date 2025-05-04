@@ -5,16 +5,10 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Die ETH Zürich wächst. Bezogen auf Studierende und Mitarbeitende betrug das Wachstum zwischen 2015 und 2018 insgesamt über 3'000 Personen. Entsprechend kommt es in den Laboren auch zur Verwendung von mehr Chemikalien, Forschungsmaterialien – und zu mehr Abfallprodukten, die daraus entstehen. Das Plus von entsorgten Lösemitteln, Säuren, Laugen oder Akkus beträgt 2018 gegenüber 2015 rund 30 Prozent.\n\nNeben dem Wachstum der Hochschule tragen auch aktuelle Entwicklungen dazu bei, zum Beispiel strengere gesetzliche Anforderungen. Hitzebeständige Antibiotika etwa müssen neu auch in Kleinstmengen als Sonderabfall entsorgt werden. Ein weiterer Faktor ist, dass in der Forschung die Menge von Materialien und Technologien zunimmt, die gesondert entsorgt werden müssen. So ist die Zahl zu entsorgender Lithiumionen-Akkumulatoren in den letzten Jahren gewachsen. Schliesslich ist in der Jahresbilanz spürbar, dass 2018 ein Fokus auf die Entsorgung von Chemikalien älteren Datums gelegt wurde.\n\nVor diesem Hintergrund ist auch die von der SGU realisierte Umstellung des Entsorgungsprozesses der ETH zu sehen. Sonderabfälle werden an der ETH künftig elektronisch erfasst. Das Ziel ist, sowohl den Forschenden als auch den zuständigen Mitarbeitenden in den Entsorgungsstellen die Arbeit zu erleichtern und die Entsorgung insgesamt sicherer zu machen. Die elektronische Erfassung der Sonderabfälle erlaubt die Rückverfolgbarkeit von Chemikalien, lässt eine genauere Erhebung zu und gibt Aufschlüsse über den Stofffluss.\n\nIn den Entsorgungsstellen für Sonderabfall im Zentrum (Gebäude CNB) ist die Umstellung bereits abgeschlossen, im HCI noch in Umsetzung. Informationen dazu sind auf der SGU-Webseite zu finden, wo auch ein neuer Erklärfilm aufgeschaltet ist sowie der aktuelle Jahresbericht (PDF, 650 KB) .",
   "named_entities": [
-    "Das Plus",
     "Hitzebeständige Antibiotika",
     "Lithiumionen-Akkumulatoren",
-    "Das Ziel",
-    "Zürich",
-    "Studierende",
-    "Mitarbeitende",
-    "Wachstum",
-    "Personen",
-    "Laboren"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -26,20 +20,31 @@
   ],
   "keywords": [
     "ETH Zurich",
+    "Students",
+    "Staff",
     "University",
     "Research",
     "Science",
-    "Campus",
-    "Education"
+    "Campus"
   ],
-  "summary": "Die ETH Zürich wächst. Bezogen auf Studierende und Mitarbeitende betrug das Wachstum zwischen 2015 und 2018 insgesamt über 3'000 Personen....",
+  "summary": "Die ETH Zürich wächst. Bezogen auf Studierende und Mitarbeitende betrug das Wachstum zwischen 2015 und 2018 insgesamt über 3'000 Personen. Entsprechend kommt es in den Laboren auch zur Verwendung von mehr Chemikalien, Forschungsmaterialien – und zu mehr Abfallprodukten, die daraus entstehen....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 250,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -50,6 +55,37 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.67,
+      "avg_word_length": 6.06,
+      "long_word_percentage": 36.0
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zürich",
+        "Bezogen",
+        "Studierende",
+        "Mitarbeitende"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Umsetzung",
+        "Kleinstmengen",
+        "Fokus"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "2018"
+        ]
+      }
+    }
   }
 }

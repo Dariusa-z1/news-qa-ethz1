@@ -7,14 +7,14 @@
   "named_entities": [
     "Herr Buhmann",
     "Joachim Buhmann",
-    "Die Medizin",
     "Können Sie",
-    "Der Zugriff",
     "Swiss Personalized Health Network",
     "Erlauben Sie",
-    "Ein Arzt",
-    "Ein Computer",
-    "Aber Informationssysteme"
+    "Aber Informationssysteme",
+    "Jene Fähigkeiten",
+    "Neben Ihrer Tätigkeit",
+    "Medizin-Bachelorstudiengang",
+    "Fach Medizininformatik"
   ],
   "topics": [
     "Staff",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: ETH-News: Herr Buhmann, mit der Digitalisierung steht unsere Gesellschaft mitten in einem fundamentalen Transformationsprozess. Inwiefern verändert dieser auch die Medizin?...",
+  "summary": "Main article: ETH-News: Herr Buhmann, mit der Digitalisierung steht unsere Gesellschaft mitten in einem fundamentalen Transformationsprozess. Inwiefern verändert dieser auch die Medizin? Joachim Buhmann: Die Medizin wird sehr viel stärker als heute von Vorhersagemodellen bestimmt sein....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1008,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +62,38 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.76,
+      "avg_word_length": 6.12,
+      "long_word_percentage": 35.42
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Herr Buhmann",
+        "Digitalisierung",
+        "Gesellschaft"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Kompromiss",
+        "Computer",
+        "Beispiel",
+        "Arzt",
+        "Therapievorschlag"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017",
+          "2017"
+        ]
+      }
+    }
   }
 }

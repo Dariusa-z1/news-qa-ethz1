@@ -13,8 +13,8 @@
     "Anita Zingg",
     "Per Magnus Kristiansen",
     "Jerome Werder",
-    "Zurich",
-    "FHNW"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -29,18 +29,28 @@
     "Chocolate",
     "Scientists",
     "They",
-    "With",
     "Colours",
-    "Researchers"
+    "Researchers",
+    "Surface"
   ],
-  "summary": "The chocolate shimmers in dynamically changing rainbow colours. It seems to glow in the light....",
+  "summary": "The chocolate shimmers in dynamically changing rainbow colours. It seems to glow in the light. A group of scientists from ETH Zurich and FHNW University of Applied Sciences and Arts Northwestern Switzerland have recently filed a patent for this process....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 519,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -50,6 +60,29 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.3,
+      "avg_word_length": 5.17,
+      "long_word_percentage": 33.72
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "surface coatings at the FHNW University of Applied Sciences and Arts Northwestern Switzerland",
+      "authors": [
+        "Zurich",
+        "University",
+        "Applied Sciences"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

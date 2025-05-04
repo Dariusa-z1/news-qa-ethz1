@@ -5,16 +5,9 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Der Leitfaden \" Best Practices Digitalisierung \" des DigiCenters der ETH-Bibliothek gibt hierfür praxisnahe Tipps und fundierte Empfehlungen. Er umfasst den ganzen Prozess von der Planung und Durchführung eines Digitalisierungsprojekts, über Aspekte der Speicherung bis hin zum Umgang mit Metadaten.\n\nDas DigiCenter verfügt über langjähriges Knowhow und eine professionelle technische Infrastruktur. Es hat in den vergangenen Jahren komplexe Projekte abgewickelt, unterschiedliche Dokumenttypen digitalisiert und mehrere Millionen Scans erstellt.",
   "named_entities": [
-    "Der Leitfaden",
     "Best Practices Digitalisierung",
     "Millionen Scans",
-    "DigiCenters",
-    "Bibliothek",
-    "Tipps",
-    "Empfehlungen",
-    "Prozess",
-    "Planung",
-    "Durchführung"
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -29,14 +22,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Der Leitfaden \" Best Practices Digitalisierung \" des DigiCenters der ETH-Bibliothek gibt hierfür praxisnahe Tipps und fundierte Empfehlungen....",
+  "summary": "Der Leitfaden \" Best Practices Digitalisierung \" des DigiCenters der ETH-Bibliothek gibt hierfür praxisnahe Tipps und fundierte Empfehlungen. Er umfasst den ganzen Prozess von der Planung und Durchführung eines Digitalisierungsprojekts, über Aspekte der Speicherung bis hin zum Umgang mit Metadaten....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 67,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Students",
       "Staff"
@@ -45,6 +48,20 @@
       "Infrastructure",
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.75,
+      "avg_word_length": 7.0,
+      "long_word_percentage": 50.75
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -8,13 +8,7 @@
     "Atlas Novus Coelestis",
     "Johann Gabriel Doppelmayr",
     "Peter Apian",
-    "From August",
-    "AstroRara",
-    "Eclipses",
-    "Theoricae",
-    "Georg",
-    "Peuerbach",
-    "Earth"
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -25,19 +19,29 @@
     "Astrorara",
     "More",
     "Motion",
-    "With",
-    "From",
     "Earth",
-    "Observed"
+    "Observed",
+    "Comet",
+    "Eclipses"
   ],
-  "summary": "Use AstroRara to learn more about the following topics:\n\n• Eclipses : In his “Theoricae novae planetarum” (1472), Georg von Peuerbach (1423–1461) set down crucial insights into planetary motion....",
+  "summary": "Use AstroRara to learn more about the following topics:\n\n• Eclipses : In his “Theoricae novae planetarum” (1472), Georg von Peuerbach (1423–1461) set down crucial insights into planetary motion. You can set up interactive lunar and solar eclipses with the slider and compare the depicted positions of the Earth, Moon and Sun with the illustrations in the incunabulum....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 3,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 295,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -46,6 +50,23 @@
       "Technology",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.69,
+      "avg_word_length": 5.25,
+      "long_word_percentage": 27.8
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1472",
+          "1423"
+        ]
+      }
+    }
   }
 }

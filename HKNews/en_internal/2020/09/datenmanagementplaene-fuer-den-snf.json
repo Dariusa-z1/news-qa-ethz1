@@ -7,12 +7,8 @@
   "named_entities": [
     "Data Management Plan",
     "Research Data Management",
-    "SNSF",
-    "Library",
-    "Zurich",
-    "DMPs",
-    "KnowHow",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -29,14 +25,24 @@
     "Dmps",
     "Snsf"
   ],
-  "summary": "SNSF applications must include a Data Management Plan (DMP). The DMP is created online in mySNF and is considered as a draft at this stage....",
+  "summary": "SNSF applications must include a Data Management Plan (DMP). The DMP is created online in mySNF and is considered as a draft at this stage. It should be updated during the course of the project and must be available in its final form at the end of the project, at the latest....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 91,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "Administration"
@@ -46,6 +52,28 @@
       "Research",
       "Administrative",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.2,
+      "avg_word_length": 4.53,
+      "long_word_percentage": 21.98
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Data Management Plan",
+        "Library"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -28,19 +28,29 @@
     "ETH Zurich",
     "Prof",
     "Years",
-    "That",
     "Says",
     "Inst",
-    "Work"
+    "Work",
+    "Office"
   ],
-  "summary": "A doer: Claudia Sigel's place of work is anything but a boring office in the Department for Materials Science (D-MATL)....",
+  "summary": "A doer: Claudia Sigel's place of work is anything but a boring office in the Department for Materials Science (D-MATL). The wide windowsill is lined with plants large and small, an artificial skeleton wearing a woolly hat and T-shirt watches over proceedings from hollow eye sockets and a big, bright red sofa offers an inviting place to relax during coffee breaks....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 747,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Staff",
       "Faculty",
@@ -52,6 +62,37 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 10.99,
+      "avg_word_length": 4.82,
+      "long_word_percentage": 22.89
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the Department for Materials Science (D-MATL)",
+      "authors": [
+        "Claudia Sigel",
+        "Department",
+        "Materials Science"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Thomas",
+        "Walter Müller",
+        "Bürki"
+      ],
+      "departments": [
+        "Materials",
+        "the roof terrace on the",
+        "boring office in the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

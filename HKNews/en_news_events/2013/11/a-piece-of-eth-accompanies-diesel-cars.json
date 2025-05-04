@@ -7,14 +7,9 @@
   "named_entities": [
     "Thomas Lutz",
     "Wolfgang Schneider",
-    "The Aerothermochemistry",
     "Combustion Systems Laboratory",
-    "Diesel",
-    "November",
-    "Photo",
-    "Zurich",
-    "High",
-    "CDTI"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -33,14 +28,24 @@
     "Pressure",
     "Engine"
   ],
-  "summary": "",
+  "summary": "“Diesel cars have become acceptable”: A good piece of ETH research can be found in practically every diesel engine used in cars and trucks today, but also in generators or other modern ocean-going vessels. From the 1970s onwards, engineers in the university’s research laboratories were significantly involved in the development of a then revolutionary system to inject fuel into the engine: the common rail injection system....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 687,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -50,6 +55,39 @@
       "Research",
       "Events",
       "Weather"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.08,
+      "avg_word_length": 5.07,
+      "long_word_percentage": 27.22
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Diesel",
+        "Twenty",
+        "November"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "9 November 1993"
+      ],
+      "time_references": [],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1970",
+          "1993"
+        ]
+      }
+    }
   }
 }

@@ -7,14 +7,14 @@
   "named_entities": [
     "Millionen Franken",
     "Stefan Spiegel",
-    "Die Kürzungen",
     "Und Ende",
     "Anteil Forschung",
-    "Die Schweiz",
     "Diese Stellung",
     "Zum Beispiel",
-    "Der Zugang",
-    "Eine Erhöhung"
+    "Sie Chancen",
+    "Wissensnation Schweiz",
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Im heute publizierten Geschäftsbericht ist zu lesen, dass die ETH Zürich im letzten Jahr 50 Millionen Franken Überschuss gemacht hat. Hat es die ETH Zürich beim Sparen übertrieben?...",
+  "summary": "Im heute publizierten Geschäftsbericht ist zu lesen, dass die ETH Zürich im letzten Jahr 50 Millionen Franken Überschuss gemacht hat. Hat es die ETH Zürich beim Sparen übertrieben? Stefan Spiegel: Nach einem Verlust von rund 70 Millionen Franken 2022 bin ich froh, dass wir kein weiteres Defizit ausweisen müssen....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1047,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -50,6 +60,38 @@
       "Infrastructure",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.34,
+      "avg_word_length": 5.83,
+      "long_word_percentage": 30.95
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Geschäftsbericht",
+        "Zürich",
+        "Millionen Franken"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Bereichen",
+        "Lehre",
+        "Aussicht",
+        "Tabubruch",
+        "Stellenabbau"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2022",
+          "2020"
+        ]
+      }
+    }
   }
 }

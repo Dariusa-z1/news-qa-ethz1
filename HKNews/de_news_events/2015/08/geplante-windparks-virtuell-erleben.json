@@ -7,14 +7,14 @@
   "named_entities": [
     "Lehrstuhl Planung",
     "Urbanen Systemen",
-    "Das Ziel",
     "Madeleine Manyoky",
     "Programm Crytek",
     "Frau Manyokys Ansatz",
-    "Die Landschaftsmodelle",
     "Berechnete Geräusche",
     "Reto Pieren",
-    "Kurt Heutschi"
+    "Kurt Heutschi",
+    "Mont Crosin",
+    "Parameter Windgeschwindigkeit"
   ],
   "topics": [
     "Weather & Environment",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Windparks sicht- und hörbar machen: In der Schweiz stossen geplante Windenergieanlagen (WEA) häufig auf Widerstand....",
+  "summary": "Windparks sicht- und hörbar machen: In der Schweiz stossen geplante Windenergieanlagen (WEA) häufig auf Widerstand. Denn die lokale Bevölkerung steht solchen Vorhaben meist sehr kritisch gegenüber: Wie verändert ein Windpark das Landschaftsbild? Und wie laut rauschen die Rotorblätter?...",
+  "content_structure": {
+    "paragraph_count": 17,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 741,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Researchers"
     ],
@@ -48,6 +58,44 @@
       "Technology",
       "Research",
       "Communications"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.44,
+      "avg_word_length": 6.47,
+      "long_word_percentage": 41.84
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Windparks",
+        "Schweiz",
+        "Windenergieanlagen",
+        "Widerstand"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Tool",
+        "Pieren",
+        "Landschaftsbild",
+        "Windpark",
+        "Weinfelden"
+      ],
+      "departments": [
+        "Raum",
+        "Akustik und Lärmminderung an der"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "visasim.ethz.ch"
+        ],
+        "phones": [
+          "2015",
+          "2015"
+        ]
+      }
+    }
   }
 }

@@ -6,9 +6,8 @@
   "main_content": "ETH juniors (founded in 1997 at ETH Zurich) is a junior enterprise. Now a well-established organisation, its core business is the acquisition and execution of project orders from industry. It has created a dense network between ETH Zurich and the Swiss private sector and is the birthplace of the growing ETH Seniors Club that connects former juniors.\n\nDisproportionately many former ETH juniors have set up successful companies. To increase the opportunities open to these junior entrepreneurs, ETH juniors and the ETH Seniors Club have recently established the ‘ETH juniors jFund’ start-up fund.\n\nPart of the profits from ETH juniors’ operations are donated to the jFund. They are saving for fellow members who aspire to start a company themselves and will need seed money. The jFund is a hub for future innovative ventures. It serves ETH in fulfilling its public mandate to transfer knowledge and technology and makes an important contribution to the local and national economy.\n\nInterested future entrepreneurs are always welcome to come for a relaxed visit and find out more about us and our work.",
   "named_entities": [
     "Seniors Club",
-    "Zurich",
-    "Swiss",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Finance",
@@ -21,18 +20,28 @@
     "Juniors",
     "Zurich",
     "Junior",
-    "From",
     "Seniors",
-    "Club"
+    "Club",
+    "Former"
   ],
-  "summary": "ETH juniors (founded in 1997 at ETH Zurich) is a junior enterprise. Now a well-established organisation, its core business is the acquisition and execution of project orders from industry....",
+  "summary": "ETH juniors (founded in 1997 at ETH Zurich) is a junior enterprise. Now a well-established organisation, its core business is the acquisition and execution of project orders from industry. It has created a dense network between ETH Zurich and the Swiss private sector and is the birthplace of the growing ETH Seniors Club that connects former juniors....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 179,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "General Public"
     ],
@@ -40,6 +49,22 @@
       "Financial",
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.9,
+      "avg_word_length": 5.05,
+      "long_word_percentage": 29.61
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1997"
+        ]
+      }
+    }
   }
 }

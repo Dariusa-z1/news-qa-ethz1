@@ -10,11 +10,11 @@
     "Princeton University",
     "Combustion Research Laboratory",
     "Paul Scherrer Institute",
-    "The Greeks Aristotle",
-    "In Eastern",
     "Daniel Winkler",
     "Vice President",
-    "Professor Ulrich Suter"
+    "Professor Ulrich Suter",
+    "Energy Science Center",
+    "Energy Strategy"
   ],
   "topics": [
     "Research",
@@ -28,19 +28,29 @@
     "ETH Zurich",
     "Energy",
     "Boulouchos",
-    "That",
-    "This",
     "Research",
-    "Only"
+    "Only",
+    "Professor",
+    "Study"
   ],
-  "summary": "What influences thinking: Should he study history or physics? As a teenager in Athens in the 1970s, Konstantinos Boulouchos was interested in so many things....",
+  "summary": "What influences thinking: Should he study history or physics? As a teenager in Athens in the 1970s, Konstantinos Boulouchos was interested in so many things. But while the humanities seemed a bit of a dead end, he was told a physics degree was only good for becoming a teacher, an idea he didn’t quite like either....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1185,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,40 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.79,
+      "avg_word_length": 4.88,
+      "long_word_percentage": 26.58
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "2014 he was also appointed Head of the Swiss Competence Center for Energy Research – Efficient Technologies and Systems for Mobility (SCCER Mobility) and in 2018 president of the permanent Energy Commission of the Swiss Academies of Arts and Sciences",
+      "authors": [
+        "Should",
+        "Athens",
+        "Konstantinos Boulouchos"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "January",
+        "Princeton University",
+        "Fukushima",
+        "Switzerland",
+        "Boulouchos"
+      ],
+      "departments": [
+        "Laboratory at the Paul Scherrer"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1970",
+          "1955"
+        ]
+      }
+    }
   }
 }

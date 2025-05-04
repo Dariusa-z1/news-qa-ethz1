@@ -30,14 +30,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Bei der Art und Weise, wie E-Mails an der ETH Zürich archiviert werden, gibt es in diesem Jahr wichtige Änderungen: So werden z.B....",
+  "summary": "Main article: Bei der Art und Weise, wie E-Mails an der ETH Zürich archiviert werden, gibt es in diesem Jahr wichtige Änderungen: So werden z.B. neu E-​Mails, die sich seit über zehn Jahren im Mailarchiv ( https://mailarchive.ethz.ch ) befinden, automatisch gelöscht – es sei denn, man meldet sich von diesem Löschprozess ausdrücklich ab ( mehr dazu in diesem Artikel )....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 8,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 636,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Researchers",
@@ -48,6 +58,34 @@
       "Research",
       "Administrative",
       "Communications"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.25,
+      "avg_word_length": 5.77,
+      "long_word_percentage": 32.23
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Geschäft",
+        "Hinweis"
+      ],
+      "departments": [
+        "Zusammenarbeit innerhalb und zwischen den"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "mailarchive.ethz.ch"
+        ],
+        "phones": [
+          "2022"
+        ]
+      }
+    }
   }
 }

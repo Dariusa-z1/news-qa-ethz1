@@ -14,7 +14,7 @@
     "Zurich Tours App",
     "App Store",
     "Google Play",
-    "Women"
+    "ETH Zurich"
   ],
   "topics": [
     "Education",
@@ -28,19 +28,29 @@
     "ETH Zurich",
     "Women",
     "Zurich",
-    "That",
     "Tour",
     "First",
-    "Time"
+    "Time",
+    "Female"
   ],
-  "summary": "It was a long while before women could take up their rightful place at ETH Zurich. The first few appeared in the 19th century, and were “scientific refugees” from other countries....",
+  "summary": "It was a long while before women could take up their rightful place at ETH Zurich. The first few appeared in the 19th century, and were “scientific refugees” from other countries. Why did the women back then have such a hard time?...",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 373,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,32 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.63,
+      "avg_word_length": 4.46,
+      "long_word_percentage": 17.16
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zurich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Science"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1960",
+          "1871"
+        ]
+      }
+    }
   }
 }

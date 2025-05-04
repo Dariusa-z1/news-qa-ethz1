@@ -6,10 +6,7 @@
   "main_content": "The aim of this event in Bern is to give the research community a chance to raise their concerns regarding open data as well as data management. Representatives of the Swiss National Science Foundation (SNSF) and the European Commission present their view and inform about recent trends. For a detailed program and registration, please visit the SCNAT website .",
   "named_entities": [
     "Swiss National Science Foundation",
-    "European Commission",
-    "Bern",
-    "SNSF",
-    "SCNAT"
+    "European Commission"
   ],
   "topics": [
     "Research",
@@ -19,20 +16,30 @@
   "keywords": [
     "Their",
     "Data",
-    "This",
     "Event",
     "Bern",
     "Give",
-    "Research"
+    "Research",
+    "Community"
   ],
-  "summary": "The aim of this event in Bern is to give the research community a chance to raise their concerns regarding open data as well as data management....",
+  "summary": "The aim of this event in Bern is to give the research community a chance to raise their concerns regarding open data as well as data management. Representatives of the Swiss National Science Foundation (SNSF) and the European Commission present their view and inform about recent trends....",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 58,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Researchers",
       "Administration",
@@ -42,6 +49,31 @@
       "Research",
       "Administrative",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.33,
+      "avg_word_length": 5.12,
+      "long_word_percentage": 27.59
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Representatives",
+        "Swiss National Science Foundation",
+        "European Commission"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Bern"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

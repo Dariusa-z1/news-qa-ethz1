@@ -7,14 +7,14 @@
   "named_entities": [
     "Paul Tanner",
     "Chief Curator",
-    "For Tanner",
     "Linda Schädler",
     "Courtesy Linda Schädler",
     "Art History",
     "Kunstmuseum Basel",
     "Kunsthaus Zurich",
-    "Collection",
-    "Prints"
+    "ETH Zurich",
+    "ETH",
+    "University of Zurich"
   ],
   "topics": [
     "Staff",
@@ -31,14 +31,24 @@
     "Drawings",
     "Schädler"
   ],
-  "summary": "Paul Tanner has been Chief Curator of the Collection of Prints and Drawings at ETH Zurich for nearly a quarter of a century. Now the 65-year-old art historian has decided it’s time to retire....",
+  "summary": "Paul Tanner has been Chief Curator of the Collection of Prints and Drawings at ETH Zurich for nearly a quarter of a century. Now the 65-year-old art historian has decided it’s time to retire. “I have always been guided by the four pillars of art collection,” he says as he looks back over his career: “Collect, preserve, research and communicate.” It was important for him to focus on specific areas: “We don’t take one piece from here and another from there – we collect whole groups of works by particular artists.”\n\nToday, the Collection of Prints and Drawings comprises around 160,000 items, making it the largest collection of its kind in Switzerland....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 357,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -50,6 +60,37 @@
       "Education",
       "Administrative",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.83,
+      "avg_word_length": 4.66,
+      "long_word_percentage": 23.53
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Paul Tanner",
+        "Chief Curator",
+        "Collection",
+        "Prints",
+        "Drawings"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland"
+      ],
+      "departments": [
+        "research assistant at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016"
+        ]
+      }
+    }
   }
 }

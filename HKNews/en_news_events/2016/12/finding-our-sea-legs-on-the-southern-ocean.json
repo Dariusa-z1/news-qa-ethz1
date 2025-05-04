@@ -9,12 +9,12 @@
     "Atmospheric Dynamics",
     "Southern Ocean",
     "Cape Town",
-    "The Swiss",
     "Victorine Sentilhes",
     "North Sea",
     "South Africa",
     "Lake Zurich",
-    "Akademik Treshnikov"
+    "Akademik Treshnikov",
+    "Swiss Polar Institute"
   ],
   "topics": [
     "Weather & Environment",
@@ -25,22 +25,32 @@
     "Catering & Food"
   ],
   "keywords": [
-    "From",
     "Will",
     "Measuring",
     "Expedition",
     "Board",
     "Weather",
-    "Ship"
+    "Ship",
+    "High"
   ],
-  "summary": "A closer look at water cycles: After two field campaigns in Switzerland, I now have the chance to take part in a large-scale research expedition – a unique opportunity for a young weather scientist....",
+  "summary": "A closer look at water cycles: After two field campaigns in Switzerland, I now have the chance to take part in a large-scale research expedition – a unique opportunity for a young weather scientist. The expedition aims to circumnavigate Antarctica – an ambitious project (see box)....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 935,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -50,6 +60,37 @@
       "Infrastructure",
       "Research",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.33,
+      "avg_word_length": 4.77,
+      "long_word_percentage": 24.28
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Switzerland",
+        "Antarctica"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Bremerhaven",
+        "Switzerland",
+        "Cape Town",
+        "Europe",
+        "South Africa"
+      ],
+      "departments": [
+        "Swiss Polar",
+        "researchers of the Swiss Polar"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -13,8 +13,8 @@
     "Senior Research Scientist",
     "Amazon Web Services",
     "Quantum Center",
-    "Abstract",
-    "Communications"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -28,19 +28,29 @@
     "ETH Zurich",
     "Quantum",
     "Computers",
-    "That",
     "Algorithms",
     "Problems",
-    "Faster"
+    "Faster",
+    "Classical"
   ],
-  "summary": "",
+  "summary": "Abstract: • The great promise of quantum computers is that, based on quantum mechanical principles, they are capable of solving certain computational problems fundamentally faster than classical computers\n• However, for quantum computers to realise their principal speed advantages in practice, algorithmic improvements and new kinds of high-speed quantum algorithms are required to achieve practical quantum speedups for a range of applications\n• In general, quantum computers will be practical for “big compute” problems on small data....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 2,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1550,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -51,6 +61,31 @@
       "Sustainability",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.13,
+      "avg_word_length": 5.35,
+      "long_word_percentage": 36.58
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Abstract",
+        "However"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Microsoft",
+        "Amazon Web Services"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

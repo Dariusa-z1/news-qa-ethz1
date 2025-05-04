@@ -12,9 +12,9 @@
     "Seit Anfang Januar",
     "Eidgenössisches Polytechnikum",
     "Namen Eidgenössische Technische Hochschule",
-    "Ein Jahrgang",
     "Vom Know",
-    "Die Infrastruktur"
+    "Ihrem Ziel",
+    "ETH Zürich"
   ],
   "topics": [
     "University Administration",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Wie diskutierte der Schulrat den Antrag auf Anstellung der ersten Assistentin? Wann wurde im Hauptgebäude eine elektrische Beleuchtung eingerichtet?...",
+  "summary": "Wie diskutierte der Schulrat den Antrag auf Anstellung der ersten Assistentin? Wann wurde im Hauptgebäude eine elektrische Beleuchtung eingerichtet? Welche Argumente überzeugen den Schulrat von der Errichtung eines neuen Instituts?...",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 217,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -48,6 +58,38 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.7,
+      "avg_word_length": 6.39,
+      "long_word_percentage": 36.41
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Schulrat",
+        "Antrag",
+        "Anstellung",
+        "Assistentin"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Register",
+        "Jahrgang"
+      ],
+      "departments": [
+        "von der Errichtung eines neuen"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1854",
+          "1968"
+        ]
+      }
+    }
   }
 }

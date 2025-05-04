@@ -11,10 +11,7 @@
     "Office Programm",
     "Als Helfer",
     "Sein Verlust",
-    "Schock",
-    "Nachricht",
-    "Unfall",
-    "Leben"
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -31,20 +28,53 @@
     "Campus",
     "Education"
   ],
-  "summary": "Saša Milanović\n\nEs war ein grosser Schock, als uns am 9. August 2020 die Nachricht ereilte, dass Saša Milanović bei einem tödlichen Unfall aus dem Leben gerissen wurde....",
+  "summary": "Saša Milanović\n\nEs war ein grosser Schock, als uns am 9. August 2020 die Nachricht ereilte, dass Saša Milanović bei einem tödlichen Unfall aus dem Leben gerissen wurde. Von einem Tag auf den anderen war er nicht mehr da....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 510,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.62,
+      "avg_word_length": 5.14,
+      "long_word_percentage": 23.92
+    },
+    "semantic_entities": {
+      "locations": [
+        "Mensch",
+        "Jagodina",
+        "Team",
+        "Verlust",
+        "Svetozarevo"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020",
+          "1972"
+        ]
+      }
+    }
   }
 }

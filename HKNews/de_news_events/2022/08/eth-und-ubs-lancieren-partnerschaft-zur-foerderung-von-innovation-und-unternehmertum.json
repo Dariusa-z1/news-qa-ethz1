@@ -7,14 +7,14 @@
   "named_entities": [
     "Diese Initiativen",
     "Schweizer Institutionen",
-    "Die Zahl",
     "Wirtschafts-Know",
     "Wirtschaftsstandort Schweiz",
-    "Die Zusammenarbeit",
     "Sabine Keller-Busse",
-    "Das Augenmerk",
     "Campus Hönggerberg",
-    "Millionen Franken"
+    "Millionen Franken",
+    "Student Project House",
+    "Holzbau Veranstaltungs",
+    "ETH Zürich"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Innovation ist für den Wohlstand der Schweiz entscheidend. Dabei spielen Wissenschaftsbegeisterung und Unternehmertum eine zentrale Rolle....",
+  "summary": "Main article: Innovation ist für den Wohlstand der Schweiz entscheidend. Dabei spielen Wissenschaftsbegeisterung und Unternehmertum eine zentrale Rolle. Erst wenn Forschungsresultate oder gute Ideen in den Markt fliessen, entstehen neue Arbeitsplätze und Lösungsansätze für den gesellschaftlichen und technologischen Fortschritt....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 452,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -50,6 +60,35 @@
       "Sustainability",
       "Infrastructure",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.83,
+      "avg_word_length": 6.32,
+      "long_word_percentage": 37.83
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Innovation",
+        "Wohlstand",
+        "Schweiz"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Lehre"
+      ],
+      "departments": [
+        "Initiativen werden von zwei Schweizer"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1996"
+        ]
+      }
+    }
   }
 }

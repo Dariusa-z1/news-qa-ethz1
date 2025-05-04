@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Jury lud 60 Startups zum Wettbewerb ein: Als der W.A. de Vigier Preis vor 30 Jahren zum ersten Mal verliehen wurde, lernten viele der diesjährigen Preisträger gerade erst laufen....",
+  "summary": "Jury lud 60 Startups zum Wettbewerb ein: Als der W.A. de Vigier Preis vor 30 Jahren zum ersten Mal verliehen wurde, lernten viele der diesjährigen Preisträger gerade erst laufen. Niemand redete damals über die Startup-Förderung....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 621,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "General Public"
     ],
@@ -48,6 +58,27 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.44,
+      "avg_word_length": 6.25,
+      "long_word_percentage": 38.49
+    },
+    "semantic_entities": {
+      "locations": [
+        "Bild",
+        "Echtzeit",
+        "Graf",
+        "Parasit"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2019"
+        ]
+      }
+    }
   }
 }

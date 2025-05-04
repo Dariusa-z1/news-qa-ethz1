@@ -9,12 +9,8 @@
     "Service Desk",
     "Domenico Salvati",
     "Chief Information Security Officer",
-    "Hello",
-    "Employee",
-    "Okay",
-    "Good",
-    "Thanks",
-    "Check"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -33,14 +29,24 @@
     "Request",
     "Your"
   ],
-  "summary": "ETH employee X receives an email request, which seems to have been sent by the supervisor:\n\n• “Hello are you free at the moment? I need your assistance urgently.”\nEmployee X: “Yes, I’m free now....",
+  "summary": "ETH employee X receives an email request, which seems to have been sent by the supervisor:\n\n• “Hello are you free at the moment? I need your assistance urgently.”\nEmployee X: “Yes, I’m free now. What can I do to help you?...",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 13,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 596,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Researchers"
@@ -50,6 +56,27 @@
       "Technology",
       "Research",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.96,
+      "avg_word_length": 4.4,
+      "long_word_percentage": 22.48
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Employee"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -13,8 +13,8 @@
     "Adrian Ritter",
     "Marita Fuchs",
     "University Medicine Zurich",
-    "Surgical",
-    "Imaging"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "University of Zurich",
-    "With",
     "Will",
     "Project",
     "Zurich",
-    "Operation"
+    "Operation",
+    "Have"
   ],
-  "summary": "Surgical landscapes: Imaging tools have long been standard in surgical procedures. But the result is usually a picture on a screen which the doctors have to interpret and then transfer to the patient....",
+  "summary": "Surgical landscapes: Imaging tools have long been standard in surgical procedures. But the result is usually a picture on a screen which the doctors have to interpret and then transfer to the patient. New virtual processes in surgery, however, can convert data from imaging tools into three-dimensional representations which can help with diagnostics and with planning and carrying out operations....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 603,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,33 @@
       "Research",
       "Events",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.1,
+      "avg_word_length": 5.52,
+      "long_word_percentage": 37.48
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Surgical",
+        "Imaging"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Balgrist University Hospital",
+        "Zürich"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2018"
+        ]
+      }
+    }
   }
 }

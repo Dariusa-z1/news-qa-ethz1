@@ -9,12 +9,10 @@
     "Semestern Online-Unterricht",
     "Online-Lehrformen",
     "Dieser Anstieg",
-    "Die Rektorin",
     "Wissen Sie",
-    "Die Impfung",
-    "Die Maskentragpflicht",
     "Weitere Elemente",
-    "Bundesrat Belegungsbeschränkungen"
+    "Bundesrat Belegungsbeschränkungen",
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -32,14 +30,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Herr Lehner, die Rektorin hat die Studierenden angeschrieben und für das Herbstsemester einen Präsenzunterricht angekündigt. Da werden die Studierenden aufatmen....",
+  "summary": "Herr Lehner, die Rektorin hat die Studierenden angeschrieben und für das Herbstsemester einen Präsenzunterricht angekündigt. Da werden die Studierenden aufatmen. Allerdings ist von «neuer Präsenz» die Rede....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 403,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "General Public"
@@ -49,6 +57,36 @@
       "Infrastructure",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.43,
+      "avg_word_length": 6.3,
+      "long_word_percentage": 35.24
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Herr Lehner",
+        "Rektorin",
+        "Studierenden",
+        "Herbstsemester",
+        "Präsenzunterricht"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Präsenz",
+        "Aspekt",
+        "Belegungsbeschränkungen",
+        "Schutzkonzept"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

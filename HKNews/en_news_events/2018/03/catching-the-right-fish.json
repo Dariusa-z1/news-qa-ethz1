@@ -27,20 +27,30 @@
   "keywords": [
     "Researchers",
     "Chemical",
-    "That",
     "Protein",
-    "This",
     "Neri",
-    "Collection"
+    "Collection",
+    "Molecules",
+    "Scheuermann"
   ],
-  "summary": "",
+  "summary": "Stable basic structure, varied attachments: Searching for new drugs is like fishing in the dark: the prospect of catching something is very uncertain, and it requires patience, skill and – of course – money. ETH researchers led by Dario Neri have developed a new screening method that speeds up the search for drugs, making it cheaper and more efficient, as they reported in the journal Nature Chemistry ....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 804,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,37 @@
       "Technology",
       "Research",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.14,
+      "avg_word_length": 4.98,
+      "long_word_percentage": 29.85
+    },
+    "citation_info": {
+      "doi": "10.1038/s41557-018-0017-8",
+      "journal": "the journal Nature Chemistry",
+      "authors": [
+        "Stable",
+        "Searching",
+        "Dario Neri",
+        "Nature Chemistry"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Vivo Tumor Targeting",
+        "Dario Neri",
+        "Harvard University"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1990",
+          "2000"
+        ]
+      }
+    }
   }
 }

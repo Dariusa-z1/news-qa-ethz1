@@ -8,13 +8,8 @@
     "Schweizer Hochschul",
     "Welche Voraussetzungen",
     "Seite Schritt",
-    "Kunden",
-    "Services",
-    "Desk",
-    "Zürich",
-    "Registrierungsstelle",
-    "Forschungsbereich",
-    "Anleitung"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -29,20 +24,52 @@
     "Campus",
     "Education"
   ],
-  "summary": "Er betreut mittlerweile schweizweit 25 Kunden mit 35 Services. Der DOI-Desk der ETH Zürich ist die offizielle Registrierungsstelle für den Schweizer Hochschul- und Forschungsbereich....",
+  "summary": "Er betreut mittlerweile schweizweit 25 Kunden mit 35 Services. Der DOI-Desk der ETH Zürich ist die offizielle Registrierungsstelle für den Schweizer Hochschul- und Forschungsbereich. Welche Voraussetzungen erfüllt werden müssen, zeigt die Anleitung externe Seite Schritt für Schritt zur DOI-Registrierung ....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 41,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.67,
+      "avg_word_length": 6.34,
+      "long_word_percentage": 39.02
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Kunden",
+        "Services"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

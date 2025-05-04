@@ -7,14 +7,9 @@
   "named_entities": [
     "Lino Guzzella",
     "Katherine Timmel",
-    "June",
-    "Zurich",
-    "Hönggerberg",
-    "Zentrum",
-    "Safety",
-    "Security",
-    "Health",
-    "Environment"
+    "ETH Zurich",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Sustainability",
@@ -27,20 +22,30 @@
   "keywords": [
     "ETH Zurich",
     "Life",
-    "From",
     "Zurich",
     "Environment",
     "Heart",
-    "Junes"
+    "Junes",
+    "Issue"
   ],
-  "summary": "",
+  "summary": "At the heart of June's issue of life , the ETH community magazine, is an exploration of the ways in which ETH Zurich's scientists take experiences from everyday life at the university and apply it to their research. Both the Hönggerberg and Zentrum campuses are providing intriguing testing grounds for matters of sustainability – like the sustainable gardening projects taking place across the university's numerous green spaces....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 149,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -53,6 +58,28 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 29.8,
+      "avg_word_length": 4.98,
+      "long_word_percentage": 26.17
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zurich",
+        "Hönggerberg"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -9,12 +9,12 @@
     "Laborgeräten Teile",
     "Rahel Schmidt",
     "Bachelorstudentin Medizin",
-    "Die Situation",
     "Als Medizinstudentin",
     "Kantonsspital Baden",
     "Norbert Staub",
     "Corona-Krisenstab",
-    "Thema Corona"
+    "Thema Corona",
+    "Andreas Wallraff"
   ],
   "topics": [
     "Education",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Marcel Schuck, Forscher am D-ITET: «Da ich zurzeit nicht an den Laborgeräten Teile für meine Roboterforschung entwickeln kann, muss ich nun nach Alternativen suchen....",
+  "summary": "Marcel Schuck, Forscher am D-ITET: «Da ich zurzeit nicht an den Laborgeräten Teile für meine Roboterforschung entwickeln kann, muss ich nun nach Alternativen suchen. Glücklicherweise ist es mit Methoden wie dem 3D-Druck einfacher geworden, Prototypen herzustellen....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 430,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +62,33 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.54,
+      "avg_word_length": 5.65,
+      "long_word_percentage": 30.47
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Marcel Schuck",
+        "Forscher",
+        "Laborgeräten Teile",
+        "Roboterforschung"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Medizin",
+        "Washington"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

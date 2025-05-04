@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "University of Zurich",
-    "With",
     "Food",
     "Healthy",
     "Your",
-    "Time"
+    "Time",
+    "Breakfast"
   ],
-  "summary": "Main article: The alarm goes off at six in the morning, there's barely enough time for a coffee and already the train is heading towards the university....",
+  "summary": "Main article: The alarm goes off at six in the morning, there's barely enough time for a coffee and already the train is heading towards the university. At the station you can quickly grab a croissants to bridge the hunger until the second breakfast in the form of a salami sandwich at nine in the cafeteria....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 522,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +62,34 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.31,
+      "avg_word_length": 4.87,
+      "long_word_percentage": 25.29
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Spaghetti Carbonara"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "German"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "www.weact.ch"
+        ],
+        "phones": [
+          "2011",
+          "2012"
+        ]
+      }
+    }
   }
 }

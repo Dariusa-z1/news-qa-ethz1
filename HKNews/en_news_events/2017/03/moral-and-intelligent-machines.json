@@ -7,14 +7,14 @@
   "named_entities": [
     "Neue Zürcher Zeitung",
     "Tages-Anzeiger",
-    "The Economist",
     "Critical Thinking Initiative",
     "Cortona Week",
-    "In February",
     "Joanna Bryson",
     "Peter Asaro",
     "Vanessa Rampton",
-    "Lisa Schurrer"
+    "Lisa Schurrer",
+    "Naveen Shamsudhin",
+    "Multi-Scale Robotics Lab"
   ],
   "topics": [
     "Technology & Innovation",
@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "Robots",
-    "Also",
     "Machines",
     "People",
     "Such",
-    "What"
+    "What",
+    "Intelligence"
   ],
-  "summary": "It's clear that robots are machines and not people. For one thing, they're built to relieve people from purely mechanical or repetitive work....",
+  "summary": "It's clear that robots are machines and not people. For one thing, they're built to relieve people from purely mechanical or repetitive work. Their intelligence is not natural, but is controlled by computer programs....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 884,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -50,6 +60,34 @@
       "Sustainability",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.1,
+      "avg_word_length": 5.26,
+      "long_word_percentage": 31.56
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "However"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland",
+        "Europe",
+        "Micro"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017",
+          "2009"
+        ]
+      }
+    }
   }
 }

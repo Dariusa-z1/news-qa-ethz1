@@ -7,14 +7,14 @@
   "named_entities": [
     "Sicheres Umfeld",
     "Universität Zürich",
-    "Die Scientifica",
     "Forschende Projekte",
     "Viele Angebote",
     "Campus Irchel",
-    "Die Standorte",
     "Covid-Zertifikat",
-    "Die Besuchenden",
-    "Scientifica-Veranstaltungen"
+    "Scientifica-Veranstaltungen",
+    "Zum Auftakt",
+    "Stadt Zürich",
+    "Diese Veranstaltungen"
   ],
   "topics": [
     "Research",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Sicheres Umfeld für den Austausch: Über 20'000 Besucherinnen und Besucher durften ETH Zürich und Universität Zürich in den vergangenen Jahren an der Scientifica in ihren Hauptgebäuden begrüssen....",
+  "summary": "Sicheres Umfeld für den Austausch: Über 20'000 Besucherinnen und Besucher durften ETH Zürich und Universität Zürich in den vergangenen Jahren an der Scientifica in ihren Hauptgebäuden begrüssen. Die Scientifica bietet Gelegenheit, Hochschulforschung aus erster Hand zu erleben und sich direkt mit den Wissenschaftlerinnen und Wissenschaftler auszutauschen....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 501,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Staff",
       "Researchers"
@@ -50,6 +60,25 @@
       "COVID-19",
       "Sustainability",
       "Infrastructure"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.16,
+      "avg_word_length": 6.1,
+      "long_word_percentage": 35.33
+    },
+    "semantic_entities": {
+      "locations": [
+        "Covid-Zertifikat",
+        "Armband"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "www.scientifica.ch"
+        ],
+        "phones": []
+      }
+    }
   }
 }

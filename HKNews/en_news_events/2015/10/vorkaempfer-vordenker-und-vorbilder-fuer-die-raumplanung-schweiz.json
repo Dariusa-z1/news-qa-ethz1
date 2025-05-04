@@ -7,14 +7,14 @@
   "named_entities": [
     "Harziger Start",
     "Schweizer Raumplanung",
-    "Die Raumplanung Schweiz",
-    "Die Geschichte",
     "Raumplanung Schweiz",
-    "Die Städte",
     "Zweiten Weltkrieg",
     "Jahren Bemühungen",
     "Eidgenössische Raumplanungsgesetz",
-    "Raumplanungsgeschichte Persönlichkeiten"
+    "Raumplanungsgeschichte Persönlichkeiten",
+    "Marius Baschung",
+    "Sachen Raumplanung",
+    "Jahre Raumplaner"
   ],
   "topics": [
     "Infrastructure",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Harziger Start für die Schweizer Raumplanung: Die Raumplanung Schweiz steht zur Zeit vor einer ganzen Reihe von Herausforderungen: Siedlungsentwicklung nach innen, Schutz des Kulturlandes, Umsetzung der Zweitwohnungsinitiative, zweite Etappe der Revision des Raumplanungsgesetzes....",
+  "content_structure": {
+    "paragraph_count": 17,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 815,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Interview",
     "audience_type": [
       "Researchers"
     ],
@@ -48,6 +58,38 @@
       "Infrastructure",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.95,
+      "avg_word_length": 6.22,
+      "long_word_percentage": 35.83
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Harziger Start",
+        "Schweizer Raumplanung",
+        "Die Raumplanung Schweiz"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Angriff",
+        "Meilenstein",
+        "Hammerschlag",
+        "Kraft",
+        "Blick"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1930",
+          "1980"
+        ]
+      }
+    }
   }
 }

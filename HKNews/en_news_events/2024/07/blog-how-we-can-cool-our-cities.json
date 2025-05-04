@@ -7,13 +7,8 @@
   "named_entities": [
     "Jan Carmeliet",
     "Building Physics",
-    "Main",
-    "More",
-    "People",
-    "Street",
-    "Professor",
-    "Zurich",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Weather & Environment",
@@ -29,17 +24,27 @@
     "Urban",
     "Cooling",
     "Trees",
-    "That",
-    "Climate"
+    "Climate",
+    "More"
   ],
-  "summary": "Main article: More and more people are becoming aware of the increasing risk of being exposed to severe heat waves during the summer months. City inhabitants even more than others....",
+  "summary": "Main article: More and more people are becoming aware of the increasing risk of being exposed to severe heat waves during the summer months. City inhabitants even more than others. The urban heat island effect makes cities more vulnerable to heat extremes than their rural surroundings....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 802,
     "readability_score": "complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Faculty",
       "General Public"
@@ -49,6 +54,20 @@
       "Infrastructure",
       "Education",
       "Weather"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.11,
+      "avg_word_length": 5.2,
+      "long_word_percentage": 30.8
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

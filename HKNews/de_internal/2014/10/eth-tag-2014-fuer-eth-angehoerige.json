@@ -7,14 +7,14 @@
   "named_entities": [
     "Herausragende Leistungen",
     "Wissenschaftsbetrieb Ausserordentliches",
-    "Die Hochschule",
     "Tag Studierende",
-    "Der Präsident",
     "Ralph Eichler",
     "Lino Guzzella",
     "Lassen Sie",
     "Jahr Revue",
-    "Die Festansprache"
+    "Jahr Martin Vetterli",
+    "Nationalen Forschungsrats",
+    "Schweizerischen Nationalfonds"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Herausragende Leistungen wollen gewürdigt werden....",
+  "summary": "Main article: Herausragende Leistungen wollen gewürdigt werden. Am ETH-Tag verleiht die ETH Zürich die Ehrendoktorwürde an Personen, die im internationalen Wissenschaftsbetrieb Ausserordentliches geleistet haben. Die Hochschule nimmt dabei die Gelegenheit wahr, allen zu danken, die sich um unsere Hochschule besonders verdient gemacht haben....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 12,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 234,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -50,6 +60,34 @@
       "Research",
       "Education",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.62,
+      "avg_word_length": 6.24,
+      "long_word_percentage": 37.61
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Herausragende Leistungen",
+        "Zürich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Vetterli"
+      ],
+      "departments": [
+        "Präsentation junger Forschender aus dem"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2014"
+        ]
+      }
+    }
   }
 }

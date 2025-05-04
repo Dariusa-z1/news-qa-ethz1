@@ -33,14 +33,24 @@
     "Prof",
     "History"
   ],
-  "summary": "",
+  "summary": "Much more than just a job: Actually, it is no coincidence that Uriel Gast started working at the Archives of Contemporary History at ETH Zurich ( AfZ ) 25 years ago as a fresh graduate from the University of Zurich. He says he \"slipped\" into the job of archivist rather unintentionally, but the fate of the Jewish refugees had accompanied him for many years....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 601,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff",
@@ -54,6 +64,33 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.82,
+      "avg_word_length": 5.63,
+      "long_word_percentage": 37.1
+    },
+    "semantic_entities": {
+      "locations": [
+        "Baltensperger",
+        "Switzerland",
+        "Quack",
+        "Uriel Gast",
+        "Gübeli"
+      ],
+      "departments": [
+        "Mechanical and Process Engineering",
+        "Education at the",
+        "Geological"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2013 35",
+          "2013 30"
+        ]
+      }
+    }
   }
 }

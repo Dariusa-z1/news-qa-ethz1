@@ -7,12 +7,8 @@
   "named_entities": [
     "Polytechnic Institute",
     "Global News",
-    "Zurich",
-    "German",
-    "Blog",
-    "ETHeritage",
-    "English",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -30,14 +26,24 @@
     "Studies",
     "Newly"
   ],
-  "summary": "160 years ago, 68 students began their studies at the newly founded Polytechnic Institute, today's ETH Zurich....",
+  "summary": "160 years ago, 68 students began their studies at the newly founded Polytechnic Institute, today's ETH Zurich. You can read about this in German on the Blog ETHeritage and in English on the ETH Global News ....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 37,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students"
     ],
@@ -46,6 +52,34 @@
       "Education",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.5,
+      "avg_word_length": 4.49,
+      "long_word_percentage": 18.92
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Polytechnic Institute",
+        "Zurich",
+        "German"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "German",
+        "English"
+      ],
+      "departments": [
+        "at the newly founded Polytechnic"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

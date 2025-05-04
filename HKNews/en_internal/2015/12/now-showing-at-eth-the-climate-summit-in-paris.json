@@ -10,11 +10,8 @@
     "Green Floor",
     "Martha Vogel",
     "Climate Science",
-    "Conference",
-    "Paris",
-    "November",
-    "December",
-    "Institute"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Sustainability",
@@ -26,21 +23,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "From",
     "Climate",
     "Countries",
     "Being",
     "Change",
-    "Been"
+    "Been",
+    "Should"
   ],
-  "summary": "The 2015 United Nations Climate Change Conference COP 21 has been taking place in Paris since 30 November, and runs until 11 December....",
+  "summary": "The 2015 United Nations Climate Change Conference COP 21 has been taking place in Paris since 30 November, and runs until 11 December. Representatives from the governments and civil society of nearly 200 countries are debating how the founding efforts of the Kyoto Protocol should be continued....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 199,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Researchers"
@@ -50,6 +57,44 @@
       "Sustainability",
       "Infrastructure",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 24.88,
+      "avg_word_length": 4.99,
+      "long_word_percentage": 28.64
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "United Nations Climate Change Conference",
+        "November",
+        "December"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "10am",
+        "6pm"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Paris",
+        "Protocol"
+      ],
+      "departments": [
+        "doctoral student at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015"
+        ]
+      }
+    }
   }
 }

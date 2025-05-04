@@ -1,20 +1,20 @@
 {
   "language": "en",
   "title": "Cultural Site And Pionieering Construction From A 3d Printer",
-  "date": "2021-06-01",
+  "date": "2022-06-01",
   "source": "ETH Zurich, University Communications",
   "main_content": "Digital building technology in a mountain village: The village of Mulegns is located on the Julier Pass road, and has just 16 inhabitants. The aim of the project is to bring in culture and revitalise the area. This plan is the brainchild of Giovanni Netzer, theatre director and founder of the Origen cultural festival. To this end, his foundation had an old villa relocated, reopened a hotel and is now having a tower printed using white concrete.\n\nThe White Tower was designed and planned by ETH Professor Benjamin Dillenburger and Michael Hansmeyer from the Digital Building Technologies research group, together with the Origen foundation. Today, the foundation presented the project in Mulegns for the first time. Swiss President Guy Parmelin was also in attendance during the presentation of the project.\n\nThe tower is 23 metres in height, and consists mainly of organically shaped, 3D-printed white concrete columns. They support four floors that are each between four and eight metres high. Right at the top, they form a dome and surround a stage where theatre plays, dance performances and concerts will be held.\n\nThe project is a fascinating blend of culture and science. ETH aims to use this collaboration to strengthen the association between culture, research and technology development, says Detlef Günther, Vice President for Research at ETH Zurich. “Because new knowledge often emerges where various disciplines meet.”\n\nThe White Tower will have a prominent position on the Julier Pass, and is intended to be visually reminiscent of the Grisons confectionery tradition. Large numbers of Grisons emigrants made a name for themselves as pâtissiers in Europe’s capital cities in the 18th century, with their elaborately decorated creations of small, delicate sugar towers.\n\nFour ETH professorships involved: The tower will be distinctive not only from an artistic perspective, but also in terms of its construction, as it will be one of the tallest 3D-printed, robot-built structures ever. Alongside Benjamin Dillenburger, three other ETH professors from the National Centre of Competence in Research (NCCR) Digital Fabrication are involved in the development process: Robert Flatt is working on the mixing of concrete – the “ink” for the 3D printer, so to speak – while Walter Kaufmann is responsible for the structural integrity and the connections of the printed concrete elements, and Andreas Wieser’s area is metrology and inspection.\n\nThe 3D printing approach to construction allows complex geometries to be produced, and for the concrete to be used exactly where it is needed for the load-bearing structure. The structure will also need less raw materials overall, as no formwork is needed.\n\nWatching the robot at work: If everything goes according to plan, a public construction site will be set up in April 2022, and everyone will be able to watch as a robot applies the white concrete layer by layer. This robot will need just two hours for a three-metre-high column. And the process of dismantling has also already been planned: the concrete elements can all be taken apart, and the tower can theoretically be rebuilt at another location.\n\nETH and the Origen foundation already worked together back in 2019, when digitally printed concrete columns were used to create a stage set for dance and theatre performances in the gardens of the Villa Carisch in Riom.",
   "named_entities": [
     "Julier Pass",
     "Giovanni Netzer",
-    "The White Tower",
     "Professor Benjamin Dillenburger",
     "Michael Hansmeyer",
     "Digital Building Technologies",
     "Swiss President Guy Parmelin",
     "Detlef Günther",
     "Vice President",
-    "Alongside Benjamin Dillenburger"
+    "Alongside Benjamin Dillenburger",
+    "National Centre"
   ],
   "topics": [
     "Technology & Innovation",
@@ -31,16 +31,26 @@
     "Tower",
     "White",
     "Project",
-    "This"
+    "Foundation"
   ],
-  "summary": "Digital building technology in a mountain village: The village of Mulegns is located on the Julier Pass road, and has just 16 inhabitants....",
+  "summary": "Digital building technology in a mountain village: The village of Mulegns is located on the Julier Pass road, and has just 16 inhabitants. The aim of the project is to bring in culture and revitalise the area. This plan is the brainchild of Giovanni Netzer, theatre director and founder of the Origen cultural festival....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 547,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -51,6 +61,38 @@
       "Technology",
       "Research",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.78,
+      "avg_word_length": 5.05,
+      "long_word_percentage": 31.63
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Digital",
+        "Mulegns",
+        "Julier Pass"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Research",
+        "Riom",
+        "Dillenburger",
+        "Mulegns",
+        "Europe"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2022",
+          "2019"
+        ]
+      }
+    }
   }
 }

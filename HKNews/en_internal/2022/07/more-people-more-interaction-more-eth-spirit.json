@@ -7,14 +7,8 @@
   "named_entities": [
     "Anna Maltsev",
     "Cons Column",
-    "Changes",
-    "More",
-    "Editor",
-    "Chief",
-    "Dominoes",
-    "Against",
-    "Portrait",
-    "Snapshot"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -28,19 +22,29 @@
     "ETH Zurich",
     "Life",
     "Magazine",
-    "This",
     "Your",
     "More",
-    "Members"
+    "Members",
+    "Have"
   ],
-  "summary": "",
+  "summary": "Changes at a glance: “More people, more interaction, and boosting the feeling of belonging within the ETH community.” This is how Anna Maltsev, Editor-in-Chief of life magazine , describes the publication’s new direction. And this is precisely what readers wanted from the magazine, as revealed in last year’s survey on internal communication and follow-up workshops conducted with technical-administrative and scientific staff....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 532,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Staff",
       "General Public"
@@ -50,6 +54,22 @@
       "Technology",
       "Communications",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.0,
+      "avg_word_length": 4.66,
+      "long_word_percentage": 25.75
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "adressen.ethz.ch"
+        ],
+        "phones": []
+      }
+    }
   }
 }

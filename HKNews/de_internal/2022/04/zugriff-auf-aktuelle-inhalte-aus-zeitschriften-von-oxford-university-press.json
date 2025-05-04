@@ -8,13 +8,13 @@
     "Publish-Abkommen",
     "Verlag Oxford University Press",
     "Open-Access-Artikel",
-    "Der Zugriff",
-    "Die Kosten",
     "Open-Access-Artikeln",
     "Browser-Erweiterungen",
     "Google Scholar",
-    "Die Verhandlungen",
-    "Schweizer Hochschulbibliotheken"
+    "Schweizer Hochschulbibliotheken",
+    "Seite Richtlinien",
+    "Publish-Lizenz",
+    "Detaillierte Informationen"
   ],
   "topics": [
     "Finance",
@@ -30,14 +30,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Ohne ein bestehendes Read & Publish-Abkommen mit dem Verlag Oxford University Press (OUP) kann es sein, dass Artikel, die im laufenden Jahr 2022 nicht als Open-Access-Artikel publiziert wurden, bald nur noch auf Bestellung verfügbar sein werden. Der Zugriff auf Artikel, die bis Ende 2021 erschienen sind, wird weiterhin wie gewohnt funktionieren....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 238,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students"
     ],
@@ -45,6 +55,26 @@
       "Financial",
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.88,
+      "avg_word_length": 5.79,
+      "long_word_percentage": 33.61
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "www.unpaywall.org",
+          "www.openaccessbutton.org"
+        ],
+        "phones": [
+          "2022",
+          "2021"
+        ]
+      }
+    }
   }
 }

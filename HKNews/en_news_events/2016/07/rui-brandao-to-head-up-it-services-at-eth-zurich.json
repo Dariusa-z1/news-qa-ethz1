@@ -14,7 +14,7 @@
     "Mr Brandao",
     "Ulrich Weidmann",
     "Vice President Human Resources",
-    "University"
+    "ETH Zurich"
   ],
   "topics": [
     "University Administration",
@@ -33,14 +33,24 @@
     "Says",
     "Director"
   ],
-  "summary": "“I'm proud to have the opportunity to work for one of the top 10 universities in the world,” says ETH’s new Director of IT Services....",
+  "summary": "“I'm proud to have the opportunity to work for one of the top 10 universities in the world,” says ETH’s new Director of IT Services. Before his appointment by the ETH Executive Board, Brandao worked at Credit Suisse AG, where he was responsible for several IT departments and global projects....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 280,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Researchers",
@@ -51,6 +61,39 @@
       "Research",
       "Administrative",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 31.11,
+      "avg_word_length": 4.85,
+      "long_word_percentage": 29.64
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "1996 with a degree in Information Systems and a PhD in Computer Science in 2001",
+      "authors": [
+        "Director",
+        "Services",
+        "Before",
+        "Executive Board",
+        "Brandao"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Gutmann",
+        "Information Systems",
+        "Credit Suisse",
+        "Computer Science"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1996",
+          "2001"
+        ]
+      }
+    }
   }
 }

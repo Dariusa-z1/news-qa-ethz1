@@ -9,12 +9,10 @@
     "Copernicus-Zeitschrift",
     "Manuscript Registration",
     "Drop-Down-Menü",
-    "Mit Fragen",
     "Weitere Informationen",
     "Seite Open-Access-Verlag",
-    "Voraussetzung",
-    "Erstautor",
-    "Artikels"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Communication",
@@ -29,14 +27,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Voraussetzung ist, dass der Erstautor des eingereichten Artikels an der ETH Zürich beschäftigt ist....",
+  "summary": "Voraussetzung ist, dass der Erstautor des eingereichten Artikels an der ETH Zürich beschäftigt ist. Bei der Übermittlung des Manuskripts über das Online-Formular der jeweiligen Copernicus-Zeitschrift muss im Abschnitt \"Manuscript Registration\" aus dem Drop-Down-Menü die ETH Zürich ausgewählt werden....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 69,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -44,6 +52,20 @@
     "context_tags": [
       "Financial",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.25,
+      "avg_word_length": 5.97,
+      "long_word_percentage": 34.78
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

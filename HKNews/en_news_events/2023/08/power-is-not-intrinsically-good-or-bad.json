@@ -7,14 +7,8 @@
   "named_entities": [
     "Petra Schmid",
     "Organisational Behaviour",
-    "Main",
-    "Reviewer",
-    "Professor",
-    "Department",
-    "Management",
-    "Technology",
-    "Economics",
-    "Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -30,17 +24,27 @@
     "People",
     "Social",
     "Feel",
-    "That",
-    "Powerful"
+    "Powerful",
+    "Their"
   ],
   "summary": "Main article: You study the effects of social power on human behaviour. What does that involve? Social power is about asserting control over coveted resources....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 379,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Faculty",
@@ -52,6 +56,30 @@
       "Catering",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.04,
+      "avg_word_length": 4.98,
+      "long_word_percentage": 25.86
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Social"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "Management",
+        "of Organisational Behaviour in the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -10,11 +10,11 @@
     "Stadt Zürich",
     "Gottfried Semper",
     "Im Zentrum",
-    "Der Park",
-    "Die Neugestaltung",
     "Seite Weissbuch",
     "Hochschulgebiets Zürich Zentrum",
-    "Universität Zürich"
+    "Universität Zürich",
+    "Universitätsspital Zürich",
+    "Kanton Zürich"
   ],
   "topics": [
     "Infrastructure",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Mehr Frei- und Grünraum statt Parkplätze: Den Freiräumen im Hochschulgebiet wird eine besondere Bedeutung zugeschrieben....",
+  "summary": "Mehr Frei- und Grünraum statt Parkplätze: Den Freiräumen im Hochschulgebiet wird eine besondere Bedeutung zugeschrieben. Sie dienen Hochschul- und Spitalangehörigen sowie Anwohnenden sowohl als Begegnungs- und Rückzugsort und fördern die Durchwegung zwischen den umliegenden Gebäuden und dem Quartier....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 466,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "General Public"
     ],
@@ -48,6 +58,26 @@
       "Infrastructure",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.26,
+      "avg_word_length": 6.52,
+      "long_word_percentage": 40.13
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "und Forstwirtschaftlichen",
+        "Park den Angehörigen der umliegenden"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1864",
+          "2021"
+        ]
+      }
+    }
   }
 }

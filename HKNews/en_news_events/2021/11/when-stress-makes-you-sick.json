@@ -28,19 +28,29 @@
     "ETH Zurich",
     "University of Zurich",
     "Stress",
-    "With",
     "Zurich",
     "University",
-    "That"
+    "Project",
+    "Health"
   ],
-  "summary": "One in four children affected: It’s no secret that stress can make you sick....",
+  "summary": "One in four children affected: It’s no secret that stress can make you sick. And yet, people are less aware that ongoing negative stress not only impairs your mental health, but can also affect your body. “Chronic stress, especially when experienced during childhood, is a risk factor for the development of common neuropsychiatric disorders later in life,” says Isabelle Mansuy....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 824,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +62,32 @@
       "COVID-19",
       "Sustainability",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.13,
+      "avg_word_length": 5.56,
+      "long_word_percentage": 33.86
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Chronic",
+        "Isabelle Mansuy"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zürich"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2022"
+        ]
+      }
+    }
   }
 }

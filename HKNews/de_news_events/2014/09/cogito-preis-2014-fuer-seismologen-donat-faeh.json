@@ -8,13 +8,13 @@
     "Am Freitag",
     "Schweizerischen Erdbebendienst",
     "Donat Fäh",
-    "Der Seismologe",
-    "Die Verleihung",
     "Universität Zürich",
     "Stadt Basel",
     "Preisträger Donat Fäh",
-    "Das Beben",
-    "Zürich Umweltphysik"
+    "Zürich Umweltphysik",
+    "Seine Dissertation",
+    "Universität Trieste",
+    "Sein Team"
   ],
   "topics": [
     "Staff",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Beben interdisziplinär erforscht: Am Freitag, 26....",
+  "summary": "Beben interdisziplinär erforscht: Am Freitag, 26. September 2014, zeichnete die externe Seite cogito Foundation anlässlich ihrer jährlich stattfindenden Preisverleihung den am Schweizerischen Erdbebendienst und als Professor an der ETH Zürich tägigen Donat Fäh mit dem «cogito-Preis 2014» aus....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 1,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 452,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +60,41 @@
       "Sustainability",
       "Infrastructure",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.56,
+      "avg_word_length": 6.03,
+      "long_word_percentage": 33.41
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Am Freitag",
+        "September",
+        "Foundation"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Foundation",
+        "Basel",
+        "Geophysik",
+        "Team",
+        "Donat Fäh"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "focusterra.ethz.ch",
+          "seismo.ethz.ch"
+        ],
+        "phones": [
+          "2014",
+          "2014"
+        ]
+      }
+    }
   }
 }

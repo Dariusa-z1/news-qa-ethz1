@@ -8,13 +8,13 @@
     "Am Himmel",
     "Limousinen Stossstange",
     "Vorbild Gretas",
-    "Die Jahrestagung",
     "Stadt Europas",
     "Mehrere Schulklassen",
     "Unsere Exponate",
     "Quanten-Computing",
-    "Das Mysterium",
-    "Die Besucherinnen"
+    "Thema Quanten-Computing",
+    "Demystifying Quantum",
+    "Quantenphysiker Jonathan Home"
   ],
   "topics": [
     "Technology & Innovation",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Main article: Am Himmel dröhnt das Helikoptergeschwader des amerikanischen Präsidenten, auf der Strasse stehen schwarze Limousinen Stossstange an Stossstange und auf dem Trottoir protestiert eine junge Frau nach dem Vorbild Gretas gegen den aktuellen Stand der Klimapolitik....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 380,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Researchers"
     ],
@@ -48,6 +58,24 @@
       "Infrastructure",
       "Technology",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.0,
+      "avg_word_length": 6.04,
+      "long_word_percentage": 36.58
+    },
+    "semantic_entities": {
+      "locations": [
+        "Quantencomputer",
+        "Davos",
+        "Expertenpanel"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

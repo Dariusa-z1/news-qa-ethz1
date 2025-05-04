@@ -6,15 +6,8 @@
   "main_content": "This results in the following changes in the second search tab \"Articles and more\" on the Knowledge Portal:\n\n• Searches in an even more extensive range of information from publishers, databases and aggregators\n• Searches in open-access journals and repositories\n• Additional integrated document types such as e-book chapters, conference proceedings, reviews etc.\n• More options to refine the search in the result list\n• Recommendations and citations displayed\n• Access to the article search also for non-members of ETH Zurich. The databases Web of Science, Scopus, GeoRef and CiNii Articles, however, can only be searched in the ETH Zurich network.\nFor the article search the metadata from scientific information resources is integrated in one single search.\n\nThe search for NTIS reports is no longer integrated in the search tab \"Articles and more\". Use the NTIS database for this purpose. Access is only possible in the ETH Zurich network.",
   "named_entities": [
     "Knowledge Portal",
-    "Articles",
-    "Searches",
-    "Additional",
-    "More",
-    "Recommendations",
-    "Access",
-    "Zurich",
-    "Science",
-    "Scopus"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Communication",
@@ -29,16 +22,26 @@
     "Articles",
     "Integrated",
     "Zurich",
-    "This"
+    "Searches"
   ],
-  "summary": "",
+  "summary": "This results in the following changes in the second search tab \"Articles and more\" on the Knowledge Portal:\n\n• Searches in an even more extensive range of information from publishers, databases and aggregators\n• Searches in open-access journals and repositories\n• Additional integrated document types such as e-book chapters, conference proceedings, reviews etc....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 6,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 146,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -46,6 +49,30 @@
       "Research",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.86,
+      "avg_word_length": 5.23,
+      "long_word_percentage": 31.51
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Articles",
+        "Knowledge Portal",
+        "Searches",
+        "Searches"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

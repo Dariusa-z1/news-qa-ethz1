@@ -9,12 +9,12 @@
     "Star Wars",
     "Big Bang",
     "Deep Field",
-    "The Hubble",
     "About Adrian Glauser",
     "Adrian Glauser",
     "Senior Scientist",
     "Particle Physics",
-    "Main"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -25,21 +25,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
     "What",
     "Images",
     "First",
     "Galaxies",
-    "Jwst"
+    "Jwst",
+    "Years"
   ],
-  "summary": "Main article: NASA has just published a first, spectacular image of the James Webb Space Telescope (JWST). What did you feel when you saw it?...",
+  "summary": "Main article: NASA has just published a first, spectacular image of the James Webb Space Telescope (JWST). What did you feel when you saw it? I felt a sense of great joy and satisfaction that everything is working so well....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 462,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Researchers"
@@ -48,6 +58,31 @@
       "Infrastructure",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.9,
+      "avg_word_length": 4.47,
+      "long_word_percentage": 20.56
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "James Webb Space Telescope"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Star Wars"
+      ],
+      "departments": [
+        "Senior Scientist at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

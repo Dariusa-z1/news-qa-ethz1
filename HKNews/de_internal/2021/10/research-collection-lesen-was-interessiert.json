@@ -9,12 +9,12 @@
     "Altmetric Score",
     "Seite Flood",
     "Seite Increasing",
-    "Die Auswertung",
     "Research Collection",
     "Seite Konjunkturanalyse",
-    "Der Aufschwung",
     "Albert Einsteins Dissertationsschrift",
-    "Seite Eine"
+    "Seite Eine",
+    "Philosophischen Fakultät",
+    "Universität Zürich"
   ],
   "topics": [
     "Research",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Vom Klimawandel, genauer gesagt den möglicherweise dadurch verursachten Extremereignissen, handelt nicht nur der am meisten heruntergeladene Datensatz, sondern auch der Artikel mit dem höchsten Altmetric Score:\n\n• « externe Seite Flood simulation data of a 100-year designed storm in 656 catchment areas of Switzerland call_made » heisst der Datensatz, der seit seiner Veröffentlichung bereits 6790-mal heruntergeladen wurde....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 2,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 333,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -50,6 +60,36 @@
       "Sustainability",
       "Infrastructure",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.81,
+      "avg_word_length": 6.19,
+      "long_word_percentage": 36.34
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Vom Klimawandel",
+        "Extremereignissen",
+        "Datensatz",
+        "Artikel",
+        "Altmetric Score"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Neuling"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "6790",
+          "3000"
+        ]
+      }
+    }
   }
 }

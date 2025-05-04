@@ -8,13 +8,13 @@
     "Bibliothek Hauptgebäude",
     "Bibliothek Erdwissenschaften",
     "Grüne Bibliothek",
-    "Für Studierende",
     "Hönggerberg Lernarbeitsplätze",
     "Alle Standorte",
-    "Die Recherche",
     "Thomas-Mann-Archiv",
-    "Der Lesesaal Sammlungen",
-    "Max Frisch"
+    "Max Frisch",
+    "Thomas-Mann-Archivs",
+    "Im Herbst",
+    "ETH"
   ],
   "topics": [
     "Infrastructure",
@@ -25,6 +25,7 @@
     "Education"
   ],
   "keywords": [
+    "Hönggerberg",
     "ETH Zurich",
     "University",
     "Research",
@@ -32,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "• ETH-Bibliothek Hauptgebäude ( InfoCenter ): Mo–Fr 8.00–22.00, Sa und So 9.00–17.00\n• Baubibliothek : Mo–Fr 8.00–21.00\n• Bibliothek Erdwissenschaften : Mo–Fr 9.00–17.00\n• GESS-Bibliothek : Mo–Fr 9.00–17.00\n• Grüne Bibliothek : Mo–Fr 9.00–20.00\n• ETH-Bibliothek HDB : Mo–Fr 9.00–17.00\n• An allen Standorten sind Ausleihen und Rückgaben möglich....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 10,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 291,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students"
     ],
@@ -48,6 +59,37 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 8.31,
+      "avg_word_length": 5.58,
+      "long_word_percentage": 32.3
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Bibliothek Hauptgebäude",
+        "Center"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "00–22",
+        "00–17",
+        "00–21"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

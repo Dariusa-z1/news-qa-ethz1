@@ -29,18 +29,28 @@
     "Raiffeisen",
     "Banks",
     "Antisemitic",
-    "From",
     "Swiss",
-    "That"
+    "Were",
+    "Movement"
   ],
-  "summary": "In brief: • Raiffeisen’s founder in Germany, F.W. Raiffeisen (1818–1888), had antisemitic prejudices and in particular denounced the alleged “Jewish extortion”....",
+  "summary": "In brief: • Raiffeisen’s founder in Germany, F.W. Raiffeisen (1818–1888), had antisemitic prejudices and in particular denounced the alleged “Jewish extortion”. However, around 1880 he took pains to distance himself from the widespread “Judenhetze” (“Jew-baiting”) happening at the time....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 2,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 768,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -50,6 +60,39 @@
       "Research",
       "Administrative",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.71,
+      "avg_word_length": 5.56,
+      "long_word_percentage": 37.24
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Raiffeisen",
+        "Germany",
+        "Raiffeisen",
+        "Jewish"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Italy",
+        "Germany",
+        "Switzerland",
+        "Swiss Raiffeisen",
+        "Bichelsee"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1818",
+          "1888"
+        ]
+      }
+    }
   }
 }

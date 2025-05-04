@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "University of Zurich",
-    "That",
     "Unteregger",
-    "From",
     "Zurich",
-    "Says"
+    "Says",
+    "Swiss",
+    "Degree"
   ],
-  "summary": "From ETH to the US: “I absolutely adore cake....",
+  "summary": "From ETH to the US: “I absolutely adore cake. And, as a food scientist, I have to test desserts on a frequent basis to check they’re still up to scratch!” says Fabian Unteregger with a wink as he settles down for our interview at the famous Sprüngli Café in Zurich....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1329,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -53,6 +63,37 @@
       "COVID-19",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.44,
+      "avg_word_length": 4.69,
+      "long_word_percentage": 24.23
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Fabian Unteregger",
+        "Sprüngli Caf",
+        "Zurich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Kantonsspital Winterthur",
+        "Bottmingen",
+        "Wiedikon",
+        "Zurich",
+        "Unteregger"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1997"
+        ]
+      }
+    }
   }
 }

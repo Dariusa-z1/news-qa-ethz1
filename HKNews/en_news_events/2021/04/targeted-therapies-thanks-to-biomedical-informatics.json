@@ -11,10 +11,10 @@
     "University Hospital Balgrist",
     "University Hospital",
     "Psychiatry Zurich",
-    "The Loop Zurich",
     "Beatrice Beck-Schimmer",
     "Vice President Medicine",
-    "Detlef Günther"
+    "Detlef Günther",
+    "Vice President"
   ],
   "topics": [
     "Research",
@@ -31,16 +31,26 @@
     "Research",
     "Patients",
     "Will",
-    "This"
+    "University"
   ],
-  "summary": "Built on biomedical informatics: Patients differ. The more precise the diagnosis and the more targeted the therapy, the better the individual needs of patients can be met....",
+  "summary": "Built on biomedical informatics: Patients differ. The more precise the diagnosis and the more targeted the therapy, the better the individual needs of patients can be met. This is the goal of The LOOP Zurich ....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 948,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +62,29 @@
       "Research",
       "Education",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.55,
+      "avg_word_length": 5.36,
+      "long_word_percentage": 34.28
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Patients"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zurich"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

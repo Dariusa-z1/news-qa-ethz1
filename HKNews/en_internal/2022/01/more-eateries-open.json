@@ -8,13 +8,10 @@
     "Offer Gastronomy",
     "Retail Trade",
     "Aess-Bar",
+    "ETH Zurich",
+    "ETH",
     "Hönggerberg",
-    "Monday",
-    "January",
-    "Covid",
-    "Fusion",
-    "Alumni",
-    "Lounge"
+    "Polyterrasse"
   ],
   "topics": [
     "Catering & Food",
@@ -28,19 +25,29 @@
     "ETH Zurich",
     "ETH Card",
     "Hönggerberg Campus",
-    "With",
     "Food",
     "Certificate",
-    "Takeaway"
+    "Takeaway",
+    "Covid"
   ],
-  "summary": "Hönggerberg: The pandemic poses great challenges for the catering businesses at ETH....",
+  "summary": "Hönggerberg: The pandemic poses great challenges for the catering businesses at ETH. As a result of the reintroduced work from home requirements and the semester break, the number of visitors has decreased significantly and led to a reduction in the range of catering options....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 10,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 451,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -50,6 +57,24 @@
       "COVID-19",
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.74,
+      "avg_word_length": 5.19,
+      "long_word_percentage": 29.71
+    },
+    "semantic_entities": {
+      "locations": [
+        "Clausiusbar"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2022"
+        ]
+      }
+    }
   }
 }

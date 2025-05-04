@@ -12,9 +12,9 @@
     "Schweizer Bevölkerung",
     "Gunnar Rätsch",
     "Universitätsspital Zürich",
-    "Das Monitoring",
     "Online-Befragung",
-    "Selbst-Isolation"
+    "Selbst-Isolation",
+    "Alle Daten"
   ],
   "topics": [
     "COVID-19",
@@ -31,14 +31,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Bereits nehmen über 3500 Personen am COVID-19-Monitoring teil. (Bild: BMI)\n\nVerstehen, wie sich das Virus verbreitet: Wie schnell breitet sich das Coronavirus in der Schweiz aus?...",
+  "summary": "Main article: Bereits nehmen über 3500 Personen am COVID-19-Monitoring teil. (Bild: BMI)\n\nVerstehen, wie sich das Virus verbreitet: Wie schnell breitet sich das Coronavirus in der Schweiz aus? In welchen Orten oder Regionen gibt es überdurchschnittlich viele Neuinfektionen?...",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 668,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -48,6 +58,38 @@
       "COVID-19",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.05,
+      "avg_word_length": 5.71,
+      "long_word_percentage": 30.84
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Bereits",
+        "Personen",
+        "Monitoring"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Selbst-Isolation",
+        "Monitoring",
+        "Jahr"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "www.covidtracker.ch"
+        ],
+        "phones": [
+          "3500",
+          "3500"
+        ]
+      }
+    }
   }
 }

@@ -5,16 +5,11 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Die Schulleitung der ETH Zürich hat beschlossen, eine unabhängige Administrativuntersuchung aufgrund der Vorwürfe im früheren Institut für Astronomie zu eröffnen. Ziel der Untersuchung ist es, die Verhältnisse und Abläufe innerhalb der betroffenen Bereiche sowie das Verhalten der beteiligten Personen zu überprüfen. ETH-Präsident Lino Guzzella zum Entscheid: «Die formelle Administrativuntersuchung erlaubt uns, noch genauer hinzuschauen und zu entscheiden, ob noch weitere Massnahmen getroffen werden sollen». Die ETH-Schulleitung beauftragt in den nächsten Tagen eine externe Fachperson mit der Durchführung der Administrativuntersuchung.\n\nIm Februar 2017 wurde die Schulleitung von den Ombudspersonen und von anderen ETH-Angestellten über Vorwürfe von mehreren Doktorierenden gegen eine Professorin informiert. Gemäss diesen Vorwürfen soll die Professorin vielen ihren Doktorierenden gegenüber ein ungenügendes Führungsverhalten an den Tag gelegt haben. Die ETH Zürich verlangt von allen Führungspersonen, dass sie respektvoll mit den Mitarbeitenden umgehen. «Die Vorwürfe stehen in klarem Widerspruch zu dem, was wir von unseren Professoren und Professorinnen erwarten, deshalb haben wir schnell gehandelt», so Lino Guzzella. Innert kürzester Frist wurden die betroffenen Doktorierenden auf deren Wunsch bereits im März einer anderen Betreuungsperson zugeteilt.\n\nGleichzeitig hat die Schulleitung die Professorin mit den Vorwürfen konfrontiert und angehört. Anschliessend wurden konkrete Massnahmen vereinbart bzw. angeordnet. Insbesondere wurde ein System zum Schutz zukünftiger Doktorierender etabliert. Sollte die Professorin in Zukunft wieder Doktoranden betreuen, wird sie dabei eng begleitet.\n\nDie personelle Konstellation am Institut für Astronomie war rückblickend betrachtet ungünstig, weil die Professorin und ihr Ehemann am gleichen Institut im Professorenstatus angestellt waren. Deshalb wurde das Institut für Astronomie im August stillgelegt, die beiden Stellen des Ehepaars als selbständige Professuren weitergeführt und die übrigen Teile des Instituts für Astronomie ins neue Institut für Teilchen- und Astrophysik integriert. Nach der Analyse der verfahrenen Situation ging es darum, die unglückliche personelle Konstellation möglichst schnell aufzulösen und die Situation damit zu klären. Das Professoren-Ehepaar wurde bereits 2002 berufen. Heute wäre eine solche Konstellation innerhalb des gleichen Instituts nicht mehr möglich.\n\nDer ETH-Rat, das Aufsichtsgremium der ETH Zürich, hat sich mit der Situation rund um das Institut für Astronomie befasst. Der ETH-Rat würdigte im September das korrekte und zeitnahe Vorgehen der ETH Zürich sowie die getroffenen Massnahmen. Gleichzeitig war er der Meinung, dass die ETH Zürich in einem nächsten Schritt eine zusätzliche Administrativuntersuchung durchführen solle.\n\nNachdem die Situation im Departement mit den Sofortmassnahmen entschärft worden ist, folgt die ETH Zürich nun ihrem Aufsichtsgremium. Es geht um eine vertiefte Analyse der Vorkommnisse. Ein Fokus liegt auf der Frage, wie noch besser sichergestellt werden kann, dass Meldungen über ein angeblich mangelhaftes Führungsverhalten rasch innerhalb der Organisation nach oben eskalieren können und in gravierenden Fällen auch rechtzeitig zur Schulleitung gelangen. Bis zum Abschluss der laufenden Untersuchung und der Kenntnisnahme durch den ETH-Rat kann die ETH Zürich in dieser Angelegenheit keine weiteren Auskünfte geben.",
   "named_entities": [
-    "Die Schulleitung",
     "Präsident Lino Guzzella",
     "Im Februar",
-    "Die Vorwürfe",
     "Lino Guzzella",
-    "Das Professoren-Ehepaar",
-    "Ein Fokus",
-    "Zürich",
-    "Administrativuntersuchung",
-    "Institut"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "University Administration",
@@ -30,14 +25,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Die Schulleitung der ETH Zürich hat beschlossen, eine unabhängige Administrativuntersuchung aufgrund der Vorwürfe im früheren Institut für Astronomie zu eröffnen....",
+  "summary": "Die Schulleitung der ETH Zürich hat beschlossen, eine unabhängige Administrativuntersuchung aufgrund der Vorwürfe im früheren Institut für Astronomie zu eröffnen. Ziel der Untersuchung ist es, die Verhältnisse und Abläufe innerhalb der betroffenen Bereiche sowie das Verhalten der beteiligten Personen zu überprüfen....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 459,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff",
       "Faculty"
@@ -45,6 +50,31 @@
     "context_tags": [
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.65,
+      "avg_word_length": 6.41,
+      "long_word_percentage": 41.83
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zukunft",
+        "Fokus",
+        "System"
+      ],
+      "departments": [
+        "solche Konstellation innerhalb des gleichen",
+        "Astronomie zu eröffnen",
+        "Deshalb wurde das"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017",
+          "2002"
+        ]
+      }
+    }
   }
 }

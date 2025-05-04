@@ -10,11 +10,8 @@
     "Yaakov Benenson",
     "Karsten Borgwardt",
     "Data Mining",
-    "Precise",
-    "Genome",
-    "RNAs",
-    "Department",
-    "Engineering"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -30,17 +27,27 @@
     "Sites",
     "Ribosomes",
     "Bind",
-    "These",
-    "That"
+    "Ribosome",
+    "Protein"
   ],
-  "summary": "Precise control over protein production: Genome sequencing of bacteria, plants and even humans has become a routine process, yet the genome still poses many unanswered questions....",
+  "summary": "Precise control over protein production: Genome sequencing of bacteria, plants and even humans has become a routine process, yet the genome still poses many unanswered questions. One of these concerns the sites on messenger RNAs (mRNAs) that ribosomes – the cellular structures responsible for protein synthesis – bind to in order to translate genetic information....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 590,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -49,6 +56,33 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.85,
+      "avg_word_length": 5.24,
+      "long_word_percentage": 34.41
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Precise",
+        "Genome"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Basel"
+      ],
+      "departments": [
+        "Biosystems Science and Engineering",
+        "team of researchers from the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

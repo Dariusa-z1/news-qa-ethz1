@@ -7,14 +7,7 @@
   "named_entities": [
     "Science Education",
     "Swiss World Atlas",
-    "There",
-    "Various",
-    "Folding",
-    "COVID",
-    "JoVe",
-    "MOOCs",
-    "Finally",
-    "SUVA"
+    "ETH"
   ],
   "topics": [
     "COVID-19",
@@ -33,14 +26,24 @@
     "Topic",
     "Which"
   ],
-  "summary": "For some ETH members, spending time in their home office is a good opportunity for further training....",
+  "summary": "For some ETH members, spending time in their home office is a good opportunity for further training. For this purpose, our subject specialists have made a wide selection of options for you:\n\n• There is hardly any topic on which there is no e-book in our inventory....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 4,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 214,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +53,27 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.78,
+      "avg_word_length": 4.83,
+      "long_word_percentage": 28.04
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Various"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

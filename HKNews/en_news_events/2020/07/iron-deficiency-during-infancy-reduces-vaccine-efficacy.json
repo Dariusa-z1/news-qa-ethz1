@@ -7,14 +7,7 @@
   "named_entities": [
     "Michael Zimmermann",
     "Health Sciences",
-    "In Switzerland",
-    "Human Nutrition",
-    "The World Health Organization",
-    "Babies",
-    "Despite",
-    "Kenya",
-    "Department",
-    "Technology"
+    "Human Nutrition"
   ],
   "topics": [
     "Research",
@@ -27,20 +20,30 @@
   "keywords": [
     "Iron",
     "Children",
-    "That",
     "Months",
     "Their",
-    "From",
-    "With"
+    "More",
+    "Were",
+    "Have"
   ],
-  "summary": "",
+  "summary": "Babies have smaller iron reserves: Despite the fact that global immunisation programmes are now reaching more people than ever, about 1.5 million children still die every year from diseases that vaccination could have prevented. Vaccination is also less effective in low-income countries than in high-income countries, although it is not yet clear why....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 576,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +55,35 @@
       "Research",
       "Education",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 28.8,
+      "avg_word_length": 5.16,
+      "long_word_percentage": 29.17
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Babies",
+        "Despite",
+        "Vaccination",
+        "Findings"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Kenya"
+      ],
+      "departments": [
+        "Health Sciences and Technology worked",
+        "by Michael Zimmermann from the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

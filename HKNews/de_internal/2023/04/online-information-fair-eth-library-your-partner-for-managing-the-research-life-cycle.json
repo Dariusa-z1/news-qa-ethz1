@@ -11,10 +11,8 @@
     "Open-Access-Publizieren",
     "Ihren Forschungs",
     "Vom Know",
-    "Die Infrastruktur",
     "Ihrem Ziel",
-    "Etappen",
-    "Forschungsdatenmanagement"
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -32,14 +30,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Wussten Sie, dass die ETH-Bibliothek Sie in sämtlichen Etappen entlang des Research Life Cycle unterstützt?...",
+  "summary": "Wussten Sie, dass die ETH-Bibliothek Sie in sämtlichen Etappen entlang des Research Life Cycle unterstützt? Sei es beim Forschungsdatenmanagement, beim Open-Access-Publizieren oder bei bibliometrischen Analysen – wir erklären Ihnen die für Ihren Forschungs-, Schreib- und Publikationsprozess wichtigsten Dienstleistungen....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 121,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -48,6 +56,30 @@
       "Infrastructure",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.1,
+      "avg_word_length": 6.13,
+      "long_word_percentage": 30.58
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Wussten Sie",
+        "Bibliothek Sie",
+        "Etappen",
+        "Research Life Cycle"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

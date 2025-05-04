@@ -1,12 +1,10 @@
 {
   "language": "de",
   "title": "Vor über 60 Jahren begann eine Skiexpedition in Sowjetrussland als Abenteuer und endete in einer Tragödie. Eine Gruppe von jungen Studierenden kehrte im Winter 1959 von einer Reise in den Ural nicht zurück. Später wurden sie tot aufgefunden. Die Geschichte ist als Ereignis am Djatlow Pass in Russland sehr bekannt. Der mysteriöse Vorfall hat viele Geschichten über den Tod der jungen Leute inspiriert. Als Ursache wurden sowjetische Militärexperimente aber auch Verschwörungstheorien über Killer Yetis und Ausserirdische vermutet. Alexander Puzrin von der ETH Zürich und Johan Gaume von der EPFL fanden mit Hilfe von Computersimulationen und analytischen Modellen eine plausible Erklärung für den Unfall und haben damit Anfang des Jahres weltweit Schlagzeilen gemacht.",
-  "date": "2021-10-01",
+  "date": "2010-10-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Main article: Vor über 60 Jahren begann eine Skiexpedition in Sowjetrussland als Abenteuer und endete in einer Tragödie. Eine Gruppe von jungen Studierenden kehrte im Winter 1959 von einer Reise in den Ural nicht zurück. Später wurden sie tot aufgefunden. Die Geschichte ist als Ereignis am Djatlow Pass in Russland sehr bekannt. Der mysteriöse Vorfall hat viele Geschichten über den Tod der jungen Leute inspiriert. Als Ursache wurden sowjetische Militärexperimente aber auch Verschwörungstheorien über Killer Yetis und Ausserirdische vermutet. Alexander Puzrin von der ETH Zürich und Johan Gaume von der EPFL fanden mit Hilfe von Computersimulationen und analytischen Modellen eine plausible Erklärung für den Unfall und haben damit Anfang des Jahres weltweit Schlagzeilen gemacht.\n\nLiteraturhinweis: Gaume J, Puzrin A. Mechanisms of slab avalanche release and impact in the Dyatlov Pass incident in 1959. Communications Earth and Environment. 28. Januar 2021. DOI: externe Seite 10.1038/s43247-020-00081-8",
   "named_entities": [
-    "Eine Gruppe",
-    "Die Geschichte",
     "Djatlow Pass",
     "Als Ursache",
     "Killer Yetis",
@@ -14,7 +12,8 @@
     "Johan Gaume",
     "Dyatlov Pass",
     "Communications Earth",
-    "Main"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -32,14 +31,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Vor über 60 Jahren begann eine Skiexpedition in Sowjetrussland als Abenteuer und endete in einer Tragödie....",
+  "summary": "Main article: Vor über 60 Jahren begann eine Skiexpedition in Sowjetrussland als Abenteuer und endete in einer Tragödie. Eine Gruppe von jungen Studierenden kehrte im Winter 1959 von einer Reise in den Ural nicht zurück. Später wurden sie tot aufgefunden....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 149,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students"
     ],
@@ -48,6 +57,35 @@
       "Research",
       "Communications",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 10.64,
+      "avg_word_length": 5.66,
+      "long_word_percentage": 26.85
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Jahren",
+        "Skiexpedition",
+        "Sowjetrussland"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Russland",
+        "Sowjetrussland"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1959",
+          "1959"
+        ]
+      }
+    }
   }
 }

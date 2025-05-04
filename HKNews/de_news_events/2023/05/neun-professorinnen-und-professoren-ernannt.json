@@ -33,13 +33,23 @@
     "Education"
   ],
   "summary": "Neuernennungen: (Bild: ETH Zürich / Kilian J. Kessler)\n\nDr. Elsa Abreu (*1984), zurzeit Oberassistentin an der ETH Zürich, zur Assistenzprofessorin für Physik am Departement Physik....",
+  "content_structure": {
+    "paragraph_count": 31,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 10,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 2101,
     "readability_score": "complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,43 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.1,
+      "avg_word_length": 6.53,
+      "long_word_percentage": 40.69
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the Learning Sciences der ETH Zürich und der EPFL",
+      "authors": [
+        "Neuernennungen",
+        "Zürich",
+        "Kilian",
+        "Kessler"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Lehr",
+        "Weltraumwissenschaft",
+        "Schüler",
+        "Unternehmen",
+        "Cambridge"
+      ],
+      "departments": [
+        "zurzeit Privatdozentin am",
+        "für Theoretische Molekulare Quantendynamik am",
+        "Immunbiologie und Epigenetik in Freiburg"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1984",
+          "2022"
+        ]
+      }
+    }
   }
 }

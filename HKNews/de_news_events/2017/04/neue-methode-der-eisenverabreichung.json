@@ -8,13 +8,13 @@
     "Eisen-Nanopartikeln",
     "Milliarden Menschen",
     "Linie Frauen",
-    "Die Folgen",
-    "Das Spurenelement",
     "Professoren Raffaele Mezzenga",
     "Departement Gesundheitswissenschaften",
     "Molkeprotein-Nanofasern",
     "Mezzengas Doktorandin Yi Shen",
-    "Zimmermanns Doktorandin Lidija Posavec"
+    "Zimmermanns Doktorandin Lidija Posavec",
+    "Nature Nanotechnology",
+    "Protein-Nanofasern"
   ],
   "topics": [
     "Research",
@@ -31,14 +31,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Hybrid aus Proteinfasern und Eisen-Nanopartikeln: Weltweit leiden rund 1,2 Milliarden Menschen an Eisenmangel. Betroffen sind in erster Linie Frauen....",
+  "summary": "Hybrid aus Proteinfasern und Eisen-Nanopartikeln: Weltweit leiden rund 1,2 Milliarden Menschen an Eisenmangel. Betroffen sind in erster Linie Frauen. Jede fünfte europäische Frau um die 20 hat Eisenmangel....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 722,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -49,6 +59,41 @@
       "Sustainability",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.41,
+      "avg_word_length": 6.45,
+      "long_word_percentage": 37.67
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "der Fachzeitschrift «Nature Nanotechnology» erschienen",
+      "authors": [
+        "Hybrid",
+        "Proteinfasern",
+        "Nanopartikeln",
+        "Weltweit"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Nebenprodukt",
+        "Eisenmangel",
+        "Lidija Posavec",
+        "Patent",
+        "Eisensalz"
+      ],
+      "departments": [
+        "Zimmermann vom"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2017",
+          "1038"
+        ]
+      }
+    }
   }
 }

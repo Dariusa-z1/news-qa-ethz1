@@ -27,20 +27,30 @@
   "keywords": [
     "Skis",
     "Students",
-    "With",
     "Workshop",
     "Design",
     "Layers",
-    "Wood"
+    "Wood",
+    "Engineering"
   ],
-  "summary": "A noticeable synthetic smell wafts out of the laboratory in the ETH Zentrum building. Several long tables with metallic basins fill the small room....",
+  "summary": "A noticeable synthetic smell wafts out of the laboratory in the ETH Zentrum building. Several long tables with metallic basins fill the small room. Part of the Bachelor's in Mechanical Engineering, the Integrative Ski Design and Fabrication Workshop is a hive of activity....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 654,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +62,23 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.68,
+      "avg_word_length": 4.89,
+      "long_word_percentage": 25.99
+    },
+    "semantic_entities": {
+      "locations": [
+        "Chur University",
+        "Mechanical Engineering"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

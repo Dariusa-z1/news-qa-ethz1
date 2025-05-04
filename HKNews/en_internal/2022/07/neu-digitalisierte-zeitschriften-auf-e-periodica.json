@@ -7,14 +7,14 @@
   "named_entities": [
     "Zürcher Student",
     "Zürcher Studentin",
-    "Das Konzept",
     "Catholic Church",
-    "Der Filmberater",
     "Swiss Catholic People",
     "Its Protestant",
     "Zoom-Filmberater",
-    "Der Postheiri",
-    "Alfred Hartmann"
+    "Alfred Hartmann",
+    "Freunde Israels",
+    "Schweizer Judenmission",
+    "Robert Brunner"
   ],
   "topics": [
     "Communication",
@@ -27,20 +27,30 @@
   "keywords": [
     "Issues",
     "Published",
-    "From",
     "Swiss",
-    "Between",
-    "About",
-    "Since"
+    "Since",
+    "Journal",
+    "Publication",
+    "Association"
   ],
-  "summary": "Main article: The ZS was founded in 1923 under the title Zürcher Student ....",
+  "summary": "Main article: The ZS was founded in 1923 under the title Zürcher Student . Switzerland’s oldest student newspaper looks back on an eventful past: it was initially intended as a nationalist publication. In the 1960s, the paper took a sharp left turn and changed its name to Zürcher Studentin , linguistically transitioning from a male student to a female one....",
+  "content_structure": {
+    "paragraph_count": 49,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1577,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -53,6 +63,40 @@
       "Catering",
       "Sustainability",
       "Infrastructure"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.09,
+      "avg_word_length": 5.33,
+      "long_word_percentage": 32.97
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zürcher Student",
+        "Switzerland"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Swiss German",
+        "Berner Geographischen Mitteilungen",
+        "Schweizerdeutsch",
+        "German",
+        "Switzerland"
+      ],
+      "departments": [
+        "The Zürcher",
+        "Interreligiösen Dialog discontinued the journal"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1923",
+          "1960"
+        ]
+      }
+    }
   }
 }

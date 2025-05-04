@@ -1,20 +1,15 @@
 {
   "language": "de",
   "title": "Im treppenartigen Neubau vor dem HCI entstehen 155 Räume, die 260 Personen Platz bieten. Darüber hinaus verfügt das 200 Meter lange Gebäude über Sitzungszimmer und Seminarräume für 190 Personen. Für Studierende stehen zwei Arbeitsräume mit 50 Arbeitsplatzen mit Aufwärmküche, Kaffee-Ecke und Aussensitzplätzen zur Verfügung. Bereits im Herbst 2015 zieht das Departement Materialwissenschaft (D-MATL) in den Neubau. Die Zufahrt zur Baustelle erfolgt über den Leopold-Ruzicka-Weg entlang des HCI. Später dient sie als Anlieferweg für das HCP. Mit dem HCP schafft die ETH für Lehre und Forschung dringend benötigten Raum. Nach der Fertigstellung können auch viele Laboratorien (PDF, 411 KB) im HCI, die heute als Büro dienen, wieder für die Forschung freigegeben werden.",
-  "date": "2013-11-01",
+  "date": "2015-11-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Im treppenartigen Neubau vor dem HCI entstehen 155 Räume, die 260 Personen Platz bieten. Darüber hinaus verfügt das 200 Meter lange Gebäude über Sitzungszimmer und Seminarräume für 190 Personen. Für Studierende stehen zwei Arbeitsräume mit 50 Arbeitsplatzen mit Aufwärmküche, Kaffee-Ecke und Aussensitzplätzen zur Verfügung. Bereits im Herbst 2015 zieht das Departement Materialwissenschaft (D-MATL) in den Neubau. Die Zufahrt zur Baustelle erfolgt über den Leopold-Ruzicka-Weg entlang des HCI. Später dient sie als Anlieferweg für das HCP. Mit dem HCP schafft die ETH für Lehre und Forschung dringend benötigten Raum. Nach der Fertigstellung können auch viele Laboratorien (PDF, 411 KB) im HCI, die heute als Büro dienen, wieder für die Forschung freigegeben werden.",
   "named_entities": [
     "Personen Platz",
-    "Für Studierende",
     "Kaffee-Ecke",
     "Departement Materialwissenschaft",
-    "Die Zufahrt",
     "Leopold-Ruzicka-Weg",
-    "Neubau",
-    "Räume",
-    "Meter",
-    "Gebäude"
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -25,20 +20,30 @@
   "keywords": [
     "Research",
     "Building",
+    "Students",
     "ETH Zurich",
     "University",
     "Science",
-    "Campus",
-    "Education"
+    "Campus"
   ],
-  "summary": "Im treppenartigen Neubau vor dem HCI entstehen 155 Räume, die 260 Personen Platz bieten. Darüber hinaus verfügt das 200 Meter lange Gebäude über Sitzungszimmer und Seminarräume für 190 Personen....",
+  "summary": "Im treppenartigen Neubau vor dem HCI entstehen 155 Räume, die 260 Personen Platz bieten. Darüber hinaus verfügt das 200 Meter lange Gebäude über Sitzungszimmer und Seminarräume für 190 Personen. Für Studierende stehen zwei Arbeitsräume mit 50 Arbeitsplatzen mit Aufwärmküche, Kaffee-Ecke und Aussensitzplätzen zur Verfügung....",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 115,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -48,6 +53,33 @@
       "Research",
       "Education",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.38,
+      "avg_word_length": 5.53,
+      "long_word_percentage": 28.7
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Neubau",
+        "Personen Platz",
+        "Darüber"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "zieht das"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015"
+        ]
+      }
+    }
   }
 }

@@ -1,16 +1,12 @@
 {
   "language": "en",
   "title": "Then why not pay us a visit at the ETH-Bibliothek stand and talk to our experts?",
-  "date": "2014-11-01",
+  "date": "2000-11-01",
   "source": "ETH Zurich, University Communications",
   "main_content": "Then why not pay us a visit at the ETH-Bibliothek stand and talk to our experts?\n\nWhen: 11.00 to 13.00 Where: ETH Zurich's main building, foyer\n\nMore information is available in the programme",
   "named_entities": [
-    "Then",
-    "Bibliothek",
-    "Where",
-    "Zurich",
-    "More",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Infrastructure",
@@ -26,13 +22,23 @@
     "Experts"
   ],
   "summary": "Then why not pay us a visit at the ETH-Bibliothek stand and talk to our experts? When: 11.00 to 13.00 Where: ETH Zurich's main building, foyer\n\nMore information is available in the programme...",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 37,
     "readability_score": "easy to read",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -40,6 +46,20 @@
     "context_tags": [
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 9.25,
+      "avg_word_length": 4.03,
+      "long_word_percentage": 16.22
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

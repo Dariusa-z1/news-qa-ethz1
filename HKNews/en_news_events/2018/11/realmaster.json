@@ -8,13 +8,8 @@
     "Rainer Borer",
     "Corporate Communications",
     "Academic Motorsports Club Zurich",
-    "The Master",
-    "Addressing",
-    "Switzerland",
-    "Head",
-    "Which",
-    "ANYmal",
-    "LUSETH"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Campus Life",
@@ -31,16 +26,26 @@
     "Zurich",
     "Will",
     "Hiphop",
-    "This"
+    "Clip"
   ],
-  "summary": "Addressing the right students: ETH Zurich wants to attract the most talented students in the world. But the three letters \"ETH\" aren’t as well known the globe over as in Switzerland....",
+  "summary": "Addressing the right students: ETH Zurich wants to attract the most talented students in the world. But the three letters \"ETH\" aren’t as well known the globe over as in Switzerland. So now there’s a new hip-hop video out to catch the attention of those young people....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 379,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students"
     ],
@@ -49,6 +54,23 @@
       "Communications",
       "Events",
       "Weather"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.95,
+      "avg_word_length": 4.45,
+      "long_word_percentage": 17.41
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland",
+        "German"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -8,13 +8,13 @@
     "Als Hörerin",
     "Seite Asylstatistik",
     "Ihrer Heimat",
-    "Die Flüchtlinge",
     "Seite Niveau",
     "Region Zürich",
     "Seite Aufenthaltsbewilligung",
     "Als Hörerinnen",
     "International Student Support",
-    "Schweizerischen Studierendenschaften"
+    "Schweizerischen Studierendenschaften",
+    "Weitere Informationen"
   ],
   "topics": [
     "Education",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Als Hörerin an die ETH: Das «Schnuppersemester für Flüchtlinge» richtet sich an Asylsuchende und Flüchtlinge aus Krisenregionen wie Syrien, Afghanistan oder Eritrea (vgl....",
+  "summary": "Als Hörerin an die ETH: Das «Schnuppersemester für Flüchtlinge» richtet sich an Asylsuchende und Flüchtlinge aus Krisenregionen wie Syrien, Afghanistan oder Eritrea (vgl. aktuelle externe Seite Asylstatistik des Staatssekretariats für Migration), die in Ihrer Heimat ein technisch-naturwissenschaftliches Studium angefangen oder abgeschlossen haben....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 310,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "General Public"
@@ -49,6 +59,40 @@
       "Research",
       "Education",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.48,
+      "avg_word_length": 6.59,
+      "long_word_percentage": 39.03
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Als Hörerin",
+        "Schnuppersemester",
+        "Flüchtlinge",
+        "Asylsuchende"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Ihrer Heimat",
+        "Deutsch",
+        "Wohnort",
+        "Semester"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "www.ethz.ch",
+          "vseth.ethz.ch"
+        ],
+        "phones": [
+          "2016"
+        ]
+      }
+    }
   }
 }

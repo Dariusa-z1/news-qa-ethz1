@@ -11,10 +11,7 @@
     "Gunnar Jeschke Professor",
     "Applied Biosciences",
     "Albert Einstein",
-    "Doctoral",
-    "Department",
-    "Engineering",
-    "Illustration"
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -27,20 +24,30 @@
   "keywords": [
     "Their",
     "Political",
-    "With",
     "Scientific",
     "Scientists",
-    "This",
-    "That"
+    "Science",
+    "They",
+    "Politics"
   ],
-  "summary": "For: Nicola Nuti, Doctoral student at the Department of Biosystems Science and Engineering....",
+  "summary": "For: Nicola Nuti, Doctoral student at the Department of Biosystems Science and Engineering. (Illustration: Kornel Stadler)\n\nClimate change and vaccine hesitancy are highly emotional topics rife with controversy. Despite the vast amount of scientific evidence of our changing climate and the safety of COVID-19 vaccines, the debate surrounding them couldn’t be more vicious....",
+  "content_structure": {
+    "paragraph_count": 12,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 741,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -53,6 +60,34 @@
       "Sustainability",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.23,
+      "avg_word_length": 5.06,
+      "long_word_percentage": 30.77
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Nicola Nuti",
+        "Doctoral",
+        "Department",
+        "Biosystems Science"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "Biosystems Science and Engineering",
+        "Chemistry and Applied Biosciences",
+        "Gunnar Jeschke Professor at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

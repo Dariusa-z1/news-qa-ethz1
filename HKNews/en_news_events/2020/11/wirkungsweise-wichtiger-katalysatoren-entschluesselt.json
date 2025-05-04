@@ -1,7 +1,7 @@
 {
   "language": "en",
   "title": "Wirkungsweise Wichtiger Katalysatoren Entschluesselt",
-  "date": "2020-11-01",
+  "date": "2010-10-01",
   "source": "ETH Zurich, University Communications",
   "main_content": "Surface chemistry plays a decisive role: Hydrogen is a key element for achieving sustainable mobility in the future, especially “green” hydrogen produced by splitting water using renewable power. In fuel cells, hydrogen can be used in chemical reactions to generate electrical energy, which in turn can power electric motors. It is also used in the production of synthetic liquid fuels.\n\nThe process of using electricity to split water (electrolysis) involves two reactions that cannot take place independently: the formation of hydrogen at one electrode and oxygen at the other. Chemists call these two partial reactions hydrogen evolution and oxygen evolution. To make the whole process more energy-efficient, scientists are researching the use of new materials that act as catalysts and thus facilitate these partial reactions.\n\n“By far the biggest challenge in developing catalysts for these two partial reactions is the oxygen evolution reaction,” says Javier Pérez-Ramírez, Professor of Catalysis Engineering at ETH Zurich. An international research team led by the Fritz Haber Institute of the Max Planck Society in Berlin and involving the participation of ETH Zurich has now conducted a study that has yielded fundamentally new insights into catalyst materials for this oxygen evolution reaction. The researchers have been able to show that good catalytic performance is driven chiefly by processes that occur on the surface of the catalyst – and not electrochemical processes.\n\n“We studied a special form of catalysis, namely electrocatalysis, and we found that it obeys the known laws of conventional catalytic reactions,” says Guido Zichittella, a scientist in Pérez-Ramírez’s group. This finding is new because scientists previously thought that electrocatalytic reactions are primarily determined by electrochemical processes.\n\nIn their study, the researchers used catalysts made from the material most commonly used today by research labs to carry out this reaction: iridium oxide. ETH professor Pérez-Ramírez and his group produced catalysts with varying degrees of activity, replacing different amounts of catalytically active oxygen atoms with catalytically inactive chlorine atoms. These catalysts enabled the researchers to examine the effects of surface chemistry separately from electrochemistry.\n\nThis new insight could help in the development of higher-performance electrocatalysts and the search for new, cheaper catalytic materials, paving the way for sustainable, energy-efficient and cost-effective hydrogen production.\n\nThis research work was undertaken by researchers from the Fritz Haber Institute of the Max Planck Society, the Technische Universität Berlin, the Max Planck Institute for Chemical Energy Conversion, ETH Zurich and the Istituto officina dei materiali in Trieste.\n\nLiteraturhinweis: Nong HN et al.: Key role of chemistry versus bias in electrocatalytic oxygen evolution. Nature, October 18 2020, doi: 10.1038/s41586-020-2908-2\n\nFurther information: Fritz Haber Institute press release",
   "named_entities": [
@@ -12,9 +12,8 @@
     "Technische Universität Berlin",
     "Max Planck Institute",
     "Chemical Energy Conversion",
-    "Surface",
-    "Hydrogen",
-    "Javier"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -26,21 +25,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
     "Hydrogen",
     "Reactions",
     "Oxygen",
     "Evolution",
-    "Catalysts"
+    "Catalysts",
+    "Used"
   ],
-  "summary": "Surface chemistry plays a decisive role: Hydrogen is a key element for achieving sustainable mobility in the future, especially “green” hydrogen produced by splitting water using renewable power....",
+  "summary": "Surface chemistry plays a decisive role: Hydrogen is a key element for achieving sustainable mobility in the future, especially “green” hydrogen produced by splitting water using renewable power. In fuel cells, hydrogen can be used in chemical reactions to generate electrical energy, which in turn can power electric motors....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 446,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +59,38 @@
       "Sustainability",
       "Research",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.3,
+      "avg_word_length": 5.66,
+      "long_word_percentage": 37.22
+    },
+    "citation_info": {
+      "doi": "10.1038/s41586-020-2908-2",
+      "journal": "",
+      "authors": [
+        "Surface",
+        "Hydrogen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Berlin",
+        "Trieste"
+      ],
+      "departments": [
+        "researchers from the Fritz Haber",
+        "Fritz Haber",
+        "led by the Fritz Haber"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "18 2020",
+          "1038"
+        ]
+      }
+    }
   }
 }

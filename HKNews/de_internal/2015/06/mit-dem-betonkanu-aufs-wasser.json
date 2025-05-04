@@ -6,15 +6,13 @@
   "main_content": "Alle zwei Jahre findet in Deutschland eine Betonkanu-Regatta statt, an der Studierende aus ganz Europa mit ihren Bootkonstruktionen gegeneinander antreten. Anknüpfend an ihre Erfolge der letzten beiden Ausgaben haben sich zwei Teams des Instituts für Baustoffe am Departement für Bau, Umwelt und Geomatik (D-BAUG) auch in diesem Jahr hohe Ziele gesteckt.\n\nIn Zusammenarbeit mit der Professur für Architektur und Digitale Fabrikation haben sie ihre Kanus erstmals mithilfe digitaler Fabrikationstechnologien, basierend auf den Forschungsprojekten Smart Dynamic Casting und Mesh Mould, hergestellt und aspirieren damit auf einen ersten Preis in der Kategorie «Konstruktion».\n\nZur Taufe der beiden Betonkanus «Queen ElisamEshTH» und «S2D2» sind ETH-Mitarbeitende herzlich eingeladen. Sie findet am Mittwoch, 17. Juni von 17 bis 18 Uhr beim Teich vor dem HPZ-Gebäude auf dem Campus Hönggerberg statt.",
   "named_entities": [
     "Betonkanu-Regatta",
-    "In Zusammenarbeit",
     "Digitale Fabrikation",
     "Forschungsprojekten Smart Dynamic Casting",
     "Mesh Mould",
     "Zur Taufe",
     "Campus Hönggerberg",
-    "Alle",
-    "Jahre",
-    "Deutschland"
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Infrastructure",
@@ -33,14 +31,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Alle zwei Jahre findet in Deutschland eine Betonkanu-Regatta statt, an der Studierende aus ganz Europa mit ihren Bootkonstruktionen gegeneinander antreten....",
+  "summary": "Alle zwei Jahre findet in Deutschland eine Betonkanu-Regatta statt, an der Studierende aus ganz Europa mit ihren Bootkonstruktionen gegeneinander antreten. Anknüpfend an ihre Erfolge der letzten beiden Ausgaben haben sich zwei Teams des Instituts für Baustoffe am Departement für Bau, Umwelt und Geomatik (D-BAUG) auch in diesem Jahr hohe Ziele gesteckt....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 129,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -51,6 +59,34 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.5,
+      "avg_word_length": 5.79,
+      "long_word_percentage": 31.78
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Deutschland",
+        "Betonkanu",
+        "Regatta"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Deutschland"
+      ],
+      "departments": [
+        "haben sich zwei Teams des",
+        "für Baustoffe am"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

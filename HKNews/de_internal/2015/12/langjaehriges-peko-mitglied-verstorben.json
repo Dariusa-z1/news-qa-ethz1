@@ -6,15 +6,15 @@
   "main_content": "Renate Amatore.\n\nDie Personalkommission der ETH Zürich (PeKo) trauert um ihr Ehrenmitglied Renate Amatore. Sie ist am 27. November 2015 nach langer Krankheit verstorben. Renate Amatore war langjähriges Mitglied der Personalkommission sowie der Hochschulversammlung der ETH Zürich.\n\nDie Abdankungsfeier hat am Freitag, 11. Dezember 2015 in der reformierten Kirche Unterdorf, Affoltern Zürich stattgefunden.\n\nMit dem Tod von Renate Amatore verliert die PeKo ein wertvolles und engagiertes Mitglied, welches die PeKo mit ihrem unermüdlichen Einsatz für das Personal an der ETH jahrelang geprägt hat. Renate Amatore gehörte ab 2008 dem Ausschuss der Personalkommission an und bekleidete ab 2009 bis zu ihrer Pensionierung im Jahre 2013 das Amt der Vizepräsidentin. Mit ihrer ruhigen und bedachten Art setzte sie sich auch seit 2005 in der Hochschulversammlung für die Belange des Personals ein.\n\nNeben Ihrer ehrenamtlichen Tätigkeit, war sie für die Führung des Sekretariats von Thomas Vogel, Professor für Baustatik und Konstruktion am gleichnamigen Institut der ETH Zürich, verantwortlich. Seit Ihrer Pensionierung war Renate Amatore Ehrenmitglied der PeKo.",
   "named_entities": [
     "Renate Amatore",
-    "Die Personalkommission",
     "Ehrenmitglied Renate Amatore",
-    "Die Abdankungsfeier",
     "Kirche Unterdorf",
     "Affoltern Zürich",
     "Neben Ihrer",
     "Thomas Vogel",
     "Seit Ihrer Pensionierung",
-    "Renate Amatore Ehrenmitglied"
+    "Renate Amatore Ehrenmitglied",
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -29,19 +29,48 @@
     "Education"
   ],
   "summary": "Renate Amatore. Die Personalkommission der ETH Zürich (PeKo) trauert um ihr Ehrenmitglied Renate Amatore. Sie ist am 27. November 2015 nach langer Krankheit verstorben....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 164,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff",
       "Faculty"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.67,
+      "avg_word_length": 5.9,
+      "long_word_percentage": 34.15
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "Baustatik und Konstruktion am gleichnamigen"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "2015"
+        ]
+      }
+    }
   }
 }

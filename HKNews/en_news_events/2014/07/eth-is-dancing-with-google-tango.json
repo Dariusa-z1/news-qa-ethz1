@@ -13,8 +13,8 @@
     "Corporate Relations",
     "Simon Lynen",
     "Computer Science",
-    "Virtual",
-    "Google"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "Device",
-    "This",
-    "With",
-    "That",
-    "Also",
-    "Technology"
+    "Technology",
+    "Data",
+    "Location",
+    "Their",
+    "Real"
   ],
-  "summary": "Virtual and real world combined: A smartphone that can navigate you through a shopping centre and straight to the cereal aisle....",
+  "summary": "Virtual and real world combined: A smartphone that can navigate you through a shopping centre and straight to the cereal aisle. A device that shows us how a sofa we have not yet purchased will actually look in our living room. Technology that can lead the blind much in the way that guide dogs do today....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 903,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -53,6 +63,36 @@
       "Technology",
       "Research",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.02,
+      "avg_word_length": 4.97,
+      "long_word_percentage": 28.46
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the Department of Computer Science",
+      "authors": [
+        "Virtual",
+        "Technology",
+        "Google",
+        "Marc Pollefeys"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Siegwart",
+        "Project Tango"
+      ],
+      "departments": [
+        "professor in the",
+        "Computer Science"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

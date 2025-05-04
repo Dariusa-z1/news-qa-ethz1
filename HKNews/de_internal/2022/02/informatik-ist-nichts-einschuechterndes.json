@@ -7,9 +7,7 @@
   "named_entities": [
     "Seite Informatiktagen",
     "Lesen Sie",
-    "Departements Informatik",
-    "Besucher",
-    "Artikel"
+    "Departements Informatik"
   ],
   "topics": [
     "University News"
@@ -23,19 +21,47 @@
     "Education"
   ],
   "summary": "Was erwartet Besucher:innen an den externe Seite Informatiktagen 2022 ? Lesen Sie mehr dazu im aktuellen Artikel des Departements Informatik.",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 20,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "University News"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 10.0,
+      "avg_word_length": 5.95,
+      "long_word_percentage": 40.0
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "dazu im aktuellen Artikel des"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2022"
+        ]
+      }
+    }
   }
 }

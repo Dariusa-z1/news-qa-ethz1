@@ -7,12 +7,8 @@
   "named_entities": [
     "Google Drive",
     "Acceptable Use Policy",
-    "Zurich",
-    "Services",
-    "Dropbox",
-    "Android",
-    "Telematics",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -25,19 +21,29 @@
     "ETH Zurich",
     "Data",
     "Services",
-    "With",
-    "This",
     "Zurich",
-    "Polybox"
+    "Polybox",
+    "Other",
+    "Does"
   ],
-  "summary": "This service is provided by the ETH Zurich IT Services to all ETH members free of charge....",
+  "summary": "This service is provided by the ETH Zurich IT Services to all ETH members free of charge. The advantage of polybox over other services like Dropbox or Google Drive: polybox does not outsource any data, rather it stores them on the ETH campus. With this in-house solution, controllability is guaranteed, whereas the IT Services cannot guarantee the security of externally stored data....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 173,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -47,6 +53,29 @@
       "Research",
       "Administrative",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.22,
+      "avg_word_length": 5.23,
+      "long_word_percentage": 31.79
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zurich",
+        "Services",
+        "Dropbox"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

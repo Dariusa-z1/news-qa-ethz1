@@ -7,14 +7,14 @@
   "named_entities": [
     "British Captain James Cook",
     "Red Sea",
-    "The Red Sea",
     "What Cook",
     "Roman Stocker",
     "Ulrike Pfreundt",
     "Environmental Engineering",
     "Jonasz Slomka",
     "Zurich Postdoctoral Fellowship",
-    "Professor Stocker"
+    "Professor Stocker",
+    "ETH Zurich"
   ],
   "topics": [
     "Research",
@@ -29,18 +29,28 @@
     "Aggregates",
     "Trichodesmium",
     "Their",
-    "That",
     "Filaments",
-    "They"
+    "They",
+    "Ocean"
   ],
-  "summary": "In brief: • Trichodesmium is a nitrogen-fixing bacterium in the ocean that can form aggregates of thousands of individuals....",
+  "summary": "In brief: • Trichodesmium is a nitrogen-fixing bacterium in the ocean that can form aggregates of thousands of individuals. • These aggregates respond to environmental stimuli by changing their shape, presumably to gain optimal access to light and nutrients....",
+  "content_structure": {
+    "paragraph_count": 23,
+    "bullet_points": 3,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1145,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,39 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.45,
+      "avg_word_length": 5.46,
+      "long_word_percentage": 33.8
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "a study published in the journal Science",
+      "authors": [
+        "Trichodesmium",
+        "Zurich",
+        "Because"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Cook",
+        "Trichodesmium",
+        "Stocker",
+        "James Cook"
+      ],
+      "departments": [
+        "small team at the",
+        "whose laboratory at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1770"
+        ]
+      }
+    }
   }
 }

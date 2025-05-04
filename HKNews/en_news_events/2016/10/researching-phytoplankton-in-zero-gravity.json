@@ -7,14 +7,8 @@
   "named_entities": [
     "Roman Stocker",
     "Swiss Parabolic Flights",
-    "Focus",
-    "Professor",
-    "Hydromechanics",
-    "Groundwater",
-    "Airbus",
-    "Zero",
-    "Dübendorf",
-    "Saturday"
+    "ETH",
+    "University of Zurich"
   ],
   "topics": [
     "Research",
@@ -26,21 +20,31 @@
   ],
   "keywords": [
     "University of Zurich",
-    "That",
     "Which",
     "Phytoplankton",
     "Migratory",
     "Gravity",
-    "Turbulence"
+    "Turbulence",
+    "Behaviour"
   ],
-  "summary": "",
+  "summary": "Focus on migratory micro-algae: A high-flying and unusual experiment: “We were able to test an important hypothesis: changes in relative gravity, which routinely occur in aquatic environments due to turbulence, have a significant impact on the behaviour of microorganisms,” reports Roman Stocker after the second Swiss zero-g research flight....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 420,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +55,29 @@
       "Sustainability",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 26.25,
+      "avg_word_length": 5.56,
+      "long_word_percentage": 35.0
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Roman Stocker"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Dübendorf"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

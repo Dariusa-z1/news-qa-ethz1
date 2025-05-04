@@ -7,14 +7,8 @@
   "named_entities": [
     "Rafael Ball",
     "Knowledge Portal",
-    "Passion",
-    "February",
-    "Sonntag",
-    "Bibliothek",
-    "Zurich",
-    "Swiss",
-    "Which",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -28,19 +22,29 @@
     "ETH Zurich",
     "Printed",
     "Digital",
-    "This",
     "Will",
-    "That",
-    "Content"
+    "Content",
+    "Library",
+    "Cultural"
   ],
-  "summary": "Passion can enliven any debate, but it sometimes comes at the expense of more important elements, even when the intentions are good....",
+  "summary": "Passion can enliven any debate, but it sometimes comes at the expense of more important elements, even when the intentions are good. In the 7 February 2016 edition of NZZ am Sonntag, ETH-Bibliothek director Rafael Ball expressed himself pointedly on the library’s future – perhaps too pointedly, as he was to learn quite painfully....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 659,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -50,6 +54,35 @@
       "Catering",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.31,
+      "avg_word_length": 4.95,
+      "long_word_percentage": 31.41
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Passion",
+        "February",
+        "Sonntag",
+        "Bibliothek"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Swiss"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016",
+          "2015"
+        ]
+      }
+    }
   }
 }

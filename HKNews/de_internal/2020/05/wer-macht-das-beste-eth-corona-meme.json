@@ -5,16 +5,11 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Das Arbeiten und Studieren in den eigenen vier Wänden bringt viele Herausforderungen mit sich. Doch so beschwerlich und ungewohnt die derzeitige Situation auch sein mag, mit ein wenig Humor lässt sich Vieles einfacher meistern.\n\nWir alle kennen die Internet-Memes, die uns durch eine Kombination von aussagekräftigen Motiven und Texten zum Schmunzeln bringen. Für die neue Ausgabe des «life»-Magazins sind wir nun auf der Suche nach den besten ETH-Corona-Memes. Lassen Sie Ihrer Kreativität freien Lauf und schicken Sie Ihr Meme an oder posten Sie es auf Instagram mit dem Hashtag #ethzmemes.",
   "named_entities": [
-    "Das Arbeiten",
     "Internet-Memes",
     "Corona-Memes",
     "Lassen Sie Ihrer Kreativität",
     "Sie Ihr Meme",
-    "Studieren",
-    "Wänden",
-    "Herausforderungen",
-    "Situation",
-    "Humor"
+    "ETH"
   ],
   "topics": [
     "COVID-19",
@@ -29,14 +24,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Das Arbeiten und Studieren in den eigenen vier Wänden bringt viele Herausforderungen mit sich....",
+  "summary": "Das Arbeiten und Studieren in den eigenen vier Wänden bringt viele Herausforderungen mit sich. Doch so beschwerlich und ungewohnt die derzeitige Situation auch sein mag, mit ein wenig Humor lässt sich Vieles einfacher meistern. Wir alle kennen die Internet-Memes, die uns durch eine Kombination von aussagekräftigen Motiven und Texten zum Schmunzeln bringen....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 94,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff"
@@ -45,6 +50,30 @@
       "COVID-19",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.8,
+      "avg_word_length": 5.19,
+      "long_word_percentage": 24.47
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Das Arbeiten",
+        "Studieren",
+        "Wänden",
+        "Herausforderungen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

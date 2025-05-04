@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Neue Rahmenbedingungen für Cloud-Dienste: • Öffentliche Informationen sind – wie’s der Name schon sagt – prinzipiell für alle zugänglich. Also auch für Personen, die nicht der ETH Zürich angehören....",
+  "summary": "Neue Rahmenbedingungen für Cloud-Dienste: • Öffentliche Informationen sind – wie’s der Name schon sagt – prinzipiell für alle zugänglich. Also auch für Personen, die nicht der ETH Zürich angehören. • (ETH)-interne Informationen sind nur für ETH-Angehörige bestimmt....",
+  "content_structure": {
+    "paragraph_count": 17,
+    "bullet_points": 8,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 882,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Policy Update",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,37 @@
       "Technology",
       "Research",
       "Communications"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.0,
+      "avg_word_length": 6.49,
+      "long_word_percentage": 36.28
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Neue Rahmenbedingungen",
+        "Dienste",
+        "Informationen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Abschnitt",
+        "Cloud-Dienste"
+      ],
+      "departments": [
+        "mit diversen anderen Forschungseinrichtungen oder"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2021",
+          "2023"
+        ]
+      }
+    }
   }
 }

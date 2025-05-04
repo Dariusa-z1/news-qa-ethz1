@@ -32,14 +32,24 @@
     "Science",
     "Education"
   ],
-  "summary": "",
+  "summary": "Main article: Konkret bietet der neue Online-Dienst Hilfe und Orientierung zu:\n\n• Warentransport: Transporte planen, koordinieren und durchführen\n• Post: Distribution interner und externer Post\n• Lager: Waren-Ein- und Auslagerung\n• Verbrauchsmaterial: Fragen zum Verbrauchsmaterial und Recycling\n• Parken an der ETH: Parkmöglichkeiten, -preise und Antragsformulare\n• ETH-Fahrzeuge: Fahrzeugunterhalt und Treibstoffmanagement\nDas externe Seite Logistik-Helpcenter vereint alle relevanten Online-Formulare, Dokumente und Merkblätter zu den Logistikangeboten von Campus Services....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 10,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 253,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff"
     ],
@@ -47,6 +57,22 @@
       "Financial",
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.0,
+      "avg_word_length": 6.81,
+      "long_word_percentage": 44.66
+    },
+    "semantic_entities": {
+      "locations": [
+        "Stichwort"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

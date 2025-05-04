@@ -6,12 +6,8 @@
   "main_content": "A maximum of EUR 2,000 for articles, book chapters and conference papers, and EUR 6,000 for monographs can be applied for subject to the following conditions:\n\n• The FP7 project ended on 1 January 2013 or later\n• The publication costs are incurred after the completion of the project\nWe especially recommend this funding option for open-access books and open-access journals with which ETH-Bibliothek does not have an agreement on the funding of publication fees , such asNature CommunicationsorScientific Reports.\n\nETH-Bibliothek's takes care of the application process for members of ETH Zurich.\n\nFP7 post-grant Open Access Pilot",
   "named_entities": [
     "Open Access Pilot",
-    "January",
-    "Bibliothek",
-    "CommunicationsorScientific",
-    "Reports",
-    "Zurich",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -26,16 +22,26 @@
     "Funding",
     "Openaccess",
     "Maximum",
-    "2000"
+    "Articles"
   ],
-  "summary": "",
+  "summary": "A maximum of EUR 2,000 for articles, book chapters and conference papers, and EUR 6,000 for monographs can be applied for subject to the following conditions:\n\n• The FP7 project ended on 1 January 2013 or later\n• The publication costs are incurred after the completion of the project\nWe especially recommend this funding option for open-access books and open-access journals with which ETH-Bibliothek does not have an agreement on the funding of publication fees , such asNature CommunicationsorScientific Reports....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 2,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 102,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "General Public"
     ],
@@ -44,6 +50,37 @@
       "Technology",
       "Communications",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 34.0,
+      "avg_word_length": 5.06,
+      "long_word_percentage": 29.41
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "January",
+        "Bibliothek"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "1 January 2013"
+      ],
+      "time_references": [],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2013"
+        ]
+      }
+    }
   }
 }

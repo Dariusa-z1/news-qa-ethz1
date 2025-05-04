@@ -1,7 +1,7 @@
 {
   "language": "en",
   "title": "Laboratory experiments today tend to be wasteful. For example, in order to conduct diagnostic tests, liquids are mixed together in reaction vessels when all this task requires is a few nanolitres of liquids. With miniaturisation, it would be possible to have a higher throughput with less consumption of materials. When attempting to compress an entire experiment into the size of a chip, known as 'Lab on a Chip', there is one key question: how can minuscule amounts of liquid or individual cells be moved, merged and assessed in a controlled way?",
-  "date": "2015-06-01",
+  "date": "2010-10-01",
   "source": "ETH Zurich, University Communications",
   "main_content": "Main article: Laboratory experiments today tend to be wasteful. For example, in order to conduct diagnostic tests, liquids are mixed together in reaction vessels when all this task requires is a few nanolitres of liquids. With miniaturisation, it would be possible to have a higher throughput with less consumption of materials. When attempting to compress an entire experiment into the size of a chip, known as 'Lab on a Chip', there is one key question: how can minuscule amounts of liquid or individual cells be moved, merged and assessed in a controlled way?\n\nIvo Leibacher and Peter Reichert, doctoral students at the Institute of Mechanical Systems, developed a system to move tiny droplets under the guidance of ETH Professor Jürg Dual. The concept is based on acoustophoresis, which uses a ultrasonic standing wave to move aqueous droplets through a carrier liquid of oil on a silicon-glass chip. The droplets, which have a diameter of 50 to 250 micrometres, cannot mix with the carrier liquid, nor can they evaporate. “On this scale, the droplets are very stable because they are held together by the surface tension,” Leibacher explains.\n\nToward the node: When the ultrasonic standing waves are applied, the droplets move to the node of the wave. This means researchers can place two different droplets in both sides of the channel to merge them in a controlled manner. Changing the frequency, on the other hand, guides targeted drops with, for example, a light signal into a branched-off channel. By separating them in this way, they can be sorted and analysed after the conclusion of the experiment.\n\n\"One of the advantages of our technology is its high biocompatibility and versatility,\" says Reichert. Previous methods in which researchers manipulated individual cells on a tiny scale resulted in cases of cells being damaged. This method can be used for cells as well as for DNA, reagents and chemicals.\n\n\"We hope this technology will become a valuable part of laboratory equipment, allowing for experiments in high throughput with minimal consumption,\" said Leibacher. The researchers have filed a patent application for the method, which has been recently published in the Lab on a Chip journal.\n\nLiterature reference: Leibacher, I., Reichert, P., & Dual, J. (2015). Microfluidic droplet handling by bulk acoustic wave (BAW) acoustophoresis. Lab on a Chip, DOI: 10.1039/C5LC00083A",
   "named_entities": [
@@ -9,12 +9,8 @@
     "Peter Reichert",
     "Mechanical Systems",
     "Professor Jürg Dual",
-    "Main",
-    "Laboratory",
-    "Chip",
-    "Institute",
-    "When",
-    "ETH"
+    "ETH",
+    "Jürg Dual"
   ],
   "topics": [
     "Technology & Innovation",
@@ -24,22 +20,32 @@
     "Communication"
   ],
   "keywords": [
-    "This",
     "Droplets",
-    "With",
     "Chip",
     "Cells",
     "Leibacher",
-    "Which"
+    "Which",
+    "Have",
+    "Liquid"
   ],
-  "summary": "Main article: Laboratory experiments today tend to be wasteful....",
+  "summary": "Main article: Laboratory experiments today tend to be wasteful. For example, in order to conduct diagnostic tests, liquids are mixed together in reaction vessels when all this task requires is a few nanolitres of liquids. With miniaturisation, it would be possible to have a higher throughput with less consumption of materials....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 387,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -50,6 +56,32 @@
       "Research",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.12,
+      "avg_word_length": 5.0,
+      "long_word_percentage": 30.49
+    },
+    "citation_info": {
+      "doi": "10.1039/C5LC00083A",
+      "journal": "",
+      "authors": [
+        "Laboratory"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "doctoral students at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "1039"
+        ]
+      }
+    }
   }
 }

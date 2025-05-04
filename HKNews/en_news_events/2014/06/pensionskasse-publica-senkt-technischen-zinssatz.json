@@ -7,12 +7,8 @@
   "named_entities": [
     "Publica Fund Commission",
     "Although Publica",
-    "The Fund Commission",
-    "January",
-    "December",
-    "Zurich",
-    "July",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Finance",
@@ -26,18 +22,28 @@
     "Will",
     "Rate",
     "Cent",
-    "This",
     "Pension",
-    "Interest"
+    "Interest",
+    "January"
   ],
-  "summary": "As of 1 January 2015, the technical interest rate will be lowered from its current level – 3.5 per cent – to 2.75 per cent....",
+  "summary": "As of 1 January 2015, the technical interest rate will be lowered from its current level – 3.5 per cent – to 2.75 per cent. This decision taken by the Publica Fund Commission also entails an adjustment to the conversion rate. However, the intention is to maintain the current level of pension benefits by building up more provisions and taking other accompanying measures....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 429,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Staff",
       "General Public"
@@ -47,6 +53,23 @@
       "Infrastructure",
       "Technology",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.32,
+      "avg_word_length": 4.66,
+      "long_word_percentage": 27.04
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "2014"
+        ]
+      }
+    }
   }
 }

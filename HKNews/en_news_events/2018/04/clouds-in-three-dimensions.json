@@ -8,13 +8,7 @@
     "Markus Gross",
     "Tobias Günther",
     "Scientific Visualization Contest",
-    "Three",
-    "Visualisation",
-    "Rimensberger",
-    "IEEE",
-    "April",
-    "Germany",
-    "Frankfurt"
+    "ETH"
   ],
   "topics": [
     "Weather & Environment",
@@ -25,22 +19,32 @@
     "International"
   ],
   "keywords": [
-    "That",
     "Cloud",
     "Weather",
     "Visualisations",
     "Visualisation",
     "Data",
-    "Computer"
+    "Computer",
+    "Clouds"
   ],
-  "summary": "Three-dimensional cloud visualisation: Visualisation plays a huge role in the study of weather data, such as temperature, air pressure and the cloud water content of the atmosphere....",
+  "summary": "Three-dimensional cloud visualisation: Visualisation plays a huge role in the study of weather data, such as temperature, air pressure and the cloud water content of the atmosphere. Displaying this data graphically is quite natural, since it has clear spatial reference points and is very simple to superimpose on maps....",
+  "content_structure": {
+    "paragraph_count": 15,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 768,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +56,42 @@
       "Research",
       "Events",
       "Weather"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.21,
+      "avg_word_length": 5.43,
+      "long_word_percentage": 33.33
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Visualisation",
+        "Displaying"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "00 researchers"
+      ],
+      "time_references": [],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Munich",
+        "Frankfurt",
+        "Tobias Günther",
+        "Gross"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2013"
+        ]
+      }
+    }
   }
 }

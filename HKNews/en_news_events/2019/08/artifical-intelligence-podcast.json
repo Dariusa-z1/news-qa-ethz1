@@ -12,9 +12,8 @@
     "Science Days",
     "Science Fiction",
     "Science Facts",
-    "Grewe",
-    "Scientifica",
-    "University"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -28,16 +27,26 @@
     "Artificial",
     "Human",
     "Talk",
-    "About"
+    "Fiction"
   ],
-  "summary": "Artificial Intelligence and Machine Learning make us look at human intelligence in a new light....",
+  "summary": "Artificial Intelligence and Machine Learning make us look at human intelligence in a new light. In the podcast, we talk to the ETH professors Ben­jamin Grewe, Simone Schürle, and Thomas Hofmann about the advantages and the dangers of Artificial Intelligence....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 99,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Faculty",
@@ -47,6 +56,30 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.8,
+      "avg_word_length": 4.89,
+      "long_word_percentage": 27.27
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Artificial Intelligence",
+        "Machine Learning"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Grewe"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

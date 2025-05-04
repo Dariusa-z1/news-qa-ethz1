@@ -1,20 +1,20 @@
 {
   "language": "de",
   "title": "Neuer Standort Im Eth Hauptgebaeude",
-  "date": "2022-09-01",
+  "date": "2016-09-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Ausstellungseröffnung im kommenden Jahr: Das Thomas-Mann-Archiv ist ab sofort im ETH-Hauptgebäude zu finden. Benutzerinnen und Benutzer profitieren von einer besseren Erreichbarkeit und von der professionell ausgestatteten Infrastruktur des Lesesaals Sammlungen und Archive der ETH-Bibliothek.\n\nMit dem Umzug ins Hauptgebäude verlässt das Thomas-Mann-Archiv den provisorischen Standort am Hönggerberg, der seit 2016 bestand, und kehrt zu seinen Ursprüngen zurück: Bereits ab der Gründung im Jahr 1956 befand sich das Archiv übergangsweise im ETH-Hauptgebäude, bevor es 1961 ins nahegelegene Bodmerhaus zog.\n\nAufgrund der Standortverlegung bleibt die Dauerausstellung von Thomas Manns Arbeitszimmer und seiner privaten Bibliothek vorübergehend geschlossen. Am 28. Februar 2023 werden eine neugestaltete Dauerausstellung sowie die Sonderausstellung «Thomas Mann. Achtung Europa!» im Hauptgebäude eröffnet.\n\nSie haben Fragen?: Für Auskünfte zum Archiv und zu einzelnen Sammlungsobjekten sowie für die Unterstützung bei Ihrer Recherche wenden Sie sich gerne per E-​Mail an das Thomas-​Mann-Archiv:\n\nDas Thomas-​Mann-Archiv der ETH Zürich sichert und pflegt den literarischen und schriftlichen Nachlass, die private Bibliothek sowie die Einrichtung des letzten Arbeitszimmers Thomas Manns. Betrieben durch die ETH-​Bibliothek, dient das Archiv als Forschungsstelle zu Leben, Werk und Wirken des Autors.\n\n#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel.\n\nRaum für mehr – Vielfalt und Austausch erleben",
   "named_entities": [
-    "Das Thomas-Mann-Archiv",
     "Lesesaals Sammlungen",
     "Thomas-Mann-Archiv",
     "Thomas Manns Arbeitszimmer",
     "Thomas Mann",
     "Achtung Europa",
-    "Für Auskünfte",
     "Ihrer Recherche",
     "Mann-Archiv",
-    "Das Thomas"
+    "Arbeitszimmers Thomas Manns",
+    "Ihrem Ziel",
+    "ETH Zürich"
   ],
   "topics": [
     "Infrastructure",
@@ -31,14 +31,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Ausstellungseröffnung im kommenden Jahr: Das Thomas-Mann-Archiv ist ab sofort im ETH-Hauptgebäude zu finden....",
+  "summary": "Ausstellungseröffnung im kommenden Jahr: Das Thomas-Mann-Archiv ist ab sofort im ETH-Hauptgebäude zu finden. Benutzerinnen und Benutzer profitieren von einer besseren Erreichbarkeit und von der professionell ausgestatteten Infrastruktur des Lesesaals Sammlungen und Archive der ETH-Bibliothek....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 213,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -46,6 +56,32 @@
       "Infrastructure",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.38,
+      "avg_word_length": 6.04,
+      "long_word_percentage": 30.99
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Ausstellungseröffnung",
+        "Das Thomas",
+        "Archiv"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016",
+          "1956"
+        ]
+      }
+    }
   }
 }

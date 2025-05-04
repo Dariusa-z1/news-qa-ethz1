@@ -7,14 +7,7 @@
   "named_entities": [
     "Ihre Bedürfnisse",
     "Besuchen Sie",
-    "Bibliothek",
-    "Wahl",
-    "Kurse",
-    "Referenzen",
-    "Datenbanken",
-    "Literaturverwaltungsprogramm",
-    "Paper",
-    "Programmen"
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -28,20 +21,52 @@
     "Campus",
     "Education"
   ],
-  "summary": "Die ETH-Bibliothek berät Sie gerne in der richtigen Wahl für Ihre Bedürfnisse....",
+  "summary": "Die ETH-Bibliothek berät Sie gerne in der richtigen Wahl für Ihre Bedürfnisse. Besuchen Sie zudem einen unserer Kurse und lernen Sie, wie man Referenzen von Datenbanken in das Literaturverwaltungsprogramm importiert, die Literatur einfach organisiert und Referenzen in das eigene Paper einfügt....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 49,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.33,
+      "avg_word_length": 6.02,
+      "long_word_percentage": 34.69
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Bibliothek",
+        "Ihre Bedürfnisse"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

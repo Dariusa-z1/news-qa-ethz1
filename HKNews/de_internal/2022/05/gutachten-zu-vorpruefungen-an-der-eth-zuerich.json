@@ -7,14 +7,13 @@
   "named_entities": [
     "Ihre Absicht",
     "Gutachter Verbesserungspotenzial",
-    "Die Entscheidungen",
-    "Das Gutachten",
     "Vizepräsident Detlef Günther",
     "Integrität Ende",
     "Diese Kritik",
     "Unser Vizepräsident",
     "Seite Webseite",
-    "Präsident"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "University Administration",
@@ -32,14 +31,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Ende 2020 beantragte ETH-Präsident Joël Mesot den ETH-Rat, mit einem externen Gutachten zu klären, ob sich die ETH Zürich in den letzten Jahren bei den Vorprüfungen an ihre geltende Verfahrensordnung bei Verdacht auf Fehlverhalten in der Forschung gehalten habe....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 554,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -47,6 +56,34 @@
       "Research",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.08,
+      "avg_word_length": 6.42,
+      "long_word_percentage": 37.18
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Präsident Jo",
+        "Gutachten"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Blick",
+        "Kraft"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020",
+          "2021"
+        ]
+      }
+    }
   }
 }

@@ -28,19 +28,29 @@
     "ETH Zurich",
     "Vogel",
     "Engineering",
-    "With",
-    "That",
-    "Also",
-    "Structural"
+    "Structural",
+    "Concrete",
+    "Says",
+    "Professor"
   ],
-  "summary": "A professor with engineering roots: Thomas Vogel does not require much in the way of introductions. Most people at ETH know who he is – and his name is often heard outside the university as well....",
+  "summary": "A professor with engineering roots: Thomas Vogel does not require much in the way of introductions. Most people at ETH know who he is – and his name is often heard outside the university as well. Vogel is a specialist in structural analysis and reinforced concrete structures with a focus on bridge construction....",
+  "content_structure": {
+    "paragraph_count": 21,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1241,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +62,40 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.25,
+      "avg_word_length": 4.79,
+      "long_word_percentage": 24.5
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Thomas Vogel"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Tanzania",
+        "Rheinfelden",
+        "Zurich",
+        "Aarau",
+        "Chur"
+      ],
+      "departments": [
+        "served as Chair of the",
+        "of structural engineering at the",
+        "of Structural Engineering in the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1955",
+          "1980"
+        ]
+      }
+    }
   }
 }

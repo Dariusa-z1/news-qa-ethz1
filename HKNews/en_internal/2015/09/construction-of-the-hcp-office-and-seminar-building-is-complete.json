@@ -8,13 +8,8 @@
     "Leopold-Ruzicka-Weg",
     "Health Sciences",
     "Real Estate",
-    "Between",
-    "Wednesday",
-    "September",
-    "Zurich",
-    "Department",
-    "Materials",
-    "MATL"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -29,18 +24,28 @@
     "Department",
     "Zurich",
     "Building",
-    "This",
     "Space",
-    "Work"
+    "Work",
+    "Spaces"
   ],
   "summary": "Between 11 a.m. and 1 p.m. on Wednesday 16 September, staff and students of ETH Zurich can visit the new building and learn more about it on a guided tour....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 146,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff",
@@ -51,6 +56,34 @@
       "Technology",
       "Research",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.27,
+      "avg_word_length": 4.88,
+      "long_word_percentage": 26.71
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Between",
+        "Wednesday",
+        "September",
+        "Zurich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "of Microbiology of the",
+        "Weg provides space for the",
+        "Biology"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -8,13 +8,9 @@
     "Abteilung Sicherheit",
     "Bruno Meni",
     "Fachstelle Elektro",
-    "Die Fachstelle Elektro",
-    "Die Prüfenden",
     "Kleinere Mängel",
     "Eigene Prüfung",
-    "Die Prüfung",
-    "Mitarbeit",
-    "Lötkolben"
+    "ETH"
   ],
   "topics": [
     "Education",
@@ -32,14 +28,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Mitarbeit ist gefragt: Lötkolben, Magnetrührer oder Zentrifugen: Insbesondere in Laboren und Werkstätten stehen viele elektrischen Geräte, darunter manche Eigenbauten von Forschungsgruppen....",
+  "summary": "Mitarbeit ist gefragt: Lötkolben, Magnetrührer oder Zentrifugen: Insbesondere in Laboren und Werkstätten stehen viele elektrischen Geräte, darunter manche Eigenbauten von Forschungsgruppen. Hinzu kommen Geräte in den Büros, die am Stromnetz hängen. Auch wenn diese Geräte im Alltag tadellos funktionieren, kann von ihnen eine potenzielle Gefahr ausgehen....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 328,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Researchers"
@@ -49,6 +55,35 @@
       "Infrastructure",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.91,
+      "avg_word_length": 5.95,
+      "long_word_percentage": 34.45
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Mitarbeit",
+        "Lötkolben",
+        "Magnetrührer",
+        "Zentrifugen",
+        "Insbesondere"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Reiseadapter",
+        "Laboren",
+        "Gerät"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

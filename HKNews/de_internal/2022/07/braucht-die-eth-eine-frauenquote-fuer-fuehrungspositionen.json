@@ -10,11 +10,11 @@
     "Schweizer Universitäten",
     "Equality Monitoring",
     "Leaky Pipeline",
-    "Der Anteil",
     "Dieses Phänomen",
-    "Die Einführung",
-    "Eine Frauenquote",
-    "Frauen Mut"
+    "Frauen Mut",
+    "Stephanie Habicht",
+    "Informatikdiensten Wenn",
+    "Dieser Artikel"
   ],
   "topics": [
     "Staff",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Pro: Annegret Kern, Mitarbeiterin im Stab Präsident\n\nSeit vielen Jahren sind die ETH und andere Schweizer Universitäten darum bemüht, den Frauenanteil bei ihren Führungspositionen zu erhöhen....",
+  "summary": "Pro: Annegret Kern, Mitarbeiterin im Stab Präsident\n\nSeit vielen Jahren sind die ETH und andere Schweizer Universitäten darum bemüht, den Frauenanteil bei ihren Führungspositionen zu erhöhen. Laut dem jährlich durchgeführten Equality Monitoring der ETH stieg der Frauenanteil bei den Professuren zwischen 2020 und 2021 allerdings lediglich von 16,3 auf 18 Prozent....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 2,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 692,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -48,6 +58,25 @@
       "Education",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.74,
+      "avg_word_length": 5.97,
+      "long_word_percentage": 32.95
+    },
+    "semantic_entities": {
+      "locations": [
+        "Führungspositionen"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020",
+          "2021"
+        ]
+      }
+    }
   }
 }

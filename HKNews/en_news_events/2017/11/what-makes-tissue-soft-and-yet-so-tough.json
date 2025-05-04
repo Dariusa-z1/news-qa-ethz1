@@ -13,8 +13,8 @@
     "University Medicine Zurich",
     "Swiss National Science Foundation",
     "University Hospital Zurich",
-    "Stretched",
-    "Professor"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "Tissue",
-    "That",
-    "This",
     "They",
     "Such",
-    "Mazza"
+    "Mazza",
+    "Collagen",
+    "Fibres"
   ],
-  "summary": "Stretched tissue loses volume: In the womb, the unborn child floats in an amniotic sac filled with amniotic fluid. The baby’s smooth development is dependent on this sac remaining intact....",
+  "summary": "Stretched tissue loses volume: In the womb, the unborn child floats in an amniotic sac filled with amniotic fluid. The baby’s smooth development is dependent on this sac remaining intact. However, it is possible for the protective container to tear following interventions such as amniocentesis or foetal surgery – or even spontaneously....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 825,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,33 @@
       "Research",
       "Weather",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.62,
+      "avg_word_length": 5.22,
+      "long_word_percentage": 31.03
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Stretched",
+        "However",
+        "Taking"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Mazza",
+        "University Children",
+        "University Hospital Zurich"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

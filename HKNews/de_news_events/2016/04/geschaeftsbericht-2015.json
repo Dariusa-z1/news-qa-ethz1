@@ -7,14 +7,13 @@
   "named_entities": [
     "Jedes Jahr",
     "International Public Sector Accounting",
-    "Ein Blick",
-    "Die Forscherinnen",
     "Zurich Information Security",
     "Privacy Center",
     "World Food System",
-    "Das Wachstum",
     "Millionen Franken",
-    "Der Geschäftsbericht"
+    "Archiv Geschäftsberichte",
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -32,14 +31,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Wachstum setzt sich fort: Jedes Jahr legt die ETH Zürich zuhanden der Öffentlichkeit Rechenschaft über die erbrachten Leistungen ab....",
+  "summary": "Wachstum setzt sich fort: Jedes Jahr legt die ETH Zürich zuhanden der Öffentlichkeit Rechenschaft über die erbrachten Leistungen ab. Dazu hat sie nun erstmals den neu konzipierten Geschäftsbericht publiziert. Dieser besteht aus einem Lagebericht, der die wichtigsten Ereignisse und Entwicklungen an der Hochschule zusammenfasst, und einer detaillierten Jahresrechnung, die sich an den Vorgaben der «International Public Sector Accounting Standards» (IPSAS) orientiert....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 359,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Researchers",
@@ -50,6 +59,37 @@
       "Catering",
       "Sustainability",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.94,
+      "avg_word_length": 5.88,
+      "long_word_percentage": 32.31
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Wachstum",
+        "Jedes Jahr",
+        "Zürich",
+        "Rechenschaft",
+        "Leistungen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Blick",
+        "Viertel"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "2015"
+        ]
+      }
+    }
   }
 }

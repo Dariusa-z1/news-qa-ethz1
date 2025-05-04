@@ -9,12 +9,9 @@
     "Campus Hönggerberg",
     "Robert-Gnehm-Weg",
     "Zürich Zentrum",
-    "Die Areale",
-    "Rund",
-    "Wildbienenarten",
-    "Schweiz",
-    "Blütenpräferenzen",
-    "Ansprüchen"
+    "ETH Zürich",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Infrastructure",
@@ -30,14 +27,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Rund 600 Wildbienenarten gibt es in der Schweiz. Diese unterscheiden sich stark in ihren Blütenpräferenzen und Ansprüchen für Niststrukturen....",
+  "summary": "Rund 600 Wildbienenarten gibt es in der Schweiz. Diese unterscheiden sich stark in ihren Blütenpräferenzen und Ansprüchen für Niststrukturen. Nisten die einen etwa in morschem Totholz oder sandigem Boden, hausen andere Bienen wiederum gerne in leeren Schneckenhäusern....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 119,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -45,6 +52,20 @@
     "context_tags": [
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.0,
+      "avg_word_length": 5.92,
+      "long_word_percentage": 31.93
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

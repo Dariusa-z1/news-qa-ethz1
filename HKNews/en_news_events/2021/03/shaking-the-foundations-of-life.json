@@ -11,10 +11,8 @@
     "Alfred Hofer",
     "Kirsten Bomblies",
     "Plant Evolutionary Genetics",
-    "Success",
-    "Earth",
-    "Myxococcus",
-    "Professor"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Campus Life",
@@ -28,19 +26,29 @@
     "ETH Zurich",
     "Cells",
     "Chromosomes",
-    "That",
-    "With",
     "Evolutionary",
-    "Have"
+    "Have",
+    "Cell",
+    "Polyploid"
   ],
-  "summary": "Success through cooperation: The evolution of life on Earth has taken a long, long time....",
+  "summary": "Success through cooperation: The evolution of life on Earth has taken a long, long time. Protocells – the precursors of today’s unicellular organisms – formed around four billion years ago, eventually evolving into bacteria and archaea. The first eukaryotes emerged two billion years ago, providing the basis for more complex, multicellular organisms....",
+  "content_structure": {
+    "paragraph_count": 15,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 996,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Faculty"
     ],
@@ -49,6 +57,23 @@
       "Catering",
       "Sustainability",
       "Infrastructure"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.33,
+      "avg_word_length": 5.3,
+      "long_word_percentage": 32.43
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "of Evolutionary Biology at the",
+        "Biology"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

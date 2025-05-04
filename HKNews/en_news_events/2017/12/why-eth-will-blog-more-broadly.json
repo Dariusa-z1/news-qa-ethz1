@@ -7,14 +7,13 @@
   "named_entities": [
     "When Christoph Küffer",
     "Worry Barometer",
-    "On Monday",
     "Reto Knutti",
     "Martin Fussenegger",
     "Roland Siegwart",
-    "The Zukunftsblog",
     "Corporate Communications",
     "Science Blog",
-    "Widespread"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -27,20 +26,30 @@
   "keywords": [
     "ETH Zurich",
     "Science",
-    "That",
     "Zukunftsblog",
     "Trust",
     "People",
-    "This"
+    "Will",
+    "Blog"
   ],
-  "summary": "Widespread doubt: We’re living in strange times....",
+  "summary": "Widespread doubt: We’re living in strange times. Scientists worldwide almost unanimously consider climate change to be a real phenomenon, but some of the world’s highest political authorities still doubt its existence or even deny it entirely. Established scientists are derided with impunity from anonymous internet platforms....",
+  "content_structure": {
+    "paragraph_count": 19,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 757,
     "readability_score": "moderately complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -53,6 +62,37 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.02,
+      "avg_word_length": 4.91,
+      "long_word_percentage": 26.42
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Widespread",
+        "Scientists",
+        "Established"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland",
+        "Knutti",
+        "Fussenegger",
+        "Germany"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2018",
+          "2018"
+        ]
+      }
+    }
   }
 }

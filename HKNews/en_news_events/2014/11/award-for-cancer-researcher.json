@@ -11,10 +11,10 @@
     "Radiopharmaceutical Sciences",
     "Paul Scherrer Institute",
     "University Hospital Zurich",
-    "The Ruzicka Prize",
-    "The Scandium",
     "Nobel Prize",
-    "Leopold Ruzicka"
+    "Leopold Ruzicka",
+    "Werner Prize",
+    "Richard Ernst"
   ],
   "topics": [
     "Research",
@@ -28,19 +28,29 @@
     "ETH Zurich",
     "Cancer",
     "Müller",
-    "That",
     "Prize",
     "Used",
-    "Which"
+    "Which",
+    "Field"
   ],
-  "summary": "",
+  "summary": "Appreciation for researcher and field of expertise: The 2014 Ruzicka Prize has been awarded to Cristina Müller, Research Group Leader at the Center for Radiopharmaceutical Sciences at ETH Zurich, the Paul Scherrer Institute (PSI) and University Hospital Zurich....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 775,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -50,6 +60,38 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.53,
+      "avg_word_length": 5.2,
+      "long_word_percentage": 30.97
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Appreciation",
+        "Ruzicka Prize",
+        "Cristina Müller",
+        "Research Group Leader"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Villigen",
+        "Cristina Müller"
+      ],
+      "departments": [
+        "the Paul Scherrer"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2014",
+          "1957"
+        ]
+      }
+    }
   }
 }

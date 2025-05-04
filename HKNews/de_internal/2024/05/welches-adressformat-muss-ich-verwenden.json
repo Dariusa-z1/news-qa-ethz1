@@ -12,9 +12,9 @@
     "Eidgenössische Technische Hochschule Zürich",
     "Swiss Federal Institute",
     "Technology Zurich",
-    "Die Verwendung",
-    "Die Richtlinien",
-    "Integritäts-Richtlinien"
+    "Integritäts-Richtlinien",
+    "Mail-Signatur",
+    "Campus Hönggerberg"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "ETH-Adressformat zur Angabe der institutionellen Zugehörigkeit (bei allen Publikationen zu verwenden): Deutsch Claudia Muster, Institut für Atmosphäre und Klima, ETH Zürich, 8092 Zürich, Schweiz,\n\nEnglisch Claudia Muster, Institute for Atmospheric and Climate Science, ETH Zurich, 8092 Zurich, Switzerland,\n\nBestimmte Bezeichnungen der ETH dürfen für die Adressangabe nicht verwendet werden:: • «ETH Hönggerberg» / «ETH Zentrum»*\n• «Eidgenössische Technische Hochschule Zürich» / «Swiss Federal Institute of Technology Zurich»\n• «ETHZ»\nDie Verwendung des einheitlichen Adressformat ist auch wichtig, damit wissenschaftliche Publikationen der ETH Zürich zugeordnet werden können....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 2,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 1,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 174,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Researchers"
@@ -49,6 +59,39 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 29.0,
+      "avg_word_length": 6.65,
+      "long_word_percentage": 42.53
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Adressformat",
+        "Angabe",
+        "Zugehörigkeit",
+        "Publikationen",
+        "Deutsch Claudia Muster"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Artikel"
+      ],
+      "departments": [
+        "Atmosphäre und Klima",
+        "Swiss Federal"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "8092",
+          "8092"
+        ]
+      }
+    }
   }
 }

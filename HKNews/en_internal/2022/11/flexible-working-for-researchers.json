@@ -7,14 +7,14 @@
   "named_entities": [
     "Paola Picotti",
     "Molecular Systems Biology",
-    "In Picotti",
     "Valentina Cappelletti",
     "Christian Dörig",
     "Applied Sciences",
     "Arts Northwestern Switzerland",
     "Good Practices",
     "Vice President",
-    "Staff Development"
+    "Staff Development",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -27,20 +27,30 @@
   "keywords": [
     "Work",
     "Your",
-    "That",
     "Working",
     "Flexible",
     "More",
-    "Like"
+    "Like",
+    "Group"
   ],
-  "summary": "More diversity at conferences: “I like to work from home on days that are full of virtual meetings or when I need some quiet time to write,” says Paola Picotti, Professor of Molecular Systems Biology....",
+  "summary": "More diversity at conferences: “I like to work from home on days that are full of virtual meetings or when I need some quiet time to write,” says Paola Picotti, Professor of Molecular Systems Biology. Many members of her research group approach work in the same way....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 498,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -54,6 +64,33 @@
       "COVID-19",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.44,
+      "avg_word_length": 4.85,
+      "long_word_percentage": 27.11
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "a survey commissioned by ETH and conducted by the University of Applied Sciences and Arts Northwestern Switzerland (FHNW)",
+      "authors": [
+        "Paola Picotti",
+        "Professor",
+        "Molecular Systems Biology"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Picotti"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2022"
+        ]
+      }
+    }
   }
 }

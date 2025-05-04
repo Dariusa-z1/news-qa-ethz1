@@ -1,7 +1,7 @@
 {
   "language": "en",
   "title": "Mitoribosom",
-  "date": "2014-01-01",
+  "date": "2011-11-01",
   "source": "Greber B, et al. Architecture of the large subunit of the mammalian mitochondrial ribosome. Nature 505, 515–519 (23 January 2014). doi: 10.1038/nature12890",
   "main_content": "Structure determination with obstacles: The ribosome can be thought of as a decryption device housed within the cell. It is able to decipher the genetic code, which is delivered in the form of messenger ribonucleic acid (mRNA), and translate it into a specific sequence of amino acids. The final assembly of amino acids into long protein chains also takes place in these enzyme complexes. Without ribosomes, a cell would be unable to produce any proteins. Due to their central function, these enzyme complexes have long been the focus of attention of biologists.\n\nIn order to obtain a better understanding of ribosomes, which are found in all cells, it is imperative to know their exact composition and structure. Over the past 15 years, Nenad Ban, professor at ETH Zurich, has made a significant contribution to not only the elucidation of the ribosome structure of bacteria, but also of higher organisms, termed eukaryotes, which include fungi, plants and animals (see ETH Life 4.11.11).\n\nUntil now, the molecular structure of the ribosomes found in mitochondria, the power plants of the cell, was still largely unknown. Mitochondrial ribosomes differ considerably from the ‘ordinary’ ribosomes found in the cytoplasm, which are composed of 60% ribonucleic acids (RNA) and 40% protein components. In the case of mitochondrial ribosomes, RNA accounts for just under a third of the entire complex. One reason for this is that the RNA molecules have shortened significantly over the course of evolutionary history. Mitochondrial ribosomes in the cell are primarily localised at the inner membrane of mitochondria and are present within the cell in a far smaller number than the cytoplasmic ribosomes. This makes them more difficult to isolate, hampering progress of research in the field.\n\nA team of researchers from the ETH research groups of Nenad Ban and Ruedi Aebersold have now succeeded in elucidating the structure of the large subunit of the mitochondrial ribosomes from mammalian cells to a resolution of 4.9 angstroms (less than 0.5 nanometres). Such a level of resolution allows, for example, the visualization of individual phosphate groups of the ribosomal RNA. The researchers’ findings were published in the January 23rd issue of Nature as the cover story.\n\nOne of the difficulties encountered was that no usable crystals could be produced from mitochondrial ribosomes in order to determine their structure. Until now, X-ray crystallography, where the molecule is isolated, crystallised and analysed by X-rays, has been the method of choice to examine the structure of large biological molecules at high resolution. The X-rays are deflected by the atoms in the crystal, thereby creating a specific pattern that can be used to calculate the atom positions. However, for such an experiment to succeed, the crystal must be sufficiently big and of high quality. The large subunit of the mitochondrial ribosome is not suitable for this procedure, as its structure is too heterogeneous, and insufficient amounts of material can be extracted for the crystallisation process. “We would have needed hundreds of kilograms of pig liver in order to isolate sufficient quantities of ribosomal material for crystallographic structure analysis; it was logistically impossible to achieve,” says Basil Greber, the lead author of the study and a post-doctoral researcher in Nenad Ban’s group.\n\nThe ETH researchers therefore used the latest generation of high-resolution cryo-electron microscopes, which have only recently become available at the Electron Microscopy Center of ETH Zurich (EMEZ) and from the manufacturer. The researchers captured more than a million images of the large subunit of the mitoribosome and reconstructed its three-dimensional structure by performing complex calculations on a computer cluster.\n\nIn order to interpret the calculated structure as precisely as possible and to determine the exact location of the RNA and protein molecules within the enzyme complex, the researchers used a method derived from Aebersold’s laboratory – a method called ‘chemical cross-linking combined with mass spectrometry’ (see ETH Life 18.9.12). Here, the individual protein components of the ribosome are chemically cross-linked, fragmented into peptides for further analysis, and sequenced in the mass spectrometer. From this data, it is then possible to determine the structure of a protein complex, such as the ribosome and its large subunit. A great deal of computer power is required, however, and so the research team used Brutus, ETH’s high-performance cluster.\n\nThe combination of these methods enabled the researchers to succeed in creating a high-resolution structural model of the large subunit of the mitochondrial ribosome with unprecedented precision.\n\nThanks to their new findings, the researchers can now explain why mitochondrial ribosomes are always located at the membrane of the mitochondrion. In the vicinity of the tunnel exit, through which freshly synthesised proteins leave the ribosome, the biologists were able to localise a protein with similarity to membrane anchor proteins. From this observation, they have been able to conclude that during the course of evolution an anchor protein of this kind was integrated in the ribosome in order to fix it to the mitochondrial membrane, thus allowing the freshly synthesised proteins to be targeted directly to their destination in the membrane. On the basis of this ground-breaking work, the researchers also hope to gain new insights into the functioning and disorders of this important cellular organelle. Defects in the genetic material coding for the components of mitochondria can lead, for example, to muscle diseases and also play a role in cancer. Cancer cells not only require high levels of nutrients in order to grow quickly, but also large amounts of energy. Their energy metabolism therefore is in an unusual state, to which the mitochondria probably also contribute. Ban makes clear, however, that no application-related questions are currently being addressed. “The structure of this ribosome provides an important foundation on which other researchers can build,” he says. The published work was supported by the National Center of Competence in Research (NCCR) Structural Biology of the Swiss National Fund.\n\nMitochondria – the power plants of the cell: Mitochondria originated at the beginning of the evolution of higher organisms (eukaryotes). More than a billion years ago, host cells probably ‘swallowed‘ simple bacteria, which over the course of time developed into mitochondria inside their hosts. They therefore have a ‘life of their own’, with their own genetic material and the molecular machinery to translate the genetic code into proteins. Energy is converted in the mitochondria and stored in the form of high-energy chemical compounds that are available to the cell for all vital processes. However, mitochondria are not only energy suppliers, but also play an important role in multicellular organisms during apoptosis, programmed cell death, which allows defective cells to be eliminated efficiently.",
   "named_entities": [
@@ -12,9 +12,8 @@
     "National Center",
     "Structural Biology",
     "Swiss National Fund",
-    "Structure",
-    "Zurich",
-    "Life"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -33,14 +32,24 @@
     "Their",
     "Mitochondria"
   ],
-  "summary": "Structure determination with obstacles: The ribosome can be thought of as a decryption device housed within the cell....",
+  "summary": "Structure determination with obstacles: The ribosome can be thought of as a decryption device housed within the cell. It is able to decipher the genetic code, which is delivered in the form of messenger ribonucleic acid (mRNA), and translate it into a specific sequence of amino acids....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1114,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +59,32 @@
       "Research",
       "Career",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.28,
+      "avg_word_length": 5.25,
+      "long_word_percentage": 32.59
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the January 23rd issue of Nature as the cover story",
+      "authors": [
+        "Structure",
+        "Without"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Aebersold",
+        "Nenad Ban",
+        "Research"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

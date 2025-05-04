@@ -7,14 +7,8 @@
   "named_entities": [
     "Fabienne Jaquet",
     "Vocational Education",
-    "Help",
-    "Zurich",
-    "Lern",
-    "LernArena",
-    "STEM",
-    "Zoom",
-    "Zürich",
-    "Training"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -33,14 +27,24 @@
     "Help",
     "Have"
   ],
-  "summary": "",
+  "summary": "Help with mathematics, physics, foreign languages, using office software on PCs – when 12- to 15-year-old secondary school pupils reach the limits of their knowledge, they can turn to the helpful tutoring service offered by apprentices at ETH Zurich. All they have to do is visit the “Lern mit mir” learning platform, go to the “ LernArena ” section and then select the desired subject....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 469,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Staff",
@@ -51,6 +55,29 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.45,
+      "avg_word_length": 5.23,
+      "long_word_percentage": 30.7
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zurich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020"
+        ]
+      }
+    }
   }
 }

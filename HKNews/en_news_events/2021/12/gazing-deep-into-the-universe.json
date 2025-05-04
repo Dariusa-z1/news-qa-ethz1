@@ -28,19 +28,29 @@
     "ETH Zurich",
     "Will",
     "Glauser",
-    "This",
-    "That",
     "Which",
-    "Space"
+    "Space",
+    "Telescope",
+    "Jwst"
   ],
-  "summary": "Well protected against the sun: The launch of an Ariane rocket from the Guiana Space Centre in the next few days will mark the fulfilment of a long-held dream for Adrian Glauser....",
+  "summary": "Well protected against the sun: The launch of an Ariane rocket from the Guiana Space Centre in the next few days will mark the fulfilment of a long-held dream for Adrian Glauser. On board will be the James Webb Space Telescope (JWST), which is bound on a mission scheduled to last up to ten years....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1238,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,35 @@
       "Catering",
       "Sustainability",
       "Infrastructure"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.63,
+      "avg_word_length": 4.74,
+      "long_word_percentage": 25.44
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Ariane",
+        "Guiana Space Centre",
+        "Adrian Glauser"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Earth",
+        "Glauser",
+        "Villigen"
+      ],
+      "departments": [
+        "group at the Paul Scherrer"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

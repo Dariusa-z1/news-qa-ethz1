@@ -33,14 +33,24 @@
     "Department",
     "Currently"
   ],
-  "summary": "",
+  "summary": "New appointments at ETH Zurich: (Photograph: WSS, Oliver Lang Fotografie)\n\nProfessor Ueli Angst (*1980), currently Assistant Professor at ETH Zurich, as Associate Professor of Durability of Engineering Materials in the Department of Civil, Environmental and Geomatic Engineering....",
+  "content_structure": {
+    "paragraph_count": 46,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 14,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 3094,
     "readability_score": "complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -54,6 +64,43 @@
       "Catering",
       "Sustainability",
       "Infrastructure"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.75,
+      "avg_word_length": 5.57,
+      "long_word_percentage": 37.62
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the Department of Biosystems Science and Engineering",
+      "authors": [
+        "Zurich",
+        "Photograph",
+        "Oliver Lang Fotografie",
+        "Professor Ueli Angst"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Basel",
+        "Frimmer",
+        "Eawag",
+        "Hertenstein",
+        "Universit"
+      ],
+      "departments": [
+        "of Molecular Biology in the",
+        "of Molecular Biomedicine in the",
+        "of Engineering Materials in the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1980",
+          "1991"
+        ]
+      }
+    }
   }
 }

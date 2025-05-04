@@ -33,14 +33,24 @@
     "Department",
     "Full"
   ],
-  "summary": "",
+  "summary": "Main article: The new professors in brief:\n\nProfessor Nicola Aceto (*1982), currently Assistant Professor and group leader at the University of Basel, as Associate Professor of Molecular Oncology in the Department of Biology. Nicola Aceto’s work focuses on the metastasis of cancer cells....",
+  "content_structure": {
+    "paragraph_count": 18,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 9,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1806,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -53,6 +63,42 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.85,
+      "avg_word_length": 5.55,
+      "long_word_percentage": 37.87
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the Department of Computer Science",
+      "authors": [
+        "Professor Nicola Aceto",
+        "Assistant Professor",
+        "University"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Palo Alto",
+        "Mathematics",
+        "Munich",
+        "Physics Prize",
+        "Ludwig Maximilian University"
+      ],
+      "departments": [
+        "of Quantitative Biomedicine in the",
+        "of Microbiome Research in the",
+        "of Organometallic Chemistry in the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1982",
+          "2016"
+        ]
+      }
+    }
   }
 }

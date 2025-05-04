@@ -7,14 +7,11 @@
   "named_entities": [
     "Rui Brandao",
     "Computer Science",
-    "The Vice President Research",
     "Corporate Relations",
     "Detlef Günther",
     "Agrovet Strickhof",
-    "After",
-    "Zurich",
-    "Director",
-    "Services"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -32,14 +29,24 @@
     "Interview",
     "Brandao"
   ],
-  "summary": "After most ETH members have gone home for the night, others are just beginning their late shift....",
+  "summary": "After most ETH members have gone home for the night, others are just beginning their late shift. Experiments, quiz nights and evening taekwondo lessons – you can find out everything that goes on at the ETH Zurich campus after dark in the cover story of the latest \"life\" ....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 151,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -47,6 +54,31 @@
       "Infrastructure",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 25.17,
+      "avg_word_length": 4.72,
+      "long_word_percentage": 27.81
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "Computer Science",
+      "authors": [
+        "Experiments",
+        "Zurich",
+        "Rui Brandao"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Computer Science"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

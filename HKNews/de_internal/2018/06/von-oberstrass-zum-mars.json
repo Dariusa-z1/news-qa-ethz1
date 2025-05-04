@@ -8,13 +8,11 @@
     "Quartierfests Oberstrass",
     "Unterhaltsame Comics",
     "Expedition Sonnensystem",
-    "Die Geschichten",
     "Mars-Rover",
     "Mars-Mission",
     "Anfang Mai",
-    "Auch",
-    "Jahr",
-    "Besuchende"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -31,14 +29,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Auch dieses Jahr konnten Besuchende des Quartierfests Oberstrass die ETH Zürich hautnah erleben....",
+  "summary": "Auch dieses Jahr konnten Besuchende des Quartierfests Oberstrass die ETH Zürich hautnah erleben. Unterhaltsame Comics aus der Sonderausstellung «Expedition Sonnensystem» von focusTerra lockten zahlreiche Weltrauminteressierte an den Stand beim Rigiplatz in Zürich....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 88,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -47,6 +55,32 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.6,
+      "avg_word_length": 6.18,
+      "long_word_percentage": 39.77
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Besuchende",
+        "Quartierfests Oberstrass",
+        "Zürich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Bildschirm",
+        "Zürich"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -11,10 +11,8 @@
     "Daniel Müller",
     "Andreas Hierlemann",
     "Biosystems Engineering",
-    "Membrane",
-    "BSSE",
-    "Basel",
-    "Visualisations"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -29,18 +27,28 @@
     "Cells",
     "Epithelial",
     "Cell",
-    "That",
     "Surface",
-    "They"
+    "They",
+    "Divide"
   ],
-  "summary": "Membrane proteins inflate the cells: The human body is constantly regenerating itself. Trillions of cells die in our bodies each day....",
+  "summary": "Membrane proteins inflate the cells: The human body is constantly regenerating itself. Trillions of cells die in our bodies each day. During this same period of time, many new ones are formed as other cells divide....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 730,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -50,6 +58,37 @@
       "Infrastructure",
       "Research",
       "Communications"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.28,
+      "avg_word_length": 4.97,
+      "long_word_percentage": 27.12
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Membrane",
+        "Trillions",
+        "During"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Basel"
+      ],
+      "departments": [
+        "Biosystems Science and Engineering",
+        "Zurich"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "2015"
+        ]
+      }
+    }
   }
 }

@@ -11,10 +11,10 @@
     "Kubik-Kilometer Gletscherwasser",
     "Billion Liter",
     "Gletscher-Abfluss",
-    "Die Resultate",
-    "Die Auswirkungen",
     "Wasserschlosses Europas",
-    "Weiterführende Informationen"
+    "Weiterführende Informationen",
+    "European Alps",
+    "Environmental Research Letters"
   ],
   "topics": [
     "Sustainability",
@@ -31,14 +31,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Schmelzwasser stauen im Gletschermodell: Unsere Alpengletscher sind wichtige Wasserspeicher. Sie helfen, den Abfluss in den Strömen Europas auszugleichen....",
+  "summary": "Schmelzwasser stauen im Gletschermodell: Unsere Alpengletscher sind wichtige Wasserspeicher. Sie helfen, den Abfluss in den Strömen Europas auszugleichen. Seit 1980 gaben die Gletscher jedes Jahr ein Wasservolumen ab, das ausreichen würde, um den Zürichsee mehr als einmal komplett aufzufüllen....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 439,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Researchers"
     ],
@@ -46,6 +56,39 @@
       "Sustainability",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.26,
+      "avg_word_length": 6.14,
+      "long_word_percentage": 38.95
+    },
+    "citation_info": {
+      "doi": "10.1088/1748-9326/11/5/054022",
+      "journal": "",
+      "authors": [
+        "Schmelzwasser",
+        "Gletschermodell",
+        "Unsere Alpengletscher",
+        "Wasserspeicher"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Bezug",
+        "Zukunft",
+        "Dutzend",
+        "Gedankenspiel",
+        "Forscherteam"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1980",
+          "2100"
+        ]
+      }
+    }
   }
 }

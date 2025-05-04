@@ -25,22 +25,32 @@
     "Technology & Innovation"
   ],
   "keywords": [
-    "That",
     "Climate",
     "Model",
     "Global",
     "Warming",
     "Would",
-    "Than"
+    "Gigatons",
+    "Frölicher"
   ],
-  "summary": "A more realistic model: Many scientists believe that global warming will come to an end if, some day, human succeeds in stopping the release of greenhouse gas emissions into the atmosphere....",
+  "summary": "A more realistic model: Many scientists believe that global warming will come to an end if, some day, human succeeds in stopping the release of greenhouse gas emissions into the atmosphere. It would, indeed, be hotter on Earth than before industrialisation, but nonetheless it would not get even hotter....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 732,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -51,6 +61,33 @@
       "Sustainability",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.53,
+      "avg_word_length": 5.05,
+      "long_word_percentage": 29.78
+    },
+    "citation_info": {
+      "doi": "10.1038/nclimate2060",
+      "journal": "a study published in the scientific journal Nature Climate Change",
+      "authors": [
+        "Climate",
+        "Thomas Frölicher"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Princeton"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1800",
+          "1000"
+        ]
+      }
+    }
   }
 }

@@ -7,12 +7,8 @@
   "named_entities": [
     "Sabine Werner Professor",
     "Cell Biology",
-    "Main",
-    "Time",
-    "Advances",
-    "Skintegrity",
-    "Zurich",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -27,18 +23,28 @@
     "Wound",
     "Healing",
     "Skin",
-    "That",
     "Disorders",
-    "This"
+    "Scars",
+    "Treatment"
   ],
-  "summary": "Main article: Time heals all wounds – or so the saying goes. But our ability to heal damaged organs or tissues, such as the skin, is by no means perfect and results in formation of a scar....",
+  "summary": "Main article: Time heals all wounds – or so the saying goes. But our ability to heal damaged organs or tissues, such as the skin, is by no means perfect and results in formation of a scar. Scars are more fragile and less elastic than undamaged skin, and they lack hair follicles, sebaceous glands and sweat glands as these do not regenerate....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 661,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Staff",
       "Faculty",
@@ -49,6 +55,27 @@
       "Research",
       "Weather",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.79,
+      "avg_word_length": 5.17,
+      "long_word_percentage": 31.32
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Zurich"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

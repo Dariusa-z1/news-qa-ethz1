@@ -7,14 +7,7 @@
   "named_entities": [
     "Manfred Fiebig",
     "Chinese Tangram",
-    "Magnetic",
-    "Whenever",
-    "Department",
-    "Materials",
-    "Zurich",
-    "Europe",
-    "Japan",
-    "Russia"
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -25,22 +18,32 @@
     "Education"
   ],
   "keywords": [
-    "That",
     "Magnetic",
     "Material",
     "Electric",
     "Magnetization",
     "Have",
-    "Multiferroics"
+    "Multiferroics",
+    "Other"
   ],
-  "summary": "Magnetic and electric at once: Whenever it gets unpleasantly loud, active noise reduction has been used in earphones or luxury cars in recent years....",
+  "summary": "Magnetic and electric at once: Whenever it gets unpleasantly loud, active noise reduction has been used in earphones or luxury cars in recent years. A microphone picks up the disturbing noise, from which a computer chip calculates the appropriate countermeasures: sound waves whose phases are exactly opposite to those of the ambient sound....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 830,
     "readability_score": "moderately complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +54,37 @@
       "Technology",
       "Research",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.71,
+      "avg_word_length": 5.23,
+      "long_word_percentage": 29.64
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the scientific journal Nature",
+      "authors": [
+        "Magnetic",
+        "Whenever",
+        "Physicists",
+        "Manfred Fiebig"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Fiebig",
+        "Europe",
+        "Zurich"
+      ],
+      "departments": [
+        "and his collaborators at the",
+        "Materials in Zurich have now"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

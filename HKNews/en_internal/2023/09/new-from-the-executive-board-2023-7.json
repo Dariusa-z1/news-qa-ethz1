@@ -7,14 +7,14 @@
   "named_entities": [
     "Associate Vice President",
     "Digital Transformation",
-    "The Executive Board",
     "Lothar Thiele",
     "Computer Engineering",
     "Stefan Bechtold",
     "Executive Board",
     "Intellectual Property",
     "As Associate Vice President",
-    "Corporate Relations"
+    "Corporate Relations",
+    "Knowledge Transfer"
   ],
   "topics": [
     "Technology & Innovation",
@@ -30,17 +30,27 @@
     "Executive",
     "Term",
     "President",
-    "From",
-    "Professor"
+    "Professor",
+    "Zurich"
   ],
-  "summary": "Re-appointment of the Associate Vice President for Digital Transformation: The Executive Board has once again cast their vote for Lothar Thiele as Associate Vice President for Digital Transformation....",
+  "summary": "Re-appointment of the Associate Vice President for Digital Transformation: The Executive Board has once again cast their vote for Lothar Thiele as Associate Vice President for Digital Transformation. Originally, Thiele was elected to serve from 10 November 2020 until his retirement as Professor of Computer Engineering on 31 July 2022....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 3,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 781,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -52,6 +62,37 @@
       "Technology",
       "Research",
       "Administrative"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 24.41,
+      "avg_word_length": 5.18,
+      "long_word_percentage": 31.63
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Associate Vice President",
+        "Digital Transformation",
+        "The Executive Board",
+        "Lothar Thiele"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "Information Technology and Electrical Engineering",
+        "Stefan Holzer represents the",
+        "Peter Müller represents the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020",
+          "2022"
+        ]
+      }
+    }
   }
 }

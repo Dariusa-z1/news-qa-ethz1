@@ -7,14 +7,10 @@
   "named_entities": [
     "Scrona Ltd",
     "World Record Holders",
-    "The Guinness World Records",
     "Guinness World Records Ltd",
     "Via Kickstarter",
-    "Zurich",
-    "Limited",
-    "NanoDrip",
-    "January",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -28,18 +24,28 @@
     "Image",
     "Their",
     "Fishes",
-    "That",
     "Color",
-    "Scrona"
+    "Scrona",
+    "Printed"
   ],
-  "summary": "As of today Scrona Ltd. and the ETH Zurich have been announced official World Record Holders for the smallest inkjet-printed colour image....",
+  "summary": "As of today Scrona Ltd. and the ETH Zurich have been announced official World Record Holders for the smallest inkjet-printed colour image. The Guinness World Records Limited achievement involved the use of the groundbreaking 3D NanoDrip printing technology, invented at ETH Zurich and now commercialized by the ETH spin-off company Scrona....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 472,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff"
     ],
@@ -47,6 +53,22 @@
       "Infrastructure",
       "Technology",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.75,
+      "avg_word_length": 4.71,
+      "long_word_percentage": 23.31
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "0092"
+        ]
+      }
+    }
   }
 }

@@ -7,14 +7,14 @@
   "named_entities": [
     "Herzkreislauferkrankungen Todesursache Nummer",
     "Viele Betroffene",
-    "Bei Prostatakrebs",
     "Martin Fussenegger",
     "Krebsarten Prostata",
-    "Das Frühwarnsystem",
     "Kalzium-Pegel",
     "Bräunungsstoffs Melanin",
-    "Der Leberfleck",
-    "Ein Implantatträger"
+    "Als Indikator",
+    "Forscher Kalzium",
+    "Tumor Probleme",
+    "Verkapselte Lebendzellen"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Kalziumüberschuss stösst Melaninproduktion an: Krebs ist in den Industrieländern heutzutage nebst Herzkreislauferkrankungen Todesursache Nummer eins....",
+  "summary": "Kalziumüberschuss stösst Melaninproduktion an: Krebs ist in den Industrieländern heutzutage nebst Herzkreislauferkrankungen Todesursache Nummer eins. Viele Betroffene erhalten die Diagnose erst dann, wenn ein Tumor bereits weit fortgeschritten ist. Dies schmälert die Aussichten auf Heilung oft massiv: Bei Prostatakrebs liegt die Heilungsrate bei 32 Prozent, bei Dickdarmkrebs bei nur gerade 11 Prozent....",
+  "content_structure": {
+    "paragraph_count": 13,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 688,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -48,6 +58,42 @@
       "Financial",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.64,
+      "avg_word_length": 6.15,
+      "long_word_percentage": 36.77
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "der Fachzeitschrift « externe Seite Science Translational Medicine » veröffentlichte Arbeit darüber eine Machbarkeitsstudie",
+      "authors": [
+        "Kalziumüberschuss",
+        "Melaninproduktion",
+        "Industrieländern",
+        "Herzkreislauferkrankungen Todesursache Nummer"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Gang",
+        "Basel",
+        "Jahr",
+        "Implantatträger",
+        "Tumor Probleme"
+      ],
+      "departments": [
+        "Professor am",
+        "Biosysteme der"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "8562",
+          "2018"
+        ]
+      }
+    }
   }
 }

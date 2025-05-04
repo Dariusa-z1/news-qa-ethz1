@@ -7,14 +7,14 @@
   "named_entities": [
     "Studierenden Christian Käser",
     "Linus Lingg",
-    "Für Hahnenwasser",
-    "Für Sprudelwasser",
-    "Ein System",
     "Erste Investoren",
-    "Die Höhle",
     "Löwen Schweiz",
     "Christian Käser",
-    "Unsere Trinkflasche"
+    "Unsere Trinkflasche",
+    "Knopfdruck Sprudelwasser",
+    "Flaschen Sprudelwasser",
+    "Lean Startup Academy",
+    "Student Project House"
   ],
   "topics": [
     "Education",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Die ehemaligen ETH-Studierenden Christian Käser und Linus Lingg trinken gerne und viel Sprudelwasser – wie viele andere Menschen auch....",
+  "summary": "Die ehemaligen ETH-Studierenden Christian Käser und Linus Lingg trinken gerne und viel Sprudelwasser – wie viele andere Menschen auch. Für Hahnenwasser gibt es Dutzende von praktischen und optisch ansprechenden Trinkflaschen für unterwegs. Für Sprudelwasser findet man hingegen nur die bekannten Systeme für zu Hause....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 526,
     "readability_score": "complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Interview",
     "audience_type": [
       "Students"
     ],
@@ -48,6 +58,34 @@
       "Sustainability",
       "Infrastructure",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 12.83,
+      "avg_word_length": 5.6,
+      "long_word_percentage": 30.99
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Studierenden Christian Käser",
+        "Linus Lingg",
+        "Sprudelwasser",
+        "Menschen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Filtersystem",
+        "Coaching",
+        "System"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

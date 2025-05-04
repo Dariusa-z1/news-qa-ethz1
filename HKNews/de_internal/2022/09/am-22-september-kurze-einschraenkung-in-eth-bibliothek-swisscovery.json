@@ -6,15 +6,11 @@
   "main_content": "Aufgrund von Weiterentwicklungsarbeiten sind am Donnerstag, 22. September 2022, von 17.00 bis 20.00 Uhr Ihre Bestellmöglichkeiten leicht eingeschränkt. Während dieser Zeit können Medien an den Standorten «ETH-Bibliothek» und «GESS-Bibliothek» nicht an einen anderen Abholort bestellt werden, da die Standorte den Kurierversand pausieren. Bei Bestellungen von Medien anderer Bibliotheken werden die genannten Bibliotheken in diesem Zeitfenster nicht als Abholorte angeboten.\n\nUnsere Empfehlung: Senden Sie Ihre Bestellung vor oder nach diesem Zeitfenster ab, sodass Ihnen alle Bestellmöglichkeiten zur Verfügung stehen.\n\nMehr als nur Daten – Vom Know-how profitieren\n\n#GewusstWie – Die Infrastruktur und die Tools der ETH-Bibliothek führen Sie zu Ihrem Ziel.",
   "named_entities": [
     "Uhr Ihre Bestellmöglichkeiten",
-    "Bei Bestellungen",
     "Unsere Empfehlung",
     "Senden Sie Ihre Bestellung",
     "Vom Know",
-    "Die Infrastruktur",
     "Ihrem Ziel",
-    "Aufgrund",
-    "Weiterentwicklungsarbeiten",
-    "Donnerstag"
+    "ETH"
   ],
   "topics": [
     "Communication",
@@ -29,14 +25,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Aufgrund von Weiterentwicklungsarbeiten sind am Donnerstag, 22. September 2022, von 17.00 bis 20.00 Uhr Ihre Bestellmöglichkeiten leicht eingeschränkt....",
+  "summary": "Aufgrund von Weiterentwicklungsarbeiten sind am Donnerstag, 22. September 2022, von 17.00 bis 20.00 Uhr Ihre Bestellmöglichkeiten leicht eingeschränkt. Während dieser Zeit können Medien an den Standorten «ETH-Bibliothek» und «GESS-Bibliothek» nicht an einen anderen Abholort bestellt werden, da die Standorte den Kurierversand pausieren....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 104,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
@@ -44,6 +50,22 @@
     "context_tags": [
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.0,
+      "avg_word_length": 6.07,
+      "long_word_percentage": 31.73
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2022"
+        ]
+      }
+    }
   }
 }

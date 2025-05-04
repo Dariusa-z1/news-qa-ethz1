@@ -5,16 +5,12 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "Uneven surfaces, stairs with obstacles and paths with moving elements: over the next few days, members of ETH Zurich can test how sure-footed they are on SUVA’s stumbling circuit – but in a safe environment.\n\nThe Safety, Security, Health and Environment (SSHE) staff unit has set up the stumbling circuit in the main hall of the ETH Main Building to mark the World Day for Safety and Health at Work. You can register to have a go here . You can also register on arrival in the hall, but there is a limited number of places available.\n\nThere will also be a campaign from Tuesday, 28 April to Thursday, 30 April, providing interested employees with information and material on various safety-related topics, such as equipment, exercise in daily life, maternity protection and safety in the household, as well as an overview of the SSHE safety courses.\n\nThe World Day is an initiative of the International Labour Organization (ILO), a specialised agency of the United Nations (UN) which is committed to various causes, including improving working conditions throughout the world.",
   "named_entities": [
-    "The Safety",
     "Main Building",
     "World Day",
-    "The World Day",
     "International Labour Organization",
     "United Nations",
-    "Uneven",
-    "Zurich",
-    "SUVA",
-    "Security"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -27,20 +23,30 @@
   "keywords": [
     "ETH Zurich",
     "Safety",
-    "With",
     "World",
     "Stumbling",
     "Circuit",
-    "Environment"
+    "Environment",
+    "Health"
   ],
-  "summary": "",
+  "summary": "Uneven surfaces, stairs with obstacles and paths with moving elements: over the next few days, members of ETH Zurich can test how sure-footed they are on SUVA’s stumbling circuit – but in a safe environment. The Safety, Security, Health and Environment (SSHE) staff unit has set up the stumbling circuit in the main hall of the ETH Main Building to mark the World Day for Safety and Health at Work....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 180,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff"
     ],
@@ -49,6 +55,25 @@
       "Infrastructure",
       "International",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 30.0,
+      "avg_word_length": 4.8,
+      "long_word_percentage": 25.56
+    },
+    "semantic_entities": {
+      "locations": [
+        "Work",
+        "Tuesday",
+        "Thursday",
+        "Building"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

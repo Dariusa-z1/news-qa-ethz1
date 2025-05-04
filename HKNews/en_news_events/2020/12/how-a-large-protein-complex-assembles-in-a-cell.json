@@ -7,14 +7,8 @@
   "named_entities": [
     "Karsten Weis",
     "Evgeny Onischenko",
-    "Inspired",
-    "Cells",
-    "Zurich",
-    "Institute",
-    "Biochemistry",
-    "KARMA",
-    "Alzheimer",
-    "Generally"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -31,16 +25,26 @@
     "Complex",
     "Which",
     "Their",
-    "That"
+    "Cells"
   ],
-  "summary": "Inspired by metabolic analysis: Cells produce a great number of different protein complexes, each of which is made up of many individual proteins....",
+  "summary": "Inspired by metabolic analysis: Cells produce a great number of different protein complexes, each of which is made up of many individual proteins. These protein complexes, like ribosomes for example, are what regulate almost all of a cell’s life-sustaining biological functions....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 844,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "General Public"
@@ -50,6 +54,29 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.64,
+      "avg_word_length": 5.17,
+      "long_word_percentage": 31.75
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Inspired",
+        "Biologists",
+        "Conventional"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

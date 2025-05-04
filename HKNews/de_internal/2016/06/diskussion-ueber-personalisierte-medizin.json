@@ -7,14 +7,14 @@
   "named_entities": [
     "Personalisierten Medizin",
     "Personalisierte Medizin",
-    "Für Forschende",
     "Beispiel Rudolf Aebersold",
     "Departements Biologie",
-    "April-Ausgabe",
     "Community Magazins",
     "Im Mai",
     "Medizinische Fakultät",
-    "Universität Lund"
+    "Universität Lund",
+    "Omics-Daten",
+    "Seite Nationale Förderinitiative"
   ],
   "topics": [
     "Staff",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Handlungsbedarf bei Datenorganisation: Personalisierten Medizin erforscht die Grundlagen, um präzisere Diagnosen und individuellere Therapien zur Behandlung von Krankheiten entwickeln zu können....",
+  "summary": "Handlungsbedarf bei Datenorganisation: Personalisierten Medizin erforscht die Grundlagen, um präzisere Diagnosen und individuellere Therapien zur Behandlung von Krankheiten entwickeln zu können. Personalisierte Medizin baut sowohl auf neuen Erkenntnissen in der Biomedizin auf als auch auf Fortschritten in der Informationstechnik, und sie setzt auf die interdisziplinäre Zusammenarbeit zwischen Medizin, Natur- und Ingenieurwissenschaften....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 366,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Staff",
       "Researchers",
@@ -51,6 +61,44 @@
       "Events",
       "International",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.26,
+      "avg_word_length": 6.45,
+      "long_word_percentage": 40.44
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Handlungsbedarf",
+        "Datenorganisation",
+        "Personalisierten Medizin",
+        "Grundlagen",
+        "Diagnosen"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "18:00 – 19:30",
+        "19:30 Uhr"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Schweden"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016",
+          "2016"
+        ]
+      }
+    }
   }
 }

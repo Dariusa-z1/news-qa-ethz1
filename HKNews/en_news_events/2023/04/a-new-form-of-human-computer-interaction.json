@@ -11,10 +11,7 @@
     "Luca Beurer-Kellner",
     "Marc Fischer",
     "Beurer-Kellner",
-    "Abstract",
-    "LMQL",
-    "ChatGPT",
-    "Professor"
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -29,18 +26,28 @@
     "Lmql",
     "Programming",
     "Model",
-    "With",
     "Models",
-    "Large"
+    "Large",
+    "Researchers"
   ],
-  "summary": "Abstract: • ETH researchers developed a new programming language called LMQL (Language Model Query Language)....",
+  "summary": "Abstract: • ETH researchers developed a new programming language called LMQL (Language Model Query Language). • The combination of natural and programming languages enables users to interact more systematically with large language models like ChatGPT....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 2,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 992,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +59,34 @@
       "Catering",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.45,
+      "avg_word_length": 5.16,
+      "long_word_percentage": 31.55
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "Vechev is a professor of Computer Science",
+      "authors": [
+        "Abstract",
+        "Language Model Query Language"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "June",
+        "Vechev"
+      ],
+      "departments": [
+        "are doctoral students at the",
+        "Computer Science"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

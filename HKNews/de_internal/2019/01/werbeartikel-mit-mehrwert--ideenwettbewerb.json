@@ -8,13 +8,12 @@
     "Give-Aways",
     "Ersti-Bag",
     "Geben Sie Ihre Ideen",
-    "Die Gewinnerinnen",
     "Projekt Neptun",
     "Schweizer Bücherbon",
     "Dieser Wettbewerb",
     "Open-Innovation-Kampagne",
     "Ihre Ideen",
-    "Gesucht"
+    "ETH"
   ],
   "topics": [
     "Technology & Innovation",
@@ -30,18 +29,46 @@
     "Education"
   ],
   "summary": "Gesucht sind Ideen sowohl für käuflich zu erwerbende Produkte als auch für Give-Aways, die im Rahmen von Kursen, Anlässen oder ETH-Aktionen (z. B. Ersti-Bag) verteilt werden....",
+  "content_structure": {
+    "paragraph_count": 1,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 120,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "General Public"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 10.0,
+      "avg_word_length": 5.38,
+      "long_word_percentage": 30.0
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "library.ethz.ch"
+        ],
+        "phones": [
+          "2019"
+        ]
+      }
+    }
   }
 }

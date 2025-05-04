@@ -7,14 +7,14 @@
   "named_entities": [
     "Vielfältiger Campus Hönggerberg",
     "Am Wegrand",
-    "Eine Hummel",
-    "Der Campus Hönggerberg",
     "Anfang Mai",
     "Millionen Arten",
     "Jahreszeit Insekten",
     "Blaugrüne Mosaik",
     "Auch Vögel",
-    "Für Amphibien"
+    "Standort Hönggerberg",
+    "Im Frühling",
+    "Auch Säugetiere"
   ],
   "topics": [
     "Infrastructure",
@@ -33,14 +33,24 @@
     "Science",
     "Education"
   ],
-  "summary": "Vielfältiger Campus Hönggerberg: Am Wegrand entlang der HCI-Südfassade leuchten Wildblumen in kräftigen Frühlingsfarben: violett der Wiesensalbei, rosa die Esparsette, gelb der Wundklee, rot der Mohn....",
+  "summary": "Vielfältiger Campus Hönggerberg: Am Wegrand entlang der HCI-Südfassade leuchten Wildblumen in kräftigen Frühlingsfarben: violett der Wiesensalbei, rosa die Esparsette, gelb der Wundklee, rot der Mohn. Eine Hummel taucht in eine Salbeiblüte ein, um den Nektar herauszuholen....",
+  "content_structure": {
+    "paragraph_count": 17,
+    "bullet_points": 6,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1063,
     "readability_score": "complex",
     "sentiment": "slightly positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Staff",
       "Researchers"
@@ -50,6 +60,41 @@
       "Infrastructure",
       "Research",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.72,
+      "avg_word_length": 5.95,
+      "long_word_percentage": 34.81
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Vielfältiger Campus Hönggerberg",
+        "Am Wegrand",
+        "Südfassade",
+        "Wildblumen",
+        "Frühlingsfarben"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Hunderten",
+        "Thema",
+        "Dutzend",
+        "Konzept",
+        "Dünger"
+      ],
+      "departments": [
+        "findet Stadtökologe Christoph Küffer vom"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1300"
+        ]
+      }
+    }
   }
 }

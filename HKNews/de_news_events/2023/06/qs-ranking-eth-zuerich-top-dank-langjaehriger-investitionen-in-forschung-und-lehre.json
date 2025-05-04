@@ -7,14 +7,14 @@
   "named_entities": [
     "Hochschulrankings Jahr",
     "Quacquarelli Symonds",
-    "Das University College London",
     "California Institute",
     "Schweizer Hochschule",
     "Massachusetts Institute",
     "Universität Cambridge",
     "Universität Oxford",
-    "Die Platzierung",
-    "Punkten Spitzenwerte"
+    "Punkten Spitzenwerte",
+    "Zukunft Sorgen",
+    "Ressource Sorge"
   ],
   "topics": [
     "Research",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Man könnte sich beinahe daran gewöhnen: Die ETH Zürich gehört in den zahlreichen Hochschulrankings Jahr für Jahr zu den besten Universitäten der Welt....",
+  "summary": "Man könnte sich beinahe daran gewöhnen: Die ETH Zürich gehört in den zahlreichen Hochschulrankings Jahr für Jahr zu den besten Universitäten der Welt. So auch in der Rangliste von Quacquarelli Symonds (QS), deren neueste Ausgabe soeben erschienen ist....",
+  "content_structure": {
+    "paragraph_count": 6,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 507,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers"
@@ -50,6 +60,38 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.11,
+      "avg_word_length": 5.88,
+      "long_word_percentage": 32.35
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zürich",
+        "Hochschulrankings Jahr"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Forschung",
+        "Bildung",
+        "Blick"
+      ],
+      "departments": [
+        "klassierten",
+        "und das California",
+        "Zürich inmitten dieser prestigeträchtigen"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1500"
+        ]
+      }
+    }
   }
 }

@@ -5,16 +5,16 @@
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Ein Milchviehstall für 120 Kühe, ein Stall für Aufzucht, Kälber- und Grossviehmast, ein Stoffwechselzentrum mit Stall und Respirationskammern, ein Forum für Veranstaltungen sowie ein Büro- und Laborgebäude: Das kantonale Hochbauamt und der Infrastrukturbereich Immobilien der ETH Zürich als Bauherren planen Grosses in Eschikon Lindau. Mit den geplanten Neu- und Ersatzbauten soll ein eigentliches Bildungs- und Forschungszentrum entstehen. Die Vetsuisse-Fakultät der Universität Zürich UZH bringt das veterinärmedizinische Wissen in das Projekt ein.\n\nWas damit erreicht werden soll, zeigte Ueli Voegeli, Direktor des Strickhof, beim Spatenstich am Montag auf: In enger Verbindung von Landwirtschaft, Agrar- und Veterinärwissenschaften soll die Bereitstellung von Nahrungsmitteln erforscht werden – «From Feed to Food», also von der Scholle bis auf den Teller.\n\nDabei geht es laut ETH-Präsident Lino Guzzella um global wichtige Fragen: Wie können wir nachhaltig mit der Ressource Boden umgehen? Wie sieht eine ökologisch und ethisch verantwortliche Landwirtschaft aus? Und wie können wir die wachsende Weltbevölkerung ernähren? Diese Fragen könnten nur beantwortet werden mit einer engen Zusammenarbeit von Theorie und Praxis. «Die ETH Zürich kann die theoretischen Grundlagen für die Landwirtschaft der Zukunft liefern», so Guzzella.\n\nUZH-Rektor Michael Hengartner betonte den innovativen Einbezug der Veterinärmedizin ins Projekt. Wo früher die Tiermediziner in der Landwirtschaft meist erst auf den Plan traten, wenn die Tiere krank waren, könne in Zukunft die ganze Zeitspanne eines Tierlebens gesamtheitlich betrachtet und erforscht werden.\n\n«Dass der Kantonsrat dem Baukredit damals einstimmig zugestimmt hat, zeigt, wie hoch die Akzeptanz und die Einschätzung des Projektes sind», sagte Regierungsrat und Baudirektor Markus Kägi. Auch Hans Frei, Präsident des Zürcher Bauernverbands und Vizepräsident des Schweizer Bauernverbands, zeigte sich begeistert: «Wir Bauern müssen innovativ sein, aber das geht nicht ohne Forschung.»",
   "named_entities": [
-    "Ein Milchviehstall",
     "Infrastrukturbereich Immobilien",
     "Eschikon Lindau",
-    "Die Vetsuisse-Fakultät",
     "Universität Zürich",
     "Ueli Voegeli",
-    "From Feed",
     "Präsident Lino Guzzella",
     "Ressource Boden",
-    "Diese Fragen"
+    "Diese Fragen",
+    "Rektor Michael Hengartner",
+    "Baudirektor Markus Kägi",
+    "Auch Hans Frei"
   ],
   "topics": [
     "University Administration",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Ein Milchviehstall für 120 Kühe, ein Stall für Aufzucht, Kälber- und Grossviehmast, ein Stoffwechselzentrum mit Stall und Respirationskammern, ein Forum für Veranstaltungen sowie ein Büro- und Laborgebäude: Das kantonale Hochbauamt und der Infrastrukturbereich Immobilien der ETH Zürich als Bauherren planen Grosses in Eschikon Lindau....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 277,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -49,6 +59,35 @@
       "Sustainability",
       "Infrastructure",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 19.79,
+      "avg_word_length": 6.15,
+      "long_word_percentage": 33.57
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Ein Milchviehstall",
+        "Aufzucht",
+        "Kälber"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Milchviehstall",
+        "Zukunft",
+        "Büro",
+        "Food",
+        "Stoffwechselzentrum"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

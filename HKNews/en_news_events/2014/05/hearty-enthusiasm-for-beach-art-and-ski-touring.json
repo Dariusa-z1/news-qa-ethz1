@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "Their",
-    "That",
     "Team",
     "They",
     "Project",
-    "Beachbot"
+    "Beachbot",
+    "Robot"
   ],
-  "summary": "",
+  "summary": "BeachBot – the robot that can draw hearts: For students on the Mechanical and Process Engineering programme, the third year of studies is a special one: they have the chance to put their knowledge into practice as part of a “focus project” and develop a product based on their own ideas or in cooperation with industry....",
+  "content_structure": {
+    "paragraph_count": 15,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 954,
     "readability_score": "moderately complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Researchers",
@@ -51,6 +61,36 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.3,
+      "avg_word_length": 4.73,
+      "long_word_percentage": 23.69
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Mechanical",
+        "Process Engineering"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Klosters",
+        "Easter",
+        "Zurich University",
+        "Engelberg",
+        "German"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2014"
+        ]
+      }
+    }
   }
 }

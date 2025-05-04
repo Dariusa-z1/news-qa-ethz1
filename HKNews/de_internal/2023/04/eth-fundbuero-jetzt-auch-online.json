@@ -7,14 +7,10 @@
   "named_entities": [
     "Gelände Gefundenes",
     "Service Centers",
-    "In Zusammenarbeit",
     "Fundservice-Plattform",
     "Service Center",
     "Schreibmaterial Zum Online-Fundbüro",
-    "Main",
-    "Regel",
-    "Fundbüros",
-    "Info"
+    "ETH"
   ],
   "topics": [
     "Staff",
@@ -28,20 +24,44 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Ärgerlich, wenn man etwas verloren hat. Glücklicherweise wird auf dem ETH-Gelände Gefundenes in der Regel in unsere Fundbüros gebracht....",
+  "summary": "Main article: Ärgerlich, wenn man etwas verloren hat. Glücklicherweise wird auf dem ETH-Gelände Gefundenes in der Regel in unsere Fundbüros gebracht. Zuständig dafür sind die Info + Service Centers (ISC) ....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 6,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 143,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "Staff"
     ],
     "context_tags": [
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.0,
+      "avg_word_length": 6.38,
+      "long_word_percentage": 40.56
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

@@ -12,9 +12,9 @@
     "Kai Udert",
     "Environmental Engineering",
     "Senior Scientist",
-    "At Eawag",
     "Swiss Federal Laboratories",
-    "Materials Science"
+    "Materials Science",
+    "Global South"
   ],
   "topics": [
     "Sustainability",
@@ -27,20 +27,30 @@
   "keywords": [
     "ETH Zurich",
     "Water",
-    "That",
     "Wastewater",
-    "This",
-    "From",
-    "Systems"
+    "Systems",
+    "Engineering",
+    "Treatment",
+    "Says"
   ],
-  "summary": "",
+  "summary": "From waste to resource: Out of sight, out of mind: we’ve been flushing away human waste ever since sewers were invented, using copious amounts of fresh water to expel it from our homes and cities as fast as the pipes can carry it. Modern urban water systems are widely regarded as one of the greatest achievements of the past century....",
+  "content_structure": {
+    "paragraph_count": 24,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1584,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -53,6 +63,37 @@
       "Catering",
       "Sustainability",
       "Infrastructure"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.0,
+      "avg_word_length": 5.08,
+      "long_word_percentage": 29.04
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Modern"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Africa",
+        "Urban Water Management",
+        "Eawag",
+        "Switzerland",
+        "South Africa"
+      ],
+      "departments": [
+        "Mechanical and Process Engineering",
+        "Mechanical and Process Engineering at",
+        "Global Health Engineering in the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

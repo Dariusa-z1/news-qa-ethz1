@@ -7,14 +7,9 @@
   "named_entities": [
     "Johannes Bohacek",
     "Mehmet Fatih Yanik",
-    "Some",
-    "Parkinson",
-    "Deep",
-    "Institute",
-    "Neuro",
-    "Zurich",
-    "Acute",
-    "Professor"
+    "ETH Zurich",
+    "ETH",
+    "University of Zurich"
   ],
   "topics": [
     "Weather & Environment",
@@ -29,18 +24,28 @@
     "University of Zurich",
     "Brain",
     "Stress",
-    "That",
-    "This",
-    "Disorders"
+    "Disorders",
+    "Says",
+    "Bohacek"
   ],
-  "summary": "Some videos on the internet are remarkably striking. In one, a man is sitting on the sofa holding a remote control....",
+  "summary": "Some videos on the internet are remarkably striking. In one, a man is sitting on the sofa holding a remote control. His hands and arms are trembling and shaking in a way that clearly indicates Parkinson’s disease....",
+  "content_structure": {
+    "paragraph_count": 14,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 1129,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +56,30 @@
       "Technology",
       "Research",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.91,
+      "avg_word_length": 5.07,
+      "long_word_percentage": 29.05
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Parkinson"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [
+        "Professor of Neurotechnology at the",
+        "ant professor at the"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

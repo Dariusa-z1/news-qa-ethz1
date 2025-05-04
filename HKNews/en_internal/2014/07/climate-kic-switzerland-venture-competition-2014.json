@@ -5,7 +5,6 @@
   "source": "ETH Zurich, University Communications",
   "main_content": "On Thursday, 28 August, Gina Domanig, Managing Partner Emerald Technology Ventures, and Nick Beglinger, CEO FFGS and President swisscleantech, will be holding the keynotes. Climate-KIC Switzerland’s most promising start-ups will then take to the stage and present their 5 minute pitches to the audience and the expert panel.\n\nThe two winners will be selected by the panel and awarded prizes of CHF 24'000 each, as well as a place in the European Climate-KIC final taking place in Valencia, Spain in October. Join us for networking drinks and canapés after the event for a chance to meet the start-ups and other members of our Climate-KIC Swiss community.\n\nPlease register by 21 August here: www.eventbrite.com/e/climate-kic-swiss-venture-competition-2014-tickets-12090839025 .\n\nClimate-KIC Switzerland Venture Competition Finals 2014 28 August 2014, 17:15-21:00 Audimax\n\nETH Zurich Rämistrasse 101 8092 Zürich\n\nMore information about in the third Swiss Venture Competition can be found at: www.climate-kic.org/events/switzerland-venture-competition-2014 .\n\nMore information about Climate-KIC can be found at: www.climate-kic.org .",
   "named_entities": [
-    "On Thursday",
     "Gina Domanig",
     "Managing Partner Emerald Technology",
     "Nick Beglinger",
@@ -14,7 +13,8 @@
     "Zurich Rämistrasse",
     "Zürich More",
     "Swiss Venture Competition",
-    "August"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Sustainability",
@@ -33,14 +33,24 @@
     "Panel",
     "Place"
   ],
-  "summary": "On Thursday, 28 August, Gina Domanig, Managing Partner Emerald Technology Ventures, and Nick Beglinger, CEO FFGS and President swisscleantech, will be holding the keynotes....",
+  "summary": "On Thursday, 28 August, Gina Domanig, Managing Partner Emerald Technology Ventures, and Nick Beglinger, CEO FFGS and President swisscleantech, will be holding the keynotes. Climate-KIC Switzerland’s most promising start-ups will then take to the stage and present their 5 minute pitches to the audience and the expert panel....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 187,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "General Public"
     ],
@@ -49,6 +59,36 @@
       "Technology",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.38,
+      "avg_word_length": 4.9,
+      "long_word_percentage": 28.34
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "17:15-21:00"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Valencia",
+        "October"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "www.eventbrite.com",
+          "www.climate-kic.org"
+        ],
+        "phones": [
+          "2014",
+          "12090839025"
+        ]
+      }
+    }
   }
 }

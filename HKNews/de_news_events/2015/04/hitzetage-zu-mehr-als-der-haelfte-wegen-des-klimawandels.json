@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Der gezinkte Würfel: Wetterextreme sind Teil des chaotischen Wettergeschehens und entstehen aus einem komplexen Zusammenspiel vieler Faktoren....",
+  "summary": "Der gezinkte Würfel: Wetterextreme sind Teil des chaotischen Wettergeschehens und entstehen aus einem komplexen Zusammenspiel vieler Faktoren. Werden diese Wetterkapriolen im Laufe des Klimawandels häufiger? Ja und nein....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 604,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -48,6 +58,40 @@
       "Research",
       "Weather",
       "International"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.3,
+      "avg_word_length": 6.59,
+      "long_word_percentage": 37.58
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "der Fachzeitschrift «Nature Climate Change» publizierten [1]",
+      "authors": [
+        "Würfel",
+        "Wetterextreme",
+        "Wettergeschehens"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Hitze",
+        "Beispiel",
+        "Fünftel",
+        "Mitteleuropa"
+      ],
+      "departments": [
+        "Atmosphäre und Klima",
+        "Oberassistent am"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1950",
+          "2003"
+        ]
+      }
+    }
   }
 }

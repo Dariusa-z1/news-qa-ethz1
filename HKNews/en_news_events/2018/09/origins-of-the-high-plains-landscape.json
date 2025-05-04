@@ -10,11 +10,10 @@
     "High Plains",
     "North America",
     "Sean Willett",
-    "The High Plains",
     "Colorado Plateau",
     "South America",
-    "Starting",
-    "Ogallala"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Campus Life",
@@ -30,17 +29,27 @@
     "High",
     "Have",
     "Mountains",
-    "With",
-    "Alluvial"
+    "Alluvial",
+    "Groundwater"
   ],
-  "summary": "By no means a geological bore: Starting at the eastern foot of the Rocky Mountains in the midwest United States, the dramatic landscape of the High Plains stretches across several US states....",
+  "summary": "By no means a geological bore: Starting at the eastern foot of the Rocky Mountains in the midwest United States, the dramatic landscape of the High Plains stretches across several US states. Dropping just a few hundred meters over a length of more than 500 kilometres, these plains have only a very gentle gradient and the nearly flat surfaces exhibit unique ecosystems, making them a geological and ecological anomaly....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 729,
     "readability_score": "moderately complex",
     "sentiment": "negative",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Campus Notice",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +60,35 @@
       "Events",
       "Weather",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.44,
+      "avg_word_length": 4.99,
+      "long_word_percentage": 27.16
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Starting",
+        "Rocky Mountains",
+        "United States",
+        "High Plains"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "South America",
+        "North America",
+        "India",
+        "Nature"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

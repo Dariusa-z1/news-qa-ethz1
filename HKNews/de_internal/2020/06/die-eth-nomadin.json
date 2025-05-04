@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Marianna Berger\n\nVon der Psychologie in die Informatik: Wenn Marianna Berger Ende Juni 2020 in den Ruhestand tritt, nimmt sie viele Erinnerungen mit....",
+  "summary": "Main article: Marianna Berger\n\nVon der Psychologie in die Informatik: Wenn Marianna Berger Ende Juni 2020 in den Ruhestand tritt, nimmt sie viele Erinnerungen mit. Sie hat 25 Jahre lang an der ETH Zürich gearbeitet, in verschiedenen administrativen Tätigkeiten in Departementen, Abteilungen und Professuren....",
+  "content_structure": {
+    "paragraph_count": 9,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 428,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Staff",
       "Faculty",
@@ -51,6 +61,42 @@
       "Research",
       "Education",
       "Administrative"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 14.76,
+      "avg_word_length": 6.12,
+      "long_word_percentage": 32.94
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Marianna Berger\n\nVon",
+        "Psychologie",
+        "Informatik",
+        "Wenn Marianna Berger Ende Juni"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Wechsel",
+        "Departementen",
+        "Ende Juni",
+        "Werbeassistenz-Diplom"
+      ],
+      "departments": [
+        "Zusammenhalt in der Administration des",
+        "folgte ein Wechsel ans",
+        "davon am"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020",
+          "1995"
+        ]
+      }
+    }
   }
 }

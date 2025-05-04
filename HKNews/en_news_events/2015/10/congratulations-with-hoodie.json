@@ -7,12 +7,9 @@
   "named_entities": [
     "Rector Sarah Springman",
     "Huber-Kudlich Foundation",
-    "Tuesday",
-    "Zurich",
-    "Zürich",
-    "Most",
-    "Hönggerberg",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Education",
@@ -27,18 +24,28 @@
     "Hönggerberg Campus",
     "Students",
     "Hoodie",
-    "This",
     "Their",
-    "With"
+    "Gift",
+    "Firstyear"
   ],
-  "summary": "Tuesday afternoon in the main building at ETH Zurich, a crowd of students gathers, almost like a rugby match....",
+  "summary": "Tuesday afternoon in the main building at ETH Zurich, a crowd of students gathers, almost like a rugby match. They cluster around a row of tables, present the assistants with a voucher and receive a hoodie wrapped in plastic with the embroidered logo 'ETH Zürich – best....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 400,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students",
       "General Public"
@@ -47,6 +54,23 @@
       "Financial",
       "Infrastructure",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 20.0,
+      "avg_word_length": 4.6,
+      "long_word_percentage": 20.0
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "2016"
+        ]
+      }
+    }
   }
 }

@@ -8,13 +8,13 @@
     "Lindau-Eschikon",
     "Am Freitag",
     "Wissenschaftler Kulturpflanzen",
-    "Die Wissenschaftler",
-    "Die Anlage",
     "Präzisions-Landwirtschaft",
     "Achim Walter",
     "Spider Cams",
     "Diese Kameras",
-    "Doppel-Aramidseile"
+    "Doppel-Aramidseile",
+    "Elektrische Seilwinden",
+    "Laser-Vermessungsgerät"
   ],
   "topics": [
     "Research",
@@ -31,14 +31,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Schon von der Strasse aus sind die Masten sichtbar, die auf dem Areal des agrarwissenschaftlichen Forschungsbetriebs der ETH Zürich in Lindau-Eschikon (ZH) stehen....",
+  "summary": "Schon von der Strasse aus sind die Masten sichtbar, die auf dem Areal des agrarwissenschaftlichen Forschungsbetriebs der ETH Zürich in Lindau-Eschikon (ZH) stehen. Man fragt sich unweigerlich: Wozu sind diese da? Forschende der Gruppe für Kulturpflanzenwissenschaften der ETH Zürich haben das Geheimnis der Türme gelüftet: Am Freitag, 10....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 445,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -48,6 +58,35 @@
       "Weather",
       "International",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 17.8,
+      "avg_word_length": 6.17,
+      "long_word_percentage": 32.36
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Strasse",
+        "Masten",
+        "Forschungsbetriebs"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Betrieb",
+        "Fussballstadien",
+        "Zukunft",
+        "Lindau-Eschikon",
+        "Traktoren"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

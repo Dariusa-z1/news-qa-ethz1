@@ -10,11 +10,8 @@
     "Access Management",
     "Directory Services",
     "Active Directory",
-    "German",
-    "LDAP",
-    "Change",
-    "Forgot",
-    "MySQL"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "University Administration",
@@ -32,14 +29,24 @@
     "Other",
     "Services"
   ],
-  "summary": "ETH members log into the application via www.password.ethz.ch (German: www.passwort.ethz.ch ) with their ETH user name and ETH password for web applications, AAI (LDAP)....",
+  "summary": "ETH members log into the application via www.password.ethz.ch (German: www.passwort.ethz.ch ) with their ETH user name and ETH password for web applications, AAI (LDAP). The explanation video \"Change your password\" shows in detail how to set or change your passwords in the Web Center....",
+  "content_structure": {
+    "paragraph_count": 5,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 263,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Administration"
     ],
@@ -48,6 +55,25 @@
       "Technology",
       "Administrative",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 11.95,
+      "avg_word_length": 5.07,
+      "long_word_percentage": 28.9
+    },
+    "semantic_entities": {
+      "locations": [
+        "Tool"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "password.ethz.ch",
+          "passwort.ethz.ch"
+        ],
+        "phones": []
+      }
+    }
   }
 }

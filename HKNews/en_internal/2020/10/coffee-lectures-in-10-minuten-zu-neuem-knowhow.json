@@ -7,14 +7,8 @@
   "named_entities": [
     "Coffee Lectures",
     "Open Knowledge Maps",
-    "December Get",
     "Coffee Lecture",
-    "November",
-    "Collaborative",
-    "When",
-    "Building",
-    "Zoom",
-    "Wednesday"
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -33,14 +27,24 @@
     "Data",
     "Open"
   ],
-  "summary": "",
+  "summary": "How the Coffee Lectures work: • The research data life cycle: How to handle data during all steps of your project – 4 November\n• Get a literature overview to your research question with Open Knowledge Maps – 11 November\n• Collaborative writing: all for one and one for all?...",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 4,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 286,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -51,6 +55,30 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.89,
+      "avg_word_length": 4.73,
+      "long_word_percentage": 25.17
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Coffee Lectures",
+        "November"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2020"
+        ]
+      }
+    }
   }
 }

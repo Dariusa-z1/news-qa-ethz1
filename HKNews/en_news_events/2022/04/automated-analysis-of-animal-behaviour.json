@@ -8,13 +8,9 @@
     "Markus Marks",
     "Neurotechnology Mehmet Fatih Yanik",
     "Zurich Zoo",
-    "Suitable",
-    "Researchers",
-    "University",
-    "Professor",
-    "Interest",
-    "Uganda",
-    "Therefore"
+    "ETH Zurich",
+    "ETH",
+    "University of Zurich"
   ],
   "topics": [
     "Research",
@@ -31,16 +27,26 @@
     "Method",
     "Their",
     "Animal",
-    "That"
+    "Video"
   ],
-  "summary": "Suitable for all animal species: Researchers engaged in animal behaviour studies often rely on hours upon hours of video footage which they manually analyse....",
+  "summary": "Suitable for all animal species: Researchers engaged in animal behaviour studies often rely on hours upon hours of video footage which they manually analyse. Usually, this requires researchers to work their way through recordings spanning several weeks or months, laboriously noting down observations on the animals’ behaviour....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 585,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -52,6 +58,32 @@
       "Technology",
       "Research",
       "Education"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.4,
+      "avg_word_length": 5.35,
+      "long_word_percentage": 33.5
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Suitable",
+        "Researchers",
+        "Usually",
+        "Zurich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Uganda"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

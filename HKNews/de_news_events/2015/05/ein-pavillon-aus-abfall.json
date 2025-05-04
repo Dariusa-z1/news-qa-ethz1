@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Weggeworfene Getränkekartons verwendet: «Wo gehobelt wird, da fallen auch Späne», besagt ein altes Sprichwort....",
+  "summary": "Weggeworfene Getränkekartons verwendet: «Wo gehobelt wird, da fallen auch Späne», besagt ein altes Sprichwort. Zwar bezieht es sich nicht auf die Müllproduktion unserer Welt, jedoch beschreibt es dieses Phänomen erstaunlich gut: Müll ist ein Ergebnis beinahe jeglicher menschlicher Aktivität, bei der Rohmaterialien mit Hilfe von Energie und Wissen von einem Zustand in einen anderen verwandelt werden....",
+  "content_structure": {
+    "paragraph_count": 20,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 831,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Staff",
       "Researchers"
@@ -49,6 +59,45 @@
       "Catering",
       "Infrastructure",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.39,
+      "avg_word_length": 6.03,
+      "long_word_percentage": 36.34
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Weggeworfene Getränkekartons",
+        "Sprichwort"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [
+        "4 Tagen",
+        "20 Baumaterialien"
+      ],
+      "time_references": [],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "New York",
+        "Waste",
+        "Nebenprodukt",
+        "Zusammenarbeit",
+        "Ergebnis"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2015",
+          "2013"
+        ]
+      }
+    }
   }
 }

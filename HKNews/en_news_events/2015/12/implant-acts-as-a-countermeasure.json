@@ -7,13 +7,8 @@
   "named_entities": [
     "Professor Martin Fussenegger",
     "Biosystems Science",
-    "Prosthesis",
-    "Zurich",
-    "Department",
-    "Engineering",
-    "Basel",
-    "Chronic",
     "ETH Zurich",
+    "ETH",
     "Martin Fussenegger"
   ],
   "topics": [
@@ -26,21 +21,31 @@
   ],
   "keywords": [
     "ETH Zurich",
-    "That",
-    "With",
-    "This",
     "Inflammatory",
     "Circuit",
-    "Fussenegger"
+    "Fussenegger",
+    "Cells",
+    "Psoriasis",
+    "They"
   ],
-  "summary": "",
+  "summary": "Prosthesis supports the immune system: ETH Professor Martin Fussenegger calls them molecular prosthetics: cells with specially developed gene circuits that can be implanted into an organism, where they take over metabolic functions that the organism cannot perform itself....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 724,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -51,6 +56,36 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.94,
+      "avg_word_length": 5.15,
+      "long_word_percentage": 32.04
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Prosthesis",
+        "Professor Martin Fussenegger",
+        "Fussenegger",
+        "Zurich",
+        "Department"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Basel",
+        "Fussenegger"
+      ],
+      "departments": [
+        "Biosystems Science and Engineering in"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

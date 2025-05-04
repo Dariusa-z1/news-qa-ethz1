@@ -1,12 +1,10 @@
 {
   "language": "de",
   "title": "Wie Stationaere Batterien Am Besten Foerdern",
-  "date": "2016-06-01",
+  "date": "2010-10-01",
   "source": "ETH Zürich, Hochschulkommunikation",
   "main_content": "Eine Batterie und viele Anwendungen: Batterien können helfen, grosse Mengen an Wind- und Solarenergie ins Stromnetz zu integrieren. Trotzdem setzen die meisten Länder solche Batterien heute nur selten ein. Ein Grund dafür sind die noch hohen Technologiekosten, die Batterien für Investoren wenig attraktiv erscheinen lassen. Zwar könnten Subventionen wie bei Photovoltaik und Windenergie durchaus Investitionsanreize schaffen und Batterien mittelfristig vergünstigen, allerdings werden solche Politikmassnahmen oft teuer – Deutschland hat alleine in 2013 rund 19 Milliarden Euro in für erneuerbare Energien ausgegeben. Wir zeigen, dass solch hohe Subventionen bei Batterien nicht unbedingt notwendig sind. Denn Batterien haben einen entscheidenden Vorteil.\n\nBatterien können verschiedene Anwendungen bedienen und so auf unterschiedliche Weise einen Wert generieren: Eine Batterie kann beispielsweise den Solarstrom eines Haushaltes speichern, um ihn später verbrauchen zu können; sie kann Lastspitzen und damit Leistungspreise eines industriellen Endkunden reduzieren, oder die Stromqualität auf Netzebene verbessern.\n\nDazu kommt, dass solche Anwendungen kombiniert und von einer einzigen Batterie bedient werden können. Möglich ist das unter anderem durch moderne (Fern-) Steuerung der Batterie. Dies ist besonders dann interessant, wenn eine Anwendung alleine die Batteriekapazität nicht zu allen Zeiten vollständig nutzt. Gibt es also freie Kapazität, kann diese für mehrere andere Anwendungen eingesetzt werden, ohne dass zusätzliche Investitionen in Batteriekapazität anfallen. Ökonomisch bedeutet das, dass mehrfach genutzte Batterien sowohl zusätzliche Erträge generieren als auch die Risiken der Anwendungen kombinieren. Wie wirkt sich das auf die Wirtschaftlichkeit von Batterien aus?\n\nIn einer aktuellen Studie [1] zeigen wir anhand eines techno-ökonomischen Modells, dass kombinierte Anwendungen die Wirtschaftlichkeit (Ertrag und Risiko) einer Batterie insgesamt deutlich verbessern können. Mehr noch: Unsere Bewertung ausgewählter Anwendungen und deren Kombinationen für stationäre Li-Ionen-Batterien in Deutschland zeigt, dass zwei an sich nicht-profitable Einzelanwendungen zusammen sogar profitabel werden können.\n\nRegulatorische Hürden: Zwei Effekte spielen hier eine Rolle: Zum einen führt die gesteigerte Nutzung der Batterie zu mehr Ertrag – und das ohne zusätzliche Investitionskosten. Zum anderen unterliegt die zweite Anwendung normalerweise anderen Risiken (etwa Preisschwankungen oder Zahlungsausfall) als die erste, so sich dass das Gesamtrisiko durch sogenannte Poolingeffekte sogar verringern kann. Während einzelne Studien die Ertragssteigerung bereits diskutiert haben, wird der Effekt gepoolter Risiken bislang oft übersehen.\n\nDoch wenn geschicktes Kombinieren von technisch kompatiblen Anwendungen die Wirtschaftlichkeit erhöhen kann, warum gibt es trotzdem nur wenige derartige Geschäftsmodelle?\n\nViele Regulierungen im Stromsektor erschweren oder verhindern, dass Batterien gleichzeitig für unterschiedliche Anwendungen eingesetzt werden. Oft sind Speicher erst gar nicht regulatorisch definiert, und damit Einsatzmöglichkeiten sowie Erträge- und Kosten für Marktteilnehmer nicht transparent. Zudem favorisieren Genehmigungsverfahren in vielen Fällen eher etablierte, zentrale und grosse Speichertechnologien.\n\nDiese regulatorischen Hürden liessen sich wohl zu relativ geringen Kosten beseitigen. Unsere Resultate deuten darauf hin, dass dadurch neue Geschäftsmodelle entstehen und stationäre Batterien vermehrt zum Einsatz kommen könnten. Politik und die Strombranche sollten mögliche Auswirkungen etwa auf Netznutzung und -steuerung, Marktpreise oder Kraftwerkportfolios nicht unterschätzen.\n\nWeiterführende Information: [1] Stephan, A., Battke, B., Beuse, M.D., Clausdeinken, J.H., Schmidt, T.S., Limiting the public cost of stationary battery deplyoment, Nature Energy 1 , doi:10.1038/nenergy.2016.79 externe Seite Link\n\nZu den Autoren: Doktorandin am Institut Sustainability and Technology (Sustec), ETH Zürich",
   "named_entities": [
-    "Eine Batterie",
-    "Ein Grund",
     "Milliarden Euro",
     "Denn Batterien",
     "Unsere Bewertung",
@@ -14,7 +12,9 @@
     "Regulatorische Hürden",
     "Zwei Effekte",
     "Viele Regulierungen",
-    "Unsere Resultate"
+    "Unsere Resultate",
+    "Weiterführende Information",
+    "Nature Energy"
   ],
   "topics": [
     "Finance",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Eine Batterie und viele Anwendungen: Batterien können helfen, grosse Mengen an Wind- und Solarenergie ins Stromnetz zu integrieren....",
+  "summary": "Eine Batterie und viele Anwendungen: Batterien können helfen, grosse Mengen an Wind- und Solarenergie ins Stromnetz zu integrieren. Trotzdem setzen die meisten Länder solche Batterien heute nur selten ein. Ein Grund dafür sind die noch hohen Technologiekosten, die Batterien für Investoren wenig attraktiv erscheinen lassen....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 514,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "General Public"
     ],
@@ -48,6 +58,39 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.89,
+      "avg_word_length": 6.68,
+      "long_word_percentage": 42.41
+    },
+    "citation_info": {
+      "doi": "10.1038/nenergy.2016.79",
+      "journal": "",
+      "authors": [
+        "Eine Batterie",
+        "Anwendungen",
+        "Batterien",
+        "Mengen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Batteriekapazität",
+        "Deutschland",
+        "Grund"
+      ],
+      "departments": [
+        "Doktorandin am"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2013",
+          "1038"
+        ]
+      }
+    }
   }
 }

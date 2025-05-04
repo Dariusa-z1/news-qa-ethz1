@@ -9,12 +9,8 @@
     "Atlas-Rakete",
     "Insight-Lander",
     "Richtung Mars",
-    "Kalifornien",
-    "Nasa",
-    "News",
-    "Artikel",
-    "Webseite",
-    "CSCS"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Communication",
@@ -28,20 +24,58 @@
     "Campus",
     "Education"
   ],
-  "summary": "Am Samstag, 5. Mai, startete in Kalifornien eine Atlas-Rakete mit dem Insight-Lander der Nasa in Richtung Mars ( ETH-News berichtete )....",
+  "summary": "Am Samstag, 5. Mai, startete in Kalifornien eine Atlas-Rakete mit dem Insight-Lander der Nasa in Richtung Mars ( ETH-News berichtete ). Ein neuer Artikel auf der Webseite des CSCS, einer Service- und Forschungseinheit der ETH Zürich in Lugano, zeigt nun auf, welche Vorbereitungen getroffen worden sind, um die Datenanalyse der Bewegung von seismischen Wellen auf der Marsoberfläche zu berechnen....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 74,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Researchers"
     ],
     "context_tags": [
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 18.5,
+      "avg_word_length": 5.41,
+      "long_word_percentage": 31.08
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Am Samstag",
+        "Kalifornien",
+        "Rakete"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Lugano",
+        "Kalifornien",
+        "Richtung Mars",
+        "Englisch"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

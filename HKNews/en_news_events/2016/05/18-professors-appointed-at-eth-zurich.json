@@ -31,16 +31,26 @@
     "Zurich",
     "Photo",
     "Currently",
-    "With"
+    "Assistant"
   ],
-  "summary": "",
+  "summary": "Appointments at ETH Zurich: Upon application of the President of ETH Zurich, Professor Lino Guzzella, at its meeting of 25/26 May 2016 the ETH Board appointed a total of 18 professors, awarded the title of professor to one woman and took note of the resignation of one professor and thanked him for his services....",
+  "content_structure": {
+    "paragraph_count": 41,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 10,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 2245,
     "readability_score": "complex",
     "sentiment": "slightly negative",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff",
@@ -54,6 +64,43 @@
       "Sustainability",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.38,
+      "avg_word_length": 5.66,
+      "long_word_percentage": 38.13
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "the field covered by the National Centre of Competence in Research \"Quantum Science and Technology\"",
+      "authors": [
+        "Appointments",
+        "Zurich",
+        "President",
+        "Zurich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Tel Aviv University",
+        "Research",
+        "Ewald",
+        "Eawag",
+        "Hong Kong Institute"
+      ],
+      "departments": [
+        "currently Professor at Hong Kong",
+        "doctoral student at the Massachusetts",
+        "appointment will strengthen the Federal"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2016",
+          "1980"
+        ]
+      }
+    }
   }
 }

@@ -7,8 +7,8 @@
   "named_entities": [
     "Website Cultural Heritage",
     "Zurich Academia",
-    "June",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -26,14 +26,24 @@
     "Archives",
     "June"
   ],
-  "summary": "On 3 June 2018, ETH Zurich offers you the opportunity to experience its cultural heritage: during workshops, tours, talks and much more....",
+  "summary": "On 3 June 2018, ETH Zurich offers you the opportunity to experience its cultural heritage: during workshops, tours, talks and much more. ETH Zurich’s archives and institutes will be showing how today’s top-flight research creates the cultural heritage of tomorrow....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 105,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -42,6 +52,30 @@
       "Research",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.0,
+      "avg_word_length": 5.36,
+      "long_word_percentage": 36.19
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Zurich",
+        "Zurich"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2018"
+        ]
+      }
+    }
   }
 }

@@ -13,8 +13,8 @@
     "Princeton University",
     "Duke University",
     "Internationalen Mathematischen Union",
-    "Das Bildformat",
-    "Daubechies Forschungserfolge"
+    "Daubechies Forschungserfolge",
+    "Bavo-Kathedrale"
   ],
   "topics": [
     "Research",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Miterfinderin von JPEG 2000: Eigentlich wollte Ingrid Daubechies als Kind ihrem Vater nacheifern und Ingenieurin werden....",
+  "summary": "Miterfinderin von JPEG 2000: Eigentlich wollte Ingrid Daubechies als Kind ihrem Vater nacheifern und Ingenieurin werden. Doch ihre Affinität zu Mathematik und zur Lösung komplexer mathematischer Fragestellungen kam ihr dabei in die Quere. Bald studierte sie an der Vrije Universiteit in Brüssel Physik und absolvierte ihr Doktorat ebendort in theoretischer Physik....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 832,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Faculty",
@@ -51,6 +61,49 @@
       "Technology",
       "Research",
       "Events"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 13.87,
+      "avg_word_length": 6.2,
+      "long_word_percentage": 37.62
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Miterfinderin",
+        "Eigentlich",
+        "Ingrid Daubechies"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "20.15 Uhr"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [
+        "Meister",
+        "Ghent",
+        "Zusammenarbeit",
+        "Bild",
+        "Brüssel Physik"
+      ],
+      "departments": [
+        "Professor am"
+      ],
+      "contact_info": {
+        "emails": [],
+        "websites": [
+          "pauli-lectures.ethz.ch"
+        ],
+        "phones": [
+          "2000",
+          "2011"
+        ]
+      }
+    }
   }
 }

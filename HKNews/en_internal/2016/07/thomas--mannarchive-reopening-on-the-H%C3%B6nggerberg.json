@@ -8,10 +8,8 @@
     "Thomas Mann",
     "Thomas Mann Archive",
     "Bodmer-Haus",
-    "The Thomas Mann Archive",
-    "University",
-    "Zurich",
     "ETH Zurich",
+    "ETH",
     "University of Zurich"
   ],
   "topics": [
@@ -26,16 +24,26 @@
     "Thomas",
     "Mann",
     "Archive",
-    "With"
+    "Move"
   ],
-  "summary": "The reading room and Thomas Mann's last study can be visited there with extended opening times....",
+  "summary": "The reading room and Thomas Mann's last study can be visited there with extended opening times. To coincide with the move, the Thomas Mann Archive has also modernised its website, where the latest news on its activities is presented in a new design. Once the building has been fully renovated, the University of Zurich will find a new purpose for the Bodmer-Haus, where the Thomas Mann Archive was housed from 1961....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 106,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "News Article",
     "audience_type": [
       "Students"
     ],
@@ -43,6 +51,30 @@
       "Infrastructure",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 21.2,
+      "avg_word_length": 4.61,
+      "long_word_percentage": 22.64
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Thomas Mann",
+        "Thomas Mann Archive"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1961"
+        ]
+      }
+    }
   }
 }

@@ -7,12 +7,8 @@
   "named_entities": [
     "Ego Movement",
     "Projekt Neptun",
-    "Living",
-    "Zurich",
-    "Bikes",
-    "Zentrum",
-    "ASVZ",
-    "ETH"
+    "ETH",
+    "ASVZ"
   ],
   "topics": [
     "Campus Life",
@@ -26,19 +22,29 @@
     "Will",
     "Campus",
     "Service",
-    "Also",
-    "That",
     "Shop",
-    "Ebikes"
+    "Ebikes",
+    "Other",
+    "Visitors"
   ],
-  "summary": "Living on campus as well as studying there dramatically reduces your commute, yet mobility remains a key issue for campus residents....",
+  "summary": "Living on campus as well as studying there dramatically reduces your commute, yet mobility remains a key issue for campus residents. That's why Zurich startup Ego Movement has set up shop in the HWW, offering E-Bikes and a variety of other bike-related services....",
+  "content_structure": {
+    "paragraph_count": 4,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 242,
     "readability_score": "moderately complex",
     "sentiment": "positive",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students",
       "Staff"
@@ -48,6 +54,29 @@
       "Catering",
       "Infrastructure",
       "Technology"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 24.2,
+      "avg_word_length": 4.6,
+      "long_word_percentage": 23.97
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Living",
+        "Zurich",
+        "Ego Movement"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

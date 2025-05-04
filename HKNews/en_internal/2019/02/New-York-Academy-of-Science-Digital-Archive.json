@@ -7,12 +7,8 @@
   "named_entities": [
     "Wiley Digital Archives",
     "New York Academy",
-    "Members",
-    "Zurich",
-    "Science",
-    "American",
-    "Library",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -29,14 +25,24 @@
     "Archives",
     "Academy"
   ],
-  "summary": "Members of ETH Zurich now have access to the Wiley Digital Archives with interdisciplinary original materials from the New York Academy of Science dating back to its foundation in 1817....",
+  "summary": "Members of ETH Zurich now have access to the Wiley Digital Archives with interdisciplinary original materials from the New York Academy of Science dating back to its foundation in 1817. Access takes place via the Wiley Digital Archives and, besides research-related sources, it also gives insight into the internal administrative processes of the Academy and its members....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 98,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -44,6 +50,33 @@
       "Technology",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 24.5,
+      "avg_word_length": 5.19,
+      "long_word_percentage": 36.73
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Members",
+        "Zurich",
+        "Wiley Digital Archives",
+        "New York Academy",
+        "Science"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1817"
+        ]
+      }
+    }
   }
 }

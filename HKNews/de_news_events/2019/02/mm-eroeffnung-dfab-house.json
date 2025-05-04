@@ -7,14 +7,14 @@
   "named_entities": [
     "Vom Labor",
     "Schweizer Künstlers",
-    "Auf Zuruf",
     "Science-Fiction-Film",
     "Dübendorf Realität",
     "Nationalen Forschungsschwerpunkts",
     "Digitale Fabrikation",
     "Factsheet Digitale Fabrikation",
     "Matthias Kohler",
-    "Ein Firmenkonsortium"
+    "Smart-Home-Lösungen",
+    "Factsheet Digitales Wohnen"
   ],
   "topics": [
     "Technology & Innovation",
@@ -32,14 +32,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "Vom Labor zur architektonischen Anwendung: Eine feingliedrige Betondecke – gegossen in 3D-gedruckten Schalungen – und eine geschwungene, von einem Bauroboter erstellte Betonwand prägen die Architektur des Wohnzimmers, das in seiner Ästhetik entfernt an die Filmsets des Schweizer Künstlers HR Giger erinnert....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 604,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers",
@@ -50,6 +60,36 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.37,
+      "avg_word_length": 6.21,
+      "long_word_percentage": 36.59
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Vom Labor",
+        "Anwendung",
+        "Betondecke",
+        "Schalungen"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Science-Fiction-Film",
+        "Bezug",
+        "Wissenschaftler",
+        "Zusammenarbeit",
+        "Firmenkonsortium"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

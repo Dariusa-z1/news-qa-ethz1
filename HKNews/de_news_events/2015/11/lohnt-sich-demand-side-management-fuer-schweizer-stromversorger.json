@@ -7,14 +7,14 @@
   "named_entities": [
     "Sogenanntes Demand-Side-Management",
     "Ländern Europas",
-    "Die Reduktion",
     "Demand Response",
     "Schweizer Stromversorger",
     "Bereich Energieeffizienz",
-    "Für Privathaushalte",
     "Beispiel Strommessgeräte",
     "Diese Massnahmen",
-    "Die Einführung"
+    "Diese Unternehmen",
+    "Schweizer Haushalte",
+    "Schweizer Stromversorgern"
   ],
   "topics": [
     "Sustainability",
@@ -33,14 +33,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "",
+  "summary": "DSM in der Schweiz: Sogenanntes Demand-Side-Management (DSM) bezeichnet ursprünglich Planungs-, Einführungs- und Beobachtungsaktivitäten von Stromversorgungsunternehmen, um Konsumenten dazu zu bringen, ihre Stromnachfrage anzupassen – sei das durch zeitliche Verschiebung oder Verringerung des Verbrauchs....",
+  "content_structure": {
+    "paragraph_count": 10,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 705,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers",
       "Administration",
@@ -51,6 +61,36 @@
       "Research",
       "Administrative",
       "Communications"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.03,
+      "avg_word_length": 6.29,
+      "long_word_percentage": 36.6
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Schweiz",
+        "Sogenanntes Demand",
+        "Management",
+        "Planungs"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Switzerland",
+        "Abwesenheit"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1970",
+          "2009"
+        ]
+      }
+    }
   }
 }

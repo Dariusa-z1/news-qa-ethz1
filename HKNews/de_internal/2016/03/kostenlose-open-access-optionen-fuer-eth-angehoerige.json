@@ -12,9 +12,8 @@
     "Open-Access-Option",
     "Ihre Zugehörigkeit",
     "Open-Access-Zeitschriften",
-    "Gutscheine",
-    "Chemistry",
-    "Research"
+    "ETH Zürich",
+    "ETH"
   ],
   "topics": [
     "Research",
@@ -29,14 +28,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Gutscheine für die Zeitschriften der externe Seite Royal Society of Chemistry sowie für externe Seite F1000 Research können Sie bei der Fachstelle E-Publishing der ETH-Bibliothek beantragen....",
+  "summary": "Gutscheine für die Zeitschriften der externe Seite Royal Society of Chemistry sowie für externe Seite F1000 Research können Sie bei der Fachstelle E-Publishing der ETH-Bibliothek beantragen. Bei den Zeitschriften der externe Seite Electrochemical Society wird ein kostenloser \"Article Credit\" aktiviert, sobald Sie beim Einreichen Ihres Manuskripts die Open-Access-Option wählen und Ihre Zugehörigkeit zur ETH Zürich angeben....",
+  "content_structure": {
+    "paragraph_count": 3,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 66,
     "readability_score": "complex",
     "sentiment": "positive",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Researchers"
     ],
@@ -44,6 +53,34 @@
       "Financial",
       "Research",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 22.0,
+      "avg_word_length": 6.2,
+      "long_word_percentage": 37.88
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Gutscheine",
+        "Zeitschriften",
+        "Seite Royal Society",
+        "Chemistry"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Open-Access-Zeitschriften"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1000"
+        ]
+      }
+    }
   }
 }

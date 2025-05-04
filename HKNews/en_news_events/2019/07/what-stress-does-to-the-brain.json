@@ -8,12 +8,8 @@
     "Johannes Bohacek",
     "Nicole Wenderoth",
     "Valerio Zerbi",
-    "Astonishing",
-    "Zurich",
-    "Overall",
-    "Scientifica",
-    "German",
-    "ETH Zurich"
+    "ETH Zurich",
+    "ETH"
   ],
   "topics": [
     "Weather & Environment",
@@ -27,19 +23,29 @@
     "ETH Zurich",
     "Brain",
     "Noradrenaline",
-    "That",
     "Release",
     "Which",
-    "Researchers"
+    "Researchers",
+    "Results"
   ],
-  "summary": "Astonishing results: In moments of acute stress – for example, a life-threatening situation in road traffic – our brain has just a split second to react....",
+  "summary": "Astonishing results: In moments of acute stress – for example, a life-threatening situation in road traffic – our brain has just a split second to react. It focuses attention on the most important environmental cues in order to make life-or-death decisions in fractions of a second....",
+  "content_structure": {
+    "paragraph_count": 8,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 427,
     "readability_score": "complex",
     "sentiment": "negative",
-    "contains_compound_words": true,
-    "contains_umlauts": false,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Faculty",
       "Researchers"
@@ -49,6 +55,30 @@
       "Technology",
       "Research",
       "Communications"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 23.72,
+      "avg_word_length": 5.42,
+      "long_word_percentage": 33.96
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Astonishing"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "German",
+        "Scientifica"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

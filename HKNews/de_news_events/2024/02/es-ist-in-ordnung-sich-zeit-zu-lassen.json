@@ -7,14 +7,7 @@
   "named_entities": [
     "Bachelor-Studiums",
     "Damla Ortac",
-    "Ihnen Beratungsstellen",
-    "Main",
-    "Nach",
-    "Abschluss",
-    "Informatik",
-    "Stelle",
-    "Softwareingenieurin",
-    "Zweifel"
+    "Ihnen Beratungsstellen"
   ],
   "topics": [
     "Education",
@@ -30,14 +23,24 @@
     "Campus",
     "Education"
   ],
-  "summary": "Main article: Nach dem Abschluss ihres Bachelor-Studiums in Informatik hatte Damla Ortac bereits eine Stelle als Softwareingenieurin....",
+  "summary": "Main article: Nach dem Abschluss ihres Bachelor-Studiums in Informatik hatte Damla Ortac bereits eine Stelle als Softwareingenieurin. Doch noch bevor sie begonnen hatte, kamen ihr Zweifel und sie schlug einen ganz anderen Weg ein. Beratung für Studierende: Es stehen Ihnen Beratungsstellen für alle Situationen im Studium zur Verfügung....",
+  "content_structure": {
+    "paragraph_count": 2,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 49,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Research Publication",
     "audience_type": [
       "Students"
     ],
@@ -46,6 +49,31 @@
       "Research",
       "Education",
       "Career"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 16.33,
+      "avg_word_length": 5.76,
+      "long_word_percentage": 32.65
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Abschluss",
+        "Bachelor",
+        "Studiums"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "Informatik"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": []
+      }
+    }
   }
 }

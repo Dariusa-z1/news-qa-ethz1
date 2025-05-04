@@ -10,11 +10,9 @@
     "Student Project House",
     "Hall Monday",
     "Student Project House Clausiusstrasse",
-    "Exhibition",
-    "What",
-    "Agenda",
-    "SDGs",
-    "Together"
+    "ETH Zurich",
+    "ETH",
+    "Hönggerberg"
   ],
   "topics": [
     "Sustainability",
@@ -31,16 +29,26 @@
     "Development",
     "Exhibition",
     "March",
-    "2022"
+    "Global"
   ],
-  "summary": "Exhibition and events: What contribution can science and technology make to fighting global poverty, protecting the planet, and ensuring that by 2030 all people enjoy peace and prosperity?...",
+  "summary": "Exhibition and events: What contribution can science and technology make to fighting global poverty, protecting the planet, and ensuring that by 2030 all people enjoy peace and prosperity? In 2015, the 193 UN members have adopted the 2030 Agenda for sustainable development....",
+  "content_structure": {
+    "paragraph_count": 7,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 242,
     "readability_score": "complex",
     "sentiment": "neutral",
-    "contains_compound_words": true,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Students",
       "Researchers"
@@ -50,6 +58,40 @@
       "Infrastructure",
       "Technology",
       "Research"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 30.25,
+      "avg_word_length": 5.02,
+      "long_word_percentage": 27.27
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Exhibition",
+        "Agenda"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "7 – 18",
+        "7:30-20:30",
+        "16:00-18:00"
+      ],
+      "event_names": []
+    },
+    "semantic_entities": {
+      "locations": [],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "2030",
+          "2015"
+        ]
+      }
+    }
   }
 }

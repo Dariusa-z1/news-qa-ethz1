@@ -11,10 +11,10 @@
     "German Autumn",
     "Bundeskanzler-Helmut-Schmidt-Stiftung",
     "Max Frisch Archive",
-    "On Wednesday",
     "Audi Max",
     "Writer Nora Bossong",
-    "Flavia Kleiner"
+    "Flavia Kleiner",
+    "Operation Libero"
   ],
   "topics": [
     "Research",
@@ -28,17 +28,27 @@
     "Helmut",
     "Schmidt",
     "Exhibition",
-    "With",
-    "German"
+    "German",
+    "Author"
   ],
-  "summary": "Exhibition: Former German Chancellor Helmut Schmidt (1918–2015) was an assertive Realpolitiker who steered Germany through a series of dramatic crises during his period of office....",
+  "summary": "Exhibition: Former German Chancellor Helmut Schmidt (1918–2015) was an assertive Realpolitiker who steered Germany through a series of dramatic crises during his period of office. The politician and author was always interested in informed and challenging debates, and actively reached out to intellectuals for this purpose....",
+  "content_structure": {
+    "paragraph_count": 11,
+    "bullet_points": 0,
+    "numbered_items": 0,
+    "headings": 0,
+    "quotes": 0,
+    "formatting": {
+      "bold_text": 0,
+      "italic_text": 0,
+      "links": 0
+    }
+  },
   "rich_metadata": {
     "document_length_words": 336,
     "readability_score": "moderately complex",
     "sentiment": "neutral",
-    "contains_compound_words": false,
-    "contains_umlauts": true,
-    "embedding_vector": "[...]",
+    "document_type": "Event Announcement",
     "audience_type": [
       "Researchers"
     ],
@@ -46,6 +56,48 @@
       "Research",
       "Events",
       "ETH Internal"
-    ]
+    ],
+    "complexity_metrics": {
+      "avg_words_per_sentence": 15.27,
+      "avg_word_length": 5.01,
+      "long_word_percentage": 28.27
+    },
+    "citation_info": {
+      "doi": "",
+      "journal": "",
+      "authors": [
+        "Exhibition",
+        "Former German Chancellor Helmut Schmidt",
+        "Realpolitiker",
+        "Germany"
+      ]
+    },
+    "temporal_info": {
+      "event_dates": [],
+      "time_references": [
+        "18–20",
+        "11–19"
+      ],
+      "event_names": [
+        "On Wednesday, 8 June 2022, 18"
+      ]
+    },
+    "semantic_entities": {
+      "locations": [
+        "China",
+        "Hamburg",
+        "Friday",
+        "Zurich"
+      ],
+      "departments": [],
+      "contact_info": {
+        "emails": [],
+        "websites": [],
+        "phones": [
+          "1918",
+          "2015"
+        ]
+      }
+    }
   }
 }
