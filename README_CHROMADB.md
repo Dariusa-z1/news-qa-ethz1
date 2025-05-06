@@ -7,7 +7,7 @@ This repository contains scripts to process ETH Zürich news articles and query 
 The ChromaDB is split into parts to accommodate GitHub's file size limits. To set up:
 
 1. Clone this repository
-2. Run `python reassemble_chromadb.py` to rebuild the database from parts
+2. Run `python scripts/reassemble_chromadb.py` to rebuild the database from parts
 3. Use the database as shown below
 
 ## Usage
