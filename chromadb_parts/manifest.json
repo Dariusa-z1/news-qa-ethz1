@@ -1,0 +1,56 @@
+{
+  "collection_id": "ad25b6ad-8a29-4a4d-8f98-d4827facf59a",
+  "max_part_size_mb": 25,
+  "files": [
+    {
+      "id": "sqlite3",
+      "original_path": "chroma.sqlite3",
+      "parts": [
+        "sqlite3_part_aa",
+        "sqlite3_part_ab",
+        "sqlite3_part_ac",
+        "sqlite3_part_ad",
+        "sqlite3_part_ae",
+        "sqlite3_part_af",
+        "sqlite3_part_ag",
+        "sqlite3_part_ah",
+        "sqlite3_part_ai",
+        "sqlite3_part_aj",
+        "sqlite3_part_ak",
+        "sqlite3_part_al",
+        "sqlite3_part_am",
+        "sqlite3_part_an",
+        "sqlite3_part_ao",
+        "sqlite3_part_ap",
+        "sqlite3_part_aq"
+      ]
+    },
+    {
+      "id": "data_level0.bin",
+      "original_path": "ad25b6ad-8a29-4a4d-8f98-d4827facf59a/data_level0.bin",
+      "parts": [
+        "data_level0.bin_part_aa",
+        "data_level0.bin_part_ab",
+        "data_level0.bin_part_ac"
+      ]
+    }
+  ],
+  "small_files": [
+    {
+      "original_path": "ad25b6ad-8a29-4a4d-8f98-d4827facf59a/link_lists.bin",
+      "part": "link_lists.bin"
+    },
+    {
+      "original_path": "ad25b6ad-8a29-4a4d-8f98-d4827facf59a/header.bin",
+      "part": "header.bin"
+    },
+    {
+      "original_path": "ad25b6ad-8a29-4a4d-8f98-d4827facf59a/length.bin",
+      "part": "length.bin"
+    },
+    {
+      "original_path": "ad25b6ad-8a29-4a4d-8f98-d4827facf59a/index_metadata.pickle",
+      "part": "index_metadata.pickle"
+    }
+  ]
+}
