@@ -24,18 +24,17 @@
         "sqlite3_part_ap",
         "sqlite3_part_aq"
       ]
-    },
-    {
-      "id": "data_level0.bin",
-      "original_path": "ad25b6ad-8a29-4a4d-8f98-d4827facf59a/data_level0.bin",
-      "parts": [
-        "data_level0.bin_part_aa",
-        "data_level0.bin_part_ab",
-        "data_level0.bin_part_ac"
-      ]
     }
   ],
   "small_files": [
+    {
+      "original_path": "ad25b6ad-8a29-4a4d-8f98-d4827facf59a/length.bin",
+      "part": "length.bin"
+    },
+    {
+      "original_path": "ad25b6ad-8a29-4a4d-8f98-d4827facf59a/data_level0.bin",
+      "part": "data_level0.bin"
+    },
     {
       "original_path": "ad25b6ad-8a29-4a4d-8f98-d4827facf59a/link_lists.bin",
       "part": "link_lists.bin"
@@ -43,14 +42,6 @@
     {
       "original_path": "ad25b6ad-8a29-4a4d-8f98-d4827facf59a/header.bin",
       "part": "header.bin"
-    },
-    {
-      "original_path": "ad25b6ad-8a29-4a4d-8f98-d4827facf59a/length.bin",
-      "part": "length.bin"
-    },
-    {
-      "original_path": "ad25b6ad-8a29-4a4d-8f98-d4827facf59a/index_metadata.pickle",
-      "part": "index_metadata.pickle"
     }
   ]
 }
