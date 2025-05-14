@@ -1,46 +1,33 @@
-# 📰 News QA ETHZ - RAG System
+# News QA ETH Z1
 
-Welcome! This project is part of the *Advanced Generative AI* course at HSLU, in collaboration with ETH Zurich and Google DeepMind.
+A graph-based retrieval system for Ethereum news and documentation.
 
-## ✨ Goal
-Build a **Retrieval-Augmented Generation (RAG)** system that answers questions using ETH Zurich news articles.
+## Installation
 
-## 🔄 Steps
-- **Data Preparation**: Parsing and cleaning German and English news articles.
-- **RAG Development**: Implementing BM25, Dense Retrieval, GraphRAG, or Hybrid retrieval.
-- **Evaluation**: Automated and human-based answer evaluation.
-
-## 🔹 Project Structure
-```
-news-qa-ethz/
-├── HKNews/          # Raw news HTML files
-├── data/            # Cleaned dataset (coming soon)
-├── retrievers/      # Retrieval methods (coming soon)
-├── rerankers/       # Re-ranking models (coming soon)
-├── notebooks/       # Data processing and experiments
-├── README.md
-├── requirements.txt # To be added
-├── .gitignore
-└── venv/            # Virtual environment (ignored)
-```
-
-## 📚 Setup
 ```bash
+# Clone the repository
 git clone https://github.com/Dariusa-z1/news-qa-ethz1.git
+cd news-qa-ethz1
 
-cd news-qa-ethz
-
+# Create and activate a virtual environment
 python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-source venv/bin/activate
-
+# Install dependencies
 pip install -r requirements.txt
+
+# Download required language models
+python -m spacy download de_core_news_lg
 ```
 
-## 📓 Notes
-- Project is under active development.
-- Individual contributions will be documented.
+## Usage
 
----
-❤️ ETH Zurich | HSLU | Google DeepMind | 2025
+[Add usage instructions here]
 
+## Structure
+
+[Add project structure description here]
+
+## License
+
+[Add license information here]
