@@ -2,9 +2,10 @@ from pathlib import Path
 import json
 import requests
 import re
+import time
 
 # === Configuration ===
-GROQ_API_KEY = ""  # Replace with your actual API key
+GROQ_API_KEY = "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"  # Replace with your actual API key
 MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"
 RESULTS_DIR = Path(__file__).resolve().parent.parent / "notebooks" / "bm25_results"
 
@@ -52,6 +53,21 @@ Without any explanation, just the score.
     response.raise_for_status()
     return response.json()["choices"][0]["message"]["content"].strip()
 
+
+# === Retry Wrapper ===
+def safe_groq_call(question, reference, document_text, retries=5, delay=10):
+    for attempt in range(retries):
+        try:
+            return ask_groq(question, reference, document_text)
+        except requests.exceptions.HTTPError as e:
+            if e.response.status_code == 429:
+                wait_time = delay * (2 ** attempt)  # 10s, 20s, 40s, ...
+                print(f"429 Rate limit hit. Waiting {wait_time} seconds before retry {attempt + 1}/{retries}")
+                time.sleep(wait_time)
+            else:
+                raise
+    return "ERROR: Too many retries due to repeated 429 errors"
+
 # === Run for top-5 documents per question ===
 def store_groq_top5_scores():
     all_scores = []
@@ -70,10 +86,7 @@ def store_groq_top5_scores():
             doc_text = res.get("main_content") or res.get("summary") or res.get("content_snippet", "")
             print(f"→ [{file.name}] Rank {i+1}")
 
-            try:
-                score_text = ask_groq(question, reference, doc_text)
-            except Exception as e:
-                score_text = f"ERROR: {str(e)}"
+            score_text = safe_groq_call(question, reference, doc_text)
 
             scored_results.append({
                 "rank": i + 1,
@@ -82,7 +95,9 @@ def store_groq_top5_scores():
                 "document_text": doc_text,
                 "groq_response": score_text
             })
-
+        # Pause after evaluating this full question (top-5 done)
+        time.sleep(10)
+        
         all_scores.append({
             "file": file.name,
             "question": question,
@@ -93,7 +108,8 @@ def store_groq_top5_scores():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(all_scores, f, indent=2, ensure_ascii=False)
 
-    print(f"Saved all Groq top-5 scores to: {OUTPUT_FILE}")
+    print(f" Saved all Groq top-5 scores to: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     store_groq_top5_scores()
+
