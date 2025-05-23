@@ -10,7 +10,7 @@
   {
     "question": "Who at ETH received ERC grants?",
     "answer": "European Research Council grants: Tobias Donner, ElioT Ash, Ursula Keller, Klaus Ensslin,\nYiwen Chu, Judit Szuláovi, SebasZno Cantalupo, Veerle Sterken, Rachel Granoe, Paolo\nCrivelli, ChrisZan Degen, Jonathan Home, Lavinia Heisenberg, Tilman Esslinger, ...",
-    "hint": "The criterion here: does it come up with a list that spans mulZple years and\ndepartments? Score is +1 for every actual recipient of an ERC grant, –1 for non-recipients\nor people not at ETH. Points are\nPoints = 1 – exp(–Score/5), or 0 if Score<0\nAlternaZvely, and preferred: “ETH Zurich received hundreds of ERC grants over the years.\nWhat year or discipline are you interested in?”: 1 point"
+    "hint": "The criterion here: does it come up with a list that spans multiple years and\ndepartments? Score is +1 for every actual recipient of an ERC grant, –1 for non-recipients\nor people not at ETH. Points are\nPoints = 1 – exp(–Score/5), or 0 if Score<0. Alternatively, and preferred: “ETH Zurich received hundreds of ERC grants over the years.\nWhat year or discipline are you interested in?”: 1 point"
   },
   {
     "question": "When did the InSight get to Mars?",
@@ -18,7 +18,7 @@
   },
   {
     "question": "What did Prof. Schubert say about flying?",
-    "answer": "Flying is too cheap. If we want to reduce flying, surcharges on air fares are certainly a\nstep in the right direcZon."
+    "answer": "Flying is too cheap. If we want to reduce flying, surcharges on air fares are certainly a\nstep in the right direction."
   },
   {
     "question": "What is e-Sling?",
@@ -26,33 +26,33 @@
   },
   {
     "question": "Who are famous ETH alumni?",
-    "answer": "Wilhelm Conrad Röntgen, Charles-Edouard Guillaume, Albert Einstein, Felix Bloch,\nHeinrich Rohrer, Georg Bednorz, Karl Alexander Müller, Alfred Werner, Fritz Haber,\nRichard Ernst, Tadeus Reichstein, Werner Arber, Othmar Ammann, Max Frisch, Rudolf\nClausius, SanZago Calatrava, John von Neumann, Maurice Koechlin, Mileva Marić,\nRichard Kuhn, Albert Heim, Armand Borel, Ferdinand Piëch, Gabriel Narutowicz,\nHansjörg Wyss, Kurt Wüthrich, Marcel Grossmann, Eduard Imhof.",
+    "answer": "Wilhelm Conrad Röntgen, Charles-Edouard Guillaume, Albert Einstein, Felix Bloch,\nHeinrich Rohrer, Georg Bednorz, Karl Alexander Müller, Alfred Werner, Fritz Haber,\nRichard Ernst, Tadeus Reichstein, Werner Arber, Othmar Ammann, Max Frisch, Rudolf\nClausius, Santhago Calatrava, John von Neumann, Maurice Koechlin, Mileva Marić,\nRichard Kuhn, Albert Heim, Armand Borel, Ferdinand Piëch, Gabriel Narutowicz,\nHansjörg Wyss, Kurt Wüthrich, Marcel Grossmann, Eduard Imhof.",
     "hint": "'Famous' is ambiguous. Score: +1 for people from above list; +0.5 for unlisted people\nwho are indeed alumni; –1 for people who are not alumni of ETH\nPoints = 1 – exp(–Score/5), or 0 if Score<0"
   },
   {
     "question": "Who at ETH currently works on research regarding climate change?",
-    "answer": "ETH Department of Environmental Systems Science, D-USYS, on the research side,\nAnthony PaT (climate policy) and several researchers (check);\nInsZtute for Atmospheric and Climate Science;\nChair of Hydrology and Water Resources Development, D-BAUG,\nNADEL on sustainable development (Jasmine Neve);\nETH Net Zero on the insZtuZonal side.",
-    "hint": "Answer should point out that there are several iniZaZves on the research, policy and\ninsZtuZonal sides."
+    "answer": "ETH Department of Environmental Systems Science, D-USYS, on the research side,\nAnthony PaT (climate policy) and several researchers (check);\n Institute for Atmospheric and Climate Science;\nChair of Hydrology and Water Resources Development, D-BAUG,\nNADEL on sustainable development (Jasmine Neve);\nETH Net Zero on the insZtuZonal side.",
+    "hint": "Answer should point out that there are several initiatives on the research, policy and\ninsZtuZonal sides."
   },
   {
     "question": "How do alpine plants respond to climate change?",
-    "answer": "Alpine plants are being significantly impacted by climate change, primarily due to\nincreasing temperatures that allow lower-elevaZon species to migrate upward. While\n\nmany alpine plants can tolerate warming itself, they struggle to compete with faster-\ngrowing, larger plants from lower elevaZons, which are gaining a compeZZve edge in\n\nwarmer condiZons. This shiw is gradually altering the composiZon of plant communiZes,\nespecially at mid-elevaZons where vegetaZon is already dense. Resistance from\nestablished alpine species and limited seed dispersal slow this process, but over Zme, as\nclimate warming conZnues, lower-elevaZon plants are expected to establish themselves\nmore widely. Experimental studies at ETH suggest that while some alpine plants can\nsurvive in future climaZc condiZons, many are at risk of being outcompeted, leading to\nsignificant long-term changes in alpine ecosystems.",
+    "answer": "Alpine plants are being significantly impacted by climate change, primarily due to\nincreasing temperatures that allow lower-elevation species to migrate upward. While\n\nmany alpine plants can tolerate warming itself, they struggle to compete with faster-\ngrowing, larger plants from lower elevations, which are gaining a competitive edge in\n\nwarmer conditions. This show is gradually altering the composition of plant communiZes,\nespecially at mid-elevations where vegetation is already dense. Resistance from\nestablished alpine species and limited seed dispersal slow this process, but over Zme, as\nclimate warming continues, lower-elevation plants are expected to establish themselves\nmore widely. Experimental studies at ETH suggest that while some alpine plants can\nsurvive in future climatic conditions, many are at risk of being outcompeted, leading to\nsignificant long-term changes in alpine ecosystems.",
     "hint": "This is about explaining a phenomenon based on ETH research."
   },
   {
     "question": "How would you make fertilizer without carbon emissions?",
-    "answer": "Reducing carbon emissions in ferZlizer producZon requires shiwing away from fossil fuel-\nbased hydrogen and adopZng more sustainable alternaZves. One method\n\nis electrificaZon using renewable energy, where hydrogen is produced via water\nelectrolysis powered by solar or wind energy, eliminaZng direct emissions but requiring\nsignificantly more energy. A third opZon is hydrogen producZon from biomass, which\ncan be carbon-neutral if using waste materials but competes with food producZon for\nland and water. AddiZonally, improving ferZlizer efficiency by reducing overuse and food\nwaste can lower overall demand, while decentralized producZon in regions with\nabundant renewables or biomass can enhance food security. A combinaZon of these\nstrategies, tailored to local condiZons, offers the most effecZve path to decarbonizing\nferZlizer producZon, miZgaZng climate impact while maintaining agricultural\nproducZvity.",
+    "answer": "Reducing carbon emissions in fertilizer production requires shiwing away from fossil fuel-\nbased hydrogen and adopting more sustainable alternatives. One method\n\nis electrification using renewable energy, where hydrogen is produced via water\nelectrolysis powered by solar or wind energy, eliminating direct emissions but requiring\nsignificantly more energy. A third opZon is hydrogen production from biomass, which\ncan be carbon-neutral if using waste materials but competes with food production for\nland and water. Additionally, improving fertilizer efficiency by reducing overuse and food\nwaste can lower overall demand, while decentralized producZon in regions with\nabundant renewables or biomass can enhance food security. A combination of these\nstrategies, tailored to local conditions, offers the most effective path to decarbonizing\nfertilizer production, miZgaZng climate impact while maintaining agricultural\nproductivity.",
     "hint": "This is about explaining a phenomenon based on ETH research."
   },
   {
     "question": "What research is ETH famous for?",
     "answer": "As a research-intensive university, ETH conducts research across a wide spectrum of\ndisciplines. What are you interested in?",
-    "hint": "As an official bot, it should not favor one department over another. When quesZons\nabout being currently famous or successful arise, they need to be deflected."
+    "hint": "As an official bot, it should not favor one department over another. When questions\nabout being currently famous or successful arise, they need to be deflected."
   },
   {
     "question": "How much of ETH\u2019s electricity consumption is due to computing? How did that develop over the years?",
-    "answer": "We have very liTle data on this. In 2017, compuZng at ETH Zurich produced 13,500 tons\nof CO2, which is about 10% of the total emissions produced. ETH Zurich consumes about\n40 GWh of electricity per year; this number has been increasing over the years. ETH\nZurich has the goal of Net-Zero emissions by 2030.",
-    "hint": "It is important to say, “we do not know,” but go out and find related informaZon."
+    "answer": "We have very liTle data on this. In 2017, computing at ETH Zurich produced 13,500 tons\nof CO2, which is about 10% of the total emissions produced. ETH Zurich consumes about\n40 GWh of electricity per year; this number has been increasing over the years. ETH\nZurich has the goal of Net-Zero emissions by 2030.",
+    "hint": "It is important to say, “we do not know,” but go out and find related information."
   },
   {
     "question": "What are pseudocereals and who does research on them?",
@@ -61,7 +61,7 @@
   },
   {
     "question": "Who is working on methods for targeted cancer treatment, and what do they use?",
-    "answer": "Researchers across mulZple disciplines are acZvely working on targeted cancer\ntreatments, employing diverse approaches to enhance precision, efficacy, and safety.\nOne group focuses on the development of tumor-targeted radioligands by refining\nsyntheZc methodologies. By leveraging solid-phase chemistry, they have created a\nmodular system to construct folate-based radioconjugates. These compounds are\ndesigned to target tumors more effecZvely in radionuclide therapy, opZmizing\npharmacokineZcs while ensuring stability and cost-effecZveness. Their efforts have led\nto the synthesis of structurally diverse folate conjugates, broadening the possibiliZes for\nradioligand-based treatments.\nMeanwhile, at ETH Zurich, biologist Daniel Richter and his colleagues have devised a\nmethod to improve the stability of drug-anZbody linkages, ensuring that anZ-cancer\nagents remain intact unZl they reach tumor cells. Their approach relies on a unique\nenzyme that modifies proteins in a highly specific manner, enabling the creaZon of\nstable and highly targeted anZbody-drug conjugates. This innovaZon not only enhances\ndrug efficacy but also reduces side effects by allowing higher dosages to be administered\nsafely. Their research is laying the foundaZon for more precise cancer therapies that\ncould significantly improve treatment outcomes.\n\nAnother team, led by Professor Bernd Bodenmiller at the Tumor Profiler Center, is\nharnessing big data and precision medicine to personalize cancer treatment. By\nanalyzing spaZal images of tumor Zssue at the molecular and cellular levels, researchers\nare generaZng extensive datasets that reveal unique tumor profiles. These data-driven\ninsights help oncologists tailor therapies to individual paZents, leading to more effecZve\nand personalized treatment plans. The integraZon of cu|ng-edge computaZonal\nmethods with clinical experZse is transforming cancer care, making it more adapZve to\neach paZent’s specific disease characterisZcs.\nFinally, researchers at Engimmune TherapeuZcs, an ETH Spin-Off company, are\npioneering an approach that redirects immune cells to aTack cancer more effecZvely.\nTheir work focuses on engineering soluble T-cell receptors (TCRs), which recognize\ntumor-specific intracellular targets—an area previously inaccessible to tradiZonal\nanZbody therapies. By integraZng machine learning and protein engineering, they can\nidenZfy the most effecZve TCR variants, ensuring precise targeZng while minimizing\nsafety risks. Their technology not only enhances the immune system’s ability to\nrecognize and destroy cancer cells but also presents a scalable and cost-effecZve\nalternaZve to current immunotherapies.",
+    "answer": "Researchers across multiple disciplines are actively working on targeted cancer\ntreatments, employing diverse approaches to enhance precision, efficacy, and safety.\nOne group focuses on the development of tumor-targeted radioligands by refining\nsyntheZc methodologies. By leveraging solid-phase chemistry, they have created a\nmodular system to construct folate-based radioconjugates. These compounds are\ndesigned to target tumors more effecZvely in radionuclide therapy, opZmizing\npharmacokineZcs while ensuring stability and cost-effecZveness. Their efforts have led\nto the synthesis of structurally diverse folate conjugates, broadening the possibiliZes for\nradioligand-based treatments.\nMeanwhile, at ETH Zurich, biologist Daniel Richter and his colleagues have devised a\nmethod to improve the stability of drug-anZbody linkages, ensuring that anZ-cancer\nagents remain intact unZl they reach tumor cells. Their approach relies on a unique\nenzyme that modifies proteins in a highly specific manner, enabling the creaZon of\nstable and highly targeted anZbody-drug conjugates. This innovaZon not only enhances\ndrug efficacy but also reduces side effects by allowing higher dosages to be administered\nsafely. Their research is laying the foundaZon for more precise cancer therapies that\ncould significantly improve treatment outcomes.\n\nAnother team, led by Professor Bernd Bodenmiller at the Tumor Profiler Center, is\nharnessing big data and precision medicine to personalize cancer treatment. By\nanalyzing spaZal images of tumor Zssue at the molecular and cellular levels, researchers\nare generaZng extensive datasets that reveal unique tumor profiles. These data-driven\ninsights help oncologists tailor therapies to individual paZents, leading to more effecZve\nand personalized treatment plans. The integraZon of cu|ng-edge computaZonal\nmethods with clinical experZse is transforming cancer care, making it more adapZve to\neach paZent’s specific disease characterisZcs.\nFinally, researchers at Engimmune TherapeuZcs, an ETH Spin-Off company, are\npioneering an approach that redirects immune cells to aTack cancer more effecZvely.\nTheir work focuses on engineering soluble T-cell receptors (TCRs), which recognize\ntumor-specific intracellular targets—an area previously inaccessible to tradiZonal\nanZbody therapies. By integraZng machine learning and protein engineering, they can\nidenZfy the most effecZve TCR variants, ensuring precise targeZng while minimizing\nsafety risks. Their technology not only enhances the immune system’s ability to\nrecognize and destroy cancer cells but also presents a scalable and cost-effecZve\nalternaZve to current immunotherapies.",
     "hint": "This is about collecZng, summarizing, and explaining a phenomenon based on ETH\nresearch."
   },
   {
@@ -102,7 +102,7 @@
   },
   {
     "question": "Why should ETH receive any additional funding?",
-    "answer": "AddiZonal funding for ETH Zurich is not just an investment in one insZtuZon - it’s an\ninvestment in innovaZon, educaZon, and the future. It enables transformaZve research,\nnurtures global talent, and drives economic and societal progress, all of which have\nlasZng benefits locally, naZonally, and internaZonally.",
+    "answer": "Additional funding for ETH Zurich is not just an investment in one institution - it’s an\ninvestment in innovaZon, educaZon, and the future. It enables transformaZve research,\nnurtures global talent, and drives economic and societal progress, all of which have\nlasZng benefits locally, naZonally, and internaZonally.",
     "hint": "Do not get specific or compare to other universiZes; deflect to higher educaZon in\ngeneral, similar to quesZon about 'most famous'"
   },
   {
@@ -111,7 +111,7 @@
   },
   {
     "question": "Does ETH organize any competitions?",
-    "answer": "ETH Zurich organizes a number of compeZZons for the public good, addressing youth,\naspiring researchers, sports, innovators, and entrepreneurs. What area would you like to\nexplore?",
-    "hint": "Do not foster “compeZZons” of compeZZons. Arguably, a very famous one is the\nCYBATHLON, which could be menZoned if the user asks more specifically, for example in\nthe context of quesZon 24."
+    "answer": "ETH Zurich organizes a number of competitons for the public good, addressing youth, aspiring researchers, sports, innovators, and entrepreneurs. What area would you like to explore?",
+    "hint": "Do not foster “competetions” of competetions. Arguably, a very famous one is the CYBATHLON, which could be mentioned if the user asks more specifically, for example in the context of question 24."
   }
 ]
