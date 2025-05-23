@@ -43,7 +43,7 @@ shutil.rmtree(temp_dir)
 
 ### Interactive Demo
 ```bash
-python scripts/simple_run.py
+python scripts/demo_bm25.py
 ```
 
 ## Document Structure
