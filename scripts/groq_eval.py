@@ -3,16 +3,16 @@ import json
 import requests
 import re
 
-# Configuration
-GROQ_API_KEY = "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"  # Replace with your actual API key
+# === Configuration ===
+GROQ_API_KEY = ""  # Replace with your actual API key
 MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"
 RESULTS_DIR = Path(__file__).resolve().parent.parent / "notebooks" / "bm25_results"
 
-OUTPUT_FILE = Path("groq_raw_answers.json")
+OUTPUT_FILE = Path("groq_top5_scores.json")
 # Ensure the output directory exists
 OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 
-# Function to call Groq LLM
+# === Groq LLM Request ===
 def ask_groq(question, reference, document_text):
     url = "https://api.groq.com/openai/v1/chat/completions"
     headers = {
@@ -52,9 +52,9 @@ Without any explanation, just the score.
     response.raise_for_status()
     return response.json()["choices"][0]["message"]["content"].strip()
 
-# Main function
-def store_groq_answers():
-    evaluations = []
+# === Run for top-5 documents per question ===
+def store_groq_top5_scores():
+    all_scores = []
 
     for file in RESULTS_DIR.glob("*.json"):
         with open(file, "r", encoding="utf-8") as f:
@@ -62,30 +62,38 @@ def store_groq_answers():
 
         question = entry["query"]
         reference = entry["reference_answer"]
-        top_result = entry["results"][0] if entry["results"] else None
-        if not top_result:
+        if not entry["results"]:
             continue
 
-        doc_text = top_result.get("main_content") or top_result.get("summary") or top_result.get("content_snippet", "")
+        scored_results = []
+        for i, res in enumerate(entry["results"][:5]):
+            doc_text = res.get("main_content") or res.get("summary") or res.get("content_snippet", "")
+            print(f"→ [{file.name}] Rank {i+1}")
 
-        print(f"→ Asking Groq for: {file.name}")
-        try:
-            response = ask_groq(question, reference, doc_text)
-        except Exception as e:
-            response = f"ERROR: {str(e)}"
+            try:
+                score_text = ask_groq(question, reference, doc_text)
+            except Exception as e:
+                score_text = f"ERROR: {str(e)}"
 
-        evaluations.append({
+            scored_results.append({
+                "rank": i + 1,
+                "title": res.get("title", ""),
+                "score": res.get("score", 0),
+                "document_text": doc_text,
+                "groq_response": score_text
+            })
+
+        all_scores.append({
             "file": file.name,
             "question": question,
             "reference_answer": reference,
-            "document_text": doc_text,
-            "groq_response": response
+            "results": scored_results
         })
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(evaluations, f, indent=2, ensure_ascii=False)
+        json.dump(all_scores, f, indent=2, ensure_ascii=False)
 
-    print(f"Saved all Groq responses to {OUTPUT_FILE}")
+    print(f"Saved all Groq top-5 scores to: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
-    store_groq_answers()
+    store_groq_top5_scores()
