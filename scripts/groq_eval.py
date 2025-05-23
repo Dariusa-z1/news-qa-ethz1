@@ -5,7 +5,7 @@ import re
 import time
 
 # === Configuration ===
-GROQ_API_KEY = "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"  # Replace with your actual API key
+GROQ_API_KEY = ""  # Replace with your actual API key
 MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"
 RESULTS_DIR = Path(__file__).resolve().parent.parent / "notebooks" / "bm25_results"
 
@@ -97,7 +97,7 @@ def store_groq_top5_scores():
             })
         # Pause after evaluating this full question (top-5 done)
         time.sleep(10)
-        
+
         all_scores.append({
             "file": file.name,
             "question": question,
