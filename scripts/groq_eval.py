@@ -97,7 +97,7 @@ def store_groq_top5_scores():
             })
         # Pause after evaluating this full question (top-5 done)
         time.sleep(10)
-
+        
         all_scores.append({
             "file": file.name,
             "question": question,
